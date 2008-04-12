@@ -1,0 +1,660 @@
+---
+title: "LEY DE CIENCIA, TECNOLOGIA E INNOVACION PARA EL ESTADO DE OAXACA - (ANTES LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE OAXACA) -"
+identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
+country: "mx"
+rank: "ley"
+publication_date: "2008-04-12"
+last_updated: "2008-04-12"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "61073"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "15 SEGUNDA SECCION"
+reform_count: "9"
+scjn_last_update: "2022-08-20"
+issue_date: "2008-03-27"
+state: "OAX"
+---
+# LEY DE CIENCIA, TECNOLOGIA E INNOVACION PARA EL ESTADO DE OAXACA - (ANTES LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE OAXACA) -
+
+LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE OAXACA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
+
+LIC. ULISES ERNESTO RUIZ ORTIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+
+QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+
+DECRETO NUM. 447
+
+LA SEXAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
+
+LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO PRIMERO. DE LA NATURALEZA Y OBJETO DE LA LEY
+
+###### ARTÍCULO 1.
+
+La presente Ley es de orden público e interés general y tiene como objeto establecer los mecanismos normativos y de coordinación de las diversas acciones públicas y privadas orientadas a promover el desarrollo científico y tecnológico del Estado; así como determinar el apoyo que éste otorga para impulsar, fomentar y desarrollar la investigación científica y tecnológica.
+
+###### ARTÍCULO 2.
+
+Para los efectos de la presente Ley, se entenderá por:
+
+I. CI. Centros, grupos y redes de Investigación;
+
+II. COCyT. Consejo Oaxaqueño de Ciencia y Tecnología;
+
+III. CONACyT. Consejo Nacional de Ciencia y Tecnología;
+
+IV. IES. Instituciones de Educación Superior;
+
+V. LEY. Ley de Ciencia y Tecnología para el Estado de Oaxaca;
+
+VI. PROGRAMA. Programa de Ciencia y Tecnología para el Estado de Oaxaca;
+
+VII. RECyT. Registro Estatal de Ciencia y Tecnología;
+
+VIII. RENIECyT. Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas;
+
+IX. SEP. Secretaría de Educación Pública; y
+
+X. SISTEMA. Sistema Estatal de Investigadores.
+
+###### ARTÍCULO 3.
+
+La presente Ley tiene los siguientes objetivos específicos:
+
+I. Establecer los principios y criterios que el Estado aplicará para impulsar y fortalecer las actividades científicas y tecnológicas que realicen personas o instituciones públicas, privadas o sociales;
+
+II. Determinar los instrumentos mediante los cuales el Gobierno del Estado apoyará la investigación científica y tecnológica;
+
+III. Establecer el Programa de Ciencia y Tecnología para el Estado de Oaxaca;
+
+IV. Crear el Fondo Estatal de Ciencia y Tecnología;
+
+V. Establecer los mecanismos para vincular la investigación científica y tecnológica con la educación en el Estado;
+
+VI. Estimular y reconocer la actividad científica y tecnológica; y
+
+VII. Generar mecanismos de vinculación entre los sectores productivos y sociales con la actividad científica y tecnológica de las instituciones de educación superior y centros de investigación, públicos y privados.
+
+###### ARTÍCULO 4.
+
+La aplicación y vigilancia de esta Ley estará a cargo del Titular del Poder Ejecutivo del Estado, a través del Consejo Oaxaqueño de Ciencia y Tecnología.
+
+### CAPÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES
+
+###### ARTÍCULO 5.
+
+El cumplimiento de los objetivos específicos de la presente Ley a cargo de los sectores público y privado en el Estado, se sujetará a los siguientes principios rectores:
+
+I. Las actividades de planeación de la investigación científica, el desarrollo y la innovación tecnológica, deberán apegarse a los procesos generales de planeación que establecen la presente Ley, la Ley de Planeación para el Estado de Oaxaca, el Plan Estatal de Desarrollo y las demás leyes aplicables;
+
+II. Los resultados de las actividades de investigación científica, desarrollo e innovación tecnológica, que sean objeto de apoyos en términos de esta Ley, serán invariablemente evaluados y tomados en cuenta para el otorgamiento de apoyos posteriores;
+
+III. La toma de decisiones, desde la determinación de políticas generales y presupuestales en materia de ciencia y tecnología, hasta las orientaciones de asignación de recursos a programas y proyectos específicos, se llevará a cabo con la participación de personas físicas y morales, particularmente aquellas dedicadas o vinculadas con actividades relacionadas con la materia;
+
+IV. Los instrumentos de apoyo a la ciencia y la tecnología, deberán procurar el desarrollo sistémico de la potencialidad científica y tecnológica del estado, buscando, asimismo, el crecimiento y la consolidación de las comunidades científica y académica en beneficio del desarrollo económico y social de la Entidad;
+
+V. Las políticas, instrumentos y criterios con los que se fomente y apoye la investigación científica, el desarrollo y la innovación tecnológica, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, así como motivar la participación y desarrollo de las nuevas generaciones de investigadores y tecnólogos;
+
+VI. La concurrencia de aportaciones de recursos públicos y privados, nacionales e internacionales, para la generación, ejecución y divulgación de programas y proyectos de enseñanza e investigación científica, desarrollo e innovación tecnológica, así como el fomento y formación de personal especializado en estas materias, se procurará conforme a las necesidades de desarrollo o consolidación que demande el Estado;
+
+VII. Se promoverá que el sector privado realice inversiones crecientes para la investigación científica, el desarrollo y la innovación tecnológica, mediante la creación de incentivos fiscales y de otros mecanismos de fomento;
+
+VIII. Las políticas y estrategias de apoyo al desarrollo científico y tecnológico, deberán ser periódicamente revisadas y actualizadas, conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como a su impacto en la solución de las necesidades del estado;
+
+IX. La selección de instituciones, programas, proyectos y personas destinatarias de los apoyos, se realizará mediante procedimientos de convocatoria y evaluación públicos, competitivos, transparentes, eficientes y equitativos, sustentados en méritos y calidad, y orientados con un claro sentido de responsabilidad social que favorezca el desarrollo del estado;
+
+X. Los instrumentos de apoyo respetarán irrestrictamente la libertad de investigación científica, desarrollo e innovación tecnológica, observando la regulación o limitaciones que determinen las disposiciones legales por motivos de seguridad, salud, ética, bioética, ambientales o de cualquier otra causa de interés público;
+
+XI. Las políticas y estrategias de apoyo para el desenvolvimiento sistémico de la ciencia y la tecnología, se formularán, integrarán y ejecutarán, procurando distinguir las actividades científicas de las tecnológicas, cuando ello sea pertinente;
+
+XII. La difusión y divulgación de la ciencia y la tecnología deberá orientarse a fortalecer la cultura científica y tecnológica en la sociedad;
+
+XIII. Las actividades de investigación científica, desarrollo e innovación tecnológica que realicen las personas físicas y morales de los sectores público y privado, se orientarán, preferentemente a identificar y resolver problemas y retos de interés general, contribuyendo significativamente al avance del conocimiento, mejorando la calidad de vida de la población con respeto al ambiente, y apoyando la formación de personal especializado en ciencia y tecnología;
+
+XIV. Los apoyos a las actividades de ciencia y tecnología deberán ser oportunos y suficientes, con el fin de garantizar la puntualidad y continuidad de las investigaciones en beneficio de sus resultados;
+
+XV. Las personas físicas y morales de los sectores público y privado que lleven a cabo actividades de ciencia y tecnología, que reciban apoyo del COCyT, deberán difundir y divulgar, entre la sociedad, sus actividades y los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes, y de la información que por razón de su naturaleza deba reservarse;
+
+XVI. Los incentivos que se otorguen deberán reconocer los logros sobresalientes de personas físicas y morales, de los sectores público y privado, que realicen investigación científica, desarrollo e innovación tecnológica, así como la vinculación de la investigación con las actividades educativas, productivas y sociales;
+
+XVII. La conservación, consolidación, actualización y crecimiento de la infraestructura de investigación y desarrollo existente, deberá estar orientada a facilitar el quehacer científico y tecnológico, así como la creación de nuevos centros de investigación científica, desarrollo e innovación tecnológica, cuando éstos sean necesarios;
+
+XVIII. La creación y fortalecimiento de espacios destinados a fomentar, difundir y divulgar la actividad científica y tecnológica, estarán orientados, preferentemente, a promover una cultura científica entre la niñez y la juventud; y
+
+XIX. Toda opinión, propuesta o sugerencia que emita la sociedad durante los procesos de consulta en materia de políticas y programas de investigación científica, desarrollo e innovación tecnológica, serán sistematizadas, evaluadas y consideradas en lo pertinente.
+
+## TÍTULO SEGUNDO. DEL CONSEJO OAXAQUEÑO DE CIENCIA Y TECNOLOGÍA
+
+### CAPÍTULO PRIMERO. DEL CONSEJO
+
+###### ARTÍCULO 6.
+
+El COCyT es un órgano desconcentrado de la Secretaría de Economía del Gobierno del Estado de Oaxaca, con autonomía técnica y de gestión.
+
+###### ARTÍCULO 7.
+
+El COCyT estará integrado de la siguiente manera:
+
+I. Por un Presidente que será el Titular del Poder Ejecutivo del Estado;
+
+II. Por un Secretario Ejecutivo, que será designado por el Presidente del COCyT, que deberá ser un profesional de reconocido prestigio en materia de investigación científica y/o tecnológica;
+
+III. Secretario de Finanzas, Vocal;
+
+IV. Secretario de Economía, Vocal;
+
+V. Secretario de Desarrollo Rural, Vocal;
+
+VI. Secretario de Salud, Vocal;
+
+VII. Director General del Instituto Estatal de Educación Pública del Estado de Oaxaca; Vocal;
+
+VIII. Coordinador del Comité Estatal de Planeación para el Desarrollo de Oaxaca, Vocal;
+
+IX. Director General del Instituto Estatal de Ecología, Vocal;
+
+X. Representante del CONACYT, Vocal;
+
+XI. Representante de la SEP en el Estado, Vocal;
+
+XII. Delegado Federal de la Secretaría de Economía en el estado, Vocal;
+
+XIII. Por el sector académico: Los Rectores de Universidades y Directores de instituciones de educación superior que realicen labores de investigación y estén inscritas en el RENIECyT y/o en el RECyT, Vocales;
+
+XIV. Por el sector social: Tres representantes de instituciones sociales, como cámaras patronales, fundaciones o asociaciones de profesionales, designados conforme al reglamento de la presente Ley, Vocales;
+
+XV. Tres representantes de las instituciones de investigación, propuestos por los rectores o directores de las instituciones de educación superior inscritas en el RENIECyT y/o en el RECyT conforme a lo que establezca el reglamento de la presente Ley, Vocales; y
+
+XVI. Secretario de la Contraloría, en carácter de Comisario.
+
+###### ARTÍCULO 8.
+
+El Consejo Oaxaqueño de Ciencia y Tecnología tendrá las funciones y atribuciones generales siguientes:
+
+I. Elaborar y ejecutar el Programa de Ciencia y Tecnología para el Estado de Oaxaca;
+
+II. Impulsar y fomentar el desarrollo científico y tecnológico en el Estado, tomando en cuenta los criterios que establece esta Ley;
+
+III. Promover la realización de los programas de investigación científica y tecnológica, vinculados a los objetivos de desarrollo económico y social en el Estado;
+
+IV. Promover mediante la investigación científica y tecnológica la búsqueda de mejores alternativas de solución a los problemas del desarrollo, y en su caso, la elaboración de los diagnósticos necesarios;
+
+V. Promover la capacitación, especialización y actualización de conocimientos en ciencia y tecnología, aprovechando al máximo los recursos de las instituciones de educación superior y centros de investigación en el Estado;
+
+VI. Promover y gestionar el otorgamiento de becas para estudios de educación superior en áreas científicas y tecnológicas en el país y en el extranjero;
+
+VII. Promover, crear y otorgar reconocimientos y estímulos al mérito de investigación, a instituciones, empresas e investigadores distinguidos por su desempeño sobresaliente en la materia;
+
+VIII. Fomentar y fortalecer la investigación científica y tecnológica, promoviendo acciones concertadas entre los sectores público y privado, instituciones de educación superior y centros de investigación;
+
+IX. Promover la creación, fortalecimiento y adecuada operación de laboratorios y centros de investigación de desarrollo tecnológico, a fin de que coadyuven con la certificación de la calidad, la normatividad y las especificaciones técnicas que establece la legislación aplicable;
+
+X. Fomentar el desarrollo de la ciencia y la tecnología, apoyando aquellos proyectos de investigación de personas físicas o morales, preferentemente del Estado, que reúnan los requisitos que establece el reglamento, debiendo destinar recursos dentro de su disponibilidad presupuestal que le apruebe el Congreso y mediante otras fuentes de financiamiento;
+
+XI. Promover la vinculación entre las instituciones de educación superior y centros de investigación y de éstas con los usuarios de los sectores público, privado y social, preferentemente del Estado;
+
+XII. Asesorar en la obtención de recursos para la realización de proyectos de ciencia y tecnología, a instituciones de educación superior, centros de investigación, Ayuntamientos y quien lo solicite;
+
+XIII. Coordinar y convenir con dependencias y organismos de la Administración Pública Federal, Estatal o Municipal, instituciones u organismos nacionales y extranjeros, para el cumplimiento de sus objetivos;
+
+XIV. Promover la publicación de aportaciones científicas y tecnológicas y fomentar la difusión de los trabajos y proyectos realizados por los investigadores estatales;
+
+XV. Operar el sistema estatal de información y documentación, destinados a la investigación científica y al desarrollo tecnológico del Estado;
+
+XVI. Promover la integración de bolsas de trabajo que permitan el mejor y mayor aprovechamiento de los investigadores y expertos en ciencia y tecnología, promoviendo incentivos fiscales y/o económicos a las empresas o instituciones oaxaqueñas que soliciten sus servicios;
+
+XVII. Apoyar en las gestiones para obtener la exención del pago de impuestos a la importación de equipo científico;
+
+XVIII. Gestionar y proponer la protección de áreas geográficas del territorio del Estado que sean de interés primordial para la investigación científica;
+
+XIX. Aprobar el proyecto de presupuesto correspondiente, así como autorizar la estructura administrativa necesaria para el cumplimiento de sus funciones, con apego a los principios generales de austeridad, racionalidad y control presupuestal;
+
+XX. Asesorar al Ejecutivo y Legislativo del Estado en materia de política de inversiones, destinada a proyectos de investigación científica y tecnológica, educación técnica y superior, y en general, para el desarrollo de la ciencia y la tecnología;
+
+XXI. Auxiliar y asesorar a las instituciones de educación y centros de investigación, en la elaboración de programas, intercambio de profesores e investigadores, sistemas de información y documentación;
+
+XXII. Elaborar y aprobar los reglamentos para el otorgamiento de apoyos, estímulos y reconocimientos a la investigación científica y tecnológica, así como la vigilancia en la aplicación de esos recursos;
+
+XXIII. Fomentar programas de movilidad de profesores, investigadores y técnicos estatales, nacionales y extranjeros, dentro de aquellos considerados prioritarios en el Programa;
+
+XXIV. Elaborar y aprobar el proyecto de reglamento que regule su funcionamiento y operación;
+
+XXV. Establecer las condiciones necesarias y suficientes para la permanencia en el Estado del capital humano formado con los recursos económicos del COCyT;
+
+XXVI. Promover incentivos fiscales y/o económicos que faciliten la vinculación entre los diversos sectores productivos con las instituciones de educación superior del Estado, con el fin de propiciar la investigación y el desarrollo tecnológico, así como la transferencia de tecnología; y
+
+XXVII. Las demás que establezca su propia normatividad reglamentaria.
+
+###### ARTÍCULO 9.
+
+El Titular del Poder Ejecutivo del Estado nombrará y removerá al Secretario Ejecutivo del COCyT, en quien recae la representación general y legal; y demás funciones que determine el reglamento.
+
+###### ARTÍCULO 10.
+
+Los cargos de los integrantes del COCyT son honoríficos, sin percibir remuneración alguna, con excepción del Secretario Ejecutivo, que será un cargo de tiempo completo.
+
+###### ARTÍCULO 11.
+
+Por cada miembro titular del COCyT habrá un suplente, mismo que será designado por el titular mediante oficio dirigido al Presidente.
+
+###### ARTÍCULO 12.
+
+Las sesiones del COCyT serán ordinarias y extraordinarias. Las primeras se celebrarán por lo menos tres veces al año preferentemente una en cada cuatrimestre y las segundas cuando las necesidades de toma de decisiones así lo requieran. El Presidente, por intermedio del Secretario Ejecutivo convocará a las sesiones y se encargará de llevar cuenta de los asuntos que se acuerden y la documentación que se genere.
+
+El COCyT sesionará validamente con la asistencia de, por lo menos, la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+
+### CAPÍTULO SEGUNDO. ÓRGANOS DE VIGILANCIA
+
+###### ARTÍCULO 13.
+
+La vigilancia del COCyT estará a cargo de la Secretaría de la Contraloría del Gobierno del Estado, en su carácter de Comisario, la cual será responsable de vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del COCyT.
+
+###### ARTÍCULO 14.
+
+Cuando la Secretaría de la Contraloría lo considere necesario, realizará la revisión de la documentación financiera del COCyT. Asimismo, podrá solicitar los avances de los reportes de quienes son beneficiados o patrocinados en sus proyectos de investigación científica, desarrollo e innovación tecnológica.
+
+## TÍTULO TERCERO. DEL FINANCIAMIENTO Y DE LOS FONDOS
+
+### CAPÍTULO PRIMERO. DEL FINANCIAMIENTO
+
+###### ARTÍCULO 15.
+
+El Ejecutivo del Estado aportará recursos destinados a financiar la realización de proyectos de investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de la ciencia y la tecnología. En el presupuesto anual del Poder Ejecutivo se contemplarán los recursos necesarios para el funcionamiento del COCyT.
+
+### CAPÍTULO SEGUNDO. DE LOS FONDOS
+
+###### ARTÍCULO 16.
+
+Para los efectos de financiamiento de las actividades científicas y tecnológicas a las que se refiere la presente Ley, podrán crearse fondos de ciencia y tecnología, debiendo precisar el instrumento jurídico que los constituya, tales como fideicomisos, convenios de coordinación o concertación, y cualquier figura prevista en otras disposiciones jurídicas aplicables; también se deberán precisar las reglas de su operación.
+
+El titular del Poder Ejecutivo del Estado dispondrá la inclusión del Secretario Ejecutivo del COCyT como Secretario Administrativo, Técnico o figura equivalente, en los fideicomisos u otros instrumentos jurídicos que se instituyan con relación al financiamiento de la ciencia y la tecnología.
+
+###### ARTÍCULO 17.
+
+El COCyT podrá celebrar convenios de colaboración con sus similares de las otras Entidades Federativas, con los Municipios del Estado, con instituciones de educación superior, sociales, productivas, fundaciones y asociaciones de profesionales nacionales e internacionales a fin de destinar fondos para proyectos de investigación científica y tecnológica que redunden en beneficio de las partes.
+
+###### ARTÍCULO 18.
+
+El objeto de los fondos será el otorgamiento de apoyos para el desarrollo de proyectos de investigación científica y tecnológica; equipo, instrumentos y materiales; becas y formación de recursos humanos especializados; proyectos de modernización, innovación y desarrollo tecnológicos; divulgación de la ciencia y la tecnología; así como para otorgar estímulos y reconocimientos a instituciones, empresas e investigadores y tecnólogos que destaquen en estas áreas.
+
+En ningún caso, los recursos que constituyen los fondos se destinarán a sufragar gastos que deriven de fines distintos a los enumerados en este artículo.
+
+###### ARTÍCULO 19.
+
+Tendrán derecho preferente a recibir los beneficios de los fondos, las instituciones, universidades, CI, laboratorios, empresas y los investigadores inscritos en el RENIECyT y/o en el RECyT que se encuentren domiciliados en la entidad.
+
+###### ARTÍCULO 20.
+
+La canalización de los recursos por parte del COCyT para proyectos de investigaciones específicas, otorgamiento de becas y cualquier otra ayuda de carácter económico que proporcione en cumplimiento de su objeto, estará sujeta a la celebración del instrumento jurídico correspondiente, a las disposiciones legales aplicables y a las siguientes condiciones:
+
+I. Deberá existir vigilancia para la debida aplicación y el adecuado aprovechamiento de los fondos que sean proporcionados;
+
+II. Los beneficiarios rendirán al COCyT, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos;
+
+III. La entrega de las remesas para el financiamiento de investigaciones de carácter científico y tecnológico, se realizarán de manera periódica y contra entrega de informes parciales de resultados, en los términos que establezca el reglamento; y
+
+IV. Los derechos de propiedad industrial o intelectual, respecto de los resultados obtenidos por las personas físicas o jurídicas que reciban ayuda del COCyT, serán materia de regulación específica en los instrumentos jurídicos que al efecto se celebren, en los que se estipularán condiciones de equidad.
+
+###### ARTÍCULO 21.
+
+Los fondos a que se refiere este Capítulo contarán con un comité técnico y de administración, se regirán por el presente Ordenamiento y, además, podrán tener las siguientes modalidades:
+
+I. Los institucionales;
+
+II. Los sectoriales;
+
+III. Los internacionales; y
+
+IV. Los mixtos.
+
+###### ARTÍCULO 22.
+
+Los fondos institucionales son los recursos que los gobiernos federal, estatal y municipales otorguen al COCyT para fomentar, impulsar, desarrollar y fortalecer la investigación científica y tecnológica en la Entidad.
+
+###### ARTÍCULO 23.
+
+Los fondos sectoriales son aquellos recursos que se obtengan a través de la firma de convenios entre el COCyT y las dependencias y entidades de la administración pública federal, estatal y municipales; éstos se destinarán exclusivamente a la realización de investigaciones científicas y tecnológicas que requiera el sector de que se trate.
+
+Los recursos de estos fondos deberán provenir del presupuesto autorizado para ese efecto a la dependencia o entidad interesada; éstos serán aplicables durante la subsistencia del convenio y no tendrán carácter de regularizables. Asimismo, podrán integrarse con aportaciones complementarias del sector privado.
+
+###### ARTÍCULO 24.
+
+Los fondos internacionales son los recursos que provengan de convenios de cooperación internacional, que se establezcan en los términos específicos celebrados.
+
+###### ARTÍCULO 25.
+
+Los fondos mixtos son aquellos recursos que se convengan entre el Ejecutivo del Estado, a través del COCyT, y alguna otra entidad o dependencia federal, estatal o municipal y/o el CONACyT. El Ejecutivo del Estado garantizará la aportación y el aseguramiento de los recursos propuestos para fondos mixtos.
+
+###### ARTÍCULO 26.
+
+El COCyT será la entidad autorizada para dictaminar y resolver sobre aspectos científicos y tecnológicos, así como de los contenidos de los convenios de desempeño y sobre la periodicidad de la evaluación de los proyectos.
+
+Por acuerdo del COCyT y cuando así se considere necesario, las solicitudes de apoyo para el financiamiento de investigaciones en materia científica y tecnológica, podrán ser evaluadas por organismos o científicos externos.
+
+## TÍTULO CUARTO. INSTRUMENTOS DE APOYO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+### CAPÍTULO PRIMERO. DEL PROGRAMA DE CIENCIA Y TECNOLOGÍA
+
+###### ARTÍCULO 27.
+
+El Programa será elaborado con objetivos de corto, mediano y largo plazo con base en las propuestas que presenten las dependencias, organismos públicos de la administración pública estatal y municipal; los organismos del sector privado, productivo y social; las comunidades académica, científica y tecnológica; las instituciones de educación superior públicas y privadas, los centros de investigación públicos y privados, y las personas físicas y morales que apoyen o realicen investigación científica y desarrollo tecnológico.
+
+El Programa será evaluado y actualizado anualmente por el COCyT.
+
+###### ARTÍCULO 28.
+
+El Programa se elaborará conforme a las políticas establecidas en el Plan Estatal de Desarrollo y el Plan Nacional de Desarrollo en la materia, y deberá contener, cuando menos:
+
+I. La política general en ciencia y tecnología que identifique las áreas o sectores prioritarios para el Estado;
+
+II. Los principios y valores éticos que deberán promover y preservar las instituciones e investigadores en la actividad científica.
+
+III. Diagnósticos, políticas, estrategias y acciones en lo que respecta a:
+
+a) Investigación científica y tecnológica;
+
+b) Innovación, transferencia de tecnología y desarrollo tecnológico;
+
+c) Formación de investigadores, tecnólogos y profesionistas de alto nivel;
+
+d) Vinculación de la ciencia y tecnología con otros ámbitos;
+
+e) Promoción en su caso, de programas y proyectos con enfoque y recursos binacionales e internacionales, que estimulen las actividades y productividad científicas en Oaxaca; y
+
+f) Difusión del conocimiento científico y tecnológico;
+
+IV. Las áreas y líneas de investigación científica y tecnológica que se consideren prioritarias;
+
+V. Las estrategias y mecanismos de financiamiento complementario; y
+
+VI. Los mecanismos de evaluación y seguimiento.
+
+### CAPÍTULO SEGUNDO. DEL REGISTRO ESTATAL DE CIENCIA Y TECNOLOGÍA
+
+###### ARTÍCULO 29.
+
+El RECyT tendrá como objetivo, facilitar la colaboración para realizar y optimizar el desarrollo de investigaciones individuales, interdisciplinarias e interinstitucionales.
+
+El RECyT estará integrado con la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia y la tecnología en general, como instrumento para desarrollar de manera armónica y sustentable las capacidades científicas y tecnológicas del Estado.
+
+El registro será accesible al público en general, sin perjuicio de los derechos de propiedad industrial e intelectual y los criterios de confidencialidad que al efecto se establezcan.
+
+###### ARTÍCULO 30.
+
+Para conformar el RECyT se incluirán los siguientes rubros:
+
+I. CI e Instituciones;
+
+II. Equipos de investigadores;
+
+III. Investigadores individuales;
+
+IV. Infraestructura y equipos;
+
+V. Proyectos en proceso y terminados;
+
+VI. Patentes;
+
+VII. Fuentes de información científica tales como videotecas, bibliotecas, hemerotecas, material en formatos electrónicos, entre otros;
+
+VIII. Publicaciones y eventos; y
+
+IX. Financiamiento.
+
+###### ARTÍCULO 31.
+
+El COCyT será el encargado de operar el RECyT y vigilar su funcionamiento, a través de la Secretaría Ejecutiva, auxiliado por un comité de expertos en la materia, garantizando que en el proceso de su integración se apliquen los principios de transparencia, legalidad y equidad.
+
+###### ARTÍCULO 32.
+
+El RECyT tendrá como objetivos:
+
+I. Establecer los mecanismos y criterios certificadores que permitan evaluar y otorgar el reconocimiento a investigadores y/o empresas;
+
+II. Establecer los requisitos que deberán reunir quienes se inscriban al Registro;
+
+III. Otorgar el número de registro a investigadores y/o empresas; y;
+
+IV. Promover e impulsar la actividad científica y tecnológica de los CI en el Estado, propiciando la formación de nuevos que coadyuven al desarrollo de la entidad, así como la consolidación de los existentes.
+
+Estos registros deberán publicarse una vez aprobados por el COCyT, quien tomará en consideración de los investigadores y/o empresas, su registro para el otorgamiento de becas, recursos y estímulos.
+
+### CAPÍTULO TERCERO. DEL SERVICIO DE INFORMACIÓN Y DOCUMENTACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+###### ARTÍCULO 33.
+
+Se instituye el Servicio de Información y Documentación Científica y Tecnológica a cargo del COCyT, quien lo administrará a través de la Secretaría Ejecutiva y lo mantendrá actualizado.
+
+El Sistema será accesible al público, excepto los derechos de propiedad industrial e intelectual y los criterios de confidencialidad que al efecto se establezcan.
+
+###### ARTÍCULO 34.
+
+La base electrónica de datos con que operará el Servicio, deberá contener información de carácter e interés estatal, y comprenderá al menos, los siguientes aspectos:
+
+I. El Padrón Estatal de Investigadores;
+
+II. La infraestructura destinada a la ciencia y la tecnología en la Entidad;
+
+III. El equipamiento especializado para realizar actividades de ciencia y tecnología;
+
+IV. La producción editorial que en la materia circule;
+
+V. Las líneas de investigación científica, desarrollo e innovación tecnológica prioritarias a desarrollar;
+
+VI. Los proyectos de investigación científica, desarrollo e innovación tecnológica en proceso;
+
+VII. Las fuentes de financiamiento a los programas y proyectos que estén dentro de las líneas de investigación científica, desarrollo e innovación tecnológica prioritarias;
+
+VIII. Los servicios proporcionados por los organismos, dependencias, instituciones de educación superior y centros de investigación y divulgación de la ciencia y la tecnología;
+
+IX. El gasto en programas y proyectos de investigación, desarrollo, innovación y divulgación, que se realicen en la Entidad; y
+
+X. Las fuentes de información y documentación en materia de ciencia y tecnología.
+
+###### ARTÍCULO 35.
+
+El COCyT podrá convenir acciones conjuntas con los gobiernos federal, estatal y municipales, así como con las personas físicas y morales de los sectores público y privado, nacional e internacional para la consolidación y el fortalecimiento del Sistema.
+
+Las dependencias de la Administración Pública del Estado de Oaxaca, colaborarán con el COCyT en la conformación y operación del Sistema.
+
+Las personas físicas y morales que reciban apoyo financiero deberán proporcionar la información básica que se les requiera, excepto la que por derecho de propiedad industrial e intelectual y los criterios de confidencialidad que al efecto se establezcan, deba ser reservada.
+
+###### ARTÍCULO 36.
+
+El Poder Ejecutivo del Estado, con el propósito de mantener actualizado el Servicio, podrá a través del COCyT, convenir o acordar con los diferentes órdenes de gobierno, compartir la información científica y tecnológica que posean, respetando siempre lo reservado en la legislación correspondiente.
+
+###### ARTÍCULO 37.
+
+En el Reglamento de esta Ley se preverá lo relativo al funcionamiento del Servicio de Información y Documentación Científica y Tecnológica.
+
+La normatividad preverá lo necesario para que el Servicio de Información y Documentación Científica y Tecnológica sea un instrumento que coadyuve a la vinculación entre la investigación y sus formas de aplicación y promueva la modernización y la competitividad del sector productivo.
+
+###### ARTÍCULO 38.
+
+Para la determinación de las actividades que deban considerarse de desarrollo e innovación tecnológica, el COCyT solicitará la opinión de las instancias, dependencias o entidades que considere conveniente.
+
+### CAPÍTULO CUARTO. DEL SISTEMA ESTATAL DE INVESTIGADORES
+
+###### ARTÍCULO 39.
+
+Se crea el Sistema Estatal de Investigadores de Oaxaca, que tendrá como objetivos:
+
+I. Reconocer la labor de los investigadores de la Entidad, en materia de investigación científica, desarrollo e innovación tecnológica, formación de recursos humanos, difusión, divulgación y obtención de financiamiento, entre otras;
+
+II. Promover e impulsar la actividad científica y tecnológica en el Estado, propiciando la consolidación de los investigadores existentes y la formación de nuevos que coadyuven al desarrollo de la entidad;
+
+III. Facilitar a los investigadores la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación científica, desarrollo e innovación tecnológica;
+
+IV. Promover la investigación científica, el desarrollo y la innovación tecnológica que se realiza en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa; y
+
+V. Apoyar la integración de grupos de investigadores en la Entidad que participen en el proceso de generación de conocimientos científicos y tecnológicos, hasta su aplicación en la planta productiva de bienes y servicios.
+
+###### ARTÍCULO 40.
+
+Podrán formar parte del Sistema Estatal de Investigadores todas aquellas personas que realicen actividades de investigación científica, desarrollo e innovación tecnológica, cuya labor cumpla con lo estipulado en el Reglamento Interno del propio Sistema Estatal de Investigadores y las bases que se emitan para el otorgamiento de los reconocimientos.
+
+###### ARTÍCULO 41.
+
+El COCyT operará el Sistema Estatal de Investigadores y vigilará su funcionamiento, garantizando en el proceso de instrumentación, principios de legalidad, equidad y transparencia.
+
+### CAPÍTULO QUINTO. DE LOS ESTÍMULOS A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+###### ARTÍCULO 42.
+
+Los premios estatales de ciencia y tecnología y de reconocimiento a la innovación, tendrán como objeto reconocer y estimular la investigación y el desarrollo científico y tecnológico en la Entidad, así como su influencia en la obtención de altos estándares de calidad, productividad y competitividad. También para apoyar la promoción y difusión de los proyectos respectivos y destacar que han sido realizados, según el caso, por el científico o tecnólogo, o equipos de científicos o tecnólogos del Estado; o que radiquen en la Entidad, y cuya obra en estos campos se haga acreedora a tal distinción.
+
+Los premios serán entregados anualmente por el monto que determine el COCyT, con base en los recursos que se determinen en su presupuesto y con las aportaciones que para el efecto reciba de las instituciones vinculadas con él, así como de los sectores público, social o privado.
+
+Las bases y términos a que se someterán los candidatos, serán establecidas por el COCyT en la convocatoria que formule, asegurando que en el jurado calificador participen mayoritariamente distinguidos investigadores y tecnólogos de los campos del conocimiento motivo de la investigación.
+
+###### ARTÍCULO 43.
+
+El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica tecnológica, y procurará apoyos para que la actividad de investigación de dichos individuos contribuya a mantener y fortalecer la calidad de la educación y de la industria.
+
+Los estímulos y reconocimientos que el Gobierno Estatal otorgue a los académicos por su labor de investigación científica y tecnológica, también propiciarán y reconocerán la labor docente de quienes los reciban.
+
+## TÍTULO QUINTO. DE LA VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
+
+### CAPÍTULO PRIMERO. DE LA VINCULACIÓN DE LA CIENCIA Y TECNOLOGÍA CON EL DESARROLLO SOCIAL Y ECONÓMICO
+
+###### ARTÍCULO 44.
+
+La investigación científica y tecnológica realizada en el Estado de
+
+Oaxaca buscará contribuir significativamente a solucionar los problemas de la entidad en materia de desarrollo regional, salud, vivienda, educación, deporte, recreación, cultura, medio ambiente, y todos aquellos que repercuten en las condiciones de vida de la población.
+
+Las IES y el COCyT, establecerán los mecanismos de vinculación, coordinación y colaboración necesarios para apoyar conjuntamente los estudios de postgrado, poniendo atención especial al incremento de su calidad; la formación y consolidación de grupos académicos de investigación, y la investigación científica en todas las áreas del conocimiento y el desarrollo tecnológico.
+
+###### ARTÍCULO 45.
+
+Con el objeto de vincular la investigación con la educación, los CI y las IES, promoverán a través de sus ordenamientos internos, que sus académicos docentes e investigadores, participen en actividades de enseñanza frente a grupo, tutorías, investigación o aplicación innovadora del conocimiento.
+
+###### ARTÍCULO 46.
+
+La incidencia de la ciencia y la tecnología en el desarrollo sociocultural y económico se desarrollará a través de cuatro mecanismos de inducción: programación, financiamiento, formación de recursos humanos y estímulos, bajo la coordinación del COCyT.
+
+###### ARTÍCULO 47.
+
+El Gobierno del Estado promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles de la educación, principalmente en la educación básica.
+
+### CAPÍTULO SEGUNDO. DE LA VINCULACIÓN DE LA INVESTIGACIÓN CON EL SECTOR PRODUCTIVO
+
+###### ARTÍCULO 48.
+
+La investigación apoyará el desarrollo económico integral del Estado en beneficio de su población en general. Para este objeto, el COCyT promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con los procesos productivos, comerciales y financieros de la entidad, mediante la gestión de recursos para apoyar la modernización, innovación, transferencia y desarrollo tecnológico de dichos procesos.
+
+###### ARTÍCULO 49.
+
+El COCyT promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con el sector productivo de la entidad, de igual manera apoyará mediante asesoría y gestión la creación y consolidación de empresas de base tecnológica en el estado.
+
+### CAPÍTULO TERCERO. DE LA DIVULGACIÓN Y DIFUSIÓN DE LA INVESTIGACIÓN
+
+###### ARTÍCULO 50.
+
+El COCyT promoverá programas de divulgación y difusión de la investigación científica y tecnológica, en donde participen los sectores público, social y privado, para fortalecer y consolidar la cultura científica de la sociedad.
+
+Apoyará la realización de actividades permanentes de divulgación, mediante la producción de materiales y la creación de un órgano de difusión.
+
+###### ARTÍCULO 51.
+
+El COCyT propiciará y garantizará la participación permanente de las dependencias y organismos de la administración pública en la realización de actividades orientadas a la difusión y divulgación de la ciencia y la tecnología, utilizando los medios de comunicación más adecuados.
+
+###### ARTÍCULO 52.
+
+Para efectos del artículo anterior en el ámbito de su competencia las instituciones, empresas, entidades y dependencias que realicen actividades en la materia, ejecutarán las siguientes acciones:
+
+I. Promoverán la conservación, consolidación, actualización y desarrollo de la infraestructura destinada a difundir y divulgar materiales especializados en materia de ciencia y tecnología, así como la transferencia de información, a través de las telecomunicaciones y medios informáticos, con el fin de poner al alcance de la comunidad científica y el público, información actualizada y de calidad;
+
+II. Fomentarán la organización y realización de actos académicos y científicos que propicien el intercambio de información, el contacto con especialistas y el desarrollo del conocimiento;
+
+III. Promoverán la creación de programas y espacios formativos, recreativos e interactivos, así como consolidar los existentes, con objeto de fomentar en la población el interés por la formación científica, preferentemente entre la niñez y la juventud;
+
+IV. Promoverán la producción, difusión y divulgación del conocimiento generado por organismos, instituciones y personas dedicadas al desarrollo de actividades científicas y tecnológicas; y
+
+V. Las demás que de acuerdo con el Programa se requiera realizar.
+
+### CAPÍTULO CUARTO. DE LA VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
+
+###### ARTÍCULO 53.
+
+Las dependencias y entidades de la Administración Pública Estatal, instituciones de educación superior, así como centros de ciencia y tecnología, en sus respectivos ámbitos de competencia, promoverán el desarrollo y la innovación tecnológica. Para tal efecto, el COCyT deberá establecer mecanismos eficientes y funcionales para vincularse con los sectores productivo y de servicios.
+
+###### ARTÍCULO 54.
+
+El proceso de vinculación deberá ser interinstitucional e interdisciplinario. En dicho proceso se buscará la coordinación de esfuerzos conjuntos en materia de ciencia y tecnología, considerando la problemática estatal.
+
+###### ARTÍCULO 55.
+
+Para la creación y operación de los instrumentos de fomento a que se refiere esta Ley, se concederá prioridad a los programas y proyectos cuyos propósitos sean el desarrollo y la innovación tecnológica, vinculados con empresas o entidades usuarias de la tecnología.
+
+De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, más eficiente y ecológicamente sustentable de los recursos naturales, así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
+
+###### ARTÍCULO 56.
+
+Para otorgar apoyo a las actividades de investigación científica, desarrollo e innovación tecnológica a que se refiere este capítulo el COCyT solicitará, de ser necesario, una declaración formal de interés en la aplicación de la tecnología, expresada por el o los potenciales usuarios.
+
+###### ARTÍCULO 57.
+
+Los apoyos a que se refiere el artículo anterior se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del programa o proyecto, y se sostendrán hasta el momento en que se demuestre o no la viabilidad técnica y económica del mismo.
+
+T R A N S I T O R I O S:
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se instruye a las Secretarías de Administración, Finanzas y Economía para realizar los trámites administrativos y presupuestales necesarios a efecto de que en un término no mayor a 120 días se instale y funcione el COCyT.
+
+TERCERO.- Dentro de los 120 días siguientes a la entrada en vigor de la presente, el Titular del Poder Ejecutivo del Estado expedirá el Reglamento de la Ley de Ciencia y Tecnología para el Estado de Oaxaca y nombrará a las autoridades a las que se refiere la misma.
+
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+
+DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San
+
+Raymundo Jalpan, Centro, Oax., 20 de marzo de 2008.
+
+DIP. JOSE ANTONIO YGLESIAS ARREOLA
+
+PRESIDENTE
+
+DIP. SILVIA ESTELA ZÁRATE GONZÁLEZ.
+
+SECRETARIA
+
+DIP. DANIEL GURRIÓN MATÍAS.
+
+SECRETARIO
+
+Por lo tanto mando que se imprima, publique circule y se le dé el debido cumplimiento.
+
+Oaxaca de Juárez, Oax., a 27 de marzo del 2008.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ULISES ERNESTO RUIZ ORTIZ
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+ING. TEOFILO MANUEL GARCÍA CORPUS
+
+Y lo comunico a usted, para su conocimiento y fines consiguientes
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN
+
+"EL RESPETO AL DERECHO AJENO ES LA PAZ"
+
+Oaxaca de Juárez, Oax., a 27 de marzo del 2008
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+ING. TEOFILO MANUEL GARCÍA CORPUS
