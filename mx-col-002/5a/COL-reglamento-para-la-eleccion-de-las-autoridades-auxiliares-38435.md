@@ -4,7 +4,7 @@ identifier: "COL-reglamento-para-la-eleccion-de-las-autoridades-auxiliares-38435
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-31"
-last_updated: "2004-01-31"
+last_updated: "2008-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "COL"
 
 REGLAMENTO PARA LA ELECCION DE LAS AUTORIDADES AUXILIARES DEL MUNICIPIO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 31 de enero de 2004.
 
@@ -310,3 +312,33 @@ TERCERO.- Por esta única ocasión, las autoridades auxiliares deberán ser elec
 CUARTO.- Publíquese y obsérvese.
 
 Dado en el Salón de Cabildos del Honorable Ayuntamiento de Colima, a los 21 días del mes de Enero de 2004. C.P. LEONCIO A. MORAN SANCHEZ, Presidente Municipal. Rúbrica. L.A.E. SALVADOR CARDENAS MORALES, Secretario del H. Ayuntamiento. Rúbrica. C. ENRIQUE SILVA ALCARAZ, Síndico. Rúbrica. LIC. GLADYS Z. RODRIGUEZ DE LA ROSA, Regidora. Rúbrica. LIC. LAURA ROCHA PEREZ, Regidora. Rúbrica. ARQ. ANTONIO ANDRADE GUZMAN, Regidor. Rúbrica. ARQ. MA. DEL ROCIO APOLINAR ACEVEDO, Regidora. Rúbrica. LIC. JOSE ANGEL BECERRA SAINZ, Regidor. Rúbrica. PROFR. MARCO ANTONIO LEPE ANZAR, Regidor. Rúbrica. LIC. ROBERTO CHAPULA DE LA MORA, Regidor. Rúbrica. LIC. RUBEN PEREZ ANGUIANO, Regidor. Rúbrica. MARTHA ARTEMIZA CRUZ ALCARAZ, Regidora. Rúbrica. MTRO. RAMON LEON MORALES. Regidor. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento General del Municipio de Colima aprobado en Sesión Extraordinaria de Cabildo celebrada el 15 de marzo de 2002 y publicado en el Periódico Oficial "El Estado de Colima" el 6 de abril de 2002, así como las demás normas reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento para la Elección de las Autoridades Auxiliares del Municipio de Colima aprobado en Sesión de Cabildo celebrada el 21 de enero de 2004 y publicado en el Periódico Oficial "El Estado de Colima" el 31 de enero de 2004, así como las demás normas reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto no entre en vigor la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios, publicada en el Periódico Oficial "El Estado de Colima" el 09 de febrero de 2008, queda subsistente el Capítulo de los Recursos contenido en la Ley Orgánica del Municipio Libre del Estado de Colima, expedida por el Congreso del Estado, mediante decreto No. 58, el 12 de enero de 1995 y publicado en el mismo medio de difusión el 14 del mismo mes y año, lo anterior con la finalidad de que los particulares estén en posibilidad de combatir los actos que se deriven de la aplicación del presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Con la aprobación del presente Reglamento se autoriza las transferencias de las partidas presupuestales correspondientes de una dependencia a otra según sea el caso, mismas que fueron aprobadas en el presupuesto de egresos para el ejercicio fiscal 2008.
+
+Con motivo de la restructuración de los órganos y dependencias de la administración pública municipal centralizada, se acuerda que al no existir las condiciones económicas financieras durante el presente ejercicio fiscal no habrá ningún incremento que afecte las finanzas municipales.
+
+###### ARTÍCULO SEXTO.
+
+En tanto el Ayuntamiento no asuma la función de la seguridad pública en el Municipio y, por tanto, no ejerza el mando de la policía preventiva municipal, continuarán vigentes la estructura orgánica administrativa y las funciones que desempeña a la fecha la Dirección General de Tránsito y Vialidad.
