@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-7835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2008-02-23"
+last_updated: "2008-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 8 de febrero de 1995.
 
@@ -2201,29 +2201,45 @@ El funcionamiento de los establecimientos a que se refiere el Artículo 223 de e
 
 ### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Art. 226.
 
-Para los efectos de esta Ley, se entiende por peluquería, salones de belleza, establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas de manos y pies, la aplicación de tratamientos de belleza y uso de tatuajes para delineado permanente de cejas, labios y ojos de la población que demande estos servicios.
+Para los efectos de esta Ley, se entiende por peluquería, salones de belleza; establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas de manos y pies, la aplicación de tratamientos de belleza y uso de tatuajes o micro pigmentaciones para delineado temporal y/o permanente, de cejas, labios y ojos de la población que demande estos servicios.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 Art. 226 bis.- Los establecimientos referidos en el artículo anterior que utilicen instrumentos tales como: navajas, máquinas de rasurar o de corte de cabello y agujas, deben mantener los mismos, en mobiliarios protegidos de agentes contaminantes y se deberán desinfectar previamente por cada cliente, por medios físicos y químicos; en caso de navajas, se utilizarán desechables.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
-Art. 226 bis 1. Los centros de tatuaje y perforación se definen como los establecimientos dedicados a la aplicación de pigmentación en la piel de manera temporal o permanente, así como la perforación en diferentes partes del cuerpo. Se exceptúa de lo anterior, los casos señalados en las disposiciones reglamentarias que al efecto se expidan.
+Art. 226 bis 1.- Los centros de tatuaje, perforación y micro pigmentación, se definen, como los establecimientos dedicados a la aplicación de pigmentación en la piel, de manera temporal o permanente, así como la perforación en diferentes partes del cuerpo y a la aplicación de pigmentos en áreas especificas de la piel humana, bajo la epidermis y/o en la capa papilar de la dermis de manera temporal o permanente. Se exceptúa de lo anterior, los casos señalados en las disposiciones reglamentarias que al efecto se expidan.
 
-La aplicación de tatuajes o perforaciones con fines estéticos, solo se podrá efectuar en lugares debidamente establecidos y autorizados previamente por la autoridad sanitaria y deberá cumplir con las disposiciones reglamentarias y demás normas que al efecto se emitan. Queda estrictamente prohibido la aplicación de tatuajes o perforaciones de manera ambulante o en lugares no autorizados.
+La aplicación de tatuajes, perforaciones o micro pigmentaciones, con fines estéticos, solo se podrá efectuar en lugares debidamente establecidos y autorizados previamente por la autoridad sanitaria y deberá cumplir con las disposiciones reglamentarias y demás normas que al efecto se emitan. Queda estrictamente prohibida la aplicación de tatuajes, perforaciones o micro pigmentaciones de manera ambulante o en lugares no autorizados.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
-Art. 226 bis 2. Para la instalación de los establecimientos donde se apliquen tatuajes y realicen perforaciones, deberá efectuarse la solicitud correspondiente ante la autoridad sanitaria, adjuntando la siguiente documentación: Formato de carta-consentimiento bajo información, en donde se describa los riesgos que con motivo de los tatuajes se pueden presentar, formato de aviso al público en donde se les informa a los usuarios de la descripción del material a utilizar y que el tatuaje es indeleble e irreversible; que no se puede aplicar a menores de 18 años y que representa un riesgo para la salud.
+Art. 226 bis 2.- Para la instalación de los establecimientos donde se apliquen tatuajes, perforaciones y realicen micro pigmentaciones, deberá efectuarse la solicitud correspondiente ante la autoridad sanitaria, adjuntando la siguiente documentación: Formato de carta consentimiento bajo información, en donde se describa los riesgos que con motivo de los tatuajes, perforación y micro pigmentación se pueden presentar; formato de aviso al público en donde se les informa a los usuarios de la descripción del material a utilizar y que el tatuaje o micro pigmentación es indeleble e irreversible, representa un riesgo para la salud y no puede aplicarse a menores de 18 años, excepto lo establecido el articulo 226 Bis 3.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+La violación de ésta disposición conllevará a la revocación definitiva de la autorización respectiva, independientemente de las sanciones establecidas en esta ley y de las penas que correspondan cuando sean constitutivas de delitos.
 
-Art. 226 bis 3.- La realización de las perforaciones y tatuajes no deberá efectuarse a personas menores de edad, a personas con acné moderado o grave; a quienes sean alérgicos al níquel o a la bisutería; a diabéticos; a quienes padezcan enfermedades hemolíticas; a inmunodeprimidos, epilépticos y a toda persona enferma que sea susceptible a complicarse por esta causa, además deberán comprobar el contenido del material y observar las normas básicas de higiene.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
+
+Art. 226 bis 3.- Queda prohibido realizar, tatuajes, perforaciones y micro pigmentaciones a personas menores de edad excepto cuando los menores de 18 años estén acompañados de uno de sus padres o tutor previa acreditación de tal carácter o en su caso con la autorización por escrito, o a quienes la disposición reglamentaria lo prevea.
+
+Queda prohibido la administración de medicamentos, antes, durante y después del procedimiento del tatuaje o perforación, si no está prescrito por un médico.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2008)</small>
+
+###### Art. 226 Bis 4.
+
+Para los efectos de esta ley se entenderá por:
+
+Tatuador: Persona que graba dibujos, figuras o marcas en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otro instrumento por la (sic) punzadas previamente dispuestas.
+
+Perforador: Persona que introduce algún objeto decorativo de material de implantación hipoalergénico en la piel o mucosa con un instrumento punzo cortante.
+
+Micropigmentador: Persona que deposita pigmentos en áreas específicas de la piel humana, bajo la epidermis, en la capa papilar de la dermis con agujas accionadas mediante un instrumento manual o electromecánico.
 
 ###### Art. 227.
 
@@ -3138,3 +3154,9 @@ Artículo Cuarto.- De igual manera el Ejecutivo Estatal y los ayuntamientos debe
 P.O. 23 DE FEBRERO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 12 DE ABRIL DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
