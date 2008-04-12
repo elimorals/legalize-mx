@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-23700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2008-03-13"
+last_updated: "2008-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -431,9 +431,15 @@ II. Cuando el alumno no cumpla con la entrega de documentos oficiales en el plaz
 
 III. Cuando el alumno notifique que no regresará a estudiar a la Institución y retira sus documentos de la misma;
 
-IV. Por reprobación de tres o más asignaturas en el periodo ordinario o una asignatura en extraordinario, siempre y cuando tampoco apruebe la evaluación de Última Asignatura o no tenga derecho a ella; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+
+IV. Por reprobación de tres o más asignaturas en el periodo ordinario, o una asignatura en extraordinario, siempre y cuando no tenga derecho a presentar evaluación de Última Asignatura;
 
 V. Por actos cometidos en contra de la disciplina según lo establecido en el capitulo de sanciones del presente reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2008)</small>
+
+En caso de obtener calificación reprobatoria en la evaluación de Última Asignatura y quiera recurrir al beneficio que le otorga el segundo párrafo del artículo 42 del Reglamento de Evaluación y Acreditación, se considerará baja temporal.
 
 ### CAPÍTULO NOVENO. DE LAS DISTINCIONES ACADÉMICAS
 
@@ -600,3 +606,7 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 P.O. 13 DE MARZO DE 2008.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 12 DE ABRIL DE 2008.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
