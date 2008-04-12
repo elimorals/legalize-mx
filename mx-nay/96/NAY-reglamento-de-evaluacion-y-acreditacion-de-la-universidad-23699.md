@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-evaluacion-y-acreditacion-de-la-universidad-23699
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2007-01-10"
+last_updated: "2008-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE EVALUACION Y ACREDITACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -217,7 +217,7 @@ I.- Cuando el alumno no acredite una o más unidades de aprendizaje comprendidas
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2006)</small>
 
-II.- Cuando el alumno no haya presentado la Evaluación Ordinaria teniendo derecho a ella, previa justificación por escrito del Director de Carrera y del Tutor de Grupo;
+II.- Cuando el alumno no haya presentado la Evaluación Ordinaria teniendo derecho a ella, previa justificación por escrito del Director de Carrera y del Tutor de Grupo.
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2006)</small>
 
@@ -229,11 +229,11 @@ III.- Cuando el alumno haya perdido el derecho a presentar la evaluación ordina
 
 El alumno tendrá derecho a presentar hasta cuatro Evaluaciones Remediales de cada Evaluación Ordinaria, practicada en cada periodo de evaluación.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 31.
 
-Para tener derecho a la Evaluación Remedial, el alumno además de pagar el costo del mismo, deberá cumplir con los requisitos establecidos en las fracciones II, III y IV del artículo 26 de este Reglamento.
+Para tener derecho a la Evaluación Remedial, bastará con que el alumno pague el costo del mismo.
 
 ###### ARTÍCULO 32.
 
@@ -510,5 +510,9 @@ P.O. 15 DE MARZO DE 2006.
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
 
 P.O. 10 DE ENERO DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 12 DE ABRIL DE 2008.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
