@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-03-10"
+last_updated: "2008-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -219,7 +219,7 @@ XII. Consejo Municipal de Comités de Concertación y Participación Social.
 
 XIII. Comité Municipal de Adquisiciones.
 
-XIV. Comité de Capacitación.
+XlV. Comité de Capacitación.
 
 XV. Comité Municipal de Emergencia.
 
@@ -431,9 +431,11 @@ El Cabildo podrá ordenar la comparecencia de cualquier funcionario de la admini
 
 Dichos servidores públicos rendirán los informes solicitados y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 38.
 
-El Secretario del H. Ayuntamiento deberá estar presente durante la celebración de las Sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en la Sesión, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas. Las faltas temporales del Secretario del H. Ayuntamiento serán suplidas por el Director de Asuntos Jurídicos de la Dirección General de Gobierno.
+El Secretario del H. Ayuntamiento deberá estar presente durante la celebración de las sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en las mismas, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas. Las faltas temporales del Secretario del H. Ayuntamiento serán suplidas por el Subsecretario del H. Ayuntamiento o, en su defecto, por el Director de Asuntos Jurídicos de la Dirección General de Gobierno.
 
 ###### ARTÍCULO 39.
 
@@ -673,7 +675,7 @@ XII. Educación y Cultura.
 
 XIII. Ecología.
 
-XIV. Parques, Jardines y Panteones.
+XlV. Parques, Jardines y Panteones.
 
 XV. Juventud y Deporte.
 
@@ -983,49 +985,53 @@ Departamento de Evaluación a Obras Públicas.
 
 Departamento de Evaluación a Servicios Públicos.
 
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2008)</small>
+
 IX.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
 
 Secretaría Particular:
 
 Departamento de Junta Municipal de Reclutamiento.
 
-Coordinación Administrativa.
+Coordinación Administrativa:
 
-Coordinación de Asuntos Internos de Seguridad Pública:
+Subsecretaría del H. Ayuntamiento y Subdirección General de Gobierno
 
-Dirección de Justicia Municipal.
+Dirección de Justicia Municipal:
 
-Departamento de Servicios Médicos, Psicología y Trabajo Social.
+Departamento de Servicios Médicos, Psicología y Trabajo Social
 
 Dirección de Asuntos Jurídicos:
 
-Coordinación Jurídico-legislativa.
+Coordinación de Asuntos de Cabildo
 
-Coordinación de Asuntos de Cabildo.
+Coordinación Jurídica de lo Contencioso
 
-Coordinación Jurídica de lo Contencioso.
+Coordinación Jurídico-Legislativa
 
 Dirección de Reglamentación:
 
-Coordinación de Licencias.
+Coordinación de Licencias
 
-Coordinación de Verificación.
+Coordinación de Verificación
 
 Dirección de Mercados, Estacionamientos y Áreas Comerciales:
 
-Departamento de Mercados y Estacionamientos; y
+Departamento de Mercados y Estacionamientos
 
-Departamento de Áreas Comerciales.
+Departamento de Áreas Comerciales
 
-Dirección de la Unidad Municipal de Protección Civil.
+Dirección de la Unidad Municipal de Protección Civil:
 
-Departamento Operativo de Protección Civil.
+Departamento Operativo de Protección Civil
 
-Dirección de Bomberos.
+Dirección de Bomberos
 
-Departamento de Atención Médica Prehospitalaria.
+Departamento de Bomberos:
 
-Departamento de Bomberos.
+Departamento de Atención Médica Prehospitalaria
+
+Coordinación de Asuntos Internos de Seguridad Pública
 
 X.- SECRETARÍA DE FINANZAS PÚBLICAS
 
@@ -1491,7 +1497,7 @@ XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y res
 
 XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y los demás servicios con que cuente o necesite la comunidad.
 
-XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
+XlV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
 
 XV. Las demás que señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
@@ -1545,7 +1551,7 @@ XII. Informar al Presidente Municipal y al Síndico de Hacienda sobre el resulta
 
 XIII. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución.
 
-XIV. Interpretar para efectos jurídico-administrativos la legislación Municipal.
+XlV. Interpretar para efectos jurídico-administrativos la legislación Municipal.
 
 XV. Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos internos de control.
 
@@ -1621,7 +1627,7 @@ XII. Emitir, modificar, actualizar o ratificar las normas, políticas y lineamie
 
 XIII. Informar por escrito a la Contraloría Municipal sobre la emisión, modificación, actualización, ratificación y difusión de las disposiciones a que se refiere la fracción anterior.
 
-XIV. Proporcionar en tiempo y forma requerido por la Contraloría Municipal, todos los documentos, datos e informes que les sean solicitados.
+XlV. Proporcionar en tiempo y forma requerido por la Contraloría Municipal, todos los documentos, datos e informes que les sean solicitados.
 
 XV. Las demás que expresamente les señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
@@ -1654,6 +1660,20 @@ IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener 
 X. Tener bajo su mando la Coordinación de Asuntos Internos encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los elementos operativos que conforman los cuerpos de seguridad pública municipal.
 
 XI. Las demás que señale la ley que en materia municipal expida el Poder legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2008)</small>
+
+###### ARTÍCULO 107
+
+BIS.- Son facultades y obligaciones del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno las siguientes:
+
+I. Suplir las ausencias temporales del Secretario del H. Ayuntamiento y Director General de Gobierno.
+
+II. Auxiliar al Secretario del H. Ayuntamiento y Director General de Gobierno en la firma, legalización y certificación de los documentos y el despacho de los asuntos que, por competencia, le correspondan suscribir y atender al Secretario, y por acuerdo del mismo.
+
+III. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o el Secretario del H. Ayuntamiento y Director General de Gobierno.
+
+Las ausencias temporales del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno serán suplidas por el Director de Asuntos Jurídicos de la Dirección General de Gobierno.
 
 APARTADO NOVENO
 
@@ -18026,3 +18046,9 @@ Cualquier disposición legal vigente que haga referencia a los Comités de Colon
 ###### ARTÍCULO TERCERO.
 
 Cualquier disposición legal vigente que haga referencia al Consejo Municipal de Comités de Colonos, se entenderá, en lo subsecuente, referida al Consejo Municipal de Comités de Concertación y Participación Social, conforme al presente decreto.
+
+P.O. 14 DE ABRIL DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
