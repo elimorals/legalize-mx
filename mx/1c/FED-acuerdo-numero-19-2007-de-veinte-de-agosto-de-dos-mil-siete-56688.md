@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-19-2007-de-veinte-de-agosto-de-dos-mil-siete-566
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2008-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56688&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-08-21"
 
 ACUERDO NUMERO 19/2007, DE VEINTE DE AGOSTO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL PLENARIO NUMERO 5/2008, DE TRECE DE MARZO DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 14 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de septiembre de 2007.
 
@@ -188,3 +190,17 @@ TOTAL DE PLAZAS PERMANENTES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo Número 19/2007, con sus Anexos I y II, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el veinte de agosto de dos mil siete, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia.- México, Distrito Federal, a veinte de agosto de dos mil siete.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de ochenta y cinco fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo Número 19/2007 y sus Anexos I y II, y se certifica para dar cumplimiento a lo dispuesto en el Punto Quinto Transitorio.- México, Distrito Federal, a veintiuno de agosto de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 14 DE ABRIL DE 2008.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los documentos en que se precisen las funciones de las plazas que se crean o se transforman con motivo de este Acuerdo General, deberán remitirse dentro de los treinta días naturales siguientes a la entrada en vigor del mismo, a la Dirección General de Personal.
+
+TERCERO. La Secretaría General de Acuerdos remitirá a la Dirección General de Personal sendos documentos en los que realice la certificación relativa al puesto, número progresivo y adscripción de las plazas de la Suprema Corte de Justicia de la Nación creadas o transformadas mediante este Acuerdo General, con la finalidad de que sean anexados, respectivamente, a los expedientes a los que se refiere el punto tercero de este Acuerdo General.
+
+CUARTO. Se abrogan los Acuerdos Generales Plenarios 2/2007 relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, 14/2007 y 19/2007, sin menoscabo de reconocer la vigencia de los artículos cuarto y quinto transitorios del Acuerdo General Plenario 4/2005.
+
+QUINTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
