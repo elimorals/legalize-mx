@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-2-2007-de-ocho-de-enero-de-dos-mil-siete-del-537
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-02-12"
-last_updated: "2007-09-18"
+last_updated: "2008-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53768&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-02-08"
 
 ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO NUMERO 19/2007, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL PLENARIO NUMERO 5/2008, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 14 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
@@ -196,5 +196,17 @@ SEGUNDO. Los documentos en que se precisen las funciones de las plazas que se cr
 TERCERO. La Secretaría General de Acuerdos remitirá a la Dirección General de Personal sendos documentos en los que realice la certificación relativa al puesto, número progresivo y adscripción de las plazas de la Suprema Corte de Justicia de la Nación creadas o transformadas mediante este Acuerdo General, con la finalidad de que sean anexados, respectivamente, a los expedientes a los que se refiere el punto tercero de este Acuerdo General.
 
 CUARTO. Se abrogan los Acuerdos Generales Plenarios 2/2007 relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, y 14/2007, sin menoscabo de reconocer la vigencia de los artículos cuarto y quinto transitorios del Acuerdo General Plenario 4/2005.
+
+QUINTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+D.O.F. 14 DE ABRIL DE 2008.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los documentos en que se precisen las funciones de las plazas que se crean o se transforman con motivo de este Acuerdo General, deberán remitirse dentro de los treinta días naturales siguientes a la entrada en vigor del mismo, a la Dirección General de Personal.
+
+TERCERO. La Secretaría General de Acuerdos remitirá a la Dirección General de Personal sendos documentos en los que realice la certificación relativa al puesto, número progresivo y adscripción de las plazas de la Suprema Corte de Justicia de la Nación creadas o transformadas mediante este Acuerdo General, con la finalidad de que sean anexados, respectivamente, a los expedientes a los que se refiere el punto tercero de este Acuerdo General.
+
+CUARTO. Se abrogan los Acuerdos Generales Plenarios 2/2007 relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, 14/2007 y 19/2007, sin menoscabo de reconocer la vigencia de los artículos cuarto y quinto transitorios del Acuerdo General Plenario 4/2005.
 
 QUINTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
