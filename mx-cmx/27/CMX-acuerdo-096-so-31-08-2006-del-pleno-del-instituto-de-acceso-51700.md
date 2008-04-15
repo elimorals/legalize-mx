@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-096-so-31-08-2006-del-pleno-del-instituto-de-acceso-517
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-20"
-last_updated: "2006-09-20"
+last_updated: "2008-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51700&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-08-24"
 
 ACUERDO DEL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PÚBLICA DEL DISTRITO FEDERAL POR EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, Y SE ABROGA LOS APROBADOS MEDIANTE EL ACUERDO 096/SO/31-08/2006, PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de septiembre de 2006.
 
@@ -681,3 +683,19 @@ Comisionado Ciudadano
 Agustín Millán Gómez
 
 Comisionado Ciudadano
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE TIENEN RELACION CON LOS PRESENTES LINEAMIENTOS.</small>
+
+G.O. 15 DE ABRIL DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO. Se abroga los Lineamientos en materia de Recursos Financieros del Instituto de Acceso a la Información Pública del Distrito Federal aprobados mediante el acuerdo 096/SO/31-08/2006.
+
+TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Todo trámite administrativo y financiero iniciado hasta el día anterior a la vigencia de este acuerdo, se regirán hasta su término, por los lineamientos de la materia aprobados mediante el acuerdo 096/SO/31-08/2006.
+
+.
