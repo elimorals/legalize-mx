@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-095-so-31-08-2006-del-pleno-del-instituto-de-acceso-516
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-20"
-last_updated: "2006-09-20"
+last_updated: "2008-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51699&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2008-04-15"
 
 ACUERDO DEL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, Y SE ABROGAN LOS APROBADOS MEDIANTE EL ACUERDO 095/SO/31-08/2006, PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de septiembre de 2006.
 
@@ -1126,3 +1128,19 @@ Comisionado Ciudadano
 Agustín Millán Gómez
 
 Comisionado Ciudadano
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 15 DE ABRIL DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO. Se abrogan los Lineamientos en materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto de Acceso a la Información Pública del Distrito Federal, aprobados mediante el acuerdo 095/SO/31-08/2006.
+
+TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Todo proceso o contratación de proveedores para la adquisición de bienes, arrendamientos o servicios que el Instituto haya iniciado antes de la vigencia del presente acuerdo, se regirán hasta su término, por los lineamientos en la materia aprobados mediante el acuerdo 095/SO/31-08/2006.
+
+...
