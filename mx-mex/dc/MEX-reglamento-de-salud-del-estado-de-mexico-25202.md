@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-salud-del-estado-de-mexico-25202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2005-01-31"
+last_updated: "2008-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ABRIL DE 2008.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -145,9 +145,11 @@ El cargo de integrante del Consejo será honorífico, a excepción del secretari
 
 A las sesiones del Consejo asistirán el Coordinador de Administración y Finanzas, el Coordinador de Salud y Regulación Sanitaria y el Jefe de la Unidad de Asuntos Jurídicos del Instituto, con el propósito de emitir opiniones sobre los asuntos que se le presenten y apoyar las acciones que el propio Consejo determine.
 
+> <small>(REFORMADO, G.G. 15 DE ABRIL DE 2008)</small>
+
 ###### Artículo 8.
 
-El Consejo podrá formar comisiones para el estudio de las diversas materias de salud e invitar a expertos, instituciones académicas, de investigación y agrupaciones del sector social privado relacionados con éstas.
+El Consejo podrá crear comisiones, comités y grupos de trabajo para el estudio, promoción, investigación y formulación de propuestas, que permitan coadyuvar en la operación y seguimiento de los programas de salud e invitar a expertos, instituciones académicas, de investigación y agrupaciones de los sectores social y privado relacionadas con la materia, en los términos que señale el reglamento interno que al efecto expida el propio Consejo.
 
 ### CAPITULO III. DEL SISTEMA ESTATAL DE SALUD
 
@@ -2088,3 +2090,9 @@ G.G. 31 DE ENERO DE 2005.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrara en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 15 DE ABRIL DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
