@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-administracion-publica-del-55022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-28"
-last_updated: "2007-03-28"
+last_updated: "2008-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE ALLENDE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 2007.
 
@@ -511,7 +511,9 @@ La Secretaría de Desarrollo Urbano y Ecología, estará a cargo de un titular d
 
 La Secretaría de Desarrollo Urbano y Ecología; en cuanto a Desarrollo Urbano tendrá las siguientes atribuciones:
 
-I.- Recibir, tramitar sobre resolver el otorgamiento de los permisos de construcción de edificaciones y resolver conjuntamente con la Secretaría de Obras y Servicios Primarios.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2008)</small>
+
+I.- Recibir, tramitar sobre resolver el otorgamiento de los permisos de construcción de edificaciones.
 
 II.- Llevar el registro de los profesionistas autorizados para elaborar planos de construcción de edificaciones.
 
@@ -1436,3 +1438,11 @@ SÍNDICO PRIMERO
 C. OSCAR SALAZAR CAVAZOS
 
 SINDICO SEGUNDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE ABRIL DE 2008.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+Cabe señalar que las modificaciones aprobadas a este Reglamento Interior de la Administración Pública Municipal de Allende, N.L. entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
