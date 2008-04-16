@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-25653"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-27"
-last_updated: "2007-08-03"
+last_updated: "2008-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES, EN EL MUNICIPIO DE GUADALUPE, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de agosto de 1993.
 
@@ -157,7 +157,7 @@ III.- Los Inspectores practicarán la visita dentro de las veinticuatro horas si
 
 IV.- Al inicio de la visita de la inspección, el Inspector deberá requerir al visitado, para que designe a dos personas que funjan como testigos en el desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo, éstos serán propuestos por el propio infractor.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE ABRIL DE 2008)</small>
 
 V.- De toda visita se levantará acta circunstanciada por triplicado, en forma numerada y foliadas, en las que se expresarán: lugar, fecha y nombre de la persona con quien se entiende la diligencia, así como las incidencias y el resultado de la misma; el acta deberá ser firmada por el Inspector, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el Inspector y en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar el inspector lo hará constar en el acta, sin que ésta circunstancia altere el valor probatorio del documento.
 
@@ -324,3 +324,13 @@ P.O. 3 DE AGOSTO DE 2007.
 ## [N. DE E. TRANSITORIO DE LOS “ACUERDOS DEL 1 AL 7 APROBADOS EN SESIÓN ORDINARIA DEL 25 DE JULIO DE 2007”.]
 
 ÚNICO: - Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ABRIL DE 2008.
+
+## [N. DE E. TRANSITORIOS DE LOS “ACUERDOS APROBADOS EN SESIÓN ORDINARIA DE FECHA 17 DE ENERO DE 2007, RELATIVOS A LAS REFORMAS DE LOS SIGUIENTES REGLAMENTOS: DEL INSTITUTO MUNICIPAL DE LA MUJER; DEL INSTITUTO DE LA JUVENTUD, ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA; DE NOMENCLATURA; DE LIMPIA; DE ANUNCIOS; DE PROTECCIÓN AMBIENTAL; DE CEMENTERIOS; PARA LA PROTECCIÓN DE LOS NO FUMADORES; DE CONSTRUCCIÓN; TODOS DEL MUNICIPIO DE GUADALUPE, N.L.”.]
+
+PRIMERO: Estas modificaciones entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO: Se remita el presente a la C. Presidenta Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento, se sirva enviar los presentes acuerdos al C. Secretario General de Gobierno para su debida publicación en el Periódico Oficial. Así mismo proceda también el C. Secretario del R. Ayuntamiento a su publicación en la Gaceta Municipal.
