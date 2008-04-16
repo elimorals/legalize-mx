@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-54986"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-16"
-last_updated: "2007-03-16"
+last_updated: "2008-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD CIUDADANA Y TRANSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de marzo de 2007.
 
@@ -125,7 +125,9 @@ II. Estar en pleno ejercicio de sus derechos civiles y políticos;
 
 III. No tener antecedentes penales por delito doloso;
 
-IV. Ser mayor de 35 años;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2008)</small>
+
+IV. Ser mayor de 30 años;
 
 V. Tener un modo honesto de vivir; y
 
@@ -179,9 +181,11 @@ IX. Emitir opinión para el otorgamiento de reconocimientos o condecoraciones p�
 
 X. Informar al Presidente Municipal, a más tardar treinta días antes de su informe anual de gobierno, sobre las actividades y resultados obtenidos por los trabajos de la Comisión.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 14.
 
-La Comisión funcionará en pleno, en sesiones que se celebrarán una vez por semana y a las que deberán asistir cuando menos la mitad más uno de sus integrantes.
+La Comisión funcionará en pleno, en sesiones que se celebrarán dos veces al mes y a las que deberán asistir cuando menos la mitad mas uno de sus integrantes.
 
 ###### ARTÍCULO 15.
 
@@ -247,7 +251,7 @@ a) la Suspensión temporal; y,
 
 b) La Destitución.
 
-III. Las sanciones económicas se aplicarán cuando de los hechos que se le imputan a un elemento, se desprendan daños al patrimonio municipal, o haya daño moral o se lesionen los intereses económicos del denunciante. Las sanciones económicas deberán ser proporcionales al daño causado y en ningún caso podrán exceder de doscientas cuotas.
+III. (DEROGADA, P.O. 16 DE ABRIL DE 2008)
 
 ###### ARTÍCULO 27.
 
@@ -269,9 +273,11 @@ El recurso de inconformidad deberá ser resuelto dentro de los siguientes cinco 
 
 El recurso de revocación procede contra las resoluciones condenatorias de la Comisión y deberá ser interpuesto dentro de los tres días hábiles siguientes en que se hubiere hecho la notificación de la misma. La suspensión de la sanción correspondiente se sujetará a las disposiciones previstas en la Ley.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 31.
 
-La resolución a través de la cual se resuelva un recurso, será inapelable sin perjuicio de los demás medios jurídicos previstos en las leyes y demás disposiciones relativas.
+La resolución a través de la cual se resuelva un recurso, será irrecurrible, sin perjuicio de los demás medios jurídicos previstos en las leyes y demás disposiciones relativas.
 
 ### CAPITULO SÉPTIMO. DE LOS RECONOCIMIENTOS Y CONDECORACIONES
 
@@ -332,3 +338,9 @@ Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas
 Envíese a la C. Presidenta Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remita para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
 
 Guadalupe, Nuevo León, a los a los 14-catorce días del mes de marzo de 2007-dos mil siete.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE ABRIL DE 2008.
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
