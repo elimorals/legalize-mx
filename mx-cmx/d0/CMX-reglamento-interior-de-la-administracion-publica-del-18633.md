@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-02-29"
+last_updated: "2008-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -141,6 +141,10 @@ D) La Subsecretaría de Programas Delegacionales y Reordenamiento de la Vía Pú
 E) La Dirección Ejecutiva de Sanciones Penales.
 
 Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de cada demarcación territorial.
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2008)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal.
 
 II. A la Secretaría de Desarrollo Urbano y Vivienda:
 
@@ -1778,7 +1782,7 @@ III. Normar y dictaminar sobre la orientación y procedencia de las actividades 
 
 IV. Supervisar y coordinar la información que se difundirá por los medios de comunicación sobre todas y cada una de las actividades y servicios de la Administración Pública;
 
-V. Dirigir, administrar y operar, los medios de difusión masiva de que se dispongan;
+V. (DEROGADA, G.O. 16 DE ABRIL DE 2008)
 
 VI. Normar, autorizar y supervisar el diseño de producción y desarrollo de toda campaña o publicación, promovida en materia de comunicación social;
 
@@ -11504,6 +11508,8 @@ XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y ad
 
 ADSCRITO A LA SECRETARIA DE GOBIERNO.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE ABRIL DE 2008)</small>
+
 ###### Artículo 197.
 
 La Junta de Asistencia Privada tiene por objeto ejercer la vigilancia, asesoría y coordinación de las Instituciones de Asistencia Privada y cuenta con las siguientes atribuciones:
@@ -11530,7 +11536,21 @@ ADSCRITO A LA SECRETARIA DEL MEDIO AMBIENTE.
 
 ###### Artículo 198.
 
-(DEROGADO, G.O. 19 DE ENERO DE 2007)
+El Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal tiene por objeto transmitir en el portal de Internet que le sea asignado, los programas y contenidos de radio y televisión digital del Gobierno del Distrito Federal, y tendrá las siguientes atribuciones:
+
+I. Diseñar, elaborar y, en su caso, producir las barras de programación de las señales y frecuencias de radio y televisión digital, las cuales deberán considerar los temas culturales, políticos, económicos y sociales de mayor interés para los habitantes de la Ciudad de México;
+
+II. Transmitir materiales radiofónicos, audiovisuales y fílmicos sobre la Ciudad de México, que contribuyan a fortalecer la identidad de sus habitantes, mediante el conocimiento y revalorización de la imagen y tradiciones de los distintos barrios, colonias y comunidades que la conforman;
+
+III. Incentivar la participación ciudadana en los programas transmitidos por el Sistema, en especial, cuando impliquen la difusión, conocimiento, debate o reflexión de los asuntos que incidan en la vida cotidiana de los habitantes de la Ciudad de México;
+
+IV. Suscribir con los canales o sistemas de comunicación masiva de carácter nacional, estatal, municipal o del extranjero, los acuerdos interinstitucionales, convenios o instrumentos jurídicos que permitan el intercambio y/o producción conjunta de materiales educativos, científicos, culturales, informativos o de difusión;
+
+V. Informar sobre los principales programas y acciones de los órganos de gobierno del Distrito Federal;
+
+VI. Coadyuvar, con las instancias competentes, en la revisión y producción de los programas transmitidos sobre la Ciudad de México; y
+
+VII. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
 > <small>(ADICIONADA, G.O. 30 DE MAYO DE 2005)</small>
 
@@ -11941,3 +11961,9 @@ CUARTO.- Las Unidades Administrativas que por virtud de este Decreto se hubieren
 QUINTO.- Las referencias hechas en otros ordenamientos jurídicos y administrativos a unidades administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+G.O. 16 DE ABRIL DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Con el objeto de que el Órgano Desconcentrado previsto en este Decreto cuente con los recursos humanos, materiales, técnicos y financieros para su funcionamiento y operación, la Secretaría de Finanzas y la Oficialía Mayor determinarán los términos y condiciones requeridos para tal efecto.
