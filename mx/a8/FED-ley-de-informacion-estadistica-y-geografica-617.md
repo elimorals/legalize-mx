@@ -4,7 +4,7 @@ identifier: "FED-ley-de-informacion-estadistica-y-geografica-617"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1983-12-12"
+last_updated: "2008-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=617&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1980-12-23"
 
 LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 1983.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO DECIMO SEPTIMO TRANSITORIO DE LA LEY DEL SISTEMA NACIONAL DE INFORMACION ESTADISTICA Y GEOGRAFICA, PUBLICADA EN EL D.O.F. DE 16 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -664,3 +666,81 @@ D.O.F. 12 DE DICIEMBRE DE 1983.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE ABRIL DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días naturales después de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el segundo párrafo del artículo 23 de presente ordenamiento, que entrará en vigor el 1 de agosto de 2010 y por la fracción III del artículo 59 de esta Ley que entrará en vigor tres años después de la entrada en vigor de la presente Ley, debiéndose aplicar entre tanto lo dispuesto en el artículo undécimo transitorio.
+
+SEGUNDO.- La designación de los primeros integrantes de la Junta de Gobierno del Instituto se realizará en los términos previstos en la presente Ley, dentro de los 90 días naturales siguientes a la publicación de la misma en el Diario Oficial de la Federación.
+
+El periodo del primer Presidente del Instituto vencerá el 31 de diciembre de 2009. Los periodos de los primeros vicepresidentes de la Junta de Gobierno vencerán los días 31 de diciembre de 2008, 2010, 2012 y 2014, respectivamente, debiendo señalar el Ejecutivo Federal cuál de los citados periodos corresponde a cada miembro de la Junta de Gobierno.
+
+TERCERO.- El Instituto Nacional de Estadística y Geografía (INEGI), tendrá la titularidad de todos los bienes, derechos y obligaciones propiedad del Gobierno Federal que estuvieran adscritos o destinados bajo cualquier título al servicio del Instituto Nacional de Estadística, Geografía e Informática, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público.
+
+También forman parte del patrimonio del Instituto, todos aquellos bienes muebles e inmuebles pertenecientes a la Federación que, a la entrada en vigor del presente Decreto, venía utilizando el órgano desconcentrado señalado en el párrafo precedente, por lo que en un plazo no mayor de un año contado a partir de la entrada en vigor de este Decreto, se deberán haber concluido los trámites correspondientes para su formalización. Los bienes muebles se transferirán al patrimonio del Instituto en los términos previstos por el Título quinto de la Ley General de Bienes Nacionales y las disposiciones que regulan su registro, afectación, disposición y baja.
+
+Los bienes inmuebles, incluyendo terreno y construcciones, que se incorporan como parte del patrimonio del Instituto son los ubicados en:
+
+a) Av. Héroe de Nacozari Sur No. 2301, Fraccionamiento Jardines del Parque, Aguascalientes, Aguascalientes, C.P. 20270;
+
+b) Av. Héroe de Nacozari Sur No. 2302, Fraccionamiento Rinconada del Parque, Aguascalientes, Aguascalientes, C.P. 20277;
+
+c) Av. Héroe de Nacozari Sur No. 2304, Fraccionamiento Rinconada del Parque, Aguascalientes, Aguascalientes, C.P. 20277;
+
+d) Av. de la Convención Oriente No. 902, Edificio 2, Fraccionamiento Primo Verdad, Aguascalientes, Aguascalientes, C.P. 20267;
+
+e) Calle Selenio No. 107, Ciudad Industrial, Durango, Durango, C.P. 34208;
+
+f) Av. Patriotismo No. 711-A, Col. San Juan, Delegación Benito Juárez, México, Distrito Federal, C.P. 03730;
+
+g) Av. Baja California No. 272, Col. Hipódromo, Delegación Cuauhtémoc, México, Distrito Federal, C.P. 06100;
+
+h) Balderas No. 71, Col. Centro, Delegación Cuauhtémoc, México, Distrito Federal, C.P. 06040;
+
+i) Av. 16 de Septiembre No. 670, Col. Mexicaltzingo, Sector Juárez, Guadalajara, Jalisco, C.P. 44180;
+
+j) Paseo Río Sonora Sur y Comonfort S/N, Col. Proyecto Río Sonora, Edificio México (4o. Piso), Hermosillo, Sonora, C.P. 83270;
+
+k) Paseo Río Sonora Sur y Comonfort S/N, Col. Proyecto Río Sonora, Edificio México (Planta Baja), Hermosillo, Sonora, C.P. 83270, y
+
+l) Calle 60 x 39 y 41 No. 378, Col. Centro, Mérida, Yucatán, C.P. 97000.
+
+Respecto de los inmuebles ubicados en Calle el Novillo No. 610, Fraccionamiento Ojocaliente II, Aguascalientes, Aguascalientes, C.P. 20196, en donde se encuentra ubicada la Biblioteca Ludoteca, así como el ubicado en Calle el Salitre Esquina Calle Guayana No. 201, Fraccionamiento Ojocaliente II, Aguascalientes, Aguascalientes, C.P. 20196, en donde se encuentra ubicado el Taller Infantil de Artes Plásticas, la Secretaría de la Función Pública deberá realizar los actos jurídicos que resulten necesarios, a efecto de transmitir a título gratuito a favor del Instituto la titularidad de los derechos que correspondan a la Federación sobre los mencionados inmuebles.
+
+CUARTO.- Las personas que a la entrada en vigor de la presente Ley presten un servicio personal subordinado al Instituto Nacional de Estadística, Geografía e Informática, formarán parte del personal al servicio del Instituto, y conservarán las remuneraciones y prestaciones de las cuales gozan a la entrada en vigor de esta Ley.
+
+QUINTO.- Los traspasos de recursos humanos, financieros y materiales del órgano desconcentrado Instituto Nacional de Estadística, Geografía e Informática, al organismo Instituto Nacional de Estadística y Geografía, deberán efectuarse en los términos de las disposiciones legales aplicables, garantizando la continuidad de la operación y de las actividades del Instituto.
+
+SEXTO.- Para los efectos del transitorio Cuarto del Decreto por el que se declaran reformados los artículos 26 y 73 fracción XXIX-D de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 7 de abril de 2006, en los Presupuestos de Egresos de la Federación deberán incluirse, en adición a los recursos a que se refiere el segundo párrafo del artículo 83 de esta Ley, los recursos suficientes para que el Instituto continúe realizando las Actividades Estadísticas y Geográficas que de manera regular y periódica hayan sido realizadas por el Instituto Nacional de Estadística, Geografía e Informática hasta antes de la entrada en vigor del presente ordenamiento.
+
+SÉPTIMO.- El Instituto contará con un plazo de 3 meses, contados a partir de la entrada en vigor de la presente Ley, para dar cumplimiento a lo dispuesto en el artículo 100 del presente ordenamiento por lo que se refiere a las últimas encuestas nacionales publicadas; y con un plazo de 2 años para el resto de las encuestas nacionales y operativos censales concluidos, de conformidad con el calendario que al efecto dé a conocer la Junta de Gobierno dentro de los 90 días siguientes a la entrada en vigor de este ordenamiento.
+
+OCTAVO.- El Reglamento Interior del Instituto deberá expedirse en un plazo no mayor de seis meses, contados a partir del día en que quede legalmente instalada la Junta de Gobierno. En tanto se expida el citado Reglamento continuarán aplicándose, en lo que no se opongan a la presente Ley, los artículos 102 y 103 del Reglamento Interior de la Secretaría de Hacienda y Crédito Público.
+
+En tanto el Instituto expide las demás disposiciones administrativas a que se refiere esta Ley, seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes en lo que no se opongan a la presente Ley y continuará en vigor el Sistema Integral de Profesionalización del Instituto Nacional de Estadística, Geografía e Informática, publicado en el Diario Oficial de la Federación el 11 de noviembre de 1994. Las medidas administrativas dictadas con fundamento en disposiciones que por esta Ley se derogan, continuarán en vigor hasta que no sean revocadas o modificadas expresamente por las autoridades competentes.
+
+NOVENO.- Los poderes, mandatos y en general las representaciones otorgadas y facultades concedidas por el Instituto Nacional de Estadística, Geografía e Informática, con anterioridad a la entrada en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+En el supuesto de que existan asuntos en la Secretaría de la Función Pública o en el Órgano Interno de Control en el Instituto Nacional de Estadística, Geografía e Informática, que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán ser concluidos respectivamente por la propia Secretaría de la Función Pública o por la Contraloría Interna del Instituto, aplicando lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos legales aplicables en la materia.
+
+DÉCIMO.- La Junta de Gobierno deberá aprobar y publicar en el Diario Oficial de la Federación a más tardar en el mes de diciembre de 2007, el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica, el Programa Nacional de Estadística y Geografía, y el primer Programa Anual de Estadística y Geografía a que se refiere esta Ley.
+
+En tanto se expiden los programas a que se refiere el párrafo anterior, el Instituto seguirá aplicando en todo lo que no se oponga a la presente Ley los programas que se hubieren emitido a efecto de realizar las tareas a cargo del Instituto.
+
+DÉCIMO PRIMERO.- Dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, el Banco de México y el Instituto formarán un grupo de trabajo que tendrá como objetivo planear e instrumentar la transferencia al segundo, del cálculo y publicación de los índices nacionales de precios a que se refiere el artículo 59 de esta Ley. A partir de la entrada en vigor de la fracción III del artículo 59, el Instituto publicará los referidos índices nacionales de precios, por lo que cualquier referencia a los citados índices a cargo del Banco de México, se entenderá efectuada, a partir de esa fecha, al que publique el Instituto.
+
+A partir de la publicación del presente Decreto, y hasta el día anterior a la entrada en vigor de la fracción III del artículo 59, el Banco de México continuará publicando los índices a que se refiere el párrafo anterior, con la participación creciente del Instituto.
+
+A partir de la entrada en vigor de la fracción III del artículo 59, el Banco de México tendrá acceso, sin restricción alguna, a la metodología, bases de datos, información y procedimientos utilizados por el Instituto para calcular los índices nacionales a que se refiere este precepto.
+
+DÉCIMO SEGUNDO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan mención a la Ley de Información Estadística y Geográfica, o al Instituto Nacional de Estadística, Geografía e Informática, la referencia se entenderá hecha a la presente Ley y al Instituto Nacional de Estadística y Geografía, respectivamente.
+
+DÉCIMO TERCERO.- La Junta de Gobierno contará con un plazo de ciento ochenta días, contados a partir de la designación de sus primeros miembros, para: determinar aquella información que formará parte del Acervo de Información Estadística y Geográfica a que se refiere el Título Tercero, Capítulo III de esta Ley, y hacer del conocimiento del público, a través de Internet, las metodologías que hasta antes de la entrada en vigor de la presente Ley se hubieren utilizado para la producción de dicha información.
+
+DÉCIMO CUARTO.- A la entrada en vigor de la presente Ley, los comités técnicos sectoriales, regionales y especiales de estadística y de información geográfica que se hubieren constituido conforme a lo dispuesto en las fracciones II, III y IV del artículo 24 de la Ley de Información Estadística y Geográfica, y que se encuentren en funcionamiento, habrán de considerarse como Comités Técnicos Especializados a que se refiere el artículo 31 de esta Ley.
+
+DÉCIMO QUINTO.- Los acuerdos, anexos de ejecución, bases, contratos y convenios, que el Instituto Nacional de Estadística, Geografía e Informática haya suscrito hasta antes de la entrada en vigor de la presente Ley, se entenderán referidos al Instituto Nacional de Estadística y Geografía.
+
+DÉCIMO SEXTO.- La Información que al momento de la entrada en vigor de la presente Ley estuviere en proceso de generación por parte de las Unidades, deberá apegarse a las disposiciones que al efecto emita el Instituto.
+
+DÉCIMO SÉPTIMO.- Se abroga la Ley de Información Estadística y Geográfica y las demás disposiciones que se opongan a la presente Ley.
