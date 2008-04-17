@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2007-02-27"
+last_updated: "2008-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE ABRIL DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -175,7 +175,9 @@ III.- Autoridades del Estado: El Gobernador del Estado, la Secretaría de la Sal
 
 IV.- Servicios de Salud: el organismo público descentralizado del Gobierno del Estado de Veracruz, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta;
 
-V.- Régimen: al Régimen Estatal de Protección Social en Salud, que es la estructura administrativa, de pendiente de la Secretaría de Salud y Asistencia, encargada de garantizar las acciones de protección social en salud mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a la persona en el Sistema, las cuales deberán realizar su actividad de manera independiente de la provisión de servicios de salud;
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2008)</small>
+
+V.- Régimen: al Régimen Estatal de Protección Social en Salud, que es el Organismo Público Descentralizado sectorizado a la Secretaría de Salud, encargado de garantizar las acciones de protección social en salud mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a la persona en el Sistema; el cual deberá realizar sus actividades de manera independiente de la provisión de servicios de salud;
 
 VI.- Atención médica: al conjunto de servicios que se proporcionen al individuo con el fin de proteger, promover y restaurar su salud;
 
@@ -2169,7 +2171,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 305.
 
@@ -2245,7 +2247,7 @@ Cuando del contenido de un acta de inspección se desprenda la posible comisión
 
 ### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 315.
 
@@ -2397,13 +2399,19 @@ II.- Programar los recursos necesarios para el mantenimiento, desarrollo de infr
 
 III.- Adoptar esquemas de operación que mejoren la atención médica, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica; para tal efecto, podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud, con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de las disposiciones y lineamientos aplicables.
 
-IV.- Celebrar acuerdos de coordinación con las autoridades federales, estatales y municipales, para la ejecución del Sistema de Protección Social en Salud, de conformidad con el modelo nacional establecido, en los cuales se determinarán, entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y a los términos de la evaluación integral del Sistema.
+IV.- (DEROGADA, G.O. 17 DE ABRIL DE 2008)
 
 B.- Corresponde al Ejecutivo del Estado, por conducto del Régimen:
 
 I.- Identificar e incorporar beneficiarios al Régimen, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el Estado, conforme a los lineamientos vigentes.
 
-II.- Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación al Estado y las aportaciones propias de este último, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para tal efecto se celebren.
+> <small>(ADICIONADA, G.O. 17 DE ABRIL DE 2008)</small>
+
+I Bis.- Celebrar acuerdos de coordinación con las autoridades federales, estatales y municipales, para la ejecución del Sistema de Protección Social en Salud, de conformidad con el modelo nacional establecido, en los cuales se determinarán, entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y a los términos de la evaluación integral del Sistema.
+
+> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2008)</small>
+
+II.- Administrar y aplicar de manera transparente y oportuna, los recursos que sean transferidos por la Federación al Estado y las aportaciones propias de este último, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para tal efecto se celebren.
 
 III.- Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional.
 
@@ -2521,9 +2529,9 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 ###### ARTICULO 345.
 
-Los Servicios de Salud, en el ámbito de su competencia, dispondrán lo necesario para transparentar su gestión de conformidad con las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
+Los Servicios de Salud y el Régimen, en el ámbito de sus respectivas competencias, dispondrán lo necesario para transparentar su gestión, de conformidad con las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
 
-Para estos efectos, el Régimen, en coordinación con los Servicios de Salud, difundirá toda la información que tengan disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema, entre otros aspectos, con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del sistema.
+Para estos efectos, el Régimen y los Servicios de Salud difundirán toda la información que tengan disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema, entre otros aspectos; con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Sistema.
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2543,7 +2551,7 @@ Las responsabilidades administrativas, civiles y penales que deriven de la desvi
 
 ###### ARTICULO 347.
 
-El Sistema de Protección Social en Salud contará con un Régimen Estatal de Protección Social en Salud, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno.
+El Sistema de Protección Social en Salud contará con un Régimen Estatal de Protección Social en Salud, como Organismo Público Descentralizado sectorizado a la Secretaría de Salud, con la estructura y funciones que le asignen el decreto de creación y su reglamento interior.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2778,3 +2786,17 @@ G.O. 27 DE FEBRERO DE 2007.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE ABRIL DE 2008.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Cuando en leyes y ordenamiento (sic) diversos se aluda al Régimen Estatal de Protección Social en Salud de Veracruz, se entenderá al organismo público descentralizado Régimen Estatal de Protección Social en Salud.
+
+Tercero. La Secretaría de Salud deberá adecuar su Reglamento y demás disposiciones internas, en un término que no deberá exceder de sesenta días, a partir de la entrada en vigor del presente decreto.
+
+Cuarto. El organismo público descentralizado Régimen Estatal de Protección Social en Salud deberá expedir su Reglamento Interior, en un término no mayor a sesenta días, contados a partir de la entrada en vigor del decreto de su creación.
+
+Quinto. Se abroga el Reglamento Interno del Régimen Estatal de Protección Social en Salud de Veracruz, publicado el 5 de junio de 2007.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
