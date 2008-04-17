@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2006-06-06"
+last_updated: "2008-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2008.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -78,15 +78,17 @@ Toda persona que, según las leyes comunes, es hábil para contratar y obligarse
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2005)</small>
 
-ARTICULO 6 bis. Los comerciantes deberán realizar su actividad de acuerdo a los usos honestos en materia industrial o comercial, por lo que se abstendrán de realizar actos de competencia desleal que:
+###### Art. 6 Bis.
 
-I.- Creen confusión, por cualquier medio que sea, respecto del establecimiento, los productos o la actividad industrial o comercial, de otro comerciante;
+Los comerciantes deberán realizar su actividad de acuerdo a los usos honestos en materia industrial o comercial, por lo que se abstendrán de realizar actos de competencia desleal que:
 
-II.- Desacrediten, mediante aseveraciones falsas, el establecimiento, los productos o la actividad industrial o comercial, de cualquier otro comerciante;
+I. Creen confusión, por cualquier medio que sea, respecto del establecimiento, los productos o la actividad industrial o comercial, de otro comerciante;
 
-III.- Induzcan al público a error sobre la naturaleza, el modo de fabricación, las características, la aptitud en el empleo o la cantidad de los productos, o
+II. Desacrediten, mediante aseveraciones falsas, el establecimiento, los productos o la actividad industrial o comercial, de cualquier otro comerciante;
 
-IV.- Se encuentren previstos en otras leyes.
+III. Induzcan al público a error sobre la naturaleza, el modo de fabricación, las características, la aptitud en el empleo o la cantidad de los productos, o
+
+IV. Se encuentren previstos en otras leyes.
 
 Las acciones civiles producto de actos de competencia desleal, sólo podrán iniciarse cuando se haya obtenido un pronunciamiento firme en la vía administrativa, si ésta es aplicable.
 
@@ -96,7 +98,7 @@ Las acciones civiles producto de actos de competencia desleal, sólo podrán ini
 
 ###### Art. 8°.
 
-(DEROGADO, D.O.F. 6 DE ENERO DE 1954)
+(DEROGADO, D.O.F. 27 DE ENERO DE 1970)
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1954)</small>
 
@@ -290,9 +292,9 @@ XIX. Las fianzas de los corredores.
 
 El procedimiento para la inscripción de actos mercantiles en el Registro Público de Comercio se sujetará a las bases siguientes:
 
-I.- Será automatizado y estará sujeto a plazos máximos de respuesta;
+I. Será automatizado y estará sujeto a plazos máximos de respuesta;
 
-II.- Constará de las fases de:
+II. Constará de las fases de:
 
 a) Recepción, física o electrónica de una forma precodificada, acompañada del instrumento en el que conste el acto a inscribir, pago de los derechos, generación de una boleta de ingreso y del número de control progresivo e invariable para cada acto;
 
@@ -334,13 +336,13 @@ Las sociedades extranjeras deberán acreditar, para su inscripción en el Regist
 
 Los actos que conforme a este Código u otras leyes deban inscribirse en el Registro Público de Comercio deberán constar en:
 
-I.- Instrumentos públicos otorgados ante notario o corredor público;
+I. Instrumentos públicos otorgados ante notario o corredor público;
 
-II.- Resoluciones y providencias judiciales o administrativas certificadas;
+II. Resoluciones y providencias judiciales o administrativas certificadas;
 
-III.- Documentos privados ratificados ante notario o corredor público, o autoridad judicial competente, según corresponda, o
+III. Documentos privados ratificados ante notario o corredor público, o autoridad judicial competente, según corresponda, o
 
-IV.- Los demás documentos que de conformidad con otras leyes así lo prevean.
+IV. Los demás documentos que de conformidad con otras leyes así lo prevean.
 
 (REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -472,7 +474,7 @@ En el libro mayor se deberán anotar, como mínimo y por lo menos una vez al mes
 
 En el libro o los libros de actas se harán constar todos los acuerdos relativos a la marcha del negocio que tomen las asambleas o juntas de socios, y en su caso, los consejos de administración.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. DE 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. DE 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
@@ -560,7 +562,7 @@ Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)</small>
 
-## TÍTULO TERCERO.
+## TITULO TERCERO.
 
 DE LOS CORREDORES.
 
@@ -666,7 +668,7 @@ DE LOS CORREDORES.
 
 DEL COMERCIO EN GENERAL.
 
-## TÍTULO PRIMERO.
+## TITULO PRIMERO.
 
 DE LOS ACTOS DE COMERCIO Y DE LOS CONTRATOS MERCANTILES EN GENERAL.
 
@@ -808,7 +810,7 @@ En el contrato mercantil en que se fijare pena de indemnización contra el que n
 
 (ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-## TÍTULO SEGUNDO.
+## TITULO SEGUNDO.
 
 DEL COMERCIO ELECTRONICO.
 
@@ -866,7 +868,9 @@ Titular del Certificado: Se entenderá a la persona a cuyo favor fue expedido el
 
 > <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
-Art. 89 bis. No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un Mensaje de Datos.
+###### Art. 89 Bis.
+
+No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un Mensaje de Datos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -886,7 +890,9 @@ III. Por un Sistema de Información programado por el Emisor o en su nombre para
 
 > <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
-Art. 90 bis. Se presume que un Mensaje de Datos ha sido enviado por el Emisor y, por lo tanto, el Destinatario o la Parte que Confía, en su caso, podrá actuar en consecuencia, cuando:
+###### Art. 90 Bis.
+
+Se presume que un Mensaje de Datos ha sido enviado por el Emisor y, por lo tanto, el Destinatario o la Parte que Confía, en su caso, podrá actuar en consecuencia, cuando:
 
 I. Haya aplicado en forma adecuada el procedimiento acordado previamente con el Emisor, con el fin de establecer que el Mensaje de Datos provenía efectivamente de éste, o
 
@@ -920,7 +926,9 @@ Lo dispuesto en este artículo será aplicable aun cuando el Sistema de Informac
 
 > <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
-Art. 91 bis. Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido cuando ingrese en un Sistema de Información que no esté bajo el control del Emisor o del Intermediario.
+###### Art. 91 Bis.
+
+Salvo pacto en contrario entre el Emisor y el Destinatario, el Mensaje de Datos se tendrá por expedido cuando ingrese en un Sistema de Información que no esté bajo el control del Emisor o del Intermediario.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -964,7 +972,9 @@ En los casos en que la ley establezca como requisito que un acto jurídico deba 
 
 > <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
-Art. 93 bis. Sin perjuicio de lo dispuesto en el artículo 49 de este Código, cuando la ley requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho respecto a un Mensaje de Datos:
+###### Art. 93 Bis.
+
+Sin perjuicio de lo dispuesto en el artículo 49 de este Código, cuando la ley requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho respecto a un Mensaje de Datos:
 
 I. Si existe garantía confiable de que se ha conservado la integridad de la información, a partir del momento en que se generó por primera vez en su forma definitiva, como Mensaje de Datos o en alguna otra forma, y
 
@@ -1988,7 +1998,7 @@ De los comisionistas.
 
 (DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
-## TÍTULO TERCERO.
+## TITULO TERCERO.
 
 DE LA COMISIÓN MERCANTIL.
 
@@ -2018,7 +2028,7 @@ Aunque el comisionista rehuse la comisión que se le confiera, no estará dispen
 
 ###### Art. 278.
 
-Cuando sin causa legal dejare el comisionista de avisar que rehusa la comisión, ó de cumplirla expresa ó tácitamente aceptada, será responsable al comitente de todos los daños que por ello le sobrevengan.
+Cuando sin causa legal dejare el comisionista de avisar que rehusa la comisión, ó de cumplir la expresa ó tácitamente aceptada, será responsable al comitente de todos los daños que por ello le sobrevengan.
 
 ###### Art. 279.
 
@@ -2264,7 +2274,7 @@ I. Por falta de cumplimiento, por parte del principal, de cualquiera de las cond
 
 II. Por malos tratamientos ú ofensas graves, por parte del principal.
 
-## TÍTULO CUARTO.
+## TITULO CUARTO.
 
 DEL DEPÓSITO MERCANTIL.
 
@@ -2388,7 +2398,7 @@ Del préstamo mercantil en general.
 
 (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TÍTULO QUINTO.
+## TITULO QUINTO.
 
 DEL PRÉSTAMO MERCANTIL.
 
@@ -2466,7 +2476,7 @@ De la compraventa.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE JUNIO DE 2000)</small>
 
-## TÍTULO SEXTO.. DE LA COMPRAVENTA Y PERMUTA MERCANTILES, DE LA CESIÓN DE CRÉDITOS COMERCIALES Y DE LA CONSIGNACION MERCANTIL
+## TITULO SEXTO.. DE LA COMPRAVENTA Y PERMUTA MERCANTILES, DE LA CESIÓN DE CRÉDITOS COMERCIALES Y DE LA CONSIGNACION MERCANTIL
 
 ### CAPÍTULO II.
 
@@ -2484,7 +2494,7 @@ En las compraventas mercantiles se sujetarán los contratantes á todas las esti
 
 Las compraventas que se hicieren sobre muestras ó calidades de mercancías determinadas y conocidas en el comercio, se tendrán por perfeccionadas por el solo consentimiento de las partes.
 
-En caso de desavenencia entre los contratantes, dos comerciantes nombrados uno por cada parte, y un tercero para el caso de discordia nombrado por éstos, resolverán sobre la conformidad o inconformidad de las mercancías con las muestras ó calidades que sirvieron de base al contrato.
+En caso de desavenencia entre los contratantes, dos comerciantes nombrados uno por cada parte, y un tercero para el caso de discordia nombrado por éstos, resolverán sobre la conformidad ó inconformidad de las mercancías con las muestras ó calidades que sirvieron de base al contrato.
 
 ###### Art. 374.
 
@@ -2638,7 +2648,7 @@ V. Incumplimiento de las obligaciones de alguna de las partes.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
-## TÍTULO SÉPTIMO.
+## TITULO SÉPTIMO.
 
 DE LOS CONTRATOS DE SEGUROS.
 
@@ -2890,7 +2900,7 @@ De la forma, plazos y vencimientos de las letras de cambio.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TÍTULO OCTAVO.
+## TITULO OCTAVO.
 
 DEL CONTRATO Y LETRAS DE CAMBIO.
 
@@ -3340,7 +3350,7 @@ De las libranzas, vales y pagarés.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TÍTULO NOVENO.
+## TITULO NOVENO.
 
 DE LAS LIBRANZAS, VALES, PAGARÉS, CHEQUES Y CARTAS DE CRÉDITO.
 
@@ -3486,7 +3496,7 @@ Del contrato mercantil de trasporte terrestre.
 
 (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TÍTULO DÉCIMO.
+## TITULO DECIMO.
 
 DE LOS TRASPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
 
@@ -3552,7 +3562,7 @@ Los títulos legales del contrato entre el cargador y el porteador serán las ca
 
 Cumpliendo el contrato se devolverá al porteador la carta de porte que hubiere expedido, y en virtud del canje de este título por el objeto porteado, se tendrán por canceladas las respectivas obligaciones y acciones, salvo cuando en el mismo acto se hicieren constar por escrito en el mismo título las reclamaciones que las partes quisieran reservarse; excepción hecha de lo que se determina en la fracción III del artículo 595.
 
-En caso de que por extravío u otra causa no pueda el consignatario devolver en el acto de recibir los géneros, la carta de porte que él hubiere recibido suscrita por el porteador, deberá darle un recibo de los objetos entregados, produciendo este recibo los mismos efectos que la devolución de la carta de porte. Si ésta fuere á la orden ó al portador, el recibo se extenderá con los requisitos que establece el título respectivo.
+En caso de que por extravío ú otra causa no pueda el consignatario devolver en el acto de recibir los géneros, la carta de porte que él hubiere recibido suscrita por el porteador, deberá darle un recibo de los objetos entregados, produciendo este recibo los mismos efectos que la devolución de la carta de porte. Si ésta fuere á la orden ó al portador, el recibo se extenderá con los requisitos que establece el título respectivo.
 
 ###### Art. 584.
 
@@ -3726,7 +3736,7 @@ Si después del plazo á que alude el artículo anterior, el cargador ó su repr
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TÍTULO UNDÉCIMO.
+## TITULO UNDECIMO.
 
 DE LA PRENDA MERCANTIL.
 
@@ -3776,7 +3786,7 @@ DE LA PRENDA MERCANTIL.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TÍTULO DECIMO SEGUNDO
+## TITULO DECIMO SEGUNDO
 
 DE LOS EFECTOS AL PORTADOR Y DE LA FALSEDAD, ROBO, HURTO Ó EXTRAVÍO DE LOS MISMOS.
 
@@ -3868,11 +3878,9 @@ De los navieros.
 
 (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-TÍTULO DECIMOTERCERO.
+## TITULO DECIMO TERCERO.
 
 DE LA MONEDA.
-
-## TÍTULO PRIMERO. DE LAS EMBARCACIONES
 
 ###### Art. 635.
 
@@ -3894,15 +3902,9 @@ Nadie puede ser obligado á recibir moneda extranjera.
 
 El papel, billetes de Banco y títulos de deuda extranjeros, no pueden ser objeto de actos mercantiles en la República, sino considerándolos como simples mercancías; pero podrán ser objeto de contratos puramente civiles.
 
-TÍTULO DECIMOCUARTO.
+## TITULO DECIMO CUARTO.
 
 DE LAS INSTITUCIONES DE CRÉDITO.
-
-## TÍTULO SEGUNDO.
-
-DE LAS PERSONAS QUE INTERVIENEN EN EL COMERCIO MARÍTIMO.
-
-(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### Art. 640.
 
@@ -3916,11 +3918,9 @@ DEL COMERCIO MARÍTIMO.
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-## TÍTULO TERCERO.
+## TITULO PRIMERO.
 
-DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
-
-(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+DE LAS EMBARCACIONES.
 
 ###### Art. 641.
 
@@ -4024,9 +4024,9 @@ DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-## TÍTULO CUARTO.
+## TITULO SEGUNDO.
 
-DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
+DE LAS PERSONAS QUE INTERVIENEN EN EL COMERCIO MARÍTIMO.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
@@ -4300,9 +4300,9 @@ De las formas y efectos del contrato de fletamento.
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-## TÍTULO QUINTO.
+## TITULO TERCERO.
 
-DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
+DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
@@ -4604,9 +4604,7 @@ Del contrato á la gruesa ó préstamo á riesgo marítimo.
 
 (DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-###### Art. 793.
-
-(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+Art. 793 (DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
@@ -4996,11 +4994,11 @@ De las averías.
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-## TÍTULO PRIMERO.
+## TITULO CUARTO.
 
-DE LAS QUIEBRAS.
+DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPÍTULO II.
 
@@ -5186,55 +5184,11 @@ Disposiciones comunes á toda clase de averías.
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-## TÍTULO SEGUNDO.
+## TITULO QUINTO.
 
-DE LAS PRESCRIPCIONES.
+DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
 
-Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
-
-Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
-
-Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
-
-Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
-
-Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
-
-Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
-
-Art. 1,043. En un año se prescribirán:
-
-I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
-
-II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
-
-III. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
-
-IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
-
-V. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
-
-VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
-
-VII. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
-
-VIII. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
-
-Art. 1,044. (DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
-
-Art. 1,045. Se prescribirán en cinco años:
-
-I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
-
-II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
-
-Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
-
-El capitán de un navío no puede adquirir éste á virtud de la prescripción.
-
-Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
-
-Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPÍTULO II.
 
@@ -5352,9 +5306,11 @@ Disposiciones generales.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-## TÍTULO PRIMERO.
+## TITULO PRIMERO.
 
-DISPOSICIONES GENERALES.
+DE LAS QUIEBRAS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO II.
 
@@ -5636,7 +5592,7 @@ Art. 1,003. (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE 
 
 Art. 1,004. (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,005 (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+Art. 1,005. (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,006. (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
@@ -5740,9 +5696,11 @@ VI. El convenio también deberá expresar los nombres de los otorgantes, su capa
 
 En las demás materias, a falta de acuerdo especial u omisión de las partes en la regulación procesal convenida, se observarán las disposiciones de este libro.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,054.- En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,054. En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule la institución cuya suplencia se requiera, la ley de procedimientos local respectiva.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5766,269 +5724,67 @@ VIII. Los tribunales podrán ordenar que se subsane toda omisión que notaren en
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,055 Bis.- Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, especial, sumario hipotecario o el que corresponda, de acuerdo a esta Ley, a la legislación mercantil o a la legislación civil aplicable, conservando la garantía real y su preferencia en el pago, aun cuando los bienes gravados se señalen para la práctica de la ejecución.
+Art. 1,055 Bis. Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, especial, sumario hipotecario o el que corresponda, de acuerdo a esta Ley, a la legislación mercantil o a la legislación civil aplicable, conservando la garantía real y su preferencia en el pago, aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MAYO DE 1996)</small>
 
-## TÍTULO SEGUNDO
+## TITULO SEGUNDO.
 
-DE LOS JUICIOS ORDINARIOS.
+DE LAS PRESCRIPCIONES.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
 
-Art. 1,377. Todas las contiendas entre partes que no tengan señalada tramitación especial en las leyes mercantiles, se ventilarán en juicio ordinario.
+Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
 
-Art. 1,378. En el escrito de demanda el actor deberá mencionar los documentos públicos y privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De igual manera, proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos contenidos en la demanda, y las copias simples prevenidas en el artículo 1061. Admitida la demanda se emplazará al demandado para que produzca su contestación dentro del término de nueve días.
+Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
 
-Con el escrito de contestación a la demanda se dará vista al actor, para que manifieste lo que a su derecho convenga dentro del término de tres días y para que mencione a los testigos que hayan presenciado los hechos, y los documentos relacionados con los hechos de la controversia.
+Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
 
-Art. 1,379. Las excepciones que tenga el demandado, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes.
+Art. 1,043. En un año se prescribirán:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MAYO DE 1996)</small>
+I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
 
-Art. 1,380. En la contestación a la demanda, en los juicios ordinarios, deberá proponerse la reconvención en los casos en que proceda. De la reconvención se dará traslado a la parte contraria para que la conteste dentro del término de nueve días, y con dicha contestación se dará vista el (sic) reconveniente para los mismos fines que se indican en el último párrafo del artículo 1378 de este Código.
+II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+III. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-El juicio principal y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
+IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
 
-Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
+V. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
+VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+VII. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-Art. 1,383. Según la naturaleza y calidad del negocio el juez fijará de oficio o a petición de parte que se abra el mismo a prueba, no pudiendo exceder de cuarenta días, de los cuales los diez días primeros serán para ofrecimiento y los treinta siguientes para desahogo de pruebas. Si el juez señala un término inferior al máximo que se autoriza, deberá precisar cuántos días completos se destinan para ofrecimiento y cuántos días completos para el desahogo, procurando que sea en la misma proporción que se indica anteriormente.
+VIII. (DEROGADA POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-Cuando las pruebas hubieren de practicarse fuera del lugar del juicio, se recibirán a petición de parte dentro de términos hasta de sesenta y noventa días naturales, si se tratare de pruebas a desahogarse dentro de la República Mexicana, o fuera de ella, respectivamente, siempre que se llenen los siguientes requisitos:
+Art. 1,044. (DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-I. Que se solicite durante los diez primeros días del período probatorio;
+Art. 1,045. Se prescribirán en cinco años:
 
-II. Que se indiquen los nombres, apellidos y domicilio de las partes o testigos, que hayan de ser examinados cuando se trate de pruebas confesional o testimonial, exhibiendo en el mismo acto el pliego de posiciones o los interrogatorios a testigos; y
+I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
 
-III. Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que hayan que testimoniarse o presentarse originales.
+II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
 
-El juez al calificar la admisibilidad de las pruebas, determinará si los interrogatorios exhibidos para la confesional o la testimonial guardan relación con los puntos controvertidos o si los documentos y los testigos fueron nombrados al demandar o contestar la demanda, y si no reúnen estos requisitos se desecharán de plano.
+Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
 
-De no exhibirse el pliego de posiciones, o los interrogatorios a testigos con las copias correspondientes de éstos, no se admitirán las pruebas respectivas.
+El capitán de un navío no puede adquirir éste á virtud de la prescripción.
 
-En el caso de concederse el término extraordinario, el juez por cada prueba para la que conceda dicho término determinará una cantidad que el promovente deposite como sanción pecuniaria en caso de no rendirse alguna de las pruebas que se solicitan se practiquen fuera del lugar del juicio. En ningún caso las cantidades que se ordenen se depositen como sanción pecuniaria serán inferiores al equivalente del importe de sesenta días del salario mínimo diario general vigente en el Distrito Federal, teniendo el juez la facultad discrecional de señalar importes mayores al mínimo señalado anteriormente, tomando en cuenta la suerte principal del juicio y demás circunstancias que considere prudentes.
+Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
 
-El que proponga dichas pruebas deberá exhibir las cantidades que fije el juez, en billete de depósito dentro del término de tres días, y en caso de no hacerlo así, no se admitirá la prueba.
-
-La prueba para la cual se haya concedido el término extraordinario y que no se reciba, dará lugar a que el juez haga efectiva la sanción pecuniaria correspondiente en favor del colitigante.
-
-Las pruebas que deban recibirse fuera del lugar del juicio, se tramitarán mediante exhorto que se entregue al solicitante, quien por el hecho de recibirlo no podrá alegar que el mismo no se expidió con las constancias necesarias, a menos de que lo hagan saber al tribunal exhortante dentro del término de tres días, para que devolviendo el exhorto recibido corrija o complete el mismo o lo substituya.
-
-Transcurrido el término extraordinario concedido, que empezará a contar a partir de la fecha en que surta efectos la notificación a las partes, según certificación que haga la secretaría, sin que se haga devolución del exhorto diligenciado, sin causa justificada, se hará efectiva la sanción pecuniaria y se procederá a condenar en costas.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,384. Dentro del término concedido para ofrecimiento de pruebas, la parte que pretenda su prórroga pedirá que se le conceda la misma, y el juez dará vista a la contraria por el término de tres días, y de acuerdo a lo que alegaren las partes se concederá o denegará. Si ambas partes estuvieran conformes en la prórroga la misma se concederá por todo el plazo en que convengan, no pudiendo exceder del término de noventa días.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,385. Transcurrido el término de pruebas, el juez en todos los casos en que no se haya concluido el desahogo de las mismas, mandará concluirlas en los plazos que al efecto se autorizan en este Código.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,386. Las pruebas deberán desahogarse dentro de los términos y prórrogas que se autorizan y aquellas que no se logren concluir serán a perjuicio de las partes, sin que el juez pueda prorrogar los plazos si la ley no se lo permite.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,387. Para las pruebas documentales y supervenientes se observará lo que dispone este Código, y en su defecto lo que al efecto disponga la Ley Procesal de la entidad federativa que corresponda.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,388. Concluido el término probatorio, se pondrán los autos a la vista de las partes, para que dentro del término común de tres días produzcan sus alegatos, y transcurrido dicho plazo hayan alegado o no, el tribunal de oficio, citará para oír sentencia definitiva la que dictará y notificará dentro del término de quince días.
-
-Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
-
-Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
+Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
 
 # LIBRO QUINTO.
 
 DE LOS JUICIOS MERCANTILES.
 
-## TÍTULO TERCERO
+## TITULO PRIMERO.
 
-DE LOS JUICIOS EJECUTIVOS.
-
-Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
-
-Traen aparejada ejecución:
-
-I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-II. Los instrumentos públicos, así como los testimonios y copias certificadas que de los mismos expidan los fedatarios públicos;
-
-III. La confesión judicial del deudor, según el artículo 1,288;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-IV. Los títulos de crédito;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-V. Las pólizas de seguros conforme a la ley de la materia;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en la ley de la materia;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor, y
-
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-VIII. Los demás documentos que por disposición de la ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto, con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda, los gastos y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Art. 1,393.- No encontrándose el deudor a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,394. La diligencia de embargo se iniciará con el requerimiento de pago al deudor, su representante o la persona con la que se entienda, de las indicadas en el artículo anterior; de no hacerse el pago, se requerirá al demandado, su representante o la persona con quien se entiende la diligencia, para que señale bienes suficientes para garantizar las prestaciones reclamadas, apercibiéndolo que de no hacerlo, el derecho para señalar bienes pasará al actor. A continuación se emplazará al demandado.
-
-En todos los casos se le entregará a dicho demandado cédula en la que se contengan la orden de embargo decretada en su contra, dejándole copia de la diligencia practicada, corriéndole traslado con la copia de demanda, de los documentos base de la acción y demás que se ordenan por el artículo 1061.
-
-La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio.
-
-El juez, en ningún caso, suspenderá su jurisdicción para dejar de resolver todo lo concerniente al embargo, su inscripción en el Registro Público que corresponda, desembargo, rendición de cuentas por el depositario respecto de los gastos de administración y de las demás medidas urgentes, provisionales o no, relativas a los actos anteriores.
-
-Art. 1,395. En el embargo de bienes se seguirá este orden:
-
-I. Las mercancías;
-
-II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
-
-III. Los demás muebles del deudor;
-
-IV. Los inmuebles;
-
-V. Las demás acciones y derechos que tenga el demandado.
-
-Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Tratándose de embargo de inmuebles, a petición de la parte actora, el juez requerirá que la demandada exhiba el o los contratos celebrados con anterioridad que impliquen la transmisión del uso o de la posesión de los mismos a terceros. Sólo se aceptarán contratos que cumplan con todos los requisitos legales y administrativos aplicables.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Una vez trabado el embargo, el ejecutado no puede alterar en forma alguna el bien embargado, ni celebrar contratos que impliquen el uso del mismo, sin previa autorización del juez, quien al decidir deberá recabar la opinión del ejecutante. Registrado que sea el embargo, toda transmisión de derechos respecto de los bienes sobre los que se haya trabado no altera de manera alguna la situación jurídica de los mismos en relación con el derecho que, en su caso, corresponda al embargante de obtener el pago de su crédito con el producto del remate de esos bienes, derecho que se surtirá en contra de tercero con la misma amplitud y en los mismos términos que se surtiría en contra del embargado, si no hubiese operado la transmisión.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Cometerá el delito de desobediencia el ejecutado que transmita el uso del bien embargado sin previa autorización judicial.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,396. Hecho el embargo, acto contínuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de cinco días comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
-
-Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
-
-Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,399. Dentro de los cinco días siguientes al requerimiento de pago, al embargo, en su caso y al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada hecho, oponiendo únicamente las excepciones que permite la ley en el artículo 1403 de este Código, y tratándose de títulos de crédito las del artículo 8o. de la Ley General de Títulos y Operaciones de Crédito, y en el mismo escrito ofrecerá pruebas, relacionándolas con los hechos y acompañando los documentos que exige la ley para las excepciones.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,400. Si el demandado dejare de cumplir con lo dispuesto por el artículo 1061 de este ordenamiento respecto de las documentales en que funde sus excepciones, el juez dejará de admitirlas, salvo las que sean supervenientes.
-
-En caso de que el demandado hubiere exhibido las documentales respectivas, o cumplido con lo que ordena el artículo 1061 de este ordenamiento, se tendrán por opuestas las excepciones que permite la ley, con las cuales se dará vista al actor por tres días para que manifieste y ofrezca las pruebas que a su derecho convenga.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,401. En los escritos de demanda, contestación y desahogo de vista de ésta, las partes ofrecerán sus pruebas, relacionándolas con los puntos controvertidos, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este artículo; así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario que deban resolver; y todas las demás pruebas que permitan las leyes.
-
-Si los testigos no se hubieren mencionado con sus nombres y apellidos en los escritos que fijan la litis, el juez no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Desahogada la vista o transcurrido el plazo para hacerlo, el juez admitirá y mandará preparar las pruebas que procedan, de acuerdo con el Código Federal de Procedimientos Civiles, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
-
-Las pruebas que se reciban fuera del término concedido por el juez, o su prórroga si la hubiere decretado, serán bajo la responsabilidad de éste, quien sin embargo, podrá mandarlas concluir en una sola audiencia indiferible que se celebrará dentro de los diez días siguientes.
-
-Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
-
-Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
-
-I. Falsedad del título ó del contrato contenido en él;
-
-II. Fuerza ó miedo;
-
-III. Prescripción ó caducidad del título;
-
-IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
-
-V. Incompetencia del juez;
-
-VI. Pago ó compensación;
-
-VII. Remisión ó quita;
-
-VIII. Oferta de no cobrar ó espera;
-
-IX. Novación de contrato.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Las excepciones comprendidas desde la fracción IV a la IX sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,404. En los juicios ejecutivos los incidentes no suspenderán el procedimiento y se tramitarán cualquiera que sea su naturaleza con un escrito de cada parte y contándose con tres días para dictar resolución. Si se promueve prueba deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que verse, y se citará para audiencia indiferible dentro del término de ocho días, en que se reciba, se oigan brevemente las alegaciones, y en la misma se dicte la resolución correspondiente que debe notificarse a las partes en el acto, o a más tardar el día siguiente.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,405. Si el deudor se allanare a la demanda y solicitare término de gracia para el pago de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a tales proposiciones de las partes.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,406. Concluido el término de prueba, se pasará al período de alegatos, el que será de dos días comunes para las partes.
-
-Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
-
-Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
-
-Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
-
-Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
-
-Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
-
-Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Art. 1,412 Bis.- Cuando el monto líquido de la condena fuere superior al valor de los bienes embargados, previamente valuados en términos del artículo 1410 de este Código, y del certificado de gravámenes no aparecieren otros acreedores, el ejecutante podrá optar por la adjudicación directa de los bienes que haya en su favor al valor fijado en el avalúo.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Art. 1,412 Bis 1.- Tratándose del remate y adjudicación de inmuebles, el juez y el adjudicatario, sin más trámite, otorgarán la escritura pública correspondiente ante fedatario público.
-
-Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-Art. 1,414.- Cualquier incidente o cuestión que se suscite en los juicios ejecutivos mercantiles, será resuelto por el juez con apoyo en las disposiciones respectivas de este título; y en su defecto, en lo relativo a los incidentes en los juicios ordinarios mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+DISPOSICIONES GENERALES.
 
 ### CAPÍTULO II
 
@@ -6038,13 +5794,17 @@ De la capacidad y personalidad.
 
 Art. 1,056. Todo el que, conforme a la ley esté en el pleno ejercicio de sus derechos puede comparecer en juicio. Aquellos que no se hallen en el caso anterior, comparecerán a juicio por medio de sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Código Civil Federal.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,057. El juez examinará de oficio la personalidad de las partes, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, en vía incidental que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, sin perjuicio de lo dispuesto por el artículo 1126 de este Código.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+Art. 1,057. El juez examinará de oficio la personalidad de las partes, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, en vía incidental que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, de tramitación inmediata, sin perjuicio de lo dispuesto por el artículo 1126 de este Código.
 
-Art. 1,058. Por aquel que no estuviere presente en el lugar del juicio ni tenga representante legítimo, podrá comparecer un gestor judicial para promover en el interés del actor o del demandado, y siempre sujetándose a las disposiciones de los artículos 1896 a 1909 del Código Civil para el Distrito Federal, y gozará de los derechos y facultades de un mandatario judicial. Si la ratificación de la gestión se da antes de exhibir la fianza, la exhibición de ésta no será necesaria.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,058. Por aquel que no estuviere presente en el lugar del juicio ni tenga representante legítimo, podrá comparecer un gestor judicial para promover en el interés del actor o del demandado, y siempre sujetándose a las disposiciones de los artículos relativos del Código Civil Federal, y gozará de los derechos y facultades de un mandatario judicial. Si la ratificación de la gestión se da antes de exhibir la fianza, la exhibición de ésta no será necesaria.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6098,9 +5858,11 @@ Art. 1,062. En el caso de que se demuestre haber solicitado al protocolo depende
 
 De las formalidades judiciales.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,063.- Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,063. Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles y en último término por el Código de Procedimientos Civiles local.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -6174,9 +5936,11 @@ Cuando un litigante no cumpla con la primera parte de este artículo las notific
 
 Las partes podrán autorizar para oír notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en Derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional o carta de pasante para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el penúltimo párrafo de este artículo.
 
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las personas autorizadas en los términos de este artículo, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil para el Distrito Federal, relativas al mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al tribunal, haciendo saber las causas de la renuncia.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Las personas autorizadas en los términos de este artículo, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil Federal, relativas al mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al tribunal, haciendo saber las causas de la renuncia.
 
 > <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6192,7 +5956,7 @@ El juez al acordar lo relativo a la autorización a que se refiere este artícul
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,070.- Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva tres veces consecutivas en un periódico de circulación amplia y de cobertura nacional y en un periódico local del Estado o del Distrito Federal en que el comerciante deba ser demandado.
+Art. 1,070. Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva tres veces consecutivas en un periódico de circulación amplia y de cobertura nacional y en un periódico local del Estado o del Distrito Federal en que el comerciante deba ser demandado.
 
 Previamente a la notificación por edictos en términos del párrafo anterior, el juez ordenará recabar informe de una autoridad o una institución pública que cuente con registro oficial de personas. Bastará el informe de una sola autoridad o institución para que proceda la notificación por edictos.
 
@@ -6206,7 +5970,7 @@ Mientras un litigante no hiciere substitución del domicilio en donde se deban p
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,070 Bis.- Las instituciones y autoridades estarán obligadas a proporcionar la información a que se refiere el artículo 1070 de este Código, en un plazo no mayor a treinta días hábiles y, en caso de no hacerlo, la autoridad judicial dictará las medidas de apremio correspondientes a la persona o funcionario responsables de contestar los informes, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
+Art. 1,070 Bis. Las instituciones y autoridades estarán obligadas a proporcionar la información a que se refiere el artículo 1070 de este Código, en un plazo no mayor a treinta días hábiles y, en caso de no hacerlo, la autoridad judicial dictará las medidas de apremio correspondientes a la persona o funcionario responsables de contestar los informes, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -6352,9 +6116,11 @@ Art. 1,079. Cuando la ley no señale término para la práctica de algún acto j
 
 I. Ocho días, a juicio del juez, para que dentro de ellos se señalen fechas de audiencia para la recepción de pruebas, reconocimiento de firmas, confesión, posiciones, declaraciones, exhibición de documentos, juicio de peritos y práctica de otras diligencias, a no ser que por circunstancias especiales, creyere justo el juez ampliar el término;
 
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Nueve días para interponer el recurso de apelación contra sentencia definitiva y seis días cuando se trate de interlocutoria o auto, y para pedir aclaración;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+II. Nueve días para interponer el recurso de apelación contra sentencia definitiva, seis días cuando se trate de interlocutoria o auto de tramitación inmediata, y tres días para apelar preventivamente la sentencia interlocutoria o auto de tramitación conjunta con la definitiva, en los términos del artículo 1339 de este Código;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6452,13 +6218,13 @@ Art. 1,090. Toda demanda debe interponerse ante juez competente.
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,091.- Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor, salvo lo que dispongan en contrario las leyes orgánicas aplicables.
+Art. 1,091. Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor, salvo lo que dispongan en contrario las leyes orgánicas aplicables.
 
 Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa ó tácitamente.
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,093.- Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede, y para el caso de controversia, señalan como tribunales competentes a los del domicilio de cualquiera de las partes, del lugar de cumplimiento de alguna de las obligaciones contraídas, o de la ubicación de la cosa.
+Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede, y para el caso de controversia, señalan como tribunales competentes a los del domicilio de cualquiera de las partes, del lugar de cumplimiento de alguna de las obligaciones contraídas, o de la ubicación de la cosa.
 
 Art. 1,094. Se entienden sometidos tácitamente:
 
@@ -6490,9 +6256,9 @@ Si el valor de la reconvención es inferior a la cuantía de la competencia del 
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,097.- El juez o tribunal, que de las actuaciones de la incompetencia promovida, deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no exceda del equivalente de cien días de salario mínimo vigente en el lugar en que se desahogue el procedimiento.
+Art. 1,097. El juez o tribunal, que de las actuaciones de la incompetencia promovida, deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no exceda del equivalente de cien días de salario mínimo vigente en el lugar en que se desahogue el procedimiento.
 
-Art. 1,097-Bis. (DEROGADO, D.O.F. 23 DE MAYO DE 2000)
+Art. 1,097 Bis. (DEROGADO, D.O.F. 23 DE MAYO DE 2000)
 
 Art. 1,098. (DEROGADO, D.O.F. 23 DE MAYO DE 2000)
 
@@ -6518,7 +6284,7 @@ Art. 1,103. Los litigantes pueden desistirse de la competencia antes o después 
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,104.- Salvo lo dispuesto en el artículo 1093, sea cual fuere la naturaleza del juicio, serán preferidos a cualquier otro juez:
+Art. 1,104. Salvo lo dispuesto en el artículo 1093, sea cual fuere la naturaleza del juicio, serán preferidos a cualquier otro juez:
 
 I. El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
 
@@ -6526,7 +6292,7 @@ II. El del lugar designado en el contrato para el cumplimiento de la obligación
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,105.- Si no se ha hecho la designación que autoriza el artículo 1093, será competente el juez del domicilio del deudor, sea cual fuere la acción que se ejercite.
+Art. 1,105. Si no se ha hecho la designación que autoriza el artículo 1093, será competente el juez del domicilio del deudor, sea cual fuere la acción que se ejercite.
 
 Art. 1,106. Si el deudor tuviese varios domicilios, será preferido el que elija el acreedor.
 
@@ -6898,9 +6664,11 @@ Art. 1,153. El juez puede disponer lo que crea conveniente, ya para cerciorarse 
 
 Contra la resolución del juez que conceda la diligencia preparatoria no cabe recurso alguno. Contra la resolución que la deniegue habrá el de apelación en ambos efectos si fuere dictada por un juez de primera instancia, o el de revocación si fuere dictada por juez menor o de paz.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,154. La acción que puede ejercitarse conforme a las fracciones II y III del artículo 1151 procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y en la misma se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo la misma, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,154. La acción que puede ejercitarse conforme a las fracciones II y III del artículo 1151 procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y en la misma se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo la misma, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6964,7 +6732,11 @@ El actor formulará su demanda en vía ejecutiva, ante el mismo juez que conoci�
 
 Cuando se despache auto de ejecución, se seguirá el juicio en la vía ejecutiva como marca la ley para los de su clase.
 
-La resolución que niegue el auto de ejecución será apelable en ambos efectos, y en caso contrario se admitirá en el efecto devolutivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+La resolución que niegue el auto de ejecución será apelable en ambos efectos, y en caso contrario se admitirá en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7048,7 +6820,11 @@ Art. 1,189. Reclamada la providencia en escrito de demanda en el que se ofrezcan
 
 Art. 1,190. En la audiencia a que se refiere el artículo anterior, se recibirán las pruebas y concluido su desahogo las partes alegarán verbalmente lo que a su derecho convenga, y el tribunal fallará en la misma audiencia.
 
-Art. 1,191. Si atendido el interés del negocio hubiere lugar á la apelación, ésta se admitirá sólo en el efecto devolutivo. Si la sentencia levanta la providencia precautoria, no se ejecutará sino previa fianza que dé la parte que obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,191. Si atendido el interés del negocio hubiere lugar a la apelación, ésta se admitirá sólo en el efecto devolutivo y será de tramitación inmediata. Si la sentencia levanta la providencia precautoria, no se ejecutará sino previa fianza que dé la parte que obtuvo. La sentencia de segunda instancia causará ejecutoria. Cuando la providencia precautoria hubiere sido dictada en segunda instancia, la sentencia no admitirá recurso alguno.
 
 Art. 1,192. Cuando la providencia precautoria se dicte por un juez que no sea el que deba conocer del negocio principal, una vez ejecutada y resuelta la reclamación, si se hubiere formulado, se remitirán al juez competente las actuaciones, que en todo caso se unirán al expediente para que en él obren los efectos que correspondan conforme á derecho.
 
@@ -7056,7 +6832,11 @@ Art. 1,192. Cuando la providencia precautoria se dicte por un juez que no sea el
 
 Art. 1,193. Las fianzas de que se trata en este capítulo, se otorgarán ante el tribunal que haya decretado la providencia precautoria respectiva.
 
-El fiador, o la compañía de fianzas que otorgue la garantía por cualquiera de las partes se entiende que renuncia a todos los beneficios legales, observándose en este caso, lo dispuesto en los artículos 2850 a 2855 del Código Civil para el Distrito Federal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+El fiador, o la compañía de fianzas que otorgue la garantía por cualquiera de las partes se entiende que renuncia a todos los beneficios legales, observándose en este caso, lo dispuesto en los artículos relativos al Código Civil Federal.
 
 ### CAPÍTULO XII.
 
@@ -7086,15 +6866,17 @@ Art. 1,201. Las diligencias de prueba deberán practicarse dentro del término p
 
 Art. 1,202. No obstan a lo dispuesto en el artículo anterior las reglas que se establecen para la recepción de pruebas en incidentes, o las documentales de las que la parte que las exhibe manifieste bajo protesta de decir verdad, que antes no supo de ellas, o habiéndolas solicitado y hasta requerido por el juez, no las pudo obtener, o las supervenientes.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,203. Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el artículo 1198 de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,203. Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el artículo 1198 de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo y de tramitación conjunta con dicha sentencia, será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
 
 Art. 1,204. La citación se hará, lo más tarde, el día anterior á aquel en que deba recibirse la prueba.
 
 (REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-Art. 1,205.- Son admisibles como medios de prueba todos aquellos elementos que puedan producir convicción en el ánimo del juzgador acerca de los hechos controvertidos o dudosos y en consecuencia serán tomadas como pruebas las declaraciones de las partes, terceros, peritos, documentos públicos o privados, inspección judicial, fotografías, facsímiles, cintas cinematográficas, de videos, de sonido, mensajes de datos, reconstrucciones de hechos y en general cualquier otra similar u objeto que sirva para averiguar la verdad.
+Art. 1,205. Son admisibles como medios de prueba todos aquellos elementos que puedan producir convicción en el ánimo del juzgador acerca de los hechos controvertidos o dudosos y en consecuencia serán tomadas como pruebas las declaraciones de las partes, terceros, peritos, documentos públicos o privados, inspección judicial, fotografías, facsímiles, cintas cinematográficas, de videos, de sonido, mensajes de datos, reconstrucciones de hechos y en general cualquier otra similar u objeto que sirva para averiguar la verdad.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -7156,9 +6938,23 @@ Art. 1,221. El que articula las preguntas, ya sea la parte misma, ya su apoderad
 
 Art. 1,222. Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no ha de contener cada una más que un sólo hecho, y éste ha de ser propio del que declara.
 
-Art. 1,223. No se procederá á citar á alguno para absolver posiciones, sino después de haber sido presentado el pliego que las contenga. Si éste se presentare cerrado, deberá guardarse así en el secreto del tribunal, asentándose la razón respectiva en la misma cubierta, que rubricará el juez y firmará el secretario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,224. Si el citado comparece, el juez, en su presencia abrirá el pliego, se impondrá de las posiciones, y antes de proceder al interrogatorio, calificará las preguntas conforme al art. 1,222, sin más recurso que el de responsabilidad.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,223. Si se presenta pliego de posiciones para el desahogo de la confesional, éste deberá presentarse cerrado, y guardarse así en el secreto del tribunal, asentándose la razón respectiva en la misma cubierta, que rubricará el juez y firmará el secretario. Si no se exhibe el pliego, deberá estarse a lo dispuesto en el siguiente artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,224. Si el citado comparece, el juez, en su presencia, abrirá el pliego, se impondrá de las posiciones, y antes de proceder al interrogatorio, calificará las preguntas conforme al artículo 1222.
+
+La notificación personal al que deba absolver posiciones se practicará, por lo menos con dos días de anticipación al señalado para la audiencia, sin contar el día en que se verifique la diligencia de notificación, el día siguiente hábil en que surta efectos la misma ni el señalado para recibir la declaración.
+
+Si la oferente de la prueba decide no presentar pliego de posiciones, tendrá el derecho de articular posiciones verbales en la audiencia respectiva, pero en el caso de incomparecencia de la misma, se castigará con deserción de la confesional.
+
+Contra la calificación de posiciones, procede el recurso de apelación preventiva de tramitación conjunta con la sentencia definitiva.
 
 Art. 1,225. Hecha la protesta de decir verdad, el juez procederá al interrogatorio, asentando literalmente las respuestas, y concluida la diligencia, la parte absolvente firmará al margen el pliego de posiciones.
 
@@ -7176,9 +6972,11 @@ Art. 1,231. La declaración, una vez firmada, no puede variarse ni en la sustanc
 
 Art. 1,232. El que deba absolver posiciones, será declarado confeso:
 
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Cuando sin justa causa no comparezca a absolver posiciones cuando fue citado para hacerlo, y apercibido de ser declarado confeso;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+I. Cuando sin justa causa el que deba absolver posiciones se abstenga de comparecer cuando fue citado para hacerlo, en cuyo caso la declaración se hará de oficio; siempre y cuando se encuentre exhibido con anterioridad al desahogo de la prueba el pliego de posiciones;
 
 II. Cuando se niegue á declarar;
 
@@ -7192,7 +6990,11 @@ Art. 1,234. Absueltas las posiciones, el absolvente tiene derecho a su vez de fo
 
 Las partes pedirán en el mismo acto de la declaración que el tribunal exija al absolvente que aclare algún punto dudoso sobre el cual no se haya contestado categóricamente, sea de las posiciones formuladas por las partes, o por el interrogatorio que de oficio se haya realizado, y en su caso que se declare confeso si se haya en alguno de los casos de las dos últimas fracciones del artículo 1232.
 
-Art. 1,235. Cuando la confesión no se haga al absolver las posiciones, sino al contestar la demanda o en cualquier otro acto del juicio, no siendo en la presencia judicial, el colitigante podrá pedir y deberá decretarse la ratificación. Hecha ésta, la confesión queda perfecta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,235. Cuando la confesión no se haga al absolver las posiciones, sino al contestar la demanda o en cualquier otro acto del juicio, no siendo en la presencia judicial, para que ésta quede perfeccionada, el colitigante deberá pedir la ratificación, y si existiere negativa injustificada para ratificar dicho escrito que contenga la confesión, o bien omisión de hacerlo, se acusará la correspondiente rebeldía, quedando perfecta la confesión.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7228,29 +7030,11 @@ Art. 1,245. Sólo pueden reconocer un documento privado, el que lo firma, el que
 
 Art. 1,246. Los instrumentos auténticos expedidos por las autoridades federales, hacen fe en toda la República, sin necesidad de legalización.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### Art. 1247.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su recepción. En ambos casos se hará en forma incidental.
-
-Podrá pedirse el cotejo de firmas y letras, siempre que se niegue o que se pongan en duda la autenticidad de un documento privado o de un documento público que carezca de matriz.
-
-La persona que pida el cotejo designará el documento o documentos indubitables con que deba hacerse, o pedirá al tribunal que cite al interesado para que en su presencia ponga la firma o letras que servirán para el cotejo.
-
-Se considerarán indubitables para el cotejo:
-
-I. Los documentos que las partes reconozcan como tales, de común acuerdo;
-
-II. Los documentos privados cuya letra o firma haya sido reconocida en juicio por aquel a quien se atribuya la dudosa;
-
-III. Los documentos cuya letra o firma haya sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
-
-IV. El escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique, y
-
-V. Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
-
-El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos, y aún puede ordenar que se repita el cotejo por otros peritos.
+Art. 1,247. Las partes sólo podrán objetar los documentos en cuanto a su alcance y valor probatorio dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde el día siguiente a aquel en que surta efectos la notificación del auto que ordene su admisión. No será necesario para la objeción a que se refiere el presente artículo la tramitación incidental de la misma.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -7264,23 +7048,51 @@ Art. 1,249. Los documentos que fueren transmitidos internacionalmente, por condu
 
 Tampoco requerirán de legalización, los documentos públicos extranjeros, cuando se tenga celebrado tratado o acuerdo interinstitucional con el país de que provengan, y se exima de dicha legalización.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,250. En caso de impugnación de falsedad de un documento, se observará lo dispuesto por las siguientes reglas:
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-I. La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda y hasta diez días después de que haya terminado el período de ofrecimiento de pruebas;
+Art. 1,250. En caso de que se niegue o se ponga en duda la autenticidad de un documento, objetándolo o impugnándolo de falso, podrá pedirse el cotejo de letras y/o firmas. Tratándose de los documentos exhibidos junto con la demanda, el demandado si pretende objetarlos o tacharlos de falsedad, deberá oponer la excepción correspondiente, y ofrecer en ese momento las pruebas que estime pertinentes, además de la prueba pericial, debiendo darse vista con dicha excepción a la parte actora, para que manifieste lo que a su derecho convenga respecto a la pertinencia de la prueba pericial, y reservándose su admisión para el auto admisorio de pruebas, sin que haya lugar a la impugnación en la vía incidental. En caso de que no se ofreciera la pericial, no será necesaria la vista a que se refiere el presente artículo sino que deberá estarse a lo dispuesto por los artículos 1379 y 1401 de este Código, según sea el caso.
 
-II. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas;
+Tratándose de documentos exhibidos por la parte demandada junto con su contestación a la demanda, o bien de documentos exhibidos por cualquiera de las partes con posterioridad a los escritos que fijan la litis, la impugnación se hará en vía incidental.
 
-III. Cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente;
+Las objeciones a que se refiere el párrafo anterior se podrán realizar desde el escrito donde se desahogue la vista de excepciones y defensas y hasta diez días antes de la celebración de la audiencia, tratándose de los presentados hasta entonces, y respecto de los que se exhiban con posterioridad, dentro de los tres días siguientes a aquel en que en su caso, sean admitidos por el tribunal.
 
-IV. Sin los requisitos anteriores se tiene por no redargüido o impugnado el instrumento;
+Si con la impugnación a que se refieren los dos párrafos anteriores no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos necesarios para su admisión a trámite, se desechará de plano por el juzgador.
 
-V. De la impugnación se correrá traslado al colitigante para que en el término de tres días manifieste lo que a su derecho convenga y ofrezca pruebas que se recibirán en audiencia incidental únicamente en lo relativo a la impugnación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI. Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiera lugar, y
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-VII. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
+Art. 1,250 Bis. En el caso de impugnación y objeción de falsedad de un documento, además de lo dispuesto en el artículo anterior, se observará lo dispuesto en las siguientes reglas:
+
+I. La parte que objete la autenticidad de un documento o lo redarguya de falso, deberá indicar específicamente los motivos y las pruebas;
+
+II. Cuando se impugne la autenticidad de un documento privado, o, público sin matriz, deberán señalarse los documentos indubitables para el cotejo, y promover la prueba pericial correspondiente;
+
+III. Sin los requisitos anteriores se tendrá por no objetado ni redargüido o impugnado el instrumento;
+
+IV. De la impugnación se correrá traslado al colitigante para que en el término de tres días manifieste lo que a su derecho convenga y ofrezca pruebas, que se recibirán en audiencia incidental únicamente en lo relativo a la objeción o impugnación;
+
+V. Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiera lugar, y
+
+VI. Si durante la secuela del procedimiento se tramitare diverso proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el juicio y según las circunstancias, podrá determinar al dictar la sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,250 Bis 1. Tanto para la objeción o impugnación de documentos sean privados, o públicos que carezcan de matriz, únicamente se considerarán indubitables para el cotejo:
+
+I. Los documentos que las partes reconozcan como tales, de común acuerdo, debiendo manifestar esa conformidad ante la presencia judicial;
+
+II. Los documentos privados cuya letra o firma haya sido reconocida en juicio a solicitud de parte, por aquél a quien se atribuya la dudosa;
+
+III. Los documentos cuya letra o firma haya sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
+
+IV. El escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique;
+
+V. Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
 
 Art. 1,251. En el caso de que alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales respectivo.
 
@@ -7306,33 +7118,53 @@ I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industri
 
 II. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión;
 
-III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligados los oferentes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar copia de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa, manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligadas las partes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa; manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos, salvo que existiera en autos causa bastante por la que tuviera que modificarse la fecha de inicio del plazo originalmente concedido. Sin la exhibición de dichos documentos justificativos de su calidad, no se tendrá por presentado al perito aceptando el cargo, con la correspondiente sanción para las partes, sin que sea necesaria la ratificación de dichos dictámenes ante la presencia judicial;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo con la misma salvedad que la que se establece en la fracción anterior;
 
 V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 1255 de este código;
 
-VI. La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentara el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, se declarará desierta tal prueba;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo;
+VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
+
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa de tres mil pesos. Dicho monto se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, y que a falta de éste será aplicable el que lo sustituya;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo, teniendo como sanción a la omisión de presentarlos, que el dictamen no se tenga por rendido;
 
 VIII. Las partes en cualquier momento podrán convenir en la designación de un sólo perito para que rinda su dictamen al cual se sujetarán, y
 
 IX. También las partes en cualquier momento podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el juez en su sentencia.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,254. El juez, antes de admitir la prueba pericial, dará vista a la contraria por el término de tres días, para que manifieste sobre la pertinencia de tal prueba y para que proponga la ampliación de otros puntos y cuestiones además de los formulados por el oferente, para que los peritos dictaminen.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-En el supuesto de que alguna parte no designe el perito que le corresponda, o aquel que haya designado no comparezca en la forma señalada a aceptar el cargo o no presente su dictamen, el tribunal entenderá que dicha parte se conforma con el peritaje que rinda el perito de la contraria, como si hubiere sido nombrado de común acuerdo. Si ninguno de los peritos rinde su peritaje, la pericial que se hubiere propuesto se declarará desierta por imposibilidad para recibirla.
+Art. 1,254. El juez, antes de admitir la prueba pericial, dará vista a la contraria por el término de tres días, para que manifieste sobre la pertinencia de tal prueba y para que proponga la ampliación de otros puntos y cuestiones además de los formulados por el oferente, para que los peritos dictaminen, y para que designe perito de su parte, debiendo nombrarlo en la misma ciencia, arte, técnica, oficio o industria, en que la haya ofrecido el oferente, así como su cédula profesional, o en su caso los documentos que justifiquen su capacidad científica, artística, técnica, etc. requisito sin el cual no se le tendrá por designado, con la sanción correspondiente a que se refiere la fracción VI del artículo anterior.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
 Art. 1,255. Cuando los dictámenes rendidos resulten substancialmente contradictorios de tal modo que el juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia. A este perito deberá notificársele para que dentro del plazo de tres días, presente escrito en el que acepte el cargo conferido y proteste su fiel y legal desempeño, debiendo anexar copia de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se le designa, manifestando, bajo protesta de decir verdad, que tiene la capacidad suficiente para emitir dictamen sobre el particular; así mismo señalará el monto de sus honorarios, en los términos de la legislación local correspondiente o, en su defecto, los que determine, mismos que deben ser autorizados por el juez, y serán cubiertos por ambas partes en igual proporción.
 
-El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de pruebas, y su incumplimiento dará lugar a que el tribunal le imponga como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el tribunal dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerlo saber al tribunal pleno, y a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de pruebas o en la fecha en que según las circunstancias del caso señale el juez y su incumplimiento dará lugar a que el tribunal le imponga como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el tribunal dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerlo saber al tribunal pleno, y a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes.
 
 En el supuesto del párrafo anterior, el juez designará otro perito tercero en discordia y, de ser necesario, suspenderá la audiencia para el desahogo de la prueba en cuestión.
 
@@ -7424,9 +7256,11 @@ Art. 1,261. Todos los que tengan conocimiento de los hechos que las partes deben
 
 Art. 1,262. Las partes tendrán obligación de presentar sus propios testigos para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con apercibimiento de arresto hasta por treinta y seis horas o multa equivalente hasta quince días de salario mínimo general diario vigente en el Distrito Federal, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,263. Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe la apelación en el efecto devolutivo.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,263. Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe el recurso de apelación en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7734,9 +7568,11 @@ De la resolución en que se decida si se concede o no la revocación o la reposi
 
 De la apelación.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,336. Se llama apelación el recurso que se interpone para que el tribunal superior confirme, reforme o revoque las resoluciones del inferior que puedan ser impugnadas por la apelación.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,336. Se llama apelación el recurso que se interpone para que el tribunal superior confirme, reforme o revoque las resoluciones del inferior que puedan ser impugnadas por la apelación, en los términos que se precisan en los artículos siguientes.
 
 Art. 1,337. Pueden apelar de una sentencia:
 
@@ -7744,33 +7580,57 @@ I. El litigante condenado en el fallo, si creyere haber recibido algún agravio;
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-II. El vencedor que, aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de daños y perjuicios, o el pago de las costas, y
+II. El vencedor que, aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de daños y perjuicios, o el pago de las costas, y (sic)
 
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. La parte que venció puede adherirse a la apelación interpuesta al notificársele la admisión de ésta, o dentro de los tres días siguientes a esa notificación. En este caso, la adhesión al recurso sigue la suerte de éste.
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-Art. 1,338. La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero.
+III. La parte que venció puede adherirse a la apelación interpuesta al notificársele la admisión de ésta, o dentro de los tres días siguientes a esa notificación. En este caso la adhesión al recurso sigue la suerte de éste, y
 
-Art. 1,339. En los juicios mercantiles, tanto ordinarios como ejecutivos, procederá la apelación en ambos efectos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Respecto de sentencias definitivas;
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+IV. El tercero con interés legítimo, siempre y cuando le perjudique la resolución.
 
-II. Respecto de sentencias interlocutorias o autos definitivos que pongan término al juicio, cualquiera que sea la naturaleza de éste.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-En cualquier otra resolución que sea apelable, la alzada sólo se admitirá en el efecto devolutivo.
+Art. 1,338. La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero pudiendo ser éste, de tramitación inmediata o conjunta con la definitiva, según sea el caso.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,340. La apelación sólo procede en juicios mercantiles cuando su interés exceda de ciento ochenta y dos veces el salario mínimo general vigente, en la fecha de interposición en el lugar en que se ventile el procedimiento.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,339. Sólo son recurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo valor exceda de doscientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados, a la fecha de interposición del recurso, debiendo actualizarse dicha cantidad en forma anual, de acuerdo al Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
+
+Las sentencias que fueren recurribles, conforme al párrafo anterior, lo serán por la apelación que se admitirá en ambos efectos, salvo cuando la ley expresamente determine que lo sean sólo en el devolutivo.
+
+Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo.
+
+El recurso de apelación contra autos, interlocutorias o resoluciones que se dicten en el trámite del procedimiento se admitirán en el efecto preventivo, sin que sea necesario en tal escrito la expresión de agravios; interpuesta la apelación preventiva, se mandará tenerla presente cuando se apele la sentencia definitiva y se reitere ante el superior lo pedido en su oportunidad.
+
+Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.
+
+La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, en el acto de la notificación o, a más tardar, dentro de los nueve días siguientes, si se tratare de sentencia definitiva o de seis, si fuere contra auto, interlocutoria o resolución dictada en el procedimiento si se trata de apelaciones de tramitación inmediata, y dentro de esos plazos se deben de exponer los motivos de agravio, y en el término de tres días aquellas preventivas de tramitación conjunta con la sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los Juzgados de Paz o de Cuantía Menor o cuando el monto sea inferior a doscientos mil pesos por concepto de suerte principal, debiendo actualizarse dicha cantidad en forma anual, de acuerdo con el Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
+
+El Consejo de la Judicatura Federal, los presidentes de los Tribunales Superiores de Justicia del Distrito Federal y de Estados tendrán la obligación de hacer saber a los juzgados y tribunales de su jurisdicción, el Índice Nacional de Precios al Consumidor a que se refiere el párrafo que antecede dentro de los primeros cinco días del año.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
-Art. 1,342. Las apelaciones se admitirán ó denegarán de plano, y se sustanciarán con un solo escrito de cada parte y el informe en estrados, si las partes quisieren hacerlo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,342. Las apelaciones se admitirán o denegarán de plano, y se sustanciarán con un solo escrito de cada parte, de acuerdo a lo dispuesto en el artículo 1344 de este Código.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7782,31 +7642,103 @@ Art. 1,343. La sentencia de segunda instancia causará ejecutoria cuando la mism
 
 Del trámite de la apelación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,344. La apelación debe interponerse por escrito, dentro de nueve días improrrogables, si la sentencia fuere definitiva o dentro de seis si fuere auto o interlocutoria, y en el mismo escrito se expresarán por el recurrente los motivos de inconformidad o agravios que formule.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-El juez, en el auto que pronuncie al escrito de interposición del recurso, expresará si lo admite en un solo efecto o en ambos efectos, dando vista a la contraria para que en el término de tres días conteste lo que a su derecho convenga y ordenará se asiente constancia en autos de la interposición del recurso y de la remisión del cuaderno de apelación correspondiente a la Superioridad dentro de un plazo de tres días, si fueren autos originales y de cinco si se tratare de testimonio.
+Art. 1,344. En los casos no previstos en el artículo 1345, la parte que se sienta agraviada por una resolución judicial que sea apelable, dentro del tercer día de su notificación deberá por escrito hacer saber su inconformidad apelando preventivamente la misma sin expresar agravios, y en caso de que la sentencia definitiva le sea adversa, siempre y cuando apele de ella, al expresar agravios en su contra, deberá hacer valer también los agravios que considere le cause la resolución apelada preventivamente; de no presentarse el escrito de inconformidad a que se refiere este párrafo, se tendrá por precluido el derecho del afectado para hacerlo valer como agravio en la apelación que se interponga contra de la definitiva.
 
-Será causa de responsabilidad la falta de envío oportuno al Superior de los autos o testimonio respectivo para la substanciación del recurso.
+El tribunal que conozca del recurso en contra de la definitiva solo tomará en consideración tales violaciones, para resolver sobre su procedencia o no, si se expresaron como agravio, siempre y cuando las mismas trasciendan al fondo del juicio, debiendo dictar una sola sentencia. En caso de que existan violaciones procesales que sean trascendentes al fondo del juicio, el tribunal dejará insubsistente la sentencia definitiva, regresando los autos originales al inferior, para que éste proceda a reponer el procedimiento reparándolas en los términos que ordena la resolución del superior.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE MAYO DE 1996)</small>
+En caso contrario, estudiará y resolverá la procedencia o no de los agravios expresados en contra de la definitiva.
 
-Art. 1,345. Cuando la apelación proceda en un solo efecto no se suspenderá la ejecución de la resolución impugnada, pero en este caso el recurrente al interponerla deberá señalar las constancias para integrar el testimonio de apelación, que podrán ser adicionadas por la contraria y las que el juez estime necesarias, remitiéndose desde luego el testimonio que se forme al tribunal de alzada. De no señalarse las constancias por el recurrente, se tendrá por no interpuesta la apelación. Si el que no señale constancias es la parte apelada, se le tendrá por conforme con las que hubiere señalado el apelante.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Respecto del señalamiento de constancias, las partes y el juez deben de cumplir con lo que se ordena en el párrafo final de este artículo.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
 
-Si se tratare de sentencia definitiva en que la apelación se admita en efecto devolutivo se remitirán las originales al Superior, pero se dejará en el juzgado para ejecutarla copia certificada de ella y de las demás constancias.
+Art. 1,345. Además de los casos determinados expresamente en la ley, en la forma y términos que se establecen en este Capítulo, se tramitarán de inmediato las apelaciones que se interpongan:
 
-Si la apelación se admite en ambos efectos suspende desde luego la ejecución de la resolución, hasta que cause ejecutoria.
+I. Contra el auto que niegue la admisión de la demanda, o de los medios preparatorios a juicio;
 
-Al recibirse las constancias por el Superior, no se notificará personalmente a las partes para que comparezcan ante dicho tribunal, a menos que se haya dejado de actuar por más de seis meses.
+II. Contra el auto que no admite a trámite la reconvención, en tratándose de juicios ordinarios;
 
-Llegados los autos o el testimonio, en su caso, al Superior, éste dentro de los tres días siguientes dictará providencia en la que decidirá sobre la admisión del recurso, la calificación del grado y la oportuna expresión de agravios y su contestación hechas por y ante el juez a quo, citando en su caso a las partes para oír sentencia, misma que se pronunciará dentro del plazo de quince días contados a partir de la citación para sentencia. Sólo cuando hubiere necesidad de que el Superior examine documentos voluminosos, podrá disfrutar de ocho días más para pronunciar resolución.
+III. Las resoluciones que por su naturaleza pongan fin al juicio;
 
-Declarada inadmisible la apelación, se devolverán los autos al inferior, revocada la calificación, se procederá en consecuencia.
+IV. La resolución que recaiga a las providencias precautorias, siempre y cuando de acuerdo al interés del negocio hubiere lugar a la apelación, cuya tramitación será en el efecto devolutivo.
 
-El tribunal de apelación formará un solo expediente, iniciándose con la primera apelación que se integre con las constancias que se remitan por el inferior, y se continúe agregándose las subsecuentes que se remitan para el trámite de apelaciones posteriores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis. En los casos previstos en este Capítulo, la apelación debe interponerse ante el juez que pronunció la resolución impugnada en la forma y términos previstos en éste.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 1. El litigante al interponer la apelación de tramitación inmediata, expresará los agravios que considere le cause la resolución recurrida, salvo en aquellos que específicamente la ley establezca un trámite diverso.
+
+Las apelaciones de tramitación inmediata que se interpongan contra auto o interlocutoria, deberán hacerse valer en el término de seis días a las que se interpongan contra sentencia definitiva dentro del plazo de nueve días, contados a partir del día siguiente a aquel en que surtan efectos las notificaciones de tales resoluciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 2. Interpuesta una apelación, si fuera procedente, el juez la admitirá sin substanciación alguna, siempre que tratándose de apelaciones de tramitación inmediata, en el escrito se hayan hecho valer los agravios respectivos, expresando en su auto si la admite en ambos efectos o en uno solo.
+
+El juez en el mismo auto admisorio ordenará se forme el testimonio de apelación respectivo con todas las constancias que obren en el expediente que se tramitare ante él, si se tratare de la primera apelación que se haga valer por las partes. Si se tratare de segunda o ulteriores apelaciones, solamente formará el testimonio de apelación con las constancias faltantes entre la última admitida y las subsecuentes, hasta la apelación de que se trate.
+
+De igual manera, al tener por interpuesto el recurso de apelación, dará vista con el mismo a la parte apelada, para que en el término de tres días conteste los agravios si se tratare de auto o sentencia interlocutoria, y de seis días si se tratare de sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 3. Transcurridos los plazos señalados en el artículo anterior, sin necesidad de rebeldía y se hayan contestado o no los agravios, se remitirán al superior, los escritos originales del apelante y en su caso de la parte apelada y las demás constancias que se señalan anteriormente, o los autos originales cuando se trate de apelación en contra de sentencia definitiva, o que deba admitirse en ambos efectos. El testimonio de apelación que se forme por el juez, se remitirá a la superioridad que deba conocer del mismo, dentro del término de cinco días, contados a partir de la fecha en que precluyó el término de la parte apelada para contestar agravios, o en su caso del auto en que se tuvieron por contestados.
+
+El tribunal al recibir el testimonio formará un solo toca o cuaderno, en el que se vayan tramitando todas las apelaciones que se interpongan en el juicio de que se trate, el que deberá mantener en el local del tribunal hasta que concluya el negocio. Una vez terminado el asunto procederá a su destrucción, guardando solo copias con firma autógrafa de las resoluciones dictadas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 4. El tribunal, al recibir las constancias que remita el inferior, revisará si la apelación fue interpuesta en tiempo y bien admitida, y calificará si se confirma o no el grado en que se admitió por el inferior. De encontrarla ajustada a derecho, así lo hará saber y citará a las partes en el mismo auto para dictar sentencia, la que pronunciará y notificará dentro de los términos de este Código.
+
+En el caso de que se trate de sentencia definitiva, se dejará en el juzgado copia certificada de ella y de las demás constancias que el juez estime necesarias para ejecutarla, remitiéndose desde luego los autos originales al tribunal correspondiente.
+
+La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia, hasta que ésta cause ejecutoria. Cuando se interponga contra auto o interlocutoria que por su contenido impida la continuación del procedimiento y la apelación se admita en ambos efectos, se suspenderá la tramitación del juicio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 5. Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido expresamente que se admitan en ambos efectos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 6. Una vez confirmada la admisión y calificación del grado en que haya sido admitido el recurso por el juez, el tribunal citará a las partes en el mismo auto para oír sentencia. Tratándose de apelaciones que no se tengan que resolver junto con las apelaciones intermedias que deban tramitarse y resolverse junto con ésta, o bien tratándose de apelaciones de intermedias y definitiva que se tramiten y resuelvan de manera conjunta, que no excedan en número de seis, el tribunal contará con un máximo de veinte días para elaborar el proyecto. Si el número de apelaciones que se tengan que resolver de manera conjunta exceden de seis, el plazo para dictar la sentencia se ampliará hasta por diez días más, así como en el caso de que tengan que examinarse expedientes y/o documentos voluminosos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 7. En el caso de que el apelante omitiera expresar agravios al interponer el recurso de apelación de tramitación inmediata ante el juez, sin necesidad de acusar rebeldía, declarará precluido su derecho, y quedará firme la resolución. Si no se interpusiera apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante el procedimiento, y que sean de tramitación conjunta con la definitiva.
+
+Para el caso de que el tribunal considere fundada la apelación promovida, deberá estudiar de oficio aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por haber obtenido sentencia favorable a sus intereses.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,345 Bis 8. De los autos y de las sentencias interlocutorias de tramitación inmediata, de los que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso, y señala los motivos por los que se considera el daño irreparable o de difícil reparación.
+
+Con vista a lo solicitado el juez deberá resolver, y si la admite en ambos efectos señalará el monto de la garantía que exhibirá el apelante dentro del término de seis días para que surta efectos la suspensión.
+
+La garantía debe atender a la importancia del negocio y no podrá ser inferior a seis mil pesos; y será fijada al prudente arbitrio del juez, cantidad que se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, o aquel que lo sustituya. Si no se exhibe la garantía en el plazo señalado, la apelación sólo se admitirá en efecto devolutivo.
+
+En caso de que el juez señale una garantía que se estime por el apelante excesiva, o que se niegue la admisión del recurso, en ambos efectos, procede el recurso de revocación en los términos previsto en el Capítulo XXIV de este Código.
 
 ### CAPÍTULO XXVII.
 
@@ -7856,9 +7788,11 @@ VIII. Que llenen los requisitos para ser considerados como auténticos.
 
 No obstante el cumplimiento de las anteriores condiciones, el juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias o resoluciones jurisdiccionales extranjeras en casos análogos.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Art. 1,348. Si la sentencia no contiene cantidad líquida la parte a cuyo favor se pronunció al promover la ejecución presentará su liquidación, de la cual se dará vista por tres días a la parte condenada y sea que la haya o no desahogado, el juez fallará dentro de igual plazo lo que en derecho corresponda. Esta resolución será apelable en el efecto devolutivo.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,348. Si la sentencia no contiene cantidad líquida la parte a cuyo favor se pronunció al promover la ejecución presentará su liquidación, de la cual se dará vista por tres días a la parte condenada y sea que la haya o no desahogado, el juez fallará dentro de igual plazo lo que en derecho corresponda. Esta resolución será apelable en el efecto devolutivo, de tramitación inmediata.
 
 ### CAPÍTULO XXVIII.
 
@@ -7946,7 +7880,7 @@ Art. 1,372. Vencido el término de prueba se pasará al periodo de alegatos por 
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,373.- Si la tercería fuere de dominio sobre bienes muebles, el juicio principal en que se interponga seguirá sus trámites y la celebración del remate únicamente podrá ser suspendida cuando el opositor exhiba título suficiente, a juicio del juez, que acredite su dominio sobre el bien en cuestión, o su derecho respecto de la acción que se ejercita. Tratándose de inmuebles, el remate sólo se suspenderá si el tercero exhibe escritura pública o instrumento equivalente, inscritos en el Registro Público correspondiente.
+Art. 1,373. Si la tercería fuere de dominio sobre bienes muebles, el juicio principal en que se interponga seguirá sus trámites y la celebración del remate únicamente podrá ser suspendida cuando el opositor exhiba título suficiente, a juicio del juez, que acredite su dominio sobre el bien en cuestión, o su derecho respecto de la acción que se ejercita. Tratándose de inmuebles, el remate sólo se suspenderá si el tercero exhibe escritura pública o instrumento equivalente, inscritos en el Registro Público correspondiente.
 
 Art. 1,374. Si la tercería fuere de preferencia, seguirán los procedimientos del juicio principal en que se interponga, hasta la realización de los bienes embargados, suspendiéndose el pago, que se hará, definida la tercería, al acreedor que tenga mejor derecho. Entretanto se decida ésta, se depositará el precio de la venta.
 
@@ -7956,13 +7890,15 @@ Art. 1,376. Si la tercería, cualquiera que sea, se interpone ante un juez de pa
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,376 Bis.- A todo opositor que no obtenga sentencia favorable, se le condenará al pago de gastos y costas a favor del ejecutante.
+Art. 1,376 Bis. A todo opositor que no obtenga sentencia favorable, se le condenará al pago de gastos y costas a favor del ejecutante.
 
-### CAPITULO I. Del procedimiento extrajudicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
+### CAPÍTULO I.
+
+Del procedimiento extrajudicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis.- Se tramitará en esta vía el pago de los créditos vencidos y la obtención de la posesión de los bienes objeto de las garantías otorgadas mediante prenda sin transmisión de posesión o fideicomiso de garantía, siempre que no existan controversias en cuanto a la exigibilidad del crédito, la cantidad reclamada y la entrega de la posesión de los bienes mencionados. Para efectos de lo anterior, el valor de los bienes podrá determinarse por cualquiera de los siguientes procedimientos:
+Art. 1,414 Bis. Se tramitará en esta vía el pago de los créditos vencidos y la obtención de la posesión de los bienes objeto de las garantías otorgadas mediante prenda sin transmisión de posesión o fideicomiso de garantía, siempre que no existan controversias en cuanto a la exigibilidad del crédito, la cantidad reclamada y la entrega de la posesión de los bienes mencionados. Para efectos de lo anterior, el valor de los bienes podrá determinarse por cualquiera de los siguientes procedimientos:
 
 I. Por el dictamen que rinda el perito que las partes designen para tal efecto desde la celebración del contrato o en fecha posterior, o
 
@@ -7972,13 +7908,13 @@ Al celebrar el contrato las partes deberán establecer las bases para designar a
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 1.- El procedimiento se iniciará con el requerimiento formal de entrega de la posesión de los bienes, que formule al deudor el fiduciario o el acreedor prendario, según corresponda, mediante fedatario público.
+Art. 1,414 Bis 1. El procedimiento se iniciará con el requerimiento formal de entrega de la posesión de los bienes, que formule al deudor el fiduciario o el acreedor prendario, según corresponda, mediante fedatario público.
 
 Una vez entregada la posesión de los bienes al fiduciario o acreedor prendario, éste tendrá el carácter de depositario judicial hasta en tanto no se realice lo previsto en el artículo 1,414 Bis 4.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 2.- Se dará por concluido el procedimiento extrajudicial y quedará expedita la vía judicial en los siguientes casos:
+Art. 1,414 Bis 2. Se dará por concluido el procedimiento extrajudicial y quedará expedita la vía judicial en los siguientes casos:
 
 I. Cuando se oponga el deudor a la entrega material de los bienes o al pago del crédito respectivo, o
 
@@ -7986,31 +7922,111 @@ II. Cuando no se haya producido el acuerdo a que se refiere el artículo 1414 bi
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 3.- Fuera de los casos previstos en el artículo anterior, el fiduciario o el acreedor prendario podrá obtener la posesión de los bienes objeto de la garantía, si así se estipuló expresamente en el contrato respectivo. Este acto deberá llevarse a cabo ante fedatario público, quien deberá levantar el acta correspondiente, así como el inventario pormenorizado de los bienes.
+Art. 1,414 Bis 3. Fuera de los casos previstos en el artículo anterior, el fiduciario o el acreedor prendario podrá obtener la posesión de los bienes objeto de la garantía, si así se estipuló expresamente en el contrato respectivo. Este acto deberá llevarse a cabo ante fedatario público, quien deberá levantar el acta correspondiente, así como el inventario pormenorizado de los bienes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 4.- Una vez entregada la posesión de los bienes se procederá a la enajenación de éstos, en términos del artículo 1414 bis 17, fracción II.
+Art. 1,414 Bis 4. Una vez entregada la posesión de los bienes se procederá a la enajenación de éstos, en términos del artículo 1414 bis 17, fracción II.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 5.- En caso de que el fiduciario o el acreedor prendario, según corresponda, no pueda obtener la posesión de los bienes, se seguirá el procedimiento de ejecución forzosa a que se refiere el siguiente Capítulo de este Código.
+Art. 1,414 Bis 5. En caso de que el fiduciario o el acreedor prendario, según corresponda, no pueda obtener la posesión de los bienes, se seguirá el procedimiento de ejecución forzosa a que se refiere el siguiente Capítulo de este Código.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 6.- No será necesario agotar el procedimiento a que se refieren los artículos anteriores, para iniciar el procedimiento de ejecución previsto en el Capítulo siguiente.
+Art. 1,414 Bis 6. No será necesario agotar el procedimiento a que se refieren los artículos anteriores, para iniciar el procedimiento de ejecución previsto en el Capítulo siguiente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
-## TITULO TERCERO BIS. De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía
+## TITULO SEGUNDO.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+DE LOS JUICIOS ORDINARIOS.
 
-### CAPITULO II. Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,377. Todas las contiendas entre partes que no tengan señalada tramitación especial en las leyes mercantiles, se ventilarán en juicio ordinario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,378. En el escrito de demanda el actor deberá mencionar los documentos públicos y privados que tengan relación con dicha demanda, así como si los tiene o no a su disposición debiendo exhibir los que posea, y acreditar haber solicitado los que no tengan en los términos del artículo 1061. De igual manera, proporcionará los nombres y apellidos de los testigos que hayan presenciado los hechos contenidos en la demanda, y las copias simples prevenidas en el artículo 1061. Admitida la demanda se emplazará al demandado para que produzca su contestación dentro del término de quince días.
+
+Con el escrito de contestación a la demanda se dará vista al actor, para que manifieste lo que a su derecho convenga dentro del término de tres días y para que mencione a los testigos que hayan presenciado los hechos, y los documentos relacionados con los hechos de la contestación de demanda.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,379. Las excepciones que tenga el demandado, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,380. En la contestación a la demanda, en los juicios ordinarios, deberá proponerse la reconvención en los casos en que proceda. De la reconvención se dará traslado a la parte contraria para que la conteste dentro del término de nueve días, y con dicha contestación se dará vista el (sic) reconveniente para los mismos fines que se indican en el último párrafo del artículo 1378 de este Código.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+El juicio principal y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
+
+Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
+
+Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,383. Según la naturaleza y calidad del negocio el juez fijará de oficio o a petición de parte que se abra el mismo a prueba, no pudiendo exceder de cuarenta días, de los cuales los diez días primeros serán para ofrecimiento y los treinta siguientes para desahogo de pruebas. Si el juez señala un término inferior al máximo que se autoriza, deberá precisar cuántos días completos se destinan para ofrecimiento y cuántos días completos para el desahogo, procurando que sea en la misma proporción que se indica anteriormente.
+
+Cuando las pruebas hubieren de practicarse fuera del lugar del juicio, se recibirán a petición de parte dentro de términos hasta de sesenta y noventa días naturales, si se tratare de pruebas a desahogarse dentro de la República Mexicana, o fuera de ella, respectivamente, siempre que se llenen los siguientes requisitos:
+
+I. Que se solicite durante los diez primeros días del período probatorio;
+
+II. Que se indiquen los nombres, apellidos y domicilio de las partes o testigos, que hayan de ser examinados cuando se trate de pruebas confesional o testimonial, exhibiendo en el mismo acto el pliego de posiciones o los interrogatorios a testigos; y
+
+III. Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que hayan que testimoniarse o presentarse originales.
+
+El juez al calificar la admisibilidad de las pruebas, determinará si los interrogatorios exhibidos para la confesional o la testimonial guardan relación con los puntos controvertidos o si los documentos y los testigos fueron nombrados al demandar o contestar la demanda, y si no reúnen estos requisitos se desecharán de plano.
+
+De no exhibirse el pliego de posiciones, o los interrogatorios a testigos con las copias correspondientes de éstos, no se admitirán las pruebas respectivas.
+
+En el caso de concederse el término extraordinario, el juez por cada prueba para la que conceda dicho término determinará una cantidad que el promovente deposite como sanción pecuniaria en caso de no rendirse alguna de las pruebas que se solicitan se practiquen fuera del lugar del juicio. En ningún caso las cantidades que se ordenen se depositen como sanción pecuniaria serán inferiores al equivalente del importe de sesenta días del salario mínimo diario general vigente en el Distrito Federal, teniendo el juez la facultad discrecional de señalar importes mayores al mínimo señalado anteriormente, tomando en cuenta la suerte principal del juicio y demás circunstancias que considere prudentes.
+
+El que proponga dichas pruebas deberá exhibir las cantidades que fije el juez, en billete de depósito dentro del término de tres días, y en caso de no hacerlo así, no se admitirá la prueba.
+
+La prueba para la cual se haya concedido el término extraordinario y que no se reciba, dará lugar a que el juez haga efectiva la sanción pecuniaria correspondiente en favor del colitigante.
+
+Las pruebas que deban recibirse fuera del lugar del juicio, se tramitarán mediante exhorto que se entregue al solicitante, quien por el hecho de recibirlo no podrá alegar que el mismo no se expidió con las constancias necesarias, a menos de que lo hagan saber al tribunal exhortante dentro del término de tres días, para que devolviendo el exhorto recibido corrija o complete el mismo o lo substituya.
+
+Transcurrido el término extraordinario concedido, que empezará a contar a partir de la fecha en que surta efectos la notificación a las partes, según certificación que haga la secretaría, sin que se haga devolución del exhorto diligenciado, sin causa justificada, se hará efectiva la sanción pecuniaria y se procederá a condenar en costas.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,384. Dentro del término concedido para ofrecimiento de pruebas, la parte que pretenda su prórroga pedirá que se le conceda la misma, y el juez dará vista a la contraria por el término de tres días, y de acuerdo a lo que alegaren las partes se concederá o denegará. Si ambas partes estuvieran conformes en la prórroga la misma se concederá por todo el plazo en que convengan, no pudiendo exceder del término de noventa días.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,385. Transcurrido el término de pruebas, el juez en todos los casos en que no se haya concluido el desahogo de las mismas, mandará concluirlas en los plazos que al efecto se autorizan en este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,386. Las pruebas deberán desahogarse dentro de los términos y prórrogas que se autorizan y aquellas que no se logren concluir serán a perjuicio de las partes, sin que el juez pueda prorrogar los plazos si la ley no se lo permite.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,387. Para las pruebas documentales y supervenientes se observará lo que dispone este Código, y en su defecto lo que al efecto disponga la Ley Procesal de la entidad federativa que corresponda.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,388. Concluido el término probatorio, se pondrán los autos a la vista de las partes, para que dentro del término común de tres días produzcan sus alegatos, y transcurrido dicho plazo hayan alegado o no, el tribunal de oficio, citará para oír sentencia definitiva la que dictará y notificará dentro del término de quince días.
+
+Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
+
+Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
+
+### CAPÍTULO II.
+
+Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,414 Bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el artículo 403 de la Ley General de Títulos y Operaciones de Crédito.
+Art. 1,414 Bis 7. Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el artículo 403 de la Ley General de Títulos y Operaciones de Crédito.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -8030,7 +8046,7 @@ La referida determinación de saldo podrá elaborarse a partir del último estad
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 9.- La diligencia a que se refiere el artículo anterior, no se suspenderá por ningún motivo y se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio. A fin de poner en posesión material de los bienes al demandante, el juzgador apercibirá al deudor con multa que podrá ser desde tres y hasta cuatrocientas veces el salario mínimo general diario vigente en el Distrito Federal. Para la imposición de la mencionada multa, el juez deberá considerar el monto de la garantía reclamada.
+Art. 1,414 Bis 9. La diligencia a que se refiere el artículo anterior, no se suspenderá por ningún motivo y se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio. A fin de poner en posesión material de los bienes al demandante, el juzgador apercibirá al deudor con multa que podrá ser desde tres y hasta cuatrocientas veces el salario mínimo general diario vigente en el Distrito Federal. Para la imposición de la mencionada multa, el juez deberá considerar el monto de la garantía reclamada.
 
 Si el deudor no hiciera entrega de los bienes en la diligencia prevista en este artículo, el secretario actuario lo hará constar y dará cuenta de ello al juez, quien procederá a hacer efectivo el medio de apremio decretado y dictará las medidas conducentes para lograr el cumplimiento de su resolución en términos del presente Capítulo, al efecto podrá hacer uso de los siguientes medios de apremio:
 
@@ -8042,7 +8058,7 @@ En caso de que la garantía recaiga sobre una casa habitación, utilizada como t
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Artículo 1,414 Bis 10.- El demandado podrá oponer las excepciones que a su derecho convenga, pero su trámite se sujetará a las reglas siguientes:
+Art. 1,414 Bis 10. El demandado podrá oponer las excepciones que a su derecho convenga, pero su trámite se sujetará a las reglas siguientes:
 
 I. Sólo se tendrán por opuestas las excepciones que se acrediten con prueba documental, salvo aquéllas que por su naturaleza requieran del ofrecimiento y desahogo de pruebas distintas a la documental;
 
@@ -8058,25 +8074,25 @@ El juez, bajo su más estricta responsabilidad, revisará la contestación de la
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 11.- El allanamiento que afecte toda la demanda producirá el efecto de que el asunto pase a sentencia definitiva.
+Art. 1,414 Bis 11. El allanamiento que afecte toda la demanda producirá el efecto de que el asunto pase a sentencia definitiva.
 
 El demandado aun cuando no hubiere contestado en tiempo la demanda, tendrá en todo tiempo el derecho de ofrecer pruebas, hasta antes de que se dicte la sentencia correspondiente, y por una sola vez.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 12.- Tanto en la demanda como en la contestación a la misma, las partes tienen la obligación de ser claras y precisas. En esos mismos escritos deberán ofrecer todas sus pruebas relacionándolas con los hechos que pretendan probar y presentar todos los documentos respectivos, salvo lo dispuesto en el segundo párrafo del artículo anterior.
+Art. 1,414 Bis 12. Tanto en la demanda como en la contestación a la misma, las partes tienen la obligación de ser claras y precisas. En esos mismos escritos deberán ofrecer todas sus pruebas relacionándolas con los hechos que pretendan probar y presentar todos los documentos respectivos, salvo lo dispuesto en el segundo párrafo del artículo anterior.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 13.- Siempre que las pruebas ofrecidas sean contra la moral o el derecho, o no se ajusten a lo dispuesto en los artículos 1414 bis 11 y 1414 bis 12, o bien se refieran a hechos imposibles, notoriamente inverosímiles o no controvertidos por las partes, el juez las desechará de plano.
+Art. 1,414 Bis 13. Siempre que las pruebas ofrecidas sean contra la moral o el derecho, o no se ajusten a lo dispuesto en los artículos 1414 bis 11 y 1414 bis 12, o bien se refieran a hechos imposibles, notoriamente inverosímiles o no controvertidos por las partes, el juez las desechará de plano.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 14.- El juez resolverá sobre la admisión o desechamiento de pruebas en el auto que tenga por contestada o no la demanda. En el mismo auto, el juez dará vista al actor con las excepciones opuestas por el demandado, por el término de tres días y señalará fecha y hora para la celebración de la audiencia de pruebas alegatos y sentencia. Esta audiencia deberá celebrarse dentro de los diez días siguientes a aquél en que haya concluido el plazo fijado para que el actor desahogue la vista a que se refiere este artículo.
+Art. 1,414 Bis 14. El juez resolverá sobre la admisión o desechamiento de pruebas en el auto que tenga por contestada o no la demanda. En el mismo auto, el juez dará vista al actor con las excepciones opuestas por el demandado, por el término de tres días y señalará fecha y hora para la celebración de la audiencia de pruebas alegatos y sentencia. Esta audiencia deberá celebrarse dentro de los diez días siguientes a aquél en que haya concluido el plazo fijado para que el actor desahogue la vista a que se refiere este artículo.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 15.- La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a sus testigos, peritos, documentos públicos y privados, pliego de posiciones y demás pruebas que les hayan sido admitidas.
+Art. 1,414 Bis 15. La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a sus testigos, peritos, documentos públicos y privados, pliego de posiciones y demás pruebas que les hayan sido admitidas.
 
 Cuando las partes tengan que rendir prueba testimonial o pericial para acreditar algún hecho, deberán ofrecerla en los escritos de demanda o contestación, señalando el nombre y apellidos de sus testigos y de sus peritos, en su caso, y exhibir copia de los interrogatorios al tenor de los cuales deban ser examinados los testigos o del cuestionario para los peritos.
 
@@ -8090,11 +8106,11 @@ Si llamado un testigo o solicitado un documento que haya sido admitido como prue
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 16.- El juez debe presidir la audiencia, ordenar el desahogo de las pruebas admitidas y preparadas, y dar oportunidad a las partes para alegar lo que a su derecho convenga, por escrito o verbalmente, sin necesidad de asentarlo en autos en este último caso. Acto continuo, el juez dictará sentencia, la que será apelable únicamente en efecto devolutivo.
+Art. 1,414 Bis 16. El juez debe presidir la audiencia, ordenar el desahogo de las pruebas admitidas y preparadas, y dar oportunidad a las partes para alegar lo que a su derecho convenga, por escrito o verbalmente, sin necesidad de asentarlo en autos en este último caso. Acto continuo, el juez dictará sentencia, la que será apelable únicamente en efecto devolutivo.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
+Art. 1,414 Bis 17. Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
 
 > <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -8108,7 +8124,7 @@ Se exceptúa de lo dispuesto en el párrafo anterior, a los créditos a la vivie
 
 En ningún caso y bajo ninguna forma se podrá renunciar a este derecho;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 III. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte acreedora o la fiduciaria, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al deudor el remanente que corresponda por la venta de los bienes.
 
@@ -8126,15 +8142,15 @@ c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera s
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,414 Bis 18.- En caso de incumplimiento de la parte actora a lo señalado en la fracción III, inciso c), del artículo anterior, el juez lo apercibirá con las medidas de apremio establecidas en el artículo 1414 Bis 9, y le ordenará pagar una pena equivalente a cien y hasta tres mil veces, el salario mínimo diario general vigente en el Distrito Federal en las fechas de incumplimiento, por día transcurrido, mientras subsista el incumplimiento.
+Art. 1,414 Bis 18. En caso de incumplimiento de la parte actora a lo señalado en la fracción III, inciso c), del artículo anterior, el juez lo apercibirá con las medidas de apremio establecidas en el artículo 1414 Bis 9, y le ordenará pagar una pena equivalente a cien y hasta tres mil veces, el salario mínimo diario general vigente en el Distrito Federal en las fechas de incumplimiento, por día transcurrido, mientras subsista el incumplimiento.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Art. 1,414 Bis 19.- El acreedor o fiduciario, en tanto no realice la entrega al deudor del remanente de recursos que proceda en términos del artículo 1414 Bis 17, fracción III, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
+Art. 1,414 Bis 19. El acreedor o fiduciario, en tanto no realice la entrega al deudor del remanente de recursos que proceda en términos del artículo 1414 Bis 17, fracción III, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,414 Bis 20.- En los procedimientos que se ventilen conforme a lo señalado en este Capítulo, no se admitirán incidentes y las resoluciones que se dicten podrán ser apeladas sólo en efecto devolutivo, por lo que en ningún caso podrá suspenderse el procedimiento, salvo lo previsto en el último párrafo del artículo 1414 bis 10.
+Art. 1,414 Bis 20. En los procedimientos que se ventilen conforme a lo señalado en este Capítulo, no se admitirán incidentes y las resoluciones que se dicten podrán ser apeladas sólo en efecto devolutivo, por lo que en ningún caso podrá suspenderse el procedimiento, salvo lo previsto en el último párrafo del artículo 1414 bis 10.
 
 En todo lo no previsto en este Capítulo serán aplicables las disposiciones contenidas en el Título III del Libro V, de este Código.
 
@@ -8210,7 +8226,7 @@ Art. 1,422. Cuando se requiera la intervención judicial será competente para c
 
 Cuando el lugar del arbitraje se encuentre fuera del territorio nacional, conocerá del reconocimiento y de la ejecución del laudo el juez de primera instancia federal o del orden común competente, del domicilio del ejecutado o, en su defecto, el de la ubicación de los bienes.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO II.
 
@@ -8230,7 +8246,7 @@ Si se ha entablado la acción a que se refiere el párrafo anterior, se podrá n
 
 Art. 1,425. Aun cuando exista un acuerdo de arbitraje las partes podrán, con anterioridad a las actuaciones arbitrales o durante su transcurso, solicitar al juez la adopción de medidas cautelares provisionales.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO III.
 
@@ -8280,7 +8296,7 @@ Art. 1,430. Cuando un árbitro se vea impedido de hecho o por disposición legal
 
 Art. 1,431. Cuando un árbitro cese en su cargo en virtud de lo dispuesto en los artículos 1429 o 1430, renuncia, remoción por acuerdo de las partes o terminación de su encargo por cualquier otra causa, se procederá al nombramiento de un sustituto conforme al mismo procedimiento por el que se designó al árbitro que se ha de sustituir.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO IV.
 
@@ -8298,7 +8314,7 @@ El tribunal arbitral podrá decidir las excepciones a que se hace referencia en 
 
 Art. 1,433. Salvo acuerdo en contrario de las partes, el tribunal arbitral podrá, a petición de una de ellas, ordenar la adopción de las providencias precautorias necesarias respecto del objeto de litigio. El tribunal arbitral podrá exigir de cualquiera de las partes una garantía suficiente en relación con esas medidas.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO V.
 
@@ -8366,7 +8382,7 @@ Art. 1,443. Salvo acuerdo en contrario de las partes, cuando una parte lo solici
 
 Art. 1,444. El tribunal arbitral o cualquiera de las partes con la aprobación de éste, podrá solicitar la asistencia del juez para el desahogo de pruebas.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO VI.
 
@@ -8438,7 +8454,7 @@ El tribunal arbitral podrá prorrogar, de ser necesario, el plazo para efectuar 
 
 En las correcciones o interpretaciones del laudo o en los laudos adicionales, se aplicará lo dispuesto en el artículo 1448.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO VII.
 
@@ -8482,7 +8498,7 @@ Si transcurridos treinta días desde la comunicación del requerimiento del trib
 
 Una vez dictado el laudo, el tribunal arbitral entregará a las partes un estado de cuenta de los depósitos recibidos y les reembolsará todo saldo no utilizado.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ### CAPÍTULO VIII.
 
@@ -8518,19 +8534,209 @@ Art. 1,460. El procedimiento de nulidad se sustanciará incidentalmente, de conf
 
 La resolución no será objeto de recurso alguno.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-## TÍTULO CUARTO.
+## TITULO TERCERO.
 
-DEL ARBITRAJE COMERCIAL.
+DE LOS JUICIOS EJECUTIVOS.
 
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
 
-## TITULO CUARTO.
+Traen aparejada ejecución:
 
-DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
+I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+II. Los instrumentos públicos, así como los testimonios y copias certificadas que de los mismos expidan los fedatarios públicos;
+
+III. La confesión judicial del deudor, según el artículo 1,288;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+IV. Los títulos de crédito;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+V. Las pólizas de seguros conforme a la ley de la materia;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en la ley de la materia;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+VIII. Los demás documentos que por disposición de la ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto, con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda, los gastos y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,393. No encontrándose el deudor a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,394. La diligencia de embargo se iniciará con el requerimiento de pago al deudor, su representante o la persona con la que se entienda, de las indicadas en el artículo anterior; de no hacerse el pago, se requerirá al demandado, su representante o la persona con quien se entiende la diligencia, para que señale bienes suficientes para garantizar las prestaciones reclamadas, apercibiéndolo que de no hacerlo, el derecho para señalar bienes pasará al actor. A continuación se emplazará al demandado.
+
+En todos los casos se le entregará a dicho demandado cédula en la que se contengan la orden de embargo decretada en su contra, dejándole copia de la diligencia practicada, corriéndole traslado con la copia de demanda, de los documentos base de la acción y demás que se ordenan por el artículo 1061.
+
+La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio.
+
+El juez, en ningún caso, suspenderá su jurisdicción para dejar de resolver todo lo concerniente al embargo, su inscripción en el Registro Público que corresponda, desembargo, rendición de cuentas por el depositario respecto de los gastos de administración y de las demás medidas urgentes, provisionales o no, relativas a los actos anteriores.
+
+Art. 1,395. En el embargo de bienes se seguirá este orden:
+
+I. Las mercancías;
+
+II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
+
+III. Los demás muebles del deudor;
+
+IV. Los inmuebles;
+
+V. Las demás acciones y derechos que tenga el demandado.
+
+Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Tratándose de embargo de inmuebles, a petición de la parte actora, el juez requerirá que la demandada exhiba el o los contratos celebrados con anterioridad que impliquen la transmisión del uso o de la posesión de los mismos a terceros. Sólo se aceptarán contratos que cumplan con todos los requisitos legales y administrativos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Una vez trabado el embargo, el ejecutado no puede alterar en forma alguna el bien embargado, ni celebrar contratos que impliquen el uso del mismo, sin previa autorización del juez, quien al decidir deberá recabar la opinión del ejecutante. Registrado que sea el embargo, toda transmisión de derechos respecto de los bienes sobre los que se haya trabado no altera de manera alguna la situación jurídica de los mismos en relación con el derecho que, en su caso, corresponda al embargante de obtener el pago de su crédito con el producto del remate de esos bienes, derecho que se surtirá en contra de tercero con la misma amplitud y en los mismos términos que se surtiría en contra del embargado, si no hubiese operado la transmisión.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Cometerá el delito de desobediencia el ejecutado que transmita el uso del bien embargado sin previa autorización judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de ocho días, el que se computará en términos del artículo 1075 de este Código, comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
+
+Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
+
+Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,399. Dentro de los cinco días siguientes al requerimiento de pago, al embargo, en su caso y al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada hecho, oponiendo únicamente las excepciones que permite la ley en el artículo 1403 de este Código, y tratándose de títulos de crédito las del artículo 8o. de la Ley General de Títulos y Operaciones de Crédito, y en el mismo escrito ofrecerá pruebas, relacionándolas con los hechos y acompañando los documentos que exige la ley para las excepciones.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,400. Si el demandado dejare de cumplir con lo dispuesto por el artículo 1061 de este ordenamiento respecto de las documentales en que funde sus excepciones, el juez dejará de admitirlas, salvo las que sean supervenientes.
+
+En caso de que el demandado hubiere exhibido las documentales respectivas, o cumplido con lo que ordena el artículo 1061 de este ordenamiento, se tendrán por opuestas las excepciones que permite la ley, con las cuales se dará vista al actor por tres días para que manifieste y ofrezca las pruebas que a su derecho convenga.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,401. En los escritos de demanda, contestación y desahogo de vista de ésta, las partes ofrecerán sus pruebas, relacionándolas con los puntos controvertidos, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este artículo; así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario que deban resolver; y todas las demás pruebas que permitan las leyes.
+
+Si los testigos no se hubieren mencionado con sus nombres y apellidos en los escritos que fijan la litis, el juez no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Desahogada la vista o transcurrido el plazo para hacerlo, el juez admitirá y mandará preparar las pruebas que procedan, de acuerdo con el Código Federal de Procedimientos Civiles, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
+
+Las pruebas que se reciban fuera del término concedido por el juez, o su prórroga si la hubiere decretado, serán bajo la responsabilidad de éste, quien sin embargo, podrá mandarlas concluir en una sola audiencia indiferible que se celebrará dentro de los diez días siguientes.
+
+Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
+
+Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
+
+I. Falsedad del título ó del contrato contenido en él;
+
+II. Fuerza ó miedo;
+
+III. Prescripción ó caducidad del título;
+
+IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
+
+V. Incompetencia del juez;
+
+VI. Pago ó compensación;
+
+VII. Remisión ó quita;
+
+VIII. Oferta de no cobrar ó espera;
+
+IX. Novación de contrato.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Las excepciones comprendidas desde la fracción IV a la IX sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,404. En los juicios ejecutivos los incidentes no suspenderán el procedimiento y se tramitarán cualquiera que sea su naturaleza con un escrito de cada parte y contándose con tres días para dictar resolución. Si se promueve prueba deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que verse, y se citará para audiencia indiferible dentro del término de ocho días, en que se reciba, se oigan brevemente las alegaciones, y en la misma se dicte la resolución correspondiente que debe notificarse a las partes en el acto, o a más tardar el día siguiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,405. Si el deudor se allanare a la demanda y solicitare término de gracia para el pago de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a tales proposiciones de las partes.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Art. 1,406. Concluido el término de prueba, se pasará al período de alegatos, el que será de dos días comunes para las partes.
+
+Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,407 Bis. Para la tramitación de apelaciones respecto del Juicio a que se refiere este Capítulo se estará a lo siguiente:
+
+I. Salvo lo previsto en la fracción III de este artículo, las resoluciones y autos que se dicten durante el procedimiento y que sean apelables, una vez interpuesta la apelación, el juez la admitirá si procede y reservará su tramitación para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Si no se presentara apelación por la misma parte en contra de la definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante dicho procedimiento;
+
+II. Sólo en caso de que el tribunal considere fundada la apelación promovida por alguna de las partes, deberá estudiar de oficio, aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por no encuadrarse en los supuestos previstos en las fracciones I, II y IV del artículo 1337;
+
+III. Respecto de la sentencia definitiva, sentencias interlocutorias o autos definitivos que pongan término al juicio se admitirá la apelación en ambos efectos;
+
+IV. Las apelaciones que se interpongan con motivo de resoluciones dictadas con posterioridad a la sentencia definitiva, se substanciarán de conformidad con las reglas generales que prevé este Código, y
+
+V. En los casos a que se refieren las fracciones I y III de este artículo, una vez que el tribunal cite a las partes para oír sentencia, contará con un máximo de veinte días para elaborar el proyecto. En caso que se tengan que resolver más de seis apelaciones intermedias el plazo podrá prorrogarse hasta por diez días más, así como en el caso de que se tengan que examinar expedientes o documentos voluminosos.
+
+Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
+
+Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+
+Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
+
+Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
+
+Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,412 Bis. Cuando el monto líquido de la condena fuere superior al valor de los bienes embargados, previamente valuados en términos del artículo 1410 de este Código, y del certificado de gravámenes no aparecieren otros acreedores, el ejecutante podrá optar por la adjudicación directa de los bienes que haya en su favor al valor fijado en el avalúo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Art. 1,412 Bis 1. Tratándose del remate y adjudicación de inmuebles, el juez y el adjudicatario, sin más trámite, otorgarán la escritura pública correspondiente ante fedatario público.
+
+Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+
+Art. 1,414. Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, o en su defecto la ley procesal de la Entidad Federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+
+## TITULO TERCERO BIS.
+
+DE LOS PROCEDIMIENTOS DE EJECUCIÓN DE LA PRENDA SIN TRANSMISIÓN DE POSESIÓN Y DEL FIDEICOMISO DE GARANTÍA.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
 ### CAPÍTULO IX.
 
@@ -8639,6 +8845,12 @@ Art. 1,498. (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE 
 Art. 1,499. (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,500. (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+## TITULO CUARTO.
+
+DEL ARBITRAJE COMERCIAL.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ## TRANSITORIOS.
 
@@ -8818,7 +9030,7 @@ En tanto se reglamenta y organiza el Resguardo Marítimo, conforme a esta ley, l
 
 D.O.F. 27 DE ENERO DE 1970.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS DEL 51 AL 74 DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 51 AL 74 DEL CODIGO DE COMERCIO.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
@@ -9017,3 +9229,7 @@ Segundo.- Los sujetos a los que hace referencia el artículo 65 Bis, tendrán un
 Tercero.- La Secretaría de Economía deberá emitir la Norma Oficial Mexicana a que se refiere el presente Decreto, de conformidad con lo dispuesto por la Ley Federal Sobre Metrología y Normalización.
 
 Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor de este decreto, cuentan con un plazo de seis meses contados a partir de la publicación de la Norma Oficial Mexicana a que se refiere el artículo anterior, para obtener el registro del contrato correspondiente ante la Procuraduría.
+
+D.O.F. 17 DE ABRIL DE 2008.
+
+Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación, en el entendido que los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la presente reforma, se tramitarán con las reglas anteriores a la misma.
