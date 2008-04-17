@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-52356
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2006-09-19"
+last_updated: "2008-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el martes 19 de septiembre de 2006.
 
@@ -535,11 +535,15 @@ I. Coordinarse con la SEDARH, a efecto de que se asegure que la operación de me
 
 II. Coordinarse con la SEDARH en el establecimiento e implementación de estrategias conjuntas para combatir las zoonosis que se detecten en la entidad.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 14.
 
-Corresponde a la Secretaría de Ecología y Gestión Ambiental, además de las atribuciones que le confiere la Ley Ambiental del Estado de San Luis Potosí, coordinarse con la SEDARH, a efecto de que se asegure la conservación y protección de la tierra y de la biodiversidad genérica de las especies agrícolas, ganaderas, flora y fauna silvestre, y pesqueras, y se controle adecuadamente el deterioro ambiental que pueda ocasionar el desarrollo de obras o actividades de carácter público o privado.
+Corresponde a la Secretaría de Ecología y Gestión Ambiental, además de las atribuciones que le confiere la Ley Ambiental del Estado, coordinarse con la SEDARH, a efecto de que se asegure la conservación y protección del suelo y biodiversidad agrícola, ganadera, de la flora y la fauna silvestre; así como piscícola en sus niveles genético, de ecosistemas y de especies; y se controle adecuadamente el daño ambiental que pueda ocasionar el desarrollo de obras o actividades de carácter público o privado.
 
-Evitar o prohibir el uso de los equipos, sistemas, maquinarias, insecticidas y fertilizantes, que no hayan sido debidamente probados y que no cuenten con patente debidamente registrada con el objeto de que no ocasionen efectos contaminantes y no causen daños o molestias a la salud humana y en general a los ecosistemas.
+Al efecto, deberá evitar o prohibir el uso de tecnología, equipos, sistemas maquinarias, insecticidas y fertilizantes, que no hayan sido debidamente probados en su efectividad, y que no cuenten con la patente legalmente registrada, así como certificación o validación por parte de las autoridades competentes del sector agropecuario, con objeto de prevenir efectos contaminantes adversos y, por consecuencia, daños o molestias a la salud humana y, en general, al ambiente.
+
+La autoridad estatal no otorgará permisos de operación cuando no se disponga de información precisa, que certifique la inexistencia de riesgos para la salud humana y el medio ambiente.
 
 ###### ARTICULO 15.
 
@@ -1639,9 +1643,11 @@ Todas las actividades que emanen del presente capítulo, se ajustarán a lo disp
 
 La SEDARH, en coordinación con las autoridades correspondientes en materia de ecología y medio ambiente, establecerán las medidas necesarias para proteger las áreas naturales, de manera que se asegure la preservación y restauración de los ecosistemas, especialmente de aquellos que se encuentren en riesgo de deterioro o degradación.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 145.
 
-La SEDARH, y las autoridades correspondientes en materia de ecología y medio ambiente, podrán realizar inspecciones en las instalaciones establecidas o de nueva creación dedicadas a actividades ganaderas, para determinar y constatar el cumplimiento de las medidas preventivas y el funcionamiento del equipo anticontaminante que sea requerido.
+La SEDARH, y las autoridades correspondientes en materia de ecología y medio ambiente, podrán realizar inspecciones en las instalaciones establecidas o de nueva creación, dedicadas a actividades agropecuarias en general, para determinar y constatar el cumplimiento de las medidas preventivas, y el funcionamiento del equipo anticontaminante que sea requerido.
 
 ###### ARTICULO 146.
 
@@ -3555,7 +3561,9 @@ VII. No dar mantenimiento preventivo y correctivo, de manera sistemática, al eq
 
 VIII. No contar, en el caso de los lugares destinados para la comercialización de animales, sus productos y subproductos, con las autorizaciones de la autoridad competente en lo concerniente a los sistemas especiales para la preservación y mejoramiento ambiental;
 
-IX. Utilizar los equipos, sistemas, maquinarias, insecticidas y fertilizantes, que no hayan sido debidamente probados y que no cuenten con patente debidamente registrada ante las autoridades competentes;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2008)</small>
+
+IX. Utilizar los equipos, sistemas, maquinarias, insecticidas y fertilizantes que no hayan sido debidamente probados, y que no cuenten con patente debidamente registrada ante las autoridades competentes; así como equipos, dispositivos o tecnologías que no cumplan con las normas oficiales mexicanas; las disposiciones de la Ley Federal sobre Metrología y Normalización; normas oficiales estatales; o permiso de las autoridades estatales en materia de ecología y medio ambiente;
 
 X. No contar con dispositivos o infraestructura de control de las aguas y desechos en los casos de las explotaciones ganaderas;
 
@@ -3697,9 +3705,11 @@ LXXVIII. Expedir certificados zoosanitarios y de movilización de productos y su
 
 LXXIX. Las demás que establezca esta Ley y disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 471.
 
-Las infracciones a lo dispuesto por esta Ley serán sancionadas por la SEDARH o la autoridad municipal en el ámbito de sus respectivas jurisdicciones, si el caso de encuentra en el ámbito de sus atribuciones, con arreglo a la gravedad que implique la falta cometida por el infractor, en cuanto a sus obligaciones de hacer o no hacer lo que en la misma se establece. Para esos efectos se podrán aplicar las siguientes sanciones:
+Las infracciones establecidas en el artículo anterior de esta Ley, serán sancionadas administrativamente por la SEDARH, y los ayuntamientos correspondientes, podrán aplicar las siguientes sanciones:
 
 I. Cancelación de registro de fierros y marcas;
 
@@ -3713,27 +3723,49 @@ V. Multa, y
 
 VI. Arresto administrativo.
 
-En caso de personas detenidas por la Comisión de Delitos, estas serán puestas inmediatamente a disposición del Ministerio Público.
+En caso de personas detenidas por la comisión de delitos, éstas serán puestas inmediatamente a disposición del Ministerio público.
 
-Las multas a que hace referencia la fracción V del presente artículo, podrán ser de veinte, a mil veces el salario mínimo vigente en el Estado.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Las infracciones enumeradas en el artículo anterior serán sancionadas con:
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Multa de uno a veinte días de salario mínimo vigente en la entidad a quienes violen las fracciones de la I, II, III, IV. VII, X, XI, XII, XV, XVII, XVIII, XIX, XX, XXI, XXII, XIV (SIC) XXV, XXVI, XXVII, XXXI, XXXIII, XXXVI, XXXVII, XXXIX, LIV, LV, LVI, LVII, LIX, LX, LXI, LXII, LXIV, LXV, LXXIII y LXXV.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Multa de cinco hasta cien días de salario mínimo vigente en la entidad a quienes violen las fracciones de la XXXIV.
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Multa de diez hasta cincuenta días de salario mínimo vigente en la entidad a quienes violen las fracciones de la V, VI, VII, IX, XVI, XXIII, XXVII, XXVIII, XXXV Y LXVI.
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Multa de veinte hasta doscientos días de salario mínimo vigente en la entidad a quienes violen las fracciones de la XXX, XXXII, XXXIX, XL, XLI, XLII, XLIII, XLVI, XLVII, XLII, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIV, LXXVI, y LXXVII.
+> <small>(DEROGADO OCTAVO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Multa de diez hasta mil días de salario mínimo vigente en la entidad a quienes violen las fracciones de la XII y XIV.
+> <small>(DEROGADO NOVENO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Multa de cincuenta hasta mil días de salario mínimo vigente en la entidad a quienes violen las fracciones de la XLIV, XLV, XLVIII y L; y
+> <small>(DEROGADO DECIMO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Multa de quinientos hasta mil días de salario mínimo vigente en la entidad a quienes violen las fracciones de la XLIX, LI, LII, LIII, LVIII, y LXXVIII.
+> <small>(DEROGADO DECIMOPRIMER PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-Lo anterior sin perjuicio de las sanciones administrativas a que se hagan acreedores.
+> <small>(DEROGADO DECIMOSEGUNDO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2008)</small>
+
+ARTICULO 471 BIS. La imposición de las multas a que se refiere la fracción V del artículo anterior, se determinará en la forma siguiente.
+
+l. Con un equivalente de veinte días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, X, XI, XII, XV, XVII, XVIII, XIX, XX, XXI, XXlI, XXV, XXVI, XXXl, XXXIII, XXXVI, XXXVII; LIV, LV, LVI, LVII, LIX, LX, LXI, LXIII, LXIV, LXV, LXXIII y LXXV del artículo 470 de esta Ley;
+
+II. Con un equivalente de cinco días hasta cien días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en la fracción XXXIV del artículo 470 de esta Ley;
+
+III. Con un equivalente de diez hasta cincuenta días de salario mínimo vigente en la Entidad, a quién cometa las infracciones señaladas en las fracciones V, VI, VII, VIII, XVI, XXIV, XXVlI, XXVlll, XXIX, XXXV, XXXVIII y LXVI del artículo 470 de esta Ley;
+
+IV. Con un equivalente de diez hasta cien días de salario mínimo vigente en la Entidad, a quien cometa la infracción señalada en la fracción IX del artículo 470 de está Ley;
+
+V. Con un equivalente de veinte hasta doscientos días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XXX, XXXII, XXXIX, XL, XLI, XLII, XLIII, LXVI, XLVII, LXII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIV, LXXVI, y LXXVII y LXXIX del artículo 470 de esta Ley;
+
+VI. Con un equivalente de diez hasta mil días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XIII y XIV del artículo 470 de esta Ley;
+
+VII. Con un equivalente de cincuenta hasta mil días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XLIV, XLV, XLVIII y L del artículo 470 de esta Ley, y
+
+VIII. Con un equivalente de quinientos hasta mil días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XLIX, LI, LII, LIII, LVIII, LXVII y LXXVIII, del artículo 470 de esta Ley.
+
+Lo anterior, sin perjuicio de las sanciones administrativas a que se hagan acreedores.
 
 ###### ARTICULO 472.
 
@@ -3808,3 +3840,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
