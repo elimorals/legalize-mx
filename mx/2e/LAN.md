@@ -4,7 +4,7 @@ identifier: "LAN"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-01"
-last_updated: "2004-04-29"
+last_updated: "2008-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAN"
 
 LEY DE AGUAS NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ABRIL DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de diciembre de 1992.
 
@@ -3258,6 +3258,10 @@ DÉCIMO TERCERO. Cuando el Gobierno Federal haya participado en el financiamient
 
 DÉCIMO CUARTO. "La Comisión" dispondrá de un plazo no mayor de doce meses para estructurar y poner en funcionamiento el Programa de Cuenta Nueva y Borrón, entendiendo como Cuenta Nueva, el estar al corriente de sus obligaciones del ejercicio vigente y de los últimos cuatro ejercicios en concordancia con el Código Fiscal de la Federación. En dicho Programa se establecerá su vigencia.
 
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2008)</small>
+
+Asimismo, la Comisión contará con un plazo de doce meses, a partir de la entrada en vigor del presente Decreto, para llevar a cabo una campaña de regularización administrativa de concesiones para la explotación, uso o aprovechamiento de aguas nacionales, cuya vigencia haya concluido. Los concesionarios que no gestionen la regularización de sus títulos en el plazo establecido, serán sancionados por la Comisión de conformidad a las disposiciones jurídicas aplicables. Este beneficio sólo será aplicado a aquellos poseedores que cuenten con antecedentes de trámites de concesiones y permisos en materia de explotación, uso o aprovechamiento de aguas nacionales, antes de los decretos presidenciales de 1995 y 1996 relativos a la materia, que demuestren fehacientemente la operación del aprovechamiento y se sujeten a los ordenamientos jurídicos aplicables y a la disponibilidad y sustentabilidad de la cuenca.
+
 Para su debida observancia, cumplimiento y difusión, se publicará en el Diario Oficial de la Federación, así como en los principales diarios de circulación nacional.
 
 DÉCIMO QUINTO. En tanto se cumple con lo dispuesto en el Párrafo Tercero del Artículo 22 de esta Ley, se observará el siguiente orden de prelación de los usos del agua para la concesión y asignación de la explotación, uso o aprovechamiento de aguas nacionales, superficiales y del subsuelo, aplicable en situaciones normales:
@@ -3291,3 +3295,7 @@ DÉCIMO QUINTO. En tanto se cumple con lo dispuesto en el Párrafo Tercero del A
 Lo anterior se aplicará sin perjuicio de lo dispuesto en el Artículo 29 BIS 5 y en el Título Quinto, de esta Ley.
 
 DÉCIMO SEXTO. Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley vigente con anterioridad al presente Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley de Aguas Nacionales.
+
+D.O.F. 18 DE ABRIL DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
