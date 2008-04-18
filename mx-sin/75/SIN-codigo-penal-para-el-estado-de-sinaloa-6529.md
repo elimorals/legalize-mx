@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2007-10-05"
+last_updated: "2008-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1532,6 +1532,10 @@ Este delito se perseguirá por querella.
 A quien por medio de la violencia física o moral, realice cópula con persona de cualquier sexo sin la voluntad de ésta, se le impondrá prisión de seis a quince años.
 
 Para los efectos de este código, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+Comete también el delito de violación y se sancionará como tal, al que introduzca por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -3560,6 +3564,12 @@ El producto de la venta de tales bienes deberá aplicarse, íntegramente, al Fon
 P.O. 5 DE OCTUBRE DE 2007.
 
 DECRETO NÚMERO 664, POR EL QUE SE REFORMAN LOS ARTÍCULOS 126; 180; 187, PRIMER PÁRRAFO; 207; Y 207 BIS, PRIMER PÁRRAFO; 242, SEGUNDO PÁRRAFO; 250; 252, PRIMER PÁRRAFO; Y SE ADICIONAN CON LAS FRACCIONES VI Y VII AL ARTÍCULO 207 BIS; LOS ARTÍCULOS 207 BIS A; 207 BIS B; UN TERCER PÁRRAFO, AL ARTÍCULO 234; Y, EL ARTÍCULO 271 BIS; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE ABRIL DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
