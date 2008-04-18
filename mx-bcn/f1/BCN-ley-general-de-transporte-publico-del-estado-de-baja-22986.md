@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2004-01-16"
+last_updated: "2008-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -108,6 +108,22 @@ I.- Establecer sistemas o autorizar rutas, itinerarios y tarifas y expedir los p
 II.- Celebrar convenios con la federación en materia de la prestación del servicio de transporte público interestatal o federal;
 
 III.- Expedir la reglamentación correspondiente en materia de transporte público intermunicipal, interestatal o derivado de los convenios celebrados con la federación.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+IV.- Expedir y reglamentar la expedición, canje y revalidación de licencias de motociclistas, automovilistas y choferes, estas últimas se clasificarán en:
+
+Tipo A.- Chofer que maneja tractocamiones y camiones foráneos de mas de ocho toneladas, de tres ejes o mas ejes y camiones foráneos de pasajeros (diesel o gasolina).
+
+Tipo B.- Chofer que maneja camiones urbanos de pasajeros y camiones de carga de menos de ocho toneladas de dos ejes (diesel o gasolina).
+
+Tipo C.- Chofer que maneja vehículos comerciales camiones tipo pick up paneles cerrados y camiones rabones hasta de tres toneladas.
+
+Tipo D.- Chofer que maneja vehículos de alquiler.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+Tratándose de licencias de chofer para manejar camiones urbanos y vehículos de alquiler, para el transporte de pasajeros, se requerirá que el interesado haya terminado por lo menos la instrucción primaria, así mismo los portadores de la licencia tipo B y que este dentro de su vigencia, podrán conducir vehículos de alquiler o taxi que ampare la licencia tipo D.
 
 ###### ARTICULO 5.
 
@@ -522,3 +538,7 @@ P.O. 16 DE ENERO DE 2004.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE ABRIL DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
