@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-7648"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-26"
-last_updated: "2006-06-16"
+last_updated: "2008-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de mayo de 1988.
 
@@ -63,11 +63,11 @@ VII.- Prevenir, disminuir y controlar la contaminación; y
 
 VIII.- Hacer efectiva la participación corresponsable del Estado, la sociedad y los individuos en la preservación del equilibrio ecológico y la protección al ambiente.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 3.
 
-Serán supletorias de esta Ley las disposiciones contenidas en otros ordenamientos relacionados con la materia que ésta regula; pero en materia procesal se aplicarán supletoriamente las disposiciones de la Ley Adjetiva Civil del Estado de Querétaro.
+Serán supletorias de esta Ley las disposiciones contenidas en otros ordenamientos relacionados con la materia de equilibrio ecológico y medio ambiente; en materia procesal se aplicarán supletoriamente las disposiciones de la Ley de Procedimientos Administrativos para el Estado y Municipios, la Ley de Enjuiciamiento de lo Contencioso-Administrativo del Estado de Querétaro y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -223,7 +223,7 @@ II.- Las autoridades municipales del Estado de Querétaro.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 7.
+###### ARTICULO 7.
 
 Corresponde al Ejecutivo estatal:
 
@@ -251,31 +251,59 @@ d) Las emergencias y contingencias ambientales que afecten las áreas de dos o m
 
 VIII.- Regular y autorizar el aprovechamiento y explotación de bancos de materiales de construcción y ornamento no reservados a la Federación, y de aquellas actividades donde se exploten o beneficien productos derivados de la descomposición o fragmentación de las rocas, mediante trabajos a cielo abierto;
 
-IX.- Publicar la lista de actividades no consideradas como altamente riesgosas, y regular su realización
+IX.- Publicar la lista de actividades no consideradas como altamente riesgosas, y regular su realización;
 
-X.- Expedir la declaratoria y los programas de manejo para el establecimiento, regulación, administración y vigilancia de área naturales protegidas de competencia estatal, pudiendo transferir a los municipios del Estado o a personas morales, las facultades de administración y vigilancia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XI.- El ordenamiento ecológico estatal y regional, con el apoyo de los municipios y la participación de las dependencias de la administración pública vinculadas a este objeto, de modo que norme los programas de desarrollo urbano e instrumentos regulados por esta Ley y demás disposiciones aplicables;
+X.- Expedir la declaratoria para la creación de áreas naturales protegidas de competencia estatal, así como la elaboración y aplicación de los programas de manejo, ordenamiento territorial, zonificación, la regulación, administración y vigilancia, con la participación de los municipios, de conformidad con lo que señala la presente Ley y demás disposiciones aplicables;
 
-XII.- Expedir y aplicar normas técnicas ecológicas locales, observando las normas y lineamientos que permitan cumplir con las especificaciones y estándares análogos del orden federal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XIII.- Evaluar y dictaminar, con la participación de los municipios respectivos en su caso, el impacto ambiental que por su ubicación, dimensiones o características, puedan producir las obras o actividades previstas en el artículo 53 de esta Ley;
+XI.- Expedir la declaratoria para la creación de zonas de reservas ecológicas en la jurisdicción territorial del municipio, que los Ayuntamientos podrán proponer al Poder Ejecutivo del Estado;
 
-XIV.- Solicitar a la Federación los estudios de evaluación de impacto y riesgo ambiental de obras o actividades de competencia federal que se realicen en el territorio estatal, como condicionante para el otorgamiento de las autorizaciones que competan a la autoridad local;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XV.- Conducir la política estatal de información y difusión en materia ambiental;
+XII.- Expedir el ordenamiento ecológico estatal y regional, con el apoyo de los municipios y la participación de las dependencias de la administración pública vinculadas a este objeto, de modo que norme los programas de desarrollo urbano e instrumentos regulados por esta Ley y demás disposiciones aplicables;
 
-XVI.- Supervisar la adecuada conservación y el aprovechamiento sustentable de los recursos naturales, desde su extracción hasta su transformación en materias primas, promoviendo, además la utilización de los subproductos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XVII.- Expedir los permisos y autorizaciones que por exclusión no sean de competencia federal, en materia de desmonte de arbolado y limpieza de terrenos, en coordinación con los ayuntamientos y demás autoridades competentes;
+XIII.- Expedir y aplicar normas técnicas ecológicas locales, observando las normas y lineamientos que permitan cumplir con las especificaciones y estándares análogos del orden federal;
 
-XVIII.- Regular los sistemas de manejo y disposición final de residuos sólidos no peligrosos, estableciendo las normas, condiciones y criterios a que deberán sujetarse el diseño, la ubicación, la construcción y la operación de las instalaciones y equipos destinados a estos fines;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XIX.- Concesionar y reglamentar los servicios de verificación de fuentes de contaminación que sean de la competencia del Estado, y autorizar la operación de laboratorios ambientales;
+XIV.- Evaluar y dictaminar, con la participación, en su caso, de los municipios respectivos, el impacto ambiental que por su ubicación, dimensiones o características, puedan producir las obras o actividades previstas en el artículo 53 de esta Ley;
 
-XX.- La regularización y vigilancia de las instalaciones, equipos y actividades que para la preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, impliquen los servicios municipales;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXI.- Ejercitar las actividades que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, le transfiera la Federación en materia de:
+XV.- Solicitar a la Federación los estudios de evaluación de impacto y riesgo ambiental de obras o actividades de competencia federal que se realicen en el territorio estatal, como condicionante para el otorgamiento de las autorizaciones que competan a la autoridad local;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XVI.- Conducir la política estatal de información y difusión en materia ambiental;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XVII.- Supervisar la adecuada conservación y el aprovechamiento sustentable de los recursos naturales, desde su extracción hasta su transformación en materias primas, promoviendo, además la utilización de los subproductos;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XVIII.-Expedir los permisos y autorizaciones que, por exclusión, no sean de competencia federal, en materia de desmonte de arbolado y limpieza de terrenos, en coordinación con los ayuntamientos y demás autoridades competentes;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XIX.- Regular los sistemas de manejo y disposición final de residuos sólidos no peligrosos, estableciendo las normas, condiciones y criterios a que deberá sujetarse el diseño, la ubicación, la construcción y la operación de las instalaciones y equipos destinados a estos fines;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XX.- Concesionar y reglamentar los servicios de verificación de fuentes de contaminación que sean de la competencia del Estado y autorizar la operación de laboratorios ambientales;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XXI.- La regularización y vigilancia de las instalaciones, equipos y actividades que para la preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, impliquen los servicios municipales;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XXII.- Ejecutar las actividades que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, le transfiera la Federación en materia de:
 
 a) Manejo y vigilancia de áreas naturales protegidas de competencia federal;
 
@@ -285,25 +313,43 @@ c) Prevención y control de la contaminación atmosférica proveniente de fuente
 
 d) Protección, preservación, restauración y aprovechamiento sustentable de recursos naturales de competencia federal, flora y fauna silvestre; y
 
-e) Cualquiera que conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás disposiciones aplicables, sea susceptible de transferencia;
+e) Cualquiera que conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás disposiciones aplicables, sea susceptible de transferencia.
 
-XXII.- Participar en la coordinación que la Federación implemente para atender los asuntos que en materia ambiental, afecten el equilibrio ecológico del Estado y otra u otras entidades federativas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXIII.- Celebrar convenios con la Federación, entidades federativas, municipios, organizaciones sociales y particulares, para la realización de acciones ambientales conforme a esta Ley y la General del Equilibrio Ecológico y la Protección al Ambiente;
+XXIII.- Participar en la coordinación que la Federación implemente para atender los asuntos que en materia ambiental afecten el equilibrio ecológico del Estado y otra u otras entidades federativas;
 
-XXIV.- Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXV.- Ordenar y practicar las visitas de inspección que la presente Ley autoriza, y supervisar directamente las actividades de las fuentes fijas y móviles de contaminación en el ámbito de su competencia, al efecto de comprobar el cumplimiento de las disposiciones en esta materia;
+XXIV.- Celebrar convenios en las materias a que se refiere la presente Ley, de conformidad con lo que señala la fracción VII del articulo 116 de la Constitución Política de los Estados Unidos Mexicanos y realizar los convenios de concertación correspondientes con las personas físicas o morales para la administración de las áreas naturales protegidas y para llevar a cabo acciones ambientales conforme a esta Ley;
 
-XXVI.- Establecer las bases para la autorregulación voluntaria de establecimientos industriales, comerciales y de servicios de competencia estatal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXVII.- Prestar el apoyo técnico a los ayuntamientos y a los organismos operadores del agua que lo soliciten, para el cumplimiento de las atribuciones que la presente Ley les confiere;
+XXV.- Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
 
-XVIII.- Intervenir en los asuntos ambientales que afecten el territorio de dos o más municipios de la entidad;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXIX.- Establecer las medidas necesarias y emitir las disposiciones conducentes para el cumplimiento de la presente Ley y sus reglamentos, y aplicar las sanciones administrativas por su incumplimiento; y
+XXVI.- Ordenar y practicar las visitas de inspección que la presente Ley autoriza y supervisar directamente las actividades de las fuentes fijas y móviles de contaminación en el ámbito de su competencia al efecto de comprobar el cumplimiento de las disposiciones en esta materia;
 
-XXX.- Las demás que conforme a la Ley le correspondan.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XXVII.- Establecer las bases para la autorregulación voluntaria de establecimientos industriales, comerciales y de servicios de competencia estatal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XXVIII.- Prestar el apoyo técnico a los ayuntamientos y a los organismos operadores del agua que lo soliciten, para el cumplimiento de las atribuciones que la presente Ley les confiere;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XIX (sic).- Intervenir en los asuntos ambientales que afecten el territorio de dos o más municipios de la Entidad;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XXX.- Establecer las medidas necesarias y emitir las disposiciones conducentes para el cumplimiento de la presente Ley y sus reglamentos, y aplicar las sanciones administrativas por su incumplimiento; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+XXXI.- Las demás que conforme a la Ley le correspondan.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -329,11 +375,9 @@ d) La contaminación visual en su territorio;
 
 IV.- Formular y expedir los programas de ordenamiento ecológico local, así como el control y vigilancia del uso y cambio de suelo establecidos en dichos programas, en congruencia con el ordenamiento regional formulado por el Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-V.- Establecer y registrar áreas naturales protegidas conforme a las disposiciones de esta Ley, en por lo menos el 10% de su territorio y ejercer las facultades que en materia de administración y vigilancia de las mismas le transfieran los gobiernos estatal o federal.
-
-Los Ayuntamientos podrán proponer al Gobierno del Estado el establecimiento de áreas naturales protegidas de su competencia y conforme a las categorías en los bandos o reglamentos municipales;
+V.- Participar con el Poder Ejecutivo del Estado en la creación de áreas naturales protegidas de competencia estatal, así como en la elaboración y aplicación de los programas de manejo, el ordenamiento territorial y/o zonificación, su regulación, administración y vigilancia, de conformidad con lo que señala la presente Ley y demás disposiciones aplicables;
 
 VI.- Participar con el Gobierno del Estado en la evaluación y dictamen a que se refiere la fracción XIII del artículo inmediato anterior, cuando las obras o actividades se realicen en el ámbito de su circunscripción territorial. Las autoridades municipales condicionarán las autorizaciones de uso de suelo y las licencias de construcción u operación, al resultado satisfactorio de esa evaluación;
 
@@ -1297,11 +1341,15 @@ Con arreglo a las disposiciones de este Título, cada ayuntamiento aprobará los
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 84.
+###### ARTICULO 84.
 
 Toda zona del territorio estatal será considerada objeto de preservación, particularmente aquellas áreas en las que los ambientes originales no hayan sido significativamente alterados por la actividad del ser humano, o aquellas que a pesar de haber sido afectadas, requieran, por su relevancia particular para el Estado, ser sometidas a programas de preservación o de restauración.
 
 Para ese efecto, las autoridades emitirán las declaratorias de protección correspondientes para el área de que se trate, en la que no estará permitido realizar actividades, usos o aprovechamientos distintos de aquellos contemplados en el Programa de Manejo expedido, de conformidad con el declaratoria respectiva y la presente Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+Los ejidatarios, comuneros y demás propietarios o poseedores de los terrenos comprendidos dentro de las áreas naturales protegidas, así como los titulares de concesiones, permisos y autorizaciones en dichos terrenos, por causa de interés público quedarán sujetos a las modalidades y regulaciones que establece la presente Ley y las demás disposiciones legales aplicables, así como a lo que señale la declaratoria correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -1327,7 +1375,7 @@ VII.- Asegurar, evaluar e incrementar servicios ambientales a los asentamientos 
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 86.
+###### ARTICULO 86.
 
 Son categorías de áreas naturales protegidas de jurisdicción estatal:
 
@@ -1337,19 +1385,19 @@ II.- Parques estatales;
 
 III.- Reservas naturales privadas o comunitarias;
 
-IV.- Paisajes protegidos.
+IV.- Paisajes protegidos;
 
-V.- Zonas sujetas a conservación ecológica;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+V.- Zonas de Reserva Ecológica;
 
 VI.- Zonas de preservación ecológica de centros de población; y
 
 VII.- Las que determinen otros ordenamientos jurídicos locales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+###### ARTICULO 87.
 
-###### ARTÍCULO 87.
-
-En el establecimiento, administración y desarrollo de las áreas naturales protegidas a que se refiere el artículo anterior, participarán sus habitantes y los propietarios o poseedores de terrenos que se ubiquen en ellas, de conformidad con los convenios de concertación que al efecto se celebren, a fin de propiciar el desarrollo integral de la comunidad y asegurar la protección de los ecosistemas.
+(DEROGADO, P.O. 18 DE ABRIL DE 2008)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -1409,17 +1457,31 @@ Las autoridades estatales o municipales, según corresponda, prestarán la colab
 
 Los Paisajes Protegidos se constituirán sobre áreas de tipo mixto, naturales o modificadas, con valor estético relevante, cultural o recreativo. En tales áreas se podrá autorizar la realización de actividades propias de las comunidades previamente asentadas, así como la recreación, cultura, preservación y restauración de los ecosistemas, siempre y cuando sean congruentes con la declaratoria y el programa de manejo que al efecto se expida.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 93.
+
+Las Zonas de reserva ecológica, son aquellas que por su ubicación y características físicas, químicas y biológicas tienen influencia benéfica sobre las condiciones ambientales de una porción Considerable del Estado y/o Municipios, en lo que se refiere a la captación de agua, recarga de acuíferos, calidad del aire, cuyo objeto es la conservación y preservación de los recursos naturales de los ecosistemas y del equilibrio ecológico.
+
+La declaratoria de Zonas de Reserva Ecológica podrá ser expedida por el Poder Ejecutivo del Estado, con la participación de los Ayuntamientos.
+
+Se consideran Zonas de Reserva Ecológica aquellas áreas circunvecinas a los asentamientos humanos indispensables para el bienestar, la calidad de vida y la salud de los habitantes de los centros de población, así como para promover el desarrollo sustentable en las que exista vegetación natural o inducida, capacidad de recarga de acuíferos, valores culturales o recreativos, ecosistemas o ambientes naturales y las que sean destinadas a los servicios ambientales.
+
+En tales áreas se podrá autorizar la realización de actividades propias de las comunidades previamente asentadas a la expedición de la declaratoria, que no alteren o modifiquen las condiciones naturales; además, se fomentará la preservación y restauración de los ecosistemas y aspectos ambientales, siempre y cuando sean congruentes con la declaratoria y el programa de manejo que se expida.
+
+Las Zonas de Reserva Ecológica se consideran como zonas de preservación y serán no urbanizables, delimitadas y reguladas en los Planes de Desarrollo Urbano y en los Programas de Ordenamiento Ecológico correspondientes de conformidad con lo que señalan las disposiciones legales aplicables.
+
+Las autoridades ambientales que tengan conocimiento de la existencia de cualquier situación de peligro o cualquier actividad que afecte o pueda afectar a los recursos naturales, los ecosistemas, el ambiente o causar desequilibrio ecológico o daños en las Zonas de Reserva Ecológica, lo denunciarán ante las autoridades federales, estatales o municipales, que en el ámbito de su competencia puedan limitar o suspender la instalación o funcionamiento de industrias, comercios, servicios y desarrollos urbanos.
+
+La Secretaría y los gobiernos municipales propondrán al Poder Ejecutivo Estatal, la celebración de acuerdos de coordinación para realizar actos de inspección y vigilancia tendientes a la verificación del cumplimiento de las disposiciones aplicables en las Zonas de Reserva Ecológica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 94.
+
+Las Zonas de Preservación Ecológica de los centros de población son aquellas construidas por el ser humano en el interior de dichos centros, destinadas de conformidad con las disposiciones legales aplicables, a lograr y mantener áreas verdes en proporción al desarrollo urbano y sus valores artísticos, históricos y estéticos, y atenuar los efectos ambientales negativos que se producen en los centros de población.
+
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-###### ARTÍCULO 93.
-
-Las Zonas sujetas a Conservación Ecológica son aquellas constituidas por el gobierno estatal y los Municipios, en zonas circunvecinas a los asentamientos humanos, en las que exista vegetación natural o inducida, valores culturales o recreativos o capacidad de recarga de acuíferos, destinadas a mantener ambientes naturales indispensables al bienestar social y a los bienes y servicios ambientales. En tales áreas se podrá autorizar la realización de actividades propias de las comunidades previamente asentadas, que no alteren o modifiquen las condiciones naturales; además, se fomentará la preservación y restauración de los ecosistemas y aspectos arquitectónicos, siempre y cuando sean congruentes con la declaratoria y el programa de manejo que se expida.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-###### ARTÍCULO 94.
-
-Las Zonas de Preservación Ecológica de los centros de población son aquellas construidas por el ser humano en el interior de dichos centros, destinadas a lograr y mantener áreas verdes en proporción al desarrollo urbano y sus valores artísticos, históricos y estéticos, y atenuar los efectos ambientales negativos que se producen en los centros de población.
 
 Son subcategorías de zonas de preservación ecológica de los centros de población:
 
@@ -1427,7 +1489,11 @@ I.- Parques intraurbanos; y
 
 II.- Parques periurbanos.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+
 Los parques intraurbanos son áreas superiores a una hectárea, comprendidas dentro del perímetro de las ciudades en las cuales se han preservado, restaurado o reconstruido ambientes vegetados, con el propósito de atemperar los efectos nocivos producidos por los centros de población.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 Los parques periurbanos se definen como cinturones periféricos o cuasiperiféricos, de cuando menos un kilómetro de ancho en promedio, en los que se mantiene la cubierta vegetal nativa o se restauran o establecen ambientes vegetados, con el propósito de amortiguar los efectos ambientales adversos producidos por los centros de población.
 
@@ -1459,27 +1525,35 @@ La Secretaría podrá celebrar convenios de concertación con grupos sociales y 
 
 ### CAPÍTULO III. DECLARATORIAS PARA EL ESTABLECIMIENTO, CONSERVACIÓN, ADMINISTRACIÓN, DESARROLLO Y VIGILANCIA DE ÁREAS NATURALES PROTEGIDAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2008)</small>
+
+###### ARTICULO 99.
+
+En los casos de las fracciones I a V del artículo 86, las áreas naturales protegidas se establecerán mediante declaratoria que expida el Poder Ejecutivo Estatal, con la participación de los gobiernos municipales que correspondan, conforme a ésta y demás leyes aplicables, según proceda. Tratándose de la fracción VI del artículo citado, la declaratoria podrá ser expedida por los Ayuntamientos, previa opinión de la Secretaría.
+
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
-
-###### ARTÍCULO 99.
-
-En los casos de las fracciones I y II del artículo 86, las áreas naturales protegidas se establecerán mediante declaratoria que expida el Ejecutivo estatal, con la participación de los gobiernos municipales que correspondan conforme a ésta y demás leyes aplicables, según proceda. En tratándose de las fracciones III a VI del artículo citado, la declaratoria podrá ser expedida por los Ayuntamientos, previa opinión de la Secretaría.
 
 Las áreas naturales protegidas de competencia estatal no podrán establecerse en áreas previamente establecidas por la Federación, salvo en el caso de la categoría de áreas de protección de recursos naturales sobre las cuales se pueden establecer reservas y parques estatales. Del mismo modo, las autoridades municipales no podrán establecer áreas naturales protegidas sobre áreas ya protegidas por las autoridades estatales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
-###### ARTÍCULO 100.
+###### ARTICULO 100.
 
-Las declaratorias para el establecimiento de áreas naturales protegidas, en todo caso deberán justificarse en estudios previos conforme a esta Ley, y en su elaboración participarán:
+Las declaratorias para la creación de las áreas naturales protegidas a que se refiere el presente Título, se expedirán atendiendo a lo que establece la Constitución del Estado, la presente Ley y demás disposiciones aplicables. Previamente a la expedición del decreto que contenga la declaratoria del área natural correspondiente, la Secretaria deberá solicitar la opinión de:
 
-I.- Los gobiernos municipales a cuyas circunscripciones territoriales pertenezca el área natural de que se trate;
+I.- Los gobiernos municipales en cuyas circunscripciones territoriales se localice el área natural de que se trate; y
 
-II.- Las dependencias y entidades de la administración pública estatal que conforme a sus facultades, tengan injerencia en esta materia;
+II.- Las dependencias de la Administración Pública Estatal que deban intervenir, de conformidad con sus atribuciones.
 
-III.- Las personas físicas y morales de derecho privado interesadas, así como las comunidades asentadas en el área natural de que se trate; y
+III.- (DEROGADA, P.O. 18 DE ABRIL DE 2008)
 
-IV.- Las universidades, centros de investigación, instituciones y organismos académicos de la entidad interesadas.
+IV.- (DEROGADA, P.O. 18 DE ABRIL DE 2008)
+
+La Secretaría o los Ayuntamientos, para la motivación del decreto que contenga la declaratoria del área natural correspondiente, deberá realizar los estudios técnicos justificativos, en los términos del presente Capítulo, con el apoyo y asesoría necesarios de instituciones u organismos especializados en la materia, los cuales, una vez concluidos, se pondrán a disposición del público, interesados, propietarios y legítimos posesionarios de predios ubicados dentro del área natural protegida definida, para su consulta, por un plazo de veinte días naturales en la oficina de la Presidencia Municipal, donde se localice el área que se pretende establecer y en las oficinas de la Secretaría, de conformidad con lo que señala la presente Ley y la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro.
+
+Para efectos del párrafo anterior, la Secretaría o los Ayuntamientos, en su caso, recibirán las opiniones correspondientes y podrán llevar a cabo reuniones de consulta.
+
+La Secretaría o los Ayuntamientos, tomando en consideración los fines del área natural protegida proyectada, lo establecido en la presente Ley y demás disposiciones aplicables, determinarán la procedencia o improcedencia de las opiniones derivadas de la consulta, siendo tomadas en cuenta y agregadas al informe técnico justificativo las que resulten procedentes.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -1493,11 +1567,13 @@ A su vez, el Ejecutivo podrá solicitar a la Federación el establecimiento o mo
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 102.
+###### ARTICULO 102.
 
 Las declaratorias para el establecimiento, conservación, administración, desarrollo y vigilancia de las áreas naturales protegidas de competencia estatal o municipal contendrán, sin perjuicio de lo dispuesto por otras leyes, los siguientes elementos:
 
-I.- La delimitación precisa del área, señalando la superficie, ubicación, deslinde, y en su caso, la zonificación correspondiente;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+I.- La delimitación del área, señalando la superficie, ubicación y, en su caso, la zonificación correspondiente, de acuerdo a la información proporcionada por las autoridades competentes en la materia;
 
 II.- Las modalidades a que se sujetará dentro del área, el uso o aprovechamiento de los recursos naturales en general o específicamente de aquellos sujetos a protección;
 
@@ -1507,7 +1583,7 @@ IV.- La causa de utilidad pública que en su caso amerite la expropiación de te
 
 V.- La compatibilidad del área natural protegida con el ordenamiento ecológico del territorio;
 
-VI.- Las condiciones para establecer limitaciones de dominio, y las concertaciones y acuerdos que se celebren con los propietarios de predios para asegurar el cumplimiento de los objetivos del área natural protegida;
+VI.- (DEROGADA, P.O. 18 DE ABRIL DE 2008)
 
 VII.- Los lineamientos generales para el establecimiento de órganos colegiados representativos, la creación y operación de fondos o fideicomisos, y la elaboración y ejecución del programa de manejo del área;
 
@@ -1515,11 +1591,15 @@ VIII.- Los criterios de preservación, restauración y aprovechamiento sustentab
 
 IX.- Las directrices a que habrán de sujetarse la administración y vigilancia, y la elaboración de las reglas administrativas para la ejecución de las actividades dentro del área.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
-###### ARTÍCULO 103.
+###### ARTICULO 103.
 
-Las declaratorias deberán publicarse en el periódico oficial del Gobierno del Estado o en la Gaceta Municipal que corresponda, según el caso, notificándose previamente a los propietarios o poseedores de los predios afectados, en forma personal cuando se conocieren sus domicilios, o en defecto de lo anterior, mediante segunda publicación que tendrá efectos de notificación. Las declaratorias se inscribirán en el o los registros públicos de la propiedad que correspondan.
+Las declaratorias se notificarán mediante cédula que se fijará en los estrados de las presidencias municipales que correspondan, así como a través de publicaciones en uno de los periódicos de mayor circulación en el Estado, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en el Portal Electrónico de Transparencia del Gobierno del Estado de Querétaro.
+
+Realizadas las notificaciones a que hace referencia el párrafo anterior, los interesados, los propietarios y legítimos posesiónarios de predios ubicados dentro del área natural protegida, deberán presentarse dentro de los sesenta días naturales siguientes a manifestar lo que a sus intereses convenga, pudiendo ofrecer todos los elementos de prueba que justifiquen su intención, siempre y cuando no sean contrarias a la moral y a las buenas costumbres; si dentro de este plazo no se presentan en los términos antes descritos, se les tendrá por conformes de la declaratoria.
+
+Las declaratorias se inscribirán en el Registro Público de la Propiedad.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -1555,11 +1635,15 @@ II.- La Secretaría, en coordinación con las dependencias y entidades estatales
 
 III.- La Secretaría, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración o aprovechamiento de recursos ocasione o pueda ocasionar cualquier desequilibrio ecológico.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
-###### ARTÍCULO 108.
+###### ARTICULO 108.
 
-La Secretaría o los Ayuntamientos, en su caso, y conforme al plazo que al efecto establezca la declaratoria respectiva, formularán y expedirán el programa de manejo del área natural protegida, dando participación a los habitantes, propietarios o poseedores de los predios en ella comprendidos, a los municipios implicados, así como a las dependencias que hubieren propuesto su establecimiento, y las que por sus facultades, deban tener intervención.
+La Secretaría o los Ayuntamientos, conforme al plazo que al efecto establezca la declaratoria respectiva, expedirá el programa de manejo del área natural protegida, dando participación en su elaboración a los municipios implicados, así como a las dependencias que hubieren propuesto su establecimiento y las que por sus facultades, deban tener intervención.
+
+De igual forma, a efecto de que participen en la emisión del programa de manejo, se notificará a habitantes, propietarios y poseedores de los predios que conforman el área respectiva, mediante cédula que se fijará en los estrados de las presidencia (sic) municipales que correspondan, así como a través de publicaciones en uno de los periódicos de mayor circulación en el Estado, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en el Portal Electrónico de Transparencia del Gobierno del Estado de Querétaro.
+
+Realizadas las notificaciones a que hace referencia el párrafo anterior, los interesados, contarán con un plazo de treinta días naturales para manifestar lo que a sus intereses convenga, pudiendo ofrecer aquellos los elementos de prueba que justifiquen su intención; si dentro del plazo señalado no se manifestaren, se les tendrá por conformes con el programa de manejo del área natural protegida que corresponda.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -2826,6 +2910,16 @@ P.O. 16 DE JUNIO DE 2006.
 ###### ARTÍCULO PRIMERO.
 
 La presente Ley iniciará su vigencia el siguiente día de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 18 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 ###### ARTÍCULO SEGUNDO.
 
