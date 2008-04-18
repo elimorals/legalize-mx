@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2007-12-13"
+last_updated: "2008-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ABRIL DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1761,29 +1761,35 @@ X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y
 
 XI. Proporcionar la información o cooperación técnico-jurídica que le sea requerida por las diversas áreas que integran el Consejo, así como emitir opinión respecto de las consultas que para la eficaz observancia de la normativa se le formulen;
 
-XII. Analizar y emitir opinión de todo tipo de contratos y convenios a celebrarse, cuyas propuestas formulen las áreas administrativas del Consejo;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 104 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE ABRIL DE 2008)</small>
 
-XIII. Orientar, asesorar y apoyar en gestiones que requieran los órganos jurisdiccionales, unidades administrativas y órganos auxiliares del Consejo, para la atención de trámites ante todo tipo de autoridades, instituciones, entidades y personas relacionadas con el objeto y fines del propio Consejo;
+XII. Analizar y emitir opinión o dictamen de procedencia, de todo tipo de contratos, convenios y cualesquier otro instrumento jurídico que consigne derechos u obligaciones al Consejo;
 
-XIV. Coordinar las actividades que resulten necesarias para la atención de asuntos relacionados con la adquisición de inmuebles y demás trámites colaterales, así como para proveer a su enajenación, en su caso;
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 104 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE ABRIL DE 2008)</small>
 
-XV. Asesorar en los procesos de adjudicación que celebren las unidades administrativas del Consejo para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y la contratación de obras;
+XIII. Establecer, organizar y mantener actualizado el registro de documentos jurídicos del Consejo;
 
-XVI. Emitir opinión respecto de las inconformidades que se presenten en el desarrollo de los procedimientos de adjudicación en materia de adquisiciones, arrendamientos, servicios y obra pública, y participar, en su caso, en la integración de los expedientes e informes que deban turnarse para los efectos que dispone el acuerdo general del Pleno por el que se determine el procedimiento para las contrataciones requeridas por el Consejo;
+XIV. Orientar, asesorar y apoyar en gestiones que requieran los órganos jurisdiccionales, unidades administrativas y órganos auxiliares del Consejo, para la atención de trámites ante todo tipo de autoridades, instituciones, entidades y personas relacionadas con el objeto y fines del propio Consejo;
 
-XVII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas hayan dejado de cumplir sus propuestas o las obligaciones que asumieron;
+XV. Coordinar las actividades que resulten necesarias para la atención de asuntos relacionados con la adquisición de inmuebles y demás trámites colaterales, así como para proveer a su enajenación, en su caso;
 
-XVIII. Emitir dictamen en relación con las personas interesadas en ser inscritas en los catálogos de proveedores y contratistas;
+XVI. Asesorar en los procesos de adjudicación que celebren las unidades administrativas del Consejo para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y la contratación de obras;
 
-XIX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
+XVII. Emitir opinión respecto de las inconformidades que se presenten en el desarrollo de los procedimientos de adjudicación en materia de adquisiciones, arrendamientos, servicios y obra pública, y participar, en su caso, en la integración de los expedientes e informes que deban turnarse para los efectos que dispone el acuerdo general del Pleno por el que se determine el procedimiento para las contrataciones requeridas por el Consejo;
 
-XX. Intervenir en los conflictos laborales de las unidades administrativas del Consejo, que se ventilen ante la Comisión Substanciadora Unica del Poder Judicial de la Federación;
+XVIII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas hayan dejado de cumplir sus propuestas o las obligaciones que asumieron;
 
-XXI. Formular y proponer a la Comisión de Administración, a través de la Secretaría Ejecutiva de Finanzas, su respectivo anteproyecto de presupuesto y su programa anual con apego a las políticas y lineamientos emitidos por el Consejo;
+XIX. Emitir dictamen en relación con las personas interesadas en ser inscritas en los catálogos de proveedores y contratistas;
 
-XXII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos; y
+XX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
 
-XXIII. Las demás que le atribuyan expresamente el Pleno o la Comisión de Administración del Consejo.
+XXI. Intervenir en los conflictos laborales de las unidades administrativas del Consejo, que se ventilen ante la Comisión Substanciadora Unica del Poder Judicial de la Federación;
+
+XXII. Formular y proponer a la Comisión de Administración, a través de la Secretaría Ejecutiva de Finanzas, su respectivo anteproyecto de presupuesto y su programa anual con apego a las políticas y lineamientos emitidos por el Consejo;
+
+XXIII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos; y
+
+XXIV. Las demás que le atribuyan expresamente el Pleno o la Comisión de Administración del Consejo.
 
 ###### Artículo 105.
 
@@ -3544,3 +3550,11 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación así c
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
 
 CUARTO.- Dentro del término de sesenta días siguientes a la entrada en vigor del presente, la Dirección General de Programación y Presupuesto, y la Dirección General de Tesorería, deberán emitir los manuales de organización y procedimiento, de conformidad con la normativa y lineamiento aplicable.
+
+D.O.F. 18 DE ABRIL DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
