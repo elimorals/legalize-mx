@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2007-10-18"
+last_updated: "2008-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -899,15 +899,19 @@ Las relaciones de todas las personas que laboren en la CEGAIP, se regirán por l
 
 La Comisión Estatal de Garantía de Acceso a la Información Pública, se integrará por tres comisionados numerarios, y tres supernumerarios.
 
-Los comisionados propietarios elegirán al Comisionado Presidente, cada dos años, de entre ellos mismos; el cual podrá ser reelecto por una sola ocasión.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+El Congreso del Estado, por el voto de cuando menos las dos terceras partes de sus integrantes, elegirá al Comisionado Presidente, cada dos años, de entre los comisionados propietarios; el cual podrá ser reelecto por una sola ocasión.
 
 Por cada comisionado propietario habrá un supernumerario que supla, en el orden de su nombramiento, las ausencias de los propietarios. Las faltas temporales o definitivas de los comisionados numerarios, o las excusas de los mismos calificadas de procedentes, se suplirán por los comisionados supernumerarios; en el orden de su nombramiento. Cuando la falta sea definitiva, se hará nueva designación de comisionado supernumerario, en los términos de la Constitución Política del Estado y la presente Ley.
 
 Los comisionados propietarios, y supernumerarios, rendirán la protesta de ley ante el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 88.
 
-La elección de los comisionados será organizada y realizada por el Congreso del Estado, el cual publicará por lo menos noventa días hábiles antes de la elección, una convocatoria abierta a toda la ciudadanía, para recibir solicitudes y propuestas ciudadanas. La propia Legislatura determinará las bases bajo las cuales se realizará la elección, siempre siguiendo el principio de acceso al cargo por oposición.
+La elección de los comisionados será organizada por el Congreso del Estado, el cual publicará por lo menos treinta días hábiles antes de la elección, una convocatoria abierta a toda la ciudadanía, para recibir solicitudes y propuestas ciudadanas. La propia Legislatura determinará las bases bajo las cuales se realizará la elección, siempre siguiendo el principio de acceso al cargo por oposición.
 
 ###### ARTICULO 89.
 
@@ -1075,13 +1079,17 @@ VI. Comercialice con datos personales que obren en los archivos a su alcance, se
 
 VII. Teniendo a su cargo la difusión de la información pública de oficio, no la difundiere, será sancionado con multa de cinco a quince días del salario que perciba. Si la conducta se repite será aumentada proporcionalmente hasta en un cien por ciento en cada ocasión, a juicio de la CEGAIP.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 110.
 
-Tratándose de entidades públicas, el servidor público que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 108 de esta Ley, además de la sanción correspondiente por cada violación, será sancionado con destitución de su cargo, e inhabilitación para el ejercicio de otros puestos de servicio público, hasta por quince años, previo procedimiento que promueva la CEGAIP, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, ante la entidad pública competente.
+Tratándose de entidades públicas, el servidor público que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 109 de esta Ley, además de la sanción correspondiente por cada violación, será sancionado con destitución de su cargo, e inhabilitación para el ejercicio de otros puestos de servicio público, hasta por quince años, previo procedimiento que promueva la CEGAIP, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, ante la entidad pública competente.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 111.
 
-Las multas que imponga la CEGAIP en los términos del artículo 108 de esta Ley, tendrán el carácter de créditos fiscales, y las remitirá a la Auditoría Superior del Estado, para que las haga efectivas conforme a las disposiciones legales aplicables; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos responsables.
+Las multas que imponga la CEGAIP, en los términos del artículo 109 de esta Ley, tendrán el carácter de créditos fiscales, y las remitirá a la Auditoría Superior del Estado, para que las haga efectivas conforme a las disposiciones legales aplicables; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos responsables.
 
 ###### ARTICULO 112.
 
@@ -1091,9 +1099,11 @@ Cuando se impongan multas a los responsables de los partidos políticos, de acue
 
 Las responsabilidades que se generen por el incumplimiento de las obligaciones a que se refiere esta Ley, son independientes de las que procedan en otros órdenes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 114.
 
-Para hacer cumplir sus determinaciones, y sin menoscabo de las sanciones establecidas en los artículos 108 y 109 de esta Ley, la CEGAIP determinará y aplicará, por su orden, las siguientes medidas de apremio:
+Para hacer cumplir sus determinaciones, y sin menoscabo de las sanciones establecidas en los artículos 109 y 110 de esta Ley, la CEGAIP determinará y aplicará, por su orden, las siguientes medidas de apremio:
 
 I. Amonestación privada;
 
@@ -1187,11 +1197,17 @@ OCTAVO. Los titulares de las entidades públicas deberán crear las unidades de 
 
 NOVENO. Las entidades públicas que no cuenten con facultades para certificar documentación, deberán modificar sus reglamentos internos, en un plazo de cuatro meses a partir de la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
 
-DECIMO. La información pública de oficio, a que se refiere los artículos 17, 18, 19, 20, 21, 22, 23 y 24 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento veinte días naturales siguientes a la entrada en vigor de esta Ley. Las entidades públicas obligadas deberán contar con sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
-DECIMO PRIMERO. Todos los entes obligados publicarán en un plazo no mayor de dieciocho meses de la entrada en vigor de esta Ley, el índice de la información que posean; debiendo remitir una copia a la CEGAIP.
+DÉCIMO. La información pública de oficio a que se refiere los artículos 18, 19, 20, 21, 22, 23, 24 y 25 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento ochenta días naturales siguientes a la publicación de las normas, lineamientos y criterios técnicos que expida la CEGAIP. Las entidades públicas obligadas deberán contar con los sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
 
-DECIMO SEGUNDO. Los entes obligados deberán en un periodo no mayor de dieciocho meses, contados a partir de la entrada en vigor de esta Ley, completar la organización y funcionamiento de sus archivos administrativos, bajo los criterios que establezca el Sistema Estatal de Documentación y Archivos.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+DÉCIMO PRIMERO. Todos los entes obligados publicarán en un plazo no mayor de veinticuatro meses posteriores a la publicación de las normas, lineamientos y criterios técnicos que en la materia expida la CEGAIP, debiendo remitir una copia ésta.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+DÉCIMO SEGUNDO. Los entes obligados deberán completar la organización y funcionamiento de sus archivos administrativos, bajo los lineamientos y criterios técnicos que expida el Sistema Estatal de Documentación y Archivos, dentro de un plazo no mayor de veinticuatro meses, contados a partir de la publicación de dichos lineamientos y criterios.
 
 DECIMO TERCERO. Se derogan todas aquellas disposiciones en leyes, reglamentos u ordenamientos legales, de igual, o menor jerarquía a esta Ley, que se le opongan.
 
@@ -1202,3 +1218,29 @@ Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obe
 D A D O en el Salón de Sesiones del Honorable Congreso del Estado, el once de octubre de dos mil siete.
 
 Diputado Presidente: Juan Pablo Escobar Martínez, Diputada Primera Secretaria: Martha Lilia García Galarza, Diputado Segundo Secretario: Roberto Cervantes Bajaras, (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ABRIL DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se reforma (sic) los artículos transitorios: Décimo; Décimo Primero; y Décimo Segundo del Decreto Legislativo No. 234 publicado en el Periódico Oficial del Estado, el 18 de octubre de 2007, para quedar como sigue:
+
+ARTICULOS TRANSITORIOS DECRETO LEGISLATIVO No. 234
+
+PRIMERO a NOVENO .
+
+DÉCIMO. La información pública de oficio a que se refiere los artículos 18, 19, 20, 21, 22, 23, 24 y 25 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento ochenta días naturales siguientes a la publicación de las normas, lineamientos y criterios técnicos que expida la CEGAIP. Las entidades públicas obligadas deberán contar con sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. Todos los entes obligados publicarán en un plazo no mayor de veinticuatro meses posteriores a la publicación de las normas, lineamientos y criterios técnicos que en la materia expida la CEGAIP, debiendo remitir una copia a ésta.
+
+DÉCIMO SEGUNDO. Los entes obligados deberán completar la organización y funcionamiento de sus archivos administrativos, bajo los lineamientos y criterios técnicos que expida el Sistema Estatal de Documentación y Archivos, dentro de un plazo no mayor de veinticuatro meses, contados a partir de la publicación de dichos lineamientos y criterios.
+
+DÉCIMO TERCERO a DÉCIMO CUARTO...
+
+TERCERO. El Congreso del Estado contará con un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para elegir al Comisionado Presidente de la CEGAIP. Hasta en tanto se realice la elección, fungirá como presidente el Comisionado que venía desempeñando el cargo hasta la entrada en vigor del presente decreto.
+
+CUARTO. Dentro de los tres meses siguientes a partir de la entrada en vigor de este Decreto, la CEGAIP, y el Sistema Estatal de Documentación y Archivos, expedirán las normas, lineamientos y criterios técnicos que les compete en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 18 de octubre de 2007.
+
+QUINTO. Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
