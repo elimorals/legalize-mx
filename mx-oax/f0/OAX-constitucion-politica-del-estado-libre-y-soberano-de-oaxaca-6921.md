@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2007-11-10"
+last_updated: "2008-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -555,7 +555,9 @@ Las elecciones son actos de interés público. Su organización y desarrollo est
 
 I.- Las elecciones de Diputados Locales, Gobernador del Estado y Concejales de los Ayuntamientos, según cada caso, serán concurrentes con las elecciones federales;
 
-II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+
+II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos; establecerá los mecanismos para permitir la plena y total participación de las mujeres en dichos procesos electorales y así, garantizar su derecho a votar y ser votadas en condiciones de igualdad frente a los varonos (sic) y sancionará su inobservancia;
 
 III.- La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que deban imponerse;
 
@@ -745,7 +747,7 @@ El Congreso del Estado estará integrado por 25 diputados electos según el prin
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
+I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados con mayoría relativa en por lo menos doce distritos uninominales.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -757,7 +759,7 @@ III.- El Partido que cumpla con los supuestos señalados en las fracciones I y I
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+IV.- La ley determinará la fórmula electoral y los procedimientos que observarán en dicha asignación en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -879,9 +881,11 @@ Esta sesión no tendrá más objeto que celebrar la apertura del período de ses
 
 El primer período de sesiones se destinará de preferencia a la discusión y resolución de los Presupuestos de Ingresos y Egresos del Estado y Presupuestos de Ingresos de los Municipios.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 45.
 
-El segundo período de sesiones se destinará de preferencia a la revisión y calificación de las cuentas de inversión de las rentas del Estado y de los Municipios, relativas al año anterior.
+El segundo período de sesiones se destinará de preferencia a la revisión y fiscalización de la Cuenta Pública del Estado y de los Municipios, relativas al año anterior.
 
 ###### ARTICULO 46.
 
@@ -1079,15 +1083,15 @@ XXI. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e im
 
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
-XXI Bis.- Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de contratos para prestación de servicios a largo plazo, que tengan por objeto crear infraestructura pública, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos;
+XXI Bis. Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de contratos para prestación de servicios a largo plazo, que tengan por objeto crear infraestructura pública, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXII. Examinar, fiscalizar y calificar cada año, las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+XXII. Revisar y fiscalizar cada año por conducto de la Auditoría Superior del Estado, la Cuenta Pública del Estado y de los Municipios, Organismos Públicos Autónomos, así como cualquier persona física o moral que administre recursos públicos;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXIII. Revisar, fiscalizar y calificar cada año, las cuentas de inversión de las rentas de los Municipios del Estado y exigir, en su caso las responsabilidades consiguientes;
+XXIII. Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestión, el desempeño en las acciones y funciones de la Auditoría Superior del Estado, en términos de la ley respectiva;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1137,9 +1141,9 @@ XXXIV. Ratificar los nombramientos del Secretario General de Gobierno y Subsecre
 
 XXXV. Llamar a los Diputados suplentes conforme a las prevenciones relativas de esta Constitución;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-XXXVI. Nombrar y remover al Contador Mayor de Hacienda, cuyo nombramiento hará saber por medio de un decreto;
+XXXVI. Elegir y remover al Titular de la Auditoría Superior del Estado y a los Sub-Auditores;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1225,9 +1229,9 @@ LVI. Elegir la Diputación Permanente;
 
 LVII. Expedir su Ley Orgánica y el reglamento interior;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-LVIII. Dictar la Ley Orgánica de la Contaduría Mayor de Hacienda y su reglamento;
+LVIII. Expedir la Ley de Fiscalización Superior del Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1299,7 +1303,7 @@ I. Acordar por propia iniciativa o a petición del ejecutivo, la convocación de
 
 II. Ampliar por una sola vez el número de asuntos contenidos en la convocatoria, a petición de quien haya solicitado el período extraordinario de sesiones.
 
-III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dada la debida publicidad.
+III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dada (sic) la debida publicidad.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -1317,19 +1321,49 @@ VI. Resolver todas las renuncias que por causa de urgencia presenten los funcion
 
 VII. Nombrar provisionalmente a los sustitutos de los Servidores Públicos cuyas renuncias hubiere aceptado.
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
-
-VIII. Nombrar provisionalmente, con las limitaciones que la establezcan las leyes, a los Servidores Públicos de su Secretaría y a los de la Contaduría Mayor de Hacienda, en caso de falta absoluta de ellos.
+VIII. (DEROGADA, P.O. 18 DE ABRIL DE 2008)
 
 IX. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio.
 
 X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de que sigan tramitándose en el período ordinario siguiente.
 
-#### SECCION PRIMERA. Del Gobernador del Estado
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE ABRIL DE 2008)</small>
+
+#### SECCION SEXTA. De la Auditoría Superior del Estado de Oaxaca
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+
+ARTICULO 65 BIS. La Auditoría Superior del Estado de Oaxaca es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales.
+
+En el desempeño de sus funciones, contará con plena autonomía técnica y de gestión para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+
+El presupuesto requerido para el funcionamiento de la Auditoría Superior será determinado por el Congreso del Estado.
+
+La revisión de la cuenta pública tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto aprobado, así como verificar el cumplimiento de los objetivos contenidos en los planes y programas. Los procedimientos para llevar a cabo su cometido estarán determinados por la ley.
+
+La Auditoría Superior del Estado tendrá las siguientes atribuciones:
+
+I. Revisar y fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia, la administración y la aplicación de fondos y recursos públicos de los Poderes del Estado y Municipios, entes públicos estatales y municipales que ejerzan recursos públicos, organismos públicos autónomos y particulares que manejen recursos públicos; así como el cumplimiento de los objetivos contenidos en sus programas en la forma y términos que disponga la ley.
+
+Sin perjuicio de lo anterior, en situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe.
+
+Si estos requerimientos no fueran atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
+
+II. Fiscalizar los recursos provenientes de las aportaciones que en términos de la Constitución Política de los Estados Unidos Mexicanos y de los Convenios de Coordinación Fiscal, administren y ejerzan los entes públicos fiscalizables mencionados en la fracción anterior, conforme a lo establecido en la ley;
+
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
+
+IV. Determinar los daños y perjuicios que afecten a las Haciendas Públicas Estatales o Municipales al patrimonio de los entes públicos estatales y municipales, a fin de fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes; así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución y presentar las denuncias y querellas necesarias; y (sic)
+
+V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública del Estado, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale.
+
+Las dependencias y entidades de los Poderes del Estado, los Ayuntamientos, los órganos públicos autónomos y los particulares que manejen recursos públicos, proporcionarán los informes y documentación que les requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
+
+El titular de la Auditoria Superior del Estado será electo por el Congreso, con el voto de las dos terceras partes de sus miembros presentes. La ley determinará los requisitos y el procedimiento para su elección. Durará en su encargo siete años pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución. En los mismos términos serán electos dos Sub-Auditores cuyas funciones serán determinadas por la ley.
 
 ### CAPITULO III. Del Poder Ejecutivo
 
-#### SECCION SEGUNDA. De las Facultades, Obligaciones y Restricciones del Gobernador
+#### SECCION PRIMERA. Del Gobernador del Estado
 
 ###### ARTICULO 66.
 
@@ -1455,9 +1489,7 @@ El cargo de Gobernador del Estado solamente es renunciable por causa grave calif
 
 El ciudadano electo para suplir las faltas absolutas de Gobernador Constitucional, prestará la protesta de ley ante la Legislatura o ante la Diputación Permanente.
 
-#### SECCION TERCERA. Del Despacho del Ejecutivo
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+#### SECCION SEGUNDA. De las Facultades, Obligaciones y Restricciones del Gobernador
 
 ###### ARTICULO 79.
 
@@ -1567,13 +1599,13 @@ III. (DEROGADA, P.O. 9 DE JULIO DE 1994)
 
 IV. Presentar a la Legislatura dentro de los primeros cinco días del mes de diciembre de cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos Generales del Estado, que deberán regir en el año inmediato siguiente;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
-V.- Presentar a la Legislatura en los primeros diez días del mes de marzo de cada año, la Cuenta de Inversión de las rentas generales del Estado, correspondiente al año inmediato anterior;
+V. Presentar a la Legislatura a más tardar el 30 de abril de cada año, la Cuenta Pública del Estado, correspondiente al año inmediato anterior;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-VI.- Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales, sin perjuicio de remitir a la propia Legislatura las iniciativas que presenten los Ayuntamientos para que se decreten las tasas, cuotas y tarifas de los impuestos, derechos y contribuciones de mejoras a sus respectivos Municipios;
+VI. Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales, sin perjuicio de remitir a la propia Legislatura las iniciativas que presenten los Ayuntamientos para que se decreten las tasas, cuotas y tarifas de los impuestos, derechos y contribuciones de mejoras a sus respectivos Municipios;
 
 VII. Presentar a la Legislatura, al terminar su período constitucional, una memoria sobre el estado que guarden los asuntos públicos, expresando cuáles sean las deficiencias que note en la administración y cuáles las medidas que en su concepto deben aplicarse para subsanarlas;
 
@@ -1697,9 +1729,9 @@ XIII.- Realizar cualquier tipo de campaña publicitaria de programas sociales, d
 
 Se exceptúan de lo dispuesto en las fracciones XII y XIII, la comunicación de medidas urgentes de Estado o de acciones relacionadas con protección civil, programas de salud por emergencias, servicios y atención a la comunidad por causas graves o fortuitas.
 
-#### SECCION CUARTA. Del Ministerio Público
+#### SECCION TERCERA. Del Despacho del Ejecutivo
 
-(REUBICADO [N. DE E. ANTES ARTICULO 133], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 82.
 
@@ -1803,9 +1835,9 @@ El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sec
 
 (REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
-#### SECCION PRIMERA. Del Ejercicio del Poder Judicial
+#### SECCION CUARTA. Del Ministerio Público
 
-(REUBICADO [N. DE E. ANTES ARTICULO 120], P.O. 8 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTICULO 133], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 93.
 
@@ -1859,17 +1891,17 @@ La ley reglamentará el ejercicio de estas funciones y señalará las que corres
 
 Las funciones de Procurador General y las de Agentes del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo.
 
-#### SECCION SEGUNDA. Del Tribunal Superior de Justicia
+#### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
-(REUBICADO [N. DE E. ANTES ARTICULO 121], P.O. 8 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTICULO 120], P.O. 8 DE DICIEMBRE DE 2000)
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
 (REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
-#### SECCION TERCERA. De los Jueces de Primera Instancia y de los Jurados
+#### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 8 DE DICIEMBRE DE 2000)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 121], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 99.
 
@@ -1877,9 +1909,9 @@ El Poder Judicial, se ejerce: por el Tribunal Superior de Justicia, por los Juec
 
 (REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
-#### SECCION CUARTA. Del Ministerio Público
+#### SECCION TERCERA. De los Jueces de Primera Instancia y de los Jurados
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 100.
 
@@ -2233,11 +2265,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deban sanci
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 117.
 
-Podrán ser sujetos de juicio político los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director, el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral; y los Magistrados del Tribunal de lo Contencioso Administrativo.
+Podrán ser sujetos de juicio político los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia; los Titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director, el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral; el Auditor Superior del Estado y los Magistrados del Tribunal de lo Contencioso Administrativo.
 
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
@@ -2255,11 +2287,11 @@ Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, ap
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 118.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General, los Consejeros Electorales del Consejo General del Instituto Estatal Electoral; y los Magistrados del Tribunal de lo Contencioso Administrativo, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General, los Consejeros Electorales del Consejo General del Instituto Estatal Electoral; el Auditor Superior del Estado y los Magistrados del Tribunal de lo Contencioso Administrativo, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
@@ -3158,6 +3190,24 @@ SEGUNDO.- El Gobernador del Estado dentro del término de noventa días, contado
 TERCERO.- La Legislatura del Estado efectuará las adecuaciones legales necesarias para dar cumplimiento al presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2008.
+
+DECRETO NUM. 572, POR EL QUE SE REFORMA LA FRACCION II DEL APARTADO A DEL ARTICULO 25 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2008.
+
+DECRETO NUM. 573, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado deberá expedir la Ley a la que se refiere la fracción LVIII del artículo 59 de esta Constitución, dentro del plazo de 30 días posteriores a la publicación de este Decreto.
+
+TERCERO.- La Contaduría Mayor de Hacienda del Congreso continuará ejerciendo las atribuciones que actualmente tiene hasta en tanto empiece a funcionar la Auditoría Superior del Estado de Oaxaca.
+
+CUARTO.- Todos los recursos materiales y patrimoniales de la Contaduría Mayor de Hacienda del Congreso, pasarán a formar parte de la Auditoría Superior del Estado de Oaxaca.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
