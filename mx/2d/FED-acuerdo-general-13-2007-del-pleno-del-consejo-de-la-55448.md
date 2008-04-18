@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2007-del-pleno-del-consejo-de-la-55448"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2007-11-30"
+last_updated: "2008-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-28"
 
 ACUERDO GENERAL 13/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ABRIL DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -157,7 +157,9 @@ a) Fecha y hora de presentación;
 
 b) Número de registro consecutivo que corresponda;
 
-c) Número del folio del comprobante o contraseña que se otorga en el supuesto del artículo 22 de este Acuerdo;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+
+c) Número del folio del comprobante o contraseña que se otorga en el supuesto del artículo 7 de este Acuerdo;
 
 d) Nombre del inculpado, actor, quejoso, recurrente o promovente;
 
@@ -185,23 +187,21 @@ o) El asunto o asuntos con el cual el sistema de turno relaciona.
 
 Cuando por algún motivo se interrumpa el sistema computarizado, el registro y turno de los asuntos se realizará de manera manual, como se establece en el artículo siguiente, entregándose una boleta de turno provisional con la firma del jefe de la oficina de correspondencia común que se canjeará por la que emita el sistema una vez que se restablezca.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 9.
 
 Las oficinas de correspondencia común turnarán los asuntos conforme a lo siguiente:
 
 Sistema aleatorio.
 
-Los asuntos que se presenten por primera vez, se turnarán en forma aleatoria, mediante el sistema computarizado que determine la Dirección General de Estadística y Planeación Judicial, previa aprobación de la Comisión de Creación de Nuevos Organos, de tal manera que se logre una distribución equilibrada de las cargas de trabajo, entre los órganos jurisdiccionales federales;
+Los asuntos que se presenten por primera vez, se turnarán en forma aleatoria, mediante el sistema computarizado que determine la Dirección General de Estadística y Planeación Judicial, previa aprobación de la Comisión de Creación de Nuevos Organos, de tal manera que se logre una distribución equilibrada de las cargas de trabajo, entre los órganos jurisdiccionales federales; y
 
-Sistema de asuntos relacionados.
-
-Los asuntos que se presenten por primera vez que tengan relación con otro presentado con anterioridad, se turnarán por medio del sistema computarizado al órgano jurisdiccional que haya conocido o esté conociendo del anterior, de acuerdo con los criterios de relación que dicte la Comisión de Creación de Nuevos Organos a propuesta de la Dirección General de Estadística y Planeación Judicial, contenidos en el sistema computarizado de turno; y
+> <small>(DEROGADO TERCER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
 
 Sistema secuencial.
 
 Cuando por causa de fuerza mayor no pueda utilizarse el sistema computarizado, los jefes de las oficinas de correspondencia común turnarán de manera provisional a través del sistema de turno manual en forma secuencial, en riguroso orden de presentación de los asuntos, a partir de la última distribución automática, informando de inmediato a la Dirección General de Estadística y Planeación Judicial.
-
-A través del sistema de turno manual, también se podrán relacionar los recursos de revisión, siempre y cuando se establezca que existe dicha relación con base en la manifestación que realice el juez de Distrito remitente en términos del párrafo segundo del artículo 17.
 
 Titular de la oficina de correspondencia común.
 
@@ -269,25 +269,21 @@ Registro y turno de asuntos relacionados.
 
 ###### ARTICULO 17.
 
-Cuando ante las oficinas de correspondencia común se presente algún asunto que tenga relación con otro, el sistema computarizado lo turnará al órgano jurisdiccional correspondiente, de acuerdo con las disposiciones que emita la Comisión de Creación de Nuevos Organos con la opinión de la Dirección General de Estadística y Planeación Judicial.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)
 
-Tratándose de los recursos previstos en los artículos 83 y 95 de la Ley de Amparo, los jueces de Distrito, en el acuerdo u oficio de remisión correspondiente, deberán hacer constar si con anterioridad y dentro del asunto de que se trate, algún tribunal ya tuvo conocimiento.
-
-A fin de equilibrar las cargas de trabajo, en todos los casos el sistema computarizado de turno deberá compensar el reparto de asuntos, atendiendo a que al final de cada año, se refleje la diferencia máxima establecida para los órganos jurisdiccionales a que se refiere el artículo 28 del presente acuerdo, iniciando el turno con el año estadístico.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 18.
 
-Si el sistema computarizado de turno remite un asunto a un órgano jurisdiccional en forma aleatoria, o de acuerdo con las reglas de relación de asuntos, y al recibirlo éste llega a la convicción de que no se trata de un asunto relacionado, no podrá enviarlo al órgano que estime debe conocer de dicho asunto, ni devolverlo a la oficina de correspondencia común para que ésta lo returne, sino continuar con el trámite del mismo y resolverlo.
-
-> <small>(F. DE E., D.O.F. 21 DE JUNIO DE 2007)</small>
-
-Cuando un juzgado de distrito devuelva una consignación por omisiones, y una vez subsanadas se vuelva a presentar, la oficina de correspondencia común deberá remitirla al mismo órgano jurisdiccional.
+Cuando un juzgado de Distrito devuelva una consignación por omisiones, y una vez subsanadas se vuelva a presentar, la oficina de correspondencia común deberá remitirla al mismo órgano jurisdiccional.
 
 Exclusión de turno del órgano jurisdiccional señalado como autoridad responsable.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 19.
 
-La oficina de correspondencia común mediante el programa computarizado, excluirá de turno al tribunal unitario de Circuito o juzgado de Distrito que esté señalado como autoridad responsable y en ese caso, turnará el asunto a otro órgano jurisdiccional, sin perjuicio de llevar a cabo la compensación correspondiente en términos del último párrafo del artículo 17.
+La oficina de correspondencia común mediante el programa computarizado, excluirá de turno al tribunal unitario de Circuito o juzgado de Distrito que esté señalado como autoridad responsable y en ese caso, turnará el asunto a otro órgano jurisdiccional, sin perjuicio de llevar a cabo la compensación correspondiente en términos del segundo párrafo del artículo 9.
 
 Registro y turno de asuntos en el caso de fallas en el sistema computarizado.
 
@@ -337,9 +333,11 @@ Los oficios y promociones que se dirijan a los juzgados de Distrito de procesos 
 
 Informe de asuntos recibidos.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 25.
 
-Las oficinas de correspondencia común rendirán dentro de los primeros cinco días hábiles de cada mes, un informe a la Dirección General de Estadística y Planeación Judicial del Consejo de la Judicatura Federal, sobre el ingreso de asuntos recibidos en el mes inmediato anterior, del tipo de juicio, recurso o procedimiento, la materia y el turno realizado a cada uno de los órganos jurisdiccionales federales a los que brindan servicio, así como respecto de los movimientos correctivos realizados, precisándose los asuntos relacionados.
+Las oficinas de correspondencia común rendirán dentro de los primeros cinco días hábiles de cada mes, un informe a la Dirección General de Estadística y Planeación Judicial del Consejo de la Judicatura Federal, sobre el ingreso de asuntos recibidos en el mes inmediato anterior, del tipo de juicio, recurso o procedimiento, la materia y el turno realizado a cada uno de los órganos jurisdiccionales federales a los que brindan servicio, así como respecto de los movimientos correctivos realizados.
 
 Información a los interesados.
 
@@ -401,13 +399,13 @@ SEXTO.- Los conflictos de turno que se encuentren en trámite ante la Comisión 
 
 Asimismo, en el caso de que a la entrada en vigor de este acuerdo el titular de un órgano jurisdiccional haya declinado el turno y se llegue a originar el conflicto, el mismo será resuelto en los términos del párrafo anterior.
 
-SEPTIMO.- Las oficinas de correspondencia común continuarán aplicando los criterios de relación de asuntos que tienen implementados en sus respectivos sistemas de cómputo, a los cuales, en su momento se incorporarán las nuevas disposiciones indicadas en el primer párrafo del artículo 17.
+SEPTIMO.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)
 
 OCTAVO.- Las auditorías a las oficinas de correspondencia común llevadas a cabo por la Contraloría del Poder Judicial de la Federación y que se encuentren en trámite a la entrada en vigor del presente acuerdo, deberán ser concluidas por parte de ese Organo Interno de Control.
 
 NOVENO.- El personal adscrito a la Contraloría del Poder Judicial de la Federación que a la entrada en vigor de este acuerdo esté asignado para realizar auditorías a las oficinas de correspondencia común, deberá ser transferido a la Dirección General de Estadística y Planeación Judicial, una vez que se concluyan aquéllas que se encuentren en trámite.
 
-DECIMO.- La ejecución del presente Acuerdo General no significará impacto económico alguno en el presupuesto del Consejo de la Judicatura Federal, toda vez que su implementación se deberá realizar con los recursos que tienen asignados las áreas correspondientes.
+DECIMO.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 13/2007, del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento, Supervisión y Control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, fue aprobado por el Pleno del Propio Consejo, en sesión de veintiocho de marzo de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a veintisiete de abril de dos mil siete.- Conste.- Rúbrica.
 
@@ -418,3 +416,9 @@ D.O.F. 30 DE NOVIEMBRE DE 2007.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 18 DE ABRIL DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
