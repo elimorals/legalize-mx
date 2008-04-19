@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2007-11-24"
+last_updated: "2008-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -2109,9 +2109,17 @@ ART. 438.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 ART. 439.- Los incidentes surgidos en los juicios ordinarios o sumarios se tramitarán y se resolverán en la misma forma que la establecida por los Artículos 432 a 435, excepto cuando el punto cuestionado tenga señalado expresamente otro trámite o términos, los cuales serán aplicables. Las resoluciones que se pronuncien en los incidentes serán apelables en el sólo efecto devolutivo, a excepción de los que la Ley expresamente disponga que sea en ambos efectos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2008)</small>
 
 ## TITULO SEPTIMO. De los juicios sumarios y de la vía de apremio
+
+### CAPITULO II (SIC). De la rectificación administrativa de actas
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2008)</small>
+
+ART. 429 BIS (SIC).- La rectificación o modificación de un Acta del Estado civil no puede hacerse sino mediante sentencia que dicta la autoridad judicial en los términos previstos por este Código, o por resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y bajo las reglas establecidas en el Código Civil, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por este último ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO II. De los juicios por alimentos
 
@@ -2132,106 +2140,6 @@ ART. 439 G.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 ART. 439 H.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-### CAPITULO VII (SIC). De los interdictos
-
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440.- Los juicios que tengan por objeto resolver sobre el ejercicio de las acciones a que se refiere el Artículo 353 del Código Civil, de retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrezca riesgo, las medidas conducentes a precaver el daño, se tramitarán con sujeción a las reglas generales de los juicios sumarios y a las especiales siguientes:
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 A.- Los jueces deberán tramitar los juicios a que se refiere el Artículo anterior con preferencia a todos los demás sumarios, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 B.- Los interdictos no pueden acumularse al juicio de propiedad y deberán decidirse previamente.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 C.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre el derecho de la posesión.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 D.- Los interdictos no se ocuparán de las cuestiones de propiedad y de posesión definitivas.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 E.- El que ha sido vencido en el juicio de propiedad plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 F.- El vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 G.- No procede el interdicto de obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 H.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
-
-(ADICIONADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
-
-ART. 440 I.- Cuando al promover el incidente de obra nueva se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante, ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo apercibimiento de que será demolida en caso de desobediencia, a costa del propietario.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 J.- La suspensión a que se refiere el Artículo anterior podrá levantarse a solicitud del demandado, sin perjuicio de lo que se resuelva en la sentencia, si da fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 K.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 L.- Los incidentes a que se refieren los dos artículos anteriores, se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán otro recurso que el de responsabilidad.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 LL.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se impida el curso o disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 M.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba del mal olor o por causa de los materiales que se arrojen en su finca o en la calle. En los casos a que este Artículo se refiere, se procederá como determinen los reglamentes administrativos.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 N.- En el caso del Artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 Ñ.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito, dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aún al inquilino por cuenta de renta; en defecto de esto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar al dueño los gastos que se ocasionen.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 O.- Una vez resuelto sobre las peticiones a que se refieren el Artículo 440 Ñ no habrá más recurso que el de responsabilidad; contra la que las nieguen procederá el de queja.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 P.- En los interdictos la sentencia deberá precisar sus efectos para el mejor éxito de la protección posesoria.
-
-Cuando en el interdicto de obra nueva la protección eficaz se realice con sólo la suspensión de las obras, así lo determinará.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 Q.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 R.- Cuando se sentencie la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 441.- Las reglas del juicio ordinario y en especial las del capítulo VI del título sexto, se aplicarán al juicio sumario en lo que no se opongan a lo dispuesto en el presente capítulo.
-
-No puede concederse término extraordinario de prueba en los negocios a que se refiere el artículo 429. Tampoco proceden términos de gracia en ellos, a no ser en los juicios ejecutivos e hipotecarios que tengan por objeto pago de dinero.
-
-No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio sumario.
-
-Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VIII del artículo 429 son inapelables.
-
-> <small>(REFORMADA SU NUMERACION, P.O. 10 DE AGOSTO DE 1985)</small>
 
 #### SECCION I. Reglas generales
 
@@ -2819,7 +2727,103 @@ ART. 606.- Traducida la ejecutoria en la forma prevista en el artículo 329, se 
 
 ART. 607.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan sólo a examinar su autenticidad y si deba o no ejecutarse conforme a las leyes mexicanas.
 
-### CAPITULO III. Del juicio ejecutivo
+### CAPITULO VII (SIC). De los interdictos
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440.- Los juicios que tengan por objeto resolver sobre el ejercicio de las acciones a que se refiere el Artículo 353 del Código Civil, de retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrezca riesgo, las medidas conducentes a precaver el daño, se tramitarán con sujeción a las reglas generales de los juicios sumarios y a las especiales siguientes:
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 A.- Los jueces deberán tramitar los juicios a que se refiere el Artículo anterior con preferencia a todos los demás sumarios, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 B.- Los interdictos no pueden acumularse al juicio de propiedad y deberán decidirse previamente.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 C.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre el derecho de la posesión.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 D.- Los interdictos no se ocuparán de las cuestiones de propiedad y de posesión definitivas.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 E.- El que ha sido vencido en el juicio de propiedad plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 F.- El vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 G.- No procede el interdicto de obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 H.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
+
+(ADICIONADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
+
+ART. 440 I.- Cuando al promover el incidente de obra nueva se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante, ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo apercibimiento de que será demolida en caso de desobediencia, a costa del propietario.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 J.- La suspensión a que se refiere el Artículo anterior podrá levantarse a solicitud del demandado, sin perjuicio de lo que se resuelva en la sentencia, si da fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 K.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 L.- Los incidentes a que se refieren los dos artículos anteriores, se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán otro recurso que el de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 LL.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se impida el curso o disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 M.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba del mal olor o por causa de los materiales que se arrojen en su finca o en la calle. En los casos a que este Artículo se refiere, se procederá como determinen los reglamentes administrativos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 N.- En el caso del Artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 Ñ.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito, dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aún al inquilino por cuenta de renta; en defecto de esto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar al dueño los gastos que se ocasionen.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 O.- Una vez resuelto sobre las peticiones a que se refieren el Artículo 440 Ñ no habrá más recurso que el de responsabilidad; contra la que las nieguen procederá el de queja.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 P.- En los interdictos la sentencia deberá precisar sus efectos para el mejor éxito de la protección posesoria.
+
+Cuando en el interdicto de obra nueva la protección eficaz se realice con sólo la suspensión de las obras, así lo determinará.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 Q.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 R.- Cuando se sentencie la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 441.- Las reglas del juicio ordinario y en especial las del capítulo VI del título sexto, se aplicarán al juicio sumario en lo que no se opongan a lo dispuesto en el presente capítulo.
+
+No puede concederse término extraordinario de prueba en los negocios a que se refiere el artículo 429. Tampoco proceden términos de gracia en ellos, a no ser en los juicios ejecutivos e hipotecarios que tengan por objeto pago de dinero.
+
+No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio sumario.
+
+Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VIII del artículo 429 son inapelables.
 
 > <small>(REFORMADA SU NUMERACION, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -2920,6 +2924,14 @@ ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su ju
 ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
+
+### CAPITULO III. Del juicio ejecutivo
+
+> <small>(REFORMADA SU NUMERACION, P.O. 10 DE AGOSTO DE 1985)</small>
+
+## TITULO NOVENO. De los juicios de rebeldía
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO IV. Del juicio hipotecario
 
@@ -3062,10 +3074,6 @@ ART. 486.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
 ART. 487.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
 
 > <small>(REFORMADA SU NUMERACION Y DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
-
-## TITULO NOVENO. De los juicios de rebeldía
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO V. Del juicio de desocupación
 
@@ -3259,6 +3267,30 @@ TITULO DECIMOSEGUNDO
 
 De los recursos
 
+## TITULO DECIMO. De las tercerías
+
+## TITULO DECIMO (SIC). De las tercerías
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 669.- Si fueren varios los opositores reclamando el dominio, se procederá en cualquier caso que sea, a decidir incidentalmente la controversia en unión del ejecutante y del ejecutado.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 670.- La interposición de una tercería excluyente autoriza al demandante a pedir que se mejore la ejecución en otros bienes del deudor.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 671.- Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor, con los bienes no comprendidos en la misma tercería.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de estos jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
+
+TITULO DECIMOPRIMERO
+
+Divorcio por mutuo consentimiento
+
 ### CAPITULO I. De las revocaciones y apelaciones
 
 ART. 682.- Las sentencias no pueden ser revocadas por el juez que las dicta.
@@ -3380,30 +3412,6 @@ ART. 714.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2004)</small>
 
 ART. 715.- La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
-
-## TITULO DECIMO. De las tercerías
-
-## TITULO DECIMO (SIC). De las tercerías
-
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 669.- Si fueren varios los opositores reclamando el dominio, se procederá en cualquier caso que sea, a decidir incidentalmente la controversia en unión del ejecutante y del ejecutado.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 670.- La interposición de una tercería excluyente autoriza al demandante a pedir que se mejore la ejecución en otros bienes del deudor.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 671.- Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor, con los bienes no comprendidos en la misma tercería.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de estos jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
-
-TITULO DECIMOPRIMERO
-
-Divorcio por mutuo consentimiento
 
 ### CAPITULO II. De la apelación extraordinaria
 
@@ -4916,5 +4924,9 @@ P.O. 26 DE MAYO DE 2007.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 24 DE NOVIEMBRE DE 2007.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
+
+P.O. 19 DE ABRIL DE 2008.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
