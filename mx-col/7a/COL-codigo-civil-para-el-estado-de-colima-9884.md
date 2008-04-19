@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2008-01-26"
+last_updated: "2008-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1143,15 +1143,33 @@ ART. 132.- El oficial del Registro levantará el acta correspondiente, en la que
 
 ART. 133.- Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 2008)</small>
 
-### CAPITULO X (SIC). De la rectificación, nulidad, aclaración y complementación de las actas del estado civil
+### CAPITULO X (SIC). De la rectificación, nulidad, aclaración, complementación y Rectificación administrativa de las actas del Estado Civil
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2008)</small>
+
+ART. 134.- La rectificación o modificación de las actas del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervienen en acta, o algún otro acto esencial y solamente podrá ser ordenada por la autoridad judicial o resolución administrativa emitida por la Dirección General del Registro Civil, salvo el reconocimiento que voluntariamente haga de un padre respecto de su hijo. El cual se sujetará a las prescripciones de este Código.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
-ART. 134.- La rectificación o modificación de las actas del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervinieron en acta, o algún otro dato esencial y solamente podrá ser ordenada por la autoridad judicial, salvo el reconocimiento que voluntariamente haga un padre respecto de su hijo, el cual se sujetará a las prescripciones de este Código.
-
 La nulidad de las Actas del Registro Civil, sólo podrá ser decretada por la autoridad judicial cuando se compruebe que el acto registrado no pasó o se está en los casos de nulidades de matrimonios decretados conforme a este Código, por la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2008)</small>
+
+ART. 134 BIS.- El procedimiento administrativo mediante el cual, la Dirección General del Registro Civil emitirá la resolución administrativa que ordene la rectificación de un acta del estado civil, se sustentará en solicitud que tenga como finalidad la aclaración del acta que corresponda para corregir en ella errores mecanográficos, o cuando se trate de complementar o ampliar los datos contenidos en la misma, siempre que las circunstancias origen de la aclaración aparezcan del contenido del propio instrumento, y no sean modificados sus elementos esenciales.
+
+El procedimiento administrativo ante la Dirección General del Registro Civil, se sujetará a las siguientes reglas:
+
+I.- Se iniciará con la sola comparecencia del interesado de manera verbal o por escrito, ante la Dirección General del Registro Civil o, ante la Oficial del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva haciéndose constar la concurrencia del interesado;
+
+II.- En caso de que comparezca ante la Oficialía a que se refiere la fracción anterior, ésta sin más trámite, remitirá a la Dirección General del Registro Civil a la mayor brevedad posible dependiendo de la facilidad en las comunicaciones o dentro de las veinticuatro horas siguientes, la constancia de comparecencia del interesado junto con el acta cuya rectificación se solicita;
+
+III.- Recibida la solicitud, el Director General del Registro Civil resolverá lo que proceda dentro de un plazo de tres días hábiles, comunicándola de inmediato al Oficial del Registro Civil que corresponda para que realice las anotaciones marginales a que haya lugar dentro de veinticuatro horas siguientes y notifique al interesado;
+
+IV.- La resolución que se dicte podrá ser impugnada por el interesado, en los términos de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios;
+
+V.- Cualquier tercero podrá demandar en juicio ordinario, en cualquier tiempo del Oficial y el Director del Registro Civil involucrados y de quienes se hubiesen aprovechado de la aclaración o modificación del acta respectiva, la anulación de la resolución definitiva dictada en los términos del párrafo anterior. En estos casos, con la sola presentación de la demanda se suspenderán los efectos de la declaratoria administrativa y se mandará prevenir al interesado, bajo el apercibimiento de la pena que corresponda por el delito de desacato a la autoridad, que se abstenga de utilizar copias certificadas del acta respectiva donde no aparezca la anotación del juicio.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
@@ -10348,5 +10366,9 @@ P.O. 24 DE NOVIEMBRE DE 2007.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 26 DE ENERO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE ABRIL DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
