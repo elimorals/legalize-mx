@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-enajenaciones-y-11784"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2007-09-05"
+last_updated: "2008-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS, ENAJENACIONES Y SERVICIOS DEL PODER EJECUTIVO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 19 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 14 de febrero de 1998.
 
@@ -1080,3 +1082,17 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 5 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE ABRIL DE 2008.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley para Adquisiciones, Arrendamientos, Enajenaciones y Servicios del Poder Ejecutivo Estatal, de fecha 30 de diciembre de 1997, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, Número 7, segunda sección, de fecha 14 de febrero de 1998, mediante el Decreto número 236, excepto las disposiciones relativas a los procedimientos de enajenaciones, hasta en tanto se emita la legislación correspondiente.
+
+TERCERO. El Comité de Adquisiciones de Bienes y Servicios del Poder Ejecutivo, así como los Sub-Comités que actualmente se encuentren funcionando, deberán regularizar su estructura y su operación, acorde a los lineamientos de la presente Ley, dentro de los treinta días naturales posteriores a la entrada en vigor de la misma.
+
+CUARTO. Para los efectos del artículo 20 de la presente Ley, el Comité y Sub-Comités de adquisiciones continuarán aplicando los rangos vigentes para la contratación de adquisiciones, arrendamientos y servicios para el Ejercicio Fiscal 2008. En los Ejercicios Fiscales subsecuentes, se determinarán los rangos en el Presupuesto de Egresos correspondiente.
+
+QUINTO. Los procedimientos licitatorios y administrativos iniciados con anterioridad a la vigencia de esta Ley se regirán por la ley bajo la cual se contrataron.
+
+SEXTO. El Ejecutivo del Estado expedirá el Reglamento de esta Ley.
