@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2008-03-10"
+last_updated: "2008-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -1109,7 +1109,9 @@ VI.- La violación, prevista por los artículos 179, 180 y 181;
 
 VII.- El robo calificado, cuando el monto de lo robado sea igualo mayor a quinientas veces el salario mínimo, y se realice con la calificativa a que se refiere la fracción II del Artículo 206, o bien concurran dos o más de las otras calificativas previstas por este mismo artículo; así como los tipos penales que prevén los Artículos 207 y 207 bis, y cuando deba aplicarse el aumento de punibilidad señalado por el numeral 207 ter;
 
-VIII.- El abigeato, previsto por el artículo 208, fracción II, en relación al párrafo final del mismo numeral, así como los tipos penales que prevén las fracciones I, II y III del artículo 209;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2008)</small>
+
+VIII.- El abigeato, previsto por el Artículo 208, fracción II, en relación al párrafo final del mismo numeral, así como los tipos penales que prevén las fracciones I, II y III del Artículo 209 y cuando este delito, se ejecute en términos de lo previsto por el Artículo 18 segundo párrafo;
 
 IX.- La extorsión, cuando deba aplicarse la agravante de punibilidad señalada por el segundo párrafo del artículo 216;
 
@@ -1137,7 +1139,11 @@ XX.- La evasión de presos, cuando deba aplicarse la punibilidad prevista en los
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-XXI.- Los delitos cometidos por los fraccionadores en términos del Título Vigésimo Primero del Código Penal.
+XXI.- Los delitos cometidos por los fraccionadores en términos del Título Vigésimo Primero del Código Penal;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
+
+XXII.- Lo previsto en el Artículo 265-Bis del Código Penal para el Estado.
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007) (F. DE E., P.O. 3 DE MARZO DE 2008)
 
@@ -4304,3 +4310,15 @@ DECRETO NUM. 544, POR EL QUE SE ADICIONA LA FRACCION XXI AL ARTICULO 119 DEL COD
 P.O. 10 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2008.
+
+DECRETO NUM. 556, POR EL QUE SE REFORMA EL ARTICULO 119 FRACCION VIII DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2008.
+
+DECRETO NUM. 557, POR EL QUE SE ADICIONA LA FRACCION XXII AL ARTICULO 119 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
