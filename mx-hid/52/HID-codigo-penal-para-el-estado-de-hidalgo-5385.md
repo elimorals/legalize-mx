@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2008-03-10"
+last_updated: "2008-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2008.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1455,17 +1455,21 @@ Para los efectos de este Código, aborto es la muerte del producto de la concepc
 
 El aborto causado culposamente será punible.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 155.
 
-A la mujer que diere muerte al producto de su propia concepción o que consienta en que otro le haga abortar, se le impondrá de uno a tres años de prisión y multa de 10 a 40 días. Igual pena se aplicará al que haga abortar a la mujer con consentimiento de ésta.
+A la mujer que aborte, interrumpiendo su embarazo o que consienta en que otro se lo interrumpa, se le impondrá de uno a tres años de prisión y multa de 10 a 40 días. Igual pena se aplicará al que haga abortar a la mujer con consentimiento de ésta.
 
 ###### ARTICULO 156.
 
 Al que haga abortar a una mujer sin el consentimiento de ésta, se le aplicará de tres a siete años de prisión y multa de 40 a 150 días, y si mediare violencia, de cuatro a nueve años de prisión y de 50 a 200 días multa. Si el aborto punible lo causare un médico partero, enfermero o practicante de medicina, además de las penas que le correspondan conforme a los artículos anteriores, se le suspenderá de uno a tres años en el ejercicio de su profesión.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2008)</small>
+
 ###### ARTICULO 157.
 
-A la mujer que se le procure el aborto para ocultar su deshonra o por extrema pobreza se le impondrá pena de prisión de tres meses a dos años y multa de 5 a 25 días.
+A la mujer que se le procure el aborto para evitar la exclusión social o por extrema pobreza se le impondrá pena de prisión de tres meses a dos años y multa de 5 a 25 días.
 
 ###### ARTICULO 158.
 
@@ -1473,13 +1477,23 @@ El aborto no será punible:
 
 I.- Cuando sea resultado de una conducta culposa de la mujer embarazada;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2008)</small>
 
-II.- Cuando el embarazo sea resultado de una violación o de la conducta típica prevista en el Artículo 182 de este Código, siempre que el aborto se practique dentro de los setenta y cinco días contados a partir de la concepción y el hecho haya sido denunciado. En estos casos, si lo solicita la mujer, bastará la comprobación del cuerpo del delito para que el Ministerio Público o el Juez lo autorice; si aquélla fuere de condición económica precaria, los gastos correspondientes serán a cargo del Estado o
+II.- Cuando el embarazo sea resultado de hechos denunciados como posiblemente
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+constitutivos del delito de violación o de la conducta típica prevista por el Artículo 182 de este Código, siempre que el aborto se autorice y practique dentro de los noventa días a partir de la concepción, y el hecho se haya denunciado antes de tenerse conocimiento de ésta. En tales casos, deberá solicitarlo la mujer, bastará la comprobación del cuerpo del delito para que el Ministerio Público o el Juez lo autorice, si aquella fuere de condición económica precaria, los gastos correspondientes serán a cargo del Estado;
 
-III.- Cuando de no haberse provocado el aborto, la mujer hubiere corrido grave peligro en su salud.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2008)</small>
+
+III.- Cuando de no haberse provocado el aborto, la mujer hubiere corrido grave peligro en su salud; o
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
+
+IV.- Cuando a juicio de dos médicos especialistas en la materia, debidamente certificados por los Colegios, Academias Nacionales o Consejos de Medicina de la rama correspondiente, exista razón suficiente para diagnosticar que el producto de un embarazo presenta graves alteraciones genéticas o congénitas, que puedan dar como resultado daños físicos o mentales al producto de la concepción.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2008)</small>
+
+El Ministerio Público o Juez que deban autorizar el aborto en los supuestos previstos por este Artículo, procurarán que la mujer embarazada cuente con información oficial, objetiva, veraz y suficiente, a efecto de que ésta pueda tomar la decisión de manera libre, informada y responsable.
 
 ## TITULO SEGUNDO. DELITOS DE PELIGRO PARA LA VIDA O LA SALUD DE LAS PERSONAS
 
@@ -2518,6 +2532,28 @@ Se impondrá prisión de seis meses a cinco años y de 15 a 60 días multa, al q
 ###### ARTICULO 265.
 
 Las mismas penas se impondrán al que a sabiendas y con los fines a que se refiere el artículo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero expedido a favor de otro, como si hubiera sido expedido a su nombre.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2008)</small>
+
+ARTICULO 265 BIS.- Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días de salario mínimo de multa al que, sin consentimiento de quien esté facultado para ello:
+
+I.- Produzca, imprima, enajene, distribuya, altere o falsifique, aún gratuitamente, tarjetas, títulos o documentos utilizados para el pago de bienes y servicios o para disposición de efectivo;
+
+II.- Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos o documentos para el pago de bienes y servicios, a sabiendas de que son alterados o falsificados;
+
+III.- Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos, o documentos auténticos para el pago de bienes y servicios o para disposición de efectivo;
+
+IV.- Altere, copie o reproduzca, indebidamente, los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo;
+
+V.- Acceda indebidamente a los equipos electromagnéticos o sistemas de cómputo de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo; o
+
+VI.- Adquiera, utilice, posea o detente equipos electromagnéticos o electrónicos para sustraer en forma indebida la información contenida en la cinta magnética de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo.
+
+Las mismas penas se impondrán a quien utilice o revele indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios. Asimismo, se impondrán similares penas a quien posea o detente en forma indebida a través de cualquier medio o equipos electromagnéticos o electrónicos información confidencial o reservada de la institución que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
+
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este Artículo, se aplicarán las reglas del concurso.
 
 ### CAPITULO VII. DELITOS CONTRA LA IDENTIDAD TERRITORIAL DEL ESTADO
 
@@ -3740,5 +3776,17 @@ P.O. 31 DE DICIEMBRE DE 2007.
 ÚNICO.- El presente entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 10 DE MARZO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2008.
+
+DECRETO No. 557, POR EL QUE SE ADICIONA EL ARTICULO 265-BIS AL CODIGO PENAL PARA EL ESTADO DE HIDALGO.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2008.
+
+DECRETO No. 558, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 155, 157 Y 158 DEL CODIGO PENAL PARA EL ESTADO DE HIDALGO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
