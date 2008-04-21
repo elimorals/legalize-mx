@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2007-12-24"
+last_updated: "2008-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -260,9 +260,15 @@ f) Determinar las sanciones con relación a las conductas que atenten contra la 
 
 g) Designar las comisiones de cortesía que resulten pertinentes para cumplir con el ceremonial;
 
-h) Elaborar el anteproyecto de la parte relativa del Estatuto por el cual se normará el servicio de carrera parlamentaria, a efecto de que la Conferencia para la Dirección y Programación de los Trabajos Legislativos lo considere para la redacción del proyecto de dicho instrumento normativo; e
+h) Elaborar el anteproyecto de la parte relativa del Estatuto por el cual se normará el servicio de carrera parlamentaria, a efecto de que la Conferencia para la Dirección y Programación de los Trabajos Legislativos lo considere para la redacción del proyecto de dicho instrumento normativo; e (sic)
 
-i) Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acuerdos de la Cámara.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE ABRIL DE 2008)</small>
+
+i) Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Federal Electoral; y
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
+
+j) Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acuerdos de la Cámara.
 
 ###### ARTICULO 21.
 
@@ -327,6 +333,10 @@ o) Ordenar el auxilio de la fuerza pública en los casos que resulten necesarios
 p) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria.
 
 2. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de los Estados, del Distrito Federal y de los Municipios.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
+
+3. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del artículo 84 Constitucional.
 
 #### Sección Cuarta. De los Vicepresidentes y de los Secretarios
 
@@ -460,11 +470,39 @@ f) Elaborar y proponer a la Conferencia para la Dirección y Programación de lo
 
 > <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-g) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios, y
+g) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios, y (sic)
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE ABRIL DE 2008)</small>
 
-h) Las demás que le atribuyen esta ley, o los ordenamientos relativos.
+h) Proponer al Pleno la convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Federal Electoral, en los términos establecidos en el Código Federal de Instituciones y Procedimientos Electorales, la presente Ley y el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, así como los procedimientos que de ella se deriven, con el consenso de los respectivos grupos parlamentarios, e
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
+
+i) Las demás que le atribuyen esta ley o los ordenamientos relativos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
+
+ARTICULO 34 BIS.
+
+1. La convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Federal Electoral, por lo menos, deberá contener:
+
+a) El proceso de designación para el que se convoca, los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
+
+b) Las reglas y los plazos para consultar, según el caso, a la ciudadanía o a las instituciones públicas de educación superior;
+
+c) Las fechas y los plazos de cada una de las etapas del procedimiento de designación, en los términos del artículo 41 Constitucional;
+
+d) Tratándose de la designación del Contralor General, el órgano o la comisión que se encargará de la integración de los expedientes, revisión de documentos, entrevistas, procesos de evaluación y formulación del dictamen que contenga los candidatos aptos para ser votados por la Cámara. En todo caso deberá convocarse a las instituciones públicas de educación superior, para que realicen sus propuestas;
+
+e) Tratándose de la designación de los consejeros Presidente y electorales:
+
+I. El órgano o la comisión que se encargará de la recepción de documentos e integración de los expedientes, su revisión, e integración de la lista que contenga los aspirantes que cumplan los requisitos establecidos para que los grupos parlamentarios formulen sus propuestas con base en ella.
+
+II. Presentadas las propuestas, el órgano o comisión encargado de entrevistar y evaluar a los ciudadanos propuestos por los grupos parlamentarios, así como de formular el dictamen respectivo que consagre los resultados, para los efectos conducentes;
+
+f) Los criterios específicos con que se evaluará a los aspirantes.
+
+2. En el proceso de designación de los consejeros electorales del Instituto Federal Electoral, se procurará la inclusión paritaria de hombres y mujeres.
 
 ###### ARTICULO 35.
 
@@ -798,9 +836,13 @@ Los proyectos de dictamen de la Sección Instructora y los de las comisiones enc
 
 3. Para auxiliar a la Junta de Coordinación Política en el ejercicio de sus funciones administrativas, habrá un Comité de Administración. El Acuerdo de su creación será propuesto al Pleno por la Junta y deberá señalar su objeto, integración y atribuciones, así como la directiva del Comité, cuya Presidencia deberá recaer en un Diputado del mismo Grupo Parlamentario de quien presida aquélla.
 
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
+
+4. Para efectos de consulta y opinión en materia política y legislativa, se integrará el Comité de decanos que atenderá las solicitudes que le requieran la Junta de Coordinación Política y los órganos legislativos. Este Comité estará constituido por los diputados que integren la Mesa de Decanos, conservando la composición y estructura jerárquica.
+
 > <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-4. A propuesta de la Junta de Coordinación Política, el Pleno propondrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la Legislatura en que se conformaron, pudiendo desde luego ser establecidos nuevamente para cada legislatura.
+5. A propuesta de la Junta de Coordinación Política, el Pleno propondrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la Legislatura en que se conformaron, pudiendo desde luego ser establecidos nuevamente para cada legislatura.
 
 ### CAPITULO SEPTIMO. De la Organización Técnica y Administrativa
 
@@ -2083,3 +2125,17 @@ Los consejeros electorales y el consejero Presidente del Consejo General del Ins
 D.O.F. 24 DE DICIEMBRE DE 2007.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ABRIL DE 2008.
+
+DECRETO POR EL QUE SE ADICIONA UN PARRAFO AL ARTICULO 46 DE LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ABRIL DE 2008.
+
+DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Para los efectos de lo dispuesto por el Artículo Séptimo Transitorio del Decreto por el que se expide el Código Federal de Instituciones y Procedimientos Electorales, publicado en el Diario Oficial de la Federación el 14 de enero de 2008, la Cámara de Diputados emitirá la convocatoria para la elección del Contralor General del Instituto Federal Electoral dentro de los diez días siguientes a la entrada en vigor del presente Decreto.
