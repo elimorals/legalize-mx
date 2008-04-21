@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-04-14"
+last_updated: "2008-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -163,7 +163,9 @@ VI.- SEXTO CIRCUITO:
 
 1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en San Andrés Cholula.
 
-2.- Un tribunal unitario con sede en San Andrés Cholula.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 16/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ABRIL DE 2008)</small>
+
+2.- Dos tribunales unitarios con sede en San Andrés Cholula.
 
 3.- Diez juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula.
 
@@ -846,3 +848,11 @@ D.O.F. 14 DE ABRIL DE 2008.
 PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE ABRIL DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Tribunales Unitarios del Sexto Circuito, con residencia en San Andrés Cholula, Puebla.
+
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
