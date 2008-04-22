@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2004-12-18"
+last_updated: "2008-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2008.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -477,19 +477,23 @@ III. El Director General de Ingresos de la Secretaría de Finanzas,
 
 IV. El Procurador Fiscal del Estado;
 
-V. Los directores de área, subdirectores y delegados fiscales adscritos a la Dirección General de Ingresos;
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2008)</small>
 
-VI. Los recaudadores de rentas y agentes fiscales;
+V. La Auditoria Superior del Estado;
 
-VII. Los presidentes municipales;
+VI. Los directores de área, subdirectores y delegados fiscales adscritos a la Dirección General de Ingresos;
 
-VIII. Los tesoreros municipales;
+VII. Los recaudadores de rentas y agentes fiscales;
 
-IX. El Director de Catastro del Estado;
+VIII. Los presidentes municipales;
 
-X. Los Jefes de Departamento de Ejecución Fiscal o quienes ejerzan esas funciones, aunque tengan otra denominación, y
+IX. Los tesoreros municipales;
 
-XI. Los demás que señalen las leyes.
+X. El Director de Catastro del Estado;
+
+XI. Los Jefes de Departamento de Ejecución Fiscal o quienes ejerzan esas funciones, aunque tengan otra denominación, y
+
+XII. Los demás que señalen las leyes.
 
 ###### ARTICULO 48.
 
@@ -849,9 +853,17 @@ II. Las fianzas constituidas por disposición de la ley o por acuerdo de las aut
 
 III. Las sanciones pecuniarias, en favor del erario estatal o municipal, impuestas por las autoridades judiciales o administrativas;
 
-IV. Los adeudos derivados de concesiones o contratos celebrados con el Gobierno del Estado, salvo pacto expreso en contrario, y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2008)</small>
 
-V. Los cheques entregados en pago de prestaciones fiscales que no hayan sido pagados por la institución de crédito contra la cual fueron librados.
+IV. Los adeudos derivados de concesiones o contratos celebrados con el Gobierno del Estado, salvo pacto expreso en contrario;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2008)</small>
+
+V. Los cheques entregados en pago de prestaciones fiscales que no hayan sido pagados por la institución de crédito contra la cual fueron librados, y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2008)</small>
+
+VI. Las sanciones pecuniarias, resarcitorias, e indemnizaciones que imponga la Auditoria Superior del Estado.
 
 ###### ARTICULO 81.
 
@@ -1928,3 +1940,9 @@ PRIMERO. El presente Decreto entrará en vigor a partir del uno de enero del añ
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
 
 TERCERO. En caso de que se concesione alguna de las carreteras de cuota de acuerdo con la ley, se derogará la parte relativa del artículo 93 BIS de la Ley de Hacienda del Estado de San Luis Potosí, que se reforma mediante este Decreto, estableciéndose en el contrato de concesión o en el instrumento jurídico respectivo, las tarifas máximas que podrá cobrar el concesionario, mismas que deberán ser equivalentes a las que en este instrumento legislativo se establecen para el ejercicio fiscal 2005, incluyendo el Impuesto al Valor Agregado.
+
+P.O. 22 DE ABRIL DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todos los asuntos relacionados con créditos fiscales derivados de sanciones pecuniarias, resarcitorias, e indemnizaciones, impuestas por la Contaduría Mayor de Hacienda del Estado o la Auditoria Superior del Estado, a servidores públicos estatales, municipales y de cualquier otro ente público, que tenga la Secretaría de Finanzas para su cobro, o que se estén substanciando mediante cualquier procedimiento o recurso, deberá ésta última transferírselas a la Auditoria Superior del Estado, dentro de los treinta días siguientes a la entrada en vigencia de este Decreto, para su correspondiente seguimiento y substanciación.
