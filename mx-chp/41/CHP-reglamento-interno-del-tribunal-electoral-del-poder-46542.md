@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-del-tribunal-electoral-del-poder-46542"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-07"
-last_updated: "2005-09-07"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 23 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de septiembre de 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Publicación No. 2218-A-2005
 
@@ -1766,3 +1766,13 @@ Dado en el Salón de Sesiones «Democracia y Justicia», el día 29 veintinueve 
 El suscrito ciudadano licenciado Efrén Antonio Meneses Espinosa, Certifica y Hace Constar que el presente documento que contiene el reglamento interior del Tribunal Electoral del Poder Judicial del Estado, es copia fiel y exacta de sus originales que doy fe de tenerlo a la vista y que se compulsa para ser enviado a la dirección de Asuntos Jurídicos de Gobierno del Estado, para que por ese conducto se proceda a la publicación en el Periódico Oficial correspondiente.- Tuxtla Gutiérrez, Chiapas; a 31 treinta y uno de agosto del año 2005 dos mil cinco.
 
 Lic. Efrén Antonio Meneses Espinosa, Secretario General de Acuerdos y del Pleno.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ABRIL DE 2008.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior aprobado por el Pleno del Tribunal Electoral del Estado, de fecha 31 de agosto de 2005, y publicado en el Periódico Oficial del Estado número 321, de fecha 07 de septiembre de 2005.
+
+Artículo Tercero.- Los casos no previstos en este Reglamento, serán resueltos por el Pleno del Tribunal; por la Sala respectiva; por la Comisión de Administración; o por la Comisión Substanciadora, tratándose de asuntos laborales, en su caso.
