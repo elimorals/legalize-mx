@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-contaduria-mayor-de-hacienda-del-11492"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-03-31"
-last_updated: "2007-12-28"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 23 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 31 de marzo de 1997.
 
@@ -868,3 +870,15 @@ P.O. 28 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE ABRIL DE 2008.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", salvo lo dispuesto en los siguientes transitorios.
+
+Artículo Segundo. A partir de la entrada en vigor de la presente Ley, se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado de Sinaloa y se derogan todas aquellas disposiciones que se opongan a la misma.
+
+Artículo Tercero. Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite o en proceso ante la Contaduría Mayor de Hacienda del Congreso del Estado, continuarán tramitándose por la Auditoría Superior del Estado en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Sinaloa.
+
+Artículo Cuarto. La Gran Comisión y las Comisiones Unidas de Glosa y de Vigilancia del Congreso del Estado, emitirán la Convocatoria para la designación del Auditor Superior del Estado, en un plazo que no excederá de treinta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Quinto. La Auditoría Superior del Estado iniciará sus funciones al día siguiente de la entrada en vigor de la presente Ley, quedando como encargado del despacho el actual Contador.
