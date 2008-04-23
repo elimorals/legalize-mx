@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-contaduria-mayor-de-hacienda-del-21848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-08-23"
-last_updated: "2001-12-24"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "OAX"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 23 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el miércoles 23 de agosto de 1995.
 
@@ -419,3 +421,29 @@ DIPUTADO SECRETARIO
 P.O. 24 DE DICIEMBRE DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico oficial del Gobierno del Estado.
+
+P.O. 23 DE ABRIL DE 2008.
+
+PRIMERO.- La presente Ley entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado de Oaxaca, aprobada el 23 de agosto de 1995, con las salvedades previstas en los artículos transitorios siguientes. Se derogan así mismo todas las disposiciones legales que se opongan a la presente Ley.
+
+TERCERO.- La Auditoria Superior del Estado iniciará sus funciones a la entrada en vigor del presente decreto. En tanto se realiza la elección del Auditor Superior del Estado y Sub-Auditores, el actual Contador Mayor de Hacienda quedará encargado del despacho de la Auditoria Superior del Estado.
+
+CUARTO.- La Comisión, a partir de la entrada en vigor de la presente Ley deberá emitir la convocatoria para elegir al Auditor Superior del Estado y a los Sub-Auditores.
+
+QUINTO.- La Comisión de Vigilancia de la Auditoría Superior del Estado de la actual Legislatura quedará integrada con los mismos diputados que forman parte de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda.
+
+En tanto se realizan las correspondientes reformas a la Ley Orgánica del Poder Legislativo del Estado y demás ordenamientos relativos, toda mención a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, se entenderá referida a la Comisión de Vigilancia de la Auditoria Superior del Estado.
+
+Asimismo, las facultades que en materia de Cuentas públicas tiene la Comisión Permanente de Presupuesto, Programación y Cuenta Pública, se entienden conferidas a la Comisión de Vigilancia de la Auditoría Superior del Estado.
+
+SEXTO.- En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de la presente Ley, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado.
+
+SÉPTIMO.- Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda del Congreso del Estado de Oaxaca, al entrar en vigor la presente Ley, continuarán tramitándose por la Auditoría Superior del Estado en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado de Oaxaca.
+
+OCTAVO.- El presupuesto de la Auditoria Superior del Estado, deberá ser aprobado por el Congreso. La Secretaria de Finanzas del Poder Ejecutivo suministrara los recursos necesarios, hasta en tanto se apruebe el Presupuesto de Egresos correspondiente al nuevo ejercicio fiscal.
+
+NOVENO.- El Reglamento Interior será propuesto a la Comisión por la Auditoría Superior del Estado, dentro de los 60 días siguientes a la entrada en vigor de la presente Ley. En tanto se aprueba el Reglamento Interior, en lo que no se oponga a la nueva normatividad, seguirá aplicándose el Reglamento de la Contaduría Mayor de Hacienda, aprobado el 23 de agosto de 1995.
+
+DÉCIMO.- El personal que actualmente presta sus servicios en la Contaduría Mayor de Hacienda, así como los bienes muebles, equipos, archivos, expedientes documentación y en general los bienes de ésta, pasarán a la Auditoría Superior del Estado de Oaxaca, quedando destinados a su servicio.
