@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2008-01-19"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -159,7 +159,9 @@ Se entiende que hay abuso o uso indebido del derecho privado, en todos los casos
 
 En los términos señalados por días, sólo se computarán los días hábiles. En los no fijados por días sino por períodos como años, meses, quincenas o decenas, o bien en aquéllos en que se señale una fecha determinada para la extinción del término, se computarán también los inhábiles pero si el último día no están abiertas al público las oficinas receptoras concluirá al día siguiente hábil. Los términos principiarán a correr el día siguiente a la fecha en que surta sus efectos la notificación, en que se realicen los hechos o las circunstancias que las disposiciones legales o las resoluciones administrativas prevengan.
 
-Son días inhábiles los sábados y domingos, los días 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 16 de septiembre, 12 de octubre, 20 de noviembre y 25 de diciembre de cada año, así como todos aquéllos en que no se encuentre abierta al público la Oficina Fiscal del Estado en que deba hacerse el pago, aún cuando se dejen guardias en ella. Las autoridades fiscales podrán habilitar mediante acuerdo escrito, horas y días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+Son días inhábiles los señalados como de descanso obligatorio, el 1o. de enero, el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; el 1o. y 5 de mayo, 16 de septiembre, 12 de octubre, el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 1º. De diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; 25 de diciembre de cada año, así como los sábados y domingos; y todos aquellos en que no se encuentren abiertas al público las recaudaciones de rentas y demás oficinas en que deba hacerse el pago, aun cuando se dejen guardias en ellas. Las autoridades fiscales podrán habilitar mediante acuerdo escrito, horas y días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
 
 Días hábiles son todos aquéllos no mencionados en el párrafo anterior. Horas hábiles las comprendidas entre las 7:00 y las 19:00 horas.
 
@@ -1569,7 +1571,7 @@ Para el cálculo del Impuesto derivado de juegos con apuestas, se aplicará a la
 
 En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
 
-N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
+N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -4854,3 +4856,13 @@ P.O. 19 DE ENERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación con independencia de su publicación en el Periódico Oficial de (sic) Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
