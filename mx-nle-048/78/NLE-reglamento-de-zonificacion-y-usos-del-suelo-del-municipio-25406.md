@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2004-12-14"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -2973,6 +2973,8 @@ Artículo 183 BIS 1.
 
 > <small>N. DE E. VÉASE MATRIZ DE SANCIONES PECUNIARIAS EN EL P.O. DE 7 DE SEPTIEMBRE DE 2004, PÁGINAS DE LA 6 A LA 7.</small>
 
+> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES EN EL P.O. 23 DE ABRIL DE 2008, PÁGINAS DE LA 11 A LA 12.</small>
+
 *Las sanciones estan marcadas como cuotas de acuerdo al salario minimo vigente
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
@@ -3062,3 +3064,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 14 DE DICIEMBRE DE 2004.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+
+P.O. 23 DE ABRIL DE 2008.
+
+PRIMERO. Las disposiciones de reformas por adición y modificación al presente artículo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
