@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2007-12-29"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -600,6 +600,10 @@ Los plazos judiciales serán fijados conforme a la naturaleza del proceso y a la
 Los plazos individuales correrán a partir del día siguiente a aquél en que se efectuó la notificación al interesado; los plazos comunes, desde el día siguiente a la última notificación que se practique
 
 En los plazos por día no deberán contarse los días inhábiles. Los plazos restantes que venzan en día inhábil, se tendrán por prorrogados hasta el día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+Para los efectos del párrafo anterior, se entenderán como días inhábiles los que con tal carácter señale el Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 61.
 
@@ -4442,3 +4446,13 @@ P.O. 29 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación con independencia de su publicación en el Periódico Oficial de (sic) Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
