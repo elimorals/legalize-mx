@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2007-12-22"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -73,9 +73,13 @@ VIII. Comisión de Planeación, a la Comisión de Planeación, Patrimonio y Fina
 
 IX. Presidente, al Presidente de la Mesa Directiva o de la Comisión Permanente;
 
-X. Recinto, al inmueble sede del Poder Legislativo del Estado, y
+X. Recinto, al inmueble sede del Poder Legislativo del Estado, y (sic)
 
-XI. Unidades Administrativas, a la Secretaría General, Direcciones, Subdirecciones, Coordinaciones, unidades y oficinas que tienen a su cargo la prestación de servicios en los términos de la Ley y este Reglamento.
+XI. Unidades Administrativas, a la Secretaría General, Direcciones, Subdirecciones, Coordinaciones, unidades y oficinas que tienen a su cargo la prestación de servicios en los términos de la Ley y este Reglamento;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+XII. Resolución, al documento emitido por las Comisiones competentes, en el que se resuelve un asunto jurisdiccional o administrativo.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACION DE LA LEGISLATURA
 
@@ -873,19 +877,25 @@ III. Formular peticiones o sugerencias a otras autoridades.
 
 Los puntos de acuerdo tendrán una numeración consecutiva diferente a la de los decretos.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### Artículo 102.
 
-Las iniciativas de punto de acuerdo sólo podrán ser presentadas por diputados, serán dirigidas a la Legislatura, por escrito ante la Secretaría General, debidamente firmadas por el promovente o promoventes y anexando la versión en medio magnético.
+Las iniciativas de punto de acuerdo sólo podrán ser presentadas por diputados, serán dirigidas a la Legislatura, por escrito a través de la Secretaría General, debidamente firmadas por el promovente o promoventes y anexando la versión en medio magnético.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
 
 ###### Artículo 103.
 
-La Secretaría General dará cuenta inmediata al Presidente de la recepción de las iniciativas de punto de acuerdo y éste ordenará se distribuyan de inmediato a los diputados de la Comisión de Régimen Interno para su conocimiento y programación en Sesión del Pleno.
+La Secretaría General dará cuenta inmediata al Presidente de la recepción de las iniciativas de punto de acuerdo y éste ordenará se distribuyan en el plazo señalado en el artículo 99 del presente Reglamento, a los diputados de la Comisión de Régimen Interno para su conocimiento y programación en Sesión del Pleno.
 
 ###### Artículo 104.
 
 Para que la iniciativa de punto de acuerdo sea declarada de urgente u obvia resolución, se deberán cumplir los siguientes requisitos:
 
-I. Que el promovente justifique la urgencia, o
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+I. Que el promovente justifique la pertinencia social, económica, política o cultural, así como la urgencia de que con su aprobación, se influirá en la solución del tema que se plantea,
 
 II. Que sea solicitado por la Comisión de Régimen Interno, por conducto de su Presidente, y
 
@@ -901,11 +911,13 @@ I. Para que puedan incluirse en el orden del día de la sesión, ya sea del Plen
 
 II. En caso de que sea promovido como de urgente u obvia resolución, el Presidente se estará a lo dispuesto en el artículo 104 de este Reglamento.
 
-De no aprobarse la urgente y obvia resolución, la iniciativa con punto de acuerdo se discutirá y, en su caso, aprobará en la siguiente sesión;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+De no aprobarse la urgente y obvia resolución, la iniciativa con punto de acuerdo, se turnará a las comisiones que de acuerdo con la Ley corresponda, para su conocimiento y dictamen;
 
 III. Las discusiones sobre puntos de acuerdo se regirán por el capítulo relativo a las discusiones y aprobaciones, y
 
-IV. Cuando se le aprueben modificaciones, el Presidente ordenará su incorporación al texto definitivo. Una vez aprobado, con o sin modificaciones, se le dará el trámite correspondiente.
+IV. (DEROGADA, P.O. 23 DE ABRIL DE 2008)
 
 ### Capítulo IV. Del dictamen de la comisión
 
@@ -2223,10 +2235,16 @@ SECRETARIO
 
 DIP. HILARIO TORRES JUÁREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 22 DE DICIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE ABRIL DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
