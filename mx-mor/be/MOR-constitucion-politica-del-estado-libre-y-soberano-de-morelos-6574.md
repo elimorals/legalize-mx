@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2007-12-05"
+last_updated: "2008-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -448,33 +448,23 @@ La iniciativa popular deberá ser suscrita por al menos el tres por ciento de lo
 
 No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
 
-El Instituto Estatal Electoral y el Consejo de Participación Ciudadana serán los organismos encargados de preparar, desarrollar, vigilar y calificar los procesos de Referéndum y Plebiscito que les sean solicitados de conformidad con la presente Constitución y la Ley de la Materia.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
 
-El Consejo es el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito o Referéndum que se presenten. Para llevar a cabo los procesos de Referéndum y Plebiscito, el Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral.
+El Instituto Estatal Electoral será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten, así como de preparar, desarrollar y vigilar estos procedimientos de conformidad con la presente Constitución y la Ley de la materia.
 
-Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativo de los procesos de Plebiscito y Referéndum.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-El Consejo Estatal de Participación Ciudadana se instalará expresamente para llevar a cabo los procesos de Plebiscito y Referéndum, estará conformado de la siguiente manera:
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-a). El Secretario de Gobierno;
+> <small>(DEROGADO OCTAVO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-b).Un Diputado por Grupo o Fracción Parlamentaria que integren el Congreso del Estado;
+> <small>(DEROGADO NOVENO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
 
-c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por las dos terceras partes de los integrantes el (sic) Congreso del Estado, a propuesta de la Comisión de Régimen Interno y Concertación Política, mismos que durarán en su cargo tres años, pudiendo ser reelectos hasta por otro periodo igual; y
-
-d).Un Secretario de actas, propuesto por los miembros del propio Consejo, con voz, pero sin voto.
-
-Cada uno de los integrantes del Consejo de Participación Ciudadana tendrá un suplente.
-
-En la sesión de instalación el Consejo de Participación Ciudadana elegirá a su Presidente, por el voto de las dos terceras partes de sus integrantes.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-El Congreso del Estado deberá expedir la Ley que regule el Consejo de Participación Ciudadana y su vinculación con el Instituto Estatal Electoral, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación ciudadana establecidas en este Artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
+El Congreso del Estado deberá expedir la Ley que regule estos Mecanismos de Participación Ciudadana, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación establecidas en este artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
 
 ## TITULO SEGUNDO.
 
@@ -524,15 +514,21 @@ A).- El financiamiento público para los Partidos Políticos que mantengan su re
 
 B).- La ley fijará los criterios para determinar los límites a las erogaciones de los Partidos Políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum, estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. El Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten.
+III.- La organización, dirección y vigilancia de las elecciones estará a cargo de un organismo público autónomo denominado Instituto Estatal Electoral. En su integración participan los Poderes Ejecutivo y legislativo del Estado, los Partidos Políticos y los ciudadanos. Como autoridad en la materia, tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. En el ejercicio de sus funciones, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 El Instituto Estatal Electoral dispondrá de los medios necesarios para brindar el servicio profesional electoral.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
 
-Los Partidos Políticos con registro en el Estado, podrán solicitar el auxilio y colaboración del Instituto Estatal Electoral para llevar a cabo sus procesos de selección interna; el Convenio que se celebre para tal efecto, determinará el modo, tiempo y recursos que en su caso se requieran para ello, sin considerar la infraestructura del propio Instituto que en ningún momento perseguirá lucro alguno.
+El Instituto Estatal Electoral, a su vez, calificará la procedencia o improcedencia de las solicitudes de plebiscito o referéndum, y se encargará de la organización, dirección y vigilancia de estos procedimientos de participación ciudadana, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+Los Partidos Políticos con registro en el Estado podrán solicitar el auxilio y colaboración del Instituto Estatal Electoral para llevar acabo sus procesos de selección interna.
 
 IV.- El órgano superior de dirección del Instituto Estatal Electoral, se denominará Consejo Estatal Electoral y se integrará de la siguiente forma:
 
@@ -556,11 +552,13 @@ V.- El Instituto Estatal Electoral a través de sus órganos y de acuerdo con lo
 
 Las sesiones de todos los órganos colegiados del Instituto Estatal Electoral serán públicas y sus resoluciones recurribles en los términos de la ley.
 
-VI.- Para garantizar los principios de legalidad y constitucionalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación, tanto administrativos como jurisdiccionales, en los términos que esta Constitución y la ley señalen. Este sistema además garantizará la protección de los derechos políticos de los ciudadanos para votar, ser votado y de asociación en los términos del artículo 14 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+VI.- Para garantizar los principios de legalidad y constitucionalidad de los actos y resoluciones electorales, así como de los procedimientos de plebiscito y referéndum, se establecerá un sistema de medios de impugnación, tanto administrativos como jurisdiccionales, en los términos que esta Constitución y la ley señalen. Este sistema además garantizará la protección de los derechos políticos de los ciudadanos para votar, ser votado, participar en los procedimientos de plebiscito y referéndum y de asociación en los términos del artículo 14 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
-El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, se integrará por tres Magistrados propietarios con sus respectivos suplentes; tendrá competencia para resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral, así como en los tiempos no electorales, en las formas y términos que determine la ley.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, se integrará por tres Magistrados propietarios con sus respectivos suplentes; tendrá competencia para resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral, en los tiempos no electorales, así como en lo relativo al plebiscito y al referéndum, en las formas y términos que determine la ley.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -1970,15 +1968,27 @@ VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intenc
 
 Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+
 I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
 II.- Haber residido en el Estado durante los últimos diez años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del Servicio Público.
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+
 III.- Poseer al momento de su designación, con antigüedad mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
 IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación.
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+
 V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la Judicatura.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
 VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
@@ -2216,11 +2226,11 @@ El personal de la defensoría pública dependerá del Ejecutivo del Estado y ser
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPÍTULO III.
+### CAPITULO IV.
 
-DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+DE LOS SERVICIOS QUE PRESTAN.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 109
 
@@ -2240,11 +2250,11 @@ Los Magistrados deberán cumplir con la presentación oportuna de sus declaracio
 
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
 
-### CAPITULO IV.
+### CAPÍTULO III.
 
-DE LOS SERVICIOS QUE PRESTAN.
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2332,18 +2342,6 @@ La ley determinará la competencia del Ayuntamiento en funciones de cabildo y la
 
 La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-###### Artículo 114.
-
-Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO VIII.
-
-DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
 ###### Artículo 114
 
 BIS.- Los Ayuntamientos tendrán a su cargo las funciones y servicios públicos siguientes:
@@ -2371,6 +2369,18 @@ IX.- Los demás que la ley determine, según las condiciones territoriales y soc
 Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VIII.
+
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 114.
+
+Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3621,3 +3631,17 @@ SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan a lo prev
 TERCERO.- El Congreso del Estado deberá expedir la Ley que regule la celebración de Contratos de Colaboración Público Privada, en un plazo no mayor de ciento veinte días, contado a partir de la iniciación de la vigencia del presente Decreto.
 
 CUARTO.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere el artículo 70 Fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 23 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado de Morelos dispondrá de un término de noventa días naturales para presentar la iniciativa de reformas a la Ley de Participación Ciudadana del Estado de Morelos.
