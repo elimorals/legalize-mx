@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2007-10-31"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -409,7 +409,13 @@ Contra el auto del Tribunal que reconozca la personalidad de una de las partes, 
 
 68.- Para la tramitación y resolución de los asuntos ante los tribunales ordinarios, se estará a lo dispuesto por este Código, sin que por convenio de los interesados puedan renunciarse los recursos ni el derecho de recusación, ni alterarse, modificar o renunciarse las normas del procedimiento.
 
-69.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, con exclusión de los domingos, primero de enero, cinco de febrero, veintiuno de marzo, primero y cinco de mayo, quince y dieciséis de septiembre, doce de octubre, veinte de noviembre, y veinticinco de diciembre, y aquellos en que, por acuerdo del Supremo Tribunal de Justicia del Estado, permanezcan cerrados los tribunales. Se entienden como horas hábiles las que median entre las ocho y las veinte horas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+
+69.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, con exclusión de los sábados y domingos, primero de enero, el primer lunes de febrero, en conmemoración del cinco de febrero; el tercer lunes de marzo, en conmemoración del veintiuno de marzo; primero y cinco de mayo, quince y dieciséis de septiembre, doce de octubre, el tercer lunes de noviembre, en conmemoración del veinte de noviembre; el primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el veinticinco de diciembre, y aquellos en que por Acuerdo del Pleno del Supremo Tribunal de Justicia del Estado, permanezcan cerrados los tribunales.
+
+> <small>(ADICIONADO [N. DE E. EL PRESENTE PARRAFO FORMABA PARTE DEL ANTERIOR APARTADO], P.O. 23 DE ABRIL DE 2008)</small>
+
+Se entiende como horas hábiles las que median entre las ocho y las veinte horas.
 
 En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse. Si una diligencia de ejecución o aseguramiento de bienes, se hubiere comenzado a practicar en horas hábiles, podrá continuarse hasta su conclusión sin necesidad de que el juez habilite las que no lo fueren.
 
@@ -4748,3 +4754,13 @@ P.O. 31 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación con independencia de su publicación en el Periódico Oficial de (sic) Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
