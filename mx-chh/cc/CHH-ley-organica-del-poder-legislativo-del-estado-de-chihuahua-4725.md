@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2008-01-12"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -81,9 +81,13 @@ b) Jueves y viernes santos;
 
 c) Primero de enero;
 
-d) Cinco de febrero;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
 
-e) Veintiuno de marzo;
+d) El primer lunes de febrero, en conmemoración del cinco de febrero;
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+e) El tercer lunes de marzo, en conmemoración del veintiuno de marzo;
 
 f) Primero y cinco de mayo;
 
@@ -93,7 +97,9 @@ h) Doce de octubre;
 
 i) Primero y dos de noviembre;
 
-j) Veinte de noviembre;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+j) El tercer lunes de noviembre, en conmemoración del veinte de noviembre;
 
 k) Veinticinco de diciembre;
 
@@ -2174,3 +2180,13 @@ P.O. 12 DE ENERO DE 2008.
 DECRETO No. 16/07 I P.O.
 
 ÚNICO.- Esta reforma entrará en vigor a partir del primero de enero del año 2008, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor inmediatamente después de su aprobación, con independencia de su publicación en el Periódico Oficial de (sic) Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
