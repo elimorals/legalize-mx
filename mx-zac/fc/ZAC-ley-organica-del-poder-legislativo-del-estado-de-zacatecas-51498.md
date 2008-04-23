@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2007-12-22"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -625,9 +625,11 @@ III. El jurisdiccional.
 
 ### Capítulo II. Del procedimiento legislativo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 43.
 
-El procedimiento legislativo tiene por objeto la creación o supresión de normas jurídicas; será ordinario cuando se refiera a la reforma, adición, derogación, abrogación o creación de una ley. Se denomina procedimiento para la reforma constitucional, cuando se trate de reformas a la Constitución Política de los Estados Unidos Mexicanos o a la propia del Estado.
+El procedimiento legislativo tiene por objeto la creación o supresión de normas jurídicas; será ordinario cuando se refiera a la reforma, adición, derogación, abrogación o creación de una ley, de un decreto o de un acuerdo. Se denomina procedimiento para la reforma constitucional, cuando se trate de reformas a la Constitución Política de los Estados Unidos Mexicanos o a la propia del Estado.
 
 La voluntad del Poder Legislativo, en este procedimiento, se manifiesta mediante decreto legalmente aprobado por la Legislatura.
 
@@ -687,47 +689,63 @@ II. De decreto, cuando se trate de un proyecto de resolución por el que se otor
 
 III. De acuerdo, si se refiere a cualquier otra resolución que no sea ley o decreto. Éstas sólo podrán ser presentadas por los miembros de la Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 49.
 
-Toda iniciativa de ley deberá contener:
+Toda iniciativa de ley, de decreto o de acuerdo, deberá contener:
 
 I. Exposición de motivos;
 
 II. Estructura lógico jurídica; y
 
-III. Disposiciones transitorias y, en su caso, disposiciones adicionales.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+III. Disposiciones transitorias y, en su caso, disposiciones adicionales, con excepción de las iniciativas de punto de acuerdo.
 
 ###### ARTÍCULO 50.
 
 La estructura lógico jurídica de las iniciativas de ley se integra por libros, títulos, capítulos, secciones en su caso, artículos, párrafos, fracciones e incisos, y su numeración es progresiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 51.
 
-El Reglamento General pormenorizará la estructura de las leyes y el modo de proceder a su admisión y votación.
+El Reglamento General pormenorizará la estructura de las leyes, decretos o acuerdos y el modo de proceder a su admisión y votación.
 
 En caso de urgencia calificada por las dos terceras partes de los diputados presentes, la Legislatura puede dispensar o abreviar los trámites establecidos.
 
 #### Sección Tercera. Del dictamen
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 52.
 
-El dictamen es la opinión y juicio fundados que resulta del análisis de una iniciativa de ley, decreto o acuerdo jurisdiccional que emite la comisión competente. El dictamen será sometido a consideración del Pleno, iniciando con ello la fase de discusión.
+El dictamen es la opinión y juicio fundados que resulta del análisis de una iniciativa de ley, decreto, acuerdo o, en su caso una resolución que emite la comisión competente. El dictamen será sometido a consideración del Pleno, iniciando con ello la fase de discusión.
 
 ###### ARTÍCULO 53.
 
 Todo dictamen deberá presentarse por escrito, debidamente firmado por los integrantes de la comisión o comisiones dictaminadoras, y deberá contener:
 
-I. La identificación de la iniciativa, propuesta, solicitud o denuncia, precisando si se trata de ley, decreto o acuerdo jurisdiccional;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
 
-II. Si se trata de una iniciativa de ley o decreto, el dictamen atenderá a la estructura lógico jurídica del artículo 50 de la presente Ley; y
+I. La identificación de la iniciativa, propuesta, solicitud o denuncia, precisando si se trata de ley, decreto, acuerdo o, en su caso, una resolución;
 
-III. Si el dictamen propone un acuerdo jurisdiccional o administrativo, deberá reunir las condiciones de motivación, fundamentación y puntos resolutivos.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+II. Si se trata de una iniciativa de ley, decreto, acuerdo o, en su caso, una resolución, el dictamen atenderá a la estructura lógico jurídica del artículo 50 de la presente Ley, en lo conducente; y
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+III. Si el dictamen propone una resolución, deberá reunir las condiciones de motivación, fundamentación y puntos resolutivos.
 
 Ningún diputado podrá dictaminar ni votar asunto en el que tenga interés personal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 54.
 
-Tratándose de una iniciativa de ley, para su estudio las comisiones deberán agotar los siguientes pasos:
+Tratándose de una iniciativa de ley o decreto, para su estudio las comisiones deberán agotar los siguientes pasos:
 
 I. Identificar la procedencia con la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado;
 
@@ -813,15 +831,21 @@ Para efecto del cómputo de los votos, la votación se denominará mayoría simp
 
 Salvo disposición expresa en contrario en la Constitución Política del Estado, esta Ley o su Reglamento, serán válidos los resultados por mayoría simple de votos.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 69.
 
-La minuta es la expresión escrita de la voluntad de la Legislatura y podrá ser de ley, decreto o acuerdo.
+La minuta es la expresión escrita de la voluntad de la Legislatura y podrá ser de ley, decreto, acuerdo o, en su caso, una resolución.
 
 #### Sección Sexta. De la remisión al Ejecutivo
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 70.
 
-Una vez aprobados los dictámenes que contienen leyes o decretos corresponde al Ejecutivo del Estado su promulgación y publicación, con excepción de aquellas leyes o decretos que, conforme a la Constitución Política del Estado y a esta Ley, estén dispensados de alguna de tales condiciones.
+Una vez aprobados los dictámenes que contienen leyes o decretos corresponde al Ejecutivo del Estado su promulgación y publicación, con excepción de aquellas leyes, decretos, o reglamentos que, conforme a la Constitución Política del Estado y a esta Ley, estén dispensados de alguna de tales condiciones.
+
+Los dictámenes de puntos de acuerdo, se remitirán al Ejecutivo del Estado para que sean publicados por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 #### Sección Séptima. De los periodos de sesiones
 
@@ -933,7 +957,9 @@ VI. Convocatorias y comparecencias;
 
 VII. Informes; y
 
-VIII. Los demás actos que establece la Constitución y esta Ley, siempre que no tengan por objeto una ley o acuerdo jurisdiccional.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+VIII. Los demás actos que establece la Constitución y esta Ley, siempre que no tengan por objeto una ley, decreto, acuerdo o, en su caso, una resolución.
 
 #### Sección Primera. Del informe y sustitución del Ejecutivo
 
@@ -1131,7 +1157,9 @@ III. Por acuerdo del Presidente, citar a los diputados a sesión;
 
 IV. Ordenar se elaboren las actas de las sesiones y firmarlas después de ser aprobadas por la Legislatura. Las actas cumplirán las formalidades que precise el Reglamento General y constituirán el diario de los debates;
 
-V. Rubricar las leyes, acuerdos y demás disposiciones o documentos que expida la Legislatura;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+V. Rubricar las leyes, decretos, acuerdos y demás disposiciones o documentos que expida la Legislatura;
 
 VI. Dar lectura a los documentos listados en el orden del día;
 
@@ -1145,7 +1173,9 @@ X. Dar cuenta, previo acuerdo del Presidente de la Legislatura, de los asuntos e
 
 XI. Asentar y firmar en todos los expedientes los trámites que dieren a las resoluciones que sobre ellos se tomen;
 
-XII. Llevar un registro en que se asienten, por orden cronológico y textualmente, las leyes y decretos que expida la Legislatura;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
+
+XII. Llevar un registro en que se asienten, por orden cronológico y textualmente, las leyes, decretos o acuerdos que expida la Legislatura;
 
 XIII. Coordinar sus labores con las que realice la Secretaría General y los órganos técnicos de apoyo;
 
@@ -1363,9 +1393,9 @@ III. Presentar a la Comisión de Régimen Interno y Concertación Política info
 
 IV. Emitir sus dictámenes agotando todos los pasos de conformidad al asunto de que se trate y al procedimiento señalado en esta Ley y en el Reglamento General. Todo dictamen deberá estar firmado por los integrantes de las mismas o, en su caso, por la mayoría. Si alguno de ellos disiente de una resolución, podrá expresar su punto de vista por escrito y firmarlo como voto particular y dirigirlo al presidente de la Legislatura para que sea puesto a consideración de la Asamblea, cuando se presente el dictamen motivo de dicho voto particular;
 
-V. Presentar a la Asamblea los dictámenes de las iniciativas o asuntos turnados a su estudio, en un plazo no mayor a cuarenta días naturales.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2008)</small>
 
-Las Comisiones determinarán la acumulación de iniciativas cuando éstas versen sobre la misma materia o se expresen en una misma ley, decreto o resolución, en tal caso el plazo será computado a partir de la fecha en que se hubiere turnado el último;
+V. Presentar a la Asamblea los dictámenes de las iniciativas o asuntos turnados a su estudio, en un plazo no mayor a cuarenta días naturales. Las Comisiones determinarán la acumulación de iniciativas cuando éstas versen sobre la misma materia o se expresen en una misma ley, decreto, acuerdo o resolución, en tal caso el plazo será computado a partir de la fecha en que se hubiere turnado el último;
 
 VI. Organizar foros, conferencias, consultas, encuestas e investigaciones que tengan por objeto ampliar la información necesaria para la elaboración de un dictamen;
 
@@ -2108,3 +2138,9 @@ P.O. 22 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE ABRIL DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
