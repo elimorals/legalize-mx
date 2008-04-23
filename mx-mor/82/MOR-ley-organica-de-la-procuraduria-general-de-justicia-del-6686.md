@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-procuraduria-general-de-justicia-del-6686"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-08-24"
-last_updated: "2002-08-07"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de agosto de 1994.
 
@@ -389,6 +389,44 @@ Los miembros de las instituciones policiales, podrán ser removidos de su cargo,
 
 Se podrá imponer al personal de la Procuraduría, por las faltas en que incurran en el servicio las correcciones disciplinarias previstas en la Ley de Responsabilidades de los Servidores Públicos, mediante el procedimiento que dicha Ley previene, en el caso de elementos de la Policía Ministerial, se aplicarán las mismas sanciones, o bien, a juicio del Coordinador General de la Corporación y bajo su responsabilidad, arresto constitucional que no podrá rebasar un plazo mayor de treinta y seis horas; retención en el servicio o privación de permisos de salida, hasta por quince días, si la gravedad de la falta lo amerita.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+La Visitaduría General, es el órgano de control interno, supervisión y evaluación técnica-jurídica de la Procuraduría General de Justicia; en su carácter de autoridad sancionadora, a través de su titular o por conducto de sus Subdirectores o los agentes del Ministerio Público que tenga adscritos, previa la investigación de los hechos denunciados, podrá imponer al personal de la Procuraduría, por las faltas cometidas en el desempeño de sus funciones, las sanciones administrativas previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, mediante el procedimiento que dicha ley previene.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+Para efectos de lo anterior, dará lugar a sanción administrativa el incumplimiento de las obligaciones y deberes establecidos en el artículo 27 de la Ley Estatal de Responsabilidades de los Servidores Públicos así como aquellos que deriven de la presente Ley y su Reglamento; y otras disposiciones jurídicas y administrativas que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+En el caso de los Agentes del Ministerio Público, peritos, personal de la Procuraduría y elementos de la Policía Ministerial, la Visitaduría General tendrá además, facultades para la aplicación de las siguientes sanciones y medidas disciplinarias:
+
+I. Arresto constitucional que no podrá rebasar un plazo mayor de treinta y seis horas, por incumplimiento de deberes o desobediencia, para el caso de los agentes de la Policía Ministerial;
+
+II. Imposición de multas de 1 a 3 días de salario mínimo general vigente, por faltas injustificadas o abandono del trabajo;
+
+III. Imposición de multas de 3 a 10 días de salario mínimo general vigente, por actos de desobediencia o incumplimiento de tareas o deberes asignados;
+
+IV. Imposición de multas de 10 a 15 días de salario mínimo general vigente, por faltas graves, como desatención probada a la ciudadanía, desobediencia del superior jerárquico o descortesía hacia la ciudadanía, compañeros de trabajo o superiores jerárquicos. Otras faltas graves podrán determinarse a juicio del Visitador General, derivado de los datos que arroje la investigación de los hechos denunciados;
+
+V. Suspensión temporal o baja definitiva del servicio; en casos de reincidencia y atendiendo a la gravedad de la conducta. Se considera reincidencia la comisión de alguna de las conductas sancionables por dos veces, o más;
+
+VI. Amonestación o extrañamiento en los casos de faltas no graves, y
+
+VII. Anotación en expediente laboral, informe al Sistema Nacional de Seguridad Pública, y/o retención en el servicio o privación de permisos de salida, hasta por quince días, por mala conducta o por aquella que lo amerite a juicio del Visitador General.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+El arresto a que hace referencia el presente artículo deberá de ser cumplimentado en el lugar y bajo las condiciones que indique la propia Visitaduría General.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
+
+ARTICULO 33° BIS.- La investigación a que se refiere el artículo 33 del presente ordenamiento jurídico, dará inicio con motivo de la presentación de una queja o denuncia; del resultado de las supervisiones o estudios técnicos practicados por la Visitaduría General; o una resolución judicial firme que declare la responsabilidad penal, civil o patrimonial de un servidor público, siempre y cuando no haya prescrito la responsabilidad administrativa.
+
+La investigación administrativa concluirá con la determinación de procedencia o improcedencia que emita el Agente del Ministerio Público adscrito a la Visitaduría General, la que formará en caso de procedencia, parte de la litis en el procedimiento de responsabilidad administrativa que se inicie.
+
+En tratándose de investigaciones administrativas será aplicable lo dispuesto por los artículos 3, 4, 5, 33 y 43 fracciones II y III de la Ley Estatal de Responsabilidades de los Servidores Públicos; además de las disposiciones jurídicas y administrativas que regulen la función de la Visitaduría General.
+
 > <small>(REFORMADO, 7 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 34º.
@@ -472,3 +510,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 23 DE ABRIL DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del gobierno del Estado de Morelos; derogándose las disposiciones que resulten contrarias a su contenido.
+
+SEGUNDO.- Las investigaciones o procedimientos administrativos que se encuentren en trámite bajo el imperio de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial número 4562 de fecha veinticuatro de octubre del dos mil siete, deberán ser remitidas a la Visitaduría General de la Procuraduría General de Justicia, para ser substanciados y resueltos por dicha autoridad, previa notificación que se haga al probable responsable y accionante, figuras consideradas en el artículo 42 de la citada Ley.
+
+TERCERO.- Se establece un plazo de treinta días hábiles para que la Procuraduría General de Justicia, emita o modifique los reglamentos respectivos relacionados con la presente reforma, a efecto de consolidar las funciones de la Visitaduría General.
