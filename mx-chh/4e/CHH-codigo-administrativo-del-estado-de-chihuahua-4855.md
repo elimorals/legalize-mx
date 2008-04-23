@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2007-06-30"
+last_updated: "2008-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -517,7 +517,7 @@ Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un dí
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos, después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 93.
 
@@ -525,23 +525,27 @@ Son días de descanso obligatorio:
 
 1o. de enero,
 
-5 de febrero,
+El primer lunes de febrero, en conmemoración del 5 de febrero,
 
-21 de marzo,
+El tercer lunes de marzo, en conmemoración del 21 de marzo,
 
-1o. de mayo,
+1o. y 5 de mayo,
 
 16 de septiembre,
 
 12 de octubre,
 
-20 de noviembre,
+El tercer lunes de noviembre, en conmemoración del 20 de noviembre,
 
-1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
+1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal,
 
-25 de diciembre,
+25 de diciembre.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1981)</small>
 
 Los que se determinen por acuerdo expreso del Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1981)</small>
 
 Por lo que se refiere al Poder Judicial se estará a lo dispuesto en el Código de Procedimientos Civiles.
 
@@ -11034,3 +11038,13 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 23 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación, con independencia de su publicación en el Periódico Oficial de (sic) Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
