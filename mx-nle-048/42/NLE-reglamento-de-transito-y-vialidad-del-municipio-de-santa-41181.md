@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-santa-41181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-29"
-last_updated: "2004-09-29"
+last_updated: "2008-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de septiembre de 2004.
 
@@ -1049,9 +1049,11 @@ Estos dispositivos deben colocarse a diez metros y cincuenta metros hacia cada l
 
 La Autoridad Municipal, podrá determinar la instalación de relojes estacionómetros en el lugar y cuando las circunstancias lo justifiquen, previo estudio de factibilidad elaborado por la autoridad encargada de la vialidad. Los conductores o propietarios de vehículos estacionados donde existan éstos, deberán pagar lo indicado en los mismos.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 64.
 
-La dependencia encargada de la vigilancia del tránsito, previo estudio correspondiente podrá autorizar cajones de estacionamiento exclusivo tomando en cuenta la factibilidad técnica y vial, así como las necesidades del solicitante y las de los propietarios y ocupantes de propiedades.
+La dependencia encargada de la vigilancia del tránsito, previo estudio correspondiente podrá autorizar cajones de estacionamiento exclusivo tomando en cuenta la factibilidad técnica y vial, así como las necesidades del solicitante y las de los propietarios y ocupantes de propiedades; lo anterior, previo visto bueno de la Comisión de Seguridad Pública del Ayuntamiento.
 
 ###### ARTÍCULO 65.
 
@@ -2172,3 +2174,11 @@ PRESIDENTA MUNICIPAL
 C. TOMAS GUILLERMO CANDIA VALDIVIEZO
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ABRIL DE 2008.
+
+PRIMERO. Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
