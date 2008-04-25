@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-58290"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-24"
-last_updated: "2007-12-24"
+last_updated: "2008-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATAN PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2008.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 24 de diciembre de 2007.
 
@@ -201,7 +201,9 @@ PESOS
 
 INGRESOS EXTRAORDINARIOS 97'791,000.00
 
-I.- Empréstitos 0.00
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2008)</small>
+
+I.- Empréstitos 360´000,000.00
 
 II.- Los apoyos extraordinarios que otorgue
 
@@ -347,13 +349,11 @@ Subsidio Federal para la Universidad
 
 Autónoma de Yucatán 931'891,000.00
 
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2008)</small>
+
 ###### ARTÍCULO 11.
 
-El total de ingresos para el
-
-ejercicio fiscal 2008 será de: $15,474'867,000.00
-
-SON: QUINCE MIL CUATROCIENTOS SETENTA Y CUATRO MILLONES OCHOCIENTOS SESENTA Y SIETE MIL PESOS 00/100 MONEDA NACIONAL.
+El total de ingresos para el Ejercicio Fiscal 2008 será de: $15,834'867,000.00 (Son: quince mil ochocientos treinta y cuatro millones ochocientos sesenta y siete mil pesos 00/100 moneda nacional).
 
 ###### ARTÍCULO 12.
 
@@ -428,3 +428,15 @@ GOBERNADOR DEL ESTADO
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 25 DE ABRIL DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo deberá informar trimestralmente al H. Congreso del Estado, sobre la situación de la deuda pública objeto de esa autorización y solo podrá destinar dicho empréstito al rubro descrito en el presente Decreto.
