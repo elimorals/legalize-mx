@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2000-del-pleno-del-consejo-de-la-46471"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-11-17"
-last_updated: "2008-01-21"
+last_updated: "2008-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-10"
 
 ACUERDO GENERAL 75/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 2008.
 
 Acuerdo publicado en la Primera Sección Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
@@ -690,6 +690,20 @@ X. Las que realicen o vayan a realizar por sí o a través de empresas que forme
 XI. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y el Consejo; y,
 
 XII. Las demás que por cualquier causa se encuentren impedidas para ello de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE ABRIL DE 2008)</small>
+
+ARTICULO 42 BIS.- DEL PROCEDIMIENTO PARA LA DECLARACION DE IMPEDIMENTO PARA CONTRATAR. Las declaratorias de impedimento que emita la Comisión, en los supuestos a que se refiere la fracción III del artículo anterior, se sujetarán a lo siguiente:
+
+Las áreas operativas o la Contraloría, tan pronto conozcan que algún contratista o proveedor haya incurrido o tengan elementos suficientes para presumir que pueda incurrir en alguno de los supuestos contemplados en la fracción III del artículo 42 de este Acuerdo, deberán dar aviso por escrito a la Dirección General de Asuntos Jurídicos de tal situación, dentro de los tres días siguientes al que tengan conocimiento, remitiéndole al efecto un informe pormenorizado sobre los hechos que constituyan la causal de impedimento, acompañado de la documentación y los elementos que así lo acrediten.
+
+Una vez recibida la información y las pruebas pertinentes, la Dirección General de Asuntos Jurídicos, iniciará la integración y análisis de los elementos remitidos, para determinar si se acredita la causal de impedimento imputada; haciendo del conocimiento del contratista o proveedor el inicio del procedimiento, los términos del mismo, las causas que lo motivan y sus consecuencias, concediéndole un plazo de cinco días hábiles para que manifieste, bajo protesta de decir verdad, por sí o por medio de su representante legal, lo que a su derecho convenga respecto de los actos que se le imputan y ofrezca las pruebas que considere procedentes.
+
+Una vez transcurrido el término a que se refiere el párrafo anterior, con o sin la manifestación del contratista o proveedor imputado, procederá a elaborar una opinión, debidamente fundada y motivada, dentro de los cinco días hábiles siguientes, sobre los hechos contenidos en el informe respectivo y, en su caso, los argumentos y pruebas del contratista o proveedor y la hará del conocimiento de la Comisión para que ésta resuelva lo conducente.
+
+Las declaratorias de impedimento que emita la Comisión, y que deberán precisar el periodo de impedimento temporal, se notificarán por conducto de la Dirección General de Asuntos Jurídicos al proveedor o contratista, así como a los titulares de la Contraloría y las áreas operativas, para su conocimiento y cumplimiento.
+
+Las áreas operativas deberán inscribir la declaratoria respectiva en el expediente del contratista o proveedor y en el Catálogo de Proveedores o Contratistas, según corresponda, así como difundirla por los medios que estimen idóneos a las unidades administrativas vinculadas a los procesos adjudicatorios, a fin de que se abstengan de solicitar y recibir propuestas o celebrar contratos con éstos durante el plazo que la Comisión haya resuelto. Dichas declaraciones de impedimento serán definitivas e inatacables.
 
 ###### ARTICULO 43.
 
@@ -1834,3 +1848,11 @@ CUARTO.- Se instruye al Comité de Adquisiciones, Arrendamientos, Obras Pública
 QUINTO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional.
 
 SEXTO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE ABRIL DE 2008.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página electrónica del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta adición, al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional.
