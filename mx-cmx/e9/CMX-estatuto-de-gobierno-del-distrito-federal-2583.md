@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-de-gobierno-del-distrito-federal-2583"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-07-26"
-last_updated: "1999-10-14"
+last_updated: "2008-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2583&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1994-07-22"
 
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 1999.
-
-(REPUBLICADA EN LA G.O. 18 DE NOVIEMBRE DE 1999)
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2008.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -468,15 +466,21 @@ III. Ejercer las demás facultades que le corresponden como titular del mando de
 
 La función legislativa del Distrito Federal corresponde a la Asamblea Legislativa en las materias que expresamente le confiere la Constitución Política de los Estados Unidos Mexicanos.
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 37.
 
-La Asamblea Legislativa del Distrito Federal se integrará por 40 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y 26 diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. Sólo podrán participar en la elección los partidos políticos con registro nacional. La demarcación de los distritos se establecerá como determine la ley.
+La Asamblea Legislativa del Distrito Federal se integrará por 40 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y 26 diputados electos según el principio de representación proporcional. La demarcación de los distritos se establecerá como lo determine la Ley.
+
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 Los diputados a la Asamblea Legislativa serán electos cada tres años y por cada propietario se elegirá un suplente.
 
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
 La Asamblea Legislativa podrá expedir convocatorias para elecciones extraordinarias con el fin de cubrir las vacantes de sus miembros electos por mayoría relativa. Las vacantes de sus miembros electos por el principio de representación proporcional, serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
+
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 Son requisitos para ser diputado a la Asamblea Legislativa del Distrito Federal:
 
@@ -498,23 +502,55 @@ VIII. No ser Jefe de Gobierno del Distrito Federal, ni titular de órgano polít
 
 IX. No ser ministro de culto religioso, a no ser que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley.
 
-La elección de los diputados según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en particular disponga la ley:
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
-a) Un partido político para obtener el registro de su lista de candidatos a diputados a la Asamblea Legislativa del Distrito Federal, deberán acreditar que participan con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal.
+La elección de los diputados según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
 
-b) Al partido político que por sí solo alcance por lo menos el dos por ciento del total de la votación emitida, se le asignarán diputados según el principio de representación proporcional. La ley establecerá la fórmula para su asignación. Además, al aplicar ésta se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+a) Un partido político para obtener el registro de su lista de candidatos a diputados a la Asamblea Legislativa del Distrito Federal, deberá acreditar que participa con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal.
 
-En todo caso, para el otorgamiento de las constancias de asignación, se observarán las siguientes reglas:
+b) Los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, hasta cinco fórmulas de candidatos a diputados a la Asamblea Legislativa por mayoría relativa y por representación proporcional.
 
-a) Ningún partido político podrá contar con más del sesenta y tres por ciento del total de diputados electos mediante ambos principios.
+c) La aplicación de una fórmula de proporcionalidad pura determinará el número de diputados que corresponda a cada partido por este principio.
+
+d) El partido político que por sí solo alcance por lo menos el dos por ciento del total de la votación emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional, conforme a lo siguiente:
+
+Los partidos políticos registrarán una lista parcial de trece fórmulas de candidatos a diputados por el principio de representación proporcional, lista "A". Los otros trece espacios de la lista de representación proporcional, lista "B", serán dejados en blanco para ser ocupados, en su momento, por las fórmulas de candidatos que surjan de la competencia en los distritos y que no hubieran obtenido el triunfo, pero hubieran alcanzado los más altos porcentajes de votación distrital, comparados con otras fórmulas de su propio partido para esa misma elección.
+
+El orden en que se conformará la lista definitiva de diputados que corresponda a cada partido o coalición bajo el principio de representación proporcional, se hará intercalando las listas "A" y "B", iniciando por la primera fórmula registrada en la lista "A", seguida por la primera fórmula de la lista "B" y así sucesivamente hasta agotar el número de diputaciones asignadas a cada partido o coalición.
+
+En el supuesto de que alguna de las fórmulas aparezca tanto en la lista "A", como en la "B", con derecho a la asignación de una diputación de representación proporcional se le otorgará el lugar en el que esté mejor posicionada. El lugar que dicha fórmula deje vacante, será ocupado por la fórmula siguiente en el orden de prelación de la lista "A".
+
+Tratándose de coaliciones y candidaturas comunes, la Ley desarrollará el procedimiento correspondiente considerando lo señalado en los incisos anteriores.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 2008)</small>
+
+En todo caso, para la asignación de diputados por el principio de representación proporcional se observarán las siguientes reglas:
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
+
+a) Ningún partido político podrá contar con más de cuarenta diputados electos por ambos principios.
+
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 b) Al partido político que obtenga por sí mismo el mayor número de constancias de mayoría y por lo menos el treinta por ciento de la votación en el Distrito Federal, le será asignado el número de diputados de representación proporcional suficiente para alcanzar la mayoría absoluta de la Asamblea.
 
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
 c) Para el caso de que los dos partidos tuviesen igual número de constancias de mayoría y por lo menos el treinta por ciento de la votación, a aquel que obtuviese la mayor votación le será asignado el número de diputados de representación proporcional suficiente para alcanzar la mayoría absoluta de la Asamblea.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE ABRIL DE 2008)</small>
+
+d) De no aplicarse los supuestos anteriores, en ningún caso un partido político podrá contar con un número de diputados, por ambos principios, que represente un porcentaje del total de la Asamblea Legislativa que exceda en tres puntos a su porcentaje de votación total emitida, salvo que dicho límite se haya excedido como resultado de sus triunfos en distritos uninominales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 28 DE ABRIL DE 2008)</small>
 
 Los diputados a la Asamblea Legislativa no podrán ser reelectos para el período inmediato.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 28 DE ABRIL DE 2008)</small>
+
 Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio. Los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 28 DE ABRIL DE 2008)</small>
 
 Los diputados propietarios durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación, de los Estados o del Distrito Federal por los cuales se disfrute sueldo, sin licencia previa de la Asamblea Legislativa, pero entonces cesarán en sus funciones representativas mientras dure su nueva ocupación. La misma regla se observará con los diputados suplentes cuando estuviesen en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
@@ -1328,13 +1364,9 @@ IV. Cumplir los requisitos establecidos en las fracciones IV a X del artículo 5
 
 Los Jefes Delegacionales electos popularmente no podrán ser reelectos para el periodo inmediato. Las personas que por designación de la Asamblea Legislativa desempeñen ese cargo, no podrán ser electas para el periodo inmediato.
 
-(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 1999) (REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
-###### ARTÍCULO 106.
-
-La elección de los Jefes Delegacionales se realizará en la misma fecha en que sean electos los Diputados a la Asamblea Legislativa del Distrito Federal.
-
-Sólo los partidos políticos con registro nacional podrán registrar candidatos al cargo de Jefe Delegacional.
+###### ARTICULO 106.
 
 El encargo de los Jefes Delegacionales durará tres años, iniciando el primero de octubre del año de la elección.
 
@@ -1596,49 +1628,107 @@ Los Programas de Desarrollo Urbano serán formulados por el Jefe de Gobierno del
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 120.
 
-La renovación de las autoridades legislativa y ejecutiva de carácter local, así como de los titulares de los órganos político-administrativos de las demarcaciones territoriales, se realizará mediante elecciones libres, auténticas y periódicas. Son principios rectores de la función electoral en el Distrito Federal los de imparcialidad, legalidad, objetividad, certeza e independencia. La emisión del sufragio será universal, libre, secreta y directa.
+La renovación de las autoridades legislativa y ejecutiva de carácter local, así como de los titulares de los órganos político-administrativos de las demarcaciones territoriales, se realizará mediante elecciones libres, auténticas y periódicas. La jornada electoral se llevará a cabo el primer domingo de julio del año que corresponda.
+
+Son principios rectores de la función electoral en el Distrito Federal los de imparcialidad, legalidad, objetividad, certeza e independencia. La emisión del sufragio será universal, libre, secreta y directa.
+
+Las autoridades electorales del Distrito Federal solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señale la Ley.
+
+Los servidores públicos de los órganos Ejecutivo, Legislativo y Judicial de carácter local, de los órganos político-administrativos, de los organismos descentralizados y de los órganos autónomos del Distrito Federal, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+De igual modo, la propaganda que difunda cada uno de estos órganos bajo cualquier modalidad de comunicación social, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público o elementos que se relacionen con partido político alguno.
+
+La Ley establecerá las sanciones que correspondan por la violación de este precepto.
 
 (ADICIONADO [N. DE E. REUBICADO Y REFORMADA SU DENOMINACION] CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO II. DE LOS PARTIDOS POLITICOS
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 121.
 
-En las elecciones locales del Distrito Federal sólo podrán participar los partidos políticos con registro nacional. De acuerdo con las disponibilidades presupuestales, los partidos políticos recibirán, en forma equitativa, financiamiento público para su sostenimiento y contarán durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del sufragio universal. La ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+En las elecciones locales del Distrito Federal podrán participar tanto los partidos políticos con registro nacional, como los partidos políticos con registro local del Distrito Federal.
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+Para efectos del presente ordenamiento se considera:
+
+I. Partido Político Nacional, aquel que cuente con registro ante el Instituto Federal Electoral, y
+
+II. Partido Político Local del Distrito Federal, aquel que cuente con registro otorgado por el Instituto Electoral del Distrito Federal.
+
+Los partidos políticos locales se constituirán por ciudadanos del Distrito Federal, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación coaccionada. La Ley establecerá los requisitos que deberán cumplirse para el registro de un partido local, así como las causas de pérdida de registro.
+
+Los partidos políticos con registro nacional y los partidos políticos con registro local en el Distrito Federal tienen el derecho exclusivo para solicitar el registro de candidatos a cargos locales de elección popular.
+
+Salvo las disposiciones expresamente señaladas, la Ley reconocerá los mismos derechos y deberes para los partidos políticos con registro nacional y para los partidos políticos con registro local.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 122.
 
-La ley electoral propiciará condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social. Asimismo, fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos de las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; establecerá, asimismo, las sanciones por el incumplimiento a las disposiciones que se expidan en la materia.
+Con relación a los partidos políticos, la Ley señalará:
+
+I. Su derecho a recibir, de forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales, las reglas a que se sujetará este financiamiento, y la preeminencia de éste sobre el de origen privado;
+
+II. Los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuente, así como el establecimiento de sanciones por el incumplimiento a las disposiciones que se expidan en estas materias;
+
+III. Las bases para la coordinación entre el Instituto Federal Electoral y el Instituto Electoral del Distrito Federal en materia de fiscalización de las finanzas de los partidos, en los términos establecidos en el penúltimo párrafo de la Base V del artículo 41 de la Constitución;
+
+IV. Los límites a las erogaciones en sus precampañas y campañas. La suma total de aportaciones que realicen los simpatizantes no podrá exceder del 10 por ciento del tope de gastos de campaña que se determine para la elección de Jefe de Gobierno;
+
+V. Su derecho a acceder a la radio y la televisión, conforme a las normas establecidas por el apartado B de la Base III del artículo 41 de la Constitución;
+
+VI. Su derecho a conformar frentes, coaliciones y candidaturas comunes, conforme lo señale la Ley;
+
+VII. Las reglas para las precampañas y campañas electorales. Las campañas electorales no podrán durar más de noventa días para la elección de Jefe de Gobierno, ni más de sesenta días cuando sólo se elijan diputados a la Asamblea Legislativa y titulares de los órganos político-administrativos de las demarcaciones territoriales; y las precampañas electorales no podrán abarcar más de las dos terceras partes de la duración de las respectivas campañas;
+
+VIII. La obligación de que en la propaganda política o electoral que difundan, se abstengan de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas;
+
+IX. La información que deberán hacer pública para transparentar sus actividades y el origen y destino de sus recursos; así como el procedimiento para que los ciudadanos les soliciten información;
+
+X. Su derecho a salvaguardar la información relativa a su padrón de militantes y simpatizantes, así como el tipo de información considerada de carácter restringido;
+
+XI. El procedimiento para la liquidación de los partidos locales que pierdan su registro y el destino de sus bienes y remanentes, y
+
+XII. Las demás bases para la contribución de los partidos al fortalecimiento de la democracia a través de los procesos electorales en el Distrito Federal.
 
 (ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO III. DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 123.
 
-La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Electoral del Distrito Federal, dotado de personalidad jurídica y patrimonios propios, en cuya integración participan la Asamblea Legislativa, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley.
+La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Electoral del Distrito Federal, dotado de personalidad jurídica y patrimonio propios. En dicha organización participan los partidos políticos y los ciudadanos, en los términos que ordene la Ley.
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+Conforme a lo que establece la Constitución Política de los Estados Unidos Mexicanos en su artículo 122 Apartado C Base Primera fracción V inciso f), en relación al artículo 116 fracción IV inciso d), el Instituto Electoral del Distrito Federal podrá convenir con el Instituto Federal Electoral que este último se haga cargo de la organización de los procesos electorales locales en el Distrito Federal en los términos que establezca la Ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 124.
 
-El Instituto Electoral del Distrito Federal será autoridad en la materia electoral, independiente en sus decisiones, autónomo en su funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por un consejero Presidente y seis consejeros de la Asamblea Legislativa y los representantes de los partidos políticos; la ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Las disposiciones de la ley electoral y del Estatuto del Servicio Profesional Electoral, que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casillas estarán integradas por ciudadanos.
+El Instituto Electoral del Distrito Federal será autoridad en la materia electoral, independiente en sus decisiones, autónomo en su funcionamiento y profesional en su desempeño; sus decisiones serán tomadas de manera colegiada, procurando la generación de consensos para el fortalecimiento de su vida institucional. Contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+El Consejo General será su órgano superior de dirección y se integrará por siete consejeros electorales, uno de los cuales será su presidente, todos ellos tendrán derecho de voz y voto. También serán integrantes del Consejo General, con voz pero sin voto, los representantes de los partidos políticos y un integrante de cada grupo parlamentario con representación en la Asamblea Legislativa que serán aprobados por su Comisión de Gobierno. La Ley determinará las reglas para la organización y funcionamiento de los órganos, las relaciones de mando entre éstos, así como los lineamientos generales para elaborar el Estatuto del Servicio Profesional Electoral que una vez aprobado por el Consejo General, regirá las relaciones del Instituto con sus trabajadores. Los órganos de vigilancia del padrón electoral se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos.
+
+La fiscalización de las finanzas de los partidos políticos estará a cargo de una Unidad Técnica Especializada de Fiscalización, Órgano Técnico del Consejo General del Instituto Electoral, dotado de autonomía de gestión. La Ley desarrollará la integración y funcionamiento de dicho órgano, así como los procedimientos para la aplicación de sanciones por el Consejo General. En el cumplimiento de sus atribuciones la Unidad Técnica podrá dirigirse al órgano técnico contemplado en la Base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, a fin de superar las limitaciones impuestas por los secretos bancario, fiduciario y fiscal.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 125.
 
-El consejero Presidente y los consejeros electorales del Consejo General, serán elegidos sucesivamente, por el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, a propuesta de los grupos parlamentarios. Conforme al mismo procedimiento, se designarán tres consejeros electorales suplentes generales. La ley determinará la duración en el cargo así como las reglas y el procedimiento correspondientes. El consejero Presidente y los consejeros electorales durarán en su cargo siete años.
+Los Consejeros Electorales del Consejo General durarán en su encargo siete años, serán renovados en forma escalonada y no podrán ser reelectos. Serán elegidos sucesivamente por el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa a propuesta de los grupos parlamentarios, previa consulta realizada a instituciones académicas y organizaciones vinculadas con la materia electoral. La Ley determinará las reglas y el procedimiento correspondientes.
+
+Los propios Consejeros elegirán a uno de ellos como su Presidente, quien durará en el cargo dos años sin posibilidad de reelección.
+
+De darse la falta absoluta de alguno de los Consejeros, el sustituto será elegido por la Asamblea Legislativa para concluir el periodo de la vacante. El Consejo General contará con un Secretario Ejecutivo que será nombrado con el voto de las dos terceras partes de sus integrantes, a propuesta de su Presidente.
+
+Quienes hayan fungido como Consejero Presidente, Consejeros Electorales y Secretario Ejecutivo no podrán ocupar, dentro de los tres años siguientes a la fecha de su retiro, cargos en los poderes públicos en cuya elección hayan participado.
 
 (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1694,11 +1784,11 @@ La organización del Tribunal Electoral, su competencia, los procedimientos para
 
 La ley establecerá las normas para la administración, vigilancia y disciplina en el Tribunal Electoral del Distrito Federal, cuyos servidores en materia de responsabilidades estarán sujetos al régimen establecido en la ley de la materia.
 
-(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 132.
 
-Los magistrados electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, a propuesta del Tribunal Superior de Justicia del Distrito Federal. La ley señalará las reglas y el procedimiento correspondientes.
+Los Magistrados Electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, a propuesta del Tribunal Superior de Justicia del Distrito Federal. Su renovación se hará de manera escalonada. La Ley determinará las reglas y el procedimiento correspondientes para la designación.
 
 (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1710,11 +1800,13 @@ Los requisitos para ser magistrado electoral no podrán ser menores a los que se
 
 ### CAPITULO V. DE LOS MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL LOCAL Y DE LOS DELITOS ELECTORALES
 
-(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 134.
 
-La ley electoral establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Asimismo, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+La Ley electoral establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Asimismo, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+
+De igual forma, la Ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación, y fijará las causales concretas de nulidad de las elecciones de Jefe de Gobierno, diputados a la Asamblea Legislativa y titulares de los órganos político administrativos.
 
 (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -2000,7 +2092,7 @@ Las vacantes que por cualquier causa se presentaran serán cubiertas conforme al
 
 D.O.F. 14 DE OCTUBRE DE 1999.
 
-REPUBLICADO , G.O. 18 DE NOVIEMBRE DE 1999.
+REPUBLICADO, G.O. 18 DE NOVIEMBRE DE 1999.
 
 PRIMERO. Este decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación en todo lo referido a la elección directa de los titulares de los órganos político-administrativos de las demarcaciones territoriales. Las disposiciones relativas a la estructura, competencias y funcionamiento de dichos órganos, entrarán en vigor el 1 de octubre del año 2000.
 
@@ -2009,3 +2101,11 @@ SEGUNDO. La elección indirecta de los titulares de las Delegaciones del Distrit
 TERCERO. Todas las menciones, atribuciones y facultades conferidas por el presente Decreto, otras leyes y reglamentos a los Delegados, se entenderán referidas, a partir del 1 de octubre del año 2000, a los Jefes Delegacionales.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 28 DE ABRIL DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- La Asamblea Legislativa del Distrito Federal deberá realizar las adecuaciones en las leyes correspondientes, en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia del presente Decreto. Dentro del mismo plazo, deberá determinar el procedimiento y el número de Consejeros Electorales actualmente en funciones, que serán sujetos de la renovación escalonada a que hace mención el artículo 125 contenido en el presente Decreto.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
