@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2007-12-27"
+last_updated: "2008-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2008.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -99,7 +99,11 @@ I. Voluntariedad: La participación de los interesados en el método alternativo
 
 II. Confidencialidad: La información derivada de los procedimientos de los métodos alternativos no podrá ser divulgada, por lo que será intransferible e indelegable.
 
-Solo a petición de la Autoridad Ministerial y Judicial se podrá entregar las actuaciones derivadas de los procedimientos de los métodos alternativos, la cual se considera reservada para efectos de la Ley de transparencia y Acceso a la Información Pública del Estado de Jalisco;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+Sólo a petición de la autoridad ministerial y judicial se podrán entregar las actuaciones derivadas de los procedimientos de los métodos alternativos, los cuales se considerarán reservados para efectos de la Ley de Transparencia e Información Pública del estado de Jalisco;
 
 III. Flexibilidad: El procedimiento será susceptible de cambios o variaciones según las circunstancias o necesidades de los participantes;
 
@@ -113,7 +117,11 @@ VII. Legalidad: Sólo podrán ser objeto del procedimiento previsto en esta ley,
 
 VIII. Honestidad: El prestador del medio alterno deberá excusarse de participar cuando reconozca que sus capacidades, limitaciones o intereses personales pueden afectar el procedimiento;
 
-IX. Protección a los más vulnerables: En conciliación y mediación familiar, los convenios que se suscriban serán con arreglo a los derechos de las niñas. Niños (sic) y adolescentes e incapaces;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+IX. Protección a los más vulnerables: Los convenios finales se suscribirán observando adicionalmente los derechos de las niñas, niños, adolescentes, incapaces, adultos mayores e indígenas, según sea el caso;
 
 X. Economía: Los prestadores del servicio procurarán ahorrar tiempo y gastos a las partes;
 
@@ -125,11 +133,17 @@ XIV. Accesibilidad: Toda persona sin distinciones de origen étnico, sexo, edad,
 
 XV. Alternatividad: Procurará el conciliador proponer diversas soluciones al conflicto de manera que las partes tengan opción de escoger alguna alternativa conveniente para solucionar el conflicto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2008)</small>
+
 ###### Artículo 5.
 
-Los métodos alternos serán aplicables a todos los asuntos del orden civil susceptibles de convenio a transacción. Cuando el procedimiento pueda afectar intereses de terceros, éstos deberán ser llamados para la salvaguarda de sus derechos.
+Los métodos alternos serán aplicables a todos los asuntos del orden civil susceptibles de convenio o transacción. Cuando el procedimiento pueda afectar intereses de terceros, éstos deberán ser llamados para la salvaguarda de sus derechos.
 
-Los conflictos en los que se cuestionen derechos de menores o incapaces, podrán someterse a los métodos alternos por conducto de quienes ejerzan la patria potestad o tutela. El Convenio resultante deberá someterse a autorización judicial con intervención del Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], P.O. 29 DE ABRIL DE 2008)</small>
 
 En materia penal, no procederá el trámite del método alternativo, respecto a las siguientes conductas:
 
@@ -137,47 +151,127 @@ I. Código Penal para el Estado Libre y Soberano de Jalisco:
 
 a) Asociación delictuosa, artículo 120;
 
-b) Corrupción de menores, artículos 136,137 y 138;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) Pornografía infantil, artículo 136 bis;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+b) Corrupción de menores, artículos 142-A, 142-B y 142-C;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+c) Pornografía infantil, artículo 142-D;
 
 d) Lenocinio, artículos 139 y 141;
 
 e) Falsedad en declaraciones e informes dados a una autoridad, artículo 168;
 
-f) Prostitución infantil, artículos 174 bis y 174 ter;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+f) Prostitución infantil, artículos 142-F, 142-G y 142-H;
 
 g) De la suposición y supresión del estado civil, artículo 177;
 
 h) Violación, artículo 175 y 176;
 
-i) Tráfico de menores, artículo 179 bis;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-j) Secuestro, artículos 194 y 194 bis;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
-k) Extorsión, artículo 189;
+i) Robo de infante, artículo 179 párrafo cuarto;
 
-l) Homicidio, artículos 225 y 226;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-m) Parricidio, artículo 223;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
-n) Infanticidio, artículo 225 y 226;
+j) Tráfico de menores, artículo 179-Bis;
 
-o) Aborto, artículo 227 y 228;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-p) Robo equiparado, artículo 234, fracciones III a la VII, y último párrafo;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
-q) Robo, artículo 236, fracciones I, VII, IX, X, XI, XII y XIV;
+k) Secuestro, artículo 194 y 194-Bis;
 
-r) Administración fraudulenta, artículos 254 bis y 254 ter;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-s) Delitos cometidos por servidores públicos;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
-t) Delitos electorales;
+l) Extorsión y extorsión agravada, artículos 189 y 189-Bis;
 
-u) Delitos fiscales; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-v) Delitos ecológicos;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+m) Homicidio por culpa grave, artículo 48;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+n) Homicidio, simple intencional, en riña y calificado, artículos 213, 217 y 219;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+o) Parricidio, artículo 223;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+p) Infanticidio, artículos 225 y 226;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+q) Aborto, artículos 227 y 228;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+r) Robo y robo equiparado, artículos 234 fracciones III a la VII y último párrafo, y 236 fracciones I, VII, IX, X, XI, XII, XIV y XVI;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+s) Fraude, artículo 252 fracción XXIII;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+t) Administración fraudulenta, artículos 254-Bis y 254-Ter;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+u) Delitos cometidos por servidores públicos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+v) Delitos electorales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+w) Delitos fiscales, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+x) Delitos ecológicos;
 
 II. Ley Contra la Delincuencia Organizada:
 
@@ -195,13 +289,27 @@ Cuando el inculpado se encuentre privado de su libertad personal dentro del proc
 
 El arbitraje procederá conforme a lo establecido en los códigos civil y de procedimientos civiles del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+###### Artículo 5 Bis.
+
+Los conflictos en los que se cuestionen derechos de niños, adolescentes o incapaces, podrán someterse a los métodos alternos por conducto de quienes ejerzan la patria potestad o tutela.
+
+En los convenios que pongan fin al conflicto se notificará al agente de la Procuraduría Social cuando las peticiones sometidas a los métodos alternos puedan afectar intereses públicos, versen sobre la persona o bienes de menores o incapaces, o cuando tengan relación con los derechos o bienes de ausentes, a fin de que manifieste las consideraciones que estime pertinentes.
+
 ###### Artículo 6.
 
 Las partes tendrán los siguientes derechos:
 
 I. Tratándose de un centro privado, a elegir al prestador del servicio. En el caso de un centro público que preste servicios de solución de conflictos por métodos alternos, a que se les asigne uno de acuerdo al sistema que se tenga implementado;
 
-II. Recusar con justa causa y sin causa por una sola ocasión al prestador del servicio que les haya sido designado por las mismas causas que se prevé para los jueces conforme al Código de Procedimientos Civiles del Estado de Jalisco;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+II. Recusar con justa causa y sin causa por una sola ocasión al prestador del servicio que les haya sido designado por las mismas causas que se prevé para los jueces conforme al Código de Procedimientos Penales del estado de Jalisco;
 
 III. Intervenir personalmente en todas y cada una de las sesiones, excepto en los casos en que acepten que el otro participante celebre sesiones individuales con el prestador del servicio;
 
@@ -288,6 +396,12 @@ Los mediadores, conciliadores y árbitros que operen en las instituciones que pr
 ###### Artículo 15.
 
 Las cámaras empresariales, los colegios de profesionistas y los organismos estatal y municipales del Sistema (sic) Desarrollo Integral de la Familia, podrán funcionar como centros de resolución de conflictos a través de los medios alternos, en las áreas de su actividad, previa acreditación otorgada en los términos del artículo 13, salvo aquellos que tengan dichas facultades por disposición de la ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2008)</small>
+
+La Procuraduría Social desempeñará las funciones de mediación o conciliación conforme a lo previsto en su Ley Orgánica y la presente ley, sin necesidad de requerir acreditación ante el Instituto.
 
 ###### Artículo 16.
 
@@ -429,23 +543,27 @@ d) De Capacitación y Difusión; y
 
 V. Con el personal técnico y administrativo necesario y que el presupuesto permita.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
 ###### Artículo 27.
 
-El Director General será nombrado por el Congreso del Estado, mediante el voto de las dos terceras partes de los diputados presentes, y deberá reunir los requisitos que establece la Constitución Política del Estado para ser magistrado del Supremo Tribunal de Justicia.
+El Director General será nombrado por el Congreso del Estado, y deberá reunir los requisitos que establece la Constitución Política del Estado para ser magistrado del Supremo Tribunal de Justicia.
 
 El nombramiento del Director General del Instituto lo hará el Congreso del Estado de acuerdo al siguiente procedimiento:
 
-I. Para otorgar el nombramiento de presidente del Instituto, el Congreso deberá convocar a la sociedad en general, con excepción de los partidos políticos, para que propongan candidatos. Con la propuesta deberá entregarse el expediente que acredite el cumplimiento de los requisitos señalados en el párrafo primero;
+I. Para otorgar el nombramiento de Director General del Instituto, el Congreso, a través de la Comisión de Justicia, deberá convocar a la sociedad en general, con excepción de los partidos políticos, para que propongan candidatos. Con la propuesta deberá entregarse el expediente que acredite el cumplimiento de los requisitos señalados en el párrafo primero;
 
-II. La comisión legislativa que desahogue el procedimiento podrá aplicar a los candidatos exámenes de aptitud para reconocer su perfil profesional;
+II. La Comisión de Justicia podrá aplicar a los candidatos exámenes de aptitud para reconocer su perfil profesional;
 
-III. Serán sometidos a la consideración del Pleno del Congreso del Estado, la lista de todos los candidatos que cumplan con los requisitos del cargo;
+III. Será sometida a la consideración del pleno del Congreso del Estado la lista de todos los candidatos que cumplan con los requisitos del cargo;
 
 IV. El Director General será nombrado con el voto de cuando menos las dos terceras partes de los diputados presentes;
 
-V. El Director General durará en el cargo cuatro años, pudiendo ser reelecto por una sola ocasión, en igualdad de circunstancias con todos los aspirantes, para desempeñarlo por otro periodo igual; y
+V. El Director General durará en el cargo cuatro años, pudiendo ser reelecto por una sola ocasión, en igualdad de circunstancias con todos los aspirantes, para desempeñarlo por otro periodo igual, y
 
-VI. En caso de que el Congreso rechace la totalidad de los candidatos propuestos, se deberá realizar una nueva convocatoria que deberá aplicarse para proponer nuevos aspirantes; si también fuera rechazada, ocupará el cargo la persona que dentro de dichas listas hubiere obtenido mayor número de votos.
+VI. En caso de que el Congreso rechace la totalidad de los candidatos propuestos, se deberá realizar una nueva convocatoria que deberá aplicarse para proponer nuevos aspirantes; si también fuere rechazada, ocupará el cargo la persona que dentro de dichas listas hubiere obtenido mayor número de votos.
 
 ###### Artículo 28.
 
@@ -479,17 +597,25 @@ XIII. Elaborar el anteproyecto de presupuesto de egresos y presentarlo al Consej
 
 XIV. Sancionar los convenios que resuelvan los conflictos que se le presenten al Instituto y elevarlos a la categoría de sentencia ejecutoriada, una vez que cumplan con los requisitos establecidos por la Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
 ###### Artículo 29.
 
 El Consejo estará integrado de la siguiente manera:
 
 I. El Director General, quien lo presidirá;
 
-II. Un representante por cada uno de los tres poderes del estado; y
+II. Un representante del Poder Ejecutivo, que será el Gobernador o quien éste designe;
 
-II (SIC). Un representante del Consejo Económico y Social del Estado de Jalisco.
+III. Un representante del Poder Judicial, que será el Presidente del Supremo Tribunal de Justicia del estado de Jalisco, o quien éste designe;
 
-A propuesta de cualquier integrante se podrá invitar con derecho a voz, a instituciones públicas, sociales o privadas, o a personas que tengan que ver con el asunto a tratar.
+IV. Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Justicia y de Puntos Constitucionales, Estudios Legislativos y Reglamentos, y
+
+V. Un representante del Consejo Económico y Social del estado de Jalisco.
+
+A propuesta de cualquier integrante se podrá invitar, con derecho a voz, a instituciones públicas, sociales privadas, o a personas que tengan que ver con el asunto a tratar.
 
 ###### Artículo 30.
 
@@ -681,9 +807,13 @@ VIII. Nombre y firma del director del Centro o sede regional.
 
 La entrega de la invitación se podrá hacer por cualquier persona o medio cuando ello facilite la aceptación de la parte complementaria a acudir a la entrevista inicial.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2008)</small>
+
 ###### Artículo 52.
 
-De presentante (sic) algún inconveniente en la entrega de la invitación en los términos del artículo que antecede, el notificador se constituirá en el domicilio particular o sitio de localización de la parte complementaria para hacer entrega formal del original de la invitación en sobre cerrado.
+De presentarse algún inconveniente en la entrega de la invitación en los términos del artículo que antecede, el notificador se constituirá en el domicilio particular o sitio de localización de la parte complementaria para hacer entrega formal del original de la invitación en sobre cerrado.
 
 En caso de que la invitación sea recibida por un familiar, vecino o compañero de trabajo de la persona invitada, se asentará constancia de esta circunstancia para ser anexada al legajo correspondiente.
 
@@ -763,9 +893,19 @@ Los acuerdos que se propongan deberán ser viables, equitativos, legales y conve
 
 Las partes podrán solicitar al prestador un término hasta de tres días para tomar una decisión respecto de la aceptación, variación o rechazo del acuerdo propuesto en la sesión que se contiene en borrador.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
 ###### Artículo 62.
 
-Transcurrido el término a que se refiere el artículo 61 de esta ley, y aceptadas las sugerencias de solución, el prestador del servicio redactará el convenio final que deberá reunir los requisitos a que se refieren los artículos 60 y 63 de este ordenamiento legal y lo pondrá a consideración de las partes.
+Una vez concluido el plazo a que se refiere el artículo 61 de esta ley, el prestador del servicio solicitará ante el juez de primera instancia que corresponda la ratificación del convenio final, en una audiencia en la que concurran las partes y, en su caso, el agente de la Procuraduría Social, que deberá desahogarse dentro de un término máximo de cinco días.
+
+En caso de ser ratificado, el juez lo validará inmediatamente, siempre y cuando cumpla con los requisitos que establece esta ley, y lo notificará a las partes y al prestador del servicio con un ejemplar original del mismo, en la misma audiencia.
+
+Si el convenio final carece de los requisitos previstos por esta ley, se estará a lo dispuesto por el artículo 73 de la misma.
+
+Si alguna de las partes no ratificare el convenio final o se opusiere el agente de la Procuraduría Social en lo asuntos en los que éste pueda intervenir, el juez acordará inmediatamente en la misma audiencia la terminación del método alternativo y lo notificará en ese mismo momento a las partes y al prestador del servicio, entregándoles una copia del acuerdo respectivo.
 
 ###### Artículo 63.
 
@@ -781,9 +921,17 @@ IV.- Describir solo en caso necesario el conflicto y anexar el acuerdo inicial a
 
 V.- Especificar el contenido del acuerdo en forma clara y precisa, detallando las circunstancias de tiempo, modo y lugar en que se cumplirán con las obligaciones contraídas por cada una de las partes; y
 
-VI.- Contener la firma de quienes lo suscriben y del prestador de servicio para su ulterior validación u homologación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El convenio se levantará por escrito, entregándose un ejemplar a cada una de las partes, y conservándose uno en los archivos del Instituto de Justicia Alternativa o sede regional.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+VI. Contener la firma de quienes lo suscriben, del prestador de servicio y del juez que lo valide.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+El convenio se levantará por escrito, entregándose un ejemplar a cada una de las partes, y conservándose otro en los archivos de la entidad a la que pertenezca el prestador del servicio y otro tanto ante el juez que lo validó.
 
 ###### Artículo 64.
 
@@ -797,37 +945,59 @@ Las obligaciones de contenido ético o moral podrán constar en el convenio pero
 
 Cuando alguna de las partes no sepa o no pueda firmar, estamparán sus huellas dactilares, firmando a su ruego persona de su confianza, dejándose constancia de ello.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+
 ###### Artículo 67.
 
-El prestador del servicio y el abogado auxiliar, en su caso, vigilarán que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate.
+El juez ante quien se valide el convenio final vigilará que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate, y se cerciorará de que la suscripción del convenio se realiza libre de vicios en el consentimiento de las partes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 68.
 
-El prestador del servicio se cerciorará de que la firma del convenio se estampa libre de vicios en el consentimiento.
+(DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
 ###### Artículo 69.
 
 El convenio sólo deberá suscribirse cuando se trate de materia objeto de algún método alternativo de solución de conflictos y no podrá contener cláusulas que atenten contra el orden público o afecten derechos de terceros.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 70.
 
-Cuando el procedimiento inicial se halla (sic) llevado ante el Instituto, sede regional de aquel o un centro de resolución de conflictos, el convenio final del método alternativo será validado por el Director General del Instituto o alguno de los directores de las sedes regionales del propio Instituto.
+(DEROGADO, P.O. 29 DE ABRIL DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 71.
 
-El Instituto, las sedes regionales, por conducto de sus titulares o el juez de primera instancia resolverán respecto a la validación del convenio final del método alternativo dentro de los cinco días siguientes a su recepción.
+(DEROGADO, P.O. 29 DE ABRIL DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 ###### Artículo 72.
 
-Si el convenio puesto a la consideración de Instituto, sede regional reúne los requisitos para su validación, se elevará a la categoría de sentencia ejecutoria.
+El convenio final validado se considerará sentencia ejecutoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 ###### Artículo 73.
 
-Cuando el convenio final del método alternativo no reúna requisitos de fondo o de forma, el Instituto, sede regional o juez de primera instancia de oficio podrán prevenir a las partes y al prestador del servicio que actuó en el caso, para que dentro del término de tres días siguientes a su notificación subsanen las deficiencias señaladas.
+Cuando el convenio final del método alternativo no reúna requisitos que prevé esta ley, el juez ante quien se presente prevendrá a las partes y al prestador del servicio para que dentro de un plazo de cinco días, se subsanen las deficiencias señaladas.
+
+Si dentro del plazo señalado en el párrafo anterior no son solventados los requisitos y observaciones formuladas por el juez, éste acordará inmediatamente la improcedencia del convenio final.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 74.
 
-Si no se responde al requerimiento referido en el artículo anterior, o se hace de manera deficiente, el Instituto, sede regional o juez de primera instancia rechazará la homologación del convenio final del método alternativo, emitiendo para este efecto la declaración de improcedencia que corresponda.
+(DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
 ###### Artículo 75.
 
@@ -837,7 +1007,11 @@ Para la ejecución forzosa del convenio homologado se deberá de acudir al juez 
 
 El procedimiento de métodos alternos se tendrá por concluido en los siguientes casos:
 
-I. Por la suscripción del convenio final del método alternativo en el que se establezca la solución parcial o total del conflicto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+I. Cumplimiento del convenio final del método alternativo;
 
 II. Por conclusión del término señalado en esta ley para el desahogo del medio alterno;
 
@@ -845,9 +1019,17 @@ III. Por resolución motivada del prestador del servicio cuando alguno de los pa
 
 IV. Por resolución motivada del prestador del servicio cuando tenga conocimiento de un hecho o acto ilícito que derive del conflicto que se pretende someter al método alternativo o del acuerdo que pudiera celebrarse;
 
-V. Por decisión de alguna de las partes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Por que se hayan girado dos invitaciones a la parte complementaria y no se haya logrado su asistencia al Instituto o Centro de Mediación;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+V. Por decisión de alguna de las partes de no continuar con el procedimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+VI. Por la inasistencia de la parte complementaria al Instituto o centro de mediación, sin causa justificada, por dos ocasiones previa notificación correspondiente;
 
 VII. Cuando las partes hubieren aceptado participar en el procedimiento y alguno de ellos, o su representante, incurriere en desatención a tres citaciones sin causa justificada;
 
@@ -895,7 +1077,11 @@ El Instituto podrá aplicar las siguientes medidas disciplinarias a las partes y
 
 I. Amonestación.
 
-II. Multa de diez a veinticinco salarios mínimos vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique violar las reglas de de (sic) alguno de los medios de justicia alternativa establecidas en la ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+II. Multa de diez a veinticinco salarios mínimos vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique violar las reglas de alguno de los medios de justicia alternativa establecidas en la ley o incumpla las obligaciones que esta ley le impone, y
 
 III. Impedimento para actuar en la sesión, y en caso de reincidencia, además, doble del monto de la multa señalada en la fracción anterior si se tratare de abogado patrocinador de alguna de las partes.
 
@@ -913,7 +1099,11 @@ El Director General del instituto podrá sancionar al prestador del servicio con
 
 I. Amonestación;
 
-II. Multa de diez a veinticinco salarios mínimos vigentes en el área geográfica correspondiente, en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique realizar el servicio contrario a la ley, su reglamento o a los términos establecidos en el acuerdo que exista entre los mediados o a la cláusula de compromisoria;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+II. Multa de diez a veinticinco salarios mínimos vigentes en el área geográfica correspondiente, en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique realizar el servicio contrario a la ley, su reglamento o a los términos establecidos en la cláusula compromisoria o en el acuerdo que exista entre las partes;
 
 III. Suspensión para ejercer como prestador del servicio y del registro ante el Instituto de Mediación hasta por un plazo de seis meses, a quien:
 
@@ -929,9 +1119,13 @@ IV. La revocación de la certificación y registro en caso de reincidir, en algu
 
 Lo anterior sin perjuicio de la responsabilidades de orden penal y civil que les puedan ser exigidas por los afectados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2008)</small>
+
 ###### Artículo 88.
 
-El Director General del Instituto sancionará al Centro que hubiere incurrido en infracción a esta Ley o a sus disposiciones reglamentarias conforme a lo siguiente:
+El Director General del Instituto sancionará al director del centro que hubiere incurrido en infracción a esta ley o a sus disposiciones reglamentarias, conforme a lo siguiente:
 
 I. Multa de diez a veinticinco a salarios mínimos vigentes en mínimos vigentes (sic) en el área geográfica correspondientes en el momento de decretarse la sanción, al centro de mediación que incumpla notificar su cambio de domicilio ante el Instituto, no cuente con espacios acondicionados para la prestación del servicio o no atienda las recomendaciones del instituto;
 
@@ -1013,15 +1207,17 @@ Los recursos contemplados en el presente capitulo serán optativos para el parti
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
 
-PRIMERO. El presente decreto entrará en vigor el día 1º de mayo de 2008, previa su publicación en el periódico oficial El Estado de Jalisco.
+PRIMERO. (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
 SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el año fiscal 2008 contemplará las prevenciones financieras necesarias para la vigencia y aplicación del presente decreto. Se autoriza al Poder Ejecutivo del Estado a realizar todas las modificaciones presupuestarias para el debido cumplimiento del presente decreto.
 
 TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
 
-CUARTO. Los convenios que se celebren en municipios que no tengan instalada una sede regional del Instituto, será competente por acuerdo de las partes ya sea la sede regional más cercana, el Director General del Instituto o el juez de primera instancia del partido judicial que corresponda.
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
+
+CUARTO. (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1066,3 +1262,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 P.O. 27 DE DICIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE ABRIL DE 2008.
+
+ÚNICO. El decreto 21755 y el presente decreto entrarán en vigor simultáneamente el día 1. de enero de 2009, previa su publicación en el periódico oficial El Estado de Jalisco.
