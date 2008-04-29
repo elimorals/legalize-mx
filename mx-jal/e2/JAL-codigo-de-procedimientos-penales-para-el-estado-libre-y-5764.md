@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2007-02-22"
+last_updated: "2008-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -907,9 +907,11 @@ II. Cuando, aún pudiendo serlo, resulte imposible la prueba de la existencia de
 
 III. Cuando se encuentre extinguida; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Cuando se eleve a la categoría de sentencia ejecutoriada, el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco, salvo que se declare la nulidad del convenio final señalado.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+IV. Cuando se hubieren cumplido las obligaciones impuestas a las partes en el convenio final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del estado de Jalisco.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2007)</small>
 
@@ -2373,9 +2375,11 @@ VII. Cuando esté plenamente comprobado que, en favor del inculpado, existe algu
 
 VIII. Cuando en los casos de querella necesaria, el ofendido otorgue su perdón expresamente ante el juez o tribunal que conozca del asunto, con los requisitos que señala el artículo 73 del Código Penal; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX. Cuando se eleve a la categoría de sentencia ejecutoriada, el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+IX. Cuando se hubieren cumplido las obligaciones impuestas a las partes en el convenio final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2411,9 +2415,11 @@ I. Cuando la muerte del inculpado haya sido declarada erróneamente;
 
 II. Cuando se declare la nulidad del matrimonio que hubiese contraído el acusado con la ofendida de los delitos de rapto; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Cuando se declare la nulidad del convenio final a que se refiere la fracción IX del artículo 308 de este código.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+
+III. Cuando se declare la nulidad del convenio final del método alternativo de solución de conflictos.
 
 ## TITULO SEPTIMO. RECURSOS
 
@@ -3772,3 +3778,7 @@ P.O. 22 DE FEBRERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
 
 SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
+
+P.O. 29 DE ABRIL DE 2008.
+
+ÚNICO. El decreto 21755 y el presente decreto entrarán en vigor simultáneamente el día 1.° (sic) de enero de 2009, previa su publicación en el periódico oficial El Estado de Jalisco.
