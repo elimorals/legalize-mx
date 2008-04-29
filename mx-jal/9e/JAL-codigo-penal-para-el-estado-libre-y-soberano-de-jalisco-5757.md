@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2007-10-23"
+last_updated: "2008-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -912,6 +912,18 @@ La prescripción extingue la acción penal y la sanción o sanciones impuestas.
 La prescripción es personal y para que opere bastará el simple transcurso del tiempo señalado por la Ley.
 
 La prescripción será declarada de oficio o a petición de parte, en cualquier estado de procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
+
+###### Art. 79 Bis.
+
+Los plazos establecidos en este código conforme a los que opera la prescripción se considerarán suspendidos durante la ejecución del convenio final a que se refiere la Ley de Justicia Alternativa del estado de Jalisco.
+
+El cumplimiento de los convenios a los que se refiere el párrafo anterior dará lugar, en su caso, al archivo definitivo de la averiguación previa correspondiente o proceso instaurado. En caso de incumplimiento de las obligaciones contenidas en el convenio final del método alternativo, el procedimiento continuará a partir de la última actuación que conste en el expediente.
+
+No se podrá invocar en el proceso, dar lectura, ni incorporar como medio de prueba ningún antecedente contenido en el procedimiento del método alternativo.
 
 ### CAPITULO VIII. Prescripción de la acción penal
 
@@ -4520,3 +4532,7 @@ UNICO. El presente decreto entrará en vigor al día siguiente de su publicació
 P.O. 23 DE OCTUBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE ABRIL DE 2008.
+
+ÚNICO. El decreto 21755 y el presente decreto entrarán en vigor simultáneamente el día 1.º de enero de 2009, previa su publicación en el periódico oficial El Estado de Jalisco.
