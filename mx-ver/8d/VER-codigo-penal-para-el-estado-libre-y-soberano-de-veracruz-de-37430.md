@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2007-11-26"
+last_updated: "2008-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -665,7 +665,11 @@ Si lo decomisado consiste en sustancias nocivas o peligrosas, se destruirán a j
 
 Los objetos, incluyendo dinero o valores, que estén a disposición de las autoridades judiciales que no hayan sido ni puedan ser decomisados, y que en un lapso de un año a partir de la fecha en que fueron asegurados no sean solicitados por quien tenga derecho, se destinarán previo trámite incidental al Fondo Auxiliar para la Impartición de Justicia.
 
-Cuando los bienes asegurados estén a disposición de la autoridad investigadora y no hayan sido solicitados en el lapso de un año por quien tenga derecho, previo trámite judicial se destinarán al Fondo Auxiliar para la Impartición de Justicia.
+(NOTA: EL 3 DE JUNIO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2008, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE JUNIO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
+
+LOS BIENES MUEBLES ASEGURADOS QUE ESTÉN A DISPOSICIÓN DE LA AUTORIDAD INVESTIGADORA, CUYA RETENCIÓN NO SEA NECESARIA LEGALMENTE Y QUE NO HAYAN SIDO SOLICITADOS EN EL LAPSO DE SEIS MESES POR QUIEN TENGA DERECHO, POR ACUERDO DEL AGENTE DEL MINISTERIO PÚBLICO, SE ADJUDICARÁN AL FISCO DEL ESTADO, POR CONDUCTO DE LA SECRETARÍA QUE CORRESPONDA, PARA SU ENAJENACIÓN, REMATE, DONACIÓN O DESTRUCCIÓN. EL ACUERDO DE REFERENCIA SE PUBLICARÁ POR UNA SOLA VEZ EN LA GACETA OFICIAL DEL ESTADO, PARA QUE DENTRO DEL IMPRORROGABLE TÉRMINO DE CINCO DÍAS, QUIEN TENGA ALGÚN DERECHO, LO HAGA VALER ANTE LA REPRESENTACIÓN SOCIAL; TRANSCURRIDO EL PLAZO SIN RECLAMACIÓN ALGUNA, EL ACUERDO SURTIRÁ SUS EFECTOS LEGALES.
 
 ### CAPÍTULO XVI. APERCIBIMIENTO Y CAUCIÓN DE NO OFENDER
 
@@ -3242,3 +3246,9 @@ G.O. 26 DE NOVIEMBRE DE 2007.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones opuestas al presente decreto.
+
+G.O. 30 DE ABRIL DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
