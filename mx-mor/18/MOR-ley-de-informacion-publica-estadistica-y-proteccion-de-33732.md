@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2007-04-25"
+last_updated: "2008-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -931,9 +931,11 @@ El Sistema Estatal de Documentación y Archivo es una dependencia del Instituto 
 
 El Instituto Morelense de Información Pública y Estadística se integrará por tres consejeros, quienes elegirán al Consejero Presidente cada dos años de entre ellos mismos.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2008)</small>
+
 ###### Artículo 101.
 
-Los Consejeros serán electos por mayoría calificada del Pleno del Congreso. Para ello, se expedirá una convocatoria pública para recibir propuestas de la sociedad. Todos los propuestos que reúnan los requisitos exigidos por la ley serán entrevistados por la comisión legislativa correspondiente, la que seleccionará a seis candidatos para que comparezcan ante el Pleno a exponer su proyecto de trabajo. De entre ellos se elegirán a tres consejeros propietarios y a tres suplentes.
+Los Consejeros serán electos por mayoría calificada del Pleno del Congreso. Para ello se expedirá una convocatoria pública para recibir propuestas. Todos los aspirantes que reúnan los requisitos exigidos por la Ley serán entrevistados por la Junta Política y de Gobierno, ante la que acreditarán los requisitos que contenga la convocatoria respectiva.
 
 ###### Artículo 102.
 
@@ -1288,3 +1290,9 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado, para su publica
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 30 DE ABRIL DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos para efectos de lo dispuesto en los artículos 44 y 70, fracción XVII de la Constitución Política del Estado de Morelos.
