@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-04-21"
+last_updated: "2008-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -663,9 +663,15 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGION, CON RESIDENCIA EN SAN ANDRES CHOLULA, PUEBLA, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN, D.O.F. 14 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 18/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2008)</small>
 
-QUINTO.- Se contará con el Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares, dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
+QUINTO.- Se contará con:
+
+1. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
+
+2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
+
+Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
 
 SEXTO.- El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
 
@@ -856,3 +862,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Tribunales Unitarios del Sexto Circuito, con residencia en San Andrés Cholula, Puebla.
 
 TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 30 DE ABRIL DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
