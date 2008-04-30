@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2006-08-28"
+last_updated: "2008-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 852 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -279,7 +279,9 @@ Para el ejercicio de las funciones y despacho de los asuntos de su competencia, 
 
 I. Un Procurador General de Justicia;
 
-II. Cinco Subprocuradores Regionales: uno en la región norte, con residencia en Tuxpan; tres en la región centro con residencia en Xalapa-Enríquez, Veracruz y Córdoba; y, uno en la región sur, con residencia en Coatzacoalcos;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
+II. Siete Subprocuradores Regionales: dos en la Región Norte con residencia en Tantoyuca y Poza Rica respectivamente; cuatro en la Región Centro, con residencia en Xalapa-Enríquez, Córdoba, Veracruz y Cosamaloapan; y, uno en la Región Sur, con residencia en Coatzacoalcos;
 
 III. Un Subprocurador Especializado en asuntos Indígenas;
 
@@ -700,3 +702,15 @@ LICENCIADO MIGUEL ALEMÁN VELAZCO, GOBERNADOR DEL ESTADO.- RÚBRICA.
 G.O. 28 DE AGOSTO DE 2006.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 30 DE ABRIL DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Las Siete Subprocuradurías Regionales tendrán las denominaciones y competencia territorial siguientes: La Subprocuraduría Regional de Justicia Zona Norte-Tantoyuca ejercerá su función en el Primero, Segundo, Tercero, Cuarto y Quinto Distritos Judiciales; la Subprocuraduría Regional de Justicia Zona Norte-Poza Rica en el Sexto, Séptimo y Octavo Distritos Judiciales; La Subprocuraduría Regional de Justicia Zona Centro-Xalapa en el Noveno, Décimo, Décimo Primero y Duodécimo Distritos Judiciales; La Subprocuraduría Regional de Justicia Zona Centro- Córdoba en el Décimo Tercero, Décimo Cuarto, Décimo Quinto y Décimo Sexto Distritos Judiciales; La Subprocuraduría Regional de Justicia Zona Centro-Veracruz en el Décimo Séptimo Distrito Judicial; La Subprocuraduría Regional de Justicia Zona Centro- Cosamaloapan en el Décimo Octavo y Décimo Noveno Distritos Judiciales; y la Subprocuraduría Regional de Justicia Zona Sur-Coatzacoalcos en el Vigésimo y Vigésimo Primero Distritos Judiciales.
+
+TERCERO. Las Subprocuradurías Regionales que actualmente tramiten investigaciones ministeriales o asuntos relacionados con Agencias del Ministerio Público pertenecientes a Distritos Judiciales que se reubican a la creación de las nuevas suprocuradurías (sic), deberán de remitir de inmediato los expedientes correspondientes, previas anotaciones en los libros de control, así como todos los asuntos relacionados en estudio y los accesorios relativos.
+
+CUARTO. La Dirección General de Administración de la Procuraduría General de Justicia, gestionará la asignación de los recursos humanos y materiales que correspondan, ante la instancia competente, para la implementación y puesta en marcha inmediata de las nuevas subprocuradurías regionales creadas.
+
+QUINTO. Se derogan todas las demás disposiciones que se opongan al presente Decreto.
