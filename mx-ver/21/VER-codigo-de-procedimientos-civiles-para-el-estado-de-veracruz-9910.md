@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2008-02-01"
+last_updated: "2008-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -1431,6 +1431,32 @@ ARTICULO 206
 
 Las fianzas a que se refiere este Capítulo, se otorgarán ante el juez de los autos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE ABRIL DE 2008)</small>
+
+### CAPITULO VI. Del procedimiento de mediación o conciliación
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+
+ARTICULO 206 BIS
+
+Toda persona física o moral legalmente representada en los términos del presente Código, que tenga o enfrente un conflicto puede optar, por sí o por invitación de la autoridad, antes o durante el juicio, por iniciar el procedimiento de mediación o conciliación, en los términos de lo dispuesto por la Ley de Medios Alternativos para la Solución de Conflictos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave y su reglamento.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+
+ARTICULO 206 TER
+
+El procedimiento de mediación o conciliación no interrumpe la prescripción, caducidad, ni cualquier otro término judicial o plazo fijado en este Código, ni implica la suspensión del procedimiento que, en su caso, se hubiere iniciado.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+
+ARTICULO 206 QUATER
+
+Ante el incumplimiento del convenio que en su caso se hubiere celebrado en el Centro Estatal de Medios Alternativos para la Solución de Conflictos, en la Unidad Regional, en el organismo privado autorizado para mediar o conciliar o en cualquiera de los juzgados municipales autorizados en materia de mediación o conciliación por el Consejo de la Judicatura, se procederá a su ejecución ante el juez competente.
+
+Es juez competente el designado por las partes en el convenio y, en su defecto, el que esté conociendo del juicio, y en su caso, se estará a lo previsto en las reglas para la fijación de la competencia establecidas en este Código y, habiendo varios, el del número más bajo.
+
+Regirán las disposiciones relativas a la ejecución de convenios judiciales contenidas en este Código.
+
 ### CAPITULO I. De la demanda y contestación
 
 ARTICULO 207
@@ -1595,6 +1621,8 @@ ARTICULO 224
 
 Si las cuestiones controvertidas fueren puramente de derecho, que no estuviere sujeto a prueba, se señalará día y hora para la audiencia de alegatos.
 
+## TITULO SEXTO. DEL JUICIO
+
 ### CAPITULO II. Reglas generales sobre la prueba
 
 ARTICULO 225
@@ -1758,8 +1786,6 @@ Ni el término ordinario ni el extraordinario, podrán suspenderse ni ampliarse,
 ARTICULO 247
 
 Las diligencias de prueba sólo podrán practicarse dentro del término probatorio bajo pena de nulidad y responsabilidad del juez. Se exceptúan aquellas diligencias que, pedidas en tiempo legal, no pudieron practicarse por causas no imputables al interesado, o que provengan de caso fortuito, de fuerza mayor o dolo del colitigante; en estos casos, el juez, si lo cree prudente, podrá mandar concluirlas dando conocimiento de ellas a las partes y señalando al efecto un término prudente por una sola vez.
-
-## TITULO SEXTO. DEL JUICIO
 
 ### CAPITULO III. De la confesión
 
@@ -2375,6 +2401,10 @@ Para que las sentencias a que se refiere el artículo anterior produzca los efec
 
 > <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
 
+## TITULO SEXTO BIS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+
 ### CAPITULO I. De la ejecución
 
 ARTICULO 340
@@ -2459,9 +2489,47 @@ Cuando la ejecución se ejercite sobre cosa cierta y determinada o en especie, s
 
 Si la cosa ya no existe, se embargarán bienes que cubran su valor fijado por el ejecutante y los daños y perjuicios como en las demás ejecuciones, pudiendo ser moderada la cantidad por el juzgador. El ejecutado puede oponerse a los valores fijados, y rendir las pruebas que juzgue conveniente durante la tramitación del juicio.
 
-## TITULO SEXTO BIS
+###### ARTICULO 339
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+ARTICULO 339-A
+
+El procedimiento se suspenderá:
+
+I.- Cuando el Tribunal que conozca del Juicio no esté en posibilidad de funcionar, por causa de fuerza mayor.
+
+II.- Cuando una de las partes falleciere; le sobrevenga un estado de incapacidad mental y mientras se le nombre tutor, o en el caso de ausencia.
+
+III.- Cuando lo determine la Ley.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
+
+###### ARTICULO 339
+
+B
+
+Tan pronto como en autos aparezca una causa de suspensión o sea denunciada y probada por parte interesada, el Juez decretará la suspensión, expresando en su determinación el día desde el cual deba contarse y aquel en que deba terminar.
+
+Cuando llegue el día señalado para que termine la suspensión y subsistan los motivos de la misma, el Juez podrá prorrogarla en términos del párrafo anterior.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
+
+###### ARTICULO 339
+
+CULO 339-C
+
+Con excepción de las medidas urgentes y de aseguramiento, todo acto procesal, verificado durante la suspensión, es ineficaz, sin que sea necesario pedir ni declarar la nulidad.
+
+El tiempo de la suspensión no se computa en ningún término.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
+
+###### ARTICULO 339
+
+D
+
+En caso de la primera hipótesis de la fracción II del artículo 339-A, la suspensión durará el tiempo indispensable para que se apersone en el juicio el representante de la sucesión, mismo que no pasará de sesenta días naturales, pasado el cual se seguirá el negocio con el Ministerio Público.
+
+## TITULO SEPTIMO. DE LA EJECUCION, DE LA VIA DE APREMIO Y DE LOS EMBARGOS
 
 ### CAPITULO II. De la vía de apremio
 
@@ -2618,48 +2686,6 @@ Los términos fijados en el artículo anterior, se contarán desde la fecha de l
 ARTICULO 378
 
 Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
-
-###### ARTICULO 339
-
-ARTICULO 339-A
-
-El procedimiento se suspenderá:
-
-I.- Cuando el Tribunal que conozca del Juicio no esté en posibilidad de funcionar, por causa de fuerza mayor.
-
-II.- Cuando una de las partes falleciere; le sobrevenga un estado de incapacidad mental y mientras se le nombre tutor, o en el caso de ausencia.
-
-III.- Cuando lo determine la Ley.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
-
-###### ARTICULO 339
-
-B
-
-Tan pronto como en autos aparezca una causa de suspensión o sea denunciada y probada por parte interesada, el Juez decretará la suspensión, expresando en su determinación el día desde el cual deba contarse y aquel en que deba terminar.
-
-Cuando llegue el día señalado para que termine la suspensión y subsistan los motivos de la misma, el Juez podrá prorrogarla en términos del párrafo anterior.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
-
-###### ARTICULO 339
-
-CULO 339-C
-
-Con excepción de las medidas urgentes y de aseguramiento, todo acto procesal, verificado durante la suspensión, es ineficaz, sin que sea necesario pedir ni declarar la nulidad.
-
-El tiempo de la suspensión no se computa en ningún término.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
-
-###### ARTICULO 339
-
-D
-
-En caso de la primera hipótesis de la fracción II del artículo 339-A, la suspensión durará el tiempo indispensable para que se apersone en el juicio el representante de la sucesión, mismo que no pasará de sesenta días naturales, pasado el cual se seguirá el negocio con el Ministerio Público.
-
-## TITULO SEPTIMO. DE LA EJECUCION, DE LA VIA DE APREMIO Y DE LOS EMBARGOS
 
 ### CAPITULO III. De los embargos
 
@@ -3305,98 +3331,6 @@ ARTICULO 479
 
 El juez debe compeler a los árbitros para que cumplan con sus obligaciones.
 
-### CAPITULO UNICO. ARTICULO 480
-
-En un juicio seguido por dos o más personas pueden venir uno o más terceros, siempre que tenga interés propio y distinto al del actor o reo en la materia del juicio.
-
-ARTICULO 481
-
-La tercería deberá deducirse en los términos prescritos para formular una demanda ante el juez que conoce del juicio.
-
-ARTICULO 482
-
-Las tercerías que se deduzcan en el juicio, se substanciarán en la misma forma que él.
-
-ARTICULO 483
-
-Las tercerías coadyuvantes, pueden oponerse en el juicio, sea cual fuere la acción que se ejercite y cualquiera que sea el estado en que éste se encuentre, con tal que aún no se haya pronunciado sentencia que cause ejecutoria.
-
-ARTICULO 484
-
-Los terceros coadyuvantes se consideran asociados a la parte cuyo derecho coadyuvan y, en consecuencia, podrán:
-
-I.- Salir al pleito en cualquier estado en que se encuentre, con tal de que no se haya pronunciado sentencia que cause ejecutoria;
-
-II.- Hacer las gestiones que estimen oportunas dentro del juicio, siempre que no deduciendo la misma acción u oponiendo la misma excepción que el actor o que el reo, respectivamente, no hubieren designado representante común;
-
-III.- Continuar su acción y defensa aun cuando el principal se desistiere;
-
-IV.- Apelar e interponer los recursos procedentes.
-
-ARTICULO 485
-
-El demandado debe denunciar el pleito al obligado a la evicción, antes de la contestación de la demanda, solicitándolo así del juez, quien, según las circunstancias, ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo. El tercero obligado a la evicción, una vez salido al pleito, se convierte en principal.
-
-ARTICULO 486
-
-De la primera petición que haga el tercero coadyuvante, cuando venga al juicio, se correrá traslado a los litigantes, con excepción del caso previsto en el artículo anterior.
-
-ARTICULO 487
-
-Las tercerías excluyentes de dominio deben fundarse en el dominio que sobre los bienes en cuestión o sobre la acción que se ejercita alega el tercero.
-
-No puede interponer tercería excluyente de dominio aquél que consintió en la constitución del gravamen o del derecho real en garantía de la obligación del demandado.
-
-ARTICULO 488
-
-La tercería excluyente de preferencia debe fundarse en el mejor derecho que el tercero deduzca para ser pagado.
-
-ARTICULO 489
-
-Con la demanda de tercería excluyente, deberá presentarse el título en que se funde, sin cuyo requisito se desechará de plano.
-
-ARTICULO 490
-
-No pueden ocurrir en tercería de preferencia:
-
-I.- El acreedor que tenga hipoteca u otro derecho real accesorio en finca distinta a la embargada;
-
-II.- El acreedor que, sin tener derecho real, no haya embargado el bien objeto de la ejecución;
-
-III.- El acreedor a quien el deudor señale bienes bastantes a solventar el crédito;
-
-IV.- El acreedor a quien la ley lo prohiba en otros casos.
-
-ARTICULO 491
-
-El tercer excluyente de crédito hipotecario, tiene derecho a pedir que el depósito se haga por su cuenta, sin acumularse las actuaciones.
-
-ARTICULO 492
-
-Las tercerías excluyentes, pueden oponerse en todo negocio, cualquiera que sea su estado, con tal de que si son de dominio no se haya dado posesión de los bienes al rematante o al actor, en su caso, por vía de adjudicación, y que, si son de preferencia, no se haya hecho el pago al demandante.
-
-ARTICULO 493
-
-Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen. Si fueren de dominio, el juicio principal seguirá sus trámites hasta antes del remate y desde entonces se suspenderán sus procedimientos hasta que se decida la tercería. Entretanto se decide ésta, se depositará a disposición del juez el precio de la venta.
-
-ARTICULO 494
-
-Si el actor y el demandado aceptaren la demanda de tercería, el juez, sin más trámites, mandará cancelar los embargos, si fuere excluyente de dominio, y dictará sentencia si fuere de preferencia.
-
-Lo mismo hará cuando ambos dejaren de contestar a la demanda de tercería.
-
-ARTICULO 495
-
-Cuando se presenten tres o más acreedores que hicieren oposición, si estuvieren conformes, se seguirá un solo juicio, graduando en una sola sentencia sus créditos; pero si no lo estuvieren, se seguirá el juicio de concurso necesario de acreedores.
-
-ARTICULO 496
-
-Si fueren varios los opositores, reclamando el dominio, se procederá en cualquier caso que sea a decidir incidentalmente la controversia, en unión del ejecutante y del ejecutado.
-
-ARTICULO 497
-
-Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor con los bienes no comprendidos en la misma tercería.
-
 ## TITULO SEPTIMO BIS. DEL JUICIO HIPOTECARIO
 
 > <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
@@ -3611,6 +3545,100 @@ Los gastos y costas del juicio se regirán por las disposiciones contenidas en e
 
 ## TITULO OCTAVO. DEL JUICIO ARBITRAL
 
+### CAPITULO UNICO. ARTICULO 480
+
+En un juicio seguido por dos o más personas pueden venir uno o más terceros, siempre que tenga interés propio y distinto al del actor o reo en la materia del juicio.
+
+ARTICULO 481
+
+La tercería deberá deducirse en los términos prescritos para formular una demanda ante el juez que conoce del juicio.
+
+ARTICULO 482
+
+Las tercerías que se deduzcan en el juicio, se substanciarán en la misma forma que él.
+
+ARTICULO 483
+
+Las tercerías coadyuvantes, pueden oponerse en el juicio, sea cual fuere la acción que se ejercite y cualquiera que sea el estado en que éste se encuentre, con tal que aún no se haya pronunciado sentencia que cause ejecutoria.
+
+ARTICULO 484
+
+Los terceros coadyuvantes se consideran asociados a la parte cuyo derecho coadyuvan y, en consecuencia, podrán:
+
+I.- Salir al pleito en cualquier estado en que se encuentre, con tal de que no se haya pronunciado sentencia que cause ejecutoria;
+
+II.- Hacer las gestiones que estimen oportunas dentro del juicio, siempre que no deduciendo la misma acción u oponiendo la misma excepción que el actor o que el reo, respectivamente, no hubieren designado representante común;
+
+III.- Continuar su acción y defensa aun cuando el principal se desistiere;
+
+IV.- Apelar e interponer los recursos procedentes.
+
+ARTICULO 485
+
+El demandado debe denunciar el pleito al obligado a la evicción, antes de la contestación de la demanda, solicitándolo así del juez, quien, según las circunstancias, ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo. El tercero obligado a la evicción, una vez salido al pleito, se convierte en principal.
+
+ARTICULO 486
+
+De la primera petición que haga el tercero coadyuvante, cuando venga al juicio, se correrá traslado a los litigantes, con excepción del caso previsto en el artículo anterior.
+
+ARTICULO 487
+
+Las tercerías excluyentes de dominio deben fundarse en el dominio que sobre los bienes en cuestión o sobre la acción que se ejercita alega el tercero.
+
+No puede interponer tercería excluyente de dominio aquél que consintió en la constitución del gravamen o del derecho real en garantía de la obligación del demandado.
+
+ARTICULO 488
+
+La tercería excluyente de preferencia debe fundarse en el mejor derecho que el tercero deduzca para ser pagado.
+
+ARTICULO 489
+
+Con la demanda de tercería excluyente, deberá presentarse el título en que se funde, sin cuyo requisito se desechará de plano.
+
+ARTICULO 490
+
+No pueden ocurrir en tercería de preferencia:
+
+I.- El acreedor que tenga hipoteca u otro derecho real accesorio en finca distinta a la embargada;
+
+II.- El acreedor que, sin tener derecho real, no haya embargado el bien objeto de la ejecución;
+
+III.- El acreedor a quien el deudor señale bienes bastantes a solventar el crédito;
+
+IV.- El acreedor a quien la ley lo prohiba en otros casos.
+
+ARTICULO 491
+
+El tercer excluyente de crédito hipotecario, tiene derecho a pedir que el depósito se haga por su cuenta, sin acumularse las actuaciones.
+
+ARTICULO 492
+
+Las tercerías excluyentes, pueden oponerse en todo negocio, cualquiera que sea su estado, con tal de que si son de dominio no se haya dado posesión de los bienes al rematante o al actor, en su caso, por vía de adjudicación, y que, si son de preferencia, no se haya hecho el pago al demandante.
+
+ARTICULO 493
+
+Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen. Si fueren de dominio, el juicio principal seguirá sus trámites hasta antes del remate y desde entonces se suspenderán sus procedimientos hasta que se decida la tercería. Entretanto se decide ésta, se depositará a disposición del juez el precio de la venta.
+
+ARTICULO 494
+
+Si el actor y el demandado aceptaren la demanda de tercería, el juez, sin más trámites, mandará cancelar los embargos, si fuere excluyente de dominio, y dictará sentencia si fuere de preferencia.
+
+Lo mismo hará cuando ambos dejaren de contestar a la demanda de tercería.
+
+ARTICULO 495
+
+Cuando se presenten tres o más acreedores que hicieren oposición, si estuvieren conformes, se seguirá un solo juicio, graduando en una sola sentencia sus créditos; pero si no lo estuvieren, se seguirá el juicio de concurso necesario de acreedores.
+
+ARTICULO 496
+
+Si fueren varios los opositores, reclamando el dominio, se procederá en cualquier caso que sea a decidir incidentalmente la controversia, en unión del ejecutante y del ejecutado.
+
+ARTICULO 497
+
+Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor con los bienes no comprendidos en la misma tercería.
+
+## TITULO NOVENO. DE LAS TERCERIAS
+
 ### CAPITULO UNICO. ARTICULO 498
 
 Cuando ambos cónyuges convengan en divorciarse y sean menores de edad, tengan hijos o no hayan liquidado la sociedad conyugal, si bajo ese régimen se casaron, acudirán ante el juez de su domicilio para completar su personalidad, fijar la situación en que deban quedar los hijos y liquidar y dividir los bienes de la sociedad.
@@ -3639,7 +3667,7 @@ TITULO DECIMOPRIMERO
 
 DEL CAMBIO DE NOMBRE
 
-## TITULO NOVENO. DE LAS TERCERIAS
+## TITULO DECIMO. DEL DIVORCIO POR MUTUO CONSENTIMIENTO
 
 ### CAPITULO UNICO. ARTICULO 503
 
@@ -3660,8 +3688,6 @@ TITULO DECIMOSEGUNDO
 DE LOS RECURSOS Y DE LA REVISION DE OFICIO
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
-
-## TITULO DECIMO. DEL DIVORCIO POR MUTUO CONSENTIMIENTO
 
 ### CAPITULO I. De la revocación, reposición, apelación y la revisión de oficio
 
@@ -3949,96 +3975,6 @@ ARTICULO 548
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas; si no lo presentare lo hará el síndico.
 
-### CAPITULO II. De la rectificación y graduación de créditos
-
-ARTICULO 549
-
-Todo acreedor podrá hasta tres días antes de la fecha designada para la reunión de la junta, presentarse por escrito, observando todos o alguno de los créditos reconocidos por el deudor o denunciando cualquier acto culpable o fraudulento del mismo, ofreciendo con precisión las pruebas de su dicho. Todo acreedor que no haya sido incluído en el estado presentado por el deudor, podrá presentarse al juzgado dentro del término fijado en la fracción VI del artículo 544 expresando el monto, origen y naturaleza de su crédito y acompañando, en su caso, la prueba de sus afirmaciones.
-
-Los acreedores pueden examinar los papeles y documentos del concursado en la secretaría, antes de la rectificación de créditos.
-
-ARTICULO 550
-
-La junta de rectificación y graduación será presidida por el juez, procediéndose al examen de los créditos, previa lectura por el síndico de un breve informe sobre el estado general activo y pasivo y de los documentos que prueben la existencia de cada uno de ellos. En este informe del síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le haya corrido traslado.
-
-En el informe deberá también clasificar los créditos de acuerdo con sus privilegios, según el Código Civil.
-
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
-
-ARTICULO 551
-
-Si el Síndico no presentare el informe al principiar la Junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele además, una multa de hasta el equivalente a diez días del salario mínimo general vigente en la Capital del Estado durante el mes de enero del año que corresponda.
-
-ARTICULO 552
-
-El acreedor cuyo crédito no resultare del estado, libros o papeles del deudor, será admitido en la junta, siempre que dentro del término fijado en la fracción VI del artículo 544 haya presentado al juzgado los justificantes del mismo.
-
-El concursado podrá asistir, por sí o por apoderado, a toda junta que se celebre, debiendo siempre notificársele por correo.
-
-ARTICULO 553
-
-Los acreedores podrán hacerse representar por apoderado o procurador, siendo bastante también el poder ordinario de administración. Las mayorías se computarán por capital; pero quien represente a más de un acreedor sólo podrán tener cinco votos como máximo.
-
-ARTICULO 554
-
-Si el crédito no es objetado se tendrá por bueno y verdadero y se inscribirá en la lista de créditos reconocidos.
-
-Esa lista contendrá los nombres de los acreedores e importe de cada crédito. El crédito verificado puede ser objetado por cualquier acreedor a su costa, siguiéndose, por cuerda separada, el trámite establecido para los incidentes.
-
-ARTICULO 555
-
-Si uno o más de los créditos admitidos por la mayoría, fuesen objetados por el deudor, por el síndico o por alguno de los acreedores, se tendrán por verificados provisionalmente, sin perjuicio de que en incidente y por cuerda separada, pueda seguirse la cuestión sobre legitimidad del crédito.
-
-Si los objetantes fuesen acreedores, ellos deberán seguir el incidente a su costa sin perjuicio de ser indemnizados hasta la concurrencia de la suma en que su gestión hubiere enriquecido su concurso.
-
-ARTICULO 556
-
-Los acreedores que no presenten los documentos justificativos de sus créditos, no serán admitidos a la masa sin que preceda la rectificación de sus créditos, que se hará judicialmente a su costa, por cuerda separada y en incidente. Sólo tomarán parte en los dividendos que estuviesen aún por hacerse en el momento de presentar su reclamación, sin que les sea admitido en ningún caso reclamar su parte en los dividendos anteriores.
-
-Si cuando se presenten los acreedores morosos a reclamar sus créditos, estuviese ya repartida la masa de bienes, no serán oídos, salvo su acción personal contra el deudor, la cual debe reservárseles.
-
-ARTICULO 557
-
-Si en la primera reunión no fuere posible rectificar todos los créditos presentados, el juez suspenderá la audiencia para continuarla al día siguiente, haciéndolo constar en el acta sin necesidad de una nueva convocatoria.
-
-ARTICULO 558
-
-En la misma junta, una vez terminada la rectificación y graduación, los acreedores por mayoría de créditos y las personas asistentes a la junta, designarán síndico definitivo. En su defecto lo designará el juez.
-
-Podrán también, por unanimidad y a solicitud del concursado, celebrar arreglos con éste o pedir todos los acreedores comunes cuyos créditos hayan sido verificados la adjudicación en copropiedad de los bienes del concursado, dándole carta de pago a éste y debiendo pagar previamente las costas y los créditos privilegiados.
-
-Si el deudor común se opusiere, se substanciará la oposición incidentalmente.
-
-ARTICULO 559
-
-Después de esta junta y en ausencia de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado y el juez mandará hacer la de los muebles conforme a lo prevenido en el artículo 441, sirviendo de base para la venta el que conste en inventario, con un quebranto de veinte por ciento. Si no hubiere valor en los inventarios, se mandará tasar por un corredor titulado si lo hubiere y, en su defecto, por comerciante acreditado. Los inmuebles se sacarán a remate conforme a las reglas respectivas, nombrando el juez el perito valuador.
-
-ARTICULO 560
-
-El producto de los bienes se distribuirá proporcionalmente entre los acreedores, de acuerdo con su privilegio y graduación.
-
-Si al efectuarse la distribución hubiere algún crédito pendiente de verificarse, su dividendo se depositará en el establecimiento destinado al efecto por la ley, hasta la resolución definitiva del juicio.
-
-La Hacienda Pública no entra en los concursos. En consecuencia, asegurados los intereses que persiga, responderá ante los tribunales por las reclamaciones que se le hagan contra la legitimidad de su procedimiento o la preferencia en los pagos de sus créditos.
-
-ARTICULO 561
-
-El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
-
-Si antes de establecido el derecho de preferencia de algún acreedor se distribuyera un dividendo, se considerará como acreedor común, reservándose el precio del bien afectado, hasta la concurrencia del importe de su crédito por si esa preferencia quedase reconocida.
-
-ARTICULO 562
-
-Cuando se hubiere pagado íntegramente a los acreedores, celebrado convenio o adjudicado los bienes del concurso, se dará éste por terminado. Si el precio en que se vendiere no bastare a cubrir todos los créditos, se reservarán los derechos de los acreedores para cuando el deudor mejore de fortuna.
-
-ARTICULO 563
-
-Los acreedores listados en el estado del deudor o que presentaren sus documentos justificativos, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer al juez y a la junta de acreedores en su oportunidad, las observaciones que estimen pertinentes.
-
-ARTICULO 564
-
-Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, tercera parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
-
 ###### ARTICULO 542
 
 ARTICULO 542-A
@@ -4178,6 +4114,96 @@ Contra la resolución que se dicte, procederá la apelación en ambos efectos.
 TITULO DECIMOCUARTO
 
 DE LOS CONCURSOS
+
+### CAPITULO II. De la rectificación y graduación de créditos
+
+ARTICULO 549
+
+Todo acreedor podrá hasta tres días antes de la fecha designada para la reunión de la junta, presentarse por escrito, observando todos o alguno de los créditos reconocidos por el deudor o denunciando cualquier acto culpable o fraudulento del mismo, ofreciendo con precisión las pruebas de su dicho. Todo acreedor que no haya sido incluído en el estado presentado por el deudor, podrá presentarse al juzgado dentro del término fijado en la fracción VI del artículo 544 expresando el monto, origen y naturaleza de su crédito y acompañando, en su caso, la prueba de sus afirmaciones.
+
+Los acreedores pueden examinar los papeles y documentos del concursado en la secretaría, antes de la rectificación de créditos.
+
+ARTICULO 550
+
+La junta de rectificación y graduación será presidida por el juez, procediéndose al examen de los créditos, previa lectura por el síndico de un breve informe sobre el estado general activo y pasivo y de los documentos que prueben la existencia de cada uno de ellos. En este informe del síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le haya corrido traslado.
+
+En el informe deberá también clasificar los créditos de acuerdo con sus privilegios, según el Código Civil.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+
+ARTICULO 551
+
+Si el Síndico no presentare el informe al principiar la Junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele además, una multa de hasta el equivalente a diez días del salario mínimo general vigente en la Capital del Estado durante el mes de enero del año que corresponda.
+
+ARTICULO 552
+
+El acreedor cuyo crédito no resultare del estado, libros o papeles del deudor, será admitido en la junta, siempre que dentro del término fijado en la fracción VI del artículo 544 haya presentado al juzgado los justificantes del mismo.
+
+El concursado podrá asistir, por sí o por apoderado, a toda junta que se celebre, debiendo siempre notificársele por correo.
+
+ARTICULO 553
+
+Los acreedores podrán hacerse representar por apoderado o procurador, siendo bastante también el poder ordinario de administración. Las mayorías se computarán por capital; pero quien represente a más de un acreedor sólo podrán tener cinco votos como máximo.
+
+ARTICULO 554
+
+Si el crédito no es objetado se tendrá por bueno y verdadero y se inscribirá en la lista de créditos reconocidos.
+
+Esa lista contendrá los nombres de los acreedores e importe de cada crédito. El crédito verificado puede ser objetado por cualquier acreedor a su costa, siguiéndose, por cuerda separada, el trámite establecido para los incidentes.
+
+ARTICULO 555
+
+Si uno o más de los créditos admitidos por la mayoría, fuesen objetados por el deudor, por el síndico o por alguno de los acreedores, se tendrán por verificados provisionalmente, sin perjuicio de que en incidente y por cuerda separada, pueda seguirse la cuestión sobre legitimidad del crédito.
+
+Si los objetantes fuesen acreedores, ellos deberán seguir el incidente a su costa sin perjuicio de ser indemnizados hasta la concurrencia de la suma en que su gestión hubiere enriquecido su concurso.
+
+ARTICULO 556
+
+Los acreedores que no presenten los documentos justificativos de sus créditos, no serán admitidos a la masa sin que preceda la rectificación de sus créditos, que se hará judicialmente a su costa, por cuerda separada y en incidente. Sólo tomarán parte en los dividendos que estuviesen aún por hacerse en el momento de presentar su reclamación, sin que les sea admitido en ningún caso reclamar su parte en los dividendos anteriores.
+
+Si cuando se presenten los acreedores morosos a reclamar sus créditos, estuviese ya repartida la masa de bienes, no serán oídos, salvo su acción personal contra el deudor, la cual debe reservárseles.
+
+ARTICULO 557
+
+Si en la primera reunión no fuere posible rectificar todos los créditos presentados, el juez suspenderá la audiencia para continuarla al día siguiente, haciéndolo constar en el acta sin necesidad de una nueva convocatoria.
+
+ARTICULO 558
+
+En la misma junta, una vez terminada la rectificación y graduación, los acreedores por mayoría de créditos y las personas asistentes a la junta, designarán síndico definitivo. En su defecto lo designará el juez.
+
+Podrán también, por unanimidad y a solicitud del concursado, celebrar arreglos con éste o pedir todos los acreedores comunes cuyos créditos hayan sido verificados la adjudicación en copropiedad de los bienes del concursado, dándole carta de pago a éste y debiendo pagar previamente las costas y los créditos privilegiados.
+
+Si el deudor común se opusiere, se substanciará la oposición incidentalmente.
+
+ARTICULO 559
+
+Después de esta junta y en ausencia de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado y el juez mandará hacer la de los muebles conforme a lo prevenido en el artículo 441, sirviendo de base para la venta el que conste en inventario, con un quebranto de veinte por ciento. Si no hubiere valor en los inventarios, se mandará tasar por un corredor titulado si lo hubiere y, en su defecto, por comerciante acreditado. Los inmuebles se sacarán a remate conforme a las reglas respectivas, nombrando el juez el perito valuador.
+
+ARTICULO 560
+
+El producto de los bienes se distribuirá proporcionalmente entre los acreedores, de acuerdo con su privilegio y graduación.
+
+Si al efectuarse la distribución hubiere algún crédito pendiente de verificarse, su dividendo se depositará en el establecimiento destinado al efecto por la ley, hasta la resolución definitiva del juicio.
+
+La Hacienda Pública no entra en los concursos. En consecuencia, asegurados los intereses que persiga, responderá ante los tribunales por las reclamaciones que se le hagan contra la legitimidad de su procedimiento o la preferencia en los pagos de sus créditos.
+
+ARTICULO 561
+
+El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
+
+Si antes de establecido el derecho de preferencia de algún acreedor se distribuyera un dividendo, se considerará como acreedor común, reservándose el precio del bien afectado, hasta la concurrencia del importe de su crédito por si esa preferencia quedase reconocida.
+
+ARTICULO 562
+
+Cuando se hubiere pagado íntegramente a los acreedores, celebrado convenio o adjudicado los bienes del concurso, se dará éste por terminado. Si el precio en que se vendiere no bastare a cubrir todos los créditos, se reservarán los derechos de los acreedores para cuando el deudor mejore de fortuna.
+
+ARTICULO 563
+
+Los acreedores listados en el estado del deudor o que presentaren sus documentos justificativos, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer al juez y a la junta de acreedores en su oportunidad, las observaciones que estimen pertinentes.
+
+ARTICULO 564
+
+Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, tercera parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
 
 ### CAPITULO III. De la administración del concurso
 
@@ -5135,64 +5161,6 @@ ARTICULO 711
 
 Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa lata en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en forma contenciosa, y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto, el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
 
-### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
-
-ARTICULO 712
-
-Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y que correspondan a las clases siguientes:
-
-I.- Bienes raíces;
-
-II.- Derechos reales;
-
-III.- Alhajas y muebles preciosos;
-
-IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
-
-ARTICULO 713
-
-Para decretar la venta de bienes se necesita que al pedirse se expresen los motivos de la enajenación y el objeto a que debe aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
-
-Si fuere el tutor quien solicitare la venta, debe proponer, al hacer la promoción, las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
-
-La solicitud del tutor se sustanciará en forma de incidente con el curador y el Ministerio Público. La resolución que se dictare es apelable.
-
-Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
-
-ARTICULO 714
-
-Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte al menor; si se decreta se hará por conducto de una casa de comercio; de lo contrario, se procederá conforme al artículo 441.
-
-El remate de los inmuebles se hará conforme a los artículos 409 y siguientes y en él no podrá admitirse postura que baje de las tres cuartas partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
-
-Si en la primera almoneda no hubiere postor, el juez convocará a solicitud del tutor, del curador o del consejo de tutelas, a una junta dentro del tercero día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
-
-ARTICULO 715
-
-Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de corredor titulado o, en su defecto, de comerciante establecido y acreditado.
-
-ARTICULO 716
-
-El precio de la venta se entregará al tutor si las fianzas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
-
-El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
-
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 1940)</small>
-
-ARTICULO 717
-
-Para la venta de los bienes inmuebles o de los muebles preciosos del hijo, requerirá el ascendiente la autorización judicial. Se sustanciará la solicitud en un incidente con el Ministerio Público y con un tutor especial que para el efecto nombre el Juez. En el incidente se recibirá al ascendiente la justificación que ofrezca para probar la necesidad o utilidad de la venta, y encontrándola el Juez comprobada, nombrará dos peritos para que practiquen el avalúo y dará autorización para que se verifique fuera de remate, pero nunca en menos de cuatro quintas partes del avalúo.
-
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
-
-ARTICULO 718
-
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor autorización judicial, que sólo se otorgará con la conformidad del curador y del consejo de tutelas.
-
-ARTICULO 719
-
-Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
-
 ###### ARTICULO 699
 
 ARTICULO 699-A
@@ -5294,6 +5262,64 @@ III.- Se declare por sentencia ejecutoriada la nulidad del matrimonio y haya los
 H
 
 Los cónyuges mayores de edad podrán otorgar voluntariamente ante notario público convenios de modificación a las capitulaciones matrimoniales, a fin de acordar que sólo determinados bienes entrarán en el régimen de sociedad conyugal. El notario dará aviso por escrito de estos convenios al Registro Civil, a fin de que haya la anotación marginal correspondiente al acta de matrimonio; si el convenio implica transferencia de derechos de propiedad sobre inmuebles, el notario lo inscribirá en el Registro Público de la Propiedad para que surta efectos contra terceros.
+
+### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+
+ARTICULO 712
+
+Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y que correspondan a las clases siguientes:
+
+I.- Bienes raíces;
+
+II.- Derechos reales;
+
+III.- Alhajas y muebles preciosos;
+
+IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+
+ARTICULO 713
+
+Para decretar la venta de bienes se necesita que al pedirse se expresen los motivos de la enajenación y el objeto a que debe aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
+
+Si fuere el tutor quien solicitare la venta, debe proponer, al hacer la promoción, las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
+
+La solicitud del tutor se sustanciará en forma de incidente con el curador y el Ministerio Público. La resolución que se dictare es apelable.
+
+Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
+
+ARTICULO 714
+
+Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte al menor; si se decreta se hará por conducto de una casa de comercio; de lo contrario, se procederá conforme al artículo 441.
+
+El remate de los inmuebles se hará conforme a los artículos 409 y siguientes y en él no podrá admitirse postura que baje de las tres cuartas partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
+
+Si en la primera almoneda no hubiere postor, el juez convocará a solicitud del tutor, del curador o del consejo de tutelas, a una junta dentro del tercero día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+
+ARTICULO 715
+
+Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de corredor titulado o, en su defecto, de comerciante establecido y acreditado.
+
+ARTICULO 716
+
+El precio de la venta se entregará al tutor si las fianzas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
+
+El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
+
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 1940)</small>
+
+ARTICULO 717
+
+Para la venta de los bienes inmuebles o de los muebles preciosos del hijo, requerirá el ascendiente la autorización judicial. Se sustanciará la solicitud en un incidente con el Ministerio Público y con un tutor especial que para el efecto nombre el Juez. En el incidente se recibirá al ascendiente la justificación que ofrezca para probar la necesidad o utilidad de la venta, y encontrándola el Juez comprobada, nombrará dos peritos para que practiquen el avalúo y dará autorización para que se verifique fuera de remate, pero nunca en menos de cuatro quintas partes del avalúo.
+
+Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
+
+ARTICULO 718
+
+Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor autorización judicial, que sólo se otorgará con la conformidad del curador y del consejo de tutelas.
+
+ARTICULO 719
+
+Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
 ### CAPITULO IV. Adopción
 
@@ -5741,8 +5767,6 @@ ARTICULO 781
 
 Los jueces municipales no son recusables; pero deben excusarse cuando estén impedidos. Si los jueces impedidos no se excusaren, a queja de parte, el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
-### CAPÍTULO I. De la Procedencia
-
 ### CAPÍTULO II. De la Sustanciación
 
 ## TRANSITORIOS
@@ -5968,6 +5992,12 @@ G.O. 1 DE FEBRERO DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE ABRIL DE 2008.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
