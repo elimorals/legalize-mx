@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2008-04-17"
+last_updated: "2008-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -2083,6 +2083,22 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. La Secretaría de Salud y Asistencia del Estado podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino. Si el dictamen reportara que el bien asegurado no es nocivo para la salud y cumple con las disposiciones de esta Ley, se procederá a su inmediata devolución. Si el interesado no gestionara la recuperación dentro de un plazo de treinta días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito. Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria podrá determinar, previa observacia (sic) de la garantía de audiencia, que el mismo sea sometido a un tratamiento que haga posible su legal aprovechamiento por el interesado o sea destruido, si no pudiere tener un uso lícito por parte de la autoridad.
 
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+
+Tratándose de los bienes muebles, entre otros los vehículos automotores, motocicletas o bicicletas que, como instrumentos de infracciones a la ley, se encuentren en los corralones o depósitos de vehículos en la Entidad, en calidad de resguardo o cualquier otra causa, por orden de autoridad competente del Estado, con excepción de la autoridad judicial, se adjudicarán a favor del fisco estatal, por conducto de la Secretaría de Salud conforme al procedimiento siguiente:
+
+a). Se procederá a practicar inspección sanitaria en el corralón o depósito de vehículos, por parte de la autoridad competente;
+
+b). En vista al contenido del acta de inspección, se emitirá dictamen respecto al peligro de afectar la salud pública o el medio ambiente;
+
+c). De existir peligro de afectación de la salud pública o el medio ambiente, de inmediato y conforme a las prescripciones establecidas por el Código de Procedimientos Administrativos se notificará personalmente al legitimado para disponer del bien mueble de que se trate, dándole a conocer los hechos, a fin de que haga valer sus derechos, dentro del improrrogable término de diez días hábiles contados a partir del día siguiente de la notificación respectiva.
+
+d). Transcurrido ese término, haya o no hecho valer sus derechos el interesado ante la autoridad sanitaria, se determinará el destino del bien mueble, entregándolo a quien legalmente corresponda, para su inmediato retiro del corralón o depósito; o dejándolo a disposición del fisco del Estado, por conducto de la Secretaría del ramo, para que proceda en términos de ley, a enajenar, rematar, donar preferentemente a Instituciones de Beneficencia Pública, o destruir el bien de que se trate.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+
+Quedan exceptuados, aquellos bienes que se encuentren a disposición de autoridad competente, por estar sujetos a un procedimiento administrativo o de cualquier otra causa legal, hasta en tanto no se resuelva definitivamente el proceso respectivo.
+
 ###### ARTICULO 292.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio se ordenará, previa observancia de la garantía de audiencia y dictamen pericial, cuando, a juicio de las autoridades sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
@@ -2800,3 +2816,9 @@ Cuarto. El organismo público descentralizado Régimen Estatal de Protección So
 Quinto. Se abroga el Reglamento Interno del Régimen Estatal de Protección Social en Salud de Veracruz, publicado el 5 de junio de 2007.
 
 Sexto. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 30 DE ABRIL DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
