@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-y-servicios-del-61042"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-19"
-last_updated: "2008-04-19"
+last_updated: "2008-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -731,21 +731,25 @@ VIII. Las que pretendan participar en un procedimiento de contratación y previa
 
 IX. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
 
-X. Las que celebren contratos sobre las materias reguladas por esta Ley sin estar facultadas para hacer uso de derechos de propiedad industrial e intelectual;
+X.- Las que celebren contratos sobre las materias reguladas por esta Ley sin estar facultadas para hacer uso de derechos de propiedad industrial e intelectual;
 
-> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
+XI. Los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones del Código Fiscal para el Estado de Oaxaca y demás ordenamientos aplicables, salvo que dichos contribuyentes celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en (sic)
 
-XI. Los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones del Código Fiscal para el Estado de Oaxaca y demás ordenamientos aplicables, salvo que dichos contribuyentes celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en parcialidades, los adeudas fiscales que tengan a su cargo, con los recursos qué obtengan por la contratación, arrendamientos y servicios. Para estos efectos, en el convenio se establecerá que las dependencias y entidades antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes, respetando los principios de la Licitación de la que se trate.
+Tratándose de pagos en exceso que haya recibido el proveedor, éste deberá reintegrar las cantidades cobradas en exceso, dentro de los 15 días naturales siguientes a la solicitud por escrito del reintegro. Cumplido dicho plazo deberá pagar los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago, hasta la fecha en que se pongan efectivamente a disposición de la dependencia o entidad.
 
-> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
+En caso de incumplimiento en la entrega de bienes o prestación de los servicios, el proveedor deberá reintegrar los anticipos que haya recibido más los intereses correspondientes, conforme a lo indicado en este artículo. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días naturales desde la fecha de su entrega, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
 
-Los requisitos y procedimientos que deberán observar las dependencias y entidades de la Administración Pública Centralizada y Paraestatal del Estado para el cumplimiento de este artículo, se establecerán en las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado; y
+ARTÍCULO 55 (SIC). Las dependencias y entidades podrán, dentro de su presupuesto aprobado y disponible, bajo su responsabilidad y por razones fundadas y motivadas, acordar el incremento en la cantidad de bienes solicitados mediante modificaciones a sus contratos vigentes, dentro de los doce meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el veinte por ciento del monto o cantidad de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente.
 
-> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
+Igual porcentaje se aplicará a las modificaciones que por ampliación de la vigencia se hagan de los contratos de arrendamientos o de servicios, cuya prestación se realice de manera continua y reiterada.
 
-XII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
+Tratándose de contratos en los que se incluyan bienes o servicios de diferentes características, el porcentaje se aplicará para cada partida o concepto de los bienes o servicios de que se trate.
 
-> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
+Cuando los proveedores demuestren la existencia de causas justificadas que les impidan cumplir con la entrega total de los bienes conforme a las cantidades pactadas en los contratos, las dependencias y entidades podrán modificarlos mediante la cancelación de partidas o parte de las cantidades originalmente estipuladas, siempre y cuando no rebase el diez por ciento del importe total del contrato respectivo.
+
+Cualquier propuesta de modificación a los contratos deberá formalizarse por escrito por parte de las dependencias y entidades, los instrumentos legales respectivos serán suscritos por el servidor público que lo haya hecho en el contrato original o quien lo sustituya o esté facultado para ello.
+
+Las dependencias y entidades se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones ventajosas a un proveedor.
 
 ###### ARTÍCULO 54.
 
