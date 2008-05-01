@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2008-04-18"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -217,7 +217,7 @@ Ningún negocio judicial tendrá más de dos instancias, y el Juez que de cualqu
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Toda persona tiene derecho a que se le administre justicia por los tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial sin perjuicio de los centros de mediación y justicia alternativa que puedan crearse por las autoridades. El servicio tanto de los tribunales como de los centros de mediación o justicia alternativa mencionados, será gratuito, quedando en consecuencia, prohibidas las costas por estos servicios.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
 
@@ -715,7 +715,7 @@ La elección de los ayuntamientos se hará mediante el sufragio universal, libre
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1505,9 +1505,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Enviar cada vez que crea conveniente al Secretario General de Gobierno, o al Secretario que tenga a su cargo la dependencia correspondiente, para que participen en las discusiones de las Leyes o decretos relativos a sus rspectivos (sic) ramos, pero sin asistir al acto de la votación;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2008)</small>
 
-V. Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios y servidores públicos del Gobierno del Estado cuyas designaciones o destituciones no estén determinadas de otro modo por esta constitución y las leyes que de ella deriven;
+V. Nombrar y remover libremente al Secretario General de Gobierno, a los demás Secretarios, al Consejero Jurídico y a los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -1571,7 +1571,7 @@ XXI. Emitir el decreto para que el Instituto Estatal Electoral convoque a elecci
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
-XXII. Otorgar patentes de notario, con sujeción a la Ley respectiva:
+XXII. Otorgar patentes de notario, con sujeción a la Ley respectiva;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1871,19 +1871,9 @@ Los Agentes del Ministerio Público, la policía y demás servidores públicos d
 
 Para ser Procurador General de Justicia, se necesitan los mismos requisitos que para Magistrado. La ley determinará los que deben reunir los agentes del Ministerio Público.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 137], P.O. 8 DE DICIEMBRE DE 2000)
-
 ###### ARTICULO 97.
 
-El Procurador General de Justicia ejerce tres clases de funciones:
-
-I.- Como representante de la sociedad para los asuntos penales y civiles en que ella está interesada.
-
-II.- Como representante jurídico del Estado para intervenir en todos los actos que celebre y en los juicios en que sea parte; y
-
-III.- Como consejero jurídico del Ejecutivo del Estado.
-
-La ley reglamentará el ejercicio de estas funciones y señalará las que correspondan a los agentes del Ministerio Público.
+(DEROGADO, P.O. 1 DE MAYO DE 2008)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 138], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -1891,17 +1881,23 @@ La ley reglamentará el ejercicio de estas funciones y señalará las que corres
 
 Las funciones de Procurador General y las de Agentes del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo.
 
-#### SECCION PRIMERA. Del Ejercicio del Poder Judicial
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2008)</small>
 
-(REUBICADO [N. DE E. ANTES ARTICULO 120], P.O. 8 DE DICIEMBRE DE 2000)
+#### SECCION QUINTA. De la Consejería Jurídica del Gobierno del Estado
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+
+ARTICULO 98 BIS. La función de Consejero Jurídico del Gobierno del Estado estará a cargo de la dependencia del Ejecutivo que para tal efecto establezca la ley, ejerciendo la representación jurídica del Estado, del Titular del Poder Ejecutivo y de la Gubernatura, en los términos que señala la Ley Orgánica del Poder Ejecutivo del Estado, así como otorgar apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado.
+
+Como titular de la dependencia, estará una persona que se denominará Consejero Jurídico del Gobierno del Estado, quien para su nombramiento deberá cumplir con los requisitos establecidos en la Ley.
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
 (REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
-#### SECCION SEGUNDA. Del Tribunal Superior de Justicia
+#### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
-(REUBICADO [N. DE E. ANTES ARTICULO 121], P.O. 8 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTICULO 120], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 99.
 
@@ -1909,9 +1905,9 @@ El Poder Judicial, se ejerce: por el Tribunal Superior de Justicia, por los Juec
 
 (REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
-#### SECCION TERCERA. De los Jueces de Primera Instancia y de los Jurados
+#### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 8 DE DICIEMBRE DE 2000)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 121], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 100.
 
@@ -1993,7 +1989,9 @@ XI.- Nombrar y remover, con las limitaciones que establezcan las leyes, a los se
 
 (REUBICADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 27 DE ENERO DE 2001)
 
-#### Sección II. De las Concesiones sobre el Espectro Radioeléctrico para uso Comercial o Privado
+#### SECCION TERCERA. De los Jueces de Primera Instancia y de los Jurados
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 107.
 
@@ -3208,6 +3206,10 @@ SEGUNDO.- El Congreso del Estado deberá expedir la Ley a la que se refiere la f
 TERCERO.- La Contaduría Mayor de Hacienda del Congreso continuará ejerciendo las atribuciones que actualmente tiene hasta en tanto empiece a funcionar la Auditoría Superior del Estado de Oaxaca.
 
 CUARTO.- Todos los recursos materiales y patrimoniales de la Contaduría Mayor de Hacienda del Congreso, pasarán a formar parte de la Auditoría Superior del Estado de Oaxaca.
+
+P.O. 1 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
