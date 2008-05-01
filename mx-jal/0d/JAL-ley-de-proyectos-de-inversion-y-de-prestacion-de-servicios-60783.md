@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proyectos-de-inversion-y-de-prestacion-de-servicios-6078
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2008-04-10"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROYECTOS DE INVERSION Y DE PRESTACION DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 2008.
 
@@ -175,7 +175,7 @@ e) Obligaciones de pago que asumirán las partes en caso de terminación anticip
 
 VI. La forma de determinar el presupuesto total a pagarse por la entidad, incluyendo el estimado por año;
 
-VII. El impacto de la contra prestación que se estima pagará la entidad con cargo a su presupuesto, y una proyección demostrando que se tendrán los recursos suficientes para cubrirla durante el plazo del contrato, y
+VII. El impacto de la contraprestación que se estima pagará la entidad con cargo a su presupuesto, y una proyección demostrando que se tendrán los recursos suficientes para cubrirla durante el plazo del contrato, y
 
 VIII. La necesidad de otorgar garantía, en su caso.
 
@@ -241,7 +241,7 @@ I. El techo financiero para la realización del proyecto, así como del monto de
 
 II. La afectación patrimonial que en su caso sea necesaria para hacer frente a los pagos periódicos que deberá realizar la entidad contratante al proveedor con motivo del proyecto durante los ejercicios fiscales que abarque el contrato correspondiente, y
 
-III. La clasificación de la naturaleza de las obligaciones que se deriven del Contrato correspondiente, debiendo incluir como deuda pública aquellas contra prestaciones que por su esencia deban ser consideradas como tales en los términos de la ley en la materia.
+III. La clasificación de la naturaleza de las obligaciones que se deriven del Contrato correspondiente, debiendo incluir como deuda pública aquellas contraprestaciones que por su esencia deban ser consideradas como tales en los términos de la ley en la materia.
 
 ###### Artículo 14.
 
@@ -403,9 +403,9 @@ Los municipios deberán tener el visto bueno del Comité de Adjudicación estata
 
 ###### Artículo 28.
 
-El procedimiento de adjudicación podrá iniciarse cuando la entidad ejecutara cuente previamente con:
+El procedimiento de adjudicación podrá iniciarse cuando la entidad ejecutora cuente previamente con:
 
-I. La publicación del decreto de aprobación del Congreso del Estado en el periódico oficial El Estada de Jalisco, y
+I. La publicación del decreto de aprobación del Congreso del Estado en el periódico oficial El Estado de Jalisco, y
 
 II. La opinión y el dictamen favorables emitidos, por la Secretaría de Planeación y la Secretaría de Finanzas.
 
@@ -469,7 +469,7 @@ Se considera igualdad de condiciones cuando la variación en el puntaje final en
 
 ###### Artículo 37.
 
-Se tomarán en consideración para evaluar las propuestas, los mecanismos y soluciones técnicas generados por el proveedor para garantizar la continua prestación del servido de que se trate, así como la calidad y seguridad del mismo.
+Se tomarán en consideración para evaluar las propuestas, los mecanismos y soluciones técnicas generados por el proveedor para garantizar la continua prestación del servicio de que se trate, así como la calidad y seguridad del mismo.
 
 ###### Artículo 38.
 
@@ -497,7 +497,7 @@ II. La realización de obra pública, o
 
 III. La concesión de servicios públicos.
 
-Una vez otorgada la aprobación para la contratación del proyecto, la entidad ejecutara remitirá a la Secretaría de Administración, el modelo de contrato para el proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios.
+Una vez otorgada la aprobación para la contratación del proyecto, la entidad ejecutora remitirá a la Secretaría de Administración, el modelo de contrato para el proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios.
 
 El contrato deberá elaborarse con base en los elementos materia de la aprobación del proyecto. Todos los elementos del contrato, incluyendo la asignación de derechos y obligaciones de las partes bajo el mismo, deberán ser congruentes y consistentes con la descripción contenida en la documentación presentada para la aprobación del proyecto.
 
@@ -513,7 +513,7 @@ En caso de que por causas imputables al proveedor al que se le haya adjudicado e
 
 ###### Artículo 43.
 
-Los pagos que realice la entidad como contra prestación por los servicios recibidos al amparo de un contrato se registrarán como gasto corriente, los que incluirán, en su caso, cualquier erogación accesoria derivada de actos jurídicos o de administración que se requiera para el proyecto, siempre y cuando puedan considerarse como gasto corriente.
+Los pagos que realice la entidad como contraprestación por los servicios recibidos al amparo de un contrato se registrarán como gasto corriente, los que incluirán, en su caso, cualquier erogación accesoria derivada de actos jurídicos o de administración que se requiera para el proyecto, siempre y cuando puedan considerarse como gasto corriente.
 
 ###### Artículo 44.
 
@@ -565,7 +565,7 @@ El reglamento de esta ley desarrollará los demás aspectos relacionados con las
 
 Los contratos respectivos deben invariablemente contener un apartado en el cual se establezcan los mecanismos, metodologías y fórmulas para evaluar la eficiencia, eficacia, efectividad del inversionista o proveedor y la rentabilidad social y económica de la prestación del servicio durante la vigencia del contrato respectivo, así como los mecanismos para que la ciudadanía beneficiaria de los servicios sea tomada en consideración, para que las entidades públicas evalúen constantemente el grado de satisfacción con la prestación de los servicios de que se trate.
 
-Será competencia de la Secretaría de Finanzas, llevar a cabo todas aquellas actividades necesarias para el seguimiento, evaluación y verificación del cumplimiento de los compromisos asumidos tanto por el inversionista proveedor, como de la entidad a través de la entidad ejecutara y demás instancias de gobierno que participen en la ejecución del mismo.
+Será competencia de la Secretaría de Finanzas, llevar a cabo todas aquellas actividades necesarias para el seguimiento, evaluación y verificación del cumplimiento de los compromisos asumidos tanto por el inversionista proveedor, como de la entidad a través de la entidad ejecutora y demás instancias de gobierno que participen en la ejecución del mismo.
 
 Para tales efectos, la Secretaría de Finanzas podrá realizar visitas de verificación, así como requerir tanto al inversionista proveedor como a las instancias de gobierno involucradas en la ejecución del proyecto, cualquier información que considere necesaria para el seguimiento y evaluación de los compromisos asumidos.
 
@@ -683,11 +683,11 @@ La entidad deberá publicar en el periódico oficial El Estado de Jalisco, o en 
 
 ###### Artículo 67.
 
-La entidad ejecutara deberá remitir a la Auditoria Superior del Estado, la información relativa a los actos y contratos materia de esta ley, con independencia de los procedimientos de control interno contemplados en el ámbito de sus respectivas competencias.
+La entidad ejecutora deberá remitir a la Auditoria Superior del Estado, la información relativa a los actos y contratos materia de esta ley, con independencia de los procedimientos de control interno contemplados en el ámbito de sus respectivas competencias.
 
 ###### Artículo 68.
 
-Durante la vigencia del contrato, la entidad ejecutara deberá remitir, acorde a su normatividad interna, a los órganos de control, informes trimestrales sobre el avance del proyecto, a efecto de que ésta evalúe el cumplimiento de los objetivos y metas establecidas para la autorización del proyecto.
+Durante la vigencia del contrato, la entidad ejecutora deberá remitir, acorde a su normatividad interna, a los órganos de control, informes trimestrales sobre el avance del proyecto, a efecto de que ésta evalúe el cumplimiento de los objetivos y metas establecidas para la autorización del proyecto.
 
 ###### Artículo 69.
 
@@ -741,6 +741,12 @@ TERCERO. Los gobiernos municipales podrán expedir sus propios reglamentos o, en
 
 CUARTO. No se podrán celebrar contratos de asociación público-privada, tratándose de proyectos cuya programación, presupuestación, adjudicación o contratación se haya iniciado antes de la entrada en vigor de este decreto.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+
+QUINTO. Se excluye de la realización de proyectos, bajo el esquema de asociación público privada establecidos en esta ley, a la impartición del servicio público de educación en los términos de (sic) artículo 3°. de la Constitución Política de los Estados Unidos Mexicanos.
+
+Así mismo, la aplicación de esta ley no afectará los derechos laborales ni a la seguridad social de los trabajadores al servicio del estado, en los términos de lo dispuesto por el artículo 123 constitucional, y las leyes federales y estatales que de él deriven.
+
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 29 DE MARZO DE 2008.
 
 Diputado Presidente
@@ -776,3 +782,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
