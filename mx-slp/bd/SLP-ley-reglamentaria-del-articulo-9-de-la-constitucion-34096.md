@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-9-de-la-constitucion-34096"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-13"
-last_updated: "2003-09-13"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY REGLAMENTARIA DEL ARTICULO 9° DE LA CONSTITUCION POLITICA DEL ESTADO, SOBRE DERECHOS Y CULTURA INDIGENAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 13 de septiembre de 2003.
 
@@ -56,6 +56,10 @@ Los poderes del Estado y las autoridades municipales tienen la obligación, en s
 ###### ARTICULO 4º.
 
 En los ayuntamientos de los municipios con presencia indígena, se deberá contar con una unidad especializada para la atención de los pueblos y comunidades indígenas; la que estará en directa y constante comunicación con los representantes de las comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+
+Las unidades especializadas para la atención de los pueblos y comunidades indígenas, orientarán sus acciones, preferentemente, a la atención de las materias de justicia y seguridad indígenas; cultura, educación y lenguas indígenas; salud y asistencia social; desarrollo sustentable de los recursos naturales; y desarrollo humano y social.
 
 ###### ARTICULO 5º.
 
@@ -446,3 +450,13 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. El presente Decreto deberá publicarse además en las lenguas indígenas del Estado.
