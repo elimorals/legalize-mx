@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-48339"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-24"
-last_updated: "2006-07-13"
+last_updated: "2008-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2005.
 
@@ -113,13 +113,29 @@ XX. Permiso de circulación: documento otorgado por la autoridad, destinado a in
 
 XXI. Vehículo: medio con el cual, sobre el cual o por el cual, toda persona u objeto puede ser transportado por una vía;
 
-XXII. Vehículos de emergencia: patrullas, ambulancias, vehículos de bomberos y cualquier otro vehículo que haya sido autorizado para portar o usar sirena y torretas de luces rojas, blancas, azules y ámbar;
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
 
-XXIII. Vehículos especiales: grúas, vehículos de apoyo, de auxilio, y cualquier otro vehículo que haya sido autorizado por la autoridad competente para usar sirena, torretas de luces, blancas, azules y ámbar;
+XXII. Reciclaje: someter un material usado a un proceso para la recuperación de sus materias primas que puedan ser reutilizadas posteriormente;
 
-XXIV. Vías públicas: las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso, ciclopistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes; y
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
 
-XXV. VIN: número de identificación del vehículo, asignado por el fabricante.
+XXIII. Reutilización: aprovechar algo con la función que desempeñaba anteriormente o con otros fines, sin que medie proceso alguno de transformación;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+
+XXIV. Vehículos chatarra: los que se encuentren en depósitos vehiculares por un periodo mayor a seis meses y que, por sus condiciones físicas y mecánicas, se consideran inservibles o inadecuados para reincorporarse a la circulación;
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+
+XXV. Vehículos equiparables a chatarra: los que circunstancialmente se encuentren en depósitos vehiculares durante un periodo de más de dos años, sin importar las condiciones físicas o mecánicas que presenten;
+
+XXVI. Vehículos de emergencia: patrullas, ambulancias, vehículos de bomberos y cualquier otro vehículo que haya sido autorizado para portar o usar sirena y torretas de luces rojas, blancas, azules y ámbar;
+
+XXVII. Vehículos especiales: grúas, vehículos de apoyo, de auxilio y cualquier otro vehículo que haya sido autorizado por la autoridad competente para usar sirena, torretas de luces, blancas, azules y ámbar;
+
+XXVIII. Vías públicas: las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso, ciclopistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes, y
+
+XXIX. VIN: número de identificación del vehículo, asignado por el fabricante.
 
 ###### ARTICULO 7º.
 
@@ -584,6 +600,26 @@ En los casos de vehículos que se dejen abandonados en estos establecimientos po
 ###### ARTICULO 58.
 
 las autoridades judiciales y administrativas, estatales y municipales, deberán proporcionar a la Dirección General de Seguridad Pública del Estado, dentro de los diez días siguientes, la información de aquellos vehículos sujetos a embargo, decomiso, aseguramiento o levantamiento de gravámenes, presentando el número de registro, el número de identificación vehicular o en su defecto, número de serie, así como el documento que acredite el levantamiento del embargo o aseguramiento, para su inclusión en el registro de vehículos.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+
+ARTICULO 58 BIS. Los vehículos que hayan sido puestos en depósito podrán ser entregados cuando sea presentada la orden de liberación, emitida por la autoridad competente, misma que será expedida bajo el cumplimiento de los requisitos necesarios.
+
+Además de lo anterior, se deberá proporcionar el pago correspondiente al prestador del servicio; para tales efectos, la tarifa se considerará por día completo; si no llegara a completarse el día, se cobrará de manera proporcional por fracción de hora.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+
+ARTICULO 58 TER. Cuando existan en depósito vehículos que sean considerados como chatarra, o equiparables a esta categoría, previo dictamen emitido por perito valuador o por autoridad competente, los prestadores de servicio deberán solicitar a la Dirección General de Seguridad Pública del Estado, para que requiera al propietario del vehículo que lo recoja y pague el adeudo correspondiente; otorgándole un plazo de cuarenta y cinco días hábiles, apercibiéndolo de que, al no hacerlo, se podrán promover las diligencias legales necesarias para que el bien se saque a remate, conforme al Código de Procedimientos Civiles para el Estado de San Luis Potosí, a fin de recuperar el importe que los servicios de depósito hubieren ocasionado, mediante el reciclaje del vehículo, más no de su reutilización, lo cual deberá constar mediante la certificación correspondiente, misma que será entregada a la Dirección General de Seguridad Pública del Estado, o a la autoridad competente, para la baja definitiva del vehículo.
+
+Los fondos obtenidos mediante el remate se distribuirán de la siguiente forma:
+
+l. Del monto del remate el prestador del servicio tomará lo correspondiente al pago del depósito, después de que la autoridad haya deducido los derechos que a ella corresponden;
+
+II. La autoridad no podrá, en ningún caso, obtener más del cincuenta por ciento del monto que resulte del remate;
+
+III. Cuando habiéndose repartido la cantidad obtenida por el remate, faltare algún porcentaje para cubrir el total de la obligación ante la autoridad o ante el prestador del servicio, el faltante se condonará a favor del dueño del vehículo, y
+
+IV. Siempre que exista algún remanente, éste será devuelto al propietario del vehículo.
 
 ## TITULO SEPTIMO. DE LOS PEATONES, DE LA EDUCACION VIAL Y DE LAS ESCUELAS DE MANEJO
 
@@ -1120,3 +1156,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en e
 TERCERO. Las personas físicas que hayan realizado el pago por derechos de concesión de servicio público de transporte, antes del 26 de septiembre del año 2003, contarán con un plazo de trescientos sesenta y cinco días naturales a partir de la entrada en vigor de este Decreto, con el fin de presentarse ante la Secretaría con la documentación original correspondiente. Una vez que se acredite el pago, el Ejecutivo del Estado, previo dictamen de la Secretaría de Comunicaciones y Transportes, expedirá el título de concesión correspondiente.
 
 CUARTO. El requisito establecido en la fracción VIII del artículo 61 de la Ley de Transporte Público del Estado de San Luis Potosí, consistente en acreditar la educación secundaria terminada, no será exigible a quienes con anterioridad a la entrada en vigor del presente Decreto, les haya sido expedida una licencia de servicio público de transporte de personas.
+
+P.O. 1 DE MAYO DE 2008.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
