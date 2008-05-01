@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "2006-12-30"
+last_updated: "2008-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -1654,3 +1656,31 @@ SEGUNDO.- La Sala Especializada en Adolescentes resolverá los recursos de apela
 TERCERO.- Los órganos que se instituyen por virtud de este Decreto, deberán funcionar al inicio de la vigencia de la Ley de Justicia para Adolescentes, para lo cual las dependencias de los Poderes relacionados, adoptarán las medidas reglamentarias y de infraestructura para tal efecto.
 
 CUARTO.- Los Juzgados Especializados en adolescentes, con residencia en el Distrito Judicial del Centro, tendrán competencia en todo el Estado, hasta en tanto se instalen en otros Distritos Judiciales, en cuyo caso el Pleno del Tribunal Superior de Justicia determinará la jurisdicción territorial que les corresponda.
+
+P.O. 1 DE MAYO DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia, aprobada el 29 de junio de 1983 y publicada en el Periódico Oficial del Gobierno del Estado, con las salvedades previstas en los artículos siguientes.
+
+TERCERO.- En virtud de la coexistencia de los Códigos de Procedimientos Penales de 1979 y Procesal Penal para el Estado de Oaxaca de 2006, en las regiones del Estado en que este último ordenamiento se vaya implementando, el Titular de la Procuraduría General de Justicia del Estado, tendrá facultades para adecuar la estructura de la Institución conforme a las necesidades del servicio.
+
+La Subprocuraduría de Investigaciones y la Subprocuraduría de Procesos, además de las atribuciones que le confiere la presente Ley Orgánica continuarán ejerciendo las que correspondían a las Subprocuraduría General de Averiguaciones Previas y Consignaciones y la Subprocuraduría General de Control de Procesos respectivamente, acorde a la Ley Orgánica de 1983.
+
+La Dirección de Averiguaciones Previas y Consignaciones dependerá de la Subprocuraduría de Investigaciones con las atribuciones que le asigna la Ley Orgánica de 1983. Las Direcciones de Control de Procesos, y Jurídica Consultiva dependerán de la Subprocuraduría de Procesos; y además de las atribuciones derivadas de la presente Ley continuarán ejerciendo las que les asigna la Ley Orgánica de 1983.
+
+La Visitaduría General dependerá de la Fiscalía de Control Interno y Evaluación y continuará ejerciendo las atribuciones que le confiere la Ley Orgánica de 1983.
+
+La Dirección de Derechos Humanos dependerá del Titular de la Institución y además de las atribuciones derivadas de la presente Ley continuará ejerciendo las que le confiere la Ley Orgánica 1983.
+
+La Agencia Estatal de Investigaciones seguirá teniendo además de las facultades previstas en la presente Ley, las atribuciones asignadas a la Dirección de la Policía Ministerial en términos del Código de Procedimientos Penales de 1979 y la Ley Orgánica de la Procuraduría de 1983.
+
+Las demás Subprocuradurías y Fiscalías especializadas, además de las atribuciones que esta Ley les confiere, continuarán ejerciendo las que tenían asignadas por la Ley Orgánica de la Procuraduría de 1983.
+
+CUARTO.- Para el trámite y desahogo de los casos relativos al sistema mixto tradicional, en lo conducente continuará vigente la Ley Orgánica de la Procuraduría General de Justicia, aprobada el 29 de Junio de 1983, hasta la conclusión del último asunto.
+
+QUINTO.- Se instruye a la Secretaria de Finanzas del Ejecutivo Estatal, para que realice las adecuaciones presupuestarias que sean necesarias para la implementación de la presente Ley.
+
+SEXTO.- Dentro del plazo de ciento ochenta días siguientes a la publicación de la presente Ley, deberán expedirse los reglamentos correspondientes.
+
+SÉPTIMO.- Se abroga la Ley del Consejo Médico Legal, publicada en el Periódico Oficial del Gobierno del Estado el 23 de enero de 1971. El personal que presta sus servicios en el Consejo Médico Legal, sin demérito de sus derechos laborales, pasara a depender de la Procuraduría General de Justicia del Estado y quedará adscrito al Instituto de Servicios Periciales.
