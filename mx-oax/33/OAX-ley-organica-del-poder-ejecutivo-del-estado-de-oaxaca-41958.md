@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2007-09-05"
+last_updated: "2008-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -47,17 +47,21 @@ La presente Ley tiene por objeto, regular la organización y funcionamiento de l
 
 Para el ejercicio de sus atribuciones el Poder Ejecutivo tendrá el auxilio de las dependencias de la Administración Pública Centralizada y de las entidades de la Administración Pública Paraestatal, previstas por la Constitución Política del Estado de Oaxaca, esta Ley reglamentaria, el Presupuesto de Egresos y demás disposiciones legales relativas.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2008)</small>
+
 ###### Artículo 3.
 
-Integran la Administración Pública Centralizada: la Gubernatura del Estado, las Secretarías y la Procuraduría General de Justicia.
+Integran la Administración Pública Centralizada: la Gubernatura del Estado, las Secretarías, la Procuraduría General de Justicia y la Conserjería Jurídica del Gobierno del Estado.
 
 ###### Artículo 4.
 
 La Administración Pública Paraestatal está formada por: Organismos descentralizados, empresas de participación estatal, comisiones, comités, juntas, patronatos, Fideicomisos Públicos y por aquellas entidades que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada. A estas unidades administrativas se les denominará genéricamente como entidades paraestatales.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2008)</small>
+
 ###### Artículo 5.
 
-Las Secretarías y la Procuraduría General de Justicia tendrán igual rango y entre ellas no habrá preeminencia alguna; sus titulares ejercerán las funciones de su competencia encomendadas por la Constitución Política del Estado, esta Ley, y demás que le señalen otros decretos, reglamentos, acuerdos y convenios, a partir de la fecha de la toma de posesión del cargo. Así también podrán suscribir los instrumentos jurídicos necesarios para el cumplimiento de sus atribuciones y las que por acuerdo del Ejecutivo del Estado les sean delegadas.
+Las Secretarías, la Procuraduría General de Justicia y la Conserjería Jurídica del Gobierno del Estado; tendrán igual rango y entre ellas no habrá preeminencia alguna; sus Titulares ejercerán las funciones de su competencia encomendadas por la Constitución Política del Estado, esta Ley, y demás que le señalen otros decretos, reglamentos, acuerdos y convenios.
 
 ###### Artículo 6.
 
@@ -107,6 +111,8 @@ La información relativa a los sistemas de organización, funcionamiento, comuni
 
 ### Capítulo II. De la Organización de la Administración Pública Centralizada
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2008)</small>
+
 ###### Artículo 17.
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos que son de su competencia, el titular del Poder Ejecutivo contará con el auxilio de las siguientes dependencias de la Administración Pública Centralizada:
@@ -135,13 +141,17 @@ XI.- Secretaría de Desarrollo Rural;
 
 XII.- Secretaría de Obras Públicas,
 
-XIII.- Secretaría de Salud y
+XIII.- Secretaría de Salud y (sic)
 
-XIV.- Secretaría de Asuntos Indígenas.
+XIV.- Secretaría de Asuntos Indígenas;
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
 
-Al frente de cada una de las Dependencias a que se refiere este ARTICULO habrá un servidor público que será su Titular y se denominará respectivamente Secretario y Procurador General de Justicia. Para el despacho de los asuntos de la competencia de sus respectivas Dependencias, los Secretarios y el Procurador General de Justicia se auxiliarán de Directores, Jefes de Unidad, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que requieran para la eficaz atención y eficiente desempeño de sus atribuciones, en los términos prescritos por la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
+XV.- Consejería Jurídica del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2008)</small>
+
+Al frente de cada una de las Dependencias a que se refiere este artículo habrá un servidor público que será su Titular y se denominará respectivamente Secretario, Procurador General de Justicia y Consejero Jurídico del Gobierno del Estado. Para el despacho de los asuntos de la competencia de sus respectivas dependencias, los Secretarios, el Procurador General de Justicia y el Consejero Jurídico del Gobierno del Estado, se auxiliarán de Directores, Jefes de Unidad, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que requieran para la eficaz atención y eficiente desempeño de sus atribuciones, en los términos prescritos por la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
 
@@ -167,7 +177,7 @@ III.- (DEROGADA, P.O. 19 DE ENERO DE 2007)
 
 IV.- Coordinación General de Proyectos Estratégicos,
 
-V.- Coordinación General de Asuntos Jurídicos,
+V.- (DEROGADA, P.O. 1 DE MAYO DE 2008)
 
 VI.- Coordinación General de Asesores,
 
@@ -257,9 +267,9 @@ I.- Ejercer las atribuciones conferidas por las disposiciones legales al Ministe
 
 II.- Representar a la sociedad en los asuntos civiles y penales en que ella esté interesada;
 
-III.- Intervenir como representante jurídico en los actos en que sea parte el Estado o su Gobierno;
+III.- (DEROGADA, P.O. 1 DE MAYO DE 2008)
 
-IV.- Fungir como consejero jurídico del Gobernador del Estado;
+IV.- (DEROGADA, P.O. 1 DE MAYO DE 2008)
 
 V.- Vigilar la exacta observancia de las leyes;
 
@@ -289,7 +299,7 @@ XVII.- Ser el representante legal de la beneficencia pública;
 
 XVIII.- Llevar el control de la estadística e identificación criminal;
 
-XIX.- Ejercitar las acciones reivindicatorias y de cualquier otra índole civil que competan al Estado;
+XIX.- (DEROGADA, P.O. 1 DE MAYO DE 2008)
 
 XX.- Proponer al Ejecutivo el nombramiento de los agentes del Ministerio Público y removerlos o cambiarlos de adscripción cuando las necesidades del servicio lo requieran;
 
@@ -853,6 +863,54 @@ XIII.- Promover la preservación del acervo cultural de las etnias indígenas y 
 
 XIV.- Los demás que le señalen las leyes, decretos y reglamentos.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+
+Artículo 33 bis.- A la Conserjería Jurídica del Gobierno del Estado corresponde el despacho de los siguientes asuntos:
+
+I.- Representar legalmente al Estado de Oaxaca, al Titular del Poder Ejecutivo del Gobierno del Estado como tal y a la Gubernatura en todo juicio, proceso o procedimiento en que sean parte. Esta representación tendrá los efectos de mandato judicial y se entiende conferida sin perjuicio de que, en su caso, el Gobernador del Estado asuma por si mismo la intervención que en dichos actos le corresponde;
+
+II.- Intervenir como representante jurídico en los actos en que sea parte el Estado o su Gobierno, así como suscribir los convenios y contratos relacionados con su patrimonio inmobiliario, en los casos previstos por la Legislación aplicable;
+
+III.- Intervenir en la defensa del patrimonio del Estado ante todas las instancias, así como ejercitar las acciones reivindicatorias y de cualquier otra índole que competan al Estado;
+
+IV.- Representar al Ejecutivo del Estado y promover en las Controversias Constitucionales y Acciones de Inconstitucionalidad en las que éste o la Gubernatura sean parte, en términos de la Ley Reglamentaria de las fracciones I y II del Artículo 105 y de la Constitución Política de los Estados Unidos Mexicanos; así como representar al Titular del Ejecutivo del Estado en las investigaciones que ordene el Pleno de la Suprema Corte de Justicia de la Nación, en uso de la facultad que le confiere el artículo 97 de la Constitución Política Federal;
+
+V.- Fungir como Consejero Jurídico del Gobernador del Estado y en tal carácter, otorgarle apoyo técnico-jurídico en forma permanente y directa;
+
+VI.- Revisar los instrumentos legales y documentos en general que tenga que suscribir el Gobernador del Estado;
+
+VII.- Elaborar y revisar en su caso los proyectos de iniciativas de leyes y decretos que el Gobernador del Estado presente al Honorable Congreso del Estado;
+
+VIII.- Elaborar y revisar en su caso los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos que por su naturaleza deban ser suscritos por el Titular del Poder Ejecutivo;
+
+IX.- Tramitar los Recursos de Revisión, revocación, apelación, reconsideración o cualquier otro, que deban ser resueltos conforme a las leyes y reglamentos, por el Titular del Poder Ejecutivo;
+
+X.- Cooperar con las dependencias y entidades de la Administración Pública Paraestatal, en la elaboración de documentos legales y sugerir las estrategias legales en las que intervenga;
+
+XI.- Emitir opinión jurídica en los instrumentos legales que le sean turnados por las dependencias y entidades de la Administración Pública y en las que el Gobernador del Estado intervenga;
+
+XII.- Coordinar las actividades jurídicas de la Administración Pública Central y Paraestatal del Gobierno del Estado de Oaxaca; y
+
+XIII.- Las demás que le confieran las leyes, decretos y reglamentos vigentes en el Estado o las que le sean delegadas por el Titular del Poder Ejecutivo.
+
+El Consejero será nombrado y removido libremente por el Gobernador del Estado. Los requisitos para ser nombrado Consejero serán:
+
+I.- Contar por lo menos con 30 años de edad al día de su designación;
+
+II.- Contar con Título y Cédula Profesional de Licenciado en Derecho;
+
+III.- Contar por lo menos con cinco años de experiencia profesional;
+
+IV.- Contar con reconocida honorabilidad, prestigio y ética profesional; y
+
+V.- No haber sido sentenciado por delito doloso.
+
+Las dependencias y entidades de la Administración Pública proporcionarán oportunamente a la Conserjería Jurídica del Gobierno del Estado la información y apoyo que requiera para el cumplimiento de sus funciones.
+
+A la Consejería Jurídica del Gobierno del Estado les serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público, así como las demás que rigen a las dependencias del Ejecutivo Estatal. En el Reglamento Interior de la Consejería se determinarán las atribuciones de su Titular, así como de las Unidades Administrativas y la forma de cubrir las ausencias y delegar facultades.
+
+La representación conferida al Consejero Jurídico del Gobierno del Estado no comprende la representación jurídica de los Poderes Legislativo y Judicial del Estado.
+
 ### Capítulo IV. De las Delegaciones de Gobierno
 
 ###### Artículo 34.
@@ -883,9 +941,9 @@ VI.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 El Gobernador del Estado determinará el ámbito territorial y sede de las Delegaciones de Gobierno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MAYO DE 2008)</small>
 
-### Capítulo V. De las Coordinaciones General de Transporte y General de Asuntos Jurídicos
+### Capítulo V. De la Coordinación General del Transporte
 
 ###### Artículo 38.
 
@@ -917,25 +975,7 @@ XII.- Integrar, con la participación de los sectores publico, social y privado,
 
 XIII.- Las demás que le confieran las leyes, decretos y reglamentos.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2006)</small>
-
-Artículo 38 bis.- A la Coordinación General de Asuntos Jurídicos corresponde el despacho de los siguientes asuntos:
-
-I.- Revisar los instrumentos legales y documentos en general que tenga que suscribir el Gobernador del Estado;
-
-II.- Coordinar las acciones que impliquen ejercicio legal, en las que intervengan el Gobernador del Estado;
-
-III.- Representar legalmente al Gobernador del Estado como tal y a la Gubernatura en todo juicio, proceso o procedimiento en que sean parte. Esta representación tendrá los efectos de mandato judicial;
-
-IV.- Participar en los asuntos jurídicos en que intervenga el Gobernador del Estado;
-
-V.- Cooperar con las dependencias y entidades de la Administración Pública Paraestatal, en la elaboración de documentos legales y sugerir las estrategias legales en las que intervenga;
-
-VI.- Representar al Ejecutivo del Estado y promover en las Controversias Constitucionales y Acciones de Inconstitucionalidad en las que éste o la Gubernatura sean parte, en términos de la Ley Reglamentaria de las fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
-
-VII.- Emitir opinión jurídica en los instrumentos legales que el sean turnados por las dependencias y entidades de la Administración Pública, y en los que el Gobernador del Estado intervenga; y
-
-VIII.- Las demás que le confieran las leyes, decretos y reglamentos.
+Artículo 38 bis.- (DEROGADO, P.O. 1 DE MAYO DE 2008)
 
 ### Capítulo VI. De la Coordinación para los Procesos de Planeación, Finanzas y Administración
 
@@ -1166,3 +1206,19 @@ SEGUNDO.- Los recursos humanos, materiales y financieros de la Coordinación de 
 P.O. 5 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE MAYO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Cuando alguna ley, decreto, reglamento, circular o disposición general administrativa se refiera a la Procuraduría General de Justicia del Estado o a su Titular, en representación jurídica del Estado, del Titular del Poder Ejecutivo o de la Gubernatura, se entenderá que corresponde a la Conserjería Jurídica del Gobierno del Estado.
+
+TERCERO.- Cuando alguna ley, decreto, reglamento, circular o disposición general administrativa se refiera a la Coordinación General de Asuntos Jurídicos, se entenderá que corresponde a la Consejería Jurídica del Gobierno del Estado.
+
+CUARTO.- Los recursos humanos y materiales de la Coordinación General de Asuntos Jurídicos de la Gubernatura quedarán adscritos y asignados a la Consejería Jurídica del Gobierno del Estado.
+
+QUINTO.- En todos los asuntos, juicios procesos y procedimientos en trámite en que sean parte el Procurador General de Justicia del Estado o el Coordinador de Asuntos Jurídicos del Poder Ejecutivo, serán sustituidos por el Consejero Jurídico del Gobierno del Estado, en los términos del presente Decreto.
+
+SEXTO.- El Coordinador General de Asuntos Jurídicos de la Gubernatura, se encargará del despacho de la Consejería Jurídica del Poder Ejecutivo, hasta que el Gobernador del Estado realice el nombramiento correspondiente.
+
+SÉPTIMO.- El Gobernador del Estado expedirá el Reglamento de la Conserjería Jurídica del Gobierno del Estado dentro del plazo de sesenta días, a partir de la publicación del presente Decreto.
