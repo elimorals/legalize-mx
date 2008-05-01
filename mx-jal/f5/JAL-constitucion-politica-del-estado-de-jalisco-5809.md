@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2008-01-22"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -897,6 +897,14 @@ El Presidente y los consejeros durarán en su encargo cuatro años y sólo podr�
 
 XXXIV. Presidir la junta preparatoria para instalar la nueva legislatura.
 
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+
+XXXV. Delimitar, y hacer la declaratoria de las áreas metropolitanas localizadas en el territorio del estado; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+
+XXXVI. Hacer la declaratoria de las regiones metropolitanas propuestas por el Poder Ejecutivo del Estado.
+
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TITULO QUINTO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
@@ -1121,7 +1129,13 @@ XXII. Delegar facultades específicas en el ámbito administrativo, cuando no ex
 
 XXIII. Divulgar la legislación local en el Estado; y
 
-XXIV. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2008)</small>
+
+XXIV. Hacer la propuesta de delimitación de las regiones metropolitanas que se encuentren ubicadas dentro del territorio del estado, a partir de la declaratoria de áreas metropolitanas que haga el Congreso del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+
+XXV. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1535,9 +1549,9 @@ Para ser Presidente Municipal, regidor y síndico se requiere:
 
 I. Ser ciudadano mexicano;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2008)</small>
 
-II. Ser nativo del municipio o zona conurbada correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos anteriores al día de la elección;
+II. Ser nativo del municipio o área metropolitana correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos al día de la elección;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1719,15 +1733,19 @@ V. Intervenir en la regularización de la tenencia de la tierra urbana;
 
 VI. Participar en la creación y administración de zonas de reserva ecológica, y
 
-VII. Organizar y conducir la planeación del desarrollo del municipio y establecer los medios para la consulta ciudadana y la participación social.
+VII. Organizar y conducir la planeación del desarrollo del municipio y establecer los medios para la consulta ciudadana y la participación social;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 VIII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando afecten su ámbito territorial; y
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2008)</small>
 
-IX. Celebrar convenios para la administración y custodia de zonas federales.
+IX. Celebrar convenios para la administración y custodia de zonas federales; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+
+X. Celebrar convenios de coordinación, establecer mecanismos de colaboración y crear figuras de asociación con otros ayuntamientos, cuando éstos pertenezcan a una misma área metropolitana.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -1742,6 +1760,20 @@ El Congreso del Estado emitirá las normas de aplicación general para la celebr
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2004)</small>
 
 Las comunidades indígenas dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos que prevenga la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+
+Art. 81 bis. Cuando se trate de municipios pertenecientes a una misma área metropolitana, éstos se coordinarán, en pleno ejercicio de sus facultades constitucionales, de acuerdo con las bases generales que en materia de coordinación metropolitana expida el Congreso del Estado.
+
+La coordinación metropolitana se efectuará a través de las siguientes instancias:
+
+I. Una instancia de coordinación política por cada una de las áreas metropolitanas, que se integrarán por los presidentes municipales de los ayuntamientos del área metropolitana correspondiente y, previo convenio, por el Gobernador del Estado. La personalidad jurídica de dichas instancias será definida por sus integrantes;
+
+II. Una instancia de carácter técnico que estará constituido como un organismo público descentralizado, con personalidad jurídica y patrimonio propios denominado Instituto Metropolitano de Planeación, mismo que deberá ser constituido por los ayuntamientos del área metropolitana correspondiente; y
+
+III. Una instancia consultiva y de participación ciudadana, de carácter honorífico, por cada una de las áreas metropolitanas, que podrá participar en las tareas de evaluación y seguimiento.
+
+Las reglas para la organización y funcionamiento de las instancias de coordinación metropolitana, estarán establecidas en las leyes que sobre la materia expida el Congreso del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1805,11 +1837,15 @@ Corresponde la calificación de las infracciones administrativas derivadas de lo
 
 Corresponde al síndico la representación jurídica del municipio, acatando en todos los casos las decisiones del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2008)</small>
 
 ###### Art. 87.
 
-Cuando dos o más centros urbanos situados en el territorio de dos o más municipios, por su crecimiento y relaciones socioeconómicas, formen o tiendan a formar una zona conurbada, el Ejecutivo del Estado y los ayuntamientos respectivos, en el ámbito de sus competencias, podrán convenir para planear y regular de manera conjunta y coordinada, el desarrollo y la prestación de los servicios públicos en dichas zonas, con apego a las leyes de la materia.
+Cuando dos o más municipios del estado formen un mismo centro de población que por su crecimiento urbano, continuidad física y relaciones socioeconómicas sea declarado por el Congreso del Estado como área metropolitana, el Ejecutivo del Estado y los ayuntamientos respectivos, en el ámbito de sus competencias, convendrán para planear y regular de manera conjunta y coordinada su desarrollo, así como para la más eficaz prestación de los servicios públicos, con apego a las leyes en la materia.
+
+Así mismo, cuando dos o más centros urbanos ubicados en el territorio de dos o más municipios del estado que por su cercanía geográfica, tendencias de crecimiento, y relaciones socioeconómicas sean declarados por el Congreso del Estado como región metropolitana, el Ejecutivo del Estado y los ayuntamientos respectivos, en el ámbito de sus competencias, convendrán para planear y regular de manera conjunta y coordinada su desarrollo, con apego a las leyes en la materia.
+
+Cuando los casos citados en el presente artículo involucren a una o más entidades federativas, se estará a lo señalado en la fracción VI del artículo 115 de la Constitución General de la República.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -2702,3 +2738,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Notifíquese a los ayuntamientos del estado de Jalisco, para que manifiesten su aprobación en los términos señalados por el artículo 117 de la Constitución local.
 
 TERCERO. Se derogan todas las normas y disposiciones que se opongan, al presente decreto.
+
+P.O. 1 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Notifíquese a los municipios del estado de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
