@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2006-01-27"
+last_updated: "2008-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -771,33 +771,39 @@ La comisión podrá invitar a los ciudadanos interesados en el asunto de que se 
 
 COMISIONES PERMANENTES
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 70.
 
-Son comisiones permanentes las siguientes:
+Serán Comisiones permanentes las siguientes:
 
-I.- Gobernación y Legislación;
+I. Gobernación.
 
-II.- Hacienda;
+II. Hacienda.
 
-III.- Obras y Servicios Públicos;
+III. Obras y Servicios Públicos.
 
-IV.- Desarrollo Urbano y Control Ecológico;
+IV. Desarrollo Urbano y Control Ecológico.
 
-V.- Administración Pública;
+V. Administración Urbana.
 
-VI.- Seguridad, Tránsito y Transporte;
+VI. Seguridad, Tránsito y Transportes.
 
-VII.-Planeación del Desarrollo;
+VII. Planeación del Desarrollo.
 
-VIII.- Publicaciones y asuntos fronterizos;
+VIII. Publicaciones y Asuntos Fronterizos.
 
-IX. Salud y Asistencia Social;
+IX. Salud y Asistencia Social.
 
-X.- Educación, Cultura y Deporte;
+X. Educación, Cultura y Deporte.
 
-XI.- Gestión Social;
+XI. Gestión Social.
 
-XII.- Bomberos y Protección Civil.
+XII. Bomberos y Protección Civil.
+
+XIII. Desarrollo Rural y Comunidades Indígenas.
+
+XIV. Equidad de Genero.
 
 COMISIÓN DE GOBERNACIÓN Y LEGISLACION
 
@@ -981,11 +987,43 @@ II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar l
 
 III.- Las demás que el Cabildo le encomiende.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2008)</small>
+
+ARTICULO 82 BIS.- La Comisión de Desarrollo Rural y Comunidades Indígenas tendrá las siguientes atribuciones:
+
+I).- Dictaminar sobre los proyectos de Reglamentos, Iniciativas de Ley, Decretos y Disposiciones normativas de observancia general en materia de desarrollo Rural y Comunidades Indígenas.
+
+II).- Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar el Desarrollo Rural y Comunidades Indígenas.
+
+III).- Proponer acciones tendientes a incentivar la participación y desarrollo integral de la zona rural.
+
+IV).- Proponer al Cabildo mecanismos e instrumentos necesarios para promover el equilibrio de las políticas del desarrollo económico, comercial, turístico, cultural y social del municipio, así como la participación de la (sic) comunidades rurales e indígenas en los asuntos de interés publico.
+
+V).- Las demás que el Cabildo le encomiende.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2008)</small>
+
+ARTICULO 82 TER.- La Comisión de Equidad de Genero, tendrá las siguientes atribuciones:
+
+I).- Impulsar las propuestas de la sociedad para alcanzar la equidad de genero en el ámbito político, social, cultural y económico para incluir este principio en la planeación de nuestra comunidad.
+
+II).- Solicitar ante las autoridades de los tres niveles de gobierno acciones encaminadas al ejercicio pleno de los derechos de las mujeres y de los hombres.
+
+III).- Vincularse con organismos no gubernamentales para establecer estrategias y programas en relación a la equidad de genero y propiciar su difusión y beneficios de la comunidad.
+
+IV).- Promover el reconocimiento publico tanto de hombres como mujeres sobresalientes en los ámbitos, políticos, social, cultural, deportivo y demás actividades que resalten la oportunidad de equidad de genero.
+
+V).- Gestionar ante las diferentes dependencias gubernamentales recursos suficientes para generar y apoyar programas de Instituciones dedicadas a la promoción y fortalecimiento de la equidad de genero.
+
+VI).- Las demás que el Cabildo le encomiende.
+
 REMISION A COMISIONES
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 83.
 
-Todas las propuestas que determine el cabildo serán turnadas a las comisiones y una vez estudiadas, analizadas y discutidas formularán el dictamen correspondiente, el cual se rendirá dentro de los plazos establecidos en el artículo 88 de este ordenamiento.
+Todas las propuestas que determine el Cabildo serán turnadas a las Comisiones y una vez estudiadas, analizadas y discutidas formularan el dictamen correspondiente, el cual se rendirá dentro de los plazos establecidos en el Articulo 88 de este ordenamiento.
 
 CONVOCATORIA
 
@@ -1130,5 +1168,9 @@ P.O. 2 DE SEPTIEMBRE DE 2005.
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 27 DE ENERO DE 2006.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 2 DE MAYO DE 2008.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
