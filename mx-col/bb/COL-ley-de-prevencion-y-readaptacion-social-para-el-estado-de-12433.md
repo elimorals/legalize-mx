@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2007-02-08"
+last_updated: "2008-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -609,7 +609,9 @@ REFORMADO, P.O. 28 DE MARZO DE 1998)
 
 Al sentenciado mayor de 70 años de edad, la Dirección podrá autorizarle la sustitución de la prisión por tratamiento en libertad hasta el total cumplimiento de la sanción.
 
-Este tratamiento, procederá también en beneficio de los internos que padezcan una enfermedad en fase terminal.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Este tratamiento, procederá también en beneficio de los internos que padezcan una enfermedad en fase terminal, independientemente del indulto al que en su caso el Ejecutivo del Estado podrá decretarlo.
 
 ###### ARTICULO 79.
 
@@ -637,9 +639,17 @@ El indulto extingue las sanciones impuestas en sentencia ejecutoriada, con excep
 
 Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad públicas, conforme a la opinión fundada y razonada del Consejo Técnico correspondiente y de la DIRECCION, el Titular del Poder Ejecutivo del Estado discrecionalmente podrá conceder indulto en los casos siguientes:
 
-I.- Por los delitos de carácter político a que alude el artículo 107 del Código Penal, con las excepciones que en el mismo se citan; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-II.- Cuando el sentenciado haya prestado importantes servicios al Estado o a la Nación.
+I. Por los delitos de carácter político a que alude el artículo 107 del Código Penal, con las excepciones que en el mismo se citan;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+II. Cuando el sentenciado haya prestado importantes servicios al Estado o a la Nación; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+III. Cuando independientemente de las sanciones impuestas, aparezca que el condenado es inocente, o siendo culpable se diagnostique que padece una enfermedad en fase terminal que implique la pérdida de la vida.
 
 ARTICULO 86 (SIC).- El solicitante ocurrirá a la DIRECCION, por conducto del director del reclusorio, acompañando a su petición, tratándose de la fracción II del artículo anterior, los justificantes de los servicios prestados.
 
@@ -762,5 +772,9 @@ CUARTO.- En tanto se expida el Reglamento Interno de esta Ley, el Consejo de Adm
 QUINTO.- Se deroga el Capítulo VIII de la Ley de Prevención y Readaptación Social para el Estado de Colima y todas las demás disposiciones que se opongan a la presente ley.
 
 P.O. 8 DE FEBRERO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
