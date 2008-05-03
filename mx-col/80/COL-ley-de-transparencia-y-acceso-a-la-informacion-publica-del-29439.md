@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-2943
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-01"
-last_updated: "2004-01-17"
+last_updated: "2008-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 1 de marzo de 2003.
 
@@ -247,9 +247,11 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público, reglamentaria de los artículos 6° de la Constitución Política de los Estados Unidos Mexicanos y 1, fracción IV, de la Constitución Política del Estado y tiene por objeto garantizar el ejercicio del derecho de toda persona de tener acceso a la información pública en el Estado de Colima.
+La presente Ley es de orden público, reglamentaria de los artículos 6° de la Constitución Política de los Estados Unidos Mexicanos y 1° Bis, fracción IV, de la Constitución Política del Estado y tiene por objeto garantizar el ejercicio del derecho de toda persona de tener acceso a la información pública en el Estado de Colima.
 
 ###### ARTICULO 2°.
 
@@ -267,7 +269,9 @@ El derecho de acceso a la información pública es aquel que corresponde a toda 
 
 La información creada, administrada o en posesión de los órganos previstos en esta Ley, se considera un bien público accesible a cualesquier persona en los términos previstos por la misma.
 
-En la interpretación de esta Ley se deberá favorecer el principio de publicidad de la información.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+En la interpretación de esta Ley se deberá favorecer el principio de máxima publicidad de la información.
 
 ###### ARTICULO 4°.
 
@@ -277,9 +281,11 @@ En materia política sólo podrán hacer uso de este derecho los ciudadanos mexi
 
 El uso que se haga de la información es responsabilidad de la persona que la obtuvo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 5°.
 
-Todas las entidades públicas están sometidas al principio de publicidad de sus actos y obligadas a respetar el ejercicio social del derecho de acceso a la información pública.
+Todas las entidades públicas están sometidas al principio de máxima publicidad de sus actos y obligadas a respetar el ejercicio social del derecho de acceso a la información pública.
 
 Los partidos políticos y las asociaciones políticas con registro oficial, rendirán información respecto a los recursos públicos recibidos.
 
@@ -287,7 +293,9 @@ Los partidos políticos y las asociaciones políticas con registro oficial, rend
 
 Quienes produzcan, administren, manejen, archiven o conserven información pública serán responsables de la misma en los términos de esta Ley.
 
-Toda la información en poder de las entidades públicas estará a disposición de las personas, salvo aquella que se considere como reservada o confidencial.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Toda la información en poder de cualquier autoridad pública, órgano y organismo estatal y municipal, es pública y estará a disposición de las personas, salvo aquella que se considere como reservada o confidencial en los términos que fije la ley respectiva.
 
 ###### ARTICULO 7°.
 
@@ -473,7 +481,9 @@ VII. Cuando se trate de información de particulares recibida por la administrac
 
 VIII. Cuando se trate de información que pueda generar una ventaja personal indebida en perjuicio de un tercero.
 
-En todo momento la Comisión tendrá acceso a la información prevista en este artículo para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+En todo momento la Comisión tendrá acceso a la información prevista en este artículo para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso, haciendo prevalecer en todo caso el principio de máxima publicidad.
 
 ###### ARTICULO 22.
 
@@ -547,19 +557,25 @@ Para el efecto, las entidades públicas deben dar a conocer cuál es la oficina 
 
 La solicitud deberá hacerse en términos respetuosos y por escrito, entregándose por duplicado, a menos que la índole del asunto permita que sea verbal, en cuyo caso la entidad registrará en un formato las características de la solicitud y procederá a entregar una copia del mismo al interesado.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Podrá ser verbal cuando sea para fines de orientación, medie consulta directa, copias simples, certificadas u otro tipo de medios.
+
 ###### ARTICULO 29.
 
 La solicitud de acceso a la información que se presente por escrito deberá contener cuando menos los siguientes datos:
 
 I. Identificación de la entidad pública a quien se dirija;
 
-II. Nombre completo, datos generales e identificación con documento oficial del solicitante;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+II. Nombre del solicitante;
 
 III. Identificación clara y precisa de los datos e informaciones que requiere;
 
 IV. Lugar o medio señalado para recibir la información o notificaciones;
 
-V. La firma del solicitante o, en su caso, su huella digital; y
+V. (DEROGADA, P.O. 3 DE MAYO DE 2008)
 
 VI. La fecha de su expedición.
 
@@ -581,7 +597,7 @@ En ningún caso el plazo excederá de veinte días hábiles.
 
 ###### ARTICULO 31.
 
-Cumplido el plazo previsto en el artículo anterior, si la solicitud de información no se hubiese satisfecho o la respuesta fuese ambigua o parcial a juicio del solicitante, éste podrá acudir a la Comisión a fin de que requiera a la entidad pública correspondiente la información solicitada en los términos legalmente procedentes.
+Cumplido el plazo previsto en el articulo anterior, si la solicitud de información no se hubiese satisfecho o la respuesta fuese ambigua o parcial a juicio del solicitante, éste podrá acudir a la Comisión a fin de que requiera a la entidad pública correspondiente la información solicitada en los términos legalmente procedentes.
 
 Cuando por negligencia no se dé respuesta en tiempo y forma a la solicitud de acceso a la información, la autoridad queda obligada a otorgarle la información en un período no mayor a los diez días hábiles, cubriendo todas las costas generadas por la reproducción del material informativo, siempre y cuando la información de referencia no sea reservada o confidencial.
 
@@ -609,11 +625,11 @@ Las entidades públicas consideradas en la presente Ley, están obligadas a entr
 
 ### CAPÍTULO VI. DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 35.
 
-Se crea la Comisión Estatal para el Acceso a la Información Pública como autoridad encargada de la promoción, difusión e investigación sobre el derecho de acceso a la información pública con carácter de organismo público descentralizado, con personalidad jurídica y patrimonio propios y autonomía de operación y de decisión.
+Se crea la Comisión Estatal para el Acceso a la Información Pública como autoridad encargada de la promoción, difusión e investigación sobre el derecho de acceso a la información pública con carácter de organismo público descentralizado, con personalidad jurídica y patrimonio propio y autonomía operativa, de gestión y de decisión.
 
 ###### ARTICULO 36.
 
@@ -850,3 +866,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. E
 P.O. 17 DE ENERO DE 2004.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
