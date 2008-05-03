@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2007-09-08"
+last_updated: "2008-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -823,11 +823,47 @@ ARTICULO 92 BIS 1.- Los propietarios o poseedores de cualquiera de los estableci
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
 
-ARTÍCULO 92 BIS 2.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones higiénico-sanitarias que determine esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+ARTICULO 92 BIS 2.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones higiénico-sanitarias que determine esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
 En caso de incumplimiento por parte de los propietarios o poseedores de dichos establecimientos, la Secretaría, llevará a cabo las acciones sanitarias preventivas necesarias para corregir las anomalías existentes o detectadas a través del procedimiento señalado en la fracción IV del artículo 121 de esta Ley.
 
-### CAPITULO I. AUTORIZACIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
+
+### CAPITULO XIX. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL CONSUMO DE TABACO
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+ARTICULO 92 TER.- La Secretaría en conjunto con el Sistema Estatal de Salud, se coordinarán con las autoridades sanitarias federales de conformidad a lo establecido por el artículo quinto fracción II de la presente Ley, para la planeación, ejecución y evaluación en el Estado de los programas contra el alcoholismo y el consumo de tabaco, mismos que comprenderán las siguientes acciones:
+
+A. Programa contra el alcoholismo:
+
+I. La prevención y tratamiento de las personas con problemas de alcoholismo y, en su caso, la rehabilitación de las mismas;
+
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a la infancia y población adolescente, a través de métodos individuales, sociales y de comunicación masiva; y
+
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas vulnerables y en grupos de población considerados de alto riesgo.
+
+B. Programa contra el consumo de tabaco:
+
+I. La Investigación de las causas del tabaquismo;
+
+II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a niños y adolescentes a través de métodos individuales, colectivos y de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+
+III. La prohibición de fumar en el interior de los edificios públicos, con excepción de las áreas reservadas que deberán destinarse para los fumadores; y
+
+IV. La reglamentación para su consumo.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+ARTICULO 92 TER 1.- Aunado a las acciones a que refiere el artículo que precede, la Secretaría en conjunto con las dependencias que conforman el Sistema Estatal de Salud, Incluirán para su análisis en el correspondiente estudio de campo:
+
+I. Los efectos de la publicidad y su incidencia en el abuso de bebidas y tabaco, así como los problemas relacionados con su consumo;
+
+II. Los hábitos de consumo de alcohol y tabaco en los diferentes grupos de población;
+
+III. Efectos del abuso de éstas sustancias en los ámbitos familiar, social, educativo, laboral, deportivo y de espectáculos; y
+
+IV. Los demás casos que ameriten su estudio y Análisis.
 
 ###### ARTICULO 81.
 
@@ -847,7 +883,7 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
-### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 85.
 
@@ -857,7 +893,7 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 87.
 
@@ -867,7 +903,7 @@ Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 89.
 
@@ -903,13 +939,13 @@ Las autoridades competentes mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O 14 DE JULIO DE 2007)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ## TITULO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 93.
 
@@ -941,7 +977,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 100.
 
@@ -987,7 +1023,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 107.
 
@@ -1020,6 +1056,8 @@ Los certificados a que se refiere este título, se extenderán en los formatos a
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 112.
 
@@ -1476,3 +1514,7 @@ P.O. 14 DE JULIO DE 2007.
 P.O. 8 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El Presente Decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
