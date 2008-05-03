@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2008-04-19"
+last_updated: "2008-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1233,7 +1233,9 @@ ART. 146.- El matrimonio debe celebrarse ante los funcionarios que establece la 
 
 ART. 147.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-ART. 148.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los presidentes municipales pueden conceder dispensas de edad por causas graves y justificadas.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+ART. 148.- Para contraer matrimonio, el hombre y la mujer necesita haber cumplido dieciocho años. Los Presidentes Municipales pueden conceder dispensas de edad por causas graves y justificadas, siendo ésta dispensa hasta los dieciocho años.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
 
@@ -10370,5 +10372,9 @@ P.O. 26 DE ENERO DE 2008.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 19 DE ABRIL DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
