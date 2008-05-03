@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2007-05-12"
+last_updated: "2008-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCION Y ATENCION A LA VIOLENCIA INTRAFAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -51,13 +51,21 @@ LEY PARA LA PREVENCION Y ATENCION A LA VIOLENCIA INTRAFAMILIAR
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de la presente Ley son de orden público e interés general, y tienen por objeto establecer las bases de coordinación y competencia de los servicios públicos con los que cuenta el Estado, para la atención de las personas generadoras y receptoras de la violencia intrafamiliar su prevención o sanción en su caso.
+Las disposiciones de la presente Ley son de orden público e interés general, y tienen por objeto establecer las bases de coordinación y competencia de los servicios públicos con los que cuenta el Estado, los municipios y la federación, para la atención de las personas generadoras y receptoras de violencia intrafamiliar, su prevención, erradicación o sanción en su caso; así como los lineamientos para la atención y sanción de la violencia intrafamiliar mediante los modelos de atención y la debida aplicación de los procedimientos, que desalienten la violencia intrafamiliar en el Estado de Colima.
+
+Las garantías y principios rectores tutelados por esta Ley son la vida, la integridad física, psicoemocional, sexual, patrimonial y económica de los miembros de la familia.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 2.
 
-Para los efectos de la Ley, la atención, se entiende como una función del Estado, que tiene como fin, salvaguardar la integridad y derechos de las personas receptoras y el tratamiento integral o sanción de las generadoras de la violencia intrafamiliar.
+Para los efectos de esta Ley, la atención, se entiende como una función del Estado, que tiene como fin, salvaguardar la integridad y los derechos de las personas receptoras y el tratamiento integral o sanción de las generadoras de la violencia intrafamiliar.
+
+En el caso de las personas receptoras de violencia intrafamiliar, todas las autoridades tendrán la obligación de suplir la deficiencia de la queja.
 
 ###### ARTICULO 3.
 
@@ -85,13 +93,31 @@ VIII.- Dirección General de Prevención y Readaptación Social del Estado;
 
 IX.- Comisión Estatal de Derechos Humanos;
 
-X.- Dirección de Seguridad Pública y Vialidad, y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-XI.- Organos competentes correspondientes de las Policías Preventivas de los Municipios.
+X.- Instituto Colimense de las Mujeres;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XI.- Dirección de Policía Estatal Preventiva;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XII.- Ayuntamientos del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XIII.- Direcciones Municipales de Seguridad Pública, y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XIV.- Coordinadora Estatal de Prevención y Atención a la Violencia Intrafamiliar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 5.
 
-Para el cabal cumplimiento de los objetivos de esta Ley, las instituciones señaladas en el artículo anterior, dispondrán y programarán las acciones necesarias, con sus propias estructuras administrativas, humanas y operativas.
+Para el cabal cumplimiento de los objetivos de esta Ley, las instituciones señaladas en el artículo anterior, dispondrán y programarán las acciones necesarias, con sus propias estructuras administrativas, humanas, presupuestales y operativas.
 
 Igualmente, dichas instituciones, remitirán mensualmente los informes que, en términos de esta Ley, recaben sobre los probables casos de violencia intrafamiliar que sean de su conocimiento, a la Secretaría General Ejecutiva del Consejo, para los efectos de recopilación, diagnóstico, programación y seguimiento de acciones.
 
@@ -107,7 +133,13 @@ Se crea el Consejo Estatal para la Prevención y Atención de la Violencia Intra
 
 Dicho Consejo contará con una Secretaría General Ejecutiva, cuya titularidad dependerá de la Dirección General de Prevención y Readaptación social, dependiente de la Secretaría General de Gobierno, la persona designada tendrá a su cargo la operatividad de la aplicación de la presente Ley y la organización interna y funciones administrativas del Consejo.
 
-Dispondrá también de un equipo técnico, integrado por expertos con reconocida trayectoria en la materia, nombrados por el propio Consejo.
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Así mismo contará con una instancia Coordinadora de Atención y Prevención de la Violencia Intrafamiliar con la finalidad de integrar, analizar, definir y ejecutar modelos de atención e investigación con las instituciones operativas del Consejo.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Dispondrá de un equipo técnico, integrado por los expertos con reconocida trayectoria en la materia, nombrados por el propio Consejo.
 
 ###### ARTICULO 8.
 
@@ -123,21 +155,47 @@ IV.- Aprobar el Programa Global para la Atención y Prevención de la Violencia 
 
 V.- Evaluar anualmente los logros y avances del Programa Global;
 
-VI.- Celebrar convenios o acuerdos, dentro del marco del Plan Estatal de Desarrollo y el Programa Nacional y Estatal de la Mujer, para la coordinación de acciones a nivel estatal y municipal, así como con las dependencias de la Administración Pública Federal, según sus ámbitos de competencia;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+VI.- Celebrar convenios o acuerdos, dentro del marco del Programa Nacional, Estatal y Municipal de las Mujeres, para la coordinación de acciones a nivel estatal y municipal, así como con las dependencias de la Administración Pública Federal, según sus ámbitos de competencia;
 
 VII.- Avalar los convenios que se mencionan en el artículo 16 inciso e) de esta Ley;
 
-VIII.- Fomentar la realización de campañas encaminadas a sensibilizar y concientizar a la población en general, sobre las formas de expresión de la violencia intrafamiliar, sus efectos en las víctimas y demás integrantes del núcleo de convivencia, así como las formas de prevenirla, combatirla y erradicarla;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+VIII.- Fomentar la realización de campañas encaminadas a sensibilizar y concientizar a la población en general, sobre las formas de expresión de violencia intrafamiliar, sus efectos en las personas receptoras y demás integrantes del núcleo de convivencia; así como las formas de prevenirla, combatirla, erradicarla y fomentar la cultura de la denuncia;
 
 IX.- Incentivar el estudio e investigación sobre violencia intrafamiliar y difundir los resultados que deriven de dichos estudios;
 
-X.- Organizar cursos y talleres de capacitación para los servidores públicos, a quienes corresponda la atención y prevención de la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-XI.- Organizar y mantener actualizado, un banco de datos sobre estadísticas de casos de violencia intrafamiliar en la Entidad y difundir esta información para efectos preventivos;
+X.- Impulsar Seminarios, cursos y talleres de capacitación para los servidores públicos, a quienes corresponda la atención y prevención de la violencia intrafamiliar;
 
-XII.- Promover la creación de instituciones privadas, fundaciones y asociaciones civiles para la atención y prevención de la violencia intrafamiliar, y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-XIII.- Promover la creación de un Patronato que auxilie al Consejo para la obtención de fondos financieros que permitan el fortalecimiento del presupuesto designado para el desarrollo de los programas.
+XI.- Establecer y mantener actualizado, un banco de datos sobre estadísticas de casos de violencia intrafamiliar en el Estado y difundir esta información para efectos preventivos;
+
+XII.- Promover la creación de instituciones privadas, fundaciones y asociaciones civiles para la atención y prevención de la violencia intrafamiliar, y (sic)
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XIII.- Impulsar la creación y funcionamiento de la Coordinadora Estatal para la Prevención y Atención de la Violencia Intrafamiliar como instancia operativa del Consejo;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XIV.- Fomentar la consolidación y la permanencia de la Red interinstitucional de atención a personas receptoras y a generadoras de violencia intrafamiliar en el Estado entre las instituciones integrantes del Consejo, mediante su participación en los programas y acciones establecidas para su funcionamiento;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XV.- Impulsar las terapias de contención emocional para el personal profesional que atiende violencia intrafamiliar en el Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XVI.- Promover el intercambio dé información a nivel nacional e internacional sobre políticas, estrategias y resultados de las acciones de prevención, atención y sanción contra la violencia intrafamiliar, y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XVII.- Promover la incorporación de los Municipios a las políticas estatales en materia de prevención, atención y sanción contra la violencia intrafamiliar, a fin de que incorporen en sus Reglamentos los lineamientos específicos para atender y efectuar los procedimientos que la Ley señala.
 
 ###### ARTICULO 9.
 
@@ -157,19 +215,27 @@ El Consejo sesionará ordinariamente, cada tres meses, así como extraordinariam
 
 ### CAPITULO III. DE LAS FUNCIONES Y COMPETENCIAS
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 11.
 
-Corresponde al H. Congreso del Estado por conducto de las Comisiones de Seguridad Pública, Prevención y Readaptación Social, y Protección Civil; y de Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género, coadyuvar con las Instituciones señaladas en el artículo 4º en todas las acciones necesarias para garantizar la operatividad de la presente ley.
+Corresponde al H. Congreso del Estado por conducto de las Comisiones de Seguridad Pública, Prevención y Readaptación Social y Protección Civil; y de Derechos Humanos, Atención al Migrante y Promoción de la Equidad y Género coadyuvar con las instituciones señaladas en el artículo 4º en todas las acciones necesarias para garantizar la operatividad de la presente ley.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 12.
 
-Compete al H. Supremo Tribunal de Justicia en el Estado, como representante del Poder Judicial y por conducto de sus Jueces, una vez avocados al conocimiento de causas penales o juicios civiles, referentes a delitos o asuntos que tengan su origen en la violencia intrafamiliar; incluir como objeto de prueba el esclarecimiento de la participación que cada uno de los involucrados haya tenido en la generación de dicha violencia, para efectos de su atención, prevención o sanción.
+Compete al Supremo Tribunal de Justicia en el Estado, como representante del Poder Judicial y por conducto de sus Jueces, una vez avocados al conocimiento de causas penales o juicios civiles, referentes a delitos o asuntos que tengan su origen en la violencia intrafamiliar; incluir como objeto de prueba el esclarecimiento de la participación que cada uno de los involucrados haya tenido en la generación de dicha violencia, para efectos de su atención, prevención o sanción.
+
+Por el mismo conducto, decretar la atención especializada que ofrece el Consejo a las partes involucradas en los juicios motivados por violencia intrafamiliar.
+
+De conformidad con la legislación procesal civil y penal vigente en el Estado y a la interpretación de los Tratados y Convenciones Internacionales que nuestro país ha firmado y ratificado, los jueces podrán practicar las diligencias que a su juicio sean necesarias, tomando en cuenta las pruebas preconstituidas, incluyendo los dictámenes, informes, opiniones y expedientes, que se hubieren integrado en las instituciones públicas o privadas, dedicadas a atender la violencia intrafamiliar.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 13.
 
-Corresponde a los Jueces de Primera Instancia en Materia Familiar, librar las órdenes de protección que establece la presente legislación.
+Corresponde a los Jueces de Primera Instancia en Materia Familiar, Civil, Penal y Mixtos, librar las órdenes de protección que establece la presente legislación con la prioridad y urgencia que requieren las familias ante una situación de violencia intrafamiliar.
 
 ###### ARTICULO 14.
 
@@ -179,31 +245,57 @@ En toda diligencia en materia Familiar, que el actuario practique fuera del Juzg
 
 Corresponde a la Secretaría General de Gobierno:
 
-a).- Encauzar a las instituciones oficiales integrantes del Consejo, para la promoción de acciones y programas de Atención, Prevención y sanción de la violencia intrafamiliar;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-b).- Promover que la atención se proporcione en las propias instituciones, por especialistas en la materia y con las actitudes idóneas para ello;
+a).- Encauzar a las instituciones oficiales integrantes del Consejo, para la promoción de acciones y programas de atención, prevención, erradicación y sanción de la violencia intrafamiliar;
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+b).- Promover que la atención se proporcione en las propias instituciones públicas y privadas, por especialistas en la materia con perfil y actitudes idóneas para la comprensión del problema de violencia intrafamiliar;
 
 c).- Llevar un registro de instituciones gubernamentales y organizaciones civiles que trabajen en materia de violencia intrafamiliar en el Estado;
 
-d).- Concertar convenios con las asociaciones de profesionistas, médicos, odontólogos, abogados, enfermeros, psicólogos, etcétera; para brindar apoyo gratuito a las personas receptoras y generadoras de violencia intrafamiliar,
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-e).- Coadyuvar, a través del Registro Civil, a la difusión del contenido y alcances de la presente Ley, en los cursos prematrimoniales a que se refiere la fracción XI del artículo 156 del Código Civil, y
+d).- Concertar convenios con las Asociaciones de Profesionistas, en las ramas de la Medicina, Odontología, Derecho, Sociología, Enfermería, Psicología y Trabajo Social, para brindar apoyo gratuito a las personas receptoras y generadoras de violencia intrafamiliar;
 
-f).- Proporcionar a la Secretaría General Ejecutiva del Consejo, los recursos económicos y materiales suficientes para garantizar la operatividad de esta Ley.
+e).- Coadyuvar, a través del Registro Civil, a la difusión del contenido y alcances de la presente Ley, en los cursos prematrimoniales a que se refiere la fracción XI del artículo 156 del Código Civil, y (sic)
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+f).- Proporcionar a la Secretaría General Ejecutiva del Consejo, los recursos económicos y materiales suficientes para garantizar la operatividad de esta Ley, y
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+g).- Promover en coordinación con el Consejo Estatal, la capacitación y sensibilización de los servidores públicos que forman parte del Supremo Tribunal de Justicia en el Estado, Procuraduría General de Justicia, Defensoría de Oficio y Procuraduría de la Defensa del Menor, que permita la atención integral a las personas receptoras de violencia intrafamiliar, que requieran de sus servicios profesionales.
 
 ###### ARTICULO 16.
 
 Compete a la Secretaría de Salud:
 
-a).- Diseñar programas de detección y atención a las víctimas de violencia intrafamiliar en los hospitales regionales y municipales. Para la detección deberá valorarse la sintomatología y alteraciones psicosomáticas de quienes acudan a recibir atención médica en dichos nosocomios;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-b).- Establecer y mantener comunicación adecuada de los encargados de los hospitales regionales y municipales, con los Agentes del Ministerio Público del Estado y autoridades policíacas que correspondan, para la atención e intervención que resulten de su competencia, en los probables casos de violencia intrafamiliar que sean detectados;
+a).- Diseñar programas de detección y atención para las personas receptoras y/o generadoras de violencia intrafamiliar, usuarias de los servicios de salud.
 
-c).- Diseñar programas de atención a los agresores y receptores de violencia intrafamiliar en hospitales regionales y municipales;
+Para la detección de la violencia, deberá valorarse si la sintomatología y alteraciones psicosomáticas que manifiestan, son consecuencia de la violencia intrafamiliar a que han estado sometidas. En tal circunstancia se aplicarán los lineamientos de la NOM-19-SSA1-1999 "Criterios para la Atención Médica de la Violencia Intrafamiliar", en concordancia con los establecidos en la presente Ley;
 
-d).- Sensibilizar, mediante programas de difusión, sobre la violencia intrafamiliar a la comunidad del área de influencia de los hospitales regionales y municipales, proporcionando información respecto de las medidas de atención y prevención que éstos y otras instituciones ofrezcan a las personas receptoras y generadoras de dicha violencia; y
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-e).- Celebrar convenios de competencia concurrente con el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Generales de los Trabajadores del Estado, para efectos de los incisos anteriores.
+b).- Establecer y mantener comunicación adecuada de los encargados de los hospitales regionales y municipales, con los Agentes del Ministerio Público Especializados en Atención a Violencia intrafamiliar en el Estado y autoridades policíacas que correspondan, para su atención e intervención que resulten de su competencia, en los casos de violencia intrafamiliar que detecten;
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+c).- Diseñar programas de atención a las personas generadoras y receptoras de violencia intrafamiliar en Hospitales Regionales y Municipales;
+
+d).- Sensibilizar, mediante programas de difusión, sobre la violencia intrafamiliar a la comunidad del área de influencia de los hospitales regionales y municipales, proporcionando información respecto de las medidas de atención y prevención que éstos y otras instituciones ofrezcan a las personas receptoras y generadoras de dicha violencia; y (sic)
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+e).- Celebrar convenios de competencia concurrente con el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servios Sociales de los Trabajadores al Servicio del Estado, para efectos de los incisos anteriores, y
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+f).- Fortalecer la vinculación interinstitucional en los Seminarios de capacitación que impulsa el Consejo, con la finalidad de unificar criterios de atención a la violencia intrafamiliar, que permita otorgar a personas usuarias de los servicios de salud la atención integral que proponen la Ley General de Salud y la presente Ley.
 
 ###### ARTICULO 17.
 
@@ -211,29 +303,53 @@ La Secretaría de Educación deberá:
 
 a).- Desarrollar programas educativos, a nivel preescolar, primaria y secundaria, que fomenten la corresponsabilidad familiar en la sana convivencia, con base a los derechos y obligaciones de sus integrantes.
 
-b).- Incorporar, en los procesos de enseñanza-aprendizaje, los derechos humanos en general y en particular los de las personas con discapacidad, de los ancianos, los de la mujer y de los niños, de acuerdo a los principios éticos de respeto a la integridad y dignidad de la persona humana, sin distinción de sexo, edad, etnia o clase social.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+b).- Incorporar, en los procesos de enseñanza-aprendizaje, los derechos humanos en general y en particular los de las personas con discapacidad, de los adultos mayores, de las mujeres, y de las niñas, niños y adolescentes, de acuerdo a los principios éticos de respeto a la integridad y dignidad de la persona humana, sin distinción de sexo, edad, etnia o clase social.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+c).- Impulsar programas de sensibilización sobre violencia intrafamiliar, dirigidos a docentes, madres y padres de familia, en coordinación con el Consejo.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+d).- En coordinación con el Consejo, instrumentar programas que brinden servicios reeducativos integrales para personas receptoras y generadoras de violencia intrafamiliar.
 
 ###### ARTICULO 18.
 
 Corresponde a la Procuraduría General de Justicia del Estado:
 
-a).- Contar, en el Ministerio Público, con una Mesa especializada en delitos en los que, entre el activo y pasivo, exista una relación que se ajuste a alguno de los supuestos de la fracción II del artículo 25 de esta Ley, incluidos los casos conceptuados como de violencia intrafamiliar, tomándose en el procedimiento las previsiones necesarias, para que se cumplan los objetivos de atención y prevención que motivan este ordenamiento y, en su caso, la conciliación de las partes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
+
+a).- Contar en el Ministerio Público, con Agencias Especializadas en Atención a Delitos de Violencia Intrafamiliar, tomándose en el procedimiento las previsiones necesarias, para que se cumplan los objetivos de atención y prevención que motivan este ordenamiento.
 
 Fuera de la Capital del Estado, y mientras las condiciones presupuestales no lo permitan, las funciones especializadas, serán asumidas por el Agente del Ministerio Público que corresponda;
 
 b).- Proporcionar a la persona receptora de la violencia intrafamiliar o, en su caso, víctima del delito, atendiendo a su capacidad cultural, la orientación jurídica y de cualquier otra índole que resulten necesarias, para la consecución eficaz de la atención y prevención que motivan esta Ley;
 
-c).- Ordenar se practiquen a la persona mencionada en el inciso anterior, los exámenes necesarios para determinar las alteraciones de su integridad física o salud, incluyendo el daño psicoemocional, que presente, así como su causa probable. Para este efecto, además del personal calificado en medicina forense con que cuente, se auxiliará con especialistas del Sector Salud del Estado;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+c).- Ordenar se practiquen en todos los casos en que se denuncie violencia intrafamiliar, los exámenes necesarios para determinar las alteraciones de su integridad física incluyendo el daño psicoemocional, a través de la valoración psicológica. Para este efecto, además del personal calificado en medicina forense con que cuente, se auxiliará con especialistas del Sector Salud del Estado;
 
 d).- Proporcionar, mediante línea telefónica de emergencia, servicio de información sobre la violencia intrafamiliar y reporte de casos, que podrá ser hecho no solo por la víctima, sino anónimamente por terceras personas que tengan conocimiento de dicha violencia, por su cercanía con los hechos;
 
-e).- Rendir al Consejo trimestralmente, información estadística sobre los casos de violencia intrafamiliar que hayan sido de su conocimiento, con las observaciones pertinentes para su seguimiento;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+e).- Rendir al Consejo trimestralmente, información estadística sobre las indagatorias iniciadas y consignaciones efectuadas en materia de violencia intrafamiliar que hayan sido de su conocimiento, con las observaciones pertinentes para su seguimiento;
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+f).- Impulsar la capacitación permanente del Ministerio Público y con mayor énfasis en el Especializado en Atención a Violencia Intrafamiliar, mediante programas específicos, que ofrece el Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar, y
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+g).- Practicar los dictámenes de psicología forense, que determinen los rasgos del generador de la violencia intrafamiliar, conforme lo establezca la legislación procesal penal vigente en el estado.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 19.
 
-En los supuestos mencionados en el inciso d) del artículo anterior, según la urgencia del caso, se comisionará a personal del área de servicios sociales, que para efectos de seguridad podrá auxiliarse con elementos policiacos, para que se traslade al lugar de los hechos y recabe la información necesaria, solicitando, de proceder, la intervención directa del Agente del Ministerio Público Especializado, el que, además de actuar conforme a su competencia, determinará, provisionalmente, las medidas de protección a la víctima y familiares que resulten adecuadas de acuerdo a las circunstancias y disposiciones de esta Ley;
-
-Después de recabada la información de que se habla o de no existir urgencia, el Agente del Ministerio Público Especializado citará a los involucrados, tomándose las medidas preventivas adecuadas al caso, procurándose la conciliación de las partes y la suscripción del convenio correspondiente, y en su caso solicite de la autoridad judicial, si es necesaria, la orden de protección a que se refiere esta Ley.
+En los supuestos mencionados en el inciso d) del artículo anterior, según la urgencia del caso, se comisionará a personal del área de servicios sociales, que para efectos de seguridad podrá auxiliarse con elementos policíacos, para que se traslade al lugar de los hechos y recabe la información necesaria, solicitando, de proceder, la intervención directa de la Agencia del Ministerio Público Especializada, la que además de actuar conforme a su competencia, determinará de inmediato las providencias necesarias a que se refieren los artículo 35, 158 y demás aplicables del Código de Procedimientos Penales vigente en el Estado.
 
 ###### ARTICULO 20.
 
@@ -247,35 +363,79 @@ c).- Recabar información sobre la incidencia de casos de violencia intrafamilia
 
 d).- Llevar a la población, los beneficios de esta Ley, mediante promotoras y promotores comunitarios, debidamente capacitados, y
 
-e).- Promover la creación y funcionamiento de albergues temporales, para víctimas de violencia intrafamiliar.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+e).- Promover la creación y funcionamiento de refugios temporales, en coordinación con el Instituto Colimense de las Mujeres e instituciones afines, para personas receptoras de violencia intrafamiliar y para sus hijos e hijas. Con la infraestructura que permita ofrecer la atención integral a que hace referencia esta Ley.
 
 ###### ARTICULO 21.
 
 La Dirección de Prevención y Readaptación Social, además de la participación en el Consejo deberá:
 
-a).- Promover la capacitación y sensibilización de los Defensores de Oficio, en las áreas familiar y penal, a efecto de procurar la adecuada atención a las víctimas receptoras de la violencia intrafamiliar, que requieran de sus servicios profesionales;
+a).- (DEROGADO, P.O. 3 DE MAYO DE 2008)
 
 b).- Promover la capacitación del personal médico y de trabajo social de los reclusorios de la entidad, en la atención y prevención de la violencia intrafamiliar, para el tratamiento adecuado de los internos relacionados con dicha problemática, y
 
-c).- Establecer los vínculos necesarios entre las instituciones mencionadas en el artículo 4o., para que las personas receptoras de la violencia intrafamiliar sean incorporadas a los programas asistenciales que se requieran.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+c).- Establecer los vínculos necesarios entre las instituciones mencionadas en el artículo 4°, de esta Ley para que las personas receptoras y generadoras de la violencia intrafamiliar sean incorporadas a los programas asistenciales que se requieran.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 22.
 
-La Comisión Estatal de Derechos Humanos, en razón de sus funciones proporcionará la orientación jurídica o de cualquier otra índole que resulten necesarias, canalizando a las víctimas a las instituciones adecuadas para su atención.
+La Comisión Estatal de Derechos Humanos, en razón de sus funciones proporcionará la orientación jurídica o de cualquier otra índole que resulten necesarias, canalizando a las personas receptoras y generadoras de violencia intrafamiliar a las instituciones adecuadas para su atención, además impulsará acciones y estrategias de prevención de la violencia intrafamiliar.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+###### ARTICULO 22 Bis.
+
+El Instituto Colimense de las Mujeres fomentará las condiciones que posibiliten la no discriminación y la prevención de la violencia de género; el ejercicio pleno de los derechos de las mujeres, las niñas y las adolescentes.
+
+Impulsará la transversalización de la perspectiva de género en las políticas públicas de prevención y atención a la violencia de género, y en las acciones de las distintas dependencias y entidades de la Administración Pública Estatal a partir de la ejecución de programas conjuntos con el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+###### ARTICULO 22 Bis1.
+
+Los Ayuntamientos del Estado, además de la participación en el Consejo deberán:
+
+a) Instrumentar y articular acciones de atención y prevención en concordancia con la Policía Estatal y la Policía Municipal orientada a erradicar la violencia intrafamiliar;
+
+b) Promover, en coordinación con las instancias estatales y municipales, cursos de capacitación a los servidores públicos que atienden a personas receptoras de violencia,
+
+c) Apoyar la creación de programas de reeducación a los generadores de violencia;
+
+d) Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia intrafamiliar;
+
+e) Apoyar la creación de refugios para las personas receptoras de violencia intrafamiliar;
+
+f) Incorporarse a los programas estatales en materia de prevención, atención y sanción contra la violencia intrafamiliar e integrar en sus Reglamentos los lineamientos que esta Ley propone para la erradicación de la violencia intrafamiliar, y
+
+g) Coordinar en vinculación con el Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar por conducto de las diversas Oficialías del Registro Civil cursos de sensibilización, derechos y ejercicio de los mismos para prevenir la violencia intrafamiliar que permita que las parejas aspiren a una vida libre de violencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 23.
 
-La Dirección de Seguridad Pública y Vialidad tendrá las funciones siguientes:
+La Dirección de la Policía Estatal Preventiva, así como las Direcciones Municipales de Seguridad Pública, tendrán las funciones siguientes:
 
-a).- Promover con personal capacitado programas participativos y de seguimiento en comunidades, colonias y barrios, especialmente los identificados como de alto índice de violencia, para prevenir, desde donde se genera, la violencia intrafamiliar.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-b).- Coordinarse con la Procuraduría General de Justicia para la atención de los casos de violencia intrafamiliar que sean reportados; y
+a).- Promover en coordinación con el Consejo, programas participativos y de seguimiento en comunidades, colonias y barrios, especialmente los identificados de alto índice de violencia, para prevenir, desde donde se genera, la violencia intrafamiliar.
+
+b).- Coordinarse con la Procuraduría General de Justicia para la atención de los casos de violencia intrafamiliar que sean reportados; y (sic)
 
 c).- Proporcionar, en sus cursos de formación policíaca, capacitación sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención, privilegiando la protección a las personas agredidas y actuando con la discreción necesaria, para respetar su dignidad, intimidad y privacidad.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+d).- Auxiliar a las autoridades competentes, en la ejecución de las órdenes de protección, conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 24.
 
-En los órganos competentes correspondientes a las Policías Preventivas de los Municipios, deberán cumplirse con lo previsto en los artículos 31 y 33 de esta Ley.
+La Coordinadora Estatal para la Prevención y Atención a la Violencia Intrafamiliar, tendrá como funciones desarrollar, ejecutar y coordinar las políticas y programas de intervención en violencia intrafamiliar señaladas en el artículo 8° de la presente Ley, aprobadas por el Consejo Estatal.
 
 ## TITULO SEGUNDO
 
@@ -289,21 +449,45 @@ Se considera como:
 
 I.- VIOLENCIA INTRAFAMILIAR:
 
-Aquel acto de poder u omisión intencional, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, económica y sexualmente a cualquiera de las personas citadas en la fracción II de este artículo, que tiene por efecto causar daño, y que puede ser de cualquiera de las siguientes clases:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
-a) Maltrato Físico: Todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, objeto, arma sustancia o parte corporal para sujetar, inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento y control;
+Todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera verbal, física, psicológica, sexual, económica o patrimonial a cualquier miembro de la familia, dentro o fuera del domicilio familiar y que tiene el propósito de causar daño; cuya persona generadora de violencia tenga o haya tenido relación de parentesco, por consanguinidad, afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-b) Maltrato Psicoemocional: Al padrón de conducta consistente en actos u omisiones repetitivos, cuya forma de expresión puede ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias de la conducta humana, de abandono físico y moral; que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad. De igual forma será considerado maltrato psicoemocional, todo acto que se realice con la intención de causar daño en su integridad psicológica a un menor de edad, sin que sea válido el argumento de que la actitud realizada es justificante para la educación y formación de aquel, en el uso del derecho de corregir;
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
 
-c) Maltrato Verbal: Todo acto de agresión intencional, ejecutado a través de lenguaje, con el propósito de ofender, agredir, menospreciar, denigrar o humillar a cualquier persona.
+Las formas de violencia intrafamiliar se definen:
 
-d) Celotipia: Los celos dirigidos a controlar y someter la voluntad de una persona a la propia;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-e) Maltrato Económico: Incluye todos los actos que implican aprobación o destrucción del patrimonio de alguna o algunas de las personas señaladas en la fracción II de este artículo, puede manifestarse en el ejercicio del control de los ingresos de la relación, o bien apoderarse de los bienes propiedad de la otra parte, por su compra o titularidad o por el despojo directo u oculto de los mismos, y por la utilización, menoscabo, destrucción o desaparición de objetos personales de la pareja o de algún familiar;
+A) Violencia física.- Es cualquier acto que inflige daño no accidental, en el que se utilice alguna parte del cuerpo, objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física encaminado a. su sometimiento o control y que pueda provocar o no lesiones ya sean internas, externas, o ambas a la persona receptora de violencia intrafamiliar.
 
-f) Maltrato sexual: El patrón de conductas consistente en actos u omisiones únicas o reiteradas y cuyas formas de expresión pueden ser: inducir a la realización u observación de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño; y
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-g) Vínculo Familiar: Es la relación existente entre las personas que tengan algún parentesco consanguíneo por afinidad o civil, así como entre los que tengan o hayan tenido alguna relación conyugal, de concubinato o de pareja.
+B) Violencia psicológica.- Al patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser: negligencia, abandono físico o moral, insultos, humillaciones, marginación, prohibiciones, coacciones, condicionamientos, intimidaciones o amenazas, que conlleven a la persona receptora de violencia intrafamiliar a la depresión, aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+C) Violencia sexual.- Es cualquier acto que degrada o daña al cuerpo y/o la sexualidad de la persona receptora de violencia y que por tanto, atenta contra su libertad, integridad y seguridad sexual.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+D) Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la persona receptora de violencia intrafamiliar, se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales y puede abarcar los daños a los bienes comunes o propios de la persona receptora de violencia.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+E) Violencia económica.- Es toda acción u omisión de la persona generadora que afecta la supervivencia económica de la persona receptora de violencia y se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones y recursos económicos destinados a satisfacer sus necesidades.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+F) Violencia verbal.- Todo acto de agresión intencional, ejecutado a través del lenguaje, con el propósito de ofender, agredir, menospreciar, denigrar o humillar a cualquier miembro de la familia.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+G) De igual manera, será considerada violencia en cualquiera de sus formas a todo acto que se realice con la intención de causar daño en la integridad de un menor de edad, sin que sea válido el argumento de que se ejecuta en el ejercicio del derecho de corregir.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+H) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas receptoras de violencia intrafamiliar.
 
 II.- MIEMBROS DE LA FAMILIA:
 
@@ -319,29 +503,47 @@ D.- Si están vinculadas con parentesco con consanguinidad, en línea recta o co
 
 E.- Si están o han estado vinculadas con parentesco por afinidad o civil.
 
-F.- Si el agresor o la víctima es pariente por consanguinidad, sin limitación de grado, de la persona con quien ésta o aquel vive o ha vivido en concubinato o amasiato.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-G.- Si la víctima esta bajo tutela, custodia o protección del agresor aunque no exista parentesco alguno.
+F.- Si la persona generadora o receptora de violencia, es pariente por consanguinidad sin limitación de grado, de la persona con quien ésta o aquél vive o ha vivido en concubinato o amasiato.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+G.- Si la persona receptora esta bajo tutela, custodia o protección de la persona generadora de violencia intrafamiliar, aunque no exista parentesco alguno.
 
 III.- PERSONA RECEPTORA DE LA VIOLENCIA INTRAFAMILIAR:
 
 Es aquella que siendo miembro de una familia resiente la violencia intrafamiliar por parte de otro de sus miembros.
 
-IV.- AGRESOR O GENERADOR ACTIVO:
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-Toda persona que realiza actos de violencia sobre otra, existiendo entre ambas alguna de las relaciones mencionadas en la fracción segunda de este mismo artículo.
+IV.- PERSONA GENERADORA DE VIOLENCIA INTRAFAMILlAR:
+
+Es toda persona que realiza actos de violencia u omisiones que la generen sobre un miembro de la familia, en los términos de esta Ley.
 
 V.- ORDEN DE PROTECCION:
 
-Es todo mandato expedido por escrito de autoridad competente, en el cual se ordenan las medidas cautelares, que para la familia señala la legislación civil del Estado.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE MAYO DE 2008)</small>
 
-VI.- PETICIONARIA:
+Son actos de protección personalísimos e intransferibles de urgente aplicación que tienen por objeto proteger el entorno social, la integridad y los bienes de las personas receptoras de violencia intrafamiliar, en función de su interés superior. Deberán otorgarse por autoridad competente y tendrá la temporalidad que determine la legislación vigente.
 
-Persona o personas que solicitan una orden de protección por ser víctima de la violencia intrafamiliar o interesada en que ésta cese.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-VII.- PETICIONADO:
+VI.- ESTADO DE RIESGO:
 
-Es la persona contra la cual se solicita una orden de protección de la autoridad competente.
+Es la circunstancia que implica la posibilidad de un ataque verbal, físico, psicológico, sexual, económico o patrimonial, que genera miedo, intimidación, incertidumbre o ansiedad, ante un evento impredecible de violencia.
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+VII.- MEDIACIÓN:
+
+Es un proceso voluntario al que se someten las partes involucradas en violencia intrafamiliar, en el que una tercera persona las asiste como facilitador (a) para dar solución a sus problemas, mediante un acuerdo mutuamente satisfactorio.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+VIII. MEDIADOR:
+
+Es un servidor público o privado especializado, con experiencia en la atención a la problemática de la violencia intrafamiliar y cuyo fin es facilitar de una manera imparcial y neutral las diferentes alternativas de solución, para que las partes asuman sus propias decisiones y las asienten en un convenio.
 
 ## TITULO TERCERO
 
@@ -359,21 +561,27 @@ a).- Terapéutico: para que se asuma la corresponsabilidad en el conflicto, refo
 
 b).- Educativo: Para influir en la flexibilización de los roles sexuales y asumir derechos y obligaciones en la familia;
 
-c).- Protector: para garantizar la integridad y recuperación del trauma en la víctima que le permita la reorganización de su vida.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+c).- Protector: Para garantizar la integridad, seguridad física y jurídica de la persona receptora de violencia mediante la aplicación irrestricta de la ley; la suplencia de la queja y el otorgamiento de las órdenes de protección que le permita la reorganización de su vida.
 
 II.- Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo, y se abstendrá de asumir entre sus criterios de solución patrones estereotipados de comportamientos o prácticas sociales y culturales, basadas en conceptos de inferioridad o de subordinación entre las personas;
 
 III.- Se basará en modelos psicoterapéuticos adecuados y específicos para personas con perfiles definidos, y programas susceptibles de evaluación.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 27.
 
-La atención a la que se refiere el artículo anterior se hará extensiva en los Centros de Readaptación Social y en lo conducente en el Centro Estatal para Menores, a los internos relacionados con la violencia intrafamiliar, integrándola al régimen educativo, con la participación de los servicios médico y de trabajo social. Será obligatorio para dichos internos, sujetarse a los tratamientos necesarios como condición relevante para el otorgamiento, en su caso, de los beneficios institucionales.
+La atención a la que se refiere el artículo anterior se hará extensiva en los Centros de Readaptación Social y en lo conducente en el Consejo Tutelar para Menores Infractores, relacionados con la violencia intrafamiliar, con la participación de los servicios médicos y de trabajo social integrándola al régimen educativo, con la participación de los servicios médicos y de trabajo social. Será obligatorio para dichos internos, participar en los grupos de reflexión masculina que ofrece el Consejo, como condición relevante para el otorgamiento, en su caso, de los beneficios institucionales.
 
 #### SECCION SEGUNDA. DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 28.
 
-Los servidores públicos a quienes corresponda la atención, orientación, investigación, protección o prevención de la violencia intrafamiliar, deberán contar con la capacitación correspondiente y antecedentes personales de eficiencia, honradez, profesionalismo y respeto a la legalidad y a los derechos humanos.
+Los servidores públicos a quienes corresponda la atención, orientación, investigación, protección, prevención o sanción de la violencia intrafamiliar, deberán contar con la capacitación correspondiente y antecedentes personales de eficiencia, honradez, profesionalismo y respeto a la legalidad y a los derechos humanos y no haber sido sancionados penal o administrativamente por eventos de violencia intrafamiliar.
 
 ###### ARTICULO 29.
 
@@ -383,121 +591,185 @@ La capacitación tendrá una estrategia multiplicadora y deberá estar dirigida 
 
 Los servidores públicos que, en razón de sus funciones, tengan conocimientos de casos de violencia intrafamiliar, cuya atención y prevención se encuentre fuera de sus atribuciones, orientarán y derivarán a los involucrados a las instituciones competentes.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 31.
 
-Siempre que un servidor público de las dependencias señaladas por esta Ley, interviniere en el uso de sus funciones, con una persona que manifieste ser víctima receptora de la violencia intrafamiliar, deberá:
+Siempre que un servidor (a) público de las dependencias señaladas por esta Ley, interviniere en el uso de sus funciones, con una persona que manifieste ser receptora de la violencia intrafamiliar, deberá:
 
-I.- Asesorarla en lo relativo a la importancia de preservar las pruebas que se tengan al respecto de la conducta de su agresor;
+I. Asesorarla en lo relativo a la importancia de preservar las pruebas que se tengan respecto de la conducta de la persona generadora de violencia intrafamiliar;
 
-II.- Informarla de manera clara, sencilla y concreta sobre sus derechos y los servicios públicos o privados disponibles para su caso en particular.
+II. Ofrecer información clara, sencilla y concreta sobre sus derechos y de las órdenes de protección, así como de los servicios públicos o privados disponibles para su caso en particular;
 
-El Agente del Ministerio Público Especializado y el Defensor de Oficio, en su caso, cumplirán con esta obligación, respetando la voluntad de la víctima en cuanto al procedimiento que decida, siempre que no se trate de delitos que no admitan perdón;
+La Agencia del Ministerio Público Especializada y la Defensoría de Oficio en su caso, cumplirán con esta obligación, respetando la voluntad de la persona receptora en cuanto al procedimiento que decida, sin inducir ninguna práctica conciliatoria o de negociación;
 
-III.- Canalizarla de inmediato, dependiendo de su propia competencia, a alguna institución de salud y a la Procuraduría General de Justicia del Estado, cuando la persona indique que ha sufrido golpes, heridas o cualquier daño físico aunque éste no sea visible, o de tipo emocional, que requiera intervención médica, sin perjuicio de que se le sea proporcionada la ayuda urgente necesaria.
+III. Canalizar de inmediato, dependiendo de su propia competencia, a alguna institución de salud, a la Coordinadora Estatal de Prevención y Atención a la Violencia Intrafamiliar y/o a la Procuraduría General de Justicia en el Estado; cuando la persona indique que ha sufrido golpes, heridas o cualquier daño fisico aunque éste no sea visible, o de tipo emocional, que requiera intervención médica, sin perjuicio de que le sea proporcionada la atención urgente necesaria. También, cuando la persona exprese temor de sufrir agresiones probablemente graves en su persona o sus familiares o encontrarse en estado de riesgo, y
 
-Si la persona solo expresa razonable temor, de sufrir agresiones probablemente graves en su persona o familiares, será también canalizada a la Procuraduría General de Justicia en el Estado.
+IV. Cuando la persona esté en condiciones de proporcionar información, el servidor público,.recabará los datos iniciales dejando constancia de las gestiones y canalizaciones realizadas, con la firma de la persona receptora, para el seguimiento del caso y demás efectos señalados en el segundo párrafo del artículo 5° de la presenté ley.
 
-El servidor público, cuando la persona esté en condiciones de proporcionar información, recabará los datos iniciales dejando constancia de las gestiones y canalizaciones realizadas, con la firma de la víctima, para el ulterior seguimiento del caso y demás efectos señalados en el segundo párrafo del artículo 5.
+(REUBICADO, P.O. 3 DE MAYO DE 2008)
 
 ###### ARTICULO 32.
 
 La información a que se refiere el párrafo final de la fracción III del articulo anterior, contendrá las manifestaciones de la persona receptora de la violencia intrafamiliar o, en su caso, de quien denuncie los hechos, la frecuencia de la conducta agresora, su severidad y los incidentes que de ella se han generado, las ocasiones en que se ha acudido a las autoridades, y sus resultados.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 33.
 
-Cuando un agente de la policía preventiva intervenga en un incidente de violencia intrafamiliar, rendirá un informe por escrito de los hechos, en los términos del artículo que antecede, al Director de Seguridad Pública y Vialidad y al Director de la Policía Preventiva Municipal, sin perjuicio de auxiliar a la víctima para que personalmente comparezca ante la Dirección correspondiente, para los efectos del artículo 31.
+Cuando un Agente de la Policía Estatal Preventiva o de Seguridad Pública Municipal, intervenga en un incidente da violencia intrafamiliar, rendirá un informe por escrito de los hechos a sus respectivos directivos, en los términos del artículo que antecede; sin perjuicio de auxiliar a la persona receptora para que personalmente comparezca ante la autoridad correspondiente; para los efectos del artículo 31 de esta ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 34.
 
-En las direcciones de Seguridad Pública Estatales o Municipales, además de cumplirse con lo señalado en el artículo anterior, se proveerán las acciones necesarias para garantizar a la víctima y sus familiares, en el caso, la más completa protección a su integridad y seguridad personales, con las medidas preventivas adecuadas.
+En las Direcciones de la Policía Estatal o de Seguridad Pública Municipales, además de cumplir con lo señalado en el articulo anterior, se proveerán las acciones necesarias para garantizar a la persona receptora de violencia y a los miembros de su familia; en su caso, la más completa protección a su integridad y seguridad personal, con las medidas de protección adecuadas.
 
-#### SECCION TERCERA. DEL PROCEDIMIENTO
+> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 3 DE MAYO DE 2008)</small>
+
+#### SECCION TERCERA. DE LAS ORDENES DE PROTECCION
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 35.
 
-En las Ordenes de Protección, citadas en la fracción V del artículo 25 de esta Ley, el Juez decretará las medidas provisionales señaladas en el capítulo III, del Título Quinto del Código de Procedimientos Civiles y en el artículo 282 del Código Civil para el Estado, observando las modalidades siguientes:
+Son órdenes de protección las especificadas en este artículo y serán decretadas y ejecutadas, por los jueces familiares, civiles, mixtos y penales; que correspondan, independientemente de las medidas provisionales contenidas en la legislación legal aplicable, siendo las siguientes:
 
-I.- Otorgar la custodia material de sus hijos e hijas menores de edad, a la parte peticionaria, si la solicita;
+I. Otorgar la guarda y custodia material de sus hijos e hijas menores de edad a la parte receptora.
 
-II.- Apercibir a la parte peticionada, para que:
+II. Desalojar a la parte generadora de la casa habitación que comparta con la o las personas receptoras de violencia intrafamiliar; independientemente de la acreditación posterior de la propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo.
 
-a)- Se abstenga, en su caso, de esconder o remover de la jurisdicción a los menores de edad procreados por las partes;
+III. Garantizar el reingreso de la persona receptora de violencia intrafamiliar al domicilio, una vez que se salvaguarde de su seguridad.
 
-b).- Se abstenga de causar molestias de cualquier naturaleza a la peticionaria y sus hijos;
+IV. Retención y guarda dé armas de fuego propiedad de la parte generadora de violencia intrafamiliar o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
 
-c).- No disponga en perjuicio de la peticionaria de los bienes privativos de ésta ni de los que correspondan a la sociedad conyugal. Cuando la parte peticionada administre un negocio, comercio o industria de la sociedad conyugal, se dispondrá que mensualmente, deberá rendir un informe financiero a la autoridad judicial que conozca del asunto.
+Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la persona receptora.
 
-III.- Desalojar a la parte peticionada de la casa habitación que comparta con la o las víctimas de la violencia intrafamiliar;
+V. Entrega inmediata de objetos de uso personal y documentos de identidad de la persona receptora de violencia intrafamiliar y de sus hijas e hijos.
 
-IV.- Dictar cualquier otra medida que estime necesaria para el cumplimiento de los fines que salvaguarda la presente legislación.
+VI. Acceso al domicilio en común de autoridades policíacas o de personas que auxilien a la receptora de violencia intrafamiliar a tomar sus pertenencias personales y las de sus hijas e hijos.
+
+VII. Auxilio policíaco de reacción inmediata con autorización expresa de la persona receptora de violencia intrafamiliar, del ingreso al domicilio donde se localice en el momento de otorgar el auxilio; siempre y cuando lo solicite ella misma.
+
+VIII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género a la persona generadora de violencia intrafamiliar en instituciones públicas debidamente acreditadas.
+
+IX. Prohibir a la parte generadora:
+
+a) Esconder o remover de la jurisdicción a los menores de edad procreados por las partes.
+
+b) Hostigar, intimidar, amenazar, dañar, molestar o poner en peligro la integridad de la receptora o de cualquier integrante de su familia, en las áreas en donde habitualmente realizan sus actividades.
+
+c) Acercarse a la parte receptora en un radio de doscientos metros del hogar del que fue desalojado, del trabajo o centro de estudios, del hogar en donde habite o de cualquier otro que frecuente la persona receptora y su familia, y
+
+d) No disponga en perjuicio de la persona receptora, ni de cualquier integrante de su familia, de los bienes privados de estos ni de los que correspondan a la sociedad conyugal. Cuando la parte generadora administre un negocio, comercio o industria que formen parte de los bienes familiares, el juez o jueza, ordenaran que rinda mensualmente un informe financiero a la autoridad judicial que conozca del asunto.
+
+X. Dictar cualquier otra medida que estime necesaria para el cumplimiento de los fines que salvaguarda la presente Ley.
+
+De las medidas dictadas se apercibirá a la parte generadora que en caso de incumplimiento a las órdenes de protección, se le impondrá cualquiera de las medidas de apremio a que se refiere el artículo 73 del Código de Procedimientos Civiles vigente para el Estado, independientemente del delito que se pueda configurar con esa conducta.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 36.
 
-Las medidas del artículo anterior, aplicables a quienes estén unidos en matrimonio, serán extensivas a las parejas en concubinato o amasiato.
+Las medidas del articulo anterior serán, aplicables a quienes estén unidos en matrimonio y se harán extensivas a los miembros de la familia citados en la fracción II del artículo 25 de la presente Ley o cualquier otro tipo de relación familiar de hecho; o que lo hayan estado en el pasado.
 
-### CAPITULO II. DE LA PROTECCION Y DEL PROCEDIMIENTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2008)</small>
+
+### CAPITULO II. DEL PROCEDIMIENTO DE LAS ORDENES DE PROTECCION
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 37.
 
-Las modificaciones o inconformidades a que pueda dar lugar una orden de protección, se substanciará en los términos que indica el Código de Procedimientos Civiles para el Estado de Colima.
+Las Órdenes de Protección, podrán ser solicitadas por la persona interesada o por sus representantes, directamente ante los Jueces Familiares, Civiles y Mixtos que conozcan de la materia y en su caso, ante las Agencias del Ministerio Público Especializadas en violencia intrafamiliar, o en turno.
+
+El derecho a solicitar la orden de protección no se afectará porque la persona receptora de Violencia Intrafamiliar haya abandonado la casa habitación compartida con la parte generadora, para evitar la consecución de la violencia.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 38.
 
-Las solicitudes de órdenes de protección, deberán ser formuladas siempre que se requiera, por el Agente del Ministerio Público Investigador o adscritos a los Juzgados Penales o Familiares, acompañando copia autorizada de las actuaciones conducentes.
+Cualquier persona que tenga conocimiento de los hechos de violencia intrafamiliar, deberá de auxiliar a quienes son receptoras y de manera prioritaria cuando se trate de personas con impedimentos físico y mental; por su origen étnico o religión; por su edad o estado de salud y podrá solicitar una orden de protección a su favor, directamente a las autoridades señaladas en el artículo anterior.
+
+Para facilitar a las personas involucradas en violencia intrafamiliar el trámite de la orden de protección, los Juzgados y Ministerios Públicos dispondrán de personal capacitado para orientarlas y dar a conocer los servicios de prevención y atención especializada que ofrece la presente Ley.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 39.
 
-Recibida la solicitud, dentro de las veinticuatro horas siguientes se le dará entrada, ordenándose su inmediata ratificación ante la presencia judicial, personalmente por la receptora de la violencia intrafamiliar o por quien la haya representado. En esta diligencia la peticionaria podrá precisar verbalmente las condiciones de protección requeridas.
+Interpuesta la solicitud ante el Ministerio Público, éste valorará el estado de riesgo y el interés superior de la persona receptora de violencia intrafamiliar, debiendo solicitar la orden de protección ante el juzgador sin exceder de un término de 72 horas.
 
-Ratificada la solicitud, se citará para una audiencia que deberá celebrarse dentro de las cuarenta y ocho horas siguientes, en las que las partes alegarán lo que a sus intereses convenga, resolviendo el Juez, en la misma audiencia, sobre las medidas cautelares a que deberá sujetarse la parte peticionada.
-
-Si la solicitud no es ratificada dentro de las cuarenta y ocho horas siguientes, o convocada, la peticionaria no comparece, sin causa justificada, a la audiencia señalada, se le tendrá por desistida de su petición, archivándose el asunto e informándose por escrito al Consejo.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 40.
 
-La víctima de la violencia intrafamiliar, quien la represente legalmente o, en caso de incapacidad física o mental de aquella o urgente, cualquier persona que tenga conocimiento de dicha violencia por su cercanía con los hechos, podrá solicitar una orden de protección directamente al Agentes del Ministerio Público investigador o adscrito a los juzgados penales o familiares. En este caso, en la audiencia correspondiente, la peticionaria ofrecerá, presentará y serán desahogadas la (sic) pruebas necesarias.
+Una vez que el Juez recibe la solicitud de parte del Ministerio Público o directamente de la persona receptora de violencia intrafamiliar y para emitir la orden de protección, el juzgador valorará pormenorizadamente la exposición de los hechos, la necesidad de la medida según el estado de riesgo señalado y las pruebas que se le acompañan; elementos que le permitirán definir la procedencia de la orden de protección sin exceder de un término de 72 horas, debiendo ejecutarse ésta, dentro de las veinticuatro horas siguientes.
 
-Para facilitar a las personas interesadas el trámite de la orden de protección, los juzgados familiares dispondrán de solicitudes impresas en formatos sencillos.
+En los casos de notoria urgencia, aún sin pruebas y según el criterio del juzgador, éste ordenará de plano la orden de protección y su ejecución, con la prioridad y urgencia que lo amerita.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 41.
 
-El derecho a solicitar la orden de protección no se afectará porque la víctima de la violencia intrafamiliar haya abandonado la casa habitación compartida con la parte agresora, para evitar la consecución de la violencia.
+Según la gravedad del caso, y los riesgos de probables agresiones, durante la ejecución de las órdenes de protección, el juez podrá hacer uso de las medidas que resulten necesarias, inclusive el uso de la fuerza pública y el rompimiento de cerraduras de las puertas.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 42.
 
-A solicitud de la peticionaria, según la gravedad del caso, y los riesgos de probables agresiones durante la ejecución de las medidas cautelares, el juez autorizará y requerirá el auxilio de la fuerza pública.
+En los Juzgados y en la Agencia Especializada del Ministerio Público en turno, ante quienes se promueva la orden de protección, se actuará con la celeridad y confidencialidad requerida bajo su responsabilidad.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 43.
 
-En los juzgados en Materia Familiar, se actuará con celeridad en el trámite de las ordenes de protección. El servidor público que incurra en demora, será sancionado en los términos legales que procedan.
+Las modificaciones, o inconformidades de las órdenes de protección, se substanciarán en los términos del artículo 94 y al Capítulo Único Del Título Decimosexto, De las Controversias Familiares del Código de Procedimientos Civiles vigente en el Estado. Estas se tramitarán incidentalmente por parte interesada, por escrito, corriéndose traslado a la parte contraria y se convocará a audiencia de pruebas y alegatos en un término de ocho días, y resolviéndose en un término de tres días.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 44.
 
-Los jueces que conozcan de Ordenes de Protección, rendirán al Consejo, informe estadístico del estado procesal que guardan.
+Los jueces que conozcan de Órdenes de Protección, rendirán a la Secretaría General Ejecutiva del Consejo, informe estadístico trimestral del estado procesal que guardan, de conformidad a los artículos 4° y 5° de esta Ley.
 
 ## TITULO CUARTO
 
-### CAPITULO UNICO. DEL PROCEDIMIENTO CONCILIATORIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2008)</small>
+
+### CAPITULO UNICO. DEL PROCEDIMIENTO DE MEDIACION
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 45.
 
-A solicitud del peticionario las partes en conflicto de violencia intrafamiliar podrán llegar a acuerdos conciliatorios mediante el procedimiento de atención que se les proporcione en el Ministerio Público.
+Durante la averiguación previa o en cualquier estadío procesal en juicio y a solicitud de la persona receptora se citará a la generadora de violencia intrafamiliar, con la finalidad de obtener acuerdos equitativos y de convivencia pacífica.
 
-Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos de estado civil de las personas, que son irrenunciables, o las conductas delictivas que no admitan perdón.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 46.
 
-El citatorio girado al agresor será entregado por conducto de un policía especializado, el que explicará a éste las consecuencias legales de continuar con su conducta violenta.
+La invitación enviada a la persona generadora de violencia será entregada por conducto de personal capacitado del órgano competente, el que explicará a ésta las consecuencias legales de continuar con su conducta violenta.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 47.
 
-Al iniciarse la audiencia, el conciliador procederá a buscar la avenencia entre las partes, proporcionándoles toda clase de alternativas, exhortándolos para que lleguen a ella dándoles a conocer las consecuencias en caso de continuar con su conflicto.
+Al iniciarse la audiencia, la autoridad conocedora de la problemática, asumirá funciones de mediador, facilitando las condiciones que propicien a ambas partes para construir alternativas de solución.
 
-Obtenida la conciliación, se celebrará convenio escrito y firmado en el que las partes se comprometerán, además de los términos que ellos acuerden o convengan a recibir atención terapéutica integral.
+En los casos en que ambas partes decidan llegar a acuerdos que favorezcan la solución del problema, se celebrará convenio escrito y firmado en donde se definirán:
+
+a) Los acuerdos de convivencia pacífica en la relación de pareja, con las y los hijos, el aporte para su manutención y la convivencia familiar.
+
+b) Su participación en los procesos de la atención especializada que ofrecen los módulos de Reflexión Masculina, y en el caso de las mujeres, los Grupos de Autoayuda de la Coordinadora Estatal de Prevención y Atención a la Violencia Intrafamiliar.
+
+c) Procederá el otorgamiento del perdón legal, condicionado al estricto cumplimiento del convenio concertado. Mientras tanto el asunto permanecerá en reserva por el término de cuatro meses.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 48.
 
-Si a la audiencia no comparece la persona que solicitó el procedimiento conciliatorio, se le tendrá por desistido, archivándose el asunto correspondiente e informándose al Consejo.
+Si a la audiencia no comparece la persona que solicitó el procedimiento de mediación, sin causa justificada se le tendrá por desistida, archivándose el asunto correspondiente e informándose al Consejo.
+
+Quedan exceptuadas de este procedimiento aquellas controversias que versen sobre acciones o derechos de estado civil de las personas, que son irrenunciables, o las conductas delictivas consideradas como graves en el Código Penal.
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
@@ -558,3 +830,9 @@ P.O. 4 DE ABRIL DE 2006.
 P.O. 12 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE MAYO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
