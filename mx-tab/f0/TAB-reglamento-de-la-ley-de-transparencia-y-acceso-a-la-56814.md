@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-transparencia-y-acceso-a-la-56814"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-30"
-last_updated: "2007-06-30"
+last_updated: "2008-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 30 de junio de 2007.
 
@@ -69,15 +69,45 @@ IV. LlNEAMIENTOS: Disposiciones de carácter general y de observancia obligatori
 
 V. INFORMACIÓN DE ACCESO RESTRINGIDO: Toda información en posesión de los Sujetos Obligados de carácter confidencial y la clasificada como reservada.
 
-VI. CLASIFICACIÓN: Acto por el cual se determina que la información que se encuentra en poder de los Sujetos Obligados es reservada o confidencial.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-VII. PRECLASIFICACIÓN: Acto por el cual el Sujeto Obligado inicia un procedimiento de solicitud ante el Pleno del Instituto para determinar que la información que se encuentra en su poder tiene el carácter de reservada.
+VI. CLASIFICACIÓN: Acto por el cual se determina que la información que se encuentra en poder de los Sujetos Obligados es reservada.
 
-VIII. MEDIOS DE COMUNICACIÓN ELECTRÓNICA: Dispositivos tecnológicos que emplea el Instituto o las Unidades de Acceso a la Información para recibir y efectuar las transmisiones de datos e información a través de equipos de cómputo.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+VII. PORTAL DE TRANSPARENCIA: Página de Internet en la que el Sujeto Obligado publica la información mínima de oficio que le corresponde, así como todo aquello que debe informar de acuerdo con la Ley y demás disposiciones normativas aplicables.
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+VIII. SISTEMA ELECTRÓNICO DE USO REMOTO: Herramienta informática para la gestión remota de solicitudes de información y procedimientos relacionados a datos personales, conforme lo establece la Ley y este Reglamento.
 
 IX. QUEJA: Procedimiento que se inicia a instancia del particular ante el Pleno del Instituto por el incumplimiento por parte del o de los Sujetos Obligados de las disposiciones establecidas en la Ley y el presente Reglamento.
 
 X. RECURSO DE REVISIÓN: Procedimiento que se inicia a instancia del particular ante el Pleno del Instituto por encontrarse en los supuestos que determinan los artículos 59, 60 y 61 de la Ley.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XI. ENCARGADO DE ENLACE: Responsable en cada unidad administrativa de atender las solicitudes del titular de la Unidad de Acceso a la Información del Sujeto Obligado.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XII. COMITÉ DE TRANSPARENCIA: Órgano colegiado integrado por los titulares de cada unidad administrativa del Sujeto Obligado, con el fin de analizar una información y que opine sobre la procedencia o no de su clasificación como reservada.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XIII. CÉDULAS: Cédulas de notificación.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XIV. ESTRADO: Lugares públicos de las oficinas de las entidades públicas y del Instituto utilizados para colocar las copias de los autos, acuerdos o resoluciones que en el ámbito de su competencia emitan y sus respectivas cédulas, para su notificación o publicidad.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XV. PÁGINA PRINCIPAL: Sitio de Internet en el que el Sujeto Obligado publica información relativa a su integración y actividades relevantes.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XVI. VÍNCULO: Enlace entre la página principal del Sujeto Obligado y su Portal de Transparencia o la página del Instituto.
 
 ###### ARTÍCULO 4.
 
@@ -89,23 +119,59 @@ El ejercicio social del derecho de acceso a la información pública, no requier
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE TRANSPARENCIA
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 6.
 
-Los Sujetos Obligados, por conducto de la Unidad de Acceso a la Información, deberán poner a disposición del público la información mínima de oficio que, en lo conducente, se precisa en el artículo 10 de la Ley, la que deberá ser actualizada mensualmente.
+Los Sujetos Obligados, por conducto de la Unidad de Acceso a la Información, deberán poner a disposición del público la información mínima de oficio que, en lo conducente, se precisa en el artículo 10 de la Ley, la que deberá ser actualizada cuando menos cada tres meses.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+###### ARTÍCULO 6 Bis.
+
+La información mínima de oficio deberá ser proporcionada por el Encargado de Enlace de cada unidad administrativa, previo acuerdo con el responsable de ésta.
+
+La información que proporcione el Encargado de Enlace deberá coincidir con los requerimientos que establecen la Ley, este Reglamento y los lineamientos que emita el Instituto. La información proporcionada será responsabilidad del superior jerárquico de cada unidad administrativa del Sujeto Obligado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+###### ARTÍCULO 6 Bis 1.
+
+Cuando no le sea aplicable alguno de los incisos que establece la fracción I del artículo 10 de la Ley, el Sujeto Obligado deberá señalarlo así en su Portal de Transparencia.
+
+Si el Sujeto Obligado es de nueva creación y no cuenta con la información mínima de oficio requerida y conforme a sus facultades debe generarla, deberá hacerlo de inmediato para cumplir con la Ley; sin embargo, si el procedimiento de generar la información es en sí mismo complejo o demanda de un tiempo razonable o prudente, podrá disponer para ello de hasta seis meses contados a partir de su constitución legal, previo acuerdo fundado y motivado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 7.
 
-Para la difusión de la información mínima de oficio que debe ponerse a disposición del público, cada Sujeto Obligado contará con una página de Internet, para que, mediante un icono visible desde la página principal e identificado como Portal de Transparencia, cualquier persona pueda acceder fácilmente a ella.
+Para la difusión de la información mínima de oficio que debe ponerse a disposición del público, cada Sujeto Obligado contará con una página de Internet, que deberá registrar ante el Instituto, para que, mediante un icono visible desde la página principal identificado como Portal de Transparencia, cualquier persona pueda acceder fácilmente a ella.
 
-El Sujeto Obligado deberá indicar en su respectivo Portal de Internet de Transparencia la fecha de actualización de la información que pone a disposición del público, así como el vínculo con el sitio de Internet del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+El Sujeto Obligado deberá indicar en su respectivo Portal de Transparencia la fecha de actualización de la información que pone a disposición del público, así como el vínculo con el sitio de Internet del Instituto.
 
 De igual forma, cada Sujeto Obligado contará por lo menos con un equipo de cómputo, ubicado en las oficinas que ocupa la Unidad de Acceso a la Información, específicamente para uso de quien desee acceder a la información pública, en el horario oficial de labores.
 
 De ser necesario, la Unidad de Acceso a la Información, en atención de la demanda que exista para acceder a la información pública en el equipo de cómputo de referencia, establecerá un sistema de citas y tiempos límite por cada persona.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 8.
 
-En ningún caso la información que los Sujetos Obligados deban difundir de oficio contendrá datos que vulneren el derecho a la intimidad de las personas, provoquen un serio perjuicio a las actividades de verificación del cumplimiento de las leyes, de prevención o persecución de los delitos, a la impartición de justicia, fiscalización, recaudación de contribuciones y estrategias procesales en procedimientos administrativos o en procesos jurisdiccionales; mientras las resoluciones no causen estado.
+Cuando los fideicomisos públicos carezcan de estructura orgánica propia, la información mínima de oficio referente a éstos deberá ser publicada por conducto de su fideicomitente.
+
+En este caso, la información deberá publicarse por el Sujeto Obligado que corresponda, en su Portal de Transparencia, que incluya la relación de los fideicomisos a los que aportan recursos presupuestarios y el monto de los mismos.
+
+No podrá invocarse secreto bancario cuando el fideicomitente sea un Sujeto Obligado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+###### ARTÍCULO 8 Bis.
+
+La información mínima de oficio deberá permanecer en el Portal de Transparencia de manera permanente por al menos dos años, luego podrá retirarse, atendiendo a la capacidad técnica y presupuestal para el almacenamiento de datos del servidor del Sujeto Obligado.
+
+No obstante lo anterior, la información que ha sido retirada del Portal de Transparencia se encontrará disponible para consulta directa en las instalaciones de la Unidad de Acceso a la Información del Sujeto Obligado, debiéndose publicar en su tablero de avisos un listado con los expedientes detallados de conformidad con la Ley, para establecer en qué artículo e inciso de ésta se le dio cumplimiento.
 
 ###### ARTÍCULO 9.
 
@@ -113,53 +179,57 @@ Los manuscritos, libros, publicaciones periódicas, mapas, planos, folletos, gra
 
 ### CAPÍTULO III. DE LA INFORMACIÓN DE ACCESO RESTRINGIDO
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 10.
 
-Se considera información reservada, la clasificada expresamente por el Titular de cada uno de los Sujetos Obligados, de común acuerdo con el Instituto, procediendo en los casos enumerados en el artículo 31 de la Ley.
+Se considera información reservada, la clasificada expresamente por el Titular de cada uno de los Sujetos Obligados, procediendo en los casos enumerados en el artículo 31 de la Ley.
 
 ###### ARTÍCULO 11.
 
 Para clasificar una información como reservada se deberá seguir el siguiente procedimiento:
 
-a) El Sujeto Obligado preclasificará la información que considere se encuentra en alguno de los supuestos del artículo 31 de la Ley.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-b) El Sujeto Obligado elaborará por cada información preclasificada un documento que contenga:
+a) El responsable de cada unidad administrativa del Sujeto Obligado seleccionará la información que a su juicio se encuentre en alguno de los supuestos del artículo 31 de la Ley.
 
-1. La fuente y archivo donde radica la información;
+En caso de duda, el responsable de cada unidad administrativa podrá solicitar al titular del Sujeto Obligado que convoque al Comité de Transparencia, con el fin de analizar una información y que opine sobre la procedencia o no de su clasificación como reservada.
 
-2. La justificación por la cual se clasifica;
+Si la información concierne a otro u otros Sujetos Obligados, el responsable de la unidad administrativa consultará en los Portales de Transparencia de cada uno de ellos para verificar si ésta ya ha sido clasificada como reservada; de ser así, procederá como lo indica el inciso siguiente; en caso contrario y de considerar que debe ser reservada, lo comunicará por escrito al titular de Sujeto Obligado de su adscripción, para que éste a su vez lo notifique a los demás titulares de los Sujetos Obligados.
 
-3. Las partes de los documentos que se reservan;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-4. El plazo de reserva;
+b) Una vez decidida la clasificación de la información, el responsable de la unidad administrativa en donde se encuentra aquella, procederá a entregarla al encargado de enlace anexando la justificación, la que deberá atender los requisitos que se establecen en las fracciones del artículo 32 de la Ley, salvo los casos de excepción que se establecen en el artículo 31 de la misma;
 
-5. La designación de la autoridad responsable para su resguardo; y
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-6. Los fundamentos jurídicos.
+c) El Encargado de Enlace procederá a registrar en su sistema la información que le ha sido remitida para su clasificación de reserva y la entregará de inmediato al titular de la Unidad de Acceso a la Información.
 
-c) El Sujeto Obligado enviará la información preclasificada al Pleno del Instituto, por conducto de su Presidente, para que la analice y dictamine en sesión lo conducente, tomando en consideración cada uno de los elementos mencionados en el inciso anterior.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-d) Si el dictamen del Pleno del Instituto coincide con la preclasificación del Sujeto Obligado, se procederá a elaborar un Acuerdo que clasifique a la información como reservada, como resultado del análisis que realizó, el cual forma parte de él. Este Acuerdo deberá ir firmado al calce y al margen por todos sus miembros y lo remitirá al Titular del Sujeto Obligado para que en conjunto con el Titular de la Unidad de Acceso a la Información lo suscriba.
+d) El titular de la Unidad de Acceso a la Información elaborará el proyecto de acuerdo de reserva de la información, con base en la justificación que le ha sido remitida por el Encargado de Enlace, cumpliendo con los demás requisitos que establece el artículo 32 de la Ley.
 
-e) Cuando el Pleno del Instituto no coincida con la preclasificación del Sujeto Obligado, tomará el Acuerdo respectivo firmándolo al calce y al margen por todos sus miembros y lo hará de su conocimiento.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-En este caso, la información preclasificada podrá volver a presentarse ante el Pleno del Instituto, hasta por dos ocasiones más, siempre que existan argumentos distintos para ello, en el plazo de un mes contado a partir del día hábil siguiente en que haya surtido efectos la notificación del Acuerdo que niega la clasificación como reservada.
+e) El titular de la Unidad de Acceso a la Información presentará el proyecto de acuerdo al titular del Sujeto obligado para que lo suscriba en conjunto con él o emita sus observaciones, las cuales deberán ser atendidas por el titular de la Unidad de Acceso a la Información para elaborar y presentar un nuevo proyecto de acuerdo y sea éste suscrito por ambos.
 
-f) En caso que el Pleno del Instituto sólo coincida parcialmente con la preclasificación, se acordará la clasificación de reserva de la parte de información que así se consideró, procediendo en este caso como lo marca el inciso d) de este artículo y emitiendo un segundo Acuerdo en los términos del inciso e) de este numeral.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-El Pleno del Instituto contará con un plazo de 45 días hábiles para emitir el Acuerdo correspondiente, contado a partir del día hábil siguiente en que se reciba la preclasificación.
+f) El acuerdo de clasificación de reserva se registrará en un índice de información reservada, el cual contendrá el nombre de quien lo emite, el número de acuerdo, la fecha de su emisión, descripción general de la información que se reserva, periodo de reserva y responsable del resguardo de cada información reservada. Tanto el índice de información reservada, como el acuerdo de reserva deberán integrarse al portal de transparencia en cumplimiento a la fracción primera, inciso a) del artículo 10 de la Ley.
 
-A Solicitud del Sujeto Obligado, el Pleno del Instituto podrá emitir un acuerdo general de información reservada, cuando dos o más informaciones coincidan en características, tipo y/o esencia, siempre que se encuentre en el supuesto que determina el artículo 31 de la Ley y se siga con el procedimiento que prevé este artículo.
+Se elaborará un acuerdo por cada información que se reserve.
 
-El acuerdo general a que se refiere el párrafo anterior será extensivo a toda la información que se genere, obtenga, adquiera, transforme o conserve por cualquier título el sujeto obligado con posterioridad a la emisión del mismo, sin que sea necesario ampliarlo o darle vista al Instituto de nueva cuenta; siempre y cuando esta información sea de las mismas características, tipo y/o esencia que la contemplada en el acuerdo general.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 12.
 
-La información preclasificada como reservada no podrá estar a disposición del público; pero si ésta no se presenta a consideración del Pleno del Instituto en un plazo de un mes a partir de la emisión de acuerdo de preclasificación, tendrá el carácter de pública.
+En ningún caso se argumentará como excusa para no atender una solicitud de acceso a la información, que la información se encuentra en proceso de clasificación como reservada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
-Los expedientes y los documentos clasificados como reservados deberán:
+Los expedientes clasificados como reservados deberán cumplir con los siguientes elementos de clasificación:
 
 I. Llevar una leyenda que indique el carácter de reservado;
 
@@ -171,7 +241,9 @@ IV. La autoridad responsable de su conservación; y
 
 V. La firma del Titular del Sujeto Obligado.
 
-Anexo al expediente o documento deberá obrar el Acuerdo que contenga los argumentos y fundamentos legales de su clasificación.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Anexo al expediente deberá obrar el Acuerdo que contenga los argumentos y fundamentos legales de su clasificación.
 
 ###### ARTÍCULO 14.
 
@@ -187,7 +259,7 @@ III. Cuando así lo determine la Ley o la autoridad competente.
 
 Cuando a juicio del Sujeto Obligado sea necesario ampliar el plazo de reserva de la información clasificada, se deberá dictar nuevo Acuerdo en el que funde y motive tal determinación, procediendo en los términos del artículo 11 de este Reglamento.
 
-A solicitud del Sujeto Obligado, el pleno del instituto podrá emitir un acuerdo general de ampliación de reserva de información, cuando dos o más informaciones coincidan en características, tipo y/o esencia, siempre y cuando ésta haya sido reservada con anterioridad y que medie el Acuerdo respectivo.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 16.
 
@@ -299,13 +371,19 @@ En las solicitudes ante la Unidad de Acceso a la Información, en términos del 
 
 En este supuesto el solicitante está obligado a acompañar a su escrito copia certificada de su identificación oficial, o en su defecto la original con copia, misma que se le devolverá previo cotejo.
 
-La Unidad de Acceso a la Información está obligada a dar respuesta fundada y motivada al solicitante en un plazo de diez días hábiles, contados a partir del día siguiente en que se presentó la solicitud, cuya notificación se hará en los términos que establece el artículo 39 del presente Reglamento.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-Las Unidades de Acceso a la Información podrán establecer procedimientos internos, para dar trámite a las solicitudes a que se refiere este artículo.
+La Unidad de Acceso a la Información está obligada a dar respuesta fundada y motivada al solicitante en un plazo de veinte días hábiles, contados a partir del día siguiente en que se presentó la solicitud, cuya notificación se hará en los términos que establece el artículo 39 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Una vez recibida la solicitud relativa a datos personales, el titular de la Unidad de Acceso a la Información deberá coordinarse con el Encargado de Enlace respectivo para identificar los mismos, analizar su procedencia y atenderla en el término mencionado en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 29.
 
-Los Acuerdos de las Unidades de Acceso a la Información que determinen la inexistencia de datos personales, o la improcedencia total o parcial de sus rectificaciones o supresiones, deberán estar fundadas y motivadas e indicar al solicitante que puede interponer el recurso de revisión ante el Instituto.
+Los Acuerdos de las Unidades de Acceso a la Información que determinen la inexistencia de datos personales, o la improcedencia total o parcial de sus rectificaciones o supresiones, deberán estar fundados y motivados e indicar al solicitante que puede interponer el recurso de revisión ante el Instituto.
 
 Si el solicitante pide la reproducción de la información de sus datos personales o de la rectificación o supresión de éstos en copias certificadas, los plazos de resolución comenzarán a correr a partir del día hábil siguiente a aquel en que compruebe haber cubierto los costos correspondientes.
 
@@ -315,9 +393,11 @@ Si el solicitante pide la reproducción de la información de sus datos personal
 
 Son Unidades de Acceso a la Información, aquellas establecidas por los Sujetos Obligados, para la atención de las solicitudes de información pública que formulen las personas.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 31.
 
-Al frente de cada Unidad de Acceso la Información habrá un Servidor Público designado por los Titulares de los Sujetos Obligados, que será el responsable de atender las solicitudes de acceso a la información.
+Al frente de cada Unidad de Acceso a la Información habrá un Servidor Público designado por los Titulares de los Sujetos Obligados, que será el responsable de atender las solicitudes de acceso a la información, las relacionadas a los datos personales e integrar la información mínima de oficio en el Portal de Transparencia.
 
 ###### ARTÍCULO 32.
 
@@ -333,15 +413,19 @@ IV. Contar con estudios profesionales concluidos a nivel licenciatura; y
 
 V. Tener 25 años cumplidos como mínimo en la fecha de su designación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 33.
 
-El Titular de la Unidad de Acceso a la Información tendrá las facultades y obligaciones siguientes:
+El Titular de la Unidad de Acceso a la Información tendrá además de las facultades y obligaciones que establece la Ley, las siguientes:
 
 I. Llevar la estadística de las solicitudes de Acceso a la información Pública;
 
 II. Informar mensualmente al Titular del Sujeto Obligado, de las actividades desarrolladas por la Unidad a su cargo;
 
-III. Integrar los informes parciales mensuales que el Titular del Sujeto Obligado deba presentar al Pleno del Instituto;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+III. Integrar los informes parciales trimestrales que el Titular del Sujeto Obligado deba presentar al Pleno del Instituto;
 
 IV. Someter a consideración del Titular del Sujeto Obligado todo lo concerniente a la organización de la Unidad de Acceso a la Información;
 
@@ -351,15 +435,23 @@ VI. Llevar un registro de las solicitudes de acceso a la información y sus resu
 
 VII. Llevar un registro de los costos de reproducción y copiado de la información que se proporcione;
 
-VIII. Presentar ante el Titular del Sujeto Obligado el proyecto de preclasificación de información;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+VIII. Presentar ante el Titular del Sujeto Obligado el proyecto de acuerdo de información clasificada como reservada y suscribirlo con él;
 
 IX. Supervisar la aplicación de los criterios de clasificación de la información expedidos por el Instituto;
 
-X. Preclasificar previo acuerdo con el Titular del Sujeto Obligado la información como reservada de considerarse que ésta se encuentra en los supuestos del artículo 31 de la ley;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
 
-XI. Suscribir el Acuerdo que emita el Pleno del Instituto de clasificación de una información como reservada en conjunción con el Titular del Sujeto Obligado del cual depende;
+X. Atender las solicitudes relativas a datos personales;
 
-XII. Poner a disposición del público una guía simple de clasificación y catalogación, así como de la organización del archivo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XI. Mantener actualizado en índice de acuerdos de información clasificada como reservada e integrar éste y los acuerdos respectivos en el Portal de Transparencia;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+XII. Colaborar al interior del Sujeto Obligado en la organización y mantenimiento de archivos, y cumplir con la legislación aplicable en esta materia;
 
 XIII. Proponer al Titular del Sujeto Obligado los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
 
@@ -379,7 +471,9 @@ I. Número de control interno de la solicitud;
 
 II. Solicitud recibida con los datos establecidos en las fracciones de la I a la V del artículo 44 de la Ley;
 
-III. Oficio por el que la Unidad de Acceso a la Información requiere al área correspondiente la información solicitada; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+III. Oficio por el que la Unidad de Acceso a la Información requiere al Encargado de Enlace correspondiente la información o datos personales solicitados; y
 
 IV. Oficio de contestación, el cual deberá ser requisitado con los siguientes datos:
 
@@ -409,7 +503,9 @@ II. Mediante escrito, que cumpla con los requisitos de la Ley, remitido por corr
 
 III. En los formatos autorizados por el Instituto, derivados del sistema informático de la Página de Internet oficial administrado por el mismo, que contendrán también los requisitos que la Ley y el Reglamento prevén en forma general, estos formatos autorizados estarán disponibles en las Unidades de Acceso a la Información y en la Página de Internet de cada uno de los Sujetos Obligados; o
 
-IV. A través de Medios de Comunicación Electrónica, que para efectos de las solicitudes de acceso a la información, serán aquellos autorizados por el Instituto, derivados del sistema informático de la Página de Internet oficial administrado por el Sujeto Obligado, que contendrán también los requisitos que la Ley y el Reglamento prevén en forma general;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+IV. A través del Sistema Electrónico de uso remoto, autorizado por el Instituto y administrado por éste, que contendrá también los requisitos que la Ley y el presente Reglamento prevén en forma general.
 
 El particular sólo podrá solicitar una información por cada escrito que presente para tales efectos ante la Unidad de Acceso a la Información.
 
@@ -423,13 +519,27 @@ Los particulares que presenten solicitudes de acceso a la información deberán 
 
 I. Personalmente o a través del representante autorizado por el particular, en las oficinas de la Unidad de Acceso a la Información del Sujeto Obligado o en el domicilio del particular, siempre y cuando éste se encuentre ubicado en la zona urbana donde tenga su sede la oficina principal de la mencionada Unidad.
 
-En este caso, el servidor público encargado de realizar la notificación se constituirá en el domicilio indicado para tal efecto en día y hora hábil y la notificación se hará con quien se encuentre en ese momento en el mismo;
+En este caso, el servidor público encargado de realizar la notificación se constituirá en el domicilio indicado para tal efecto en día y hora hábil y la notificación se hará con quien se encuentre en ese momento en el mismo.
 
-II. A través de Medios de Comunicación Electrónica, esto será cuando el solicitante haya optado por este mecanismo al momento de la presentación de su solicitud, y
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
 
-III. Por estrados o en el tablero de avisos correspondiente, ubicados en las oficinas de las Unidades de Acceso a la Información o en la página oficial de Internet del Sujeto Obligado, cuando: El interesado así lo indique; no proporcione el medio por el cual desea ser notificado; se haya tratado de realizar la notificación de acuerdo a lo previsto en la fracción I del presente artículo, y no haya sido posible realizarla por causas imputables al interesado; o habiéndose enviado la notificación por correo electrónico, transcurran cinco días hábiles a partir de la fecha que se remitió la notificación, sin que el interesado envíe el acuse de recibo correspondiente.
+Si el domicilio está cerrado o la persona que se encuentra en el se niega a recibir la cédula de notificación, el notificador plasmará tal circunstancia en un acta y se dará vista al Titular de la Unidad de Acceso a la Información para que acuerde la notificación conforme lo establece la fracción III de este artículo;
 
-Los plazos empezarán a contar a partir del día hábil siguiente de la notificación o de su publicación en estrados o tablero de avisos.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+II. A través del Sistema Electrónico de uso remoto, esto será cuando el solicitante haya optado por este mecanismo al momento de la presentación de su solicitud; y
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+III. Por Estrados ubicados en las oficinas de las Unidades de Acceso a la Información y en el Portal de Transparencia del Sujeto Obligado, cuando: El interesado así lo indique; no proporcione el medio por el cual desea ser notificado; no señale domicilio; el domicilio señalado resulte inexistente; o se haya tratado de realizar la notificación de acuerdo a lo previsto en la fracción I del presente artículo, y no haya sido posible realizarla por causas imputables al interesado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2008)</small>
+
+La cédula de notificación personal deberá contener al menos: la descripción del acuerdo que se notifica; lugar, día, hora y año en que se practica; nombre de la persona que se encuentre en el domicilio y reciba la cédula; nombre y firma del notificador y; en general toda aquella circunstancia que a juicio de éste debe integrase a la cédula.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE MAYO DE 2008)</small>
+
+Los plazos empezarán a contar a partir del día hábil siguiente en que surta efectos la notificación o de su publicación en Estrados; debiéndose computar sólo los días hábiles.
 
 ###### ARTÍCULO 40.
 
@@ -451,21 +561,31 @@ Recibida la solicitud por la Unidad de Acceso a la Información, ésta la regist
 
 Cuando sea procedente la solicitud, los Sujetos Obligados proporcionarán la información tal como se encuentra en sus archivos, y en consecuencia no deberán modificarla ni resumirla.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 44.
 
-El acuerdo que niegue la información se le comunicará por escrito al interesado, dentro de los cinco días hábiles siguientes. Esta negativa deberá estar fundada y motivada.
+El acuerdo que niegue la información se le comunicará por escrito al interesado, dentro de los veinte días hábiles siguientes. Esta negativa deberá estar fundada y motivada.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 45.
 
-Toda solicitud de información realizada en los términos de la Ley y este Reglamentó, será contestada en un plazo no mayor de quince días hábiles contados a partir de la fecha en que se recibió la solicitud, en su casó, contados a partir de la fecha en que conforme al artículo 40 de este ordenamiento el interesado aclare, corrija o subsane su solicitud. El plazo, previo acuerdo notificado al solicitante, se podrá prorrogar por única vez por otros diez días hábiles, acorde al artículo 48 de la Ley.
+Toda solicitud de información realizada en los términos de la Ley y este Reglamento, será satisfecha por la Unidad de Acceso a la Información, mediante un acuerdo que indique la disponibilidad de la información, en un plazo no mayor de veinte días hábiles contados a partir del día hábil siguiente a la fecha en que se recibió la solicitud o, en su caso, contados a partir de la fecha en que conforme al artículo 41 de este ordenamiento el interesado aclare, corrija o subsane su solicitud.
+
+El plazo señalado en el párrafo anterior, previo acuerdo notificado al solicitante antes del vencimiento del mismo, se podrá prorrogar por única vez por otros diez días hábiles más, acorde al artículo 48 de la Ley.
+
+La información deberá entregarse dentro de los diez días hábiles siguientes al que la Unidad de Acceso a la Información le haya notificado al interesado, la disponibilidad de aquella, siempre que el solicitante compruebe haber cubierto el pago de los derechos correspondientes.
 
 ###### ARTÍCULO 46.
 
 Cumplido el plazo previsto en el artículo anterior si la solicitud de información no fuere satisfecha o la respuesta fuere ambigua o parcial a juicio del interesado, éste podrá interponer el recurso de revisión en los términos previstos en la Ley y este Reglamento.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 47.
 
-Los plazos para resolver sobre las solicitudes de información empezarán a correr a partir del día hábil siguiente al de su presentación.
+En el supuesto que el interesado solicite información que no se encuentra en los archivos del Sujeto Obligado, el titular de la Unidad de Acceso a la Información procederá conforme lo establece el artículo 47 Bis de la Ley; sin embargo si la información solicitada, aun cuando no existiera en los archivos del Sujeto Obligado, documenta algunas de las funciones y facultades que el marco jurídico estatal le otorga al Sujeto Obligado, la Unidad de Acceso a la información deberá de atender la solicitud en el plazo que establece la Ley, pudiendo en todo caso hacer uso de la prórroga de diez días hábiles más, en los términos que establece el artículo 48 de la Ley.
 
 ###### ARTÍCULO 48.
 
@@ -479,9 +599,11 @@ Los costos por reproducción o copiado de la información y, en su caso, entrega
 
 Cuando se trate de información que previamente a una solicitud, se haya puesto a disposición del público mediante libros, folletos, discos compactos u otro medio similar, así como por vía electrónica, el Sujeto Obligado indicará al particular el sitio donde puede consultar, reproducir o adquirir la información solicitada.
 
-En el supuesto que el interesado solicite información inexistente o que el Sujeto Obligado no tenga acceso a ella por no ser de su competencia, la Unidad de Acceso a la Información deberá emitir el Acuerdo correspondiente fundado y motivado, en el que justifique esta situación.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-En todo caso, la Unidad de Acceso a la Información receptora deberá comunicarlo y orientar debidamente al solicitante, en un plazo no mayor de cinco días hábiles contados a partir de la presentación de la solicitud.
+En el supuesto que el interesado solicite información que no sea competencia del Sujeto Obligado y como consecuencia no tiene acceso ella, la Unidad de Acceso a la Información deberá comunicarlo y orientar debidamente al solicitante, en un plazo no mayor de cinco días hábiles contados a partir del día hábil siguiente de la presentación de la solicitud.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 50.
 
@@ -503,19 +625,21 @@ El Recurso de Revisión se interpondrá ante el Instituto o ante la Unidad de Ac
 
 El recurso podrá presentarse por escrito o en el formato que para tal efecto determine o provea el Instituto, mismos que se encontrarán a disposición del público tanto en el Instituto, como en las Unidades de Acceso a la Información de los Sujetos Obligados.
 
-También podrá presentarse el recurso a través de Medios de Comunicación Electrónica, que para estos efectos establezca el instituto, derivados del sistema informático de la Página de Internet oficial administrado por el mismo, que contendrán los requisitos que la ley y este Reglamento prevén en forma general.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+También podrá presentarse el recurso a través del Sistema Electrónico de uso remoto, autorizado por el Instituto y administrado por éste, que contendrá los requisitos que la Ley y el presente Reglamento prevén en forma general.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 54.
 
-El escrito en que se presente el Recurso de Revisión deberá contener los requisitos que establece el artículo 62 de la Ley.
+El escrito en que se presente el Recurso de Revisión deberá contener los requisitos que establece el artículo 62 de la Ley, y en su caso las pruebas que ofrezca el recurrente.
 
-Los formatos que para tal efecto determine y provea el Instituto, deberán estar diseñados de tal forma que se cumplan con los requisitos a que se refiere este artículo.
-
-El Instituto está obligado a prevenir y orientar al recurrente sobre los errores de forma y fondo de los que adolezca su escrito de recurso, pero de ninguna manera podrá cambiar los hechos. Para subsanar los errores, el Instituto le concederá al recurrente un plazo de cinco días, el cual suspende el plazo para resolver el recurso de revisión.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 55.
 
-Cuando el recurrente no haya subsanado los errores señaladas (sic) por el Instituto, y transcurrido el plazo señalado en el artículo anterior, se desechará de plano debiendo notificarlo al recurrente en un plazo no mayor de diez días hábiles.
+Cuando el recurrente no haya subsanado los errores señalados por el Instituto, y transcurrido el plazo señalado en el artículo anterior, se desechará de plano debiendo notificarlo al recurrente en un plazo no mayor de diez días hábiles.
 
 ###### ARTÍCULO 56.
 
@@ -537,7 +661,9 @@ El recurrente, únicamente en la interposición del recurso, podrá ofrecer las 
 
 En el Recurso de Revisión se admitirán las pruebas documentales y periciales que sean conducentes. No serán admitidas las pruebas confesional, testimonial y la inspección ocular. No se considerará comprendida en esta prohibición la petición de informes a las autoridades administrativas, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
-Las pruebas se desahogarán en un plazo máximo de 8 días hábiles. Transcurrido este plazo sin que el recurrente se haya presentado para desahogarlas, se entenderán como no ofrecidas, salvo en el caso de las prueba documentales. Para la valoración de las pruebas se aplicará supletoriamente lo dispuesto en el Código de Procedimientos Civiles para el Estado de Tabasco.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Las pruebas se desahogarán en un plazo máximo de 10 días hábiles. Transcurrido este plazo sin que el recurrente se haya presentado para desahogarlas, se entenderán como no ofrecidas, salvo en el caso de las pruebas documentales. Para la valoración de las pruebas se aplicará supletoriamente lo dispuesto en el Código de Procedimientos Civiles para el Estado de Tabasco.
 
 ###### ARTÍCULO 59.
 
@@ -547,15 +673,19 @@ I. Cuando se presente fuera del plazo señalado;
 
 II. No cumpla con los requisitos señalados en el artículo 62 de la Ley;
 
-III. Se refiera a información clasificada como reservada o confidencial, o en el procedimiento que indica el artículo 11 del presente Reglamento;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+III. Se refiera a información clasificada como confidencial;
 
 IV. El Instituto haya conocido anteriormente del recurso respectivo y haya resuelto en forma definitiva; y
 
 V. Se recurra una resolución o acuerdo que no hayan sido emitidos.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 60.
 
-Admitido el recurso, el Instituto dictará un acuerdo mediante el cual señalé qué pruebas sé tendrá por ofrecidas y cuáles se admiten, y correrá traslado a la Unidad de Acceso a la Información, para efecto de que en un término de 3 días hábiles rinda un informe sobre los hechos que motivaron el recurso.
+Admitido el recurso, el Instituto dictará un acuerdo, mediante el cual señale qué pruebas se tendrán por ofrecidas y cuáles se admiten, y correrá traslado a la Unidad de Acceso a la Información, para efecto de que rinda un informe sobre los hechos que motivaron el recurso, en un término de 3 días hábiles contado a partir del día hábil siguiente de la notificación.
 
 ###### ARTÍCULO 61.
 
@@ -565,15 +695,17 @@ La documentación que remita la Unidad de Acceso a la Información, anexa al inf
 
 En caso que la Unidad de Acceso a la Información, se encuentre imposibilitada para rendir el informe en el plazo que señala el presente Reglamento, antes de su vencimiento lo hará del conocimiento al Instituto, señalando las causas que generan dicha imposibilidad. Ante esta situación, y siempre que así lo solicite el titular del Sujeto Obligado, el Instituto podrá extender el plazo hasta por 3 días hábiles, lo que deberá notificar al interesado.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 63.
 
-La resolución que recaiga al Recurso de Revisión se tomará por el Pleno del Instituto en un plazo no mayor de quince días hábiles contados a partir de de (sic) la fecha en que se registró la promoción, y tendrá como efectos la confirmación del acto o resolución impugnada, la revocación total o parcial del acto o resolución impugnada, o en su caso el sobreseimiento.
+La resolución que recaiga al Recurso de Revisión se tomará por el Pleno del Instituto en un plazo no mayor de 30 días hábiles contados a partir de de la fecha en que se registró la promoción, y tendrá como efectos la confirmación del acto o resolución impugnada, la revocación total o parcial del acto o resolución impugnada, o en su caso el sobreseimiento.
 
 Procede el sobreseimiento del Recurso en los casos descritos por el artículo 66 de la Ley.
 
-La resolución que emita el Instituto respecto al Recurso de Revisión será definitiva y deberá ser notificada al recurrente o su representante en un plazo no mayor de 10 días hábiles contados a partir de la fecha de su emisión.
+La resolución que emita el Instituto respecto al Recurso de Revisión será definitiva y deberá ser notificada al recurrente o su representante en un plazo no mayor de 15 días hábiles contados a partir de la fecha de su emisión.
 
-El Sujeto Obligado debe acatar la resolución que sobre el Recurso de Revisión emita el Instituto; en caso de su incumplimiento se estará a lo dispuesto par el artículo 72 de la Ley, independientemente de lo que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco.
+El Sujeto Obligado debe acatar la resolución que sobre el recurso de Revisión emita el Instituto en un plazo de 15 días hábiles contados a partir de que surta efectos la notificación que se le haga de la resolución; en caso de su incumplimiento se estará a lo dispuesto por el artículo 72 de la Ley, independientemente de lo que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco.
 
 ###### ARTÍCULO 64.
 
@@ -581,13 +713,31 @@ Los particulares que presenten recursos deberán señalar cómo desean ser notif
 
 I. Personalmente o a través del representante legal, en las oficinas del Instituto o en el domicilio del particular, siempre y cuando éste se encuentre ubicado en la misma Zona Urbana en donde tenga su sede la oficina principal el Instituto.
 
-En este caso, el servidor público encargado de realizar la notificación se constituirá en el domicilio indicado para tal efecto en día y hora hábil y la notificación se hará con quien se encuentre en ese momento en el mismo;
+En este caso, el servidor público encargado de realizar la notificación se constituirá en el domicilio indicado para tal efecto en día y hora hábil y la notificación se hará con quien se encuentre en ese momento en el mismo.
 
-II. A través de Medios de Comunicación Electrónica, esto será cuando el recurrente haya optado por este mecanismo al momento de la presentación de su recurso; y
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
 
-III. Por estrados o en el tablero de avisos correspondiente, ubicados en las oficinas del Instituto o en su página oficial de Internet, cuando: El interesado así lo indique; no proporcione el medio por el cual desea ser notificado; se haya tratado de realizar la notificación de acuerdo a lo previsto en la fracción I del presente artículo, y no haya sido posible realizarla por causas imputables al interesado; o habiéndose enviado la notificación por correo electrónica, transcurran cinco días hábiles a partir de la fecha que se remitió la notificación, sin que el interesado envié el acuse de recibo correspondiente.
+Si el domicilio está cerrado o la persona que se encuentra en el se niega a recibir la cédula de notificación, el notificador plasmará tal circunstancia en un acta y se dará vista al Presidente del Instituto para que acuerde la notificación conforme lo establece la fracción III de este artículo;
 
-Los plazos empezarán a contar a partir del día hábil siguiente de la notificación o de su publicación en estrados o tablero de avisos.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+II. A través del Sistema Electrónico de uso remoto, esto será cuando el solicitante haya optado por este mecanismo al momento de la presentación de su recurso;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
+III. Por Estrados ubicados en las oficinas del Instituto y en su Portal de Transparencia, cuando: El interesado así lo indique; no proporcione el medio por el cual desea ser notificado; no señale domicilio; el domicilio señalado resulte inexistente; o se haya tratado de realizar la notificación de acuerdo a lo previsto en la fracción I del presente artículo, y no haya sido posible realizarla por causas imputables al interesado; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+
+IV. Por correo certificado con acuse de recibo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2008)</small>
+
+La cédula de notificación personal deberá contener al menos: la descripción del acuerdo o resolución que se notifica; lugar, día, hora y año en que se practica; nombre de la persona que se encuentre en el domicilio y reciba la cédula; nombre y firma del notificador y; en general toda aquella circunstancia que a juicio de éste debe integrase a la cédula.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE MAYO DE 2008)</small>
+
+Los plazos empezarán a contar a partir del día hábil siguiente en que surta efectos la notificación o de su publicación en Estrados; debiéndose computar sólo los días hábiles.
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO DE QUEJA
 
@@ -595,9 +745,11 @@ Los plazos empezarán a contar a partir del día hábil siguiente de la notifica
 
 Procede la Queja ante el Pleno del Instituto por el incumplimiento por parte del o de los Sujetos Obligados de las disposiciones establecidas en la Ley y el presente Reglamento, la cual puede ser interpuesta por el particular en forma escrita en un plazo (sic) tres días hábiles contados a partir del día siguiente en que surta efectos la notificación, por la cual se da a conocer el acto que la motivo o tenga conocimiento de los hechos que le den sustento.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 66.
 
-También procede la queja cuando hayan fenecido los plazos previstos por la Ley, para que el Sujeto Obligado dé contestación a la solicitud de información pública que en su momento presentó el particular, en cuyo caso únicamente estará legitimado para presentarla aquél que haya hecho la petición a que se refiere el artículo 43 de la Ley y 37 de este Reglamento.
+También procede la queja cuando se esté en el supuesto del silencio del Sujeto Obligado, habiendo fenecido. Los plazos previstos por la Ley, para que éste dé contestación a la solicitud de información pública que en su momento presentó el particular, en cuyo caso únicamente estará legitimado para presentarla aquél que haya hecho la petición en los términos del artículo 43 de la Ley y 37 de este Reglamento, en un plazo de tres día hábiles contados a partir de que concluya al que se refiere el segundo párrafo del artículo 49 de la Ley.
 
 ###### ARTÍCULO 67.
 
@@ -607,15 +759,23 @@ a) Nombre del quejoso;
 
 b) El Sujeto Obligado que se presume incumplió con las disposiciones establecidas en la Ley y el presente Reglamento;
 
-c) Domicilio para recibir notificaciones y en su caso, señalar a la persona que las pueda recibir en su nombre;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-d) Precisar las acciones u omisiones en que el Sujeto Obligado incurrió, incumpliendo con ello las disposiciones establecidas en la Ley y el Presente Reglamento; y
+c) Domicilio para recibir notificaciones y en su caso, señalar a la persona que las pueda recibir en su nombre; y
 
-e) Firma o huella del quejoso.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
+d) Precisar las acciones u omisiones en que el Sujeto Obligado incurrió, incumpliendo con ello las disposiciones establecidas en la Ley y el Presente Reglamento.
+
+e) (DEROGADO, P.O. 3 DE MAYO DE 2008)
 
 ###### ARTÍCULO 68.
 
 Los particulares que presenten ante el Pleno del Instituto una queja deberán señalar cómo desean que les sean notificados los acuerdos o resoluciones que se emitan durante el procedimiento de queja, las notificaciones deberán ser las mismas señaladas en el artículo 64 de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+Para la tramitación del procedimiento de queja podrán aplicarse los artículos 54, 55 y 59 de este ordenamiento, relativos a la prevención y desechamiento.
 
 ###### ARTICULO 69.
 
@@ -627,13 +787,37 @@ La falta del informe establece la presunción de ser ciertos los hechos.
 
 Recepcionado el informe, el Pleno del Instituto contará con cinco días hábiles para resolver lo que conforme a derecho corresponda.
 
-Cuando el Pleno del Instituto resuelva que el Sujeto Obligado pudo haber incurrido en responsabilidad, se dará inicio al procedimiento al que se refiere el artículo 72 de este Reglamento; con excepción de cuando se determine que el Sujeto Obligado incumplió con dar respuesta al quejoso de su solicitud de acceso a la información, en cuyo caso se dará vista al órgano de control interno del Sujeto Obligado para que proceda conforme a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y se ordenará al Sujeto Obligado, en caso de que proceda, la entrega de la información solicitada por el quejoso, en un plazo de tres días hábiles contados a partir del día siguiente en que surte efectos la notificación de la resolución al Sujeto Obligado.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
-### CAPÍTULO VIII. FALTAS ADMINISTRATIVAS Y SANCIONES
+Cuando el Pleno del Instituto resuelva que el Sujeto Obligado pudo haber incurrido en responsabilidad, se dará inicio al procedimiento al que se refiere el artículo 72 de este Reglamento; y de haberse resuelto fundada la queja presentada con motivo del silencio del Sujeto Obligado, se le ordenará a éste la entrega de la información solicitada por el quejoso en un plazo de cinco días hábiles, contados a partir del día siguiente en que surte efectos la notificación que se le haya hecho de la resolución.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
+
+### CAPÍTULO VIII. DE LAS DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS DE QUEJA Y DE RECURSOS DE REVISIÓN
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+
+###### ARTÍCULO 70 Bis.
+
+En los recursos de revisión y procedimientos de queja, el Pleno del Instituto aplicarán lo siguiente:
+
+I. Podrá acordar la acumulación en un sólo expediente, de recibirse dos o más recursos de revisión o procedimientos de queja por los mismos actos u omisiones que se atribuyan al mismo Sujeto Obligado. El acuerdo respectivo deberá ser notificado en los términos previstos en este capítulo a las partes;
+
+II. Acordará los escritos que se le presenten en un plazo de tres días hábiles;
+
+III. Notificará los acuerdos que emita dentro de los tres días siguientes en que se hubiesen emitido; y
+
+IV. Notificará mediante oficio a los Sujetos Obligados. En todo caso el oficio por el que se haga la notificación se acompañará del testimonio de la resolución.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VIII], P.O. 3 DE MAYO DE 2008)
+
+### CAPÍTULO IX. FALTAS ADMINISTRATIVAS Y SANCIONES
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 71.
 
-Con la finalidad de respetar los ámbitos de competencia en la aplicación de la Ley y este Reglamento, el Pleno del Instituto podrá aplicar únicamente las sanciones a los supuestos establecidos en las mismas. En lo no previsto para el Instituto se aplicarán a través de los órganos de control interno de los Sujetos Obligados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco.
+Con la finalidad de respetar los ámbitos de competencia en la aplicación de la Ley y este Reglamento, el Pleno del Instituto podrá aplicar únicamente las sanciones a los supuestos establecidos en las mismas. En lo no previsto para el Instituto se aplicarán a través de los órganos de control interno de los Sujetos Obligados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco y demás leyes aplicables.
 
 ###### ARTÍCULO 72.
 
@@ -645,35 +829,35 @@ La falta del informe establece la presunción de ser ciertos los hechos.
 
 b) Recibido el Informe y desahogadas las pruebas si las hubiere, el Pleno del Instituto resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al Sujeto Obligado infractor las sanciones administrativas correspondientes, y notificará la resolución a su Titular dentro de los cinco días hábiles siguientes de haber emitido la resolución respectiva.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 73.
 
-De conformidad con el artículo 70 de la Ley, el Pleno del Instituto determinará sanciones bajo los siguientes criterios:
-
-I. Amonestará por escrito a quien sé encuentre en algunas de las causales descritas por el artículo 69 y 70 fracción III de la Ley, siempre que se trate de la primera vez y su conducta no sea considerada como grave por el Instituto.
-
-II. Al reincidente de las faltas previstas en la fracción anterior se le sancionará con multa de 100 a 500 días de salario mínimo vigente en el Estado.
-
-III. Se considera que el Sujeto Obligado incurrió en una conducta grave cuando se esté en los supuestos de las fracciones II, IV y V del artículo 70 de la Ley, las cuales se sancionarán con las multas que ese numeral establece respectivamente.
+El Pleno del Instituto determinará las sanciones bajo los criterios que marca el artículo 70 de la Ley.
 
 ###### ARTÍCULO 74.
 
 En la aplicación de las sanciones, se tomará en cuenta la gravedad de la falta, el daño o perjuicio causado, así como el beneficio obtenido, la premeditación, la reincidencia, y en general, todos aquellos criterios y principios jurídicos que permitan una valoración justa y apegada a derecho, respecto de los hechos en cuestión.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 75.
 
-El Titular del Sujeto Obligado, al tener conocimiento de la resolución mediante la cual se le impone una sanción, podrá ordenar a su órgano de control interno que inicie el procedimiento interno que corresponda conforme a la Ley de Responsabilidades de Servidores Públicos del Estado para deslindar responsabilidades.
+El Titular del Sujeto Obligado, al tener conocimiento de la resolución mediante la cual se le impone una sanción, deberá ordenar a su órgano de control interno que inicie el procedimiento que corresponda conforme a la Ley de Responsabilidades de Servidores Públicos del Estado y demás leyes aplicables.
 
 ###### ARTÍCULO 76.
 
 La imposición de las sanciones previstas en este Reglamento se entienden independientes de las responsabilidades civiles, penales o administrativas a que haya lugar.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 77.
 
-Los Poderes Legislativo y Judicial, así como los organismos autónomos o de cualquier tipo, externos al ámbito de la Administración Pública Estatal, aplicarán los criterios y procedimientos previstos en la Ley y este Reglamento, en lo que no se contraponga a sus ordenamientos legales que los rigen. En su caso, el Pleno del Instituto hará el señalamiento de la acción u omisión con la que se incumplen las disposiciones de la Ley y de la sanción que conforme a ella le corresponde, para que el Poder u organismo de que se trate aplique la sanción conforme a sus ordenamientos legales, sujetándose a sus propios órganos de control.
+En el caso de incumplimiento de una resolución del Instituto, éste dará vista al Agente del Ministerio Público correspondiente, para que inicie el procedimiento de Averiguación Previa en contra del Sujeto Obligado que desacató la resolución.
 
 ###### ARTÍCULO 78.
 
-Las multas que imponga el Instituto, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida haciéndose efectivas por la dependencia del Poder Ejecutivo facultada para tales efectos; quien lo hará conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
+(DEROGADO, P.O. 3 DE MAYO DE 2008)
 
 ## TRANSITORIOS
 
@@ -700,3 +884,11 @@ LIC. MIGUEL ALBERTO ROMERO PÉREZ,
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE MAYO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos de Queja que se encuentren en trámite al momento de la entrada en vigor del presente Acuerdo, se regirán conforme a las disposiciones que estaban vigentes al momento en que fueron presentados ante el Instituto.
