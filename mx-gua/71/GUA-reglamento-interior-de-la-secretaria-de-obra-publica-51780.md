@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-obra-publica-51780"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-19"
-last_updated: "2007-10-19"
+last_updated: "2008-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2006.
 
@@ -55,15 +55,21 @@ Para efectos de este reglamento, se entenderá por Secretaría a la Secretaría 
 
 Para el estudio, planeación, programación, ejecución y despacho de los asuntos que le corresponden, la Secretaría contará con las siguientes unidades administrativas:
 
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
+
 I.- Despacho del Secretario:
 
 a. Secretaría Ejecutiva;
 
-b. Dirección de Comunicación Social;
+b. Dirección General de Administración Interna;
 
-c. Dirección de Evaluación y Seguimiento; y
+1. Dirección de Desarrollo Humano.
 
-d. Asesores.
+c. Dirección de Comunicación Social;
+
+d. Dirección de Evaluación y Seguimiento; y
+
+e. Asesores.
 
 II.- Subsecretaría de Programación y Administración de Obra:
 
@@ -85,23 +91,19 @@ b. Dirección General de Administración de Obra
 
 2. Dirección de Contratos.
 
-III.- Subsecretaría de Administración Interna y Servicios Jurídicos:
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
 
-a. Dirección General de Administración Interna:
+III.- Subsecretaría de Planeación, Proyectos y de Servicios Jurídicos:
 
-1. Dirección de Desarrollo Humano.
-
-b. Dirección General de Servicios Jurídicos:
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+a. Dirección General de Servicios Jurídicos:
 
 1. Dirección de Asuntos Jurídicos; y
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
-
 2. Dirección de Derecho de Vía.
 
-3. (DEROGADO, P.O. 1 DE JUNIO DE 2007)
+b. Coordinación de Planeación; y
+
+c. Coordinación de Administración Integral de Proyectos.
 
 IV.- Subsecretaría de Construcción:
 
@@ -365,9 +367,11 @@ XVI.- Las demás que les confieran las disposiciones jurídicas aplicables o su 
 
 ### CAPÍTULO PRIMERO. DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL DESPACHO DEL SECRETARIO
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 14.
 
-La Secretaría Ejecutiva, la Dirección de Comunicación Social, la Dirección de Evaluación y Seguimiento y los asesores, estarán directamente adscritos al despacho del Secretario, quien determinará los lineamientos a que deberán ajustar su trabajo.
+La Secretaría Ejecutiva, la Dirección General de Administración Interna, la Dirección de Comunicación Social, la Dirección de Evaluación y Seguimiento y los Asesores, estarán directamente adscritos al despacho del Secretario, junto con las unidades que les estén adscritas a estas, quien determinará los lineamientos a que deberán ajustar su trabajo.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DE LA SECRETARÍA EJECUTIVA
 
@@ -399,13 +403,93 @@ XI.- Vigilar la eficiencia y eficacia de los sistemas computacionales, instalaci
 
 XII.- Las demás que les confieran las disposiciones jurídicas aplicables o su superior jerárquico.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 2008)</small>
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PROGRAMACIÓN
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN INTERNA
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PROGRAMACIÓN Y EVALUACIÓN DE OBRA
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2008)</small>
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE EVALUACIÓN Y SEGUIMIENTO
+Artículo 15 bis.- Se encuentra adscrita a la Dirección General de Administración Interna, la Dirección de Desarrollo Humano.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 6 DE MAYO DE 2008)</small>
+
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN INTERNA
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2008)</small>
+
+Artículo 15 ter.- La Dirección General de Administración Interna, además de las atribuciones genéricas, tendrá las siguientes:
+
+I.- Vigilar el cumplimiento de las disposiciones legales en materia administrativa, contable, presupuestal, fiscal y financiera;
+
+II.- Proponer políticas y lineamientos de administración de los recursos humanos, materiales y financieros, de acuerdo con la normativa vigente;
+
+III.- Preparar e implementar los programas de modernización y simplificación administrativa, considerando la política y lineamientos de racionalidad, austeridad y disciplina en el ejercicio del gasto público;
+
+IV.- Promover programas, sistemas y procedimientos encaminados a lograr la mejora continua en todos los ámbitos de la Secretaría;
+
+V.- Vigilar el adecuado registro contable de las operaciones relativas a los gastos de operación e indirectos autorizados por la Secretaría;
+
+VI.- Vigilar el ejercicio del presupuesto de egresos utilizando sistemas integrales, modernos y eficaces o el que determine la Secretaría de Finanzas y Administración;
+
+VII.- Coordinar y participar en la elaboración del anteproyecto de presupuesto de egresos que se proponga a la Secretaría de Finanzas y Administración;
+
+VIII.- Autorizar las solicitudes de pago de facturas, recibos y toda clase de documentos similares, relacionados con las adquisiciones de bienes y contratación de servicios prestados a la Secretaría;
+
+IX.- Proporcionar la información requerida para la práctica de auditorías administrativas internas y externas del gasto corriente, así como dar seguimiento a las recomendaciones resultantes;
+
+X.- Intervenir en los análisis y justificaciones para las solicitudes de ampliaciones presupuestales en gastos de administración y operación que requiera la Secretaría;
+
+XI.- Coordinar y vigilar el cumplimiento de la normativa en materia de adquisiciones, servicios y custodia de bienes asignados a la Secretaría;
+
+XII.- Coordinar y vigilar el programa de las adquisiciones autorizadas y calendarizadas por la Secretaría;
+
+XIII.- Participar en comités en los que por el ámbito de su competencia, deba intervenir la Secretaría;
+
+XIV.- Asistir al personal de la Secretaría en los actos de entrega-recepción, por término del encargo;
+
+XV.- Promover acciones preventivas en materia de responsabilidades de los servidores públicos adscritos a la Secretaría;
+
+XVI.- Administrar los almacenes de la Secretaría por medio de un sistema de control de inventarios y realizar la distribución de bienes e insumos, de acuerdo con las disponibilidades existentes; y
+
+XVII.- Proporcionar a las unidades administrativas de la Secretaría los servicios de apoyo administrativo en materia de archivo.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 6 DE MAYO DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO HUMANO
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2008)</small>
+
+Artículo 15 quáter.- La Dirección de Desarrollo Humano, además de las atribuciones genéricas, tendrá las siguientes:
+
+I.- Administrar los recursos humanos de la Secretaría;
+
+II.- Programar, dirigir, coordinar, dar seguimiento y evaluar las acciones que competan a la Secretaría en materia de Servicio Civil de Carrera, atendiendo a los lineamientos que expidan las dependencias normativas;
+
+III.- Aplicar las técnicas de reclutamiento, selección, capacitación y desarrollo del personal, cumpliendo con los proyectos, planes y programas aprobados para la Secretaría;
+
+IV.- Coordinar la elaboración de justificaciones de puestos y estructuras que generen las diferentes áreas de la Secretaría;
+
+V.- Dirigir y administrar el programa de clima organizacional y demás actividades relativas a la salud ocupacional del personal de la Secretaría;
+
+VI.- Dirigir y administrar el programa interno de evaluación del desempeño de la Secretaría y coordinar las actividades de las unidades administrativas en materia de evaluación al desempeño correspondiente al Servicio Civil de Carrera;
+
+VII.- Asesorar a las unidades administrativas de la Secretaría en las técnicas de desarrollo organizacional y laboral;
+
+VIII.- Dar cumplimiento a las disposiciones laborales vigentes en lo referente a derechos, obligaciones y prohibiciones de los servidores públicos;
+
+IX.- Controlar por medio de registros y sistemas lo relativo a los recursos humanos de la Secretaría;
+
+X.- Diseñar, elaborar y mantener actualizados los manuales de organización de la Secretaría con los insumos que entregan las diferentes unidades administrativas; así como apoyar a las áreas de la Secretaría en la elaboración y actualización de manuales que documenten sus funciones;
+
+XI.- Coordinar, promover, dar seguimiento y evaluar los procesos centrales de la Secretaría con las herramientas de mejora continua que se requieran;
+
+XII.- Recabar los indicadores de calidad que generen las diferentes áreas de la Secretaría para su registro, control y difusión; y
+
+XIII.- Diseñar y promover la adopción de medidas y programas que conduzcan al incremento permanente de la productividad de la Secretaría y estimulen la capacitación y la vocación de servicio de los servidores públicos.
+
+(REUBICADO [N. DE E. ANTES CAPITULO TERCERO], P.O. 6 DE MAYO DE 2008)
+
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 16.
 
@@ -427,7 +511,9 @@ VII.- Recabar, difundir e informar a la ciudadanía, a los organismos públicos 
 
 VIII.- Proporcionar la información que corresponda a la Secretaría y sea necesaria para la elaboración de los informes de gobierno.
 
-### CAPÍTULO QUINTO. DE LOS ASESORES
+(REUBICADO [N. DE E. ANTES CAPITULO CUARTO], P.O. 6 DE MAYO DE 2008)
+
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE EVALUACIÓN Y SEGUIMIENTO
 
 ###### Artículo 17.
 
@@ -469,7 +555,9 @@ XVII.- Dar seguimiento al cumplimiento de las metas y objetivos de la Secretarí
 
 XVIII.- Coadyuvar con el Secretario y los Subsecretarios en el cumplimiento de planes y programas de la Secretaría.
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE PROGRAMACIÓN Y ADMINISTRACIÓN DE OBRA
+(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 6 DE MAYO DE 2008)
+
+### CAPÍTULO SEXTO. DE LOS ASESORES
 
 ###### Artículo 18.
 
@@ -477,7 +565,7 @@ La Secretaría contará con los asesores que requiera y permita su presupuesto. 
 
 ## TÍTULO CUARTO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DE LA SUBSECRETARÍA DE PROGRAMACIÓN Y ADMINISTRACIÓN DE OBRA
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE PROGRAMACIÓN
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE PROGRAMACIÓN Y ADMINISTRACIÓN DE OBRA
 
 ###### Artículo 19.
 
@@ -491,9 +579,13 @@ II.- Dirección General de Administración de Obra.
 
 La Subsecretaría de Programación y Administración de Obra, además de las atribuciones genéricas, tendrá las siguientes:
 
-I.- Planear, presupuestar y elaborar el Programa Anual de Obra de la Secretaría, así como llevar el registro y control del avance físico y financiero de las obras;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
 
-II.- Planear, organizar, administrar y controlar los recursos financieros del gasto de inversión;
+I.- Coordinar el registro y control del avance físico y financiero de las obras;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
+
+II.- Organizar, administrar y controlar los recursos financieros aprobados al gasto de inversión;
 
 III.- Gestionar la autorización y aprobación de recursos para la ejecución de obra pública con recursos propios;
 
@@ -501,7 +593,7 @@ III.- Gestionar la autorización y aprobación de recursos para la ejecución de
 
 IV.- Dar seguimiento a la organización y celebración de los procedimientos de contratación de obra pública y servicios relacionados con la misma, vigilando que se lleven a cabo con la formalidad y legalidad que exigen los ordenamientos aplicables;
 
-V.- Ordenar, de ser necesario, la práctica de los estudios de preinversión o rentabilidad social que se requieran para definir la factibilidad para la ejecución de obras;
+V.- (DEROGADA, P.O. 6 DE MAYO DE 2008)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -511,9 +603,9 @@ VII.- Coadyuvar en la celebración de los convenios que en materia de obra públ
 
 VIII.- Vigilar el funcionamiento y actualización del Sistema Estatal de Costos de los Insumos Básicos para la Construcción.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE OBRA
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE PROGRAMACIÓN
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTROL FINANCIERO
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PROGRAMACIÓN
 
 ###### Artículo 21.
 
@@ -527,37 +619,45 @@ II.- Dirección de Control Financiero.
 
 La Dirección General de Programación, además de las atribuciones genéricas, tendrá las siguientes:
 
-I.- Coordinar los programas de obra de la Secretaría, tomando en cuenta los objetivos y metas a corto, mediano y largo plazo, de conformidad con los Planes Estatales de Desarrollo y de Gobierno, y los programas que de ellos se deriven;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
+
+I.- Coordinar los programas de obra aprobados a la Secretaría, tomando en cuenta las metas de corto y mediano plazo de cada uno de los proyectos;
 
 II.- Gestionar la autorización de recursos para la ejecución de obra pública con recursos propios de la Secretaría y gestionar ante las dependencias normativas estatales la autorización de los recursos de aquellas obras que mediante convenio le sean encomendadas para su ejecución;
 
-III.- Integrar y dar seguimiento al Programa Anual de Obra de la Secretaría, así como llevar el control del avance físico y financiero de las obras;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
+
+III.- Dar seguimiento al Programa Anual de Obra de la Secretaría, así como llevar el control del avance físico y financiero de las obras;
 
 IV.- Promover acciones y procedimientos encaminados a establecer un sistema de control y seguimiento de las obras;
 
 V.- Coordinar la integración de los expedientes técnicos que contengan los proyectos de la obra pública encomendada a la Secretaría de conformidad con la normativa vigente;
 
-VI.- Participar en las comisiones que tengan como función la planeación, presupuestación y control de acciones competencia de la Secretaría;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
+
+VI.- Participar en las comisiones que tengan como función la programación, presupuestación y control de acciones competencia de la Secretaría;
 
 VII.- Elaborar, revisar y tramitar las solicitudes de pago de las estimaciones, facturas o recibos de obra ejecutada o de servicios relacionados con ésta, así como toda clase de documentos similares; y
 
 VIII.- Intervenir en los análisis y justificaciones para las solicitudes de ampliaciones presupuestales en proyectos de inversión que requiera la Secretaría.
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE OBRA
-
-(REFORMADO, P.O. 1 DE JUNIO DE 2007) (F. DE E., P.O. 30 DE OCTUBRE DE 2007)
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PROGRAMACIÓN Y EVALUACIÓN DE OBRA
 
 ###### Artículo 23.
 
 La Dirección de Programación y Evaluación de Obra, además de las atribuciones genéricas, tendrá las siguientes:
 
-I.- Identificar en los planes estatales, incluidos los de Gobierno y Desarrollo, así como en los programas que de éstos se deriven, las estrategias propuestas para la determinación de las acciones de obra pública, considerando la viabilidad de las propuestas de inversión de obra regional y estatal;
+I.- (DEROGADA, P.O. 6 DE MAYO DE 2008)
 
-II.- Coordinar con otras áreas de la Secretaría, dependencias y entidades, los programas de obra del ejercicio presupuestal de que se trate y que habrá de ejecutar la propia Secretaría apoyando la integración del Programa Anual de Obra de la Secretaría y sus proyectos estratégicos;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
 
-III.- Coordinar la formulación del anteproyecto del Programa Anual de Obra, así como los de mediano y largo plazo que pretenda ejecutar la Secretaría;
+II.- Coordinar con otras dependencias y entidades, los programas de obra del ejercicio presupuestal aprobado y que habrá de ejecutar la propia Secretaría mediante convenio;
 
-IV.- Apoyar las labores de planeación, programación, seguimiento y control de las obras que ejecute por conducto de terceros la Secretaría, para coordinar y vigilar la correcta aplicación del ejercicio del presupuesto de las obras autorizadas en los programas que competan a la misma y los convenidos con otras dependencias;
+III.- (DEROGADA, P.O. 6 DE MAYO DE 2008)
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
+
+IV.- Apoyar las labores de programación, seguimiento y control de las obras que ejecute por conducto de terceros la Secretaría, para coordinar y vigilar la correcta aplicación del ejercicio del presupuesto de las obras autorizadas en los programas que competan a la misma y los convenidos con otras dependencias;
 
 V.- Conciliar, junto con la Dirección de Control Financiero, el avance financiero de las obras en lo relativo a los recursos autorizados a la Secretaría;
 
@@ -577,7 +677,7 @@ XII.- Integrar los expedientes técnicos que contengan los proyectos de la obra 
 
 XIII.- Participar en el análisis de las propuestas de inversión.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE COSTOS DE OBRA
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTROL FINANCIERO
 
 ###### Artículo 24.
 
@@ -589,7 +689,7 @@ II.- Recabar en tiempo y forma la información de los fondos asignados a la Secr
 
 III.- Vigilar la correcta aplicación de los recursos del gasto de inversión autorizados a la Secretaría en la Ley del Presupuesto General de Egresos para el Estado de Guanajuato, para el ejercicio fiscal correspondiente;
 
-IV.- Integrar el anteproyecto del Programa Anual de Obra de la Secretaría de cada ejercicio fiscal;
+IV.- (DEROGADA, P.O. 6 DE MAYO DE 2008)
 
 V.- Organizar y controlar el sistema de registro de las operaciones del gasto de inversión que se generen;
 
@@ -597,13 +697,15 @@ VI.- Registrar y controlar el avance financiero del programa de inversión autor
 
 VII.- Tramitar, dar seguimiento y controlar las afectaciones o modificaciones presupuestales de los proyectos de inversión que soliciten las áreas técnicas de la Secretaría; y
 
-VIII.- Revisar la documentación para la elaboración de solicitudes de pago de anticipo y de obra pública ejecutada, para su trámite ante la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE ADMINISTRACIÓN INTERNA Y SERVICIOS JURÍDICOS
+VIII.- Revisar la documentación para trámite de pago de obra pública ejecutada y servicios relacionados con ésta.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTRATOS
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE OBRA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2007)</small>
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE OBRA
+
+(REFORMADO, P.O. 1 DE JUNIO DE 2007) (F. DE E., P.O. 30 DE OCTUBRE DE 2007)
 
 ###### Artículo 25.
 
@@ -629,11 +731,13 @@ IV.- Verificar la información sobre el comportamiento de variación de los prec
 
 V.- Proporcionar los elementos de costo de las obras incluidas en el Programa Anual de Obra;
 
-VI.- Vigilar y reportar al Secretario por conducto del Subsecretario de Programación y Administración de Obra, el comportamiento y avance de los programas de inversión; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
 
-VII.- Proponer esquemas de seguimiento para un eficiente ejercicio de los programas de inversión.
+VI.- Supervisar la correcta organización, funcionamiento y actualización del Padrón Estatal de Contratistas; y
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN INTERNA
+VII.- (DEROGADA, P.O. 6 DE MAYO DE 2008)
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE COSTOS DE OBRA
 
 ###### Artículo 27.
 
@@ -659,7 +763,9 @@ IX.- Informar, en forma periódica, al Director General de Administración de Ob
 
 X.- Organizar y administrar el sistema estatal de costos de los insumos básicos para la construcción.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO HUMANO
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTRATOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 28.
 
@@ -691,135 +797,85 @@ XII.- Administrar, controlar y mantener actualizado el Padrón Estatal de Contra
 
 XIII.- Cancelar o suspender el registro en el Padrón Estatal de Contratistas de aquéllos que incumplan con sus obligaciones.
 
-## TÍTULO QUINTO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DE LA SUBSECRETARÍA DE ADMINISTRACIÓN INTERNA Y SERVICIOS JURÍDICOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2008)</small>
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN INTERNA
+## TÍTULO QUINTO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DE LA SUBSECRETARÍA DE PLANEACIÓN, PROYECTOS Y DE SERVICIOS JURÍDICOS
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2008)</small>
+
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE PLANEACIÓN, PROYECTOS Y DE SERVICIOS JURIDICOS
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 29.
 
-Se encuentran adscritas a la Subsecretaría de Administración Interna y Servicios Jurídicos, las siguientes direcciones generales:
+Se encuentran adscritas a la Subsecretaría de Planeación, Proyectos y de Servicios Jurídicos, las siguientes unidades administrativas:
 
-I.- Dirección General de Administración Interna; y
+I.- Dirección General de Servicios Jurídicos;
 
-II.- Dirección General de Servicios Jurídicos.
+II.- Coordinación de Planeación; y
+
+III.- Coordinación de Administración Integral de Proyectos.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 30.
 
-La Subsecretaría de Administración Interna y Servicios Jurídicos, además de las atribuciones genéricas, tendrá las siguientes:
+La Subsecretaría de Planeación, Proyectos y de Servicios Jurídicos, además de las atribuciones genéricas, tendrá las siguientes:
 
-I.- Administrar los recursos humanos, materiales y financieros de la Secretaría;
+I.- Coordinar la integración de los planes y programas en materia de obra pública y servicios relacionados con la misma y participar en las tareas de planeación que se demanden a la Secretaría;
 
-II.- Establecer de acuerdo con las normas generales aprobadas, las directrices y criterios técnicos para el proceso interno de programación, presupuestación y evaluación presupuestal del gasto corriente y vigilar su aplicación;
+II.- Integrar la propuesta de inversión plurianual y elaborar el Programa Anual de inversión de la Secretaría;
 
-III.- Someter a la consideración del Secretario el proyecto del presupuesto anual del gasto corriente de la Secretaría, con base en los anteproyectos que sean presentados por los titulares de las unidades administrativas correspondientes, así como autorizar las erogaciones y vigilar el ejercicio del presupuesto;
+III.- Integrar y actualizar el programa sectorial y los programas especiales de la Secretaría, así como participar en los trabajos de planeación de Gobierno del Estado;
 
-IV.- Realizar el análisis de la estructura orgánica de la Secretaría y someter a la consideración del Secretario para su aprobación las modificaciones a ésta;
+IV.- Coordinar el proceso de elaboración de estudios de preinversión y de evaluación, para definir la factibilidad de los proyectos;
 
-V.- Vigilar la actualización del reglamento interior y de los manuales de organización, de procedimientos y de servicios al público de la Secretaría;
+V.- Administrar el fondo de estudios y proyectos para la preparación de los programas de inversión;
 
-VI.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas a su cargo y proponer al Secretario los cambios de organización de las unidades administrativas que se le hubieren adscrito;
+VI.- Coordinar con las áreas técnicas de la Secretaría los análisis de viabilidad de los proyectos;
 
-VII.- Dictar y establecer, con la aprobación del Secretario, las normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros de la Secretaría, de acuerdo con sus programas y objetivos;
+VII.- Vigilar el desarrollo de la liberación del Derecho de Vía y tomar las medidas conducentes para su atención;
 
-VIII.- Planear y conducir la política de desarrollo del personal, definir los puestos tipo y establecer los perfiles y requerimientos de los mismos;
+VIII.- Participar en el Consejo Consultivo de Concesiones en la presentación y análisis de proyectos bajo la modalidad de concesión;
 
-IX.- Conducir las relaciones laborales de acuerdo con las políticas que señalen el Gobernador o la dependencia competente; autorizar el nombramiento del personal de la Secretaría, cambiarlo de adscripción y determinar su separación cuando proceda en los términos de ley;
+IX.- Coordinar los trabajos de estructuración de proyectos a través de esquemas de Asociación Público Privada (APP's);
 
-X.- Dar seguimiento a las adquisiciones, arrendamientos y contratación de servicios que celebre la Secretaría;
+X.- Acordar con el Secretario los proyectos que se someterán al esquema de administración integral;
 
-XI.- Coordinar y dirigir programas y acciones de calidad para las áreas de la Secretaría;
+XI.- Coordinar y dar seguimiento a los esquemas de administración integral y proponer al Secretario esquemas de administración de proyectos en las distintas áreas de la Secretaría;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+XII.- Coordinar el modelo de análisis integral de los procesos de la Secretaría y recomendar procesos de mejora;
 
-XII.- Supervisar los asuntos y procedimientos de naturaleza jurídica en los que la Secretaría tenga injerencia; y (sic)
+XIII.- Promover, ante inversionistas los proyectos del sector, bajo esquemas de Asociación Público Privada (APP´s);
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+XIV.- Coordinar le celebración de convenios y acuerdos con la Banca de Desarrollo, el Gobierno Federal y las instancias correspondientes para la instrumentación de proyectos Asociación Público Privada (APP´s);
 
-XIII.- Vigilar el desarrollo de la problemática relativa a la liberación del Derecho de Vía y tomar las medidas conducentes para su atención; y
+XV.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas a su cargo y proponer al Secretario los cambios de organización de las unidades administrativas que se le hubieren adscrito; y
 
-XIV.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2007)
+XVI.- Supervisar los asuntos y procedimientos de naturaleza jurídica en los que la Secretaría tenga injerencia.
+
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN INTERNA
+
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN INTERNA
+
+###### Artículo 31.
+
+(DEROGADO, P.O. 6 DE MAYO DE 2008)
+
+###### Artículo 32.
+
+(DEROGADO, P.O. 6 DE MAYO DE 2008)
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO HUMANO
+
+###### Artículo 33.
+
+(DEROGADO, P.O. 6 DE MAYO DE 2008)
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE SERVICIOS JURÍDICOS
 
 #### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE SERVICIOS JURÍDICOS
-
-###### Artículo 31.
-
-La Dirección de Desarrollo Humano se encuentra adscrita a la Dirección General de Administración Interna.
-
-###### Artículo 32.
-
-La Dirección General de Administración Interna, además de las atribuciones genéricas, tendrá las siguientes:
-
-I.- Vigilar el cumplimiento de las disposiciones legales en materia administrativa, contable, presupuestal, fiscal y financiera;
-
-II.- Proponer políticas y lineamientos de administración de los recursos humanos, materiales y financieros, de acuerdo con la normativa vigente;
-
-III.- Preparar e implementar los programas de modernización y simplificación administrativa, considerando la política y lineamientos de racionalidad, austeridad y disciplina en el ejercicio del gasto público;
-
-IV.- Promover programas, sistemas y procedimientos encaminados a lograr la mejora continua en todos los ámbitos de la Secretaría;
-
-V.- Vigilar el adecuado registro contable de las operaciones relativas a los gastos de operación e indirectos autorizados por la Secretaría;
-
-VI.- Vigilar el ejercicio del presupuesto de egresos utilizando sistemas integrales, modernos y eficaces o el que determine la Secretaría de Finanzas y Administración;
-
-VII.- Coordinar y participar en la elaboración del anteproyecto de presupuesto de egresos que se proponga a la Secretaría de Finanzas y Administración;
-
-VIII.- Autorizar las solicitudes de pago de facturas, recibos y toda clase de documentos similares, relacionados con las adquisiciones de bienes y contratación de servicios prestados a la Secretaría;
-
-IX.- Proporcionar la información requerida para la práctica de auditorías administrativas internas y externas del gasto corriente, así como dar seguimiento a las recomendaciones resultantes;
-
-X.- Intervenir en los análisis y justificaciones para las solicitudes de ampliaciones presupuestales en gastos de administración y operación que requiera la Secretaría;
-
-XI.- Coordinar y vigilar el cumplimiento de la normativa en materia de adquisiciones, servicios y custodia de bienes asignados a la Secretaría;
-
-XII.- Coordinar y vigilar el programa de las adquisiciones autorizadas y calendarizadas por la Secretaría;
-
-XIII.- Participar en comités en los que por el ámbito de su competencia, deba intervenir la Secretaría;
-
-XIV.- Asistir al personal en los actos de entrega-recepción, por término del encargo;
-
-XV.- Promover acciones preventivas en materia de responsabilidades de los servidores públicos adscritos a la Secretaría;
-
-XVI.- Administrar los almacenes de la Secretaría por medio de un sistema de control de inventarios y realizar la distribución de bienes e insumos, de acuerdo con las disponibilidades existentes; y
-
-XVII.- Proporcionar a las unidades administrativas de la Secretaría los servicios de apoyo administrativo en materia de archivo.
-
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
-
-###### Artículo 33.
-
-La Dirección de Desarrollo Humano, además de las atribuciones genéricas, tendrá las siguientes:
-
-I.- Administrar los recursos humanos de la Secretaría;
-
-II.- Programar, dirigir, coordinar, dar seguimiento y evaluar las acciones que competan a la Secretaría en materia de Servicio Civil de Carrera, atendiendo a los lineamientos que expidan las dependencias normativas;
-
-III.- Aplicar las técnicas de reclutamiento, selección, capacitación y desarrollo del personal, cumpliendo con los proyectos, planes y programas aprobados para la Secretaría;
-
-IV.- Coordinar la elaboración de justificaciones de puestos y estructuras que generen las diferentes áreas de la Secretaría;
-
-V.- Dirigir y administrar el programa de clima organizacional y demás actividades relativas a la salud ocupacional del personal de la Secretaría;
-
-VI.- Dirigir y administrar el programa interno de evaluación del desempeño de la Secretaría y coordinar las actividades de las unidades administrativas en materia de evaluación al desempeño correspondiente al Servicio Civil de Carrera;
-
-VII.- Asesorar a las unidades administrativas de la Secretaría, en las técnicas de desarrollo organizacional y laboral;
-
-VIII.- Dar cumplimiento a las disposiciones laborales vigentes en lo referente a derechos, obligaciones y prohibiciones de los servidores públicos;
-
-IX.- Controlar por medio de registros y sistemas lo relativo a los recursos humanos de la Secretaría;
-
-X.- Diseñar, elaborar y mantener actualizados los manuales de organización de la Secretaría con los insumos que entregan las diferentes unidades administrativas; así como apoyar a las áreas de la Secretaría en la elaboración y actualización de manuales que documenten sus funciones;
-
-XI.- Coordinar, promover, dar seguimiento y evaluar los procesos centrales de la Secretaría con las herramientas de mejora continua que se requieran;
-
-XII.- Recabar los indicadores de calidad que generen las diferentes áreas de la Secretaría para su registro, control y difusión; y
-
-XIII.- Diseñar y promover la adopción de medidas y programas que conduzcan al incremento permanente de la productividad de la Secretaría y estimulen la capacitación y la vocación de servicio de los servidores públicos.
-
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE CONSTRUCCIÓN
-
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE DERECHO DE VÍA
 
 ###### Artículo 34.
 
@@ -841,7 +897,9 @@ La Dirección General de Servicios Jurídicos, además de las atribuciones gené
 
 I.- Representar legalmente al Secretario en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención;
 
-II.- Asesorar jurídicamente al Secretario y desempeñar las comisiones que le confiera, informando sobre el desarrollo de las mismas por conducto del Subsecretario de Administración Interna y Servicios Jurídicos;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2008)</small>
+
+II.- Asesorar jurídicamente al Secretario y desempeñar las comisiones que le confiera, informando sobre el desarrollo de las mismas por conducto del Subsecretario de Planeación, Proyectos y de Servicios Jurídicos;
 
 III.- Fijar, sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las leyes y de otras disposiciones jurídicas que normen el funcionamiento de la Secretaría, por acuerdo del Secretario o del subsecretario de su adscripción;
 
@@ -875,9 +933,7 @@ XV.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2007)
 
 XVI.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2007)
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE CONTRATOS
-
-Artículo 37 bis.- (DEROGADO, P.O. 19 DE OCTUBRE DE 2007)
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
 ###### Artículo 36.
 
@@ -931,7 +987,7 @@ XVII.- Notificar a los contratistas, consultores y demás personas los actos y r
 
 XVIII.- Solicitar a las unidades administrativas de la Secretaría la información y documentación necesarios para la sustanciación de los asuntos que le corresponda atender.
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE EDIFICACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE DERECHO DE VÍA
 
 ###### Artículo 37.
 
@@ -959,17 +1015,93 @@ X.- Brindar asesoría en materia de Derecho de Vía a otras dependencias, entida
 
 XI.- Vigilar, en coordinación con la Dirección General de Infraestructura Vial, que se respete el Derecho de Vía en las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del Estado.
 
+N. DE E., DE CONFORMIDAD CON EL DECRETO GUBERNAMENTAL NUMERO 68, PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2008, NO SE HACE REFERENCIA A LA PRESENTE SECCION; MOTIVO POR EL CUAL SE MANTIENE EN LA ESTRUCTURA DEL ORDENAMIENTO.
+
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE JUNIO DE 2007)</small>
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RESTAURACIÓN DEL PATRIMONIO HISTÓRICO
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE CONTRATOS
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE EDIFICACIÓN
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 2008)</small>
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE INFRAESTRUCTURA VIAL
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PLANEACIÓN
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2008)</small>
+
+Artículo 37 bis.- La Coordinación de Planeación, además de las atribuciones genéricas, tendrá las siguientes:
+
+I.- Integrar el anteproyecto de inversión plurianual y el anteproyecto del programa anual de inversión, de conformidad con el Plan de Desarrollo, Plan de Gobierno y los programas que de ellos se deriven;
+
+II.- Coordinar con dependencias y entidades, la integración de los programas de obra que habrá de ejecutar la propia Secretaría;
+
+III.- Acordar con el titular los procedimientos necesarios para la realización de estudios de preinversión y evaluación de los proyectos al interior de la Secretaría;
+
+IV.- Integrar la propuesta de recursos necesarios para la realización de estudios y proyectos para la preparación de las propuestas de inversión;
+
+V.- Coordinar con las áreas respectivas de la Secretaría la elaboración e integración de los estudios de preinversión, evaluación y proyectos ejecutivos, a fin de determinar la viabilidad de las propuestas de inversión;
+
+VI.- Coordinar los trabajos de los grupos consultivos y de participación social que se constituyan en materia de planeación;
+
+VII.- Realizar propuestas de mejora a los procesos de la Secretaría y recomendar al Subsecretario de su adscripción adecuaciones a los mismos;
+
+VIII.- Diseñar e instrumentar los procedimientos para integrar y actualizar el programa sectorial y los programas especiales de la Secretaría, y apoyar al Subsecretario de su adscripción en su participación en los trabajos de planeación de Gobierno del Estado;
+
+IX.- Identificar las acciones de obra pública, de conformidad con el Plan de Desarrollo y el Plan de Gobierno, así como en los programas que de éstos deriven;
+
+X.- Coadyuvar con otras áreas de la Secretaría, dependencias y entidades, la integración de los programas de obra que habrá de ejecutar la propia Secretaría;
+
+XI.- Determinar los procedimientos necesarios para la realización de estudios de preinversión y evaluación de los proyectos al interior de la Secretaría;
+
+XII.- Coordinar los procesos de análisis para determinar la propuesta de recursos necesarios para la realización de estudios y proyectos para la preparación de las propuestas de inversión;
+
+XIII.- Operar el procedimiento al interior de la Secretaría en la elaboración e integración de los estudios de preinversión, evaluación y proyectos ejecutivos, a fin de determinar la viabilidad de las propuestas de inversión;
+
+XIV.- Participar en los trabajos de los grupos consultivos y de participación social que se constituyan en materia de planeación; y
+
+XV.- Realizar el análisis integral a los procesos de la Secretaría y recomendar procesos de mejora.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 2008)</small>
+
+### CAPÍTULO QUINTO. DE LA COORDINACIÓN DE ADMINISTRACIÓN INTEGRAL DE PROYECTOS
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2008)</small>
+
+Artículo 37 ter.- La Coordinación de Administración Integral de Proyectos, además de las atribuciones genéricas, tendrá las siguientes:
+
+I.- Coordinar los procesos de pre-inversión, estructuración de los proyectos a través de esquemas de Asociación Público Privada (APP's) y la contratación de los estudios que se determinen al respecto;
+
+II.- Integrar la información que se requiera para el funcionamiento y toma de decisiones del Consejo Consultivo de Concesiones y dar seguimiento a los acuerdos que se deriven del mismo;
+
+III.- Coordinar la instrumentación del modelo de administración integral y gestión de proyectos;
+
+IV.- Integrar el presupuesto de inversión necesario para la estructuración y administración integral de los proyectos y presentarlo para su aprobación;
+
+V.- Coordinar al interior de la Secretaría los trabajos de pre-inversión, evaluación y estudios de factibilidad de los proyectos que establezca el Secretario;
+
+VI.- Participar con las instancias de planeación del Poder Ejecutivo en los trabajos de análisis y preparación de proyectos;
+
+VII.- Realizar la estructuración de los proyectos a cargo de la Secretaría en materia de Asociación Público Privada (APP's);
+
+VIII.- Integrar la información de los proyectos que se presentarán en el Consejo Consultivo de Concesiones para su análisis y aprobación bajo la modalidad de concesión;
+
+IX.- Definir los términos de referencia y alcance que se requerirá para cada uno de los proyectos bajo el esquema de administración integral y definir junto con las dependencias y entidades del Poder Ejecutivo, el alcance de la administración integral, de aquellos proyectos convenidos;
+
+X.- Contratar los servicios de administración integral y dar seguimiento a los entregables establecidos;
+
+XI.- Dar seguimiento a cada uno de los proyectos y establecer un cronograma de trabajo, así como monitorear y supervisar el desempeño de las empresas encargadas de prestar el servicio de Administración de Proyectos;
+
+XII.- Promover esquemas de capacitación de materia de administración de proyectos al interior de la Secretaría;
+
+XIII.- Coordinar a los equipos al interior de la Secretaría y ser el enlace con otras dependencias y entidades en la administración integral de proyectos;
+
+XIV.- Diseñar e instrumentar esquemas de administración de proyectos en las distintas áreas de la Secretaría;
+
+XV.- Apoyar en los trabajos de registro y preparación de las propuestas de coinversión con la Federación; y
+
+XVI.- Operar la oficina de proyectos y coordinar los trabajos de gerenciamiento o administración integral en los proyectos que acuerde el Secretario.
 
 ## TÍTULO SEXTO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DE LA SUBSECRETARÍA DE CONSTRUCCIÓN
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN AMBIENTAL
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE CONSTRUCCIÓN
 
 ###### Artículo 38.
 
@@ -995,9 +1127,9 @@ IV.- Verificar que las acciones e inversiones en materia de obra pública y serv
 
 V.- Revisar que los proyectos de infraestructura vial y de edificación que ejecute la Secretaría en el Estado y los municipios, se realicen con apego a las especificaciones generales de construcción y las que al efecto emitan las diferentes dependencias y organismos rectores y especializados en cada materia.
 
-### CAPÍTULO ÚNICO. DE LA COMPETENCIA DEL COMITÉ DE FALLOS
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE EDIFICACIÓN
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE EDIFICACIÓN
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE EDIFICACIÓN
 
 ###### Artículo 40.
 
@@ -1033,7 +1165,7 @@ VII.- Participar, en coordinación con otras dependencias y entidades, en el est
 
 VIII.- Participar en el análisis que permita al término de una obra, evaluar el desempeño de su ejercicio.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE OBRA CIVIL
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RESTAURACIÓN DEL PATRIMONIO HISTÓRICO
 
 ###### Artículo 42.
 
@@ -1055,7 +1187,7 @@ VII.- Coordinar, revisar e iniciar el trámite para el pago de las estimaciones 
 
 VIII.- Requerir a los contratistas y consultores la elaboración de manuales de operación y mantenimiento por cada obra de restauración realizada, para ser entregados a la dependencia u organismo bajo cuya custodia quedará la misma.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE PROYECTOS DE OBRA CIVIL
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE EDIFICACIÓN
 
 ###### Artículo 43.
 
@@ -1077,7 +1209,7 @@ VII.- Identificar las necesidades e iniciar el trámite de solicitud de recursos
 
 VIII.- Llevar a cabo la entrega-recepción de las obras de edificación encomendadas a la Secretaría, con apego a la normativa vigente o estipulaciones convenidas.
 
-#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PRESAS Y PROYECTOS ESPECIALES
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE OBRA CIVIL
 
 ###### Artículo 44.
 
@@ -1111,7 +1243,7 @@ XIII.- Elaborar los dictámenes técnicos que se le encomienden; y
 
 XIV.- Elaborar los informes del avance físico y financiero de los diferentes programas de obra que le hayan sido encomendados.
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE INFRAESTRUCTURA VIAL
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE PROYECTOS DE OBRA CIVIL
 
 ###### Artículo 45.
 
@@ -1147,7 +1279,7 @@ XIV.- Integrar, conservar y preservar el acervo documental gráfico que correspo
 
 XV.- Apoyar en la integración, clasificación y evaluación del Padrón Estatal de Contratistas en materia de estudios y proyectos.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE OBRA VIAL
+#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PRESAS Y PROYECTOS ESPECIALES
 
 ###### Artículo 46.
 
@@ -1169,9 +1301,9 @@ VII.- Proporcionar asesoría técnica a las dependencias, entidades, organismos 
 
 VIII.- Coordinar acciones y participar en la construcción de las obras materia de proyectos especiales incluidas en los programas de obra a ejecutar en el Estado.
 
-### CAPÍTULO ÚNICO. DE LOS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE INFRAESTRUCTURA VIAL
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INGENIERÍA
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE INFRAESTRUCTURA VIAL
 
 ###### Artículo 47.
 
@@ -1209,7 +1341,7 @@ VIII.- Dirigir y controlar los proyectos ejecutivos en las vías de comunicació
 
 IX.- Colaborar con la Dirección General de Tránsito y Transporte del Estado, en la planeación del transporte en carreteras de jurisdicción estatal y de la Federación entregadas al Ejecutivo del Estado.
 
-#### SECCIÓN CUARTA. DE LAS DIRECCIONES DE CONSTRUCCIÓN
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE OBRA VIAL
 
 ###### Artículo 49.
 
@@ -1233,7 +1365,7 @@ VIII.- Dar seguimiento a la entrega-recepción de las obras de infraestructura v
 
 IX.- Apoyar a la Dirección General de Administración Interna en la aplicación de los programas de capacitación, desarrollo humano y recursos materiales.
 
-#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE CONSERVACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INGENIERÍA
 
 ###### Artículo 50.
 
@@ -1257,7 +1389,7 @@ VIII.- Coordinar los levantamientos topográficos para dictaminar las afectacion
 
 IX.- Participar, en conjunto con la Coordinación de Conservación, en la elaboración de los estudios relacionados con la planeación de infraestructura vial estatal.
 
-#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PUENTES
+#### SECCIÓN CUARTA. DE LAS DIRECCIONES DE CONSTRUCCIÓN
 
 ###### Artículo 51.
 
@@ -1329,7 +1461,7 @@ XII.- Elaborar dictámenes técnicos para dar atención a solicitudes de permiso
 
 XIII.- Elaborar y revisar los anteproyectos de los programas de reconstrucción y conservación de carreteras a su cargo.
 
-#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE VERIFICACIÓN Y PRUEBAS
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE CONSERVACIÓN
 
 ###### Artículo 54.
 
@@ -1367,6 +1499,8 @@ XIII.- Vigilar los permisos de cruzamiento, alineamiento, de construcción e ins
 
 XIV.- Determinar y comunicar los daños y el monto de éstos, ocasionados por accidentes a las vías de comunicación terrestre del Estado, en la superficie de rodamiento, señalamientos y obras diversas, así como estudiar la alternativa de solución de aquellos lugares de mayor incidencia donde se ocasionen, en coordinación con la Dirección General de Tránsito y Transporte del Estado.
 
+#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PUENTES
+
 ###### Artículo 56.
 
 La Coordinación de Puentes reportará sus actividades a las Direcciones de Construcción Zona Norte o Zona Sur, de acuerdo con la ubicación territorial de la obra que esté ejecutando. La dirección a la cual reporten sus actividades determinará los lineamientos a los que deberán ajustar las mismas.
@@ -1393,6 +1527,8 @@ VIII.- Realizar inspecciones y evaluaciones especiales a los puentes ubicados de
 
 IX.- Proporcionar asesoría técnica a las dependencias, entidades, organismos autónomos y municipios que lo soliciten en materia de puentes, en los casos en que no se interfiera el desarrollo normal de las actividades de la Secretaría.
 
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE VERIFICACIÓN Y PRUEBAS
+
 ###### Artículo 58.
 
 La Dirección de Verificación y Pruebas, además de las atribuciones genéricas, tendrá las siguientes:
@@ -1417,7 +1553,7 @@ IX.- Apoyar a la Coordinación de Conservación en los estudios de campo para la
 
 X.- Coordinar los estudios de índices y nivel de servicio de la red estatal pavimentada.
 
-### CAPÍTULO PRIMERO. DE LAS SUPLENCIAS Y LICENCIAS
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN AMBIENTAL
 
 ###### Artículo 59.
 
@@ -1441,7 +1577,7 @@ VIII.- Promover y organizar los eventos de capacitación ambiental para dependen
 
 ## TÍTULO SÉPTIMO. DEL COMITÉ DE FALLOS
 
-### CAPÍTULO SEGUNDO. DE LAS RELACIONES DE TRABAJO
+### CAPÍTULO ÚNICO. DE LA COMPETENCIA DEL COMITÉ DE FALLOS
 
 ###### Artículo 60.
 
@@ -1465,6 +1601,8 @@ La selección del contratista a quien habrá de adjudicarse la obra, la realizar
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
+### CAPÍTULO ÚNICO. DE LOS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+
 ###### Artículo 63.
 
 Para el despacho de los asuntos de su competencia, la Secretaría podrá contar con los órganos desconcentrados que le estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia que le sea asignada dentro del ámbito que al efecto sea determinado.
@@ -1479,6 +1617,8 @@ Para la eficaz atención y eficiente despacho de los asuntos de su competencia l
 
 ## TÍTULO NOVENO. DE LAS SUPLENCIAS, LICENCIAS Y LAS RELACIONES DE TRABAJO
 
+### CAPÍTULO PRIMERO. DE LAS SUPLENCIAS Y LICENCIAS
+
 ###### Artículo 66.
 
 Las ausencias del Secretario menores de quince días serán cubiertas por el subsecretario que al efecto designe por escrito, cuando excedan de ese plazo, por quien designe el Gobernador del Estado.
@@ -1490,6 +1630,8 @@ Los servidores públicos de la Secretaría, serán suplidos en sus ausencias men
 ###### Artículo 68.
 
 Para el otorgamiento y revocación de licencias, se estará a lo dispuesto por la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios y de las Condiciones Generales de Trabajo en las Dependencias y Entidades del Poder Ejecutivo del Estado de Guanajuato.
+
+### CAPÍTULO SEGUNDO. DE LAS RELACIONES DE TRABAJO
 
 ###### Artículo 69.
 
@@ -1526,3 +1668,11 @@ P.O. 19 DE OCTUBRE DE 2007.
 Artículo Primero. El Presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE MAYO DE 2008.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan aquellas disposiciones que se opongan a este Decreto Gubernativo.
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a la Subsecretaría de Administración Interna y Servicios Jurídicos, se entenderá hecha a la Subsecretaría de Planeación, Proyectos y de Servicios Jurídicos.
