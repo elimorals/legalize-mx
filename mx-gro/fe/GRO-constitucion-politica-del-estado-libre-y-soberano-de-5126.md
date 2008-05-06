@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2007-12-28"
+last_updated: "2008-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2008.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -243,157 +243,157 @@ Los municipios integrantes del Estado de Guerrero son:
 
 41.- Ixcateopan de Cuauhtémoc
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-42.- José Azueta
-
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2003)</small>
 
-43.- José Joaquín de Herrera
+42.- José Joaquín de Herrera
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-44.- Juan R. Escudero
+43.- Juan R. Escudero
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
 
-45.- Juchitán
+44.- Juchitán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-46.- Leonardo Bravo
+45.- Leonardo Bravo
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-47.- Malinaltepec
+46.- Malinaltepec
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-48.- Mártir de Cuilapan
+47.- Mártir de Cuilapan
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-49.- Marquelia
+48.- Marquelia
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-50.- Metlatónoc
+49.- Metlatónoc
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-51.- Mochitlán
+50.- Mochitlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-52.- Olinalá
+51.- Olinalá
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-53.- Ometepec
+52.- Ometepec
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-54.- Pedro Ascencio Alquisiras
+53.- Pedro Ascencio Alquisiras
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-55.- Petatlán
+54.- Petatlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-56.- Pilcaya
+55.- Pilcaya
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-57.- Pungarabato
+56.- Pungarabato
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-58.- Quechultenango
+57.- Quechultenango
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-59.- San Luis Acatlán
+58.- San Luis Acatlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-60.- San Marcos
+59.- San Marcos
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-61.- San Miguel Totolapan
+60.- San Miguel Totolapan
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-62.- Taxco de Alarcón
+61.- Taxco de Alarcón
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-63.- Tecoanapa
+62.- Tecoanapa
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-64.- Tecpan de Galeana
+63.- Tecpan de Galeana
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-65.- Teloloapan
+64.- Teloloapan
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-66.- Tepecoacuilco de Trujano
+65.- Tepecoacuilco de Trujano
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-67.- Tetipac
+66.- Tetipac
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-68.- Tixtla de Guerrero
+67.- Tixtla de Guerrero
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-69.- Tlacoapa
+68.- Tlacoapa
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-70.- Tlacoachistlahuaca
+69.- Tlacoachistlahuaca
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-71.- Tlalchapa
+70.- Tlalchapa
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1988)</small>
 
-72.- Tlalixtaquilla de Maldonado
+71.- Tlalixtaquilla de Maldonado
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-73.- Tlapa de Comonfort
+72.- Tlapa de Comonfort
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-74.- Tlapehuala
+73.- Tlapehuala
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1993)</small>
 
-75.- La Unión de Isidoro Montes de Oca
+74.- La Unión de Isidoro Montes de Oca
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-76.- Xalpatláhuac
+75.- Xalpatláhuac
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-77.- Xochistlahuaca
+76.- Xochistlahuaca
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-78.- Xochihuehuetlán
+77.- Xochihuehuetlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-79.- Zapotitlán Tablas
+78.- Zapotitlán Tablas
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2008)</small>
+
+79.- Zihuatanejo de Azueta
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -3298,3 +3298,11 @@ NOVENO. El Congreso del Estado expedirá la Ley reglamentaria de los artículos 
 DÉCIMO. Los consejeros electorales del Instituto Electoral del Estado y los magistrados del Tribunal Electoral del Estado, en su caso que sean ratificados por un periodo más y los designados en el año dos mil ocho, durarán en su cargo del veintinueve de mayo de dos mil ocho al quince de noviembre de dos mil once.
 
 El Fiscal Especializado para la Atención de Delitos Electorales del Estado, que sea ratificado o designado durará en su cargo del veinticinco de Mayo de dos mil ocho al quince de noviembre de dos mil once.
+
+P.O. 6 DE MAYO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Para dar cumplimiento a lo establecido en la fracción III del artículo 125 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase el presente Decreto a los Ayuntamientos que integran el Estado.
+
+TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y para su publicación en el Periódico Oficial del Gobierno del Estado.
