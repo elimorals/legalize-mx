@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-04-04"
+last_updated: "2008-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -67,6 +67,8 @@ Las disposiciones de este ordenamiento son de observancia general para todos los
 
 Este Acuerdo tiene por objeto establecer los sistemas para identificar, investigar, determinar y, en su caso, sancionar las responsabilidades de los servidores públicos previstos en el artículo anterior derivadas de lo dispuesto en los artículos 101 y 113 de la Constitución General de la República, 129 y 131 de la Ley Orgánica del Poder Judicial de la Federación, y 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; así como regular el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Consejo de la Judicatura Federal, de tribunales de circuito, de juzgados de distrito y del Tribunal Electoral del Poder Judicial de la Federación, con excepción de los magistrados electorales, el personal de su Sala Superior, los coordinadores y demás servidores directamente adscritos a la Presidencia de dicho Tribunal Electoral.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 3.
 
 Para los efectos de este Acuerdo se entenderá por:
@@ -77,7 +79,7 @@ II. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
 III. Ley: La Ley Orgánica del Poder Judicial de la Federación;
 
-IV. Acuerdo: El Acuerdo General del Pleno del Consejo de la Judicatura Federal que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial;
+IV. Acuerdo: El Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial;
 
 V. Consejo: El Consejo de la Judicatura Federal;
 
@@ -93,9 +95,13 @@ X. Unidades administrativas: Las ponencias de los consejeros, secretarías ejecu
 
 XI. Organos jurisdiccionales: Los Tribunales de Circuito y los Juzgados de Distrito;
 
-XII. Contraloría: La Contraloría del Poder Judicial de la Federación; y,
+XII. Contraloría: La Contraloría del Poder Judicial de la Federación;
 
-XIII. Organos administrativos: Los órganos auxiliares y las unidades administrativas.
+XIII. Organos administrativos: Los órganos auxiliares y las unidades administrativas;
+
+XIV. Comisión: La Comisión de Disciplina del Consejo de la Judicatura Federal; y
+
+XV. Secretaría: La Secretaría Ejecutiva de Disciplina del Consejo de la Judicatura Federal.
 
 ###### Artículo 4.
 
@@ -953,39 +959,63 @@ Transcurridos los cinco días hábiles, sin que se haya interpuesto el recurso d
 
 #### Sección I. De los Organos Competentes
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 132.
 
 Es facultad originaria del Consejo conocer de los procedimientos de responsabilidad administrativa contra los servidores públicos adscritos a tribunales de circuito y juzgados de distrito.
 
-Por regla general, el Consejo ejercerá esa facultad disciplinaria por conducto de los titulares de los órganos jurisdiccionales, a quienes corresponderá investigar, tramitar y resolver los procedimientos relacionados con las responsabilidades administrativas de los servidores públicos adscritos al órgano jurisdiccional del cual sean titulares.
+Por regla general, el Consejo ejercerá dicha facultad disciplinaria mediante el auxilio de los titulares de los órganos jurisdiccionales, a quienes corresponderá tramitar los procedimientos relacionados con las responsabilidades administrativas de los servidores públicos adscritos a órganos jurisdiccionales, conforme a la competencia establecida en el artículo 136 de este acuerdo, lo anterior, sin perjuicio de que el Consejo los ejerza directamente.
 
-Cuando de un mismo acto se derive alguna causa de responsabilidad de un Magistrado de Circuito o Juez de Distrito y otro servidor público adscrito al mismo órgano jurisdiccional del que aquellos son titulares, su conocimiento corresponderá al Consejo conforme a las reglas previstas en el Capítulo II de este Título, así como en aquellos casos en que el propio Consejo considere conveniente atraerlos a su conocimiento.
+Cuando de un mismo acto, atribuido a un empleado o funcionario de un órgano jurisdiccional, se pueda derivar alguna causa de responsabilidad de un Magistrado de Circuito o de un Juez de Distrito, la substanciación y resolución del dicho procedimiento corresponderá al Consejo conforme a las reglas previstas en el Capítulo II de este Título, así como en aquellos casos en que el propio Consejo considere conveniente atraerlos a su conocimiento.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 133.
 
-Cuando un Magistrado de Circuito o un Juez de Distrito impongan sanción en la resolución que ponga fin al procedimiento administrativo de responsabilidad, instaurado en contra de algún servidor público adscrito al órgano jurisdiccional del que sean titulares, están obligados a remitir copia certificada de dicha resolución a la Dirección General de Recursos Humanos del Consejo y a la Contraloría.
+Cuando se imponga sanción en la resolución que ponga fin a un procedimiento administrativo de responsabilidad, instaurado en contra de algún servidor público adscrito a un órgano jurisdiccional, la Secretaría deberá remitir copia certificada de la resolución correspondiente a la Dirección General de Recursos Humanos del Consejo, para que se agregue al expediente personal del funcionario, y otro tanto a la Contraloría para efectos de control.
+
+> <small>(DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 #### Sección II. De la Investigación de las Responsabilidades Administrativas
 
 #### Sección III. De la Tramitación
 
+> <small>(REFORMADO Y REUBICADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 134.
 
-El titular del órgano jurisdiccional al que esté adscrito el servidor público que se presuma incurrió en alguna causa de responsabilidad administrativa, está facultado para ordenar la práctica de investigaciones. Dicha orden deberá expresar las circunstancias que razonadamente justifiquen la investigación, y deberá dictarse antes de que se inicie el procedimiento. Tratándose de tribunales colegiados de circuito la investigación deberá determinarse mediante acuerdo del Tribunal Pleno.
+Corresponde a los titulares de los juzgados de distrito y tribunales unitarios de circuito, así como a cualquiera de los magistrados integrantes de un Tribunal Colegiado de Circuito, formular denuncia para iniciar procedimiento de responsabilidad administrativa en contra de los servidores públicos adscritos al órgano jurisdiccional del que sean titulares, cuando estimen, fundada y motivadamente, que cuentan con elementos que acrediten la comisión de una conducta indebida y que, además, permitan presumir la responsabilidad del supuesto infractor.
+
+> <small>(REFORMADO Y REUBICADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 135.
 
-Durante la investigación sólo se admitirán las pruebas que determine el órgano que hubiere ordenado su inicio; el servidor público investigado únicamente podrá formular alegaciones en torno a los hechos que se asienten en las actas que se levanten durante el curso de la investigación.
+La denuncia deberá enviarse o presentarse por escrito ante la Secretaría, la que dará cuenta a la Comisión, en la siguiente sesión ordinaria, para que determine sobre la procedencia a trámite de la denuncia.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 136.
 
-Corresponde a los titulares de los órganos jurisdiccionales ordenar el inicio del procedimiento de responsabilidad administrativa en contra de los servidores públicos adscritos al órgano jurisdiccional del que sean titulares, cuando estimen que cuentan con elementos que acrediten la comisión de una conducta indebida y que, además, permitan presumir la responsabilidad del supuesto infractor. Tratándose de Tribunales Colegiados de Circuito, el inicio del procedimiento deberá determinarse mediante acuerdo del Tribunal Pleno.
+Son competentes para conocer de la instrucción de los procedimientos de responsabilidad en contra de funcionarios y empleados de los juzgados de distrito y tribunales de circuito, en auxilio del Consejo de la Judicatura Federal, los siguientes:
+
+I.- Tratándose de aquellos a los que se les atribuya alguna conducta infractora durante su desempeño en un Juzgado de Distrito, el titular del Juzgado de Distrito más próximo en número, distancia y especialidad, en su caso, dentro del mismo circuito;
+
+II.- Tratándose de aquellos a los que se les atribuya alguna conducta infractora durante su desempeño en un Tribunal Unitario de Circuito, el titular del Tribunal Unitario más próximo en número, distancia y especialidad, en su caso, dentro del mismo circuito;
+
+III.- Tratándose de aquellos a los que se les atribuya alguna conducta infractora durante su desempeño en un Tribunal Colegiado de Circuito, el Presidente del Tribunal Colegiado más próximo en número, distancia y especialidad, en su caso, dentro del mismo circuito.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 137.
 
-Para determinar el inicio de un procedimiento de responsabilidad administrativa se deberá emitir un proveído en el que se precise la o las conductas que se imputan al servidor público de que se trate, concediéndole un plazo de cinco días hábiles para que formule un informe sobre los hechos que se le atribuyan, conforme a lo previsto en el artículo 98, párrafos segundo y tercero, de este Acuerdo. Con dicho informe se deberá acompañar el medio electrónico o magnético que contenga su transcripción.
+El inicio del procedimiento de responsabilidad administrativa sólo podrá ordenarse mediante acuerdo de la Comisión en el que se precise la o las conductas que se imputan al servidor público de que se trate. En el mismo acuerdo la Comisión señalará el órgano auxiliar instructor para conocerla y radicarla conforme a las reglas establecidas en el artículo anterior.
 
-Contra los decretos y los autos que se dicten en la substanciación del procedimiento disciplinario no será procedente recurso alguno.
+El órgano señalado para actuar en auxilio del Consejo en un procedimiento de responsabilidad, una vez recibida la denuncia y el acuerdo de inicio, la radicará dentro del término de cuarenta y ocho horas y ordenará formar el expediente respectivo. En el acuerdo de radicación se ordenará citar personalmente al funcionario público involucrado, concediéndole un plazo de cinco días hábiles para que formule un informe sobre los hechos que se le atribuyan, conforme a lo previsto en el artículo 98, párrafos segundo y tercero, de este Acuerdo. Con dicho informe se deberá acompañar el medio electrónico o magnético que contenga su transcripción.
+
+La fecha en que se realice el emplazamiento determina la iniciación formal del procedimiento de responsabilidad.
+
+Contra los decretos y los autos que se dicten en la substanciación del procedimiento disciplinario no será procedente recurso alguno, sin perjuicio de que sean materia de la resolución que emita el Consejo, como previene el segundo párrafo del artículo 146.
 
 ###### Artículo 138.
 
@@ -993,27 +1023,37 @@ El plazo de cinco días hábiles para rendir el informe a que se refiere el art�
 
 El plazo para rendir el informe se podrá ampliar en los términos y condiciones previstos en el artículo 101 de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 139.
 
-En caso de que un Magistrado de Circuito o Juez de Distrito inicie un procedimiento de responsabilidad administrativa en contra de un servidor público que ya no labore en el órgano jurisdiccional del que es titular, deberá conceder un plazo de diez días hábiles más para rendir el informe, con el objeto de recabar las pruebas que estime pertinentes para apoyarlo; y de quince días hábiles tratándose de personas que ya no laboren en el Poder Judicial de la Federación.
+En caso de que se inicie un procedimiento de responsabilidad administrativa en contra de un servidor público que ya no labore en el órgano jurisdiccional en el que hubiere cometido las conductas que se le atribuyen, se le deberá conceder un plazo adicional de diez días hábiles para rendir el informe, con el objeto de recabar las pruebas que estime pertinentes para apoyarlo; o de quince días hábiles adicionales, tratándose de personas que ya no laboren en el Poder Judicial de la Federación.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 140.
 
-Los procedimientos administrativos de responsabilidad que se integren en contra de alguna persona que ya no labora en el Poder Judicial de la Federación y cuyo domicilio se desconozca, se suspenderán de oficio conforme al artículo 103, inciso b) de este Acuerdo, en cuyo caso se estará a lo dispuesto en el segundo párrafo del artículo 105 de este Acuerdo.
+Los procedimientos administrativos de responsabilidad que se integren en contra de alguna persona que ya no labora en el Poder Judicial de la Federación y cuyo domicilio se desconozca, se suspenderán de oficio conforme al artículo 103, inciso b), de este Acuerdo, en cuyo caso se estará a lo dispuesto en el segundo párrafo del artículo 105 de este Acuerdo.
 
-La suspensión de oficio se declarará mediante proveído del titular del órgano jurisdiccional o, en su caso, del pleno tratándose de tribunales colegiados de circuito.
+La suspensión de oficio se declarará mediante proveído del titular del órgano jurisdiccional o, en su caso, de su Presidente, tratándose de tribunales colegiados de circuito, de lo cual se informará a la Comisión para lo que tenga a bien determinar.
 
 ###### Artículo 141.
 
 El servidor público, al rendir su informe, ofrecerá las pruebas que estime conducentes y, en su caso, acompañará los documentos que justifiquen su dicho.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 142.
 
-Después de rendido el informe, el titular del órgano jurisdiccional, o el pleno, tratándose de tribunales colegiados, dictará resolución en la que determinará las pruebas que se admitan, pudiendo limitar el número de testigos a tres por cada hecho. Respecto de pruebas que ameriten preparación especial, se señalará día y hora para su desahogo con citación a las partes.
+Después de rendido el informe, el titular del órgano jurisdiccional, o el Presidente, tratándose de tribunales colegiados, emitirá proveído en el que determinará las pruebas que se admitan, pudiendo limitar el número de testigos a tres por cada hecho. Respecto de pruebas que ameriten preparación especial, se señalará día y hora para su desahogo con citación a las partes.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 143.
 
-En la resolución que dé inicio al procedimiento administrativo de responsabilidad, se señalará día y hora para la celebración de una audiencia, a la que se citará al presunto infractor, para el desahogo de las pruebas que conforme al artículo anterior hubieren sido admitidas, tomando en consideración el tiempo para su preparación. Cuando existan pruebas que requieran mayor tiempo para su desahogo, la audiencia se suspenderá y se señalará nueva fecha para su continuación, considerando el tiempo necesario para el completo desahogo de las pruebas.
+En la resolución que dé inicio al procedimiento administrativo de responsabilidad, se señalará día y hora para la celebración de una audiencia, a la que se citará al presunto infractor, para el desahogo de las pruebas que conforme al artículo anterior hubieren sido admitidas, tomando en consideración el tiempo para su preparación. Cuando, a juicio del titular o Presidente del órgano jurisdiccional auxiliar instructor, existan pruebas que requieran mayor tiempo para su desahogo, la audiencia se suspenderá y se señalará nueva fecha para su continuación, considerando el tiempo necesario para el completo desahogo de las pruebas.
+
+El desarrollo de la audiencia estará a cargo del titular o del Presidente del órgano correspondiente quien estará asistido por el secretario, de lo cual se levantará acta circunstanciada.
 
 ###### Artículo 144.
 
@@ -1021,85 +1061,71 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y l
 
 La audiencia se celebrará con o sin asistencia del supuesto infractor y no podrá suspenderse salvo que exista causa justificada para ello.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 145.
 
-Cuando se soliciten, por el servidor público acusado, copias certificadas de algún documento que obre en el órgano jurisdiccional, con el objeto de exhibirlas dentro de un procedimiento de responsabilidad, su expedición será gratuita.
+Cuando se soliciten, por el servidor público a quien se impute la infracción, copias certificadas de algún documento que obre en un órgano jurisdiccional, con el objeto de exhibirlas dentro de un procedimiento de responsabilidad, su expedición será gratuita.
 
 La expedición de copias de cualquier documento o constancia que obre en el expediente disciplinario se regirá por lo dispuesto en el artículo 12 de este Acuerdo.
 
+Para lo no señalado expresamente en este capítulo se estará a las reglas generales de procedimiento contenidas en el capítulo II, de este Título.
+
 #### Sección IV. De las Resoluciones
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 146.
 
-Concluida la audiencia a que se refieren los artículos 143 y 144 de este Acuerdo, los titulares de los órganos jurisdiccionales contarán con un plazo de treinta días hábiles para dictar la resolución que ponga fin al procedimiento de responsabilidad administrativa, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para emitirla, de lo que se dará cuenta en la propia resolución.
+Artículo 146.- Concluida la audiencia a que se refieren los artículos 143 y 144 de este Acuerdo, los titulares de los órganos jurisdiccionales contarán con un plazo de cinco días hábiles para enviar a la Secretaría el expediente formado, con todos sus anexos, la que turnará el asunto al Consejero que corresponda para que éste elabore el proyecto de resolución respectivo, el que será sometido a la consideración de la Comisión o del Pleno, según sea el caso.
+
+La Comisión o el Pleno, en su caso, podrá ordenar que el titular o Presidente del órgano jurisdiccional auxiliar instructor reponga el procedimiento en aquellos casos en que considere que se pudieran afectar las defensas del servidor público acusado, o considere necesario recabar y desahogar, de oficio, mayores elementos probatorios.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 ###### Artículo 147.
 
-Las resoluciones serán firmadas por los titulares de los órganos jurisdiccionales y por el Secretario que se designe para tal efecto, quien autorizará y dará fe de éstas.
+Para la resolución de los procedimientos de responsabilidad a que se refiere este capítulo, se estará a las reglas de competencia que se señalan en los artículos 84 y 85 de este Acuerdo.
 
 ###### Artículo 148.
 
-Tratándose de Tribunales Colegiados de Circuito la resolución que ponga fin al procedimiento de responsabilidad administrativa deberá ser adoptada, al menos, por mayoría de votos del tribunal pleno respectivo.
-
-Si el proyecto del magistrado relator es aprobado sin adiciones ni reformas, se tendrá como resolución definitiva y se firmará dentro de los cinco días siguientes.
-
-Si no fuere aprobado el proyecto, se designará a uno de los de la mayoría para que redacte la resolución de acuerdo con los hechos probados y los fundamentos legales que se hayan tomado en consideración al dictarla, debiendo quedar firmada dentro del término de quince días.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ###### Artículo 149.
 
-En las resoluciones que pongan fin a los procedimientos de responsabilidad administrativa deberá analizarse la existencia de la conducta infractora y la responsabilidad en su comisión, tomando en cuenta las circunstancias que pudieran justificar esta última.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ###### Artículo 150.
 
-Al momento de pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, en el que se haya acreditado la falta imputada al servidor público, el titular del órgano jurisdiccional, tratándose de tribunales unitarios de circuito y juzgados de distrito, o bien, el pleno tratándose de tribunales colegiados de circuito, podrán dictar las medidas que consideren convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas, independientemente de la sanción que se decida imponer al servidor público en contra de quien se instauró el procedimiento disciplinario.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
 
 #### Sección V. Del Recurso de Revocación Administrativa
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
-
 ###### Artículo 150-A.
 
-En los procedimientos de responsabilidad a que se refiere este Capítulo no se admitirá más recurso que el de revocación administrativa.
-
-El recurso de revocación administrativa procede contra las resoluciones emitidas por magistrados de circuito o jueces de distrito en los procedimientos de responsabilidad administrativa a que se refiere este Capítulo.
-
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ###### Artículo 150-B.
 
-El Pleno es competente para resolver los recursos de revocación administrativa en los que se reclame la determinación de sanciones consistentes en destitución del puesto o inhabilitación, a que se refieren las fracciones V y VI del artículo 39 de este Acuerdo; en los demás casos, será la Comisión de Disciplina el órgano competente para emitir la resolución que corresponda.
-
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ###### Artículo 150-C.
 
-El plazo para interponer el recurso de revocación administrativa será de cinco días hábiles siguientes al en que surta efectos la notificación de la resolución que ponga fin al procedimiento de responsabilidad administrativa.
-
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ###### Artículo 150-D.
 
-El recurso de revocación administrativa se interpondrá por escrito, en el cual el recurrente expresará los agravios que le cause la resolución recurrida.
-
-El escrito de interposición del recurso deberá dirigirse a la Comisión de Disciplina y ser presentado directamente en la oficina de correspondencia del órgano jurisdiccional que dictó la resolución, el que deberá remitirlo a la Secretaría Ejecutiva de Disciplina, dentro del término de cuarenta y ocho horas.
-
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ###### Artículo 150-E.
 
-La Secretaría Ejecutiva de Disciplina dará trámite al recurso de revocación administrativa, y someterá a la consideración del Presidente de la Comisión de Disciplina el proveído en el que se califique la procedencia del recurso, admitiéndolo o desechándolo.
-
-Admitido el recurso se requerirá al titular del órgano jurisdiccional que haya emitido la resolución impugnada, para que remita el expediente disciplinario respectivo y para que formule un informe sobre los hechos que se le atribuyan, dentro del plazo de cinco días hábiles siguientes al en que surta efectos el emplazamiento, salvo lo previsto en el artículo 102 de este Acuerdo.
-
-Una vez recibido el informe, se deberá enviar el asunto al Consejero que por turno corresponda, para que formule por escrito el proyecto de resolución respectivo, el que será sometido a la aprobación del Pleno o de la Comisión de Disciplina, según corresponda, de conformidad con el artículo 150-B, para que se resuelva lo que fuere procedente dentro del término de treinta días hábiles siguientes a la fecha de turno, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para emitirlo.
-
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ###### Artículo 150-F.
 
-La resolución que decida sobre el recurso de revocación administrativa será definitiva e inatacable.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)
 
 ## TITULO CUARTO. Del Registro Patrimonial de los Servidores Públicos
 
@@ -1377,17 +1403,21 @@ La Contraloría deberá celebrar convenios de colaboración con la Secretaría d
 
 ### Capítulo V. Del Recurso de Inconformidad
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 179.
 
-En contra de la resolución que emita la Contraloría, procederá recurso de inconformidad ante el Pleno.
+En contra de la resolución que emita la Contraloría, procederá recurso de inconformidad, del que conocerán la Comisión o el Pleno conforme a lo dispuesto en los artículos 84 y 85 de este Acuerdo.
 
 ###### Artículo 180.
 
 El plazo para interponer el recurso de inconformidad será de diez días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución impugnada.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 145, 146, 147, 179 Y 181; Y SE DEROGAN LA SECCION II, LOS ARTICULOS 148, 149, 150 Y LA SECCION V, DEL CAPITULO III, DEL TITULO III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE MAYO DE 2008)</small>
+
 ###### Artículo 181.
 
-El recurso de inconformidad deberá interponerse por el interesado, mediante escrito dirigido al Pleno, en el que se hagan valer los agravios que cause la resolución y, en su caso, se acompañarán las pruebas documentales que se tengan.
+El recurso de inconformidad deberá interponerse por el interesado mediante escrito dirigido a la Comisión, por conducto de la Secretaría, en el que se hagan valer los agravios que cause la resolución y, en su caso, se acompañen las pruebas documentales que se tengan.
 
 ## TITULO QUINTO. De las Reformas al Acuerdo
 
@@ -1460,3 +1490,17 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
+
+D.O.F. 6 DE MAYO DE 2008.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación; y, para su difusión, en el Semanario Judicial de la Federación y su Gaceta, y en la página web del Consejo de la Judicatura Federal.
+
+TERCERO.- Los recursos de revocación administrativa interpuestos antes de la entrada en vigor de este acuerdo, seguirán el trámite y serán resueltos conforme a lo previsto en las disposiciones de la Sección V que se deroga.
+
+En los procedimientos de responsabilidad administrativa resueltos antes de la entrada en vigor de este acuerdo, el afectado podrá interponer el recurso de revocación administrativa de conformidad con lo que señala la Sección V que se deroga, siempre que se esté dentro del plazo que para su interposición ahí se señala.
+
+CUARTO.- Los procedimientos de responsabilidad que, a la entrada en vigor de este acuerdo, se estén tramitando en los términos de las disposiciones que se derogan, continuarán substanciándose hasta que queden en estado de resolución, hecho lo cual deberán remitirse a la Comisión en los términos del artículo 146 reformado.
+
+QUINTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
