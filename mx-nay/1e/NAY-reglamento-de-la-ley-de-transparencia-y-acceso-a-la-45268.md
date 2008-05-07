@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-ley-de-transparencia-y-acceso-a-la-45268"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-18"
-last_updated: "2005-06-18"
+last_updated: "2008-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 18 de junio de 2005.
 
@@ -874,3 +876,23 @@ DÉCIMO.- Por única vez, dentro de los treinta días hábiles siguientes al ini
 DADO en la sede de la Comisión Estatal para la Transparencia y Acceso a la Información Pública del Estado de Nayarit, en Tepic, Nayarit, el quince de junio de dos mil cinco.
 
 Comisionado Presidente, Dr. José Miguel Madero Estrada.- Lic. Enrique Hernández Quintero, Comisionado.- Lic. Juan Carlos Espinosa Ponce, Comisionado.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE MAYO DE 2008.
+
+PRIMERO
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO
+
+Se abroga el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, de fecha quince de junio de dos mil cinco.
+
+TERCERO
+
+Los entes públicos deberán uniformar los criterios y formatos, documentales o electrónicos, para presentar y proporcionar la información a que se refiere el artículo 10 de la Ley, rigiéndose por las directrices señaladas en este reglamento, informando periódicamente al Instituto sobre esos procedimientos.
+
+CUARTO
+
+Los entes públicos tienen un plazo de sesenta días contados a partir de la entrada en vigor de este ordenamiento para emitir sus reglamentos de transparencia y acceso a la información pública. Mismo plazo operará para realizar adaptar las instalaciones que permitan el funcionamiento de las Unidades de Enlace y el debido funcionamiento de los Comités de Información.
