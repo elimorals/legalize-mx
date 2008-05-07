@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2007-11-13"
+last_updated: "2008-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 2008.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1564,7 +1564,9 @@ XXVI.- Para conceder licencia al Presidente de la República y para constituirse
 
 XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
 
-XXVIII.- (DEROGADA, D.O.F. 6 DE DICIEMBRE DE 1977)
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2008)</small>
+
+XXVIII.- Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para la Federación, los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, a fin de garantizar su armonización a nivel nacional.
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -1668,9 +1670,9 @@ II.- Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión,
 
 III.- (DEROGADA, D.O.F. 30 DE JULIO DE 1999)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-IV.- Aprobar anualmente el Presupuesto de Egresos de la Federación, previo examen, discusión y, en su caso, modificación del Proyecto enviado por el Ejecutivo Federal, una vez aprobadas las contribuciones que, a su juicio, deben decretarse para cubrirlo, así como revisar la Cuenta Pública del año anterior.
+IV.- Aprobar anualmente el Presupuesto de Egresos de la Federación, previo examen, discusión y, en su caso, modificación del Proyecto enviado por el Ejecutivo Federal, una vez aprobadas las contribuciones que, a su juicio, deben decretarse para cubrirlo. Asimismo, podrá autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2004)</small>
 
@@ -1684,21 +1686,15 @@ Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo 
 
 No podrá haber otras partidas secretas, fuera de las que se consideren necesarias, con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-La revisión de la Cuenta Pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y el cumplimiento de los objetivos contenidos en los programas.
+> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE JULIO DE 1999)</small>
+> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-Para la revisión de la Cuenta Pública, la Cámara de Diputados se apoyará en la entidad de fiscalización superior de la Federación. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 1987)</small>
-
-La Cuenta Pública del año anterior deberá ser presentada a la Cámara de Diputados del H. Congreso de la Unión dentro de los diez primeros días del mes de junio.
-
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
-
-Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, así como de la Cuenta Pública, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
+Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -1706,7 +1702,17 @@ V.- Declarar si ha o no lugar a proceder penalmente contra los servidores públi
 
 Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 110 de esta Constitución y fungir como órgano de acusación en los juicios políticos que contra éstos se instauren.
 
-VI.- (DEROGADA, D.O.F. 10 DE AGOSTO DE 1987)
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2008)</small>
+
+VI.- Revisar la Cuenta Pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
+
+La revisión de la Cuenta Pública la realizará la Cámara de Diputados a través de la entidad de fiscalización superior de la Federación. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+
+La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada a la Cámara de Diputados a más tardar el 30 de abril del año siguiente. Sólo se podrá ampliar el plazo de presentación en los términos de la fracción IV, último párrafo, de este artículo; la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la entidad de fiscalización superior de la Federación contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión de la Cuenta Pública.
+
+La Cámara concluirá la revisión de la Cuenta Pública a más tardar el 30 de septiembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado de la entidad de fiscalización superior de la Federación, a que se refiere el artículo 79 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la entidad de fiscalización superior de la Federación, seguirá su curso en términos de lo dispuesto en dicho artículo.
+
+La Cámara de Diputados evaluará el desempeño de la entidad de fiscalización superior de la Federación y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
 VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
@@ -1824,27 +1830,55 @@ DE LA FISCALIZACION SUPERIOR DE LA FEDERACION.
 
 La entidad de fiscalización superior de la Federación, de la Cámara de Diputados, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
 Esta entidad de fiscalización superior de la Federación tendrá a su cargo:
 
-I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la ley.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2008)</small>
 
-También fiscalizará los recursos federales que ejerzan las entidades federativas, los municipios y los particulares.
+I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
-Sin perjuicio de los informes a que se refiere el primer párrafo de esta fracción, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
+También fiscalizará directamente los recursos federales que administren o ejerzan los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, con excepción de las participaciones federales; asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Cámara de Diputados a más tardar el 31 de marzo del año siguiente al de su presentación. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+Las entidades fiscalizadas a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos de la Federación que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley.
 
-La entidad de fiscalización superior de la Federación deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+Sin perjuicio del principio de anualidad, la entidad de fiscalización superior de la Federación podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas federales. Las observaciones y recomendaciones que, respectivamente, la entidad de fiscalización superior de la Federación emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La entidad de fiscalización superior de la Federación rendirá un informe específico a la Cámara de Diputados y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2008)</small>
+
+II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Cámara de Diputados a más tardar el 20 de febrero del año siguiente al de su presentación, el cual se someterá a la consideración del pleno de dicha Cámara y tendrá carácter público. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos federales por parte de las entidades fiscalizadas a que se refiere la fracción anterior y a la verificación del desempeño en el cumplimiento de los objetivos de los programas federales, así como también un apartado específico con las observaciones de la entidad de fiscalización superior de la Federación que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+Para tal efecto, de manera previa a la presentación del informe del resultado se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la entidad de fiscalización superior de la Federación para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
+
+El titular de la entidad de fiscalización superior de la Federación enviará a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que sea entregado a la Cámara de Diputados el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+La entidad de fiscalización superior de la Federación deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+En el caso de las recomendaciones al desempeño las entidades fiscalizadas deberán precisar ante la entidad de fiscalización superior de la Federación las mejoras realizadas o, en su caso, justificar su improcedencia.
+
+La entidad de fiscalización superior de la Federación deberá entregar a la Cámara de Diputados, los días 1 de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+
+La entidad de fiscalización superior de la Federación deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el informe del resultado a la Cámara de Diputados a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
 
 IV. Determinar los daños y perjuicios que afecten a la Hacienda Pública Federal o al patrimonio de los entes públicos federales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Cuarto de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+Las sanciones y demás resoluciones de la entidad de fiscalización superior de la Federación podrán ser impugnadas por las entidades fiscalizadas y, en su caso, por los servidores públicos afectados adscritos a las mismas, ante la propia entidad de fiscalización o ante los tribunales a que se refiere el artículo 73, fracción XXIX-H de esta Constitución conforme a lo previsto en la Ley.
+
 La Cámara de Diputados designará al titular de la entidad de fiscalización por el voto de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Cuarto de esta Constitución.
 
 Para ser titular de la entidad de fiscalización superior de la Federación se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, V y VI del artículo 95 de esta Constitución, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-Los Poderes de la Unión y los sujetos de fiscalización facilitarán los auxilios que requiera la entidad de fiscalización superior de la Federación para el ejercicio de sus funciones.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+Los Poderes de la Unión, las entidades federativas y las demás entidades fiscalizadas facilitarán los auxilios que requiera la entidad de fiscalización superior de la Federación para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos federales y locales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales, deberán proporcionar la información y documentación que solicite la entidad de fiscalización superior de la Federación, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
 
 El Poder Ejecutivo Federal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
 
@@ -2932,6 +2966,14 @@ Los diputados a las legislaturas de los Estados no podrán ser reelectos para el
 
 Las legislaturas de los Estados se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+Las legislaturas de los estados contarán con entidades estatales de fiscalización, las cuales serán órganos con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan sus leyes. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+El titular de la entidad de fiscalización de las entidades federativas será electo por las dos terceras partes de los miembros presentes en las legislaturas locales, por periodos no menores a siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
+
 III.- El Poder Judicial de los Estados se ejercerá por los tribunales que establezcan las Constituciones respectivas.
 
 La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por las Constituciones y las Leyes Orgánicas de los Estados, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan a los Poderes Judiciales de los Estados.
@@ -3126,13 +3168,21 @@ La Asamblea Legislativa formulará anualmente su proyecto de presupuesto y lo en
 
 Serán aplicables a la hacienda pública del Distrito Federal, en lo que no sea incompatible con su naturaleza y su régimen orgánico de gobierno, las disposiciones contenidas en el segundo párrafo del inciso c) de la fracción IV del artículo 115 de esta Constitución;
 
-c).- Revisar la cuenta pública del año anterior, por conducto de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, conforme a los criterios establecidos en la fracción IV del artículo 74, en lo que sean aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
-La cuenta pública del año anterior deberá ser enviada a la Asamblea Legislativa dentro de los diez primeros días del mes de junio. Este plazo, así como los establecidos para la presentación de las iniciativas de la ley de ingresos y del proyecto del presupuesto de egresos, solamente podrán ser ampliados cuando se formule una solicitud del Ejecutivo del Distrito Federal suficientemente justificada a juicio de la Asamblea;
+c).- Revisar la cuenta pública del año anterior, por conducto de la entidad de fiscalización del Distrito Federal de la Asamblea Legislativa, conforme a los criterios establecidos en la fracción VI del artículo 74, en lo que sean aplicables.
+
+La cuenta pública del año anterior deberá ser enviada a la Asamblea Legislativa dentro de los diez primeros días del mes de junio. Este plazo, así como los establecidos para la presentación de las iniciativas de la ley de ingresos y del proyecto del presupuesto de egresos, solamente podrán ser ampliados cuando se formule una solicitud del Ejecutivo del Distrito Federal suficientemente justificada a juicio de la Asamblea.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+El titular de la entidad de fiscalización del Distrito Federal será electo por las dos terceras partes de los miembros presentes de la Asamblea Legislativa por periodos no menores a siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
 
 d).- Nombrar a quien deba sustituir en caso de falta absoluta, al Jefe de Gobierno del Distrito Federal;
 
-e).- Expedir las disposiciones legales para organizar la hacienda pública, la contaduría mayor y el presupuesto, la contabilidad y el gasto público del Distrito Federal;
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+e).- Expedir las disposiciones legales para organizar la hacienda pública, el presupuesto, la contabilidad y el gasto público del Distrito Federal, y la entidad de fiscalización dotándola de autonomía técnica y de gestión en el ejercicio de sus atribuciones, y para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad;
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
@@ -3628,17 +3678,29 @@ Los fuertes, los cuarteles, almacenes de depósito y demás bienes inmuebles des
 
 Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los Tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada Estado se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de los Estados.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
 ###### Art. 134.
 
-Los recursos económicos de que dispongan el Gobierno Federal y el Gobierno del Distrito Federal, así como sus respectivas administraciones públicas paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+Los recursos económicos de que dispongan la Federación, los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezcan, respectivamente, la Federación, los estados y el Distrito Federal, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en los artículos 74, fracción VI y 79.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
-El manejo de recursos económicos federales se sujetará a las bases de este artículo.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
+
+El manejo de recursos económicos federales por parte de los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, se sujetará a las bases de este artículo y a las leyes reglamentarias. La evaluación sobre el ejercicio de dichos recursos se realizará por las instancias técnicas de las entidades federativas a que se refiere el párrafo segundo de este artículo.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
 
@@ -5347,6 +5409,24 @@ Artículo Sexto. Las legislaturas de los Estados y la Asamblea Legislativa del D
 Los Estados que a la entrada en vigor del presente Decreto hayan iniciado procesos electorales o estén por iniciarlos, realizarán sus comicios conforme lo establezcan sus disposiciones constitucionales y legales vigentes, pero una vez terminado el proceso electoral deberán realizar las adecuaciones a que se refiere el párrafo anterior en el mismo plazo señalado, contado a partir del día siguiente de la conclusión del proceso comicial respectivo.
 
 Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 7 DE MAYO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el transitorio tercero siguiente.
+
+SEGUNDO. El Congreso de la Unión, así como las legislaturas de los Estados y del Distrito Federal, deberán aprobar las leyes y, en su caso, las reformas que sean necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar en un plazo de un año, contado a partir de la fecha de entrada en vigor del mismo, salvo en el caso de lo dispuesto en el artículo 74, fracción IV constitucional.
+
+TERCERO. Las fechas aplicables para la presentación de la Cuenta Pública y el informe del resultado sobre su revisión, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2008.
+
+CUARTO. Las Cuentas Públicas anteriores a la correspondiente al ejercicio fiscal 2008 se sujetarán a lo siguiente:
+
+I. La Cámara de Diputados, dentro de los 180 días naturales posteriores a la entrada en vigor de este Decreto, deberá concluir la revisión de las Cuentas Públicas correspondientes a los ejercicios fiscales 2002, 2003, 2004 y 2005.
+
+II. Las Cuentas Públicas correspondientes a los ejercicios fiscales 2006 y 2007 serán revisadas en los términos de las disposiciones aplicables en la materia antes de la entrada en vigor de este Decreto.
+
+III. La Cámara de Diputados deberá concluir la revisión de la Cuenta Pública del ejercicio fiscal de 2006 durante el año 2008.
+
+IV. La Cuenta Pública correspondiente al ejercicio fiscal 2007 será presentada a más tardar el 15 de mayo de 2008, el informe del resultado el 15 de marzo de 2009 y su revisión deberá concluir en 2009.
 
 ###### ARTICULO PRIMERO.
 
