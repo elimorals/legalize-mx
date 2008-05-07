@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2007-09-26"
+last_updated: "2008-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -997,6 +997,10 @@ Todo proyecto de Ley o Decreto que fuese desechado por el Congreso, no podrá vo
 
 La iniciativa deberá dictaminarse en el periodo ordinario de sesiones en que se turne a la comisión o en el inmediato siguiente, en términos de este Reglamento.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2008)</small>
+
+Toda iniciativa, decreto o acuerdo parlamentario que no sea dictaminado durante la Legislatura en la cual fue presentado, al término de la misma será remitida por el Presidente de la Comisión respectiva al archivo legislativo.
+
 ### CAPÍTULO SEXTO. DE LAS PROPUESTAS Y ACUERDOS PARLAMENTARIOS
 
 ###### ARTÍCULO 103.
@@ -1009,7 +1013,9 @@ Para la formulación del proyecto de dictamen, se estará a lo siguiente:
 
 I. Recibida la iniciativa, el secretario técnico de la comisión deberá garantizar que cada diputado integrante de la misma reciba copia dentro de un plazo que no excederá de 48 horas contadas a partir de la recepción del turno ordenado por el Presidente de la Mesa Directiva del Congreso;
 
-II. Toda iniciativa, será analizada primero en lo general para determinar su procedencia o improcedencia. En caso de considerarse procedente, se elaborarán las consideraciones del dictamen en lo general y se procederá de igual forma para la elaboración del texto del dictamen en sentido negativo;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2008)</small>
+
+II. Toda iniciativa, será analizada primero en lo general para determinar su procedencia o improcedencia. En caso de considerarse procedente, se elaborarán las consideraciones del dictamen en lo general y se procederá conforme a lo previsto en el presente Capítulo; para el caso de que la determinación sea de improcedencia, se deberá de igual forma elaborar el respectivo dictamen en sentido negativo, el cual, sin mas trámite se deberá informar al Pleno a través de la Mesa directiva únicamente para efectos de su conocimiento;
 
 III. Cuando la comisión apruebe una iniciativa en lo general, se procederá a su discusión en lo particular, para lo cual el Presidente de la Comisión solicitará a los miembros de la misma señalar los artículos que se reservan para su análisis en lo particular. Los artículos no reservados se considerarán aprobados sin mayor trámite; y
 
@@ -1717,11 +1723,13 @@ Quienes hayan ocupado el cargo de diputado, podrán conservar dentro del Recinto
 
 ###### ARTÍCULO 178.
 
-El congreso apoyará a las agrupaciones de parlamentarios constituidas en asociaciones civiles, mediante el pago anual del 50% de un seguro de vida colectivo, hasta por el monto que sea aprobado por la Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+(DEROGADO, P.O. 7 DE MAYO DE 2007)
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 179.
 
-El Congreso a través del Secretario del Congreso, llevará un libro de registro con fotografía de quienes hayan ocupado el cargo de Diputado, en el que se anotarán los nombres de quienes estén designados como sus beneficiarios, para el otorgamiento de la prestación que les confiere la Ley.
+El Congreso a través de la Secretaría del Congreso, llevará un libro de registro con fotografía de quienes hayan ocupado el cargo de Diputado. En el mismo se anotarán los nombres de quienes estén designados como sus beneficiarios, para el otorgamiento de la prestación que les confiere la Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL PÚBLICO ASISTENTE A LAS SESIONES
 
@@ -1850,3 +1858,9 @@ P.O. 26 DE SEPTIEMBRE DE 2007.
 Artículo primero.- El presente Decreto entrará en vigor el mismo día de su aprobación.
 
 Artículo segundo.- Para efectos de su divulgación, publíquese en la Gaceta Legislativa y en el Periódico Oficial "Tierra Y Libertad".
+
+P.O. 7 DE MAYO DE 2008.
+
+Primero.- Una vez aprobado el presente Dictamen, entrará en vigor el mismo día de su aprobación.
+
+Segundo.- Para efectos de su difusión, publíquese en la gaceta legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
