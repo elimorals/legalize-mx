@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2008-del-pleno-del-consejo-de-la-59660"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-02-28"
-last_updated: "2008-02-28"
+last_updated: "2008-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59660&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-02-06"
 
 ACUERDO GENERAL 8/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL TRIBUNAL COLEGIADO DEL VIGESIMO OCTAVO CIRCUITO, CON RESIDENCIA EN TLAXCALA, TLAXCALA; ASI COMO DE LA MODIFICACION TEMPORAL DE LA JURISDICCION TERRITORIAL DE LOS TRIBUNALES COLEGIADOS DEL SEXTO CIRCUITO, CON RESIDENCIA EN SAN ANDRES CHOLULA, PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 28 de febrero de 2008.
 
@@ -53,7 +53,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO.- Se excluye del turno de nuevos asuntos al Tribunal Colegiado del Vigésimo Octavo Circuito, con residencia en Tlaxcala, Tlaxcala, por el periodo que comprenderá del uno de marzo al cinco de mayo de dos mil ocho.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO CCNO/1/2008, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MAYO DE 2008)</small>
+
+PRIMERO.- Se excluye del turno de nuevos asuntos al Tribunal Colegiado del Vigésimo Octavo Circuito, con residencia en Tlaxcala, Tlaxcala, por el periodo que comprenderá del seis de mayo al cuatro de junio de dos mil ocho.
 
 Los nuevos asuntos que dentro de ese lapso se presenten en la Oficialía de Partes del Tribunal Colegiado del Vigésimo Octavo Circuito, con residencia en la ciudad de Tlaxcala, Tlaxcala, se turnarán a los tribunales colegiados del Sexto Circuito, con residencia en San Andrés Cholula, Puebla; lo anterior con excepción de los asuntos a que se refiere la fracción XI del artículo 95 de la Ley de Amparo que se originen en los juzgados de Distrito en el Estado de Tlaxcala.
 
@@ -82,3 +84,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 8/2008, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión del Turno de Nuevos Asuntos al Tribunal Colegiado del Vigésimo Octavo Circuito, con Residencia en Tlaxcala, Tlaxcala; así como de la Modificación Temporal de la Jurisdicción Territorial de los Tribunales Colegiados del Sexto Circuito, con Residencia en San Andrés Cholula, Puebla, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de seis de febrero de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, Indalfer Infante Gonzales y Jorge Moreno Collado.- México, Distrito Federal, a veintidós de febrero de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 8 DE MAYO DE 2008.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
