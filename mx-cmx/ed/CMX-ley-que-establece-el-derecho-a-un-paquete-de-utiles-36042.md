@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-un-paquete-de-utiles-36042"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-27"
-last_updated: "2006-06-14"
+last_updated: "2008-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36042&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-16"
 
 LEY QUE ESTABLECE EL DERECHO A UN PAQUETE DE UTILES ESCOLARES POR CICLO ESCOLAR A TODOS LOS ALUMNOS RESIDENTES EN EL DISTRITO FEDERAL, INSCRITOS EN ESCUELAS PUBLICAS DEL DISTRITO FEDERAL, EN LOS NIVELES DE PREESCOLAR, PRIMARIA Y SECUNDARIA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de enero de 2004.
 
@@ -44,13 +44,13 @@ DECRETA:
 
 DECRETO DE LEY QUE ESTABLECE EL DERECHO A UN PAQUETE DE ÚTILES ESCOLARES POR CICLO ESCOLAR A TODOS LOS ALUMNOS RESIDENTES EN EL DISTRITO FEDERAL, INSCRITOS EN ESCUELAS PÚBLICAS DEL DISTRITO FEDERAL EN LOS NIVELES DE PREESCOLAR, PRIMARIA Y SECUNDARIA.
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2008)</small>
 
 ###### Artículo 1°.
 
-Los alumnos radicados en el Distrito Federal, inscritos en las escuelas públicas de la Entidad en los niveles de preescolar, primaria y secundaria escolarizadas tienen derecho a recibir gratuitamente un paquete básico de útiles escolares determinado a partir de la lista oficial de útiles aprobada por la SEP en correspondencia a cada ciclo escolar que inicien.
+Los alumnos radicados en el Distrito Federal, inscritos en las escuelas públicas de la Entidad en los niveles de preescolar, primaria, secundaria escolarizadas, educación especial e indígena tienen derecho a recibir gratuitamente un paquete básico de útiles escolares determinado a partir de la lista oficial de útiles aprobada por la SEP en correspondencia a cada ciclo escolar que inicien.
 
-Para los efectos de esta Ley, se considerara a los alumnos inscritos en el nivel preescolar, los Centros de Desarrollo Infantil (CENDIS) y Estancias Infantiles dependientes del Gobierno del Distrito Federal.
+Para los efectos de esta Ley, se considerara a los alumnos inscritos en el nivel preescolar, los Centros de Desarrollo Infantil (CENDIS) y Estancias Infantiles dependientes del Gobierno del Distrito Federal. Así como los alumnos de educación especial inscritos en los Centros de Atención Múltiple (CAM's), las Unidades de Servicios de Apoyo a la Escuela Regular (USAER) y los Centros de Recursos, Información e Innovación para la integración Educativa (CRIIIE).
 
 ###### Artículo 2°.
 
@@ -83,3 +83,13 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 14 DE JUNIO DE 2006.
 
 ÚNICO.- La adición a la presente Ley, entrara en vigor para el año 2007, una vez que se cuente con la suficiencia presupuestal para los efectos de esta Ley.
+
+G.O. 8 DE MAYO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La adición a la presente ley, entrara en vigor, una vez que se cuente con la suficiencia presupuestal para su aplicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
