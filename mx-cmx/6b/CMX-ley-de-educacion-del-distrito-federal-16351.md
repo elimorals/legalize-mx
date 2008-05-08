@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2008-01-04"
+last_updated: "2008-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -120,11 +120,11 @@ f) Fomentará la incorporación a la educación y formación de las personas que
 
 g) Garantizará, en el ámbito de su competencia, que la educación en todos sus niveles se realice en el marco de igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE MAYO DE 2008)</small>
 
 ###### Artículo 10.
 
-La educación que imparta el Gobierno del Distrito Federal se basará en los principios del Artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
+La educación que imparta el Gobierno del Distrito Federal se basará en los principios del artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -160,9 +160,9 @@ XIV. Desarrollar, a través de la educación artística, las capacidades, habili
 
 XV. Desarrollar, a través de la educación física, las capacidades, habilidades, valores, actitudes y hábitos de higiene y alimenticios, proporcionando a los educandos desayunos balanceados y nutritivos que eviten la obesidad y desnutrición; asimismo que propicien la formación de una cultura física permanente como forma de vida integral y saludable.
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2008)</small>
 
-XVI. Educar para la preservación de la salud, el conocimiento integral de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana y; (sic)
+XVI. Educar para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar y la paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana.
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -294,7 +294,13 @@ XXXVI. Establecer, con la organización sindical correspondiente, disposiciones 
 
 XXXVII. Celebrar convenios con los comités ejecutivos seccionales del SNTE en el Distrito Federal para definir prestaciones salariales y prerrogativas de orden profesional, laboral, social y asistencial, de acuerdo con las leyes vigentes.
 
-XXXVIII. Las demás que establezcan otras disposiciones legales en materia educativa.
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2008)</small>
+
+XXXVIII. Elaborar el Programa Escolar de Educación en la Sexualidad del Distrito Federal, mismo que contemplará los aspectos de la planificación familiar, la paternidad y la maternidad responsables y las enfermedades de transmisión sexual.
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2008)</small>
+
+XXXIX. Las demás que establezcan otras disposiciones legales en materia educativa.
 
 ### CAPÍTULO III. DE LOS INTEGRANTES DEL SISTEMA EDUCATIVO
 
@@ -416,9 +422,11 @@ Es obligación de la Secretaría de Educación del Distrito Federal vigilar que 
 
 Se consideran de interés social las inversiones que en materia educativa realicen el Gobierno del Distrito Federal, sus organismos descentralizados y desconcentrados, y los particulares.
 
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2008)</small>
+
 ###### Artículo 33.
 
-En el gasto educativo del Gobierno del Distrito Federal se deberá tomar en cuenta, prioritariamente, a los factores que determinan la calidad y mejoría de los servicios educativos, tales como el salario profesional de los profesores, la formación, actualización y capacitación de los docentes, la innovación e investigación educativas, la orientación vocacional, la dotación de materiales curriculares de calidad, el otorgamiento de libros de texto para secundaria, los desayunos escolares, las becas, y la inspección y la evaluación del sistema educativo de la Ciudad de México.
+En el gasto educativo del Gobierno del Distrito Federal se deberá tomar en cuenta, prioritariamente, a los factores que determinan la calidad y mejoría de los servicios educativos, tales como el salario profesional de los profesores, la formación, actualización y capacitación de los docentes, la innovación e investigación educativas, la orientación vocacional, la dotación de materiales curriculares de calidad, el otorgamiento de libros de texto para secundaria, los desayunos escolares, las becas, anteojos, en caso de que su estado de salud lo requiera; la inspección y la evaluación del sistema educativo de la Ciudad de México.
 
 ###### Artículo 34.
 
@@ -492,9 +500,17 @@ Es responsabilidad de la Secretaría de Educación del Distrito Federal, en conc
 
 La educación primaria comprende seis grados; contribuirá al desarrollo armónico e integral del niño. Su carácter es esencialmente formativo. Tiene como propósito proporcionar a los educandos conocimientos fundamentales; se propone introducirlos en el estudio de las ciencias a través de su participación directa en el proceso de enseñanza-aprendizaje, que expresen sus ideas con claridad y sencillez, así como desarrollar habilidades para localizar, procesar y analizar información, resolver problemas y tomar decisiones en forma individual y colectiva; busca promover sus capacidades artísticas y cívicas y formar en ellos una conciencia histórica y una actitud cívica orientada por valores democráticos.
 
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2008)</small>
+
+La educación primaria debe introducir a los educandos al conocimiento integral de su cuerpo y la sexualidad, así como a la reproducción humana, la planificación familiar, a la paternidad y maternidad responsables.
+
 ###### Artículo 45.
 
 La educación secundaria tiene como antecedente obligatorio la primaria y comprende tres grados educativos; será de carácter formativo, contribuirá al desarrollo armónico e integral del educando, estimulará la capacidad de observación, análisis y reflexión crítica, para adquirir conocimientos y desarrollar habilidades y actitudes positivas.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2008)</small>
+
+La educación secundaria debe profundizar en los educandos el conocimiento sobre la sexualidad, así como lo relativo a la reproducción humana, la planificación familiar, a la paternidad y maternidad responsables; así como a la prevención de enfermedades de transmisión sexual.
 
 ###### Artículo 46.
 
@@ -521,6 +537,10 @@ Para ejercer las funciones de dirección de los centros escolares, jefaturas de 
 ###### Artículo 51.
 
 La educación media superior propiciará en el educando la adquisición de conocimientos e instrumentos metodológicos necesarios para su formación y acceso al conocimiento científico y humanístico, desarrollará actitudes y habilidades para el autoaprendizaje, fomentará un sistema de valores, a partir de principios universales y nacionales racionalmente compartidos y estimulará la participación crítica en los problemas sociales. Además, capacitará al educando para acceder en forma creativa al mundo del trabajo, a la transformación productiva y a los estudios de nivel superior.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2008)</small>
+
+La educación media superior reforzará los conocimientos de los educandos sobre la sexualidad, la reproducción humana, la planificación familiar, la paternidad y maternidad responsables; así como a la prevención de enfermedades de transmisión sexual.
 
 ###### Artículo 52.
 
@@ -1248,6 +1268,10 @@ Para cumplir con los planes, programas y contenidos, en la educación básica, l
 
 Sin detrimento del libro de texto gratuito, la Secretaria de Educación del Distrito Federal podrá producir los materiales de apoyo que considere pertinentes a fin de ayudar al cumplimiento de los objetivos del plan y los programas de estudio.
 
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2008)</small>
+
+Los materiales didácticos de apoyo para la educación en la sexualidad serán diseñados bajos (sic) los criterios establecidos en el Programa Escolar de Educación en la Sexualidad del Distrito Federal.
+
 ###### Artículo 161.
 
 En la elaboración de planes y programas de estudio que le correspondan, la Secretaría de Educación del Distrito Federal deberá considerar las opiniones relevantes del magisterio y de los diversos sectores de la sociedad, así como del Consejo de Educación del Distrito Federal.
@@ -1557,3 +1581,23 @@ El Jefe de Gobierno del Distrito Federal deberá instrumentar anualmente en la d
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan a la presente reforma.
+
+G.O. 8 DE MAYO DE 2008.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 33 DE LA LEY DE EDUCACION DEL DISTRITO FEDERAL.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación.
+
+SEGUNDO.- Esta reforma entrará en vigor el 01 de enero del 2008. Se solicita al Gobierno del Distrito Federal, a que en su proyecto de presupuesto para el ejercicio fiscal de 2008, que proponga a esta soberanía, incluya una partida para atender y hacer efectivo el derecho a recibir anteojos de los alumnos de los niveles de primaria y secundaria, residentes en el Distrito Federal, inscritos en escuelas publicas de la entidad.
+
+TERCERO.- La forma como se entregaran los anteojos, la elaboración y actualización permanente del padrón de beneficiarios, requisitos y procedimientos necesarios para el ejercicio del derecho establecido en la Ley de Educación para el Distrito Federal, se fijarán en el Reglamento correspondiente.
+
+G.O. 8 DE MAYO DE 2008.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE EDUCACION DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación.
+
+TERCERO.- La Secretaria de Educación del Distrito Federal, tendrá 180 días a partir de la entrada en vigor del presente decreto, para elaborar el Programa Escolar de Educación en la Sexualidad del Distrito Federal.
