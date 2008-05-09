@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2007-04-26"
+last_updated: "2008-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -65,7 +65,9 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 4o.
 
@@ -83,13 +85,11 @@ Dirección General de Administración.
 
 Dirección General de Emisión.
 
-Dirección General de Planeación Estratégica.
+Dirección General de Tecnologías de la Información.
+
+Dirección General de Planeación y Presupuesto.
 
 Dirección de Relaciones Externas.
-
-Dirección de Intermediarios Financieros de Fomento.
-
-Dirección de Sistemas.
 
 Dirección de Operaciones.
 
@@ -115,13 +115,13 @@ Dirección de Análisis del Sistema Financiero.
 
 Dirección de Información del Sistema Financiero.
 
+Dirección de Intermediarios Financieros de Fomento.
+
 Dirección de Disposiciones de Banca Central.
 
 Dirección Jurídica.
 
 Dirección de Recursos Humanos.
-
-Dirección de Contabilidad.
 
 Dirección de Recursos Materiales.
 
@@ -129,13 +129,19 @@ Dirección de Seguridad.
 
 Dirección de Programación y Distribución de Efectivos.
 
-Dirección de Estrategia.
+Dirección de Sistemas.
 
 Dirección de Coordinación de la Información.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+Dirección de Planeación Estratégica.
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Relaciones Externas, Intermediarios Financieros de Fomento y Sistemas, dependerán del Gobernador. El Banco contará con un Contralor, que dependerá de la Junta de Gobierno y con un Director de Auditoría, cuya unidad administrativa estará adscrita al Contralor.
+Dirección de Contabilidad y Presupuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
+
+El Banco contará con un Contralor que dependerá de la Junta de Gobierno. Las Direcciones Generales y el Contralor tendrán adscritas las Direcciones que señala el presente Reglamento. La Dirección de Relaciones Externas dependerá del Gobernador.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -165,9 +171,11 @@ En el caso de que el Gobernador acuerde la creación de un comité, podrá invit
 
 El Banco contará con un Comité de Información para los efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente reglamento y estará integrado por el Director de Relaciones Exteriores, el Director de Coordinación de la Información y el Director de Disposiciones de Banca Central. No habrá miembros suplentes y podrá sesionar con la asistencia de dos de sus integrantes, debiendo reunirse cuando menos dos veces al año.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-El Comité a que se refiere el párrafo anterior, será coordinado por el Director de Disposiciones de Banca Central, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con un asesor permanente que será el Director de Sistemas y la Secretaría se llevará en los términos previstos en sus reglas de operación.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
+
+El Comité a que se refiere el párrafo anterior, será coordinado por el Director de Disposiciones de Banca Central, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con un asesor permanente que será el Director de Sistemas y con una Secretaría que llevará la Dirección de Disposiciones de Banca Central.
 
 ###### ARTICULO 5o.
 
@@ -191,35 +199,39 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 8o.
 
 Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales y de las Direcciones, así como al Contralor, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien de los rangos equivalentes a éstos y se encuentren subordinados al Director General, al Director o al Contralor, según se trate. Los Gerentes de Caja Regionales de Sucursales podrán firmar individualmente. Para efectos de lo anterior se publicará, en el Diario Oficial de la Federación, el acuerdo de adscripción de las unidades administrativas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Directores y Contralor, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
 
-La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos que se encuentren vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Directores y Contralor, quedando comprendidas también facultades suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
+Las disposiciones, autorizaciones, opiniones, consultas, observaciones a comisiones y requerimientos de información en los que se presuma alguna infracción a las disposiciones, que conforme a la Ley correspondan al Banco, por su propio derecho o como fiduciario, deberán ser firmadas por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate.
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2004)</small>
+Lo dispuesto en el párrafo inmediato anterior, no aplicará respecto a los asuntos sobre distribución, canje, entrega, retiro, reproducción, medidas de seguridad y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección General de Emisión y uno de la Dirección Jurídica. En caso de que dichos asuntos se refieran a las monedas y medallas previstas en la fracción VIII del artículo 19 del presente Reglamento, la firma estará a cargo de un funcionario de la Dirección de Operaciones y otro de la Dirección Jurídica.
 
-Tratándose de disposiciones, autorizaciones, opiniones y sanciones, así como del seguimiento de las operaciones que realicen los intermediarios financieros respecto de las que existan elementos para suponer que fueron efectuadas en términos distintos a los establecidos en las disposiciones, que conforme a la Ley correspondan al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de Banca Central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección General de Emisión y uno de la Dirección Jurídica. En caso de que dichos asuntos se refieran a las monedas y medallas previstas en la fracción VIII del Artículo 19 del presente Reglamento, la firma estará a cargo de un funcionario de la Dirección de Operaciones y otro de la Dirección Jurídica.
+Las sanciones, en las materias a que se refieren los párrafos tercero y cuarto anteriores, serán firmadas por un funcionario de la Dirección General de Análisis del Sistema Financiero, junto con un funcionario de las Direcciones de Disposiciones de Banca Central o Jurídica, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+Los funcionarios que suscriban las disposiciones y las sanciones deberán ocupar puestos de Gerente, Cajero Principal, o bien, alguno de rango superior o equivalente a los mencionados.
 
-Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior, deberán ocupar puestos de Gerente, Cajero Principal o bien alguno de rango superior o equivalente a los mencionados.
+La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, fracción V, de este Reglamento, será ejercida por cualquier abogado adscrito a la Dirección Jurídica, actuando individualmente.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador o, en sus ausencias, por el Director General de Administración.
 
-La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, fracción V de este Reglamento, será ejercida por cualquier abogado adscrito a la Dirección Jurídica, actuando individualmente.
+Para los efectos del presente Reglamento, se entenderá por intermediario financiero: a las instituciones de crédito, la Financiera Rural, instituciones de seguros, instituciones de fianzas, casas de bolsa, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, entidades de ahorro y crédito popular, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple reguladas, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, así como otras personas y fideicomisos que realicen actividades financieras y respecto de las cuales el Banco ejerza facultades de regulación, de requerimientos de información o de sanción en términos de Ley.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+Corresponderá a los superiores jerárquicos de los servidores públicos que hayan emitido la multa respectiva, resolver el recurso de revisión a que se refiere la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador y, en sus ausencias, por el Director General de Administración.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 9o.
 
-Los funcionarios señalados en el artículo 8o. de este Reglamento, que sean designados delegados fiduciarios, tendrán las facultades de administración y pleitos y cobranzas necesarias, para procurar el debido cumplimiento de los fines señalados en el contrato de fideicomiso respectivo. Lo anterior en los términos indicados en los artículos 7o. segundo y tercer párrafos y 8o. del presente ordenamiento.
+Los funcionarios señalados en el artículo 8o. de este Reglamento, que sean designados delegados fiduciarios, tendrán las facultades de administración y pleitos y cobranzas necesarias, para procurar el debido cumplimiento de los fines señalados en el contrato de fideicomiso respectivo. Lo anterior en los términos indicados en los artículos 7o., segundo y tercer párrafos, y 8o. del presente ordenamiento. Al actuar el Banco como fiduciario, los funcionarios citados deberán contar con su nombramiento de Delegado Fiduciario correspondiente.
 
 Las facultades referidas en el párrafo que antecede, tratándose de actos de dominio sólo podrán ser realizadas por los delegados fiduciarios generales, o bien, con la autorización previa y por escrito de éstos.
 
@@ -269,27 +281,29 @@ La Dirección General de Investigación Económica tendrá las atribuciones señ
 
 A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, de Medición Económica, de Análisis Macroeconómico, de Asuntos Internacionales, de Precios, Salarios y Productividad, y de Sistematización de Información Económica y Servicios. Asimismo, estarán a su cargo las delegaciones regionales del Banco, que tendrán como atribuciones: recabar, procesar y divulgar información regional; auxiliar a la Dirección de Relaciones Externas en la organización de los Consejos Regionales a que se refieren los artículos 47, fracción VII, y 48 de la Ley, así como en las actividades de comunicación social del Banco, que defina su Junta de Gobierno. El personal que integre las delegaciones regionales no tendrá ninguna facultad de representación legal del Banco, por lo que no podrá practicarse ante dicho personal, ni en las oficinas que ocupen las mencionadas delegaciones, ninguna clase de notificaciones, interpelaciones, citaciones, requerimientos o emplazamientos, ni trabarse actos de ejecución, por parte de autoridades judiciales, administrativas o del trabajo; esta misma previsión se aplicará respecto de los fedatarios públicos.
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 14.
 
-La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en este artículo y en el 25 y 25 Bis, respecto de los intermediarios financieros distintos a las instituciones de banca de desarrollo, a la Financiera Rural, a las organizaciones nacionales auxiliares del crédito y a las instituciones nacionales de seguros y de fianzas.
+La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en este precepto y las previstas en los artículos 25, 25 Bis y 25 Bis 1.
 
-A esta Dirección General estarán adscritas las Direcciones de Análisis del Sistema Financiero y de Información del Sistema Financiero, así como la Gerencia de Autorizaciones y Seguimiento de la Regulación.
+A esta Dirección General, estarán adscritas las Direcciones de Análisis del Sistema Financiero, de Información del Sistema Financiero y de Intermediarios Financieros de Fomento, así como la Gerencia de Autorizaciones y Seguimiento de la Regulación.
 
-Dicha Gerencia, contará respecto a los intermediarios financieros a que se refiere el primer párrafo de este artículo, con las atribuciones siguientes:
+Dicha Gerencia, contará con las atribuciones siguientes:
 
-I. Participar en la atención de autorizaciones, consultas y opiniones que soliciten tales intermediarios;
+I. Participar en la atención de autorizaciones, consultas y opiniones que soliciten las sociedades de información crediticia y los intermediarios financieros distintos a las instituciones de banca de desarrollo, a la Financiera Rural, a las organizaciones auxiliares nacionales de crédito y a las instituciones nacionales de seguros y de fianzas, así como a los fideicomisos de fomento a que se refiere la fracción I del artículo 25 Bis 1 de este Reglamento;
 
-II. Dar seguimiento a la aplicación y cumplimiento de las disposiciones expedidas por el Banco, dirigidas a los aludidos intermediarios, conforme al programa que la Dirección General establezca al respecto;
+II. Dar seguimiento a la aplicación y cumplimiento de las disposiciones expedidas por el Banco, dirigidas a las sociedades de información crediticia y a los intermediarios financieros que sean de su competencia en términos de la fracción I, conforme al programa que la Dirección General establezca al respecto;
 
-III. Dar seguimiento a las operaciones que hayan realizado los referidos intermediarios respecto de las que existan elementos para suponer que fueron efectuadas en términos distintos a los establecidos en las disposiciones expedidas por el Banco;
+III. Dar seguimiento a las operaciones que hayan realizado las sociedades de información crediticia y los intermediarios financieros que sean de su competencia conforme a la fracción I, respecto de las que existan elementos para suponer que fueron efectuadas en términos distintos a los establecidos en las disposiciones expedidas por el Banco;
 
-IV. Participar en la imposición de sanciones y medidas correctivas a los mencionados intermediarios;
+IV. Participar en la imposición de sanciones o medidas correctivas, dirigidas a las sociedades de información crediticia, a los intermediarios financieros, a los administradores y participantes de los sistemas de pagos y a las cámaras de compensación;
 
-V. Solicitar a los citados intermediarios y a sus sociedades controladoras la información necesaria para el ejercicio de las atribuciones mencionadas en las fracciones I y III anteriores, y
+V. Solicitar a las sociedades de información crediticia, a los intermediarios financieros que sean de su competencia conforme a la fracción I, a los administradores y participantes de los sistemas de pagos y a las cámaras de compensación, la información necesaria para el ejercicio de las atribuciones mencionadas en las fracciones I a IV anteriores, y
 
-VI. Otorgar excepciones a los citados intermediarios respecto de las disposiciones emitidas por el Banco, cuando se ubiquen en alguno de los supuestos previstos en la fracción XIII del artículo 17.
+VI. Participar en el otorgamiento de excepciones a las sociedades de información crediticia y a los intermediarios financieros que sean de su competencia conforme a la fracción I, respecto de las disposiciones emitidas por el Banco, en las que hubiere participado la Dirección General de Análisis del Sistema Financiero.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -299,7 +313,9 @@ A esta Dirección General estarán adscritas las Direcciones de Disposiciones de
 
 ARTICULO 14 BIS 1.- (DEROGADO, D.O.F. 15 DE NOVIEMBRE DE 2005)
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 14 Bis 1.
 
@@ -311,17 +327,47 @@ A esta Dirección General estará adscrita la Dirección de Intermediarios Finan
 
 ###### ARTICULO 15.
 
-La Dirección General de Administración tendrá las atribuciones señaladas en los artículos 26, 27, 27 Bis y 28 Bis de este Reglamento.
+La Dirección General de Administración tendrá las atribuciones señaladas en los artículos 26, 27 Bis y 28 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, Recursos Materiales y Seguridad.
 
-A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, Contabilidad, Recursos Materiales y Seguridad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
-ARTICULO 15 BIS.- La Dirección General de Planeación Estratégica tendrá las atribuciones señaladas en los artículos 18 Bis y 29 Bis de este Reglamento.
+ARTICULO 15 BIS.- La Dirección General de Planeación y Presupuesto tendrá las atribuciones señaladas en los artículos 27 y 29 Bis de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Estrategia y de Coordinación de la Información, así como las Gerencias de Proyectos A, B y C.
+A esta Dirección General, estarán adscritas las Direcciones de Planeación Estratégica y de Contabilidad y Presupuesto, la Gerencia de Seguimiento Presupuestal y la Unidad de Administración de Riesgos.
+
+La Gerencia de Seguimiento Presupuestal, contará con las atribuciones siguientes:
+
+I. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
+
+II. Establecer los procedimientos que permitan evaluar la gestión de los recursos presupuestales del Banco, y
+
+III. Promover que el ejercicio presupuestal sea acorde con las normas y criterios presupuestales, procurando la eficiencia del gasto.
+
+La Unidad de Administración de Riesgos, contará con las atribuciones siguientes:
+
+I. Definir las normas y criterios para la identificación, evaluación y registro de riesgos;
+
+II. Instrumentar y mantener una matriz de riesgos institucional;
+
+III. Dar seguimiento, en forma agregada, a todos los riesgos de la Institución;
+
+IV. Reportar, de manera regular, las exposiciones a riesgos y presentar propuestas para su atención;
+
+V. Coordinar la integración y desarrollo de los programas de continuidad operativa, y
+
+VI. Promover una cultura de administración de riesgos, autorregulación y autogestión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
+
+ARTICULO 15 BIS 1.- La Dirección General de Tecnologías de la Información tendrá las atribuciones señaladas en los artículos 18 Bis y 29 de este Reglamento:
+
+A esta Dirección General estarán adscritas las Direcciones de Coordinación de la Información y de Sistemas.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
@@ -337,7 +383,11 @@ ARTÍCULO 16 BIS.- La Dirección de Programación y Distribución de Efectivos, 
 
 I. Convenir los actos correspondientes al traslado y custodia de efectivo, valores y metales preciosos, incluyendo los concernientes a la operación y mantenimiento del equipo que el Banco utilice para tal efecto;
 
-II. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, canje, retiro, reproducción, destrucción y entrega de signos monetarios, así como los relativos a corresponsalía de caja. Estando además facultada para expedir disposiciones relacionadas con las actividades mencionadas en esta fracción y resolver las sanciones correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+II. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, canje, retiro, reproducción, destrucción y entrega de signos monetarios, así como los relativos a corresponsalía de caja, estando además facultada para expedir disposiciones relacionadas con las actividades mencionadas en esta fracción y verificar su cumplimiento;
 
 III. Recabar información de los integrantes del sistema bancario, respecto a los montos y características de sus existencias de billete y moneda metálica y la relacionada con las entregas y retiro de efectivo realizadas con el Banco, así como la información correspondiente al empleo de efectivo en sus operaciones;
 
@@ -347,9 +397,15 @@ V. Colaborar con bancos centrales, acuñadores y proveedores en aspectos relacio
 
 > <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
-VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y enajenación de bienes muebles, la contratación de servicios de cualquier naturaleza, así como la obra inmobiliaria y los servicios relacionados con ésta, que la Dirección de Recursos Materiales solicite contratar, conforme a la normatividad aplicable, y
+VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y enajenación de bienes muebles, la contratación de servicios de cualquier naturaleza, así como la obra inmobiliaria y los servicios relacionados con ésta, que la Dirección de Recursos Materiales solicite contratar, conforme a la normatividad aplicable, y (sic)
 
-VII. Tener a su cuidado la colección numismática del Banco.
+VII. Tener a su cuidado la colección numismática del Banco;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+VIII. Proporcionar, en el ámbito de su competencia, a la Dirección General de Análisis del Sistema Financiero la información y documentación necesaria para que ésta imponga, junto con la Dirección Jurídica, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito.
 
 ###### ARTICULO 17.
 
@@ -379,11 +435,17 @@ VI. Mantener relaciones con organismos e instituciones nacionales e internaciona
 
 VII. Emitir las reglas de operación de los fideicomisos de Fomento Económico a que se refiere la fracción I del artículo 25 Bis 1, así como formalizar los instrumentos en que se contengan las operaciones que realicen los fideicomisos a que se refiere esta fracción;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VIII. Participar en el seguimiento y obtención de información referente a las operaciones que hayan realizado los intermediarios financieros respecto de las que existan elementos para suponer que fueron efectuadas en términos distintos a los establecidos en las disposiciones, así como, en su caso, imponer a éstos las sanciones y medidas correctivas procedentes;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
-IX. Formalizar convenios y demás actos jurídicos, a través de los cuales se documenten operaciones relativas a las funciones de banca central;
+VIII. Participar, en el ámbito de su competencia, en la obtención de información referente a las operaciones que hayan realizado los intermediarios financieros, los administradores y participantes de los sistemas de pagos, las cámaras de compensación y las sociedades de información crediticia, así como, en su caso, imponer a tales sujetos las sanciones o medidas correctivas procedentes, con excepción de los asuntos sobre fabricación, almacenamiento, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+IX. Formalizar convenios y demás actos jurídicos, a través de los cuales se documenten operaciones relativas a las funciones de banca central, incluyendo actos relacionados con mandatos y comisiones otorgados por el Gobierno Federal;
 
 X. Coadyuvar, en aspectos legales, con las autoridades competentes o unidades administrativas del Banco, en el ingreso, participación y demás actos relacionados con la operación de organismos económicos y financieros internacionales;
 
@@ -393,11 +455,27 @@ XI. Proporcionar dictámenes e información legal que corresponda dar al Banco, 
 
 > <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2000)</small>
 
-XII. Participar en la publicación de información de carácter económico y financiero, y
+XII. Participar en la publicación de información de carácter económico y financiero, y (sic)
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XIII. Otorgar excepciones a las disposiciones emitidas por el Banco, a los intermediarios financieros que se encuentren en proceso de adquisición, fusión o escisión; sean objeto de intervención administrativa, gerencial, o bien de administración cautelar; estén en estado de liquidación o sean declarados en concurso mercantil; reciban apoyos financieros del Instituto para la Protección al Ahorro Bancario; formen parte de un grupo financiero, que proceda a la adquisición de acciones representativas del capital social de otro intermediario financiero, o presenten desequilibrios significativos en sus operaciones activas y pasivas, que les impidan cumplir con las referidas disposiciones.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XIII. Otorgar excepciones a las disposiciones que esta Dirección hubiere suscrito;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XIV. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión a que se refieren la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+
+Tal recurso deberá presentarse ante la Gerencia de Autorizaciones, Consultas y Control de Legalidad, en días hábiles bancarios dentro del horario comprendido entre las diez y las dieciocho horas. El titular de la citada Gerencia tramitará tal medio de defensa, aplicando en lo conducente el Capítulo IV de este Reglamento. En sus ausencias lo hará el Subgerente de Control de Legalidad, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XV. Participar en los procedimientos de formulación de observaciones a comisiones, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -521,6 +599,12 @@ X. Mantener relaciones con organismos e instituciones nacionales e internacional
 
 XI. Publicar información de carácter económico y financiero.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
+
+Los trabajadores del Banco, adscritos a la Dirección de Operaciones, que cuenten con instrucciones escritas del titular de la Dirección citada, en ejercicio de las funciones que correspondan a la Unidad Administrativa de que dependan, podrán celebrar, en forma individual o mancomunada, las operaciones previstas en la fracción I del presente artículo, realizándolas por escrito, vía telefónica, por medios electrónicos, ópticos o por cualquier otra tecnología, o por signos inequívocos.
+
 > <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
 
 ARTICULO 19 BIS.- La Dirección de Análisis y Evaluación de Mercados tendrá las atribuciones siguientes:
@@ -531,9 +615,11 @@ I. Dar seguimiento y evaluar el efecto que tienen en los mercados financieros, l
 
 II. Desarrollar y establecer de manera conjunta con la Dirección de Operaciones del Banco, criterios para medir y controlar los riegos en que incurre el propio Banco, en la administración de los activos internacionales, así como verificar que dichos criterios se cumplan;
 
-> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-III. Dar seguimiento a la actividad de los intermediarios financieros en los mercados de dinero y cambios, con el propósito de identificar estrategias que pudieran afectar la sana competencia en los mercados;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+III. Dar seguimiento a la actividad de los intermediarios financieros y demás participantes en los mercados financieros, a fin de evaluar la operación de dichos mercados, incluyendo la identificación de estrategias que pudieran afectar la sana competencia en los mismos;
 
 > <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2004)</small>
 
@@ -547,21 +633,37 @@ V. Recabar información de instituciones financieras del exterior respecto a cr�
 
 VI. Recabar información de las dependencias y entidades del sector público respecto de las operaciones con divisas que tengan proyectado efectuar en el mercado, así como de aquellas que deban realizar con el Banco;
 
-> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VII. Recabar información de los intermediarios financieros a fin de desagregar entre sectores la tenencia de instrumentos de deuda;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+VII. Solicitar a los intermediarios financieros, a los demás participantes de los mercados financieros, así como a las dependencias y entidades de la administración pública federal, la información necesaria para cumplir con las atribuciones previstas en este artículo;
 
 > <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
 
 VIII. Supervisar que las dependencias y entidades de la Administración Pública Federal que no tengan el carácter de intermediarios financieros cumplan con las disposiciones que emita el Banco conforme al artículo 34 de su Ley;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+IX. Participar en el desarrollo y determinación de criterios para medir y controlar los riesgos financieros en que incurre el propio Banco en el otorgamiento de financiamientos relacionados con sus funciones de banca central y en general por sus operaciones en el mercado de dinero;
+
 > <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
 
-IX. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionados con las atribuciones anteriores, y
+X. Concertar y formalizar acuerdos relacionados con las atribuciones antes señaladas;
 
-> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-X. Concertar y formalizar acuerdos relacionados con las atribuciones antes señaladas.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XI. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relacionadas tanto con las atribuciones anteriores, como con el procedimiento al que deberán sujetarse los intermediarios que actúen como formadores de mercado de valores gubernamentales, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XII. Publicar información de carácter económico y financiero.
 
 > <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
 
@@ -569,27 +671,77 @@ X. Concertar y formalizar acuerdos relacionados con las atribuciones antes seña
 
 La Dirección de Sistemas Operativos y de Pagos tendrá las atribuciones siguientes:
 
-I. Recabar información de los integrantes del sistema financiero relativa a la operación de servicios profesionales de transferencia de valores y de fondos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+I. Requerir a los intermediarios financieros, administradores y participantes de los sistemas de pagos, cámaras de compensación, instituciones para el depósito de valores o a las contrapartes centrales de valores, la información necesaria para el ejercicio de las atribuciones mencionadas en este artículo, incluyendo aquella relacionada con medios de disposición, las cuotas de intercambio o las comisiones que, en su caso, se cobren por esos conceptos;
 
 II. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones de Banca Central;
 
 III. Recabar información de los intermediarios financieros relacionada con los sistemas que tengan para operar entre ellos y con el Banco;
 
-> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IV. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+IV. Participar en la expedición y seguimiento del cumplimiento de las disposiciones, así como en la atención de autorizaciones, consultas y opiniones, en materia de firma electrónica, sistemas de pagos, cheques, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que conforme a este artículo sean de su competencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+V. Contratar asesorías y demás servicios de carácter técnico y profesional, relacionados con los procedimientos operativos para el ejercicio de las atribuciones mencionadas en este artículo;
 
 > <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
-V. Contratar asesorías y demás servicios de carácter técnico y profesional relacionados con los procedimientos operativos en el mercado de dinero y en el de valores, en los que intervenga el Banco;
-
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
-
-VI. Diseñar, elaborar e implantar los sistemas y las políticas relacionadas con el desarrollo y promoción de los sistemas de pagos, y
+VI. Diseñar, elaborar e implantar los sistemas y las políticas relacionadas con el desarrollo y promoción de los sistemas de pagos, y (sic)
 
 > <small>(ADICIONADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
-VII. Realizar los actos necesarios para diseñar, establecer y mantener en operación los sistemas relacionados con la firma electrónica.
+VII. Realizar los actos necesarios para diseñar, establecer y mantener en operación los sistemas relacionados con la firma electrónica;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+VIII. Dar seguimiento, en el ámbito de su competencia, a los procedimientos de administración de riesgos de los administradores y participantes de los sistemas de pagos, de las cámaras de compensación, de las instituciones para el depósito de valores, así como de las contrapartes centrales de valores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+IX. Proporcionar, en el ámbito de su competencia, a la Dirección General de Análisis del Sistema Financiero la información y documentación necesaria para que ésta imponga, junto con la Dirección de Disposiciones de Banca Central, las sanciones o medidas correctivas en términos de Ley, derivado del ejercicio de las atribuciones mencionadas en la fracción IV de este artículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+X. Ejercer las demás facultades que las leyes otorgan al Banco en materia de sistemas de pagos, cámaras de compensación, instituciones para el depósito de valores, firma electrónica o contrapartes centrales de valores, incluyendo el diseño e implementación de los programas de ajuste de cumplimiento forzoso a que se refiere la Ley de Sistemas de Pagos y las solicitudes de modificaciones a las normas internas de los administradores de los sistemas de pagos, de las cámaras de compensación, de las instituciones para el depósito de valores, así como de las contrapartes centrales de valores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XI. Procesar y divulgar información sobre los sistemas de pagos, incluyendo la relativa a medios de disposición, cámaras de compensación, instituciones para el depósito de valores o contrapartes centrales de valores y comisiones, así como operar sistemas y servicios de información vinculados con éstos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XII. Concertar y formalizar acuerdos relacionados con las atribuciones mencionadas en este artículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XIII. Otorgar excepciones a las disposiciones que esta Dirección hubiere suscrito, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XIV. Participar en los procedimientos de formulación de observaciones a comisiones, que cobren o pretendan cobrar los intermediarios financieros que sean de su competencia, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 > <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -685,23 +837,45 @@ IV. Administrar los servicios de la biblioteca y hemeroteca del Banco.
 
 La Dirección de Análisis del Sistema Financiero tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-I. Realizar diagnósticos de los intermediarios financieros señalados en el artículo 14;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
-II. Participar en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relativas a los intermediarios a que se refiere la fracción I de este artículo;
+I. Realizar diagnósticos de los intermediarios financieros señalados en el artículo 14, fracción I;
 
-III. Evaluar la eficacia de los sistemas de administración de riesgos de los intermediarios financieros mencionados en la fracción I de este artículo, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IV. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de la regulación y supervisión de los intermediarios financieros.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+II. Participar en el análisis y desarrollo del sistema financiero mexicano y en la expedición de disposiciones, así como en la atención de autorizaciones, consultas y opiniones relativas a los intermediarios a que se refiere la fracción I de este artículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+III. (DEROGADA, D.O.F. 9 DE MAYO DE 2008)
+
+IV. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de la regulación y supervisión de los intermediarios financieros;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+V. Participar en la expedición de disposiciones en materia de comisiones y cuotas de intercambio que se cobren por el uso de medios de disposición, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+VI. Participar en los procedimientos de formulación de observaciones a comisiones, que cobren o pretendan cobrar los intermediarios financieros que sean de su competencia, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 ARTICULO 25 BIS.- La Dirección de Información del Sistema Financiero tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-I. Definir, desarrollar y mantener el sistema de información de la Dirección General, para la atención de los requerimientos planteados por el Banco y demás autoridades;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+I. Definir, desarrollar y mantener el sistema de información de la Dirección General, para la atención de los requerimientos planteados por el Banco y demás autoridades, así como llevar el registro de comisiones en términos de Ley;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2004)</small>
 
@@ -709,7 +883,13 @@ II. Requerir a los intermediarios financieros, y a sus sociedades controladoras,
 
 III. Desarrollar, en coordinación con otras Direcciones del Banco y demás autoridades e integrantes del Sistema Financiero, métodos, sistemas y estructuras de información, y
 
-IV. Publicar información de carácter financiero.
+IV. Publicar información de carácter financiero;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+V. Recabar información financiera que generen o administren organismos o empresas relacionadas con el sistema financiero.
 
 > <small>(REFORMADO, D.O.F. 4 DE AGOSTO DE 2000)</small>
 
@@ -735,9 +915,15 @@ VII. Evaluar la eficacia de los sistemas de administración de riesgos de los in
 
 VIII. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de la regulación y supervisión de los intermediarios financieros;
 
-IX. Participar en la imposición de las sanciones y medidas correctivas que, en su caso, resulte procedente imponer a los intermediarios señalados en la mencionada fracción III, y
+IX. Participar en la imposición de las sanciones y medidas correctivas que, en su caso, resulte procedente imponer a los intermediarios señalados en la mencionada fracción III, y (sic)
 
-X. Publicar información de carácter económico y financiero, relativa a los intermediarios a que se refiere la fracción inmediata anterior.
+X. Publicar información de carácter económico y financiero, relativa a los intermediarios a que se refiere la fracción inmediata anterior;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XI. Participar en los procedimientos de formulación de observaciones a comisiones, que cobren o pretendan cobrar los intermediarios financieros a que se refiere la fracción III de este artículo, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
@@ -783,55 +969,77 @@ XI. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el De
 
 XII. Llevar el registro de la organización del Banco, así como emitir recomendaciones respecto a la estructura organizacional.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 27.
 
-La Dirección de Contabilidad tendrá las atribuciones siguientes:
+La Dirección de Contabilidad y Presupuesto tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
 I. Proponer a la Junta de Gobierno las normas y criterios a que se refiere la fracción XI del artículo 46 de la Ley, así como vigilar su aplicación;
 
-II. Efectuar los pagos derivados de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, una vez verificados por la Contraloría, realizando tales pagos por medio de los sistemas aprobados, efectuando el registro contable correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+II. Efectuar los pagos derivados de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, una vez verificados por la Gerencia de Seguimiento Presupuestal, realizando tales pagos por medio de los sistemas aprobados, efectuando el registro contable correspondiente;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
 III. Elaborar y suscribir los estados financieros aprobados en términos de la fracción X del artículo 46 de la Ley;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
+
 IV. Normar y supervisar el registro contable de las operaciones que realice el Banco y el cumplimiento de las obligaciones fiscales correspondientes;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
+
 V. Registrar y controlar contablemente el activo fijo, los inventarios y costos de fabricación de billete y acuñación de moneda metálica;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
 VI. Requerir información a las instituciones en las que el Banco participe económicamente;
 
 VII. (DEROGADA, D.O.F. 5 DE JUNIO DE 2002)
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
+
 VIII. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ARTICULO 27 BIS.- La Dirección de Recursos Materiales tendrá las atribuciones siguientes:
 
 I. Ejecutar los procedimientos y formalizar los actos previstos en las normas del Banco de México en las materias de adquisiciones y arrendamientos de bienes muebles, así como de servicios, obra inmobiliaria y servicios relacionados con la misma, y enajenación de bienes muebles;
 
-II. Aplicar las disposiciones relacionadas con las materias señaladas en la fracción anterior y resolver las consultas respectivas;
+II. Formalizar los actos jurídicos respecto de las materias a que se refiere la fracción anterior, que el Banco celebre con dependencias o entidades de la Administración Pública Federal o de las entidades federativas, así como con los demás Poderes de la Unión o los entes constitucionalmente autónomos, cuyo procedimiento de contratación no se encuentre sujeto a las normas mencionadas en la propia fracción I, salvo aquellos actos jurídicos que por su naturaleza sea responsabilidad de otras unidades administrativas su formalización;
 
-III. Llevar el secretariado de los Comités previstos en las normas indicadas en la fracción I;
+III. Aplicar las disposiciones relacionadas con los actos señalados en las fracciones anteriores y resolver las consultas respectivas;
 
-IV. Tramitar y gestionar, directamente o por conducto de terceros, las licencias, permisos o cualquier otro acto jurídico que requieran las operaciones a que se refiere la fracción I, incluyendo los necesarios para la importación o exportación de bienes o servicios, salvo aquellos que por su naturaleza sean responsabilidad de otras unidades administrativas;
+IV. Llevar el secretariado de los Comités previstos en las normas indicadas en la fracción I;
 
-V. Atender los requerimientos que formule la Contraloría, derivados de las inconformidades y quejas que se presenten con motivo de los actos señalados en la fracción I;
+V. Tramitar y gestionar, directamente o por conducto de terceros, las licencias, permisos o cualquier otro acto jurídico que requieran las operaciones a que se refieren las fracciones I y II, incluyendo los necesarios para la importación o exportación de bienes o servicios, salvo aquellos que por su naturaleza sean responsabilidad de otras unidades administrativas;
 
-VI. Celebrar los actos necesarios para terminar anticipadamente o rescindir administrativamente los contratos o convenios respecto de las materias a que se refiere la fracción I, aplicar penas convencionales, promover reclamaciones de garantías y, en general, ejercer extrajudicialmente los derechos del Banco;
+VI. Atender los requerimientos que formule el Contralor, derivados de las inconformidades y quejas que se presenten con motivo de los actos señalados en la fracción I;
 
-VII. Practicar las notificaciones que deban hacerse a licitantes, proveedores, contratistas o adquirentes, con motivo del ejercicio de las atribuciones a que se refieren las fracciones I y VI;
+VII. Celebrar los actos necesarios para terminar anticipadamente o rescindir los contratos o convenios respecto de las materias a que se refieren las fracciones I y II, aplicar penas convencionales, promover reclamaciones de garantías y, en general, ejercer extrajudicialmente los derechos del Banco;
 
-VIII. Formalizar los actos relacionados con la adquisición, uso, administración y enajenación de bienes inmuebles;
+VIII. Practicar las notificaciones que deban hacerse a licitantes, proveedores, contratistas o adquirentes, con motivo del ejercicio de las atribuciones a que se refieren las fracciones I y VII;
 
-IX. Proveer el mobiliario, artículos y equipo de oficina del Banco;
+IX. Formalizar los actos relacionados con la adquisición, uso, administración y enajenación de bienes inmuebles;
 
-X. Contratar los seguros que requiera el Banco;
+X. Proveer el mobiliario, artículos y equipo de oficina del Banco;
 
-XI. Administrar los servicios de correspondencia, comedores, impresión y auto transportes, y
+XI. Contratar los seguros que requiera el Banco;
 
-XII. Las demás previstas en otros ordenamientos aplicables a las operaciones materia de su competencia.
+XII. Administrar los servicios de correspondencia, comedores, impresión y auto transportes, y
+
+XIII. Las demás previstas en otros ordenamientos aplicables a las operaciones materia de su competencia.
 
 Cuando otras disposiciones aplicables faculten a los analistas adscritos a la Dirección de Recursos Materiales para ejercer las atribuciones anteriores, deberán suscribir los documentos correspondientes en forma mancomunada con uno o más funcionarios adscritos a la propia Dirección, en los términos que al efecto se señale en dichas disposiciones, debiendo observar, en lo conducente, lo previsto en el artículo 10 de este Reglamento.
 
@@ -839,9 +1047,17 @@ Cuando otras disposiciones aplicables faculten a los analistas adscritos a la Di
 
 La Dirección Jurídica tendrá las atribuciones siguientes:
 
-I. Notificar a los intermediarios financieros o a las sociedades controladoras de éstos, las sanciones que el Banco imponga en el ejercicio de las facultades que las disposiciones legales le otorguen;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de reconsideración y del procedimiento administrativo de ejecución, previstos en los artículos 64 a 67 de la Ley;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+I. Notificar a los intermediarios financieros o a las sociedades controladoras de éstos, a los administradores y participantes de los sistemas de pagos, a las cámaras de compensación y a las sociedades de información crediticia, las sanciones que el Banco imponga en el ejercicio de las facultades que las disposiciones legales le otorguen, así como las resoluciones relativas a los recursos de reconsideración referidos en la fracción II de este artículo y las resoluciones correspondientes al recurso de revisión a que se refiere la fracción XIV del artículo 17;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+II. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de reconsideración previstos en la Ley del Banco de México, la Ley de Sistemas de Pagos y la Ley de Instituciones de Crédito. De igual forma, conocerá del procedimiento administrativo de ejecución previsto en tales ordenamientos, así como el establecido en la Ley para Regular las Sociedades de Información Crediticia y en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
 
 III. Notificar y, en su caso ejecutar, los acuerdos, proveídos y demás resoluciones dictadas en y con motivo de los procedimientos mencionados en la fracción anterior;
 
@@ -861,11 +1077,29 @@ IX. Determinar los requisitos legales con que se otorguen los créditos hipoteca
 
 (REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-X. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos, y
+X. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos, y (sic)
 
 (REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
-XI. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley.
+XI. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XII. Expedir, junto con la Dirección General de Emisión, las disposiciones a que se refieren los artículos 48 Bis 1 de la Ley de Instituciones de Crédito y 8o. de este Reglamento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XIII. Imponer, junto con la Dirección General de Análisis del Sistema Financiero, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos de revisión a que se refiere la fracción XIV del artículo 17, de conformidad con lo previsto en la Ley Federal de Procedimiento Administrativo.
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -897,17 +1131,31 @@ IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y s
 
 V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
 
-> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-ARTICULO 29 BIS.- La Dirección de Estrategia tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+
+ARTICULO 29 BIS.- La Dirección de Planeación Estratégica tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
 
 I. Coordinar el proceso de planeación estratégica institucional;
 
-II. Coordinar el seguimiento y la evaluación del cumplimiento del programa de trabajo institucional;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+II. Coordinar la elaboración del programa de trabajo institucional, así como coordinar el seguimiento y la evaluación del cumplimiento del mismo;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
 
 III. Difundir entre el personal las metas y objetivos de la estrategia y el programa de trabajo institucionales y los resultados de su cumplimiento;
 
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+
 IV. Promover programas de modernización de los procesos a través de los cuales se realizan las funciones institucionales, buscando su congruencia con los objetivos y prioridades estratégicas del Banco, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
 
 V. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia.
 
@@ -917,7 +1165,9 @@ V. Mantener relaciones con organismos e instituciones nacionales e internacional
 
 El Contralor tendrá, además de las atribuciones señaladas en el artículo 30 Bis, las siguientes:
 
-I. Comprobar que en la Institución, se dé cumplimiento a las disposiciones aplicables al Banco o a su personal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+I. (DEROGADA, D.O.F. 9 DE MAYO DE 2008)
 
 > <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
@@ -935,9 +1185,9 @@ Recibir y desahogar las quejas materia del procedimiento de conciliación que le
 
 El Contralor designará al personal que deberá efectuar las notificaciones relacionadas con los procedimientos a que se refieren los dos párrafos anteriores, incluyendo aquellas que tengan carácter personal. Para los efectos previstos en este párrafo, será medio de identificación de los notificadores la credencial que para tal efecto expida en su favor el Banco de México;
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-V. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
+V. (DEROGADA, D.O.F. 9 DE MAYO DE 2008)
 
 VI. (DEROGADA, D.O.F. 26 DE ABRIL DE 2007)
 
@@ -949,9 +1199,11 @@ VII. Llevar el registro de los servidores públicos del Banco, en términos de l
 
 VIII. Proponer a la Junta de Gobierno las normas a que se refiere el artículo 46 fracción XII de la Ley del Banco, y aquéllas que resulten aplicables a éste, sin perjuicio de las que a otras unidades corresponda proponer a dicha Junta;
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IX. Promover la adecuada actualización y suficiencia normativa y del control interno de la institución; así como, instrumentar y mantener una matriz de riesgos institucional;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+IX. Promover la adecuada actualización, suficiencia normativa y control interno de la institución;
 
 (REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
@@ -981,19 +1233,45 @@ XV. Notificar a los interesados, las resoluciones de los recursos a que se refie
 
 XVI. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-ARTICULO 30 BIS.- El Director de Auditoría tendrá las atribuciones siguientes:
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
-I. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario;
+Al Contralor estará adscrita la Dirección de Auditoría, así como la Gerencia de Control Normativo.
 
-II. Comprobar el cumplimiento de las normas y manuales relativos a los sistemas electrónicos del Banco;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+
+ARTICULO 30 BIS.- La Dirección de Auditoría tendrá las atribuciones siguientes:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+I. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario o fideicomitente, evaluando el que se dé cumplimiento a las disposiciones aplicables al propio Banco o a su personal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+II. Evaluar el cumplimiento de las normas y manuales relativos a los sistemas electrónicos del Banco;
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
 III. Apoyar, en el ámbito de sus atribuciones, al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes, así como actuar como unidad de enlace con la Auditoría Superior de la Federación, para lo cual podrá celebrar los actos jurídicos que se requieran;
 
-IV. Requerir en su caso, a las instituciones en las que el Banco participe económicamente, la información necesaria para cumplir con sus atribuciones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
+
+IV. Requerir, en su caso, a las unidades administrativas del Banco y a las instituciones en las que éste participe económicamente, la información necesaria para cumplir con sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
 V. Desahogar las solicitudes planteadas al Banco de México en materia de confirmación de saldos y, en general, de operaciones en las que éste sea parte, así como requerir información de la misma naturaleza, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
 VI. Supervisar la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco.
 
@@ -1169,11 +1447,13 @@ Además se incluirán en el capital contable, los rubros de Remanente de Operaci
 
 El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. El Crédito a Instituciones Bancarias y Deudores por Reporto incluirá a la banca múltiple, la banca de desarrollo y operaciones de reporto. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Instituciones Bancarias y Deudores por Reporto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 39.
 
-Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales, deberán ser suscritos por el Gobernador, el Director General de Administración y el Director de Contabilidad.
+Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales, deberán ser suscritos por el Gobernador, el Director General de Planeación y Presupuesto y el Director de Contabilidad y Presupuesto.
 
 Al publicarse el balance general se deberá insertar el dictamen del auditor externo del Banco.
 
@@ -1189,9 +1469,11 @@ El balance general deberá publicarse dentro de los cinco días hábiles siguien
 
 Dado a conocer el balance general, el Banco publicará, dentro de los quince días hábiles siguientes, los estados de cuenta consolidados de los meses que hayan transcurrido del ejercicio en curso, y sucesivamente, dentro de los primeros veinte días hábiles de cada mes, el estado de cuenta consolidado correspondiente al mes inmediato anterior, excepto diciembre.
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-El Banco publicará semanalmente en el Diario Oficial de la Federación, con cifras preliminares al cierre de cada viernes y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad, y en las ausencias de éste, por el Gerente de Presupuestos y Contabilidad.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
+
+El Banco publicará semanalmente en el Diario Oficial de la Federación, con cifras preliminares al cierre de cada viernes y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad y Presupuesto y, en las ausencias de éste, por el Gerente de Presupuestos y Contabilidad.
 
 ### CAPITULO V. DISPOSICIONES GENERALES
 
@@ -1249,9 +1531,13 @@ III. El acuerdo de no interposición del recurso.
 
 Los acuerdos que deban notificarse por estrados, se comunicarán mediante lista que se fijará en la Subgerencia Jurídica de lo Contencioso del Banco.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 50.
 
-Corresponderá al personal de la Oficina de lo Contencioso del Banco practicar las notificaciones y efectuar el procedimiento administrativo de ejecución referidos en la Ley. Para tal efecto, el Director Jurídico podrá habilitar a personas distintas de las que integran dicha Oficina, para que realicen las notificaciones o ejecuciones mencionadas.
+Corresponderá al personal de la Oficina de lo Contencioso del Banco practicar las notificaciones y efectuar el procedimiento administrativo de ejecución a que aluden las fracciones I y II del artículo 28 de este Reglamento. Sin perjuicio de lo anterior, el Director Jurídico podrá habilitar a personas distintas de las que integran dicha Oficina, para que realicen las notificaciones o ejecuciones mencionadas.
 
 Será medio de identificación de los notificadores y ejecutores citados, la credencial, que para tales efectos, expida en su favor el Banco de México, junto con el oficio firmado por el Director Jurídico que los faculte para realizar tales funciones.
 
@@ -1482,3 +1768,13 @@ D.O.F. 26 DE ABRIL DE 2007.
 PRIMERO. La presente derogación entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las referencias hechas al Contralor del Banco de México en cualquier disposición de carácter interno, relativas a la atribución aquí derogada, quedan sin efectos a partir de la fecha de entrada en vigor de la citada derogación.
+
+D.O.F. 9 DE MAYO DE 2008.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones, entrarán en vigor el dieciséis de mayo de 2008.
+
+SEGUNDO. Las referencias a la Dirección General de Planeación Estratégica, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Dirección General de Planeación y Presupuesto.
+
+Las referencias a la Dirección de Contabilidad, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Dirección de Contabilidad y Presupuesto.
+
+Las referencias a la Dirección de Estrategia, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Dirección de Planeación Estratégica.
