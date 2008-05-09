@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2007-07-06"
+last_updated: "2008-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -317,13 +317,13 @@ V.- La nacionalidad.
 
 El estado civil es un atributo privativo de las personas físicas.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO I. DEL NOMBRE
+
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO II. DEL DOMICILIO
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -387,9 +387,9 @@ Art. 25 Bis VIII.- El cambio de nombre de una persona no la priva de sus derecho
 
 Art. 25 Bis IX.- En el procedimiento judicial de cambio de nombre, el Oficial del Registro Civil que elaboró el acta debe intervenir en calidad de parte y dar vista al Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -409,9 +409,9 @@ Art. 26 Bis I.- La persona moral tiene derecho al uso exclusivo de su nombre y p
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO III. DE LA CAPACIDAD JURIDICA
+### CAPITULO II. DEL DOMICILIO
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 27.
 
@@ -419,7 +419,7 @@ Domicilio es el lugar en que la ley tiene por situadas a las personas para el cu
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -471,7 +471,7 @@ Art. 28 Bis V.- Se tiene derecho a designar domicilios convencionales para el ej
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -499,11 +499,11 @@ Art. 29 Bis I.- Las personas morales, podrán designar domicilios convencionales
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO IV. DEL PATRIMONIO
+### CAPITULO III. DE LA CAPACIDAD JURIDICA
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -545,7 +545,7 @@ III.- A petición del mismo incapaz, la cual no necesita ser escrita.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -565,17 +565,13 @@ Art. 31 Bis I.- Las personas morales obran y se obligan a través de los órgano
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO V. DE LA NACIONALIDAD
+### CAPITULO IV. DEL PATRIMONIO
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
-
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
-
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 32.
 
@@ -605,11 +601,15 @@ Art. 32 Bis IV.- El patrimonio moral se constituye por los derechos y deberes no
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO VI. DEL ESTADO CIVIL
+Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO V. DE LA NACIONALIDAD
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -619,9 +619,9 @@ La nacionalidad de las personas se regirá por las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO I. DEL NOMBRE
+### CAPITULO VI. DEL ESTADO CIVIL
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 34.
 
@@ -641,7 +641,7 @@ Art. 34 Bis I.- Posesión de estado civil es la conducta reiterada que en forma 
 
 Art. 34 Bis II.- Para acreditar la posesión de estado civil se deberá atender, el trato y comportamiento en el seno de la familia respectiva, la fama que sobre el particular tenga la persona en sus relaciones sociales y de familia.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ## TITULO CUARTO. DEL REGISTRO CIVIL
 
@@ -3645,7 +3645,9 @@ El Juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 ### CAPITULO III. DE LA TUTELA LEGITIMA DE LOS MENORES
 
-### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDO-MUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
+### CAPITULO IV
+
+DE LA TUTELA LEGITIMA DE LAS PERSONAS DISCAPACITADAS, CON AUSENCIA DE CAPACIDAD MENTAL, AUSENCIA DE CAPACIDAD AUDITIVA Y DEL HABLA, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
 
 ###### Art. 470.
 
@@ -3724,6 +3726,8 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 ###### Art. 485.
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MAYO DE 2008)</small>
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
@@ -3921,9 +3925,11 @@ VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que de
 
 No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2008)</small>
+
 ###### Art. 506.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordo-mudos, ebrios consuetudinarios y de los que abusen habitualmente de las drogas enervantes.
+Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de las personas discapacitadas, con ausencia de capacidad mental, ausencia de capacidad auditiva y del habla, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
 
 ###### Art. 507.
 
@@ -16586,6 +16592,10 @@ DECRETO No. 105
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 6 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
