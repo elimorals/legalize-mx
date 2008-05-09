@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "2007-10-19"
+last_updated: "2008-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -223,9 +223,71 @@ IX.- Mantener al día el estado financiero del Tribunal con las pólizas, compro
 
 X.- Tramitar las altas y bajas del personal del Tribunal, previo acuerdo con el Magistrado Presidente.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2008)</small>
+
+ARTICULO 28 BIS-1.- Para ser Coordinador de Informática y Coordinador de Capacitación Judicial y Técnico-Administrativo, se requiere:
+
+I.- Ser mexicano en uso de sus derechos civiles y políticos.
+
+II.- Poseer título profesional legalmente registrado afín a su función.
+
+III.- Ser de notoria buena conducta y con experiencia en el área técnica correspondiente cuando menos de cinco años.
+
+IV.- No haber sido condenado por delito intencional.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2008)</small>
+
+ARTICULO 28 BIS 2.- Corresponde al Coordinador de Informática:
+
+I.- Formular, definir, establecer, aplicar y evaluar las políticas y criterios técnicos en materia de informática.
+
+II.- Diseñar y aplicar mecanismos para mantener actualizada y disponible todo el conjunto de datos, indicadores y estadísticas de carácter relevante para el eficaz desempeño de la labor jurisdiccional.
+
+III.- Formular proyectos de cambio integral a fin de incorporar el uso de tecnología en materia informática para lograr mayor eficiencia en la función jurisdiccional.
+
+IV.- Diseñar e implementar el servicio de procesamiento electrónico de datos.
+
+V.- Proporcionar orientación y asesoría a las Salas y Pleno del Tribunal para la adquisición, instalación y utilización del equipo de cómputo que requieran para el eficaz desempeño de sus funciones.
+
+VI.- Asesorar y apoyar técnicamente a las Salas y Pleno del Tribunal, en el diseño y generación de indicadores y estadísticas de la actividad jurisdiccional, así como su actualización y conservación mediante bancos de información.
+
+VII.- Diseñar la estrategia del intranet en las Salas y Pleno del Tribunal, así como administrar el contenido y apoyo que soliciten, en el diseño, elaboración, publicación y actualización de la página de Internet del tribunal.
+
+VIII.- Diseñar la estrategia de la página de Internet del Tribunal, así como administrar su contenido y apoyar al Pleno y Salas del Tribunal cuando lo soliciten, en el diseño, elaboración, publicación y actualización de la página, incluyendo lo relacionado con transparencia y rendición de cuentas.
+
+IX.- Diseñar la estrategia y validación de la información institucional, que se genere a través del uso de sistemas de información, asegurando la integridad, confiabilidad, homogeneidad y oportunidad de la información del Tribunal.
+
+X.- Establecer en coordinación con la Coordinación de Capacitación Judicial y Técnico-Administrativa, los planes, programas y calendarios anuales para impartir cursos en materia de informática.
+
+XI.- Colaborar con el Secretario General de Acuerdos y el Jefe de la Unidad Administrativa del Tribunal, a fin diseñar y establecer controles y programas que contribuyan a eficientizar el trabajo jurisdiccional y administrativo, así como para genera (sic) la información estadística para difusión y mejoramiento de la labor.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2008)</small>
+
+###### ARTICULO 28
+
+BIS 3.- Corresponde al Coordinador de Capacitación Judicial y Técnico-Administrativo:
+
+I.- Participar en la formulación de planes y programas de estudio para el personal jurisdiccional y administrativo del Tribunal.
+
+II.- Vigilar que los planes y programas de estudio tengan como objetivo el desarrollo integral de aptitudes a fin de contribuir a la profesionalización del personal jurisdiccional.
+
+III.- Elaborar programas de estudio, capacitación, actualización y profesionalización del personal jurisdiccional, mediante la implementación de contenidos teórico-prácticos, de estudio de casos, así como clínicas de derecho procesal administrativo, constitucional y fiscal, entre otros.
+
+IV.- Implementar cursos, seminarios, conferencias, mesas redondas y demás actividades para la actualización del personal de la institución, en el área que a cada uno corresponde a fin de lograr una profesionalización calificada.
+
+V.- Apoyar las actividades de difusión del Tribunal.
+
+VI.- Colaborar con el responsable de la Unidad de Transparencia para verificar si la información clasificada es confidencial o reservada.
+
+VII.- Establecer las estrategias para impulsar la carrera judicial.
+
+Las demás análogas que le confieran otras normas o que precise el Pleno del Tribunal.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 29.
 
-El jefe de la Unidad Administrativa dependerá administrativamente del Presidente del Tribunal y estará impedido para desempeñar cualquier otro cargo o empleo de la Federación, Estado y Municipios o de sus entidades públicas paraestatales, excepto los de carácter docente u honorífico.
+El Jefe de la Unidad Administrativa, el Coordinador de Informática y el Coordinador de Capacitación del Presidente del Tribunal y estarán impedidos para desempeñar cualquier otro cargo o empleo de la Federación, Estado y Municipio o de sus entidades paraestatales, excepto los, de carácter docente u honorífico.
 
 ###### ARTICULO 30.
 
@@ -386,3 +448,7 @@ TERCERO.- Dentro de los diez días hábiles siguientes a la publicación de esta
 P.O. 19 DE OCTUBRE DE 2007.
 
 UNICO.- La presente adición entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE MAYO DE 2008.
+
+UNICO.- La presente adición y modificación entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
