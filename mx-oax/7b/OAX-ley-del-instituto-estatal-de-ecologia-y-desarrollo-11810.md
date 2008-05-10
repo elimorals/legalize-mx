@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-instituto-estatal-de-ecologia-y-desarrollo-11810"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-22"
-last_updated: "2005-03-22"
+last_updated: "2008-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 22 de junio de 1996.
 
@@ -101,13 +101,17 @@ XVII.- Instrumentar programas de educación ambiental y capacitación dirigidos 
 
 XVIII.- Atender quejas y denuncias relacionadas con la contaminación al ambiente y en su caso, aplicar las sanciones administrativas, por violaciones a la Ley de Equilibrio Ecológico del Estado y demás disposiciones jurídicas aplicables;
 
-XIX.- Participar en la formulación y ejecución de los convenios que en materia ecológica celebre el Gobierno del Estado con la Federación, Entidades Federativas o con los Ayuntamientos, coordinando acciones de protección ambiental;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2008)</small>
 
-XX.- Concertar acciones con los sectores social y privado, en las materias reguladas por el presente decreto;
+XIX.- En materia de prevención y control de la contaminación generada por los vehículos automotores que circulan en el Estado, hacer cumplir lo dispuesto por el artículo 91 de la Ley del Equilibrio Ecológico del Estado de Oaxaca, auxiliándose para tal efecto con las Autoridades de Tránsito en el Estado de Oaxaca;
 
-XXI.- Promover y fomentar las investigaciones ecológicas; y
+XX.- Participar en la formulación y ejecución de los convenios que en materia ecológica celebre el Gobierno del Estado con la Federación, Entidades Federativas o con los Ayuntamientos, coordinando acciones de protección ambiental;
 
-XXII.- Los demás que le confieran las leyes, decretos, acuerdos y reglamentos.
+XXI.- Concertar acciones con los sectores social y privado, en las materias reguladas por el presente decreto;
+
+XXII.- Promover y fomentar las investigaciones ecológicas; y
+
+XXIII.- Los demás que le confieran las leyes, decretos, acuerdos y reglamentos.
 
 ### CAPITULO III. DE LA ORGANIZACION DEL INSTITUTO
 
@@ -273,8 +277,12 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decretó entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
