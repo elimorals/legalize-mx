@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2007-04-03"
+last_updated: "2008-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -303,7 +303,9 @@ I. Ser ciudadano potosino en ejercicio de sus derechos;
 
 II. Ser originario del Municipio y con un año por lo menos de residencia efectiva en el mismo inmediata anterior a la fecha de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la elección o designación;
 
-III. No haber sido condenado por sentencia ejecutoriada, por la comisión de delitos dolosos que hayan ameritado pena privativa de libertad;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
+
+III. No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme, por la comisión de delitos dolosos que hayan ameritado pena de prisión;
 
 IV. No ser miembro de las fuerzas armadas o de policía que estén en servicio activo en el Estado, con cargo y atribuciones de mando en el municipio respectivo, a menos que (sic) separen de su cargo en el tiempo y forma que establece la ley de la materia, y
 
@@ -1451,9 +1453,27 @@ Para coadyuvar en los fines y funciones de la administración pública municipal
 
 Los ayuntamientos procurarán que en la integración de estos organismos se incluyan personas de los sectores de mayor representatividad en la población, y que tengan el perfil idóneo para el desempeño de las responsabilidades que se les asigne.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+###### ARTICULO 102 Bis.
+
+Para la integración de los organismos a que se refiere este Capítulo, los ayuntamientos podrán contar, previo convenio, con la colaboración del Consejo Estatal Electoral y de Partición (sic) Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes.
+
+En todo caso, y siempre con la previa celebración del convenio correspondiente, el Consejo Estatal Electoral y de Partición (sic) Ciudadana, podrá hacerse cargo de los procesos de elección a que se refiere el párrafo que antecede.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+###### ARTICULO 102 Ter.
+
+Los ayuntamientos que no requieran del apoyo y colaboración del Consejo para la integración de los organismos de participación ciudadana, deberán remitirle, con la antelación debida, la metodología que utilizarán en los procesos de elección de quienes integrarán dichos organismos.
+
+Recibida la propuesta metodológica, el Consejo la analizará y emitirá su opinión técnica, en un plazo que no excederá de quince días hábiles, proponiendo a la consideración del ayuntamiento respectivo, las adecuaciones que estime necesarias para dotar de certeza, legalidad, imparcialidad y objetividad, la integración de los organismos de participación ciudadana.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 103.
 
-Cuando alguno de los representantes de los organismos referidos no cumpla con sus obligaciones, el Cabildo deberá sustituirlo nombrando a algún otro de entre los propuestos por sus integrantes.
+Cuando alguno de los representantes de los organismos referidos no cumpla con sus obligaciones, el cabildo deberá sustituirlo llamando al suplente respectivo o, en su defecto, al que resulte electo mediante un nuevo proceso de elección.
 
 ### CAPITULO II. De la Hacienda Municipal
 
@@ -2160,3 +2180,17 @@ P.O. 3 DE ABRIL DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2008.
+
+PRIMERO. Previa la aprobación de las modificaciones a la Constitución Política del Estado, que se contienen en el artículo Primero del presente Decreto, por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución, este Decreto entrará en vigor en su integridad, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto, se abrogan, tanto la Ley Electoral del Estado, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 30 de septiembre de 1999; como la Ley de Referéndum y Plebiscito del Estado de San Luis Potosí, publicada en el mismo órgano de comunicación oficial el 30 de abril de 1997; asimismo, se derogan las disposiciones constitucionales, legales y administrativas que se le opongan.
+
+TERCERO. Respecto del artículo Segundo de este Decreto, por el que se expide la Ley Electoral del Estado de San Luis Potosí, se habrán de observar las previsiones siguientes:
+
+I. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulten electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente período, acorde con el dispositivo 63 antes citado;
+
+II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
+
+III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
