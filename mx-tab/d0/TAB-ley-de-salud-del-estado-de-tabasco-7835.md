@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-7835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2008-04-12"
+last_updated: "2008-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 8 de febrero de 1995.
 
@@ -1585,21 +1585,55 @@ El Gobierno del Estado se coordinará con las autoridades sanitarias federales p
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos; y
 
-III.- La prohibición de fumar en el interior de edificios públicos propiedad o en posesión de los gobiernos, estatal y municipales, en los que alberguen oficinas o dependencias y en aquellos en los que se presten servicios públicos, con excepción de las áreas restringidas reservadas en ellos para los fumadores;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
 
-IV.- La prohibición de comercializar tabaco en farmacias, droguerías y boticas; y
+III.- En el marco del Sistema Estatal de Salud, a través de la Secretaría de Salud, la coordinación de las acciones que se desarrollen contra el tabaquismo, y la promoción y organización de servicios de orientación y atención a fumadores que deseen abandonar el hábito y desarrollará acciones permanentes para disuadir y evitar el consumo de tabaco por parte de los niños y adolescentes.
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- En el marco del Sistema Estatal de Salud, a través de la Secretaría de Salud, la coordinación de las acciones que se desarrollen contra el tabaquismo, y la promoción de organización de servicios de orientación y atención a fumadores que deseen abandonar el hábito y desarrollará acciones permanentes para disuadir y evitar el consumo de tabaco por parte de niños y adolescentes.
+IV.- (DEROGADA, P.O. 10 DE MAYO DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+V.- (DEROGADA, P.O. 10 DE MAYO DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Art.153 bis.- En el Estado de Tabasco, queda prohibido fumar en los siguientes lugares:
+
+I.- En el interior de edificios públicos propiedad o en posesión del gobierno estatal, en cualquiera de los tres poderes públicos, órganos autónomos, empresas estatales y de participación. Así como en cualquiera de las instalaciones bajo el control del gobierno del estado y el de los municipios;
+
+II.- En el interior de los establecimientos comerciales, locales cerrados, empresas e industrias, en expendios fijos de alimentos y bebidas alcohólicas, y no alcohólicas, en servicios de hospedaje, en bares, discotecas o en establecimientos de bailes eróticos;
+
+III.- En elevadores de cualquier edificación comercial y de servicios;
+
+IV.- En los establecimientos particulares de cualquier giro, en los que se proporcione atención directa al público, y que contengan áreas comerciales o de servicios;
+
+V.- En hospitales, clínicas, centros de salud, centros de atención médica públicos, sociales o privados, salas de espera, auditorios, bibliotecas y cualquier otro lugar cerrado de las instituciones médicas y de enseñanza;
+
+VI.- Instalaciones deportivas y parques recreativos, aún en el caso de instalaciones al aire libre. En unidades destinadas al cuidado y atención de niños y adolescentes, personas de la tercera edad y personas con capacidades diferentes;
+
+VII.- Bibliotecas Públicas, Hemerotecas o Museos;
+
+VIII.- En centros de educación inicial, básica, media y superior, incluyendo auditorios, bibliotecas, laboratorios, instalaciones deportivas, salones de clase y sanitarios;
+
+IX.- En los cines, teatros y auditorios cerrados a los que tenga acceso el público en general;
+
+X.- En los vehículos de servicio de transporte público de pasajeros que circulen en el Estado;
+
+XI.- En los vehículos de transporte de escolares o transporte de personal; y
+
+XII.- En cualquier otro lugar, que en forma expresa determine la Secretaría de Salud, mediante la publicación que ordene respecto del mandato en el Periódico Oficial del Estado de Tabasco.
 
 ###### Art. 154.
 
@@ -1609,17 +1643,61 @@ Para poner en práctica las acciones contra el tabaquismo se tendrá en cuenta l
 
 I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
 
-III.- Los responsables de las dependencias, edificios, oficinas o instalaciones a que se refiere la fracción III del artículo anterior, dispondrán en su caso de los espacios en que se permita fumar; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
 
-IV.- Las demás disposiciones contenidas en ésta y otras leyes y en los reglamentos y normas correspondientes.
+III.- Las demás disposiciones contenidas en esta y otras leyes y en los reglamentos y normas correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV.- (DEROGADA, P.O. 10 DE MAYO DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Art. 154 bis.- Los propietarios, responsable (sic), ocupantes, encargados, apoderados o conductores, de los establecimientos y vehículos a que se refiere el artículo 153 BIS, deberán fijar, en el interior y exterior de los edificios y vehículos, letreros que indiquen la prohibición de fumar. Los que se deberán ubicar en los accesos y en la estancia correspondiente para que sea perfectamente visible para todas las personas, y deberá ser de por lo menos 40 centímetros de alto, por 40 centímetros de largo en establecimientos y edificios, y de 10 centímetros de alto por 20 centímetros de ancho en vehículos.
+
+En caso de que algún establecimiento o concesionario de vehículo se niegue a cumplir con esta disposición podrá ser acreedor a sanción administrativa de la autoridad sanitaria.
+
+Cuando una persona se niegue a cumplir con la prohibición, los propietarios, responsables, ocupantes, encargados, apoderados o conductores deberán dar aviso de inmediato a la policía preventiva, para que presente al infractor ante la autoridad competente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Art. 154 bis 1.- Para los efectos de la aplicación y cumplimiento de las disposiciones administrativas ordinarias de este capítulo, será autoridad competente la Secretaría de Salud, conforme al capítulo de vigilancia sanitaria y conforme a las facultades que determina su Reglamento Interior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Art. 154 bis 2.- En los centros deportivos, recreativos y parques, la autoridad municipal colocará letreros o logotipos donde se indique la prohibición de fumar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Art. 154 bis 3.- Para efectos de prevenir el consumo y dependencia al tabaco, será obligación de las instituciones de salud del estado, contar con personal capacitado en materia de adicciones, para que en acuerdo con los programas de la Secretaría de Educación Pública, implementen pláticas, videos, terapias grupales, o cualquier método preventivo que sirva para advertir e informar a la población estudiantil de los planteles oficiales y particulares, de primaria, secundaria y preparatorias (sic), los efectos nocivos del consumo de tabaco.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Art. 154 bis 4.- La Secretaría de Salud deberá contar con clínicas de tabaquismo con personal capacitado para combatir esta adicción, así como disponer de los medicamentos que ayuden a prevenir o combatir el hábito de consumir tabaco.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Art. 154 bis 5.- La Secretaría de Educación Pública, deberá coordinarse con la Secretaría de Salud, y establecerán un programa .que abarque a todas las escuelas de educación básica, con el propósito de prevenir a los niños y jóvenes respecto de los efectos nocivos de la adicción al consumo de tabaco. Este programa deberá abarcar a las instituciones educativas públicas y privadas.
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
@@ -2817,13 +2895,13 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
 ###### Art. 292.
 
-Se sancionará con multa de hasta mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 90, 96, 110, 111, 112, 121 Bis, 121 Bis 1, 121 Bis 2, 121 Bis 3, 124, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 207, 242, 247, 261 y 262 de esta Ley.
-
-La violación a lo dispuesto por el último párrafo del artículo 153, se sancionará con multa de 3 hasta 50 días de salario mínimo general vigente en el Estado, al momento de la infracción; pero la autoridad sancionadora, podrá conmutar la multa por una y hasta diez horas de terapia de rehabilitación en las instalaciones de salud pública del Estado, cuyo acreditamiento se realizará en los términos reglamentarios.
+Se sancionará con multa de hasta mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 90, 96, 110, 111, 112, 121 Bis, 121 Bis 1, 121 Bis 2, 121 Bis 3, 124, 153, 153 Bis, 154, 154 BIS, 154 BIS-1, 154 BIS-2, 154 BIS-3, 154 BIS-4, 154 BIS-5, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 207, 242, 247, 261, y 262 de esta Ley.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
@@ -3160,3 +3238,15 @@ P.O. 12 DE ABRIL DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor a los 90 días siguientes a su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Las autoridades municipales deberán contemplar en un plazo de. 90 días, a partir de la publicación del presente Decreto, las sanciones que se aplicarán en contra de quienes sean remitidos en flagrancia violentando las disposiciones de este decreto.
+
+TERCERO.- La Secretaría de Seguridad Pública del Estado de Tabasco, así como las Direcciones Municipales de Seguridad Pública, deberá brindar el apoyo de la fuerza pública que le sea requerido por parte de las autoridades responsables de la aplicación de estas disposiciones, así como del llamado de los quejosos cuando exista flagrancia, para hacer el aseguramiento y traslado de los infractores ante la autoridad competente, y hacer que se cumpla con la presente ley.
+
+CUARTO.- La Secretaría de Salud del Estado, deberá contemplar en sus planes de infraestructuras, o en su caso habilitar algún centro de atención a adicciones por consumo de tabaco, en el que deberá proporcionar a la población demandante los medicamentos que la enfermedad requiera.
+
+QUINTO.- La Secretaría de Educación Pública del Estado, deberá implementar en los programas oficiales del estado de Tabasco, la prevención de adicciones. Para lo cual proporcionará el espacio adecuado para que personal de la Secretaría de Salud del Estado de Tabasco, efectúen las pláticas, video, terapias grupales o el método preventivo correspondiente, a la población estudiantil de los niveles de primaria, secundaria y preparatoria, con la finalidad de evitar en lo posible la adicción al consumo de tabaco.
