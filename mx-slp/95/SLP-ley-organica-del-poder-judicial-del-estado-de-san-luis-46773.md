@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2006-09-12"
+last_updated: "2008-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -357,11 +357,15 @@ El Tribunal Electoral es un órgano especializado del Poder Judicial del Estado,
 
 El Tribunal se compondrá con una Sala de Segunda Instancia, que funcionará en forma colegiada; y con salas de Primera Instancia, que serán regionales y unitarias, en el número y con la competencia territorial que determine el Consejo de la Judicatura.
 
-El Tribunal Electoral se integrará durante la última quincena de octubre del año anterior al de la elección ordinaria de que se trate, e iniciará sus funciones con la instalación de la Sala de Segunda Instancia, y de la Sala Regional de Primera Instancia correspondiente a la zona centro, durante la primera quincena del mes de noviembre del mismo año.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+
+El Tribunal Electoral se integrará el tercer domingo del mes de agosto del año anterior al de la elección ordinaria de que se trate; e iniciará sus funciones con la instalación de la Sala de Segunda Instancia, y de la Sala Regional de Primera Instancia correspondiente a la zona centro.
 
 Las salas de Primera Instancia se instalarán durante el mes de enero del año de la elección, con un magistrado y el personal jurídico y administrativo necesario para el ejercicio de sus funciones; a excepción de la correspondiente a la región centro, que en cuanto al periodo de instalación estará a lo dispuesto en el párrafo anterior de este artículo.
 
-Concluido el proceso electoral, las salas de Primera y Segunda Instancia entrarán en receso, y sólo renovarán sus funciones cuando se interponga algún recurso del cual les corresponda conocer, pero lo harán únicamente por el tiempo estrictamente necesario para substanciarlo y resolverlo; también entrarán en funciones, en su caso, en los procesos electorales extraordinarios, desde que inicien hasta que concluyan.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Concluido el proceso electoral, las funciones de las Salas regionales de Primera Instancia, concluirán cuando se resuelve en forma definitiva e inatacable el último de los recursos de su competencia, presentados en la elección de que se trate. La Sala de Segunda Instancia continuará funcionando de manera permanente, con el personal estrictamente necesario para su funcionamiento, salvo en los casos de elecciones extraordinarias, en que las salas se integrarán de manera normal.
 
 ###### ARTICULO 27.
 
@@ -371,9 +375,11 @@ I. El Pleno del Supremo Tribunal de Justicia deberá presentar al Congreso del E
 
 II. De la lista propuesta por el Pleno del Supremo Tribunal de Justicia, el Congreso del Estado elegirá, dentro del plazo que señala el artículo 96 de la Constitución Política del Estado, por el voto de cuando menos las dos terceras partes de sus miembros presentes, a los magistrados numerarios y supernumerarios que integrarán cada Sala.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 28.
 
-Los magistrados del Tribunal Electoral concluirán sus funciones cuando se integre el Tribunal Electoral que conocerá de los recursos en el próximo proceso electoral ordinario, pudiendo ser reelectos.
+Los magistrados de las salas regionales de Primera Instancia del Tribunal Electoral, concluirán sus funciones cuando concluyan las propias de las salas en los términos del artículo 26, último párrafo de esta Ley, pudiendo ser reelectos para el siguiente proceso electoral ordinario.
 
 ###### ARTICULO 29.
 
@@ -421,9 +427,11 @@ Por lo que toca a los casos de excusas y recusaciones, se estará al procedimien
 
 La Sala de Segunda Instancia se integrará con tres magistrados numerarios y tres supernumerarios, designados por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de la propuesta que deberá presentar el Pleno del Supremo Tribunal de Justicia del Estado, cuando menos sesenta días antes del inicio del mes en que la Sala deba integrarse conforme a esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 37.
 
-Para efecto de lo señalado en el artículo inmediato anterior, el Pleno del Supremo Tribunal de Justicia incluirá en la propuesta, a cuando menos el doble de los magistrados a elegir conforme a esta Ley, por lo cual el Congreso del Estado nombrará, dentro del término que señala el artículo 96 de la Constitución Política del Estado, a los numerarios y a los supernumerarios; quienes concluirán su encargo cuando se integre el Tribunal que deberá conocer de los recursos en el próximo proceso electoral ordinario, pudiendo ser reelectos.
+Para efecto de lo señalado en el artículo inmediato anterior, el Pleno del Supremo Tribunal de Justicia incluirá en la propuesta, a cuando menos el doble de los magistrados a elegir conforme a esta Ley, por lo cual el Congreso del Estado nombrará, dentro del término que señala el artículo 96 de la Constitución Política del Estado, a los numerarios y a los supernumerarios, quienes durarán en su cargo siete años, pudieron ser reelectos.
 
 Para conformar las propuestas de magistrados del Tribunal Electoral, el Pleno del Supremo Tribunal de Justicia, tomará en consideración a profesionales del derecho de todas las zonas del Estado, valorando su probidad, honradez, solvencia moral, imparcialidad, capacidad profesional y conocimiento del derecho. Asimismo, revisará escrupulosamente que los profesionistas propuestos, cubran los mismos requisitos que establece la Constitución Política del Estado para ser Magistrado del Supremo Tribunal de Justicia, así como los particulares que señala esta Ley para serlo del Tribunal Electoral.
 
@@ -431,13 +439,17 @@ Para conformar las propuestas de magistrados del Tribunal Electoral, el Pleno de
 
 El Congreso del Estado deberá publicar en el Periódico Oficial del Estado, la designación de los magistrados integrantes de la Sala de Segunda Instancia del Tribunal Electoral, notificando además a los partidos políticos sobre dichas designaciones.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 39.
 
-El Presidente de la Sala de Segunda Instancia será electo por sus integrantes de entre sus miembros, y fungirá a la vez como Presidente del Tribunal Electoral.
+El Presidente de la Sala de Segunda Instancia será electo por sus integrantes de entre sus miembros, y fungirá a la vez como Presidente del Tribunal Electoral y durará en su cargo un año, pudiendo ser reelecto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 40.
 
-La Sala de Segunda Instancia funcionará en forma colegiada, y será competente para conocer durante y fuera del proceso electoral del recurso de reconsideración.
+La Sala de Segunda Instancia funcionará en forma colegiada, y será competente para conocer durante y fuera del proceso electoral de los recursos de Revisión y Reconsideración.
 
 La Sala de Segunda Instancia será la responsable de las tareas de formación, investigación, capacitación y difusión en la materia.
 
@@ -1946,3 +1958,17 @@ c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel 
 Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
 
 d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
+
+P.O. 10 DE MAYO DE 2008.
+
+PRIMERO. Previa la aprobación de las modificaciones a la Constitución Política del Estado, que se contienen en el artículo Primero del presente Decreto, por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución, este Decreto entrará en vigor en su integridad, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto, se abrogan, tanto la Ley Electoral del Estado, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 30 de septiembre de 1999; como la Ley de Referéndum y Plebiscito del Estado de San Luis Potosí, publicada en el mismo órgano de comunicación oficial el 30 de abril de 1997; asimismo, se derogan las disposiciones constitucionales, legales y administrativas que se le opongan.
+
+TERCERO. Respecto del artículo Segundo de este Decreto, por el que se expide la Ley Electoral del Estado de San Luis Potosí, se habrán de observar las previsiones siguientes:
+
+l. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulten electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente periodo, acorde con el dispositivo 63 antes citado;
+
+II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
+
+III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
