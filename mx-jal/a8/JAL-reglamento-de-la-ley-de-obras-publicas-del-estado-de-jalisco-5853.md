@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-obras-publicas-del-estado-de-jalisco-58
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-05-24"
-last_updated: "1999-07-22"
+last_updated: "2008-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 24 de mayo de 1990.
 
@@ -147,6 +147,18 @@ V. Racionalizar y simplificar las estructuras con que cuenten a efecto de utiliz
 ###### Art. 16.
 
 En los términos de la Ley, las Dependencias y Entidades sólo podrán realizar obras públicas por administración directa o por contrato. Para tal efecto dentro de su programa, elaborarán los presupuestos de cada una de las obras públicas que deban realizar, distinguiendo las que se han de ejecutar por contrato o por administración directa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2008)</small>
+
+Las Secretarías y dependencias del Poder Ejecutivo, así como los organismos públicos descentralizados y las entidades paraestatales del Estado, en sus contratos de obra pública, incluirán una cláusula conforme a la cual se aplicarán invariablemente el equivalente al cinco al millar sobre el importe de cada una de las estimaciones de los trabajos correspondientes, para la realización de los servicios de vigilancia, inspección y control sobre las obras públicas y servicios, así como el dos al millar de las obras realizadas por la administración directa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2008)</small>
+
+Las Secretarías y dependencias del Poder Ejecutivo así como los organismos públicos descentralizados y las entidades paraestatales del Estado incluirán, mediante una cláusula tanto en sus modelos de bases de licitación y de contrato como en estos instrumentos cuando se suscriban, la obligación de realizar las retenciones para la prestación de los servicios de vigilancia, inspección y control de las obras públicas y servicios relacionados con las mismas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2008)</small>
+
+La Secretaría de Finanzas retendrá los importes a que se refiere el párrafo anterior y dentro de los cinco días naturales siguientes a la conclusión de cada mes, emitirá un informe mensual sobre los ingresos retenidos, así como de las cifras globales de los ingresos acumulados en el ejercicio presupuestal. Dichos recursos se enterarán directamente a la Contraloría del Estado dentro de los diez primeros días naturales del mes inmediato posterior al en que se hubieren retenido.
 
 ### Capítulo III. Del Padrón de Constratistas (sic)
 
@@ -815,3 +827,7 @@ TRANSITORIO DEL DECRETO.
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE MAYO DE 2008.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
