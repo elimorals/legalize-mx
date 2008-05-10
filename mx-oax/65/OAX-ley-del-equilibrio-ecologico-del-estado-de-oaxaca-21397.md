@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-del-estado-de-oaxaca-21397"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-10"
-last_updated: "2005-03-22"
+last_updated: "2008-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLOGICO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 10 de octubre de 1998.
 
@@ -199,9 +199,13 @@ XIX.- El Municipio participará de manera concurrente con el Estado en las atrib
 
 XX.- Denunciar ante la autoridad competente, los hechos ilícitos materia de esta Ley;
 
-XXI.- Elaborar y aplicar los reglamentos que regulen la materia de la presente Ley; y
+XXI.- Elaborar y aplicar los reglamentos que regulen la materia de la presente Ley;
 
-XXII.- Los demás asuntos que prevean éste u otros ordenamientos.
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2008)</small>
+
+XXII.- En materia de prevención y control de la contaminación generada por los vehículos automotores que circulan en el Estado, hacer cumplir lo dispuesto por el articulo 91 de esta Ley, auxiliándose para tal efecto con las Autoridades de Tránsito en el Estado de Oaxaca;
+
+XXIII.- Los demás asuntos que prevean éste u otros ordenamientos.
 
 ###### ARTICULO 5.
 
@@ -243,11 +247,15 @@ XVII.- El establecimiento y operación de sistemas de monitoreo sobre los sistem
 
 XVIII.- El establecimiento de medidas y sanciones correspondientes al incumplimiento de esta Ley en los ámbitos de su competencia y a los Reglamentos que expidan los Ayuntamientos;
 
-XIX.- Vigilar el cumplimiento de las Normas Oficiales en las materias y supuestos referidos en las fracciones VII, VIII, IX y XIV del presente artículo;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2008)</small>
 
-XX.- La formulación, ejecución y evaluación del programa municipal de protección al ambiente, y
+XIX.- En materia de prevención y control de la contaminación atmosférica generada por vehículos automotores que circulen en la circunscripción territorial del Municipio en el ámbito de su competencia, hacer cumplir lo dispuesto por el articulo 91 de esta Ley, auxiliándose para tal efecto con las Autoridades de Tránsito en el Estado de Oaxaca;
 
-XXI.- Los demás asuntos que prevean ésta y otras Leyes.
+XX.- Vigilar el cumplimiento de las Normas Oficiales en las materias y supuestos referidos en las fracciones VII, VIII, IX y XIV del presente artículo;
+
+XXI.- La formulación, ejecución y evaluación del programa municipal de protección al ambiente, y
+
+XXII.- Los demás asuntos que prevean ésta y otras Leyes.
 
 Con base en la presente Ley, los Ayuntamientos emitirán los Bandos de Policía y Buen Gobierno, Reglamentos, Circulares y demás disposiciones administrativas para proveer su cumplimiento.
 
@@ -1856,3 +1864,7 @@ Al C...
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decretó entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
