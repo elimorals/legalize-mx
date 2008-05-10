@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-referendum-y-plebiscito-para-el-estado-de-san-luis-12208
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "1997-04-30"
+last_updated: "2008-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE REFERENDUM Y PLEBISCITO PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE REFERENDUM Y PLEBISCITO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 10 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -304,3 +306,19 @@ El Secretario General de Gobierno
 DR. JESUS EDUARDO NOYOLA BERNAL
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MAYO DE 2008.
+
+PRIMERO. Previa la aprobación de las modificaciones a la Constitución Política del Estado, que se contienen en el artículo Primero del presente Decreto, por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución, este Decreto entrará en vigor en su integridad, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto, se abrogan, tanto la Ley Electoral del Estado, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 30 de septiembre de 1999; como la Ley de Referéndum y Plebiscito del Estado de San Luis Potosí, publicada en el mismo órgano de comunicación oficial el 30 de abril de 1997; asimismo, se derogan las disposiciones constitucionales, legales y administrativas que se le opongan.
+
+TERCERO. Respecto del artículo Segundo de este Decreto, por el que se expide la Ley Electoral del Estado de San Luis Potosí, se habrán de observar las previsiones siguientes:
+
+l. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulten electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente periodo, acorde con el dispositivo 63 antes citado;
+
+II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
+
+III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
