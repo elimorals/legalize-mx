@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2007-10-18"
+last_updated: "2008-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -461,27 +461,33 @@ Corresponde a los ciudadanos, partidos políticos y al Consejo Estatal Electoral
 
 La ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 31.
 
-El Consejo Estatal Electoral es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propios, encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral, así como de preparar, desarrollar y vigilar los procesos electorales estatales y municipales, y se integrará conforme lo disponga la ley respectiva. El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, designará a los consejeros ciudadanos que lo integran y de entre ellos nombrará al Presidente de este Organismo.
+El Consejo Estatal Electoral y de Participación Ciudadana, es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento; con personalidad jurídica y patrimonio propios; encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral; de preparar, desarrollar y vigilar los procesos electorales estatales y municipales; así como los procesos de referéndum y plebiscito; integrado conforme lo disponga la ley respectiva. El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, designará a los consejeros ciudadanos que lo integran y, de entre ellos, nombrará al Presidente de este Organismo.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+La calificación de las elecciones de Gobernador, diputados locales, y ayuntamientos, corresponde al Consejo Estatal Electoral y de Participación Ciudadana, conforme lo disponga la ley de la materia.
 
-La calificación de las elecciones de Gobernador, Diputados locales y Ayuntamientos corresponderá al Consejo Estatal Electoral, conforme lo disponga la ley de la materia.
+El Consejo Estatal Electoral y de Participación Ciudadana, es competente para imponer las sanciones administrativas por infracción a las disposiciones electorales, en que incurran tanto los partidos políticos y agrupaciones políticas estatales, como los particulares; y para hacer del conocimiento de las autoridades competentes, las conductas infractoras atribuibles a servidores públicos, extranjeros y ministros de culto, para efecto de la imposición de las sanciones correspondientes.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+
+ARTÍCULO 31 BIS.- La Contraloría Interna es el órgano del Consejo Estatal Electoral y de Participación Ciudadana, con autonomía técnica y de gestión, para decidir sobre su funcionamiento; que tiene encomendada la fiscalización de los ingresos y egresos del Consejo; así como las funciones de control y vigilancia de los servidores públicos del mismo, excepción hecha de los consejeros ciudadanos.
+
+El titular de la Contraloría será electo, previa convocatoria pública, por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, y sólo podrá ser removido por las causas y en la forma que establezca la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 32.
 
-Para resolver las impugnaciones que se presenten en los procesos electorales, se instituirá un Tribunal Electoral, como órgano especializado del Poder Judicial del Estado, que será la máxima autoridad jurisdiccional en la materia.
+Para resolver las impugnaciones que se presenten en los procesos electorales, se instituirá un Tribunal Electoral, como órgano permanente y especializado del Poder Judicial del Estado, que será la máxima autoridad jurisdiccional en la materia.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+El procedimiento ante el Tribunal Electoral será de doble instancia dentro del proceso electoral, y de única instancia fuera del mismo; los magistrados que lo integren serán nombrados por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Supremo Tribunal de Justicia, de conformidad con lo establecido por la ley. Las salas de primera instancia podrán ser regionales y en el número que determine el Pleno del Supremo Tribunal de Justicia.
 
-El procedimiento ante el Tribunal Electoral será de doble instancia, y los magistrados que lo integren serán nombrados por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Supremo Tribunal de Justicia, de conformidad con lo establecido por la ley. Las salas de primera instancia podrán ser regionales y en el número que determine el Pleno del Supremo Tribunal de Justicia.
+Sin perjuicio de la competencia que le corresponde, la Sala de Segunda Instancia funcionará como Sala Auxiliar, con la competencia que al efecto le designe el Pleno del Supremo Tribunal de Justicia del Estado.
 
-El Presidente de cada Sala será electo por los integrantes de la misma.
+El Presidente de la Sala de Segunda Instancia será electo por los integrantes de la misma.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -529,25 +535,41 @@ Con las prerrogativas y derechos contenidos en la Constitución Política de los
 
 El referéndum y el plebiscito son instrumentos de consulta popular para decidir los actos de Gobierno que determine la ley.
 
-El Gobernador del Estado podrá someter, a través del organismo que la ley establezca para tal efecto, a referéndum total o parcial de los ciudadanos potosinos, las reformas a la legislación estatal, en materias trascendentales o de especial interés para la vida en común, excepto las de carácter tributario o fiscal, así como las reformas a la Constitución del Estado y a las leyes locales que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
-Los ciudadanos de la entidad podrán solicitar a dicho organismo que someta a referéndum total o parcial las reformas legislativas, en los términos del párrafo anterior.
+Los poderes Legislativo, y Ejecutivo, podrán someter, a través del Consejo Estatal Electoral y de Participación Ciudadana, a referéndum total o parcial de los ciudadanos potosinos, las reformas a la legislación estatal, en materias trascendentales o de especial interés para la vida en común, excepto las de carácter tributario o fiscal; así como las reformas a la Constitución del Estado y a las leyes locales, que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos.
 
-La ley establecerá las materias, requisitos, alcances, términos y procedimiento a que se sujetará el referéndum. El organismo resolverá con base en la trascendencia de la materia y en el cumplimiento de los requisitos que establezca la ley sobre la procedencia del mismo.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+Los ciudadanos de la Entidad podrán solicitar al Consejo Estatal Electoral y de Participación Ciudadana, que someta a referéndum total o parcial, las reformas legislativas, en los términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+
+La ley establecerá las materias, requisitos, alcances, términos y procedimiento a que se sujetará el referéndum. El Consejo Estatal Electoral y de Participación Ciudadana resolverá, con base en la trascendencia de la materia y en el cumplimiento de los requisitos que establezca la ley, sobre la procedencia del mismo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 39.
 
-El Gobernador del Estado, mediante plebiscito y a través del organismo que la ley establezca, podrá someter a consulta de los ciudadanos potosinos los actos que pretenda llevar a cabo y los convenios que proyecte celebrar con organismos públicos o privados.
+El Gobernador del Estado, mediante plebiscito y a través del Consejo Estatal Electoral y de Participación Ciudadana, podrá someter a consulta de los ciudadanos potosinos, los actos que pretenda llevar a cabo y los convenios que proyecte celebrar con organismos públicos o privados.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 En los mismos términos, el Congreso del Estado podrá llevar a cabo el plebiscito respecto de los actos que pretenda efectuar con relación a la formación, supresión o fusión de municipios.
 
-Los ayuntamientos, en las mismas condiciones, podrán solicitar al organismo que la ley señale, que someta a plebiscito de los ciudadanos de sus respectivos municipios los actos que pretendan efectuar, así como los convenios que tengan programado celebrar con otros municipios, entidades o particulares.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
-Los ciudadanos del Estado podrán solicitar que el organismo competente lleve a cabo el plebiscito respecto de los actos que el Ejecutivo del Estado o los Ayuntamientos vayan a ejecutar.
+Los ayuntamientos, en las mismas condiciones, podrán solicitar al Consejo Estatal Electoral y de Participación Ciudadana, que someta a plebiscito de los ciudadanos de sus respectivos municipios, los actos que pretendan efectuar, así como los convenios que tengan programado celebrar con otros municipios, entidades o particulares.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+
+Los ciudadanos del Estado podrán solicitar que el Consejo Estatal Electoral y de Participación Ciudadana, lleve a cabo el plebiscito respecto de los actos que el Ejecutivo del Estado o los ayuntamientos vayan a ejecutar.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 El plebiscito sólo procederá cuando se trate de actos trascendentales o de especial interés para la vida en común.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 La ley establecerá las materias, requisitos, alcances, términos y procedimiento para llevarlo a cabo.
 
@@ -613,9 +635,13 @@ Para ser Diputado se requiere:
 
 I.- Ser ciudadano potosino en ejercicio de sus derechos;
 
-II.- Tener la calidad de potosino por nacimiento con residencia efectiva en el Estado no menor de un año inmediato anterior al día de la elección y, si se trata de potosino por vecindad, la residencia efectiva inmediata anterior al día de la elección deberá ser no menor de tres años, a partir de la adquisición de la calidad de vecino;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
 
-III.- No haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión; y
+II.- Tener la calidad de potosino por nacimiento con residencia efectiva en el Estado no menor de seis meses inmediatos anteriores al día de la elección y, si se trata de potosino por vecindad, la residencia efectiva inmediata anterior al día de la elección deberá ser no menor de tres años, a partir de la adquisición de la calidad de vecino;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
+
+III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión; y
 
 IV.- Tener como mínimo veintiún años de edad al día de la elección.
 
@@ -1749,7 +1775,9 @@ I.- Ser ciudadano potosino en ejercicio de sus derechos;
 
 II.- Ser originario del municipio y con un año, por lo menos, de residencia efectiva en el mismo, inmediata anterior a la fecha de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la elección o designación; y
 
-III.- No haber sido condenado por sentencia firme, por la comisión de delitos dolosos que hayan ameritado pena de prisión.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
+
+III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
 
 Los Síndicos reunirán además los requisitos previstos en la ley orgánica respectiva.
 
@@ -2488,3 +2516,17 @@ DECIMO SEGUNDO. Los entes obligados deberán en un periodo no mayor de dieciocho
 DECIMO TERCERO. Se derogan todas aquellas disposiciones en leyes, reglamentos u ordenamientos legales, de igual, o menor jerarquía a esta Ley, que se le opongan.
 
 DECIMO CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública, que se expide mediante el presente Decreto, se concluirán en los términos de la ley que se abroga, por las autoridades que, conforme las disposiciones de la nueva ley, resulten competentes o que sustituyan a las autoridades que dejen de existir.
+
+P.O. 10 DE MAYO DE 2008.
+
+PRIMERO. Previa la aprobación de las modificaciones a la Constitución Política del Estado, que se contienen en el artículo Primero del presente Decreto, por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución, este Decreto entrará en vigor en su integridad, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto, se abrogan, tanto la Ley Electoral del Estado, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 30 de septiembre de 1999; como la Ley de Referéndum y Plebiscito del Estado de San Luis Potosí, publicada en el mismo órgano de comunicación oficial el 30 de abril de 1997; asimismo, se derogan las disposiciones constitucionales, legales y administrativas que se le opongan.
+
+TERCERO. Respecto del artículo Segundo de este Decreto, por el que se expide la Ley Electoral del Estado de San Luis Potosí, se habrán de observar las previsiones siguientes:
+
+I. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulte electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente periodo, acorde con el dispositivo 63 antes citado;
+
+II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
+
+III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
