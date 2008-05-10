@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2008-04-23"
+last_updated: "2008-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -307,9 +307,13 @@ IV.- Responder por sus actos u omisiones en los términos previstos en la Consti
 
 V.- Representar los intereses de los ciudadanos, así como promover y gestionar la solución de problemas y necesidades colectivas ante las autoridades competentes;
 
-VI.- Informar al Congreso, cuando se les requiera, acerca del cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2008)</small>
 
-VII.- Acatar las disposiciones del Pleno y de la Mesa Directiva del Congreso, y
+VI.- Elaborar un informe anual sobre las actividades desempeñadas relativas a su encargo, el cual deberá ser presentado en forma escrita ante el Pleno del Congreso o de la Diputación Permanente, en su caso, así como hacerse del conocimiento de la ciudadanía del Distrito que represente; o el de su residencia, si es de representación proporcional.
+
+El informe deberá ser rendido en el período comprendido del 1o. al 31 de octubre del año legislativo siguiente a aquel que se informa. El informe respecto del último año de ejercicio legislativo se rendirá en el período comprendido del 1o. al 30 de septiembre del año en que concluye la Legislatura;
+
+VII.- Acatar las disposiciones del Pleno y de la Mesa Directiva del Congreso, y (sic)
 
 VIII.- Presentar su declaración de situación patrimonial en los términos de la presente ley y demás disposiciones previstas en otros ordenamientos;
 
@@ -2190,3 +2194,9 @@ El presente decreto entrará en vigor inmediatamente después de su aprobación,
 ###### ARTÍCULO SEGUNDO.
 
 Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
+
+P.O. 10 DE MAYO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Esta reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
