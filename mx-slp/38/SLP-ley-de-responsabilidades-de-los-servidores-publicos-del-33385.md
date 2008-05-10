@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2007-10-02"
+last_updated: "2008-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -500,6 +500,10 @@ XXIV. Abstenerse de cualquier acto u omisión que implique incumplimiento de cua
 XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza, y a la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien, con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría, en el caso del Poder Ejecutivo, o de la Auditoría Superior del Estado cuando se trate de ayuntamientos y sus entidades, a propuesta razonada conforme a las disposiciones legales aplicables del titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno, con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, o bien, suspendido o inhabilitado como proveedor o contratista;
 
 XXVI. Abstenerse de destinar recursos materiales o humanos para apoyar las campañas electorales de partidos políticos o candidatos;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2008)</small>
+
+XXVI BIS. Abstenerse de difundir propaganda, bajo cualquier modalidad de comunicación social, con carácter ajeno al institucional y con fines distintos a los informativos, educativos o de orientación social. En ningún caso y, por ningún motivo, dicha propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público;
 
 XXVII. Efectuar la entrega de la administración a su cargo, dependencia, departamento o entidad, cuando concluya su encargo o cese en el desempeño del mismo por cualquier causa, o cuando su superior jerárquico así lo señale, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado de San Luis Potosí;
 
@@ -994,3 +998,17 @@ P.O. 2 DE OCTUBRE DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
+
+P.O. 10 DE MAYO DE 2008.
+
+PRIMERO. Previa la aprobación de las modificaciones a la Constitución Política del Estado, que se contienen en el artículo Primero del presente Decreto, por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución, este Decreto entrará en vigor en su integridad, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto, se abrogan, tanto la Ley Electoral del Estado, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 30 de septiembre de 1999; como la Ley de Referéndum y Plebiscito del Estado de San Luis Potosí, publicada en el mismo órgano de comunicación oficial el 30 de abril de 1997; asimismo, se derogan las disposiciones constitucionales, legales y administrativas que se le opongan.
+
+TERCERO. Respecto del artículo Segundo de este Decreto, por el que se expide la Ley Electoral del Estado de San Luis Potosí, se habrán de observar las previsiones siguientes:
+
+I. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulten electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente período, acorde con el dispositivo 63 antes citado;
+
+II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
+
+III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
