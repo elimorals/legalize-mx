@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2007-12-17"
+last_updated: "2008-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -71,9 +71,9 @@ ZONA "A".- Se referirá a los municipios de José María Morelos, Felipe Carrill
 
 ZONA "B".- Se referirá a los municipios de Othón P. Blanco, e Isla Mujeres.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-ZONA "C".- Se referirá a los municipios de Benito Juárez, Solidaridad y Cozumel.
+Zona C.- Se referirá a los municipios de Benito Juárez, Solidaridad, Cozumel y Tulum.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2733,11 +2733,9 @@ Este decreto entrará en vigor a partir del día 1 de enero de 1998, previa publ
 
 Se abroga la Ley de Hacienda Municipal publicada en el Periódico Oficial el 1 de enero de mil novecientos ochenta y dos, así como las reformas subsecuentes a la propia Ley.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2008)</small>
 
-###### ARTÍCULO TERCERO.
-
-Durante el ejercicio fiscal que transcurre, se faculta a los Ayuntamientos a conceder hasta el 15 de julio de 2005, un descuento hasta del 25% del total del importe del impuesto predial del ejercicio fiscal 2005.
+ARTÍCULO NOVENO (SIC).- Durante el Ejercicio Fiscal 2008, se faculta a los Ayuntamientos, a conceder a los contribuyentes un estímulo consistente en un descuento de hasta un 15% de total del importe del impuesto predial, en el plazo del 15 de mayo al 31 de julio del año en curso, conforme a las disposiciones generales que expidan los Ayuntamientos.
 
 SALON DE SESIONES DEL H. PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS NUEVE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
@@ -3214,3 +3212,7 @@ SEPTIMO.- En el momento en el quede sin efecto lo dispuesto en los artículos se
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 OCTAVO.- El presente decreto entrará en vigor a partir del 1º de enero del año 2008 previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado de Quintan Roo.
