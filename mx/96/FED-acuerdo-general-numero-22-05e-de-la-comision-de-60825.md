@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-22-05e-de-la-comision-de-60825"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-04-07"
-last_updated: "1999-04-07"
+last_updated: "2008-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60825&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-03-10"
 
 ACUERDO GENERAL NUMERO 22-05E, DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL TRIBUNAL ELECTORAL, SE AJUSTEN A LOS CRITERIOS PREVISTOS EN EL ARTICULO 134 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de abril de 1999.
 
@@ -115,6 +115,10 @@ Contratista: La persona física o moral con la que el Tribunal celebre contratos
 
 Tesorería: La Unidad de Tesorería del Tribunal Electoral del Poder Judicial de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+Comité: El Comité de Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública del Tribunal Electoral.
+
 TERCERO.- Los contratos que celebre el Tribunal en la materia son de carácter administrativo, destinados a satisfacer las necesidades del mismo para el debido cumplimiento de las funciones encomendadas por la Ley, y por tanto su naturaleza se considera de interés público.
 
 CUARTO.- Para los efectos del presente Acuerdo, las adquisiciones comprenderán los actos en virtud de los cuales, por una parte el proveedor se obliga a suministrar determinado bien mueble y por la otra, el Tribunal, a pagar por ello un precio determinado en dinero, mediante la formalización del contrato respectivo.
@@ -137,7 +141,9 @@ II. Los servicios relacionados con la misma, incluidos la instalación de bienes
 
 OCTAVO.- Los actos que celebre el Tribunal en la materia, se regirán por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Poder Judicial de la Federación, el presente Acuerdo, las demás disposiciones que en la materia emita la Comisión y los principios generales del derecho administrativo, aplicándose, únicamente de manera supletoria, el Código Civil para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia de Fuero Federal y el Código Federal de Procedimientos Civiles.
 
-NOVENO.- Están facultados para interpretar el presente Acuerdo, la Comisión y la Secretaría.
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+NOVENO.- Están facultados para interpretar el presente Acuerdo, la Comisión, la Secretaría y el Comité.
 
 DECIMO.- Las controversias que se susciten con motivo de la interpretación y resolución de los conflictos que se deriven de los contratos celebrados con base en el presente Acuerdo, así como del incumplimiento de las obligaciones contraídas por particulares, en virtud de las mismas, serán resueltas por los Tribunales Federales de la ciudad de México.
 
@@ -257,7 +263,9 @@ Los montos a que se refiere el presente punto serán aprobados anualmente por la
 
 Las operaciones que se realicen al amparo del presente punto no deberán fraccionarse con el objeto de quedar comprendidas en un procedimiento diverso de contratación.
 
-VIGESIMO QUINTO.- La Secretaría podrá adjudicar los contratos materia del presente Acuerdo sin necesidad de realizar licitación pública, en los siguientes supuestos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+VIGESIMO QUINTO.- El Comité podrá adjudicar los contratos materia del presente acuerdo sin necesidad de realizar licitación pública, en los siguientes supuestos:
 
 I. Adquisición de mobiliario y equipo de oficina que se adquieran con proveedores idóneos, para lograr la homogeneidad, los que se calificarán periódicamente por la Secretaría, a partir de una revisión comparativa de precios, calidad, oportunidad y relación comercial;
 
@@ -279,7 +287,11 @@ IX. Contratación de proyectos relacionados con obra pública, tratándose de ad
 
 X. Contratación de proyectos ejecutivos y supervisión de obra pública, cuando así se justifique por la capacidad técnica, financiera y legal del contratista, en cuyo caso, se convocará a aquellos contratistas que resulten idóneos de acuerdo a la información con que cuente la Unidad de Control de Obras y Conservación;
 
-XI. Contratación de proyectos ejecutivos, supervisión y realización de obra pública, cuando existan circunstancias que hayan generado un rezago considerable en la instalación o reubicación de áreas operativas u órganos administrativos debidamente autorizados, o bien, se presenten situaciones extraordinarias que impliquen la instalación o reubicación inmediata de dichas áreas y órganos.
+XI. Contratación de proyectos ejecutivos, supervisión y realización de obra pública, cuando existan circunstancias que hayan generado un rezago considerable en la instalación o reubicación de áreas operativas u órganos administrativos debidamente autorizados, o bien, se presenten situaciones extraordinarias que impliquen la instalación o reubicación inmediata de dichas áreas y órganos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE MAYO DE 2008)</small>
+
+XII. La adquisición o arrendamiento de algún bien, obra pública o servicio de cualquier naturaleza prestado por instituciones públicas.
 
 Las contrataciones a que se refiere el presente punto, se realizarán preferentemente mediante el procedimiento de invitación restringida, salvo que ello no fuere posible o no resulte conveniente para los intereses del Tribunal.
 
@@ -293,7 +305,11 @@ Asimismo, los contratos de prestación de servicios, podrán ser renovados por l
 
 VIGESIMO SEPTIMO.- En caso de que la adjudicación de las adquisiciones, los arrendamientos, la prestación de servicios o la obra pública sea urgente, derivado de caso fortuito o fuerza mayor, independientemente del costo estimado, la Secretaría adjudicará la contratación mediante adjudicación directa, informando de esto a la Comisión, en la próxima sesión que se lleve a cabo.
 
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
 VIGESIMO OCTAVO.- Previo al inicio de los procedimientos, las áreas operativas deberán contar con saldo disponible en la partida presupuestal correspondiente, para lo cual Control Presupuestal adoptará los mecanismos necesarios a fin de que las áreas cuenten con la información respectiva de manera ágil y expedita. Asimismo el ejercicio del gasto deberá ser justificado, conforme a lo dispuesto por la normatividad emitida por el Tribunal aplicable a la materia.
+
+Excepcionalmente el Comité podrá autorizar se realicen pagos por adelantado, tratándose de pólizas de seguros, suscripción a revistas, periódicos y otros cuya naturaleza así lo requieran.
 
 VIGESIMO NOVENO.- Las áreas operativas podrán solicitar a la Secretaría la contratación de asesorías técnicas externas para una mejor realización de las adquisiciones, arrendamientos y prestación de servicios, así como de la obra pública, incluyendo la realización de investigaciones de mercado, verificación de precios, pruebas de calidad y demás actividades relacionadas. La Secretaría someterá la solicitud a la Comisión para su autorización, siempre y cuando por el monto de la operación deba seguirse el procedimiento de licitación pública.
 
@@ -373,13 +389,11 @@ IX. La indicación de la fecha, hora y lugar del acto de apertura de propuestas 
 
 Las convocatorias se publicarán en la sección especializada del Diario Oficial de la Federación, y cuando la contratación se realice en un Estado de la República, adicionalmente en un diario de los de mayor circulación en la localidad.
 
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
 TRIGESIMO SEXTO.- Las bases se pondrán a disposición de cualquier interesado para su consulta y revisión, proporcionándose la misma información sin favorecer a algún participante.
 
 En caso de que las bases impliquen un costo, los interesados deberán cubrirlo en la Tesorería previamente a su inscripción, para recuperar así los gastos originados por éstas.
-
-Para tener derecho a presentar propuestas, los interesados deberán inscribirse a la licitación en la oficina del área operativa que corresponda, presentando, en su caso, el recibo que expida la Tesorería.
-
-Tratándose de obra pública, previamente a la venta de bases se realizará la revisión de la documentación solicitada a fin de verificar que los interesados cumplan con los requisitos de la convocatoria a que se refieren las fracciones VII y VIII del punto precedente y, por tanto, se encuentren en aptitud de adquirir las bases y presentar sus propuestas.
 
 TRIGESIMO SEPTIMO.- En caso de resultar necesario se celebrará, previo al acto de apertura de propuestas, el acto de aclaración a las bases en el cual se dará respuesta a las dudas que llegaren a surgir a los concursantes respecto del procedimiento licitatorio en general. Del acto de aclaraciones se levantará un acta circunstanciada en la que se harán constar todos los aspectos que se trataron en el mismo y se entregará copia a los concursantes que participen en la licitación. Las aclaraciones que se formulen en dicho acto, formarán parte de las bases y por tanto su observancia será obligatoria.
 
@@ -387,23 +401,33 @@ La asistencia al acto de aclaraciones no será requisito indispensable para pres
 
 Sólo se realizarán aclaraciones fuera del propio acto, en caso de que resulte en beneficio del procedimiento licitatorio y se haga del conocimiento de todos los participantes.
 
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
 TRIGESIMO OCTAVO.- En caso de prestación de servicios y de obra pública, podrá realizarse una visita al lugar en que se prestarán los servicios o se ejecutarán los trabajos de la obra respectivamente.
 
 El área operativa, según corresponda, expedirá a los participantes una constancia de asistencia a la visita, la cual, será requisito para tener derecho a presentar propuestas.
+
+En caso de inasistencia, el participante deberá presentar un documento en el que bajo protesta de decir verdad, afirme conocer el lugar en el que se van a realizar los trabajos.
 
 TRIGESIMO NOVENO.- Sólo fundadamente y con conocimiento de todos los participantes podrán modificarse las condiciones y plazos establecidos en las bases, mediando por lo menos cinco días hábiles entre la notificación y la fecha señalada para la entrega de las propuestas. Si las modificaciones derivan de la junta de aclaraciones, a más tardar en el plazo señalado en este punto, se entregará copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la correspondiente licitación.
 
 CUADRAGESIMO.- Los participantes deberán contemplar en la propuesta técnica que presenten los siguientes aspectos:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 13 DE MAYO DE 2008)</small>
+
 I. La descripción detallada de los bienes, servicios o de la información solicitada en la obra pública;
 
-II. Tratándose de obra pública y prestación de servicios, en su caso, anexarán la constancia de visita al lugar donde se realizará la obra o donde se prestarán los servicios;
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2008)</small>
+
+II. Tratándose de obra pública y prestación de servicios, en su caso, anexarán la constancia de visita al lugar donde se realizará la obra o el documento en el que conforme a lo dispuesto en el punto Trigésimo Octavo, bajo protesta de decir verdad, se afirme conocer el lugar en el que se van a realizar los trabajos;
 
 III. La información técnica adicional de los bienes o servicios ofertados que se requiera de acuerdo a la complejidad y especialización que revistan los mismos;
 
 IV. Las garantías de los bienes y, en su caso, de las refacciones;
 
-V. Tratándose de obra pública, las bases de la licitación y toda la documentación proporcionada por el Tribunal, firmados por el representante legal o persona autorizada del licitante;
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2008)</small>
+
+V. Tratándose de obra pública, las bases de la licitación y toda la documentación proporcionada por el Tribunal;
 
 VI. En el caso de obra pública, adicionalmente, los programas calendarizados de utilización de equipo, maquinaria, mano de obra, y personal técnico, y
 
@@ -429,81 +453,101 @@ VIII. En obra pública, el análisis de porcentajes de costos indirectos, financ
 
 IX. Los demás requisitos establecidos en las bases de licitación.
 
-CUADRAGESIMO SEGUNDO.- La entrega de las propuestas se efectuará en el acto de apertura de las mismas, las cuales se presentarán en tres sobres cerrados que contendrán por separado, la documentación legal y contable, la propuesta técnica y la propuesta económica, anexando en este último la garantía de sostenimiento de propuestas, con el fin de que el monto de la misma no sea conocido hasta la segunda etapa.
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
 
-Las propuestas deberán presentarse por escrito en original, en papelería membretada del licitante, foliada y firmada en todas sus hojas por el representante legal o persona legalmente autorizada, no debiendo contener tachaduras o enmendaduras.
+CUADRAGESIMO SEGUNDO.- La entrega de las propuestas se efectuará en el acto de apertura de las mismas, las cuales se presentarán en un sobre único cerrado que contendrá por separado, la documentación legal y contable, la propuesta técnica y la propuesta económica, anexando la garantía de sostenimiento de propuestas.
+
+Al acto de apertura de propuestas deberá acudir invariablemente el representante legal del licitante.
+
+Las propuestas deberán presentarse por escrito en original, en papelería membretada del licitante, firmada en todas sus hojas por el representante legal o persona legalmente autorizada, no debiendo contener tachaduras o enmendaduras, de preferencia foliada, no implicando esto último que por su incumplimiento sea motivo de descalificación.
+
+El área operativa, para hacer la evaluación de las proposiciones, la que deberá hacerse dentro de los cinco días siguientes a la presentación, podrá realizar una verificación previa a la documentación legal y contable, a efecto de determinar si las mismas cumplen con los requisitos solicitados en las bases de licitación. Lo anterior, con el propósito de facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación; así como cualquier otro requisito cuyo incumplimiento, por sí mismo, no afecte la solvencia de las propuestas.
+
+Quedan comprendidos entre los requisitos cuyo incumplimiento, por sí mismos, no afectan la solvencia de la propuesta los siguientes: el proponer un plazo de entrega menor al solicitado, en cuyo caso, prevalecerá el estipulado en las bases de licitación; el omitir aspectos que puedan ser cubiertos con información contenida en la propia propuesta técnica o económica; el no observar los formatos establecidos, si se proporciona de manera clara la información requerida; o cualquier otro que no tenga por objeto determinar objetivamente la solvencia de la propuesta presentada. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas. En ningún caso podrán suplirse las deficiencias sustanciales de las propuestas presentadas.
+
+Para tener derecho a presentar propuestas, los interesados deberán inscribirse a la licitación en la oficina del área operativa que corresponda, presentando, en su caso, el recibo que expida la Tesorería.
+
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
 
 CUADRAGESIMO TERCERO.- El acto de apertura de propuestas se realizará en sesión pública que presidirá el servidor público autorizado por la Secretaría, con la participación de la Contraloría, y el área operativa que corresponda en el ámbito de sus respectivas competencias, conforme a lo siguiente:
 
-I. El acto de apertura de propuestas comprenderá dos etapas, pudiendo celebrarse en un solo evento cuando la naturaleza y complejidad de la licitación así lo permita;
+I. El acto de presentación y apertura de propuestas será en un solo evento, descalificándose, en su momento oportuno, a los que omitan alguno de los requisitos exigidos en las bases o en el presente Acuerdo, se revisará que las garantías de sostenimiento cumplan con los requisitos solicitados y se dará lectura en voz alta al importe de las propuestas económicas.
 
-II. En la primera etapa los licitantes entregarán sus propuestas en sobres cerrados. Se revisará la documentación legal y contable presentada por los participantes, descalificándose a los que no presenten la totalidad de documentos solicitados en las bases.
+II. En caso de obra pública, adicionalmente, Contraloría deberá emitir opinión respecto de la documentación financiera y contable dentro de un plazo que no excederá de cinco días hábiles. De no emitir opinión dentro de dicho plazo, se continuará con el procedimiento.
 
-En caso de obra pública, adicionalmente, Contraloría deberá emitir opinión respecto de la documentación financiera y contable dentro de un plazo que no excederá de cinco días hábiles. De no emitir opinión dentro de dicho plazo, se continuará con el procedimiento.
+III. Dos participantes, cuando menos, así como los servidores públicos asistentes al acto, rubricarán todas las propuestas técnicas y económicas presentadas. En materia de obra pública, respecto de la propuesta económica se rubricará la documentación correspondiente a los programas calendarizados de utilización de equipo, maquinaria, mano de obra y personal técnico.
 
-Se procederá a la apertura de la propuesta técnica exclusivamente y se descalificarán las que hubieren omitido alguno de los requisitos establecidos en las bases, las que serán devueltas transcurridos diez días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
+Del acto de apertura de propuestas, el área operativa que corresponda, levantará acta circunstanciada en la que se hará constar de manera detallada su desarrollo, la cual será firmada por los asistentes.
 
-Dos participantes, cuando menos, así como los servidores públicos asistentes al acto, rubricarán todas las propuestas técnicas presentadas. En materia de obra pública, únicamente se rubricará la documentación correspondiente a los programas calendarizados de utilización de equipo, maquinaria, mano de obra y personal técnico.
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
 
-En caso de que la apertura de las propuestas económicas no se realice en la misma fecha, los sobres cerrados que las contengan serán firmados por los licitantes y los servidores públicos presentes y quedarán en custodia del área operativa que corresponda, quien informará en dicho acto la fecha, lugar y hora en que se llevará a cabo la segunda etapa.
+CUADRAGESIMO CUARTO.- El área operativa que corresponda, bajo criterios objetivos y razonables, hará el análisis detallado de las propuestas técnicas y económicas, el cual se hará constar en un dictamen de adjudicación en el que se asentarán aquellas que cumplen con los requerimientos establecidos en las bases de la licitación, así como las razones por las que alguna propuesta, en su caso, no resulte satisfactoria, debiéndose informar a los participantes la causa de descalificación.
 
-III. En la segunda etapa se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido descalificadas en la primera etapa o en el análisis detallado de las mismas, se revisará que las garantías de sostenimiento de propuestas cumplan con los requisitos solicitados y correspondan al monto que deban garantizar, y se dará lectura en voz alta al importe de dichas propuestas.
+El dictamen de adjudicación elaborado por el área operativa deberá contener los siguientes aspectos:
 
-Entre la primera etapa y la segunda, el área operativa que corresponda, hará el análisis detallado de las propuestas técnicas, el cual se hará constar en un dictamen técnico en el que se asentarán aquellas que cumplen con los requerimientos establecidos en las bases de la licitación, así como las razones por las que alguna propuesta, en su caso, no resulte satisfactoria.
+I. El dictamen técnico debidamente motivado por el área técnica, en el cual se hará constar la calificación técnica de las propuestas presentadas;
 
-De las etapas del acto de apertura de propuestas, el área operativa que corresponda, levantará acta circunstanciada en la que se hará constar de manera detallada su desarrollo, la cual será firmada por los asistentes. La falta de firma por parte de algún proveedor o contratista no invalidará el contenido del acta.
-
-CUADRAGESIMO CUARTO.- El área operativa, según corresponda, elaborará un informe ejecutivo que deberá contener los siguientes aspectos:
-
-I. El dictamen técnico debidamente motivado, en el cual se hará constar la calificación técnica de las propuestas presentadas;
-
-II. El cuadro comparativo que contenga las propuestas económicas de los concursantes que aprobaron la evaluación técnica;
+II. El cuadro comparativo que contenga las propuestas económicas de los concursantes que aprobaron la evaluación técnica, emitiéndose para esos efectos el dictamen económico correspondiente;
 
 III. En general, el desarrollo del procedimiento de licitación incluyendo las incidencias que en su caso se hayan presentado;
 
-IV. La propuesta de adjudicación al concursante que ofrezca las mejores condiciones para Tribunal, y
+IV. La propuesta de adjudicación al concursante que ofrezca las mejores condiciones para el Tribunal, y
 
-V. En su caso, los motivos por los cuales se declarará desierta la licitación, señalando el procedimiento que se realizará para la contratación.
+V. De ser necesario, los motivos por los cuales se declarará desierta la licitación, señalando el procedimiento que se realizará para la contratación.
 
-Dicho informe será sometido a consideración de la Secretaría a fin de que ésta lo presente a la Comisión como fundamento para la adjudicación.
+Dicho dictamen de adjudicación será presentado a consideración del Comité como fundamento para la adjudicación.
 
-CUADRAGESIMO QUINTO.- Una vez autorizada la adjudicación por la Comisión, se emitirá el fallo, el cual se dará a conocer a los participantes en sesión pública.
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+CUADRAGESIMO QUINTO.- Una vez autorizada la adjudicación por el Comité, se emitirá el fallo, el cual se dará a conocer a los participantes en sesión pública.
 
 En caso de que no sea posible celebrar sesión pública, el área operativa que corresponda deberá notificarlo por escrito a los participantes.
 
 CUADRAGESIMO SEXTO.- El incumplimiento a cualesquiera de las condiciones establecidas en las bases de la licitación y la contravención a lo dispuesto por el presente Acuerdo y demás disposiciones aplicables por parte de algún concursante, será motivo de descalificación, lo cual se hará de su conocimiento en la etapa correspondiente y se asentará en el acta.
 
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
 CUADRAGESIMO SEPTIMO.- El área operativa que corresponda, declarará desierta la licitación pública en los siguientes supuestos:
 
 I. En caso de que no se registre ningún concursante a la licitación;
 
-II. En caso de que ninguna de las propuestas presentadas reúna los requisitos establecidos en las bases de la licitación;
+II. En caso de que ninguna de las propuestas presentadas reúna los requisitos sustanciales establecidos en las bases de la licitación;
 
 III. En caso de que los precios propuestos no fueren aceptables previa investigación de mercado realizada por el área operativa, y
 
 IV. Por razones de interés general.
 
-Una vez declarada desierta la licitación se efectuará la contratación mediante el procedimiento de invitación restringida, y en caso de que éste también sea declarado desierto, se realizará mediante adjudicación directa.
+Una vez declarada desierta la licitación se podrá efectuar la contratación mediante el procedimiento de invitación restringida, y en caso de que éste también sea declarado desierto, se realizará mediante adjudicación directa.
 
-En ambos casos, previamente a la realización del procedimiento, se solicitará autorización a la Secretaría y ésta a su vez, dará cuenta a la Comisión mediante un informe ejecutivo.
+En ambos casos, previamente a la realización del procedimiento, se solicitará autorización al Comité mediante el informe ejecutivo correspondiente, que elaborará el área operativa.
 
 Tratándose de licitaciones en las que una o varias partidas se declaren desiertas en virtud de los supuestos antes enunciados, se procederá a su contratación en los términos del presente punto, o bien, cuando proceda por su monto, mediante adjudicación directa.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 13 DE MAYO DE 2008)</small>
 
 CUADRAGESIMO OCTAVO.- Las áreas operativas, en la realización de las licitaciones públicas, observarán los siguientes plazos:
 
 I. La consulta y, en su caso, venta de bases se realizará durante un plazo mínimo de cinco días hábiles contados a partir de la fecha de publicación de la convocatoria;
 
-II. Entre el último día de venta de bases y el acto de apertura de propuestas deberá mediar un plazo mínimo de cinco días hábiles;
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2008)</small>
+
+II. Entre el último día de venta de bases y el acto de presentación y apertura de propuestas deberá mediar un plazo mínimo de cinco días hábiles;
 
 III. En caso de que se requiera visitar el lugar donde se prestarán los servicios o se ejecutarán los trabajos de la obra, ésta será celebrada dentro de los cinco días hábiles siguientes al último día de venta de bases, mediando un plazo mínimo de cinco días hábiles entre su celebración y el acto de apertura de propuestas;
 
-IV. Para la emisión del informe ejecutivo deberá mediar un plazo máximo de veinte días hábiles contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas técnicas. En casos excepcionales, por la complejidad de la licitación, a juicio de la Secretaría, el plazo podrá prorrogarse hasta en veinte días hábiles adicionales;
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2008)</small>
 
-V. Entre la presentación del informe ejecutivo a la Secretaría y la emisión del fallo, mediará un plazo máximo de diez días hábiles.
+IV. Para la emisión del dictamen de adjudicación deberá mediar un plazo máximo de veinte días hábiles contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas. En casos excepcionales, por la complejidad de la licitación, a juicio del área operativa, el plazo podrá prorrogarse hasta en veinte días hábiles adicionales;
+
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2008)</small>
+
+V. Entre la presentación del dictamen de adjudicación al Comité y la emisión del fallo, mediará un plazo máximo de diez días hábiles.
 
 #### Sección III. De la Invitación Restringida
 
-CUADRAGESIMO NOVENO.- La invitación restringida es el procedimiento alterno a la licitación pública por no resultar ésta idónea para asegurar al Tribunal las mejores condiciones, derivado de un supuesto de excepción ya sea por el monto o por la naturaleza de la operación, a través del cual el Tribunal, por conducto de la Secretaría, podrá adjudicar los contratos sin necesidad de realizar convocatoria pública, sujetándose a las formalidades establecidas en el presente Capítulo.
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+CUADRAGESIMO NOVENO.- La invitación restringida, de acuerdo con los montos autorizados por la Comisión, es el procedimiento alterno a la licitación pública por no resultar ésta idónea para asegurar al Tribunal las mejores condiciones, derivado de un supuesto de excepción ya sea por el monto o por la naturaleza de la operación, a través del cual el Tribunal, por conducto del Comité, podrá adjudicar los contratos sin necesidad de realizar convocatoria pública, sujetándose a las formalidades establecidas en el presente Capítulo.
 
 QUINCUAGESIMO.- El procedimiento de invitación restringida se iniciará con la invitación que realice el área operativa correspondiente, a cuando menos tres proveedores o contratistas que resulten idóneos de acuerdo al objeto de la contratación.
 
@@ -523,7 +567,9 @@ III. Para la apertura de las propuestas, invariablemente, se invitará a la Cont
 
 Los plazos para la presentación de las propuestas se fijarán en cada operación atendiendo a la complejidad de la contratación.
 
-QUINCUAGESIMO TERCERO.- Para la adjudicación del contrato, el área operativa correspondiente, elaborará un informe ejecutivo que contendrá los siguientes aspectos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+QUINCUAGESIMO TERCERO.- Para la adjudicación del contrato, el área operativa correspondiente, elaborará un dictamen de adjudicación que contendrá los siguientes aspectos:
 
 I. El dictamen técnico en el que se asiente la evaluación técnica de las propuestas presentadas, indicando aquellas que cumplen con los requisitos establecidos en las bases o invitación respectiva;
 
@@ -533,7 +579,9 @@ III. La propuesta de adjudicación, y
 
 IV. En caso de resultar desierta la invitación restringida se señalará el procedimiento mediante el cual se adjudicará el contrato.
 
-El área operativa que corresponda, someterá el informe ejecutivo a consideración de la Secretaría, con el objeto de que ésta decida sobre la adjudicación del contrato; en su oportunidad, la Secretaría dará cuenta a la Comisión.
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+El área operativa que corresponda, someterá el dictamen de adjudicación a consideración del Comité, con el objeto de que éste decida sobre la adjudicación del contrato; en su oportunidad, la Secretaria dará cuenta a la Comisión.
 
 QUINCUAGESIMO CUARTO.- Una vez autorizada la adjudicación por la Secretaría, el área operativa correspondiente, dará a conocer por escrito el fallo a los participantes.
 
@@ -589,11 +637,15 @@ SEXAGESIMO.- Los contratos serán adjudicados a la persona que de entre los part
 
 Los contratos que se celebren con base en un procedimiento de adjudicación directa, serán adjudicados a la persona que ofrezca al Tribunal las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-SEXAGESIMO PRIMERO.- Para la adjudicación de los contratos se atenderá a los siguientes criterios de evaluación:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 2008)</small>
+
+SEXAGESIMO PRIMERO.- Para la adjudicación de los contratos, se atenderá a los siguientes criterios de evaluación:
 
 I. En materia de adquisiciones, arrendamientos y prestación de servicios, a fin de determinar la solvencia de las propuestas, el área operativa que corresponda, las evaluará considerando las características técnicas mínimas, la calidad, tiempo, lugar y condiciones de entrega o de ejecución, y demás circunstancias establecidas en las bases o invitación respectiva, calificando únicamente aquellos concursantes que cumplan con la totalidad de los aspectos enunciados.
 
-II. En materia de obra pública, además de los aspectos señalados, la Unidad de Control de Obras y Conservación evaluará la solvencia de las propuestas económicas, verificando que el ochenta por ciento de los conceptos más representativos ofertados, no sean inferiores o superiores en más de un quince por ciento del presupuesto base, de acuerdo a los precios base con que cuente dicha área previamente al procedimiento de adjudicación, los cuales serán obtenidos mediante el estudio de mercado correspondiente.
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2008)</small>
+
+II. En materia de obra pública, además de los aspectos señalados, la Dirección General de Control de Obras y Conservación, descalificará aquellas propuestas económicas que considere insolventes, debiendo fundar y motivar tal determinación.
 
 En las bases de la licitación deberá establecerse la indicación de que los concursantes que se encuentren en posibilidad de ofertar insumos por debajo de los precios de mercado, deberán incluir en su propuesta económica la documentación soporte correspondiente a fin de que la Unidad de Control de Obras y Conservación lo considere en la evaluación.
 
@@ -617,7 +669,7 @@ I. La Unidad de Control de Obras y Conservación podrá, con la autorización de
 
 Si las modificaciones exceden el porcentaje indicado o varían substancialmente el objeto del contrato, se celebrará un convenio adicional entre las partes respecto de las nuevas condiciones con autorización de la Secretaría, quien dará cuenta en su oportunidad a la Comisión.
 
-II. La Secretaría, por razones fundadas, podrá acordar el incremento en la cantidad de bienes adquiridos mediante modificaciones a los contratos vigentes, dentro de los seis meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el quince por ciento de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente, salvo fluctuaciones de carácter monetario o condiciones especiales del mercado debidamente justificadas, para lo cual se tomará como referencia el Indice Nacional de Precios al Consumidos (sic) que publica el Banco de México.
+II. La Secretaría, por razones fundadas, podrá acordar el incremento en la cantidad de bienes adquiridos mediante modificaciones a los contratos vigentes, dentro de los seis meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el quince por ciento de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente, salvo fluctuaciones de carácter monetario o condiciones especiales del mercado debidamente justificadas, para lo cual se tomará como referencia el Indice Nacional de Precios al Consumidos que publica el Banco de México.
 
 Igual porcentaje se aplicará a las modificaciones o prórrogas que se hagan respecto de la vigencia de los contratos de arrendamientos o prestación de servicios.
 
@@ -918,3 +970,13 @@ OCTAVO.- A efecto de determinar los procedimientos de contratación durante el e
 NOVENO.- Los procedimientos de adjudicación en la materia objeto del presente Acuerdo que hayan iniciado con anterioridad a su entrada en vigor, se regirán por la normatividad que se venía aplicando, salvo aquellos en que la Comisión o la Secretaría determinen lo contrario, salvaguardándose en todo caso los derechos que correspondan.
 
 EL LICENCIADO JOSE LUIS DIAZ VAZQUEZ, SECRETARIO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, PREVIA AUTORIZACION DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION, CERTIFICA: Que este Acuerdo General número 22-05E, que fija las bases para que las adquisiciones, arrendamientos, prestación de servicios y obra pública en el Tribunal Electoral, se ajusten a los criterios previstos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, fue aprobado por el Pleno de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, por unanimidad de votos de los señores Comisionados: Presidente magistrado José Luis de la Peza Muñoz Cano, Leonel Castillo González, Mario Melgar Adalid, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a diez de marzo de mil novecientos noventa y nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 13 DE MAYO DE 2008.
+
+PRIMERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan en lo conducente todas las disposiciones, Acuerdos, lineamientos, manuales de organización y procedimientos que se opongan al presente Acuerdo.
