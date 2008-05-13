@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-del-estado-de-campeche-3642"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2006-09-15"
+last_updated: "2008-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE SALUD DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 13 DE MAYO DE 2008., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 31 de diciembre de 1987.
 
@@ -4474,3 +4476,15 @@ P.O. 15 DE SEPTIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La dependencia responsable tomará las previsiones presupuestarias necesarias para los efectos de este decreto.
+
+P.O. 13 DE MAYO DE 2008.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Salud del Estado de Campeche expedida por decreto número 110, de la LII Legislatura del Congreso del Estado de Campeche, publicado el 31 de diciembre de 1987 en el Periódico Oficial del Estado.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+Cuarto.- El Gobernador del Estado, en un plazo de ciento ochenta días hábiles, contados a partir del día siguiente a la fecha en que entre en vigor este decreto, deberá expedir los Reglamentos a que se refiere el artículo 187 de esta Ley; entretanto se expiden dichos reglamentos se (sic) aplicarán, en lo que no contravengan el contenido de este decreto, las disposiciones que sobre la materia se contienen en la Ley que se abroga.
+
+Quinto.- En aquellas poblaciones de la entidad en las que los servicios a población abierta no sean cubiertos por las instituciones de salud federal, a cuya jurisdicción corresponde la prestación, así como en los casos en que en las mismas se den situaciones de emergencias sanitarias, el Estado procederá a prestar esos servicios, en términos de los convenios o acuerdos de coordinación específicos que al efecto tenga celebrados o celebre con la federación, conforme a su disponibilidad presupuestal.
