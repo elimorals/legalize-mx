@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-453
 country: "mx"
 rank: "otro"
 publication_date: "2004-07-19"
-last_updated: "2007-06-30"
+last_updated: "2008-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45385&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,49 +20,131 @@ issue_date: "2004-04-14"
 
 DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA ORIENTAL DEL URUGUAY
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el sábado 30 de junio de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de mayo de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal y 2o. y 14 de la Ley de Comercio Exterior, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay fue aprobado por el Senado de la República el 28 de abril de 2004, y promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay (Tratado) fue aprobado por el Senado de la República el 28 de abril de 2004, y promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
 
-Que el 19 de julio de 2004 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de la República Oriental del Uruguay, modificado por los diversos dados a conocer en el mismo órgano de difusión el 5 de septiembre y el 27 de noviembre de 2006;
+Que en el Tratado se establecieron condiciones para la eliminación de aranceles aduaneros para el comercio de mercancías originarias entre ambas Partes, con reglas de origen y mecanismos específicos para definir tales mercancías;
 
-Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
+Que con el fin de facilitar el despacho aduanero de las mercancías conforme a las tasas preferenciales establecidas en el Tratado, el 19 de julio de 2004 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de la República Oriental del Uruguay, modificado por los diversos dados a conocer en el mismo órgano de difusión el 5 de septiembre y 27 de noviembre de 2006 y el 30 de junio de 2007;
 
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
+Que el 1 de agosto de 2005, la Secretaría General de la Asociación Latinoamericana de Integración (ALADI) expidió el Acta de Rectificación al Acuerdo de Complementación Económica No. 60 suscrito entre México y Uruguay (Tratado de Libre Comercio), por la que se corrigieron los errores detectados por las Partes y la propia Secretaría General de la ALADI al citado instrumento, misma que fue aprobada por el Senado de la República el 26 de abril de 2007, según Decreto publicado en el Diario Oficial de la Federación el 19 de junio de 2007, y
 
-Que resulta necesario ajustar el Decreto mencionado en el segundo considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+Que resulta necesario ajustar el Decreto mencionado en el tercer considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
 
 DECRETO
 
 ###### ARTÍCULO 1.
 
-Se actualizan en el ARTÍCULO 3 del Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación, para las mercancías originarias de la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 19 de julio de 2004, y sus reformas, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+Se modifica el texto de la descripción de la fracción arancelaria 0406.90.04 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, contenida en el ARTÍCULO 3 del Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación, para las mercancías originarias de la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 19 de julio de 2004, y sus reformas, para quedar como sigue:
 
-(VEASE ARCHIVO ANEXO)
+Fracción Descripción
+
+0406.90.04 Duros o semiduros con un contenido en
+
+peso de materias grasas inferior o igual
+
+al 40%: únicamente Grana o
+
+Parmegiano-reggiano, con un contenido
+
+en peso de agua, en la materia no grasa,
+
+inferior o igual al 47%; únicamente Danbo,
+
+Edam, Fontal, Fontina, Fynbo, Gouda, Havarti,
+
+Maribo, Samsoe, Esrom, Itálico, Kernhem,
+
+Saint-Nectaire, Saint-Paulin o Taleggio,
+
+con un contenido en peso de agua, en la
+
+materia no grasa, superior al 47% sin exceder
+
+de 72%.
 
 ###### ARTÍCULO 2.
 
-Se actualizan en el ARTÍCULO 5 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+Se eliminan del ARTÍCULO 9 del Decreto señalado en el ARTÍCULO 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponda según su numeración:
 
-(VEASE ARCHIVO ANEXO)
+Fracción Preferencia arancelaria
+
+0306.11.01 ELIMINADA.
+
+0306.12.01 ELIMINADA.
+
+0306.13.01 ELIMINADA.
+
+0306.14.01 ELIMINADA.
+
+0306.21.01 ELIMINADA.
+
+0306.22.01 ELIMINADA.
+
+0306.23.01 ELIMINADA.
+
+0306.23.99 ELIMINADA.
+
+0306.24.01 ELIMINADA.
+
+8701.90.01 ELIMINADA.
+
+8701.90.05 ELIMINADA.
 
 ###### ARTÍCULO 3.
 
-Se actualizan en el ARTÍCULO 6 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+Se substituye la palabra “vieras” por “vieiras” del texto de la descripción de la modalidad de la mercancía de la fracción arancelaria 0307.29.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación contenida en el ARTÍCULO 9 del Decreto señalado en el ARTÍCULO 1 del presente ordenamiento, para quedar como sigue:
 
-(VEASE ARCHIVO ANEXO)
+Fracción Preferencia Modalidad de la mercancía
+
+arancelaria
+
+0307.29.99 100 Vieiras naturales congeladas.
 
 ###### ARTÍCULO 4.
 
-Se actualizan en el ARTÍCULO 9 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+Se adicionan al ARTÍCULO 10 del Decreto que se señala en el ARTÍCULO 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponda según su numeración:
 
-(VEASE ARCHIVO ANEXO)
+Fracción Descripción Preferencia
+
+Arancelaria
+
+8701.90.01 Tractores de ruedas con toma 28%
+
+de fuerza o enganche de tres
+
+puntos, para acoplamiento de
+
+implementos agrícolas, excepto
+
+lo comprendido en las fracciones
+
+8701.90.03, 8701.90.05 y
+
+8701.90.06.
+
+8701.90.05 Tractores de ruedas con toma 28%
+
+de fuerza o enganche de tres puntos,
+
+para acoplamiento de implementos
+
+agrícolas, con potencia igual o superior
+
+a 140 H.P. pero inferior o igual a
+
+180 H.P., transmisión manual y tablero
+
+de instrumentos analógico, excepto lo
+
+comprendido en la fracción 8701.90.03.
 
 ###### ARTÍCULO 5.
 
@@ -146,6 +228,6 @@ DEROGADO”
 
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto entrará en vigor a partir del 1 de julio de 2007.
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
