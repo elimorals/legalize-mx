@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-prestaciones-economicas-y-vivienda-del-249"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-06-28"
-last_updated: "2000-12-19"
+last_updated: "2008-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-06-14"
 
 REGLAMENTO DE PRESTACIONES ECONOMICAS Y VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 28 de junio de 1988.
 
@@ -481,137 +481,69 @@ Para el otorgamiento del subsidio a que se refiere la fracción II del artículo
 
 Si el trabajador que esté recibiendo el subsidio fallece y existen a su favor pagos pendientes por este concepto, le serán cubiertos a sus familiares derechohabientes, previa acreditación, en el orden que establece el artículo 75 de la Ley.
 
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)</small>
+
 ### CAPITULO IV
 
 De los Créditos a Corto y Mediano Plazo.
+
+> <small>(DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)</small>
 
 #### SECCION PRIMERA. Del Otorgamiento de los Créditos
 
 ###### ARTICULO 46.
 
-Para el otorgamiento de créditos a corto y mediano plazo, el Instituto requerirá el cumplimiento de los siguientes requisitos:
-
-I.- A los trabajadores y pensionistas por derecho propio como extrabajadores:
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-A).- Presentar la solicitud que para el efecto se proporcione, debidamente certificada por la Afiliada respectiva o por el propio Instituto en el caso de los pensionistas, dentro de los 30 días naturales siguientes de ocurrida la certificación; la vigencia de esta certificación podrá renovarse con la presentación del último talón de pago del solicitante.
-
-Las solicitudes de crédito podrán ser presentadas en forma personal o a través de sus organizaciones de pensionistas, sindicatos o dependencias, mismos que deberán acreditar y registrar a sus gestores en las instancias correspondientes.
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-B).- Haber cubierto al Instituto las cuotas y aportaciones por más de un año.
-
-Cuando el trabajador preste sus servicios en varias Afiliadas, deberá presentar la solicitud debidamente certificada por la Afiliada donde tenga mayor antigüedad, así como copia del último talón de pago de las otras.
-
-II.- A las Afiliadas:
-
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
-A).- Certificar la solicitud del trabajador donde conste que se encuentra en servicio activo; tipo de nombramiento; clave; sueldo básico; antigüedad en el empleo y el número del registro federal de contribuyentes.
-
-En el caso de los pensionistas, el área correspondiente del Instituto certificará los datos señalados en la solicitud de crédito respectiva; y
-
-B).- Proteger las certificaciones de manera que no puedan alterarse.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 47.
 
-El Instituto solicitará a las afiliadas la identificación y firma autógrafa de los responsables de certificar las solicitudes de crédito dentro de los primeros diez días hábiles de su designación, y llevará un registro actualizado de los mismos.
-
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-De igual manera solicitará a las organizaciones de pensionistas, sindicatos y dependencias afiliadas, la identificación y firma autógrafa de los gestores acreditados, dentro de los primeros 10 días hábiles de su designación y llevará un registro actualizado de los mismos.
-
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-Asimismo, llevará a cabo al inicio de cada año el registro actualizado de ambos catálogos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 48.
 
-Cuando un trabajador tenga una plaza de base y otra de confianza o temporal y el sueldo correspondiente a la de base sea suficiente para cubrir los descuentos, sin rebasar el 50% del sueldo, deberá cargarse el descuento a esta plaza, sin tomar en cuenta la otra.
-
-En caso contrario, será la plaza de confianza o temporal, conforme a su sueldo y antigüedad, la que debe prevalecer para los efectos del descuento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 49.
 
-De acuerdo a los recursos aprobados por la Junta Directiva en el Programa de Presupuesto Anual, los créditos a corto y mediano plazo se otorgarán conforme a lo dispuesto en el Ley, según corresponda.
-
-Dichos créditos deberán cubrirse dentro de los siguientes períodos:
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-I.- Los créditos a corto plazo otorgados a los trabajadores y pensionistas, deberán cubrirse hasta en un máximo de 48 quincenas, de acuerdo al sueldo o pensión que perciban.
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-II.- Los créditos a mediano plazo otorgados a los trabajadores y pensionistas, deberán cubrirse hasta en un máximo de 120 quincenas, de acuerdo al sueldo o pensión que perciban.
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-No se otorgará crédito a corto plazo mientras esté vigente uno a mediano plazo, a excepción de los créditos para damnificados. El préstamo a mediano plazo se concederá a los trabajadores y pensionistas solo una vez al año, siempre y cuando no exista adeudo pendiente por otro crédito otorgado con anterioridad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 50.
 
-El préstamo a mediano plazo se otorgará a los trabajadores y pensionistas mediante un documento de crédito para adquirir bienes de uso duradero, en tiendas y centros comerciales del Instituto o en los que éste designe.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 51.
 
-Cuando el Instituto descubra alteraciones en las solicitudes de crédito o falsedad en su contenido, suspenderá la tramitación respectiva y no reanudará trámite alguno hasta comprobar la veracidad de lo consignado, sin perjuicio de lo que disponga la legislación en materia de responsabilidades.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+ARTICULO 51 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
-ARTICULO 51 BIS.- La distribución de los créditos se realizará tanto a través de las Unidades Centrales como desconcentradas, atendiendo a las reglas que para tal efecto emita la Subdirección de Otorgamiento de Crédito, previa coordinación con la representación de la derechohabiencia.
+> <small>(DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)</small>
 
 #### SECCION SEGUNDA. Del Fondo de Garantía
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
 ###### ARTICULO 52.
 
-El Fondo de Garantía que establece la Ley, tiene por objeto garantizar el monto del préstamo y estará destinado a redimir los créditos que queden insolutos cuando los acreditados fallezcan, o bien por una sola vez cuando sufran una invalidez o una incapacidad total permanente, en los términos y condiciones que este Reglamento señala.
-
-Todos los trabajadores y pensionistas que hayan obtenido u obtengan créditos del Instituto, quedan protegidos por este fondo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 53.
 
-El Fondo de Garantía de los créditos a corto y mediano plazo estará constituido por las primas que los trabajadores y pensionistas cubran al momento de disfrutar un crédito.
-
-El monto de las primas se determinará conforme a los porcentajes siguientes:
-
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
-I.- 1.0% sobre el importe del préstamo que se otorgue a los trabajadores que hayan cubierto al Instituto hasta 5 años de cuotas y aportaciones;
-
-II.- 0.8% sobre el importe del préstamo que se otorgue a los trabajadores que hayan cubierto de 5 a 10 años de cuotas y aportaciones; y
-
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
-
-III.- 0.6% sobre el importe del préstamo que se otorgue a los trabajadores y pensionistas que hayan cubierto al Instituto más de 10 años de cuotas y aportaciones.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 54.
 
-Los saldos insolutos vencidos o por vencer de los créditos otorgados a los trabajadores o pensionistas que fallezcan o a los trabajadores que se les dictamine un estado de invalidez, o bien una incapacidad total permanente, se cubrirán mediante la aplicación del Fondo de Garantía, aun cuando no se encuentren al corriente en el pago de su préstamo a corto o mediano plazo.
-
-El Instituto cancelará el saldo insoluto del crédito en la quincena inmediata posterior a la que el trabajador o pensionista sufra el evento, aún cuando la solicitud respectiva se presente con posterioridad.
-
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 55.
 
-El fallecimiento del acreditado se comprobará mediante la copia certificada del acta de defunción y la invalidez o incapacidad total permanente, con el dictamen que expida el área correspondiente del Instituto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 56.
 
-Los acreditados o sus familiares derechohabientes no adquieren derecho alguno, individual o colectivo, sobre las aportaciones al Fondo de Garantía. En consecuencia, en ningún caso ni bajo circunstancia alguna, procederá la devolución de las primas correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 57.
 
-Anualmente deberá presentarse a la Junta Directiva un informe sobre el monto y operaciones canceladas con cargo al Fondo de Garantía, a través del área competente del Instituto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ### CAPITULO V. De los Créditos Para Vivienda
 
@@ -695,33 +627,25 @@ De las Modalidades en el Otorgamiento de los Créditos.
 
 (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)</small>
+
 ### CAPITULO VI. De la Recuperación de los Créditos
 
 ###### ARTICULO 74.
 
-Los créditos serán recuperados mediante descuentos que por nómina realice la Afiliada respectiva, conforme a los lineamientos que el Instituto determine para tales efectos; los descuentos a los pensionistas serán practicados por las áreas correspondientes del propio Instituto.
-
-Si no se hicieren las retenciones como abono de los créditos otorgados, el acreditado lo hará del conocimiento del Instituto y de la Afiliada, a fin de que la Unidad Administrativa de al misma las efectúe. Ante cualquier omisión de descuento, el acreditado pagará directamente los abonos omitidos a través de las cajas receptoras del Instituto.
-
-La suspensión de los pagos causará la aplicación del interés moratorio por abono vencido a la tasa que fije la Junta Directiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 75.
 
-Es facultad de las Afiliadas aplicar, conforme a la normatividad que el Instituto emita sobre la materia, los descuentos por concepto de créditos otorgados, al momento del inicio de la prestación de los servicios de aquellos trabajadores que hayan sido beneficiados con este tipo de prestaciones; sin embargo, por ningún motivo podrán modificar o suspender, en lo individual o colectivo, los descuentos convenidos, incurriendo en su caso, en las responsabilidades previstas por la Ley. Unicamente podrán suspender los descuentos cuando los créditos se encuentren cubiertos, para lo cual verificarán el cumplimiento de la amortización en los montos y plazos ordenados por el Instituto, mediante el sistema de control y seguimiento de descuentos integrados a su nómina.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 76.
 
-El trabajador o pensionista acreditará sus pagos mediante la exhibición de los comprobantes respectivos, tales como los talones de cheque en donde aparezcan los descuentos efectuados; las constancias de descuento expedidas por la Unidad Administrativa de la Afiliada facultada para tal efecto, los recibos de pago por caja cubiertos al Instituto y los comprobantes de pago efectuados a través de los mecanismos implantados por el mismo.
-
-Las Afiliadas expedirán las constancias de descuentos que los trabajadores les requieran, las cuales deberán contener los datos que establezca el Instituto, siendo facultad exclusiva de éste la formulación de estados de cuenta que determinen los saldos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 77.
 
-El pago de los créditos a corto y mediano plazo se hará siempre mediante descuentos quincenales, o mensuales en el caso de los pensionistas, de conformidad al plazo estipulado en la hoja de liquidación; en los casos en los que éstos no se efectúen, se estará a lo dispuesto por el artículo 74 de este Reglamento.
-
-El Instituto por causa justificada podrá modificar tanto el monto del descuento como el plazo originalmente estipulado al momento del otorgamiento del crédito, así como celebrar convenios de pago individuales con los acreditados que deseen regularizar su situación crediticia.
-
-En caso de incumplimiento en el pago durante un lapso mayor de dos meses consecutivos conforme al plazo señalado en la hoja de liquidación, el Instituto podrá dar por vencido anticipadamente el crédito otorgado y proceder al cobro de lo que adeudare el acreditado, de conformidad con los acuerdos que dicte la Junta Directiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 78.
 
@@ -729,17 +653,15 @@ En caso de incumplimiento en el pago durante un lapso mayor de dos meses consecu
 
 ###### ARTICULO 79.
 
-El Instituto expedirá los instructivos correspondientes, que hará del conocimiento de las Afiliadas, para precisar y unificar los procedimientos destinados a la recuperación de los créditos otorgados a los trabajadores y pensionistas, y formulará los estados de cuenta para conciliar las cantidades que las Afiliadas deben enterar al Instituto, derivadas de los descuentos efectuados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 80.
 
-En caso de que se practiquen descuentos adicionales a los requeridos para la amortización de los créditos, el Instituto devolverá el monto cobrado en exceso y los intereses correspondientes a la misma tasa de interés a la que se otorgó el crédito. Para la devolución mencionada, se deberá presentar cualquiera de los comprobantes de pago especificados en el artículo 76 de este Reglamento.
-
-Los créditos a mediano plazo que se liquiden dentro de un lapso de 90 días naturales, contados a partir de la fecha de su otorgamiento señalada en la hoja de liquidación correspondiente, no causarán interés alguno. Dichos créditos podrán cubrirse directamente al Instituto a través de sus cajas receptoras y los descuentos que se hayan generado, así como los que se generen hasta la orden de suspensión, serán objeto de devolución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 81.
 
-Las garantías para los préstamos a mediano plazo, serán el pagaré suscrito por los acreditados, la responsabilidad de las Afiliadas de efectuar la retención de la amortización que deba cubrirse al Instituto y las demás que, en su caso, establezca la Junta Directiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 14 DE MAYO DE 2008)
 
 ###### ARTICULO 82.
 
@@ -806,3 +728,31 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO TERCERO.
 
 El beneficio concedido a los acreditados con alguna invalidez establecido en la adición al artículo 52, no tendrá efectos retroactivos y se aplicará a los créditos que se otorguen a partir del 1 de enero del 2001.
+
+D.O.F. 14 DE MAYO DE 2008.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y, en consecuencia se derogan el punto 3 del Acuerdo número 40.1312.2007, con el que se aprobaron los Lineamientos para la Operación del Programa de Préstamos Personales 2008 y los Capítulos IV y VI del Reglamento de Prestaciones Económicas y Vivienda, aprobados mediante el Acuerdo 4.1108.88, del 9 de junio de 1988, así como todas las disposiciones administrativas que se le opongan.
+
+SEGUNDO. Para garantizar la recuperación de los préstamos otorgados bajo el régimen de la Ley abrogada, así como lograr un otorgamiento eficiente de los préstamos establecidos en la Ley vigente, se deben considerar las siguientes tablas de compatibilidad:
+
+a) Tabla de compatibilidades entre los préstamos personales establecidos en la Ley vigente:
+
+(VEASE ARCHIVO ANEXO)
+
+b) Tabla de compatibilidades entre los préstamos personales otorgados bajo el régimen de la Ley abrogada y los préstamos personales establecidos en la Ley vigente.
+
+(VEASE ARCHIVO ANEXO)
+
+TERCERO. Los préstamos personales otorgados hasta el 31 de diciembre de 2007 en el marco de la Ley abrogada y de los acuerdos de la Junta Directiva aprobados para tal efecto, deberán ser descontados del sueldo básico, pensión o renta vitalicia, según corresponda, hasta su total amortización dentro de los siguientes plazos:
+
+I. Los préstamos a corto plazo, a corto plazo especial para pensionistas, a corto plazo para turismo social, y complementarios a los de corto plazo, hasta en un máximo de 48 quincenas para los trabajadores ó 24 meses para pensionados.
+
+II. Los préstamos personales a mediano plazo y a corto plazo para damnificados por desastres naturales, hasta en un máximo de 120 quincenas para los trabajadores ó 60 meses para los pensionados, y los préstamos de mediano plazo para automóvil en el plazo necesario para su total amortización.
+
+CUARTO. Los trabajadores que laboren en las instituciones que decidan no adecuar sus convenios de incorporación al régimen de la Ley del ISSSTE en un plazo que no exceda del 30 de junio de 2008, no podrán ejercer la prestación.
+
+QUINTO. Hasta en tanto el Instituto no emita la identificación que se prevé en el artículo 9 de la Ley, se aceptarán como identificación oficial con fotografía y firma: la credencial para votar expedida por el Instituto Federal Electoral, el pasaporte vigente expedido por la Secretaría de Relaciones Exteriores o la Cédula Profesional expedida por la Secretaría de Educación Pública.
+
+SEXTO. El otorgamiento electrónico de préstamos personales que se contempla en el artículo 12, fracción VI del presente reglamento, se realizará una vez que el Instituto cuente con las herramientas informáticas necesarias para su adecuada operación, control y seguimiento, en cuyo caso se podrán modificar los requerimientos documentales para dicho proceso.
+
+SEPTIMO. En tanto existan pensionados bajo el régimen contemplado en el artículo décimo transitorio de la Ley, que se beneficien o se hayan beneficiado con préstamos personales, las obligaciones de las dependencias y entidades previstas en este Reglamento deberán ser ejecutadas por la unidad administrativa encargada del pago de pensiones."
