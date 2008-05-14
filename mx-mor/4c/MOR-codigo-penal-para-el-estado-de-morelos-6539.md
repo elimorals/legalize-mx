@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2007-06-28"
+last_updated: "2008-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1735,7 +1735,7 @@ Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o m�
 
 ### CAPITULO III. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 ### CAPITULO IV. ESTUPRO
 
@@ -1745,7 +1745,7 @@ Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o m�
 
 ### CAPITULO V. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 149.
 
@@ -1825,17 +1825,17 @@ Si la inseminación se realiza con violencia, se impondrá a los autores una pen
 
 ###### ARTICULO 158.
 
-Al que con fines lascivos asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, a persona de cualquier sexo, con la amenaza de causarle un mal o negarle un beneficio a que tenga derecho, relacionado con las expectativas que pueda tener en el ámbito de una relación, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en las áreas laborales, docentes, domésticas o de cualquier otra, se le impondrá sanción de uno a tres años de prisión y de cuarenta hasta cien días-multa.
+Al que con fines lascivos asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, a persona de cualquier sexo, con la amenaza de causarle un mal o negarle un beneficio a que tenga derecho, relacionado con las expectativas que pueda tener en el ámbito de una relación, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en las áreas laborales, docentes, domésticas o de cualquier otra, se le impondrá sanción de tres a cinco años de prisión y de trescientos a quinientos días multa.
 
-Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño laboral, educativo, profesional o patrimonial.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
 Solo se procederá contra el hostigador a petición del ofendido o de su legítimo representante, con las excepciones señaladas a continuación.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
 
-Cuando el hostigador sea servidor público, docente o parte del personal administrativo de cualesquier institución educativa o de asistencia social, el delito será perseguible de oficio, en cuyo caso se sancionará con prisión de 5 a 10 años y de cien a trescientos días multa.
+Cuando el hostigador sea servidor público, docente o parte del personal administrativo de cualesquier institución educativa o de asistencia social, el delito será perseguible de oficio, en cuyo caso se sancionará con prisión de 5 a 10 años y de quinientos a mil días multa.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -1863,7 +1863,7 @@ Las autoridades educativas de los centros escolares y del Gobierno relacionadas 
 
 ###### ARTICULO 161.
 
-Al que sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico sexual o la haga ejecutarlo, se le impondrá de dos a cinco años de prisión.
+Al que sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico sexual o la haga ejecutarlo, se le impondrá de tres a cinco años de prisión.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -1873,15 +1873,15 @@ La sanción prevista en el párrafo anterior se incrementará de 5 a 10 años de
 
 Las autoridades educativas de los centros escolares, las de las instituciones de asistencia social y del Gobierno relacionadas con la materia, que tengan conocimiento de la comisión de este ilícito en contra de los educandos, deberán inmediatamente proceder, a hacerlo del conocimiento de sus padres o de sus representantes legítimos, y denunciarlo ante el Ministerio Público, en el caso de lo dispuesto en el párrafo anterior, sin perjuicio del análisis de su responsabilidad en términos de lo dispuesto por el artículo 18 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 162.
 
-Al que sin propósito de llegar a la cópula ejecute un acto erótico sexual en persona menor de edad, o que no tenga capacidad de comprender, o que por cualquier causa no pueda resistir dichos actos, o la obligue a ejecutarlos, se le impondrá una pena de cinco a diez años de prisión. Esta sanción se incrementará hasta en una mitad más cuando se empleare violencia física.
+Al que sin propósito de llegar a la cópula ejecute un acto erótico sexual en persona menor de edad, o que no tenga capacidad de comprender, o que por cualquier causa no pueda resistir dichos actos, o la obligue a ejecutarlos, se le impondrá una pena de ocho a diez años de prisión. Esta sanción se incrementará hasta en una mitad más cuando se empleare violencia física.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
 
-Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social, se le impondrá una pena de siete a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
+Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social, se le impondrá una pena de ocho a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -2255,11 +2255,15 @@ VII. Provoque deliberadamente cualquier acontecimiento, simulando que se trata d
 
 ### CAPITULO I BIS. VIOLENCIA FAMILIAR
 
+(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
+
+ARTICULO 202 BIS.- Comete el delito de violencia familiar el miembro de la familia que realice un acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier miembro de la familia dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
+
+Al que cometa el delito de violencia familiar se le impondrán de dos a cinco años de prisión, doscientos a quinientos días-multa, así como la obligación de recibir tratamiento psicológico específico para su rehabilitación.
+
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
-
-ARTICULO 202 BIS.- Comete el delito de violencia familiar el cónyuge, concubina, concubinario, pariente consanguíneo en línea recta ascendente o descendente sin límite de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, la persona con la que se encuentre unida fuera de matrimonio, de los parientes por consanguinidad o afinidad de esa persona, adoptante, adoptado o tutor que ejerza violencia, de manera reiterada, en contra de otro miembro de la familia, que habite la misma casa.
-
-Al que cometa el delito de violencia familiar se le impondrán de seis meses a cuatro años de prisión, así como la obligación de recibir tratamiento psicológico específico para su rehabilitación.
 
 El delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
 
@@ -3794,3 +3798,9 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículo 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano del Morelos.
+
+P.O. 14 DE MAYO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
