@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2007-12-31"
+last_updated: "2008-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4359,13 +4359,13 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
 
-II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a la infraestructura de las comunicaciones de jurisdicción local;
+II. La Secretaría de Comunicaciones, a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
 
-III. La Secretaría de Transporte, a quien corresponde las atribuciones relativas al transporte público;
+III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto;
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -4505,7 +4505,7 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -4645,35 +4645,33 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 24.- El transporte que se realiza en la infraestructura vial se clasifica en:
 
-I. Público:
+I. De pasajeros, que puede ser:
 
-a) De pasajeros, que puede ser:
+a). Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente;
 
-1) Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente.
+b). Masivo o de alta capacidad, que es aquel que se presta en vías específicas o confinadas y/o con equipo vehicular capaz de transportar a más de cien personas a la vez y con tecnologías para su control y operación;
 
-2) Masivo o alta capacidad, que es aquel que se presta en vías específicas o confinadas y/o con equipo vehicular capaz se transportar a más de cien personas a la vez y con tecnologías para su control y operación.
+c). Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis;
 
-3) Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis.
+d). Especializado, que es el que comprende al de personal, al escolar, al de turismo y al que tenga una capacidad de más de 15 pasajeros.
 
-4) Especializado, que es el que comprende al de personal, al escolar, de turismo y al que tenga una capacidad de más de 15 pasajero (sic).
+II. De carga, que se refiere al porte de mercancías que se presta a terceros, que puede ser:
 
-b) De carga, que se refiere al porte de mercancías que se presta (sic) terceros, que puede ser:
+a). En general;
 
-1) En general.
+b). De materiales de construcción y similares;
 
-2) De materiales de construcción y similares.
+c). Especializado.
 
-3) Especializado.
+III. Mixto;
 
-c) Mixto.
+IV. Particular:
 
-II. Particular:
+a). El destino para transporte de pasajeros de uso propio no considerado en las fracciones anteriores;
 
-a) El destinado para transporte de pasajeros de uso propio no considerado en las fracciones anteriores.
+b). De uso comercial, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo sin lucro alguno y con capacidad de carga de hasta 3,500 Kg.
 
-b) De uso comercial, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo sin lucro alguno y con capacidad de carga de hasta 3,500 Kg.
-
-III. El destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales y que no esté considerado en los numerales anteriores.
+V. El destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales y que no esté considerado en las fracciones anteriores.
 
 En la normatividad reglamentaria respectiva podrán establecerse otras modalidades que esta clase de servicios requieran.
 
@@ -10788,3 +10786,11 @@ QUINTO.- Los servidores públicos adscritos al Instituto de Protección Civil de
 SEXTO.- Los asuntos y demás procedimientos que se encuentren vigentes en el Instituto de Protección Civil del Estado de México, antes de la entrada en vigor del presente Decreto, se tramitarán y resolverán por la Dirección General de Protección Civil.
 
 SÉPTIMO.- Las secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas atribuciones, dispondrá lo necesario para el cumplimiento del presente decreto.
+
+G.G. 14 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
