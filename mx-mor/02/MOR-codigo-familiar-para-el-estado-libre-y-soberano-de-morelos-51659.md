@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2007-08-15"
+last_updated: "2008-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -475,9 +475,11 @@ BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural q
 
 DEL RESPETO ENTRE LOS INTEGRANTES DE LA FAMILIA. Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
+(REFORMADO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
+
 ###### ARTÍCULO 24.
 
-DE LA VIOLENCIA EN LA FAMILIA. Por Violencia Familiar se considera el uso de la fuerza física o moral así como las omisiones graves que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y agredido guarden un vínculo directo en cualquiera de las hipótesis contenidas en este Código para el parentesco, matrimonio y concubinato y habiten en el mismo domicilio.
+DE LA VIOLENCIA EN LA FAMILIA. Por Violencia Familiar se considera el acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier miembro de la familia dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento.
 
 ###### ARTÍCULO 25.
 
@@ -559,7 +561,7 @@ OBLIGACIÓN ALIMENTARlA DE LOS ASCENDIENTES.- Los padres están obligados a dar 
 
 ###### ARTÍCULO 39.
 
-OBLIGACIÓN ALlMENTARIA DE LOS ASCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado, se exceptúa de esta obligación cuando los padres hayan dejado de cumplir con la obligación que señala el artículo 38, siempre que lo anterior este fehacientemente acreditado.
+OBLIGACIÓN ALlMENTARIA DE LOS DESCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado, se exceptúa de esta obligación cuando los padres hayan dejado de cumplir con la obligación que señala el artículo 38, siempre que lo anterior este fehacientemente acreditado.
 
 ###### ARTÍCULO 40.
 
@@ -5944,3 +5946,9 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 14 DE MAYO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
