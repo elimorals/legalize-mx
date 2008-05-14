@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2007-12-31"
+last_updated: "2008-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2008.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1043,13 +1043,13 @@ A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
 
-II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros masivo, colectivo; individual, mixto, arrastre, salvamento, guarda y custodia de vehículos y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, arrastre, salvamento, guarda y custodia de vehículos y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
 
-III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
+III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos; con excepción del transporte masivo o de alta capacidad;
 
 IV. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
 
@@ -1856,6 +1856,14 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente 
 CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
 
 QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a lo establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
+
+G.G. 14 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
