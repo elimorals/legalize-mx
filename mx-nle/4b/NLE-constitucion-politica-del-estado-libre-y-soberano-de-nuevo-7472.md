@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2007-10-01"
+last_updated: "2008-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1893,9 +1893,9 @@ El niño tiene derecho a la vida sana, a la satisfacción de sus necesidades de 
 
 El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores y promoverá su bienestar mediante un sistema de servicio social con la participación de la comunidad nuevoleonesa, que atienda sus problemas específicos en materia de salud, cultura, recreación y calidad de vida, debiendo expedir los ordenamientos jurídicos necesarios para garantizar o proteger sus derechos. La Ley ordinaria establecerá quienes serán considerados como personas adultas mayores para los efectos del presente Artículo.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
 
-La enseñanza es libre; pero será laica la que se imparta en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, secundaria, media superior y superior que se brinde en las instituciones particulares.
+La enseñanza es libre; pero será laica la que se imparta en los establecimientos oficiales de educación.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
@@ -1937,7 +1937,7 @@ Lo dispuesto en el art. 123 entrará en vigor desde las elecciones Municipales d
 
 Dada en el Salón de Sesiones del Congreso Constituyente de Nuevo León, en Monterrey, a dieciséis de diciembre de mil novecientos diecisiete.
 
-Presidente, Agustín Garza González, Diputado Propietario por el primer Distrito Electoral.-Vice-Presidente, Salomón Pérez, Diputado Propietario por el octavo Distrito Electoral.-Galdino P. Quintanilla, Diputado Propietario por el Primer Distrito Electoral.-Gregorio Morales Sánchez, Diputado Propietario por el tercer Distrito Electoral.- Antonio Garza Zambrano, Diputado Propietario por el cuarto Distrito Electoral.- Abel A. Lozano, Diputado Propietario por el sexto Distrito Electoral.- Enrique M. Martínez, Diputado Propietario por el séptimo Distrito Electoral.- Everardo de la Garza, Diputado Propietario por el noveno Distrito Electoral.- Alberto Chapa, Diputado Propietario por el décimo Distrito Electoral.- José Ma. Charles, Diputado Propietario por el undécimo Distrito Electoral.- Miguel Rincón Ríos, Diputado Propietario por el décimo tercero Distrito Electoral.- Primer Secretario, José Treviño, Diputado Propietario por el segundo Distrito Electoral.- Segundo Secretario, Santiago Roel, Diputado Propietario por el primer Distrito Electoral.
+Presidente, Agustín Garza González, Diputado Propietario por el primer Distrito Electoral.- Vice-Presidente, Salomón Pérez, Diputado Propietario por el octavo Distrito Electoral.- Galdino P. Quintanilla, Diputado Propietario por el Primer Distrito Electoral.- Gregorio Morales Sánchez, Diputado Propietario por el tercer Distrito Electoral.- Antonio Garza Zambrano, Diputado Propietario por el cuarto Distrito Electoral.- Abel A. Lozano, Diputado Propietario por el sexto Distrito Electoral.- Enrique M. Martínez, Diputado Propietario por el séptimo Distrito Electoral.- Everardo de la Garza, Diputado Propietario por el noveno Distrito Electoral.- Alberto Chapa, Diputado Propietario por el décimo Distrito Electoral.- José Ma. Charles, Diputado Propietario por el undécimo Distrito Electoral.- Miguel Rincón Ríos, Diputado Propietario por el décimo tercero Distrito Electoral.- Primer Secretario, José Treviño, Diputado Propietario por el segundo Distrito Electoral.- Segundo Secretario, Santiago Roel, Diputado Propietario por el primer Distrito Electoral.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -3104,3 +3104,7 @@ P.O. 1 DE OCTUBRE DE 2007.
 DECRETO NUMERO 148, QUE REFORMA EL ARTICULO 152.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 2008.
+
+Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
