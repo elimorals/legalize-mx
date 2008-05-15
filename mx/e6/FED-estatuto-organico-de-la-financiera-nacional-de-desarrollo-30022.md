@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2008-04-16"
+last_updated: "2008-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -567,9 +567,7 @@ VII. Establecer mecanismos de evaluación que permitan detectar variaciones resp
 
 VIII. Establecer mecanismos para dar seguimiento a la gestión de cobranza de la cartera crediticia;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-IX.- Establecer mecanismos para el seguimiento de intermediarios regulados y no regulados;
+IX. (DEROGADA, D.O.F. 15 DE MAYO DE 2008)
 
 X. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
@@ -625,7 +623,7 @@ VI. Coordinar la aplicación de los mecanismos de evaluación que permitan detec
 
 VII. Coordinar la aplicación de los mecanismos para dar seguimiento a la gestión de cobranza de la cartera crediticia;
 
-VIII. Dar seguimiento a los intermediarios regulados y no regulados;
+VIII. (DEROGADA, D.O.F. 15 DE MAYO DE 2008)
 
 IX. Coadyuvar en la identificación de nuevas oportunidades y mejoras a la oferta existente de programas, productos y, negocios fiduciarios vigentes y de los programas de apoyo;
 
@@ -643,25 +641,41 @@ XII. Las demás que le encomiende el Director Ejecutivo de Coordinación y Evalu
 
 (DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 30.
 
-Corresponde a la Subdirección Corporativa Fiduciaria:
+Corresponde a la Dirección Ejecutiva Fiduciaria:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Emitir lineamientos para el desarrollo de la actividad fiduciaria y la relacionada con mandatos y comisiones en la Financiera;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Dictar lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Emitir procedimientos en materia de promoción y contratación fiduciaria, mandatos y comisiones;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 IV. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, mandatos y comisiones;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 V. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos y comisiones;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 VI. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
 
-VII. Emitir lineamientos para la gestión y administración de mandatos y comisiones, así como de control de peritos;
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2008)</small>
+
+VII. Emitir lineamientos para la gestión y administración de mandatos y comisiones;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 VIII. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, mandatos y comisiones, y (sic)
 
@@ -689,9 +703,13 @@ IV. Presidir el Comité de Crédito;
 
 V. Establecer y mantener la relación de la Financiera con las sociedades de información crediticia;
 
-VI. Proponer al Director General el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes de análisis de crédito de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias de crédito, así como a los asesores de crédito de las agencias de Crédito Rural, y
+VI. Proponer al Director General el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes de análisis de crédito de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias de crédito, así como a los asesores de crédito de las agencias de Crédito Rural, y (sic)
 
-VII. Atraer los asuntos en materia crediticia, que a consideración del Director General Adjunto de Crédito deban ser atendidos directamente por dicho servidor público.
+VII. Atraer los asuntos en materia crediticia, que a consideración del Director General Adjunto de Crédito deban ser atendidos directamente por dicho servidor público;
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2008)</small>
+
+VIII. Establecer mecanismos para el seguimiento de crédito a productores e intermediarios financieros rurales.
 
 ###### ARTICULO 32.
 
@@ -757,9 +775,15 @@ IV. Elaborar y proponer los procedimientos de crédito así como sus modificacio
 
 V. Coordinar los trabajos de calificación de cartera e integrar la información para su presentación y autorización por parte de las instancias correspondientes;
 
-VI. Llevar a cabo el seguimiento de los procesos de crédito, y
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2008)</small>
 
-VII. Coordinar y proponer programas de capacitación en materia de normatividad y procesos de crédito.
+VI. Llevar a cabo el seguimiento del proceso de crédito;
+
+VII. Coordinar y proponer programas de capacitación en materia de normatividad y procesos de crédito;
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2008)</small>
+
+VIII. Llevar a cabo el seguimiento de crédito a productores e intermediarios financieros rurales.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -925,9 +949,25 @@ VIII. Coadyuvar en el establecimiento, dirección y supervisión de la función 
 
 IX. Coadyuvar en la coordinación de la preparación de los reportes de seguimiento de la agencias (sic) en materia de fomento y promoción del crédito.
 
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2008)</small>
+
+ARTICULO 40 BIS.- Corresponde a la Dirección Ejecutiva de Promoción de Financiamientos Especializados:
+
+I. Coordinar la promoción de reportos de la Financiera Rural para incrementar y diversificar su portafolio crediticio, en estricto apego a los lineamientos de administración de riesgos de la institución;
+
+II. Identificar proyectos productivos potenciales en el medio rural, que requieran de financiamientos especializados para su viabilidad;
+
+III. Estructurar financiamientos y cofinanciamientos acorde con las necesidades de mercado, tomando en cuenta los instrumentos financieros existentes tanto en mercado nacional como internacional;
+
+IV. Identificar a los actores involucrados en los financiamientos y cofinanciamientos estructurados (otras entidades gubernamentales, otras instituciones financieras, fondos de inversión privados, etc.) y fungir como enlace entre éstos y los productores y emprendedores rurales involucrados en los proyectos a financiarse;
+
+V. Fomentar la inserción de los productores y emprendedores rurales mexicanos en las cadenas productivas nacionales e internacionales, y
+
+VI. Fomentar la participación de Financiera Rural en foros internacionales y buscar la participación de instituciones extranjeras en proyectos productivos del medio rural mexicano.
+
 ###### ARTICULO 41.
 
-(DEROGADO, D.O.F 23 DE ENERO DE 2008)
+(DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1780,3 +1820,7 @@ UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comp
 D.O.F. 16 DE ABRIL DE 2008.
 
 UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MAYO DE 2008.
+
+UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
