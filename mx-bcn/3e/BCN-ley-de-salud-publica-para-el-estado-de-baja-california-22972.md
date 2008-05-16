@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2007-10-19"
+last_updated: "2008-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -1093,9 +1093,15 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 III.- Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo de tabaco.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 104.
 
-Queda estrictamente prohibido vender tabaco en cualquiera de sus presentaciones a los menores de edad, a quién infrinja esta disposición se le sancionará en términos de la normatividad aplicable.
+Queda estrictamente prohibido vender tabaco en cualquiera de sus presentaciones a personas menores de dieciocho años de edad. Los empleados o dueños de establecimientos comerciales que vendan productos derivados del tabaco deberán verificar que el comprador sea mayor de edad, mediante la exhibición de un medio de identificación oficial que contenga foto y fecha de nacimiento del comprador.
+
+Los establecimientos comerciales que vendan productos derivados del tabaco, deberán fijar anuncios en el área de caja, que hagan del conocimiento al consumidor la prohibición de venta de tabaco a personas menores de dieciocho años de edad y que al momento de comprar estos productos, el comprador deberá exhibir un medio de identificación oficial para demostrar su mayoría de edad.
+
+A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términos de la normatividad aplicable.
 
 #### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
 
@@ -1838,3 +1844,7 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que contravengan la presente reforma.
 
 TERCERO. El Poder Ejecutivo del Estado deberá elaborar el reglamento interno del Centro de Trasplantes y Procuración de Órganos y Tejidos en un término de noventa días.
+
+P.O. 16 DE MAYO DE 2008.
+
+Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
