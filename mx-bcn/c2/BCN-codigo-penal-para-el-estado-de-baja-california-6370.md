@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-11-23"
+last_updated: "2008-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -481,7 +481,7 @@ Además de las penas señaladas en este Código, se impondrá sanción pecuniari
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran
+En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -2017,9 +2017,11 @@ III.- De seis a catorce años de prisión y de doscientos hasta quinientos días
 
 Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
 
-Artículo 201 BIS.- Tipo y punibilidad.- A quien cometa el delito de robo en terrenos rústicos, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres de las cercas, motores eléctricos o partes de éstos, tuberías para riego, cableado o fluido eléctrico o cualesquiera otros artículos destinados al aprovechamiento agropecuario, pesquero o acuícola.
+Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terrenos rústicos, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de éste, tuberías para riego, cableado para el aprovechamiento de energía eléctrica o cualesquiera otros artículos destinados al aprovechamiento agropecuario, pesquero o acuícola.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
 En el presente artículo será aplicable la excluyente de pretensión punitiva, prevista en los términos del último párrafo del artículo 201 de este Código.
 
@@ -2447,9 +2449,9 @@ Querella.- Los daños en propiedad ajena se perseguirán por querella de parte o
 
 Tipo y punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber tenido participación en él, adquiera, reciba en prenda u oculte los objetos provenientes del mismo, por interés propio o ajeno, se le impondrá prisión de seis meses a seis años y hasta cien días multas si el valor de los bienes adquiridos, receptados u ocultados no excede de ciento cincuenta días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de cuatro a nueve años de prisión y de doscientos hasta quinientos días multa.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
-Para los efectos de lo anterior, se presume que existe conocimiento de que los objetos provienen de un delito cuando el sujeto activo se dedique a una actividad comercial o sea dependiente de un establecimiento cuyo giro se relacione con la naturaleza de los bienes objeto de la adquisición, recepción en prenda o guarda. Será excluyente de responsabilidad de la presunción anterior, que dichos actos se respalden con copia documental pública con fotografía que acrediten los datos de identificación personal del que ofreció la cosa y con el dicho de dos personas debidamente identificadas que atestigüen que el oferente dispuso de la cosa.
+Para los efectos de lo anterior, se presume que existe conocimiento de que los objetos provienen de un delito cuando el sujeto activo se dedique a una actividad comercial o sea dependiente de un establecimiento cuyo giro se relacione con la naturaleza de los bienes objeto de la adquisición, recepción en prenda o guarda. Será excluyente de responsabilidad de la presunción anterior, que dichos actos se respalden con copia del documento público con fotografía que acrediten los datos de identificación personal del que ofreció la cosa o la constancia del dicho de dos personas debidamente identificadas, con copia del documento público con fotografía que acrediten sus datos de identificación personal, que atestigüen que el oferente dispuso de la cosa.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -4492,3 +4494,7 @@ P.O. 23 DE NOVIEMBRE DE 2007.
 ###### ARTICULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE MAYO DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
