@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2006-10-27"
+last_updated: "2008-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -197,7 +197,9 @@ XVII.- Dirección de Comunicación Social;
 
 XVIII.- Dirección de Control y Evaluación Gubernamental, y
 
-XIX.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003) (REPUBLICADA, P.O. 28 DE OCTUBRE DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2008)</small>
+
+XIX.- Secretaría de Pesca y Acuacultura.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
@@ -691,47 +693,49 @@ DE LA COMPETENCIA DE LA SECRETARIA DE FOMENTO AGROPECUARIO.
 
 A la Secretaría de Fomento Agropecuario le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Cumplir y hacer cumplir la Ley Agropecuaria y Forestal del Estado de Baja California y las demás Disposiciones Legales aplicables en la materia;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+I.- Cumplir y hacer cumplir la Ley de Fomento Agropecuario y Forestal del Estado de Baja California y las demás Disposiciones Legales aplicables en la materia;
 
-II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas, avícolas, forestales y pesqueras;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+II.- Promover la explotación, reproducción, mejoramiento, fomento y protección de las especies agrícolas, ganaderas, avícolas y forestales;
 
-III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados, así como los de los recursos forestales y pesqueros del Estado;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados, así como los de los recursos forestales del Estado;
 
-IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos, avícolas, forestales y pesqueros;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+IV.- Proponer y ejecutar actividades destinadas al fomento, mejora e industrialización de los productos y subproductos agrícolas, ganaderos, avícolas, y forestales;
 
-V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera, avícola, forestal y pesquera en el Estado;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+V.- Promover la organización, con fines económicos y sociales, de las personas físicas o morales que se dediquen a la producción y explotación agrícola, ganadera, avícola y forestal del Estado;
 
-VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria, Forestal y Pesquera en todos sus aspectos y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+VI.- Impulsar y participar en los Programas de Investigación y Experimentación Agropecuaria y Forestal en todos sus aspectos y promover la adopción de cambios tecnológicos y de sistemas de producción que incrementen la productividad;
 
-VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas, avícolas, forestales y pesqueras;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas, avícolas y forestales;
 
-VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios, forestales y pesqueros en el Estado;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios y forestales en el Estado;
 
-IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos, avícolas, forestales y pesqueros del Estado;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+IX.- Desempeñar funciones de asistencia técnica integral para los productores agrícolas, ganaderos, avícolas y forestales del Estado;
 
-X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria, forestal y pesquera, así como la conservación y desarrollo de los recursos naturales de la Entidad;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2002)</small>
+X.- Promover y coordinar la ejecución de Programas de Infraestructura Física que contribuyan a incrementar la producción y productividad agropecuaria y forestal, así como la conservación y desarrollo de los recursos naturales de la Entidad;
 
-XI.- Coordinar en el seno del Comité de Planeación para el Desarrollo del Estado de Baja California el funcionamiento del Subcomité Agropecuario, Forestal y Pesquero, así como organizar la información estadística del sector; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+
+XI.- Coordinar en el seno del Comité de Planeación para el desarrollo del Estado de Baja California el funcionamiento del Subcomité que le competa, así como organizar la información estadística del sector y,
 
 XII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
@@ -1235,13 +1239,53 @@ XXVIII.- Instrumentar, ejecutar y evaluar programas, servicios y acciones relati
 
 XXIX.- Las demás que se prevengan en la Ley de la materia y demás disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MAYO DE 2008)</small>
+
 ### CAPITULO XXI
 
-DE LA COMPETENCIA DE LA COMISION AGRARIA MIXTA.
+DE LA COMPETENCIA DE LA SECRETARIA DE PESCA Y ACUACULTURA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 40.
 
-(DEROGADO, P.O. 14 DE FEBRERO DE 2003)
+A la Secretaría de Pesca y Acuacultura le corresponde la atención y trámite de los siguientes asuntos:
+
+I.- Cumplir y hacer cumplir las disposiciones legales sobre pesca y acuacultura sustentable que le competan al Estado y demás disposiciones en la materia;
+
+II.- Atender los requerimientos y necesidades del sector pesquero y acuícola en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con el Plan Estatal de Desarrollo y Programa Estatal de Pesca y Acuacultura;
+
+III.- Someter a la consideración del titular del Ejecutivo la celebración de convenios o acuerdos de coordinación y colaboración con el gobierno federal en materia de pesca y acuacultura;
+
+IV.- Participar con las dependencias competentes de la Administración Pública Federal, en la elaboración de planes de manejo y de normas oficiales de conformidad con la Ley Federal sobre Metrología y Normalización y otras disposiciones aplicables;
+
+V.- Presidir el Consejo Estatal de Pesca y Acuacultura;
+
+VI.- Operar y mantener actualizado el Sistema Estatal de Información Pesquera y Acuícola;
+
+VII.- Operar y mantener actualizado el Registro Estatal de Pesca y Acuacultura;
+
+VIII.- Participar con la Federación y Municipios en la integración de los planes de ordenamiento territorial, unidades de manejo acuícola y pesqueros, así como zonas de desarrollo en armonía con la conservación del medio ambiente y la biodiversidad;
+
+IX.- Regular la conservación, preservación, aprovechamiento y control de los recursos acuícolas y pesqueros en la entidad;
+
+X.- Fijar las bases para el fomento y la ordenación del desarrollo sustentable de la actividad acuícola y pesquera del Estado;
+
+XI.- Establecer y aplicar las medidas de sanidad acuícola que se requieran para prevenir, controlar, combatir y erradicar enfermedades y plagas que puedan afectar a las especies acuáticas y pesqueras;
+
+XII.- Realizar las acciones necesarias para el reforzamiento de las campañas en materia de sanidad acuícola;
+
+XIII.- Implementar dispositivos de emergencia en coordinación con la autoridad federal en materia sanitaria en apoyo a las exportaciones de bienes acuícolas y pesqueros;
+
+XIV.- Promover las condiciones para la integración, fomento y difusión de información pesquera y acuícola que apoye en la toma de decisiones para el beneficio del sector;
+
+XV.- Estimular la reconversión, en términos de estructura productiva sustentable mediante la incorporación de cambios tecnológicos y de procesos que contribuyen a la productividad y competitividad del sector acuícola y pesquero;
+
+XVI.- Promover la aplicación de tecnologías para la producción, productividad y calidad en las cadenas productivas y en la comercialización de los productos acuícolas y pesqueros a fin de facilitar la integración de las mismas;
+
+XVII.- Impulsar la investigación acuícola y pesquera, la transferencia de tecnología a los productores, así como la inducción de prácticas sustentables, y
+
+XVIII.- Las demás que no estén otorgadas expresamente a la Federación y a los Municipios.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -1672,3 +1716,19 @@ QUINTO.- Durante el ejercicio fiscal del año 2005, la Secretaría de Protecció
 P.O. 27 DE OCTUBRE DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MAYO DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las menciones que en otras leyes se hagan a la Secretaría de Fomento Agropecuario en torno al sector pesquero, se entenderán hechas a la Secretaría de Pesca y Acuacultura.
+
+TERCERO.- Dentro de un plazo de sesenta días siguientes a la entrada en vigor de la presente reforma, deberán transferirse los recursos financieros y materiales de la Dirección de Pesca de la Secretaría de Fomento Agropecuario, a la Secretaría de Pesca y Acuacultura, observando los trámites administrativos y jurídicos que para el efecto dispongan la Secretaría de Planeación y Finanzas del Estado, Oficialía Mayor y la Dirección de Control y Evaluación Gubernamental del Estado.
+
+CUARTO.- El personal de la Dirección de Pesca de la Secretaría de Fomento Agropecuario, quedara adscrito a la Secretaría de Pesca y Acuacultura, sin perjuicio de los derechos laborales que hayan adquirido, en virtud de su relación laboral con la administración pública del Estado; lo anterior conforme al procedimiento administrativo que determine la Oficialía Mayor, con la participación de la Dirección de Control y Evaluación Gubernamental del Estado.
+
+QUINTO.- Los archivos y asuntos en trámite de la Dirección de Pesca de la Secretaría de Fomento Agropecuario, serán transferidos a la Secretaría de Pesca y Acuacultura.
+
+SEXTO.- El Titular del Ejecutivo, dentro de los treinta días siguientes a la entrada en vigor de la presente reforma, deberá nombrar al Titular de la Secretaría de Pesca y Acuacultura.
+
+SÉPTIMO.- El Titular del Ejecutivo, dentro de los noventa días siguientes a la entrada en vigor de la presente reforma, deberá expedir el Reglamento Interno de la Secretaría de Pesca y Acuacultura, y hacer las adecuaciones correspondientes al Reglamento Interno de la Secretaría de Fomento Agropecuario.
