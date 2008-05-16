@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-agropecuario-y-forestal-del-estado-de-baja-22805
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2001-11-23"
+last_updated: "2008-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO AGROPECUARIO Y FORESTAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2001.
 
@@ -1695,33 +1695,59 @@ III.- Actuar como arbitro y mediador a solicitud de las partes, en la solución 
 
 IV.- Asesorar jurídicamente a los participantes en los sistemas productivos de las actividades propias del comercio agropecuario y rural en general y resolver, a solicitud de las partes, las controversias que se susciten como resultado de las transacciones celebradas a lo largo de las cadenas productivas.
 
-## TITULO SEPTIMO. APOYOS FINANCIEROS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MAYO DE 2008)</small>
+
+## TITULO SEPTIMO. FINANCIAMIENTO Y ESTIMULOS A LA PRODUCTIVIDAD
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 223.
 
-El Gobierno del Estado a través de la Secretaría de Fomento Agropecuario en coordinación con la de Desarrollo Económico, promoverá la constitución de fideicomisos o fondos para fomentar el desarrollo agropecuario, agroindustrial, forestal, faunístico y piscícola para elevar la productividad.
+A la Secretaría de Fomento Agropecuario, con el objeto de elevar la productividad, le corresponderá fomentar, promover e impulsar la constitución de fideicomisos, fondos y organismos de participación pública y privada, con la intervención de aquellas instituciones crediticias que incidan para el otorgamiento de créditos y estímulos a los productores primarios del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 224.
 
-La finalidad de los fideicomisos o fondos serán las de fijar las normas y lineamientos que permitan consolidar la participación de los productores en las actividades económicas del campo.
+La Secretaría de Fomento Agropecuario, para efecto de fortalecer y consolidar las actividades de los productores en el desarrollo agropecuario, impulsará los siguientes esquemas de financiamiento:
+
+I.- Apoyos financieros preferenciales;
+
+II.- Créditos puentes, de habilitación o avío;
+
+III.- Créditos simples y refaccionarios; y,
+
+IV.- Tratamientos de cartera.
+
+Asimismo, impulsará como fuentes alternas de pago, las siguientes:
+
+I.- Garantías líquidas.
+
+II.- Garantías complementarias.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 225.
 
-Los objetivos de las entidades de fomento se encaminarán a incorporar a los programas de crédito de la banca regional a los productores cuyas empresas cuenten con potencial productivo.
+Con los esquemas de crédito y financiamiento del artículo anterior se impulsará a los productores individuales y organizados que cuenten con potencial productivo en sus actividades, y a los proyectos viables, rentables y estratégicos para el desarrollo del Estado.
 
-El Ejecutivo del Estado podrá solicitar al Congreso del Estado, la aprobación de partidas presupuestales para la creación de los fondos que considere pertinentes.
+El Ejecutivo del Estado podrá solicitar al Congreso del Estado, la aprobación de partidas presupuestales para la creación de los fondos y organismos que considere pertinentes; adicionalmente, podrá recibir participaciones y recursos de instituciones financieras públicas y privadas.
 
-El Ejecutivo deberá motivar pormenorizadamente la creación o cancelación de fondos de fomento de las actividades agrícola, pecuaria, agroindustrial, forestal, faunística y piscícola que promueva.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 226.
 
-Los fines de los fideicomisos o fondos del Gobierno del Estado serán los siguientes:
+Los fines de los fideicomisos, fondos y organismos de participación pública y privada serán los siguientes:
 
-I.- Promover la formalización de los apoyos gubernamentales directos en beneficio de los productores de la Entidad;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
-II.- Establecer las bases para la instrumentación de esquemas novedosos y prácticos de financiamiento, bajo mecanismos de seguridad para la recuperación de los créditos y el control de la comercialización anticipada de la producción agropecuaria, forestal, faunística, agroindustrial y piscícola;
+I.- Promover la formalización de los apoyos gubernamentales directos para incrementar la productividad del sector en la Entidad;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+
+II.- Establecer las bases para la instrumentación de esquemas novedosos y prácticos de financiamiento, bajo mecanismos de seguridad para la recuperación de los créditos y el control de la comercialización anticipada de la producción agropecuaria, forestal, faunística, y agroindustrial;
 
 III.- Otorgar garantías en forma complementada, a los productores que lo requieran, para el cumplimiento de las obligaciones crediticias que contraigan con intermediarios financieros facultados para otorgarles financiamientos, que les permitirán su incorporación a la producción tecnificada de productos cíclicos rentables;
 
@@ -1731,7 +1757,9 @@ V.- Otorgamiento de créditos puente para complementar el inicio de actividades 
 
 VI.- Fortalecer y consolidar los fondos de contingencia que se establezcan para abatir los riesgos climatológicos que afecten las actividades agropecuarias, forestales y faunísticas;
 
-VII.- Fomentar y promover los programas de saneamiento financiero de los sectores productivos agropecuarios, agroindustriales, forestales, faunísticos y piscícolas en el Estado; y,
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+
+VII.- Fomentar y promover los programas de saneamiento financiero de los sectores productivos agropecuarios, agroindustriales, forestales, faunísticos en el Estado; y,
 
 VIII.- Promover y obtener de las instituciones financieras del país como del extranjero, líneas de crédito específicas para el desarrollo de los productores del campo.
 
@@ -1872,3 +1900,9 @@ EUGENIO ELORDUY WALTHER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO BORBON VILCHES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE MAYO DE 2008.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
