@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2007-08-02"
+last_updated: "2008-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -417,21 +417,27 @@ CONCEPTO DE DECOMISO. El decomiso consiste en perder la propiedad o posesión de
 
 SUPUESTOS EN QUE PROCEDE EL DECOMISO. Los instrumentos y objetos se decomisarán si son de uso prohibido. Los instrumentos de uso lícito sólo se decomisarán al inculpado cuando se le sentencie por delito doloso. Con excepción de las armas, que se decomisarán aún tratándose de delito culposo. Si el instrumento pertenece a terceros, sólo se decomisará cuando se empleó para fines delictivos, con consentimiento de su dueño.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 134.
 
-DESTRUCCIÓN DE OBJETOS E INSTRUMENTOS. Si los instrumentos y objetos de uso ilícito sólo sirven para delinquir; o son sustancias nocivas o peligrosas: Se destruirán después de que la sentencia cause ejecutoria.
+DESTRUCCIÓN DE OBJETOS E INSTRUMENTOS. Si los instrumentos y objetos de uso ilícito sólo sirven para delinquir; o son sustancias nocivas o peligrosas: Se destruirán después de que la sentencia cause ejecutoria; o en los términos que disponga la Ley de Procuración de justicia del estado, cuando dichos bienes se encuentren a disposición del Ministerio Público.
 
 ###### ARTÍCULO 135.
 
 VENTA Y DESTINO DE LOS BIENES QUE SE DECOMISAN. Los instrumentos o efectos que se decomisen y sean de comercio lícito se podrán vender al precio en plaza con el auxilio de un comerciante establecido. Su importe se destinará a cubrir la reparación del daño. En caso contrario, se podrán utilizar o destruir por el Estado.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 136.
 
-BIENES SIN DECOMISAR EN ESTADO DE ABANDONO O DE DIFÍCIL CONSERVACIÓN. Los objetos que no sean, ni puedan ser decomisados y se hallen a disposición del Ministerio Público o de las autoridades judiciales del orden penal; o los de conservación o mantenimiento imposible, difícil o costoso; sin que se les reclame por quien tenga derecho en un lapso de seis meses, contados a partir de que queden a disposición de la autoridad:
+BIENES SIN DECOMISAR EN ESTADO DE ABANDONO O DE DIFÍCIL CONSERVACIÓN. Los objetos que no sean, ni puedan ser decomisados y se hallen a disposición de las autoridades judiciales del orden penal; o los de conservación o mantenimiento imposible, difícil o costoso; sin que se les reclame por quien tenga derecho en un lapso de seis meses, contados a partir de que queden a disposición de la autoridad:
 
 Se destinarán en definitiva, previa resolución judicial, a las instituciones del Estado que se puedan servir de ellos; o se venderán y el producto de la venta se asignará conforme a los artículos 230 y 231 del Código de Procedimientos Penales.
 
 Cuando se trate de dinero o valores se procederá conforme a la última parte del párrafo anterior.
+
+Cuando se trate de bienes puestos a disposición del Ministerio Público se atenderá a lo dispuesto por la Ley de Procuración de Justicia del Estado.
 
 ### CAPÍTULO UNDÉCIMO. PUBLICACIÓN ESPECIAL DE SENTENCIA
 
@@ -567,25 +573,17 @@ EXTINCIÓN DE LA ACCIÓN PENAL POR PERDÓN DEL OFENDIDO, EN DELITOS PERSEGUIBLES
 
 ###### ARTÍCULO 155.
 
-EXTINCIÓN DE LA ACCIÓN PENAL POR PERDÓN O ACTO EQUIVALENTE EN CIERTOS DELITOS PERSEGUIBLES DE OFICIO. La acción penal también se extinguirá cuando el delito se persiga de oficio, si se reúnen las condiciones siguientes:
+(DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-I. DELITO NO GRAVE. El delito no sea grave, ni su penalidad exceda de cinco años de prisión en su término medio aritmético.
-
-II. CALIDAD DEL OFENDIDO. El ofendido sea mayor de 12 años de edad y capaz, tratándose de delito doloso.
-
-III. CALIDAD DEL INCULPADO. El inculpado no se encuentre dentro de los casos de reiteración delictiva real o ficta; ni sea servidor público que intervino en el delito con motivo de sus funciones.
-
-IV. PERDÓN, REPARACIÓN DEL DAÑO O ACTO EQUIVALENTE. El ofendido o representante legítimo formule perdón; o que se repare el daño, si es que se causó. Si no hubiere ofendido determinable, ni aparece daño causado, será necesario que el inculpado confiese el delito y que según sus condiciones personales y circunstancias del caso, no aparezca que existe riesgo para la comunidad.
-
-La causa de extinción que se previene en este artículo sólo operará por una vez y serán aplicables a ella los artículos 64 y 66.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 156.
 
-OTRAS CONDICIONES PARA QUE PROCEDA LA EXTINCIÓN DE LA ACCIÓN PENAL POR PERDÓN. Para que el perdón proceda como causa extintiva de la acción penal, además de satisfacerse lo que previenen los artículos 154 o 155, será necesario:
+OTRAS CONDICIONES PARA QUE PROCEDA LA EXTINCIÓN DE LA ACCIÓN PENAL POR PERDÓN. Para que el perdón proceda como causa extintiva de la acción penal, además de satisfacerse lo que previene el artículo 154, será necesario:
 
-I. ANUENCIA DEL INCULPADO. Que el inculpado no se oponga a su otorgamiento.
+I. ANUENCIA DEL INCULPADO.- Que el inculpado no se oponga a su otorgamiento.
 
-II. OPORTUNIDAD PROCESAL Y AUTORIDADES COMPETENTES PARA RECIBIRLO. Que se otorgue ante el Ministerio Público, durante la averiguación previa; o ante el juzgador, durante el proceso.
+II. OPORTUNIDAD PROCESAL Y AUTORIDADES COMPETENTES PARA RECIBIRLO.- Que se otorgue ante el Ministerio Público, durante la Averiguación Previa; o ante el Juzgador, durante el proceso.
 
 ###### ARTÍCULO 157.
 
@@ -943,11 +941,13 @@ IV. AGRAVACIÓN POR LA CALIDAD DEL SUJETO ACTIVO Y DE LA ACTIVIDAD. Quién origi
 
 Las modalidades agravantes de las fracciones anteriores serán aplicables al autor material o directo y, en su caso, a los autores mediatos o inductores culposos.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 31.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR DELITOS CULPOSOS. Los delitos culposos sólo se perseguirán si existe querella del ofendido. Se exceptúan de la regla anterior los delitos culposos siguientes: contra la ecología, incendio u otros estragos, disparo de arma de fuego, homicidio y cualesquier otro que se cometa bajo error vencible de tipo si tuvo arranque doloso, mismos que se perseguirán de oficio.
+CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR DELITOS CULPOSOS. Los delitos culposos sólo se perseguirán si existe querella del ofendido o del legitimado para formularla. Se exceptúan de la regla anterior los delitos culposos siguientes: contra la ecología, incendio u otros estragos, disparo de arma de fuego, homicidio y cualesquier otro que se cometa bajo error vencible de tipo si tuvo arranque doloso, mismos que se perseguirán de oficio.
 
-Sin embargo, el homicidio culposo también se perseguirá por querella cuando el pasivo con relación al sujeto activo resulta ser cónyuge; concubinario o concubina; ascendiente o descendiente consanguíneo en línea recta; adoptante o adoptado; pariente consanguíneo en línea colateral hasta el cuarto grado; o pariente por afinidad hasta el segundo grado.
+Sin embargo, el homicidio culposo también se perseguirá por querella cuando el pasivo con relación al sujeto activo resulta ser cónyuge; concubinario o concubina; persona con quien se encuentre unida en pacto civil de solidaridad; ascendiente o descendiente consanguíneo en línea recta; adoptante o adoptado; pariente consanguíneo en línea colateral hasta el cuarto grado; o pariente por afinidad hasta el segundo grado.
 
 El párrafo anterior será inaplicable cuando el motivo determinante de la culpa que origine el homicidio se deba a estado de ebriedad; u obedezca al influjo de estupefacientes, psicotrópicos o cualquiera otra sustancia que produzca efectos análogos. Igualmente, cuando se abandone al ofendido. Casos que se perseguirán de oficio.
 
@@ -1219,25 +1219,29 @@ Se aplicarán las mismas sanciones: Al encargado de una fuerza pública, que req
 
 #### SECCIÓN TERCERA. REITERACIÓN DELICTIVA Y CONSECUENCIAS
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 63.
 
 CONSECUENCIAS DE LA REITERACIÓN DELICTIVA CON RELACIÓN A DELITOS O BENEFICIOS POSTERIORES. A toda persona que se le condene en sentencia ejecutoria por un delito, durante el tiempo en el que cumpla la condena, más un término equivalente a la prescripción de la pena de prisión que se le impuso:
 
-I. IMPEDIMENTO PARA OBTENER BENEFICIOS PROCESALES. No se le concederá en nuevo proceso el sobreseimiento por perdón o acto equivalente como causa extintiva de la acción penal en delitos perseguibles de oficio. O bien para que se determine a su favor el inejercicio de la acción penal por dichos motivos.
+I. IMPEDIMENTO PARA OBTENER BENEFICIOS PROCESALES. No le serán aplicables las formas de justicia restaurativa.
 
 II. EXCLUSIÓN DE CONDENA CONDICIONAL, TRATAMIENTO ANÁLOGO O LIBERTAD ANTICIPADA. Igualmente, cuando cometa delito dentro del término que señala el párrafo inicial de este artículo: En la nueva sentencia de condena y durante el primer tercio en que se deba ejecutar la pena de prisión, se excluirá al sentenciado de la aplicación de la condena condicional y de la aplicación de modalidades de tratamiento iguales o análogas a los sustitutivos.
 
-Si en contravención de este artículo, se concede al sentenciado algún beneficio de los que se mencionan en las fracciones anteriores o se le deja en libertad anticipada; la víctima o el ofendido podrán pedir su revocación, a partir del día siguiente del que se aplicó y dentro de un tiempo igual al que señala el párrafo inicial de este precepto; o al que reste de la condena; según corresponda. El Ministerio Público deberá pedir la revocación. En ambos casos, conforme lo prevea el Código de Procedimientos Penales.
+Si en contravención de este artículo, se concede al sentenciado algún beneficio de los que se mencionan en las fracciones anteriores o se le deja en libertad anticipada; la víctima o el ofendido podrán pedir su revocación, a partir del día siguiente del que se aplicó y dentro de un tiempo igual al que señala el párrafo inicial de este precepto; o al que reste de la condena; según corresponda. El Ministerio Público deberá pedir u ordenar la revocación, según corresponda. En ambos casos, conforme lo prevea el Código de Procedimientos Penales y la Ley de Procuración de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 64.
 
-CAUSAS FICTAS DE REITERACIÓN DELICTIVA. Quién obtenga el inejercicio de la acción penal o sobreseimiento, por perdón o acto equivalente como causa extintiva de la acción penal en delitos perseguibles de oficio:
+CAUSAS FICTAS DE REITERACIÓN DELICTIVA. Quién obtenga el inejercicio de la acción penal por la aplicación de las formas de justicia restaurativa:
 
 Tendrá impedimento para obtener de nuevo dichos beneficios, durante un tiempo equivalente a la prescripción de la acción penal que corresponda al delito que se le atribuyó en la primera causa. Si fueron varios delitos, se estará al más grave.
 
 Si en contravención de este artículo, se volviere a conceder al inculpado alguno de los beneficios citados; la víctima o el ofendido podrán pedir su revocación, desde el día siguiente del inejercicio de la acción penal o el sobreseimiento y dentro del tiempo que se señala en el párrafo anterior.
 
-El Ministerio Público deberá pedir la revocación. En ambos casos, conforme lo prevea el Código de Procedimientos Penales.
+El Ministerio Público deberá acordar la revocación. En ambos casos, conforme lo prevea el Código de Procedimientos Penales y la Ley de Procuración de Justicia del Estado.
 
 Serán inaplicables los supuestos de este artículo y del anterior en los casos de la fracción VII del artículo 62.
 
@@ -1911,9 +1915,11 @@ III. FALSAS IMPUTACIONES. A quien haga imputaciones falsas a un servidor públic
 
 SUSPENSIÓN DE LA ACCIÓN POR FALSA DENUNCIA, QUERELLA O INCRIMINACIÓN, POR RESOLUCIÓN PENDIENTE EN EL DELITO IMPUTADO. Cuando esté pendiente el proceso que se instruye por el delito que se imputó, se suspenderá el ejercicio de la acción penal por falsa denuncia, querella o incriminación, hasta que se dicte resolución irrevocable que ponga fin al mismo.
 
-### CAPÍTULO PRIMERO. DELINCUENCIA ORGANIZADA
+### CAPÍTULO PRIMERO. DELITOS CONTRA LA TRANQUILIDAD PÚBLICA
 
 #### SECCIÓN PRIMERA. ASOCIACIÓN DELICTUOSA
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 242.
 
@@ -2092,6 +2098,8 @@ APARTADO SEGUNDO
 DELITOS CONTRA LA SOCIEDAD
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MAYO DE 2008)</small>
 
 ### CAPÍTULO TERCERO. VIOLACIÓN DE CORRESPONDENCIA
 
@@ -2459,33 +2467,47 @@ DAÑO MORAL Y PROCEDENCIA DE BENEFICIOS. Si se causó, además, daño material, 
 
 ###### ARTÍCULO 272.
 
-SANCIONES Y FIGURA TÍPICA DE ASOCIACIÓN DELICTUOSA. A quien forme parte de una asociación de tres o más personas, que se organicen de manera permanente para delinquir, se le aplicarán las reglas siguientes:
+SANCIONES Y FIGURA TÍPICA DE ASOCIACIÓN DELICTUOSA. Se aplicará prisión de seis a doce años y multa: A quien pertenezca, forme parte o colabore con un grupo de dos o más personas a quienes se atribuya la comisión de dos o más delitos graves en un lapso de tres años, con independencia del lugar o jurisdicción en que se les investigue, procese o se les haya sentenciado; siempre que hubiere participado en alguno de ellos.
 
-I. DIRIGENTE, ADMINISTRADOR O SUPERVISOR. A quien por sí, a través de terceros o a nombre de otros, dirija, administre o supervise la organización, se le aplicarán de cuatro a doce años de prisión y multa; así como el decomiso de los instrumentos, objetos o productos.
+Las penas anteriores se incrementarán en un tercio cuando se trate de servidor público.
 
-II. MIEMBRO. A quien sólo tenga el carácter de miembro de la organización criminal, se le aplicará la mitad de las sanciones que se previenen en la fracción anterior.
+Las sanciones se aplicarán con independencia de las que resulten aplicables por los otros delitos que se cometan.
 
-III. COLABORADOR. A quien sin ser miembro colabore en cualquier forma para los fines de la organización, se le aplicará la mitad de las sanciones que se previenen en la fracción anterior.
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
-IV. SERVIDOR PÚBLICO PARTÍCIPE. Se incrementará un tercio a las sanciones máximas de las fracciones anteriores según corresponda y la destitución del empleo, cargo o comisión e inhabilitación hasta por un tiempo igual al de la pena de prisión que se imponga, cuando un servidor público participe en la organización criminal.
+ARTÍCULO 272 BIS. AGRAVANTES PARA CIERTOS DELITOS QUE SE REPUTAN COMETIDOS EN ASOCIACIÓN DELlCTUOSA. Se reputarán como cometidos en asociación delictuosa y se aumentarán en una mitad los mínimos y los máximos de las penas de prisión aplicables a los delitos señalados como graves, cuando en su comisión intervengan dos o más personas, aunque las mismas no se encuentren identificadas; siempre que concurra, además, alguna o algunas de las circunstancias siguientes:
 
-Si el servidor público pertenece al Ministerio Público o al Poder Judicial o trabaja en cualquier dependencia de aquellos o de seguridad pública estatal o municipal; o en empresa privada de seguridad con o sin registro; la pena de prisión que se imponga a aquél se podrá aumentar hasta una cuarta parte más.
+I. Que en su comisión se hayan utilizado armas de fuego reservadas para uso exclusivo del ejército o explosivos; conforme a lo dispuesto en la Ley Federal de la materia.
 
-V. PERSONA MORAL. Si se constituyó persona moral o se aprovechó una existente para los fines de la organización criminal, la multa para aquella será de hasta diez mil salarios mínimos, sin perjuicio de las demás sanciones que le resulten aplicables.
+II. Que se haya utilizado vehículo robado o que porte placas robadas o insignias de alguna corporación policial.
 
-VI. AUTONOMÍA PUNIBLE. Las sanciones que prevé este artículo se aplicarán con independencia de las que resulten aplicables por otros delitos que se cometan.
+III. Que alguno de los sujetos activos posea o porte uniformes o prendas de vestir similares a los utilizados por cualquiera de las corporaciones policiales federales, estatales o municipales, aunque los mismos no se hubieren utilizado en la comisión del delito.
+
+IV. Que se haya ejercido tortura sobre el ofendido.
+
+V. Que alguno de los sujetos activos posea instrumentos idóneos para la falsificación de tarjetas de crédito, monedas, credenciales o documentos de identificación, aunque los mismos no se hubieren utilizado en la comisión del delito.
+
+VI. Que alguno de los sujetos activos posea instrumentos para intervenir comunicaciones o para prácticas de espionaje, aunque los mismos no se hubieren utilizado en la comisión del delito.
+
+VII. Que se deje mensaje o recado escrito, aunque no esté dirigido a persona determinada.
+
+VIII. Que se porten o posean, al momento de la comisión del delito, instrumentos aptos para destruir cualquier clase de evidencia física y exista dato que revele que se le portaba o poseía con esa intención.
+
+IX. Que porten tatuajes indicativos de pertenencia a reconocidas bandas o grupos criminales.
 
 #### SECCIÓN SEGUNDA. CONSPIRACIÓN CRIMINAL
 
 #### SECCIÓN QUINTA. FORMA DE HACER EFECTIVA LA CONDENA A LA REPARACIÓN POR CANTIDAD LÍQUIDA O ILÍQUIDA Y OTRAS PREVISIONES
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 127.
 
-FORMA DE HACER EFECTIVA LA REPARACIÓN DEL DAÑO POR CANTIDAD LÍQUIDA O ILÍQUIDA. La resolución firme de condena a la reparación que se dicte por cantidad líquida, se hará efectiva en las garantías que se exhibieron para obtener la libertad provisional bajo caución, con independencia de quien las constituyó. A falta de aquellas, o cuando resulten insuficientes, el monto total o saldo se exigirá en la vía de apremio ante juez civil competente, para hacerlo efectivo en el patrimonio del condenado. La resolución respectiva servirá de título para directamente ejecutar en vía de apremio.
+FORMA DE HACER EFECTIVA LA REPARACIÓN DEL DAÑO POR CANTIDAD LÍQUIDA O ILÍQUIDA. La resolución firme de condena a la reparación que se dicte por cantidad líquida, se hará efectiva en las garantías que se exhibieron para obtener la libertad provisional bajo caución, con independencia de quien las constituyó siempre y cuando se encuentren vigentes. A falta de aquellas, o cuando resulten insuficientes, el monto total o saldo se exigirá en la vía de apremio ante juez civil competente, para hacerlo efectivo en el patrimonio del condenado. La resolución respectiva servirá de título para directamente ejecutar en vía de apremio.
 
 Lo mismo se observará, cuando se condene por cantidad ilíquida; o parte del daño quede sin liquidar, según lo que previene este capítulo. Sin perjuicio de pagar el saldo que reste, una vez que se promueva liquidación ante el propio juez penal que resolvió y recaiga resolución firme.
 
-Las cauciones para garantizar la libertad durante la averiguación previa y/o el proceso, cuando se condene a la reparación se mantendrán afectas y se pagarán en concepto de aquella; o cancelarán y devolverán; de acuerdo con este artículo y el Código de Procedimientos Penales.
+Las cauciones para garantizar la libertad durante el proceso, cuando se condene a la reparación se mantendrán afectas y se pagarán en concepto de aquella; o cancelarán y devolverán; de acuerdo con este artículo y el Código de Procedimientos Penales.
 
 ###### ARTÍCULO 128.
 
@@ -2573,13 +2595,17 @@ I. PROCEDIMIENTO PREVIO POR CONDICIÓN DE PROCEDIBILIDAD. Cuando para ejercitarl
 
 En caso de que no sea necesario un procedimiento previo, pero sí una declaración o comunicación, se suspenderá a partir de que se entreguen a quién deba recibirlas y se reanudará al día siguiente.
 
-II. INTERPOSICIÓN DEL RECURSO DE INCONFORMIDAD. Cuando se interponga inconformidad contra el inejercicio de la acción penal por cualquiera de las causas que prevé el Código de Procedimientos Penales; desde que se interponga el recurso hasta que se resuelva.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+
+II. INTERPOSICIÓN DEL RECURSO DE INCONFORMIDAD. Cuando se interponga inconformidad contra el inejercicio de la acción penal por cualquiera de las causas que prevé la Ley de Procuración de Justicia del Estado; desde que se interponga el recurso hasta que se resuelva.
 
 III. CUESTIONES PREJUDICIALES. Cuando existan en la ley cuestiones prejudiciales especificas; a partir de cuando se pida el procedimiento diverso ante la autoridad competente. El término se reanudará hasta que se decida sobre el procedimiento o la petición.
 
 IV. INDISPONIBILIDAD DEL INCULPADO. Cuando al inculpado se le procese o compurgue sanción fuera del estado, si es que la acción penal ya se ejercitó ante el juez y mientras el inculpado se encuentre en prisión preventiva. Y/o, en su caso, compurgue la sanción privativa o restrictiva de la libertad.
 
-V. CONVENIO DE REPARACIÓN DEL DAÑO. Cuando en los delitos que sólo se persiguen previa querella y en los perseguibles de oficio que este código autoriza el inejercicio de la acción penal por perdón del ofendido o reparación del daño: Se celebre convenio sobre dicha reparación entre el ofendido o víctima e inculpado. El incumplimiento del convenio dará lugar a que se inicie la averiguación o que ésta continúe. Cuando el convenio se cumpla o se formule perdón del ofendido, será motivo de prescripción de la acción penal.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+
+V. JUSTICIA RESTAURATIVA.- Cuando se acepte el sometimiento a las formas de justicia restaurativa, en los casos en que procedan, desde su aceptación hasta que se verifiquen sus efectos o se den por concluidas.
 
 ###### ARTÍCULO 171.
 
@@ -2909,7 +2935,7 @@ Para proceder penalmente por cualquiera de las conductas previstas en este artí
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA LA ORDENACIÓN DEL ECOSISTEMA TERRESTRE COMETIDOS POR LOS PARTICULARES. Se aplicará prisión de dos a ocho años y multa, al que ocupe, invada o realice actividades no autorizadas por las disposiciones legales aplicables, en un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barranca o área verde en suelo urbano, que se encuentre bajo la administración del gobierno del Estado o de la autoridad municipal, en su caso.
+ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA ORDENACIÓN DEL ECOSISTEMA TERRESTRE COMETIDOS POR LOS PARTICULARES. Se aplicará prisión de dos a ocho años y multa, al que ocupe, invada o realice actividades no autorizadas por las disposiciones legales aplicables, en un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barranca o área verde en suelo urbano, que se encuentre bajo la administración del gobierno del Estado o de la autoridad municipal, en su caso.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3179,7 +3205,7 @@ SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASI
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TÍPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
+ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TIPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
 
 Este delito se perseguirá siempre a petición de parte ofendida.
 
@@ -4554,3 +4580,13 @@ P.O. 2 DE AGOSTO DE 2007.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 2008.
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las presentes reformas entrarán en vigor al tiempo en que lo haga la Ley de Procuración de Justicia del Estado.
+
+TERCERO. Las disposiciones que se derogan relativas al perdón o acto equivalente en delitos perseguibles de oficio se podrán aplicar a los Procesos o Averiguaciones Previas iniciados o que se inicien por hechos cometidos bajo su vigencia; en cuanto resulten más benéficas al inculpado o éste las solicite.
+
+CUARTO. Los bienes que se encuentren a disposición del Ministerio Público y las fianzas o cauciones otorgadas ante dicha autoridad, se sujetarán a lo dispuesto en la Ley de Procuración de Justicia de! Estado, a partir de su entrada en vigor.
