@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-del-agua-y-obra-38372"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-16"
-last_updated: "2004-03-16"
+last_updated: "2008-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA -ANTES AGUA, OBRA PUBLICA E INFRAESTRUCTURA PARA EL DESARROLLO-
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE AGUA, OBRA PUBLICA E INFRAESTRUCTURA PARA EL DESARROLLO
+REGLAMENTO INTERIOR DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN GACETA DEL GOBIERNO: 16 DE MAYO DE 2008.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el martes 16 de marzo de 2004.
 
@@ -33,27 +33,37 @@ C O N S I D E R A N D O.
 
 En mérito de lo anterior, he tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE AGUA, OBRA PUBLICA E INFRAESTRUCTURA PARA EL DESARROLLO
+> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE MAYO DE 2008)</small>
+
+REGLAMENTO INTERIOR DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA
 
 ### CAPITULO I. DE LA COMPETENCIA Y ORGANIZACION DE LA SECRETARIA
 
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2008)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar la organización y el funcionamiento de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
+El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Secretaría del Agua y Obra Pública.
+
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2008)</small>
 
 ###### Artículo 2.
 
-La Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, el Libro Décimo Segundo del Código Administrativo del Estado de México y su Reglamento, la Ley de Agua del Estado de México y su Reglamento, así como otras leyes, reglamentos, decretos, acuerdos y órdenes que expida el Gobernador del Estado.
+La Secretaría del Agua y Obra Pública tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica de la Administración Pública del Estado de México, el Libro Décimo Segundo del Código Administrativo del Estado de México y su Reglamento, la Ley de Agua del Estado de México y su Reglamento, así como otras leyes, decretos, acuerdos, reglamentos y órdenes que expida el Gobernador del Estado.
 
-Cuando en este ordenamiento se haga referencia a la Secretaría, se entenderá a la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo y Secretario al Secretario de Agua, Obra Pública e Infraestructura para el Desarrollo.
+Cuando en el presente Reglamento se haga referencia a la Secretaría, se entenderá a la Secretaría del Agua y Obra Pública; Secretario, al Secretario del Agua y Obra Pública, y Subsecretario, al Subsecretario del Agua y Obra Pública.
 
 ###### Artículo 3.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Secretaría contará con las unidades administrativas básicas siguientes:
 
-I. Subsecretaría del Ramo;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
 
-II. Dirección General de Programación, Control y Normatividad de Obra Pública;
+I. Subsecretaría del Agua y Obra Pública;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+II. Dirección General de Administración de Obra Pública;
 
 III. Dirección General de Construcción de Obra Pública;
 
@@ -61,13 +71,21 @@ IV. Dirección General de Electrificación;
 
 V. Coordinación Administrativa;
 
-VI. Contraloría Interna.
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+VI. Coordinación Jurídica;
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2008)</small>
+
+VII. Contraloría Interna.
 
 El Secretario contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto respectivo.
 
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2008)</small>
+
 ###### Artículo 4.
 
-La Secretaría, Subsecretaría, direcciones generales, Coordinación Administrativa y Contraloría Interna, ejercerán sus atribuciones en forma coordinada y programada, con base en lo señalado en los objetivos, políticas y estrategias del Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales a cargo de la dependencia.
+La Secretaría, Subsecretaría, Direcciones Generales, Coordinaciones, Contraloría Interna y demás unidades administrativas que integran dicha dependencia, ejercerán sus atribuciones en forma coordinada y programada, con base en los objetivos, políticas y estrategias del Plan de Desarrollo del Estado de México y de los programas regionales, sectoriales y especiales a cargo o en los que participe, en razón de sus atribuciones.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -83,9 +101,13 @@ I. Fijar, dirigir y controlar la política general de la Secretaría;
 
 II. Planear, supervisar, controlar y evaluar, en términos de la legislación aplicable, las funciones de los organismos auxiliares y fideicomisos del Poder Ejecutivo del Estado coordinados sectorialmente por la Secretaría;
 
-III. Aprobar la organización de la Secretaría y de los organismos auxiliares y fideicomisos que coordine sectorialmente, así como los manuales administrativos, en coordinación con la Secretaría de Finanzas, Planeación y Administración;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
 
-IV. Aprobar el anteproyecto del presupuesto anual de egresos de la Secretaría, remitiéndolo a la Secretaría de Finanzas, Planeación y Administración, así como sancionar el de los organismos auxiliares y fideicomisos bajo su adscripción;
+III. Aprobar la organización de la Secretaría, así como sus manuales administrativos, en coordinación con la Secretaría de Finanzas;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+IV. Aprobar el anteproyecto del presupuesto anual de egresos de la Secretaría, remitiéndolo a la Secretaría de Finanzas, así como sancionar el de los organismos auxiliares bajo su coordinación sectorial;
 
 V. Establecer, en el ámbito de su competencia, las normas, políticas, criterios, sistemas y procedimientos que rijan a las unidades administrativas de la Secretaría;
 
@@ -129,9 +151,11 @@ XXIV. Las demás que le confieren otras disposiciones legales y el titular del P
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL SUBSECRETARIO Y DE LA ADSCRIPCION DE LAS DIRECCIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE MAYO DE 2008)</small>
+
 ###### Artículo 7.
 
-Al frente de la Subsecretaría del Ramo habrá un Subsecretario, quien tendrá las atribuciones genéricas siguientes:
+Al frente de la Subsecretaría del Agua y Obra Pública habrá un Subsecretario, quien tendrá las atribuciones siguientes:
 
 I. Acordar con el Secretario el despacho de los asuntos que éste le encomiende, e informarle de las actividades que realicen las unidades administrativas a su cargo;
 
@@ -145,11 +169,13 @@ V. Suscribir documentos relativos al ejercicio de sus atribuciones y aquellos qu
 
 VI. Conocer de los dictámenes de adjudicación de contratos de obra pública y servicios relacionados con la misma, derivados de licitaciones públicas e invitaciones restringidas;
 
-VII. Presidir el Comité Interno de Obra Pública en su carácter de suplente del Secretario;
+VII. (DEROGADA, G.G. 16 DE MAYO DE 2008)
 
 VIII. Conocer de las resoluciones de rescisión de contratos por causas imputables al contratista, relacionadas con las obras públicas a cargo de la Secretaría;
 
-IX. Someter a la aprobación del Secretario los estudios, proyectos y acuerdos internos relacionados con las competencias a su cargo;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+IX. Someter a la aprobación del Secretario los estudios, proyectos y acuerdos internos relacionados con su ámbito de competencia;
 
 X. Someter a la aprobación del Secretario, la abrogación, derogación, modificación o adición de los ordenamientos legales en materia de obra pública y servicios relacionados con la misma, así como de las normas técnicas de construcción, que le sean propuestas por las direcciones generales;
 
@@ -159,11 +185,15 @@ XII. Desempeñar las comisiones que el Secretario le encomiende, e informarle re
 
 XIII. Las demás que le confieran otras disposiciones legales y el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE MAYO DE 2008)</small>
+
 ###### Artículo 8.
 
-Quedan adscritas a la Subsecretaría del Ramo:
+Quedan adscritas a la Subsecretaría del Agua y Obra Pública:
 
-I. Dirección General de Programación, Control y Normatividad de Obra Pública;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+I. Dirección General de Administración de Obra Pública;
 
 II. Dirección General de Construcción de Obra Pública;
 
@@ -203,13 +233,27 @@ XI. Coordinar sus actividades con las demás unidades administrativas de la Secr
 
 XII. Proponer al Subsecretario, la abrogación, derogación, modificación o adición de ordenamientos legales y normas técnicas aplicables al ámbito de su competencia;
 
-XIII. Las demás que les encomienden otros ordenamientos legales y las que les señalen el Secretario y el Subsecretario.
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES, DE LA COORDINACION ADMINISTRATIVA Y DE LA CONTRALORIA INTERNA
+XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia;
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XIV. Expedir constancias o certificar copias de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia;
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XV. Las demás que les encomienden otros ordenamientos legales y las que les señalen el Secretario y el Subsecretario.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE MAYO DE 2008)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES, COORDINACIONES Y CONTRALORIA INTERNA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE MAYO DE 2008)</small>
 
 ###### Artículo 11.
 
-Corresponde a la Dirección General de Programación, Control y Normatividad de Obra Pública:
+Corresponde a la Dirección General de Administración de Obra Pública:
 
 I. Elaborar los programas de obras públicas y sus respectivos presupuestos, con base en las políticas, objetivos y prioridades de la planeación del desarrollo del Estado;
 
@@ -233,7 +277,9 @@ X. Promover la participación del sector privado en el desarrollo de obras y ser
 
 XI. Integrar el inventario de estudios y proyectos que se realicen sobre la obra pública y servicios relacionados con la misma, conformando su catálogo y archivo;
 
-XII. Integrar y mantener actualizado el Catalogo de Contratista, así como proporcionar la información necesaria que soliciten las dependencias y municipios que ejecuten obra;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XII. Integrar y mantener actualizado el Catalogo de Contratistas, así como proporcionar la información necesaria que soliciten las dependencias y municipios que ejecuten obra;
 
 XIII. Realizar proyectos ejecutivos para que la obra pública se realice con calidad, eficiencia y congruencia con los objetivos y estrategias de los planes de desarrollo urbano;
 
@@ -245,9 +291,13 @@ XVI. Gestionar recursos económicos, materiales y humanos para la ejecución de 
 
 XVII. Expedir las bases a que deban sujetarse los concursos para la ejecución de las obras y de los servicios relacionados con la misma, bajo su responsabilidad y de las encargadas por otras dependencias;
 
-XVIII. Realizar el proceso de adjudicación y, previa aprobación del Subsecretario, emitir el dictamen correspondiente, así como firmar los contratos de obra y servicios relacionados con la misma;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
 
-XIX. Rescindir los contratos de obra pública y de los servicios relacionados con la misma, siempre que haya sido otorgado el anticipo y la obra no se hubiere iniciado, de manera conjunta con la Dirección General de Construcción de Obra Pública;
+XVIII. Realizar el proceso de adjudicación y emitir el dictamen correspondiente, así como firmar los contratos de obra y servicios relacionados con la misma, informando de ello al Subsecretario;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XIX. Rescindir los contratos de obra pública y de los servicios relacionados con la misma, siempre que haya sido otorgado el anticipo y la obra no se hubiere iniciado;
 
 XX. Participar en la formulación y permanente actualización de los modelos de contrato de obra pública y de servicios relacionados con la misma, de conformidad con las normas establecidas en esta materia;
 
@@ -255,7 +305,9 @@ XXI. Suscribir las autorizaciones de pago de anticipos y estimaciones de obra p�
 
 XXII. Controlar todas las fases de la obra pública y de los servicios relacionados con la misma a su cargo, estableciendo medios y procedimientos, de acuerdo con las normas que dicte el Ejecutivo del Estado;
 
-XXIII. Autorizar solicitudes de convenios de ampliación de monto para la terminación de las obras y de servicios relacionados con la misma a su cargo;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XXIII. Autorizar solicitudes de convenios de ampliación del monto de los contratos, cuando esté plenamente justificado, así como de diferimiento de plazo del programa de ejecución pactado; éstos últimos, únicamente por falta de pago del anticipo, informando a las Secretarías de Finanzas y de la Contraloría;
 
 XXIV. Operar un sistema de seguimiento, control y evaluación que permita determinar el avance físico y financiero de la obra pública y de los servicios relacionados con la misma; períodos de ejecución en los plazos establecidos y montos autorizados; calidad en materiales y procedimientos constructivos y apego a las normas vigentes en la materia;
 
@@ -263,7 +315,9 @@ XXV. Diseñar y operar, de manera conjunta con la Dirección General de Construc
 
 XXVI. Dictar las normas generales y controlar las obras de reparación, adaptación y demolición que le sean asignadas, de los inmuebles propiedad del Gobierno del Estado;
 
-XXVII. Informar a la (sic) Secretarías de Finanzas, Planeación y Administración y de la Contraloría, del inicio, avance y conclusión de las obras que se realizan;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XXVII. Informar a las Secretarías de Finanzas, y de la Contraloría de la contratación, avance y conclusión de las obras que se realizan;
 
 XXVIII. Revisar y modernizar los procedimientos de normatividad, control y simplificación administrativa de la obra pública y servicios relacionados con la misma;
 
@@ -299,7 +353,9 @@ XI. Gestionar el incremento de los recursos económicos, materiales y humanos pa
 
 XII. Participar, en el ámbito de su competencia, en el seguimiento, control y evaluación de obra pública y servicios relacionados con la misma;
 
-XIII. Rescindir los contratos de obra pública y servicios relacionados con la misma, siempre que los trabajos se encuentren iniciados, de manera conjunta con la Dirección General de Programación, Control y Normatividad de Obra Pública;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XIII. Rescindir los contratos de obra pública y servicios relacionados con la misma, siempre que los trabajos se encuentren iniciados;
 
 XIV. Participar, en el ámbito de su competencia, en el diseño y operación del sistema de información de la obra pública y servicios relacionados con la misma, generando los reportes correspondientes;
 
@@ -341,6 +397,28 @@ XIV. Promover la ejecución de obras de electrificación con participación de l
 
 XV. Las demás que le señalen otros ordenamientos legales y las que le establezca el Subsecretario y el Secretario.
 
+> <small>(ADICIONADO, G.G. 16 DE MAYO DE 2008)</small>
+
+Artículo 13 bis.- Corresponde a la Coordinación Jurídica:
+
+I. Representar a la Secretaría y a sus unidades administrativas en los asuntos jurídicos en los que sean parte, previo mandato que al respecto otorgue el Secretario y realizar el oportuno seguimiento a los procedimientos hasta su conclusión;
+
+II. Difundir entre el personal de la Secretaría los ordenamientos jurídicos relacionados con la organización y el funcionamiento de la Secretaría;
+
+III. Desahogar consultas jurídicas de carácter interno y externo en los asuntos en que tenga injerencia la Secretaría;
+
+IV. Atender o interponer las demandas, amparos, juicios, citatorios y demás requerimientos de autoridades diversas, que se emitan o se instauren con relación y en contra de la Secretaría y su personal, a fin de proteger el interés jurídico y el patrimonio de la misma;
+
+V. Substanciar el procedimiento administrativo y de carácter legal, cuya aplicación corresponda a la Secretaría, en términos de la legislación aplicable;
+
+VI. Asistir jurídicamente al personal de la Secretaría cuando se trate de asuntos inherentes a sus funciones;
+
+VII. Elaborar o validar los proyectos de instrumentos jurídicos y administrativos que pretenda suscribir o expedir la Secretaría y someterlos a la consideración del Secretario;
+
+VIII. Expedir constancias o certificar copias de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia;
+
+IX. Las demás que le señalan otras disposiciones legales y aquellas que le encomiende el Secretario.
+
 ###### Artículo 14.
 
 Al frente de la Coordinación Administrativa habrá un Coordinador, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada y el presupuesto de egresos autorizados.
@@ -351,15 +429,23 @@ Corresponde a la Coordinación Administrativa:
 
 I. Coordinar y controlar la administración y aprovechamiento de los recursos humanos, materiales, financieros y técnicos que requieran las unidades administrativas de la Secretaría;
 
-II. Ordenar la realización de los trámites de altas, bajas, cambios, permisos y licencias de los servidores públicos de la Secretaría, ante la Secretaría de Finanzas, Planeación y Administración, así como propiciar su capacitación, adiestramiento y motivación;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
 
-III. Organizar la recepción de fondos financieros, así como realizar los pagos con base en la normatividad establecida par la Secretaría de Finanzas, Planeación y Administración, a los pedidos fincados ante proveedores y contratistas;
+II. Ordenar la realización de los trámites de altas, bajas, cambios, permisos y licencias de los servidores públicos de la Secretaría, ante la Secretaría de Finanzas, así como propiciar su capacitación, adiestramiento y motivación;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+III. Organizar la recepción de fondos financieros, así como tramitar los pagos con base en la normatividad establecida por la Secretaría de Finanzas, a los pedidos fincados ante proveedores y contratistas;
 
 IV. Acordar con la autoridad competente las acciones para la creación de las brigadas de protección civil, promoviendo su capacitación y desarrollo interno, así como estableciendo los mecanismos de prevención y auxilio destinados a salvaguardar la vida e integridad de las personas ante la eventualidad de un estado de desastre o contingencia;
 
-V. Proporcionar con oportunidad y eficiencia el apoyo administrativo que requieran las unidades administrativas de la Secretaría para la realización de sus funciones;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
 
-VI. Coordinar la formulación e integración del proyecto de presupuesto anual de egresos de la Secretaría, en coordinación con las unidades administrativas que la integran y presentarlo a la Secretaría de Finanzas, Planeación y Administración;
+V. Proporcionar con oportunidad y eficiencia el apoyo administrativo que requieran las unidades administrativas de la Secretaría para la realización de sus funciones, de acuerdo con la calendarización del gasto y la disponibilidad de los recursos asignados;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+VI. Coordinar la formulación e integración del proyecto de presupuesto anual de egresos de la Secretaría, en coordinación con las unidades administrativas que la integran y presentarlo a la Secretaría de Finanzas;
 
 VII. Disponer la prestación de los servicios generales y el apoyo en actos y eventos especiales de la Secretaría;
 
@@ -381,7 +467,13 @@ XV. Formular, con la participación de las instancias competentes, estudios y di
 
 XVI. Autorizar los reportes de avance y programático-presupuestal de la Secretaría;
 
-XVII. Las demás que le confieran otros ordenamientos legales y las que le señale el Secretario.
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XVII. Expedir constancias o certificar copias de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia;
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2008)</small>
+
+XVIII. Los demás que le confieran otros ordenamientos legales y las que le señale el Secretario.
 
 ###### Artículo 16.
 
@@ -462,3 +554,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 16 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- A partir de la entrada en vigor del presente Acuerdo, cuando en otros ordenamientos legales y administrativos, papelería y demás documentos se haga referencia a la Subsecretaría del ramo y a la Dirección General de Programación, Control y Normatividad de Obra Pública, se entenderá a la Subsecretaría del Agua y Obra Pública y a la Dirección General de Administración de Obra Pública, respectivamente.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las contenidas en el presente Acuerdo.
