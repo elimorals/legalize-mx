@@ -4,7 +4,7 @@ identifier: "CMX-manual-de-funcionamiento-de-comisiones-de-magistrados-del-55537
 country: "mx"
 rank: "manual"
 publication_date: "2006-06-08"
-last_updated: "2007-05-18"
+last_updated: "2008-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55537&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2008-05-16"
 
 MANUAL DE FUNCIONAMIENTO DE LAS COMISIONES DE MAGISTRADOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL MANUAL DE FUNCIONAMIENTO DE LAS COMISIONES PROVISIONALES DE MAGISTRADOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 16 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Manual aprobado por el Pleno del Tribunal Electoral del Distrito Federal, en reunión privada del 8 de junio de 2006.
 
@@ -366,3 +368,11 @@ PRIMERO. Las modificaciones al Manual de Funcionamiento de las Comisiones de Mag
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente.
 
 TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
+
+G.O. 16 DE MAYO DE 2008.
+
+PRIMERO. El presente Manual entrará en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral del Distrito Federal.
+
+SEGUNDO. Se abroga el Manual de Funcionamiento de Comisiones de Magistrados del Tribunal Electoral del Distrito Federal, aprobado por el Pleno de ese Órgano Jurisdiccional en el Acuerdo 074/2006 de fecha ocho de junio de dos mil seis, así como todas aquellas disposiciones que se opongan al nuevo ordenamiento.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
