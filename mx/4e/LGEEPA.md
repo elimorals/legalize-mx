@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2007-07-05"
+last_updated: "2008-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1156,19 +1156,29 @@ VII. Áreas de protección de flora y fauna;
 
 VIII. Santuarios;
 
-(REFORMADA, D.O.F. 5 DE JULIO DE 2007
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2008)</small>
 
-IX.- Parques y Reservas Estatales, así como las demás categorías que establezcan las legislaciones locales, y
+IX. Parques y Reservas Estatales, así como las demás categorías que establezcan las legislaciones locales;
 
-X. Zonas de preservación ecológica de los centros de población.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2008)</small>
 
-Para efectos de lo establecido en el presente Capítulo, son de competencia de la Federación las áreas naturales protegidas comprendidas en las fracciones I a VIII anteriormente señaladas.
+X. Zonas de conservación ecológica municipales, así como las demás categorías que establezcan las legislaciones locales, y
 
-> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2008)</small>
 
-Los Gobiernos de los Estados y del Distrito Federal, en los términos que señale la legislación local en la materia, podrán establecer parques, reservas estatales y demás categorías de manejo que establezca la legislación local en la materia, ya sea que reúnan alguna de las características señaladas en las de carácter federal o propias de acuerdo a las particularidades de cada entidad federativa. Dichas áreas naturales protegidas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas competencia de la federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
+XI. Áreas destinadas voluntariamente a la conservación.
 
-Asimismo, corresponde a los municipios establecer las zonas de preservación ecológicas de los centros de población, conforme a lo previsto en la legislación local.
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2008)</small>
+
+Para efectos de lo establecido en el presente Capítulo, son de competencia de la Federación las áreas naturales protegidas comprendidas en las fracciones I a VIII y XI anteriormente señaladas.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2008)</small>
+
+Los Gobiernos de los Estados y del Distrito Federal, en los términos que señale la legislación local en la materia, podrán establecer parques, reservas estatales y demás categorías de manejo que establezca la legislación local en la materia, ya sea que reúnan alguna de las características señaladas en las fracciones I a VIII y XI del presente artículo o que tengan características propias de acuerdo a las particularidades de cada entidad federativa. Dichas áreas naturales protegidas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas competencia de la federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2008)</small>
+
+Asimismo, corresponde a los municipios establecer las zonas de conservación ecológica municipales así como las demás categorías, conforme a lo previsto en la legislación local.
 
 En las áreas naturales protegidas no podrá autorizarse la fundación de nuevos centros de población.
 
@@ -1340,6 +1350,14 @@ Los santuarios son aquellas áreas que se establecen en zonas caracterizadas por
 
 En los santuarios sólo se permitirán actividades de investigación, recreación y educación ambiental, compatibles con la naturaleza y características del área.
 
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2008)</small>
+
+ARTICULO 55 BIS.- Las áreas destinadas voluntariamente a la conservación son aquellas que pueden presentar cualquiera de las características y elementos biológicos señalados en los artículos 48 al 55 de la presente Ley; proveer servicios ambientales o que por su ubicación favorezcan el cumplimiento de los objetivos previstos en el artículo 45 de esta Ley. Para tal efecto, la Secretaría emitirá un certificado, en los términos de lo previsto por la Sección V del presente Capítulo.
+
+Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
+
+El establecimiento, administración y manejo de las áreas destinadas voluntariamente a la conservación se sujetará a lo previsto en la Sección V del presente Capítulo.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 56.
@@ -1386,7 +1404,7 @@ IV. Las universidades, centros de investigación, instituciones y organismos de 
 
 Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Federal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en esta Ley.
 
-Asimismo, los sujetos señalados en el párrafo anterior, podrán destinar voluntariamente los predios que les pertenezcan a acciones de preservación de los ecosistemas y su biodiversidad. Para tal efecto, podrán solicitar a la Secretaría el reconocimiento respectivo. El certificado que emita dicha autoridad, deberá contener, por lo menos, el nombre del promovente, la denominación del área respectiva, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 16 DE MAYO DE 2008)</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1528,11 +1546,13 @@ La Secretaría deberá supervisar y evaluar el cumplimiento de los acuerdos y co
 
 (DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 74.
 
-La Secretaría integrará el Registro Nacional de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés federal, y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro los datos de la inscripción de los decretos respectivos en los registros públicos de la propiedad que correspondan. Asimismo, se deberá integrar el registro de los certificados a que se refiere el artículo 59 de esta Ley.
+La Secretaría integrará el Registro Nacional de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés federal, y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro los datos de la inscripción de los decretos respectivos en los registros públicos de la propiedad que correspondan. Asimismo, se deberá integrar el registro de los certificados a que se refiere el artículo 77 BIS de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Cualquier persona podrá consultar el Registro Nacional de Áreas Naturales Protegidas, el cual deberá ser integrado al Sistema Nacional de Información Ambiental y de Recursos Naturales.
 
@@ -1563,6 +1583,60 @@ La integración de áreas naturales protegidas de competencia federal al Sistema
 ###### ARTICULO 77.
 
 Las Dependencias de la Administración Pública Federal, los gobiernos de los Estados, del Distrito Federal y de los municipios, deberán considerar en sus programas y acciones que afecten el territorio de un área natural protegida de competencia federal, así como en el otorgamiento de permisos, concesiones y autorizaciones para obras o actividades que se desarrollen en dichas áreas, las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, en los decretos por los que se establezcan las áreas naturales protegidas y en los programas de manejo respectivos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 16 DE MAYO DE 2008)</small>
+
+#### SECCION V. Establecimiento, Administración y Manejo de Áreas Destinadas Voluntariamente a la Conservación
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2008)</small>
+
+ARTICULO 77 BIS.- Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
+
+I.- Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
+
+a) Nombre del propietario;
+
+b) Documento legal que acredite la propiedad del predio;
+
+c) En su caso, la resolución de la asamblea ejidal o comunal en la que se manifieste la voluntad de destinar sus predios a la conservación;
+
+d) Nombre de las personas autorizadas para realizar actos de administración en el área;
+
+e) Denominación, ubicación, superficie y colindancias del área;
+
+f) Descripción de las características físicas y biológicas generales del área;
+
+g) Estrategia de manejo que incluya la zonificación del área, y
+
+h) Plazo por el que se desea certificar el área, el cual no podrá ser menor a quince años.
+
+Para la elaboración de la estrategia de manejo a que se refiere el inciso g) de la presente fracción, la Secretaría otorgará la asesoría técnica necesaria, a petición de los promoventes.
+
+En las áreas privadas y sociales destinadas voluntariamente a la conservación de competencia de la Federación, podrán establecerse todas las subzonas previstas en el artículo 47 BIS de la presente Ley, así como cualesquiera otras decididas libremente por los propietarios;
+
+II.- El certificado que expida la Secretaría deberá contener:
+
+a) Nombre del propietario;
+
+b) Denominación, ubicación, superficie y colindancias del área;
+
+c) Características físicas y biológicas generales y el estado de conservación del predio, que sustentan la emisión del certificado;
+
+d) Estrategia de manejo;
+
+e) Deberes del propietario, y
+
+f) Vigencia mínima de quince años;
+
+III.- La Secretaría podrá establecer diferentes niveles de certificación en función de las características físicas y biológicas generales y el estado de conservación de los predios, así como el plazo por el que se emite el certificado y su estrategia de manejo, para que, con base en estos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de dichos predios. Asimismo, dichos niveles serán considerados por las dependencias competentes, en la certificación de productos o servicios;
+
+IV.- Las áreas destinadas voluntariamente a la conservación se administrarán por su propietario y se manejarán conforme a la estrategia de manejo definida en el certificado. Cuando dichas áreas se ubiquen dentro del polígono de otras áreas naturales protegidas previamente declaradas como tales por la Federación, el Gobierno del Distrito Federal, los estados y los municipios, la estrategia de manejo observará lo dispuesto en las declaratorias y los programas de manejo correspondientes.
+
+Asimismo, cuando el Ejecutivo Federal, los gobiernos de los Estados o los municipios establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo determinadas en los certificados que expida la Secretaría;
+
+V.- Cuando en las áreas destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Secretaría conforme al procedimiento previsto en el Reglamento. Lo previsto en esta fracción no aplica para el aprovechamiento de recursos forestales cuyos productos se certificarán con base en la Ley General de Desarrollo Forestal Sustentable, y
+
+VI.- El Reglamento establecerá los procedimientos relativos a la modificación de superficies o estrategias de manejo, así como la transmisión, extinción o prórroga de los certificados expedidos por la Secretaría.
 
 (REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
@@ -3407,3 +3481,27 @@ D.O.F. 5 DE JULIO DE 2007.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE MAYO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo Federal, en un plazo no mayor de trescientos días, deberá publicar en el Diario Oficial de la Federación las reformas necesarias al Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas, a fin de que las disposiciones correspondientes sean acordes al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Mientras se expiden las disposiciones reglamentarias del presente Decreto, seguirán en vigor las que han regido hasta la fecha, en lo que no las contravengan.
+
+###### ARTÍCULO CUARTO.
+
+Los certificados de predios destinados voluntariamente a la conservación, emitidos con anterioridad a la entrada en vigor del presente Decreto, tendrán validez para los efectos del reconocimiento como área natural protegida, de conformidad con lo dispuesto en la fracción I del artículo 77 BIS del presente Decreto.
+
+Asimismo, conservarán su número y fecha de registro, pero su renovación deberá ajustarse a las disposiciones del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de certificación de predios destinados voluntariamente a la conservación que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, serán resueltos de conformidad con las disposiciones vigentes al momento de la presentación de la solicitud correspondiente, pero su renovación deberá ajustarse a las disposiciones del presente Decreto.
