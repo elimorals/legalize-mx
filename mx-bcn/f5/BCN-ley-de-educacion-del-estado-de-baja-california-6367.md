@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2007-10-05"
+last_updated: "2008-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -116,6 +116,10 @@ Todos los habitantes del Estado tienen derecho a recibir educación. Es obligaci
 ###### ARTICULO 7.
 
 Toda la educación que el Estado imparta será gratuita, por lo que queda prohibido condicionar o restringir los derechos del educando, al pago de cuotas o cualquier tipo de contraprestación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2008)</small>
+
+Para garantizar la gratuidad en la educación preescolar, primaria y secundaria el Ejecutivo del Estado destinará en el presupuesto de egresos para el ejercicio fiscal correspondiente, los recursos suficientes para el mantenimiento y cuidado de las escuelas de nivel básico del sistema educativo del estado de Baja California.
 
 ###### ARTICULO 8.
 
@@ -1134,3 +1138,7 @@ P.O. 18 DE MAYO DE 2007.
 P.O. 5 DE OCTUBRE DE 2007.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE MAYO DE 2008.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
