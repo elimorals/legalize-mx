@@ -4,7 +4,7 @@ identifier: "COA-ley-de-seguridad-publica-del-estado-de-coahuila-de-zaragoza-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-25"
-last_updated: "2008-01-15"
+last_updated: "2008-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y NOVENO TRANSITORIOS DE LA LEY DE PROCURACION DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 16 DE MAYO DE 2008, QUEDARAN DEROGADAS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, EXCLUSIVAMENTE EN LO QUE SE REFIERAN A LA SELECCION Y ADMISION DE PERSONAL Y AL SERVICIO DE CARRERA DEL PERSONAL DEL MINISTERIO PUBLICO Y SUS AUXILIARES DIRECTOS, EN CUANTO SE OPONGAN A LA NUEVA LEY, A PARTIR DE LOS 6 MESES POSTERIORES A LA PUBLICACION DE ESTA ULTIMA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2005.
 
@@ -1586,3 +1588,27 @@ SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que med
 TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2008.
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La presente Ley entrará en vigor a los seis meses contados a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Desde la fecha que inicie su vigencia queda abrogada la Ley Orgánica del Ministerio Público del Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado del día once de marzo de dos mil cinco y sus reformas subsecuentes. Las menciones que de dicha Ley se hagan en otras disposiciones legales se entenderán referidas a la Ley de Procuración de Justicia.
+
+CUARTO. La presente ley sustituye la normatividad relativa a la Averiguación Previa y a las atribuciones del Ministerio Público en la investigación de los delitos, por lo que a partir de su vigencia se derogan todas las disposiciones en lo que se opongan a la misma.
+
+QUINTO. Las Averiguaciones Previas que se inicien bajo su vigencia se sujetarán a lo dispuesto en la presente Ley. Las Averiguaciones Previas que se encuentren en tramite se sujetarán en lo sucesivo a ella. Los actos concretos y actuaciones que se hayan iniciado antes de la vigencia de esta Ley y que se encuentren en trámite se agotarán o concluirán con base en las disposiciones de la legislación conforme a la que iniciaron.
+
+SEXTO. Las disposiciones relativas a la libertad bajo caución, libertad por penalidad alternativa para los efectos procesales, la oblación, la falta penal, el perdón en delitos perseguibles de oficio, las causales de no ejercicio de acción penal y los demás beneficios análogos contenidos en las disposiciones que se derogan o abrogan, se podrán aplicar a las Averiguaciones Previas y, en su caso, a los Procesos, que se hayan iniciado antes de la vigencia de la presente Ley; en cuanto resulten más benéficas al inculpado o éste las solicite.
+
+SÉPTIMO. Durante los Procesos los actos y las actuaciones de Averiguación Previa se valorarán y examinarán de acuerdo a las disposiciones legales conforme a las cuales se hayan constituido, de conformidad en lo dispuesto en los artículos anteriores. Los Tribunales y demás autoridades reconocerán las atribuciones y la normatividad que rige al Ministerio Público contenidas en la presente Ley a partir de inicio de su vigencia.
+
+OCTAVO. Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta que se expidan los nuevos; pero conferirán las atribuciones contenidas en la presente Ley a partir del inicio de su vigencia, por lo que la adscripción o especialidad que los mismos contemplen se entenderá como comisión.
+
+NOVENO. Se derogan las disposiciones de la Ley de Seguridad Pública del Estado exclusivamente en lo que se refieran a la selección y admisión de personal y al servicio de carrera del personal del Ministerio Público y sus auxiliares directos; en cuanto se opongan a la presente Ley.
+
+DÉCIMO. El personal que desee incorporarse al Servicio Civil de Carrera contará con el plazo de un año a partir de que la presente Ley entre en vigor, para solicitar su incorporación.
+
+DÉCIMO PRIMERO. Las Agencias y las Coordinaciones del Ministerio Público conservarán su denominación, especialización o adscripción territorial, hasta en tanto no se modifiquen con sujeción a lo dispuesto por la presente Ley.
