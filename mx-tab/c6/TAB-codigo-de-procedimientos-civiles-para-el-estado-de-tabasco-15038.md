@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2007-05-02"
+last_updated: "2008-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -6781,9 +6781,11 @@ IV.- El tribunal podrá tener en cuenta hechos no alegados por las partes, pero 
 
 V.- Si el actor que intente la demanda deja de promover por más de seis meses en el curso del juicio, la sentencia que se dicte se limitará a decretar la caducidad de la instancia;
 
-VI. Si una de las partes fallece, el juicio se dará por concluido, excepto en los casos en que la ley conceda a los herederos expresamente la facultad de continuarlo;
+VI.- Si una de las partes fallece, el juicio se dará por concluido, excepto en los casos en que la ley conceda a los herederos expresamente la facultad de continuarlo;
 
-VII.- El juzgador podrá admitir alegaciones y pruebas de las partes, aunque se presenten fuera de plazo;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2008)</small>
+
+VII.- El juzgador podrá admitir alegaciones y pruebas de las partes, aunque se presenten fuera de plazo; Inclusive el análisis biológico molecular de la caracterización del ácido desoxirribonucleico de las células del demandado y el actor, cuyos materiales genéticos se obtendrán en presencia del juzgador. El costo de dicha prueba pericial, realizado por persona autorizada para tales efectos por la Secretaria de Salud, será a cargo del padre biológico cuando éste resulte serlo, en caso contrario será por cuenta del oferente;
 
 VIII.- La sentencia tendrá autoridad de cosa juzgada aun en contra de los terceros que no litigaren, excepto respecto de aquéllos que no habiendo sido citados al juicio, pretendan para sí la existencia de la relación paterna filial; y
 
@@ -9864,3 +9866,9 @@ El correspondiente Decreto entrará en vigor al día siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios de registro extemporáneo de actas del estado civil, que al momento de la entrada en vigor del correspondiente Decreto estén en trámite, continuarán su procedimiento hasta su total conclusión ante la autoridad jurisdiccional que conoce de los mismos.
+
+P.O. 17 DE MAYO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor a los sesenta días posteriores al siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga lo dispuesto en el presente decreto.
