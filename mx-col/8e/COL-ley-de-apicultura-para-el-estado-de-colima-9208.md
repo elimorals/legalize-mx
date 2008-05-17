@@ -4,7 +4,7 @@ identifier: "COL-ley-de-apicultura-para-el-estado-de-colima-9208"
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-24"
-last_updated: "1981-10-24"
+last_updated: "2008-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE APICULTURA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY APICOLA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 17 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 24 de octubre de 1981.
 
@@ -448,3 +450,15 @@ Dado en el Recinto del Poder Legislativo, a los once días del mes de Septiembre
 Por tanto mando se imprima, publique, circule y observe.
 
 PALACIO DE GOBIERNO, Colima, Colima, a 21 veintiuno de septiembre de 1981 mil novecientos ochenta y uno.- La Gobernadora Const. del Edo., LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MAYO DE 2008.
+
+PRIMERO: La presente Ley iniciará su vigencia quince días después de su publicación en el Periódico Oficial el (sic) "El Estado de Colima".
+
+SEGUNDO: Dentro de los noventa días siguientes de que entre en vigor la presente Ley, las Organizaciones y sus socios deberán solicitar su registro en la Secretaría de Desarrollo Rural del Gobierno del Estado y demás Dependencias señaladas en esta Ley.
+
+TERCERO: Se abroga la LEY DE APICULTURA DEL ESTADO DE COLIMA publicada en el Periódico Oficial correspondiente al 24 de Octubre de 1981.
+
+CUARTO: Se derogan todas las disposiciones legales que se opongan al presente decreto.
