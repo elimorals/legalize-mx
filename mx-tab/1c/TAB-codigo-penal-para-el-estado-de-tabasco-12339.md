@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2006-09-12"
+last_updated: "2008-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2925,17 +2925,19 @@ Artículo 304 bis - A.- Al servidor público que autorice o permita obras o acti
 
 ### CAPITULO I. ACCESO SIN AUTORIZACION
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2008)</small>
 
-Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cualquier medio sin la autorización debida o, excediendo la que tenga, a una computadora personal, o a un sistema de red de computadoras, un soporte lógico de programas de cómputo o base de datos, se le impondrá de veinte a cincuenta días de trabajo a favor de la comunidad y de veinte a treinta días multa.
+Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cualquier medio sin la autorización debida o, excediendo la que tenga, a una computadora personal, o a un sistema de red de computadoras, un soporte lógico de programas de cómputo o base de datos, se le impondrá de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ### CAPITULO II. DAÑO INFORMATICO
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2008)</small>
 
-Artículo 326 bis 1.- A quien sin autorización modifique, destruya o deteriore en forma parcial o total, archivos, bases de datos o cualquier otro elemento intangible contenido en computadoras personales, sistemas o redes de cómputo, soportes lógicos, o cualquier otro medio magnético, se le sancionará con penas de uno a cinco años de prisión y de cien a cuatrocientos días multa.
+Artículo 326 bis 1.- A quien sin autorización modifique, destruya o deteriore en forma parcial o total, archivos, bases de datos o cualquier otro elemento intangible contenido en computadoras personales, sistemas o redes de cómputo, soportes lógicos, o cualquier otro medio magnético, se le sancionará con penas de dos a ocho años de prisión y de cuatrocientos a mil doscientos días multa.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 Cuando el activo tenga el carácter de encargado del manejo, administración o mantenimiento de los bienes informáticos dañados, las penas se incrementarán en una mitad más.
 
@@ -2951,9 +2953,11 @@ DELITOS CONTRA LA SEGURIDAD DE LA COMUNICACION
 
 ### CAPITULO III. FALSIFICACION INFORMATICA
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2008)</small>
 
-Artículo 326 bis 2.- Se impondrán penas de uno a cinco años de prisión, al que copie o imite los originales de cualquier dato, archivo o elemento intangible contenido en una computadora personal o en un sistema de redes de computadoras, base de datos, soporte lógico, siempre que para ello se requiera autorización y no la obtenga.
+Artículo 326 bis 2.- Se impondrán penas de dos a seis años de prisión y de cuatrocientos a mil días multa, al que copie o imite los originales de cualquier dato, archivo o elemento intangible contenido en una computadora personal o en un sistema de redes de computadoras, base de datos, soporte lógico, siempre que para ello se requiera autorización y no la obtenga.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 Las mismas sanciones se aplicarán al que utilice o aproveche en cualquier forma, los bienes informáticos falsificados, previstos en este Título.
 
@@ -3551,7 +3555,7 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, EN LA CIUDAD DE VILLAHERMOS
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento:
 
-EXPEDIDO EN EL PALACIO DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTICUATRO DÍAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE.
+EXPEDIDO EN EL PALACIO DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS VEINTICUATRO DÍAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
 LIC. ROBERTO MADRAZO PINTADO.
 
@@ -3636,3 +3640,13 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 17 DE MAYO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al correspondiente Decreto.
