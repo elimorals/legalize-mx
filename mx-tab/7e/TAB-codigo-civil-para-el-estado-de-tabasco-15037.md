@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2008-02-23"
+last_updated: "2008-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2763,13 +2763,27 @@ En relación a la madre
 
 La filiación de los hijos cuyos padres no fueren cónyuges resulta con relación a la madre, del solo hecho del nacimiento. Para justificar este hecho, son admisibles todos los medios de prueba, y en los juicios de intestado o de alimentos se justificará la filiación respecto de la madre dentro del mismo procedimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 347.
 
-Respecto del padre
+Respecto del Padre
 
 Respecto del padre, la filiación se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad; pero en el caso de concubinato se podrá justificar la filiación respecto del padre en el mismo juicio de intestado o de alimentos y será suficiente probar los hechos a que se refieren los artículos 340 y 372, tanto en vida de los padres como después de su muerte. Esta acción es imprescriptible y transmisible por herencia.
 
 Sin embargo, como una excepción a esta presunción, cuando en el proceso reproductivo participe una segunda mujer, se presumirá madre legal a la mujer que contrata, ya sea que esta última provea o no el óvulo. Esto es, cuando la madre sustituta no es la madre biológica del niño nacido como resultado de una transferencia de embrión, la madre contratante deberá ser considerada la madre legal del niño y éste será considerado hijo legítimo de la mujer que contrató.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2008)</small>
+
+La filiación de los hijos también podrá acreditarse a través de la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de sus células en el juicio contradictorio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2008)</small>
+
+La negativa del demandado a realizarse la prueba señalada en el párrafo anterior, admitida u ordenada por el Juez, hará presumir la filiación que se le atribuye.
 
 ###### ARTICULO 348.
 
@@ -25344,6 +25358,12 @@ P.O. 23 DE FEBRERO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MAYO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor a los sesenta días posteriores al siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga lo dispuesto en el presente decreto.
 
 ###### ARTICULO PRIMERO.
 
