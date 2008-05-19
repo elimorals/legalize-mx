@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "2007-02-06"
+last_updated: "2008-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-18"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -172,7 +172,9 @@ II. Ejecutar las acciones de desregulación y simplificación administrativa, de
 
 III. Impulsar los proyectos de fomento económico que propicien la creación y conservación del empleo, de acuerdo con los lineamientos establecidos en la presente Ley;
 
-IV. Organizar reuniones mensuales de los Comités de Fomento Económico Delegacionales, y
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2008)</small>
+
+IV. Organizar una reunión cada tres meses, de los Comités de Fomento Económico Delegacionales, y
 
 V. Promover la concertación con los sectores privado y social para impulsar el desarrollo económico en su demarcación territorial.
 
@@ -695,3 +697,11 @@ CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes a
 QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
 
 SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
+
+G.O. 19 DE MAYO DE 2008.
+
+PRIMERO.- Túrnese al ciudadano Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
