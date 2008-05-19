@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-39600"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-05-10"
-last_updated: "2008-04-07"
+last_updated: "2008-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -717,9 +717,9 @@ VIII.- Comisión de Derechos Humanos;
 
 IX.- Comisión de Salud;
 
-(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
-X.- Comisión de Medio Ambiente, Ecología y Desarrollo Urbano;
+X.- Comisión de Medio Ambiente;
 
 (REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
 
@@ -729,9 +729,9 @@ XI.- Comisión de Población y Migración;
 
 XII.- Comisión de Industria, Comercio y Servicios;
 
-(REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
-XIII.- Comisión de Obras Públicas;
+XIII.- Comisión de Obras Públicas, Desarrollo Urbano y Vivienda;
 
 (REFORMADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
 
@@ -2078,3 +2078,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicac
 SEGUNDO.- La revisión de las Cuentas Públicas correspondientes al Ejercicio Fiscal 2007, se perfeccionará y concluirá en términos de la presente Ley, en el año 2009.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO.- Se derogan las disposiciones que se opongan a la presente Ley.
