@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2008-03-18"
+last_updated: "2008-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -172,6 +172,30 @@ Toda personas (sic) disfrutará en Quintana Roo de la Libertad de creencias, en 
 ###### ARTICULO 21.
 
 La correspondencia que bajo cualquier forma circule en el Estado, estaráexenta (sic) de toda revisión y su violación constituye delito.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2008)</small>
+
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de replica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2008)</small>
+
+Para el ejercicio del derecho de acceso a la información, regirán los principios y bases siguientes:
+
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo estatal o municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano con autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propio; especializado e imparcial, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información, así como el ejercicio de las atribuciones que determine la ley; dicho órgano deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+
+Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información.
+
+VI. La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
 ###### ARTICULO 22.
 
@@ -1731,11 +1755,11 @@ El Municipio Libre es la base de la división territorial y de la organización 
 
 La Autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí mismo los asuntos propios de su comunidad, en el ámbito de competencia que le señala la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que conforme a ellas se expidan.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 127.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres y Solidaridad.
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad y Tulum.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1757,9 +1781,201 @@ VI. MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al norte, el paralelo 
 
 VII. MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al norte, el canal de Yucatán. Al sur, el municipio Benito Juárez. Al este, el Mar Caribe. Al oeste, el municipio Lázaro Cárdenas. Comprende las Islas de Mujeres, Contoy y Blanca, islotes y cayos adyacentes a su litoral.
 
-VIII. MUNICIPIO DE SOLIDARIDAD, con cabecera en la ciudad de Playa del Carmen. Al norte, partiendo del paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto se continúa con rumbo este sobre el paralelo hasta encontrar el lindero poniente del Ejido Tres Reyes, se dobla al sur para seguir el lindero poniente y sur del Ejido Paachaeen hasta encontrar el lindero sur del ejido San Juan de Dios, continuando al este sobre el lindero mencionado hasta encontrar el vértice sureste de este ejido, de aquí se continúa por el paralelo que pasa por este lugar con rumbo este, hasta encontrar el lindero del Ejido Playa del Carmen, se continúa al norte sobre el lindero mencionado y al encontrar el vértice norte de este Ejido se continúa por el paralelo del lugar hasta encontrar el vértice suroeste del ejido de Puerto Morelos, se continúa al este sobre el lindero del Ejido hasta encontrar el límite del fundo legal de Puerto Morelos, se continúa al sur hasta salir a la costa del Mar Caribe, por el sur, con el Municipio de Felipe Carrillo Puerto, por el este, el Mar Caribe, y por el oeste el Municipio de Felipe Carrillo Puerto y la línea que partiendo de Put con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
-Se excluyen de su jurisdicción, las áreas descritas en los párrafos tercero y cuarto de la Fracción IV de este Artículo.
+VIII.- MUNICIPIO DE SOLIDARIDAD, con cabecera en la Ciudad de Playa del Carmen, con la siguiente extensión territorial:
+
+CUADRO DE CONSTRUCCION
+
+LADOS RUMBOS DISTANCIAS COORDENADAS VERT
+
+EST P.V. X Y
+
+1 2 N 02°26'03"E 806.048 508214.170 2300545.146 1
+
+2 3 S 89°45'12"O 16536.808 508248.404 2301350.467 2
+
+3 4 S 65°20'26"O 12865.144 491711.749 2301279.263 3
+
+4 5 S 41°43'51"O 8435.226 480019.869 2295911.594 4
+
+5 6 S 50°56'42"E 999.101 474405.106 2289616.558 5
+
+6 7 S 41°59'15"O 4686.392 475180.950 2288987.059 6
+
+7 8 S 55°01'35" E 2024.184 472045.900 2285503.709 7
+
+8 9 N 89°45'49"O 13161.669 473704.546 2284343.445 8
+
+9 10 N 89°01'27"O 5664.766 460542.990 2284397.722 9
+
+10 11 N 87°03'55"O 939.170 454879.045 2284494.191 10
+
+11 12 N 89°05'27"O 8504.052 453941.107 2284542.275 11
+
+12 13 S 01°14'16"E 7507.943 445438.125 2284677.191 12
+
+13 14 N 85°06'54"O 9572.217 445600.326 2277171.000 13
+
+14 15 N 02°33'18"E 5847.704 436062.881 2277986.155 14
+
+15 16 N 88°47'14"O 13964.238 436323.569 2283828.046 15
+
+16 17 S 58°09'18"O 31460.658 422362.459 2284123.600 16
+
+17 18 S 04°32'29"E 6038.673 395637.320 2267524.206 17
+
+18 19 S 88°30'35"E 5552.274 396115.454 2261504.492 18
+
+19 20 S 88°06'15"E 6532.642 401665.851 2261360.089 19
+
+20 21 S 83°31'51"E 3453.484 408194.917 2261143.972 20
+
+21 22 N 44°00'08"E 11448.321 411626.411 2260754.871 21
+
+22 23 S 84°42'19"E 186.033 419579.408 2268989.790 22
+
+23 24 S 89°41'55"E 13874.745 419764.647 2268972.623 23
+
+24 25 S 42°47'43"E 7058.483 433639.200 2268899.645 24
+
+25 26 S 16°04'28"E 3139.733 438434.603 2263720.235 25
+
+26 27 S 37°34'18"E 9492.914 439303.946 2260703.255 26
+
+27 28 N 74°47'36"E 8323.167 445092.270 2253179.245 27
+
+28 29 S 60°27'8"E 6451.204 453124.005 2255362.441 28
+
+29 30 S 61°11'00"E 1987.165 458736.202 2252181.045 29
+
+30 31 N 26°40'02"E 3048.404 460477.290 2251223.217 30
+
+31 32 N 60°05'41"O 3201.067 461845.437 2253947.358 31
+
+32 33 N 61°06'32"O 1990.667 459070.591 2255543.309 32
+
+33 34 N 30°47'51"E 5429.599 457327.682 2256505.089 33
+
+34 35 S 63°31'41"E 2084.392 460107.661 2261169.021 34
+
+35 36 N 30°47'45"E 1302.997 461973.510 2260239.882 35
+
+36 37 S 52°45'00"E 1188.075 462640.619 2261359.152 36
+
+37 38 S 30°28'43"E 1985.835 463586.330 2260640.018 37
+
+38 39 S 30°32'19"E 1837.395 464593.578 2258928.588 38
+
+39 40 N 59°13'49"E 954.710 465527.193 2257346.064 39
+
+40 41 S 61°25'48"E 1148.025 466347.508 2257834.484 40
+
+41 42 N 28°48'39"E 249.046 467355.744 2257285.464 41
+
+42 43 S 65°14'53"E 957.671 467475.764 2257503.682 42
+
+43 1 Sobre la línea de costa del Mar Caribe hacia el norte hasta llegar al vértice 1. Se respeta el polígono de CALICA perteneciente al municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo tercero de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo tercero de este artículo.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2008)</small>
+
+IX.- MUNICIPIO DE TULUM, con cabecera en la Ciudad de Tulum, comprendiendo la siguiente extensión territorial:
+
+CUADRO DE CONSTRUCCIÓN
+
+LADOS RUMBOS DISTANCIAS COORDENADAS VERT
+
+EST P.V. X Y
+
+1 2 N 00°10'15"E 36235.544 447633.514 2190212.998 1
+
+2 3 N 89°46'34"O 13373.848 447741.518 2226448.381 2
+
+3 4 N 00°12'14"E 7956.296 434367.771 2226500.635 3
+
+4 5 N 89°11'14"O 36106.051 434396.093 2234456.880 4
+
+5 6 N 04°32'16"O 26411.175 398293.675 2234969.107 5
+
+6 7 S 88°30'35"E 5552.274 396204.166 2261297.497 6
+
+7 8 S 88°06'15"E 6532.642 401754.563 2261153.094 7
+
+8 9 S 83°31'51"E 3453.484 408283.629 2260936.977 8
+
+9 10 N 44°00'08"E 11448.321 411715.123 2260547.876 9
+
+10 11 S 84°42'19"E 186.033 419668.120 2268782.795 10
+
+11 12 S 89°41'55"E 13874.745 419853.359 2268765.628 11
+
+12 13 S 42°47'43"E 7058.483 433727.912 2268692.650 12
+
+13 14 S 16°04'28"E 3139.733 438523.315 2263513.240 13
+
+14 15 S 37°34'18"E 9492.914 439392.658 2260496.260 14
+
+15 16 N 74°47'36"E 8323.167 445180.982 2252972.250 15
+
+16 17 S 60°38'07"E 8437.449 453212.717 2255155.446 16
+
+17 18 N 26°40'51"E 3046.781 460566.088 2251017.999 17
+
+18 19 N 60°18'15"O 1653.997 461934.151 2253740.365 18
+
+19 20 N 59°52'54"O 1635.003 460497.378 2254559.749 19
+
+20 21 N 61°09'25"O 1902.772 459083.117 2255380.176 20
+
+21 22 N 30°47'51"E 5429.505 457416.394 2256298.095 21
+
+22 23 S 63°31'50"E 2084.395 460196.329 2260961.943 22
+
+23 24 N 30°47'17"E 1302.881 462062.222 2260032.887 23
+
+24 25 S 52°45'07"E 1185.527 462729.117 2261152.149 24
+
+25 26 S 30°31'01"E 202.648 463672.825 2260434.591 25
+
+26 27 S 30°31'01"E 56.309 463775.728 2260260.013 26
+
+27 28 S 30°31'01"E 1078.489 463804.321 2260211.504 27
+
+28 29 S 30°31'01"E 108.036 464351.971 2259282.408 28
+
+29 30 S 30°31'01"E 1018.695 464406.831 2259189.337 29
+
+30 31 S 30°31'01"E 50.800 464924.116 2258311.753 30
+
+31 32 S 30°31'01"E 945.367 464949.912 2258267.990 31
+
+32 33 S 30°31'01"E 27.000 465429.963 2257453.576 32
+
+33 34 S 30°31'01"E 292.182 465443.673 2257430.316 33
+
+34 35 S 30°59'37"E 46.032 465592.041 2257178.607 34
+
+35 36 N 59°14'18"E 954.934 465615.745 2257139.147 35
+
+36 37 S 61°22'11"E 420.660 466436.323 2257627.565 36
+
+37 38 S 61°22'11"E 109.485 466805.549 2257426.004 37
+
+38 39 S 61°22'11"E 568.129 466901.647 2257373.544 38
+
+39 40 S 60°50'38"E 49.798 467400.311 2257101.322 39
+
+40 41 N 28°47'03"E 250.936 467443.800 2257077.061 40
+
+41 42 S 63°50'39"E 123.720 467564.629 2257296.991 41
+
+42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
+
+43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo cuarto de este artículo.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1835,21 +2051,25 @@ Los Ayuntamientos se integran en la siguiente forma:
 
 I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad e Isla Mujeres, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
+
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad, Isla Mujeres y Tulum con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 135.
 
 Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
 
-I. En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres y Solidaridad, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+I. En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+
+En los Municipios de Felipe Carrillo Puerto, José Maria Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Solidaridad, y Tulum, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
 II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
 
-Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por lo menos el cuatro por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político que haya obtenido mayoría de votos.
+III. Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por lo menos el cuatro por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político que haya obtenido mayoría de votos.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -2271,7 +2491,7 @@ Podrán participar en las elecciones constitucionales, los partidos políticos n
 
 ###### ARTICULO QUINTO.
 
-La Legislatura calificará la elección de sus miembros a más tardar el 25 de marzo. Para el efecto los presuntos diputados sin necesidad de citación, se reunirán en el recinto de la Legislatura el 17 de marzo y constituídos en juntas preparatorias, nombrarán de entre sus miembros en escrutinio secreto y a mayoría de votos un Presidente, un Vicepresidente y un Secretario.
+La Legislatura calificará la elección de sus miembros a más tardar el 25 de marzo. Para el efecto los presuntos diputados sin necesidad de citación, se reunirán en el recinto de la Legislatura el 17 de marzo y constituidos en juntas preparatorias, nombrarán de entre sus miembros en escrutinio secreto y a mayoría de votos un Presidente, un Vicepresidente y un Secretario.
 
 En esta reunión los presuntos diputados presentarán los documentos que los acrediten.
 
@@ -2367,7 +2587,7 @@ SEGUNDO.- Las contribuciones señaladas en el artículo 143 que no estén recibi
 
 TERCERO. Las leyes locales y sus reglamentos así como los reglamentos municipales respectivos, deberán reformarse o adicionarse en el término que establece el artículo 2º transitorio del decreto que reforma y adiciona el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación de Vías y Carreteras del Estado de Quintana Roo y su reglamento, el Ejecutivo del Estado ejercerá el mando en la corporación de Tránsito del Estado en la forma que lo ha venido haciendo.
+CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación de Vías y Carreteras del Estado de Quintana Roo y su reglamento, el Ejecutivo del Estado ejercerá el mando de la corporación de Tránsito del Estado en la forma que lo ha venido haciendo.
 
 P.O. 29 DE JULIO DE 1983.
 
@@ -2519,7 +2739,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Los Magistrados del Tribunal Superior de Justicia que encontrándose en funciones hayan sido reelectos mediante nombramiento del Ejecutivo del Estado y aprobación de la Legislatura, sólo podrán ser removidos en los términos que señala el Título Octavo de esta Constitución. Los demás Magistrados podrán ser reelectos al cumplir seis años de ejercicio, contados a partir de la fecha de su designación y si lo fueren, sólo podrán ser separados de su cargo en los mismos términos indicados en este artículo.
+Los Magistrados del Tribunal Superior de Justicia que encontrándose en funciones hayan sido reelectos mediante nombramiento del Ejecutivo del Estado y aprobación de la Legislatura, sólo podrán ser removidos en los términos que señala el Título Octavo de esta Constitución. Los demás Magistrados podrán ser reelectos al cumplir seis años de ejercicio, contados a partir de la fecha de su designación y si lo fueren, solo podrán ser separados de su cargo en los mismos términos indicados en este artículo.
 
 ###### ARTICULO TERCERO.
 
@@ -2583,7 +2803,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 
 SEGUNDO. La reforma al último párrafo del artículo 145, no será aplicable para los efectos de asignación de suplente del Presidente Municipal electo, en el proceso electoral 2001-2002.
 
-Por esta única ocasión, en caso de falta absoluta de alguno de los Presidentes Municipales que resultaren electos en el proceso electoral 2001-2002, corresponderá al propio Ayuntamiento, nombrar a quien ocupará dicho cargo, debiendo ser ratificado por la Legislatura o la Diputación Permanente, en su caso, dentro del improrrogable término de 10 días naturales.
+Por esta única ocasión, en caso de falta absoluta de alguno de los Presidente Municipales que resultaren electos en el proceso electoral 2001-2002, corresponderá al propio Ayuntamiento, nombrar a quien ocupará dicho cargo, debiendo ser ratificado por la Legislatura o la Diputación Permanente, en su caso, dentro del improrrogable término de 10 días naturales.
 
 Si la Legislatura o la Diputación Permanente no resolvieren dentro del plazo anterior, se tendrá por aprobado el nombramiento y el designado entrará a desempeñar sus funciones.
 
@@ -2695,7 +2915,7 @@ P.O. 11 DE SEPTIEMBRE DE 2006.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quinta Roo.
 
 P.O. 17 DE DICIEMBRE DE 2007.
 
@@ -2712,3 +2932,53 @@ P.O. 18 DE MARZO DE 2008.
 DECRETO NUM. 293, POR EL QUE SE REFORMA LA FRACCION I DEL ARTICULO 80 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roa.
+
+P.O. 19 DE MAYO DE 2008.
+
+DECRETO NUM. 008, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 127, 128, 134 Y 135 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor a los diez días de su publicación en el Periódico Oficial del Estado de Quintana Roo y se observarán las previsiones contenidas en los artículos siguientes:
+
+SEGUNDO.- La Legislatura del Estado o la Diputación Permanente en su caso dentro del término de sesenta días siguientes a la entrada en vigor del presente Decreto, expedirá la convocatoria a elecciones extraordinarias para elegir al Primer Ayuntamiento Constitucional del Municipio de Tulum, el cual se instalara en sesión pública y solemne del Cabildo Electo.
+
+TERCERO.- La Convocatoria a elección extraordinaria se expedirá conforme a la Legislación Electoral del Estado, bajo las siguientes bases:
+
+a).- El proceso electoral iniciará el día primero de octubre del 2008.
+
+b).- La jornada electoral se celebrará el primer domingo del mes de febrero del 2009.
+
+c).- El Ayuntamiento electo se instalará en ceremonia pública y solemne el día 10 de abril del 2009 y concluirá con sus funciones a las veinticuatro horas del día 9 de abril del 2011.
+
+CUARTO.- A más tardar el mes de mayo del 2008, el Ejecutivo del Estado, propondrá a la Legislatura del Estado, las modificaciones al Presupuesto de Egresos del Estado, para el ejercicio fiscal 2008, conforme a los proyectos que al efecto le presenten el Instituto Electoral del Estado y el Tribunal Electoral de Quintana Roo, con el objeto de preparar, organizar, desarrollar y vigilar el proceso electoral para elegir al Ayuntamiento del Municipio que se crea mediante el presente Decreto. Así como para el ejercicio de las atribuciones del Tribunal Electoral de Quintana Roo, en relación con el propio proceso.
+
+QUINTO.- Dentro del término de diez días siguientes a la entrada en vigor del presente Decreto, el Pleno del H. Congreso del Estado de Quintana Roo o la Comisión permanente en su caso, designará al Concejo Municipal Provisional, el cual se integrará con una estructura igual a la que corresponda al Ayuntamiento Constitucional de Tulum. Para tal efecto los integrantes del Consejo Municipal Provisional, deberán satisfacer los requisitos establecidos por el artículo 136 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEXTO.- El Concejo Municipal Provisional, asumirá las funciones administrativas y políticas del Municipio que se crea, de conformidad con lo que establece la Ley de los Municipios del Estado de Quintana Roo, el día de su designación y se extinguirá una vez que sea instalado el primer Ayuntamiento Constitucional de Tulum.
+
+SÉPTIMO.- El Concejo Municipal de Tulum, queda facultado para que se coordine con el Gobierno Municipal de Solidaridad, para preparar los procesos de transferencia de los servicios públicos e infraestructura, así como lo relativo al catastro, registros fiscales y contables y demás información necesaria para la continuidad en la prestación de los servicios públicos y el ejercicio de las atribuciones del Municipio que se crea mediante el presente Decreto.
+
+Las transferencias deberán ser aprobadas mediante el acuerdo del Cabildo de Solidaridad, dentro del ámbito de su competencia y la entrega-recepción correspondiente se formalizará con el Ayuntamiento electo, el mismo día de su instalación.
+
+En los procesos de entrega-recepción se observará, en lo conducente, lo dispuesto al efecto por la Ley de los Municipios del Estado de Quintana Roo.
+
+Los procesos de transferencia no deberán afectar los servicios públicos que actualmente se prestan en el territorio que se establece para el Municipio que se crea mediante el presente Decreto.
+
+OCTAVO.- Hasta en tanto el Ayuntamiento del Municipio de Tulum, no expida su propia reglamentación y disposiciones municipales, continuarán aplicándose en lo conducente los reglamentos y disposiciones del Municipio de Solidaridad.
+
+Las Leyes en materia de hacienda, ingresos y en general todas aquellas aplicables al Municipio de Solidaridad, lo será en lo conducente al Municipio de Tulum, hasta en tanto la Legislatura del Estado, expide las leyes o realiza las adecuaciones correspondientes.
+
+NOVENO.- Los órganos jurisdiccionales con competencia en el Municipio de Solidaridad, conservarán su jurisdicción territorial que hasta ahora han tenido, hasta en tanto se adecúan las leyes o disposiciones correspondientes.
+
+DÉCIMO.- Los Programas de Desarrollo Urbano y los proyectos de inversión para el año 2008, destinados para Akumal y Tulum y las comunidades que componen el nuevo Municipio, que fueran aprobados por el Honorable Cabildo de Solidaridad, quedarán vigentes y serán obligatorios. Asimismo, los compromisos y planes contraídos en el 2008 por el Municipio de Solidaridad serán obligatorios para el nuevo Municipio.
+
+P.O. 19 DE MAYO DE 2008.
+
+DECRETO NUM. 009, POR EL QUE SE ADICIONA EL ARTICULO 21 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto. La Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo publicada en el Periódico Oficial del Gobierno del Estado el 31 de mayo de 2004, continuará vigente, en lo que no oponga a las disposiciones del presente Decreto.
+
+TERCERO.- Los sujetos obligados y el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, darán operatividad a los sistemas electrónicos a los que se refiere el presente Decreto, dentro de un año a partir de la entrada en vigor del mismo.
+
+CUARTO.- Dentro de los 45 días naturales posteriores a la entrada en vigor del presente decreto, la Legislatura del Estado deberá realizar las reformas necesarias a la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, para la aplicación de las disposiciones contenidas en este Decreto.
