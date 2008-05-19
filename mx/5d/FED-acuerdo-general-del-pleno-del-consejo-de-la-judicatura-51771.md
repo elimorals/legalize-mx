@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-05-06"
+last_updated: "2008-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1223,7 +1223,9 @@ b) Reingreso al servicio público cuando hayan transcurrido más de sesenta día
 
 El plazo al que se refiere esta fracción se iniciará a partir del momento en que al servidor público respectivo le sea otorgado el nombramiento correspondiente.
 
-II. Declaración de modificación patrimonial, durante el mes de mayo de cada año.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA LA FRACCION II DEL ARTICULO 155, DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 19 DE MAYO DE 2008)</small>
+
+II. Declaración de modificación patrimonial, durante el mes de mayo de cada año, salvo que en ese mismo año el servidor público hubiese presentado su declaración de situación patrimonial a que se refieren las fracciones I y III del presente artículo.
 
 El titular de la Contraloría solicitará a los servidores públicos copia de la declaración del Impuesto sobre la Renta del año que corresponda, si éstos estuvieren obligados a formularla y, en su caso, de la constancia de percepciones y deducciones, las cuales deberán acompañarse a la declaración de modificación patrimonial.
 
@@ -1504,3 +1506,11 @@ En los procedimientos de responsabilidad administrativa resueltos antes de la en
 CUARTO.- Los procedimientos de responsabilidad que, a la entrada en vigor de este acuerdo, se estén tramitando en los términos de las disposiciones que se derogan, continuarán substanciándose hasta que queden en estado de resolución, hecho lo cual deberán remitirse a la Comisión en los términos del artículo 146 reformado.
 
 QUINTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
+
+D.O.F. 19 DE MAYO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta modificación, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
