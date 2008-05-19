@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2007-09-26"
+last_updated: "2008-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -145,11 +145,15 @@ X. Los servidores públicos adscritos a las instituciones a cargo del cumplimien
 
 > <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-XI. Los Presidentes Municipales; y
+XI. Los Presidentes Municipales; y (sic)
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2008)</small>
+
+XII. El Centro Estatal de Convivencia Familiar; y
 
 > <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
-XII. Los demás a quienes las leyes les confieran este carácter.
+XIII. Los demás a quienes las leyes les confieran este carácter.
 
 Los auxiliares de Impartición de Justicia se regirán por las leyes respectivas en cuanto a los requisitos y condiciones para el ejercicio de sus funciones, con exclusión de lo establecido en esta Ley.
 
@@ -1135,6 +1139,18 @@ En el caso de que no existiera lista de peritos en el arte o ciencia de que se t
 
 Sin perjuicio de lo que disponen las leyes procesales respectivas acerca de las obligaciones que correspondan a los auxiliares de que se ocupa el presente título; éstos cuando tengan manejo de bienes, deberán rendir una cuenta mensual al Juzgado respectivo, del movimiento y estado de dichos bienes.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2008)</small>
+
+###### ARTÍCULO 79 Bis.
+
+El Centro Estatal de Convivencia Familiar será un órgano del Consejo de la Judicatura del Estado, con autonomía técnica y operativa, que tiene por objetivo facilitar la convivencia paterno-filial en los casos que a juicio de los titulares de los Juzgados y Salas de lo Familiar, así como del Sistema para el Desarrollo Integral de la Familia, ésta no pueda cumplirse de manera libre y se considere necesario el interés superior del menor.
+
+Los servicios que este Centro brinde serán prestados de forma gratuita y se proporcionaran en sus propios espacios e instalaciones.
+
+El Centro Estatal de Convivencia Familiar estará integrado además de su Titular, así como del personal necesario para el cumplimiento de sus funciones.
+
+Para ser Director del Centro Estatal de Convivencia Familiar se deberán reunir los requisitos señalados por las fracciones I, II, IV y V del artículo 98 de la Constitución Política del Estado de Nuevo León, además deberá poseer título con antigüedad de cinco años a nivel licenciatura con especialidad en menores y/o relaciones familiares, preferentemente en cualesquiera de las siguientes ramas: Derecho, Psicología o Trabajo Social; y acreditar la experiencia y capacidad indispensable para el desempeño del cargo.
+
 ## TÍTULO QUINTO. DEL CONSEJO DE LA JUDICATURA
 
 ### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN DEL CONSEJO
@@ -2100,3 +2116,9 @@ Artículo Único.- El presente Decreto entrará en vigor el 12 de septiembre de 
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Consejo de la Judicatura del Estado deberá remitir dentro de los 30-treinta días naturales contados a partir de la publicación del presente Decreto a la Secretaría de Finanzas y Tesorería General del Estado el presupuesto para la instalación y funcionamiento del Centro Estatal de Convivencia Familiar, a efecto de que ésta determine la factibilidad de reasignación presupuestal dentro del presente ejercicio fiscal.
