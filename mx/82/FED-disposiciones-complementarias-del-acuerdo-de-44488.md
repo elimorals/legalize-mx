@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44488"
 country: "mx"
 rank: "otro"
 publication_date: "2003-04-02"
-last_updated: "2007-06-28"
+last_updated: "2008-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,61 +19,59 @@ issue_date: "2003-03-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 53 (BRASIL, 2002)
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+DECRETO PARA LA APLICACION DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 53, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
 
-Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 28 de junio de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 20 de mayo de 2008.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 16, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 36 de la Ley Aduanera; 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 del Reglamento de la Ley de Comercio Exterior, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 18 de junio de 2007 fue publicada en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación con objeto de reflejar los cambios en los patrones mundiales de comercio, homologar nuestro sistema de clasificación arancelaria con el de otros países, evitar discrepancias de interpretación, agilizar los trámites aduaneros y facilitar la correcta identificación y clasificación de las mercancías;
+Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República, el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de proseguir el proceso de integración latinoamericano y establecer a largo plazo un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración;
 
-Que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación 18 de junio de 2007 abroga con su entrada en vigor la Ley de los Impuestos Generales de Importación y de Exportación publicada el 18 de enero de 2002 y sus modificaciones publicadas en el mismo órgano informativo;
+Que en el marco del Tratado de Montevideo 1980, los Estados Unidos Mexicanos y la República Federativa del Brasil suscribieron el 3 de julio de 2002 el Acuerdo de Complementación Económica No. 53, el cual se dio a conocer en el Diario Oficial de la Federación el 31 de diciembre de 2002;
 
-Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
+Que el 2 de abril de 2003 se publicó en el Diario Oficial de la Federación, el Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, con el objeto de otorgar las preferencias arancelarias pactadas en dicho Acuerdo;
 
-Que es obligación del Ejecutivo Federal propiciar un escenario de certidumbre jurídica en el que actúen los diferentes agentes económicos involucrados en el comercio exterior, para lo cual es necesario actualizar y difundir las fracciones arancelarias y su descripción, conforme a la Ley de los Impuestos Generales de Importación y de Exportación, así como definir claramente el estatus de los ordenamientos en los que se establecen diversas disposiciones sobre instrumentos y programas de comercio exterior he tenido a bien expedir el siguiente
+Que el 2 de mayo de 2003 se publicó en el Diario Oficial de la Federación, el Acuerdo por el que se da a conocer el Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, mediante el cual las Partes convinieron incluir en el formulario del certificado de origen información relativa a la administración de los cupos negociados en dicho Acuerdo;
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+Que el 24 de junio de 2004, la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
+
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
+
+Que para aplicar las preferencias arancelarias que otorgan los Estados Unidos Mexicanos a la República Federativa del Brasil en el Acuerdo de Complementación Económica No. 53, en función de las modificaciones mencionadas al Sistema Armonizado de Designación y Codificación de Mercancías y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ###### ARTÍCULO PRIMERO.
 
-Los Estados Unidos Mexicanos aplicarán las preferencias arancelarias pactadas en el Acuerdo de Complementación Económica No. 53 a las importaciones originarias y procedentes de la República Federativa del Brasil, clasificadas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (4), conforme a la columna (5) de la siguiente
+Los Estados Unidos Mexicanos aplicarán las preferencias arancelarias pactadas en el Acuerdo de Complementación Económica No. 53 a las importaciones originarias y procedentes de la República Federativa del Brasil, clasificadas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (1), con las acotaciones correspondientes, en su caso, de la columna (3), conforme a la columna (4) de la siguiente:
 
-TABLA DE PREFERENCIAS ARANCELARIAS PORCENTUALES, QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS A LA REPÚBLICA FEDERATIVA DEL BRASIL, EN EL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 53
+Tabla de preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República Federativa del Brasil en el Acuerdo de Complementación Económica No. 53
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO SEGUNDO.
 
-La determinación de origen de los productos a que se refiere el presente Decreto, así como la declaración, certificación, control, comprobación de origen, expedición, transporte y tránsito de las mercancías, se regirá por lo establecido en el Capítulo IV "Régimen de Origen y Procedimientos Aduaneros para el Control y Verificación del Origen de las Mercancías", del Acuerdo de Complementación Económica No. 53 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil.
+La determinación de origen de los productos a que se refiere el presente Decreto, así como la declaración, certificación, control, comprobación de origen, expedición, transporte y tránsito de las mercancías, se regirá por lo establecido en el Capítulo IV “Régimen de Origen y Procedimientos Aduaneros para el Control y Verificación del Origen de las Mercancías”, del Acuerdo de Complementación Económica No. 53 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil.
 
 ###### ARTÍCULO TERCERO.
 
-Los cupos de importación, en la cantidad o volumen que aplicarán los Estados Unidos Mexicanos, señalados en la columna (4) de la Tabla del artículo primero del presente Decreto, se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía, de conformidad con lo dispuesto por la Ley de Comercio Exterior.
+Para efectos de la declaración de origen, los operadores económicos aplicarán el formulario del certificado de origen pactado en el Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 53, sucrito entre las Partes el 31 de marzo de 2003, publicado en el Diario Oficial de la Federación el 2 de mayo de 2003.
 
 ###### ARTÍCULO CUARTO.
 
-Para las operaciones de importación en los Estados Unidos Mexicanos de los productos contenidos en la Tabla del artículo primero del presente Decreto, el importador deberá presentar a la Aduana, anexo al pedimento de importación, conforme al Artículo 36 de la Ley Aduanera vigente, la siguiente documentación:
-
-a) certificado de origen, de conformidad con lo establecido por el artículo segundo del presente Decreto, y
-
-b) certificado de cupo ALADI expedido por la Secretaría de Economía, cuando así corresponda.
+Los cupos de importación, en la cantidad o volumen que aplicarán los Estados Unidos Mexicanos, señalados en la columna (3) de la Tabla del ARTÍCULO PRIMERO del presente Decreto, se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía, de conformidad con lo dispuesto por la Ley de Comercio Exterior.
 
 ###### ARTÍCULO QUINTO.
 
-Se modifica la tabla de preferencias arancelarias porcentuales, que otorgan los Estados Unidos Mexicanos a la República Federativa del Brasil, en el Acuerdo de Complementación Económica No. 53, prevista en el Artículo Primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 2 de abril de 2003 y sus modificaciones, únicamente en lo que a continuación se indica:
+Para las operaciones de importación en los Estados Unidos Mexicanos de los productos contenidos en la Tabla del ARTÍCULO PRIMERO del presente Decreto, el importador deberá acompañar al pedimento que se presente ante la Aduana, conforme al artículo 36 de la Ley Aduanera vigente, la siguiente documentación:
 
-“ARTÍCULO PRIMERO.- . . .
+a) certificado de origen, de conformidad con lo establecido por el ARTÍCULO SEGUNDO del presente Decreto, y
 
-TABLA DE PREFERENCIAS ARANCELARIAS PORCENTUALES, QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS A LA REPÚBLICA FEDERATIVA DEL BRASIL, EN EL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 53
-
-(VEASE ARCHIVO ANEXO)
-
-...
+b) certificado de cupo ALADI expedido por la Secretaría de Economía, cuando así corresponda.
 
 ###### Artículo 1.
 
@@ -319,80 +317,10 @@ III. Las importaciones de vehículos cuyo número de serie o año-modelo tenga u
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Las solicitudes de los instrumentos y programas de comercio exterior que ingresen a la Secretaría de Economía a partir de la entrada en vigor del presente Acuerdo, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007, excepto por lo establecido en el párrafo siguiente.
+SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del primero de julio de 2007.
 
-Las solicitudes correspondientes a los trámites inscritos en el Registro Federal de Trámites y Servicios que se listan a continuación que ingresen a la SE a partir de las fechas que se indican, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007:
+TERCERO.- A la entrada en vigor del presente Decreto, se abroga el Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 2 de abril de 2003, y se deroga cualquier otra disposición que se oponga a lo dispuesto en el presente Decreto.
 
-I. A partir del 28 de junio de 2007:
-
-a) SE-03-037 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del número de exportador autorizado para la Unión Europea (UE) o la Asociación Europea de Libre Comercio (AELC)"
-
-b) SE-03-038 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-c) SE-03-039 "Autorización para utilizar el "Registro de Productos" para la obtención del Certificado de Circulación de Mercancías EUR. 1 o del Carácter de Exportador Autorizado de la Unión Europea"
-
-d) SE-03-051 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI (Asociación Latinoamericana de Integración)"
-
-e) SE-03-052 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen SGP (Sistema Generalizado de Preferencias)"
-
-f) SE-03-068 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Tratado de Libre Comercio México/Uruguay"
-
-g) SE-03-070 "Registro de Bienes Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre México y el Japón"
-
-II. A partir del 29 de junio de 2007:
-
-a) SE-03-040 "Validación del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-b) SE-03-044 "Validación del Certificado de Origen Asociación Latinoamericana de Integración (ALADI) para Argentina, Brasil, Cuba, Ecuador, Paraguay, Perú y Uruguay"
-
-c) SE-03-045 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP)"
-
-d) SE-03-046 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP) de la Unión Europea"
-
-e) SE-03-047 "Validación del Certificado de Origen bajo el Sistema Generalizado de Preferencias (SGP) para Japón"
-
-f) SE-03-048 "Validación del Certificado de Origen de Artículos Mexicanos"
-
-g) SE-03-049 "Validación del Certificado de Origen del Tratado de Libre Comercio México-Colombia-Venezuela (G3)"
-
-h) SE-03-050 "Validación del Certificado de Origen del Sistema Global de Preferencias Comerciales (SGPC)"
-
-i) SE-03-069 "Validación del Certificado de Origen del Tratado de Libre Comercio México-República Oriental del Uruguay"
-
-j) SE-03-071 "Validación del Certificado de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón"
-
-TERCERO.- Los ordenamientos que se citan a continuación seguirán vigentes en los términos que fueron publicados hasta en tanto no se publiquen nuevas versiones en el Diario Oficial de la Federación que sustituyan a los mismos. Durante dicho periodo se entenderán aplicables a dichos ordenamientos a partir del 1 de julio de 2007, las fracciones arancelarias que les correspondan conforme a la Tabla de Correlación TIGIE 2002-TIGIE 2007 anexa al presente Acuerdo.
-
-I. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus reformas del 20 de diciembre de 2005, 29 de marzo, 2 de octubre y 26 de diciembre de 2006 y 29 de marzo de 2007;
-
-II. Acuerdo que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002 y sus reformas del 8 de noviembre de 2002, 11 de julio de 2003, 5 de enero y 15 de abril de 2004, 3 de febrero, 17 de mayo y 26 de octubre de 2005 y 2 de febrero y 3 de mayo de 2006;
-
-III. Aviso por el que se dan a conocer las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en las cuales se clasifican las mercancías cuya importación está sujeta al pago de cuotas compensatorias y medidas de salvaguarda, publicado en el Diario Oficial de la Federación el 3 de enero de 2006;
-
-IV. Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de Comercio Exterior, publicado en el Diario Oficial de la Federación el 21 de julio de 2006 y sus reformas del 4 de enero, 8 de marzo y 1 de junio de 2007, y
-
-V. Los Acuerdos a que se refieren los artículos 5, fracciones I, II, IV, V, VI, VII, VIII IX y 7 del presente ordenamiento.
-
-Tablas de correlación TIGIE 2002-TIGIE 2007
-
-Para los efectos de establecer la correspondencia entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, se dan a conocer, para los fines del presente Acuerdo, las tablas de correlación TIGIE 2002-TIGIE 2007 y TIGIE 2007-TIGIE 2002. Para cualquier otro fin, la información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
-
-(VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 9 A 61.</small>
-
-Tablas de correlación TIGIE 2007-TIGIE 2002
-
-La información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
-
-(VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 62 A 112.</small>
-
-México, D.F., a 21 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de mayo de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
