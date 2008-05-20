@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-04-30"
+last_updated: "2008-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE MAYO DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1282,7 +1282,23 @@ XIII. Proponer programas de formación, capacitación y desarrollo de recursos h
 
 XIV. Participar en los programas de investigación relativos a los servicios de hospitalización y urgencias que instrumente la Secretaría de Salud del Distrito Federal;
 
-XV. Participar en la auditoría médica de instituciones públicas prestadoras de servicios del Sistema de Protección Social en Salud en el Distrito Federal, con quienes se suscriban convenios de colaboración.
+XV. Participar en la auditoría médica de instituciones públicas prestadoras de servicios del Sistema de Protección Social en Salud en el Distrito Federal, con quienes se suscriban convenios de colaboración;
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2008)</small>
+
+XVI. Planear, organizar y evaluar el cumplimiento de las disposiciones en materia de voluntad anticipada, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2008)</small>
+
+XVII. Supervisar la recepción, archivo y resguardo de los documentos y formatos derivados de la Ley de Voluntad Anticipada para el Distrito Federal, así como la notificación al ministerio público correspondiente;
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2008)</small>
+
+XVIII. Establecer esquemas de vinculación con el Centro Nacional de Trasplantes y los centros estatales de trasplantes, para registro y control de donantes y receptores de órganos y tejidos, de acuerdo con las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2008)</small>
+
+XIX. Determinar en el ámbito de su competencia, estrategias de fomento, promoción y difusión de la cultura de donación de órganos y tejidos.
 
 ###### Artículo 34.
 
@@ -3090,19 +3106,25 @@ XV. Promover y realizar obras de infraestructura para el manejo de recursos natu
 
 XVI. Recaudar, recibir y administrar de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que por concepto de productos y servicios se relacionen con las anteriores atribuciones;
 
-XVII. Realizar estudios de diagnóstico y prospectivos sobre los ecosistemas atendiendo a su biodiversidad e integralidad, así como proponer estrategias de conservación de la biodiversidad en el suelo de conservación y en las Áreas Naturales Protegidas; y (sic)
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2008)</small>
+
+XVII. Realizar estudios de diagnóstico y prospectivos sobre los ecosistemas atendiendo a su biodiversidad e integralidad, así como proponer estrategias de conservación de la biodiversidad en el suelo de conservación y en las Áreas Naturales Protegidas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 20 DE MAYO DE 2008)</small>
 
 XVIII. Participar en los procesos de regulación de uso y destino del territorio en suelo de conservación y Áreas Naturales Protegidas del Distrito Federal;
 
-XIX. Participar en la formulación de las políticas y programas que para el desarrollo, promoción y fomento del turismo alternativo en suelo de conservación del Distrito Federal establezcan las Secretarías de Turismo y de Desarrollo Rural y Equidad para las Comunidades;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2008)</small>
 
-> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2007)</small>
+XIX. Participar en la formulación de las políticas y programas que para el desarrollo, promoción y fomento del turismo alternativo en suelo de conservación del Distrito Federal establezcan las Secretarías de Turismo y de Desarrollo Rural y Equidad para las Comunidades; y
 
-XX. Planear, operar y dirigir el funcionamiento y administración de las áreas destinadas a las ciclovías en suelo de conservación.
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2008)</small>
+
+XX. Planear, operar y dirigir el funcionamiento y administración de las áreas destinadas a las ciclovías en suelo de conservación, así como realizar las acciones requeridas para su mantenimiento.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
-Artículo 56 CUATER.- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
+Artículo 56 Cuater.- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
 
 > <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
 
@@ -3158,7 +3180,9 @@ XVI. Elaborar, coordinar y ejecutar los trabajos de desarrollo de las áreas de 
 
 XVII. Determinar y aplicar en conjunto con las demás autoridades competentes los programas y medidas para prevenir y controlar contingencias y emergencias ambientales, así como las de seguridad, en las áreas de valor ambiental;
 
-XVIII. (DEROGADA, G.O. 3 DE MAYO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE MAYO DE 2008)</small>
+
+XVIII. Suscribir los documentos, contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus atribuciones;
 
 XIX. Establecer los medios para reciclar y aprovechar los residuos vegetales que se generan de las actividades de producción y transformación pública o privada del Distrito Federal;
 
@@ -3166,11 +3190,11 @@ XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las
 
 > <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
 
-XXI.- Planear, operar y dirigir el funcionamiento y administración de las áreas destinadas a las ciclovías en suelo urbano;
+XXI. Planear, operar y dirigir el funcionamiento y administración de las áreas destinadas a las ciclovías en suelo urbano;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2008)</small>
 
-XXII. Mantener las ciclovías en suelo de conservación; y
+XXII. Elaborar, en su caso, los estudios e investigaciones tecnológicas, así como los proyectos ejecutivos correspondientes, dirigidos a promover, operar y dirigir las obras de infraestructura requeridas en las áreas de valor ambiental, las áreas naturales protegidas, las áreas destinadas a las ciclovías, los zoológicos y cualquier área o espacio de naturaleza semejante que se encuentren bajo la administración de la Secretaría del Medio Ambiente, para su conservación, preservación, rehabilitación, mejoramiento, desarrollo y funcionamiento;
 
 > <small>(ADICIONADA [N. DE E. REUBICADO], G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -12155,3 +12179,9 @@ Cuarto.- A la Subsecretaría y Direcciones Generales de nueva creación, se les 
 Quinto.- Los asuntos, competencia de la nueva Unidad Administrativa, que antes de la entrada en vigor del presente decreto correspondían a otra unidad administrativa distinta, seguirán siendo tramitados y resueltos por esta última, hasta en tanto la de nueva creación no inicie formalmente sus actividades.
 
 Sexto.- A la Unidad Administrativa de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, de conformidad con las disposiciones jurídicas y administrativas aplicables.
+
+G.O. 20 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficia (sic) del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
