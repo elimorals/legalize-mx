@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interno-de-la-unidad-de-acceso-a-la-informacion-4061
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-17"
-last_updated: "2004-08-17"
+last_updated: "2008-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO INTERNO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE MOROLEON GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 17 de agosto de 2004.
 
@@ -403,43 +403,33 @@ I. Cuando una Dependencia o Entidad, notifique a la Unidad de Acceso que no pose
 
 II. Cuando la información solicitada este clasificada como reservada o confidencial.
 
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES PARA EL MUNICIPIO DE MOROLEON, GTO., P.O. 20 DE MAYO DE 2008)</small>
+
 ### CAPÍTULO VII. DEL PROCEDIMIENTO PARA LA CORRECCIÓN DE DATOS
 
 ###### ARTÍCULO 33.
 
-Se procederá a la rectificación de datos personales cuando exista solicitud expresa por parte del interesado o de su representante legal, dirigida a la Unidad de Acceso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES PARA EL MUNICIPIO DE MOROLEON, GTO., P.O. 20 DE MAYO DE 2008)
 
 ###### ARTÍCULO 34.
 
-La solicitud de corrección de datos personales deberá contener:
-
-I. Los datos que se pretendan corregir haciendo referencia en donde constan los mismos;
-
-II. Indicar los datos correctos y acreditar que los que se proporcionan son exactos;
-
-III. En caso de que se pretendan completar los datos ya existentes, se deberá indicar la información faltante con precisión;
-
-Debiendo acreditar los particulares su personalidad como titulares de los datos personales a que hacen referencia o su representante, respectivamente, en el caso de éstos últimos la representación será de carácter legal en los términos de la normatividad correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES PARA EL MUNICIPIO DE MOROLEON, GTO., P.O. 20 DE MAYO DE 2008)
 
 ###### ARTÍCULO 35.
 
-La Unidad de Acceso solicitará en un plazo de 3 tres días hábiles siguientes al de recepción de la solicitud respectiva, a la Dependencia o Entidad, la remisión del expediente o documentos que contengan los datos personales del solicitante; indicando se señale como se obtuvieron los datos personales que en dicha documentación constan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES PARA EL MUNICIPIO DE MOROLEON, GTO., P.O. 20 DE MAYO DE 2008)
 
 ###### ARTÍCULO 36.
 
-La Unidad de Acceso con el apoyo de la Dependencia o Entidad respectiva, analizará la procedencia de dicha modificación este análisis se realizara en un término de 15 quince días hábiles a partir de la recepción de la solicitud.
-
-Asimismo, se podrá requerir al solicitante la información que se considere pertinente a efecto de verificar la exactitud de los datos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES PARA EL MUNICIPIO DE MOROLEON, GTO., P.O. 6 DE ABRIL DE 2008)
 
 ###### ARTÍCULO 37.
 
-Si resulta procedente la modificación se emitirá un acuerdo en el cual se instruya a la Dependencia o Entidad correspondiente, a realizar la modificación de los datos respectivos, señalando los datos correctos e indicando que se anexe a la corrección del documento el acuerdo de modificación de los mismos.
-
-Asimismo, la Unidad de Acceso, notificará al solicitante en un plazo de 30 treinta días hábiles siguientes al de la determinación de procedencia de las modificaciones, que las mismas fueron conducentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES PARA EL MUNICIPIO DE MOROLEON, GTO., P.O. 20 DE MAYO DE 2008)
 
 ###### ARTÍCULO 38.
 
-En caso de que se determine que no es procedente la modificación, la Unidad de Acceso, notificará al interesado fundando y motivando el porqué no es procedente la corrección de los datos personales, dicha notificación deberá realizarse dentro de un plazo de 30 treinta días hábiles siguientes a la presentación de la solicitud por el particular, conforme a lo dispuesto por el artículo 26 de la Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION DE DATOS PERSONALES PARA EL MUNICIPIO DE MOROLEON, GTO., P.O. 20 DE MAYO DE 2008)
 
 ### CAPÍTULO VIII. DE LAS RESPONSABILIDADES
 
@@ -480,3 +470,11 @@ PRESIDENTE MUNICIPAL
 PROFR. ENRIQUE GARCÍA ORTEGA
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE MAYO DE 2008.
+
+PRIMERO. El presente reglamento entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deroga el Capítulo VII del Reglamento Interno de la Unidad de Acceso a la Información Pública para el Municipio de Moroleón, Guanajuato.
