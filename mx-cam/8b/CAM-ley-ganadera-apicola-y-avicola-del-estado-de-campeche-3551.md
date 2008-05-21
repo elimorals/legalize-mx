@@ -4,7 +4,7 @@ identifier: "CAM-ley-ganadera-apicola-y-avicola-del-estado-de-campeche-3551"
 country: "mx"
 rank: "ley"
 publication_date: "1982-05-24"
-last_updated: "2002-05-31"
+last_updated: "2008-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY GANADERA, APICOLA Y AVICOLA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE APICULTURA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 21 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EN LO QUE CORRESPONDA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 24 de mayo de 1982.
 
@@ -1752,3 +1754,13 @@ P.O. 31 DE MAYO DE 2002.
 Primero- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. DE 21 DE MAYO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los sesenta días siguientes a la entrada en vigor del presente decreto, el Ejecutivo del Estado deberá expedir el Reglamento de la ley contenida en este decreto.
+
+TERCERO.- Dentro de los noventa días siguientes a la entrada, en vigor del presente decreto, las organizaciones de apicultores y. cualquier productor independiente deberán solicitar su registro en la Secretaría de Desarrollo Rural y demás dependencias señaladas en esta ley.
+
+CUARTO.- Se deroga en lo que corresponda la Ley Ganadera, Apícola y Avícola del Estado de Campeche expedida por la L Legislatura mediante decreto No. 125 de fecha 21 de mayo de 1982, publicado en el Periódico Oficial del Estado el 24 de mayo de 1982, así como las demás disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
