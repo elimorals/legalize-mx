@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-universidad-autonoma-del-estado-de-7174"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1967-11-22"
-last_updated: "1987-08-19"
+last_updated: "2008-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1987.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO OCTAVO TRANSITORIO DE LA LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 21 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 22 de noviembre de 1967.
 
@@ -468,3 +470,37 @@ P.O. 19 DE AGOSTO DE 1987.
 Primero.- Este Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Remítase el presente Decreto al Ejecutivo de la Entidad, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 21 DE MAYO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor sesenta días hábiles posteriores a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Estatuto Universitario y demás disposiciones reglamentarias vigentes se seguirán aplicando en lo que no se opongan a la presente Ley, hasta en tanto el Consejo Universitario expida la normatividad correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades universitarias en función, al momento de entrar en vigor esta Ley Orgánica, permanecerán en su encargo hasta concluir el período para el cual fueron electas.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Universitario expedirá el Estatuto Universitario dentro del término máximo de un año posterior a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+En caso de no cumplimentarse lo dispuesto en el artículo cuarto transitorio de esta Ley, será el propio Consejo Universitario quien expida los lineamientos que sean necesarios para la continuidad de las funciones sustantivas de la Universidad.
+
+###### ARTÍCULO SEXTO.
+
+El Reglamento de la Procuraduría de los Derechos Académicos deberá ser expedido por el Consejo Universitario en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de la presente ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Universidad Autónoma del Estado de Morelos, Organismo Público Descentralizado del Gobierno del Estado de Morelos, a partir de la entrada en vigor de la presente ley, se transforma en organismo público autónomo el cual conserva la titularidad de todos los bienes, derechos y obligaciones del primero.
+
+###### ARTÍCULO OCTAVO.
+
+Se abroga la Ley Orgánica de la Universidad Autónoma del Estado de Morelos publicada en el Periódico Oficial del Gobierno del Estado de Morelos el 22 de noviembre de 1967. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
