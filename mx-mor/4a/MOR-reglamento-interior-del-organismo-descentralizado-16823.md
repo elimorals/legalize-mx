@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2007-10-03"
+last_updated: "2008-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -93,7 +93,13 @@ III.- Comisario.
 
 Para la más eficaz atención de los asuntos de su competencia, y a fin de cumplir con su objeto, el Organismo contará con las siguientes unidades administrativas;
 
-Dirección de Atención a la Salud.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2008)</small>
+
+Dirección de Servicios de Salud a la Persona.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2008)</small>
+
+Dirección de Servicios de Salud a la Comunidad.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -343,7 +349,9 @@ VII. Departamento de Supervisión y Auditoría, y
 
 VIII. Departamento de Evaluación y Control.
 
-B) DIRECCIÓN DE ATENCIÓN A LA SALUD
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2008)</small>
+
+B) DIRECCIÓN DE SERVICIOS DE SALUD A LA PERSONA
 
 I. Subdirección de Enseñanza, Investigación y Capacitación;
 
@@ -351,15 +359,15 @@ II. Departamento de Enseñanza e Investigación;
 
 III. Departamento de Capacitación;
 
-IV. Subdirección de Salud Pública;
+IV. Subdirección de Primer Nivel de Atención;
 
-V. Departamento de Epidemiología;
+V. Jurisdicciones Sanitarias;
 
-VI. Departamento de Prevención y control de Enfermedades;
+VI. Jurisdicción Sanitaria I Cuernavaca;
 
-VII. Departamento de Promoción de la Salud;
+VII. Jurisdicción Sanitaria II Zacatepec;
 
-VIII. Subdirección de 1er. Nivel de Atención;
+VIII. Jurisdicción sanitaria III Cuautla;
 
 IX. Departamento de Regulación de Servicios del Primer Nivel de Atención;
 
@@ -379,23 +387,23 @@ XVI. Hospital General de Cuernavaca;
 
 XVII. Hospital General de Jojutla;
 
-XVIII. Hospital General de Tetecala;
+XVIII. Hospital General de Tetecala, y
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2007)</small>
+XIX. Hospital de la Mujer.
 
-XIX. Hospital de la Mujer;
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2008)</small>
 
-XX. Jurisdicciones Sanitarias;
+C) DIRECCIÓN DE SERVICIOS DE SALUD A LA COMUNIDAD
 
-XXI. Jurisdicción Sanitaria I Cuernavaca;
+I. Departamento de Epidemiología;
 
-XXII. Jurisdicción Sanitaria II Zacatepec, y
+II. Departamento de Prevención y Control de Enfermedades, y
 
-XXIII. Jurisdicción Sanitaria III Cuautla.
+III. Departamento de Promoción a la Salud.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
-C). COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MORELOS
+D). COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MORELOS
 
 I. Comisionado para la Protección Contra Riesgos Sanitarios, que será el titular de la Comisión;
 
@@ -431,7 +439,7 @@ XVI. Jefatura de Control Analítico Epidemiológico, y
 
 XVII. Jefatura de Innovación y Calidad.
 
-D) DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
+E) DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
 
 I. Subdirección de Planeación y Desarrollo;
 
@@ -443,7 +451,7 @@ IV. Departamento de Evaluación y
 
 V. Departamento de Informática.
 
-E) DIRECCIÓN DE ADMINISTRACIÓN
+F) DIRECCIÓN DE ADMINISTRACIÓN
 
 I. Subdirección de Recursos Humanos;
 
@@ -677,43 +685,89 @@ XVI.- Proporcionar a la comisaría del Organismo la documentación e informació
 
 XVII.- Las demás atribuciones que les confieran las disposiciones legales aplicables y el Director General del Organismo.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2008)</small>
+
 ###### Artículo 29.
 
-La Dirección de Atención a la Salud, tendrá las siguientes atribuciones específicas:
+La Dirección de Servicios de Salud a la Persona tendrá las atribuciones específicas siguientes:
 
-I.- Coordinar el proceso de planeación, programación, presupuestación y evaluación del área de Servicios Médicos, proponiendo las metas, para el cumplimiento de los objetivos Federales y Estatales establecidos en el Plan Nacional de Desarrollo, el Programa de Reforma del Sector Salud, el Programa de Modernización Administrativa, el Modelo de Atención a la Salud a Población Abierta, el Diagnóstico Estatal de Salud y la demás normatividad aplicable;
+I. Coordinar el proceso de planeación, programación, presupuestación y evaluación del área de servicios médicos, proponiendo las metas para el cumplimiento de los objetivos federales y estatales establecidos en el Programa Nacional de Salud 2007-2012, el Modelo de Atención a la Salud, la Ley de Salud del Estado de Morelos, el Catálogo Universal de Servicios de Salud, el Diagnostico Estatal de Salud y demás normatividad aplicable;
 
-II.- Diseñar, implantar, operar, supervisar y evaluar el modelo Estatal de Atención a la Salud para la población abierta, estableciendo los procesos de mejoría de la calidad, eficiencia y oportunidad;
+II. Diseñar, implementar, operar, supervisar y evaluar el Modelo Estatal de Atención a la Salud, estableciendo los procesos de mejora de la calidad, eficiencia y oportunidad;
 
-III.- Organizar, coordinar, supervisar y controlar la prestación de servicios de atención médica a población abierta en las unidades de primero y segundo nivel, así como conducir el sistema de referencia y contra referencia correspondiente;
+III. Organizar, coordinar, supervisar y controlar la prestación de servicios de atención médica en las unidades administrativas de Primero y Segundo Nivel de Atención, así como conducir el sistema de referencia y contra-referencia correspondiente;
 
-IV.- Coordinar, instrumentar, supervisar, evaluar y proponer en su caso los Programas Estatales de Salud en materia de Promoción de la Salud; Vigilancia Epidemiológica; Medicina Preventiva; Salud Reproductiva; Planificación Familiar; prestación, control y vigilancia de la atención médica, conforme a las normas, políticas y estrategias de la Secretaría de Salud, procurando la participación de los sectores público, social y privado;
+IV. Coordinar, instrumentar, supervisar, evaluar y proponer, en su caso, los programas estatales de salud en materia de salud reproductiva y planificación familiar;
 
-V.- Promover y organizar la integración de comités y subcomités locales en pro de la salud, dentro de los Comités de Planeación y Desarrollo Municipal (COPLADEMUN);
+V. Vigilar y evaluar los avances en materia de ampliación de cobertura en la prestación de los servicios de salud estatales;
 
-VI.- Vigilar y evaluar los avances en materia de ampliación de cobertura en la prestación de los servicios de salud Estatales;
+VI. Evaluar los campos clínicos de internado médico y servicio social de estudiantes, profesionales y de residencias médicas, en coordinación con las instituciones del sector salud y de las unidades responsables en la Entidad, de acuerdo con las normas, políticas y estrategias aplicables a la salubridad y a la educación media superior;
 
-VII.- Orientar el diseño, instrumentación, operación y evaluación del Sistema Estatal de Vigilancia Epidemiológica, y realizar las actividades de Sanidad Internacional, cuando exista este servicio en la entidad, vigilando el cumplimiento de las disposiciones respectivas;
+VII. Proponer las políticas y estrategias para la formulación de los planes y programas académicos de investigación, capacitación y adiestramiento en salud, en coordinación con las autoridades e instituciones educativas de la Entidad, conforme a las normas, políticas y estrategias aplicables a la salubridad general y educación media superior, estableciendo y coordinando el Comité Estatal Interinstitucional para Formación de Recursos Humanos para la Salud;
 
-VIII.- Coordinar el Centro Estatal de Vigilancia Epidemiológica así como orientar el diseño, instrumentación, operación y evaluación de los Sistemas de Información para la Vigilancia Epidemiológica (SUIVE) y Automatizado para la Vigilancia Epidemiológica (SUAVE), con la participación de los sectores público, social y privado;
+VIII. Establecer, operar, controlar y evaluar conforme a las normas, políticas y estrategias del Sistema Nacional de Salud y las inherentes a la educación media superior y superior, los recursos presupuestales y materiales destinados a la actualización del cuadro básico del acervo para bibliotecas, material impreso, becas para técnicos, internos de pregrado, médicos en servicio social y residentes, así como lo correspondiente al pago de transportación, alojamiento, alimentación y vestuario correspondiente;
 
-IX.- Atender y controlar las emergencias Epidemiológicas y los desastres o situaciones de riesgo, que se presenten en la Entidad, en coordinación con las Autoridades de Protección Civil Estatales, coordinando las brigadas integradas al efecto, y sin perjuicio de las atribuciones de competencia Federal, conforme a lo previsto en los artículos 181 a 184 de la Ley General de Salud;
+IX. Coordinar el desarrollo, instrumentación, supervisión y evaluación de los programas y actividades de capacitación, adiestramiento y de servicio social del personal de salud, así como operar el Sistema de Educación Continua Estatal, en coordinación con la Secretaria de Salud del Estado;
 
-X.- Participar en la operación del sistema de encuestas nacionales de salud y desarrollo, conforme a las normas de carácter Federal, encuestas Estatales de salud que correspondan a las necesidades de la Entidad;
+X. Establecer y mantener actualizado el inventario de investigaciones en salud que se realicen en la Entidad, y que cumplan con las disposiciones en materia de salubridad general, y
 
-XI.- Dirigir y consolidar las acciones de los sectores público, social y privado para prevenir y combatir los problemas de salud pública, las acciones de promoción a la salud, así como planear y evaluar las actividades de los Consejos Estatales de prevención de VIH/SIDA (COESIDA) y contra las adicciones (CECA);
+XI. Vigilar el cumplimiento de las normas de enseñanza en salud de la Entidad, conforme a las disposiciones aplicables, e informar regularmente a la Secretaría de Salud del Estado.
 
-XII.- Evaluar los campos clínicos de internado médico y servicio social de estudiantes, profesionales y de residencias médicas, en coordinación con las Instituciones del Sector Salud y de las unidades responsables en la entidad de acuerdo a las normas, políticas y estrategias aplicables a la salubridad y la educación media superior;
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2008)</small>
 
-XIII.- Proponer las políticas y estrategias para la formulación de los planes y programas académicos, de investigación, capacitación y adiestramiento en salud, en coordinación con las Autoridades e Instituciones Educativas de la entidad, conforme a las normas, políticas y estrategias aplicables a la salubridad general y la educación media superior, estableciendo y coordinando el Comité Estatal Interinstitucional para Formación de Recursos Humanos para la Salud;
+###### Artículo 29 Bis.
 
-XIV.- Establecer, operar, controlar y evaluar, conforme a las normas, políticas y estrategias del Sistema Nacional de Salud y las inherentes a la educación media superior y superior, los recursos presupuestales y materiales destinados a la actualización del cuadro básico del acervo para bibliotecas, material impreso, becas para técnicos, internos de pregrado, médicos en servicio social y residentes, así como lo correspondiente al pago de transportación, alojamiento, alimentación y vestuario correspondiente;
+La Dirección de Servicios de Salud a la Comunidad tendrá las atribuciones específicas siguientes:
 
-XV.- Coordinar el desarrollo, instrumentación, supervisión y evaluación de los programas y actividades de capacitación, adiestramiento y de servicio social del personal de salud, así como operar el Sistema de Educación continua Estatal, en coordinación con la Secretaría de Salud;
+I. Coordinar, instrumentar, supervisar, evaluar y proponer, en su caso, los programas estatales de salud de los Departamentos de Epidemiología, Promoción de la Salud, y Prevención y Control de Enfermedades, conforme a las normas, políticas y estrategias de la Secretaria de Salud, procurando la participación de los sectores público, social y privado;
 
-XVI.- Establecer y mantener actualizado el inventario de investigaciones en salud, que se realicen en la entidad y que cumplan con las disposiciones en materia de salubridad general, y
+II. Vigilar y controlar la correcta aplicación del presupuesto, en coordinación directa con la Dirección de Administración, las jefaturas de departamento y los jefes de programa de esta Dirección;
 
-XVII.- Vigilar el cumplimiento de las normas de enseñanza en salud de la entidad, conforme a las disposiciones aplicables e informar regularmente a la Secretaría de Salud.
+III. Cumplir y hacer cumplir las políticas que en materia de salud emanen de la Dirección General de los Servicios de Salud;
+
+IV. Diseñar y establecer las estrategias necesarias para dar cumplimiento a objetivos y metas plasmados en planes, proyectos y programas, tanto federales como estatales;
+
+V. Vigilar y conocer el panorama epidemiológico de la Entidad, propiciando la participación sectorial para la recopilación oportuna de la información, su procesamiento, análisis y difusión, a fin de contribuir a una acertada toma de decisiones, regulando y controlando los sistemas de información establecidos a nivel federal;
+
+VI. Difundir con oportunidad, cantidad, veracidad y pertinencia la información necesaria para la toma de decisiones, así como a la comunidad en su conjunto, con el fin de mantener una vigilancia permanente y plural del panorama epidemiológico para actuar en consecuencia;
+
+VII. Establecer y difundir la información necesaria y requerida por la ley para garantizar la transparencia en el quehacer de la Dirección, en apego a las directrices del marco jurídico en la materia;
+
+VIII. Mantener y propiciar la comunicación constante con las áreas internas de los servicios de salud, aprovechando los recursos informáticos y habituales, a fin de lograr su intervención conjunta y oportuna ante situaciones de riesgo epidemiológico, especialmente con la Comisión para la Protección contra Riesgos Sanitarios del Estado de Morelos;
+
+IX. Gestionar y proponer el fortalecimiento de las redes informáticas institucionales, con el fin de propiciar un manejo integral de la información con oportunidad, calidad y suficiencia;
+
+X. Actualizar el marco jurídico y difundirlo entre el personal de las áreas que integran la Dirección;
+
+XI. Cumplir y hacer cumplir las Condiciones Generales de Trabajo entre el personal que tenga adscrito;
+
+XII. Generar instancias, espacios y alternativas para la actualización, capacitación y desempeño del su personal;
+
+XIII. Coordinar las estrategias orientadas a generar, motivar y desarrollar la participación de la comunidad en el autocuidado de su salud;
+
+XIV. Motivar, instruir y capacitar a las autoridades municipales que lo soliciten, en materia de salud pública, a fin de que contribuyan de manera eficaz, eficiente y efectiva en el control del panorama epidemiológico del municipio bajo su responsabilidad, con apego a la normatividad en la materia y a la propia convicción de su responsabilidad;
+
+XV. Mantener coordinación intersectorial permanente para coadyuvar en la participación plural en materia de prevención y promoción de la salud, enfatizando la coparticipación de las instancias homologas de educación, con el fin de contribuir a la modificación y mejora de los estilos de vida entre las nuevas generaciones de la Entidad;
+
+XVI. Solicitar, gestionar, aplicar y vigilar los apoyos y recursos necesarios para desarrollar en la Entidad las estrategias emanadas del Modelo de Promoción de la Salud (MOPS), con el fin de privilegiar la prevención, generando estilos de vida saludables que contribuyan a mejora (sic) la calidad de vida de la población;
+
+XVII. Promover la adopción de estilos de vida saludables, orientando las acciones inherentes a los adultos y adultos mayores por medio de los grupos de ayuda mutua, a la infancia y adolescencia;
+
+XVIII. Evaluar los resultados integrales de los programas de la Dirección, emitir los informes correspondientes a la autoridad, y proponer estrategias para alcanzar las metas establecidas;
+
+XIX. Promover y organizar la integración de comités y subcomités locales en favor de la salud dentro de los Comités de Planeación y Desarrollo Municipal (COPLADEMUN);
+
+XX. Orientar el diseño, instrumentación, operación y evaluación del sistema estatal de vigilancia epidemiológica y realizar las actividades de sanidad internacional, cuando exista este servicio en la Entidad, vigilando el cumplimiento de las disposiciones respectivas;
+
+XXI. Coordinar el Centro Estatal de Vigilancia Epidemiológica, así como orientar el diseño, instrumentación, operación y evaluación de los Sistemas de Información para la Vigilancia Epidemiológica “SUIVE”, y el Automatizado para la Vigilancia Epidemiológica “SUAVE”, con la participación de los sectores publico, social y privado;
+
+XXII. Atender y controlar las emergencias epidemiológicas y los desastres o situaciones de riesgo que se presenten en la Entidad, en coordinación con las autoridades de protección civil estatales, coordinando las brigadas al efecto y sin perjuicio de las atribuciones de competencia federal previstas en los artículos 181 al 184 de la Ley General de Salud;
+
+XXIII. Participar en la operación del Sistema de Encuestas Nacionales de Salud y Desarrollo, conforme a las normas de carácter federal, así como de encuestas estatales de salud que correspondan a las necesidades de la Entidad, en concordancia con los recursos a su alcance;
+
+XXIV. Dirigir y consolidar las acciones de los sectores público, social y privado para prevenir y combatir los problemas de salud pública, y
+
+XXV. Planear y evaluar las actividades de los Consejos, Estatal de Prevención de VIH /SIDA (COESIDA), Contra las Adicciones (CECA) y de los comités inscritos en su campo de acción, en coordinación, en su caso, con la Subsecretaría de Coordinación Sectorial y demás instancias involucradas.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1942,3 +1996,11 @@ TERCERO.- Se destina el bien inmueble en el que prestaba sus servicios el órgan
 P.O. 3 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado de Morelos.
+
+P.O. 21 DE MAYO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+
+TERCERO.- El Organismo deberá ajustar sus Manuales de Organización al presente Decreto, dentro de los sesenta días contados a partir de su entrada en vigor.
