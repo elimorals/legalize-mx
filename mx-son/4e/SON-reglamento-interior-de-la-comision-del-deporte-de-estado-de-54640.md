@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-del-deporte-de-estado-de-546
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-26"
-last_updated: "2007-02-26"
+last_updated: "2008-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA COMISION DEL DEPORTE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE MAYO DE 2008.
 
 Reglamento publicado en la Sección III del Boletín Oficial de Estado de Sonora, el lunes 26 de febrero de 2007.
 
@@ -209,9 +209,17 @@ V. Proporcionar al Comisario Público Oficial o Ciudadano designado por la Secre
 
 VI. Presentar al Consejo Directivo del Deporte, por lo menos dos veces al año, el informe de actividades del Organismo, el avance de los presupuestos de ingresos y egresos, así como sus estados financieros;
 
-VII. Presentar anualmente al Consejo Directivo del Deporte, dentro de los dos primeros meses del año, los estados financieros del ejercicio anterior; y
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2008)</small>
 
-VIII. Las demás que confieran las disposiciones legales aplicables y el Consejo Directivo del Deporte.
+VII. Presentar anualmente al Consejo Directivo del Deporte, dentro de los dos primeros meses del año, los estados financieros del ejercicio anterior;
+
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2008)</small>
+
+VIII. Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos, de acuerdo a la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 22 DE MAYO DE 2008)</small>
+
+IX. Las demás que confieran las disposiciones legales aplicables y el Consejo Directivo del Deporte.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -237,9 +245,17 @@ VIII. Acordar con el Director General el trámite, resolución y despacho de los
 
 IX. Someter a la consideración del Director General los proyectos de modernización y desarrollo administrativo de la Unidad Administrativa bajo su responsabilidad, para un mejor funcionamiento y despacho de los asuntos a su cargo;
 
-X. Atender al público en los asuntos de su competencia, así como a los funcionarios y empleados adscritos a la Unidad Administrativa bajo su responsabilidad; y
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2008)</small>
 
-XI. Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico, dentro de la esfera de sus atribuciones.
+X. Atender al público en los asuntos de su competencia, así como a los funcionarios y empleados adscritos a la Unidad Administrativa bajo su responsabilidad;
+
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2008)</small>
+
+XI. Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, circulación y conservación de los documentos y archivo; y
+
+> <small>(ADICIONADA, B.O. 22 DE MAYO DE 2008)</small>
+
+XII. Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -253,9 +269,9 @@ II.- Incorporar, integrar, organizar, coordinar y normar los programas afines a 
 
 III.- Coordinar los diferentes programas de deporte popular para lograr el óptimo aprovechamiento de las instalaciones deportivas existentes;
 
-IV.- mantener actualizado el programa de registro, identificación, selección y seguimiento de los deportistas integrantes de asociaciones deportivas, ligas y clubes en el Estado;
+IV.- (DEROGADA, B.O. 22 DE MAYO DE 2008)
 
-V.- Coordinar la participación de las Asociaciones Deportivas Estatales, mediante sus correspondientes programas de trabajo;
+V.- (DEROGADA, B.O. 22 DE MAYO DE 2008)
 
 VI.- Elaborar y coordinar programas que impulsen el deporte para personas con discapacidad, de la tercera edad y de las etnias en el Estado;
 
@@ -327,9 +343,21 @@ X.- Apoyar el desarrollo de los equipos selectivos estatales y los deportistas e
 
 XI.- Estimular la formación académica de los deportistas sonorenses, mediante el otorgamiento de becas para apoyar su preparación, con miras a eventos nacionales e internacionales;
 
-XII.- Llevar a cabo un registro estadístico de la participación de los atletas sonorenses en competencias nacionales e internacionales; y
+REFORMADA, B.O. 22 DE MAYO DE 2008)
 
-XIII.- Las demás que le señale el Director General o le confieran otras disposiciones legales.
+XII.- Llevar a cabo un registro estadístico de la participación atletas sonorenses en competencias nacionales e Internacionales;
+
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2008)</small>
+
+XIII.- Mantener actualizado el programa de registro, identificación, selección y seguimiento de los deportistas integrantes de las Asociaciones Deportivas, Ligas y Clubes en el Estado;
+
+> <small>(ADICIONADA, B.O. 22 DE MAYO DE 2008)</small>
+
+XIV.- Coordinar la participación de las Asociaciones Deportivas Estatales, mediante sus correspondientes programas de trabajo; y
+
+> <small>(ADICIONADA, B.O. 22 DE MAYO DE 2008)</small>
+
+XV.- Las demás que le señale el Director General o le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 23.
 
@@ -365,9 +393,17 @@ XIV.- Coordinarse con la Dirección de Alto Rendimiento para mantener actualizad
 
 XV.- Gestionar los recursos necesarios para llevar a cabo de manera óptima y efectiva el desarrollo de los programas;
 
-XVI.- Solventar las observaciones que resultaren de las diferentes auditorías; y
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2008)</small>
 
-XVII.- Las demás que le señale el Director General o le confieran otras disposiciones legales.
+XVI.- Solventar las observaciones que resultaren de las diferentes auditorías;
+
+> <small>(REFORMADA, B.O. 22 DE MAYO DE 2008)</small>
+
+XVII.- Implementar y mantener el Sistema Integral de Archivos, así como elaborar los procedimientos, normatividad de control de la administración documental y criterios especificas de organización de archivos de acuerdo a la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 22 DE MAYO DE 2008)</small>
+
+XVIII.- Las demás que le señale el Director General o le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 24.
 
@@ -432,3 +468,11 @@ El presente Reglamento Interior entrará en vigor al día siguiente de su public
 ###### ARTÍCULO SEGUNDO.
 
 Se abroga el Reglamento Interior de la Comisión del Deporte del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, número 6, sección I, de fecha 21 de julio de 2005.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 22 DE MAYO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
