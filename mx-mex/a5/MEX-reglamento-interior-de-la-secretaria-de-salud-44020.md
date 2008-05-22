@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-salud-44020"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-28"
-last_updated: "2005-01-28"
+last_updated: "2008-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MAYO DE 2008.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 28 de enero de 2005.
 
@@ -53,6 +53,14 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 El Secretario contará con el número de asesores y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
+> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2008)</small>
+
+La Secretaría se auxiliará de la Coordinación de Hospitales Regionales de Alta Especialidad, a efecto de atender las atribuciones que en la materia le establecen las disposiciones legales.
+
+> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2008)</small>
+
+La Coordinación de Hospitales Regionales de Alta Especialidad estará a cargo de un Coordinador quien, para el cumplimiento de sus atribuciones, se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad, presupuesto y estructura de organización autorizada.
+
 ###### Artículo 4.
 
 La Contraloría Interna del Instituto de Salud del Estado de México realizará las funciones de control y evaluación en la Secretaría, en términos de la normatividad aplicable.
@@ -73,7 +81,9 @@ El Secretario tendrá las atribuciones siguientes:
 
 I. Fijar, dirigir y controlar la política general de la Secretaría.
 
-II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleito (sic) y cobranzas, en actos de administración y para actos de dominio con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas, Planeación y Administración, de acuerdo con la legislación vigente.
+> <small>(REFORMADA, G.G. 22 DE MAYO DE 2008)</small>
+
+II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas en actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación vigente.
 
 III. Planear, coordinar y evaluar, en términos de la legislación aplicable, las actividades de los organismos auxiliares del Poder Ejecutivo del Estado que se encuentren sectorizados a la Secretaría.
 
@@ -81,7 +91,9 @@ IV. Desempeñar las comisiones y funciones que le confiera el Gobernador del Est
 
 V. Proponer al Gobernador del Estado, a través de la Secretaría General de Gobierno, proyectos de iniciativas de ley y decreto, así como proyectos de reglamentos, acuerdos y convenios sobre los asuntos básicos de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia.
 
-VI. Aprobar la organización de la Secretaría y la de los organismos auxiliares sectorizados a esta dependencia; así como sus manuales de organización, de procedimientos y de servicios al público, en coordinación con la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 22 DE MAYO DE 2008)</small>
+
+VI. Aprobar la estructura orgánica y el manual de organización de la Secretaría y de sus órganos desconcentrados, así como de los organismos auxiliares sectorizados a esta dependencia, en coordinación con la Secretaría de Finanzas.
 
 VII. Coordinar el Sistema Estatal de Salud.
 
@@ -103,9 +115,49 @@ XV. Acordar los nombramientos de los titulares de las unidades administrativas q
 
 XVI. Designar a los servidores públicos que deberán coordinar o presidir en su representación, las comisiones adscritas o vinculadas con el sector a su cargo.
 
-XVII. Aprobar el anteproyecto del presupuesto anual de egresos de la Secretaría y remitirlo a la Secretaría de Finanzas, Planeación y Administración para su revisión correspondiente, así como sancionar el de los organismos auxiliares sectorizados a la Secretaría.
+> <small>(REFORMADA, G.G. 22 DE MAYO DE 2008)</small>
 
-XVIII. Las demás que le confieren otras disposiciones legales y las que le encomiende el Gobernador del Estado.
+XVII. Aprobar el anteproyecto del presupuesto anual de egresos de la Secretaría y remitirlo a la Secretaría de Finanzas para su revisión, así como sancionar los correspondientes a los organismos auxiliares sectorizados a la Secretaría.
+
+> <small>(REFORMADA, G.G. 22 DE MAYO DE 2008)</small>
+
+XVIII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
+
+> <small>(ADICIONADA, G.G. 22 DE MAYO DE 2008)</small>
+
+Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Gobernador del Estado.
+
+> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2008)</small>
+
+###### Artículo 7 Bis.
+
+Corresponden a la Coordinación de Hospitales Regionales de Alta Especialidad las atribuciones siguientes:
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las funciones en materia de atención médica de alta especialidad.
+
+II. Formular políticas, lineamientos, sistemas y procedimientos de carácter técnico para el funcionamiento de los Hospitales Regionales de Alta Especialidad y someterlos a la aprobación del Secretario.
+
+III. Establecer mecanismos de coordinación y colaboración entre los Hospitales Regionales de Alta Especialidad, a fin de fortalecer su funcionamiento y el cumplimiento de sus objetivos.
+
+IV. Promover y ejecutar programas para la formación de recursos humanos en especialidades médicas, de acuerdo con las necesidades del servicio.
+
+V. Supervisar el funcionamiento de los Hospitales Regionales de Alta Especialidad y disponer las acciones necesarias para impulsar el cumplimiento de sus programas y proyectos.
+
+VI. Formular y proponer programas y estrategias orientadas a incrementar la rentabilidad social del sistema hospitalario en los Hospitales Regionales de Alta Especialidad.
+
+VII. Promover, coordinar y vigilar la aplicación de normas, políticas y procedimientos orientados a mejorar la calidad de los servicios de salud de alta especialidad.
+
+VIII. Coordinar el sistema de referencia y contrarreferencia para el acceso a los servicios públicos de salud de alta especialidad en el Estado y con entidades federativas que requieran de los servicios estatales.
+
+IX. Promover y coordinar estudios e investigaciones, en materia de salud, a efecto de aplicar o desarrollar nuevas técnicas para abatir enfermedades que requieren atención especializada.
+
+X. Impulsar la participación de los sectores público, social y privado en el desarrollo de los programas y proyectos a su cargo.
+
+XI. Formular programas para el mantenimiento correctivo y preventivo de las unidades de alta especialidad, así como para la construcción de nuevas unidades de alta especialidad y someterlos a la consideración del Secretario.
+
+XII. Coordinar el servicio de atención médica en los Hospitales Regionales de Alta Especialidad.
+
+XIII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
 
 ### CAPÍTULO III. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
@@ -118,6 +170,12 @@ Para la atención y eficiente despacho de los asuntos de su competencia, la Secr
 ###### Artículo 9.
 
 El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el servidor público que aquél designe. En las mayores de 15 días, por quien designe el Gobernador del Estado.
+
+> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2008)</small>
+
+###### Artículo 10.
+
+El Coordinador de Hospitales Regionales de Alta Especialidad será suplido en sus ausencias temporales menores de 15 días naturales, por el servidor público de la jerarquía inmediata inferior que aquél designe. En las mayores de 15 días naturales, por el servidor público que designe el Secretario.
 
 T R A N S I T O R I O S
 
@@ -142,3 +200,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 22 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las demás disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
