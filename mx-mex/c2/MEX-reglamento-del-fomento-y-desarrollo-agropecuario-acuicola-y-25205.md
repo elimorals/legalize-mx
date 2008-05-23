@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-fomento-y-desarrollo-agropecuario-acuicola-y-252
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2002-03-13"
+last_updated: "2008-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2008.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -43,7 +43,9 @@ Las disposiciones de este Reglamento son de orden público e interés social y t
 
 I. Promover el desarrollo y fomento de las actividades agropecuarias, acuícolas y forestales en la entidad.
 
-II. Lograr el mejoramiento de las condiciones de la producción agropecuaria, acuícola y forestal, mediante el aprovechamiento racional de tos recursos naturales; promover proyectos de investigación científica y desarrollo tecnológico en la materia, la transferencia de tecnología, la organización y capacitación de los productores, el desarrollo de esquemas de comercialización, el otorgamiento de apoyos y estímulos para la producción; y la promoción y ejecución de obras de infraestructura y de inversiones.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+II. Lograr el mejoramiento de las condiciones de la producción agropecuaria, acuícola y forestal, mediante el aprovechamiento racional de los recursos naturales; promover proyectos de investigación científica y desarrollo tecnológico en la materia, la transferencia de tecnología, la organización y capacitación de los productores, el desarrollo de esquemas de comercialización, el otorgamiento de apoyos y estímulos para la producción; aplicación de la sanidad e inocuidad agroalimentaria y la promoción y ejecución de obras de infraestructura y de inversiones.
 
 III. Determinar las acciones de coordinación entre las autoridades federales, estatales, municipales, las organizaciones y los productores, en el proceso agropecuario, acuícola y forestal.
 
@@ -57,39 +59,147 @@ II. Agregamiento parcelario: a la unión de varias parcelas.
 
 III. Apoyo: corresponde a bienes y servicios que incentivan a productores avanzar tecnológicamente, aumentando producción y productividad.
 
-IV. Auxiliares: los organismos auxiliares y fideicomisos de la administración pública estatal, vinculados con actividades agropecuarias, acuícolas y forestales; las asociaciones de productores agropecuarias, acuícolas y forestales; el Centro Inteligente de Soluciones para la Acuacultura (CISAMEX); las instituciones de enseñanza superior o de investigación agropecuaria, acuícola y forestal en materia de tecnología y asistencia técnica; el Comité de Sanidad Vegetal del Estado de México; el Comité de Sanidad Acuícola; el Comité de Fomento y Protección Pecuaria del Estado de México: y el Consejo Técnico Consultivo Forestal del Estado de México.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-V. Código: al Código Administrativo del Estado de México.
+IV. Arete oficial: Arete autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para la identificación individual de animales.
 
-VI Comercialización: la herramienta o instrumento mediante el cual se intercambian bienes y/o servicios por dinero.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-VII. Elemento electromagnético: al que se implanta por vía subcutánea o intramuscular en el animal, y que contiene los datos de identidad del mismo y de su propietario.
+V. Auxiliares: los organismos auxiliares y fideicomisos de la administración pública estatal, vinculados con actividades agropecuarias, acuícolas y forestales; las asociaciones de productores agropecuarias, acuícolas y forestales; el Centro Inteligente de Soluciones para la Acuacultura (CISAMEX); las instituciones de enseñanza superior o de investigación agropecuaria, acuícola y forestal en materia de tecnología y asistencia técnica; el Comité Estatal de Sanidad Vegetal del Estado de México; el Comité de Sanidad Acuícola del Estado de México; el Comité de Fomento y Protección Pecuaria del Estado de México; y el Consejo Técnico Consultivo Forestal del Estado de México.
 
-VIII. Estímulo: corresponde a bienes o servicios que coadyuvan en los sistemas de producción.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-IX Ganadero: persona física o moral que directa o indirectamente realiza actividades dedicadas a la explotación de especies animales.
+VI. Asociación Ganadera de Registro: organización que agrupa a ganaderos criadores de una especie animal determinada, en un Municipio.
 
-X. Infraestructura: las obras y acciones ejecutadas a través de los programas relativos a la construcción, mantenimiento, rehabilitación, asistencia técnica, suministro de materiales y operación de obras en las áreas agropecuarias, acuícolas, hidrológicas, forestales, de producción, acopio, transformación y comercialización.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-XI Marca de fierro: a la que se imprime en el cuarto trasero izquierdo del animal, por medio de hierro candente o substancias químicas, y que sirve para relacionar al animal con su propietario.
+VII. Buenas Prácticas: Son el conjunto de procedimientos, condiciones y controles que se aplican en las unidades de producción o de manufactura, los cuales incluyen limpieza de las instalaciones físicas, equipos y utensilios de higiene y salud del personal para minimizar el riesgo de contaminación física, química y biológica durante la cría, manejo, salud del hato o en la planta de manufacturación.
 
-XII. Producto vegetal: a las partes útiles de los vegetales.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-XIII. Reglamento al presente Reglamento del Fomento y Desarrollo Agropecuario, Acuícola y Forestal del Estado de México.
+VIII. Campañas: Conjunto de medidas fitosanitarias o zoosanitarias que se aplican en una fase y un área geográfica determinada, para la prevención, control o erradicación de enfermedades o plagas de los animales o vegetales, según corresponda.
 
-XIV. Secretaria: a la Secretaria de Desarrollo Agropecuario.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-XV. Señal dé sangre: a los cortes verificados en las orejas de los animales, no mayores a la superficie de media oreja, y que dejan huella inconfundible y permanente durante la vida del animal.
+IX. Certificado zoosanitario: Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o los organismos de certificación acreditados y aprobados en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización, en el que se hace constar el cumplimiento de las disposiciones de sanidad animal.
 
-XVI. Subproducto vegetal al que se deriva de un producto vegetal bajo cualquier proceso de producción o transformación.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-XVII. Tatuaje: a la figura con tinta indeleble que se estampa en la piel de los animales.
+X. Código: al Código Administrativo del Estado de México.
 
-XVIII Unidad productiva: a la integrada por productores en lo individual o colectivo, con el objeto de llevar a cabo actividades de producción agropecuaria, acuícola y forestal, mediante el uso de espacios comunes, construcción de obras de provecho común, utilización de equipos y prestación de servicios en mutuo beneficio.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-XIX Vegetales: a las especies agrícolas, forestales y silvestres.
+XI. Comercialización: la herramienta o instrumento mediante el cual se intercambian bienes y/o servicios por dinero.
 
-XX Vocación natural: características propias de una región para una producción determinada.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XII. Constancia de Propiedad: documento mediante el cual se corrobora la propiedad de los animales o sus productos, pudiendo ser por medio de factura o documento expedido por alguna Autoridad Municipal Ganadera.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XIII. Elemento electromagnético: al que se implanta por vía subcutánea o intramuscular en el animal, y que contiene los datos de identidad del mismo y de su propietario.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XIV. Estímulo: corresponde a bienes o servicios que coadyuvan en los sistemas de producción.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XV. Ganadero: persona física o moral que directa o indirectamente realiza actividades dedicadas a la explotación de especies animales.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XVI. Guía Zoosanitaria de Movilización Intraestatal: Documento expedido por el Comité de Fomento y Protección Pecuaria del Estado de México o los centros expeditores, aprobados por este.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XVII. Identificaciones Permanentes: Es el medio a través del cual se reconoce un animal, de forma legible y para toda la vida.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XVIII. Infraestructura: las obras y acciones ejecutadas a través de los programas relativos a la construcción, mantenimiento, rehabilitación, asistencia técnica, suministro de materiales y operación de obras en las áreas agropecuarias, acuícolas, hidrológicas, forestales, de producción, acopio, transformación y comercialización.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XIX. Inocuidad: Conjunto de procedimientos orientados a evitar que los alimentos causen daño a la salud de los consumidores.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XX. Marca de fierro: a la que se imprime en el cuarto trasero izquierdo del animal, por medio de hierro candente o substancias químicas, y que sirve para relacionar al animal con su propietario.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXI. Mostrenco: Ganado sin marca de propiedad (identificación permanente).
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXII. Normatividad: A las Leyes, Normas Oficiales Mexicanas y disposiciones aplicables en materia fitozoosanitaria, acuícola y forestal.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXIII. Normas Oficiales: Es la regulación técnica de observancia obligatoria nacional o estatal, expedida por las dependencias competentes, conforme a las finalidades establecidas por la Federación o el Gobierno del Estado, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema o actividad.
+
+Las Normas Oficiales Estatales y Nacional que expida la autoridad competente en materia de sanidad animal y vegetal de carácter obligatorio.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXIV. Organismos auxiliares: Aquellos autorizados por la Secretaría y que están legalmente constituidos y que coadyuvan con ésta en la sanidad y en las actividades asociadas a las buenas prácticas pecuarias de los bienes de origen animal y vegetal, incluidos el Comité de Fomento y Protección Pecuaria del Estado de México S.C., Comité Estatal de Sanidad Vegetal del Estado de México y el Comité de Sanidad Acuícola del Estado de México.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXV. Producto: Bien que resulta de un proceso productivo, y consiste en la obtención del fin principal de la explotación de animales y vegetales.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXVI. Producto vegetal: a las partes útiles de los vegetales.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXVII. PVI: Punto de Verificación e Inspección Zoosanitaria o Fitosanitaria.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXVIII. Reglamento: al presente Reglamento del Fomento y Desarrollo Agropecuario, Acuícola y Forestal del Estado de México.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXIX. Riesgo: Es la evaluación del impacto zoosanitario, fitosanitario o agroecológico que se determina ante el supuesto de la introducción o establecimiento de un organismo en un lugar del cual no es nativo o no está establecido.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXX. Sanidad: La que tiene por objeto preservar la salud, así como prevenir, controlar y erradicar las enfermedades o plagas de los animales y vegetales, sus productos y subproductos.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXI. Secretaría: a la Secretaría de Desarrollo Agropecuario.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXII. Señal de sangre: A los cortes verificados en las orejas de los animales, no mayores a la superficie de media oreja y que dejan huella inconfundible y permanente durante la vida del animal.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXIII. Subproducto: Obtención de un bien procedente de un fin principal, el cual puede ser procesado o un desecho de la explotación de animales y vegetales.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXIV. Subproducto Vegetal: al que se deriva de un producto vegetal bajo cualquier proceso de producción o transformación.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXV. Tatuaje: A la figura con tinta indeleble que se estampa en la piel de los animales.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXVI. Unidad productiva: A la integrada por productores en lo individual o colectivo, con el objeto de llevar a cabo actividades de producción agropecuaria, acuícola y forestal, mediante el uso de espacios comunes, construcción de obras de provecho común, utilización de equipos y prestación de servicios en mutuo beneficio.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXVII. Vegetales: a las especies agrícolas, forestales y silvestres.
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+XXXVIII. Vocación natural: características propias de una región para una producción determinada.
 
 ###### Artículo 3.
 
@@ -113,6 +223,8 @@ IV. Las instituciones de enseñanza superior o de investigación agropecuaria, a
 
 V. El Comité de Sanidad Vegetal del Estado de México.
 
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
 VI. El Comité de Sanidad Acuícola del Estado de México.
 
 VII. El Comité de Fomento y Protección Pecuaria del Estado de México.
@@ -125,61 +237,49 @@ VIII. El Consejo Técnico Consultivo Forestal del Estado de México.
 
 La Secretaría para la eficiente y eficaz coordinación y ejecución de las actividades agropecuarias, acuícolas y forestales, en el territorio del-Estado, se sujetará a la regionalización siguiente
 
-Región 1A. Atlacomulco.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de: Acambay, Atlacomulco, Ixtlahuaca, Jocotitlán, Morelos, El Oro, San Felipe del Progreso, San José del Rincón y Temascalcingo.
+I. Delegación Regional de Desarrollo Agropecuario Atlacomulco, integrada por los municipios de: Acambay, Atlacomulco, El Oro, Ixtlahuaca, Jocotitlán, Morelos, San Felipe del Progreso, San José del Rincón y Temascalcingo.
 
-Región 1B. Jilotepec.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de: Aculco, Chapa de Mota, Jilotepec, Polotitlán, Soyaniquilpan y Timilpan.
+II. Delegación Regional de Desarrollo Agropecuario Jilotepec, integrada por los municipios de: Aculco, Chapa de Mota, Jilotepec, Polotitlán, Soyaniquilpan de Juárez, Timilpan y Villa del Carbón.
 
-Región 2. Zumpango.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac y Zumpango.
+III. Delegación Regional de Desarrollo Agropecuario Zumpango, integrada por los municipios de: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
 
-Región 3. Teotihuacán.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de: Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacán.
+IV. Delegación Regional de Desarrollo Agropecuario Teotihuacan, integrada por los municipios de: Acolman, Axapusco, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacán.
 
-Región 4. Tepotzotlán.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de: Cuautitlán Izcalli, Cuautitlán, Coyotepec, Coacalco de Bernozabal, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec, Tultitlán y Villa del Carbón.
+V. Delegación Regional de Desarrollo Agropecuario Tepotzotlán, integrada por los municipios de: Atizapán de Zaragoza, Coacalco de Berriozabal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Huixquilucan, Isidro Fabela, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nicolás Romero, Teoloyucan, Tepotzotlán, TIalnepantla de Baz, Tultepec y Tultitlán.
 
-Región 5. Nicolás Romero.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de Atizapán de Zaragoza, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez Nicolás Romero y Tlalnepantla de Baz.
+VI. Delegación Regional de Desarrollo Agropecuario Metepec, integrada por los municipios de: Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Jiquipilco, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón, San Antonio la Isla, San Mateo Atenco, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Toluca, Xalatlaco, Xonacatlán y Zinacantepec.
 
-Región 6. Metepec.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Jiquipilco, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón, San Antonio la Isla, San Mateo Atenco, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Toluca, Xalatlaco, Xonacatlán y Zinacantepec.
+VII. Delegación Regional de Desarrollo Agropecuario Texcoco, integrada por los municipios de: Atenco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ixtapaluca, La Paz, Nezahualcóyotl, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
 
-Región 7. Texcoco.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
+VIII. Delegación Regional de Desarrollo Agropecuario Valle de Bravo, integrada por los municipios de: Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
 
-Región 8. Valle de Bravo.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
+IX. Delegación Regional de Desarrollo Agropecuario Amecameca, integrada por los municipios de: Amecameca, Atlautla, Ayapango, Cocotitlán, Chalco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
-Región 9. Ixtapaluca
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de Chicoloapan, Chimalhuacan, Ixtapaluca, la Paz y Nezahualcóyotl.
+X. Delegación Regional de Desarrollo Agropecuario Ixtapan de la Sal, integrada por los municipios de: Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Sultepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
 
-Región 10. Amecameca.
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
-Integrada por los municipios de: Amecameca, Atlautla, Ayapango, Cocotitlán, Chalco, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa. Tlalmanalco y Valle de Chalco Solidaridad.
-
-Región 11A. Ixtapan de la Sal.
-
-Integrada por los municipios de Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Tenancingo, Tonatico, Villa Guerrero y Zumpahuacán.
-
-Región 11-B. Texcaltitlán.
-
-Integrada por tos municipios de Almoloya de Alquisiras, San Simón de Guerrero, Sultepec, Temascaltepec, Texcaltitlán y Zacualpan.
-
-Región 12. Tejupilco.
-
-Integrada por los municipios de Amatepec, Luvianos, Tejupilco y Tlatlaya.
+XI. Delegación Regional de Desarrollo Agropecuario Tejupilco, integrada por los municipios de: Amatepec, Luvianos, San Simón de Guerrero, Tejupilco, Temascaltepec y Tlatlaya.
 
 ###### Artículo 6.
 
@@ -517,9 +617,11 @@ Las organizaciones de productores agropecuarios, acuícolas y forestales constit
 
 #### SECCION PRIMERA. DE LOS APOYOS Y ESTIMULOS
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 42.
 
-Los apoyos y estímulos que se otorguen a los productores se orientarán preferentemente a aquellos que se ubiquen en zonas que por su vocación natural, tengan potencial productivo y que fomenten y consoliden la actividad agropecuaria, acuícola y forestal.
+Los apoyos y estímulos que se otorguen a los productores se orientarán preferentemente a aquellos que se ubiquen en zonas que por su vocación natural, tengan potencial productivo, participen en las actividades de sanidad e inocuidad agroalimentaria y que fomenten y consoliden la actividad agropecuaria, acuícola y forestal.
 
 ###### Artículo 43.
 
@@ -549,7 +651,9 @@ Para determinar la procedencia de los apoyos y estímulos, la Secretaría, a tra
 
 I. Que el apoyo y estímulo contribuya de manera sustancial al incremento sustentable de la producción, productividad y calidad del producto.
 
-II. Que cumpla con los lineamientos del programa y con los objetivos específicos del mismo.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+II. Que cumpla con los lineamientos del programa, normatividad y con los objetivos específicos del mismo.
 
 III. Que sea congruente con las características productivas de la región y del productor.
 
@@ -591,9 +695,11 @@ VIII. Asesorará y supervisará la operación de las unidades y distritos de rie
 
 IX. Las demás que se deriven de los instrumentos de coordinación celebrados con los gobiernos federal, de otras entidades federativas y municipales.
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 48.
 
-La Secretaría impulsará obras de infraestructura y equipamiento para el aprovechamiento sustentable de los recursos naturales que permitan la diversificación de la actividad agropecuaria, acuícola, forestal y agroindustrial.
+La Secretaría impulsará obras de infraestructura y equipamiento para el aprovechamiento sustentable de los recursos naturales que permitan la diversificación de la actividad agropecuaria, acuícola, forestal y agroindustrial con apego a la normatividad.
 
 ###### Artículo 49.
 
@@ -619,13 +725,17 @@ IV. La aportación económica para la ejecución de obras y/o la adquisición de
 
 #### SECCION TERCERA. DEL DESARROLLO RURAL
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 51.
 
-Los programas de desarrollo rural, comprenderán acciones pe organización de productores, su capacitación en lo individual y colectivo, la incorporación a proyectos productivos que propicien la generación de empleo y el proceso de transformación que le otorgue un valor agregado a sus productos.
+Los programas de desarrollo rural, comprenderán acciones de organización de productores, su capacitación en lo individual y colectivo, la incorporación a proyectos productivos que propicien la generación de empleo y el proceso de transformación que le otorgue un valor agregado a sus productos, con apego a la normatividad.
+
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 52.
 
-Los programas se orientarán preferentemente a productores de bajos ingresos, con o sin acceso a la tierra, para incorporarlos al proceso productivo. Asimismo, la Secretaría impulsará aquellas acciones, que promuevan la capitalización de unidades productivas.
+Los programas se orientarán preferentemente a productores de bajos ingresos, con o sin acceso a la tierra, que participen en actividades de sanidad e inocuidad agroalimentaria, para incorporarlos al proceso productivo. Asimismo, la Secretaría impulsará aquellas acciones que promuevan la capitalización de unidades productivas.
 
 ###### Artículo 53.
 
@@ -649,25 +759,33 @@ La Secretaría fomentará el establecimiento de explotaciones agropecuarias y ac
 
 #### SECCION CUARTA. DE LA COMERCIALIZACION
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 58.
 
-La Secretaría promoverá acciones de capacitación y asesoría a productores en las operaciones de acopio, empaque y envío de productos y subproductos; así como brindar información para la ubicación de mercados nacional e Internacional, atendiendo a los registros de la Secretaría, a través de:
+La Secretaría promoverá acciones de capacitación y asesoría a productores en las operaciones de acopio, empaque y envío de animales y vegetales, sus productos y subproductos; con apego a la normatividad, así como brindar información para la ubicación de mercados nacional e internacional, atendiendo a los registros de la Secretaría, a través de:
 
 a) La operación de centros de acopio de productores organizados, la rehabilitación y modernización de las bodegas existentes, para que sirvan de apoyo al desarrollo de esquemas modernos de comercialización.
 
 b) Difundir a través de publicaciones periódicas información de mercados estatal, nacional e internacional, de futuros y coberturas.
 
-c) Asesorar a los productores en la aplicación de las normas oficiales.
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
+c) Asesorar a los productores en la aplicación de la normatividad.
 
 d) Identificar y orientar a los productores mexiquenses que cuenten con un producto que cumpla con las características mínimas para obtener una "Denominación de Origen", emitiendo una recomendación ante el Instituto Mexicano de la Propiedad Industrial.
 
 e) Orientar las actividades de producción de acuerdo a la demanda del mercado.
 
-f) Fomentar la asistencia de los productores a las ferias y exposiciones para la obtención de enlaces comerciales y la promoción de sus productos agropecuarios, acuícolas y forestales.
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
+f) Fomentar la asistencia de los productores cumpliendo con la normatividad a las ferias y exposiciones para la obtención de enlaces comerciales y la promoción de animales y vegetales, sus productos agropecuarios, acuícolas y forestales.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 59.
 
-La Secretaría podrá coordinarse con las instancias federales, estatales y municipales, para potenciar el desarrollo agropecuario y acuícola en el Estado, mediante proyectos estratégicos, teniendo como objetivos:
+La Secretaría podrá coordinarse con las instancias federales, estatales, municipales y organismos auxiliares para potenciar el desarrollo agropecuario, acuícola y forestal en el Estado, mediante proyectos estratégicos, teniendo como objetivos:
 
 a) La aplicación de normalización, verificación, certificación y sellos de calidad.
 
@@ -675,9 +793,11 @@ b) La adecuación y mejora a las instancias sanitarias.
 
 c) El procurar la inocuidad y calidad alimentaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 60.
 
-La Secretaría en términos de las disposiciones legales, podrá coordinarse con instancias nacionales e Internacionales para potenciar el desarrollo agropecuario y acuícola en el Estado, mediante proyectos estratégicos, teniendo como objetivos:
+La Secretaría en términos de las disposiciones legales, podrá coordinarse con instancias nacionales e internacionales para potenciar el desarrollo agropecuario, acuícola y forestal en el Estado, mediante proyectos estratégicos, teniendo como objetivos:
 
 a) La identificación de la oferta para la exportación.
 
@@ -739,9 +859,11 @@ Los árbitros emitirán opinión a efecto de dirimir controversias suscitadas po
 
 ### CAPITULO VI. DEL REGISTRO AGROPECUARIO, ACUICOLA Y FORESTAL
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 66.
 
-La Secretaría integrará y llevará el registro de los productores agropecuarios, acuícolas y forestales, y de los profesionistas que apoyen a los productores en la contratación de servicios técnicos y de asesoría en la materia. Asimismo, podrá coordinarse con los gobiernos federal, estatales y municipales para obtener y generar información en estas actividades.
+La Secretaría integrará y llevará el registro de los productores agropecuarios, acuícolas y forestales y de los profesionistas que apoyen a los productores en la contratación de servicios técnicos y de asesoría en la materia. Asimismo, podrá coordinarse con los gobiernos federal, estatales, municipales y organismos auxiliares para obtener y generar información en estas actividades.
 
 ###### Artículo 67.
 
@@ -755,9 +877,13 @@ III Nombre completo o razón social de la asociación o productor.
 
 IV. Domicilio particular o social de la asociación, del productor, que deberá estar ubicado en el territorio del Estado.
 
-V. Productos o subproductos que comercialicen preponderantemente.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
 
-VI Volúmenes aproximados de los productos o subproductos que oferten.
+V. Animales y vegetales, sus productos y subproductos que comercialicen preponderantemente.
+
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+
+VI. Volúmenes aproximados de los Animales y vegetales, sus productos y subproductos que oferten.
 
 VII. Establecimientos o bodegas con que cuenten.
 
@@ -801,79 +927,325 @@ III. Mejorar genéticamente las especies ganaderas.
 
 IV. Propagar las especies ganaderas de registro.
 
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+
+V. Cumplir y promover la normatividad zoosanitaria.
+
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 71.
 
-Las asociaciones de criadores de ganado de registro podrán establecer comunicación permanente con los centros de investigación científica ganadera, para determinar los mecanismos de coordinación, intercambio de información e interacción con los programas de mejoramiento genético y bancos de semen.
+Las asociaciones de criadores de ganado podrán establecer comunicación permanente con los centros de investigación científica ganadera, para determinar los mecanismos de coordinación, intercambio de información e interacción con los programas de mejoramiento genético y bancos de semen.
 
 ### CAPITULO VII. DE LA PROPIEDAD E IDENTIFICACION DEL GANADO
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+
 ###### Artículo 72.
 
-La Secretaría coordinará sus acciones con las dependencias y entidades de la administración pública federal y municipales, en el ámbito de sus correspondientes atribuciones, para la debida aplicación de la Ley de Organizaciones Ganaderas y su reglamento, en materia de acreditación de propiedad y registro de fierros, marcas, señales de sangre, tatuajes, elementos electromagnéticos, números y símbolos de identificación del ganado, según corresponda.
+La Secretaría coordinará sus acciones con las dependencias y entidades de la administración pública federal y municipal en el ámbito de sus correspondientes atribuciones, para la debida aplicación de la Ley de Organizaciones Ganaderas y su reglamento, quedan sujetos a este reglamento los productores, comercializadores y transportistas del sector agropecuario, acuícola y forestal y toda persona física o moral que efectúe actos relacionados con el sector.
+
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 73.
 
-La Secretaria coadyuvará con las autoridades federales para dar operatividad al registro de fierros, marcas, señales de sangre, tatuajes, elementos electromagnéticos, números y símbolos de que hayan sido autorizados en los municipios por la delegación correspondiente, en los términos de la normatividad respectiva.
+En el Estado de México la propiedad de los animales y vegetales, sus productos y subproductos se acreditara legalmente por cualquiera de los siguientes medios:
+
+a) la factura de compra-venta
+
+b) constancia de propiedad.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 74.
 
-Toda persona que conduzca productos y subproductos agropecuarios y acuícolas, deberá llevar el certificado sanitario expedido por la autoridad federal competente y la guía de transito expedida por la autoridad municipal de donde procedan los productos y subproductos o del lugar en el que se adquirieron; además, cuando así se requiera, deberán acompañarse los certificados que acrediten a los productos y subproductos agropecuarios y acuícolas, libres de enfermedades o plagas en cumplimiento de las campañas y programas sanitarios.
+La Secretaría coadyuvará con las autoridades federales para dar operatividad al registro de identificaciones permanentes, en donde todo ganadero esta obligado a identificar sus animales y acreditar la propiedad de los mismos. En el caso de ganado bovino se marcará a partir de los 6 meses de edad.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 75.
 
-Toda introducción de productos y subproductos agropecuarios y acuícolas al territorio de la entidad., requiere de la documentación sanitaria de origen y sujetarse a las disposiciones fitozoosanitarias y acuícolas.
+Todo ganadero contará con una identificación permanente, debidamente registrado ante el Ayuntamiento, para acreditar la propiedad de sus animales.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 76.
 
-Se prohíbe la entrada, salida o tránsito por territorio del Estado, de productos agropecuarios, acuícolas y forestales con problemas fitozoosanitarios o que se sospeche fundadamente que lo están. En este caso, la Secretaría solicitará a las autoridades correspondientes la retención de los productos, hasta en tanto se determinen las medidas necesarias para su control sanitario o se exhiban los permisos respectivos.
+La identificación permanente (marca de fierro), deberá tener como máximo 15 centímetros de largo, 10 de ancho y un centímetro de grueso en las líneas de sus figuras.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 77.
 
-Los conductores de vehículos que movilicen productos agropecuarios y acuícolas, estarán obligados a mostrar a las autoridades competentes la documentación fitozoosanitaria, cuantas veces les sea requeridos (sic) para ello.
+Todas las identificaciones permanentes deberán contar con registro ante el Ayuntamiento con aviso a la Secretaría; para la emisión de la patente de uso de identificaciones permanentes deberá hacerse ante la Secretaría.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 78.
 
-La Secretaría, promoverá, en coordinación con las dependencias federales, otras entidades federativas, municipios, organizaciones sociales y particulares, la vigilancia y el control de aspectos fitozoosanítarios en la producción, industrialización, comercialización y movilización de vegetales y animales, sus productos y subproductos.
+Ninguna identificación permanente podrá usarse sin haber sido registrada.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 79.
 
-La Secretaría para apoyar las acciones de sanidad animal y vegetal, podrá realizar las acciones siguientes:
+La Secretaría integrará el registro estatal de identificaciones permanentes y propiedad ganadera y emitirá patentes de uso de identificaciones permanentes y credenciales de identificación a los ganaderos que lo soliciten.
 
-l. Coadyuvar, con las dependencias federales, estatales y municipales competentes, en la vigilancia del cumplimiento de las normas oficiales aplicables a los plaguicidas e insumos de nutrición vegetal que pudieran implicar un riesgo para la salud humana o animal.
-
-II. Coadyuvar en la ejecución de programas de inmunización de ganado.
-
-III. Coordinar con los Comités de Sanidad Vegetal y el de Fomento y Protección Pecuaria del Estado de México, la operación de las campañas fitozoosanitarias.
-
-IV. Realizar estudios y diagnósticos en materia agropecuaria y acuícola para prevenir y erradicar plagas y enfermedades, así como contribuir en el mejoramiento de la sanidad de los productos agropecuarios y acuícolas.
-
-V. Coadyuvar con la autoridad federal competente en la ejecución de campañas y en la operación de las estaciones cuarentenarias y casetas de control, que se establezcan para el cumplimiento de las medidas fitozoosarutarias aplicables en el territorio estatal.
-
-VI. Coadyuvar con la autoridad federal competente, en la vigilancia de viveros, huertos, empacadoras, almacenes, aserraderos, industrias, transportes, patios de concentración y demás establecimientos agropecuarios, acuícolas y forestales, para verificar que cumplan con los requisitos fitozooeanitarios, a fin .de evitar la contaminación, diseminación o dispersión de plagas o enfermedades vegetales y animales.
-
-VII. Planear, coordinar y dirigir las acciones de sanidad vegetal y animal y de inspección fitozoosanitaria, asistencia técnica, capacitación y difusión de tecnología, en materia de diagnóstico, prevención, control y erradicación de enfermedades y plagas.
-
-VIII. Fomentar proyectos de investigación e intercambio tecnológico de sanidad fitopecuaria, con instituciones académicas y científicas, de acuerdo a las prioridades de atención fitozoosanitaria.
-
-IX. Difundir los mecanismos de prevención y combate de enfermedades y plagas que pongan en riesgo la salud pública y la producción agrícola y pecuaria.
-
-X. Orientar y asesorar a las asociaciones de productores en la aplicación de la legislación en materia de sanidad vegetal y animal, así como en la tramitación de los permisos fitozoosaniatarios para la importación y exportación de los productos y subproductos agropecuarios.
-
-XI. Vigilar que los productores cumplan con los permisos correspondientes para la movilización y comercialización de sus productos en materia de sanidad fitopecuaria.
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 80.
 
+Los Ayuntamientos tienen la función de integrar, depurar y actualizar el padrón ganadero del municipio, mismo que turnará anualmente a la Secretaría.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 81.
+
+Los Ayuntamientos que así lo determinen, podrán auxiliarse de la Asociación Ganadera Local para la integración y actualización del registro ganadero municipal.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 82.
+
+La patente de identificación permanente se hará gratuitamente por la Secretaría, la renovación de las credenciales de identificación de los ganaderos se realizará cada tres años por la Secretaría y causará el pago de los derechos correspondientes. El registro es obligatorio para todos los ganaderos del Estado.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2008)</small>
+
+### CAPITULO VIII. DE LA RECOLECCION DE GANADO MOSTRENCO POR SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 83.
+
+Cuando las autoridades de seguridad pública tengan el conocimiento de la existencia de uno o varios animales que se encuentren en la vía pública, carreteras ó derechos de vía de carreteras y no se encuentre su propietario presente serán consignados; considerándose como mostrencos aun cuando cuenten con identificación permanente.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 84.
+
+El ganado consignado será depositado en un corral destinado por el Municipio, para ese efecto. Se notificará a la Asociación Ganadera Local la presencia del animal para iniciar la búsqueda del propietario.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 85.
+
+El Municipio podrá acordar con la Asociación Ganadera Local, el corral que puede asumir esta función.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 86.
+
+El propietario del ganado consignado deberá identificarse plenamente y acreditar la propiedad para recuperarlos, pagando los gastos ocasionados por su manutención.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 87.
+
+En caso de muerte de algún animal durante su encierro, se procederá a la necropsia, que practicará un Médico Veterinario, con el fin de conocer las causas que ocasionaron la muerte, iniciando al efecto una constancia, la que deberá enviarse al Ayuntamiento y a la Asociación Ganadera Local.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 88.
+
+En caso de que los animales permanezcan siete días naturales a partir del día de la consignación en el encierro sin ser reclamados por su propietario, se procederá a su envío a sacrificio con inspección sanitaria. Los ingresos por venta del canal y vísceras se utilizarán para pago de los gastos generados.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2008)</small>
+
+### CAPITULO IX. DE LA MOVILIZACION DE ANIMALES Y VEGETALES, SUS PRODUCTOS Y SUBPRODUCTOS
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 89.
+
+Los animales y vegetales, sus productos y subproductos en general en los términos del artículo 72, pueden transitar libremente por el territorio del Estado, previo cumplimiento de la normatividad vigente en esta materia y de los requisitos establecidos en este reglamento.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 90.
+
+Toda persona que pretenda movilizar animales y vegetales, sus productos y subproductos, deberán contar con documentos que ampare su propiedad y los documentos sanitarios de movilización que a continuación se mencionan:
+
+I. En toda movilización de animales, sus productos y subproductos deberá de contar con certificado zoosanitario de movilización y en el caso de movilizaciones intraestatales podrá utilizar la guía zoosanitaria de movilización intraestatal.
+
+II. En toda movilización de vegetales, sus productos y subproductos deberá contar con certificado de origen, guía fitosanitaria y en caso de frutales, tarjeta de manejo integrado de plagas.
+
+III. En toda movilización acuícola, sus productos y subproductos deberá contar con certificado de sanidad acuícola.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 91.
+
+Quienes movilicen animales y vegetales, sus productos y subproductos tendrán la obligación de:
+
+I. Hacer alto total en los puntos de verificación e inspección fitozoosanitaria. Los datos asentados en los documentos fitozoosanitarios deberán coincidir con el documento de propiedad exhibido.
+
+II. En el caso de plagas y enfermedades de los animales y vegetales que no estén considerados dentro de las campañas fitozoosanitarias, solo podrán ser movilizados con la autorización de la Secretaría.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 92.
+
+Cuando no se de cumplimiento a los artículos 89, 90 y 91 de este reglamento serán retenidos los animales y vegetales, sus productos y subproductos según corresponda, hasta que se practiquen las investigaciones para verificar su propiedad y situación sanitaria.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 93.
+
+Toda persona que transite con animales y vegetales, sus productos y subproductos incumpliendo lo dispuesto en los artículos 89, 90 y 91 de este reglamento, será sancionado con multa de 60 salarios mínimos, además de las sanciones penales a que den lugar.
+
+Si representan un riesgo sanitario los animales y vegetales, sus productos y subproductos, deberán ordenarse la aplicación de medidas sanitarias que resulten de la verificación, tales como: retenciones, retornos, sacrificio, destrucciones, tratamiento y levantamiento de actas administrativas.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 94.
+
+La movilización de maquinaria agrícola Interestatal o intraestatal, deberá contar con un tratamiento químico, lavado a alta presión u otros amparados con un documento emitido por un organismo auxiliar.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 95.
+
+Queda prohibida la movilización de animales, sus productos y subproductos, procedentes de lugares que se encuentren declarados en cuarentena, salvo el análisis de riesgo y el cumplimiento de los requisitos establecidos en este documento, para el caso de vegetales, sus productos y subproductos queda prohibida su movilización.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 96.
+
+Todo animal que entre al rastro deberá contar con documentos sanitarios de movilización y de propiedad que entregará a responsables del rastro que corresponda, quien los resguardará por lo menos un año.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 97.
+
+Se instalarán Puntos de Verificación e Inspección Fitozoosanitaria, en los lugares que determine la Secretaría, las que podrán contar con áreas de cuarentena y retención.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 98.
+
+Si en la movilización de animales y vegetales, sus productos y subproductos, los inspectores zoosanitarios o cualquier autoridad, advierten irregularidades que hagan presumir la existencia de algún delito, se procederá a la detención del conductor y del medio de transporte, así como al aseguramiento de la carga poniéndose a disposición del Ministerio Público, mediante la denuncia respectiva.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 99.
+
+Todos los lugares donde se concentren animales para ferias, exposiciones, subastas, tianguis y eventos similares deberán cumplir con lo establecido en este reglamento y la normatividad vigente en la materia.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2008)</small>
+
+### CAPITULO X. DE LA SANIDAD VEGETAL Y ANIMAL, ACUICOLA Y FORESTAL
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 100.
+
+La Secretaría, promoverá, en coordinación con las dependencias federales, otras entidades federativas, municipios, organizaciones sociales, particulares y organismos auxiliares, la difusión, vigilancia y el control de aspectos sanitarios en la producción, industrialización, comercialización y movilización del sector agropecuario, acuícola y forestal.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 101.
+
+Se declara de interés público y obligatorio la prevención, control y erradicación de las enfermedades y plagas que afecten a los animales y vegetales, sin perjuicio de lo que al respecto establecerá la normatividad vigente.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 102.
+
+En la Entidad se llevarán a cabo campañas fitozoosanitarias que sean determinadas por la Autoridad Federal, así como las que determine la Secretaría.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 103.
+
+La operación de las campañas fitozoosanitarias y acuícolas será responsabilidad de la Secretaría en coordinación con las Autoridades Federales y los Organismos Auxiliares.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 104.
+
+Es obligatoria la participación en las campañas fitozoosanitarias y acuícolas de toda persona física y moral relacionada con los animales y vegetales, sus productos y subproductos que se establezcan en la entidad.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 105.
+
+Queda prohibido introducir al Estado animales y vegetales, sus productos y subproductos, que procedan de zonas que se sospeche o compruebe la existencia de una plaga o enfermedad contagiosa; de igual forma queda prohibido arrojar a cualquier cuerpo de agua, así como a la orilla de caminos, animales muertos o partes de ellos.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 106.
+
+La Secretaría determinará cuando sea necesario, las zonas de emergencia fitozoosanitaria y acuícola, en coordinación con las Autoridades Federales se aplicarán las medidas correspondientes de control y cuarentena.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 107.
+
+Mientras dure la declaratoria de emergencia fitozoosanitaria y acuícola, no se expedirán documentos de movilización sin la autorización de la Secretaría, para la salida de la zona contaminada.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 23 DE MAYO DE 2008)</small>
+
+### CAPITULO XI. DE LA INOCUIDAD AGROALIMENTARIA
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 108.
+
+Se declara de interés público la aplicación de las actividades de Inocuidad Agroalimentaria, para disminuir los riesgos de contaminación en los alimentos de consumo humano.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 109.
+
+Proponer las normas y regulaciones estatales en términos de inocuidad de los alimentos para la producción, captura, transporte, almacén, conservación, distribución y expendio, así como la introducción de productos acuícolas y pesqueros.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 110.
+
+Son atribuciones de la Secretaría en materia de reducción de riesgos de contaminación en la producción agropecuaria:
+
+I. Coordinar y vigilar a través del área que corresponda la ejecución de las buenas prácticas agrícolas, pecuarias, acuícolas, de manejo, de producción y manufactura acuícola.
+
+II. Organizar la certificación, inspección y vigilancia de las unidades de producción.
+
+III. Promover la capacitación a través de los Organismos Auxiliares para la aplicación de sistemas de reducción de riesgos de contaminación en la producción primaria agropecuaria.
+
+IV. Promover y orientar la investigación en materia de inocuidad agroalimentaria.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 111.
+
+La Secretaría promoverá la profesionalización de los Organismos Auxiliares, la estandarización de su operación y vigilará que los recursos humanos, materiales y financieros que sean proporcionados por el Estado, sean utilizados con trasparencia y para los fines por los que fueron autorizados. En caso contrario a lo anterior, podrán ser sancionados.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 112.
+
+La Secretaria deberá coordinarse con la SAGARPA y el ISEM para el control de la importación de vegetales, animales, organismos y ovas acuícolas que pudieran constituir un riesgo para la salud humana y agropecuaria.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 113.
+
+Las Unidades de producción agropecuaria y acuícola que cuenten con un certificado de Buenas Prácticas Agrícolas, Pecuarias y Acuícolas deberán establecer medidas de control preventivo y de corrección cuando detecten una posible fuente de contaminación primaria.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 23 DE MAYO DE 2008)</small>
+
+### CAPITULO XII. DEL SISTEMA ESTATAL DE INFORMACION DE DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+
+###### Artículo 114.
+
 La Secretaría a través de la unidad administrativa correspondiente, organizará y coordinará el Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal.
 
-###### Articulo 81.
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
 
-La Secretaría en la operación y funcionamiento del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal, utilizara nuevas tecnologías como herramienta estratégica, apegándose a los lineamientos, normas, políticas emitidas por el Sistema Estatal de Informática, el Reglamento de Informática del Poder Ejecutivo del Estado de México y el Manual de Normas y Procedimientos de Informática.
+###### Artículo 115.
 
-### CAPITULO VIII. DE LA MOVILIZACION DE PRODUCTOS Y SUBPRODUCTOS AGROPECUARIOS. ACUICOLAS Y FORESTALES
-
-### CAPITULO IX. DE LA SANIDAD VEGETAL Y ANIMAL
-
-### CAPITULO X. DEL SISTEMA ESTATAL DE INFORMACION DE DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL
+La Secretaría en la operación y funcionamiento del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal utilizará nuevas tecnologías como herramienta estratégica, apegándose a los lineamientos, normas, políticas emitidas por el Sistema Estatal de Informática, el Reglamento de Informática del Poder Ejecutivo del Estado de México y el Manual de Normas y Procedimientos de Informática.
 
 ## TRANSITORIOS
 
@@ -898,3 +1270,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 23 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Decreto.
