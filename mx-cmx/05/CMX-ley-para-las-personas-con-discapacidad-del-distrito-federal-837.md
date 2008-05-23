@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-las-personas-con-discapacidad-del-distrito-federal-837
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "1999-07-01"
+last_updated: "2008-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=837&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MAYO DE 2008.
 
 Ley publicada en el Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -346,11 +346,13 @@ La Secretaria de Medio Ambiente autorizará a las personas con discapacidad, pre
 
 La Secretaría de Transportes y Vialidad diseñará e instrumentará programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, G.O. 1 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, G.O. 23 DE MAYO DE 2008)</small>
 
 ###### Artículo 20.
 
-Las personas ciegas acompañadas de perros guía tendrán libre acceso a todos los servicios públicos, servicios al público o comerciales.
+Las personas con discapacidad visual usuarias de perro guía debidamente adiestrado, tendrán derecho al libre acceso a inmuebles públicos que presten algún servicio al público, o establecimientos con servicios comerciales.
+
+Los inmuebles deberán contar con las adecuaciones físicas de señalización, acceso y permanencia, que permitan el libre desplazamiento y el uso por parte de las personas con discapacidad visual, las usuarias de perro guía, o cualquier otro instrumento de auxilio para su discapacidad.
 
 ### Capítulo VII. DEL DESARROLLO SOCIAL
 
@@ -473,3 +475,9 @@ Segundo.- Se deroga el artículo tercero transitorio de la Ley para Personas con
 Tercero.- El reglamento de la presente Ley deberá expedirse dentro de los treinta días siguientes a la fecha de publicación del presente decreto.
 
 Cuarto.- Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 23 DE MAYO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
