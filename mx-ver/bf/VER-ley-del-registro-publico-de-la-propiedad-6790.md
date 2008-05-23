@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "2003-12-31"
+last_updated: "2008-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 247 DEL REGISTRO PUBLICO DE LA PROPIEDAD PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 23 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -780,3 +782,39 @@ G.O. 31 DE DICIEMBRE DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE MAYO DE 2008.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga la Ley del Registro Público de la Propiedad, publicada en la Gaceta Oficial del Estado el veintinueve de diciembre de mil novecientos setenta y nueve.
+
+Tercero. Se derogan las disposiciones que se opongan a la aplicación y observancia de los preceptos de la presente Ley.
+
+Cuarto. El procedimiento registral de la Ley que se abroga, se seguirá utilizando en tanto no se cuente con el Reglamento de esta Ley y la infraestructura necesaria para utilizar el Sistema Registral previsto en la presente Ley.
+
+Quinto. El inicio de la operación del Sistema y las Secciones Registrales en cada una de las Oficinas Registradoras, se publicará previamente en la Gaceta Oficial del estado.
+
+Sexto. Los actos o procedimientos que se encuentren en trámite a la entrada en vigor de la presente Ley, se concluirán de acuerdo con las disposiciones de la Ley que se abroga y las disposiciones del Código Civil.
+
+Séptimo. Cuando en leyes y diversos ordenamientos se aluda al nombre de un área cuya denominación haya variado por efecto de esta Ley, las atribuciones, deberes y responsabilidades consecuentes se entenderán conferidas al área que bajo un nuevo nombre sustituya en sus funciones a la anterior.
+
+Octavo. Las inscripciones en la sección del Registro Público de la Propiedad que deban de realizarse en la oficina registradora distinta a la que establecía la Ley del Registro Público de la Propiedad que se abroga, se sujetarán al siguiente procedimiento;
+
+I. El interesado deberá dirigirse a la oficina registradora que corresponda antes de la iniciación de vigencia de la presente Ley.
+
+II. El Registrador de dicha oficina, recibirá la documentación y comunicará al interesado por escrito, que por virtud de la presente Ley, los documentos, como los antecedentes inmediatos se remitirán a la oficina de la nueva circunscripción territorial.
+
+Dentro de los tres días hábiles siguientes a la fecha que haya recibido la documentación, entregará personalmente o enviará por correo certificado con acuse de recibo, a la oficina competente, los documentos señalados en el párrafo anterior, con las observaciones que resulten procedentes; dejando constancia de la entrega en él o los lugares del archivo que les haya correspondido a los documentos remitidos y dará aviso inmediatamente al Director General.
+
+III. La oficina que reciba la documentación, procederá a la calificación y en su caso a la inscripción de los documentos, comunicando al interesado el resultado del trámite en los términos de la Ley.
+
+IV. Para el traspaso, se agregarán copias certificadas de las inscripciones de las demás secciones que los graven, limiten o afecten, dejando debida nota de la remisión de las mismas y comunicándolo por oficio a los interesados dentro de las 24 horas siguientes.
+
+V. No operará el traspaso de los casos de las inscripciones de las demás secciones del Registro Público de la Propiedad, excepto en los casos a que se refiere la fracción anterior y únicamente de los originales cuando así lo pida expresamente el o los interesados.
+
+VI. La inscripción de documentos que no tengan antecedentes registrados, se hará en la oficina que corresponda conforme a la presente Ley.
+
+Cualquier problema que surja con motivo de la aplicación de este precepto, lo resolverá la Dirección General.
+
+Noveno. El Reglamento de la Ley deberá expedirse en un plazo de noventa días a partir de la vigencia de este ordenamiento.
