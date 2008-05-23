@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2004-12-03"
+last_updated: "2008-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -1903,11 +1903,11 @@ IV.- Presentar el vehículo a revisión mecánica ante el Sistema Municipal del 
 
 Los permisos podrán ser modificados en los términos que fueron expedidos, a iniciativa del Sistema o a petición del interesado; para lo cual bastará el análisis que realice el Sistema, quien resolverá directamente.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 176.
 
-Para el caso de que el titular del permiso desee sustituir el vehículo autorizado por otro de su propiedad, el modelo del vehículo sustituto será obligatoriamente del mismo año de fabricación del que se sustituya o de modelo más reciente, sin rebasar en ningún momento el límite máximo de diez años de antigüedad y cumpliendo con los demás requerimientos de la normatividad vigente.
-
-En ningún caso se permitirá el trámite de sustitución de vehículos por modelos anteriores.
+En el caso de que el titular del permiso desee sustituir el vehículo autorizado por otro, el modelo del vehículo sustituto no deberá rebasar en ningún momento los diez años de antigüedad en su fabricación respecto a la fecha en que se encuentre operando, con excepción del transporte de alquiler sin itinerario fijo que preste el servicio de Radio Taxi, en el que el modelo del vehículo sustituto deberá apegarse a lo establecido por el Artículo 51 Fracción I subinciso B2.1) del presente Reglamento.
 
 #### SECCION V
 
@@ -3566,3 +3566,7 @@ PRIMERO.- La presente modificación al Reglamento de Transporte Público para el
 SEGUNDO.- El trámite que deberá (sic) seguir los titulares que actualmente brindan el servicio de alquiler en la modalidad de radio taxi y de sitio, para efectos de regular dicho servicio en los términos que establece la presente modificación, será determinado por el Sistema Municipal del Transporte.
 
 TERCERO.- Para los efectos de la modernización del transporte público de pasajeros, los permisionarios en la modalidad de radio taxi, deberán de renovar sus unidades a modelos que no rebasen el término de cuatro años de vida útil en servicio, tendrán como fecha límite el día último del mes de Diciembre del dos mil cuatro.
+
+P.O. 23 DE MAYO DE 2008.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
