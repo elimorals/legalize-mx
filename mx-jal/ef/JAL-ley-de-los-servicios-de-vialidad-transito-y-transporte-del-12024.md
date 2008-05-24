@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2007-01-23"
+last_updated: "2008-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -155,7 +155,9 @@ V. La prestación del servicio público de transporte en forma regular, continua
 
 VI. El mejoramiento de las vías públicas y de los medios de transporte;
 
-VII. La protección, ampliación y promoción de vías y rutas para el desarrollo de actividades turísticas, deportivas y de esparcimiento; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+
+VII. La protección, ampliación y promoción de vías y rutas para el desarrollo de vehículos de propulsión humana y tracción animal, de actividades turísticas, deportivas y de esparcimiento, y
 
 VIII. La aplicación al tránsito y transporte de criterios y normas ecológicos.
 
@@ -3034,3 +3036,7 @@ P.O. 23 DE ENERO DE 2007.
 DECRETO NUMERO 21742/LVII/06
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE MAYO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
