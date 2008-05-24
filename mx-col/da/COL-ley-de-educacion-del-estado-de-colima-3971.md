@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2007-07-14"
+last_updated: "2008-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACION DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -121,9 +121,17 @@ XIV.- Vigorizará los hábitos intelectuales que permitan el análisis objetivo 
 
 XV.- Propiciará las condiciones indispensables para el impulso de la investigación, la creación artística y la difusión de la cultura;
 
-XVI.- Mantendrá actualizado el acervo tecnológico y científico del Estado, y para tal efecto deberá sostener una armónica relación con los sectores productivos de la Entidad, con cuya vinculación se buscará la creación y aplicación productiva de los conocimientos, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
 
-XVII.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos.
+XVI.- Mantendrá actualizado el acervo tecnológico y científico del Estado, y para tal efecto deberá sostener una armónica relación con los sectores productivos de la Entidad, con cuya vinculación se buscará la creación y aplicación productiva de los conocimientos;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XVII.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos, y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XVIII.- Promoverá y fomentará la competitividad de los educandos, entendida ésta como la capacidad del Estado para sostener y expandir su participación en la población y combatir el desempleo.
 
 Siendo los fines primordiales del proceso educativo la instrucción y la formación del educando, para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa que le corresponde en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social y su espíritu creador.
 
@@ -1108,3 +1116,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE JULIO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
+
+P.O. 24 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
