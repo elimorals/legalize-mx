@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2007-07-21"
+last_updated: "2008-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -167,9 +167,23 @@ XII. Recibir orientación jurídica en forma gratuita cuando lo considere necesa
 
 XIII. Tener acceso a programas de prevención, orientación, gestión y apoyo para la obtención de prótesis, órtesis o cualquier ayuda técnica para su rehabilitación e integración;
 
-XIV. Ser beneficiarios de los porcentajes de descuentos en transporte público para su traslado; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
 
-XV. Ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades.
+XIV. Ser beneficiarios de los porcentajes de descuentos en transporte público para su traslado;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XV. Ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XVI. Tener acceso a la Información pública del Estado y los Municipios mediante la habilitación de los mecanismos de comunicación y de lenguaje adecuados para quienes presenten discapacidad auditiva o visual;
+
+Los Gobiernos Estatales y Municipales, así como sus organismos descentralizados y las empresas paraestatales y paramunicipales, garantizarán el ejercicio de este derecho; y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XVII. Los demás que señalen las leyes.
 
 ### Capítulo III. Del Instituto Colimense para la Discapacidad
 
@@ -221,9 +235,17 @@ XIV. Promover campañas de sensibilización y motivación con la finalidad de cr
 
 XV. El INCODIS evaluará a las asociaciones de y para personas con discapacidad, con el fin de verificar y corroborar el trabajo que cada una de ellas realiza, así como la supervisión de sus planes y programas anuales para emitir recomendaciones sobre los subsidios y apoyos públicos que reciben;
 
-XVI. Proponer la creación de las delegaciones municipales del INCODIS; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
 
-XVII. Las demás atribuciones contenidas en el Decreto que crea el INCODIS, su Reglamento Interior, así como las que sean necesarias para el cumplimiento de sus funciones.
+XVI. Proponer la creación de las delegaciones municipales del INCODIS;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XVII. Vigilar que en los informes de los titulares de los poderes del Estado y los presidentes municipales existan personas especializadas en el lenguaje de señas que pongan la Información generada en tales eventos al alcance de quienes presentan alguna discapacidad auditiva; y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XVIII. Las demás atribuciones contenidas en el Decreto que crea el lNCODIS, su Reglamento Interior, así como las que sean necesarias para el cumplimiento de sus funciones en términos de esta ley.
 
 ## TITULO SEGUNDO. De los Servicios Institucionales
 
@@ -251,9 +273,17 @@ VIII. Asesoría para construcción de viviendas adaptadas;
 
 IX. Servicios de transporte público adaptado;
 
-X. Programas de vialidad; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
 
-XI. Todas aquellas acciones que en su momento se consideren necesarias para la equiparación de oportunidades y protección de los derechos de las personas con discapacidad.
+X. Programas de vialidad;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XI. Programas de acceso a la información pública gubernamental; y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+
+XII. Todas aquellas acciones que en su momento se consideren necesarias para la equiparación de oportunidades y protección de los derechos de las personas con discapacidad.
 
 ### Capítulo II. De los servicios de salud y rehabilitación
 
@@ -886,3 +916,7 @@ EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO, C. ARNOLDO OCHOA GONZÁLEZ Rú
 P.O. 21 DE JULIO DE 2007.
 
 ÚNICO.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
