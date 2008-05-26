@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2006-12-20"
+last_updated: "2008-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2008.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -39,47 +39,109 @@ QUE REFORMA LA DE 25 DE AGOSTO DE 1917.
 
 ## TITULO I. DISPOSICIONES PRELIMINARES
 
-Art. 1º El Estado de Sinaloa es parte integrante de la República Mexicana.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2008)</small>
 
-Art. 2º El Estado de Sinaloa es Libre y Soberano en su régimen interior, sin más limitación que las expresamente establecidas por el pacto Federal.
+###### Art. 4º.
 
-Art. 3º La soberanía del Estado reside esencial y originariamente en el Pueblo Sinaloense, en cuyo nombre lo ejerce el Poder Público, en la forma y términos que las leyes establezcan.
+El territorio del Estado de Sinaloa es el que posee actualmente y el que por todo derecho le corresponda.
 
-Art. 4º El territorio del Estado de Sinaloa es el que posee actualmente y el que por todo derecho le corresponda.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2008)</small>
 
-###### Art. 4o.
+## TITULO 1 (SIC) BIS. DE LOS DERECHOS HUMANOS
 
-(DEROGADO, P.O. 31 DE MAYO DE 1930)
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
+
+###### Art. 4° Bis.
+
+En el Estado de Sinaloa toda persona es titular de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución, así como de los previstos en los instrumentos internacionales incorporados al orden jurídico mexicano. Su ejercicio implica deberes correlativos de respeto a los derechos de los demás y de solidaridad hacia la familia, los más desfavorecidos y la sociedad.
+
+Los derechos humanos tienen eficacia directa y vinculan a todos los poderes públicos. Serán regulados por ley orgánica, la cual respetará en todo tiempo su contenido esencial y su progresividad.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
+
+Art. 4° Bis A. Las personas son titulares de los siguientes derechos y libertades reconocidos por esta Constitución:
+
+1 (sic). Toda persona tiene derecho a que se respete su vida.
+
+II. Queda prohibida la pena de muerte y la de prisión perpetua.
+
+III. Nadie será sometido sin su libre consentimiento a exámenes y experimentos médicos o científicos, respetándosele en todo tiempo el derecho a decidir sobre la difusión de los resultados obtenidos.
+
+IV. Todo ser humano tiene derecho a un nombre propio y a los apellidos de sus padres o al de uno de ellos. La ley regulará la forma de asegurar este derecho.
+
+V. Todo individuo tiene derecho a adecuar su comportamiento a convicciones personales de orden religioso, ético, humanitario o de una naturaleza afín.
+
+VI. Todo individuo tiene derecho a buscar, recibir y difundir informaciones e ideas de toda índole, salvo los casos de excepción que determine la ley orgánica para asegurar el respeto a los derechos o a la reputación de los demás y la protección de la seguridad nacional, el orden público o la salud pública.
+
+VII. Cuando se trate de datos personales en información creada, administrada o en posesión de las entidades públicas, el individuo tendrá libre acceso a todo registro, archivo o banco de datos en que se contengan referencias a su persona, pudiendo requerir la actualización, rectificación, confidencialidad o supresión de esta información si lesiona o restringe alguno de sus derechos.
+
+VIII. Toda persona afectada por informaciones emitidas en su perjuicio a través de medios de difusión y que se dirijan al público en general, tiene derecho a efectuar por el mismo órgano de difusión y en condiciones similares a la difusión efectuada, su rectificación o respuesta en los términos que establezca la ley.
+
+IX. Los ciudadanos tienen derecho a acceder, en condiciones de igualdad, a las funciones y cargos públicos, con excepción de los sujetos a elección popular que se regirán por su propia normativa, en los términos que establezca la ley del servicio civil de carrera.
+
+X. Toda persona es inocente mientras no se determine su culpabilidad por decisión firme.
+
+XI. Se prohíbe la obtención y el uso en cualquier procedimiento de la prueba obtenida ilícitamente.
+
+XII. La persona que hubiere sido condenada en sentencia firme por error judicial, o haberse probado que fue privada ilegalmente de la libertad por otra autoridad, tendrá derecho a ser indemnizada.
+
+XIII. Los niños son titulares de derechos y no sólo objeto de protección. En los procedimientos judiciales o administrativos en que se resuelven derechos de los niños se deben observar los principios y las normas del debido proceso legal, atendiendo a las particularidades que se derivan de la situación específica en que se encuentran los niños y que se proyectan razonablemente, entre otras materias, sobre la intervención personal de dichos procedimientos y las medidas de protección que sea indispensable adoptar en el desarrollo de éstos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
+
+Art. 4° Bis B. El Estado tomará las medidas correspondientes a efecto de dar cumplimiento a los siguientes derechos y deberes:
+
+l. Todas las personas tienen derecho a la alimentación a fin de poder desarrollarse plenamente y conservar sus capacidades físicas y mentales, sin que padezcan hambre y malnutrición. La ley determinará las medidas necesarias para remover los obstáculos en el logro de este fin y propiciar el altruismo para con los menos favorecidos.
+
+II. Toda persona tiene derecho de acceder al agua segura en cantidades suficientes para su consumo personal y uso doméstico en condiciones de igualdad y sin discriminación de ningún tipo, a fin de no poner en riesgo su supervivencia. La ley determinará las actividades a realizar para el logro progresivo de este derecho.
+
+III. Toda persona tiene derecho a gozar de un medio ambiente saludable. La Ley determinará las medidas que deberán llevar a cabo las autoridades para protegerlo, preservarlo, restaurarlo y mejorarlo.
+
+IV. Los habitantes en el Estado tienen el derecho a disfrutar una vida libre de violencia. La ley establecerá las bases de la actuación de las autoridades para prevenirla y atender a las personas que sufran de ella, así como generar una cultura que permita eliminar las causas y patrones que la generan, poniendo especial atención en la erradicación de la violencia intrafamiliar.
+
+El Estado adoptará las medidas necesarias para prevenir, sancionar y erradicar la violencia contra la mujer, entendida como cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento físico, sexual o psicológico, tanto en el ámbito público como en el privado.
+
+V. En el Estado de Sinaloa se reconoce el pluralismo cultural y el derecho a preservar la forma de vida de sus pueblos indígenas, y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, culturas, religión, la educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+
+Las personas de la tercera edad y las que tengan capacidades diferentes deben recibir apoyo y protección permanentes. El Estado y los municipios establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de las personas con capacidades diferentes con el objeto de facilitar su pleno desarrollo.
+
+Toda persona que habite o transite en el territorio del Estado, sin importar su procedencia o condición migratoria, será tratado humanamente y con el respeto debido a la dignidad inherente al ser humano y a su identidad cultural.
+
+VI. Todo individuo tiene libertad de investigación científica y de creación, interpretación y difusión cultural, así como derecho a obtener los beneficios que le corresponda por razón de las producciones científicas, literarias o artísticas de que sea autor. El Estado conservará el patrimonio cultural y apoyará las iniciativas individuales y colectivas que contribuyan al desarrollo de la cultura, especialmente la práctica y expresiones artísticas que arraiguen valores nacionales y locales.
+
+VII. El Estado adoptará las medidas necesarias con el fin de que toda persona practique deporte y goce de la recreación, para lo cual promoverá la cultura física y creará oportunidades que permitan presenciar, organizar y participar en dichas actividades. Asimismo, habilitará y conservará espacios e instalaciones adecuados para tal efecto.
+
+VIII. El Estado adoptará las medidas especiales de carácter temporal encaminadas a acelerar la igualdad entre el hombre y la mujer, siempre y cuando no entrañen el mantenimiento indefinido de normas desiguales o separadas. Dichas medidas cesarán cuando se hayan alcanzado los objetivos de igualdad en la oportunidad y en el trato.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
+
+Art. 4° Bis C. Los derechos humanos a los que hace alusión esta Constitución se interpretarán de acuerdo con los siguientes principios:
+
+I. Los derechos humanos deben interpretarse evitando la contradicción con el texto constitucional y propiciando el sentido que le sea más favorable.
+
+II. Su sentido se determinará de conformidad con los instrumentos internacionales incorporados al orden jurídico mexicano aplicables y atendiendo los criterios de los organismos internacionales de protección de los derechos humanos reconocidos por el Estado mexicano, especialmente de la Corte Interamericana de Derechos Humanos.
+
+III. Cuando resulten aplicables o en conflicto dos o más derechos humanos, se hará una ponderación entre ellos a fin de lograr su interpretación armónica, logrando que su ejercicio no signifique menoscabo a los derechos de los demás y prevaleciendo la seguridad de todos y las justas exigencias del bien común y la equidad.
+
+IV. Las únicas limitaciones admisibles son las previstas en el texto constitucional, mismas que deberán ser interpretadas restrictivamente.
+
+V. Se deberá optar por el sentido más favorable a la persona y atendiendo a su progresividad.
+
+VI. El interés superior del niño deberá tener consideración primordial por parte de los tribunales, autoridades administrativas u órganos legislativos, así como en todas las medidas que tomen las instituciones públicas o privadas de bienestar social. Dicho deber implica que el desarrollo del niño y el ejercicio pleno de sus derechos deben ser considerados como criterios rectores para la elaboración de normas y la aplicación de éstas en todos los órdenes relativos a la vida del niño.
+
+VII. Ninguna interpretación podrá excluir otros derechos inherentes al ser humano que no estén previstos en la presente Constitución.
 
 ## TITULO II
 
-## TITULO III. DE LA FORMA DE GOBIERNO Y DIVISION TERRITORIAL
-
 ### CAPITULO I. DE LOS SINALOENSES
-
-Art. 5º Son sinaloenses los mexicanos nacidos en el Estado de Sinaloa, y los residentes en él por más de dos años consecutivos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1994)</small>
-
-Art. 6º Son obligaciones del Sinaloense:
-
-I. Inscribirse en el catastro de la Municipalidad, manifestando la propiedad que tenga y la industria, profesión o trabajo de que subsista.
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1994)</small>
-
-II. Instruirse y cuidar de que sus hijos y pupilos menores de quince años, concurran a las escuelas oficiales o particulares para recibir la enseñanza primaria y secundaria, de conformidad con las leyes respectivas.
-
-III. Contribuir a los gastos públicos en la forma que las leyes lo dispongan.
-
-IV. Cooperar al mantenimiento del orden y de la paz pública.
-
-Art. 7º Los sinaloenses en igualdad de circunstancias serán preferidos a los que no lo sean, en toda clase de concesiones, empleos, cargos o comisiones del Gobierno, que de acuerdo con las leyes puedan otorgárseles.
 
 ### CAPITULO II. DE LOS CIUDADANOS SINALOENSES
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1953)</small>
 
-Art. 8º Son ciudadanos sinaloenses:
+###### Art. 8º.
+
+Son ciudadanos sinaloenses:
 
 Los hombres y mujeres nacidos en el Estado, así como los ciudadanos mexicanos avecinados en Sinaloa por más de dos años consecutivos, si no han declarado ante el Ejecutivo del Estado, que desean conservar su calidad de origen; y que reúnan además los siguientes requisitos:
 
@@ -91,7 +153,9 @@ II. Tener un modo honesto de vivir.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1953)</small>
 
-Art. 9º Son obligaciones del ciudadano del Estado, además de las anteriores:
+###### Art. 9º.
+
+Son obligaciones del ciudadano del Estado, además de las anteriores:
 
 I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan.
 
@@ -104,18 +168,6 @@ III. Desempeñar las funciones electorales y los cargos de elección popular y l
 > <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2003)</small>
 
 IV. Participar en los procesos de referéndum y de plebiscito a que se convoque en los términos de esta Constitución y sus leyes reglamentarias.
-
-###### Art. 9º.
-
-Son obligaciones del ciudadano del Estado, además de las anteriores.
-
-I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan.
-
-II. Votar en las elecciones populares en el Distrito Electoral a que corresponda.
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
-
-III. Desempeñar las funciones electorales y los cargos de elección popular y los de jurado, en los términos que fijen las leyes respectivas.
 
 ###### Art. 10.
 
@@ -271,7 +323,7 @@ La ley tipificará los delitos y determinará las faltas en materia electoral, a
 
 La ley en materia electoral deberá modificarse, promulgarse y publicarse por lo menos noventa días antes de que inicie el proceso electoral en que vaya a aplicarse, y durante el mismo no podrá haber modificaciones legales fundamentales.
 
-## TITULO IV
+## TITULO III. DE LA FORMA DE GOBIERNO Y DIVISION TERRITORIAL
 
 ###### Art. 17.
 
@@ -295,9 +347,7 @@ III. En los Distritos fiscales que la Ley General de Hacienda del Estado determi
 
 IV. En los Distritos electorales que designe la Ley Orgánica respectiva.
 
-## TITULO V. DEL MUNICIPIO LIBRE
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+## TITULO IV
 
 ### CAPITULO I. DE LA DIVISION DEL PODER PUBLICO
 
@@ -645,9 +695,9 @@ XXVI. Discutir y aprobar anualmente, las leyes de ingresos de los Municipios del
 
 XXVII. Facultar al Ejecutivo del Estado para que con las limitaciones que sean necesarias, represente a éste por sí o apoderado especial, en los casos en que corresponda.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2008)</small>
 
-XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Estado a los que hayan prestado servicios eminentes al mismo y jubilaciones que también sean previamente propuestas por el Ejecutivo a los servidores públicos de la manera que determinan las leyes.
+XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Estado a los que hayan prestado servicios eminentes al mismo.
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1541,9 +1591,9 @@ En materia política, sólo podrán ejercer este derecho los ciudadanos mexicano
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
-## TITULO VI. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
+## TITULO V. DEL MUNICIPIO LIBRE
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 110.
 
@@ -1825,7 +1875,9 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
-## TITULO VII
+## TITULO VI. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
@@ -1955,11 +2007,7 @@ La acción penal derivada de la responsabilidad por delitos cometidos durante el
 
 Tratándose de responsabilidades administrativas, la Ley de la materia fijará la prescripción de las sanciones, tomando en cuenta el tipo de actos u omisiones de que se trata y sus consecuencias; pero en caso de actos u omisiones graves, el término de prescripción no será menos de tres años.
 
-## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
-
-SUBTITULO PRIMERO
-
-DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
+## TITULO VII
 
 ### CAPITULO VII. PUBLICACION ESPECIAL DE SENTENCIA
 
@@ -2201,11 +2249,9 @@ Cuando las licitaciones a que hace referencia el párrafo anterior no sean idón
 
 Quedan estrictamente prohibidos en el Estado, todos los juegos de azar. Para extirpar ese vicio, combatir el alcoholismo y reprimir la prostitución y la vagancia, la ley se mostrará severa y las autoridades serán inexorables. Es causa de responsabilidad oficial, toda falta u omisión en el cumplimiento de las obligaciones que este precepto impone.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1962)</small>
-
 ###### Art. 157.
 
-Queda abolida en forma absoluta la Pena de Muerte dentro del Estado de Sinaloa.
+(DEROGADO, P.O. 26 DE MAYO DE 2008)
 
 ### CAPITULO VIII. DECOMISO DE BIENES PRODUCTO DEL ENRIQUECIMIENTO ILICITO
 
@@ -2223,17 +2269,29 @@ Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere q
 
 TRANSITORIOS:
 
-###### Art. 1o.
+###### Art. 1º.
 
-Esta Constitución comenzará a regir desde el día siguiente al de su promulgación y se publicará por bando solemne en todo el Estado.
+El Estado de Sinaloa, como parte integrante de los Estados Unidos Mexicanos, se constituye en un Estado democrático de derecho, cuyo fundamento y objetivo último es la protección de la dignidad humana y la promoción de los derechos fundamentales que le son inherentes.
 
-###### Art. 2o.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2008)</small>
 
-Subsistirán vigentes todas las leyes y decretos en todo aquello que no se oponga a esta Constitución.
+###### Art. 2º.
+
+En lo que atañe a su régimen interior la soberanía del Estado reside esencial y originariamente en el pueblo sinaloense, el cual propugna como valores superiores de su orden jurídico y social, la libertad, la igualdad de derechos, la justicia, la solidaridad, el pluralismo político y la diversidad cultural.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2008)</small>
 
 ###### Art. 3o.
 
 Para los efectos del artículo 18 de esta Constitución y mientras se expidan las leyes que los determine (sic), se reputarán como distritos fiscales, judiciales y electorales, las actuales divisiones en la forma que hasta hoy han existido.
+
+###### Art. 3º.
+
+El Estado de Sinaloa es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas por el Pacto Federal. Sus tareas fundamentales son promover el bienestar individual y colectivo de los sinaloenses, el desarrollo económico sustentable, la seguridad y la paz social, la participación de todos los ciudadanos en la vida política, económica, cultural y social y la equidad en las relaciones sociales.
+
+###### Art. 4o.
+
+(DEROGADO, P.O. 31 DE MAYO DE 1930)
 
 ###### Art. 5o.
 
@@ -2313,6 +2371,30 @@ Unico.- El presente Decreto surte sus efectos a partir de la fecha de su publica
 
 P.O. 19 DE MAYO DE 1938.
 
+###### Art. 5º.
+
+Son sinaloenses los mexicanos nacidos en el Estado de Sinaloa, y los residentes en él por más de dos años consecutivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1994)</small>
+
+###### Art. 6º.
+
+Son obligaciones del Sinaloense:
+
+I. Inscribirse en el catastro de la Municipalidad, manifestando la propiedad que tenga y la industria, profesión o trabajo de que subsista.
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1994)</small>
+
+II. Instruirse y cuidar de que sus hijos y pupilos menores de quince años, concurran a las escuelas oficiales o particulares para recibir la enseñanza primaria y secundaria, de conformidad con las leyes respectivas.
+
+III. Contribuir a los gastos públicos en la forma que las leyes lo dispongan.
+
+IV. Cooperar al mantenimiento del orden y de la paz pública.
+
+###### Art. 7º.
+
+Los sinaloenses en igualdad de circunstancias serán preferidos a los que no lo sean, en toda clase de concesiones, empleos, cargos o comisiones del Gobierno, que de acuerdo con las leyes puedan otorgárseles.
+
 ###### Artículo 1o.
 
 Este Decreto surtirá sus efectos desde el entrante período constitucional.
@@ -2342,6 +2424,10 @@ P.O. 25 DE MAYO DE 1939.
 ###### Art. 1o.
 
 La visita anual a que se refiere este Decreto, deberá efectuarse en el curso de los meses que restan del presente año.
+
+###### Art. 1o.
+
+Esta Constitución comenzará a regir desde el día siguiente al de su promulgación y se publicará por bando solemne en todo el Estado.
 
 ###### Art. 2o.
 
@@ -2380,6 +2466,10 @@ P.O. 15 DE ABRIL DE 1941.
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
 
 P.O. 16 DE DICIEMBRE DE 1941.
+
+###### Art. 2o.
+
+Subsistirán vigentes todas las leyes y decretos en todo aquello que no se oponga a esta Constitución.
 
 ###### ARTICULO UNICO.
 
@@ -3104,6 +3194,34 @@ P.O. 20 DE DICIEMBRE DE 2006.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- La Ley que reglamente la materia del presente decreto deberá ser aprobada y publicada en el lapso que comprende el primer periodo ordinario de sesiones correspondiente al Tercer Año de Ejercicio de la LVIII Legislatura del Estado.
+
+P.O. 26 DE MAYO DE 2008.
+
+DECRETO No. 93, POR EL QUE SE REFORMAN LOS ARTICULOS 1, 2 Y 3 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE MAYO DE 2008.
+
+DECRETO No. 94, POR EL QUE SE ADICIONA EL TITULO 1 BIS Y LOS ARTICULOS 4 BIS, 4 BIS A, 4 BIS B Y 4 BIS C Y SE DEROGA EL 157 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE MAYO DE 2008.
+
+DECRETO No. 95, POR EL QUE SE REFORMA LA FRACCION XXVIII DEL ARTICULO 43 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no se aprueben reformas a la Ley de los Trabajadores al Servicio del Estado de Sinaloa o se expida una nueva ley de pensiones, para establecer la instancia que aprobará las pensiones previamente propuestas por el Ejecutivo Estatal, el Congreso del Estado, continuará ejerciendo dicha facultad.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
