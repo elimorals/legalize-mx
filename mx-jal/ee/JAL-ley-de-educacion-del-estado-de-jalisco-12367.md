@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2007-02-22"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -89,11 +89,13 @@ El Gobierno del Estado está obligado a prestar y promover servicios educativos 
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
-###### ARTICULO 7º.
+###### ARTICULO 7o.
 
 La educación que imparta el estado de Jalisco, sus municipios y sus organismos descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º. de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
-I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales y la cultura de la igualdad y equidad de género, así como la prevención, detección, atención, sanción y erradicación para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
 
 II.- Fomentar la adquisición de conocimientos científicos y culturales, el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y la reflexión crítica;
 
@@ -157,9 +159,9 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto que sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de la independencia económica y a la continuidad y crecimiento de nuestra cultura, y
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos, evitando los privilegios de raza, religión, grupos, sexo o condición social.
+III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando la cultura de la igualdad y equidad de género y el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos, evitando los privilegios de raza, religión, grupos, sexo o condición social.
 
 ###### ARTICULO 9o.
 
@@ -1876,3 +1878,17 @@ SEGUNDO. La Secretaría de Educación en coordinación con la Secretaría de Sal
 P.O. 22 DE FEBRERO DE 2007.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
