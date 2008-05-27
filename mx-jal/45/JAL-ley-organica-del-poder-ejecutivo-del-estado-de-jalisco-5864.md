@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2007-10-20"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -213,11 +213,17 @@ XX. El apoyo, control y vigilancia en la prestación de los servicios de salud y
 
 XXI. El fomento y promoción de la participación ciudadana, así como el incentivo la intervención de los organismos de la sociedad en asuntos de interés colectivo;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XXII. La prevención y disminución de la contaminación ambiental y el establecimiento de políticas, estrategias y programas para el aprovechamiento y uso sustentable de los recursos naturales; y
+XXII. La prevención y disminución de la contaminación ambiental y el establecimiento de políticas, estrategias y programas para el aprovechamiento y uso sustentable de los recursos naturales;
 
-XXIII. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXIII. Ejercer en coordinación con la Federación y los municipios en el ámbito de su competencia, sus atribuciones en materia de prevención, detección, atención, sanción y erradicación de la violencia contra las mujeres, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXIV. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -1968,3 +1974,17 @@ Octavo. El Ejecutivo del Estado expedirá el Reglamento Interior de la Secretar�
 P.O. 20 DE OCTUBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
