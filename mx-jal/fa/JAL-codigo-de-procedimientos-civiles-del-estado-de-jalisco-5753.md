@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2007-10-04"
+last_updated: "2008-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -153,6 +153,10 @@ El tercero obligado a la evicción deberá ser llamado a juicio oportunamente, p
 Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio y nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia; o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil, perjudican aún a los que no litigaron.
 
 Las acciones del estado civil fundadas en la posesión de estado, surtirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+En todos los juicios del orden familiar que estén relacionados con violencia intrafamiliar, el Juez a petición de parte o de oficio, durante el periodo probatorio, deberá ordenar la realización de dictámenes periciales al demandado para determinar, en su caso, si lo condena a someterse a tratamientos reeducativos, integrales, especializados y gratuitos que serán presentados por instituciones públicas y cuya duración no podrá ser mayor a seis meses, siempre y cuando la acción resulte procedente. La negativa del demandado a someterse a dichos dictámenes periciales, previa aplicación de las medidas de apremio previstas en este código, hará presumir la necesidad de los tratamientos.
 
 ###### ARTICULO 22.
 
@@ -2111,6 +2115,10 @@ De la Separación de Personas como Acto Prejudicial.
 ###### ARTICULO 221.
 
 Cuando alguno de los cónyuges, intente, o fuese a intentar demanda, querella o denuncia, puede solicitar la separación al Juez, acreditando por los medios permitidos a su alcance, la urgencia y necesidad de la medida. Dicha autoridad, desde luego, dispondrá las medidas necesarias para que el cónyuge que tuviere el cuidado del hogar y de los hijos siga habitando la casa conyugal y prevendrá al otro cónyuge que señale el domicilio donde deberá habitar durante el curso del procedimiento respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+Asimismo, podrá solicitar al Juez, sujetándose a los lineamientos de este capítulo, el embargo precautorio de bienes de su cónyuge que, en caso de recaer en bienes inmuebles, deberá inscribirse con carácter de temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarías a cargo de éste.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
@@ -5716,21 +5724,25 @@ De los Juicios sobre Alimentos.
 
 Los juicios que versen sobre pago o aseguración de alimentos se tramitarán conforme a las reglas generales de los demás sumarios y a las especiales siguientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 694.
 
-Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales, el juez sin correr traslado a la contraparte ordenará desde luego que el demandante acredite suficientemente la urgencia y necesidad de la medida y que justifique aproximadamente, cuando menos, la posibilidad del que deba darlos.
+Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales, el demandante acreditará, con los medios permitidos a su alcance, la necesidad de la medida y justificará aproximadamente, cuando menos, la posibilidad del que deba darlos.
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 1995)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
 Cuando se pida la fijación y aseguramiento de alimentos provisionales por una institución oficial, dedicada a la protección de la familia, o a la asistencia pública, se presumirán como ciertos salvo prueba en contrario, los dictámenes y documentos por ellas elaborados que se acompañen a la solicitud correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez resolverá con base en la capacidad económica y nivel de vida del deudor y de sus acreedores alimentarios.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 695.
 
-En vista de los títulos presentados para fundar la demanda y una vez justificados los extremos de que se habla en el artículo anterior, el juez si estima fundada la solicitud dictará resolución fijando la suma o porcentaje en que deben consistir los alimentos provisionales y mandará abonarlos, por mensualidades anticipadas, mientras se resuelve en definitiva.
+Una vez acreditado lo que establece el artículo anterior, el Juez, sin correr traslado a la contraparte, dictará resolución fijando la suma o porcentaje en que deben consistir los alimentos provisionales y mandará abonarlos, por mensualidades anticipadas, mientras se resuelve en definitiva.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8751,3 +8763,17 @@ P.O. 31 DE MAYO DE 2007.
 P.O. 4 DE OCTUBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
