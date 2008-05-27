@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-de-las-mujeres-22991"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2001-12-29"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 29 de diciembre de 2001.
 
@@ -85,9 +85,21 @@ VII. La Junta de Gobierno: La Junta de Gobierno del Instituto;
 
 VIII. La Presidenta: La mujer en quien recae la responsabilidad de dirigir el Instituto;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE MAYO DE 2008)</small>
+
 IX. La Secretaría: La Secretaría Ejecutiva del Instituto;
 
-X. El Consejo: Consejo Ciudadano del Instituto Jalisciense de las Mujeres.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+X. El Consejo: Consejo Ciudadano del Instituto Jalisciense de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XI. El Sistema Estatal: El Sistema Estatal para Prevención, Detección, Atención, Sanción y Erradicación la (sic) Violencia contra las Mujeres, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XII. El Programa Estatal: El Programa Estatal para Prevención, Detección, Atención y Erradicación la (sic) Violencia contra las Mujeres.
 
 ### Capítulo II. Del Instituto
 
@@ -177,9 +189,17 @@ XXXIV. Proponer estímulos fiscales para la capacitación y adiestramiento de la
 
 XXXV. Impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios;
 
-XXXVI. Promover esquemas de ampliación del número de guarderías y sus horarios, acordes a las necesidades laborales y educativas de las mujeres; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XXXVII. Elaborar y mantener actualizada una base de datos sobre las condiciones de vida de la población femenina en Jalisco.
+XXXVI. Promover esquemas de ampliación del número de guarderías y sus horarios, acordes a las necesidades laborales y educativas de las mujeres;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXXVII. Elaborar y mantener actualizada una base de datos sobre las condiciones de vida de la población femenina en Jalisco, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXXVIII. Ejercer, a través de su titular, las funciones de Secretaría Ejecutiva del Consejo Estatal para Prevención, Detección, Atención y Erradicación de la Violencia contra las Mujeres.
 
 ###### Artículo 8.
 
@@ -235,9 +255,17 @@ XXIV. Fomentar la creación de Centros Integrales de Apoyo a las Mujeres, consid
 
 XXV. Elaborar su presupuesto de egresos conforme lo establece la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco;
 
-XXVI. Ser representante del Poder Ejecutivo del Estado ante los gobiernos federal y municipal, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación para el análisis, información y toma de decisiones sobre la situación de las mujeres en el Estado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XXVII. Las demás que le otorgue la presente ley y otros ordenamientos legales y reglamentarios.
+XXVI. Ser representante del Poder Ejecutivo del Estado ante los gobiernos federal y municipal, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el ejecutivo solicite su participación para el análisis, información y toma de decisiones sobre la situación de las mujeres en el Estado;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXVII. Elaborar, coordinar, aplicar y evaluar, auxiliándose de las demás autoridades integrantes del Sistema Estatal, el Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXVIII. Las demás que le otorgue la presente ley y otros ordenamientos legales y reglamentarios.
 
 ###### Artículo 9.
 
@@ -495,7 +523,9 @@ La Junta debe determinar en el reglamento interior, la estructura, organización
 
 El Consejo tiene las siguientes atribuciones:
 
-I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al Programa Estatal para las Mujeres y en los demás asuntos en materia de equidad y género que sean sometidos a su consideración;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+I. Fungir como órgano de asesoría y consulta en lo relativo a los Programas del Instituto y en los demás asuntos en materia de equidad y género que sean sometidos a su consideración;
 
 II. Impulsar y favorecer la participación de los sectores interesados en la (sic) acciones relaciones (sic) con el objeto de esta ley;
 
@@ -511,7 +541,9 @@ VII. Proponer medidas para modificar las políticas, estrategias, programas, pro
 
 VIII. Proponer mecanismos que propicien el fortalecimiento y actualización de los sistemas de información desagregados por género de los distintos sectores de a (sic) sociedad;
 
-XIX (SIC). Las demás que determinen el reglamento interior y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+IX. Las demás que determinen el reglamento interior y demás disposiciones aplicables.
 
 ### Capítulo VII. De la coadyuvancia con los municipios del estado
 
@@ -620,3 +652,19 @@ LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HÉCTOR PÉREZ PLAZOLA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
