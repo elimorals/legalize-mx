@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-del-pleno-del-instituto-de-acceso-a-la-informacion-5117
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-08-02"
-last_updated: "2006-08-02"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51172&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-07-20"
 
 ACUERDO DEL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL CUAL SE APRUEBAN LOS FORMATOS DE SOLICITUD DE ACCESO A LA INFORMACION PUBLICA, SOLICITUD DE ACCESO O RECTIFICACION DE DATOS PERSONALES Y RECURSO DE REVISION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL CUAL SE APRUEBAN LOS FORMATOS DE SOLICITUD DE ACCESO A LA INFORMACION PUBLICA Y RECURSO DE REVISION, Y SE DEROGAN LOS FORMATOS APROBADOS MEDIANTE EL ACUERDO 072/SO/20-07/2006, PUBLICADO EN LA G.O. DE 27 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 2 de agosto de 2006.
 
@@ -101,3 +103,19 @@ Agustín Millán Gómez
 Comisionado Ciudadano
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 27 DE MAYO DE 2008.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ACUERDO.
+
+PRIMERO. Se derogan los Formatos aprobados por el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal mediante el Acuerdo 072/SO/20-07/2006.
+
+SEGUNDO. Se aprueban los Formatos de Solicitud de Acceso a la Información Pública y de Recurso de Revisión, que como anexo forman parte del presente Acuerdo.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. El presente Acuerdo deberá ser comunicado por el Comisionado Ciudadano Presidente a los titulares de los Entes Públicos obligados y a las Oficinas de Información Pública.
+
+QUINTO. Se instruye al Secretario Técnico para que en el ámbito de sus atribuciones realice las gestiones necesarias para que el presente Acuerdo sea publicado en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
