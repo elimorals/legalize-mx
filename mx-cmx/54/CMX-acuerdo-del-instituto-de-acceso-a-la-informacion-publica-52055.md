@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-del-instituto-de-acceso-a-la-informacion-publica-52055"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-27"
-last_updated: "2007-09-07"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52055&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-10-23"
 
 ACUERDO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE DEBERAN OBSERVAR LOS ENTES PUBLICOS DEL DISTRITO FEDERAL EN LA RECEPCION, REGISTRO, TRAMITE, RESOLUCION Y NOTIFICACION DE LAS SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA Y DE ACCESO O RECTIFICACION DE DATOS PERSONALES A TRAVES DEL SISTEMA ELECTRONICO INFOMEX
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE SEPTIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS QUE DEBERAN OBSERVAR LOS ENTES PUBLICOS DEL DISTRITO FEDERAL EN LA RECEPCION, REGISTRO, TRAMITE, RESOLUCION Y NOTIFICACION DE LAS SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA A TRAVES DEL SISTEMA ELECTRONICO INFOMEX, PUBLICADO EN LA G.O. DE 27 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el viernes 27 de octubre de 2006.
 
@@ -411,3 +413,11 @@ SE TRASCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LOS LINEAM
 TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 CUARTO. Se instruye al Secretario Técnico para que en el ámbito de sus atribuciones realice las gestiones necesarias para que el presente acuerdo se comunique a los titulares de los Entes Públicos obligados y a las Oficinas de Información Pública, así como para que sea publicado en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
+
+G.O. 27 DE MAYO DE 2008.
+
+Primero. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Se abrogan los Lineamientos que deberán observar los entes públicos del Distrito Federal en la recepción, registro, trámite, resolución y notificación de las solicitudes de acceso a la información pública y de acceso o rectificación de datos personales a través del sistema electrónico Infomex, aprobados mediante el acuerdo 129/SE/23-10/2006 y reformados mediante el acuerdo 248/SE/04-09/2007.
+
+Tercero. Las solicitudes de acceso a la información pública así como de acceso y/o rectificación de datos personales presentadas con anterioridad a la entrada en vigor de los presentes lineamientos, se seguirán tramitando de conformidad con los lineamientos señalados en el artículo anterior hasta su conclusión.
