@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2008-04-29"
+last_updated: "2008-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -550,6 +550,12 @@ Cuando se cometa un delito en contra de algún miembro de la familia, el Juez po
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 El tratamiento previsto en el párrafo anterior, también podrá aplicarse como medida precautoria por el Ministerio Público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+En los delitos que por cuestiones de género que sean cometidos en agravio de mujeres, se aumentará la pena privativa de la libertad en una tercera parte.
 
 ###### Art. 42.
 
@@ -1311,7 +1317,9 @@ Las mismas sanciones se aplicarán a las personas que sin ser pasajeros o de las
 
 ### CAPITULO II (SIC). Lenocinio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2008)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
@@ -1372,6 +1380,12 @@ III. A cumplir un mandato legítimo de autoridad competente.
 Se le aplicará prisión de uno a cinco años, al que empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad competente o sus agentes ejerzan alguna de sus funciones o resista el cumplimiento de un mandato legítimo ejecutado en forma legal.
 
 La misma sanción sufrirá el que, a través de la coacción física o moral, obligue a la autoridad pública a que ejecute un acto oficial, con o sin los requisitos legales o cualquier otro que no esté en sus atribuciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+Se aplicará de seis meses a un año de prisión al que viole o infrinja una orden de protección preventiva y/o de emergencia de las establecidas en el artículo 93 bis del Código de Procedimientos Penales del Estado de Jalisco.
 
 ###### Art. 130.
 
@@ -1517,7 +1531,7 @@ Las penas previstas en este artículo se incrementarán en una mitad cuando el s
 
 ###### Art. 139.
 
-El delito de lenocinio se sancionará de cuatro a nueve años de prisión y multa por el importe de quinientos a dos mil días de salario y lo comete quien:
+El delito de lenocinio se sancionará de cinco a nueve años de prisión y multa por el importe de quinientos a dos mil días de salario y lo comete quien:
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2001)</small>
 
@@ -1957,7 +1971,13 @@ XI. Dictar u omitir una resolución de trámite o de fondo o una sentencia defin
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
-XII. Procurar la impunidad de los delitos o faltas de que tenga conocimiento en el ejercicio de sus funciones, abstenerse de hacer denuncia de ellos o entorpecer su averiguación.
+XII. Procurar la impunidad de los delitos o faltas de que tenga conocimiento en el ejercicio de sus funciones, abstenerse de hacer denuncia de ellos o entorpecer su averiguación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XIII. Coaccione a la víctima de un delito a desistirse de procedimientos legales contra el generador o probable responsable de un delito.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -1977,9 +1997,11 @@ Si el monto del beneficio obtenido excede del señalado en el párrafo anterior,
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO IV. Acoso Sexual
+### CAPITULO IV. Hostigamiento y Acoso Sexual
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
 
 ## TITULO DECIMO. DELITOS DE PELIGROSIDAD SOCIAL
 
@@ -1987,19 +2009,9 @@ Si el monto del beneficio obtenido excede del señalado en el párrafo anterior,
 
 ### CAPITULO I. De la Violencia Intrafamiliar
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### Artículo 176 Ter.
-
-Comete el delito de violencia intrafamiliar quien reiteradamente infiera maltrato en contra de uno a (sic) varios miembros de su familia, tales como cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario, adoptante o adoptado.
-
-El maltrato a que se refiere el párrafo anterior es la sucesión de actos u omisiones que causen un deterioro a la integridad física, o psicológica, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
-
-Al responsable de este delito se le impondrán de tres meses a tres años de prisión, y a juicio del juez, además, las penas conjuntas o separadas de, la pérdida de la custodia que tenga respecto de la víctima y la prohibición de ir a lugar determinado o de residir en él.
-
-Cuando no se trate de reincidentes de violencia intrafamiliar ni sujetos que pudieren poner en peligro la integridad de los miembros de la familia, la pena de prisión podrá ser conmutada a juicio del juzgador por tratamiento psicológico, el que en ningún caso excederá del tiempo impuesto en la pena de prisión.
-
-Se equipara a violencia intrafamiliar el maltrato reiterado que se infiera en contra del tutor, curador, pupilo, o en contra de quien habite en el domicilio del agresor o en contra de la persona a quien el agresor le deba dar cuidado o protección. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
 
@@ -2367,21 +2379,31 @@ Se considera como violación todo caso en que la cópula o introducción por ví
 
 Si la persona ofendida fuere menor de diez años, la sanción será de doce a dieciocho años de prisión.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2008)</small>
 
-### CAPITULO VIII. Rapto
+### CAPITULO OCTAVO. Rapto
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Art. 176 Ter.
 
-Los jueces podrán aumentar hasta en una sexta parte las penas que correspondan o imponer tratamiento psicológico cuando entre los sujetos activo y pasivo hubiere vínculos de parentesco, matrimonio, tutela o custodia y se trate de delito doloso.
+Comete el delito de violencia intrafamiliar quien infiera maltrato en contra de uno o varios miembros de su familia, tales como cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario, adoptante o adoptado.
+
+Para efectos del párrafo anterior, se entiende por maltrato los actos u omisiones que causen un deterioro a la integridad física o psicológica, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
+
+Al responsable de este delito se le impondrán de seis meses a cuatro años de prisión, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este código aplicándose para ello las reglas de concurso de delitos. Además, se impondrán, a juicio del Juez, las penas conjuntas o separadas de la perdida de la custodia que tenga respecto de la víctima, la prohibición de ir a lugar determinado o residir en el y tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
+
+Se equipará a violencia intrafamiliar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, hijos de éste o aquélla, de quien habite en el domicilio del agresor o de la persona a quien el agresor le deba dar cuidado o protección. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
 
 ###### Art. 176 Bis.
 
-Al que asedie, acose, o reiteradamente solicite una conducta del pasivo, de naturaleza erótico sexual, para sí o para un tercero, con la amenaza de causar a la víctima un mal relacionado con las expectativas que pueda tener en el ámbito de una relación, ya sea en el campo laboral, docente, doméstico o cualquier otro, se impondrá sanción de uno a tres años de prisión.
+Comete el delito de hostigamiento sexual el que con fines o móviles lascivos asedie u hostigue sexualmente a otra persona de cualquier sexo, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, religiosas, domésticas, o cualquier otra, que implique subordinación de la víctima, al responsable se le impondrán de dos a cuatro años de prisión.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+Comete el delito de acoso sexual el que con fines o móviles lascivos asedie o acose sexualmente a otra persona de cualquier sexo, al responsable se le impondrá sanción de uno a cuatro años de prisión.
 
-Si el acosador fuese servidor público y utilizase medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
+Si el acosador u hostigador fuese servidor público y utilizase medios o circunstancias que el encargo le proporcione además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
+
+Estos delitos sólo serán perseguidos por querella del ofendido o de su legítimo representante, salvo que se trate de un incapaz o menor de edad en cuyo caso se procederá de oficio.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2777,19 +2799,21 @@ V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el pro
 
 VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE MAYO DE 2008)</small>
+
 ### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 ###### Art. 195.
 
-Al que se apodere de una mujer por medio de la violencia física o moral o del engaño o seducción para satisfacer algún deseo erótico-sexual o para casarse, se le aplicará la pena de seis meses a seis años de prisión. Si la mujer fuere menor de dieciocho años la seducción y el engaño se presumen.
+(DEROGADO, P.O. 27 DE MAYO DE 2008)
 
-Si la ofendida fuera casada o concubina de otro, se impondrá al raptor de dos a ocho años de prisión. Igual pena se impondrá, cuando el rapto sea cometido por dos o más personas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Art. 196.
 
-No se procederá contra el raptor, sino por queja de la ofendida o de su legítimo representante.
-
-Cuando el raptor se case con la ofendida, no se procederá contra él ni contra sus copartícipes, salvo que se declare nulo el matrimonio.
+(DEROGADO, P.O. 27 DE MAYO DE 2008)
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
@@ -2921,11 +2945,15 @@ Serán punibles las lesiones causadas en riña sea ésta inesperada o preconcert
 
 Si las lesiones fueren calificadas en los términos del Art. 219, se aumentará una tercera parte del mínimo y dos terceras partes del máximo de la sanción que le corresponderían si la lesión fuere simple.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2008)</small>
+
 ###### Art. 211.
 
-Si el ofendido fuese ascendiente del autor de una lesión se aumentarán un año de prisión al mínimo y dos años de prisión al máximo de la sanción que corresponda, conforme a los artículos que preceden.
+Si el ofendido fuese cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario, adoptante o adoptado, tutor, curador, pupilo o quien habite en el domicilio del agresor o persona a quien el agresor le deba dar cuidado o protección, se aplicarán además las penas establecidas en el artículo 176 ter, aplicando las reglas del concurso de delitos.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 Cuando las lesiones se ejecutan por quienes están en el ejercicio del derecho de corregir, no serán punibles si fueren de las comprendidas en la fracción I del artículo 207 y siempre que el autor no abusare del derecho de corrección a que se refiere la fracción IV del artículo 580 del Código Civil.
 
@@ -4536,3 +4564,19 @@ P.O. 23 DE OCTUBRE DE 2007.
 P.O. 29 DE ABRIL DE 2008.
 
 ÚNICO. El decreto 21755 y el presente decreto entrarán en vigor simultáneamente el día 1.º de enero de 2009, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic)
+
+de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
