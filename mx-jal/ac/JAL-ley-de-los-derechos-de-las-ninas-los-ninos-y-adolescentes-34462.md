@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2007-02-22"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -233,9 +233,23 @@ Las autoridades correspondientes deberán:
 
 I. Establecer programas de integración familiar, así como talleres y cursos que sirvan a los padres para dar mejor atención a sus hijos;
 
-II. Procurar siempre que las niñas, los niños y adolescentes vivan con su familia; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Cuidar que la distribución de videos, publicaciones impresas y las transmisiones de radio, televisión y espectáculos se realicen sin afectar el sano desarrollo de las niñas, los niños y adolescentes.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+II. Procurar siempre que las niñas, los niños y adolescentes vivan con su familia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+III. Cuidar que la distribución de videos, publicaciones impresas y las transmisiones de radio, televisión y espectáculos, en el ámbito de su competencia, se realicen sin afectar el sano desarrollo de las niñas, los niños y adolescentes; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+IV. Establecer programas que promuevan el desarrollo equitativo y la igualdad de oportunidades para las niñas y los niños.
 
 (ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
 
@@ -557,9 +571,13 @@ Deberán coordinarse con las autoridades correspondientes, a efecto de llevar a 
 
 ### CAPÍTULO III. De la familia y la sociedad
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+
 ###### Artículo 42.
 
-La familia es el espacio idóneo para el sano desarrollo de las niñas, los niños y adolescentes, es el ámbito natural de convivencia propicio para el entendimiento, comunicación y desarrollo de los valores cívicos y morales necesarios para su formación.
+La familia es el espacio idóneo para el sano desarrollo de las niñas, los niños y adolescentes, es el ámbito natural de convivencia propicio para el entendimiento, comunicación y desarrollo de los valores cívicos y morales y de la cultura de la igualdad y equidad de género, necesarios para su formación.
 
 ###### Artículo 43.
 
@@ -776,3 +794,17 @@ P.O. 22 DE FEBRERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de. Justicia Alternativa del estado de Jalisco.
