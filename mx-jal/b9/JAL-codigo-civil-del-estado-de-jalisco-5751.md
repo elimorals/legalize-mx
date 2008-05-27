@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2008-03-27"
+last_updated: "2008-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1689,7 +1689,9 @@ II. Los cónyuges conservarán en todo tiempo, la libertad para determinar la to
 
 III. Con el matrimonio se funda legalmente la familia, que es la comunidad establecida naturalmente para la diaria convivencia;
 
-IV. La estabilidad de la familia, base de las instituciones sociales, contribuye a la armonía social;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+IV. La estabilidad de la familia, base de las instituciones sociales, contribuye a la armonía social, por ello se inculcarán en su seno principios, valores y la cultura de la igualdad y equidad de género;
 
 V. En las relaciones conyugales tiene manifestación la complementariedad de los seres humanos en los aspectos afectivo y biológico, ningún cónyuge es superior al otro y con la unión se hace posible el desarrollo de la potencialidad humana;
 
@@ -1743,9 +1745,9 @@ Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 El Consejo de Familia que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento una vez que lo haya otorgado, sino por justa causa superveniente.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
 
-Art. 267 bis.- El hombre y la mujer, acreditarán ante el Oficial del Registro Civil, el haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre la igualdad del varón y la mujer ante la ley y la equidad de género en el matrimonio, el significado legal del matrimonio, los fines del matrimonio, el derecho de todo ser humano de ejercer la actividad profesional que desee y todos los derechos y deberes que nacen del matrimonio de acuerdo a los capítulos correspondientes de este Código. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia de Jalisco.
+Art. 267 bis.- El hombre y la mujer, acreditarán ante el Oficial del Registro Civil haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre los derechos y obligaciones que se contraen con el vinculo del matrimonio de acuerdo a los capítulos correspondientes de este código, el cual deberá contener un apartado sobre la igualdad y la equidad de género, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Art. 268.
 
@@ -1765,7 +1767,7 @@ VI. El atentado contra la vida de alguno de los casados para contraer matrimonio
 
 VII. Las enfermedades crónicas e incurables que sean, además, contagiosas y que pongan en peligro la vida o hereditarias; y cualesquiera otra enfermedad o conformación especial que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas, o bien porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes; la impotencia incurable para la cópula salvo cuando exista por causa de la edad o cuando por otra diversa causa sea conocida por ambos contrayentes;
 
-VIII. La enajenación psíquica declarada judicialmente; y
+VIII. La enajenación psíquica declarada judicialmente; y (sic)
 
 IX. La fuerza o miedo graves;
 
@@ -1803,9 +1805,11 @@ Los cónyuges vivirán juntos en el domicilio conyugal que de común acuerdo est
 
 También cesará la obligación que tienen los cónyuges de vivir juntos cuando uno de ellos padezca temporalmente enfermedad del orden psíquico o infeccioso.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+
 ###### Art. 275.
 
-Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a estos gastos.
+Los cónyuges contribuirán al funcionamiento del hogar y aportarán económicamente a su sostenimiento, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a estos gastos.
 
 Los deberes y derechos que nacen del matrimonio serán iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
@@ -2475,7 +2479,9 @@ Son causas de divorcio:
 
 I. La infidelidad sexual;
 
-II. El hecho de que la mujer dé a luz, durante el matrimonio, a hijo concebido antes de celebrarse éste y que judicialmente sea declarado que fue engendrado por persona diferente a su cónyuge;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+II. El hecho de que alguno de los cónyuges tenga un hijo, durante el matrimonio, concebido antes de celebrarse éste, con persona diversa a su consorte. Para que proceda la acción en el caso de la mujer es necesario que lo anterior sea declarado judicialmente; y tratándose del cónyuge varón se requiere que este sea condenado en juicio de reconocimiento de paternidad;
 
 III. La propuesta de un cónyuge para prostituir a su consorte, sea que lo haya hecho directamente o consienta en ello por cualquier causa;
 
@@ -3839,9 +3845,17 @@ V. Cuando quien la ejerce:
 
 a) Exponga a su descendiente;
 
-b) Le abandone por más de tres meses si éste quedó a cargo de alguna institución especializada o persona, y
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+
+b) Le abandone por más de tres meses si éste quedó a cargo de alguna institución especializada o persona;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2008)</small>
 
 c) Abandone por más de un día a su descendiente, si el menor no hubiere quedado al cuidado de alguna persona y además éste abandono sea intencional, y
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+d) Cometa actos de violencia intrafamiliar, hacia sus descendientes u adoptados menores de edad.
 
 VI. En los casos de divorcio cuando así se establezca.
 
@@ -17920,3 +17934,17 @@ P.O. 13 DE NOVIEMBRE DE 2007.
 P.O. 27 DE MARZO DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
