@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2003-12-18"
+last_updated: "2008-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -97,19 +97,23 @@ Para cumplir los objetivos de la presente Ley, las autoridades competentes del E
 
 ### CAPITULO II. DE LOS CONCEPTOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 MAYO DE 2008)</small>
+
 ###### Artículo 5.
 
-Para efecto de esta Ley, se entiende por:
+Para efecto de esta ley, se entiende por:
 
 Familia: Conjunto de personas unidas por parentesco, matrimonio o concubinato, que como célula fundamental de la sociedad es una institución de interés público y ámbito natural de convivencia propicio para el entendimiento, comunicación y desarrollo de los valores necesarios en la formación y perfeccionamiento de la persona y de la sociedad.
 
 Las relaciones familiares deben aspirar a servir al pleno entendimiento de los valores de la existencia humana. Por ello, tenderán a excluir toda subordinación o sometimiento vejatorios de la dignidad humana;
 
-Violencia Intrafamiliar: Es la acción u omisión intencional que ponga en peligro o afecte la integridad física, psicológica o sexual, que se ejerce en contra de algún miembro de la familia, por otro integrante de la misma, independientemente de que pudiere constituir delito.
+Violencia Intrafamiliar: Es la acción u omisión intencional que ponga en peligro o afecte la integridad física, psicológica o sexual, que se ejerce en contra de algún miembro de la familia, por otro integrante de la misma, independientemente de que pudiere constituir delito;
 
-Se equipara a violencia intrafamiliar el maltrato reiterado que se infiera en contra del tutor, pupilo, curador, amasio o amasia hijos de éste o aquella, o en contra de quien habite en el domicilio del agresor o en contra de la persona a quien el agresor le deba dar cuidado o protección.
+Se equipara a violencia intrafamiliar el maltrato físico o psicológico que se infiere en contra del tutor, curador, pupilo, amasia o amasio, hijos de éste o aquélla, de quien habite en el domicilio del agresor o de la persona a quien el agresor le deba dar cuidado o protección;
 
-Persona generadora de Violencia Intrafamiliar: Quien realiza actos u omisiones que provoquen situaciones de violencia intrafamiliar;
+Persona generadora de violencia intrafamiliar: Quien realiza actos u omisiones que provoquen situaciones de violencia intrafamiliar;
 
 Personas receptoras de violencia intrafamiliar: Quien recibe, o se le provoque de cualquier forma, alguna o varias de las acciones u omisiones de violencia intrafamiliar, por parte de persona con la que tengan algún vínculo familiar, o su equiparación;
 
@@ -117,17 +121,11 @@ Modelos de Atención: Los sistemas integrales y multidisciplinarios mediante los
 
 Programa Permanente: Es el proyecto para la prevención y atención de la violencia intrafamiliar, el cual se integra con los programas y estrategias institucionales, públicas y privadas;
 
-Consejo: El Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar.
+Consejo: El Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar;
 
-Prevención: Las medidas tendientes a evitar que se produzca la violencia en cualquiera de sus modalidades, entre las personas que tengan algún vínculo o parentesco familiar.
+Prevención: Las medidas tendientes a evitar que se produzca la violencia en cualquiera de sus modalidades, entre las personas que tengan algún vínculo o parentesco familiar;
 
-Atención: Los servicios que se presten con el fin de proteger a los receptores de la violencia intrafamiliar, así como de quienes la generan.
-
-Mediación: Procedimiento sin rivalidad, informal, voluntario, confidencial, que se sigue ante un tercero neutral, que ayuda a las partes a negociar o adoptar sus propias decisiones sobre la solución de sus conflictos familiares a un resultado mutuamente aceptado, en atención a sus propuestas e intereses, mediante la suscripción de los acuerdos adoptados.
-
-Conciliación: El arreglo amistoso de un conflicto intrafamiliar por las partes, a su propia iniciativa, mediante la conducción de un conciliador que limitará su intervención a la propuesta de alternativas de solución y a la formulación, en su caso, del convenio que le ponga fin al conflicto.
-
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+Atención: Los servicios que se presten con el fin de proteger a los receptores de la violencia intrafamiliar, así como de quienes la generan;
 
 Organismo Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia.
 
@@ -519,7 +517,11 @@ Las unidades de atención se constituyen como órganos administrativos del Conse
 
 I. Ejecutar acciones y programas de prevención, protección y atención a las personas receptoras de violencia intrafamiliar;
 
-II. Conocer de los procedimientos de mediación y conciliación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+II. Conocer de los métodos alternos para la prevención y en su caso la solución de conflictos, de conformidad con la Ley de Justicia Alternativa del estado de Jalisco;
 
 III. Aplicar medidas de apremio y sanciones administrativas cuando procedan;
 
@@ -571,9 +573,13 @@ La dirección y el impulso de los procesos o procedimientos corresponde a quiene
 
 Están legitimados para presentar las quejas e iniciar el procedimiento ante las instancias competentes, la víctima, un familiar, vecino o cualquier otra persona, quien bajo protesta de decir verdad presentará su queja o denuncia por escrito o comparecencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2008)</small>
+
 ###### Artículo 37.
 
-Los procedimientos de mediación y conciliación a los que se refiere el presente capítulo se iniciarán mediante queja verbal o por escrito. Las unidades en un término no mayor de 48 horas deberán conocer de la existencia de la situación de violencia intrafamiliar, pudiendo citar a las siguientes personas:
+Los procedimientos y métodos alternos para la prevención y en su caso la solución de conflictos, se llevarán acabo (sic) de conformidad con la Ley de Justicia Alternativa del estado de Jalisco. Las unidades en un término no mayor de 48 horas deberán conocer de la existencia de la situación de violencia intrafamiliar, pudiendo citar a las siguientes personas:
 
 I. El receptor de la violencia intrafamiliar;
 
@@ -591,57 +597,45 @@ Los menores de edad también podrán ser citados a fin de recabar su opinión.
 
 ### CAPITULO III. DEL TRAMITE Y RESOLUCION DE LOS CONFLICTOS EN VIOLENCIA INTRAFAMILIAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+
 ###### Artículo 38.
 
-Las unidades de atención serán las competentes de:
+Las unidades de atención serán las competentes:
 
-I. Para el conocimiento, trámite y resolución de los conflictos en materia de violencia intrafamiliar en las vías de mediación, y conciliación;
+I. Para el conocimiento, trámite y resolución de los conflictos en materia de violencia intrafamiliar de conformidad con la Ley de Justicia Alternativa del estado de Jalisco.
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-II. En estos casos el procedimiento lo instruirá el Titular de la Unidad de Atención, quien podrá delegar su atención, tratándose de la mediación y conciliación, a los integrantes de la Unidad, preferentemente a quienes cuenten con especializaciones en psicología o psiquiatría; y
-
-III. Quienes medien, o concilien, podrán auxiliarse de quienes conforman el equipo técnico interdisciplinario de la Unidad, o solo a aquellos cuya opinión estime necesaria.
+II. En estos casos el procedimiento lo instruirá el titular de la Unidad de Atención, quien podrá delegar su atención, a los integrantes de la Unidad, preferentemente a quienes cuenten con especializaciones en psicología o psiquiatría.
 
 ###### Artículo 39.
 
 La información suministrada será mantenida en estricta confidencialidad, así como el nombre de la persona informante, mientras no sea legalmente necesario revelar su identidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 40.
 
-Las partes en un conflicto de violencia intrafamiliar podrán resolver sus diferencias extrajudicialmente, mediante los procedimientos:
+(DEROGADO, P.O. 27 DE MAYO DE 2008)
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-I. De Mediación; y
-
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-II. De conciliación.
-
-Dichos procedimientos estarán a cargo de las Unidades de Atención.
-
-Las actuaciones que en ellos tengan lugar, excepción hecha de los acuerdos y resoluciones que se adopten, serán confidenciales y no podrán ser utilizadas como medio de prueba en otros juicios, ni los mediadores o conciliadores podrán ser compelidos a declarar como testigos.
-
-Se exceptúan de lo dispuesto en este artículo, aquellas controversias que versen sobre acciones o derechos del estado civil de las personas que son irrenunciables, alimentos o respecto de los delitos que se persigan de oficio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 41.
 
-Los procedimientos de solución de los conflictos intrafamiliares a que se refieren los artículos anteriores, se llevarán a cabo a lo sumo en dos audiencias.
+(DEROGADO, P.O. 27 DE MAYO DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 42.
 
-La audiencias de mediación se desarrollarán mediante entrevistas iniciales con cada una de las partes, seguidas por entrevistas conjuntas, en las que la persona mediadora les ayudará a desarrollar opciones y propuestas alternativas para solucionar su conflicto, a fin de que lo puedan concluir mediante un acuerdo mutuo aceptable.
+(DEROGADO, P.O. 27 DE MAYO DE 2008)
 
-La persona mediadora omitirá externar opiniones y emitir juicios, limitándose a conducir el proceso de mediación.
-
-Para el caso de que en el procedimiento de mediación no se obtengan resultados favorables; las partes, si esta es su voluntad, podrán sujetarse al procedimiento de conciliación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 43.
 
-En las audiencias de conciliación, la persona conciliadora procederá a buscar la avenencia entre las partes, proporcionándoles toda clase de alternativas, exhortándolos a que lo hagan, dándoles a conocer las consecuencias en caso de continuar con su conflicto.
-
-Una vez que las partes lleguen a una conciliación, se celebrará el convenio correspondiente que será firmado, por quienes intervengan en el mismo.
+(DEROGADO, P.O. 27 DE MAYO DE 2008)
 
 ###### Artículo 44.
 
@@ -738,3 +732,19 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
