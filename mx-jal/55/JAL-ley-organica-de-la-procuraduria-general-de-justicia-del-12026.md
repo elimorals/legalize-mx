@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2007-01-30"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -299,7 +299,11 @@ El Procurador podrá adscribir orgánicamente las unidades administrativas estab
 
 La Procuraduría contará con delegaciones que tendrán el carácter de órganos desconcentrados por territorio con autonomía técnica y operativa, cuyos titulares estarán subordinados jerárquicamente al Procurador.
 
-Las delegaciones tendrán funciones en materia de averiguaciones previas, Policía Investigadora, Servicios Periciales, reserva de la averiguación previa, consignación, propuesta del no ejercicio de la acción penal y control de procesos, vigilancia del respeto a los derechos humanos, servicios a la comunidad, atención a la víctima o el ofendido por algún delito, prevención del delito, seguridad pública, información estadística y servicios administrativos y otros, en los términos que señalen las normas reglamentarias y demás disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+
+Las delegaciones tendrán funciones en materia de averiguaciones previas, Policía Investigadora, Servicios Periciales, reserva de la averiguación previa, consignación, propuesta del no ejercicio de la acción penal y control de procesos, vigilancia del respeto a los derechos humanos, atención a la violencia de género, servicios a la comunidad, atención a la víctima o el ofendido por algún delito, prevención del delito, seguridad pública, información estadística y servicios administrativos y otros, en los términos que señalen las normas reglamentarias y demás disposiciones aplicables.
 
 De conformidad con las necesidades del servicio, el Procurador podrá establecer las delegaciones y agencias del Ministerio Público que se requieran, de acuerdo con las disponibilidades presupuestales.
 
@@ -698,3 +702,17 @@ SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el a�
 TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
 
 CUARTO. Los convenios que se celebren en municipios que no tengan instalada una sede regional del Instituto, será competente por acuerdo de las partes ya sea la sede regional más cercana, el Director General del Instituto o el juez de primera instancia del partido judicial que corresponda.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
