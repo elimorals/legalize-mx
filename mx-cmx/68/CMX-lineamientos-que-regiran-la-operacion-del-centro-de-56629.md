@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-que-regiran-la-operacion-del-centro-de-56629"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-09-07"
-last_updated: "2007-09-07"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56629&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2007-09-07"
 
 ACUERDO POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL (TEL-INFODF)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL (TEL-INFODF), PUBLICADO EN LA G.O. DE 27 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el viernes 7 de septiembre de 2007.
 
@@ -283,3 +285,13 @@ En todo momento quedará a salvo el derecho del solicitante para interponer el r
 Vigésimo Noveno. Las solicitudes tramitadas a través de TEL-INFODF, se regirán en todo lo no previsto en los presentes Lineamientos, por los Lineamientos de INFOMEX y la Ley.
 
 Trigésimo. Por ningún motivo podrá realizarse el registro de recursos de revisión a través del TEL-INFODF, por lo que en dichos casos, los solicitantes deberán sujetarse a los procedimientos previstos en la Ley y demás normatividad aplicable.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 27 DE MAYO DE 2008.
+
+Primero. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Se abrogan los Lineamientos que regirán la operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal (TEL-INFODF), aprobados mediante el acuerdo 247/SE/04-09/2007.
+
+Tercero. Las solicitudes de acceso a la información pública así como de acceso y/o rectificación de datos personales capturadas a través de TEL-INFODF con anterioridad a la entrada en vigor de los presentes lineamientos, se seguirán tramitando de conformidad con los lineamientos aprobados mediante el acuerdo señalado en el artículo anterior, hasta su conclusión.
