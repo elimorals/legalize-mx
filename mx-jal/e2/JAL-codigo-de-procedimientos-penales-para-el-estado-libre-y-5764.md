@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2008-04-29"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -745,6 +745,40 @@ IV. En todo caso se mantendrán separados los hombres y las mujeres en los lugar
 
 En caso de que la víctima del delito sea menor de edad y el agresor sea quien lo tiene en custodia el agente del Ministerio Público encargado deberá ordenar la cesación de la convivencia del menor con sus familiares, aun de sus padres, cuando dicha convivencia se ponga en peligro la seguridad o integridad del menor, debiendo ordenar el resguardo del menor en una institución autorizada poniéndolo a disposición del Consejo de Familia o del Instituto Cabañas en su caso.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+###### Art. 93 Bis.
+
+Tratándose de delitos de violencia contra las mujeres o violencia intrafamiliar, el Ministerio Público otorgará, tomando en consideración el riesgo o peligro existente, la seguridad de la víctima y los elementos con que se cuente, órdenes de protección de emergencia las cuales tendrán una temporalidad no mayor de 72 horas pudiendo prorrogarse por 72 horas más y deberán expedirse dentro de las 12 horas siguientes al conocimiento de los hechos que las generan.
+
+Las órdenes de protección de emergencia consistirán en:
+
+I. Desocupación por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble;
+
+II. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente a la víctima;
+
+III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad, y
+
+IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de la familia.
+
+En los municipios en donde no exista agencia del Ministerio Público, el en caso de violencia contra las mujeres, el síndico municipal deberá otorgar estas órdenes de protección de emergencia e, inmediatamente después de emitida, remitir copia de la misma a la agencia del Ministerio Público más cercana.
+
+Las órdenes de protección preventivas consistirán en:
+
+I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución pública y privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad respectiva;
+
+Las mismas disposiciones del párrafo anterior deberán aplicarse a las armas blancas u objetos que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+
+II. Inventario de los bienes muebles o inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+
+III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+
+IV. Acceso al domicilio común de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias, objetos de uso personal, así como documentos de identidad de la víctima, las de sus hijas, hijos o quienes se encuentren bajo su tutela, protección o cuidado;
+
+V. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice la víctima en el momento de solicitar el auxilio, aun cuando no lo haya solicitado ésta de manera expresa y conforme a las disposiciones aplicables; y
+
+VI. Las demás que establezcan las diversas leyes del Estado de Jalisco.
+
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 94.
@@ -1114,6 +1148,12 @@ III. La conducta anterior de los mismos; y
 IV. Si la persona ofendida se halla privada del uso de sus facultades, en estado de preñez o afectada de alguna enfermedad que pudiera atribuirse al delito.
 
 Si apareciese que los delitos a que se refiere este artículo fueron cometidos por los ascendientes de os (sic) ofendidos o por personas que ejercían autoridad sobre ellos y éstos son menores o incapacitados, serán trasladados a una casa de reconocida honradez, si no hubiese familiares idóneos que se hagan cargo de ellos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+
+###### Art. 127 Bis.
+
+En los supuestos de violencia intrafamiliar se acreditará el cuerpo del delito con la comprobación del parentesco consanguíneo o civil o la relación de hecho existente entre el sujeto pasivo y el activo, y con los dictámenes periciales que expresen el deterioro causado por el agresor a la integridad física o psicológica, o que haya afectado la libertad sexual de la víctima.
 
 ###### Art. 128.
 
@@ -2759,9 +2799,17 @@ IV. Cuando lo solicite el mismo inculpado y se presente al ministerio público, 
 
 V. Cuando aparezca con posterioridad que el delito que se le imputa al inculpado por su gravedad no le permita disfrutar el beneficio de libertad;
 
-VI. Cuando en el proceso cause ejecutoria la sentencia condenatoria dictada en primera o segunda instancia si, transcurridos diez días, no se ha promovido el incidente de suspensión condicional de la pena, si procediere, o no se ha otorgado la fianza del caso, si en el fallo se concedió la propia suspensión; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-VII. Cuando el inculpado no cumpla con alguna de las obligaciones a que se refiere el Art. 353.
+VI. Cuando en el proceso cause ejecutoria la sentencia condenatoria dictada en primera o segunda instancia si, transcurridos diez días, no se ha promovido el incidente de suspensión condicional de la pena, si procediere, o no se ha otorgado la fianza del caso, si en el fallo se concedió la propia suspensión;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+
+VII. Cuando el inculpado no cumpla con alguna de las obligaciones a que se refiere el artículo 353, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+VIII. Cuando el inculpado sea sorprendido violando o infringiendo una orden de protección de emergencia o preventiva, sin causa justificada, emitida por autoridad judicial o ministerial, de las comprendidas en el artículo 93-Bis del Código Penal del estado (sic) de Jalisco.
 
 ###### Art. 355.
 
@@ -3782,3 +3830,17 @@ SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de es
 P.O. 29 DE ABRIL DE 2008.
 
 ÚNICO. El decreto 21755 y el presente decreto entrarán en vigor simultáneamente el día 1.° (sic) de enero de 2009, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternas para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
