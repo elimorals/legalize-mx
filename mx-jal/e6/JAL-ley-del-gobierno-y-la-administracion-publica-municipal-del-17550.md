@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2008-04-10"
+last_updated: "2008-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -771,13 +771,17 @@ XII. REALIZAR LAS FUNCIONES DEL REGISTRO CIVIL; Y
 
 XIII. REGULAR LOS PROCEDIMIENTOS INTERNOS, PARA LA ADQUISICIÓN DE BIENES O LA CONTRATACIÓN DE SERVICIOS, ASEGURANDO QUE CUBRAN LAS MEJORES CONDICIONES DE PRECIO, CALIDAD, FINANCIAMIENTO, OPORTUNIDAD Y DEMÁS CONDICIONES PERTINENTES Y EVITANDO QUE ESTOS ACTOS SE REALICEN EN BENEFICIO DE SERVIDORES PÚBLICOS DEL PROPIO MUNICIPIO, A LAS PAR DE FOMENTAR LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA EN LA VIGILANCIA DEL USO DE LOS RECURSOS PÚBLICOS;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XIV. Formular, evaluar y revisar el Programa Municipal de Desarrollo Urbano y los planes de desarrollo urbano de centros de población, en los términos de las disposiciones legales y reglamentarias aplicables. Los citados instrumentos deben observarse en la zonificación, el otorgamiento de licencias y permisos de construcción y en el ejercicio de las demás atribuciones que en materia de desarrollo urbano detenta la autoridad municipal; y
+XIV. Formular, evaluar y revisar el Programa Municipal de Desarrollo Urbano y los planes de desarrollo urbano de centros de población, en los términos de las disposiciones legales y reglamentarias aplicables. Los citados instrumentos deben observarse en la zonificación, el otorgamiento de licencias y permisos de construcción y en el ejercicio de las demás atribuciones que en materia de desarrollo urbano detenta la autoridad municipal;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XV. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el ámbito de su competencia, sus atribuciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XVI. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 ###### Artículo 38.
 
@@ -801,7 +805,7 @@ V. Celebrar convenios con el Poder Ejecutivo del Estado a fin de que éste, de m
 
 VI. Celebrar convenios de coordinación y asociación con otros Municipios para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
 Tratándose de la asociación de los municipios de dos o más Estados, deben contar con la aprobación de las legislaturas de los estados respectivas;
 
@@ -1789,8 +1793,6 @@ XI. Centros culturales municipales; y
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
 XII. LOS DEMÁS QUE EL CONGRESO DEL ESTADO DETERMINE EN ATENCIÓN A LAS CONDICIONES TERRITORIALES Y SOCIOECONÓMICAS DE LOS MUNICIPIOS, ASÍ COMO A SU CAPACIDAD ADMINISTRATIVA Y FINANCIERA.
 
 Los Municipios deben expedir los ordenamientos municipales que regulen la prestación de estos servicios.
@@ -2636,3 +2638,17 @@ SEGUNDO. El titular del Poder Ejecutivo del Estado deberá publicar el Reglament
 TERCERO. Los gobiernos municipales podrán expedir sus propios reglamentos o, en su defecto, aplicarán el Reglamento estatal en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios ordenamientos jurídicos.
 
 CUARTO. No se podrán celebrar contratos de asociación público-privada, tratándose de proyectos cuya programación, presupuestación, adjudicación o contratación se haya iniciado antes de la entrada en vigor de este decreto.
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
