@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-48393
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-02-08"
-last_updated: "2008-01-23"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48393&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-01-23"
 
 ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 2008.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 8 de febrero de 2006.
 
@@ -443,7 +443,7 @@ V. Recomendar y promover el establecimiento de organismos de asistencia social e
 
 VI. Participar en coordinación con las instituciones oficiales, en programas asistenciales a desamparados, prevención de discapacidad, rehabilitación e integración social de personas con discapacidad, en que intervengan;
 
-VII. Fungir como representante del Titular del Organismo, en su carácter de autoridad central en materia de adopciones internacionales, ante las instancias nacionales e internacionales;
+VII. (DEROGADA, D.O.F. 27 DE MAYO DE 2008)
 
 VIII. Instrumentar programas integrales de rehabilitación y asistencia social a nivel nacional a través de las unidades operativas existentes y llevar a cabo acciones de investigación, enseñanza y capacitación, con objeto de contribuir a la integración social de las personas con discapacidad y demás sujetos de asistencia social de su ámbito de responsabilidad;
 
@@ -651,7 +651,7 @@ XXV. Expedir copias certificadas de documentos y constancias existentes en los a
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE ENERO DE 2008)</small>
 
-XXVI. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
+XXVI. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables;
 
 XXVII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
@@ -670,6 +670,16 @@ XXXIII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 XXXIV. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
 XXXV. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
+
+XXXVI (SIC). (DEROGADA, D.O.F. 27 DE MAYO DE 2008)
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2008)</small>
+
+XXXVII. Fungir como representante del Titular del Organismo, en su carácter de autoridad central en materia de adopciones internacionales, ante las instancias nacionales e internacionales;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2008)</small>
+
+XXXVIII. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
 
 ###### ARTICULO 26.
 
@@ -1122,3 +1132,9 @@ D.O.F. 23 DE ENERO DE 2008.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos pendientes a la entrada en vigor de la modificación a este estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a la que se le haya atribuido la competencia correspondiente.
+
+D.O.F. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos pendientes a la entrada en vigor de la modificación a este estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su tramite y serán resueltos por aquella a la que se le haya atribuido la competencia correspondiente.
