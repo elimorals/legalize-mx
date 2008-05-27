@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2007-02-22"
+last_updated: "2008-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -693,19 +693,31 @@ Recibir las promociones de carácter administrativo, que les sean presentadas a 
 
 XXV. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en las leyes o reglamentos;
 
-XXVI. Presentar con oportunidad y veracidad la declaración de situación patrimonial ante los organismos competentes, quienes estén obligados a ello en los términos que señala esta ley; y
+XXVI. Presentar con oportunidad y veracidad la declaración de situación patrimonial ante los organismos competentes, quienes estén obligados a ello en los términos que señala esta ley; y (sic)
 
 > <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2002)</small>
 
-XXVII. Los funcionarios encargados de la Hacienda Pública Estatal y Municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos, se harán acreedores a las sanciones previstas por la ley; y
+XXVII. Los funcionarios encargados de la Hacienda Pública Estatal y Municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos, se harán acreedores a las sanciones previstas por la ley; y (sic)
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XXVIII. Abstenerse de utilizar los vehículos propiedad de las autoridades a las que se refiere el artículo 3º de esta ley o que tengan en posesión bajo cualquier título, fuera del horario de trabajo del servidor público o en actividades distintas a las que requiere la naturaleza del empleo, cargo o comisión respectivo; y
+XXVIII. Abstenerse de utilizar los vehículos propiedad de las autoridades a las que se refiere el artículo 3º de esta ley o que tengan en posesión bajo cualquier título, fuera del horario de trabajo del servicio del servidor público o en actividades distintas a las que requiere la naturaleza del empleo, cargo o comisión respectivo;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XXIX. Las demás que le impongan las leyes y reglamentos.
+XXIX. Observar para con sus compañeros de trabajo, sin importar rangos jerárquicos, las debidas reglas del trato y abstenerse de incurrir en cualquier tipo de violencia física o verbal;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXX. Abstenerse de incurrir en actos u omisiones que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXXI. Denunciar ante el Instituto Jalisciense de las Mujeres o de la autoridad competente, cualquier incidente relacionado con violencia intrafamiliar o en contra de las mujeres, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
+XXXII. Las demás que le impongan las leyes y reglamentos.
 
 ###### Artículo 62.
 
@@ -1254,3 +1266,17 @@ segundo. se derogan todas las disposiciones legales que se opongan al presente d
 P.O. 22 DE FEBRERO DE 2007.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE MAYO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
+
+CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
+
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
