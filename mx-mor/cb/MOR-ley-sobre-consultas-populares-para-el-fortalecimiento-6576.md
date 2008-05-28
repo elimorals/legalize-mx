@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-consultas-populares-para-el-fortalecimiento-6576"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-05"
-last_updated: "1984-09-05"
+last_updated: "2008-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY SOBRE CONSULTAS POPULARES PARA EL FORTALECIMIENTO MUNICIPAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NUMERO SETECIENTOS DIECINUEVE DEL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de septiembre de 1984.
 
@@ -160,3 +162,17 @@ EL SECRETARIO GRAL. DE GOBIERNO
 Lic. David Jiménez González
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MAYO DE 2008.
+
+SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO NUMERO SETECIENTOS DIECINUEVE QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley Sobre Consultas Populares Para el Fortalecimiento Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
