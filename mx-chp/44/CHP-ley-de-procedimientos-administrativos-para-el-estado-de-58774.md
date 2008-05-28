@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-procedimientos-administrativos-para-el-estado-de-58774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2007-12-28"
+last_updated: "2008-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 28 de diciembre de 2007.
 
@@ -47,15 +47,15 @@ Ley de Procedimientos Administrativos para el Estado de Chiapas
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden e interés públicos, y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública Estatal centralizada y Paraestatal.
+Las disposiciones del Libro Primero de esta Ley son de orden e interés públicos y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública Estatal Centralizada y Paraestatal, a los organismos centralizados y descentralizados de la administración pública municipal respecto a sus actos de autoridad, a los servicios que el Estado o los municipios presten de manera exclusiva, y a los contratos que los particulares sólo puedan celebrar con el Estado o los municipios.
 
-El presente ordenamiento también se aplicará a los organismos centralizados y descentralizados de la administración pública Municipal respecto a sus actos de autoridad, a los servicios que el Estado o los Municipios presten de manera exclusiva, y a los contratos que los particulares sólo puedan celebrar con el Estado o los Municipios.
+El procedimiento administrativo previsto en el Libro Primero de esta Ley no será aplicable a las materias de carácter fiscal, responsabilidades de los servidores públicos, de afectación de bienes o derechos por causa de utilidad pública; ni al Ministerio Público en ejercicio de sus funciones constitucionales, los que se regirán por sus leyes respectivas.
 
-Este ordenamiento no será aplicable a las materias de carácter fiscal, responsabilidades de los servidores públicos, ni al ministerio público en ejercicio de sus funciones constitucionales.
-
-Para los efectos de esta Ley sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas.
+Para los efectos del Libro Primero de esta Ley, sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas, las que podrán ser recurridas en términos del Código de la Hacienda Pública para el Estado de Chiapas.
 
 ###### Artículo 2.
 
@@ -191,7 +191,9 @@ I. Los trámites deberán presentarse solamente en original, y sus anexos, en co
 
 II. Todo documento original puede presentarse en copia certificada y éstos podrán acompañarse de copia simple, para cotejo, caso en el que se regresará al interesado el documento cotejado;
 
-III. En vez de entregar copia de los permisos, registros, licencias y, en general, de cualquier documento expedido por la dependencia u organismo descentralizado de la administración pública estatal o municipal ante la que realicen el trámite, los interesados podrán señalar los datos dé identificación de dichos documentos, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+III. Tratándose de los permisos, registros, licencias y, en general, de cualquier documento expedido por la dependencia u organismo descentralizado de la administración pública estatal o municipal ante la que realicen el trámite, no será necesaria la presentación de copias, bastará con que los interesados señalen los datos de identificación de dichos documentos; y,
 
 IV. Excepto cuando un procedimiento se tenga que dar vista a terceros, los interesados no estarán obligados a proporcionar datos o entregar juegos adicionales de documentos entregados previamente a la dependencia u organismo descentralizado de la administración pública estatal o municipal ante la que realicen el trámite correspondiente, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite lo realicen ante la propia dependencia u organismo descentralizado, aun y cuando lo hagan ante una unidad administrativa diversa, incluso si se trata de un órgano administrativo desconcentrado.
 
@@ -311,7 +313,9 @@ Contra las resoluciones adoptadas en materia de impedimentos, excusas y recusaci
 
 Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles.
 
-En los plazos fijados en días no se contarán los inhábiles, salvo disposición en contrario. No se considerarán días hábiles: los sábados, los domingos, el 1º. de enero; 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el primer lunes de mayo en conmemoración del 1o. de mayo; 5 de mayo; 14 y 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; 1º. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, 8 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y el 25 de diciembre, así como los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la Dependencia respectiva, que se publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+En los plazos fijados en días no se contarán los inhábiles, salvo disposición en contrario, no se considerarán días hábiles: los sábados, los domingos, el 1° de enero; 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; 1° de mayo; 5 de mayo; 14 y 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; 1° de diciembre de cada seis años, cuando corresponda a la Transmisión del Poder Ejecutivo Federal, 8 de diciembre de cada seis años, cuando corresponda a la Transmisión del Poder Ejecutivo Estatal y el 25 de diciembre, así como los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia respectiva, que se publicará en el Periódico Oficial del Estado.
 
 Los términos podrán suspenderse por causa de fuerza mayor o caso fortuito, debidamente fundada y motivada por la autoridad competente.
 
@@ -369,11 +373,15 @@ Salvo cuando exista impedimento jurídico para hacerlo, la resolución administr
 
 Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado ante los órganos administrativos en el procedimiento administrativo de que se trate. En todo caso, el notificador deberá cerciorarse del domicilio del interesado y deberá entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
-Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato, y en ausencia o negativa de éste a recibirlo, se fijará en lugar visible del domicilio.
 
 Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio.
 
-De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+De las diligencias en que conste el procedimiento de notificación, el notificador tomará razón por escrito.
 
 Cuando las leyes respectivas así lo determinen, y se desconozca el domicilio de los titulares de los derechos afectados, tendrá efectos de notificación personal la segunda publicación del acto respectivo en el Periódico Oficial del Estado.
 
@@ -399,13 +407,17 @@ Toda notificación deberá efectuarse en el plazo máximo de diez días, a parti
 
 Las notificaciones irregularmente practicadas surtirán efectos a partir de la fecha en que se haga la manifestación expresa por el interesado o su representante legal de conocer su contenido o se interponga el recurso correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 44.
 
-El afectado podrá impugnar los actos administrativos recurribles que no hayan sido notificados o no se hubieren apegado a lo dispuesto en esta ley, conforme a las siguientes reglas:
+El afectado podrá impugnar los actos administrativos recurribles que a su consideración no hayan sido notificados o no se hubieren apegado a lo dispuesto en esta Ley, conforme a las siguientes reglas:
 
 I. Si el particular afirma conocer el acto administrativo materia de la notificación, la impugnación contra la misma se hará valer mediante la interposición del recurso administrativo correspondiente, en el que manifestará la fecha en que lo conoció;
 
-En caso de que también impugna el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se acumulen contra la notificación;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+En caso de que también se impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se acumulen contra la notificación;
 
 II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo correspondiente ante la autoridad competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en el que se le deba dar a conocer y el nombre de la persona autorizada para recibirlo, en su caso. Si no se señalare domicilio, la autoridad dará a conocer el acto mediante notificación por edictos; si no se señalare persona autorizada, se hará mediante notificación personal.
 
@@ -703,9 +715,11 @@ La oposición a los actos de trámite en un procedimiento administrativo deberá
 
 El plazo para interponer el recurso de revisión será de quince días contado (sic) a partir del día siguiente a aquel en que hubiere surtido efectos la notificación de la resolución que se recurra.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 90.
 
-El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso será resuelto por el mismo. Dicho escrito deberá expresar:
+El escrito de interposición del recurso de revisión, deberá presentarse por quien tenga personalidad para ello, en términos de la ley, ante la autoridad que emitió el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso será resuelto por el mismo. Dicho escrito deberá expresar:
 
 I. El órgano administrativo a quien se dirige;
 
@@ -719,7 +733,7 @@ V. En su caso, copia de la resolución o acto que se impugna y de la notificaci�
 
 VI. Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúen en nombre de otro o de personas morales.
 
-VII. Estar suscrito por quien deba hacerlo o por quien tenga personalidad para ello, en términos de la Ley.
+VII. (REFORMADA [N. DE E. DEROGADA], P.O. 28 DE MAYO DE 2008)
 
 ###### Artículo 91.
 
@@ -733,7 +747,9 @@ III. No se siga perjuicio al interés social o se contravengan disposiciones de 
 
 IV. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable; y
 
-V. Tratándose de multas, el recurrente garantice el crédito fiscal en cualesquiera de las formas prevista (sic) en el Código de la Hacienda Pública para el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+V. Tratándose de multas, el recurrente garantice el crédito fiscal en cualesquiera de las formas previstas en el Código de la Hacienda Pública para el Estado de Chiapas.
 
 La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
 
@@ -867,11 +883,13 @@ El Tribunal conocerá, además de los juicios que se promuevan contra los actos 
 
 El Tribunal de Justicia Electoral y Administrativa conocerá de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 103.
 
-El Tribunal (sic) Justicia Electoral y Administrativa conocerá de los juicios en materia de responsabilidades administrativas de los servidores públicos.
+El Tribunal de Justicia Electoral y Administrativa conocerá de los juicios que se promuevan en contra de las resoluciones definitivas que impongan sanciones a los servidores públicos, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
 
-El procedimiento para conocer de estos juicios será el que señale la Ley de Responsabilidad de los Servidores Públicos del Estado de Chiapas y del libro segundo de esta Ley.
+El procedimiento para conocer de estos juicios, será el que señale la Ley de Responsabilidad de los Servidores Públicos del Estado de Chiapas y del Libro Segundo de esta Ley.
 
 ###### Artículo 104.
 
@@ -925,7 +943,9 @@ IV. Dan a conocer información confidencial o comercial reservada.
 
 El cómputo de los plazos se sujetará a las reglas siguientes:
 
-I. Empezarán a correr a partir del día en que surta efectos la notificación.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+(SIC). Empezarán a correr a partir del día siguiente en que surta efectos la notificación.
 
 II. Si están fijados en días, se computarán sólo los hábiles entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas de las Salas del Tribunal durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores.
 
@@ -965,7 +985,13 @@ V. La resolución de sobreseimiento.
 
 VI. La sentencia definitiva, y
 
-VII. En todos aquellos casos en que el Magistrado Ponente o la Sala así lo ordenen. En caso de incumplimiento a lo señalado en el párrafo anterior, las notificaciones se harán a los particulares por medio de la lista a que se refiere este Artículo, la cual contendrá el nombre de la persona, la clave del expediente y el tipo de acuerdo. En los autos se hará constar la fecha de la lista.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+VII. Todos aquellos casos en que el Magistrado Ponente o la Sala así lo ordenen.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES SEGUNDA PARTE DE LA FRACCION VII], P.O. 28 DE MAYO DE 2008)</small>
+
+En caso de incumplimiento a lo señalado en el párrafo anterior, las notificaciones se harán a los particulares por medio de la lista a que se refiere este Artículo, la cual contendrá el nombre de la persona, la clave del expediente y el tipo de acuerdo. En los autos se hará constar la fecha de la lista.
 
 ###### Artículo 113.
 
@@ -979,9 +1005,21 @@ Si el domicilio de la oficina principal de la autoridad se encuentra en el lugar
 
 Una vez emplazada la autoridad demandada, deberá señalar domicilio en cualquier parte del territorio del Estado, salvo cuando tenga su domicilio dentro de la jurisdicción de la Sala competente, en cuyo caso, el señalado para tal efecto, deberá estar ubicado dentro de la circunscripción territorial de la Sala competente, en el que se le harán las notificaciones de los autos y resoluciones posteriores y, para el caso de incumplimiento a lo anterior, las notificaciones se le harán por medio de lista autorizada.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 115.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
+Las notificaciones surtirán sus efectos, de la siguiente manera:
+
+Las personales, el mismo día en que hubieren sido realizadas;
+
+Las realizadas por correo certificado, el día que conste en el acuse de recibo;
+
+Las realizadas por edictos, el día de la última publicación en el Periódico Oficial y en uno de los periódicos de mayor circulación en la Entidad;
+
+Las realizadas por lista, la del día en que se hubiere fijado; y,
+
+Las demás, el día siguiente en que hubieren sido practicadas.
 
 ###### Artículo 116.
 
@@ -1011,7 +1049,7 @@ Una vez diligenciado el exhorto, la Sala requerida, sin más trámite, deberá r
 
 ###### Artículo 121.
 
-los magistrados del Tribunal estarán impedidos para conocer, cuando:
+Los magistrados del Tribunal estarán impedidos para conocer, cuando:
 
 I. Tengan interés personal en el negocio.
 
@@ -1021,7 +1059,9 @@ III. Hayan sido patronos o apoderados en el mismo negocio.
 
 IV. Tengan amistad estrecha o enemistad con alguna de las partes o con sus patronos o representantes.
 
-V. Hayan dictado la resolución o acto impugnados o han intervenido con cualquier carácter en la emisión del mismo o en su ejecución.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+V. Hayan dictado la resolución o actos impugnados, como autoridad administrativa.
 
 VI. Figuren como parte en un juicio similar, pendiente de resolución.
 
@@ -1163,7 +1203,9 @@ VI. Cuando no se haya recibido constancia de notificación o la misma hubiere si
 
 VII. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandante.
 
-VIII. El interrogatorio para el desahogo de la prueba testimonial, el que debe ir firmado por el demandante en el caso señalado en el último párrafo del Artículo 44 de esta Ley.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+VIII. El interrogatorio para el desahogo de la prueba testimonial, el que debe ir firmado por el demandante en el caso señalado en el último párrafo del artículo 151, de esta Ley.
 
 IX. Las pruebas documentales que ofrezca.
 
@@ -1205,7 +1247,13 @@ V. Cuando la autoridad demandada plantee el sobreseimiento del juicio por extemp
 
 En el escrito de ampliación de demanda se deberá señalar el nombre del actor y el juicio en que se actúa, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten.
 
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente, lo dispuesto en la parte conducente del Artículo 127 de esta Ley. Si no se adjuntan las copias a que se refiere este Artículo, el Magistrado Ponente requerirá al promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones VII, VIII y IX del Artículo 127 de esta Ley, las mismas se tendrán por no ofrecidas.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable lo dispuesto en la parte conducente del artículo 127, de esta Ley.
+
+> <small>(REFORMADO, [N. DE E. REUBICADO, ANTES SEGUNDA PARTE DEL TERCER PARRAFO], P.O. 28 DE MAYO DE 2008)</small>
+
+Si no se adjuntan las copias a que se refiere este Artículo, el Magistrado Ponente requerirá al promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones VII, VIII y IX del Artículo 127 de esta Ley, las mismas se tendrán por no ofrecidas.
 
 ###### Artículo 130.
 
@@ -1253,19 +1301,29 @@ b) Que se le causen al demandante daños mayores de no decretarse la suspensión
 
 c) Que sin entrar al análisis del fondo del asunto, se advierta claramente la ilegalidad manifiesta del acto administrativo impugnado.
 
-X. (sic) El auto que decrete o niegue la suspensión provisional, podrá ser impugnado por las autoridades demandadas mediante el recurso de revisión previsto en el Artículo 173 de esta Ley, dejando a salvo los derechos del demandante para que lo impugne en la vía que corresponda.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-XI. En el caso en que la ley que regule el acto administrativo cuya suspensión se solicite, no prevea la solicitud de suspensión ante la autoridad ejecutora, la suspensión tendrá el alcance que indique el Magistrado Ponente o la Sala y subsistirá en tanto no se modifique o revoque o hasta que exista sentencia firme.
+VII. El auto que decrete o niegue la suspensión provisional, podrá ser impugnado por las autoridades demandadas mediante el recurso de revisión previsto en el Artículo 173, de esta Ley, dejando a salvo los derechos del demandante para que lo impugne en la vía que corresponda.
 
-XII. Mientras no se dicte sentencia en el juicio, la Sala podrá modificar o revocar la sentencia interlocutoria que haya decretado o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-XII. Cuando el solicitante de la suspensión obtenga sentencia firme favorable, la Sala ordenará la cancelación o liberación, según el caso, de la garantía otorgada.
+VIII. En el caso en que la ley que regule el acto administrativo cuya suspensión se solicite, no prevea la solicitud de suspensión ante la autoridad ejecutora, la suspensión tendrá el alcance que indique el Magistrado Ponente o la Sala y subsistirá en tanto no se modifique o revoque o hasta que exista sentencia firme.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+IX. Mientras no se dicte sentencia en el juicio, la Sala podrá modificar o revocar la sentencia interlocutoria que haya decretado o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+X. Cuando el solicitante de la suspensión obtenga sentencia firme favorable, la Sala ordenará la cancelación o liberación, según el caso, de la garantía otorgada.
 
 Asimismo, si la sentencia firme le es desfavorable, a petición de la contraparte o, en su caso, del tercero interesado, y previo acreditamiento que se causaron perjuicios o se sufrieron daños, la Sala, ordenará hacer efectiva la garantía otorgada ante el Tribunal.
 
-Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a la notificación de la sentencia ante la sala, quien dará vista a las demás partes por un término de cinco días siguientes, en la que dictará el acuerdo que corresponda.
+Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a la notificación de la sentencia ante la Sala, quien dará vista a las demás partes por un término de cinco días siguientes, en la que dictará el acuerdo que corresponda.
 
-XIV. Si la solicitud de suspensión de la ejecución es promovida por la Autoridad demandada por haberse concedido en forma indebida.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XI. Si la solicitud de suspensión de la ejecución es promovida por la autoridad demandada por haberse concedido en forma indebida.
 
 ###### Artículo 132.
 
@@ -1283,9 +1341,11 @@ Para que surta efecto, la caución que ofrezca el tercero interesado, conforme a
 
 ### Capítulo III. De la Contestación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 134.
 
-Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los treinta días siguientes a aquel en que surta efectos el emplazamiento; de igual forma se correrá traslado al tercero interesado para que comparezca a juicio en términos del Artículo 130. El plazo para contestar la ampliación de la demanda será de diez días siguientes a aquel en que surta efectos la notificación del acuerdo que admita la ampliación. Si no se produce la contestación a tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
+Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de un término no mayor a treinta días; de igual forma se correrá traslado al tercero interesado para que comparezca a juicio en términos del Artículo 130. El Plazo para contestar la ampliación de la demanda será fijado en el acuerdo que admita la ampliación, el cual no deberá ser mayor a diez días. Si no se produce la contestación a tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
 
 Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior.
 
@@ -1327,7 +1387,9 @@ Tratándose de la contestación a la ampliación de la demanda, se deberán adju
 
 Para los efectos de este Artículo será aplicable, en lo conducente, lo dispuesto por el Artículo 127.
 
-Las autoridades demandadas deberán señalar, sin acompañar, la información calificada por la Ley de Comercio Exterior como gubernamental confidencial o la información confidencial proporcionada por terceros independientes, obtenida en el ejercicio de las facultades que en materia de operaciones entre partes relacionadas establece la Ley del Impuesto sobre la Renta. La Sala solicitará los documentos antes de cerrar la instrucción.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Las autoridades demandadas deberán señalar, sin acompañar, la información calificada por las disposiciones aplicables como gubernamental confidencial o la información confidencial proporcionada por terceros independientes. La Sala solicitará los documentos antes de cerrar la instrucción.
 
 ###### Artículo 137.
 
@@ -1379,11 +1441,15 @@ Si se admite la promoción, se dará vista a las demás partes por el término d
 
 Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a diez veces el salario mínimo general vigente en el Estado. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 142.
 
-Las partes podrán recusar a los magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el Artículo 121 de esta Ley.
+Las partes podrán recusar a los Magistrados del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 121, de esta Ley.
 
-La recusación de magistrados se promoverá mediante escrito que se presente en la Sala en la que se halle adscrito el magistrado de que se trate, acompañando las pruebas que se ofrezcan. El Presidente de la Sala, dentro de los cinco días siguientes, enviará al Presidente del Tribunal el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno. A falta de informe se presumirá cierto el impedimento. Si el Pleno del Tribunal considera fundada la recusación, el magistrado de la Sala será sustituido el Secretario de Acuerdos del Tribunal.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+La recusación de Magistrados se promoverá mediante escrito que se presente en la Sala en la que se halle adscrito el Magistrado de que se trate, acompañando las pruebas que se ofrezcan. El Presidente de la Sala, dentro de los cinco días siguientes, enviará al Presidente del Tribunal el escrito de recusación junto con un informe que el Magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno. A falta de informe, se presumirá cierto el impedimento. Si el Pleno del Tribunal considera fundada la recusación, el magistrado de la Sala será sustituido por el Secretario de Acuerdos del Tribunal.
 
 Los magistrados que conozcan de una recusación son irrecusables para ese solo efecto.
 
@@ -1425,11 +1491,15 @@ Si no está previsto algún trámite especial, los incidentes se substanciarán 
 
 ### Capítulo V. De las Pruebas
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 147.
 
-En los juicios que se tramiten ante este Tribunal, el demandante que pretende se reconozca o se haga efectivo un derecho subjetivo, deberá probar los hechos de los que deriva su derecho y la violación del mismo, cuando ésta consista en hechos positivos y el demandado de sus excepciones.
+En los juicios que se tramiten ante el Tribunal de Justicia Electoral y Administrativa, el demandante que pretende se reconozca o se haga efectivo un derecho subjetivo, deberá probar los hechos de los que deriva su derecho y la violación del mismo, cuando ésta consista en hechos positivos. Misma suerte estará a cargo del demandado, en lo que hace a sus excepciones.
 
-En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades. Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, se ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
+En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
+
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, se ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
 
 ###### Artículo 148.
 
@@ -1479,7 +1549,9 @@ I. Harán prueba plena la confesión expresa de las partes, las presunciones leg
 
 II. Tratándose de actos de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas.
 
-III. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas, quedará a la prudente apreciación de la Sala.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+III. El valor de las pruebas, quedará a la prudente apreciación de la Sala.
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
 
@@ -1517,7 +1589,9 @@ En el caso de sentencias en que se condene a la autoridad a la restitución de u
 
 Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
 
-I. Incompetencia del funcionario que la haya dictado, ordenado o tramitado el procedimiento del que deriva dicha resolución.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+I. Incompetencia del funcionario que haya dictado, ordenado o tramitado el procedimiento del que deriva dicha resolución.
 
 II. Omisión de los requisitos formales exigidos por las leyes, siempre que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso.
 
@@ -1571,7 +1645,9 @@ c) Declarar la nulidad del acto o resolución administrativa, caso en que cesar�
 
 Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, conforme a lo dispuesto en las fracciones III y IV, deberá cumplirse en un plazo de cuatro meses contados a partir de que la sentencia quede firme, dentro del mismo término deberá emitir la resolución definitiva.
 
-Transcurrido el plazo establecido en este precepto, sin que se haya dictado la resolución definitiva, recluirá el derecho de la autoridad para emitirla salvo en los casos en que el particular, con motivo de la sentencia, tenga derecho a una resolución definitiva que le confiera una prestación, le reconozca un derecho o le abra la posibilidad de obtenerlo.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Transcurrido el plazo establecido en este precepto, sin que se haya dictado la resolución definitiva, precluirá el derecho de la autoridad para emitirla salvo en los casos en que el particular, con motivo de la sentencia, tenga derecho a una resolución definitiva que le confiera una prestación, le reconozca un derecho o le abra la posibilidad de obtenerlo.
 
 En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
 
@@ -1657,7 +1733,9 @@ III. Cuando la naturaleza del acto lo permita, la Sala podrá comisionar al func
 
 Lo dispuesto en esta fracción también será aplicable cuando no se cumplimente en los términos ordenados la suspensión que se decrete, respecto del acto impugnado en el juicio o en relación con la garantía que deba ser admitida.
 
-IV. Transcurridos los plazos señalados en los incisos anteriores, la Sala que hubiere emitido el fallo, pondrá en conocimiento de la Secretaria de la Contraloría o de la Contraloría Interna, o al Síndico Municipal correspondiente los hechos, a fin de que se determine la responsabilidad del funcionario responsable del incumplimiento.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+IV. Transcurridos los plazos señalados en las fracciones anteriores, la Sala que hubiere emitido el fallo, pondrá conocimiento de los hechos a la Secretaria de la Contraloría, a la Contraloría Interna, o al Síndico Municipal, según corresponda, a fin de que se determine la responsabilidad del funcionario responsable del incumplimiento.
 
 ### Capítulo IX. Del Procedimiento de Queja
 
@@ -1667,7 +1745,9 @@ Por incumplimiento de las autoridades respecto a las sentencias dictadas por el 
 
 I.- La resolución que repita indebidamente la resolución anulada o la que incurra en exceso o en defecto, cuando se dicte pretendiendo acatar una sentencia.
 
-II.- La resolución definitiva emitida y notificada después de concluido el plazo establecido por los Artículos 159 y 164, fracción I, inciso b) de esta Ley, cuando se trate de una sentencia dictada con base en las fracciones II y III del Artículo 159 de la propia ley, que obligó a la autoridad demandada a iniciar un procedimiento o a emitir una nueva resolución, siempre y cuando se trate de un procedimiento oficioso.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+II.- La resolución definitiva emitida y notificada después de concluido el plazo establecido por los artículos 159 y 164, fracción I, inciso b) de esta Ley, cuando se trate de una sentencia dictada con base en las fracciones II y III, del artículo 157, de la propia Ley, que obligó a la autoridad demandada a iniciar un procedimiento o a emitir una nueva resolución, siempre y cuando se trate de un procedimiento oficioso.
 
 III.- Cuando la autoridad omita dar cumplimiento a la sentencia.
 
@@ -1691,15 +1771,19 @@ Además, al resolver la queja, la Sala impondrá la multa y ordenará se envíe 
 
 Si la Sala resuelve que hubo exceso o defecto en el cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá cumplir.
 
-Si la Sala comprueba que la resolución a que se refiere la fracción II del Artículo 168, se emitió después de concluido el plazo legal, ordenará se comunique esta circunstancia al superior jerárquico de ésta para el inicio del procedimiento de responsabilidad respectivo.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Si la Sala comprueba que la resolución a que se refiere la fracción II, del artículo 168, se emitió después de concluido el plazo legal, anulará ésta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta para el inicio del procedimiento de responsabilidad respectivo.
 
 En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la Sala declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo.
 
 Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en su caso existiere.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 171.
 
-Tratándose del incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado, procederá la queja mediante escrito interpuesto en cualquier momento ante el instructor.
+Tratándose del incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado, procederá la queja mediante escrito interpuesto en cualquier momento ante el Magistrado Ponente.
 
 En dicho escrito se expresarán las razones por las que se considera que se ha dado el incumplimiento a la suspensión otorgada, y si los hay, los documentos en que consten las actuaciones de la autoridad en que pretenda la ejecución del acto.
 
@@ -1713,13 +1797,17 @@ La resolución a que se refiere esta fracción se notificará también al superi
 
 A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre doscientas cincuenta y seiscientas veces el salario mínimo general diario vigente en el Estado y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
 
-Existiendo resolución administrativa definitiva, si la Sala considera que la queja es improcedente, prevendrá al quejoso para que dentro de los treinta días siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los requisitos previstos por los artículos 125 y 126 de esta Ley, ante la misma Sala que conoció del primer juicio, la que será turnada al mismo Magistrado Ponente de la queja.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+Existiendo resolución administrativa definitiva, si la Sala considera que la queja es improcedente, prevendrá al quejoso para que dentro de los treinta días siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los requisitos previstos por los artículos 125, 126 y 127, de esta Ley, ante la misma Sala que conoció del primer juicio, la que será turnada al mismo Magistrado Ponente de la queja.
 
 ## Título III (sic). Del Recurso de Revisión
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 173.
 
-El recurso de revisión procederá en contra de las resoluciones de las salas que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquellas que admitan o rechacen la intervención del tercero interesado y las resoluciones que concedan o nieguen la suspensión definitiva.
+El Recurso de Revisión procederá en contra de las resoluciones o sentencias de las Salas que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquellas que admitan o rechacen la intervención del tercero interesado y las resoluciones que concedan o nieguen la suspensión definitiva.
 
 La revisión se interpondrá ante la Sala dentro de los diez días siguientes a aquel en que surta efectos la notificación de que se trate.
 
@@ -1767,9 +1855,11 @@ Los Criterios sustentados en las sentencias pronunciadas por el Pleno del Tribun
 
 Para fijar Criterios, el Pleno deberá aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 179.
 
-En el caso de contradicción de Criterios, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con un quórum mínimo de cinco Magistrados, decidirá por mayoría de tres la que debe prevalecer, constituyendo Criterio.
+En el caso de contradicción de criterios, cualquiera de los magistrados del tribunal o las partes en los juicios en las que éstos se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con un quórum mínimo de cinco Magistrados, decidirá por mayoría de tres la que debe prevalecer, constituyendo criterio.
 
 La resolución que pronuncie el Pleno del Tribunal, en los casos a que este Artículo se refiere, sólo tendrá efectos para fijar Criterios y no afectará las resoluciones dictadas en los juicios correspondientes.
 
@@ -1808,3 +1898,9 @@ José Ángel Córdova Toledo.- D. S. Dip. Rafael Ceballos Cancino.- Rúbricas.
 De conformidad con la fracción I del Artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veintiocho días del mes de diciembre del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado, Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MAYO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
