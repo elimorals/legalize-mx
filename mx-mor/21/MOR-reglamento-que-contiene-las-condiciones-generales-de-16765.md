@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-que-contiene-las-condiciones-generales-de-16765"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-09"
-last_updated: "2000-08-09"
+last_updated: "2008-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO QUE CONTIENE LAS CONDICIONES GENERALES DE TRABAJO DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2008.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de agosto de 2000.
 
@@ -51,7 +51,9 @@ I.- Los artículos 40 fracción XX y 70 fracciones IV y XXVI de la Constitución
 
 II.- Ley del Servicio Civil del Estado de Morelos;
 
-III.- Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+III.- Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 IV.- Ley del Instituto de Capacitación para el Trabajo del Estado de Morelos;
 
@@ -161,9 +163,11 @@ d).- Por obra determinada, aquellos cuyos efectos cesan al concluir la obra que 
 
 Todo nombramiento que se expida quedará sin efecto si el trabajador no se presenta a tomar posesión del empleo conferido en la fecha que para tal efecto se le indique.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 11.
 
-Queda prohibido utilizar los servicios de personas que carezcan de nombramiento, así como de meritorios, salvo que se trate de prestantes del servicio social. La violación a esta disposición traerá como consecuencia la aplicación de los procedimientos y en su caso las sanciones que prevé la Ley de Responsabilidades.
+Queda prohibido utilizar los servicios de personas que carezcan de nombramiento, así como de meritorios, salvo que se trate de prestantes del servicio social. La violación a esta disposición traerá como consecuencia la aplicación de los procedimientos y en su caso las sanciones que prevé la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ### CAPÍTULO IV. DE LOS SUELDOS
 
@@ -395,7 +399,9 @@ Son obligaciones del Instituto:
 
 I.- Preferir en igualdad de condiciones, conocimientos, aptitudes y antigüedad, a los morelenses, respecto de quienes no lo sean, entre aquellos a quienes representen la única fuente de ingreso familiar, a los que con anterioridad hubieran prestado sus servicios al Instituto y los que acrediten tener mejores derechos conforme al escalafón;
 
-II.- Cumplir con las disposiciones de la Ley del Servicio Civil, la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, así como con este Reglamento;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+II.- Cumplir con las disposiciones de la Ley del Servicio Civil del Estado de Morelos, de la Ley Estatal de Responsabilidades de los Servidores Públicos, así como con este Reglamento;
 
 III.- Proporcionar a los trabajadores los útiles, instrumentos, materiales y demás elementos necesarios para el desarrollo de las funciones que tenga asignadas;
 
@@ -417,7 +423,9 @@ XI.- Asignar al trabajador, previa solicitud, labores compatibles de acuerdo a s
 
 XII.- Proporcionar asistencia jurídica a sus trabajadores cuando sean procesados por actos o hechos ejecutados en cumplimiento de su deber y otorgar fianza, tan pronto sea fijada ésta, para obtener su libertad provisional y una vez que se dicte sentencia absolutoria y cause ejecutoria, ordenar la reinstalación del trabajador así como el pago de sueldos dejados de percibir durante todo el tiempo que duró la suspensión de los efectos del nombramiento;
 
-XIII.- Ordenar el pago de los salarios dejados de percibir a los trabajadores cuando hubieran obtenido resolución favorable y que haya causado ejecutoria, en los procesos derivados de la aplicación de la Ley de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XIII.- Ordenar el pago de los salarios dejados de percibir a los trabajadores cuando hubieran obtenido resolución favorable y que haya causado ejecutoria, en los procesos derivados de la aplicación de la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 XIV.- Expedir y en su caso, certificar oportunamente a los trabajadores dentro de la esfera de su competencia, los documentos necesarios para el goce de las prestaciones sociales otorgadas en su favor;
 
@@ -485,13 +493,17 @@ XIII.- La reinstalación en el puesto que desempeñaba u otro análogo en la ép
 
 XIV.- La indemnización, en caso de haber ejercitado tal acción, de tres meses de salario y al pago de los salarios caídos o dejados de percibir previstos en la Ley, cuando haya mediado cese de los efectos del nombramiento del trabajador y el Tribunal de Arbitraje del Estado dicte laudo condenatorio y el mismo cause ejecutoria;
 
-XV.- La reanudación de labores y al pago de los salarios dejados de percibir, en los casos de suspensión de los efectos del nombramiento como resultado de la prisión preventiva del trabajador o de la investigación prevista en la Ley de Responsabilidad de los Servidores Públicos del Estado, siempre que exista resolución definitiva firme, ya judicial o, en su caso, administrativa;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XV.- La reanudación de labores y al pago de los salarios dejados de percibir, en los casos de suspensión de los efectos del nombramiento como resultado de la prisión preventiva del trabajador o de la investigación prevista en la Ley Estatal de Responsabilidades de los Servidores Públicos, siempre que exista resolución definitiva firme, judicial o, en su caso, administrativa;
 
 XVI.- La participación en eventos culturales, deportivos o de otra índole en la forma y términos establecidos entre el Instituto y sus trabajadores;
 
 XVII.- La asignación previa solicitud, de labores compatibles con sus posibilidades de desempeño, diferentes a las habituales o señaladas en su nombramiento, en caso de incapacidad parcial permanente que le impida desarrollar las correspondientes al puesto que ocupaba antes de sobrevenir la incapacidad;
 
-XVIII.- Presentar renuncia a su puesto formulada por escrito y a retirarse del mismo, con sujeción a las disposiciones de la (sic) Leyes del Servicio Civil y de Responsabilidades y a estas Condiciones Generales;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XVIII.- Presentar renuncia a su puesto, formulada por escrito, y a retirarse del mismo, con sujeción a las disposiciones de la Ley del Servicio Civil, la Ley Estatal de Responsabilidades de los Servidores Públicos y a estas Condiciones Generales;
 
 XIX.- Retirarse del servicio por haber obtenido pensión por parte del Instituto Mexicano del Seguro Social, por invalidez incapacidad permanente parcial o total, vejez o cesantía en edad avanzada, en los términos de la Ley del Seguro Social, a quien el Instituto le subrogó todas las obligaciones, en los términos del convenio respectivo;
 
@@ -727,9 +739,11 @@ Las recompensas económicas comprenden la concesión de gratificaciones en efect
 
 ### CAPÍTULO XII. DE LAS MEDIDAS DISCIPLINARIAS
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 72.
 
-Las medidas disciplinarias y sanciones que se contemplan en éste Capítulo, se aplicarán en forma conjunta o alternativa con las establecidas en la Ley del Servicio Civil del Estado de Morelos, la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, además de las que se prevén en el Código Penal del Estado o Federal por las responsabilidades en que el trabajador hubiera incurrido en el desempeño de sus funciones, al violar las disposiciones contenidas en dichos Ordenamientos Legales.
+Las medidas disciplinarias y sanciones que se contemplan en éste Capítulo, se aplicarán en forma conjunta o alternativa con las establecidas en la Ley del Servicio Civil del Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos, además de las que se prevén en el Código Penal del Estado o Federal por las responsabilidades en que el trabajador hubiera incurrido en el desempeño de sus funciones, al violar las disposiciones contenidas en dichos Ordenamientos Legales.
 
 ###### ARTÍCULO 73.
 
@@ -792,3 +806,9 @@ SR. FROYLÁN FRANCO HUERTA
 REPRESENTANTE DEL SECTOR PRODUCTIVO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
