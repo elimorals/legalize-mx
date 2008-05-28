@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2007-10-24"
+last_updated: "2008-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -51,37 +51,39 @@ Las disposiciones de éste Código son de orden público y de aplicación en tod
 
 Respecto de los internos que compurguen sentencias por delitos federales, el presente ordenamiento le será aplicable en términos de los convenios de coordinación que se celebren con las autoridades competentes y en estricto a pego (sic) a las leyes federales en la materia.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 2°.
 
 Para efectos de éste Código, se entenderá por:
 
 I. Centro Comunitario: Al Centro Estatal de Reinserción Social Comunitario;
 
-II. Código: A este Ordenamiento;
+II. Centros: Los Centros Estatales de Reinserción Social de Sentenciados, en todas sus modalidades;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+III. Código: A éste Ordenamiento;
 
-III. El Consejo: Al Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+IV. Comisión Interdisciplinaria: A la Comisión Interdisciplinaria de los centros;
 
-IV. La Constitución del Estado: La Constitución Política del Estado de Chiapas;
+V. Comité Técnico: Al Comité Técnico del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
-V. La Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+VI. Consejo: Al Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+VII. Constitución del Estado: La Constitución Política del Estado de Chiapas;
 
-VI. El Ministerio de Justicia: Al Ministerio de Justicia del Estado;
+VIII. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
-VII. La Junta: La Junta de Gobierno del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+IX. Interno: A toda persona sujeta a custodia, en uno de los establecimientos regulados por éste Código, por mandato judicial de autoridad competente;
 
-VIII. La Secretaría Ejecutiva: A la Secretaría Ejecutiva del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+X. Ministerio de Justicia: Al Ministerio de Justicia del Estado;
 
-IX. La Secretaría: A la Secretaría de Seguridad y Protección Ciudadana;
+XI. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana;
 
-X. Los Centros: Los Centros Estatales de Reinserción Social de Sentenciados en todas sus modalidades;
+XII. Secretaría Ejecutiva: A la Secretaría Ejecutiva del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
-XI. Comisión Interdisciplinaria: A la Comisión Interdisciplinaria de los centros; y,
+XIII. Secretario de Seguridad: Al Titular de la Secretaría de Seguridad y Protección Ciudadana;
 
-XII. Interno: A toda persona sujeta a custodia en uno de los establecimientos regulados por este Código por mandato judicial de autoridad competente.
+XIV. Secretario Ejecutivo: Al Titular de la Secretaría Ejecutiva del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
 ###### Artículo 3°.
 
@@ -181,7 +183,9 @@ Las comunicaciones del interno, se darán de manera que se respete al máximo su
 
 El tratamiento penitenciario, consiste en todas aquellas actividades encaminadas a la preparación, para que el interno vuelva a incorporarse a la sociedad.
 
-Dicho tratamiento, tendrá como finalidad desarrollar en ellos una actitud de respeto así mismos y, de responsabilidad individual y social con respecto a sus familias y a la sociedad en general.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Dicho tratamiento, tendrá como finalidad desarrollar en ellos una actitud de respeto a sí mismos y, de responsabilidad individual y social con respecto a sus familias y a la sociedad en general.
 
 ###### Artículo 14.
 
@@ -195,9 +199,11 @@ Todos los cuerpos de Seguridad Pública del Estado, están obligados a prestar a
 
 ### Capítulo I. Del Consejo
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 16.
 
-El Consejo, es un Organismo Público Descentralizado, el cual contará con una Junta de Gobierno, una Secretaría Ejecutiva y con las Unidades Administrativas y el personal necesario para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto que se le asigne.
+El Consejo, es un órgano desconcentrado jerárquicamente subordinado a la Secretaría de Seguridad y Protección Ciudadana, con plena autonomía administrativa, presupuestal, técnica, de gestión y de ejecución y que para el desahogo de sus atribuciones, contará con una Secretaría Ejecutiva, con las Unidades Administrativas y el personal necesario para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto que se le asigne.
 
 ###### Artículo 17.
 
@@ -207,101 +213,85 @@ I. Que se cumplan (sic) la ejecución de las sanciones penales, las medidas de s
 
 II. La reinserción social del sentenciado.
 
-#### Sección Primera. De la Junta
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+#### Sección Primera. Del Comité Técnico
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 18.
 
-La Autoridad Suprema del Consejo es la Junta, la cual estará integrada por:
+El Comité Técnico es el órgano del Consejo que tiene como objetivo conocer, analizar y resolver las solicitudes que presenten los internos para obtener los beneficios legales a que se hagan acreedores conforme a este Código.
 
-I. El Coordinador General del Gabinete;
+El Comité Técnico, estará integrado por:
 
-II. El Secretario de Seguridad y Protección Ciudadana;
+I. El Secretario de Gobierno.
 
-III. El Secretario de Educación;
+II. El Secretario de Seguridad y Protección Ciudadana.
 
-IV. El Secretario de Desarrollo Social;
+III. El Secretario de Salud.
 
-V. El Secretario de Pueblos Indios; y,
+IV. El Ministro de Justicia.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+V. El Director General del Sistema DIF-Chiapas.
 
-VI. El Ministro de Justicia del Estado de Chiapas.
+VI. El Secretario Ejecutivo.
 
-Los cargos de la Junta serán honoríficos. Sus miembros podrán ser suplidos solamente por su inferior jerárquico inmediato.
+Los cargos del Comité Técnico serán honoríficos. Sus miembros podrán designar a un representante, excepto el Secretario Ejecutivo y funcionarán con base en lo establecido en el Reglamento que para tal efecto se expida.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 19.
 
-La Junta sesionará ordinariamente, por lo menos cuatro veces al año y celebrará reuniones extraordinarias en cualquier tiempo a convocatoria del Secretario Ejecutivo. Las sesiones, serán válidas con la presencia mayoritaria de sus integrantes.
+El Comité Técnico sesionará ordinariamente cada tres meses y celebrará reuniones extraordinarias en cualquier tiempo, a convocatoria del Secretario Ejecutivo.
+
+Las sesiones, serán válidas con la presencia mayoritaria de sus integrantes y sus resoluciones, serán aprobadas por mayoría de votos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 20.
 
-Las resoluciones de los asuntos competencia de la Junta, serán aprobados por mayoría de votos de sus integrantes.
+Son atribuciones del Comité:
 
-#### Sección Segunda. De la Secretaría Ejecutiva
+I. Resolver y aprobar los beneficios legales a los internos;
+
+II. Decretar la suspensión definitiva o modificación de la sanción privativa de libertad impuesta, a propuesta de la Secretaría Ejecutiva, en los términos del presente Código;
+
+III. Establecer el procedimiento para el otorgamiento de los beneficios a que se refiere este Código; y,
+
+IV. Las que señalen el presente Código, su Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2008)</small>
+
+#### Sección Segunda. Del Secretario de Seguridad
+
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 21.
 
-Corresponde a la Junta:
+Corresponde al Secretario de Seguridad:
 
-I. Vigilar y supervisar que la Secretaría Ejecutiva, cumpla con las atribuciones que le confiere éste Código;
+I. Incluir al proyecto del presupuesto de la Secretaría, el proyecto de presupuesto anual de egresos del Consejo, previa propuesta del Secretario Ejecutivo;
 
-II. Aprobar el proyecto de presupuesto anual de ingresos y egresos del Consejo;
+II. Evaluar el debido cumplimiento de los programas del Consejo;
 
-III. Evaluar el debido cumplimiento de los programas del Consejo;
+III. Remitir para su publicación los ordenamientos jurídicos internos, consensados con la Secretaría Ejecutiva;
 
-IV. Aprobar los ordenamientos jurídicos internos;
+IV. Aprobar la estructura y organización administrativa de la Secretaría Ejecutiva, así como las modificaciones que para tal efecto procedan;
 
-V. Aprobar la estructura y organización administrativa de la Secretaría Ejecutiva, así como las modificaciones que para tal efecto procedan;
+V. Autorizar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios que deba celebrar el Consejo, en materia de sistemas penitenciarios;
 
-VI. Vigilar y supervisar la correcta aplicación de los recursos asignados al Consejo;
+VI. Nombrar y remover a las autoridades de los Centros;
 
-VII. Aprobar, previo informe de la Secretaría Ejecutiva, los estados financieros; Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios que deba celebrar el Consejo, en materia de sistemas penitenciarios;
+VII. Autorizar la inversión y empleo de los fondos, que con motivo al porcentaje destinado al sostenimiento de las necesidades del interno se recaudaren; asimismo aprobar el ingreso de recursos autogenerados en los Centros;
 
-VIII. Suscribir los convenios y acuerdos de coordinación de carácter general, a fin de que los internos, procesados o con sentencia ejecutoriada por delito del orden común o federal, compurguen su pena en Centros dependientes del Ejecutivo Federal o Estatal;
+VIII. Coadyuvar con los demás Órganos de la Administración Pública Estatal y autoridades competentes, en la ejecución de la política criminal que se implante en el Estado;
 
-X. Nombrar y remover a las autoridades de los Centros;
+IX. Implantar medidas para mejorar el funcionamiento administrativo, técnico y operativo de los Centros, así como atender las necesidades prioritarias de los internos;
 
-XI. Aprobar los beneficios legales a los internos;
+X. Celebrar acuerdos o convenios de coordinación que estime necesarios para llevar a cabo los fines de este ordenamiento; y,
 
-XII. Ejercer la representación legal del Consejo;
-
-XIII. Determinar la inversión y empleo de los fondos, que con motivo al porcentaje destinado al sostenimiento de las necesidades del interno se recaudaren;
-
-XIV. Aprobar y normar el ingreso de recursos autogenerados de los Centros;
-
-XV. Emitir los lineamientos y ordenar las acciones, para implantar un sistema electrónico para las operaciones de compraventa de productos por los internos;
-
-XVI. Emitir los lineamientos de salubridad general de los Centros;
-
-XVII. Determinar el sistema de reinserción, en lo que favorezca a las personas sujetas a prisión preventiva;
-
-XVIII. Aprobar los planes y programas relacionados con la reinserción social en el Estado;
-
-XIX Autorizar los mecanismos adecuados, para la prevención y erradicación de la delincuencia en el interior de los Centros;
-
-XX. Coadyuvar con los demás Órganos de la Administración Pública Estatal y autoridades competentes en la ejecución de la política criminal que se implante en el Estado;
-
-XXI. Organizar el funcionamiento de los Centros, así como supervisar la administración de los mismos donde se encuentren indiciados, procesados y, en su caso, sentenciados;
-
-XXII. Ordenar que en los Centros se imparta a los internos diferentes formas y grados de instrucción con una visión integral que no se circunscriba sólo en el aspecto académico; si no en todo aquello que contribuya a su reinserción;
-
-XXIII. Establecer en los Centros, unidades industriales, artesanales o de trabajo, destinadas a la capacitación de los internos, así como implementar mecanismos que permitan otorgarles estímulos e ingresos que mejoren su economía familiar y en su caso, les permita reparar el daño causado;
-
-XXIV. Vigilar el funcionamiento y régimen de los sistemas de supervisión y custodia de los Centros;
-
-XXV. Implantar medidas para mejorar el funcionamiento administrativo, técnico y operativo de los Centros, así como atender las necesidades prioritarias de los internos;
-
-XXVI. Crear y establecer medidas de selección, capacitación y promoción del personal de los Centros;
-
-XXVII. Supervisar que en los Centros se respeten los derechos de los internos;
-
-XXVIII. Celebrar acuerdos o convenios de coordinación que estime necesarios para llevar a cabo sus fines; y,
-
-XXIX. Las demás disposiciones que este Código y otros ordenamientos aplicables establezcan.
-
-Las fracciones II, IV, V, VII, IX, X; XI, XVII, XVIII, XXIV, XVIII, tendrán carácter indelegable.
+XI. Las demás disposiciones que este Código y otros ordenamientos aplicables establezcan.
 
 ###### Artículo 22.
 
@@ -317,65 +307,103 @@ IV. Contar con un título profesional expedido por una institución de educació
 
 Tener experiencia acreditada en materia penitenciaria.
 
-#### Sección Primera. De la Multa
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION SEGUNDA], P.O. 28 DE MAYO DE 2008)</small>
+
+#### Sección Tercera. De la Secretaría Ejecutiva
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 23.
 
 Son atribuciones de la Secretaría Ejecutiva, las siguientes:
 
-I. Ejecutar las sanciones penales, así como las medidas de seguridad en los Centros, sujetándose a lo dispuesto por este Código;
+I. Rendir al Secretario de Seguridad los informes y datos que le solicite;
 
-II. Crear y mantener actualizado un padrón de todas las personas procesadas y sentenciadas privadas de la libertad, en el que se establezcan datos concernientes al delito o delitos que se les imputen y de su personalidad;
+II. Ejecutar las sanciones penales, así como las medidas de seguridad en los Centros, sujetándose a lo dispuesto por este Código;
 
-III. Proporcionar las constancias y los informes de antecedentes penales que soliciten;
+III. Crear y mantener actualizado un padrón de todas las personas procesadas y sentenciadas privadas de la libertad, en el que se establezcan datos concernientes al delito o delitos que se les imputen y de su personalidad;
 
-IV. Trasladar, intercambiar, custodiar, vigilar y brindar el tratamiento respectivo a toda persona que fuere privada de su libertad, desde el momento de su ingreso a cualquier Centro de Reinserción Social;
+IV. Proporcionar las constancias y los informes de antecedentes penales que soliciten;
 
-V. Ordenar el traslado de los internos sentenciados;
+V. Trasladar, intercambiar, custodiar, vigilar y brindar el tratamiento respectivo a toda persona que fuere privada de su libertad, desde el momento de su ingreso a cualquier Centro de Reinserción Social;
 
-VI. Estudiar y clasificar a las personas a las cuales se les haya impuesto una sanción penal o medida de seguridad por los tribunales penales del Estado, a fin de aplicar a cada uno el tratamiento individualizado que corresponda, de acuerdo al sistema progresivo técnico en todas sus fases;
+VI. Ordenar el traslado de los internos sentenciados;
 
-VII. Ejecutar por conducto de los Centros, las sanciones penales privativas de la libertad;
+VII. Estudiar y clasificar a las personas a las cuales se les haya impuesto una sanción penal o medida de seguridad por los tribunales penales del Estado, a fin de aplicar a cada uno el tratamiento individualizado que corresponda, de acuerdo al sistema progresivo técnico en todas sus fases;
 
-VIII. Velar el efectivo cumplimiento de las sanciones que sean distintas a la privativa de la libertad que impusieren, así como las multas;
+VIII. Ejecutar por conducto de los Centros, las sanciones penales privativas de la libertad;
 
-IX. Entablar correspondencia con los organismos públicos y autoridades que deban intervenir en la ejecución de lo resuelto en las sentencias;
+IX. Velar el efectivo cumplimiento de las sanciones que sean distintas a la privativa de la libertad que impusieren, así como las multas;
 
-X. Determinar los lugares de internamiento de los inimputables, así como, aplicar y vigilar el tratamiento para los mismos;
+X. Entablar correspondencia con los organismos públicos y autoridades que deban intervenir en la ejecución de lo resuelto en las sentencias;
 
-XI. Conocer, investigar y resolver las inconformidades de los internos, respecto al trato de que son objeto y, en caso de que éste constituya algún delito, denunciar al responsable ante el Fiscal del Ministerio Público;
+XI. Determinar los lugares de internamiento de los inimputables, así como, aplicar y vigilar el tratamiento para los mismos;
 
-XII. Supervisar la vigilancia a que estarán sujetas las personas que gocen de los beneficios señalados en este Código;
+XII. Conocer, investigar y resolver las inconformidades de los internos respecto al trato de que son objeto y, en caso de que éste constituya algún delito, denunciar al responsable ante el Fiscal del Ministerio Público;
 
-XIII. Seleccionar y capacitar al personal de los Centros en todos los niveles, tomando como base su aptitud, vocación y antecedentes personales, previamente a la toma de posesión del cargo y durante el desempeño del mismo. Para el efecto, podrán establecerse cursos teóricos y prácticos, de formación y perfeccionamiento, siendo requisito necesario para la obtención del cargo, la aprobación de los exámenes respectivos;
+XIII. Supervisar la vigilancia a que estarán sujetas las personas que gocen de los beneficios señalados en este Código;
 
-XIV. Proporcionar al Fiscal del Ministerio Público los informes y datos que le solicite;
+XIV. Seleccionar y capacitar al personal de los Centros en todos los niveles, tomando como base su aptitud, vocación y antecedentes personales, previamente a la toma de posesión del cargo y durante el desempeño del mismo. Para el efecto, podrán establecerse cursos teóricos y prácticos de formación y perfeccionamiento, siendo requisito necesario para la obtención del cargo, la aprobación de los exámenes respectivos;
 
-XV. Supervisar la administración de los Centros;
+XV. Proporcionar al Fiscal del Ministerio Público los informes y datos que le solicite; así como a la Comisión Nacional de Derechos Humanos y a la Comisión de Derechos Humanos del Estado.
 
-XVI. Vigilar el ejercicio presupuestario de los Centros;
+XVI. Supervisar la administración de los Centros;
 
-XVII. Ordenar a las autoridades penitenciarias, que adopten las acciones necesarias para proteger a los sentenciados y visitantes de los Centros;
+XVII. Vigilar el ejercicio presupuestario de los Centros;
 
-XVIII. Elaborar y ejecutar los planes y programas relacionados con la reinserción social en el Estado;
+XVIII. Ordenar a las autoridades penitenciarias, que adopten las acciones necesarias para proteger a los sentenciados y visitantes de los Centros;
 
-XIX. Resolver las controversias que se le planteen por interpretación de los ordenamientos internos o por cualquier otra circunstancia;
+XIX. Elaborar y ejecutar los planes y programas relacionados con la reinserción social en el Estado;
 
-XX. Proponer a la Junta, los beneficios legales a los internos;
+XX. Resolver las controversias que se le planteen por interpretación de los ordenamientos internos o por cualquier otra circunstancia;
 
-XXI. Proponer a la Junta, los nombramientos y remociones del personal de los Centros;
+XXI. Proponer al Comité Técnico, los beneficios legales a los internos;
 
-XXII. Otorgar concesiones a los particulares, o permisos para la venta de productos dentro de los Centros, o autorizar dicha actividad a las autoridades penitenciarias;
+XXII. Proponer al Secretario de Seguridad, los nombramientos y remociones del personal de los Centros;
 
-XXIII. Vigilar y en su caso suspender, en forma temporal o permanente a los concesionarios que oferten productos dentro de los Centros a precios superiores a los del mercado externo;
+XXIII. Otorgar concesiones a los particulares, o permisos para la venta de productos dentro de los Centros, o autorizar dicha actividad a las autoridades penitenciarias;
 
-XXIV. Supervisar la administración de los fondos de los recursos autogenerados y del producto del trabajo de los internos; y,
+XXIV. Vigilar y, en su caso, suspender en forma temporal o permanente a los concesionarios que oferten productos dentro de los Centros a precios superiores a los del mercado externo;
 
-XXV. Las demás que establezca este Código, que le ordene la Junta, su reglamento y demás disposiciones aplicables.
+XXV. Supervisar la administración de los fondos de los recursos autogenerados y del producto del trabajo de los internos;
+
+XXVI. Suscribir los convenios y acuerdos de coordinación de carácter general, a fin de que los internos, procesados o con sentencia ejecutoriada por delito del orden común o federal, compurguen su pena en Centros dependientes del Ejecutivo Federal o Estatal;
+
+XXVII. Ejercer la representación legal del Consejo;
+
+XXVIII. Previa autorización del Secretario de Seguridad, determinar la inversión y empleo de los fondos, que con motivo al porcentaje destinado al sostenimiento de las necesidades del interno se recaudaren; asimismo aprobar y normar el ingreso de recursos autogenerados en los Centros;
+
+XXIX. Emitir y someter a consideración del Secretario de Seguridad, los lineamientos y ordenar las acciones, para implantar un sistema electrónico para las operaciones de compraventa de productos por los internos;
+
+XXX. Emitir y someter a consideración del Secretario de Seguridad, los lineamientos de salubridad general de los Centros;
+
+XXXI. A propuesta del Comité Técnico, determinar el sistema de reinserción, en lo que favorezca a las personas sujetas a prisión preventiva;
+
+XXXII. Implementar previa consideración del Secretario de Seguridad, los planes y programas relacionados con la reinserción social en el Estado;
+
+XXXIII. Autorizar previa consideración del Secretario de Seguridad, los mecanismos adecuados, para la prevención y erradicación de la delincuencia en el interior de los Centros;
+
+XXXIV. Organizar el funcionamiento de los Centros, así como supervisar la administración de los mismos donde se encuentren indiciados, procesados y, en su caso, sentenciados;
+
+XXXV. Ordenar que en los Centros se imparta a los internos diferentes formas y grados de instrucción con una visión integral que no se circunscriba sólo en el aspecto académico; si no en todo aquello que contribuya a su reinserción;
+
+XXXVI. Previa aprobación del Secretario de Seguridad, establecer en los Centros, unidades industriales, artesanales o de trabajo, destinadas a la capacitación de los internos, así como implementar mecanismos que permitan otorgarles estímulos e ingresos que mejoren su economía familiar y en su caso, les permita reparar el daño causado;
+
+XXXVII. Vigilar el funcionamiento y régimen de los sistemas de supervisión y custodia de los Centros;
+
+XXXVIII. Previa aprobación del Secretario de Seguridad, crear y establecer medidas de selección, capacitación y promoción del personal de los Centros;
+
+XXXIX. Supervisar que en los Centros se respeten los derechos de los internos;
+
+XL. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Seguridad.
 
 ###### Artículo 24.
 
 La Secretaría Ejecutiva, será el superior jerárquico de las autoridades penitenciarias de los Centros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2008)</small>
+
+La representación, trámite y resolución de los asuntos competencia de la Secretaría Ejecutiva, corresponden al Secretario Ejecutivo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2007)</small>
 
@@ -463,7 +491,7 @@ El sentenciado, tendrá derecho a una adecuada defensa por sí o por persona o p
 
 ### Capítulo III. De la Ejecución de Sanciones Penales Pecuniarias
 
-#### Sección Segunda. De la Reparación del Daño
+#### Sección Primera. De la Multa
 
 ###### Artículo 33.
 
@@ -473,7 +501,7 @@ Si el sentenciado no paga la multa en el plazo que fija la sentencia, será cita
 
 En los casos en que la multa sea sustituida por trabajo a favor de la comunidad, la Secretaría Ejecutiva fijará el tiempo, las condiciones y el lugar donde el sentenciado cumplirá el trabajo y el plazo de las cuotas para el pago según el caso. Lo anterior de conformidad con los convenios que para tal efecto celebre el Consejo.
 
-#### Sección Primera. Del Trabajo a Favor de la Comunidad
+#### Sección Segunda. De la Reparación del Daño
 
 ###### Artículo 35.
 
@@ -491,7 +519,7 @@ En los casos en que el Estado sea obligado solidario, el pago de la reparación 
 
 ### Capítulo IV. De las Sanciones Penales de Trabajo en Favor de la Comunidad y Tratamiento en Libertad
 
-#### Sección Segunda. Del Tratamiento en Libertad
+#### Sección Primera. Del Trabajo a Favor de la Comunidad
 
 ###### Artículo 36.
 
@@ -505,9 +533,11 @@ El trabajo a favor de la comunidad, se llevará a cabo en jornadas distintas del
 
 Cuando el trabajo a favor de la comunidad sea sustituto de prisión no mayor de un año o de sanciones impuestas en casos de delitos con pena alternativa, el Consejo, mediante convenios con los Ayuntamientos, procurará que éstos determinen la naturaleza, lugar y modo en que habrá de prestarse aquél.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 39.
 
-La jornada máxima de trabajo a favor de la comunidad será de cuatro horas. El órgano jurisdiccional escuchando a la Junta en todo momento podrá modificarla mediante solicitud del sentenciado, a efecto de cumplir anticipadamente su condena.
+La jornada máxima de trabajo a favor de la comunidad será de cuatro horas. El órgano jurisdiccional, escuchando al Comité Técnico, podrá modificarla mediante solicitud del sentenciado, a efecto de cumplir anticipadamente su condena.
 
 ###### Artículo 40.
 
@@ -521,7 +551,7 @@ La Secretaría Ejecutiva, designará delegados para vigilar el cumplimiento de l
 
 Los delegados, proporcionarán orientación e información a los sentenciados sobre el cumplimiento de su sanción.
 
-#### Sección Tercera. De la Impugnación de las Constancias y Modalidades de las Sanciones de Trabajo a Favor de la Comunidad y Tratamiento en Libertad
+#### Sección Segunda. Del Tratamiento en Libertad
 
 ###### Artículo 43.
 
@@ -535,7 +565,7 @@ El tratamiento en libertad de imputables, estará bajo la orientación y cuidado
 
 El tratamiento en libertad, se llevará a cabo en instituciones públicas, educativas o en instituciones privadas asistenciales, con quienes el Consejo celebre convenios.
 
-#### Sección Primera. Generalidades
+#### Sección Tercera. De la Impugnación de las Constancias y Modalidades de las Sanciones de Trabajo a Favor de la Comunidad y Tratamiento en Libertad
 
 ###### Artículo 46.
 
@@ -547,11 +577,13 @@ Toda persona podrá acudir ante la Secretaría Ejecutiva, para denunciar cualqui
 
 ### Capítulo V. De las Sanciones Privativas y Restrictivas de Derechos
 
-#### Sección Segunda. Suspensión e Inhabilitación
+#### Sección Primera. Generalidades
 
 ###### Artículo 48.
 
 La ejecución de las sanciones privativas y restrictivas de derechos consistirá, en ejercer sobre el sentenciado, observaciones y orientaciones de su conducta por personal especializado dependiente de la Secretaría Ejecutiva.
+
+#### Sección Segunda. Suspensión e Inhabilitación
 
 ###### Artículo 49.
 
@@ -577,9 +609,11 @@ Cuando en el curso de la ejecución de la sanción privativa de libertad, se acr
 
 Si el padecimiento fuese de carácter temporal, el interno será remitido al establecimiento especializado por el tiempo necesario para su recuperación, sin que dicho internamiento pueda exceder del tiempo ordenado por la sanción privativa de la libertad que se le hubiere impuesto, o de la parte de la misma que le faltare compurgar.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 54.
 
-Si el padecimiento fuese irreversible, la Secretaría Ejecutiva podrá decretar la suspensión definitiva previa aprobación de la Junta de la sanción privativa de libertad impuesta, y dictará las medidas necesarias para garantizar el principio de interés superior de la salud del interno.
+Si el padecimiento fuese irreversible, la Secretaría Ejecutiva podrá decretar la suspensión definitiva de la sanción privativa de libertad impuesta, previa aprobación del Comité Técnico, y dictará las medidas necesarias para garantizar el principio de interés superior de la salud del interno.
 
 ###### Artículo 55.
 
@@ -713,9 +747,11 @@ II. En el informe suministrado se señalará que de acuerdo con el principio de 
 
 ### Capítulo III. Sustitución, Conmutación de Sanciones Privativas de Libertad y Aplicación de Ley más Favorable
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 79.
 
-Quien haya sido sancionado por sentencia irrevocable y se encuentre en los casos de conmutación de sanciones privativas o de aplicación de ley más favorable a que se refiere el Código Penal del Estado, podrá solicitar, a la Junta, a través de la Secretaría Ejecutiva, en su caso, la conmutación, la reducción de sanción y el sobreseimiento que proceda, sin perjuicio de que dichas autoridades actúen de oficio y sin detrimento de la obligación de reparar los daños y perjuicios legalmente exigibles.
+Quien haya sido sancionado por sentencia irrevocable y se encuentre en los casos de conmutación de sanciones privativas o de aplicación de ley más favorable a que se refiere el Código Penal del Estado de Chiapas, podrá solicitar, al Comité Técnico, a través de la Secretaría Ejecutiva, en su caso, la conmutación, la reducción de sanción y el sobreseimiento que proceda, sin perjuicio de que dichas autoridades actúen de oficio y sin detrimento de la obligación de reparar los daños y perjuicios legalmente exigibles.
 
 ###### Artículo 80.
 
@@ -745,9 +781,11 @@ En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hech
 
 El Titular del Poder Ejecutivo del Estado, tratándose de delitos de carácter político, podrá hacer la conmutación de sanciones, en términos del Código Penal del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 87.
 
-Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, la Junta podrá modificar aquélla, siempre que la modificación no sea esencial.
+Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, el Comité Técnico podrá modificar aquella, siempre que la modificación no sea esencial.
 
 ###### Artículo 88.
 
@@ -997,7 +1035,7 @@ Se permitirá a los internos, la adquisición de productos alimenticios y de con
 
 El trabajo dentro del establecimiento de reclusión será considerado como un deber del interno, siendo un elemento fundamental en el tratamiento para la reinserción social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 128.
 
@@ -1005,23 +1043,21 @@ Por no tratarse de una relación voluntaria, sino que surge como consecuencia de
 
 El trabajo penitenciario se regirá por los siguientes principios:
 
-I. Será remunerado con base en el salario mínimo general vigente en el área geográfica respectiva, el 50% de esta remuneración será administrada mediante un fondo, que será aplicado de la siguiente manera: 25% se destinará directamente para cubrir las necesidades de los centros y 25% será para la reparación del daño si lo hubiere, en caso contrario el total será para las necesidades del centro, 25% a un fondo que se le entregará cuando abandone la prisión y el 25% directamente para el sostenimiento de su familia;
+I. Será remunerado con base en el salario mínimo general vigente en el área geográfica respectiva, el 50% de esta remuneración será administrada mediante un fondo, que será aplicado de la siguiente manera: 25% se destinará directamente para cubrir las necesidades de los centros y 25% será para la reparación del daño si lo hubiere, en caso contrarió el total será para las necesidades del centro, 25% a un fondo que se le entregará cuando abandone la prisión y el 25% directamente para el sostenimiento de su familia;
 
 II. Se realizará en las condiciones de seguridad e higiene previstas para el trabajo ordinario;
 
-III. (DEROGADA, P.O. 24 DE OCTUBRE DE 2007)
+III. No tendrá carácter aflictivo ni será aplicado como medida de corrección;
 
-IV. No tendrá carácter aflictivo ni será aplicado como medida de corrección;
+IV. No atentará contra la dignidad del interno;
 
-V. No atentará contra la dignidad del interno;
+V. Tendrá carácter formativo, creador o conservador de hábitos laborales; buscará ser productivo y terapéutico, con el fin de preparar a los internos para las condiciones normales de trabajo libre;
 
-VI. Tendrá carácter formativo, creador o conservador de hábitos laborales; buscará ser productivo y terapéutico, con el fin de preparar a los internos para las condiciones normales de trabajo libre;
+VI. Se organizará y planificará, atendiendo a las aptitudes y cualificación profesional del interno, de manera que satisfaga las aspiraciones laborales de los recluidos en cuanto sean compatibles con la organización y seguridad de los establecimientos;
 
-VII. Se organizará y planificará, atendiendo a las aptitudes y cualificación profesional del interno, de manera que satisfaga las aspiraciones laborales de los recluidos en cuanto sean compatibles con la organización y seguridad de los establecimientos;
+VII. Será facilitado por la Administración; y,
 
-VIII. Será facilitado por la Administración; y,
-
-IX. No se supeditará al logro de intereses económicos, sin embargo, se favorecerá la creación de empresas productivas.
+VIII. No se supeditará al logro de intereses económicos, sin embargo, se favorecerá la creación de empresas productivas.
 
 ###### Artículo 129.
 
@@ -1109,7 +1145,9 @@ La libertad de los sentenciados, sólo podrá ser acordada por la autoridad comp
 
 Compurgada la pena motivo de la sentencia, el interno será puesto en libertad de inmediato.
 
-Para proceder a la excarcelación de los sentenciados que aún no compurgan su sentencia, por cualquiera de las modalidades preliberacionales, éstas sólo podrán ser acordadas por la Junta.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Para proceder a la excarcelación de los sentenciados que aún no compurgan su sentencia, por cualquiera de las modalidades preliberacionales, éstas sólo podrán ser acordadas por el Comité Técnico.
 
 En el momento de la excarcelación se entregará al liberado el saldo de su cuenta de peculio, los valores y efectos depositados a su nombre. Si careciese de medios económicos, se le facilitará un socorro de ley, de cuando menos cinco días de salario mínimo vigente en el área geográfica respectiva.
 
@@ -1117,7 +1155,9 @@ En el momento de la excarcelación se entregará al liberado el saldo de su cuen
 
 Los internos contribuirán a su sostenimiento, con cargo a la percepción que tengan como resultado de las actividades productivas que desempeñen.
 
-Los bienes e instrumentos, objeto o producto de delito que hayan sido decomisados serán destinados al erario estatal y se aplicarán preferentemente para el beneficio de la administración de justicia y para el apoyo de los centros de reclusión en todo el estado, a través de la Junta.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Los bienes e instrumentos, objeto o producto de delito que hayan sido decomisados serán destinados al erario estatal y se aplicarán preferentemente para el beneficio de la administración de justicia y para el apoyo de los centros de reclusión en todo el Estado, a través de la Secretaría de Seguridad.
 
 ###### Artículo 144.
 
@@ -1265,9 +1305,13 @@ La libertad anticipada, es el beneficio otorgado por la autoridad competente que
 
 El beneficio de la libertad anticipada, condicionada al resultado del proceso, no prejuzga la determinación del juzgador, y sólo se constituye como un incidente, que interrumpe la detención del procesado en el Centro, hasta en tanto se dicta sentencia.
 
-El Sujeto de éste beneficio podrá, en caso de sentencia condenatoria, solicitar nuevo dictamen para obtener su libertad con sentencia suspendida.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
-El otorgamiento de los beneficios del tratamiento en externación y de la libertad anticipada se sujetará al procedimiento que para tal efecto establezca la Junta, en el cual se tomará como base la educación, la disciplina, el trabajo y la capacitación, siendo requisito indispensable la acreditación de los mismos.
+El sujeto de éste beneficio podrá, en caso de sentencia condenatoria, solicitar nuevo dictamen para obtener su libertad con sentencia suspendida.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+El otorgamiento de los beneficios del tratamiento en externación y de la libertad anticipada, se sujetará al procedimiento que para tal efecto establezca el Comité Técnico, en el cual se tomará como base la educación, la disciplina, el trabajo y la capacitación, siendo requisito indispensable la acreditación de los mismos.
 
 ### Capítulo II. Remisión Parcial de la Pena
 
@@ -1281,9 +1325,11 @@ La Comisión Interdisciplinaria, estará a cargo del sistema de cómputo para la
 
 ### Capítulo III. De la Libertad Preparatoria
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 168.
 
-Se concederá libertad preparatoria al condenado, por resolución de la Junta, previo dictamen de la Secretaría Ejecutiva, siempre que concurran las siguientes circunstancias:
+Se concederá libertad preparatoria al condenado, por resolución del Comité Técnico, previo dictamen de la Secretaría Ejecutiva, siempre que concurran las siguientes circunstancias:
 
 I. Que hubiere cumplido las tres quintas partes de su condena, si se trata de delitos dolosos o la mitad de la misma en caso de delitos culposos;
 
@@ -1293,9 +1339,11 @@ III. Que el examen de personalidad, revele estar apto para su reinserción socia
 
 IV. Que haya reparado el daño causado, sujetándose a la forma, medidas y término que se le fijen, en caso de no poder cubrirlo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 169.
 
-Satisfechas las circunstancias anteriores, la Junta podrá conceder la libertad, sujeta a las siguientes condiciones:
+Satisfechas las circunstancias anteriores, el Comité Técnico podrá conceder la libertad, sujeta a las siguientes condiciones:
 
 a) Residir o, en su caso, no residir en lugar determinado, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia se hará conciliando las circunstancias de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él, no sea un obstáculo para su enmienda;
 
@@ -1578,3 +1626,21 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- Todas las atribuciones que en relación a la Fiscalía General del Estado y de los órganos que integraban a ésta se hagan en el Código, se entenderán conferidas a los órganos, autoridades y demás personal que integran el Ministerio de Justicia del Estado, en términos de su Ley Orgánica.
+
+P.O. 28 DE MAYO DE 2008.
+
+Artículo Primero.- El presente decreto entrará en vigor a los 30 días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Comité Técnico, deberá quedar instalado en un plazo no mayor de treinta días, contados a partir de la entrada en vigor del presente decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigencia del presente decreto, serán resueltos por la Secretaría Ejecutiva o el Comité Técnico, según corresponda al ámbito de su competencia.
+
+Artículo Tercero.- El Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, expedirá su Reglamento Interior en un plazo no mayor de noventa días, contado a partir de la publicación del presente decreto.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros, que corresponden al organismo descentralizado denominado Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, pasarán a ser parte del órgano desconcentrado que mediante este decreto se crea.
+
+Artículo Quinto.- La Secretaría de Administración, la Secretaría de Finanzas y la Secretaría de Seguridad y Protección Ciudadana, conforme a sus respectivas atribuciones, realizarán las acciones necesarias, para el cumplimiento del presente decreto.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente decreto, en el Periódico Oficial del Estado.
