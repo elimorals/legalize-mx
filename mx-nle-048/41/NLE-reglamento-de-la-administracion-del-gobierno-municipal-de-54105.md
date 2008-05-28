@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-administracion-del-gobierno-municipal-de-54105
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-22"
-last_updated: "2007-01-22"
+last_updated: "2008-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA ADMINISTRACION DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de enero de 2007.
 
@@ -135,25 +135,35 @@ Para el estudio, planeación y despacho de los diversos asuntos de la Administra
 
 I. Secretaría del Ayuntamiento.
 
-II. Secretaría de Finanzas y Tesorería.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+II. Secretaría de Tesorería y Finanzas.
 
 III. Secretaría de Desarrollo Urbano y Obras Públicas.
 
 IV. Secretaría de Promoción Social.
 
-V. Secretaría Administrativa.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+V. Secretaría de Administración.
 
 VI. Secretaría de Servicios Públicos.
 
-VII. Secretaría de Seguridad Pública.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+VII. Secretaría de Seguridad Pública y Vialidad.
 
 VIII. Contraloría Interna Municipal.
 
-IX. Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2007)</small>
+IX. Secretaría de Educación, Cultura y Salud.
 
-X. Dirección General del Desarrollo Integral de la Familia.
+X. (DEROGADA, P.O. 28 DE MAYO DE 2008)
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XI. Secretaría Particular.
 
 ### CAPÍTULO IV. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
@@ -169,7 +179,7 @@ III.- Compilar y llevar el archivo de las disposiciones jurídicas del ámbito m
 
 IV.- Vigilar, en auxilio de las autoridades federales, el cumplimiento de las leyes y reglamentos en materia de cultos religiosos.
 
-V.- Fomentar la participación ciudadana en los programas de obras y servicios públicos por cooperación.
+V.- (DEROGADA, P.O. 28 DE MAYO DE 2008)
 
 VI.- Vigilar, en toda actividad ciudadana, que ésta se desarrolle dentro de los límites de respeto a la vida privada, a la moral y a la paz pública.
 
@@ -177,7 +187,9 @@ VII.- Organizar y vigilar el ejercicio de las funciones de la junta local de rec
 
 VIII.- Administrar el Archivo del Ayuntamiento y el Archivo Histórico del Municipio.
 
-IX.- Vigilar la correcta utilización de los espacios destinados al comercio fijo, semifijo, regular el ambulante y el respeto a los reglamentos que regulan la actividad comercial en el Municipio.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+IX.- Vigilar y regular la correcta utilización de los espacios destinados al comercio fijo, semifijo, el ambulante y mercados, y el respeto a los reglamentos que regulan la actividad comercial en el Municipio.
 
 X.- Promover el seguimiento a las acciones de gestoría social que emprenda el Ayuntamiento.
 
@@ -205,7 +217,7 @@ XXI.- Actualizar a las dependencias de la Administración Municipal en el conoci
 
 XXII.- Iniciar, sustanciar y desahogar, en representación de las autoridades municipales competentes, el procedimiento de clausura de negociaciones, en los casos previstos por las leyes y reglamentos vigentes.
 
-XXIII.- Administración de Panteones y Mercados.
+XXIII.- (DEROGADA, P.O. 28 DE MAYO DE 2008)
 
 XXIV.- Asesorar y conciliar a los particulares a fin de encontrar una solución en caso de controversia sobre la aplicación de sus derechos respecto a las autoridades municipales y en defensa de los intereses de la Administración Municipal.
 
@@ -215,13 +227,19 @@ XXVI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información P�
 
 XXVII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario del Ayuntamiento se auxiliará de las siguientes Direcciones: General del Ayuntamiento, Participación Ciudadana, Espectáculos y Permisos, de Comercio, Jurídica, Técnica, Alcoholes; Coordinaciones y Jefaturas de Departamento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
-### CAPÍTULO V. DE LA SECRETARÍA DE FINANZAS Y TESORERÍA
+Para el despacho de los asuntos de su competencia, el Secretario del Ayuntamiento se auxiliará de las siguientes Direcciones: General del Ayuntamiento, de Espectáculos y Permisos, de Comercio y Alcoholes, Jurídica; Coordinaciones y Jefaturas de Departamento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
+
+### CAPÍTULO V. DE LA SECRETARÍA DE TESORERÍA Y FINANZAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
-A la Secretaría de Finanzas y Tesorería le corresponde, además de las atribuciones que expresamente le señala la Ley Orgánica de la Administración Pública Municipal para el Estado de Nuevo León, la Ley de Hacienda para los Municipios del Estado de Nuevo León, y demás normativas legales y reglamentarias, el despacho de los siguientes asuntos:
+A la Secretaría de Tesorería y Finanzas le corresponde, además de las atribuciones que expresamente le señala la Ley Orgánica de la Administración Pública Municipal para el Estado de Nuevo León, la Ley de Hacienda para los Municipios del Estado de Nuevo León, y demás normativas legales y reglamentarias, el despacho de los siguientes asuntos:
 
 I.- Proponer y elaborar los proyectos de leyes, de reglamentos y demás disposiciones que se requieran para el manejo de los asuntos fiscales del Municipio, presentarlos al ayuntamiento por conducto del Presidente Municipal.
 
@@ -279,7 +297,9 @@ XXVII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información P
 
 XXVIII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Finanzas y Tesorería se auxiliará con las siguientes Direcciones: de Ingresos, de Egresos, de Patrimonio, de Administración y Tesorería, Procedimientos Administrativos y Ejecuciones, Coordinaciones y Jefaturas de Departamento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Tesorería y Finanzas se auxiliará con las siguientes Direcciones: de Ingresos, de Egresos, de Patrimonio, de Administración y Tesorería y de Procedimientos; Coordinaciones y Jefaturas de Departamento.
 
 ### CAPÍTULO VI. SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 
@@ -411,7 +431,9 @@ LII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pú
 
 LIII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Urbano y Obras Públicas se auxiliará de las siguientes Direcciones: Dirección de Planeación y control de Obras. Dirección de Proyectos y Construcción de Obras Públicas, Dirección de Promoción de Obras, Dirección de Administración del Desarrollo Urbano, Dirección de Construcción y Verificación Urbana, Dirección Jurídica Adscrita, Dirección de Planificación del Desarrollo Urbano, Dirección de Asentamientos Humanos y Ecología, Coordinaciones y Jefaturas del Departamento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Urbano y Obras Públicas se auxiliará de las siguientes Direcciones: Jurídica, de Control Urbano, de Fraccionamientos y de Obras públicas; Coordinaciones y Jefaturas del Departamento.
 
 ### CAPÍTULO VII. SECRETARÍA DE PROMOCIÓN SOCIAL
 
@@ -433,17 +455,25 @@ VI.- Ser un vínculo de comunicación personal, directa entre los ciudadanos y l
 
 VII.- Promover la participación de la Comunidad a través de la formación de grupos de trabajo con niños y adolescentes, en las que se fomenten y desarrollen los valores humanos.
 
-VIII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+VIII.- Fomentar la participación del sector empresarial que repercuta en empleos.
 
 IX. Las demás que le señalen como de su competencia las Leyes y reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Promoción Social se auxiliará de las Direcciones del Programa de Acción Comunitaria, de Respaldo Social, de Eventos, de Línea Directa, Coordinaciones y Jefaturas de Departamento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
-### CAPÍTULO VIII. SECRETARÍA ADMINISTRATIVA
+Para el despacho de los asuntos de su competencia, el Secretario de Promoción Social se auxiliará de las Direcciones: General de Proyectos y Asuntos Legales, de Fomento Económico, de Línea Directa, del Programa de Acción Comunitaria, de Eventos y de Participación Ciudadana; Coordinaciones y Jefaturas de Departamento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
+
+### CAPÍTULO VIII. SECRETARÍA DE ADMINISTRACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 17.
 
-La Secretaría Administrativa es la Dependencia encargada de otorgar apoyo administrativo a las diferentes áreas y entidades del Gobierno Municipal, y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Administración es la Dependencia encargada de otorgar apoyo administrativo a las diferentes áreas y entidades del Gobierno Municipal, y le corresponde el despacho de los siguientes asuntos:
 
 I.- Seleccionar, contratar y capacitar al personal de las dependencias del Gobierno Municipal, y establecer normas y criterios para la contratación y desarrollo del personal.
 
@@ -467,7 +497,9 @@ X.- Coordinar la asignación de pasantes que presten servicio social en las dife
 
 XI.- Mantener contacto permanente con las distintas dependencias respecto a los problemas laborales que se presenten en las áreas a su cargo.
 
-XII.- En coordinación con la Secretaría de Finanzas y Tesorería Municipal, participar en la formulación del programa anual del gasto público y en la definición del Presupuesto de Egresos.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XII.- En coordinación con la Secretaría de Tesorería y Finanzas participar en la formulación del programa anual del gasto público y en la definición del Presupuesto de Egresos.
 
 XIII.- Programar y realizar las adquisiciones de los bienes y servicios de las Dependencias Municipales y de las entidades del sector desconcentrado, de acuerdo con las necesidades descritas y limitadas por los presupuestos autorizados respectivos, aplicando las políticas y procedimientos vigentes.
 
@@ -487,9 +519,9 @@ XX.- Proponer programas específicos que tiendan a la modernización de la Admin
 
 XXI.- Desarrollar de manera directa, por contrato o concertación, cursos de capacitación para la formación de recursos humanos de alto nivel al servicio de la Administración Municipal.
 
-XXII.- Atender lo relacionado con la salud pública así como establecer, mejorar y ampliar las relaciones con instituciones educativas, deportivas, empresariales, religiosas, organizaciones no gubernamentales y otras, para lograr su participación en las acciones de salud que emprenda el municipio.
+XXII.- (DEROGADA, P.O. 28 DE MAYO DE 2008)
 
-XXIII.- Establecer la coordinación con la Secretaría Estatal de Salud para cooperar, sugerir y ejecutar las acciones de salud para la prevención de enfermedades en campañas estatales.
+XXIII.- (DEROGADA, P.O. 28 DE MAYO DE 2008)
 
 XXIV.- Proporcionar los servicios médicos a través de la Clínica Municipal.
 
@@ -499,7 +531,9 @@ XXVI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información P�
 
 XXVII.- Las demás le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario de la Administración se auxiliará con las Direcciones: de Recursos Humanos, de Adquisiciones, de Mantenimiento de Edificios Municipales, de Capacitación y Desarrollo Organizacional, de Informática; de Fomento Económico; y de Salud; Coordinaciones y Jefaturas de Departamento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Administración se auxiliará con las Direcciones: de Recursos Humanos, de Adquisiciones, de Edificios y Taller Municipal, de Informática y de Clínica Municipal; Coordinaciones y Jefaturas de Departamento.
 
 ### CAPÍTULO IX. SECRETARÍA DE SERVICIOS PÚBLICOS
 
@@ -507,19 +541,29 @@ Para el despacho de los asuntos de su competencia, el Secretario de la Administr
 
 La Secretaría de Servicios Públicos es la dependencia encargada de prestar a la comunidad los servicios básicos previstos en este precepto; y al efecto le corresponde el despacho de los siguientes asuntos:
 
-I.- Planear, realizar, supervisar, controlar y mantener en condiciones de operación los servicios públicos municipales que a continuación se indican:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
-a) Limpieza de áreas públicas.
+I.- Planear, diseñar, presupuestar, contratar, ejecutar y supervisar las obras y acciones encaminadas a prestar a la comunidad los servicios públicos en las áreas municipales, que a continuación se indican:
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+a) Mantenimiento y limpieza de áreas públicas municipales.
 
 b) Alumbrado público.
 
-c) Ornato, forestación y conservación de parques, plazas y jardines.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+c) Ornato, forestación, conservación y rehabilitación de parques, plazas y jardines.
 
 d) Reparación y mantenimiento de vías públicas.
 
-e) Limpieza de vías, áreas municipales y drenaje pluvial.
+e) (DEROGADO, P.O. 28 DE MAYO DE 2008).
 
 f) Emergencia de agua potable.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2008)</small>
+
+g) Administración y mantenimiento de panteones municipales.
 
 Las demás que determine el ayuntamiento y tengan por objeto el ejercicio de todas las funciones y actividades encaminadas a satisfacer necesidades sociales de servicios públicos.
 
@@ -547,7 +591,7 @@ XII.- Realizar las inspecciones, suspensiones y supervisiones de las obras que s
 
 XIII.- Recibir, tramitar y resolver sobre el otorgamiento de permisos para trabajos en las vías públicas que realicen las compañías prestadoras de servicios, tanto del Sector Público como del Sector Privado, de conformidad a las especificaciones y normas aplicables.
 
-XIV.- Realizar las remodelaciones, rehabilitaciones y mantenimientos de las áreas públicas, ya sea con recursos propios con el personal externo.
+XIV.- (DEROGADA, P.O. 28 DE MAYO DE 2008)
 
 XVI (SIC).- Los demás que en las materias de su competencia le atribuyan al municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
@@ -555,15 +599,21 @@ XVII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información P�
 
 XVIII.- Las demás le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos se auxiliará con las Direcciones: de Limpia, de Ornato y Forestación, de Mantenimiento Público, de Parques Funerales, así como de Coordinaciones y Jefaturas del Departamento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos se auxiliará con las Direcciones: Operativa y Administrativa, así como de Coordinaciones y Jefaturas del Departamento.
 
 ### CAPÍTULO X. SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+
 ###### Artículo 19.
 
-A la Secretaría Policía, Vialidad y Tránsito Municipal, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Seguridad Pública y Vialidad, corresponde el despacho de los siguientes asuntos:
 
-I.- Diseñar y definir políticas, programas y acciones respecto a la prevención de delitos en el Municipio.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+I.- Diseñar, definir y aplicar políticas, programas y acciones que fomenten la participación ciudadana a fin de disminuir los delitos en el Municipio.
 
 II.- Mantener el orden y la tranquilidad pública.
 
@@ -583,7 +633,9 @@ VIII.- Aprehender a los delincuentes en los casos de flagrante delito y en los d
 
 IX.- Promover la organización y funcionamiento de consejos o comités consultivos municipales de seguridad pública.
 
-X.- Contribuir a la seguridad pública de la sociedad, realizando tareas de prevención de ilícitos y labores de protección civil o auxilio de la población cuando se requiera.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+X.- Contribuir a la prevención y mitigación de desastres, mediante la orientación y asesoría a las instancias integrantes del Sistema Municipal de Protección Civil, así como proporcionar el apoyo necesario a la población al presentarse una emergencia, procurando con ello el regreso a las actividades normales lo mas rápido posible.
 
 XI.- Poner a disposición de las autoridades competentes a los menores infractores cuando sus conductas puedan entrañar la comisión de un delito o de una falta administrativa, conforme a las disposiciones legales aplicables.
 
@@ -625,7 +677,9 @@ XXVIII.- Participar en la innovación y avances tecnológicos, que permitan un m
 
 XXIX.- Promover la educación vial entre la población, particularmente entre los niños y los jóvenes escolares.
 
-XXX.- Representar a la Secretaría de Policía, Vialidad y Tránsito en actos públicos y privados.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XXX.- Representar a la Secretaría de Seguridad Pública y Vialidad en actos públicos y privados.
 
 XXXI.- Promover la participación de la población del Municipio para facilitar el tráfico vehicular.
 
@@ -639,7 +693,9 @@ XXXV.- Cumplir y hacer cumplir la parte que a sus dependencias y unidades admini
 
 XXXVI.- Preparar toda la información relativa a la entrega-recepción de la Administración Municipal, cuando corresponda.
 
-XXXVII.- Formular el anteproyecto el presupuesto anual de la Secretaría, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Finanzas y Tesorería Municipal.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XXXVII.- Formular el anteproyecto el presupuesto anual de la Secretaría, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Tesorería y Finanzas.
 
 XXXVIII.- Participar en la celebración de contratos y convenios relacionados con el ejercicio de sus atribuciones.
 
@@ -649,7 +705,9 @@ XL.- Las demás que señalen como de su competencia las leyes y reglamentos y de
 
 XLI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
 
-XLII.- Las demás le señalen como de su competencia las Leyes y Reglamentos vigentes.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XLII.- Administrar el padrón de placas y láminas de calles o avenidas, u otra nomenclatura con la denominación correcta que haya autorizado el Cabildo Municipal, así como, de todos los señalamientos viales que se encuentren dentro de la circunscripción de éste Municipio, y donde dicho padrón deberá ser actualizado cuando así lo amerite.
 
 Para el despacho de los asuntos de su competencia, el Secretario de Seguridad Pública, se auxiliará con las Direcciones: de Seguridad Pública, de Vialidad, de Protección Civil, de Prevención del Delito, así como de Coordinaciones y Jefaturas de su Departamento.
 
@@ -677,7 +735,9 @@ VIII.- Informar al Presidente Municipal sobre el resultado de la evaluación de 
 
 IX.- Solicitar la intervención o participación de auditores externos y consultores que coadyuven al cumplimiento de las funciones de verificación y vigilancia.
 
-X.- Convocar a la integración y funcionamiento del Consejo de Honor y Justicia de la Policía y Tránsito Municipal.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+X.- Convocar a la integración y funcionamiento de la Comisión de Honor y Justicia de los Cuerpos Adscritos a la Secretaría de Seguridad Pública y Vialidad.
 
 XI.- Vigilar que las obras públicas se realicen de acuerdo a la planeación, programación y presupuestación aprobada, supervisándolas directamente o a través de los órganos de control interno de las dependencias municipales, sin demérito de la responsabilidad de la entidad encargada de la ejecución de dichas obras.
 
@@ -687,21 +747,35 @@ XIII.- Conocer e investigar las conductas de los servidores públicos, que pueda
 
 XIV.- Ejercer funciones de supervisión para mantener actualizado el inventario general de los bienes muebles e inmuebles que constituyan el patrimonio del Municipio.
 
-XV.- Vigilar el adecuado cumplimiento de la ley de acuerdo a la Información Pública.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-XVI.- Las demás que le asigne el Presidente Municipal.
+XV.- Convocar y presidir el Comité de Transparencia, quien será el encargado de vigilar que se cumpla con lo establecido en la Ley de Acceso a la Información Pública de Nuevo León.
 
-Para el despacho de los asuntos de su competencia, el Contralor Municipal se auxiliará con las Direcciones: de Auditoría, Jurídica, de Desarrollo Administrativo y Modernización, así como de Coordinaciones y Jefaturas de Departamento.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-### CAPÍTULO XII. SECRETARÍA DE EDUCACIÓN, CULTURA Y DEPORTE
+XVI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Para el despacho de los asuntos de su competencia, el Contralor Municipal se auxiliará con las Direcciones: de Auditoría Interna, Jurídica, de Desarrollo Administrativo, así como de Coordinaciones y Jefaturas de Departamento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
+
+### CAPÍTULO XII. SECRETARÍA DE EDUCACIÓN, CULTURA Y SALUD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 21.
 
-La Secretaría de Educación, Cultura y Deporte es la dependencia encargada de fomentar el desarrollo humano de los ciudadanos a través de su participación en actividades educativas, culturales y deportivas, correspondiéndole el despacho de los siguientes asuntos:
+La Secretaría de Educación, Cultura y Salud es la dependencia encargada de fomentar el desarrollo humano de los ciudadanos a través de su participación en actividades educativas, culturales y de salud, correspondiéndole el despacho de los siguientes asuntos:
 
-I.- Fomentar, planear, propiciar, realizar y vigilar las actividades educativas, culturales y deportivas.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-II.- Divulgar y difundir las actividades de educación, deportivas y culturales del Gobierno Municipal a través de los medios masivos de comunicación.
+I.- Fomentar, planear, propiciar, realizar y vigilar las actividades educativas, culturales y de salud.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+
+II.- Divulgar y difundir las actividades de salud, educativas y culturales del Gobierno Municipal a través de los medios masivos de comunicación.
 
 III.- Promover, coordinar y vigilar programas de apoyo a escuelas.
 
@@ -713,57 +787,83 @@ VI.- Proponer al Presidente Municipal las políticas y programas generales relat
 
 VII.- Organizar exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones de interés cultural.
 
-VIII.- Determinar y organizar la participación del Gobierno Municipal en competencias deportivas intermunicipales y estatales y toda clase de eventos deportivos.
+VIII.- (DEROGADA, P.O. 28 DE MAYO DE 2008)
 
 IX.- Conocer, tramitar y resolver los recursos administrativos previstos en la ley y reglamentos aplicables.
 
 X.- Los demás que en la materia de su competencia le atribuyan al municipio las leyes vigentes.
 
-XI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-XII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
+XI.- Realizar acciones encaminadas a promover, proteger, fomentar y restablecer la salud de la comunidad en coordinación con las autoridades Federales y Estatales.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Educación, Cultura y Deporte se auxiliará de la Dirección de: Educación, de Cultura, de Regulación y Fomento Sanitario, Deportes, así como de las Coordinaciones y Jefaturas de Departamentos.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
-### CAPÍTULO XIII. DIRECCIÓN GENERAL DEL DESARROLLO INTEGRAL DE LA FAMILIA
+XII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2008)</small>
+
+XIII.- Las demás que le señalen como de su competencia las Leyes, Reglamentos, Acuerdos y Convenios vigentes.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Educación, Cultura y Salud se auxiliará de la Dirección de: Educación, de Cultura, de Regulación Sanitaria y Municipio Saludable, así como de las Coordinaciones y Jefaturas de Departamentos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
+
+### CAPÍTULO XIII. SECRETARIA PARTICULAR
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 22.
 
-La dirección General del Desarrollo Integral de la Familia, tiene como misión brindar la atención oportuna con personal capacitado, implementando programas orientados a fortalecer el núcleo familiar, así como la prevención de problemas sociales procurando la participación de la comunidad y tendrá a una persona designada por el Presidente Municipal con carácter honorífico quien fungirá como Presidente y, además, un Director General con todas las atribuciones, obligaciones y responsabilidades que establezcan las Leyes aplicables, los Reglamentos Municipales y, además las siguientes:
+La Secretaría Particular es la dependencia encargada de agendar las audiencias y actividades del C. Presidente Municipal, recibir la correspondencia, quejas y peticiones dirigidas al mismo, canalizarlas a la dependencia competente para dar seguimiento y respuesta a la misma, asimismo, servir de enlace entre los demás servidores públicos y el Presidente Municipal. Además, tendrá las siguientes atribuciones:
 
-I.- Apoyar el Desarrollo Integral de la Familia y de la Comunidad del Municipio;
+I.- Coordinar, autorizar, programar y agendar la planeación y seguimiento de los eventos públicos con las diferentes dependencias federales, estatales o municipales, o del sector privado, a través de los responsables o encargados de dichos eventos, solicitándoles en todo momento los requerimientos y lineamientos para su materialización.
 
-II.- Realizar estudios a Investigaciones sobre los problemas de la familia con el fin de ejecutar acciones tendientes a lograr que sus miembros se desenvuelvan en un ambiente que propicie su pleno desarrollo integral, mejorando su calidad de vida;
+II.- Autorizar, programar, y agendar los eventos privados del Alcalde Municipal, haciendo de su conocimiento el asunto o asuntos a tratar.
 
-III.- Proporcionar a la comunidad en general, servicios de asistencia social a través de las Unidades con que cuenta esta Dirección;
+III.- Coordinar el personal de apoyo del Presidente Municipal.
 
-IV.- Realizar acciones de apoyo formativo, tanto preventivo como informativo, para la integración social, de superación personal y de capacitación para el trabajo, en beneficio de las personas sujetos de la asistencia social, que tiendan a mejorar la calidad de vida de los mismos;
+IV.- Programar y ordenar las reuniones de trabajo de todos los secretarios con el Alcalde Municipal, llevando un control de los asuntos a tratar, la minuta que se suscriba y darle el trámite correspondiente a los acuerdos que se generen.
 
-V.- Colaborar con las Autoridades Municipales a dar atención y apoyo a las víctimas de desastres;
+V.- Coadyuvar en lo referente a la comunicación social y prensa, cuando vaya encaminado a la imagen institucional del ayuntamiento y agenda de medios.
 
-VI.- Realizar programas preventivos, educativos y formativos para combatir la desintegración familiar, el pandillerismo, la drogadicción, el alcoholismo y demás conductas antisociales o que dañen la salud de la persona;
+VI.- Será la encargada de la Dirección del Desarrollo Integral de la Familia, la cual tiene como misión brindar atención oportuna con personal capacitado, implementando programas orientados a fortalecer el núcleo familiar, así como la prevención de problemas sociales procurando la participación de la comunidad y tendrá a una persona designada por el Presidente Municipal con carácter honorífico quien fungirá como Presidente y, además, un Director con todas las atribuciones, obligaciones y responsabilidades que establezcan las Leyes aplicables, los Reglamentos Municipales y, además las siguientes:
 
-VII.- Establecer programas de apoyo físico, jurídico y psicológico a las víctimas de abuso sexual, violencia familiar o maltrato;
+a).- Apoyar el Desarrollo Integral de la Familia y de la Comunidad del Municipio;
 
-VIII.- Coadyuvar con los habitantes de escasos recursos con la prestación de servicios funerarios a través de las áreas con que cuenta esta Dirección;
+b).- Realizar estudios e investigaciones sobre los problemas de la familia con el fin de ejecutar acciones tendientes a lograr que sus miembros se desenvuelvan en un ambiente que propicie su pleno desarrollo integral, mejorando su calidad de vida;
 
-IX.- Coordinarse con las diversas instancias asistenciales del Gobierno del Estado y Federal para llevar a las personas de escasos recursos los beneficios de los programas sociales que tiendan a dotarlos de alimentación elemental;
+c).- Proporcionar a la comunidad en general, servicios de asistencia social a través de las Unidades con que cuente esta Dirección;
 
-X.- Coordinarse con las diversas instancias de Gobierno Municipal, Estatal y Federal, así como con Organismos No Gubernamentales para hacer llegar los beneficios de los diversos programas implementados por esta Dirección;
+d).- Realizar acciones de apoyo formativo, tanto preventivo como informativo, para la integración social, de superación personal y de capacitación para el trabajo, en beneficio de las personas sujetos de la asistencia social, que tiendan a mejorar la calidad de vida de los mismos;
 
-XI.- Brindar asesoría jurídica gratuita a la ciudadanía en general con la finalidad de que la familia tenga un entorno de tranquilidad legal;
+e).- Colaborar con la Autoridades Municipales a dar atención y apoyo a las víctimas de desastres.
 
-XII.- Dar seguimiento a los programas incluidos en el Programa Nacional para la Incorporación y Desarrollo de las Personas con Capacidades Diferenciadas, así como los propios del Municipio; y, (sic)
+f).- Realizar programas preventivos, educativos y formativos para combatir la desintegración familiar, el pandillerismo, la drogadicción, el alcoholismo y demás conductas antisociales o que dañen la salud de la persona;
 
-XIII.- Promover y desarrollar programas que involucren a diversos organismos, asociaciones civiles y sociedad en general cuyo objetivo sea brindar más beneficios a las personas más vulnerables;
+g).- Establecer programas de apoyo físico, jurídico y psicológico a las víctimas de abuso sexual, violencia familiar o maltrato;
 
-XIV.- Brindar apoyo a los adultos en plenitud con mayor vulnerabilidad, ofreciendo alternativas para mejorar su calidad de vida y ejercer los valores como herramienta indispensable para su desarrollo;
+h).- Coadyuvar con los habitantes de escasos recursos con la prestación de servicios funerarios a través de las áreas con que cuenta esta Dirección;
 
-XV.- Ofrecer un servicio de calidad y calidez, promovido a niños y niñas a través de actividades pedagógicas, alimentarías, y de salud que favorezcan el desarrollo integral del niño, en beneficio a madres trabajadoras;
+i).- Coordinarse con las diversas instancias asistenciales del Gobierno del Estado y Federal para llevar a las personas de escasos recursos los beneficios de los programas sociales que tiendan a dotarlos de la alimentación elemental;
 
-XVI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública;
+j).- Coordinarse con las diversas instancias de Gobierno Municipal, Estatal y Federal, así como con Organismos No Gubernamentales para hacer llegar los beneficios de los diversos programas implementados por esta Dirección;
 
-XVII.- Las demás le señalen como de su competencia la Leyes y Reglamentos vigentes.
+k).- Brindar asesoría jurídica gratuita a la ciudadanía en general con la finalidad de que la familia tenga un entorno de tranquilidad legal;
+
+l).- Dar seguimiento a los programas incluidos en el Programa Nacional para la Incorporación y Desarrollo de las Personas con Capacidades Diferenciadas, así como los propios del Municipio; y,
+
+m).- Promover y desarrollar programas que involucren a diversos organismos, asociaciones civiles y sociedad en general cuyo objetivo sea brindar más beneficios a las personas más vulnerables.
+
+n).- Brindar apoyo a los adultos en plenitud con mayor vulnerabilidad, ofreciendo alternativas para mejorar su calidad de vida y ejercer los valores como herramienta indispensable para su desarrollo.
+
+o).- Ofrecer un servicio de calidad y calidez, promovido a niños y niñas a través de actividades pedagógicas, alimentarías, y de salud que favorezcan el desarrollo integral del niño, en beneficio a madres trabajadoras.
+
+VII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+
+VIII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
 ### CAPÍTULO XIV. DE LOS ORGANISMOS DESCENTRALIZADOS
 
@@ -940,3 +1040,11 @@ PRESIDENTE MUNICIPAL
 LIC. GABRIEL ALBERTO NAVARRO RODRÍGUEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE MAYO DE 2008.
+
+PRIMERO.- Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
