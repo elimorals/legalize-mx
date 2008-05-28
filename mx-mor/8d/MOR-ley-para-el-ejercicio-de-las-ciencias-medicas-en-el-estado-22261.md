@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-ejercicio-de-las-ciencias-medicas-en-el-estado-2226
 country: "mx"
 rank: "ley"
 publication_date: "1941-10-12"
-last_updated: "1941-10-12"
+last_updated: "2008-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY PARA EL EJERCICIO DE LAS CIENCIAS MEDICAS EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NUMERO SETECIENTOS DIECIOCHO DEL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 12 de octubre de 1941.
 
@@ -312,3 +314,17 @@ El Seretario (sic) Gral. de Gobierno,
 Lic. Ricardo Gómez Azcárate
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MAYO DE 2008.
+
+SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO No. SETECIENTOS DIECIOCHO, QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Se abrogan las leyes de Los Servicios Médicos del Estado de Morales y la Ley Para el Ejercicio de las Ciencias Médicas en el Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
