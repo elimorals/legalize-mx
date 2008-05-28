@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-servicios-medicos-del-estado-de-morelos-7169"
 country: "mx"
 rank: "ley"
 publication_date: "1979-04-18"
-last_updated: "1979-04-18"
+last_updated: "2008-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE LOS SERVICIOS MEDICOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NUMERO SETECIENTOS DIECIOCHO DEL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 18 de abril de 1979.
 
@@ -320,3 +322,17 @@ EL SECRETARIO DE GOBIERNO
 Lic. Fausto González Hernández
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MAYO DE 2008.
+
+SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO NUMERO SETECIENTOS DIECIOCHO QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Se abrogan las leyes de Los Servicios Médicos del Estado de Morales y la Ley Para el Ejercicio de las Ciencias Médicas en el Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
