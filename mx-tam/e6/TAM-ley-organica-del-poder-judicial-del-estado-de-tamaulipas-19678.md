@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2007-12-04"
+last_updated: "2008-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -573,17 +573,39 @@ X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores p
 
 XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 27.
 
-Los Magistrados de número actuarán en forma colegiada en segunda instancia para conocer de apelaciones contra sentencias y resoluciones que pongan fin al juicio. Las Salas Colegiadas será una en materia penal y dos en asuntos de carácter civil y familiar.
+Los Magistrados de número podrán actuar en segunda instancia en forma colegiada y unitaria para conocer de apelaciones contra autos, sentencias interlocutorias y resoluciones que pongan fin al juicio conforme lo determine el Pleno del Supremo Tribunal de Justicia. Las Salas Colegiadas serán una en materia penal y dos en asuntos de carácter civil y familiar.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
+
+En materia penal los Magistrados de las Salas Colegiadas deberán conocer de las apelaciones en los casos siguientes:
+
+a).- Contra sentencias definitivas dictadas en procesos instruidos por delito grave;
+
+b).- Cuando el Ministerio Público formule las conclusiones reclasificando el delito como grave en los términos del Código de Procedimientos Penales para el Estado y, el juez de primera instancia no lo haya considerado como tal al dictar la sentencia respectiva; y
+
+c).- En los casos en que algún asunto se esté conociendo por algún Magistrado en forma unitaria y a petición de éste se considere que deba conocerse en forma colegiada, en este caso, deberá someterse a la aprobación del Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
+
+En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 La Sala Especializada en Justicia para Adolescentes atenderá las cuestiones relativas a dicha materia y resolverá los recursos a que se refiere la ley que regula el procedimiento para adolescentes a quienes se atribuya la realización de una conducta tipificada como delito conforme a las leyes del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 Las Salas Colegiadas y las Salas Unitarias, conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados los Magistrados que las integren.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 Las Salas Regionales conocerán en segunda instancia de apelaciones contra autos y resoluciones interlocutorias en materia penal, en términos del Código de Procedimientos Penales para el Estado.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 Las Salas Colegiadas funcionarán de la manera siguiente:
 
@@ -595,7 +617,11 @@ III.- Emitirán su resolución, previa exposición y discusión del caso con los
 
 IV.- Cuando un Magistrado disienta de la mayoría, podrá formular voto particular, lo que deberá hacerse dentro del término de tres días posteriores a la aprobación del proyecto, insertándose al final de la sentencia dictada.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 Cuando el proyecto del Magistrado ponente fuera rechazado, le será devuelto para que lo modifique de acuerdo al criterio de la mayoría; en caso de no estar de acuerdo con ello, otro Magistrado redactará la resolución que corresponda, quedando el proyecto del Magistrado ponente como voto particular.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 Al presentarse el nuevo proyecto y de no existir mayoría respecto al sentido de la resolución, se dará cuenta al Pleno y éste turnará el asunto a otra Sala; lo mismo se hará en el caso de desintegración de la mayoría.
 
@@ -1425,7 +1451,7 @@ Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del 
 
 Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 Durante el período de su ejercicio, los Jueces de Primera Instancia únicamente podrán ser removidos por el Supremo Tribunal de Justicia, cuando:
 
@@ -2377,4 +2403,10 @@ Artículo Segundo.- Los asuntos en trámite derivados de la interposición del r
 
 Artículo Tercero.- Hasta en tanto se instale la Sala Regional con residencia en Victoria, así como la Sala Especializada en Justicia para Adolescentes, la Sala Auxiliar atenderá los asuntos que a aquéllas corresponden.
 
-Artículo Cuarto.- Las Salas de número funcionarán en forma unitaria para conocer de apelaciones contra autos y resoluciones interlocutorias, en materia civil y familiar o conforme lo determine el H. Pleno del Supremo Tribunal de Justicia.
+Artículo Cuarto.- (DEROGADO, P.O. 29 DE MAYO DE 2008)
+
+P.O. 29 DE MAYO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
