@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2006-12-16"
+last_updated: "2008-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1619,7 +1619,13 @@ IV. De acuerdo económico: cuando la determinación del Congreso del Estado tien
 
 Los diputados en lo particular, las comisiones, los grupos parlamentarios y la Junta, pueden proponer al Pleno, Puntos de Acuerdo, en relación con asuntos o materias que consideren de interés público y no sean de su propia competencia; o que se refieran al cumplimiento de las funciones de los municipios y demás poderes del Estado, de otras entidades federativas, de la Federación y de asuntos internacionales.
 
-Los puntos de acuerdo aprobados en ningún caso tendrán efectos vinculatorios.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2008)</small>
+
+Los puntos de acuerdo en ningún caso podrán exhortar al cumplimiento de funciones previamente establecidas en la ley.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MAYO DE 2008)</small>
+
+Los puntos de acuerdo aprobados, en ningún caso tendrán efectos vinculatorios.
 
 ###### ARTICULO 133.
 
@@ -1792,3 +1798,7 @@ UNICO. Este Decreto entrará en vigor el día uno de noviembre de 2006, previa p
 P.O. 16 DE DICIEMBRE DE 2006.
 
 UNICO. Este Decreto entrará en vigor el día 16 de diciembre de 2006, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2008.
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
