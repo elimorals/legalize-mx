@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2007-12-31"
+last_updated: "2008-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE MAYO DE 2008.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -2737,7 +2737,7 @@ IV. Pode, trasplante un árbol público, afecte negativamente áreas verdes o ja
 
 V. Realice actividades que puedan afectar considerablemente la calidad del suelo porque no apliquen medidas de conservación, protección o restauración dictadas por la autoridad;
 
-VI. No observe los límites permitidos de emisiones señalados en los reglamentos y normas ambientales, aplicables a vehículos automotores;
+VI. (DEROGADA, G.G. 29 DE MAYO DE 2008)
 
 VII. Derribe un árbol perteneciente a un área natural protegida o en zonas colindantes con ésta sin la autorización previa de la autoridad competente;
 
@@ -2789,7 +2789,7 @@ IX. Deposite materiales o residuos que obstruyan las redes de drenaje y alcantar
 
 X. No cumpla con las medidas de tratamiento y reuso de aguas tratadas;
 
-XI. Tenga en propiedad o posea y circule con un vehículo por rebasar los límites contenidos en las normas oficiales mexicanas y en los criterios y normas técnicas estatales de conformidad con la constancia respectiva;
+XI. (DEROGADA, G.G. 29 DE MAYO DE 2008)
 
 XII. Realice actividades que puedan afectar considerablemente la calidad del suelo por que no aplique las medidas de conservación, protección, restauración y recuperación dictadas por la autoridad correspondiente;
 
@@ -2811,9 +2811,19 @@ Además de las sanciones que se establecen en las fracciones anteriores se hará
 
 Se harán acreedores a la incautación por parte de la autoridad de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas o los medios de transporte utilizados por las personas físicas o jurídicas colectivas que incurran en los supuestos previstos en el artículo 2.266 de este Libro.
 
+> <small>(REFORMADO, G.G. 29 DE MAYO DE 2008)</small>
+
 ###### Artículo 2.
 
-265. Al propietario o poseedor de un vehículo automotor, que no verifique dentro del período determinado se hará acreedor a una multa de veinte días de salario mínimo vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción.
+265. A los propietarios o poseedores de vehículos automotores que infrinjan las disposiciones que emita la Secretaría para realizar la verificación periódica o rebasen los límites permisibles de emisiones contaminantes, se sancionarán de la siguiente manera:
+
+l. Se impondrá una multa de veinte días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a quien no verifique dentro del periodo determinado, o no porte el holograma correspondiente;
+
+II. Se sancionará con el pago de multa equivalente a veinticuatro días de salario mínimo general vigente en el área geográfica que corresponda y el retiro de una placa de circulación al momento de cometer la infracción, cuando rebase los límites máximos permisibles contenidos en las normas oficiales mexicanas y en los criterios y normas técnicas estatales de conformidad con la constancia respectiva; así mismo el propietario o poseedor del vehículo contará con el plazo de treinta días naturales a partir de la sanción impuesta, para efectuar a la unidad las reparaciones mecánicas correspondientes para estar en condiciones de verificarla;
+
+III. En el caso de que no se realice la reparación y verificación en el plazo establecido en la fracción anterior, se hará acreedor a una multa adicional de cuarenta días de salario mínimo general vigente en el área geográfica que corresponda y se le otorgará un nuevo plazo de treinta días naturales a partir de la aplicación de la sanción anterior, para efectuar la reparación y verificación necesaria;
+
+IV. Si se reincide en la omisión para llevar a cabo la reparación y verificación en el plazo concedido en la fracción anterior, se hará acreedor a una multa adicional de ciento sesenta días de salario mínimo general vigente en el área geográfica que corresponda, así como el retiro de la segunda placa de circulación.
 
 ###### Artículo 2.
 
@@ -2979,11 +2989,9 @@ I. Clausura total y definitiva de la obra o actividad cuando ésta requiera auto
 
 II. Clausura temporal, total o parcial de la obra o actividad en caso de incumplimiento de los requisitos y condiciones establecidos en la autorización en materia de impacto ambiental hasta que los mismos se cumplan;
 
-III. Retiro de la circulación y remisión de los vehículos respectivos a los depósitos autorizados durante veinticuatro horas:
+> <small>(REFORMADA, G.G. 29 DE MAYO DE 2008)</small>
 
-a) En caso de incumplimiento a las limitaciones establecidas por las autoridades competentes para la circulación de vehículos automotores.
-
-b) Cuando no se acate lo establecido en los programas, mecanismos o disposiciones para disminuir la emisión de contaminantes provenientes de vehículos automotores ostensiblemente contaminantes.
+III. Retiro de la circulación y remisión de los vehículos respectivos a los depósitos autorizados durante veinticuatro horas en caso de incumplimiento a las limitaciones establecidas por las autoridades competentes para la circulación de vehículos automotores;
 
 IV. Revocación de las autorizaciones otorgadas por la Secretaría competente de conformidad con el presente Código en caso de:
 
@@ -3591,7 +3599,7 @@ Los ingresos del organismo y los productos e instrumentos financieros autorizado
 
 ## TÍTULO TERCERO. DE LA POLITICA ESTATAL EN MATERIA FORESTAL
 
-### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLlTICA FORESTAL
+### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA FORESTAL
 
 ###### Artículo 3.
 
@@ -7392,3 +7400,9 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente 
 CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
 
 QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a lo establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
+
+G.G. 29 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
