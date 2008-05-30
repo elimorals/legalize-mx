@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2007-12-18"
+last_updated: "2008-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 2008.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -176,7 +176,11 @@ XII.- La información relativa a las condiciones, recursos y servicios de salud 
 
 XIII.- La educación para la salud;
 
-XIV.- La orientación y vigilancia en materia de nutrición;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2008)</small>
+
+XIV.- La prevención, orientación, control y vigilancia en materia de nutrición, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
 XV.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -2344,7 +2348,7 @@ Se prohibe la introducción o el transporte por el territorio nacional de animal
 
 ### CAPITULO III. Programa Contra el Tabaquismo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 158.
 
@@ -2634,31 +2638,23 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 ### CAPITULO XI. Tabaco
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTICULO 188.
 
-La Secretaría de Salud, los gobiernos de las entidades federativas y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
-
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2000)</small>
-
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos y la prohibición de fumar en el interior de los edificios públicos propiedad del gobierno federal, en los que alberguen oficinas o dependencias de la Federación y en aquellos en los que se presten servicios públicos de carácter federal, con excepción de las áreas restringidas reservadas en ellos para los fumadores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 189.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas, y
-
-II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 190.
 
-En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el tabaquismo, promoverá y organizará servicios de orientación y atención a fumadores que deseen abandonar el hábito y desarrollará acciones permanentes para disuadir y evitar el consumo de tabaco por parte de niños y adolescentes.
-
-La coordinación en la adopción de medidas en los ámbitos federal y local se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
 ### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
@@ -3970,49 +3966,25 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 ###### ARTICULO 275.
 
-Para los efectos de esta Ley, con el nombre de tabaco se designa a la planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para fumar, masticar o aspirar.
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 276.
+###### ARTICULO 276.
 
-En las etiquetas de los empaques y envases en que se expenda o suministre tabaco, además de lo establecido en las normas oficiales mexicanas correspondientes, deberán figurar en forma clara y visible leyendas de advertencia escritas con letra fácilmente legible con colores contrastantes, sin que se invoque o haga referencia a alguna disposición legal, con un tamaño equivalente al veinticinco por ciento por lo menos en cualquiera de las caras frontales o traseras de las cajetillas, en adición a una leyenda de advertencia en una de las caras laterales de las cajetillas, las cuales se alternarán con los contenidos siguientes:
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-I.- Dejar de fumar, reduce importantes riesgos en la salud;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Fumar es causa de cáncer y enfisema pulmonar, y
+###### ARTICULO 277.
 
-III.- Fumar durante el embarazo, aumenta el riesgo de parto prematuro y de bajo peso en el recién nacido.
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-Las etiquetas de los empaques y envases en que se expenda o suministre tabaco contendrán una inserción perfectamente visible en una de sus caras, con mensajes para orientar al fumador hacia programas de tratamiento para dejar de fumar.
-
-Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el uso de las leyendas y mensajes a que se refiere este artículo.
-
-La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Federación el acuerdo mediante el cual podrán establecerse otras leyendas precautorias, así como las disposiciones para su aplicación y utilización.
-
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
-
-###### Artículo 277.
-
-En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a menores de edad.
-
-No se venderán o distribuirán cigarros a los consumidores en empaques que contengan menos de catorce cigarros, cigarros sueltos o tabaco picado en bolsas de menos de diez gramos.
-
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
-
-Por razones de orden público e interés social, no se venderán o distribuirán cigarrillos en farmacias, boticas, hospitales, ni escuelas de nivel preescolar hasta bachillerato o preparatoria.
-
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2004)</small>
-
-Artículo 277 bis.- Las unidades hospitalarias y clínicas del sistema nacional de salud, deberán contar con áreas en donde se prohíba el consumo de tabaco. Se consideran como tales las de atención médica, auditorios, aulas y zonas de peligro para la seguridad laboral y colectiva, así como los sitios de trabajo de ambiente cerrado.
-
-La Secretaría de Salud en su caso, los Gobiernos de las Entidades Federativas reglamentarán las áreas restringidas para los fumadores.
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 277 Bis.
 
-Las unidades hospitalarias y clínicas del Sistema Nacional de Salud, deberán contar con áreas en donde se prohiba el consumo de tabaco. Se consideran como tales las de atención médica, auditorios, aulas y zonas de peligro para la seguridad laboral y colectiva, así como los sitios de trabajo de ambiente cerrado.
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4118,11 +4090,13 @@ En los casos en que los productos de importación no reúnan los requisitos o ca
 
 El importador de los productos a que se refiere este Título, deberá estar domiciliado en el país y sujetarse a las disposiciones aplicables.
 
-(REFORMADO, D.O.F. 14 DE JUNIO DE 1991) (F. DE E., D.O.F. 12 DE JULIO DE 1991)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 286.
 
-En materia de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias que se utilicen en su elaboración el Secretario de Salud, mediante acuerdo publicado en el Diario Oficial de la Federación, determinará con base en los riesgos para la salud qué productos o materias primas requieren autorización previa de importación.
+En materia de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, así como de las materias que se utilicen en su elaboración, el Secretario de Salud, mediante acuerdo publicado en el Diario Oficial de la Federación, determinará con base en los riesgos para la salud qué productos o materias primas que requieren autorización previa de importación.
 
 > <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -4240,11 +4214,13 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los inválidos, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Comercio y Fomento Industrial, Comunicaciones y Transportes y otras dependencias del Ejecutivo Federal.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 301.
 
-Será objeto de autorización por parte de la Secretaría de Salud, la publicidad que se realice sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de los insumos para la salud, las bebidas alcohólicas y el tabaco; así como los productos y servicios que se determinen en el reglamento de esta ley en materia de publicidad.
+Será objeto de autorización por parte de la Secretaría de Salud, la publicidad que se realice sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de los insumos para la salud, las bebidas alcohólicas, así como los productos y servicios que se determinen en el reglamento de esta Ley en materia de publicidad.
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4314,9 +4290,13 @@ La publicidad no deberá inducir a hábitos de alimentación nocivos, ni atribui
 
 La publicidad de alimentos y bebidas no alcohólicas deberá incluir en forma visual, auditiva o visual y auditiva, según sea para impresos, radio o cine y televisión, respectivamente, mensajes precautorios de la condición del producto o mensajes promotores de una alimentación equilibrada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MAYO DE 2008)</small>
+
 ###### ARTICULO 308.
 
-La publicidad de bebidas alcohólicas y del tabaco deberá ajustarse a los siguientes requisitos:
+La publicidad de bebidas alcohólicas deberá ajustarse a los siguientes requisitos:
 
 I.- Se limitará a dar información sobre las características, calidad y técnicas de elaboración de estos productos;
 
@@ -4340,45 +4320,35 @@ VII.- En el mensaje no podrán participar personas menores de 25 años, y
 
 VIII.- En el mensaje deberán apreciarse fácilmente, en forma visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La Secretaría de Salud podrá dispensar el requisito previsto en la fracción VIII del presente artículo, cuando en el propio mensaje y en igualdad de circunstancias, calidad, impacto y duración, se promueva la moderación en el consumo de bebidas alcohólicas, desaliente el consumo de tabaco especialmente en la niñez, la adolescencia y la juventud, así como advierta contra los daños a la salud que ocasionan el abuso en el consumo de bebidas alcohólicas y el consumo de tabaco.
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+
+La Secretaría de Salud podrá dispensar el requisito previsto en la fracción VIII del presente artículo, cuando en el propio mensaje y en igualdad de circunstancias, calidad, impacto y duración, se promueva la moderación en el consumo de bebidas alcohólicas, especialmente en la niñez, la adolescencia y la juventud, así como advierta contra los daños a la salud que ocasionan el abuso en el consumo de bebidas alcohólicas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
 
 Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el otorgamiento de la dispensa a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 308 bis.- La publicidad de tabaco deberá observar, además de las mencionadas en el artículo 308, los siguientes requisitos:
+###### ARTICULO 308 Bis.
 
-I.- No podrá asociarse a este producto ideas o imágenes atléticas o deportivas y popularidad; ni mostrar celebridades o figuras públicas, o que éstos participen en su publicidad;
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-II.- En el mensaje, no podrán manipularse directa o indirectamente los recipientes que contengan a los productos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- No podrán distribuirse, venderse u obsequiarse, directa o indirectamente, ningún artículo promocional que muestre el nombre o logotipo de productos de tabaco, salvo aquellos que sean considerados como artículos para fumadores. La distribución de muestras de productos de tabaco queda restringida a áreas de acceso exclusivo a mayores de 18 años;
-
-IV.- No podrán distribuirse, venderse u obsequiarse a menores de edad artículos promocionales o muestras de estos productos, y
-
-V.- No deberá utilizar en su producción dibujos animados, personajes virtuales o caricaturas.
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 309.
 
-Los horarios en los que las estaciones de radio y televisión y las salas de exhibición cinematográfica podrán transmitir o proyectar, según el caso, publicidad de bebidas alcohólicas o de tabaco, se ajustarán a lo que establezcan las disposiciones generales aplicables.
+Los horarios en los que las estaciones de radio y televisión y las salas de exhibición cinematográfica podrán transmitir o proyectar, según el caso, publicidad de bebidas alcohólicas, se ajustarán a lo que establezcan las disposiciones generales aplicables.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 309 bis.- La exhibición o exposición de la publicidad de tabaco se sujetará a las siguientes disposiciones:
+###### ARTICULO 309 Bis.
 
-I.- Queda prohibida toda publicidad de tabaco en revistas dirigidas a niños, adolescentes o aquellas con contenidos educativos, deportivos o de salud, no podrán aparecer en portada, contraportada, tercera y cuarta de forros, de revistas, periódicos o cualquier otra publicación impresa; así como su colocación en lugares, páginas o planas adyacentes a material que resulte atractivo para menores de edad;
-
-II.- Queda prohibida toda publicidad de tabaco en radio y televisión. En salas de proyección cinematográfica queda prohibida toda publicidad de tabaco en las proyecciones a las que puedan asistir menores de edad. Queda prohibida toda publicidad de tabaco en Internet a menos y hasta que se disponga de la tecnología para que cada persona que busque acceso al sitio de Internet en el cual dicha publicidad se pretenda trasmitir, provea la verificación de que el usuario o receptor es mayor de edad;
-
-III.- Ninguna publicidad exterior de tabaco podrá situarse a menos de 200 metros de cualquier escuela de educación inicial, jardines de niños, educación especial, primarias, secundarias y nivel medio superior; así como de hospitales, parques recreativos y clubes deportivos, educativos o familiares. Así mismo, no se podrá localizar publicidad en anuncios exteriores que excedan en su tamaño total 35 metros cuadrados, sea de manera individual o en combinación intencional con otra publicidad;
-
-IV.- Queda prohibida toda publicidad de tabaco en las farmacias, boticas, hospitales y centros de salud, y
-
-V.- Queda prohibido patrocinar a través de publicidad de tabaco, cualquier evento en el que participe o asistan menores de edad.
+(DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5562,13 +5532,15 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 421.
 
-Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 276, 277, 277 bis, 306, 308, 308 bis, 309, 309 bis, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
+Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
@@ -6263,3 +6235,17 @@ D.O.F. 18 DE DICIEMBRE DE 2007.
 Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo: La Secretaría de Salud contará con un plazo máximo de 90 días hábiles a partir de la publicación del presente Decreto para emitir las disposiciones reglamentarias respectivas y publicar en el Diario Oficial de la Federación el proyecto de Norma Oficial Mexicana que contenga los lineamientos generales para las instalaciones, operación y buenas prácticas de fabricación.
+
+D.O.F. 30 DE MAYO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los 90 días después de su publicación el Diario Oficial de la Federación.
+
+SEGUNDO. Se emitirán los reglamentos a los que se refiere esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+CUARTO. El gobierno del Distrito Federal, los gobiernos de las entidades federativas y de los municipios, deberán adecuar sus Leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con la presente Ley.
+
+QUINTO. La Secretaría publicará en el Diario Oficial de la Federación las disposiciones para la formulación, aprobación, aplicación, utilización e incorporación de las leyendas, imágenes, pictogramas, fotografías y mensajes sanitarios que se incorporarán en los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de acuerdo a lo establecido en esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Todos los empaques de tabaco fabricados en o importados hacia México deberán exhibir las nuevas advertencias de salud en un plazo de 9 meses contados a partir de la fecha en que la Secretaría publique los diseños para las advertencias sanitarias en el Diario Oficial de la Federación.
