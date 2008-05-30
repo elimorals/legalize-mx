@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-desarrollo-social-del-estado-de-63960"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-04"
-last_updated: "2006-05-04"
+last_updated: "2008-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2008.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el jueves 4 de mayo de 2006.
 
@@ -45,7 +45,9 @@ Las disposiciones del presente reglamento, tienen por objeto proveer en la esfer
 
 Para los efectos de este reglamento, además de las contenidas en la Ley de Desarrollo Social. Estado de México, se entenderá por:
 
-I. Exclusión, Escasa integración institucional causada por cuestiones de género, etnicidad edad o discapacidad y se relaciona con satisfactores sociales básicos como educación, salud, vivienda y alimentación;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2008)</small>
+
+I. Exclusión social, Escasa integración institucional causada por cuestiones de género, etnicidad, edad o discapacidad y se relaciona con satisfactores sociales básicos como educación, salud, vivienda y alimentación;
 
 II. Subcomité, Al Subcomité del COPLADEM que trate los asuntos relativos al Desarrollo Social;
 
@@ -109,9 +111,23 @@ VIII. Verificar de manera permanente, que los programas de desarrollo social, cu
 
 IX. Integrar y promover una cartera de proyectos y programas prioritarios de desarrollo social;
 
-X. Definir los requisitos y lineamientos que deben cumplir las organizaciones de la sociedad civil, para formar parte del Registro Social Estatal; y
+X. Definir los requisitos y lineamientos que deben cumplir las organizaciones de la sociedad civil, para formar parte del Registro Social Estatal; y (sic)
 
-XI. Formular las reglas de operación de los programas de desarrollo social que aplique en la Entidad, así como opinar y autorizar las de aquellos programas que ejecuten las dependencias y organismos auxiliares de la administración pública estatal.
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2008)</small>
+
+XI. Formular las reglas de operación de los programas de desarrollo social estatales que estén a cargo de la Secretaría, así como opinar y autorizar las de aquellos programas que ejecuten otras dependencias y organismos auxiliares de la administración pública estatal, fomentando la equidad de género en el diseño y operación de dichos programas;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2008)</small>
+
+XII. Conjuntar los elementos necesarios para establecer políticas públicas subsidiarias;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2008)</small>
+
+XIII. Informar a la sociedad, a través del Manual Ciudadano, los programas y acciones en torno al desarrollo social; y
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2008)</small>
+
+XIV. Fomentar el respeto de los derechos de todos los sectores de la población y la superación de toda forma de discriminación, violencia y cualquier tipo de abuso.
 
 ###### Artículo 7.
 
@@ -135,9 +151,17 @@ VIII. Informar a la Secretaría, los datos de las organizaciones a las que les o
 
 IX. Integrar y promover una cartera de proyectos y programas prioritarios de desarrollo social;
 
-X. Verificar de manera permanente, que los programas de desarrollo social, cumplan con los objetivos, metas y beneficios para los cuales fueron creados; y
+X. Verificar de manera permanente, que los programas de desarrollo social, cumplan con los objetivos, metas y beneficios para los cuales fueron creados; y (sic)
 
-XI. Establecer mecanismos de concertación, participación y colaboración intermunicipales, para la ejecución de programas y acciones de desarrollo social.
+XI. Establecer mecanismos de concertación, participación y colaboración intermunicipales, para la ejecución de programas y acciones de desarrollo social;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2008)</small>
+
+XII. Informar a la sociedad, a través del Manual Ciudadano, de los programas y acciones en torno al desarrollo social, que implemente el Ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2008)</small>
+
+XIII. Diseñar políticas públicas subsidiarias que ayuden a superar la pobreza en el municipio.
 
 ### CAPÍTULO SEGUNDO. DE LA POLÍTICA DE DESARROLLO SOCIAL EN EL ESTADO DE MÉXICO
 
@@ -149,7 +173,9 @@ I Articular el conjunto de políticas públicas, programas, acciones y recursos 
 
 II. Fortalecer a las dependencias y organismos auxiliares de la administración pública responsables del desarrollo social;
 
-III. Atender a los sectores de la población que viven en situación de inequidad, marginación o pobreza, sin descuidar la promoción del desarrollo como motor estratégico;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2008)</small>
+
+III. Atender a los sectores de la población que viven en situación de inequidad, marginación, pobreza alimentaria, pobreza de capacidades, pobreza patrimonial o exclusión social, sin descuidar la promoción del desarrollo como motor estratégico;
 
 IV. Incluir equitativamente a los diversos grupos y sectores de la sociedad en la promoción del desarrollo;
 
@@ -167,9 +193,11 @@ II. En los programas en materia de desarrollo social que se elaboren a nivel est
 
 III. En los convenios y acuerdos de coordinación, colaboración o concertación que suscriban las autoridades estatales y municipales.
 
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2008)</small>
+
 ###### Artículo 10.
 
-La Secretaría con la participación de los municipios, emitirá los lineamientos técnicos metodológicos para identificar a los grupos o sectores de atención especial con la finalidad de contribuir al cumplimiento de los principios de equidad y equilibrio de la Política de Estado para el desarrollo social.
+La Secretaría con la participación de los municipios, emitirá los lineamientos técnicos y metodológicos para identificar a los grupos o sectores de atención especial con la finalidad de contribuir al cumplimiento de los principios de equidad y equilibrio de la Política de Estado para el desarrollo social, pudiendo tomar como base los criterios emitidos por el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
 ### CAPÍTULO TERCERO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PUBLICIDAD DEL DESARROLLO SOCIAL
 
@@ -209,9 +237,11 @@ VI. Los mecanismos de seguimiento y evaluación; y
 
 VII. Las demás que considere necesarias para el cumplimiento del objeto de la Ley y este Reglamento.
 
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2008)</small>
+
 ###### Artículo 15.
 
-La Secretaría y los ayuntamientos publicarán en el órgano oficial de difusión respectivo, los programas Estatal y Municipal en el ámbito de su competencia, y deberán ponerlos a disposición de la ciudadanía en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+La Secretaría y los ayuntamientos publicarán en el órgano oficial de difusión respectivo, los programas Estatal y Municipal en el ámbito de su competencia, así como sus reglas de operación, y deberán ponerlos a disposición de la ciudadanía en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México, mediante el Manual Ciudadano.
 
 ###### Artículo 16.
 
@@ -226,6 +256,10 @@ Se consideran programas, proyectos y acciones de desarrollo social aquellos orie
 Para garantizar el derecho de todos los ciudadanos a participar y beneficiarse de los programas de desarrollo social, de acuerdo con los principios rectores de la Política Estatal de Desarrollo Social, las dependencias y organismos auxiliares a través de su dependencia coordinadora de sector, serán las responsables de emitir las reglas de operación de cada uno de los programas de desarrollo social que ejecuten, o en su caso, las modificaciones a aquéllas que continúen vigentes, previa autorización de la Secretaría. Los municipios implementarán lo conducente, en el ámbito de su competencia.
 
 Las dependencias y ayuntamientos al elaborar los proyectos de reglas o modificaciones deberán cuidar que éstas sean claras y precisas, que garanticen un acceso equitativo y no discriminatorio a los beneficios de los programas, que propicien la protección del medio ambiente y de los recursos naturales y que posibiliten su accesibilidad sin discriminación, ni exclusión social.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2008)</small>
+
+Los requisitos y acciones para ser beneficiario de cualquiera de los programas sociales implementados por las dependencias, organismos auxiliares y los municipios, serán difundidos a través del Manual Ciudadano, que en su caso, elabore cada una de las entidades normativas y/o ejecutaras correspondientes.
 
 ###### Artículo 19.
 
@@ -253,9 +287,13 @@ X. Emisión de lineamientos para el control y vigilancia;
 
 XI. Criterios de seguimiento y evaluación (interna y externa);
 
-XII. El procedimiento y autoridad responsable de la atención de quejas y denuncias; y
+XII. El procedimiento y autoridad responsable de la atención de quejas y denuncias; y (sic)
 
-XIII. Difusión o publicidad en términos de la Ley.
+XIII. Difusión o publicidad en términos de la Ley;
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2008)</small>
+
+XIV. Además de las establecidas en la fracción IX del artículo 3 de la Ley de Desarrollo Social del Estado de México y las establecidas en otros ordenamientos jurídicos.
 
 ###### Artículo 20.
 
@@ -279,9 +317,11 @@ Para emitir su autorización, se deberá vigilar que el proyecto de reglas inclu
 
 Para asegurar que los programas de desarrollo social que se ejecutan en la entidad o en su caso en el municipio, no se contrapongan, afecten o dupliquen entre sí, la Secretaría, a través de la Dirección General de Programas Sociales, en el ámbito estatal, y su homóloga en el ámbito municipal, deberán llevar un registro automatizado de los programas, que contemple al menos: nombre del programa, dependencia ejecutora, diseño, beneficios, área geográfica de aplicación, población objetivo o beneficiarios y apoyos otorgados.
 
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2008)</small>
+
 ###### Artículo 25.
 
-Las dependencias y los municipios publicarán en el órgano oficial de difusión respectivo, las reglas de operación de los programas de desarrollo social, dentro de los cinco días hábiles posteriores a que obtengan la autorización de la Secretaría y deberán ponerla a disposición de la ciudadanía en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+Las dependencias y los municipios publicarán en el órgano oficial de difusión respectivo, las reglas de operación de los programas de desarrollo social, dentro de los cinco días hábiles posteriores a que obtengan la autorización de la Secretaría y deberán ponerlas a disposición de la ciudadanía en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México e incluirlas en el Manual Ciudadano.
 
 ###### Artículo 26.
 
@@ -303,9 +343,13 @@ La Secretaría dentro de sus atribuciones, podrá proponer a los municipios del 
 
 ### CAPÍTULO QUINTO. DEL FONDO SOCIAL
 
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2008)</small>
+
 ###### Artículo 30.
 
-El fondo de contingencia social se financiará con el monto que establezca la Legislatura Local, y se distribuirá y aplicará a las zonas afectadas por los fenómenos económicos o presupuestarios imprevistos en el ejercicio fiscal.
+El fondo de contingencia social se financiará con el monto que se establezca en el Presupuesto de Egresos del Gobierno del Estado de México que apruebe la Legislatura Local, y se distribuirá y aplicará a las zonas afectadas por contingencias sociales, fenómenos económicos o presupuestarios imprevistos en el ejercicio fiscal.
+
+Las reglas de operación a las que quedará sujeta la distribución y aplicación del fondo de contingencia social, serán elaboradas por la Secretaría de Desarrollo Social, en un término de tres días contados a partir de la presentación de la contingencia social, fenómeno económico y/o presupuestal imprevistos, mismas que serán publicadas en el periódico oficial "Gaceta del Gobierno".
 
 En caso de no presentarse fenómenos económicos o presupuestarios imprevistos durante el ejercicio fiscal, se podrá solicitar a la Legislatura, autorización para su aplicación en programas de desarrollo social prioritario, en el siguiente ejercicio fiscal.
 
@@ -491,11 +535,15 @@ IX. Otros.
 
 ### CAPÍTULO OCTAVO. DE LOS BENEFICIARIOS
 
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2008)</small>
+
 ###### Artículo 41.
+
+Cada uno de los programas sociales deberá contar con un padrón de beneficiarios permanentemente actualizado.
 
 Para la integración de los padrones de beneficiarios, las dependencias y organismos de la administración pública estatal que realicen programas de desarrollo social deberán:
 
-I. Observar los lineamientos generales para la integración y actualización que emita la Secretaría;
+I. Observar las reglas de operación para la integración y actualización que emita la Secretaría;
 
 II. En cumplimiento al Convenio de Coordinación de Desarrollo Social vigente, establecer mecanismos de cooperación con las autoridades que ejecuten programas de desarrollo social, a efecto de integrar un padrón único de beneficiarios; y
 
@@ -505,9 +553,13 @@ III. Remitir a la Secretaría, dentro de los cinco días hábiles siguientes al 
 
 Para la determinación de lineamientos y requisitos para la integración y actualización del padrón de beneficiarios, los ayuntamientos por conducto de las unidades administrativas encargadas del desarrollo social a nivel municipal, realizarán las siguientes acciones:
 
-I. Presentar al cabildo a más tardar el 30 de noviembre de cada año, los lineamientos generales para la integración y actualización del padrón de beneficiarios de los programas municipales para su autorización y posterior publicación en el medio de difusión oficial;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2008)</small>
 
-II. Solicitar a la Secretaría, la capacitación que requieran para llevar a cabo las actividades tendientes a la emisión de lineamientos generales e integración de su padrón de beneficiarios;
+I. Presentar al cabildo a más tardar el 30 de noviembre de cada año, las reglas de operación para la integración y actualización del padrón de beneficiarios de los programas municipales para su autorización y posterior publicación en el medio de difusión oficial;
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2008)</small>
+
+II. Solicitar a la Secretaría, la capacitación que requieran para llevar a cabo las actividades tendientes a la emisión de reglas de operación e integración de su padrón de beneficiarios;
 
 III. En cumplimiento al Convenio de Coordinación de Desarrollo Social vigente, establecer mecanismos de cooperación con las autoridades que ejecuten programas de desarrollo social, a efecto de integrar un padrón único de beneficiarios;
 
@@ -519,11 +571,15 @@ V. Las demás que sean necesarias para el cumplimiento de la Ley y este Reglamen
 
 Para la administración y actualización de los padrones de beneficiarios, la Secretaría, realizará las siguientes acciones:
 
-I. Emitir a más tardar el 30 de noviembre de cada año, los lineamientos generales para la integración actualización del padrón de beneficiarios;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2008)</small>
+
+I. Emitir a más tardar el 30 de noviembre de cada año, las reglas de operación para la integración y actualización del padrón de beneficiarios;
 
 II. Solicitar a las dependencias y organismos de la administración pública estatal y a los municipios del Estado, dentro de los cinco días previos al término de cada trimestre, el padrón de beneficiarios de los programas de desarrollo social que aplican en la entidad, en medio impreso y magnético;
 
-III. Asesorar a los ayuntamientos de la entidad, que lo soliciten, en las actividades tendientes a la emisión de lineamientos generales e integración de su padrón de beneficiarios;
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2008)</small>
+
+III. Asesorar a los ayuntamientos de la entidad, que lo soliciten, en las actividades tendientes a la emisión de las reglas de operación e integración de su padrón de beneficiarios;
 
 IV. En cumplimiento al Convenio de Coordinación de Desarrollo Social vigente, establecer mecanismos de cooperación con las autoridades que ejecuten programas de desarrollo social, a efecto de integrar un padrón único de beneficiarios;
 
@@ -806,3 +862,15 @@ El SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 30 DE MAYO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del
+
+Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
