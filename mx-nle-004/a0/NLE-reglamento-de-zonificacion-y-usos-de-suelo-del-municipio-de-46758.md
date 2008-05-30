@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-467
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-16"
-last_updated: "2008-04-16"
+last_updated: "2008-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACION Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 31 de octubre de 2005.
 
@@ -1859,49 +1859,61 @@ Las notarios públicos, al autorizar actos o contratos relativos a lotes pertene
 
 ### CAPITULO III. DE LAS LICENCIAS PARA FRACCIONAMIENTOS HABITACIONALES DE ALTA DENSIDAD DE URBANIZACION INMEDIATA
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 160.
 
 Los fraccionamientos habitacionales de alta densidad de urbanización inmediata se distribuyen en 3 zonas o áreas que a continuación se describen:
 
 ZONA NORTE
 
-Nor-Este Camino a Piedras Blancas a colindar con Carretera a San Antonio.
+Nor-Este Camino a Piedras Blancas a colindar con Carretera a San Antonio
 
-Sur-Este Calle 5 de Mayo entre Calle Jiménez y Camino a Piedras Blancas.
+Sur-Este Calle 5 de Mayo entre Calle Jiménez y Camino a Piedras Blancas
 
-Sur-Oeste Calle Jiménez entre la Calle 5 de Mayo y Camino a San Antonio.
+Sur-Oeste Calle Jiménez entre la calle 5 de Mayo y Camino a San Antonio
 
 Nor-Oeste Carretera a San Antonio entre Calle Jiménez y Camino a Piedras Blancas.
 
 ZONA SUR “A”
 
-Nor-Oeste Calle Simón Bolívar entre Carretera Nacional y Calle Zuazua.
+Nor-Oeste Calle Simón Bolivar entre Carretera Nacional y Calle Zuazua
 
-Nor-Este Calle Zuazua entre Calle Simón Bolívar y Calle Juana Zapata, con un quiebre al Sur hasta la Calle Pablo C. Olmelas a colindar con Rio Ramos.
+Nor-Este Calle Zuazua entre Calle Simón Bolivar y Calle Juana Zapata, con un quiebre al Sur hasta la Calle Pablo C. Olmelas a colindar con Río Ramos
 
-Sur-Este Rio Ramos entre Carretera Nacional y Calle Pablo C. Omelas.
+Sur-Este Río Ramos entre Carretera Nacional y Calle Pablo C. Omelas
 
-Sur-Oeste Carretera Nacional entre Calle Simón Bolívar y Rio Ramos.
+Sur-Oeste Carretera Nacional entre Calle Simón Bolívar y Rio Ramos
 
 ZONA SUR “B” POLIGONO 1
 
-Nor-Oeste Camino al Cerrito entre Fraccionamiento Residencial Los Encinos y Camino denominado N° 9.
+Nor-Oeste Camino al Cerrito entre Fraccionamiento Residencial Los Encinos y Camino denominado No. 9
 
-Nor-Este Camino denominado N° 9 entre Camino al Cerrito y Arroyo Mireles.
+Nor-Este Camino denominado No. 9 entre Camino al Cerrito y Carretera al Fraile
 
-Sur-Oeste Fraccionamiento Residencial Los Encinos entre Arroyo Mireles y Camino al Cerrito.
+Sur-Oeste Colinda con el Fraccionamiento Residencial Los Encinos y en parte con el Polígono 2 Sur B entre Carretera al Fraile y Camino al Cerrito
 
-Sur-Este Arroyo Mireles entre Fraccionamiento Los Encinos y Camino denominado N° 9.
+Sur-Este Carretera al Fraile entre Fraccionamiento Los Encinos y Camino denominado No. 9
 
 ZONA SUR “B” POLIGONO 2
 
-Nor-Oeste Arroyo Mireles entre Calle Zuazua y Sendero Existente.
+Nor-Oeste Arroyo Mireles entre Calle Zuazua y Sendero Existente
 
-Nor-Este Sendero Existente entre Arroyo Mireles y Carretera al Fraile.
+Nor-Este Sendero Existente entre Arroyo Mireles y Carretera al Fraile
 
-Sur-Este Carretera al Fraile entre Sendero Existente y Calle Zuazua.
+Sur-Este Carretera al Fraile entre Sendero Existente y Calle Zuazua
 
-Sur-Oeste Calle Zuazua entre Carretera al Fraile y Arroyo Mireles.
+Sur-Oeste Calle Zuazua entre Carretera al Fraile y Arroyo Mireles
+
+ZONA SUR “B” POLIGONO 3
+
+Nor-Oeste Camino al Cerrito entre Camino No. 9 y Camino No. 7 (siguiendo la línea imaginaria)
+
+Nor-Este Camino No. 7 (siguiendo la línea imaginaria), entre Camino al Cerrito y Carretera al Fraile
+
+Sur-Oeste Camino No. 9 entre Carretera al Fraile y Camino al Cerrito
+
+Sur-Este Carretera al Fraile entre Camino No. 7 (siguiendo la línea imaginaria) y Camino No. 9
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2008)</small>
 
@@ -2358,3 +2370,9 @@ P.O. 16 DE ABRIL DE 2008.
 > <small>[N. DE E. PARTE FINAL DEL ACUERDO DE “MODIFICACIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PUBLICA MUNICIPAL DE ALLENDE. N.L. Y; REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, N.L.”.]</small>
 
 Cabe señalar que las modificaciones aprobadas a este Reglamento de Zonificación y Usos de Suelo del Municipio de Allende, N.L. entrarán en vigor al día siguiente de su publicación en Periódico oficial del Estado y en la Gaceta Municipal.
+
+P.O. 30 DE MAYO DE 2008.
+
+> <small>[N. DE E. PARTE FINAL DEL ACUERDO DE “MODIFICACIÓN AL REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, N.L.”.]</small>
+
+La modificación y adición aprobadas a este Reglamento de Zonificación y Usos de Suelo de este Municipio de Allende, N.L. entrarán en vigor al día siguiente de su publicación en Periódico oficial del Estado y en la Gaceta Municipal.
