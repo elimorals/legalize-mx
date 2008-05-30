@@ -4,7 +4,7 @@ identifier: "GRO-ley-sobre-el-sistema-estatal-de-asistencia-social-numero-332-51
 country: "mx"
 rank: "ley"
 publication_date: "1986-07-15"
-last_updated: "1987-05-25"
+last_updated: "2008-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NUMERO 332
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de julio de 1986.
 
@@ -305,7 +305,9 @@ La Junta de Gobierno contará con un Secretario Técnico, designado por la misma
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I.- Representar al Organismo con las facultades que establezcan las Leyes para actos de domino, de administración y para pleitos y cobranzas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2008)</small>
+
+I.- Otorgar al Director General facultades generales para actos de administración y dominio, para pleitos y cobranzas para la defensa del Organismo, así como la facultad para delegar poderes generales y/o especiales en materia de administración y representación laboral, en servidores públicos subalternos o terceras personas, con facultades para absolver posiciones sin que se pierda por ello la posibilidad de su ejercicio directo por parte del Director General;
 
 II.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
@@ -357,9 +359,15 @@ VI.- Plantear, dirigir y controlar el funcionamiento del Organismo con sujeción
 
 VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del organismo;
 
-VIII.- Actuar en representación del Organismo con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2008)</small>
 
-IX.- Las demás que sean necesarias para el ejercicio de las anteriores.
+VIII.- Representar al Organismo con facultades generales para actos de administración y dominio, para pleitos y cobranzas, así como, para delegar poderes generales y/o especiales en materia de administración y representación laboral, en servidores públicos subalternos o terceras personas, con facultades para absolver posiciones.
+
+Para ejercer actos de dominio requerirá de la autorización de la Junta de Gobierno; y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2008)</small>
+
+IX.- Delegar las demás que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 31º.
 
@@ -391,9 +399,11 @@ El Gobierno del Estado y el Organismo, conforme a sus respectivos ámbitos de co
 
 El Organismo emitirá opinión sobre el otorgamiento de subsidios a instituciones públicas o privadas que actúen en el campo de la asistencia social.
 
-###### ARTICULO 36º.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2008)</small>
 
-Las relaciones de trabajo entre este organismo y sus trabajadores se regirán por el Estatuto de los Trabajadores al Servicio del Estado, de los Municipios y de los organismo (sic) Públicos Coordinados y Descentralizados del Estado de Guerrero.
+###### ARTICULO 36°.
+
+Las relaciones de trabajo entre este Organismo y sus trabajadores se regirán por lo dispuesto en el Apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO TERCERO. DE LA COORDINACION, CONCERTACION E INDUCCION
 
@@ -514,3 +524,9 @@ La presente Reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 En un lapso no mayor de 30 días el C. Gobernador Constitucional del Estado Libre y Soberano de Guerrero, designará a los miembros del Patronato del Sistema Estatal para el desarrollo Integral de la Familia.
+
+P.O. 30 DE MAYO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. - Remítase al Titular del Poder Ejecutivo Estatal para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
