@@ -4,7 +4,7 @@ identifier: "COL-ley-de-coordinacion-fiscal-del-estado-de-colima-44756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-23"
-last_updated: "2005-04-23"
+last_updated: "2008-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de abril de 2005.
 
@@ -35,7 +35,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN II Y 39, DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-...
+........
 
 Por lo anteriormente expuesto se expide el siguiente:
 
@@ -101,13 +101,19 @@ Para efectos de la presente Ley, son participaciones las asignaciones que corres
 
 Los municipios, además de las participaciones federales establecidas en la presente Ley, recibirán directamente de la Federación las relativas al artículo 2o. A, fracciones I y II de la Ley de Coordinación Fiscal, en los términos establecidos en dicho ordenamiento.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 4º.
 
-De las participaciones federales que correspondan al Estado, la Secretaría de Finanzas determinará los montos financieros a distribuir a los municipios, de conformidad con los Fondos que la Ley de Coordinación Fiscal establezca, en las proporciones que se señalan en el artículo 6º de la presente Ley y conforme a los factores de distribución aprobados por las instancias correspondientes.
+De las participaciones federales que correspondan al Estado, la Secretaria de Finanzas determinará los montos financieros a distribuir a los municipios, de conformidad con los Fondos que la Ley de Coordinación Fiscal establezca, en las proporciones que se señalan en los artículos 6° y 7° de la presente Ley y conforme a los factores de distribución aprobados por las instancias correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 5º.
 
-El Congreso por conducto de la Contaduría Mayor de Hacienda, revisará y dictaminará sobre los cálculos de participaciones, vigilando el estricto cumplimiento tanto de lo dispuesto en la Ley de Coordinación Fiscal como en la presente.
+El Congreso por conducto de la Contaduría Mayor de Hacienda, revisará y dictaminará anualmente sobre los cálculos de participaciones, vigilando el estricto cumplimiento tanto de lo dispuesto en la Ley de Coordinación Fiscal como en la presente, debiendo informar a la Comisión de Hacienda del propio Congreso y a la Asamblea, a más tardar el día último del mes de abril.
+
+En caso de existir observaciones por parte de la Contaduría Mayor de Hacienda sobre el procedimiento, cifras, cálculo y determinación de los factores de distribución, la Asamblea estará obligada a reponer el procedimiento de cálculo a más tardar en 30 días posteriores a la fecha de notificación.
 
 ###### ARTÍCULO 6º.
 
@@ -119,31 +125,49 @@ II. El 22 por ciento como mínimo de las cantidades que el Estado reciba por con
 
 III. El 20 por ciento como mínimo de las cantidades que el Estado recaude por concepto de participaciones del Impuesto Sobre Automóviles Nuevos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto, de acuerdo a la Ley de Coordinación Fiscal;
 
-IV. El 20 por ciento como mínimo de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
 
-V. El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la misma Ley.
+IV. El 20 por ciento como mínimo de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos, cuando la Federación participe al Estado con el 100 por ciento de este impuesto;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
+
+V. El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal en atención a lo dispuesto por la misma Ley; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2008)</small>
+
+VI. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones del Fondo de Fiscalización, de acuerdo a la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 7º.
 
-El Estado, a través de la Secretaría de Finanzas, deberá publicar en el Periódico Oficial, el calendario de entrega, montos y estimados de las participaciones federales a que se refiere el artículo anterior, en un plazo no mayor de quince días contados a la conclusión de la publicación que realice la Federación de los mismos datos.
+Además de los conceptos de participaciones enumerados en el artículo anterior, los municipios participarán de un 20 por ciento como mínimo de las cantidades que al Estado le correspondan de la recaudación obtenida por la aplicación de las cuotas previstas en el articulo 2o-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, cuando tenga celebrado convenio de colaboración con la Federación para la administración de dichas cuotas, en los términos del articulo 4o.-A, fracción I de la Ley de Coordinación Fiscal.
 
-Asimismo, la Secretaría de Finanzas independientemente de la publicación a que se refiere el párrafo anterior, proporcionará a cada uno de los municipios, por escrito, el monto anual estimado de sus participaciones federales.
+Los recursos que reciban los municipios en términos de este articulo, deberán destinarse exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana y, por lo menos, el 12.5 por ciento a programas para la protección y conservación ambiental.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 8º.
 
-En caso de que el Estado perciba ingresos de las Reservas de Contingencia o de Compensación a que se refiere la Ley de Coordinación Fiscal, destinará recursos para participar a sus municipios, en una cantidad equivalente a la proporción que represente el conjunto de participaciones municipales, en relación al total de las que reciba el Estado por concepto del Fondo General, exceptuando las señaladas en el artículo 2-A, fracciones I y II de la Ley de Coordinación Fiscal.
+El Estado, a través de la Secretaria de Finanzas, deberá publicar anualmente en el Periódico Oficial, el calendario de entrega, montos y estimados de las participaciones federales a que se refiere el artículo anterior, así como porcentajes, fórmulas y variables utilizadas en un plazo no mayor de quince días contados a partir de la publicación que realice la Federación de los mismos datos. También deberá publicar trimestralmente el importe de las participaciones entregadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 9º.
 
-Los factores que deberán aplicarse para la distribución de los montos a cada municipio de las participaciones federales a que se refiere el artículo 6º de esta Ley, se determinarán de acuerdo a lo siguiente:
+Los factores que deberán aplicarse para la distribución de los montos a cada municipio de las participaciones federales a que se refieren los artículos 6° y 7° de esta Ley, se determinarán de acuerdo a lo siguiente:
 
-I. Con cada uno de los Fondos señalados en las fracciones de I a IV :
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
+
+l. Para los fondos a los que se refiere el artículo 6° de la presente Ley:
 
 a) Monto de Garantía. Los municipios tendrán derecho a recibir, por lo menos, un monto igual de participaciones a las recibidas en el ejercicio inmediato anterior de los Fondos distribuibles a que se refiere esta fracción, siempre y cuando el monto total estimado de cada uno de los Fondos a repartir en el ejercicio actual sea igual o mayor que el monto total distribuido entre ellos en el ejercicio anterior, con cifras a la fecha de cierre.
 
 b) Distribución del Excedente. El monto de la diferencia positiva resultante de restar el total repartido a los municipios en el ejercicio inmediato anterior al total estimado para el ejercicio actual (incremento), se distribuirá aplicando el siguiente procedimiento:
 
-1. Para el caso señalado en el numeral 2, párrafo B, del presente artículo, participarán en la distribución del incremento, sólo aquellos municipios que hayan aumentado su recaudación de ingresos propios, comparando los dos ejercicios anteriores al actual; entendiendo por ingresos propios los conceptos de impuestos, derechos (sin incluir los derechos por consumo de agua), productos y aprovechamientos, recaudados por los municipios.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
+1. Para el caso señalado en el numeral 2, párrafo B, de la presente fracción, participarán en la distribución del incremento, sólo aquellos municipios que hayan aumentado su recaudación de ingresos propios, comparando los dos ejercicios anteriores al actual; entendiendo por ingresos propios los conceptos de impuestos, derechos (Incluyendo los derechos por consumo de agua), productos y aprovechamientos, en los términos del Reglamento respectivo, que hayan recaudado los municipios y los organismos operadores de agua potable.
 
 2. El reparto del incremento a distribuir para cada municipio, se calculará atendiendo a lo siguiente:
 
@@ -155,23 +179,15 @@ C. El 8 por ciento restante se distribuirá en proporción inversa al número de
 
 c) Factores de Distribución. La suma de los montos resultantes determinados para cada municipio, de conformidad con los incisos a) y b) a que se refiere esta fracción, se dividirá entre el total estimado a distribuir, obteniéndose, de esta manera, el factor de distribución para el ejercicio actual.
 
-II. Con el Fondo de Fomento Municipal:
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
 
-a) Monto de Garantía. Los municipios tendrán derecho a recibir por lo menos un monto igual de participaciones a las recibidas en el ejercicio inmediato anterior del Fondo de Fomento Municipal, siempre y cuando el monto total estimado a repartir en el ejercicio actual sea igual o mayor que el monto total distribuido entre ellos en el ejercicio anterior, con cifras a la fecha de cierre.
+II. Para el Fondo a que se refiere el artículo 7° de la presente Ley:
 
-b) Distribución del Excedente. El monto de la diferencia positiva resultante de restar el total repartido a los municipios en el ejercicio inmediato anterior al total estimado para el ejercicio actual (incremento), se distribuirá aplicando el siguiente procedimiento:
+a) El 70 por ciento en proporción directa al número de habitantes que tenga cada municipio en el ejercicio de que se trate, atendiendo el último dato que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al inicio de cada ejercicio.
 
-1. Para el caso señalado en el numeral 2, párrafo B, del presente artículo, participarán en la distribución del incremento, sólo aquellos municipios que hayan aumentado su recaudación de ingresos propios, comparando los dos ejercicios anteriores al actual; entendiendo por ingresos propios el impuesto predial y los derechos por consumo de agua, recaudados por los municipios.
+b) El 30 por ciento restante, en razón directa al porcentaje que resulte para cada municipio después de aplicar el procedimiento establecido en el párrafo B, del numeral 2, de la fracción anterior.
 
-2. El reparto del incremento a distribuir para cada municipio, se calculará atendiendo a lo siguiente:
-
-A. El 42 por ciento en proporción directa al número de habitantes que tenga cada municipio en el ejercicio de que se trate, atendiendo el último dato que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al inicio de cada ejercicio.
-
-B. El 50 por ciento en razón directa al porcentaje que resulte para cada municipio después de aplicar el siguiente procedimiento: primero, se obtendrá el crecimiento porcentual de cada municipio en su recaudación, comparando los dos ejercicios anteriores; segundo, se determinará la sumatoria de los porcentajes; y, tercero, se dividirá el porcentaje de cada municipio entre la sumatoria.
-
-C. El 8 por ciento restante se distribuirá en proporción inversa al número de habitantes de conformidad con lo dispuesto en el punto A del presente numeral.
-
-c) Factores de Distribución. La suma de los montos resultantes determinados para cada municipio, de conformidad con los incisos a) y b) a que se refiere esta fracción, se dividirá entre el total estimado a distribuir, obteniéndose, de esta manera, el factor de distribución para el ejercicio actual.
+Entendiéndose por ingresos propios conforme a lo señalado en el numeral 1 del Inciso b) de la fracción anterior.
 
 III. En el caso de que el monto total estimado para el ejercicio actual para cada uno de los Fondos a que se refieren las fracciones I y II de este artículo sea menor al monto total distribuido en el año inmediato anterior, se procederá de acuerdo a lo siguiente:
 
@@ -261,9 +277,11 @@ El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Dema
 
 Con relación a los enteros de los recursos provenientes de los Fondos de Aportaciones a que se refiere el presente Capítulo, no proceden los anticipos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 23.
 
-Las aportaciones con cargo a los Fondos señalados en el artículo 18 de la presente Ley, no serán embargables, no podrán gravarse ni afectarlas en garantía, ni destinarse a fines distintos de los expresados en la Ley de Coordinación Fiscal; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9º del mismo ordenamiento federal.
+Las aportaciones con cargo a los Fondos señalados en el artículo 18 de la presente Ley, no serán embargables, no podrán gravarse ni afectarlas en garantía, ni destinarse a mecanismos de fuentes de pago; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 50 de la Ley de Coordinación Fiscal. Dichas aportaciones y, en su caso, sus rendimientos financieros, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 33 y 37 del mismo ordenamiento legal.
 
 ###### ARTÍCULO 24.
 
@@ -341,6 +359,10 @@ La Asamblea será convocada por el Secretario de Finanzas o, en su caso, cuando 
 
 El Tesorero Municipal que haya sido electo como Copresidente de la Asamblea durará en su encargo un año y en ningún caso podrá ser reelecto para el período inmediato siguiente.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2008)</small>
+
+En caso de que no se realice la elección del nuevo Copresidente al término de un año, el Copresidente en funciones continuará desempeñando dicho cargo hasta que sea electo el nuevo.
+
 ###### ARTÍCULO 40.
 
 El Tesorero Municipal que sea elegido como Copresidente de la Asamblea podrá actuar, en su caso, como representante zonal de los municipios, a nivel nacional, en la Reunión Nacional de Funcionarios Fiscales y en su Comisión Permanente.
@@ -353,11 +375,17 @@ El Director del Instituto fungirá como Secretario de Actas durante las reunione
 
 Serán facultades de la Asamblea:
 
-I. Aprobar el reglamento de funcionamiento de la propia Asamblea, de la Comisión y del Instituto;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
 
-II. Establecer las aportaciones federales ordinarias y extraordinarias que deban cubrir el Estado y los municipios, para el sostenimiento de los organismos citados en la fracción anterior;
+I. Aprobar y expedir el reglamento de funcionamiento de la propia Asamblea, de la Comisión y del Instituto, así como el reglamento para determinar las aportaciones a los organismos de coordinación fiscal;
 
-III. Intervenir como Asamblea General del Instituto y aprobar, en su caso, sus presupuestos, programas e informes de actividades;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
+
+II. Establecer las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los Municipios, para el sostenimiento de los organismos citados en la fracción anterior, atendiendo al techo financiero que fije la Secretaría de Finanzas, previa consulta a la Asamblea;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
+
+III. Intervenir como Asamblea General del Instituto y aprobar sus programas e informes de actividades;
 
 IV. Proponer al Ejecutivo del Estado, por conducto del Secretario de Finanzas y de los Tesoreros Municipales, las medidas que estime convenientes para actualizar y mejorar el Sistema de Coordinación Fiscal;
 
@@ -373,9 +401,21 @@ IX. Vigilar la correcta creación e integración del fondo de participaciones se
 
 X. Elegir a los integrantes de la Comisión;
 
-XI. Nombrar al Director del Instituto, quien durará en su encargo dos años. Cuando la Asamblea lo considere conveniente podrá ser ratificado o removido; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
 
-XII. Las demás que determine la propia Asamblea.
+XI. Nombrar al Director del Instituto, quien durará en su encargo dos años. Cuando la Asamblea lo considere conveniente podrá ser ratificado o removido.
+
+En el supuesto de que no se realice la elección del nuevo Director o, en su caso, la ratificación del que esté en funciones al término de dos años, éste continuará desempeñando dicho cargo hasta que sea ratificado o electo el nuevo;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
+
+XII. Aprobar anualmente, a más tardar el 31 de diciembre, los presupuestos de ingresos y de egresos del Instituto del año siguiente, sujeto al techo financiero que la Secretaría de Finanzas apruebe para el Instituto.
+
+Si en la fecha mencionada no hubiesen sido aprobados los ordenamientos referidos, quedarán en vigor sin modificaciones y en forma provisional, los del año que concluye, hasta en tanto sean aprobados los nuevos presupuestos; y
+
+> <small>(ADICIONADA, P.O 31 DE MAYO DE 2008)</small>
+
+XIII. Las demás que determine la propia Asamblea.
 
 ###### ARTÍCULO 43.
 
@@ -388,6 +428,10 @@ II. Será presidida conjuntamente por el Tesorero Municipal que elija la Asamble
 III. La elección del Copresidente de la Comisión, deberá recaer siempre en un Tesorero Municipal; en su elección no participará funcionario alguno del Gobierno del Estado;
 
 IV. El Tesorero Municipal que funja como Copresidente de la Comisión durará en su encargo un año y en ningún caso podrá ser reelecto para el período inmediato;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2008)</small>
+
+En caso de que no se realice la elección del nuevo Copresidente al término de un año, el Copresidente en funciones continuará desempeñando dicho cargo hasta que sea electo el nuevo;
 
 V. El Director del Instituto participará como Secretario de Actas;
 
@@ -463,9 +507,11 @@ El Instituto contará con el personal especializado que requiera para el cumplim
 
 Las relaciones de trabajo se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
+
 ###### ARTÍCULO 48.
 
-El Instituto desarrollará el programa que anualmente apruebe la Asamblea y sufragará sus gastos con aportaciones del Estado y de los municipios. El primero aportará el 65 por ciento y los segundos, en conjunto, el 35 por ciento de los presupuestos, conforme al factor de distribución de las participaciones federales, aprobado por la Asamblea en cada ejercicio fiscal.
+El Instituto desarrollará el programa que anualmente apruebe la Asamblea y sufragará sus gastos con aportaciones del Estado y de los Municipios. El primero aportará el 65 por ciento y los segundos, en conjunto, el 35 por ciento de los presupuestos, conforme al factor de distribución del Fondo General de Participaciones, aprobado por la Asamblea en cada ejercicio fiscal.
 
 Durante los primeros meses de cada ejercicio fiscal, se aplicará el factor de distribución del ejercicio inmediato anterior, en tanto la Asamblea aprueba los del año de que se trate.
 
@@ -546,3 +592,15 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 13 del mes de abril del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. CUAUHTÉMOC GÓMEZ CABEZUD. Rúbrica. EL SECRETARIO DE FINANZAS, C.P. LUIS MARIO LEON LOPEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MAYO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de junio de 2008, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos de la determinación del factor de distribución a los municipios del Fondo General de Participaciones para el ejercicio fiscal 2008, éste se cuantificará considerando únicamente, en lo que hace al monto de garantía a que se refiere el Articulo 9, fracción I, inciso a) de esta Ley, la parte que corresponde por el 20 por ciento de la Recaudación Federal Participable a que alude el primer párrafo del artículo 2° de la Ley de Coordinación Fiscal, adicionado con la parte que resulte de agregar el resarcimiento de las Bases Especiales de Tributación a que se refiere el séptimo párrafo de la misma Ley.
+
+TERCERO.- Los montos de participación que los municipios hubieran recibido en el ejercicio fiscal 2007 del Fondo General de Participaciones, en la parte proveniente del uno por ciento de la Recaudación Federal Participable que se adicionaba para los Estados coordinados en materia de derechos hasta el mes de diciembre de dicho ejercicio, se considerarán como monto de garantía en el Fondo de Fiscalización, en los términos del artículo 9°, fracción I, inciso a) de la presente Ley.
+
+CUARTO.- Los recursos ministrados a los municipios de enero a mayo de 2008, por concepto de los nuevos fondos a que se refiere el presente dictamen, no sufrirán ajustes por la entrada en vigor de la fórmula de distribución aprobada.
