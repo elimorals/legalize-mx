@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2007-11-10"
+last_updated: "2008-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2008.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -239,9 +239,11 @@ Reunidos los Diputados el día antes indicado y en caso de no haber quórum, los
 
 El Congreso se reunirá en dos períodos ordinarios de sesiones, en los que se ocupará de estudiar, discutir y votar las Iniciativas de leyes que se presenten, así como de resolver toda clase de asuntos de su competencia.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-El primer período iniciará precisamente el primero de octubre y concluirá el treinta de enero del año siguiente; y el segundo dará inicio el primero de abril y concluirá el quince de julio del mismo año. Al abrir y cerrar sus períodos de sesiones lo hará por Decreto.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
+El primer período iniciará precisamente el primero de octubre y concluirá el último día de febrero del año siguiente; y el segundo dará inicio el primero de abril y concluirá el treinta y uno de agosto del mismo año. Al abrir y cerrar sus períodos de sesiones lo hará por Decreto.
 
 No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simple de sus miembros; sesiones que serán públicas a excepción de aquellas que, por la calidad de los asuntos que deban tratarse, su reglamentación prevenga que sean secretas.
 
@@ -393,7 +395,13 @@ XXXIX.- Recibir de la Contaduría Mayor de Hacienda las comprobaciones del gasto
 
 XL.- Conceder pensiones y jubilaciones de acuerdo con el Ejecutivo; otorgar distinciones u honores por servicios distinguidos prestados al Estado, bien se trate personalmente de los merecedores, de sus viudas, de sus hijos o de sus padres;
 
-XLI.- Condonar contribuciones de acuerdo con el Ejecutivo, cuando se considere necesario, justo y equitativo; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
+
+XLI.- Condonar contribuciones de acuerdo con el Ejecutivo, cuando se considere necesario, justo y equitativo;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2008)</small>
+
+XLI BIS.- Para expedir leyes que instituyan Tribunales de lo Contencioso Administrativo, dotados de plena autonomía para dictar sus fallos y que tengan a su cargo dirimir las controversias que se susciten entre las autoridades de la administración pública estatal, de la municipal y de los organismos públicos descentralizados de estas con los particulares, así como para imponer sanciones a los servidores públicos por responsabilidad administrativa que determine la ley, estableciendo normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones; y
 
 XLII.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores y todas las otras concedidas por las Constituciones Federal y Estatal.
 
@@ -1019,13 +1027,13 @@ Los magistrados rendirán su protesta ante el H. Congreso del Estado, en sesión
 
 Durante el ejercicio de su encargo los miembros del Poder Judicial no podrán ejercer la profesión de abogado ni las funciones de notario público, salvo que estén desempeñando el cargo con el carácter de suplente y por un término que no exceda de tres meses.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MAYO DE 2008)</small>
 
 ## TITULO V.
 
 ### CAPITULO II.
 
-De la Jurisdicción en Materia Administrativa.
+De la Jurisdicción en Materia Administrativa y Laboral.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1033,7 +1041,9 @@ De la Jurisdicción en Materia Administrativa.
 
 La función jurisdiccional en materia administrativa, incluyendo la fiscal, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado.
 
-El Tribunal de lo Contencioso Administrativo estará dotado de plena autonomía para dictar sus resoluciones y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten, entre las autoridades del gobierno del Estado y de los organismos descentralizados de éste con los particulares.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
+El Tribunal de lo Contencioso Administrativo estará dotado de plena autonomía para dictar sus resoluciones y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades de la Administración Pública Estatal, de la Municipal y de los Organismos Públicos Descentralizados de éstas con los particulares, así como para imponer sanciones a los servidores públicos por responsabilidad administrativa en los términos que determine la ley, la cual establecerá las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones.
 
 Las resoluciones emitidas en los procedimientos administrativos municipales, señalados en el inciso a), fracción II del artículo 87 de esta Constitución, podrán ser impugnadas por los afectados mediante el recurso de revisión ante el Tribunal de lo Contencioso Administrativo del Estado.
 
@@ -1967,6 +1977,10 @@ XI.- Toda persona tiene derecho a vivir en un medio ambiente seguro, a que se le
 
 XII.- Toda persona que sufra una lesión en sus bienes y derechos, con motivo de la actividad administrativa del Estado y de los Municipios, tendrá derecho a ser indemnizada en forma equitativa, conforme a las bases y procedimientos que establezca la ley. La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa.
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2008)</small>
+
+XIII.- El Estado y los municipios en el ámbito de su competencia, promoverán la participación de la sociedad en el rescate, preservación y difusión de la cultura, lenguas, usos, costumbres y tradiciones indígenas, otorgarán el reconocimiento a las personas o comunidades de origen étnico que residan de manera temporal o permanente en el territorio, e instrumentarán políticas públicas para promover su desarrollo integral y la salvaguarda de sus derechos.
+
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 1° Bis.
@@ -2692,6 +2706,26 @@ SEGUNDO.- La Legislatura local, actualizará las leyes relacionadas con la prese
 TERCERO.- El Ejecutivo del Estado y los Ayuntamientos ajustarán respectivamente los reglamentos internos de las comisiones intermunicipales y municipales de agua potable, drenaje, alcantarillado y saneamiento a la presente reforma en un plazo no mayor al de 120 días, que deberán correr a partir del día siguiente al de su entrada en vigor, incorporando la elaboración y rendición de los informes financieros mensuales y trimestrales, al Congreso del Estado.
 
 CUARTO.- La revisión y fiscalización de las cuentas públicas de las comisiones municipales e intermunicipales de agua potable, drenaje, alcantarillado y saneamiento del ejercicio fiscal 2007, se sujetará a las bases y disposiciones constitucionales aplicables antes de la presente reforma.
+
+P.O. 31 DE MAYO DE 2008.
+
+DECRETO No. 320, POR EL QUE SE ADICIONA LA FRACCION XIII AL ARTICULO 1° DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE MAYO DE 2008.
+
+DECRETO No. 321, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 29 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1° de octubre de 2008, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE MAYO DE 2008.
+
+DECRETO No. 322, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 33, 77 Y LA DENOMINACION DEL CAPITULO II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- En tanto no se expida la Ley Reglamentaria de la fracción XLI Bis, del articulo 33 de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado seguirá conociendo de los juicios de responsabilidad administrativa para sancionar a los servidores públicos que hayan incurrido en faltas administrativas.
 
 ###### ARTÍCULO ÚNICO.
 
