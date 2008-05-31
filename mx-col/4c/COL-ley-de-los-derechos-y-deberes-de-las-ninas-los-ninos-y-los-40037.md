@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-y-deberes-de-las-ninas-los-ninos-y-los-4003
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-19"
-last_updated: "2004-06-19"
+last_updated: "2008-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, LOS NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -139,6 +139,10 @@ La presente Ley es de orden público e interés social, tiene su fundamento en e
 
 El titular del Poder Ejecutivo estatal y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias y con apego a los principios, normas y disposiciones contenidas en el presente ordenamiento, expedirán las normas reglamentarias y tomarán las medidas administrativas necesarias a efecto de dar cumplimiento a esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2008)</small>
+
+Los jueces y tribunales del Poder Judicial del Estado, en el ámbito de su competencia, observarán en sus resoluciones la aplicación de esta Ley sin perjuicio de las normas sustantivas y procesales a las que se encuentran sujetos. En todo caso buscarán las mejores posibilidades del orden jurídico a efecto de proteger y garantizar los derechos y deberes de las niñas, los niños y los adolescentes.
+
 ###### Artículo 3º.
 
 Para los efectos de esta Ley, se entiende por:
@@ -243,9 +247,11 @@ El Gobierno estatal, los Ayuntamientos del Estado y la Comisión de Derechos Hum
 
 A falta de disposición expresa en la Constitución, en los tratados internacionales, en la Constitución del Estado o en esta Ley, se aplicará supletoriamente la legislación civil, y procesal civil; los principios generales que deriven de dichos ordenamientos y, a falta de éstos, a los principios generales del derecho, a lo que no se oponga al objetivo de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2008)</small>
+
 ###### Artículo 8º.
 
-Corresponde al Gobierno estatal, a los organismos descentralizados, y a los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, el de asegurar a las niñas, los niños y los adolescentes la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar tomando en cuenta los derechos y deberes de sus madres, padres y demás ascendientes, tutores, custodios, u otras personas que sean responsables de los mismos.
+Corresponde al Gobierno Estatal, a los Ayuntamientos, a los Organismos Descentralizados de ambos y al Poder Judicial del Estado, en el ámbito de sus respectivas competencias, el de asegurar a las niñas, los niños y los adolescentes la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar tomando en cuenta los derechos y deberes de sus madres, padres y demás ascendientes, tutores, custodios y de cualquier otra persona que sea responsable de los mismos.
 
 De igual manera y sin perjuicio de lo anterior, es deber y obligación de la comunidad a la que pertenecen y en general de todos los integrantes de la sociedad, el respeto y el auxilio en el ejercicio de sus derechos.
 
@@ -825,19 +831,27 @@ III.- Un Secretario Técnico, que será el Coordinador General de Comité;
 
 IV.- Un Secretario Ejecutivo, que será el responsable del Programa sobre los Derechos del Niño del Sistema Estatal para el Desarrollo Integral de la Familia (D.I.F.);
 
-V.- Veintiún Consejerías, que serán los titulares de los cabildos municipales y las Presidentas de los Sistemas Municipales para el Desarrollo Integral de la Familia (D.I.F.) y un representante del Congreso del Estado nombrado por la Comisión de Gobierno Interno y Acuerdos Parlamentarios. En los municipios donde no exista una Presidenta, será el Director o Directora del Sistema Municipal;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2008)</small>
+
+V.- Veintidós Consejerías, que serán los titulares de los Cabildos Municipales y las Presidentas de los Sistemas Municipales para el Desarrollo Integral de la Familia (D.I.F.), un representante del Congreso del Estado nombrado por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y un representante del Poder Judicial del Estado nombrado por el pleno del Supremo Tribunal de Justicia. En los Municipios donde no exista una Presidenta, será el Director o Directora del Sistema Municipal;
 
 VI.- Dieciséis Vocales, que serán un representante:
 
-a).- De las Secretarías General de Gobierno, de Finanzas, de Desarrollo Social, de Salud y Bienestar Social, de Educación y de Cultura del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
+a).- De las Secretarías General de Gobierno, de Finanzas, de Desarrollo Social, de Salud y Bienestar Social, de Educación, de Cultura y de la Juventud del Gobierno del Estado;
 
 b).- De la Procuraduría General de Justicia del Estado;
 
-c).- Del Consejo Tutelar de Menores;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
+c).- Del Instituto Para el Tratamiento de Menores Infractores del Estado de Colima;
 
 d).- Del Instituto Colimense del Deporte;
 
-e).- Del Instituto Colimense de la Juventud;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
+e).- De la Secretaría de la Juventud;
 
 f).- Instituto Colimense de la Discapacidad;
 
@@ -849,7 +863,9 @@ El Comité Estatal, por conducto de su Presidente, podrá invitar a formar parte
 
 Todos los miembros de la Asamblea tendrán derecho a voz y voto.
 
-La Asamblea sesionará en forma ordinaria cada cuatro meses y de manera extraordinaria cuantas veces sea necesario para el cumplimiento de su objeto. Las sesiones se celebrarán con la concurrencia de la mayoría de sus integrantes y sus resoluciones se tomarán por mayoría de votos de los presentes. En caso de no existir Quórum de cada sesión se levantará acta circunstanciada que deberá ser firmada por quien haya presidido la misma conjuntamente con los Secretarios Técnico y Ejecutivo.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+
+La Asamblea sesionará en forma ordinaria cada cuatro meses y de manera extraordinaria cuantas veces sea necesario para el cumplimiento de su objeto. Las sesiones se celebrarán con la concurrencia de la mayoría de sus integrantes y sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo el Presidente de honor o quien lo represente voto de calidad. En caso de no existir Quórum de cada sesión se levantará acta circunstanciada que deberá ser firmada por quien haya presidido la misma conjuntamente con los Secretarios Técnico y Ejecutivo.
 
 Los miembros del Comité Estatal serán suplidos por quienes para el efecto designen a cada uno de los titulares, mediante oficio correspondiente. Los que asistan tendrán voz y voto. No recibirán retribución, emolumento o compensación alguna por el desempeño de este cargo.
 
@@ -1198,3 +1214,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en el Palacio de Gobierno, al día 18 del mes de junio del año dos mil cuatro.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL Estado de Colima".
