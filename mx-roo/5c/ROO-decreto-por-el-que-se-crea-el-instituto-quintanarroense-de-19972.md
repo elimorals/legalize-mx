@@ -4,7 +4,7 @@ identifier: "ROO-decreto-por-el-que-se-crea-el-instituto-quintanarroense-de-1997
 country: "mx"
 rank: "decreto"
 publication_date: "1998-05-15"
-last_updated: "1998-05-15"
+last_updated: "2008-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 DECRETO POR EL QUE SE CREA EL INSTITUTO QUINTANARROENSE DE LA MUJER
 
-TEXTO ORIGINAL.
+N. DE. E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO QUINTANARROENSE DE LA MUJER, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 15 de mayo de 1998.
 
@@ -444,3 +446,17 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2008.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- A la entrada en vigor de la presente Ley, queda sin efecto y se abroga el Decreto Legislativo Número 124 de fecha 28 de abril de 1998.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Cuarto.- El Consejo del Instituto cuenta con un plazo de sesenta días hábiles contados a partir de la publicación del presente Decreto, para la expedición del Reglamento Interior y los Manuales de Organización y Procedimientos.
+
+Articulo Quinto.- El Consejo del Instituto deberá instalarse y entrar en funciones dentro de un plazo de treinta días hábiles contados a partir de la publicación del presente instrumento.
