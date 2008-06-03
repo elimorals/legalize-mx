@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2008-05-16"
+last_updated: "2008-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1281,7 +1281,9 @@ VI. ABUSO CONTRA LA SEGURIDAD PERSONAL. Estando encargado de la custodia o condu
 
 CONCEPTO, LÍMITES Y MODALIDADES DE LA PENA DE PRISIÓN. La pena de prisión consiste en la privación de la libertad corporal del sentenciado y se sujetará a las reglas siguientes:
 
-I. Nunca será menor de tres días ni mayor de sesenta años, excepto cuando se trate de los delitos de terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, secuestro, violación, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo especialmente agravado, cuando concurran con uno o más delitos iguales o distintos, casos en los cuales deberán aplicarse las reglas del concurso, aún y cuando con ello se exceda el máximo señalado.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2008)</small>
+
+I. Nunca será menor de tres días ni mayor de sesenta años, excepto cuando se trate de los delitos de terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, homicidio en contra de personas en función de su actividad dentro del periodismo, secuestro, violación, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo especialmente agravado, cuando concurran con uno o más delitos iguales o distintos, casos en los cuales deberán aplicarse las reglas del concurso, aún y cuando con ello se exceda el máximo señalado.
 
 II. Su cumplimiento, así como los beneficios que supongan la reducción de la condena, se ajustarán a lo dispuesto en el presente Código y en las leyes.
 
@@ -1408,6 +1410,10 @@ II. CIRCUNSTANCIAS ESPECIALES AGRAVANTES:
 14) Cuando el delito se cometió o se procuró la huida, mediante o con el auxilio de uno o más vehículos automotores, con vidrios que por sus características o por otro medio, dificulten o impidan la visión hacia su interior.
 
 15) Cuando el delito se cometió siendo miembro o empleado de alguna corporación policiaca municipal, estatal o federal; o de empresa privada de seguridad con o sin registro. O cuando el agente fue miembro o empleado de alguna de ellas, en cualquier tiempo dentro de los cinco años anteriores a la comisión.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+16) Cuando el delito se cometa en contra de una persona en función de su actividad dentro del periodismo.
 
 ###### ARTÍCULO 73.
 
@@ -2475,7 +2481,7 @@ Las sanciones se aplicarán con independencia de las que resulten aplicables por
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
-ARTÍCULO 272 BIS. AGRAVANTES PARA CIERTOS DELITOS QUE SE REPUTAN COMETIDOS EN ASOCIACIÓN DELlCTUOSA. Se reputarán como cometidos en asociación delictuosa y se aumentarán en una mitad los mínimos y los máximos de las penas de prisión aplicables a los delitos señalados como graves, cuando en su comisión intervengan dos o más personas, aunque las mismas no se encuentren identificadas; siempre que concurra, además, alguna o algunas de las circunstancias siguientes:
+ARTÍCULO 272 BIS.- AGRAVANTES PARA CIERTOS DELITOS QUE SE REPUTAN COMETIDOS EN ASOCIACIÓN DELlCTUOSA. Se reputarán como cometidos en asociación delictuosa y se aumentarán en una mitad los mínimos y los máximos de las penas de prisión aplicables a los delitos señalados como graves, cuando en su comisión intervengan dos o más personas, aunque las mismas no se encuentren identificadas; siempre que concurra, además, alguna o algunas de las circunstancias siguientes:
 
 I. Que en su comisión se hayan utilizado armas de fuego reservadas para uso exclusivo del ejército o explosivos; conforme a lo dispuesto en la Ley Federal de la materia.
 
@@ -3205,7 +3211,7 @@ SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASI
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TIPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
+ARTÍCULO 316 BIS. SANCIÓN Y FIGURA TÍPICA DE ABANDONO DE MUJER GESTANTE EN SITUACIÓN CRITICA. Se aplicará prisión de seis meses a cuatro años, multa y pérdida de derechos familiares, en su caso, al que abandone a una mujer en gestación, a la que ha embarazado en precaria situación económica o de salud, poniendo en grave riesgo al ser humano en formación.
 
 Este delito se perseguirá siempre a petición de parte ofendida.
 
@@ -3348,6 +3354,10 @@ SANCIONES PARA EL HOMICIDIO EN RIÑA. Si el homicidio se comete en riña, se san
 ###### ARTÍCULO 336.
 
 SANCIONES PARA EL HOMICIDIO CALIFICADO. Se aplicará prisión de dieciocho a cincuenta años y multa, a quien cometa homicidio calificado, si sólo se le condena hasta por tres circunstancias calificativas; pero si se le condena por más circunstancias calificativas, la pena máxima de prisión será de sesenta años y multa.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+ARTÍCULO 336 BIS. SANCIONES y FIGURA TÍPICA EQUIPARADA AL DELITO DE HOMICIDIO CALIFICADO. Se aplicaran las mismas penas previstas para el homicidio calificado a quien prive de la vida a una persona en función de su actividad dentro del periodismo.
 
 ### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
 
@@ -4590,3 +4600,9 @@ SEGUNDO. Las presentes reformas entrarán en vigor al tiempo en que lo haga la L
 TERCERO. Las disposiciones que se derogan relativas al perdón o acto equivalente en delitos perseguibles de oficio se podrán aplicar a los Procesos o Averiguaciones Previas iniciados o que se inicien por hechos cometidos bajo su vigencia; en cuanto resulten más benéficas al inculpado o éste las solicite.
 
 CUARTO. Los bienes que se encuentren a disposición del Ministerio Público y las fianzas o cauciones otorgadas ante dicha autoridad, se sujetarán a lo dispuesto en la Ley de Procuración de Justicia de! Estado, a partir de su entrada en vigor.
+
+P.O. 3 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
