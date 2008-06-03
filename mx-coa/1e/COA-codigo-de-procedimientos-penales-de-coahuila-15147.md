@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2008-05-16"
+last_updated: "2008-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -1829,29 +1829,33 @@ XII. Lesiones dolosas gravísimas; con o sin modalidades agravantes.
 
 XIII. Homicidio por razón del parentesco u otras relaciones.
 
-XIV. Secuestro; secuestro equiparado y secuestro simulado; consumados o en grado de tentativa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2008)</small>
 
-XV. Asalto en despoblado o tumultuario.
+XIV. Homicidio en contra de personas en función de su actividad dentro del periodismo.
 
-XVI. Violación, violación equiparada o impropia; en cualquiera de ellas con o sin modalidades.
+XV. Secuestro; secuestro equiparado y secuestro simulado; consumados o en grado de tentativa.
 
-XVII. Atentados al pudor empleando la violencia física.
+XVI. Asalto en despoblado o tumultuario.
+
+XVII. Violación, violación equiparada o impropia; en cualquiera de ellas con o sin modalidades.
+
+XVIII. Atentados al pudor empleando la violencia física.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
+(REFORMADA, P.O. 16 DE MAYO DE 2008) (F. DE E., P.O. 15 DE AGOSTO DE 2008)
 
-XVIII. Robo consumado o en grado de tentativa; siempre y cuando en cualquiera de ellos se emplee violencia o intimidación en las personas para cometerlo; o mientras se comete; o para huir o conservar lo robado. Robo consumado o en grado de tentativa en casa habitada o destinada para habitación. Robo consumado o en grado de tentativa de vehículo automotor. Receptación dolosa de vehículos automotores robados o de sus componentes. Robo que cometan tres o más personas en industria, almacén o comercio. Robo que cometan tres o más personas mediante fractura de cerraduras. Robo agravado o especialmente agravado por cualquier modalidad, en el que intervenga un servidor público o empleado o agente de seguridad privada, se encuentre o no se encuentre registrada la empresa a la que pertenezca, en su caso. Robo en campo abierto por el que se sustraiga un instrumento o máquina de labranza; un equipo de bombeo o accesorios; fertilizantes, alambre o postas utilizados para cercar. Así como los delitos de extorsión y extorsión por sujeto calificado.
+XIX. Robo consumado o en grado de tentativa; siempre y cuando en cualquiera de ellos se emplee violencia o intimidación en las personas para cometerlo; o mientras se comete; o para huir o conservar lo robado. Robo consumado o en grado de tentativa en casa habitada o destinada para habitación. Robo consumado o en grado de tentativa de vehículo automotor. Receptación dolosa de vehículos automotores robados o de sus componentes. Robo que cometan tres o más personas en industria, almacén o comercio. Robo que cometan tres o más personas mediante fractura de cerraduras. Robo agravado o especialmente agravado por cualquier modalidad, en el que intervenga un servidor público o empleado o agente de seguridad privada, se encuentre o no se encuentre registrada la empresa a la que pertenezca, en su caso. Robo en campo abierto por el que se sustraiga un instrumento o máquina de labranza; un equipo de bombeo o accesorios; fertilizantes, alambre o postas utilizados para cercar.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
-XIX. Abigeato de ganado mayor, consumado o en grado de tentativa. También se califica como delitos graves la transportación o posesión de cabezas de ganado mayor objeto de abigeato o de sus vestigios identificables, siempre y cuando en cualquiera de ellos su valor exceda de trescientas veces el salario mínimo; asimismo, cuando en un robo con circunstancias especialmente agravantes, concurra la modalidad de transportación o posesión de las cosas robadas, o estas conductas se den en sí como delito doloso por no tratarse del autor o partícipe en el robo que se cometió en circunstancias especialmente agravantes.
+XX. Abigeato de ganado mayor, consumado o en grado de tentativa. También se califica como delitos graves la transportación o posesión de cabezas de ganado mayor objeto de abigeato o de sus vestigios identificables, siempre y cuando en cualquiera de ellos su valor exceda de trescientas veces el salario mínimo; asimismo, cuando en un robo con circunstancias especialmente agravantes, concurra la modalidad de transportación o posesión de las cosas robadas, o estas conductas se den en sí como delito doloso por no tratarse del autor o partícipe en el robo que se cometió en circunstancias especialmente agravantes.
 
-XX. Fraccionamientos no autorizados.
+XXI. Fraccionamientos no autorizados.
 
-XXI. Administración fraudulenta; fraude; abuso de confianza o cualquier delito equiparado a uno u otro. Siempre y cuando en cualquiera de esos delitos concurran las circunstancias siguientes: 1) Sea continuado. 2) En su conjunto el daño exceda al equivalente de cinco mil salarios mínimos. 3) Los ofendidos sean cinco o más personas.
+XXII. Administración fraudulenta; fraude; abuso de confianza o cualquier delito equiparado a uno u otro. Siempre y cuando en cualquiera de esos delitos concurran las circunstancias siguientes: 1) Sea continuado. 2) En su conjunto el daño exceda al equivalente de cinco mil salarios mínimos. 3) Los ofendidos sean cinco o más personas.
 
-XXII. Despojo que cometa quien induzca, instigue o dirija en su comisión a un grupo de cinco o más personas.
+XXIII. Despojo que cometa quien induzca, instigue o dirija en su comisión a un grupo de cinco o más personas.
 
 Igualmente, se considera delito grave el de tortura; previsto en los artículos tercero, cuarto y quinto de la ley de la materia.
 
@@ -5611,7 +5615,7 @@ Obtenidas las pruebas se dará vista al Ministerio Público, al sentenciado y a 
 
 EFECTOS DE LA DECLARACIÓN DE PRESCRIPCIÓN. Si la resolución declara prescrita la pena, se comunicará a las autoridades que deban hacer cesar la ejecución o los trámites encaminados a ejecutarla.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+AN. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 
 ###### ARTÍCULO 741.
 
@@ -5864,3 +5868,9 @@ SEGUNDO. Las presentes reformas entrarán en vigor al tiempo en que lo haga la L
 TERCERO. Las disposiciones que se derogan relativas al perdón o acto equivalente en delitos perseguibles de oficio se podrán aplicar a los Procesos o Averiguaciones Previas iniciados o que se inicien por hechos cometidos bajo su vigencia; en cuanto resulten más benéficas al inculpado o éste las solicite.
 
 CUARTO. Los bienes que se encuentren a disposición del Ministerio Público y las fianzas o cauciones otorgadas ante dicha autoridad, se sujetarán a lo dispuesto en la Ley de Procuración de Justicia del Estado, a partir de su entrada en vigor.
+
+P.O. 3 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
