@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2007-01-02"
+last_updated: "2008-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -128,6 +128,10 @@ XII.- Migrantes, desplazados o en situación vulnerable;
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ENERO DE 2007)</small>
 
 XIII.- Las demás personas consideradas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+ARTICULO 6° BIS.- Además de los descritos en el artículo anterior, podrán considerarse sujetos de los servicios de asistencia social y otros beneficios sociales a víctimas del delito, a los dependientes de una persona que haya sido asesinada en función de su actividad dentro del periodismo. En este caso las o los cónyuges, concubinos o compañeros civiles supérstites y los descendientes podrán solicitar al Ejecutivo una pensión, la cual podrá otorgarse previo estudio socioeconómico e investigación que establezca elementos que el móvil del homicidio fue en función del desarrollo de la actividad periodística. Dicha pensión se sujetara a las modalidades y términos que establezca el decreto que, en su caso, se emita.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
@@ -1572,3 +1576,9 @@ P.O. 2 DE ENERO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 3 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
