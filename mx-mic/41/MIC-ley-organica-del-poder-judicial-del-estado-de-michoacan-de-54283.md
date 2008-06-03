@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-de-5428
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-02-15"
-last_updated: "2007-11-21"
+last_updated: "2008-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2008.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el jueves 15 de febrero de 2007.
 
@@ -193,9 +193,11 @@ Estas evaluaciones darán lugar al dictamen que se turnará al Congreso con el e
 
 El Supremo Tribunal de Justicia funcionará en Pleno con los magistrados que integran Sala y su Presidente, y bastará la presencia de trece magistrados para que pueda sesionar. El Magistrado electo Consejero no integrará Pleno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2008)</small>
+
 ###### Artículo 15.
 
-Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán una vez por semana, en los términos que fije el reglamento respectivo, y las extraordinarias, cuando lo juzgue necesario el Presidente o lo soliciten por lo menos ocho magistrados.
+Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán una vez por quincena y las extraordinarias, cuando lo juzgue necesario el Presidente o lo soliciten por lo menos ocho magistrados.
 
 Por cada sesión se levantará un acta que firmarán, el Presidente, los magistrados que hubiesen ocurrido a ella y el Secretario General de Acuerdos.
 
@@ -243,9 +245,13 @@ XVI. De las demás que le asignen la Constitución Política del Estado y las le
 
 La resolución de los asuntos se hará conforme lo disponga el Reglamento Interior, de acuerdo al siguiente procedimiento:
 
-I. La presentación al Pleno del proyecto de resolución, deberá ser dentro de los treinta días hábiles siguientes al día que se turne al Magistrado o magistrados relatores; y,
+I. La presentación al Pleno del proyecto de resolución, deberá ser dentro de los treinta días hábiles siguientes al día que se turne al Magistrado o magistrados relatores; y (sic),
 
-II. Las resoluciones se tomarán por mayoría de votos; el Presidente tendrá voto de calidad en caso de empate y los magistrados que disientan podrán formular voto particular, mismo que engrosará la resolución.
+II. Las resoluciones se tomarán por mayoría de votos; el Presidente tendrá voto de calidad en caso de empate y los magistrados que disientan podrán formular voto particular, mismo que engrosará la resolución;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2008)</small>
+
+III. En caso de que el proyecto no fuere aprobado, pero el Magistrado relator acepte las adiciones o reformas propuestas por la mayoría, el mismo redactará la resolución en los términos de la discusión; si no las acepta, se designará a un Magistrado de la mayoría para que la redacte.
 
 ### CAPÍTULO TERCERO. CRITERIOS JURISPRUDENCIALES
 
@@ -585,6 +591,10 @@ IV. Actuario; y,
 
 V. El demás personal que acuerde el Consejo.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+El Secretario de Acuerdos, el Secretario Proyectista y el Actuario de Juzgado tendrán, en lo conducente, las mismas facultades y obligaciones que su homólogo de una Sala.
+
 ###### Artículo 47.
 
 Corresponde a los jueces de Primera Instancia, además de las señaladas por el artículo 89 de la Constitución:
@@ -643,6 +653,10 @@ III. Actuario; y,
 
 IV. El demás personal que acuerde el Consejo.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+El Secretario de Acuerdos y el Actuario tendrán, en lo conducente, las mismas facultades y obligaciones que sus homólogos de un Juzgado de Primera Instancia.
+
 ###### Artículo 55.
 
 Los jueces especializados en adolescentes deberán cumplir con requisitos suficientes de especialización en la materia; conforme a los criterios de formación que establezca el Consejo, además de los señalados por el artículo 88 de la Constitución.
@@ -700,6 +714,10 @@ Los juzgados menores contarán con el personal siguiente:
 I. Un Juez; y,
 
 II. Los demás servidores públicos que determine el Consejo del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+Estos últimos servidores públicos tendrán, en lo conducente, las mismas facultades y obligaciones que sus homólogos de un Juzgado de Primera Instancia.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL CONSEJO
 
@@ -796,6 +814,10 @@ Los juzgados comunales contarán con el personal siguiente:
 I. Un Juez; y,
 
 II. Los demás servidores públicos que determine el Consejo del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+Estos últimos servidores públicos tendrán, en lo conducente, las mismas facultades y obligaciones que sus homólogos de un Juzgado de Primera Instancia.
 
 ## TÍTULO CUARTO. CONSEJO DEL PODER JUDICIAL
 
@@ -1387,7 +1409,9 @@ Son ausencias accidentales cuando el servidor público o empleado no acude a su 
 
 Son ausencias temporales, las motivadas por licencia, suspensión de empleo, vacaciones o incapacidad por enfermedad.
 
-Son ausencias definitivas, las originadas por renuncia, abandono de empleo, destitución o muerte.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2008)</small>
+
+Son ausencias definitivas, las originadas por renuncia, abandono de empleo, destitución, muerte, retiro, jubilación o pensión.
 
 ###### Artículo 127.
 
@@ -1435,9 +1459,11 @@ Cuando la ausencia de un Magistrado exceda de noventa días el Consejo informar�
 
 Tratándose de la ausencia por más de noventa días de uno de sus miembros, el Consejo iniciará el procedimiento correspondiente para que se designe o elija a quien deba sustituirlo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2008)</small>
+
 ###### Artículo 137.
 
-Las ausencias accidentales de los magistrados se suplirán por los secretarios de acuerdos de las salas, quienes estarán facultados para continuar la tramitación de los asuntos, no así para resolver cuestiones incidentales o definitivas, salvo los incidentes de libertad provisional bajo caución. La misma facultad tendrán los secretarios tratándose de ausencias temporales de los magistrados que no excedan de quince días.
+Las ausencias accidentales de los magistrados se suplirán por los secretarios de acuerdos de las salas, quienes estarán facultados para continuar la tramitación de los asuntos, no así para resolver cuestiones incidentales o definitivas, salvo los incidentes de libertad provisional bajo caución y cualquier otro trámite que repercuta directamente sobre la libertad del procesado. La misma facultad tendrán los secretarios, tratándose de ausencias temporales de los magistrados que no excedan de quince días; mientras que- las ausencias definitivas también serán suplidas por los secretarios de acuerdos de las salas, en tanto se hace la elección respectiva, pero en este caso, el Secretario podrá ser autorizado por el Consejo para fallar en definitiva o de manera interlocutoria o incidental.
 
 Para las ausencias temporales de los magistrados que excedan de quince días el Presidente del Supremo Tribunal de Justicia, acordará la distribución de los asuntos entre los magistrados del ramo.
 
@@ -1481,11 +1507,13 @@ VI. Las del actuario, por el Escribiente de mayor antigüedad; y,
 
 VII. Las de los demás servidores públicos del Poder Judicial, por quien designe el Presidente, a propuesta del titular del área.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2008)</small>
+
 ###### Artículo 142.
 
-Si el Secretario que sustituye al Juez es Licenciado en Derecho, podrá ser autorizado por el Pleno para fallar en definitiva; de lo contrario, no dictará resoluciones que pongan fin a la instancia.
+Si el Secretario que sustituye al Juez es Licenciado en Derecho, podrá ser autorizado por el Consejo para dictar resoluciones incidentales y también aquellas que pongan fin a la instancia.
 
-En el caso de que el Secretario no sea Licenciado en Derecho podrá dictar resolución definitiva en los casos de desistimiento y cuando el Ministerio Público formule conclusiones no acusatorias. El Secretario actuará con otro de igual categoría, si lo hubiere; con el actuario, y a falta de éstos, con testigos de asistencia.
+En el caso de que el Secretario no sea Licenciado en Derecho, sólo podrá ser autorizado para dictar resoluciones que pongan fin a la instancia en los casos de desistimiento, perdón del ofendido o de su representante legitimo y cuando el Ministerio Público formule conclusiones no acusatorias. El Secretario actuará con otro de igual categoría, si lo hubiere; con el Actuario y a falta de éstos, con testigos de asistencia.
 
 ###### Artículo 143.
 
@@ -1858,3 +1886,9 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
