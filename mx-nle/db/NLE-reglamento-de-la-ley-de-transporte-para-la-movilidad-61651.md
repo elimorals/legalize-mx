@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-de-transporte-para-la-movilidad-61651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-29"
-last_updated: "2006-11-29"
+last_updated: "2008-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de noviembre de 2006.
 
@@ -1085,7 +1085,39 @@ VI. No vigilar que el o los conductores de sus vehículos cuenten con la licenci
 
 VII. Cualquier otra que implique la prestación irregular y deficiente del servicio público de que se trate de un modo permanente.
 
-La cancelación de una concesión de decretará por el Titular de la Agencia en los términos del Artículo 85 de la Ley y bajo los supuestos del Artículo 84 Fracción III de la Ley.
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2008)</small>
+
+La renovación de las concesiones deberá solicitarse dentro de los noventa días naturales anteriores a la fecha del vencimiento de su vigencia. En caso de que la renovación no hubiere sido solicitada o previa solicitud ésta no hubiere sido concedida, la concesión se extinguirá por vencimiento del plazo y el título se transferirá a favor del Estado, y podrá ser transferido a las personas físicas ó morales que hubieren participado en la última convocatoria y no obtuvieron concesión, mediante sorteo público anunciado y realizado por la Agencia.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2008)</small>
+
+La terminación de las concesiones por cualquiera de las otras causales que contienen los artículos 84 y 67 bis de la Ley se sujetará al siguiente procedimiento:
+
+Se notificará al interesado fundando y motivando la causal de terminación en el domicilio que tenga acreditado en la Agencia, con siete días hábiles de anticipación a la fecha de la audiencia, a fin de que comparezca en fecha y hora determinada, ofrezca pruebas y manifieste lo que a su derecho convenga, enseguida se procederá en un término no mayor de cinco días hábiles a dictar la resolución que corresponda, misma que será notificada personalmente en los términos establecidos para ello en el Código de Procedimientos Civiles vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2008)</small>
+
+Una vez dictada la resolución administrativa que declare la terminación de la concesión, los derechos derivados del título se reintegrarán al Estado con el único objeto de transferirlos a su vez al nuevo concesionario dentro del universo de las personas físicas ó morales que hubieren participado con tal objeto en la última convocatoria y no hubieren obtenido la concesión.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2008)</small>
+
+La cancelación definitiva así como la iniciación del procedimiento de asignación deberán anunciarse públicamente con anticipación, mencionándose los nombres de los participantes, lugar, fecha y hora de la celebración del sorteo público y conforme a sus resultados se asignarán dichas concesiones.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2008)</small>
+
+Tratándose de la terminación de la concesión por la causal de inactividad, se incurrirá en ésta en cualquiera de las siguientes hipótesis:
+
+a) Que la propiedad del vehículo con el que se presta el servicio público no corresponda al titular de la concesión, exceptuándose en los casos de arrendamiento financiero contratados por el titular de la concesión con previa autorización de la Agencia;
+
+b) Que se preste el servicio público en un vehículo distinto al que corresponde a la concesión;
+
+c) Que las placas correspondientes a la concesión se utilicen en un vehículo distinto al que corresponda a la concesión;
+
+d) No inscribir el vehículo afecto al servicio público de transporte en el Sistema Estatal de Información y Registro de Transporte;
+
+e) No iniciar la prestación del servicio público cuando físicamente le haya sido entregado el título de concesión, salvo causa de fuerza mayor o caso fortuito notificado por el concesionario y autorizado por la Agencia;
+
+f) No someter los vehículos a las verificaciones previamente programadas por la agencia para cada modalidad.
 
 ### CAPÍTULO III. DEL INCUMPLIMIENTO COMPROBADO DE OBLIGACIONES FISCALES
 
@@ -1676,3 +1708,9 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 ROGELIO CERDA PÉREZ
 
 HOJA DE FIRMAS QUE CORRESPONDE AL REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JUNIO DE 2008.
+
+Único.- La vigencia del presente Decreto inicia a partir de su publicación en el Periódico Oficial del Estado.
