@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-un-organismo-publico-descentralizado-que-se-22264"
 country: "mx"
 rank: "ley"
 publication_date: "1965-02-10"
-last_updated: "1965-07-07"
+last_updated: "2008-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA "DESARROLLO INDUSTRIAL DE MORELOS"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1965.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADA EN EL P.O. DE 4 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 10 de febrero de 1965.
 
@@ -166,3 +168,25 @@ P.O. 7 DE JULIO DE 1965.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
+
+P.O. 4 DE JUNIO DE 2008.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Fomento Económico para el Estado de Morelos, publicada el diez de marzo del 2004 en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado, y se derogan todas las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO. Se abrogan la Ley de Fomento y Protección de Ciudades Industriales Nuevas en el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado, con fecha 1° de enero de 1970 y la ley que crea un Organismo Público Descentralizado que se denominará "Desarrollo Industrial de Morelos", publicada en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado, con fecha 10 de febrero de 1965.
+
+CUARTO. La persona titular del Poder Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley en un plazo que no exceda de noventa días naturales, contados a partir del inicio de vigencia de la misma.
+
+QUINTO. La CREDE deberá ser instalada dentro de los treinta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+SEXTO. El Consejo Intermunicipal deberá ser instalado dentro de los treinta días naturales siguientes a la firma del primer convenio a que se refiere el artículo 15 de la presente Ley.
+
+SÉPTIMO. El CCDE deberá ser instalado dentro de los treinta días naturales siguientes a la expedición del Reglamento.
+
+OCTAVO. Las Reglas de Operación a que hace referencia el artículo 27 de la presente Ley, deberán ser emitidas por la CREDE dentro de los noventa días naturales siguientes a la fecha de instalación de la misma.
+
+NOVENO. En tanto se expide el Reglamento de la presente Ley, los órganos colegiados a que hace referencia la misma, deberán de sesionar bajo los lineamientos establecidos en el "Acuerdo que Establece los Lineamientos de las Sesiones Ordinarias o Extraordinarias de los Órganos Colegiados de la Administración Central y de los Organismos Auxiliares que Integran el Sector Paraestatal del Estado de Morelos", emitido por la persona titular del Poder Ejecutivo.
+
+DÉCIMO. Se autoriza a la persona titular del Poder Ejecutivo a realizar todos los actos necesarios para la constitución del fideicomiso a que se refiere la presente Ley. Dicho fideicomiso deberá quedar constituido en un plazo que no exceda de treinta días naturales, contados a partir del inicio de vigencia del Reglamento.
