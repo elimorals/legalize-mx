@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "2008-05-19"
+last_updated: "2008-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-18"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -42,9 +42,11 @@ LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
 ### CAPITULO UNICO. Del objeto y ámbito de aplicación de la Ley
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2008)</small>
+
 ###### Artículo 1o.
 
-Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto promover y fomentar las actividades económicas, así como conservar y aumentar el empleo, en el marco de un desarrollo sostenido y equilibrado del Distrito Federal.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto promover y fomentar las actividades económicas, así como conservar y aumentar el empleo, en el marco de un desarrollo sostenido y equilibrado del Distrito Federal; así como la aplicación de la Ciencia y la Tecnología en estas materias.
 
 Las actividades de fomento y el desarrollo económico del Distrito Federal se sujetarán y deberán ser congruentes con lo establecido por el artículo 26 constitucional, con la Ley de Planeación, el Plan Nacional de Desarrollo y el Programa General de Desarrollo del Distrito Federal.
 
@@ -64,9 +66,15 @@ V. Fomentar de manera prioritaria la micro, pequeña y mediana empresas;
 
 VI. Promover la acción conjunta de los sectores público, privado y social en el desarrollo económico;
 
-VII. Alentar la competitividad, modernización y eficiencia de las empresas por medio de un desarrollo tecnológico propio, adecuado a las circunstancias del Distrito Federal y vinculado a los centros de producción tecnológica, y
+VII. Alentar la competitividad, modernización y eficiencia de las empresas por medio de un desarrollo tecnológico propio, adecuado a las circunstancias del Distrito Federal y vinculado a los centros de producción tecnológica, y (sic)
 
-VIII. Alentar la competitividad y los servicios sociales que se requieran para lograr que los trabajadores sean altamente productivos y competitivos, para lo cual se deberá: generar empleos estables, bien remunerados, en igualdad de condiciones para hombres y mujeres, orientados hacia los sectores más vulnerables y proporcionándoles seguridad social.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+VIII. Alentar la competitividad y los servicios sociales que se requieran para lograr que los trabajadores sean altamente productivos y competitivos, para lo cual se deberá: generar empleos estables, bien remunerados, en igualdad de condiciones para hombres y mujeres, orientados hacia los sectores más vulnerables y proporcionándoles seguridad social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
+
+IX. Fomentar e impulsar la utilización de los productos y servicios derivados de los programas de Ciencia y Tecnología que tenga a su cargo el Instituto de Ciencia y Tecnología del Distrito Federal, en materia de desarrollo económico.
 
 ###### Artículo 3o.
 
@@ -100,9 +108,17 @@ XIII. Programa General: el Programa General de Desarrollo del Distrito Federal;
 
 XIV. Programa: el Programa de Fomento Económico del Distrito Federal;
 
-XV. Secretaría: la Secretaría de Desarrollo Económico, y
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
 
-XVI. Zona de fomento económico: los espacios territoriales comprendidos en las áreas de actuación susceptibles de desarrollo económico, en los términos de las disposiciones legales de aplicación en el Distrito Federal.
+XV. Secretaría: la Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+XVI. Zona de fomento económico: los espacios territoriales comprendidos en las áreas de actuación susceptibles de desarrollo económico, en los términos de las disposiciones legales de aplicación en el Distrito Federal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
+
+XVII. Instituto. Al Instituto de Ciencia y Tecnología del Distrito Federal.
 
 ## TITULO II. DE LOS ORGANOS COMPETENTES EN LA APLICACION DE LA LEY
 
@@ -130,9 +146,17 @@ El Jefe de Gobierno, en materia de fomento y desarrollo económico, además de l
 
 I. Impulsar la participación de los sectores privado y social en la elaboración, ejecución y evaluación de los programas de fomento económico;
 
-II. Celebrar convenios de coordinación de acciones en materia de fomento y desarrollo económico, con las dependencias del Poder Ejecutivo Federal, con los gobiernos estatales o municipales, con una perspectiva metropolitana, y
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
 
-III. Remitir a la Asamblea el Programa de Fomento y Desarrollo Económico para obtener su opinión.
+II. Celebrar convenios de coordinación de acciones en materia de fomento y desarrollo económico, con las dependencias del Poder Ejecutivo Federal, con los gobiernos estatales o municipales, con una perspectiva metropolitana;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+III. Remitir a la Asamblea el Programa de Fomento y Desarrollo Económico para obtener su opinión; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
+
+IV. Fomentar e impulsar la utilización de los productos y servicios derivados de los programas de Ciencia y Tecnología que tenga a su cargo el Instituto, en materia de desarrollo económico.
 
 ###### Artículo 6o.
 
@@ -150,17 +174,19 @@ IV. Formular y proponer medidas de promoción y estímulos para las actividades 
 
 V. Propiciar la creación de instrumentos de financiamiento y otros mecanismos de fomento para la modernización productiva y la investigación y desarrollo tecnológico en las micro, pequeña y mediana empresas, y
 
-VI. Establecer, en congruencia con las disposiciones aplicables en materia de desarrollo urbano, protección al ambiente y protección civil, la vinculación entre las áreas de actuación y la vocación productiva del Distrito Federal, proponiendo en su caso los cambios conducentes.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+VI. Establecer, en congruencia con las disposiciones aplicables en materia de desarrollo urbano, ciencia y tecnología, protección al ambiente y protección civil, la vinculación entre las áreas de actuación y la vocación productiva del Distrito Federal, proponiendo en su caso los cambios conducentes.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 En la elaboración, conducción y ejecución de programas, políticas, instrumentos y medidas relacionados con el fomento al empleo, la Secretaría ejercerá sus facultades en forma coordinada con la Secretaría de Trabajo y Fomento al Empleo.
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2008)</small>
 
 ###### Artículo 7o.
 
-La Secretaría, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, así como con la Secretaría de Trabajo y Fomento al Empleo, determinarán, en el ámbito de su competencia, las zonas de fomento económico, las cuales serán los espacios territoriales comprendidos en las áreas de actuación que señala la Ley de Desarrollo Urbano y el Programa General de Desarrollo Urbano del Distrito Federal, con el propósito de impulsar programas de fomento económico, proyectos de inversión y, en general, actividades económicas.
+La Secretaría, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, el Instituto, así como con la Secretaría de Trabajo y Fomento al Empleo, determinarán, en el ámbito de su competencia, las zonas de fomento económico, las cuales serán los espacios territoriales comprendidos en las áreas de actuación que señala la Ley de Desarrollo Urbano y el Programa General de Desarrollo Urbano del Distrito Federal, con el propósito de impulsar programas de fomento económico, proyectos de inversión y, en general, actividades económicas.
 
 ###### Artículo 8o.
 
@@ -196,9 +222,11 @@ Los programas sectoriales, especiales o delegacionales y anuales, y de las zonas
 
 La Asamblea opinará por escrito sobre la congruencia de los programas de fomento económico.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2008)</small>
+
 ###### Artículo 12.
 
-A la Secretaría corresponde, con base en la opinión de los sectores privado y social, elaborar, actualizar y ejecutar el Programa, los programas sectoriales, especiales o delegacionales y de las zonas sujetas a fomento, los cuales deberán expresarse de manera anual y contener, en su caso, su vinculación con el Presupuesto de Egresos del Distrito Federal.
+A la Secretaría corresponde, con base en la opinión de los sectores privado y social, así como del Instituto, elaborar, actualizar y ejecutar el Programa, los programas sectoriales, especiales o delegacionales y de las zonas sujetas a fomento, los cuales deberán expresarse de manera anual y contener, en su caso, su vinculación con el Presupuesto de Egresos del Distrito Federal.
 
 ###### Artículo 13.
 
@@ -252,9 +280,11 @@ La administración pública, mediante el apoyo a las actividades productivas, se
 
 La coordinación y concertación de acciones son los medios para llevar a cabo el fomento de las actividades económicas y el desarrollo económico del Distrito Federal, por lo que se deberán establecer las instancias que permitan su consecución.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2008)</small>
+
 ###### Artículo 18.
 
-El Consejo de Fomento Económico del Distrito Federal es el órgano permanente de consulta, opinión, asesoría y análisis, mediante el cual participan el Gobierno del Distrito Federal y los sectores privado y social para mantener e impulsar el fomento y desarrollo económico del Distrito Federal.
+El Consejo de Fomento Económico del Distrito Federal es el órgano permanente de consulta, opinión, asesoría y análisis, mediante el cual participan el Gobierno del Distrito Federal, el Instituto y los sectores privado y social para mantener e impulsar el fomento y desarrollo económico del Distrito Federal.
 
 ###### Artículo 19.
 
@@ -274,9 +304,17 @@ V. Los representantes de organizaciones productivas del sector privado y social;
 
 VI. Los representantes de educación e investigación técnica-media y superior, pública y privada;
 
-VII. Los representantes de entidades y dependencias del gobierno federal, y
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
 
-VIII. Otros propuestos por el Presidente del Consejo.
+VII. Los representantes de entidades y dependencias del gobierno federal;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+VIII. Los representantes del Instituto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
+
+IX. Otros propuestos por el Presidente del Consejo.
 
 Los cargos del Consejo serán honoríficos.
 
@@ -302,7 +340,9 @@ VI. Conocer y opinar sobre los programas de fomento económico delegacionales, p
 
 VII. Invitar a las dependencias federales, instituciones nacionales y extranjeras involucradas en las diversas áreas de la actividad económica, para compartir experiencias, realizar estudios y originar propuestas sobre el crecimiento económico de la ciudad;
 
-VIII. Impulsar el desarrollo tecnológico para apoyar la planta productiva y el empleo, así como la modernización y competitividad de las empresas, en particular de las micro, pequeñas y medianas empresas;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+VIII. Impulsar el desarrollo científico y tecnológico para apoyar la planta productiva y el empleo, así como la modernización y competitividad de las empresas, en particular de las micro, pequeñas y medianas empresas;
 
 IX. Estudiar los problemas de desarrollo económico que necesiten analizarse y ser valorados permanentemente, para contribuir a la elaboración de alternativas, y
 
@@ -326,7 +366,9 @@ III. Impulsar y orientar los diversos proyectos económicos congruentes con las 
 
 IV. Promover la capacitación y su vinculación con el mercado de trabajo;
 
-V. Vincular la investigación y desarrollo tecnológico de las instituciones de enseñanza técnica-media y superior e investigación con los proyectos de inversión productiva;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+V. Vincular la investigación y desarrollo científico y tecnológico de las instituciones de enseñanza técnica-media y superior e investigación con los proyectos de inversión productiva;
 
 VI. Invitar a las dependencias federales, instituciones nacionales y extranjeras involucradas en las diversas áreas de la actividad económica, para compartir experiencias, realizar estudios y propuestas sobre el desarrollo económico de su localidad;
 
@@ -346,7 +388,9 @@ II. Un Vicepresidente, designado por el Secretario de Desarrollo Económico;
 
 III. Un Secretario Técnico, designado por el Delegado, y
 
-IV. Representantes de organizaciones productivas del sector privado y social; de la banca de desarrollo y comercial e intermediarios financieros no bancarios; de instituciones de investigación y educación técnica-media y superior, públicas y privadas; de entidades y dependencias del gobierno federal y otros propuestos por el Presidente del Comité.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+
+IV. Representantes de organizaciones productivas del sector privado y social; de la banca de desarrollo y comercial e intermediarios financieros no bancarios; de instituciones de investigación, como el Instituto, y educación técnica-media y superior, públicas y privadas; de entidades y dependencias del gobierno federal y otros propuestos por el Presidente del Comité.
 
 ## TITULO V. DE LOS LINEAMIENTOS GENERALES PARA EL FOMENTO ECONOMICO
 
@@ -494,9 +538,11 @@ La administración pública fomentará la vinculación entre el uso racional de 
 
 ### CAPITULO V. Del impulso a la infraestructura productiva
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2008)</small>
+
 ###### Artículo 42.
 
-La administración pública promoverá, en concertación con los sectores productivos, la creación, desarrollo y mejoramiento de la infraestructura productiva, mediante la inversión pública, privada y social, para facilitar la distribución y comercialización de la producción, y para acercar al productor con el consumidor y estimular nuevas inversiones en la generación y uso racional de agua y energía, vías de comunicación y medios de transporte, bodegas, sistemas de cuartos fríos, de parques industriales, equipamiento de servicios relacionados a las actividades productivas y la protección del ambiente.
+La administración pública promoverá, en concertación con los sectores productivos, la creación, desarrollo y mejoramiento de la infraestructura productiva, mediante la inversión pública, privada y social, así como la utilización de los productos y servicios derivados de los programas que tenga a su cargo el Instituto, para facilitar la distribución y comercialización de la producción, y para acercar al productor con el consumidor y estimular nuevas inversiones en la generación y uso racional de agua y energía, vías de comunicación y medios de transporte, bodegas, sistemas de cuartos fríos, de parques industriales, equipamiento de servicios relacionados a las actividades productivas y la protección del ambiente.
 
 ###### Artículo 43.
 
@@ -705,3 +751,13 @@ PRIMERO.- Túrnese al ciudadano Jefe de Gobierno del Distrito Federal para su pu
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE JUNIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1º de enero de 2008 y deberá publicarse en la Gaceta Oficial del Distrito Federal, así como en el Diario Oficial de la Federación para su mayor difusión.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan a lo establecido en la presente Reforma.
+
+Los procedimientos de adquisiciones iniciados con anterioridad a la entrada en vigor de las presentes reformas, atenderán hasta su total conclusión a la Ley en el momento de su inicio.
+
+Artículo Tercero.- El Jefe de Gobierno sesionará de manera conjunta con sus Gabinetes de Desarrollo Económico Sustentable y de Educación, Cultura y Ciencia y Tecnología; por lo menos dos veces por año fiscal.
