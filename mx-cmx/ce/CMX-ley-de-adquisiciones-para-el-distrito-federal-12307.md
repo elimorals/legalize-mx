@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2004-05-17"
+last_updated: "2008-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -170,7 +170,11 @@ XXVII.- Contrato Marco: Acuerdo del fabricante con la Administración Pública d
 
 > <small>(ADICIONADA, G.O. 17 DE MAYO DE 2004)</small>
 
-XXVIII.- Gabinete: Al Gabinete de Administración y Finanzas, integrado por los titulares de la Secretaría de Finanzas, la Oficialía Mayor, y la Contraloría General del Distrito Federal.
+XXVIII.- Gabinete: Al Gabinete de Administración y Finanzas, integrado por los titulares de la Secretaría de Finanzas, la Oficialía Mayor, y la Contraloría General del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
+
+XXIX.- Instituto: Al Instituto de Ciencia y Tecnología del Distrito Federal.
 
 ###### ARTICULO 3o.
 
@@ -296,7 +300,7 @@ En los contratos y convenios que celebren las dependencias, órganos desconcentr
 
 ### Capítulo I. Del Comité de Adquisiciones, Arrendamiento y prestación de Servicios
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 15.
 
@@ -382,15 +386,21 @@ DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 ### Capítulo II. Del Consejo Consultivo de Abastecimiento
 
-> <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 20.
 
-El Jefe de Gobierno del Distrito Federal establecerá un Comité de Autorizaciones de Adquisiciones, Arrendamiento y Prestación de Servicios que se integrará con los titulares de la Oficialía, Contraloría, Secretaría de Finanzas, Secretaría del Medio Ambiente, Secretaría de Desarrollo Económico, Secretaría de Gobierno y Consejería Jurídica y de Servicios Legales, y dos contralores ciudadanos que serán designados por el Jefe de Gobierno del Distrito Federal.
+El Jefe de Gobierno del Distrito Federal establecerá un Comité de Autorizaciones de Adquisiciones, Arrendamiento y Prestación de Servicios que se integrará con los titulares de la Oficialía, Contraloría, Secretaría de Finanzas, Secretaría del Medio Ambiente, Secretaría de Desarrollo Económico, Secretaría de Gobierno y Consejería Jurídica y de Servicios Legales, Instituto y dos contralores ciudadanos que serán designados por el Jefe de Gobierno del Distrito Federal.
 
-A nivel Delegacional, el Jefe Delegacional establecerá un Comité Delegacional de Adquisiciones, Arrendamientos y Prestación de Servicios, el cual tendrá autonomía funcional respecto del Comité, que se integrará por un representante de cada una de las Direcciones Generales, dichos Comités regirán su funcionamiento de conformidad en lo dispuesto en el Reglamento de esta Ley.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2008)</small>
+
+A nivel Delegacional, el Jefe Delegacional establecerá un Comité Delegacional de Adquisiciones, Arrendamientos y Prestación de Servicios, el cual tendrá autonomía funcional respecto del Comité, que se integrará por un representante de cada una de las Direcciones Generales, así como dos representantes del Instituto distintos a los que conforman el Comité de Autorizaciones de Adquisiciones, Arrendamiento y Prestación de Servicios, a que se refiere el párrafo inmediato anterior; y regirán su funcionamiento de conformidad en lo dispuesto en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
 
 El Comité establecerá en cada una de las Dependencias y Entidades, Subcomités de Adquisiciones, Arrendamientos y Prestación de Servicios, que contarán, en el ámbito de sus respectivas competencias, con las atribuciones señaladas en esta Ley para el Comité y sin perjuicio del ejercicio directo; excepto en el aspecto normativo, que se encuentra reservado exclusivamente para este último, estos Subcomités estarán integrados en la forma que establezca el Reglamento de esta Ley.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
 
 El Comité y el Comité Delegacional podrán aprobar la creación de Subcomités Técnicos de especialidad para la atención de casos específicos, que estarán vinculados a los Comités respectivos, en los términos establecidos en el Reglamento de esta Ley.
 
@@ -436,7 +446,7 @@ X.- (DEROGADA, G.O. 11 DE JULIO DE 2002)
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-XI.- Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley y demás disposiciones aplicables; y
+XI.- Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley y demás disposiciones aplicables; y (sic)
 
 > <small>(REFORMADA, G.O. 17 DE MAYO DE 2004)</small>
 
@@ -450,11 +460,13 @@ XIII.- Las demás que les confieran otras disposiciones aplicables a la materia.
 
 ARTICULO 21 bis.- Los Subcomités de las dependencias y entidades tendrán las facultades a que se refieren las fracciones I, VI, IX, XI y elaborar el informe de las adquisiciones a que se refiere la fracción IX del artículo 21 de esta Ley, además de las que se establezcan en el Reglamento de esta Ley.
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 22.
 
-Las dependencias y entidades podrán establecer Subcomités Técnicos de Especialidad para atender casos específicos que estarán vinculados al Subcomité en los términos y condiciones que al efecto establezca el Reglamento de esta Ley, debiendo considerar en su integración a dos contralores ciudadanos designados por el Jefe de Gobierno.
+Las dependencias y entidades podrán establecer Subcomités Técnicos de Especialidad, y deberán solicitar la opinión del Instituto, para atender casos específicos que estarán vinculados al Subcomité en los términos y condiciones que al efecto establezca el Reglamento de esta Ley, debiendo considerar en su integración a dos contralores ciudadanos designados por el Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
 
 Las entidades establecerán Subcomités de Adquisiciones, Arrendamientos y Prestación de Servicios, por aprobación expresa de sus Órganos de Gobierno, cuya integración y funcionamiento quedarán sujetos a lo dispuesto en esta Ley y su Reglamento, debiendo considerar en su integración a dos contralores ciudadanos designados por el Jefe de Gobierno.
 
@@ -474,7 +486,7 @@ ARTICULO 23 bis.- La Secretaría de Desarrollo Económico deberá publicar a má
 
 ###### ARTICULO 24.
 
-El Jefe de Gobierno del Distrito Federal instalará el Consejo Consultivo de Abastecimiento, que estará integrado por un representante de cada una de las dependencias de la Administración Pública del Distrito Federal y de las confederaciones, cámaras o asociaciones de industriales, comerciantes y prestadores de servicios.
+El Jefe de Gobierno del Distrito Federal instalará el Consejo Consultivo de Abastecimiento, que estará integrado por un representante de cada una de las dependencias de la Administración Pública del Distrito Federal y de las confederaciones, del Instituto, cámaras o asociaciones de industriales, comerciantes y prestadores de servicios.
 
 ###### ARTICULO 25.
 
@@ -1256,7 +1268,7 @@ Las garantías que deban otorgarse conforme a esta Ley por contratos que se cele
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE MAYO DE 2004)</small>
 
-ARTICULO 75 BIS.- Para efectos del artículo 73, las garantías de sostenimiento de la propuesta, la de cumplimiento de contrato y anticipo podrán presentarse mediante:
+ARTICULO 75 bis.- Para efectos del artículo 73, las garantías de sostenimiento de la propuesta, la de cumplimiento de contrato y anticipo podrán presentarse mediante:
 
 I. Fianza;
 
@@ -1463,3 +1475,13 @@ Hasta en tanto el Jefe de Gobierno del Distrito Federal no establezca el Comité
 Quinto.- El presente Decreto será aplicable para las adquisiciones y contrataciones realizadas con anterioridad a su vigencia, siempre que concurran circunstancias que beneficien a la Administración Pública del Distrito Federal y no se afecten derechos de terceros.
 
 Sexto.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 4 DE JUNIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1º de enero de 2008 y deberá publicarse en la Gaceta Oficial del Distrito Federal, así como en el Diario Oficial de la Federación para su mayor difusión.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan a lo establecido en la presente Reforma.
+
+Los procedimientos de adquisiciones iniciados con anterioridad a la entrada en vigor de las presentes reformas, atenderán hasta su total conclusión a la Ley en el momento de su inicio.
+
+Artículo Tercero.- El Jefe de Gobierno sesionará de manera conjunta con sus Gabinetes de Desarrollo Económico Sustentable y de Educación, Cultura y Ciencia y Tecnología; por lo menos dos veces por año fiscal.
