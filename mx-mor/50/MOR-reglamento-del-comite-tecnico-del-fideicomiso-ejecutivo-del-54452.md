@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-comite-tecnico-del-fideicomiso-ejecutivo-del-544
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-28"
-last_updated: "2007-02-28"
+last_updated: "2008-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL COMITE TECNICO DEL FIDEICOMISO EJECUTIVO DEL FONDO DE COMPETITIVIDAD Y PROMOCION DEL EMPLEO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2008.
 
-Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 28 de febrero de 2007.
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 28 de febrero de 2007
 
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.- Gobierno del Estado de Morelos.- 2006-2012.
 
@@ -107,9 +107,13 @@ XII. Suministrar a la Secretaría de Finanzas y Planeación del Estado de Morelo
 
 XIII. Informar por escrito al fiduciario de todo lo que requiera o solicite;
 
-XIV. Disponer del patrimonio del Fideicomiso, requiriéndose la aprobación por mayoría simple de los integrantes del Comité Técnico, y
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2008)</small>
 
-XV. En general todas aquellas facultades necesarias para resolver cualquier conflicto que pudiera presentarse con respecto a las finalidades del Fideicomiso, entendiéndose que dichas facultades son enunciativas y no limitativas.
+XIV. Designar, en caso de renuncia de vocal representante del sector empresarial, a la persona que lo sustituirá para concluir con el período para el cual fue nombrado, a propuesta de los vocales representantes del sector empresarial que continúen en funciones, requiriéndose para este efecto votación unánime de los integrantes propietarios;
+
+XV. Disponer del patrimonio del Fideicomiso, requiriéndose la aprobación por mayoría simple de los integrantes del Comité Técnico, y
+
+XVI. En general todas aquellas facultades necesarias para resolver cualquier conflicto que pudiera presentarse con respecto a las finalidades del Fideicomiso, entendiéndose que dichas facultades son enunciativas y no limitativas.
 
 ###### Artículo 5.
 
@@ -125,9 +129,13 @@ IV. Proponer previa aprobación del Presidente, en cada caso, el orden del día 
 
 V. Presentar a consideración del Comité Técnico los informes de la operación del Fideicomiso;
 
-VI. Formular las actas y acuerdos de las sesiones ordinarias y extraordinarias que celebre el Comité Técnico, y
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2008)</small>
 
-VII. Elaborar los informes periódicos de la operación del Fideicomiso.
+VI. Expedir certificaciones de constancias de los expedientes relativos al ejercicio de las atribuciones conferidas en el presente reglamento;
+
+VII. Formular las actas y acuerdos de las sesiones ordinarias y extraordinarias que celebre el Comité Técnico, y
+
+VIII. Elaborar los informes periódicos de la operación del Fideicomiso.
 
 ###### Artículo 6.
 
@@ -161,9 +169,13 @@ XI. Elaborar el presupuesto de gastos de operación anual del Fideicomiso;
 
 XII. Proponer campañas de difusión y promoción en materia de competitividad y fomento al empleo;
 
-XIII. Fungir ante la fiduciaria como conducto para comunicarle las resoluciones del Comité Técnico, así como vigilar su debido cumplimiento, y
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2008)</small>
 
-XIV. Las demás facultades que le sean expresamente señaladas por el Comité Técnico o por su Presidente, previa conformidad de la fiduciaria, así como las que le asignen otras leyes, reglamentos, acuerdos y disposiciones administrativas aplicables.
+XIII. Expedir certificaciones de constancias de los expedientes relativos al ejercicio de las atribuciones conferidas en el presente reglamento;
+
+XIV. Fungir ante la fiduciaria como conducto para comunicarle las resoluciones del Comité Técnico, así como vigilar su debido cumplimiento, y
+
+XV. Las demás facultades que le sean expresamente señaladas por el Comité Técnico o por su Presidente, previa conformidad de la fiduciaria, así como las que le asignen otras leyes, reglamentos, acuerdos y disposiciones administrativas aplicables.
 
 ###### Artículo 8.
 
@@ -252,3 +264,9 @@ EL SECRETARIO DE FINANZAS Y PLANEACIÓN
 L.C. JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JUNIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
