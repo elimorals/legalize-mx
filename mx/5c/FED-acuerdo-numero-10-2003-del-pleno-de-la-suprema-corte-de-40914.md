@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-10-2003-del-pleno-de-la-suprema-corte-de-40914"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-16"
-last_updated: "2003-06-16"
+last_updated: "2008-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40914&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-06-16"
 
 ACUERDO NUMERO 10/2003, DE DIECISEIS DE JUNIO DE DOS MIL TRES, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE REGULA LA RED JURIDICA DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 8/2008, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Junio de 2003, página 1103.
 
@@ -68,3 +70,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 10/2003, que regula la Red Jurídica del Poder Judicial de la Federación, fue emitido por el Tribunal Pleno en sesión privada celebrada hoy dieciséis de junio de dos mil tres, por unanimidad de diez votos de los señores Ministros presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, Genaro David Góngora Pimentel, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a dieciséis de junio de dos mil tres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE JUNIO DE 2008.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General 10/2003, de dieciséis de junio de dos mil tres, del Pleno de la Suprema Corte de Justicia de la Nación, mediante el cual se regulaba la Red Jurídica del Poder Judicial de la Federación.
+
+TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
