@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-de-seguros-y-11555"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-05"
-last_updated: "2003-12-04"
+last_updated: "2008-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11555&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-03-03"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de marzo de 1998.
 
@@ -57,7 +57,7 @@ De Análisis y Estudios Sectoriales;
 
 > <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
-IV. Direcciones Generales:
+IV.- Direcciones Generales:
 
 De Supervisión Financiera,
 
@@ -65,13 +65,17 @@ De Supervisión de Reaseguro,
 
 De Supervisión Actuarial,
 
-De Supervisión del Seguro de Pensiones,
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-De Supervisión del Seguro de Salud,
+De Supervisión del Seguro de Pensiones y Salud,
+
+> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 De Desarrollo e Investigación,
 
-Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional,
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+Jurídica Consultiva y de Intermediarios,
 
 Jurídica Contenciosa y de Sanciones,
 
@@ -105,17 +109,23 @@ a) De Supervisión Financiera;
 
 b) De Supervisión de Reaseguro;
 
-c) De Supervisión Actuarial;
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-d) De Supervisión del Seguro de Pensiones, y
+c) De Supervisión Actuarial, y
 
-e) De Supervisión del Seguro de Salud.
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+d) De Supervisión del Seguro de Pensiones y Salud.
+
+e) (DEROGADO, D.O.F. 5 DE JUNIO DE 2008)
 
 > <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
 III.- La Vicepresidencia Jurídica tendrá adscritas las Direcciones Generales:
 
-a) Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional, y
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+a) Jurídica Consultiva y de Intermediarios, y
 
 b) Jurídica Contenciosa y de Sanciones.
 
@@ -241,23 +251,29 @@ X.- Las demás que se les encomienden.
 
 Las direcciones generales estarán integradas por los directores generales, los directores y los subdirectores de área, los jefes de departamento, los supervisores especializados, los inspectores supervisores, los jefes de sección, visitadores e inspectores y demás servidores públicos y personal administrativo que el servicio requiera y permita el presupuesto de la Comisión.
 
-> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-Adicionalmente, la Dirección General Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional estará integrada por los delegados y subdelegados regionales.
+Adicionalmente, la Dirección General Jurídica Consultiva y de Intermediarios estará integrada por los delegados y subdelegados regionales.
 
 > <small>(ADICIONADO, D.O.F. 20 DE FEBRERO DE 2001)</small>
 
 Al frente de cada dirección general habrá un director general, quien será el titular de las atribuciones que en este Reglamento se asignan a la respectiva unidad administrativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 18.
 
-Corresponde a la Dirección General de Supervisión Financiera, de la cual dependen las Direcciones de Inspección Financiera; y de Vigilancia Financiera, ejercer la inspección, vigilancia y supervisión de los aspectos contables, financieros y administrativos en los términos de las leyes y disposiciones administrativas aplicables, para lo cual tendrá las siguientes atribuciones:
+Corresponde a la Dirección General de Supervisión Financiera, de la cual dependen la Dirección de Inspección Financiera, la Dirección de Vigilancia Financiera y la Dirección de Supervisión Especializada, ejercer la inspección, vigilancia y supervisión de los aspectos contables, financieros y administrativos en los términos de las leyes y disposiciones administrativas aplicables, para lo cual tendrán las siguientes atribuciones:
 
 I.- Formular para su aprobación, el programa anual de visitas de inspección;
 
 > <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
 II.- Ordenar y practicar las visitas de inspección conforme al programa a que se refiere la fracción anterior, así como practicar las demás visitas de inspección previstas en las leyes aplicables;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+II Bis.- Practicar las visitas de inspección con el objeto de verificar el cumplimiento de las disposiciones legales y administrativas derivadas de los artículos 140 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, 112 de la Ley Federal de Instituciones de Fianzas y demás disposiciones legales relacionadas con la materia, en el ámbito de competencia de la Comisión Nacional de Seguros y Fianzas;
 
 III.- Supervisar el desarrollo de las visitas practicadas, evaluar sus resultados y formular los informes correspondientes;
 
@@ -269,21 +285,25 @@ V.- Vigilar que las instituciones y sociedades mutualistas de seguros e instituc
 
 VI.- Vigilar la presentación de los estados financieros de las instituciones y sociedades mutualistas de seguros y de las instituciones de fianzas y ordenar, en su caso, la difusión de los mismos;
 
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+VI Bis.- Vigilar el cumplimiento de las disposiciones legales y administrativas derivadas de los artículos 140 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, 112 de la Ley Federal de Instituciones de Fianzas y demás disposiciones legales relacionadas con la materia, en el ámbito de competencia de la Comisión Nacional de Seguros y Fianzas;
+
 VII.- Ordenar, cuando así proceda en el ámbito de su competencia, la modificación o suspensión de la propaganda o publicidad de las instituciones, personas y entidades regidas por las leyes de la materia;
 
 VIII.- Diseñar los modelos de los registros auxiliares de contabilidad que deben llevar las instituciones y sociedades mutualistas de seguros y las instituciones de fianzas;
 
 IX.- Elaborar y mantener actualizados los catálogos de cuentas para el adecuado registro de las operaciones;
 
-> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-X.- Vigilar la constitución e inversión de las reservas técnicas y de capital, de jubilación y demás previstas en las leyes de la materia de las instituciones y sociedades mutualistas de seguros y de las instituciones de fianzas, para que se ajusten a las disposiciones legales aplicables, en coordinación con la Dirección General de Supervisión Actuarial, con la Dirección General de Supervisión del Seguro de Pensiones y con la Dirección General de Supervisión del Seguro de Salud;
+X.- Vigilar la constitución e inversión de las reservas técnicas y de capital, de jubilación y demás previstas en las leyes y disposiciones jurídicas de la materia de las instituciones y sociedades mutualistas de seguros y de las instituciones de fianzas, para que se ajusten a las disposiciones jurídicas aplicables, en coordinación con la Dirección General de Supervisión Actuarial y con la Dirección General de Supervisión del Seguro de Pensiones y Salud;
 
 XI.- Verificar la administración de fondos de pensiones o jubilaciones de personas y de primas de antigüedad, así como de los depositados por los asegurados o sus beneficiarios en los términos de la ley;
 
-> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XII.- Vigilar que las instituciones de seguros cuenten en todo momento con los recursos para cubrir su capital mínimo de garantía, así como que éstos se encuentren invertidos de conformidad con las disposiciones legales aplicables, en coordinación con la Dirección General de Supervisión Actuarial, con la Dirección General de Supervisión del Seguro de Pensiones, con la Dirección General de Supervisión de Reaseguro y con la Dirección General de Supervisión del Seguro de Salud;
+XII.- Vigilar que las instituciones de seguros cuenten en todo momento con los recursos para cubrir su capital mínimo de garantía, así como que éstos se encuentren invertidos de conformidad con las disposiciones jurídicas aplicables, en coordinación con la Dirección General de Supervisión Actuarial, con la Dirección General de Supervisión del Seguros (sic) de Pensiones y Salud y con la Dirección General de Supervisión de Reaseguro;
 
 > <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
@@ -297,9 +317,9 @@ XVI.- Ordenar el registro de pasivos a que se refiere el artículo 61 de la Ley 
 
 XVII.- Hacer del conocimiento de las autoridades superiores de la Comisión las irregularidades observadas, en ejercicio de sus funciones;
 
-> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XVIII.- Autorizar anualmente los días inhábiles de las instituciones y sociedades mutualistas de seguros y de las instituciones de fianzas en coordinación con la Dirección General Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional;
+XVIII.- Autorizar anualmente los días inhábiles de las instituciones y sociedades mutualistas de seguros y de las instituciones de fianzas en coordinación con la Dirección General Jurídica Consultiva y de Intermediarios;
 
 > <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
@@ -329,11 +349,15 @@ XXIV.- Las demás que se le encomienden.
 
 Corresponde a la Dirección de Inspección Financiera la tramitación, instrumentación y ejecución de las facultades que en materia de inspección tiene conferidas la Dirección General de Supervisión Financiera, a que se refieren las fracciones I a V, VII, XVI, XVII y XX a XXIV del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 20.
 
-Corresponde a la Dirección de Vigilancia Financiera la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión Financiera, a que se refieren las fracciones IV a XV y XVII a XXIV del artículo 18 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+Corresponde a la Dirección de Vigilancia Financiera, la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión Financiera, a que se refieren las fracciones IV a VI, VII a XV y XVII a XXIV del artículo 18 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+ARTÍCULO 20 BIS.- Corresponde a la Dirección de Supervisión Especializada, la tramitación, instrumentación y ejecución de las facultades que tiene conferidas la Dirección General de Supervisión Financiera, a que se refieren las fracciones I a V, VI Bis, XVII, XX a XXIV del artículo 18 del presente Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
 ###### ARTÍCULO 21.
 
@@ -357,11 +381,13 @@ VII.- Emitir opinión sobre la inscripción en el Registro General de Reasegurad
 
 VIII.- Vigilar la constitución y, en su caso, retención de las reservas técnicas ligadas a las operaciones de reaseguro y reafianzamiento;
 
-> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-IX.- Vigilar la constitución del requerimiento de capital mínimo de garantía y de capital base de operaciones derivados de las operaciones de reaseguro y reafianzamiento, respectivamente, en coordinación con las Direcciones Generales de Supervisión Financiera, de Supervisión Actuarial, de Supervisión del Seguro de Pensiones y de Supervisión del Seguro de Salud;
+IX.- Vigilar la constitución del requerimiento de capital mínimo de garantía y de capital base de operaciones derivados de las operaciones de reaseguro y reafianzamiento, respectivamente, en coordinación con las Direcciones Generales de Supervisión Financiera, de Supervisión Actuarial, y de Supervisión del Seguro de Pensiones y Salud;
 
-X.- Llevar el directorio de las Reaseguradoras Extranjeras autorizadas por la Secretaría de Hacienda y Crédito Público y proponer a la Dirección General Consultiva, Sanciones e Intermediarios, la tramitación de la revocación de la autorización tanto de reaseguradoras extranjeras como de intermediarios de reaseguro, cuando proceda conforme a las normas legales correspondientes;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+X.- Llevar el directorio de las Reaseguradoras Extranjeras autorizadas por la Secretaría de Hacienda y Crédito Público y proponer a la Dirección General Jurídica Contenciosa y de Sanciones, la tramitación de la cancelación de la inscripción de la (sic) reaseguradoras extranjeras, así como la tramitación de la revocación de la autorización de intermediarios de reaseguro, cuando proceda conforme a las normas jurídicas correspondientes;
 
 XI.- Vigilar que las operaciones realizadas por los intermediarios de reaseguro se apeguen a las disposiciones legales aplicables;
 
@@ -477,9 +503,11 @@ Corresponde a la Dirección de Inspección Actuarial la tramitación, instrument
 
 Corresponde a la Dirección de Vigilancia Actuarial la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión Actuarial, a que se refieren las fracciones IV a XV y XVII a XX del artículo 24 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde a la Dirección General de Supervisión del Seguro de Pensiones, de la cual dependen las Direcciones de Inspección del Seguro de Pensiones, y de Vigilancia del Seguro de Pensiones, ejercer la inspección y vigilancia de la operación técnica de las instituciones autorizadas para operar los seguros de pensiones derivados de las leyes de seguridad social, para lo cual tendrá las siguientes atribuciones:
+Corresponde a la Dirección General de Supervisión del Seguro de Pensiones y Salud, de la cual dependen la Dirección de Inspección del Seguro de Pensiones y Salud y la Dirección de Vigilancia del Seguro de Pensiones y Salud, ejercer la inspección y vigilancia de la operación técnica de las instituciones autorizadas para operar los seguros de pensiones derivados de las leyes de seguridad social, así como de las instituciones de seguros especializadas para operar en el ramo de salud, para lo cual tendrá las siguientes atribuciones:
 
 I.- Formular para su aprobación, el programa anual de visitas de inspección de carácter técnico y actuarial;
 
@@ -491,27 +519,37 @@ III.- Supervisar el desarrollo de las visitas practicadas, evaluar sus resultado
 
 IV.- Formular las observaciones derivadas de la inspección y vigilancia, proponiendo las medidas correctivas a que haya lugar;
 
-V.- Vigilar que las instituciones de seguros de pensiones derivados de las leyes de seguridad social, constituyan las reservas técnicas conforme a procedimientos actuariales aprobados y operen con primas autorizadas, en coordinación con la Dirección General de Supervisión Financiera;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-VI.- Vigilar que las instituciones de seguros de pensiones derivados de las leyes de seguridad social, cumplan las observaciones que con motivo de las visitas de inspección se formulen;
+V.- Vigilar que las instituciones de seguros de pensiones derivados de las leyes de seguridad social, así como de las instituciones de seguros especializadas en el ramo de salud, constituyan las reservas técnicas conforme a procedimientos actuariales aprobados y operen con primas autorizadas y con tarifas registradas respectivamente, en coordinación con la Dirección General de Supervisión Financiera;
 
-VII.- Registrar las notas técnicas para los beneficios adicionales de los seguros de pensiones derivados de las leyes de seguridad social y ordenar, en su caso, la corrección de las mismas;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+VI.- Vigilar que las instituciones de seguros de pensiones derivados de las leyes de seguridad social, así como las instituciones de seguros especializadas en el ramo de salud, cumplan las observaciones que con motivo de las visitas de inspección se formulen;
+
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+VII.- Registrar las notas técnicas para los beneficios adicionales de los seguros de pensiones derivados de las leyes de seguridad social, así como las notas técnicas en que se sustenten las coberturas y planes de seguros relativas al ramo de salud y ordenar, en su caso, la corrección de las mismas;
 
 VIII.- Hacer del conocimiento de las autoridades superiores de la Comisión las irregularidades observadas, en ejercicio de sus funciones;
 
 IX.- Tramitar, proponer y, en su caso, imponer de conformidad con el acuerdo delegatorio correspondiente, las sanciones previstas en la Ley General de Instituciones y Sociedades Mutualistas de Seguros, en la Ley del Seguro Social y en la Ley de los Sistemas de Ahorro para el Retiro, por violaciones a dichos ordenamientos y a las disposiciones administrativas que de ellas emanen, relacionadas con las atribuciones de su competencia;
 
-X.- Vigilar el comportamiento técnico de las operaciones en las instituciones de seguros de pensiones derivados de las leyes de seguridad social;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XI.- Revisar los cuadernos de valuación y sus anexos elaborados por las instituciones de seguros de pensiones derivados de las leyes de seguridad social;
+X.- Vigilar el comportamiento técnico de las operaciones en las instituciones de seguros de pensiones derivados de las leyes de seguridad social; así como en las operaciones en las instituciones de seguros especializadas en el ramo de salud;
 
-> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XII.- Elaborar los estados actuariales de pérdidas y ganancias de las instituciones de seguros de pensiones derivados de las leyes de seguridad social;
+XI.- Revisar los cuadernos de valuación y sus anexos elaborados por las instituciones de seguros de pensiones derivados de las leyes de seguridad social, así como por las instituciones de seguros especializadas en el ramo de salud;
 
-> <small>(ADICIONADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XIII.- Revisar el cálculo del capital mínimo de garantía que presenten las instituciones autorizadas para la práctica de los seguros de pensiones derivados de las leyes de seguridad social;
+XII.- Elaborar y revisar los estados actuariales de pérdidas y ganancias de las instituciones de seguros de pensiones derivados de las leyes de seguridad social, así como de las instituciones de seguros especializadas en el ramo de salud;
+
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+XIII.- Revisar el cálculo del capital mínimo de garantía que presenten las instituciones autorizadas para la práctica de los seguros de pensiones derivados de las leyes de seguridad social, así como las instituciones de seguros especializadas en el ramo de salud;
 
 XIV.- Realizar la investigación de actos que hagan suponer la ejecución de operaciones violatorias a la Ley General de Instituciones y Sociedades Mutualistas de Seguros, a la Ley del Seguro Social y a la Ley de los Sistemas de Ahorro para el Retiro, pudiendo realizar visitas de inspección a los presuntos responsables e instrumentar su intervención y, en su caso, clausura;
 
@@ -527,71 +565,23 @@ XVII.- Recibir y resolver en el ámbito de su competencia, sobre los planes de r
 
 XVIII.- Las demás que se le encomienden.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 28.
 
-Corresponde a la Dirección de Inspección del Seguro de Pensiones, la tramitación, instrumentación y ejecución de las facultades que en materia de inspección tiene conferidas la Dirección General de Supervisión del Seguro de Pensiones a que se refieren las fracciones I a IV, VI, VIII a X y XIV a XVIII, del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+Corresponde a la Dirección de Inspección del Seguro de Pensiones y Salud, la tramitación, instrumentación y ejecución de las facultades que en materia de inspección tiene conferidas la Dirección General de Supervisión del Seguro de Pensiones y Salud a que se refieren las fracciones I a IV, VI, VIII a X y XIV a XVIII, del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 29.
 
-Corresponde a la Dirección de Vigilancia del Seguro de Pensiones, la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión del Seguro de Pensiones a que se refieren las fracciones IV a XIII y XV a XVIII, del artículo 27 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+Corresponde a la Dirección de Vigilancia del Seguro de Pensiones y Salud, la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión del Seguro de Pensiones y Salud a que se refieren las fracciones IV a XIII y XV a XVIII, del artículo 27 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(ADICIONADO, D.O.F. 20 DE FEBRERO DE 2001)</small>
+ARTÍCULO 29 BIS.- (DEROGADO, D.O.F. 5 DE JUNIO DE 2008)
 
-ARTÍCULO 29 BIS.- Corresponde a la Dirección General de Supervisión del Seguro de Salud, de la cual dependen las Direcciones de Inspección del Seguro de Salud y de Vigilancia del Seguro de Salud, ejercer la inspección y vigilancia de la operación técnica de las instituciones especializadas autorizadas para operar en el ramo de salud, para lo cual tendrá las siguientes atribuciones:
+ARTÍCULO 29 BIS-1.- (DEROGADO, D.O.F. 5 DE JUNIO DE 2008)
 
-I.- Formular para su aprobación, el programa anual de visitas de inspección de carácter técnico y actuarial;
-
-> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
-
-II.- Ordenar y practicar las visitas de inspección conforme al programa a que se refiere la fracción anterior, así como practicar las demás visitas de inspección previstas en las leyes aplicables;
-
-III.- Supervisar el desarrollo de las visitas practicadas, evaluar sus resultados y formular los informes correspondientes;
-
-IV.- Formular las observaciones derivadas de la inspección y vigilancia, proponiendo las medidas correctivas a que haya lugar;
-
-V.- Vigilar que las instituciones de seguros especializadas en el ramo de salud, constituyan las reservas técnicas conforme a procedimientos actuariales aprobados y operen con tarifas registradas, en coordinación con la Dirección General de Supervisión Financiera;
-
-VI.- Vigilar que las instituciones de seguros especializadas en el ramo de salud, cumplan las observaciones que con motivo de las visitas de inspección se formulen;
-
-VII.- Registrar las notas técnicas en que se sustenten las coberturas y planes de seguros, y ordenar, en su caso, la corrección de las mismas;
-
-VIII.- Hacer del conocimiento de las autoridades superiores de la Comisión las irregularidades observadas, en ejercicio de sus funciones;
-
-IX.- Tramitar, proponer y, en su caso, imponer de conformidad con el acuerdo delegatorio correspondiente, las sanciones previstas en la Ley General de Instituciones y Sociedades Mutualistas de Seguros, por violaciones a dichos ordenamientos y a las disposiciones administrativas que de ellas emanen, relacionadas con las atribuciones de su competencia;
-
-X.- Vigilar el comportamiento técnico de las operaciones en las instituciones de seguros especializadas en el ramo de salud;
-
-XI.- Revisar los cuadernos de valuación y sus anexos elaborados por las instituciones de seguros especializadas en el ramo de salud;
-
-XII.- Revisar los estados actuariales de pérdidas y ganancias que elaboren las instituciones de seguros especializadas en el ramo de salud;
-
-XIII.- Revisar el cálculo del capital mínimo de garantía que presenten las instituciones de seguros especializadas en el ramo de salud;
-
-XIV.- Realizar la investigación de actos que hagan suponer la ejecución de operaciones violatorias a la Ley General de Instituciones y Sociedades Mutualistas de Seguros, pudiendo realizar visitas de inspección a los presuntos responsables e instrumentar su intervención y, en su caso, clausura;
-
-XV.- Ordenar, cuando así proceda en el ámbito de su competencia, la modificación o suspensión de la propaganda o publicidad de las instituciones, personas y entidades regidas por las leyes de la materia;
-
-> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
-
-XVI.- Coordinarse con las delegaciones regionales en las funciones de su competencia;
-
-> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
-
-XVII.- Recibir y resolver en el ámbito de su competencia, sobre los planes de regularización y programas de autocorrección que presenten las instituciones de seguros especializadas en el ramo de salud, y
-
-XVIII.- Las demás que se le encomienden.
-
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
-
-ARTÍCULO 29 BIS-1.- Corresponde a la Dirección de Inspección del Seguro de Salud, la tramitación, instrumentación y ejecución de las facultades que en materia de inspección tiene conferidas la Dirección General de Supervisión del Seguro de Salud a que se refieren las fracciones I a IV, VI, VIII a X y XIV a XVIII, del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
-
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
-
-ARTÍCULO 29 BIS-2.- Corresponde a la Dirección de Vigilancia del Seguro de Salud, la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión del Seguro de Salud a que se refieren las fracciones IV a XIII y XV a XVIII, del artículo 29 Bis de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+ARTÍCULO 29 BIS-2.- (DEROGADO, D.O.F. 5 DE JUNIO DE 2008)
 
 ###### ARTÍCULO 30.
 
@@ -602,6 +592,10 @@ I.- Realizar el estudio de asuntos específicos de tipo financiero que atañan a
 II.- Realizar el estudio de asuntos de carácter económico relacionados con las materias de seguros y fianzas;
 
 III.- Compilar, estudiar, diseñar, difundir y publicar estadísticas relacionadas con las materias de seguros y de fianzas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+III Bis.- Vigilar que el contenido de la información estadística, que de forma periódica están obligadas a entregar las instituciones y sociedades mutualistas de seguros y las instituciones de fianzas a la Comisión, se apegue a las disposiciones legales y administrativas aplicables;
 
 IV.- Realizar el estudio de asuntos de carácter técnico asegurador y afianzador, ya sea relacionados con instituciones específicas o con los sectores correspondientes en su conjunto;
 
@@ -619,33 +613,37 @@ IX.- Tramitar, proponer y, en su caso, imponer de conformidad con el acuerdo del
 
 X.- Mantener en forma permanente datos estadísticos y documentos para la investigación y estudio del mercado asegurador y afianzador;
 
-> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XI.- Recibir y resolver en el ámbito de su competencia, sobre los programas de autocorrección que presenten las instituciones y sociedades mutualistas de seguros y las instituciones de fianzas, y
+XI.- Recibir y resolver en el ámbito de su competencia, sobre los planes de regularización y programas de autocorrección que presenten las instituciones y sociedades mutualistas de seguros y las instituciones de fianzas, y
 
 XII.- Las demás que se le encomienden.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 31.
 
-Corresponde a la Dirección de Asuntos Económicos la instrumentación, tramitación y ejecución de las facultades que en materia de asuntos económicos, financieros e internacionales tiene conferidas la Dirección General de Desarrollo e Investigación, a que se refieren las fracciones I a III y VI a XII del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+Corresponde a la Dirección de Asuntos Económicos la instrumentación, tramitación y ejecución de las facultades que en materia de asuntos económicos, financieros e internacionales tiene conferidas la Dirección General de Desarrollo e Investigación, a que se refieren las fracciones I a III, VI a X y XII del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 32.
 
-Corresponde a la Dirección de Asuntos Actuariales la tramitación, instrumentación y ejecución de las facultades que en materia de asuntos técnicos y actuariales tiene conferidas la Dirección General de Desarrollo e Investigación, a que se refieren las fracciones III a VI, VIII, IX y XII del artículo 30 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+Corresponde a la Dirección de Asuntos Actuariales la tramitación, instrumentación y ejecución de las facultades que en materia de asuntos técnicos y actuariales tiene conferidas la Dirección General de Desarrollo e Investigación, a que se refieren las fracciones III a VI, y VIII a XII del artículo 30 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 33.
 
-Corresponde a la Dirección General Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional, de la cual dependen las Direcciones Consultiva; de Contratación; de Intermediarios, Registros y Enlace Regional, y las Delegaciones Regionales, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General Jurídica Consultiva y de Intermediarios, de la cual dependen la Dirección Consultiva, la Dirección de Contratación, la Dirección de Intermediarios, Registros y Enlace Regional, así como las Delegaciones Regionales, el ejercicio de las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
 
 I.- Atender y resolver las consultas de carácter jurídico a solicitud de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+I Bis.- Emitir opinión a la Secretaría de Hacienda y Crédito Público, respecto de las consultas relacionadas con las disposiciones de carácter general a que se refieren los artículos 140 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, 112 de la Ley Federal de Instituciones de Fianzas y demás disposiciones legales y administrativas relacionadas con la materia, en el ámbito de competencia de la Comisión Nacional de Seguros y Fianzas;
 
 > <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
 
@@ -691,21 +689,19 @@ XI.- Recibir los informes de los nombramientos y avisos de baja de consejeros, c
 
 XII.- Autorizar el ejercicio de la actividad de agentes y apoderados de seguros y de fianzas, de ajustadores e intermediarios de reaseguro;
 
-> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XIII.- Llevar los registros de asesores externos de seguros de las Dependencias y Entidades de la Administración Pública Federal y de auditores externos de las instituciones y sociedades mutualistas de seguros y de las instituciones de fianzas, así como proceder a su cancelación o suspensión de acuerdo con las disposiciones legales aplicables, en coordinación con las Direcciones Generales de Supervisión Financiera, de Supervisión de Reaseguro, de Supervisión Actuarial, de Supervisión del Seguro de Pensiones y de Supervisión del Seguro de Salud;
+XIII.- Llevar los registros de asesores externos de seguros de las Dependencias y Entidades de la Administración Pública Federal y de auditores externos de las instituciones y sociedades mutualistas de seguros y de las instituciones de fianzas, así como proceder a su cancelación o suspensión de acuerdo con las disposiciones legales aplicables, en coordinación con las Direcciones Generales de Supervisión Financiera, de Supervisión de Reaseguro, de Supervisión Actuarial, y de Supervisión del Seguro de Pensiones y Salud;
 
 > <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
 
 XIV.- Analizar y aprobar en su caso, los estatutos de los intermediarios de seguros, fianzas y de reaseguro;
 
-> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XV.- Llevar el registro de institutos y centros de capacitación, aprobar sus planes y programas, en los términos de las disposiciones legales aplicables;
+XV.- Atender y resolver las solicitudes de designación de centros de aplicación de exámenes de agentes de seguros y de fianzas, así como de los empleados o apoderados de personas morales a que se refiere el artículo 41, fracción II, de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, así como realizar visitas de inspección especiales a dichos centros;
 
-> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
-
-XVI.- Llevar el registro de instructores de las instituciones de seguros y fianzas;
+XVI.- (DEROGADA, D.O.F. 5 DE JUNIO DE 2008)
 
 > <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
 
@@ -733,29 +729,29 @@ XXI.- Coordinar a las delegaciones regionales en las funciones de su competencia
 
 XXII.- Hacer del conocimiento de las autoridades superiores de la Comisión, las irregularidades observadas en ejercicio de sus funciones;
 
-> <small>(ADICIONADA, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-XXIII.- Recibir y resolver en el ámbito de su competencia, sobre los programas de autocorrección que presenten las instituciones y sociedades mutualistas de seguros y las instituciones de fianzas, y
+XXIII.- Recibir y resolver en el ámbito de su competencia, sobre los planes de regularización y programas de autocorrección que presenten las instituciones y sociedades mutualistas de seguros y las instituciones de fianzas, y
 
 > <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2001)</small>
 
 XXIV.- Las demás que se le encomienden.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 34.
 
-Corresponde a la Dirección Consultiva, la tramitación, instrumentación y ejecución de las facultades que tiene conferidas la Dirección General Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional, a que se refieren las fracciones I a III, V a VIII, X y XX a XXIV del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+Corresponde a la Dirección Consultiva, la tramitación, instrumentación y ejecución de las facultades que tiene conferidas la Dirección General Jurídica Consultiva y de Intermediarios, a que se refieren las fracciones I a III, V a VIII, X y XX a XXIV del artículo anterior, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
-ARTÍCULO 34 BIS.- Corresponde a la Dirección de Contratación, la tramitación, instrumentación y ejecución de las facultades que tiene conferidas la Dirección General Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional, a que se refieren las fracciones II, IV, IX, X y XX a XXIV del artículo 33 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+ARTÍCULO 34 BIS.- Corresponde a la Dirección de Contratación, la tramitación, instrumentación y ejecución de las facultades que tiene conferidas la Dirección General Jurídica Consultiva y de Intermediarios, a que se refieren las fracciones II, IV, IX, X y XX a XXIV del artículo 33 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 35.
 
-Corresponde a la Dirección de Intermediarios, Registros y Enlace Regional, la tramitación, instrumentación y ejecución de las facultades que tiene conferidas la Dirección General Jurídica Consultiva, de Contratación, Intermediarios y Coordinación Regional, a que se refieren las fracciones XI a XXIV del artículo 33 del presente Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
+Corresponde a la Dirección de Intermediarios, Registros y Enlace Regional, la tramitación, instrumentación y ejecución de las facultades que tiene conferidas la Dirección General Jurídica Consultiva y de Intermediarios, a que se refieren las fracciones XI a XV, y XVII a XXIV del artículo 33 del presente Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
 > <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
@@ -827,7 +823,9 @@ III.- Determinar los programas de adquisiciones informáticas que atiendan las n
 
 IV.- Analizar procedimientos y propiciar la automatización de la entrega de la información periódica que las instituciones de seguros y fianzas deben presentar a la Comisión;
 
-V.- Constituirse, para efectos legales, como ventanilla única de recepción de toda la información que, de forma periódica, están obligadas a entregar las instituciones de seguros y fianzas a la Comisión a través de medios electrónicos y magnéticos, para efectos de supervisión y vigilancia;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2008)</small>
+
+V.- Constituirse, para efectos legales, como ventanilla única de recepción de toda la información que, de forma periódica, están obligadas a entregar a esta Comisión, las instituciones y sociedades mutualistas de seguros, instituciones de fianzas y demás personas sujetas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, a través de medios electrónicos y magnéticos, para efectos de supervisión y vigilancia;
 
 VI.- Proporcionar a los usuarios internos y externos de los sistemas informáticos de la Comisión, el soporte y la asesoría que requieran;
 
@@ -1026,3 +1024,15 @@ Los asuntos pendientes a la entrada en vigor de este Decreto, que conforme al mi
 ###### ARTÍCULO CUARTO.
 
 En tanto se expide el Reglamento Interior de la Secretaría de la Función Pública, serán aplicables las disposiciones del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, por lo que respecta al ámbito de competencia, facultades y suplencias del Titular del Órgano Interno de Control y de los Titulares de las áreas de responsabilidades, de auditoría interna, de auditoría de control y evaluación, y de quejas, nombrados en la Comisión Nacional de Seguros y Fianzas.
+
+D.O.F. 5 DE JUNIO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor de este Reglamento serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente.
+
+TERCERO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley.
+
+CUARTO.- La Dirección General de Administración realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+QUINTO.- Las modificaciones que, en su caso, se lleven a cabo a la estructura orgánica de la Comisión, se deberán realizar mediante movimientos compensados que no impliquen un aumento en el presupuesto regularizable de servicios personales aprobado.
