@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-ambiental-para-el-desarrollo-sustentable-4317
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2006-10-24"
+last_updated: "2008-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE PROTECCION AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -1980,3 +1982,33 @@ P.O. 24 DE OCTUBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Código se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días siguientes al de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+El artículo 157 del presente Código entrará en vigor a los tres años posteriores a su publicación. Los Ayuntamientos deberán promover programas de concientización para la creación de una cultura de separación de los residuos sólidos entre la población.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas, expedida por Decreto No. LVIII-858 del 19 de octubre de 2004 de la Quincuagésima Octava Legislatura, publicada en el Periódico Oficial del Estado con fecha del 29 de diciembre de 2004, y sus reformas y adiciones contenidas en los Decretos No. LlX-39, del 7 de septiembre de 2005 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 122, del 12 de octubre del 2005, y el Decreto No. LlX-568, del 27 de septiembre de 2006 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 127, del 24 de octubre del 2006.
+
+###### ARTICULO CUARTO.
+
+Se abroga el Decreto Gubernamental mediante el cual se establece el Registro Estatal Ambiental (REA), publicado en el Periódico Oficial del Estado No. 102, del 22 de agosto del 2002.
+
+###### ARTICULO QUINTO.
+
+Todos los asuntos que se encuentren en trámite al entrar en vigor el presente Código se desahogarán en los términos previstos por la ley o leyes vigentes al momento de su inicio. Los trámites que se hayan iniciado durante la vigencia de la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas deberán concluirse atendiendo dicha ley.
+
+###### ARTICULO SEXTO.
+
+En términos de las atribuciones que le confieren las normas constitucionales aplicables, el Ejecutivo del Estado contará con 180 días a partir de la publicación del presente Código para expedir las disposiciones reglamentarias a que se refiere este Código, conforme a los estudios que realicen en torno a la operatividad de sus preceptos.
+
+###### ARTICULO SEPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Código.
