@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2006-09-06"
+last_updated: "2008-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -67,15 +67,65 @@ VII.- Emergencia.- La situación derivada de fenómenos naturales, actividades h
 
 VIII.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta ley, existen establecimientos de competencia Estatal, y de competencia Municipal;
 
-IX.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-XI.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y, en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
+IX.- Fenómeno geológico.- Calamidad que tiene como causa las acciones y movimientos violentos de la corteza terrestre. A esta categoría pertenecen los sismos o terremotos, las erupciones volcánicas, los tsunamis o maremotos y la inestabilidad de suelos, también conocido como movimientos de tierra, los que pueden adoptar diferentes formas: arrastre lento o reptación, deslizamiento, flujo o corriente, avalancha o alud, derrumbe y hundimiento;
 
-XII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+X.- Fenómeno hidrometeorológico.- Calamidad que se genera por la acción violenta de los agentes atmosféricos, tales como: huracanes, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías y las ondas cálidas y gélidas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XI.- Fenómeno químico-tecnológico.- Calamidad que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas y radiaciones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XII.- Fenómeno sanitario-ecológico.- Calamidad que se genera por la acción patógena de agentes biológicos que atacan a la población, a los animales y a las cosechas, causando su muerte o la alteración de salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIII.- Fenómeno socio-organizativo.- Calamidad generada por motivo de errores o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población;
+
+XIV.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+
+XV.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
+
+XVI.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y, en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XVII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XVIII.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIX.- Zona de desastre.- Espacio territorial determinado en el tiempo para la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XX.- Zona de salvaguarda.- Espacio territorial comprendido entre el área en la cual se realizan las actividades altamente riesgosas o riesgosas, con objeto de amortiguar las eventuales consecuencias para la población de la presencia de una contingencia o emergencia derivada de dichas actividades.
 
 ###### ARTICULO 3°.
 
@@ -175,6 +225,12 @@ Debe integrarse además al Sistema Estatal de Protección Civil, la información
 
 El Consejo de Protección Civil del Estado de Tamaulipas es la institución de coordinación, planeación y supervisión del Sistema Estatal de Protección Civil, así como de colaboración y participación, que tiene como fin proteger la vida, la salud y el patrimonio de las personas; la planta productiva, la prestación de servicios públicos y el medio ambiente; ante los riesgos, altos riesgos, emergencias o desastres producidos por causas de origen natural o humano.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+El Consejo de Protección Civil del Estado ejercerá todas las acciones necesarias para garantizar la salud y seguridad de los habitantes del Estado ante la amenaza de cualquier peligro inminente, sin importar su tipo u origen.
+
 ###### ARTICULO 14.
 
 El Consejo de Protección Civil del Estado de Tamaulipas, se integra por:
@@ -197,7 +253,9 @@ V.- El Secretario de Desarrollo Social, Cultura y Deporte del Estado, quien asis
 
 VI.- El Secretario de Educación, del Estado, quien asistirá con carácter de vocal;
 
-VII.- Los Delegados en el Estado de las Dependencias o Entidades Federales relacionadas con el ramo, quienes tendrán el carácter de vocales;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VII.- El titular de la Agencia Ambiental para el Desarrollo Sustentable;
 
 VIII.- Un representante por cada uno de los Sistemas Municipales de Protección Civil, quienes tendrán el carácter de vocales; y
 
@@ -285,7 +343,11 @@ VIII.- Vincular, coordinar y, en su caso, solicitar apoyo al Sistema Nacional de
 
 IX.- Coordinar acciones con las dependencias federales y con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional e internacional que se reciba en caso de alto riesgo, emergencia o desastre;
 
-X.- Evaluar, ante una situación de emergencia o desastre, la capacidad de respuesta de la Entidad y, en su caso, la procedencia para solicitar apoyo al Gobierno Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+X.- Evaluar, ante una situación de emergencia o desastre, la capacidad de respuesta del Estado y, en su caso, la pertinencia de solicitar apoyo al Gobierno Federal, debiendo tomar las medidas preventivas inminentes para evitar cualquier daño a la población;
 
 XI.- Proponer al Consejo la integración de los comités o comisiones de trabajo que se estimen necesarias;
 
@@ -489,7 +551,11 @@ j).- Oficinas de la Administración Pública Estatal, incluyendo las correspondi
 
 k).- Centrales y delegaciones de policía, penitenciarias, y demás edificios e instalaciones destinados a proporcionar y preservar la seguridad pública;
 
-l).- Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a mil metros cuadrados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+l).- Industrias, talleres o bodegas sobre terrenos con superficie iguales o mayores a mil metros cuadrados. Así como toda industria que utilice, produzca o transporte materiales contaminantes, o que impliquen cualquier peligro de contingencia a la población con su simple manipulación;
 
 m).- Destino final de desechos sólidos;
 
@@ -1184,3 +1250,13 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 90 días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
