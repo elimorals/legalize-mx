@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2007-03-13"
+last_updated: "2008-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -91,9 +91,23 @@ V.- Destinados a la generación y conservación del empleo, a las actividades pr
 
 VI.- Dirigidos a la realización de obras de infraestructura social y equipamiento urbano;
 
-VII.- De educación obligatoria; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- De atención médica y los que tengan por objeto la realización de campañas de prevención y control de enfermedades transmisibles.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VII.- De educación obligatoria;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VIII.- De atención médica y los que tengan por objeto la realización de campañas de prevención y control de enfermedades; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+IX.- Destinados al cuidado y protección al medio ambiente y los recursos naturales para asegurar la sustentabilidad del desarrollo.
 
 ###### ARTICULO 15.
 
@@ -221,9 +235,23 @@ VI.- Fomentar el sector social de la economía;
 
 VII.- Establecer mecanismos de evaluación y seguimiento de los programas sociales;
 
-VIII.- Determinar las bases para la participación social en la materia; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Promover el establecimiento de instrumentos de acceso a la justicia, a través de la denuncia popular, en materia de desarrollo social.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VIII.- Determinar las bases para la participación social en la materia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+IX.- Promover el establecimiento de instrumentos de acceso a la justicia, a través de la Denuncia popular, en materia de desarrollo social; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+X.- Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos naturales y la preservación de los ecosistemas para alcanzar la sustentabilidad del desarrollo y mejorar la calidad de vida y la productividad de las personas.
 
 ###### ARTICULO 32.
 
@@ -559,9 +587,23 @@ II.- Asistencia social;
 
 III.- Desarrollo regional;
 
-IV.- Infraestructura social; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Fomento del sector social de la economía.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+IV.- Infraestructura social;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+V.- Fomento del sector social de la economía; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VI.- Promoción del desarrollo sustentable.
 
 ### Capítulo III. De los Objetivos
 
@@ -573,9 +615,23 @@ I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales,
 
 II.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
-III.- Fortalecer el desarrollo regional equilibrado; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+III.- Fortalecer el desarrollo regional equilibrado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+V.- Fomentar el desarrollo sustentable.
 
 ### Capítulo IV. De la Planeación
 
@@ -658,6 +714,16 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En el ámbito de sus facultades, la Secretaría de Educación del Estado, elaborará la reglamentación del programa en la que se establezcan los requisitos y procedimientos necesarios para hacer efectivo el derecho que establece el artículo 43 de esta Ley, así como los mecanismos para la evaluación y fiscalización del programa.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días posteriores.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
 
 ###### ARTICULO UNICO.
 
