@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-para-el-estado-de-tamaulipas-8223"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-30"
-last_updated: "2006-09-06"
+last_updated: "2008-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de junio de 1993.
 
@@ -151,7 +151,9 @@ Una vez aprobado el Programa Estatal de Turismo, deberá publicarse en el Perió
 
 La Secretaría deberá implementar el Programa Operativo Anual que defina las acciones concretas que permitan el cumplimiento del Programa Estatal de Turismo.
 
-### CAPITULO III. TURISMO SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 2008)</small>
+
+### CAPITULO III. TURISMO SOCIAL Y DE NATURALEZA
 
 ###### ARTICULO 12.
 
@@ -170,6 +172,48 @@ La Secretaría podrá concertar acuerdos con los prestadores de servicios turís
 ###### ARTICULO 15.
 
 La Secretaría concertará con los sectores social y privado su participación en programas que hagan posible el turismo de sus trabajadores en temporadas y condiciones convenientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+ARTICULO 15 BIS.- El turismo de naturaleza se agrupa en tres segmentos dependiendo del interés del turista en estar en contacto con el medio ambiente:
+
+I. Turismo de aventura de bajo impacto;
+
+II. Turismo rural; y
+
+III. Ecoturismo.
+
+El turismo de aventura de bajo impacto está constituido por las visitas y recorridos que tienen como fin realizar actividades físicas y recreativas para superar un reto impuesto por la naturaleza.
+
+El turismo rural está constituido por las visitas y recorridos que tienen como fin realizar actividades de convivencia e interacción con una comunidad rural, con respecto a sus expresiones sociales, culturales y productivas cotidianas.
+
+El ecoturismo está constituido por las visitas y recorridos de espacios naturales con el compromiso de no afectarlos ni perturbarlos. Es una modalidad turística ambientalmente responsable, cuyo fin es disfrutar, apreciar o estudiar los atractivos naturales de dichos espacios, así como de cualquier manifestación natural o cultural del presente y del pasado que ahí se encuentre, a través de un proceso que promueve la conservación del área. El ecoturismo tiene bajo impacto ambiental y cultural e induce a un involucramiento activo con las poblaciones locales para su beneficio económico y social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+ARTICULO 15 TER.- Forman parte de las actividades del ecoturismo, las siguientes:
+
+I. Talleres de educación ambiental: las actividades didácticas en contacto directo con la naturaleza que, en lo posible, involucran a las comunidades locales. Su finalidad es sensibilizar y concienciar a los participantes de la importancia de las relaciones entre los diferentes elementos de la naturaleza;
+
+II. Observación de ecosistemas: las actividades de ocio realizadas en un contexto natural cuyo fin principal es conocer las funciones específicas de los diferentes elementos que componen uno o varios ecosistemas;
+
+III. Observación de fauna: las actividades recreativas consistentes en presenciar la vida animal en su hábitat natural;
+
+IV. Observación de fenómenos y atractivos especiales de la naturaleza: las actividades de ocio que consisten en presenciar eventos previsibles de la naturaleza, así como visitar sitios que por sus características naturales se consideran singulares;
+
+V. Observación de flora: las actividades recreativas consistentes en la observación e interpretación del universo vegetal, en cualquiera de sus manifestaciones;
+
+VI. Observación de fósiles: las actividades recreativas consistentes en la búsqueda y el conocimiento de formas de vida fosilizadas en el medio natural;
+
+VII. Observación geológica: las actividades de ocio destinadas a conocer, apreciar o disfrutar formaciones geológicas de cualquier forma y dimensión;
+
+VIII. Observación sideral: las actividades de ocio consistentes en la apreciación o disfrute de las manifestaciones del cosmos a campo abierto; y
+
+IX. Senderismo interpretativo: las actividades recreativas consistentes en el tránsito a pie o en transporte no motorizado por un camino a campo traviesa predefinido y equipado con cédulas de información o señalamientos o con base en la guía de intérpretes de la naturaleza, cuyo objetivo es el conocimiento de un medio natural.
 
 ### CAPITULO IV. ZONAS DE DESARROLLO TURISTICO PRIORITARIO
 
@@ -335,7 +379,11 @@ II.- Solo establecerá garantías a cargo de los prestadores de servicios cuando
 
 Las normas oficiales mexicanas y las normas mexicanas relacionadas con la prestación de los servicios turísticos, serán emitidas por el nivel federal, en los términos de la legislación correspondiente, debiendo apegarse la actividad turística del Estado a ellas.
 
-La Secretaría deberá difundir ampliamente dichas normas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+La Secretaría deberá difundir ampliamente dichas normas y elaborar las Normas Técnicas Estatales que establezcan los requisitos técnicos de capacitación para la obtención de certificados como prestador de servicios turísticos en el Estado, para aquellas actividades que se desarrollen en áreas naturales protegidas estatales, de conformidad con el Código para el Desarrollo Sustentable del Estado.
 
 ###### ARTICULO 46.
 
@@ -352,6 +400,12 @@ IV.- Contar con los formatos foliados y de porte pagado en el sistema de quejas 
 V.- Conservar en las mejores condiciones de higiene y eficiencia los locales, instalaciones y equipos que se ofrecen al turista.
 
 VI.- Observar las disposiciones legales existentes en materia de turismo, salud, prevención y protección al consumidor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+ARTICULO 46 BIS.- El prestador de servicios turísticos que brinde un servicio en un área natural protegida, sujeta a la jurisdicción del Estado, por el que se causen derechos, será solidariamente responsable de su pago y del pago del derecho causado por el acceso de su cliente al área natural protegida. En su caso, se hará acreedor a las sanciones que procedan, independientemente de que realice el pago correspondiente, si presta el servicio sin cerciorarse de que hayan sido pagados dichos derechos en términos de la Ley de Hacienda para el Estado.
 
 ### CAPITULO X. PROTECCION AL TURISMO
 
@@ -399,7 +453,7 @@ En relación a las sanciones que se deriven de quejas presentadas por turistas, 
 
 Para determinar el monto de las sanciones a aplicar, la Secretaría deberá emitir previamente una resolución fundada y motivada.
 
-Los montos de las sanciones nunca podrán ser mayores a los considerados en la Ley Federal de Turismo y deberán ser, además, correlativos a la gravedad de la infracción. No podrá sancionarse dos o más ocasiones el mismo hecho constitutivo.
+Los montos de las sanciones nunca podrán ser mayores a los considerados en la Ley Federal de Turismo y deberán ser, además, correlativos a la gravedad de la infracción. No podrá (sic) sancionarse dos o más ocasiones el mismo hecho constitutivo.
 
 ###### ARTICULO 56.
 
@@ -514,3 +568,13 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 90 días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
