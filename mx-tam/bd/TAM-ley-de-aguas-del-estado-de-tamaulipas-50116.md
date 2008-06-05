@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2007-08-22"
+last_updated: "2008-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULlPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -93,7 +93,11 @@ VII. Aguas residuales tratadas: Las aguas residuales después de haber recibido 
 
 VIII. Alcantarillado Sanitario: El servicio público que permite desalojar las aguas residuales de los predios.
 
-IX. Área de Conservación Natural: Los territorios que deban mantenerse en su estado natural, conforme a lo establecido en la Ley de Desarrollo Urbano del Estado; la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado y la Ley de Expropiación, Ocupación Temporal o Limitación de Dominio, vigentes en el Estado de Tamaulipas, u otros ordenamientos generales del Poder Legislativo que así lo dispongan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+IX. Área de Conservación Natural: Los territorios que deban mantenerse en su estado natural, conforme a lo establecido en el Código para el Desarrollo Sustentable del Estado, la Ley para el Desarrollo Urbano del Estado y la Ley de Expropiación, Ocupación Temporal o Limitación de Dominio vigentes en la entidad federativa, u otros ordenamientos generales del Poder Legislativo que así lo dispongan.
 
 X. Área de Factibilidad de los Servicios: El territorio donde es posible prestar los servicios de agua potable o drenaje sanitario sin necesidad de invertir en infraestructura para los sistemas de captación, conducción, potabilización, almacenamiento, desalojo y tratamiento de aguas residuales.
 
@@ -247,7 +251,11 @@ IV. Reglamentar el uso y aprovechamiento de las aguas de jurisdicción estatal;
 
 V. Expedir y evaluar las políticas que orienten el fomento y el desarrollo hidráulico equilibrado y sustentable en el Estado;
 
-VI. Realizar las acciones necesarias para prevenir y controlar la contaminación del agua para el mejoramiento de su calidad, en los términos que establece la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VI. Realizar las acciones necesarias para prevenir y controlar la contaminación del agua para el mejoramiento de su calidad, en los términos que establece el Código para el Desarrollo Sustentable del Estado;
 
 VII. Expedir las declaratorias de los cuerpos de agua de jurisdicción estatal;
 
@@ -329,7 +337,11 @@ XXVI. Ser instancia de atención y trámite de requerimientos y asesoría a usua
 
 XXVII. Coordinarse con las instancias federales, estatales, municipales e internacionales para participar, en el ámbito de su competencia, en la evaluación y, en su caso, autorización de los programas, proyectos y ejecución de las obras que incidan en el uso, manejo, control, explotación, aprovechamiento del agua, tratamiento y reuso de las aguas residuales y residuales tratadas;
 
-XXVIII. Coordinarse con las instancias federales, estatales y municipales para participar, en el ámbito de su competencia, en la verificación del cumplimiento de lo que establece la Ley de Protección Ambiental para el Desarrollo Sustentable de Tamaulipas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXVIII. Coordinarse con las instancias federales, estatales y municipales para participar en el ámbito de su competencia, en la verificación del cumplimiento de lo que establece el Código para el Desarrollo Sustentable del Estado;
 
 XXIX. Promover las relaciones de coordinación y la creación de fideicomisos con las autoridades federales, estatales y municipales, instituciones sociales y privadas nacionales e internacionales, para el trámite y financiamiento de obras y la atención de asuntos de interés común;
 
@@ -2027,13 +2039,23 @@ d. Por la reconexión de servicios cancelados;
 
 e. Por la realización de trabajos especializados;
 
-f. Por la elaboración de proyectos; y
+f. Por la elaboración de proyectos; y (sic)
 
-g. Por el mantenimiento correctivo a la infraestructura hidráulica o sanitaria cuando el daño haya sido imputable al usuario.
+g. Por el mantenimiento correctivo a la infraestructura hidráulica o sanitaria cuando el daño haya sido imputable al usuario;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+h. Por los servicios ambientales proporcionados por los elementos del ciclo hidrológico involucrado en el abastecimiento de agua en la localidad.
 
 ###### Artículo 141.
 
-1. Los precios y tarifas deberán ser suficientes para cubrir los costos de operación, administración y conservación; pago de pasivos, y constitución de un fondo de reservas para sustituir, ampliar, rehabilitar y mejorar la infraestructura hidráulica sanitaria y demás activos del prestador de los servicios públicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+1. Los precios y tarifas deberán ser suficientes para cubrir los costos de operación, administración y conservación de infraestructura; pago de pasivos; pago de servicios ambientales, y constitución de un fondo de reservas para sustituir, ampliar, rehabilitar y mejorar la infraestructura hidráulica sanitaria y demás activos del prestador de los servicios públicos; así como la conservación y vigilancia de la cuenca y todos los elementos del ciclo hidrológico.
 
 2. Todos los usuarios, tanto del sector público, social y privado, están obligados al pago de los servicios públicos conforme a los precios y tarifas que se establezcan y actualicen en los términos de esta ley por el prestador de dichos servicios.
 
@@ -2041,21 +2063,39 @@ g. Por el mantenimiento correctivo a la infraestructura hidráulica o sanitaria 
 
 3. Se otorgarán bonificaciones del 50% en el pago de las contribuciones por esos servicios, a jubilados, pensionados, adultos mayores de 60 años y discapacitados hasta un consumo máximo de 20 metros cúbicos, cuando se trate del domicilio donde vivan y el servicio esté registrado a su nombre, previa comprobación de dicha circunstancia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
 ###### Artículo 142.
 
-Las tarifas para calcular el cobro por el servicio de agua deberán considerar en su estructura niveles de consumo para cada uso autorizado, estableciéndose precios más altos para los niveles de mayor consumo a fin de promover el uso eficiente del agua.
+1. Las tarifas para calcular el cobro por el servicio de agua deberán considerar en su estructura niveles de consumo para cada uso autorizado, estableciéndose precios más altos para los niveles de mayor consumo a fin de promover el uso eficiente del agua.
+
+2. Asimismo, las tarifas deberán considerar los servicios ambientales proporcionados por los elementos del ciclo hidrológico, tomándose en cuenta la capacidad de captación, superficie involucrada, restauración que sea necesaria y otras medidas pertinentes para la preservación y mejora de dichos servicios. Al efecto, la autoridad u organismo operador a cargo de la prestación y cobro del servicio de agua, establecerá la coordinación necesaria con la Agencia Ambiental para el Desarrollo Sustentable, a fin de establecer el monto del cobro por los servicios ambientales y el destino que se dará a esos ingresos para compensar el deterioro de elementos del ciclo hidrológico.
+
+3. En todo caso, el acuerdo tarifario distinguirá el porcentaje del pago correspondiente a los servicios ambientales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### Artículo 143.
 
-Al precio que se establezca para cada metro cúbico de agua servida se le aplicarán dos porcentajes: uno para el cobro del servicio de alcantarillado sanitario, y otro para el cobro del servicio de tratamiento de las aguas residuales.
+El precio que se establezca para cada metro cúbico de agua servida será el resultado de la suma de tres elementos: uno correspondiente al cobro del servicio de alcantarillado sanitario, otro para el cobro del servicio de tratamiento de las aguas residuales y otro para el cobro de servicios ambientales.
 
 ###### Artículo 144.
 
 Para cobrar el servicio de agua residual se establecerán precios por cada metro cúbico de agua servido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
 ###### Artículo 145.
 
-Las aguas residuales que se viertan al sistema de alcantarillado sanitario que no cumplan con la calidad y la cantidad máxima de flujos de descarga permitida conforme a las normas oficiales mexicanas en materia ambiental, la legislación vigente sobre equilibrio ecológico y protección al ambiente y la normatividad operativa del Sector Agua para el Estado entrañarán el pago de tarifas y precios acordes a la naturaleza de las descargas.
+1. Cuando el cuerpo receptor o el sistema de tratamiento así lo requiera, el concesionario o la autoridad a cargo del sistema de alcantarillado al que se estén vertiendo las aguas residuales, podrá establecer condiciones particulares de descarga que regule la calidad y la cantidad máxima de flujos de descarga distintos a lo establecido en las Normas Oficiales Mexicanas en materia ambiental.
+
+2. Las aguas residuales que se viertan al sistema de alcantarillado sanitario que no cumplan con la calidad y la cantidad máxima de flujos de descarga permitida, conforme a las Normas Oficiales Mexicanas en materia ambiental, la legislación vigente sobre equilibrio ecológico y protección al ambiente y sobre desarrollo sustentable, la normatividad operativa del Sector Agua para el Estado o las condiciones particulares de descarga impuestas por el concesionario o la autoridad a cargo del sistema en cuestión, incluirán el pago de tarifas y precios acordes a la naturaleza de las descargas.
 
 ###### Artículo 146.
 
@@ -2658,3 +2698,13 @@ DECRETO No. LIX-966
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días siguientes al de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
