@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2008-02-12"
+last_updated: "2008-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -191,11 +191,17 @@ II.- Promover y prestar de manera concurrente con la SEP, servicios educativos d
 
 III.- Planificar, programar, evaluar y promover la cobertura y las modalidades del Sistema Educativo Estatal, considerando la opinión de los sectores sociales;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Proponer a la SEP los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica. En tales contenidos promoverá asignaturas o unidades sobre orientación nutricional y el fomento de valores y prácticas sanas y saludables de alimentación, así mismo tomará en cuenta medidas para propiciar la actividad física en los planteles educativos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-V.- Fomentar, apoyar y difundir las actividades científicas, tecnológicas, de educación física, recreativas y culturales en todas sus manifestaciones;
+IV.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica. En tales contenidos promoverá asignaturas o unidades sobre el cuidado al medio ambiente y el desarrollo sustentable, la orientación nutricional y el fomento de valores y prácticas sanas y saludables de alimentación, asimismo tomará en cuenta medidas para propiciar la actividad física en los planteles educativos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+V.- Fomentar, apoyar y difundir las actividades científicas, tecnológicas, de educación física, de cuidado al medio ambiente y promoción del desarrollo sustentable, recreativas y culturales en todas sus manifestaciones;
 
 VI.- Promover permanentemente la investigación pedagógica para que el Sistema Educativo Estatal sea constantemente actualizado, creando al efecto el Sistema Estatal de Investigación Educativa, con su Reglamento respectivo;
 
@@ -257,15 +263,21 @@ XII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento de la L
 
 XIII.- Prestar servicios de información y consulta a través de bibliotecas públicas a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV.- Fomentar las actividades de educación física, artísticas, culturales y deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIV.- Fomentar las actividades de educación física, de cuidado al medio ambiente y el desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones;
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 XVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, atendiendo a sus respectivos ámbitos de competencia, las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo para el fomento de buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, padres de familia y educandos del Sistema Estatal de educación; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE JUNIO DE 2008)</small>
 
 XVII.- Las demás que le establezcan las disposiciones aplicables.
 
@@ -299,9 +311,11 @@ X.- Velar para que en los casos de epidemia las autoridades sanitarias y educati
 
 XI.- Otorgar becas a los estudiantes destacados y de escasos recursos;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII.- Fomentar y difundir las actividades científicas, cívicas, artísticas, culturales y deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, 5 DE JUNIO DE 2008)</small>
+
+XII.- Fomentar y difundir las actividades científicas, cívicas, de cuidado al medio ambiente y desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones;
 
 XIII.- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuitos, considerando la opinión de la Secretaría;
 
@@ -649,9 +663,11 @@ A través del proceso educativo se desarrollarán las facultades y aptitudes del
 
 El Estado impulsará la enseñanza de valores éticos universales en la educación básica –preescolar, primaria y secundaria– y media superior, otorgando en forma gratuita los libros y materiales didácticos correspondientes.
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Estado impartirá clases de inglés en las escuelas públicas de educación primaria y normal.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+El Estado impartirá clases de inglés y cursos de cuidado y protección al medio ambiente para el desarrollo sustentable en las escuelas públicas de educación primaria y normal.
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
@@ -835,7 +851,11 @@ XI.- Concederán reconocimientos y distinciones a quienes contribuyan a la conse
 
 XII.- Realizarán las demás actividades que permitan ampliar la calidad y cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el Artículo anterior.
 
-El Estado y los Municipios también llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+El Estado y los Municipios también llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad, de cuidado al medio ambiente y el desarrollo sustentable y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
 ###### ARTICULO 79.
 
@@ -927,7 +947,11 @@ I.- Gestionará ante el ayuntamiento y ante el Ejecutivo del Estado el mejoramie
 
 II.- Conocerá de los resultados de las evaluaciones educativas que se realicen y llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio Municipio;
 
-III.- Estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+III.- Estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, de cuidado al medio ambiente y promoción del desarrollo sustentable, deportivos y sociales;
 
 IV.- Establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario;
 
@@ -959,7 +983,11 @@ En dicho Consejo se asegurará la participación de padres de familia y represen
 
 El Consejo Estatal de Participación Social en la educación tendrá las atribuciones siguientes:
 
-I.- Promoverá y apoyará actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+I.- Promoverá y apoyará actividades extraescolares de carácter cultural, cívico, deportivo, de cuidado al medio ambiente y promoción del desarrollo sustentable y de bienestar social;
 
 II.- Coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar;
 
@@ -1288,3 +1316,13 @@ P.O. 12 DE FEBRERO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días posteriores.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
