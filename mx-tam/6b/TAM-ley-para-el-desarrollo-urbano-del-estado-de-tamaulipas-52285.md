@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2006-10-26"
+last_updated: "2008-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -83,11 +83,17 @@ V. La fundación, conservación, mejoramiento y crecimiento de los asentamientos
 
 VI. La constitución de reservas territoriales;
 
-VII. La preservación y protección al ambiente, así como la protección y conservación de las áreas naturales; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-VIII. Fomentar la construcción de vivienda de interés social.
+VII. La protección del patrimonio cultural de los centros de población; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VIII. La preservación del equilibrio ecológico y la conservación ecológica de los centros de población; así como el establecimiento de zonas de salvaguarda.
 
 2. Para la mejor protección del interés público, el Estado llevará a cabo:
 
@@ -167,7 +173,11 @@ V. ÁREA VENDIBLE: Es la que podrá ser enajenada a terceros, una vez que se hay
 
 VI. ASENTAMIENTO HUMANO: Es el conjunto de personas que forman un conglomerado establecido en una área físicamente localizada, considerándose dentro de la misma los elementos naturales y las obras materiales que lo componen;
 
-VII. AYUNTAMIENTO: Es el órgano de gobierno del municipio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+VII. ASENTAMIENTO HUMANO IRREGULAR: Es el conglomerado de personas, elementos naturales y obras materiales, establecidas en un área físicamente localizable, que al constituirse no cumplieron con lo ordenado por las leyes y normas aplicables en su tiempo;
 
 VIII. CEMENTERIO: Es el lugar destinado a recibir y alojar cadáveres, restos humanos áridos o cremados;
 
@@ -177,9 +187,23 @@ X. CENTRO URBANO: Es el territorio que de acuerdo a sus características de ubic
 
 XI. CONDOMINIO: Es la modalidad de propiedad sobre un inmueble que otorga a su titular el derecho exclusivo de uso, goce y disfrute del área que constituye su unidad privativa y a la vez un derecho de copropiedad sobre las áreas de uso común;
 
-XII. CONSEJO ESTATAL: Es el Consejo Estatal para el Desarrollo de las Ciudades, organismo consultivo de participación ciudadana de carácter técnico, auxiliar de la autoridad en materia de planeación y desarrollo urbanos, preservación de los recursos naturales y el medio ambiente, realización de obras públicas y cuestiones análogas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII. CONSERVACIÓN: Es la acción tendiente a mantener y preservar en buen estado la infraestructura, equipamiento, vivienda y servicios en las áreas urbanizadas, o de conservación natural;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XII. CENTRO URBANO TRADICIONAL: Es el sector de una ciudad en donde se ubica el espacio histórico o de importancia comunitaria, tanto en tejido urbano como en monumentos, así como la concentración y centralización de actividades públicas, administrativas, políticas y comerciales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIII. CENTRO DE POBLACION: Es el área constituida por la zona urbanizada, y la considerada para su expansión, así como la no urbanizable ya sea por considerarse de preservación ecológica o de prevención de riesgos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIII Bis. CONSERVACION AMBIENTAL: Es la permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del desarrollo, a fin de asegurar para las generaciones presentes y futuras, un ambiente propicio y los recursos naturales que permitan satisfacer sus necesidades;
 
 XIV. CONURBACIÓN: Es el área en la cual, el Congreso del Estado reconoce legalmente la continuidad física y demográfica que forman dos o más Municipios, con objeto de establecer la coordinación entre el Estado y esos Municipios en la toma de decisiones en materia de ordenamiento del territorio, considerándose como una sola unidad urbano funcional a todo el conjunto;
 
@@ -190,8 +214,6 @@ XVI. DESARROLLO SUSTENTABLE: Es la capacidad de hacer que el desarrollo ocurra s
 XVII. DESARROLLO URBANO: Es el proceso de planeación y ejecución de acciones de administración, ordenación, conservación, mejoramiento y crecimiento para los asentamientos humanos;
 
 XVIII. DESTINOS: Son los fines públicos específicos a que se dedican obligatoriamente, o está previsto dedicar, determinadas áreas y edificaciones;
-
-}
 
 XIX. DISTRITO URBANO: Es la delimitación territorial, que en función del uso del suelo predominante se considera homogénea;
 
@@ -205,11 +227,11 @@ XXIII. FRACCIONAMIENTO CAMPESTRE: Es la porción de superficie territorial que s
 
 XXIV. FRACCIONAMIENTO ESPECIAL: Es la porción de superficie territorial que por su localización, topografía, diseño, densidad, usos y destinos del suelo propuestos o fin social justificado, requieren de estudios complementarios y los resolutivos correspondientes;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXV. FRACCIONAMIENTO HABITACIONAL: Es la porción de superficie territorial cuyos lotes se aprovecharán predominantemente para vivienda y que deberán ser urbanizados en su totalidad, pudiendo ejecutarse por etapas.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-La densidad de viviendas por hectárea será determinada por el Plan Municipal de Ordenamiento Territorial y Desarrollo Urbano que corresponda;
+XXV. ESTRUCTURA VIAL: Es el conjunto de vías públicas y privadas, destinadas a permitir a través de ellas el desplazamiento de personas, bienes y servicios, así como para alojar la infraestructura necesaria para la instalación de servicios públicos. Se organiza en jerarquías en función de su uso, características geométricas y aforo vehicular, con una dosificación establecida para cada una de ellas. Todos los elementos que integran la estructura vial quedan sujetos a las disposiciones contenidas en esta ley;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
 
@@ -221,9 +243,17 @@ XXVIII. FUNDACIÓN: Es la acción de establecer un asentamiento humano, dentro o
 
 XXIX. FUSIONAR: Es el acto mediante el cual dos o más predios se convierten en uno solo;
 
-XXX. GARANTÍA SUFICIENTE: Es el acto mediante el cual el fraccionador garantiza al Ayuntamiento correspondiente, la calidad y cantidad de obras de urbanización previstas en el proyecto ejecutivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXXI. IMPACTO VIAL: Es el estudio que proyecta las condiciones de transportación y recomienda los métodos para solucionar los efectos generados por la incorporación de predios y la edificación al desarrollo urbano; en todo caso, contendrá las medidas de mitigación necesarias;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXX. FRACCIONAMIENTO POPULAR: Es la porción de superficie territorial destinada al desarrollo predominantemente habitacional, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y solo serán desarrollados por organismos públicos federales, estatales o municipales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXXI. FRACCIONAMIENTO IRREGULAR: Es la porción de superficie territorial, fraccionada sin contar con las autorizaciones que prevén las leyes correspondientes;
 
 XXXII. IMPLAN: Es el Instituto de Planeación, que podrá tener diversas denominaciones en función de su ámbito de influencia y su instrumento legal de creación. Podrán ser organismos públicos descentralizados de los municipios o del Estado, según proceda y su ámbito de influencia podrá ser municipal, regional, o de zonas conurbadas. El objetivo principal será constituirse como instrumento técnico de ayuda para la adopción de decisiones públicas y el desarrollo de la comunidad, procurándose el orden en el uso del territorio y la incorporación de políticas ambientales que contribuyan al logro de un desarrollo urbano sustentable, a partir de la orientación de un Consejo Ciudadano que vincule a la sociedad y el gobierno en los procesos de planeación;
 
@@ -255,7 +285,11 @@ XLIII. PROGRAMA PARCIAL: Es el Programa que tiene por objeto la ordenación terr
 
 XLIV. PROGRAMAS REGIONALES: Son el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas, relativas a la ordenación y regulación de los asentamientos humanos en el ámbito de las diversas regiones que establezca el Programa Estatal de Desarrollo Urbano vigente;
 
-XLV. PROGRAMAS SECTORIALES: Son el conjunto de acciones dirigidas a regular elementos, componentes y acciones del desarrollo urbano, tales como transporte, equipamiento, infraestructura, reservas territoriales y otros análogos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XLV.- PROGRAMA ESTATAL: Es el Programa Estratégico para el Desarrollo Urbano Sustentable de Tamaulipas, instrumento rector del Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, que tiene como finalidad definir los criterios y diseñar estrategias y acciones para detallar los planteamientos y orientaciones generales en el ordenamiento del territorio y el desarrollo urbano integral; y establecer los objetivos y metas en los centros de población para mejorar la calidad de vida de sus habitantes;
 
 XLVI. REGISTRO ESTATAL DEL PATRIMONIO HISTÓRICO Y ARTÍSTICO EDIFICADO DE TAMAULIPAS: Es el ámbito administrativo donde se relacionan, catalogan y ordenan los documentos relativos a la situación jurídica de bienes inmuebles, de valor histórico artístico, como edificios, obras de infraestructura, monumentos cívico conmemorativos, murales artísticos u otras obras análogas a las anteriores;
 
@@ -265,7 +299,11 @@ XLVIII. RESERVAS TERRITORIALES: Son las áreas o predios que serán utilizadas p
 
 XLIX. SERVICIOS URBANOS: Son las actividades de carácter público para satisfacer necesidades colectivas de los asentamientos humanos, sea que los preste directamente la autoridad o se concesione su prestación a particulares;
 
-L. SECRETARÍA: Es la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología del Gobierno del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+L.- REGULARIZACION DE LA TENENCIA DE LA TIERRA: Es el conjunto de acciones con un fin social justificado realizadas por los organismos públicos federales, estatales o municipales competentes, encaminadas a brindar seguridad jurídica en la tenencia de la tierra;
 
 LI. SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, sectorial, regional, municipal y parcial aprobados, y la información geográfica correspondiente;
 
@@ -277,33 +315,49 @@ LIII. USOS: Son los fines a los que se sujetarán las zonas o predios particular
 
 LIV. URBANIZACIÓN SECUENCIAL: Es aplicable exclusivamente en fraccionamientos populares, y se define como el proceso de urbanizar parcialmente un fraccionamiento popular, de forma tal que pueda comercializarse por la autoridad competente sin que cuente con la urbanización total;
 
-LV. VÍA PÚBLICA: Es todo inmueble del dominio público y utilización común que por disposición de la ley, o por razón del servicio, se destine al libre tránsito; o bien que de hecho está ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes o para el alojamiento de cualquier instalación destinada a satisfacer un servicio público; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-LVI. ZONIFICACIÓN: Es la determinación de las áreas en que se divide el territorio para fines del ordenamiento territorial y del desarrollo urbano.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+LV.- SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, regional, de zonas conurbadas o metropolitanas, municipal, de centros de población, parciales y vigentes, y la información geográfica correspondiente; así como por el conjunto de autorizaciones de fraccionamientos, con el objeto de mantener actualizada la base cartográfica de la entidad federativa y asegurar el cumplimiento de esta ley;
+
+LVI. ZONIFICACIÓN: Es la determinación de las áreas en que se divide el territorio para fines del ordenamiento territorial y del desarrollo urbano;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+LVII.- VIA PUBLICA: Es todo inmueble del dominio público y utilización común que por disposición de la ley o por razón del servicio se destine al libre tránsito; o bien que de hecho está ya afecto a utilización pública en forma habitual. El espacio que integra la vía pública está limitado por el plano vertical que sigue el alineamiento oficial o el lindero de la misma. Las vías públicas son inalienables, intransmisibles, inembargables e imprescriptibles;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+LVIII.- VIA PRIVADA: Son aquellas que se construyen en desarrollos bajo el régimen de propiedad en condominio. Su uso básico es el de servir de acceso a instalaciones o edificaciones interiores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+LIX.- ZONA INTERMEDIA DE SALVAGUARDA: Espacio territorial comprendido entre el área en la cual se realizan las actividades altamente inseguras o riesgosas, con objeto de amortiguar las eventuales consecuencias para la población de la presencia de una contingencia o emergencia derivada de dichas actividades; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+LX.- ZONA METROPOLITANA: Es el conjunto de dos o más municipios donde se localiza una ciudad, cuya área urbana, área de influencia, funciones y actividades rebasan límites político-administrativos ya sea intraestatales, interestatales o internacionales; incorporando como parte de sí misma, o de su área de influencia directa, a municipios vecinos con los que mantiene un alto grado de integración socio económica, constituyendo una unidad de planeación urbano territorial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 6.
 
-1. Se establece el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano como instrumento rector de las actividades de planeación, gestión, realización de proyectos y administración en materia de ordenamiento territorial y desarrollo urbano.
+(DEROGADO, P.O. 5 DE JUNIO DE 2008)
 
-2. El Sistema Estatal se integra por:
-
-I. El Programa Estatal;
-
-II. Los Programas Regionales;
-
-III. Los Programas Sectoriales;
-
-IV. Los Programas Municipales; y
-
-V. Los Programas Parciales.
-
-3. Los programas que conforman el Sistema Estatal tendrán por objeto fomentar el desarrollo sustentable y determinar la expansión de los asentamientos humanos, en función de las características naturales del territorio, tales como su topografía, edafología, hidrología, clima, riesgo o vulnerabilidad para establecer su uso de suelo, y sus compatibilidades urbanísticas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 7.
 
-1. El Sistema Estatal es el medio que compila la información y las disposiciones de los instrumentos de planeación del Estado, a través de una base cartográfica única que se integra con la participación de las autoridades estatales y municipales, así como por las dependencias y entidades de ambos órdenes de gobierno involucrados en la autorización, gestión o registro de los trámites urbanísticos.
-
-2. El Sistema Estatal será coordinado por el Instituto, en los términos de lo dispuesto por la presente ley.
+(DEROGADO, P.O. 5 DE JUNIO DE 2008)
 
 ## TÍTULO II. DE LAS AUTORIDADES Y ÓRGANOS CONSULTIVOS
 
@@ -391,7 +445,11 @@ IX. Diseñar, implantar y operar los sistemas y registros que se requieran para 
 
 X. Evaluar el cumplimiento de las disposiciones legales en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, emitiendo en su caso opinión ante las autoridades competentes;
 
-XI. Denunciar ante la autoridad que corresponda, las posibles faltas administrativas o delitos tendientes a crear asentamientos humanos no autorizados. En los casos que se considere procedente, promover la incorporación al desarrollo urbano de asentamientos humanos consolidados con anterioridad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XI. Denunciar ante la autoridad que corresponda, las posibles faltas administrativas o delitos relativos a la creación de asentamientos humanos no autorizados. En los casos que se considere procedente, promover la incorporación al desarrollo urbano de asentamientos humanos irregulares;
 
 XII. Fomentar la ejecución de fraccionamientos habitacionales populares o de interés social y de condominios;
 
@@ -419,11 +477,21 @@ XXIII. Ordenar las anotaciones marginales de los usos y destinos establecidos en
 
 XXIV. Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios ejidales; y (sic)
 
-XXV. Las demás que le confiera este ordenamiento, y demás disposiciones legales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-XXVI. Las atribuciones a que se refiere este artículo serán ejercidas por el titular del Instituto y sus unidades administrativas.
+XXV. Emitir dictamen de congruencia de los programas municipales respecto del Programa Estatal o del programa de ordenación de zona conurbada en su caso. Dicho dictamen será requisito para su aprobación por el ayuntamiento correspondiente; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXVI. Las demás que le confiera este ordenamiento y otras disposiciones legales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 5 DE JUNIO DE 2008)</small>
 
 2. Las atribuciones a que se refiere este artículo serán ejercidas por el titular del Instituto y sus unidades administrativas.
 
@@ -461,7 +529,11 @@ XIV. Autorizar o negar, con base en las disposiciones legales aplicables y el pr
 
 XV. Participar con el Instituto, en su caso, en la formulación del proyecto de reconocimiento de zona conurbada de la cual formen parte;
 
-XVI. Convenir con el Gobernador del Estado la coordinación de acciones en materia de desarrollo urbano, para que a través del Instituto, por un periodo que no excederá al constitucional del Ayuntamiento, desempeñe total o parcialmente, las funciones técnicas o administrativas que le corresponden al Ayuntamiento en el cumplimiento de esta ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XVI. Convenir con el Gobernador del Estado la coordinación de acciones en materia de desarrollo urbano, para que a través del Instituto, desempeñe total o parcialmente, las funciones técnicas o administrativas que le corresponden al Ayuntamiento en el cumplimiento de esta ley;
 
 XVII. Participar en el seno del Consejo Estatal;
 
@@ -477,9 +549,23 @@ XXII. Dictar en coordinación con el Instituto las medidas necesarias a que deba
 
 XXIII. Autorizar los programas parciales que incorporan a la zona urbana o urbanizada nuevos desarrollos cuyo impacto sea regional, previo dictamen técnico favorable expedido por el Instituto;
 
-XXIV. Promover obras y servicios que se relacionen con el desarrollo urbano en el territorio municipal; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXV. Vigilar en el ámbito de su competencia y jurisdicción la observancia de los programas de desarrollo urbano y las normas básicas correspondientes.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXIV. Promover obras y servicios que se relacionen con el desarrollo urbano en el territorio municipal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXV. Vigilar en el ámbito de su competencia y jurisdicción la observancia de los programas de desarrollo urbano y las normas básicas correspondientes; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXVI. Aprobar o negar, en su caso, los procesos de regularización de la tenencia de la tierra que le soliciten los organismos correspondientes, quienes deberán cumplir con lo establecido en el Titulo XIII de esta ley.
 
 2. Las atribuciones a que se refiere este artículo serán ejercidas por el Ayuntamiento y en su caso por las autoridades administrativas del mismo que se determinen en el Código Municipal y demás leyes y reglamentos aplicables.
 
@@ -557,13 +643,87 @@ III. Las demás que se estimen necesarias.
 
 5. En los municipios donde existan Comités Municipales o Regionales, éstos serán parte del Consejo Consultivo del IMPLAN.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+ARTICULO 16 bis.
+
+1. El Comité Regional para el Desarrollo de las Ciudades es un organismo auxiliar sobre ordenamiento Territorial, desarrollo urbano, medio ambiente y recursos naturales regionales. Dicho Comité Regional, tendrá su sede dentro de su jurisdicción territorial, en uno de los Municipios que lo integran, propuesto y designado por el propio Comité.
+
+2. El Comité Regional para el Desarrollo de las Ciudades se integra por:
+
+I. Los Presidentes Municipales de la región que corresponda, quienes designarán por mayoría de votos quien preside el Comité;
+
+II. Los miembros de los Cabildos que formen parte de la Comisión de Asentamientos Humanos, Obras Públicas y Desarrollo Urbano, así como de la Comisión del Medio Ambiente o de carácter similar, en su caso;
+
+III. Los titulares de la dependencia municipal a cargo de las funciones del ordenamiento territorial, desarrollo urbano y medio ambiente; y
+
+IV. De los municipios que integren el Comité, los representantes de las organizaciones no gubernamentales, y de instituciones de educación superior, siempre que estén constituidas legalmente en asociaciones civiles y que de entre sus fines se encuentre dedicarse a asuntos concernientes al ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales de la región. Dichos organismos no gubernamentales podrán solicitar su inclusión a los Comités Regionales para el desarrollo de las ciudades cuando, no siendo miembros, hayan cumplido cuando menos un año de haberse formado.
+
+3. Una vez integrado el Comité Regional, éste acordará sus reglas de operación. En todo caso, sesionará cuando menos dos veces por año de manera ordinaria y de manera extraordinaria las veces que sean necesarias.
+
+4. El Comité Regional tiene las siguientes funciones:
+
+I. Promover la participación de los grupos sociales de los municipios en la elaboración o revisión de los programas de desarrollo urbano, asentamientos humanos, ordenamiento territorial, protección del ambiente regional y desarrollo sustentable;
+
+II. Realizar consultas sobre situaciones especificas en materia de desarrollo urbano, asentamientos humanos, ordenamiento territorial, recursos naturales, medio ambiente de carácter regional y desarrollo sustentable; y
+
+III. Las demás que se estimen necesarias.
+
+5. En los municipios donde existan Comités Regionales, éstos serán parte del Consejo Consultivo del Instituto Municipal de Planeación.
+
 ## TÍTULO III. DEL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 17.
 
-Los programas previstos en esta ley deberán contener los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa.
+1. Se establece el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano como instrumento rector de las actividades de planeación, gestión, realización de proyectos y administración en materia de ordenamiento territorial y desarrollo urbano.
+
+2. El Sistema Estatal se integra por:
+
+I. El programa estatal;
+
+II. Los programas regionales;
+
+III. Los programas de zonas conurbadas o zonas metropolitanas;
+
+IV. Los programas municipales;
+
+V. Los programas de centros de población;
+
+VI. Los programas parciales; y
+
+VII. Los programas de desarrollo urbano derivados de los señalados en las fracciones anteriores.
+
+3. Cada uno de los programas deberá contener al menos los siguientes aspectos:
+
+I. Orden jurídico;
+
+II. Objetivos;
+
+III. Diagnóstico;
+
+IV. Prospectiva;
+
+V. Estrategias;
+
+VI. Políticas;
+
+VII. Instrumentación;
+
+VIII. Cartografía; y
+
+IX. Los demás aspectos que orienten, regulen y promuevan el desarrollo urbano sustentable de la entidad federativa.
+
+4. Los programas que conforman el Sistema Estatal tendrán por objeto fomentar el desarrollo sustentable y determinar la expansión y densificación de los asentamientos humanos, o ambos, en función de las características naturales del territorio, tales como su topografía, edafología, hidrología, clima, riesgo o vulnerabilidad para establecer su uso de suelo, y sus compatibilidades urbanísticas.
+
+5. Los programas previstos en esta ley deberán contener los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa.
 
 ###### ARTÍCULO 18.
 
@@ -627,9 +787,15 @@ Los programas municipales para una zona conurbada serán elaborados conjunta y c
 
 2. Los programas parciales serán elaborados, aprobados, ejecutados y evaluados por los Ayuntamientos. Estos podrán convenir con el Estado, la coordinación para su elaboración o la recepción de apoyos para ese mismo efecto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 27.
 
-La planeación del desarrollo urbano se deberá realizar en coordinación con los sectores social y privado de la entidad, a fin de impulsar la concertación de acciones para el ordenamiento territorial y la adecuada previsión del crecimiento urbano armónico.
+1. La planeación del desarrollo urbano se deberá realizar en coordinación con los sectores social y privado de la entidad, a fin de impulsar la concertación de acciones para el ordenamiento territorial y la adecuada previsión del crecimiento urbano armónico.
+
+2. En cuanto a la localización de industrias o actividades que generen riesgo, deben ubicarse separadamente de las áreas de vivienda y a la distancia que determine el estudio de riesgo correspondiente. Deberán rodearse de una zona intermedia de salvaguarda definida en el propio estudio de riesgo, misma que deberá formar parte del predio a utilizar.
 
 ###### ARTÍCULO 28.
 
@@ -747,9 +913,13 @@ Cuando se trate de predios de origen ejidal y se pretenda hacer la primera venta
 
 1. El Estado y los Ayuntamientos podrán transmitir a organismos públicos cuyo objeto sea la ejecución de programas y actividades de interés colectivo, la reserva territorial suficiente para su desarrollo.
 
-2. La transmisión a que se refiere el párrafo anterior será con reserva de dominio del terreno correspondiente, hasta que se hayan ejecutado los trabajos correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-3. Para la ejecución de los programas y actividades citadas en el párrafo 1, los organismos públicos podrán asociarse con personas físicas o morales privadas, reservándose el donante el dominio del terreno hasta que se hayan ejecutado los trabajos correspondientes.
+2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+3. (DEROGADO TERCER PARRAFO, P.O. 5 DE JUNIO DE 2008)
 
 ###### ARTÍCULO 41.
 
@@ -831,51 +1001,67 @@ VII. Zonas naturales en cuya extensión no presentan alteraciones graves y que r
 
 VIII. Zonas destinadas a la producción agropecuaria, piscícola, forestal, agroindustrial y turística.
 
-## TÍTULO VII. DE LA VÍA PÚBLICA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 2008)</small>
+
+## TÍTULO VII. ESTRUCTURA VIAL
 
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 48.
 
-1. El espacio que integra la vía pública está limitado por el plano vertical que siguen el alineamiento oficial o el lindero de la misma.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-2. Las vías públicas son inalienables, intransmisibles, inembargables e imprescriptibles. No serán consideradas vías públicas aquellas vialidades que se diseñen, y en su caso se construyan, dentro de un desarrollo sujeto al régimen de propiedad en condominio.
+1. La estructura vial deberá garantizar la capacidad necesaria para poder desplazar personas, bienes y servicios de un lado a otro del territorio estatal, a través de la red de vías públicas y privadas.
 
-3. Para efectos de esta ley, las vías públicas se clasifican de la siguiente manera:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I. CARRETERAS, AUTOPISTAS Y LIBRAMIENTOS: Son los caminos que unen distintos asentamientos humanos o evitan el paso a través de ellos, con la sección que dispongan las leyes federales, estatales o los acuerdos de la autoridad competente;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-II. VÍAS PRIMARIAS: Son los caminos que tienen un derecho de vía mínimo de cincuenta metros con dos banquetas de cuatro metros cada una, dos calzadas principales de catorce metros y un camellón central de catorce metros. Deberá preverse una vía primaria por cada tres mil metros medidos entre sus ejes;
+2. La dosificación, jerarquías y características de las mismas queda establecida en esta ley y será de observancia obligatoria para todo tipo de desarrollos.
 
-III. VÍAS SECUNDARIAS: Son vialidades intermedias entre las primarias y las terciarias. Deberá preverse una vialidad de este tipo a cada mil quinientos metros medidos entre sus ejes. Podrán tener doble sentido de circulación o que se formen por dos vialidades de un solo sentido de circulación (par vial), conforme a lo siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) De doble sentido de circulación: Tendrán un derecho de vía de treinta metros con dos banquetas de tres metros cada una, dos calzadas de diez metros de ancho y un camellón de cuatro metros; y
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
 
-b) De un sentido de circulación: Estarán formadas por dos vialidades que entre sus ejes no tengan más de trescientos metros, con sentidos contrarios de circulación. Tendrán un derecho de vía de veinte metros con dos banquetas de tres metros cada una y una calzada principal de catorce metros;
+3. Para efectos de esta ley, las vialidades que conforman la estructura vial se clasifican de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. VÍAS TERCIARIAS: Son los caminos o vialidades que colindan con el frente de los predios de un fraccionamiento. Por definición, son de menor sección transversal, y están diseñadas para que los automóviles transiten a baja velocidad. Deberá preverse una vialidad de este tipo a cada 150 metros entre ejes, cuando menos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+I. VIALIDAD REGIONAL: Es toda carretera, autopista y libramiento que une distintos asentamientos humanos o evitan el paso a través de ellos, con la sección que determinen las leyes federales, estatales o los acuerdos de la autoridad competente;
 
-> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+II. VIALIDAD PRIMARIA: Se considera la vía principal que cruza toda o gran parte de la ciudad o zona metropolitana, diseñada para proveer un alto grado de movilidad en viajes largos y da servicio a grandes volúmenes de tránsito. Su derecho de vía mínimo es de cincuenta metros con dos banquetas de cuatro metros cada una, dos calzadas principales de catorce metros y un camellón central de catorce metros. Deberá preverse una vialidad primaria por cada tres mil metros medidos entre sus ejes;
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las vialidades terciarias tendrán un derecho de vía de trece metros con banquetas de dos metros cada una, y una calzada de 9 metros para el tránsito de los vehículos, preferentemente de un solo sentido de circulación.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-a) (DEROGADO, P.O. 26 DE OCTUBRE DE 2006)
+III. VIALIDAD SECUNDARIA: Es la vía que permite integrar distintas zonas de la ciudad, diseñadas para colectar y distribuir el tránsito y sirven de enlace entre las vías primarias y terciarias. Pueden contar con doble sentido de circulación o un solo sentido de circulación integrada por dos vialidades (par vial), conforme a lo siguiente:
 
-b). (DEROGADO, P.O. 26 DE OCTUBRE DE 2006)
+a) De doble sentido de circulación: Tendrá un derecho de vía de treinta metros con dos banquetas de tres metros cada una, dos calzadas de diez metros de ancho y un camellón de cuatro metros; y
 
-V. VÍAS PEATONALES: Son los caminos de uso exclusivo del peatón con un ancho mínimo de seis metros.
+b) De un sentido de circulación: Estará formada por dos vialidades que entre sus ejes no tengan más de trescientos metros, con sentidos contrarios de circulación. Tendrá un derecho de vía de veinte metros con dos banquetas de tres metros cada una y una calzada principal de catorce metros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+IV. VIALIDAD TERCIARIA: Es la vía de menor jerarquía en la estructura vial para la circulación vehicular; integra barrios y colonias, su principal función es brindar acceso a los predios, por lo que opera con volúmenes de tránsito y velocidad bajos. Cuentan con un derecho de vía de trece metros con banquetas de dos metros cada una, y una calzada de 9 metros para el tránsito de los vehículos, preferentemente de un solo sentido de circulación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+V. VIALIDAD PEATONAL: Es la vía de uso exclusivo del peatón con un ancho mínimo de seis metros.
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
 
@@ -887,6 +1073,18 @@ b) Las vialidades se diseñarán estructuralmente de acuerdo a las característi
 
 c) En caso de que el fraccionamiento que se presenta para autorización se ubique en una zona urbana ya desarrollada, y ésta deba de conectarse a vialidades existentes de cualquier tipo, los trazos de vialidades del nuevo fraccionamiento deberán ser congruentes con las vialidades existentes. Sin embargo, en ningún caso las vialidades del nuevo fraccionamiento podrán tener menos de trece metros de derecho de vía, ni menos de nueve metros de calzada principal para el tránsito de los vehículos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+d) En caso de existir calles cerradas en los fraccionamientos habitacionales, deberá preverse la construcción del retorno en el extremo de la misma, el cual deberá diseñarse geométricamente con un círculo de radio de nueve metros, que permita realizar dicha maniobra a los vehículos ligeros; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+e) Las vialidades que se construyan en fraccionamientos industriales deberán ser adecuados para la circulación de vehículos pesados, considerando a estos por el conjunto de una cabina-tractor y un semi-remolque.
+
 ## TÍTULO VIII. DE LOS FRACCIONAMIENTOS, DIVISIONES, SUBDIVISIONES, FUSIONES Y RELOTIFICACIONES DEL SUELO
 
 ### CAPÍTULO I. DE LAS LICENCIAS DE FRACCIONAMIENTO Y URBANIZACIÓN DEL SUELO
@@ -895,17 +1093,43 @@ c) En caso de que el fraccionamiento que se presenta para autorización se ubiqu
 
 Los fraccionamientos podrán ser de los siguientes tipos:
 
-l. HABITACIONAL: Es aquel cuyos lotes se aprovecharán predominantemente para vivienda y que deberán ser urbanizados en su totalidad. Podrán estar sujetos al régimen de propiedad privada lisa y llana, o al régimen de propiedad en condominio, los fraccionamientos habitacionales, en cualquier régimen de propiedad, podrán ser de acceso controlado, debiéndose sujetar a las siguientes reglas:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
+
+I. HABITACIONAL: Es aquel cuyos lotes se aprovecharán predominantemente para vivienda y que deberán ser urbanizados en su totalidad. Los fraccionamientos habitacionales, en cualquier régimen de propiedad, podrán ser de acceso controlado, debiéndose sujetar a las siguientes reglas:
 
 a) Podrán construir caseta de vigilancia en terreno propiedad del fraccionador, con excepción de cuando ésta se construye en el camellón de la vialidad de acceso, en cuyo caso el camellón deberá tener cuando menos dos metros de ancho en el sitio de edificación;
 
-b) No podrán impedir el paso a las personas que así lo deseen, salvo que el fraccionamiento se encuentre bajo el régimen de propiedad en condominio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+b) No podrán impedir el libre paso de personas y vehículos, salvo que el fraccionamiento se encuentre bajo el régimen de propiedad en condominio;
 
 c) Se permitirán como máximo ciento cincuenta lotes por cada carril de salida del fraccionamiento.
 
 Cuando en una sola salida exista más de un carril, el fraccionador estará obligado a instalar, por su cuenta, un semáforo para el control del tráfico vehicular. Para el caso de salidas de más de un carril, el Ayuntamiento dictaminará sobre la procedencia, evaluando la conveniencia de la instalación del semáforo de acuerdo a la infraestructura vial existente; y
 
 d) Se asumirá por el fraccionador la responsabilidad de construir las banquetas y el sistema de alumbrado público en el espacio público exterior colindante con su fraccionamiento. Adicionalmente, deberá aportar la parte proporcional de pavimentos que le corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+e) En caso de que colinden a una o más vías públicas, deberán contar con lotes urbanizados de por lo menos quince metros de fondo al frente de las mismas, pudiendo construir su barda después del fondo de estos lotes, no permitiéndose la construcción de bardas frente a las vías públicas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+f) No se permitirán más de cincuenta viviendas por cada desarrollo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+g) Siempre deberán respetar la traza urbana de conformidad al artículo 48 de esta misma ley.
 
 II. HABITACIONAL POPULAR: Es aquel predominantemente habitacional que se localiza en zonas previstas en los programas para densidad alta, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y sólo serán enajenados por organismos federales, estatales o municipales. Las autoridades estatales o municipales podrán suscribir convenios con los particulares, para que estos últimos desarrollen este tipo de fraccionamientos, reservándose en todo momento las autoridades que suscriban los convenios la comercialización de los lotes resultantes.
 
@@ -959,11 +1183,13 @@ Los cementerios públicos, ubicados tanto en el área urbana como en la rural, �
 
 VII. ESPECIAL: Es aquel que por su localización, topografía, diseño, densidad, usos y destinos del suelo propuestos o fin social justificado, podrá tener características particulares que sean procedentes de acuerdo a la ley. Requieren de estudios complementarios y los resolutivos correspondientes; en todo caso deberá garantizarse el acceso de los servicios de emergencia al fraccionamiento.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 50.
 
-El interesado en urbanizar el suelo, para desarrollar fraccionamientos habitacionales, deberá respetar una dimensión que no podrá ser menor de seis metros lineales en el frente. No estarán sujetos a esta restricción los desarrollos habitacionales que sean sujetos al régimen de propiedad en condominio.
+Cuando se trate de fraccionamientos, condominios de cualquier tipo, divisiones, subdivisiones o relotificaciones del suelo, en ningún caso se permitirán lotes con un frente menor de seis metros lineales y superficies menores de 96 metros cuadrados.
 
 ###### ARTÍCULO 51.
 
@@ -1219,7 +1445,9 @@ DE LAS AUTORIZACIONES DE DIVISIONES, SUBDIVISIONES, FUSIONES, Y RELOTIFICACIONES
 
 2. Si el predio requiere del trazo de una o más vías públicas para dar acceso a lotes resultantes o cuando la superficie sea mayor de diez mil metros cuadrados, se le dará el tratamiento de fraccionamiento, debiendo el interesado cumplir con los requisitos establecidos en esta ley para su aprobación.
 
-3. Tratándose de predios urbanos destinados a usos comerciales o de servicios, sus frentes podrán ser menores de seis metros pero no menores de tres metros. Al emitir esta aprobación, la autoridad municipal atenderá la normatividad en materia de uso de suelo, de construcción y de protección civil. En ningún caso estos predios podrán destinarse para uso habitacional u otro diferente al autorizado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+3. (DEROGADO TERCER PARRAFO, P.O. 5 DE JUNIO DE 2008)
 
 ###### ARTÍCULO 65.
 
@@ -1257,45 +1485,57 @@ V. Las relotificaciones de terrenos urbanos procederán cuando la cantidad de lo
 
 4. En el caso de que exista un programa de ordenamiento territorial y desarrollo urbano aplicable o una normatividad específica debidamente autorizada, se aplicará dicha normatividad al analizar y resolver sobre las solicitudes relativas a subdivisiones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 68.
 
-Para la autorización de divisiones, subdivisiones, fusiones y relotificaciones, el interesado deberá presentar los documentos siguientes:
+1. Para la autorización de divisiones, subdivisiones, fusiones o relotificaciones, el interesado deberá presentar los documentos siguientes:
 
 I. Solicitud correspondiente por escrito;
 
-II. El plano a escala del proyecto pretendido anexándose copia del plano que muestre el estado actual del predio con la precisión de su ubicación;
+II. El plano a escala del proyecto pretendido, anexándose copia del plano que muestre el estado actual del predio con la precisión de su ubicación;
 
-III. El título que acredite la propiedad del predio, debidamente inscrito en el Registro Público de la Propiedad y del Comercio;
+III. El título que acredite la propiedad del predio, debidamente inscrito en el Registro Público de la Propiedad Inmueble y del Comercio;
 
 IV. El certificado de libertad de gravamen con un máximo de treinta días de ser expedido;
 
-V. En caso de la existencia de algún gravamen, se requerirá la autorización expresa del acreedor;
+V. En caso de existencia de algún gravamen se requerirá la autorización expresa del acreedor;
 
 VI. Recibos que acrediten estar al corriente en el pago de las contribuciones y derechos a los que esté sujeto el predio;
 
-VII.- El pago de los derechos correspondientes; y
+VII. El pago de los derechos correspondientes; y
 
-VIII. Los que acrediten el cumplimiento de los requisitos establecidos en las demás disposiciones de carácter general que al efecto expida el Ayuntamiento.
+VIII. La acreditación del cumplimiento de los requisitos establecidos en las demás disposiciones de carácter general que al efecto expida el Ayuntamiento.
+
+2. Por ser de interés público, única y exclusivamente en el caso de los bienes inmuebles adquiridos por el Estado o la Federación y con la finalidad de destinarlos a la conformación del derecho de vía o cuyo destino sea obra pública, el Ayuntamiento competente, dentro de un plazo de 30 días, deberá emitir el dictamen correspondiente y de no ser así se entenderá que resuelve en sentido afirmativo.
+
+3. Salvo el registro de planos en los que figure la división o subdivisión, así como la obtención de las claves catastrales correspondientes, no se requerirá que dichos entes cumplan con lo previsto en el presente Capítulo.
 
 ### CAPÍTULO III. DE LA INSCRIPCIÓN
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 69.
 
-1. Quien obtenga la autorización para fraccionar, dividir, subdividir, fusionar o relotificar uno o varios predios, deberá inscribirla en el Registro Público de la Propiedad y del Comercio.
+1. Las autorizaciones para dividir, subdividir, fusionar, relotificar o fraccionar uno o varios predios, deberán inscribirse en el Registro Público de la Propiedad Inmueble y del Comercio. Para el caso de los fraccionamientos, es requisito indispensable contar previamente con la inscripción en el Sistema Estatal de Planeación e Información Geográfica.
 
-2. El Registro Público de la Propiedad y del Comercio notificará al Sistema Estatal, dentro de los quince días naturales siguientes a la fecha de registro, de la inscripción efectuada por quien hubo obtenido la autorización de fraccionar, dividir, fusionar o relotificar uno o varios predios.
+2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
 
-3. El representante legal del predio inscrito en el Registro Público de la Propiedad y del Comercio, tendrá la obligación de entregar, en el Sistema Estatal copia de los permisos y documentación gráfica correspondiente a la autorización de que se trate. El plazo para la entrega referida será de cinco días naturales a la fecha de inscripción ante el Registro Público de la Propiedad y del Comercio.
+3. (DEROGADO TERCER PARRAFO, P.O. 5 DE JUNIO DE 2008)
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 70.
 
-1. El fraccionador inscribirá una copia del acuerdo que autorice el proyecto ejecutivo del fraccionamiento, en el Registro Público de la Propiedad y del Comercio.
+1. El fraccionador inscribirá una copia del acuerdo que autorice el proyecto ejecutivo y la autorización de ventas, en el Registro Público de la Propiedad y del Comercio.
 
-2. El representante legal del predio inscrito en el Registro Público de la Propiedad y del Comercio, tendrá la obligación de entregar, en el Sistema Estatal copia de los permisos y documentación gráfica correspondiente a la autorización de que se trate. El plazo para la entrega referida será de cinco días naturales a la fecha de inscripción ante el Registro Público de la Propiedad y del Comercio.
+2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
 
 ###### ARTÍCULO 71.
 
@@ -1709,6 +1949,74 @@ La falta de actuación del recurrente por causas imputables a su persona durante
 
 En contra de la resolución que resuelva el recurso de reconsideración, no procede recurso administrativo alguno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+
+## TÍTULO XIII. DE LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTÍCULO 111.
+
+El presente capitulo tiene por objeto establecer las disposiciones y el procedimiento a seguir, por los organismos federales, estatales, y municipales encargados de la regularización de la tenencia de la tierra, la cual tiene por fin brindar seguridad jurídica a las familias que habitan asentamientos humanos consolidados creados de manera irregular, otorgándoles un título de propiedad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTÍCULO 112.
+
+Solo serán sujetos de proceso de regularización, los asentamientos humanos consolidados y creados de manera irregular con anterioridad a la publicación de la presente ley, debiendo sujetarse a lo siguiente:
+
+I. El polígono en el que se ubica el asentamiento humano deberá estar previsto en los programas de desarrollo urbano y ordenamiento territorial, con un uso habitacional;
+
+II. Se deberá contar con el dictamen de protección civil, que señale en su caso las zonas de riesgo no susceptibles a uso habitacional;
+
+III. Obtener la factibilidad para dotar de servicios, del organismo operador de agua potable y alcantarillado y de la Camisón (sic) Federal de Electricidad; y
+
+IV. Tratándose de predios que se encuentren afectados por derechos de vía, zonas federales o determinación restrictiva de la autoridad competente, se deberá obtener la delimitación de la instancia gubernamental correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTÍCULO 113.
+
+Al elaborarse el proyecto de lotificación, se deberán observar las siguientes normas técnicas:
+
+I. Realizarse conforme al sistema de coordenadas planas métricas, UTM por sus siglas en idioma ingles (Universal Transversal of Mercator) e incorporadas a la Red Geodésica Nacional Activa del Instituto Nacional de Estadística, Geografía e Informática;
+
+II. Contener cuadro de construcción; y
+
+III. Especificar número de manzanas, lotes, superficie y medidas de cada predio, señalar la superficie total, la de vialidades con su sección, la de lotificación y la superficie del área de donación, especificando la superficie que corresponde al área verde y equipamiento urbano, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTÍCULO 114.
+
+Los organismos regularizadores de la tenencia de la tierra someterán a la aprobación del Ayuntamiento respectivo, el plano de lotificación del asentamiento humano para que éste acuerde lo conducente, debiendo, en caso de aprobación, asignar las claves catastrales correspondientes a cada lote. Dicha aprobación entraña la autorización del proceso de regularización.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTÍCULO 115.
+
+1. Es obligación del organismo promovente del proceso de regularización el inscribir el plano de lotificación y el acuerdo en el que se autoriza dicho proceso en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano y posteriormente en el Registro Público de la Propiedad Inmueble y del Comercio.
+
+2. En virtud del fin social y beneficio que representa la regularización de la tenencia de la tierra y por ser de interés público, los trámites que contempla este Capítulo estarán exentos de pago de derechos.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1752,3 +2060,13 @@ P.O. 26 DE OCTUBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días siguientes al de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
