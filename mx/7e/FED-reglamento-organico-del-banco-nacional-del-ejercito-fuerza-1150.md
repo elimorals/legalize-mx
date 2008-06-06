@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-del-ejercito-fuerza-1150
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2003-07-09"
+last_updated: "2008-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGANICO DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -71,11 +71,11 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPITULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 7o.
 
-El capital social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo es de $2,054'499,500.00 (dos mil cincuenta y cuatro millones cuatrocientos noventa y nueve mil quinientos pesos 00/100 M.N.). Dicho capital social estará representado por 135'596,967 (ciento treinta y cinco millones quinientos noventa y seis mil novecientos sesenta y siete) certificados de aportación patrimonial de la Serie “A”, con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos y pagados, y por 69'852,983 (sesenta y nueve millones ochocientos cincuenta y dos mil novecientos ochenta y tres) certificados de aportación patrimonial de la Serie “B” nominativos, con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos, no pagados.
+El capital social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo es de $3,634'000,880.00 (tres mil seiscientos treinta y cuatro millones ochocientos ochenta pesos 00/100 M.N.). Dicho capital social estará representado por 239'844,058 (doscientos treinta y nueve millones ochocientos cuarenta y cuatro mil cincuenta y ocho) certificados de aportación patrimonial de la Serie “A”, con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos y pagados, y por 123,556,030 (ciento veintitrés millones quinientos cincuenta y seis mil treinta) certificados de aportación patrimonial de la Serie “B” nominativos, con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos, no pagados.
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, por Acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
 
@@ -414,3 +414,9 @@ UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publica
 D.O.F. 9 DE JULIO DE 2003.
 
 UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su reglamento orgánico.
