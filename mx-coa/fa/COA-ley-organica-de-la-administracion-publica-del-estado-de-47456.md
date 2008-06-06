@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2008-01-15"
+last_updated: "2008-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -217,7 +217,9 @@ VII. Secretaría de Educación y Cultura;
 
 VIII. Secretaría de Salud;
 
-IX. Secretaría de Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+IX. Secretaria de Medio Ambiente;
 
 X. Secretaría de Obras Públicas y Transporte;
 
@@ -829,9 +831,11 @@ XXIV. Proponer y establecer programas tendientes a prevenir el alcoholismo y la 
 
 XXV. Promover, fomentar y apoyar las acciones en materia de control sanitario de la publicidad, salud ambiental y ocupacional e insumos para la salud.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 32.
 
-A la Secretaria de Medio Ambiente y Recursos Naturales, le corresponde el despacho de los siguientes asuntos:
+A la Secretaria de Medio Ambiente le corresponde el despacho de los siguientes asuntos:
 
 I. Formular, ejecutar y evaluar los programas y políticas estatales en las materias de ecología, recursos naturales, saneamiento ambiental, agua, desarrollo urbano, minería, vida silvestre y recursos forestales con la participación que corresponda a otras dependencias y entidades, siempre que no estén encomendados expresamente a la federación o a los municipios;
 
@@ -1518,3 +1522,9 @@ SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que med
 TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
