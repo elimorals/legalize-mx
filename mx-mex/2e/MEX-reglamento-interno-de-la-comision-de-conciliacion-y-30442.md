@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-conciliacion-y-30442"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-11"
-last_updated: "2003-04-11"
+last_updated: "2008-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE CONCILIACION Y ARBITRAJE MEDICO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.O. DE 11 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISION DE CONCILIACION Y ARBITRAJE MEDICO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JUNIO DE 2008.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 11 de abril de 2003.
 
@@ -101,6 +103,10 @@ V. Delegación Valle de México.
 
 VI. Unidad de Apoyo Administrativo.
 
+> <small>(ADICIONADA. G.G. 6 DE JUNIO DE 2008)</small>
+
+VII. Contraloría Interna.
+
 El Comisionado se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto respectivo.
 
 ###### Artículo 6.
@@ -123,7 +129,9 @@ II. Aprobar el programa anual de trabajo de la Comisión.
 
 III. Aprobar y expedir el Reglamento interno del organismo y demás disposiciones que regulen la organización y el funcionamiento de la Comisión.
 
-IV. Aprobar la estructura orgánica y la plantilla de plazas de la Comisión, y someterla a la autorización de la Secretaría de Administración.
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2008)</small>
+
+IV. Aprobar la estructura orgánica y la plantilla de plazas de la Comisión, y someterla a la autorización de la Secretaría de Finanzas.
 
 V. Conocer y atender los asuntos que someta a su consideración el Comisionado.
 
@@ -179,9 +187,13 @@ V. Presentar al Consejo para su aprobación el reglamento interno, estructura or
 
 VI. Suscribir acuerdos, convenios y contratos, así como lo demás actos jurídico-administrativos en los que participe la Comisión, informando de ello al Consejo.
 
-VII. Someter a la aprobación del Consejo los nombramientos de los titulares de las unidades administrativas de la Comisión.
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2008)</small>
 
-VIII. Nombrar y remover al personal de la Comisión cuyo nombramiento o remoción no esté determinado por el Consejo.
+VII. Someter a la aprobación del Consejo los nombramientos de los titulares de las unidades administrativas de la Comisión que le correspondan.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2008)</small>
+
+VIII. Nombrar y remover al personal de la Comisión cuyo nombramiento y remoción no esté determinado de otra manera.
 
 IX. Rendir al titular del Ejecutivo del Estado un informe anual sobre las actividades de la Comisión.
 
@@ -239,7 +251,9 @@ XI. Asesorar y apoyar, en el ámbito de su competencia, a los usuarios de los se
 
 XII. Las demás que les confieran otras disposiciones jurídicas y aquellas que les encomiende el Comisionado.
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBCOMISIONES, UNIDADES, Y DELEGACION
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE JUNIO DE 2008)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBCOMISIONES, UNIDADES, DELEGACION Y CONTRALORIA INTERNA
 
 ###### Artículo 18.
 
@@ -361,6 +375,40 @@ VIII. Expedir certificados y autentificar documentos relacionados con su compete
 
 IX. Las demás que le confieran las disposiciones jurídicas y aquellas que le encomiende el Comisionado.
 
+> <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2008)</small>
+
+Artículo 23 bis.- Corresponde a la Contraloría Interna:
+
+I. Vigilar el cumplimiento de programas y subprogramas de las unidades administrativas de la Comisión y elaborar los reportes correspondientes.
+
+II. Vigilar el adecuado ejercicio del presupuesto autorizado a la Comisión, en congruencia con el avance programático y los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad en la materia.
+
+III. Realizar operativos, supervisiones, revisiones, evaluaciones, auditorías y demás acciones de control y evaluación, a las unidades administrativas de la Comisión, tendentes a verificar el cumplimiento de los objetivos, metas, normas y disposiciones relacionadas con los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales; y dar seguimiento a la atención de las observaciones derivadas de tales acciones y a la implementación de acciones de mejora.
+
+IV. Participar en las sesiones de los Comités de Adquisiciones y Servicios y de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones de la Comisión.
+
+V. Vigilar el cumplimiento de los lineamientos que al afecto emita la Secretaría de la Contraloría para la ejecución, preparación y entrega de los dictámenes e informes por parte de los despachos de auditoría externa asignados a la Comisión.
+
+VI. Conocer, tramitar y resolver los recursos administrativos que le correspondan o, en su caso, tramitarlos ante la Secretaría de la Contraloría para su instrucción y resolución.
+
+VII. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos de la Comisión.
+
+VIII. Promover la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Comisión, sujetos a esta obligación.
+
+IX. Proponer al Comisionado la implementación de normas complementarias en materia de control.
+
+X. Difundir entre los servidores públicos de la Comisión toda disposición en materia de control que incida en el desarrollo de sus labores.
+
+XI. Iniciar, sustanciar y resolver los procedimientos administrativos, disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+XII. Participar en los actos de entrega y recepción de las unidades administrativas de la Comisión, verificando su apego a la normatividad correspondiente.
+
+XIII. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos de la Comisión, por probable responsabilidad administrativa, en términos de la ley en la materia.
+
+XIV. Promover acciones de control preventivo y de autocontrol tendentes a modernizar la gestión de las unidades administrativas de la Comisión.
+
+XV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende la Secretaría de la Contraloría.
+
 ### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 24.
@@ -394,3 +442,11 @@ LIC. ENRIQUE G. LAZAGA YAMIN
 SUBCOMISIONADO DE CONCILIACION Y ARBITRAJE Y SECRETARIO TECNICO DEL CONSEJO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 6 DE JUNIO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
