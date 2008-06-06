@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2008-04-18"
+last_updated: "2008-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -1299,11 +1299,11 @@ NOVENO. Las entidades públicas que no cuenten con facultades para certificar do
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
-DÉCIMO. La información pública de oficio a que se refiere los artículos 18, 19, 20, 21, 22, 23, 24 y 25 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento ochenta días naturales siguientes a la publicación de las normas, lineamientos y criterios técnicos que expida la CEGAIP. Las entidades públicas obligadas deberán contar con los sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
+DÉCIMO. La información pública de oficio a que se refiere los artículos 18, 19, 20, 21, 22, 23, 24 y 25 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento ochenta días naturales siguientes a la publicación de las normas, lineamientos y criterios técnicos que expida la CEGAIP. Las entidades públicas obligadas deberán contar con sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
-DÉCIMO PRIMERO. Todos los entes obligados publicarán en un plazo no mayor de veinticuatro meses posteriores a la publicación de las normas, lineamientos y criterios técnicos que en la materia expida la CEGAIP, debiendo remitir una copia ésta.
+DÉCIMO PRIMERO. Todos los entes obligados publicarán en un plazo no mayor de veinticuatro meses posteriores a la publicación de las normas, lineamientos y criterios técnicos que en la materia expida la CEGAIP, debiendo remitir una copia a ésta.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
 
@@ -1339,8 +1339,16 @@ DÉCIMO SEGUNDO. Los entes obligados deberán completar la organización y funci
 
 DÉCIMO TERCERO a DÉCIMO CUARTO...
 
-TERCERO. El Congreso del Estado contará con un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para elegir al Comisionado Presidente de la CEGAIP. Hasta en tanto se realice la elección, fungirá como presidente el Comisionado que venía desempeñando el cargo hasta la entrada en vigor del presente decreto.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+TERCERO. El Congreso del Estado elegirá al Comisionado Presidente de la CEGAIP, a más tardar a la fecha de conclusión del cargo del actual Comisionado Presidente. Hasta en tanto se realice la elección, fungirá como presidente, el comisionado que se desempeña actualmente en dicho cargo.
 
 CUARTO. Dentro de los tres meses siguientes a partir de la entrada en vigor de este Decreto, la CEGAIP, y el Sistema Estatal de Documentación y Archivos, expedirán las normas, lineamientos y criterios técnicos que les compete en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 18 de octubre de 2007.
 
 QUINTO. Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
