@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-gestion-integral-de-residuos-para-4744
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2005-12-02"
+last_updated: "2008-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 2 de diciembre de 2005.
 
@@ -63,7 +63,7 @@ VI. Empresa de servicio de manejo: Persona física o moral registrada y autoriza
 
 VII. Gran generador: Persona física o moral que genere una cantidad igual o mayor a diez toneladas de residuos al año;
 
-VIII. Instituto: El Instituto Coahuilense de Ecología;
+VIII. (DEROGADA, P.O. 6 DE JUNIO DE 2008)
 
 IX. Ley general: Ley General para la Prevención y Gestión Integral de los Residuos;
 
@@ -75,7 +75,11 @@ XII. Residuos inorgánicos: Son aquellos no biodegradables;
 
 XIII. Residuos orgánicos: Aquellos que por sus características son biodegradables;
 
-XIV. Sistema de manejo ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+XIV. Secretaría: La secretaría de Medio Ambiente, y
+
+XV. Sistema de manejo ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
 
 ###### ARTÍCULO 3.
 
@@ -99,7 +103,9 @@ Son autoridades competentes para aplicar la presente ley:
 
 I. El Ejecutivo del Estado;
 
-II. El Instituto Coahuilense de Ecología y;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+II. La Secretaría de Medio Ambiente, y
 
 III. Los ayuntamientos.
 
@@ -137,9 +143,11 @@ XIV. Diseñar el establecimiento y aplicación de los instrumentos económicos, 
 
 XV. Las demás que se establezcan en esta ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 6.
 
-El Instituto tendrá las siguientes facultades:
+La Secretaría tendrá las siguientes atribuciones:
 
 I. Formular, conducir y revisar la política estatal en materia de residuos de manejo especial;
 
@@ -177,9 +185,11 @@ XVII. Celebrar acuerdos y convenios con el gobierno de los tres niveles así com
 
 XVIII. Las demás que se establezcan en esta ley y otros ordenamientos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 7.
 
-El Instituto tendrá las siguientes facultades:
+La Secretaría tendrá las siguientes atribuciones:
 
 I. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial;
 
@@ -193,7 +203,9 @@ IV. Las demás que se establezcan en esta ley y otros ordenamientos jurídicos a
 
 Los ayuntamientos tendrán las siguientes facultades:
 
-I. Formular por sí o con el apoyo del Instituto y con la participación de representantes de los distintos sectores sociales, los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el programa estatal para la prevención y gestión integral de los residuos;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+I. Formular por sí o con el apoyo de la Secretaría y con la participación de representantes de los distintos sectores sociales, los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el programa estatal para la prevención y gestión integral de los residuos;
 
 II. Expedir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente ley y en la ley general;
 
@@ -215,7 +227,9 @@ X. Participar en el control de los residuos peligrosos generados o manejados por
 
 XI. Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y su remediación;
 
-XII. Determinar con la asistencia técnica del Instituto, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
+> <small>(REFORMADA P.O. 6 DE JUNIO DE 2008)</small>
+
+XII. Determinar con la asistencia técnica de la Secretaría, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
 
 XIII. Proponer al Congreso del Estado, las tarifas aplicables al derecho por la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final, comprendido en las etapas del manejo integral de residuos sólidos urbanos;
 
@@ -251,9 +265,11 @@ Para los efectos del artículo anterior, los convenios o acuerdos de coordinaci�
 
 ### Capítulo Primero. Del Programa Estatal para la Prevención y Gestión Integral de los Residuos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 11.
 
-El Ejecutivo del Estado a través del Instituto establecerá el programa estatal para la prevención y gestión integral de los residuos, de conformidad con esta ley, con el diagnóstico básico para la gestión integral de residuos sólidos urbanos y de manejo especial y demás disposiciones aplicables.
+El Ejecutivo del Estado a través de la Secretaría establecerá el programa estatal para la prevención y gestión integral de los residuos, de conformidad con esta ley, con el diagnóstico básico para la gestión integral de residuos sólidos urbanos y de manejo especial y demás disposiciones aplicables.
 
 El programa estatal para la prevención y gestión integral de los residuos deberá formularse en concordancia con lo que establezca el programa nacional de la materia, considerando los siguientes lineamientos:
 
@@ -279,11 +295,13 @@ X. Determinar las medidas conducentes para evitar la disposición final de resid
 
 XI. Los demás que establezca el reglamento de esta ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 12.
 
-El Instituto formulará, instrumentará y revisará el programa para la prevención y gestión integral de los residuos de manejo especial.
+La Secretaría formulará, instrumentará y revisará el programa para la prevención y gestión integral de los residuos de manejo especial.
 
-De igual forma, los ayuntamientos formularán, instrumentarán y evaluarán sus programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, quienes para tal fin podrán solicitar el apoyo técnico del Instituto.
+De igual forma, los ayuntamientos formularán, instrumentarán y evaluarán sus programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, quienes para tal fin podrán solicitar el apoyo técnico de la Secretaría.
 
 ###### ARTÍCULO 13.
 
@@ -333,9 +351,11 @@ II. Que se trate de residuos de alto volumen de generación, producidos por un n
 
 III. Que se trate de residuos que representen un riesgo a la población, al ambiente o a los recursos naturales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 18.
 
-Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará al Instituto para su validación y en la cual se asentará, entre otros, lo siguiente:
+Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará a la Secretaría para su validación y en la cual se asentará, entre otros, lo siguiente:
 
 I. El nombre, la denominación o razón social de quien presente la propuesta, del representante legal en su caso, el nombre de los autorizados para recibir notificaciones, al órgano administrativo al que se dirijan, el lugar y fecha de formulación. La propuesta deberá estar firmada por el interesado o su representante legal;
 
@@ -349,13 +369,17 @@ V. Cronograma enunciando las principales actividades y sus fechas de implantaci�
 
 VI. Los responsables de la implantación y seguimiento de los planes de manejo correspondientes;
 
-VII. La indicación de que parte de la información proporcionada al Instituto deberá manejarse de manera confidencial por tratarse de información privilegiada de valor comercial, y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+VII. La indicación de que parte de la información proporcionada a la Secretaría deberá manejarse de manera confidencial por tratarse de información privilegiada de valor comercial, y
 
 VIII. Los indicadores para evaluar el desempeño del plan de manejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 19.
 
-El Instituto podrá convocar conjuntamente con los ayuntamientos de manera gradual, a los productores, importadores, distribuidores y comercializadores de productos de consumo que al desecharse se conviertan en residuos sólidos urbanos y de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la ley general, las normas oficiales mexicanas y esta ley a fin de:
+La Secretaría podrá convocar conjuntamente con los ayuntamientos de manera gradual, a los productores, importadores, distribuidores y comercializadores de productos de consumo que al desecharse se conviertan en residuos sólidos urbanos y de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la ley general, las normas oficiales mexicanas y esta ley a fin de:
 
 I. Dar a conocer que son prioritarios para su atención por el grado de dificultad que implica el manejo de los residuos correspondientes o los problemas ambientales que se han visto asociados a las formas de disposición final comunes de los mismos;
 
@@ -367,7 +391,7 @@ IV. Identificar el tipo de instrumentos económicos o de otra índole que permit
 
 V. Identificar los medios y mecanismos a través de los cuales se podrá hacer del conocimiento público la existencia de los proyectos pilotos y las formas en las que se espera que los consumidores participen en los planes de manejo de los residuos;
 
-VI. Identificar las necesidades de infraestructura para el manejo integral de los residuos devueltos por los consumidores y la capacidad instalada en el estado o en el país para ello,
+VI. Identificar las necesidades de infraestructura para el manejo integral de los residuos devueltos por los consumidores y la capacidad instalada en el estado o en el país para ello;
 
 VII. Identificar las necesidades a satisfacer para crear o fortalecer los mercados del reciclaje de los materiales valorizables que puedan recuperarse de los residuos sujetos a los planes de manejo.
 
@@ -387,9 +411,11 @@ El Ejecutivo del Estado, en coordinación con las autoridades competentes, evalu
 
 En aquellos casos en que sea técnica y económicamente factible, se promoverá la creación de cadenas productivas y se brindarán incentivos para el establecimiento de los planes de manejo.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 23.
 
-El Instituto promoverá la aplicación de incentivos para alentar la inversión del sector privado en el desarrollo tecnológico, adquisición de equipos y en la construcción de infraestructura para facilitar la prevención de la generación, la reutilización, el reciclaje, el tratamiento y la disposición final ambientalmente adecuados de los residuos sólidos urbanos y de manejo especial, así como de los residuos peligrosos domiciliarios y los generados por los microgeneradores.
+La Secretaría promoverá la aplicación de incentivos para alentar la inversión del sector privado en el desarrollo tecnológico, adquisición de equipos y en la construcción de infraestructura para facilitar la prevención de la generación, la reutilización, el reciclaje, el tratamiento y la disposición final ambientalmente adecuados de los residuos sólidos urbanos y de manejo especial, así como de los residuos peligrosos domiciliarios y los generados por los microgeneradores.
 
 ### Capítulo Cuarto. De la Cultura Ambiental
 
@@ -399,7 +425,9 @@ Las autoridades educativas del Estado promoverán la incorporación de contenido
 
 Las instituciones educativas del estado están obligadas a incorporar como parte de su equipamiento, contenedores para el depósito separado de residuos sólidos urbanos y de manejo especial de conformidad con las disposiciones de esta ley y otros ordenamientos jurídicos aplicables.
 
-El instituto prestará su apoyo a dichas instituciones a efecto de impulsar la educación y cultura ambiental en la entidad.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+La Secretaría prestará su apoyo a dichas instituciones a efecto de impulsar la educación y cultura ambiental en la entidad.
 
 ### Capítulo Quinto. De la Participación Social
 
@@ -441,9 +469,11 @@ III. La eficiencia administrativa, a través del consumo racional y sustentable 
 
 Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 28.
 
-El Instituto prestará su apoyo a los poderes del Estado, a los ayuntamientos, así como a los organismos autónomos en la formulación de los sistemas de manejo ambiental.
+La Secretaría prestará su apoyo a los poderes del Estado, a los ayuntamientos, así como a los organismos autónomos en la formulación de los sistemas de manejo ambiental.
 
 ## TÍTULO CUARTO. DEL MANEJO INTEGRAL DE LOS RESIDUOS
 
@@ -471,15 +501,19 @@ VIII. Residuos de la construcción, mantenimiento y demolición en general;
 
 IX. Residuos tecnológicos provenientes de las industrias de la informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil, por sus características, requieren de un manejo específico, y
 
-X. Otros que sean determinados como tales por la Instituto.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+X. Otros que sean determinados como tales por la Secretaría.
 
 ###### ARTÍCULO 30.
 
 Los residuos sólidos urbanos podrán clasificarse en orgánicos e inorgánicos con objeto de facilitar su separación primaria y secundaria, de conformidad con los programas estatales y municipales para la prevención y gestión integral de los residuos y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 31.
 
-La clasificación de residuos sólidos urbanos y de manejo especial sujetos a planes de manejo, se llevará a cabo de conformidad con los criterios que se establezcan en las normas oficiales mexicanas que al efecto se expidan y que contendrán los listados de los mismos y cuya emisión estará a cargo del Instituto.
+La clasificación de residuos sólidos urbanos y de manejo especial sujetos a planes de manejo, se llevará a cabo de conformidad con los criterios que se establezcan en las normas oficiales mexicanas que al efecto se expidan y que contendrán los listados de los mismos y cuya emisión estará a cargo de la Secretaría.
 
 ### Capítulo Segundo. De las Obligaciones Generales de los Generadores de Residuos
 
@@ -505,23 +539,33 @@ V. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 Los grandes generadores de residuos de manejo especial, están obligados a:
 
-I. Registrarse ante el Instituto y obtener autorización para su manejo;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-II. Establecer los planes de manejo y registrarlos ante el Instituto, en caso de que requieran ser modificados o actualizados, notificarlo oportunamente al mismo;
+I. Registrarse ante la Secretaría y obtener autorización para su manejo;
 
-III. Utilizar el sistema de manifiestos que establezca el Instituto, para hacer el seguimiento de la generación y formas de manejo de sus residuos a lo largo de su ciclo de vida integral;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+II. Establecer los planes de manejo y registrarlos ante la Secretaría, en caso de que requieran ser modificados o actualizados, notificarlo oportunamente al mismo;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+III. Utilizar el sistema de manifiestos que establezca la Secretaría, para hacer el seguimiento de la generación y formas de manejo de sus residuos a lo largo de su ciclo de vida integral;
 
 IV. Llevar bitácoras en la que registren el volumen y tipo de residuos generados y la forma de manejo a la que fueron sometidos;
 
 V. Llevar a cabo el manejo integral de sus residuos, de conformidad con las disposiciones de esta ley y otros ordenamientos que resulten aplicables, y
 
-VI. Presentar al Instituto un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados en grandes volúmenes.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+VI. Presentar a la Secretaría un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados en grandes volúmenes.
 
 ###### ARTÍCULO 35.
 
 Las personas consideradas como microgeneradores de residuos peligrosos, en los términos de la ley general, están obligadas a:
 
-I. Registrarse ante el Instituto;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+I. Registrarse ante la Secretaría;
 
 II. Sujetar los residuos peligrosos que generen, a los programas y planes de manejo que se establezcan para tal fin y a las condiciones que se fijen por las autoridades ambientales del Estado, y
 
@@ -567,9 +611,11 @@ La etapa de limpia o barrido se excluye del manejo integral de residuos de manej
 
 Tratándose de los residuos sólidos urbanos, las etapas de limpia o barrido, recolección, traslado o trasportación, tratamiento y disposición final estarán a cargo de los municipios por ser un servicio público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 38.
 
-Se requiere autorización del Instituto para llevar a cabo las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del artículo anterior.
+Se requiere autorización de la Secretaría para llevar a cabo las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del artículo anterior.
 
 Los ayuntamientos podrán autorizar las etapas del manejo integral de los residuos sólidos urbanos señaladas en las fracciones V, VII, IX y XI del artículo anterior.
 
@@ -583,7 +629,9 @@ Para el otorgamiento de autorizaciones se requiere:
 
 I. Ubicarse en lugares que reúnan los criterios que establezca la normatividad aplicable;
 
-II. Instrumentar un plan de manejo registrado ante el Instituto para la operación segura y ambientalmente adecuada de los residuos que maneje;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+II. Instrumentar un plan de manejo registrado ante la Secretaría para la operación segura y ambientalmente adecuada de los residuos que maneje;
 
 III. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
 
@@ -601,7 +649,9 @@ Durante la vigencia de la autorización la empresa de servicio de manejo deberá
 
 Son causas de revocación de las autorizaciones:
 
-I. Que exista falsedad en la información proporcionada al Instituto;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+l. Que exista falsedad en la información proporcionada a la Secretaría;
 
 II. Cuando las actividades de manejo integral de los residuos contravengan la normatividad aplicable;
 
@@ -683,9 +733,11 @@ Los sitios destinados al tratamiento y disposición final de residuos sólidos u
 
 Los productores y comercializadores cuyos productos y servicios generen residuos susceptibles de valorización mediante procesos de reciclaje realizarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos, su manejo responsable y para orientar a los consumidores sobre las oportunidades y beneficios de dicha valorización para su aprovechamiento.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 56.
 
-El Instituto en coordinación con los ayuntamientos de conformidad con el programa estatal para la prevención y gestión integral de los residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
+La Secretaría en coordinación con los ayuntamientos de conformidad con el programa estatal para la prevención y gestión integral de los residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
 
 ###### ARTÍCULO 57.
 
@@ -697,7 +749,9 @@ Los residuos que hayan sido seleccionados para su reciclaje y que por sus caract
 
 Los ayuntamientos diseñarán, construirán y operarán centros de generación de composta de residuos sólidos urbanos orgánicos, de conformidad con lo que se establezca en el programa estatal para la prevención y gestión integral de los residuos y con los programas municipales correspondientes. Además ambas autoridades participarán en la difusión de la información sobre como realizar una composta de calidad y su aprovechamiento, a través de guías y cursos informativos.
 
-Para tal efecto, podrán solicitar el apoyo técnico del Instituto.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+Para tal efecto, podrán solicitar el apoyo técnico de la Secretaría.
 
 ###### ARTÍCULO 59.
 
@@ -739,9 +793,11 @@ I. Llevar a cabo las acciones necesarias para remediar las condiciones del suelo
 
 II. En caso de que la remediación no fuera factible, a reparar el daño causado a terceros o al ambiente de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 65.
 
-El Instituto establecerá los lineamientos generales para la remediación de los sitios contaminados.
+La Secretaría establecerá los lineamientos generales para la remediación de los sitios contaminados.
 
 ###### ARTÍCULO 66.
 
@@ -751,19 +807,25 @@ En caso de que no sea posible identificar al responsable de la contaminación de
 
 ### Capítulo Primero. De la Inspección y Vigilancia
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 67.
 
-El Instituto realizará en el ámbito de su competencia, los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como las que del mismo se deriven.
+La Secretaría realizará en el ámbito de su competencia, los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como las que del mismo se deriven.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 68.
 
-Las visitas de inspección que realice el Instituto, se realizarán conforme a las disposiciones y formalidades que para la inspección y vigilancia prevé la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado.
+Las visitas de inspección que realice la Secretaría, se realizarán conforme a las disposiciones y formalidades que para la inspección y vigilancia prevé la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado.
 
 ### Capítulo Segundo. De las Medidas de Seguridad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 69.
 
-El Instituto y los ayuntamientos podrán según corresponda ordenar fundada y motivadamente, cuando las operaciones y procesos empleados durante el acopio, recolección, almacenamiento, transporte, co-procesamiento, reciclaje, tratamiento o disposición final de residuos representen riesgos inminentes o significativos de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública las siguientes medidas de seguridad:
+La Secretaría y los ayuntamientos podrán según corresponda ordenar fundada y motivadamente, cuando las operaciones y procesos empleados durante el acopio, recolección, almacenamiento, transporte, co-procesamiento, reciclaje, tratamiento o disposición final de residuos representen riesgos inminentes o significativos de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública las siguientes medidas de seguridad:
 
 I. Asegurar los materiales, residuos o sustancias contaminantes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad, según lo previsto en el párrafo primero de este artículo;
 
@@ -781,15 +843,19 @@ Cuando se ordene alguna de las medidas de seguridad previstas en esta ley, se in
 
 ### Capítulo Tercero. De las Sanciones Administrativas
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 71.
 
-Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionadas administrativamente por el Instituto en los términos de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado y por las autoridades municipales en el ámbito de su competencia, considerándose además para su imposición que sean acordes con el daño ambiental ocasionado y con el beneficio económico obtenido por la violación a la legislación ambiental vigente.
+Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionadas administrativamente por la Secretaría en los términos de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado y por las autoridades municipales en el ámbito de su competencia, considerándose además para su imposición que sean acordes con el daño ambiental ocasionado y con el beneficio económico obtenido por la violación a la legislación ambiental vigente.
 
 ### Capítulo Cuarto. De la Denuncia Popular
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 72.
 
-Toda persona podrá denunciar ante el Instituto o ante otras autoridades que resulten competentes todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos, o contravenga las disposiciones de la presente ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
+Toda persona podrá denunciar ante la Secretaría o ante otras autoridades que resulten competentes todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos, o contravenga las disposiciones de la presente ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
 
 ###### ARTÍCULO 73.
 
@@ -803,9 +869,11 @@ Se establece la responsabilidad solidaria, independiente de toda falta, de los g
 
 La exención de responsabilidad sólo se producirá acreditando que, a pesar de haberse adoptado todas las medidas destinadas a evitarlos y sin mediar culpa concurrente del generador u operador de instalaciones, los daños y perjuicios se produjeron por culpa exclusiva de la víctima o de un tercero por quien no se deba responder.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 75.
 
-Todo servidor público está obligado a denunciar ante el Instituto o la Procuraduría cualquier alteración al ambiente de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan. Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
+Todo servidor público está obligado a denunciar ante la Secretaría o la Procuraduría cualquier alteración al ambiente de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan. Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
 
 ###### ARTÍCULO 76.
 
@@ -894,3 +962,11 @@ EL SECRETARIO DE PLANEACIÓN Y DESARROLLO
 C.P. IGNACIO DIEGO MUÑOZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
