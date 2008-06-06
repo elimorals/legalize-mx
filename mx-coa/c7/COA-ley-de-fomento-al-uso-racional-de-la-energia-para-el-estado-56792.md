@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-al-uso-racional-de-la-energia-para-el-estado-567
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-13"
-last_updated: "2007-07-13"
+last_updated: "2008-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO AL USO RACIONAL DE LA ENERGIA PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 13 de julio de 2007.
 
@@ -61,7 +61,9 @@ VI. Ley: la Ley de Fomento al Uso Racional de la Energía para el Estado de Coah
 
 VII. Recomendación: documento emitido por el Titular del Ejecutivo a través de la instancia que para tal efecto se instale, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional de energía;
 
-VIII. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales del Estado;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+VIII. Secretaría: La Secretaría de Medio Ambiente;
 
 IX. Tecnologías limpias: aquéllas que al ser aplicadas no producen efectos secundarios o transformaciones al equilibrio ambiental o a los ecosistemas;
 
@@ -322,3 +324,11 @@ EL SECRETARIO DE MEDIO AMBIENTE Y RECURSOS NATURALES
 DR. HÉCTOR FRANCO LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
