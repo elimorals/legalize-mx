@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2008-01-18"
+last_updated: "2008-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -199,15 +199,17 @@ LII.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriale
 
 LIII.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
 
-LIV.- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+LV (SIC).- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaria de Medio Ambiente y Recursos Naturales.
 
 LV.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
 LVI.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-LVII.- Secretaría. La Secretaría de Medio Ambiente y Recursos Naturales del Estado; y
+LVII.- Secretaria: La Secretaria de Medio Ambiente.
 
 LVIII.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
@@ -233,9 +235,9 @@ Son autoridades en la entidad en materia de ecología:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-II.- La Secretaría de Medio Ambiente y Recursos Naturales del Estado; y
+II.- La Secretaria de Medio Ambiente;
 
 III.- (DEROGADA, P.O. 15 DE DICIEMBRE DE 2006)
 
@@ -727,7 +729,9 @@ IV.- Las autoridades locales harán compatibles el Ordenamiento Ecológico del t
 
 Así mismo, el Ordenamiento Ecológico municipal preverá los mecanismos de coordinación, entre las distintas autoridades involucradas;
 
-V.- Cuando un Ordenamiento Ecológico municipal incluya un área natural protegida, competencia de la Federación o parte de ella, el ordenamiento será elaborado y aprobado en forma conjunta por la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, Gobierno del Estado, y de los municipios, según corresponda;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+V.- Cuando un Ordenamiento Ecológico municipal incluya un área natural protegida, competencia de la Federación o parte de ella, el ordenamiento será elaborado y aprobado en forma conjunta por la Secretaría de Medio Ambiente y Recursos Naturales, Gobierno del Estado, y de los municipios, según corresponda;
 
 VI.- El Programa de Ordenamiento Ecológico municipal regulará los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen; conforme las disposiciones previstas en esta ley y en la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza; y
 
@@ -1583,13 +1587,17 @@ III.- Requerir a los responsables de la operación de fuentes fijas de jurisdicc
 
 IV.- Integrar y mantener actualizado el registro a que se refiere el artículo 99 de la presente ley;
 
-V.- Establecer y operar con el apoyo técnico, en su caso, de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, sistemas de monitoreo de la calidad del aire. El Gobierno del Estado y los municipios, según corresponda, remitirán a dicha Secretaría, los reportes de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Nacional de Información Ambiental;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+V.- Establecer y operar con el apoyo técnico, en su caso, de la Secretaría de Medio Ambiente y Recursos Naturales, sistemas de monitoreo de la calidad del aire. El Gobierno del Estado y los municipios, según corresponda, remitirán a dicha Secretaría, los reportes de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Nacional de Información Ambiental;
 
 VI.- Llevar un registro de los centros de verificación vehicular y mantener actualizado un informe de los resultados obtenidos en la medición de las emisiones contaminantes, realizadas en dichos centros;
 
 VII.- Determinar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
 
-VIII.- Elaborar los informes sobre el estado del medio ambiente en la entidad o en el municipio correspondiente, que convenga con la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, a través de los acuerdos de coordinación que, para tal efecto, se celebren;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+VIII.- Elaborar los informes sobre el estado del medio ambiente en la entidad o en el municipio correspondiente, que convenga con la Secretaría de Medio Ambiente y Recursos Naturales, a través de los acuerdos de coordinación que, para tal efecto, se celebren;
 
 IX.- Imponer sanciones por infracciones a la presente ley o a los bandos y reglamentos que expidan los municipios, de acuerdo con esta ley;
 
@@ -2668,5 +2676,11 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 P.O. 18 DE ENERO DE 2008.
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
