@@ -4,7 +4,7 @@ identifier: "COA-ley-forestal-del-estado-de-coahuila-de-zaragoza-52032"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-03"
-last_updated: "2006-10-03"
+last_updated: "2008-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 3 de octubre de 2006.
 
@@ -163,7 +163,9 @@ XI. Ordenamiento Forestal: Es el instrumento en el cual se identifican, agrupan 
 
 XII. Protección Forestal: Conjunto de disposiciones legales y medidas de prevención y corrección que tienen por objeto evitar calamidades o catástrofes forestales.
 
-XIII. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales del Estado de Coahuila.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+
+XIII. Secretaría: Secretaría de Medio Ambiente.
 
 XIV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal.
 
@@ -1158,3 +1160,11 @@ EL SECRETARIO DE MEDIO AMBIENTE Y RECURSOS NATURALES
 DR. HÉCTOR FRANCO LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
