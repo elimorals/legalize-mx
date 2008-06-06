@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2008-03-10"
+last_updated: "2008-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -995,11 +995,11 @@ IX.- Las demás que coadyuven a las funciones de las anteriores.
 
 Las Dependencias del Poder Legislativo estarán a cargo de un titular nombrado por el Pleno de la Legislatura a propuesta de la Gran Comisión y por el personal necesario para la ejecución de sus funciones previsto en el Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 83.
 
-Para ser titular de las Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el Artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o Licenciado en Derecho, con título y cédula profesionales expedidos por autoridad o institución legalmente facultadas para ello. Tratándose del titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el Artículo 95 de la Constitución Política del Estado, se requerirá ser abogado o Licenciado en Derecho, con título y cédula profesionales expedidos por autoridad o institución legalmente facultadas para ello; contar con experiencia profesional de cinco años como mínimo al día de su designación; y contar con experiencia mínima de tres años en el área de investigación, plenamente acreditables.
+Para ser titular de las Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el Artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello. Tratándose del titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el Artículo 95 de la Constitución Política del Estado, se requerirá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello y contar preferentemente con experiencia en el área de investigación.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1063,7 +1063,9 @@ Estará a cargo del Oficial Mayor expedir los nombramientos y ejecutar las bajas
 
 El Instituto de Investigaciones Legislativas es el órgano profesional e imparcial, con autonomía operativa y de gestión, encargado de la realización de estudios e investigaciones jurídicas y multidisciplinarias en que se apoye la Legislatura del Estado en el ejercicio de sus atribuciones constitucionales y legales.
 
-El Instituto estará a cargo de un Director General y deberá contar para su organización y funcionamiento con la estructura profesional, técnica y administrativa necesaria para el ejercicio de sus atribuciones. La estructura profesional estará integrada por personal de servicio de carrera. Los investigadores del Instituto de Investigaciones Legislativas podrán ocupar los niveles A, B o C, conforme al nivel de estudios acreditados. Se entiende como investigador de nivel C. aquellos que cuenten con el grado mínimo de Licenciatura; de nivel B aquellos que cuenten con el grado mínimo de Maestría y de nivel A aquellos que cuenten con el grado mínimo de Doctor, el reglamento regulará las condiciones y requisitos para la asignación de los respectivos niveles, así como su promoción. La retribución y estímulos que perciban su titular y el personal profesional y técnico serán los que establezca el tabulador de sueldos que apruebe la Gran Comisión.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+El Instituto estará a cargo de un Director General y deberá contar para su organización y funcionamiento con la estructura profesional, técnica y administrativa necesaria para el ejercicio de sus atribuciones. La retribución y estímulos que perciban su titular y el personal profesional y técnico serán los que establezca el tabulador de sueldos que apruebe la Gran Comisión.
 
 El Instituto tendrá las atribuciones siguientes:
 
@@ -1875,8 +1877,14 @@ P.O. 10 DE MARZO DE 2008.
 
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-Artículo Segundo.- El Instituto de Investigaciones Legislativas deberá iniciar sus funciones dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto y dentro de igual plazo deberá ser designado su titular.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+
+Artículo Segundo.- El Instituto de Investigaciones Legislativas deberá iniciar sus funciones dentro del Primer Mes del Segundo Periodo Ordinario de Sesiones del Primer Año de Ejercicio Constitucional de la XII Legislatura y dentro de igual plazo deberá ser designado su Titular.
 
 Artículo Tercero.- La Legislatura del Estado, dentro de los sesenta días posteriores a la entrada en funciones del Instituto de Investigaciones Legislativos, deberá expedir el reglamento en el que se determine el funcionamiento y estructura orgánica del Instituto de Investigaciones Legislativos, en el cual se regularán también los requisitos para ser investigador y auxiliar investigador del citado instituto.
 
 Artículo Cuarto. Hasta en tanto no se de cumplimiento a los artículos transitorios segundo y tercero del presente decreto, la Dirección de Apoyo Jurídico seguirá en el ejercicio de los facultades establecidas en la fracción III del artículo 94 de la Ley Orgánica del Poder legislativo del Estado de Quintana Roo; vigente.
+
+P.O. 6 DE JUNIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
