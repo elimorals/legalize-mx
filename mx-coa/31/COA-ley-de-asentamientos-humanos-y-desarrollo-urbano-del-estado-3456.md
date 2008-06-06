@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2007-11-02"
+last_updated: "2008-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -137,7 +137,7 @@ XIX.- Mejoramiento: la acción tendente a reordenar o renovar las zonas de un ce
 
 XX.- Obra pública: la acción o resultado del trabajo a cargo de las dependencias o entidades del sector público municipal, estatal o federal, cuyo objeto sea la construcción, edificación, conservación o modificación de los bienes inmuebles de dominio público, ya sea por su naturaleza o por disposición de la ley;
 
-XXI.- Ordenamiento territorial de los asentamientos humanos: el proceso de distribución equilibrada y sustentable de la población y de las actividades comunitarias -económicas, sociales, culturales o de otra índole- en el territorio estatal y/o municipal;
+XXI.- Ordenamiento territorial de los asentamientos humanos: el proceso de distribución equilibrada y sustentable de la población y de las actividades comunitarias-económicas, sociales, culturales o de otra índole- en el territorio estatal y/o municipal;
 
 XXII.- Plan o Programa de Desarrollo Urbano: el conjunto de normas y disposiciones diseñadas o establecidas para ordenar, regular y planear la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como determinar las provisiones, reservas, usos y destinos de las áreas y predios conferidos dentro del perímetro correspondiente;
 
@@ -151,9 +151,9 @@ XXVI.- Reservas: las áreas de un centro de población previstas para ser utiliz
 
 XXVII.- Restauración: el conjunto de operaciones y acciones tendientes a reparar un bien cultural o mantener un sitio o monumento histórico o artístico en estado de servicio, conforme a sus características históricas, constructivas y estéticas;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-XXVIII.- Secretaría: la Secretaría de Obras Públicas y Transporte del Estado;
+XXVIII. Secretaría: La Secretaría de Medio Ambiente;
 
 XXIX.- Servicios urbanos: las actividades operativas públicas, prestadas directamente por la autoridad competente o concesionadas, para satisfacer necesidades colectivas en los centros de población;
 
@@ -163,7 +163,7 @@ XXX.- Subdivisión: la partición de un terreno que no requiera del trazo de una
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 1996)</small>
 
-XXXI.- Unidad administrativa municipal: la Dirección de Desarrollo Urbano o su equivalente.
+XXXI.- Unidad administrativa municipal: la Dirección de Desarrollo Urbano o su equivalente;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
 
@@ -365,9 +365,9 @@ Para la aplicación de esta ley, son autoridades competentes:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-II.- La Secretarías de Obras Públicas y Transporte la de Desarrollo Social del Estado, según corresponda; y
+II.- La Secretaría;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -649,9 +649,9 @@ El Consejo Consultivo de Desarrollo Urbano del Estado se integrará por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-II.- Un Secretario Técnico, que será el Secretario de Obras Públicas y Transporte del Estado; y
+II.- Un Secretario Técnico, que será el Titular de la Secretaría;
 
 III.- Vocales, que no serán menos de siete, entre en lo que se incluirá un representante de cada una de las dependencias y entidades de la administración pública estatal relacionadas con el desarrollo urbano; un representante de cada una de las Cámaras, Colegios, Asociaciones y Organizaciones de los sectores social y privado que, a juicio del titular del Ejecutivo Estatal, deban integrarse al Consejo, en virtud de que sus actividades incidan en el desarrollo urbano o se vinculen con él.
 
@@ -1241,15 +1241,17 @@ IV.- Sobrevenga otra causa de ordeno (sic) de interés general que haga recomend
 
 En ningún caso podrá abrogarse un programa de desarrollo urbano, sin que en la resolución correspondiente se declare la vigencia de uno nuevo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 77.
 
-La modificación o abrogación, podrá ser solicitada ante la autoridad correspondiente por:
+La modificación o abrogación, podrá ser solicitada ante la Autoridad correspondiente por:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-II.- La Secretaría de Obras Públicas y Transporte del Estado;
+II.- La Secretaría;
 
 III.- Los Ayuntamientos de la entidad, por conducto del Presidente Municipal correspondiente;
 
@@ -1741,9 +1743,9 @@ Las comisiones de conurbación intraestatales, se integrarán por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
-II.- Un Secretario Técnico, que será el Secretario de Obras Públicas y Transporte del Estado;
+II.- Un Secretario Técnico, que será el Titular de la Secretaría;
 
 III.- Los presidente municipales de los ayuntamientos del Estado, en donde se localice la zona conurbada;
 
@@ -3232,3 +3234,9 @@ P.O. 2 DE NOVIEMBRE DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 6 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
