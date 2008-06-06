@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-59-de-fiscalizacion-superior-para-el-estado-de-16460
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2007-01-09"
+last_updated: "2008-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 252 DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 6 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 26 de mayo de 2000.
 
@@ -1294,3 +1296,15 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente ordenamie
 G.O. 9 DE ENERO DE 2007.
 
 Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
+
+G.O. 6 DE JUNIO DE 2008.
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Se abroga la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial de la Entidad el veintiséis de mayo del año dos mil, así como todas sus reformas y adiciones posteriores, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. La presente Ley de Fiscalización para el Estado de Veracruz de Ignacio de la Llave se aplicará para la revisión de las Cuentas Públicas del año 2007 en adelante.
+
+Cuarto. Para los efectos del periodo de encargo dispuesto en el artículo 67 de esta ley, el actual Auditor General del Órgano, desempeñará el mismo, por el tiempo para el cual fue designado.
+
+Quinto. El Órgano de Fiscalización Superior actualizará, conforme a las disposiciones de esta Ley, la normativa interna que reglamenta su organización y funcionamiento, así como las reglas técnicas afectas al procedimiento de fiscalización, en un plazo de ciento ochenta días naturales posteriores al inicio de su vigencia.
