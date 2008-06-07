@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2008-02-23"
+last_updated: "2008-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2008.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -1307,6 +1307,54 @@ I.- Coordinar las actividades, operación, esfuerzos y el buen funcionamiento de
 
 II.- Brindar apoyo y asesoría en los planes y proyectos emprendidos por las Direcciones y Dependencias Municipales.
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+III.- Emitir, supervisar y adecuar la aplicación de las normas técnicas que rijan la prestación de los servicios de cuidado infantil y de menores, en los Centros de Bienestar Infantil de Carácter Social.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+IV.- Vigilar el estricto cumplimiento de las disposiciones de la Ley, y demás ordenamientos legales aplicables, imponiendo las sanciones correspondientes, por la violación a las mismas.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+V.- Evaluar los resultados de los servicios prestados en los Centros de Bienestar Infantil de Carácter Social.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+VI.- Apoyar la coordinación entre los Centros de Bienestar Infantil de Carácter Social, las educativas y de salud para formar y capacitar recursos humanos en la materia.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+VII.- Procurar que la investigación científica y tecnológica, atienda el desarrollo y la mejor prestación de los servicios de cuidado infantil y de menores.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+VIII.- Apoyar a los Centros de Bienestar Infantil de Carácter Social.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+IX.- Impartir cursos y programas de capacitación y actualización dirigidos al cuidado infantil y de menores.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+X.- Llevar el registro y control de Centros de Bienestar Infantil de Carácter Social, y (sic)
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+XI.- Las demás que le encomiende el Presidente Municipal, el Honorable Ayuntamiento y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+XII.- Proponer la aplicación de programas, acciones y medidas para diseñar, implementar, evaluar y mejorar la calidad de las funciones y servicios a cargo de la administración pública municipal.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+XIII.- Propiciar que la adopción de programas, acciones y medidas referentes a los procesos de simplificación administrativa, estén orientados a elevar la eficiencia, competitividad y desarrollo económico del Municipio, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+
+XIV.- Supervisar y fiscalizar, el cumplimiento de los programas, acciones y medidas implementadas para la simplificación administrativa.
+
 ###### Artículo 97.
 
 El Secretario Particular atenderá los asuntos relacionados con la actividad cotidiana del Presidente, las relaciones públicas y la instrumentación y vigilancia de los programas de atención a la ciudadanía.
@@ -1424,3 +1472,17 @@ P.O. 23 DE FEBRERO DE 2008.
 PRIMERO.- Se autoriza realizar las adecuaciones necesarias, al Presupuesto de Egresos para el Ejercicio Fiscal del año 2006, con la finalidad de cumplir con las modificaciones al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua.
 
 SEGUNDO.- Las modificaciones al presente Reglamento Orgánico entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2008.
+
+ACUERDO 106 QUE ADICIONA LAS FRACCIONES III, IV, V, VI, VII, VIII, IX, X, Y XI AL ARTICULO 96.
+
+ÚNICO.- La presente adición, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2008.
+
+ACUERDO 107 QUE ADICIONA LAS FRACCIONES XII, XIII Y XIV AL ARTICULO 96.
+
+PRIMERO: La presente adición, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se ordena girar oficio a la Tesorería Municipal, a fin de que realice los trámites respectivos, para la asignación del presupuesto suficiente, para la operación de las atribuciones a que se refiere el presente acuerdo, una vez que entre en vigor.
