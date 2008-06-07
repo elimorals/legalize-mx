@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2008-03-29"
+last_updated: "2008-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -514,6 +514,14 @@ Los programas de estudio fijan los propósitos específicos de aprendizaje y det
 En los niveles de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad los planes y programas de estudio determinados por la Secretaría de Educación Pública de la Administración Pública Federal.
 
 La Autoridad Educativa Local, dará a conocer a la Secretaría de Educación de la Administración Pública Federal sus opiniones sobre planes y programas de estudio y propondrá para su consideración y, en su caso, para su autorización, contenidos regionales que sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, tradiciones y demás aspectos propios de la entidad y sus respectivos municipios.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2008)</small>
+
+Dentro de los contenidos regionales señalados en el párrafo anterior, la autoridad educativa local, integrará las medidas necesarias para orientar a los alumnos que cursen la educación básica, media, y media superior, sobre los contenidos a que se puede acceder mediante el uso del internet, a efecto de preservar su sano desarrollo académico, emocional y psicológico.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2008)</small>
+
+Sin menoscabo de la propuesta realizada a la Secretaría de Educación Pública Federal, la Secretaría de Educación de Gobierno del Estado, implementará mecanismos sobre el adecuado uso de la información contenida en internet, al interior de todas las instituciones públicas y privadas de educación básica, media, y media superior de la Entidad, para prohibir el acceso a sitios electrónicos con contenidos nocivos para su desarrollo académico, emocional y psicológico.
 
 La Autoridad Educativa Local realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas de estudio a que se refiere el presente artículo, para vigilar su cumplimiento y recoger informaciones que permitan mantenerlos permanentemente actualizados.
 
@@ -1368,6 +1376,16 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. En relación a las disposiciones contenidas en el Artículo Primero del presente Decreto, éstas deben implementarse dentro de un término que no exceda los ciento veinte días siguientes a la publicación del mismo, en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JUNIO DE 2008.
+
+PRIMERO. La Secretaria de Educación de Gobierno del Estado, dispone de noventa días naturales contados a partir de la vigencia del presente Decreto, para proponer a la Secretaría de Educación Pública Federal, los contenidos regionales que específicamente éste alude; así como para implementar los mecanismos de información descritos.
+
+SEGUNDO. Remítase el texto íntegro del dictamen, a la Secretaría de Educación de Gobierno del Estado de San Luis Potosí; a las universidades públicas y privadas del Estado de San Luis Potosí; y a las asociaciones de padres de familia registradas ante la Secretaría de Educación de Gobierno del Estado de San Luis Potosí.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO. Se derogan todas las disposiciones legales y administrativas que se opongan a este Decreto.
 
 ## TRANSITORIOS
 
