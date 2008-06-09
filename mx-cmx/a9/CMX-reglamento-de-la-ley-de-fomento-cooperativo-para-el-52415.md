@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-fomento-cooperativo-para-el-52415"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-04"
-last_updated: "2006-12-04"
+last_updated: "2008-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52415&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-11-24"
 
 REGLAMENTO DE LA LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 9 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el lunes 4 de diciembre de 2006.
 
@@ -365,3 +367,25 @@ QUINTO.- Las Dependencias de la Administración responsables de la aplicación d
 SEXTO.- En tanto se hacen las adecuaciones correspondientes para el funcionamiento de la Dirección de Fomento Cooperativo en cada Delegación, sus atribuciones serán ejercidas por la Dirección de Desarrollo Social respectiva.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veinticuatro días del mes de noviembre de dos mil seis. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA. EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 9 DE JUNIO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de Fomento Cooperativo para el Distrito Federal publicado en la Gaceta Oficial del Gobierno del Distrito Federal el dos de diciembre del dos mil seis, así como todas las disposiciones, circulares e instructivos que se opongan al presente Reglamento.
+
+TERCERO.- El actual Consejo Consultivo de Fomento Cooperativo del Distrito Federal continuará en sus funciones y sus miembros concluirán el período de tres años previsto en el artículo 16 este Reglamento contados a partir de la entrada en vigor de este Reglamento. Con el objeto de efectuar la renovación escalonada de los consejeros, en la sesión ordinaria anterior al término del período mencionado, el Consejo deberá determinar la conformación de tres grupos de consejeros, procurando mantener un equilibrio entre los representantes de las sociedades cooperativas, organismos de integración cooperativa, instituciones de asistencia técnica y organizaciones relacionadas con prácticas cooperativas.
+
+El primer grupo incluirá a los consejeros que ocuparán su cargo por un año; el segundo grupo a los consejeros que ocuparán su cargo por dos años, y el tercero por quienes lo harán hasta por tres años, salvaguardando el derecho de reelección en los casos en que ésta proceda.
+
+CUARTO.- Con el fin de asegurar el cumplimiento de lo establecido por el artículo 12 de la Ley General de Sociedades Cooperativas para la debida y pronta constitución de sociedades cooperativas los titulares de los órganos político-administrativos del Distrito Federal dentro de los treinta días siguientes a la entrada en vigor de este Reglamento, establecerán las medidas, términos y condiciones para que los Jefes Delegacionales por sí mismos o a través de los Directores Generales Jurídicos y de Gobierno de cada una de las demarcaciones, puedan dar fe de los actos jurídicos que se les presenten para efectos de la legal constitución de dichas sociedades.
+
+QUINTO.- En tanto se hacen las adecuaciones correspondientes para el funcionamiento de la Dirección de Fomento Cooperativo en cada Delegación, sus atribuciones serán ejercidas por la Dirección de Desarrollo Social o Desarrollo Económico, según sea el caso.
+
+SEXTO.- La Secretaría de Finanzas, dentro de los treinta días siguientes a la entrada en vigor de este Reglamento, dictará las medidas para hacer efectivas las exenciones del pago de contribuciones previstas en la Ley y en este Reglamento.
+
+SÉPTIMO.- Con el objeto de fortalecer y apoyar el Programa General y las Acciones de Fomento Cooperativo, la Oficialía Mayor establecerá anualmente los Lineamientos Generales para la Contratación de Adquisiciones y Prestación de Servicios con Sociedades Cooperativas del Distrito Federal.
+
+OCTAVO.- Para dar cumplimiento a la fracción IV del artículo 10, de la Ley de Fomento Cooperativo para el Distrito Federal, cada Delegación conforme a la disponibilidad de recursos presupuestales y las normas administrativas aplicables, deberá adecuar su estructura orgánica, a efecto de contar con una Dirección de Fomento Cooperativo que se encargue de ejecutar el Programa General en su delegación, así como elaborar y mantener actualizado un padrón de cooperativas domiciliadas en la Delegación para fines estadísticos.
