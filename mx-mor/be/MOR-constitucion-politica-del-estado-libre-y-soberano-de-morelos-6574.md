@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2008-04-23"
+last_updated: "2008-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2008.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1230,13 +1230,13 @@ Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Per
 
 DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2008)</small>
 
 ###### Artículo 53.
 
-Durante los recesos del Congreso, habrá una diputación permanente integrada por cinco diputados, que serán los mismos que conformen la mesa directiva del Congreso de ese período, más un diputado designado por el pleno en la sesión de la clausura del período ordinario correspondiente; se instalará el mismo día y durará todo el tiempo de receso, aun cuando haya sesiones extraordinarias.
+Durante los recesos del Congreso, habrá una diputación permanente integrada por cinco diputados, que serán los cuatro que conformen la mesa directiva del Congreso de ese período, más un diputado designado por el pleno, por lo menos treinta días antes de la clausura del período ordinario correspondiente; se instalará el mismo día de la clausura durará el tiempo de receso aun cuando haya sesiones extraordinarias.
 
-En la misma sesión de la clausura del período ordinario el Congreso designará a tres suplentes.
+En la misma sesión en la que se designe al quinto diputado que se integrará a la diputación permanente, se designarán a tres diputados suplentes.
 
 ###### Artículo 54.
 
@@ -1898,7 +1898,7 @@ DEL PODER JUDICIAL.
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### ARTÍCULO 86.
 
@@ -1931,36 +1931,6 @@ El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados num
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 Los Magistrados del Tribunal Superior de Justicia rendirán su protesta ante la Cámara o la Diputación Permanente, durarán en su cargo seis años. Si concluido dicho término fueren ratificados serán inamovibles y sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
-
-###### Artículo 90.
-
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
-
-I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles.
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
-
-II.- Haber residido en el Estado durante los últimos diez años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del Servicio Público.
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
-
-III.- Poseer al momento de su designación, con antigüedad mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello.
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
-
-IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación.
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
-
-V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la Judicatura.
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
-
-VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -2226,11 +2196,11 @@ El personal de la defensoría pública dependerá del Ejecutivo del Estado y ser
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPÍTULO III.
 
-DE LOS SERVICIOS QUE PRESTAN.
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 109
 
@@ -2250,11 +2220,11 @@ Los Magistrados deberán cumplir con la presentación oportuna de sus declaracio
 
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
 
-### CAPÍTULO III.
+### CAPITULO IV.
 
-DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+DE LOS SERVICIOS QUE PRESTAN.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2342,6 +2312,18 @@ La ley determinará la competencia del Ayuntamiento en funciones de cabildo y la
 
 La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
+###### Artículo 114.
+
+Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VIII.
+
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 114
 
 BIS.- Los Ayuntamientos tendrán a su cargo las funciones y servicios públicos siguientes:
@@ -2369,18 +2351,6 @@ IX.- Los demás que la ley determine, según las condiciones territoriales y soc
 Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO VIII.
-
-DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-###### Artículo 114.
-
-Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3645,3 +3615,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado de Morelos dispondrá de un término de noventa días naturales para presentar la iniciativa de reformas a la Ley de Participación Ciudadana del Estado de Morelos.
+
+P.O. 9 DE JUNIO DE 2008.
+
+Primero.- Aprobado que sea el presente Decreto por el Pleno del Congreso del Estado, remítase al Constituyente Permanente de la Entidad para los efectos constitucionales correspondientes.
+
+Segundo.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos, previa declaratoria de aprobación por parte del Congreso del Estado.
