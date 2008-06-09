@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2008-05-19"
+last_updated: "2008-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -173,11 +173,11 @@ Toda personas (sic) disfrutará en Quintana Roo de la Libertad de creencias, en 
 
 La correspondencia que bajo cualquier forma circule en el Estado, estaráexenta (sic) de toda revisión y su violación constituye delito.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO P.O. 19 DE MAYO DE 2008)</small>
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de replica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO P.O. 19 DE MAYO DE 2008)</small>
 
 Para el ejercicio del derecho de acceso a la información, regirán los principios y bases siguientes:
 
@@ -2491,7 +2491,7 @@ Podrán participar en las elecciones constitucionales, los partidos políticos n
 
 ###### ARTICULO QUINTO.
 
-La Legislatura calificará la elección de sus miembros a más tardar el 25 de marzo. Para el efecto los presuntos diputados sin necesidad de citación, se reunirán en el recinto de la Legislatura el 17 de marzo y constituidos en juntas preparatorias, nombrarán de entre sus miembros en escrutinio secreto y a mayoría de votos un Presidente, un Vicepresidente y un Secretario.
+La Legislatura calificará la elección de sus miembros a más tardar el 25 de marzo. Para el efecto los presuntos diputados sin necesidad de citación, se reunirán en el recinto de la Legislatura el 17 de marzo y constituídos en juntas preparatorias, nombrarán de entre sus miembros en escrutinio secreto y a mayoría de votos un Presidente, un Vicepresidente y un Secretario.
 
 En esta reunión los presuntos diputados presentarán los documentos que los acrediten.
 
@@ -2587,7 +2587,7 @@ SEGUNDO.- Las contribuciones señaladas en el artículo 143 que no estén recibi
 
 TERCERO. Las leyes locales y sus reglamentos así como los reglamentos municipales respectivos, deberán reformarse o adicionarse en el término que establece el artículo 2º transitorio del decreto que reforma y adiciona el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación de Vías y Carreteras del Estado de Quintana Roo y su reglamento, el Ejecutivo del Estado ejercerá el mando de la corporación de Tránsito del Estado en la forma que lo ha venido haciendo.
+CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación de Vías y Carreteras del Estado de Quintana Roo y su reglamento, el Ejecutivo del Estado ejercerá el mando en la corporación de Tránsito del Estado en la forma que lo ha venido haciendo.
 
 P.O. 29 DE JULIO DE 1983.
 
@@ -2739,7 +2739,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Los Magistrados del Tribunal Superior de Justicia que encontrándose en funciones hayan sido reelectos mediante nombramiento del Ejecutivo del Estado y aprobación de la Legislatura, sólo podrán ser removidos en los términos que señala el Título Octavo de esta Constitución. Los demás Magistrados podrán ser reelectos al cumplir seis años de ejercicio, contados a partir de la fecha de su designación y si lo fueren, solo podrán ser separados de su cargo en los mismos términos indicados en este artículo.
+Los Magistrados del Tribunal Superior de Justicia que encontrándose en funciones hayan sido reelectos mediante nombramiento del Ejecutivo del Estado y aprobación de la Legislatura, sólo podrán ser removidos en los términos que señala el Título Octavo de esta Constitución. Los demás Magistrados podrán ser reelectos al cumplir seis años de ejercicio, contados a partir de la fecha de su designación y si lo fueren, sólo podrán ser separados de su cargo en los mismos términos indicados en este artículo.
 
 ###### ARTICULO TERCERO.
 
@@ -2803,7 +2803,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 
 SEGUNDO. La reforma al último párrafo del artículo 145, no será aplicable para los efectos de asignación de suplente del Presidente Municipal electo, en el proceso electoral 2001-2002.
 
-Por esta única ocasión, en caso de falta absoluta de alguno de los Presidente Municipales que resultaren electos en el proceso electoral 2001-2002, corresponderá al propio Ayuntamiento, nombrar a quien ocupará dicho cargo, debiendo ser ratificado por la Legislatura o la Diputación Permanente, en su caso, dentro del improrrogable término de 10 días naturales.
+Por esta única ocasión, en caso de falta absoluta de alguno de los Presidentes Municipales que resultaren electos en el proceso electoral 2001-2002, corresponderá al propio Ayuntamiento, nombrar a quien ocupará dicho cargo, debiendo ser ratificado por la Legislatura o la Diputación Permanente, en su caso, dentro del improrrogable término de 10 días naturales.
 
 Si la Legislatura o la Diputación Permanente no resolvieren dentro del plazo anterior, se tendrá por aprobado el nombramiento y el designado entrará a desempeñar sus funciones.
 
@@ -2915,7 +2915,7 @@ P.O. 11 DE SEPTIEMBRE DE 2006.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quinta Roo.
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 P.O. 17 DE DICIEMBRE DE 2007.
 
@@ -2941,13 +2941,23 @@ PRIMERO.- El presente Decreto entrará en vigor a los diez días de su publicaci
 
 SEGUNDO.- La Legislatura del Estado o la Diputación Permanente en su caso dentro del término de sesenta días siguientes a la entrada en vigor del presente Decreto, expedirá la convocatoria a elecciones extraordinarias para elegir al Primer Ayuntamiento Constitucional del Municipio de Tulum, el cual se instalara en sesión pública y solemne del Cabildo Electo.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2008)</small>
+
+El Instituto Electoral de Quintana Roo, instalará un Consejo Distrital Provisional con residencia en la Ciudad de Tulum, para que se encargue única y exclusivamente de la preparación, organización, desarrollo y vigilancia del proceso electoral extraordinario para elegir al primer Ayuntamiento Constitucional del Municipio de Tulum, en la forma y términos previstos en la Ley Orgánica del citado Instituto.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2008)</small>
+
+Para efecto de las elecciones extraordinarias a que se refiere el presente Decreto, el Instituto Electoral de Quintana Roo establecerá, en su caso, el seccionamiento electoral correspondiente a la demarcación territorial del Municipio de Tulum.
+
 TERCERO.- La Convocatoria a elección extraordinaria se expedirá conforme a la Legislación Electoral del Estado, bajo las siguientes bases:
 
 a).- El proceso electoral iniciará el día primero de octubre del 2008.
 
 b).- La jornada electoral se celebrará el primer domingo del mes de febrero del 2009.
 
-c).- El Ayuntamiento electo se instalará en ceremonia pública y solemne el día 10 de abril del 2009 y concluirá con sus funciones a las veinticuatro horas del día 9 de abril del 2011.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2008)</small>
+
+c).- El Ayuntamiento electo se instalará en Ceremonia Pública y Solemne el primer día del mes de abril del año 2009 y concluirá con sus funciones a las veinticuatro horas del día 9 del mes de abril del año 2011.
 
 CUARTO.- A más tardar el mes de mayo del 2008, el Ejecutivo del Estado, propondrá a la Legislatura del Estado, las modificaciones al Presupuesto de Egresos del Estado, para el ejercicio fiscal 2008, conforme a los proyectos que al efecto le presenten el Instituto Electoral del Estado y el Tribunal Electoral de Quintana Roo, con el objeto de preparar, organizar, desarrollar y vigilar el proceso electoral para elegir al Ayuntamiento del Municipio que se crea mediante el presente Decreto. Así como para el ejercicio de las atribuciones del Tribunal Electoral de Quintana Roo, en relación con el propio proceso.
 
@@ -2963,9 +2973,7 @@ En los procesos de entrega-recepción se observará, en lo conducente, lo dispue
 
 Los procesos de transferencia no deberán afectar los servicios públicos que actualmente se prestan en el territorio que se establece para el Municipio que se crea mediante el presente Decreto.
 
-OCTAVO.- Hasta en tanto el Ayuntamiento del Municipio de Tulum, no expida su propia reglamentación y disposiciones municipales, continuarán aplicándose en lo conducente los reglamentos y disposiciones del Municipio de Solidaridad.
-
-Las Leyes en materia de hacienda, ingresos y en general todas aquellas aplicables al Municipio de Solidaridad, lo será en lo conducente al Municipio de Tulum, hasta en tanto la Legislatura del Estado, expide las leyes o realiza las adecuaciones correspondientes.
+OCTAVO.- Hasta en tanto el Ayuntamiento del Municipio de Tulum, no expida su propia reglamentación y disposiciones municipales, continuarán aplicándose en lo conducente los reglamentos y disposiciones del Municipio de Solidaridad. Las Leyes en materia de hacienda, ingresos y en general todas aquellas aplicables al Municipio de Solidaridad, lo será en lo conducente al Municipio de Tulum, hasta en tanto la Legislatura del Estado, expide las leyes o realiza las adecuaciones correspondientes.
 
 NOVENO.- Los órganos jurisdiccionales con competencia en el Municipio de Solidaridad, conservarán su jurisdicción territorial que hasta ahora han tenido, hasta en tanto se adecúan las leyes o disposiciones correspondientes.
 
@@ -2973,7 +2981,7 @@ DÉCIMO.- Los Programas de Desarrollo Urbano y los proyectos de inversión para 
 
 P.O. 19 DE MAYO DE 2008.
 
-DECRETO NUM. 009, POR EL QUE SE ADICIONA EL ARTICULO 21 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO NUM. 009, POR EL QUE SE ADICIONAN EL ARTICULO21 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -2982,3 +2990,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Los sujetos obligados y el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, darán operatividad a los sistemas electrónicos a los que se refiere el presente Decreto, dentro de un año a partir de la entrada en vigor del mismo.
 
 CUARTO.- Dentro de los 45 días naturales posteriores a la entrada en vigor del presente decreto, la Legislatura del Estado deberá realizar las reformas necesarias a la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, para la aplicación de las disposiciones contenidas en este Decreto.
+
+P.O. 9 DE JUNIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
