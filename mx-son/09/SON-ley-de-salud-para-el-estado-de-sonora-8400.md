@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2006-07-06"
+last_updated: "2008-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -112,6 +112,10 @@ XVI. La asistencia social;
 > <small>(REFORMADA, B.O. 7 DE JULIO DE 2003)</small>
 
 XVII. Los programas contra el alcoholismo y el tabaquismo;
+
+> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
+
+XVII BIS. La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
 
 XVIII. (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
@@ -397,7 +401,11 @@ IX. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 X. La promoción del mejoramiento de la nutrición;
 
-XI. La asistencia social a los grupos más vulnerables; y
+XI. La asistencia social a los grupos más vulnerables; y (sic)
+
+> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
+
+XI BIS. La promoción de la información básica relacionada con los cuidados personales elementales para la prevención, el control y el tratamiento de las enfermedades cardiovasculares, la obesidad y la diabetes;
 
 XII. Las demás que establezca esta ley u otros ordenamientos jurídicos.
 
@@ -843,7 +851,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2008)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, enfermedades cardiovasculares, obesidad, diabetes, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
 
 ###### ARTICULO 88.
 
@@ -1261,7 +1271,7 @@ I. Cumplir y hacer que se cumpla la voluntad del fundador o fundadores de la ins
 
 II. Administrar los bienes de las instituciones procurando su conservación y mejoramiento;
 
-III. Abstenerse de nombrar como empleados de las instituciones a las personas mencionadas en la fracción I del articulo anterior;
+III. Abstenerse de nombrar como empleados de las instituciones a las personas mencionadas en la fracción I del artículo anterior;
 
 IV. Ejercitar las acciones y defensas que correspondan a las instituciones, y hacer que se cumpla el objeto para el cual fueron constituidas, acatando estrictamente sus estatutos;
 
@@ -1289,11 +1299,23 @@ El Patronato o Junta Directiva podrá autorizar a cualesquiera de sus integrante
 
 En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituidas y registradas ante la Junta de Asistencia Privada.
 
-## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES
+> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE JUNIO DE 2008)</small>
+
+## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-### CAPITULO UNICO
+### CAPITULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
+
+ARTICULO 148 BlS.- Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicaciones de las medidas básicas a toda persona interesada.
+
+II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+
+El Ejecutivo del Estado procurará las disposiciones presupuestales para el cumplimiento de este programa.
 
 ###### ARTICULO 143.
 
@@ -1316,6 +1338,28 @@ II. Efectos de la publicidad en la incidencia del alcoholismo y en los problemas
 III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
+
+### CAPITULO UNICO
+
+###### ARTICULO 145.
+
+Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
+
+I. La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+
+II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva; y
+
+III. La reglamentación del consumo del tabaco en espacios cerrados, a efecto de proteger a los no fumadores, incluyendo la prohibición de fumar en vehículos dedicados al transporte colectivo de personas.
+
+###### ARTICULO 146.
+
+Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+
+I. La investigación de las causas del tabaquismo y de las acciones para controlarlas;
+
+II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
+
+III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo del tabaco.
 
 ### CAPITULO UNICO. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
@@ -1349,30 +1393,6 @@ Los establecimientos informarán al Registro Estatal de Trasplantes de las accio
 
 ARTICULO 154 BIS G.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
-###### ARTICULO 145.
-
-Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
-
-I. La prevención y el tratamiento de padecimientos originados por el tabaquismo;
-
-II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva; y
-
-III. La reglamentación del consumo del tabaco en espacios cerrados, a efecto de proteger a los no fumadores, incluyendo la prohibición de fumar en vehículos dedicados al transporte colectivo de personas.
-
-###### ARTICULO 146.
-
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
-
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas;
-
-II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
-
-III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo del tabaco.
-
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
-
 ###### ARTICULO 147.
 
 El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
@@ -1391,13 +1411,19 @@ IV. Promoverán y llevarán a cabo campañas permanentes de información y orien
 
 A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2008)</small>
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
+
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
-### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
-
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
+
+### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ### CAPITULO V. SERVICIO DE LIMPIA
 
@@ -1405,13 +1431,11 @@ A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópic
 
 ### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
-
 ## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 149.
 
@@ -1445,15 +1469,15 @@ Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+
 ### CAPITULO X. BAÑOS PUBLICOS
 
 ### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
-### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
-
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO XIII. GASOLINERAS
+### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 155.
 
@@ -1497,13 +1521,21 @@ Todo cambio de propietario, de razón o denominación social de un establecimien
 
 Al iniciar actividades, todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos, de productos, o la fabricación de nuevas líneas de productos o servicios deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las normas técnicas que al efecto se expidan.
 
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
+
+ARTICULO 160 BIS.- A todos aquellos restaurantes, comidas económicas, fondas y demás establecimientos que vendan alimentos preparados y ofrezcan al público o ubiquen en cada mesa del establecimiento, conjunta o separadamente con la carta principal, una cartilla que contenga un listado de diferentes comidas elaboradas con alimentos sin sal agregada, sin azúcar agregada, de bajo contenido graso, desglosando su composición en: calorías, carbohidratos, proteínas, grasas, sodio, glucosa y con otras indicaciones que las autoridades sanitarias consideren necesarias para hacer efectivos los objetivos de la presente ley, la Secretaría podrá otorgarles la certificación "empresa saludablemente responsable".
+
+Dicha certificación calificará a la empresa que la reciba para acceder a los beneficios de orden fiscal establecidos en la ley de ingresos del ejercicio fiscal correspondiente.
+
+La Secretaría de Salud promoverá e incentivará, entre las empresas que se dediquen a la venta de alimentos, a obtener la certificación “empresa saludablemente responsable", y difundirá entre los consumidores aquellas empresas que hayan recibido dicha certificación.
+
 ###### ARTICULO 161.
 
 La autoridad sanitaria competente publicará en el Boletín Oficial del Gobierno del Estado, las normas técnicas en materia de salubridad local que se expidan y en caso de ser necesario las resoluciones que dicte sobre otorgamiento y revocación de las autorizaciones sanitarias, así como las notificaciones de las resoluciones administrativas que dispone esta ley y, en caso de que subsistan, las autorizaciones sanitarias en materia local.
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL COMO PELUQUERIAS, ESTETICAS SALONES DE BELLEZA, GIMNASIOS Y SIMILARES
+### CAPITULO XIII. GASOLINERAS
 
 ###### ARTICULO 162.
 
@@ -1521,7 +1553,7 @@ La Secretaría verificará que los mercados y centros de abastos provisionales o
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO XV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL COMO PELUQUERIAS, ESTETICAS SALONES DE BELLEZA, GIMNASIOS Y SIMILARES
 
 ###### ARTICULO 165.
 
@@ -1555,7 +1587,7 @@ Los propietarios o poseedores de los edificios o locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias, en los términos de su competencia, podrán ejecutar las obras que estimen de urgencia, con cargo a sus propietarios o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no la realicen dentro de los plazos concedidos.
 
-### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
+### CAPITULO XV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 173.
 
@@ -1593,7 +1625,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 Los procedimientos de refrigeración, exhumación, cremación de cadáveres y embalsamamiento deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
 ###### ARTICULO 179.
 
@@ -1633,7 +1665,7 @@ La autoridad municipal, proveerá de depósitos de basura en los parques, jardin
 
 Para toda la actividad relacionada con este Capítulo, se estará a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 185.
 
@@ -1669,7 +1701,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrifico de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 193.
 
@@ -1711,7 +1743,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos a ríos, acueductos, corrientes o canales por donde fluyan aguas destinadas a uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 202.
 
@@ -1741,7 +1773,7 @@ Para el establecimiento de nuevos establos, granjas avícolas, porcícolas o api
 
 Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se refiere este Capítulo, estarán fijadas por esta ley, la Ley de Ganadería para el Estado de Sonora, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 207.
 
@@ -1759,7 +1791,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Los responsables de los Reclusorios y Centros de Readaptación Social, con el apoyo de los servicios médicos de la institución y en coordinación con la autoridad sanitaria, adoptará las medidas necesarias para la detección, tratamiento, control y notificación de las enfermedades transmisibles, conforme a los reglamentos y normas técnicas aplicables.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 211.
 
@@ -1773,7 +1805,7 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 214.
 
@@ -1789,7 +1821,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 217.
 
@@ -1807,7 +1839,7 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 221.
 
@@ -1816,6 +1848,8 @@ Para los efectos de esta ley, se entiende por gasolinera el establecimiento dest
 ###### ARTICULO 222.
 
 Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 223.
 
@@ -2373,7 +2407,7 @@ La Secretaría y los Municipios, con base en los resultados de la visita o del i
 
 Las autoridades sanitarias, para hacer cumplir sus determinaciones podrán emplear cualesquiera de los siguientes medios de apremio:
 
-I. Multa, desde diez hasta quinientas veces el salarios mínimo general diario vigente en la zona económica de que se trate, que se duplicará en caso de reincidencia.
+I. Multa, desde diez hasta quinientas veces el salarios (sic) mínimo general diario vigente en la zona económica de que se trate, que se duplicará en caso de reincidencia.
 
 La multa deberá pagarse dentro de un plazo máximo de cinco días, comprobándose ante la autoridad sanitaria su cumplimiento, mediante la presentación del recibo correspondiente. El importe de la multa quedará a beneficio del Fondo Estatal de Solidaridad. Cuando se trate de pequeños comerciantes o vendedores ambulantes la multa será fijada de diez a veinte veces el salario mínimo;
 
@@ -2650,3 +2684,9 @@ Los ingresos que obtenga el Estado derivados del cobro de las contribuciones por
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
+
+B.O. 9 DE JUNIO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
