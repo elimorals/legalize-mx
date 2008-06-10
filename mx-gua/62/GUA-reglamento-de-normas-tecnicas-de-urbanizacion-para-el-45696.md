@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-normas-tecnicas-de-urbanizacion-para-el-45696"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-08"
-last_updated: "2005-07-08"
+last_updated: "2008-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE NORMAS TECNICAS DE URBANIZACION PARA EL MUNICIPIO DE SILAO, GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de julio de 2005.
 
@@ -47,179 +47,169 @@ II.- Definir las características de los distintos tipos de fraccionamientos, de
 
 III.- Señalar las normas técnicas de urbanización a las que deberán sujetarse los proyectos y la obras de los desarrollos; (sic)
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 2.
 
-Para los efectos de este reglamento, se entenderá por:
+Para los efectos de este reglamento se entenderá por:
 
-I.- Adquirente: la persona física o moral, pública o privada, que bajo cualquier título legal adquiera la propiedad o posesión de uno o más lotes o viviendas en un fraccionamiento o división;
+l. Adquirente: La persona física o moral, pública o privada, que bajo cualquier título legal adquiera la propiedad o posesión de uno o más lotes o viviendas en un fraccionamiento o división;
 
-II.- Andador: la vialidad destinada únicamente para el uso de peatones y con restricción para la circulación de vehículos, salvo los de emergencia, para dar acceso a los lotes de los fraccionamientos o viviendas y áreas privativas tratándose de condominios;
+II. Andador: La vialidad destinada únicamente para el uso de peatones y con restricción para la circulación de vehículos, salvo los de emergencia, para dar acceso a los lotes de los fraccionamientos o viviendas y áreas privativas tratándose de condominios;
 
-III.- Aprobación de Traza: La autorización que se otorga al proyecto de diseño urbano de un fraccionamiento o desarrollo en condominio;
+III. Aprobación de Traza: La autorización que se otorga al proyecto de diseño urbano de un fraccionamiento o desarrollo en condominio;
 
-IV.- Área de donación: la superficie de terreno que el propietario o desarrollador trasmite al municipio, destinada para equipamiento urbano y áreas verdes de los desarrollos, que está calculada en un porcentaje de la superficie total del predio a desarrollar dependiendo del tipo de que se trate;
+IV. Área de Donación: La superficie de terreno que el propietario o desarrollador transmite al municipio, destinada para equipamiento urbano y áreas verdes de los desarrollos, que está calculada en un porcentaje de la superficie total del predio a desarrollar dependiendo del tipo de que se trate;
 
-V.- Arroyo: el espacio de una vialidad destinado únicamente para la circulación de vehículos;
+V. Área Verde: La superficie no urbanizable, ubicada dentro de la poligonal de un fraccionamiento o desarrollo en condominio, destinada a su forestación, así como a la instalación y conservación de jardines;
 
-VI.- Calle colectora: la vialidad destinada para captar el tránsito de vehículos que tiene su afluencia predominantemente de las calles locales y calles cerradas, y en su caso, para dar acceso y servicio a los lotes colindantes;
+VI. Áreas de Servicio: Porción de terreno con frente a la vía pública o vías internas de un fraccionamiento o desarrollo en condominio que permitan el paso o la instalación de los ductos e infraestructura necesaria para la conducción de agua potable, drenaje y alcantarillado, ya sea sanitario o pluvial, así como energía eléctrica y alumbrado;
 
-VII.- Calle local: la vialidad destinada para el tránsito de vehículos que tiene su afluencia predominantemente para dar acceso y servicio a los lotes colindantes;
+VII. Asentamiento Humano Irregular: Es el conglomerado demográfico que se conforme como fraccionamiento o desarrollo en condominio o bajo cualquier otra modalidad, y que no cuente con la aprobación de traza expedida por la autoridad municipal correspondiente, ni con lo establecido en la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios
 
-VIII.- Calle cerrada: la vialidad destinada para el tránsito de vehículos que tiene su afluencia predominantemente para dar acceso y servicio a los lotes colindantes, previendo un solo acceso con retorno vehicular y evitando su continuidad hacia otras calles;
+VIII. Calle Cerrada: La vialidad destinada para el tránsito de vehículos que tiene su afluencia predominantemente para dar acceso y servicio a los lotes colindantes, previendo un solo acceso con retorno vehicular y evitando su continuidad hacia otras calles;
 
-IX.- Carga Fiscal: el pago de impuestos, derechos, multas y recargos que establece la “Ley de Ingresos para el Estado de Guanajuato”, así como por la “Ley de Ingresos para el Municipio de Silao Guanajuato” que corresponden pagar al contribuyente;
+IX. Calle Colectora: La vialidad destinada para captar el tránsito de vehículos que tiene su afluencia predominantemente de las calles locales y calles cerradas, y en su caso, para dar acceso y servicio a los lotes colindantes;
 
-X.- Centro de población: las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
+X. Calle Local: La vialidad destinada para el tránsito de vehículos que tiene su afluencia predominantemente para dar acceso y servicio a los lotes colindantes;
 
-XI.- Ciclo vía: la vialidad destinada únicamente para la circulación de ciclistas;
+XI. Carga Fiscal: El pago de impuestos, derechos, multas y recargos que establece la Ley de Ingresos para el Estado de Guanajuato, así como por la Ley de Ingresos para el Municipio de Silao, Guanajuato que corresponden pagar al desarrollador;
 
-XII.- Cluster: El desarrollo en condominio con un número de partes que va de las 24 a las 48, con todas las características y obligaciones correspondientes;
+XII. Centro de Población: Las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
 
-XIII.- Comunidad rural: el asentamiento humano que se encuentra ubicado fuera del área susceptible del Desarrollo Urbano de acuerdo a los Planes y Programas de Desarrollo Urbano, en el cual la ocupación predominante de la población económicamente activa se dedica a actividades agropecuarias;
+XIII. Cluster: El desarrollo en condominio con un número de partes que va de las 24 a las 48, con todas las características y obligaciones correspondientes;
 
-XIV.- Condómino: la persona física o moral, pública o privada, que sea propietaria o poseedora por cualquier título legal de los departamentos, viviendas, locales o áreas de un condominio, así como aquella persona que haya celebrado contrato en virtud del cual, llegue a ser propietaria, sujeta al régimen de propiedad en condominio;
+XIV. Condominio Horizontal: La modalidad mediante la que cada condómino es propietario exclusivo de un terreno y de la edificación constituida sobre él y copropietario del terreno o áreas de aprovechamiento común, con las edificaciones o instalaciones correspondientes;
 
-XV.- Constancia de Factibilidad de Servicios: documento emitido por los organismos operadores señalando las características y condiciones bajo las cuales puede ser prestado un servicio público (agua, drenaje, alcantarillado, electrificación etc.), de acuerdo a la suficiencia y disponibilidad para proporcionar el mismo;
+XV. Condominio Vertical: La modalidad mediante la que cada condómino es propietario exclusivo de una parte de la edificación y en común de todo el terreno y edificaciones o instalaciones de uso general, en donde existe un elemento común de propiedad indivisible;
 
-XVI.- Contexto Urbano: conjunto de condiciones físicas, naturales, geográficas, topográficas, demográficas, económicas y sociales principalmente que son características de una zona determinada, y que guarda una correlación existencial con el ser humano;
+XVI. Condómino: La persona física o moral, pública o privada, que sea propietaria o poseedora por cualquier título legal de los departamentos, viviendas, locales o áreas de un condominio, así como aquella persona que haya celebrado contrato en virtud del cual, llegue a ser propietaria, sujeta al régimen de propiedad en condominio;
 
-XVII.- Coordenadas GPS: las coordenadas X, Y y Z que indican la posición georreferenciada de un punto dentro del Globo Terráqueo (Global Position System);
+XVII. Constancia de Factibilidad de Servicios: Documento emitido por los organismos operadores señalando las características y condiciones bajo las cuales puede ser prestado un servicio público como agua, drenaje, alcantarillado, electrificación, etcétera, de acuerdo a la suficiencia y disponibilidad para proporcionar el mismo;
 
-XVIII.- Coordenadas UTM: las coordenadas de referencia para el sembrado de lotes avenidas, áreas de donación etc. en un plano de traza;
+XVIII. Contexto Urbano: Conjunto de condiciones físicas, naturales, geográficas, topográficas, demográficas, económicas y sociales principalmente que son características de una zona determinada, y que guarda una correlación existencial con el ser humano;
 
-XIX.- Copropietario: la persona física o moral, pública o privada, titular de una cosa o derecho patrimonial, que pertenece pro indiviso a dos o más personas, de acuerdo a los supuestos previstos en la legislación civil;
+XIX. Coordenadas GPS: Las coordenadas X, Y y Z que indican la posición georreferenciada de un punto dentro del Globo Terráqueo;
 
-XX.- Desarrollador: La persona física o moral propietaria de un inmueble que promueva un trámite de autorización de cualquiera de los fraccionamientos o desarrollos en condominio contemplados en este Reglamento;
+XX. Coordenadas UTM: Las coordenadas de referencia para el sembrado de lotes avenidas, áreas de donación etcétera, en un plano de traza;
 
-XXI.- Desarrollos: la denominación genérica para hacer referencia a cualquier entidad territorial, que establece la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios y su Reglamento;
+XXI. Copropietario: La persona física o moral, pública o privada, titular de una cosa o derecho patrimonial, que pertenece pro indiviso a dos o más personas, de acuerdo a los supuestos previstos en la legislación civil;
 
-XXII.- Desarrollo en condominio: El proyecto de urbanización de un inmueble y en su caso la construcción o modificación de un inmueble que conforma un conjunto habitacional en forma vertical, horizontal o mixta ya sea para venta o arrendamiento de departamentos, viviendas o locales a partir de 24 unidades; en donde además de las áreas públicas, existan elementos indivisibles de uso común, por condiciones constructivas o por voluntad del propietario;
+XXII. Densidad de Población: El número de habitantes por hectárea que corresponda a un predio antes de desarrollarlo, conforme a la zona de su ubicación, de acuerdo a lo dispuesto en el Programa de Desarrollo Urbano y en el Reglamento de Usos del Suelo para Municipio de Silao Guanajuato. La densidad de población deberá obtenerse tomado como base 5.6 habitantes por vivienda, de conformidad con el censo de población y vivienda, vigentes, resultados definitivos tabulados básicos, emitido por el Instituto Nacional de Estadística, Geografía e Informática;
 
-XXIII.- Densidad de población: el número de habitantes por hectárea que corresponda a un predio antes de desarrollarlo, conforme a la zona de su ubicación, de acuerdo a lo dispuesto en el Programa de Desarrollo Urbano y en el Reglamento de Zonificación y Usos del Suelo para Municipio de Silao Guanajuato La densidad de población deberá obtenerse tomado como base 5.6 habitantes por vivienda, de conformidad con el Censo de Población y Vivienda 2000, Resultados Definitivos Tabulados Básicos, emitido por el Instituto Nacional de Estadística, Geografía e Informática;
+XXIII. Desarrollador: La persona física o moral propietaria de un inmueble que promueva un trámite de autorización de cualquiera de los fraccionamientos o desarrollos en condominio contemplados en este reglamento;
 
-XXIV.- Dirección: La Dirección de Desarrollo Urbano del municipio competente para ejercer atribuciones en materia de desarrollo urbano, divisiones, relotificaciones, fraccionamientos y desarrollos en condominio;
+XXIV. Desarrollo en Condominio: El proyecto de urbanización de un inmueble y en su caso la construcción o modificación de un inmueble que conforma un conjunto habitacional en forma vertical, horizontal o mixta ya sea para venta o arrendamiento de departamentos, viviendas o locales a partir de 24 unidades; en donde además de las áreas públicas, existan elementos indivisibles de uso común, por condiciones constructivas o por voluntad del propietario;
 
-XXV.- División: la partición de un predio hasta en diez de fracciones, que para dar acceso a las partes resultantes, no requiera del trazo de una o más vías públicas, servidumbres de paso, obras de urbanización ni dotaciones adicionales a las existentes de infraestructura y servicios públicos instalados;
+XXV. Desarrollos: La denominación genérica para hacer referencia a cualquier entidad territorial, que establece la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios y su Reglamento;
 
-XXVI.- Estación de Transferencia de Residuos Sólidos: lugar adecuado dentro del fraccionamiento, o desarrollo, fuera del área de donación, donde los colonos o residentes depositen sus residuos sólidos domiciliarios en el lugar determinado para ser trasladado a su destino final;
+XXVI. Dirección: La Dirección de Desarrollo Urbano del Municipio de Silao, Guanajuato;
 
-XXVII.- Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario afectos a un servicio público, para obras complementarias del asentamiento humano y de beneficio colectivo y para obras relativas al equipamiento primario (abasto, salud y educación) o secundario (cultura, cívico, recreativas, religiosas y deportivas) y el terciario enfocado a espacios administrativos para el gobierno;
+XXVII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario afectos a un servicio público, para obras complementarias del asentamiento humano y de beneficio colectivo y para obras relativas al equipamiento primario como abasto, salud y educación o secundario como cultura, cívico, recreativas, religiosas y deportivas y el terciario enfocado a espacios administrativos para el Gobierno;
 
-XXVIII.- Fase de garantía: lapso que durará un período de un año, a partir de la aprobación de las actas de entrega-recepción al municipio de las obras de urbanización en su totalidad;
+XXVIII. Fase de Garantía: Lapso que durará un período de un año, a partir de la aprobación de las actas de entrega recepción al municipio de las obras de urbanización en su totalidad;
 
-XXIX.- Fideicomiso: El Fideicomiso Municipal de la Vivienda (FIDEVI);
+XXIX. Fraccionador: La persona física o moral, pública o privada, que por sí o por medio de representante legal o en representación del propietario, solicite ante la Dirección, autorización para llevar a cabo un fraccionamiento o desarrollo en condominio;
 
-XXX.- Fraccionador: la persona física o moral, pública o privada, que por sí o por medio de representante legal o en representación del propietario, solicite ante la Dirección, autorización para llevar a cabo un fraccionamiento o desarrollo en condominio;
+XXX. Fraccionamiento: La partición de un inmueble, siempre y cuando se requiera del trazo de una o más vías públicas para generar lotes, así como de la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, con el propósito de enajenar los lotes resultantes en cualquier régimen de propiedad previsto por el Código Civil para el Estado de Guanajuato;
 
-XXXI.- Fraccionamiento: La partición de un inmueble, siempre y cuando se requiera del trazo de una o más vías públicas para generar lotes, así como de la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, con el propósito de enajenar los lotes resultantes en cualquier régimen de propiedad previsto por el Código Civil;
+XXXI. Fraccionamientos Agropecuarios: Aquellos que se destinarán a las actividades agropecuarias y que se ubiquen fuera de las zonas de crecimiento urbano, marcado por los planes de ordenamiento territorial;
 
-XXXII.- Fraccionamientos Agropecuarios: Aquellos que se destinarán a las actividades agropecuarias y que se ubiquen fuera de las zonas de crecimiento marcado por los planes de ordenamiento territorial;
+XXXII. Fraccionamientos Campestres: Aquellos cuyos lotes se destinarán a uso habitacional unifamiliar y que se ubiquen fuera de las zonas de crecimiento urbano, marcado por los planes de ordenamiento territorial;
 
-XXXIII.- Fraccionamientos Campestres: Aquellos cuyos lotes se destinarán a uso habitacional unifamiliar y que se ubiquen fuera de las zonas de crecimiento marcado por los planes de ordenamiento territorial;
+XXXIII. Fraccionamientos Comerciales: Aquellos cuyos lotes se destinarán al establecimiento de bodegas para depósito y expendio de mercancías y, que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento destinadas a este uso;
 
-XXXIV.- Fraccionamientos Comerciales: Aquellos cuyos lotes se destinarán al establecimiento de bodegas para depósito y expendio de mercancías y, que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento destinadas a este uso;
+XXXIV. Fraccionamientos de Urbanización Inmediata: Aquellos en que las obras de urbanización se realizarán completas o con garantía previa a la obtención del permiso de venta correspondiente, en los plazos y términos dispuestos por la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios y su Reglamento;
 
-XXXV.- Fraccionamientos Industriales: Aquellos cuyos lotes se destinarán al establecimiento de fábricas o plantas industriales y que deberán estar ubicados dentro de las áreas destinadas a ese uso, de conformidad con lo establecido por el Plan de Ordenamiento Territorial correspondiente, en su caso, se sujetarán a lo dispuesto por el Plan o Programa Municipal de Desarrollo Urbano que corresponda;
+XXXV. Fraccionamientos de Urbanización Progresiva: Aquellos fraccionamientos habitacionales que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, pueden ser autorizados, con los requisitos mínimos de urbanización que este reglamento determina;
 
-XXXVI.- Fraccionamientos Turístico, Recreativo-Deportivos: Aquellos que se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turísticas, recreativodeportivas que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
+XXXVI. Fraccionamientos de Usos Mixtos o de Usos Compatibles: Aquellos en los que se podrán determinar diferentes usos y destinos de sus lotes, siempre y cuando sean compatibles de acuerdo a lo dispuesto por el Plan de Ordenamiento Territorial correspondiente;
 
-XXXVII.- Fraccionamientos Urbanos: Aquellos que se destinen a uso habitacional y que se ubiquen en las áreas destinadas a futuro crecimiento de la ciudad o población de que se trate, de conformidad con lo establecido en el Plan de Ordenamiento Territorial correspondiente y declaratorias de uso del suelo, destino y reservas territoriales respectivas;
+XXXVII. Fraccionamientos Industriales: Aquellos cuyos lotes se destinarán al establecimiento de fábricas o plantas industriales y que deberán estar ubicados dentro de las áreas destinadas a ese uso, de conformidad con lo establecido por el Plan de Ordenamiento Territorial correspondiente, en su caso, se sujetarán a lo dispuesto por el Plan o Programa Municipal de Desarrollo Urbano que corresponda;
 
-XXXVIII.- Fraccionamientos de Urbanización Inmediata: Aquellos en que las obras de urbanización se realizarán completas o con garantía previa a la obtención del permiso de venta correspondiente, en los plazos y términos dispuestos por la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios y su Reglamento;
+XXXVIII. Fraccionamientos Turístico, Recreativo-Deportivos: Aquellos que se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turísticas, recreativo-deportivas que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
 
-XXXIX.- Fraccionamientos de Urbanización Progresiva: Aquellos fraccionamientos habitacionales que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, pueden ser autorizados, con los requisitos mínimos de urbanización que este Reglamento determina;
+XXXIX. Fraccionamientos Urbanos: Aquellos que se destinen a uso habitacional y que se ubiquen en las áreas destinadas a futuro crecimiento de la ciudad o población de que se trate, de conformidad con lo establecido en el Plan de Ordenamiento Territorial correspondiente y declaratorias de uso del suelo, destino y reservas territoriales respectivas;
 
-XL.- Fraccionamientos de Usos Mixtos o de Usos Compatibles: Aquellos en los que se podrán determinar diferentes usos y destinos de sus lotes, siempre y cuando sean compatibles de acuerdo a lo dispuesto por el Plan de Ordenamiento Territorial correspondiente;
+XL. Fusión: La unión en un sólo predio de dos o más inmuebles colindantes;
 
-XLI.- Habitabilidad: requerimiento mínimo para que en un lote o predio se pueda construir vivienda, y esta característica se obtiene en los fraccionamientos de urbanización inmediata con la infraestructura necesaria para el suministro de agua potable, drenaje sanitario, alcantarillado, electrificación, arroyo, guarniciones, banquetas y vialidad (vialidades) de acceso principal; y en los fraccionamientos de urbanización progresiva con obras mínimas de infraestructura como son: agua potable, drenaje sanitario, alcantarillado, energía eléctrica y vialidad (vialidades) de acceso principal;
+XLI. Habitabilidad: Requerimiento mínimo para que en un lote o predio se pueda construir vivienda, y esta característica se obtiene en los fraccionamientos de urbanización inmediata con la infraestructura necesaria para el suministro de agua potable, drenaje sanitario, alcantarillado, electrificación, arroyo, guarniciones, banquetas y vialidades de acceso principal; y en los fraccionamientos de urbanización progresiva con obras mínimas de infraestructura como son: agua potable, drenaje sanitario, alcantarillado, energía eléctrica y vialidades de acceso principal;
 
-XLII.- Ley: la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
+XLII. IMUVI: Instituto Municipal de Vivienda de Silao, Guanajuato;
 
-XLIII.- Licencia de Factibilidad de Uso del Suelo: el dictamen emitido por la Dirección en el que se señalen las condiciones y limitaciones que el Plan de Ordenamiento Territorial y el Programa de Desarrollo Urbano le imponga a una zona del Municipio, área o predio en particular;
+XLIII. Ley: La Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
 
-XLIV.- Licencia de Urbanización: La autorización en la que se señalan las especificaciones de urbanización que tendrán los sistemas de infraestructura urbana de un fraccionamiento o desarrollo en condominio;
+XLIV. Licencia de Factibilidad de Uso del Suelo: El dictamen emitido por la Dirección en el que se señalen las condiciones y limitaciones que el Plan de Ordenamiento Territorial y el Programa de Desarrollo Urbano le imponga a una zona del Municipio, área o predio en particular;
 
-XLV.- Manifestación de impacto ambiental: el documento presentado por el desarrollador a la Dirección de Medio Ambiente y Ecología Municipal, en el que se señalan los efectos que produce la modificación del medio ambiente en una zona o área determinada, por la acción del hombre o la naturaleza;
+XLV. Licencia de Obras de Urbanización: La autorización en la que se señalan las especificaciones de urbanización que tendrán los sistemas de infraestructura urbana de un fraccionamiento o desarrollo en condominio;
 
-XLVI.- Manifestación de impacto vial: el documento presentado por el desarrollador a la Dirección de Tránsito Municipal, en el que se señalan los efectos que produce la generación, atracción y combinación de viajes de vehículos, dentro del sistema vial municipal;
+XLVI. Lote: Porción de terreno con frente a la vía pública o vías internas, que forma parte de un fraccionamiento o desarrollo en condominio;
 
-XLVII.- Modificación de Traza: El trámite promovido por el desarrollador con el propósito de variar las características del proyecto de un fraccionamiento o desarrollo en condominio al que se le haya otorgado la aprobación de traza;
+XLVII. Modificación de Traza: El trámite promovido por el desarrollador con el propósito de variar las características del proyecto de un fraccionamiento o desarrollo en condominio al que se le haya otorgado la aprobación de traza;
 
-XLVIII.- Municipalización: el acto administrativo de “entrega / recepción” mediante el cual al termino de la Fase de garantía el municipio se responsabiliza de los bienes inmuebles, equipos e instalaciones destinados a un servicio público, y las obras de urbanización comprendidas en áreas de dominio público de un fraccionamiento, que ya se encuentran en condiciones de operar, así como las áreas de equipamiento urbano tratándose de desarrollos en condominio;
+XLVIII. Municipio: Municipio de Silao, Guanajuato;
 
-XLIX.- Municipio: al Municipio de Silao, Guanajuato;
+XLIX. Obra de Urbanización: Las obras e instalaciones necesarias para dotar a las fracciones o partes resultantes de un fraccionamiento o desarrollo en condominio de la infraestructura hidráulica, sanitaria, eléctrica, pavimentación y alumbrado público;
 
-L.- Notario: Profesionista facultado para realizar actos de traslado de dominio de naturaleza civil o administrativa de lotes o viviendas entre otros;
+L. Organismos auxiliares: Dependencias municipales que son auxiliares en el manejo de este reglamento, las cuales son: Tesorería Municipal, Servicios Públicos Municipales, Obras Públicas Municipales, Sistema de Agua Potable y Alcantarillado de Silao, Subdirección de Tránsito, Transporte e Ingeniería Vial, etcétera;
 
-LI.- Obra de Urbanización: Las obras e instalaciones necesarias para dotar a las fracciones o partes resultantes de un fraccionamiento o desarrollo en condominio de la infraestructura hidráulica, sanitaria, eléctrica, pavimentación y alumbrado público;
+LI. Organismos Operadores: Las dependencias, instituciones, o entidades públicas que tengan a su cargo la regulación, administración y control de los servicios públicos;
 
-LII.- Organismos Operadores: Las dependencias, instituciones, o entidades públicas que tengan a su cargo la regulación, administración y control de los servicios públicos;
+LlI. Pancupé: La zona libre de construcción considerada como vía pública, que se ubica en los predios esquineros de las manzanas para permitir la visibilidad de los conductores de vehículos al llegar a una intersección de vías y consta de 2 metros lineales en cada una de las vialidades que conforman la esquina, como mínimo a reserva de efectuar el estudio de impacto vial, el cual será emitido por la Subdirección de Tránsito, Transporte e Ingeniería Vial;
 
-LIII.- Organismos auxiliares: Dependencias municipales que son auxiliares en el manejo de este reglamento las cuales son: Tesorería Municipal, Servicios Públicos Municipales, Obras Públicas Municipales, Sistema de Agua Potable y Alcantarillado de Silao (SAPAS), etc.;
+LII. Permiso de División: La autorización que se otorga para la partición de un inmueble, o bien la fusión de dos o más fracciones, siempre que para dar acceso a las partes resultantes, no se generen vías públicas o servidumbres de paso; no se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y de servicios públicos instalados;
 
-LIV.- Pancupé: la zona libre de construcción considerada como vía pública, que se ubica en los predios esquineros de las manzanas para permitir la visibilidad de los conductores de vehículos al llegar a una intersección de vías y consta de 2 mts lineales en cada una de las vialidades que conforman la esquina, como mínimo a reserva de efectuar el estudio de impacto vial correspondiente;
+LIV. Permiso de Relotificación: La autorización otorgada para variar en un fraccionamiento o desarrollo en condominio al que se le haya otorgado el permiso de venta, las condiciones de frente, fondo o superficie para obtener una cantidad de lotes diferentes a la autorización original;
 
-LV.- Permiso de División: La autorización que se otorga para la partición de un inmueble hasta en diez de fracciones, o bien la fusión de varias fracciones, siempre que para dar acceso a las partes resultantes, no se generen vías públicas o servidumbres de paso; no se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y de servicios públicos instalados;
+LV. Permiso de Venta: La autorización otorgada para realizar enajenaciones sobre lotes, viviendas, departamentos, locales o áreas, contenidas en el proyecto de un fraccionamiento o desarrollo en condominio;
 
-LVI.- Permiso de Relotificación: La autorización otorgada para variar en un fraccionamiento o desarrollo en condominio al que se le haya otorgado el permiso de venta, las condiciones de frente, fondo o superficie para obtener una cantidad de lotes diferentes a la autorización original;
+LVI. Persona Física: Individuo con capacidad jurídica para ser sujeto de derechos y obligaciones;
 
-LVII.- Permiso de Venta: La autorización otorgada para realizar enajenaciones sobre lotes, viviendas, departamentos, locales o áreas, contenidas en el proyecto de un fraccionamiento o desarrollo en condominio;
+LVII. Persona Moral: Agrupación o sociedad legalmente constituida con capacidad jurídica para ser sujeto de derechos y obligaciones;
 
-LVIII.- Persona Física: individuo con capacidad jurídica para ser sujeto de derechos y obligaciones;
+LVIII. Plan de Ordenamiento Territorial: El conjunto de normas y disposiciones para ordenar, regular y planear la fundación, conservación, mejoramiento y crecimiento de los centros de población; así como para determinar las provisiones, reservas, usos y destinos de predios, con el objeto de mejorar la estructura urbana, proteger el ambiente, regular la propiedad en los centros de población y fijar las bases para la programación de acciones, obras, servicios de infraestructura y equipamiento urbano, el cual es aprobado por el H. Ayuntamiento.
 
-LIX.- Persona Moral: agrupación o sociedad legalmente constituida con capacidad jurídica para ser sujeto de derechos y obligaciones;
+LIX. Promovente: La persona jurídica que por sí sola o en representación del propietario promueva la construcción de desarrollos en condominio o fraccionamiento;
 
-LX.- Programas y Planes de Desarrollo Urbano: el conjunto de normas y disposiciones para ordenar, regular y planear la fundación, conservación, mejoramiento y crecimiento de los centros de población; así como para determinar las provisiones, reservas, usos y destinos de predios, con el objeto de mejorar la estructura urbana, proteger el ambiente, regular la propiedad en los centros de población y fijar las bases para la programación de acciones obras y servicios de infraestructura y equipamiento urbano;
+LX. Proyecto Urbanístico: El proyecto de planificación urbanística de los desarrollos;
 
-LXI.- Promovente: La persona jurídica que por sí sola o en representación del propietario promueva la construcción de desarrollos en condominio. (fracciona);
+LXI. Régimen de Propiedad en Condominio: La situación legal en la que los diferentes pisos, departamentos, viviendas, casas, locales o áreas, que se construyan en un inmueble en forma horizontal, vertical o mixta, sean susceptibles de aprovechamiento independientemente, por pertenecer a distintos propietarios y que además, tengan una salida propia a un elemento común o a la vía pública, en donde los condóminos tienen derecho exclusivo de propiedad sobre su departamento, vivienda, casa, local, piso o área, y derecho de copropiedad sobre los elementos y partes comunes del inmueble;
 
-LXII.- Proyecto urbanístico: el proyecto de planificación urbanística de los desarrollos;
+LXII. Reglamento: Reglamento de las Normas Técnicas para el Municipio de Silao, Guanajuato;
 
-LXIII.- Régimen de propiedad en condominio: la situación legal en la que los diferentes pisos, departamentos, viviendas, casas, locales o áreas, que se construyan en un inmueble en forma horizontal, vertical o mixta, sean susceptibles de aprovechamiento independientemente, por pertenecer a distintos propietarios y que además, tengan una salida propia a un elemento común o a la vía pública, en donde los condóminos tienen derecho exclusivo de propiedad sobre su departamento, vivienda, casa, local, piso o área, y derecho de copropiedad sobre los elementos y partes comunes del inmueble;
+LXIII. Resolución de Impacto Vial: El documento emitido por la Dirección de Tránsito, Transporte e Ingeniería Vial, en base a la manifestación de impacto vial, en el que se señalan las condiciones que deberá cumplir el desarrollador, con el fin de mitigar los efectos que produce la generación y atracción de viajes dentro del entorno del desarrollo propuesto;
 
-LXIV.- Reglamento: el Reglamento de Normas Técnicas de Urbanización para el Municipio de Silao, Guanajuato;
+LXIV. Sistema Vial "Eje Metropolitano": El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por vialidades de 6 carriles 3 en cada sentido, banquetas de 4.50 metros, mínimo cada uno, camellón central, ciclo vía, calles de servicio lateral de dos carriles cada una con sus correspondientes banquetas de 5 metros, cubriendo una sección transversal total de 60 metros;
 
-LXV.- Relotificación: la modificación de las dimensiones de uno o más lotes en un fraccionamiento autorizado;
+LXV. Sistema Vial "Primario": El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por vialidades de 4 carriles, mínimo, 2 en cada sentido, banquetas de 3 metros, mínimo cada uno, camellón central y ciclo vía; con una sección transversal total de 40 metros;
 
-LXVI.- Resolución de impacto ambiental: el documento emitido por la Dirección de Medio Ambiente y Ecología Municipal, en base a la manifestación de impacto ambiental, en el que se señalan las condiciones que deberá cumplir el desarrollador, con el fin de mitigar los impactos en el medio ambiente dentro del entorno del desarrollo propuesto;
+LXVI. Sistema Vial Alternativo: El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por andadores y ciclo vías;
 
-LXVII.- Resolución de impacto vial: el documento emitido por la Dirección de Tránsito Municipal, en base a la manifestación de impacto vial, en el que se señalan las condiciones que deberá cumplir el desarrollador, con el fin de mitigar los efectos que produce la generación y atracción de viajes dentro del entorno del desarrollo propuesto;
+LXVII. Sistema Vial Secundario: El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por vialidades de 4 carriles 2 en cada sentido, banquetas de 2.40 metros mínimo cada uno, camellón central y ciclo vía; con una sección transversal total de 35 metros, colectoras;
 
-LXVIII.- Secretaría: La Secretaría de Desarrollo Social y Humano;
+LXVIII. Sistema Vial Terciario: El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por calles locales y calles cerradas; con una sección mínima de 12 metros;
 
-LXIX.- Sistema vial “Eje Metropolitano”: el trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por vialidades de 6 carriles 3 en cada sentido, banquetas de 4.50 mts. mínimo c/u, camellón central, ciclo vía, calles de servicio lateral de dos carriles cada una con sus correspondientes banquetas de 5 mts., cubriendo una sección transversal total de 60 mts.;
+LXIX. Traza: La definición en planos topográficos de vialidades y restricciones federales, estatales o municipales, de un predio determinado;
 
-LXX.- Sistema vial “Primario”: El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por vialidades de 4 carriles (mínimo) 2 en cada sentido, banquetas de 3 mts. Mínimo c/u, camellón central y ciclo vía; con una sección transversal total de 40 mts.;
+LXX. Urbanización: La instalación de los ductos e infraestructura necesaria para la conducción de agua potable, drenaje y alcantarillado, ya sea sanitario o pluvial, las instalaciones subterráneas de las líneas e infraestructura necesarias para la conducción de energía eléctrica, alumbrado público, gas, teléfono, tele cable, fibra óptica, sistema y equipo de seguridad, así como la construcción de guarniciones, banquetas adecuadas para discapacitados y pavimento de arroyos y ciclo vías según las normas y los reglamentos correspondientes;
 
-LXXI.- Sistema vial secundario: El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por vialidades de 4 carriles 2 en cada sentido, banquetas de 2.40 mts. mínimo c/u, camellón central y ciclo vía; con una sección transversal total de 35 mts. (colectoras).;
+LXXI. Vivienda Duplex: Construcción de dos viviendas ya sea en forma horizontal o vertical construidas en un solo lote;
 
-LXXII.- Sistema vial terciario: El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por calles locales y calles cerradas; con una sección mínima de 12 mts.;
+LXXII. Vivienda Triplex: Construcción de tres viviendas ya sea en forma horizontal o vertical construidas en un solo lote;
 
-LXXIII.- Sistema vial alternativo: El trazo del sistema vial señalado en los Planes y Programas Vigentes de Desarrollo Urbano para el Municipio de Silao, Guanajuato; compuesto por andadores y ciclo vías;
+LXXIII. Zona habitación de densidad muy baja de 50 a 100 habitantes por Ha., se identifica como HO;
 
-LXXIV.- Director técnico en topografía: Profesionista capacitado para desempeñar funciones afines, y que cuenta con su registro correspondiente ante la Dirección;
+LXXIV. Zona habitación de densidad baja de 100 a 200 habitantes por Ha., se identifica como H1;
 
-LXXV.- Traza: la definición en planos topográficos de vialidades y restricciones federales, estatales o municipales, de un predio determinado, y;
+LXXV. Zona habitación de densidad media de 200 a 300 habitantes por Ha., se identifico como H2;
 
-LXXVI.- Urbanización: la instalación de los ductos e infraestructura necesaria para la conducción de agua potable, drenaje y alcantarillado, ya sea sanitario o pluvial, las instalaciones subterráneas de las líneas e infraestructura necesarias para la conducción de energía eléctrica, alumbrado público, gas, teléfono, tele cable, fibra óptica, y sistema y equipo de seguridad, así como la construcción de guarniciones, banquetas adecuadas para discapacitados y pavimento de arroyos y ciclo vías según las normas y los reglamentos correspondientes;
+LXXVI. Zona habitación de densidad alta de 300 a 400 habitantes por Ha., se identifica como H3;
 
-LXXVII.- Vivienda Duplex: Constricción de dos viviendas ya sea en forma horizontal o vertical construidas en un solo lote, y;
+LXXVII. Zona de conjunto habitación de densidad baja de 150 a 300 habitantes por Ha., y una vivienda por lote en sentido horizontal (clusters), se identifica como H4;
 
-LXXVIII.- Vivienda triplex: Constricción de tres viviendas ya sea en forma horizontal o vertical construidas en un solo lote;
+LXXVIII. Zona de conjunto habitación de densidad media de 300 a 400 habitantes por Ha., se permite la construcción de dos viviendas por lote en sentido horizontal o vertical (duplex), se identifica como H5; y,
 
-LXXIX.- Zona habitación de densidad muy baja de 50 a 100 habitantes por Ha., se identifica como H0;
-
-LXXX.- Zona habitación de densidad baja de 100 a 200 habitantes por Ha., se identifica como H1;
-
-LXXXI.- Zona habitación de densidad media de 200 a 300 habitantes por Ha., se identifico como H2;
-
-LXXXII.- Zona habitación de densidad alta de 300 a 400 habitantes por Ha., se identifica como H3;
-
-LXXXIII.- Zona de conjunto habitación de densidad baja de 150 a 300 habitantes por Ha., y una vivienda por lote en sentido horizontal (clusters), se identifica como H4;
-
-LXXXIV.- Zona de conjunto habitación de densidad media de 300 a 400 habitantes por Ha., se permite la construcción de dos viviendas por lote en sentido horizontal o vertical (duplex), se identifica como H5;
-
-LXXXV.- Zona de conjunto habitación de densidad alta de 400 a 500 habitantes por Ha, se permite la construcción de tres viviendas por lote en sentido horizontal o vertical (triplex), se identifica como H6; (sic)
+LXXIX. Zona de conjunto habitación de densidad alta de 400 a 500 habitantes por Ha, se permite la construcción de tres viviendas por lote en sentido horizontal o vertical (triplex), se identifica como H6.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES
 
@@ -273,11 +263,17 @@ Estas áreas deberán ser equipadas agua potable, drenaje, conexión a la red el
 
 En referencia al Articulo 31 de la Ley se atenderá de la siguiente manera:
 
-I.- En afectaciones a fraccionamientos residenciales por vialidades públicas de cualquier tipo se considerará un 100% como parte de la donación correspondiente,
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-II.- En afectaciones a fraccionamientos de habitación popular y de urbanización progresiva por vialidades públicas de cualquier tipo se considerará un 70% como parte de la donación correspondiente,
+I. En afectaciones derivadas del Plan de Ordenamiento Territorial, planes, programas de desarrollo urbano o las declaratorias de reservas correspondientes, por instalaciones de equipamiento urbano o el trazo de vías públicas a fraccionamientos residenciales se considerará un 100% como parte de la donación a excepción de las vialidades que el Plan proponga en restricciones federales, de conformidad con el convenio que al efecto se celebre entre el Ayuntamiento y la autoridad Federal;
 
-III.- En afectaciones por vialidades públicas de cualquier tipo se considerará un 70% como parte de la donación correspondiente, (sic)
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+II. En afectaciones derivadas del Plan de Ordenamiento Territorial, planes, programas de desarrollo urbano o las declaratorias de reservas correspondientes, por instalaciones de equipamiento urbano o el trazo de vías públicas a fraccionamientos de habitación popular y de urbanización progresiva se considerará un 70% como parte de la donación a excepción de las vialidades que el Plan proponga en restricciones federales, de conformidad con el convenio que al efecto celebre entre el Ayuntamiento y la autoridad Federal; y,
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+III. En afectaciones derivadas del Plan de Ordenamiento Territorial, planes, programas de desarrollo urbano o las declaratorias de reservas correspondientes, por instalaciones de equipamiento urbano o el trazo de vías públicas a cualquier tipo de desarrollo no contemplado en los incisos anteriores se considerará un 70% como parte de la donación a excepción de las vialidades que el Plan proponga en restricciones federales, de conformidad con el convenio que al efecto celebre entre el Ayuntamiento y la autoridad Federal.
 
 ###### Artículo 10.
 
@@ -317,11 +313,19 @@ Las vialidades que conforman el sistema vial terciario tendrán las siguientes c
 
 I.- Las calles locales que se proyecten en los fraccionamientos residenciales tipo A, B o C, tendrán un arroyo de circulación que no será menor de 7 metros y su sección transversal de paramento a paramento será de 12 metros;
 
-II.- Las calles locales que se proyecten en los fraccionamientos de interés social o de urbanización progresiva con obras mínimas de infraestructura, tendrán un arroyo de circulación que no será menor de 8 metros y su sección transversal de paramento a paramento será de 12 metros;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-III.- Las calles locales que se proyecten en los fraccionamientos comerciales tendrán una sección transversal de paramento a paramento que no será menor de 20 metros;
+II.- Las calles locales que se proyecten en los fraccionamientos de interés social o de habitación popular, tendrán un arroyo vehicular que no será menor de 7 metros y una sección transversal de paramento a paramento con un mínimo de 11 metros;
 
-IV.- Las calles locales que se proyecten en los fraccionamientos industriales tendrán una sección transversal de paramento a paramento que no será menor de 40 metros; Las calles locales sólo se permitirán en un sólo sentido de circulación;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+III.- Las calles locales que se proyecten en los fraccionamientos comerciales tendrán un arroyo vehicular que no será menor de 14 metros y una sección transversal de paramento a paramento que no será menor de 19 metros;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
+IV.- Las calles locales que se proyecten en los fraccionamientos industriales tendrán un arroyo vehicular que no será menor de 14 metros y una sección transversal de paramento a paramento que no será menor de 19 metros.
+
+Las calles locales que se proyecten en los fraccionamientos industriales tendrán una sección transversal de paramento a paramento que no será menor de 40 metros; Las calles locales sólo se permitirán en un sólo sentido de circulación;
 
 V.- Las calles cerradas tendrán un arroyo de circulación que no será menor de 9 metros en doble sentido de circulación, y su sección transversal de paramento a paramento será de 13 metros, tendrán como longitud máxima la que la Dirección dictamine de acuerdo a las condiciones y características del desarrollo, y contarán con un retorno de 21 metros de diámetro como mínimo de guarnición a guarnición, y;
 
@@ -349,9 +353,11 @@ VIII.- Las ciclo vías que se ubiquen dentro del sistema vial secundario y terci
 
 IX Las ciclo vías en general podrán ubicarse dentro de parques públicos, restricciones de ríos y arroyos, o las indicadas por el Plan de Ordenamiento Territorial y la Dirección.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 15.
 
-El diseño de la traza del desarrollo deberá respetar la estructura vial existente en los desarrollos colindantes, los cauces naturales de ríos y arroyos y los demás elementos orográficos, topográficos establecidos en el Programa de Desarrollo Urbano vigente, así como las restricciones Federales, Estatales y Municipales, debiendo considerarse como máximo una separación entre vialidades de 180 metros lineales, excepto en los fraccionamientos campestres, industriales y agropecuarios, que podrán tener una separación máxima de 380 metros lineales. No se exigirá la continuidad de vialidades cuando exista un elemento físico o natural que la impida; en todos los casos será indispensable presentar la información georeferenciada mediante coordenadas GPS, y la referente traza realizada en el sistema de coordenadas UTM, elaboradas por el Director técnico en Topografía registrado ante la Dirección de Desarrollo Urbano.
+El diseño de la traza del desarrollo deberá respetar la estructura vial existente en los desarrollos colindantes, los cauces naturales de ríos y arroyos y los demás elementos orográficos, topográficos establecidos en el Plan Ordenamiento Territorial vigente, así como las restricciones Federales, Estatales y Municipales, debiendo considerarse como máximo una separación entre vialidades de 180 metros lineales, excepto en los fraccionamientos campestres, industriales y agropecuarios, que podrán tener una separación Máxima de 380 metros lineales. No se exigirá la continuidad de vialidades cuando exista un elemento físico o natural que la impida; en todos los casos será indispensable presentar la información georeferenciada mediante coordenadas GPS, y la referente traza realizada en el sistema de coordenadas UTM.
 
 ###### Artículo 16.
 
@@ -445,7 +451,9 @@ IX.- Las especificaciones de construcción que por cada tipo de obra o servicio 
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIZACIONES
 
-### CAPÍTULO PRIMERO. DE LAS DIVISIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO PRIMERO. DE LAS FUSIONES Y DIVISIONES
 
 ###### Artículo 32.
 
@@ -479,47 +487,53 @@ XIII.- los lotes resultantes destinados para un uso diferente a los mencionados 
 
 XIV.- Los casos no previstos estarán sujetos a consideración de la Dirección.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 33.
 
-El trámite para otorgar un permiso de división se sujetará a lo dispuesto en el Artículo 15 de la Ley: (sic)
+Para el otorgamiento de la autorización de fusiones de inmuebles se exigirán, en lo conducente, los requisitos que para las divisiones señala la Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 33 A.- La autorización para llevar a cabo una fusión de inmuebles, no implica la autorización para fusionar los usos o destinos del suelo que los mismos tengan o se les hayan asignado, así como tampoco constituyen constancias de apeo y deslinde respecto de los inmuebles a que se refieren, ni acreditan la propiedad o posesión de los mismos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 33 B.- La Dirección deberá implementar programas de regularización respecto de aquellos inmuebles que se hayan dividido sin obtener la autorización correspondiente, siempre y cuando cumplan como mínimo con los siguientes requisitos:
+
+l. Que no se deriven de un fraccionamiento;
+
+II. Tener una antigüedad comprobable de división y construcción habitable mayor a 5 años a la fecha en que se solicite la regularización;
+
+III. Encontrarse dentro de zona urbana;
+
+IV. Que las partes resultantes:
+
+a) Se destinen exclusivamente a usos habitacionales;
+
+b) Tengan acceso independiente a la vía pública;
+
+c) Cuenten con todos los servicios o en su caso obtengan factibilidad para los mismos por parte de las dependencias o entidades públicas;
+
+d) No tengan áreas comunes o muros medianeros; y,
+
+e) No estén sujetas al régimen de propiedad en condominio;
+
+V. Los demás que establezca el programa respectivo.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 34.
 
-Para los efectos de los artículos 8 al 12 de la Ley, el procedimiento de división aplicable a las divisiones de copropiedad, adjudicaciones testamentarias e intestamentarias, adjudicaciones por la vía de remate judicial, donaciones gratuitas entre familiares en línea recta sin límite de grado, donaciones entre consortes y otras resoluciones judiciales de carácter civil, será el siguiente:
-
-I.- En la división de una copropiedad se presentara con la solicitud, el convenio de división o la resolución judicial que la ordene y del auto de ejecutoria.
-
-II.- En las adjudicaciones testamentarias o intestamentarias, se presentara la solicitud con los documentos base de ellas y de los autos que declaren que han causado estado, cuando así sea procedente, cuando el tramite sucesorio se realice ante Notario Público, se presentará el proyecto de Partición en los términos del párrafo primero, del artículo 674, del Código de Procedimientos Civiles, vigente en Guanajuato.
-
-III.- En las adjudicaciones de vía de remate judicial, se presentará con la solicitud copia certificada de la diligencia correspondiente.
-
-IV.- En el caso de las donaciones gratuitas, entre parientes en línea recta y entre consortes, se presentarán con la solicitud los documentos certificados que acrediten esa circunstancia.
-
-V.- La Dirección analizará la solicitud y los documentos anexados y producirá dentro de un plazo no mayor de cinco días hábiles siguientes a la recepción de la solicitud, la resolución correspondiente.
-
-VI.- Transcurrido este plazo sin que hubiere producido resolución alguna, se dará por aprobada la solicitud y bastará con la presentación de la solicitud sellada para que el Departamento de Impuestos Inmobiliarios de curso, en su oportunidad, al aviso de traslación de dominio correspondiente.
-
-VII.- Cuando se trate del hecho notorio consistente en que en un mismo inmueble han construido su casa habitación uno o más familiares, será necesario previa solicitud, que la Dirección dictamine sobre la situación y la necesidad de dividir, respetando las dimensiones de lote mínimo de 6 mts. de frente y una superficie de 105 m2., para que pueda ser autorizada la división solicitada, en este caso no procede la autorización ficta.
-
-VIII.- Las Divisiones tal y como se señala en el Artículo 2 fracciones 25 y 55 de este reglamento, solo podrán considerarse como tales aquellas en las que su número no conste de más de 10 porciones.
+Cuando se trate del hecho notorio consistente en que en un mismo inmueble han construido su casa habitación uno o más familiares, será necesario previa solicitud, que la Dirección dictamine sobre la situación y la necesidad de dividir.
 
 ### CAPÍTULO SEGUNDO. DE LAS RELOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 35.
 
-Los interesados en el trámite de Relotificación, deberán presentar a la Dirección:
-
-I.- Solicitud por escrito dirigida a la Dirección.
-
-II.- Documentos que acrediten la personalidad jurídica del desarrollador.
-
-III.- Certificado de libertad de gravámenes por un periodo de 20 años, actualizado.
-
-IV.- Constancia de factibilidad de servicios de agua potable, alcantarillado y energía eléctrica, expedidos por los organismos operadores correspondientes.
-
-V.- Dos Planos del proyecto de relotificación.
-
-VI.- Dos Planos de localización indicando caminos, calles existentes del poblado y ciudad.
+La solicitud para la autorización de relotificación deberá presentarse por escrito ante la Dirección, atendiendo a las condiciones previstas en el artículo 17 de la Ley, así como en los artículos 42 al 46 de su reglamento.
 
 ###### Artículo 36.
 
@@ -607,7 +621,9 @@ I.- Áreas de circulación peatonal en áreas comunes;
 
 II.- Áreas de equipamiento urbano en función de las superficies y viviendas;
 
-III.- Áreas verdes (no área de donación) a razón de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
+III.- Áreas verdes;
 
 a) De 3 a 16 viviendas deberán contar con áreas verdes y espacios libres para recreación a razón de 4 metros cuadrados por vivienda prevista;
 
@@ -626,6 +642,8 @@ IV.- Estacionamiento para vehículos de acuerdo a los requerimientos del reglame
 V.- Instalaciones y equipo de seguridad para la atención por siniestros y desastres;
 
 Las obras de edificación deberán cumplir con las normas y especificaciones que le señalen las leyes y reglamentos municipales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 41.
 
@@ -683,29 +701,19 @@ Los lotes de los fraccionamientos de habitación popular o de interés social, d
 
 ### CAPÍTULO CUARTO. DE LOS FRACCIONAMIENTOS DE URBANIZACION PROGRESIVA CON OBRAS MINIMAS DE INFRAESTRUCTURA
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 47.
 
-Los fraccionamientos de urbanización progresiva con obras mínimas de infraestructura, son aquellos que cuentan con los servicios básicos de agua potable, drenaje y alcantarillado, y que para obtener la habitabilidad será necesario contar con energía eléctrica y vialidades de acceso urbanizadas; destinados a la edificación de vivienda progresiva o por autoconstrucción para familias de escasos ingresos económicos; en los cuales las obras complementarias se ejecutarán en forma gradual, por autogestión de los adquirentes, en plazos mayores a los fijados para los demás tipos de fraccionamientos. La pavimentación de las vialidades se considerará obra complementaria de urbanización.
+Cuando se pretenda realizar fraccionamientos bajo el proceso constructivo de urbanización progresiva, los desarrolladores deberán coordinarse con El IMUVI.
 
-Para lo relacionado con fraccionamientos de urbanización progresiva con obras mínimas de infraestructura, se entiende por:
-
-I.- Vivienda Progresiva: Aquella que se construye en etapas, con recursos propios del adquirente o mediante esquemas de financiamiento público o privado.
-
-II.- Autogestión: La promoción y realización de acciones encaminadas a la ejecución de las obras complementarias de urbanización y en su caso, para la edificación de su vivienda, que los adquirentes realicen de manera organizada, con recursos propios o que se alleguen de cualquier fuente.
-
-III.- Autoconstrucción: La edificación de la vivienda del adquirente a través de la aplicación de su mano de obra, de sus familiares o excepcionalmente por terceros especializados.
-
-IV.- Habitabilidad: Condición que se adquiere cuando el terreno donde se pretenda construir la vivienda tenga por lo menos agua, drenaje, energía eléctrica y vialidad de acceso principal urbanizada en los términos y condiciones que marque la Dirección, requisitos indispensables para que la misma autorice la licencia de construcción.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 48.
 
-Los fraccionamientos a que se refiere esta sección, podrán ser realizados por:
+Tratándose de fraccionamientos que se realicen bajo el procedimiento constructivo de urbanización progresiva, la Dirección podrá otorgar la licencia de urbanización, siempre y cuando se trate de fraccionamientos de habitación popular o de interés social promovidos por el lMUVI y ejecutados por el mismo, o por particulares que para dichos efectos se coordinen con ese organismo.
 
-I.- Personas físicas o jurídico colectivas de naturaleza mercantil, con sujeción al presente Reglamento;
-
-II.- Asociaciones Civiles u otro tipo de personas morales que se constituyan para desarrollar este tipo de fraccionamientos en beneficio de sus integrantes, con sujeción al presente reglamento; y
-
-III.- El Fideicomiso de vivienda de Silao “FIDEVI”.
+En el caso de que la ejecución se realice por los particulares, éstos deberán celebrar el convenio correspondiente con el IMUVI, en el que se establezcan los términos, condiciones y plazos de acuerdo con los cuales deban realizarse los trámites, las obras de urbanización y su respectiva ocupación. El convenio de coordinación respectivo deberá presentarse ante la Dirección al inicio de los trámites que se realicen para obtener la autorización correspondiente.
 
 ###### Artículo 49.
 
@@ -738,6 +746,10 @@ IV.- Las vialidades que sean ejecutadas en un tiempo de 5 años, comprenderán c
 V.- Los pavimentos del sistema vial terciario y alternativo podrán ser de concreto hidráulico, de carpeta a base de concreto asfáltico o de cualquier otro tipo de pavimento aprobado por la Dirección de Obras Públicas. Las guarniciones serán de concreto hidráulico y las banquetas serán de concreto hidráulico o de cualquier otro tipo de pavimento aprobado por la Dirección de Obras Públicas. Las calles locales deberán concurrir con calles colectoras. Sin embargo, en vialidades secundarias la Dirección de Obras Públicas, podrá autorizar el uso de cualquier otro tipo de pavimento, atendiendo a las características especificas de la vialidad y la circulación vehicular que soporte; y,
 
 VI.- La sección autorizada deberá estar habitada cuando menos al 80% de los lotes que la conformen, en cuatro años.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 50 A.- Las obras de urbanización se ejecutarán por el desarrollador o en su caso por los adquirentes de los lotes del fraccionamiento, quienes lo harán de manera organizada y en forma gradual de conformidad con lo estipulado en el convenio a que se refiere el artículo 48 del presente ordenamiento, con recursos propios o que se alleguen de cualquier fuente.
 
 ### CAPÍTULO QUINTO. DE LOS FRACCIONAMIENTOS INDUSTRIALES
 
@@ -795,9 +807,11 @@ Para los efectos fiscales, los fraccionamientos industriales de alto riesgo se c
 
 ### CAPÍTULO SEXTO. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 59.
 
-Los fraccionamientos campestres de tipo residencial, deberán estar ubicados exclusivamente en el área prevista para el crecimiento urbano de la ciudad, y deberán tener como mínimo las siguientes características:
+Los fraccionamientos campestres de tipo residencial, deberán estar ubicados fuera de la zona de crecimiento de la ciudad, señalada en el Plan de Ordenamiento Territorial, y deberán tener como mínimo las siguientes características:
 
 I.- Los lotes no podrán tener un frente menor de 20 metros, ni una superficie menor de 1000 metros cuadrados, y;
 
@@ -839,7 +853,9 @@ Todo fraccionamiento campestre y agropecuario, deberá contar como mínimo de in
 
 I.- Fuente de abastecimiento de agua potable y red de distribución;
 
-II.- Sistema de alcantarillado con salidas domiciliarias de albañal, debiendo prever el tratamiento de aguas residuales;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+II.- Fosa séptica por cada uno de los lotes y en su caso, sistema de alcantarillado con salidas domiciliarias de albañal, debiendo prever el tratamiento de aguas residuales;
 
 III.- Red de distribución de energía eléctrica para uso doméstico;
 
@@ -849,7 +865,11 @@ V.- Camino de acceso nivelado y con revestimiento de material mejorado, construi
 
 VI.- Las calles locales tendrán un arroyo de circulación que no será menor de 7 metros y su sección transversal de paramento a paramento será de 12 metros.
 
-Asimismo, en este tipo de fraccionamientos, la pavimentación será de acuerdo a la especificaciones señaladas por la Dirección de Obras Públicas Municipales, de conformidad con el estudio de mecánica de suelos y diseño de pavimentos, y además, deberán contar con arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Asimismo, en este tipo de fraccionamientos, la pavimentación será de acuerdo a la especificaciones señaladas por la Dirección, de conformidad con el estudio de mecánica de suelos, y además, deberán contar con arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 64.
 
@@ -871,7 +891,9 @@ II.- Deberán contar con las áreas necesarias para el adecuado desplazamiento p
 
 III.- Se deberá circundar el fraccionamiento por medio de una barda, reja o cerca siempre que no se interrumpan vialidades que se tengan previstas en los Planes y Programas de Desarrollo Urbano, debiéndose arbolar las áreas libres destinadas a éste fin por parte del fraccionador, y;
 
-IV.- Deberán cumplir con los requisitos señalados en el artículo 73 de este reglamento.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+IV.- Deberán cumplir con los requisitos señalados en el artículo 63 de este Reglamento.
 
 ### CAPÍTULO DECIMO. DE LOS FRACCIONAMIENTOS COMERCIALES
 
@@ -903,19 +925,11 @@ Una vez autorizado el fraccionamiento comercial, sólo se permitirá el cambio d
 
 ### CAPÍTULO DECIMO PRIMERO. DEL CONDOMINIO Y SU REGIMEN DE PROPIEDAD
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 70.
 
-Para los efectos de este reglamento, se entenderá por:
-
-I.- Condominio horizontal: a la modalidad mediante la cual cada condómino es propietario exclusivo de un terreno y de la edificación constituida sobre él y copropietario del terreno o áreas de aprovechamiento común, con las edificaciones o instalaciones correspondientes;
-
-II.- Condominio vertical: a la modalidad mediante la cual cada condómino es propietario exclusivo de una parte de la edificación y en común de todo el terreno y edificaciones o instalaciones de uso general, en donde existe un elemento común de propiedad indivisible;
-
-III.- Condominio mixto de usos compatibles: a la combinación de las modalidades de condominio señaladas en las dos fracciones anteriores;
-
-IV.- Unidad de propiedad exclusiva: a la casa, departamento, vivienda, local o áreas sujetos al régimen de propiedad en condominio, y;
-
-V.- Reglamento del condominio: al ordenamiento que regula la administración del inmueble y los derechos y obligaciones de los condóminos, sujetos al régimen de propiedad en condominio.
+La realización de los desarrollos a que se refiere este Capítulo se sujetará a lo dispuesto en el Código Civil para de Estado de Guanajuato, en cuanto al régimen de propiedad en condominio, debiendo cumplir asimismo con lo dispuesto en la Ley y en el presente reglamento.
 
 ###### Artículo 71.
 
@@ -927,9 +941,41 @@ II.- Los propietarios de departamentos, viviendas, casas, locales o áreas los e
 
 III.- El propietario o propietarios de un inmueble lo dividan en diferentes departamentos, viviendas, casas, locales o áreas, para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad que sea indivisible.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 72.
 
-El régimen de propiedad en condominio puede constituirse sobre las construcciones en proyecto, en proceso de construcción o ya terminadas, siempre y cuando se cumpla con los requerimientos de este reglamento y demás disposiciones legales aplicables. Asimismo, en caso de que una vez obtenida la autorización para llevar a cabo la construcción de un desarrollo en condominio, el interesado decline su intención de desarrollar, podrá solicitar al Ayuntamiento, mediante escrito presentado ante la Dirección, solicitud de restitución de las áreas de donación que haya escriturado en favor del Municipio. La Dirección hará el análisis de la solicitud y en caso de ser procedente, la turnará al Ayuntamiento para que éste la apruebe o desapruebe. Aprobada que sea la solicitud por el Ayuntamiento, se enviará el expediente respectivo al Congreso del Estado, a efecto de que éste autorice la restitución de las áreas de donación al fraccionador, mediante la desafectación correspondiente. Los gastos que se generen por tal situación, serán a cargo del fraccionador.
+Los desarrollos en condominio deberán contar con áreas verdes y áreas de uso común, dentro del mismo desarrollo, conforme al número de viviendas, locales, departamentos o unidades que los integren, de conformidad con lo siguiente:
+
+I. 7.30 metros cuadrados de área verde y 5.30 metros cuadrados de área de uso común, por cada unidad, cuando ésta cuente con una superficie menor a 80 metros cuadrados;
+
+II. 8.30 metros cuadrados de área verde y 6 metros cuadrados de área de uso común por cada unidad, cuando ésta cuente con una superficie igualo mayor a 80 metros cuadrados; y,
+
+III. 9.70 metros cuadrados de área verde y 7.30 metros cuadrados de área de uso común por cada unidad, cuando ésta cuente con una superficie igualo mayor a 240 metros cuadrados.
+
+Además deberá otorgarse a favor del Municipio, el 4% de la superficie total del predio a desarrollar, para área de donación, conforme a lo establecido en el artículo 62 fracción III de la Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 72 A.- Las superficies que se determinen en el proyecto como áreas de uso común y las áreas verdes deberán considerarse como elementos o partes comunes del condominio, y las áreas de donación deberán escriturarse en favor del Municipio e inscribirse en el Registro Público de la Propiedad y del Comercio.
+
+Las áreas que se escrituren en favor del municipio, deberán ubicarse de tal forma que se pueda acceder a ellas por la vía pública.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 72 B.- En los desarrollos en condominio de uso habitacional, se podrán construir andadores que sirvan de enlace entre las edificaciones y se encuentren ubicados entre las áreas verdes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 72 C.- Para los efectos del último párrafo del artículo 42 de la Ley, el interesado deberá adjuntar a su solicitud, el reglamento del propio condominio, autorizado previamente por la Dirección, que contenga las normas de diseño urbano arquitectónico, a las que se sujetarán las construcciones sobre los lotes que integren el desarrollo.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 72 D.- Cuando se pretenda llevar a cabo un desarrollo mixto, el interesado lo señalará así desde la solicitud de autorización de traza, debiendo precisar además en el proyecto de diseño urbano, el perímetro que corresponda a cada tipo de desarrollo. El uso entre los mismos deberá ser siempre compatible.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 72 E.- Para los desarrollos mixtos se aplicarán las disposiciones particulares para cada tipo de desarrollo que se establecen en la Ley, su reglamento y el presente ordenamiento, en la superficie que corresponda a cada uno de ellos.
 
 ###### Artículo 73.
 
@@ -947,9 +993,11 @@ Los desarrollos en condominio cualquiera que sea su tipo, conforme al número de
 
 Las construcciones dúplex y triplex y los desarrollos en condominio habitacionales, deberán sujetarse al régimen de propiedad en condominio y cumplir con lo dispuesto en este reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 76.
 
-Las construcciones dúplex y triplex y los desarrollos en condominio para vivienda, se considerarán como condominios habitacionales horizontales y verticales, siempre que cada módulo tenga cimentación propia.
+Las construcciones dúplex y triplex y los desarrollos en condominio para vivienda, se considerarán como condominios habitacionales horizontales, siempre que cada módulo tenga cimentación propia.
 
 ###### Artículo 77.
 
@@ -1065,9 +1113,11 @@ En los desarrollos en condominio de uso habitacional, se deberán construir anda
 
 Las autorizaciones, licencias y permisos que se expidan en contravención a los preceptos establecidos en la Ley, en este Reglamento y demás ordenamientos jurídicos aplicables, serán nulos de pleno derecho.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 89.
 
-Los fraccionamientos promovidos para destino de habitación popular o de interés de urbanización progresiva, deberán cumplir con los requisitos que establezca la Ley.
+Los fraccionamientos promovidos para destino de habitación popular o de interés social podrán realizarse bajo el procedimiento constructivo de urbanización progresiva y deberán cumplir con los requisitos que establezca la Ley.
 
 ###### Artículo 90.
 
@@ -1123,17 +1173,19 @@ Previo al otorgamiento de la licencia de urbanización de un fraccionamiento o d
 
 En el caso de fraccionamientos o desarrollos en condominio que requieran la construcción de obras de cabecera para el suministro de energía eléctrica, dotación de agua potable, desalojo y tratamiento de aguas residuales, o de integración vial a la zona urbanizada, deberá celebrarse convenio con el organismo operador, previo a la solicitud de la licencia de urbanización.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 98.
 
-Previo al otorgamiento del permiso de venta de un fraccionamiento o desarrollo en condominio, el desarrollador deberá acreditar:
+Previo al otorgamiento del permiso de venta de un fraccionamiento o desarrollo en condominio, además de lo previsto en la Ley, el desarrollador deberá acreditar:
 
-I.- Haber obtenido la licencia de urbanización en el fraccionamiento o desarrollo en condominio;
+I. La escrituración formalizada ante Notario Público del Partido Judicial de Silao, con cargo al fraccionador a favor del Municipio sobre las áreas de donación o de las áreas de equipamiento urbano, respectivamente, según se trate de un fraccionamiento o de un desarrollo en condominio y de las vías públicas; y,
 
-II.- El pago correspondiente a los impuestos y derechos de conexión a las redes de agua potable y descarga de aguas residuales conforme a los costos vigentes en la Ley de ingresos para el Municipio de Silao enterados ante SAPAS; y los relativos a energía eléctrica y otros referidos al marco normativo vigente;
+II. El otorgamiento de garantías ante la autoridad competente, sobre la ejecución total y adecuada de las obras de urbanización con las especificaciones y plazo previstos en la licencia de urbanización, en caso de garantía real, de igual forma constituirse ante Notario Público del Partido Judicial de SiIao, con cargo al fraccionador a favor del Municipio.
 
-III.- La escrituración con cargo al fraccionador a favor del Municipio sobre las áreas de donación o de las áreas de equipamiento urbano, respectivamente, según se trate de un fraccionamiento o de un desarrollo en condominio y de las vías públicas; y
+III. (DEROGADA, P.O. 10 DE JUNIO DE 2008)
 
-IV.- El otorgamiento de garantías ante la autoridad competente, sobre la ejecución total y adecuada de las obras de urbanización con las especificaciones y plazo previstos en la licencia de urbanización.
+IV. (DEROGADA, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 99.
 
@@ -1153,51 +1205,27 @@ Para que la Dirección otorgue el permiso de división de inmuebles, deberá con
 
 El Registro Público de la Propiedad negará cualquier inscripción de la escritura pública que no cuente con el permiso de división de un inmueble.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 103.
 
-Los interesados en el trámite de división de inmuebles, tendrán las siguientes obligaciones:
+El trámite para otorgar un permiso de división se sujetará a lo siguiente:
 
-I.- Solicitud en la que se indique:
+l. El propietario deberá presentar su solicitud por escrito ante la Dirección;
 
-a) Antecedentes regístrales
+II. La Dirección realizará la revisión técnica y legal de la solicitud; y,
 
-b) Uso de suelo actual del predio
+III. La Dirección autorizará la división cuando se cumpla con los siguientes requisitos:
 
-c) Ubicación del predio y/o Alineamiento y Número Oficial
+a) Copia de la escritura pública de propiedad debidamente inscrita en el Registro Público de la Propiedad y del Comercio;
 
-d) Destino de las fracciones
+b) Cuando se trate de persona moral, copia de la escritura constitutiva inscrita en el Registro Público de la Propiedad y del Comercio, así como documento que acredite la personalidad jurídica del representante legal;
 
-e) Representante legal (si es el caso)
+c) Levantamiento topográfico suscrito por perito profesional;
 
-f) Solicitante
+d) Constancia de suficiencia de servicios de agua potable y alcantarillado, y de energía eléctrica, expedida por los organismos operadores correspondientes, tratándose de predios urbanos; y,
 
-II.- Anexar a la solicitud la siguiente documentación:
-
-a).- Copia de escrituras públicas de propiedad debidamente inscritas en el Registro Publico la Propiedad y del comercio.
-
-b).- Copia de la escritura constitutiva inscrita en el Registro Publico de la Propiedad y del comercio, cuando se trate de persona moral.
-
-c).- Documentos que acrediten la personalidad jurídica del desarrollador.
-
-d).- Certificado de libertad de gravámenes por un periodo de 20 años, actualizado.
-
-e).- Constancia de no adeudo del impuesto predial que señale la clave catastral del predio.
-
-f).- Constancia de apeo y deslinde judicial en el caso de que se requiera.
-
-g).- Constancia de haber obtenido el derecho de preferencia del Estado o del municipio tramitado en la Secretaria de Desarrollo Social y Humano o en la Dirección de Desarrollo Urbano del municipio, en el caso de que se requiera.
-
-h).- Constancia de suficiencia de servicios de agua potable y alcantarillado, energía eléctrica, expedidos por organismos operadores correspondientes, tratándose de predios urbanos.
-
-i).- Dos Planos de levantamiento topográfico que incluyan las calles circundantes a la infraestructura existente abarcando un radio de influencia de 500 metros.
-
-j).- Dos Planos de propuesta de división.
-
-k).- Dos Planos de localización indicando caminos, calles existentes del poblado y ciudad.
-
-l).- Garantizar y respetar las servidumbres de acceso tanto en predios rústicos como urbanos.
-
-III.- Pagar en tiempo y forma, los impuestos y derechos que correspondan.
+e) Plano avalado por el perito fiscal autorizado por el Municipio de Silao, Guanajuato, que contenga la propuesta de división, con superficie, medidas y colindancias, garantizando la servidumbre de paso a los predios resultantes de una división de predios urbanos. Y en caso necesario presentar Plano de levantamiento topográfico que incluya las calles colindantes y la infraestructura existente.
 
 ###### Artículo 104.
 
@@ -1245,7 +1273,11 @@ X.- Plano de lotificación totalmente acotado y avalado por la Dirección de Eco
 
 XI.- Memoria descriptiva del proyecto, señalando el tipo de desarrollo y los datos técnicos necesarios para la dotación de los servicios;
 
-XII.- En el caso de desarrollos en condominio, además de los anexos correspondientes, el solicitante deberá incluir plano de zonificación, que señale las áreas de uso común y las privativas, proyecto arquitectónico tipo de viviendas, locales o áreas, así como copia del proyecto de constitución del régimen en condominio.
+XII.- En el caso de desarrollos en condominio, además de los anexos correspondientes, el solicitante deberá incluir plano de zonificación, que señale las áreas de uso común y las privativas, proyecto arquitectónico tipo de viviendas, locales o áreas, así como copia del proyecto de constitución del régimen en condominio;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XIII.- Presentar el Dictamen de Riesgos emitidos por la Unidad de Protección Civil del Municipio.
 
 Cualquier observación procedente al análisis de la documentación, se notificará al desarrollador dentro de los cinco días hábiles siguientes a la recepción de la solicitud, a efecto de que la subsane.
 
@@ -1395,125 +1427,133 @@ Si posterior a la ampliación otorgada existieran causas justificadas, la Direcc
 
 ###### Artículo 125.
 
-El Director Técnico en Topografía es la persona física cuya actividad profesional esta relacionada con el levantamiento geográfico de predios por medios topográficos a que se refiere este ordenamiento y quien se hace responsable de la observancia del mismo.
-
-La calidad de Director Técnico en Topografía se adquiere con el registro correspondiente emitido por Esta Dirección y la Comisión correspondiente, dando cumplimiento al Artículo 15 Y 117 de estas Normas Técnicas.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 126.
 
-Responsiva profesional
-
-Para los efectos de este reglamento se entiende que un Director Técnico en Topografía otorgará su responsiva profesional, cuando suscriba una solicitud de autorización de Traza.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 127.
 
-Los Profesionales que podrán otorgar su responsiva como Director Técnico en Topografía serán las personas físicas con titulo de las carreras de Ingeniero Topógrafo, Ingeniero Civil, Arquitecto o Ingeniero - Arquitecto.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 128.
 
-Los requisitos para obtener el registro como Director Técnico en Topografía son los siguientes:
-
-I.- Ser ciudadano mexicano.
-
-II.- Tener titulo de Ingeniero Topógrafo, Ingeniero Civil, Arquitecto o Ingeniero Arquitecto registrado en la dirección de profesiones del estado de Guanajuato o de la dirección general de profesiones.
-
-III.- Un mínimo de tres años de práctica profesional en topografía a partir de la fecha de expedición del registro del título.
-
-IV.- Ser miembro activo del Colegio respectivo y ser avalado por el mismo.
-
-V.- Tener su domicilio fiscal en el municipio de Silao, Gto., Cuando menos un año antes de la solicitud de inscripción.
-
-VI.- Acreditar que conoce este Reglamento de Normas Técnicas.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 129.
 
-Comisión de admisión del Director Técnico en Topografía.
-
-La Dirección designara una comisión que se encargara designar y registrar como Director Técnico en Topografía a los profesionales que lo soliciten en los términos de los Artículo (sic) 138 y 139 de este reglamento.
-
-La Comisión de Admisión del Director Técnico en Topografía estará integrada por un representante de cada una de las siguientes instituciones.
-
-Colegio de Ingenieros Topógrafos de Silao A. C., Colegio de Ingenieros Civiles de Silao A. C. y Colegio de Arquitectos de Silao, A. C., así como tres representantes de la Dirección donde cada miembro contará con un suplente; la dirección en el mes de Noviembre de cada año solicitara a cada uno de estos colegios una terna con los nombres de los candidatos para representarlos, de esta terna se elegirá al propietario y al suplente.
-
-Las sesiones que lleve a cabo la comisión serán validas cuando asista la mayoría de los comisionados, propietarios.
-
-La resolución de la Comisión de admisión para designar al Director Técnico en topografía será turnada al Pleno del H. Ayuntamiento para su conocimiento.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 130.
 
-Obligaciones del Director Técnico en Topografía.
-
-El Director Técnico en Topografía será el único responsable de la buena ejecución exclusivamente de los procesos relacionados con la Traza y deberá:
-
-I.- Dirigir y vigilar los procesos técnicos requeridos por este reglamento así como su normativa.
-
-II.- Vigilar que se cumplan las disposiciones de este Reglamento.
-
-III.- Reportar a la Dirección los avances de conformidad a las revisiones conjuntas al proyecto de Traza en los tiempos pactados previamente.
-
-IV.- Colocar en lugar visible del proyecto un letrero con su nombre, numero de registro con el formato autorizado por la dirección.
-
-V.- Refrendar su calidad de director técnico en topografía de obra una vez cada año o cuando la dirección lo requiera.
-
-VI.- Colaborar con la dirección en la elaboración de peritajes cuando así se le solicite.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 131.
 
-Término de las funciones del Director Técnico en Topografía.
-
-Las funciones del Director Técnico en Topografía, en aquellos proyectos para las que haya dado su responsiva profesional terminaran cuando:
-
-I.- Ocurra cambio, suspensión, abandono o retiro de Director Técnico en Topografía.
-
-En este caso se deberá levantar un acta asentando en detalle el avance del proyecto hasta ese momento, la cual será suscrita por una persona designada por la Dirección, y por el solicitante del mismo.
-
-II.- La responsabilidad de carácter administrativo de los (sic) Director Técnico en Topografía, terminará al año contado a partir de la fecha en que se expida la autorización de usos y ocupación a que se refiere este Reglamento.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ###### Artículo 132.
 
-Suspensión del registro al Director Técnico en Topografía.
-
-La Dirección, previa opinión de la Comisión de Admisión, podrá suspender el registro al Director Técnico en Topografía en cualquiera de los siguientes casos:
-
-I.- Cuando haya obtenido su inscripción proporcionando datos o documentos falsos o cuando dolosamente presente datos erróneos.
-
-II.- Cuando no hubiere cumplido sus funciones como Director Técnico en Topografía en los casos en que haya dado su responsiva profesional.
-
-III.- Cuando haya reincidido en violaciones a este Reglamento.
-
-En los casos a que se refiere en las anteriores fracciones de este Artículo, la dirección dará aviso de la suspensión al colegio de profesionales respectivo.
-
-La suspensión se decretará por un mínimo de 3 meses en casos extremos podrá ser definitiva sin perjuicios de que el Director Técnico en Topografía subsane las irregularidades en que haya incurrido.
+(DEROGADO, P.O. 10 DE JUNIO DE 2008)
 
 ## TÍTULO QUINTO. AUTORIZACIONES DE VENTA
 
 ### CAPÍTULO PRIMERO. DEL PERMISO DE VENTA EN FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 133.
 
-Iniciadas las obras de urbanización y edificación en el caso de un fraccionamiento o desarrollo en condominio, según corresponda, el desarrollador podrá solicitar ante el Ayuntamiento el permiso de venta, anexando a demás de lo que establece la Ley los siguientes documentos:
+Iniciadas las obras de urbanización y edificación en el caso de un fraccionamiento o desarrollo en condominio, según corresponda, el desarrollador tramitará su solicitud de permiso de venta de una sección o la totalidad del desarrollo, ante la Dirección, debiendo cumplir con lo dispuesto en el artículo 49 de la Ley y además deberá presentar la siguiente documentación:
 
 I.- Plano de lotificación, con las medidas físicas de cada uno de los lotes que integran el desarrollo delimitando claramente la sección solicitada en su caso;
 
-II.- Escritura de constitución del régimen de propiedad en condominio tratándose de desarrollos en condominio; y
+II.- Escritura de constitución del régimen de propiedad en condominio tratándose de desarrollos en condominio; y (sic)
 
-III.- En el caso de existir algún gravamen procedente de un financiamiento para construcción de vivienda, acreditar el mismo con la presentación del documento referido para continuar con el trámite; (sic)
+III.- En el caso de existir algún gravamen procedente de un financiamiento para construcción de vivienda, acreditar el mismo con la presentación del documento referido para continuar con el trámite;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+IV.- Copia certificada de la escritura pública en la que conste la transmisión de propiedad a favor del municipio de las áreas de donación y de las vialidades, según se trate de fraccionamientos o desarrollos en condominio.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 133 A.- Una vez recibida la solicitud de la Dirección en base al avance registrado en las bitácoras de obra y presupuesto de las mismas, determinará el monto de la garantía de las obras de urbanización faltantes y el tiempo de ejecución, considerando un incremento del 30% del valor de las obras faltantes, a excepción de los fraccionamientos considerados bajo el procedimiento de urbanización progresiva.
+
+Cuando la licencia de urbanización se haya otorgado por secciones o etapas, la garantía se constituirá por cada una de ellas.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 133 B.- La garantía para la ejecución de las obras de urbanización faltantes, deberá otorgarse a favor de la Tesorería Municipal, la cual podrá ser mediante fianza o garantía real.
+
+En el caso de garantía real ésta se constituirá sobre inmuebles propiedad del interesado, debiendo practicarse al efecto por parte del desarrollador un avalúo comercial y autorizado por el Departamento de Catastro Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 133 C.- En aquellos fraccionamientos de urbanización progresiva con obras mínimas de infraestructura que sean realizados por el municipio a través del IMUVI, no se requerirá del otorgamiento de la garantía a que se refiere el artículo anterior.
+
+En el supuesto de que el IMUVI, ejecute el fraccionamiento en asociación con personas físicas o jurídico colectivas de naturaleza mercantil, asociaciones civiles u otro tipo de personas morales, la garantía podrá otorgarse por medio de fideicomiso irrevocable de administración, garantía e inversión o en cualquier otra forma que autorice el Ayuntamiento a propuesta de dicho Instituto, siempre y cuando se observe lo dispuesto por la Ley de Deuda Pública para el Estado y los Municipios.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 134.
 
-Otorgado el permiso de venta, el desarrollador estará obligado a realizar y concluir las obras de urbanización con apego al calendario y avances planteados en su programa de ejecución de no cumplirlo sin causa justificada la Dirección puede solicitar al Ayuntamiento la revocación del Permiso de Venta.
+El permiso de venta deberá ser protocolizado ante Notario Público adscrito a este Partido Judicial de Silao, Gto., a efecto de que las áreas que integran el desarrollo tales como manzanas, lotes y vialidades queden plenamente identificadas. La escritura respectiva se inscribirá en el Registro Público de la Propiedad y del Comercio de esta ciudad. Los gastos que se generen con motivo de dichos actos, serán a cargo del desarrollador.
+
+Tratándose de desarrollos en condominio o de fraccionamientos con edificación, los desarrolladores están obligados a responder frente a sus adquirentes de los desperfectos y vicios ocultos que pudieran sobrevenir en las construcciones, en los términos de la legislación aplicable.
 
 ### CAPÍTULO SEGUNDO. DE LA RECEPCIÓN DE LAS OBRAS DE URBANIZACIÓN Y EQUIPAMIENTO URBANO DE LOS FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO Y OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 135.
 
-La recepción de las obras de urbanización y equipamiento urbano se apegara a lo establecido tanto a la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios como a su Reglamento
+Concluidas las obras de urbanización de los fraccionamientos habitacionales, comerciales e industriales, localizados dentro de la zona urbana, de conformidad con las autorizaciones otorgadas al efecto, el desarrollador deberá solicitar su recepción al Ayuntamiento ante la Dirección. Tratándose de desarrollos en condominio procederá la recepción solamente respecto de las vialidades públicas.
 
-Las instalaciones internas de los desarrollos en condominio, estarán a cargo de la administración de los mismos, de acuerdo con su reglamento interno.
+En el caso de fraccionamientos realizados mediante urbanización progresiva se podrá realizar la recepción de las obras de urbanización conforme se vaya concluyendo cada una de ellas, de acuerdo al convenio celebrado y a la licencia otorgada.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 135 A.- En el caso de desarrollos en condominio y de fraccionamientos, agropecuarios, campestres y turístico, recreativo-deportivos, el mantenimiento y conservación de las obras de urbanización y de las instalaciones destinadas a los servicios públicos, así como el pago de estos servicios, estarán a cargo de los desarrolladores y en su momento de los adquirentes, de acuerdo a su reglamento interno. Esta obligación deberá hacerse constar en los contratos de compraventa respectivos.
+
+En consecuencia, las obras de urbanización internas de este tipo de desarrollos no serán objeto de recepción por parte del Municipio, con excepción de las vías públicas que le fije la Dirección en la autorización de traza. Las obras de urbanización internas deberán cumplir con las especificaciones técnicas que se señalen en la licencia de urbanización correspondiente y serán validadas por parte de las dependencias y entidades públicas para poder entrar en operación, con base a la supervisión que realicen durante el periodo de construcción.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 135 B.- Los ductos e infraestructura necesaria para la conducción de energía eléctrica, alumbrado, agua potable, alcantarillado, ya sea sanitario o pluvial, o cualquier otro servicio, que se alojen al interior de los desarrollos en condominio, debidamente identificadas en los proyectos ejecutivos aprobados por los organismos operadores respectivos serán propiedad del condominio, siendo responsabilidad de los condóminos su operación y mantenimiento preventivo y correctivo en los términos de su Reglamento Interno correspondiente.
+
+Tratándose de las obras de cabecera y el espacio en que se encuentren al interior del desarrollo en condominio, que requiera el Municipio o el organismo operador que corresponda, deberán estar consideradas como propiedad Municipal o del organismo operador respectivo, y por lo tanto no se incluirán dentro de la propiedad condominal, debiendo precisarse la ubicación de estos espacios en la traza del desarrollo, así como en la modificación de ésta en su caso, derivada de los proyectos ejecutivos. De igual forma se precisará en la constitución del condominio o del conjunto condominal ante el Notario Público correspondiente y en el Reglamento Interno de los mismos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 135 C.- Tratándose de fraccionamientos campestres o agropecuarios, solamente podrán ser objeto de recepción por parte del Municipio, las vialidades y obras de urbanización contempladas en el Plan de Ordenamiento Territorial y en los planes y programas de desarrollo urbano, así como las que se ejecuten en las vías de enlace con la zona urbanizada más próxima, previo cumplimiento de las especificaciones técnicas que se señalen en la licencia de urbanización correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 135 D.- Para los efectos de la recepción de las obras de urbanización o equipamiento urbano por parte del Municipio, el desarrollador deberá presentar a la Dirección la totalidad de las actas de entrega recepción de las dependencias o de los organismos operadores diversos a la administración municipal que hayan autorizado los proyectos correspondientes, así como la fianza por vicios ocultos.
+
+Cubiertos los requisitos anteriores, la Dirección solicitará a las dependencias de la administración pública centralizada o paramunicipal que hayan autorizado los proyectos correspondientes para que rindan el dictamen para entrega.
+
+Una vez recibidos la totalidad de las actas y dictámenes a que se refiere este artículo, la Dirección levantará el acta circunstanciada de entrega recepción, a la que se incorporarán las actas de los organismos operadores y los dictámenes de las dependencias.
+
+Efectuado lo anterior, la Dirección aprobará, en su caso, la recepción de las obras de urbanización y equipamiento urbano.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 135 E.- En tanto la Dirección no apruebe la recepción de las obras de urbanización y equipamiento urbano, el desarrollador estará obligado a corregir los desperfectos, reparaciones o reposiciones que procedan conforme a las indicaciones que determinen la Dirección, dependencias y entidades públicas.
+
+Conforme a lo anterior, el desarrollador continuará cubriendo los gastos relativos al mantenimiento y conservación de las obras de urbanización, así como a la prestación de los servicios públicos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 136.
 
-Los desarrolladores, Autoridades, Órganos Auxiliares y Adquirientes t (sic) se regirán por las obligaciones y determinaciones que establecen la Ley de Fraccionamientos para el Estado de Guanajuato y sus municipios y su correspondiente Reglamento: (sic)
+El monto de la garantía para responder por los desperfectos o vicios ocultos de las obras de urbanización a que se refiere el artículo 50 del reglamento de la Ley, será del 10 por ciento del costo total de las obras de urbanización y se otorgará ante la Dirección a favor de la Tesorería Municipal en cualquiera de las modalidades establecidas en el artículo 133 B del presente reglamento.
+
+Por lo que se refiere a las obras de alumbrado público la garantía por las mismas podrá otorgarse en especie en la forma y términos que establezca la Dirección de Servicios Públicos Municipales, sin exceder en este rubro el porcentaje señalado en el presente artículo.
+
+El desarrollador deberá otorgar la garantía a que se refiere este artículo dentro de los quince días hábiles posteriores al dictamen positivo de la recepción de las obras que, en su caso, emita la Dirección.
 
 ## TÍTULO SEXTO. DE LAS INSPECCIONES Y NOTIFICACIONES
 
@@ -1580,3 +1620,19 @@ C. GUILLERMO AGUIRRE VELÁZQUEZ
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. MARIO GALLARDO VELAZQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones administrativas que se opongan al presente reglamento.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Municipal de Vivienda de Silao y la Dirección, en coordinación con las dependencias y entidades públicas de la Administración Pública Municipal, dentro de los 120 días siguientes a la entrada en vigor del presente ordenamiento, establecerán los lineamientos y criterios generales a que deberán sujetarse ,los convenios que se celebren entre el citado organismo y los particulares para la ejecución de fraccionamientos que se realicen bajo el procedimiento constructivo de urbanización progresiva previsto en el artículo 50 del presente reglamento.
