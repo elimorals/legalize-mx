@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2008-05-29"
+last_updated: "2008-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -2379,9 +2379,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y tendrá vigencia hasta el 31 de diciembre de 2007, con excepción de los artículos 22, 23, el segundo párrafo del artículo 31 y 32 Bis de la Ley Orgánica del Ministerio Público del Estado, y los artículos 8°, 9°, 10, 10 bis y 27 de la Ley Orgánica del Poder Judicial del Estado, que tendrán vigencia indefinida en tanto no los modifique o derogue el Decreto pertinente del H. Congreso del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2410,3 +2412,9 @@ P.O. 29 DE MAYO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
