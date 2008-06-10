@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2008-06-03"
+last_updated: "2008-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3745,7 +3745,7 @@ Las atenuantes aquí señaladas, serán de aplicación única y exclusivamente p
 
 ###### ARTÍCULO 374.
 
-SANCIÓN Y FIGURAS TÍPICAS RELACIONADAS CON EL SECUESTRO. Se impondrá de uno a ocho años de prisión y multa, al que en relación con las conductas mencionadas en el artículo 371 y sin que le beneficie ninguna excluyente de incriminación:
+SANCIÓN Y FIGURAS TIPICAS RELACIONADAS CON EL SECUESTRO. Se impondrá de uno a ocho años de prisión y multa, al que en relación con las conductas mencionadas en el artículo 371 y sin que le beneficie ninguna excluyente de incriminación:
 
 I. Conozca los planes o actividades encaminados a la ejecución de un secuestro y no dé aviso oportuno a la autoridad u omita su denuncia, si tiene conocimiento de sus autores o partícipes.
 
@@ -3993,6 +3993,8 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADO
 
 ### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
@@ -4115,8 +4117,6 @@ VI. VEHÍCULO DE TRANSPORTE PÚBLICO DE PERSONAS O COSAS. Se lleve a cabo en un 
 
 VII. DOCUMENTOS PÚBLICOS. El objeto del robo sea un expediente oficial o parte del mismo; un protocolo o documento que forme parte de él; un libro o documento en que el que se asienten actuaciones públicas y que obren en oficinas o archivos públicos; un título que contenga algún derecho u obligación que se haya presentado ante una dependencia pública por cualquier motivo. Si el delito lo comete un servidor público, funcionario o empleado de la oficina donde se encuentra el expediente o documento, se le impondrá, además, destitución e inhabilitación definitiva para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE JUNIO DE 2004)</small>
-
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2004)</small>
 
 VIII. ROBO EN ESTABLECIMIENTO DESTINADO AL COMERCIO, INDUSTRIA, ALMACEN O BODEGA EN HORAS DE SERVICIO AL PÚBLICO. Se cometa el robo de mercancía en cualquier establecimiento destinado al comercio de venta o renta de mercancía al público, industria, almacén o bodega durante horas de servicio, si acaso el valor de lo robado excede de cincuenta días de salario mínimo.
@@ -4124,6 +4124,10 @@ VIII. ROBO EN ESTABLECIMIENTO DESTINADO AL COMERCIO, INDUSTRIA, ALMACEN O BODEGA
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2004)</small>
 
 IX. ROBO DE AUTOPARTES. Se cometa el robo de pieza o conjunto de piezas que conforman el armado de un vehículo o de objetos integrados a él.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+X. ROBO DE COBRE Y OTROS METALES. Comete el delito, quien se apodere o sustraiga ilegalmente, cobre o algún otro metal utilizado en instalaciones eléctricas o hidráulicas, partes de medidores de agua, luz, gas, y/o partes de equipamiento urbano, industrial y agrícola.
 
 ###### ARTÍCULO 415.
 
@@ -4181,7 +4185,7 @@ Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marca
 
 ###### ARTÍCULO 419.
 
-SANCIONES Y FIGURAS TÍPICAS DE POSESIÓN O TRANSPORTACIÓN DE COSAS ROBADAS O GANADO OBJETO DE ABIGEATO. Se aplicará de uno a cinco años de prisión y multa a quien incurra en cualquiera de los supuestos siguientes:
+SANCIONES Y FIGURAS TÍPICAS DE POSESIÓN, TRANSPORTACIÓN Y COMERCIALlZACIÓN DE COSAS ROBADAS O GANADO OBJETO DE ABIGEATO. Se aplicará de uno a cinco años de prisión y multa a quien incurra en cualquiera de los supuestos siguientes:
 
 I. TRANSPORTACIÓN DE COSA O GANADO ROBADO. Transporte una cosa robada con modalidad agravante o especialmente agravante o de una o más cabezas de ganado objeto de abigeato.
 
@@ -4189,9 +4193,13 @@ II. POSESIÓN DE COSA O GANADO ROBADO EN BODEGA O LUGAR CERRADO. Se posea en bod
 
 III. POSESIÓN DE COSA O GANADO ROBADO EN LUGAR DESTINADO PARA SU MODIFICACIÓN, VENTA O TRANSMISIÓN. Se posea en lugar destinado para su modificación, venta o transmisión, en partes o en su integridad, una cosa robada con modalidad agravante o especialmente agravante; o una o más cabezas de ganado objeto de abigeato o de sus vestigios identificables.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-Si quién posee en esos lugares o transporta es autor o partícipe en el robo calificado con modalidad agravante o especialmente agravante; o en el abigeato; sólo se le aplicarán las sanciones que le correspondan por esos delitos, pero la de prisión se podrá aumentar hasta un año más.
+IV. COMERCIALlZACION DE COSA O GANADO ROBADO. Se venda, enajene de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del robo con modalidad agravante o especialmente agravante o una o más cabezas de ganado objeto de abigeato o de sus vestigios identificables, a sabiendas de la procedencia ilícita de éstos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Si quién posee en esos lugares, transporta o comercializa es autor o partícipe en el robo calificado con modalidad agravante o especialmente agravante; o en el abigeato; sólo se le aplicarán las sanciones que le correspondan por esos delitos, pero la de prisión se podrá aumentar hasta un año más.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
@@ -4604,5 +4612,11 @@ CUARTO. Los bienes que se encuentren a disposición del Ministerio Público y la
 P.O. 3 DE JUNIO DE 2008.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
