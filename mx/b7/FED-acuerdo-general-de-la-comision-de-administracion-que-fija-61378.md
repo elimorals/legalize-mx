@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-que-fija-61378
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-08-25"
-last_updated: "2004-08-25"
+last_updated: "2008-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2004-06-22"
 ---
 # ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION QUE FIJA LOS LINEAMIENTOS PARA LA DESINCORPORACION DE TODA CLASE DE BIENES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-ACUERDO GENERAL No. 121/S85 DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION QUE FIJA LOS LINEAMIENTOS PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION QUE FIJA LOS LINEAMIENTOS PARA LA DESINCORPORACION DE TODA CLASE DE BIENES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2008.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 25 de agosto de 2004.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Electoral del Poder Judicial de la Federación.- Secretaría Administrativa.
 
-ACUERDO GENERAL No. 121/S85 DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION QUE FIJA LOS LINEAMIENTOS PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION QUE FIJA LOS LINEAMIENTOS PARA LA DESINCORPORACION DE TODA CLASE DE BIENES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION.
 
 CONSIDERANDO
 
@@ -37,15 +39,19 @@ SEGUNDO. En ejercicio de las facultades de la fracción XXVI del artículo 209 d
 
 TERCERO. Que con el objeto de actualizar la normatividad señalada en el considerando anterior y adecuarla a la transparencia y ágil desincorporación de bienes muebles no útiles o improductivos propiedad del Tribunal Electoral del Poder Judicial de la Federación, la Comisión de Administración expide el siguiente:
 
-ACUERDO QUE FIJA LOS LINEAMIENTOS PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION QUE FIJA LOS LINEAMIENTOS PARA LA DESINCORPORACION DE TODA CLASE DE BIENES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
 ## TITULO UNICO. DESINCORPORACION DE BIENES
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 1.
 
-OBJETO. El presente acuerdo general tiene por objeto establecer las reglas de carácter general que deben observarse para la desincorporación de los bienes muebles propiedad del Tribunal Electoral del Poder Judicial de la Federación.
+OBJETO. El presente acuerdo general tiene por objeto establecer las reglas de carácter general que deben observarse para la desincorporación de los bienes propiedad del Tribunal Electoral del Poder Judicial de la Federación.
 
 ###### Artículo 2.
 
@@ -63,7 +69,9 @@ V. Finanzas: La Coordinación Financiera del Tribunal Electoral del Poder Judici
 
 VI. Contraloría: La Contraloría Interna del Tribunal Electoral del Poder Judicial de la Federación;
 
-VII. Comité: El Comité de Desincorporación de Bienes Muebles Improductivos del Tribunal Electoral del Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+VII. Comité: El Comité de Desincorporación de Bienes del Tribunal Electoral del Poder Judicial de la Federación;
 
 VIII. Recursos Materiales: La Dirección General de Recursos Materiales del Tribunal Electoral del Poder Judicial de la Federación;
 
@@ -76,6 +84,10 @@ XI. Salario Mínimo: El salario mínimo general diario vigente para el Distrito 
 XII. Bienes: Los bienes muebles, instrumentales y de consumo de dominio privado de la Federación, que figuren en los inventarios del Tribunal Electoral.
 
 Se ubican también dentro de esta definición los bienes muebles que por su naturaleza, en los términos del artículo 751 del Código Civil Federal, se hayan considerado como inmuebles y que hubieren recobrado su calidad de muebles por las razones que en el mismo precepto se establecen;
+
+> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+XII bis. Bienes inmuebles: Los enunciados en el artículo 750 del Código Civil Federal, que figuren en los inventarios del Tribunal Electoral;
 
 XIII. Bienes instrumentales: Los considerados como implementos o medios para el desarrollo de las actividades que realizan las áreas que conforman el Tribunal Electoral, siendo susceptibles de la asignación de un número de inventario dada su naturaleza y finalidad en el servicio;
 
@@ -105,19 +117,29 @@ II. Cuando los bienes muebles por su estado físico, derivado de accidentes, det
 
 III. También deberán desincorporarse y por ende, dar de baja aquellos bienes muebles que hayan sido robados, extraviados o dañados por siniestros, accidentes o deterioro acelerado.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 4.
 
-REASIGNACION, REHABILITACION O REAPROVECHAMIENTO. La reasignación, rehabilitación o reaprovechamiento de los bienes corresponderá a Recursos Materiales, a la Dirección General de Servicios Generales y a la Unidad de Sistemas, en el ámbito de sus atribuciones.
+REASIGNACION, REHABILITACION O REAPROVECHAMIENTO. La reasignación, rehabilitación o reaprovechamiento de los bienes muebles corresponderá a Recursos Materiales, a la Dirección General de Mantenimiento y Servicios Generales y a la Dirección General de la Unidad de Sistemas, en el ámbito de sus atribuciones.
 
-Cuando el bien no resulte funcional para el servicio al cual se le destinó, se determine que se trata de bienes de nulo movimiento, pero por su estado de conservación se encuentre en condiciones de uso o consumo, se verificará los requerimientos de otras áreas usuarias para su posible aprovechamiento.
+Cuando el bien mueble no resulte funcional para el servicio al cual se le destinó, se determine que se trata de bienes de nulo movimiento, pero por su estado de conservación se encuentre en condiciones de uso o consumo, se verificará los requerimientos de otras áreas usuarias para su posible aprovechamiento.
 
-Asimismo, cuando el bien no resulte útil por encontrarse deteriorado o por ser obsoleto, deberá considerarse la posibilidad de su rehabilitación o modernización, de ser éstas posibles, costeables y convenientes por lo que deberán de reasignarse, desincorporarse o reaprovecharse en un plazo de 10 días hábiles.
+Asimismo, cuando el bien mueble no resulte útil por encontrarse deteriorado o por ser obsoleto, deberá considerarse la posibilidad de su rehabilitación o modernización, de ser éstas posibles, costeables y convenientes por lo que deberán de reasignarse, desincorporarse o reaprovecharse en un plazo de 10 días hábiles.
 
-### CAPITULO II. DEL COMITE DE DESINCORPORACION DE BIENES MUEBLES IMPRODUCTIVOS
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+Artículo 4 bis. Se consideran inmuebles sin utilidad institucional aquellos que por sus características o condiciones físicas, funcionalidad, imagen institucional, ubicación, seguridad estructural, restricciones de uso, mantenimiento o conservación, no son susceptibles de ser aprovechados razonable y suficiente para satisfacer las necesidades de las áreas jurisdiccionales, de apoyo técnico o administrativas del Tribunal Electoral, los cuales estarán sujetos a los lineamientos de desincorporación y enajenación establecidos en la normatividad aplicable del Tribunal Electoral.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+### CAPITULO II. DEL COMITE DE DESINCORPORACION DE BIENES
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 5.
 
-DE SU CREACION. A fin de contar con un cuerpo multidisciplinario dedicado específicamente a la enajenación de bienes que requiera realizar el Tribunal Electoral, se establece con carácter de permanente el Comité de Desincorporación de Bienes Muebles Improductivos, al que se le otorgan las atribuciones precisadas en el presente acuerdo general, sin perjuicio de que la Comisión las ejerza de manera directa en cualquier momento.
+DE SU CREACION. A fin de contar con un cuerpo multidisciplinario dedicado específicamente a la enajenación de bienes que requiera realizar el Tribunal Electoral, se establece con carácter de permanente el Comité de Desincorporación de Bienes del Tribunal Electoral del Poder Judicial de la Federación, al que se le otorgan las atribuciones precisadas en el presente acuerdo general, sin perjuicio de que la Comisión las ejerza de manera directa en cualquier momento.
 
 ###### Artículo 6.
 
@@ -125,7 +147,9 @@ DE SU INTEGRACION. El Comité estará integrado en los siguientes términos:
 
 Presidente: El Secretario Administrativo.
 
-Vocales: El Coordinador Financiero, y El Titular de la Asesoría Jurídica de la Secretaría Administrativa.
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+Vocales: El Coordinador Financiero y el Coordinador de Asuntos Jurídicos.
 
 Secretario: El Coordinador Administrativo, que auxiliará al Comité en lo administrativo.
 
@@ -137,9 +161,15 @@ Sólo el Presidente y los Vocales tendrán derecho a voz y voto durante las sesi
 
 El Contralor Interno, los Asesores y el Secretario, tendrán únicamente derecho a voz.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 7.
 
-ATRIBUCIONES DEL COMITE. El Comité tendrá las siguientes atribuciones:
+El Comité tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+A. En materia de bienes muebles:
 
 I. Autorizar las solicitudes de desincorporación de bienes y su destino final, presentadas a su consideración;
 
@@ -156,6 +186,18 @@ VI. Dictaminar si procede o no la celebración de licitaciones públicas o invit
 VII. Informar a la conclusión del procedimiento de desincorporación, a la Comisión, los resultados obtenidos, y semestralmente de las actividades realizadas; y
 
 VIII. Declarar desiertas las licitaciones públicas y las invitaciones restringidas a cuando menos tres personas, en los casos que señala el presente acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
+B. En materia de bienes inmuebles:
+
+I. Valorar las propuestas presentadas a su consideración para la desincorporación de bienes inmuebles patrimonio del Tribunal Electoral;
+
+II. Revisar y presentar a la Comisión, las solicitudes de desincorporación de bienes inmuebles, así como las propuestas de enajenación para su análisis y, en su caso, aprobación;
+
+III. Dar inicio y seguimiento a los procedimientos para la enajenación de los inmuebles desincorporados del patrimonio del Tribunal Electoral; y
+
+IV. Establecer criterios para que el Tribunal Electoral obtenga las mejores condiciones en los procedimientos de desincorporación de bienes inmuebles que lleve a cabo.
 
 ###### Artículo 8.
 
@@ -257,9 +299,11 @@ VII. Invariablemente deberá incluirse en el orden del día un apartado correspo
 
 ### CAPITULO III. PROCEDIMIENTO DE DESINCORPORACION
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 13.
 
-ORGANO FACULTADO PARA AUTORIZAR LA DESINCORPORACION. El Comité es el único órgano facultado para autorizar la desincorporación de bienes muebles improductivos propiedad del Tribunal Electoral.
+ORGANO FACULTADO PARA AUTORIZAR LA DESINCORPORACION. El Comité es el único órgano facultado para autorizar la desincorporación de bienes muebles improductivos propiedad del Tribunal Electoral. Por lo que hace a la participación del Comité en el procedimiento de desincorporación de bienes inmuebles propiedad del Tribunal Electoral, no serán aplicables los artículos comprendidos en los capítulos siguientes, sino las reglas contenidas en los Lineamientos que al efecto expida la Comisión.
 
 ###### Artículo 14.
 
@@ -586,3 +630,13 @@ TERCERO. Se abrogan, las disposiciones de las Normas y Procedimientos Generales 
 CUARTO. El Comité, emitirá los acuerdos que normen los procedimientos internos materia de estos lineamientos, que deban ajustarse; en caso de ausencia de los titulares de las áreas que integran el Comité serán sustituidos por los Encargados del Despacho del área respectiva.
 
 EL LICENCIADO ANTONIO TOMAS MARTINEZ Y BLANCO, SECRETARIO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, CERTIFICA: Que este Acuerdo General número 121/S85, que fija los lineamientos para la desincorporación de toda clase de bienes muebles del Tribunal Electoral del Poder Judicial de la Federación, fue aprobado por el Pleno de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en sesión del veintidós de junio de dos mil cuatro, por unanimidad de votos de los señores Comisionados: Presidente Magistrado José Fernando Ojesto Martínez Porcayo, Magistrada Alfonsina Berta Navarro Hidalgo, Magistrado Adolfo O. Aragón Mendía, Lic. Miguel A. Quirós Pérez, Lic. Sergio Armando Valls Hernández.- México, Distrito Federal, a veintidós de junio de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 10 DE JUNIO DE 2008.
+
+PRIMERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan en lo conducente todas las disposiciones. Acuerdos, lineamientos y manuales de organización y procedimientos que se opongan al presente Acuerdo.
