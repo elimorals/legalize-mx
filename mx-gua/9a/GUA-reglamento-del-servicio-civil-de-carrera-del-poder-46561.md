@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-civil-de-carrera-del-poder-46561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-27"
-last_updated: "2006-10-31"
+last_updated: "2008-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de septiembre del 2005.
 
@@ -83,17 +83,23 @@ X.- Servidor Público de Carrera: Persona física integrante del Servicio Civil 
 
 XI.- Sujetos Obligados: Dependencias y entidades de la Administración Pública Estatal; y
 
-XII.- Unidad: Unidad del Servicio Civil de Carrera.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XII.- Dirección del Servicio: Dirección del Servicio Civil de Carrera.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 6.
 
-Los puestos que comprenderá el Servicio serán los ubicados en los niveles del 6 al 12 del Catálogo.
+Los puestos que comprenderá el Servicio serán los ubicados en los niveles del 5 al 11 del Catálogo.
 
 ###### Artículo 7.
 
 Quedan excluidos del Servicio:
 
-I.- Los servidores públicos de base, comprendidos en los niveles del 1 al 5 del Catálogo; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+I.- Los servidores públicos de base, comprendidos en los niveles del 1 al 4 del Catálogo; y
 
 II.- Los servidores públicos de libre designación.
 
@@ -105,25 +111,41 @@ El personal del magisterio, del área médica y paramédica, así como los servi
 
 Quienes aspiren a ingresar al Servicio, lo harán a través de un concurso de oposición para la selección, en los casos y bajo los procedimientos previstos por este Reglamento.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 10.
 
-Son servidores de libre designación aquellos que ocupen puestos a partir del nivel 13 del Catálogo dentro de la estructura gubernamental, así como aquellos que estando dentro de los niveles 6 al 12, deban ser considerados de libre designación. Las dependencias y entidades de la Administración Pública Estatal en la elaboración de las propuestas de los puestos de libre designación deberán tomar en cuenta los siguientes criterios:
+Son servidores de libre designación aquellos que ocupen puestos a partir del nivel 12 del Catálogo dentro de la estructura gubernamental, así como aquellos que estando dentro de los niveles 5 al 11, deban ser considerados de libre designación. Las dependencias y entidades de la Administración Pública Estatal en la elaboración de las propuestas de los puestos de libre designación deberán tomar en cuenta los siguientes criterios:
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2006)</small>
 
 I. Que las funciones sean de vinculación o asesoría a los servidores públicos que funjan como titulares de dependencias o entidades en la Administración Pública del Estado;
 
-II. Que las funciones sean las de apoyo o atención a los servidores públicos que así lo requieran y ocupen puestos a partir del nivel 12 del Catálogo dentro de la estructura gubernamental, tales como: labores secretariales, de asistencia particular, de conducción de vehículos y de administración de agenda, entre otros;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+II. Que las funciones sean las de apoyo o atención a los servidores públicos que así lo requieran y ocupen puestos a partir del nivel 11 del Catálogo dentro de la estructura gubernamental, tales como: labores secretariales, de asistencia particular, de conducción de vehículos y de administración de agenda, entre otros;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2006)</small>
 
 III. Que las funciones inherentes al puesto exijan que el servidor público que lo ocupe garantice la confianza, responsabilidad y celeridad que requiere la adopción de medidas directivas, de coordinación, de fiscalización y control, gestoría o asesoría en materia de política interior, seguridad pública, procuración de justicia, finanzas públicas, planeación, desarrollo económico, medio ambiente, salud, educación, relaciones con los poderes legislativo y judicial, municipios, entidades federativas, federación, partidos y agrupaciones políticas y organizaciones civiles o sociales;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 IV. Que las funciones se encuentren vinculadas al análisis y despacho de asuntos relacionados con información confidencial o reservada en términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2006)</small>
 
 V. Que las funciones se encuentren relacionadas con tareas de seguridad pública, servicios médicos, protección civil o servicio al público; y que deban ser ocupados de manera inmediata a fin de estar en condiciones de prestar el servicio en forma oportuna, competitiva y eficaz; y
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 VI. Que las funciones sean análogas a las señaladas en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 Los servidores públicos de libre designación sólo estarán sujetos a la evaluación al desempeño en los términos de la normatividad de la materia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
 
 Las dependencias y entidades de la Administración Pública del Estado someterán a la autorización de la Comisión los puestos que deban ser considerados de libre designación.
 
@@ -155,7 +177,9 @@ I.- Someterse a las evaluaciones establecidas para su permanencia y desarrollo e
 
 II.- Aportar los elementos necesarios para la evaluación del desempeño;
 
-III.- Capacitarse para el mejor desempeño de sus funciones, asistiendo a los eventos impartidos por la Unidad y a los que requiera el servidor público para su desarrollo de acuerdo a lo establecido por el Reglamento;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+III.- Capacitarse para el mejor desempeño de sus funciones, asistiendo a los eventos impartidos por la Dirección del Servicio y a los que requiera el servidor público para su desarrollo de acuerdo a lo establecido por el Reglamento;
 
 IV.- Proporcionar el apoyo e información necesarios al servidor público que deba suplirles en sus ausencias; y
 
@@ -171,7 +195,9 @@ Son autoridades en materia del Servicio, las siguientes:
 
 I.- La Comisión Intersecretarial del Servicio Civil de Carrera;
 
-II.- La Unidad del Servicio Civil de Carrera;
+> <small>(REFORMADA, P.O 10 DE JUNIO DE 2008)</small>
+
+II.- La Dirección del Servicio;
 
 III.- Los titulares de las áreas de recursos humanos de las dependencias de la Administración Pública Estatal; y
 
@@ -193,7 +219,9 @@ II.- Un Vicepresidente, que será el Secretario de la Gestión Pública;
 
 III.- Dos vocales, que serán el Subsecretario de Administración de la Secretaría de Finanzas y Administración y el Subsecretario de Impulso a la Administración Pública de la Secretaría de la Gestión Pública; y
 
-IV.- Un Secretario Técnico, que será el titular de la Unidad o un representante de la misma, designado por el Subsecretario de Administración de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+IV.- Un Secretario Técnico, que será el titular de la Dirección del Servicio o un representante de la misma, designado por el Subsecretario de Administración de la Secretaría de Finanzas y Administración.
 
 Los cargos de los integrantes de la Comisión serán honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño.
 
@@ -205,15 +233,21 @@ I.- Emitir los programas generales del Servicio;
 
 II.- Autorizar la operación de los subsistemas que componen el Servicio;
 
-III.- Autorizar los lineamientos generales, manuales de organización y de procedimientos, Catálogo, guías técnicas, convenios y demás actos jurídicos necesarios para la operación del Servicio, de conformidad con lo establecido en el presente Reglamento;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-IV.- Aprobar el anteproyecto de presupuesto de la Unidad;
+III.- Autorizar los lineamientos generales, manuales de organización y de procedimientos, convenios y demás actos jurídicos necesarios para la operación del Servicio, de conformidad con lo establecido en el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+IV.- Aprobar el anteproyecto de presupuesto de la Dirección del Servicio;
 
 V.- Proponer al Gobernador del Estado las reformas o adiciones al presente Reglamento, que se consideren necesarias;
 
 VI.- Interpretar para efectos administrativos el presente Reglamento;
 
-VII.- Aprobar el Programa Anual de Trabajo de la Unidad;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+VII.- Aprobar el Programa Anual de Trabajo de la Dirección del Servicio;
 
 VIII.- Aprobar la clasificación de puestos que, incorporados al Servicio, por la naturaleza de las funciones a realizar, deban ser de libre designación a propuesta de los titulares de los Sujetos Obligados;
 
@@ -285,15 +319,19 @@ Cada integrante titular de la Comisión, con excepción del Presidente, podrá d
 
 Para el mejor desempeño de sus funciones, la Comisión se podrá asesorar de personas, instituciones u organismos especializados, de reconocido prestigio y amplia experiencia en materia de Servicio Civil de Carrera o en Administración Pública.
 
-#### SECCIÓN TERCERA. DE LA UNIDAD DEL SERVICIO CIVIL DE CARRERA
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JUNIO DE 2008)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DEL SERVICIO CIVIL DE CARRERA
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 24.
 
-La Unidad estará a cargo de un Director General, contará con las coordinaciones y el personal que se requiera para la operación de los subsistemas del Servicio y permita el presupuesto y estará adscrita a la Subsecretaría de Administración de la Secretaría de Finanzas y Administración.
+La Dirección del Servicio estará a cargo de un Director, contará con las coordinaciones y el personal que se requiera para la operación de los subsistemas del Servicio y permita su presupuesto. Estará adscrita a la Dirección General de Recursos Humanos de la Subsecretaría de Administración de la Secretaría de Finanzas y Administración.
 
-La Unidad tendrá las facultades previstas en el presente ordenamiento, así como las que en su caso, lleguen a establecerse en el Reglamento Interior de la Secretaría de Finanzas y Administración, conforme a las cuales realizará la operación del Servicio, coordinando en la materia a las áreas de recursos humanos o equivalentes de los Sujetos Obligados.
+La Dirección del Servicio tendrá las facultades previstas en el presente ordenamiento, así como las que, en su caso, lleguen a establecerse en el Reglamento Interior de la Secretaría de Finanzas y Administración, conforme a las cuales realizará la operación del Servicio, coordinando en la materia a las áreas de recursos humanos o equivalentes de los sujetos obligados.
 
-La Unidad otorgará asesoría y asistencia a las áreas de recursos humanos o su equivalente de las entidades, para la aplicación de las normas y realización de los procedimientos que regula el Servicio, cuando lo soliciten.
+La Dirección del Servicio otorgará asesoría y asistencia a las áreas de recursos humanos o su equivalente de las entidades, para la aplicación de las normas y realización de los procedimientos que regula el Servicio, cuando lo soliciten.
 
 ###### Artículo 25.
 
@@ -301,11 +339,15 @@ La Unidad, tendrá las siguientes facultades:
 
 I.- Ejecutar los programas generales del Servicio;
 
-II.- Expedir los lineamientos generales, guías técnicas, manuales de organización y de procedimientos que autorice la Comisión y se requieran para el cumplimiento de su objeto;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+II.- Expedir los lineamientos generales, manuales de organización y de procedimientos que autorice la Comisión y que se requieran para el cumplimiento de su objeto;
 
 III.- Dar seguimiento a la implantación y operación del Servicio, dictando las medidas que se requieran para su buen funcionamiento;
 
-IV.- Analizar y verificar la asignación de puestos de libre designación para cada Sujeto Obligado en los supuestos previstos en la guía técnica respectiva y en el Reglamento;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+IV.- Analizar y verificar la asignación de puestos de libre designación para cada Sujeto Obligado en los supuestos previstos en los Lineamientos respectivos y en el Reglamento;
 
 V.- Planear, organizar y dirigir la operación del Servicio, conforme a lo establecido por el presente ordenamiento, procurando la utilización de la tecnología administrativa e informática adecuada para el caso;
 
@@ -313,7 +355,9 @@ VI.- Administrar la base de datos que permita llevar los registros necesarios de
 
 VII.- Verificar el cumplimiento del presente ordenamiento y proponer las medidas correctivas necesarias;
 
-VIII.- Elaborar y someter a la aprobación de la Comisión el Anteproyecto de Presupuesto de la Unidad;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+VIII.- Elaborar y someter a la aprobación de la Comisión el Anteproyecto del Presupuesto de la Dirección del Servicio;
 
 IX.- Implementar mecanismos que permitan la promoción y respeto a los valores del Servicio;
 
@@ -331,7 +375,9 @@ I.- Realizar al interior de cada Sujeto Obligado, los procesos del Servicio, con
 
 II.- Elaborar y emitir las convocatorias de las plazas a concurso;
 
-III.- Proponer a la Comisión, por conducto de la Unidad, las políticas y programas adicionales de ingreso, desarrollo, capacitación y evaluación del personal, así como las propuestas de mejora al Servicio y al presente Reglamento;
+> <small>(REFORMADA, P.O 10 DE JUNIO DE 2008)</small>
+
+III.- Proponer a la Comisión, por conducto de la Dirección del Servicio, las políticas y programas adicionales de ingreso, desarrollo, capacitación y evaluación del personal, así como las propuestas de mejora al Servicio y al presente Reglamento;
 
 IV.- Elaborar los perfiles y descripciones correspondientes a los puestos que formen parte del Servicio;
 
@@ -345,9 +391,13 @@ VII.- Las demás que determinen este Reglamento y las disposiciones que resulten
 
 Tratándose de las Entidades, su órgano de gobierno determinará la unidad administrativa encargada de operar los subsistemas del Servicio.
 
-Dicha unidad administrativa deberá seguir los lineamientos generales que para tal efecto establezcan las autoridades del Servicio y se coordinará con la Unidad para la administración de los subsistemas del Servicio.
+> <small>(REFORMADO, P.O. 10 DE JUNIO 2008)</small>
 
-El órgano de gobierno de las Entidades podrá acordar, previa autorización de la Comisión, que la operación de los subsistemas del Servicio se realice por la Unidad.
+Dicha unidad administrativa deberá seguir los lineamientos generales que para tal efecto establezcan las autoridades del Servicio y se coordinará con la Dirección del Servicio para la administración de los subsistemas del Servicio.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO 2008)</small>
+
+El órgano de gobierno de las Entidades podrá acordar, previa autorización de la Comisión, que la operación de los subsistemas se realice por la Dirección del Servicio.
 
 ### CAPÍTULO CUARTO. SUBSISTEMAS DEL SERVICIO CIVIL DE CARRERA
 
@@ -375,7 +425,9 @@ Para obtener el nombramiento provisional como Servidor Público de Carrera se re
 
 I.- No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
-II.- Haber sido seleccionado con base al procedimiento previsto en este Reglamento y en la guía técnica del subsistema; y
+> <small>(REFORMADA, P.O 10 DE JUNIO DE 2008)</small>
+
+II.- Haber sido seleccionado con base al procedimiento previsto en este Reglamento y en los lineamientos generales del subsistema; y
 
 III.- Satisfacer los requisitos de ingreso.
 
@@ -405,9 +457,11 @@ Se entiende por reclutamiento el proceso mediante el cual los Sujetos Obligados 
 
 Los interesados en ocupar las plazas vacantes incluidas en el Servicio, deberán responder a las características o requisitos que para éstas se establezcan en las descripciones de puesto y en el Catálogo autorizado por la Comisión, y se difundirán a través de convocatoria pública y abierta.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 35.
 
-Las convocatorias para ocupar las plazas vacantes de los puestos adscritos al Servicio, serán publicadas por los responsables de recursos humanos o del Subsistema de Ingreso en los medios electrónicos con que cuente el Gobierno del Estado, en los tableros de avisos y lugares de mayor afluencia de las dependencias y entidades, y de acuerdo a lo dispuesto por los procedimientos descritos en las guías técnicas y manuales aprobados por la Comisión.
+Las convocatorias para ocupar las plazas vacantes de los puestos adscritos al Servicio, serán publicadas por los responsables de recursos humanos o del Subsistema de Ingreso en los medios electrónicos con que cuente el Gobierno del Estado, en los tableros de avisos y lugares de mayor afluencia de las dependencias y entidades, y de acuerdo a lo dispuesto por los procedimientos descritos en los lineamientos generales aprobados por la Comisión.
 
 ###### Artículo 36.
 
@@ -441,11 +495,15 @@ La selección del personal se realizará a través de concurso de oposición.
 
 Este procedimiento consiste en la comprobación y calificación de los méritos, así como en la celebración de una o más pruebas para determinar los conocimientos, habilidades y rasgos de personalidad de los aspirantes.
 
-Dichas pruebas serán las establecidas por las guías técnicas del Servicio y las que sobre conocimientos y habilidades proponga el área a que se encuentre adscrita la plaza a concursar.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Dichas pruebas serán las establecidas por los lineamientos generales del Servicio y las que sobre conocimientos y habilidades proponga el área a que se encuentre adscrita la plaza a concursar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 40.
 
-Corresponde a las áreas de recursos humanos o su equivalente en las entidades, la coordinación, aplicación y evaluación de las pruebas de cada concurso de oposición que se realice. En el caso de evaluaciones técnicas el responsable de la evaluación será el área solicitante.
+Corresponde a las áreas de recursos humanos o su equivalente en las entidades, la coordinación, aplicación y evaluación de las pruebas de cada concurso de oposición que se realice. En el caso de evaluaciones técnicas el responsable de la evaluación será el área solicitante o la institución educativa que al efecto se designe por la dependencia o entidad respectiva.
 
 El fallo del concurso corresponde al Comité de Ingreso, conforme al mayor puntaje obtenido en el concurso y será definitivo.
 
@@ -453,13 +511,17 @@ El fallo del concurso corresponde al Comité de Ingreso, conforme al mayor punta
 
 Durante el desarrollo de los concursos para cubrir las plazas vacantes, se dará preferencia al candidato que se encuentre laborando en el Sujeto Obligado de que se trate, al suscitarse igualdad de circunstancias o empate técnico de acuerdo a los manuales respectivos. Para el caso de suscitarse la igualdad de circunstancias o el empate técnico entre candidatos internos o externos, el ganador de la plaza se definirá de acuerdo a la puntuación que se obtenga en la realización de la entrevista correspondiente al proceso de concurso de oposición.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 42.
 
-La integración del Servidor Público de Carrera de nuevo ingreso se entenderá como el proceso que de manera gradual, le proporcione los elementos necesarios para su incorporación, en relación con las funciones del puesto a desempeñar, de acuerdo con las guías técnicas.
+La integración del Servidor Público de Carrera de nuevo ingreso se entenderá como el proceso que de manera gradual, le proporcione los elementos necesarios para su incorporación, en relación con las funciones del puesto a desempeñar, de acuerdo con los lineamientos generales del Servicio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 43.
 
-En todos los casos, en la incorporación al Servicio deberá llevarse a cabo un proceso de integración, consistente en una etapa de inducción y tutoría que reunirá los requisitos, características y modalidades que se establezcan en los manuales y guías técnicas y tendrá una duración no menor a tres ni mayor a seis meses. Durante dicho plazo se otorgará al servidor público un nombramiento provisional.
+En todos los casos, en la incorporación al Servicio deberá llevarse a cabo un proceso de integración, consistente en una etapa de inducción y tutoría que reunirá los requisitos, características y modalidades que se establezcan en los lineamientos generales y tendrá una duración no menor a tres ni mayor a seis meses. Durante dicho plazo se otorgará al servidor público un nombramiento provisional.
 
 El proceso de integración al puesto a desempeñar, se llevará a cabo entre el servidor público de nuevo ingreso, el jefe inmediato y el área de recursos humanos o su equivalente en las entidades.
 
@@ -469,7 +531,9 @@ La integración del Servidor Público de Carrera se compone al menos por las sig
 
 I.- Toma de posesión del puesto;
 
-II.- Entrega y exposición de un documento de bienvenida a la Administración Pública Estatal, que contenga lo especificado por los manuales y guías técnicas autorizadas por la Comisión, así como del manual de procedimientos del área a la cual estará adscrita el Servidor Público de Carrera de nuevo ingreso; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+II.- Entrega y exposición de un documento de bienvenida a la Administración Pública Estatal, que contenga lo especificado por los lineamientos generales autorizados por la Comisión, así como del manual de procedimientos del área a la cual estará adscrita el Servidor Público de Carrera de nuevo ingreso; y
 
 III.- Evaluación del nivel de integración al puesto y al servicio público.
 
@@ -503,13 +567,17 @@ III.- Acreditar a los Servidores Públicos de Carrera en las capacidades profesi
 
 La profesionalización proporcionará a los Servidores Públicos de Carrera, los elementos y apoyos necesarios que propicien el desarrollo de sus habilidades y la adquisición de nuevos conocimientos que hagan de su trabajo una función eficiente, en beneficio de la Administración Pública y de la sociedad en general, en los términos de este Reglamento.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 49.
 
-La organización y promoción de las acciones de profesionalización estará a cargo de las áreas de recursos humanos o su equivalente en las entidades, en coordinación con la Unidad y en estricto apego a lo establecido en este Reglamento y en las guías técnicas y manuales que para tal efecto expida la Comisión.
+La organización y promoción de las acciones de profesionalización estará a cargo de las áreas de recursos humanos o su equivalente en las entidades, en coordinación con la Dirección del Servicio y en estricto apego a lo establecido en este Reglamento y en los lineamientos generales y manuales que para tal efecto apruebe la Comisión.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 50.
 
-Los Servidores Públicos de Carrera deberán cumplir con los eventos de profesionalización acordados por la Unidad y las áreas de recursos humanos o su equivalente en las entidades.
+Los Servidores Públicos de Carrera deberán cumplir con los eventos de profesionalización acordados por la Dirección del Servicio y las áreas de recursos humanos o su equivalente en las entidades.
 
 ###### Artículo 51.
 
@@ -517,37 +585,49 @@ Cuando el resultado de la evaluación de las capacidades profesionales generales
 
 De no acreditarse las capacidades mencionadas en el párrafo que antecede, la Comisión procederá a determinar la separación del cargo del Servidor Público de Carrera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 52.
 
-Con base en la detección de las necesidades de cada dependencia o entidad, la Unidad y las áreas de recursos humanos o su equivalente, establecerán en forma conjunta los programas de capacitación para el puesto y el desarrollo administrativo y calidad en el desempeño de sus funciones, para los Servidores Públicos de Carrera.
+Con base en la detección de las necesidades de cada dependencia o entidad, la Dirección del Servicio y las áreas de recursos humanos o su equivalente, establecerán en forma conjunta los programas de capacitación para el puesto y el desarrollo administrativo y calidad en el desempeño de sus funciones, para los Servidores Públicos de Carrera.
 
 Dichos programas deberán contribuir a la mejora en la calidad de los bienes o servicios que se presten y en general, de las funciones que se realicen.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 53.
 
-La Unidad y las áreas de recursos humanos o su equivalente en las entidades elaborarán los planes y programas para satisfacer los niveles de capacidades profesionales, de visión de gobierno y técnicas, pertinentes a cada plaza, de conformidad con la descripción del puesto respectivo, así como los resultados del diagnóstico de necesidades de profesionalización correspondiente.
+La Dirección del Servicio y las áreas de recursos humanos o su equivalente en las entidades elaborarán los planes y programas para satisfacer los niveles de capacidades profesionales, de visión de gobierno y técnicas, pertinentes a cada plaza, de conformidad con la descripción del puesto respectivo, así como los resultados del diagnóstico de necesidades de profesionalización correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 54.
 
-Las áreas de recursos humanos o su equivalente en las entidades, junto con la Unidad, elaborarán un programa anual de profesionalización con base en el modelo de capacidades profesionales generales, de visión de gobierno y técnicas, definido por la Comisión, el cual harán del conocimiento de todos los Servidores Públicos de Carrera de la dependencia o entidad de que se trate.
+Las áreas de recursos humanos o su equivalente en las entidades, junto con la Dirección del Servicio elaborarán un programa anual de profesionalización con base en el modelo de capacidades profesionales generales, de visión de gobierno y técnicas, definido por la Comisión, el cual harán del conocimiento de todos los Servidores Públicos de Carrera de la dependencia o entidad de que se trate.
 
 ###### Artículo 55.
 
 El programa de profesionalización tiene como propósito que los Servidores Públicos de Carrera dominen los conocimientos y habilidades necesarias para el desarrollo de sus funciones.
 
-Dicho programa se integra con eventos obligatorios y optativos según lo establezcan las áreas de recursos humanos o su equivalente en las entidades en conjunto con la Unidad.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Dicho programa se integra con eventos obligatorios y optativos, según lo establezcan las áreas de recursos humanos o su equivalente en las entidades en conjunto con la Dirección del Servicio.
 
 ###### Artículo 56.
 
 Los Servidores Públicos de Carrera podrán solicitar su ingreso en distintos programas de profesionalización con el fin de desarrollar su propio perfil profesional y alcanzar a futuro distintas posiciones dentro del Servicio.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 57.
 
-Los Sujetos Obligados, en apego a las disposiciones que al efecto emita la Unidad, podrán celebrar convenios con instituciones educativas, centros de investigación y organismos públicos o privados para que impartan cualquier modalidad de profesionalización que coadyuve a cubrir las necesidades institucionales de formación de los Servidores Públicos de Carrera.
+Los Sujetos Obligados, en apego a las disposiciones que al efecto emita la Dirección del Servicio, podrán celebrar convenios con instituciones educativas, centros de investigación y organismos públicos o privados para que impartan cualquier modalidad de profesionalización que coadyuve a cubrir las necesidades institucionales de formación de los Servidores Públicos de Carrera.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 58.
 
-La Unidad y las áreas de recursos humanos o su equivalente en las entidades, determinarán la forma y términos en que se otorgará apoyo institucional para que los Servidores Públicos de Carrera tengan acceso o continúen con su educación formal, privilegiando los apoyos para la educación en todos sus niveles, incluyendo estudios de postgrado a nivel de especialidad, maestría o doctorado, seminarios, diplomados o cursos, aún cuando éstos se impartan bajo la modalidad de educación a distancia u otras análogas.
+La Dirección del Servicio y las áreas de recursos humanos o su equivalente en las entidades, determinarán la forma y términos en que se otorgará apoyo institucional para que los Servidores Públicos de Carrera tengan acceso o continúen con su educación formal, privilegiando los apoyos para la educación en todos sus niveles, incluyendo estudios de postgrado a nivel de especialidad, maestría o doctorado, seminarios, diplomados o cursos, aun cuando éstos se impartan bajo la modalidad de educación a distancia u otras análogas.
 
 La duración del apoyo institucional estará en función de los estudios a cursar y se sujetarán a lo estipulado en la guía técnica aprobada por la Comisión y a la disposición presupuestal.
 
@@ -555,9 +635,11 @@ La duración del apoyo institucional estará en función de los estudios a cursa
 
 Los Servidores Públicos de Carrera que accedan a programas de profesionalización o de educación formal, podrán obtener facilidades en cuanto al horario de trabajo si así fuere necesario conforme al programa de profesionalización o estudio respectivo, previa autorización de su superior inmediato.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 60.
 
-En todo evento de profesionalización el área de recursos humanos o su equivalente en las entidades deberá realizar una evaluación de tipo diagnóstica y formativa, de acuerdo a las guías técnicas aprobadas por la Comisión.
+En todo evento de profesionalización el área de recursos humanos o su equivalente en las entidades deberán realizar una evaluación de tipo diagnóstica y formativa, de acuerdo a los lineamientos generales del aprobados por la Comisión.
 
 #### SECCIÓN CUARTA. DEL SUBSISTEMA DE EVALUACIÓN AL DESEMPEÑO
 
@@ -573,11 +655,15 @@ III.- Avance dentro del esquema de Profesionalización.
 
 Lo anterior, en atención al nivel que ocupe el Servidor Público de Carrera.
 
-La evaluación se realizará con base en la periodicidad y los indicadores de desempeño asignados a cada puesto, mismos que deberán ser congruentes con los objetivos, metas y mecanismos de evaluación que se establezcan en la guía técnica correspondiente.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+La evaluación se realizará con base en la periodicidad y los indicadores de desempeño asignados a cada puesto, mismos que deberán de ser congruentes con los objetivos, metas y mecanismos de evaluación que se establezcan en los lineamientos generales correspondientes.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 62.
 
-Todo Servidor Público de Carrera se sujetará a las evaluaciones al desempeño a través del registro de metas y/o actividades, así como a la evaluación de parámetros del desempeño con la periodicidad que determinen las guías técnicas correspondientes.
+Todo Servidor Público de Carrera se sujetará a las evaluaciones al desempeño a través del registro de metas y actividades, así como a la evaluación de parámetros del desempeño con la periodicidad que determinen en su caso los lineamientos generales correspondientes.
 
 ###### Artículo 63.
 
@@ -613,7 +699,11 @@ I. Por incumplimiento reiterado e injustificado de cualquiera de las obligacione
 
 La valoración anterior deberá ser realizada por el área de recursos humanos de la dependencia o su equivalente en la entidad de adscripción del servidor público que incurra en el supuesto, así como por su jefe inmediato, de conformidad con este Reglamento, sin perjuicio de los supuestos de responsabilidad que establece la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
-II. Por obtener en la evaluación al desempeño, en dos semestres consecutivos, calificaciones ubicadas en el rango señalado como no satisfactorio de la escala utilizada de conformidad con lo establecido en la guía técnica correspondiente.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+II. Por obtener en la evaluación al desempeño, en dos semestres consecutivos, calificaciones ubicadas en el rango señalado como (sic)
+
+(sic) no satisfactorio de la escala utilizada de conformidad con lo establecido en los lineamientos generales correspondientes.
 
 T R A N S I T O R I O S
 
@@ -652,3 +742,9 @@ Artículo Primero.- El presente Decreto Gubernativo iniciará su vigencia el dí
 Artículo Segundo.- Las dependencias y entidades del Poder Ejecutivo, en el término de 5 cinco días naturales siguientes al inicio de la vigencia del presente Decreto Gubernativo, deberán remitir sus propuestas de puestos de libre designación para que la Comisión Intersecretarial del Servicio Civil de Carrera las apruebe.
 
 Artículo Tercero.- Se derogan aquellas disposiciones que se opongan al presente Decreto Gubernativo.
+
+P.O. 10 DE JUNIO DE 2008.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Cualquier referencia que en circulares, acuerdos y demás instrumentos administrativos se haga a la Unidad del Servicio Civil de Carrera, se entenderá hecha a la Dirección del Servicio Civil de Carrera.
