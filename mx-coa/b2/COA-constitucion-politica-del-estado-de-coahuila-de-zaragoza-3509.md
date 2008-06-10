@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2007-08-17"
+last_updated: "2008-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -482,9 +482,9 @@ El Instituto Electoral y de Participación Ciudadana de Coahuila, se constituir�
 
 8. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
-9. Tendrá a su cargo, además de las atribuciones que le confiera la ley, la preparación, organización, desarrollo, vigilancia y validez del proceso electoral, de los procedimientos del plebiscito y del referendo, la validación del porcentaje ciudadano de la iniciativa popular y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
+9. Tendrá a su cargo, además de las atribuciones que le confiera la ley, la preparación, organización, desarrollo, vigilancia y validez del proceso electoral, de los procedimientos del plebiscito y referendo y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -794,9 +794,9 @@ IV. A los Ayuntamientos del Estado, en todo lo concerniente a su competencia mun
 
 V. A los organismos públicos autónomos, en todo lo concerniente a su competencia. En este caso, la iniciativa se presentará por conducto del Presidente del organismo previo acuerdo del Consejo General.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-VI. A los ciudadanos electores coahuilenses, en los términos que establezca la ley.
+VI. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residido en el Estado por más de tres años. Este derecho se ejercerá en los términos que establezca la ley.
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -808,9 +808,9 @@ VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo c
 
 Las iniciativas presentadas por el Ejecutivo, Tribunal Superior, Organismos Públicos Autónomos o Ayuntamientos pasarán desde luego, a Comisión. Las de los diputados, se sujetarán al trámite que disponga la Ley Orgánica del Congreso.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
-Las iniciativas presentadas por los ciudadanos electores coahuilenses, se sujetarán al trámite que establezcan las disposiciones aplicables.
+Las iniciativas presentadas por los sujetos a que se refiere la fracción VI del artículo anterior, se sujetarán al trámite que establezcan las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -2424,7 +2424,7 @@ La Justicia Constitucional Local se erige dentro del régimen interior del Estad
 
 La Justicia Constitucional Local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 41, 99, 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Cuando la atoridad jrisdiccional considere en su resolución que una norma es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
+Cuando la autoridad jurisdiccional considere en su resolución que una norma es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
@@ -4147,3 +4147,9 @@ P.O. 17 DE AGOSTO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE JUNIO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
