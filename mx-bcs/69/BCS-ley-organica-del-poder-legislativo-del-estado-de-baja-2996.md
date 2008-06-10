@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2008-03-10"
+last_updated: "2008-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -439,7 +439,21 @@ VI.- Proponer al Congreso el nombramiento del Oficial Mayor, Auditor Superior, A
 
 VII.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la Fracción anterior, cuando por causas graves o por el buen funcionamiento del Congreso deba hacerse la remoción y proponer a las personas que deban sustituirlas.
 
-VIII.- Las demás que no estén expresamente señaladas a la Directiva.
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2008)</small>
+
+VIII.- Presentar un informe por escrito a la legislatura entrante, el cual deberá contener lo siguiente:
+
+a) Relación de los recursos humanos;
+
+b) Inventario de muebles e inmuebles;
+
+c) Estados financieros del año de ejercicio en que informa; y
+
+d) Asuntos Legislativos pendientes en comisión.
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2008)</small>
+
+IX.- Las demás que no estén expresamente señaladas a la Directiva.
 
 ###### ARTICULO 52.
 
@@ -1689,7 +1703,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pues en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2130,3 +2144,7 @@ B.O. 31 DE DICIEMBRE DE 2007.
 B.O. 10 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
