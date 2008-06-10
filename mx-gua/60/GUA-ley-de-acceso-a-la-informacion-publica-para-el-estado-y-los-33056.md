@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-a-la-informacion-publica-para-el-estado-y-los-330
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-29"
-last_updated: "2006-05-19"
+last_updated: "2008-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 29 de julio del 2003.
 
@@ -95,13 +95,21 @@ Toda persona tiene derecho a obtener la información a que se refiere esta Ley e
 
 El derecho de acceso a la información comprende la consulta de los documentos, la obtención de copias o reproducciones y la orientación sobre su existencia y contenido.
 
-El acceso a la información pública es gratuito, salvo que las leyes fiscales establezcan el pago de un derecho.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+El acceso a la información pública es gratuito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2008)</small>
+
+Los sujetos obligados solamente podrán recuperar el costo del soporte material de las copias o reproducciones donde se entregue la información solicitada, los gastos de envío y los gastos de certificación según sea el caso, de conformidad con la Ley de la materia.
 
 ###### Artículo 7.
 
 Los sujetos obligados deberán observar los principios de transparencia y publicidad en sus actos y respetar el derecho al libre acceso a la información pública.
 
-En la interpretación de esta Ley, especialmente cuando se determine la calidad de reservada o confidencial de una información, se deberá favorecer el principio de publicidad de la misma.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+En la interpretación de esta Ley, se deberá favorecer el principio de máxima publicidad.
 
 Quien tenga acceso a la información pública sólo podrá utilizarla lícitamente y será responsable de cualquier uso ilegal de la misma.
 
@@ -109,7 +117,9 @@ Quien tenga acceso a la información pública sólo podrá utilizarla lícitamen
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+I.- Máxima Publicidad: Principio que orienta la forma de interpretar y aplicar la norma para que en caso de duda razonable, se opte por la publicidad de la información;
 
 II.- Organismos Autónomos: El Instituto Electoral del Estado de Guanajuato, el Tribunal Estatal Electoral, el Tribunal de lo Contencioso Administrativo, la Procuraduría de los Derechos Humanos, la Universidad de Guanajuato y cualquier otro establecido en la Constitución Política del Estado de Guanajuato o en la legislación estatal;
 
@@ -117,9 +127,17 @@ III.- Seguridad del Estado: Acciones destinadas a proteger la integridad, estabi
 
 IV.- Instituto: El Instituto de Acceso a la Información Pública;
 
-V.- Unidades Administrativas: Los órganos de cada uno de los sujetos obligados que poseen la información pública; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-VI.- Unidades de Acceso a la Información Pública: Las encargadas de recibir y despachar las solicitudes de la información pública que se formulen a cada uno de los sujetos obligados.
+V.- Unidades Administrativas: Los órganos de cada uno de los sujetos obligados que poseen la información pública;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+VI.- Unidades de Acceso a la Información Pública: Las encargadas de recibir y despachar las solicitudes de la información pública que se formulen a cada uno de los sujetos obligados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+VII.- Interés Público: Conjunto de pretensiones relacionadas con las necesidades colectivas de los miembros de una comunidad y protegidas conforme a derecho.
 
 ###### Artículo 9.
 
@@ -127,9 +145,11 @@ Las universidades e instituciones de educación superior procurarán en sus acti
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE INFORMACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 10.
 
-Los sujetos obligados pondrán a disposición del público y actualizarán la información pública siguiente:
+Los sujetos obligados publicarán de oficio a través de los medios disponibles la información pública siguiente:
 
 I.- Las leyes, reglamentos, decretos administrativos, circulares y demás normas que les resulten aplicables;
 
@@ -137,43 +157,93 @@ II.- Su estructura orgánica;
 
 III.- El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía;
 
-IV.- El tabulador de dietas, sueldos y salarios; el sistema de premios, estímulos y recompensas; los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-V.- El domicilio, número telefónico y la dirección electrónica de la unidad de acceso a la información pública donde podrán recibirse las solicitudes para obtener la información pública;
+IV.- El tabulador mensual de dietas, sueldos y salarios, precisando todo género de percepciones y descuentos;
 
-VI.- Las metas y objetivos de sus programas;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-VII.- Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
+V.- El sistema de premios, estímulos y recompensas de conformidad con la Ley de la materia;
 
-VIII.- El monto del presupuesto asignado, así como los informes sobre su ejecución. En el caso del Poder Ejecutivo dicha información pública será proporcionada respecto de cada una de sus dependencias y entidades por la Secretaría de Finanzas y Administración, la que además informará sobre la situación financiera de dicho Poder y la deuda pública del Estado;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-IX.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+VI.- Los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
 
-X.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-XI.- Los montos asignados y criterios de acceso a los programas de subsidio;
+VII.- El domicilio, número telefónico y la dirección electrónica de la unidad de acceso a la información pública donde podrán recibirse las solicitudes para obtener la información pública;
 
-XII.- Los resultados finales de las auditorías que se practiquen a los sujetos obligados;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-XIII.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
+VIII.- Los indicadores de gestión, las metas y objetivos de sus programas y el informe del ejercicio de los recursos públicos asignados o asociados a ellos;
 
-XIV.- El padrón inmobiliario;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-XV.- Los contratos de obra pública, su monto y a quien le fueron asignados;
+IX.- Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
 
-XVI.- Los informes que por disposición legal generen los sujetos obligados;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-XVII.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+X.- La cuenta pública, el monto del presupuesto asignado, así como los informes sobre su ejecución y los datos de la deuda pública. Dicha información será proporcionada respecto de cada dependencia y entidad del sujeto obligado;
 
-XVIII.- Las iniciativas de Ley que se presenten en el Congreso del Estado, sus avances en los trabajos de dictaminación, así como los acuerdos y decretos legislativos aprobados;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-XIX.- La aplicación de fondos auxiliares especiales y el origen de los ingresos; y
+XI.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
 
-XX.- La relación de solicitudes de acceso a la información pública y las respuestas que se les den.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-Cada sujeto obligado determinará cual de la información anterior hará pública de oficio.
+XII.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
 
-La información a que se refiere este artículo deberá ordenarse de tal forma que facilite el acceso y su consulta para asegurar su calidad, veracidad, oportunidad y confiabilidad.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XIII.- Los montos asignados y criterios de acceso a los programas de subsidio;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XIV.- Los resultados finales de las auditorías que se practiquen a los sujetos obligados;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XV.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones; su objeto y vigencia; así como los nombres de los titulares o beneficiarios;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XVI.- El padrón inmobiliario;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XVII.- El listado de contratos, su monto y a quienes les fueron asignados, y en su caso, los participantes en el concurso o licitación;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XVIII.- Los informes que por disposición legal generen los sujetos obligados, así como las actas o minutas de sesiones públicas de cuerpos colegiados de los sujetos obligados por esta Ley;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XIX.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+XX.- Las iniciativas de Ley que se presenten en el Congreso del Estado, sus avances en los trabajos de dictaminación, así como los acuerdos y decretos legislativos aprobados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+XXI.- La aplicación de fondos auxiliares especiales y el origen de los ingresos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+XXII.- La relación de solicitudes de acceso a la información pública y las respuestas que se les den;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+XXIII.- El listado de expedientes electorales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+XXIV.- La resolución ejecutoria de los procedimientos de responsabilidad de los servidores públicos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+La información a que se refiere este artículo deberá actualizarse al menos cada tres meses y ordenarse de tal forma que facilite el acceso y su consulta para asegurar su calidad, veracidad, oportunidad y confiabilidad.
 
 ###### Artículo 11.
 
@@ -195,9 +265,11 @@ Toda persona podrá solicitar al Instituto Electoral del Estado de Guanajuato, i
 
 ### CAPÍTULO TERCERO. DE LA INFORMACIÓN RESERVADA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 14.
 
-Es información reservada, para los efectos de esta Ley:
+Podrá clasificarse como reservada temporalmente por razón de interés público la información siguiente:
 
 I.- La que comprometa la seguridad del Estado o de los Municipios;
 
@@ -211,9 +283,13 @@ V.- La que lesione los procesos de negociación de los sujetos obligados en cump
 
 VI.- La información de estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o de los municipios, o suponga un riesgo para su realización;
 
-VII.- Los expedientes judiciales o administrativos. Serán públicos los expedientes electorales;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-VIII.- Los procedimientos de responsabilidad de los servidores públicos. Será pública la resolución definitiva;
+VII.- Los expedientes derivados de procedimientos judiciales o administrativos seguidos en forma de juicio;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+VIII.- Los procedimientos de responsabilidad de los servidores públicos; excepto la resolución ejecutoria;
 
 IX.- La que contenga las opiniones, estudios, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos y pueda ser perjudicial del interés público, hasta en tanto no sea adoptada la decisión definitiva;
 
@@ -241,19 +317,25 @@ XX.- Los documentos, datos e informes que los ciudadanos proporcionen al Registr
 
 XXI.- La contenida en las listas nominales de electores, la que sólo estará disponible en los términos de la Ley.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 15.
 
-La información clasificada como reservada según el artículo anterior, podrá permanecer con tal carácter hasta por un período de catorce años. Esta información podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva, protegiendo la información confidencial que en ella se contenga. La disponibilidad de esa información será sin perjuicio de lo que, al respecto, establezcan otras leyes.
+La información clasificada como reservada según el artículo 14 de esta Ley, podrá permanecer con tal carácter hasta por un periodo de diez años. Esta información deberá ser desclasificada cuando haya transcurrido el periodo de reserva o antes, si se extinguen las causas que dieron origen a su clasificación, protegiendo la información confidencial que en ella se contenga. La disponibilidad de esa información será sin perjuicio de lo que, al respecto, establezcan otras leyes.
 
-El Instituto a solicitud de los sujetos obligados podrá acordar la ampliación del período de reserva hasta por diez años, siempre y cuando se justifique que subsisten las causas que dieron origen a su clasificación.
+El Instituto a solicitud de un sujeto obligado podrá acordar la prórroga del periodo de reserva hasta por diez años, siempre y cuando lo justifique el interés público y subsistan las causas que dieron origen a su clasificación.
 
-Excepcionalmente, en casos de gran importancia, los sujetos obligados podrán solicitar al Instituto la ampliación del segundo período de reserva hasta por diez años, siempre y cuando justifiquen la existencia de los supuestos que la originaron.
+El periodo de reserva se contará a partir de la generación del documento, expediente o información de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 16.
 
-Los sujetos obligados serán responsables de clasificar la información pública de conformidad con los criterios establecidos en esta Ley.
+Los sujetos obligados, por conducto de su unidad de acceso a la información pública, serán responsables de clasificar la información pública por una sola ocasión, de conformidad con los criterios establecidos en esta Ley.
 
-El acuerdo que clasifique la información como reservada deberá estar fundado y razonado en que:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
+El acuerdo que clasifique la información como reservada deberá estar fundado y razonado en el interés público y en que:
 
 I.- La información esté comprendida en alguna de las hipótesis de excepción previstas en la presente Ley;
 
@@ -357,7 +439,9 @@ El Instituto contará con un Consejo General y un Director General.
 
 El Consejo General estará integrado por tres Consejeros que durarán en el cargo cuatro años y podrán ser ratificados por igual término.
 
-Cada uno de los Poderes del Estado designará un Consejero.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Cada uno de los Poderes del Estado designará un Consejero, sin que dicha designación implique subordinación alguna. Por tanto, los consejeros sólo podrán ser removidos por las causas y en los términos establecidos en el artículo 56 bis de esta Ley.
 
 ###### Artículo 31.
 
@@ -381,9 +465,17 @@ I.- Ser ciudadano mexicano;
 
 II.- No haber sido condenado por delito doloso;
 
-III.- Tener cuando menos treinta años cumplidos al día de su designación; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-IV.- Gozar de reconocido prestigio personal y profesional.
+III.- Tener cuando menos treinta años cumplidos al día de su designación;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+IV.- Gozar de reconocido prestigio personal y profesional; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+V.- No ser o haber sido dirigente de partido o asociación política en los 3 años anteriores a su designación.
 
 ###### Artículo 34.
 
@@ -477,13 +569,17 @@ Corresponderá al Archivo General del Estado elaborar los criterios para la orga
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 39.
 
-Cualquier persona directamente o a través de su representante, podrá solicitar información ante las unidades de acceso a la información pública a que se refiere esta Ley.
+Cualquier persona, sin necesidad de acreditar interés alguno o justificar su utilización, podrá solicitar, por medios electrónicos u otro medio, información ante las unidades de acceso a la información pública a que se refiere esta Ley.
 
 En todo caso, la solicitud deberá contener:
 
-I.- Nombre del solicitante y domicilio para recibir notificaciones, mismo que deberá estar ubicado en el lugar donde resida la unidad de acceso a la información pública a la que se presente la solicitud;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+I.- Nombre del solicitante y domicilio o dirección electrónica para recibir notificaciones. El solicitante deberá cubrir los gastos de envío correspondientes en el supuesto de que el domicilio que señale esté en lugar distinto a donde reside la unidad de acceso a la información pública correspondiente;
 
 II.- La descripción clara y precisa de la información solicitada;
 
@@ -491,7 +587,9 @@ III.- Cualquier otro dato que a juicio del solicitante facilite la localización
 
 IV.- La modalidad en que el solicitante desee le sea proporcionada la información. Ésta se entregará en el estado en que se encuentre. La obligación de proporcionar información no incluye el procesamiento de la misma, ni el presentarla conforme al interés del solicitante.
 
-Si los datos proporcionados por el solicitante no bastan para localizar los documentos o son erróneos, la unidad de acceso a la información pública podrá requerir al solicitante, por una vez y dentro de los diez días hábiles siguientes a la presentación de la solicitud, para que indique otros elementos o corrija los datos. En caso de que no dé cumplimiento al requerimiento se desechará su solicitud. Este requerimiento interrumpirá el plazo establecido en el artículo 42.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Si los datos proporcionados por el solicitante no bastan para localizar los documentos o son erróneos, la unidad de acceso a la información pública deberá requerir al solicitante, por una vez y dentro de los diez días hábiles siguientes a la presentación de la solicitud, para que indique otros elementos o corrija los datos. En caso de que no de cumplimiento al requerimiento se desechará su solicitud. Este requerimiento interrumpirá el plazo establecido en el artículo 42.
 
 ###### Artículo 40.
 
@@ -501,41 +599,55 @@ Cuando la información solicitada no esté en poder del sujeto obligado ante cuy
 
 Tratándose de documentos que por su naturaleza no sean normalmente substituibles, como los manuscritos, incunables, ediciones, libros, publicaciones periodísticas, mapas, planos, folletos y grabados importantes o raros y cualquier otro objeto o medio que contenga información de este género, se proporcionarán a los particulares los medios para consultar dicha información cuidando que no se dañen los objetos que la contengan.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 41.
 
-En aquellos documentos que contengan información, tanto pública como reservada o confidencial, las unidades de acceso a la información pública podrán proporcionar la de carácter público, eliminando las partes o secciones clasificadas como reservadas o confidenciales. En tales casos, deberán señalarse las partes o secciones que fueron eliminadas.
+En aquellos documentos que contengan información, tanto pública como reservada o confidencial, las unidades de acceso a la información pública deberán proporcionar la de carácter público, eliminando las partes o secciones clasificadas como reservadas o confidenciales. En tales casos, deberán señalarse las partes o secciones que fueron eliminadas.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 42.
 
-Las unidades de acceso a la información pública deberán entregar o negar la información a quien la solicite dentro de los veinte días hábiles siguientes a aquel en que reciban la solicitud. Cuando existan razones suficientes que impidan entregar la información en este plazo, se informará al solicitante y el plazo se ampliará hasta diez días hábiles más.
+Las unidades de acceso a la información pública deberán entregar o negar la información a quien la solicite, dentro del término de quince días hábiles siguientes a aquél en que reciban la solicitud. Cuando existan razones suficientes que impidan entregar la información en este plazo, se informará al solicitante y el plazo para la entrega de la misma se prorrogará hasta por diez días hábiles más.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 43.
 
-La falta de respuesta a una solicitud de acceso en el plazo señalado en el artículo anterior, se entenderá resuelta en sentido negativo.
+La falta de respuesta a una solicitud de acceso en el plazo señalado en el artículo anterior, dará lugar a responsabilidad en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 44.
 
-Cuando la información no se encuentre en los archivos de la unidad administrativa, ésta lo notificará a la unidad de acceso a la información pública dentro del plazo de siete días hábiles contados a partir de que la unidad de acceso reciba la solicitud.
+Cuando la información no se encuentre en los archivos de la unidad administrativa, ésta lo notificará a la unidad de acceso a la información pública dentro del plazo de cinco días hábiles contados a partir de que la unidad de acceso reciba la solicitud.
 
 ## TÍTULO TERCERO. MEDIOS DE IMPUGNACIÓN
 
 ### CAPÍTULO PRIMERO. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 45.
 
-Contra las resoluciones de las unidades de acceso a la información pública que nieguen el acceso a la información, o bien cuando ésta no haya sido proporcionada dentro de los plazos correspondientes, el solicitante de la información podrá interponer por sí mismo o a través de su representante, recurso de inconformidad ante el Director General del Instituto dentro de los quince días hábiles siguientes a la notificación o a la configuración de la negativa ficta.
+El solicitante de la información podrá interponer por escrito o a través de medios electrónicos, por sí mismo, recurso de inconformidad ante el Director General del Instituto, dentro de los quince días hábiles siguientes a la notificación o al vencimiento del plazo para entregar la información sin que se haya dado respuesta al solicitante, en los siguientes supuestos:
 
-El recurso de inconformidad también podrá ser interpuesto cuando:
+l.- Contra las resoluciones de las unidades de acceso a la información pública que nieguen el acceso a la información;
 
-I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+II.- Cuando la información pública no haya sido proporcionada dentro de los plazos correspondientes; y
 
-II.- El solicitante considere que la información pública entregada es incompleta o no corresponda a la requerida en la solicitud.
+III.- Cuando el solicitante considere que la información pública entregada es incompleta o no corresponda a la requerida en la solicitud.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 46.
 
-El escrito de interposición del recurso de inconformidad deberá mencionar:
+El recurso de inconformidad deberá mencionar:
 
-I.- El nombre del recurrente y domicilio para recibir notificaciones, mismo que deberá estar ubicado en el lugar donde resida el Instituto, en su defecto se notificará por estrados;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
+
+I.- El nombre del recurrente y domicilio físico o dirección electrónica para recibir notificaciones. En caso de domicilio físico éste deberá estar ubicado en el municipio donde resida el Instituto, en su defecto se notificará por estrados;
 
 II.- La unidad de acceso a la información pública ante la cual se presentó la solicitud y su domicilio;
 
@@ -565,9 +677,11 @@ En la substanciación del recurso de inconformidad, en lo no previsto por esta L
 
 Contra las resoluciones del Director General del Instituto, los sujetos obligados podrán interponer el recurso de revisión ante el propio Director y resolverá el Consejo General.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 51.
 
-El recurso de revisión se interpondrá por escrito, con expresión de agravios, ante el Director General del Instituto, dentro del término de diez días hábiles siguientes a la notificación respectiva.
+El recurso de revisión se interpondrá por escrito o por medios electrónicos de conformidad con la Ley de la materia, con expresión de agravios, ante el Director General del Instituto, dentro del término de diez días hábiles siguientes a la notificación respectiva.
 
 ###### Artículo 52.
 
@@ -619,19 +733,37 @@ X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS 
 
 A quienes incurran en las responsabilidades a que se refiere el artículo anterior se les aplicarán las sanciones y los procedimientos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato o en otras leyes aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+
 ###### Artículo 56.
 
-El Consejo General aplicará los siguientes medios de apremio a quien desacate una resolución que recaiga a un recurso de los previstos en el Título Tercero de esta Ley:
+La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada por el Consejo General del Instituto.
 
-I.- Apercibimiento; y
+El desacato a la resolución que recaiga a un recurso de los previstos en el Titulo Tercero de esta Ley, será sancionado por el Consejo General.
 
-II.- Multa equivalente al monto de uno a cincuenta días de salario mínimo general diario vigente en el Estado.
+El Consejo General aplicará los medios de apremio siguientes:
 
-Si una vez agotados los medios de apremio persistiere el incumplimiento, el Consejo General dará aviso al superior jerárquico para que obligue al servidor público a cumplir sin demora la resolución; y si no tuviere superior jerárquico, el requerimiento se hará directamente a éste.
+I.- Apercibimiento;
 
-Cuando no se cumpliere la resolución, a pesar del requerimiento a que se refiere el párrafo anterior, el Consejo General procederá a decretar la destitución del servidor público que incumplió.
+II.- Amonestación; o
+
+III.-Aviso al superior jerárquico, y si no tuviere superior jerárquico, el requerimiento se hará directamente a éste.
+
+Si una vez agotados los medios de apremio persistiere el incumplimiento, el Consejo General aplicará las siguientes sanciones:
+
+I.- Multa equivalente al monto de uno a cincuenta días de salario mínimo general diario vigente en el Estado; o
+
+II.- Destitución del servidor público que incumplió.
 
 En caso de que el incumplimiento sea realizado por una autoridad que goce de fuero constitucional, se procederá conforme a la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2008)</small>
+
+Artículo 56 bis.- Los miembros del Consejo General no podrán ser destituidos sino por resolución del Pleno del propio Consejo General, cuando:
+
+I.- Incurran en violaciones reiteradas a la presente Ley; o
+
+II.- Sean condenados ejecutoriamente por delitos dolosos que merezcan pena privativa de libertad.
 
 ###### Artículo 57.
 
@@ -682,3 +814,17 @@ Las solicitudes que antes de la entrada en vigencia de la presente Ley, hayan pr
 Artículo Cuarto. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 Artículo Quinto. El Instituto contará con un plazo de noventa días contados a partir de la entrada en vigencia de la presente Ley, para conformar el Registro Estatal de Protección de Datos Personales.
+
+P.O. 10 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entra en vigencia al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo establecido en el artículo siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto, mediante sistemas electrónicos, de los mecanismos de acceso a la información pública y de la interposición de los recursos establecidos en la presente Ley, a más tardar el 21 de julio de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Los medios de impugnación presentados con anterioridad a la entrada en vigor del supuesto contenido en el artículo transitorio anterior, continuarán su trámite por escrito y en los términos de la Ley vigente.
