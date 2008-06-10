@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2007-12-28"
+last_updated: "2008-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -7617,7 +7617,9 @@ IV. Las pólizas originales de contratos celebrados con intervención de corredo
 
 V. Las facturas, cuentas corrientes o cualesquiera otros contratos o comprobantes mercantiles, firmados y reconocidos judicial o notarialmente como auténticos por el deudor.
 
-VI. Los convenios celebrados en el curso de un proceso ante el juzgador, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios o en cualquier otra forma.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2008)</small>
+
+VI. Los convenios celebrados en el curso de un proceso ante el juzgador o ante el Ministerio Público en ejercicio de sus funciones, ya sea de las partes entre si o de terceros que se hubieren obligado como fiadores, depositarios o en cualquier otra forma.
 
 VII. Los convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos que ésta emita.
 
@@ -13198,3 +13200,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
