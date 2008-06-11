@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2008-02-12"
+last_updated: "2008-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -123,7 +123,9 @@ El control sanitario de establecimientos y servicios relacionados a:
 
 A).- Agua potable;
 
-B).- Centros de Readaptación Social y Centros de Observación y Tratamiento para menores infractores;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+B).- Centros de Ejecución de Sanciones y Centros de Reintegración Social y Familiar para Adolescentes;
 
 C).- Construcciones;
 
@@ -135,7 +137,9 @@ F).- Gasolinerías;
 
 G).- Mercados y centros de abasto;
 
-H).- Estética y pedicuro;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+H).- Estética, pedicuro, tatuado, peluquerías, clínicas de belleza, centros médicos clínicos, centros o clínicas de rehabilitación, laboratorios radiológicos y laboratorios de análisis clínicos;
 
 I).- Transporte público;
 
@@ -149,9 +153,17 @@ M).- Rastros, granjas avícolas, porcícolas, establos y apiarios que pertenezca
 
 N).- Limpieza pública;
 
-O).- Panteones; y
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
 
-P).- Los demás establecimientos y servicios que determine esta ley u otro ordenamiento jurídico aplicable.
+O).- Panteones;
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+P).- Casas y edificios públicos o privados; y
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+Q).- Los demás establecimientos y servicios que determine esta ley u otros ordenamientos jurídicos aplicables.
 
 ###### ARTICULO 4°.
 
@@ -1028,6 +1040,10 @@ II.- Establecer y operar el Sistema Estatal de Vigilancia Epidemiológica, de co
 III.- Realizar los programas y actividades que estime necesario para la prevención y control de enfermedades y accidentes; y
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refiere la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+La Secretaría de Salud realizará acciones de inspección directa en los establecimientos y servicios previstos en la fracción 11del artículo 3° de esta ley, para asegurarse del cumplimiento de las condiciones higiénico-sanitarias previstas en las disposiciones legales, previa solicitud de autorización judicial, cuando el caso lo amerite.
 
 ### CAPITULO IV. DE LOS ACCIDENTES
 
@@ -2420,6 +2436,12 @@ Artículo Unico.- El presente Decreto entrará en vigor a los treinta días de s
 P.O. 12 DE FEBRERO DE 2008.
 
 DECRETO NO. LLX-1449 POR EL QUE SE REFORMAN LA FRACCION I DEL ARTICULO 2°; EL INCISO C) DE LA FRACCION I DEL ARTICULO 3°; LA FRACCION II DEL ARTICULO 29; EL ARTICULO 30; EL TITULO NOVENO Y LOS ARTICULOS 92 Y 93 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2008.
 
 ###### ARTICULO UNICO.
 
