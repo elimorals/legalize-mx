@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establecen-las-unidades-de-35379"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-28"
-last_updated: "2003-11-28"
+last_updated: "2008-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el viernes 28 de noviembre de 2003.
 
@@ -148,3 +150,15 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 C. GABRIEL HADDAD GIORGI.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+P.O. 11 DE JUNIO DE 2008.
+
+PRIMERO. El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Acuerdo mediante el cual se establecen las Unidades de Información Pública y se crea el Consejo de Información Clasificada de la Secretaría de Desarrollo Económico del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número cuatro mil doscientos noventa y dos, de fecha veintiocho de noviembre de dos mil tres.
+
+TERCERO. El Consejo de Información Clasificada de la Secretaría de Desarrollo Económico deberá celebrar su sesión de instalación, dentro de los 30 días siguientes a la entrada en vigor del presente Acuerdo, en tanto se instala seguirá funcionando el creado mediante el Acuerdo publicado en el Periódico Oficial "Tierra y Libertad" número cuatro mi doscientos noventa y dos, de fecha veintiocho de noviembre de dos mil tres.
+
+CUARTO. La Unidad de Información Pública iniciará sus funciones a partir de la entrada en vigor del presente Acuerdo.
