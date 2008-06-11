@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2008-02-12"
+last_updated: "2008-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -489,15 +489,15 @@ XI.- Formular y remitir al Congreso, para su estudio y aprobación el proyecto d
 
 XII.- Vigilar que se recauden con toda oportunidad los ingresos municipales.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
 
-XIII.- Enviar trimestralmente al Congreso, en la segunda quincena del mes siguiente al término del trimestre correspondiente, las cuentas de recaudación y aplicación de los fondos públicos en el trimestre inmediato anterior.
+XIII.- Enviar al Congreso del Estado, en los términos que establece la Ley de Fiscalización Superior del Estado de Tamaulipas, las cuentas de recaudación y aplicación de los fondos públicos, correspondientes al período que hayan elegido para su presentación.
 
 XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus ingresos disponibles y de conformidad con los planes y programas de desarrollo económico y social, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. Las remuneraciones al personal no excederán de los límites señalados en el Título III de este Código.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
 
-XV.- Someter a la aprobación del Congreso la creación de organismos o empresas paramunicipales.
+XV.- Someter a la consideración del Congreso del Estado la creación de organismos o empresas paramunicipales, ya sea que corresponden en exclusiva al Ayuntamiento o a dos o más de éstos para la prestación de un servicio público.
 
 XVI.- Sacar a remate los bienes muebles que hayan de venderse haciendo pública subasta, cuando sean declarados inútiles, previa autorización del Congreso, observándose en lo conducente el Código de Procedimientos Civiles del Estado.
 
@@ -537,7 +537,9 @@ XXIX.- Expedir los reglamentos y disposiciones administrativas a que se refiere 
 
 XXX.- Dar publicidad a los programas de desarrollo urbano y las declaratorias de provisiones, usos, reservas y destinos de áreas y predios.
 
-XXXI.- Celebrar convenios y acuerdos con las autoridades y organismos estatales para la ejecución y operación de obras, la prestación de servicios públicos, la recaudación y administración de contribuciones, programas de capacitación o la asunción de funciones al Municipio que corresponden a aquéllos.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
+
+XXXI.- Celebrar convenios y acuerdos con las autoridades, dependencias, organismos o instituciones estatales o con las de otros municipios del Estado, para la ejecución y operación de obras, la prestación de servicios públicos, la recaudación y administración de contribuciones, programas de capacitación o la asunción de funciones al Municipio que corresponden a aquéllos;
 
 XXXII.- Celebrar convenios con la Federación y otros Municipios, con sujeción a la Ley, previa aprobación del Congreso.
 
@@ -708,6 +710,10 @@ XXI.- Imponer las sanciones administrativas a los que infrinjan el bando de poli
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
 XXII.- Promover ante el Ayuntamiento la creación de Centros de Mediación Municipal en términos de la ley de la materia.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2008)</small>
+
+XXIII.- Proponer al Ayuntamiento la creación de organismos o empresas paramunicipales en los términos que resulten más favorables para el desarrollo municipal.
 
 ###### ARTICULO 56.
 
@@ -929,9 +935,9 @@ III.- Organizar la contabilidad de la Tesorería y sus dependencias.
 
 IV.- Comunicar diariamente al Presidente Municipal y a la Comisión de Hacienda, Presupuesto y Gasto Público, del movimiento de caudales y existencia en caja.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
 
-V.- Remitir al Congreso del Estado las cuentas públicas trimestrales, dentro de los términos de ley.
+V.- Remitir al Congreso del Estado las Cuentas Públicas correspondientes al período que hayan elegido para su presentación, dentro de los términos de ley.
 
 VI.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fiscales.
 
@@ -1777,9 +1783,11 @@ Son sujetos del impuesto con responsabilidad directa los propietarios, copropiet
 
 Cuando sean personas distintas el propietario o detentador por cualquier título o causa, del terreno y de las construcciones, el impuesto recaerá sobre aquél.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 135.
 
-Para la determinación y cobro de este impuesto se estará a lo dispuesto en el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 104, de fecha 28 de diciembre de 1977.
+Para la determinación y cobro de este impuesto se estará a lo dispuesto en la Ley de Ingresos Municipal que corresponda.
 
 ###### ARTICULO 136.
 
@@ -1987,9 +1995,11 @@ Los Ayuntamientos no otorgarán garantías ni efectuarán depósitos para el cum
 
 Los Ayuntamientos estarán obligados a proporcionar al órgano de control del gasto público, dependiente del Ejecutivo, la información que se les solicite y permitirles que su personal practique visitas y auditorías, para comprobar la aplicación de los recursos provenientes del Estado.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 167.
 
-El Congreso revisará las cuentas públicas de los municipios, aplicando en lo conducente las disposiciones contenidas en el Decreto No. 304, publicado en el Periódico Oficial del Estado número 19, Tomo CVIII, de fecha 5 de marzo de 1983.
+El Congreso del Estado revisará las Cuentas Públicas de los municipios, aplicando en lo conducente las disposiciones contenidas en la Ley de Fiscalización Superior del Estado de Tamaulipas.
 
 ### CAPITULO III. DE LA COORDINACION, CONCERTACION E INDUCCION
 
@@ -2058,6 +2068,14 @@ Los servicios públicos municipales serán prestados por los Municipios, directa
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 No podrán ser objeto de concesión los servicios de seguridad pública, policía preventiva municipal y tránsito.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+Dos o más Ayuntamientos del Estado podrán crear organismos o empresas paramunicipales que les permitan satisfacer con mayor facilidad las funciones y servicios que les competen.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+Los términos de las mismas los establecerán mediante convenio que pondrán a consideración del Congreso del Estado. Una vez aprobado por éste, podrán iniciar sus funciones de manera conjunta.
 
 ###### ARTICULO 172.
 
@@ -2187,9 +2205,9 @@ Los Tesoreros Municipales proyectarán y calcularán los ingresos del Municipio 
 
 El Ayuntamiento, al rendir su informe anual por conducto del Presidente Municipal sobre el estado que guarda la administración pública, hará mención expresa de las decisiones adoptadas para la ejecución del Plan Municipal de Desarrollo y los demás programas que de él se deriven.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
 
-El contenido de las cuentas trimestrales de la Hacienda Pública Municipal deberán relacionarse, en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de las cuentas de acuerdo con los fines y prioridades de la planeación municipal.
+El contenido de las Cuentas Públicas Municipales, deberá relacionarse, en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de éstas de acuerdo con los fines y prioridades de la función municipal.
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2004)</small>
 
@@ -3067,9 +3085,9 @@ Toda la información del acervo documental del Archivo General del Municipio que
 
 En todo caso, la clasificación y catalogación del Archivo General del Municipio permitirá distinguir:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
 
-I.- Los acervos de transferencia y concentración, constituidos con los documentos generados por la administración municipal cuyo trámite haya concluido o se encuentre interrumpido sin justificación ni causa bastante por más de seis meses, pero que por el contenido de su información sean susceptibles de ser consultados ocasionalmente por algún órgano o dependencia municipal, y toda la información clasificada de oficio expresamente por la Ley de Información Pública del Estado.
+I.- Los acervos de transferencia y concentración, constituidos con los documentos generados por la Administración Municipal cuyo trámite haya concluido o se encuentre interrumpido sin justificación ni causa bastante por más de 6 meses, pero que por la naturaleza del contenido de su información sean susceptibles de ser consultados ocasionalmente por algún órgano o dependencia municipal, y toda la información clasificada de oficio expresamente por la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 II.- Los acervos con valor histórico, integrados con documentos cuya antigüedad sea mayor de treinta años y su contenido informativo sea de tal trascendencia que merezcan ser preservados.
 
@@ -3093,9 +3111,9 @@ V.- Los informes anuales sobre el estado que guardan los negocios municipales.
 
 VI.- Las leyes en materia municipal aprobadas por el Congreso del Estado y sus reformas, así como los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
 
-VII.- Los demás actos que a juicio del Ayuntamiento deban ser registrados o constituyan información pública de oficio expresamente establecida en la Ley de Información Pública del Estado.
+VII.- Los demás actos que a juicio del Ayuntamiento deban ser registrados o constituyan información pública de oficio expresamente establecida en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3169,11 +3187,11 @@ Cuando el desempeño de las funciones encomendadas lo requieran, los órganos y 
 
 Es responsabilidad del Ayuntamiento o, en su caso, del Presidente Municipal autorizar el préstamo de los originales o la expedición de copias certificadas de los mismos a los órganos y dependencias municipales.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 308.
 
-Los servidores públicos quedan impedidos para extraer del Archivo General del Municipio cualquier tipo de información para usos distintos a los oficiales o a los supuestos contenidos en la Ley de Información Pública del Estado.
+Los Servidores públicos quedan impedidos para extraer del Archivo General del Municipio cualquier tipo de información para usos distintos a los oficiales o a los supuestos contenidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3213,11 +3231,11 @@ Las declaratorias deducidas del Capítulo II de este Título serán emitidas por
 
 El Archivo General del Municipio atenderá al público en los días y horarios que se determine de acuerdo con las necesidades del servicio.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 315.
 
-Toda persona podrá consultar los acervos con valor histórico del Archivo General del Municipio de conformidad con las disposiciones reglamentarias y administrativas vigentes, que garanticen su integridad y preservación, observando siempre en lo aplicable lo dispuesto por la Ley de Información Pública del Estado de Tamaulipas.
+Toda persona podrá consultar los acervos con valor histórico del Archivo General del Municipio de conformidad con las disposiciones reglamentarias y administrativas vigentes, que garanticen su integridad y preservación, observando siempre en lo aplicable lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3229,13 +3247,15 @@ Los documentos con valor histórico podrán reproducirse total o parcialmente en
 
 Toda persona podrá solicitar a la Unidad de Información Pública del Ayuntamiento información contenida en los catálogos de los acervos de transferencia o concentración, en términos de la Ley de la Información Pública del Estado de Tamaulipas y del Reglamento respectivo, pudiendo solicitar al Ayuntamiento o al Presidente Municipal la expedición de copias certificadas de los documentos ahí contenidos una vez que haya sido autorizada su entrega por la Unidad.
 
-La solicitud deberá formularse y presentarse ante la Unidad de Información Pública del Ayuntamiento en los términos establecidos en la Ley de Información Pública del Estado de Tamaulipas, misma que deberá de responderse en un término no mayor de 10 días hábiles contados a partir de la fecha en que fue recibida por la Unidad.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+La solicitud deberá formularse y presentarse ante la Unidad de Información Pública del Ayuntamiento, observando las formalidades que al efecto establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, misma que deberá responderse en el término que establece el citado cuerpo legal, cuyo cómputo habrá de contar a partir de la fecha en que fue recibida por la Unidad.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 317.
 
-En la prestación de los servicios al público del Archivo General del Municipio, se estará a lo establecido en este Código, en la Ley de Información Pública del Estado, en la Ley de Ingresos del Municipio, y en los reglamentos aplicables.
+En la prestación de los servicios al público del Archivo General del Municipio, se estará a lo establecido en este Código, en la Ley de Transparencia y Acceso a la Información Pública de Tamaulipas y demás disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADA SU NUMERACION, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3327,7 +3347,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3714,3 +3734,19 @@ P.O. 12 DE FEBRERO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2008.
+
+DECRETO No. LX-29, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 49, 55 Y 171 DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2008.
+
+DECRETO No. LX-32, POR EL QUE SE REFORMAN LOS ARTICULOS 49, 72, 135, 167, 187, 298, 299, 308, 315 AL 317 DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
