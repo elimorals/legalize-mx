@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2008-04-30"
+last_updated: "2008-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1941,15 +1941,19 @@ III. Desvíe, derive o haga uso de aguas propias o ajenas en los casos en que la
 
 IV. Ejecute actos de dominio que lesionen derechos vigentes del usuario legítimo de dichas aguas.
 
-Las sanciones se impondrán aunque el derecho a la posesión sea dudoso o esté en disputa.
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2008)</small>
+
+Las sanciones se impondrán aunque el derecho a la posesión sea dudoso o esté en disputa. Para el caso de los bienes inmuebles propiedad del Gobierno del Estado o los Municipios, bastará acreditar por éstos su calidad de propietario de los mismos para presumir su posesión.
+
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2008)</small>
 
 ###### Artículo 223.
 
-Si el despojo se realiza por dos o más personas, además de las sanciones señaladas en el artículo precedente, se impondrán a los autores intelectuales o a quienes induzcan, organicen o dirijan invasiones, de tres a ocho años de prisión y multa hasta de quinientos días de salario.
+Si el despojo se realiza sobre uno o más predios que formen parte de la reserva territorial del Estado, o de los Municipios, se impondrán de tres a ocho años de prisión y multa hasta de quinientos días de salario mínimo.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+A quienes, en forma reiterada, se dediquen a promover el despojo, se les aumentarán las sanciones en una mitad del máximo de las señaladas anteriormente.
 
-A quienes, en forma reiterada, se dediquen a promover despojo se les aumentarán las sanciones en una mitad de las señaladas anteriormente.
+La misma pena se aplicará a los autores intelectuales o a quienes induzcan, organicen o dirijan invasiones, y se podrá aumentar la pena en una tercera parte del máximo, si son responsables del ilícito servidores públicos o el despojo se realiza con fines de lotificación o comercialización de la tierra.
 
 ###### Artículo 224.
 
@@ -3252,3 +3256,9 @@ G.O. 30 DE ABRIL DE 2008.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE JUNIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
