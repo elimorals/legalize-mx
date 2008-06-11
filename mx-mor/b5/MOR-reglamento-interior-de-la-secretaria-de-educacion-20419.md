@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-educacion-20419"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-07"
-last_updated: "2001-03-07"
+last_updated: "2008-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de marzo de 2001.
 
@@ -396,3 +398,19 @@ SECRETARIO DE EDUCACIÓN
 M. EN C. FRANCISCO RAMÓN TALLABS ORTEGA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE JUNIO DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Educación del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" número cuatro mil ciento seis, de fecha siete de marzo de dos mil uno.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las unidades administrativas cuya denominación se modifica o cambian de adscripción, serán continuados en su tramitación por la unidad administrativa que corresponda.
+
+CUARTO. La Secretaría de Educación del Estado de Morelos, por conducto de la Unidad Administrativa correspondiente, contará con un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente reglamento para proponer al titular del Poder Ejecutivo Estatal las modificaciones y reformas a su Programa Operativo Anual.
+
+QUINTO. Los Manuales de organización y de Políticas y Procedimientos deberán expedirse en un plazo no mayor a sesenta días; en tanto se expiden, el titular de la Dependencia queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación del presente ordenamiento legal.
+
+SEXTO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Reglamento.
