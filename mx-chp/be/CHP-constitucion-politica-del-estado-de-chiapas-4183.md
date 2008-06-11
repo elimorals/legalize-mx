@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2007-11-29"
+last_updated: "2008-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2008.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -374,6 +374,10 @@ VII. Exigir a los servidores públicos electos mediante el voto popular que cump
 > <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 VIII. Que los actos de los Poderes del Estado sean transparentes y públicos.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+La transparencia del servicio público y el derecho a la información serán garantizados por el Estado, en los términos de la legislación de la materia.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -733,7 +737,7 @@ Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias qu
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
+### CAPITULO SEGUNDO. DE LA MAGISTRATURA SUPERIOR DEL ESTADO
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
@@ -811,7 +815,7 @@ XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
+XXIX.- Para la revisión de la Cuenta Publica que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -973,11 +977,11 @@ XII. Las demás previstas en esta Constitución.
 
 Se deposita el Poder Ejecutivo en un ciudadano que se denominará "GOBERNADOR DEL ESTADO DE CHIAPAS".
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 34.
 
-La elección de gobernador se realizará a través de elecciones auténticas, periódicas y mediante sufragio universal, libre, secreto y directo y en los términos que disponga el Código Electoral.
+La elección de Gobernador se realizará a través de elecciones auténticas, periódicas y mediante sufragio universal, libre, secreto, directo y en los términos que disponga el Código de Elecciones y Participación Ciudadana.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
@@ -1013,7 +1017,7 @@ VII. No haber sido condenado por delito que amerite pena corporal de más de un 
 
 VIII. No tener parentesco por consanguinidad en los cuatro primeros grados, ni por afinidad en los dos primeros o relación conyugal con el Gobernador en ejercicio.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
 
 ## TITULO QUINTO BIS. DEL MINISTERIO DE JUSTICIA Y DE LA COMISION DE LOS DERECHOS HUMANOS
 
@@ -1025,9 +1029,7 @@ VIII. No tener parentesco por consanguinidad en los cuatro primeros grados, ni p
 
 ###### ARTICULO 36.
 
-El Gobernador electo por sufragio popular en elecciones ordinarias, entrará a ejercer su cargo el ocho de diciembre del año de la elección, y durará en él seis años.
-
-Las Elecciones ordinarias para Gobernador, a que se refiere el párrafo anterior, se llevarán a cabo el mismo día en que se efectúen las elecciones ordinarias para elegir Presidente de los Estados Unidos Mexicanos.
+El Gobernador electo en votaciones ordinarias, a través del sufragio popular, durará en el cargo seis años, el cual ejercerá a partir del 8 de diciembre del año de la elección.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1041,17 +1043,17 @@ El Gobernador, al tomar posesión del cargo rendirá ante el Congreso del Estado
 
 Existirá falta absoluta del Gobernador del Estado, cuando su ausencia ocurra:
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE JUNIO DE 2008)</small>
 
-Cuando la falta absoluta del Gobernador del Estado ocurra en los dos primeros años del período respectivo, si el Congreso estuviere en funciones se constituirá en Colegio Electoral inmediatamente, y con la concurrencia de cuando menos las dos terceras partes del numero total de sus miembros, nombrará en escrutinio secreto y por mayoría simple de votos, un Gobernador Interino; el mismo Congreso expedirá la Convocatoria para elecciones en un plazo no mayor de diez días naturales, contados a partir del siguiente al del nombramiento de Gobernador Interino.
+Cuando la falta absoluta del Gobernador del Estado ocurra en los cinco primeros años del período respectivo, si el Congreso estuviere en funciones, se constituirá en Colegio Electoral inmediatamente, y con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría calificada de las dos terceras partes de sus miembros, un Gobernador Interino; el mismo Congreso expedirá la convocatoria para elecciones en un plazo no mayor de diez días naturales, contados a partir del siguiente al del nombramiento de Gobernador Interino.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 Si el Congreso estuviere en receso, la Comisión Permanente nombrará por mayoría simple, desde luego, un Gobernador Provisional y convocará en un plazo de 10 días naturales a Sesión Extraordinaria a fin de que el Congreso designe al Gobernador Interino y expida la Convocatoria para elección de Gobernador.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE JUNIO DE 2008)</small>
 
-Cuando la falta absoluta del Gobernador ocurriere en los últimos cuatro años del período respectivo, si el Congreso se encontrare en sesiones, se elegirá con la concurrencia de cuando menos las dos terceras partes del numero total de sus miembros y por mayoría simple de los presentes, en escrutinio secreto, al Gobernador Substituto, quien deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará, en un plazo de cinco días naturales al Congreso a sesión extraordinaria, para que, erigido en Colegio Electoral, haga la designación del Gobernador Substituto.
+Cuando la falta absoluta del Gobernador ocurriere en el último año del período respectivo, si el Congreso se encontrare en sesiones, se elegirá con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros y por mayoría calificada de dos terceras partes de los presentes, en escrutinio secreto al Gobernador Substituto, quien deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará, en un plazo de cinco días naturales al Congreso a sesión extraordinaria, para que, erigido en Colegio Electoral, haga la designación del Gobernador Substituto.
 
 > <small>(REFORMADO PRIMER PARRAFO, 7 DE ENERO DE 1994)</small>
 
@@ -1435,13 +1437,15 @@ Esta Constitución y la Ley respectiva garantizarán la estabilidad e independen
 
 Ningún funcionario del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo el de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 50.
 
 La Magistratura Superior del Estado se integra por un Tribunal Constitucional, y el número de Salas Regionales Colegiadas por materia y mixtas que determine el Consejo de la Magistratura, de acuerdo con las atribuciones y facultades señaladas en esta Constitución y la Ley respectiva.
 
-El Tribunal Constitucional se integra por tres magistrados nombrados por el Congreso del Estado, o la Comisión Permanente en su caso, a propuesta del titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes. La designación se hará dentro de un plazo que no excederá de siete días hábiles respecto de aquel en que fue presentada la propuesta por el titular del Poder Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de magistrado, la persona que haya sido propuesta por el titular del Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+El Tribunal Constitucional se integra por cinco magistrados nombrados por el Congreso del Estado, o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus-integrantes. La designación se hará dentro de un plazo que no excederá de siete días hábiles respecto de aquel en que fue presentada la propuesta por el titular del Poder Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de Magistrado, la persona que haya sido propuesta por el titular del Ejecutivo del Estado.
 
 Los Magistrados del Tribunal Constitucional durarán en su encargo nueve años y no podrán ser designados para un siguiente periodo.
 
@@ -1901,7 +1905,7 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 004, PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2007, EL ANTERIOR SEGUNDO PARRAFO QUEDA INMERSO EN EL PRIMERO DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 004 PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2007, EL ANTERIOR SEGUNDO PARRAFO QUEDA INMERSO EN EL PRIMERO DEL PRESENTE ARTICULO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
@@ -2449,7 +2453,13 @@ P.O. 19 DE NOVIEMBRE DE 1952.
 
 Toda persona gozará de las garantías individuales y sociales que otorga la Constitución Política de los Estados Unidos Mexicanos y que la presente Constitución reitera; garantías que no podrán restringirse o suspenderse, sino en los casos y las condiciones que la primera de dichas Constituciones establece.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+Las niñas y niños de la Entidad, deben disponer de la libertad de crecer en un ambiente de salud, paz y dignidad. Tienen derecho a estar informados, a ser escuchados y disfrutar de una relación familiar, basada en el respeto a la dignidad y el valor de cada uno, independientemente de su raza, color, género, idioma, religión, opiniones, orígenes, riqueza, nacimiento o capacidad; así como, a la identidad, a la nacionalidad y a la plena participación en la vida familiar, cultural y social.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+El Estado garantizará que los habitantes mayores de 64 años, reciban una aportación económica para complementar su manutención, en los términos y condiciones del acuerdo que para tal efecto emita el Ejecutivo.Defensa de los Derechos Indígenas.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2683,7 +2693,7 @@ Quedan derogadas todas las leyes, decretos, circulares, reglamentos o cualesquie
 
 El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO SEXTO.
 
@@ -3039,7 +3049,7 @@ P.O. 17 DE AGOSTO DE 2003.
 
 Primero.- El presente Decreto de reformas a la Constitución iniciará su vigencia al siguiente día a su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Orgánica del Congreso y la Ley del Órgano de Fiscalización Superior.
+Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Orgánica del Congreso y la Ley del Organo de Fiscalización Superior.
 
 Tercero.- En tanto se crea la Nueva Ley de Fiscalización Superior del Estado, la actual Entidad de Fiscalización Superior continuará ejerciendo las atribuciones conforme a la ley que actualmente le rige.
 
@@ -3270,3 +3280,11 @@ Dentro del Código de Elecciones y Participación Ciudadana, se regulará la est
 En tanto se expide el Código de cita, seguirán vigentes las disposiciones que no se contrapongan, con el presente Decreto.
 
 Octavo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JUNIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La designación de los nuevos magistrados que integrarán el Tribunal Constitucional de la Magistratura Superior del Estado, se hará en un plazo que no exceda de treinta días hábiles posteriores a la entrada en vigencia del presente Decreto, en los términos establecidos por el artículo 50, de esta Constitución.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
