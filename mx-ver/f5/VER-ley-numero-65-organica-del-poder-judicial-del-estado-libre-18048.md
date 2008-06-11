@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2007-08-15"
+last_updated: "2008-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -121,7 +121,9 @@ XIII. Determinar y publicar los precedentes obligatorios, sustentados en cinco r
 
 XIV. Resolver los conflictos de competencia que surjan entre los tribunales y juzgados;
 
-XV. Adscribir a los magistrados a las salas correspondientes;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
+
+XV. Adscribir a los Magistrados a las Salas y Tribunales correspondientes y llamar a los que deban integrar Sala o Tribunal;
 
 XVI. Administrar con autonomía su presupuesto, el cual se manejará bajo una sola unidad administrativa, y destinará, en renglones separados, los recursos para los Tribunales, Juzgados y órganos que lo integran;
 
@@ -263,11 +265,11 @@ V. Admitir los medios de impugnación y, en su caso, los escritos de terceros in
 
 VI. Someter a la consideración de sus respectivos órganos, cuando proceda, la acumulación de las impugnaciones así como la procedencia de la conexidad, en los términos de las leyes aplicables;
 
-VII. Participar en los programas de capacitación del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado y;
+VII. Participar en los programas de capacitación del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado y (sic);
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
 
-VIII. Participar en los programas de visitas a los Juzgados del Estado implementados por el Consejo de la Judicatura; y
+VIII. Participar, cuando no integren Sala o Tribunal, en los programas de visitas a los Juzgados del Estado, implementados por el Consejo de la Judicatura; y (sic)
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -285,11 +287,11 @@ El Congreso del Estado o, en sus recesos, la Diputación Permanente, resolverán
 
 En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de noventa días naturales durante el período de un año; excepto cuando se trate de cursos de especialización en materia jurídica, cuya duración no exceda de seis meses.
 
-> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2008)</small>
 
 ###### Artículo 19.
 
-En sus ausencias o licencias temporales y para efectos de integrar Sala, los Magistrados serán suplidos por el Secretario de Acuerdos de la misma. A falta o imposibilidad de éste, por un Secretario de Estudio y Cuenta de la propia Sala, en cuyo caso no se exigirá el requisito previsto por el artículo 4, fracción II, de esta ley.
+En sus ausencias o licencias temporales y para efectos de integrar Sala o Tribunal, los Magistrados serán suplidos por el Magistrado que designe el Pleno del Tribunal, de entre los que no se encuentren integrando Sala o Tribunal.
 
 ###### Artículo 20.
 
@@ -316,6 +318,12 @@ II. El Presidente del Tribunal Superior de Justicia lo comunicará al Gobernador
 III. El Titular del Poder Ejecutivo del Estado, en términos de lo dispuesto por el artículo 59 de la Constitución local, hará la propuesta del Magistrado del Tribunal de que se trate; y
 
 IV. El Congreso del Estado con base en lo dispuesto en el artículo 33, fracción XIX, de la Constitución del Estado, previa comparecencia de la persona propuesta, hará el nombramiento del Magistrado. En los recesos del Congreso, la Diputación Permanente, hará el nombramiento provisional, en tanto el Congreso se reúne y da la aprobación definitiva.
+
+> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2008)</small>
+
+###### Artículo 22 Bis.
+
+Los Magistrados, en tanto no integren Sala o Tribunal, tendrán a su cargo la función de Visitadores Judiciales, con la atribución de inspeccionar el desempeño de los Jueces, Secretarios, Mediadores, Conciliadores y demás empleados de los juzgados, así como el funcionamiento de los mismos, de acuerdo al programa de visitas que implemente el Consejo de la Judicatura y los lineamientos que emita dicho órgano colegiado, sin perjuicio de las atribuciones dispuestas en la Ley para el propio Consejo, con quien deberán coordinarse para el ejercicio de su labor.
 
 ### CAPÍTULO V. Del Personal de los Tribunales y Salas del Poder Judicial
 
@@ -453,11 +461,11 @@ Los auxiliares de la administración de justicia cooperarán con las autoridades
 
 ### CAPÍTULO I. De su Organización y Funcionamiento
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2008)</small>
 
 ###### Artículo 32.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con veintinueve magistrados.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con treinta y tres Magistrados.
 
 > <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
@@ -569,9 +577,9 @@ XIX. Presentar ante el Congreso las iniciativas de leyes o decretos, en todo lo 
 
 XX. Elegir a su Presidente en términos de esta ley, así como conocer y aceptar, en su caso, las licencias o renuncia a dicho cargo; asimismo, conceder licencias que no excedan de diez días naturales a los Magistrados del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
 
-XXI. Adscribir a los Magistrados a las Salas correspondientes;
+XXI. Adscribir a los Magistrados a las Salas y Tribunales correspondientes y llamar a los que deban integrar Sala o Tribunal;
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -963,7 +971,11 @@ I. Sala Regional. Zona Norte, con residencia en Tuxpan, Veracruz, con jurisdicci
 
 II. Sala Regional. Zona Centro, con residencia en Xalapa, Veracruz, con jurisdicción en los Distritos Judiciales de: Misantla, Jalacingo, Coatepec, Xalapa, Huatusco, Córdoba, Orizaba, Zongolica y Veracruz.
 
-III. Sala Regional. Zona Sur, con residencia en Acayucan, Veracruz, con jurisdicción en los Distritos Judiciales de: Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
+
+lII. Sala Regional. Zona Sur, con residencia en Coatzacoalcos, Veracruz, con jurisdicción en los Distritos Judiciales de: Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos.
 
 ###### Artículo 55.
 
@@ -1653,9 +1665,9 @@ XII. Investigar y determinar la responsabilidad y sanciones de los servidores p�
 
 XIII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos y obligaciones de los órganos y servidores públicos del Poder Judicial, con excepción del Tribunal Superior de Justicia, durante el ejercicio presupuestal correspondiente;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
 
-XIV. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado;
+XIV. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado, así como emitir lineamientos generales e implementar programas relativos a estas materias.
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1701,15 +1713,15 @@ XXIV. Remitir a los presidentes de los tribunales del poder judicial las solicit
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXV. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial; y
+XXV. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial; y (sic)
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXVI. Previa garantía de audiencia, imponer multa de diez a treinta días de salario mínimo general vigente en la capital del Estado, a quien denoste a un servidor público del Poder Judicial, en cualquier promoción que presente ante el Consejo de la Judicatura.
+XXVI. Previa garantía de audiencia, imponer multa de diez a treinta días de salario mínimo general vigente en la capital del Estado, a quien denoste a un servidor público del Poder Judicial, en cualquier promoción que presente ante el Consejo de la Judicatura;
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXVII. Aceptar donaciones o legados puros y simples en favor de los órganos del Poder Judicial; y
+XXVII. Aceptar donaciones o legados puros y simples en favor de los órganos del Poder Judicial; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE JULIO DE 2007)</small>
 
@@ -1771,11 +1783,23 @@ Siempre que el Consejo estime que sus acuerdos sean de interés general, deberá
 
 El Consejo de la Judicatura, con base en las atribuciones que le otorga esta ley, tendrá las direcciones, jefaturas de departamento y oficinas estrictamente necesarias para su funcionamiento, que fije el presupuesto y con la distribución de competencias que señale su reglamento.
 
+> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2008)</small>
+
+El Poder Judicial del Estado contará con una Contraloría General, que estará a cargo de un Contralor General, quien será nombrado y removido por el Consejo de la Judicatura, y sus percepciones serán acordes con las atribuciones y el grado de responsabilidad que se fijen en el Reglamento Interior de dicho órgano. La Contraloría General contará además con personal del perfil adecuado para el cumplimiento de su función, y su organización se determinará en el Reglamento Interior del Consejo de la Judicatura, conforme a lo dispuesto por esta ley y demás ordenamientos aplicables.
+
 Los titulares de dichos órganos deberán contar con título profesional expedido por autoridad o institución legalmente facultada para ello, relativo a la función que desempeñen
 
 > <small>(F. DE E., G.O. 17 DE AGOSTO DE 2000)</small>
 
 El titular del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado, deberá cubrir los mismos requisitos que para ser Magistrado.
+
+> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2008)</small>
+
+###### Artículo 111 Bis.
+
+El Contralor General deberá ser mexicano, en ejercicio de sus derechos, tener título de Licenciado en Derecho, Contaduría Pública, Administración o Economía, expedido por autoridad o institución legalmente facultada para ello; mayor de treinta y cinco años de edad, de reconocida buena conducta y contar cuando menos con cinco años de experiencia profesional.
+
+La Contraloría General del Poder Judicial, como órgano auxiliar del Consejo de la Judicatura, tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, autoridades, servidores públicos y empleados del propio Poder Judicial, con excepción de aquéllas que correspondan expresamente al Tribunal Superior de Justicia.
 
 ###### Artículo 112.
 
@@ -2438,3 +2462,23 @@ Tercero. Los asuntos que se encuentren en trámite al momento de la entrada en v
 G.O. 15 DE AGOSTO DE 2007.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+
+G.O. 11 DE JUNIO DE 2008.
+
+DECRETO No. 250, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. Las reformas previstas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Conforme a lo dispuesto por el Capítulo IV, Título Segundo, de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, dentro de un plazo de sesenta días, a partir de la publicación del presente Decreto, deberán ser nombrados los Magistrados que integrarán el Tribunal Superior de Justicia, a fin de cumplir con el número de Magistrados previsto por el presente Decreto.
+
+Tercero. El Consejo de la Judicatura deberá nombrar al Titular de la Contraloría General del Poder Judicial y expedir el Reglamento Interior de dicho órgano, dentro de un término de treinta días, a partir del día de publicación del presente Decreto.
+
+G.O. 11 DE JUNIO DE 2008.
+
+DECRETO No. 251, POR EL QUE SE REFORMA EL ARTICULO 54 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. La presente reforma entrará en vigor a los quince días hábiles siguientes a su publicación en la Gaceta Oficial del estado.
+
+Segundo. En tanto entra en vigor el presente Decreto, el Consejo de la Judicatura del Poder Judicial del Estado, proveerá todo lo necesario para el traslado y habilitación de la nueva sede de la Sala Regional Zona Sur del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Veracruz.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
