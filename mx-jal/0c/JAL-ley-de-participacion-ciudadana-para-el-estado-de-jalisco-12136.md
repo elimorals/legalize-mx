@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-participacion-ciudadana-para-el-estado-de-jalisco-12136"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2004-06-24"
+last_updated: "2008-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -447,9 +447,11 @@ Los ayuntamientos o concejos municipales publicarán a nivel local, a través de
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 44.
 
-Para efectos de esta ley, se entiende por Iniciativa Popular, la facultad que tienen los ciudadanos de presentar ante el órgano legislativo de la entidad los proyectos de ley o código, o de reforma a éstos, para que sea estudiada, analizada, modificada y en su caso aprobada.
+Para efecto de esta ley, se entiende por iniciativa popular la facultad que tienen los ciudadanos de presentar ante el órgano legislativo de la entidad, iniciativas de ley, para que sean estudiadas, analizadas y dictaminadas de conformidad con el procedimiento previsto por la Ley Orgánica del Poder Legislativo del estado de Jalisco.
 
 ###### Artículo 45.
 
@@ -459,9 +461,11 @@ Toda Iniciativa Popular que sea desechada, solo se podrá volver a presentar una
 
 Para la aprobación de un dictamen que contenga una Iniciativa Popular, se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado en el Título referente a Las Iniciativas.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 47.
 
-Toda Iniciativa Popular que se presente deberá ir acompañada de su exposición de motivos.
+Toda Iniciativa popular que se presente deberá ir acompañada de su exposición de motivos, cumpliendo con los requisitos que para las iniciativas establece la Ley Orgánica del Poder Legislativo del estado de Jalisco.
 
 ###### Artículo 48.
 
@@ -473,11 +477,11 @@ Para lo no establecido en el presente título se estará a lo dispuesto por la L
 
 ### CAPÍTULO II. DE LA MATERIA DE LA INICIATIVA POPULAR
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 50.
 
-Es materia de Iniciativa Popular la de Ley que otorgue derechos o imponga obligaciones a la generalidad de las personas, quedando excluidas las de carácter contributivo, las leyes orgánicas de los poderes del estado, de los organismos públicos autónomos, las de creación de los organismos públicos descentralizados y las de creación de fideicomisos públicos.
+Es materia de iniciativa popular la creación, reforma, adición, derogación o abrogación de normas generales, impersonales y abstractas que tienen como fin otorgar derechos o imponer obligaciones a la generalidad de las personas, quedando excluidas las materias hacendaria, presupuestal y económica y las leyes orgánicas de los poderes del Estado, de los organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos.
 
 ###### Artículo 51.
 
@@ -545,6 +549,12 @@ Una vez recibida la Iniciativa Popular, el pleno del Congreso del Estado la turn
 
 El Congreso del estado tiene un plazo de dos meses para aprobar o rechazar la iniciativa a partir del día en que fue recibida por las comisiones, siendo éste término improrrogable.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 59 Bis.
+
+Los ayuntamientos pueden establecer la iniciativa popular en sus respectivos ordenamientos municipales, pudiéndose regir para tal efecto por lo dispuesto en el presente título.
+
 ## TITULO QUINTO. DE LOS RECURSOS
 
 ###### Artículo 60.
@@ -600,3 +610,7 @@ P.O. 28 DE JULIO DE 2001.
 P.O. 24 DE JUNIO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE JUNIO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
