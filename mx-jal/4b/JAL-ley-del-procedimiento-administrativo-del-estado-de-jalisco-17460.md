@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2007-02-24"
+last_updated: "2008-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -209,9 +209,11 @@ En todo procedimiento que sea substanciado ante las autoridades administrativas 
 
 Una vez transcurrido el plazo, si la autoridad administrativa no ha emitido la resolución correspondiente opera la afirmativa o la negativa ficta, de conformidad con lo que establece el presente título.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 22.
 
-La autoridad que conozca y resuelva el trámite derivado de la presunción de la afirmativa o negativa ficta, debe notificar de oficio a la autoridad competente o al superior jerárquico del servidor público que dio origen al silencio administrativo, la existencia de la misma para que en su caso se apliquen las sanciones administrativas establecidas en la Ley de Responsabilidades del Estado de Jalisco.
+La autoridad que de acuerdo con la presente ley conozca de la operación de la afirmativa o negativa ficta, así como cualquier servidor público o administrativo que tenga conocimiento de esta situación, deberán notificar de oficio a la autoridad competente o al superior jerárquico del servidor público que dio origen al silencio administrativo para que, en su caso, se incoen los procedimientos de responsabilidades establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco o en la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus municipios, según corresponda.
 
 ### Capítulo Segundo. De la Negativa Ficta
 
@@ -219,17 +221,19 @@ La autoridad que conozca y resuelva el trámite derivado de la presunción de la
 
 La negativa ficta opera ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por esta ley o los ordenamientos jurídicos aplicables al caso concreto; se entiende que se resuelve lo solicitado por el particular en sentido contrario a sus pretensiones.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 24.
 
-Cuando la petición del administrado verse sobre un acto declarativo y salvo que en las disposiciones específicas se establezca un plazo diverso, no puede exceder de quince días hábiles el tiempo para que la autoridad administrativa resuelva lo que corresponda.
+Cuando la petición del administrado verse sobre un acto declarativo y salvo que en las disposiciones específicas se establezca un plazo diverso, no puede exceder de diez días hábiles el tiempo para que la autoridad administrativa resuelva lo que corresponda.
 
-Si la autoridad no emite resolución transcurrido el plazo establecido en el párrafo anterior, el administrado deberá acudir ante el superior jerárquico a presentar un escrito pidiendo el pronunciamiento expreso respecto al acto solicitado, teniendo la autoridad un plazo de tres días hábiles más para emitir resolución.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 25.
 
-Cuando la petición del administrado verse sobre un acto constitutivo y salvo que en las disposiciones específicas se establezca otro plazo, no puede exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda.
+Cuando la petición del administrado verse sobre un acto constitutivo y salvo que en las disposiciones específicas se establezca otro plazo, no puede exceder de dos meses el tiempo para que la autoridad administrativa resuelva lo que corresponda.
 
-Si la autoridad no emite resolución transcurrido el plazo establecido en el párrafo anterior, el administrado deberá acudir ante el superior jerárquico a presentar un escrito pidiendo el pronunciamiento expreso respecto al acto solicitado, teniendo la autoridad un plazo de quince días más para emitir resolución.
+Cuando de acuerdo a lo establecido en la presente ley para la tramitación de un acto constitutivo, la autoridad deba acordar la apertura del periodo de prueba, el plazo para que la autoridad administrativa resuelva la petición se ajustará a lo establecido en el artículo 116 de esta ley.
 
 ###### Artículo 26.
 
@@ -237,7 +241,7 @@ Transcurrido el plazo mencionado en los artículos 24 y 25 de esta ley sin que s
 
 ###### Artículo 27.
 
-El plazo inicia a partir del día siguiente de la recepción de la solicitud excepto cuando la autoridad hubiera requerido al administrado de algún documento o requisito que éste omitió presentar, caso en que el plazo inicia a partir del cumplimiento de dichos requisitos.
+(DEROGADO, P.O. 12 DE JUNIO DE 2008)
 
 ###### Artículo 28.
 
@@ -255,25 +259,35 @@ Cuando se acredite y se declare que opera la afirmativa ficta, se entiende que s
 
 Para acreditar y declarar que opera la afirmativa ficta, invariablemente es necesario asegurarse que a la petición se anexaron las constancias y documentos, que acrediten el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, así como que la petición se presentó ante la autoridad competente.
 
+(REFORMADO, P.O. 12 DE JUNIO DE 2008) (F. DE E., P.O. 2 DE AGOSTO DE 2008)
+
 ###### Artículo 31.
 
-Cuando el promovente solicite se emita un acto regulativo y salvo que en las disposiciones específicas se establezca otro plazo, no debe exceder de cuarenta días hábiles el plazo para que la autoridad administrativa resuelva lo que corresponda.
+Cuando el promovente solicite se emita un acto regulativo y salvo que en las disposiciones específicas se establezca otro plazo, no debe exceder de treinta días hábiles el plazo para que la autoridad administrativa resuelva lo que corresponda. Dicha resolución se tendrá por emitida dentro del plazo cuando la autoridad la publique por lista, para su posterior notificación.
+
+Cuando de acuerdo a lo establecido en la presente ley para la tramitación de un acto regulativo, la autoridad deba acordar la apertura del periodo de prueba, el plazo para que la autoridad administrativa resuelva la petición se ajustará a lo establecido en el artículo 111 de esta ley.
 
 ###### Artículo 32.
 
-Si la autoridad incurre en omisión y no emite resolución una vez concluido el plazo establecido en el artículo anterior:
+(DEROGADO, P.O. 12 DE JUNIO DE 2008)
 
-I. El promovente puede acudir ante el superior jerárquico de la autoridad omisa a pedir por escrito el pronunciamiento expreso respecto al acto solicitado.
-
-II. Si no existe superior jerárquico respecto de la autoridad omisa, el promovente puede presentar el escrito de petición a que se refiere la fracción anterior, ante la misma autoridad.
-
-III. Si la autoridad omisa o su superior jerárquico se niega a recibir el escrito de petición, el promovente puede acudir ante el Tribunal de lo Administrativo y consignar la solicitud, conforme lo previsto en el párrafo segundo del artículo 7 de esta Ley; y
-
-IV. En todo caso y a partir de la fecha en que la autoridad reciba el escrito de petición, ésta debe emitir la resolución en un plazo improrrogable de diez días hábiles.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 33.
 
-Si transcurre el plazo previsto en la fracción IV del artículo que antecede sin que se haya emitido legalmente el acto regulador operará la afirmativa ficta, previa declaración del Tribunal de lo Administrativo, mediante el procedimiento especial previsto en la Ley de Justicia Administrativa.
+Transcurrido el plazo a que hace referencia el artículo 31 de la presente ley sin que se haya emitido el acto regulador, operará la afirmativa ficta.
+
+Operada la afirmativa ficta, el administrado podrá iniciar la actividad respecto de la cual realizó su solicitud, siempre y cuando le notifique a la autoridad administrativa silente del inicio de sus actividades.
+
+Lo anterior no exime al particular de cumplir con las disposiciones jurídicas que rijan dicha actividad, así como tampoco lo releva del cumplimiento de las obligaciones fiscales originadas por la autorización de la misma ni de las que sean consecuencia de su ejercicio, las cuales deberá pagar directamente a la autoridad al notificarle el inicio de sus actividades, mediante la entrega de! certificado de depósito de las contribuciones consignadas ante la Secretaría de Finanzas que, en su caso, se generen de acuerdo con las leyes de ingresos respectivas.
+
+Los originales de los acuses de recibido tanto de la solicitud de la autorización tramitada, como de la notificación por escrito señalada en el segundo párrafo del presente artículo además del certificado de depósito de las contribuciones correspondientes, en conjunto, serán considerados como la autorización administrativa para realizar la actividad solicitada.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 33
+
+Bis. Las autorizaciones a las que se refiere el artículo anterior podrán ser combatidas ante el Tribunal de lo Administrativo, en términos de lo dispuesto por el artículo 33 de la Ley de Justicia Administrativa del estado de Jalisco.
 
 ###### Artículo 34.
 
@@ -318,6 +332,26 @@ VIII. El lugar, la fecha y la firma del interesado o en su caso, la de su repres
 ###### Artículo 37.
 
 En ningún caso se deben rechazar los escritos que se presenten en las unidades de recepción de las autoridades competentes. Cuando la autoridad competente considere que la solicitud o escrito inicial no reúne todos los requisitos previstos por el artículo 36 de esta ley, prevendrá al interesado por escrito y una sola vez para que subsane las omisiones en un plazo de cinco días hábiles, a partir de que surta efectos la notificación del requerimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 37
+
+Bis. Los plazos para que la autoridad resuelva un procedimiento administrativo correrán a partir del día hábil siguiente al de la recepción de la solicitud, y podrán ampliarse hasta por un plazo único no mayor de treinta días hábiles, mediante acuerdo fundado y motivado de la autoridad, salvo que en otras disposiciones se establezcan plazos distintos.
+
+La ampliación de los plazos a que se refiere el párrafo anterior sólo procederá cuando:
+
+I. La autoridad requiera al administrado para entregar la documentación o cumplir los requisitos que hubiera omitido al realizar su solicitud;
+
+II. La autoridad solicite informes de autoridades distintas a las que ordinariamente consulta;
+
+III. La autoridad requiera realizar estudios técnicos o análisis contradictorios;
+
+IV. Sea necesario abrir un periodo probatorio, o
+
+V. Concluya el término de la administración pública a la que pertenezca la autoridad que deba resolver la solicitud.
+
+En el caso establecido en la fracción I de este artículo, el administrado contará con un plazo de cinco días hábiles para entregar la documentación o cumplir con los requisitos que hubiera omitido. Transcurrido este plazo, si los requisitos no hubieren sido satisfechos o los documentos no hubieren sido entregados, la autoridad desechará de plano la solicitud de que se trate.
 
 ###### Artículo 38.
 
@@ -611,13 +645,13 @@ Si del resultado de la inspección se determina la comisión de alguna infracci�
 
 ### Capítulo Séptimo. De los Plazos
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 77.
 
-Las actuaciones y diligencias previstas en esta ley se deben practicar únicamente en días y horas hábiles, salvo las visitas de verificación que pueden practicarse en cualquier tiempo.
+Las actuaciones y diligencias previstas en esta ley se deben practicar únicamente en días y horas hábiles, salvo las visitas de verificación, que pueden practicarse en cualquier tiempo.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
-
-Para los efectos de esta ley se consideran días inhábiles: los sábados y domingos; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; 1º. Y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral; así como los días en que tengan vacaciones generales las autoridades competentes o aquellos cuando se suspendan las labores, los cuales deben hacer del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, mismos que se deberán publicar en los medios escritos oficiales de divulgación.
+Para los efectos de esta ley, se consideraran días inhábiles, por regla general: los sábados y domingos; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1.° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federales y local electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral; así como los días en que tengan vacaciones generales las autoridades competentes o aquellos cuando se suspendan las labores, los cuales deben hacer del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, mismos que se deberán publicar en los medios escritos oficiales de divulgación; así mismo se podrán practicar visitas de inspección en días y horas inhábiles, cuando las dependencias operativas así lo requieran y de acuerdo a las funciones que desempeñen.
 
 ###### Artículo 78.
 
@@ -633,9 +667,11 @@ Los plazos establecidos por períodos se computan todos los días; cuando se fij
 
 Si el último día del plazo o la fecha determinada son días inhábiles o las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, se prorrogará el plazo hasta el siguiente día hábil.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 81.
 
-La autoridad puede de oficio o a petición de parte interesada, habilitar días y horas inhábiles, en caso de urgencia o de existir causa justificada o cuando la persona con quien se vaya a practicar la diligencia realice actividades objeto de investigación en tales horas.
+La autoridad puede, de oficio o a petición de parte interesada, habilitar días y horas inhábiles en caso de que se ponga en peligro la seguridad, la legítima convivencia comunitaria de los ciudadanos, la salud, el medio ambiente, o se causen daños a terceros y se altere el orden público, o cuando la persona con quien se vaya a practicar la diligencia realice actividades objeto de investigación en tales horas.
 
 ### Capítulo Octavo. De las Notificaciones
 
@@ -789,9 +825,11 @@ Cuando el objeto en el procedimiento sea producir un acto declarativo, la inicia
 
 El escrito inicial se debe admitir de forma inmediata, así como las pruebas que se aporten; en todo caso se entregará constancia del inicio del procedimiento al particular.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 101.
 
-La autoridad administrativa, cuando la ley o reglamento específico en la materia no establezca un término menor, tendrá un plazo de quince días hábiles, contados a partir del momento en que se recibe la solicitud, para realizar los estudios adecuados y emitir la resolución correspondiente.
+La autoridad administrativa, cuando la ley o reglamento específico en la materia no establezca un término menor, tendrá un plazo de diez días hábiles, contados a partir del momento en que se recibe la solicitud, para realizar los estudios adecuados y emitir la resolución correspondiente.
 
 ### Capítulo Duodécimo. De las Generalidades de la Tramitación de los Actos Regulativos y Constitutivos
 
@@ -799,17 +837,31 @@ La autoridad administrativa, cuando la ley o reglamento específico en la materi
 
 La recepción de la promoción o solicitud, se sujetará a las disposiciones siguientes:
 
-I. El escrito inicial, así como las pruebas que aporte el particular, se deben admitir dentro de los tres días hábiles siguientes a su presentación, siempre y cuando cumpla con todos los requisitos previstos en esta ley.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
 
-II. Cuando el escrito inicial no contenga los requisitos a que se refiere el artículo 36 de este ordenamiento legal o no se anexen los documentos probatorios, la autoridad competente prevendrá por escrito y por una sola vez al interesado; o en su caso, al representante legal, para que dentro de un plazo de cinco días hábiles cumplimente la prevención.
+I. El escrito inicial, así como los (sic) pruebas que aporte el particular, se deben admitir de plano, siempre y cuando cumpla con todos los requisitos previstos en esta ley;
 
-III. De no subsanarse la irregularidad referida en la fracción que antecede, se tendrá por no presentada la solicitud.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
 
-IV. Contra el auto que la desecha, procede el recurso de revisión.
+II. Cuando el escrito inicial no contenga los requisitos a que se refiere el artículo 36 de este ordenamiento legal o no se anexen los documentos probatorios, la autoridad competente prevendrá por escrito y por una sola vez al interesado, o en su caso, al representante legal, para que dentro de un plazo de cinco días hábiles cumplimente la prevención;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
+
+III. De no subsanarse la irregularidad referida en la fracción que antecede, se tendrá por no presentada la solicitud;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
+
+IV. Bastará que la solicitud o petición sea clara y reúna los requisitos que las leyes u ordenamientos de la materia establezcan, para que se tenga por presentada, sin requerir de forma alguna el uso de formatos que no se encuentren previstos en la normatividad aplicable, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2008)</small>
+
+V. Contra el auto que la desecha, procede el recurso de revisión.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 103.
 
-Dentro de los tres días hábiles siguientes a la recepción del escrito inicial, la autoridad competente debe acordar el plazo para el desahogo de pruebas, el cual no podrá exceder de un máximo de quince días hábiles, señalando cuáles son las pruebas admitidas y el día y hora para el desahogo de las mismas.
+Dentro de los tres días hábiles siguientes a la recepción del escrito inicial, la autoridad competente debe acordar el plazo para el desahogo de pruebas, el cual no podrá exceder de un máximo de diez días hábiles, señalando cuáles son las pruebas admitidas y el día y hora para e! desahogo de las mismas.
 
 ###### Artículo 104.
 
@@ -887,21 +939,23 @@ En los procedimientos administrativos se admiten toda clase de pruebas, excepto 
 
 Contra la resolución que desecha alguna prueba, no procede recurso alguno, sin perjuicio de que esta circunstancia pueda alegarse al impugnarse la resolución administrativa.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 115.
 
-Con el escrito inicial se deben ofrecer las pruebas, siempre que la naturaleza del asunto así lo exija y lo prescriban las normas aplicables; cuando en los ordenamientos jurídicos aplicables, no esté detallado expresamente el debido proceso legal, se seguirá el procedimiento que se establece en esta ley.
+Con el escrito inicial se ofrecerán las pruebas correspondientes. Las pruebas supervenientes podrán ofrecerse hasta antes de que se dicte resolución en el procedimiento administrativo.
 
-Las pruebas supervenientes pueden ofrecerse hasta antes de que se dicte resolución en el procedimiento administrativo.
-
-Excepcionalmente, por causa de interés público o en forma plenamente justificada, la autoridad administrativa puede ampliar el periodo probatorio hasta por quince días. Debiendo dejar constancia en el expediente en la que funde y motive tal resolución.
+Sólo por causa de interés público y de forma fundada y motivada, la autoridad administrativa ampliará el periodo probatorio hasta por quince días.
 
 En el caso de que no se ofrezcan pruebas, la autoridad lo hará constar y resolverá el asunto con los elementos que existan en el expediente.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 116.
 
-Concluido el periodo para el desahogo de las pruebas, se pondrá el expediente a la vista de las partes para que en un plazo de cinco días hábiles manifiesten lo que a su derecho convenga.
+Concluido el periodo para el desahogo de las pruebas, se pondrá el expediente a la vista de las partes para que, en un plazo de tres días hábiles, manifiesten lo que a su derecho convenga.
 
-Al término de este plazo, comparezcan o no los interesados, la autoridad emitirá la resolución del asunto, dentro del plazo de treinta días hábiles.
+Al término de este plazo, comparezcan o no los interesados, la autoridad emitirá la resolución del asunto dentro del plazo de quince días hábiles, siempre y cuando el mismo no exceda de 100 fojas; si la cantidad de éstas es mayor, será de treinta días hábiles.
 
 Capítulo Decimoquinto
 
@@ -1105,6 +1159,30 @@ En un plazo de diez días hábiles, contados a partir de la admisión del recurs
 
 En caso contrario, se abrirá un periodo probatorio de cinco días hábiles para desahogar aquellas pruebas que así lo requieran. Al término de este periodo se debe dictar la resolución correspondiente.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 140
+
+Bis. La autoridad encargada de resolver el recurso de revisión podrá desecharlo por improcedente o sobreseerlo en los supuestos siguientes:
+
+I. Será desechado el recurso por improcedente en los siguientes supuestos:
+
+a) Contra actos que no sean materia del recurso de revisión.
+
+b) Contra actos que no afecten el interés jurídico del promovente.
+
+c) Cuando sea presentado fuera del plazo legal para su interposición.
+
+d) Cuando no se haya acompañado la documentación que acredite la personalidad del promovente.
+
+II. Será sobreseído el recurso de revisión en los siguientes supuestos:
+
+a) Cuando el promovente se desista expresamente.
+
+b) Por falta de objeto, materia o existencia del acto reclamado.
+
+c) El promovente interponga el medio de defensa legal por el mismo acto ante el Tribunal de lo Administrativo.
+
 ###### Artículo 141.
 
 En contra de la resolución que resuelve el recurso de revisión interpuesto, procede el juicio ante el Tribunal de lo Administrativo.
@@ -1177,7 +1255,9 @@ La administración puede imponer multas reiteradas por periodos suficientes para
 
 ## TÍTULO SEXTO. DE LA MEJORA REGULATORIA
 
-### Capítulo Único. De la mejora regulatoria
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 12 DE JUNIO DE 2008)</small>
+
+### Capítulo I. De la Mejora Regulatoria
 
 ###### Artículo 154.
 
@@ -1186,6 +1266,38 @@ Las dependencias y organismos estatales y municipales, dentro de la esfera de su
 Para tal efecto, (sic) titular del Poder Ejecutivo del Estado y los ayuntamientos deberán expedir los reglamentos, decretos, circulares y demás ordenamientos que estimen pertinentes, a fin de establecer reglas claras y sencillas que reduzcan la discrecionalidad de las autoridades administrativas.
 
 Asimismo, el gobierno del Estado y los ayuntamientos podrán celebrar convenios que les permitan coordinarse, evaluar y realizar de manera conjunta los procesos de mejora regulatoria y crear un registro único de trámites.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2008)</small>
+
+### Capítulo II. Del Registro Público de Trámites Estatales
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 155.
+
+El Gobierno del Estado, a través de la Secretaría de Promoción Económica, estará a cargo del Registro Público de Trámites Estatales, mediante el cual se registrarán y harán públicos los datos e información relativa a los trámites vigentes del Poder Ejecutivo estatal, sus organismos públicos descentralizados y entidades paraestatales, así como de los municipios con los que se hubiere suscrito convenio de coordinación.
+
+Los procedimientos para el registro y actualización de los datos e información objeto de registro, así como el funcionamiento y operación del Registro Público de Trámites Estatales, se establecerán en el reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 156.
+
+Las secretarías, organismos públicos descentralizados y entidades paraestatales adscritas al Poder Ejecutivo del Estado, enviarán y actualizarán mensualmente la información concerniente a los trámites y servicios que brindan.
+
+En caso de realizarse modificaciones a los procedimientos de los trámites o servicios antes del término referido anteriormente para la actualización, los mismos deberán informarse al Registro Público de Trámites Estatales dentro de los cinco días hábiles siguientes a su aplicación.
+
+(ADICIONADO, P.O. 12 DE JUNIO DE 2008) (F. DE E., P.O. 5 DE JULIO DE 2008)
+
+###### Artículo 157.
+
+Los datos e información relativa a los trámites vigentes resguardada en el Registro Público de Trámites Estatales será congruente con la que publíciten directamente dichas cantidades.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 158.
+
+Los servidores públicos que soliciten requisitos adicionales, distintos o menores a los inscritos en el Registro Público de Trámites Estatales, serán sujetos al procedimiento establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 T R A N S I T O R I O S
 
@@ -1260,3 +1372,7 @@ UNICO. El presente decreto entrará en vigor al día siguiente de su publicació
 P.O. 24 DE FEBRERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE JUNIO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor 30 días hábiles posteriores a su publicación en el periódico oficial El Estado de Jalisco.
