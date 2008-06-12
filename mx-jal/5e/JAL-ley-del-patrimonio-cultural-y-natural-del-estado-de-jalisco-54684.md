@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-patrimonio-cultural-y-natural-del-estado-de-jalisco-546
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-13"
-last_updated: "2007-02-13"
+last_updated: "2008-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 13 de febrero de 2007.
 
@@ -221,9 +221,19 @@ VI. Expedir y publicar los reglamentos y demás disposiciones normativas tendien
 
 VII. Expedir y publicar el reglamento del Consejo;
 
-VIII. Preservar y promover las manifestaciones de la cultura local y la de los grupos indígenas asentados en territorio del Estado; y
+VIII. Preservar y promover las manifestaciones de la cultura local y la de los grupos indígenas asentados en territorio del Estado; y (sic)
 
-IX. Las demás que le confieran esta ley y otras disposiciones jurídicas aplicables a la materia.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
+
+IX. Apoyar a los ayuntamientos en el incremento del patrimonio cultural mediante el estímulo de aquellas obras que cumplan los requisitos previstos por esta ley, tales como monumentos, bustos, conjuntos escultóricos, placas conmemorativas, plazas, plazoletas, paseos o elementos de ornato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2008)</small>
+
+X. Apoyar a los municipios en las acciones de rescate, remozamiento y restauración de aquellos bienes que integren su patrimonio cultural y natural, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2008)</small>
+
+XI. Las demás que le confieran esta ley y otras disposiciones jurídicas aplicables a la materia.
 
 ###### Artículo 11.
 
@@ -305,9 +315,11 @@ Para los efectos de la presente Ley, la Procuraduría de Desarrollo Urbano, tend
 
 Gestionar ante la entidad pública estatal o municipal competente y en su caso, ante los tribunales administrativos, la modalidad de licencias o permisos relativos a intervenciones de bienes inmuebles integrantes del patrimonio cultural o natural, cuando se contravenga lo establecido por la presente Ley o demás normatividad aplicable, particularmente la preservación del entorno de los bienes declarados patrimonio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 17.
 
-Son atribuciones de los Ayuntamientos, dentro del ámbito de su competencia:
+Son atribuciones de los ayuntamientos, dentro del ámbito de su competencia:
 
 I. Formular, aprobar, administrar, ejecutar, evaluar y revisar las acciones de investigación, restauración, conservación, mejoramiento, identificación, acrecentamiento y difusión de los bienes afectos a su patrimonio cultural, a través de los planes y programas de desarrollo urbano, de ordenamiento ecológico y de protección al patrimonio cultural y natural municipales;
 
@@ -337,9 +349,21 @@ XII. Promover la constitución y participación de organismos sociales que se vi
 
 XIII. Coordinar y promover en conjunto con entidades federales, la participación de organismos sociales en actividades de vigilancia, restauración, conservación y mejoramiento de los bienes y zonas de propiedad federal;
 
-XIV. Fomentar la participación de organismos sociales en la formación de conciencia de los particulares en la vigilancia, restauración, conservación, mejoramiento y acrecentamiento del patrimonio cultural y en la instalación de museos regionales o comunitarios; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
 
-XV. Las atribuciones que le otorguen esta Ley y demás normatividad aplicable en la materia.
+XIV. Fomentar la participación de organismos sociales en la formación de conciencia de los particulares en la vigilancia, restauración, conservación, mejoramiento y acrecentamiento del patrimonio cultural y en la instalación de museos regionales o comunitarios;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
+
+XV. Acrecentar el patrimonio cultural y natural del municipio mediante el estímulo de aquellas obras que cumplan los requisitos previstos por esta ley, tales como monumentos, bustos, conjuntos escultóricos, placas conmemorativas, plazas, plazoletas, paseos o elementos de ornato. Los ayuntamientos libremente elegirán y edificarán las obras previstas en esta fracción, siempre que cuenten con el proyecto ejecutivo correspondiente y los recursos necesarios para concluirlas. De igual forma, deberán garantizar en sus respectivos presupuestos de egresos, de forma permanente, los recursos necesarios para la conservación y, en su caso, remozamiento de las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2008)</small>
+
+XVI. Ejercer las acciones de rescate, remozamiento y restauración de aquellos bienes que integren el patrimonio cultural y natural del municipio, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2008)</small>
+
+XVII. Las atribuciones que le otorguen esta ley y demás normatividad aplicable en la materia.
 
 ###### Articulo 18.
 
@@ -1072,3 +1096,9 @@ MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
 El Secretario General de Gobierno
 
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE JUNIO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
