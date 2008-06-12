@@ -4,7 +4,7 @@ identifier: "SON-codigo-electoral-para-el-estado-de-sonora-45286"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-06-29"
-last_updated: "2008-06-09"
+last_updated: "2008-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JUNIO DE 2008.
 
 Código publicado en la Edición Especial No. 2 del Boletín Oficial del Estado de Sonora, el miércoles 29 de junio de 2005.
 
@@ -385,7 +385,9 @@ Los partidos pueden solicitar ante el Consejo Estatal que se investiguen las act
 
 > <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
 
-ARTÍCULO 24 BIS.- Para los efectos de lo dispuesto en el párrafo final de la Base I del artículo 41 y del Inciso f) fracción IV del artículo 116 de la Constitución Federal, los asuntos internos de los partidos políticos comprenden el conjunto de actos y procedimientos relativos a su organización y funcionamiento, con base en las disposiciones previstas en la propia Constitución Federal y Local, en este Código, así como en los estatutos y reglamentos que aprueben sus órganos de dirección.
+###### ARTÍCULO 24
+
+BIS.- Para los efectos de lo dispuesto en el párrafo final de la Base I del artículo 41 y del Inciso f) fracción IV del artículo 116 de la Constitución Federal, los asuntos internos de los partidos políticos comprenden el conjunto de actos y procedimientos relativos a su organización y funcionamiento, con base en las disposiciones previstas en la propia Constitución Federal y Local, en este Código, así como en los estatutos y reglamentos que aprueben sus órganos de dirección.
 
 El Consejo Estatal y el Tribunal, solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que establecen la Constitución Federal y Local, este Código y las demás leyes aplicables.
 
@@ -1669,8 +1671,6 @@ Los consejeros de los Consejos Municipales deberán reunir los requisitos que es
 
 Los Consejos Municipales se reunirán, a más tardar durante los primeros quince días del mes de febrero del año de la elección ordinaria, con el objeto de preparar los procesos correspondientes. A partir de esa fecha y hasta la culminación del proceso, sesionarán por lo menos una vez al mes.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
-
 ###### ARTÍCULO 109.
 
 Para que los Consejos Locales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el presidente. Si no concurre el presidente, el Consejo Local podrá sesionar con la presencia de cuatro consejeros.
@@ -1935,7 +1935,7 @@ Las autoridades estatales, municipa­les y los organismos electorales del Estado
 
 ###### ARTÍCULO 119.
 
-El Registro Electoral es el organismo técnico encargado de formar el Catálogo General de Electores y de inscribir a los ciudadanos sonorenses en el Padrón Electoral, manteniendo a éstos permanen­temente depurados y actualizados.
+El Registro Electoral es el organismo técnico encargado de formar el Catálogo General de Electores y de inscribir a los ciudadanos sonorenses en el Padrón Electoral, manteniendo a éstos permanentemente depurados y actualizados.
 
 ###### ARTÍCULO 120.
 
@@ -1973,7 +1973,7 @@ El Consejo Estatal vigilará que las actividades del Registro Electoral se reali
 
 Son atribuciones del Registro Electoral:
 
-I.- Elaborar y mantener permanentemente actualiza­dos y depurados el Catálogo General de Electores y el Padrón Electoral;
+I.- Elaborar y mantener permanentemente actualizados y depurados el Catálogo General de Electores y el Padrón Electoral;
 
 II.- Expedir la credencial con fotografía para votar;
 
@@ -1991,7 +1991,7 @@ VIII.- Las demás que le confieran las leyes.
 
 ###### ARTÍCULO 123.
 
-El Registro Electoral podrá requerir la colaboración de la sociedad para formular y mantener permanen­temente actuali­zados y depurados el Catálogo General de Electores, el Padrón Electoral y las listas nominales.
+El Registro Electoral podrá requerir la colaboración de la sociedad para formular y mantener permanentemente actualizados y depurados el Catálogo General de Electores, el Padrón Electoral y las listas nominales.
 
 ###### ARTÍCULO 124.
 
@@ -2619,51 +2619,1029 @@ III.- Los partidos, alianzas entre partidos o las coaliciones no podrán tener p
 
 El territorio del Estado se divide en secciones para la emisión y recepción del sufragio, de acuerdo a la delimitación geográfica y nomenclatura numérica definida por el Consejo Estatal.
 
+> <small>(REFORMADO, B.O.12 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 176.
+
+El Congreso del Estado de Sonora, previa opinión técnica del Consejo Estatal Electoral, será el encargado de establecer las demarcaciones de los veintiún distritos uninominales del Estado de Sonora atendiendo el criterio poblacional y debiendo respetar, además, los principios siguientes:
+
+A).- De balance poblacional o valor idéntico de cada voto: Que consiste en el valor idéntico de cada voto, es decir, lograr el objetivo de un ciudadano un voto, siendo el caso que la autoridad encargada de dicha atribución procure que la distribución poblacional pueda tener segmentos poblacionales más o menos iguales en relación con el número de representantes populares a elegir; para ello, se establece el cociente de distribución a fin de fijar los límites superior e inferior, los cuales deberán respetarse y sólo por excepción, en casos extremos justificables, podrá rebasarse por poco margen;
+
+B).- Homogeneidad de la población: Que busca preservar, en la medida de lo posible, la división geográfica preestablecida de barrios, colonias, secciones, municipios y la integridad de comunidades rurales e indígenas;
+
+C).- Indivisibilidad de municipios y de secciones: El cual tiene el propósito de facilitar a los ciudadanos la emisión del sufragio, de tal forma que les sea asequible el traslado al lugar en el que habrán de sufragar y la autoridad no encuentre dificultades para recibir los expedientes de casilla y realizar los cómputos respectivos. Sólo por excepción, en casos extremos justificables, podrá realizarse una división de municipios; y
+
+D).- Compacidad: Que consiste esencialmente en que cada distrito se acerque lo más posible a formas geométricas regulares tales como cuadrado, círculo, rectángulo o polígono.
 
 Cada distrito está delimitado en la siguiente forma:
 
-I.- PRIMER DISTRITO.- Cabecera: San Luis Río Colorado: Comprende la municipalidad de San Luis Río Colorado.
+I.- Primer Distrito.- Cabecera: San Luís Río Colorado: Comprende una parte de la municipalidad de San Luís Río Colorado, con las siguientes secciones electorales:
 
-II.- SEGUNDO DISTRITO.- Cabecera: Puerto Peñasco: Comprende las municipalidades de Puerto Peñasco y General Plutarco Elías Calles.
+DTTO Sección DTTO Sección DTTO Sección
 
-III.- TERCER DISTRITO.- Cabecera: Altar: Comprende las municipalidades de Altar, Atil, Caborca, Oquitoa, Pitiquito, Sáric, Trincheras y Tubutama.
+1 652 1 678 1 708
 
-IV.- CUARTO DISTRITO.- Cabecera: Nogales: Comprende las municipalidades de Nogales y Santa Cruz.
+1 653 1 679 1 709
 
-V.- QUINTO DISTRITO.- Cabecera: Agua Prieta: Comprende las municipalidades de Agua Prieta, Fronteras y Nacozari de García.
+1 654 1 682 1 712
 
-VI.- SEXTO DISTRITO.- Cabecera: Magdalena: Comprende las municipalidades de Benjamín Hill, Imuris, Magdalena y Santa Ana.
+1 655 1 683 1 713
 
-VII.- SEPTIMO DISTRITO.- Cabecera: Cananea: Comprende las municipalidades de Cananea y Naco.
+1 656 1 684 1 714
 
-VIII.- OCTAVO DISTRITO.- Cabecera: Arizpe: Comprende las municipalidades de Aconchi, Arizpe, Bacoachi, Banámichi, Baviácora, Cucurpe, Huépac y San Felipe de Jesús.
+1 657 1 685 1 715
 
-IX.- NOVENO DISTRITO.- Cabecera: Moctezuma: Comprende las municipalidades de Bacadéhuachi, Bacerac, Bavispe, Cumpas, Divisaderos, Granados, Huachinera, Huásabas, Moctezuma, Nácori Chico, Tepache y Villa Hidalgo.
+1 658 1 686 1 716
 
-X.- DECIMO DISTRITO.- Cabecera: Sahuaripa: Comprende las municipalidades de Arivechi, Bacanora, Onavas, Sahuaripa, Soyopa, Yécora, San Javier y Suaqui Grande.
+1 659 1 687 1 717
 
-XI.- DECIMO PRIMER DISTRITO.- Cabecera: Ures: Comprende las municipalidades de Carbó, Opodepe, Rayón, San Pedro de la Cueva, Ures, Villa Pesqueira, San Miguel de Horcasitas y Mazatán.
+1 660 1 688 1 718
 
-XII.- DECIMO SEGUNDO DISTRITO.- Cabecera: Hermosillo Noroeste: Comprende parte de la ciudad de Hermosillo, la cual se ubica de la siguiente manera: partiendo del punto de confluencia formado por las calles Reforma y Lic. Luis Donaldo Colosio Murrieta, por la calle Reforma acera poniente en dirección norte hasta encontrar el límite norte de la zona urbana de la ciudad de Hermosillo, doblando al oeste para seguir con una línea imaginaria en todos sus accidentes la zona urbana de la ciudad de Hermosillo, hasta encontrar la línea imaginaria de la calle del nuevo Panteón Municipal para doblar al sur hasta llegar al Boulevard Jesús García Morales, doblando hacia el este, hasta llegar al poblado El Llano, doblando al sur por la carretera al Mezquital del Oro, hasta llegar a la calle Lic. Luis Donaldo Colosio Murrieta para doblar al este, siguiente (sic) de frente por la acera norte hasta llegar al punto de partida.
+1 662 1 689 1 719
 
-XIII.- DECIMO TERCER DISTRITO.- Cabecera: Hermosillo Costa: Comprende parte de la ciudad y la zona rural del municipio de Hermosillo. La zona urbana se ubica de la forma siguiente: partiendo del punto de confluencia formado por el límite oeste de la ciudad y la carretera al Mezquital del Oro en dirección este, siguiendo en esta dirección por la calle Lic. Luis Donaldo Colosio Murrieta, acera sur en todos sus accidentes hasta encontrar la calle Rosales doblando al sur hasta llegar a la avenida Morelia donde doble al este, continuando por ésta por la acera sur hasta encontrar el Boulevard Luis Encinas Johnson, para doblar al sureste hasta llegar al canal Villa de Seris para doblar al sur, continuando por éste por la parte poniente hasta encontrar la línea imaginaria de la avenida Profesora Emiliana de Zubeldía donde dobla al este; continuando de frente para tomar la avenida Legislación Obrera hasta llegar al límite este del Fraccionamiento Revolución en donde dobla al norte en dirección a la línea imaginaria de la calle 18 de Marzo hasta encontrar la línea imaginaria de la calle Santa Teresa dando vuelta al noreste, continuando por ésta por la acera sur hasta llegar a la vía del ferrocarril para doblar al sureste; siguiendo por ésta, por la oeste hasta llegar al punto donde se une el Canal Principal con el margen oeste de la Presa Abelardo L. Rodríguez, doblando al sureste en todos sus accidentes hasta llegar al límite sur de la ciudad donde dobla al oeste hasta encontrar el límite oeste de la ciudad dando vuelta al norte, continuando en esta dirección para concluir en el punto de partida.
+1 663 1 690 1 720
 
-XIV.- DECIMO CUARTO DISTRITO.- Cabecera: Hermosillo Noreste: Comprende la municipalidad de La Colorada y parte de la zona urbana de Hermosillo, la cual se ubica de la forma siguiente: de la esquina noreste de las calles Reforma y Lic. Luis Donaldo Colosio Murrieta en dirección norte por la acera oriente de la calle Reforma hasta el límite norte del fundo legal de la ciudad de Hermosillo, doblando en dirección este y siguiendo la línea imaginaria del fundo legal de la ciudad de Hermosillo en todos sus accidentes hasta el límite noreste de dicho fundo; doblando en dirección sur, siguiendo la línea imaginaria de todos sus accidentes del límite este del fundo legal de la ciudad de Hermosillo, hasta el margen oeste de la Presa Abelardo L. Rodríguez; continuando por ésta, en dirección suroeste hasta encontrar el punto donde se une con el Canal Principal, para doblar al noreste, tomando la parte este de la vía del ferrocarril hasta encontrar la calle Santa Teresa, para doblar al suroeste continuando de frente hasta encontrar la línea imaginaria de la calle 18 de Marzo doblando al sur; siguiendo en dirección al límite este del Fraccionamiento Revolución hasta encontrar la avenida Legislación Obrera para doblar al oeste; continuando por ésta, por la acera norte para tomar la avenida Profesora Emiliana de Zubeldía hasta llegar por una línea imaginaria al canal Villa de Seris para doblar al norte tomando la parte este hasta encontrar el Boulevard Luis Encinas Johnson para doblar al noroeste, hasta llegar a la avenida Morelia donde dobla al oeste, continuando por ésta, por la acera norte hasta encontrar la calle Rosales, doblando en dirección norte, por la acera oriente hasta encontrar la calle Lic. Luis Donaldo Colosio Murrieta; para doblar al oeste, siguiendo por ésta por la acera norte hasta llegar al punto de partida.
+1 664 1 691 1 721
 
-XV.- DECIMO QUINTO DISTRITO.- Cabecera: Guaymas: Comprende las municipalidades de Empalme, Guaymas y San Ignacio Río Muerto.
+1 665 1 692 1 722
 
-XVI.- DECIMO SEXTO DISTRITO.- Cabecera: Ciudad Obregón Norte: Comprende las municipalidades de Rosario y Quiriego, así como parte de la ciudad y parte de la zona rural del municipio de Cajeme y se ubica de la siguiente manera: partiendo del punto de confluencia de la avenida Rodolfo Elías Calles y calle Kino acera oeste y siguiendo esta última calle en sentido sur hasta la calle 300, donde dobla al oeste por la acera norte hasta la línea imaginaria de la calle 100, doblando al oeste por la acera norte hasta llegar a los límites del municipio de Bácum, doblando hacia el norte en todos sus accidentes hasta llegar al punto imaginario conformado por los límites del municipio de Rosario y la calle 12, doblando hacia el sur por la acera oeste en todos sus accidentes hasta encontrar la calle 300, doblando al oeste por la acera norte hasta llegar a la calle 14, donde dobla al norte por la acera este hasta llegar a la prolongación imaginaria de la calle Base, doblando al oeste por la acera norte hasta topar con la calle Aquiles Serdán de la ciudad, donde dobla hacia el sur por la acera oeste hasta llegar al punto imaginario formado por esta calle y la línea imaginaria que prolonga la calle Cuauhtémoc, doblando hacia el oeste en esta girando hacia el sur por la acera oeste hasta llegar a la calle Zaragoza, girando hacia el oeste por la acera norte hasta llegar a la avenida Miguel Alemán, doblando hacia el norte por la acera este, hasta llegar a la calle Galeana, girando hacia el oeste por la acera norte hasta llegar a la calle Michoacán, doblando hacia el norte por la acera este hasta llegar a la calle Guerrero, girando hacia el oeste por la acera norte hasta llegar a la calle Sahuaripa, doblando en sentido norte por la acera este hasta llegar a la calle Allende, girando al oeste por la acera sur hasta llegar a la calle Tácale, girando al norte, por la acera este hasta llegar a la calle Morelos, donde Gira al oeste por la acera norte hasta llegar a la calle Kino, donde gira al sur por la acera oeste hasta llegar al punto de partida.
+1 666 1 697 1 726
 
-XVII.- DECIMO SEPTIMO DISTRITO.- Cabecera: Ciudad Obregón Centro: Comprende una parte de la zona urbana de la ciudad y se ubica de la siguiente manera: partiendo de la confluencia de la calle Kino y avenida Rodolfo Elías Calles, acera este la primera y norte la segunda, hasta llegar a la prolongación de la calle Francisco Almada, doblando en sentido sur por la acera este hasta llegar a la calle Bahía de Lobos, doblando hacia el este acera norte hasta encontrar la calle Río Humaya, doblando hacia el sureste acera sureste hasta la calle Río Samidlam, doblando hacia el sur por la acera este hasta topar con la calle Jacinto López, girando hacia el este por la acera norte hasta llegar a la carretera internacional, doblando hacia el noroeste por la acera del mismo sentido hasta topar con la línea imaginaria de la prolongación de la calle Carmen Cueva, girando al oeste por la acera sur hasta topar con la calle Paseo Miravalle, girando hacia el norte por la acera oeste en todos sus accidentes hasta topar con la carretera internacional, doblando hacia el noroeste por la acera del mismo sentido hasta topar con la calle Profesor Carlos M. Calleja, girando hacia el sur por la acera este hasta topar con la prolongación de la línea imaginaria de la calle Luis G. Monzón, doblando hacia el oeste por la acera sur hasta topar con la prolongación de la calle Sinaloa, girando hacia el norte por la acera oeste hasta topar con la calle Mariano Escobedo, doblando hacia el oeste por la acera sur hasta topar con la calle Chihuahua, girando hacia el norte por la acera oeste hasta topar con la avenida Rodolfo Elías Calles, doblando hacia el este por la acera norte hasta llegar a la confluencia de la calzada al Panteón del Carmen y la calle Constitución, donde dobla hacia el norte por la acera oeste hasta encontrar la calle Nicolás Bravo, doblando al este por la acera norte hasta la calle General Plutarco Elías Calles, doblando hacia el norte por la acera oeste hasta topar con la calle Revolución, doblando hacia el este por la acera norte hasta topar con la calle General Lázaro Cárdenas, girando hacia el norte por la acera oeste hasta topar con la calle Zaragoza, doblando hacia el este por la acera norte hasta topar con la calle Independencia, girando hacia el norte por la acera oeste hasta topar con la calle No Reelección, doblando hacia el oeste por la acera sur hasta topar con la calle Constitución, girando hacia el sur por la acera este hasta llegar a la calle Zaragoza, doblando hacia el oeste por la acera sur hasta llegar a la avenida Miguel Alemán, girando hacia el norte por la acera oeste hasta llegar a la calle Galeana, doblando hacia el oeste por la acera sur hasta llegar a la calle Michoacán, girando hacia el norte por la acera oeste hasta llegar a la calle Guerrero, doblando hacia el oeste por la acera sur en todos sus accidentes hasta topar con la calle Sahuaripa, girando el (sic) norte por la acera oeste hasta topar con la calle Allende, girando al este por la acera norte hasta llegar a la calle Tácale, donde gira hacia el norte por la acera oeste hasta llegar a la calle Morelos, girando al oeste por la acera sur hasta llegar a la calle Kino, girando hacia el sur por la acera este hasta llegar al punto de partida.
+1 667 1 698 1 727
 
-XVIII.- DECIMO OCTAVO DISTRITO.- Cabecera: Ciudad Obregón Sur: Comprende el municipio de Bácum y parte de la ciudad y parte de la zona rural del municipio de Cajeme. Se ubica de la manera siguiente: partiendo del punto de confluencia de la avenida Rodolfo Elías Calles y la calle Kino, esquina suroeste, continuando por esta última hacia el sur por la acera este hasta topar con la calle 300, donde dobla al oeste por la acera sur hasta la calle 1, doblando hacia el norte por la acera oeste hasta la linea imaginaria de la calle 100, donde dobla al oeste por la acera sur en línea imaginaria hasta topar con los límites del municipio y del municipio de Bácum, girando en sentido sur por el mismo límite hasta el litoral, siguiendo éste hasta el punto imaginario en el que se delimita el municipio de Cajeme y Etchojoa, siguiendo en sentido noreste y en todos sus accidentes la línea imaginaria que delimita el municipio de Cajeme y Navojoa hasta topar con la prolongación imaginaria de la calle 300, donde dobla al oeste por la acera sur hasta topar con la calle 14, doblando al norte por la acera oeste hasta llegar al punto imaginario formado por esta calle y la calle Base, donde dobla hacia el oeste por la acera sur hasta llegar a la calle Aquiles Serdán de la ciudad, doblando hacia el sur por la acera este continuando por ésta en línea imaginaria hasta llegar al punto imaginario conformado por esta calle y la prolongación imaginaria de la calle Cuauhtémoc, doblando en sentido oeste hasta topar con la vía del ferrocarril donde dobla al sur por la acera este hasta llegar a la calle Zaragoza, girando en sentido este por la acera norte hasta llegar a la calle Constitución, doblando al norte por la acera este hasta llegar a la calle No Relección, girando al este por la acera norte hasta llegar a la calle Independencia, girando al sur por la acera este hasta llegar a la calle Zaragoza, doblando al oeste por la acera sur hasta llegar a la calle General Lázaro Cárdenas, donde gira al sur por la acera este hasta llegar a la calle Revolución, doblando al oeste por la acera sur hasta llegar a la calle Plutarco Elías Calles, doblando al sur por la acera hasta la calle Nicolás Bravo, doblando al oeste por la acera sur hasta la calle Constitución, donde dobla al sur por la acera este hasta llegar a la calzada del Panteón del Carmen, doblando al oeste por la acera sur hasta llegar a la avenida Rodolfo Elías Calles, continuando por esta misma avenida hasta llegar a la calle Chihuahua, girando al sur por la acera este hasta llegar a la calle Mariano Escobedo, doblando al oeste por la acera norte hasta llegar a la calle Sinaloa, girando al sur por la acera este hasta llegar a la prolongación imaginaria de la calle Luis G. Monzón, doblando al este por la acera norte hasta llegar a la calle Carlos M. Calleja, en donde gira al norte por la acera norte oeste hasta llegar a la carretera internacional, doblando en sentido noreste por la acera sureste hasta llegar a la calle Paseo Miravalle, girando en sentido sur por la acera este y siguiendo en todos sus accidentes hasta llegar a la prolongación imaginaria de la calle Carmen Cueva, girando hacia el este por la acera norte hasta la carretera internacional, doblando en sentido sureste por la acera este hasta topar con el vértice formado con la calle Jacinto López, doblando hacia el oeste por la acera sur hasta llegar a la calle Río Samidlam, girando al norte por la acera oeste hasta llegar a la calle Río Humaya, doblando hacia el noroeste por la acera noroeste hasta encontrar la calle Bahía de Lobos, doblando al oeste por la acera sur hasta la prolongación de la calle Francisco Almada, doblando hacia el norte por la acera oeste hasta llegar a la avenida Rodolfo Elías Calles, donde gira al oeste por la acera sur hasta llegar al punto de partida.
+1 668 1 699 1 728
 
-XIX.- DECIMO NOVENO DISTRITO.- Cabecera: Navojoa: Comprende las municipalidades de Alamos y Navojoa.
+1 669 1 700 1 731
 
-XX.- VIGESIMO DISTRITO.- Cabecera: Etchojoa: Comprende las municipalidades de Etchojoa y Benito Juárez.
+1 671 1 701 1 732
 
-XXI.- VIGESIMO PRIMER DISTRITO.- Cabecera: Huatabampo: Comprende la municipalidad de Huatabampo.
+1 672 1 702 1 733
+
+1 673 1 703 1 734
+
+1 674 1 704 1 735
+
+1 675 1 705 1 736
+
+1 676 1 706 1 737
+
+1 677 1 707 1 738
+
+1 1 739
+
+II. Segundo Distrito.- Cabecera: Puerto Peñasco: Comprende una parte de la municipalidad de San Luis Río Colorado y las municipalidades de Puerto Peñasco y Gral. Plutarco Elías Calles, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+2 1323 2 638 2 693
+
+2 1324 2 639 2 694
+
+2 1325 2 640 2 695
+
+2 1326 2 641 2 696
+
+2 1327 2 642 2 710
+
+2 1328 2 643 2 723
+
+2 1330 2 645 2 724
+
+2 631 2 646 2 725
+
+2 632 2 647 2 729
+
+2 633 2 648 2 730
+
+2 634 2 661 2 740
+
+2 635 2 670 2 741
+
+2 636 2 680 2 742
+
+2 637 2 681
+
+III. Tercer Distrito.- Cabecera: Caborca: Comprende las municipalidades de Caborca, Altar, Atil, Trincheras, Tubutama, Pitiquito, Oquitoa, Saric, Santa Ana y Benjamín Hill, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+3 33 3 307 3 627
+
+3 34 3 308 3 628
+
+3 35 3 309 3 629
+
+3 36 3 310 3 630
+
+3 37 3 311 3 252
+
+3 46 3 312 3 253
+
+3 66 3 313 3 254
+
+3 67 3 314 3 255
+
+3 68 3 315 3 256
+
+3 69 3 316 3 257
+
+3 292 3 317 3 258
+
+3 293 3 318 3 259
+
+3 294 3 319 3 260
+
+3 295 3 320 3 261
+
+3 296 3 321 3 262
+
+3 297 3 322 3 263
+
+3 298 3 323 3 265
+
+3 299 3 324 3 266
+
+3 300 3 325 3 278
+
+3 301 3 326 3 279
+
+3 302 3 327 3 280
+
+3 303 3 328 3 281
+
+3 304 3 232 3 282
+
+3 305 3 625 3 283
+
+3 306 3 626 3 284
+
+3 285
+
+IV. Cuarto Distrito.- Cabecera: Nogales Norte: Comprende una parte de la municipalidad de Nogales, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+4 159 4 176 4 192
+
+4 160 4 177 4 193
+
+4 161 4 178 4 194
+
+4 162 4 179 4 195
+
+4 163 4 180 4 196
+
+4 164 4 181 4 197
+
+4 165 4 182 4 198
+
+4 166 4 183 4 199
+
+4 167 4 184 4 200
+
+4 168 4 185 4 201
+
+4 169 4 186 4 202
+
+4 170 4 187 4 203
+
+4 171 4 188 4 204
+
+4 172 4 189 4 205
+
+4 173 4 190 4 206
+
+4 174 4 191 4 211
+
+4 175
+
+V.- Quinto Distrito.- Cabecera: Nogales Sur: Comprende una parte de la municipalidad de Nogales y las municipalidades de Santa Cruz e Imuris, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+5 112 5 208 5 221
+
+5 113 5 209 5 222
+
+5 114 5 210 5 223
+
+5 115 5 212 5 224
+
+5 116 5 213 5 225
+
+5 117 5 214 5 226
+
+5 118 5 215 5 227
+
+5 119 5 216 5 228
+
+5 120 5 217 5 229
+
+5 121 5 218 5 230
+
+5 122 5 219 5 231
+
+5 207 5 220 5 264
+
+VI.- Sexto Distrito.- Cabecera: Cananea: Comprende las municipalidades de Cananea, Naco, Magdalena, Cucurpe, Bacoachi, Arizpe, Banámichi, Huépac, Aconchi, San Felipe de Jesús, Baviácora, Ures, Rayón, Carbó, Opodepe y San Miguel de Horcasitas, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+6 1 6 83 6 144
+
+6 2 6 84 6 145
+
+6 41 6 85 6 620
+
+6 42 6 86 6 621
+
+6 43 6 87 6 622
+
+6 44 6 88 6 623
+
+6 45 6 329 6 624
+
+6 54 6 330 6 649
+
+6 55 6 89 6 650
+
+6 56 6 90 6 651
+
+6 57 6 91 6 247
+
+6 58 6 110 6 743
+
+6 59 6 111 6 744
+
+6 60 6 123 6 745
+
+6 61 6 124 6 746
+
+6 62 6 125 6 747
+
+6 63 6 126 6 748
+
+6 70 6 127 6 749
+
+6 71 6 128 6 750
+
+6 72 6 129 6 751
+
+6 73 6 130 6 752
+
+6 74 6 131 6 753
+
+6 75 6 132 6 754
+
+6 76 6 133 6 755
+
+6 77 6 134 6 756
+
+6 78 6 135 6 757
+
+6 79 6 136 6 758
+
+6 80 6 137 6 759
+
+6 81 6 142
+
+6 82 6 143
+
+VII.- Séptimo Distrito.- Cabecera: Agua Prieta: Comprende las municipalidades de Agua Prieta, Fronteras, Nacozari de García, Bavispe, Cumpas, Moctezuma, Villa Hidalgo, Bacerac y Huachineras, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+7 3 7 25 7 103
+
+7 4 7 26 7 104
+
+7 5 7 27 7 105
+
+7 6 7 28 7 107
+
+7 7 7 29 7 108
+
+7 8 7 30 7 138
+
+7 9 7 31 7 139
+
+7 10 7 32 7 140
+
+7 11 7 52 7 141
+
+7 12 7 53 7 149
+
+7 13 7 64 7 150
+
+7 14 7 65 7 151
+
+7 15 7 92 7 152
+
+7 16 7 93 7 153
+
+7 17 7 94 7 154
+
+7 18 7 95 7 155
+
+7 19 7 96 7 156
+
+7 20 7 97 7 157
+
+7 21 7 98 7 158
+
+7 22 7 99 7 286
+
+7 23 7 101 7 287
+
+7 24 7 102 7 288
+
+VIII.- Octavo Distrito.- Cabecera: Hermosillo Noroeste: Comprende una parte de la municipalidad de Hermosillo, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+8 336 8 404 8 1340
+
+8 337 8 424 8 1341
+
+8 350 8 425 8 1342
+
+8 351 8 426 8 1343
+
+8 353 8 427 8 1344
+
+8 354 8 428 8 1345
+
+8 364 8 429 8 1346
+
+8 365 8 430 8 1347
+
+8 366 8 431 8 1348
+
+8 367 8 432 8 1349
+
+8 368 8 433 8 1350
+
+8 374 8 447 8 1351
+
+8 375 8 448 8 1352
+
+8 376 8 449 8 1353
+
+8 377 8 450 8 1354
+
+8 384 8 451 8 1355
+
+8 385 8 1332 8 1356
+
+8 386 8 1333 8 1357
+
+8 387 8 1334 8 1358
+
+8 388 8 1335 8 1359
+
+8 400 8 1336 8 1360
+
+8 401 8 1337 8 1361
+
+8 402 8 1338
+
+8 403 8 1339
+
+IX.- Noveno Distrito.- Cabecera: Hermosillo Centro: Comprende una parte de la municipalidad de Hermosillo, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+9 369 9 444 9 476
+
+9 370 9 445 9 477
+
+9 378 9 446 9 478
+
+9 379 9 452 9 493
+
+9 383 9 453 9 499
+
+9 389 9 454 9 500
+
+9 396 9 455 9 501
+
+9 397 9 456 9 502
+
+9 398 9 457 9 503
+
+9 399 9 458 9 504
+
+9 405 9 459 9 505
+
+9 406 9 460 9 518
+
+9 416 9 461 9 519
+
+9 420 9 462 9 520
+
+9 421 9 463 9 521
+
+9 422 9 464 9 522
+
+9 423 9 465 9 523
+
+9 434 9 466 9 524
+
+9 435 9 467 9 525
+
+9 436 9 468 9 526
+
+9 437 9 469 9 532
+
+9 438 9 470 9 533
+
+9 439 9 471 9 534
+
+9 440 9 472 9 535
+
+9 441 9 473 9 536
+
+9 442 9 474
+
+9 443 9 475
+
+X.- Décimo Distrito.- Cabecera: Hermosillo Noreste: Comprende una parte de la municipalidad de Hermosillo, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+10 338 10 358 10 393
+
+10 339 10 359 10 394
+
+10 340 10 360 10 395
+
+10 341 10 361 10 407
+
+10 342 10 362 10 408
+
+10 343 10 363 10 409
+
+10 344 10 371 10 410
+
+10 345 10 372 10 411
+
+10 346 10 373 10 412
+
+10 347 10 380 10 413
+
+10 348 10 381 10 414
+
+10 349 10 382 10 415
+
+10 355 10 390 10 417
+
+10 356 10 391 10 418
+
+10 357 10 392 10 419
+
+XI.- Décimo Primer Distrito.- Cabecera: Hermosillo Costa: Comprende una parte de la municipalidad de Hermosillo, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+11 517 11 557 11 600
+
+11 527 11 559 11 601
+
+11 528 11 560 11 602
+
+11 531 11 561 11 603
+
+11 537 11 562 11 604
+
+11 538 11 566 11 605
+
+11 539 11 567 11 606
+
+11 540 11 568 11 607
+
+11 542 11 569 11 608
+
+11 543 11 570 11 609
+
+11 544 11 571 11 610
+
+11 545 11 572 11 611
+
+11 546 11 573 11 612
+
+11 549 11 585 11 613
+
+11 550 11 590 11 614
+
+11 551 11 591 11 615
+
+11 552 11 595 11 616
+
+11 553 11 596 11 617
+
+11 554 11 597 11 618
+
+11 555 11 598
+
+11 556 11 599
+
+XII.- Décimo Segundo Distrito.- Cabecera: Hermosillo Sur: Comprende una parte de la municipalidad de Hermosillo, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+12 479 12 506 12 565
+
+12 480 12 507 12 574
+
+12 481 12 508 12 575
+
+12 482 12 509 12 576
+
+12 483 12 510 12 577
+
+12 484 12 511 12 578
+
+12 485 12 512 12 579
+
+12 486 12 513 12 580
+
+12 487 12 514 12 581
+
+12 488 12 515 12 582
+
+12 489 12 516 12 583
+
+12 490 12 529 12 584
+
+12 491 12 530 12 586
+
+12 492 12 541 12 587
+
+12 494 12 547 12 588
+
+12 495 12 548 12 589
+
+12 496 12 558 12 592
+
+12 497 12 563 12 593
+
+12 498 12 564 12 594
+
+XIII.- Décimo Tercer Distrito.- Cabecera: Guaymas: Comprende una parte de la municipalidad de Guaymas, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+13 1022 13 1045 13 1068
+
+13 1023 13 1046 13 1069
+
+13 1024 13 1047 13 1070
+
+13 1025 13 1048 13 1071
+
+13 1026 13 1049 13 1072
+
+13 1027 13 1050 13 1073
+
+13 1028 13 1051 13 1074
+
+13 1029 13 1052 13 1075
+
+13 1030 13 1053 13 1076
+
+13 1031 13 1054 13 1077
+
+13 1032 13 1055 13 1078
+
+13 1033 13 1056 13 1079
+
+13 1034 13 1057 13 1080
+
+13 1035 13 1058 13 1081
+
+13 1036 13 1059 13 1082
+
+13 1037 13 1060 13 1083
+
+13 1038 13 1061 13 1084
+
+13 1039 13 1062 13 1085
+
+13 1040 13 1063 13 1086
+
+13 1041 13 1064 13 1087
+
+13 1042 13 1065 13 1088
+
+13 1043 13 1066 13 1089
+
+13 1044 13 1067 13 1090
+
+XIV.- Décimo Cuarto Distrito.- Cabecera: Empalme: Comprende una parte de la municipalidad de Guaymas y las municipalidades de Empalme, Bácum y San Ignacio Río Muerto, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+14 760 14 1000 14 1021
+
+14 761 14 1001 14 1091
+
+14 762 14 1002 14 1092
+
+14 763 14 1003 14 1093
+
+14 764 14 1004 14 1094
+
+14 765 14 1005 14 1095
+
+14 766 14 1006 14 1096
+
+14 767 14 1007 14 1097
+
+14 768 14 1008 14 1098
+
+14 769 14 1009 14 1099
+
+14 770 14 1010 14 1100
+
+14 771 14 1011 14 1101
+
+14 772 14 1012 14 1102
+
+14 992 14 1013 14 1103
+
+14 993 14 1014 14 1104
+
+14 994 14 1015 14 1105
+
+14 995 14 1016 14 1106
+
+14 996 14 1017 14 1107
+
+14 997 14 1018 14 1108
+
+14 998 14 1019
+
+14 999 14 1020
+
+XV.- Décimo Quinto Distrito.- Cabecera: Ciudad Obregón Sur: Comprende una parte de la municipalidad de Cajeme, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+15 901 15 924 15 973
+
+15 906 15 925 15 974
+
+15 907 15 926 15 975
+
+15 908 15 927 15 976
+
+15 909 15 928 15 977
+
+15 910 15 929 15 978
+
+15 911 15 930 15 979
+
+15 912 15 931 15 980
+
+15 913 15 932 15 981
+
+15 914 15 963 15 982
+
+15 915 15 964 15 983
+
+15 916 15 965 15 984
+
+15 917 15 966 15 985
+
+15 918 15 967 15 986
+
+15 919 15 968 15 987
+
+15 920 15 969 15 988
+
+15 921 15 970 15 989
+
+15 922 15 971 15 990
+
+15 923 15 972 15 991
+
+XVI.- Décimo Sexto Distrito.- Cabecera: Ciudad Obregón Sureste: Comprende una parte de la municipalidad de Cajeme, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+16 777 16 825 16 870
+
+16 778 16 826 16 871
+
+16 779 16 827 16 872
+
+16 782 16 828 16 873
+
+16 783 16 829 16 880
+
+16 784 16 830 16 881
+
+16 785 16 835 16 882
+
+16 786 16 836 16 883
+
+16 793 16 837 16 884
+
+16 794 16 838 16 885
+
+16 798 16 839 16 893
+
+16 799 16 847 16 894
+
+16 800 16 848 16 895
+
+16 801 16 849 16 896
+
+16 802 16 850 16 897
+
+16 803 16 852 16 898
+
+16 808 16 853 16 899
+
+16 809 16 854 16 902
+
+16 815 16 859 16 903
+
+16 816 16 861 16 904
+
+16 817 16 862 16 905
+
+16 818 16 863 16 955
+
+16 819 16 864 16 962
+
+16 820 16 865
+
+16 824 16 869
+
+XVII.- Décimo Séptimo Distrito.- Cabecera: Ciudad Obregón Centro: Comprende una parte de la municipalidad de Cajeme, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+17 776 17 823 17 874
+
+17 787 17 831 17 875
+
+17 788 17 832 17 876
+
+17 789 17 833 17 877
+
+17 790 17 834 17 878
+
+17 791 17 840 17 879
+
+17 792 17 841 17 886
+
+17 795 17 842 17 887
+
+17 796 17 843 17 888
+
+17 797 17 844 17 889
+
+17 804 17 845 17 890
+
+17 805 17 846 17 891
+
+17 806 17 851 17 892
+
+17 807 17 855 17 900
+
+17 810 17 856 17 956
+
+17 811 17 857 17 957
+
+17 812 17 858 17 958
+
+17 813 17 860 17 959
+
+17 814 17 866 17 960
+
+17 821 17 867 17 961
+
+17 822 17 868
+
+XVIII.- Décimo Octavo Distrito.- Cabecera: Ciudad Obregón Norte: Comprende una parte de la municipalidad de Cajeme y las municipalidades de Rosario, Yécora, Onavas, Suaqui Grande, San Javier, Soyopa, Bacanora, Arivechi, Sahuaripa, Nácori Chico, Bacadéhuachi, Tepache, San Pedro de la Cueva, Mazatán, (sic) La Colorada, Huásabas, Granados, Divisaderos y Villa Pesqueira, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+18 38 18 251 18 938
+
+18 39 18 267 18 939
+
+18 40 18 268 18 940
+
+18 47 18 269 18 941
+
+18 48 18 270 18 942
+
+18 49 18 271 18 943
+
+18 50 18 272 18 944
+
+18 51 18 273 18 945
+
+18 100 18 274 18 946
+
+18 106 18 275 18 947
+
+18 109 18 276 18 948
+
+18 146 18 277 18 949
+
+18 147 18 289 18 950
+
+18 148 18 290 18 951
+
+18 233 18 291 18 952
+
+18 234 18 331 18 953
+
+18 235 18 332 18 954
+
+18 236 18 333 18 1306
+
+18 237 18 334 18 1310
+
+18 238 18 335 18 1311
+
+18 239 18 619 18 1312
+
+18 240 18 773 18 1313
+
+18 241 18 774 18 1314
+
+18 242 18 775 18 1315
+
+18 243 18 780 18 1316
+
+18 244 18 781 18 1317
+
+18 245 18 933 18 1318
+
+18 246 18 934 18 1319
+
+18 248 18 935 18 1320
+
+18 249 18 936 18 1321
+
+18 250 18 937 18 1322
+
+XIX.- Décimo Noveno Distrito.- Cabecera: Navojoa Norte: Comprende una parte de la municipalidad de Navojoa y la municipalidad de Quiriego con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+19 1230 19 1251 19 1278
+
+19 1231 19 1252 19 1279
+
+19 1232 19 1253 19 1280
+
+19 1233 19 1254 19 1281
+
+19 1234 19 1255 19 1282
+
+19 1235 19 1256 19 1283
+
+19 1236 19 1257 19 1284
+
+19 1237 19 1263 19 1285
+
+19 1238 19 1264 19 1286
+
+19 1239 19 1265 19 1287
+
+19 1240 19 1266 19 1288
+
+19 1241 19 1268 19 1289
+
+19 1242 19 1270 19 1302
+
+19 1244 19 1271 19 1303
+
+19 1245 19 1272 19 1304
+
+19 1246 19 1273 19 1305
+
+19 1247 19 1274 19 1307
+
+19 1248 19 1275 19 1308
+
+19 1249 19 1276 19 1309
+
+19 1250 19 1277
+
+XX.- Vigésimo Distrito.- Cabecera: Etchojoa: Comprende una parte de la municipalidad de Navojoa y las municipalidades de Etchojoa y Benito Juárez, con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+20 1142 20 1161 20 1185
+
+20 1146 20 1162 20 1186
+
+20 1147 20 1163 20 1187
+
+20 1148 20 1164 20 1188
+
+20 1149 20 1165 20 1243
+
+20 1150 20 1166 20 1258
+
+20 1151 20 1167 20 1259
+
+20 1152 20 1168 20 1260
+
+20 1155 20 1169 20 1261
+
+20 1156 20 1170 20 1262
+
+20 1157 20 1171 20 1267
+
+20 1331 20 1172 20 1269
+
+20 1138 20 1173 20 1290
+
+20 1139 20 1174 20 1291
+
+20 1140 20 1175 20 1292
+
+20 1141 20 1176 20 1293
+
+20 1143 20 1177 20 1294
+
+20 1144 20 1178 20 1295
+
+20 1145 20 1179 20 1296
+
+20 1153 20 1180 20 1297
+
+20 1154 20 1181 20 1298
+
+20 1158 20 1182 20 1299
+
+20 1159 20 1183 20 1300
+
+20 1160 20 1184 20 1301
+
+XXI.- Vigésimo Primer Distrito.- Cabecera: Huatabampo: Comprende las municipalidades de Huatabampo y Álamos con las siguientes secciones electorales:
+
+DTTO Sección DTTO Sección DTTO Sección
+
+21 1109 21 1133 21 1208
+
+21 1110 21 1134 21 1209
+
+21 1111 21 1135 21 1210
+
+21 1112 21 1136 21 1211
+
+21 1113 21 1137 21 1212
+
+21 1114 21 1189 21 1213
+
+21 1115 21 1190 21 1214
+
+21 1116 21 1191 21 1215
+
+21 1117 21 1192 21 1216
+
+21 1118 21 1193 21 1217
+
+21 1119 21 1194 21 1218
+
+21 1120 21 1195 21 1219
+
+21 1121 21 1196 21 1220
+
+21 1122 21 1197 21 1221
+
+21 1123 21 1198 21 1222
+
+21 1124 21 1199 21 1223
+
+21 1125 21 1200 21 1224
+
+21 1126 21 1201 21 1225
+
+21 1127 21 1202 21 1226
+
+21 1128 21 1203 21 1227
+
+21 1129 21 1204 21 1228
+
+21 1130 21 1205 21 1229
+
+21 1131 21 1206
+
+21 1132 21 1207
+
+Para efectos de lo dispuesto en el primer párrafo de este artículo, el Congreso del Estado deberá, cuando menos un año antes del inicio del proceso electoral correspondiente, solicitar al Consejo Estatal la información técnica a que se refiere este párrafo con el objeto de que aquél determine si existen condiciones para actualizar la demarcación de los referidos distritos uninominales. El Consejo Estatal, en sesión pública, decidirá sobre el contenido del proyecto que debe remitir al Poder Legislativo.
+
+A fin de cumplir con el criterio poblacional referido en la Constitución Política de los Estados Unidos Mexicanos, la base para los cálculos relativos a la densidad poblacional será aquella información que arroje datos actualizados y confiables que derive del Sistema Nacional de Información Estadística y Geográfica.
 
 ### CAPÍTULO II. DE LA ELECCIÓN DEL GOBERNADOR DEL ESTADO
 
@@ -5262,3 +6240,13 @@ Las disposiciones del presente Decreto relativas al procedimiento para elegir a 
 ###### ARTÍCULO TERCERO.
 
 En los proyectos de presupuestos de egresos del Gobierno del Estado para los ejercicios fiscales siguientes, deberán establecerse las previsiones de recursos suficientes para dar efectivo cumplimiento a las disposiciones contenidas en el presente Decreto referentes al financiamiento público para los partidos políticos.
+
+B.O. 12 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de lo dispuesto por el artículo 176 del presente Código, se entenderá que las secciones electorales serán las determinadas por el Instituto Federal Electoral, para el Estado de Sonora y que se encuentren vigentes a la fecha de aprobación de este Decreto.
