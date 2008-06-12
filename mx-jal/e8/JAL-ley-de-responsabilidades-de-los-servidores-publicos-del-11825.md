@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2008-05-27"
+last_updated: "2008-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -731,11 +731,17 @@ En el ámbito de sus atribuciones, las autoridades señaladas en el artículo 3�
 
 > <small>(DEROGADO ULTIMO PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 62 Bis.
 
-El denunciante puede coadyuvar con la autoridad que practique la auditoria, aportándole las pruebas e información que estime pertinentes. Dichas dependencias deben manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+De igual forma, incurrirán en responsabilidad administrativa los servidores públicos que causen un silencio administrativo en contravención a las disposiciones legales o reglamentarias aplicables al caso.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+###### Artículo 62 Ter.
+
+El denunciante puede coadyuvar con la autoridad que practique la auditoria, aportándole las pruebas e información que estime pertinentes. Dicha dependencia debe manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
 
 ###### Artículo 63.
 
@@ -1280,3 +1286,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 12 DE JUNIO DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor 30 días hábiles posteriores a su publicación en el periódico oficial El Estado de Jalisco.
