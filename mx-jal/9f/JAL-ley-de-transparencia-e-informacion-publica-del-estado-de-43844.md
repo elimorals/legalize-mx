@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-e-informacion-publica-del-estado-de-43844"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-06"
-last_updated: "2007-07-17"
+last_updated: "2008-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Jalisco, el jueves 6 de enero de 2005.
 
@@ -545,11 +545,11 @@ Las ausencias temporales de los consejeros que no excedan de un mes serán supli
 
 En caso de ausencia definitiva del consejero, el Congreso deberá llamar al suplente respectivo, quien ocupará el cargo.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 40.
 
-Los consejeros ciudadanos, serán honoríficos y sólo podrán recibir los recursos necesarios materiales y humanos para el desempeño de sus atribuciones.
-
-Los sueldos y prestaciones del Presidente del Consejo, así como de los demás servidores públicos que laboren en el Instituto, deberán sujetarse a las consideraciones emitidas por el Comité Técnico de Valoración Salarial o su equivalente.
+Los sueldos y prestaciones del Presidente, de los consejeros, del Secretario Ejecutivo, así como de los demás servidores públicos que laboren en el Instituto, deberán sujetarse a las consideraciones emitidas por el Comité Técnico de Transparencia y Valoración Salarial o su equivalente.
 
 ###### Artículo 41.
 
@@ -569,9 +569,11 @@ VI. Tener título profesional expedido por la autoridad competente y registrado 
 
 VII. Haberse desempeñado notablemente en tareas sociales, profesionales, académicas, empresariales o culturales, que denoten su compromiso y conocimiento con la transparencia, para lo cual los candidatos deberán acreditar, mediante los medios que consideren idóneos, dicho desempeño.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 42.
 
-Para ser consejero ciudadano del Instituto se requiere:
+Para ser Consejero del Instituto se requiere:
 
 I. Ser ciudadano mexicano, originario del Estado de Jalisco o residente en el mismo por lo menos cuatro años antes al día de su nombramiento;
 
@@ -1186,3 +1188,13 @@ P.O. 17 DE JULIO DE 2007.
 PRIMERO. El presente decreto entrará en vigor el día dos de julio de 2008.
 
 SEGUNDO. El presente decreto no se mandará a publicar hasta en tanto no se haya publicado la reforma a los artículo 9°, 35, 97 y 100 de la Constitución local que se dictaminó previamente y por separado, y derivada de las mismas iniciativas.
+
+P.O. 12 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor el 2 de julio de 2008.
+
+SEGUNDO. Una vez publicado el presente decreto y previo al 2 de julio de 2008, el Comité Técnico de Transparencia y Valoración Salarial deberá establecer la remuneración correspondiente al cargo de consejero del Instituto de Transparencia e Información Pública.
+
+TERCERO. Gírese atento oficio al Ejecutivo del Estado, a fin de que a través de la Secretaría de Finanzas del Estado, realice las acciones y gestiones necesarias para que a partir del primero de julio de 2008, el Instituto de Transparencia e Información Pública disponga de los recursos que se requieran para efectuar el pago de las percepciones correspondientes a los consejeros integrantes del Consejo de dicho Instituto.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
