@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-59022
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PUBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE TAMAULlPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
 
 Ley publicada en el Extraordinario N° 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -51,11 +51,15 @@ Objeto de la ley.
 
 2. Las disposiciones de esta ley son de orden público.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
 ###### Artículo 2.
 
-Areas excluidas.
+Areas excluidas y normatividad aplicable.
 
-No se aplicarán las disposiciones de esta ley a aquellas áreas de la gestión pública estatal donde por disposición constitucional o de ley ordinaria, la función inherente corresponda en forma exclusiva a la administración pública estatal, sea central o descentralizada.
+1. No se aplicarán las disposiciones de esta ley a aquellas áreas de la gestión pública estatal donde por disposición constitucional o de ley ordinaria, la función inherente corresponda en forma exclusiva a la administración pública estatal, sea central o descentralizada.
+
+2. La contratación de proyectos para la prestación de servicios que realice la administración pública estatal con cargo total o parcial a fondos del Presupuesto de Egresos de la Federación, estará sujeta a la normatividad federal en la materia y, en lo conducente, a lo dispuesto por este ordenamiento, así como a lo pactado en los convenios y acuerdos de coordinación que se celebren.
 
 ### Capítulo Unico
 
@@ -87,7 +91,9 @@ j) Garantía estatal: la afectación por parte de la administración pública es
 
 k) Inversionista-proveedor: la persona que celebre un contrato para la prestación de servicios en los términos de esta ley;
 
-l) Largo plazo: la vigencia de un contrato para la prestación de servicios en los términos de esta ley, que no podrá ser menor de tres ni mayor de quince años;
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
+
+l) Largo plazo: La vigencia de un contrato para la prestación de servicios en los términos de esta ley, que podrá ser hasta de treinta años;
 
 m) Licitante: la persona física o moral del sector privado que participe en cualquier procedimiento de licitación pública o de invitación restringida para el desarrollo de un proyecto;
 
@@ -807,9 +813,21 @@ c) la presencia de circunstancias, debidamente precisadas y justificadas, que pu
 
 d) la rescisión del contrato al inversionista-proveedor que hubiere obtenido el fallo favorable en la licitación pública, por causas inherentes al mismo;
 
-e) la celebración del contrato sólo pueda realizarse con determinada persona en razón de ser titular de ciertos derechos exclusivos; o
+(REFORMADO, P.O. 12 DE JUNIO DE 2008) (F. DE E., P.O. 28 DE OCTUBRE DE 2008)
 
-f) la justificación de que por la especialidad de los servicios materia del contrato, deba prestarlos determinada persona.
+e) La celebración del contrato sólo pueda realizarse con determinada persona en razón de ser titular de ciertos derechos exclusivos;
+
+(ADICIONADO, P.O. 12 DE JUNIO DE 2008) (F. DE E., P.O. 28 DE OCTUBRE DE 2008)
+
+f) La justificación de que por la especialidad de los servicios materia del contrato, deba prestarlos determinada persona;
+
+(ADICIONADO, P.O. 12 DE JUNIO DE 2008) (F. DE E., P.O. 28 DE OCTUBRE DE 2008)
+
+g) La infraestructura y los servicios que se prestarán entrañen información de naturaleza reservada para la administración pública estatal; o
+
+(ADICIONADO, P.O. 12 DE JUNIO DE 2008) (F. DE E., P.O. 28 DE OCTUBRE DE 2008)
+
+h) La construcción de infraestructura y prestación de servicios con el propósito de atender funciones de seguridad pública en los términos de la legislación aplicable.
 
 2. La dependencia o entidad deberá fundar y motivar la excepción al procedimiento de licitación pública y la selección del procedimiento de invitación restringida o de asignación directa. Al hacerlo, señalará las circunstancias que medien para esa decisión y la determinación adoptada con base en los criterios de economía, eficiencia, eficacia, imparcialidad y honradez, a fin de asegurar las mejores condiciones factibles.
 
@@ -822,6 +840,8 @@ f) la justificación de que por la especialidad de los servicios materia del con
 Normatividad aplicable.
 
 Las disposiciones de esta ley relativas al procedimiento de licitación pública serán aplicables a los procedimientos de excepción, en lo que no se contrapongan a lo previsto en este capítulo.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 56.
 
@@ -837,9 +857,15 @@ c) La entrega del modelo del contrato a los participantes al momento de formular
 
 d) El señalamiento en la invitación de los plazos para la presentación de ofertas; y
 
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2008)</small>
+
 e) El establecimiento en la invitación de los términos de referencia de las propuestas técnicas y la descripción del sistema de evaluación de las propuestas, aplicándose lo dispuesto para la evaluación de las ofertas de licitaciones públicas contemplado en esta ley.
 
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2008)</small>
+
 2. Serán desechadas las ofertas cuya propuesta económica no presente un beneficio para la dependencia o entidad en términos del estudio de costo-beneficio.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2008)</small>
 
 3. Si por causas imputables al licitante ganador no se suscribe el contrato correspondiente, dentro de los 30 días naturales siguientes al establecimiento de que el contrato no se suscribirá, la dependencia o entidad podrá adjudicar el contrato al licitante que haya quedado en segundo lugar y así sucesivamente, salvo que la propuesta económica no presente beneficio en términos del estudio de costo-beneficio.
 
@@ -1147,6 +1173,8 @@ Del recurso.
 
 ### Capítulo IV. De las Excepciones al Procedimiento de Licitación Pública
 
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 86.
 
 Del escrito de inconformidad.
@@ -1223,6 +1251,10 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mi siete.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE JUNIO DE 2008.
+
 ## TITULO TERCERO. De los Proyectos para la Prestación de Servicios
 
 ### Capítulo II. De la ejecución del contrato
@@ -1256,3 +1288,7 @@ Del registro de contratos.
 ## TITULO DECIMO. Del recurso de inconformidad
 
 ## TITULO UNDECIMO. De la solución de controversias
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
