@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-mediante-el-cual-se-aprueban-los-lineamientos-que-61066
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-05-27"
-last_updated: "2008-05-27"
+last_updated: "2008-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61066&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-05-26"
 
 ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS QUE DEBERAN OBSERVAR LOS ENTES PUBLICOS DEL DISTRITO FEDERAL EN LA RECEPCION, REGISTRO, TRAMITE, RESOLUCION Y NOTIFICACION DE LAS SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA A TRAVES DEL SISTEMA ELECTRONICO INFOMEX, Y SE DEROGAN LOS ACUERDOS 129/SE/23-10/2006 Y 248/SE/04-09/2007, APROBADOS POR EL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JUNIO DE 2008.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2008.
 
@@ -214,7 +214,11 @@ V. En su caso, dentro de los cinco días hábiles siguientes a aquel en que se t
 
 VI. De ser necesario, notificar al solicitante, en el domicilio o medio señalado para recibir notificaciones, la ampliación por una sola vez del plazo de resolución hasta por diez días hábiles más en los términos del artículo 51, primer párrafo de la Ley, para lo cual se hará un registro en el módulo manual de INFOMEX de la emisión de la ampliación en el que se indiquen las razones por las cuales se hará uso de la prórroga. La ampliación de plazo no será procedente cuando la información solicitada sea considerada como pública de oficio.
 
-VII. En su caso, dentro de los cinco días hábiles siguientes a aquel en que se tenga por recibida la solicitud, orientar al solicitante en el domicilio o medio señalado para recibir notificaciones, cuando el ente público de que se trate no sea competente para entregar la información o que no corresponda al ámbito de sus atribuciones, así como remitir la solicitud a la Oficina de Información Pública que corresponda.
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2008)</small>
+
+VII. En su caso, dentro de los cinco días hábiles siguientes a aquel en que se tenga por recibida la solicitud, orientar al solicitante en el domicilio o medio señalado para recibir notificaciones, cuando el ente público de que se trate no sea competente para entregar la información o que no corresponda al ámbito de sus atribuciones, así como remitir la solicitud a la Oficina u Oficinas de Información Pública que correspondan.
+
+Una vez recibida una solicitud de información que ha sido remitida, no procederá un nuevo envío, por lo cual se deberá proporcionar al solicitante la orientación correspondiente.
 
 Si el ente público de que se trate es competente para entregar parte de la información, deberá dar respuesta respecto de dicha información y orientar al solicitante a la Oficina de Información Pública competente para dar respuesta al resto de la solicitud.
 
@@ -299,3 +303,21 @@ Primero. Los presentes lineamientos entrarán en vigor al día siguiente de su p
 Segundo. Se abrogan los Lineamientos que deberán observar los entes públicos del Distrito Federal en la recepción, registro, trámite, resolución y notificación de las solicitudes de acceso a la información pública y de acceso o rectificación de datos personales a través del sistema electrónico Infomex, aprobados mediante el acuerdo 129/SE/23-10/2006 y reformados mediante el acuerdo 248/SE/04-09/2007.
 
 Tercero. Las solicitudes de acceso a la información pública así como de acceso y/o rectificación de datos personales presentadas con anterioridad a la entrada en vigor de los presentes lineamientos, se seguirán tramitando de conformidad con los lineamientos señalados en el artículo anterior hasta su conclusión.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2008)</small>
+
+Cuarto. La obligación de remitir la solicitud de información a través del sistema INFOMEX a más de una Oficina de Información Pública, prevista en el numeral 8, fracción VII, párrafo primero, de los presentes lineamientos será aplicable una vez que esta (sic) sistema permita a las Oficinas de Información Pública turnar las solicitudes a más de un ente público.
+
+Hasta en tanto se realicen las adecuaciones al sistema INFOMEX, las Oficinas de Información Pública que requieran remitir una solicitud a más de un ente público por las razones previstas en el artículo señalado en el párrafo anterior, deberán enviarla al ente público que consideren idóneo para detentar la información, conforme a la normatividad aplicable al caso, mediante el sistema INFOMEX y, a los restantes, al domicilio o correo electrónico de las Oficinas de Información Pública que correspondan para su registro en el Módulo Manual de INFOMEX, informado al solicitante de dicha circunstancia y del número telefónico, correo electrónico y domicilio de las Oficinas de Información Pública a las que se haya turnado la solicitud.
+
+Cuando la solicitud ingrese a través del módulo electrónico INFOMEX, la Oficina de Información Pública al notificar al solicitante sobre el envío de la solicitud a otro ente público, deberá informar al solicitante que, en un plazo no mayor a cinco días hábiles posteriores a la notificación, deberá ponerse en contacto con los entes públicos a los que se haya turnado la solicitud, a fin de señalar domicilio o medio para recibir notificaciones e información. Si el solicitante no atiende el requerimiento, las notificaciones se realizarán por lista que se fije en los estrados de la Oficina de Información Pública a la que haya sido turnada la solicitud.
+
+El Instituto, a través del sitio de Internet a que se refiere el numeral 22 de los presentes lineamientos, hará del conocimiento la fecha en la que el sistema INFOMEX permita a las Oficinas de Información Pública turnar las solicitudes a más de un ente público.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 12 DE JUNIO DE 2008.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO. El presente acuerdo entrará en vigor al mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
