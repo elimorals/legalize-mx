@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-que-regiran-la-operacion-del-centro-de-61067"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-05-27"
-last_updated: "2008-05-27"
+last_updated: "2008-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61067&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-05-26"
 
 ACUERDO 227/SE/26-05/2008 POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL (TEL-INFODF), Y SE ABROGAN LOS APROBADOS MEDIANTE EL ACUERDO 247/SE/04-09/2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2008.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2008.
 
@@ -96,7 +96,9 @@ LINEAMIENTOS QUE REGIRÁN LA OPERACIÓN DEL CENTRO DE ATENCIÓN TELEFÓNICA DEL 
 
 ### Capítulo Único. Disposiciones generales
 
-1. Los presentes lineamientos son de observancia obligatoria para el personal del Instituto y de carácter vinculatorio para los entes públicos del Distrito Federal, en el ámbito de su competencia. Tienen por objeto establecer las reglas de operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal, que se seguirán para la asistencia en el registro de solicitudes de acceso a la información pública. De igual forma, dicho centro brindará el servicio de orientación en materia de acceso a la información. Todos los servicios del Centro de Atención Telefónica serán gratuitos.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2008)</small>
+
+1. Los presentes lineamientos son de observancia obligatoria para el personal del Instituto y de carácter vinculatorio para los entes públicos del Distrito Federal, en el ámbito de su competencia. Tienen por objeto establecer las reglas de operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal, que se seguirán para la asistencia en el registro de solicitudes de acceso a la información pública. De igual forma, dicho centro brindará el servicio de recepción y registro de las denuncias de particulares sobre violaciones a las disposiciones relativas a información pública de oficio contenidas en la Ley y demás normatividad aplicable, así como orientación en materia de acceso a la información. Todos los servicios del Centro de Atención Telefónica serán gratuitos.
 
 2. Además de las definiciones contenidas en el Artículo 4 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, y las contenidas en los Lineamientos que deberán observar los entes públicos del Distrito Federal en la recepción, registro, trámite, resolución y notificación de las solicitudes de acceso a la información pública a través del sistema electrónico INFOMEX, para los efectos del presente documento se entenderá por:
 
@@ -105,6 +107,14 @@ I. Agente: Persona capacitada para registrar las solicitudes de información pú
 II. Consulta telefónica: La petición de orientación y/o asesoría presentada por el interesado, vía telefónica, a través del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal para que el propio usuario pueda registrar y dar seguimiento a las solicitudes de información pública, interponer recursos de revisión; así como la orientación y/o asesoría en materia de acceso a la información pública.
 
 III. DVS: La Dirección de Vinculación con la Sociedad del Instituto de Acceso a la Información Pública del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2008)</small>
+
+III. Bis. DEE. Dirección de Evaluación y Estudios.
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2008)</small>
+
+III.Ter. Denuncia. Acto mediante el cual las personas hacen del conocimiento del Instituto el incumplimiento de las disposiciones referidas a la información pública de oficio que están establecidas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable.
 
 IV. Gestión telefónica: Es la tarea de los agentes del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal, consistente en la captura en el módulo manual del sistema INFOMEX, de solicitudes de acceso a la información pública, así como de ingreso al módulo referido para informar, a petición del usuario, del estado que guardan dichas solicitudes.
 
@@ -136,9 +146,13 @@ XIII. Usuario: La persona que se comunica a TEL-INFODF y requiere atención, ví
 
 I. Facilitar, ampliar y fortalecer el ejercicio del derecho de acceso a la información pública en el Distrito Federal.
 
-II. Otorgar apoyo técnico a la población, vía telefónica, para la captura de sus solicitudes de acceso a la información pública.
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2008)</small>
 
-III. Brindar orientación telefónica sobre los procedimientos que deben realizarse para solicitar la información pública generada, administrada, o en posesión de los entes públicos, así como sobre la presentación de recursos de revisión; además de la asesoría para realizar los trámites correspondientes y la manera de llenar los formatos que se requieran.
+II. Otorgar apoyo técnico a la población, vía telefónica, para la captura de sus solicitudes de acceso a la información pública, así como para la presentación de sus denuncias.
+
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2008)</small>
+
+III. Brindar orientación telefónica sobre los procedimientos que deben realizarse para solicitar la información pública generada, administrada, o en posesión de los entes públicos, así como sobre la presentación de denuncias y recursos de revisión; además de la asesoría para realizar los trámites correspondientes y la manera de llenar los formatos que se requieran.
 
 IV. Favorecer el nivel de participación social de las personas, al facilitar el ejercicio de su derecho de acceso a la información pública, así como difundir la cultura de la transparencia, a través de la asesoría y orientación que brinde TELINFODF, en el ámbito del derecho referido.
 
@@ -184,6 +198,10 @@ vi. Las obligaciones de transparencia de los entes públicos contenidas en los a
 
 vii. Los pasos a seguir para interponer los recursos de revisión ante el Instituto en los términos previstos por la Ley.
 
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2008)</small>
+
+IV. Capturar las denuncias de los particulares y turnarlas a la DEE para su atención.
+
 7. El horario de atención de TEL-INFODF será de lunes a viernes de 9:00 a 18:00 Hrs.
 
 8. Para efectos de los presentes Lineamientos, serán días inhábiles los siguientes: los sábados y domingos; el 1 de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; el 1 de mayo; el 16 de septiembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
@@ -204,7 +222,9 @@ IV. El domicilio y directorio de las Oficinas de Información Pública de los en
 
 V. Los objetivos y el funcionamiento del Instituto, y
 
-VI. Cualquier otra información que tenga relación con el procedimiento para la realización de solicitudes de acceso a la información pública así como para la interposición del recurso de revisión ante el Instituto.
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2008)</small>
+
+VI. Cualquier otra información que tenga relación con el procedimiento para la realización de solicitudes de acceso a la información pública así como para la presentación de denuncias y del recurso de revisión ante el Instituto.
 
 10. Para asegurar la calidad del servicio que se proporciona a los usuarios, todas las llamadas que ingresen a TEL-INFODF serán grabadas desde el momento en que ingrese la llamada y hasta que se finalice la misma. Esta situación será comunicada por el sistema telefónico con el que opera el TEL-INFODF.
 
@@ -255,3 +275,11 @@ Primero. Los presentes lineamientos entrarán en vigor al día siguiente de su p
 Segundo. Se abrogan los Lineamientos que regirán la operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal (TEL-INFODF), aprobados mediante el acuerdo 247/SE/04-09/2007.
 
 Tercero. Las solicitudes de acceso a la información pública así como de acceso y/o rectificación de datos personales capturadas a través de TEL-INFODF con anterioridad a la entrada en vigor de los presentes lineamientos, se seguirán tramitando de conformidad con los lineamientos aprobados mediante el acuerdo señalado en el artículo anterior, hasta su conclusión.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 12 DE JUNIO DE 2008.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO. El presente acuerdo entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
