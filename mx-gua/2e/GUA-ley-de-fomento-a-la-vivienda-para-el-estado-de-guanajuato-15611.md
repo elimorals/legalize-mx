@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-la-vivienda-para-el-estado-de-guanajuato-15611
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-21"
-last_updated: "1999-12-21"
+last_updated: "2008-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE FOMENTO A LA VIVIENDA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de diciembre de 1999.
 
@@ -356,3 +358,83 @@ LIC. RAMON MARTIN HUERTA.
 EL SECRETARIO DE GOBIERNO
 
 LIC. ANTONIO OBREGÓN PADILLA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JUNIO DE 2008.
+
+Entrada en vigor de la Ley
+
+Artículo Primero. La presente Ley entrará en vigor noventa días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la Ley de Fomento a la Vivienda
+
+Artículo Segundo. Se abroga la Ley de Fomento a la Vivienda para el Estado de Guanajuato, contenida en el decreto número 201, expedido por la Quincuagésima Séptima Legislatura Constitucional del Estado Libre y Soberano de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 102, Segunda Parte, de fecha 21 de diciembre de 1999, con las salvedades que se establecen en los artículos transitorios siguientes.
+
+Derogación de disposiciones que se opongan a la presente Ley
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+Término para la expedición del reglamento de la Ley
+
+Artículo Cuarto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de noventa días contados a partir del día en que quede legalmente instalada la Junta de Gobierno; mientras se expide el reglamento, continuará aplicándose en lo que no se oponga a la presente Ley el reglamento vigente.
+
+En tanto la Comisión de Vivienda del Estado de Guanajuato expide las disposiciones administrativas a que se refiere esta Ley, seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes y en lo que no se opongan a la presente Ley.
+
+Mandatos y actuaciones en materia de fiscalización
+
+Artículo Quinto. Los poderes, mandatos y en general las representaciones otorgadas y facultades concedidas por el Instituto de Vivienda del Estado de Guanajuato con anterioridad a la entrada en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+En el supuesto de que existan asuntos en la Secretaría de la Gestión Pública o en el órgano de control interno del Instituto de Vivienda del Estado de Guanajuato, que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán ser concluidos por la Secretaría de la Gestión Pública aplicando lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y demás ordenamientos legales aplicables en la materia.
+
+Disposiciones para la constitución de la Comisión
+
+Artículo Sexto. El Ejecutivo del Estado contará con un plazo de treinta días contados a partir de la entrada en vigor del presente Decreto, para implementar la Comisión de Vivienda del Estado de Guanajuato. En tanto no se constituya el organismo mencionado, el Instituto de Vivienda del Estado de Guanajuato continuará ejerciendo las atribuciones que en materia de vivienda le otorga la ley que abroga el Artículo Segundo Transitorio del presente Decreto, con la misma naturaleza de organismo público descentralizado con personalidad jurídica y patrimonio propio.
+
+Recuperación de adeudos del Instituto de Vivienda del Estado de Guanajuato
+
+Artículo Séptimo. El Ejecutivo del Estado deberá realizar las acciones para la sustitución del Instituto de Vivienda del Estado de Guanajuato; éste último, antes del vencimiento del plazo referido en el artículo inmediato anterior, se reducirá al personal indispensable para que en el plazo de tres años contados a partir de que se instale la Comisión de Vivienda del Estado de Guanajuato, analice, clasifique, tramite, cobre, conteste y continúe todo tipo de procedimientos jurídicos, demandas y ejerza las demás acciones de carácter legal, que procedan, entre otras, y podrá convenir, a efecto de atender las obligaciones que quedaran pendientes del referido Instituto y recuperar derechos, bienes, activos y cartera vencida. Transcurrido el cual, en los seis meses siguientes, transferirá la totalidad de los títulos y derechos que aún estén en proceso de recuperación a la Comisión de Vivienda del Estado de Guanajuato, así como los inmuebles, muebles y demás deudas con que aún cuente el Instituto de Vivienda del Estado de Guanajuato; agotado dicho proceso, se extinguirá este Instituto.
+
+La Secretaría de la Gestión Pública vigilará el proceso de entrega-recepción, el que se ajustará a lo dispuesto en los lineamientos establecidos en el presente Decreto, y a los que emita la propia Secretaría.
+
+El Instituto de Vivienda del Estado de Guanajuato deberá presentar un informe trimestral de sus actividades a la Junta de Gobierno de la Comisión de Vivienda del Estado de Guanajuato, copia del cual se entregará al Congreso del Estado; dicho informe deberá realizarse con la participación de la Secretaría de Finanzas y Administración, a efecto de que el mismo se incorpore en forma particular dentro de la cuenta pública de la recuperación que ejecute el Instituto de Vivienda del Estado de Guanajuato.
+
+La Secretaría de la Gestión Pública habilitará al personal necesario para formar parte del proceso de transferencia de títulos y derechos que aún estén en proceso de recuperación y demás bienes y derechos, y deberá fincar los procedimientos de responsabilidades que, en su caso, resulten aplicables.
+
+Los activos y recursos de cartera vencida que recupere el Instituto de Vivienda del Estado de Guanajuato pasarán a la Comisión de Vivienda del Estado de Guanajuato, a fin de que se incorporen a su patrimonio en términos de lo dispuesto por el artículo 12 fracción I de la presente Ley, y se deberá informar de ello a la Junta de Gobierno de la referida Comisión.
+
+Organización de la Comisión
+
+Artículo Octavo. La Comisión de Vivienda del Estado de Guanajuato deberá estar estructurada, con los elementos y organización necesarios, así como con las instalaciones adecuadas, para iniciar funciones en el término señalado en el Artículo Sexto Transitorio de este Decreto.
+
+El Instituto de Vivienda del Estado de Guanajuato contará con el espacio físico, mobiliario y equipo, así como con los recursos presupuestales que le asigne la Comisión de Vivienda del Estado de Guanajuato, los cuales no podrán ser otros que los indispensables para el desarrollo de las funciones encomendadas en el Artículo Séptimo Transitorio de este Decreto.
+
+La Comisión de Vivienda del Estado de Guanajuato tendrá la titularidad de todos los bienes, derechos y obligaciones propiedad del Instituto de Vivienda del Estado de Guanajuato que estuvieran adscritos o destinados bajo cualquier título al aludido Instituto, excepción hecha de las obligaciones y cuentas por cobrar, las que continuarán a cargo del Instituto de Vivienda del Estado de Guanajuato para efectos de su recuperación en los términos del Artículo Séptimo Transitorio y que se identificarán en el acta de entrega-recepción que se levantará al instalarse la citada Comisión.
+
+También forman parte del patrimonio de la Comisión de Vivienda del Estado de Guanajuato, todos aquellos bienes muebles e inmuebles pertenecientes al Instituto de Vivienda del Estado de Guanajuato que, a la entrada en vigor del presente Decreto, venía utilizando aquél, por lo que en un plazo no mayor de un año contado a partir de la entrada en vigor de este Decreto, se deberán haber concluido los trámites correspondientes para su formalización. Los bienes muebles se transferirán al patrimonio de la Comisión de Vivienda del Estado de Guanajuato, con excepción de los indispensables para el cumplimiento de las obligaciones previstas en el Artículo Séptimo Transitorio de este Decreto.
+
+Organización de la Comisión
+
+Artículo Noveno. Por esta sola ocasión el nombramiento del titular del Instituto de Vivienda del Estado de Guanajuato podrá recaer en el Director General de la Comisión de Vivienda del Estado de Guanajuato, a fin de vincular las acciones de estos organismos. En este supuesto, el Director General de la Comisión de Vivienda del Estado de Guanajuato sólo podrá percibir la remuneración correspondiente a este cargo.
+
+Asignación de recursos a la Comisión
+
+Artículo Décimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Comisión de Vivienda del Estado de Guanajuato, lo anterior con independencia de las reglas establecidas en el Artículo Octavo Transitorio del presente Decreto.
+
+Los recursos presupuestales del Instituto de Vivienda del Estado de Guanajuato se reasignarán a la Comisión de Vivienda del Estado de Guanajuato.
+
+Expedición del reglamento interior de la Comisión
+
+Artículo Décimo Primero. El Ejecutivo del Estado expedirá el reglamento interior de la Comisión de Vivienda del Estado de Guanajuato, a más tardar a los noventa días contados a partir del día en que quede legalmente instalada su Junta de Gobierno. Mientras se expide el citado reglamento continuará aplicándose, en lo que no se oponga a la presente Ley, el reglamento vigente.
+
+Respeto a los derechos laborales adquiridos
+
+Artículo Décimo Segundo. Las personas que a la entrada en vigor de la presente Ley presten un servicio personal subordinado al Instituto de Vivienda del Estado de Guanajuato, formarán parte del personal al servicio de la Comisión de Vivienda del Estado de Guanajuato, de acuerdo a sus funciones y capacidad, y conservarán las remuneraciones, prestaciones y antigüedad de las cuales gozan a la entrada en vigor de esta Ley. El personal indispensable para el desahogo de las actividades señaladas en el Artículo Séptimo Transitorio, se incorporará a esta Comisión al concluir su encomienda, atendiendo a sus funciones y capacidad.
+
+Referencia al organismo de vivienda en otras normas
+
+Artículo Décimo Tercero. Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan mención a la Ley de Fomento a la Vivienda para el Estado de Guanajuato, o al Instituto de Vivienda del Estado de Guanajuato, la referencia se entenderá hecha a la presente Ley y a la Comisión de Vivienda del Estado de Guanajuato, respectivamente.
+
+Designación de los representantes ante la Junta de Gobierno y el Consejo
+
+Artículo Décimo Cuarto. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de los municipios ante la Junta de Gobierno previstos en la fracción IX del artículo 14, atendiendo a un principio de pluralidad; así como a los vocales, como representantes de las diversas dependencias y entidades de la administración pública federal, estatal y municipal, y a los vocales, como representantes de los sectores social y privado, relacionados con el sector vivienda, previstos en las fracciones IV y V del artículo 23.
