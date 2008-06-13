@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2004-12-03"
+last_updated: "2008-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2008.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -2949,9 +2949,15 @@ Pronunciada la sentencia ejecutoria, sólo se admitirán las excepciones posteri
 
 Aun cuando en la sentencia que haya causado ejecutoria se fije término para el cumplimiento de la obligación, a solicitud de parte puede decretarse, en cualquier tiempo, antes de su cumplimiento, el embargo o aseguramiento de bienes suficientes para cumplir la sentencia o para asegurar el pago de los daños y perjuicios, en caso de incumplimiento.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
-Se equiparan a las sentencias ejecutorias, para efectos de ejecución, las transacciones o convenios judiciales o extrajudiciales ratificados judicialmente.
+Se equiparan a las sentencias ejecutorias, para efectos de ejecución:
+
+I.- Las transacciones o convenios judiciales o extrajudiciales ratificados judicialmente;
+
+II.- Los convenios celebrados por los interesados en el procedimiento previsto en la Ley para la Asistencia, la Prevención y la Atención de la Violencia Intrafamiliar del Estado de Guanajuato; y
+
+III.- Los convenios celebrados por los interesados con asistencia de los mediadores y conciliadores adscritos al Centro Estatal de Justicia Alternativa.
 
 ###### Art. 447.
 
@@ -2971,13 +2977,9 @@ II.- Los documentos públicos que conforme a este Código hacen prueba plena, y
 
 III.- Los documentos privados reconocidos ante notario o ante autoridad judicial.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+IV.- (DEROGADA, P.O. 13 DE JUNIO DE 2008)
 
-IV.- Los convenios o resoluciones que se dicten en el procedimiento previsto en la Ley de Atención a la Violencia Intrafamiliar en el Estado de Guanajuato, siempre y cuando hubieren sido ratificados ante el juez; y
-
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
-
-V.- Los convenios celebrados por los interesados con asistencia de los mediadores y conciliadores adscritos al Centro Estatal de Justicia Alternativa y ratificados ante juez competente.
+V.- (DEROGADA, P.O. 13 DE JUNIO DE 2008)
 
 ###### Art. 449.
 
@@ -4717,11 +4719,21 @@ La declaración de estado de interdicción puede pedirse por el cónyuge, por lo
 
 La declaración de estado de interdicción se hará mediante juicio seguido conforme a las disposiciones del Libro Segundo, entre el peticionario y un tutor interino que para tal objeto nombre el juez a la persona cuya interdicción se pida; esta última también será emplazada para que, si lo desea, pueda intervenir en el proceso respectivo. La falta de contestación de la demanda por parte del presunto interdicto, traerá como consecuencia que se considere únicamente la contestación que produzca el tutor interino.
 
-En caso de que el tutor interino y el presunto interdicto contesten la demanda en los mismos términos, se tendrá como representante común al primero, sin perjuicio de que el presunto interdicto pueda intervenir directamente en el proceso. Cuando el tutor interino y la persona cuya interdicción se pide, contesten la demanda en forma diferente o las excepciones y defensas opuestas por ellos sean distintas, no habrá representante común.
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2008)</small>
 
-El nombramiento de tutor interino deberá recaer en cualquiera de las personas siguientes, si tuvieren aptitud para desempeñarlo, a juicio del juez: cónyuge, padre, hijos, madre, abuelos o hermanos del presunto incapacitado; para este fin el juzgador deberá ordenar el desahogo de las diligencias que estime necesarias para que el nombramiento del tutor interino recaiga en la persona que resulte más adecuada para la defensa de los intereses del presunto interdicto.
+El juez antes de hacer la designación de tutor interino, girará oficio al registrador público donde se pretenda hacer la declaración de estado de interdicción, a efecto de cerciorarse de la no existencia de nombramiento alguno de tutor o tutores autodesignados; de existir, será llamado o, en su caso, llamados, para entrar en funciones en el juicio de declaración de estado de interdicción.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+
+A falta de tutor autodesignado, el nombramiento de tutor interino deberá recaer en cualquiera de las personas siguientes, si tuvieren aptitud para desempeñarlo, a juicio del juez: cónyuge, padre, hijos, madre, abuelos o hermanos del presunto incapacitado; para este fin el juzgador deberá ordenar el desahogo de las diligencias que estime necesarias para que el nombramiento del tutor interino recaiga en la persona que resulte más adecuada para la defensa de los intereses del presunto interdicto.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
 En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela interina, el juez, con todo escrúpulo, debe designar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del presunto interdicto o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+
+En caso de que el tutor interino y el presunto interdicto contesten la demanda en los mismos términos, se tendrá como representante común al primero, sin perjuicio de que el presunto interdicto pueda intervenir directamente en el proceso. Cuando el tutor interino y la persona cuya interdicción se pide, contesten la demanda en forma diferente o las excepciones y defensas opuestas por ellos sean distintas, no habrá representante común.
 
 ###### Art. 704.
 
@@ -4993,11 +5005,15 @@ La substanciación de las apelaciones en jurisdicción voluntaria se ajustará a
 
 Nombramiento de tutores y curadores y discernimiento de estos cargos.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+
 ###### Art. 711.
 
-Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella. Lo dispuesto sobre tutela es aplicable, en lo conducente, a la curatela.
+Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o incapacidad de la persona que va a quedar sujeta a ella, con excepción de lo dispuesto en cuanto a la tutela autodesignada. Lo dispuesto sobre tutela es aplicable, en lo conducente, a la curatela.
 
-La declaración de estado de minoridad puede pedirse por el mismo menor, si ha cumplido diez y seis años; por su cónyuge; por sus presuntos herederos legítimos, y por el Ministerio Público.
+En los casos de tutela autodesignada, ésta será inscrita en el Registro Público, de conformidad con lo dispuesto por el artículo 2495 fracción XIV del Código Civil para el Estado de Guanajuato.
+
+La declaración de estado de minoridad puede pedirse por el mismo menor, si ha cumplido dieciséis años; por su cónyuge; por sus presuntos herederos legítimos, y por el Ministerio Público.
 
 ###### Art. 712.
 
@@ -5113,25 +5129,45 @@ Adopción.
 
 El que pretenda adoptar a alguna persona deberá acreditar las exigencias de los artículos 448 y 451 del Código Civil.
 
-En la promoción inicial deberá manifestar el tipo de adopción que se promueva, el nombre, edad y domicilio del menor o incapacitado, y el nombre, edad y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, así como, el nombre y domicilio de la institución de asistencia o beneficencia que lo haya acogido.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
-En caso de querer variar el nombre del adoptado, en los términos del artículo 462 del Código Civil, se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
+En la promoción inicial deberá manifestarse el tipo de adopción que se promueva, el nombre, edad y domicilio del menor o incapacitado, y el nombre, edad y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, así como, el nombre y domicilio de la institución de asistencia o beneficencia que lo haya acogido, debiendo recabar, en este último caso, los antecedentes del menor o del incapacitado.
 
-Presentada la promoción y dentro de los tres días siguientes, se citara a quien ejerce la patria potestad o tutela sobre el menor o incapacitado, a fin de que otorguen su consentimiento en los términos del artículo 452 del Código Civil, así como para que manifieste la situación jurídica del menor o incapacitado que se pretende adoptar.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
-Dentro del mismo plazo se señalará día y hora para que tenga verificativo el desahogo de la prueba testimonial, en que habrá de acreditarse la solvencia moral y económica, así la reconocida probidad del o los adoptantes.
+Al momento de la presentación de la solicitud, el juez deberá imponer a el o los solicitantes de los deberes que genera la adopción, a efecto de que ratifiquen su intención de adoptar. El juez tendrá la facultad de recabar todo tipo de prueba necesaria y agilizar su desahogo, para mejor proveer.
 
-Cuando el menor hubiere sido acogido por una institución de asistencia o beneficencia, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos de la fracción IV del artículo 497 del Código Civil.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
-Se solicitará a la Procuraduría en Materia de Asistencia Social haga las investigaciones correspondientes a efecto de constatar si la adopción solicitada por los adoptantes es benéfica para el menor o incapacitado, debiendo rendir un informe al Juez en el término de tres días; en caso de no rendirlo se le tendrá por conforme con la adopción.
+En caso de querer variar el nombre del adoptado, en los términos del artículo 462 del Código Civil se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
 
-En caso de oposición se estará a lo dispuesto por el artículo 708 del Código de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+
+Presentada la promoción y dentro de los tres días siguientes, se citará a quien ejerce la patria potestad o tutela sobre el menor o incapacitado, a fin de que otorgue su consentimiento en los términos del artículo 452 del Código Civil, así como para que manifieste la situación jurídica del menor o incapacitado que se pretende adoptar.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+
+Se solicitará a la Procuraduría en Materia de Asistencia Social haga las investigaciones y valoraciones correspondientes a efecto de constatar si la adopción solicitada por los adoptantes es benéfica para el menor o incapacitado, debiendo rendir un informe al Juez en el término de cinco días; en caso de no rendirlo se le tendrá por conforme con la adopción.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+
+Dentro del plazo de tres días se señalará día y hora para que tenga verificativo el desahogo de la prueba testimonial, en que habrá de acreditarse la solvencia moral y económica así como la reconocida probidad del o los adoptantes.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+
+En caso de oposición, se estará a lo dispuesto por el artículo 708 de este Código.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
 ###### Art. 729.
 
 Rendidas las justificaciones que se exigen en el artículo anterior, el Tribunal resolverá dentro del tercer día, debiendo remitir la resolución judicial y el duplicado del expediente relativo al Oficial del Registro Civil para los efectos correspondientes de los artículos 88, 458 y 464 del Código Civil.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2008)</small>
+
+###### Art. 729-A.
+
+Cuando el adoptante o los adoptantes soliciten la conversión de la adopción simple a plena, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los cinco días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público o de la Procuraduría en Materia de Asistencia Social, así como a quien habrá de otorgar su consentimiento en los términos del artículo 464-J del Código Civil para el Estado de Guanajuato, luego de la cual se resolverá lo conducente en un término de tres días posteriores a dicha audiencia.
 
 ###### Art. 730.
 
@@ -5753,13 +5789,13 @@ Conforme a las previsiones presupuestales para el ejercicio fiscal de 1997, cont
 
 Una vez que se instale el Juzgado mixto de primera instancia de nueva creación, los juzgados civil y penal de primera instancia de San Miguel de Allende le remitirán los expedientes de su competencia por territorio.
 
-P.O. 11 DE FEBRERO DE 1997.
+P.O. 1 DE ABRIL DE 1997.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
-P.O. 1 DE ABRIL DE 1997.
+P.O. 17 DE JUNIO DE 1997.
 
 ###### ARTICULO PRIMERO.
 
@@ -5771,7 +5807,7 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 
 Para los efectos de los artículos 23 del Código de Procedimientos Civiles y 295 y 351 del Código de Procedimientos Penales reformados, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente Decreto, continuarán substanciándose ante el Juzgado que esté conociendo de los mismos.
 
-P.O. 17 DE JUNIO DE 1997.
+P.O. 11 DE FEBRERO DE 1997.
 
 ###### ARTICULO UNICO.
 
@@ -5814,3 +5850,9 @@ Artículo Segundo.- Los asuntos, negocios y juicios que se hayan iniciado antes 
 P.O. 3 DE DICIEMBRE DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE JUNIO DE 2008.
+
+Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los juicios de adopción que estén en trámite, se continuarán substanciando conforme a las reglas vigentes al momento de su promoción.
