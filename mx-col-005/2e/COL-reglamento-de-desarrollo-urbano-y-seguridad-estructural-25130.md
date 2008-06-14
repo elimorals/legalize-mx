@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-desarrollo-urbano-y-seguridad-estructural-25130"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2003-03-22"
+last_updated: "2008-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COL"
 
 REGLAMENTO DE DESARROLLO URBANO Y SEGURIDAD ESTRUCTURAL PARA EL MUNICIPIO DE CUAUHTEMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico del Estado de Colima, el sábado 25 de mayo del 2002.
 
@@ -32,21 +32,27 @@ H. AYTO. CONSTITUCIONAL DE CUAUHTÉMOC, COL.
 
 REGLAMENTO DE DESARROLLO URBANO Y SEGURIDAD ESTRUCTURAL PARA EL MUNICIPIO DE CUAUHTEMOC
 
-###### ARTICULO 1.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTÍCULO 1.
 
 El presente Ordenamiento Municipal tiene como objetivo principal el logro de las condiciones de salvaguarda y bienestar de la población y sus bienes, mediante la reglamentación de la actividad inherente al proceso constructivo de las edificaciones, así como:
 
-- Garantizar que la ubicación de los Centros de Población, Fraccionamientos y Edificaciones en general, se efectúen en zonas y sitios que presenten condiciones optimas de desarrollo y seguridad respecto a la incidencia y frecuencia de elementos y fenómenos destructivos de carácter natural o artificial.
+Garantizar que la ubicación de los Centros de Población, Aprovechamientos Urbanos del suelo y Edificaciones en general, se efectúen en zonas y sitios que presenten condiciones óptimas de desarrollo y seguridad respecto a la incidencia y frecuencia de elementos y fenómenos destructivos de carácter natural o artificial.
 
-- Lograr la congruencia de la ubicación, función, frecuencia de uso y concurrencia de las construcciones, en relación con lo establecido en los Instrumentos de Planeación.
+Lograr la congruencia de la ubicación, función, frecuencia de uso y concurrencia de las construcciones, en relación con lo establecido en los Instrumentos de Planeación.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 2.
 
-Es de orden publico e interés general el cumplimiento y observancia de este Reglamento y de sus Normas Técnicas en materia de Desarrollo Urbano, Planificación, Seguridad Estructural e Higiene; así como las limitaciones y modalidades que se imponga al uso de los terrenos o de las edificaciones de propiedad publica o privada en los Planes, Programas Parciales, Declaratorias y demás Disposiciones legales y reglamentarias aplicables.
+Es de orden público e interés general el cumplimiento y observancia de este Reglamento y de sus Normas Técnicas en materia de Desarrollo Urbano, Planificación, Seguridad Estructural e Higiene; así como las limitaciones y modalidades que se imponga al uso de los terrenos o de las edificaciones de propiedad pública o privada en los Programas de Desarrollo Urbano y demás Disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 3.
 
-Las obras de construcción, instalación, modificación, ampliación, reparación y demolición, así como la ocupación y uso de las edificaciones, los Usos, Destinos y Reservas de los predios del Municipio, se sujetaran a las disposiciones de la “Ley de Asentamientos Humanos del Estado de Colima, de este Reglamento y demás disposiciones aplicables.
+Las obras de construcción, instalación, modificación, ampliación, reparación y demolición, así como la ocupación y uso de las edificaciones, los Usos, Destinos y Reservas de los predios del Municipio, se sujetaran a las disposiciones de la “Ley de Asentamientos Humanos del Estado de Colima, del Reglamento de Zonificación para el Estado de Colima, de este Reglamento, Capítulos I, II y III del Título Tercero "De la movilidad en los diferentes espacios" de la Ley para la Integración y Desarrollo Social de las personas con Discapacidad, del Estado de Colima, y demás disposiciones aplicables.
 
 Terminología.
 
@@ -62,11 +68,25 @@ II.- LA LEY: Ley de Asentamientos Humanos del Estado de Colima.
 
 III.- REGLAMENTO: Al presente Ordenamiento.
 
-IV.- INSTRUMENTO DE PLANEACION: Al Plan Estatal de Desarrollo Urbano, al Programa de Desarrollo Urbano de cada centro de población y a todos los Programas Parciales vigentes.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+IV.- INSTRUMENTO DE PLANEACION: Al Programa de Desarrollo Urbano del Estado de Colima, al Programa de Desarrollo Urbano de cada Centro de Población y a todos los Programas Parciales vigentes.
 
 V.- CONSEJO: Al Consejo Consultivo de Desarrollo Urbano.
 
 VI.- NORMAS: A las Normas Técnicas complementarias de este REGLAMENTO.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+VII.- REGLAMENTO ESTATAL: Reglamento de Zonificación para el Estado de Colima.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+VIII.- BARRERAS ARQUITECTÓNICAS Y DE COMUNICACIÓN: Todos aquellos elementos de construcción del sector público, social o privado, que dificulten, entorpezcan o impidan a personas con discapacidad y con problemas de movilidad, el fácil y seguro acceso, desplazamiento y comunicación en espacios interiores y exteriores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+IX.- DISEÑO UNIVERSAL.- El diseño de productos y entornos arquitectónicos y de comunicación, para ser usados por todas las personas, al máximo posible, sin adaptaciones o necesidad de un diseño especializado.
 
 ### Capitulo II (SIC). Autoridades y Facultades
 
@@ -82,7 +102,9 @@ I.- Acordar disposiciones administrativas para que las construcciones, instalaci
 
 II.- Controlar el crecimiento urbano y las densidades de construcción y población de acuerdo con el interés público y con sujeción a las leyes sobre la materia.
 
-III.- Conceder o negar, de acuerdo con este REGLAMENTO, permisos de construcción, así como las obras relacionadas con la misma, y todo lo indicado con el Articulo 3 de este REGLAMENTO.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+III.- Conceder o negar, de acuerdo al presente REGLAMENTO, permisos de construcción, así como las obras relacionadas con la misma, y todo lo indicado con el Artículo 3 de este REGLAMENTO.
 
 IV.- Inspeccionar todas las obras e instalaciones que se ejecuten o estén terminadas.
 
@@ -90,7 +112,9 @@ V.- Practicar inspecciones para conocer el uso que se haga de un predio, estruct
 
 VI.- Ordenar la suspensión o clausura de obras en los casos previstos por este REGLAMENTO.
 
-VII.- Dictar disposiciones en relación con edificios peligrosos y establecimientos malsanos o que causen molestias, para que cese tal peligro y perturbación y sugerir si es el caso a la Presidencia Municipal el cierre de los establecimientos y desocupación de los edificios para la resolución del caso por dicha autoridad.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+VII.- Dictar disposiciones en relación con edificios peligrosos y establecimientos nocivos o que causen molestias, para que cese tal peligro y perturbación y sugerir si es el caso a la Presidencia Municipal el cierre de los establecimientos y desocupación de los edificios para la resolución del caso por dicha autoridad.
 
 VIII.- Ordenar y ejecutar demoliciones de edificios en los casos previstos por este REGLAMENTO.
 
@@ -104,7 +128,9 @@ XII.- Llevar un registro clasificado de Director Responsable de Obra, Correspons
 
 XIII.- Aprobar o negar cualquier proyecto de construcción, tomando en cuenta las normas del presente REGLAMENTO, de la LEY y de otros ordenamientos sobre la materia.
 
-XIV.- Dictaminar sobre la procedencia de ubicación y fijar restricciones en los lugares en que no existan INSTRUMENTOS DE PLANEACION. En casos especiales solicitara la intervención del CONSEJO.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+XIV.- Dictaminar sobre la procedencia de ubicación y fijar restricciones en los lugares en que no existan INSTRUMENTOS DE PLANEACIÓN. En casos especiales solicitará la intervención del CONSEJO.
 
 Facultades del CONSEJO
 
@@ -136,13 +162,15 @@ Será facultad de la DIRECCION aprobar el uso del suelo y el otorgamiento del pe
 
 Sistemas tradicionales de Construcción.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 10.
 
-Se entienden como sistemas tradicionales de construcción, las edificaciones construidas con materiales no industrializados de vivienda vernácula, de la que se ejemplifica la siguiente tipología:
+Se entienden como sistemas tradicionales de construcción, las edificaciones construidas con materiales no industrializados, de la que se ejemplifica la siguiente tipología:
 
-- Construcciones de piedra, adobe, ladrillo y teja.
+Construcciones de piedra, adobe, ladrillo y teja.
 
-- Construcciones de pajarete (bahareque) y palapa.
+Construcciones de pajarete (bahareque) y palapa.
 
 ###### ARTICULO 11.
 
@@ -154,7 +182,9 @@ Los particulares o autoconstructores que aplicando sistemas tradicionales de con
 
 #### Sección Primera. Uso del Suelo
 
-Planes y Programas de Desarrollo Urbano.
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JUNIO DE 2008)</small>
+
+Programas de Desarrollo Urbano.
 
 ###### ARTICULO 12.
 
@@ -166,11 +196,15 @@ Parámetros máximos de intensidad de uso.
 
 En los INSTRUMENTOS DE PLANEACION se establecen las bases para la determinación de coeficientes destinados a fijar la ocupación de los predios. Para los casos no previstos se enumeran los conceptos en los que se establece el grado de aprovechamiento, el cual está expresado por el Coeficiente de Ocupación del Suelo (C.O.S.), entendiéndose por éste el número de metros cuadrados construidos por metro cuadrado de terreno, y Coeficiente de Utilización del suelo (C.U.S.), entendiéndose como el número de metros cuadrados construidos que puede alcanzar la suma de las superficies construidas de todas las plantas, por cada metro cuadrado de terreno.
 
-Todo aprovechamiento de suelo se verificará de congruencia con los INSTRUMENTOS DE PLANEACION VIGENTES, ante la dependencia Municipal y la Secretaría respectivamente, según lo establece el Artículo 132 de la LEY DE ASENTAMIENTOS HUMANOS PARA EL ESTADO DE COLIMA.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Todo aprovechamiento urbano de suelo se verificará de congruencia con los instrumentos de planeación vigentes, ante la dependencia Municipal y la Secretaría respectivamente, según lo establece el Artículo 132 de la Ley de Asentamientos Humanos para el Estado de Colima.
 
 ###### ARTICULO 14.
 
-Para que pueda otorgarse FACTIBLE cualquier aprovechamiento del suelo, subdivisión, fusión, adaptación o modificación de un predio o edificio de habitación, o cualquiera que sea su uso, será requisito indispensable que previamente se apruebe su congruencia con los INSTRUMENTOS DE PLANEACION vigentes, ante la dependencia correspondiente por medio de un dictamen de vocacionamiento de uso de suelo y carta por parte de las autoridades referente a la factibilidad de integración y dotación de servicios.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Para que pueda otorgarse FACTIBLE cualquier aprovechamiento urbano del suelo, subdivisión, fusión, adaptación o modificación de un predio o edificio de habitación, o cualquiera que sea su uso, será requisito indispensable que previamente se apruebe su congruencia con los INSTRUMENTOS DE PLANEACIÓN vigentes, ante la dependencia correspondiente por medio de un Dictamen de Vocación de Uso de Suelo y oficio expedido por parte de las autoridades respecto a la factibilidad de integración y dotación de servicios.
 
 Asimismo será requisito la compatibilidad del emplazamiento de acuerdo al resultado de los estudios técnicos indispensables, sobre todo aquellos localizados en zonas de riesgo identificadas.
 
@@ -184,19 +218,25 @@ II) Excavación de terrenos, depósitos de basura y escombros.
 
 III) Los que produzcan humedad, salinidad, corrosión, emanaciones de gases, humos o polvos, ruidos, trepidaciones, cambios sensibles de temperatura, malos olores y otros efectos perjudiciales para las personas o edificaciones.
 
-IV) Los demás que establecen los códigos civil, sanitario y sus reglamentos respectivos.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-La DIRECCION no autorizará las construcciones que presenten los anteriores riesgos dentro de las zonas habitacionales, comerciales o cualesquiera en las que se considere inconveniente según la LEY o LOS INSTRUMENTOS DE PLANEACION.
+IV) Los demás que establecen los Códigos Civil, Sanitario y sus Reglamentos respectivos.
 
-Sólo podrá permitirlas en los lugares destinados para ello conforme a la zonificación aprobada en el Programa de Desarrollo Urbano o en su caso en el Programa Parcial de Urbanización en cada centro de población del Municipio o en otros lugares donde la DIRECCIÓN juzgue conveniente siempre y cuando no altere lo establecido en los INSTRUMENTOS DE PLANEACION y cuando se tomen las medidas de protección y seguridad adecuadas.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+La dirección no autorizará las construcciones que presenten los anteriores riesgos dentro de las zonas habitacionales, comerciales o cualesquiera en las que se considere inconveniente según la Ley o los instrumentos de planeación.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Sólo podrá permitirlas en los lugares destinados para ello conforme a la zonificación establecida en el Programa de Desarrollo Urbano o en su caso en el Programa Parcial de Urbanización en cada Centro de Población del Municipio o en otros lugares donde la dirección juzgue conveniente siempre y cuando no altere lo establecido en los instrumentos de planeación y cuando se tomen las medidas de protección y seguridad adecuadas.
 
 Cuando exista una edificación o predio que presente peligro, insalubridad o molestia, la DIRECCION ordenará con base en dictamen técnico la desocupación del inmueble o la ejecución de las obras, adaptaciones, instalaciones, demoliciones o trabajos necesarios para corregir las anomalías dentro del plazo que para ello señale.
 
 Si vencido el plazo no se cumpliese dicha orden, la DIRECCION, podrá llevar a cabo administrativamente y a costa del interesado, la desocupación, obras requeridas o clausura.
 
-> <small>(REFORMADO, P.O, 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
-Dentro de los ocho días siguientes a la fecha en que se reciba la orden a la que se refieren los dos párrafos anteriores, el interesado podrá recurrir dicha orden, de acuerdo a lo consignado en el Código Fiscal Municipal, debiendo presentar dictamen de un Técnico Especializado con el registro correspondiente. El H. Ayuntamiento después de analizar la defensa del interesado, dictará la resolución procedente y en caso de incumplimiento, podrá ejecutarla como se dispone en el párrafo anterior.
+Dentro de los ocho días siguientes a la fecha en que se reciba la orden a la que se refieren los dos párrafos anteriores, el interesado podrá recurrir dicha orden, de acuerdo a lo consignado en el Código Fiscal Municipal del Estado de Colima, debiendo presentar dictamen de un Técnico Especializado con el registro correspondiente. El H. Ayuntamiento después de analizar la defensa del interesado, dictará la resolución procedente y en caso de incumplimiento, podrá ejecutarla como se dispone en el párrafo anterior.
 
 Autorizaciones Especiales.
 
@@ -234,17 +274,19 @@ Con la finalidad de garantizar la protección de la imagen urbana y las tipolog�
 
 Para la volumetría se expresan, además de lo mencionado en el Programa de cada centro de Población las siguientes disposiciones:
 
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
 I.- La altura máxima permitida de fachada para la edificación será equivalente a 1.5 del ancho que se obtenga entre los alineamientos oficiales de la calle donde se ubique. En caso de requerir mayor altura, se autorizará siempre y cuando la volumetría remetida del edificio, respete la línea rasante entre la altura máxima permitida de fachada y el extremo contrario del alineamiento.
 
 Para casos de terrenos en esquina, se referirá esta norma a la calle de mayor amplitud.
 
-Tratándose de edificios de 20.00 ó más metros de altura y con criterios de urbanización diferentes al trazo ortogonal de la vialidad, será requisito presentar el estudio técnico básico que incluya los criterios sobre:
+Tratándose de edificios de 20 o más metros de altura y con criterios de urbanización diferentes al trazo ortogonal de la vialidad, será requisito presentar el estudio técnico básico que incluya los criterios sobre:
 
-a).- La red de agua potable pública que abastecerá el edificio, sea suficiente en capacidad y funcionamiento.
+a).- La red de agua potable que abastecerá el edificio sea suficiente en capacidad y funcionamiento.
 
-b).- Las redes de drenaje sanitario y pluvial públicas y las del proyecto propuesto, sean suficiente para el desalojo de las aguas residuales.
+b).- Las redes de drenaje sanitario y pluvial públicas y las del proyecto, sean suficientes para el desalojo de las aguas residuales.
 
-c).- Las características del proyecto deben proveer estacionamiento suficiente, para no provocar congestionamientos vehiculares en la zona de emplazamiento, de acuerdo con lo estipulado en el capítulo XXV del Reglamento de Zonificación del Estado de Colima y lo que ahí se omita con lo establecido en el apartado de este documento dedicado a ESTACIONAMIENTOS.
+c).- Las características del proyecto deben proveer estacionamiento suficiente, para no provocar congestionamientos vehiculares en la zona de emplazamiento, de acuerdo con lo estipulado en el capítulo XXV del Reglamento de Zonificación para el Estado de Colima y lo que ahí se omita con lo establecido en el apartado de estacionamientos.
 
 II.- Las fachadas de colindancias de las edificaciones de tres niveles o más, que formen parte de los parámetros de patios de iluminación y ventilación de edificaciones vecinas ubicadas en las zonas habitacionales, deberán tener acabados de colores claros.
 
@@ -252,7 +294,9 @@ II.- Las fachadas de colindancias de las edificaciones de tres niveles o más, q
 
 El carácter de la imagen urbana se preserva mediante la adecuación que considere lo siguiente:
 
-I.- Cuando a juicio de la DIRECCION, el proyecto de una fachada signifique un contraste notorio desfavorable en el conjunto urbano predominante de los paramentos más próximos, se deberá someter a la consideración del CONSEJO, quien dictaminará lo correspondiente, y, en caso de que no sea aprobatorio, se deberá modificar el proyecto propuesto.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+I.- Cuando a juicio de la dirección, el proyecto de una fachada signifique un contraste notorio desfavorable en el conjunto urbano predominante de los paramentos más próximos, se deberá someter a la consideración del consejo, quien dictaminará lo correspondiente, y, en caso de que no sea aprobatorio, se deberá modificar el proyecto propuesto.
 
 II.- Las dimensiones de los basamentos, pilastras, cornisas, fajas y demás molduras y detalles de la fachada, deberán estar en relación con el proyecto arquitectónico, pero su saliente en planta baja no será mayor de 10 cms. y el de las cornisas en los pisos superiores no podrá exceder de 20 cms.
 
@@ -278,25 +322,39 @@ VIII.- La altura libre de una marquesina, del nivel de banqueta al lecho inferio
 
 IX.- La altura, anchura y materiales de una marquesina, serán tales que no disminuyan la iluminación de la vía pública y del interior de la construcción en cuestión.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2008)</small>
+
 X.- El ancho de una marquesina podrá ser 40 cms. menor al de la banqueta de su ubicación.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2008)</small>
 
 XI.- Las marquesinas no deberán usarse como piso, cuando estén construidas sobre la vía pública.
 
-XII.- Los parasoles o cortinas de sol en las plantas bajas de las edificaciones, serán removibles o plegadizos.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-XIII.- Ninguna parte de las cortinas(para) de sol, incluyendo su estructura metálica de soporte cuando esté desplegada, no podrá quedar a una altura menor de 2,00mts. Sobre el nivel de banqueta, ni podrá sobresalir más de un metro fuera del alineamiento, salvo aquellas que se coloquen en el borde exterior de las marquesinas.
+XII.- Los parasoles o cortinas para sol en las plantas bajas de las edificaciones, serán removibles o plegadizos.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+XIII.- Ninguna parte de las cortinas para sol, incluyendo su estructura metálica de soporte cuando esté desplegada, no podrá quedar a una altura menor de 2,20mts. Sobre el nivel de banqueta, ni podrá sobresalir más de un metro fuera del alineamiento, salvo aquellas que se coloquen en el borde exterior de las marquesinas.
 
 XIV.- No se permitirán toldos en las fachadas, cuando las banquetas tengan un ancho menor de 1.50 mts. Los toldos frente a edificios tendrán una altura mínima de 2.50 mts. Sobre el nivel de banqueta y su saliente podrá tener la anchura de ésta menos la distancia que libre los postes o cualquier mobiliario urbano.
 
-XV.- Se podrá realizar la colocación de vitrinas adosadas a la pared de fachadas en edificios de carácter comercial, con una saliente máximo de 10 cms., previa autorización de la DIRECCION.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+XV.- Se podrá realizar la colocación de vitrinas adosadas a la pared de fachadas en edificios de carácter comercial, con una saliente máximo de 10 cms., previa autorización de la dirección.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 24.
 
-Los techos, voladizos, balcones, jardines y en general cualquier saliente, deberán construirse o acondicionarse para evitare (sic) la caída o escurrimiento directo de agua sobre la vía pública.
+Los techos, voladizos, balcones, jardines y en general cualquier saliente, deberán construirse o acondicionarse para evitar la caída o escurrimiento directo de agua sobre la vía pública.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 25.
 
-Los propietarios de las construcciones con estos elementos deberán conservarlos en buen estado, en caso contrario, se aplicará lo dispuesto por el Artículo 40 de esta (sic) REGLAMENTO.
+Los propietarios de las construcciones con estos elementos deberán conservarlos en buen estado, en caso contrario, se aplicará lo dispuesto por el artículo 40 de este Reglamento.
 
 ###### ARTICULO 26.
 
@@ -330,9 +388,11 @@ II.- Reporte fotográfico del frente o frentes de la manzana donde se proyecta l
 
 III.- Justificación sobre la integración del proyecto a su entorno.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 31.
 
-Es obligación de los propietarios o inquilinos en su caso, de inmuebles cuyos frentes tienen espacios para prados o árboles en las banquetas el sembrarlos, cuidarlos y conservarlos en buen estado.
+Es obligación de los propietarios o inquilinos en su caso, de inmuebles cuyos frentes tienen espacios para prados o árboles en las banquetas el sembrarlos, cuidarlos y conservarlos en buen estado, así como evitar que sus ramas, troncos o raíces obstaculicen el tránsito libre y seguro de las personas en la vía pública.
 
 ###### ARTICULO 32.
 
@@ -342,29 +402,39 @@ Es facultad de la DIRECCION, vigilar que los particulares solo planten en los pr
 
 Cuando se establezcan ferias, carpas u otros espectáculos cerca de algún jardín o prado, éstos deberán ser protegidos mediante alambrado o malla metálica, quedando prohibido el uso de alambre de púas, siendo responsables de su instalación los empresarios de dichos espectáculos, acatando las indicaciones que al efecto le sean señaladas por la DIRECCION.
 
-#### Sección Tercera. Vía Pública y otros derechos de vía (sic) Vía Pública y Alineamiento
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JUNIO DE 2008)</small>
+
+#### Sección Tercera
+
+Vía Pública, Alineamiento y otros derechos.
 
 Vía Pública.
 
 ###### ARTICULO 34.
 
-Vía publica es todo espacio de uso común que pos (sic) disposición de la autoridad Municipal se encuentre destinado al libre tránsito, de conformidad con las leyes y reglamentos de la materia, así como todo inmueble que de hecho se utilice para ese fin. Es también característica propia de la vía pública, el servir para la aereación, iluminación y asoleamiento de los edificios que la limitan, para dar acceso a los predios colindantes o para alojar cualquier instalación de una obra o un servicio público.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Vía publica es todo espacio de uso común que por disposición de la autoridad Municipal se encuentre destinado al libre tránsito, de conformidad con las Leyes y Reglamentos de la materia, así como todo inmueble que de hecho se utilice para ese fin. Es también característica propia de la vía pública, el servir para la aereación, iluminación y asoleamiento de los edificios que la limitan, para dar acceso a los predios colindantes o para alojar cualquier instalación de una obra o un servicio público.
 
 Este espacio está limitado por la superficie generada por el plano vertical que sigue el alineamiento oficial y que forma el lindero de dicha vía pública.
 
 Corresponde a la Autoridad Municipal la fijación de los derechos de los particulares sobre el tránsito, iluminación, aereación, accesos y otros semejantes que se refieren al destino de las vías públicas, conforme a las Leyes y Reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 35.
 
-Las vías públicas, mientras no se desafecten del uso público a que están destinadas por resolución de las Autoridades Municipales, tendrán carácter de inalineables (sic) e imprescriptibles.
+Las vías públicas, mientras no se desincorporen del uso público a que están destinadas por resolución de las Autoridades Municipales, tendrán carácter de inalienable e imprescriptibles.
 
 ###### ARTICULO 36.
 
 Todo terreno que en los planos oficiales de la DIRECCION, de la Dirección de Catastro, en los Archivos Municipales, Estatales o de la Nación, museo o biblioteca pública, aparezca como vía o área pública o destinado a un servicio público, se presumirá por ese sólo hecho de propiedad municipal, por lo que la carga de la prueba de un mejor derecho corresponde al que afirme que dicho terreno es propiedad particular.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 37.
 
-Corresponde a la DIRECCION el dictar las medidas necesarias para remover los impedimentos y obstáculos para el más amplio goce de los espacios de uso público, en los terrenos a que se refiere el Artículo anterior, considerándose de orden público la remoción de tales impedimentos.
+Corresponde a la dirección el dictar las medidas necesarias para remover los impedimentos, obstáculos y barreras arquitectónicas para el más amplio goce de los espacios de uso público, en los terrenos a que se refiere el artículo anterior, considerándose de orden público la remoción de tales impedimentos.
 
 ###### ARTICULO 38.
 
@@ -372,9 +442,11 @@ Aprobado un fraccionamiento de acuerdo con las disposiciones legales relativas, 
 
 La DIRECCION remitirá copias de dicho plano al Registro Público de la Propiedad y a la Dirección de Catastro, para los registros y cancelaciones correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 39.
 
-Las vías públicas tendrán el diseño que al efecto fijen el Reglamento de Zonificacion para el Estado de Colima y las resoluciones tomadas en cada caso; será obligatoria la arborización del (sic) las áreas peatonales.
+La vía pública tendrán el diseño que al efecto fijen el Reglamento de Zonificacion para el Estado de Colima y las resoluciones tomadas en cada caso, obedeciendo en todo momento los criterios del Diseño Universal; será obligatoria la arborización de las áreas peatonales.
 
 ###### ARTICULO 40.
 
@@ -382,9 +454,11 @@ Los particulares que, sin previo permiso de la DIRECCION, ocupen la vía públic
 
 En caso de que, vencido el plazo que se les haya fijado al efecto, no se haya terminado el retiro de los obstáculos o finalizado las reparaciones a que se refiere el párrafo anterior, la DIRECCION procederá a ejecutar por su cuenta los trabajos relativos y pasará relación de los gastos que ello haya importado a la Tesorería del Ayuntamiento, con relación del nombre y domicilio del responsable, para que esta Dependencia proceda coactivamente a hacer efectivo el importe de la liquidación presentada por la mencionada DIRECCION más una multa de uno a tres tantos de la cantidad a que tal liquidación ascienda.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 41.
 
-Queda igualmente prohibida la ocupación de la vía pública para algunos de los fines a que se refiere este REGLAMENTO, sin el previo permiso de la DIRECCION. Solo se autorizará, a juicio de la DIRECCION, la permanencia en la vía pública de materiales o escombros por el tiempo necesario para la realización de las obras y con la obligación de los propietarios o encargados de obra, del señalamiento de los obstáculos, al expedito y seguro tránsito en las vías públicas; dicho señalamiento contendrá la referencia al permiso especial para la ubicación de materiales o escombros en la vía pública. La infracción a lo anterior dará lugar a que la DIRECCION tome al efecto las medidas e imponga las sanciones que, en violación a las disposiciones a este REGLAMENTO, corresponda.
+Queda igualmente prohibida la ocupación de la vía pública para algunos de los fines a que se refiere este Reglamento, sin el previo permiso de la Direcció. Solo se autorizará, a juicio de la Dirección, la permanencia en la vía pública de materiales o escombros por el tiempo necesario para la realización de las obras y con la obligación de los propietarios o encargados de obra, del señalamiento de los obstáculos, a garantizar el fácil, cómodo y seguro tránsito en la vía pública; dicho señalamiento contendrá la referencia al permiso especial para la ubicación de materiales o escombros en la vía pública. La infracción a lo anterior dará lugar a que la dirección tome al efecto las medidas e imponga las sanciones que, en violación a las disposiciones a este Reglamento, corresponda.
 
 ###### ARTICULO 42.
 
@@ -404,9 +478,11 @@ La DIRECCION, a solicitud del propietario de un predio, en la que precise el uso
 
 No existirá la obligación de expedir alineamientos, números oficiales, licencias de construcción ni orden o autorización para instalación de servicios públicos, en predios con frente a vías públicas, si éstas no se ajustan a la planificación oficial o si no satisfacen las condiciones reglamentarias.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 45.
 
-La ejecución de toda obra nueva y la modificación o ampliación de una que ya exista, requiere, para que se expida la licencia respectiva, la presentación de la Constancia de Alineamiento Oficial.
+La ejecución de toda obra nueva y la modificación o ampliación de una que ya existente, requiere, para que se expida la licencia respectiva, la presentación de la Constancia de Alineamiento Oficial y la Constancia de Diseño Universal.
 
 Servidumbres.
 
@@ -436,11 +512,13 @@ Toda edificación efectuada con invasión del alineamiento oficial o bien a las 
 
 Son responsables por la transgresión a este Artículo y como consecuencia del pago de las sanciones que se impongan y de las prestaciones que se reclamen, tanto el propietario como el Perito Responsable de la Obra y en el caso de que éstos sean varios, serán solidariamente responsables todos ellos.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 51.
 
 Se declara de utilidad pública la formación de ochavos en predios situados en las esquinas de las calles.
 
-La dimensión de estos ochavos será fijada en cada caso particular al otorgarse los alineamientos respectivos por la DIRECCION, debiendo los mismos ser siempre iguales en las esquinas que forman el cruzamiento de dos o más arterias y pudiéndose subsistir la línea recta de un ochavo por curva, simple o compuesta, siempre que la curva sea tangente a la recta que defina el ochavo.
+La dimensión de estos ochavos será fijada en cada caso particular al otorgarse los alineamientos respectivos por la Dirección, debiendo los mismos ser siempre iguales en las esquinas que forman el cruzamiento de dos o más arterias y pudiéndose sustituir la línea recta de un ochavo por curva, simple o compuesta, siempre que la curva sea tangente a la recta que defina el ochavo.
 
 ###### ARTICULO 52.
 
@@ -454,15 +532,21 @@ La DIRECCION no otorgará permiso para efectuar reparaciones, ampliaciones o nue
 
 La DIRECCION negará la expedición de constancias de alineamientos y números oficiales a predios situados frente a vías públicas no autorizadas, pero establecidas sólo de hecho, si no se ajustan a la planificación oficial o no satisfacen las condiciones reglamentarias.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 55.
 
-La vigencia en un alineamiento oficial será indefinida, pero podrá ser modificada como consecuencia de nuevos proyectos aprobados en forma por los organismos competentes, sobre la (planeación) planificación urbana de (Centro de Población) la Ciudad.
+La vigencia en un alineamiento oficial será indefinida, pero podrá ser modificada como consecuencia de nuevos proyectos aprobados en forma por los organismos competentes, sobre la planeación urbana de los Centros de Población.
 
-Por consiguiente, queda expedito el derecho de los particulares para obtener de la DIRECCION las copias autorizadas de alineamientos de predios que ya hubiesen sido concedidos con anterioridad, previo el pago de los derechos correspondientes.
+Por consiguiente, queda expedito el derecho de los particulares para obtener de la Dirección las copias autorizadas de alineamientos de predios que ya hubiesen sido concedidos con anterioridad, previo el pago de los derechos correspondientes.
 
 ###### ARTICULO 56.
 
-Voladizos y salientes: Los elementos arquitectónicos que constituyen el perfil de una fachada como pilastras, sardineles, marcos de puertas y ventanas, repisones, cornisas y cejas, podrán sobresalir hasta 20 cms. en Planta Alta.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Voladizos y salientes: Los elementos arquitectónicos que constituyen el perfil de una fachada como pilastras, sardineles, marcos de puertas y ventanas, repisones, cornisas y cejas, podrán sobresalir hasta 20 cms. en planta alta.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2008)</small>
 
 Ningún elemento estructural o arquitectónico situado a una altura menor de 2.50 mts. Podrá sobresalir del alineamiento. Los que se encuentran a mayor altura, se sujetarán a lo siguiente:
 
@@ -472,7 +556,9 @@ II.- Las hojas de las ventanas podrán abrirse al exterior, siempre que ninguno 
 
 III.- Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en 40 cms. Las marquesinas no deberán usarse como piso habitable cuando estén construidas sobre la vía pública.
 
-IV.- Las cortinas para el sol serán (enrollables) enrolladas o plegadizas. Cuando estén desplegadas, se sujetarán a los lineamientos dados en la fracción XIII del Artículo 23.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+IV.- Las cortinas para el sol serán enrollables o plegadizas. Cuando estén desplegadas, se sujetarán a los lineamientos dados en la fracción XIII del Artículo 23.
 
 V.- Los toldos de protección frente a la entrada de los edificios se colocarán sobre estructuras desmontables, pudiendo sobresalir del alineamiento el ancho de la acera disminuido en 40 cms.
 
@@ -522,11 +608,13 @@ II.- Ocupar la vía pública con instalaciones de servicio público, comercios s
 
 III.- Romper el pavimento o hacer cortes en las banquetas de la vía pública para la ejecución de obras públicas o privadas.
 
-IV.- Construir instalaciones subterráneas y aéreas en la vía pública.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO MODIFICATORIO, EL ANTERIOR SEGUNDO PARRADO PASA A FORMAR PARTE DE LA PRESENTE FRACCION, QUEDANDO CONFORMADO EL ARTICULO POR DOS PARRAFO.</small>
 
-La DIRECCION, en sujeción a los INSTRUMENTOS DE PLANEACION, podrán (sic) otorgar o autorizar para las obras anteriores, señalando en cada caso las condiciones bajo las cuales se concedan, los medios de protección que deberán tomarse, las acciones de Restitución y Mejoramiento de las áreas verdes y zonas arboladas afectadas y los horarios en que deban efectuarse.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-Los solicitantes estarán obligados a efectuar las reparaciones correspondientes, para restaurar o mejorar el estado original de la Vía Pública o a pagar su importe cuando la DIRECCION las realice.
+IV.- Construir instalaciones subterráneas y aéreas en la vía pública. La Dirección, en sujeción a los instrumentos de plantación (sic), podrán otorgar o autorizar las obras anteriores, señalando en cada caso las condiciones bajo las cuales se concedan, los medios de protección que deberán tomarse, las acciones de Restitución y Mejoramiento de las áreas verdes y zonas arboladas afectadas y los horarios en que deban efectuarse.
+
+Los solicitantes estarán obligados a efectuar las reparaciones correspondientes, para restaurar o mejorar el estado original de la vía pública o a pagar su importe cuando la Dirección las realice.
 
 ###### ARTICULO 61.
 
@@ -542,7 +630,13 @@ IV.- Colocar postes y quioscos para fines de publicidad.
 
 V.- Instalar aparatos y botes de basura cuando su instalación entorpezca el tránsito, en arroyos o en aceras.
 
-VI.- Para aquellos otros fines que la DIRECCION considera contrarios al interés público.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+VI.- Cuando las instalaciones o estructuras constituyan o puedan constituir barreras arquitectónicas que impidan o dificulten el tránsito libre y seguro de las personas con problemas de movilidad.
+
+> <small>(REFORMADA [N. DE E. ADICONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+VII.- Para aquellos otros fines que la Dirección considera contrarios al interés público.
 
 ###### ARTICULO 62.
 
@@ -572,45 +666,61 @@ La DIRECCION dictará las medidas administrativas necesarias, para obtener, mant
 
 Quienes obstaculicen el aprovechamiento de las vías o de los bienes mencionados, además de las responsabilidades en que incurran, perderán las obras que hubieren ejecutado y éstas podrán ser retiradas por la DIRECCION, a costa del invasor.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 67.
 
-Cuando por la ejecución de una obra, por el uso de vehículos, objetos o substancias peligrosas, o por cualquiera otra causa, se produzcan daños a cualquier servicio público, obra o instalación, pertenecientes al Gobierno del Estado o al Ayuntamiento, que exista en una vía pública o en otro inmueble de uso común o destinado al servicio público, la reparación inmediata de los daños será por cuenta del dueño de la obra, del vehículo, del objeto(del material) o de la substancia peligrosa.
+Cuando por la ejecución de una obra, por el uso de vehículos, objetos o substancias peligrosas, o por cualquiera otra causa, se produzcan daños a cualquier servicio público, obra o instalación, pertenecientes al Gobierno del Estado o al Ayuntamiento, que exista en una vía pública o en otro inmueble de uso común o destinado al servicio público, la reparación inmediata de los daños será por cuenta del dueño de la obra, del vehículo, del objeto, del material o de la sustancia peligrosa.
 
-Si el daño se causa al hacerse uso de una concesión o de un permiso de cualquier naturaleza, que haya otorgado el Ayuntamiento, podrá suspenderse dicha concesión o permiso hasta que el daño sea reparado.
+Si el daño se causa al hacerse uso de una concesión o de un permiso de cualquier naturaleza, que haya otorgado el H. Ayuntamiento, podrá suspenderse dicha concesión o permiso hasta que el daño sea reparado.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 68.
 
-Cuando se haga necesaria la ruptura de los pavimentos de las vías públicas para la ejecución de alguno (sic) obra de interés particular o público, será requisito indispensable recabar la autorización de la DIRECCION, previamente a la iniciación de tales trabajos, a fin de que ésta Dependencia señale las condiciones bajo las cuales se llevarán a cabo, así como el monto de las reparaciones y la forma de obligar a que estas sean hechas en el plazo y condiciones señaladas. La ruptura de pavimentos deberá ser reparada con el mismo material existente, anterior a la ruptura y los requerimientos a que se refieren los Artículos 77 y 78. (Asi mismo, entregada a la DIRECCIÓN y recibida por esta, de conformidad y entera satisfacción.)
+Cuando se haga necesaria la ruptura de los pavimentos de las vías públicas para la ejecución de alguna obra de interés particular o público, será requisito indispensable recabar la autorización de la dirección, previamente a la iniciación de tales trabajos, a fin de que ésta Dependencia señale las condiciones bajo las cuales se llevarán a cabo, así como el monto de las reparaciones y la forma de obligar a que estas sean hechas en el plazo y condiciones señaladas.
+
+La ruptura de pavimentos deberá ser reparada con el mismo material existente, anterior a la ruptura y los requerimientos a que se refieren los Artículos 77 y 78. Así mismo, entregada a la Dirección y recibida por esta, de conformidad y entera satisfacción.
 
 Instalaciones Subterráneas y Aéreas en la Vía Pública.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 69.
 
-La DIRECCION podrá otorgar la licencia de construcción y en su caso, supervisará las instalaciones subterráneas en la vía pública, (tales) como las correspondientes a teléfonos, alumbrado, semáforos, conducción eléctrica, gas y otras semejantes, las cuales deberán alojarse a lo largo de aceras o camellones y en forma tal (que no) como no interfieran entre sí.
+La Dirección podrá otorgar la licencia de construcción y en su caso, supervisará las instalaciones subterráneas en la vía pública, tales como las correspondientes a teléfonos, alumbrado, semáforos, conducción eléctrica, gas y otras semejantes, las cuales deberán alojarse a lo largo de aceras o camellones y en forma tal que no interfieran entre sí.
 
 En lo referente a las redes de agua potable y alcantarillado, sólo por excepción, se autorizará su colocación debajo de las aceras o camellones, debiendo por regla general colocarse bajo los arroyos de tránsito.
 
-La DIRECCION, previa consulta con el Comité de Coordinación y Normas de Infraestructura Urbana, podrá autorizar la construcción de instalaciones subterráneas fuera de la zona descrita en el párrafo anterior, cuando la naturaleza de las obras lo requieran.
+La dirección, previa consulta con el Comité de Coordinación y Normas de Infraestructura Urbana, podrá autorizar la construcción de instalaciones subterráneas fuera de la zona descrita en el párrafo anterior, cuando la naturaleza de las obras lo requieran.
 
-La DIRECCION fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones. (en base a los estudios y/o proyectos que para el caso sean previamente presentados por el (los) desarrollador (es) y/o interesado(s)).
+La Dirección fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones. En base a los estudios y/o proyectos que para el caso sean previamente presentados por el o los desarrolladores y/o interesados.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 70.
 
-Los postes se colocaron dentro de la acera a una distancia mínima de 40 cms. entre el borde de la guarnición y el punto más próximo del poste. En las vías públicas en que no haya aceras, los interesados solicitarán a la DIRECCION el trazo de la guarnición y anchura de la acera y colocarán los postes conforme a sus medidas.
+Los postes se colocaron dentro de la acera a una distancia mínima de 40 cms. entre el borde de la guarnición y el punto más próximo del poste. En las vías públicas en que no haya aceras, los interesados solicitarán a la Dirección el trazo de la guarnición y anchura de la acera y colocarán los postes conforme a sus medidas.
 
 En las aceras con una anchura mínima de 90 cms., o en callejones con anchura menor de 3.60 mts., los postes se colocarán a una distancia mínima de 60 cms. del alineamiento.
 
+En cualquier caso, deberá salvaguardase un claro libre de 95 centímetros para asegurar el tránsito de usuarios de sillas de ruedas, andaderas, carreolas, muletas, bastones, entre otras ayudas técnicas.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 71.
 
-La DIRECCION autorizará la colocación de instalaciones provisionales, cuando a su juicio, haya necesidad de las mismas, y fijará el plazo máximo que puedan durar instaladas.
+La Dirección autorizará la colocación de instalaciones provisionales, cuando a su juicio, haya necesidad de las mismas, y fijará el plazo máximo que pueda durar instalado.
 
-En caso de fuerza mayor, las empresas de servicios públicos podrán hacer de inmediato instalaciones provisionales, pero estarán obligadas a dar aviso y a solicitar la autorización correspondiente, en un plazo de tres días a partir de aquél en que se inicien las instalaciones.
+En caso de fuerza mayor, las empresas de servicios podrán hacer de inmediato instalaciones provisionales, pero estarán obligadas a dar aviso y a solicitar la autorización correspondiente, en un plazo de tres días a partir de aquél en que se inicien las instalaciones.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 72.
 
-Los responsables de postes o instalaciones estarán obligados a conservarlos en buenas condiciones. La DIRECCION, por razones fundadas de seguridad, podrá ordenar el cambio de lugar o la supresión de un poste o instalación, y los responsables estarán obligados a hacerlo por su cuenta y si no lo hicieren dentro del plazo que se les fije, a costa de éstos lo hará la citada DIRECCION.
+Los responsables de postes o instalaciones estarán obligados a conservarlos en buenas condiciones. La Dirección, por razones fundadas de seguridad, podrá ordenar el cambio de lugar o la supresión de un poste o instalación, y los responsables estarán obligados a hacerlo por su cuenta y si no lo hicieren dentro del plazo que se les fije, a costa de éstos lo hará la citada Dirección.
 
-Los postes e instalaciones deberán ser marcados (e identificados) por los responsables.
+Los postes e instalaciones deberán ser marcados e identificados por los responsables.
 
 ###### ARTICULO 73.
 
@@ -626,37 +736,43 @@ Si la entrada se hace estando ya colocado el poste o la instalación, deberán c
 
 Los responsables de postes o instalaciones estarán obligados a cambiarlos de lugar o suprimirlos a su costa, cuando se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo haga necesario.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 75.
 
-La DIRECCION señalará las áreas, dentro de cuyos límites deban desaparecer determinadas clases de postes o instalaciones. Notificará la determinación respectiva a los responsables que deban cumplirla, concediéndoles un término de treinta días para que expongan y prueben lo que a sus intereses convenga, si en el término mencionado no presentaren objeciones y si éstas resultaren infundadas o improcedentes, la DIRECCION ordenará la supresión de los postes o instalaciones, fijando un plazo a los responsables para que lo hagan por su cuenta, y si no lo hicieren dentro del plazo que se les fije, a costa de ellos lo hará la citada DIRECCION.
+La Dirección señalará las áreas, dentro de cuyos límites deban desaparecer determinadas clases de postes o instalaciones. Notificará la determinación respectiva a los responsables que deban cumplirla, concediéndoles un término de treinta días para que expongan y prueben lo que a sus intereses convenga, si en el término mencionado no presentaren objeciones y si éstas resultaren infundadas o improcedentes, la Dirección ordenará la eliminación de los postes o instalaciones, fijando un plazo a los responsables para que lo hagan por su cuenta, y si no lo hicieren dentro del plazo que se les fije, a costa de ellos lo hará la citada Dirección.
 
 Pavimentos.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 76.
 
-Corresponde a la DIRECCION fijar el tipo de pavimentos que deban ser colocados, tanto en las nuevas áreas (del Centro de Población) de la Ciudad como en aquellos en que habiendo pavimento, sea éste renovado o mejorado.
+Corresponde a la Dirección fijar el tipo de pavimentos que deban ser colocados, tanto en las nuevas áreas del Centro de Población como en aquellos en que habiendo pavimento, sea éste renovado o mejorado.
 
-Para los fines de este REGLAMENTO se admitirán los siguientes tipos de pavimentos:
+Para los fines de este Reglamento se admitirán los siguientes tipos de pavimentos:
 
-I. DE CARPETA ASFALTICA. Para (las Vialidades: Regional y Primaria) el Sistema Vial Primario y vías que por su flujo lo justifiquen.
+I. DE CARPETA ASFÁLTICA. Para las Vialidades: Regional y Primaria, el Sistema Vial Primario y vías que por su flujo lo justifiquen.
 
-II. EMPEDRADOS. Para (las Vialidades: Secundaria y Local) el Sistema Vial Primario y vías de alto flujo vial, con carácter provisional y para calles locales y vías colectoras de menor o escaso flujo vial.
+II. EMPEDRADOS. Para las Vialidades: Secundaria y Local, el Sistema Vial Primario y vías de alto flujo vial, con carácter provisional y para calles locales y vías colectoras de menor o escaso flujo vial.
 
-III. CONCRETO HIDRAULICO. Cuando la DIRECCION, previo acuerdo especial, lo autorice.
+III. CONCRETO HIDRÁULICO. Cuando la Dirección, previo acuerdo especial, lo autorice. Como norma, se restringirá la autorización para la construcción de pavimentos de concreto, por ser retenedores de temperatura. Preferentemente las calles de tránsito local se pavimentarán con empedrados, auspiciando así el movimiento pausado de vehículos. Podrán utilizarse franjas de adoquines o concreto hidráulico en vialidades con flujos vehiculares mayores.
 
-Como norma, se restringirá la autorización para la construcción de pavimentos de concreto, por ser retenedores de temperatura. Preferentemente las calles de tránsito local se pavimentarán con empedrados, auspiciando así el movimiento pausado de vehículos. Podrán utilizarse franjas de adoquines o concreto hidráulico en vialidades con flujos vehiculares (mayores) de paso.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 77.
 
-La DIRECCION fijará en cada caso las especificaciones que deberán cumplir los materiales a usarse en la pavimentación, indicando además los procedimientos de construcción, equipo y herramienta a usar y demás características. (En base a la propuesta que para el caso el (los) desarrollador (es) y/o interesado (s) previamente presenten le presenten).
+La Dirección fijará en cada caso las especificaciones que deberán cumplir los materiales a usarse en la pavimentación, indicando además los procedimientos de construcción, equipo y herramienta a usar y demás características. En base a la propuesta que para el caso los desarrolladores y/o interesados le presenten.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 78.
 
 Tratándose de pavimentos de empedrado, éstos tendrán las siguientes especificaciones mínimas:
 
-Pendiente longitudinal 0.5%, máxima 7%. Mayores del 7%, la DIRECCIÓN (requerirá la presentación de...) señalará las especificaciones técnicas del caso.
+Pendiente longitudinal 0.5%, máxima 7%. Mayores del 7%, la Dirección señalará las especificaciones técnicas del caso.
 
-Pendiente transversal (bombeo) máxima 2%. Compactación de terracerías 95%, y sobre ellas se extenderá una capa de material granular de 4 cms. de espesor, en la que se clavará la piedra.
+Pendiente transversal máxima 2%. Compactación de terracerías 95%, y sobre ellas se extenderá una capa de material granular de 4 cms. de espesor, en la que se clavará la piedra.
 
 Planchado. Se hará de las orillas hacia el centro, alternadamente en seco y saturado de agua, dos veces en cada forma.
 
@@ -670,11 +786,13 @@ Guarniciones.
 
 Las guarniciones que se construyan para los pavimentos serán de concreto hidráulico, preferentemente del tipo “recto” sin perjuicio de que excepcionalmente puedan aceptarse las llamadas “integrales”. Donde existan guarniciones de materiales pétreos naturales, no podrán ser removidos sin la autorización de la DIRECCION.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 81.
 
-La sección de las guarniciones de tipo “recto” deberán tener 15 cms. de base, 12 cms. de corona y 33 cms. de altura, debiendo invariablemente sobresalir 15 cms. del pavimento.
+La sección de las guarniciones de tipo “recto” deberán tener 15 cm. de base, 12 cm. de corona y 33 cm. de altura, debiendo invariablemente sobresalir 15 cm. del pavimento.
 
-La resistencia del concreto en las guarniciones de tipo “integral” deberá ser igual a la del usado en el pavimento y en las de tipo “recto” de 210 kg/cm2. A los 28 días.
+La resistencia del concreto en las guarniciones de tipo “integral” deberá ser igual a la del usado en el pavimento y en las de tipo “recto” de 210 kg/cm2.
 
 ###### ARTICULO 82.
 
@@ -690,17 +808,19 @@ Se entiende por banqueta, acera o andador, las porciones de la vía pública des
 
 Los materiales de construcción utilizados en las banquetas deberán ser aprobados por la DIRECCION y deberán tener la suficiente resistencia para el tránsito peatonal y no facilitar la retención de calor. Las banquetas deberán tener una pendiente transversal de 1.5% al 2% con sentido hacia los arroyos de tránsito. En todas las vialidades peatonales se deberá dejar espacio para el sembrado de árboles en cajetes o arriates, preferentemente ubicados sobre la banqueta o si están sobre el arroyo de la calle, deberán ser protegidos con machuelo.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 85.
 
-Queda prohibido rebajar las banquetas para hacer rampas o acceso de vehículos en un porcentaje mayor del 40% del ancho; en banquetas menores de 1.30 mts. deberá dejarse una sección mínima de 80 cms. sin rebajar. Solamente por causas justificadas y previa autorización de la DIRECCION, se podrá aumentar ese porcentaje.
+Queda prohibido rebajar las banquetas para hacer rampas para acceso de vehículos en un porcentaje mayor del 40% del ancho; en banquetas menores de 1.30 mts. deberá dejarse una sección mínima de 95 cms. sin rebajar. Solamente por causas justificadas y previa autorización de la Dirección, se podrá aumentar ese porcentaje.
 
-De igual manera quedan prohibidas las gradas y escalones, que invadan las banquetas o hagan peligrosa o difícil la circulación sobre éstas. Solamente por causas justificadas y previa autorización de la DIRECCION, se podrán construir.
+De igual manera quedan prohibidas las gradas y escalones, que invadan las banquetas o hagan peligrosa o difícil la circulación sobre éstas. Solamente por causas justificadas y previa autorización de la Dirección, se podrán construir.
 
-Se deberán dotar de rampas para minusválidos en los cruceros de las calles. La pendiente será de 1 sobre 12 y se permitirá hasta de 1.5 sobre 12. El ancho mínimo será de 90 cms. La rampa tendrá textura antiderrapante. Cuando la esquina sea curvada, se podrá construir una sola rampa al centro de la curva, con un ancho mínimo de 1.20 mts.
+Se deberán dotar de rampas para personas con problemas de movilidad en los cruceros de las calles. La pendiente máxima sera del 6%. El ancho mínimo será de 95 cm. La rampa tendrá textura antiderrapante. Cuando la esquina sea curvada, se podrá construir una sola rampa al centro de la curva, con un ancho mínimo de 1.20 mts.
 
 No se permitirá ningún obstáculo en los cruceros de banquetas.
 
-La DIRECCION dictará las disposiciones administrativas correspondientes a fin de uniformar la altura y anchura de las banquetas en (todos los Centros de Población del Municipio) la ciudad de Colima y en las demás localidades del Municipio.
+La Dirección dictará las disposiciones administrativas correspondientes a fin de uniformar la altura y anchura de las banquetas en (todos los Centros de Población del Municipio) la cabecera municipal y en las demás localidades del Municipio.
 
 El costo que originen las modificaciones, mantenimiento o construcción de banquetas, correrá a cargo de los propietarios.
 
@@ -762,9 +882,11 @@ Para el efecto, se consideraran estacionamientos en edificio, aquellos que tenga
 
 Los estacionamientos deberán tener carriles separados para la entrada y salida de los vehículos, con una anchura mínima de 2.50 mts.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 94.
 
-Los estacionamientos tendrán áreas para el ascenso y descenso de personas, al nivel de las aceras de la calle, a cada lado de los carriles de entrada y salida, con una longitud mínima de 6 mts. y una anchura mínima de 1.80 mts. así como contar con las rampas necesarias para el uso de personas con limitaciones físicas.
+Los estacionamientos tendrán áreas para el ascenso y descenso de personas, al nivel de las aceras de la calle, a cada lado de los carriles de entrada y salida, con una longitud mínima de 6 mts. y una anchura mínima de 1.80 mts. Así como contar con las rampas necesarias para el uso de personas con problemas de movilidad.
 
 ###### ARTICULO 95.
 
@@ -776,11 +898,15 @@ Los estacionamientos deberán tener ventilación natural por medio de vanos, con
 
 ###### ARTICULO 97.
 
-Las rampas de los estacionamientos tendrán una pendiente máxima del 15%, de anchura mínima de circulación en rectas, de 2.50 mts. en curvas de 3.50 mts., con radio mínimo de 9.00 mts. al eje de la rampa.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO MODIFICATORIO, EL ANTERIOR SEGUNDO PARRADO PASA A FORMAR PARTE DEL PRIMERO, QUEDANDO CONFORMADO EL ARTICULO POR DOS PARRAFO.</small>
 
-Estarán delimitadas por una guarnición con altura de 15 cms. y una banqueta de protección de 30 cms. de anchura en rectas, y de 50 cms. de anchura, en curvas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2009)</small>
+
+Las rampas de uso vehicular dentro del estacionamiento tendrán una pendiente máxima del 15%, de anchura mínima de circulación en rectas, de 2.50 mts. en curvas de 3.50 mts., con radio mínimo de 9.00 mts. al eje de la rampa. Estarán delimitadas por una guarnición con altura de 15 cms. y una banqueta de protección de 30 cms. de anchura en rectas, y de 50 cms. de anchura, en curvas.
 
 Las circulaciones verticales, ya sean rampas o montacargas, serán independientes de las áreas para ascenso y descenso de personas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 98.
 
@@ -794,17 +920,21 @@ Las columnas y muros de los estacionamientos para vehículos, deberán tener una
 
 Si las áreas de estacionamiento no estuvieren a nivel, los cajones se dispondrán en forma tal que en caso de que falle el sistema de freno, el vehículo quede detenido en los topes del cajón.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 101.
 
-Los estacionamientos tendrán servicios sanitarios precedidos por un vestíbulo, colocando para hombres y mujeres un inodoro por cada 20 vehículos
+Los estacionamientos tendrán servicios sanitarios precedidos por un vestíbulo, colocando para hombres y mujeres un inodoro por cada 20 vehículos. Dichos servicios sanitarios deberán tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad.
 
 ###### ARTICULO 102.
 
 Los estacionamientos tendrán una caseta de control, situada a una distancia no menor de 4.50 mts. del alineamiento y con área de espera de superficie mínima de 2.00 m2., para el público.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 103.
 
-Cuando no se construyan edificios para estacionamiento de vehículos, sino solamente se utilice el terreno, éste deberá pavimentarse y drenarse adecuadamente, contar con entradas y salidas independientes con las mismas dimensiones que se señalan en el Artículo 93, tendrán delimitadas las áreas de circulación con los cajones, contarán con topes para las ruedas, bardas propias en todos sus linderos de una altura mínima de 2.50 mts., casetas de control y servicios sanitarios. Los cajones y topes tendrán las mismas características que señalan los Artículos 98 y 107.
+Cuando no se construyan edificios para estacionamiento de vehículos, sino solamente se utilice el terreno, éste deberá pavimentarse y drenarse adecuadamente, contar con entradas y salidas independientes con las mismas dimensiones que se señalan en el Artículo 93, tendrán delimitadas las áreas de circulación con los cajones, contarán con topes para las ruedas, bardas propias en todos sus linderos de una altura mínima de 2.50 mts., casetas de control y servicios sanitarios de acuerdo al artículo 101. Los cajones y topes tendrán las mismas características que señalan los Artículos 98 y 107.
 
 ###### ARTICULO 104.
 
@@ -826,7 +956,9 @@ Las medidas de los espacios de estacionamiento para automóviles grandes serán 
 
 I. Se podrá aceptar el estacionamiento en “Cordón”, en cuyo caso el espacio para el acomodo de vehículos será de 6.00 x 2.40 mts. para coches grandes, pudiendo en un 50% ser de 4.80 x 2.00 mts. para coches chicos. Estas medidas no comprenden las áreas de circulación necesarias.
 
-II. Los estacionamientos públicos y privados, señalados en el Artículo 93, deberán destinar por lo menos un cajón de cada 25 o fracción a partir de 12, para uso exclusivo de personas (de distintas aptitudes y capacidades) impedidas, ubicado lo más cerca posible de la entrada a la edificación. En estos casos, las medidas del cajón serán de 5.30 x 3.80 mts.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+II. Los estacionamientos públicos y privados, señalados en el Artículo 93, deberán destinar por lo menos dos cajones de cada 25 o fracción a partir de 12, para uso exclusivo de personas con discapacidad, ubicado lo más cerca posible de la entrada a la edificación. En estos casos, las medidas del cajón serán de 5.30 x 3.80 mts., señalizado con contorno color amarillo tránsito y al centro el logotipo internacional de la discapacidad. Los estacionamientos con menos de 25 cajones deberán tener como mínimo 2 cajones exclusivos.
 
 III. En los estacionamientos públicos o privados, que no sean de autoservicio, podrá permitirse que los espacios se dispongan de tal manera que para sacar un vehículo, se mueva un máximo de dos.
 
@@ -868,9 +1000,11 @@ Será obligatorio para los propietarios de edificios para uso habitacional o com
 
 Criterios de Aplicación.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 109.
 
-Para el caso de edificaciones existentes en donde se realice una remodelación, adaptación, ampliación o cambio de uso, se deberá apegar al máximo a los requerimientos de habitabilidad y funcionamiento, así como a los mínimos dimensionales o de superficie establecidos en el Artículo anterior y en las NORMAS. Para los casos en que no sea posible el apegarse a los (sic) dispuesto, la DIRECCION dictaminará al respecto conjuntamente con la CONSEJO.
+Para el caso de edificaciones existentes en donde se realice una remodelación, adaptación, ampliación o cambio de uso, se deberá apegar al máximo a los requerimientos de habitabilidad y funcionamiento, así como a los mínimos dimensionales o de superficie establecidos en el Artículo anterior y en las Normas. Para los casos en que no sea posible el apegarse a lo dispuesto, la Dirección dictaminará al respecto conjuntamente con el Concejo (sic).
 
 #### Sección Segunda. Acondicionamiento y Confort
 
@@ -900,7 +1034,9 @@ III. Se permitirá la iluminación diurna natural por medio de domos o tragaluce
 
 En estos casos, la proyección horizontal del vano libre del domo o tragaluz podrá dimensionarse tomando como base mínima el 4% de la superficie del local. El coeficiente de transmisibilidad del espectro solar del material transparente o translúcido de domos y tragaluces en estos casos no será inferior al 85%.
 
-Se permitirá la iluminación en fachadas de colindancia mediante bloques de vidrio prismático o translúcidos a partir del tercer nivel sobre la banqueta sin que esto disminuya los requerimientos mínimos establecidos para tamaño de ventanas y domos o tragaluces, y sin la creación de derechos respecto a futuras edificaciones vecinas que puedan obstruir dicha iluminación.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Se permitirá la iluminación en fachadas de colindancia mediante bloques de vidrio prismático o translúcido a partir del tercer nivel sobre la banqueta sin que esto disminuya los requerimientos mínimos establecidos para tamaño de ventanas y domos o tragaluces, y sin la creación de derechos respecto a futuras edificaciones vecinas que puedan obstruir dicha iluminación.
 
 IV. Los locales a que se refieren las fracciones I y II contarán además con medios artificiales de iluminación nocturna en los que las salidas correspondientes deberán proporcionar los niveles de iluminación a que se refiere el Artículo 112.
 
@@ -1010,9 +1146,11 @@ Las salas de espectáculos tendrán una instalación hidráulica independiente p
 
 El sistema hidroneumático quedará instalado de modo tal que funcione con la planta eléctrica de emergencia, por medio de conducción independiente y blindada.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 121.
 
-Los baños públicos deberán contar con instalaciones hidráulicas y de vapor que tengan fácil acceso para su mantenimiento y conservación. Los muros y techos deberán recubrirse con materiales impermeables. Los pisos deberán ser impermeables y antiderrapantes. Las aristas deberán redondearse.
+Los baños públicos deberán contar con instalaciones hidráulicas y de vapor que tengan fácil acceso para su mantenimiento y conservación. Los muros y techos deberán recubrirse con materiales impermeables. Los pisos deberán ser impermeables y antiderrapantes. Las aristas deberán redondearse. Dichos servicios sanitarios deberán tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad.
 
 Dosificación Mínima de Muebles Sanitarios.
 
@@ -1024,11 +1162,15 @@ I. Edificación para habitación.
 
 Cada una de las viviendas de un edificio deberá tener sus propios servicios de baños, lavabo, excusado, fregadero y lavadero.
 
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
 II. Oficinas y Comercios.
 
 Los edificios para comercios y oficinas, cuando rebasen 250 M2. De construcción por piso, deberán tener dos locales para servicios sanitarios por piso, uno destinado para el servicio de hombres y otro al de mujeres, ubicados en tal forma que no sea necesario subir o bajar más de un nivel para tener acceso a cualquiera de ellos.
 
-Para cada 250 M2 o fracción de la superficie construida, se instalará un excusado y un mingitorio para hombre y por cada 200 M2 o fracción, un excusado para las mujeres, como mínimo; además, uno de los sanitarios por cada sexo, del total, será de 90 cms libres para acceso de minusválidos. En el caso de que sólo sea un excusado el establecido en el edificio, éste deberá ajustarse a dichas dimensiones.
+Para cada 250 M2 o fracción de la superficie construida, se instalará un excusado y un mingitorio para hombre y por cada 200 M2 o fracción, un excusado para las mujeres, como mínimo; además, uno de los sanitarios deberá tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad. En el caso de que sólo sea un excusado el establecido en el edificio, éste deberá ajustarse a dichas especificaciones.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
 III. Edificios para educación.
 
@@ -1042,7 +1184,9 @@ Los centros escolares mixtos, deberán estar dotados de servicios sanitarios sep
 
 Todas las escuelas de cualquier grado contarán con un bebedero por cada 100 alumnos, alimentando directamente de un filtro purificador.
 
-Tratándose de escuelas que sirvan a un mismo sexo bastará un solo núcleo sanitario con los requerimientos a que se refieren los párrafos anteriores.
+Tratándose de escuelas que sirvan a un mismo sexo bastará un solo núcleo sanitario con los requerimientos a que se refieren los párrafos anteriores. Dichos servicios sanitarios deberán tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
 IV. Sala de Espectáculos
 
@@ -1054,7 +1198,9 @@ En cada núcleo habrá por lo menos un bebedero con agua potable.
 
 Además tendrán servicios sanitarios adecuados para los actores. Estos servicios deberán tener pisos impermeables y convenientemente drenados; recubrimientos de muros con una altura mínima de 1.80 mts con materiales impermeables lisos y de fácil aseo, los ángulos deberán redondearse.
 
-Tendrán depósitos para agua con capacidad de 6 lts. por espectador.
+Tendrán depósitos para agua con capacidad de 6 lts. por espectador. Dichos servicios sanitarios deberán tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
 V. Clubes, Salones para Baile y Banquete.
 
@@ -1064,7 +1210,9 @@ Además tendrán servicios sanitarios adecuados para empleados y actores.
 
 Estos servicios deberán tener pisos impermeables y convenientemente drenados; recubrimientos de muros con altura mínima de 1.80 mts con materiales impermeables, lisos y de fácil aseo, los ángulos deberán redondearse.
 
-Tendrán depósitos para agua con capacidad de 6 lts. por concurrente.
+Tendrán depósitos para agua con capacidad de 6 lts. por concurrente. Dichos servicios sanitarios deberán tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
 VI. Edificios para Espectáculos Deportivos.
 
@@ -1074,7 +1222,9 @@ Estos servicios deberán tener pisos impermeables y convenientemente drenados; r
 
 Deberán contar además con vestidores y servicios sanitarios adecuados para los deportistas participantes.
 
-Los depósitos para agua que sirvan para los baños de los deportistas y los sanitarios para el publico deberán calcularse con capacidad de dos lts. por espectador.
+Los depósitos para agua que sirvan para los baños de los deportistas y los sanitarios para el público deberán calcularse con capacidad de dos lts. por espectador. Dichos servicios sanitarios deberán tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
 VII. Edificios para Baños Públicos.
 
@@ -1082,7 +1232,7 @@ En los edificios para baños el área de regaderas tendrá como mínimo una rega
 
 Los baños públicos deberán tener pisos impermeables antiderrapantes; recubrimientos de muros y techos con materiales impermeables, lisos y de fácil aseo, los ángulos deberán redondearse.
 
-En los edificios para baños, los núcleos de hombres tendrán como mínimo: un excusado, 2 mingitorios y un lavabo por cada 12 casilleros o vestidores. Los de mujeres tendrán como mínimo: un excusado y un lavabo por cada 8 casilleros y vestidores.
+En los edificios para baños, los núcleos de hombres tendrán como mínimo: un excusado, 2 mingitorios y un lavabo por cada 12 casilleros o vestidores. Los de mujeres tendrán como mínimo: un excusado y un lavabo por cada 8 casilleros y vestidores. Dichos servicios sanitarios deberán tener las especificaciones técnicas, previstas en el Capítulo "Normas de Accesibilidad" de este Reglamento, para el uso de personas con problemas de movilidad.
 
 Tratamiento Domiciliario de Aguas Residuales.
 
@@ -1440,9 +1590,13 @@ VI. Las edificaciones que requieran de conmutadores o instalaciones telefónicas
 
 VII. Todos los edificios que requieran más de 4 servicios, necesitan de una acometida pública, que se deberá tramitar ante Teléfonos de México, S.A. de C.V.
 
-### Capitulo III. Accesibilidad y Seguridad ante Temblores, Fuego o Pánico
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JUNIO DE 2008)</small>
 
-#### Sección Primera. Accesibilidad y factibilidad de Evacuación
+### Capitulo III. Seguridad ante Temblores, Fuego y Pánico
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JUNIO DE 2008)</small>
+
+#### Sección Primera. Factibilidad de Evacuación
 
 Normas y Puertas de Acceso y Salida.
 
@@ -1464,7 +1618,9 @@ Las edificaciones para la educación deberán contar con áreas de dispersión y
 
 ###### ARTICULO 173.
 
-Las puertas de acceso, intercomunicación y salida, deberán tener una altura de 2.10 mts. cuanto menos; y una anchura que cumpla con la medida de 60 cms. por cada 100 usuarios o fracción, pero sin reducir los valores mínimos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Las puertas de acceso, intercomunicación y salida, deberán tener una altura de 2.10 mts. cuanto menos; y una anchura que cumpla con la medida de 95 cms. por cada 100 usuarios o fracción, pero sin reducir los valores mínimos siguientes:
 
 OBSERVACIONES
 
@@ -1486,6 +1642,10 @@ III. Las salidas de emergencia deberán permitir el desalojo de cada nivel de la
 
 IV. Las puertas de las salidas de emergencia deberán contar con mecanismos que permitan abrirlas desde adentro mediante una operación simple de empuje.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+V.- Todos los inmuebles públicos o de acceso público deberán contener elementos pictóricos, para entendimiento de personas sordas y no hispanoparlantes, y en idioma español especificando información sobre seguridad y rutas de evacuación.
+
 ###### ARTICULO 175.
 
 En las edificaciones de recreación se deberán instalar butacas, de acuerdo con las siguientes disposiciones:
@@ -1493,6 +1653,8 @@ En las edificaciones de recreación se deberán instalar butacas, de acuerdo con
 I. Tendrán una anchura mínima de 50 cms.
 
 II. El pasillo entre el frente de una butaca y el respaldo de adelante será, cuando menos, de 40 cms.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2008)</small>
 
 III. Las filas podrán tener un máximo de 24 butacas cuando desemboquen a dos pasillos laterales, y de 12 butacas cuando desemboquen a uno solo, si el pasillo al que se refiere la fracción II tiene cuando menos 75 cms.; el ancho mínimo de dicho pasillo para filas de menos butacas de (sic) determinará interpolando las cantidades anteriores, sin perjuicio de cumplir el mínimo establecido en la fracción II de este Artículo.
 
@@ -1502,7 +1664,9 @@ V. Los asientos de las butacas serán plegadizos, siempre que el pasillo, al que
 
 VI. En el caso de cines, la distancia desde cualquier butaca al punto más cercano de la pantalla será la mitad de dimensión mayor de ésta, pero en ningún caso menor de 7.00 cms.
 
-VII. En auditorios, teatros, cines, salas de concierto y teatros al aire libre, deberá destinarse un espacio por cada 100 asistentes o fracción a partir de 60, para uso exclusivo de personas impedidas. Este espacio tendrá 1.25 mts. de fondo y 90 cms. de frente, y quedará libre de butaca y fuera del área de circulaciones.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+VII.- En auditorios, teatros, cines, salas de concierto y teatros al aire libre, deberán destinarse seis espacios por cada 100 asistentes o fracción a partir de 60, para uso exclusivo de personas usuarias de sillas de ruedas. Estos espacios tendrán 1.25 mts. de fondo y 90 cms. de frente, y quedarán libres de butacas, fuera del área de circulaciones, alineados a las butacas convencionales y en el interior extremo de las filas para evitar aislamiento o segregación. Dichos espacios se dispondrán en filas diferentes y cercanas a los accesos.
 
 ###### ARTICULO 176.
 
@@ -1562,15 +1726,19 @@ i) Las escaleras de caracol se permitirán únicamente para comunicar locales de
 
 j) Las escaleras compensadas deberán tener una huella mínima de 25 cms., medida a 40 cms. del barandal del lado interior y un ancho máximo de 1.50 mts. Dichas escaleras estarán prohibidas en edificaciones de más de 5 niveles.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2009)</small>
+
 ###### ARTICULO 179.
 
-Las rampas peatonales que se proyecten en cualquier edificación, deberán tener una pendiente máxima de 10%, con pavimentos antiderrapantes, barandales en uno de sus lados por lo menos y con las anchuras mínimas que se establecen para las escaleras en el Artículo anterior.
+Las rampas peatonales que se proyecten en cualquier edificación, deberán tener una pendiente máxima de 6%, con pavimentos antiderrapantes, barandales en uno de sus lados por lo menos y con anchura mínima de 95 cm.
 
 Normas Mínimas de Visibilidad.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 180.
 
-En las edificaciones de riesgo mayor, clasificadas en el Artículo 184 de este REGLAMENTO, las circulaciones que funcionen como salidas a la vía o conduzcan directa o indirectamente a éstas, estarán señaladas con letreros y flechas permanentes iluminadas y con la leyenda escrita “SALIDA” o “SALIDA DE EMERGENCIA”, según sea el caso.
+En las edificaciones de riesgo mayor, clasificadas en el Artículo 184 de este REGLAMENTO, las circulaciones que funcionen como salidas a la vía o conduzcan directa o indirectamente a éstas, estarán señaladas con letreros y flechas permanentes iluminadas y con la leyenda escrita "SALIDA" o "SALIDA DE EMERGENCIA", en idioma español y en Lenguaje de Señas Mexicano, según sea el caso.
 
 ###### ARTICULO 181.
 
@@ -1600,7 +1768,9 @@ a) La capacidad de transporte del elevador o sistema de elevadores será cuando 
 
 b) El intervalo máximo de espera será de 80 segundos.
 
-c) Se deberá indicar claramente en el interior de la cabina, la capacidad máxima de carga útil, expresada en kilogramos y en número de personas, calculadas en 70 kgs. Cada una.
+> <small>(REFORMADO, P.O, 14 DE JUNIO DE 2008)</small>
+
+c) Se deberá indicar claramente en el interior de la cabina, la capacidad máxima de carga útil, expresada en kilogramos y en número de personas, calculadas en 70 kgs. Cada una. Así mismo, dispondrán de información sobre el número de pisos, seguridad e indicadores generales en sistema de lecto-escritura Braille, y emisión de sonidos para indicar la apertura y cierre de puertas.
 
 d) Los cables y elementos mecánicos deberán tener una resistencia igual o mayor al doble de la carga útil de operación.
 
@@ -1766,7 +1936,9 @@ La DIRECCION podrá autorizar otros sistemas de control de incendio, como rociad
 
 ###### ARTICULO 208.
 
-Las edificaciones de más de 10 niveles deberán contar, además de las instalaciones y dispositivos señalados en esta Sección, con sistema de alarma contra incendio, visuales y sonoros independientes entre sí.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Las edificaciones de más de 10 niveles deberán contar, además de las instalaciones y dispositivos señalados en esta Sección, con sistema de alarmas contra incendio, visuales y sonoras independientes entre sí.
 
 Los tableros de control de estos sistemas deberán localizarse en lugares visibles desde las áreas de trabajo del edificio y su número, al igual que el de los dispositivos de alarma, será fijado por la DIRECCION.
 
@@ -1774,11 +1946,13 @@ El funcionamiento de los sistemas de alarma contra incendio deberá ser probado,
 
 El equipo de extinción deberá ubicarse en lugares de fácil acceso, y se identificará mediante señales, letreros o símbolos claramente visibles.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 209.
 
 Los elevadores para publico en las edificaciones deberán contar con letreros visibles desde el vestíbulo de acceso al elevador, con la leyenda escrita: “En caso de incendio, utilice la escalera”.
 
-Las puertas de los cubos de escaleras deberán contar con letreros en ambos lados, con leyenda escrita: “Esta puerta debe permanecer cerrada”.
+Las puertas de los cubos de escaleras deberán contar con letreros en ambos lados, con leyenda escrita: "Esta puerta debe permanecer cerrada". Los mensajes deberán publicarse en idioma español, y en Lenguaje de Señas Mexicano o elementos pictográficos.
 
 ###### ARTICULO 210.
 
@@ -1790,9 +1964,11 @@ Los casos no previstos en esta Sección, quedarán sujetos a las disposiciones q
 
 Simulacros de Evacuación.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 212.
 
-Los propietarios o administradores de edificaciones de riesgo mayor, con la supervisión del Comité Municipal de Protección Civil, realizarán simulacros de incendios, por lo menos cada 6 meses, en los que participen los empleados y, en los casos que señalen las NORMAS, los usuarios o concurrentes. Los simulacros consistirán en prácticas de salida de emergencia, utilización de los equipos de extinción y formación de brigadas contra incendio, de acuerdo con lo que establezca el Reglamento de Seguridad e Higiene en el Trabajo.
+Los propietarios o administradores de edificaciones de riesgo mayor, con la supervisión del Comité Municipal de Protección Civil, realizarán simulacros de incendios, por lo menos cada 6 meses, en los que participen los empleados y, en los casos que señalen las NORMAS, los usuarios o concurrentes. Los simulacros consistirán en prácticas de salida de emergencia, ubicación y traslado de personas con problemas de movilidad, utilización de los equipos de extinción y formación de brigadas contra incendio, de acuerdo con lo que establezca el Reglamento de Seguridad e Higiene en el Trabajo.
 
 ## TITULO TERCERO. NORMAS DE SEGURIDAD ESTRUCTURAL
 
@@ -2474,13 +2650,15 @@ En las obras de construcción, deberán proporcionarse a los trabajadores servic
 
 ### Capitulo III. Materiales y Procedimientos de Construcción
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 293.
 
 Los materiales empleados en la construcción deberán cumplir con las siguientes disposiciones:
 
-I.- La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y los planos constructivos registrados, y deberán satisfacer las NORMAS de este REGLAMENTO y las normas de calidad establecidas por la Secretaría de Comercio y Fomento Industrial, y
+I.- La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y los planos constructivos registrados, y deberán satisfacer las normas de este Reglamento y las normas de calidad establecidas por la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado y
 
-II.- Cuando se proyecte utilizar en una construcción algún material nuevo que no esté contemplado en las NORMAS o que no cuente con normas de calidad de la Secretaría de Comercio y Fomento Industrial, el Director Responsable de Obra deberá solicitar la aprobación previa de la DIRECCION, para lo cual presentará los resultados de las pruebas de verificación de calidad de dicho material.
+II.- Cuando se proyecte utilizar en una construcción algún material nuevo que no esté contemplado en las normas o que no cuente con normas de calidad de la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado, el Director Responsable de Obra deberá solicitar la aprobación previa de la Dirección, para lo cual presentará los resultados de las pruebas de verificación de calidad de dicho material.
 
 ###### ARTICULO 294.
 
@@ -2536,9 +2714,11 @@ Las separaciones deberán protegerse por medio de tapajuntas que impidan la pene
 
 ### Capitulo V. Excavaciones y Cimentaciones
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 302.
 
-Para la ejecución de las excavaciones y la construcción de cimentaciones, se observarán las disposiciones del Capítulo VIII del Título Tercero de este REGLAMENTO, así como las NORMAS de cimentaciones. En particular se cumplirá lo relativo a las precauciones para que no resulten afectadas las construcciones y predios vecinos ni los servicios públicos.
+Para la ejecución de las excavaciones y la construcción de cimentaciones, se observarán las disposiciones del Capítulo VIII del Título Tercero de este Reglamento, así como las normas de cimentaciones. En particular se cumplirá lo relativo a las precauciones para que no resulten afectadas las construcciones y predios vecinos ni los servicios públicos, ni la seguridad de las personas.
 
 ###### ARTICULO 303.
 
@@ -2740,7 +2920,9 @@ Estos planos serán acompañados de la memoria de cálculo en la cual se describ
 
 Los anteriores planos deberán incluir el proyecto de protección a colindancias y estudios de mecánica de suelo, cuando proceda de acuerdo con lo establecido en este REGLAMENTO. Estos documentos deberán estar firmados por el Director Responsable de la Obra y el Corresponsable de Seguridad Estructural en su caso.
 
-Además la DIRECCION podrá exigir, cuando lo juzgue conveniente, la presentación de los cálculo (sic) completos.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Además la Dirección podrá exigir, cuando lo juzgue conveniente, la presentación de los cálculos completos. En el caso de inmuebles públicos, o particulares de acceso público, se deberá presentar detalle arquitectónico de Diseño Universal, el cual será estudiado por la Dirección para la expedición en su caso de la correspondiente Constancia de Diseño Universal.
 
 d).- La Licencia de Uso del Suelo, en su caso.
 
@@ -2866,7 +3048,9 @@ IV.- La instalación, modificación o reparación de ascensores para personas, m
 
 Con la solicitud de Licencia, se acompañará la responsiva profesional de un ingeniero Mecánico o Mecánico Electricista registrado como Corresponsable con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinarán, así como dos juegos completos de planos de quien fabrique el aparato y de una memoria donde se detallen los cálculos que hayan sido necesarios.
 
-V.- La colocación de anuncios. Corresponde a la DIRECCION, otorgar el permiso por lo que se refiere a diseño estructural y criterios de cálculo para su instalación. Se deberá supervisar que la misma quede de acuerdo con los lineamientos del permiso otorgado y como consecuencia, reuniendo las condiciones de seguridad necesarias y disponer que los anuncios queden instalados en estructuras de madera, fierro u otro material aconsejable, según el caso, para lo cual el solicitante deberá presentar a esta Dependencia, junto con su solicitud, un proyecto detallado del anuncio a colocarse y los demás elementos que le sean requeridos para el otorgamiento del permiso, en los términos del Reglamento de Anuncios Comerciales del Municipio de Colima.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DEV 2008)</small>
+
+V.- La colocación de anuncios. Corresponde a la Dirección, otorgar el permiso por lo que se refiere a diseño estructural y criterios de cálculo para su instalación. Se deberá supervisar que la misma quede de acuerdo con los lineamientos del permiso otorgado y como consecuencia, reuniendo las condiciones de seguridad necesarias y disponer que los anuncios queden instalados en estructuras de madera, fierro u otro material aconsejable, según el caso, para lo cual el solicitante deberá presentar a esta Dependencia, junto con su solicitud, un proyecto detallado del anuncio a colocarse y los demás elementos que le sean requeridos para el otorgamiento del permiso, en los términos del Reglamento de Anuncios Comerciales del Municipio de Colima.
 
 Vigencia.-
 
@@ -2972,9 +3156,11 @@ La autorización tendrá una vigencia de dos años y será revalidada en el mes 
 
 La DIRECCION otorgará esta autorización, debiendo asimismo recabarse la autorización sanitaria que expedirá la Secretaría de Salud y Bienestar Social, en los casos y en los términos que ésta establece, siempre y cuando la edificación cumpla con los requisitos de higiene que señalan los ordenamientos al respecto.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 336.
 
-Si del resultado de la inspección a que se refiere el Artículo 334 de este REGLAMENTO y del cotejo de la documentación correspondiente, apareciera que la obra no se ajustó a la Licencia, o las modificaciones al proyecto autorizado excedieron los límites a que se refiere el mismo Artículo, la DIRECCION ordenará al propietario efectuar las modificaciones que fueren necesarias, y en tanto éstas no se ejecuten a satisfacción de la propia DIRECCION, no se autorizará el uso y ocupación de la obra.
+Si del resultado de la inspección a que se refiere el artículo 334 de este Reglamento y del cotejo de la documentación correspondiente, apareciera que la obra no se ajustó a la licencia, no incluyen las especificaciones del Capítulo "Normas de Accesibilidad" de este Reglamento, o las modificaciones al proyecto autorizado excedieron los límites a que se refiere el mismo Artículo, la Dirección ordenará al propietario efectuar las modificaciones que fueren necesarias, y en tanto éstas no se ejecuten a satisfacción de la propia Dirección, no se autorizará el uso y ocupación de la obra.
 
 ###### ARTICULO 337.
 
@@ -3021,6 +3207,10 @@ c).- Suscriban un Dictamen de Estabilidad o Seguridad de una edificación o inst
 d).- Suscriban una constancia de Seguridad Estructural.
 
 e).- Suscriban el Visto Bueno de Seguridad y Operación de una Obra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+f).- Suscriban detalles de Accesibilidad o Diseño Universal.
 
 Cuando se trate de persona moral que actúe como Director Responsable de Obra, la responsiva deberá ser en los términos de la fracción II, inciso b), del Artículo 343, y que tenga poder bastante y suficiente para obligar a la persona moral. En todo caso, tanto la persona física como la moral, son responsables solidarios, en los términos que para ellos señala la Legislación común.
 
@@ -3148,7 +3338,9 @@ Corresponsables de Obra.-
 
 ###### ARTICULO 348.
 
-Corresponsable de Obra es la persona física o moral con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, en todos los aspectos de las obras en las que otorgue su responsiva, relativos a la seguridad estructural, diseño urbano y arquitectónico e instalaciones, según sea el caso, y deberá cumplir con los requisitos establecidos en el Artículo 350 de este REGLAMENTO.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Corresponsable de Obra es la persona física o moral con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, en todos los aspectos de las obras en las que otorgue su responsiva, relativos a la seguridad estructural, diseño urbano y arquitectónico e instalaciones, Diseño Universal o Accesibilidad, según sea el caso, y deberá cumplir con los requisitos establecidos en el artículo 350 de este Reglamento.
 
 Cuando se trate de personas morales que actúen como Corresponsables, la responsiva deberá ser firmada por una persona física que reúna los requisitos a que se refiere el Artículo 350 de este REGLAMENTO y que tenga poder bastante y suficiente para obligar a la persona moral. En todo caso, tanto la persona física con la moral son responsables solidarios en los términos que para ello señala la Legislación común.
 
@@ -3184,7 +3376,11 @@ c).- Suscriba los procedimientos de construcción de las obras y los resultados 
 
 d).- Suscriba un dictamen técnico de estabilidad, o seguridad de una edificación o instalación.
 
-e) Suscriba una constancia de seguridad estructural.
+e).- Suscriba una constancia de seguridad estructural.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+f).- Suscriba los Detalles de Diseño Universal o Accesibilidad.
 
 II.- El Corresponsable en Diseño Urbano y Arquitectónico, cuando:
 
@@ -3474,6 +3670,256 @@ Contra los acuerdos emitidos por la DIRECCION, los afectados podrán interponer 
 
 Habrá solidaridad pasiva en la obligación del pago de las sanciones y demás obligaciones pecuniarias, que resulten de la aplicación de este REGLAMENTO, por parte de los propietarios y de los Directores Responsables de las Obras.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2008)</small>
+
+## TITULO SEXTO. NORMAS DE ACCESIBILIDAD
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2008)</small>
+
+### Capitulo I. Acceso, Circulación, Uso e Información
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 369.
+
+Los espacios, estructuras e instalaciones que en la vía pública y en lugares con acceso al público deberán ser adecuadas para facilitar el desplazamiento fácil, cómodo y seguro de las personas, son:
+
+I. Estacionamientos y aparcaderos
+
+II. Auditorios, salas de cine, teatros y en general cualquier sala de espectáculos
+
+III. Bibliotecas
+
+IV. Escuelas
+
+V. Sanitarios
+
+VI. Parques y jardines
+
+VII. Oficinas
+
+VIII. Todos aquellos que brinden servicio al público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 370.
+
+La arquitectura en lugares con acceso público debe ser adecuada y contar con las facilidades para que las personas con discapacidad y problemas de movilidad puedan desplazarse. Cuando éstas no presenten dichas condiciones, deberán ser reconstruidas con esa finalidad.
+
+Asimismo la colocación de los señalamientos viales se efectuará de manera estratégica evitando el centro de pasillos, las orillas en caso de que las aceras sean angostas y camellones a efecto de que no se impida el desplazamiento de una silla de ruedas, de un aparato de apoyo o de un invidente o débil visual.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 371.
+
+Las aceras deben permitir, en las esquinas o sitios propicios para el cruce, las facilidades para que las personas en sillas de ruedas puedan, en forma independiente y con un máximo de seguridad, descender o ascender de las mismas, para lo cual los pavimentos serán resistentes y antiderrapantes, las juntas bien selladas y libres de arena o piedras sueltas, las pendientes no podrán ser mayores de seis por ciento debiendo existir pasacalles a fin de cruzar de una acera a otra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 372.
+
+En las aceras e intersecciones en que se construyan rampas para sillas de ruedas, el pavimento además de antiderrapante, deberá ser rugoso, de tal manera que sirva también como señalamiento para la circulación de invidentes o débiles visuales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 373.
+
+En las intersecciones o cruces de aceras o de calles, que se encuentren construidas a distintos niveles, la superficie de ambas deberán llevarse al mismo nivel mediante el uso de rampas, con la finalidad de hacer factible el tránsito a personas con sillas de ruedas, con aparatos ortopédicos o con locomoción disminuida por algún padecimiento somático.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 374.
+
+En las zonas urbanas de nueva creación o desarrollo, deberá evitarse la colocación de coladeras de cualquier índole sobre aceras, cruceros u otros elementos de circulación peatonal.
+
+En las áreas ya urbanizadas, donde se ubican coladeras de cualquier índole, sobre las aceras, deberán fijarse señalamientos necesarios para que las personas que utilicen silla de ruedas, muletas, bastones, aparatos ortopédicos o sean débiles visuales, eviten tropiezo alguno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 375.
+
+Los tensores que en las vías públicas se instalan, como apoyo de los postes de los servicios públicos, deberán contar con un protector de plástico flexible con un diámetro mínimo de setenta y cinco milímetros, el cual se recubrirán con pintura de color vivo a fin de que los transeúntes, principalmente los débiles visuales, los identifiquen con facilidad para evitar tropezarse.
+
+Con la misma finalidad deberán pintarse de colores contrastantes los postes, semáforos, contenedores de basura de todo tipo y cualquier otro mueble urbano que se deposite sobre las aceras, cruceros o intersecciones de calles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 376.
+
+Los edificios que tengan escaleras en su acceso desde la vía pública y en su interior, deberán contar con una rampa para dar servicio a personas que se transporten con silla de ruedas, o que usen muletas, bastones o aparatos ortopédicos, o que por cualesquiera otras circunstancias tengan disminuidas o afectadas sus facultades de locomoción.
+
+Esta área especial de acceso deberá tener una pendiente suave, no mayor de seis por ciento, ser antiderrapante, de cuando menos noventa y cinco centímetros de ancho, y contará con una plataforma horizontal de descanso, de ciento cincuenta centímetros de longitud, por lo menos, por cada cinco metros de extensión de la rampa, y con un pasamanos doble o barandal continuo, colocado a una altura de ochenta centímetros del piso.
+
+Así mismo, estará dotada, por ambos lados, de un bordo o guarnición longitudinal, de veinte centímetros de alto por diez centímetros de ancho, contra el cual pueda detenerse la bajada precipitada de una silla de ruedas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 377.
+
+Bajo ninguna circunstancia, la rampa de servicios de carga y descarga de un edificio podrá destinarse a la función precisada en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 378.
+
+Las escaleras exteriores de los edificios deberán contar con una pendiente suave, así como un acabado antiderrapante y estar dotadas de pasamanos dobles o barandales a efecto de facilitar el acceso a personas invidentes o débiles visuales, con prótesis o afectadas de cualquier estado de discapacidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 379.
+
+Todos aquellos edificios públicos o de acceso público que cuenten con escaleras en su interior, deberán contar con una rampa para el servicio de personas con discapacidad. La rampa se construirá siguiendo las especificaciones precisadas en el artículo 55 de este REGLAMENTO.
+
+La autoridad podrá dispensar el cumplimiento de la obligación de poner una rampa en caso de que exista impedimento debidamente acreditado, a través de dictamen pericial y en caso de contar con posibilidades arquitectónicas, instalar un elevador con las especificaciones señaladas en el artículo 70 de este REGLAMENTO.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 380.
+
+Las escaleras interiores de los edificios deberán permanecer perfectamente iluminadas, de manera artificial y/o natural, así como tener descansos, rellanos o mesetas, a intervalos adecuados para brindar a la persona con discapacidad, un área segura en caso de sufrir mareo, agotamiento, falta de aire o cualquiera otra contingencia que afecte su condición física y lo ponga en estado de riesgo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 381.
+
+Los bordes de las escaleras interiores deberán pintarse con colores vivos que contrasten con el resto de los peldaños y tener una superficie de textura rugosa, con la finalidad de que puedan ser de fácil identificación, tanto por quienes tengan visión normal como por invidentes o débiles visuales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 382.
+
+Las escaleras tendrán pasamano dobles en ambos lados, con secciones no mayores de cinco centímetros de diámetro o de ancho, así como en forma continua.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 383.
+
+Las puertas de acceso de un inmueble, a efecto de que puedan ser utilizadas por personas en sillas de ruedas, deberán tener un claro totalmente libre de noventa y cinco centímetros de ancho, cuando menos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 384.
+
+Con el objeto de evitar accidentes a personas con discapacidad, deberán evitarse, en lo posible las puertas de doble abatimiento.
+
+En caso de que no resulte posible dar cumplimiento a lo anterior, los edificios deberán contar con mecanismo de cerrado lento y con ventanas de vidrio inastillable que permitan la vista al exterior y al interior del inmueble.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2008)</small>
+
+### Capitulo II
+
+De las preferencias para el libre desplazamiento y uso de los servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 385.
+
+La prestación de los servicios para las personas con discapacidad, tiene por objeto garantizar el uso y disfrute de todo tipo de servicios facilitando el desarrollo personal y su integración social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 386.
+
+Los lugares con acceso al público que prestan servicios públicos son los siguientes:
+
+I. Las clínicas, hospitales y centros de salud;
+
+II. Las Terminales aéreas, terrestres y marítimas;
+
+III. Los comedores de autoservicios, restaurantes y cafeterías;
+
+IV. Los auditorios, salas de cine, teatros, y en general cualquier sala de espectáculos;
+
+V. Las instalaciones del sector turístico;
+
+VI. Las aulas, bibliotecas, museos, talleres, centros de investigación y cualquier otro espacio de un centro escolar;
+
+VII. Los centros de recreación, bares y discotecas;
+
+VIII. Las tiendas departamentales, plazas y centros comerciales;
+
+IX. Bancos y cajeros automáticos;
+
+X. Clubes deportivos, estadios y cualquier otro sitio de recreación;
+
+XI. deportiva; y
+
+I (SIC). Parques y jardines.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 387.
+
+En los lugares que presten servicio al público, deberán destinarse, por lo menos, dos espacios por manzana para estacionamiento de vehículos de personas con discapacidad.
+
+Dichos espacios estarán diseñados de acuerdo a los requerimientos específicos por la autoridad competente y encontrarse claramente señalados como reservados para uso exclusivo, ubicándose lo más cerca posible de las rampas de acceso a las aceras.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 388.
+
+Los elevadores para el uso de personas, deberán ser adecuados a dimensiones no menores de ciento cincuenta y cinco centímetros de profundidad por ciento setenta centímetros de ancho, a fin de que permita el fácil acceso y manejo de sillas de ruedas en su interior, por igual deberá observarse que el área de entrada a dicho elevador, en cada una de las plantas del edificio, sea una superficie plana de ciento cincuenta centímetros de largo por similar medida de ancho. Así mismo, deberá contar con la señalización correspondiente en sistema braille.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 389.
+
+En todos los inmuebles con atención al público, deberán existir sanitarios adecuados para el uso de personas con discapacidad, localizados en lugares accesibles, dichos lugares y sus rutas de acceso deberán estar señalizados con una tira táctil o cambio de textura en el piso, con puertas de acceso con claro mínimo de un metro, barra de apoyo de treinta y ocho milímetros de diámetro firmemente sujetas a los muros junto a los muebles sanitarios.
+
+Los pisos serán antiderrapantes y con pendientes del dos por ciento hacia las coladeras para evitar encharcamiento, las rejillas de las cuales no tendrán más de trece milímetros de separación; en los lavamanos, las llaves deberán ser de brazo o palanca, permitir un claro inferior libre que permita la aproximación de una silla de ruedas sin la obstrucción de faldones, tener aislados sus tubos inferiores de agua caliente, para evitar quemaduras a personas carentes de sensibilidad en las piernas y estar instalados a una altura de entre setenta y seis y ochenta centímetros del piso.
+
+Cada gabinete medirá ciento setenta centímetros de fondo por similar medida de ancho, el inodoro se instalará a una altura de cincuenta centímetros y con una puerta plegable de abatimiento exterior de noventa centímetros como mínimo. En el área de mingitorios, al menos uno de ellos deberá estar instalado a una altura de setenta centímetros para usuarios de ruedas.
+
+Los accesorios en los baños, deberán instalarse por debajo de los ciento veinte centímetros de altura y no obstaculizar la circulación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 390.
+
+La DIRECCIÓN, al expedir la autorización para que las empresas telefónicas puedan colocar teléfonos en la vía pública, deberá prever la instalación de cuando menos un teléfono a una altura adecuada para poder ser utilizado por personas que se desplacen en silla de ruedas, en las áreas donde exista este servicio.
+
+Las empresas telefónicas que ya tengan instalados teléfonos públicos, deben realizar las adecuaciones necesarias. Además, alrededor de las casetas telefónicas, deberá preverse la colocación de un área detectable al bastón de las personas ciegas, con el fin de evitar los accidentes causados por éstas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 391.
+
+Las bibliotecas de estantería abierta, deberán contar con una separación mínima de ciento veinte centímetros entre los anaqueles, a fin de facilitar su uso a personas con discapacidad, principalmente aquéllos que requieran movilizarse en silla de ruedas, muletas o cualquier otro aparato.
+
+También deberá contar con una área determinada específicamente para invidentes o débiles visuales, en donde se instalen casetas que permitan hacer uso de grabadoras o que otras personas les hagan lectura en voz alta sin causar perjuicio alguno a los demás usuarios y, en su caso, contar con libros impresos de mayor dimensión, escritura bajo el sistema Braille y audio libros y con programas de lectura de pantalla que permitan el acceso a bibliografías virtuales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 392.
+
+Los espacios escolares deberán construirse libres de barreras en las aulas, canchas deportivas, patios de juego y áreas administrativas, considerándose dimensiones adecuadas para el acceso y uso de laboratorios, bibliotecas, auditorios y sanitarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 393.
+
+La señalización para la identificación de espacios, en edificios escolares u otros, deberá hacerse mediante el empleo de placas que contendrán números, leyendas o símbolos grandes, realzados o rehundidos, en colores contrastantes, con la finalidad de facilitar su localización y lectura.
+
+Los señalamientos se colocarán en muros o lugares físicos no abatibles, a una altura que no excederá de ciento ochenta centímetros contados desde el nivel del piso, y su ubicación se indicará por medio de líneas detectables al bastón de las personas ciegas a través de un cambio de textura en el piso. Las señales y los muros donde éstas se coloquen, deberán estar fabricados con materiales que eviten al tacto, lesiones de cualquier tipo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 394.
+
+Los restaurantes, comedores de autoservicio, cafeterías y bibliotecas públicas, y demás lugares similares, sin que ello implique instalaciones especiales que puedan denotar segregación, marginación o discriminación de las personas con discapacidad, deberán contar, por lo menos, con cuatro mesas de forma rectangular a una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, sin travesaño, con la finalidad de brindar comodidad a usuarios en silla de ruedas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 395.
+
+Los hoteles y establecimientos que se dediquen al hospedaje, deberán contar con habitaciones y baños adaptados para el acceso y movilidad de personas con discapacidad que utilicen apoyo para desplazarse, dicho establecimiento deberá garantizar el acceso libre de barreras a todas las áreas destinadas al uso y disfrute del usuario, tales como recepciones, habitaciones, baños, terrazas, bares y restaurantes, albercas, canchas deportivas, entre otras.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 396.
+
+En los auditorios, salas de cine, teatros, salas de conciertos y de conferencias, centros recreativos, culturales, deportivos y en general, cualquier recinto donde se presenten espectáculos públicos deberán establecerse estratégicamente espacios reservados, en comunión con asientos ordinarios, suficientes y sin declive, para personas con discapacidad que no puedan hacer uso de los asientos o butacas; así como eliminarse todo tipo de barreras arquitectónicas.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente REGLAMENTO entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.- (sic)
@@ -3498,4 +3944,8 @@ OCTAVO.- Para la autorización de edificaciones, cuyo uso o destino sea distinto
 
 P.O. 22 DE MARZO DE 2003.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 14 DE JUNIO DE 2008.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
