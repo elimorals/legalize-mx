@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2008-04-23"
+last_updated: "2008-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -992,6 +992,14 @@ VI. Cuando así lo estime pertinente el Presidente por alguna situación extraor
 ###### Artículo 114.
 
 El Presidente le comunicará al orador cuando haya concluido el tiempo que se le otorgó y le concederá un minuto para que dé por terminada su participación. Si el diputado no atiende el llamado, aquél podrá ordenar la suspensión del sonido y conminará al orador a que abandone la tribuna, de no acatar lo anterior, se le impondrán las sanciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Durante el desahogo del orden del día de la sesión ordinaria de que se trate, llegado el turno de los asuntos generales a que hace referencia la fracción VIII del artículo 83 del presente Reglamento, podrán inscribirse como oradores los diputados que así lo deseen, solicitando para tal efecto la autorización del Presidente, quien a su vez, autorizará el uso de la palabra hasta por cinco minutos. Si la solicitud de intervención en asuntos generales se realiza con veinticuatro horas de anticipación a la sesión de que se trate, se podrá autorizar la palabra hasta por diez minutos. Podrán rectificarse hechos hasta por tres minutos, el mismo tiempo tiene el integrante de la Legislatura que sea aludido personalmente por el orador en tribuna, tomando la palabra desde su curul.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+El Presidente gozará de facultades para conminar al diputado que haya solicitado rectificación de hechos, para que éste se centre en el tema de discusión, sin que ello implique coartar la libre expresión de las ideas.
 
 ###### Artículo 115.
 
@@ -2248,3 +2256,7 @@ P.O. 23 DE ABRIL DE 2008.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 14 DE JUNIO DE 2008.
+
+Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
