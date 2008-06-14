@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-planeacion-y-17708"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-19"
-last_updated: "2000-08-19"
+last_updated: "2008-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y EVALUACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de agosto de 2000.
 
@@ -81,41 +81,53 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y EVALUACION
 
 La Secretaría de Planeación y Evaluación, como dependencia del Poder Ejecutivo del Estado de Chihuahua, tiene a su cargo el desempeño de las atribuciones que le encomienda la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, la Ley de Planeación, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público, así como los reglamentos, decretos, acuerdos y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### Artículo 2.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría de Planeación y Evaluación contará con las siguientes unidades administrativas:
 
-Oficina del Secretario
+I. Oficina del Secretario
 
-Dirección de Planeación
+II. Dirección de Planeación
 
-Dirección de Programas de Inversión
+III. Dirección de Programas de Inversión
 
-Departamento de Formulación de Planes y Programas
+IV. Dirección de Seguimiento de Inversiones
 
-Departamento de Coordinación y Evaluación de Programas
+V. Dirección de Normatividad de Programas de Inversión
 
-Departamento de Análisis Sectorial y Proyectos Especiales
+VI. Departamento de Formulación de Planes y Programas
 
-Departamento de Estadísticas
+VII. Departamento de Coordinación y Evaluación de Programas
 
-Departamento de Informática
+VIII. Departamento de Concertación con Sectores y Organizaciones Sociales
 
-Departamento de Integración de Programas de Inversión
+IX. Departamento de Vinculación Regional
 
-Departamento de Seguimiento de Inversiones
+X. Departamento de Estadística
 
-Departamento de Control Técnico
+XI. Departamento de Integración de Programas de Inversión
 
-Departamento de Vinculación Regional y Organización Social
+XII. Departamento de Control Técnico
 
-Departamento de Servicios Administrativos
+XIII. Departamento de Programas de Inversión Estatal
 
-Departamento Jurídico
+XIV. Departamento de Análisis y Seguimiento de la Normatividad de Obra Pública
+
+XV. Departamento de Servicios Administrativos
+
+XVI. Departamento Jurídico
+
+XVII. Departamento de Informática
+
+XVIII. Departamento de Programas Concertados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### Artículo 3.
 
-La Secretaría de Planeación y Evaluación de conformidad con lo establecido en el artículo 26 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Planeación y Evaluación de conformidad con lo establecido en el Artículo 26 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, le corresponde el despacho de los siguientes asuntos:
 
 I. Integrar, para la aprobación del Ejecutivo, en los términos del artículo 7 de la Ley Orgánica del Poder Ejecutivo, el Plan Estatal de Desarrollo, los programas de mediano plazo y los programas operativos anuales, que como anteproyecto hayan elaborado las Dependencias y Entidades de la Administración Pública Estatal, con la participación del Comité de Planeación para el Desarrollo del Estado de Chihuahua;
 
@@ -123,17 +135,45 @@ II. Analizar y presentar al Ejecutivo, para su aprobación, los programas de inv
 
 III. Establecer la coordinación del Plan Estatal de Desarrollo y de los Programas que de él se deriven, con los planes y programas del Gobierno Federal y de los Municipios de la Entidad;
 
-IV. Promover la participación de los sectores social y privado en la formulación de los planes y programas, así como en la evaluación de los mismos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-V. Organizar y operar un sistema permanente de evaluación y seguimiento de la ejecución de las metas fijadas en los programas anuales y de inversión, acorde con los objetivos, así como con los que se deriven de los acuerdos y convenios de coordinación con la Federación y los Municipios;
+IV. En materia de programas de inversión, participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado, así como emitir la afectación presupuestal y solicitar a la Secretaría de Finanzas y Administración los pagos correspondientes;
 
-VI. Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las Dependencias y Entidades de la Administración Pública Estatal, para la instrumentación de sus sistemas internos de planeación, programación y evaluación;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-VII. Establecer adecuada coordinación con la Secretaría de Finanzas y Administración para la integración de los programas operativos anuales, por parte de esta Dependencia, en el proyecto de presupuesto de egresos del Gobierno del Estado;
+V. Aperturar las cuentas bancarias necesarias para operar los diferentes programas de inversión concertados con la Federación y los Municipios de la Entidad, así como llevar el control presupuestal y financiero de los mismos;
 
-VIII. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de planeación, programación y evaluación, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-IX. Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+VI. Participar con la Secretaría de Finanzas y Administración en la elaboración del Presupuesto de Egresos, para su presentación al Ejecutivo;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+VII. Proponer a la Secretaría de Finanzas y Administración la estructura programática y presupuestal del Presupuesto de Egresos, de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, y por la Ley de Planeación, todas del Estado de Chihuahua;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+VIII. Promover la participación de los sectores social y privado en la formulación de los planes y programas, así como en la evaluación de los mismos;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+IX. Organizar y operar un sistema permanente de evaluación y seguimiento de la ejecución de las metas fijadas en los programas anuales y de inversión, acorde con los objetivos, así como con los que se deriven de los acuerdos y convenios de coordinación con la Federación y los Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+X. Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las Dependencias y Entidades de la Administración Pública Estatal, para la instrumentación de sus sistemas Internos de planeación, programación y evaluación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+XI. Establecer una adecuada coordinación con la Secretaría de Finanzas y Administración para la integración de los programas operativos anuales, por parte de esta dependencia, en el Proyecto de Presupuesto de Egresos de Gobierno del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+XII. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de planeación, programación y evaluación, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+XIII. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 ### CAPITULO II. DE LAS FACULTADES DEL SECRETARIO
 
@@ -170,6 +210,12 @@ XI. Designar a los representantes de la Secretaría en las comisiones, organizac
 XII. Resolver las dudas que se susciten internamente sobre la competencia de las unidades administrativas de la Secretaría, con motivo de la interpretación o aplicación de este Reglamento o sobre los casos no previstos en el mismo, y
 
 XIII. Ejercer las demás facultades que con carácter indelegable, le confieran otras disposiciones jurídicas o le encomiende el C. Gobernador Constitucional del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+###### Artículo 5 Bis.
+
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Secretario de Planeación y Evaluación dispondrá de la estructura conformada por los siguientes órganos administrativos: Departamento de Informática, Departamento de Servicios Administrativos y Departamento Jurídico, los que además de las funciones conferidas por el presente Reglamento, realizarán las funciones que directamente se les encomienden y que tengan por finalidad auxiliarle en el cumplimiento de sus funciones.
 
 ### CAPITULO III. DE LAS FACULTADES DE LOS DIRECTORES
 
@@ -223,11 +269,57 @@ I. Analizar y presentar al Secretario para que sea sometido a la aprobación del
 
 II. Organizar y operar un sistema permanente de evaluación y seguimiento de la ejecución de las metas fijadas en los programas anuales y de inversión, acorde con los objetivos y necesidades de la Administración Pública Estatal en su conjunto, así como con los que se deriven de los acuerdos y convenios de coordinación con la Federación y los Municipios;
 
-III. En coordinación con la Dirección de Planeación elaborar la normatividad, y los mecanismos a que deberán sujetarse las Dependencias y Entidad de la Administración Pública Estatal, para la instrumentación de sus sistemas de programación y evaluación;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+III.- Colaborar con la Dirección de Normatividad de Programas de Inversión, en el establecimiento de la normatividad, la coordinación y los mecanismos a que deberán sujetarse las Dependencias y Entidades de la Administración Pública Estatal, para la instrumentación de sus sistemas de programación y evaluación;
 
 IV. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de programación de los recursos de inversión; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2008)</small>
+
 V. Las demás que le atribuyan expresamente las leyes, los reglamentos y designe directamente el Secretario.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+###### Artículo 8 Bis.
+
+Corresponde a la Dirección de Seguimiento de Inversiones las siguientes atribuciones:
+
+I.- Organizar y operar un sistema permanente de control y seguimiento financiero para la liberación de los recursos destinados a la obra pública que lleven a cabo las Dependencias de la Administración Estatal y operar los aspectos financieros de los programas de inversión estatal, así como de los que se deriven de los acuerdos y convenios de coordinación con la Federación y Municipios relativos a la inversión pública;
+
+II.- Coordinarse con las Dependencias de la Administración Pública Federal y los Municipios a fin de aperturar las cuentas bancarias necesarias para operar los diferentes programas de inversión;
+
+III.- Coadyuvar para que la liberación de los recursos destinados a la obra pública cumpla con las normas establecidas en los manuales de operación respectivos, así como mantener actualizados los registros estadísticos que permitan avalar el ejercicio financiero; y
+
+IV.- Las demás que le atribuyan expresamente las leyes, los reglamentos y designe directamente el Secretario.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+###### Artículo 8 Ter.
+
+Corresponde a la Dirección de Normatividad de Programas de Inversión:
+
+I.- Actualizar y administrar el acervo de leyes, reglamentos, reglas de operación, manuales y cualquier disposición general que regule los programas de inversión que opera directamente esta Secretaría, así como aquellos en los que la participación de la Secretaría es complementaria;
+
+II.- Coordinar en la formulación y actualización de los manuales de operación de los programas de inversión estatal, así como convocar con este propósito a las distintas unidades administrativas de la Secretaría y de otras Dependencias, según corresponda, para incorporar las definiciones procedentes;
+
+III.- Comunicar a las Dependencias, Presidencias Municipales y organismos descentralizados estatales o municipales, o a cualquier ente ejecutor de obra pública, las modificaciones que sufran las disposiciones relativas a la materia;
+
+IV.- Coordinar la participación de la Secretaría en los cursos, talleres y seminarios relativos a aspectos normativos de los programas de inversión pública que se impartan a Dependencias, Presidencias Municipales y organismos descentralizados estatales o municipales, o a cualquier ente ejecutor de obra pública, así como participar en la organización de los mismos;
+
+V.- Proveer al personal de la Secretaría la capacitación necesaria en aspectos normativos relacionados con su función, mediante la convocatoria a eventos realizados por otras Dependencias o instancias, o bien proporcionándola en forma directa con sus propios medios y elementos;
+
+VI.- Proponer ante las Dependencias competentes la uniformidad de los contratos de obra pública y adquisiciones relacionados con programas de inversión, así como la convocatoria y bases de procedimientos licitatorios a fin de facilitar su revisión por las Dependencias competentes para tal efecto;
+
+VII.- Participar en el análisis y diagnóstico referente a la situación del proceso de instrumentación de obras y acciones públicas;
+
+VIII.- Proponer mecanismos de sistematización y simplificación administrativa orientados a lograr una mayor eficiencia por parte de las diversas dependencias participantes en los procesos de ejecución de obras y acciones públicas;
+
+IX.- Coadyuvar en la implementación del control, análisis y seguimiento de las observaciones detectadas por las unidades administrativas de esta Secretaría relativas a las Dependencias ejecutoras de programas de inversión, sobre aspectos normativos, a fin de prevenir la reincidencia que puedan ocasionar perjuicio de cualquier índole, así como coadyuvar en el proceso de solventación de las observaciones formuladas por las Dependencias e Instancias competentes;
+
+X.- Identificar los Municipios que cuentan con reglamento en materia de construcción, recopilar tales disposiciones generales para su oportuno análisis a efecto de proponer las adecuaciones necesarias para su homologación, así como sugerir su expedición en los Municipios que no los tienen;
+
+XI.- Las demás que le atribuyan expresamente las leyes, los reglamentos y designe directamente el Secretario.
 
 ### CAPITULO V. DE LOS DE (SIC) DEPARTAMENTOS
 
@@ -285,17 +377,29 @@ III. Dar seguimiento a los informes de evaluación de las dependencias y organis
 
 IV. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### Artículo 13.
 
-Corresponde al Departamento de Análisis Sectorial y de Proyectos Especiales las siguientes atribuciones:
+Corresponden al Departamento de Concertación con Sectores y Organizaciones Sociales, las siguientes atribuciones:
 
 I. Integrar diagnósticos sectoriales y regionales que permitan una adecuada y eficiente instrumentación de los programas y acciones de los tres niveles de gobierno;
 
 II. Realizar y coordinar la ejecución de proyectos y estudios, que propicien la vinculación integral de la acción gubernamental, social y privada;
 
-III. Evaluar el comportamiento de los principales rubros de la inversión pública estatal, a efecto de aportar elementos de análisis que apoyen la definición de los criterios para la asignación anual de los recursos de inversión; y
+III. Evaluar el comportamiento de los principales rubros de la inversión pública estatal, a efecto de aportar elementos de análisis que apoyen la definición de los criterios para la asignación anual de los recursos de inversión; y (sic)
 
-IV. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+IV. Establecer redes en la estructura administrativa gubernamental con la finalidad de inducir la organización de los beneficiarios de los programas, acciones y proyectos de gobierno a favor de la sociedad civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+V. Difundir de manera institucional las obras y beneficios realizados por el Gobierno del Estado, el Gobierno Federal y Municipal en su caso, destacando la participación de cada una de las Instituciones y organizaciones sociales que incurren en los proyectos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+VI. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 ###### Artículo 14.
 
@@ -339,9 +443,11 @@ IV. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relaci�
 
 V. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### Artículo 17.
 
-Corresponde al Departamento de Seguimiento de Inversiones, las siguientes atribuciones:
+Corresponde al Departamento de Programas de Inversión Estatal, las siguientes atribuciones:
 
 I. Organizar y operar un sistema permanente de seguimiento de la ejecución de las metas financieras fijadas en los programas anuales y de inversión, acorde con los objetivos y necesidades de la Administración Pública y convenios de coordinación con la Federación y los Municipios;
 
@@ -367,31 +473,45 @@ IV. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relaci�
 
 V. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL ACUERDO No. 109, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO CONFORMADO POR NUEVE FRACCIONES.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### Artículo 19.
 
-Corresponde al Departamento de Vinculación Regional y Organización Social, las siguientes atribuciones:
+Corresponde al Departamento de Vinculación Regional, las siguientes atribuciones:
 
 I. Promover y coordinar reuniones interinstitucionales en regiones, municipios y poblaciones del Estado;
 
 II. Dar seguimiento a los compromisos que establezca el Gobernador en las giras de trabajo y que correspondan al ámbito de competencia de la Secretaría;
 
-III. Establecer redes en la estructura administrativa gubernamental con la finalidad de inducir la organización de los beneficiarios de los programas, acciones y proyectos de gobierno a favor de la sociedad civil;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-IV. Difundir de manera institucional las obras y beneficios realizados por el Gobierno del Estado, el Gobierno Federal y Municipal en su caso, destacando la participación de cada una de las instituciones y organizaciones sociales que incurren en los proyectos;
+III. Participar con la orientación a los municipios y grupos organizados, en el proceso de programación, presupuestación, seguimiento y ejecución de obras y/o acciones, con la finalidad de garantizar el éxito tanto en su etapa constructiva como operativa;
 
-V. Participar con la orientación a los municipios y grupos organizados, en el proceso de programación, presupuestación seguimiento y ejecución de obras y/o acciones, con la finalidad de garantizar el éxito tanto en su etapa constructiva como la operativa;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-VI. Difundir los elementos metodológicos tendientes al impulso y fortalecimiento de aspectos organizativos, técnicos y operativos de los programas de gobierno estatal;
+IV. Difundir los elementos metodológicos tendientes al impulso y fortalecimiento de aspectos organizativos, técnicos y operativos de los programas del gobierno estatal;
 
-VII. Apoyar la organización de seminarios de capacitación a funcionarios municipales en materia fiscal, de presupuesto y programas de inversión;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-VIII. Diseñar y ejecutar estrategias de atención de asuntos prioritarios que permitan responder en forma oportuna a contingencias y compromisos asumidos por el gobierno del estado;
+V. Apoyar la organización de seminarios de capacitación a funcionarios municipales en materia fiscal, de presupuesto y programas de inversión;
 
-IX. Fortalecer el sistema de información para la planeación municipal;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
-X. Fortalecer la coordinación interinstitucional con los ordenes de gobierno federal, estatal y municipal para la elaboración de programas operativos y propiciar la integralidad de los programas de desarrollo social; y
+VI. Diseñar y ejecutar estrategias de atención de asuntos prioritarios que permitan responder en forma oportuna a contingencias y compromisos asumidos por el Gobierno del Estado;
 
-XI. Las demás que le correspondan de acuerdo a las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+VII. Fortalecer el sistema de información para la planeación municipal;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+VIII. Fortalecer la coordinación interinstitucional con los ordenes de gobierno federal, estatal y municipal para la elaboración de programas operativos y propiciar la integralidad de los programas de desarrollo social; y
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+IX. Las demás que le correspondan de acuerdo a las disposiciones legales y administrativas aplicables.
 
 ###### Artículo 20.
 
@@ -431,23 +551,65 @@ VI. Coordinarse con las áreas jurídicas de otras dependencias y entidades de l
 
 VII. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+###### Artículo 21 Bis.
+
+Corresponde al Departamento de Análisis y Seguimiento de la Normatividad de Obra Pública, las siguientes atribuciones:
+
+I.- Proponer a la Dirección de Normatividad de Programas de Inversión las modificaciones y actualizaciones que sean necesarias respecto de los manuales de operación relativos a los programas de inversión estatal, y participar en las reuniones y tareas que se realicen para tal efecto;
+
+II.- Participar, en representación de la Secretaría, en la organización de cursos, talleres y seminarios que tengan por finalidad abordar aspectos de normatividad de los programas de inversión, dirigidos a Dependencias, Presidencias Municipales, organismos descentralizados estatales o municipales o cualquier ente ejecutor de obra pública, participando a través de su personal como ponentes, conferencistas o conductores de los mismos si así fuere requerido;
+
+III.- Proponer a la Dirección de Normatividad de Programas de Inversión la realización de cursos, seminarios y conferencias que tengan por objeto capacitar al personal de la Secretaría en temas de normatividad de programas de inversión, señalando su estructura y contenido, así como participando en la organización de los mismos;
+
+IV.- Analizar, con estricto apego a las leyes correspondientes, la estructura y forma de los contratos de realización de obra pública y adquisiciones derivadas de programas de Inversión, para proponer a la Dirección de Normatividad de Programas de Inversión contenidos uniformes de dichos instrumentos jurídicos, así como de las convocatorias y bases de los procedimientos de licitación pública, a fin de facilitar su oportuna revisión por las Dependencias competentes;
+
+V.- Las que le asigne el Director de Normatividad de Programas de Inversión, y;
+
+VI.- Las demás que le atribuya expresamente las leyes y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+###### Artículo 21 Ter.
+
+Corresponde al Departamento de Programas Concertados, las siguientes atribuciones:
+
+I.- Operar y administrar las cuentas bancarias correspondientes a la inversión de programas concertados con la Federación y los Municipios;
+
+II.- Coordinar el proceso administrativo para la liberación de recursos de la obra pública de los programas concertados con la Federación y Municipios;
+
+III.- Apoyar a las dependencias ejecutoras de obra pública en la integración documental de la comprobación de los recursos ministrados para la ejecución de programas de inversión de acuerdo a la normatividad de los programas concertados con la Federación y Municipios y (sic);
+
+IV.- Establecer los mecanismos para conciliar los registros financieros y estadísticos que permitan elaborar los cierres de ejercicios de obra pública concertados con la Federación y;
+
+V.- Las que le asigne el Director de Seguimiento de Inversiones, y demás que le atribuya expresamente las leyes y el presente Reglamento.
+
 ### CAPITULO VI. DE LAS SUPLENCIAS
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### Artículo 22.
 
-El Secretario de Planeación y Evaluación será suplido en sus ausencias, que no excedan de más de 15 días naturales por los Directores de Planeación y de Programas de Inversión según la naturaleza de los asuntos.
+El Secretario de Planeación y Evaluación será suplido en sus ausencias que no excedan de 15 días naturales, por el Director que el Secretario designe, salvo que el C. Gobernador del Estado nombre a una persona distinta para que lo sustituya por ese tiempo.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### Artículo 23.
 
-En el caso de ausencia absoluta, temporal o accidental que exceda de más de 15 días naturales, el Secretario de Planeación y Evaluación será suplido por los Directores de Planeación y de Programas de Inversión según la naturaleza de los asuntos, hasta que el Ejecutivo del Estado nombre quién deba suplirlo.
+En el caso de ausencia absoluta o temporal por parte del Secretario que exceda de 15 días naturales, el C. Gobernador del Estado podrá nombrar al servidor público que lo sustituya.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### Artículo 24.
 
-Los Directores de Planeación y de Programas de Inversión serán suplidos en sus ausencias, que no excedan de más de 15 días naturales por los jefes de departamento de su adscripción según la naturaleza de los asuntos.
+Los Directores y Jefes de Departamento, serán suplidos en sus ausencias por el funcionario público que para tal efecto designe el Secretario.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### Artículo 25.
 
-En el caso de ausencia absoluta, temporal o accidental que exceda de más de 15 días naturales, los Directores de Planeación y de Programas de Inversión serán suplidos por los jefes de departamento de su adscripción según la naturaleza de los asuntos, hasta que el Secretario nombre quien deba suplirlos.
+Las licencias podrán ser otorgadas y revocadas en los términos de las Condiciones Generales de Trabajo del Gobierno del Estado de Chihuahua y sus Trabajadores.
 
 ###### Artículo 26.
 
@@ -472,3 +634,15 @@ LIC. VICTOR EMILIO ANCHONDO PAREDES.
 EL SECRETARIO DE PLANEACION Y EVALUACION.
 
 LIC. KAMEL ATHIE FLORES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P. O. 14 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado.
