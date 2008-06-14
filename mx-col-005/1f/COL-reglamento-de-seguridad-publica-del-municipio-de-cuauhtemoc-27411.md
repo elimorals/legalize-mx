@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-seguridad-publica-del-municipio-de-cuauhtemoc-274
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-21"
-last_updated: "2003-03-22"
+last_updated: "2008-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE DE CUAUHTEMOC, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 21 de diciembre de 2002.
 
@@ -35,21 +35,31 @@ REGLAMENTO DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 1.
 
-El presente ordenamiento se fundamenta en el artículo 115 fracción II de la Constitución Política Federal y 87 fracción II y III de la Constitución Política de Colima, y tiene por objeto regular la seguridad pública de dicho Municipio.
+El presente ordenamiento se fundamenta en el artículo 115 fracción II de la Constitución Política Federal y 87 fracción II y III de la Constitución Política del Estado de Colima, y tiene por objeto regular la seguridad pública en el Municipio de Cuauhtémoc de dicho Municipio (sic).
 
 ###### ARTICULO 2.
 
 El presente Reglamento es de observancia general y obligatoria para las autoridades, dependencias, órganos y cuerpos municipales que desempeñen alguna función relacionada con la Seguridad Pública, así como para los vecinos, los habitantes, los visitantes o transeúntes del Municipio de Cuauhtémoc.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 3.
 
-Se entiende por Seguridad Pública la función a cargo del Estado, entendido como Federación, Estados y Municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz pública.
+Se entiende por Seguridad Pública la función que se encuentra a cargo del Estado, entendido como Federación, Estados y Municipios, que tiene como fin salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz pública.
+
+Nota: colocar las definiciones en este artículo (sic)
 
 ###### ARTICULO 4.
 
 El orden y paz públicos estarán al cuidado de las autoridades municipales, quienes tomarán las medidas necesarias para evitar que dicho orden y paz públicos se vean afectados. Por orden y paz públicos se entienden los actos tendientes a conservar la tranquilidad y el bienestar colectivo de las personas y de sus comunidades.
+
+> <small>(REFORMADA [ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+VIII.- Determinar las sanciones administrativas a las personas que violenten el Presente Reglamento en los términos que se señalen en el presente Ordenamiento. (sic)
 
 ###### ARTICULO 5.
 
@@ -93,7 +103,7 @@ V. Implementar y llevar de manera permanente un Sistema de Información de los C
 
 VI. Auxiliar a las autoridades Estatales y Federales competentes, en la investigación y persecución de los delitos.
 
-VII. Auxiliar a las autoridades Estatales y Federales en las labores relativas al manejo de los centros de readaptación social y consejos tutelares que se encuentren dentro del territorio del Municipio.
+VII.- (REFORMADA [N. DE E. DEROGADA], P.O. 14 DE JUNIO DE 2008)
 
 ###### ARTICULO 9.
 
@@ -113,9 +123,15 @@ VI. Lograr vínculos de comunicación y cooperación permanente entre las autori
 
 VII. Mantener un intercambio continuo de información con los consejos de coordinación que integren el Sistema Nacional de Seguridad Pública y los respectivos órganos del Poder Judicial, para promover la vinculación de acciones y programas de la administración de justicia y los objetivos planteados en el Programa Nacional de Seguridad Pública.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+VIII. Apoyar a las demás áreas de la administración Municipal que por sus reglamentos, autoricen la intervención a los elementos de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 10.
 
-Los Cuerpos de Seguridad Pública son instituciones públicas destinadas a mantener la tranquilidad y el orden público dentro de la jurisdicción territorial que comprende el Municipio de Cuauhtémoc, protegiendo los intereses de la sociedad. En consecuencia, sus funciones serán las de vigilancia y defensa social para prevenir la comisión de algún delito o infracción al Bando de Policía y Buen Gobierno a través de las medidas que protejan la integridad física de las personas, así como de sus bienes.
+Los Cuerpos de Seguridad Pública son Instituciones públicas destinadas a mantener la tranquilidad y el orden público dentro de la jurisdicción territorial que comprende el Municipio de Cuauhtémoc, protegiendo los intereses de la sociedad. En consecuencia, sus funciones serán las de vigilancia y defensa social para prevenir la comisión de algún delito o infracción al presente Reglamento a través de las medidas que protejan la integridad física de las personas, así como de sus bienes.
 
 ###### ARTICULO 11.
 
@@ -167,9 +183,13 @@ IV. Contar con la condición física que el eficaz desempeño de sus responsabil
 
 V. Contar, cuando menos, con instrucción escolar secundaria;
 
-VI. Acreditar buena conducta y honorabilidad mediante documentos emanados de personas o instituciones de evidente solvencia moral y de preferencia haber sido egresado de la Academia de Policía; y
+VI. Acreditar buena conducta y honorabilidad mediante documentos emanados de personas o instituciones de evidente solvencia moral y de preferencia haber sido egresado de la Academia de Policía; y (sic)
 
-VII. No contar con antecedentes penales.
+VII. No contar con antecedentes penales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+
+VIII. Acreditar los exámenes Psicométrico, Psicológico y Físico que se realicen para su reclutamiento los que se realicen como seguimiento del comportamiento del cuerpo policiaco.
 
 ###### ARTICULO 20.
 
@@ -197,11 +217,15 @@ La integración de los Cuerpos de Policía Preventiva Municipal se hará prefere
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES, FACULTADES, OBLIGACIONES Y PROHIBICIONES DE LOS CUERPOS DE SEGURIDAD PÚBLICA MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 25.
 
-Corresponde a la Policía Preventiva:
+Corresponde a la Dirección:
 
-I. Evitar toda clase de ruidos, disputas, tumultos, riñas y tropelías que perturben la paz social del Municipio;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+I. Mantener a la población libre de toda clase de ruidos, disputas, tumultos, riñas y tropelías que perturben la paz social del Municipio;
 
 II. Conservar el orden en los lugares públicos, especialmente aquellos que transitoriamente sean centros de concurrencias como mercados, ferias y templos;
 
@@ -219,7 +243,9 @@ VIII. Evitar que se efectúen fuera de los templos en servicio, actos de caráct
 
 IX. Evitar los disparos de cohetes, petardos, explosivos de cualquier índole o de pólvora en los sitios públicos, sin que para ello se cuente con la autorización expedida por la autoridad competente;
 
-X. Evitar la realización de danzas, audiciones, musicales, quermeses, tómbolas, bailes u otros, salvo que exista autorización previa del H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+X. Evitar la realización de danzas, audiciones, musicales, quermeses, tómbolas, bailes u otros, salvo que exista autorización previa del H. Ayuntamiento de Cuauhtémoc;
 
 XI. Vigilar el cumplimiento de las disposiciones relativas a limpia y aseo en el Municipio, específicamente a las contenidas en el reglamento respectivo;
 
@@ -237,25 +263,17 @@ XVII. Respetar las órdenes de suspensión provisional o definitiva dictada por 
 
 XVIII. Dar aviso a las autoridades correspondientes sobre la localización de vehículos abandonados;
 
-XIX. Informar a los padres o tutores sobre las faltas al Bando de Policía y Buen Gobierno o a los Reglamentos Municipales que hayan cometido sus menores hijos o pupilos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+XIX. Informar a los padres o tutores sobre las faltas al presente Reglamento o a los Reglamentos Municipales que hayan cometido sus menores hijos o pupilos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2008)</small>
 
 XX. Las demás que determinen los ordenamientos aplicables.
 
 ###### ARTICULO 26.
 
-Corresponde al Cuerpo de Tránsito Municipal:
-
-I. Evitar toda clase de ruidos, disputas, tumultos, riñas y tropelías que perturben la correcta vialidad y la paz en las calles y vías de comunicación dentro del Municipio;
-
-II. Vigilar el tránsito de vehículos de acuerdo al sentido de las calles e impedir que se cometan infracciones de acuerdo a lo establecido en los ordenamientos legales respectivos;
-
-III. Detener a todo individuo que sea sorprendido tratando de ejecutar o ejecutando actos a que se refiere la fracción anterior, y ponerlo a disposición de La Dirección de Seguridad Pública y Vialidad Municipal;
-
-IV. Vigilar que toda aquella persona que maneje un vehículo automotor, cuente con los permisos y licencias necesarios de acuerdo al tipo de vehículo y al uso que se le dé;
-
-V. Vigilar el correcto funcionamiento del transporte público dentro del Municipio;
-
-VI. Las demás que determinen los ordenamientos legales aplicables.
+(REFORMADA [N. DE E. DEROGADO], P.O. 14 DE JUNIO DE 2008)
 
 ###### ARTICULO 27.
 
@@ -325,9 +343,11 @@ XIX. En general, violar las leyes, reglamentos y demás disposiciones legales.
 
 Corresponde a los cuerpos de Seguridad Pública Municipales prevenir la comisión de conductas infractoras y delictivas mediante la implantación de unidades de orientación, quejas y denuncias en las instituciones de seguridad pública, donde la ciudadanía disponga de canales confiables para que su participación sea un medio eficaz y oportuno de análisis y supervisión de la seguridad pública.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 30.
 
-Los cuerpos de Seguridad Pública deberán otorgar el apoyo requerido por los consejos de coordinación del Sistema Nacional de Seguridad Pública, para la constitución y funcionamiento de los comités de consulta y participación de la comunidad, previstos en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+Los cuerpos de Seguridad Pública deberán otorgar el apoyo requerido por los Consejos de Coordinación del Sistema Nacional de Seguridad Pública, para la creación y funcionamiento de los comités de consulta y participación de la comunidad a través de los comités de participación ciudadana del Municipio de Cuauhtémoc, previstos en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
 ###### ARTICULO 31.
 
@@ -361,9 +381,11 @@ VIII. Las bitácoras de mantenimiento del equipo y vehículos de la corporación
 
 ### CAPÍTULO VI. DE LA PARTICIPACION DE LA SECRETARIA DEL H. AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 34.
 
-La Dirección General de Seguridad Pública y Vialidad, con el objeto de lograr una mayor eficiencia en la impartición de justicia cívica, dependerán directamente de la Secretaría del Ayuntamiento.
+La Dirección General de Seguridad Pública y Vialidad, con el objeto de lograr una mayor eficiencia en la impartición de justicia cívica, dependerá directamente de la Secretaría del H. Ayuntamiento.
 
 ###### ARTICULO 35.
 
@@ -375,23 +397,31 @@ II. Dictaminar y calificar las faltas a los reglamentos municipales y, en su cas
 
 III. Conocer de los asuntos del orden administrativo de competencia del municipio, tales como la operación de establecimientos clandestinos y prostitución.
 
-IV. Dictaminar en coordinación con el Presidente Municipal y el Comandante de Policía sobre la movilización de la policía municipal, para atender algún caso o situación específica.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
+
+IV. Dictaminar en coordinación con el Presidente Municipal y el Director de la Policía sobre la movilización de la policía municipal, para atender algún caso o situación específica.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2008)</small>
 
 V. Informar al Presidente Municipal acerca de las incidencias ocurridas en el día en materia de calificación y sanción de faltas.
 
 ### CAPÍTULO VII. DEL CENTRO DE DETENCIÓN MUNICIPAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 36.
 
-El Ayuntamiento tiene facultades administrativas y de operación en los Centros de Detención Municipal a través del Presidente Municipal y específicamente a través de la Dirección de Seguridad Pública y Vialidad Municipal.
+El Ayuntamiento tiene facultades administrativas y de operación en los Centros de Detención Municipal por instrucciones del Presidente Municipal, a través de la Dirección de Seguridad Pública y Vialidad Municipal.
 
 En los Centros de Detención Municipales únicamente deberán encontrarse los responsables de la comisión de infracciones o faltas administrativas a quienes se les haya impuesto la sanción de arresto, y nunca por más de 36 horas de conformidad con lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Sólo excepcionalmente y de manera temporal se podrá custodiar en dichos establecimientos a los presuntos responsables de la comisión de algún delito que hayan sido detenidos en flagrancia o como consecuencia de una orden de aprehensión por el tiempo necesario para tramitar su traslado a los lugares de detención dependientes del ministerio público.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 37.
 
-La seguridad del Centro de Detención Municipal será realizada por elementos de los Cuerpos de Seguridad Pública Municipal.
+La seguridad del Centro de Detención Municipal será realizada por elementos de Seguridad Pública Municipal.
 
 ###### ARTICULO 38.
 
@@ -409,137 +439,267 @@ V. Informar permanentemente a la autoridad municipal sobre las incidencias del e
 
 ### CAPÍTULO VIII. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 39.
 
-En los términos de este reglamento, constituye una infracción o falta administrativa, la acción u omisión individual o colectiva realizada en un lugar público o cuyos efectos se manifiesten en él, y que altere o ponga en peligro el orden público o la integridad física o moral de las personas o en sus propiedades.
+Constituye una infracción o falta Administrativa, la acción u omisión individual o colectiva realizada en un lugar público y cuyos efectos se manifiesten en él, los cuales alteren o pongan en peligro el orden público o la integridad física o moral de las personas o sus propiedades.
 
-Se entiende por lugar público todo espacio de uso común y libre tránsito, incluyendo las plazas, mercados y los espectáculos o eventos de diversión o recreo, así como los transportes de servicio público.
+Se entiende por lugar público todo espacio de uso común y libre tránsito, incluyendo las plazas, mercados y lugares donde se realicen espectáculos, eventos de diversión o recreo, así como los transportes de servicio público.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 40.
 
 Las sanciones administrativas serán aplicables sin perjuicio de las responsabilidades civiles o penales en que, con motivo de los mismos hechos de que se trate, hayan incurrido los infractores.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 41.
 
-Se consideran faltas e infracciones contra la Seguridad Pública las establecidas en el Bando de Policía y Buen Gobierno y Reglamentos Municipales, así como las siguientes:
+Se consideran faltas e infracciones contra las libertades, al orden y a la paz pública, teniendo la multa en unidades de salario mínimo o las horas de arresto que se indica en la tabla siguiente:
 
-I. Disparar armas de fuego;
+l. Emplear materiales y objetos
 
-II. Detonar cohetes, hacer fogatas y utilizar negligentemente combustibles o materiales flamables en lugares públicos;
+flamables y explosivos, sin la
 
-III. Formar parte de grupos que causen molestias a las personas en lugares públicos o en la proximidad de los domicilios de éstas;
+licencia expedida por la
 
-IV. Encender piezas pirotécnicas sin el permiso correspondiente;
+autoridad competente. 8 a 15 U.S.M 10 horas
 
-V. Fumar dentro de lugares públicos en donde expresamente se establezca la prohibición de hacerlo;
+II. Utilizar bocinas o
 
-VI. Penetrar o invadir sin autorización zonas o lugares de acceso prohibido;
+altoparlantes, en vehículos o
 
-VII. Solicitar servicios de policía o asistenciales de emergencia invocando hechos falsos;
+puestos fijos, cuando por la
 
-VIII. Borrar, cubrir o alterar los números o letras con que están marcadas las casas o centros que designen calles o plazas u ocupar los lugares destinados para ellos con propaganda de cualquier clase;
+intensidad del sonido o
 
-IX. Faltar al respeto, con cualquier frase o ademán a los símbolos patrios;
+contenido del mensaje se
 
-X. Deteriorar bienes destinados al uso común;
+atente la tranquilidad de los
 
-XI. Hacer uso indebido de las casetas telefónicas o maltratar los buzones, expendios de timbres, señales indicadoras u otros aparatos de uso común colocados en la vía pública;
+habitantes. En todo caso,
 
-XII. Utilizar indebidamente los hidrantes públicos, así como abrir sus llaves sin necesidad;
+deberá recabarse el permiso
 
-XIII. Utilizar, remover o transportar césped, flores o tierra de uso común sin la autorización para ello;
+respectivo, expedido por el
 
-XIV. Cortar las ramas de los árboles de calles y avenidas sin autorización para ello o maltratarlos de cualquier manera;
+H. Ayuntamiento. 10 a 20 U.S.M 10 horas
 
-XV. Arrojar en lugar público animales muertos, escombros y sustancias fétidas;
+III. Proferir o ejecutar palabras
 
-XVI. Arrojar a los drenajes, basura, escombros o cualquier otro objeto que pueda obstruir su funcionamiento;
+o actos atentatorios contra la
 
-XVII. Arrojar o abandonar en lugar público o fuera de los horarios y lugares especiales, basura o cualquier objeto similar;
+moral o la tranquilidad de las
 
-XVIII. Colocar en lugar público el recipiente de la basura o desperdicio que debe ser recogido por el carro recolector fuera de los lugares y horarios ya establecidos para tal fin;
+personas, en la vía y lugares
 
-XIX. Orinar o defecar en cualquier lugar público distinto de los autorizados para tales efectos;
+públicos o centros de
 
-XX. Tirar desechos o desperdicios en la vía pública;
+espectáculos de la misma
 
-XXI. Ensuciar, desviar, o retener las corrientes de agua de los manantiales, pozos, tanques o tinacos almacenadores, fuentes públicas y tuberías de los servicios del Municipio;
+naturaleza. 5 a 10 U.S.M 10 horas
 
-XXII. Causar escándalo en lugar público;
+IV. Tirar o colocar en la vía
 
-XXIII. Llevar en lugar público, animales peligrosos sin permiso de la autoridad y sin tomar medidas de seguridad;
+pública desperdicios orgánicos
 
-XXIV. Hacer manifestaciones o ruidos en forma tal que produzcan tumultos o grave alteración del orden en espectáculos o actos públicos;
+o basura y en general, al realizar
 
-XXV. Arrojar cualquier objeto, prender fuego o provocar altercados en espectáculos, o a la entrada o salida de ellos;
+cualquier acto u omisión que
 
-XXVI. Proferir palabras obscenas en lugar público;
+conlleve al desaseo de las
 
-XXVII. Causar daños a vecinos, transeúntes o vehículos por omitir las medidas necesarias de aseguramiento de plantas u otros objetos;
+localidades del Municipio. 5 a 10 U.S.M 10 horas
 
-XXVIII. Portar, en vehículos, instalaciones transmisoras o receptoras sin autorización correspondiente, siempre y cuando con las mismas ocasionen molestias a transeúntes o automovilistas;
+V. Vender mercancías en zonas
 
-XXIX. Desperdiciar o hacer uso indebido del agua potable;
+prohibidas o ejercer cualquier
 
-XXX. Azuzar a un perro o cualquier otro animal peligroso para que ataque a personas;
+actividad comercial, industrial o
 
-XXXI. Causar molestias que impidan el legítimo uso o disfrute de un inmueble;
+de espectáculos, sin contar con
 
-XXXII. Hacer bromas indecorosas o mortificantes o en cualquier otra forma molestar a una persona mediante el uso del teléfono;
+la licencia expedida por la
 
-XXXIII. Dirigirse a una persona con frases o ademanes que afecten su pudor, asediarla o impedirle su libertad de acción en cualquier forma;
+autoridad Municipal. 20 a 25 U.S.M. 24 horas
 
-XXXIV. Maltratar o ensuciar las fachadas de los edificios o inmuebles de propiedad particular;
+VI. Ingerir bebidas embriagantes
 
-XXXV. Usar drogas, substancias, plantas o semillas enervantes o tomar bebidas alcohólicas en la vía pública o lugar público, salvo que éste se encuentre debidamente autorizado específicamente para el consumo de bebidas alcohólicas;
+en la vía o lugares públicos
 
-XXXVI. Invitar en lugar público al comercio carnal;
+no autorizados. 5 a 10 U.S.M 12 horas
 
-XXXVII. Injuriar a las personas que asistan a algún espectáculo o diversión con palabras, actitudes o gestos por parte de los actores, jugadores, músicos o auxiliares del espectáculo o diversión o por parte de los asistentes a éstos;
+VII. Transitar con animales o
 
-XXXVIII. Corregir con escándalo y maltrato a los hijos o pupilos en lugar público;
+vehículos de tracción humana
 
-XXXIX. Ofender o maltratar en la misma forma a los ascendientes, cónyuge o concubina;
+o de motor, sobre las banquetas
 
-XL. Faltar en público al respeto o consideración que se debe a los ancianos, mujeres, niños o desvalidos;
+y jardines públicos. 10 a 20 U.S.M 24 horas
 
-XLI. Asumir en lugar público actitudes que, a juicio de la mayoría de la comunidad, sean consideradas como obscenas;
+VIII. Establecer zahúrdas o
 
-XLII. Propiciar o permitir la asistencia de menores de edad a centros nocturnos, bares, pulquerías, o a cualquier otro lugar en que se prohíba su permanencia, esto con la independencia de la sanción correspondiente a los establecimientos de acuerdo con las disposiciones reglamentarias que los rigen.
+establos dentro de la zona
+
+urbana. 5 a 10 U.S.M 12 horas
+
+IX. Colocar mercancías,
+
+materiales u objetos en la vía
+
+pública que obstaculicen el
+
+libre transito sin contar con
+
+la autorización respectiva. 10 a 15 U.S.M 13 horas
+
+X. Hacer resistencia a un
+
+mandato de los Agentes de
+
+Seguridad Pública y
+
+Funcionarios Municipales. 10 a 20 U.S.M 36 horas
+
+XI. Usar las áreas y vías
+
+públicas sin contar con la
+
+autorización que se requiera
+
+para ello. 20 a 30 U.S.M 36 horas
+
+XII. Solicitar con falsas
+
+alarmas, los servicios de
+
+policía, bomberos, de
+
+establecimientos médicos
+
+o de asistencia pública. 20 a 40 U.S.M 36 horas
+
+XIII. Permitir a menores
+
+de edad el acceso a lugares
+
+en los que expresamente
+
+está prohibido su ingreso.
+
+XIV. Provocar disturbios que
+
+alteren la tranquilidad de las
+
+personas. 10 a 20 U.S.M 36 horas
+
+XV. Hacer sus necesidades
+
+fisiológicas en la vía pública
+
+o lugares públicos. 5 a 10 U.S.M 10 horas
+
+XVI. Entorpecer las funciones
+
+de los elementos de Seguridad
+
+Pública. 20 a 30 U.S.M 16 horas
+
+XVII. Molestar y/o Insultar a la
+
+autoridad Municipal y sociedad
+
+en general. 10 a 30 U.S.M 36 horas
+
+XVIII. Agredir físicamente a
+
+los elementos de Seguridad
+
+Pública, Funcionarios o
+
+empleados Municipales. 25 a 30 U.S.M 13 horas
+
+XIX. Realizar reventa de
+
+boletos para espectáculos
+
+públicos, con precios
+
+superiores a los autorizados. 10 a 100 U.S.M 36 horas
+
+XX. Causar ruidos y sonidos
+
+excesivos que afecten la
+
+tranquilidad de los vecinos. 5 a 10 U.S.M 6 horas
+
+XXI. Azuzar perros o animales
+
+con la intención de causar
+
+daños o molestias a las
+
+personas o bienes. 5 a 20 U.S.M 12 horas
+
+La persona que reincida en una falta, no tendrá derecho a conmutar la pena por servicio comunitario.
+
+El servicio comunitario podrá prestarse únicamente a instituciones públicas.
+
+Las penas asignadas por cada falta cometida podrán ser conmutadas por 5 horas de servicio comunitario los días sábado y domingo inmediatos a la falta.
+
+En caso de incumplimiento a las horas de servicio será aplicada la multa correspondiente a la falta cometida.
+
+Condonación de 50%, si se paga antes de 15 días.
+
+Hacer referencia de infracciones que se pueden cometer en virtud de otros Reglamentos.
+
+Arresto máximo de 72 horas, según el Ordenamiento en cuestión, la Constitución señala como máximo 36 horas, la sanción económica será no menor de a una unidad de salario mínimo vigente en la zona económica de Estado de Colima y no excederá de 25 salarios.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 42.
 
-Las personas que cometan cualesquiera de las infracciones antes mencionadas, se pondrán inmediatamente a disposición de la Dirección de Seguridad Pública y Vialidad Municipal bajo la supervisión del Secretario del H. Ayuntamiento, quien estará facultado para imponer las sanciones que correspondan, de acuerdo con la gravedad de la infracción y en los términos del Bando de Policía y Buen Gobierno y reglamentos respectivos.
+Las personas que cometan cualesquiera de las infracciones antes mencionadas, se pondrán inmediatamente a disposición de la Dirección de Seguridad Pública y Vialidad Municipal bajo la supervisión del Secretario del H. Ayuntamiento, quien estará facultado para imponer las sanciones que correspondan, de acuerdo con la gravedad de la infracción y en los términos del Bando de Policía y Buen Gobierno y Reglamentos respectivos.
+
+(REPUBLICADO, P.O. 14 DE JUNIO DE 2008)
 
 ###### ARTICULO 43.
 
 Las infracciones cometidas por los descendientes, contra sus ascendientes o por un cónyuge contra otro, solo podrán sancionarse a petición expresa del ofendido, a menos que la falta se cometa con escándalo público.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 44.
 
-Tratándose de infracciones al Bando de Policía y Buen Gobierno y demás reglamentos, la Policía Preventiva deberá limitarse a conducir al infractor ante la Dirección de Seguridad Pública y Vialidad para que se proceda a tomar conocimiento del hecho, calificarlo y en su caso, imponer la sanción que corresponda de acuerdo a lo establecido por el Bando de Policía y Buen Gobierno.
+Tratándose de infracciones al Bando de Policía y Buen Gobierno y demás Reglamentos, la Policía Preventiva deberá limitarse a conducir al infractor ante la Dirección de Seguridad Pública y Vialidad para que se proceda a tomar conocimiento del hecho, calificarlo y en su caso, imponer la sanción que corresponda de acuerdo a lo establecido por el Bando de Policía y Buen Gobierno.
 
 ### CAPÍTULO IX. DE LA COORDINACIÓN EN MATERIA DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 45.
 
 El Municipio, con base en el artículo 10 de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, podrá coordinarse con las autoridades Estatales y Federales para la atención de las cuestiones relacionadas con la Seguridad Pública, en donde las materias de coordinación son las siguientes:
 
-I. Instrumentación de sistemas para mejorar el desempeño de los miembros de los Cuerpos de Seguridad Pública Municipales.
+I.- Instrumentación de sistemas para mejorar el desempeño de los miembros de los Cuerpos de Seguridad Pública Municipales.
 
-II. Modernización tecnológica de los Cuerpos de Seguridad Pública Municipales.
+II.- Modernización tecnológica de los Cuerpos de Seguridad Pública Municipales.
 
-III. Propuestas de aplicación de recursos para la seguridad pública.
+III.- Propuestas de aplicación de recursos para la seguridad pública.
 
-IV. Sistematización de todo tipo de información sobre seguridad pública.
+IV.- Sistematización de todo tipo de información sobre seguridad pública.
 
-V. Acciones policiales conjuntas.
+V.- Acciones policiales conjuntas.
 
-VI. Control de los servicios privados de seguridad.
+VI.- Control de los servicios privados de seguridad.
 
-VII. Relaciones con la comunidad.
+VII.- Relaciones con la comunidad.
 
-VIII. Las necesarias para incrementar la eficacia de las medidas tendientes a alcanzar los fines de la seguridad pública.
+VIII.- Las necesarias para incrementar la eficacia de las medidas tendientes a alcanzar los fines de la seguridad pública.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 46.
 
@@ -564,5 +724,9 @@ Lic. César Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martín
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE MARZO DE 2003.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 14 DE JUNIO DE 2008.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
