@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2008-04-23"
+last_updated: "2008-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2008.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -2083,7 +2083,9 @@ El Juez aprobará los acuerdos, los cuales se registrarán de un modo fidedigno.
 
 El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y la prescripción de la acción penal.
 
-Si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+
+Si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de seis meses contados a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
 
 El cumplimiento de lo acordado impedirá el ejercicio de la acción penal o, en su caso, extinguirá la ya iniciada.
 
@@ -4456,3 +4458,9 @@ El presente Decreto entrará en vigor inmediatamente después de su aprobación 
 ###### ARTÍCULO SEGUNDO.
 
 Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
+
+P.O. 14 DE JUNIO DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
