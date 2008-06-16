@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-para-el-estado-de-aguascalientes-54687"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-12"
-last_updated: "2007-03-12"
+last_updated: "2008-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de marzo de 2007.
 
@@ -251,9 +251,19 @@ XIV. Celebrar con el Ayuntamiento de cada Municipio, convenios para coordinar o 
 
 XV. Lograr la distribución oportuna, completa y eficiente de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública y el Instituto de Educación de Aguascalientes proporcionen;
 
-XVI. Coordinar para que todos los organismos públicos del sector educativo cumplan con el programa estatal de educación; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVII. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2008)</small>
+
+XVI. Coordinar para que todos los organismos públicos del sector educativo cumplan con el programa estatal de educación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2008)</small>
+
+XVII. Velar por la preservación de la salud de los educandos, fomentando entre los padres de familia la adopción de hábitos de alimentación saludables con base a los programas de nutrición formulados por el Instituto de Salud del Estado de Aguascalientes; asimismo otorgará a dicho instituto las facilidades requeridas para que verifique que los alimentos y bebidas distribuidos en las tiendas ubicadas en las escuelas de educación básica sean de los incluidos en los programas de nutrición; y
+
+XVIII. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -1752,3 +1762,15 @@ Luis Armando Reynoso Femat,
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Educación del Estado de Aguascalientes, en un plazo no mayor a 15 días, posteriores a la entrada en vigencia del presente Decreto; deberá adecuar el Reglamento de la Tienda Escolar, para que se ajuste a los términos del propio Decreto.
