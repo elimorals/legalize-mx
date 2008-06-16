@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2006-07-17"
+last_updated: "2008-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -505,7 +505,11 @@ h).- La información relativa a las condiciones, recursos y servicios de salud;
 
 i).- La educación para la salud;
 
-j).- La orientación y vigilancia en materia de nutrición; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
+
+j).- La orientación y vigilancia en materia de nutrición, dando mayor importancia a los programas de nutrición destinados a los niños y niñas;
 
 k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -523,7 +527,13 @@ q).- El programa contra el alcoholismo;
 
 r).- El programa contra el tabaquismo;
 
-s).- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en los reglamentos y normas oficiales mexicanas que al efecto se emitan; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
+
+s).- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en los reglamentos y normas oficiales mexicanas que al efecto se emitan.
+
+En el caso de establecimientos que expidan alimentos y bebidas en las escuelas de educación básica, además verificará que sean de los autorizados en los programas de nutrición; y
 
 V.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
@@ -1472,6 +1482,12 @@ Las autoridades sanitarias estatales y municipales en coordinación con las auto
 ###### ARTICULO 111.
 
 El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités y subcomités municipales y los sectores social y privado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2008)</small>
+
+Se deberá dar prioridad a la elaboración de programas nutricionales destinados a los niños y niñas, en los que se indique el tipo de alimentos y bebidas que pueden ser distribuidos en las tiendas ubicadas en las escuelas de educación básica.
 
 ###### ARTICULO 112.
 
@@ -2854,3 +2870,13 @@ P.O. 17 DE JULIO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Salud del Estado de Aguascalientes deberá emitir los programas nutricionales referidos en este Decreto, a más tardar a los siguientes 15 días naturales de su entrada en vigencia.
