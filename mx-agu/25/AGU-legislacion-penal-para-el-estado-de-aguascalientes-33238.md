@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2008-04-07"
+last_updated: "2008-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -3073,9 +3073,9 @@ IX. Adulterio, prevista en el artículo 36;
 
 X. Allanamiento de Morada, prevista en el artículo 42;
 
-XI. Robo, prevista en el artículo 44;
+XI. (DEROGADA, P.O. 16 DE JUNIO DE 2008)
 
-XII. Robo Calificado, prevista en el artículo 45, cuando el monto de lo robado no exceda trescientas veces el salario mínimo general vigente en el Estado;
+XII. (DEROGADA, P.O. 16 DE JUNIO DE 2008)
 
 XIII. Abuso de Confianza, prevista en el artículo 46;
 
@@ -5372,3 +5372,9 @@ DECRETO NUMERO 61, POR EL QUE SE REFORMAN LOS ARTICULOS 562, 563 Y 564 DE LA LEG
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
