@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2007-02-12"
+last_updated: "2008-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -1287,9 +1287,11 @@ No podrán existir exenciones respecto de las cuotas y tarifas a que se refiere 
 
 Las cuotas y tarifas que se cobren al usuario serán independientes de los pagos que éste tenga que efectuar conforme a la legislación fiscal aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 104.
 
-La falta de pago en dos ocasiones consecutivas, por parte de usuarios no domésticos, faculta al municipio o al prestador de los servicios para suspender el suministro del agua potable hasta que se regularice su pago. En el caso de uso doméstico, la falta de pago en tres ocasiones consecutivas ocasionará la suspensión del suministro del agua potable.
+La falta de pago en dos ocasiones consecutivas, por parte de usuarios no domésticos faculta al Municipio o al prestador de los servicios para suspender el suministro del agua potable hasta que se regularice su pago. En el caso de uso doméstico, la falta de pago en tres ocasiones consecutivas ocasionará la suspensión del suministro del agua potable. Una vez que el Municipio o el prestador del servicio suspendan el suministro de agua potable al usuario, no podrán cobrar las cuotas mensuales posteriores a la suspensión, sino hasta que éste sea reconectado.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
@@ -1646,3 +1648,9 @@ P.O. 12 DE FEBRERO DE 2007.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
