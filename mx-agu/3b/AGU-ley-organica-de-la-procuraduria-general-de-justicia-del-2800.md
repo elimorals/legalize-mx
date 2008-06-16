@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "2007-12-24"
+last_updated: "2008-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
 
 Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
@@ -279,9 +279,15 @@ Serán Agentes del Ministerio Público para todos los efectos legales que corres
 
 El Subprocurador Jurídico y la Comisión de Honor y Justicia de la Policía Ministerial, en los términos de la Ley de Seguridad Pública, independientemente de las facultades que les otorguen otras leyes, aplicarán la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, de conformidad con lo preceptuado en el Artículo 4° de ese ordenamiento.
 
-En todo momento existirá por lo menos una Agencia Especializada en delitos sexuales y violencia intrafamiliar, una Agencia Especializada en el combate al robo de vehículos así como un Agente del Ministerio Público para Delitos Electorales quién se desempeñará con plena autonomía técnica en los períodos que al efecto establezca el Código Electoral del Estado y las leyes respectivas.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
+
+En todo momento dentro de las agencias existentes, se deberá contar por lo menos con una Agencia Especializada en la Investigación y Persecución del Delito de Secuestro, una Agencia Especializada en Delitos Sexuales y Violencia Intrafamiliar, una Agencia Especializada en el Combate al Robo de Vehículos, así como un Agente del Ministerio Público para Delitos Electorales, quién se desempeñará con plena autonomía técnica en los períodos que al efecto establezca el Código Electoral del Estado y las leyes respectivas.
 
 El Procurador bajo su más estricta responsabilidad y siempre tomando en cuenta la carga de trabajo, determinará el número de Agentes que desempeñen tales funciones.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2008)</small>
+
+La Agencia Especializada en la Investigación y Persecución del Delito de Secuestro, tendrá competencia para conocer de hechos posiblemente constitutivos del delito de secuestro y sus modalidades previsto en los Artículos 40, 40 A, 40 B, 41 y 49 de la Legislación Penal para el Estado de Aguascalientes, misma que contará con moderna metodología de investigación y utilización de innovaciones tecnológicas y profesionales, así como personal especializado, investido de los particulares y ampliados conocimientos teóricos, técnicos, desarrollo de destrezas y habilidades, que garanticen el eficaz y eficiente combate al secuestro y sus modalidades; otorgando a la víctima y a su familia un servicio expedito, exclusivo y profesional.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
@@ -375,9 +381,9 @@ El personal no citado en el artículo anterior, para ingresar o permanecer al se
 
 El Procurador General de Justicia en el Estado expedirá los acuerdos, circulares y los manuales de organización y procedimientos conducentes al buen despacho de las funciones de la Procuraduría, y resolverá por sí o por conducto del funcionario que determine, sobre el ingreso, la promoción, la adscripción, las renuncias, las sanciones y los estímulos de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo Estatal y quienes presten a éste sus servicios.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
 
-Será facultad indelegable del Procurador General de Justicia en el Estado, bajo su más estricta responsabilidad, decidir sobre el ingreso, la promoción, la adscripción, las renuncias, sanciones y estímulos a los Agentes del Ministerio Público Especializados en Adolescentes, Delitos Electorales, Delitos Sexuales, Delitos Contra la Familia, así como determinar el número de agentes que desempeñen tales funciones.
+Será facultad indelegable del Procurador General de Justicia en el Estado, bajo su más estricta responsabilidad, decidir sobre el ingreso, la promoción, la adscripción, las renuncias, sanciones y estímulos a los Agentes del Ministerio Público Especializados en Adolescentes, Delitos Electorales, Delitos Sexuales, Delitos Contra la Familia y Delito de Secuestro, así como determinar el número de agentes que desempeñen tales funciones.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
@@ -610,6 +616,12 @@ P.O. 11 DE SEPTIEMBRE DE 2006.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
