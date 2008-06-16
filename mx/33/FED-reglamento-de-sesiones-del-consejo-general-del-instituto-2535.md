@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-consejo-general-del-instituto-2535"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-27"
-last_updated: "2002-08-27"
+last_updated: "2008-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-08-09"
 
 ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 16 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 27 de agosto de 2002.
 
@@ -506,3 +508,15 @@ TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 CUARTO.- El Secretario Ejecutivo dispondrá a la brevedad posible la edición del número de ejemplares de este reglamento que se estimen necesarios para su adecuada difusión.
 
 El presente acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 9 de agosto de 2002.- El Consejero Presidente del Consejo General, José Woldenberg Karakowsky.- Rúbrica.- El Secretario del Consejo General, Fernando Zertuche Muñoz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE JUNIO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ACUERDO.
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+Tercero.- Se abroga el Reglamento de Sesiones del Consejo General, aprobado mediante el Acuerdo CG170/2002 del 9 de agosto de 2002.
+
+Cuarto.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
