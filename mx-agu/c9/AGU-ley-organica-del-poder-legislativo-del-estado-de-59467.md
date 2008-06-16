@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2008-03-10"
+last_updated: "2008-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -969,11 +969,17 @@ Corresponde a la Comisión de Derechos Humanos, el conocimiento y Dictamen de lo
 
 I. La promoción y protección de los derechos humanos;
 
-II. El seguimiento a las recomendaciones de la Comisión Nacional de los Derechos Humanos y la Procuraduría de Protección Ciudadana;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2008)</small>
 
-III. El nombramiento del Presidente de la Comisión de los Derechos Humanos;
+II. El seguimiento a las recomendaciones de la Comisión Nacional de los Derechos Humanos y de la Comisión Estatal de los Derechos Humanos;
 
-IV. La relación con la Procuraduría de Protección Ciudadana y los órganos gubernamentales y no gubernamentales de la materia; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2008)</small>
+
+III. El nombramiento del Presidente de la Comisión Estatal de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2008)</small>
+
+IV. La relación con la Comisión Estatal de los Derechos Humanos y los órganos gubernamentales y no gubernamentales de la materia; y
 
 V. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
@@ -1966,3 +1972,9 @@ El presente Decreto entrará en vigencia a partir del día 15 de marzo del año 
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto, en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
