@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2007-11-02"
+last_updated: "2008-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -88,11 +88,13 @@ III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio
 
 IV.- Promover mediante la enseñanza el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas.
 
-Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria en su propia lengua y español.
+Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria en su propia lengua y español;
 
 V.- Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones al mejoramiento de la sociedad;
 
-VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los Derechos Humanos y el respeto a los mismos;
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2008)</small>
+
+VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como promover el desarrollo de una cultura por la paz y la no violencia en cualquier tipo de sus manifestaciones y propiciar el conocimiento de los Derechos Humanos y el respeto a los mismos;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
 
@@ -1041,3 +1043,7 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 D.O.F. 2 DE NOVIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
