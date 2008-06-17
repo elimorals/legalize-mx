@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2007-11-27"
+last_updated: "2008-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1263,6 +1263,8 @@ Para los efectos de los capítulos I, II y III de este Título, se entiende por 
 
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 137.
 
 (DEROGADO, P.O. 18 DE ABRIL DE 2007)
@@ -1497,9 +1499,15 @@ IV.- Desvíe o haga uso de las aguas propias o ajenas, en los casos de que la Le
 
 V.- Ejerza actos de dominio que lesione derechos legítimos del usuario de dichas aguas.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 159.
 
-Si el despojo se realiza por más de dos personas o con violencia, las penas previstas en el artículo anterior se aumentarán hasta en una mitad más. La misma agravante se le impondrá a los autores intelectuales.
+Si el despojo se realiza por más de dos personas o con violencia, las penas previstas en el artículo anterior se aumentaran hasta en una mitad más.
+
+Al que planee, o induzca, o instigue, o financie, o dirija o propicie la acción de despojo, se les impondrá prisión de dos a nueve años de prisión y multa de cien a cuatrocientos días multa.
+
+Cuando el despojo se realice sobre terrenos declarados como áreas naturales protegidas en sus diferentes modalidades, o que tengan el carácter de reserva territorial para el crecimiento urbano de los centros de población del Estado, se incrementará la penalidad hasta en una cuarta parte más de la señalada en el párrafo que antecede.
 
 ###### ARTICULO 160.
 
@@ -1519,13 +1527,15 @@ Si el daño recae en bienes de valor científico, artístico, cultural o de util
 
 ###### ARTICULO 163.
 
-Los delitos previstos en este título solo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato respecto de estos delitos que se perseguirán de oficio. Estos delitos, previstos en los capítulos I, II, y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
+Los delitos previstos en este Título solo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato, y de lo previsto en el párrafo segundo del artículo 159 de este Código, respecto de estos delitos que se perseguirán de oficio. Estos delitos, previstos en los capítulos I, II y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge; concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
 
 ###### ARTICULO 164.
 
 En los casos de los delitos previstos por este título, no se aplicará pena alguna si el agente restituye al agraviado del delito y paga los daños y perjuicios, o no siendo posible la restitución, antes de que la autoridad investigadora tome conocimiento del ilícito, cuando sea la primera vez que delinque y el delito no se hubiese cometido con violencia. Si antes de dictarse sentencia al inculpado hace la restitución o cubre su valor, en su caso, el producto de los daños y perjuicios correspondientes a ellos, se reducirán las penas a la mitad de las que corresponderían por el delito cometido.
 
-Lo dispuesto en el párrafo anterior no será aplicable a los delitos en que el agente sea un servidor público, si se aprovecha del cargo para cometerlos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
+
+Se exceptúa de lo señalado en el párrafo que antecede, lo previsto en el párrafo segundo del artículo 159 de este Código y los delitos en que los que el agente sea un servidor público, si se aprovecha del cargo para cometerlos.
 
 ###### ARTICULO 165.
 
@@ -2678,3 +2688,9 @@ P.O. 18 DE ABRIL DE 2007.
 P.O. 27 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 17 DE JUNIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
