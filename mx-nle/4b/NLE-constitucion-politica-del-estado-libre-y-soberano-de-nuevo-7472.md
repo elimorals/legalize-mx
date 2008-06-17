@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2008-05-14"
+last_updated: "2008-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2255,9 +2255,11 @@ Quedan para siempre prohibidas las penas de mutilación y de infamia, la marca, 
 
 No se considerará confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial, de los bienes, en caso de enriquecimiento ilícito en los términos de la Ley; ni el decomiso de los bienes propiedad del sentenciado, por delitos de los previstos como de delincuencia organizada, o el de aquellos respecto de los cuales éste se conduzca como dueño, si no acredita la legítima procedencia de dichos bienes.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
+
 ###### Art. 21.
 
-Queda abolida la pena de muerte para los delitos políticos, y en cuanto a los demás, podrá imponerse al parricida, al homicida con alevosía, premeditación y ventaja, al incendiario, al plagiario y al salteador de caminos.
+Queda prohibida la pena de muerte, la cual no podrá aplicarse en ningún caso.
 
 ###### Art. 22.
 
@@ -3108,3 +3110,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 14 DE MAYO DE 2008.
 
 Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
