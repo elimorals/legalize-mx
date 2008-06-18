@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-de-caminos-al-paso-por-las-poblaciones-22263"
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-26"
-last_updated: "1962-12-26"
+last_updated: "2008-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22263&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE PROTECCION DE CAMINOS AL PASO POR LAS POBLACIONES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO SETECIENTOS CUARENTA Y SEIS, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 26 de diciembre de 1962.
 
@@ -110,3 +112,13 @@ El SECRETARIO GENERAL DE GOBIERNO
 Lic. Antonio Riva Palacio L.
 
 Rúbrica
+
+P.O. 18 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente, remítase al Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente. Decreto entrará en vigor al día siguiente de su publicación.
