@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2005-04-06"
+last_updated: "2008-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -53,7 +53,7 @@ La razón por la que los trabajadores públicos no se les reconocía sus derecho
 
 En el año de 1931, dentro de la primera Ley Federal del Trabajo aparece el texto siguiente:
 
-"Las relaciones entre el Estado y sus servidores se regirían por las Leyes del Servicio Civil que se expidieran.
+"Las relaciones entre el Estado y sus servidores se regirían por las Leyes del servicio civil que se expidieran.
 
 Las anunciadas Leyes del servicio civil no llegaron a expedirse. La burocracia siguió viviendo en la incertidumbre y angustia, pues en cada ocasión que se presentaban cambios de gabinete, eran cesados decenas de ellos. En el año de 1934, el Presidente Abelardo Rodríguez, conmovido ante la tragedia de los empleados públicos dictó un acuerdo administrativo sobre organización y funcionamiento del servicio civil de la federación, que rigió hasta el mes de noviembre siguiente.
 
@@ -331,9 +331,17 @@ XII.- Por falta comprobada de cumplimiento al servicio;
 
 XIII.- Por prisión que sea resultado de una sentencia ejecutoriada;
 
-XIV.- Por pérdida de la confianza; y
+XIV.- Por pérdida de la confianza; y (sic)
 
-XV.- Las que señalen otros ordenamientos jurídicos aplicables.
+(NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2008)</small>
+
+XV.- POR HABER OBTENIDO DECRETO QUE OTORGUE PENSIÓN POR JUBILACIÓN O CESANTÍA EN EDAD AVANZADA, CUYO INICIO DE VIGENCIA SE CONSIGNARÁ EN EL MISMO ORDENAMIENTO; Y
+
+XVI.- Las que señalen otros ordenamientos jurídicos aplicables.
 
 ## TÍTULO TERCERO. DE LA JORNADA DE TRABAJO Y LOS DESCANSOS LEGALES
 
@@ -671,9 +679,9 @@ IV.- Despensa familiar mensual, cuyo monto nunca será menor a siete salarios m�
 
 V.- Seguro de vida, cuyo monto no será menor de cien meses de salario mínimo general vigente en el Estado por muerte natural, y doscientos meses de salario mínimo general vigente en el Estado por muerte accidental;
 
-VI.- Los beneficios derivados por riesgos y enfermedades de trabajo, por enfermedades no laborales y maternidad;
+VI.- Los beneficios derivados por riesgos y enfermedades de trabajo, por enfermedades no laborales y maternidad.
 
-Se consideran riesgos de trabajo los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo de las actividades que desempeñen en el centro de trabajo.
+Se consideran riesgos de trabajo los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo de las actividades que desempeñen en el centro de trabajo;
 
 VII.- Pensión por jubilación, por cesantía en edad avanzada, por invalidez, por viudez, por orfandad y por ascendencia, en términos de las disposiciones legales aplicables;
 
@@ -687,9 +695,19 @@ X.- Actividades sociales, culturales y deportivas.
 
 Las prestaciones, seguros y servicios citados en el artículo que antecede estarán a cargo de los Poderes del Estado y de los Municipios, a través de las instituciones que para el caso determinen.
 
+(NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2008)</small>
+
 ###### Artículo 56.
 
-Las prestaciones a que se refiere la fracción VII del Artículo 54 de esta Ley, se otorgarán mediante decreto que expida el Congreso del Estado una vez satisfechos los requisitos que éste ordenamiento establece.
+Las prestaciones a que se refiere la fracción VII del Artículo 54 de esta Ley, se otorgarán mediante decreto que expida el Congreso del Estado una vez satisfechos los requisitos que establecen esta Ley y los demás ordenamientos aplicables.
+
+El pago de la pensión por jubilación y por cesantía en edad avanzada, se generará a partir de la fecha en que entre en vigencia el decreto respectivo. Si el pensionado se encuentra en activo, a partir de la vigencia del decreto cesarán los efectos de su nombramiento.
+
+El trabajador que se hubiera separado justificada o injustificadamente de su fuente de empleo, antes de la fecha de vigencia del decreto que la otorga, recibirá el pago de su pensión a partir del siguiente día de su separación.
 
 ###### Artículo 57.
 
@@ -829,7 +847,7 @@ Para efecto de disfrutar esta prestación, la antigüedad se entiende como el ti
 
 Para recibir esta prestación no se requiere edad determinada.
 
-La pensión se pagará a partir del día siguiente a aquel en que el trabajador se separe de sus labores.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 18 DE JUNIO DE 2008)</small>
 
 (ADICIONADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
 
@@ -843,7 +861,7 @@ La pensión se calculará aplicando al salario y a los porcentajes que se especi
 
 a).- Por diez años de servicio 50%
 
-b)-. Por once años de servicio 55%
+b).- Por once años de servicio 55%
 
 c).- Por doce años de servicio 60%
 
@@ -853,7 +871,7 @@ e).- Por catorce años de servicio 70%
 
 f).- Por quince años de servicio 75%
 
-La pensión se pagará a partir del día siguiente a aquel en que el trabajador se separe de sus labores.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 18 DE JUNIO DE 2008)</small>
 
 (REFORMADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
 
@@ -1456,3 +1474,9 @@ P.O. 6 DE ABRIL DE 2005.
 PRIMERO.- El presente Decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos a que se refiere el artículo 47 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 18 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
