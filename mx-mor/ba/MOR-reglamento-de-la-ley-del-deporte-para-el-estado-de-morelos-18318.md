@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-deporte-para-el-estado-de-morelos-1831
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-10"
-last_updated: "2000-05-10"
+last_updated: "2008-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL DEPORTE PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial "Tierra y Libertad", el 10 de mayo de 2000.
 
@@ -618,3 +620,27 @@ EL SECRETARIO DE BIENESTAR SOCIAL.
 CARLOS JAVIER MARTINEZ LEON
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial Tierra y Libertad del estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento de la Ley del Deporte del Estado de Morelos, publicado en el (sic) Publicación Oficial "Tierra y Libertad" número 4050, el día diez de Mayo del dos mil, así como las demás disposiciones administrativas de igual o menor jerarquía que se opongan al presente Reglamento.
+
+TERCERO. El Pleno deberá expedir los lineamientos para la elección o nombramiento de los vocales, para el funcionamiento de éste y del Consejo, y demás instrumentos jurídicos a que se refiere la Ley y el presente Reglamento, dentro de los doce meses siguientes a su entrada en vigor.
+
+CUARTO. El Instituto expedirá las normas a que se sujetarán los Consejos a que se refiere el artículo 38 de este ordenamiento; las normas de seguridad y operación de las instalaciones deportivas; el reglamento de uso de instalaciones; el Instructivo del Subprograma Estatal de Becas, Estímulos, Reconocimientos y Premios; las normas técnicas del Deporte Adaptado; el Sistema Único de Competencia; los instructivos Técnico-Deportivos y las normas de seguridad para la explotación comercial y práctica del deporte de alto rendimiento y el Reglamento de Seguridad general en el Deporte, y se coordinará con los ayuntamientos para el establecimiento del Programa de Talentos Deportivos, dentro de los doce meses siguientes a la entrada en vigor del presente Reglamento.
+
+QUINTO. El Consejo deberá celebrar su sesión de instalación dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento.
+
+SEXTO. El Consejo promoverá que el Pleno expida las normas y reglas de operación y las disposiciones correspondientes derivadas de este ordenamiento, dentro de los doce meses siguientes a la entrada en vigor del presente Reglamento.
+
+SÉPTIMO. El Comité Antidopaje deberá celebrar su sesión de instalación dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento, y en el plazo de noventa días expedir los lineamientos generales, disposiciones y procedimientos a que se refiere este Reglamento.
+
+OCTAVO. La Comisión de apelación y Arbitraje del Deporte deberá celebrar su sesión de instalación dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento.
+
+NOVENO. El Pleno deberá celebrar su sesión de instalación dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento.
+
+Los formatos de inscripción y trámites a que se refiere este Reglamento, deberán expedirse dentro de los treinta días siguientes a su entrada en vigor.
