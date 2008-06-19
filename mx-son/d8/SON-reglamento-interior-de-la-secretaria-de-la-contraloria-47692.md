@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2007-11-22"
+last_updated: "2008-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 2008.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -41,11 +41,13 @@ A la Secretaría de la Contraloría General, como dependencia directa de la Admi
 
 El Titular de la Secretaría de la Contraloría General será el Secretario que designe el Ejecutivo del Estado, quien para el trámite y resolución de los asuntos de su competencia contará con las unidades administrativas y órganos desconcentrados siguientes:
 
-> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2008)</small>
 
 I.- Unidades administrativas:
 
 Secretaría.
+
+Coordinación Ejecutiva de Gestión de Tecnología Administrativa y Digital.
 
 Dirección General de Licitaciones y Contratos.
 
@@ -53,13 +55,9 @@ Dirección General de Auditoría Gubernamental.
 
 Dirección General de Seguimiento y Control de Obra Pública.
 
-Dirección General de Desarrollo Administrativo.
-
 Dirección General de Contraloría Social.
 
 Dirección General de Responsabilidades y Situación Patrimonial.
-
-Dirección General de Tecnología Informática.
 
 Dirección General de Información e Integración.
 
@@ -205,15 +203,19 @@ XIV. Participar en las actividades de control y evaluación que se lleven a cabo
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2008)</small>
+
 ###### Artículo 7º.
 
-Al frente de cada Dirección General, habrá un Director General quien técnica y administrativamente será responsable del funcionamiento de la unidad administrativa a su cargo, y se auxiliará, según corresponda, por el personal técnico y administrativo, que las necesidades del servicio requieran y figuren en el presupuesto.
+Al frente de la Coordinación Ejecutiva, habrá un Coordinador Ejecutivo, y al frente de cada Dirección General, habrá un Director General, quienes técnica y administrativamente serán responsables del funcionamiento de la Unidad Administrativa a su cargo, y se auxiliarán, según corresponda, por el personal técnico y administrativo, que las necesidades del servicio requieran y figuren en el presupuesto.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 8°.
 
-El Director General tendrá las siguientes atribuciones genéricas:
+El Coordinador Ejecutivo y el Director General tendrán las siguientes atribuciones genéricas:
 
 I. Planear, programar, presupuestar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la unidad administrativa bajo su responsabilidad, de conformidad con los lineamientos que fije el Titular de la Secretaría;
 
@@ -263,9 +265,89 @@ XXIII. Suscribir los documentos relativos al ejercicio de sus funciones y en aqu
 
 XXIV. Vigilar la correcta aplicación del presupuesto, así como el buen uso del mobiliario, equipo y vehículos que se asignen a la unidad administrativa;
 
-XXV.- Expedir, cuando proceda, copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo, así como de los documentos originales que tenga ante su vista, previo cotejo de los mismos y copia certificada que quede para constancia en el archivo de la unidad administrativa correspondiente, y
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2008)</small>
 
-XXVI.- Las demás que le confieran las disposiciones legales aplicables y le atribuya expresamente el Secretario, dentro de la esfera de sus atribuciones.
+XXV.- Expedir; cuando proceda, copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo, así como de los documentos originales que tenga ante su vista, previo cotejo de los mismos y copia certificada que quede para constancia en el archivo de la unidad administrativa correspondiente;
+
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2008)</small>
+
+XXVI.- Desempeñar las funciones y comisiones que el Secretario le encomiende, manteniéndolo informado sobre el desarrollo de las mismas;
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2008)</small>
+
+XXVII.- Participar en la esfera de su competencia, en la elaboración de los programas a cargo de la Secretaría;
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2008)</small>
+
+XXVIII.- Representar al Secretario en los actos o reuniones que le sean asignados y, por acuerdo expreso, desarrollar las responsabilidades y facultades que le sean delegadas; y
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2008)</small>
+
+XXIX.- Las demás que le confieran las disposiciones legales aplicables y le atribuya expresamente el Secretario, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2008)</small>
+
+###### Artículo 8° Bis.
+
+La Coordinación Ejecutiva de Gestión de Tecnología Administrativa y Digital estará adscrita al titular de la Secretaría, y tendrá las siguientes atribuciones:
+
+I.- Diseñar, implementar y administrar esquemas en materia de modernización administrativa que promuevan la mejora del desempeño de las dependencias y entidades de la Administración Pública Estatal, mediante el fortalecimiento de sus procesos de gestión interna en beneficio del ciudadano;
+
+II.- Evaluar el desempeño de dependencias y entidades para generar información que permita proponer esquemas o acciones de mejora o en su caso acciones correctivas;
+
+III.- Diseñar, difundir y dar seguimiento a esquemas de autoevaluación en las dependencias y entidades de la Administración Pública Estatal;
+
+IV.- Coordinarse con las dependencias y entidades de la Administración Pública Estatal que tienen a su cargo trámites y servicios estatales para el incremento de la calidad de los mismos;
+
+V.- Impulsar y coordinar la mejora regulatoria relacionada con los trámites y servicios a cargo de las dependencias y entidades de la Administración Pública Estatal;
+
+VI.- Investigar sobre las mejoras prácticas a nivel estatal, nacional e internacional y, en su caso, diseñar el esquema para su adopción;
+
+VII.- Coordinar el Sistema de Información de Acciones de Gobierno del Estado de Sonora, así como instrumentar los esquemas que sean necesarios para la innovación, desarrollo y evaluación de la gestión pública;
+
+VIII.- Desarrollar proyectos estratégicos orientados a mejorar la gestión pública en colaboración con expertos e instituciones nacionales e internacionales, así como definir y difundir los criterios generales para la elaboración e implementación de los mismos por parte de las dependencias y entidades de la Administración Pública Estatal;
+
+IX.- Analizar la viabilidad de implementar Tecnologías de la Información y Comunicación (TIC's) para el impulso de la modernización administrativa de la Administración Pública Estatal;
+
+X.- Establecer coordinación con los demás ámbitos de Gobierno, para promover la modernización administrativa, según los acuerdos y convenios suscritos por el Ejecutivo del Estado;
+
+XI.- Generar los lineamientos para la elaboración de reglamentos interiores, manuales de organización, manuales de procedimientos, manuales de trámites y servicios, cartas compromiso al ciudadano y demás instrumentos de apoyo para promover la modernización administrativa;
+
+XII.- Revisar y dictaminar sobre los proyectos de reglamentos interiores, manuales de organización, de procedimientos, de trámites y servicios al público, cartas compromiso al ciudadano y demás documentos administrativos e informativos de la gestión pública, así como las reformas a los mismos, que elaboren las dependencias y entidades de la Administración Pública Estatal, a efecto de verificar que cumplan con los lineamientos establecidos por esta Secretaría para su estructuración;
+
+XIII.- Diseñar y difundir las herramientas que permitan mantener permanentemente actualizada la información referente a la organización general del Poder Ejecutivo del Estado, trámites y servicios estatales y demás instrumentos de apoyo a la gestión pública estatal que se consideren pertinentes, así como mantener dicha información disponible;
+
+XIV.- Diseñar la arquitectura de las aplicaciones informáticas y coordinar los esfuerzos tecnológicos en la estandarización de aplicaciones utilitarias;
+
+XV.- Dirigir, controlar y supervisar las actividades de diseño, desarrollo, implementación y operación de la infraestructura tecnológica, tecnología de la información, análisis y rediseño de procesos de las dependencias y entidades de la Administración Pública Estatal;
+
+XVI.- Brindar soporte técnico a la infraestructura tecnológica de las dependencias y entidades de la Administración Pública Estatal;
+
+XVII.- Analizar, determinar y desarrollar la sistematización de procesos, incluyendo los trámites y servicios al público de la gestión pública mediante la aplicación de tecnologías de la información y comunicación, así como otras herramientas de sistematización y mejora de procesos;
+
+XVIII.- Desarrollar, mantener y mejorar las herramientas informáticas para la difusión de la información pública gubernamental;
+
+XIX.- Efectuar revisiones a los sistemas de información utilizados por las dependencias y entidades de la Administración Pública Estatal;
+
+XX.- Expedir las normas, políticas y estándares en materia de equipamiento de bienes tecnológicos de las dependencias y entidades de la Administración Pública Estatal, basados en los lineamientos y normatividad de esta Coordinación Ejecutiva, mediante la elaboración de dictámenes técnicos de tecnologías de la información y comunicación para su selección, adquisición, arrendamiento y contratación, según sea el caso;
+
+XXI.- Brindar soporte y mantenimiento a los sistemas y herramientas desarrolladas por esta Coordinación Ejecutiva a las unidades administrativas de la Secretaría;
+
+XXII.- Conformar y dirigir el Comité de Desarrollo Tecnológico, el cual estará representado por los encargados de las áreas informáticas de las dependencias y entidades de la Administración Pública Estatal, teniendo a su cargo la función de dar a conocer las nuevas tendencias tecnológicas y los lineamientos tendientes a unificar esfuerzos en la labor informática;
+
+XXIII.- Definir los lineamientos, estándares y requerimientos tecnológicos, de sistemas de información y de medios electrónicos, proyectos tecnológicos aplicables que deberán adoptar los entes públicos para su óptimo funcionamiento;
+
+XXIV.- Dirigir la línea de acción en el manejo de transacciones de los entes públicos entre sí, y de igual manera entre éstos y los particulares para brindar autenticidad en dicho proceso;
+
+XXV.- Proponer al titular de la Secretaría, para su expedición, los lineamientos y políticas para la evaluación de proveedores de tecnologías de información de las dependencias y entidades, así como dirigir, coordinar y evaluar el desarrollo y aplicación de dichas disposiciones;
+
+XXVI.- Brindar capacitación y asesoría a las dependencias y entidades de la Administración Pública Estatal, en el ámbito de la competencia de esta unidad administrativa;
+
+XXVII.- Turnar a la Dirección General de Responsabilidades y Situación Patrimonial las denuncias y expedientes relativos a las evaluaciones, investigaciones o auditorías que se hubieren practicado, cuando de las mismas se detectaren hechos que puedan constituir presuntas responsabilidades de los servidores públicos, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o bien, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, o puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido;
+
+XXVIII.- Coordinarse con los Órganos de Control y Desarrollo Administrativo para el ejercicio de sus atribuciones en el ámbito de su competencia; y
+
+XXIX.- Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el titular de la Secretaría.
 
 ### CAPÍTULO V. DE LOS INSTRUMENTOS DE CONTROL DE LA SECRETARÍA
 
@@ -449,29 +531,7 @@ XVI. Las demás que le confieran las disposiciones jurídicas aplicables y las q
 
 ###### Artículo 12.
 
-La Dirección general de Desarrollo Administrativo estará adscrita al Titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
-
-I. Planear, programar, ejecutar y controlar acciones que promuevan el desarrollo administrativo en la Administración Pública Estatal;
-
-II. Emitir las directrices que en materia de desarrollo administrativo orienten a las dependencias y entidades a mejorar el desempeño de la Administración Pública Estatal;
-
-III. Implementar, coordinar y evaluar el funcionamiento de programas, proyectos, estudios y acciones en materia de desarrollo administrativo al interior de la Administración Pública Estatal, que incidan en la mejora de sus procesos, trámites y servicios;
-
-IV. Evaluar el desempeño de las dependencias y entidades de la Administración Pública Estatal en la ejecución de los procesos institucionales y en la prestación de los servicios al público a cargo de las mismas, presentando los resultados y recomendaciones que permitan mejorar su desempeño;
-
-V. Establecer coordinación con los demás ámbitos de Gobierno, para promover el desarrollo administrativo, según los acuerdos y convenios suscritos por el Gobierno del Estado;
-
-VI. Revisar y dictaminar sobre los proyectos de reglamentos interiores, manuales de organización, de procedimientos, de trámites y servicios al público, así como las reformas a los mismos y demás documentos administrativos e informativos de la gestión pública que elaboren las dependencias y entidades de la Administración Pública Estatal por iniciativa de la Contraloría, a efecto de verificar que cumplan con los lineamientos establecidos para su estructuración;
-
-VII. Integrar, difundir y mantener permanentemente actualizados los documentos relativos a la organización general del Poder Ejecutivo del Estado, a los servicios y trámites estatales, a la ubicación de los responsables de los mismos y demás instrumentos de apoyo a la gestión pública estatal que se estimen pertinentes;
-
-VIII. Brindar capacitación y asesoría a las dependencias y entidades de la Administración Pública Estatal, en el ámbito de la competencia de esta unidad administrativa;
-
-IX. Turnar a la Dirección General de Responsabilidades y Situación Patrimonial las denuncias y expedientes relativos a las evaluaciones, investigaciones o auditorias que se hubieren practicado, cuando de las mismas se detectaren hechos que puedan constituir presuntas responsabilidades de los servidores públicos, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o bien, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, o puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido;
-
-X. Coordinarse con los Órganos de Control y Desarrollo Administrativo para el ejercicio de sus atribuciones en el ámbito de su competencia, y
-
-XI. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
+(DEROGADO, B.O. 19 DE JUNIO DE 2008)
 
 ###### Artículo 13.
 
@@ -569,39 +629,7 @@ XVIII. Las demás que le confieran las disposiciones legales aplicables y las qu
 
 ###### Artículo 15.
 
-La dirección General de Tecnología Informática estará adscrita al Titular de la Secretaría y tendrá a su cargo las siguientes atribuciones:
-
-I. Identificar áreas de oportunidad en las que las tecnologías de la información y comunicación impacten en la gestión pública, proponiendo nuevas tecnologías y mejores prácticas que apoyen los esfuerzos informáticos de las dependencias y entidades de la Administración Pública Estatal;
-
-II. Elaborar y difundir lineamientos en materia de tecnologías de la información y telecomunicaciones, estableciendo los estándares que deberán seguir las dependencias y entidades de la Administración Pública estatal en el diseño, elaboración, implementación y seguimiento de las especificaciones técnicas de los proyectos tecnológicos a desarrollarse, aprovechando la infraestructura existente y previendo la que se incorpore a futuro;
-
-III. Diseñar la arquitectura de las aplicaciones informáticas y coordinar los esfuerzos tecnológicos en la estandarización de aplicaciones utilitarias;
-
-V. Brindar soporte técnico a la infraestructura tecnológica de las dependencias y entidades de la Administración Pública Estatal;
-
-VI. Revisar y, en su caso, rediseñar los procesos antes de proponer el desarrollo de un nuevo sistema que los apoye, así como diseñar e instrumentar la metodología para rediseñar procesos de impacto en la funcionalidad de las dependencias y entidades de la Administración Pública Estatal, pudiendo además analizar, dirigir e implementar los procesos automatizados que mejoren la productividad y eficiencia de dichos entes;
-
-VII. Analizar, determinar y desarrollar las herramientas informáticas para el mejoramiento del desempeño de la función administrativa y a difusión de la información pública gubernamental;
-
-VIII. Efectuar revisiones a los sistemas de información utilizados por las dependencias y entidades de la Administración Pública Estatal;
-
-IX. Brindar soporte y mantenimiento a los sistemas y herramientas desarrolladas por esta Dirección a las unidades administrativas de la Secretaría;
-
-X. Expedir las normas, políticas y estándares en materia de equipamiento de hardware y software, base de datos, herramientas, servicios electrónicos, internet, la red de telecomunicaciones, del cableado estructurado, administración de base de datos, desarrollo de sistemas, automatización de procesos, sistemas de conmutación de voz y datos , respaldo de información y de los componentes de a mejor calidad, cobertura y respuesta de servicio que integrarán los bienes tecnológicos de las dependencias y entidades de la Administración Púbica Estatal, basados en los lineamientos y normatividad de esta Dirección, mediante la elaboración de dictámenes técnicos de tecnologías de la información y comunicación de las dependencias de la Administración Pública Estatal para su selección, adquisición, arrendamiento y contratación, según sea el caso;
-
-XI. Desarrollar e implementar los servicios públicos factibles a través de medios electrónicos, así como automatizar los procesos administrativos que se llevan a cabo dentro de la Administración Pública Estatal, haciendo uso de las tecnologías de información y de los adelantos en materia de telecomunicaciones;
-
-XII. Establecer y coordinar la vinculación entre las áreas encargadas de administrar las tecnologías de la información y comunicación de las dependencias y entidades, para fortalecer la convergencia tecnológica;
-
-XIII. Conformar y dirigir, el Comité de Desarrollo Tecnológico, el cual estará representado por los encargados de las áreas informáticas de las dependencias y entidades de la Administración Pública Estatal, teniendo a su cargo la función de dar a conocer las nuevas tendencias tecnológicas y los lineamientos tendientes a unificar esfuerzos en la labor informática;
-
-XIV. Definir los lineamientos, estándares y requerimientos tecnológicos, de sistemas de información y de medios electrónicos aplicables que deberán adoptar los entes públicos para su óptimo funcionamiento;
-
-XV. Dirigir la línea de acción en el manejo de transacciones de los entes públicos entre sí, y de igual manera entre éstos y los particulares para brindar autenticidad en dicho proceso;
-
-XVI. Proponer al Titular de la Secretaría, para su expedición, los lineamientos y políticas para la evaluación de proveedores de tecnologías de información de las dependencias y entidades, así como dirigir, coordinar y evaluar el desarrollo y aplicación de dichas disposiciones, y
-
-XVII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
+(DEROGADO, B.O. 19 DE JUNIO DE 2008)
 
 > <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
 
@@ -890,6 +918,12 @@ EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIE
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 B.O. 22 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 19 DE JUNIO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
