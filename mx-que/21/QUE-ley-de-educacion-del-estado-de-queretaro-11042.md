@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-11042"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-15"
-last_updated: "2008-01-25"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 15 de agosto de 1996.
 
@@ -51,9 +51,13 @@ Así, el criterio que orientará a la educación que el Estado y sus organismos 
 
 a).- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
 
-b).- Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+b).- Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y (sic)
 
 c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+d).- Promoverá una actitud de fomento en la práctica de respeto entre la relación ser humano-sociedad-medio ambiente, creando los instrumentos mediante los que el educando y la ciudadanía construyan valores y adquieran conocimientos, aptitudes y habilidades orientados a la defensa y comprensión del ambiente teniendo como fin la prevención de problemas ambientales, para garantizar una mejor calidad de vida y el desarrollo sustentable de los recursos del país.
 
 ###### ARTICULO 4.
 
@@ -886,3 +890,9 @@ P.O. 25 DE ENERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga", por lo que remítase para tal efecto al titular del Poder Ejecutivo del Estado de Querétaro.
+
+P.O. 20 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
