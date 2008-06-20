@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2008-06-09"
+last_updated: "2008-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -54,7 +54,31 @@ El Estado de Morelos, es libre, Soberano e Independiente. Con los límites geogr
 
 El Estado de Morelos reconoce y asegura a todos sus habitantes, el goce de las garantías individuales y sociales contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y, acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123 de la Constitución Fundamental de la República y su legislación derivada.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
+
 En el Estado de Morelos se reconoce como una extensión de la libertad de pensamiento, el derecho de todo individuo para poder acceder a la información pública sin más restricción que los que establezca la intimidad y el interés público de acuerdo con la ley de la materia, así como el secreto profesional, particularmente el que deriva de la difusión de los hechos y de las ideas a través de los medios masivos de comunicación.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+Para el ejercicio del derecho de acceso a la información, el Estado y los municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+
+I. Toda la información en posesión de los poderes públicos, estatales y municipales, órganos autónomos, organismos auxiliares de la administración pública, y en general de cualquier órgano de la administración pública del Estado es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+
+V. La ley de la materia determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que reciban, manejen, apliquen o entreguen a personas físicas o morales.
+
+VI. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+VII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el Instituto Morelense de Información Pública y Estadística.
+
+VIII. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -3617,6 +3641,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El Congreso del Estado de Morelos dispondrá de un término de noventa días naturales para presentar la iniciativa de reformas a la Ley de Participación Ciudadana del Estado de Morelos.
 
 P.O. 9 DE JUNIO DE 2008.
+
+Primero.- Aprobado que sea el presente Decreto por el Pleno del Congreso del Estado, remítase al Constituyente Permanente de la Entidad para los efectos constitucionales correspondientes.
+
+Segundo.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos, previa declaratoria de aprobación por parte del Congreso del Estado.
+
+P.O. 20 DE JUNIO DE 2008.
 
 Primero.- Aprobado que sea el presente Decreto por el Pleno del Congreso del Estado, remítase al Constituyente Permanente de la Entidad para los efectos constitucionales correspondientes.
 
