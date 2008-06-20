@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2007-11-27"
+last_updated: "2008-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3005,7 +3005,7 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 ### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JUNIO DE 2008)</small>
 
 ### CAPITULO VI. Variación del nombre o del domicilio
 
@@ -3475,7 +3475,7 @@ Delitos contra el estado civil y bigamia
 
 ###### ARTICULO 247.
 
-Se impondrá de dos a seis años de prisión y multa de cien a trescientos días multa.
+Se impondrán de dos a seis años de prisión y de cien a trescientos días multa:
 
 > <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -6324,3 +6324,7 @@ D.O.F. 27 DE NOVIEMBRE DE 2007.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
+
+D.O.F. 20 DE JUNIO DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
