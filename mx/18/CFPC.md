@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2003-06-13"
+last_updated: "2008-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -512,9 +512,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2008)</small>
 
-II.- Multa que no exceda de quinientos pesos, y
+II.- Multa que no exceda de sesenta días de salario mínimo general vigente en el Distrito Federal, y
 
 III.- Suspensión de empleo hasta por quince días.
 
@@ -536,9 +536,13 @@ Los jueces, magistrados y ministros podrán ordenar que se subsane toda omisión
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2008)</small>
 
-I.- Multa hasta de mil pesos, y
+I.- Multa hasta por la cantidad de ciento veinte días de salario mínimo general vigente en el Distrito Federal.
+
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso, y
 
 II.- El auxilio de la fuerza pública.
 
@@ -1110,13 +1114,11 @@ Rendidos los dictámenes, dentro de los tres días siguientes del últimamente p
 
 El perito tercero no está obligado a adoptar alguna de las opiniones de los otros peritos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 153.
 
-Si el perito nombrado por una parte no rinde su dictamen, sin causa justificada, designará el tribunal nuevo perito, en substitución del omiso, e impondrá, a éste, una multa hasta de mil pesos. La omisión hará, además, responsable, al perito, de los daños y perjuicios que por ella se ocasionen a la parte que lo nombró.
+Si el perito nombrado por una parte no rinde su dictamen, sin causa justificada, designará el tribunal nuevo perito, en substitución del omiso, e impondrá, a éste, una multa hasta por la cantidad de ciento veinte días de salario mínimo general vigente en el Distrito Federal. La omisión hará, además, responsable, al perito, de los daños y perjuicios que por ella se ocasionen a la parte que lo nombró.
 
 Si el perito de que se trata no rinde su dictamen dentro del plazo que se le fijó, pero sí antes de que se haya hecho el nuevo nombramiento, sólo se le aplicará la multa señalada en el párrafo precedente.
 
@@ -2302,9 +2304,9 @@ Abierta la audiencia, pondrá el tribunal a discusión, en los puntos que estime
 
 Discutida la prueba documental, se pasará a la discusión de la pericial, en los puntos que el tribunal estime necesarios, si hubiere habido discrepancia entre los peritos, concediéndose a éstos el uso de la palabra, sólo una vez, por un término que no excederá de treinta minutos. Si no hubiere habido discrepancia, se pasará a la discusión de la prueba testimonial, la que se llevará a efecto exclusivamente por interrogatorio directo del tribunal a los testigos y a las partes, puestos en formal careo, para el efecto de aclarar los puntos contradictorios observados en sus declaraciones.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2008)</small>
 
-No impedirá la celebración de la audiencia la falta de asistencia de las partes ni la de los peritos o testigos, siendo a cargo de cada parte, en su caso, la presentación de los peritos o testigos que cada una haya designado. La falta de asistencia de los peritos o testigos que el tribunal haya citado para la audiencia, por estimarlo así conveniente, tampoco impedirá la celebración de la audiencia; pero se impondrá a los renuentes una multa hasta de mil pesos.
+No impedirá la celebración de la audiencia la falta de asistencia de las partes ni la de los peritos o testigos, siendo a cargo de cada parte, en su caso, la presentación de los peritos o testigos que cada una haya designado. La falta de asistencia de los peritos o testigos que el tribunal haya citado para la audiencia, por estimarlo así conveniente, tampoco impedirá la celebración de la audiencia; pero se impondrá a los renuentes una multa hasta por la cantidad de ciento veinte días de salario mínimo general vigente en el Distrito Federal.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -3989,3 +3991,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 13 DE JUNIO DE 2003.
 
 UNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JUNIO DE 2008.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
