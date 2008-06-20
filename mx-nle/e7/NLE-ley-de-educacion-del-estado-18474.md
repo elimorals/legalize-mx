@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2008-01-11"
+last_updated: "2008-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -91,7 +91,13 @@ c) Educación indígena: Es la que se ofrece a los grupos indígenas del Estado,
 
 d) Educación para adultos: La que se ofrece a los individuos de quince años o más que no hayan cursado o concluido la educación básica;
 
-e) Educación especial: Está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes;
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+e) Educación especial: Está destinada a individuos con necesidades educativas especiales, con discapacidades transitorias o definitivas, así como a aquellos superdotados o con talento extraordinario, en donde debemos entender por:
+
+Superdotado: Es la niña, niño o adolescente que posea un coeficiente intelectual superior a 130.
+
+Talento Extraordinario: Es la cualidad de toda niña, niño o adolescente que muestre un desempeño extraordinario en una determinada área o tema dentro del ámbito educativo que necesita de programa educativo especial para que alcance su máximo desarrollo profesional;
 
 f) Educación media superior: Comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes;
 
@@ -161,9 +167,17 @@ XV.- Establecer la mejora continua en la calidad de los procesos académicos y a
 
 XVI.- Desarrollar armónicamente la formación humanista, científica y tecnológica del educando;
 
-XVII.- Preparar para la vida acorde a las necesidades actuales y futuras, impulsando y facilitando la adquisición de la cultura informática y las variadas formas de los lenguajes matemático, simbólico y artístico, incluyendo los idiomas extranjeros más usuales que demanda el entorno social, cultural y laboral de la entidad; y
+(REFORMADA, P.O. 20 DE JUNIO DE 2008) (F. DE E., P.O. 2 DE JULIO DE 2008)
 
-XVIII.- Promover además del conocimiento acerca de la entidad y el país, la adquisición de una visión global del mundo.
+XVII.- Preparar para la vida acorde a las necesidades actuales y futuras, impulsando y facilitando la adquisición de la cultura informática y las variadas formas de los lenguajes matemático, simbólico y artístico, incluyendo los idiomas extranjeros más usuales que demanda el entorno social, cultural y laboral de la entidad;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+XVIII.- Promover además del conocimiento acerca de la entidad y el país, la adquisición de una visión global del mundo; y
+
+(ADICIONADA, P.O. 20 DE JUNIO DE 2008) (F. DE E., P.O. 2 DE JULIO DE 2008)
+
+XIX.- Contribuir a la información, prevención, combate y erradicación sobre los efectos nocivos del tabaquismo, drogadicción, alcoholismo y otras enfermedades y adicciones de impacto sociocultural; a fin de que tomen conciencia de los daños que causan a la salud, al bienestar social, moral y económico de las personas.
 
 ###### Artículo 8.
 
@@ -227,15 +241,23 @@ VII.- Establecerán sistemas de educación a distancia;
 
 VIII.- Desarrollarán programas para otorgar becas y demás apoyos económicos a los educandos;
 
-IX.- Efectuarán programas dirigidos a los padres y madres de familia que les permitan dar mejor atención a sus hijos e hijas;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+IX.- Efectuarán, evaluarán y certificarán programas dirigidos a los padres y madres de familia, quienes ejerzan la patria potestad o la tutela del menor, que les permitan dar mejor atención a los educandos;
 
 X.- Otorgarán estímulos a las asociaciones civiles y cooperativas de maestros que se dediquen a la enseñanza;
 
 XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere esta sección;
 
-XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en los Artículos 13 y 14 de la presente Ley; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
-XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en los Artículos 13 y 14 de la presente Ley.
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en los Artículos 13 y 14 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+XIII.- Implementarán acciones encaminadas a la detección de educandos con necesidades educativas especiales; y
+
+XIV.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en los Artículos 13 y 14 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
@@ -263,7 +285,19 @@ La autoridad educativa estatal proporcionará al personal docente los medios que
 
 La autoridad educativa estatal apoyará a las instituciones educativas públicas que desarrollen programas y proyectos de innovación para mejorar la calidad; y brindará asesoría técnico-pedagógica a las instituciones educativas particulares para el mismo fin.
 
-#### SECCIÓN 1. DE LA ORGANIZACIÓN Y ESTRUCTURA
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE JUNIO DE 2008)</small>
+
+#### SECCIÓN 3. DE LA SEGURIDAD EN LAS ESCUELAS
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+###### Artículo 20 Bis.
+
+La autoridad educativa estatal deberá coordinarse con las autoridades municipales, estatales y federales competentes para:
+
+I.- Salvaguardar la integridad física de los educandos en las escuelas, especialmente en los casos de educación inicial y básica y;
+
+II.- Que en el interior o en los alrededores de los planteles educativos no se distribuyen o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EDUCATIVA
 
@@ -333,9 +367,11 @@ XIII.- Las demás que con tal carácter establezca esta Ley y otras disposicione
 
 El Gobierno Estatal celebrará convenios con el Ejecutivo Federal para coordinar o unificar las actividades educativas a las que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, le confiere el Artículo 13 de la Ley General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### Artículo 23.
 
-Cada Ayuntamiento podrá, sin perjuicio de la concurrencia de las autoridades educativas federales y estatales, desarrollar las siguientes actividades:
+Cada Ayuntamiento deberá, sin perjuicio de la concurrencia de las autoridades educativas federales y estatales, desarrollar las siguientes actividades:
 
 I.- Promover y prestar servicios educativos de cualquier tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones IV a VII del Artículo 22;
 
@@ -351,7 +387,9 @@ V.- Crear y apoyar programas de servicio social que tiendan a beneficiar a la co
 
 VI.- Auxiliar al Ejecutivo del Estado en el cumplimiento de esta Ley;
 
-VII.- No permitir el establecimiento de cantinas, billares, prostíbulos u otros establecimientos que perjudiquen la formación de los educandos, en un radio no menor de 200 metros de las escuelas; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+VII.- Prohibir el establecimiento de cantinas, billares, prostíbulos u otros establecimientos que perjudiquen la formación de los educandos, en un radio no menor de 200 metros de las escuelas; y
 
 VIII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
@@ -365,7 +403,7 @@ Las autoridades educativas, federal y estatal, se reunirán periódicamente con 
 
 ### CAPÍTULO III. DEL SISTEMA EDUCATIVO ESTATAL
 
-#### SECCIÓN 2. DE LA PLANEACIÓN DE LA EDUCACIÓN
+#### SECCIÓN 1. DE LA ORGANIZACIÓN Y ESTRUCTURA
 
 ###### Artículo 25.
 
@@ -411,7 +449,7 @@ El sostenimiento de dichas escuelas comprende la obligación patronal de proporc
 
 La autoridad educativa estatal podrá celebrar con los patrones convenios para el cumplimiento de las obligaciones que señala el presente Artículo.
 
-#### SECCIÓN 3. DEL FINANCIAMIENTO DE LA EDUCACIÓN
+#### SECCIÓN 2. DE LA PLANEACIÓN DE LA EDUCACIÓN
 
 ###### Artículo 30.
 
@@ -431,9 +469,13 @@ II.- Apoyarse en los planes nacional y estatal de desarrollo, en los diagnóstic
 
 III.- Tomar en cuenta las propuestas de los diversos sectores involucrados en la educación así como la de los Consejos de participación social, para mejorar la calidad de la educación;
 
-IV.- Formularse con visión a largo plazo, contemplando el período de transición de los alumnos y alumnas desde educación inicial hasta la educación superior; e
+IV.- Formularse con visión a largo plazo, contemplando el período de transición de los alumnos y alumnas desde educación inicial hasta la educación superior; e (sic)
 
-V.- Incluir en su estructura, entre otros, los siguientes elementos: Diagnóstico del sistema educativo estatal, estrategias de acción y mecanismos de seguimiento y evaluación.
+V.- Incluir en su estructura, entre otros, los siguientes elementos: Diagnóstico del sistema educativo estatal, estrategias de acción y mecanismos de seguimiento y evaluación;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+VI.- Establecer mecanismos efectivos para identificar, valorar, apoyar e integrar oportunamente y de manera productiva en la sociedad a los alumnos de educación especial.
 
 Podrá ser modificado en el transcurso de su aplicación con la participación de los organismos, instituciones y demás instancias que contribuyeron en su elaboración, cuando las necesidades del entorno social y educativo así lo requieran.
 
@@ -453,9 +495,7 @@ En las actividades de supervisión e inspección las autoridades educativas dar�
 
 La autoridad educativa estatal integrará un sistema de información que contenga una base de datos actualizada y los indicadores necesarios para la planeación educativa.
 
-#### SECCIÓN 4. DE LA EDUCACIÓN INICIAL, LA BÁSICA Y LA ESPECIAL
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+#### SECCIÓN 3. DEL FINANCIAMIENTO DE LA EDUCACIÓN
 
 ###### Artículo 36.
 
@@ -489,7 +529,9 @@ El Ejecutivo Estatal podrá gestionar en beneficio de la educación, la obtenci�
 
 Son de interés social las inversiones que en materia educativa realicen el Estado -Federación, Entidad federativa y Municipios-, sus organismos descentralizados y los particulares.
 
-#### SECCIÓN 5. DE LA EDUCACIÓN MEDIA SUPERIOR
+#### SECCIÓN 4. DE LA EDUCACIÓN INICIAL, LA BÁSICA Y LA ESPECIAL
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 42.
 
@@ -525,23 +567,31 @@ La educación secundaria comprende tres grados educativos. Se orienta por el pla
 
 La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las necesidades de la población rural dispersa y a las características lingüísticas y culturales de cada uno de los grupos indígenas y migratorios que habitan en el estado. Para tal efecto, se promoverá entre estos últimos la educación bilingüe e intercultural, con libros y materiales didácticos, además del español en su lengua materna.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### Artículo 49.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como aquellos con aptitudes sobresalientes. Deberá atender al alumnado de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a individuos con necesidades educativas especiales debidas a discapacidades transitorias o definitivas, así como aquellos superdotados, con talentos extraordinarios o aptitudes sobresalientes.
 
-Tratándose de menores de edad con necesidades educativas especiales, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
+Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales. La capacitación estará a cargo de la Secretaría de Educación del Estado y de los Centros o Programas Educativos Especializados.
 
-Esta educación incluye orientación a los padres y madres o tutores, así como también a maestros y maestras y personal de escuelas de educación básica regular que integren alumnos o alumnas con necesidades especiales de educación.
+La atención que brinden los Centros o los Programas Educativos Especializados será gratuita y atenderá, orientará y apoyará tanto a los alumnos con necesidades educativas especiales como a los padres o a quien ejerza la patria potestad o tutela.
+
+Para apoyar el desarrollo pleno de los alumnos con necesidades educativas especiales deberán establecerse programas educativos adecuados a su edad, madurez y potencial cognoscitivo, encaminados a aprovechar toda su capacidad, proporcionando el Estado los medios materiales, técnicos y económicos necesarios para su máximo desarrollo personal y profesional, ampliando las oportunidades para su formación integral, evitando cualquier acto de discriminación que impida su desarrollo, de conformidad con los conocimientos interdisciplinarios más avanzados que se hayan desarrollado a este respecto.
+
+En el caso de personas con discapacidad, la educación deberá atender lo dispuesto en la Ley para las Personas con Discapacidad del Estado de Nuevo León.
 
 ###### Artículo 50.
 
 Para cumplir con los fines de la educación especial, la autoridad educativa estatal deberá ampliar gradualmente este servicio a todos los niveles de educación básica, asignando a cada escuela donde exista la necesidad, un equipo interdisciplinario conformado entre otros por maestros y maestras especialistas, psicólogos y psicólogas, así como, trabajadores y trabajadoras sociales que apoyen el proceso de integración escolar de los alumnos y alumnas con necesidades educativas especiales.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### Artículo 51.
 
-Los niños, niñas y jóvenes con capacidades y aptitudes sobresalientes, serán atendidos de manera adecuada a sus condiciones con el fin de promover la satisfacción de sus necesidades de aprendizaje. Además, se establecerán mecanismos que favorezcan su movilidad escolar con base en la reglamentación que expidan las autoridades educativas federal y estatal.
+Los niños, niñas y adolescentes con necesidades educativas especiales deberán ser atendidos de manera adecuada a sus condiciones con el fin de promover la satisfacción de sus necesidades de aprendizaje. Además, se establecerán mecanismos que favorezcan su movilidad escolar con base en la reglamentación que expidan las autoridades educativas federal y estatal.
 
-#### SECCIÓN 6. DE LA EDUCACIÓN SUPERIOR
+#### SECCIÓN 5. DE LA EDUCACIÓN MEDIA SUPERIOR
 
 ###### Artículo 52.
 
@@ -561,7 +611,7 @@ II.- Será terminal la que ofrezca una preparación que permita a quienes egrese
 
 III.- Será bivalente la que atienda al carácter terminal sin dejar de ser propedéutica.
 
-#### SECCIÓN 7. DE LA EDUCACIÓN PARA ADULTOS Y LA FORMACIÓN PARA EL TRABAJO
+#### SECCIÓN 6. DE LA EDUCACIÓN SUPERIOR
 
 ###### Artículo 55.
 
@@ -605,7 +655,7 @@ Los estudiantes del nivel de licenciatura deberán prestar servicio social en lo
 
 El servicio social se efectuará en actividades relacionadas con la formación profesional del estudiantado y con una orientación de beneficio social.
 
-#### SECCIÓN 8. DE LA FORMACIÓN, ACTUALIZACIÓN Y SUPERACIÓN DE DOCENTES
+#### SECCIÓN 7. DE LA EDUCACIÓN PARA ADULTOS Y LA FORMACIÓN PARA EL TRABAJO
 
 ###### Artículo 59.
 
@@ -629,7 +679,7 @@ La formación para el trabajo procurará la adquisición de conocimientos, habil
 
 La educación para adultos y la formación para el trabajo se orientarán hacia la educación permanente, entendida como un proceso que busca mejorar la formación de las personas mediante diversas modalidades educativas. Se caracteriza por ser continua, integral, de calidad y por reconocer los saberes adquiridos fuera del sistema escolar.
 
-#### SECCIÓN 1. DEL ALUMNADO
+#### SECCIÓN 8. DE LA FORMACIÓN, ACTUALIZACIÓN Y SUPERACIÓN DE DOCENTES
 
 ###### Artículo 63.
 
@@ -663,7 +713,7 @@ La autoridad educativa estatal prestará los servicios de actualización, capaci
 
 El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres, madres de familia e instituciones públicas y privadas.
 
-#### SECCIÓN 2. DEL PERSONAL DOCENTE
+#### SECCIÓN 1. DEL ALUMNADO
 
 ###### Artículo 68.
 
@@ -685,7 +735,7 @@ V.- Integrar sociedades de alumnos y alumnas para fortalecer la cultura de parti
 
 El alumnado del sistema educativo estatal deberá, en relación con su edad y nivel educativo, cumplir con las disposiciones que para ellos sean señaladas en la normatividad emitida por las autoridades educativas correspondientes.
 
-#### SECCIÓN 3. DE LA GESTIÓN ESCOLAR
+#### SECCIÓN 2. DEL PERSONAL DOCENTE
 
 ###### Artículo 70.
 
@@ -727,9 +777,7 @@ II.- Fomentarán una mayor socialización con los alumnos para reforzar la labor
 
 III.- Desarrollarán actividades que propicien su integración con la comunidad.
 
-#### SECCIÓN 4. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+#### SECCIÓN 3. DE LA GESTIÓN ESCOLAR
 
 ###### Artículo 74.
 
@@ -747,7 +795,9 @@ Las autoridades educativas escolares, en sus respectivos ámbitos de competencia
 
 La autoridad educativa estatal fomentará las condiciones de liderazgo en el aula, en la dirección, supervisión e inspección escolar, y será el responsable directo de la mejora continua en el sistema educativo, satisfaciendo las necesidades básicas del aprendizaje.
 
-#### SECCIÓN 5. DE LA EVALUACIÓN
+#### SECCIÓN 4. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 78.
 
@@ -765,9 +815,7 @@ La autoridad educativa estatal propondrá para su consideración y, en su caso, 
 
 Para lograr los fines y objetivos de la educación, se promoverá la utilización de metodologías de la enseñanza y el aprendizaje centradas en la participación activa del alumnado, la interacción social y el respeto a sus necesidades educativas.
 
-#### SECCIÓN 6. DEL CALENDARIO ESCOLAR
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2008)</small>
+#### SECCIÓN 5. DE LA EVALUACIÓN
 
 ###### Artículo 82.
 
@@ -791,7 +839,9 @@ La evaluación de los educandos comprenderá la medición en lo individual de lo
 
 Las instituciones deberán informar periódicamente a los educandos y, en su caso, a los padres y madres de familia o tutores, los resultados y calificaciones de los exámenes parciales y finales, así como, de haberlas, aquéllas observaciones sobre el desempeño académico de los propios educandos que permitan lograr mejores aprovechamientos.
 
-#### SECCIÓN 7. DE LOS EDIFICIOS Y MATERIALES EDUCATIVOS
+#### SECCIÓN 6. DEL CALENDARIO ESCOLAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 86.
 
@@ -819,7 +869,7 @@ El calendario escolar aplicable en la entidad deberá ser publicado en el Perió
 
 El calendario escolar para los servicios educativos no previstos por la autoridad educativa federal, será establecido por la autoridad educativa estatal, teniendo en cuenta la normatividad aplicable.
 
-#### SECCIÓN 1. DE LOS PADRES Y MADRES DE FAMILIA
+#### SECCIÓN 7. DE LOS EDIFICIOS Y MATERIALES EDUCATIVOS
 
 ###### Artículo 90.
 
@@ -853,11 +903,11 @@ Lo anterior podrán solicitarlo las asociaciones de padres de familia del plante
 
 El equipo y mobiliario que se adquiera en las escuelas públicas con aportaciones de los padres y madres de familia, donaciones o mediante fondos provenientes de los ingresos propios de la escuela, pasarán a formar parte del patrimonio del Gobierno del Estado en el momento en que se reciban en el plantel y deberán registrarse formalmente en el inventario escolar en un plazo máximo de 30 días.
 
-#### SECCIÓN 2. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+#### SECCIÓN 1. DE LOS PADRES Y MADRES DE FAMILIA
 
 ### CAPÍTULO V. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
-#### SECCIÓN 3. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+#### SECCIÓN 2. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
 ###### Artículo 92.
 
@@ -899,7 +949,9 @@ V.- Colaborar con el personal docente en el diagnóstico y atención de las difi
 
 VI.- Asegurar que sus hijos e hijas o pupilos cumplan con las tareas y compromisos escolares;
 
-VII.- Asistir a las juntas de información convocadas por la escuela; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+VII.- Asistir a las juntas de información convocadas por la escuela, así como participar en los programas encaminados a la mejor atención y apoyo a los educandos; y
 
 VIII.- Abstenerse, por cualquier medio, de interrumpir o impedir el servicio educativo en los planteles.
 
@@ -909,7 +961,7 @@ VIII.- Abstenerse, por cualquier medio, de interrumpir o impedir el servicio edu
 
 En caso de incumplimiento de las obligaciones a que se refiere el artículo anterior, la dirección de la escuela del alumno, hará una evaluación de las causas de la no asistencia, invitando a quienes ejerzan la patria potestad o la tutela, para que participen en las pláticas de orientación y apoyo.
 
-#### SECCIÓN 4. DE LOS MEDIOS DE COMUNICACIÓN
+#### SECCIÓN 3. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
 ###### Artículo 94.
 
@@ -939,7 +991,7 @@ Las incidencias que surjan respecto al funcionamiento de las asociaciones de pad
 
 La organización y funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetará a las disposiciones que la autoridad educativa señale.
 
-#### SECCIÓN 1. DE LAS INFRACCIONES Y SANCIONES
+#### SECCIÓN 4. DE LOS MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 97.
 
@@ -971,7 +1023,7 @@ En la entidad funcionará un consejo estatal de participación social en la educ
 
 Los consejos de participación a que se refiere esta sección, se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-#### SECCIÓN 2. DEL RECURSO ADMINISTRATIVO
+#### SECCIÓN 1. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 102.
 
@@ -1031,7 +1083,13 @@ II.- Cumplir con los planes y programas de estudio que las autoridades educativa
 
 III.- Utilizar los libros de texto gratuitos y demás materiales didácticos que la autoridad educativa determine para la educación básica obligatoria;
 
-IV.- Proporcionar un mínimo de becas en los términos de los lineamientos generales que la autoridad que otorgue las autorizaciones o reconocimientos, haya determinado;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+IV.- Proporcionar un mínimo del cinco por ciento de becas del total de la matrícula del período escolar correspondiente, a los alumnos que cursen la educación básica y especial.
+
+Esta disposición se aplicará también a las escuelas e institutos técnicos que cuenten con reconocimiento oficial por parte de la Secretaría de Educación Estatal.
+
+La Secretaría de Educación Estatal, por conducto de la autoridad competente, vigilará la asignación del número de becas a que se refiere esta fracción, en los términos del Reglamento correspondiente;
 
 V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que la autoridad educativa estatal o escolar realice u ordene. En lo relativo a las preparatorias abiertas, la autoridad educativa estatal será la que realice la evaluación; y
 
@@ -1093,6 +1151,8 @@ La autoridad educativa estatal, en concordancia con la autoridad educativa feder
 
 ### CAPÍTULO VIII. DE LAS INFRACCIONES, SANCIONES Y EL RECURSO ADMINISTRATIVO
 
+#### SECCIÓN 2. DEL RECURSO ADMINISTRATIVO
+
 ###### Artículo 120.
 
 Son infracciones de quienes prestan servicios educativos:
@@ -1111,7 +1171,9 @@ V.- No utilizar los libros de texto y materiales educativos que la autoridad edu
 
 VI.- Dar a conocer antes de su aplicación los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación a quienes habrán de presentarlos;
 
-VII.- Incurrir en conductas que pongan en riesgo la salud o la seguridad del alumnado;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+VII.- Incurrir en conductas que pongan en riesgo la salud, la seguridad del alumnado e incumplir con lo establecido en la Sección 3 denominado "de la Seguridad en las Escuelas” del Capítulo I de esta Ley;
 
 VIII.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna;
 
@@ -1280,3 +1342,9 @@ Artículo Único: El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 11 DE ENERO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Centros o los Programas Educativos Especializados señalados en el Artículo 49, deberán iniciar operaciones a partir del inicio del ciclo escolar 2009 - 2010, o sujeto a la disponibilidad presupuestal conforme a la Ley de Egresos de ese año.
