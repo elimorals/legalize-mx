@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2008-03-11"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -289,9 +289,13 @@ I.- Se establecerá un monto global compuesto por los recursos estimados, señal
 
 II.- La población y la Superficie Territorial, serán proporcionados en forma oficial por el I.N.E.G.I. y se sujetarán a los resultados del último censo de población y vivienda.
 
-III.- Los datos de la Recaudación de Agua y Predial serán los que proporcione la Comisión de Agua Potable y Alcantarillado y la Contaduría Mayor de Hacienda del Congreso, respectivamente.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
-IV.- Los factores de distribución a que se refiere la fracción III del presente artículo, serán los del ejercicio inmediato anterior al año de la correspondiente distribución.
+III.- Los datos de la Recaudación del Impuesto Predial de los Municipios serán los que proporcione el Órgano Superior de Fiscalización del Estado.
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+IV.- El factor de distribución a que se refiere la fracción III del presente artículo, será el del ejercicio inmediato anterior al año de la correspondiente distribución.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2008)</small>
 
@@ -303,11 +307,17 @@ I.- El 45% se distribuirá en relación directa al número de habitantes de cada
 
 II.- El 25% será distribuido en partes iguales, para cada Municipio.
 
-III.- El 10% se distribuirá en relación a la inversa de la Recaudación del Agua por Municipio.
+III. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
 IV.- El 5% será distribuido en relación directa a la Recaudación del Impuesto Predial por Municipio.
 
-V.- El 15% se distribuirá en relación a la inversa de la superficie Territorial comprendida en cada Municipio.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+V.- El 15% se distribuirá en proporción directa de la superficie territorial que le corresponda a cada Municipio.
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+VI.- El 10% se distribuirá en relación a los ingresos propios de cada Municipio.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2008)</small>
 
@@ -321,13 +331,25 @@ I. El 70 % se distribuirá en relación directa al número de habitantes de cada
 
 II. El 13.8% será distribuido en partes iguales, para cada Municipio.
 
-III. El 5.4 % se distribuirá en relación a la inversa de la recaudación del agua por Municipio.
+III. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
 IV. El 2.7 % será distribuido en relación directa a la recaudación de Impuesto Predial por Municipio.
 
-V. El 8.1 % se distribuirá en relación a la inversa de la superficie territorial comprendida en cada Municipio.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+V. El 8.1 % se distribuirá en proporción directa de la superficie territorial que le corresponda a cada municipio.
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+VI. El 5.4% se distribuirá en relación a los ingresos propios de cada
+
+Municipio.
 
 La base para la determinación de estos coeficientes será el importe de los fondos comprendidos en el Artículo 5º, fracción II de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione la Secretaria de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+ARTICULO 8°B.- Los factores y sus variables aplicados hasta el mes de mayo del 2008 serán aplicables para los recursos participables a los municipios hasta por un monto igual al total distribuido durante el ejercicio fiscal 2007.
 
 ###### ARTICULO 9º.
 
@@ -760,3 +782,13 @@ P.O. 11 DE MARZO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo, sin perjuicio de la aplicación del mismo a partir del día primero de junio del 2008.
+
+SEGUNDO. Las participaciones que correspondan al Municipio de Tulum, en lo que respecta a los meses de junio a diciembre del presente ejercicio fiscal serán las que resulten de aplicar el 50% al monto determinado por el coeficiente que resulte de los factores establecidos en los artículos 8° y 8°-A de la presente Ley, debiendo redistribuirse el otro 50% entre los ocho municipios restantes, proporcionalmente de acuerdo al coeficiente que les corresponda.
+
+TERCERO. Con el ánimo de procurar la menor afectación a los programas y presupuestos autorizados por cada uno de los ocho Municipios previamente existentes, el Ejecutivo del Estado hará una aportación extraordinaria durante el período de junio a diciembre de 2008, de hasta $4'000,000.00 (CUATRO MILLONES DE PESOS 00/100 MON. NAL.) que serán distribuidos entre los ocho Municipios previamente existentes, en forma proporcional de acuerdo al coeficiente que les corresponda.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
