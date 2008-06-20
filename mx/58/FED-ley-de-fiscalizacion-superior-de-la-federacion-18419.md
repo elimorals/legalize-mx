@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fiscalizacion-superior-de-la-federacion-18419"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2007-08-30"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-12-27"
 
 LEY DE FISCALIZACION SUPERIOR DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
 
@@ -783,9 +783,11 @@ El Auditor Superior de la Federación podrá adscribir orgánicamente las unidad
 
 La Auditoría Superior de la Federación deberá establecer un servicio civil de carrera, que permita la objetiva y estricta selección de sus integrantes, mediante exámenes de ingreso y que en atención a su capacidad, eficiencia, calidad y sujeción a los ordenamientos legales aplicables, garantice, a través de evaluaciones periódicas, su permanencia y la excelencia en la prestación del servicio a su cargo.
 
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2008)</small>
+
 ###### Artículo 86.
 
-La Auditoría Superior de la Federación elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el Auditor Superior de la Federación a la Junta de Coordinación Política de la Cámara para su inclusión en el Proyecto de Presupuesto de Egresos de la Federación. La Auditoría Superior de la Federación ejercerá autónomamente, con sujeción a las disposiciones aplicables, su presupuesto aprobado.
+La Auditoría Superior de la Federación elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el Auditor Superior de la Federación a la Comisión a más tardar el 15 de agosto, para su inclusión en el Proyecto de Presupuesto de Egresos de la Federación. La Auditoría Superior de la Federación ejercerá autónomamente, con sujeción a las disposiciones aplicables, su presupuesto aprobado.
 
 ###### Artículo 87.
 
@@ -904,3 +906,7 @@ D.O.F. 4 DE ABRIL DE 2005.
 D.O.F. 30 DE AGOSTO DE 2007.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JUNIO DE 2008.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
