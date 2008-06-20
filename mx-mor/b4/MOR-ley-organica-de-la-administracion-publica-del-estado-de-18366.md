@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-18366"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2003-09-03"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 29 de septiembre de 2000.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el 29 de septiembre de 2000.
 
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.
 
@@ -247,11 +247,19 @@ IX. Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-X. Secretaría de la Contraloría; y
+X. Secretaría de la Contraloría; y (sic)
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-XI. Procuraduría General de Justicia.
+XI. Procuraduría General de Justicia;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+XII. Secretaría de Desarrollo Humano y Social;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+XIII. Secretaría del Trabajo y Productividad.
 
 Para los mismos fines, se auxiliará de las siguientes dependencias:
 
@@ -333,7 +341,7 @@ XXV. Asesorar al Gobernador del Estado en la elaboración de convenios que celeb
 
 XXVI. Establecer el Calendario Oficial del Gobierno del Estado;
 
-XXVII. Conducir la política laboral de los diversos sectores sociales y productivos en la entidad, así como ejercer facultades de designación y coordinación de los organismos de justicia laboral;
+XXVII. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
 XXVIII. Coordinar de manera oportuna la atención a las demandas ciudadanas y de las consultas ciudadanas en términos de lo previsto por el artículo 19 bis de la Constitución Política del Estado de Morelos;
 
@@ -357,15 +365,15 @@ A la Secretaría de Finanzas y Planeación le corresponde el despacho de los sig
 
 I. Proponer e instrumentar la política fiscal del Estado, tomando en cuenta los convenios celebrados por el Ejecutivo con la Federación y los ayuntamientos, así como las disposiciones jurídicas sobre la materia;
 
-II. Definir, organizar y coordinar el Sistema Estatal de Planeación Democrática en sus distintas vertientes;
+II. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
-III. Elaborar, con la participación de las dependencias y entidades del sector público, el Plan Estatal de Desarrollo, los programas regionales e intersectoriales, así como cualquier otro programa que determine el Gobernador del Estado;
+III. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
 IV. Coordinar la convergencia de acciones entre los programas del sector público estatal, el Gobierno Federal y los municipios de la entidad, así como proporcionar los recursos financieros que correspondan al gobierno local;
 
-V. Verificar la congruencia de los programas sectoriales e institucionales con el Plan Estatal de Desarrollo, así como aprobar estos últimos;
+V. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
-VI. Promover la participación de los sectores social y privado de la entidad en el Sistema Estatal de Planeación Democrática, así como inducir el establecimiento de compromisos en actividades conjuntas o con la participación exclusiva de éstos;
+VI. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
 VII. Prestar asesoría y asistencia técnica a los municipios en la elaboración de planes, programas y presupuestos, así como en la evaluación de resultados. Tales servicios se otorgarán a solicitud expresa de los ayuntamientos y por conducto del Instituto de Finanzas Públicas y Federalismo Hacendario;
 
@@ -839,6 +847,78 @@ XVII. Ejercer todas aquellas facultades que le confiere la ley de Responsabilida
 
 XVIII. Las demás que señalen las disposiciones jurídicas o le delegue el Titular del Ejecutivo por mandato específico.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+ARTÍCULO 34 BIS.- A la Secretaría de Desarrollo Humano y Social le corresponde el despacho de los siguientes asuntos:
+
+I. Formular, conducir y evaluar la política general de desarrollo social y humano para el combate efectivo a la pobreza; el impulso al deporte; el ejercicio de los programas sociales de beneficio comunitario y de desarrollo social;
+
+II. Proyectar y coordinar, con la participación que corresponda a las dependencias y entidades de la administración pública estatales y municipales, la planeación regional;
+
+III. Coordinar las acciones que incidan en el combate a la pobreza fomentando un mejor nivel de vida, en lo que el Ejecutivo Estatal convenga con las dependencias y entidades estatales y municipales, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento y control;
+
+IV. Elaborar los programas sectoriales, regionales y especiales que le señale el Ejecutivo Estatal, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública estatales y municipales, que cumplen con el programa operativo anual, la Ley de Ingresos y el Presupuesto de Egresos;
+
+V. Administrar los fondos públicos que le asigne el Ejecutivo Estatal destinados a los sectores sociales cuya función le corresponda;
+
+VI. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Estatal correspondientes y de los gobiernos municipales y, con la participación de los sectores social y privado;
+
+VII. Coordinar con las instituciones de estadística y demografía el ejercicio de los programas sobre ordenación territorial de los centros de población, cuya opinión se le solicite conjuntamente con las dependencias y entidades de la Administración Pública Estatal que corresponda;
+
+VIII. Promover y concertar programas de vivienda, desarrollo sustentable y el ejercicio de los programas sociales para comunidades e individuos en situación de desventaja, con la participación de los gobiernos municipales, y los diversos grupos sociales;
+
+IX. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, los programas para migrantes y los sociales que el Ejecutivo del Estado le encomiende y aquellos que los municipios deseen convenir para su mejor ejercicio o desarrollo;
+
+X. Desarrollar y coordinar los programas sociales y humanistas que impulsen el desarrollo social en el Estado;
+
+XI. Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+ARTÍCULO 34 TER.- A la Secretaría del Trabajo y Productividad le corresponde el despacho de los siguientes asuntos:
+
+I. Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el Artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en sus reglamentos, así como las que regulen las relaciones del Gobierno del Estado con sus trabajadores;
+
+II. Conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos en la Entidad, así como ejercer facultades de designación y coordinación de los organismos de justicia laboral;
+
+III. Atender y resolver los asuntos que conforme a la Ley Federal del Trabajo le competen al Ejecutivo Estatal;
+
+IV. Atender los asuntos encomendados a las entidades sectorizadas, que así lo ameriten;
+
+V. Proponer al titular del Ejecutivo los proyectos de iniciativas de ley, reglamentos, decretos, acuerdos y disposiciones de carácter general sobre asuntos de naturaleza laboral;
+
+VI. Coordinar el establecimiento y la integración de la Junta Local de Conciliación y Arbitraje del Estado de Morelos, de las Juntas Especiales de la Local de Conciliación y Arbitraje del Estado y del Tribunal Estatal de Conciliación y Arbitraje del Estado de Morelos; asimismo proponer a dichas autoridades laborales, en estricto respeto a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la administración de justicia laboral en el Estado;
+
+VII. La creación y presidencia, en su caso, de las comisiones o comités transitorios o permanentes necesarios para la mejor atención de los asuntos de naturaleza laboral;
+
+VIII. Intervenir conciliatoriamente en los conflictos que se deriven de la aplicación y administración de los contratos colectivos de trabajo, recomendando el cumplimiento y la observancia de las disposiciones legales, reglamentarias y condiciones de trabajo pactadas;
+
+IX. Procurar la conciliación de los conflictos laborales colectivos o individuales, con el objeto de que las partes resuelvan sus diferencias mediante la celebración de convenios;
+
+X. Vigilar que se proporcione asesoría gratuita en materia laboral a los sindicatos y trabajadores que así lo soliciten, por conducto de la Procuraduría Estatal de la Defensa del Trabajo o de la unidad administrativa que para tal efecto se designe;
+
+XI. Participar en la planeación de la capacitación y adiestramiento de los trabajadores de la Entidad a través de la Unidad Administrativa o del Organismo Público sectorizado correspondiente, para cumplir lo establecido en la Ley Federal del Trabajo en sus artículos 153-A al 153-X;
+
+XII. Vigilar la instalación y funcionamiento de las comisiones obrero patronales que ordene la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
+
+XIII. Promover el incremento de la productividad del trabajo en el territorio estatal en coordinación con la secretaría encargada del sector económico en la entidad;
+
+XIV. Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del Estado, en coordinación con otras dependencias;
+
+XV. Actualizar a partir de su registro, la información estadística de los sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales y profesionales, la cual será pública en términos de la ley de la materia;
+
+XVI. Suscribir convenios y acuerdos de colaboración con autoridades, instituciones u organizaciones federales, estatales o municipales, con el objeto de fortalecer la cultura laboral en la entidad apegada al marco legal correspondiente, así como elaborar, implementar y ejecutar planes y programas para el desarrollo y promoción del empleo;
+
+XVII. Promover en coordinación con las autoridades competentes, la integración laboral de personas pertenecientes a grupos vulnerables, así como de aquellas recluidas en los centros de readaptación social;
+
+XVIII. Fungir como órgano de consulta ante los sectores productivos de la entidad encaminadas a mantener la estabilidad laboral;
+
+XIX. Llevar las estadísticas estatales correspondientes a la materia del trabajo, de acuerdo con las disposiciones jurídicas aplicables;
+
+XX. Promover la cultura y recreación entre los trabajadores morelenses y sus familias, y
+
+XXI. Las demás que señalen expresamente las leyes y reglamentos vigentes en el Estado o le delegue el titular del Poder Ejecutivo.
+
 ###### ARTÍCULO 35.
 
 A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
@@ -935,21 +1015,23 @@ XXIII. Las demás que señalen las disposiciones jurídicas del Estado o le dele
 
 ### CAPÍTULO PRIMERO. DE LOS ORGANISMOS ADMINISTRATIVOS
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
-
 ###### ARTÍCULO 37.
 
-Para orientar, regular, establecer e impulsar los lineamientos de política laboral en el Estado, habrá una Subsecretaría encargada de la atención del trabajo y la previsión social, dependiente de la Secretaría de Gobierno; dependencia que además se encargará de vigilar el cumplimiento de la normatividad de la materia respecto de la capacitación y previsión social de los trabajadores.
+(DEROGADO, P.O. 20 DE JUNIO DE 2008)
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 38.
 
-A efecto de proveer mecanismos de conciliación y defensa de los intereses de los trabajadores, existirá la Procuraduría Estatal de Defensa del Trabajo, que dependerá directamente del Secretario de Gobierno.
+A efecto de proveer mecanismos de conciliación y defensa de los intereses de los trabajadores, existirá la Procuraduría Estatal de Defensa del Trabajo, que dependerá directamente del Secretario del Trabajo y Productividad.
 
 ### CAPÍTULO SEGUNDO. DE LOS ORGANISMOS DE JUSTICIA LABORAL
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 39.
 
-Con el propósito de satisfacer los requerimientos de la Ley Federal del Trabajo, se establece la Junta Local de Conciliación y Arbitraje, así como el Tribunal Estatal de Conciliación y Arbitraje, los que se encargarán de administrar justicia en el ámbito de su competencia, conforme a lo dispuesto en los apartados A y B del Artículo 123 de la Constitución General de la República, respectivamente; organismos que dependerán de la Secretaría de Gobierno y que se integrarán y serán competentes en términos de lo dispuesto en la Ley Federal del Trabajo y la Ley del Servicio Civil del Estado de Morelos.
+Con el propósito de satisfacer los requerimientos de la Ley Federal del Trabajo, se establece la Junta Local de Conciliación y Arbitraje, así como el Tribunal Estatal de Conciliación y Arbitraje, los que se encargarán de administrar justicia en el ámbito de su competencia, conforme a lo dispuesto en los apartados A y B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente; organismos que dependerán de la Secretaría del Trabajo y Productividad, se integrarán y serán competentes en términos de lo dispuesto en la Ley Federal del Trabajo y la Ley del Servicio Civil del Estado de Morelos.
 
 ###### ARTÍCULO 40.
 
@@ -959,11 +1041,11 @@ Serán del conocimiento y resolución del Tribunal Estatal de Conciliación y Ar
 
 Los Tribunales a que se refiere el artículo anterior tendrán autonomía plena para ejercer sus funciones y dictar sus resoluciones.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 42.
 
-Para el desempeño de los Tribunales que comprende este Titulo, el Ejecutivo del Estado proporcionará el apoyo administrativo necesario, por conducto de las Secretarías de Gobierno y de Finanzas y Planeación, así como de la Oficialía Mayor.
+Para el desempeño de los Tribunales que comprende este Título, el Ejecutivo del Estado proporcionará el apoyo administrativo necesario, por conducto de las Secretarías del Trabajo y Productividad, y de Finanzas y Planeación, así como de la Oficialía Mayor.
 
 ###### ARTÍCULO 43.
 
@@ -1118,3 +1200,45 @@ P.O. 3 DE SEPTIEMBRE DE 2003.
 PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 20 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo de 60 días hábiles el Ejecutivo Estatal expedirá el Reglamento Interno de la Secretaría de Desarrollo Humano y Social; en su mismo Decreto de reglamentación se reformarán y adicionarán todos los Reglamentos, Decretos y Acuerdos de las dependencias y entidades cuya sectorización quedará integrada a la nueva Secretaría que se crea, a efecto de hacer operables las reformas contenidas en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado transferirá los recursos humanos, materiales y financieros, a la Secretaria de Desarrollo Humano y Social, la cual la cual en el plazo de sesenta días hábiles regularizará la situación jurídica y administrativa de los mismos para su correcta operación.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo de 60 días hábiles el Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría del Trabajo y Productividad, así como las reformas y ajustes a los reglamentos, decretos y acuerdos del Poder Ejecutivo, para hacer operables las reformas contenidas en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor del presente Decreto, la Secretaria de Gobierno transferirá los recursos humanos, materiales y financieros, a la Secretaria del Trabajo y Productividad, la cual en el plazo de sesenta días hábiles regularizará la situación jurídica y administrativa de los mismos para su correcta operación.
+
+###### ARTÍCULO SÉPTIMO.
+
+En todos los ordenamientos jurídicos en que se haga referencia a la Subsecretaría del Trabajo y Previsión Social, se entenderá que se trata de la Secretaría del Trabajo y Productividad.
+
+###### ARTÍCULO OCTAVO.
+
+El Congreso del Estado expedirá, en un plazo de sesenta días hábiles, las reformas correspondientes para armonizar las leyes y decretos de creación de las entidades de la administración pública paraestatal relacionadas con la materia del trabajo, con el presente decreto.
+
+###### ARTÍCULO NOVENO.
+
+En tanto se expiden las reformas a que se refiere el artículo anterior, seguirán vigentes las disposiciones jurídicas aplicables a la materia.
+
+###### ARTÍCULO DÉCIMO.
+
+El Gobernador del Estado deberá realizar las modificaciones presupuestales necesarias para la operación de las nuevas Secretarías que con este Decreto se crean, informando de los mismas conforme a lo dispuesto en el articulo noveno del Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal 2008, publicado el 25 de enero de 2008, en el Periódico Oficial "Tierra y Libertad", número 4589.
