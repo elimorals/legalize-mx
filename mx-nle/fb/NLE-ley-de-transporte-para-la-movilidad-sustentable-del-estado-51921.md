@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2007-11-26"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -503,15 +503,25 @@ b) Las autoridades estatales son responsables del diseño y aplicación de las p
 
 c) Las autoridades estatales y municipales se encargarán de la adecuación y construcción de la infraestructura vial que permita el cumplimiento de la disposición anterior;
 
-d) Tienen preferencia aquellas modalidades del servicio de transporte público con mayor capacidad de movilidad de pasajeros, frente a otro tipo de modalidades;
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
 
-e) La Agencia con la opinión del Consejo determinará áreas para estacionamientos públicos y guarda de bicicletas y vehículos unipersonales que faciliten el trasbordo de las personas a los sistemas concesionados de transporte de pasajeros;
+d) Los Ayuntamientos estarán facultados para intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial;
 
-f) Previa propuesta que formule el Consejo, la Agencia impulsará campañas de cultura vial y el uso del transporte público;
+e) Tienen preferencia aquellas modalidades del servicio de transporte público con mayor capacidad de movilidad de pasajeros, frente a otro tipo de modalidades;
 
-g) La Agencia previo análisis de las opiniones expuestas por el Consejo incorporará nuevas tecnologías para la facilitación de la movilidad de los grupos vulnerables, particularmente de la (sic) personas con discapacidad; y
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
-h) La Agencia siempre podrá imponer las modalidades al transporte público siguiendo los principios de racionalización, modernización y en beneficio del usuario.
+f) La Agencia, con la opinión del Consejo, determinará áreas para estacionamientos públicos y guarda de bicicletas y vehículos unipersonales que faciliten el trasbordo de las personas a los sistemas concesionados de transporte de pasajeros;
+
+g) Previa propuesta que formule el Consejo, la Agencia impulsará campañas de cultura vial y el uso de transporte público;
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+h) La Agencia, previo análisis de las opiniones expuestas por el Consejo, incorporará nuevas tecnologías para la facilitación de la movilidad de los grupos vulnerables, particularmente de las personas con discapacidad; y
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+i) La Agencia siempre podrá imponer las modalidades al transporte público, siguiendo los principios de racionalización, modernización y en beneficio del usuario.
 
 II. Eficiencia Administrativa y Calidad, estableciendo los siguientes lineamientos:
 
@@ -1934,3 +1944,7 @@ Artículo Segundo.- La Agencia deberá difundir el Sistema Estatal de Informaci�
 Artículo Tercero.- Los títulos de concesión del servicio público de transporte en la modalidad de vehículos de alquiler otorgados con anterioridad a la entrada en vigor del presente Decreto, continuarán vigentes hasta que concluya el plazo fijado para los mismos o su renovación, salvo que se actualice alguna causa de terminación de los mismos, de conformidad con lo previsto por el Artículo 84 de la presente Ley.
 
 Artículo Cuarto.- Los procedimientos bajo los cuales la autoridad determinará la inactividad de las concesiones del transporte público en la modalidad de vehículos de alquiler, prevista en el Artículo 67 Bis de la presente Ley, deberán establecerse en el Reglamento en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE JUNIO DE 2008.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
