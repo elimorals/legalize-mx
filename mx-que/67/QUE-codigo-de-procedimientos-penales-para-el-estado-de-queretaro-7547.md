@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2008-03-14"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -369,7 +369,7 @@ Si el defensor fuere de oficio, el juzgador deberá, además, poner en conocimie
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
-ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal). Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
+ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal).- Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -811,9 +811,9 @@ VI.- La violación en los supuestos de los artículos 160, 161, 162 y 163;
 
 VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183 y 183 bis Del Código Penal;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
-VIII.- El tráfico de menores en la circunstancia señalada en el párrafo quinto del artículo 213;
+VIII.- El tráfico de menores, en la circunstancia señalada en los párrafos quinto, sexto y séptimo del artículo 213;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -1349,9 +1349,17 @@ ARTICULO 216 (Objeto de las diligencias de preparación del ejercicio de la acci
 
 ARTICULO 217 (Iniciación por denuncia).- El agente del Ministerio Público está obligado a proceder por denuncia a la investigación de los delitos del orden común, excepto:
 
-I.- Cuando se trate de delitos en los que solamente se pueda proceder por querella, o
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
-II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
+I. Cuando se trate de los delitos en los que solamente se pueda proceder por querella;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+II. Cuando la ley exija algún requisito previo, si éste no se ha llenado; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2008)</small>
+
+III. Cuando la ley señale alguna excepción que impida temporalmente la persecución del delito, hasta en tanto concluya el plazo o se cumpla la condición.
 
 ARTICULO 218 (Obligatoriedad de la denuncia).- Toda persona o servidor público, que por si tenga conocimiento de la comisión de hechos posiblemente delictuosos que deban perseguirse de oficio, está obligado a denunciarlo ante el Ministerio Público, transmitiéndole todos los datos que tuviere; y, en caso de urgencia, ante cualquiera agente de policía.
 
@@ -2508,3 +2516,21 @@ ARTÍCULO SEGUNDO Se concede un plazo de 30 días naturales, contados a partir d
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE JUNIO DE 2008.
+
+LEY QUE REFORMA Y ADICIONA LA FRACCION VIII DEL ARTICULO 121 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 20 DE JUNIO DE 2008.
+
+LEY QUE REFORMA EL ARTICULO 217 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro.
