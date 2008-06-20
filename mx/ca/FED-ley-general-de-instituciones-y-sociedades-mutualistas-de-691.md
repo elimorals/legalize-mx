@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2007-06-28"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -1701,9 +1701,29 @@ e).- La conveniencia de dispersar los riesgos que por su naturaleza catastrófic
 
 Las instituciones deberán practicar las operaciones de reaseguro y de reafianzamiento tanto en su carácter de cedentes como de cesionarias, en términos que les permitan una adecuada diversificación de los riesgos o responsabilidades que asuman. A tal efecto, en la realización de operaciones de cesión de reaseguro, las instituciones deberán procurar una adecuada dispersión en el uso de reaseguradores.
 
+> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 39.
 
-(DEROGADO, D.O.F. 14 DE JULIO DE 1993)
+Con el propósito de fortalecer la cultura del seguro y extender los beneficios de su protección a una mayor parte de la población, las instituciones de seguros, atendiendo a las operaciones, ramos que tengan autorizados, así como a los seguros y coberturas que comercializan, deberán ofrecer un producto básico estandarizado para cada una de las siguientes coberturas:
+
+I. Fallecimiento, en la operación de vida;
+
+II. Accidentes personales, en la operación de accidentes y enfermedades;
+
+III. Gastos médicos, en la operación de accidentes y enfermedades;
+
+IV. Salud, en la operación de accidentes y enfermedades, y
+
+V. Responsabilidad civil, en el ramo de automóviles.
+
+Para efectos de esta Ley, se entenderá por productos básicos estandarizados de seguros, los que cubren aquellos riesgos que enfrenta la población, que se pueden homologar por sus características comunes y que tienen por propósito satisfacer necesidades concretas de protección de la población.
+
+A fin de garantizar que los referidos productos básicos estandarizados sean comparables entre todas las instituciones del sector, la Comisión Nacional de Seguros y Fianzas, oyendo la opinión de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y considerando la opinión que le presenten las instituciones de seguros, mediante disposiciones de carácter general dará a conocer el modelo de contrato de adhesión que las instituciones deberán utilizar para cada una de las coberturas referidas en este artículo. Dichos modelos deberán considerar cláusulas contractuales de fácil comprensión que uniformen: riesgos cubiertos, exclusiones, suma asegurada, deducibles, duración del contrato, periodicidad del pago de la prima, procedimiento para el cobro de la indemnización y demás elementos que los integren.
+
+Las instituciones deberán registrar estos productos de acuerdo a lo previsto en el artículo 36 D de esta Ley, observando que la nota técnica en la que cada institución sustente la fijación de la prima, guarde congruencia con lo dispuesto en este artículo.
+
+Con el objeto de efectuar la comparación de las primas de tarifa de estos productos y difundirlas entre el público, las instituciones de seguros deberán informar mensualmente a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros la prima de tarifa total que cobren respecto de los productos a que se refiere este artículo, en la forma y términos que la misma establezca. Dichas instituciones podrán cumplir con esta obligación mediante la difusión y actualización de la información a que se refiere este párrafo en la página principal de su portal electrónico de Internet.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -5068,3 +5088,17 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 20 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Nacional de Seguros y Fianzas deberá dictar las disposiciones a las que se refiere el presente Decreto dentro de los 180 días naturales siguientes a los de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de seguros deberán efectuar el registro y ofrecer al público los productos básicos estandarizados a que se refiere el presente Decreto dentro de los 180 días naturales siguientes a que entren en vigor las disposiciones a que se refiere el artículo anterior.
