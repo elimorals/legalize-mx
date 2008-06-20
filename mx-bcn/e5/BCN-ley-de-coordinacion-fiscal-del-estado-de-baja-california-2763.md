@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2000-12-31"
+last_updated: "2008-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -61,23 +61,37 @@ Para los efectos de esta Ley, son participaciones federales, las asignaciones qu
 
 DE LAS PARTICIPACIONES FEDERALES Y ESTATALES A LOS MUNICIPIOS.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 3o.
 
-De las cantidades que perciba el Estado por concepto de participaciones federales, dentro del ejercicio de que se trate, derivadas del Fondo General de Participaciones y de la reserva de contingencia a que se refiere la Ley de Coordinación Fiscal Federal, los Municipios recibirán el equivalente al 20%, así como el 20% del total que reciba el Estado por concepto de participación federal derivada de la recaudación de los Impuestos sobre Tenencia o Uso de Vehículos, Especial Sobre Producción y Servicios, y Sobre Automóviles Nuevos, que se obtengan en el Territorio Estatal y el 100% del Fondo de Fomento Municipal.
+Los Municipios recibirán el equivalente al 20%, de las cantidades que perciba el Estado por concepto de participaciones federales, dentro del ejercicio de que se trate, derivadas del Fondo General de Participaciones, del Fondo de Fiscalización y del Fondo del Impuesto Especial Sobre Producción y Servicios, emanado de los actos o actividades a que se refiere al artículo 3-A de la Ley de Coordinación Federal.
 
-Los ingresos que correspondan a los Municipios de acuerdo con el párrafo anterior, serán distribuidos entre los mismos, en los términos de la presente Ley.
+De la misma forma, los Municipios percibirán el 20% del importe total que reciba el Estado derivado del Impuesto Sobre Tenencia o Uso de Vehículos e Impuesto Sobre Automóviles Nuevos. Asimismo, percibirán el 100% del Fondo de Fomento Municipal a que se refiere la Ley de Coordinación Fiscal Federal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+Los ingresos que correspondan a los Municipios de acuerdo a los párrafos anteriores, serán distribuidos entre los mismos, en los términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 4o.
 
-Con el 20%, del total que perciba el Estado, derivado del Fondo General de Participaciones y de la reserva de contingencia, así como el 20% del Impuesto Especial Sobre Producción y Servicios, el Gobierno del Estado constituirá un Fondo Básico de Participaciones Federales a los Municipios, el cual se incrementará con el 100% del Fondo de Fomento Municipal, y será distribuido entre los Municipios de acuerdo a las siguientes reglas:
+Con el 20%, del total que perciba el Estado, derivado de los fondos a que se refiere el primer párrafo del Artículo 3°, se constituirá un Fondo Básico de Participaciones Federales a los Municipios, el cual se incrementará con el 100% del Fondo de Fomento Municipal, y será distribuido entre los Municipios de acuerdo a las siguientes reglas:
 
 I.- El 70%, en proporción directa a la suma de la recaudación del Impuesto Predial y de los derechos por servicio de consumo de agua potable, que obtenga cada Municipio, durante el año anterior para el cual se efectúan el cálculo.
 
-II.- El 30% restante, en proporción al número de habitantes que tanga (sic) de cada Municipio, el cual se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al inicio de cada ejercicio fiscal.
+II.- El 30% en proporción directa al número de habitantes de que tenga cada Municipio, el cual se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al inicio de cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 4o.
+
+BIS.- El 20% del total que perciba el Estado de la recaudación derivada de la aplicación de las cuotas por la venta final al público en general en territorio nacional de gasolina y diesel, previstas en el artículo 2º.-A, fracción II, de la Ley del Impuesto Sobre Producción y Servicios, será distribuido entre los Municipios de acuerdo a las siguientes reglas:
+
+I. El 70%, en proporción directa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
+
+II. El 20%, en proporción a la recaudación del Impuesto Predial que obtenga cada Municipio, durante el ejercicio anterior para el cual se efectúa el cálculo.
+
+III. El 10%, en proporción inversa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -117,11 +131,11 @@ BIS.- Con el 9% del total de la recaudación de los impuestos estatales, el Esta
 
 A partir del año 2002, el importe que corresponda a cada Municipio en los términos del párrafo anterior, se actualizará con el factor de inflación que corresponda a cada mes del ejercicio de que se trate. En caso de que el porcentaje del incremento de la recaudación sea mayor de la inflación, el remanente se distribuirá entre todos los Municipios del Estado, en proporción inversa a las participaciones por habitante que tenga cada Municipio, como resultado de la suma de las participaciones que conforme a esta Ley corresponda a los Municipios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 8o.
 
-Las participaciones estatales, así como las derivadas de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos y del Impuesto Sobre Automóviles Nuevos, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Planeación y Finanzas, a más tardar el décimo quinto día del mes siguiente a aquel en que el Estado las recaude.
+Las participaciones estatales, las derivadas del Impuesto Sobre Tenencia o Uso de Vehículos e Impuesto Sobre Automóviles Nuevos, así como de la venta final al público en general en territorio nacional de gasolinas y diesel, prevista en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Planeación y Finanzas del Estado, a más tardar el decimoquinto día del mes siguiente a aquel en que el Estado las recaude.
 
 ###### ARTICULO 9o.
 
@@ -278,3 +292,17 @@ Para efectos del Artículo 7° BIS, Impuestos Estatales, son los Impuestos Sobre
 ###### ARTICULO TERCERO.
 
 Para efecto del cálculo de las participaciones federales y estatales que correspondan a cada Municipio, a más tardar durante el mes de junio del ejercicio fiscal al que corresponden las participaciones, se efectuará el cálculo del ajuste definitivo sobre la distribución de las participaciones antes señaladas sobre la base de la recaudación real del último ejercicio fiscal terminado.
+
+P.O. 20 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos a que se refiere el Artículo 4o. BIS, percibidos con anterioridad a la entrada en vigor de la presente reforma, se distribuirán en los mismos términos que se indican en los preceptos contenidos en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la distribución de los recursos a que se refiere el artículo 4o. BIS, se considerará para el presente ejercicio fiscal la información oficial más reciente a la fecha de entrada en vigor de la presente reforma, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
