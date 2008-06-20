@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-concursos-seleccion-e-incorporacion-de-44487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-20"
-last_updated: "2005-09-05"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-04-05"
 
 REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 20 de abril de 2005.
 
@@ -141,27 +141,31 @@ II. Ser licenciado en derecho o ingeniero con experiencia en materia de topograf
 
 III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad.
 
-###### Artículo 10o.
+###### Artículo 10.
 
 Cuando el Tribunal Superior determine la designación, mediante concurso, de servidores públicos para ocupar categorías no previstas en forma expresa en este Reglamento, señalará los requisitos necesarios para la inscripción de los participantes.
 
-###### Artículo 11o.
+###### Artículo 11.
 
 Las personas que resulten seleccionadas deberán de expresar por escrito su consentimiento para prestar sus servicios en el lugar que el Pleno determine y a cambiar de adscripción en cualquier momento, trasladándose al lugar donde se les requiera; así como asistir a los cursos de capacitación y actualización que disponga el Tribunal Superior.
 
-###### Artículo 12o.
+###### Artículo 12.
 
 La Oficialía Mayor del Tribunal Superior practicará exámenes psicométricos a los aspirantes, y recabará información sobre los antecedentes laborales, integrando el expediente de cada sustentante, verificando que acrediten los requisitos establecidos por la Ley; quienes hayan cumplido con los mismos, serán notificados, por lo menos tres días hábiles anteriores a la celebración de los exámenes.
+
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2008)</small>
 
 ###### Artículo 13.
 
 El Pleno decidirá la integración de un jurado de selección del personal jurisdiccional de los Tribunales Agrarios, para cada concurso, el cual se conformará de la siguiente manera:
 
-1 Presidente.- Que será un Magistrado Numerario del Tribunal Superior.
+1 Presidente.- Que será un Magistrado del Tribunal Superior.
 
 3 Vocales.- Que serán un Magistrado Supernumerario Unitario, un Magistrado Numerario Unitario y un tercero que discrecionalmente designe el Pleno.
 
 1 Secretario.- Que será nombrado atendiendo a la materia o especialidad de las plazas motivo del concurso.
+
+En caso de urgencia, cuando menos tres Magistrado (sic) del Tribunal Superior Agrario, actuando en Pleno, podrán examinar a los aspirantes a ocupar las plazas jurisdiccionales respectivas, sin esperar la convocatoria correspondiente.
 
 ###### Artículo 14.
 
@@ -264,3 +268,13 @@ D.O.F. 5 DE SEPTIEMBRE DE 2005.
 PRIMERO.- Las reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación y en el Boletín Judicial Agrario, así como en el portal de Internet de los Tribunales Agrarios.
+
+D.O.F. 20 DE JUNIO DE 2008.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO EMITIDOS POR EL PLENO DEL TRIBUNAL SUPERIOR AGRARIO QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+...
+
+SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación.
