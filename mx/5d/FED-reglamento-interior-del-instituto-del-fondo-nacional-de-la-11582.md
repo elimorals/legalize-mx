@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-del-fondo-nacional-de-la-1158
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-24"
-last_updated: "2005-06-01"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "1998-03-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES EN MATERIA DE FACULTADES COMO ORGANISMO FISCAL AUTONOMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES EN MATERIA DE FACULTADES COMO ORGANISMO FISCAL AUTONOMO, PUBLICADO EN EL D.O.F. DE 20 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 24 de marzo de 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 24 de marzo de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -186,3 +188,11 @@ SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, 
 TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 20 DE JUNIO DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Facultades como Organismo Fiscal Autónomo, publicado en el Diario Oficial de la Federación el 24 de marzo de 1998 y las demás disposiciones reglamentarias o administrativas que se opongan a este Reglamento.
+
+TERCERO. Los asuntos que se encuentren en trámite iniciados con base en el Reglamento que se abroga deberán concluirse conforme a lo previsto en él y en las demás disposiciones que resulten aplicables.
