@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7690"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-17"
-last_updated: "2006-11-17"
+last_updated: "2008-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de diciembre de 1992.
 
@@ -39,19 +39,21 @@ DEL OBJETO, SUJETOS DE RESPONSABILIDAD Y DE LAS AUTORIDADES COMPETENTES.
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 1.
 
-Esta Ley es de orden público y observancia general y sus disposiciones tienen por objeto reglamentar el Título Séptimo de la Constitución Política del Estado de Querétaro, en materia de:
+Esta Ley es de orden público y observancia general y sus disposiciones tienen por objeto reglamentar el Título Cuarto de la Constitución Política del Estado de Querétaro, en materia de:
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
-I.- Los sujetos de responsabilidad administrativa en el servicio público estatal y municipal;
+I. Los sujetos de responsabilidad administrativa en el servicio público estatal y municipal;
 
 II. Las obligaciones en el servicio público;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
-III.- Las responsabilidades administrativas y sus sanciones, tanto de naturaleza disciplinaria y resarcitoria, que conozcan las autoridades competentes indicadas en el artículo 3 de esta ley, así como las que deban resolver mediante juicio político.
+III. Las responsabilidades administrativas y sus sanciones, tanto de naturaleza disciplinaria y resarcitoria, que conozcan las autoridades competentes indicadas en el artículo 3 de esta ley, así como las que deban resolver mediante juicio político;
 
 IV. Las Autoridades competentes y los procedimientos para aplicar las sanciones;
 
@@ -107,9 +109,11 @@ PROCEDIMIENTOS ANTE LA LEGISLATURA DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DE
 
 SUJETOS, CAUSAS DEL JUICIO POLITICO Y SANCIONES.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 5.
 
-Podrán ser sujetos de Juicio Político los servidores públicos que menciona el artículo 97 de la Constitución del Estado.
+Podrán ser sujetos de Juicio Político los servidores públicos que menciona el artículo 38 de la Constitución Política del Estado.
 
 El Gobernador del Estado, durante el ejercicio de su cargo solo será responsable por delitos graves del orden común y por delitos contra la Soberanía del Estado, sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110 de la Constitución General de la República.
 
@@ -265,7 +269,9 @@ I.- Que legalmente se encuentra comprobada la conducta o hecho materia de la den
 
 II.- Que los hechos atribuidos al denunciado, no sean de los señalados en el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos;
 
-III.- Que existe probable responsabilidad del acusado, y que éste se encuentra dentro de los servidores públicos referidos en el artículo 97 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+III.- Que existe probable responsabilidad del acusado y que éste se encuentra dentro de los servidores públicos referidos en el artículo 38 de la Constitución Política del Estado;
 
 IV.- La sanción que debe imponerse conforme al artículo 8 de esta ley; y
 
@@ -319,11 +325,13 @@ El Presidente hará la declaratoria que corresponda y ordenará se notifique per
 
 ### CAPITULO TERCERO. DE LA DECLARACION DE PROCEDENCIA POR RESPONSABILIDAD PENAL
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 22.
 
-Cualquier particular, bajo su más estricta responsabilidad, podrá presentar ante el Ministerio Público la denuncia penal o querella respecto a los servidores públicos a que se refiere el artículo 98 de la Constitución del Estado, la cual deberá ratificarse ante éste, quien deberá practicar todas las diligencias de preparación de la acción penal, citándose al inculpado, en los términos del Código de Procedimientos Penales, a efecto de que les sean notificados los cargos que se le imputan, rinda su declaración ministerial, se le reciban las pruebas que a su interés convenga, así como que exprese los alegatos que estime pertinentes, hecho lo cual, el agente del ministerio público deberá emitir resolución debidamente fundada y motivada en la que exprese si se configura la existencia del cuerpo de delito así como la probable responsabilidad del funcionario imputado, remitiendo el expediente a la Legislatura del Estado solicitando se emita la declaración de procedencia respectiva.
+Cualquier particular, bajo su más estricta responsabilidad, podrá presentar ante el Ministerio Público la denuncia penal o querella respecto a los servidores públicos a que se refiere el artículo 38 de la Constitución Política del Estado, la cual deberá ratificarse ante éste, quien deberá practicar todas las diligencias de preparación de la acción penal, citándose al imputado, en los términos del Código de Procedimientos Penales, a efecto de que les sean notificados los cargos que se le imputan, rinda su declaración ministerial, se le reciban las pruebas que a su interés convenga, así como que exprese las manifestaciones que estime pertinentes, hecho lo cual, el agente del ministerio público deberá emitir resolución debidamente fundada y motivada en la que exprese si se configura la existencia del cuerpo de delito así como la probable responsabilidad del funcionario imputado, remitiendo el expediente a la Legislatura del Estado, solicitando se emita la declaración de procedencia respectiva.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 Recibido el expediente en la Oficialía de Partes de la Legislatura, se comunicará de inmediato a la Comisión Instructora para que se analice el expediente, se emita el dictamen correspondiente que deberá contener una síntesis de las diligencias llevadas a cabo ante el ministerio público y la valoración de la Comisión a efecto de dar a conocer al Pleno de la Legislatura los resultados y la opinión fundada y motivada en relación a las investigaciones practicadas y del dictamen ministerial, quien se erigirá en Jurado de Procedencia convocando a sus miembros para efecto de proceder a su análisis, discusión y votación solicitando de ser necesario la comparecencia del ministerio público para que auxilie en las deliberaciones.
 
@@ -431,11 +439,11 @@ Los servidores públicos están impedidos para ejercer el cargo de defensor en l
 
 En el juicio político a que se refiere esta ley, los acuerdos y determinaciones de la Legislatura y del Tribunal se tomarán en sesión pública, excepto en la que se presente la acusación de carácter penal o cuando las buenas costumbres o el orden social exija que la audiencia sea privada.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 35.
 
-Cuando en el curso del procedimiento seguido a un servidor público de los mencionados en los artículos 97 y 98 de la Constitución Política del Estado, según el caso, se presentase nueva denuncia o querella en su contra, se procederá respecto a ella con arreglo a esta ley, procurando de ser posible la acumulación procesal. Si la acumulación fuere procedente, la Comisión formulará en un solo documento sus conclusiones o dictamen que comprenderán el resultado de los diversos procedimientos.
+Cuando en el curso del procedimiento seguido a un servidor público de los mencionados en el artículo 38 de la Constitución Política del Estado, según el caso, se presentase nueva denuncia o querella en su contra, se procederá respecto a ella con arreglo a esta ley, procurando de ser posible la acumulación procesal. Si la acumulación fuere procedente, la Comisión formulará en un solo documento sus conclusiones o dictamen que comprenderán el resultado de los diversos procedimientos.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
@@ -627,9 +635,11 @@ Las facultades de la autoridad para constituir responsabilidades en los término
 
 La Secretaría llevará el registro de la manifestación de bienes de los servidores públicos, de conformidad con esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 50.
 
-Tienen la obligación de presentar manifestación de bienes ante la Secretaría de la Contraloría, en los términos y plazos señalados por esta Ley y bajo protesta de decir verdad:
+Tienen la obligación de presentar manifestación de bienes ante la Secretaría de la Contraloría, en formatos impresos o a través de medios remotos de comunicación electrónica, en los términos y plazos señalados por esta Ley y bajo protesta de decir verdad:
 
 I. Los servidores públicos, desde el nivel de Jefes de Departamento hasta los titulares de las Dependencias, y Gobernador del Estado, así como aquéllos que manejen, recauden o administren fondos y recursos estatales, federales o municipales;
 
@@ -681,9 +691,11 @@ Para el caso de que se omita la manifestación contemplada en la Fracción Segun
 
 Igual sanción pecuniaria se aplicará cuando la presentación de esta manifestación se haga de manera extemporánea.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 52.
 
-La Secretaría expedirá las normas y los formatos bajo las cuales el servidor público deberá presentar la manifestación de bienes, así como de los manuales o instructivos que señalarán lo que es obligatorio declarar.
+La Secretaría de la Contraloría expedirá las normas y los formatos impresos y electrónicos bajo los cuales el servidor público deberá presentar la manifestación de bienes, así como de los manuales o instructivos que señalarán lo que es obligatorio declarar.
 
 ###### ARTICULO 53.
 
@@ -1200,3 +1212,21 @@ Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legi
 Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscales, hasta su total conclusión.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+P.O. 20 DE JUNIO DE 2008.
+
+LEY QUE REFORMA LOS ARTICULOS 50 Y 52 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICO DEL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro, en un plazo no mayor de treinta días hábiles, implementará los medios y mecanismos electrónicos necesarios para que se pueda realizar la manifestación de bienes, a través de medios remotos de comunicación electrónica.
+
+P.O. 20 DE JUNIO DE 2008.
+
+LEY QUE REFORMA LOS ARTICULOS 1, 5, 18, 22 Y 35 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICO DEL ESTADO DE QUERETARO.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro.
