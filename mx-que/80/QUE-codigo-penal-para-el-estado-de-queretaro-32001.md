@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2008-03-14"
+last_updated: "2008-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -175,7 +175,7 @@ Los Directores, Gerentes, Administradores, Mandatarios o socios de una persona m
 
 Si la conducta constitutiva del delito hubiere sido realizada en virtud de un acuerdo votado por los socios, serán considerados como participes los que hubieran emitido su voto favorable. Los que estando presentes se hubieren abstenido u opuesto al acuerdo, se considerarán encubridores si no denuncian los hechos.
 
-Una vez que cause ejecutoria la sentencia, el Ministerio Público demandará la disolución y liquidación de la persona moral ante el Organo Jurisdiccional, en los términos previstos en las Leyes Mercantiles y Civiles. ante el Órgano Jurisdiccional, en los términos previstos en las Leyes Mercantiles y Civiles.
+Una vez que cause ejecutoria la sentencia, el Ministerio Público demandará la disolución y liquidación de la persona moral ante el Organo Jurisdiccional, en los términos previstos en las Leyes Mercantiles y Civiles.
 
 ### CAPITULO VIII. COMUNICABILIDAD DE LAS CIRCUNSTANCIAS
 
@@ -651,9 +651,9 @@ MEDIDAS DE SEGURIDAD
 
 El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
-El órgano jurisdiccional ordenará de oficio la realización de los estudios criminológicos interdisciplinarios del imputado y tomará conocimiento directo de éste, del ofendido y de la ejecución del hecho en la medida requerida para cada caso.
+Cuando se trate de un proceso seguido por delito doloso, el órgano jurisdiccional ordenará de oficio a la Dirección de Readaptación Social, la realización de los estudios criminológicos interdisciplinarios del imputado y tomará conocimiento directo de éste, del ofendido y de la ejecución del hecho en la medida requerida para cada caso. Dichos estudios interdisciplinarios serán sintetizados por criminólogos.
 
 En aquellos delitos que tengan señaladas pena privativa de libertad en forma alternativa con cualquier otra, en todo caso se impondrá la de prisión al imputado cuando este haya cometido con anterioridad delito doloso o preterintencional y por el cual se haya dictado sentencia condenatoria ejecutoriada, o existiendo acumulación de expedientes, resulte responsable de los delitos a que se refieren los expedientes acumulados.
 
@@ -1088,6 +1088,10 @@ LESIONES
 ###### ARTICULO 125.
 
 Al que prive de la vida a otra, se le impondrá prisión de 7 a 15 años y multa de cien a quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+ARTICULO 125 BIS.- Para determinar que una persona ha perdido la vida, se estará a lo previsto en la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -1823,7 +1827,7 @@ VIII.- Al que para obtener un lucro indebido ponga en circulación fichas, tarje
 
 IX.- Al que por sorteos, rifas, loterías, tandas, promesas de venta o por cualquier otro medio se quede en todo o en parte con las cantidades recibidas sin entregar la mercancia u objeto ofrecido;
 
-X.- Al fabricante, empresario, contratista o constructor de una obra o instalación, que empleé en ellas materiales, artículos o accesorios de inferior cantidad o calidad a la estipulada, o mano de obra inferior a la convenida, siempre que haya recibido, el precio o parte de él;
+X.- Al fabricante, empresario, contratista o constructor de una obra o instalación, que empleé en ellas materiales, artículos o accesorios de inferior cantidad o calidad a la estipulada, o mano de obra inferior a la convenida, siempre que haya recibido, el precio o parte de él.
 
 XI.- Al vendedor de materiales de construcción o de cualquier especie, que habiendo recibido el precio de los mismos no los entregare en su totalidad o calidad convenida;
 
@@ -1867,7 +1871,7 @@ Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no 
 
 ###### ARTICULO 196.
 
-Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic) intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
+Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic)intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
 
 Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta fuese momentánea del pasivo, se aumentará hasta en una mitad mas la pena señalada en el párrafo anterior.
 
@@ -2015,13 +2019,31 @@ APOLOGÍA DE ESTE
 
 Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva a cambio de un beneficio económico, se le aplicará prisión de 2 a 9 años y de 100 a 400 días multa.
 
-Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este Artículo y al tercero que reciba al menor.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo, al tercero que reciba al menor y a todas aquellas personas que colaboren en la comisión del ilícito.
 
 Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entregue será de 1 a 3 años de prisión.
 
-Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, se le impondrá prisión de 3 meses a un año y de 20 a 80 días multa.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
-Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial, las penas se aumentarán hasta el doble de las previstas en aquel.
+Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal situación, se le impondrá prisión de 2 a 5 años y de 80 a 200 días de multa.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial o la persona que trafique o reciba al menor sea pariente en línea recta sin limitación de grado y en línea transversal hasta el tercer grado, las penas se aumentarán hasta el doble de las previstas en aquél.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+Si quien recibe al menor lo hace para efectos de explotarlo sexualmente, la pena será de 5 a 25 años de prisión. Si la comisión del delito tiene por objeto la extracción y uso de órganos del menor, la pena será de 7 a 30 años de prisión.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+Cuando el menor sea trasladado fuera del Estado, la pena que resulte aplicable se aumentará en una tercera parte y si dicho traslado es fuera del territorio mexicano, el incremento de la pena será de la mitad.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+Si el menor es restituido espontáneamente al seno familiar del que se sustrajo o es entregado a la autoridad dentro del plazo de siete días de ocurrido el hecho, sin haberle causado algún daño, se impondrá una tercera parte de la pena que corresponda.
 
 A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometan el delito previsto por este Artículo, se les sancionará, además, con privación de aquel y de los derechos de familia en relación con el ofendido.
 
@@ -2841,7 +2863,7 @@ Al particular que promueva una conducta ilícita de un servidor público o se pr
 
 ###### ARTICULO 274.
 
-Al particular que de manera expontánea (sic) dé u ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto justo o injusto relacionado con sus funciones, se le aplicarán de 6 meses a 6 años de prisión y de 20 a 240 días multa.
+Al particular que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto justo o injusto relacionado con sus funciones, se le aplicarán de 6 meses a 6 años de prisión y de 20 a 240 días multa.
 
 ###### ARTICULO 275.
 
@@ -2935,7 +2957,7 @@ Son delitos contra la administración de justicia cometidos por los servidores p
 
 I.- Conocer de negocios para los cuales estén legalmente impedidos o abstenerse de conocer los que les correspondan sin tener impedimento legal;
 
-II.- Litigar por si o por interpósita persona, cuando la Ley les prohiba el ejercicio de su profesión;
+II.- Litigar por sí o por interpósita persona, cuando la Ley les prohiba el ejercicio de su profesión;
 
 III.- Dirigir o aconsejar a las personas que ante ellos litiguen;
 
@@ -2953,7 +2975,7 @@ IX.- Hacer conocer indebidamente a un demandado o inculpado alguna providencia p
 
 X.- Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
 
-XI.- Rematar a favor de ellos mismos por si o por interpósita persona, los bienes objetos de un remate en cuyo juicio hubieren intervenido;
+XI.- Rematar a favor de ellos mismos por sí o por interpósita persona, los bienes objetos de un remate en cuyo juicio hubieren intervenido;
 
 XII.- Nombrar síndico o interventor en un concurso o quiebra, a quien sea deudor, pariente o que haya sido abogado del fallido, o a quien tenga con el funcionario relación de parentesco, estrecha amistad o esté ligado con él por negocios de interés común;
 
@@ -2971,7 +2993,7 @@ XVIII.- Compeler al imputado a declarar en su contra usando la incomunicación o
 
 XIX.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la Ley;
 
-XX.- Demorar injustifacadamente el cumplimiento de las providencias judiciales en la que se ordene poner en libertad a un detenido con la realización de un acto obligatorio que produzca la indebida dilación de un proceso;
+XX.- Demorar injustificadamente el cumplimiento de las providencias judiciales en las que se ordene poner en libertad a un detenido con la realización de un acto obligatorio que produzca la indebida dilación de un proceso;
 
 XXI.- Prolongar la prisión preventiva por más tiempo del que como máximo fije la Ley al delito que motivó el proceso;
 
@@ -3119,7 +3141,7 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 ###### ARTICULO 308.
 
-Al defensor de oficio que cometa alguno de los delitos a que se refiere el atículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por 2 años.
+Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por 2 años.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
@@ -3656,3 +3678,39 @@ ARTÍCULO SEGUNDO Se concede un plazo de 30 días naturales, contados a partir d
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE JUNIO DE 2008.
+
+LEY QUE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 68 DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 20 DE JUNIO DE 2008.
+
+LEY QUE REFORMA Y ADICIONA EL ARTICULO 213 DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 20 DE JUNIO DE 2008.
+
+LEY QUE ADICIONA EL ARTICULO 125 BIS DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
