@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2007-10-27"
+last_updated: "2008-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2008.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2213,6 +2213,10 @@ XII. Recaiga sobre bienes de instituciones educativas o culturales.
 
 XIII. Recaiga sobre equipo, instrumentos, semillas, frutos cosechados o por cosechar, o cualesquiera otros artículos destinados al aprovechamiento agrícola, forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
 
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2008)</small>
+
+XlV. Recaiga sobre materiales conductores de energía destinados a la prestación de un servicio público.
+
 ###### Artículo 212.
 
 Además de las sanciones que correspondan conforme al artículo 208 se aplicarán de uno a diez años de prisión, cuando el robo:
@@ -3472,6 +3476,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSÉ REYES BAEZA TERRAZAS. EL SEC
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 27 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
