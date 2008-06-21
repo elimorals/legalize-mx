@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2007-12-26"
+last_updated: "2008-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2008.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -35,7 +35,7 @@ DECRETO:
 
 DECRETO NO. 850/95 XVIII P.E.
 
-LA QUINCUAGESIMA SEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
+LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
 
 DECRETA:
 
@@ -667,9 +667,13 @@ XXXIX.- Celebrar convenios para la administración y custodia de zonas federales
 
 XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2008)</small>
 
-XLI.- Las demás que les confieren las leyes y sus reglamentos.
+XLI.- Impulsar la creación de instancias municipales que sean las encargadas de instrumentar y dar seguimiento a las políticas, acciones, planes y programas que incorporen la transversalidad de la perspectiva de género, conforme a la Ley de Desarrollo Social y Humano para el Estado de Chihuahua;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2008)</small>
+
+XLII.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -2427,7 +2431,7 @@ I.-Predios urbanos.
 
 LIMITES DE RANGO DE LA BASE DEL IMPUESTO (Valor catastral en moneda nacional).TASA DE RANGO (Aplicable sobre la porción del valor de la base que exceda del límite inferior del rango de que se trate). CUOTA FIJA EN MONEDA NACIONAL (Suma fija a pagar).
 
-0 2 al millar 0
+0 2 al millar o
 
 183,240 3 al millar 366.48
 
@@ -3635,9 +3639,9 @@ IMPUESTO CAUSADO CUOTA LIMITE TASA
 
 DEL RANGO
 
-De 0.01 hasta 336.88 0 0 .002
+De 0.01 gasta 336.88 0 0 .002
 
-De 336.89 hasta 842.20 336.88 168,440 .003
+De 336.89 hasta 842.20 336.88 16,440 .003
 
 De 842.21 hasta 1,852.84 842.20 336,880 .004
 
@@ -3862,3 +3866,9 @@ P.O. 26 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero del año dos mil ocho.
+
+P.O. 21 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
