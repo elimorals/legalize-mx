@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pronosticos-para-la-asistencia-publica-522
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-11-22"
-last_updated: "2006-11-22"
+last_updated: "2008-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52262&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-17"
 
 ESTATUTO ORGANICO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2008.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de noviembre de 2006.
 
@@ -175,7 +175,9 @@ I. Convocar y presidir las sesiones ordinarias y extraordinarias del Consejo Dir
 
 II. Dirigir los debates en las sesiones de Consejo Directivo;
 
-III. Firmar las actas de las sesiones del Consejo Directivo conjuntamente con el secretario;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2008)</small>
+
+III. Firmar las actas de las sesiones del Consejo Directivo conjuntamente con los demás miembros y con el secretario;
 
 IV. Firmar los documentos que expida el Consejo Directivo en ejercicio de sus funciones; y
 
@@ -199,7 +201,9 @@ IV. Dar a conocer la orden del día en cada sesión;
 
 V. Dar cuenta al Consejo Directivo con la correspondencia y demás documentos en cartera;
 
-VI. Firmar las actas de las sesiones conjuntamente con el presidente del Consejo Directivo, una vez que hayan sido aprobadas por el Consejo Directivo;
+> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2008)</small>
+
+VI. Firmar las actas de las sesiones conjuntamente con los miembros del Consejo Directivo, una vez que hayan sido aprobadas;
 
 VII. Encargarse de los asuntos de orden administrativo del Consejo Directivo;
 
@@ -394,3 +398,11 @@ TERCERO.- El presente Estatuto Orgánico, así como las reformas y adiciones al 
 CUARTO.- Se deroga el Reglamento del Consejo Directivo y del Director General publicado en el Diario oficial de la Federación el 25 de mayo de 1978.
 
 México, D.F., a 17 de octubre de 2006.- El Presidente del Consejo Directivo, Alonso Pascual García Tamés.- Rúbrica.- El Secretario del Consejo Directivo, Sergio Eduardo Huacuja Betancourt.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 23 DE JUNIO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a lo dispuesto en el presente Acuerdo.
