@@ -4,7 +4,7 @@ identifier: "AGU-lineamientos-al-capitulo-ii-de-la-ley-de-transparencia-y-58205"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-09-10"
-last_updated: "2007-09-10"
+last_updated: "2008-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LINEAMIENTOS AL CAPITULO II DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES, REFERENTE A "LA INFORMACION PUBLICA QUE DEBE SER DIFUNDIDA DE OFICIO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2008.
 
 Lineamientos publicados en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de septiembre de 2007.
 
@@ -41,9 +41,13 @@ LINEAMIENTOS AL CAPÍTULO II DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACI�
 
 ### CAPÍTULO I. Disposiciones Generales
 
-PRIMERO. Los presentes lineamientos establecen los criterios que los sujetos obligados deberán aplicar para proporcionar de manera clara, veraz, oportuna, regular, permanente y actualizada, la información considerada como pública, sin que medie solicitud alguna, con el objeto de que esta información se encuentre disponible y al alcance de las personas, permitiendo y facilitando un acceso sencillo y expedito.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2008)</small>
 
-SEGUNDO. Los titulares de los sujetos obligados establecerán y supervisarán a través de sus Unidades de Enlace, criterios específicos para recabar, organizar y difundir la información a que se refiere el Capitulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, además de propiciar que las Unidades Administrativas responsables que generan u obtienen la información pública, en el ejercicio de sus funciones y que se encuentra en su posesión y bajo su resguardo, actualicen la información a más tardar a los cuarenta y cinco días naturales contados a partir del día primero del mes siguiente a aquel en que se generó la información.
+PRIMERO. Los presentes Lineamientos establecen los criterios y procedimientos que los sujetos obligados deberán aplicar para proporcionar de manera clara, veraz, oportuna, regular, permanente y actualizada, la información considerada pública, sin que medie solicitud de información alguna, con el objeto de que esta información se encuentre disponible y al alcance de cualquier persona permitiendo y facilitando un acceso sencillo y expedito.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2008)</small>
+
+SEGUNDO. Los titulares de los sujetos obligados establecerán y supervisarán a través de las Unidades de Enlace, criterios específicos para recabar, organizar y difundir la información a que se refiere el Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, además de propiciar que las Unidades Administrativas responsables que generan u obtienen la información pública, en el ejercicio de sus funciones y que se encuentra en su posesión y bajo su resguardo, actualicen la información a más tardar a los treinta días naturales contados a partir del primer día del mes siguiente a aquel en que se generó la información, debiéndose incluir a su vez, la fecha de la última actualización de la información en la página donde se publica la información pública de oficio.
 
 Se suspenderá el plazo del párrafo anterior en función de los calendarios laborales oficialmente publicados por cada sujeto obligado, sin que se exima de su cumplimiento.
 
@@ -63,7 +67,9 @@ Cuando la información no está disponible en medio electrónico, se debe indica
 
 SEXTO. Cualquier información pública de oficio que no se identifique conforme a lo establecido en el Lineamiento anterior, será considerado por Instituto de Transparencia del Estado como información no puesta a disposición, por lo que en consecuencia se considerará como no actualizada, procediendo a aplicar las sanciones previstas para este supuesto dentro de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
 
-SÉPTIMO. El Instituto de Transparencia del Estado de Aguascalientes, realizará una evaluación bimestral a todos los sujetos obligados, para verificar el cumplimiento a lo dispuesto por el Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y a los presentes lineamientos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2008)</small>
+
+SÉPTIMO. El Instituto de Transparencia del Estado de Aguascalientes, realizará evaluaciones cuatrimestrales durante el año a todos los sujetos obligados, para verificar el cumplimiento a lo dispuesto por el Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y a los presentes lineamientos, dichas evaluaciones se realizarán dentro de los meses de febrero, junio y octubre, independientemente de que el Instituto realice de manera permanente una vigilancia en el cumplimiento de la publicación de la información considerada como de oficio, a su vez, sin menoscabo de hacer en cualquier momento y cuando se considere necesario revisiones de manera aleatoria durante todo el año.
 
 El Instituto podrá apoyarse de un tercero para realizar la evaluación a que se hace mención, sin que se entienda esto como una delegación de atribuciones.
 
@@ -91,11 +97,19 @@ En todos los casos se evaluará el Capitulo II de la Ley de Transparencia y Acce
 
 La valoración máxima será de treinta y seis puntos.
 
-NOVENO. Por el incumplimiento a lo dispuesto por el Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y estos Lineamientos, el Instituto aplicará las sanciones que establece la misma Ley, asimismo se estará a lo siguiente:
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2008)</small>
 
-a) Al no alcanzar la valoración máxima, se requerirá al titular de la Unidad de Enlace, para que presente un informe al Instituto, justificando el hecho por el cual no ha cumplido, dicho informe se rendirá en un plazo no mayor a cinco días hábiles, una vez hecho lo anterior el Instituto valorará el informe y determinará lo conducente. De lo contrario, sino se presenta el informe se impondrá la sanción correspondiente.
+NOVENO. Por el incumplimiento a lo dispuesto por el Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y estos Lineamientos, el Instituto aplicará el procedimiento administrativo para aplicar las sanciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, además se estará a lo siguiente:
 
-DÉCIMO. La información que de oficio debe publicarse, será la concerniente a la generada por lo menos al mes próximo anterior y en todos los casos se debe incluir la fecha de la actualización de la información.
+a) El sujeto obligado al no alcanzar la valoración máxima, se hará acreedor a un requerimiento que se le notificará mediante oficio, el cual estará dirigido al Titular de la Unidad de Enlace de que se trate.
+
+b) Dicho requerimiento se hará para que el Titular de la Unidad de Enlace del sujeto obligado que se trate, rinda un informe dirigido al Instituto, justificando el hecho por el cual no ha cumplido con la publicación de la información que se le requiere, especificándose tal hecho por cada fracción requerida.
+
+c) El informe se rendirá dentro del plazo de cinco días hábiles contados a partir de que se haya notificado el oficio de referencia. Sino se presenta el informe requerido dentro del plazo señalado, el Instituto procederá a emitir resoluciones vinculatorias a efecto de que se puedan establecer las sanciones correspondientes. Además requerirá de nueva cuenta al Titular de la Unidad de Enlace del sujeto obligado que se trate, para que rinda el informe dentro de un igual término al señalado en esta fracción, en caso contrario, se presumirán como ciertos los hechos imputados y el Instituto determinará y resolverá lo conducente.
+
+d) Si se presenta el informe dentro del plazo señalado, el Instituto valorará y determinará sobre lo vertido en el, emitiendo una resolución dentro del término de cinco días hábiles.
+
+DÉCIMO. (DEROGADO, P.O. 23 DE JUNIO DE 2008)
 
 DECIMOPRIMERO. Las Unidades de Enlace y/o Unidades Administrativas que posean, administren y/o generen información pública de los sujetos obligados, vigilarán en el ámbito de sus respectivas atribuciones, el estricto cumplimiento de los presentes Lineamientos.
 
@@ -109,7 +123,9 @@ II. Dentro de la fracción II del artículo noveno de la Ley, los sujetos obliga
 
 III. En la fracción III del artículo noveno de la Ley, los sujetos obligados, de acuerdo a su estructura orgánica, deberán mencionar las facultades que tiene cada una de sus Unidades Administrativas, señalando de igual forma el fundamento legal que le otorga dichas atribuciones.
 
-IV. Para la aplicación de la fracción IV del artículo noveno de la Ley, los sujetos obligados deberán publicar sus programas operativos, en el que se hará la relación de cada actividad contenida en dicho programa con la meta y/u objetivo, que se medirá con base en fecha(s) y/o criterios de emisión (porcentajes, montos, etc.). Asimismo, al momento de realizar las actualizaciones de esta información, deberán conservar la misma estructura que el documento publicado.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2008)</small>
+
+IV. Para la aplicación de la fracción IV del artículo noveno de la Ley, los sujetos obligados deberán publicar sus programas operativos, en el que se hará la relación de cada actividad contenida en dicho programa con la meta y/u objetivo, que se medirá con base en fecha(s) y/o criterios de emisión (porcentajes, montos, etc.), conforme a los indicadores de gestión establecidos por cada sujeto obligado. Asimismo, al momento de realizar las actualizaciones de esta información, deberán conservar la misma estructura que el documento publicado.
 
 V. En la aplicación de la fracción V del artículo noveno de la Ley, los sujetos obligados deberán enlistar por orden de prelación, los tipos de servicios para los que fueron creados, así como determinar el lugar o sitio donde ha de prestar el servicio solicitado. Informando los horarios que se hayan fijado para otorgar la prestación de los servicios que ofrecen.
 
@@ -135,11 +151,15 @@ IX. Dentro de la fracción IX del artículo noveno de la Ley, se deberá señala
 
 X. Para aplicar la fracción X del artículo noveno de la Ley, los sujetos obligados deberán desglosar sus ingresos con base en dos supuestos:
 
-1. Los ingresos obtenidos: Que son los descritos y autorizados en la Ley de Ingresos del año aplicable, y
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2008)</small>
+
+1. Los ingresos obtenidos: Son las participaciones, transferencias, subsidios y todos los demás ingresos análogos que no son ingresos generados.
 
 2. Los ingresos generados: Que son los que se obtienen con el desarrollo de las actividades propias de cada Dependencia y/o Entidad, los cuales deberán de desglosarse, mínimo, por conceptos y por la forma en que se vayan integrando. En caso de que se encuentre en otro rubro el desglose de estos conceptos, se deberá mencionar su ubicación
 
-XI. En la fracción XI del artículo noveno de la Ley, el presupuesto de egresos a que hace referencia y el cual se encuentra publicado en el Periódico Oficial, deberá de desglosarse mínimo por capítulos para presentar sus informes sobre su aplicación, independientemente del ejercicio de que se trate.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2008)</small>
+
+XI. En la fracción XI del artículo noveno de la Ley, el presupuesto de egresos a que hace referencia y el cual se encuentra publicado en el Periódico Oficial, deberá de desglosarse mínimo por capítulos para presentar sus informes sobre su aplicación.
 
 XII. Dentro de la aplicación de la fracción XII del artículo noveno de la Ley, la información deber indicar el periodo para el cual se otorgaron los recursos públicos.
 
@@ -173,7 +193,9 @@ XVIII. En la fracción XVIII del artículo noveno de la Ley, para el caso no se 
 
 XIX. En la aplicación de la fracción XIX del artículo noveno de la Ley, los sujetos obliga deberán definir los requisitos, horarios, lugar y demás cuestiones aplicables a fin de llevar a cabo el mecanismo de participación y que la Dependencia y/o Entidad pretendan incluir.
 
-XX. Para cumplir con la fracción XX del artículo noveno de la Ley, los sujetos obligados deberán estar a lo establecido en los Lineamientos que al efecto ya se publicaron, por parte del Instituto de Transferencia del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2008)</small>
+
+XX. Para cumplir con la fracción XX del artículo noveno de la Ley, los sujetos obligados deberán estar a lo establecido en los LlNEAMIENTOS GENERALES PARA LA CLASIFICACIÓN, Catalogación Y CONSERVACIÓN DE LOS ARCHIVOS DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALlENTES, que al efecto han sido publicados.
 
 XXI. En la aplicación de la fracción XXI del artículo noveno de la Ley, las tablas a que se hacen referencia deberán publicarse de conformidad y en coordinación con las que al efecto han elaborado los registros catastrales del Estado.
 
@@ -185,7 +207,9 @@ XXII. Dentro de la aplicación de la fracción XXII del artículo noveno de la L
 
 XXIII. Para aplicar la fracción XXIII del artículo noveno de la Ley, por lo que respecta a los sujetos correspondientes, deberán publicar los informes vigentes.
 
-XIV (SIC). En la fracción XVI del artículo noveno de la Ley, para el caso no se hace pronunciamiento alguno, porque la misma Ley de la materia es precisa.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2008)</small>
+
+XXIV. En la fracción XXIV del artículo noveno de la Ley, para el caso no se hace pronunciamiento alguno, porque la misma Ley de la materia es precisa.
 
 XXV. Para aplicar la fracción XXV del artículo noveno de la Ley, los sujetos obligados deberán enlistar todos los convenios celebrados.
 
@@ -234,3 +258,13 @@ COMISIONADO.
 Lic. Jorge Alejandro Doring Zuazo,
 
 COMISIONADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+P.O. 23 DE JUNIO DE 2008.
+
+Artículo Primero. Las presentes adiciones, reformas y derogación a los Lineamientos al Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, referente "a la información pública que debe ser difundida de oficio", entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Segundo. Para efectos del Lineamiento Séptimo, por lo que resta del presente año, se realizará únicamente una evaluación en el mes de octubre.
+
+Las presentes adiciones, reformas y derogación a los Lineamientos al Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, referente "De la Información Pública que debe ser difundida de Oficio" fueron aprobadas por Unanimidad de votos de los Comisionados Propietarios del Instituto de Transparencia del Estado de Aguascalientes, en Sesión Extraordinaria del día once de junio del 2008.
