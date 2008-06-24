@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2008-06-05"
+last_updated: "2008-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -581,7 +581,7 @@ Quienes cumplan prisión intermitente, en los periodos que deban internarse perm
 
 II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
 
-El trabajo en favor de la comunidad puede ser pena sustitutiva la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
 
@@ -605,9 +605,11 @@ I.- La restitución de la cosa obtenida por el delito y, de no ser posible, el p
 
 Para fijar el interés de la reparación del daño, el Juez deberá tomar en cuenta la capacidad económica del sentenciado;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
 
-II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios contra la libertad y el normal desarrollo psicosexual y de violencia intrafamiliar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima; y,
+II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JUNIO DE 2008)</small>
 
 III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Segundo, la reparación del daño abarcará la restitución de la cosa o de su valor y, además, hasta dos tantos el valor de la cosa o los bienes obtenidos por el delito.
 
@@ -1219,13 +1221,13 @@ e).- Que haya reparado el daño causado o depositado el monto de la condena por 
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, el sentenciado observa buena conducta, demuestra tener modo honesto de vivir, cumple con las sanciones distintas, a la privativa de la libertad y multa, impuesta por el Juez, y no diere lugar a nuevo proceso en el que se dicte auto de formal prisión, se considerará extinguida la sanción fijada en aquélla.
+II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, el sentenciado observa buena conducta, demuestra tener modo honesto de vivir, cumple con las sanciones distintas, a la privativa de la libertad y multa, impuesta por el Juez, y no diere lugar a nuevo proceso en el que se dicte auto de formal prisión, se considerará extinguida la sanción fijada en aquella.
 
 En caso contrario, se revocará el beneficio concedido y se hará efectiva la sanción suspendida.
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
-III.- Al otorgar la suspensión, el Juez podrá imponer como condición para gozar de este beneficio, una o varias de las medidas previstas en el inciso b) de la fracción III, del artículo 108 de éste Código, según el caso. De esta manera, la suspensión comprenderá sólo la sanción privativa de la libertad y la multa.
+III.- Al otorgar la suspensión, el Juez podrá imponer como condición para gozar de este beneficio, una o varias de las medidas previstas en el inciso b) de la fracción III del artículo 108 de éste Código según el caso. De esta manera, la suspensión comprenderá sólo la sanción privativa de la libertad y la multa.
 
 IV.- A los delincuentes a quienes se conceda el beneficio de la condena condicional, se les hará saber el contenido de las fracciones II y III de este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en las mismas;
 
@@ -1285,7 +1287,7 @@ a).- Que el delito no sea de los considerados como graves por el artículo 109 d
 
 b).- Que el inculpado no tenga antecedentes penales y no se encuentre sujeto a diverso proceso por delito doloso.
 
-c).- Que se haya reparado del daño.
+c).- Que se haya reparado el daño.
 
 El perdón otorgado beneficia a los autores, partícipes y encubridores.
 
@@ -1529,7 +1531,7 @@ A los extranjeros que cometan los delitos previstos en este capítulo se les apl
 
 ###### ARTICULO 151.
 
-No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros si no se hubiere cometido algún otro delito; en caso contrario se aplicarán las reglas el concurso.
+No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros si no se hubiere cometido algún otro delito; en caso contrario se aplicarán las reglas del concurso.
 
 ### CAPITULO IV. ASOCIACION DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA
 
@@ -1759,7 +1761,7 @@ Al que sin causa legítima, rehusare prestar un servicio de interés público a 
 
 ###### ARTICULO 180.
 
-El que sin excusa legal se niegue a comparecer ante la autoridad o dar una declaración cuando legalmente se le exige, no será considerado como responsable del delito previsto en el artículo anterior sino cuando insista en su desobediencia, después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa en su caso, para que comparezca a declarar.
+El que sin excusa legal se niegue a comparecer ante la autoridad o dar una declaración cuando legalmente se le exige, no será considerado como responsable del delito previsto en el artículo anterior, sino cuando insista en su desobediencia, después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa en su caso, para que comparezca a declarar.
 
 ###### ARTICULO 181.
 
@@ -1929,7 +1931,7 @@ Al responsable de los delitos señalados en las fracciones I, II y IV se le impo
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
-Al responsable de los delitos previstos en las fracciones III y V se le aplicará de diez a dieciocho años de prisión y una multa de cinco mil a doce mil días salario.
+Al responsable de los delitos previstos en las fracciones III y V se les (sic) aplicará de diez a dieciocho años de prisión y una multa de cinco mil a doce mil días salario.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -1955,7 +1957,7 @@ I.- Si el delito es cometido con un menor de catorce años de edad, la sanción 
 
 II.- Si el delito se comete con un menor de doce años de edad, la sanción se aumentará hasta una mitad de la sanción impuesta; y
 
-III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes mas y será destituido del empleo. (sic) Cargo, o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
+III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes mas y será destituido del empleo, cargo o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -2457,7 +2459,7 @@ XL.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bis,
 
 ###### ARTICULO 233.
 
-Al responsable en la comisión de los delitos previstos en el artículo anterior se le sancionará:
+Al responsable en la comisión de los delitos previstos en el artículo anterior, se le sancionará:
 
 (REFORMADA, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 15 DE JULIO 2003)
 
@@ -2875,15 +2877,17 @@ Los responsables a que se refiere el artículo anterior, quedarán privados de s
 
 La reparación del daño en los casos de estupro y violación, comprenderá el pago de alimentos a los hijos si los hubiere, y se hará en la forma y términos de la Ley Civil.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 279 Bis.
 
-La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los intrafamiliares de éste que así lo requieran.
+La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los familiares de éste que así lo requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2008)</small>
 
-ARTICULO 279 ter.- A quien divulgue la identidad, nombre, apellido de sus padres, que permita la identificación pública de mujeres, niños o adolescentes, que hayan sido objeto de violencia física, psicológica, moral o sexual, derivados de delitos de tipo sexual o violencia intrafamiliar, se le aplicará de dos a cinco años de prisión y multa de cien a quinientos días de salario mínimo vigente en la capital del Estado.
+###### ARTICULO 279 Ter.
+
+A quien divulgue la identidad, nombre, apellido de sus padres, que permita la identificación pública de mujeres, niños o adolescentes, que hayan sido objeto de violencia física, psicológica, moral o sexual, derivados de delitos de tipo sexual o violencia familiar, se le aplicará de dos a cinco años de prisión y multa de cien a quinientos días de salario mínimo vigente en la capital del Estado.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
@@ -3023,7 +3027,7 @@ Cometen el delito a que se refiere este capítulo los padres que habiéndoseles 
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente, aun cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
+Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente, aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
 
 Sólo se procederá contra el responsable a petición de quien ejerza la patria potestad o el derecho de custodia.
 
@@ -3043,9 +3047,9 @@ A los responsables de los delitos a que se refieren los artículos anteriores se
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO X. VIOLENCIA INTRAFAMILIAR
+### CAPITULO X. VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 302.
 
@@ -3163,7 +3167,7 @@ Si un grupo de tres o más personas, atacare un lugar poblado, se impondrá una 
 
 ###### ARTICULO 316.
 
-Se impondrá sanción de tres meses a tres años al que ponga en movimiento cualquier vehículo automotriz y lo abandone o de cualquier otro modo haga imposible el control de su dirección; sí además resultaran otros delitos se observarán las reglas del concurso.
+Se impondrá sanción de tres meses a tres años al que ponga en movimiento cualquier vehículo automotriz y lo abandone o de cualquier otro modo haga imposible el control de su dirección; si además resultaran otros delitos se observarán las reglas del concurso.
 
 ###### ARTICULO 317.
 
@@ -3241,11 +3245,11 @@ Si las lesiones fueren inferidas en riña, se impondrá al responsable de la ter
 
 Si las lesiones fueren cometidas bajo alguna de las circunstancias previstas en los artículos 341, 342, 343, 344, 345, se estimarán calificadas y al responsable se le impondrá hasta una mitad más de la sanción que le corresponda.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 327.
 
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 368 bis y 368 ter, en este último caso siempre y cuando cohabite con el ofendido se aumentará la sanción que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia intrafamiliar.
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 368 bis y 368 ter, en este último caso siempre y cuando cohabiten con el ofendido se aumentará la sanción que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
 
 ###### ARTICULO 328.
 
@@ -3513,7 +3517,7 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2008)</small>
 
 ### CAPITULO UNICO
 
@@ -3521,21 +3525,17 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 ###### ARTICULO 368 Bis.
 
-Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que puedan producir o no lesiones.
+Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que produzcan o no lesiones.
 
-Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, asimismo, aquella persona que tenga una relación formal o informal, de afecto o amistad o la hubiera tenido con cualquier miembro de la familia.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2007)</small>
+A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
 
-A quien comete el delito de violencia intrafamiliar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
-
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 368 Ter.
 
-Se equipara a la violencia intrafamiliar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
+Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -4663,7 +4663,7 @@ ARTICULOS TRANSITORIOS:
 
 ###### ARTICULO QUINTO
 
-- Para los efectos del transitorio anterior, tratándose de procesos en los que no se hubiere emitido sentencia y de señalar este Código una sanción menor, se aplicará el presente ordenamiento. En caso de haberse dictado ya sentencia firme, si el presente Código deja subsistente la pena señalado al delito, pero disminuye su duración, a petición del reo, se reducirá la sanción impuesta, en la misma proporción en que esté el mínimo de la señalada en el Código que se abroga y la que prevea este ordenamiento, debiendo observarse para ello las reglas correspondientes del procedimiento.
+- Para los efectos del transitorio anterior, tratándose de procesos en los que no se hubiere emitido sentencia y de señalar este Código una sanción menor, se aplicará el presente ordenamiento. En caso de haberse dictado ya sentencia firme, si el presente Código deja subsistente la pena señalada al delito, pero disminuye su duración, a petición del reo, se reducirá la sanción impuesta, en la misma proporción en que esté el mínimo de la señalada en el Código que se abroga y la que prevea este ordenamiento, debiendo observarse para ello las reglas correspondientes del procedimiento.
 
 ###### ARTICULO SEXTO
 
@@ -4919,11 +4919,15 @@ P.O. 5 DE JUNIO DE 2008.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días posteriores.
 
+P.O. 24 DE JUNIO DE 2008.
+
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día primero de Enero de 1998.
+La presente Ley se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
-P.O. 30 DE DICIEMBRE DE 1998.
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Prevención, Atención y Asistencia a la Violencia Intrafamiliar expedida mediante Decreto 27, del 27 de mayo de 1999, de la Quincuagésima Séptima Legislatura, publicada en el Periódico Oficial del Estado número 45, con fecha 5 de junio de 1999, y sus reformas y adiciones contenidas en los Decretos LIX-547, del 9 de mayo de 2006 y publicado en el Periódico Oficial del Estado número 66, del 1 de junio de 2006; LIX-563, del 8 de agosto de 2006; y LIX-1084, del 3 de diciembre de 2007 y publicado en el Periódico Oficial del Estado número 4, del 8 de enero de 2008.
 
 ###### ARTICULO OCTAVO
 
