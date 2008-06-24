@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2008-02-28"
+last_updated: "2008-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2008.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1025,15 +1025,15 @@ XVII.- La bigamia, que sólo puede ser invocada por el cónyuge inocente del pri
 
 XVIII.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
 
-XIX.- El mutuo consentimiento.
+XIX.- El mutuo consentimiento;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
 
-XX.- Las conductas de violencia intrafamiliar cometidas por uno de los cónyuges contra el otro o hacía los hijos de ambos o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo 298 ter de éste Código.
+XX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo 298 ter de éste Código;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
 
-XXI.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia intrafamiliar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
+XXI.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
 
 ART. 250.- Cuando un cónyuge demande el divorcio o la nulidad del matrimonio y no justifique la causa o desista de la acción sin consentimiento del demandado, éste tendrá a su vez derecho para demandar el divorcio, una vez que transcurran tres meses a partir de la notificación de la última sentencia o del auto que recaiga al desistimiento. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
 
@@ -1101,17 +1101,17 @@ IV.- Fijar las reglas para el cuidado de los hijos oyendo el parecer de los cón
 
 V.- Dictar las providencias que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
 
-VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de embarazo de la mujer.
+VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de embarazo de la mujer;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
 
-VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de intimidación, acoso o violencia intrafamiliar.
+VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de intimidación, acoso o violencia familiar.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-ART. 260.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia intrafamiliar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
+ART. 260.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
 
-La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia intrafamiliar, las cuales podrán ser suspendidas o modificadas.
+La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas.
 
 ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
@@ -1133,7 +1133,7 @@ ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y lo
 
 ART. 268.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADA SU DENOMINACION. P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION. P.O. 24 DE JUNIO DE 2008)</small>
 
 ### CAPITULO I. DEL PARENTESCO
 
@@ -1237,25 +1237,21 @@ ART. 298.- El cónyuge que se haya separado de otro, sigue obligado a cumplir co
 
 En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquélla, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiere determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de los que ha dejado de cubrir desde que se separó.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2008)</small>
 
-## TITULO IV. DEL PARENTESCO, DE LOS ALIMENTOS Y
+## TITULO IV. DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
 
-DE LA VIOLENCIA INTRAFAMILIAR
-
-### CAPITULO III
-
-DE LA VIOLENCIA INTRAFAMILIAR.
+### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ART. 298 BIS.- Todos los integrantes de la familia están obligados a respetarse entre sí, su integridad física y psíquica, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-ART. 298 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
+ART. 298 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como de las omisiones graves, relacionada con sus obligaciones legales que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física o psíquica o ambas independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+Por violencia familiar se considera el uso de la fuerza física o moral, así como de las omisiones graves, relacionadas con sus obligaciones legales que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física o psíquica o ambas independientemente de que pueda producir o no lesiones y exista una relación de parentesco, matrimonio o concubinato entre éstos.
 
 ### CAPITULO I. DE LA FILIACION
 
@@ -1859,9 +1855,9 @@ VI.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso 
 
 VII.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-ART. 414 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia intrafamiliar prevista en el artículo 298 ter de este Código, en contra de las personas sobre las cuales la ejerza.
+ART. 414 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar prevista en el artículo 298 ter de este Código, en contra de las personas sobre las cuales la ejerza.
 
 ART. 415.- El cónyuge que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
@@ -2005,9 +2001,9 @@ Se considera expósito al menor que es colocado en una situación de desamparo, 
 
 ART. 454.- Los responsables de los hospicios y demás casas de beneficencia, ya sean públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-ART. 454 BIS.- Los responsables de los hospicios y de las casas de beneficencia, donde se reciban menores que hayan sido objeto de la violencia intrafamiliar a que se refiere el artículo 298 ter de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia intrafamiliar.
+ART. 454 BIS.- Los responsables de los hospicios y de las casas de beneficencia, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 298 ter de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
 
 ## TITULO SEPTIMO. DE LA TUTELA
 
@@ -9946,3 +9942,13 @@ Cuando en el procedimiento de captura de los asientos que obren en las oficinas 
 ###### ARTICULO SEXTO.
 
 El Reglamento de la presente ley deberá expedirse en un término que no exceda de 90 días posteriores a la entrada en vigor de este ordenamiento.
+
+P.O. 24 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Prevención, Atención y Asistencia a la Violencia Intrafamiliar expedida mediante Decreto 27, del 27 de mayo de 1999, de la Quincuagésima Séptima Legislatura, publicada en el Periódico Oficial del Estado número 45, con fecha 5 de junio de 1999, y sus reformas y adiciones contenidas en los Decretos LIX-547, del 9 de mayo de 2006 y publicado en el Periódico Oficial del Estado número 66, del 1 de junio de 2006; LIX-563, del 8 de agosto de 2006; y LIX-1084, del 3 de diciembre de 2007 y publicado en el Periódico Oficial del Estado número 4, del 8 de enero de 2008.
