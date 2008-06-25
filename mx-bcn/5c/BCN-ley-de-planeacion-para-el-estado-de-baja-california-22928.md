@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-22928"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2006-08-11"
+last_updated: "2008-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE PLANEACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACION PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 25 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2001.
 
@@ -692,3 +694,37 @@ UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publ
 P.O. 11 DE AGOSTO DE 2006.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Planeación del Estado de Baja California, publicada en el Periódico Oficial No. 52, de fecha 23 de Noviembre de 2001, Sección 1,Tomo CVIII.
+
+###### ARTÍCULO TERCERO.
+
+Los Municipios dentro del plazo de ciento veinte días naturales contados a partir al día siguiente en que entre en vigor esta Ley, deberán adecuar su reglamentación a las disposiciones de la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+El COPLADE dentro del plazo de ciento veinte días naturales contados a partir al día siguiente en que entre en vigor esta Ley, deberá adecuar su reglamentación a las disposiciones de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+El INEPLAN dentro del plazo de ciento veinte días naturales contados a partir al día siguiente en que entre en vigor esta Ley, deberán expedir los reglamentos derivados de esta ley que sean de su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado por esta única ocasión, deberá formular y publicar el Plan Estratégico del Estado dentro del plazo de dos años contados a partir al día siguiente de la publicación de esta Ley en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Municipios por esta única ocasión, deberán formular y publicar los Planes Estratégicos Municipales dentro del plazo de un año contando a partir al día siguiente de la publicación del Plan Estratégico del Estado en el Periódico Oficial del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+Los planes y programas Estatal y Municipales en materia de planeación, elaborados y publicados con anterioridad a la entrada en vigor de la presente Ley, en su caso, deberán ser adecuados a los términos de la nueva Ley, dentro de un plazo de seis meses contados a partir al día siguiente en que se publiquen en el Periódico Oficial del Estado, el Plan Estratégico del Estado y los Planes Estratégicos Municipales según corresponda.
