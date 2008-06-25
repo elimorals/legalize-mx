@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-regularizacion-de-la-pequena-propiedad-rural-en-el-7164"
 country: "mx"
 rank: "ley"
 publication_date: "1970-09-16"
-last_updated: "1970-09-16"
+last_updated: "2008-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE REGULARIZACION DE LA PEQUEÑA PROPIEDAD RURAL EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO SETECIENTOS SETENTA Y SIETE, PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 16 de septiembre de 1970.
 
@@ -178,3 +180,15 @@ EL SECRETARIO GRAL. DE GOBIERNO
 Lic. Guillermo Tenorio Carpio.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. DE 25 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
