@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establecen-las-unidades-de-35396"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-28"
-last_updated: "2003-11-28"
+last_updated: "2008-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACION PUBLICA Y SE CREAN LOS CONSEJOS DE INFORMACION CLASIFICADA DE LA SECRETARIA DE SALUD DEL GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el viernes 28 de noviembre de 2003.
 
@@ -57,13 +57,11 @@ III. El Asesor Jurídico de la Secretaría.
 
 Se establece la Unidad de Información Pública del Organismo Público Descentralizado denominado Hospital del Niño Morelense y se designa como responsable de la misma a la Jefa de Oficina de Asuntos Legales.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### Artículo 3.
 
-Se establece la Unidad de Información Pública del Organismo Público Descentralizado denominado Servicios de Salud de Morelos y se designan a sus integrantes:
-
-I. Director de Planeación y Evaluación, como jefe de la Unidad de Información Pública, y
-
-II. La oficina de Comunicación Social.
+Se establece la Unidad de Información Pública del Organismo Público Descentralizado denominado Servicios de Salud de Morelos, con domicilio en Callejón Borda Número Tres, Colonia Centro, en Cuernavaca, Morelos, con un horario de atención de las 08:00 a las 16:00 horas de lunes a viernes, y la línea telefónica número (777) 314 12 39 extensión 115, designado como titular de la misma al Director de Planeación y Evaluación.
 
 ###### Artículo 4.
 
@@ -91,9 +89,13 @@ I. El Director General del Hospital del Niño Morelense, como Presidente del Con
 
 II. El Subdirector Médico como Coordinador del Consejo;
 
-III. El Subdirector Administrativo como Secretario Técnico, y
+III. El Subdirector Administrativo como Secretario Técnico, y (sic)
 
-IV. El Comisario adscrito al Hospital.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+IV. El Director de Planeación y Evaluación, titular de la Unidad de Información Pública, y
+
+V. El Comisario adscrito al Hospital.
 
 ###### Artículo 8.
 
@@ -142,3 +144,9 @@ EL SECRETARIO DE SALUD
 DR. ANTONIO CAMPOS RENDÓN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+P.O. 25 DE JUNIO DE 2008.
+
+ÚNICO. El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
