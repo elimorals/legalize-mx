@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-un-organismo-publico-descentralizado-que-se-22265"
 country: "mx"
 rank: "ley"
 publication_date: "1965-07-21"
-last_updated: "1965-07-21"
+last_updated: "2008-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MOR"
 
 LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA "INGENIERIA RURAL, URBANIZACION Y VIVIENDA DE MORELOS"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO SETECIENTOS OCHENTA Y DOS, PUBLICADA EN EL P.O. DE 25 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el 21 de julio de 1965.
 
@@ -235,3 +237,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Fausto Galván Campos.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE JUNIO DE 2008.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
