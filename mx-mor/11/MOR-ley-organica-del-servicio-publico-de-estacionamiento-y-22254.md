@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-servicio-publico-de-estacionamiento-y-22254"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1970-04-01"
-last_updated: "1970-04-01"
+last_updated: "2008-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DEL SERVICIO PUBLICO DE ESTACIONAMIENTO Y GUARDA DE VEHICULOS EN EL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO SETECIENTOS OCHENTA Y UNO, PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el 1 de abril de 1970.
 
@@ -172,3 +174,11 @@ EL SECRETARIO DE FINANZAS Y PROMOCION ECONOMICA
 Lic. Joaquín B. Ortega
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial del Gobierno del Estado de Morelos.
