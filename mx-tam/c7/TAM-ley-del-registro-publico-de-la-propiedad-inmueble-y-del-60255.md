@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2008-02-28"
+last_updated: "2008-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -41,13 +41,19 @@ MEDIANTE EL CUAL SE EXPIDE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de esta ley son de orden público, de observancia general y de interés social para el Estado de Tamaulipas.
+1. Las disposiciones de esta ley son de orden público, de observancia general y de interés social para el Estado de Tamaulipas.
+
+2. Esta ley tiene por objeto regular la actividad registral que al efecto ejecuta el Registro Público de la Propiedad Inmueble y de Comercio del Estado de Tamaulipas.
 
 ###### ARTICULO 2.
 
-1. El Registro Público de la Propiedad Inmueble y del Comercio, en adelante "Registro Público', es una institución dependiente del Instituto Registral y Catastral del Estado de Tamaulipas en los términos que señala su decreto de creación.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+1. El Registro Público de la Propiedad Inmueble y del Comercio, en adelante "Registro Público', es un organismo dependiente del Instituto Registral y Catastral del Estado de Tamaulipas en los términos que señala su decreto de creación; y es la responsable de realizar la actividad registral en el Estado, que tiene como función primordial dar publicidad a los actos jurídicos que así lo requieran para que surtan efectos ante terceros en los términos de ley, haciendo constar de manera veraz, fiel y puntual aquellos que se inscriban, asienten y anoten en sus archivos.
 
 2. El Registro Público tendrá su sede central en la capital del Estado y las oficinas que determine el Reglamento en función a las necesidades de la sociedad con objeto del más eficiente cumplimiento del servicio y a fin de hacer eficiente, expedito, efectivo, transparente y equitativo todo lo relativo a la materia de su competencia, así como la generación, validación, resguardo y administración de la información territorial del Estado.
 
@@ -85,9 +91,11 @@ III. El Registro Público de Anotaciones Especiales;
 
 IV. El Registro Público de Comercio.
 
-2. La organización y funciones de los registros mencionados en las fracciones I, II y III, quedan sujetas al régimen de la presente ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
-3. El Registro Público de Comercio funcionará en los términos previstos por el Código de Comercio, el Reglamento del Registro Público de Comercio y demás disposiciones relativas. La materia a su cargo será la prevista en dichos ordenamientos jurídicos.
+2. La organización y funciones de los Registros mencionados en las fracciones I, II y III, quedan sujetas al régimen de la presente ley y su Reglamento.
+
+3. (DEROGADO, P.O. 25 DE JUNIO DE 2008)
 
 ###### ARTICULO 9.
 
@@ -96,6 +104,10 @@ IV. El Registro Público de Comercio.
 2. El Registro Público de Personas Morales Civiles tendrá a su cargo todo lo relativo al registro y publicidad de la constitución, modificación, extinción y demás situaciones previstas por la presente ley y la legislación de la materia respecto de dichas personas morales.
 
 3. El Registro Público de Anotaciones Especiales comprenderá las secciones previstas en el artículo 154 de esta ley.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+4. El Registro de Comercio funcionará en los términos previstos por el Código de Comercio, el Reglamento del Registro de Comercio y demás disposiciones relativas. La materia a su cargo será la prevista en dichos ordenamientos jurídicos.
 
 ###### ARTICULO 10.
 
@@ -127,9 +139,11 @@ V. Ser de reconocida solvencia moral, sin antecedentes penales por delito doloso
 
 2. El Reglamento desarrollará el régimen de sus funciones y responsabilidades, la forma de sustituir sus ausencias temporales y la delegación de firma.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 13.
 
-La función de Director General o de Director de Oficina del Registro Público es de tiempo completo y resulta incompatible con la de Juez, Notario, Corredor o abogado en el libre ejercicio de su profesión y, en general, con todo empleo o cargo público, o con el desempeño de tareas profesionales, en virtud de sí mismo o por sustitución, estén o no retribuidas con fondos públicos, a excepción de las actividades de docencia e investigación académica.
+La función de Director General o de Director de Oficina del Registro es de tiempo completo y resulta incompatible con la de juez, notario en funciones, corredor o abogado en el libre ejercicio de su profesión y, en general, con todo empleo o cargo público, a excepción de las actividades de docencia e investigación académica.
 
 ###### ARTICULO 14.
 
@@ -255,17 +269,23 @@ II. Practiquen algún asiento indebidamente o rehúsen practicarlo sin motivo fu
 
 III. Retarden, sin causa justificada, el registro o la práctica del asiento a que dé lugar el derecho inscribible;
 
-IV. Cometan errores, inexactitudes u omisiones en los asientos que realicen o en los certificados que expidan;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
 
-V. No expidan las constancias de inscripciones o los certificados dentro del término previsto por esta ley;
+IV. Cometan errores u omisiones de naturaleza inexcusable en los asientos que realicen o en los certificados que expidan;
 
-VI. Cometan alguna inexactitud o algún error sustancial evitable en las inscripciones, cancelaciones o anotaciones;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+V. No expidan, injustificadamente, las constancias de inscripciones o los certificados dentro del término previsto por esta ley;
+
+VI. (DEROGADA, P.O. 25 DE JUNIO DE 2008)
 
 VII. No cancelen, sin motivo fundado, alguna inscripción solicitada por los interesados;
 
 VIII. Cancelen una inscripción o anotación sin el título correspondiente y sin cumplirse los requisitos legales;
 
-IX. Generen error, inexactitud, omisión o retardo en los certificados; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+IX. Generen deliberadamente error, inexactitud, omisión o retardo en los certificados; y
 
 X. En general, falten al cumplimiento de las obligaciones que les impone la presente ley, siempre que con su omisión resultare daño o perjuicio alguno a tercero.
 
@@ -299,7 +319,9 @@ V. Aquellos cuyo registro esté ordenado por disposición de la ley.
 
 ###### ARTICULO 26.
 
-Además de las inscripciones dispuestas en el artículo anterior, se podrá solicitar el registro de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2008)</small>
+
+1. Además de las inscripciones dispuestas en el artículo anterior, se podrá solicitar el registro de:
 
 I. Las declaratorias ambientales, de zonas protegidas y demás que conforme a los ordenamientos en materia ambiental y de desarrollo sustentable sean sujetos de inscripción;
 
@@ -329,9 +351,29 @@ XIII. El decreto de expropiación o de ocupación temporal y la declaración de 
 
 XIV. Los contratos de fideicomiso sobre bienes inmuebles;
 
-XV. La afectación de inmuebles al régimen de propiedad en condominio; y
+XV. La afectación de inmuebles al régimen de propiedad en condominio; y (sic)
 
-XVI. Cualquier acto o contrato de trascendencia en materia de derechos reales.
+XVI. Cualquier acto o contrato de trascendencia en materia de derechos reales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2008)</small>
+
+XVII. Las resoluciones administrativas y judiciales en que resulte conducente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2008)</small>
+
+2. Podrán inscribirse los documentos privados con firmas ratificadas ante notario público, cuando se trate de:
+
+I. La extinción del usufructo, uso y habitación y no se requiera por la ley escritura pública o resolución judicial para dicho efecto;
+
+II. La cancelación de hipoteca a petición del acreedor;
+
+III. La cancelación del patrimonio de familia cuando solo se haya formalizado mediante cláusula de contrato traslativo de dominio; y
+
+IV. Los casos de documentos inscribibles en que la ley expresamente no establezca la formalidad de escritura pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2008)</small>
+
+3. El notario podrá formalizar en una misma escritura pública los actos previstos en el párrafo anterior, cuando se transmita el dominio del inmueble.
 
 #### SECCION SEGUNDA. DE LOS DOCUMENTOS PRESENTADOS AL REGISTRO
 
@@ -339,7 +381,9 @@ XVI. Cualquier acto o contrato de trascendencia en materia de derechos reales.
 
 1. Para el registro de los derechos, actos, contratos, diligencias y resoluciones señalados en los artículos 25 y 26 de esta ley, deberán presentarse los documentos auténticos en que estén consignados, los cuales deberán reunir los siguientes requisitos:
 
-I. Estar formalizados en escritura pública, acta notarial, documento judicial o administrativo, según corresponda, o provenir de árbitros, cuando la ley así lo disponga;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+I. Estar formalizados en escritura pública, documento privado con ratificación de firmas ante fedatario, acta notarial, documento judicial o administrativo o provenir de árbitros, según corresponda, cuando la ley aplicable al caso así lo disponga;
 
 II. Cumplir las formalidades establecidas por las leyes y estar autorizados sus originales por quien esté facultado para hacerlo;
 
@@ -347,11 +391,13 @@ III. Hacer fe en cuanto al contenido que sea objeto de registro; y
 
 IV. Los demás que establezca el Reglamento.
 
-2. Excepcionalmente y cuando las leyes expresamente lo establezcan, podrán presentarse documentos privados con las formalidades que legalmente se determinen. En los mismos deberá constar que el notario comprobó la autenticidad de las firmas, así como la identidad y la voluntad de las partes.
+2. (DEROGADO, P.O. 25 DE JUNIO DE 2008)
 
 ###### ARTICULO 28.
 
-1. Todo documento en virtud del cual se solicite el registro, con objeto de que consten en la inscripción, según su naturaleza y la del derecho, al tiempo de cumplir expresamente con los requisitos que deba contener la escritura pública, en su caso, deberá incorporar los datos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2008)</small>
+
+1. Todo documento en virtud del cual, conforme al artículo anterior, se solicite el registro deberá incorporar los datos siguientes:
 
 I. El acto;
 
@@ -359,11 +405,15 @@ II. Los contratantes;
 
 III. Los bienes;
 
-IV. Los derechos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
 
-V. Las constancias que surjan del certificado; y
+IV. Los derechos; y
 
-VI. La certificación de la Oficina Fiscal respectiva de que se han cubierto todas las contribuciones del inmueble de que se trata, en su caso, y las que cause la operación misma cuyo registro se solicita.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+V. La acreditación de que se han cubierto todas las contribuciones del inmueble de que se trata.
+
+VI. (DEROGADA, P.O. 25 DE JUNIO DE 2008)
 
 2. Deben constar, asimismo, los demás requisitos que exija la Ley del Notariado, la Ley de Catastro, y demás ordenamientos legales aplicables y el Reglamento de esta ley.
 
@@ -523,9 +573,13 @@ V. El valor de la finca o derecho inscrito.
 
 La situación registral sólo variará a petición del autorizante del documento o de quien tuviere interés en asegurar el derecho que se ha de registrar.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 46.
 
-El registro deberá solicitarlo el notario o funcionario autorizante del documento o quien éste designe, en la forma en que se determine en el Reglamento. La presentación de los documentos podrá hacerse en forma física o según los medios que determine la reglamentación.
+Cuando proceda, el registro de un documento deberá solicitarlo el notario o funcionario autorizante del mismo o quien éste designe, en la forma en que se determine en el Reglamento.
+
+La presentación de los documentos podrá hacerse en forma física o según los medios que determine el Reglamento.
 
 ###### ARTICULO 47.
 
@@ -533,31 +587,43 @@ El registro deberá solicitarlo el notario o funcionario autorizante del documen
 
 2. En estos casos, el Registro evaluará el interés de quien transmite el derecho a solicitar el registro, de quien lo adquiere, de aquel en cuyo favor se reserva, o del representante legítimo de cualquiera de ellos.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 48.
 
-Cuando proceda, constituye un deber de los notarios tramitar el registro de los actos asentados en su protocolo, reintegrando a los interesados su título con la debida constancia de registro, de acuerdo a las formas que establezca el Reglamento.
+Cuando proceda, ya sea el notario o el interesado, deberá tramitar el registro de los actos asentados en el protocolo de aquél, y entregar a éste su título con la debida constancia de registro, de acuerdo a lo que establezca el Reglamento.
 
 ### CAPÍTULO VIII. DE LA CALlFICACION
 
 #### SECCION PRIMERA. DE LA CALlFICACION EN GENERAL
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 49.
 
-1. La calificación es una función del Registro Público que tiene por objeto que los documentos y títulos sean sometidos a un previo examen, de tal forma que sólo proceda el registro de los derechos válidos y perfectos.
+La calificación es una función del Registro Público consistente en verificar que:
 
-2. El Registrador calificará si se han observado todas las condiciones prescritas para la validez de los derechos, actos, contratos, diligencias y resoluciones registrables, la capacidad de los otorgantes, las representaciones de los interesados, así como el cumplimiento de todas las formalidades impuestas a los documentos presentados al Registro Público y el pago de los derechos de inscripción y demás correspondientes. Para tal fin, se atenderá a lo que resulte de los documentos y de los asientos respectivos.
+I. El testimonio reúna los requisitos formales;
+
+II. Exista identidad entre el bien previamente inscrito y el bien descrito en el testimonio;
+
+III. El documento sea inscribible;
+
+IV. Los otorgantes se encuentren legitimados frente al Registro Público;
+
+V. Se hayan pagado los derechos registrales; y
+
+VI. En su caso, aquellos otros elementos objetivos que resulten del instrumento.
+
+2. (DEROGADO, P.O. 25 DE JUNIO DE 2008)
 
 #### SECCION SEGUNDA. DE LA CALlFICACION DE LAS RESOLUCIONES
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 50.
 
-1. El Registrador se abstendrá de enjuiciar la legalidad de las resoluciones que le sean enviadas para su inscripción o anotación.
-
-2. Si un registrador advierte alguna circunstancia que a su juicio haga improcedente la inscripción, lo comunicará así al Director de la Oficina del Registro, en un plazo máximo de 10 días, motivando y fundando su observación. Este podrá estar de acuerdo o no con la calificación.
-
-3. En caso de desacuerdo, ordenará el registro bajo su responsabilidad y por acuerdo escrito y fundado.
-
-4. En caso contrario, remitirá acuerdo escrito y fundado a la autoridad que ordenó el registro. No obstante ello, sí dicha autoridad en el plazo máximo de 10 días insiste en que se proceda a la inscripción, se hará ésta transcribiéndose la decisión de la autoridad ordenadora.
+El Registrador se abstendrá de enjuiciar la legalidad de las resoluciones administrativas o judiciales que le sean enviadas para su inscripción o anotación.
 
 #### SECCION TERCERA. DEL RESULTADO DE LA CALlFICACION
 
@@ -627,11 +693,17 @@ Cuando el documento resulte calificado favorablemente, se procederá al registro
 
 #### SECCION PRIMERA. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 60.
 
-1. En los casos en que se hubiere calificado con defecto o denegado el registro, y el interesado no estuviera de acuerdo con la calificación del documento, podrá interponerse el recurso de inconformidad ante el Director General, con el propósito de confirmar o revocar la calificación.
+1. En los casos en que hubiere denegado el registro, el interesado o fedatario podrá buscar se resuelva, subsane o aclarare la diferencia conforme a la ley, mediante escrito fundado y motivado que presentará dentro de los 2 días siguientes, sin que entre tanto corra el plazo para la interposición del recurso de inconformidad hasta que dicho escrito, en el término de 2 días, sea respondido, pasado el cual operará la negativa ficta. En su caso, el interesado podrá interponer el recurso previsto en esta ley.
 
-2. El plazo para interponer el recurso será de 5 días contados a partir (sic) la notificación del acuerdo. El término para resolver el recurso de inconformidad será de 10 días.
+2. El recurso de inconformidad podrá interponerse ante el Director General o el Director de Oficina.
+
+3. El plazo para interponer el recurso será de 10 días, contados a partir de que se hace del conocimiento del interesado el acuerdo de calificación impugnado.
+
+4. El término para resolver el recurso de inconformidad será de 10 días.
 
 ###### ARTICULO 61.
 
@@ -675,9 +747,11 @@ El recurso de inconformidad se presentará en los términos que determine el Reg
 
 Para las presentaciones previstas en este Capítulo, el interesado deberá señalar domicilio en Victoria, donde serán válidas todas las notificaciones que se practiquen.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 70.
 
-Cuando se trate de calificación denegada o con defecto de documentos de origen notarial, constituirá un deber profesional del notario interviniente incoar y tramitar los recursos y peticiones correspondientes.
+Cuando se trate de calificación denegada o con defecto, sobre documentos de origen notarial, el fedatario procederá en los términos del artículo 60 de esta ley.
 
 #### SECCION CUARTA. DEL AVISO A LA DIRECCION DE ASUNTOS NOTARIALES
 
@@ -707,9 +781,13 @@ Queda a salvo de lo dispuesto en los artículos 72 y 73 de esta ley, el caso de 
 
 2. Si se verificara la cesión antes de estar inscrito el derecho a favor del cedente, el cesionario podrá pedir, juntamente con la suya, la inscripción a favor de su causante.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 76.
 
-No se procederá al registro de ningún derecho formalizado en un título en el cual intervengan como parte causahabientes o sucesores, sin que previamente estén inscritos el testamento, el auto declaratorio de herederos y el de nombramiento de albacea, ya sea provisional o definitivo.
+1. No se procederá al registro de ningún derecho formalizado en un título en el cual intervengan como parte causahabientes o sucesores, sin que previamente esté inscrito el auto declaratorio de herederos y el de nombramiento de albacea, ya sea provisional o definitivo.
+
+2. Este requisito no se exigirá cuando se trate de protocolización ordenada por autoridad judicial, o bien sea continuada o sustanciada en sede notarial.
 
 ### CAPITULO XI. DE LA PRIORIDAD O PRELACION
 
@@ -739,9 +817,13 @@ Inscrito o anotado un derecho, no podrá inscribirse o anotarse otro de igual o 
 
 ### CAPITULO XII. DE LA PUBLICIDAD REGISTRAL
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 81.
 
-El Registro será público para quien tenga interés en averiguar la situación y el estado de los bienes inmuebles o derechos reales inscritos y en general consultar los asientos de acuerdo a lo que establezca al respecto el Reglamento.
+1. El registro será público para quien tenga interés en averiguar la situación y el estado de los bienes inmuebles o derechos reales inscritos y en general para consultar los asientos registrales de acuerdo a lo que establezca al respecto el Reglamento.
+
+2. El Registro Público conservará una copia íntegra del documento presentado, utilizando los medios que permite esta ley.
 
 ###### ARTICULO 82.
 
@@ -827,7 +909,7 @@ Con respecto a todas las inscripciones o anotaciones que consten en la técnica 
 
 1. Al calificar el contenido de los asientos con objeto de expedir las certificaciones, se velará por el cumplimiento de las normas sobre protección de datos de carácter personal.
 
-2. Se podrá restringir el acceso a la información relativa a determinadas personas con relación a los asientos en razón de proteger su seguridad e integridad.
+2. (DEROGADO, P.O. 25 DE JUNIO DE 2008)
 
 ### CAPITULO XIII. DE LOS ACTOS EJECUTADOS, LOS CONTRATOS OTORGADOS Y LAS SENTENCIAS PRONUNCIADAS EN PAIS EXTRANJERO
 
@@ -841,7 +923,9 @@ II. Si los documentos en los que consten, están legalizados conforme a lo que s
 
 III. Si tratándose de sentencias, su ejecución haya sido ordenada por la autoridad judicial competente que corresponda; y
 
-IV. Si los documentos están redactados en idioma distinto al español han sido traducidos por peritos oficiales nombrados por la autoridad judicial correspondiente, la que declarará, en su caso, que son conformes a derecho y serán protocolizados ante Notario Público.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+IV. Los actos ejecutados y los contratos otorgados, así como las sentencias pronunciadas en el extranjero redactados en idioma distinto al español deberán ser traducidos por peritos autorizados por la autoridad competente, la que declarará su autenticidad o procedencia, en su caso, conforme al Código de Procedimientos Civiles, y serán protocolizados ante notario público.
 
 ###### ARTICULO 101.
 
@@ -863,19 +947,35 @@ Los actos ejecutados o los contratos otorgados en otra entidad federativa sólo 
 
 2. En caso de que en el Registro Público se detectara la circunstancia señalada en el párrafo anterior, se seguirá el procedimiento previsto en el Reglamento, no pudiendo las partes disponer del inmueble hasta que no se dirima judicialmente la titularidad. Se consignará nota en el o los folios involucrados de dicha circunstancia.
 
-### CAPITULO XVI. DE LA RESERVA DE PRIORIDAD DEL CERTIFICADO CON RESERVA DE PRIORIDAD Y SUS EFECTOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JUNIO DE 2008)</small>
+
+### CAPITULO XVI. DEL CERTIFICADO DE RESERVA DE PRIORIDAD
 
 ###### ARTICULO 104.
 
-1. Cuando vaya a otorgarse una escritura en la que se constituya, traslade, reconozca, transmita, declare, modifique, limite, grave o ceda algún derecho real sobre inmuebles, o que sin serlo sea inscribible, el Notario Público o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro Público el certificado con reserva de prioridad.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+1. Antes de que se otorgue una escritura en la que se constituya, traslade, reconozca, transmita, declare, modifique, limite, grave o ceda algún derecho real sobre inmuebles, o que sin serlo sea inscribible, los interesados a través del notario o autoridad ante quien se haga el otorgamiento, deberán solicitar al Registro Público el certificado de reserva de prioridad; hecho lo cual podrá continuar el trámite de escrituración con el consentimiento de los interesados. En este caso, el notario actuante hará saber a los interesados las eventuales consecuencias de proseguir sin contar con el certificado a que se refiere este párrafo, haciendo la inserción correspondiente en el instrumento.
 
 2. En la solicitud del certificado con reserva de prioridad, que surtirá efectos de aviso preventivo, se deberá mencionar la operación e inmueble de que se trate, los nombres de los contratantes y el respectivo antecedente registral.
 
-3. Presentado un certificado con reserva de prioridad, el Registro Público practicará inmediatamente la nota de presentación, la cual tendrá vigencia por un término de treinta días a partir de la fecha de presentación de la solicitud.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+3. Presentado un certificado de reserva de prioridad, el Registro Público practicará inmediatamente la nota de presentación, la cual tendrá vigencia por sesenta días a partir de la fecha de presentación de la solicitud.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+4. A petición expresa y por escrito de las partes celebrantes, se podrá revocar la nota de presentación a que da lugar la solicitud del certificado de reserva de prioridad.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+5. El Registro Público expedirá los certificados de reserva de prioridad conforme lo disponga el Reglamento.
 
 ###### ARTICULO 105.
 
-1. Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo 1 del artículo 104, dentro de las cuarenta y ocho horas siguientes, el Notario Público o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+1. De acuerdo a las circunstancias del trámite de escrituración, el fedatario ante quien se otorgó el instrumento quedará facultado para presentar ante el Registro Público el aviso preventivo acerca de la operación de que se trate.
 
 2. Dicho aviso contendrá, además de los datos mencionados en el párrafo 2 del artículo 104, la fecha de la escritura y de su firma.
 
@@ -899,9 +999,11 @@ Los documentos que se otorguen conforme a este Capítulo deberán consignar el n
 
 4. Para los demás funcionarios que autoricen documentos por los que se constituya, traslade, reconozca, transmita, declare, modifique, limite, grave o ceda algún derecho real sobre inmuebles, será facultativo solicitar certificados con reserva de prioridad, a fin de que la operación goce de los beneficios de dicha reserva, sin implicar su falta la ineficacia del acto.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 109.
 
-Los notarios que omitan los requisitos previstos en los artículos anteriores incurrirán en la pena de pagar los daños y perjuicios que causen.
+Los notarios que omitan los requisitos previstos en los artículos anteriores incurrirán en responsabilidad y serán sujetos al pago de daños y perjuicios que causen.
 
 ###### ARTICULO 110.
 
@@ -969,7 +1071,9 @@ Siempre que ante la autoridad judicial se pida la nulidad o cancelación de una 
 
 ###### ARTICULO 122.
 
-1. Cualquiera de los interesados en una inscripción del Registro Público, que advirtiere en ella error material o de concepto, podrá pedir su rectificación al Registrador y si éste no conviniere en ella, podrá acudir al Juez con igual petición.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+1. Cualquiera de los interesados en una inscripción del Registro Público, que advirtiere en ella error material o de concepto, podrá pedir su rectificación al Registrador.
 
 2. El Juez declarará y el Registrador reconocerá, en su caso, el error de concepto, solamente cuando sin duda alguna lo hubiere y, en este supuesto, se verificará la rectificación haciendo nuevo asiento con presencia, en todo caso, del título primitivo.
 
@@ -977,7 +1081,9 @@ Siempre que ante la autoridad judicial se pida la nulidad o cancelación de una 
 
 ###### ARTICULO 123.
 
-1. Verificada la rectificación de una inscripción o cancelación en el Registro Público, se rectificarán también los demás asientos relativos a ella que, en su caso, obren en el Registro Público.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+1. Efectuada la rectificación de una inscripción o de una cancelación en el Registro Público, se rectificarán también los demás asientos relativos a ella que, en su caso, obren en el propio Registro Público.
 
 2. El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 
@@ -1005,9 +1111,17 @@ II. Se extinga también por completo el derecho inscrito o anotado;
 
 III. Se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
 
-IV. Se declare la nulidad del asiento; o
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
 
-V. Sea vendido judicialmente el inmueble que reporte el gravamen.
+IV. Se declare la nulidad del asiento registral;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+V. Sea rematado judicial o administrativamente el inmueble; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+VI. Por prescripción en los términos del artículo 130 de esta ley.
 
 ###### ARTICULO 127.
 
@@ -1025,9 +1139,11 @@ Cancelado un asiento se presume extinguido el derecho al que el mismo se refiere
 
 Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 130.
 
-El registro puede ser cancelado a petición de parte cuando el derecho quede extinguido por disposición de la ley.
+El registro puede ser cancelado a petición de parte cuando el derecho quede extinguido por disposición de la ley o mandamiento judicial.
 
 ###### ARTICULO 131.
 
@@ -1093,19 +1209,21 @@ Siempre que ante un tribunal se pida la nulidad o cancelación de una inscripci�
 
 ### CAPITULO XX. VINCULACION DE NORMAS REGISTRALES Y CATASTRALES
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 142.
 
-Los Notarios Públicos, los Jueces y las autoridades investidas de fé pública, previamente a cualquier traslación de dominio en que intervengan, deberán solicitar a los particulares los documentos siguientes, relativos a la identificación y condiciones administrativas de los predios:
+Los notarios, los jueces y las autoridades investidas de fe pública, al presentar al Registro Público un instrumento relativo a la traslación de dominio de un inmueble para su inscripción, deberán acompañar los documentos siguientes:
 
-I. Presentación del manifiesto;
+I. Manifiesto de propiedad;
 
-II. Avalúo pericial con clave catastral, elaborada por la autoridad catastral. El avalúo tendrá una antigüedad máxima de seis meses a partir de su expedición;
+II. Avalúo pericial, catastral o comercial. El avalúo tendrá una vigencia de seis meses a partir de su expedición;
 
-III. Comprobante expedido por la Tesorería Municipal, en donde se acredite que no existe adeudo por concepto de las contribuciones sobre la propiedad inmobiliaria, en la fecha en que se autoricen las escrituras, actos o contratos. La Tesorería Municipal presentará en un solo documento la constancia de no adeudo;
+III. Comprobante del pago de impuesto predial, vigente a la fecha en que se autoricen las escrituras, actos o contratos;
 
-IV. Plano autorizado por la Dirección General de Catastro del Instituto Registral y Catastral o de los Municipios y, en caso de que no existan planos catastrales oficiales, bastará un croquis de la ubicación del terreno dentro de la manzana, con sus medidas de linderos y colindancias, con la distancia del predio a la esquina más próxima de la manzana. En el caso de predios rústicos, un plano con la poligonal envolvente y su cuadro de construcción; y
+IV. Plano o croquis del inmueble señalándose su ubicación, superficie, medidas y colindancias; y
 
-V. Dictamen de opinión de uso del suelo expedido por la autoridad municipal encargada del desarrollo urbano, en los Municipios en donde existan planes de ordenamiento territorial y desarrollo urbano municipales, de centros de población, acciones en materia de desarrollo urbano, planes parciales y declaratorias de usos de suelo, reservas y destinos.
+V. Acreditación de uso de suelo expedida por la autoridad municipal, cuando se trate de una finca rústica que se convierta en urbana.
 
 ###### ARTICULO 143.
 
@@ -1125,11 +1243,11 @@ Las rectificaciones de datos autorizadas en virtud de lo dispuesto en el artícu
 
 ###### ARTICULO 147.
 
-Los Notarios Públicos y los servidores públicos que actúen con fe pública en el otorgamiento de contratos o actos que modifiquen la propiedad o posesión de inmuebles, no ejecutarán ninguna operación si el interesado no les presenta el avalúo pericial expedido por la autoridad competente o persona autorizada por la ley de la materia, relativo a los mismos y con antigüedad máxima hasta seis meses.
+(DEROGADO, P.O. 25 DE JUNIO DE 2008)
 
 ###### ARTICULO 148.
 
-No procederá el registro si los Notarios Públicos que actúen con fe pública en el otorgamiento de contratos o actos que modifiquen la propiedad o posesión, no dejan constancia en el respectivo documento de que el interesado ha presentado el avalúo señalado en el artículo anterior en la forma prevista en el artículo 23 de la ley de Catastro.
+(DEROGADO, P.O. 25 DE JUNIO DE 2008)
 
 ### CAPITULO XXI. DE LA ANOTACION E INSCRIPCION DE LAS RESOLUCIONES JUDICIALES
 
@@ -1175,7 +1293,9 @@ I. El juzgado o tribunal que las haya dictado;
 
 II. El número de expediente y el número y fecha del oficio en que se comunique al Registro Público la resolución respectiva;
 
-III. El nombre del o de los quejosos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+III. El nombre del quejoso;
 
 IV. La naturaleza y efectos de la suspensión;
 
@@ -1183,9 +1303,13 @@ V. El acto reclamado;
 
 VI. Los nombres de los terceros perjudicados, si los hubiere;
 
-VII. La o las garantías otorgadas para que surta efectos la suspensión; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
 
-VIII. Las demás circunstancias relativas al incidente respectivo, cuando así lo disponga el tribunal o el juez del conocimiento.
+VII. La garantía otorgada para que surta efectos la suspensión; y
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+VIII. Las demás circunstancias relativas al incidente respectivo, cuando así lo disponga el tribunal del conocimiento.
 
 ### CAPITULO XXII. DEL REGISTRO DE ANOTACIONES ESPECIALES
 
@@ -1195,7 +1319,9 @@ El Registro Público de Anotaciones Especiales tendrá secciones especiales que 
 
 I. La constitución y extinción del patrimonio de familia de acuerdo a los artículos 646 y 647 del Código Civil;
 
-II. Las capitulaciones o convenios que celebren los cónyuges en relación con sus bienes matrimoniales de acuerdo a lo dispuesto por el artículo 170 del Código Civil;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+II. Las capitulaciones matrimoniales o convenio de liquidación de sociedad conyugal que celebren los cónyuges, en relación con sus bienes inmuebles, en los términos del Código Civil. En caso de que las capitulaciones matrimoniales se tramiten ante notario, éste deberá informar al Registro Civil para que haga las anotaciones correspondientes;
 
 III. El nombramiento de representante a un ausente;
 
@@ -1391,9 +1517,17 @@ Hasta en tanto se disponga del equipo e instalaciones apropiadas para la operati
 
 Cuando en el procedimiento de captura de los asientos que obren en las oficinas del Registro Público para cubrir el procedimiento de automatización o en cualquier otro caso se detecte la ausencia de asientos registrales o documentos de duplicados, el Registro podrá proceder a su reposición a petición de parte interesada.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO SEXTO.
 
-El Reglamento de la presente ley deberá expedirse en un término que no exceda de 90 días posteriores a la entrada en vigor de este ordenamiento.
+El Reglamento de la presente ley deberá expedirse en un término que no exceda de 180 días naturales posteriores a la entrada en vigor de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2008)</small>
+
+###### ARTICULO SEPTIMO.
+
+Los certificados de reserva de prioridad a que alude el artículo 104 de esta ley, que se hayan solicitado al Registro Público dentro del periodo comprendido del 31 de marzo al 30 de junio de 2008, conservarán su vigencia hasta en tanto sean expedidos, prorrogándose ésta durante 60 días más a partir de su fecha de expedición.
 
 SALO N DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de diciembre del año 2007.- DIPUTADO PRESIDENTE.- JESUS EVERARDO VILLARREAL SALlNAS.- Rúbrica; DIPUTADA SECRETARIA.- AIDA ARACELI ACUÑA CRUZ.- Rúbrica.- DIPUTADO SECRETARIO.- FERNANDO ALEJANDRO FERNANDEZ DE LEON.- Rúbrica.
 
@@ -1402,3 +1536,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE JUNIO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
