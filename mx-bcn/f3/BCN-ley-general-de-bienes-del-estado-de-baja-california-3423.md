@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2007-10-19"
+last_updated: "2008-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -367,19 +367,19 @@ Los inmuebles de dominio privado del Estado son inembargables. Tratándose de la
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito, los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del Artículo 39 de la Ley General de Bienes Nacionales.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 36.
 
 Se faculta al Gobierno del Estado para enajenar, a título gratuito, a los Municipios, Asociaciones o Instituciones Privadas cuyas actividades sean de interés social y no persigan fines de lucro, los bienes de dominio privado para que se destinen a servicios públicos, a fines educativos o de asistencia social o bien, en el caso de los Municipios, para que dispongan de ellos con el fin de arbitrarse fondos para aplicarlos al financiamiento, amortización o construcción de obras públicas.
 
-De igual manera se faculta al Ejecutivo del Estado para enajenar a título gratuito a favor de Instituciones y/o dependencias de la Administración Pública Federal, los bienes del dominio privado que se destinen exclusivamente a la construcción de infraestructura destinada a prestar servicios de salud, de seguridad pública, seguridad nacional o para actividades de procuración de justicia.
+De igual manera se faculta al Ejecutivo del Estado para enajenar a título gratuito a favor de Instituciones y/o dependencias de la Administración Pública Federal, y a las entidades que componen la administración pública paraestatal del Estado los bienes del dominio privado que en atención a la naturaleza del servicio prestado así lo requieran.
 
 En el acuerdo respectivo se fijará el plazo dentro del cual deberá ser destinado el bien al objeto previsto. En su defecto, se entenderá que el plazo es de dos años.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+Si el Municipio, asociación, dependencia o institución no utilizaren el bien en el fin señalado, dentro del plazo previsto, o si habiéndolo hecho, dieren al inmueble un uso distinto, sin contar con previa autorización del Gobernador del Estado, tanto el bien como sus mejoras revertirán a favor del Gobierno del Estado. Las condiciones a que se refiere este artículo se insertarán en la escritura de enajenación respectiva.
 
-Si el Municipio, asociación o institución privada, las instituciones y/o dependencias de la administración pública federal, no utilizaren el bien en el fin señalado, dentro del plazo previsto, o si habiéndolo hecho, dieren al inmueble un uso distinto, sin contar con previa autorización del Gobernador del Estado, tanto el bien como sus mejoras se revertirían a favor del Gobierno de Estatal. Las condiciones a que se refiere este artículo se insertarán en la escritura de enajenación respectiva.
+Los instrumentos o documentos mediante los cuales se realicen las operaciones de enajenación a que se refiere el presente artículo, no requerirán de la intervención del Notario Público, y tendrán el carácter de escritura pública, por lo que deberán inscribirse en el Registro Público de la Propiedad y de Comercio, previo el cumplimiento de los requisitos legales correspondientes.
 
 ###### ARTICULO 37.
 
@@ -606,3 +606,7 @@ P.O. 22 DE JULIO DE 2005.
 P.O. 19 DE OCTUBRE DE 2007.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
