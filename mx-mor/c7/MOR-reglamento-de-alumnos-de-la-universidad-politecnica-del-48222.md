@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-alumnos-de-la-universidad-politecnica-del-48222"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-18"
-last_updated: "2006-01-18"
+last_updated: "2008-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE ALUMNOS DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 18 de enero de 2006.
 
@@ -77,6 +77,8 @@ Lo no previsto en el presente Reglamento será resuelto por las instancias corre
 
 ### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS ALUMNOS
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### Artículo 9.
 
 Los alumnos de la Universidad tendrán los derechos siguientes:
@@ -87,31 +89,29 @@ II.- Obtener de las Direcciones Académicas la información que requieran para l
 
 III.- Recibir al momento de la inscripción los programas de estudios correspondientes;
 
-IV.- Recibir el manual del alumno, donde se establecen de forma clara, criterios y formas de evaluación de la asignatura;
+IV.- Utilizar los bienes de la Universidad respetando las normas que rijan el desarrollo de las actividades;
 
-V.- Utilizar los bienes de la Universidad respetando las normas que rijan el desarrollo de las actividades;
+V.- Obtener su número de matrícula y su credencial, previa inscripción en la Universidad;
 
-VI.- Obtener su número de matrícula y su credencial, previa inscripción en la Universidad;
+VI.- Obtener las constancias y certificados que acrediten sus estudios, previo pago de las cuotas correspondientes;
 
-VII.- Obtener las constancias y certificados que acrediten sus estudios, previo pago de las cuotas correspondientes;
+VII.- Concursar para obtener las becas;
 
-VIII.- Concursar para obtener las becas;
+VIII.- Obtener el permiso de la autoridad que corresponda para realizar actos académicos, deportivos y culturales;
 
-IX.- Obtener el permiso de la autoridad que corresponda para realizar actos académicos, deportivos y culturales;
+IX.- Organizar en forma democrática las actividades que persigan objetivos comunes en el ámbito de la recreación, integración y mejoramiento de la comunidad estudiantil;
 
-X.- Organizar en forma democrática las actividades que persigan objetivos comunes en el ámbito de la recreación, integración y mejoramiento de la comunidad estudiantil;
+X.- Pertenecer y participar en las organizaciones estudiantiles de índole académica, deportiva, cultural y de representación;
 
-XI.- Pertenecer y participar en las organizaciones estudiantiles de índole académica, deportiva, cultural y de representación;
+XI.- Tener igualdad de oportunidades y no discriminación por circunstancias personales o sociales, incluida la discapacidad, en el ingreso y permanencia en la Universidad, y en el ejercicio de sus derechos académicos;
 
-XII.- Tener igualdad de oportunidades y no discriminación por circunstancias personales o sociales, incluida la discapacidad, en el ingreso y permanencia en la Universidad, y en el ejercicio de sus derechos académicos;
+XII.- Recibir orientación e información por parte de la Universidad sobre las actividades de la misma que les afecten;
 
-XIII.- Recibir orientación e información por parte de la Universidad sobre las actividades de la misma que les afecten;
+XIII.- Recibir asesoramiento y asistencia por parte de profesores y tutores en el modo en que se determine;
 
-XIV.- Recibir asesoramiento y asistencia por parte de profesores y tutores en el modo en que se determine;
+XIV.- Ejercer su libertad de expresión, de reunión y de asociación en el ámbito universitario; y
 
-XV.- Ejercer su libertad de expresión, de reunión y de asociación en el ámbito universitario; y
-
-XVI.- Todas las demás que les concedan las normas universitarias.
+XV.- Todas las demás que les concedan las normas universitarias.
 
 ###### Artículo 10.
 
@@ -135,9 +135,17 @@ IX. Evitar conductas que perturben la tranquilidad de la vida universitaria;
 
 X. Desempeñar las comisiones de carácter universitario que les sean asignadas;
 
-XI. Pagar los derechos que por los trámites y servicios escolares determine la Secretaría Administrativa; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
 
-XII. Todas las demás señaladas en la reglamentación universitaria.
+XI. Pagar los derechos que por los trámites y servicios escolares determine la Secretaría Administrativa;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+XII. Portar la credencial de estudiante para poder ingresar y permanecer en las instalaciones de la Universidad; y
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+XIII. Todas las demás señaladas en la reglamentación universitaria.
 
 ### CAPÍTULO III. DEL INGRESO, INSCRIPCIÓN Y REINSCRIPCIÓN
 
@@ -149,17 +157,23 @@ Son aspirantes a ingresar a la Universidad los que cumplan con los requisitos y 
 
 El aspirante interesado en cursar estudios en la Universidad, deberá haber acreditado los estudios completos del ciclo escolar inmediato anterior al programa académico al que se inscribe o en su caso, haber obtenido el título de técnico superior universitario o profesional asociado, así como cumplir con los requisitos de admisión establecidos por la convocatoria.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### Artículo 13.
 
-En el caso de los estudiantes que provengan de bachillerato o nivel equivalente a éste, se utilizará como un criterio de admisión el resultado del Examen Nacional de Ingreso a Licenciatura (EXANI II) del CENEVAL.
+En el caso de los aspirantes que provengan de bachillerato o nivel equivalente a éste, se utilizará como un criterio de admisión el resultado del Examen Nacional de Ingreso a Licenciatura (EXANI II) del CENEVAL.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
 ###### Artículo 14.
 
-Se consideran alumnos de nuevo ingreso aquellos que por primera vez se les otorga inscripción en alguna de las carreras u otras opciones que ofrece la Universidad.
+Se consideran alumnos de nuevo ingreso aquellos que por primera vez se les otorga inscripción en alguno de los programas educativos u otras opciones que ofrece la Universidad.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
 ###### Artículo 15.
 
-Los aspirantes que hayan realizado algún estudio en el extranjero, deberán cumplir con los trámites correspondientes para el reconocimiento de sus estudios en México.
+Los aspirantes que hayan realizado algún estudio en el extranjero, deberán cumplir con los trámites correspondientes para el reconocimiento de los mismos en México.
 
 ###### Artículo 16.
 
@@ -175,9 +189,11 @@ Para ingresar como alumno a cualquiera de los niveles de estudio que ofrece la U
 
 Asimismo se publicará la relación de alumnos seleccionados para proceder a su inscripción definitiva o provisional.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### Artículo 19.
 
-Podrán inscribirse, todos los alumnos que hayan cubierto en el proceso de admisión y cumplan con los requisitos que la Universidad establece.
+Podrán inscribirse, los aspirantes que hayan cubierto el proceso de admisión y cumplan con los requisitos que la Universidad establece.
 
 ###### Artículo 20.
 
@@ -227,9 +243,15 @@ La Universidad dará a conocer el calendario de inscripciones y reinscripciones,
 
 El pago de las cuotas o derechos por trámites o servicios en la Universidad, se realizará conforme a los procedimientos y con documentación oficial.
 
+(REGLAMENTO, P.O. 25 DE JUNIO DE 2008) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 2008)
+
 ###### Artículo 28.
 
-La reinscripción será cuatrimestral y el alumno podrá inscribirse al siguiente período, siempre y cuando no haya reprobado más de tres asignaturas. En caso de que el alumno haya reprobado tres asignaturas, el Director Académico de la carrera respectiva, junto con el Secretario Académico, tendrán la facultad de revisar el caso en específico.
+La reinscripción será cuatrimestral y el alumno podrá inscribirse al siguiente período, siempre y cuando no haya reprobado más de cuatro asignaturas en Evaluación Extraordinaria de Asignatura (EEA). En caso de que el alumno haya reprobado cuatro asignaturas, el Director Académico de la carrera respectiva, junto con el Secretario Académico, tendrán la facultad de revisar el caso en específico, cumpliendo los siguientes puntos:
+
+> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
+- No incurra en los supuestos señalados en el artículo 50.
 
 ###### Artículo 29.
 
@@ -247,6 +269,8 @@ III. Comprobante de pago de derechos; y
 
 IV. Los demás que establezca la Universidad.
 
+> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
 ### CAPÍTULO IV. DE LA EVALUACIÓN Y CALIFICACIÓN
 
 ###### Artículo 31.
@@ -261,17 +285,33 @@ La evaluación del aprovechamiento escolar determinará el nivel alcanzado por e
 
 La evaluación del aprovechamiento escolar deberá realizarse durante el desarrollo de cada período escolar. Los programas de estudio deberán contemplar de manera explícita los criterios pedagógicos e instrumentos para realizarla.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### Artículo 34.
 
-El alumno requiere de un mínimo del 80% de asistencia para tener derecho a presentar evaluación ordinaria.
+Las opciones para evaluar el aprovechamiento escolar del alumno son:
+
+I. Evaluación Final Ordinaria (EFO). Es la que se realiza al final de cada periodo escolar. Para tener derecho a presentar esta evaluación el alumno requiere tener al menos un 80% de asistencia en la asignatura;
+
+II. Evaluación Extraordinaria de Asignatura (EEA). Es la que se realiza después de la evaluación ordinaria en caso de que no haya sido aprobada En caso de que tampoco apruebe ésta, el alumno deberá repetir el curso (en la modalidad de ER);
+
+III. Evaluación de Recursamiento (ER). Es la que se realiza al final del periodo del recursamiento. Para tener derecho a presentar esta evaluación el alumno requiere tener al menos un 80% de asistencia en el recursamiento;
+
+IV. Evaluación de Última Asignatura (EUA). Esta evaluación es equivalente a una evaluación de recursamiento y podrá ser realizada por un alumno que se encuentre cursando el penúltimo o último periodo de su programa educativo. Para esta evaluación no será necesaria la asistencia al recursamiento; y
+
+V. Evaluación por Competencia (EPC). Esta evaluación es equivalente a una evaluación ordinaria y podrá ser realizada al inicio de cada uno de los cursos (una por cada curso, sin opción a repetirse). Para esta evaluación no será necesaria la asistencia al curso y en caso de resultar con una calificación reprobatoria, el alumno podrá realizar el curso normal.
+
+(REFORMADO, P.O. 25 DE JUNIO DE 2008) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 2008)
 
 ###### Artículo 35.
 
-Para expresar el aprovechamiento escolar de los alumnos la escala de calificaciones será del 0 (cero) al 10 (diez), siendo 6 (seis) la mínima aprobatoria durante el primer año de la Universidad y 7 (siete), a partir de septiembre de 2005. Esta escala también será aplicable para calificar las actividades de talleres, seminarios, prácticas y laboratorios.
+Para expresar el aprovechamiento escolar de los alumnos la escala de calificaciones será del 0 (cero) al 10 (diez), siendo 7 (siete) la mínima aprobatoria. Esta escala también será aplicable para calificar las actividades de talleres, seminarios, prácticas y laboratorios. La calificación aprobatoria sube a partir de .5, la calificación reprobatoria no sube (Ejemplo 6.5, no sube a 7.0).
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
 ###### Artículo 36.
 
-La calificación final ordinaria deberá ser expresada en números enteros, sin decimales.
+La calificación de la Evaluación Final Ordinaria (EFO), Evaluación Extraordinaria de Asignatura (EEA), Evaluación de Recursamiento (ER) y Evaluación de Última Asignatura (EUA) deberá ser expresada en números enteros, sin decimales.
 
 ###### Artículo 37.
 
@@ -279,21 +319,39 @@ Los profesores deberán entregar las actas de evaluación a la Dirección de Ser
 
 ### CAPÍTULO V. DE LOS CRITERIOS E INSTRUMENTOS DE EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
+
 ###### Artículo 38.
 
-Las evaluaciones se sujetarán a las técnicas e instrumentos de evaluación indicados en el manual correspondiente a cada asignatura.
+Las evaluaciones se sujetarán a las técnicas e instrumentos de evaluación indicados en el manual correspondiente a cada asignatura. Las opciones para acreditar una asignatura son:
+
+I. Evaluación Final Ordinaria (EFO);
+
+II. Evaluación Extraordinaria de Asignatura (EEA);
+
+III. Evaluación de Recursamiento (ER);
+
+IV. Evaluación de Última Asignatura (EUA); y
+
+V. Evaluación por Competencia (EPC).
+
+(REFORMADO, P.O. 25 DE JUNIO DE 2008) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 2008)
 
 ###### Artículo 39.
 
-Las evaluaciones ordinarias y extraordinarias se realizarán en los períodos establecidos en el calendario escolar vigente.
+Las evaluaciones ordinarias y extraordinarias de asignatura y de recursamiento se realizarán en los períodos establecidos en el calendario escolar vigente. Para poder presentar una evaluación ordinaria, extraordinaria o de recursamiento, el alumno deberá estar registrado en la lista de asistencia oficial emitida por Servicios Escolares. Si el alumno no presenta un examen ordinario, extraordinario o de recursamiento estando registrado en la lista de asistencia, se le asignará NP como calificación en la asignatura.
 
 ###### Artículo 40.
 
 En caso de error, omisión o inconformidad por parte del alumno, procederá la rectificación de las actas de calificaciones de conformidad con los requisitos siguientes:
 
-I. Que el alumno lo solicite por escrito ante la Dirección Académica correspondiente, dentro de los cinco días hábiles siguientes a la fecha en que se publiquen las calificaciones.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
 
-II. Se consultará al profesor de la asignatura dentro de los tres días siguientes de recibida la solicitud. El Director Académico, valorando en conciencia las circunstancias, deberá informar a la Dirección de servicios Escolares para realizar lo conducente dentro de los dos días siguientes.
+I. Que el alumno lo solicite por escrito ante la Dirección Académica correspondiente, dentro de los dos días hábiles siguientes a la fecha en que se registró la calificación.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+II. Se consultará al profesor de la asignatura dentro de los tres días siguientes de recibida la solicitud. El Director Académico, valorando las circunstancias, deberá informar a la Dirección de Servicios Escolares mediante el formato de corrección de calificación para realizar lo conducente dentro de los dos días siguientes.
 
 ### CAPÍTULO VI. DEL RECURSAMIENTO
 
@@ -355,9 +413,17 @@ III.- Por haber reprobado una asignatura en recursamiento.
 
 IV.- Por atentar contra las normas y principios de la Universidad.
 
-V.- Porque el alumno haya sido expulsado de la carrera respectiva o de forma definitiva de la Universidad.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
 
-VI.- Porque el alumno la solicite.
+V.- Por haber sido expulsado de la carrera respectiva o de forma definitiva de la Universidad.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+VI.- Por haber acumulado más de 9 asignaturas reprobadas en extraordinario antes de haber cursado más del cincuenta por ciento del programa académico y no tener promedio mayor a 8.0; o
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2008)</small>
+
+VII.- Por solicitud del alumno.
 
 ### CAPÍTULO IX. DE LAS BECAS, SERVICIO SOCIAL Y TITULACIÓN
 
@@ -580,3 +646,9 @@ EL RECTOR FUNDADOR DE LA UNIVERSIDAD LA SALLE CUERNAVACA
 ARQ. MIGUEL JORGE DADA LEMUS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE JUNIO DE 2008.
+
+ÚNICO. Las modificaciones al presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
