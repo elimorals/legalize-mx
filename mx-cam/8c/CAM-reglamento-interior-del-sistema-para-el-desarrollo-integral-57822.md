@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-sistema-para-el-desarrollo-integral-578
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2007-11-16"
+last_updated: "2008-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2008.
 
 Reglamento publicado en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 16 de noviembre de 2007.
 
@@ -125,7 +125,9 @@ El Director General del Sistema, someterá a consideración de la Junta de Gobie
 
 Son facultades de la Junta de Gobierno además de las señaladas en la Ley, las siguientes:
 
-I. Autorizar la compra de bienes muebles e inmuebles que el Sistema requiera para el desempeño de sus actividades. Incluyendo mobiliario y equipo, propio para la administración, toda clase de maquinaria y equipo de producción así como las refacciones, accesorios y herramientas indispensables para su funcionamiento.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2008)</small>
+
+I. Autorizar la donación y venta de bienes muebles e inmuebles propiedad del Sistema.
 
 II. Autorizar la cancelación de cuentas incobrables por parte del Sistema.
 
@@ -163,7 +165,11 @@ VI. Propiciar relaciones armoniosas entre el Sistema y la sociedad, a través de
 
 VII. Las demás que con carácter de indelegables señalen otras disposiciones administrativas o la Junta de Gobierno;
 
-VIII. Coordinar el pago de los servicios prestados por el Sistema a población vulnerable, de acuerdo a estudio socioeconómico previo.
+VIII. Coordinar el pago de los servicios prestados por el Sistema a población vulnerable, de acuerdo a estudio socioeconómico previo;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2008)</small>
+
+IX. Autorizar la compra de bienes muebles e inmuebles que el Sistema requiera para el desempeño de sus actividades. Incluyendo mobiliario y equipo, propio para la administración, toda clase de maquinaria y equipo de producción así como las refacciones, accesorios, herramientas y contratación de servicios indispensables para su funcionamiento.
 
 ###### Artículo 16.
 
@@ -540,3 +546,9 @@ Tercero.- Entre tanto se expiden los Manuales de Organización, de Estructura y 
 Dado en la Sala de Sesiones de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia, en la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, a los doce días del mes de septiembre del año dos mil siete.
 
 SECRETARIO DE SALUD Y PRESIDENTE DE LA JUNTA DE GOBIERNO, DR. ALVARO EMILIO ARCEO ORTIZ.- INTEGRANTES DE LA JUNTA DE GOBIERNO.- LIC. RICARDO MEDINA FARFAN, SECRETARIO DE GOBIERNO.- C.P. VICTOR SANTIAGO PEREZ AGUILAR, SECRETARIO DE FINANZAS Y ADMINISTRACION.- PROFR. JOSE DEL CARMEN SOBERANIS GONZALEZ, SECRETARIO DE EDUCACION CULTURA Y DEPORTE.- LIC. LUIS FERNANDO SADEK ABAD, SECRETARIO DE DESARROLLO SOCIAL.- LIC. JUAN MANUEL HERRERA CAMPOS, PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.- C.P. MARIA CRISTINA CANEPA PEREZ, DIRECTORA GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CAMPECHE.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE JUNIO DE 2008.
+
+Las presentes modificaciones al reglamento interior del Sistema D.I.F. Estatal entrarán en vigor al día siguiente de su publicación ene l Periódico Oficial del Estado.
