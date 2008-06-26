@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2007-12-07"
+last_updated: "2008-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2047,7 +2047,7 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 16) Falsificación y alteración de moneda, previsto en los artículos 234, 236 y 237;
 
-17) Falsificación y utilización indebida de documentos relativos al crédito, previsto en el artículo 240 Bis, salvo la fracción III;
+17) (DEROGADO, D.O.F. 26 DE JUNIO DE 2008)
 
 18) Contra el consumo y riqueza nacionales, previsto en el artículo 254, fracción VII, párrafo segundo;
 
@@ -2095,7 +2095,7 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 35) En materia de delitos ambientales, el previsto en la fracción II Bis del artículo 420.
 
-II. De la Ley Federal contra la Delincuencia Organizada, el previsto en el artículo 2.
+II. De la Ley Federal contra la Delincuencia Organizada, el previsto en el artículo 2;
 
 III. De la Ley Federal de Armas de Fuego y Explosivos, los delitos siguientes:
 
@@ -2109,9 +2109,9 @@ III. De la Ley Federal de Armas de Fuego y Explosivos, los delitos siguientes:
 
 5) Introducción clandestina de armas de fuego que no están reservadas al uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo 84 Bis, párrafo primero.
 
-IV. De la Ley Federal para Prevenir y Sancionar la Tortura, el delito de tortura, previsto en los artículos 3o. y 5o.
+IV. De la Ley Federal para Prevenir y Sancionar la Tortura, el delito de tortura, previsto en los artículos 3o. y 5o;
 
-V. De la Ley General de Población, el delito de tráfico de indocumentados, previsto en el artículo 138.
+V. De la Ley General de Población, el delito de tráfico de indocumentados, previsto en el artículo 138;
 
 VI. Del Código Fiscal de la Federación, los delitos siguientes:
 
@@ -2119,11 +2119,15 @@ VI. Del Código Fiscal de la Federación, los delitos siguientes:
 
 2) Defraudación fiscal y su equiparable, previstos en los artículos 108 y 109, cuando el monto de lo defraudado se ubique en los rangos a que se refieren las fracciones II o III del artículo 108, exclusivamente cuando sean calificados.
 
-VII. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223, fracciones II y III.
+VII. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223, fracciones II y III;
 
-> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2008)</small>
 
-VIII. De la Ley de Instituciones de Crédito, los previstos en los artículos 111; 112, en el supuesto del cuarto párrafo, excepto la fracción V, y 113 Bis, en el supuesto del cuarto párrafo del artículo 112;
+VIII. De la Ley de Instituciones de Crédito, los previstos en los artículos 111; 112, en el supuesto del cuarto párrafo, excepto la fracción V; 112 Bis; 112 Ter; 112 Quáter, y 113 Bis, en el supuesto del cuarto párrafo del artículo 112;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+VIII Bis. De la Ley General de Títulos y Operaciones de Crédito, los previstos en los artículos 432, 433 y 434;
 
 > <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2149,7 +2153,7 @@ XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los a
 
 XIV. De la Ley de Quiebras y Suspensión de Pagos, los previstos en el artículo 96;
 
-> <small>(ADICIONADA, D.O. F. 25 DE MAYO DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2006)</small>
 
 XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del artículo 464 Ter;
 
@@ -5082,3 +5086,13 @@ Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 d
 D.O.F. 7 DE DICIEMBRE DE 2007.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JUNIO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+...
+
+Tercero. Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo 240 Bis del Código Penal Federal, se seguirán calificando como graves en los términos del artículo 194 del Código Federal de Procedimientos Penales, para todos los efectos legales procedentes.
