@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2008-02-06"
+last_updated: "2008-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 6 DE FEBRERO DE 2008, LAS PRESENTES REFORMAS ENTRARAN EN VIGOR A LOS SESENTA DIAS NATURALES SIGUIENTES A SU PUBLICACION; EXCEPTO LA ADICION DEL INCISO H) A LA FRACCION XIX DEL ARTICULO 106, MISMO QUE ENTRARA EN VIGOR EN LA MISMA FECHA EN QUE SE EXPIDA EL REGLAMENTO ACORDE A LO PREVISTO EN EL ARTICULO 63 DE LA LEY FEDERAL DE PROTECCION AL CONSUMIDOR.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -3422,13 +3420,11 @@ Todo acto o contrato que signifique variación en el activo o en el pasivo de un
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
-ARTICULO 99 A.- Las instituciones de crédito constituirán el fondo de reserva de capital separando anualmente por lo menos un diez por ciento de sus utilidades netas, hasta que dicho fondo alcance una suma igual al importe del capital pagado.
-
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
-
 ###### ARTICULO 99-A.
 
 Las instituciones de crédito constituirán el fondo de reserva de capital separando anualmente por lo menos un diez por ciento de sus utilidades netas, hasta que dicho fondo alcance una suma igual al importe del capital pagado.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 100.
 
@@ -4210,21 +4206,43 @@ VI. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2008)
 
 VII. (DEROGADA, D.O.F. 6 DE FEBRERO DE 2008)
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 112 Bis.
 
-Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que:
+Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello, respecto de tarjetas de crédito, de débito, cheques, formatos o esqueletos de cheques o en general cualquier otro instrumento de pago, de los utilizados o emitidos por instituciones de crédito del país o del extranjero:
 
-I. Produzca, reproduzca, introduzca al país, imprima o comercie tarjetas de crédito, de débito, formatos o esqueletos de cheques, o en general instrumentos de pago utilizados por el sistema bancario, sin consentimiento de quien esté facultado para ello;
+I. Produzca, fabrique, reproduzca, introduzca al país, imprima, enajene, aun gratuitamente, comercie o altere, cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
 
-II. Posea, utilice o distribuya tarjetas de crédito, de débito, formatos o esqueletos de cheques, o en general instrumentos de pago utilizados por el sistema bancario, a sabiendas de que son falsos;
+II. Adquiera, posea, detente, utilice o distribuya cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
 
-III. Altere el medio de identificación electrónica y acceda a los equipos electromagnéticos del sistema bancario, con el propósito de disponer indebidamente de recursos económicos, u
+III. Obtenga, comercialice o use la información sobre clientes, cuentas u operaciones de las instituciones de crédito emisoras de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
 
-IV. Obtenga o use indebidamente la información sobre clientes u operaciones del sistema bancario, y sin contar con la autorización correspondiente.
+IV. Altere, copie o reproduzca la banda magnética o el medio de identificación electrónica, óptica o de cualquier otra tecnología, de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
 
-La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en las fracciones anteriores tiene el carácter de consejero, funcionario o empleado de cualquier institución de crédito.
+V. Sustraiga, copie o reproduzca información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, o
+
+VI. Posea, adquiera, utilice o comercialice equipos o medios electrónicos, ópticos o de cualquier otra tecnología para sustraer, copiar o reproducir información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, con el propósito de obtener recursos económicos, información confidencial o reservada.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 112 Ter.
+
+Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que posea, adquiera, utilice, comercialice o distribuya, cualquiera de los objetos a que se refiere el párrafo primero del artículo 112 Bis de esta Ley, a sabiendas de que estén alterados o falsificados.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 112 Quáter.
+
+Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello:
+
+I. Acceda a los equipos o medios electrónicos, ópticos o de cualquier otra tecnología del sistema bancario mexicano, para obtener recursos económicos, información confidencial o reservada, o
+
+II. Altere o modifique el mecanismo de funcionamiento de los equipos o medios electrónicos, ópticos o de cualquier otra tecnología para la disposición de efectivo de los usuarios del sistema bancario mexicano, para obtener recursos económicos, información confidencial o reservada.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+ARTICULO 112 Quintus.- La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos 112 Bis, 112 Ter y 112 Quáter tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier institución de crédito, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo 112 Bis.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -5857,3 +5875,13 @@ Las instituciones de crédito que a dicha fecha actúen como fiduciarias en fide
 Cuarto.- A las sociedades financieras de objeto limitado les será aplicable lo dispuesto en los artículos 108, fracción I, inciso c), por no publicar los estados financieros trimestrales o anuales, dentro de los plazos establecidos en la Ley de Instituciones de Crédito o en las disposiciones que de ella emanen para tales efectos, inciso d) e inciso h); 108 Bis; 108 Bis fracción I, cuando dichas sociedades se fusionen, escindan o transformen sin contar con autorización de la Secretaría de Hacienda y Crédito Público; 108 Bis 1, fracción I, inciso b) y 109 Bis 7 de la Ley de Instituciones de Crédito que por virtud del presente Decreto se reforman o adicionan, hasta la fecha en la que de conformidad con el Artículo Quinto Transitorio del Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación, entren en vigor las reformas, adiciones y derogaciones a los artículos de la Ley de Instituciones de Crédito a que se refiere dicho artículo transitorio.
 
 Quinto.- La Comisión Nacional Bancaria y de Valores, deberá emitir las disposiciones de carácter general a que se refiere el segundo párrafo del artículo 96 Bis del presente ordenamiento, en un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 26 DE JUNIO DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis del Código Penal Federal vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+
+...
