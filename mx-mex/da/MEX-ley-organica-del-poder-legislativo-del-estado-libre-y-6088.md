@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2007-08-13"
+last_updated: "2008-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE JUNIO DE 2008.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1013,9 +1013,9 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Finanzas Públicas
 
-> <small>(ADICIONADO, G.G. 21 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 26 DE JUNIO DE 2008)</small>
 
-- Recursos Acuíferos
+- Recursos Hidráulicos
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1588,3 +1588,13 @@ G.G. 13 DE AGOSTO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE JUNIO DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando se haga referencia en disposiciones legales o administrativas a la Comisión Legislativa de Recursos Acuíferos se entenderá que corresponde a la Comisión Legislativa de Recursos Hidráulicos.
+
+En cumplimiento del presente decreto se modifican los acuerdos publicados en el Periódico Oficial "Gaceta del Gobierno" de fechas 26 de septiembre y 29 de noviembre del año 2006, en cuanto a la denominación de la Comisión de Recursos Acuíferos para sustituirse por la de Recursos Hidráulicos.
