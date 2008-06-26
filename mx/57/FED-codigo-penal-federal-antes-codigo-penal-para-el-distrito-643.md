@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2008-06-20"
+last_updated: "2008-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1037,9 +1037,21 @@ g) Comercialización de objetos robados, previsto en el artículo 368 ter;
 
 h) Robo de vehículo, previsto en el artículo 376 bis;
 
-i) Robo, previsto en los artículos 371, último párrafo; 372; 381 fracciones VII, VIII, IX, X, XI y XV; y 381 bis, o
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2008)</small>
 
-j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis, o
+i) Robo, previsto en los artículos 371, último párrafo; 372; 381, fracciones VII, VIII, IX, X, XI y XV; y 381 Bis;
+
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+k) Los previstos y sancionados en los artículos 112 Bis, 112 Ter, 112 Quáter y 112 Quintus de la Ley de Instituciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164, o 164 Bis, o
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+l) Los previstos y sancionados en los artículos 432, 433, 434 y 435 de la Ley General de Títulos y Operaciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164 o 164 Bis.
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -3323,21 +3335,7 @@ III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o emp
 
 Al que introduzca en la República o pusiere en circulación en ella los documentos falsificados de que habla el artículo anterior, se le aplicará la sanción ahí señalada.
 
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
-
-ARTICULO 240 bis.- Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días multa al que, sin consentimiento de quien esté facultado para ello:
-
-I. Produzca, introduzca al país, enajene, aun gratuitamente, o altere, tarjetas o documentos utilizados para el pago de bienes y servicios, para disposición de efectivo, o esqueletos de cheque;
-
-II. Adquiera, con propósito de lucro indebido, cualquiera de los objetos a que se refiere la fracción anterior, o
-
-III. Posea o detente, sin causa legítima, cualquiera de los objetos a que se refiere la fracción I.
-
-Las mismas penas se impondrán a quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir los objetos a que se refiere la fracción I de este artículo.
-
-Las sanciones previstas se aplicarán con independencia de las que correspondan por cualquier otro delito cometido utilizando los objetos a que se refiere la fracción I de este artículo.
-
-Si el sujeto activo es empleado del ofendido, las penas se aumentarán en una mitad.
+ARTICULO 240 bis.- (DEROGADO, D.O.F. 26 DE JUNIO DE 2008)
 
 ### CAPITULO III. Incesto
 
@@ -6328,3 +6326,11 @@ Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 d
 D.O.F. 20 DE JUNIO DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JUNIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis del Código Penal Federal vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+
+Tercero. Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo 240 Bis del Código Penal Federal, se seguirán calificando como graves en los términos del artículo 194 del Código Federal de Procedimientos Penales, para todos los efectos legales procedentes.
