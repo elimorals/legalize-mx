@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2008-04-21"
+last_updated: "2008-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -458,7 +458,9 @@ b) Presentar a la Mesa Directiva y al Pleno proyectos de puntos de acuerdo, pron
 
 c) Proponer al Pleno la integración de las comisiones, con el señalamiento de la conformación de sus respectivas Mesas Directivas, así como la designación de delegaciones para atender la celebración de reuniones interparlamentarias con órganos nacionales de representación popular de otros países o de carácter multilateral; con respecto a estas reuniones, en los recesos, la Junta de Coordinación Política podrá hacer la designación a propuesta de su Presidente;
 
-d) Presentar al Pleno, para su aprobación, el anteproyecto de presupuesto anual de la Cámara;
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+d) Aprobar el anteproyecto del presupuesto anual de la Cámara de Diputados;
 
 > <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2139,3 +2141,7 @@ DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGANICA DEL CON
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo. Para los efectos de lo dispuesto por el Artículo Séptimo Transitorio del Decreto por el que se expide el Código Federal de Instituciones y Procedimientos Electorales, publicado en el Diario Oficial de la Federación el 14 de enero de 2008, la Cámara de Diputados emitirá la convocatoria para la elección del Contralor General del Instituto Federal Electoral dentro de los diez días siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 26 DE JUNIO DE 2008.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
