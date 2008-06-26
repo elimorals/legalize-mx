@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "2008-02-01"
+last_updated: "2008-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -3596,6 +3596,56 @@ En caso de que el factorante convenga con el factorado que podrá realizar visit
 
 El factorante podrá transmitir a un tercero los derechos de crédito objeto del correspondiente contrato de factoraje financiero que haya celebrado, para lo cual deberá sujetarse a las disposiciones aplicables a dicha transmisión.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+## TITULO TERCERO. De los delitos en materia de títulos y operaciones de crédito
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 432.
+
+Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello, respecto de tarjetas de servicio, de crédito o en general, instrumentos utilizados en el sistema de pagos, para la adquisición de bienes y servicios, emitidos en el país o en el extranjero, por entidades comerciales no bancarias:
+
+I.- Produzca, fabrique, reproduzca, introduzca al país, imprima, enajene, aun gratuitamente, comercie o altere, cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+II.- Adquiera, posea, detente, utilice o distribuya cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+III.- Obtenga, comercialice o use la información sobre clientes, cuentas u operaciones de las entidades emisoras de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+IV.- Altere, copie o reproduzca la banda magnética o el medio de identificación electrónica, óptica o de cualquier otra tecnología, de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
+V.- Sustraiga, copie o reproduzca información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, o
+
+VI.- Posea, adquiera, utilice o comercialice equipos o medios electrónicos, ópticos o de cualquier otra tecnología para sustraer, copiar o reproducir información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, con el propósito de obtener recursos económicos, información confidencial o reservada.
+
+Para los efectos de este capítulo, se entiende por tarjetas de servicio, las tarjetas emitidas por empresas comerciales no bancarias, a través de un contrato que regula el uso de las mismas, por medio de las cuales, los usuarios de las tarjetas, ya sean personas físicas o morales, pueden utilizarlas para la adquisición de bienes o servicios en establecimientos afiliados a la empresa comercial emisora.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 433.
+
+Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientos mil días multa, al que posea, adquiera, utilice, comercialice o distribuya, cualquiera de los objetos a que se refiere el párrafo primero del artículo 432 de esta Ley, a sabiendas de que estén alterados o falsificados.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 434.
+
+Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello:
+
+I.- Acceda a los equipos o medios electrónicos, ópticos o de cualquier otra tecnología de las entidades emisoras de cualquiera de los objetos a que se refiere el párrafo primero del artículo 432 de esta Ley, para obtener recursos económicos, información confidencial o reservada, o
+
+II.- Altere o modifique el mecanismo de funcionamiento de los equipos o medios electrónicos, ópticos o de cualquier otra tecnología para la disposición de efectivo que son utilizados por los usuarios del sistema de pagos, para obtener recursos económicos, información confidencial o reservada.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 435.
+
+La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos 432, 433 y 434 de esta Ley, tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier entidad emisora de los objetos a que se refiere el párrafo primero del citado artículo 432, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo 432.
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1°.
@@ -3969,6 +4019,12 @@ Las instituciones que a la entrada en vigor de este Decreto, se ubiquen en algun
 ###### ARTÍCULO DÉCIMO NOVENO.
 
 Lo dispuesto en el último párrafo del artículo 45-R de esta Ley, no será aplicable a las designaciones futuras de director general o funcionarios o directivos que ocupen las dos jerarquías inmediatas inferiores a aquel, de instituciones de banca múltiple que se ubiquen en los supuestos previstos en el Capítulo IV del Título Segundo de la presente Ley, sólo respecto al director general o funcionarios o directivos que ocupen las dos jerarquías citadas, que al 31 de octubre de 2007 no cumplían con los requisitos establecidos en dicho último párrafo.
+
+D.O.F. 26 DE JUNIO DE 2008.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## TRANSITORIOS
 
