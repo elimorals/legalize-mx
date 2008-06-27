@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2007-09-14"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -1443,11 +1443,13 @@ DE LOS RECARGOS
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 108.
 
-Cuando los créditos fiscales no se paguen en la fecha límite o dentro del plazo fijado por las disposiciones fiscales, o cuando el pago hubiere sido menor al que corresponda; deberán pagarse recargos sobre los montos no cubiertos oportunamente, que se calcularán por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen.
+Cuando los créditos fiscales no se paguen en la fecha límite o dentro del plazo fijado por las disposiciones fiscales, o cuando el pago hubiere sido menor al que corresponda, deberán pagarse recargos sobre los montos no cubiertos oportunamente, que se calcularán por cada mes transcurrido o fracción de éste; desde la fecha de su exigibilidad hasta el día en que se paguen.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los recargos, gastos de ejecución y multas por infracción a las disposiciones fiscales, conforme a la tasa que anualmente dispongan para cada uno de los Municipios, sus respectivas Leyes de Ingresos.
 
@@ -2151,6 +2153,16 @@ La multas que la Tesorería y sus dependencias impongan por infracciones a las d
 
 Si se intnerpone (sic) el recurso de condonación no podrá hacer uso del recurso de revisión.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2008)</small>
+
+DE LA APLICACION DEL REDONDEO
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 201.
+
+Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar pagos ante el Municipio, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
+
 LEY DE HACIENDA MUNICIPAL
 
 TRANSITORIOS.-
@@ -2326,3 +2338,7 @@ UNICO: La presente reforma entrará en vigencia al día siguiente de su publicac
 P.O. 14 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de la publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2008.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
