@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2005-11-18"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -383,15 +383,13 @@ III.- Cuando el contribuyente no pague tres o más parcialidades sucesivas.
 
 IV.- Cuando el deudor incurra en los delitos previstos en este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NO. 58, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 27.
 
-Cuando no se paguen las contribuciones en la fecha límite o dentro del plazo fijado por las disposiciones fiscales, o cuando el pago hubiere sido menor al que corresponda; deberán pagarse recargos sobre los montos no cubiertos oportunamente, que se calcularán por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
-
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los recargos, gastos de ejecución y multas por infracción a las disposiciones fiscales, conforme a la tasa que anualmente disponga la Ley de Ingresos del Estado.
+Cuando no se paguen las contribuciones en la fecha límite o dentro del plazo fijado por las disposiciones fiscales, o cuando el pago hubiere sido menor al que corresponda; deberán pagarse recargos sobre los montos no cubiertos oportunamente, que se calcularán por cada mes transcurrido o fracción de este, desde la fecha de su exigibilidad hasta el día en que se paguen. Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los recargos, gastos de ejecución y multas por infracción a las disposiciones fiscales, conforme a la tasa que anualmente disponga la Ley de Ingresos del Estado.
 
 Cuando se paguen en forma espontánea las prestaciones omitidas y sus recargos, éstos no excederán del 100% del crédito omitido.
 
@@ -1559,7 +1557,9 @@ ARTICULO 97 BIS.- Los visitados, sus representantes, o la persona con quien se e
 
 También deberán permitir la verificación de bienes y mercancías, así como de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
-Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio autorizado administrativamente por la Secretaría de Finanzas, deberán poner a disposición de los visitadores el equipo de cómputo.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio autorizado administrativamente por la Secretaría de Planeación y Finanzas, deberán poner a disposición de los visitadores el equipo de cómputo.
 
 Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que previo cotejo con los originales, se certifiquen por los visitadores:
 
@@ -1853,7 +1853,7 @@ El conjunto de normas que regulan el ejercicio de la facultad económica-coactiv
 
 Las autoridades fiscales encargadas de ejercer el Procedimiento Administrativo de Ejecución, serán responsables de la extinción de los créditos fiscales cuando éste no se inicie oportunamente.
 
-> <small>(REFORMADO, P.O 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 111.
 
@@ -2561,7 +2561,7 @@ La resolución expresará con claridad los actos que se modifiquen y si la modif
 
 La resolución que ponga fin al recurso podrá:
 
-I.- Desecharlo por improcedente o sobreseerlo en su caso.
+I .- Desecharlo por improcedente o sobreseerlo en su caso.
 
 II.- Confirmar el acto impugnado.
 
@@ -2684,3 +2684,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 27 DE JUNIO DE 2008.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
