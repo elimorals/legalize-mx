@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2007-08-02"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS DE IMPUGNACION EN MATERIA POLITICO-ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -889,13 +889,19 @@ El juicio será promovido por los ciudadanos o por la autoridad interesada en lo
 
 I. Cuando el Instituto declare la procedencia o improcedencia del plebiscito o del referendo.
 
-II. Cuando el Instituto no valide los porcentajes ciudadanos para solicitar el plebiscito, el referendo o la iniciativa popular.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-III. Cuando la autoridad competente declare la improcedencia de la iniciativa popular.
+II. Cuando el Instituto no valide los porcentajes ciudadanos para solicitar el plebiscito o el referendo.
 
-IV. Cuando el Poder Ejecutivo, el Congreso del Estado o los Ayuntamientos, emitan actos o resoluciones que violen o transgredan los resultados vinculatorios del plebiscito o del referendo.
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-V. Todos los demás actos de los órganos del Instituto en materia de participación ciudadana.
+III. Cuando el Instituto no declare el cumplimiento de los requisitos para la presentación de la iniciativa popular.
+
+IV. Cuando la autoridad competente declare la improcedencia de la iniciativa popular.
+
+V. Cuando el Poder Ejecutivo, el Congreso del Estado o los Ayuntamientos, emitan actos o resoluciones que violen o transgredan los resultados vinculatorios del plebiscito o del referendo.
+
+VI. Todos los demás actos de los órganos del Instituto en materia de participación ciudadana.
 
 ###### Artículo 100.
 
@@ -986,3 +992,9 @@ P.O. 2 DE AGOSTO DE 2007.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE JUNIO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
