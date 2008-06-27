@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-para-el-estado-libre-y-soberano-de-6591"
 country: "mx"
 rank: "ley"
 publication_date: "1991-02-02"
-last_updated: "2003-03-18"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY N° 100 DE OBRAS PUBLICAS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 2 de febrero de 1991.
 
@@ -455,7 +455,9 @@ Formarán parte del contrato la descripción pormenorizada de la obra que se deb
 
 La ejecución de la obra contratada deberá iniciarse en la fecha señalada y para este efecto la contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo.
 
-Dentro de los cinco días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o por administración directa, la contratante lo comunicará a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+Dentro de los cinco días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o por administración directa, la dependencia o entidad contratante lo comunicará a la Secretaria de Finanzas y Planeación y a la Contraloría General del Estado. En ese mismo término, la empresa contratista lo informará a los ciudadanos del Estado, mediante un anuncio espectacular fijado en el lugar donde se ejecutará: el tipo de obra pública a realizarse, la fecha de iniciación de los trabajos, así como la de su terminación y entrega, el monto total de la inversión para su realización, la dependencia o entidad que contrata y el beneficio que aportará la obra a la población. En los casos de obras por administración directa, esa obligación recaerá en la dependencia o entidad ejecutora.
 
 ###### ARTICULO 48.
 
@@ -746,3 +748,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 27 DE JUNIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
