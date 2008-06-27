@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2007-09-28"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
-EUGENIO ELORDUY WALTHER .
+EUGENIO ELORDUY WALTHER.
 
 GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
@@ -69,9 +69,13 @@ X. Definir las medidas de control y de seguridad para garantizar el cumplimiento
 
 XI. Establecer las bases para garantizar el acceso de la sociedad a la información ambiental, que permita a los ciudadanos conocer la situación ambiental que guarda el Estado y para asegurar su participación corresponsable en la protección del ambiente y la preservación del equilibrio ecológico.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NO. 60, PUBLICADO EN EL P.O. DE 27 DE JUNIO DEL 2008, EL PRESENTE ARTICULO HA SIDO MODIFICADO EN SU ESTRUCTURA.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 2.
 
-Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales y la Ley Forestal, sus Reglamentos, así como las siguientes:
+Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Prevención y Gestión Integral de Residuos, Ley General de Vida Silvestre, la Ley de Aguas Nacionales, la Ley General de Desarrollo Forestal Sustentable y la Ley de Desarrollo Urbano del Estado de Baja California, y sus Reglamentos, así como las siguientes:
 
 I. AGUAS RESIDUALES: Las aguas de composición variada provenientes de las descargas de usos municipales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general cualquier otro uso, así como la mezcla de ellas;
 
@@ -83,39 +87,49 @@ IV. COMBUSTIBLES FOSILES: Materiales comburentes de origen orgánico que incluye
 
 V. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja California;
 
-VI. CONSEJO CONSULTIVO: Al Consejo Consultivo para la Gestión Ambiental en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-VII. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+VI. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
-VIII. DISPOSICIÓN FINAL: Acción de depositar permanente los residuos en sitios y condiciones adecuadas para evitar daños a los ecosistemas y al ambiente;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-IX. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
+VII. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
 
-X. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XI. FUENTE MOVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
+VIII. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-XII. INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XIII. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
+IX. FUENTE MOVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
 
-XIV. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XV. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+X. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
 
-XVI. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XVII. QUEMA: Combustión no controlada de cualquier sustancia o material.
+XI. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
 
-XVIII. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XIX. RESIDUO SOLIDO MUNICIPAL: El residuo sólido no peligroso que proviene de actividades que se desarrollan en casas-habitación, sitios y servicios públicos, demoliciones, construcciones, establecimientos comerciales y de servicios, así como residuos industriales que no se deriven de su proceso, materias primas o sustancias químicas utilizadas;
+XII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XX. RESIDUO INDUSTRIAL: Cualquier material o residuo no peligroso generado en los procesos de extracción, beneficio, transformación, producción, control, tratamiento o de las actividades primarias o secundarias, cuya calidad no permita utilizarlo nuevamente en los procesos que lo generaron;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XXI. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California; y
+XIII. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
 
-XXII. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XIV. QUEMA: Combustión no controlada de cualquier sustancia o material;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XV. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XVI. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California.
 
 ###### ARTÍCULO 3.
 
@@ -131,7 +145,9 @@ IV. La preservación y protección de la biodiversidad en zonas o bienes de comp
 
 V. El establecimiento de zonas de amortiguamiento, con motivo de la presencia de actividades consideradas como riesgosas;
 
-VI. El establecimiento de sitios de confinamiento y disposición final de residuos sólidos municipales y residuos sólidos industriales; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+VI. El establecimiento de sitios de confinamiento y disposición final de residuos sólidos urbanos y residuos de manejo especial;
 
 VII. Los fondos ambientales.
 
@@ -211,7 +227,9 @@ XVIII. Promover y realizar acciones relacionadas con la protección, preservaci�
 
 XIX. Promover y realizar programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas, con instituciones de educación superior, centros de investigación e instituciones públicas;
 
-XX. Promover la creación de normas ambientales;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XX. Promover la creación de normas ambientales estatales;
 
 XXI. Otorgar y revocar los permisos, licencias y en general las autorizaciones derivadas de la presente Ley y solicitar la cancelación o revocación del permiso, licencia, autorización o concesión a la autoridad otorgante, cuando esta sea distinta a la Secretaría;
 
@@ -227,7 +245,9 @@ XXVI. Ordenar, cuando exista violación flagrante, daños o presencia inminente 
 
 XXVII. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución que sea necesaria, de conformidad con la Ley, durante el procedimiento;
 
-XXVIII. Admitir y resolver los recursos de revisión que se interpongan con motivo de la aplicación de la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XXVIII. Admitir y resolver los recursos de revocación que se interpongan con motivo de la aplicación de la presente Ley;
 
 XXIX. Expedir, previo pago del derecho que se fije en la Ley de Ingresos del Estado, las copias certificadas que le sean solicitadas en los términos de esta Ley;
 
@@ -235,9 +255,15 @@ XXX. Integrar el padrón de las personas físicas o morales que lo soliciten en 
 
 XXXI. Promover consulta pública en materia ambiental. En el caso de plebiscitos o referéndum, se atendrá a lo establecido en la Ley y reglamentos respectivos;
 
-XXXII. Ejercer todas aquellas acciones tendientes a la preservación y restauración del equilibrio ecológico, así como la prevención y control de la contaminación del aire, agua y suelo que no sean de competencia federal; y
+XXXII. Ejercer todas aquellas acciones tendientes a la preservación y restauración del equilibrio ecológico, así como la prevención y control de la contaminación del aire, agua y suelo que no sean de competencia federal; y (sic)
 
-XXXIII. Las demás que conforme a la legislación federal aplicable le correspondan.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XXXIII. La Secretaría propondrá los derechos que correspondan al aprovechamiento de recursos naturales de actividades y proyectos de competencia estatal no reservados a la Federación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2008)</small>
+
+XXXIV. Las demás que conforme a la legislación local y federal aplicable le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -283,7 +309,9 @@ XIX. Aplicar las disposiciones jurídicas en materia de prevención y control de
 
 XX. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las de competencia federal y estatal;
 
-XXI. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, tratamiento y disposición final de los residuos sólidos municipales de conformidad con lo dispuesto por la Ley General y la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XXI. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, tratamiento y disposición final de los residuos sólidos urbanos de conformidad con lo dispuesto por la Ley General y la presente Ley;
 
 XXII. Ordenar la realización de visitas de inspección para verificar el cumplimiento de la presente Ley, en las materias que sean de su competencia;
 
@@ -315,7 +343,9 @@ XXXV. Promover y realizar programas para el desarrollo de técnicas y procedimie
 
 XXXVI. Requerir a los responsables de empresas de competencia municipal, la información necesaria en los formatos para las licencias o registros respectivos de generación de contaminantes;
 
-XXXVII. Regular y aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación generada por fuentes móviles, así mismo, para los sistemas de recolección y transporte de los residuos sólidos municipales, residuos sólidos industriales no peligrosos, así como aguas residuales y residuos líquidos no peligrosos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XXXVII. Regular y aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación generada por fuentes móviles, así mismo, para los sistemas de recolección y transporte de los residuos sólidos urbanos y residuos de manejo especial; y
 
 XXXVIII. Los demás asuntos que en la materia les concedan la Ley General, esta Ley, otros ordenamientos legales y reglamentos aplicables.
 
@@ -513,19 +543,9 @@ La Secretaría, en coordinación con los municipios, elaborará y pondrá en eje
 
 La Secretaría, a más tardar el 31 de octubre de cada año, elaborará y presentará para su aprobación al Consejo, el Programa Estatal de Protección al Ambiente, que incluirá un informe del estado que guarda el ambiente, debiéndose hacer de conformidad con los lineamientos de los documentos básicos de la política ambiental y los principios de la política ambiental general.
 
-###### Artículo 25.
+###### ARTÍCULO 25.
 
-Se crea el Consejo Consultivo, integrado de la siguiente manera:
-
-I. Un ciudadano representativo de las organizaciones civiles ambientalistas, por cada uno de los municipios;
-
-II. Un ciudadano representativo en materia educativa, por cada uno de los municipios;
-
-III. Un ciudadano representativo del sector privado, por cada uno de los municipios; y
-
-IV. Un ciudadano representativo en materia de recursos naturales, por cada uno de los municipios.
-
-Los puestos ocupados por los integrantes del Consejo Consultivo serán honoríficos y las reglas para su organización y operación serán especificadas en el Reglamento, pero su elección deberá hacerse mediante convocatoria pública y procedimientos transparentes y sesionarán al menos dos veces al año.
+(DEROGADO, P.O. 27 DE JUNIO DE 2008)
 
 #### SECCIÓN II. Ordenamiento ecológico
 
@@ -633,15 +653,19 @@ VII. La sustitución o eliminación de sustancias que afecten o puedan llegar a 
 
 VIII. El saneamiento y restauración ambiental voluntario, cuando quien lo realice no haya sido responsable de la contaminación o deterioro;
 
-IX. Las actividades de reciclaje de residuos industriales y residuos sólidos municipales; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+IX. Las actividades de reciclaje de residuos de manejo especial y residuos sólidos urbanos; y
 
 X. En general, aquellas acciones relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
 #### SECCIÓN IV. Del fondo ambiental
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 39.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en la Ley General, esta Ley, sus reglamentos y demás disposiciones que de ellos se deriven, así como los que se perciban por concepto del otorgamiento de permisos, autorizaciones, concesiones y licencias en materia ambiental, las indemnizaciones que reciba el Gobierno del Estado por daños al ambiente, herencias, aportaciones o donativos, conforme lo determinen en los ordenamientos aplicables, se destinarán a la integración de fondos ambientales en los ámbitos que corresponda.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en la Ley General, esta Ley, sus reglamentos y demás disposiciones que de ellos se deriven, así como los que se perciban por concepto del otorgamiento de permisos, autorizaciones, concesiones y licencias en materia ambiental, indemnizaciones que reciba el Gobierno del Estado por daños al ambiente, herencias, aportaciones o donativos, así como rendimientos financieros, conforme lo determinen en los ordenamientos aplicables, se destinarán a la integración de fondos ambientales en los ámbitos que corresponda.
 
 Los recursos de los fondos ambientales serán aplicados a:
 
@@ -697,11 +721,15 @@ VIII. Actividades consideradas riesgosas en los términos de esta Ley y las que 
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-IX. La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos; y,
+IX. La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos; y (sic),
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-X. Las que se determinen en los reglamentos, normas ambientales estatales.
+X. Exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la Federación, fuera de los centros de población; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2007)</small>
+
+XI. Las que se determinen en los reglamentos, normas ambientales estatales.
 
 Entre los municipios y la Secretaría, podrán establecerse convenios a fin de que las propias unidades de gestión ambiental municipales realicen las evaluaciones de impacto ambiental y emitan las autorizaciones, cuando las obras o actividades de que se refiere el presente artículo no sean altamente riesgosas, no causen impactos severos al ambiente o impliquen un uso masivo de recursos naturales.
 
@@ -709,7 +737,9 @@ Entre los municipios y la Secretaría, podrán establecerse convenios a fin de q
 
 Se requiere previamente la evaluación y otorgamiento de la licencia ambiental por la autoridad Municipal en los siguientes casos:
 
-I. Obras o actividades comerciales y de servicios que pretendan realizarse dentro de la jurisdicción municipal;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+I. Obras o actividades comerciales y de servicios que pretendan realizarse dentro del centro de población;
 
 II. Fraccionamientos industriales y habitacionales que pretenden ubicarse dentro del centro de población;
 
@@ -717,7 +747,9 @@ III. Centrales de abastos;
 
 IV. Aprovechamiento de minerales o sustancias no reservados a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su desintegración, para la fabricación de materiales para la construcción u ornato;
 
-V. La recolección, transporte, almacenamiento, reuso, recuperación y reciclaje de residuos sólidos municipales; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+V. La recolección, transporte, almacenamiento, reuso, recuperación y reciclaje de residuos sólidos urbanos; y
 
 VI. Obras y actividades que estando reservadas a la Federación o al Estado se descentralicen a favor del Municipio a través del convenio respectivo.
 
@@ -731,7 +763,13 @@ Para obtener autorización en materia de impacto ambiental, los interesados, pre
 
 Cuando se trate de obras y actividades consideradas riesgosas en los términos de esta ley, la manifestación deberá incluir el estudio de riesgo correspondiente.
 
-Si después de una presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de los planes y programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la autoridad, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta ley.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+Si después de la presentación de una manifestación de impacto ambiental y antes de realizar modificaciones a los planes y programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Autoridad, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2008)</small>
+
+Asimismo, si la información presentada en la manifestación de Impacto Ambiental no contempla los elementos técnicos necesarios que permitan a esta Autoridad determinar los posibles impactos por el desarrollo de la actividad solicitada, se requerirá la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar las obras o actividades del proyecto respectivo.
 
 Los contenidos, características y las modalidades de las manifestaciones de impacto ambiental, los estudios de riesgo, serán establecidos por el reglamento de la presente Ley.
 
@@ -739,7 +777,9 @@ Los contenidos, características y las modalidades de las manifestaciones de imp
 
 Las obras y actividades, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales negativos significativos al ambiente, no causen desequilibrios ecológicos, ni rebasen los límites y condiciones establecidas en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, no estarán sujetas a la presentación de la manifestación de impacto ambiental. En estos casos, el responsable de la obra o actividad deberá presentar el documento denominado informe preventivo, de manera previa al inicio de actividades, especialmente cuando:
 
-I. Existan Normas Oficiales Mexicanas o Ambientales Estatales u otras disposiciones que regulen las emisiones a la atmósfera, las descargas de aguas, manejo y disposición de residuos sólidos municipales e industriales no peligrosos, el aprovechamiento de los recursos naturales y en general todos los impactos ambientales relevantes que puedan producir las obras y actividades;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+I. Existan Normas Oficiales Mexicanas o Ambientales Estatales u otras disposiciones que regulen las emisiones a la atmósfera, las descargas de aguas, manejo y disposición de residuos sólidos urbanos y de manejo especial, el aprovechamiento de los recursos naturales y en general todos los impactos ambientales relevantes que puedan producir las obras y actividades;
 
 II. Las obras y actividades de que se traten estén expresamente previstas en los planes y programas estatales de desarrollo y planes y programas de desarrollo urbano del centro de población y que hayan sido evaluados y aprobados por la Secretaría; y
 
@@ -748,6 +788,10 @@ III. Cuando se trate de instalaciones de obras y actividades expresamente previs
 Los formatos con sus contenidos y características del informe preventivo y el listado de las obras y actividades, que requieran de la presentación de un informe preventivo deberán ser analizados y aprobados por el Consejo Estatal de Protección al Ambiente y publicados el Periódico Oficial del Estado.
 
 Una vez recibido el informe preventivo, la autoridad competente en un plazo no mayor de diez días hábiles, comunicará a los interesados si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y plazo para hacerlo. Transcurrido el plazo señalado, sin que la autoridad emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2008)</small>
+
+Si después de la presentación de un informe preventivo y antes de realizar modificaciones a los planes y programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Autoridad, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en la presente Ley.
 
 Quedan exentas del trámite de evaluación de impacto ambiental, las obras o actividades que se determinen en los reglamentos y normas ambientales estatales.
 
@@ -801,7 +845,9 @@ I. Aquellos que prevean el aprovechamiento masivo de los recursos naturales del 
 
 II. Obras o actividades que pretendan realizarse dentro de áreas naturales protegidas de competencia estatal;
 
-III. Sitios para disposición final de residuos sólidos municipales y residuos industriales ;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+III. Sitios para disposición final de residuos sólidos urbanos y manejo especial;
 
 IV. Plantas de tratamientos de aguas residuales destinadas a la prestación de un servicio publico;
 
@@ -825,7 +871,9 @@ Las personas que presten servicios de impacto ambiental, serán responsables ant
 
 Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo, podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en este caso, la responsabilidad respecto del contenido del documento corresponderá a quienes lo suscriban.
 
-El padrón se constituirá en los términos señalados en la fracción XXVIII, del artículo 10, de esta Ley, por las personas físicas o morales que lo soliciten a la Secretaría, en su carácter de prestadores de servicios profesionales especializados, en la preservación y restauración ecológica.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+El padrón se constituirá en los términos señalados en el artículo 60, de esta Ley y su reglamento, por las personas físicas o morales que lo soliciten a la Secretaría, en su carácter de prestadores de servicios profesionales especializados, en la preservación y restauración ecológica.
 
 #### SECCIÓN VII. Normas ambientales Estatales
 
@@ -1429,7 +1477,9 @@ I. Prevenir y controlar las descargas de aguas residuales a cuerpos receptores d
 
 II. Requerir a quienes generen descargas de aguas residuales a cuerpos receptores, el cumplimiento de los límites máximos permisibles que establezcan las normas oficiales mexicanas y las normas ambientales estatales;
 
-III. Otorgar el registro correspondiente, de conformidad con esta Ley, la Ley General y sus reglamentos, a los generadores de descargas de aguas residuales a cuerpos receptores de competencia estatal;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+III. Integrar el registro y otorgar la licencia correspondiente, de conformidad con esta ley, la Ley General y sus reglamentos, a los generadores de descargas de aguas residuales a cuerpos receptores de competencia estatal;
 
 IV. Requerir a quienes generen descargas de aguas residuales, la aplicación de la mejor tecnología disponible, con el propósito de reducir la generación de contaminantes;
 
@@ -1493,9 +1543,13 @@ II. Dar Tratamiento a sus descargas y mantenerlas por debajo de los niveles máx
 
 III. Aplicar la mejor tecnología disponible para reducir la generación de contaminantes y el volumen de descarga, así como facilitar su reuso;
 
-IV. En el caso de fallas o descomposturas de los equipos de control de la contaminación del agua, de inmediato realizar las actividades y obras para su restauración y dar aviso a la Secretaría; y
+IV. En el caso de fallas o descomposturas de los equipos de control de la contaminación del agua, de inmediato realizar las actividades y obras para su restauración y dar aviso a la Secretaría; y (sic)
 
-V. Mantener en el predio un acceso fácil y permanente al punto de descarga de las aguas residuales para su monitoreo.
+V. Mantener en el predio un acceso fácil y permanente al punto de descarga de las aguas residuales para su monitoreo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2008)</small>
+
+VI. Llevar y mantener actualizada, una bitácora de operación y mantenimiento del equipo utilizado para tratamiento y control de la descarga de aguas residuales.
 
 ###### ARTÍCULO 131.
 
@@ -1533,33 +1587,49 @@ II. Tomar las medidas preventivas necesarias para evitar contingencias ambiental
 
 III. Promover la realización de las obras y actividades de regeneración y rehabilitación para la restauración de los suelos contaminados, así mismo para los que presentan fenómenos de erosión o degradación;
 
-IV. Requerir a quienes generen contaminación del suelo el cumplimiento de las normas aplicables en materia de almacenamiento reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento y disposición final de residuos industriales y de lenta degradación;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-V. Integrar y mantener actualizado el inventario de generación de residuos industriales y de lenta degradación y coordinarse con los gobiernos federal y Municipal para la integración del inventario de generación de residuos;
+IV. Requerir a quienes generen contaminación del suelo el cumplimiento de las normas aplicables en materia de almacenamiento reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento y disposición final de residuos de manejo especial y de lenta degradación;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+V. Integrar y mantener actualizado el inventario de generación de residuos de competencia estatal y coordinarse con los gobiernos federal y municipal para la integración del inventario de generación de residuos;
 
 VI. Requerir, a quienes produzcan contaminación del suelo, para que lleven a cabo las acciones necesarias para recuperar y restablecer las condiciones del mismo, para que este pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva; y
 
 VII. Autorizar las actividades relacionadas con la exploración, explotación, extracción y aprovechamiento de los minerales o sustancias no reservadas a la federación y requerir la restauración y reforestación de las áreas utilizadas, una vez concluidos los trabajos respectivos.
 
-En el caso de que sea el Ayuntamiento que opere el sistema de recolección, estación de transferencia, transporte, almacenamiento, manejo, tratamiento de un sitio de disposición final de residuos sólidos municipales, será la Secretaría quien lo regulará y requerirá para el cumplimento de la Ley General, esta Ley y la normatividad aplicable.
+> <small>(REFORMADO, P.O 27 DE JUNIO DE 2008)</small>
+
+En el caso de que sea el Ayuntamiento quien opere el sistema de recolección, estación de transferencia, transporte, almacenamiento, manejo, tratamiento de un sitio de disposición final de residuos sólidos urbanos, será la Secretaría quien lo regulará y requerirá para el cumplimento de la Ley General, esta Ley y la normatividad aplicable.
 
 ###### ARTÍCULO 136.
 
 En materia de prevención y control de la contaminación del suelo, los municipios tendrán las siguientes facultades:
 
-I. Operar el sistema de manejo de residuos sólidos municipales;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+I. Operar el sistema de manejo de residuos sólidos urbanos;
 
 II. Promover normas ambientales estatales para evitar la contaminación del suelo;
 
 III. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación del suelo;
 
-IV. Autorizar las actividades de recolección, transporte, almacenamiento y manejo de los residuos sólidos municipales;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-V. Requerir y aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación del ambiente, a los responsables de la generación, recolección, almacenamiento, manejo, transporte y reciclaje de residuos sólidos municipales, conforme a las normas aplicables y demás condicionantes que se les establezcan;
+IV. Autorizar las actividades de recolección, transporte, almacenamiento, segregación, aprovechamiento y manejo de los residuos sólidos urbanos;
 
-VI. Requerir y aplicar las disposiciones jurídicas a quienes generen y provoquen la contaminación del suelo, el cumplimiento de las normas aplicables y demás condicionantes que se les establezcan, en materia de manejo, recolección, transporte, almacenamiento, reuso, recuperación y reciclaje de residuos sólidos municipales;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-VII. Integrar y mantener actualizado el inventario de generación de residuos sólidos municipales y coordinarse con el Gobierno Estatal para la integración del inventario de generación de residuos en el Estado; y
+V. Requerir y aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación del ambiente, a los responsables de la generación, recolección, almacenamiento, manejo, transporte y reciclaje de residuos sólidos urbanos, conforme a las normas aplicables y demás condicionantes que se les establezcan;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+VI. Requerir y aplicar las disposiciones jurídicas a quienes generen y provoquen la contaminación del suelo, el cumplimiento de las normas aplicables y demás condicionantes que se les establezcan, en materia de manejo, recolección, transporte, almacenamiento, reuso, recuperación y reciclaje de residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+VII. Integrar y mantener actualizado el inventario de generación de residuos sólidos urbanos y coordinarse con el Gobierno Estatal para la integración del inventario de generación de residuos en el Estado, y
 
 VIII. Expedir en sus bandos de policía o reglamentos los requerimientos que considere pertinentes para sujetar los responsables a que se refieren las fracciones III y IV de este artículo, en materia de prevención y control de la contaminación del suelo.
 
@@ -1741,7 +1811,9 @@ Toda petición de información ambiental deberá presentarse por escrito, especi
 
 La Secretaría, en coordinación con los municipios, desarrollará un sistema estatal de información ambiental, vinculado al sistema nacional de información ambiental y de recursos naturales, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental estatal, por los diferentes medios, incluidos los electrónicos. Los aspectos de integración y operación, del sistema de información ambiental, serán establecidos en el reglamento.
 
-En dicho sistema, se integrarán, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el Estado, de los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, al ordenameinto (sic) ecológico del Estado, así como la información relativa a emisiones atmosféricas, descargas de aguas residuales y residuos no peligrosos, y la correspondiente a los registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección del ambiente.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+En dicho sistema se integrarán, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el Estado, de los Mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, al ordenamiento ecológico del estado, así como la información relativa a emisiones atmosféricas, descargas de aguas residuales y residuos no peligrosos, y la correspondiente a los registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección del ambiente.
 
 ###### ARTÍCULO 162.
 
@@ -1759,7 +1831,9 @@ La autoridad ambiental deberá responder por escrito a los solicitantes de infor
 
 En caso que la autoridad conteste negativamente la solicitud, deberá señalar las razones que motivaron tal determinación.
 
-Los afectados por actos de la Secretaría o la autoridad Municipal regulados en este capítulo, podrán ser impugnados mediante la interposición del recurso de revisión, de conformidad con lo dispuesto en esta Ley y disposiciones reglamentarias.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+Los afectados por actos de la Secretaría o la autoridad municipal regulados en este capítulo, podrán ser impugnados mediante la interposición del recurso correspondiente, de conformidad con lo dispuesto en esta Ley y disposiciones reglamentarias.
 
 ###### ARTÍCULO 165.
 
@@ -1821,7 +1895,9 @@ III. Los datos que permitirán identificar al presunto infractor o localizar la 
 
 IV. Las pruebas que en su caso ofrezca el denunciante.
 
-Asimismo, podrá formularse verbalmente la denuncia, en cuyo caso el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Secretaría o la autoridad Municipal competente investiguen de oficio los hechos constitutivos de la denuncia.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+Asimismo, podrá formularse verbalmente, por vía telefónica o medios electrónicos la denuncia, en cuyo caso el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Secretaría o la autoridad municipal competente investiguen de oficio los hechos constitutivos de la denuncia.
 
 ###### ARTÍCULO 172.
 
@@ -1877,11 +1953,11 @@ Dicho personal, al realizar las visitas de inspección, deberá contar con el do
 
 El personal autorizado se encontrará investido de fe pública para realizar los actos de ejecución que le sean ordenados.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 178.
 
 El personal autorizado, al iniciar la inspección, se identificará debidamente ante el propietario, ante el representante legal, el encargado o con quien se encuentre a cargo del establecimiento. La inspección se realizará con la persona con quien se entienda la diligencia, a quien se exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe a dos testigos.
-
-Para efectos de lo dispuesto en el párrafo que antecede, aún cuando el propietario o representante legal del establecimiento no se encontrare, si la persona que deba realizar la inspección detectara la comisión flagrante de infracciones a la ley, procederá a realizar la inspección con la persona que se encuentre en el lugar de la inspección.
 
 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
 
@@ -1933,7 +2009,9 @@ La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cua
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPÍTULO IV. Recurso de revisión
+### CAPÍTULO IV. Del Recurso Administrativo
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 187.
 
@@ -1941,9 +2019,9 @@ Las violaciones a los preceptos de la Ley General, esta Ley, sus reglamentos, no
 
 I. Amonestación;
 
-II. Multa por el equivalente de doscientos a veinte mil días de salario mínimo general vigente en la región, al momento de imponer la sanción.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-Las multas aplicables, serán determinadas en un tabulador de multas, de conformidad con las disposiciones previstas en el reglamento correspondiente;
+II. Multa por el equivalente de doscientos a veinte mil días de salario mínimo general vigente en la región, al momento de imponer la sanción;
 
 III. Clausura temporal o definitiva, parcial o total, cuando se incurra en cualquiera de los siguientes casos:
 
@@ -1975,7 +2053,9 @@ Se considera reincidente al infractor que incurra más de una vez en conductas q
 
 En el caso en que el infractor realice las medidas correctivas o las de urgente aplicación, o subsane las irregularidades en que hubiere incurrido, previamente a la imposición de una sanción y siempre que lo haga del conocimiento de la autoridad dentro del plazo de los diez días hábiles posteriores a la notificación del acuerdo de requerimiento de medidas correctivas o de urgente aplicación, la autoridad podrá considerar tal situación como atenuante de la infracción cometida.
 
-Al dictar la resolución que ponga fin al procedimiento de inspección y vigilancia, o al resolver sobre el recurso de revisión interpuesto, y siempre que el particular lo solicite dentro del plazo a que se refiere el párrafo anterior, la autoridad podrá, fundando y motivando su resolución, otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en adquisición, instalación de equipo o tecnología de protección ambiental, siempre y cuando ésta no tenga relación directa con el motivo de la sanción o sus obligaciones de Ley y se garanticen las obligaciones del infractor y no se trate de riesgo inminente de desequilibrio ecológico, o de casos de contaminación con repercusiones peligrosas al ambiente.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+Al dictar la resolución que ponga fin al procedimiento de inspección y vigilancia, o al resolver sobre el recurso correspondiente interpuesto, y siempre que el particular lo solicite dentro del plazo a que se refiere el párrafo anterior, la autoridad podrá, fundando y motivando su resolución, otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en adquisición, instalación de equipo o tecnología de protección ambiental, siempre y cuando ésta no tenga relación directa con el motivo de la sanción o sus obligaciones de ley y se garanticen las obligaciones del infractor y no se trate de riesgo inminente de desequilibrio ecológico, o de casos de contaminación con repercusiones peligrosas al ambiente.
 
 ###### ARTÍCULO 191.
 
@@ -1983,15 +2063,25 @@ Cuando proceda como sanción la clausura temporal o definitiva, total o parcial,
 
 En los casos en que se imponga como sanción la clausura temporal, la autoridad ambiental deberá indicar al infractor las medidas correctivas y las acciones que deba llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+ARTÍCULO 191 BIS.- La Secretaría y los Municipios podrán revocar las autorizaciones, permisos, licencias, cédulas o resoluciones, que haya emitido en los siguientes casos:
+
+I.- Cuando la autorización, permiso o licencia se hubiera otorgado considerando información falsa proporcionada por el autorizado;
+
+II.- Cuando una vez emitida la autorización, licencia o permiso surjan causas supervenientes que modifiquen significativamente las condiciones ambientales bajo las cuales fueron otorgadas; y
+
+III.- Cuando el autorizado no haya iniciado actividades en el término de un año, a partir de la fecha en que le fue notificada la autorización, licencia o permiso.
+
+Antes de emitir fundada y motivadamente la resolución respectiva la Secretaría dará vista al interesado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2008)</small>
+
 ### CAPÍTULO V. De los delitos ambientales
 
 ###### ARTÍCULO 192.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de la Ley General, esta ley, sus reglamentos y disposiciones que de ellas emanen, podrán ser impugnadas por los afectados, mediante el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación.
-
-El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien dentro del término de cinco días hábiles acordará sobre la admisión del recurso, de las pruebas ofrecidas y en su caso, se pronunciará sobre el otorgamiento o denegación de la suspensión del acto recurrido.
-
-Cuando la facultad de emitir resoluciones hubiere sido delegada, el recurso de revisión podrá ser interpuesto ante el titular de la Secretaría o el titular de la unidad administrativa Municipal encargada del área ambiental, según sea el caso.
+Las resoluciones dictadas por autoridades Estatales ambientales en los procedimientos administrativos con motivo de la aplicación de la Ley General, esta ley, sus reglamentos y disposiciones que de ellas emanen, podrán ser impugnadas por los afectados, a través del recurso de revocación previsto en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California, y tratándose de las dictadas por los Municipios mediante el recurso de revisión con base en las reglas establecidas en la presente Ley, dentro de los quince días hábiles siguientes a la fecha de su notificación.
 
 ###### ARTÍCULO 193.
 
@@ -2212,3 +2302,7 @@ En tanto se expidan las disposiciones administrativas que se deriven de la prese
 ###### ARTÍCULO TERCERO.
 
 Las autoridades Estatales y Municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de esta Ley, en un plazo no mayor de 180 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+P.O. 27 DE JUNIO DE 2008.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
