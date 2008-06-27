@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-848-de-transparencia-y-acceso-a-la-informacion-54691
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-27"
-last_updated: "2007-02-27"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 27 de febrero de 2007.
 
@@ -103,15 +103,33 @@ XIII. Obligaciones de transparencia: La información general que los sujetos obl
 
 XIV. Organismos Autónomos: El Instituto Electoral Veracruzano, la Comisión Estatal de Derechos Humanos, el Órgano de Fiscalización Superior del Estado, la Universidad Veracruzana, el Instituto Veracruzano de Acceso a la Información y cualquier otro establecido con tal carácter en la Constitución Política del Estado de Veracruz de Ignacio de la Llave o en la legislación estatal ordinaria;
 
-XV. Reglamento: El reglamento interior correspondiente a la presente ley;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XV. Reglamento: El reglamento correspondiente a la presente ley;
 
 XVI. Servidores Públicos: Los mencionados en el artículo 78 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave y la Ley en materia de responsabilidades, así como todas aquellas personas que manejen o apliquen recursos públicos estatales o municipales;
 
 XVII. Sujetos Obligados: Los comprendidos en el artículo 5 de la presente ley;
 
-XVIII. Transparencia: Es la obligación que tiene todo ente que posee información pública de hacer visibles sus actos; y
+XVIII. Transparencia: Es la obligación que tiene todo ente que posee información pública de hacer visibles sus actos; y (sic)
 
-XIX. Unidad de Acceso: Unidad de Acceso a la Información Pública.
+XIX. Unidad de Acceso: Unidad de Acceso a la Información Pública;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XX. Fuente de acceso público: aquellos sistemas de datos personales cuya consulta puede ser realizada por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el pago de una contraprestación;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXI. Indicadores de gestión: Instrumento que permite medir el cumplimiento de los objetivos institucionales y vincular los resultados con la satisfacción de las demandas sociales en el ámbito de las atribuciones de los sujetos obligados;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXII. Sistema de datos personales: El conjunto ordenado de datos personales que estén en posesión de un sujeto obligado;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXIII. INFOMEX- Veracruz: El sistema electrónico que permite a cualquier persona hacer uso remoto de los mecanismos de acceso a la información y del recurso de revisión a que se refiere esta Ley.
 
 Artículo 4
 
@@ -153,9 +171,31 @@ III. Proteger la información reservada y confidencial, incluyendo los datos que
 
 IV. Integrar, organizar, clasificar y manejar con eficiencia sus registros y archivos;
 
-V. Establecer una Unidad de Acceso a la Información Pública y nombrar a los servidores públicos que la integren; y
+V. Establecer una Unidad de Acceso a la Información Pública y nombrar a los servidores públicos que la integren; y (sic)
 
-VI. Cumplir las demás obligaciones contenidas en esta ley.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VI. Documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, incluso los procesos deliberativos;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VII. Capacitar a los servidores públicos en materia de transparencia, acceso a la información y protección de datos personales;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VIII. Permitir que los servidores públicos del Instituto, debidamente acreditados, puedan tener acceso a toda la información pública y a los archivos administrativos para verificar el cumplimiento de las obligaciones que les impone la ley;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+IX. Adoptar el INFOMEX-Veracruz como sistema electrónico que permita de manera remota el ejercicio del derecho de acceso a la información; y
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+X. Cumplir las demás obligaciones contenidas en esta ley.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+2. Los particulares que ejerzan actos de autoridad estarán obligados a entregar la información relacionada con esos actos a través del sujeto obligado que supervise sus actividades.
 
 Artículo 7
 
@@ -163,7 +203,7 @@ Artículo 7
 
 2. Los sujetos obligados atenderán al principio de máxima publicidad en la gestión pública, comprendiendo el derecho de acceso a la información como una de las fuentes de desarrollo y fortalecimiento de la democracia representativa y participativa que permite a los ciudadanos analizar, juzgar y evaluar a sus representantes y servidores públicos y estimula la transparencia en los actos de gobierno.
 
-3. Lo no previsto en esta ley se atenderá a lo dispuesto por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+3. (DEROGADO PARRAFO TERCERO, G.O. 27 DE JUNIO DE 2008)
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE TRANSPARENCIA
 
@@ -237,7 +277,7 @@ d. Valor catastral; y
 
 e. Cualquier otro dato que se considere de interés público;
 
-XVII. Las cuentas públicas estatal y municipales, así como los documentos relativos, incluyendo el informe de resultados de su revisión y su dictamen;
+XVII. Las cuentas públicas estatal (sic) y municipales, así como los documentos relativos, incluyendo el informe de resultados de su revisión y su dictamen;
 
 XVIII. El origen de fondos auxiliares especiales y la aplicación que se haya hecho de los ingresos correlativos;
 
@@ -263,9 +303,187 @@ XXVIII. Los contratos, convenios y condiciones generales de trabajo que regulen 
 
 XXIX. Los estados financieros del Estado y de los municipios;
 
-XXX. Los montos y nombre de las personas a quienes por cualquier motivo se entregue recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos; y
+XXX. Los montos y nombre de las personas a quienes por cualquier motivo se entregue recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos; y (sic)
 
-XXXI. Toda otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+XXXI. Toda otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXII. Los catálogos documentales de sus archivos administrativos;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXIII. La relativa a sus actividades específicas más relevantes, que deberá incluir los indicadores de gestión utilizados para evaluar su desempeño; respecto de estos últimos deberán incluir su marco lógico o de referencia;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXIV. Una relación de los servidores públicos comisionados por cualquier causa, incluso de carácter sindical;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXV. Adicionalmente, el Poder Ejecutivo deberá publicar en Internet la siguiente información:
+
+a). Las estadísticas e indicadores de gestión de la procuración de justicia;
+
+b). En materia de averiguaciones previas: estadísticas sobre el número de averiguaciones previas que fueron desestimadas, en cuáles se ejercitó acción penal, para cuáles se decretó el no ejercicio, cuáles se archivaron y los recursos de queja interpuestos;
+
+c). El listado de expropiaciones por causa de utilidad pública;
+
+d). El listado de patentes de notarios otorgadas, en términos de la Ley respectiva; y
+
+e). La información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones y políticas públicas responsabilidad de cada dependencia y entidad;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXVI. El Poder Legislativo, además deberá hacer pública en Internet la siguiente información:
+
+a). La agenda legislativa;
+
+b). Las listas de asistencia y votación de cada una de las sesiones; y
+
+c). El informe sobre el ejercicio de las partidas presupuestales que se asignen a los Grupos Legislativos;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXVII. Adicionalmente, el Poder Judicial deberá publicar en Internet la siguiente información:
+
+a). Los principales indicadores sobre la actividad jurisdiccional, que deberán incluir, al menos, asuntos ingresados, egresados y existencia, por unidad jurisdiccional y agregados por todo el órgano de impartición de justicia; sanciones disciplinarias identificando al personal sancionado; el número de sentencias dictadas, y, en su caso, las que sean confirmadas, revocadas o modificadas, por unidad jurisdiccional;
+
+b). Las listas de acuerdos, las sentencias relevantes, con los respectivos votos particulares si los hubiere;
+
+c). Las convocatorias a concursos para ocupar cargos jurisdiccionales los resultados de los mismos; y
+
+d). Los perfiles y formas de evaluación del personal jurisdiccional y administrativo;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXVIII. Los Ayuntamientos deberán hacer pública, en las mesas o tableros o en su oportunidad, en Internet, la siguiente información:
+
+a). Estadísticas e indicadores del desempeño de los cuerpos de policía municipal;
+
+b). Las cantidades recibidas por concepto de multas, así como el uso o aplicación que se les da;
+
+c). Los indicadores de gestión de los servicios públicos que presten los Ayuntamientos;
+
+d). El calendario con las actividades culturales, deportivas y recreativas, a realizar; y
+
+e). Los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de ese cuerpo colegiado;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XXXIX. En relación con los cuerpos de policía, ya sea preventiva o ministerial, tanto estatales como municipales, los sujetos obligados deberán publicar, además, la siguiente información:
+
+a). Los mecanismos de supervisión policial, los registros de reportes de supervisión, así como los medios para inconformarse con un reporte de supervisión;
+
+b). Los criterios y un informe anual de evaluación del desempeño policial;
+
+c). Los protocolos de uso de la fuerza, incidentes reportados de oficio, incluyendo uso de armas letales y no letales;
+
+d). Los lugares y medios de acceso para presentar quejas y el formato para ellas, así como el plazo para su interposición;
+
+e). Número, características y frecuencia de quejas sobre incidentes de uso de la fuerza, tanto en los órganos internos de la policía, la disciplina administrativa, la justicia penal y la revisión de las comisiones de derechos humanos, así como las medidas adoptadas al respecto;
+
+f). El plan de seguridad pública, incluyendo diagnóstico, objetivos, líneas de acción e informe anual de evaluación de instrumentación;
+
+g). Las convocatorias, plazos, requisitos, formatos para presentar postulaciones, exámenes y resultados de los concursos de selección, así como los programas y resultados de la capacitación inicial;
+
+h). El programa de capacitación permanente; e
+
+i). Las convocatorias de ascensos, criterios, procesos de decisión y criterios de separación del cargo;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XL. Adicionalmente, las autoridades electorales deberán hacer pública, en Internet, la siguiente información:
+
+a). Los expedientes sobre quejas resueltas por violaciones al Código Electoral;
+
+b). Listados de partidos políticos y demás asociaciones políticas registrados ante la autoridad electoral;
+
+c). El registro de candidatos a cargos de elección popular;
+
+d). Montos de financiamiento público, por actividades ordinarias, de campaña y específicas otorgados a los partidos y demás asociaciones políticas; así como el monto autorizado de financiamiento privado y los topes de los gastos de campañas;
+
+e). Los informes sobre el monto, origen, empleo y aplicación de los ingresos que los partidos políticos y demás asociaciones políticas reciban, por cualquier modalidad de financiamiento;
+
+f). Los cómputos totales de las elecciones y procesos de participación ciudadana llevados a cabo en el Estado;
+
+g). Las listas de acuerdos, las sentencias relevantes con los respectivos votos particulares si los hubiere; y
+
+h). La demás que resulte relevante sobre sus funciones;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XLI. Adicionalmente, los partidos, asociaciones y agrupaciones políticos deberán publicar, en Internet, la siguiente información:
+
+a) El directorio de funcionarios partidistas, desde el nivel de Comité Municipal;
+
+b) Los informes que tengan que rendir con motivo de sus obligaciones legales y estatutarias, una vez que hayan sido aprobados por las instancias partidarias, o en su caso, por la autoridad electoral;
+
+c) Los informes anuales de campaña, así como los de los procesos internos de selección de candidatos, una vez que hayan sido resueltos por el Consejo General del Instituto Electoral Veracruzano;
+
+d) Los contratos y convenios que celebren para el cumplimiento de sus actividades cotidianas;
+
+> <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
+
+e) Las convocatorias y procedimientos de selección de candidatos para puestos directivos al interior del partido, así como para candidaturas a puestos de elección popular;
+
+> <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
+
+f) Los índices de los expedientes clasificados como reservados y confidenciales;
+
+> <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
+
+g) Los nombres de los responsables de los órganos internos de finanzas;
+
+> <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
+
+h) El listado de las fundaciones que en términos del Código Electoral para el Estado de Veracruz de Ignacio de la Llave tienen derecho a recibir un porcentaje del financiamiento público anual que corresponde al partido político; y
+
+> <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
+
+i) Los gastos de campaña.
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XLII. Además, la Comisión Estatal de Derechos Humanos deberá hacer pública, en Internet, la siguiente información:
+
+a). Las recomendaciones enviadas, su destinatario y el estado que guarda su atención;
+
+b). Los recursos de queja e impugnación, el estado procesal en que se encuentran y, en el caso de los expedientes concluidos, el concepto por el cual llegaron a ese estado; toda esta información por destinatario de la recomendación; y
+
+c). Las estadísticas sobre las denuncias presentadas que permitan identificar el género de la víctima, su ubicación geográfica, edad y el tipo de queja;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XLIII. Las universidades públicas deberán poner en Internet a disposición del público, la siguiente información:
+
+a) Los planes y programas de estudio según el sistema que ofrecen, ya sea escolarizado o abierto, con las áreas de conocimiento, el perfil profesional de quien cursa el plan de estudios, la duración del programa con las asignaturas por semestre, su valor en créditos y una descripción sintética para cada una de ellas;
+
+b) Los estados de su situación financiera, señalando su activo en propiedades y equipo, inversiones patrimoniales y fideicomisos, efectivo y los demás que apliquen para conocer el estado que guarda su patrimonio;
+
+c) Toda la información relacionada con sus procedimientos de admisión;
+
+d) Los indicadores de gestión en las evaluaciones al desempeño de la planta académica y administrativa;
+
+e) La remuneración de los profesores, incluyendo los estímulos al desempeño, nivel y monto; y
+
+f) Una lista con los profesores con licencia o en año sabático;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XLIV. El Instituto deberá hacer pública, en Internet, la siguiente información:
+
+a) La relación de los juicios de protección de derechos humanos que, en su caso, existan en contra de sus resoluciones;
+
+b) Las estadísticas sobre las solicitudes de información que deberán incluir el perfil del solicitante, el tipo de respuestas y los temas de las solicitudes;
+
+c) El resultado en materia de los programas implantados para la protección de datos personales y organización de archivos;
+
+d) Los resultados de la evaluación al cumplimiento de la ley por parte de los sujetos obligados;
+
+e) El informe sobre las acciones de promoción de la cultura de transparencia; y
+
+f) La otra que se considere relevante y de interés para el público.
 
 2. Se incluirá también, cualquier otro informe relacionado con el cumplimiento de las atribuciones que la Constitución, esta ley u otros ordenamientos encomienden a los sujetos obligados.
 
@@ -273,13 +491,35 @@ XXXI. Toda otra información que sea de utilidad o se considere relevante, adem�
 
 4. La información a que se refiere este artículo deberá publicarse de tal forma que facilite su uso y comprensión por las personas, y permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Los sujetos obligados deberán atender las recomendaciones que al respecto expida el Instituto.
 
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+5. En cada uno de los rubros de información pública señalados en el presente artículo, se deberá indicar el área responsable de generar la información.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+6. Los sujetos obligados deberán señalar, en sus reglamentos y en sus páginas de la Internet, los rubros del presente artículo que no les son aplicables.
+
 Artículo 9
 
 1. La información referente a las obligaciones de transparencia será puesta a disposición de los particulares por cualquier medio que facilite su acceso, dando preferencia al uso de sistemas computacionales y las nuevas tecnologías de la información.
 
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+1.1 Cuando la información se difunda en la Internet, los sujetos obligados deberán utilizar un lenguaje claro que facilite su comprensión por los usuarios. Además, las páginas deberán contar con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que los solicite. Esta entrega deberá ser expedita y procurará la creación de bases de datos para la generación de conocimiento por parte de la sociedad.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+1.2 En la medida de lo posible, los sujetos obligados utilizarán sistemas que faciliten la comparación de información entre los diferentes sujetos obligados y los diversos niveles de gobierno. Así mismo deberán fomentar la publicación de información útil para la ciudadanía tales como servicios públicos y trámites.
+
 2. Si los datos estuviesen disponibles en versión electrónica, los sujetos obligados facilitarán equipos de cómputo para acceder a ellos y orientarán al peticionario en su búsqueda y localización.
 
-3. En el caso de los Ayuntamientos que por sus condiciones socio-económicas no tengan acceso a las nuevas tecnologías de la información, proporcionarán la información a través de su Unidad de Acceso y deberán colocar en el recinto municipal un tablero o una mesa de información municipal que contendrá la información de oficio establecida en el artículo anterior.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+3. Los Municipios con población superior a setenta mil habitantes deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, por lo que deberán publicar la información a que se refiere el artículo anterior en la Internet. Los Municipios de menos de setenta mil habitantes, que tengan acceso a las nuevas tecnologías de la información podrán a su elección, publicar su información en la Internet o en un tablero o mesa de información municipal.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+3.1 En el caso de los Ayuntamientos que por sus condiciones socio-económicas no tengan acceso a la Internet, proporcionarán la información a través de su Unidad de Acceso y deberán colocar en el recinto municipal un tablero o una mesa de información municipal que contendrá la información de oficio establecida en el artículo 8 de esta Ley y podrán solicitar al Instituto, de manera subsidiaria que en su nombre, la divulgue vía la Internet. Para ello, el Congreso deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en la Internet.
 
 4. En el caso de que algún particular formule una solicitud de información que no tenga el carácter de reservada o confidencial, la Unidad de Acceso deberá proporcionársela dentro del término que establece esta ley, aunque la misma se encuentre a disposición de cualquier persona por otros medios.
 
@@ -327,6 +567,22 @@ Artículo 13
 
 2. El Comité se integrará por el titular del sujeto obligado, el responsable de la Unidad de Acceso y los servidores públicos que así se determinen.
 
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+3. Los titulares de los sujetos obligados deberán adoptar las medidas necesarias para asegurar el acceso restringido a los documentos o expedientes clasificados.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+4. Los servidores públicos del Instituto, debidamente acreditados y autorizados al efecto, podrán tener acceso a la información clasificada como reservada o confidencial exclusivamente para determinar su debida clasificación, desclasificación o procedencia de su acceso.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+5. La información deberá ser clasificada por el Comité desde el momento en que se genera el documento o el expediente.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+6. El Instituto podrá establecer criterios específicos para la clasificación de información mediante la expedición de lineamientos de clasificación y desclasificación. En ningún caso los sujetos obligados podrán clasificar documentos mediante acuerdos generales antes de que se genere la información.
+
 Artículo 14
 
 1. En todo caso que la autoridad funde y motive la clasificación de la información como reservada o confidencial, ésta deberá cumplir los siguientes tres requisitos:
@@ -368,6 +624,26 @@ III. La información que se obtenga cuando las autoridades intervengan las comun
 IV. La que por mandato expreso de otra ley vigente, al momento de la publicación de la presente ley, deba ser considerada confidencial.
 
 2. El carácter de información confidencial es permanente para los efectos de esta ley y no está condicionado o limitado a un plazo o término.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+3. No se considerará como información confidencial:
+
+I. Aquella que por disposición de una ley se halle en registros públicos o fuentes de acceso público, en cuyo caso se le hará saber al solicitante la fuente, el lugar y la forma en que puede consultar esta información; o
+
+II. Aquella que por ley tenga el carácter de pública.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+4. No podrá invocarse el secreto bancario cuando el titular de las cuentas bancarias sea un sujeto obligado.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+5. En los fideicomisos públicos, constituidos por un sujeto obligado o que administren recursos públicos, corresponderá al fiduciario, por instrucciones expresas del fideicomitente, dar cumplimiento a las solicitudes de información.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+6. Los titulares de los sujetos obligados que coordinen la operación de los fideicomisos, así como de las entidades que figuren como fideicomitentes, deberán realizar los actos necesarios a fin de que se autorice a la fiduciaria, en los contratos respectivos, a proporcionar la información a que se refiere el párrafo anterior sin que se requiera autorización por cada solicitud, así como de cuidar que las reglas de operación que, en su caso, se emitan y las modificaciones que excepcionalmente se propongan a las mismas, no desvirtúen los propósitos, bases, medidas de control y objetivos para los que fueron constituidos aquellos.
 
 Artículo 18
 
@@ -507,45 +783,79 @@ En la elaboración y aplicación de las políticas y programas del Instituto, se
 
 Artículo 34
 
-1. El Instituto funcionará de manera colegiada a través de un Consejo General que tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2008)</small>
 
-I. Vigilar el cumplimiento de esta ley;
+1. El Instituto contará con un Consejo General que funcionará de manera colegida y tendrá las siguientes atribuciones:
 
-II. Dirigir las labores del Instituto y resolver los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-III. Aprobar y evaluar los programas del Instituto;
+I. Fungir como Órgano de Gobierno y resolver los asuntos de su competencia con la intervención que la Ley y la normatividad aplicable otorga al Órgano de Control Interno;
 
-IV. Dictar las medidas necesarias para favorecer el mejor conocimiento, uso y aprovechamiento de la información pública;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+II. Aprobar los programas para vigilar el cumplimiento de esta ley;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+III. Aprobar y evaluar los programas, operativo anual y administrativos del Instituto;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+IV Aprobar las medidas necesarias para favorecer el mejor conocimiento uso y aprovechamiento de la información pública;
 
 V. Garantizar la protección de la información reservada y confidencial, dentro de los términos que señala la ley;
 
-VI. Manejar con eficiencia y probidad los recursos presupuestarios que se le asignen;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-VII. Elaborar los informes de avance de la gestión financiera y su respectiva cuenta pública, y entregarlos al Congreso del Estado en los términos que dispone la ley de la materia;
+VI. Aprobar las medidas para manejar con eficiencia y probidad los recursos presupuestarios que se le asignen;
 
-VIII. Gestionar y recibir fondos y donaciones de organismos nacionales e internacionales para el mejor cumplimiento de sus fines;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-IX. Capacitar y actualizar a los servidores públicos en los temas relativos al acceso y protección de la información reservada y confidencial, mediante la impartición de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente;
+VII. Aprobar los informes de avance de la gestión financiera y su respectiva cuenta pública, y entregados al Congreso del Estado en los términos que dispone la ley de la materia;
 
-X. Suscribir convenios y contratos, a efecto de promover el debido cumplimiento de esta ley;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VIII. Aprobar las acciones para gestionar y recibir fondos y donaciones de organismos nacionales e internacionales para el mejor cumplimiento de sus fines;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+IX. Aprobar y evaluar los programas para capacitar y actualizar a los servidores públicos en los temas relativos al acceso y protección de la información reservada y confidencial, mediante la impartición de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pert-inente (sic);
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+X. Autorizar la celebración de convenios y contratos, a efecto de promover el debido cumplimiento de esta ley;
 
 XI. Proponer a las autoridades educativas competentes la inclusión en los programas de estudio de conceptos y contenidos, que versen sobre la transparencia y la importancia social del derecho de acceso a la información pública e impulsar, conjuntamente con instituciones de educación superior, la investigación, docencia y difusión sobre dichas materias;
 
 XII. Conocer y resolver los recursos que se interpongan contra los actos y resoluciones dictados por los sujetos obligados y los servidores públicos del propio Instituto;
 
-XIII. Substanciar el recurso de revocación en los términos de esta ley;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-XIV. Elaborar su proyecto de presupuesto anual, que será enviado al Titular del Ejecutivo Estatal para su integración al Presupuesto de Egresos del Estado;
+XIII. Substanciar los recursos de revisión y reconsideración en los términos de esta ley;
 
-XV. Hacer las recomendaciones a los sujetos obligados para que se dé cumplimiento a esta ley, en caso contrario promover ante las instancias estatales y municipales correspondientes, los procedimientos de suspensión, destitución e inhabilitación de los servidores públicos en los términos establecidos en la ley de la materia;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-XVI. Expedir su reglamentación interna y los manuales e instructivos de organización y procedimientos;
+XIV. Aprobar su proyecto de presupuesto anual, que será enviado al Titular del Ejecutivo Estatal para su integración al Presupuesto de Egresos del Estado;
 
-XVII. Establecer los criterios generales de clasificación y en su caso, los plazos para la desclasificación de la información reservada, incluyendo la ampliación de los periodos de reserva, tratándose de la información que tenga tal carácter en los términos del Artículo 12 de esta ley;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-XVIII. Elaborar los lineamientos y los formatos para la presentación de las solicitudes de acceso a la información pública ante las Unidades de Acceso, así como para la corrección de datos estrictamente personales;
+XV. Aprobar las recomendaciones a los sujetos obligados para que se dé cumplimiento a esta ley, en caso contrario promover ante las instancias estatales y municipales correspondientes, los procedimientos de suspensión, destitución e inhabilitación de los servidores públicos en los términos establecidos en la ley de la materia;
 
-XIX. Designar a los servidores públicos del Instituto que considere necesarios para su funcionamiento; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XVI. Aprobar su reglamentación interna y los manuales e instructivos de organización y procedimientos;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XVII. Aprobar los criterios generales de clasificación y en su caso, los plazos para la desclasificación de la información reservada, incluyendo la ampliación de los períodos de reserva, tratándose de la información que tenga tal carácter en los términos del Artículo 12 de esta ley;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XVIII. Aprobar los lineamientos y los formatos para la presentación de las solicitudes de acceso a la información pública ante las unidades de Acceso, así como para la corrección de datos estrictamente personales;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XIX. Aprobar la designación de los servidores públicos del Instituto que considere necesarios para su funcionamiento; y
 
 XX. Las demás que le confiere esta ley y las disposiciones aplicables.
 
@@ -595,7 +905,9 @@ VI. No haber sido ministro de culto religioso ni dirigente de partido o asociaci
 
 VII. No haber sido candidato a cargo de elección popular cuando menos 3 años antes de su designación; y
 
-VIII. No haber ocupado ninguno de los tres niveles en la jerarquía administrativa de los Poderes del Estado, Organismos Autónomos y Ayuntamientos, cuando menos 3 años antes al día de su designación.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VIII. No haber ocupado ninguno de los tres niveles en la jerarquía administrativa de los Poderes del Estado, organismos autónomos y Ayuntamientos, cuando menos 3 años antes al día de su designación. En congruencia con los principios que rigen al Servicio Profesional de Carrera, esta disposición no será aplicable a los servidores públicos en activo del Instituto.
 
 Artículo 42
 
@@ -603,9 +915,23 @@ Artículo 42
 
 2. La organización y funcionamiento del Consejo General se precisará en el Reglamento Interior del Instituto.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2008)</small>
+
 Artículo 43
 
-Para el cumplimiento de sus atribuciones, el Consejo General contará con un Secretario Técnico quien deberá poseer, además de los requisitos señalados en el artículo 41, título de Licenciado en Derecho expedido por autoridad o Institución legalmente facultada para ello, y una antigüedad mínima de cinco años al día de su nombramiento.
+1. Para el cumplimiento de sus atribuciones, el Consejo General contará con un Secretario General quien deberá poseer, además de los requisitos señalados en el artículo 41, título de Licenciado en Derecho expedido por autoridad o Institución legalmente facultada para ello, y una antigüedad mínima de cinco años al día de su nombramiento.
+
+2. El Secretario General tendrá las atribuciones siguientes:
+
+I. Asistir al Presidente del Consejo en la representación legal del Instituto;
+
+II. Actuar como Secretario de Acuerdos del Consejo General y proporcionar a los Consejeros el apoyo técnico necesario para la sustanciación de los recursos de revisión y de reconsideración, procedimientos de verificación de falta de respuesta y otros, incluida la revisión de los proyectos de resolución correspondientes y su cumplimiento por parte de los sujetos obligados;
+
+III. Levantar las actas de las sesiones del Consejo General en su función de órgano de gobierno y enviadas a los Consejeros y al titular del Órgano Interno de Control y Comisario del Instituto para su firma;
+
+IV. Coadyuvar con el Consejero Presidente en la dirección de las labores administrativas del Instituto; y
+
+V. Las demás que expresamente le confieran esta ley, la normatividad interior del Instituto y demás leyes del Estado.
 
 Artículo 44
 
@@ -619,25 +945,73 @@ Artículo 46
 
 1. El Presidente del Consejo General tendrá las siguientes facultades:
 
-I. Fungir como representante legal del Instituto;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-II. Suscribir a nombre del Instituto, previa autorización del Consejo General, convenios y contratos en los términos de esta ley;
+I. Fungir como titular y dirigir las labores del Instituto;
 
-III. Difundir entre los sujetos obligados y la opinión pública de la Entidad, las resoluciones que sean de interés general y orienten al cumplimiento de la ley;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-IV. Proponer al Consejo General la designación de los titulares de las respectivas áreas del Instituto;
+II. Representar legalmente al Instituto;
 
-V. Convocar y presidir las sesiones del Consejo General;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-VI. Vigilar el cumplimiento de los acuerdos aprobados por el propio Consejo General;
+III. Ejercer el presupuesto asignado por el Congreso;
 
-VII. Elaborar el anteproyecto de presupuesto de egresos para su aprobación por el Consejo General;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-VIII. Ejercer las partidas presupuestarias asignadas por el Congreso;
+IV. Suscribir, previa autorización del Consejo General, convenios y contratos en los términos de esta ley;
 
-IX. Dirigir las labores del Instituto; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-X. Las demás que le confieran las otras leyes.
+V. Designar, con la aprobación del Consejo General a los titulares de las respectivas áreas del Instituto;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VI. Elaborar, actualizar y en su caso ejecutar con la aprobación del Consejo General:
+
+a). Los programas para vigilar el cumplimiento de esta ley;
+
+b). El programa operativo anual y los programas administrativos del Instituto;
+
+c). Las medidas para manejar con eficiencia y probidad los recursos presupuestarios;
+
+d). Las acciones para gestionar y recibir fondos y donaciones de organismos nacionales e internacionales;
+
+e). Los programas para capacitar y actualizar a los servidores públicos en los temas relativos al acceso y protección de la información reservada y confidencial;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VII. Elaborar y someter a la aprobación del Consejo General el proyecto de presupuesto anual y los informes de avance de la gestión financiera y su respectiva cuenta pública;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VIII. Emitir las recomendaciones a los sujetos obligados para que se dé cumplimiento a esta ley, en caso contrario promover ante las instancias estatales y municipales correspondientes, los procedimientos de suspensión, destitución e inhabilitación de los servidores públicos en los términos establecidos en la ley de la materia;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+IX. Elaborar, actualizar y, con la aprobación del Consejo General, emitir:
+
+a). La reglamentación interna y los manuales e instructivos de organización y procedimientos;
+
+b). Los criterios generales de clasificación y en su caso, los plazos para la desclasificación de la información reservada, incluyendo la ampliación de los períodos de reserva, tratándose de la información que tenga tal carácter en los términos del Artículo 12 de esta ley;
+
+c). Los lineamientos y los formatos para la presentación de las solicitudes de acceso a la información pública ante las Unidades de Acceso, así como para la corrección de datos estrictamente personales;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+X. Ejecutar, por conducto de las áreas administrativas del Instituto, los acuerdos emitidos por el Consejo General;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XI. Convocar y presidir las sesiones del Consejo General;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XII. Vigilar el cumplimiento de los acuerdos aprobados por el propio Consejo General; y
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XIII. Las demás que expresamente le confieran esta ley, la normatividad interior del Instituto y demás leyes del Estado.
 
 Artículo 47
 
@@ -657,9 +1031,11 @@ Artículo 50
 
 2. En caso de ausencia mayor a sesenta días, el Congreso nombrará a quien le sustituya para culminar el período que le corresponde.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2008)</small>
+
 Artículo 51
 
-La remuneración económica que los servidores públicos del Instituto deban percibir, quedará fijada en el presupuesto de egresos que anualmente apruebe el Congreso del Estado. La correspondiente a los Consejeros, estará determinada en el rango de ochocientos a mil salarios mínimos diarios vigentes en la Capital del Estado, por mes.
+1. La remuneración económica que los servidores públicos del Instituto deban percibir, quedará fijada en el presupuesto de egresos que anualmente apruebe el Congreso del Estado.
 
 ### CAPÍTULO TERCERO. DE LA PROMOCIÓN DE LA CULTURA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
@@ -757,15 +1133,49 @@ Artículo 64
 
 1. El solicitante o su representante legal podrán interponer un recurso de revisión ante el Instituto, en los siguientes supuestos:
 
-I. Contra las resoluciones de las Unidades de Acceso o de los Comités de Información que le nieguen ese acceso, fundadas o no en una previa clasificación de los datos relativos como información reservada o confidencial;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-II. Cuando habiéndose cumplido los plazos establecidos en esta ley, dicha información no haya sido proporcionada;
+I. La negativa de acceso a la información;
 
-III. Contra las resoluciones del Consejo General que hayan concedido la ampliación del período de reserva de una información, conforme a lo dispuesto por el artículo 15 de esta ley;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
-IV. Si el sujeto obligado se niega a efectuar modificaciones o correcciones a los datos personales, tratándose de una solicitud de su titular o representante legal; y
+II. La declaración de inexistencia de información;
 
-V. Si el solicitante no está de acuerdo con la respuesta dada por el sujeto obligado, por considerar que la información pública entregada es incompleta, no corresponde a lo requerido, o bien esté en desacuerdo con el tiempo, costo, formato o modalidad dispuestos para la entrega de la misma.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+III. La clasificación de información como reservada o confidencial;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+IV. La entrega de información en una modalidad distinta a la solicitada, o en un formato incomprensible;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+V. La inconformidad con los costos o tiempos de entrega de la información;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VI. La información que se entregó sea incompleta o no corresponda con la solicitud;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VII. La inconformidad con las razones que motivan una prórroga;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+VIII. La falta de respuesta a una solicitud de acceso a la información dentro de los plazos establecidos en esta ley;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+IX. La negativa de acceso, modificación o supresión y por la difusión de datos personales sin consentimiento de su titular;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+X. El tratamiento inadecuado de los datos personales; y
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+
+XI. La falta de respuesta a una solicitud de acceso, modificación o supresión de datos personales dentro de los plazos establecidos en esta ley.
 
 2. El plazo para interponer el recurso de revisión es de quince días hábiles a partir de la notificación del acto impugnado, de que se haya tenido conocimiento o se ostente sabedor del mismo.
 
@@ -785,7 +1195,9 @@ V. La exposición de los agravios; y
 
 VI. En su caso pruebas que tengan relación directa con el acto o resolución que se recurre.
 
-2. Los titulares interesados o su representante legal, podrán presentar el recurso de revisión por medios electrónicos, si así lo desean.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+2. Los titulares interesados, o su representante legal, podrán presentar el recurso de revisión utilizando el INFOMEX Veracruz, si así lo desean. En este supuesto, el recurso se resolverá mediante las aplicaciones de ese sistema informático, en los términos que establezcan los Lineamientos Generales que, para regular el procedimiento de substanciación del Recurso de Revisión, emita el Consejo General del Instituto.
 
 Artículo 66
 
@@ -804,6 +1216,18 @@ III. Mediante solicitud del interesado, podrán recibirse por vía electrónica 
 IV. El Pleno resolverá en definitiva dentro de los diez días hábiles siguientes a la presentación del proyecto de resolución. Cuando haya causa justificada, podrá ampliarse, por una vez y hasta por un período igual, el plazo mencionado en esta fracción; y
 
 V. Las resoluciones del Pleno serán públicas.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+2. En caso de que el recurso de revisión no satisfaga alguno de los requisitos a que se refiere el artículo 65 de la Ley, y el Instituto no cuente con elementos para subsanarlos, se prevendrá al recurrente, por una sola ocasión, para que subsane las omisiones dentro de un plazo de cinco días hábiles. Transcurrido el plazo correspondiente sin desahogar la prevención se tendrá por no presentado el recurso. La prevención tendrá el efecto de interrumpir el plazo que tiene el Instituto para resolver el recurso.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+3. Cuando el recurso satisfaga todos los requisitos a que se refiere el artículo 65 de la Ley, el Instituto decretará su admisión y correrá traslado al sujeto obligado al que se atribuye el acto impugnado para que (sic) un plazo de cinco días hábiles manifieste lo que a su derecho convenga.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+4. Para el adecuado ejercicio de su función, el Consejo General del Instituto emitirá los Lineamientos Generales para regular el procedimiento de substanciación del Recurso de Revisión. Los lineamientos respetarán las garantías constitucionales de audiencia y seguridad jurídica y contendrán disposiciones que contemplen las formalidades esenciales del procedimiento, a fin de garantizar al particular certidumbre jurídica en el ejercicio de su prerrogativa de acceso a la información.
 
 Artículo 68
 
@@ -836,6 +1260,10 @@ IV. Haya conocido anteriormente del recurso respectivo y resuelto en definitiva;
 V. Se recurra una resolución que no haya sido emitida por una Unidad de Acceso o Comité; o
 
 VI. Ante los tribunales del Poder Judicial del Estado o de la Federación se esté tramitando algún recurso o medio de defensa interpuesto por el recurrente.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2008)</small>
+
+2. Cuando alguna de las causales de improcedencia a que se refiere este artículo, resulte notoria o se desprenda del contenido del escrito inicial del recurso, el Instituto deberá tomar las medidas necesarias para que la resolución del mismo se emita en un plazo que no exceda los cinco días hábiles contados a partir del día siguiente a aquel en que se haya recibido. En este caso no será necesario que se lleven a cabo las actuaciones a que se refieren los párrafos 2 y 3 del artículo 67 de la Ley.
 
 Artículo 71
 
@@ -964,3 +1392,21 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 27 DE JUNIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. La obligación que para los Municipios se establece en el artículo 9.3 será exigible a partir del mes de agosto de 2009.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+> <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
+
+Cuarto. El Consejo General del Instituto emitirá, en un término de treinta días contados a partir del inicio de la vigencia de esta ley, los Lineamientos Generales para regular el procedimiento de substanciación de los recursos y asuntos.
+
+> <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
+
+Quinto. Para los recursos y asuntos que se encuentren en trámite a la entrada en vigor de esta ley y hasta la vigencia de los Lineamientos Generales, se seguirán tramitando y resolverán de conformidad con las normas aplicables al momento de su inicio.
