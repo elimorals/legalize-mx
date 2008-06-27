@@ -4,7 +4,7 @@ identifier: "COA-ley-de-participacion-ciudadana-para-el-estado-de-coahuila-23169
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -115,7 +115,9 @@ EL GARANTISMO DE NO-EXCLUSIÓN DE OTROS INSTRUMENTOS DE PARTICIPACIÓN Y ORGANIZ
 
 EL CIUDADANO/ELECTOR/COAHUILENSE COMO SUJETO DE LA PARTICIPACIÓN CIUDADANA. Los ciudadanos electores coahuilenses podrán ejercer:
 
-I. Los instrumentos de participación ciudadana previstos en las fracciones I a III del artículo 4° de esta ley.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+I. Los instrumentos de participación ciudadana previstos en las fracciones I a III del artículo 4° de esta ley, sin perjuicio de que el previsto en la fracción III podrá ejercerse también por aquellos que no sean ciudadanos electores coahuilenses, pero que acrediten haber residido en el Estado por más de tres años.
 
 II. El instrumento de organización ciudadana previsto en la fracción I del artículo 5° de esta ley.
 
@@ -477,9 +479,11 @@ Toda omisión, acto o resolución del Congreso del Estado o de la Diputación Pe
 
 ### CAPÍTULO TERCERO. LA INICIATIVA POPULAR
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 39.
 
-EL CONCEPTO DE INICIATIVA POPULAR. La iniciativa popular es el derecho de los ciudadanos electores coahuilenses para iniciar leyes, decretos, reglamentos o normas administrativas de carácter general.
+El CONCEPTO DE INICIATIVA POPULAR. La iniciativa popular es el derecho de los ciudadanos coahuilenses y de los que sin serlo acrediten haber residido en el Estado por más de tres años para iniciar leyes, decretos, reglamentos o normas administrativas de carácter general.
 
 ###### ARTÍCULO 40.
 
@@ -493,9 +497,7 @@ III. Que el Ayuntamiento de que se trate conozca de la creación, modificación,
 
 ###### ARTÍCULO 41.
 
-EL PORCENTAJE CIUDADANO PARA LA INICIATIVA POPULAR. Para que proceda la iniciativa popular, los ciudadanos electores coahuilenses que la propongan, deberán reunir el cero punto cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de su credencial de elector.
-
-El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral y, en todo caso, emitirá la declaratoria de validación o no del porcentaje ciudadano en la iniciativa popular.
+(DEROGADO, P.O. 27 DE JUNIO DE 2008)
 
 ###### ARTÍCULO 42.
 
@@ -507,11 +509,17 @@ II. Dirigirse a la autoridad competente para conocer de la iniciativa.
 
 III. Presentarse con exposición de motivos y con proyecto de articulado.
 
-IV. Señalar un representante y domicilio para oír y recibir toda clase de documentos y/o notificaciones.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-Para todos los efectos legales, se entenderá que el representante designado podrá realizar todos los actos necesarios para tramitar el procedimiento de la iniciativa popular.
+IV. Señalar un domicilio para oír y recibir toda clase de documentos y/o notificaciones, en el lugar donde resida la autoridad competente para conocer de la iniciativa.
 
-V. Presentar la relación de los solicitantes ciudadanos electores que contenga nombres, firmas y claves de la credencial de elector.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+V. Nombre y firma de quien la presenta.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+El solicitante podrá designar un representante para oír y recibir notificaciones, mismo que podrá ser facultado para realizar todos los actos correspondientes al trámite de la iniciativa popular.
 
 ###### ARTÍCULO 43.
 
@@ -523,49 +531,65 @@ El funcionamiento de la comisión se regirá por la Ley Orgánica del Congreso d
 
 II. La comisión resolverá sobre la procedencia de la iniciativa, bajo las reglas siguientes:
 
-1. Enviará al Instituto la relación de los solicitantes ciudadanos electores, para que realice el cotejo respectivo con la lista nominal utilizada en el último proceso electoral.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
-2. El Instituto a la brevedad posible declarará si se reunió o no el porcentaje ciudadano para la iniciativa popular. Para tal efecto, el Instituto deberá celebrar los convenios de colaboración necesarios con el Instituto Federal Electoral, para que exista la posibilidad de realizar el cotejo.
+1. Verificará que la iniciativa cumpla con los requisitos previstos en el artículo anterior.
 
-3. Dentro de los quince días siguientes de recibir la declaratoria del Instituto, la comisión resolverá, en su caso, sobre la procedencia de la iniciativa popular.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
-4. Se declarará la improcedencia de plano si la iniciativa no reúne el porcentaje ciudadano requerido, en los términos previstos por esta ley.
+2. En caso de que falte alguno de los requisitos previstos en el artículo anterior, se notificará al solicitante para que en un plazo no mayor de quince días hábiles presente la información requerida.
 
-5. La comisión notificará al representante de los ciudadanos la resolución sobre la procedencia o no de la iniciativa.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+3. Una vez cumplidos los requisitos necesarios para la iniciativa popular, la comisión resolverá, en su caso, sobre la procedencia de la misma.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+4. Si el solicitante no cumple con lo previsto en el numeral 2 de esta fracción, la comisión declarará la improcedencia de plano en los términos previstos por esta ley.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+5. La comisión notificará al solicitante o, en su caso, a su representante la resolución sobre la procedencia o improcedencia de la iniciativa popular.
 
 6. La iniciativa que se declare procedente se sujetará al proceso legislativo que establece la Constitución Política del Estado y la Ley Orgánica del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
 7. En la discusión de la iniciativa, podrán participar con voz hasta tres personas autorizadas por los solicitantes ciudadanos.
 
 III. Toda omisión, acto o resolución del Congreso del Estado o de la Diputación Permanente que viole el trámite de la iniciativa popular, podrá ser impugnada en los términos de la ley de la materia.
 
-IV. Sin perjuicio de lo previsto en este artículo, cuando los solicitantes opten por las diversas formas ciudadanas para acceder a la iniciativa popular, se aplicarán en lo conducente las disposiciones previstas en la Sección Segunda del Capítulo Cuarto de este Título.
+IV. (DEROGADA, P.O. 27 DE JUNIO DE 2008)
 
 ###### ARTÍCULO 44.
 
 EL TRÁMITE PARA DECIDIR LA PROCEDENCIA DE LA INICIATIVA POPULAR EN MATERIA ADMINISTRATIVA. Toda iniciativa popular en materia administrativa que se presente ante el Poder Ejecutivo del Estado, se sujetará al trámite siguiente:
 
-I. El Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, enviará al Instituto la relación de los solicitantes ciudadanos electorales, para que realice el cotejo respectivo con la lista nominal utilizada en el último proceso electoral.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-II. Dentro de los veinte días siguientes al envío, el Instituto declarará si se reunió o no el porcentaje ciudadano para la iniciativa popular.
+I. El Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, verificará que la iniciativa cumpla con los requisitos previstos en el artículo 42.
 
-III. El Ejecutivo del Estado, dentro de los quince días siguientes de recibir la declaratoria del Instituto, resolverá sobre la procedencia de la iniciativa, bajo las reglas siguientes:
+II. (DEROGADA, P.O. 27 DE JUNIO DE 2008)
 
-1. Se declarará la improcedencia de plano si la iniciativa no reúne el porcentaje ciudadano previsto en esta ley.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-2. En caso de que la iniciativa popular reúna el porcentaje ciudadano correspondiente, el Ejecutivo del Estado, por conducto de la Secretaría de Gobierno integrará una comisión interinstitucional e interdisciplinaria para analizar la procedencia de la iniciativa popular.
+III. El Ejecutivo del Estado, emitirá la declaratoria de procedencia de la iniciativa, bajo las reglas siguientes:
 
-3. Dentro de los quince días siguientes a su integración, dicha comisión emitirá una opinión al Ejecutivo del Estado.
+1. En caso de que falte alguno de los requisitos previstos en el artículo 42, se notificará al solicitante para que en un plazo no mayor de quince días hábiles presente la información requerida.
 
-4. Dentro de los quince días siguientes, el Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, resolverá sobre la procedencia de la iniciativa.
+2. Una vez cumplidos los requisitos necesarios para la iniciativa popular por parte del solicitante, la Secretaría de Gobierno resolverá, en su caso, sobre la procedencia de la misma.
+
+3. Si el solicitante no cumple con lo previsto en el numeral 1 de esta fracción, la Secretaría de Gobierno declarará la improcedencia de plano en los términos previstos por esta ley y notificará al solicitante o, en su caso, a su representante la resolución sobre la procedencia o improcedencia de la iniciativa popular.
+
+4. (DEROGADO, P.O. 27 DE JUNIO DE 2008)
 
 5. La iniciativa que se declare procedente, se sujetará al proceso de revisión de toda iniciativa de reglamento o norma administrativa de carácter general que establecen la Ley Orgánica de la Administración Pública del Estado y demás disposiciones aplicables.
 
-6. En la revisión de la iniciativa podrán participar los solicitantes.
+6. En la revisión de la iniciativa podrá participar él o los solicitantes.
 
 IV. Toda omisión, acto o resolución del Poder Ejecutivo del Estado que viole el trámite de la iniciativa popular, podrá ser impugnada en los términos de la ley de la materia.
 
-V. Sin perjuicio de lo previsto en este artículo, cuando los solicitantes opten por las diversas formas ciudadanas para acceder a la iniciativa popular, se aplicarán en lo conducente las disposiciones previstas en la Sección Segunda del Capítulo Cuarto de este Título.
+V. (DEROGADA, P.O. 27 DE JUNIO DE 2008)
 
 ###### ARTÍCULO 45.
 
@@ -577,13 +601,21 @@ El funcionamiento de la comisión se regirá por el Código Municipal para el Es
 
 II. La comisión resolverá sobre la procedencia de la iniciativa, bajo las reglas siguientes:
 
-1. Enviará al Instituto la relación de los solicitantes ciudadanos, para que éste realice el cotejo respectivo con la lista nominal utilizada en el último proceso electoral.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
-2. Dentro de los veinte días siguientes al envío, el Instituto declarará si se reunió o no el porcentaje ciudadano para la iniciativa popular.
+1. Verificará que la iniciativa cumpla con los requisitos previstos en el artículo 42.
 
-3. La comisión, dentro de los quince días siguientes de recibir la declaratoria correspondiente del Instituto, resolverá sobre la procedencia de la iniciativa popular.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
-4. En todo caso, la comisión notificará al representante de los ciudadanos la resolución sobre la procedencia o no, de la iniciativa popular.
+2. En caso de que falte alguno de los requisitos previstos en el artículo 42, se notificará al solicitante para que en un plazo no mayor de quince días hábiles presente la información requerida.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+3. Una vez cumplidos los requisitos necesarios para la iniciativa popular, la comisión resolverá, en su caso, sobre la procedencia de la misma.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+4. Si el solicitante no cumple con lo previsto en el numeral 2 de esta fracción, la comisión declarará la improcedencia de plano en los términos previstos por esta ley.
 
 5. La iniciativa popular que se declare procedente, se sujetará al proceso reglamentario que señala el Código Municipal para el Estado.
 
@@ -591,13 +623,13 @@ II. La comisión resolverá sobre la procedencia de la iniciativa, bajo las regl
 
 III. Toda omisión, acto o resolución de los Ayuntamientos que viole el trámite de la iniciativa popular, podrá ser impugnada en los términos de la ley de la materia.
 
-IV. Sin perjuicio de lo previsto en este artículo, cuando los solicitantes opten por las diversas formas ciudadanas para acceder a la iniciativa popular, se aplicarán en lo conducente las disposiciones previstas en la Sección Segunda del Capítulo Cuarto de este Título.
+IV. (DEROGADA, P.O. 27 DE JUNIO DE 2008)
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 46.
 
-LA INICIATIVA POPULAR PUEDE PRESENTARSE AL AÑO SIGUIENTE. Toda iniciativa popular que haya sido declarada improcedente, podrá presentarse por los ciudadanos electores coahuilenses al año siguiente, contado a partir de la fecha de la notificación correspondiente, con las modificaciones, adiciones y/o correcciones necesarias para que proceda en los términos que establece esta ley.
-
-En todo caso, el porcentaje ciudadano a que se refiere el artículo 41 de esta ley, deberá reunirse de nueva cuenta.
+NUEVA PRESENTACIÓN DE INICIATIVA POPULAR QUE SE DECLARE IMPROCEDENTE. Toda iniciativa popular que haya sido declarada improcedente, podrá presentarse nuevamente al año siguiente, contado a partir de la fecha de la notificación correspondiente, con las modificaciones, adiciones y/o correcciones necesarias para que proceda en los términos que establece esta ley.
 
 ###### ARTÍCULO 47.
 
@@ -799,7 +831,7 @@ LAS CAUSAS DE IMPROCEDENCIA DEL PLEBISCITO O DEL REFERENDO SE DECRETAN DE OFICIO
 
 LA IMPROCEDENCIA DE LA INICIATIVA POPULAR SE DECRETA DE OFICIO O A PETICIÓN DE PARTE. La autoridad competente que conozca de la iniciativa popular decretará de oficio o a petición de parte, su improcedencia.
 
-Corresponderá al Instituto declarar si se reunió o no el porcentaje ciudadano para la iniciativa popular.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 59.
 
@@ -867,7 +899,7 @@ I. Cuando vaya directamente en contra de la Constitución Política de los Estad
 
 II. Cuando en materia de legislación secundaria o de reglamentación vaya directamente en contra de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Política del Estado, salvo que la iniciativa popular proponga una reforma constitucional local en este último caso.
 
-III. Cuando las firmas de apoyo no sean auténticas, los ciudadanos firmantes no estén inscritos en la lista nominal de electores o los datos vaciados en el escrito no concuerden con los datos registrados en la lista nominal de que se trate.
+III. (DEROGADA, P.O. 27 DE JUNIO DE 2008)
 
 IV. Cuando la solicitud incumpla con los requisitos para ejercer el derecho de petición.
 
@@ -907,9 +939,11 @@ En el caso de la iniciativa popular las notificaciones se realizarán por los em
 
 EL DOMICILIO PARA RECIBIR NOTIFICACIONES Y/O DOCUMENTOS. Los ciudadanos que intervengan en el procedimiento del plebiscito o referendo designarán en su solicitud o en su primera diligencia o audiencia, su domicilio y un representante para oír y recibir toda clase de notificaciones y/o documentos, en el lugar donde resida el Instituto.
 
-En el caso de la iniciativa popular, los ciudadanos designarán en su solicitud o en su primera diligencia o audiencia, su domicilio y un representante para oír y recibir toda clase de notificaciones y/o documentos, en el lugar donde resida la autoridad competente para conocer de la iniciativa.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
-Si por cualquier circunstancia no hacen la designación, cambian su domicilio sin dar aviso o señalan uno de manera incorrecta o falsa, todas las notificaciones se harán por lista de acuerdo.
+En el caso de la iniciativa popular, el interesado designará en su solicitud o en su primera diligencia o audiencia, su domicilio y un representante, en su caso, para oír y recibir toda clase de notificaciones y/o documentos, en el lugar donde resida la autoridad competente para conocer de la iniciativa.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 67.
 
@@ -945,9 +979,11 @@ EL ORDENAMIENTO LEGAL SUPLETORIO DEL PROCEDIMIENTO DEL PLEBISCITO, REFERENDO E I
 
 No se aplicarán en el plebiscito o referendo las disposiciones de la ley electoral relativas al establecimiento de la figura jurídica de representantes de los partidos políticos o coaliciones, así como sus facultades, derechos y atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 73.
 
-LA LISTA NOMINAL PARA REALIZAR EL COTEJO DEL PORCENTAJE CIUDADANO. Para fijar el porcentaje ciudadano del plebiscito, referendo e iniciativa popular, se tomará en cuenta la lista nominal utilizada en el último proceso electoral.
+Para fijar el porcentaje ciudadano del plebiscito y del referendo se tomará en cuenta la lista nominal utilizada en el último proceso electoral.
 
 El Instituto establecerá los mecanismos que estime conducentes para realizar el cotejo respectivo.
 
@@ -1682,3 +1718,11 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE JESÚS RAUL SIFUENTES GUERRERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JUNIO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
