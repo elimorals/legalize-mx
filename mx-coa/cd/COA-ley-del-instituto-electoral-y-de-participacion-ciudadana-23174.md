@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-electoral-y-de-participacion-ciudadana-23174"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2007-12-28"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -69,9 +69,11 @@ VI. Llevar a cabo la promoción del voto y coadyuvar a la difusión de la cultur
 
 VII. Promover, fomentar y preservar la participación ciudadana.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### Artículo 4°.
 
-El Instituto, dentro del régimen interior del estado, se encargará de la preparación, organización, desarrollo, vigilancia y validez de los procesos electorales, de los procedimientos del plebiscito, del referendo, de la validación del porcentaje ciudadano de la iniciativa popular y de la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
+El Instituto, dentro del régimen interior del estado, se encargará de la preparación, organización, desarrollo, vigilancia y validez de los procesos electorales, de los procedimientos del plebiscito, del referendo, de la iniciativa popular y de la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. EL INSTITUTO COMO ORGANISMO PÚBLICO AUTÓNOMO
 
@@ -99,9 +101,11 @@ El Instituto es un organismo autónomo frente a cualquier órgano del gobierno f
 
 La competencia del Instituto se ejercerá por sus órganos conforme a esta ley y su reglamentación y no podrá ser vulnerada o restringida por los gobiernos federal, estatal o municipal.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### Artículo 10.
 
-El Instituto es el depositario de la autoridad electoral dentro del régimen interior del estado, responsable del ejercicio de la función estatal de preparar, organizar, desarrollar, vigilar y validar los procesos electorales, los procedimientos del plebiscito y del referendo, la validación del porcentaje ciudadano de la iniciativa popular y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
+El Instituto es el depositario de la autoridad electoral dentro del régimen interior del estado, responsable del ejercicio de la función estatal de preparar, organizar, desarrollar, vigilar y validar los procesos electorales, los procedimientos del plebiscito, del referendo, de la iniciativa popular y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -835,7 +839,9 @@ I. Elaborar el Programa de Participación Ciudadana, para presentarlo a su discu
 
 II. Conocer, estudiar y dictaminar toda solicitud de plebiscito y referendo para que el Consejo General resuelva sobre su procedencia.
 
-III. Validar el porcentaje ciudadano del plebiscito, referendo e iniciativa popular.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+III. Validar el porcentaje ciudadano del plebiscito y referendo.
 
 IV. Instrumentar los procedimientos del plebiscito, referendo y de integración, vigilancia y certificación de los Consejos de Participación Ciudadana, en los términos de las disposiciones aplicables.
 
@@ -1728,3 +1734,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 27 DE JUNIO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
