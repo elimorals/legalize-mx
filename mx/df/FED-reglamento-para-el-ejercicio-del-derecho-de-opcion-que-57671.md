@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-ejercicio-del-derecho-de-opcion-que-57671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-14"
-last_updated: "2007-12-14"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57671&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-13"
 
 REGLAMENTO PARA EL EJERCICIO DEL DERECHO DE OPCION QUE TIENEN LOS TRABAJADORES DE CONFORMIDAD CON LOS ARTICULOS QUINTO Y SEPTIMO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE JUNIO DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de diciembre de 2007.
 
@@ -259,7 +259,9 @@ I. Iniciar el procedimiento entre el 1o. de enero y el 30 de junio de 2008;
 
 II. Proporcionar al Instituto la información que éste les solicite para su identificación, y
 
-III. Indicar al Instituto el rubro que solicita sea revisado, así como los datos necesarios para su validación y corrección.
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+III. Indicar al Instituto el rubro que se solicita sea revisado, así como entregarle los documentos necesarios para su validación y corrección, previstos en el artículo 16 de este Reglamento.
 
 ###### Artículo 21.
 
@@ -285,7 +287,9 @@ La resolución que emita el Instituto deberá sujetarse a los términos establec
 
 El Instituto emitirá la resolución correspondiente a la solicitud de revisión que presenten los Trabajadores en los siguientes sentidos:
 
-I. Improcedente: en aquellos casos en los que no existen elementos para sustentar la solicitud de revisión con la información que conste en los documentos que presenten los Trabajadores, o en los archivos de las Dependencias y Entidades en las que el Trabajador manifieste haber prestado servicios, o cuando la presentación de dicha solicitud sea posterior al 30 de junio de 2008, o
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+I. Improcedente: en aquellos casos en los que no existen elementos para sustentar la solicitud de revisión con la información que conste en los documentos que presenten los Trabajadores, o en los archivos de las Dependencias y Entidades en las que el Trabajador manifieste haber prestado servicios, o cuando la presentación de dicha solicitud sea posterior al 15 de agosto de 2008 en términos del artículo 36, fracción I de este Reglamento, o
 
 II. Procedente: en los casos en que existan elementos para sustentar, total o parcialmente, la solicitud de revisión en la información que conste en los documentos que presenten los Trabajadores, o en los archivos de las Dependencias y Entidades en las que el Trabajador manifieste haber prestado servicios, para realizar los ajustes correspondientes por haberse reconocido el Sueldo Básico, tiempo de cotización o fecha de nacimiento del Trabajador, para el cálculo del Bono de Pensión, o bien en los casos a que se refieren los artículos 13, párrafo tercero, y 22, párrafo tercero, del Reglamento.
 
@@ -319,7 +323,9 @@ IV. Sueldo Básico elevado al año y expresado tanto en pesos como en unidades d
 
 V. Cálculo preliminar del importe del Bono de Pensión que le corresponda a cada Trabajador;
 
-VI. Opciones del Trabajador, explicando que, con base en la información antes señalada, hasta el 30 de junio de 2008 tiene el derecho a:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+VI. Opciones del Trabajador, explicando que, con base en la información antes señalada, hasta el 14 de noviembre de 2008 tiene el derecho a:
 
 a. Elegir Bonos de Pensión que serán acreditados en su Cuenta Individual, o
 
@@ -359,11 +365,13 @@ Para el caso de los Trabajadores que hayan recibido una indemnización global y 
 
 #### Sección III. Del Aviso Preventivo a los Trabajadores
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
 ###### Artículo 30.
 
-Las Dependencias y Entidades deberán notificar a los Trabajadores que al 31 de mayo de 2008 no les hayan comunicado el ejercicio de su Derecho de Opción, que tendrán hasta el 30 de junio de 2008 para hacerlo, o de lo contrario se estará a lo dispuesto por el artículo 35 del Reglamento. La notificación deberá realizarse dentro de los primeros 15 días de junio de 2008, aplicando en lo conducente lo establecido en el capítulo VI.
+Las Dependencias y Entidades deberán notificar a los Trabajadores que al 31 de mayo de 2008 no les hayan comunicado el ejercicio de su Derecho de Opción, que se estará a lo dispuesto por el artículo 35 del Reglamento.
 
-Lo anterior, con excepción de los Trabajadores que hayan presentado una solicitud de revisión.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 27 DE JUNIO DE 2008)</small>
 
 #### Sección IV. De la Manifestación de la Elección de los Trabajadores
 
@@ -372,6 +380,10 @@ Lo anterior, con excepción de los Trabajadores que hayan presentado una solicit
 De conformidad con lo dispuesto en el artículo séptimo transitorio del Decreto, los Trabajadores deberán comunicar por escrito al Instituto, a través de las Dependencias y Entidades, la elección que realicen en términos de lo previsto en el artículo quinto transitorio del Decreto a más tardar el día 30 de junio de 2008.
 
 Para efecto de lo anterior, los Trabajadores deberán entregar el Documento de Elección a la Dependencia o Entidad en la que presten sus servicios.
+
+> <small>(ADICIONADO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+El Comité al que se refiere el artículo trigésimo tercero transitorio del Decreto podrá establecer mecanismos distintos al señalado en el párrafo anterior, para que los Trabajadores comuniquen a las Dependencias y Entidades la elección que realicen durante el plazo que tengan para el ejercicio de su Derecho de Opción, en términos del presente Reglamento.
 
 ###### Artículo 32.
 
@@ -403,27 +415,37 @@ III. La firma del Trabajador asentada en el Documento de Elección corresponda a
 
 Los servidores públicos de las Dependencias y Entidades que hayan recibido la documentación a que se refiere el artículo 32 del presente Reglamento, verificada la información y la identificación del Trabajador, deberán devolverle su identificación oficial.
 
-### Capítulo V. De los Trabajadores que no Ejerzan su Derecho de Opción
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+### Capítulo V. De los Trabajadores que no Ejerzan su Derecho de Opción en el Plazo Otorgado por el Decreto
+
+> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2008)</small>
 
 ###### Artículo 35.
 
-A los Trabajadores que al 30 de junio de 2008 no hayan manifestado a través del Documento de Elección el ejercicio de su Derecho de Opción, les será aplicado lo dispuesto en el artículo décimo transitorio del Decreto, con acceso al resto de las prestaciones y seguros contenidos en dicha Ley.
+Con el fin de respetar el ejercicio del Derecho de Opción en los términos de lo dispuesto por el artículo séptimo transitorio, último párrafo, del Decreto, a los Trabajadores que al 30 de junio de 2008 no hayan comunicado a través del Documento de Elección el ejercicio de dicho derecho, se les extenderá el plazo para hacerlo hasta el 14 de noviembre de 2008.
+
+En caso de que al 14 de noviembre de 2008 los Trabajadores no hayan comunicado a través del Documento de Elección el ejercicio de su Derecho de Opción por cualquier causa, les será aplicado lo dispuesto en el artículo décimo transitorio del Decreto, con acceso al resto de las prestaciones y seguros contenidos en la Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2008)</small>
 
 ###### Artículo 36.
 
-Lo dispuesto en el artículo anterior no será aplicable a los Trabajadores que:
+Para efecto de lo dispuesto en el párrafo primero del artículo anterior, los Trabajadores que no hubieran presentado solicitudes de revisión o ejercido su Derecho de Opción al 30 de junio de 2008, podrán solicitar directamente ante el Instituto la revisión de su tiempo de cotización, fecha de nacimiento o Sueldo Básico. En este caso se aplicará lo previsto en el Capítulo III, Sección IV del presente Reglamento, con las salvedades siguientes:
 
-I. Hayan presentado una solicitud de revisión en los plazos establecidos en el presente Reglamento y que, al 30 de junio de 2008, todavía no hayan recibido la resolución correspondiente, y
+I. Los Trabajadores deberán iniciar el procedimiento entre el 1o. de julio y el 15 de agosto de 2008;
 
-II. Les sea informado que su solicitud de revisión resultó procedente, con posterioridad al 2 de junio de 2008.
+II. El Instituto deberá remitir la solicitud a las Dependencias y Entidades en las que el Trabajador manifieste haber prestado sus servicios, en un plazo no mayor a diez días hábiles a partir de su recepción;
 
-En los supuestos anteriores los Trabajadores contarán con un plazo de veinte días hábiles posteriores a la notificación de la resolución del Instituto para manifestar su elección.
+III. Las Dependencias y Entidades deberán remitir al Instituto la información actualizada del Trabajador, en un plazo no mayor a los veinte días hábiles posteriores, y
 
-En caso de que los Trabajadores a que se refiere el presente artículo no manifiesten la elección a que tienen derecho dentro del plazo antes mencionado, se estará a lo dispuesto en el artículo 35 del Reglamento.
+IV. El Instituto deberá resolver la solicitud de revisión en un plazo no mayor a los cinco días hábiles siguientes, y notificará a los Trabajadores lo conducente dentro de los ocho días hábiles subsecuentes.
+
+> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2008)</small>
 
 ###### Artículo 37.
 
-Las Dependencias y Entidades, sujetándose en lo conducente al capítulo VI del Reglamento, deberán notificar a los Trabajadores que no hayan manifestado su elección en los plazos referidos, que se aplicará lo dispuesto en el artículo 35 del mismo.
+Las Dependencias y Entidades, sujetándose en lo conducente al Capítulo VI del Reglamento, deberán notificar a los Trabajadores que no hayan manifestado su elección en los plazos referidos, que se aplicará lo dispuesto en el artículo 35, párrafo segundo, del mismo.
 
 ### Capítulo VI. De las Notificaciones y Entrega de Documentos
 
@@ -459,9 +481,11 @@ Tratándose de solicitudes de revisión que se encuentren pendientes de resoluci
 
 Las Dependencias y Entidades serán responsables de la veracidad de la información que entreguen al Instituto, relativa a la elección que realicen los Trabajadores.
 
+> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
 ###### Artículo 42.
 
-Las Dependencias y Entidades deberán poner a disposición del Instituto la Relación Electrónica, a través de los formatos y procedimientos establecidos en el SIRI, a más tardar el 20 de julio de 2008 en los casos de los Trabajadores que hayan ejercido su Derecho de Opción al 30 de junio del mismo año, y a más tardar el 20 de noviembre del 2008 para los Trabajadores a que se refiere el artículo 36 del Reglamento.
+Las Dependencias y Entidades deberán poner a disposición del Instituto la Relación Electrónica, a través de los formatos y procedimientos establecidos en el SIRI, a más tardar el 20 de julio de 2008 en los casos de los Trabajadores que hayan ejercido su Derecho de Opción al 30 de junio del mismo año, y a más tardar el 28 de noviembre de 2008 para los Trabajadores que hubieran ejercido dicho derecho al 14 de noviembre del año referido.
 
 ###### Artículo 43.
 
@@ -471,9 +495,11 @@ Las Dependencias y Entidades podrán conservar evidencia documental del Document
 
 ### Capítulo VIII. De la Información a la Secretaría del Monto de los Bonos de Pensión
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
 ###### Artículo 44.
 
-El Instituto, a más tardar el 31 de julio de 2008, deberá entregar a la Secretaría la lista de Trabajadores que hayan ejercido su Derecho de Opción, especificando lo siguiente:
+El Instituto, a más tardar el 31 de julio de 2008, deberá entregar a la Secretaría la lista de Trabajadores que hayan ejercido su Derecho de Opción al 30 de junio del mismo año, y a más tardar el 28 de noviembre, la lista de los Trabajadores que hubieran ejercido dicho derecho al 14 de noviembre del año referido, especificando lo siguiente:
 
 I. Trabajadores que optaron por Bonos de Pensión;
 
@@ -489,15 +515,21 @@ I. Número de Trabajadores con derecho a pensionarse cada año, y
 
 II. Monto total acreditable al número de Trabajadores señalado en la fracción anterior, acompañando la documentación utilizada para determinar dicho monto.
 
-El Instituto deberá proporcionar la información antes señalada a la Secretaría, a más tardar el 30 de septiembre de 2008.
+> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+El Instituto deberá proporcionar la información antes señalada a la Secretaría, a más tardar el 30 de septiembre de 2008, tratándose de los Trabajadores que hubieran ejercicio su Derecho de Opción a más tardar el 30 de junio del mismo año.
 
 El Instituto actualizará la base de datos con la información certificada por las Dependencia y Entidades, y con base en ella extraerá, integrará y consolidará la totalidad del tiempo de cotización por cada Trabajador, así como la demás información proveniente de otros sistemas o procedimientos que haya determinado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
 ###### Artículo 46.
 
-El Instituto, tratándose de solicitudes de revisión que se encuentren pendientes de resolución al 30 de junio de 2008, así como aquellas que se resuelvan con posterioridad al 2 de junio de 2008, deberá informar a la Secretaría el cálculo definitivo de los Bonos de Pensión, una vez que se cuente con la elección de los Trabajadores y éstos hayan optado por dichos Bonos.
+El Instituto, tratándose de los Trabajadores a los que se les haya extendido el plazo para el ejercicio de su Derecho de Opción al 14 de noviembre de 2008, deberá informar a la Secretaría el cálculo definitivo de los Bonos de Pensión de acuerdo con lo indicado en el artículo anterior, una vez que se cuente con la elección de los Trabajadores y éstos hayan optado por dichos Bonos.
 
-Para efecto de lo anterior el Instituto, a más tardar el 30 de noviembre de 2008, deberá informar a la Secretaría lo previsto en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+A más tardar el 28 de noviembre de 2008, el Instituto deberá informar a la Secretaría lo previsto en el párrafo anterior.
 
 La Secretaría podrá realizar la emisión de los Bonos de Pensión de los Trabajadores a que se refiere el presente artículo, a más tardar en el último día hábil del mes de enero de 2009.
 
@@ -628,3 +660,17 @@ Número de Trabajadores Monto Total
 Con la información que mediante este formato haya remitido el Instituto a la Comisión y a la Secretaría, éstas instrumentarán lo que corresponda en el ámbito de sus respectivas competencias conforme a lo establecido en la Ley, el Reglamento y demás disposiciones aplicables.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los trece días del mes de diciembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 27 DE JUNIO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Comité al que se refiere el artículo trigésimo tercero transitorio del Decreto, podrá ejercer la facultad a que se refiere el artículo 31, párrafo tercero del Reglamento, con posterioridad a los 60 días naturales de la entrada en vigor del presente instrumento.
+
+Sin perjuicio de lo anterior, dicho Comité podrá determinar procedimientos y criterios aplicables a efecto de garantizar el ejercicio del Derecho de Opción por parte de los Trabajadores, en lo no previsto por el Reglamento.
+
+TERCERO.- A efecto de agilizar la resolución de las solicitudes de revisión mediante acreditación documental ante las Dependencias y Entidades, presentadas o que se presenten del 18 al 30 de junio de 2008, el Instituto dispondrá de 40 días hábiles para validar los ajustes al Sueldo Básico, al tiempo de cotización o a la fecha de nacimiento de los Trabajadores.
+
+CUARTO.- Las solicitudes de revisión presentadas ante el Instituto hasta el 30 de junio de 2008, se tramitarán y resolverán en los términos previstos en el Capítulo III, Sección IV del Reglamento, sin perjuicio de que los Trabajadores ejerzan su Derecho de Opción hasta el 14 de noviembre del mismo año.
