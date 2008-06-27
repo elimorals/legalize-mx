@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fiscalizacion-superior-para-el-estado-de-coahuila-de-565
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-06"
-last_updated: "2007-07-06"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de julio de 2007.
 
@@ -769,6 +769,10 @@ SEXTO. En un plazo de 180 días contados a partir de la entrada en vigor de la p
 
 SÉPTIMO. Durante el ejercicio 2007, la Auditoria Superior del Estado y la Secretaria de Finanzas, se coordinarán con el resto de las entidades para armonizar el contenido de las cuentas públicas. La Auditoria Superior emitirá las reglas que permitan la presentación simplificada de la cuenta pública y de los informes de avance de gestión financiera del ejercicio 2007, conservando como mínimo su contenido actual.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
+
+OCTAVO. Hasta en tanto no se expidan las leyes que en el ámbito local regulen la contabilidad gubernamental y la presentación homogénea de información financiera, que tenga por objeto garantizar su armonización con las disposiciones de carácter federal, la Auditoria Superior del Estado emitirá las reglas de contenido y presentación de la cuenta pública y de los informes de avance de gestión financiera de las entidades.
+
 DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila, a los veintisiete días del mes de junio del año dos mil siete.
 
 DIPUTADO PRESIDENTE.
@@ -810,3 +814,11 @@ EL SECRETARIO DE FINANZAS
 LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JUNIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
