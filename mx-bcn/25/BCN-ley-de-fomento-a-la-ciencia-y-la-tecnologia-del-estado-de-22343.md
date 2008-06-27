@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-ciencia-y-la-tecnologia-del-estado-de-22343
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-19"
-last_updated: "2001-10-19"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2001.
 
@@ -57,15 +57,19 @@ VI. Generar mecanismos de vinculación entre los sectores productivos con la act
 
 VII. Estimular y reconocer la actividad científica y tecnológica.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 2.
 
-La Secretaría de Educación y Bienestar Social es la autoridad competente para la aplicación y ejecución de esta Ley; contará con un órgano técnico denominado Consejo Estatal de Ciencia y Tecnología, COCYT, que será el cuerpo asesor en la elaboración y aprobación del Programa, así como para el diseño de políticas en materia de actividades científicas y tecnológicas.
+La Secretaría de Desarrollo Económico es la autoridad competente para la aplicación y ejecución de esta Ley; contará con un órgano técnico denominado Consejo Estatal de Ciencia y Tecnología, COCYT, que será el cuerpo asesor en la elaboración y aprobación del Programa, así como para el diseño de políticas en materia de actividades científicas y tecnológicas.
 
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Secretaría: la Secretaría de Educación y Bienestar Social;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+I. Secretaría: la Secretaría de Desarrollo Económico;
 
 II. COCYT: el Consejo Estatal de Ciencia y Tecnología;
 
@@ -73,7 +77,9 @@ III. Ley: la Ley de Fomento a la Ciencia y Tecnología para el Estado de Baja Ca
 
 IV. Actividades científicas y tecnológicas: aquellas de carácter sistemático y permanente orientadas a la generación, mejoramiento, difusión y aplicación del conocimiento en todos los campos de la ciencia y la tecnología;
 
-V. Programa: el Programa Estatal de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+V. Programa: el Programa de Ciencia y Tecnología;
 
 VI. Fondo: el Fondo Estatal de Ciencia y Tecnología, y
 
@@ -97,9 +103,11 @@ III. Los titulares de las siguientes Secretarías: de Educación y Bienestar Soc
 
 Los integrantes del COCYT durarán en su cargo seis años y podrán ser reelectos.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 6.
 
-Las sesiones del COCYT serán presididas por el Secretario de Educación y Bienestar Social. El Director de Educación Superior e Investigación será el Secretario Técnico del COCYT, responsable de convocar a las sesiones, llevar cuenta de los asuntos que se acuerden y la documentación que se genere; contando con voz pero sin voto para todos los asuntos.
+Las sesiones del COCYT serán presididas por el Secretario de Desarrollo Económico. El Secretario Técnico de COCYT, será designado por el Presidente, y será el responsable de convocar a las sesiones, llevar cuenta de los asuntos que se acuerden y la documentación que se genere; contando con voz pero sin voto para todos los asuntos.
 
 ###### ARTÍCULO 7.
 
@@ -153,27 +161,53 @@ VII. Promover, crear y otorgar reconocimientos y estímulos al mérito de invest
 
 VIII. Fomentar y fortalecer la investigación científica y tecnológica, promoviendo acciones concertadas con el COCYT, los sectores público y privado, instituciones de educación superior, centros de investigación y sus usuarios;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
+
 IX. Promover la creación, fortalecimiento y adecuada operación de laboratorios y centros de investigación de desarrollo tecnológico, a fin de que coadyuven con la certificación de la calidad, la normatividad y las especificaciones técnicas que establece la legislación aplicable;
 
-X. Fomentar el desarrollo de la ciencia y la tecnología, apoyando aquellos proyectos de investigación de personas físicas o morales que reúnan los requisitos que establece el reglamento, debiendo destinar recursos dentro de su disponibilidad presupuestal que le apruebe el Congreso y mediante otras fuentes de financiamiento;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
+
+X. Fomentar el desarrollo de la ciencia y la tecnología, apoyando aquellos proyectos de investigación de personas físicas o morales que reúnan los requisitos que establece el reglamento, debiendo destinar recursos dentro de la disponibilidad presupuestal que le apruebe el Congreso y mediante otras fuentes de financiamiento;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
 
 XI. Promover la vinculación entre las instituciones de educación superior y centros de investigación y de éstas con los usuarios de los sectores público, privado y social, preferentemente del Estado;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
+
 XII. Asesorar en la obtención de recursos para la realización de proyectos de ciencia y tecnología, a instituciones de educación superior, centros de investigación, Ayuntamientos y quien lo solicite;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
 
 XIII. Concertar en coordinación con el COCYT y otras dependencias y organismos de la Administración Pública Federal, estatal o municipal, convenios con instituciones u organismos nacionales y extranjeros, para el cumplimiento de sus objetivos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
+
 XIV. Promover la publicación de aportaciones científicas y tecnológicas y fomentar la difusión de los trabajos y proyectos realizados por los investigadores estatales;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
 
 XV. Crear el sistema estatal de información y documentación científica y tecnológica de recursos humanos, materiales, de organización y financieros, destinados a la investigación científica y al desarrollo tecnológico del Estado;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
+
 XVI. Promover la integración de bolsas de trabajo que permitan el mejor y mayor aprovechamiento de los investigadores y expertos en ciencia y tecnología;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2008)</small>
 
 XVII. Apoyar en las gestiones para obtener la exención del pago de impuestos a la importación de equipo científico;
 
-XVIII. Gestionar, la protección de áreas geográficas del territorio de Baja California que sean de interés primordial para la investigación científica, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XIX. Las demás atribuciones que determine esta Ley y su reglamento.
+XVIII. Gestionar, la protección de áreas geográficas del territorio de Baja California que sean de interés primordial para la investigación científica;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XIX. Impulsar la innovación Científica y tecnológica para consolidar la cadena educación- ciencia- tecnología, y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XX. Las demás atribuciones que determinen esta Ley y su reglamento.
 
 ### CAPÍTULO CUARTO. DE LOS CRITERIOS ORIENTADORES
 
@@ -181,7 +215,9 @@ XIX. Las demás atribuciones que determine esta Ley y su reglamento.
 
 Las acciones que la Secretaría emprenda para incentivar, apoyar y promover la investigación científica y tecnológica, se atendrán a los criterios siguientes:
 
-I. Se integrará un padrón de instituciones de educación superior y centros de investigación, así como de los proyectos y programas que desarrollen, con el fin de conocer y apoyar aquellos que sean de prioridad para el Estado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+I. En coordinación con la Secretaría de Educación y Bienestar Social del Estado de Baja California, se integrará un padrón de instituciones de educación superior y centros de investigación, así como de los proyectos y programas que desarrollen, con el fin de conocer y apoyar aquellos que sean de prioridad para el Estado;
 
 II. Se promoverán y apoyarán las actividades científicas y tecnológicas, preferentemente aquellas que se realicen en áreas y sectores estratégicos en los términos del Plan Estatal de Desarrollo y de los respectivos planes municipales;
 
@@ -382,3 +418,15 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JUNIO DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Titular de la Secretaría de Desarrollo Económico deberá ocupar el cargo de Presidente del COCYT, a que se refiere el artículo 6, a más tardar quince días naturales después de la entrada en vigor de la presente reforma, para recibir los asuntos, informes y demás documentación y bienes del COCYT.
+
+TERCERO.- La reglamentación que deriva de esta Ley deberá adecuarse por el Ejecutivo del Estado, en un plazo que no excederá de ciento ochenta días hábiles contados a partir de la fecha en que entre en vigor esta Ley; así mismo, en dicho plazo, deberán realizarse las adecuaciones correspondientes a los convenios existentes celebrados por el COCYT.
+
+CUARTO.- Se derogan las disposiciones de leyes o reglamentos que se opongan a lo que establece esta Ley.
