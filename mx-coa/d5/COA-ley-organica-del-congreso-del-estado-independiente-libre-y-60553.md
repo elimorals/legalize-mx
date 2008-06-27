@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-6055
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-07"
-last_updated: "2008-03-07"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 7 de marzo de 2008.
 
@@ -1887,15 +1887,19 @@ V.- Al Instituto Electoral y de Participación Ciudadana de Coahuila, en todo lo
 
 VI. Al Instituto Coahuilense de Acceso a la Información Pública, a través del Consejo General, en materia de acceso a la información pública; de protección del derecho a la intimidad de las personas; y de administración, conservación y preservación de la documentación pública; y
 
-VII. A los ciudadanos electores coahuilenses en los términos que establezca la ley de la materia.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+VII. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residido en el Estado por más de tres años. Este derecho se ejercerá en los términos que establezca la ley de la materia.
 
 ###### ARTÍCULO 182.
 
 Las iniciativas presentadas por el Ejecutivo, el Tribunal Superior, los Ayuntamientos, el Instituto Electoral y de Participación Ciudadana y el Instituto Coahuilense de Acceso a la lnformación Pública, pasarán, desde luego, a comisión. Las de los diputados se sujetarán a la presente ley y sus reglamentos ya los acuerdos tomados por el Pleno.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 183.
 
-Las iniciativas presentadas por los ciudadanos electores coahuilenses, se sujetarán al trámite que establezcan las disposiciones aplicables.
+Las iniciativas presentadas por los sujetos a que se refiere la fracción VII del artículo 181 de esta ley, se dictaminarán en un plazo que no excederá de 180 días naturales, contados a partir de la fecha en que le fueren turnadas a la comisión correspondiente.
 
 ###### ARTÍCULO 184.
 
@@ -2770,3 +2774,11 @@ DIPUTADO SECRETARIO.
 GENARO EDUARDO FUANTOS SÁNCHEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE JUNIO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
