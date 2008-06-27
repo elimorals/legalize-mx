@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2008-05-16"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -681,9 +681,19 @@ X.- Asesorar técnicamente a los Ayuntamientos y a los sectores social y privado
 
 XI.- Promover programas ante instituciones especializadas referentes a la capacitación y adiestramiento de mano de obra que impulsen y mejoren la productividad del trabajo;
 
-XII.- Impulsar y participar en los programas de investigación de tecnología industrial y fomentar su divulgación, y
+XII.- Impulsar y participar en los programas de investigación de tecnología industrial y fomentar su divulgación, y (sic)
 
-XIII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XIII.- Planear, promover y evaluar las actividades relativas a la ciencia y la tecnología en el Estado, su vinculación con el desarrollo estatal y sus relaciones con el exterior;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XIV.- Elaborar y ejecutar programas indicativos de investigación científica y tecnológica vinculados a los objetivos estatales, regionales y nacionales de desarrollo económico y social; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XV.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO X
 
@@ -785,9 +795,13 @@ A la Secretaría de Educación y Bienestar Social corresponde la atención y tr�
 
 I.- Cumplir y hacer cumplir la Ley de Educación Pública del Estado;
 
-II.- Diseñar y formular los programas relativos a la educación, cultura, ciencia, tecnología, deportes, recreación y bienestar social, con base en la normatividad y rectoría del Gobierno Federal;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-III.- Formular y promover acuerdos de concertación con los sectores social y privado, para la formulación y ejecución de programas de educación, cultura, ciencia, tecnología, deporte, recreación y bienestar social;
+II.- Diseñar y formular los programas relativos a la educación, cultura, deportes, recreación y bienestar social, con base en la normatividad y rectoría del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+III.- Formular y promover acuerdos de concertación con los sectores social y privado para la formulación y ejecución de programas de educación, cultura, deporte, recreación y bienestar social;
 
 IV.- Planear, desarrollar, impartir, vigilar y evaluar los servicios educativos a cargo del Gobierno del Estado;
 
@@ -1732,3 +1746,7 @@ QUINTO.- Los archivos y asuntos en trámite de la Dirección de Pesca de la Secr
 SEXTO.- El Titular del Ejecutivo, dentro de los treinta días siguientes a la entrada en vigor de la presente reforma, deberá nombrar al Titular de la Secretaría de Pesca y Acuacultura.
 
 SÉPTIMO.- El Titular del Ejecutivo, dentro de los noventa días siguientes a la entrada en vigor de la presente reforma, deberá expedir el Reglamento Interno de la Secretaría de Pesca y Acuacultura, y hacer las adecuaciones correspondientes al Reglamento Interno de la Secretaría de Fomento Agropecuario.
+
+P.O. 27 DE JUNIO DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
