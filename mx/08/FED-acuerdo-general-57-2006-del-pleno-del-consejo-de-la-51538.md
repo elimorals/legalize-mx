@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-06-11"
+last_updated: "2008-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE JUNIO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -45,7 +45,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO.- El territorio de la República se divide en veintinueve Circuitos, cuya circunscripción territorial es la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+PRIMERO.- El territorio de la República se divide en treinta Circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -91,7 +93,9 @@ XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
-XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Zacatecas y Aguascalientes.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+XXIII.- VIGESIMO TERCER CIRCUITO: Estado de Zacatecas.
 
 XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
@@ -104,6 +108,10 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
 
 SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
@@ -323,13 +331,15 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
-1.- Tres tribunales colegiados: uno con residencia en Zacatecas y dos con sede en Aguascalientes.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+1.- Un tribunal colegiado con residencia en Zacatecas.
 
 2.- Un tribunal unitario con sede en Zacatecas.
 
 3.- Dos juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y uno con sede en Guadalupe.
 
-4.- Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+4.- (DEROGADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)
 
 XXIV.- VIGESIMO CUARTO CIRCUITO:
 
@@ -380,6 +390,16 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 2.- Un tribunal unitario con sede en Pachuca.
 
 3.- Tres juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+XXX.- TRIGESIMO CIRCUITO:
+
+1.- Dos tribunales colegiados con residencia en Aguascalientes.
+
+2.- Un tribunal unitario con sede en Aguascalientes.
+
+3.- Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
 
@@ -457,11 +477,9 @@ En relación al tribunal unitario con residencia en Acapulco, su jurisdicción t
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
-XXIII.- VIGESIMO TERCER CIRCUITO: Respecto del tribunal colegiado con residencia en Zacatecas, su jurisdicción territorial será la entidad del mismo nombre.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-En cuanto a los tribunales colegiados con sede en Aguascalientes, su jurisdicción territorial será el Estado del mismo nombre.
-
-La jurisdicción territorial del tribunal unitario comprenderá los Estados de Aguascalientes y Zacatecas.
+XXIII.- VIGESIMO TERCER CIRCUITO: El Estado de Zacatecas.
 
 XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
@@ -474,6 +492,10 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
 
 CUARTO.- La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
@@ -635,7 +657,7 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y otro con sede en Guadalupe, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
 XXIV.- VIGESIMO CUARTO CIRCUITO:
 
@@ -662,6 +684,12 @@ Los juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad d
 XXIX.- VIGESIMO NOVENO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
+
+XXX.- TRIGESIMO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 18/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2008)</small>
 
@@ -880,3 +908,9 @@ D.O.F. 11 DE JUNIO DE 2008.
 PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 27 DE JUNIO DE 2008.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
