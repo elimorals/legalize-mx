@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-comunicaciones-y-57228"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-26"
-last_updated: "2007-09-26"
+last_updated: "2008-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el miércoles 26 de septiembre de 2007.
 
@@ -705,8 +705,24 @@ PRIMERO.- El presente Reglamento entrará en vigor, al día siguiente de su publ
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a este Reglamento.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2008)</small>
+
+TERCERO.- Cuando en este reglamento se dé una denominación nueva o distinta a alguna dirección o departamento cuyas funciones estén establecidas por otro instrumento legal, dichas atribuciones se entenderán concedidas a la dirección o departamento que determine el presente reglamento.
+
 Dado en el Palacio del Poder Ejecutivo, en la ciudad de Chihuahua, Chih., a los veinte días del mes de Septiembre del año dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. HÉCTOR H. HERNÁNDEZ VARELA. Rúbrica. EL SECRETARIO DE COMUNICACIONES Y OBRAS PÚBLICAS. ING. LUIS ALONSO FERNÁNDEZ CASILLAS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado.
