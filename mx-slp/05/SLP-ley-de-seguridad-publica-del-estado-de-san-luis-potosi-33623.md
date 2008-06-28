@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-33623"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2007-04-24"
+last_updated: "2008-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -751,9 +751,17 @@ XI. El Comandante de la XII Zona Militar;
 
 XII. Los funcionarios representantes o delegados en la Entidad, de las autoridades federales que formen parte del Consejo Nacional;
 
-XIII. Los presidentes municipales de los ayuntamientos cabecera de Distrito Judicial, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2008)</small>
 
-XIV. El Secretario Ejecutivo del Consejo Estatal.
+XIII. Los presidentes municipales de los ayuntamientos cabecera de Distrito Judicial;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2008)</small>
+
+XIV. El Secretario Ejecutivo del Consejo Estatal, y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2008)</small>
+
+XV. El diputado Presidente de la Comisión de Seguridad Pública, Prevención y Readaptación Social del Honorable Congreso del Estado.
 
 A convocatoria del Consejo podrán participar los funcionarios o personas que por razones de la importancia de sus atribuciones, estén vinculados con los fines de la seguridad pública.
 
@@ -1302,3 +1310,9 @@ P.O. 24 DE ABRIL DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE JUNIO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
