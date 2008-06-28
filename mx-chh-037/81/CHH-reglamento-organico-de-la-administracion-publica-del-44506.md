@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2008-06-07"
+last_updated: "2008-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -243,6 +243,10 @@ Dirección de Comercio.
 
 Dirección de Oficialía Jurídica y Barandilla.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2008)</small>
+
+Dirección de Desarrollo Rural y Forestal Sustentable.
+
 ###### Artículo 17.
 
 Son atribuciones del Director Jurídico:
@@ -336,6 +340,26 @@ IV. Vigilar el buen desempeño del personal administrativo a su cargo;
 V. Recopilar la información necesaria, a fin de integrar los reportes estadísticos del personal bajo su mando y vigilancia; y
 
 VI. Las demás que le confieran las Leyes, Reglamentos y Manuales de Organización.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2008)</small>
+
+###### Artículo 25 Bis.
+
+Son atribuciones del Director de Desarrollo Rural y Forestal Sustentable:
+
+I. Impulsar, el mejoramiento integral del bienestar social de la población y de las actividades económicas, en el territorio comprendido fuera de los núcleos de la población considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+
+II. Proponer al Ayuntamiento la celebración de acuerdos y convenios de colaboración entre las dependencias y entidades de la Administración Pública Estatal, con las del Ejecutivo Federal, de otras Entidades Federativas, del Municipio y de otros Ayuntamientos, así como con Organizaciones Nacionales e Internacionales, involucradas en la formulación y ejecución de políticas en materia de desarrollo rural y forestal sustentable y ejecutar los que en su caso se aprueben;
+
+III. Establecer, en congruencia con los programas, acuerdos y convenios aprobados por el Ayuntamiento, las políticas generales y definir las prioridades a las que deberá sujetarse la Dirección;
+
+IV. Sugerir criterios para la planeación y ejecución de las políticas y programas de desarrollo rural y forestal, en el ámbito municipal;
+
+V. Promover lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los instrumentos de política de desarrollo social y de población a cargo de las dependencias y entidades de la administración pública federal y estatal competentes;
+
+VI. Recibir, la denuncia popular, respecto de los hechos u omisiones, que violenten o contravengan las disposiciones en materia de desarrollo forestal, de conformidad con los términos y el procedimiento previsto en la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Chihuahua, y
+
+VII. Las demás que le asignen, las Leyes y Reglamentos aplicables en la materia y los convenios que conforme a dichos ordenamientos se celebren.
 
 TESORERIA
 
@@ -1486,3 +1510,9 @@ ACUERDO 107 QUE ADICIONA LAS FRACCIONES XII, XIII Y XIV AL ARTICULO 96.
 PRIMERO: La presente adición, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se ordena girar oficio a la Tesorería Municipal, a fin de que realice los trámites respectivos, para la asignación del presupuesto suficiente, para la operación de las atribuciones a que se refiere el presente acuerdo, una vez que entre en vigor.
+
+P.O. 28 DE JUNIO DE 2008.
+
+PRIMERO: El presente acuerdo, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se ordena girar oficio a la Tesorería Municipal, a fin de que realice los tramites respectivos, para la asignación del presupuesto suficiente, para la operación de las atribuciones de la Dirección, a que se refiere el presente acuerdo, una vez que entre en vigor.
