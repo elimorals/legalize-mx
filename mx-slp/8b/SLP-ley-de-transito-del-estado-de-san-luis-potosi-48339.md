@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-48339"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-24"
-last_updated: "2008-05-01"
+last_updated: "2008-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2005.
 
@@ -564,6 +564,10 @@ La señalización vial en su carácter preventivo, restrictivo e informativo, ti
 ###### ARTICULO 51.
 
 La velocidad máxima en la zona urbana será de sesenta kilómetros por hora, excepto en los lugares donde se especifique otra mediante los señalamientos respectivos.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2008)</small>
+
+El transporte urbano colectivo no podrá exceder en ningún lugar y por ninguna circunstancia, la velocidad de sesenta kilómetros por hora.
 
 ### CAPITULO II. De los Estacionamientos
 
@@ -1160,3 +1164,9 @@ CUARTO. El requisito establecido en la fracción VIII del artículo 61 de la Ley
 P.O. 1 DE MAYO DE 2008.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
