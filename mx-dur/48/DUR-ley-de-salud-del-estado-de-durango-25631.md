@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2002-07-11"
+last_updated: "2008-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -181,9 +181,7 @@ XXXI. Crematorios: Las instalaciones destinadas a la incineración de cadáveres
 
 XXXII. Funeraria: El establecimiento dedicado a la prestación del servicio de venta de féretros, velación, preparación y traslado de cadáveres de seres humanos a los cementerios o crematorios, dentro o fuera del país;
 
-XXXIII. Servicio de limpieza pública: La recolección, traslado, tratamiento y disposición final de residuos sólidos a cargo de los Ayuntamientos, los que deberán prestar el servicio
-
-en forma continua, uniforme, regular y permanente, procurando que se cuente para tal fin con vehículos y rutas de recolección;
+XXXIII. Servicio de limpieza pública: La recolección, traslado, tratamiento y disposición final de residuos sólidos a cargo de los Ayuntamientos, los que deberán prestar el servicio en forma continua, uniforme, regular y permanente, procurando que se cuente para tal fin con vehículos y rutas de recolección;
 
 XXXIV. Residuo sólido: Al material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó, provenga de actividades que se desarrollen en domicilios, establecimientos mercantiles, industriales o de servicios y de las vías públicas;
 
@@ -229,9 +227,13 @@ LIV. Gasolinera: Al establecimiento dedicado al expendio de gasolina, aceites y 
 
 LV. Certificado: La constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación e información de determinados hechos;
 
-LVI. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio; y
+LVI. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio; y (sic)
 
-LVII. Cuarentena: La limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio.
+LVII. Cuarentena: La limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2008)</small>
+
+LVIII. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango.
 
 ###### ARTÍCULO 4.
 
@@ -245,9 +247,13 @@ I. El Gobernador del Estado;
 
 II. La Secretaría de Salud;
 
-III. El Organismo Descentralizado denominado Servicios de Salud de Durango; y
+III. El Organismo Descentralizado denominado Servicios de Salud de Durango; y (sic)
 
-IV. Los ayuntamientos, en materia de salubridad local.
+IV. Los ayuntamientos, en materia de salubridad local;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2008)</small>
+
+V. La COPRISED. El Órgano Administrativo Desconcentrado de la Secretaría de Salud del Estado de Durango, denominado:
 
 ###### ARTÍCULO 6.
 
@@ -372,6 +378,58 @@ III. Ser médico cirujano con experiencia en materia de Salud Pública.
 ###### ARTÍCULO 17.
 
 La aplicación de la legislación sanitaria estatal, en el ámbito territorial, estará a cargo de la Secretaría de Salud del Estado y de los Servicios de Salud de Durango, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+ARTÍCULO 17 BIS.- La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a la Ley Orgánica de la Administración Pública del Estado de Durango, y los demás ordenamientos aplicables, le correspondan a dicha dependencia en las materias a que se refiere el artículo 34, apartado A, fracciones V, XI, XII, XVI, XVIII, XIX, XX, XXI, XXII Y XXIII y apartado B, de esta Ley, relativo al control, vigilancia y sanción, a través del órgano desconcentrado que se denominará Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, por sus siglas COPRISED.
+
+Para efectos de lo dispuesto en el párrafo anterior, compete a la COPRISED:
+
+I. Ejercer el control, vigilancia y fomento sanitario de los productos, actividades, establecimientos y servicios, en términos de las disposiciones previstas en las Leyes General y Estatal de Salud, en términos del acuerdo específico;
+
+II. Dirigir el Sistema Estatal de Protección contra Riesgos Sanitarios;
+
+III. Coordinar la integración de los diagnósticos situacionales en materia de control y fomento sanitario;
+
+IV. Vigilar el cumplimiento de las normas oficiales mexicanas relativas a los productos actividades, servicios y establecimientos, en materia de control sanitario;
+
+V. Identificar, analizar, evaluar, regular, controlar, fomentar y difundir las condiciones y requisitos para la prevención y manejo de riesgos sanitarios;
+
+VI. Conducir, conforme a los ordenamientos legales aplicables en la materia, la elaboración de las disposiciones para aplicar adecuadamente la regulación, el control y fomento sanitario a nivel estatal;
+
+VII. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia, se requieran, así como aquellos actos de autoridad que para el control y fomento sanitario se establecen o deriven de la Ley General y sus Reglamentos, de la Ley Estatal, de las normas oficiales mexicanas y demás ordenamientos aplicables;
+
+VIII. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+
+IX. Imponer sanciones y aplicar medidas de seguridad preventivas o correctivas, según sea el caso, para lo cual se emitirán los acuerdos o resoluciones correspondientes;
+
+X. Efectuar la identificación, el análisis, la evaluación, el control, el fomento y la difusión de riesgos sanitarios, en las materias de su competencia;
+
+XI. Establecer estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, en coordinación con otras autoridades competentes de la administración pública estatal;
+
+XII. Establecer y ejecutar acciones de control, vigilancia y fomento sanitario, a fin de prevenir y reducir los riesgos sanitarios derivados por la exposición de la población a factores químicos, físicos y biológicos;
+
+XIII. Establecer y ejecutar acciones de regulación sanitaria en materia de salubridad local en el ámbito de su competencia, previstas en la Ley de Salud del Estado de Durango;
+
+XIV. Participar, en coordinación con las demás unidades administrativas de la Secretaría y el Organismo, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando éstas estén en relación con los riesgos sanitarios derivados de los productos, actividades y establecimientos materia de su competencia;
+
+XV. Establecer los mecanismos de supervisión y comunicación con las Oficinas Regionales de Protección contra Riesgos sanitarios, en los ámbitos de sus respectivas competencias;
+
+XVI. Planear, organizar, dirigir y controlar los recursos humanos, materiales y financieros que les sean asignados, de acuerdo con las políticas y lineamientos que emita la autoridad competente;
+
+XVII. Dirigir los sistemas de información sanitaria en materia de protección contra riesgos sanitarios;
+
+XVIII. Proponer a la Secretaría de Salud las políticas estatales de protección contra riesgos sanitarios, así como su instrumentación en las materias de su competencia;
+
+XIX. Conformar y difundir la información relativa a lineamientos y disposiciones sanitarias; y
+
+XX. Las demás que otras disposiciones legales, reglamentarias y administrativas de carácter general le confieran.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+ARTÍCULO 17 BIS 1.- La COPRISED tiene capacidad para administrar y operar recursos humanos, materiales y financieros que le sean autorizados a través de la Secretaría de Salud, en el Presupuesto de Egresos del Estado, los ministrados por la Federación y los ingresos propios derivados de la imposición de sanciones económicas que sean de su competencia, para la ejecución de los programas de protección contra riesgos sanitarios.
+
+La COPRISED se integrará y organizará en los términos de su Reglamento respectivo y al frente de la misma estará un Comisionado Estatal, el cual será nombrado por el Gobernador del Estado, a propuesta del titular de la Secretaría de Salud y quién deberá satisfacer los requisitos y tendrá las competencias que señale el Reglamento.
 
 ###### ARTÍCULO 18.
 
@@ -619,9 +677,11 @@ XVI. Las que otras disposiciones aplicables le confieran.
 
 Los ingresos que obtenga el Organismo por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los Acuerdos de Coordinación celebrados con la Secretaría de Salud del Gobierno Federal y lo que determine la legislación fiscal aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 34.
 
-Corresponde al Organismo, además de las funciones que le atribuye el Decreto que lo creó:
+Corresponde a la Secretaría, al Organismo y a la COPRISED, en el ámbito de sus respectivas competencias, además de las atribuciones que le otorguen la normatividad en materia de salud, lo siguiente:
 
 A.- En materia de salubridad general:
 
@@ -967,9 +1027,11 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 El Gobierno del Estado y los municipios, podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 67.
 
-La Secretaría y el Organismo en el ámbito de su competencia y en coordinación con las autoridades educativas competentes, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+La Secretaría, el Organismo y la COPRISED, en el ámbito de sus competencias y en coordinación con las autoridades educativas competentes, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
 
 ###### ARTÍCULO 68.
 
@@ -1799,6 +1861,8 @@ El monitoreo de medios publicitarios locales y de la publicidad de bebidas alcoh
 
 ### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 170.
 
 En lo relativo a la donación, transplantes (sic) y pérdida de la vida, la competencia de la Secretaría y el Organismo, será determinada por los acuerdos de coordinación que se celebren entre el Gobierno Estatal y la Secretaría de Salud a nivel federal.
@@ -1816,6 +1880,8 @@ La Secretaría de Educación del Estado de Durango, deberá incluir en los progr
 La Secretaría y el Organismo, solicitarán a los medios de comunicación masiva espacios gratuitos para la difusión de campañas orientadas a promover una cultura de la donación de órganos e informar sobre los requisitos que establece la Ley General de Salud.
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
@@ -1839,11 +1905,15 @@ La disposición de sangre humana, componentes sanguíneos y células progenitora
 
 ### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ## TÍTULO DÉCIMO TERCERO. INSUMOS PARA LA SALUD
 
 ### CAPÍTULO VI. RASTROS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 178.
 
@@ -1873,11 +1943,13 @@ VII. Las demás que les competan conforme a la presente Ley, y demás disposicio
 
 ###### ARTÍCULO 180.
 
-La Secretaría y el Organismo, llevarán a cabo el control y fomento sanitario de los alimentos y bebidas no alcohólicas y de los establecimientos en que se expendan o suministren.
+La Secretaría, el Organismo y la COPRISED, llevarán a cabo el control y fomento sanitario de los alimentos y bebidas no alcohólicas y de los establecimientos en que se expendan o suministren.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 181.
 
-De conformidad con las disposiciones generales aplicables que expida la Secretaría de Salud del Gobierno Federal y las NOMs. la Secretaría y el Organismo ejercerán el control sanitario de los establecimientos que expendan bebidas alcohólicas.
+De conformidad con las disposiciones generales aplicables que expida la Secretaría de Salud del Gobierno Federal y las NOMs. la Secretaría, el Organismo la COPRISED ejercerán el control sanitario de los establecimientos que expendan bebidas alcohólicas.
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
@@ -1885,19 +1957,23 @@ De conformidad con las disposiciones generales aplicables que expida la Secretar
 
 ###### ARTÍCULO 182.
 
-Corresponde a la Secretaría y al Organismo así como a los Ayuntamientos, en el ámbito de sus respectivas competencias en los términos de esta Ley, de los convenios que celebren en la materia y de las demás disposiciones legales aplicables, el control sanitario de las actividades, establecimientos, productos y servicios a que se refiere el artículo 34, apartado B de esta Ley.
+Corresponde a la Secretaría, al Organismo y a la COPRISED, así como a los Ayuntamientos, en el ámbito de sus respectivas competencias en los términos de esta Ley, de los convenios que se celebren en la materia y de las demás disposiciones legales aplicables, el control sanitario de las actividades, establecimientos, productos y servicios a que se refiere el apartado B del artículo 34 de esta Ley.
 
 ###### ARTÍCULO 183.
 
 Las actividades, construcciones, establecimientos, productos y servicios a que se refiere este Título, deberán cumplir con las disposiciones de esta Ley, los reglamentos que emanen de ella y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 184.
 
-La Secretaría y el Organismo, sin perjuicio de la vigilancia que ejerce el Municipio, conservan la prerrogativa de realizar verificaciones sanitarias a los establecimientos a que se refiere este Título para comprobar que se ha dado cumplimiento a los requisitos o criterios sanitarios establecidos, así como la de aplicar las medidas de seguridad y sanciones que correspondan en caso de incumplimiento, en los términos de la presente Ley.
+La Secretaría y el Organismo, por conducto de la COPRISED, sin perjuicio de la vigilancia que ejerzan los Municipios, conservan la prerrogativa de realizar verificaciones sanitarias a los establecimientos a que se refiere este Título para comprobar que se ha dado cumplimiento a las disposiciones, normas, requisitos o criterios sanitarios establecidos, así como la de aplicar las medidas de seguridad y sanciones que correspondan en caso de incumplimiento, en los términos de la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 185.
 
-Los establecimientos a que se refiere el presente Título, deberán presentar aviso por escrito a la Secretaría y al Organismo, diez días hábiles posteriores al inicio de operaciones. Dicho aviso deberá contener los siguientes datos:
+Los establecimientos a que se refiere el presente Título, deberán presentar aviso por escrito a la Secretaría y al Organismo, por conducto de la COPRISED, en los términos del Reglamento respectivo, dentro de los diez días hábiles posteriores al inicio de operaciones dicho aviso deberá contener los siguientes datos:
 
 I. Nombre, denominación o razón social y domicilio de la persona física o moral propietaria del establecimiento;
 
@@ -1911,9 +1987,11 @@ V. Clave de la actividad del establecimiento; y
 
 VI. Nombre, profesión y número de cédula profesional, en su caso, del responsable sanitario.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 186.
 
-Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos y, en su caso, la suspensión de actividades, trabajos o servicios deberá ser comunicado a la Secretaría y al Organismo en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las Normas que al efecto se expidan.
+Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos y, en su caso, la suspensión de actividades, trabajos o servicios deberá ser comunicado a la Secretaría y al Organismo, por conducto de la COPRISED, en los términos del Reglamento respectivo, en un plazo no mayor de treinta días hábiles, a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las Normas que al efecto se expidan.
 
 ###### ARTÍCULO 187.
 
@@ -1945,19 +2023,21 @@ Cuando el uso que se pretenda dar a un edificio o local público, además de los
 
 El encargado de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este capítulo, deberá dar aviso de inicio y terminación de obra a la autoridad municipal competente, quien vigilará el cumplimiento de los requisitos sanitarios aprobados por el proyecto.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 193.
 
-Los edificios, locales, construcciones o terrenos urbanos podrán ser verificados por la Secretaría y el Organismo, quienes ordenarán las obras necesarias para, satisfacer las condiciones higiénicas y de accesibilidad para personas con discapacidad, en los términos de esta Ley y otras disposiciones legales aplicables, y las normas técnicas correspondientes.
+Los edificios, locales, construcciones o terrenos urbanos podrán ser verificados por la Secretaría por conducto de la COPRISED, quién ordenará las obras necesarias para satisfacer las condiciones higiénicas y de accesibilidad para personas con discapacidad, en los términos de esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 194.
 
 Los propietarios o poseedores de edificios y locales o de los negocios en ellos establecidos, deberán ejecutar las obras que se requieran para cumplir con las condiciones de higiene, seguridad y de accesibilidad para personas con discapacidad, que establezcan las disposiciones legales aplicables, y las normas técnicas correspondientes.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 195.
 
-Cuando los edificios, construcciones o terrenos representen un peligro sanitario por su insalubridad o inseguridad, la Secretaría, el Organismo y las autoridades municipales en el ámbito de su competencia podrán ordenar la ejecución de las obras que estimen de urgencia, con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen en los plazos concedidos.
-
-Así mismo se procederá a la suspensión de las acciones de construcción en forma parcial o total cuando así proceda.
+Cuando los edificios, construcciones o terrenos representen un peligro sanitario por su insalubridad o inseguridad, la Secretaría o el Organismo, por conducto de la COPRISED, y las autoridades municipales, en el ámbito de su competencia, podrán ordenar la ejecución de las obras que estimen de urgencia, con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen de manera voluntaria en el término para el efecto concedido; la Ley de Ingresos respectiva, establecerá los importes y los conceptos necesarios para hacer efectivas estas medidas.
 
 ###### ARTÍCULO 196.
 
@@ -1967,7 +2047,11 @@ Cuando se pretenda llevar a cabo una construcción en terrenos pantanosos o que 
 
 ###### ARTÍCULO 197.
 
-Para establecer un cementerio, crematorio o funeraria, se necesita notificar a la Secretaría y al Organismo, mediante el aviso de apertura del establecimiento. Tratándose de cementerios o crematorios, la autoridad sanitaria consultará la opinión de la autoridad municipal.
+Para establecer un cementerio, crematorio, funeraria o sala de embalsamamiento, se necesita notificar a la Secretaría, al Organismo, por conducto de la COPRISED, mediante el aviso de apertura del establecimiento. Tratándose de cementerios o crematorios, la autoridad sanitaria consultará la opinión de la autoridad municipal.
+
+En tanto la autoridad federal competente no emita la Norma Oficial Mexicana respectiva, la Secretaría podrá emitir las normas técnicas que se requieran, para establecer los requisitos sanitarios a que deberán ajustarse los establecimientos a que se refiere el presente artículo.
+
+Cuando se trate de funerarias, la Secretaría, por conducto de la COPRISED, sólo otorgará el permiso o aviso de funcionamiento cuando el propietario acepte, por escrito el compromiso de no ofertar sus servicios en las instalaciones de los centros hospitalarios públicos o privados; la no observancia de este compromiso acarreará la clausura temporal del negocio en cuestión.
 
 ###### ARTÍCULO 198.
 
@@ -2017,21 +2101,25 @@ Los Municipios deberán establecer depósitos de basura en los parques, jardines
 
 ###### ARTÍCULO 205.
 
-La instalación, equipamiento y funcionamiento, así como el aseo y conservación de los rastros municipales quedará a cargo de la autoridad municipal competente. Si fueren particulares, las acciones anteriores quedarán a cargo de éstos y bajo la verificación de las autoridades municipales correspondientes. En ambos casos, quedan sujetos a la observancia de lo dispuesto por esta Ley y otras disposiciones legales aplicables.
+La instalación, equipamiento y funcionamiento, así como el aseo y conservación de los rastros municipales, quedará a cargo de la autoridad municipal competente. Si el rastro fuera operado por particulares, sólo lo podrán hacer mediante la concesión previa de dicho servicio público, en los términos de la normatividad aplicable; en todo caso, las acciones anteriores quedarán a cargo de los mismos particulares y bajo la verificación de las autoridades municipales correspondientes. En ambos casos, quedan sujetos a la observancia de lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
 Cada Municipio deberá contar con rastro propio en cuanto sea posible.
 
 Queda prohibido el funcionamiento de rastros que no cumplan con los requisitos sanitarios establecidos en esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 206.
 
-En uso de la prerrogativa referida en el artículo 184 de esta Ley, la Secretaría y el organismo tendrán facultades para ordenar mediante oficio de comisión la practica de acciones de control sanitario a rastros, carnicerías, tiendas de auto servicio y distribuidoras y demás establecimientos que comercialicen carne de cualquier tipo; para lo cual se levantará acta circunstanciada donde conste el resultado de la verificación debiéndose entregar copia de la misma al interesado.
+En uso de la prerrogativa referida en el artículo 184 de esta Ley, la COPRISED tendrá facultades para ordenar la práctica de acciones de control sanitario, a rastros, carnicerías, tiendas de autoservicio y distribuidoras y demás establecimientos que comercialicen carne para consumo humano de cualquier tipo. Para ello, se llevará el procedimiento administrativo en los términos que establece la presente Ley y el Código de Justicia Administrativa del Estado de Durango, en lo que no se contrapongan.
 
 ###### ARTÍCULO 207.
 
 En el reglamento correspondiente se establecerán los requisitos sanitarios relativos a la procedencia, manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio, así como las medidas de funcionamiento que deberán cumplir los vehículos para transportar a dichos animales.
 
 ### CAPÍTULO I. AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 208.
 
@@ -2089,6 +2177,8 @@ Las personas encargadas de los servicios médicos de los reclusorios y centros d
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 219.
 
 Las disposiciones de este Capítulo tienen como objetivo controlar el ejercicio de la prostitución a fin de proteger la salud de la población.
@@ -2111,11 +2201,15 @@ El Estado y los Ayuntamientos elaborarán y ejecutarán programas asistenciales,
 
 ### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 224.
 
 Para la construcción y acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberán cumplir los requisitos que señala el artículo 185 de esta Ley.
 
 ### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 225.
 
@@ -2161,13 +2255,15 @@ Los baños públicos, albercas, gimnasios, centros de reunión y espectáculos, 
 
 ###### ARTÍCULO 230.
 
-La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria competente permite a una persona física o moral la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
+La autorización sanitaria es el acto administrativo, emitido por la Secretaría, por el Organismo o por la COPRISED, en el ámbito de sus respectivas competencias, mediante el cual se permite a una persona física o moral, la realización de actividades relacionadas o que se puedan relacionar con la salud humana, en los casos, con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
 
 Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 231.
 
-La autoridad sanitaria competente expedirá las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las disposiciones legales aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal aplicable.
+La Secretaría de Salud y la COPRISED, en el ámbito de sus respectivas competencias, expedirán las autorizaciones respectivas, cuando el solicitante hubiere satisfecho los requisitos que señalen las disposiciones legales aplicables y cubiertos, en su caso, los derechos que establezca la legislación fiscal aplicable.
 
 ###### ARTÍCULO 232.
 
@@ -2177,7 +2273,9 @@ Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las
 
 Las autorizaciones sanitarias por tiempo determinado, podrán prorrogarse en los términos de las disposiciones generales aplicables.
 
-La solicitud deberá presentarse a las autoridades sanitarias con una antelación de treinta días al vencimiento de la autorización. Sólo procederá la prórroga cuando se continúen satisfaciendo los requisitos que señale esta Ley y las demás disposiciones aplicables y previo pago de los derechos correspondientes.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+La solicitud deberá presentarse a la COPRISED, en los términos del Reglamento respectivo, con una antelación de treinta días al vencimiento de la autorización. Sólo procederá la prórroga cuando se continúen satisfaciendo los requisitos que señale esta Ley y las demás disposiciones aplicables y previo pago de los derechos correspondientes.
 
 Cuando cambien de ubicación los establecimientos, requerirán de nueva licencia sanitaria.
 
@@ -2207,6 +2305,8 @@ Los derechos a que se refiere esta Ley, se regirán por lo dispuesto en la legis
 
 ### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 240.
 
 La Secretaría y el Organismo podrán revocar las autorizaciones que hayan otorgado en los siguientes casos:
@@ -2231,13 +2331,17 @@ IX. Cuando los establecimientos o personas dejen de reunir las condiciones o req
 
 X. En los demás casos en que, conforme con esta Ley y demás disposiciones aplicables, lo determine la autoridad sanitaria competente.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 241.
 
-Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la Secretaría y el Organismo darán conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+Cuando la revocación de una autorización se funde en los riesgos o daños que pueda causar o cause un servicio, la COPRISED dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 242.
 
-En los casos a que se refiere el artículo 240 de esta Ley, con excepción de lo previsto en la fracción VIII, la Secretaría y el Organismo citarán al interesado a una audiencia para que ofrezca pruebas y manifieste lo que a su derecho convenga.
+En los casos a que se refiere el artículo 240 de esta Ley, con excepción de lo previsto en la fracción VIII, la COPRISED citará al interesado a una audiencia para que ofrezca pruebas y manifieste lo que a su derecho convenga.
 
 En el citatorio, que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
 
@@ -2257,9 +2361,11 @@ En este último caso se deberá dar cuenta con la copia del citatorio que se hub
 
 La celebración de la audiencia podrá diferirse por una sola ocasión, cuando lo solicite el interesado por causa justificada.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 246.
 
-La Secretaría y el Organismo emitirán la resolución que corresponda al concluir la audiencia o dentro de los cinco días hábiles siguientes, la cual se notificará de manera personal al interesado.
+La COPRISED emitirá la resolución que corresponda al concluir la audiencia o dentro de los diez días hábiles siguientes, la cual se notificará en los términos del Código de Justicia Administrativa para el Estado de Durango.
 
 ###### ARTÍCULO 247.
 
@@ -2297,9 +2403,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ###### ARTÍCULO 252.
 
-Corresponde a las autoridades sanitarias del Estado y a los municipios, en el ámbito de sus respectivas competencias, y conforme lo establezcan los convenios que al efecto se suscriban, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que de ella emanen.
+Corresponde a la COPRISED y a los municipios, en el ámbito de sus respectivas competencias, y conforme lo establezcan los convenios que al efecto se suscriban, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que de ella emanen.
 
-La Secretaría y el Organismo, sin perjuicio de la vigilancia que ejerce el municipio, conservan la prerrogativa de realizar en cualquier tiempo verificaciones sanitarias que comprueben que se ha dado cumplimiento a los requisitos y criterios sanitarios establecidos, así como el de aplicar medidas de seguridad y sanciones que correspondan en caso de incumplimiento.
+La COPRISED, sin perjuicio de la vigilancia que ejerza el municipio, conserva la prerrogativa de realizar en cualquier tiempo verificaciones sanitarias que comprueben que se ha dado cumplimiento a los requisitos y criterios sanitarios establecidos, así como de aplicar las medidas de seguridad y sanciones que correspondan en caso de incumplimiento.
 
 ###### ARTÍCULO 253.
 
@@ -2309,13 +2415,17 @@ Las demás dependencias y entidades públicas en el Estado coadyuvarán en la vi
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procediera, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 255.
 
-La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria estatal competente, el cual deberá realizar las respectivas diligencias, de conformidad con esta Ley y demás disposiciones legales aplicables.
+La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo del personal expresamente autorizado por la COPRISED, el cual deberá realizar las respectivas diligencias de conformidad con esta Ley, con el Código de Justicia Administrativa para el Estado de Durango y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 256.
 
-Las autoridades sanitarias competentes en el Estado, por conducto de sus verificadores podrán encomendar actividades de orientación, educativas y la aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII y VIII del artículo 265 de esta Ley.
+La COPRISED, por conducto de sus verificadores, podrá realizar actividades de orientación educativas y la aplicación en su caso, de las medidas de seguridad a que se refieren las fracciones VII y VIII del artículo 265 de esta Ley.
 
 ###### ARTÍCULO 257.
 
@@ -2327,9 +2437,11 @@ Los verificadores en el ejercicio de sus funciones, tendrán libre acceso a los 
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de verificación, deberán permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 259.
 
-Los verificadores, al practicar visitas, deberán estar provistos de órdenes escritas, con firma autógrafa, expedidas por la autoridad sanitaria competente, en las que se deberá precisar el domicilio, lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Los verificadores, al practicar visitas de verificación, deberán estar previstos de órdenes escritas, con firma autógrafa, expedidas por el Comisionado para la Protección contra Riesgos Sanitarios del Estado de Durango, por el Titular de la Secretaría de Salud o por el funcionario que éste último designe, previo acuerdo de delegación de facultades, en las que se deberá precisar el domicilio, lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
 Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades, o señalar al verificador la zona en que vigilará el cumplimiento por todos los obligados de las disposiciones sanitarias.
 
@@ -2343,7 +2455,9 @@ I. Al iniciar la visita, el verificador deberá exhibir la credencial vigente ex
 
 II. Así mismo, se deberá requerir al propietario, responsable, encargado y ocupante del establecimiento o conductor del transporte que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará quien practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
 
-III. En el acta que se levante con motivo de la verificación, se hará constar en forma detallada, las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+
+III. En el acta que se levante con motivo de la verificación, se hará constar en forma detallada las circunstancias de la diligencia, las deficiencias o anomalías observadas, la probable infracción a las disposiciones sanitarias y, en su caso, las medidas de seguridad que se ejecuten, invariablemente el acta respectiva deberá satisfacer los requisitos que establece el Código de Justicia Administrativa para el Estado de Durango; y
 
 IV. Al concluir la verificación, se le dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
@@ -2391,7 +2505,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ###### ARTÍCULO 264.
 
-Se consideran medidas de seguridad las disposiciones que dicten la Secretaría y el Organismo, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
+Se consideran medidas de seguridad, las disposiciones que dicten la Secretaría, el Organismo y la COPRISED, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
 
 ###### ARTÍCULO 265.
 
@@ -2451,15 +2565,19 @@ III. Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 Las autoridades sanitarias competentes podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 271.
 
-La Secretaría y el Organismo así como los Ayuntamientos, en el ámbito de sus respectivas competencias, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas.
+La Secretaría, el Organismo y la COPRISED, así como los Ayuntamientos, en el ámbito de sus respectivas competencias, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna nociva, cuando éstos constituyan un peligro grave para la salud de las personas.
 
 En todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 272.
 
-La Secretaría y el Organismo podrán ordenar la inmediata suspensión de trabajos o de servicios, o la prohibición de actos de uso, cuando, de continuar aquellos, se ponga en peligro la salud de las personas.
+La Secretaría, el Organismo y/o la COPRISED podrán ordenar la inmediata suspensión de trabajo o de servicios, o la prohibición de actos de uso, cuando, de continuar aquéllos, se ponga en peligro la salud de las personas.
 
 ###### ARTÍCULO 273.
 
@@ -2467,9 +2585,11 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 274.
 
-El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o que carezcan de los requisitos esenciales que se establezcan en esta Ley. La Secretaría y el Organismo así como los municipios podrán retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen de laboratorio acreditado, cuál será su destino.
+El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o que carezcan de los requisitos esenciales que se establezcan en esta Ley. La Secretaría, el Organismo, la COPRISED, así como los municipios, podrán retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen de laboratorio acreditado, cual será su destino.
 
 Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones generales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
 
@@ -2479,9 +2599,11 @@ Los productos perecederos asegurados que se descompongan en poder de la autorida
 
 Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición sanitaria ya que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 275.
 
-La suspensión de mensajes publicitarios en materia de salud, procederá cuando estos se difundan por cualquier medio de comunicación social contraviniendo lo dispuesto en esta Ley y demás ordenamientos aplicables o cuando la Secretaría y el Organismo determinen que el contenido de los mensajes afecta o reduce a otros que pudieran dañar la salud.
+La suspensión de mensajes publicitarios en materia de salud procederá cuando estos se difundan por cualquier medio de comunicación social, contraviniendo lo dispuesto en esta Ley y demás ordenamientos aplicables; o cuando la Secretaría, el Organismo y/o la COPRISED determinen que el contenido de los mensajes afecta, reduce o propicia, a otros que pudieran dañar la salud.
 
 En este caso, los responsables de la publicidad procederán a suspender el mensaje, dentro de las veinticuatro horas siguientes a la notificación personal de la medida de seguridad, si se trata de emisiones de radio, cine o televisión, de publicaciones diarias o de anuncios en la vía pública. En caso de publicaciones en periódicos, la suspensión surtirá efectos a partir del siguiente ejemplar en el que aparece el mensaje.
 
@@ -2491,7 +2613,7 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 ###### ARTÍCULO 277.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por las autoridades sanitarias del Estado, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Es competencia de la COPRISED, conocer las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, así como imponer, conforme a lo dispuesto en esta Ley y en el Código de Justicia Administrativa para el Estado de Durango, las sanciones administrativas que correspondan, sin perjuicio de las penas que correspondan cuando aquéllas sean constitutivas de delitos.
 
 ###### ARTÍCULO 278.
 
@@ -2625,29 +2747,39 @@ X. Jerarquía; y
 
 XI. Buena fe.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 294.
 
-La Secretaría y el Organismo así como los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 260 de esta Ley, podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado personalmente y dándole un plazo adecuado para su realización.
+La COPRISED y en su caso la Secretaría y/o el Organismo, así como los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 260 de esta Ley, deberán dictar las medidas sanitarias para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado personalmente y dándole un plazo adecuado para su realización.
 
 ###### ARTÍCULO 295.
 
 Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 296.
 
-Derivado de las irregularidades sanitarias que reportan en el acta o informe de verificación, la autoridad sanitaria competente citará al interesado personalmente o por correo certificado con acuse de recibo, para que en un plazo no menor de cinco ni mayor de treinta días comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta o informe de verificación, según el caso. Tratándose del informe de verificación, la autoridad sanitaria competente deberá acompañar al citatorio, invariablemente, copia de aquél.
+Derivado de las probables irregularidades sanitarias que reporte el acta o informe de verificación, la COPRISED sustanciará el procedimiento respectivo en los términos del Código de Justicia Administrativa para el Estado de Durango.
+
+En el caso de que la COPRISED ejecute o ejerza actos de autoridad en virtud de convenios en materia federal concurrente, o en la aplicación de la normatividad federal, sus actuaciones se sujetarán a los procedimientos y normatividad respectivos.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 297.
 
-El cómputo de los plazos que señale la autoridad sanitaria competente para el cumplimiento de sus disposiciones y resoluciones, se entenderá como de días naturales, con las excepciones que esta Ley establezca.
+Las notificaciones que se realicen en el trámite y sustanciación de los procedimientos administrativos seguidos ante la COPRISED y el cómputo de los plazos dentro de los mismos, se sujetarán a lo dispuesto en el Código de Justicia Administrativa para el Estado de Durango.
 
 ###### ARTÍCULO 298.
 
 Una vez oído al probable infractor o a su representante legal y desahogadas las pruebas que ofreciere y fuesen admitidas, se procederá dentro de los cinco días hábiles siguientes, a dictar, por escrito, la resolución que proceda, la cual se notificará en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTÍCULO 299.
 
-En caso de que el probable infractor no compareciera dentro del plazo fijado en los términos del artículo 296 de esta Ley, se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
+En caso de que el probable infractor no compareciera dentro del plazo fijado en el procedimiento respectivo, se procederá a dictar, en rebeldía, la resolución definitiva y a su posterior notificación, en los términos de lo dispuesto en el Código de Justicia Administrativa para el Estado de Durango.
 
 ###### ARTÍCULO 300.
 
@@ -2663,7 +2795,9 @@ Las denuncias que se interpongan en los términos señalados en el artículo ant
 
 ###### ARTÍCULO 303.
 
-Contra actos y resoluciones que dicten las autoridades sanitarias del Estado con motivo de la aplicación de esta Ley, procede el recurso de inconformidad por los interesados o por la parte legalmente afectada.
+Contra actos y resoluciones que dicte la COPRISED con motivo de la aplicación de esta Ley, procede el recurso de inconformidad el cual se regulará y sustanciará en los términos previstos por el Código de Justicia Administrativa para el Estado de Durango y conforme al Reglamento de la COPRISED.
+
+Los particulares o los interesados podrán promover todos los medios de defensa que consideren oportunos, cuando se satisfagan los requisitos de modo, tiempo y contenido y sean promovidos por la parte legitimada para hacerlo.
 
 ###### ARTÍCULO 304.
 
@@ -2848,3 +2982,19 @@ LIC. ANGEL SERGIO GUERRERO MIER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Decreto por el que se crea la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 2, tomo CCXV, de fecha jueves 06 de julio de 2006; se abrogará hasta en tanto no se expida el Reglamento a que se refiere el artículo Tercero Transitorio del presente, por lo que continuarán en vigor sus disposiciones hasta la publicación del referido Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Además de las disposiciones previstas en ésta Ley, la organización y distribución de competencias y atribuciones de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, se establecerán en el Reglamento que, para tal efecto expida el Gobernador Constitucional del Estado de Durango.
