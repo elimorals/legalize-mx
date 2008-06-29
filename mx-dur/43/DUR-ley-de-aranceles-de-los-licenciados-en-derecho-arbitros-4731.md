@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-aranceles-de-los-licenciados-en-derecho-arbitros-4731"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-23"
-last_updated: "1988-06-23"
+last_updated: "2008-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ARANCELES DE LOS LICENCIADOS EN DERECHO, ARBITROS, DEPOSITARIOS, INTERPRETES, TRADUCTORES Y PERITOS EN ASUNTOS JURIDICOS DE CUALQUIER NATURALEZA EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de junio de 1988.
 
@@ -315,6 +315,12 @@ Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico
 
 Se abroga la Ley de Aranceles anterior, expedida mediante Decreto No. 183 y publicada en el Periódico Oficial No. 5 del 17 de Julio de 1977, así como las que se opongan a la presente.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+###### ARTICULO TERCERO.
+
+En cumplimiento al Artículo 9° transitorio del Decreto por el cual se creó una nueva unidad del sistema monetario de los Estados Unidos Mexicanos, que entró en vigor el 1° de enero de 1993, las expresiones en moneda nacional contenidas en esta Ley, se entenderán referidas a la unidad monetaria que sustituyó el Decreto en mención; por lo tanto, al computar, expresar o pagar las cantidades que contiene la Ley de Aranceles de los Licenciados en Derecho, Árbitros, Depositarios, Intérpretes, Traductores y Peritos en Asuntos Jurídicos de cualquier naturaleza en el Estado de Durango, se entenderán que son en pesos actuales.
+
 El Ciudadano Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado en Victoria de Durango, Dgo., a los (11) once días del mes de Mayo del año de (1988) mil novecientos ochenta y ocho.
@@ -326,3 +332,15 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los once días del mes de Mayo de mil novecientos ochenta y ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSÉ RAMÍREZ GAMERO.-Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. GUSTAVO RIVERA RAMOS.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
