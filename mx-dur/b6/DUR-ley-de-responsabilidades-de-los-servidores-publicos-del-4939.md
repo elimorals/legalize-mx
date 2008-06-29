@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidades-de-los-servidores-publicos-del-4939"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-18"
-last_updated: "1988-02-18"
+last_updated: "2008-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2008.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días 18, 21, 25 y 28 de febrero de 1988.
+Ley publicada en el Periódico Oficial del Estado de Durango, el 18, 21, 25 y 28 de febrero de 1988.
 
 EL CIUDADANO LICENCIADO JOSE RAMIREZ GAMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE y SOBERANO de DURANGO, a su (sic) Habitantes, sabed:
 
@@ -95,37 +95,49 @@ VI.- El registro patrimonial de los servidores públicos;
 
 Son sujetos de esta Ley, los servidores públicos mencionados en el Artículo 116 de la Constitución Política del Estado y todas aquellas personas que administren recursos económicos estatales o municipales.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 3o.
 
 Son autoridades competentes para aplicar la presente Ley:
 
-I.- El Congreso del Estado;
+I. El Congreso del Estado;
 
-II.- El Ejecutivo Estatal;
+II. El Ejecutivo Estatal;
 
-III.- El Supremo Tribunal de Justicia del Estado;
+III. El Tribunal Superior de Justicia del Estado;
 
-IV.- La Contaduría Mayor de Hacienda del Congreso del Estado;
+IV. El Tribunal de lo Contencioso Administrativo
 
-V.- La Secretaría de la Contraloría del Gobierno del Estado;
+V. La Entidad de Auditoria Superior del Estado;
 
-VI.- Las dependencias, organismos y entidades del Ejecutivo Estatal;
+VI. La Secretaría de Contraloría y Modernización Administrativa del Gobierno del Estado;
 
-VII.- El Tribunal de Conciliación y Arbitraje;
+VII. Los Órganos de Control Interno de los Poderes Legislativo y Judicial del Estado, así como los de los organismos autónomos;
 
-VIII.- El Tribunal de lo Contencioso Administrativo;
+VIII. Las dependencias, organismos y entidades del Ejecutivo Estatal y de los Ayuntamientos;
 
-IX.- Los Ayuntamientos; y
+IX. Los Ayuntamientos, los presidentes municipales, y
 
-X.- Las demás autoridades que determinen las leyes.
+X. Las demás autoridades que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 3o.
+
+BIS.- En todo lo que respecta a la investigación y tramitación de procedimientos de responsabilidad administrativa, serán autoridades competentes, los Órganos de Control Interno de los Poderes del Estado, de los Organismos autónomos, las dependencias y entidades, así como los de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 4o.
 
-Para los efectos de esta Ley, se entenderá por Secretaría a la Secretaría de la Contraloría.
+Para los efectos de esta Ley, se entenderá por Órganos de Control Interno, los que determinen los Poderes del Estado de Durango en sus leyes orgánicas; así como aquellos que se creen en los Organismos Autónomos y las contralorías municipales.
 
-Para los mismos efectos, se entenderá por superior jerárquico, al titular de la dependencia, organismo, entidad o coordinador correspondiente, el cual aplicara las sanciones cuya imposición se le atribuya a través del órgano de control interno. En el ámbito municipal, se entenderá por superior jerárquico al Ayuntamiento.
+Por Secretaría, se entenderá por la Secretaría de Contraloría y Modernización Administrativa del Gobierno del Estado.
 
-Para los mismos efectos, se entenderá por Contaduría, a la Contaduría Mayor de Hacienda del Congreso del Estado.
+Para los mismos efectos, se entenderá por superior jerárquico en el Poder Ejecutivo, a los titulares de las Secretarías de Despacho, dependencias, organismos, entidades o coordinador correspondiente; en el Poder Legislativo y Judicial así como en los organismos autónomos, a los órganos que al efecto prevengan las leyes orgánicas correspondientes o a los decretos de su creación, los cuales aplicarán las sanciones cuya imposición se les atribuya a través de el órgano de control interno correspondiente. En el ámbito municipal, se entenderá por superior jerárquico al Ayuntamiento o al Presidente Municipal según corresponda.
+
+Para los mismos efectos, se entenderá por Entidad de Auditoria, a la Entidad de Auditoria Superior del Estado.
 
 ###### ARTICULO 5o.
 
@@ -435,7 +447,9 @@ XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nom
 
 XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial que corresponda ante la Contaduría Mayor de Hacienda del Congreso del Estado, en los términos que señala la Ley;
 
-XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría, conforme a la competencia de ésta;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+
+XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba del órgano de control interno, conforme a la competencia de éste;
 
 XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las Fracciones de éste Artículo, y en los términos de las normas que al efecto se expidan;
 
@@ -457,41 +471,95 @@ La creación de dichas unidades no implicará contratación de personal nuevo.
 
 La Secretaría establecerá las normas y procedimientos para que las instancias del público sean atendidas y resueltas con eficiencia, salvo las relativas a los servidores públicos municipales, que serán fijadas por los ayuntamientos respectivos.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+En todo caso, el procedimiento de queja y denuncia se sujetará a lo siguiente:
+
+l. Los escritos de queja y denuncia deberán contener:
+
+a) La autoridad a la que va dirigida;
+
+b) El nombre del quejoso, denunciante o de su representante legal, cuando se trate de personas morales;
+
+c) El domicilio para recibir notificaciones y nombre de la persona o personas autorizadas para recibirlas; y,
+
+d) La petición que se formula y los hechos o razones que dan motivo a la petición.
+
+El escrito deberá ser ratificado ante el Órgano de Control Interno o Contraloría Municipal correspondiente.
+
+II. Tratándose de falta de domicilio se notificará en un lugar visible de la oficina en la que se encuentra el domicilio del órgano de control interno correspondiente, por un periodo de treinta días hábiles;
+
+III. Se declarará improcedente mediante acuerdo de la resolutora, la queja o denuncia que sea presentada en forma anónima, no se describan los hechos que originan la queja o la denuncia o no se identifique al servidor público o la dependencia en contra de cuales se interpongan aquellas, o bien no sea ratificado conforme a la fracción primera en un plazo pertinente;
+
+IV. Una vez que se reciba la queja o denuncia, el órgano de control interno o la contraloría municipal, según sea el caso, radicará la queja o la denuncia, solicitando un informe mediante oficio al servidor público que haya originado la queja o denuncia, haciendo de su conocimiento los hechos que la motiven, corriéndole traslado del escrito si lo hubiere y apercibiéndolo que de hacer caso omiso se hará acreedor a los medios de apremio que contempla esta ley. El servidor público remitirá su informe en un término no menor a tres días ni mayor a diez días hábiles, en el que manifestará lo que a su derecho e interés convenga, aportando en su caso las probanzas necesarias, mismas que serán analizadas por la resolutora.
+
+V. La resolución que se dicte con motivo de la queja o denuncia debe ser clara y precisa, fundando y motivando el sentido de la misma.
+
+Una vez que ya no existan diligencias pendientes por desahogar y se estime que es el momento procesal oportuno, se procederá a dictar resolución.
+
+La resolución se dictará en un lapso no mayor a cuarenta días hábiles contados a partir de que se declare cerrada la audiencia respectiva. Dicho plazo podrá ser ampliado por el órgano de control interno o la contraloría municipal, en aquellos casos en que por lo voluminoso o complejidad del expediente se requiera mas tiempo para llevar a cabo el análisis correspondiente;
+
+VI. Los Órganos de Control Interno y las Contralorías Municipales, serán competentes para conocer sobre las siguientes quejas y denuncias:
+
+a) Las que se interpongan en contra de los funcionarios que la Constitución Política Local señala en su artículo 116, así como a los servidores públicos de las Dependencias como de las entidades de la Administración Pública Estatal y Municipal, centralizadas, paraestatales o paramunicipales, y
+
+b) Las que los Órganos de Control Interno o la Entidad de Auditoria, en uso de sus facultades determinen conocer y resolver.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+A toda queja o denuncia debe recaer resolución correspondiente. De no encontrarse elementos suficientes para establecer responsabilidad por parte del servidor público, deberá archivarse el expediente como asunto concluido; por el contrario, sí de la investigación se encontraren elementos suficientes para establecer la responsabilidad del servidor público, se deberá iniciar el procedimiento administrativo establecido en el artículo 63 de esta Ley.
+
 ###### ARTICULO 49o.
 
 La Secretaría, el superior jerárquico y todos los servidores públicos del Estado y de los ayuntamientos, tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refiere el Artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
 
 Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses de quienes las formulen o presenten.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 50o.
 
-El Supremo Tribunal de Justicia del Estado establecerá, de acuerdo con su Ley Orgánica, los órganos y sistemas para identificar, investigar y determinar las responsabilidades de los servidores públicos integrantes del Poder Judicial, derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente Capítulo.
+El Tribunal Superior de Justicia, el Congreso del Estado, los Organismos Autónomos y los Ayuntamientos, establecerán de acuerdo a sus leyes orgánicas o de creación, los órganos y los sistemas para identificar, investigar y determinar las responsabilidades de los servidores públicos a ellos adscritos.
 
-Lo propio hará, conforme a la legislación respectiva y por lo que hace a su competencia, el Congreso del Estado.
-
-Los Ayuntamientos establecerán los órganos y sistemas respectivos en los términos del primer párrafo de este Artículo.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 51o.
 
-Los servidores públicos de la Secretaría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el Artículo 47 de esta Ley, serán sancionados conforme al presente Capítulo por el órgano de control interno de dicha Secretaría. El titular de este órgano, será designado por el Gobernador del Estado y sólo será responsable administrativamente ante él.
+Los servidores públicos de los órganos de control interno y de las contralorías municipales que incumplan con las obligaciones a las que se refiere el artículo 47 del presente ordenamiento serán sancionados conforme a los procedimientos que sustancien:
+
+a) En el Poder Ejecutivo, el titular de la contraloría interna de la Secretaria de Contraloría y Modernización Administrativa, quien será designado directamente por el Gobernador del Estado;
+
+b) En el Poder Legislativo, la comisión ordinaria encargada del control interno;
+
+c) En el Poder Judicial, el Consejo de la Judicatura;
+
+d) En los Organismos Autónomos, sus órganos de dirección superior, y
+
+e) en los Ayuntamientos, la comisión de regidores que sea creada en forma expresa.
 
 ###### ARTICULO 52o.
 
 Las sanciones administrativas consistirán en:
 
-I.- Apercibimiento privado o público;
+I.- (DEROGADA, P.O. 29 DE JUNIO DE 2008)
 
 II.- Amonestación privada o pública;
 
 III.- Suspensión;
 
-IV.- Destitución del puesto;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+
+IV.- Destitución del Puesto;
 
 V.- Sanción económica;
 
 VI. - Inhabilitación temporal para desempeñar empleo, cargo o comisiones en el servicio público.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la zona económica respectiva y de tres a diez años si excede de dicho límite.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+En todo caso, para los efectos de esta Ley, se consideraran graves las conductas de los servidores públicos que infrinjan las obligaciones precisadas en las fracciones III, XXI y XXII del artículo 47, esta última cuando las leyes o reglamentos aplicables así lo determinen.
 
 ###### ARTICULO 53o.
 
@@ -531,11 +599,13 @@ I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o com
 
 II.- La destitución del empleo, cargo o comisión de los servidores públicos, se demandará por el superior jerárquico de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas.
 
-III.- La suspensión del empleo, cargo o comisión durante el período a que se refiere la Fracción I, y la destitución de los servidores públicos de confianza, se aplicarán por el superior jerárquico;
+III.- La suspensión del empleo, cargo o comisión durante el período a que se refiere la Fracción I, y la destitución de los servidores públicos de confianza, se aplicarán por el superior jerárquico.
 
-IV.- La Secretaría promoverá los procedimientos a que hacen referencia las Fracciones II y III demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Secretaría desahogará el procedimiento al superior jerárquico;
+IV.- La Secretaría promoverá los procedimientos a que hacen referencia las Fracciones II y III demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga. En este caso, la Secretaría desahogará el procedimiento al superior jerárquico.
 
-V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución purisdiccional (sic), que dictará el órgano que corresponda según las leyes aplicables; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+
+V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución, que dicte el órgano que corresponda, según las leyes aplicables.
 
 VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la zona económica correspondiente, y por la Secretaría, cuando sean superiores a esta cantidad.
 
@@ -583,27 +653,79 @@ Si de las investigaciones y auditorías que realice la Secretaría apareciera re
 
 La dependencia, organismo o entidad y la Secretaría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, tomando en cuenta los antecedentes y circunstancias del infractor y que el daño causado por éste, no exceda de cien veces el salario mínimo diario vigente en la zona económica respectiva. En los mismos términos procederán los ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 62o.
+
+BIS.- En el ámbito de sus respectivas competencias, corresponde originalmente a los Órganos de Control Interno de los Poderes del Estado, sus dependencias y entidades, Organismos Públicos Autónomos y a las Contralorías Municipales de que se trate, el trámite y resolución de los procedimientos administrativos para la imposición de las sanciones a que se refiere el artículo 52 de esta ley. Los funcionarios públicos que intervengan como autoridad en la substanciación del procedimiento administrativo, tendrán fe pública, incluso en las que practiquen con motivo de notificaciones, inspecciones, desahogo de pruebas y todos los actos que se refieran al procedimiento citado gozaran de pleno valor probatorio.
+
+Para el mejor despacho de los asuntos, los reglamentos aplicables podrán establecer las atribuciones de los servidores públicos de los órganos internos de control y las contralorías municipales, las cuales podrán delegarse en servidores subalternos mediante acuerdo administrativo del superior jerárquico.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 63o.
 
-La Secretaría y el Ayuntamiento impondrán las sanciones administrativas a que se refiere este Capítulo mediante el siguiente procedimiento:
+Los Órganos de Control Interno y las Autoridades Municipales, según corresponda, impondrán las sanciones administrativas a que se refiere este capítulo de conformidad con el procedimiento descrito en este artículo:
 
-I.- Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor.
+I.- Se citará personalmente al servidor público que se le impute alguna responsabilidad para que comparezca a una audiencia, pudiendo asistirse de persona de su confianza, abogado o procurador;
+
+II.- En la notificación a que se refiere la fracción anterior se expresará, por lo menos:
+
+a) El nombre y domicilio del servidor público sujeto a procedimiento;
+
+b) Los motivos del inicio del procedimiento administrativo;
+
+c) Nombre y cargo de quien practica la notificación y el fundamento en que apoya su competencia;
+
+d) La fecha y hora que se señale para la audiencia, la que deberá tener lugar dentro de un plazo no menor a tres ni mayor a diez días hábiles, contados a partir de la fecha en que se practique la notificación, y
+
+e) La garantía que le asiste de hacer efectivo su derecho a la defensa y el apercibimiento de que de no comparecer sin causa justificada a la audiencia antes mencionada, se le tendrá por no presente y se dará por concluida la misma;
+
+III. En la audiencia, se desahogarán las pruebas que en su caso sean ofrecidas, otorgándose al servidor público el derecho para hacer las alegaciones que a su derecho e interés convenga.
+
+Si hubiera pruebas que no fuera posible su desahogo porque estén en proceso de preparación, dentro de la audiencia se proveerá lo necesario para que sean desahogadas, en un plazo no mayor a quince días hábiles.
+
+Si el servidor público no comparece a la audiencia de referencia sin causa justificada se le tendrá por no presente y se dará por concluida la misma, turnándose el expediente para resolución.
+
+IV. Dictada la resolución, se notificará personalmente en el domicilio del servidor público, cuando este haya señalado alguno en el procedimiento; si no lo hubiere hecho, se hará en aquel que conste en los archivos de la entidad, dependencia o Ayuntamiento.
+
+En todo momento, el notificador deberá cerciorarse del domicilio del servidor público y entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quién se entienda la diligencia; si ésta se niega, se hará constar en el acta de notificación tal negativa, de lo cual darán constancia al menos dos testigos de asistencia, sin que ello afecte su validez.
+
+La notificación personal, se entenderá con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, así se hará constar en el acta respectiva y la notificación se realizará por instructivo que se fijará en un lugar visible del domicilio.
+
+De las diligencias que practique el notificador, deberá levantar acta circunstanciada.
+
+V.- Si el servidor público no se presenta el día señalado para la celebración de la audiencia, así se indicará en el acta que se levante con motivo de esta y las subsecuentes notificaciones se le harán en los estrados de la oficina que conozca del procedimiento administrativo.
+
+Sin perjuicio de realizar las notificaciones en la forma antes señalada, los órganos de control interno o bien en su caso, las Contralorías Municipales, para los efectos de asegurarse de que el notificado tenga oportunidad de conocer las mismas, podrán, además, hacer uso de otros medios de comunicación.
 
 También asistirá a la audiencia el representante de la dependencia, organismo, entidad o del organismo municipal de que se trate, que para tal efecto se designe.
 
-Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
+Las partes en un procedimiento administrativo tendrán derecho de conocer, en cualquier momento, el estado de su tramitación, recabando la oportuna información de las oficinas correspondientes.
 
-II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Secretaría resolverá sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes y notificará la resolución dentro de las veinticuatro horas siguientes, al interesado, su jefe inmediato, al representante designado y al superior jerárquico.
+VI.- En el procedimiento administrativo serán admisibles toda clase de pruebas, excepto la confesional en tratándose de la autoridad, mientras no sean contrarias al derecho o a la moral.
 
-III.- Si en la audiencia la Secretaría o el Ayuntamiento encontrara que no cuenta con elementos suficientes para resolver, o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
+Los Órganos de Control Interno y las Contralorías Municipales, podrán acordar en todo tiempo, la práctica, ampliación o perfeccionamiento de cualquier diligencia, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados.
 
-IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la Fracción I del presente Artículo, la Secretaría o el Ayuntamiento podrá determinar la suspensión temporal de los presuntos responsables, de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Secretaría o del Ayuntamiento hará constar expresamente ésta salvedad.
+En la práctica de estas diligencias, los órganos de control interno o las Contralorías Municipales obrarán como estimen pertinente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando siempre su igualdad procesal.
 
-La suspensión temporal a que se refiere el párrafo anterior, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio.- La suspensión cesará cuando así lo resuelva la Secretaría o el Ayuntamiento, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente Artículo en relación con la presunta responsabilidad de los servidores públicos.
+VII.- Desahogados todos los medios probatorios y hechas las alegaciones de las partes, la autoridad deberá declarar cerrada la audiencia y turnar los autos para resolución la cual deberá emitirse a más tardar dentro de los cuarenta días hábiles siguientes, salvo que por la importancia del caso o lo voluminoso del expediente sea necesario más tiempo.
 
-Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituídos en el goce de sus derechos y se les cubrirán las percepciones que debieran percibir durante el tiempo en que se hayaron suspendidos.
+Los Órganos de Control Interno o las Contralorías Municipales resolverán sobre la inexistencia o existencia de la responsabilidad, imponiendo en su caso las sanciones administrativas correspondientes.
 
-Se requerirá autorización del Gobernador del Estado para dicha suspensión, si el nombramiento del servidor público de que se trata incumbe al titular del Poder Ejecutivo; igualmente se requerirá autorización del Congreso Local o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación de éste, en los términos de la Constitución Política del Estado y del Ayuntamiento si el nombramiento del servidor público está dentro de las facultades de éste.
+VIII.- La resolución deberá ser notificada dentro de los cinco días hábiles siguientes, de manera personal y mediante oficio entregado por mensajero o correo certificado, con acuse de recibo; mediante telefax, medios electrónicos o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, al interesado, a su jefe inmediato, al representante designado y al superior jerárquico.
+
+IX.- En cualquier momento del procedimiento, el Superior jerárquico a petición del Órgano de Control Interno o la Contraloría Municipal, podrá determinar la suspensión temporal de los presuntos responsables, de sus cargos, empleos o comisiones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación del Órgano de Control Interno o de la Contraloría Municipal hará constar expresamente ésta salvedad.
+
+La suspensión temporal a que se refiere el párrafo anterior, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelvan los Órganos de Control Interno o las Contralorías Municipales, independientemente de la continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad de los servidores públicos.
+
+Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera percibir durante el tiempo en que se encontró suspendido. Si la suspensión hubiera sido hecha pública en los medios de comunicación y la resolución determina que no existe responsabilidad del imputado, corresponderá al Órgano de Control Interno o a la Contraloría Municipal hacer pública tal circunstancia, dejando a salvo los derechos del imputado para que proceda de acuerdo a la ley, y
+
+X.- Se requerirá autorización del Gobernador del Estado para la suspensión a que se refiere la fracción anterior, si el nombramiento del servidor público de que se trate incumbe al titular del Poder Ejecutivo; igualmente se requerirá autorización del Congreso Local o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación de éste, o bien el nombramiento fue hecho por la autoridad legislativa en los términos de la Constitución Política del Estado y del Ayuntamiento si el nombramiento del servidor público está dentro de las facultades de éste.
+
+Al procedimiento de responsabilidad administrativa sólo tienen acceso las partes y, por ende, su publicidad será hecha conforme a la ley de la materia.
 
 ###### ARTICULO 64o.
 
@@ -693,13 +815,17 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 77o.
 
-Las facultades del superior jerárquico, de la Secretaría y de los Ayuntamientos para imponer las sanciones que esta Ley prevé, se sujetarán a lo siguiente:
+Las facultades del superior jerárquico, de la Secretaría, los Órganos de Control Interno y de los Ayuntamientos para imponer las sanciones que esta Ley prevé, se sujetarán a lo siguiente:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en la zona económica respectiva, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fué de carácter contínuo; y
+l. Prescribirán en un año si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en la zona económica respectiva o si la responsabilidad no causara daños al erario público. El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo; y
 
-II.- En los demás casos prescribirán en tres años.
+II. En los demás casos prescribirán en tres años.
+
+En todo caso, la prescripción se interrumpirá si se da inicio al procedimiento administrativo previsto en el artículo 63.
 
 ## TÍTULO CUARTO
 
@@ -781,13 +907,17 @@ En ningún caso, se podrán recibir de dichas personas títulos de valor, bienes
 
 Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en este Artículo y serán sancionados en términos de la legislación penal.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 88o.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el Artículo anterior y cuyo monto sea superior al que en él se establece o sean los estrictamente prohibidos, deberán informar de ello a la autoridad que la Contaduría determine a fín de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean los estrictamente prohibidos, deberán informar de ello a la Entidad de Auditoria Superior, a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 89o.
 
-La Contaduría hará al Ministerio Público, en su caso, denuncia de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+La Entidad de Auditoria Superior, interpondrá denuncia ante el Ministerio Público, en contra del servidor público sujeto a la investigación respectiva, en los términos de la presente Ley, cuando no justifique la procedencia licita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 T R A N S I T O R I O S
 
@@ -836,3 +966,23 @@ DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo., a los vein
 El Gobernador Constitucional del Estado, Lic. José Ramírez Gamero.- Rúbrica.
 
 El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las facultades y competencia determinadas a la Contaduría Mayor de Hacienda del Congreso del Estado, se entenderán otorgadas a la Entidad de Auditoría Superior del Estado. Del mismo modo se entenderán aquellas que señale la presente ley al Supremo Tribunal de Justicia, al Tribunal Superior de Justicia del Estado.
+
+###### ARTICULO TERCERO.
+
+En tanto los Poderes Legislativo y Judicial, expiden las normas relativas a los procedimientos de responsabilidad administrativa de los servidores públicos a ellos adscritos, se aplicarán los procedimientos contenidos en el presente ordenamiento, que sustanciarán los órganos y autoridades previstos en sus leyes orgánicas; lo anterior aplicará en tratándose de los Ayuntamientos y Organismos Autónomos.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente.
