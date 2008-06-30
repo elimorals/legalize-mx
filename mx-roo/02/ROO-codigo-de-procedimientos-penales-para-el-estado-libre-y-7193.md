@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2008-06-17"
+last_updated: "2008-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -2739,39 +2739,63 @@ En los casos en que proceda entregar el acusado a alguna de las personas a que s
 
 CAPITULO DECIMOTERCERO.- PROCEDIMIENTO SUMARIO
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 465.
 
-El procedimiento sumario tiene por objeto la investigación y sanción de los delitos dolosos y preterintencionales cuya pena máxima de prisión sea de tres años y de los delitos culposos sancionados por el primer párrafo del artículo 54 del Código Penal del Estado.
+En los casos de delitos cuya pena máxima no exceda de tres años de prisión, una vez dictado el auto de formal prisión o de sujeción a proceso, el Juez de Oficio, declarará abierto el procedimiento sumario, concediendo a las partes en el propio auto el término de cinco días siguientes al de la notificación del mismo, para que ofrezcan las pruebas que estimen pertinentes, las cuales se desahogarán en la audiencia principal.
+
+El inculpado o su defensor podrán renunciar a dicho plazo, cuando así convenga a sus intereses.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 466.
 
-Hecha la consignación por el Ministerio Público, el Juez inmediatamente resolverá si decreta o no la orden de aprehensión.
+Necesariamente el Juez revocará la declaración de apertura del procedimiento sumario, y éste se instruirá conforme a los Artículos 46 a 52, 62, 63, 255, 272 y siguientes de este Código, cuando así lo soliciten el inculpado o su defensor, en este caso con ratificación del primero, dentro de los tres días siguientes de notificado el auto relativo, que incluirá la información del derecho aquí consignado.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 467.
 
-Tan pronto como un acusado de uno de los delitos a que se refiere el artículo 465 sea detenido y puesto a disposición del Juez, éste, de oficio, declarará abierto el procedimiento sumario, haciéndolo saber a las partes.
+Concluido el plazo previsto en el párrafo del Artículo 465, en el auto que resuelva sobre la admisión de las pruebas, se citará para la audiencia principal, que deberá celebrarse dentro de los quince días siguientes al cierre de aquél. Dictado dicho auto, no se admitirán más pruebas que la documental, siempre y cuando no requiera de perfeccionamiento alguno y sean ofrecidas hasta antes de dicha audiencia, pues en la misma no se admitirá prueba alguna.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 468.
 
-A continuación el Juez procederá a tomar al acusado su declaración preparatoria, en la que se cumplirán las formalidades establecidas por los artículos 55 y siguientes.
+La audiencia principal se desarrollará en un solo día ininterrumpidamente salvo que sea necesario suspenderla para permitir el desahogo de pruebas, o por otras causas que lo ameriten, a criterio del Juez. En este caso, se citará para continuarla al día siguiente o dentro de los cinco días subsecuentes, a más tardar, si no bastare aquel plazo para la desaparición de la causa que hubiere motivado la suspensión. Diferimiento que se hará por una sola vez, y en caso de persistir la causa que impida el desahogo de la prueba, se declarará desierta dicha probanza.
+
+Una vez terminado el desahogo de pruebas, se hará relación sucinta de las constancias procesales y leerá las que las partes solicitaren, enseguida el Agente del Ministerio Público adscrito, formulará verbalmente sus conclusiones, y a continuación hará lo propio la defensa, cuyos puntos esenciales se harán constar en el acta relativa.
+
+El Juez podrá dictar sentencia en la misma audiencia o bien, citará a las partes para oírla dentro de los diez días siguientes. Si el expediente excediere de doscientas cincuenta fojas, se agregará un día por cada cien o fracción, sin rebasar de veinte días.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 469.
 
-Concluida la declaración preparatoria se recibirán a continuación las pruebas que ofrezcan el Ministerio Público, el acusado y su defensor.
+A la audiencia principal necesariamente concurrirán el Ministerio Público y el Defensor. Si no asistieren y el Defensor fuere de Oficio, siempre que sea posible, serán substituidos ambos por otros en ese mismo acto, en caso contrario, se suspenderá la audiencia y se citará para continuarla al día siguiente, únicamente para dar lugar a que comparezca el Ministerio Público o Defensor de Oficio, según sea el caso; lo anterior previo el informe correspondiente al Procurador General de Justicia y al superior jerárquico del Defensor de Oficio, para los fines legales consiguientes. Si el Defensor es particular, se requerirá al procesado que en ese acto nombre otro defensor, y en caso de no hacerlo se le asignará a uno de Oficio; sin perjuicio de aplicar al Ministerio Público y defensor faltistas, la corrección disciplinaria que sea conducente.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 470.
 
-Inmediatamente después de haberse desahogado las pruebas, el Juez decretará, en presencia de las partes, la formal prisión, la sujeción a proceso o en su caso libertad por falta de elementos para procesar.
+Para asegurar el desahogo de las pruebas propuestas, los Jueces harán uso de los medios de apremio y de las medidas que consideren oportunas en términos del artículo 545 de este Código.
+
+(REFORMADO, P.O. 30 DE JUNIO DE 2008.
 
 ###### Artículo 471.
 
-A continuación y en la misma audiencia, se notificará a las partes el auto a que se refiere el artículo anterior y el Juez inmediatamente las requerirá, cuando dicho auto no sea libertad por falta de méritos, para que manifiesten si tienen alguna prueba que ofrecer y en caso afirmativo el Juez ordenará recibir las que procedan en derecho.
+Se observará en el procedimiento sumario en lo que no se oponga a las disposiciones de este Capítulo, todo lo preceptuado en el presente Código.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 472.
 
-Concluida la recepción de pruebas o cuando no se hubiere ofrecido ninguna, el Juez declarará cerrada la instrucción y requerirá al Ministerio Público para que en el mismo acto formule las conclusiones que estime conducentes.
+En los delitos cuya pena máxima sea mayor de tres años, cuando se haya dictado auto de formal prisión y las partes manifiesten, al notificarse de ese auto o dentro de los tres días siguientes a la notificación, que se conforman con él y que no tienen pruebas que ofrecer, se citará a audiencia dentro de los quince días siguientes.
+
+La audiencia señalada en el párrafo anterior se desarrollará en un solo día ininterrumpidamente; solo podrá diferirse por una vez, para continuarse al día siguiente, únicamente en caso de la inasistencia del Ministerio Público o del Defensor, y en caso de que al continuarse la audiencia, al día siguiente, persista la incomparecencia del Defensor, y éste fuera particular, se requerirá al procesado que en ese acto nombre otro defensor, y en caso de no hacerlo se le asignará a uno de Oficio; en la misma audiencia se propondrán, admitirán y desahogarán las pruebas relacionadas con la individualización de la sanción. Recibidas dichas pruebas, se procederá en los mismos términos del párrafo Segundo del Artículo 468 de este Código.
+
+El Juez podrá dictar sentencia en la misma audiencia, o citar a las partes para oírla dentro de los diez días que sigan al término de la audiencia. Si el expediente excede de doscientos cincuenta fojas, se agregará un día por cada cien o fracción, sin rebasar veinte días. En este caso, la sentencia será apelable.
 
 ###### Artículo 473.
 
@@ -2787,27 +2811,27 @@ Si las conclusiones son acusatorias, el Juez requerirá a la defensa y al acusad
 
 ###### Artículo 476.
 
-El Juez a continuación dictará sentencia, la que si es condenatoria hará al mismo tiempo la conmutación de la pena de prisión, cuando proceda.
+(DEROGADO, P.O. 30 DE JUNIO DE 2008)
 
 ###### Artículo 477.
 
-Contra las resoluciones dictadas en el procedimiento sumario no cabe recurso alguno.
+(DEROGADO, P.O. 30 DE JUNIO DE 2008)
 
 ###### Artículo 478.
 
-Todas las actuaciones en el procedimiento sumario se practicarán a continuación unas de otras; se harán constar por escrito, asentándose únicamente lo sustancial de las mismas, para lo cual se hará un extracto de ellas y el procedimiento deberá terminarse en una sola audiencia que sólo podrá interrumpirse o diferirse por una vez, cuando sea absolutamente necesario o cuando el acusado lo pidiere para preparar y recibir las pruebas de él.
+(DEROGADO, P.O. 30 DE JUNIO DE 2008)
 
 ###### Artículo 479.
 
-La declaración de apertura del procedimiento sumario, hecha conforme a lo dispuesto por el anterior artículo 467, necesariamente será revocada por el Juez y se instruirá el proceso conforme a los artículos 46 a 52, 62, 63, 255, 272 y siguientes de este Código de Procedimientos Penales, cuando así lo soliciten el acusado, o éste y su defensor juntos.
+(DEROGADO, P.O. 30 DE JUNIO DE 2008)
 
 ###### Artículo 480.
 
-No podrá tramitarse incidente de responsabilidad civil en el procedimiento sumario.
+(DEROGADO, P.O. 30 DE JUNIO DE 2008)
 
 ###### Artículo 481.
 
-En los delitos que merezcan una pena de prisión mayor de tres años si son dolosos o preterintencionales, o de cuatro años si son culposos, cuando haya formal prisión del acusado, si tanto el Ministerio Público como la defensa y el acusado manifiestan que no tienen ninguna prueba que rendir y éste lo solicitare, se le juzgará en procedimiento sumario y la sentencia será apelable.
+(DEROGADO, P.O. 30 DE JUNIO DE 2008)
 
 CAPITULO DECIMOCUARTO.- REVISION EXTRAORDINARIA PARA EL RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
@@ -3069,6 +3093,8 @@ A los sordos y a los mudos que sepan leer y escribir, se les interrogará por es
 
 #### SECCION QUINTA.- Correcciones disciplinarias o medios de apremio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### Artículo 534.
 
 Los tribunales tienen el deber de mantener el buen orden y de exigir que se les guarden, tanto a ellos como a las demás autoridades, el respeto y la consideración debidos, aplicando en el acto, por las faltas que se cometan, las correcciones disciplinarias que este Código señala, sin ajustarse precisamente al orden establecido por el respectivo precepto, y de dictar las otras medidas que estimen oportunas.
@@ -3093,9 +3119,23 @@ Cuando no tenga que dictarse resolución alguna anterior a la sentencia, se har�
 
 Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### Artículo 540.
 
-No obstante lo dispuesto en el artículo anterior, cuando deben restituirse bienes al ofendido éstos podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+No obstante lo dispuesto en el artículo anterior, cuando deben restituirse bienes al ofendido éstos podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la investigación.
+
+Si se trata de bienes inmuebles que se encuentran baldíos, en breña, rústicos o sin construcciones, una vez que el Juez haya dictado el auto de formal prisión éste podrá ordenar las siguientes medidas:
+
+I.- Asegurar el bien inmueble motivo de la causa penal;
+
+II.- Ordenar el desalojo del inmueble de manera inmediata, para lo cual se emplearán los medios de apremio que establece el Artículo 545 del presente Código;
+
+III.- Remitir oficio al Registro Público de la Propiedad y del Comercio para hacer las anotaciones marginales correspondientes, en la inscripción del bien inmueble, sobre dicho aseguramiento;
+
+IV.- Enviar oficio al Director de Seguridad Pública para la vigilancia y custodia del citado bien inmueble.
+
+Una vez dictada sentencia ejecutoria el Juez levantará el aseguramiento del bien inmueble, restituyendo la posesión del mismo a quien corresponda conforme a derecho y deberá comunicar al Registro Público de la Propiedad y del Comercio y a la Dirección de Seguridad Pública el levantamiento del aseguramiento del inmueble en cuestión.
 
 ###### Artículo 541.
 
@@ -3119,13 +3159,17 @@ Los tribunales deben dictar de oficio las providencias y trámites necesarios pa
 
 ###### Artículo 545.
 
-Son correcciones disciplinarias o medios de apremio, los siguientes:
+Son correcciones disciplinarias o medios de apremio los siguientes:
 
 I.- Apercibimiento;
 
-II.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1992)
+> <small>(REFORMADA, [N .D E. ADICIONADA], P.O. 30 DE JUNIO DE 2008)</small>
 
-III.- El auxilio de la fuerza pública;
+II.- Multa de hasta treinta días de salario mínimo general vigente en el Estado en la época de los hechos;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+III.- El auxilio de la Fuerza Pública y la fractura de cerraduras o candados si fuere necesario;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -3411,9 +3455,13 @@ La citación de los militares y empleados oficiales, o particulares en alguna ra
 
 Cuando se ignore la residencia de la persona que deba ser citada, se encargará a la Policía que averigüe su domicilio y lo proporcione.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### Artículo 597.
 
-Si la investigación de la Policía a que se refiere el artículo anterior, no tuviere éxito y quien ordene la citación lo estimare conveniente, podrá hacerse ésta por medio de un periódico de los de mayor circulación.
+Si la investigación de la Policía a que se refiere el artículo anterior, no tuviere éxito, quien ordene la citación requerirá que informe de algún domicilio de la persona buscada a las dependencias gubernamentales y empresas que por su actividad cuenten dentro de sus archivos con información de carácter personal.
+
+Para el caso de que ninguna de esas dependencias cuente en sus archivos con algún domicilio de la persona que deba ser citada, o que el patrocinado por alguna de ellas resulte falso, inexistente o ya no viva en él dicha persona, cesará la búsqueda y se decretará la imposibilidad material para el desahogo de la prueba, excepto cuando se trate de careos, caso en el cual se estará a lo dispuesto en el Artículo 208 de este Código.
 
 #### SECCION UNDECIMA.- Resoluciones judiciales
 
@@ -3744,3 +3792,7 @@ P.O. 17 DE JUNIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
