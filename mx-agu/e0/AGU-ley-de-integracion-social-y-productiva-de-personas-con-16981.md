@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2000-02-14"
+last_updated: "2008-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 30 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -417,9 +417,13 @@ Los procesos de rehabilitación serán prestados tomando en cuenta la coordinaci
 
 ### CAPITULO X. Integración a la Vida Productiva
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 56.
 
-Los Gobiernos Estatal y Municipales, así como sus organismos descentralizados y las empresas paraestatales, tendrán la obligación de contratar, como mínimo el dos por ciento de la planta laboral a personas con requerimientos especiales, en el caso de que así les sea solicitado por estas personas, quienes deberán presentar el certificado de capacitación correspondiente.
+Los Gobiernos Estatal y Municipales, sus entidades paraestatales, así como los Poderes Legislativo y Judicial, deberán contratar y capacitar como mínimo el dos por ciento de su planta laboral a personas con alguna discapacidad, quienes deberán presentar el certificado médico de discapacidad correspondiente.
+
+Los sujetos obligados por esta norma presentarán un informe anual al Congreso del Estado en el mes de diciembre de cada año, acerca del cumplimiento de la presente disposición o en su caso de las causas que justifiquen su incumplimiento.
 
 ###### ARTICULO 57.
 
@@ -592,3 +596,15 @@ Felipe González González
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Gobiernos Estatal y Municipales, sus entidades paraestatales, así como los Poderes Legislativo y Judicial, tendrán un plazo máximo de doce meses a partir de la entrada en vigencia del presente Decreto, para programar las acciones necesarias, que permitan la integración de las personas con discapacidad a su planta laboral.
