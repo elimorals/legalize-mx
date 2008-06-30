@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2008-01-28"
+last_updated: "2008-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 28 DE ENERO DE 2008.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -420,6 +420,8 @@ cambio de turista a cualquier
 otra característica migratoria de
 
 la calidad de no inmigrante $444.32 $444.00
+
+> <small>N. DE E. EN RELACION CON EL PAGO DE DERECHOS SEÑALADOS EN LA PRESENTE FRACCION VER ARTICULO PRIMERO DEL DECRETO POR EL QUE SE EXIME DEL MISMO, PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2008.</small>
 
 (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 28 DE ENERO DE 2008)
 
@@ -29154,3 +29156,19 @@ Séptimo. A partir del 1 de enero de 2008, para los efectos del artículo 288 de
 D.O.F. 28 DE ENERO DE 2008.
 
 LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+30 DE JUNIO DE 2008.
+
+SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO POR EL QUE SE EXIME TEMPORALMENTE DEL PAGO DEL DERECHO ESTABLECIDO EN EL ARTICULO 8o., FRACCION IX, DEL PRESENTE ORDENAMIENTO QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Se exime totalmente del pago del derecho a que se refiere el artículo 8o, fracción IX de la Ley Federal de Derechos, a los extranjeros que bajo la característica migratoria de visitantes locales arriben a puertos marítimos ubicados en el territorio nacional, durante el periodo comprendido del 1 de julio al 30 de septiembre de 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación del presente Decreto.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el 1 de julio de 2008.
