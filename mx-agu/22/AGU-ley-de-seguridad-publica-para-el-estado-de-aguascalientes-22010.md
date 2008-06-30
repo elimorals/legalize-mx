@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2006-05-15"
+last_updated: "2008-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -45,9 +45,11 @@ LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO UNICO. Del Objeto de la Ley
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés general y tiene por objeto normar la función de prevención del delito y los Servicios de Seguridad Privada, así como establecer las bases de coordinación entre el Estado y sus Municipios en materia de Seguridad Pública.
+La presente Ley es de orden público e interés general y tiene por objeto normar la función de prevención del delito, establecer las bases de coordinación entre el Estado y sus Municipios en materia de Seguridad Pública y Privada, establecer los derechos y obligaciones de los elementos integrantes de las Corporaciones de Seguridad y regular su servicio.
 
 ###### ARTICULO 2o.
 
@@ -69,7 +71,9 @@ III.- Promover y coordinar los programas de prevención de delitos e infraccione
 
 IV.- Establecer los mecanismos de coordinación y colaboración en la investigación y persecución de los delitos y de los delincuentes;
 
-V.- Promover, coordinar y supervisar la readaptación social del delincuente así como la reeducación social del menor infractor; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+V.- Promover, coordinar y supervisar la readaptación social del delincuente, así como la reintegración social y familiar de las personas mayores de 12 y menores de 18 años de edad, a quienes se les atribuye la realización de un hecho punible, descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes; y
 
 VI.- Auxiliar a la población en caso de siniestros y desastres.
 
@@ -147,9 +151,9 @@ I.- Las Instituciones de Prevención del Delito del Estado y de los Municipios, 
 
 II.- La Policía Ministerial del Estado, con el personal que prevean las leyes y reglamentos;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
-III.- La Unidad Administrativa encargada de la coordinación del personal de Seguridad y Custodia de los Centros de Reeducación Social del Estado; y
+III.- La Coordinación de Seguridad y Custodia encargada de la coordinación del personal de Seguridad y Custodia de los Centros de Reeducación Social del Estado y del Centro Estatal para el Desarrollo del Adolescente; y
 
 IV.- Las demás que se constituyan con estricto apego a la ley.
 
@@ -167,7 +171,9 @@ II.- Los Cuerpos de Bomberos y Rescate;
 
 III.- Las empresas de Seguridad Privada y de similar naturaleza que operen o se instalen en el Estado;
 
-IV.- El Cuerpo de Guardias Forestales; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+IV.- Los Cuerpos de Guardias Forestales adscritos a la Procuraduría Estatal de Protección al Ambiente y al Instituto del Medio Ambiente del Estado; y
 
 V.- Las demás que se constituyan con estricto apego a la Ley.
 
@@ -183,9 +189,273 @@ Los mandos operativos en las Corporaciones de Seguridad se determinarán conform
 
 Se considera personal de Seguridad Pública a aquel a quien se le atribuya ese carácter mediante nombramiento o instrumento jurídico similar expedido por autoridad competente de los Municipios o del Estado, según sea el caso.
 
-Las relaciones de trabajo del personal de las Corporaciones de Seguridad se regirán por sus reglamentos de conformidad con el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
-No formarán parte de las Corporaciones de Seguridad quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la Seguridad Pública aún cuando laboren en las instituciones encargadas de prestar dicho servicio.
+Las relaciones de trabajo del personal de las Corporaciones de Seguridad, se regirán conforme a lo establecido en el Artículo 123, Apartado-B de la Constitución Política de los Estados Unidos Mexicanos, así como por lo previsto en esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+No formarán parte de las Corporaciones de Seguridad, quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la Seguridad Pública, aún cuando labore en las instituciones encargadas de prestar dicho servicio, quienes sin embargo, estarán obligados a prestar sus servicios en cualquier momento y por cualquier tiempo que las necesidades del servicio lo requieran por motivos de seguridad pública, previamente acreditados o para evitar el entorpecimiento del actuar operativo de las corporaciones, esto sin perjuicio de sus derechos laborales.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION PRIMERA. De la relación de los elementos pertenecientes a las Corporaciones de Seguridad Pública con el Estado o los Municipios
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 A.- La relación existente entre el Estado con los elementos operativos de las Corporaciones de Seguridad, es administrativa y de confianza.
+
+Para efectos de la regulación que hace esta ley de la relación entre las autoridades y los elementos, así como sus derechos, se consideran elementos operativos de las Corporaciones de Seguridad, a todos los pertenecientes a las Corporaciones de Seguridad a que se refiere el Artículo 7° y la Fracción II del Artículo 8° de esta ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 B.- Las controversias que se suscitaren con motivo de las relaciones y condiciones entre el Estado o los Municipios y sus elementos, serán resueltas por las comisiones de Honor y Justicia de la Secretaría, de la Procuraduría y de los Municipios de acuerdo a lo dispuesto por esta Ley, las disposiciones municipales aplicables y a los siguientes ordenamientos supletorios:
+
+Serán supletorios a esta Ley en cuanto a los procedimientos, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, La Legislación Penal para el Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes y el Código de Procedimientos Civiles del Estado de Aguascalientes, en ese orden.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION SEGUNDA. Jornada de Servicio
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 C.- La jornada de servicio, es el tiempo durante el cual los elementos de las corporaciones estarán a disposición de su corporación y mandos para desempeñar sus funciones y cargos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 D.- La jornada de servicio, será acorde a las necesidades del servicio de las Corporaciones de Seguridad o Auxiliares, el estado de fuerza de la corporación y de los acontecimientos y eventos en el Estado, las cuales serán determinadas por los titulares de las Corporaciones de Seguridad y podrán preverse mínimos para las mismas en los reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 E.- Cada jornada podrá extenderse por orden expresa del superior jerárquico, en atención a la necesidad del servicio, en consecuencia, los elementos tienen la obligación de cubrir tal extensión sin objeción alguna, siempre que ésta no sea mayor en jornada continua a veinticuatro horas de servicio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 F.- Los elementos están obligados a asistir puntualmente al desempeño de sus cargos y registrar las horas de entrada y salida en los controles que se establezcan en las Corporaciones de Seguridad a las que pertenezcan.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 G.- Las jornadas de servicio, podrán ser modificadas o redeterminadas por necesidades del servicio, con la limitante establecida en el numeral 11 E del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 H.- Se considerará falta de asistencia o retardo, el hecho de que los elementos pertenecientes a los cuerpos de seguridad, se presenten a sus labores después de las horas que les señalen sus superiores.
+
+Cuando un elemento de alguna corporación, tenga tres retardos injustificados que no excedan de diez minutos cada uno, dentro de treinta jornadas laborables, se les impondrá una sanción disciplinaria, consistente en amonestación escrita y les será descontado el importe de un día de pago; estos retardos se constituirán en falta de asistencia del elemento para todos los efectos legales de esta Ley.
+
+Cuando el retardo exceda de quince minutos, se considerará como falta de asistencia y se le descontará un día de pago, en cuyo caso el elemento de policía, no tendrá obligación de prestar sus servicios por ese día, salvo que las necesidades del servicio requieran otra cosa, circunstancia que deberá estar plenamente acreditada.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION TERCERA. Días de Descanso, Permisos y Licencias
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 I.- Por cada seis turnos o jornadas de servicio de los elementos operativos de seguridad pública, deberán de gozar de un turno o jornada de descanso, con goce de pago por ese turno o jornada íntegra.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 J.- Los elementos con un año de servicio ininterrumpido, tendrán derecho a solicitar por escrito un permiso sin goce de sueldo por razones de carácter personal que no podrá exceder de tres meses en un año, previa autorización escrita del Director General de la corporación o del funcionario que realice la función análoga del área a la que pertenezcan.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 K.- Los elementos tendrán derecho a solicitar permiso sin goce de sueldo, en los términos que esta y otras leyes lo determinen, respecto de los cuales, terminada la vigencia del mismo, deberán presentarse a laborar al día inmediato siguiente, de lo contrario, se entenderá por presentada su renuncia voluntaria.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 L- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo período que no podrá exceder de noventa días naturales con goce de salario Integro.
+
+Por ningún motivo los descansos extraordinarios para lactancia a que se refiere este Artículo, podrán ser negociados para reducir el tiempo de servicio.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION CUARTA. Del Salario
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 M.- El salario es la cantidad de dinero que se paga al elemento a cambio del desempeño de su función y cargo, y será uniforme para cada una de las categorías señaladas en los presupuestos de egresos respectivos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 N.- El salario uniforme fijado en los términos del Artículo anterior, no podrá modificarse por condiciones de edad, sexo o nacionalidad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 Ñ.- El salario se pagará quincenalmente en las oficinas administrativas de la dependencia en que labore y debe hacerse precisamente en moneda de curso legal, cheque o depósito bancario.
+
+Podrá realizarse depósito o transferencia bancaria a la cuenta personalizada de los elementos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 O.- No deberán hacerse retenciones, descuentos o deducciones al salario de los elementos, salvo en los casos siguientes:
+
+I. Cuando el elemento contraiga deudas o préstamos con el Gobierno del Estado o sus Municipios, o por concepto de anticipo del salario realizado con exceso, errores o pérdidas debidamente comprobadas;
+
+II. Cuando se trate de descuentos ordenados por el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes u otros organismos equivalentes de seguridad social, o descuentos para el pago de pasivos por préstamos, adquisición, construcción, reparación o mejoras de vivienda, realizada por conducto o con apoyo de una instancia oficial;
+
+III. Cuando se trate de descuentos ordenados por autoridad judicial competente, para cubrir las pensiones alimenticias que fueren exigidas al elemento;
+
+IV. Cuando se trate del impuesto sobre productos del trabajo;
+
+V. De aportaciones a seguros que se contraten y consienta expresamente el elemento, adicionales a los que le otorgue la dependencia; y
+
+VI. Por ahorros voluntarios de los elementos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 P.- El salario no es susceptible de embargo judicial o administrativo, salvo las retenciones señaladas en el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 Q.- Es nula la cesión del salario en favor de tercera persona.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 R.- El elemento, al momento o posteriormente de recibir el pago de su salario, tiene la obligación de firmar un recibo del mismo. En dicho documento deberá estar inscrito el nombre, rango, firma del elemento, fecha, monto de la contraprestación, deducciones y el periodo que abarca dicho recibo.
+
+También el pago del salario de los elementos, se podrá realizar mediante depósitos bancarios a su cuenta preasignada, por lo que el comprobante del depósito bancario del pago al elemento, bastará como comprobante del pago del salario y recibo del mismo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION QUINTA. Vacaciones
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 S.- El objetivo natural y legal de las vacaciones, es la restitución física y mental, mediante el descanso del desgaste físico y mental que exigen las actividades propias de su función.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 T.- Los períodos vacacionales, se otorgarán obligatoriamente a cada uno de los elementos operativos de las Corporaciones de Seguridad, con más de seis meses de servicio activo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 U.- Los períodos vacacionales, se concederán en forma escalonada en dos partes durante todo el año, excepto en los lapsos en que se festejen los siguientes eventos: semana santa, Feria Nacional de San Marcos, fiestas de diciembre, de navidad y año nuevo y los demás que determinen los mandos de las corporaciones a que pertenezcan.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 V.- En casos justificados, previa aprobación del titular de la dependencia a que pertenezca el elemento, se podrán conceder vacaciones en dichos lapsos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 W.- Las vacaciones se sujetarán a un rol elaborado oportunamente por los directores operativos, comandantes de área, o jefes correspondientes y aprobado por los directores generales, o quienes hagan funciones análogas en los municipios, de tal manera que no entorpezcan el buen funcionamiento de las corporaciones.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 X.- El personal operativo disfrutará de dicho beneficio, de acuerdo con sus efectivas necesidades y exigencias del servicio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 Y.- Las vacaciones podrán ser suspendidas por necesidades del servicio, previamente justificadas, a juicio de los directores generales, o de quienes hagan funciones análogas en los municipios; desaparecida la causa que motivó la suspensión, deberán de ser otorgadas tales vacaciones a los elementos respectivos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 Z.- Los períodos vacacionales a que tienen derecho los elementos de las Corporaciones de Seguridad, son a diez días continuos por cada seis meses de servicio, lo que es igual a veinte días por el año trabajado, contando sábados y domingos, periodos durante los cuales, el elemento deberá recibir el pago de su salario diario, como si materialmente estuviera en servicio.
+
+Los elementos que gocen de sus períodos vacacionales, deberán reincorporarse a su servicio por eventos extraordinarios debiéndose reponer el lapso del período vacacional que no hubiere disfrutado, cuando desaparezca la necesidad extraordinaria de su servicio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 AA.- Cuando algún elemento disfrute de licencia ordinaria, o se encuentre incapacitado por enfermedad o accidente, estos períodos no serán deducibles de los períodos vacacionales establecidos por esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 BB.- Los periodos vacacionales, no serán acumulables entre períodos y con licencias; el personal que no las disfrute, perderá el derecho a éstas cuando haya transcurrido un año a partir del día en que adquirió el derecho de disfrutar de tales períodos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 CC.- Los elementos tendrán derecho al pago de una prima del veinticinco por ciento adicional, sobre su salario que le corresponda durante el período vacacional.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION SEXTA. Aguinaldo
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 DD.- Los elementos tendrán derecho a un aguinaldo que estará comprendido en el Presupuesto de Egresos de Gobierno del Estado, y en el de los Municipios según corresponda, el cual deberá pagarse en una sola exhibición y que será equivalente a treinta y cinco días de salario integrado, cuando menos, sin deducción alguna, calculado en base al monto diario del mismo, recibido por sus servicios; los que no hayan cumplido el año de servicio, independientemente de que se encuentren en servicio o no a la fecha de liquidación del aguinaldo, tendrán derecho a que se les pague la parte proporcional del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 EE.- El aguinaldo será cubierto a más tardar el día veinte del mes de diciembre de cada año.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION SÉPTIMA. Suspensión del Servicio
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 FF.- Son causas de suspensión temporal de las obligaciones de prestar el servicio y realizar los pagos por el mismo, sin responsabilidad para el Estado, ni para el elemento, sin perjuicio de lo establecido en las Leyes de Seguridad Social y Asistencial que les apliquen a los elementos por ser servidores públicos:
+
+I. La enfermedad contagiosa del elemento, cuando ésta sea transmisible por contacto directo de los elementos;
+
+II. La incapacidad temporal ocasionada por un accidente o enfermedad sufrida fuera del servicio;
+
+III. La prisión preventiva del elemento, seguida de sentencia absolutoria; y
+
+IV. El arresto del elemento.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 GG.- La suspensión surtirá efectos:
+
+I. En los casos de las Fracciones I y II del Articulo anterior, desde la fecha en que el Estado tenga conocimiento de la enfermedad contagiosa o de la que produzca incapacidad para el servicio, hasta que termine el periodo fijado por el Instituto Mexicano del Seguro Social o la institución de salud que corresponda, o antes si desaparece la incapacidad para el servicio, sin que la suspensión pueda exceder de lo determinado en la Ley del Seguro Social, o su equivalente, para el tratamiento de las enfermedades que no sean consecuencia de un riesgo de trabajo; y
+
+II. Tratándose de las Fracciones III y IV del Artículo anterior, desde el momento en que el elemento acredite estar privado de su libertad, a disposición de la autoridad judicial o administrativa correspondiente, hasta la fecha en que cause ejecutoria la sentencia que lo absuelva o termine el arresto.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 HH.- El elemento deberá reintegrarse a su trabajo, en los casos de las Fracciones I, II, III y IV del Artículo 11 FF, al día siguiente de la fecha en que termine la causa de la suspensión.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2008)</small>
+
+#### SECCION OCTAVA. Terminación del Servicio
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 II.- Son causas de terminación del servicio:
+
+I. La renuncia del elemento aceptada por la corporación de seguridad pública respectiva;
+
+II. El mutuo consentimiento de las partes;
+
+III. La muerte del elemento;
+
+IV. La incapacidad física o mental o inhabilidad, debidamente comprobadas del elemento, que hagan imposible la prestación del servicio; o
+
+V. La destitución o rescisión del elemento.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 JJ.- En el caso de la Fracción IV del Artículo anterior, si la incapacidad proviene de un hecho acontecido en el servicio, el elemento tendrá derecho a las indemnizaciones que se consignan en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes o equivalentes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 KK.- Ningún elemento podrá ser destituido del servicio, sino por causa justificada o por la pérdida de la confianza, en los términos de esta Ley y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 LL.- Si la corporación de seguridad pública, opta por la destitución y no logra acreditar en el procedimiento correspondiente la causa de la destitución, el elemento tendrá derecho a que se le reincorpore al servicio que venía desempeñando antes de la destitución y al cobro de su pago a que tuvo derecho durante todo el tiempo que duraron los efectos de la destitución; en su caso, a elección del elemento, se podrá solicitar el cobro de tres meses de pago, más el equivalente del pago de servicios a que tuvo derecho durante todo el tiempo que duraron los efectos de la destitución hasta ese momento sin reincorporación y dando por terminada la relación laboral y de servicio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 MM.- Será responsable el Estado o el Municipio según corresponda, en el supuesto de que se le reduzca el pago al elemento o se le pague una cantidad inferior al salario mínimo vigente en el Estado.
+
+En este supuesto el elemento tendrá derecho a que se le restablezca el pago percibido hasta antes de la reducción y al cobro de las diferencias acumuladas a que equivalga la suma de las reducciones del pago, durante todo el tiempo que dure la reducción y a que se le incremente el pago hasta ser equivalente por lo menos al salario mínimo vigente en la región que se ubica el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 NN.- En el supuesto de renuncia del elemento, se observarán las siguientes reglas:
+
+Si dentro de los ocho días hábiles siguientes a su presentación, el elemento no recibe respuesta y no se encuentra sujeto a investigación o procedimiento ante la Comisión de Honor y Justicia de la entidad de Seguridad Pública que corresponda, se tendrá como tácitamente aceptada para todos los efectos legales.
+
+Mientras la renuncia no haya sido aceptada, ni transcurrido el plazo señalado anteriormente, el elemento deberá permanecer en el ejercicio de sus funciones; una vez aceptada la renuncia, se le notificará por escrito.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 ÑÑ.- En cualquiera de los supuestos de suspensión y de terminación de la relación de servicio, contemplados en esta Ley, el elemento deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, vehículos, identificaciones, valores, armas y autorización para portar arma de fuego y otros recursos que hayan sido puestos bajo su responsabilidad o custodia.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 11 OO.- Cuando la destitución del elemento que corresponda sea debido a la pérdida de la confianza, dentro del procedimiento respectivo, deberán ser plenamente acreditadas las causas y hechos que dan motivo a la pérdida de confianza expuesta, para proceder a la baja, agotándose el procedimiento a que se refiere esta Ley, teniendo el elemento derecho al pago de tres meses como si los hubiere estado laborando.
 
 ###### ARTICULO 12.
 
@@ -321,13 +591,17 @@ d) Secretaría de Seguridad Pública;
 
 X.- Los Presidentes Municipales de la Entidad;
 
-XI.- El Secretario Ejecutivo; y
+XI.- (DEROGADA, P.O. 30 DE JUNIO DE 2008)
 
 XII.- Quien, por razón de sus atribuciones, esté vinculado con los fines de la Seguridad Pública, a propuesta del Presidente del Consejo.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
 El Magistrado Presidente del Supremo Tribunal de Justicia del Estado podrá asistir previa invitación del Consejo a sus sesiones, con derecho a voz.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+Los cargos comprendidos de las Fracciones I a la XII, son honoríficos, personalísimos y no admitirán suplencias. La participación personal en las sesiones del Consejo será obligatoria.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
@@ -383,11 +657,11 @@ Cuando para la aprobación y ejecución de las resoluciones o acuerdos se compre
 
 ### CAPITULO III. De la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 28.
 
-El Consejo tendrá un Secretario Ejecutivo quien participará sólo con voz en las sesiones del mismo; será nombrado y removido por el Presidente del mismo, y ratificado por los miembros del Consejo.
+El Consejo tendrá un Secretario Ejecutivo, cargo que desempeñará el Secretario de Seguridad Pública.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2006)</small>
 
@@ -399,7 +673,9 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Tener más de treinta años de edad;
 
-III.- Contar con título de licenciado en derecho;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+III.- Contar con titulo de licenciado en derecho o carrera a fin;
 
 IV.- Ser de reconocida capacidad profesional y probidad;
 
@@ -409,7 +685,7 @@ VI.- Tener cinco años de experiencia en áreas relacionadas con la Seguridad P�
 
 VII.- Contar con residencia mínima en el estado de tres años, y
 
-VIII.- No ser miembro del Consejo Estatal de Seguridad Pública.
+VIII.- (DEROGADA, P.O. 30 DE JUNIO DE 2008)
 
 ###### ARTICULO 30.
 
@@ -429,13 +705,21 @@ V.- Coordinar el Servicio Civil de Carrera en materia de Seguridad Pública;
 
 VI.- Implementar y coordinar las medidas y acciones necesarias para hacer efectiva la interacción entre las Instituciones de Seguridad Pública integrantes del Consejo;
 
-VII.- En acuerdo con el Presidente del Consejo, designar y remover al personal de su estructura administrativa asignada;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+VII.- Proponer al Consejo la designación y remoción del personal de su estructura administrativa asignada;
 
 VIII.- Delegar atribuciones en sus coordinadores de área;
 
-IX.- Ejecutar las acciones necesarias para dar cumplimiento a las atribuciones del Consejo señaladas en el Artículo 23 de este ordenamiento; y
+IX.- Ejecutar las acciones necesarias para dar cumplimiento a las atribuciones del Consejo señaladas en el Artículo 23 de este ordenamiento; y (sic)
 
-X.- Las demás que le señala esta Ley, el Consejo, su Presidente, y demás ordenamientos que rijan la materia.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE JUNIO DE 2008)</small>
+
+X.- Convocar a las sesiones ordinarias del Consejo en los términos de esta Ley y su reglamento y a las extraordinarias según las instrucciones del Presidente del mismo o cuando exista algún asunto relevante que deba ser sometido a tal órgano colegiado; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XI.- Las demás que le señala esta Ley, el Consejo, su Presidente, y demás ordenamientos que rijan la materia.
 
 ### CAPITULO IV. De las Comisiones del Consejo Estatal de Seguridad Pública
 
@@ -479,9 +763,9 @@ III.- El Presidente de la Comisión de Seguridad Pública del Congreso del Estad
 
 IV.- El Procurador General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
-V.- El Secretario de Seguridad Pública del Estado;
+V.- El Secretario de Seguridad Pública del Estado, quien hará las funciones de Secretario Técnico del Gabinete;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
@@ -507,7 +791,7 @@ XI.- El Coordinador del Centro Estatal de Telecomunicaciones C-4;
 
 XII.- Los Representantes en el Estado de las Dependencias Federales que de conformidad con las leyes tengan atribuciones en materia de Seguridad Pública;
 
-XIII.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, quien hará las funciones de Secretario Técnico; y
+XIII.- (DEROGADA, P.O. 30 DE JUNIO DE 2008)
 
 XIV.- Aquellos funcionarios que a juicio del Presidente deban participar.
 
@@ -677,7 +961,9 @@ IV.- Establecer las estrategias operativas para la prevención del delito confor
 
 V.- Coordinar las acciones que en materia de seguridad pública y vialidad el titular del Poder Ejecutivo del Estado convenga con los municipios, las autoridades federales, y las de otras Entidades Federativas, a efecto de cumplir con las disposiciones legales y programas aplicables;
 
-VI.- (DEROGADA, P.O. 15 DE MAYO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2008)</small>
+
+VI.- Realizar las funciones de Secretaría Ejecutiva del Consejo;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -693,11 +979,21 @@ IX.- Ordenar anualmente, la publicación en el Periódico Oficial del Estado la 
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-X.- Celebrar Convenios de Coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos; y
+X.- Celebrar Convenios de Coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos; y (sic)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
 
-XI.- Las demás que le confieran la presente Ley y otros ordenamientos jurídicos.
+XI.- Solicitar auxilio, informes y documentación que se encuentre en posesión de otras autoridades de los distintos poderes de gobierno, para el cumplimiento de sus obligaciones y en estricto ejercicio de sus funciones, cuando proceda conforme a derecho;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XII.- Establecer los consejos, comités y unidades de coordinación, asesoría, apoyo técnico y control que requiera la Secretaria para su normal funcionamiento administrativo y operativo, así como comisionar al personal administrativo u operativo a su cargo para la realización de actos que encomiende;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XIII.- Examinar y evaluar por conducto del Centro de Control y Evaluación del Personal en coordinación con el Instituto y los Ayuntamientos, a toda persona que se desempeñe como administrativo u operativo vinculado con funciones de seguridad pública o que desempeñe su función, en alguna corporación de seguridad pública o privada en el Estado de Aguascalientes; y
+
+XIV.- Las demás que le confieran la presente Ley y otros ordenamientos jurídicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -803,9 +1099,11 @@ La Dirección General es la titular de la licencia oficial colectiva para portac
 
 La Dirección General dotará a todo el personal operativo registrado en la licencia oficial colectiva número treinta, con credencial que los identifique como personal de prevención del delito y en su caso, de vialidad y tránsito, en la cual se indicará la autorización para la portación de armas de fuego.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 58.
 
-Las credenciales serán de papel especial con textura gruesa y enmicadas, las mismas contendrán el nombre del usuario, grado jerárquico, fotografía cancelada con sello de la Dirección General, fecha de expedición, características del arma de fuego a resguardo, Corporación de Seguridad a la que pertenece y el ámbito territorial en la que podrá portarla; esta credencial tendrá una vigencia de un año y deberá refrendarse a su vencimiento.
+Las credenciales serán de papel especial, con textura gruesa y enmicadas, las mismas contendrán folio, el nombre del usuario, grado jerárquico, fotografía cancelada con sello de la Dirección General, fecha de expedición, características del arma de fuego a resguardo, corporación de seguridad a la que pertenece y el ámbito territorial en la que podrá portarla; esta credencial tendrá una vigencia de seis meses y deberá refrendarse a su vencimiento.
 
 La alteración de este documento o la portación del arma de fuego fuera de su ámbito territorial sin la autorización de la Dirección General o el oficio de comisión de su Corporación se sancionará conforme a la Ley Federal de Armas de Fuego y Control de Explosivos. Queda prohibido el uso de credenciales metálicas para tal efecto.
 
@@ -877,9 +1175,11 @@ Este sistema tendrá como finalidad establecer la infraestructura necesaria para
 
 ### CAPITULO II. Del Centro Estatal de Telecomunicaciones C-4
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 69.
 
-El Centro Estatal de Telecomunicaciones C-4 concentrará y administrará las redes locales de información y telecomunicaciones en Seguridad Pública, las estadísticas y los registros en la materia, y brindará el servicio telefónico de emergencia.
+El C-4 concentrará y administrará las redes locales de información y telecomunicaciones en Seguridad Pública, las estadísticas y los registros en la materia, y brindará los servicios telefónicos de emergencia, quedando adscrito administrativamente a la Secretaría.
 
 ###### ARTICULO 70.
 
@@ -887,7 +1187,9 @@ Son funciones del C-4:
 
 I.- Brindar un continuo apoyo a la comunidad a través de mecanismos de comunicación para el reporte y atención inmediata de llamadas de emergencia a través de una red estatal y nacional de telecomunicaciones;
 
-II.- Atender las emergencias de la ciudadanía en materia de Seguridad Pública, Protección Civil y atención prehospitalaria mediante el servicio telefónico de emergencia 066;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+II.- Atender las emergencias de la ciudadanía en materia de seguridad pública, protección civil y atención prehospitalaria, mediante los servicios telefónicos de emergencia y de denuncia anónima;
 
 III.- Realizar los procedimientos de monitoreo y registro en tiempo real de los acontecimientos e incidentes relacionados con la alteración del orden público y paz social, así como de contingencias producidas por fenómenos naturales;
 
@@ -897,13 +1199,25 @@ V.- Mantener coordinación con Dependencias de Seguridad Pública de los tres ni
 
 VI.- Elaborar, con la participación de los tres niveles de gobierno, los lineamientos de coordinación interinstitucional táctico-operativos para la incorporación de las Instituciones involucradas en el Sistema Estatal de Información, Telecomunicaciones en Seguridad Pública y Servicios de Atención a la Ciudadanía;
 
-VII.- Recopilar información sobre los procedimientos generales y particulares de operación y seguridad de cada una de las instituciones y entidades que integran el Sistema Estatal de Seguridad Pública, Sistema Nacional de Seguridad Pública y grupos de apoyo con el fin de facilitar la coordinación entre las mismas;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+VII.- Recopilar información sobre los procedimientos generales y particulares de operación y seguridad de cada una de las instituciones y entidades que integran el Sistema Estatal de Seguridad Pública, Sistema Nacional de Seguridad Pública y grupos de apoyo con el fin de facilitar la coordinación entre las mismas y llevar los registros de información a que se refiere el Artículo 71 de esta Ley, sin perjuicio de los demás registros que instrumenten otras autoridades;
 
 VIII.- Mantener comunicación constante a través de la Red Nacional de Telecomunicaciones, con los centros homólogos en todo el país, con la finalidad de facilitar la coordinación de acciones y operativos en el ámbito nacional;
 
-IX.- Proporcionar a las diferentes Instituciones de Seguridad Pública en el Estado el acceso a las bases de datos contenidas en los registros estatales y del Sistema Nacional de Información en Seguridad Pública; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
-X.- Procesar la información a fin de que cualquier Institución de Seguridad Pública o el Consejo realicen la planeación y definición de estrategias.
+IX.- Proporcionar a las diferentes Instituciones de Seguridad Pública en el Estado y de los Municipios, el acceso a las bases de datos contenidas en los registros estatales y del Sistema Nacional de Información en Seguridad Pública;
+
+X.- Procesar la información a fin de que cualquier Institución de Seguridad Pública o el Consejo realicen la planeación y definición de estrategias;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XI.- Auxiliar al Consejo; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XII.- Las demás que determine el Secretario de Seguridad Pública del Estado de Aguascalientes.
 
 Estas funciones bajo ninguna circunstancia suplen ni limitan las atribuciones de las distintas Instituciones de los tres niveles de gobierno.
 
@@ -1097,6 +1411,128 @@ El Instituto presentará anualmente al Consejo el Programa General de Profesiona
 
 Para fortalecer la profesionalización del personal de las Instituciones de Seguridad Pública, se establece el Servicio Civil de Carrera de conformidad a lo dispuesto en la Ley de la materia y sus reglamentos.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 A.- Los elementos de seguridad pública que presten sus servicios en las Corporaciones de Seguridad y Auxiliares del Estado y de los Municipios, deberán incorporarse al servicio civil de carrera, en la forma y términos que establece esta Ley, la Ley del Servicio Civil de Carrera y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 B.- El servicio civil de carrera para los elementos de las Corporaciones de Seguridad, es el proceso de selección, capacitación y profesionalización de tales elementos, para lograr una auténtica carrera dentro del servicio público, optimizando los recursos humanos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 C.- El Consejo, supervisará el servicio civil de carrera de los elementos pertenecientes a las Corporaciones de Seguridad adscritas a las diversas Corporaciones de Seguridad en el Estado y la Secretaría Ejecutiva del Consejo, coordinará el servicio civil de carrera en materia de seguridad pública de los mismos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 D.- La incorporación, implementación y seguimiento del servicio civil de carrera, se llevará a cabo mediante los exámenes, cursos, seminarios, evaluaciones y actividades necesarias, que aplicarán el Instituto, la Secretaría y las áreas respectivas de los Municipios, por medio de sus unidades administrativas, cuyos resultados servirán para determinar el grado de capacitación que requiere el elemento, si conserva los requisitos para permanecer en la corporación de que se trate o el nivel de profesionalización del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 E.- Para los elementos que ingresen a laborar en las Corporaciones de Seguridad, el servicio civil de carrera, iniciará a partir de su contratación y/o aprobación.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 F.- Sin perjuicio de las disposiciones que establece esta Ley, la Ley Orgánica del Instituto Estatal de Seguridad Pública y sus reglamentos internos, el personal perteneciente a las Corporaciones de Seguridad en el Estado, gozarán de los beneficios de la Ley del Servicio Civil de Carrera.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 G.- El reclutamiento, selección, ingreso, formación, actualización, profesionalización, especialización y promoción del personal de las Corporaciones de Seguridad en el Estado, se llevará a cabo con la participación del Instituto y de las propias corporaciones a las que habrán de adscribirse o pertenezcan los citados elementos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 H.- El servicio civil de carrera para todos los elementos operativos de las Corporaciones de Seguridad en el Estado, será desarrollado con base en los Procedimientos de los Subsistemas del Servicio Nacional de Carrera de la Policía Preventiva del Sistema Nacional de Seguridad Pública, en lo que no se oponga a las leyes estatales.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 I.- El servicio civil de carrera para el personal operativo de las Corporaciones de Seguridad en el Estado, se dividirá en las siguientes etapas y procedimientos:
+
+I.- La etapa para aspirantes se integra por los siguientes procedimientos:
+
+a. Planeación;
+
+b. Reclutamiento;
+
+c. Selección; y
+
+d. Formación Inicial.
+
+II.- La etapa de ingreso se integra por los siguientes procedimientos:
+
+a. Contratación;
+
+b. Inducción;
+
+c. Capacitación o formación continua y especializada;
+
+d. Evaluación del desempeño o evaluación para la permanencia;
+
+e. Desarrollo y promoción;
+
+f. Estímulos y recompensas; y
+
+g. Procedimiento disciplinario.
+
+III.- La etapa de separación y retiro.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 J.- El procedimiento de planeación, implicará la determinación de las necesidades cuantitativas y cualitativas del personal que requieren los cuerpos de seguridad, así como su plan de carrera para el eficiente ejercicio de sus funciones, estableciendo los diferentes procedimientos, a través de los cuales cada uno de los procesos referidos en el Artículo anterior determinen sus necesidades integrales.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 K.- El procedimiento de reclutamiento, deberá permitir atraer al mayor número de aspirantes idóneos que cubran el perfil del puesto y demás requisitos para la ocupación de una plaza vacante o de nueva creación, a través de fuentes internas y externas, a efecto de establecer la integración del primer nivel o grado de la corporación de que se trate, con la finalidad de seleccionar, capacitar y evitar la deserción de los elementos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 L.- El procedimiento de selección de aspirantes deberá permitir elegir, de entre quienes hayan cubierto los requisitos del procedimiento de reclutamiento a los que mejor cubran el perfil para el puesto en cuestión, determinando si el aspirante cumple con los conocimientos, habilidades, destrezas, competencias, actitudes y aptitudes psicológicas, físicas, intelectuales y de conocimientos, conforme al puesto a cubrir mediante la aplicación de diversas evaluaciones, a efecto de preservar los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 M.- Las evaluaciones a que se refiere el Artículo anterior, como mínimo deberán ser en toxicología, médica, conocimientos generales y habilidades intelectuales básicas, estudio de personalidad, estudio de capacidad física, atlética, confianza, patrimonial y de entorno social.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 N.- El procedimiento de formación inicial, es el conjunto de actividades académicas encaminadas a lograr el óptimo desempeño de sus funciones en acuerdo con el perfil del puesto, a través de educación que permita a los elementos la adquisición de conocimientos y el desarrollo de habilidades, destrezas y actitudes que en congruencia con el perfil del puesto, les permitan garantizar los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 Ñ.- La etapa de ingreso, implicará la formalización de la relación jurídica administrativa entre el elemento y la corporación de que se trate, mediante la expedición del nombramiento y la rendición de la protesta correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 O.- El procedimiento de capacitación y formación continua y especializada, es el que deberá lograr la actualización y perfeccionamiento de conocimientos, habilidades, destrezas, competencias, aptitudes y actitudes para el óptimo desempeño de sus funciones, con la finalidad de responder adecuadamente a la demanda social de preservar la seguridad pública, garantizando los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez. El Instituto y la Secretaría, serán las entidades responsables directas de estos procedimientos.
+
+Podrán celebrarse convenios con instituciones educativas, centros de investigación y organismos públicos o privados para poder complementar los procedimientos a que se refiere este Artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 P.- Los procedimientos de evaluación del desempeño y evaluación para la permanencia, deberán permitir evaluar tanto de manera individual, como colectiva, los aspectos cualitativos y cuantitativos de la actuación del elemento, considerando su conocimiento, cumplimiento de funciones y metas en función de las habilidades, aptitudes, actitudes, capacidades, formación impartida, rendimiento profesional y su adecuación al puesto, mediante evaluaciones de desempeño, las cuales serán obligatorias y periódicas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 Q.- Las evaluaciones a que se refiere el Artículo inmediato anterior, comprenderán cuando menos los exámenes toxicológico, médico, conocimientos básicos de la función policial, estudio de personalidad, habilidades psicomotrices de la función policial y patrimonial, confianza y de entorno social.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 R.- El procedimiento de desarrollo y promoción, es el que permitirá que elementos activos puedan ocupar plazas vacantes o de nueva creación de mayor responsabilidad, nivel de remuneración, categoría, jerarquía o grado, inmediato superior en el escalafón jerárquico, mediante las evaluaciones correspondientes preservando el principio del mérito y el de igualdad de oportunidades, mediante el desarrollo, promoción y los ascensos de los elementos, consolidando los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 S.- El procedimiento de estímulos y recompensas, es el que busca dotar a los elementos, en ocasiones específicas, cuando hayan cumplido con los requisitos que señala esta Ley o en acciones destacadas, de un incentivo adicional en los términos de este ordenamiento con la finalidad de fomentar la calidad, efectividad, lealtad e incrementar las posibilidades de promoción entre los elementos, mediante el reconocimiento de sus méritos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 T.- El procedimiento disciplinario, es el que tiende a aplicar las sanciones a que se haga acreedor el elemento que transgreda los principios de actuación a que se encuentran sujetos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 U.- La etapa de separación y retiro, es la que prevé los procedimientos mediante los cuales cesan los efectos de los nombramientos, dándose por terminada la relación jurídica definitivamente entre el elemento y el Estado o Municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 100 V.- La etapa de separación y retiro por causas ordinarias o extraordinarias, será regulada en los términos de esta Ley y de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, en lo que no se oponga a la primera.
+
 ## TITULO SEPTIMO. DE LAS BASES Y LINEAMIENTOS GENERALES DE LAS CORPORACIONES DE SEGURIDAD PUBLICA
 
 ### CAPITULO I. De los Principios de Actuación
@@ -1165,49 +1601,89 @@ XXVII.- Estudiar, conocer y respetar esta Ley, sus reglamentos y demás leyes ap
 
 ### CAPITULO II. Condecoraciones, Estímulos y Recompensas
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 103.
 
-El personal de Seguridad Pública se hará acreedor por su desempeño en el servicio a las siguientes condecoraciones a juicio de la Comisión de Honor y Justicia que corresponda en acuerdo con los ámbitos de competencia:
+El Personal de Seguridad Pública, se hará acreedor por su desempeño en el servicio a las siguientes condecoraciones a juicio de la Comisión de Honor y Justicia que corresponda, en acuerdo con los ámbitos de competencia:
 
-I.- Al Valor;
+I. Al Valor;
 
-II.- A la Perseverancia;
+II. A la Perseverancia; y
 
-III.- Al Mérito; y
+III. Al Mérito.
 
-IV.- Las demás que las Instituciones de Seguridad Pública consideren otorgar por otros merecimientos en el desempeño de sus funciones.
+Las demás que las Instituciones de Seguridad Pública consideren otorgar por otros merecimientos en el desempeño de sus funciones.
 
-Las condecoraciones a que se refieren las fracciones antes señaladas podrán otorgarse postmortem.
+Las condecoraciones a que se refieren las Fracciones antes señaladas, podrán otorgarse postmortem.
+
+Los estímulos y recompensas se otorgarán al personal, tomando además en cuenta su trayectoria, por lo que se valorará también que el prospecto se haya distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficiencia en el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 104.
 
-La Condecoración al Valor consiste en medalla y diploma que se otorgará a quien salve la vida de una o varias personas o realice funciones encomendadas que impliquen grave riesgo para su vida o salud.
+La condecoración, estímulo y recompensa al Valor, consiste en medalla, diploma, prestación económica y reconocimiento público, que se otorgará a quien salve la vida de una o varias personas o realice funciones encomendadas que impliquen grave riesgo para su vida o salud.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 105.
 
-La Condecoración a la Perseverancia consiste en medalla y diploma que se otorgará al personal que haya mantenido un expediente ejemplar y cumpla 5, 10, 15, 20, 25 y 30 años ininterrumpidos de servicio en la Institución.
+La condecoración a la Perseverancia, consiste en medalla, diploma, prestación económica y reconocimiento público que se otorgará al personal que haya mantenido un expediente ejemplar y cumpla 5, 10, 15, 20, 25 y 30 años ininterrumpidos de servicio en la Institución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 106.
 
-La Condecoración al Mérito se otorgará en los siguientes casos:
+La condecoración, estímulo y recompensa al Mérito, se otorgará en los siguientes casos:
 
 I.- Al Mérito Tecnológico, cuando se invente, diseñe o mejore algún instrumento, aparato, sistema o método de utilidad en beneficio de la Seguridad Pública, del Estado o el País;
 
-II.- Al Mérito Ejemplar, cuando se sobresalga en alguna disciplina científica, cultural o artística o deportiva que enaltezca el prestigio y la dignidad de la Seguridad Pública; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+II. Al Mérito ejemplar, cuando se sobresalga en alguna disciplina científica, cultural, artística o deportiva, que enaltezca el prestigio y la dignidad de la Seguridad Pública; y
 
 III.- Al Mérito Social, cuando se distinga particularmente en la prestación de servicios en favor de la comunidad, que mejoren la imagen de las Instituciones de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+Las condecoraciones referidas, consistirán en medalla, diploma, reconocimiento público y prestación económica, la cual estará sujeta a los presupuestos anuales de egresos estatales y municipales autorizados por el H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 107.
 
-El personal que haya recibido alguna de las condecoraciones a que se refiere este capítulo podrá formar parte de la Comisión de Honor y Justicia respectiva.
+Cada año en el mes de octubre, las áreas de Asuntos Internos de las Corporaciones de Seguridad, presentarán ante las comisiones de Honor y Justicia respectivas los expedientes con las investigaciones realizadas, para el otorgamiento de condecoraciones, estímulos y recompensas, en los casos del personal que pudiere ser acreedor a ellas, estando obligada la Comisión de Honor y Justicia a desahogar el procedimiento y resolver lo conducente en un término de 30 días hábiles.
+
+Las investigaciones de las áreas de Asuntos Internos comenzarán de oficio, o a petición del interesado o de sus familiares.
+
+El procedimiento señalado anteriormente, deberá seguirse en cualquier momento, tratándose del otorgamiento de una condecoración, estímulo y recompensa que merezca un elemento en el supuesto de "al Valor".
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 108.
 
-Los estímulos y recompensas se otorgarán al personal que se haya distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficiencia en el desempeño de sus funciones.
+Las recompensas consistentes en prestación económica, se otorgarán bajo los siguientes parámetros, debiéndose contemplar una partida especial en los presupuestos anuales de egresos de la Secretaría, de la Procuraduría y de los Municipios, para estos efectos:
+
+I. AI Valor de 50 a 250 días de salario mínimo vigente en el Estado, en una sola exhibición;
+
+II. A la Perseverancia de 25 a 125 días de salario mínimo vigente en el Estado, en una sola exhibición, por cada cinco años de servicio ininterrumpidos en la corporación a la que pertenezcan y siempre y cuando haya mantenido un expediente limpio y ejemplar, a juicio de la Comisión de Honor y Justicia;
+
+III. Al Mérito de 75 a 125 días de salario mínimo vigente en el Estado, en una sola exhibición;
+
+IV. Distinción por asistencia, puntualidad, buena conducta, disposición y eficiencia en el desempeño de sus funciones de 15 a 25 días de salario mínimo vigente en el Estado, la cual procederá sólo en el caso de que haya mantenido un expediente limpio y ejemplar a juicio de la Comisión de Honor y Justicia.
+
+Las comisiones de Honor y Justicia dentro de los parámetros antes establecidos y según el caso concreto, decidirá la recompensa que recibirán los elementos en cada caso siendo facultad discrecional de tal entidad, el determinar el monto de las mismas, sin que en contra de su resolución proceda recurso alguno.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 109.
 
-Los reglamentos internos de las Instituciones determinarán las fechas en que se habrán de otorgar los estímulos y recompensas a que se refiere el presente capítulo.
+El reconocimiento público consistirá en la publicación por una sola ocasión, de una nota en un diario de mayor circulación, en donde brevemente se reconozca al elemento acreedor a la condecoración, estímulo y recompensa; nota que deberá explicar el motivo y publicar una pequeña foto del referido, previa autorización escrita del elemento.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 109 A.- El personal que haya recibido alguna de las condecoraciones descritas en el Artículo anterior, podrá formar parte de la Comisión de Honor y de Justicia respectiva.
 
 ### CAPITULO III. De los Derechos del Personal de las Corporaciones de Seguridad Pública
 
@@ -1217,7 +1693,21 @@ Sin perjuicio de lo previsto en los ordenamientos de carácter laboral y de segu
 
 I.- Percibir un salario digno y remunerador acorde con las características del servicio;
 
-II.- Las prestaciones y servicios de seguridad social establecidos en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, así como sus familiares o dependientes económicos que sean registrados;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+II.- Que el Estado o los Municipios cubran las aportaciones que fijen las leyes especiales para que los elementos, personal administrativo, sus familiares y dependientes económicos registrados, reciban los beneficios de la seguridad social y servicios sociales comprendidos en los conceptos enseguida señalados, en términos de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes:
+
+a. Atención médica, quirúrgica, farmacéutica, hospitalaria, y en su caso, indemnizaciones por accidentes en el servicio y enfermedades profesionales;
+
+b. Atención médica, quirúrgica, farmacéutica y hospitalaria, en los casos de enfermedades no profesionales y maternidad;
+
+c. Jubilación y pensión por invalidez, vejez o muerte;
+
+d. Asistencia médica y medicinas para los familiares de los elementos.
+
+La cual se dará a través de las instituciones de salud y de seguridad social que correspondan; y
+
+e. Establecimiento de guarderías infantiles;
 
 III.- Recibir un trato digno por parte de sus superiores jerárquicos, iguales y subalternos;
 
@@ -1231,7 +1721,9 @@ VII.- Participar en los concursos de promoción, o someterse a evaluación curri
 
 VIII.- Recibir condecoraciones, estímulos o recompensas de conformidad con lo establecido en el presente ordenamiento;
 
-IX.- Que se le respete su jornada de trabajo establecida, en el reglamento de cada Corporación, salvo situaciones de emergencia o por necesidades del servicio;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+IX.- Que se le respete su jornada de trabajo establecida de acuerdo a esta Ley, en el reglamento de cada corporación o de acuerdo a lo que hayan determinado los mandos, salvo situaciones de emergencia o por necesidades del servicio;
 
 X.- Disfrutar de prestaciones y compensaciones que establecen las leyes que relativas a la materia y los reglamentos internos de las Corporaciones;
 
@@ -1269,7 +1761,13 @@ VI.- Rescisión o destitución: Es la separación del elemento al cargo de acuer
 
 En todos los casos que se señalan en el presente artículo los correctivos disciplinarios que se impongan a los elementos de las Corporaciones, deberán constar por escrito y estar debidamente fundados y motivados.
 
-Los titulares de las Corporaciones informarán a la Comisión de Honor y Justicia respectiva sobre los correctivos disciplinarios que impongan, dentro de los tres días hábiles siguientes a su aplicación, exponiendo las causas que lo motivaron.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+Los mandos de las corporaciones informarán a las comisiones de Honor y Justicia respectivas sobre los correctivos disciplinarios que impongan, dentro de los tres días hábiles siguientes a su aplicación, exponiendo las causas que lo motivaron.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+Será valida la imposición simultánea de más de un correctivo disciplinario por la misma conducta siempre y cuando se haga en una misma resolución y derivada de un mismo procedimiento administrativo. La destitución impuesta como correctivo disciplinario, implica la pérdida simultánea de grado a excepción de la destitución por pérdida de la confianza, ya que en este supuesto el elemento conservará su grado jerárquico.
 
 ###### ARTICULO 113.
 
@@ -1327,11 +1825,15 @@ III.- Por falta grave a los Principios de Actuación previstos en el Artículo 1
 
 IV.- Incurrir en faltas de probidad y honradez durante el servicio;
 
-V.- Portar el arma de cargo fuera de servicio;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+V.- Portar el arma de cargo fuera de servicio, salvo autorización escrita del titular de la corporación de seguridad pública de que se trate;
 
 VI.- Poner en peligro a los particulares a causa de imprudencia, descuido, negligencia, o abandono del servicio;
 
-VII.- Presentarse a sus labores en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas y estupefacientes o por consumirlas durante el servicio o en su centro de trabajo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+VII.- Presentarse a sus labores en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas y estupefacientes o por consumir sustancias prohibidas;
 
 VIII.- Desacato injustificado a las órdenes de sus superiores;
 
@@ -1347,37 +1849,87 @@ XIII.- Obligar a sus subalternos a entregarle dinero o cualquier otro tipo de d�
 
 XIV.- Usar armamento y equipo de procedencia o estancia ilegal o carente de registro;
 
-XV.- Utilizar equipo y armamento para fin distinto a la función pública encomendada; y
+XV.- Utilizar equipo y armamento para fin distinto a la función pública encomendada; y (sic)
 
-XVI.- Negarse a la realización de pruebas médicas o de laboratorio, para evaluar su condición física o detección de consumo de drogas.
+XVI.- Negarse a la realización de pruebas médicas o de laboratorio, para evaluar su condición física o detección de consumo de drogas;
 
-El cambio de mandos superiores o de autoridades de elección popular no será causa, bajo ninguna circunstancia, de destitución para ningún elemento de Seguridad Pública, salvo lo establecido en el Artículo 4o. de la presente Ley.
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XVII.- Negarse a someterse a las evaluaciones que determine el Centro de Control y Evaluación del Personal de la Secretaría, de la Procuraduría, el Instituto o la del Ayuntamiento respectivo o las que designe el mando;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XVIII.- Denigrar o atacar a la Secretaría o a cualquiera de sus dependencias, a la Procuraduría, o a las dependencias que en los municipios hagan las funciones de seguridad pública, con comentarios públicos, boletines, comunicados o actos que perjudiquen su imagen; o por
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XIX.- La pérdida de la confianza.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+El cambio de mandos superiores o de autoridades de elección popular no será causa por sí misma, bajo ninguna circunstancia, de destitución para ningún elemento de Seguridad Pública, salvo lo establecido en el Artículo 4° de la presente Ley.
 
 Las Corporaciones de Seguridad elaborarán un registro de los elementos que hayan sido destituidos, especificando además la causa de la destitución.
 
 ### CAPITULO IV. De las Comisiones de Honor y Justicia
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 120.
 
-En cada Corporación de Seguridad Pública habrá una Comisión de Honor y Justicia, su integración y operación será conforme al reglamento que la autoridad correspondiente dicte. Como órgano colegiado será competente para:
+En cada corporación de seguridad pública, habrá una Comisión de Honor y Justicia, su integración y operación será conforme al reglamento que la autoridad correspondiente dicte y estará integrada como mínimo a nivel estatal por el titular de la corporación de seguridad a la que pertenezca el elemento infractor, un representante de la Contraloría General del Estado, por el titular de la Dirección General Jurídica de la dependencia que corresponda, por el titular de la Dirección General Administrativa de la dependencia que corresponda y por un elemento sin mando de la corporación a la que pertenezca.
 
-I.- Conocer, proponer y resolver sobre las faltas graves en que incurran los elementos policiales a los principios de actuación previstos en la presente Ley, así como las normas disciplinarias de cada uno de las Corporaciones de Seguridad;
+A nivel municipal, se integrará por el titular de la corporación de seguridad a la que pertenezca el elemento infractor, un representante de la Contraloría Municipal o de la dependencia que realice esa función, por el titular del área jurídica de la corporación de seguridad pública a la que pertenezca, por un elemento sin mando de la corporación de seguridad a la que pertenezca el infractor y por el titular de la dependencia municipal de que se trate que controle los recursos humanos.
 
-II.- Resolver sobre la suspensión temporal y la destitución de los elementos; y
+Se podrán establecer en los reglamentos, un mayor número de integrantes y un régimen de suplencias.
 
-III.- Otorgar condecoraciones, estímulos y recompensas, a que se hagan acreedores los elementos de su Corporación;
+Las comisiones de Honor y Justicia, serán órganos competentes para:
+
+I. Conocer, promover y resolver sobre las faltas graves en que incurran los elementos policiales a los principios de actuación previstos en la presente Ley, así como las normas disciplinarias de cada una de las Corporaciones de Seguridad;
+
+II. Resolver sobre la pérdida de grado, suspensión temporal y la destitución de los elementos; y
+
+III. Otorgar condecoraciones, estímulos y recompensas, a que se hagan acreedores los elementos de su corporación.
+
+El resto de los correctivos disciplinarios que prevea esta Ley, podrán ser impuestos por los funcionarios con mando dentro de las corporaciones de conformidad con sus reglamentos internos.
 
 ###### ARTICULO 121.
 
 Las Comisiones de Honor y Justicia velarán por la honorabilidad y reputación de las Corporaciones de Seguridad y sancionarán las conductas lesivas del personal que afecten a la comunidad o la Corporación. Para tal efecto gozarán de las más amplias facultades para examinar los expedientes u hojas de servicio de los elementos a fin de practicar las diligencias que le permitan allegarse de las pruebas necesarias para dictar su resolución.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+ARTICULO 121 A.- Las comisiones de Honor y Justicia de las diversas Corporaciones de Seguridad, se auxiliarán para sus investigaciones de un departamento de asuntos internos, al cual le corresponderá las funciones que se establezcan en los reglamentos respectivos y las cuales al menos deberán de ser:
+
+I. Realizar las investigaciones correspondientes con motivo de las quejas, denuncias o señalamientos de servidores públicos o particulares relativos al desempeño de los elementos de seguridad pública;
+
+II. Recibir las quejas que imputen a algún elemento de la Corporación de Seguridad que corresponda, por la presunta comisión de una infracción a los principios de actuación o a las obligaciones de los servidores públicos;
+
+III. Denunciar ante la Comisión de Honor y Justicia, las presuntas comisiones de faltas o infracciones a los principios de actuación de los elementos;
+
+IV. Hacer suyas y ratificar las denuncias o quejas interpuestas por particulares cuando éstos no lo hagan en el término de Ley;
+
+V. Realizar las investigaciones que considere necesarias para el cumplimiento de sus funciones y recabar mediante actas administrativas las declaraciones de testigos y presuntos infractores como parte del material probatorio que debe aportar a la Comisión de Honor y Justicia, las cuales deberán de ser ratificadas ante la Comisión;
+
+VI. Ofrecer pruebas de cargo ante la Comisión de Honor y Justicia;
+
+VII. Someterse obligatoriamente el titular y el resto del personal de esa área a las evaluaciones de cualquier tipo que determine el Centro de Control y la Evaluación de la Secretaría o cuando lo determine el titular de la corporación de que se trate, al menos cada veinticuatro meses;
+
+VIII. Acatar las instrucciones de la Comisión de Honor y Justicia en la substanciación de los procedimientos; y
+
+IX. Las demás que le confiera el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### ARTICULO 122.
 
-En todo asunto que deban conocer las Comisiones de Honor y Justicia, se abrirá un expediente con las constancias que existan sobre el particular y se sujetará en lo conducente al procedimiento administrativo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+En todo asunto que deban conocer las comisiones de Honor y Justicia, se abrirá un expediente con las constancias que existan sobre el particular y se sujetará en lo conducente al procedimiento administrativo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, en la parte sustantiva y en supletoriedad procesal del anterior ordenamiento a la Legislación Penal para el Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 123.
 
-Las resoluciones de las Comisiones de Honor y Justicia serán definitivas y se agregarán a los expedientes u hojas de servicio de los elementos de las Corporaciones de Seguridad.
+Las resoluciones de las comisiones de Honor y Justicia, serán definitivas e irrecurribles y se agregarán a los expedientes u hojas de servicio de los elementos de las Corporaciones de Seguridad, se notificarán, al Sistema Nacional de Seguridad Pública, por conducto del C-4, a la Contraloría General del Estado o a las contralorías municipales o dependencias que hagan esas funciones.
 
 ARTICULOS TRANSITORIOS:
 
@@ -1482,3 +2034,29 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 TERCERO.- Los reglamentos y demás disposiciones complementarias que se refieran a las disposiciones de la presente Ley, deberán ser modificados en un plazo no mayor de sesenta días posteriores a la entrada en vigencia de la misma.
 
 CUARTO.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, deberá ser nombrado en un plazo no mayor a sesenta días contados a partir de la publicación del presente decreto. En tanto se nombra, continuará el Secretario de Seguridad Pública, ejerciendo las funciones del Secretario Ejecutivo.
+
+P.O. 30 DE JUNIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los reglamentos correspondientes deberán de ser reformados o creados en un lapso no mayor de ciento ochenta días a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las Investigaciones internas o procesos vigentes en contra de elementos operativos por faltas a los principios de actuación a que están sometidos, se concluirán de conformidad a la normatividad vigente al momento que éstos iniciaron.
+
+###### ARTÍCULO QUINTO.
+
+Las autorizaciones para la portación de armas de fuego expedidas por autoridad competente conforme a la Ley, vigentes y que prevean una vigencia mayor a la señalada en esta reforma, deberán ser renovadas al momento de que éstas cumplan una vigencia de seis meses a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los nombramientos de funcionarios y elementos que hayan sido realizados con anterioridad al presente Decreto serán validos y legales, hasta en tanto el encargado de realizarlos, no estime oportuno formalizar uno diferente en apego a los requisitos que el presente Decreto impone.
