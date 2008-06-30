@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2008-06-16"
+last_updated: "2008-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -685,11 +685,33 @@ II. Obtener del deudor o sus garantes, al celebrar un acto jurídico accesorio d
 
 AL responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+###### Articulo 49.
 
 La Extorsión consiste en la obtención de un lucro para sí o para otro, causando un perjuicio patrimonial a la víctima, al obligarlo, sin derecho, mediante uso de la fuerza física o moral, a hacer, tolerar o dejar de hacer algo.
 
-Al responsable de Extorsión se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Extorsión se le aplicarán de:
+
+I. 4 a 10 años de prisión y de 50 a 350 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados;
+
+II. 7 a 13 años de prisión y de 75 a 400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si se comete:
+
+a) En contra de adulto mayor de sesenta años de edad;
+
+b) Utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica; o
+
+c) Desde un Centro de Reeducación Social independientemente de la pena por la que se encuentre recluido.
+
+III. 10 a 16 años de prisión y de 125 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si se realiza por:
+
+a) Una asociación delictuosa;
+
+b) Servidor público o ex servidor público; o
+
+c) Miembro o ex miembro de algún cuerpo policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado.
+
+En su caso, si procede se hará la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cualquier cargo como servidor público.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -5378,3 +5400,9 @@ P.O. 16 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
