@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-la-ninez-y-la-adolescencia-del-19740"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-05"
-last_updated: "2005-08-08"
+last_updated: "2008-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCION DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 5 de febrero de 2001.
 
@@ -77,9 +77,11 @@ IV. La correlación entre el interés individual y el social.
 
 Las autoridades administrativas o judiciales que adopten alguna decisión referente a las personas a que se refiere esta Ley, al apreciar la situación en que se encuentra, deben considerar, además de lo dispuesto en los artículos anteriores, los usos y costumbres propios del medio sociocultural en que se desenvuelve habitualmente, siempre que no contravengan a la presente Ley y los derechos humanos.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### Artículo 7o.
 
-La obligación de procurar el desarrollo integral de las personas a que se refiere esta Ley, corresponde en forma primordial a quienes ejerzan la patria potestad o tutores; y en su defecto el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes garantizará el respeto por el interés superior de estas personas en toda decisión pública o privada a través de la Procuraduría de la Defensa del Menor y la Familia.
+La obligación de procurar el desarrollo integral de las personas a que se refiere esta Ley, corresponde en forma primordial a quienes ejerzan la patria potestad o tutores, a los familiares sin límite de grado en línea directa y hasta el cuarto grado en línea colateral; y en su defecto el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, garantizará el respeto por el interés superior de estas personas en toda decisión pública o privada, a través de la Procuraduría de la Defensa del Menor y la Familia.
 
 ###### Artículo 8o.
 
@@ -87,7 +89,9 @@ Las disposiciones contenidas en la presente Ley se aplicarán e interpretarán d
 
 I. La Constitución Política de los Estados Unidos Mexicanos;
 
-II. La Convención sobre los Derechos del Niño;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+II. Los Tratados Internacionales y las Convenciones sobre los Derechos de los Niños;
 
 III. La Constitución Política del Estado de Aguascalientes;
 
@@ -101,9 +105,11 @@ VII. Los principios generales de Derecho.
 
 ### CAPITULO II. Derechos y Libertades Fundamentales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+
 ###### Artículo 9o.
 
-Las personas a que se refiere esta Ley, gozarán de todos los derechos inherentes a la persona y de los específicos relacionados con su desarrollo, que son de manera enunciativa mas no limitativa, los siguientes:
+Las personas a que se refiere esta Ley, gozarán de todos los derechos inherentes a la persona y de los específicos relacionados con su desarrollo, que son de manera enunciativa más no limitativa, los siguientes:
 
 A). A la vida, integridad y dignidad:
 
@@ -153,15 +159,25 @@ IV. A ser protegidos y orientados contra el consumo de drogas, estupefacientes, 
 
 V. A la salud y a los servicios integrales para la prevención, el tratamiento de enfermedades, su atención y rehabilitación.
 
-D). A la educación, recreación, información y participación:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+
+D). A la educación, recreación, información, participación y descanso:
 
 I. A expresar su opinión libremente, conocer sus derechos y a ser escuchados en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social;
 
 II. A ser tomados en cuenta para cualquier acto relacionado con su vida personal y social;
 
-III. De asociarse y reunirse; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
-IV. A recibir información adecuada a sus etapas de crecimiento, que promueva su bienestar social, así como su salud biopsicosocial y sexual enalteciendo los valores de paz, equidad, democracia, solidaridad, libertad, justicia, respeto y tolerancia.
+III. De asociarse y reunirse;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+IV. A recibir información adecuada a sus etapas de crecimiento, que promueva su bienestar social, así como su salud biopsicosocial y sexual enalteciendo los valores de paz, equidad, democracia, solidaridad, libertad, justicia, respeto y tolerancia; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+V. El descanso es una garantía que debe tutelar el Estado.
 
 E). A la asistencia social:
 
@@ -364,6 +380,16 @@ Las personas mayores de catorce años y menores de dieciséis que laboren, de co
 ###### Artículo 42.
 
 Las personas con un potencial intelectual superior al normal o con algún grado de discapacidad, tendrán el derecho de recibir atención especial en los centros educativos, para adecuar los métodos de enseñanza a sus necesidades particulares.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+
+###### Artículo 42 Bis.
+
+El Gobierno del Estado y los Ayuntamientos, propiciarán junto con las organizaciones públicas e instituciones privadas y sociales, programas dirigidos a los menores para la prevención de la discapacidad, a la rehabilitación, a su integración familiar, educativa y social así como a la creación de talleres para su capacitación en el ámbito laboral, recreación y participación en el deporte y demás medios dirigidos a su rehabilitación integral.
+
+El Gobierno del Estado en coordinación con las Dependencias e Instituciones Especializadas en la materia, implementarán las acciones encaminadas a la protección y cuidado de las niñas, los niños y los adolescentes discapacitados.
+
+Los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
 
 ###### Artículo 43.
 
@@ -908,3 +934,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 30 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
