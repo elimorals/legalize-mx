@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2007-12-31"
+last_updated: "2008-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -1055,11 +1055,21 @@ XI.- La alimentación y habitación, cuando se otorguen con cargo al salario del
 
 XII.- Las prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo o deportivos, festejos de convivios, becas para los trabajadores o sus familiares;
 
-XIII.- Primas de seguros por gastos médicos o de vida; y (sic)
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XIII.- Primas de seguros por gastos médicos o de vida;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 XIV.- Las despensas en dinero o en especie, cuando representen más del 40% del salario mínimo general vigente en el Estado;
 
-XV.- Instrumentos y materiales necesarios para la ejecución de trabajo.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XV.- Instrumentos y materiales necesarios para la ejecución del trabajo; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
+XVI.- Remuneraciones a favor de trabajadores con discapacidad, siempre que el salario del trabajador no sea mayor a cinco veces el salario mínimo general vigente en el Estado; en su caso se exentará sólo sobre dicha cantidad.
 
 Para que los conceptos mencionados en este precepto, se excluyan como integrantes de la base del Impuesto sobre Nóminas, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
 
@@ -1504,6 +1514,12 @@ P.O. 31 DE DICIEMBRE DE 2006.
 La presente reforma entra en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE DICIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
