@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-coordinacion-hacendaria-del-estado-de-campeche-13671"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "1998-12-16"
+last_updated: "2008-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Campeche, el martes 31 de diciembre de 1996.
 
@@ -597,7 +597,7 @@ El Estado y los Municipios, previa autorización de la Legislatura del Estado, p
 
 ###### Art. 62.
 
-Con la autorización de la Legislatura Local, el Estado podrá constituirse en avalista, deudor solidario, subsidiario o sustituto de las obligaciones contraídas por los Municipios y sus organismos descentralizados, fideicomisos públicos y empresas de participación mayoritaria, siempre que los Municipios afecten las participaciones que les correspondan en ingresos federales.
+(DEROGADO, P.O. 1 DE JULIO DE 2008)
 
 ###### Art. 63.
 
@@ -613,13 +613,31 @@ Las participaciones que en ingresos federales correspondan a los Municipios, pro
 
 I. El 100% de las participaciones recibidas por el Estado de Campeche en el Fondo de Fomento Municipal;
 
-II. El 24% del Fondo General de Participaciones y de las participaciones que perciba el Estado de la Reserva de Contingencia;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2008)</small>
+
+II. El 24% del Fondo General de Participaciones;
 
 III. El 20% del monto percibido por la Entidad en la recaudación federal de Impuestos Especiales sobre Producción y Servicios; y
 
 IV. El 20% del monto percibido por la Entidad en la recaudación del Impuesto sobre Automóviles Nuevos.
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2008)</small>
+
+V. El 24% del Fondo de Fiscalización;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2008)</small>
+
+VI. El 24% del Fondo de Extracción de Hidrocarburos;
+
 Además de las participaciones derivadas del Fondo a que se refiere este artículo, los Municipios percibirán el 20% del monto de la recaudación que se obtenga en su territorio por el Impuesto sobre Tenencia y Uso de Vehículos.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Asimismo percibirán el 20% de los ingresos que reciba el Estado por concepto de la recaudación derivada de la aplicación de las cuotas previstas en el artículo 2º-A de la fracción II de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+El Fondo de Fiscalización y el Fondo de Extracción de Hidrocarburos se distribuirán a los municipios de acuerdo con los criterios establecidos en el artículo 65 de esta propia Ley, atendiendo a la periodicidad prevista en los artículos 4o y 4o-B de la Ley de Coordinación Fiscal.
 
 ###### Art. 65.
 
@@ -915,16 +933,66 @@ Sexto.- El Municipio de Calakmul durante los años de 1997, 1998 y 1999, recibir
 
 Séptimo.- El Municipio de Candelaria durante el año de 1999, recibirá el 0.8883% del total de participaciones que le correspondan al Estado por concepto del Fondo General de Participaciones, mismo que será tomado del 24% señalado en la fracción II del artículo 64 de esta Ley. Para el año 2000 las participaciones del Municipio de Candelaria se calcularán al 70% de sus participaciones últimas que hubiese recibido al año anterior, para dar cumplimiento a lo establecido en el artículo 65 fracción I, de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Octavo.- El 20% de los recursos que reciba el Estado por concepto de la recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o-A de la fracción II de la Ley del Impuesto Especial de Producción y Servicios, conforme a lo dispuesto en el Artículo 4o-A de la Ley de Coordinación Fiscal, los distribuirá a los municipios de conformidad con la fórmula siguiente:
+
+CG = 0.7(C1i,t) + 0.2(C2i,t) + 0.1(C3i,t)
+
+Dónde:
+
+C1i,t C2i,t y C3i,t son los coeficientes de distribución de los recursos expresados en el primer párrafo de este artículo del municipio i en el año en que se efectúa el cálculo.
+
+C1i,t Se determina en proporción directa al número de habitantes que tenga cada municipio, según la última información oficial del Instituto Nacional de Geografía, Estadística e Informática.
+
+Ri,t1
+
+-- ni
+
+Ri,t2 Ri,t ni
+
+C2i't = --- C3i't = ---
+
+Ri,t1 ?Ri,t ni
+
+-- ni i
+
+?Ri,t2
+
+Ri,t es la información relativa a la recaudación del impuesto predial y derechos de agua potable del municipio i en el año t contenida en la última cuenta pública oficial presentada al H. Congreso del Estado.
+
+ni es el número de habitantes del municipio, según la última información oficial del Instituto Nacional de Geografía, Estadística e Informática.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Noveno.- Los recursos que reciba el Estado del Fondo de Aportaciones para la Infraestructura Social previstos en el artículo 32 de la Ley de Coordinación Fiscal, los distribuirá a los municipios de acuerdo con lo señalado en el artículo 35 de esa Ley.
+
+Los recursos que reciban los municipios derivados de este Fondo, deberán destinarse exclusivamente a lo dispuesto en el artículo 33 de la Ley de Coordinación Fiscal. Estos mismos recursos podrán afectarse para garantizar sus obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones, en los términos y condiciones establecidos por el artículo 50 de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Décimo.- Los recursos que reciba el Estado del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal, previstos en el artículo 36 de la Ley de Coordinación Fiscal, los distribuirá a los municipios de acuerdo con lo señalado en el artículo 38 de esa Ley.
+
+Los recursos que reciban los municipios derivados de este Fondo, deberán destinarse exclusivamente a lo dispuesto en el artículo 37 de la Ley de Coordinación Fiscal. Estos mismos recursos podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, de conformidad con lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
+
 Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 30 de Diciembre de 1996.- Dip. Vicente Castellot Castro, Presidente de la Directiva en turno del H. Congreso del Estado.- Dip. Marta I. Novelo Lara, Secretaria.- Dip. Edilberto Vázquez Ríos, Secretario.- Rúbricas.
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los treinta días del mes de diciembre de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE DICIEMBRE DE 1998.
 
 PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 1999.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 1 DE JULIO DE 2008.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Se faculta al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, a realizar los ajustes que correspondan a los enteros que deban corresponder a los municipios en cumplimiento de lo establecido en el artículo Octavo Transitorio que se adiciona en este decreto.
