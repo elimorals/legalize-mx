@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "1996-11-22"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LGSMIME"
 
 LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2008.
 
-Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
+Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -52,6 +52,10 @@ Artículo 2
 
 1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+2. La conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos, deberá ser considerada por las autoridades electorales competentes, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
+
 ### CAPITULO II. De los medios de impugnación
 
 Artículo 3
@@ -70,13 +74,19 @@ b) El recurso de apelación, el juicio de inconformidad y el recurso de reconsid
 
 c) El juicio para la protección de los derechos político–electorales del ciudadano;
 
-d) El juicio de revisión constitucional electoral, para garantizar la constitucionalidad de actos o resoluciones de las autoridades locales en los procesos electorales de las entidades federativas; y
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+d) El juicio de revisión constitucional electoral, para garantizar la constitucionalidad de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos;
 
 e) El juicio para dirimir los conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 4
 
-1. Corresponde a los órganos del Instituto Federal Electoral conocer y resolver el recurso de revisión y al Tribunal Electoral del Poder Judicial de la Federación los demás medios de impugnación previstos en el artículo anterior, en la forma y términos establecidos por esta ley.
+1. Corresponde a los órganos del Instituto Federal Electoral conocer y resolver el recurso de revisión y al Tribunal Electoral del Poder Judicial de la Federación los demás medios de impugnación previstos en el artículo anterior, en la forma y términos establecidos por esta ley y por los acuerdos generales que en aplicación de la misma dicte la Sala Superior.
+
+2. Para la sustanciación y resolución de los medios de impugnación de la competencia del Tribunal Electoral del Poder Judicial de la Federación, a falta de disposición expresa, se estará a lo dispuesto en el Código Federal de Procedimientos Civiles.
 
 Artículo 5
 
@@ -94,6 +104,10 @@ Artículo 6
 
 3. El Tribunal Electoral del Poder Judicial de la Federación, conforme a las disposiciones del presente ordenamiento, resolverá los asuntos de su competencia con plena jurisdicción.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+4. Sin perjuicio de lo dispuesto por el artículo 105 de la Constitución, las Salas del Tribunal Electoral del Poder Judicial de la Federación, en ejercicio de sus funciones jurisdiccionales, podrán resolver la no aplicación de leyes sobre la materia electoral contrarias a la propia Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio. En tales casos la Sala Superior del Tribunal Electoral informará a la Suprema Corte de Justicia de la Nación.
+
 ### CAPITULO II. De los plazos y de los términos
 
 Artículo 7
@@ -108,9 +122,11 @@ Artículo 8
 
 ### CAPITULO III. De los requisitos del medio de impugnación
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 9
 
-1. Los medios de impugnación deberán presentarse por escrito ante la autoridad señalada como responsable del acto o resolución impugnado, salvo lo previsto en el inciso a) del párrafo 1 del artículo 43 de esta ley, y deberá cumplir con los requisitos siguientes:
+1. Los medios de impugnación deberán presentarse por escrito ante la autoridad u órgano partidista señalado como responsable del acto o resolución impugnado, salvo lo previsto en el inciso a) del párrafo 1 del artículo 43 de esta ley, y deberá cumplir con los requisitos siguientes:
 
 a) Hacer constar el nombre del actor;
 
@@ -118,9 +134,13 @@ b) Señalar domicilio para recibir notificaciones y, en su caso, a quien en su n
 
 c) Acompañar el o los documentos que sean necesarios para acreditar la personería del promovente;
 
-d) Identificar el acto o resolución impugnado y la autoridad responsable del mismo;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-e) Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que cause el acto o resolución impugnado y los preceptos presuntamente violados;
+d) Identificar el acto o resolución impugnado y al responsable del mismo;
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+e) Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que cause el acto o resolución impugnado, los preceptos presuntamente violados y, en su caso, las razones por las que se solicite la no aplicación de leyes sobre la materia electoral por estimarlas contrarias a la Constitución Política de los Estados Unidos Mexicanos;
 
 f) Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en la presente ley; mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos; y las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas; y
 
@@ -129,6 +149,10 @@ g) Hacer constar el nombre y la firma autógrafa del promovente.
 2. Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en el inciso f) del párrafo anterior.
 
 3. Cuando el medio de impugnación no se presente por escrito ante la autoridad correspondiente, incumpla cualquiera de los requisitos previstos por los incisos a) o g) del párrafo 1 de este artículo, resulte evidentemente frívolo o cuya notoria improcedencia se derive de las disposiciones del presente ordenamiento, se desechará de plano. También operará el desechamiento a que se refiere este párrafo, cuando no existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+4. Respecto a lo previsto en el párrafo 1 inciso b) de este artículo, se realizará notificación electrónica de la resolución cuando las partes así lo soliciten. El Tribunal proveerá de un certificado de firma electrónica avanzada a quien así lo solicite. Las partes podrán proporcionar dirección de correo electrónico que cuente con mecanismos de confirmación de los envíos de las notificaciones. Las partes deberán manifestar expresamente su voluntad de que sean notificados por esta vía.
 
 ### CAPITULO IV. De la improcedencia y del sobreseimiento
 
@@ -142,9 +166,19 @@ b) Cuando se pretenda impugnar actos o resoluciones: que no afecten el interés 
 
 c) Que el promovente carezca de legitimación en los términos de la presente ley;
 
-d) Que no se hayan agotado las instancias previas establecidas por las leyes, federales o locales, según corresponda, para combatir los actos o resoluciones electorales y en virtud de las cuales se pudieran haber modificado, revocado o anulado; y
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-e) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo los casos señalados en los párrafos 2 y 3 del artículo 52 del presente ordenamiento.
+d) Cuando no se hayan agotado las instancias previas establecidas por las leyes, federales o locales, o por las normas internas de los partidos políticos, según corresponda, para combatir los actos o resoluciones electorales o las determinaciones de estos últimos, en virtud de las cuales se pudieran haber modificado, revocado o anulado, salvo que se considere que los actos o resoluciones del partido político violen derechos político-electorales o los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso;
+
+e) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo los casos señalados en los párrafos 2 y 3 del artículo 52 del presente ordenamiento;
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+f) Cuando en el medio de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación, en los términos de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+g) Cuando se pretenda impugnar resoluciones dictadas por las Salas del Tribunal en los medios de impugnación que son de su exclusiva competencia.
 
 Artículo 11
 
@@ -152,7 +186,9 @@ Artículo 11
 
 a) El promovente se desista expresamente por escrito;
 
-b) La autoridad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo antes de que se dicte resolución o sentencia;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+b) La autoridad u órgano partidista responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo antes de que se dicte resolución o sentencia;
 
 c) Habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos de la presente ley; y
 
@@ -172,7 +208,9 @@ Artículo 12
 
 a) El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, en los términos de este ordenamiento;
 
-b) La autoridad responsable o el partido político en el caso previsto por el inciso e) del párrafo 1 del artículo 81 de esta ley, que haya realizado el acto o emitido la resolución que se impugna; y
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+b) La autoridad responsable o el partido político en el caso previsto en el inciso g) del párrafo 1 del artículo 80 de esta ley, que haya realizado el acto o emitido la resolución que se impugna, y
 
 c) El tercero interesado, que es el ciudadano, el partido político, la coalición, el candidato, la organización o la agrupación política o de ciudadanos, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
 
@@ -272,9 +310,11 @@ Artículo 16
 
 ### CAPITULO VIII. Del trámite
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 17
 
-1. La autoridad que reciba un medio de impugnación, en contra de un acto emitido o resolución dictada por ella, bajo su más estricta responsabilidad y de inmediato, deberá:
+1. La autoridad u órgano partidista, según sea el caso, que reciba un medio de impugnación, en contra de sus propios actos o resoluciones, bajo su más estricta responsabilidad y de inmediato, deberá:
 
 a) Por la vía más expedita, dar aviso de su presentación al órgano competente del Instituto o a la Sala del Tribunal Electoral, precisando: actor, acto o resolución impugnado, fecha y hora exactas de su recepción; y
 
@@ -286,7 +326,9 @@ b) Hacerlo del conocimiento público mediante cédula que durante un plazo de se
 
 4. Dentro del plazo a que se refiere el inciso b) del párrafo 1 de este artículo, los terceros interesados podrán comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
 
-a) Presentarse ante la autoridad responsable del acto o resolución impugnado;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+a) Presentarse ante la autoridad u órgano responsable del acto o resolución impugnado;
 
 b) Hacer constar el nombre del tercero interesado;
 
@@ -304,9 +346,11 @@ g) Hacer constar el nombre y la firma autógrafa del compareciente.
 
 6. Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en el inciso f) del párrafo 4 de este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 18
 
-1. Dentro de las veinticuatro horas siguientes al vencimiento del plazo a que se refiere el inciso b) del párrafo 1 del artículo anterior, la autoridad responsable del acto o resolución impugnado deberá remitir al órgano competente del Instituto o a la Sala del Tribunal Electoral, lo siguiente:
+1. Dentro de las veinticuatro horas siguientes al vencimiento del plazo a que se refiere el inciso b) del párrafo 1 del artículo anterior, la autoridad o el órgano del partido responsable del acto o resolución impugnado deberá remitir al órgano competente del Instituto o a la Sala del Tribunal Electoral, lo siguiente:
 
 a) El escrito original mediante el cual se presenta el medio de impugnación, las pruebas y la demás documentación que se hayan acompañado al mismo;
 
@@ -320,7 +364,9 @@ e) El informe circunstanciado; y
 
 f) Cualquier otro documento que estime necesario para la resolución del asunto.
 
-2. El informe circunstanciado que debe rendir la autoridad responsable, por lo menos deberá contener:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+2. El informe circunstanciado que debe rendir la autoridad u órgano partidista responsable, por lo menos deberá contener:
 
 a) En su caso, la mención de si el promovente o el compareciente, tienen reconocida su personería;
 
@@ -338,11 +384,15 @@ a) El presidente de la Sala turnará de inmediato el expediente recibido a un ma
 
 b) El magistrado electoral propondrá a la Sala el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se dé alguno de los supuestos previstos en el párrafo 3 del artículo 9 o se acredite cualquiera de las causales de notoria improcedencia señaladas en el párrafo 1 del artículo 10 de esta ley. Asimismo, cuando el promovente incumpla los requisitos señalados en los incisos c) y d) del párrafo 1 del artículo 9, y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
 
-c) En cuanto al informe circunstanciado, si la autoridad no lo envía dentro del plazo señalado en el párrafo 1 del artículo 18 de esta ley, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+c) En cuanto al informe circunstanciado, si la autoridad u órgano partidista no lo envía dentro del plazo señalado en el párrafo 1 del artículo 18 de esta ley, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables;
 
 d) El magistrado electoral, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá a la Sala tener por no presentado el escrito del tercero interesado, cuando se presente en forma extemporánea o se den los supuestos previstos en el párrafo 5 del artículo 17 de este ordenamiento. Asimismo, cuando el compareciente incumpla el requisito señalado en el inciso d) del párrafo 4 del artículo citado, y éste no se pueda deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de que no se tomará en cuenta el escrito al momento de resolver si no se cumple con el mismo dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
 
-e) Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el magistrado electoral dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados; y
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+e) Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el magistrado electoral, en un plazo no mayor a seis días, dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados, y
 
 f) Cerrada la instrucción, el magistrado electoral procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración de la Sala.
 
@@ -350,9 +400,11 @@ f) Cerrada la instrucción, el magistrado electoral procederá a formular el pro
 
 3. Para la sustanciación de los recursos de revisión se aplicarán las reglas contenidas en el Capítulo III del Título Segundo del Libro Segundo de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 20
 
-1. Si la autoridad responsable incumple con la obligación prevista en el inciso b) del párrafo 1 del artículo 17, u omite enviar cualquiera de los documentos a que se refiere el párrafo 1 del artículo 18, ambos de esta ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, se estará a lo siguiente:
+1. Si la autoridad u órgano partidista responsable incumple con la obligación prevista en el inciso b) del párrafo 1 del artículo 17, u omite enviar cualquiera de los documentos a que se refiere el párrafo 1 del artículo 18, ambos de esta ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, se estará a lo siguiente:
 
 a) El presidente de la Sala competente del Tribunal Electoral tomará las medidas necesarias para su cumplimiento, aplicando, en su caso, el medio de apremio que juzgue pertinente; y
 
@@ -361,6 +413,20 @@ b) En el caso del recurso de revisión, el órgano competente del Instituto debe
 Artículo 21
 
 1. El Secretario del órgano del Instituto o el Presidente de la Sala del Tribunal, en los asuntos de su competencia, podrán requerir a las autoridades federales, estatales y municipales, así como a los partidos políticos, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Artículo 21 Bis
+
+1. El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones federales o locales de que conozcan las Salas del Tribunal Electoral solamente procederá cuando:
+
+a) El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 295, párrafo 2 y demás correlativos del Capítulo Tercero del Título Cuarto del Libro Quinto del Código Federal de Instituciones y Procedimientos Electorales.
+
+b) Las leyes electorales locales no prevean hipótesis para el nuevo escrutinio y cómputo por los órganos competentes o previéndolas se haya negado sin causa justificada el recuento.
+
+2. Las Salas deberán establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos por las propias Salas sin necesidad de recontar los votos.
+
+3. No procederá el incidente en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
 
 ### CAPITULO X. De las resoluciones y de las sentencias
 
@@ -388,9 +454,11 @@ Artículo 23
 
 3. En todo caso, si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el órgano competente del Instituto o la Sala del Tribunal Electoral resolverán tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 24
 
-1. El Presidente de la Sala competente ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.
+1. El Presidente de la Sala competente ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución.
 
 2. Las Salas del Tribunal Electoral dictarán sus sentencias en sesión pública, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial de la Federación y el Reglamento Interno del propio Tribunal, así como con las reglas y el procedimiento siguientes:
 
@@ -416,7 +484,9 @@ Artículo 26
 
 2. Durante los procesos electorales, el Instituto y el Tribunal Electoral podrán notificar sus actos, resoluciones o sentencias en cualquier día y hora.
 
-3. Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de esta ley.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+3. Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de esta ley; también podrán hacerse por medio electrónico, conforme a lo establecido en el párrafo 4 del artículo 9 de este ordenamiento.
 
 Artículo 27
 
@@ -444,9 +514,27 @@ Artículo 28
 
 1. Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto Federal Electoral y en las Salas del Tribunal Electoral, para que sean colocadas las copias de los escritos de los medios de impugnación, de los terceros interesados y de los coadyuvantes, así como de los autos, acuerdos, resoluciones y sentencias que les recaigan, para su notificación y publicidad.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 29
 
-1. La notificación por correo se hará en pieza certificada agregándose al expediente el acuse del recibo postal. La notificación por telegrama se hará enviándola por duplicado para que la oficina que la transmita devuelva el ejemplar sellado que se agregará al expediente. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
+1. Se realizarán mediante oficio las notificaciones que sean ordenadas a los órganos y autoridades responsables.
+
+2. La notificación por correo se hará en pieza certificada agregándose al expediente un ejemplar del oficio correspondiente y el acuse del recibo postal.
+
+3. Para el caso de las notificaciones ordenadas a los órganos o autoridades señaladas como responsables, se seguirá el procedimiento siguiente:
+
+a) Cuando dicha responsable cuente con domicilio en la ciudad donde se encuentre la sede de la Sala del Tribunal Electoral o del órgano administrativo electoral, encargado de resolver el medio de impugnación, la diligencia será practicada de forma inmediata y sin intermediación alguna, recabándose el acuse de recibo respectivo, el cual deberá ser agregado a los autos correspondientes;
+
+b) Para el caso de que el domicilio se encuentre en alguna de las ciudades sede de alguna de las Salas del Tribunal Electoral, se podrá realizar mediante el Despacho correspondiente;
+
+c) Si el domicilio se encontrara en lugar distinto de los previstos en los incisos anteriores, la diligencia se practicará, mediante el uso de mensajería especializada, solicitándose el acuse de recibo correspondiente el cual se deberá agregar a los autos del expediente.
+
+Para el caso de que no se contara con el acuse de recibo, deberá fijarse además un ejemplar de la determinación judicial correspondiente en los estrados de la Sala.
+
+4. La notificación por telegrama se hará enviándola por duplicado para que la oficina que la transmita devuelva el ejemplar sellado que se agregará al expediente. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
+
+5. La notificación por correo electrónico surtirá efectos a partir de que se tenga constancia de la recepción de la misma o, en su caso, se cuente con el acuse de recibo correspondiente.
 
 Artículo 30
 
@@ -462,7 +550,9 @@ Artículo 31
 
 2. La acumulación podrá decretarse al inicio o durante la sustanciación, o para la resolución de los medios de impugnación.
 
-### CAPITULO XIII. De los medios de apremio y de las correcciones disciplinarias
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2008)</small>
+
+### CAPITULO XIII. Del cumplimiento y ejecución de las resoluciones de las Salas del Tribunal, de las medidas de apremio y de las correcciones disciplinarias
 
 Artículo 32
 
@@ -472,15 +562,19 @@ a) Apercibimiento;
 
 b) Amonestación;
 
-c) Multa hasta por cien veces el salario mínimo diario general vigente en el Distrito Federal. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+c) Multa de cincuenta hasta cinco mil veces el salario mínimo diario general vigente en el Distrito Federal. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 d) Auxilio de la fuerza pública; y
 
 e) Arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 33
 
-1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por el Presidente de la Sala respectiva, por sí mismo o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca el Reglamento Interno del Tribunal Electoral.
+1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 32, serán aplicados por el Presidente de la Sala respectiva, por sí mismo o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca el Reglamento Interno del Tribunal Electoral.
 
 # LIBRO SEGUNDO. De los medios de impugnación y de las nulidades en materia electoral federal
 
@@ -596,17 +690,25 @@ b) Se deberá acreditar que se hicieron valer, en tiempo y forma, las observacio
 
 c) De no cumplirse con dichos requisitos, independientemente de los demás casos que señala la presente ley, el recurso será desechado por notoriamente improcedente.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Artículo 43 Bis
+
+1. El recurso de apelación será procedente para impugnar la resolución del Órgano Técnico de Fiscalización del Instituto, que ponga fin al procedimiento de liquidación, y los actos que integren ese procedimiento, que causen una afectación sustantiva al promovente.
+
 ### CAPITULO II. De la competencia
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 44
 
-1. Durante el tiempo que transcurra entre dos procesos electorales federales, es competente para resolver el recurso de apelación la Sala Superior del Tribunal Electoral.
+1. Son competentes para resolver el recurso de apelación:
 
-2. Durante el proceso electoral federal son competentes para resolver el recurso de apelación:
+a) La Sala Superior del Tribunal Electoral, cuando se impugnen actos o resoluciones de los órganos centrales del Instituto y en lo conducente los de la Contraloría General del mismo, así como el informe a que se refiere el artículo 41 de esta ley, y
 
-a) La Sala Superior del Tribunal Electoral, cuando se impugnen actos o resoluciones del Consejero Presidente, del Consejo General del Instituto, de la Junta General Ejecutiva, así como el informe a que se refiere el artículo 41 de esta ley; y
+b) La Sala Regional competente respecto de los actos o resoluciones de los órganos desconcentrados del Instituto.
 
-b) La Sala Regional del Tribunal Electoral, que ejerza su jurisdicción en el ámbito territorial en que se haya realizado el acto o dictado la resolución impugnada por los órganos del Instituto, con las excepciones previstas en el inciso anterior
+2. (DEROGADO, D.O.F. 1 DE JULIO DE 2008)
 
 ### CAPITULO III. De la legitimación y de la personería
 
@@ -622,9 +724,25 @@ I. Los partidos políticos, en los términos señalados en el inciso a) del pres
 
 II. Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna;
 
-III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación aplicable; y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-IV. Las personas físicas o morales, por su propio derecho o a través de sus representantes legítimos, según corresponda y de conformidad con la legislación aplicable.
+III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+IV. Las personas físicas o morales, por su propio derecho o a través de sus representantes legítimos, según corresponda y de conformidad con la legislación aplicable, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+V. Los dirigentes, militantes, afiliados, adherentes o simpatizantes de un partido político nacional.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+c) En el supuesto previsto en el artículo 43 Bis de esta ley:
+
+I. Los partidos políticos que se encuentren en período de prevención o en liquidación, por conducto de sus representantes legítimos al momento del inicio del periodo de prevención, y
+
+II. Las personas físicas o jurídicas que se ostenten como acreedores del partido político en liquidación, por propio derecho o a través de sus representantes.
 
 ### CAPITULO IV. De la sustanciación
 
@@ -642,7 +760,9 @@ Artículo 47
 
 1. Las sentencias de fondo que recaigan al recurso de apelación, tendrán como efecto confirmar, modificar o revocar el acto o resolución impugnado.
 
-2. Los recursos de apelación serán resueltos por la Sala competente del Tribunal Electoral dentro de los seis días siguientes a aquel en que se admitan.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+2. Los recursos de apelación serán resueltos por la Sala competente del Tribunal Electoral dentro de los doce días siguientes a aquel en que se admitan. En casos urgentes, la resolución debe dictarse con la oportunidad necesaria para hacer posible, en su caso, la reparación de la violación alegada.
 
 ### CAPITULO VI. De las notificaciones
 
@@ -670,7 +790,13 @@ Artículo 50
 
 1. Son actos impugnables a través del juicio de inconformidad, en los términos del Código Federal de Instituciones y Procedimientos Electorales y la presente ley, los siguientes:
 
-a) En la elección de Presidente de los Estados Unidos Mexicanos, los resultados consignados en las actas de cómputo distrital respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+a) En la elección de Presidente de los Estados Unidos Mexicanos:
+
+I. Los resultados consignados en las actas de cómputo distrital respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético, y
+
+II. Por nulidad de toda la elección.
 
 b) En la elección de diputados por el principio de mayoría relativa:
 
@@ -704,7 +830,7 @@ Artículo 51
 
 1. El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral.
 
-2. Se requerirá de la presentación del escrito de protesta, como requisito de procedibilidad del juicio de inconformidad, sólo cuando se hagan valer las causales de nulidad previstas en el artículo 75 de esta ley, a excepción de la señalada en el inciso b) del párrafo 1 de dicho precepto.
+2. (DEROGADO, D.O.F. 1 DE JULIO DE 2008)
 
 3. El escrito de protesta deberá contener:
 
@@ -744,7 +870,13 @@ e) La conexidad, en su caso, que guarde con otras impugnaciones.
 
 3. Cuando se pretenda impugnar las elecciones de senadores por ambos principios y la asignación a la primera minoría, en los supuestos previstos en los incisos d) y e) del párrafo 1 del artículo 50 de este ordenamiento, se estará a lo dispuesto por el párrafo anterior.
 
-4. En los supuestos señalados en los dos párrafos anteriores, si se impugna la votación recibida en casillas especiales, su anulación sólo afectará a la elección de representación proporcional que corresponda.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+4. En los supuestos señalados en los dos párrafos anteriores, si se impugna la votación recibida en casillas especiales, su anulación afectará las elecciones de mayoría relativa y de representación proporcional que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+5. Cuando se impugne por nulidad toda la elección de Presidente de los Estados Unidos Mexicanos, el respectivo juicio de inconformidad deberá presentarse ante el Consejo General del Instituto Federal Electoral, acompañado de las pruebas correspondientes.
 
 ### CAPITULO III. De la competencia
 
@@ -766,6 +898,10 @@ a) Los partidos políticos; y
 
 b) Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación de primera minoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes en términos de lo establecido en el párrafo 3 del artículo 12 de la presente Ley.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+2. Cuando se impugne la elección de Presidente de los Estados Unidos Mexicanos, por nulidad de toda la elección, el respectivo juicio de inconformidad deberá presentarse por el representante del partido político o coalición registrado ante el Consejo General del Instituto Federal Electoral.
+
 ### CAPITULO V. De los plazos y de los términos
 
 Artículo 55
@@ -777,6 +913,10 @@ a) Distritales de la elección presidencial, para impugnar los actos a que se re
 b) Distritales de la elección de diputados por ambos principios, para impugnar los actos a que se refieren los incisos b) y c) del párrafo 1 del artículo 50 de este ordenamiento; y
 
 c) De entidades federativas de la elección de senadores por ambos principios y de asignación a la primera minoría, para impugnar los actos a que se refieren los incisos d) y e) del párrafo 1 del artículo 50 de este ordenamiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+2. Cuando se impugne la elección de Presidente de los Estados Unidos Mexicanos por nulidad de toda la elección, el respectivo juicio de inconformidad deberá promoverse a más tardar dentro de los cuatro días posteriores a la presentación del informe a que se refiere el artículo 310 del Código Federal de Instituciones y Procedimientos Electorales.
 
 ### CAPITULO VI. De las sentencias
 
@@ -794,15 +934,25 @@ d) Revocar la constancia expedida en favor de una fórmula o candidato a diputad
 
 e) Declarar la nulidad de la elección de diputados o senadores y, en consecuencia, revocar las constancias expedidas cuando se den los supuestos previstos en el Título Sexto de este Libro;
 
-f) Revocar la determinación sobre la declaración de validez u otorgamiento de constancias de mayoría y validez o de asignación de primera minoría en las elecciones de diputados y senadores, según corresponda; y
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-g) Hacer la corrección de los cómputos distritales o de entidad federativa cuando sean impugnados por error aritmético.
+f) Revocar la determinación sobre la declaración de validez u otorgamiento de constancias de mayoría y validez o de asignación de primera minoría en las elecciones de diputados y senadores, según corresponda;
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+g) Hacer la corrección de los cómputos distritales, de entidad federativa o nacional cuando sean impugnados por error aritmético, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+h) Declarar la nulidad de la elección presidencial cuando se actualicen los supuestos previstos en el Título Sexto de este Libro.
 
 Artículo 57
 
 1. Las Salas del Tribunal podrán modificar el acta o las actas de cómputo respectivas en la sección de ejecución que para tal efecto abran al resolver el último de los juicios que se hubiere promovido en contra de la misma elección, en un mismo distrito electoral uninominal o en una entidad federativa.
 
-2. Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de diputado o senador previstos en esta ley, la Sala competente del Tribunal Electoral decretará lo conducente, aún cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+2. Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de diputado, senador o Presidente de los Estados Unidos Mexicanos previstos en esta ley, la Sala competente del Tribunal Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
 Artículo 58
 
@@ -830,9 +980,15 @@ c) En su caso, a la Oficialía Mayor de la Cámara del Congreso de la Unión que
 
 ### CAPITULO I. De la procedencia
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 61
 
-1. El recurso de reconsideración sólo procederá para impugnar las sentencias de fondo dictadas por las Salas Regionales en los juicios de inconformidad que se hayan promovido en contra de los resultados de las elecciones de diputados y senadores, así como las asignaciones por el principio de representación proporcional que respecto de dichas elecciones realice el Consejo General del Instituto; siempre y cuando se cumplan los presupuestos y requisitos establecidos en este ordenamiento.
+1. El recurso de reconsideración sólo procederá para impugnar las sentencias de fondo dictadas por las Salas Regionales en los casos siguientes:
+
+a) En juicios de inconformidad que se hayan promovido en contra de los resultados de las elecciones de diputados y senadores, así como las asignaciones por el principio de representación proporcional que respecto de dichas elecciones realice el Consejo General del Instituto, siempre y cuando se cumplan los presupuestos y requisitos establecidos en este ordenamiento, y
+
+b) En los demás medios de impugnación de la competencia de las Salas Regionales, cuando hayan determinado la no aplicación de una ley electoral por considerarla contraria a la Constitución.
 
 ### CAPITULO II. De los presupuestos
 
@@ -846,7 +1002,13 @@ I. Haya dejado de tomar en cuenta causales de nulidad previstas por el Titulo Se
 
 II. Haya otorgado indebidamente la Constancia de Mayoría y Validez o asignado la primera minoría a una fórmula de candidatos distinta a la que originalmente se le otorgó o asignó; o
 
-III. Haya anulado indebidamente una elección.
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+III. Haya anulado indebidamente una elección, o
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+IV. Haya resuelto la no aplicación de alguna ley en materia electoral por estimarla contraria a la Constitución Política de los Estados Unidos Mexicanos.
 
 b) Que el Consejo General del Instituto Federal Electoral haya asignado indebidamente diputados o senadores por el principio de representación proporcional:
 
@@ -960,11 +1122,13 @@ c) A la Oficialía Mayor de la Cámara que corresponda del Congreso de la Unión
 
 ### CAPITULO I. De las reglas generales
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 71
 
-1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección en una entidad federativa para la fórmula de senadores por el principio de mayoría relativa o la asignación de primera minoría. Para la impugnación de la elección de diputados o senadores por el principio de representación proporcional, se estará a lo dispuesto por los párrafos 2 y 3 del artículo 52 de esta ley.
+1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección en una entidad federativa para la fórmula de senadores por el principio de mayoría relativa o la asignación de primera minoría; o la elección para Presidente de los Estados Unidos Mexicanos. Para la impugnación de la elección de diputados o senadores por el principio de representación proporcional, se estará a lo dispuesto por los párrafos 2 y 3 del artículo 52 de esta ley.
 
-2. Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral uninominal o en una entidad federativa, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de inconformidad, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
+2. Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral uninominal o en una entidad federativa, o bien, en la elección de Presidente de los Estados Unidos Mexicanos, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de inconformidad, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
 
 Artículo 72
 
@@ -1006,15 +1170,21 @@ j) Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 
 k) Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
-### CAPITULO III. De la nulidad de la elección de diputados o de senadores
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2008)</small>
+
+### CAPITULO III. De la nulidad de las elecciones federales
 
 Artículo 76
 
 1. Son causales de nulidad de una elección de diputado de mayoría relativa en un distrito electoral uninominal, cualesquiera de las siguientes:
 
-a) Cuando alguna o algunas de las causales señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las casillas en el distrito de que se trate; o
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-b) Cuando no se instalen las casillas en el veinte por ciento de las secciones en el distrito de que se trate y consecuentemente la votación no hubiere sido recibida; o
+a) Cuando alguna o algunas de las causales señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las casillas en el distrito de que se trate y, en su caso, no se hayan corregido durante el recuento de votos; o
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+b) Cuando no se instale el veinte por ciento o más de las casillas en el distrito de que se trate y consecuentemente la votación no hubiere sido recibida; o
 
 c) Cuando los dos integrantes de la fórmula de candidatos que hubieren obtenido constancia de mayoría sean inelegibles.
 
@@ -1022,11 +1192,27 @@ Artículo 77
 
 1. Son causales de nulidad de una elección de senadores en una entidad federativa, cualquiera de las siguientes:
 
-a) Cuando alguna o algunas de las causales de nulidad previstas en el párrafo 1 del artículo 75 de esta ley, se acrediten en por lo menos el veinte por ciento de las secciones en la entidad de que se trate; o
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-b) Cuando no se instalen las casillas en el veinte por ciento de las secciones en la entidad de que se trate y consecuentemente la votación no hubiere sido recibida; o
+a) Cuando alguna o algunas de las causales de nulidad previstas en el párrafo 1 del artículo 75 de esta ley, se acrediten en por lo menos el veinte por ciento de las casillas en la entidad de que se trate y, en su caso, no se hayan corregido durante el recuento de votos, o
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+b) Cuando no se instale el veinte por ciento o más de las casillas en la entidad de que se trate y consecuentemente la votación no hubiere sido recibida, o
 
 c) Cuando los dos integrantes de la fórmula de candidatos que hubieren obtenido constancia de mayoría fueren inelegibles. En este caso, la nulidad afectará a la elección únicamente por lo que hace a la fórmula o fórmulas de candidatos que resultaren inelegibles.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Artículo 77 Bis
+
+1. Son causales de nulidad de la elección de Presidente de los Estados Unidos Mexicanos cualquiera de las siguientes:
+
+a) Cuando alguna o algunas de las causales de nulidad previstas en el párrafo 1 del artículo 75 de esta ley, se acrediten en por lo menos el veinticinco por ciento de las casillas instaladas en el territorio nacional y, en su caso, no se hayan corregido durante el recuento de votos, o
+
+b) Cuando en el territorio nacional no se instale el veinticinco por ciento o más de las casillas y consecuentemente la votación no hubiere sido recibida, o
+
+c) Cuando el candidato ganador de la elección resulte inelegible.
 
 Artículo 78
 
@@ -1034,9 +1220,13 @@ Artículo 78
 
 ### CAPITULO I. De la procedencia
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 79
 
-1. El juicio para la protección de los derechos político–electorales, sólo procederá cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en el inciso e) del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
+1. El juicio para la protección de los derechos político-electorales, sólo procederá cuando el ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en el inciso e) del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
+
+2. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales de las entidades federativas.
 
 Artículo 80
 
@@ -1048,13 +1238,27 @@ b) Habiendo obtenido oportunamente el documento a que se refiere el inciso anter
 
 c) Considere haber sido indebidamente excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
 
-d) Considere que se violó su derecho político–electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales federales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto o la Sala Regional, a solicitud de la Sala Superior, remitirán el expediente para que sea resuelto por ésta, junto con el juicio promovido por el ciudadano;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-e) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política; y
+d) Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales federales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto, a solicitud de la Sala que sea competente, remitirá el expediente para que sea resuelto por ésta, junto con el juicio promovido por el ciudadano;
 
-f) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político–electorales a que se refiere el artículo anterior.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+e) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+f) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+g) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable.
 
 2. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político–electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+3. En los casos previstos en el inciso g) del párrafo 1 de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
 Artículo 81
 
@@ -1074,19 +1278,33 @@ b) En los procesos electorales de las entidades federativas, el candidato agravi
 
 ### CAPITULO II. De la competencia
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 83
 
-1. Son competentes para resolver el juicio para la protección de los derechos político–electorales del ciudadano:
+1. Son competentes para resolver el juicio para la protección de los derechos político-electorales del ciudadano:
 
-a) Durante los procesos electorales federales:
+a) La Sala Superior, en única instancia:
 
-I. La Sala Superior del Tribunal Electoral, en única instancia, en los supuestos previstos en los incisos a) al c) del párrafo 1 del artículo 80, sólo cuando sean promovidos con motivo de procesos electorales en las entidades federativas;
+I. En los casos señalados en el inciso d) del párrafo 1 del artículo 80 de esta ley, en relación con las elecciones de Presidente Constitucional de los Estados Unidos Mexicanos, Gobernadores, Jefe de Gobierno del Distrito Federal y en las elecciones federales de diputados y senadores por el principio de representación proporcional;
 
-II. La Sala Superior, en única instancia, en los casos señalados en los incisos d) al f) del párrafo 1 del artículo 80; y en el supuesto previsto en el inciso b) del párrafo 1 del artículo 82, todos ellos de esta ley; y
+II. En los casos señalados en los incisos e) y g) del párrafo 1 del artículo 80 de esta ley;
 
-III. La Sala Regional del Tribunal Electoral que ejerza jurisdicción en el ámbito territorial en que se haya cometido la violación reclamada, en única instancia, exclusivamente en los supuestos previstos en los incisos a) al c) del párrafo 1 del artículo 80 de este ordenamiento y sólo cuando sean promovidos con motivo de procesos electorales federales.
+III. En el caso señalado en el inciso f) del párrafo 1 del artículo 80 de esta ley, cuando se trate de la violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de Presidente de los Estados Unidos Mexicanos, Gobernadores, Jefe de Gobierno del Distrito Federal, diputados federales y senadores de representación proporcional, y dirigentes de los órganos nacionales de dichos institutos, así como en los conflictos internos de los partidos políticos cuyo conocimiento no corresponda a las Salas Regionales, y
 
-b) Durante el tiempo que transcurra entre dos procesos electorales federales y en los procesos electorales federales extraordinarios, la Sala Superior del Tribunal Electoral en única instancia.
+IV. En el supuesto previsto en el inciso b) del párrafo 1 del artículo 82 de esta ley cuando se refiere a la elección de Gobernadores o Jefe de Gobierno del Distrito Federal.
+
+b) La Sala Regional del Tribunal Electoral que ejerza jurisdicción en el ámbito territorial en que se haya cometido la violación reclamada, en única instancia:
+
+I. En los supuestos previstos en los incisos a) al c) del párrafo 1 del artículo 80, cuando sean promovidos con motivo de procesos electorales federales o de las entidades federativas.
+
+II. En los casos señalados en el inciso d) del párrafo 1 del artículo 80 de esta ley, en las elecciones federales de diputados y senadores por el principio de mayoría relativa, y en las elecciones de autoridades municipales, diputados locales, así como a la Asamblea Legislativa del Distrito Federal y titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal;
+
+III. La violación al derecho de ser votado en las elecciones de los servidores públicos municipales diversos a los electos para integrar el ayuntamiento;
+
+IV. La violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de diputados federales y senadores por el principio de mayoría relativa, diputados a la Asamblea Legislativa del Distrito Federal, en las elecciones de autoridades municipales, diputados locales, y de los titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal; y dirigentes de los órganos de dichos institutos distintos a los nacionales, y
+
+V. En el supuesto previsto en el inciso b) del párrafo 1 del artículo 82 de esta ley cuando se refiere a las elecciones de autoridades municipales, diputados locales, diputados a la Asamblea Legislativa del Distrito Federal y titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal.
 
 ### CAPITULO III. De las sentencias y de las notificaciones
 
@@ -1102,7 +1320,9 @@ b) Revocar o modificar el acto o resolución impugnado y restituir al promovente
 
 a) Al actor que promovió el juicio, y en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en el Distrito Federal o en la ciudad sede de la Sala competente. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados; y
 
-b) A la autoridad responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+b) A la autoridad u órgano partidista responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
 
 Artículo 85
 
@@ -1134,9 +1354,15 @@ f) Que se hayan agotado en tiempo y forma todas las instancias previas estableci
 
 ### CAPITULO II. De la competencia
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 87
 
-1. Es competente para resolver el juicio de revisión constitucional electoral la Sala Superior del Tribunal Electoral, en única instancia, en los términos previstos en el artículo anterior de esta ley, tratándose de actos o resoluciones relativos a las elecciones de Gobernadores, diputados locales, autoridades municipales, así como de Jefe de Gobierno, diputados a la Asamblea Legislativa y titulares de los órganos político–administrativos del Distrito Federal.
+1. Son competentes para resolver el juicio de revisión constitucional electoral:
+
+a) La Sala Superior del Tribunal Electoral, en única instancia, en los términos previstos en el artículo anterior de esta ley, tratándose de actos o resoluciones relativos a las elecciones de Gobernador y de Jefe de Gobierno del Distrito Federal, y
+
+b) La Sala Regional del Tribunal Electoral que ejerza jurisdicción en el ámbito territorial en que se haya cometido la violación reclamada, en única instancia, cuando se trate de actos o resoluciones relativos a las elecciones de autoridades municipales, diputados locales, así como a la Asamblea Legislativa y titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal.
 
 ### CAPITULO III. De la legitimación y de la personería
 
@@ -1160,13 +1386,17 @@ Artículo 89
 
 1. El trámite y resolución de los juicios de revisión constitucional se sujetará exclusivamente a las reglas establecidas en el presente Capítulo.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 90
 
-1. La autoridad electoral que reciba el escrito por el que se promueva el juicio lo remitirá de inmediato a la Sala Superior del Tribunal Electoral, junto con sus anexos, el expediente completo en que se haya dictado el acto o resolución impugnado y el informe circunstanciado que, en lo conducente, deberá reunir los requisitos previstos por el párrafo 2 del artículo 18, y bajo su más estricta responsabilidad y sin dilación alguna, dará cumplimiento a las obligaciones señaladas en el párrafo 1 del artículo 17, ambos del presente ordenamiento.
+1. La autoridad electoral que reciba el escrito por el que se promueva el juicio lo remitirá de inmediato a la Sala competente del Tribunal Electoral, junto con sus anexos, el expediente completo en que se haya dictado el acto o resolución impugnado y el informe circunstanciado que, en lo conducente, deberá reunir los requisitos previstos por el párrafo 2 del artículo 18, y bajo su más estricta responsabilidad y sin dilación alguna, dará cumplimiento a las obligaciones señaladas en el párrafo 1 del artículo 17, ambos del presente ordenamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 91
 
-1. Dentro del plazo a que se refiere el inciso b) del párrafo 1 del artículo 17 de esta ley, el o los terceros interesados podrán formular por escrito los alegatos que consideren pertinentes, mismos que, en el caso de que se presenten, deberán ser enviados a la mayor brevedad posible a la Sala Superior del Tribunal Electoral. En todo caso, la autoridad electoral responsable dará cuenta a dicha Sala, por la vía más expedita, de la conclusión del término respectivo, informando sobre la comparecencia de terceros interesados.
+1. Dentro del plazo a que se refiere el inciso b) del párrafo 1 del artículo 17 de esta ley, el o los terceros interesados podrán formular por escrito los alegatos que consideren pertinentes, mismos que deberán ser enviados a la mayor brevedad posible a la Sala competente del Tribunal Electoral. En todo caso, la autoridad electoral responsable dará cuenta a dicha Sala, por la vía más expedita, de la conclusión del término respectivo, informando sobre la comparecencia de terceros interesados.
 
 2. En el juicio no se podrá ofrecer o aportar prueba alguna, salvo en los casos extraordinarios de pruebas supervenientes, cuando éstas sean determinantes para acreditar la violación reclamada.
 
@@ -1186,15 +1416,19 @@ b) Revocar o modificar el acto o resolución impugnado y, consecuentemente, prov
 
 2. Las sentencias recaídas a los juicios de revisión constitucional electoral serán notificadas:
 
-a) Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar al día siguiente al en que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en el Distrito Federal. En cualquier otro caso, la notificación se hará por correo certificado; y
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+a) Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar al día siguiente al que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en el Distrito Federal o en la ciudad donde tenga su sede la Sala Regional respectiva, según que la sentencia haya sido dictada por la Sala Superior o por alguna de las Salas Regionales. En cualquier otro caso, la notificación se hará por correo certificado, y
 
 b) A la autoridad responsable, por oficio acompañado de copia certificada de la sentencia, a más tardar al día siguiente al en que se dictó la sentencia.
 
 ### CAPITULO UNICO. Del trámite, de la sustanciación y de la resolución
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 96
 
-1. El servidor del Instituto Federal Electoral que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante la Sala Superior del Tribunal Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto Federal Electoral.
+1. El servidor del Instituto Federal Electoral que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante la Sala competente del Tribunal Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto Federal Electoral.
 
 2. Es requisito de procedibilidad del juicio, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca el Código Federal de Instituciones y Procedimientos Electorales y el Estatuto del Servicio Profesional Electoral, instrumentos que, de conformidad con la fracción III del segundo párrafo del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, norman las relaciones laborales del Instituto Federal Electoral con sus servidores.
 
@@ -1234,45 +1468,65 @@ Artículo 101
 
 1. Se celebrará una audiencia de conciliación, admisión y desahogo de pruebas y alegatos, dentro de los quince días hábiles siguientes al en que se reciba la contestación del Instituto Federal Electoral.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 102
 
-1. La Sala Superior del Tribunal Electoral en la audiencia a que se refiere el artículo anterior, determinará la admisión de las pruebas que estime pertinentes, ordenando el desahogo de las que lo requieran, desechando aquellas que resulten notoriamente incongruentes o contrarias al derecho o a la moral o que no tengan relación con la litis.
+1. La Sala competente del Tribunal Electoral en la audiencia a que se refiere el artículo anterior, determinará la admisión de las pruebas que estime pertinentes, ordenando el desahogo de las que lo requieran, desechando aquellas que resulten notoriamente incongruentes o contrarias al derecho o a la moral o que no tengan relación con la litis.
 
 Artículo 103
 
 1. De ofrecerse la prueba confesional a cargo del Consejero Presidente o del Secretario Ejecutivo del Instituto, sólo será admitida si se trata de hechos propios controvertidos que no hayan sido reconocidos por el Instituto y relacionados con la litis. Su desahogo se hará vía oficio y para ello el oferente de la prueba deberá presentar el pliego de posiciones correspondiente. Una vez calificadas de legales por la Sala Superior del Tribunal Electoral las posiciones, remitirá el pliego al absolvente, para que en un término de cinco días hábiles lo conteste por escrito.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 104
 
-1. El magistrado electoral podrá ordenar el desahogo de pruebas por exhorto, que dirigirá a la autoridad del lugar correspondiente para que en auxilio de las labores de la Sala se sirva diligenciarlo.
+1. El magistrado electoral podrá ordenar el desahogo de pruebas por exhorto, que dirigirá a la autoridad del lugar correspondiente para que en auxilio de las labores de la Sala competente del Tribunal Electoral se sirva diligenciarlo.
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 105
 
-1. Para la sustanciación y resolución de los juicios previstos en el presente Libro que se promuevan durante los procesos electorales ordinarios y, en su caso, en los procesos de elecciones extraordinarias, el Presidente de la Sala Superior del Tribunal podrá adoptar las medidas que estime pertinentes, a fin de que, en su caso, se atienda prioritariamente la sustanciación y resolución de los medios de impugnación previstos en el Libro Segundo de esta ley.
+1. Para la sustanciación y resolución de los juicios previstos en el presente Libro que se promuevan durante los procesos electorales ordinarios y, en su caso, en los procesos de elecciones extraordinarias, el Presidente de la Sala competente del Tribunal Electoral podrá adoptar las medidas que estime pertinentes, a fin de que, en su caso, se atienda prioritariamente la sustanciación y resolución de los medios de impugnación previstos en los Libros Segundo, Tercero y Cuarto de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 106
 
-1. La Sala resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el artículo 101 de esta ley. En su caso, la Sala podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
+1. La Sala competente del Tribunal Electoral resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el artículo 101 de esta ley. En su caso, la Sala respectiva podrá sesionar en privado si la índole del conflicto planteado así lo amerita.
 
 2. La sentencia se notificará a las partes personalmente o por correo certificado si señalaron domicilio, en caso contrario se hará por estrados.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 107
 
-1. Una vez notificada la sentencia, las partes dentro del término de tres días podrán solicitar a la Sala Superior del Tribunal Electoral la aclaración de la misma, para precisar o corregir algún punto. La Sala dentro de un plazo igual resolverá, pero por ningún motivo podrá modificar el sentido de la misma.
+1. Una vez notificada la sentencia, las partes dentro del término de tres días podrán solicitar a la Sala competente del Tribunal Electoral la aclaración de la misma, para precisar o corregir algún punto. La Sala respectiva dentro de un plazo igual resolverá, pero por ningún motivo podrá modificar el sentido de la misma.
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 108
 
-1. Los efectos de la sentencia de la Sala podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto Federal Electoral, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
+1. Los efectos de la sentencia de la Sala competente del Tribunal Electoral podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto Federal Electoral, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
 
 # LIBRO QUINTO. Del juicio para dirimir los conflictos o diferencias laborales de los servidores del Instituto Federal Electoral
 
 ## TITULO UNICO. De las reglas especiales
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Artículo 94
 
-1. Las diferencias o conflictos entre el Instituto Federal Electoral y sus servidores serán resueltas por la Sala Superior del Tribunal Electoral exclusivamente conforme a lo dispuesto en el presente Libro.
+1. Son competentes para resolver el juicio para dirimir los conflictos o diferencias laborales de los servidores del Instituto Federal Electoral:
 
-2. Para la promoción, sustanciación y resolución de los juicios previstos en este Libro, se considerarán hábiles, en cualquier tiempo, todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio.
+a) La Sala Superior del Tribunal Electoral, en los casos de conflictos o diferencias laborales entre los órganos centrales del Instituto Federal Electoral y sus servidores, y
+
+b) La Sala Regional del Tribunal Electoral, en el ámbito en el que ejerza su jurisdicción, en los casos de conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores, distintos a los señalados en el inciso anterior.
+
+2. Las determinaciones a las que se refiere el artículo 207, párrafo segundo del Código Federal de Instituciones y Procedimientos Electorales, sólo podrán ser impugnados por el funcionario directamente interesado, en las causas expresamente establecidas en el estatuto y una vez agotados todos los medios de defensa internos.
+
+3. Para la promoción, sustanciación y resolución de los juicios previstos en este Libro, se considerarán hábiles, en cualquier tiempo, todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio.
 
 Artículo 95
 
@@ -1315,3 +1569,19 @@ Tercero.- Los juicios de inconformidad y los recursos de reconsideración relati
 Los juicios de inconformidad relativos a la elección del Jefe de Gobierno del Distrito Federal deberán quedar resueltos a más tardar el día último de octubre del año de la elección.
 
 Cuarto.- Si a la entrada en vigor de la presente ley se encuentra en trámite cualquier medio de impugnación ante el Tribunal Electoral, será resuelto conforme a las normas vigentes al momento de su interposición.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE JULIO DE 2008.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
+
+Artículo Primero.- Las facultades y atribuciones de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación contenidas en la Ley General del Sistema de Medios de Impugnación en Materia Electoral objeto del presente Decreto entrarán en vigor conforme a lo establecido en el Artículo Tercero Transitorio de la Ley Orgánica del Poder Judicial de la Federación contenidos en el presente Decreto.
+
+Artículo Segundo.- Los casos radicados en la Sala Superior antes de la entrada en vigor de este Decreto serán sustanciados y resueltos por la misma conforme a las normas vigentes al momento de su interposición.
+
+Artículo Tercero.- En tanto se inicia el ejercicio de las facultades constitucionales y legales de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, los casos que a éstas competerían conforme a lo establecido por el presente Decreto y que se presenten antes de ese hecho, serán substanciados y resueltos por la Sala Superior.
+
+## TRANSITORIO
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
