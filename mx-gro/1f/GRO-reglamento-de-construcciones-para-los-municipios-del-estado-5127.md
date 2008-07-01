@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-construcciones-para-los-municipios-del-estado-512
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-10"
-last_updated: "1994-05-10"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO DE CONSTRUCCIONES PARA LOS MUNICIPIOS DEL ESTADO GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2008.
 
 Reglamento publicado en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 10 de mayo de 1994.
 
@@ -47,6 +47,10 @@ Es de orden público e interés social el cumplimiento y observancia de las disp
 
 Las obras de construcción, instalación, modificación, ampliación, reparación y demolición, así como el uso de las edificaciones y los usos, destinos y reservas de los predios del territorio de los Ayuntamientos, se sujetarán a las disposiciones de la Ley de Desarrollo Urbano del Estado, de este Reglamento y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Se incorporan al presente Reglamento las normas y criterios básicos urbanos y arquitectónicos derivados de la Ley para el Bienestar e Incorporación Social en el Estado de Guerrero, Núm. 281. Los proyectos públicos y privados deberán ajustarse a las citadas normas y criterios para lograr el desarrollo pleno de las personas discapacidades.
+
 ###### Artículo 2.
 
 Para los efectos del presente Reglamento, se entenderá por:
@@ -59,7 +63,9 @@ III.- Ley, a la Ley de Desarrollo Urbano del Estado de Guerrero.
 
 IV.- Ley Orgánica, a la Ley Orgánica de los Municipios.
 
-V.- Reglamento, al Reglamento de Construcciones.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2008)</small>
+
+V.- Reglamento, al Reglamento de Construcción para los Municipios del Estado de Guerrero.
 
 VI.- Programa, al Programa o Plan Director para el Desarrollo Urbano, o Plan Parcial o Declaratoria de Usos y Destinos.
 
@@ -78,6 +84,10 @@ XI.- Normas, a las Normas Técnicas Complementarias del Reglamento de Construcci
 De conformidad con lo dispuesto por la Ley y por la Ley Orgánica, la aplicación y vigilancia del cumplimiento de las disposiciones de este Reglamento corresponderán a los Ayuntamientos, para lo cual tendrá las siguientes facultades:
 
 I.- Fijar los requisitos técnicos a que deberán sujetarse las construcciones e instalaciones en predios y vías públicas, a fin de que satisfagan las condiciones de habitabilidad, seguridad, higiene, comodidad y buen aspecto.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Dar prioridad a la supresión de barreras arquitectónicas para personas con discapacidad estableciendo las normas urbanísticas y arquitectónicas básicas a que deberán ajustarse los proyectos públicos y privados de urbanización, fraccionamiento de terreno, construcción de edificaciones, así como en las ampliaciones, reparaciones o modificaciones de edificios existentes.
 
 II.- Fijar las restricciones a que deberán sujetarse las edificaciones y los elementos tales como fuentes, esculturas, arcos, columnas, monumentos y similares localizados en zonas de patrimonio artístico y cultural, de acuerdo con la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos.
 
@@ -573,9 +583,11 @@ Los Ayuntamientos, no estarán obligados a expedir constancia de uso de suelo, a
 
 ### CAPITULO II. USO DE LA VIA PUBLICA
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 10.
 
-Las dependencias y entidades públicas, así como las personas privadas cuyas actividades de planeación, diseño, construcción, operación y mantenimiento de estructura que tengan algún efecto en la vía pública, deberán presentar al Ayuntamiento al inicio de cada ejercicio anual sus programas de obras para su aprobación.
+Las dependencias y entidades públicas, así como las personas privadas cuyas actividades de planeación, diseño, construcción, operación y mantenimiento de estructura que tengan algún efecto en la vía pública, deberán presentar al Ayuntamiento al inicio de cada ejercicio anual sus programas de obras para su aprobación. En ningún caso, las obras, reparaciones u ocupación de la vía pública deberá ser obstáculo para el libre desplazamiento de personas con discapacidad, de acuerdo a las especificaciones que establezcan las normas y disposiciones legales y administrativas aplicables.
 
 ###### Artículo 11.
 
@@ -586,6 +598,10 @@ I.- Realizar obras, modificaciones o reparaciones en la vía pública.
 II.- Ocupar la vía pública con instalaciones de servicio público, comercios semifijos, construcciones provisionales, o mobiliario urbano.
 
 III.- Romper el pavimento o hacer cortes en las banquetas y guarniciones de la vía pública para la ejecución de obras públicas o privadas.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública o a pagar su importe cuando el Ayuntamiento las realice. En ningún caso las obras, reparaciones u ocupación de la vía pública deben ser obstáculo para el libre desplazamiento de personas con discapacidad de acuerdo a las especificaciones que establezcan las normas y demás disposiciones aplicables. Para la expedición de la licencia de construcción especial para realizar trabajos, en la vía pública, el Ayuntamiento emitirá las disposiciones que amerite cada caso.
 
 IV.- Construir instalaciones subterráneas o aéreas en la vía pública.
 
@@ -607,13 +623,21 @@ IV.- Para depósitos de basura y otros desechos.
 
 V.- Para instalar comercios semifijos en vías primarias y de acceso controlado.
 
-VI.- Para aquellos otros fines, que los Ayuntamientos consideren contrarios al interés público.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2008)</small>
+
+VI.- Para obra, reparación u ocupación de la vía pública que sea obstáculo para el libre desplazamiento de personas con discapacidad, de acuerdo a las especificaciones que establezcan las normas y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2008)</small>
+
+VII.- Para aquellos otros fines que las autoridades municipales consideren contrarios al interés público.
 
 ###### Artículo 13.
 
 Los permisos o concesiones que los Ayuntamientos otorguen para la ocupación, uso y aprovechamiento de las vías públicas o cualesquiera otros bienes de uso común o destinados a un servicio público no crean ningún derecho real o posesorio.
 
-Los permisos o concesiones, serán siempre revocables y temporales y en ningún caso podrán otorgarse con perjuicio del libre, seguro y expedito tránsito, del acceso a los predios colindantes, de los servicios públicos instalados, o en general, de cualesquiera de los fines a que estén destinadas las vías públicas y los bienes mencionados.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Los permisos o concesiones, serán siempre revocables y temporales y en ningún caso podrán otorgarse con perjuicio del libre, seguro y expedito tránsito, del acceso a los predios colindantes, de los servicios públicos instalados, o se obstruya el servicio de una rampa para personas con discapacidad, así como el libre desplazamiento de éstas en las aceras, o en general, de cualesquiera de los fines a que esté destinada la vía pública y los bienes mencionados.
 
 ###### Artículo 14.
 
@@ -623,9 +647,11 @@ En los permisos que los Ayuntamientos expidan para la ocupación o uso de la ví
 
 Todo permiso que se expida para la ocupación o uso de la vía pública, se entenderá condicionado a la observancia del presente Título, aunque no se exprese.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 15.
 
-En casos de fuerza mayor, las personas físicas o morales encargadas de prestar servicios públicos podrán ejecutar de inmediato las obras de emergencia que se requieran, pero estarán obligadas a dar aviso y solicitar la autorización correspondiente en un plazo de tres días, a partir de aquel en que se inicien dichas obras.
+En casos de fuerza mayor, las personas físicas y morales encargadas de prestar servicios públicos podrán ejecutar de inmediato las obras de emergencia provisionales que se requieran, pero estarán obligadas a dar aviso y solicitar la autorización correspondiente en un plazo de tres días, a partir de aquél en que se inicien dichas obras.
 
 Cuando los Ayuntamientos, tengan necesidad de remover o retirar dichas obras, no estarán obligados a pagar cantidad alguna y el costo del retiro será a cargo del infractor.
 
@@ -639,9 +665,13 @@ Las determinaciones que dicten los Ayuntamientos, en uso de las facultades que l
 
 El que ocupe sin autorización la vía pública, con construcciones o instalaciones superficiales, aéreas o subterráneas, estará obligado a retirarlas o a demolerlas. En su caso, los Ayuntamientos llevarán a cabo el retiro o demolición de las obras con cargo al propietario o poseedor.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 18.
 
-Los Ayuntamientos, establecerán las restricciones para la ejecución de rampas en guarniciones y banquetas para la entrada de vehículos, así como las características, normas y tipos para las rampas de servicio a personas impedidas y ordenará el uso de rampas móviles cuando corresponda.
+Los Ayuntamientos, establecerán las restricciones para la ejecución de rampas de guarniciones y banquetas para la entrada de vehículos, así como las características, normas y tipos para las rampas de servicio a personas con discapacidad y ordenará el uso de rampas móviles cuando corresponda.
+
+Los Ayuntamientos promoverán en la construcción o remodelación de banquetas el cambio de materiales con otra textura en las aproximaciones a los cruces o las entradas de edificios públicos.
 
 ### CAPITULO III. INSTALACIONES SUBTERRANEAS Y AEREAS EN LA VIA PUBLICA
 
@@ -675,21 +705,27 @@ Los Ayuntamientos podrán ordenar el retiro o cambio de lugar de postes o instal
 
 Si no lo hiciere dentro del plazo que se les haya fijado, los Ayuntamientos lo ejecutarán a costa de dichos propietarios.
 
-No se permitirá colocar postes o instalaciones en aceras, cuando con ellos se impida la entrada a un inmueble. Si el acceso al predio se construye estando ya colocados el poste o la instalación, deberán ser cambiados de lugar por el propietario de los mismos, pero los gastos serán por cuenta del propietario del inmueble.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
+No se permitirá colocar estructuras, postes o instalaciones en aceras y banquetas, cuando con ellos se impida la entrada a un inmueble y el acceso al predio obstruya el servicio de una rampa para personas con discapacidad, así como el libre desplazamiento de éstas por las banquetas. Si el acceso al predio se construye estando ya colocados el poste o la instalación, deberán ser cambiados de lugar por el propietario de los mismos, pero los gastos serán por cuenta del propietario del inmueble. Las instalaciones que sirvan para el ordenamiento del tráfico deberán contar con señales visibles y audibles para los peatones, incluyendo las personas con discapacidad.
 
 ### CAPITULO IV. NOMENCLATURA
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 25.
 
-Los Ayuntamientos, establecerán la nomenclatura oficial para la denominación de las vías públicas, parques, jardines, plazas y predios en su jurisdicción.
+Los Ayuntamientos establecerán la nomenclatura oficial para la denominación de las vías públicas, jardines, plazas y predios en su jurisdicción y se encargarán de poner las placas con letras realzadas o en Sistemas Braile en las esquinas de las calles para indicar nombres y sentidos de circulación.
 
 ###### Artículo 26.
 
 Los Ayuntamientos previa solicitud, señalarán para cada predio que tenga frente a la vía pública un solo número oficial, que corresponderá a la entrada del mismo.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 27.
 
-El número oficial deberá colocarse en parte visible de la entrada de cada predio, y deberá ser claramente legible a un mínimo de veinte metros de distancia.
+El número oficial deberá colocarse en parte visible de la entrada de cada predio, y deberá ser claramente legible a un mínimo de veinte metros de distancia con numeración realzada o Sistema Braile para ser identificados por las personas con discapacidad visual.
 
 ###### Artículo 28.
 
@@ -740,6 +776,20 @@ Los Ayuntamientos, tendrán la facultad de fijar las distintas zonas en las que 
 Los Ayuntamientos, establecerán en los Programas Parciales las restricciones que juzguen necesarias para la construcción o para uso de los bienes inmuebles ya sea en forma general, en fraccionamientos, en lugares o predios específicos, y las hará constar en los permisos, licencias o constancias de alineamiento o zonificación que expida, quedando obligados a respetarlas los propietarios o poseedores de los inmuebles, tanto públicos como privados.
 
 Estará prohibido el derribo de árboles, salvo casos expresamente autorizados por los Ayuntamientos, independientemente de cumplir, en su caso, con lo establecido por la Ley Forestal y su Reglamento, así como con la Ley Estatal de Ecología y su Reglamento y las demás disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Las construcciones o modificaciones que a éstas se realicen deberán contar con facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad de conformidad con las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Los lugares con acceso al público en donde se presenten espectáculos públicos, los organizadores deberán establecer espacios reservados para personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Las acciones de planificación y urbanización de vías públicas, parques y jardines públicos, deberán considerar los criterios y normas que faciliten el tránsito, desplazamiento y uso de estos espacios por las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
 
 Los propios Ayuntamientos, harán que se cumplan las restricciones impuestas a los predios con fundamento en la Ley y sus Reglamentos.
 
@@ -799,6 +849,10 @@ III.- Apertura de claros de un metro cincuenta centímetros como máximo en cons
 
 IV.- Instalación de fosas sépticas o albañales en casas habitación.
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2008)</small>
+
+V.- Construcción de rampas de servicio para personas con discapacidad, siempre y cuando se ajusten a las especificaciones de las normas y demás disposiciones aplicables.
+
 ###### Artículo 42.
 
 Para obtener el registro como Director Responsable de Obra, se deberán satisfacer los siguientes requisitos:
@@ -854,6 +908,18 @@ VII.- Resellar anualmente el carnet y refrendar su registro de Director Responsa
 En este caso, se seguirá el procedimiento indicado en el Artículo 42, de este Reglamento, sin que sea necesario presentar de nuevo la documentación que ya obra en poder de los Ayuntamientos, en particular informará a la Comisión sobre las licencias, dictámenes y vistos buenos que haya suscrito, así como de todas sus intervenciones con el carácter de Director Responsable de Obra, debiendo además acreditar que es miembro activo del Colegio de Profesionales respectivo.
 
 VIII.- Elaborar y entregar al propietario de la obra al término de esta, los manuales de operación y mantenimiento a que se refiere el Artículo 284 de este Reglamento, en los casos de las obras numeradas en el artículo 53 del mismo.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Todas las construcciones o modificaciones que a éstas se realicen deberán contar con facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Los lugares con acceso al público en donde se presenten espectáculos públicos, los organizadores deberán establecer espacios reservados para personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Las acciones de planificación y urbanización de vías públicas, parques y jardines públicos, deberán considerar los criterios y normas que faciliten el tránsito, desplazamiento y uso de estos espacios para las personas con discapacidad.
 
 ### CAPITULO II. CORRESPONSABLES
 
@@ -1235,7 +1301,9 @@ a) Constancia de uso del suelo, alineamiento y/o número oficial vigente.
 
 b) Cuatro tantos (mínimo) del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se deberán incluir, como mínimo: levantamiento del estado actual del predio, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada y detalles arquitectónicos interiores y de obra exterior; plantas y cortes de las instalaciones hidrosanitarias, eléctricas y otras, mostrando las trayectorias de tuberías y alimentaciones.
 
-Estos planos deberán acompañarse de la memoria descriptiva la cual contendrá como mínimo: el listado de locales construidos y áreas libres de que consta la obra, con la superficie y el número de ocupantes o usuarios de cada uno; la intensidad de uso del suelo y la densidad de población, de acuerdo a los Programas Parciales; y la descripción de los dispositivos que provean el cumplimiento de los requerimientos establecidos por este Reglamento en cuanto a salidas y muebles hidrosanitarios, niveles de iluminación y superficies de ventilación de cada local, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, instalaciones y/o equipos de extinción de fuego, referidos en los Artículos 116, 117 y 118, Sección Segunda de este Reglamento y cálculo de diseño de las instalaciones hidrosanitarias, eléctricas y otras que se requieran.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Estos planos deberán acompañarse de la memoria descriptiva la cual contendrá como mínimo: el listado de locales construidos y áreas libres de que consta la obra, con la superficie y el número de ocupantes o usuarios de cada uno; los requerimientos mínimos de acceso y desplazamiento de personas con discapacidad, cumpliendo con las normas correspondientes; asimismo contendrá la intensidad de uso del suelo y la densidad de población, de acuerdo a los Programas Parciales; y la descripción de los dispositivos que provean el cumplimiento de los requerimientos establecidos por este Reglamento en cuanto a salidas, muebles hidrosanitarios, nomenclatura y señalización incluyendo las requeridas para personas con discapacidad, niveles de iluminación y superficies de ventilación de cada local, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, instalaciones y/o equipos de extinción de fuego, referidos en los Artículos 116, 117 y 118, Sección Segunda de este Reglamento y cálculo de diseño de las instalaciones hidrosanitarias, eléctricas y otras que se requieran.
 
 Estos documentos deberán estar firmados por el propietario o poseedor, el Director Responsable de Obra y los Corresponsables en Diseño Urbano y Arquitectónico y en Instalaciones, en su caso. Debiéndose colocar en el pie del plano su nombre y número de registro, ante los Ayuntamientos.
 
@@ -1567,9 +1635,11 @@ La separación entre edificios de habitación plurifamiliar de hasta cincuenta v
 
 En conjuntos habitacionales de más de cincuenta viviendas, la separación entre edificios en dirección norte-sur, será por lo menos del 60% de la altura promedio de los mismos, y en dirección este-oeste, será por lo menos del 100%.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 80.
 
-Las edificaciones deberán contar con los espacios para estacionamientos de vehículos que se establecen en las Normas Técnicas Complementarias.
+Las edificaciones deberán contar con la funcionalidad, el número y dimensiones mínimas de los espacios para estacionamientos de vehículos incluyendo aquellos exclusivos para personas con discapacidad que establecen las Normas Técnicas Complementarias o en los artículos transitorios de este Reglamento en tanto no se cuente con las primeras.
 
 ### CAPITULO II. REQUERIMIENTOS DE HABITABILIDAD Y FUNCIONAMIENTO
 
@@ -1583,9 +1653,11 @@ Los locales de las edificaciones, según su tipo, deberán tener como mínimo la
 
 Las edificaciones deberán estar provistas de servicios de agua potable capaces de cubrir las demandas mínimas de acuerdo con las Normas Técnicas Complementarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 83.
 
-Las edificaciones estarán provistas de servicios sanitarios con el número mínimo, tipo de muebles y sus características que se establecen a continuación:
+Las edificaciones estarán provistas de servicios sanitarios incluyendo los necesarios para las personas con discapacidad, con el número mínimo, tipo de muebles y sus características que se establecen en las Normas Técnicas Complementarias y que a continuación se indican:
 
 I.- Las viviendas con menos de 45 m2 contarán cuando menos, con un excusado, una regadera y uno de los siguientes muebles: lavabo, fregadero o lavadero.
 
@@ -1653,9 +1725,11 @@ Bis.- Las edificaciones que se destinen a industrias y establecimientos deberán
 
 Todas las edificaciones deberán contar con buzones para recibir comunicación por correo, accesibles desde el exterior.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 94.
 
-En las edificaciones de riesgo mayor, clasificadas en el Artículo 117 de este Reglamento, las circulaciones que funcionen como salidas a la vía pública o conduzcan directa o indirectamente a estas, estarán señaladas con letreros y flechas permanentemente iluminadas y con la leyenda escrita “SALIDA” o “SALIDA DE EMERGENCIA”, según el caso.
+En las edificaciones de riesgo mayor, clasificadas en el Artículo 117 de este Reglamento, las circulaciones que funcionen como salidas a la vía pública o conduzcan directamente a éstas, estarán señaladas con letreros y flechas permanentemente iluminadas con la leyenda escrita “SALIDA” o “SALIDA DE EMERGENCIA”, según el caso. Asimismo, deberán integrar sistemas de señalización para personas con discapacidad.
 
 ###### Artículo 95.
 
@@ -1675,27 +1749,47 @@ Las edificaciones para la educación deberán contar con áreas de dispersión y
 
 Las puertas de acceso, intercomunicación y salida deberán tener una altura de 2.10 m. cuando menos; y una anchura que cumpla con la medida de 0.60 m. por cada 100 usuarios o fracción, pero sin reducir los valores mínimos que se establezcan en las Normas Técnicas Complementarias, para cada tipo de edificación.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+###### Artículo 98-A.
+
+Para las edificaciones de riesgo mayor, las edificaciones de salud, educación, y entretenimiento, las puertas de acceso, intercomunicación y salida deberán tener una altura de 2.10 metros, cuando menos y un ancho mínimo de 1.20 metros.
+
 ###### Artículo 99.
 
 Las circulaciones horizontales, como corredores, pasillos y túneles, deberán cumplir con una altura mínima de 2.10 m. y con una anchura adicional no menor de 0.60 m. por cada 100 usuarios o fracción, ni menor de los valores mínimos que establezcan las Normas Técnicas Complementarias para cada tipo de edificación.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+###### Artículo 99-A.
+
+Para las edificaciones de riesgo mayor, de salud, educación y entretenimiento, las circulaciones horizontales como corredores, pasillos y túneles, la altura mínima será de 2.10 metros y la anchura de 1.20 metros.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 100.
 
-Las edificaciones tendrán siempre escaleras o rampas peatonales que comuniquen todos sus niveles, aún cuando existan elevadores, escaleras eléctricas o montacargas, con un ancho mínimo de 0.75 m. y las condiciones de diseño que establezcan las Normas Técnicas Complementarias para cada tipo de edificación. Todas las edificaciones deberán incluir en su proyecto arquitectónico la construcción de rampas peatonales, para uso de personas impedidas al menos en planta baja o nivel de acceso, y únicamente en casas unifamiliares en donde el propietario la solicite.
+Las edificaciones tendrán siempre escaleras o rampas peatonales que comuniquen todos los niveles, aún cuando existan elevadores, escaleras eléctricas o montacargas, con un ancho mínimo de 1.00 metro y las condiciones de diseño que establezcan las Normas Técnicas Complementarias para cada tipo de edificación. Todas las edificaciones deberán incluir en su proyecto arquitectónico la construcción de rampas peatonales, para uso de personas con discapacidad al menos en planta baja o nivel de acceso y únicamente en casas unifamiliares en donde el propietario la solicite.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
 
 ###### Artículo 101.
 
-Las rampas peatonales que se proyecten en cualquier edificación deberán tener una pendiente máxima de 10%, con pavimentos antiderrapantes, barandales en uno de sus lados por lo menos y con las anchuras mínimas que se establecen para las escaleras en el Artículo anterior.
+Las rampas peatonales que se proyecten en cualquier edificación deberán tener un ancho mínimo de 1.00 metro una pendiente máxima de 6% con pavimento antiderrapante, longitud no mayor de 6.00 metros; cuando rebase esta longitud, se contará con descansos de 1.50 metros, contará con bordes laterales de 5 centímetros de altura, barandales en uno de sus lados por lo menos a dos diferentes alturas, uno a 90 centímetros para personas con bastón y otro de 75 centímetros para personas en silla de ruedas.
 
 ###### Artículo 102.
 
 Salida de emergencia es el sistema de puertas, circulaciones horizontales, escaleras y rampas que conducen a la vía pública o áreas exteriores comunicadas directamente con esta, adicional a los accesos de uso normal, que se requerirá cuando la edificación sea de riesgo mayor según la clasificación del Artículo 117 de este Reglamento y de acuerdo con las siguientes disposiciones:
 
-I.- Las salidas de emergencia serán en igual número y dimensiones que las puertas, circulaciones horizontales y escaleras a que se refieren los Artículos 98 y 100 de este Reglamento y deberán cumplir con todas las demás disposiciones establecidas en esta sección para circulaciones de uso normal.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2008)</small>
+
+I.- Las salidas de emergencia serán en igual número y dimensiones que las puertas, circulaciones horizontales y escaleras a que se refieren los Artículos 98 y 100 de este Reglamento y deberán cumplir con todas las demás disposiciones establecidas en esta sección para circulaciones de uso normal y para personas con discapacidad.
 
 II.- No se requerirán escaleras de emergencia en las edificaciones de hasta 25.00 m. de altura, cuyas escaleras de uso normal estén ubicadas en locales en planta baja abiertos al exterior en por lo menos uno de sus lados, aún cuando sobrepasen los rangos de ocupantes y superficie establecidos para edificaciones de riesgo menor en el Artículo 117 de este Reglamento.
 
-III.- Las salidas de emergencia deberán permitir el desalojo de cada nivel de la edificación, sin atravesar locales de servicio como cocinas y bodegas.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2008)</small>
+
+III.- Las salidas de emergencia deberán permitir el desalojo de cada nivel de la edificación, sin atravesar locales de servicios como cocinas y bodegas. También deberán estar libres de cualquier objeto que limite el libre desplazamiento de personas con discapacidad.
 
 IV.- Las puertas de las salidas de emergencia deberán contar con mecanismos que permitan abrirlas desde dentro mediante una operación simple de empuje.
 
@@ -1715,7 +1809,9 @@ V.- Los asientos de las butacas serán plegadizos, a menos que el pasillo al que
 
 VI.- En el caso de cines, la distancia desde cualquier butaca al punto más cercano de la pantalla será la mitad de la dimensión mayor de esta, pero en ningún caso menor de 7m.
 
-VII.- En auditorios, teatros, cines, salas de concierto y teatros al aire libre, deberá destinarse un espacio por cada cien asistentes o fracción a partir de sesenta, para uso exclusivo de personas impedidas. Este espacio tendrá 1.25 m. de fondo y 0.80 m. de frente y quedará libre de butacas y fuera del área de circulaciones.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2008)</small>
+
+VII.- En auditorios, teatros, cines, salas de concierto y teatros al aire libre, deberá destinarse un espacio por cada cien asistentes o fracción a partir de sesenta, para uso exclusivo de personas con discapacidad. Este espacio tendrá 1.50 m. de fondo y 1.20 m. de frente y quedará libre de butacas y fuera del área de circulaciones.
 
 ###### Artículo 104.
 
@@ -1738,6 +1834,10 @@ a) La capacidad de transporte del elevador o sistema de elevadores, será cuando
 b) El intervalo máximo de espera será de 80 segundos.
 
 c) Se deberá indicar claramente en el interior de la cabina la capacidad máxima de carga útil, expresada en kilogramos y en número de personas, calculadas en 70 kilos cada una.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Se deberá contemplar señalización adecuada para personas con discapacidad. Los botones de llamada deberán tener simbología con alto relieve y su significado en Sistema Braile, colocados a 1.20 metros de altura; contar con pasamanos interiores y utilizar sistema de luz y sonido para la operación del elevador.
 
 d) Los cables y elementos mecánicos deberán tener una resistencia igual o mayor al doble de la carga útil de operación.
 
@@ -1815,7 +1915,9 @@ Las edificaciones deberán contar con las instalaciones y los equipos necesarios
 
 Los equipos y sistemas contra incendios, deberán mantenerse en condiciones de funcionar en cualquier momento para lo cual deberán ser revisados y probados periódicamente. El propietario o el Director Responsable de Obra designado para la etapa de operación y mantenimiento, en las obras que se requiera según el Artículo 64 de este Reglamento, llevará un libro donde registrará los resultados de estas pruebas y lo exhibirá a las autoridades competentes a solicitud de estas.
 
-Los Ayuntamientos, tendrán la facultad de exigir en cualquier construcción las instalaciones o equipos especiales que establezcan las Normas Técnicas Complementarias, además de los señalados en esta sección.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
+Los Ayuntamientos tendrán la facultad de exigir en cualquier construcción las instalaciones o equipos especiales que establezcan las Normas Técnicas Complementarias, además de los señalados en esta sección, así como las especificaciones de uso colocadas en sitios visibles, con letras resaltadas o en Sistema Braile.
 
 ###### Artículo 117.
 
@@ -1879,9 +1981,11 @@ Los elementos estructurales de madera de las edificaciones de riesgo mayor, debe
 
 Los elementos sujetos a altas temperaturas, como tiros de chimeneas, campanas de extracción o ductos que puedan conducir gases a más de 80 Cº, deberán distar de los elementos estructurales de madera un mínimo de 60 cm. En el espacio comprendido en dicha separación deberá permitirse la circulación del aire.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 121.
 
-Las edificaciones de riesgo menor con excepción de los edificios destinados a habitación, de hasta cinco niveles, deberán contar en cada piso con extintores contra incendio adecuados al tipo de incendio que pueda producirse en la construcción, colocados en lugares fácilmente accesibles y con señalamientos que indiquen su ubicación de tal manera que su acceso, desde cualquier punto del edificio, no se encuentre a mayor distancia de 30 m.
+Las edificaciones de riesgo menor con excepción de los edificios destinados a habitación de hasta cinco niveles, deberán contar en cada piso con extintores contra incendios adecuados la tipo de incendio que pueda producirse en la construcción, colocados en lugares fácilmente accesibles y con señalamientos, incluyendo para personas con discapacidad, que indiquen la ubicación de tal manera que su acceso, desde cualquier punto del edificio, no se encuentre a mayor distancia de 30 metros.
 
 ###### Artículo 122.
 
@@ -1925,7 +2029,9 @@ Durante las diferentes etapas de la construcción de cualquier obra, deberán to
 
 Esta protección deberá proporcionarse tanto al área ocupada por la obra en sí, como a las colindancias, bodegas, almacenes y oficinas.
 
-El equipo de extinción deberá ubicarse en lugares de fácil acceso, y se identificará mediante señales, letreros o símbolos claramente visibles.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
+El equipo de extinción deberá ubicarse en lugares de fácil acceso y se identificará mediante señales, letreros o símbolos claramente visibles para las personas, incluyendo a las discapacitadas.
 
 ###### Artículo 126.
 
@@ -2199,6 +2305,12 @@ Las tuberías, conexiones y válvulas para agua potable deberán ser de cobre r�
 
 Las instalaciones de infraestructura hidráulica y sanitaria que deban realizarse en el interior de predios de conjuntos habitacionales y otras edificaciones de gran magnitud, previstas en la fracción II del Artículo 53 de este Reglamento, deberán sujetarse a lo que dispongan los Ayuntamientos para cada caso.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2008)</small>
+
+###### Artículo 153-A.
+
+En las edificaciones públicas se deberá contar con instalaciones sanitarias para personas con discapacidad, de acuerdo a las especificaciones de las Normas Técnicas Complementarias.
+
 ###### Artículo 154.
 
 Las instalaciones hidráulicas de baños y sanitarios, deberán tener llaves de cierre automático o aditamentos economizadores de agua; los excusados tendrán una descarga máxima de seis litros en cada servicio; las regaderas y los mingitorios, tendrán una descarga máxima de diez litros por minuto, y dispositivos de apertura y cierre de agua que evite su desperdicio; y los lavabos, y las tinas, lavaderos de ropa y fregaderos, tendrán llaves que no consuman más de diez litros por minuto.
@@ -2311,7 +2423,11 @@ III.- Las cajas de registros de distribución y de alimentación deberán coloca
 
 IV.- Las líneas de distribución horizontal deberán colocarse en tubería de fierro (conduit no anillado o plástico rígido de 13 mm. como mínimo). Para tres o cuatro líneas deberá colocarse registro de 10x5x3 cm. (chalupa), a cada 20 m. de tubería como máximo, a una altura de 0.60 m. sobre el nivel del piso.
 
-V.- Las edificaciones que requieran conmutadores o instalaciones telefónicas especiales deberán sujetarse a lo que establecen las Normas Técnicas de Instalaciones Telefónicas de Teléfonos de México, S.A
+V.- Las edificaciones que requieran conmutadores o instalaciones telefónicas especiales deberán sujetarse a lo que establecen las Normas Técnicas de Instalaciones Telefónicas de Teléfonos de México, S.A.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2008)</small>
+
+VI.- Para las casetas telefónicas públicas se deberán considerar los espacios, alturas y señalización adecuada para el uso de los mismos por personas con discapacidad, establecidos en las Normas Técnicas Complementarias.
 
 ## TITULO SEXTO. SEGURIDAD ESTRUCTURAL DE LAS CONSTRUCCIONES
 
@@ -2669,161 +2785,171 @@ En este Capítulo se establecen las bases y requisitos generales mínimos de dis
 
 Las estructuras se analizarán bajo la acción de dos componentes horizontales ortogonales no simultáneos del movimiento del terreno. Las deformaciones y fuerzas internas que resulten se combinarán entre si como lo especifiquen las Normas Técnicas Complementarias, y se combinarán con los efectos de fuerzas gravitacionales de las otras acciones que correspondan según los criterios que establece el Capítulo III de este Título.
 
-MUNICIPIOS DEL ESTADO DE
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
 
-GUERRERO, POR ORDEN ALFABETICO
+RELACIÓN DE MUNICIPIOS INTEGRANTES DEL ESTADO DE GUERRERO, POR ORDEN ALFABÉTICO
 
-1.- Acapulco.
+1.- Acapulco de Juárez.
 
-2.- Ahuacuotzingo.
+2.- Acatepec.
 
-3.- Ajuchitlán del Progreso.
+3.- Ahuacuotzingo.
 
-4.- Alcozauca de Guerrero.
+4.- Ajuchitlán del Progreso.
 
-5.- Alpuyeca.
+5.- Alcozauca de Guerrero.
 
-6.- Apaxtla.
+6.- Alpoyeca.
 
-7.- Arcelia.
+7.- Apaxtla.
 
-8.- Atenango del Río.
+8.- Arcelia.
 
-9.- Atlamajalcingo del Monte.
+9.- Atenango del Río.
 
-10.- Atlixtac.
+10.- Atlamajalcingo del Monte.
 
-11.- Atoyac de Alvarez.
+11.- Atlixtac.
 
-12.- Ayutla de los Libres.
+12.- Atoyac de Álvarez.
 
-13.- Azoyú.
+13.- Ayutla de los Libres.
 
-14.- Benito Juárez.
+14.- Azoyú.
 
 15.- Buenavista de Cuellar.
 
-16.- Coahuayutla de Guerrero.
+16.- Benito Juárez.
 
-17.- Cocula.
+17.- Coahuayutla de José María Izazaga.
 
-18.- Copala.
+18.- Cochoapa el Grande.
 
-19.- Copalillo.
+19.- Cocula.
 
-20.- Copanatoyac.
+20.- Copala.
 
-21.- Coyuca de Benítez.
+21.- Copalillo.
 
-22.- Coyuca de Catalán.
+22.- Copanatoyac.
 
-23.- Cuajinicuilapa.
+23.- Coyuca de Benítez.
 
-24.- Cualac.
+24.- Coyuca de Catalán.
 
-25.- Cuautepec.
+25.- Cuajinicuilapa.
 
-26.- Cuetzala del Progreso.
+26.- Cualac.
 
-27.- Cutzamala de Pinzón.
+27.- Cuauhtepec.
 
-28.- Chilapa de Alvarez.
+28.- Cuetzala del Progreso.
 
-29.- Chilpancingo de los Bravo.
+29.- Cutzamala de Pinzón.
 
-30.- Florencio Villarreal.
+30.- Chilapa de Álvarez.
 
-31.- General Canuto A. Neri.
+31.- Chilpancingo de los Bravo.
 
-32.- General Heliodoro Castillo.
+32.- Eduardo Neri.
 
-33.- Huamuxtitlán.
+33.- Florencio Villarreal.
 
-34.- Huitzuco de los Figueroa.
+34.- Gral. Canuto A. Neri.
 
-35.- Iguala de la Independencia.
+35.- Gral. Heliodoro Castillo.
 
-36.- Igualapa.
+36.- Huamuxtitlán.
 
-37.- Ixcateopan de Cuauhtémoc.
+37.- Huitzuco de los Figueroa.
 
-38.- José Azueta.
+38.- Iguala de la Independencia.
 
-39.- Juan R. Escudero.
+39.- Igualapa.
 
-40.- Leonardo Bravo.
+40.- Iliatenco.
 
-41.- Malinaltepec.
+41.- Ixcateopan de Cuauhtémoc.
 
-42.- Mártir de Cuilapan.
+42.- José Azueta.
 
-43.- Metlatonoc.
+43.- José Joaquín de Herrera.
 
-44.- Mochitlán.
+44.- Juan R. Escudero.
 
-45.- Olinalá.
+45.- Juchitán.
 
-46.- Ometepec.
+46.- Leonardo Bravo.
 
-47.- Pedro Ascencio Alquisiras.
+47.- Malinaltepec.
 
-48.- Petatlán.
+48.- Mártir de Cuilapan.
 
-49.- Pilcaya.
+49.- Marquelia.
 
-50.- Pungarabato.
+50.- Metlatónoc.
 
-51.- Quechultenango.
+51.- Mochitlán.
 
-52.- San Luis Acatlán.
+52.- Olinalá.
 
-53.- San Marcos.
+53.- Ometepec.
 
-54.- San Miguel Totolapan.
+54.- Pedro Ascencio Alquisiras.
 
-55.- Taxco de Alarcón.
+55.- Petatlán.
 
-56.- Tecoanapa.
+56.- Pilcaya.
 
-57.- Tecpan de Galeana.
+57.- Pungarabato.
 
-58.- Teloloapan.
+58.- Quechultenango.
 
-59.- Tepecoacuilco de Trujano.
+59.- San Luis Acatlán.
 
-60.- Tetipac.
+60.- San Marcos.
 
-61.- Tixtla de Guerrero.
+61.- San Miguel Totolapan.
 
-62.- Tlacoachistlahuaca.
+62.- Taxco de Alarcón.
 
-63.- Tlacoapa.
+63.- Tecoanapa.
 
-64.- Tlalchapa.
+64.- Tecpan de Galeana.
 
-65.- Tlalixtaquilla.
+65.- Teloloapan.
 
-66.- Tlapa de Comonfort.
+66.- Tepecoacuilco de Trujano.
 
-67.- Tlapehuala.
+67.- Tetipac.
 
-68.- La Unión
+68.- Tixtla de Guerrero.
 
-69.- Xalpatlahuac.
+69.- Tlacoapa.
 
-70.- Xochihuehuetlán.
+70.- Tlacoachistlahuaca.
 
-71.- Xochistlahuaca.
+71.- Tlalchapa.
 
-72.- Zapotitlán Tablas.
+72.- Tlalixtaquilla de Maldonado.
 
-73.- Zirándaro.
+73.- Tlapa de Comonfort.
 
-74.- Zitlala.
+74.- Tlapehuala.
 
-75.- Zumpango del Río.
+75.- La Unión de Isidoro Montes de Oca.
 
-76.- Acatepec.
+76.- Xalpatlahuác.
+
+77.- Xixhistlahuaca.
+
+78.- Xochihuehuetlán.
+
+79.- Zapotitlán Tablas.
+
+80.- Zirándaro.
+
+81.- Zitlala.
 
 Según sean las características de la estructura de que se trate, esta podrá analizarse por sismo mediante el método simplificado, el método estático o uno de los dinámicos que describan las Normas Técnicas Complementarias, con las limitaciones que ahí se establezcan.
 
@@ -3187,9 +3313,11 @@ Durante la ejecución de una obra, deberán tomarse las medidas necesarias para 
 
 Deberán observarse, además, las disposiciones establecidas por los Reglamentos para la Protección del Ambiente contra la Contaminación Originada por la Emisión de Ruido y para la Prevención y Control de la Contaminación Atmosférica originada por la Emisión de Humos y Polvos.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 242.
 
-Los materiales de construcción y los escombros de las obras podrán colocarse momentáneamente en las banquetas de la vía pública sin invadir la superficie de rodamiento, durante los horarios y bajo las condiciones que fijen los Ayuntamientos para cada caso, y en ningún caso podrán permanecer veinticuatro horas.
+Los materiales de construcción y los escombros de las obras no podrán colocarse en la vía pública ni de manera momentánea.
 
 ###### Artículo 243.
 
@@ -3267,9 +3395,11 @@ II.- Cuando se proyecte utilizar en una construcción algún material nuevo del 
 
 Secretaría de Comercio y Fomento Industrial, el Director Responsable de Obra deberá solicitar la aprobación previa del Estado para lo cual presentará los resultados de las pruebas de verificación de calidad de dicho material.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 256.
 
-Los materiales de construcción deberán ser almacenados en las obras de tal manera que se evite su deterioro o la intrusión de materiales extraños.
+Los materiales de construcción, escombros y otros residuos con excepción de los peligrosos, generados en las obras, podrán colocarse en las banquetas de vía pública por no más de 24 horas, sin invadir la superficie de rodamiento y sin impedir el paso de peatones y de personas con discapacidad, previo permiso otorgado por el Ayuntamiento, durante los horarios y bajo las condiciones que fije en cada caso. Asimismo, los materiales de construcción deberán ser almacenados en las obras de tal manera que se evite su deterioro o la intrusión de materiales extraños.
 
 ###### Artículo 257.
 
@@ -3371,9 +3501,11 @@ Semanalmente deberán revisarse y corregirse, en su caso, cables de alambre, con
 
 ### CAPITULO VII. INSTALACIONES
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 ###### Artículo 271.
 
-Las instalaciones eléctricas, hidráulicas, sanitarias, contra incendio, de gas, vapor, combustible, líquidos, aire acondicionado, telefónicas, de comunicación y todas aquellas que se coloquen en las edificaciones, serán las que indique el proyecto; y garantizarán la eficiencia de las mismas, así como la seguridad de la edificación, trabajadores y usuarios, para lo cual deberán cumplir con lo señalado en este Capítulo, en las Normas Técnicas Complementarias y las disposiciones legales aplicables a cada caso.
+Las instalaciones eléctricas, hidráulicas, sanitarias, contra incendio, de gas, vapor, combustible, líquidos, aire acondicionado, telefónicas, de comunicación y todas aquellas que se coloquen en las edificaciones, serán las que se indiquen en el proyecto, y garantizarán la eficiencia de las mismas, así como la seguridad en la edificación, trabajadores y usuarios, incluyendo a las personas con discapacidad, para lo cual deberán cumplir con lo señalado en este Capítulo, en las Normas Técnicas Complementarias y las disposiciones aplicables a cada caso.
 
 ###### Artículo 272.
 
@@ -4123,7 +4255,7 @@ Se abroga el Reglamento de Construcciones para el Estado, publicado en el Perió
 
 ###### ARTICULO CUARTO.
 
-La obligación contenida en el Artículo 39-Bis de este Reglamento, entrará en vigor a partir de: (sic)
+(DEROGADO, P.O. 1 DE JULIO DE 2008)
 
 ###### ARTICULO QUINTO.
 
@@ -4177,15 +4309,21 @@ TIPOLOGIA: NUMERO MINIMO DE CAJONES:
 
 I.- HABITACION:
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 I.1.- Habitación hasta 150 m2 1 por vivienda
 
 Unifamiliar.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
 
 I.1.1.- Habitación de más de 150
 
 Bifamiliar. hasta 250 m2 2 por vivienda
 
 de más de 250 m2 3 por vivienda
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
 
 I.2.- Habitación hasta 60 m2 1 por vivienda
 
@@ -4201,11 +4339,13 @@ hasta 250 m2 2 por vivienda
 
 de más de 250 m2 3 por vivienda
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2008)</small>
+
 I.2 (sic).- Habitación hasta 60 m2 1 por vivienda
 
-Plurifamiliar
+Plurifamiliar de más de 60
 
-(con elevador). de más de 60
+(con elevador).
 
 hasta 150 m2 1.5 por vivienda
 
@@ -4485,7 +4625,9 @@ VII.- Las medidas de los cajones de estacionamiento para coches serán de 5.00 x
 
 VIII.- Se podrá aceptar el estacionamiento en "Cordón" en cuyo caso el espacio para el acomodo de vehículos será de 6.00 x 2.40 m., para coches grandes, pudiendo en un cincuenta por ciento, ser de 4.80 x 2.00 m. para coches chicos. Estas medidas no comprenden las áreas de circulación necesarias.
 
-IX.- Los estacionamientos públicos y privados señalados en la fracción I, deberán destinar por lo menos un cajón de cada veinticinco o fracción a partir de doce, para uso exclusivo de personas impedidas, ubicados lo más cerca posible de la entrada a la edificación. En estos casos, las medidas del cajón serán de 5.00 x 3.80 m.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2008)</small>
+
+IX.- Los estacionamientos públicos y privados deben destinar un cajón con dimensiones de 5.00 x 3.80 de cada veinticinco o fracción a partir de doce, para uso exclusivo de personas con discapacidad, ubicado lo más cerca posible de la entrada de la edificación o a la zona de elevadores de preferencia al mismo nivel que éstas; en el caso de existir desniveles se deberá contar con rampas de un ancho mínimo de 1.00 m. y pendiente máxima de 8%. También deberá existir una ruta libre de obstáculos entre el estacionamiento y el acceso al edificio, además de cumplir con las especificaciones técnicas de las normas complementarias.
 
 X.- En los estacionamientos públicos o privados que no sean de autoservicio, podrán permitirse que lo espacios se dispongan de tal manera que para sacar un vehículo se mueva un máximo de dos.
 
@@ -5204,3 +5346,11 @@ El Secretario de Planeación, Presupuesto, y Desarrollo Urbano.
 C. LIC. RENE JUAREZ CISNEROS.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- En las Normas Técnicas Complementarias del Reglamento de Construcción para los Municipios del Estado de Guerrero que expida en (sic) Gobierno del Estado, deberán tomarse en consideración las bases establecidas en el presente Decreto en beneficio de las personas con discapacidad.
