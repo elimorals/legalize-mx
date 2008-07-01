@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2007-10-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2008.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE ENERO DE 2007.
 
@@ -3082,6 +3082,10 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 
 La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público ni cuando, para los efectos del artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, la autoridad requiera intercambiar información con la Comisión Federal para la Protección contra Riesgos Sanitarios de la Secretaría de Salud.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Tampoco será aplicable dicha reserva a la Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, en los términos establecidos por los párrafos 3 y 4 del artículo 79 del Código Federal de Instituciones y Procedimientos Electorales, ni a las Salas del Tribunal Electoral del Poder Judicial de la Federación en los asuntos contenciosos directamente relacionados con la fiscalización de las finanzas de los partidos políticos. La información que deba suministrarse en los términos de este párrafo, sólo deberá utilizarse para los fines que dieron origen a la solicitud de información.
+
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 Cuando las autoridades fiscales ejerzan las facultades a que se refiere el artículo 215 de la Ley del Impuesto sobre la Renta, la información relativa a la identidad de los terceros independientes en operaciones comparables y la información de los comparables utilizados para motivar la resolución, sólo podrá ser revelada a los tribunales ante los que, en su caso, se impugne el acto de autoridad, sin perjuicio de lo establecido en los artículos 46, fracción IV y 48, fracción VII de este Código.
@@ -3394,7 +3398,7 @@ I. De $2,140.00 a $6,430.00, a las comprendidas en las fracciones I, II y VI.
 
 II. De $2,770.00 a $5,530.00, a la comprendida en la fracción III, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,967,870.00, supuestos en los que la multa será de $920.00 a $1,850.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7951,3 +7955,7 @@ i) Entreguen, en su caso, en efectivo el subsidio para el empleo, en los casos a
 ## TRANSITORIO
 
 Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JULIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
