@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2008-06-26"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -4494,11 +4494,15 @@ VIII. El titular y los subsecretarios de la Secretaría de la Función Pública,
 
 La solicitud de información y documentación a que se refiere el párrafo anterior, deberá formularse en todo caso, dentro del procedimiento de verificación a que se refieren los artículos 41 y 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
 
-IX. El Instituto Federal Electoral.
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+IX. La Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, para el ejercicio de sus atribuciones legales, en los términos establecidos en el Código Federal de Instituciones y Procedimientos Electorales. Las autoridades electorales de las entidades federativas solicitarán y obtendrán la información que resulte necesaria también para el ejercicio de sus atribuciones legales a través de la unidad primeramente mencionada.
 
 Las autoridades mencionadas en las fracciones anteriores solicitarán las noticias o información a que se refiere este artículo en el ejercicio de sus facultades y de conformidad con las disposiciones legales que les resulten aplicables.
 
-Las solicitudes a que se refiere el tercer párrafo de este artículo deberán formularse con la debida fundamentación y motivación, por conducto de la Comisión Nacional Bancaria y de Valores. Los servidores públicos y las instituciones señalados en las fracciones I, VII y IX, podrán optar por solicitar a la autoridad judicial que expida la orden correspondiente, a efecto de que la institución de crédito entregue la información requerida, siempre que dichos servidores especifiquen la denominación de la institución, el número de cuenta, nombre del cuentahabiente o usuario y demás datos y elementos que permitan su identificación plena, de acuerdo con la operación de que se trate.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Las solicitudes a que se refiere el tercer párrafo de este artículo deberán formularse con la debida fundamentación y motivación, por conducto de la Comisión Nacional Bancaria y de Valores. Los servidores públicos y las instituciones señalados en las fracciones I y VII, y la unidad de fiscalización a que se refiere la fracción IX, podrán optar por solicitar a la autoridad judicial que expida la orden correspondiente, a efecto de que la institución de crédito entregue la información requerida, siempre que dichos servidores o autoridades especifiquen la denominación de la institución, el número de cuenta, el nombre del cuentahabiente o usuario y demás datos y elementos que permitan su identificación plena, de acuerdo con la operación de que se trate.
 
 Los empleados y funcionarios de las instituciones de crédito serán responsables, en los términos de las disposiciones aplicables, por violación del secreto que se establece y las instituciones estarán obligadas en caso de revelación indebida del secreto, a reparar los daños y perjuicios que se causen.
 
@@ -5885,3 +5889,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente al de su public
 Segundo. Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis del Código Penal Federal vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
 
 ...
+
+D.O.F. 1 DE JULIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
