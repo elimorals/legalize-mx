@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2006-02-14"
+last_updated: "2008-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -332,7 +332,7 @@ b) De los amparos directos que por su interés y trascendencia así lo ameriten 
 
 > <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2001)</small>
 
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o la revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
+IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o en revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
 
 V. Del recurso de reclamación contra los acuerdos de trámite dictados por su presidente;
 
@@ -1248,17 +1248,25 @@ I. Magistrados de circuito;
 
 II. Juez de distrito;
 
-III. Secretario General de Acuerdos de la Suprema Corte de Justicia;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-IV. Subsecretario General de Acuerdos de la Suprema Corte de Justicia;
+III. Secretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación;
 
-V. Secretario de Estudio y Cuenta de Ministro;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+IV. Subsecretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+V. Secretario de Estudio y Cuenta de Ministro o Secretarios de Estudio y Cuenta e Instructores de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación;
 
 VI. Secretario de Acuerdos de Sala;
 
 VII. Subsecretario de Acuerdos de Sala;
 
-VIII. Secretario de Tribunal de Circuito;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+VIII. Secretario de Tribunal de Circuito o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación;
 
 IX. Secretario de Juzgado de Distrito; y
 
@@ -1276,13 +1284,19 @@ El ingreso y promoción para las categorías de magistrado de circuito y juez de
 
 Para acceder a las categorías señaladas en las fracciones III a X del artículo 110 de esta ley se requerirá el acreditamiento de un examen de aptitud.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Los servidores públicos del Tribunal Electoral serán designados conforme a lo que se establezca en esta ley, salvo que pretendan acceder a alguna de las demás categorías de la carrera judicial, en cuyo caso se ajustarán a lo dispuesto respecto de esos cargos en la ley o en lo que determine el Consejo de la Judicatura.
+
 El Consejo de la Judicatura Federal tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
 
 ###### ARTICULO 113.
 
 Las designaciones que deban hacerse en las categorías de magistrado de circuito y juez de distrito, deberán ser cubiertas mediante concurso interno de oposición y mediante concurso de oposición libre en la proporción que fije el Pleno del Consejo de la Judicatura Federal.
 
-En los concursos internos de oposición para la plaza de magistrado de circuito, únicamente podrán participar los jueces de distrito, y para los concursos de plaza de juez de distrito, quienes se encuentren en las categorías señaladas en las fracciones III a IX del artículo 110 de esta ley.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+En los concursos internos de oposición para la plaza de magistrados de circuito, únicamente podrán participar los jueces de distrito y los Magistrados de Salas Regionales del Tribunal Electoral, y para los concursos de plaza de juez de distrito, quienes se encuentren en las categorías señaladas en las fracciones III a IX del artículo 110 de esta ley.
 
 ###### ARTICULO 114.
 
@@ -1466,9 +1480,15 @@ IX. Emitir opinión pública que implique prejuzgar sobre un asunto de su conoci
 
 X. Abandonar la residencia del tribunal de circuito o juzgado de distrito al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-XI. Las previstas en el artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-XII. Las demás que determine la ley.
+XI. Las previstas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XII. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores o de gestión, y
+
+XIII. Las demás que determine la ley.
 
 ###### ARTICULO 132.
 
@@ -1746,7 +1766,7 @@ SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 164.
 
@@ -1806,7 +1826,7 @@ Las licencias de los servidores públicos y empleados no contemplados en los art
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL ELECTORAL
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 177.
 
@@ -1828,7 +1848,7 @@ SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 180.
 
@@ -1868,29 +1888,41 @@ SECCION 1A.
 
 DEL PROCEDIMIENTO PARA SU ELECCION
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 184.
 
 De conformidad con el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Electoral es el órgano especializado del Poder Judicial de la Federación y, con excepción de lo dispuesto en la fracción II del artículo 105 de la propia Constitución, la máxima autoridad jurisdiccional en materia electoral.
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 185.
 
-El Tribunal Electoral funcionará con una Sala Superior y con cinco Salas Regionales; sus sesiones de resolución jurisdiccional serán públicas.
+El Tribunal Electoral funcionará en forma permanente con una Sala Superior y con cinco Salas Regionales; sus sesiones de resolución jurisdiccional serán públicas.
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 186.
 
-En los términos de lo dispuesto por los artículos 41, fracción IV, 60, párrafos segundo y tercero, y 99, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Electoral, de conformidad con lo que señale la propia Constitución y las leyes aplicables, es competente para:
+En los términos de lo dispuesto por los artículos 41, Base VI; 60, párrafos segundo y tercero y 99, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Electoral, de conformidad con lo que señalen la propia Constitución y las leyes aplicables, es competente para:
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 I.- Resolver, en forma definitiva e inatacable, las impugnaciones sobre las elecciones federales de diputados y senadores;
 
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 II.- Resolver, en una sola instancia y en forma definitiva e inatacable, las impugnaciones sobre la elección de Presidente de los Estados Unidos Mexicanos. Una vez resueltas las que se hubieren interpuesto, la Sala Superior, a más tardar el 6 de septiembre del año de la elección, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos.
 
-La declaración de validez de la elección y la de Presidente Electo formulada por la Sala Superior, se notificará a la Mesa Directiva de la Cámara de Diputados, para el mes de septiembre del año de la elección, a efecto de que esta última ordene de inmediato, sin más trámite, la expedición y publicación del Bando Solemne a que se refiere la fracción I del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+La declaración de validez de la elección y la de Presidente Electo formulada por la Sala Superior, se notificará a la Mesa Directiva de la Cámara de Diputados para el mes de septiembre del año de la elección, a efecto de que esta última expida y publique de inmediato el Bando Solemne a que se refiere la fracción I del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Las Salas del Tribunal sólo podrán declarar la nulidad de una elección por las causales que expresamente se establezcan en la Ley General del Sistema de Medios de Impugnación en Materia Electoral;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 III.- Resolver, en forma definitiva e inatacable, las controversias que se susciten por:
 
@@ -1904,17 +1936,39 @@ d) Conflictos o diferencias laborales entre el Tribunal Electoral y sus servidor
 
 e) Conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores;
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+f) Conflictos concernientes a impedimentos presentados contra los magistrados;
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+g) Impugnaciones contra los actos del Consejo General, del Consejero Presidente o de la Junta General Ejecutiva del Instituto Federal Electoral;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 IV.- Fijar jurisprudencia en los términos de los artículos 232 al 235 de esta ley;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 V.- Resolver, en forma definitiva e inatacable, sobre la determinación e imposición de sanciones en la materia;
 
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 VI.- Elaborar anualmente el proyecto de su Presupuesto y proponerlo al presidente de la Suprema Corte de Justicia de la Nación para su inclusión en el del Poder Judicial de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 VII.- Expedir su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento;
 
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 VIII.- Desarrollar directamente o por conducto del Centro de Capacitación Judicial Electoral, tareas de formación, investigación, capacitación y difusión en la materia;
 
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 IX.- Conducir las relaciones con otros tribunales electorales, autoridades e instituciones, nacionales e internacionales, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 X.- Las demás que le señalen las leyes.
 
@@ -1934,9 +1988,15 @@ DE SU INTEGRACION Y FUNCIONAMIENTO EN LA SALA SUPERIOR.
 
 La Sala Superior se integrará por siete magistrados electorales y tendrá su sede en el Distrito Federal. Bastará la presencia de cuatro magistrados para que pueda sesionar válidamente y sus resoluciones se tomarán por unanimidad, mayoría calificada en los casos expresamente señalados en las leyes o mayoría simple de sus integrantes.
 
-Para hacer la declaración de validez y de Presidente Electo de los Estados Unidos Mexicanos, la Sala Superior deberá sesionar con la presencia de por lo menos seis de sus integrantes.
+Los magistrados durarán en su encargo nueve años improrrogables; su elección será escalonada.
 
-Los magistrados electorales sólo podrán abstenerse de votar cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto. En caso de empate el presidente tendrá voto de calidad.
+En caso de vacante definitiva se nombrará a un nuevo magistrado quien durará en su cargo por el tiempo restante al del nombramiento original. En este caso, mientras se hace la elección respectiva, la ausencia será suplida por el magistrado de Sala Regional con mayor antigüedad, o, en su caso, de mayor edad, si existen asuntos de urgente atención.
+
+La ausencia temporal de un magistrado electoral, que no exceda de treinta días, será cubierta por el magistrado de Sala Regional con mayor antigüedad, o, en su caso, de mayor edad. Para tal efecto, el presidente de la Sala Superior formulará el requerimiento y la propuesta correspondientes, mismos que someterá a la decisión del Pleno de la Propia Sala.
+
+Para hacer la declaración de validez y de Presidente Electo de los Estados Unidos Mexicanos, o para declarar la nulidad de tal elección, la Sala Superior deberá sesionar con la presencia de por lo menos seis de sus integrantes.
+
+Los magistrados electorales sólo podrán abstenerse de votar cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto. En caso de empate el Presidente tendrá voto de calidad.
 
 Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
 
@@ -1958,29 +2018,31 @@ DE SUS ATRIBUCIONES
 
 La Sala Superior tendrá competencia para:
 
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
 I.- Conocer y resolver, en forma definitiva e inatacable, las controversias que se susciten por:
 
-a) Los juicios de inconformidad, en única instancia, que se presenten en contra de los cómputos distritales de la elección de Presidente de los Estados Unidos Mexicanos, en los términos de la ley de la materia. Una vez resueltos los que se hubieren interpuesto, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos. Las decisiones que adopte la Sala Superior, serán comunicadas de inmediato a la Cámara de Diputados del Congreso de la Unión para los efectos constitucionales correspondientes;
+a) Los juicios de inconformidad, en única instancia, que se presenten en contra de los cómputos distritales de la elección de Presidente de los Estados Unidos Mexicanos, en los términos de la ley de la materia. Una vez resueltos los que se hubieren interpuesto, siempre que dichos juicios no tengan como efecto la nulidad de la elección, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos. Las decisiones que adopte la Sala Superior serán comunicadas de inmediato a la Cámara de Diputados del Congreso de la Unión para los efectos constitucionales correspondientes;
 
-b) Los recursos de reconsideración a que se refiere el párrafo tercero del artículo 60 de la Constitución Política de los Estados Unidos Mexicanos, que en segunda instancia se presenten en contra de las resoluciones de las Salas Regionales recaídas a los medios de impugnación previstos en la ley de la materia en las elecciones federales de diputados y senadores;
+b) Los recursos de reconsideración a que se refiere el párrafo tercero del artículo 60 de la Constitución Política de los Estados Unidos Mexicanos, que en segunda instancia se presenten en contra de las resoluciones de las Salas Regionales recaídas a los medios de impugnación previstos en la ley de la materia, en las elecciones federales de diputados y senadores;
 
-c) Los recursos de apelación, en única instancia, que se presenten en contra de actos y resoluciones del Consejo General, del Consejero Presidente, de la Junta General Ejecutiva del Instituto Federal Electoral, así como el informe que rinda la Dirección Ejecutiva del Registro Federal de Electores a la Comisión Nacional de Vigilancia y al Consejo General del Instituto, relativo a las observaciones hechas por los partidos políticos a las listas nominales de electores en los términos de las leyes aplicables;
+c) Los recursos de apelación, en única instancia, que se presenten en contra de actos y resoluciones de los órganos centrales del Instituto Federal Electoral;
 
-d) Los recursos de apelación, en única instancia, que se presenten en contra de actos y resoluciones de la autoridad electoral federal, durante el tiempo en que no se desarrollen procesos electorales federales, de conformidad con la ley de la materia;
+d) Los juicios de revisión constitucional electoral, en única instancia y en los términos previstos en la ley de la materia, por actos o resoluciones definitivos y firmes de las autoridades competentes para organizar, calificar o resolver las impugnaciones en los procesos electorales de las entidades federativas, que pudiesen ser violatorios de los preceptos de la Constitución Política de los Estados Unidos Mexicanos y determinantes para el desarrollo del proceso electoral respectivo o el resultado final de las elecciones de Gobernador y de Jefe de Gobierno del Distrito Federal;
 
-e) Los juicios de revisión constitucional electoral, en única instancia y en los términos previstos en la ley de la materia, por actos o resoluciones definitivos y firmes de las autoridades competentes para organizar, calificar o resolver las impugnaciones en los procesos electorales de las entidades federativas, que violen un precepto de la Constitución Política de los Estados Unidos Mexicanos y que puedan resultar determinantes para el desarrollo del proceso electoral respectivo o el resultado final de las elecciones de Gobernadores, del Jefe de Gobierno del Distrito Federal, de diputados locales y de diputados a la Asamblea Legislativa del Distrito Federal, así como de ayuntamientos o de los titulares de los órganos político-administrativos del Distrito Federal.
+e) Los juicios para la protección de los derechos político-electorales del ciudadano, en única instancia y en los términos de la ley de la materia, que se promuevan por violación al derecho de ser votado en las elecciones de Presidente Constitucional de los Estados Unidos Mexicanos, de diputados federales y senadores por el principio de representación proporcional, Gobernador o de Jefe de Gobierno del Distrito Federal; los que se promuevan por violación al derecho de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos, así como los que se presenten en contra de las determinaciones de los partidos políticos en la selección de sus candidatos en las elecciones antes mencionadas o en la integración de sus órganos nacionales. En los dos últimos casos la Sala Superior admitirá el medio de impugnación una vez que los quejosos hayan agotado los medios partidistas de defensa;
 
-Estas impugnaciones solamente procederán cuando habiéndose agotado en tiempo y forma todos los recursos o medios de defensa que establezcan las leyes por los que se pueda modificar, revocar o anular el acto o resolución impugnado, la violación reclamada ante el Tribunal Electoral pueda resultar determinante para el desarrollo del proceso electoral respectivo o el resultado final de las elecciones, y la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales, y ello sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios electos;
+f) Los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores, y
 
-f) Los juicios para la protección de los derechos político-electorales del ciudadano, en única instancia y en los términos de la ley de la materia, que se promuevan por violación a los derechos de votar y ser votado en las elecciones populares, asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos, siempre y cuando se hubiesen reunido los requisitos constitucionales y los que se señalen en las leyes para su ejercicio;
+g) Los conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores adscritos a órganos centrales;
 
-g) Los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-h) Los conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores.
+II.- Las impugnaciones por la determinación y, en su caso, aplicación de sanciones impuestas por los órganos centrales del Instituto a ciudadanos, partidos políticos, organizaciones o agrupaciones políticas o de ciudadanos, observadores y cualquier otra persona física o moral, pública o privada, en los términos de la ley de la materia;
 
-II.- Las impugnaciones por la determinación y, en su caso, aplicación de sanciones a ciudadanos, partidos políticos, organizaciones o agrupaciones políticas o de ciudadanos, observadores y cualquier otra persona física o moral, en los términos de la ley de la materia;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-III.- Apercibir, amonestar e imponer multas hasta por doscientas veces el importe del salario mínimo diario general vigente en el Distrito Federal al momento de cometerse la falta, a aquellas personas que falten al respeto de algún órgano o miembro del Tribunal Electoral en las promociones que hagan o aquellos que presenten impugnaciones o escritos frívolos o sin fundamento;
+III.- Apercibir, amonestar e imponer multas hasta por doscientas veces el importe del salario mínimo diario general vigente en el Distrito Federal al momento de cometerse la falta, a aquellas personas que falten al respeto de algún órgano o miembro del Tribunal Electoral en las promociones que hagan o aquellos que presenten impugnaciones o escritos frívolos;
 
 IV.- Fijar la jurisprudencia obligatoria en los términos de los artículos 232 al 235 de esta ley;
 
@@ -2002,9 +2064,47 @@ XII.- Conocer y resolver sobre las excusas o impedimentos de los magistrados ele
 
 XIII.- Resolver los conflictos de competencia que se susciten entre las Salas Regionales;
 
-XIV.- Vigilar que se cumplan las normas de registro y seguimiento de la situación patrimonial de los servidores de la Sala Superior ante la Suprema Corte de Justicia de la Nación; y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-XV.- Las demás que le confieran las leyes y el Reglamento Interno del Tribunal.
+XIV.- Vigilar que se cumplan las normas de registro y seguimiento de la situación patrimonial de los servidores de la Sala Superior ante la Suprema Corte de Justicia de la Nación;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XV.- Aprobar los lineamientos para el desahogo de los procedimientos sancionadores por las infracciones en las que incurran los magistrados electorales de las Salas Regionales y el personal administrativo adscrito al Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XVI.- Ejercer la facultad de atracción, ya sea de oficio, o bien, a petición de parte o de alguna de las Salas Regionales, para conocer de aquellos asuntos que por su importancia y trascendencia así lo ameriten, de acuerdo con lo previsto en el artículo 189 Bis de esta ley;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XVII.- Remitir para su resolución a las Salas Regionales del Tribunal, con fundamento en los acuerdos generales que dicte, los asuntos de su competencia en los que hubiere establecido jurisprudencia, atendiendo a un principio de racionalidad que privilegie la pronta y expedita impartición de la justicia electoral. Dichos acuerdos surtirán efectos después de publicados en el Diario Oficial de la Federación. La determinación que emita la Sala Superior respecto de ejercer o no la facultad de delegación será inatacable;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XVIII.- Resolver, en la esfera de su competencia, la no aplicación, en casos concretos, de leyes electorales que sean contrarias a la Constitución; y
+
+XIX.- Las demás que le confieran las leyes y el Reglamento Interno del Tribunal.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+###### ARTICULO 189
+
+BIS.- La facultad de atracción de la Sala Superior a que se refiere la fracción XVI del artículo anterior, podrá ejercerse, por causa fundada y motivada, en los siguientes casos:
+
+a) Cuando se trate de medios de impugnación que, a juicio de la Sala Superior, por su importancia y trascendencia así lo ameriten.
+
+b) Cuando exista solicitud razonada y por escrito de alguna de las partes, fundamentando la importancia y trascendencia del caso.
+
+c) Cuando la Sala Regional que conozca del medio de impugnación lo solicite.
+
+En el supuesto previsto en el inciso a), cuando la Sala Superior ejerza de oficio la facultad de atracción, se lo comunicará por escrito a la correspondiente Sala Regional, la cual, dentro del plazo máximo de setenta y dos horas, remitirá los autos originales a aquélla, notificando a las partes dicha remisión.
+
+En el caso del inciso b), aquellos que sean partes en el procedimiento del medio de impugnación competencia de las Salas Regionales deberán solicitar la atracción, ya sea al presentar el medio impugnativo; cuando comparezcan como terceros interesados, o bien cuando rindan el informe circunstanciado, señalando las razones que sustenten la solicitud. La Sala Regional competente, bajo su más estricta responsabilidad, notificará de inmediato la solicitud a la Sala Superior, la cual resolverá en un plazo máximo de setenta y dos horas.
+
+En el supuesto contenido en el inciso c), una vez que el medio de impugnación sea recibido en la Sala Regional competente para conocer del asunto, ésta contará con setenta y dos horas para solicitar a la Sala Superior la atracción del mismo, mediante el acuerdo correspondiente, en el que se precisen las causas que ameritan esa solicitud. La Sala Superior resolverá lo conducente dentro de las setenta y dos horas siguientes a la recepción de la solicitud.
+
+La determinación que emita la Sala Superior respecto de ejercer o no la facultad de atracción será inatacable.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2016,13 +2116,15 @@ SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO EN LAS SALAS REGIONALES
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 190.
 
-El último viernes del mes de septiembre del año que corresponda, los miembros de la Sala Superior elegirán de entre ellos a su presidente, quien lo será también del Tribunal, por un periodo de cuatro años, pudiendo ser reelecto.
+Los Magistrados de la Sala Superior elegirán de entre ellos a su Presidente, quien lo será también del Tribunal, por un período de cuatro años, pudiendo ser reelecto por una sola vez.
 
-Las ausencias del presidente serán suplidas, si no exceden de un mes, por el magistrado electoral de mayor antigüedad o, en su caso, de mayor edad. Si la ausencia excediere dicho plazo pero fuere menor a seis meses, se designará a un presidente interino, y si fuere mayor a ese término, se nombrará a un presidente sustituto para que ocupe el cargo hasta el final del período.
+En caso de renuncia la Sala Superior procederá a elegir a un nuevo Presidente, quien lo será hasta la conclusión del período para el que fue electo el sustituido. Este nuevo titular de la Presidencia del Tribunal, de ser el caso, podrá ser reelecto por una sola ocasión.
+
+Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el magistrado electoral de mayor antigüedad o, en su caso, de mayor edad. Si la ausencia excediere dicho plazo pero fuere menor a seis meses, se designará a un Presidente interino, y si fuere mayor a ese término, se nombrará a un Presidente sustituto para que ocupe el cargo hasta el final del período.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2052,7 +2154,7 @@ X.- Vigilar que las Salas cuenten con los recursos humanos, materiales y financi
 
 XI.- Convocar a sesiones públicas o reuniones internas de magistrados electorales y demás personal jurídico, técnico y administrativo del Tribunal Electoral;
 
-XII.- Convocar oportunamente, en los términos que acuerde la Comisión de Administración, a la Sala Regional que sea competente para conocer y resolver las impugnaciones que se presenten en los procesos electorales federales extraordinarios, de conformidad con lo previsto por los artículos 192, segundo párrafo y 195, último párrafo, de esta ley;
+XII.- (DEROGADA, D.O.F. 1 DE JULIO DE 2008)
 
 XIII.- Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas de las Salas;
 
@@ -2078,9 +2180,15 @@ XXIII.- Decretar la suspensión, remoción o cese de los titulares y personal de
 
 XXIV.- Acordar con los titulares de las coordinaciones adscritas a la Presidencia del Tribunal, los asuntos de su competencia;
 
-XXV.- Vigilar que se cumplan las disposiciones del Reglamento Interno del Tribunal, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-XXVI.- Las demás que señalen las leyes, el Reglamento Interno o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
+XXV.- Vigilar que se cumplan las disposiciones del Reglamento Interno del Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XXVI.- Enviar a la Suprema Corte de Justicia de la Nación los informes relativos a las sentencias sobre la no aplicación de leyes en materia electoral contrarias a la Constitución, y
+
+XXVII.- Las demás que señalen las leyes, el Reglamento Interno o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2096,9 +2204,13 @@ DE SU INTEGRACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 192.
 
-El Tribunal Electoral contará con cinco Salas Regionales, mismas que deberán quedar instaladas a más tardar en la semana que inicie el proceso electoral federal ordinario para entrar en receso a la conclusión del mismo. Se integrarán por tres magistrados electorales y su sede será la ciudad designada como cabecera de cada una de las circunscripciones plurinominales en que se divida el país, de conformidad con lo dispuesto por el artículo 53 de la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
+El Tribunal Electoral contará con cinco Salas Regionales que se integrarán por tres magistrados electorales y su sede será la ciudad designada como cabecera de cada una de las circunscripciones plurinominales en que se divida el país, de conformidad con lo dispuesto por el artículo 53 de la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
 
-En los casos de elecciones federales extraordinarias, la Sala Regional con competencia territorial en donde hayan de celebrarse, será convocada por el presidente del Tribunal, en los términos que acuerde la Comisión de Administración, para que se instale y funcione con el mínimo personal indispensable durante los plazos necesarios, a fin de resolver las impugnaciones que pudieren surgir durante las mismas.
+Los magistrados de las Salas Regionales durarán en su encargo nueve años improrrogables, salvo si son promovidos a cargos superiores. La elección de los magistrados será escalonada.
+
+En caso de vacante definitiva se nombrará a un nuevo magistrado por el tiempo restante al del nombramiento original.
+
+En los casos de elecciones extraordinarias la Sala Regional con competencia territorial en donde hayan de celebrarse resolverá las impugnaciones que pudieren surgir durante las mismas.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2108,13 +2220,13 @@ Las Salas Regionales sesionarán con la presencia de los tres magistrados electo
 
 Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 194.
 
-La ausencia temporal de un magistrado electoral, que no exceda de treinta días, será cubierta por el secretario general, o, en su caso, por el secretario con mayor antigüedad de la Sala respectiva. Para tal efecto, el presidente de la Sala formulará el requerimiento y la propuesta correspondientes, mismos que someterá a la decisión de la Comisión de Administración.
+La ausencia temporal de un magistrado de Sala Regional que no exceda de treinta días, será cubierta por el secretario general o, en su caso, por el secretario con mayor antigüedad de la Sala respectiva, según acuerde el Presidente de la misma. Cuando la ausencia exceda el plazo anterior será cubierta en los mismos términos, previa aprobación de la Sala Superior.
 
-Si la ausencia de un magistrado es definitiva, el presidente de la Sala lo notificará de inmediato al presidente de la Comisión de Administración, la que procederá a dar el aviso a la Suprema Corte de Justicia de la Nación a fin de que se haga la propuesta a la Cámara de Senadores o, en su caso, a la Comisión Permanente del Congreso de la Unión, para que se elija al magistrado que corresponda. En este caso, mientras se hace la elección respectiva, la ausencia será suplida por el secretario general o por el secretario con mayor antigüedad de la propia Sala, si existen asuntos de urgente atención.
+Si la ausencia de un magistrado es definitiva, el Presidente de la respectiva Sala lo notificará de inmediato a la Sala Superior, la que procederá a dar aviso a la Suprema Corte de Justicia de la Nación a fin de que se haga la propuesta a la Cámara de Senadores para que se elija al magistrado que corresponda. En este caso, mientras se hace la elección respectiva, la ausencia será suplida por el secretario general o por el secretario con mayor antigüedad de la propia Sala.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2122,31 +2234,51 @@ SECCION 2A.
 
 DE SUS ATRIBUCIONES
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 195.
 
 Cada una de las Salas Regionales, en el ámbito en el que ejerza su jurisdicción, tendrá competencia para:
 
-I.- Conocer y resolver durante la etapa de preparación de la elección en los procesos federales ordinarios, en única instancia y en forma definitiva e inatacable, los recursos de apelación que se presenten en contra de actos y resoluciones de la autoridad electoral federal, con excepción de los del Consejo General, del Consejero Presidente o de la Junta General Ejecutiva del Instituto Federal Electoral, de conformidad con lo dispuesto en la ley de la materia;
+I. Conocer y resolver, en única instancia y en forma definitiva e inatacable, los recursos de apelación que se presenten en contra de actos y resoluciones de la autoridad electoral federal, con excepción de los de órganos centrales del Instituto Federal Electoral, de conformidad con lo dispuesto en la ley de la materia;
 
-II.- Conocer y resolver los juicios de inconformidad, que se presenten en las elecciones federales de diputados y senadores, durante la etapa de resultados y declaraciones de validez de las elecciones en los procesos federales ordinarios, de conformidad con lo dispuesto en la ley de la materia;
+II. Conocer y resolver los juicios de inconformidad que se presenten en las elecciones federales de diputados y senadores por el principio de mayoría relativa, de conformidad con lo dispuesto en la ley de la materia;
 
-III.- Conocer y resolver, en única instancia y en forma definitiva e inatacable en los términos de la ley de la materia, los juicios para la protección del derecho político-electoral de votar del ciudadano, que sean promovidos con motivo de los procesos electorales federales ordinarios;
+III. Los juicios de revisión constitucional electoral, en única instancia y en los términos previstos en la ley de la materia, por actos o resoluciones definitivos y firmes de las autoridades competentes para organizar, calificar o resolver las impugnaciones en los procesos electorales de las entidades federativas, que pudiesen ser violatorios de los preceptos de la Constitución Política de los Estados Unidos Mexicanos y determinantes para el desarrollo del proceso electoral respectivo o el resultado final de las elecciones de diputados locales y a la Asamblea Legislativa del Distrito Federal, así como de ayuntamientos y de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal.
 
-IV.- Calificar y resolver las excusas que presenten los magistrados electorales de la Sala respectiva;
+Estas impugnaciones solamente procederán cuando habiéndose agotado en tiempo y forma todos los recursos o medios de defensa que establezcan las leyes por los que se pueda modificar, revocar o anular el acto o resolución impugnado, la violación reclamada ante el Tribunal Electoral pueda resultar determinante para el desarrollo del proceso electoral respectivo o el resultado final de las elecciones, y la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales, y ello sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios electos;
 
-V.- Encomendar a los secretarios y actuarios, la realización de diligencias que deban practicarse fuera de las instalaciones de la Sala;
+IV. Conocer y resolver, en única instancia y en forma definitiva e inatacable, los juicios para la protección de los derechos político-electorales del ciudadano que se promuevan por:
 
-VI.- Fijar la fecha y hora de sus sesiones públicas;
+a) La violación al derecho de votar en las elecciones constitucionales;
 
-VII.- Elegir, a quien fungirá como su presidente;
+b) La violación al derecho de ser votado en las elecciones federales de diputados y senadores por el principio de mayoría relativa, en las elecciones de diputados locales y a la Asamblea Legislativa del Distrito Federal, ayuntamientos y titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, siempre y cuando se hubiesen reunido los requisitos constitucionales y los previstos en las leyes para su ejercicio;
 
-VIII.- Nombrar, conforme a los lineamientos generales que dicte la Comisión de Administración, al secretario general, secretarios y actuarios, así como al demás personal jurídico y administrativo, y
+c) La violación al derecho de ser votado en las elecciones de los servidores públicos municipales diversos a los electos para integrar los ayuntamientos, y
 
-IX.- Las demás que señalen las leyes.
+d) La violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de diputados federales y senadores por el principio de mayoría relativa, diputados locales y a la Asamblea Legislativa del Distrito Federal, ayuntamientos, titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal y dirigentes de los órganos de dichos institutos distintos a los nacionales. La Sala Regional correspondiente admitirá el medio de impugnación una vez que los quejosos hayan agotado los medios partidistas de defensa;
 
-En los procesos electorales federales extraordinarios, las impugnaciones a que se refieren las fracciones I y II de este artículo, serán conocidas y resueltas por la Sala Regional que ejerza jurisdicción en el ámbito territorial donde tenga que llevarse a cabo la elección extraordinaria respectiva.
+V. Calificar y resolver las excusas que presenten los magistrados electorales de la Sala respectiva;
+
+VI. Encomendar a los secretarios y actuarios, la realización de diligencias que deban practicarse fuera de las instalaciones de la Sala;
+
+VII. Fijar la fecha y hora de sus sesiones públicas;
+
+VIII. Elegir, a quien fungirá como su Presidente;
+
+IX. Nombrar, conforme a los lineamientos generales que dicte la Comisión de Administración, al secretario general, secretarios y actuarios, así como al demás personal jurídico y administrativo;
+
+X. Resolver, en la esfera de su competencia, la no aplicación, en casos concretos, de leyes electorales que sean contrarias a la Constitución;
+
+XI. Resolver los asuntos relativos a los partidos políticos y a las agrupaciones o asociaciones políticas de carácter local;
+
+XII. Conocer y resolver en forma definitiva e inatacable, las diferencias laborales entre el Instituto Federal Electoral y sus servidores adscritos a los órganos desconcentrados;
+
+XIII. Conceder licencias a los magistrados electorales que la integran, siempre que no excedan de un mes, en los términos del inciso d) del artículo 227-Bis de esta ley, y
+
+XIV. Las que les delegue la Sala Superior y las demás que señalen las leyes.
+
+Las facultades antes establecidas se sujetarán a los acuerdos generales que emita la Sala Superior, los que en ningún caso podrán hacerlas nugatorias de manera permanente. Los acuerdos específicos que en uso de su facultad de delegación emita la Sala Superior no establecerán jurisprudencia.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2154,11 +2286,13 @@ SECCION 3A.
 
 DE SUS PRESIDENTES
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 196.
 
-Las Salas Regionales elegirán a su presidente, de entre los magistrados electorales que la integran, para cada periodo en que deban funcionar.
+Los Magistrados de cada Sala Regional elegirán de entre ellos a su Presidente, quien durará en su cargo tres años, pudiendo ser reelecto por una sola vez.
+
+Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el magistrado de la misma Sala Regional que tuviere mayor antigüedad o, en su caso, el de mayor edad. Si la ausencia excediere dicho plazo pero fuere menor a seis meses, la Sala correspondiente designará a un Presidente interino, y si fuere mayor a ese término, se nombrará a un Presidente sustituto para que ocupe el cargo hasta el final del período, quién podrá ser reelecto por una sola vez. Lo dispuesto en este párrafo se observará sin perjuicio de lo establecido en el artículo 194 de esta ley.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2182,19 +2316,29 @@ VII.- Informar permanentemente al presidente de la Comisión de Administración 
 
 VIII.- Convocar, según corresponda, a sesión pública y a reuniones internas, a los magistrados electorales, secretario general, secretarios y demás personal jurídico y administrativo de la Sala;
 
-IX.- Informar al presidente de la Comisión de Administración sobre las ausencias definitivas de los magistrados electorales, secretario general, secretarios y demás personal jurídico y administrativo de la Sala;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+IX.- Informar al Presidente del Tribunal sobre las ausencias definitivas de los magistrados electorales y del secretario general, secretarios y demás personal jurídico y administrativo de la Sala;
 
 X.- Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Federal Electoral, de las autoridades federales, estatales o municipales, de los partidos políticos o de particulares, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
 
 XI.- Ordenar, en casos extraordinarios, que se realice alguna diligencia o se desahogue o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
 
-XII.- Solicitar al presidente del Tribunal, para que lo someta a la Comisión de Administración, la suspensión, remoción o cese de magistrados electorales, secretario general, secretarios, actuarios, así como del personal jurídico y administrativo de la Sala;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XII.- Solicitar al Presidente del Tribunal, para los efectos legales conducentes, la suspensión, remoción o cese de magistrados electorales, secretario general, secretarios, actuarios, así como del personal jurídico y administrativo de la Sala;
 
 XIII.- Apoyar en la identificación y clasificación de los criterios sostenidos por la Sala;
 
-XIV.- Vigilar que se cumplan las disposiciones del Reglamento Interno del Tribunal, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-XV.- Las demás que sean necesarias para el correcto funcionamiento de la Sala o que establezca la ley o el Reglamento Interno.
+XIV.- Vigilar que se cumplan las disposiciones del Reglamento Interno del Tribunal, así como los acuerdos generales que dicte la Sala Superior;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XV.- Enviar a la Sala Superior los informes relativos a la no aplicación de leyes sobre la materia electoral contrarias a la Constitución, y
+
+XVI.- Las demás que sean necesarias para el correcto funcionamiento de la Sala o que establezca la ley o el Reglamento Interno.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2210,17 +2354,17 @@ DE LOS REQUISITOS PARA OCUPAR EL CARGO.
 
 ###### ARTICULO 198.
 
-Las ausencias definitivas de los magistrados electorales del Tribunal Electoral del Poder Judicial de la Federación, serán cubiertas de conformidad con las reglas y procedimiento siguientes:
+Las ausencias definitivas de los magistrados electorales del Tribunal Electoral del Poder Judicial de la Federación, serán cubiertas, previa convocatoria pública a los interesados, de conformidad con las reglas y procedimiento siguientes:
 
-a) El Pleno de la Suprema Corte aprobará por mayoría simple de los presentes en sesión privada, las propuestas que en terna propondrá a la Cámara de Senadores o, en su caso, a la Comisión Permanente;
+a) El pleno de la Suprema Corte aprobará por mayoría simple de los presentes en sesión pública, las propuestas que en terna propondrá a la Cámara de Senadores;
 
-b) El presidente de la Suprema Corte de Justicia de la Nación hará llegar a la Cámara de Senadores o, en su caso, a la Comisión Permanente del Congreso de la Unión, las propuestas de ese cuerpo colegiado, en una terna para cada uno de los cargos de magistrados a elegir para las Salas Superior y Regionales del Tribunal;
+b) El Presidente de la Suprema Corte de Justicia de la Nación hará llegar a la Cámara de Senadores las propuestas en una terna para cada uno de los cargos de magistrados a elegir para las Salas Regionales y Superior del Tribunal;
 
 c) Se indicará la Sala para la que se propone cada terna;
 
-d) De entre los candidatos de cada terna, la Cámara de Senadores o, en su caso, la Comisión Permanente, elegirá, dentro de los ocho días siguientes a la recepción de la propuesta, a los magistrados electorales por el voto de las dos terceras partes de sus miembros presentes; y
+d) De entre los candidatos de cada terna, la Cámara de Senadores elegirá, dentro de los quince días siguientes a la recepción de la propuesta, a los magistrados electorales por el voto de las dos terceras partes de sus miembros presentes, y
 
-e) Si ninguno de los candidatos de la terna obtuviera la mayoría calificada, se notificará a la Suprema Corte para que se presente una nueva terna, la cual deberá enviarse dentro de los tres días siguientes, para que se vote a más tardar dentro de los cinco días siguientes a la recepción de la nueva propuesta.
+e) Si ninguno de los candidatos de la terna obtuviera la mayoría calificada, se notificará a la Suprema Corte para que se presente una nueva terna, la cual deberá enviarse dentro de los tres días siguientes, para que se vote a más tardar dentro de los cinco días siguientes a la recepción de la nueva propuesta, en la que no podrán incluirse candidatos propuestos previamente.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2306,9 +2450,15 @@ VIII.- Dictar, previo acuerdo con el presidente del Tribunal, los lineamientos g
 
 IX.- Autorizar con su firma las actuaciones de la Sala Superior;
 
-X.- Expedir los certificados de constancias que se requieran, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-XI.- Las demás que le señalen las leyes.
+X.- Expedir los certificados de constancias que se requieran;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XI.- Llevar el registro de las sentencias relativas a la no aplicación de leyes sobre la materia electoral y auxiliar al Presidente del Tribunal para hacerlas del conocimiento de la Suprema Corte de Justicia de la Nación, y
+
+XII.- Las demás que le señalen las leyes.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2324,7 +2474,7 @@ El subsecretario general de acuerdos auxiliará y apoyará al secretario general
 
 ###### ARTICULO 203.
 
-Para el ejercicio de sus funciones cada una de las Salas Regionales nombrará a un secretario general, previa aprobación de la Comisión de Administración.
+Para el ejercicio de sus funciones cada una de las Salas Regionales nombrará a un secretario general de acuerdos.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2356,9 +2506,15 @@ VIII.- Autorizar con su firma las actuaciones de la Sala;
 
 IX.- Expedir los certificados de constancias que se requieran;
 
-X.- Informar permanentemente al presidente de la Sala sobre el funcionamiento de las áreas a su cargo y el desahogo de los asuntos de su competencia, y
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-XI.- Las demás que les señalen las leyes.
+X.- Informar permanentemente al Presidente de la Sala sobre el funcionamiento de las áreas a su cargo y el desahogo de los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XI.- Llevar el registro de las sentencias relativas a la no aplicación de leyes sobre la materia electoral y auxiliar al Presidente de la Sala para hacerlas del conocimiento de la Sala Superior, y
+
+XII.- Las demás que les señalen las leyes.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2414,7 +2570,7 @@ La Comisión de Administración tendrá las atribuciones siguientes:
 
 I.- Elaborar el proyecto de Reglamento Interno del Tribunal y someterlo a la aprobación de la Sala Superior;
 
-II.- Proveer lo necesario para la instalación oportuna de la Sala Regional que sea competente para conocer y resolver las impugnaciones que se presenten en los procesos electorales federales extraordinarios, de conformidad con lo previsto por el último párrafo del artículo 195 de esta ley;
+II.- (DEROGADA, D.O.F. 1 DE JULIO DE 2008)
 
 III.- Expedir las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, carrera, escalafón, régimen disciplinario y remoción, así como las relativas a estímulos y capacitación del personal del Tribunal Electoral;
 
@@ -2424,9 +2580,13 @@ V.- Dictar las medidas que exijan el buen servicio y la disciplina en el Tribuna
 
 VI.- Autorizar en términos de esta ley a los presidentes de las Salas Regionales para que, en caso de ausencia de alguno de sus servidores o empleados, nombren a un interino;
 
-VII.- Conceder licencias en los términos previstos en esta ley;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
-VIII.- Acordar sobre las renuncias que presenten los secretarios y demás personal de las Salas Regionales;
+VII.- Conceder licencias al personal administrativo adscrito al Tribunal en los términos previstos en esta ley;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+VIII.- Conocer de las renuncias que presenten los secretarios y demás personal de las Salas Regionales;
 
 IX.- Destituir o suspender a los Magistrados de las Salas Regionales, cuando incurran en faltas o conductas graves que lo ameriten y comunicarlo de inmediato a la Suprema Corte de Justicia de la Nación para los efectos conducentes. En estos casos, el magistrado destituido o suspendido podrá apelar la decisión ante la Sala Superior del Tribunal;
 
@@ -2434,7 +2594,9 @@ X.- Suspender en sus cargos a los magistrados electorales de las Salas Regionale
 
 XI.- Suspender en sus funciones a los magistrados electorales de las Salas Regionales que aparecieren involucrados en la comisión de un delito, y formular denuncia o querella contra ellos en los casos en que proceda;
 
-XII.- Decretar, cuando proceda, la suspensión, remoción o cese de los secretarios generales, secretarios, así como del personal jurídico y administrativo de las Salas Regionales;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+XII.- Resolver, por causa fundada y motivada, la suspensión, remoción o cese de los secretarios generales, secretarios, así como del personal jurídico y administrativo de las Salas Regionales;
 
 XIII.- Conocer y resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en los términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos, por parte de los correspondientes miembros del Tribunal Electoral;
 
@@ -2526,7 +2688,9 @@ Para ser electo magistrado electoral de la Sala Superior se requiere, además de
 
 I.- Contar con Credencial para Votar con fotografía;
 
-II.- Preferentemente, tener conocimientos en materia electoral;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+II.- Acreditar conocimientos en derecho electoral;
 
 III.- No desempeñar ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
 
@@ -2534,25 +2698,41 @@ IV.- No haber sido registrado como candidato a cargo alguno de elección popular
 
 V.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 213.
 
-Los magistrados electorales de las Salas Regionales deberán reunir los requisitos siguientes:
+Los magistrados electorales de las Salas Regionales, además de satisfacer los requisitos establecidos por el artículo 106 de esta ley, deberán reunir los siguientes:
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles, y contar con Credencial para Votar con fotografía;
 
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 II.- Tener por lo menos treinta y cinco años de edad al momento de la elección;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 III.- Gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año;
 
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 IV.- Contar con título de Licenciado en Derecho expedido legalmente y práctica profesional de cuando menos cinco años;
 
-V.- Preferentemente, tener conocimientos en materia electoral;
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
+V.- Acreditar conocimientos en derecho electoral;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 VI.- No desempeñar ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
 
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 VII.- No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a la designación, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 VIII.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 
@@ -2630,15 +2810,21 @@ SECCION 2A.
 
 DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 219.
 
-Las responsabilidades de todos los miembros del Tribunal Electoral se regirán por Título Octavo y las disposiciones especiales del presente Título de esta ley. Para estos efectos, las facultades señaladas para la Suprema Corte de Justicia de la Nación y las del Consejo de la Judicatura Federal se entenderán atribuidas a la Comisión de Administración y las del presidente de la Suprema Corte al presidente del Tribunal Electoral.
+Las responsabilidades de todos los miembros del Tribunal Electoral se regirán por el Título Octavo y las disposiciones especiales del presente Título de esta ley. Para estos efectos, salvo disposición en contrario, las facultades señaladas para la Suprema Corte de Justicia de la Nación y las del Consejo de la Judicatura Federal se entenderán atribuidas a la Sala Superior y a la Comisión de Administración, respectivamente, y las del Presidente de la Suprema Corte al Presidente del Tribunal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 Las resoluciones que dicten la Sala Superior, el presidente del Tribunal o la Comisión de Administración, salvo los casos previstos en la parte final de la fracción IX del artículo 209 y en el párrafo segundo del artículo 241 de esta ley, en el ámbito de sus respectivas competencias, serán definitivas e inatacables por lo que no procederá juicio o recurso alguno en contra de las mismas.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 En los casos de excepción a que se refiere el párrafo anterior, el magistrado o servidor destituido podrá apelar sin sujetarse a formalidad alguna, ante la Sala Superior del Tribunal en un plazo de diez días hábiles, contados a partir de que se le notifique la determinación correspondiente. La Sala Superior resolverá en el término de treinta días hábiles la apelación presentada.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 Los Magistrados de la Sala Superior del Tribunal Electoral sólo podrán ser removidos de sus cargos en los términos de los artículos 110 y 111 del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2670,11 +2856,13 @@ SECCION 3A.
 
 DE LAS VACACIONES, DIAS INHABILES, RENUNCIAS, AUSENCIAS Y LICENCIAS
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 223.
 
-Los servidores públicos y empleados de la Sala Superior disfrutarán de dos periodos de vacaciones al año, de acuerdo con las necesidades del servicio.
+Los servidores públicos y empleados de las Salas disfrutarán de dos períodos de vacaciones al año, de acuerdo con las necesidades del servicio.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 Durante los años de proceso electoral federal o durante los periodos de procesos electorales federales extraordinarios, tomando en cuenta que todos los días y horas son hábiles, las vacaciones podrán diferirse o pagarse a elección del servidor o empleado. En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
 
@@ -2702,13 +2890,35 @@ Durante los procesos electorales, no se pagarán horas extras, pero se preverán
 
 De conformidad con lo previsto por los artículos 98 y 99 de la Constitución Política de los Estados Unidos Mexicanos, las renuncias, ausencias y licencias de los magistrados electorales de la Sala Superior serán tramitadas, cubiertas y otorgadas, de conformidad con las reglas siguientes:
 
-a) Las renuncias solamente procederán por causas graves y serán comunicadas por la Sala Superior a la Suprema Corte de Justicia de la Nación, para que ésta las someta a la aprobación de la Cámara de Senadores o, en su caso, de la Comisión Permanente del Congreso de la Unión;
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-b) Las ausencias temporales que excedan de un mes serán cubiertas por un magistrado electoral con el carácter de interino sólo durante el lapso de las mismas; para tal efecto, la Sala Superior lo hará del conocimiento de la Suprema Corte de Justicia de la Nación a fin de que se haga la elección respectiva, de conformidad con lo previsto por el artículo 198 de esta ley;
+a) Las renuncias solamente procederán por causas graves; serán sometidas por la Sala Superior a la Suprema Corte de Justicia de la Nación, y si ésta las acepta, las enviará para su aprobación a la Cámara de Senadores;
 
-c) Las ausencias por defunción o por cualquier otra causa de separación definitiva serán cubiertas con la elección de un nuevo magistrado electoral, y
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
-d) Las licencias, cuando no excedan de un mes, podrán ser concedidas por la Sala Superior; las que excedan de este tiempo sólo podrán concederse por la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión. Ninguna licencia podrá exceder del término de dos años.
+b) En el caso de vacante definitiva, la Sala Superior lo comunicará a la Suprema Corte de Justicia de la Nación, para que se nombre a un nuevo magistrado por el tiempo restante al del nombramiento original, de conformidad con lo previsto por el artículo 198 de esta ley;
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+c) Las licencias serán concedidas por la Sala Superior; las que excedan de un mes serán cubiertas por el Secretario General de Acuerdos o por el Secretario de Estudio y Cuenta que, a propuesta del Presidente de la Sala Superior, determine la Suprema Corte de Justicia de la Nación, y
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+d) Ninguna licencia podrá exceder del término de seis meses. En ningún caso podrán autorizarse licencias de manera simultánea a más de dos magistrados ni otorgarse por más de un mes durante el proceso electoral federal.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+###### ARTICULO 227
+
+BIS.- Las renuncias, ausencias y licencias de los magistrados de las Salas regionales serán tramitadas, cubiertas y otorgadas, de conformidad con las reglas siguientes:
+
+a) Las renuncias solamente procederán por causas graves; serán comunicadas por la respectiva Sala Regional al Presidente de la Sala Superior para que, sin mayor trámite, las someta a la Suprema Corte de Justicia de la Nación, y si ésta las acepta, las enviará para su aprobación a la Cámara de Senadores;
+
+b) Las ausencias temporales serán cubiertas por el Secretario General de Acuerdos o por el Secretario de Estudio y Cuenta que determine el Presidente de la Sala Regional respectiva, debiendo informar a la Sala Superior;
+
+c) En el caso de ausencia definitiva, la Sala Regional lo comunicará a la Sala Superior para que ésta informe a la Suprema Corte de Justicia de la Nación para que se nombre a un nuevo magistrado por el tiempo restante al del nombramiento original, de conformidad con lo previsto por el artículo 198 de esta ley;
+
+d) Las licencias que no excedan de un mes serán autorizadas por la propia Sala Regional; las que excedan el plazo anterior por la Sala Superior. Ninguna licencia podrá concederse por más de seis meses. No se concederán licencias durante los procesos electorales. En ningún caso podrá autorizarse licencia a más de un magistrado.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2788,11 +2998,11 @@ SECCION 6A.
 
 DE LAS DENUNCIAS DE CONTRADICCION DE TESIS DEL TRIBUNAL ELECTORAL
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 236.
 
-De conformidad con lo previsto por el párrafo quinto del artículo 99 de la Constitución Política de los Estados Unidos Mexicanos y la fracción VIII del artículo 10 de esta ley, cuando en forma directa o al resolver en contradicción de criterios una Sala del Tribunal Electoral sustente una tesis sobre la inconstitucionalidad de un acto o resolución o sobre la interpretación de un precepto de la propia Constitución, y dicha tesis pueda ser contradictoria con una sostenida por las Salas o el Pleno de la Suprema Corte de Justicia, cualquiera de los ministros de las Salas o las partes, podrán denunciar la contradicción para que el Pleno de la Suprema Corte de Justicia, en un plazo no mayor a diez días, decida en definitiva cuál es la tesis que debe prevalecer.
+De conformidad con lo previsto por el párrafo séptimo del artículo 99 de la Constitución Política de los Estados Unidos Mexicanos y la fracción VIII del artículo 10 de esta ley, cuando en forma directa o al resolver en contradicción de criterios una Sala del Tribunal Electoral sustente una tesis sobre la inconstitucionalidad de un acto o resolución o sobre la interpretación de un precepto de la propia Constitución, y dicha tesis pueda ser contradictoria con una sostenida por las Salas o el Pleno de la Suprema Corte de Justicia, cualquiera de los ministros, de las Salas o las partes, podrán denunciar la contradicción para que el Pleno de la Suprema Corte de Justicia, en un plazo no mayor a diez días, decida en definitiva cuál es la tesis que debe prevalecer.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2806,15 +3016,21 @@ SECCION 7A.
 
 DE LA PROTESTA CONSTITUCIONAL
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 238.
 
-Los magistrados electorales rendirán la protesta constitucional ante la Cámara de Senadores o la Comisión Permanente, según sea el caso, y los comisionados de la Comisión de Administración que sean miembros del Consejo de la Judicatura Federal, lo harán precisamente ante este órgano.
+Los magistrados electorales rendirán la protesta constitucional ante la Cámara de Senadores; los Comisionados de la Comisión de Administración que sean miembros del Consejo de la Judicatura Federal, lo harán precisamente ante este órgano.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 Los secretarios y empleados de la Sala Superior y de la Comisión de Administración rendirán su protesta ante el presidente del Tribunal.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
 Los demás servidores públicos y empleados rendirán la protesta constitucional ante el presidente de la Sala a la que estén adscritos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 En todos los casos, la protesta se prestará en los términos señalados en el artículo 155 de esta ley.
 
@@ -3085,3 +3301,41 @@ D.O.F. 14 DE FEBRERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Fondo previsto en el artículo 246, deberá quedar formalmente constituido dentro de los sesenta días siguientes al inicio de la vigencia de este Decreto.
+
+D.O.F. 1 DE JULIO DE 2008.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
+
+Artículo Primero.- En un plazo improrrogable de quince días naturales contados a partir de la entrada en vigor del presente Decreto, la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación que se encuentra integrada y en funciones, deberá:
+
+I. Formular y aprobar, conforme a la normatividad vigente a la entrada en vigor del presente Decreto, el Proyecto de Acuerdo para la reasignación de recursos presupuestarios destinados al Tribunal Electoral del Poder Judicial de la Federación para el ejercicio fiscal de 2008, o en su caso la ampliación de los mismos, que permitan dotar a las cinco Salas Regionales del propio Tribunal de los recursos materiales y personal jurídico y administrativo necesario para el cumplimiento de las facultades y ejercicio de las atribuciones que les confiere el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos y las leyes materia del presente Decreto;
+
+II. Se faculta a la Comisión de Administración para determinar los cambios necesarios en la asignación de plazas presupuestarias del personal jurídico y administrativo adscrito a la Sala Superior a fin de cumplir con lo dispuesto en la fracción anterior; lo anterior con pleno respeto a los derechos laborales del personal que resulte afectado;
+
+III. Se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público para, en su caso, aprobar las transferencias presupuestarias que requiera el Tribunal Electoral del Poder Judicial de la Federación para cumplir lo dispuesto en el presente Artículo Transitorio, conforme a lo dispuesto en el último párrafo del transitorio Vigésimo Primero del Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2008, y
+
+IV. Lo dispuesto en la fracción inmediata anterior deberá quedar cumplimentado en un plazo máximo de quince días naturales, contados a partir de la solicitud que, en su caso, formule la Comisión de Administración al Titular del Poder Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
+
+Artículo Segundo.- En tanto se realizan los actos y, en su caso, se producen las autorizaciones que señala el Artículo Transitorio inmediato anterior, las facultades y atribuciones que las leyes materia del presente Decreto confieren a las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación serán ejercidas por la Sala Superior.
+
+Artículo Tercero.- En todo caso, las Salas Regionales iniciarán el ejercicio pleno de sus facultades constitucionales y legales a más tardar en treinta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Para efectos del escalonamiento en la elección de los magistrados de la Sala Superior establecido en el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo siguiente:
+
+I. Antes del 20 de abril de 2015, la Cámara de Senadores elegirá al magistrado electoral de la Sala Superior que sustituya al magistrado cuyo mandato concluye en la fecha antes citada; el electo lo será para un período que concluirá el 4 de noviembre de 2016.
+
+II. A más tardar el 30 de octubre de 2016, la Cámara de Senadores elegirá a siete nuevos magistrados electorales de la Sala Superior que iniciarán su mandato el 4 de noviembre de 2016; dos de ellos concluirán su mandato el 31 de octubre de 2019, dos más el 31 de octubre de 2022 y los tres restantes el 31 de octubre de 2025. Al aprobar los nombramientos el Senado deberá señalar el período de mandato que corresponde a cada magistrado. Todos aquellos que hayan desempeñado el cargo de magistrado electoral no podrán ser reelectos.
+
+Artículo Quinto.- Para efectos del escalonamiento en la elección de los magistrados de las Salas Regionales establecido en el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo siguiente:
+
+a) Los magistrados que sean electos para ocupar las plazas vacantes a la entrada en vigor del presente Decreto serán electos por un período que concluirá el 7 de marzo de 2013.
+
+b) En los casos en que se generen vacantes de magistrados de las Salas Regionales con posterioridad a la fecha señalada en el inciso anterior, el nombramiento del sustituto será únicamente para cubrir el período de la vacante.
+
+c) A más tardar el 5 de marzo de 2013 la Cámara de Senadores elegirá a la totalidad de los magistrados electorales de las Salas Regionales. Para cada Sala, se elegirá un magistrado por tres años, otro por seis años y uno más por nueve años, quienes iniciarán su mandato el 7 de marzo del 2013.
+
+...
+
+## TRANSITORIO
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
