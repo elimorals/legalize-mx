@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2008-06-11"
+last_updated: "2008-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -2897,6 +2897,10 @@ I.- SE LE IMPONDRA PENA DE PRISION DE 10 A 16 AÑOS, Y MULTA DE 3,000 A 10,000 C
 
 II.- SE LE IMPONDRA PENA DE 15 A 21 AÑOS DE PRISION Y MULTA DE 1,000 A 4,500 CUOTAS, AL QUE REALICE LOS DELITOS CONTENIDOS EN LAS FRACCIONES II, III Y IV.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+
+ARTICULO 271 BIS 4.- TRATANDOSE DE DELITOS SEXUALES, SE INCREMENTARA LA PENA EN UNA MITAD MAS, CUANDO SE UTILICE EL INTERNET, O CUALQUIER OTRO MEDIO DE COMUNICACION ELECTRONICA, RADIAL O SATELITAL PARA CONTACTAR A LA VICTIMA.
+
 ###### ARTICULO 259.
 
 COMETE EL DELITO DE ATENTADOS AL PUDOR, EL QUE SIN CONSENTIMIENTO DE UNA PERSONA, PUBER O IMPUBER, O CON CONSENTIMIENTO DE ESTA ULTIMA, EJECUTE EN ELLA O LOGRE SE EJECUTE EN LA PERSONA DEL ACTIVO, O EN UNA PERSONA QUE POR CUALQUIER CAUSA NO PUDIERE RESISTIR, UN ACTO EROTICO-SEXUAL, SIN EL PROPOSITO DIRECTO E INMEDIATO DE LLEGAR A LA COPULA.
@@ -5388,6 +5392,10 @@ DECRETO NUM. 235, POR EL QUE SE ADICIONA UN CUARTO PARRAFO AL ARTICULO 395 AL CO
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 11 DE JUNIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
