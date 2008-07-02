@@ -4,7 +4,7 @@ identifier: "ROO-decreto-sobre-las-caracteristicas-difusion-y-ejecucion-del-1190
 country: "mx"
 rank: "decreto"
 publication_date: "1986-02-14"
-last_updated: "1993-12-15"
+last_updated: "2008-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 SOBRE LAS CARACTERISTICAS, DIFUSION Y EJECUCION DEL HIMNO A QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO 2008.
 
 Decreto publicado en el Periódico Oficial el 14 de febrero 1986
 
@@ -73,6 +73,8 @@ Compete a la Secretaría de Gobierno, vigilar el cumplimiento del presente decre
 
 Las contravenciones al presente decreto que no constituyan delito conforme a lo previsto en el Código Penal del Estado Libre y Soberano de Quintana Roo, pero que impliquen desacato o falta de respeto al Himno, se castigará según su gravedad y la condición del infractor, con multa hasta el equivalente a 200 veces el salario mínimo, o con arresto por 36 horas, si la infracción se comete con fines de lucro la multa podrá imponerse a 1000 veces el salario mínimo. Procederá la sanción de decomiso para los artículos que reproduzcan ilícitamente el Himno a Quintana Roo.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
 ARTICULO DECIMOPRIMERO.- La letra oficial del Himno a Quintana Roo, es la siguiente:
 
 "HIMNO A QUINTANA ROO"
@@ -81,11 +83,11 @@ CORO
 
 Selva, mar, historia y juventud,
 
-pueblo libre y justo bajo el sol,
+pueblo libre y justo bajo el sol
 
 la tenacidad como virtud:
 
-¡ ESO ES QUINTANA ROO¡
+¡ESO ES QUINTANA ROO!
 
 I
 
@@ -95,7 +97,7 @@ al tesón que construye el presente,
 
 entonemos, alzada la frente,
 
-en un himno, fraterna lealtad.
+en un himno fraterna lealtad.
 
 Al unísono vibren sus notas
 
@@ -107,13 +109,13 @@ y lo cante el tumulto del mar.
 
 CORO
 
-Selva, mar, historia y juventud,
+Selva, mar, historia y Juventud,
 
 pueblo libre y justo bajo el sol,
 
 la tenacidad como virtud:
 
-¡ ESO ES QUINTANA ROO¡
+¡ESO ES QUINTANA ROO!
 
 II
 
@@ -125,11 +127,9 @@ pues la Patria en tu suelo recibe,
 
 la caricia primera del sol.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBREDE 1993)</small>
+Nueve haces son tus Municipios,
 
-Ocho haces son tus municipios,
-
-ocho haces de luz ascendente,
+Nueve haces de luz ascendente,
 
 el pasado se torna presente,
 
@@ -143,17 +143,17 @@ pueblo libre y justo bajo el sol,
 
 la tenacidad como virtud:
 
-¡ ESO ES QUINTANA ROO¡
+¡ESO ES QUINTANA ROO!
 
 III
 
 Esta tierra que mira al oriente,
 
-cuna fue del primer mestizaje,
+cuna fue del primer mestizaje
 
 que nació del amor sin ultraje,
 
-de Gonzalo Guerrero y Za'asil.
+de Gonzalo Guerrero y Zá'asil.
 
 Ni la fuerza del viento te humilla,
 
@@ -171,17 +171,17 @@ pueblo libre y justo bajo el sol,
 
 la tenacidad como virtud:
 
-¡ ESO ES QUINTANA ROO¡
+¡ESO ES QUINTANA ROO!
 
 IV
 
-En Tepic el coraje del maya,
+En Tepich el coraje del maya,
 
 convirtió su opresión en victoria,
 
 el machete escribió en nuestra historia:
 
-¡LIBERTAD¡ ¡LIBERTAD¡ ¡LIBERTAD¡
+¡LIBERTAD! ¡LIBERTAD! ¡LIBERTAD!
 
 Santa Cruz fue santuario del libre;
 
@@ -199,7 +199,7 @@ pueblo libre y justo bajo el sol,
 
 la tenacidad como virtud:
 
-¡ ESO ES QUINTANA ROO¡
+¡ESO ES QUINTANA ROO!
 
 V
 
@@ -227,7 +227,7 @@ pueblo libre y justo bajo el sol,
 
 la tenacidad como virtud:
 
-¡ ESO ES QUINTANA ROO¡
+¡ESO ES QUINTANA ROO!
 
 ###### ARTICULO DECIMO SEGUNDO.
 
@@ -252,3 +252,9 @@ En cumplimiento a lo dispuesto por la Fracción I del Artículo 91 de la Constit
 P.O. 15 DE DICIEMBRE 1993.
 
 UNICO.- El presente Decreto entrará en vigor a partir del primer día de Enero de 1994, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras, instituciones, deberán ajustarse a la reforma del Artículo 6° de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
