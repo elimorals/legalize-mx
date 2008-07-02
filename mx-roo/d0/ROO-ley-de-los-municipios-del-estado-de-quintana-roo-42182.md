@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2004-12-20"
+last_updated: "2008-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2008.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -119,7 +119,9 @@ Los Ayuntamientos se integran de la siguiente forma:
 
 I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad e Isla Mujeres, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad, Isla Mujeres y Tulúm, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
@@ -151,9 +153,11 @@ De la División Territorial, Administrativa y Política.
 
 ### Capítulo I. De la división territorial
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 12.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres y Solidaridad.
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad y Tulúm.
 
 La extensión, límites y cabecera de cada Municipio, serán los señalados en la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
@@ -2656,3 +2660,11 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 PEDRO JOSÉ FLOTA ALCOCER.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6° de la Ley sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios o en centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
