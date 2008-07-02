@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2008-06-09"
+last_updated: "2008-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -119,17 +119,85 @@ Igual protección asume respecto de los derechos fundamentales que, en ejercicio
 
 El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinción de origen, sexo, condición o actividad social.
 
-Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
-Toda Familia tiene derecho a disfrutar de vida digna y decorosa. La ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo, en concordancia y coordinación con las leyes federales sobre la materia. Toda persona tiene derecho a la protección de la salud. La ley definirá las bases y modalidades para el acceso a los servicios de salud. En materia de salubridad general se estará a las disposiciones que dicte la Federación de conformidad al contenido de la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la Ley. Toda referencia de esta Constitución y de las leyes del Estado al género masculino, lo es también para el género femenino, cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
-Los miembros de las etnias que habitan en las comunidades indígenas, podrán resolver sus controversias de carácter jurídico de acuerdo a sus usos, costumbres y tradiciones; la ley instituirá un sistema de justicia indígena para las comunidades de la Zona Maya del Estado, a cargo de jueces tradicionales y, en su caso, de Magistrados de Asuntos Indígenas que funcionen en Sala, en Tribunales Unitarios, o en las instituciones que de acuerdo con las comunidades indígenas, determine el Tribunal Superior de Justicia.
+Toda familia tiene derecho a disfrutar de vida digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo, en concordancia y coordinación con las leyes federales sobre la materia. Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. En materia de salubridad general se estará a las disposiciones que dicte la Federación de conformidad al contenido de la fracción XVI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
-La ley protegerá, regulará y validará el desarrollo y ejercicio de sus lenguas, cultura, usos, costumbres, actos, recursos y formas específicas de organización social y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+El Estado de Quintana Roo, como parte de la Nación mexicana, tiene una composición pluricultural, sustentada originariamente en sus comunidades y pueblos indígenas mayas, que se encuentran asentados y conviven en su territorio.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+La conciencia de la identidad indígena deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos indígenas.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+
+Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentada en el territorio del Estado y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+
+La ley establecerá los mecanismos y criterios para la identificación y delimitación de los pueblos y comunidades indígenas establecidos en el territorio del Estado, tomando en cuenta además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+
+A. Se reconoce el derecho de los pueblos y comunidades indígenas establecidos en el territorio del Estado a la libre determinación y; en consecuencia, a la autonomía para:
+
+I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
+
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, respetando sus derechos fundamentales, los derechos humanos y la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los Jueces o Tribunales correspondientes;
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado;
+
+IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad;
+
+V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución;
+
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas. Para estos efectos, las comunidades podrán asociarse en términos de ley;
+
+VII. Elegir en cada pueblo o comunidad indígena de acuerdo con sus normas, procedimientos y prácticas tradicionales, a un ciudadano indígena que los represente ante el Ayuntamiento, mismo que tendrá derecho a voz en las sesiones del Cabildo en que se traten asuntos relacionados con la población correspondiente, así como las demás facultades y obligaciones que las leyes secundarias le confieran;
+
+VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura. Los miembros de las etnias que habitan en las comunidades indígenas, podrán resolver sus controversias de carácter jurídico de acuerdo a sus usos, costumbres y tradiciones; la Ley instituirá un sistema de justicia indígena para las comunidades de la Zona Maya del Estado, a cargo de jueces tradicionales y, en su caso, de Magistrados de Asuntos Indígenas que funcionen en Sala, en Tribunales Unitarios, o en las instituciones que de acuerdo con las comunidades indígenas, determine el Tribunal Superior de Justicia;
+
+IX. Establecer y operar sus propios medios de comunicación, de acuerdo a las formalidades establecidas en la Constitución Política de los Estados Unidos Mexicanos y demás leyes relativas a la materia.
+
+Las comunidades y pueblos indígenas, así como sus integrantes tendrán derecho a acceder a procedimientos equitativos y justos, conforme lo determine la ley, para el arreglo de controversias con el Estado, Municipios u otras autoridades públicas, y a una pronta resolución sobre esas controversias, así como a una reparación efectiva de toda lesión de sus derechos individuales y colectivos. En tales resoluciones se tendrán debidamente en consideración las costumbres, tradiciones, normas y sistemas jurídicos de los pueblos indígenas interesados y las normas internacionales de derechos humanos acordes con la Constitución General y Estatal.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+
+B. Los Gobiernos Estatal y Municipales, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades tienen la obligación de:
+
+I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de Gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos;
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación;
+
+III. Asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así coma apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil;
+
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda; así como ampliar la cobertura de los servicios sociales básicos;
+
+V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
+
+VI. Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación;
+
+VII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas en el territorio del Estado, mediante acciones para garantizar los derechos laborales; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas;
+
+IX. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y de los municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Legislatura del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas especificas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+Sin perjuicio de los derechos establecidos en este artículo a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley. Asimismo, la ley reconocerá y protegerá a los indígenas pertenecientes a otras comunidades, o pueblos, o que procedentes de otra Entidad Federativa residan temporal o permanentemente dentro del territorio del Estado.
+
+Para asegurar que las comunidades y pueblos indígenas, así como sus integrantes puedan comunicarse de manera efectiva en las actuaciones políticas, jurídicas y administrativas, el Estado proporcionará, cuando sea necesario, servicios de intérprete u otros medios adecuados.
+
+Es responsabilidad del Poder Ejecutivo vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en lengua maya.
 
 ###### ARTICULO 14.
 
@@ -1373,7 +1441,7 @@ III.- Tener modo honesto de vivir.
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 96.
 
@@ -1395,53 +1463,67 @@ El Procurador General de Justicia podrá ser removido libremente por el Gobernad
 
 ###### ARTICULO 97.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, en los Juzgados de Primera Instancia, Juzgados de Paz y en los demás órganos auxiliares de la administración de justicia que señale la ley orgánica respectiva.
+Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, Tribunales y Juzgados, que lo ejercerán en el lugar, grado y términos asignados por esta Constitución y su ley reglamentaria correspondiente.
 
-Corresponde a los Tribunales y Juzgados del Estado conocer en los términos de las leyes respectivas, con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, de las controversias jurídicas que se susciten entre el Estado y particulares, entre los Municipios, entre los Municipios y los particulares, así como entre particulares.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
-La administración, vigilancia, disciplina y carrera judicial del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado, en los términos que conforme a las bases que señale esta constitución, establezca la ley.
+Con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, corresponde a los Tribunales y Juzgados del Estado conocer, en los términos de las leyes respectivas, de las controversias jurídicas que se susciten entre los poderes del Estado, respecto de materias de constitucionalidad y legalidad local; el Estado y los Municipios; El Estado y los particulares; entre los Municipios del Estado, los Municipios y los particulares; y los particulares entre sí.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+La administración, vigilancia, disciplina y carrera judicial del Poder Judicial del Estado, con excepción de los Magistrados del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que señala esta Constitución y la ley respectiva.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
 
 El Poder Judicial del Estado, tendrá la obligación de proporcionar a los particulares, los medios alternativos de solución a sus controversias jurídicas, tales como la conciliación o el arbitraje, de acuerdo a procedimientos de mediación, así como los procedimientos y eficacia de sus acuerdos y resoluciones. Además tendrá la obligación de proporcionar los servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos. Para tal efecto las leyes respectivas establecerán las facultades e integración de las instituciones que de acuerdo a su competencia brindarán estos servicios.
 
-El Sistema de Justicia Indígena se regirá en los términos establecidos por esta Constitución y la Ley reglamentaria respectiva.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+El Sistema de Justicia Indígena se ejercerá por las autoridades, de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, en los términos que disponga la ley de la materia.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 98.
 
-El Tribunal Superior de Justicia se integra por nueve Magistrados numerarios y el número de supernumerarios que determine la Ley Orgánica del Poder Judicial.
+El Tribunal Superior de Justicia se integra por nueve Magistrados Numerarios y el número de Supernumerarios que determine la Ley Orgánica del Poder Judicial.
 
-El Pleno del Tribunal se integrará solamente con los Magistrados numerarios, con la excepción señalada en el cuarto párrafo del artículo de 110 de esta Constitución.
+El Pleno del Tribunal se integrará solamente con los Magistrados Numerarios, con la excepción señalada en el párrafo tercero del Artículo 110 y la salvedad de lo establecido en el primer párrafo del Artículo 99 de esta Constitución.
 
-Las salas se organizarán por materia o por circuitos, mismas que tendrán la competencia y jurisdicción que establezca el Pleno del Tribunal Superior de Justicia, escuchando la opinión del Consejo de la Judicatura; igual procedimiento se seguirá para la determinación de los distritos judiciales y el establecimiento de los juzgados de primera instancia y de paz.
+Las Salas se organizarán por materia o por circuito, y se integrarán con tres Magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 99.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto una sola vez. Cada sala colegiada elegirá a su propio presidente en la primera sesión del año.
-
-La Presidencia del Tribunal tendrá la representación legal del mismo, pero en todo caso requerirá del acuerdo del Pleno.
-
-En las ausencias temporales y en las definitivas del Magistrado Presidente será sustituido por el Magistrado Numerario que designe el Pleno; en el primer caso no podrán exceder de un mes.
-
-En los casos de ausencia temporal menor a treinta días hábiles, de algún Magistrado diferente a la figura del Presidente dentro del Pleno del Tribunal Superior de Justicia, éste último, elegirá dentro de los Magistrados supernumerarios quien supla al Magistrado numerario ausente.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto en períodos de igual duración, sin que éstos excedan sus períodos de elección o reelección como Magistrado Numerario. A la sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho a elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
+La Presidencia del Tribunal tendrá la representación legal del mismo, pero en todo caso requerirá del acuerdo del Pleno.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+En las ausencias temporales y en las definitivas del Magistrado Presidente será sustituido por el Magistrado Numerario que designe el Pleno; en el primer caso no podrán exceder de un mes.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+En los casos de ausencia temporal menor a treinta días hábiles, de algún Magistrado diferente a la figura del Presidente dentro del Pleno del Tribunal Superior de Justicia, éste último, elegirá dentro de los Magistrados supernumerarios quien supla al Magistrado numerario ausente.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 100.
 
-Esta Constitución garantiza la independencia de los Magistrados del Tribunal Superior de Justicia y jueces en el ejercicio de sus funciones.
+Esta Constitución garantiza la independencia de los Magistrados y Jueces del Poder Judicial del Estado, quienes en el ejercicio de sus funciones jurisdiccionales, actuarán sin más sujeción que a las leyes, la equidad y los principios generales del derecho.
 
 La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de quienes sirvan al Poder Judicial del Estado.
 
-Los Magistrados y jueces designados durarán en su encargo un periodo de seis años, podrán ser reelectos por una sola vez, y, si lo fueren, solo podrán ser separados en los términos que señala el Titulo Octavo de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia durarán en su encargo un período de seis años, podrán ser reelectos por una sola vez para un período de igual duración, y solo podrán ser separados en los términos que señala el Titulo Octavo de esta Constitución.
 
-Los Magistrados, jueces y consejeros de la judicatura del Estado, percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante el tiempo de su encargo.
+Los Jueces durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados o promovidos, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y la ley.
 
-Los Magistrados del Poder Judicial del Estado rendirán protesta ante el Congreso del Estado; los jueces ante el Pleno del Tribunal Superior de Justicia y los demás servidores del Poder Judicial ante el Consejo de la Judicatura.
+Los Magistrados, Jueces y Consejeros de la Judicatura del Estado, percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante el tiempo de su encargo.
+
+Los Magistrados del Tribunal Superior de Justicia rendirán protesta ante la Legislatura del Estado o la Diputación Permanente, en su caso; los Jueces ante el Pleno del Tribunal Superior de Justicia y los demás servidores del Poder Judicial ante el Consejo de la Judicatura.
 
 Ningún servidor público del Poder Judicial del Estado podrá tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
@@ -1451,7 +1533,9 @@ Ningún servidor público del Poder Judicial del Estado podrá tener, servir o d
 
 Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
-I. Ser Ciudadano Quintanarroense, en ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+I. Ser ciudadano mexicano por nacimiento y ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles;
 
 II. No tener menos de treinta y cinco años de edad el día de la designación.
 
@@ -1475,15 +1559,25 @@ Los jueces de primera instancia y de paz deberán reunir los mismos requisitos q
 
 Los Magistrados del Tribunal Superior de Justicia serán designados conforme al siguiente procedimiento:
 
-I. El Gobernador del Estado someterá una terna a la consideración del Congreso del Estado, quien previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de las dos terceras partes de sus miembros, dentro del plazo de quince días naturales;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-II. Si el Congreso del Estado no resolviere en el término señalado, rechace la terna o no alcance la votación requerida, el Gobernador dentro de los quince días posteriores propondrá una nueva terna;
+I. El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de las dos terceras partes de sus miembros, dentro del plazo de quince días naturales;
 
-III. Si presentada la segunda terna, El Congreso del Estado la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión realizará la designación de entre los integrantes de la segunda terna.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+II. Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, el Gobernador dentro de los quince días posteriores, propondrá una nueva terna;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+III. Si presentada la segunda terna, a la Legislatura del Estado, ésta la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto secreto de cuando menos la mitad más uno de los Diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión, realizará la designación de entre los integrantes de la segunda terna.
 
 En los recesos de la Legislatura, la Diputación Permanente hará el nombramiento con carácter de provisional, en tanto aquella se reúne y emite la aprobación definitiva.
 
-Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa del Congreso del Estado.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1493,27 +1587,33 @@ Corresponde al Pleno del Tribunal Superior de Justicia, el ejercicio de las sigu
 
 I. Iniciar leyes o decretos inherentes a la impartición de justicia;
 
-II. Conocer en los juicios civiles y penales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-III. Elegir al Magistrado Presidente del Tribunal Superior de Justicia del Estado;
+II. Elegir al Magistrado Presidente del Tribunal Superior de Justicia del Estado;
 
-IV. Elegir al Magistrado que integrará el Consejo de la Judicatura del Estado.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+III. Elegir al Magistrado que integrará el Consejo de la Judicatura del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+IV. Resolver sobre las contradicciones entre las tesis sostenidas en las resoluciones de las Salas o de los Juzgados, en los términos que disponga la Ley respectiva;
 
 V. Conocer de las recusaciones con causa y de las excusas de los Magistrados;
 
-VI. Aprobar las licencias temporales que para separarse del cargo presenten los Magistrados;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-VII. Expedir en el ámbito de su competencia, el Reglamento Interior del Tribunal Superior de Justicia, remitiéndolo al Periódico Oficial del Gobierno del Estado para su publicación;
+VI. Aprobar anualmente el anteproyecto del Presupuesto de Egresos del Poder Judicial, que le presente el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+VII. Asignar a las Salas los Magistrados Numerarios y Supernumerarios correspondientes;
 
 VIII. Resolver las controversias constitucionales, acciones de inconstitucionalidad local y las acciones por omisión legislativa, en términos de los artículos 104 y 105 de esta Constitución y conforme al procedimiento que establezca la Ley respectiva;
 
-IX. Resolver sobre las contradicciones entre las tesis contenidas en las resoluciones de las salas o de los juzgados, en los términos que disponga la ley respectiva;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-X. Aprobar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial que le presente el Consejo de la Judicatura;
-
-XI. Asignar a las salas correspondientes los Magistrados numerarios y supernumerarios.
-
-XII. Las demás que le confieran esta Constitución y las leyes.
+IX. Las demás que le confieran esta Constitución y la Ley Reglamentaria.
 
 En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas y por excepción privada en los casos en que así lo exijan la moral o el interés público.
 
@@ -1555,7 +1655,9 @@ La admisión de una acción de inconstitucionalidad no dará lugar a la suspensi
 
 Las resoluciones del Pleno del Tribunal Superior de Justicia solo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por cuando menos las dos terceras partes del Pleno, y no tendrán efectos retroactivos, salvo en materia penal.
 
-III. De las acciones por omisión legislativa, cuando se considere que el Congreso del Estado no ha resuelto sobre la expedición de alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+
+III. De las acciones por omisión legislativa, cuando se considere que la Legislatura del Estado no ha resuelto sobre la expedición de alguna Ley o Decreto, y que dicha omisión afecte el debido cumplimiento de esta Constitución, siempre y cuando sean interpuestas por:
 
 A) El Gobernador del Estado; o
 
@@ -1563,7 +1665,9 @@ B) Un Ayuntamiento del Estado.
 
 La resolución que emita el Pleno del Tribunal Superior de Justicia que decrete el reconocimiento de la inconstitucionalidad por omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
-En dicha resolución se determinará un plazo para que se expida la ley o decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente del Congreso del Estado; pudiendo disminuir este plazo cuando el interés público lo amerite.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+En dicha resolución se determinará un plazo para que se expida la Ley o Decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente de la Legislatura del Estado; pudiendo disminuir este plazo cuando el interés público lo amerite.
 
 La Sala Constitucional y Administrativa, de oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IX del artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
 
@@ -1619,23 +1723,35 @@ En comisiones ejercerá las funciones de administración, carrera judicial, disc
 
 Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la ley orgánica y en su reglamento interior.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ### CAPITULO II. De la Hacienda Pública
 
 ###### ARTICULO 110.
 
-El Consejo de la Judicatura, se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado numerario nombrado por el Pleno del Tribunal Superior de Justicia; un juez de primera instancia nombrado por el colegio de jueces, de entre quienes tengan mayor antigüedad; y dos Consejeros Ciudadanos elegidos por las dos terceras partes del Congreso del Estado, quienes deberán reunir los mismos requisitos para ser Magistrados del Tribunal Superior de Justicia del Estado.
+El Consejo de la Judicatura, se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado Numerario nombrado por el Pleno del Tribunal Superior de Justicia; un Juez de Primera Instancia nombrado por el Colegio de Jueces, de entre quienes tengan mayor antigüedad; y dos Consejeros Ciudadanos.
 
-Los Consejeros Ciudadanos del Consejo de la Judicatura del Estado deberán ser nombrados, de entre los catedráticos de las escuelas o facultades de derecho, o de entre quienes se hayan distinguido por su capacidad y honestidad en el ejercicio de las actividades jurídicas.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
-Los Consejeros no representarán a quienes los designan y ejercerán su función con independencia e imparcialidad.
+Los Consejeros Ciudadanos del Consejo de la Judicatura del Estado deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia; serán designados conforme al procedimiento establecido en el Artículo 102 de esta Constitución.
 
-El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judicatura, distinto del Presidente, no integrará Pleno del Tribunal Superior de Justicia; ni el juez que ocupe el mismo cargo ejercerá funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
-Los consejeros nombrados por el Congreso del Estado durarán en su cargo cinco años; y solo podrán ser removidos en términos del Titulo Octavo de esta Constitución.
+El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judicatura, distinto del Presidente, no integrará Pleno del Tribunal Superior de Justicia, a excepción de las sesiones de este órgano, que tengan por objeto la elección del Magistrado que presidirá el Tribunal Superior de Justicia, tal como se establece en el párrafo primero del Artículo 99 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+El Magistrado distinto del Presidente y el juez que ocupen los cargos de Consejeros, no ejercerán funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+Los consejeros designados por la Legislatura del Estado durarán en su encargo cinco años y durante el mismo solo podrán ser removidos en términos del Titulo Octavo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 Los integrantes del Consejo de Judicatura, con excepción de su Presidente, rendirán la protesta como tales ante el Pleno del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
 
@@ -1647,7 +1763,9 @@ El Poder Judicial del Estado administrará con autonomía su presupuesto; el Con
 
 El Presidente del Tribunal Superior de Justicia lo remitirá para su inclusión en el Proyecto de Presupuesto del Estado.
 
-La Cuenta Pública del Poder Judicial del Estado será revisada por el Congreso del Estado, en los términos de esta Constitución y las leyes aplicables y comprenderá los recursos del Poder Judicial considerados en el Fondo para Mejoramiento en la Administración e Impartición de Justicia.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+La Cuenta Pública del Poder Judicial del Estado será revisada por la Legislatura del Estado, en los términos de esta Constitución y las leyes aplicables y comprenderá los recursos del Poder Judicial considerados en el Fondo para el Mejoramiento en la Administración e Impartición de Justicia.
 
 La ley establecerá las bases para el manejo de dicho Fondo.
 
@@ -2379,7 +2497,9 @@ Para los efectos de las responsabilidades a que alude este Título, se reputará
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-I. Se impondrá mediante Juicio Político; al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Quintana Roo, Magistrados de los Tribunales Unitarios, Jueces de fuero común, al Titular del Órgano Superior de Fiscalización, a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+
+I. Se impondrá mediante Juicio Político; al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Quintana Roo, Consejeros de la Judicatura del Poder Judicial, Magistrados de los Tribunales Unitarios, Jueces de Fuero Común, al Titular del Órgano Superior de Fiscalización, a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
 
@@ -2994,3 +3114,27 @@ CUARTO.- Dentro de los 45 días naturales posteriores a la entrada en vigor del 
 P.O. 9 DE JUNIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 2 DE JULIO DE 2008.
+
+DECRETO NO. 027 QUE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 13, DE LA CONSTITUCION POLIITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 2 DE JULIO DE 2008.
+
+DECRETO NO. 026 POR EL QUE SE REFORMAN LOS PARRAFOS CUARTO Y QUINTO; Y SE ADICIONAN LOS PARRAFOS SEXTO Y SEPTIMO; ASI COMO LOS APARTADOS "A" Y "B" DEL ARTICULO 13 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 2 DE JULIO DE 2008.
+
+DECRETO NO. 028 QUE REFORMA LOS ARTICULOS 97, 98, 99, 100, 101, 102, 103, 105, 110, Y 160 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura del Poder Judicial del Estado deberá continuar en su conformación actual, hasta en tanto se venza el período por el que fueron elegidos cada uno de sus integrantes.
