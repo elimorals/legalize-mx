@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2007-10-01"
+last_updated: "2008-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -84,9 +84,17 @@ IV. Entidades: las mencionadas en las fracciones IV y V del artículo 1;
 
 V. Tratados: los convenios regidos por el derecho internacional público, celebrados por escrito entre el gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales los Estados Unidos Mexicanos asumen compromisos;
 
-VI. Proveedor: la persona que celebre contratos de adquisiciones, arrendamientos o servicios, y
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2008)</small>
 
-VII. Licitante: la persona que participe en cualquier procedimiento de licitación pública o bien de invitación a cuando menos tres personas.
+VI. Proveedor: la persona que celebre contratos de adquisiciones, arrendamientos o servicios;
+
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2008)</small>
+
+VII. Licitante: la persona que participe en cualquier procedimiento de licitación pública o bien de invitación a cuando menos tres personas, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2008)</small>
+
+VIII. Ofertas subsecuentes de descuentos: modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus propuestas, tienen la posibilidad de que, con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica, realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su proposición técnica. En esta modalidad, el contrato se adjudicará al licitante que haya ofertado el precio más bajo en los términos de lo establecido en la fracción III del artículo 36 Bis.
 
 ###### Artículo 3.
 
@@ -192,7 +200,13 @@ Lo dispuesto por este artículo se aplicará a los organismos descentralizados s
 
 Los contratos celebrados en el extranjero respecto de bienes o servicios que deban ser utilizados o prestados fuera del territorio nacional, se regirán por la legislación del lugar donde se formalice el acto, aplicando en lo procedente lo dispuesto por esta Ley.
 
-Cuando los bienes o servicios hubieren de ser utilizados o prestados en el país, tratándose exclusivamente de licitaciones públicas, su procedimiento y los contratos que deriven de ellas deberán realizarse dentro del territorio nacional.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+Cuando los bienes o servicios hubieren de ser utilizados o prestados en el país, y se acredite previamente que su procedimiento y los contratos no pueden realizarse dentro del territorio nacional, conforme a lo dispuesto por esta Ley, se podrá contratar en el extranjero, aplicando los principios dispuestos por ésta.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+En ambos supuestos, deberá contarse con el previo dictamen de excepción previsto en los artículos 22, fracción II y 40 de esta Ley, salvo que la operación no supere los montos de actuación establecidos en el artículo 42 de la misma.
 
 ###### Artículo 17.
 
@@ -354,6 +368,12 @@ La Secretaría de Economía, mediante reglas de carácter general y tomando en c
 
 La Secretaría de la Función Pública pondrá a disposición pública, a través de medios de difusión electrónica que establezca, la información que obre en su base de datos correspondiente a las convocatorias y bases de las licitaciones y, en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados; así como otra información relativa a las materias que regula esta Ley, con excepción de aquella que, de conformidad con las disposiciones aplicables, sea de naturaleza reservada, en los términos establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+Las licitaciones públicas podrán llevarse a cabo a través de medios electrónicos, en los términos que se establezcan en el Reglamento de esta Ley.
+
 > <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 27.
@@ -386,6 +406,12 @@ I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mex
 
 Tratándose de la contratación de servicios; cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes que se incluyan, en su caso, cumplan con los requisitos de contenido nacional señalados en el párrafo anterior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+Con el propósito de fomentar el desarrollo y participación de las micro, pequeñas y medianas empresas, en igualdad de circunstancias, en las licitaciones públicas nacionales a que se refiere esta fracción, las dependencias y entidades deberán adjudicar los contratos a estas empresas, sin perjuicio de lo dispuesto en el último párrafo del artículo 14 de esta Ley.
+
 II. Internacionales bajo la cobertura de tratados, cuando resulte obligatorio conforme a lo establecido en los tratados, en cuyo caso, sólo podrán participar licitantes mexicanos y extranjeros de países con los que nuestro país tenga celebrado un tratado de libre comercio, el cual contenga disposiciones en materia de compras del sector público que lo permitan o se refiera a bienes y servicios, de origen nacional o de dichos países, de acuerdo a las reglas de origen que prevean los tratados y las reglas de carácter general, emitidas por la Secretaría de Economía, previa opinión de la Secretaría de la Función Pública.
 
 III. Internacionales abiertas, en las que podrán participar licitantes mexicanos y extranjeros, cualquiera que sea el origen de los bienes a adquirir o arrendar y de los servicios a contratar, cuando:
@@ -404,6 +430,12 @@ Cuando en una licitación de servicios se incluya el suministro de bienes y el v
 
 Para determinar la conveniencia de precio de los bienes o servicios, se considerará un margen hasta del diez por ciento a favor del precio más bajo prevaleciente en el mercado nacional, en igualdad de condiciones, respecto de los precios de bienes o servicios de procedencia extranjera que resulten de la investigación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+En las licitaciones públicas se podrá utilizar la modalidad de ofertas subsecuentes de descuentos, en los casos que establezca la Secretaría de la Función Pública mediante las disposiciones administrativas que emita para tal efecto, siempre que las dependencias o entidades convocantes justifiquen debidamente el uso de dicha modalidad.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE JULIO DE 2005)</small>
 
 ###### Artículo 29.
@@ -420,7 +452,9 @@ III. La fecha, hora y lugar de celebración del acto de presentación y apertura
 
 IV. La indicación de si la licitación es nacional o internacional; y en caso de ser internacional, si se realizará o no bajo la cobertura del capítulo de compras del sector público de algún tratado, y el idioma o idiomas, además del español, en que podrán presentarse las proposiciones;
 
-V. La indicación que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrán ser negociadas;
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2008)</small>
+
+V. La indicación que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrán ser negociadas y, en su caso, si se utilizara algún mecanismo de ofertas subsecuentes de descuentos;
 
 VI. La descripción general, cantidad y unidad de medida de los bienes o servicios que sean objeto de la licitación, así como la correspondiente, por los menos, a cinco de las partidas o conceptos de mayor monto;
 
@@ -478,7 +512,9 @@ VI. Moneda en que se cotizará y efectuará el pago respectivo. En licitaciones 
 
 En licitaciones internacionales, en que la convocante determine efectuar los pagos a proveedores extranjeros en moneda extranjera, los licitantes nacionales podrán presentar sus proposiciones en la misma moneda extranjera que determine la convocante. No obstante, el pago que se realice en el territorio nacional deberá hacerse en moneda nacional y al tipo de cambio vigente en la fecha en que se haga dicho pago. Tratándose de proveedores extranjeros, los pagos podrán hacerse en el extranjero en la moneda determinada en las bases respectivas;
 
-VII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes podrán ser negociadas;
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2008)</small>
+
+VII. La indicación que ninguna de las condiciones contenidas en las bases de licitación, así como en las proposiciones presentadas por los licitantes, podrán ser negociadas y, en su caso, si se utilizará algún mecanismo de ofertas subsecuentes de descuentos;
 
 > <small>(REFORMADA, D.O.F. 7 DE JULIO DE 2005)</small>
 
@@ -580,15 +616,17 @@ Cuando no puedan observarse los plazos indicados en este artículo porque exista
 
 Las dependencias y entidades, siempre que ello no tenga por objeto limitar el número de licitantes, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, siempre que:
 
-I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación, y
+I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación, y (sic)
 
 II. En el caso de las bases de la licitación, se publique un aviso en el Diario Oficial de la Federación, a fin de que los interesados concurran ante la propia dependencia o entidad para conocer, de manera específica, las modificaciones respectivas.
 
-No será necesario hacer la publicación del aviso a que se refiere esta fracción, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que, a más tardar dentro del plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE JULIO DE 2005)</small>
+No será necesario hacer la publicación del aviso a que se refiere esta fracción, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que, a más tardar dentro del plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación, y la información respectiva se ponga a disposición de los licitantes que, en su caso, participen a través de los medios remotos de comunicación electrónica que establezca la Secretaría de la Función Pública, y
 
-III. En el caso de las bases de licitación, o las modificaciones de éstas, se de la misma difusión que se haya dado a la documentación original, o bien, cuando las modificaciones deriven de las juntas de aclaraciones, se ponga a disposición o se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2008)</small>
+
+III. En el caso de las bases de licitación, o las modificaciones de éstas, se dé la misma difusión que se haya dado a la documentación original, o bien, cuando las modificaciones deriven de las juntas de aclaraciones, se ponga a disposición o se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación, y la información respectiva se ponga a disposición de los licitantes que, en su caso, participen a través de los medios remotos de comunicación electrónica que establezca la Secretaría de la Función Pública.
 
 Las modificaciones de que trata este artículo en ningún caso podrán consistir en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
 
@@ -598,17 +636,25 @@ Cualquier modificación a las bases de la licitación, derivada del resultado de
 
 En las juntas de aclaraciones, las convocantes resolverán en forma clara y precisa las dudas o cuestionamientos que sobre las bases de licitación les formulen los interesados, debiendo constar todo ello, en el acta respectiva que para tal efecto se levante. De proceder las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos.
 
-> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE JULIO DE 2008)</small>
 
 ###### Artículo 34.
 
-La entrega de proposiciones se hará en sobre cerrado que contendrá la propuesta técnica y económica. La documentación distinta a la propuesta podrá entregarse, a elección del licitante, dentro o fuera del sobre que la contenga.
+La entrega de proposiciones se hará en sobre cerrado que contendrá la propuesta técnica y económica. En el caso de las proposiciones presentadas por medios remotos de comunicación electrónica, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto establezca la Secretaría de la Función Pública.
 
-Salvo los casos justificados por las dependencias o entidades, en las bases de licitación, se establecerá que dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes a que cada persona se obligará, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+La documentación distinta a la propuesta podrá entregarse, a elección del licitante, dentro o fuera del sobre que la contenga.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+Salvo los casos justificados por las dependencias o entidades, en las bases de licitación, se establecerá que dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes a que cada persona se obligará, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por la Secretaría de la Función Pública.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 Los actos, contratos, convenios o combinaciones que lleven a cabo los licitantes en cualquier etapa del procedimiento de licitación deberán apegarse a lo dispuesto por la Ley Federal de Competencia Económica en materia de prácticas monopólicas y concentraciones, sin perjuicio de que las dependencias y entidades determinarán los requisitos, características y condiciones de los mismos en el ámbito de sus atribuciones. Cualquier licitante o el convocante podrá consultar a la Comisión Federal de Competencia sobre la consistencia de una proposición conjunta con la legislación en materia de competencia, y dicha Comisión, sin juzgar sobre las proposiciones técnicas o económicas, dará respuesta exclusivamente por lo que se refiere a lo dispuesto en la Ley Federal de Competencia Económica, previa opinión de las dependencias y entidades que correspondan, las cuales determinarán lo conducente conforme a sus atribuciones.
+
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
 
 Previo al acto de presentación y apertura de proposiciones, las convocantes podrán efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la propuesta. Lo anterior será optativo para los licitantes, por lo que no se podrá impedir el acceso a quienes hayan cubierto el costo de las bases y decidan presentar su documentación y proposiciones en la fecha, hora y lugar establecido para la celebración del citado acto.
 
@@ -625,6 +671,10 @@ II. Por lo menos un licitante, si asistiere alguno, y el servidor público de la
 III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar las propuestas aceptadas para su posterior evaluación y el importe de cada una de ellas, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma; la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación, y
 
 IV. En el acta a que se refiere la fracción anterior, se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación; esta fecha deberá quedar comprendida dentro de los veinte días naturales siguientes a la establecida para este acto y podrá diferirse, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo. La convocante procederá a realizar la evaluación de la o las propuestas aceptadas. Cuando no se hubiere establecido para dicha evaluación el criterio relativo a puntos y porcentajes, el de costo beneficio la convocante evaluará, en su caso, al menos las dos propuestas cuyo precio resulte ser más bajo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+Tratándose de licitaciones en las que se utilice la modalidad de ofertas subsecuentes de descuentos, en el acta referida en la fracción III de este artículo, se señalará la fecha, hora y lugar en la que se dará inicio a la presentación de ofertas subsecuentes de descuentos.
 
 > <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
 
@@ -656,9 +706,13 @@ Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará a:
 
 I. Aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, incluyendo, en su caso, el porcentaje previsto por el artículo 14 de este ordenamiento, y
+Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, incluyendo, en su caso, el porcentaje previsto por el artículo 14 de este ordenamiento, y (sic)
 
-II. La propuesta que tenga la mejor evaluación combinada en términos de los criterios de puntos y porcentajes o de costo beneficio.
+II. La propuesta que tenga la mejor evaluación combinada en términos de los criterios de puntos y porcentajes o de costo beneficio;
+
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2008)</small>
+
+III. Tratándose de licitaciones en las que se utilice la modalidad de ofertas de descuentos subsecuentes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales y técnicas requeridas por la convocante, así como las mejores condiciones en cuanto a calidad y oportunidad, garantice satisfactoriamente el cumplimiento de las obligaciones respectivas, y haya ofertado el precio más bajo.
 
 La convocante emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
 
@@ -784,7 +838,11 @@ En casos excepcionales, el titular de la dependencia o el órgano de gobierno de
 
 En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato.
 
-Para fomentar el desarrollo y la participación de las empresas nacionales micro, pequeñas y medianas, las dependencias y entidades procurarán que las operaciones comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo, sean adjudicadas a aquellas cuando menos el cincuenta por ciento del valor de los contratos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2008)</small>
+
+Para fomentar el desarrollo y la participación de las empresas nacionales, micro, pequeñas y medianas, las dependencias y entidades deberán adjudicarles en las operaciones comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo, cuando menos el cincuenta por ciento del valor de las adquisiciones.
 
 ###### Artículo 43.
 
@@ -1367,3 +1425,9 @@ D.O.F. 1 DE OCTUBRE DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+
+D.O.F. 2 DE JULIO DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las reformas y adiciones a los artículos 26, 28 y 42 entrarán en vigor seis meses después de la publicación del presente Decreto en el Diario Oficial de la Federación. En dicho plazo, el Ejecutivo Federal deberá emitir las disposiciones reglamentarias y administrativas respectivas.
