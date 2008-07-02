@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4062
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2008-03-18"
+last_updated: "2008-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2008.
 
-Ley publicada en el número extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
+Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
 
 DECRETO NÚMERO: 109
 
@@ -41,9 +41,11 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto garantizar el acceso de toda persona a la información pública que generen, recopilen, mantengan, procesen, administren o se encuentre en posesión de los Sujetos Obligados señalados en esta Ley.
+La presente Ley es de orden público con aplicación en todo el territorio del Estado de Quintana Roo. Tiene por objeto garantizar el acceso de toda persona a la información y la protección de datos personales en posesión de los Sujetos Obligados señalados en esta Ley.
 
 ###### Artículo 2.
 
@@ -101,6 +103,14 @@ XIII. ÓRGANOS AUTÓNOMOS: Cualquier órgano u organismo al que la Constitución
 
 XIV. DATOS PERSONALES: La información concerniente a una persona física identificada o identificable; entre otra, la relativa a su origen racial o étnico, o que esté referida a sus características físicas, morales o emocionales, a su vida afectiva o familiar, domicilio, número telefónico, patrimonio, ideología, creencias o convicciones religiosas o filosóficas, su estado de salud físico o mental, sus preferencias sexuales, claves informáticas o cibernéticas, códigos personales encriptados u otras análogas que afecten su intimidad.
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2008)</small>
+
+XV. UNIDAD ADMINISTRATIVA: Las Secretarías, Dependencias, Direcciones, organismos y en general las áreas que componen a los sujetos obligados.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2008)</small>
+
+XVI. MEDIOS ELECTRÓNICOS: Los sistemas informáticos o computacionales a través de los cuales se podrán presentar las solicitudes de acceso a la información, pública y de rectificación y/o protección de datos personales, si fuera el caso.
+
 ###### Artículo 6.
 
 La presente Ley tiene como objetivos:
@@ -143,7 +153,9 @@ La información se proporcionará en el estado en que se encuentre en las Entida
 
 La pérdida, destrucción, alteración u ocultamiento de la información pública y de los documentos en que se contenga, los servidores públicos serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo y demás ordenamientos relativos.
 
-A efecto de salvaguardar los archivos, registros y, en general, toda la información originalmente plasmada en papel y que obra en posesión de los Sujetos Obligados, ésta deberá ser digitalizada.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+A efecto de salvaguardar los archivos, registros y, en general, toda la información originalmente plasmada en papel y que obra en posesión de los Sujetos Obligados, ésta podrá ser digitalizada.
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
 
@@ -169,7 +181,9 @@ Cada Sujeto Obligado deberá sistematizar la información para facilitar el acce
 
 De igual manera, tienen la obligación de proveer la información actualizada contenida en documentos escritos, fotografías, gráficos, grabaciones, soporte electrónico o digital, o en cualquier otro medio o formato que se encuentre en su posesión o bajo su control.
 
-En las oficinas de los Sujetos Obligados, así como en las bibliotecas y archivos públicos a cargo del Estado y de los Municipios, se preverá la instalación de un mínimo equipo de cómputo que facilite el acceso a la información básica, garantizada en este capítulo.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
+En las Unidades de Vinculación de los Sujetos Obligados, así como en las bibliotecas y archivos públicos que éstos administren, se preverá que en sus equipos de cómputo disponibles al público, se facilite el acceso a la información a que se refiere el Artículo l5 de la presente Ley.
 
 ###### Artículo 12.
 
@@ -199,19 +213,27 @@ Dicho informe deberá incluir: el número de solicitudes de información present
 
 Los Sujetos Obligados deberán publicar a través de internet, en forma permanente y actualizada, con acceso al público y mediante procesos informáticos sencillos y de fácil comprensión, la información básica siguiente:
 
-I. Las leyes, reglamentos, decretos administrativos, circulares, manuales de organización y demás normas que les resulten aplicables;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-II. Su estructura orgánica y las atribuciones por Unidad de Vinculación y la normatividad que las rige;
+I. Las leyes, decretos, reglamentos y demás disposiciones de observancia general, publicadas en el Periódico Oficial, del Estado de Quintana Roo;
 
-III. El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía, incluyendo su domicilio postal, dirección electrónica y teléfonos;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+II. Su estructura orgánica, las atribuciones por Unidad Administración y la normatividad que las rige;
 
-IV. La remuneración mensual por puesto, exhibiendo el tabulador de dietas, sueldos y salarios, incluyendo el sistema de compensación; el sistema de premios, estímulos y recompensas; los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+III. El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía, incluyendo su domicilio postal, dirección electrónica y teléfonos oficiales;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+IV. La remuneración mensual por empleo, cargo o comisión;
 
 V. El domicilio, número telefónico y la dirección electrónica de la Unidad de Vinculación donde podrán recibirse las solicitudes para obtener la información pública;
 
-VI. Las metas y objetivos de sus programas, así como los montos asignados y criterios de acceso a los programas de subsidio;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+VI. Las metas y objetivos de sus programas más relevantes, así como información completa y actualizada sobre sus indicadores de gestión;
 
 VII. Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
 
@@ -223,21 +245,31 @@ X. Las enajenaciones de bienes que realicen por cualquier título o acto, indica
 
 XI. Las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
 
-XII. Los resultados finales de las auditorías que se practiquen a los Sujetos Obligados;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-XIII. Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
+XII. Los resultados de las auditorias públicas concluidas que se practiquen a los Sujetos Obligados;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+XIII. Las reglas para otorgar concesiones, licencias, permisos o autorizaciones, en este caso debe observarse lo dispuesto por el Artículo 16 de esta Ley;
 
 XIV. El padrón de bienes muebles e inmuebles;
 
-XV. Los contratos de obra pública, su monto, fecha de convocatoria y licitación, y a quien le fueron asignados, independientemente de si se trata de licitación o invitación restringida de acuerdo a la ley de la materia;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-XVI. Los informes o equivalentes que por disposición legal generen los Sujetos Obligados, incluyendo los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+XV. Los contratos de obra pública, para lo cual debe considerarse lo dispuesto en los Artículos 17 y 17 Bis de esta Ley;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-XVII. Las iniciativas de ley que se presenten en la Legislatura del Estado, sus avances en el proceso legislativo, así como los acuerdos y decretos legislativos aprobados;
+XVI. Los informes o equivalentes que por disposición legal generen los Sujetos Obligados;
 
-XVIII. Los balances generales y el estado financiero, respetando la autonomía de los Sujetos Obligados;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+XVII. Las iniciativas de ley o decreto que se presenten en la Legislatura del Estado, una vez leídas en Pleno y turnadas a las comisiones legislativas que correspondan; los dictámenes y los acuerdos aprobados en el Pleno; los decretos legislativos publicados y los Diarios de Debates, dentro de los cinco días hábiles posteriores a la sesión de que se trate;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+XVIII. Un resumen financiero, respetando la autonomía de los Sujetos Obligados;
 
 XIX. El origen y monto de los ingresos mensuales de los fondos auxiliares especiales que tuviesen o llegasen a tener los Sujetos Obligados, así como la aplicación de los mismos; y (sic)
 
@@ -293,17 +325,23 @@ IV.- El plazo para su cumplimiento.
 
 DE INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
 ###### Artículo 18.
 
-Los Sujetos Obligados, deberán suscribir convenios de colaboración con el Instituto, a fin de capacitar y actualizar de forma permanente a sus servidores públicos en la cultura de la apertura informativa y el ejercicio del derecho de acceso a la información pública y la protección de datos personales a través de cursos, seminarios, talleres y toda otra forma de enseñanza y entrenamiento que se considere pertinente.
+El Instituto deberá promover toda clase de acciones tendientes al fortalecimiento de la cultura de la apertura informativa y el ejercicio del derecho de acceso a la información y la protección de datos personales a través de cursos, seminarios, talleres y toda otra forma de enseñanza y entrenamiento que se considere pertinente. Para tal efecto, el Instituto establecerá los programas y coordinará su actuación en la materia con los Sujetos Obligados.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### Artículo 19.
 
-El Instituto procurará que, en los planes y programas de estudio de la educación preescolar, primaria, secundaria, normal y para la formación de maestros de educación básica que se impartan en el Estado, se incluyan contenidos que versen sobre la importancia social del derecho de acceso a la información pública y protección de datos personales en una sociedad democrática. Para tal fin, coadyuvará con las autoridades educativas competentes en la preparación de los contenidos y el diseño de los materiales didácticos de dichos planes y programas.
+El Instituto promoverá ante las autoridades competentes del Estado, la inclusión, en los planes y programas de estudio de educación preescolar primaria, secundaria, normal y para la formación de maestros de educación básica que se impartan en el Estado, de contenidos que versen sobre la importancia social del derecho de acceso a la información y protección de datos personales en una sociedad democrática.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### Artículo 20.
 
-Las Universidades e Instituciones de Educación Superior procurarán en sus actividades académicas curriculares y extracurriculares, incluir temas que ponderen la importancia social de la cultura de la apertura informativa y del derecho de acceso a la información pública. El Instituto impulsará, conjuntamente con Instituciones de Educación Superior, la integración de un Centro de Investigación, Difusión y Docencia sobre Derecho de Acceso a la Información Pública, que promueva la socialización de conocimiento sobre el tema y coadyuve con el Instituto en sus tareas sustantivas.
+Las escuelas de educación media superior, universidades e instituciones de educación superior procurarán en sus actividades académicas curriculares y extracurriculares, incluir temas que ponderen la importancia social de la cultura de la apertura informativa y del derecho de acceso a la información. El Instituto impulsará conjuntamente con instituciones de educación superior, la implementación de mecanismos que permitan la investigación, difusión y docencia sobre derecho de acceso a la información, que promueva la socialización de conocimiento sobre el tema y coadyuve con el Instituto en sus tareas sustantivas.
 
 ### CAPÍTULO QUINTO. DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL
 
@@ -311,15 +349,23 @@ Las Universidades e Instituciones de Educación Superior procurarán en sus acti
 
 El Ejercicio del derecho de acceso a la información pública, sólo será restringido en los términos de lo dispuesto por esta Ley, mediante las figuras de la Información Reservada y Confidencial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+
 ###### Artículo 22.
 
-Es información reservada, para los efectos de esta Ley:
+La clasificación de reserva de la información procederá en los siguientes casos:
 
-I. La que comprometa la seguridad del Estado o de los Municipios;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-II. La que ponga en riesgo la seguridad pública;
+I. Cuando se trate de información, cuya divulgación ponga en riesgo la seguridad del Estado o de los Municipios o la seguridad pública;
 
-III. La que ponga en riesgo la privacidad o la seguridad de los particulares;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+II. La que comprometa la seguridad, la vida o la salud de cualquier persona;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+
+III. Cuando su divulgación pueda causar perjuicio a las actividades de la impartición de justicia o la recaudación de las contribuciones;
 
 IV. La que dañe la estabilidad financiera o económica del Estado o los Municipios;
 
@@ -357,9 +403,11 @@ XX. Los secretos comercial, industrial, fiscal, bancario, fiduciario u otro cons
 
 XXI. Cuando se trate de información de particulares recibida por la administración pública bajo promesa de reserva o esté relacionada con la propiedad intelectual, patentes o marcas en poder de las autoridades.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
 ###### Artículo 23.
 
-Los Titulares de los Sujetos Obligados, conjuntamente con los Titulares de las Unidades de Vinculación, serán responsables de clasificar la información de conformidad con los criterios establecidos en esta Ley, los lineamientos expedidos por el Instituto y los ordenamientos reglamentarios u análogos.
+Los Titulares de los Sujetos Obligados o los servidores públicos debidamente autorizados por este, conjuntamente con los Titulares de las Unidades de Vinculación, serán responsables de clasificar la información de conformidad con los criterios establecidos en esta ley, los lineamientos expedidos por el Instituto y los ordenamientos reglamentarios u análogos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
 
@@ -563,6 +611,10 @@ Los titulares de las direcciones y demás órganos que contemple la estructura a
 
 El reglamento, de igual forma, deberá instituir el Servicio Civil de Carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia; y establecerá y desarrollará las bases para la selección, permanencia, promoción, capacitación y actualización del personal.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+
+Todo el personal que integre y forme parte del Instituto, estará sujeto a las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y responderá de sus actos en la forma, términos y ante las instancias que dicha normatividad señala para los servidores públicos de organismos de similar naturaleza en el Estado.
+
 ###### Artículo 41.
 
 El Instituto tendrá las siguientes atribuciones:
@@ -709,15 +761,17 @@ Durante el mes de abril de cada año, el Consejero Presidente del Instituto rend
 
 DE ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
 ###### Artículo 50.
 
-Cualquier persona o su representante podrán presentar, ante la Unidad de Vinculación correspondiente, una solicitud de acceso a la información mediante escrito libre o en los formatos que apruebe el Instituto.
+Toda persona tiene derecho a solicitar y recibir información de cualquiera de los sujetos obligados.
 
-La solicitud deberá hacerse por escrito, a menos que la índole del asunto permita que sea verbal, en cuyo caso la entidad registrará en un formato las características de la solicitud y procederá a entregar una copia del mismo al interesado.
+La solicitud podrá hacerse por escrito o a través de medios electrónicos a menos que las condiciones del solicitante se lo impidan, en cuyo caso será verbal y el sujeto obligado, registrará en un formato los requisitos de la solicitud y procederá a entregar una copia del mismo al interesado.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
+Cuando la solicitud sea por escrito o verbal, deberá de presentarse ante la Unidad de Vinculación del Sujeto Obligado correspondiente; y cuando se realice a través de medios electrónicos, la solicitud se deberá hacer a través del Portal de los Sujetos Obligados.
 
-Las solicitudes podrán realizarse también por medio de la Internet, y serán contestadas por el mismo medio. Para el efecto, los sujetos obligados deberán crear los medios electrónicos para tal fin. Los solicitantes deberán registrar previamente su correo electrónico con los datos que le requieran las unidades de vinculación, así como lo que se requiera para dar certeza a los datos incluidos en la solicitud.
+Las solicitudes que se presenten de manera electrónica, se tramitaran por dicha vía, siguiendo el procedimiento establecido para la substanciación de las solicitudes que se señala en los siguientes artículos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
 
@@ -1118,3 +1172,11 @@ LIC. EFRAÍN VILLANUEVA ARCOS
 P.O. 18 DE MARZO DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 2 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo,
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Para efectos del Artículo 8 penúltimo párrafo, los Sujetos Obligados podrán digitalizar la información que generen, a partir de la entrada en vigor del presente decreto y hasta donde se lo permita el volumen de sus archivos.
