@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2008-05-01"
+last_updated: "2008-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -417,9 +417,11 @@ IV. El sistema educativo estatal se ajustará a los principios que se establecen
 
 V. La legislación local protegerá el patrimonio ambiental y cultural de los jaliscienses. Las autoridades con la participación corresponsable de la sociedad, promoverán la conservación y difusión de la cultura del pueblo de Jalisco, y el respeto y preservación del entorno ambiental;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
 
-VI. Las autoridades estatales y municipales, organizarán el sistema estatal de planeación, para que mediante el fomento del desarrollo sustentable y una justa distribución del ingreso y la riqueza se permita a las personas y grupos sociales el ejercicio de sus derechos, cuya seguridad y bienestar protege esta Constitución.
+VI. Las autoridades estatales y municipales organizarán el sistema estatal de planeación para que, mediante el fomento del desarrollo sustentable y una justa distribución del ingreso y la riqueza, se permita a las personas y grupos sociales el ejercicio de sus derechos, cuya seguridad y bienestar protege esta Constitución.
+
+La ley establecerá los criterios para la instrumentación, control y evaluación del plan y los programas de manera objetiva, con base en indicadores que la doten de confiabilidad;
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2000)</small>
 
@@ -731,33 +733,9 @@ II. Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por
 
 III. Fijar la división territorial, política y administrativa del Estado, así como la denominación de los municipios y localidades que lo compongan;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
 
-IV. Determinar los gastos del Estado para cada ejercicio fiscal, así como las contribuciones del Estado y municipios para cubrirlos, y revisar y fiscalizar las cuentas correspondientes;
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
-
-La revisión de las cuentas públicas de los poderes Ejecutivo y Judicial; la de los entes públicos estatales autónomos; organismos descentralizados y fideicomisos estatales o municipales, así como de los ayuntamientos del Estado; tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados en el presupuesto y el cumplimiento de los objetivos contenidos en los programas.
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
-
-La revisión de la cuenta pública del Poder Legislativo, se llevará a cabo de conformidad con las disposiciones contenidas en la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
-
-Para la revisión de las cuentas públicas, el Congreso se apoyará en la entidad de fiscalización superior denominada Auditoría Superior del Estado.
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
-
-Serán principios rectores de la fiscalización superior, la legalidad, certeza, independencia, objetividad e imparcialidad.
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
-
-Si del examen que la Auditoría Superior del Estado realice con motivo de la fiscalización que haga, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, ni se hayan cumplido los programas o planes propuestos, se determinarán las responsabilidades de acuerdo con la ley.
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
-
-La cuenta pública de los poderes Ejecutivo y Judicial; la de los entes públicos estatales autónomos; organismos descentralizados y fideicomisos estatales o municipales debe ser presentada a más tardar el último día de marzo del año siguiente al de su ejercicio. Para la presentación de las cuentas públicas de los municipios, deberá estarse a lo que disponga la ley.
+IV. Determinar los gastos del Estado para cada ejercicio fiscal conforme a los lineamientos que establezca la ley, así como las contribuciones del Estado y municipios para cubrirlos; revisar, examinar y fiscalizar las cuentas públicas correspondientes, en los términos dispuestos por esta Constitución, mediante el análisis y estudio que se haga de la revisión del gasto y de las cuentas públicas, apoyándose para ello en la Auditoría Superior del Estado, sin perjuicio de su autonomía técnica y de gestión;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -835,35 +813,39 @@ XXII. Resolver las competencias y dirimir las controversias que se susciten entr
 
 XXIII. Conceder amnistía;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
 
-XXIV. Elaborar el proyecto de presupuesto del Poder Legislativo, aprobarlo y ejercerlo con autonomía y de conformidad con la ley; nombrar y remover libremente a los servidores públicos de la Secretaría del Congreso y de la Auditoría Superior del Estado;
+XXIV. Elaborar el proyecto de presupuesto del Poder Legislativo, aprobarlo y ejercerlo con autonomía y de conformidad con la ley; nombrar y remover libremente a los servidores públicos de la Secretaría del Congreso;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
 
-XXV. La Auditoría Superior del Estado tendrá carácter técnico e imparcial, y tendrá a su cargo:
+XXV. Verificar y realizar la fiscalización superior del desempeño y el cumplimiento de los objetivos contenidos en los planes y programas de los órganos, dependencias y entidades públicas;
 
-a) Fiscalizar los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los poderes Ejecutivo y Judicial y de los municipios de la Entidad, así como de los entes públicos de índole estatal y municipal e instituciones que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, así como el cumplimiento de los programas aprobados a través de los informes que dichos poderes y entidades públicas rindan en el ejercicio fiscal que corresponda, en los términos que establezcan las leyes respectivas.
+Vigilar el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley.
 
-Sin perjuicio de los informes a que se refiere el párrafo precedente de este inciso, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.
+Serán principios rectores de la fiscalización superior del Congreso del Estado la legalidad, certeza, transparencia, racionalidad, austeridad, eficacia, eficiencia, honestidad, disciplina presupuestal, responsabilidad, objetividad, imparcialidad, proporcionalidad, posterioridad, anualidad, imparcialidad y confiabilidad y la orientación estratégica de los recursos públicos basada en la adecuada planeación para el desarrollo.
 
-La Auditoría Superior del Estado y los órganos de control propios de los poderes del Estado, de los municipios, la de los entes públicos estatales autónomos, organismos descentralizados y fideicomisos estatales o municipales, establecerán los procedimientos necesarios que les permitan el mejor cumplimiento de sus respectivas atribuciones;
+La fiscalización superior que realice el Congreso del Estado se sujetará a las siguientes bases:
 
-b) Entregar el informe del resultado de la revisión de las cuentas públicas de los poderes Ejecutivo y Judicial, y de los municipios del estado, así como los entes públicos estatal y municipal e instituciones que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, en los términos y plazos que establezca la ley en la materia. Dentro del informe de resultados de la cuenta pública se incluirá el dictamen de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados;
+a) Procurará la orientación estratégica de los presupuestos y recursos públicos del Estado de Jalisco para financiar el desarrollo socioeconómico, cultural y educativo;
 
-c) Investigar los actos y omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de cualquier tipo, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades para cateos; y
+b) El Poder Legislativo a través de su asamblea y sus comisiones legislativas realizarán un riguroso ejercicio de verificación y fiscalización a los órganos, dependencias y entidades públicas, mediante el análisis de los dictámenes de cuenta pública, verificación de avance programático, los informes solicitados, la glosa del informe del Poder Ejecutivo y las comparecencias de los servidores públicos del Estado de Jalisco y sus municipios;
 
-d) Determinar los créditos fiscales que afecten a la hacienda pública o al patrimonio estatal o municipal, o al de los entes públicos estatales autónomos; organismos descentralizados y fideicomisos estatales o municipales y promover, ante las autoridades competentes, el fincamiento de las responsabilidades que correspondan.
+c) Si del examen que el Congreso del Estado, en asamblea o por alguna de sus comisiones legislativas competentes de conformidad con su Ley Orgánica, realice con motivo de la fiscalización aparecieran supuestas irregularidades presupuestales o el probable incumplimiento de los programas o planes de los órganos, dependencias y entidades públicas, se remitirán al órgano competente las recomendaciones de mejora y para que se inicie, en su caso, el procedimiento de responsabilidad de acuerdo con la ley;
 
-Al frente de la Auditoría Superior del Estado habrá un Auditor Superior que será designado conforme al procedimiento que determine la ley; durará en su cargo cuatro años y podrá ser reelecto por una sola vez; sólo podrá ser removido por las causas graves que señale la ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en esta Constitución.
+d) El proceso de fiscalización implica que se tengan que analizar los dictámenes de revisión de gasto y cuenta pública definitivos de la Auditoría Superior del Estado, de conformidad con lo preceptuado en el artículo 35-Bis de esta Constitución y las disposiciones federales que expida el Congreso de la Unión, así como de los ayuntamientos, órganos y fideicomisos municipales, y
 
-Para ser titular de la Auditoría Superior del Estado se requiere cumplir con los requisitos que establezca la ley. Durante el ejercicio de su encargo, no podrá militar o formar parte activa de partido político alguno, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia. El nombramiento deberá recaer preferentemente entre aquellas personas que tengan prestigio profesional, capacidad y experiencia técnica en la materia.
+e) Las cuentas públicas definitivas de los poderes Ejecutivo y Judicial, de los organismos públicos estatales autónomos, organismos públicos descentralizados y fideicomisos estatales deben ser presentadas por la Auditoría Superior del Estado al Congreso a más tardar el último día de marzo del año siguiente al de su ejercicio, para el ejercicio de sus atribuciones de auditoría pública;
 
-La Comisión legislativa que determine la ley será la encargada de la coordinación entre el Congreso del Estado y dicho órgano de fiscalización superior.
+Para la aprobación de las cuentas públicas de los ayuntamientos, organismos públicos descentralizados y fideicomisos de los municipios, deberá estarse a lo que dispongan esta Constitución y las leyes en la materia, respecto de la presentación de las propuestas de dictamen de la Auditoría Superior del Estado al Congreso del Estado, para su debida aprobación en los términos de la ley.
 
-Los poderes del Estado, los entes públicos estatales y municipales que señale la ley y los sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
+Adicionalmente, el Congreso del Estado en materia de fiscalización tendrá las siguientes atribuciones:
 
-El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los ayuntamientos, a través de los encargados de la Hacienda Municipal, aplicarán el procedimiento administrativo de ejecución para el cobro de los créditos fiscales a que se refiere el inciso d) de esta fracción.
+a) Expedir la ley que regule la organización de la Auditoría Superior del estado de Jalisco y las demás que normen la gestión, control y evaluación de los poderes del Estado y de los entes públicos estatales;
+
+b) Nombrar, de conformidad con la ley, al Auditor Superior mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, así como removerlo con la misma mayoría calificada, previa garantía de audiencia de conformidad con la ley de la materia, y
+
+c) Aprobar o devolver con observaciones, a la Auditoría Superior del estado de Jalisco, el proyecto de informe final de la revisión de las cuentas públicas de los sujetos fiscalizados.
 
 XXVI. Conceder dispensas de ley por causas justificadas, por motivos de conveniencia o utilidad pública, sin perjuicio de tercero;
 
@@ -904,6 +886,104 @@ XXXV. Delimitar, y hacer la declaratoria de las áreas metropolitanas localizada
 > <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
 
 XXXVI. Hacer la declaratoria de las regiones metropolitanas propuestas por el Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2008)</small>
+
+###### Art. 35 Bis.
+
+La revisión y auditoría pública de la cuenta pública y de los estados financieros de las entidades a las que se refiere el siguiente párrafo, es una facultad soberana, inalienable e imprescriptible del Congreso del Estado, el cual se apoya para tales efectos en la Auditoría Superior, que es un organismo técnico, profesional y especializado, de revisión y examen del Poder Legislativo, dotado con autonomía técnica y de gestión, con personalidad jurídica, patrimonio propio y capacidad de decisión, integrado por personal profesional, seleccionado por oposición, bajo el régimen de servicio profesional de carrera.
+
+La Auditoría Superior, en el ejercicio de sus atribuciones, puede decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+
+Corresponde a la Auditoría Superior del estado de Jalisco la revisión de las cuentas públicas y estados financieros de:
+
+I. Los poderes Ejecutivo, Legislativo y Judicial;
+
+II. Los organismos públicos autónomos;
+
+III. La Universidad de Guadalajara y los demás organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos del Poder Ejecutivo;
+
+IV. Los ayuntamientos, organismos públicos, descentralizados, empresas de participación municipal mayoritaria y fideicomisos públicos municipales.
+
+También será objeto de la revisión de la Auditoría Superior del estado de Jalisco, en los términos de la ley, cualquier persona o entidad pública o privada que reciba o maneje recursos públicos.
+
+Son principios rectores de la auditoría pública del gasto y las cuentas públicas la posterioridad, anualidad, definitividad, confiabilidad, legalidad, independencia, transparencia, objetividad, imparcialidad y profesionalismo.
+
+La Auditoría Superior del estado de Jalisco tendrá a su cargo:
+
+I. Auditar en forma posterior los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los poderes Ejecutivo, Legislativo y Judicial, de los organismos públicos autónomos y de los municipios de la entidad, así como de los entes públicos de índole estatal y municipal e instituciones, que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, a través de los informes que se rendirán en los términos que establezcan las leyes estatales y federales;
+
+Sin menoscabo al principio de anualidad, los informes a que se refiere el párrafo precedente de esta fracción, en las situaciones excepcionales que determine la ley, podrán requerir a los sujetos auditados que procedan a la revisión de los conceptos que se estimen pertinentes y le rindan un informe. Si estos requerimientos, no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.
+
+La Auditoría Superior del estado de Jalisco y los órganos de control propios de los poderes del Estado, de los municipios, de los organismos públicos estatales autónomos, organismos públicos descentralizados y fideicomisos estatales o municipales, establecerán los procedimientos necesarios que les permitan el mejor cumplimiento de sus respectivas atribuciones;
+
+II. Presentar al Congreso del Estado, en el plazo previsto por la ley, a través de la comisión competente, quien lo turnará al pleno del Congreso del Estado para el cumplimiento de sus funciones de verificación y auditoría pública para su aprobación o devolución con observaciones, el dictamen definitivo sobre el resultado de la revisión de las cuentas públicas de los poderes Ejecutivo, Legislativo y Judicial de los entes públicos autónomos, organismos descentralizados y fideicomisos estatales, así como de cualquier persona o entidad que reciba recursos públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal y de los particulares, en los términos y plazos que establezcan las leyes en la materia. El resultado incluirá el informe de resultados de la cuenta pública, el dictamen de su revisión y el apartado correspondiente a la auditoría pública y verificación, que comprenderá los comentarios y observaciones de los auditados, mismos que tendrá carácter público. En caso de que el Congreso del Estado devuelva el informe final de la Auditoría Superior del Estado, lo acompañará con las observaciones, con el fin de que la Auditoría Superior del estado de Jalisco las solvente en un término no mayor de noventa días, para su aprobación o rechazo por el pleno del Congreso, sin que éste pueda modificarlos.
+
+En el caso de los municipios, entidades descentralizadas o fideicomisos municipales, la Auditoría Superior del estado de Jalisco, en concordancia con el artículo 115, fracción IV, inciso c) de la Constitución Política de los Estados Unidos Mexicanos, auxiliará al Congreso del Estado en la elaboración de la propuesta de dictamen de la revisión de la cuenta pública que remitirá a la comisión del Congreso que determine su Ley Orgánica, para su estudio y análisis, quien lo turnará al pleno del Congreso del Estado para su aprobación o devolución con observaciones a la Auditoría Superior del estado de Jalisco, quien deberá solventar las observaciones del dictamen en un término no mayor de noventa días, para su aprobación definitiva ante el pleno del Congreso.
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+
+III. Investigar los actos y omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de cualquier tipo, y efectuar visitas domiciliarias únicamente para exigir la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades para cateos;
+
+IV. Proponer al Congreso del Estado la determinación de créditos fiscales que afecten a la hacienda pública o al patrimonio estatal o municipal, o al de los entes públicos estatales autónomos, organismos descentralizados y fideicomisos estatales o municipales, y promover, ante las autoridades competentes, el fincamiento de las responsabilidades que correspondan.
+
+V. La revisión del gasto y de la cuenta pública que realice la Auditoría Superior del estado de Jalisco se sujetará a las siguientes bases:
+
+a) Será conforme a los principios rectores que establece esta Constitución, dictaminada por el personal del servicio civil de carrera y el Auditor Superior del estado de Jalisco;
+
+b) Propondrá los créditos fiscales y las sanciones bajo el principio de responsabilidad directa del funcionario y subsidiaria del titular de la entidad auditada, en caso de negligencia o falta de supervisión adecuada;
+
+c) Realizará un examen, rendirá su respectivo informe, así como propondrá la determinación de los créditos fiscales, las sanciones y las responsabilidades en un término máximo de doce meses contados a partir del día siguiente a aquel en el que las entidades auditadas le remitan las correspondientes cuentas públicas o el organismo auditor concluya las auditorías que realice, y de diez meses en caso de entidades municipales auditadas;
+
+d) Aplicará el principio de legalidad y anualidad para la propuesta de créditos fiscales y responsabilidades, y
+
+e) Las resoluciones sancionatorias y definitivas que sean emitidas con motivo de la revisión y examen de las cuentas públicas de las entidades auditadas, podrán ser impugnadas por los sujetos auditados, mediante el juicio de nulidad ante el Tribunal de lo Administrativo del Estado, en los términos que establece esta Constitución.
+
+La auditoría pública realizada por la Auditoría Superior del estado de Jalisco, tiene por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto, así como determinar la eficacia y economía en el gasto público, de conformidad con los indicadores aprobados en los presupuestos de cada ente fiscalizable, en los términos que establezca la ley reglamentaria.
+
+La revisión de la cuenta pública de la Auditoría Superior se llevará a cabo de conformidad con lo que establecen la ley en la materia, las disposiciones federales que expida el Congreso de la Unión y de acuerdo con las bases que establece esta Constitución;
+
+VI. Al frente de la Auditoría Superior del estado de Jalisco habrá un Auditor Superior que será nombrado conforme al procedimiento que determine la ley, por el Congreso del Estado, con voto de cuando menos dos terceras partes de los diputados integrantes de la Legislatura.
+
+El Auditor Superior durará en su cargo siete años y podrá ser nombrado para un nuevo periodo por una sola ocasión, de acuerdo con el procedimiento que establece la ley. Sólo podrá ser removido por las causas graves que señale la ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en esta Constitución;
+
+VII. Para ser titular de la Auditoría Superior se requiere cumplir con los siguientes requisitos:
+
+a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, y ser nativo del estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;
+
+b) Tener cuando menos treinta años cumplidos al día de su designación;
+
+c) Poseer el día de su designación, con antigüedad mínima de cinco años, título profesional de licenciado en Contaduría Pública, licenciado en Derecho o abogado, licenciado en Administración Pública o licenciado en Economía, expedido por la autoridad o institución legalmente facultada para ello;
+
+d) Tener título profesional registrado en la Dirección de Profesiones del Estado;
+
+e) Tener, al momento de su designación, experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
+
+f) No haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro considerado como grave por la legislación penal, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+g) No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos;
+
+h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Procurador General de Justicia, Magistrado del Poder Judicial integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal, Diputado o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
+
+i) No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
+
+j) No tener parentesco de consanguinidad en línea recta y colateral hasta el cuarto grado ni de afinidad, al día de su designación, con los titulares de las entidades sujetas por esta Constitución y la ley a ser auditadas;
+
+k) No haber desempeñado cargo de elección popular en el estado en los tres años anteriores a su designación;
+
+l) No haber sido, durante los últimos seis años, miembro de la dirigencia nacional, estatal o municipal de un partido político, ni haber formado parte de los órganos electorales con derecho a voto durante dicho lapso, y
+
+m) Durante el ejercicio de su encargo, el Auditor Superior no podrá militar o formar parte activa de partido político alguno, ni asumir otro empleo, cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados. El nombramiento deberá recaer preferentemente entre aquellas personas que tengan prestigio profesional, capacidad y experiencia técnica en la materia;
+
+VIII. Las entidades auditadas y los sujetos a ser auditados por la Constitución y que señale la ley deberán:
+
+a) Facilitar los auxilios que requiera la Auditoría Superior del estado de Jalisco para el ejercicio de sus funciones y,
+
+b) Facilitar los apoyos necesarios para que los funcionarios y ex funcionarios rindan sus cuentas públicas, así como para dar contestación a los pliegos de observaciones que notifique la Auditoría Superior del estado de Jalisco.
+
+El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los ayuntamientos, a través de los encargados de la Hacienda Municipal, aplicarán el procedimiento administrativo de ejecución para el cobro de los créditos fiscales a que se refiere la fracción IV del presente artículo. La Auditoría Superior del estado de Jalisco sancionará administrativamente la omisión e indebida ejecución en el cobro de los créditos fiscales, en los términos que establezca la ley.
+
+A la iniciativa de Presupuesto de Egresos del Estado de Jalisco se deberá adjuntar invariablemente, para su valoración por el Congreso del Estado, el proyecto de presupuesto de la Auditoría Superior del estado de Jalisco que elabore este organismo público, sin menoscabo de la facultad del Congreso del Estado de determinar los gastos del estado.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -1867,11 +1947,11 @@ III. Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 El patrimonio municipal se compondrá con los bienes de dominio público y los bienes de dominio privado, de conformidad con lo que establezca la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 2008)</small>
 
 ###### Art. 89.
 
-El Congreso del Estado aprobará las leyes de ingresos de los municipios y, a través de la Auditoría Superior del Estado de Jalisco fiscalizará y revisará las cuentas públicas municipales, pudiendo ejercitar las acciones que se establezcan en la ley reglamentaria respectiva. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y en las reglas establecidas en las leyes municipales respectivas.
+El Congreso del Estado aprobará las leyes de ingresos de los municipios y revisará y fiscalizará las cuentas públicas municipales, en los términos de lo dispuesto por esta Constitución y las leyes que de ella emanen. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y en las reglas establecidas en las leyes municipales respectivas.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -2744,3 +2824,17 @@ P.O. 1 DE MAYO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Notifíquese a los municipios del estado de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
+
+P.O. 3 DE JULIO DE 2008.
+
+Primero. Envíese a los ayuntamientos del estado la reforma a la Constitución Política del estado de Jalisco en sus artículos 15 fracción VI, 35 fracciones IV, XXIV, XXV y XXXV y 89 primer párrafo, y su adición de un artículo 35-Bis, y el Diario de los Debates, y de resultar que la mayoría de los ayuntamientos la aprueban, hágase la declaratoria de que la reforma propuesta forma parte de la Constitución Política del estado de Jalisco, en los términos del artículo 117 del ordenamiento antes indicado.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, previa declaratoria a la que se refiere el artículo 117 de la Constitución Política.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Cuarto. El actual Auditor Superior del Estado durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado, para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
+
+Quinto. En caso de no haber designación de Auditor Superior del Estado al día 1.° de agosto de 2008, el actual titular continuará en el cargo en tanto no sea electo uno nuevo o no sea aprobado el actual conforme a los procedimientos establecidos en la ley.
+
+Sexto. Una vez que el Congreso de la Unión expida las normas a que se refiere el artículo 73, fracción XXVIII de la Constitución Política de los Estados Unidos Mexicanos, cualquier disposición constitucional estatal o reglamentaria de la misma se entenderá derogada al momento de la entrada en vigor de la legislación federal.
