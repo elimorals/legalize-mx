@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-centro-de-estudios-superiores-del-estado-de-946
 country: "mx"
 rank: "ley"
 publication_date: "1983-10-03"
-last_updated: "1983-10-03"
+last_updated: "2008-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE CREA EL CENTRO DE ESTUDIOS SUPERIORES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL CENTRO DE ESTUDIOS SUPERIORES DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 3 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 1983.
 
@@ -390,3 +392,35 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 3 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que Crea el Centro de Estudios Superiores del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado el 3 de octubre de 1983, y se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo de sesenta días naturales, contados a partir de la entrada en vigor de la presente ley, deberá quedar constituido el Consejo Directivo del Centro.
+
+###### ARTÍCULO CUARTO.
+
+A efecto de dar continuidad al desarrollo de la vida académica y administrativa del Centro, el actual Director General ocupará el cargo de Rector en los términos de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+El primer proceso de selección a que se refiere el artículo 13 de la presente ley, se desarrollará al cuarto año de vigencia de la misma.
+
+###### ARTÍCULO SEXTO.
+
+Las Secretarías de Hacienda, de la Contraloría General y de Educación y Cultura harán las previsiones necesarias y realizarán lo conducente a efecto de cumplir a la brevedad con lo señalado en los presentes artículos transitorios.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los derechos de los trabajadores serán respetados conforme a las disposiciones de la Ley del Servicio Civil del Estado de Sonora.
