@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-de-planeacion-y-desarrollo-54709"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-09"
-last_updated: "2007-03-09"
+last_updated: "2008-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO DE PLANEACION Y DESARROLLO MUNICIPAL DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de marzo de 2007.
 
@@ -179,9 +179,11 @@ IV. Los Consejos Consultivos.
 
 El Consejo Directivo es el órgano superior del Instituto y ejercerá sus atribuciones y responsabilidades en forma colegiada.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 12.
 
-El Consejo Directivo podrá acordar la formación de comisiones permanentes o transitorias para la mejor distribución de sus trabajos y para el cumplimiento pleno de sus atribuciones y responsabilidades. Funcionarán al menos las comisiones permanentes de Seguimiento y Evaluación del Plan Rector del Instituto de Planeación.
+El Consejo Directivo nombrará comisiones permanentes y transitorias, para la mejor distribución de sus trabajos, en cumplimiento de sus atribuciones y responsabilidades. Funcionarán al menos la Comision Permanente y Evaluación del Plan Rector.
 
 ###### ARTÍCULO 13.
 
@@ -221,29 +223,37 @@ XV. Promover el mejoramiento técnico, administrativo y patrimonial del Institut
 
 El Consejo Directivo del Instituto se integrará de la siguiente manera:
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
 I. Un Presidente, que será el Director General del Instituto;
 
-II. Un Secretario Técnico, que será el Director General del Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-III. Cuatro Consejeros ciudadanos nombrados por el R. Ayuntamiento a propuesta de la Comisión de Planeación y Desarrollo Municipal, que serán distinguidos ciudadanos, integrantes de organismos públicos, de cámaras, Organizaciones civiles, etc.
+II. Un Secretario Técnico que será un funcionario o empleado del Instituto, designado por el Director General;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+III. Siete consejeros ciudadanos nombrados por el R. Ayuntamiento a propuesta de la Comisión de Planeación y Desarrollo Municipal, que serán distinguidos ciudadanos, integrantes de organismos públicos, de cámaras, Organizaciones civiles, etc.
 
 Los Consejeros Ciudadanos durarán en su cargo un período de tres años, el cual deberá coincidir con el de ejercicio del Ayuntamiento, pudiendo ser ratificados; en los casos que el nombramiento de Consejero Ciudadano recaiga en integrantes de organismos públicos, si duraren en su cargo por un tiempo menor a los tres años en la función que desempeñen en los organismos públicos correspondientes, deberán ser sustituidos mediante nuevo nombramiento.
 
 Los Consejeros Ciudadanos permanecerán en su cargo hasta que el Ayuntamiento realice nuevo nombramiento.
 
-IV.- Siete Vocales, que serán los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2008)</small>
+
+IV.- Cuatro vocales, que serán los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal:
 
 a) La Presidencia de la Comisión de Planeación y Desarrollo Municipal del R. Ayuntamiento;
 
 b) La Secretaría de Desarrollo Humano;
 
-c) La Secretaría de Seguridad;
+c) (DEROGADO, P.O. 4 DE JULIO DE 2008)
 
 d) La Secretaría de Obras Públicas e Ingeniería Vial;
 
-e) La Secretaría de Desarrollo Urbano y Medio Ambiente;
+e) (DEROGADO, P.O. 4 DE JULIO DE 2008)
 
-f) La Secretaría del Ayuntamiento;
+f) (DEROGADO, P.O. 4 DE JULIO DE 2008)
 
 g) La secretaría de Servicios Públicos.
 
@@ -253,15 +263,35 @@ Las y/o los Vocales durarán en funciones por el período del desempeño de su c
 
 El funcionamiento del Consejo Directivo se sujetará a lo siguiente:
 
-I. Todos los miembros del Consejo directivo, tendrán derecho a voz y voto en las sesiones del mismo, con la excepción del Secretario Técnico, el cual tendrá sólo derecho a voz.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-II. Sesionarán en forma ordinaria cada tres meses cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año. Pudiendo además celebrar las reuniones extraordinarias que se requieran, previa convocatoria expresa del Secretario Técnico del Consejo Directivo, del Presidente Municipal, o de la mayoría de los integrantes del propio Consejo.
+I. El Presidente del Consejo dirigirá las sesiones del mismo y tendrá voto de calidad en caso de empate en la votación de acuerdos o resoluciones.
 
-III. Las sesiones se celebrarán con la asistencia de la mayoría de sus integrantes en primera convocatoria, o con la asistencia de los presentes en segunda convocatoria. Sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo el Presidente del Consejo Directivo el voto de calidad en caso de empate.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+II. Sesionarán en forma ordinaria cada tres meses cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año. Pudiendo además celebrar las reuniones extraordinarias que se requieran, previa convocatoria expresa del Secretario Técnico del Consejo Directivo, del Presidente del Consejo, o de la mayoría de los integrantes del mismo.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+III. Las sesiones se celebrarán con la asistencia de la mayoría de sus integrantes en primera convocatoria, o con la asistencia de los presentes en segunda convocatoria. Sus resoluciones se tomarán por mayoría de votos de los presentes.
 
 IV. De cada sesión se formulará un acta que contenga los pormenores de los acuerdos tomados y que deberá ser firmada por los asistentes, o al menos por quien la haya presidido y por el Secretario Técnico del Consejo Directivo quién será responsable de la formulación y custodia de las actas.
 
-V. En ausencia del Presidente Municipal presidirá las sesiones del Consejo Directivo el Presidente de la Comisión de Planeación y Desarrollo del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+V. En ausencia del Presidente del Consejo presidirá las sesiones el Secretario Técnico.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VI. En ausencia del Secretario Técnico, auxiliará al Presidente del Consejo, el Vocal Presidente de la Comisión de Planeación y Desarrollo Municipal del R. Ayuntamiento, o en su defecto, cualquier otro vocal que así lo designe el Presidente del Consejo.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VII. El Secretario Técnico tendrá derecho a voz, más no a voto, y auxiliará al Presidente del Consejo en la conducción de las sesiones. Tomará nota de los acuerdos del Consejo y elaborará el acta respectiva.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VIII. Los consejeros y los vocales, tendrán derecho a voz y voto en las sesiones del mismo.
 
 ###### ARTÍCULO 16.
 
@@ -325,7 +355,9 @@ El Director General, en el ámbito administrativo, acordará directamente con el
 
 La Dirección General tendrá las siguientes atribuciones y responsabilidades:
 
-I. Ejecutar los acuerdos del Consejo Directivo y fungir como Secretario Técnico de dicho órgano.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+I. Ejecutar los acuerdos del Consejo Directivo y fungir como Presidente de dicho órgano.
 
 II. Proponer al Consejo Directivo; programas y acciones que deba desarrollar el Instituto, así como ejecutarlos.
 
@@ -417,43 +449,89 @@ VII. Conclusiones.
 
 Las facultades del Comisario se disponen sin perjuicio de las facultades de la Secretaría de la Función Pública de ejercer sus atribuciones establecidas en el Reglamento Orgánico del Gobierno Municipal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2008)</small>
+
 ### CAPÍTULO OCTAVO. DEL LOS CONSEJOS CONSULTIVOS
+
+DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 31.
 
 El Instituto contará con la asesoría y colaboración de los Consejos Consultivo en diferentes áreas de acción del Gobierno Municipal, para un mejor funcionamiento, proyección y elaboración de propuestas.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 32.
 
-Los Consejo Consultivos son órganos de consulta y opinión para el análisis y diagnostico, aportación de estrategias, evaluación de propuestas, instrumentos y acciones de planeación así como de difusión de programas y serán cargos honoríficos sin remuneración alguna por parte del municipio o del Instituto.
+Los Consejo Consultivos son órganos de consulta y opinión, cuyo objetivo consiste en analizar y crear estrategias, evaluar propuestas, instrumentos y acciones de planeación.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 33.
 
-Los consejeros de los Consejos Consultivos serán ciudadanos nombrados por el Ayuntamiento a propuesta del Presidente Municipal, quien la formulara previa consulta con los organismos intermedios, colegios de profesionistas, universidades, cámaras de la industria, sindicatos, organismos empresariales, centros de cultura, organismos no gubernamentales, asociaciones civiles y organismos públicos descentralizados y dependencias municipales.
+Los consejeros serán ciudadanos designados por el Consejo Directivo del Instituto, previa consulta de la opinión de organismos intermedios, colegios de profesionistas, universidades, cámaras de la industria, sindicatos, organismos empresariales, centros de cultura, organismos no gubernamentales, asociaciones civiles, organismos públicos descentralizados y dependencias federales, estatales y municipales.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 34.
 
-Cada Consejo Consultivo se integrará con un mínimo de diez y un máximo de veinticinco miembros. Los Consejeros ciudadanos durarán en su cargo tres años y podrán ser nombrados por el Ayuntamiento para otro periodo igual, manteniendo en todo caso cuando menos el cincuenta por ciento de los consejeros.
+Cada Consejo Consultivo se integrará con un mínimo de diez y un máximo de veinticinco miembros. Los Consejeros durarán en su cargo dieciocho meses y podrán ser ratificados por el Consejo Directivo para el periódo inmediato siguiente, manteniendo en todo caso por lo menos el cincuenta por ciento de los consejeros. Sin perjuicio de lo anterior, los consejeros seguirán en su cargo, hasta en tanto inicien funciones los consejeros entrantes. Asimismo podrán ser removidos antes del término del período, por el propio consejo, mediante votación.
 
-Para el caso de renuncia o falta absoluta de algún consejero, el Ayuntamiento en los términos del artículo que antecede, nombrará a su sustituto quien durará en funciones el complemento del periodo.
+Tratándose del Presidente del Consejo, en caso de que éste no sea ratificado en su cargo, corresponde al Vicepresidente entrar en su lugar, previa aprobación del consejo respectivo.
+
+En el caso de renuncia o falta absoluta de algún consejero, el Consejo Directivo en términos del artículo anterior, nombrará a su sustituto quien permanecerá en funciones el resto del período.
 
 ###### ARTÍCULO 35.
 
 Los Consejos Consultivo se integrarán de la siguiente manera:
 
-I. Un Presidente que será elegido de los miembros ciudadanos del propio Consejo Consultivo mediante votación;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-II. Un Secretario Técnico, cargo que recaerá en el Director o Secretario del área encargada del Gobierno Municipal;
+I. Un Presidente que será elegido de entre los consejeros, mediante votación;
 
-III. Los vocales serán:
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-A) Personal del Gobierno Municipal y/o del Instituto de Planeación y Desarrollo Municipal,
+II. Un Vicepresidente que será elegido de entre los consejeros, mediante votación;
 
-B) Los ciudadanos nombrados por el Ayuntamiento.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+III. Un Secretario Técnico, que será el Director General del Instituto o el Director del Área encargada del Instituto, en su caso;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+IV. Los vocales serán:
+
+a) Un representante del INPLADEM;
+
+b) Un representante de cada uno de los organismos a que se refiere el artículo 33 del presente Reglamento;
+
+c) Los ciudadanos propuestos por el Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2008)</small>
+
+ARTÍCULO 35 BIS.- Para ser consejero se requiere:
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos:
+
+II.- Ser mayor de 21 años de edad; al día de la toma de protesta del mismo;
+
+III.- Ser: residente nicolaíta preferentemente, o poseer conocimientos técnicos especializados necesarios· para el desarrollo y consecución de los objetivos del consejo consultivo de que se trate;
+
+IV.- No desempeñar ni haber desempeñado cargo de elección popular, ni haber sido registrado como candidato para alguno de ellos, en los tres años anteriores a la fecha de su elección;
+
+V.- No desempeñar ni haber desempeñado cargo de presidente de comité ejecutivo nacional, estatal o municipal, o su equivalente de algún partido político;
+
+VI.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal municipal, o su equivalente de algún partido político, en los tres años anteriores a la fecha de su elección;
+
+VII.- No haber sido condenado por delito intencional;
+
+VIlI.- En el caso de Consejeros representantes de algunos organismos intermedios, cámaras de la industria, sindicatos, organismos empresariales, organismos no gubernamentales, asociaciones civiles y organismos públicos descentralizados, solo contarán con un Consejero por Organismo o Institución;
+
+IX.- En el caso de Consejeros representantes de algunos colegios de profesionistas, universidades, centros de cultura, podrán tener más de un consejero por Organismo o Institución, según su área o especialidad.
 
 ###### ARTÍCULO 36.
 
-El Presidente de los diferentes Consejos Consultivos durarán en su cargo tres años, pudiendo ser ratificado por un período más, o bien pudiendo ser removidos por el propio consejo bajo votación.
+(DEROGADO, P.O. 4 DE JULIO DE 2008)
 
 ###### ARTÍCULO 37.
 
@@ -467,21 +545,25 @@ Los cargos de Presidente e integrantes de los diferentes Consejos, serán honor�
 
 Los Consejos Consultivos deberán reunirse al menos una vez al mes, para tratar asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 40.
 
-Compete al los Consejo Consultivo:
+Es de la competencia de los consejos consultivos, lo siguiente:
 
-I. Analizar y revisar las líneas de planeación para el desarrollo del Municipio y evaluar la propuesta técnica para su instrumentación;
+I.- Analizar los lineamientos de los Planes de Acción para el desarrollo del Municipio, así como evaluar la propuesta técnica para su instrumentación;
 
-II. Emitir opinión sobre planes y programas del Municipio;
+II.- Emitir opinión sobre planes y programas municipales;
 
-III. Participar o conformar comisiones técnicas para el diseño de instrumentos del Plan Municipal de Desarrollo, y
+III.- Participar en la conformación de comisiones técnicas para el desarrollo y operación de los propios consejos consultivos;
 
-IV. Las demás que el Ayuntamiento, el Consejo Directivo del Instituto y el presente reglamento le confieran.
+IV.- Las demás que el R. Ayuntamiento, el Consejo Directivo y el presente Reglamento, le confieran.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 41.
 
-Las determinaciones de los Consejos Consultivos, se tomarán cuando así se requiera, por mayoría de votos, teniendo el Presidente del mismo voto de calidad para el caso de empate.
+Los acuerdos de los consejos consultivos, se tomarán por mayoría de votos. El presidente del consejo respectivo, tendrá voto de calidad, en caso de empate.
 
 La votación será abierta, salvo los casos en que los integrantes de los Consejos Consultivos determinen que mediante cédula impersonal.
 
@@ -493,37 +575,77 @@ I. Convocar a los integrantes al menos con cinco días hábiles de anticipación
 
 II. Elaborar el orden del día que se proporcionará a los asistentes al iniciar la reunión;
 
-III. Vigilar que la reunión cuente con el quórum requerido, se entenderá por este, la asistencia de la mitad más uno de los integrantes del Consejo Consultivo; y,
+III. Vigilar que la reunión cuente con el quórum requerido, se entenderá por este, la asistencia de la mitad más uno de los integrantes del Consejo Consultivo; y, (sic)
 
-IV. Levantar el acta respectiva de los acuerdos tomados, misma que firmaran los participantes en la reunión.
+IV. Levantar el acta respectiva de los acuerdos tomados, misma que firmaran los participantes en la reunión;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+V. Recabar los informes y acuerdos del Consejo;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VI. Resguardar el archivo del Consejo;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VII. Dar cuenta de la correspondencia recibida y despachada, de los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VIII. Convocar a elección de Presidente del Consejo, en caso de renuncia o ausencia de éste por más de tres meses consecutivos al Consejo;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+IX. Servir de enlace entre el Consejo Directivo y las dependencias municipales;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+X. Las demás que le confieran el presente Reglamento y demás disposiciones aplicables
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 43.
 
-Si después de transcurridos treinta minutos de la hora señalada para la reunión no se satisface el requisito mencionado en la fracción III del Artículo anterior, el Secretario Técnico convocará nuevamente, para que la sesión se celebre dentro de los siguientes quince días, contados a partir de la fecha en que la reunión no se pudo llevar a cabo. En esta segunda citación, la reunión será válida con los participantes que asistan.
+Si transcurridos quince minutos después de la hora señalada para celebrar la sesión que fuera debidamente convocada, no se reúne el quórum requerido, el Secretario Técnico convocará nuevamente para la celebración de la sesión, dentro de los siguientes quince días naturales, misma que se llevará a cabo y será válida, con los miembros que se encuentren presentes.
 
 ###### ARTÍCULO 44.
 
 Los miembros de los Consejos Consultivos deberán:
 
-I. Guardar y respetar los acuerdos tomados en los Consejos Consultivos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-II. Manejar con discreción la información que obtengan dentro de las reuniones de Consejo;
+I.- Cumplir con los acuerdos emitidos por los consejos de que se trate;
 
-III. Conducirse con verdad en las participaciones, exposiciones, comentarios, y demás información, que viertan al los Consejos Consultivos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-IV. Actuar dentro de los Consejos Consultivos y fuera de los mismos en asuntos relacionados con éstos, con probidad, esmero y honradez; y,
+II.- Manejar con discreción la información a su alcance, respecto de los asuntos tratados en las reuniones del Consejo;
 
-V. Procurar que no se comprometa la autonomía y postura de los Consejo Consultivos del Instituto, por actuar con imprudencia o descuido inexcusable.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-El incumplimiento de estas obligaciones, será evaluado por el propio Consejo a efecto de determinar las medidas a seguir, las cuales podrán ser desde una llamada de atención hasta la solicitud al Ayuntamiento para la remoción del cargo.
+III.- Conducirse con verdad en cada una de sus intervenciones e información rendida al Consejo;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+IV.- Actuar con probidad, esmero y honradez, dentro de los Consejos Consultivos;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+V.- No comprometer la autonomía y postura de los Consejos Consultivos del Instituto, por actuar con imprudencia o descuido inexcusable;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+
+El incumplimiento a las obligaciones anteriores, será evaluado por el propio Consejo, a efecto de determinar las medidas a seguir, mismas que serán desde un apercibimiento hasta la solicitud al Consejo Directivo, para la remoción del cargo.
 
 ###### ARTÍCULO 45.
 
 Los miembros de los Consejos forman parte del mismo por su perfil profesional y personal y por lo tanto, dentro del mismo no representan a organismos, colegios, sindicatos, asociaciones o a las organizaciones que los propusieron.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 46.
 
-Las asesorías, dictámenes o cualquier otra aportación por parte de los Consejos Consultivos serán remitidos al Consejo Directivo del Instituto de Planeación y Desarrollo Municipal para su estudio y análisis.
+Las asesorías, dictámenes o cualquier otra aportación por parte de los consejos consultivos, serán remitidos al Consejo Directivo del Instituto, para su conocimiento, a través del Presidente o del Secretario Técnico del consejo consultivo respectivo.
 
 ### CAPÍTULO NOVENO. DEL PATRIMONIO Y DEL PRESUPUESTO DEL INSTITUTO
 
@@ -617,6 +739,10 @@ El Presidente Municipal, el Secretario del Ayuntamiento, los Regidores y Síndic
 
 El Consejo Directivo del Instituto podrá sugerir modificaciones a este ordenamiento a través de propuesta por escrito que, por medio del Presidente Municipal, remitierá al R. Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2008)</small>
+
+ARTÍCULO 70 (SIC).- La Secretaría de Finanzas y Tesorería Municipal realizará las ministraciones iguales mensualmente a la cuenta del Instituto, dentro de los primeros diez días de cada mes.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
@@ -642,3 +768,11 @@ LIC. CAMILO RAMÍREZ PUENTE
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León a los 8-ocho días del mes de Marzo del 2007-dos mil siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
