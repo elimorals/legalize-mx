@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-transparencia-y-acceso-a-la-informacion-32479"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-06"
-last_updated: "2003-06-06"
+last_updated: "2008-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,1586 +23,672 @@ state: "COA"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE TORREON, COAHUILA
 
-LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE TORREON, COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ENERO DE 2020.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL BUEN GOBIERNO DEL MUNICIPIO DE TORREON, COAHUILA, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de diciembre de 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
-DECRETO por el que se expide la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y se adiciona el Código Federal de Procedimientos Penales.
+Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 6 de junio de 2003.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+El Presidente Municipal con fundamento en lo dispuesto por los artículos 155 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 104 fracción III, del Código Municipal para el Estado de Coahuila de Zaragoza, 130 y 131 fracción I del Reglamento Interior para el Republicano Ayuntamiento de Torreón, Coahuila, me permito someter a la consideración del Cabildo, la presente iniciativa:
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Reglamento de Transparencia y Acceso a la información Pública del Municipio de Torreón Coahuila.
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+INDICE
 
-DECRETO
+### Capítulo Primero. Disposiciones Preliminares.............................................2
 
-"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+### Capítulo Segundo. Obligaciones de Transparencia....................................... 5
 
-SE EXPIDE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO Y SE ADICIONA EL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
+### Capítulo Tercero. De la Información Pública Reservada y Confidencial.... 7
 
-###### ARTÍCULO PRIMERO.
+### Capítulo Cuarto. Protección de Datos Personales......................................11
 
-Se expide la siguiente:
+### Capítulo Quinto. Ventanilla Universal e Instituto de Transparencia Municipal..14
 
-"LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
+## Título I. Ventanilla Universal............................................................14
 
-### CAPÍTULO I. Generalidades
+## Título II. Instituto de Transparencia.................................................15
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+### Capítulo Sexto. Procedimiento de Acceso a la Información.....................18
 
-### CAPÍTULO II. De la Asignación y Donación
+### Capítulo Séptimo. Responsabilidades y Sanciones.......................................25
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Transitorios...........................................................................27
 
-### CAPÍTULO III. De la Venta
+### Capítulo Primero. Disposiciones Preliminares
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+###### Artículo 1.
 
-## TÍTULO PRIMERO. Disposiciones Generales
+El presente Reglamento es de interés público y tiene por objeto regular y garantizar la transparencia y el acceso a la información en posesión del Municipio de Torreón, Coahuila, es decir, de las dependencias, unidades administrativas y de los organismos descentralizados municipales, y cualquier otra entidad municipal. El Reglamento se aplicará también a cualquier persona que perciba recursos públicos municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-###### Artículo 1o.
-
-La presente Ley es de orden e interés público, de observancia general en toda la República y tiene por objeto regular la administración y destino, por parte del Instituto para Devolver al Pueblo lo Robado, de los Bienes, activos y empresas siguientes:
-
-I.- Los asegurados y decomisados en los procedimientos penales federales;
-
-II.- Los recibidos en dación en pago para cubrir toda clase de créditos a favor del Gobierno Federal, de sus entidades o dependencias, incluyendo los puestos a disposición de la Tesorería de la Federación o de sus auxiliares legalmente facultados para ello;
-
-III.- Los que habiendo sido embargados por autoridades federales, hayan sido adjudicados a las entidades transferentes conforme a las leyes aplicables;
-
-IV.- Los que sean abandonados a favor del Gobierno Federal;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-V.- Los que estando sujetos a uno de los procedimientos establecidos en la legislación aduanera, en la legislación fiscal federal o en otros ordenamientos jurídicos aplicables a las Entidades Transferentes, deban ser vendidos, destruidos, donados o asignados, en virtud de ser inflamables, fungibles, perecederos, de fácil descomposición o deterioro, de mantenimiento o conservación de alta especialización, se trate de animales vivos y vehículos, o bien, cuya administración resulte incosteable para la Federación. En estos casos, se estará a la disponibilidad de recursos para su administración;
-
-VI.- Los que pasen a ser propiedad del Fisco Federal;
-
-VII.- Los títulos, valores, activos y demás derechos que sean susceptibles de enajenación, cuando así se disponga por las autoridades competentes;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VIII.- Los Bienes desincorporados del régimen de dominio público de la Federación y los que constituyan el patrimonio de las entidades paraestatales;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IX.- Cualquier bien que, sin ser propiedad de la Federación, en términos de la legislación aplicable, el Gobierno Federal, sus entidades o dependencias puedan disponer de él;
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-X.- Los Bienes, activos o empresas sobre los cuales se haya declarado la extinción de dominio, mediante sentencia firme, o bien, sobre los cuales se hayan decretado medidas cautelares;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2020)</small>
-
-XI.- Las empresas que hayan sido transferidas al Instituto para Devolver al Pueblo lo Robado, y éste haya aceptado el cargo de liquidador o responsable del proceso de desincorporación, liquidación o extinción y reciba recursos para la consecución de su encargo;
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XII.- Cualquier bien que reciban las personas servidoras públicas de manera gratuita, de un particular, con motivo del ejercicio de sus funciones, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XIII.- Los demás que determinen la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública dentro del ámbito de sus atribuciones y conforme a las disposiciones legales aplicables; así como aquellos que reciba en encargo por parte de la Federación, estados y municipios.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-Los Bienes, activos o empresas a que se refiere este artículo, deberán ser transferidos al Instituto para Devolver al Pueblo lo Robado, cuando así lo determinen las leyes o cuando así lo ordenen las autoridades judiciales. En los demás casos, las Entidades Transferentes determinarán, de conformidad con las disposiciones aplicables para tal efecto, la conveniencia de transferir los Bienes al Instituto para Devolver al Pueblo lo Robado, o bien, de llevar a cabo por sí mismas la administración, destrucción o enajenación correspondientes, en cuyo caso aplicarán la normativa que corresponda de acuerdo a los Bienes de que se trate.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-El Instituto para Devolver al Pueblo lo Robado, podrá administrar, enajenar, usar, usufructuar, monetizar, dar destino o destruir directamente los Bienes, activos o empresas que le sean transferidos o nombrar depositarios, liquidadores, interventores o administradores de los mismos, así como encomendar a terceros la enajenación y destrucción de éstos.
-
-Los depositarios, liquidadores, interventores o administradores, así como los terceros a que hace referencia el párrafo anterior, serán preferentemente las dependencias o entidades de la Administración Pública Federal, o las autoridades estatales y municipales, previa solicitud o acuerdo correspondiente, sin perjuicio de que puedan ser designadas otras personas profesionalmente idóneas.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-Hasta que se realice la Transferencia de los Bienes al Instituto para Devolver al Pueblo lo Robado, éstos se regirán por las disposiciones aplicables de acuerdo a su naturaleza.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-Los Bienes provenientes de las entidades en desincorporación, liquidación o extinción a cargo del Instituto para Devolver al Pueblo lo Robado, se entenderán transferidos a partir de la designación del cargo correspondiente.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-La presente Ley será aplicable a los Bienes, activos o empresas desde que éstos sean formal y materialmente transferidos al Instituto para Devolver al Pueblo lo Robado y hasta que éste determine su destino, realice la destrucción, enajenación, Monetización o termine su administración, inclusive tratándose de Bienes de Entidades Transferentes cuyo marco legal aplicable establezca requisitos o procedimientos de administración, enajenación y control especiales o particulares, en las materias que regula esta Ley. Habiéndose presentado cualquiera de estos supuestos, se estará a las disposiciones aplicables para el entero, destino y determinación de la naturaleza de los ingresos correspondientes.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-Los bienes inmuebles del Gobierno Federal que se transfieran al Instituto para Devolver al Pueblo lo Robado, continuarán sujetos al régimen jurídico que establece la Ley General de Bienes Nacionales; con excepción de los que correspondan a empresas en proceso de desincorporación, los cuales se entenderán desincorporados desde el momento en que se publique el acuerdo por el que se autorice la desincorporación del ente correspondiente, los que se regirán por lo dispuesto en el propio acuerdo, las disposiciones de esta Ley y demás normativa aplicable.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-La interpretación de los preceptos de esta Ley, para efectos administrativos, corresponderá a la Secretaría de Hacienda y Crédito Público y a la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias.
-
-## TÍTULO SEGUNDO. De la Administración de Bienes
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El presente Reglamento es de observancia obligatoria para los servidores públicos municipales.
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entiende por:
+Salvo las excepciones previstas en este Reglamento, toda la información gubernamental competencia del Municipio, es pública, y los particulares tendrán acceso a la misma en los términos que éste señala.
 
-I.- Autoridades Aduaneras: Las que de acuerdo con el Reglamento Interior de la Secretaría, el Reglamento Interior del Servicio de Administración Tributaria y demás disposiciones aplicables tienen competencia para ejercer las facultades que la Ley Aduanera establece;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Bienes: Todas las cosas materiales que no estén excluidas del comercio, ya sean muebles o inmuebles y todo aquel derecho real o personal, sus objetos, productos, rendimientos y frutos, susceptibles de apropiación; de manera enunciativa a los señalados en el artículo 1o. de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- Bienes incosteables: Aquellos cuyo valor sea menor al equivalente a seis meses de Unidades de Medida y Actualización, así como aquellos que, de conformidad con lo que al respecto disponga el Reglamento, tengan un valor comercial inferior a sus costos de administración;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IV.- Empresa: A las entidades paraestatales, las sociedades mercantiles, sociedades o asociaciones civiles, fideicomisos públicos y aquellos fideicomisos públicos que sean análogos a entidad paraestatal, fideicomisos privados que cuenten con estructura propia en proceso de desincorporación, liquidación o extinción, según sea el caso, que hayan sido transferidos al Instituto, salvo aquellas sujetas a un procedimiento penal federal;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE ENERO DE 2020)</small>
-
-V.- Entidades Transferentes: Las Autoridades Aduaneras; la Tesorería de la Federación; la Fiscalía General de la República, o bien las fiscalías generales de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, del Gobierno de la Ciudad de México, Estatales y Municipales; las unidades administrativas de la Presidencia de la República; los órganos reguladores coordinados en materia energética; las empresas productivas del Estado y sus empresas productivas subsidiarias y empresas filiales; la Cámara de Diputados y la Cámara de Senadores del Poder Legislativo; los órganos del Poder Judicial de la Federación, de la Ciudad de México y de los Estados; las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de los Estados; los fideicomisos en los que alguna de las anteriores instituciones sea fideicomitente o fideicomisaria; y cualquier otra institución que llegase a tener el carácter de pública en términos de disposición constitucional o legal; que en términos de las disposiciones aplicables transfieran para su administración, enajenación o destrucción los Bienes a que se refiere el artículo 1o. de esta Ley al Instituto para Devolver al Pueblo lo Robado.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Tratándose de inmuebles cuya administración competa a la Secretaría de la Función Pública, se entenderá como Entidad Transferente, exclusivamente a esa dependencia;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2020)</small>
-
-VI.- Instituto: Al organismo descentralizado de la Administración Pública Federal, denominado Instituto para Devolver al Pueblo lo Robado, previsto en el Título Sexto de la presente Ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VII.- Interesado: La persona que acredite ser titular de un derecho subjetivo o de un interés legítimo sobre los Bienes, activos o empresas a que se refiere el artículo 1o. de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2020)</small>
-
-VIII.- Junta de Gobierno: La Junta de Gobierno del Instituto para Devolver al Pueblo lo Robado;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IX.- Ministerio Público: El Ministerio Público de la Federación o de la entidad federativa de que se trate, conforme a su competencia y que comprende a los órganos que ejercen la función fiscal;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-X.- Monetización: El producto de la conversión de un bien o activo, en su valor en dinero;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XI.- Reglamento: El Reglamento de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-XII.- Secretaría: La Secretaría de Hacienda y Crédito Público, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XIII.- Transferencia: El procedimiento por el cual una Entidad Transferente entrega uno o más Bienes, activos o empresas al Instituto, para su administración, enajenación, destino o destrucción, sin que dicha entrega implique transmisión de propiedad alguna ni genere el pago de impuestos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Para efectos de interpretación del presente Reglamento se deberá favorecer el principio de publicidad de la información en posesión de los sujetos obligados.
 
 ###### Artículo 3.
 
-Para la Transferencia de los Bienes, activos o empresas al Instituto, las Entidades Transferentes deberán:
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-I.- Entregar acta que incluya inventario con la descripción y el estado en que se encuentren los Bienes, activos o empresas, señalando si se trata de Bienes propiedad o al cuidado de la Entidad Transferente, agregando original o copia certificada del documento en el que conste el título de propiedad o del que acredite la legítima posesión y la posibilidad de disponer de los Bienes. La Junta de Gobierno determinará los documentos adicionales que permitan realizar una Transferencia ordenada y transparente de los Bienes;
-
-II.- Identificar los bienes con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- Señalar si los Bienes, activos o empresas se entregan para su administración, venta, donación y/o destrucción, solicitando, en su caso, al Instituto, que ordene la práctica del avalúo correspondiente, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IV.- Poner los Bienes, activos y empresas a disposición del Instituto, en la fecha y lugares que previamente se acuerden con éste.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+La vigilancia e interpretación del presente Reglamento compete al Instituto de Transparencia Municipal, así como a las entidades obligadas a proporcionar información.
 
 ###### Artículo 4.
 
-El Instituto, diseñará e implementará los sistemas de información que le permitan gestionar estratégicamente los Bienes, activos y empresas, los cuales podrán ser consultados por la autoridad judicial federal, la Fiscalía General de la República, las dependencias y entidades de la Administración Pública Federal, las autoridades del fuero común encargadas de la procuración e impartición de justicia y las personas que acrediten un interés legítimo para ello.
+Toda la información gubernamental municipal a que se refiere este Reglamento es pública, con las excepciones que contempla el presente ordenamiento, los particulares tendrán acceso a la misma en los términos que éste señala.
 
-El diseño considerará la infraestructura de información que le permita rendir cuentas del cumplimiento de sus objetivos y de los resultados obtenidos.
+Sólo podrá negarse la información que conforme a este Reglamento tenga el carácter de reservada o confidencial de conformidad con este Reglamento o a criterio del Instituto de Transparencia Municipal.
 
-Toda la información que se genere, administre u obtenga con motivo de la observancia y cumplimiento del presente ordenamiento, se regirá en términos de las leyes generales y federales aplicables en materia de transparencia y acceso a la información pública, y de protección de datos personales.
+La información pública que tenga el carácter de reservada o confidencial no podrá divulgarse cuando lo disponga este Reglamento u otras leyes o en los casos que sean datos personales por referirse a los domicilios y números telefónicos particulares, así como aquellos otros datos que no se encuentren relacionados con el ejercicio del cargo desempeñado por cualquier servidor o empleado municipal.
 
 ###### Artículo 5.
 
-El Instituto, administrará los Bienes, activos y empresas que para tales efectos le entreguen las Entidades Transferentes, y que tengan un valor mayor al equivalente a seis meses de Unidades de Medida y Actualización.
+Para los efectos de este Reglamento se entenderá por:
 
-En tanto no exista resolución definitiva emitida por autoridad administrativa o judicial competente que determine el destino de los Bienes, activos y empresas asegurados, la administración a cargo del Instituto, se realizará conforme a las disposiciones aplicables de la presente Ley, salvo que se trate de los señalados en la fracción V, del artículo 1o.
+I. Datos personales: La información concerniente a una persona física, identificada o identificable, entre otra, la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales, u otras análogas que afecten su intimidad, lesionen la moral o contravengan disposiciones de orden público;
 
-Se encuentran exceptuados de la administración a que se refiere el párrafo anterior, los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos, y los Bienes con valor artístico o histórico, los cuales serán administrados conforme a las disposiciones aplicables por la entidad que corresponda, según el caso, salvo que la autoridad competente determine lo contrario, según la naturaleza del bien.
+II. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
-Respecto de los Bienes que no son susceptibles de administración en los términos de este artículo, las Entidades Transferentes, de conformidad con las disposiciones aplicables, procederán a ordenar su asignación, destrucción, enajenación, de conformidad con los ordenamientos aplicables para cada tipo de bien, o donación a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto Sobre la Renta, que lo requieran para el desarrollo de sus actividades; o bien a determinar un fin específico que ofrezca la mayor utilidad para el Gobierno Federal.
+III. Dependencias, Entidades, Unidades Administrativas: Las señaladas en el Reglamento Interior para el Republicano Ayuntamiento de Torreón, Coahuila vigente, incluyendo los organismos descentralizados o desconcentrados de la Administración Pública Municipal;
 
-Los bienes muebles e inmuebles que se encuentren al servicio de las Entidades Transferentes, no podrán ser transferidos para su administración al Instituto, en los términos del presente Título, hasta en tanto se emita el acuerdo de desincorporación correspondiente.
+IV. Información: La contenida en los documentos que los sujetos obligados generen, obtengan, adquieran, transformen o conserven por cualquier título;
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+V. Información reservada: Aquella información que se encuentra temporalmente sujeta a alguna de las excepciones previstas en el temporalmente sujeta a alguna de las excepciones previstas en el Artículo 10 de esta (sic) Reglamento o por disposición expresa de cualquier otra ley o por facultad discrecional del Instituto de Transparencia Municipal;
+
+VI. Instituto: El Instituto de Transparencia Municipal establecido en el Artículo 25 de este Reglamento;
+
+VII. Reglamento: El Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Torreón, Coahuila;
+
+VIII. Servidores públicos: Los mencionados en el párrafo primero del Artículo 159 de la Constitución Política del Estado de Coahuila de Zaragoza y todas aquellas personas que manejen o apliquen recursos públicos municipales, en términos del Artículo 2 de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+
+X. (SIC) Sistema de datos personales: El conjunto ordenado de datos personales que estén en posesión de un sujeto obligado;
+
+XI. Sujetos obligados:
+
+a) La Administración Pública Municipal;
+
+b) Los Tribunales de Justicia Municipal;
+
+c) Los órganos autónomos, desconcentrados y descentralizados municipales;
+
+d) Los regidores y síndicos del Municipio, y sus Comisiones;
+
+e) Cualquier otro órgano del gobierno municipal.
+
+XII. Ventanilla Universal: La Unidad responsable que entre otras funciones deberá dar trámite a las solicitudes de acceso a la Información que presenten los particulares.
 
 ###### Artículo 6.
 
-Todos los Bienes, activos y empresas asegurados, incluyendo los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos y los Bienes con valor artístico o histórico, serán administrados por el Instituto.
+El acceso a la información pública sólo tendrá un costo de recuperación por la reproducción, el cual quedará establecido en la Ley de Ingresos del Municipio.
 
-La autoridad competente depositará el numerario asegurado, decomisado, abandonado y el que esté sujeto al procedimiento de extinción de dominio en las cuentas que para tal efecto el Instituto determine.
+Sólo se entregará la información pública una vez cubierto el derecho correspondiente.
 
-El Instituto podrá enajenar, convertir en numerario o liquidar los Bienes a que se refiere el primer párrafo, a fin de que, una vez que se levante el aseguramiento, se decrete su abandono o el decomiso, disponga del numerario conforme corresponda, sin perjuicio de que, en tanto ello sucede, administre y disponga de los recursos en los términos de esta Ley. Lo anterior, salvo cuando se trate de Bienes respecto de los cuales exista resolución de autoridad competente o disposición legal que ordene su conservación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Artículo 6 bis.- Todos los Bienes provenientes de comercio exterior, incluidos los sujetos a un procedimiento establecido en la legislación aduanera, los recibidos por cualquier título por la Tesorería de la Federación, incluidas las daciones en pago y los sujetos a un procedimiento establecido en la legislación fiscal federal, los abandonados a favor del Gobierno Federal, excepto los previstos en el tercer párrafo del artículo 5o. de esta Ley, así como los Bienes que estén sujetos a un proceso de extinción de dominio o respecto de los cuales se haya declarado la extinción de dominio, deberán ser transferidos al Instituto para su administración y destino en términos de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Quedan exceptuados de lo previsto en el párrafo anterior, los bienes perecederos provenientes de comercio exterior, que vayan a ser donados o destruidos directamente por la autoridad aduanera competente.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Artículo 6 ter.- Las Entidades Transferentes contarán con un plazo de 30 días naturales, contados a partir de la fecha de adjudicación o de que legalmente puedan disponer de los Bienes a que se refiere el artículo anterior, para llevar a cabo la Transferencia de los mismos al Instituto.
-
-Una vez concluido el plazo a que se refiere al párrafo anterior, el Instituto, contará con un plazo de 540 días naturales, contados a partir de la primera publicación del evento comercial, para enajenar los Bienes o los derechos litigiosos sobre los mismos, de acuerdo con los procedimientos de enajenación establecidos en el Título Cuarto de la presente Ley.
-
-Si el Instituto excede los plazos establecidos en el presente artículo, deberá exponer las razones en los informes correspondientes.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Artículo 6 quáter.- Los Bienes provenientes de comercio exterior que sean puestos a disposición del Instituto, para su Transferencia, deberán ser retirados del lugar en que se ubiquen dentro de los 60 días naturales siguientes a la recepción de la solicitud de entrega que efectúe la Entidad Transferente, debidamente acompañada de la documentación complementaria.
-
-El plazo a que se refiere el párrafo anterior, empezará a correr siempre y cuando, la solicitud de entrega y la documentación complementaria que reciba el Instituto, cumplan con todos los requisitos que para tal efecto establecen esta Ley, el Reglamento y los lineamientos que expida la Junta de Gobierno.
-
-En caso de que el Instituto no efectúe el retiro de los Bienes dentro del plazo a que se refiere el primer párrafo del presente artículo sin causa justificada, éstos podrán ser donados o destruidos directamente por la autoridad aduanera competente.
-
-En ningún caso, el Instituto podrá realizar gastos de administración respecto de Bienes que no hayan sido transferidos.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+### Capítulo Segundo. Obligaciones de Transparencia
 
 ###### Artículo 7.
 
-La administración de los Bienes, activos o empresas comprende su recepción, registro, custodia, conservación, supervisión y depósito de numerario. Serán conservados en el estado en que se hayan recibido por el Instituto, para que, en caso de ser devueltos en las mismas condiciones, salvo el deterioro normal que se les cause por el transcurso del tiempo. Dichos Bienes, activos o empresas podrán ser utilizados, destruidos, enajenados o monetizados en los casos y conforme a los requisitos establecidos en esta Ley y en el Reglamento, para lo cual, en su caso, el Instituto podrá llevar a cabo los actos conducentes para la regularización de dichos Bienes, activos o empresas de conformidad con las disposiciones aplicables para tal efecto.
+Con excepción de la información reservada o confidencial prevista en este reglamento, los sujetos obligados, deberán poner a disposición del público y actualizar, en los términos del Reglamento y los lineamientos que expida el Instituto, entre otra, la información siguiente:
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+I. Su estructura orgánica;
+
+II. Las facultades de cada Unidad Administrativa;
+
+III. El directorio de servidores públicos;
+
+IV. La remuneración mensual por puesto, incluso el sistema de compensación, según lo establezcan las disposiciones correspondientes;
+
+V. El domicilio de la ventanilla universal, además de la dirección electrónica donde podrán recibirse las solicitudes para obtener la información;
+
+VI. Las metas y objetivos anuales de las Unidades Administrativas de conformidad con sus programas operativos;
+
+VII. Los servicios que ofrecen;
+
+VIII. Los trámites, requisitos y formatos vigentes. En caso de que se encuentren inscritos en le Registro Municipal de Trámites, deberán publicarse tal y como se registraron;
+
+IX. La información sobre el presupuesto asignado, así como los informes sobre su ejecución;
+
+X. Los resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda;
+
+XI. El diseño, ejecución, montos asignados y criterios de acceso a los programas de subsidio;
+
+XII. Las concesiones, permisos o autorizaciones otorgados, especificando los titulares de aquellos;
+
+XIII. Las contrataciones que se hayan celebrado en términos de la legislación aplicable detallando por cada contrato:
+
+a) Las obras públicas, los bienes adquiridos, arrendados y los servicios contratados; en el caso de estudios o investigaciones deberá señalarse el tema específico;
+
+b) El monto;
+
+c) El nombre del proveedor, contratista o de la persona física o moral con quienes se haya celebrado el contrato, y
+
+d) Los plazos de cumplimiento de los contratos y sus fianzas;
+
+XIV. El marco normativo aplicable a cada sujeto obligado;
+
+XV. Los informes que, por disposición legal, generen los sujetos obligados;
+
+XVI. En su caso, los mecanismos de participación ciudadana;
+
+XVII. Las Actas de Sesiones de cabildo, y
+
+XVIII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+
+La información a que se refiere este Artículo deberá publicarse en idioma español de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las Dependencias, Entidades y Unidades Administrativas deberán atender las recomendaciones que al respecto expida el Instituto.
 
 ###### Artículo 8.
 
-Los depositarios, liquidadores, interventores o administradores, que reciban Bienes en depósito, intervención, liquidación o administración, están obligados a rendir al Instituto un informe mensual sobre los mismos y a darle todas las facilidades para su supervisión, vigilancia y evaluación del desempeño.
+La información a que se refiere el Artículo 7 deberá estar a disposición del público, a través de medios remotos o locales de comunicación electrónica.
+
+Las Dependencias, Entidades y Unidades Administrativas deberán preparar la automatización, presentación y contenido de su información, como también su integración en línea, en los términos que dispongan los lineamientos que al respecto expida el Instituto.
+
+Asimismo, la información de interés general adecuadamente ordenada y clasificada, deberá publicarse en tableros de información instalados estratégicamente en el recinto de la Presidencia Municipal, o cualquier otro medio de comunicación impreso y al alcance de los ciudadanos.
 
 ###### Artículo 9.
 
-Las armas de fuego, municiones y explosivos serán administradas por la Secretaría de la Defensa Nacional. En todo caso deberá observarse, además, lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
+Los sujetos obligados según este Reglamento, deberán hacer pública toda aquella información relativa a los montos y las personas a quienes entreguen, por cualquier motivo, recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Tratándose de substancias psicotrópicas, estupefacientes, psicoactivas, drogas, narcóticos, flora y fauna protegidos o en peligro de extinción, materiales o substancias peligrosos y demás Bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, se procederá en los términos de la legislación federal aplicable.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Los Bienes que resulten del dominio público de la Federación, de las entidades federativas o de los municipios, se restituirán a la dependencia o entidad correspondiente, de acuerdo con su naturaleza y a lo que dispongan las normas aplicables, por la autoridad que los tenga en administración o bajo resguardo.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+### Capítulo Tercero. De la Información Pública Reservada y Confidencial
 
 ###### Artículo 10.
 
-La autoridad competente o, en su caso, el Instituto hará constar en los registros públicos que correspondan, de conformidad con las disposiciones aplicables, el nombramiento del depositario, interventor, liquidador o administrador de los Bienes, activos o empresas.
+Como información reservada podrá clasificarse aquélla cuya difusión pueda:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+I. Comprometer la seguridad pública;
+
+II. Menoscabar la conducción de las negociaciones o bien, de las relaciones con otros entes públicos, incluida aquella información que otros estados u organismos internacionales entreguen con carácter de confidencial al Gobierno Municipal;
+
+III. Dañar la estabilidad financiera, económica o monetaria del Municipio;
+
+IV. Poner en riesgo la vida o la seguridad de cualquier persona;
+
+V. Causar un serio perjuicio a las actividades de verificación del cumplimiento de las leyes y reglamentos, prevención o persecución de los delitos, la impartición de la justicia, las medidas tomadas para el combate a la corrupción, la recaudación de las contribuciones, las estrategias procesales en procesos judiciales o administrativos mientras las resoluciones no causen estado.
+
+O se refiera a:
+
+VI. La que por disposición expresa de una Ley, tratados o reglamentos sea considerada confidencial, reservada, comercial reservada o gubernamental confidencial;
+
+VII. Los secretos de propiedad intelectual, comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por una disposición legal;
+
+VIII. Los procedimientos o expedientes de los tribunales de justicia municipal hasta en tanto no hayan causado estado;
+
+IX. Los procedimientos administrativos seguidos en forma de juicio en tanto no hayan causado estado;
+
+X. Los procedimientos de responsabilidad de los servidores públicos en tanto no se haya dictado la resolución administrativa o la jurisdiccional definitiva;
+
+XI. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
+
+XII. La información referente a las posturas, ofertas, propuestas o presupuestos generados con motivo de los concursos o licitaciones en proceso que las autoridades lleven a cabo para adquirir, enajenar, arrendar o contratar bienes o servicios municipales. Una vez adjudicados los contratos dicha información perderá el carácter de reservada;
+
+XIII. La información que por facultad discrecional del Instituto de Transparencia Municipal así lo amerite.
+
+Cuando concluya el periodo de reserva o las causas que hayan dado origen a la reserva de la información a que se refiere este Artículo, dicha información podrá ser pública, protegiendo la información confidencial que en ella se contenga.
+
+No será reservada la información contenida en los informes contables y financieros de Ayuntamientos, sus Dependencias y Entidades y de los Organismos Autónomos. Las autoridades tendrán la obligación de proporcionar a los particulares, en los términos de este Reglamento, los resultados de las auditorías y revisiones practicadas por el Congreso del Estado y las realizadas por organismos públicos o privados sobre el ejercicio de los recursos públicos a cargo de las mismas.
+
+No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
 
 ###### Artículo 11.
 
-El Instituto, o el depositario, comodatario, interventor, liquidador o administrador de los Bienes, contratarán seguros para el caso de pérdida o daño de los mismos.
+La información clasificada como reservada según el artículo 10 de este Reglamento, podrá permanecer con tal carácter hasta por un periodo de diez años a partir de la fecha de emisión de dicha información. Esta información podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el periodo de reserva.
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+La disponibilidad de esa información será sin perjuicio de lo que, al respecto, establezcan otras leyes. El Instituto y la Dirección del Instituto Municipal de Documentación, establecerán los criterios y lineamientos para la clasificación y desclasificación de la información reservada.
 
-Lo dispuesto en el párrafo anterior, no será aplicable cuando por razón de la naturaleza jurídica, características o el tipo de riesgos a los que están expuestos los bienes, el costo de aseguramiento no guarde relación directa con el beneficio que pudiera obtenerse.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Excepcionalmente, los sujetos obligados podrán solicitar al Instituto, la ampliación del periodo de reserva, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
 
 ###### Artículo 12.
 
-A los frutos o rendimientos de los Bienes, activos o empresas durante el tiempo que dure la administración, se les dará el mismo tratamiento que a los Bienes que los generen.
-
-En todo caso, los recursos que se obtengan de la administración de los Bienes, activos o empresas, se destinarán a resarcir el costo de mantenimiento y administración de los mismos y el remanente, si lo hubiera, se depositará en el fondo a que se refiere el artículo 89 del presente ordenamiento y se entregará a quien en su momento acredite tener derecho, en términos de las disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Los titulares de las Dependencias, Entidades y Unidades Administrativas serán responsables de clasificar la información de conformidad con los criterios establecidos en ese Reglamento y los lineamientos expedidos por el Instituto.
 
 ###### Artículo 13.
 
-Respecto de los Bienes, activos o empresas, el Instituto y, en su caso, los depositarios, comodatarios, interventores, liquidadores o administradores que hayan designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil Federal para el depositario, comodatario y, en general, para los usufructuarios.
+Las Dependencias, Entidades y Unidades Administrativas elaborarán semestralmente por rubros temáticos, un índice de los expedientes clasificados como reservados. Dicho índice deberá indicar la Dependencia, Entidad y Unidad Administrativa que generó la información, la fecha de la clasificación, su fundamento, el plazo de reserva y, en su caso, las partes de los documentos que se reservan. En ningún caso el índice será considerado como información reservada.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El titular de cada Dependencia, Entidad o Unidad Administrativa deberá adoptar las medidas necesarias para asegurar la custodia y conservación de los expedientes clasificados.
 
-Para la debida conservación y, en su caso, buen funcionamiento de los Bienes, activos o empresas, incluyendo el de los inmuebles destinados a actividades agropecuarias, empresas, negociaciones o establecimientos, el Instituto tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, para otorgar y suscribir títulos de crédito y, en los casos previstos en esta Ley, actos de dominio.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Los depositarios, interventores, liquidadores o administradores que el Instituto designe, tendrán, dentro de las siguientes, sólo las facultades que éste les otorgue:
-
-I.- Poder general para pleitos y cobranzas y actos de administración en los términos del artículo 2554, primero y segundo párrafos, del Código Civil Federal.
-
-II.- Poder especial para pleitos y cobranzas, con las cláusulas especiales a que se refiere el artículo 2587 del Código Civil Federal.
-
-III.- Poder para actos de administración en materia laboral con facultades expresas para articular y absolver posiciones de acuerdo con lo dispuesto en el artículo 786 de la Ley Federal del Trabajo, con facultades para administrar las relaciones laborales y conciliar de acuerdo con lo dispuesto en los artículos 11 y 876, fracciones I y VI de la misma Ley, así como comparecer en juicio en los términos de los artículos 692, fracciones I, II y III, y el 878 de la Ley referida.
-
-IV.- Poder para otorgar y suscribir títulos de crédito, en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito.
-
-Las facultades a que se refiere este artículo se podrán ejercitar ante cualquier autoridad jurisdiccional, sea civil, penal, administrativa, laboral, militar, federal, estatal o municipal.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Las facultades previstas en este artículo se otorgarán a los depositarios, interventores, liquidadores o administradores, por parte del Instituto, de acuerdo a lo que éstos requieran para el adecuado ejercicio de sus atribuciones.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+En todo momento, el Instituto tendrá acceso a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso.
 
 ###### Artículo 14.
 
-El Instituto, así como los depositarios, liquidadores, administradores o interventores de los Bienes, activos o empresas, darán todas las facilidades para que las autoridades competentes que así lo requieran, practiquen con dichos Bienes todas las diligencias que resulten necesarias.
+Como información confidencial se considerará:
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+I. La entregada con tal carácter por los particulares a los sujetos obligados, de conformidad con lo establecido en el Artículo 15 de este Reglamento, y
+
+II. Los datos personales que requieran el consentimiento de los individuos para su difusión, distribución o comercialización en los términos de este Reglamento.
+
+No se considerará confidencial la información que se halle en los registros públicos o fuentes de acceso público.
 
 ###### Artículo 15.
 
-Los Bienes, activos o empresas serán recibidos, custodiados y conservados en los lugares que determine el Instituto.
+Cuando los particulares o usuarios entreguen a los sujetos obligados la información a que se refiere la fracción I del artículo anterior, deberán señalar los documentos que contengan información confidencial, reservada o comercial reservada, siempre que tengan el derecho de reservarse la información, de conformidad con las disposiciones aplicables. En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados la comunicarán siempre y cuando medie el consentimiento expreso del particular titular de la información confidencial.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+### Capítulo Cuarto. Protección de Datos Personales
 
 ###### Artículo 16.
 
-Los Bienes, activos o empresas a que se refiere la fracción V del artículo 1o. de esta Ley y los que sean incosteables, serán destruidos o enajenados por el Instituto, a través de los procedimientos previstos en el Título Cuarto de esta Ley.
+Los sujetos obligados serán responsables de los datos personales descritos en la fracción I del artículo 5 de este Reglamento y en relación con éstos, deberán:
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+I. Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso y corrección de datos, así como capacitar a los servidores públicos y dar a conocer información sobre sus políticas en relación con la protección de tales datos, de conformidad con los lineamientos que al respecto establezca el Instituto;
+
+II. Tratar datos personales sólo cuando éstos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido;
+
+III. Poner a disposición de las personas, a partir del momento en el cual se recaben datos personales, el documento en el que se establezcan los propósitos para su tratamiento, en términos de los lineamientos que establezca el Instituto;
+
+IV. Procurar que los datos personales a los que se refiere la fracción I del artículo 5 de éste Reglamento, sean exactos y actualizados;
+
+V. Sustituir, rectificar o completar, de oficio, los datos personales que fueren inexactos, ya sea total o parcialmente, o incompletos, en el momento en que tengan conocimiento de esta situación, y
+
+Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
 
 ###### Artículo 17.
 
-Los depositarios, liquidadores, interventores y administradores designados por el Instituto, no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos de terceros.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Los sujetos obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar, de las personas a que haga referencia la información.
 
 ###### Artículo 18.
 
-Los bienes inmuebles susceptibles de destinarse a actividades lícitas que sean entregados al Instituto, serán administrados a fin de mantenerlos productivos o, en su caso, hacerlos productivos.
+No se requerirá el consentimiento de los particulares o usuarios para proporcionar los datos personales en los siguientes casos:
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+I. Los necesarios para la prevención o el diagnóstico médico, la prestación de asistencia médica o la gestión de servicios de salud y no pueda recabarse su autorización;
+
+II. Los necesarios por razones estadísticas, científicas o de interés general previstas en ley, previo procedimiento por el cual no puedan asociarse los datos personales con el individuo a quien se refieran;
+
+III. Cuando se transmitan entre sujetos obligados o entre Dependencias, Entidades y Unidades Administrativas, siempre y cuando los datos se utilicen para el ejercicio de las facultades propias de los mismos;
+
+IV. Cuando exista una orden judicial;
+
+V. A terceros cuando se contrate la prestación de un servicio que requiera el tratamiento de datos personales. Dichos terceros no podrán utilizar los datos personales para propósitos distintos a aquéllos para los cuales se les hubieren transmitidos, y
+
+En los demás casos que establezcan los ordenamientos jurídicos federales, estatales y municipales.
 
 ###### Artículo 19.
 
-El Instituto nombrará un administrador para las empresas objeto de esta Ley.
-
-El administrador de las empresas a que se refiere el párrafo anterior, tendrá las facultades necesarias, en términos de las disposiciones aplicables, para mantenerlos en operación y buena marcha, pero no podrá enajenar ni gravar los Bienes que constituyan parte del activo fijo de la Empresa.
-
-La Junta de Gobierno podrá autorizar al administrador que proceda a la suspensión o cierre definitivo de las empresas, cuando las actividades de éstos resulten incosteables y, por consecuencia, se procederá a la disolución, liquidación, concurso mercantil, quiebra, fusión, escisión o venta, según sea el caso.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Los sujetos obligados que posean, por cualquier título, sistemas de datos personales, deberán hacerlo del conocimiento del Instituto, quienes mantendrán un listado actualizado de los sistemas de datos personales.
 
 ###### Artículo 20.
 
-Tratándose de empresas que no cuenten con las licencias, autorizaciones, permisos, concesiones o cualquier otro tipo de requisito necesario para operar lícitamente, el administrador procederá a su regularización. Si ello no fuere posible, procederá a la suspensión, cancelación y liquidación de dichas actividades en cuyo caso tendrá, únicamente para tales efectos, las facultades necesarias para la enajenación de activos, la que realizará de acuerdo con los procedimientos previstos en el Título Cuarto de esta Ley.
+Sin perjuicio de lo que dispongan otras disposiciones legales aplicables, sólo los interesados o sus representantes podrán solicitar a la ventanilla universal, previa acreditación, que les proporcione sus datos personales que obren en un sistema de datos personales. Aquélla deberá entregarle en un plazo de diez días hábiles contados desde la presentación de la solicitud, en formato para el solicitante, la información correspondiente, o bien, le comunicará por escrito que ese sistema de datos personales no contiene los referidos al solicitante.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+La entrega de los datos personales únicamente causará los gastos de envío y reproducción de conformidad con las tarifas aplicables en la Ley de Ingresos del Municipio.
+
+En caso de que los datos proporcionados sean incorrectos, dichas personas podrán solicitar, previa acreditación, ante la ventanilla universal, que modifiquen sus datos que obren en cualquier sistema de datos personales. Con tal propósito, el interesado deberá entregar una solicitud de modificaciones a la ventanilla universal o su equivalente, que señale el sistema de datos personales, indique las modificaciones por realizarse y aporte la documentación que motive su petición. Aquélla deberá entregar al solicitante, en un plazo de 30 días hábiles desde la presentación de la solicitud, una comunicación que haga constar las modificaciones o bien, le informe de manera fundada y motivada, las razones por las cuales no procedieron las modificaciones.
+
+La representación de personas físicas se acreditará con carta poder firmada ante dos testigos ratificada ante fedatario público; para personas morales a través de instrumento público.
 
 ###### Artículo 21.
 
-El administrador tendrá independencia respecto del propietario, los órganos de administración, asambleas de accionistas, de socios o partícipes, así como de cualquier otro órgano de las empresas que se le otorguen en administración. El administrador responderá de su actuación únicamente ante el Instituto y, en el caso de que incurra en responsabilidad penal, se estará a las disposiciones aplicables.
+Contra la negativa de entregar o corregir datos personales, procederá la interposición del recurso de revisión previsto en este ordenamiento ante el Instituto en términos del Artículo 40 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+### Capítulo Quinto. Ventanilla Universal e Instituto de Transparencia Municipal
 
-## TÍTULO TERCERO. De la Devolución de Bienes en Administración
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+## Título I. Ventanilla Universal
 
 ###### Artículo 22.
 
-La Junta de Gobierno podrá autorizar a los depositarios, administradores o interventores a que se refiere el artículo 8o. de esta Ley para que éstos utilicen los Bienes, activos o empresas que hayan recibido, lo que en su caso harán de conformidad con lo que al respecto establezca el Reglamento, así como los lineamientos que expida dicha Junta.
-
-La Junta de Gobierno fijará el monto de la contraprestación que los depositarios, administradores o interventores deban cubrir por el uso que se otorgue de acuerdo con el párrafo anterior. Dicha contraprestación se considerará como fruto de los Bienes, activos o empresas. El uso de flora, fauna, piezas de arte, piezas arqueológicas e inmuebles con alguna limitación de dominio, que sea otorgado a depositarios, administradores o interventores, no generará el pago de contraprestación alguna.
-
-El Instituto podrá otorgar, previa autorización de la Junta de Gobierno, los Bienes en depósito a las dependencias, entidades paraestatales o a la Fiscalía General de la República, cuando así lo solicite por escrito el titular de dichas instancias, o el servidor público en quien delegue esta función y, en su caso, les autorizará mediante comodato la utilización de dichos Bienes para el desarrollo de sus funciones.
-
-Los depositarios, administradores o interventores rendirán al Instituto un informe mensual pormenorizado sobre la utilización de los Bienes, en los términos que al efecto establezca.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Es obligación del Ayuntamiento, de las Entidades y Dependencias de la Administración Pública Municipal y de los Organismos Autónomos, destinar el personal, el espacio y cualquier elemento que se requiera para la recepción adecuada de las solicitudes de información, así como para su oportuna entrega.
 
 ###### Artículo 23.
 
-Cuando proceda la devolución de los Bienes, activos o empresas que se hayan utilizado conforme al artículo anterior, el depositario, administrador o interventor cubrirá los daños ocasionados por su uso.
+El presidente Municipal designará al encargado de la ventanilla universal quien tendrá, entre otras, las siguientes funciones:
 
-El seguro correspondiente a estos Bienes, activos o empresas, deberá cubrir la pérdida y los daños que se originen por el uso de los mismos.
+I. Recabar y difundir la información a que se refiere el Artículo 7, además de propiciar que las Unidades Administrativas la actualicen periódicamente;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
-Artículo 23 bis.- En caso de que una Empresa en liquidación tenga pasivos fiscales de carácter federal, y el accionista único sea el Gobierno Federal, o bien, se trate de una entidad paraestatal en proceso de desincorporación, operará de pleno derecho la cancelación de dichos créditos fiscales, sin necesidad de autorización alguna, siempre y cuando se cumplan los siguientes requisitos:
+III. Auxiliar a los usuarios en la elaboración de solicitudes y, en su caso, orientarlos sobre las Dependencias, Entidades, Unidades Administrativas u otro órgano que pudieran tener la información que solicitan;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+IV. Realizar los trámites internos de cada Dependencia o Entidad, necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares;
 
-I.- Que exista previo dictamen de auditor externo, y
+V. Proponer al Instituto los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+VI. Habilitar a los servidores públicos de la Dependencia o Entidad que sean necesarios, para recibir y dar trámite a las solicitudes de acceso a la información;
 
-II.- Que sea la última actividad pendiente para concluir el proceso de liquidación.
+VII. Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos, y
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+VIII. Las demás necesarias para garantizar y agilizar el flujo de información entre la Dependencia o Entidad y los particulares;
 
-En estos casos se deberá remitir la documentación respectiva al Servicio de Administración Tributaria, incluyendo el acta de la última sesión del órgano de gobierno de la Empresa en la que se concluya el proceso de liquidación para la cancelación de su registro, de conformidad con las disposiciones aplicables.
+IX. Promover y, en su caso, ejecutar la capacitación de los servidores públicos en materia de acceso a la información y protección de datos personales;
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Los créditos transferidos al Instituto podrán condonarse en atención al monto, fecha de su otorgamiento, prescripción, costeabilidad, incobrabilidad y condiciones de bienestar social, en los términos de los lineamientos que al efecto emita la Junta de Gobierno.
+Realizar las gestiones necesarias para localizar los documentos administrativos en los que conste la información solicitada.
 
 ###### Artículo 24.
 
-Cuando proceda la devolución de los Bienes, activos o empresas, la autoridad competente notificará personalmente tal situación al Instituto, a efecto de que queden a disposición de quien determine dicha autoridad. La autoridad competente notificará su resolución al Interesado o al representante legal, de conformidad con lo previsto por las disposiciones aplicables, para que, en el plazo señalado en las mismas a partir de la notificación, se presente a recibirlo, bajo apercibimiento que de no hacerlo, los Bienes causarán abandono a favor del Gobierno Federal.
+En coordinación con la Dirección del Instituto Municipal de Documentación, el Instituto de Transparencia Municipal deberá emitir los criterios para la catalogación, clasificación y conservación de los documentos administrativos, así como su organización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-## TÍTULO CUARTO. De los Procedimientos de Enajenación
+## Título II. Instituto de Transparencia Municipal
 
 ###### Artículo 25.
 
-El Instituto, al momento en que el Interesado o su representante legal se presenten a recibir los Bienes, activos y empresas, deberá:
-
-I.- Levantar acta en la que se haga constar el derecho del interesado o de su representante legal a recibir los bienes;
-
-II.- Realizar un inventario de los bienes, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- Entregar los Bienes, activos o empresas al Interesado o a su representante legal.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-En caso de oposición del Interesado o su representante legal, serán puestos a disposición de la autoridad competente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El Instituto de Transparencia Municipal es un órgano desconcentrado de la Administración Pública Municipal, con autonomía operativa, presupuestaria y de decisión; el cual tendrá el objeto de promover y difundir la transparencia de los recursos públicos y el ejercicio del derecho de acceso a la información, resolver sobre la negativa a las solicitudes de acceso a la información y proteger los datos personales en poder de las Entidades, Dependencias y Unidades Administrativas Municipales.
 
 ###### Artículo 26.
 
-La devolución de los Bienes, activos o empresas incluirá la entrega de los frutos que, en su caso, hubieren generado.
-
-La devolución de numerario comprenderá la entrega del principal y de sus rendimientos durante el tiempo en que haya sido administrado, conforme a los términos y condiciones que corresponda de conformidad con las disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-El Instituto, al devolver empresas, rendirá cuentas de la administración que hubiere realizado a la persona que tenga derecho a ello, y le entregará los documentos, objetos, numerario y, en general, todo aquello que haya comprendido la administración.
-
-Previo a la recepción de los bienes por parte del interesado, se dará oportunidad a éste para que revise e inspeccione las condiciones en que se encuentren los mismos, a efecto de que verifique el inventario a que se refiere el artículo 25 de esta Ley y, en su caso, se proceda conforme a lo establecido por el artículo 28 de la misma.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El Instituto se integrará por 5 comisionados honoríficos, que serán propuestos por el presidente Municipal y aprobados por mayoría en Sesión de Cabildo por el Ayuntamiento. Su encargo durará 4 años, con posibilidad de reelección por un periodo igual. Estos podrán ser removidos de sus funciones por acuerdo de las dos terceras partes del cabildo cuando transgredan en forma grave o reiterada las disposiciones contenidas en la Legislación vigente.
 
 ###### Artículo 27.
 
-Cuando conforme a lo previsto en el artículo 24 de esta Ley, se determine por la autoridad competente la devolución de los Bienes, activos o empresas que hubieren sido enajenados por el Instituto, o haya imposibilidad para devolverlos, siempre que los mismos hayan sido transferidos al Instituto, deberá cubrirse con cargo al fondo previsto en el artículo 89 de esta Ley, a la persona que tenga la titularidad del derecho de devolución, el valor de los mismos de conformidad con las disposiciones aplicables.
+Para ser comisionado honorífico se requiere:
 
-Para efectos del pago de resarcimiento de Bienes provenientes de comercio exterior, de los Bienes a los que se refiere el artículo 22 de la Constitución, así como los Bienes asegurados y decomisados en los procesos penales federales, el Instituto solo podrá pagar hasta la cantidad del valor de los Bienes que hayan sido vendidos, previa Transferencia, descontando los costos, honorarios y pagos a que se refiere el primer párrafo del artículo 89 de la presente Ley.
+I. Ser ciudadano mexicano y residir en el Municipio;
 
-Los costos, honorarios y pagos antes referidos, no serán descontados cuando la devolución proceda de una determinación donde se declare la nulidad lisa y llana o ilegalidad del procedimiento origen de la Transferencia al Instituto de los Bienes descritos en el artículo 1o. de la presente Ley; en cuyo caso, serán cubiertos al Instituto por la entidad transferente que sustanció el procedimiento respectivo.
+II. No haber sido condenado por la comisión de algún delito doloso;
 
-Los Bienes destruidos o donados serán resarcidos de conformidad con la legislación correspondiente.
+III. Haberse desempeñado destacadamente en actividades comunitarias;
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+IV. No haber sido servidor público municipal durante el periodo previo al día de su nombramiento.
+
+Tener una solvencia moral reconocida en el Municipio.
 
 ###### Artículo 28.
 
-El Instituto será responsable de los daños derivados de la pérdida, extravío o deterioro inusual de los Bienes que administre. Quien tenga derecho a la devolución de Bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago al Instituto.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El Instituto será presidido por un Comisionado, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de un año, y será elegido por la mayoría de los comisionados que lo integran. Este podrá ser reelegido por sólo un periodo más.
 
 ###### Artículo 29.
 
-Los frutos y productos de los Bienes, activos o empresas serán enajenados por el Instituto, de conformidad con los procedimientos previstos en el Título Cuarto de esta Ley, con excepción de lo dispuesto por el tercer párrafo, del artículo 39 de esta Ley.
+El Instituto tendrá las siguientes atribuciones:
+
+I. Interpretar en el orden administrativo este Reglamento;
+
+II. Conocer y resolver los recursos de revisión interpuestos por los usuarios;
+
+III. Establecer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial, en términos del presente Reglamento y demás disposiciones legales aplicables;
+
+IV. Coadyuvar con la Dirección del Instituto Municipal de Documentación en la elaboración y aplicación de los criterios para la catalogación y conservación de los documentos, así como la organización de archivos de las dependencias, Entidades y Unidades Administrativas;
+
+V. Vigilar y, en caso de incumplimiento, hacer las recomendaciones a las Dependencias, Entidades y Unidades Administrativas para que se dé cumplimiento a lo dispuesto en el Artículo 7 de este ordenamiento;
+
+VI. Orientar y asesorar a los usuarios acerca de las solicitudes de acceso a la información;
+
+VII. Elaborar los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales;
+
+VIII. Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de las Dependencias y Entidades;
+
+IX. Hacer del conocimiento de la Dirección General de Contraloría Interna, las presuntas infracciones a este Reglamento. Las resoluciones finales que al respecto expida la Dirección General de Contraloría Interna y que hayan causado estado deberán ser notificadas al Instituto, quien deberá hacerlas públicas a través de su informe anual;
+
+X. Promover en coordinación con la Ventanilla universal y, en su caso, ejecutar la capacitación de los servidores públicos en materia de acceso a la información y protección de datos personales;
+
+XI. Difundir entre los servidores públicos y los usuarios, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
+
+XII. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de este Reglamento;
+
+XIII. La celebración de acuerdos o programas con el Instituto Federal de Acceso a la Información Pública y sus similares estatales y municipales;
+
+XIV. Elaborar sus normas de operación;
+
+XV. Designar al personal a su cargo;
+
+XVI. Preparar su proyecto de presupuesto anual, el cual será enviado a la Tesorería Municipal para que lo integre al Presupuesto de Egresos;
+
+XVII. Clasificar discrecionalmente como confidencial o reservada cualquier información que por su naturaleza lesione la moral o transgreda disposiciones de orden público, y
+
+XVIII. Las demás que le confieran este Reglamento y cualquier otra disposición aplicable.
 
 ###### Artículo 30.
 
-(DEROGADO, D.O.F. 23 DE FEBRERO DE 2005)
+El Instituto rendirá anualmente al H. Ayuntamiento un informe público sobre el acceso a la información, el cual deberá incluir cuando menos:
+
+a) Número de solicitudes de acceso a la información y su resultado;
+
+b) Tiempos de respuesta;
+
+c) Asuntos atendidos por el Instituto;
+
+d) Estado que guardan las denuncias presentadas ante la dependencia competente, que se susciten en el ámbito de competencia del presente Reglamento;
+
+Dificultades observadas en el cumplimiento del presente Reglamento.
+
+### Capítulo Sexto. Procedimiento de Acceso a la Información
 
 ###### Artículo 31.
 
-Los procedimientos de enajenación previstos en esta Ley son de orden público y tienen por objeto enajenar de forma económica, eficaz, imparcial y transparente los Bienes que sean transferidos al Instituto; asegurar las mejores condiciones en la enajenación de los Bienes; obtener el mayor valor de recuperación posible y las mejores condiciones de oportunidad, así como la reducción de los costos de administración y custodia a cargo de las Entidades Transferentes.
+Cualquier persona o su representante legal podrá presentar, ante la ventanilla universal, una solicitud de acceso a la información mediante escrito libre o en los formatos que apruebe el Instituto de Transparencia Municipal. La solicitud deberá contener:
 
-Los procedimientos de enajenación serán los siguientes:
+I. El nombre del usuario y/o promovente, domicilio u otro medio para recibir notificaciones, como el correo electrónico, así como los datos generales de su representante, en su caso;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+II. La descripción clara y precisa de el o los documentos que solicita. No se dará trámite a solicitudes genéricas o por periodos;
 
-I.- Donación,
+III. Cualquier otro dato que identifique la información con el objeto de facilitar su búsqueda, y
 
-II.- Compraventa, que incluye la permuta y cualesquiera otras formas jurídicas de transmisión de la propiedad, a través de licitación pública, subasta, remate o adjudicación directa.
+IV. La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser verbalmente siempre y cuando sea para fines de orientación, mediante consulta directa, copias simples, certificadas u otro tipo de medio.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Si los detalles proporcionados por el solicitante no bastan para localizar los documentos o son erróneos, la ventanilla universal podrá requerir, por una vez y dentro de los diez hábiles siguientes a la presentación de la solicitud, que indique otros elementos o corrija los datos. En caso de omisión por parte del usuario, se tendrá por no presentada la solicitud de acceso a la información. Este requerimiento interrumpirá el plazo establecido en el Artículo 35 de este Reglamento.
 
-Para la realización de las enajenaciones a que se refieren las fracciones anteriores, el Instituto tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, actos de dominio y para otorgar y suscribir títulos de crédito.
+La ventanilla universal auxiliará a los usuarios y/o promoventes en la elaboración de las solicitudes de acceso a la información, en particular en los casos en que el usuario y/o promovente no sepa leer ni escribir.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Cuando la información solicitada no sea competencia de la Entidad o Dependencia ante la cual se presente la solicitud de acceso, la Ventanilla universal deberá orientar debidamente al usuario sobre la Entidad o Dependencia competente.
 
-Los terceros a que se refiere el artículo 38 de esta Ley, a quienes el Instituto encomiende la enajenación de los Bienes, tendrán las facultades que el Instituto expresamente les otorgue.
+Si la solicitud es presentada ante una Unidad Administrativa distinta a la Ventanilla universal, aquélla tendrá la obligación de indicar al usuario la ubicación física de la Ventanilla universal.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Aquellos Bienes que la Tesorería de la Federación o sus auxiliares legalmente facultados, obtengan en dación en pago y se transfieran al Instituto para su enajenación, se regirán por las disposiciones de esta Ley.
+En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno.
 
 ###### Artículo 32.
 
-Estarán impedidas para participar en los procedimientos de enajenación regulados por esta Ley, las personas que se encuentren en los supuestos siguientes:
-
-I.- Las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
-
-II.- Las que no hubieren cumplido con cualquiera de las obligaciones derivadas de los procedimientos previstos en esta Ley, por causas imputables a ellas;
-
-III.- Aquéllas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe, en algún procedimiento realizado por la Administración Pública Federal para la adjudicación de un bien;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-IV.- Aquéllas que hubieren participado en procedimientos similares con el Gobierno Federal y se encuentren en situación de atraso en el pago de los bienes por causas imputables a ellos mismos, salvo los casos previstos en los lineamientos que para tal efecto expida la Junta de Gobierno;
-
-V.- Aquéllas a las que se les declare en concurso civil o mercantil;
-
-VI.- Los terceros a que se refiere el artículo 38 de esta Ley, respecto de los bienes cuya enajenación se les encomiende;
-
-VII.- Los agentes aduanales y dictaminadores aduaneros, respecto de los bienes de procedencia extranjera;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VIII.- Los servidores públicos y terceros especializados que por sus funciones hayan tenido acceso a información privilegiada, o bien, tengan un conflicto de intereses, y
-
-IX.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Para los efectos de las fracciones III y IV, el Instituto llevará un registro de las personas que se ubiquen en los supuestos previstos por las mismas.
+La Ventanilla universal será el vínculo entre la Unidad Administrativa, Dependencia o Entidad y el solicitante, ya que es la responsable de hacer las notificaciones a que se refiere este Reglamento. Además, deberá llevar a cabo todas las gestiones necesarias en la Unidad Administrativa, Dependencia o Entidad con el fin de facilitar el acceso a la información.
 
 ###### Artículo 33.
 
-Cualquier procedimiento de enajenación o acto que se realice en contra de lo dispuesto en este Título será nulo de pleno derecho.
+Las Unidades Administrativas, Dependencias y Entidades Municipales sólo estarán obligados a entregar documentos que se encuentren en sus archivos. La obligación de acceso a la información se dará por cumplida cuando se pongan a disposición del solicitante mediante la expedición de copias simples, certificadas o cualquier otro medio.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El acceso se dará solamente en la forma en que lo permita el documento de que se trate, pero se entregará en su totalidad o parcialmente, a petición del usuario.
 
-Las personas servidoras públicas y terceros especializados que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley General de Responsabilidades Administrativas, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE FEBRERO DE 2005)</small>
+En el caso que la información solicitada por la persona ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
 
 ###### Artículo 34.
 
-En casos excepcionales, de conformidad con lo que establezcan para tal efecto las disposiciones aplicables y previo cumplimiento de los requisitos que, en su caso, prevean las mismas, tales como los relativos al monto, plazo o tipo de Bienes, éstos podrán ser donados o asignados, según corresponda, a favor de las dependencias y entidades paraestatales de la Administración Pública Federal, así como de los gobiernos de las entidades federativas y municipios, para que los utilicen en los servicios públicos locales, en fines educativos o de asistencia social, u otras políticas públicas prioritarias, o a instituciones autorizadas para recibir donativos deducibles, en los términos de la Ley del Impuesto Sobre la Renta, que lo requieran para el desarrollo de sus actividades.
+La Ventanilla universal turnará la solicitud a la Unidad Administrativa, Dependencia o Entidad Municipal que tenga o pueda tener la información, con objeto de que ésta la localice, verifique su clasificación y le comunique a la primera la procedencia del acceso y la manera en que se encuentre disponible, a efecto de que se determine el costo, en su caso.
 
-Tratándose de Bienes provenientes de comercio exterior, sólo podrán donarse aquellos que se utilicen para la prevención o atención de los efectos derivados de desastres naturales y los destinados para la atención de zonas determinadas de alta marginalidad.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Las Unidades Administrativas, Dependencias o Entidades Municipales podrán entregar documentos que contengan información clasificada como reservada o confidencial, siempre y cuando, los documentos en que conste la información permitan eliminar las partes o secciones clasificadas. En tales casos, deberán señalarse las partes o secciones que fueron eliminadas.
 
 ###### Artículo 35.
 
-Para la donación de los Bienes, el Instituto, se apoyará del Comité de Donaciones, el cual se integrará y regirá de acuerdo con lo que al respecto se establezca en el Reglamento.
+La respuesta a la solicitud deberá ser notificada al interesado en el menor tiempo posible, que no podrá ser mayor de veinte días hábiles, contados desde la presentación de aquélla. Además, se precisará el costo y la modalidad en que será entregada la información, atendiendo en la mayor medida de lo posible a la solicitud del usuario. Excepcionalmente, este plazo podrá ampliarse hasta por un periodo igual cuando existan razones que lo motiven a criterio del Instituto, siempre y cuando éstas se le notifiquen con antelación al usuario.
+
+Una vez que haya sido notificada por parte de la Ventanilla universal la respuesta de la solicitud de acceso a la información al usuario, ésta deberá entregarse dentro de los diez días hábiles siguientes a que el usuario compruebe haber cubierto el pago de los derechos correspondientes.
 
 ###### Artículo 36.
 
-El Instituto podrá vender los Bienes que le sean transferidos, a excepción de aquellos Bienes que deban conservarse por determinación judicial, cuando el precio sea igual o superior al determinado por un avalúo vigente, o bien sea el ofrecido por el mercado, siempre y cuando, en este último supuesto, la venta se realice mediante los procedimientos de licitación pública o subasta. Tratándose del procedimiento de remate, se estará a lo dispuesto por los artículos 57, 59 y 60 de este ordenamiento.
-
-Cuando se requieran avalúos, éstos serán practicados por el Instituto o por peritos, instituciones de crédito, agentes especializados o corredores públicos y deberán consignar al menos el valor comercial y el de realización inmediata, en los términos que determine la Junta de Gobierno.
-
-El Instituto estará facultado para mantener en reserva el precio base de venta hasta el acto de presentación de ofertas de compra, en aquellos casos en que se considere que dicha reserva coadyuvará a estimular la competitividad entre los interesados y a maximizar el precio de venta.
-
-Las personas servidoras públicas que intervengan en el proceso deberán guardar absoluta secrecía de la información que con motivo de su empleo, cargo o comisión tengan acceso. Su incumplimiento será motivo de responsabilidad en los términos que disponga la legislación general en la materia.
-
-En caso de ser utilizado el valor de mercado, se deberá incorporar a las bases de la licitación pública o subasta, que el Instituto podrá declarar desierto, parcial o totalmente, el procedimiento de venta, sin necesidad de justificación alguna. La Junta de Gobierno podrá emitir lineamientos para regular esta facultad.
+Cuando los documentos no se encuentren en los archivos de la Unidad Administrativa, Dependencia o Entidad Municipal, ésta deberá remitir al Instituto de Transparencia Municipal la solicitud de acceso y el oficio donde lo manifieste. El Instituto de Transparencia Municipal analizará el caso y tomará las medidas pertinentes para localizar, en la Unidad Administrativa, Dependencia o Entidad Municipal, el documento solicitado y resolverá en consecuencia. En caso de no encontrarlo, expedirá una resolución que confirme la inexistencia del documento solicitado y notificará al usuario, marcando copia a la Ventanilla universal y Dirección General de Contraloría Interna para que proceda en consecuencia. Dicha notificación deberá realizarse dentro de los 20 días hábiles a que hace referencia el artículo 35 del presente Reglamento.
 
 ###### Artículo 37.
 
-(DEROGADO, D.O.F. 23 DE FEBRERO DE 2005)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Las solicitudes de acceso a la información y las respuestas que se les dé, incluyendo, en su caso, la información entregada, serán públicas. Asimismo, las Unidades Administrativas, Dependencias y Entidades Municipales deberán poner a disposición del público esta información, en la medida de lo posible a través de medios remotos o locales de comunicación electrónica o tableros de información.
 
 ###### Artículo 38.
 
-El Instituto, podrá vender los Bienes a través de los siguientes procedimientos:
-
-I.- Licitación Pública;
-
-II.- Subasta;
-
-III.- Remate, o
-
-IV.- Adjudicación directa.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-El Instituto podrá encomendar la enajenación de los Bienes a que se refiere este Capítulo, a las dependencias o entidades de la Administración Pública Federal, a las autoridades estatales o municipales o a personas, empresas o instituciones especializadas u organismos internacionales, en la promoción y venta de los mismos, cuando estime que su intervención, por la infraestructura tecnológica de que disponen, canales de venta y operación logística, entre otros, permitirá eficientar el procedimiento de venta, así como aumentar las alternativas de compradores potenciales y maximizar los precios.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Los terceros a que se refiere el párrafo anterior, al concluir la enajenación que se les encomiende, están obligados a rendir al Instituto un informe sobre la misma y a darle todas las facilidades para su supervisión y vigilancia.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-En la venta de los Bienes que se realice conforme a los procedimientos referidos, el Instituto, así como los terceros señalados en los párrafos anteriores, deberán atender a las características comerciales de las operaciones, las sanas prácticas y usos bancarios y mercantiles.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Artículo 38 bis.- Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al Instituto su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.
-
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Artículo 38 ter.- Tratándose de la enajenación a través del procedimiento de subasta, los participantes ajustarán sus posturas en función de la de los competidores hasta llegar a un nivel donde ningún postor está dispuesto a ofrecer más. La última postura determina al ganador y el precio de transacción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+La Ventanilla universal no estará obligada a dar trámite a solicitudes de acceso ofensivas, cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona, o cuando la información se encuentra disponible públicamente. En este caso, deberán indicar al solicitante el lugar donde se encuentra la información.
 
 ###### Artículo 39.
 
-La venta de los bienes se realizará preferentemente a través del procedimiento de subasta.
-
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-El procedimiento de remate se podrá llevar a cabo en los siguientes casos:
-
-I.- Cuando así lo establezcan otras disposiciones legales;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Cuando el valor de enajenación de los Bienes no exceda de los valores que se establezcan para tal efecto en el Reglamento;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- Cuando, a juicio del Instituto, estos procedimientos aseguren las mejores condiciones al Estado, o
-
-IV.- En los demás casos que se prevean en el Reglamento.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-En estos casos y en el procedimiento de adjudicación directa a que se refiere el artículo 68 de esta Ley, el Instituto deberá acreditar, bajo su responsabilidad, que dichos procedimientos aseguran las mejores condiciones para el Estado, conforme a lo previsto en el artículo 31 de este ordenamiento.
-
-Tratándose de los frutos que se generen por la administración de empresas o propiedades en producción, la enajenación se realizará mediante adjudicación directa, conforme a lo dispuesto por la Sección IV del presente Capítulo.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Los usuarios están obligados a pagar por concepto de derechos, los gastos o costos directos e indirectos que implique el otorgamiento de la información que hayan solicitado. Para tal efecto, corresponderá a la Tesorería Municipal en coordinación con el Instituto de Transparencia Municipal, establecer y publicar en la Gaceta Municipal, los lineamientos generales para la fijación de los costos de reproducción, tomando en consideración la cantidad de información y los elementos en que se otorgue.
 
 ###### Artículo 40.
 
-El Instituto se abstendrá de formalizar alguna venta, cuando de la información proporcionada por autoridad competente se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.
-
-Al efecto, el Instituto incorporará los mecanismos de prevención e identificación de operaciones con recursos de procedencia ilícita en los procedimientos de venta, de conformidad con las disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El solicitante a quien se le haya notificado la negativa de acceso a la información, podrá interponer, por sí mismo o a través de su representante legal, el recurso de revisión ante el Instituto de Transparencia Municipal o ante la Ventanilla universal, dentro de los ocho días hábiles siguientes a la fecha de la notificación. La Ventanilla universal deberá remitir el asunto al Instituto al día siguiente de haberlo recibido.
 
 ###### Artículo 41.
 
-En las ventas que realice el Instituto, debe pactarse preferentemente el pago en una sola exhibición. La Junta de Gobierno emitirá los lineamientos para la venta en varias exhibiciones, las que considerarán las condiciones de mercado en operaciones similares, así como las garantías que en su caso procedan.
+El recurso también procederá en los mismos términos cuando:
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+I. La Unidad Administrativa, Dependencia o Entidad Municipal no entregue al solicitante los datos personales solicitados, o lo haga en contravención a lo dispuesto en este Reglamento;
 
-Artículo 41 bis.- Una vez que la venta ha sido realizada y pagada la totalidad del precio, en caso de que el valor de venta sea menor al valor de registro contable, se considerará como minusvalía, la cual opera de manera automática y sin necesidad de procedimiento alguno, debiendo registrarse en la contabilidad respectiva.
+II. La Unidad Administrativa, Dependencia o Entidad Municipal se niegue a efectuar modificaciones o correcciones a los datos personales;
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+III. El usuario no este conforme con la clasificación de la información solicitada;
 
-Tratándose de activos financieros incosteables e incobrables, el Instituto deberá evaluar el costo beneficio de venderlos mediante el procedimiento de licitación pública, subasta o remate. En caso de que dicha evaluación sea positiva, procederá a su venta a través del procedimiento que se haya determinado y en caso de que éste resultare desierto o la evaluación negativa, el Instituto los dará de baja de la contabilidad respectiva, debiendo mantener dichos activos en cuentas de orden únicamente para efectos de liberación de garantías, posibles pagos y afrontar contingencias.
+IV. El usuario no esté conforme con la modalidad de entrega, o
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+El usuario considere que la información entregada es incompleta o no corresponda a la información requerida en la solicitud.
 
-Para determinar si un activo financiero es incosteable, se estará a los valores a que se refiere la fracción III, del artículo 2o. del presente ordenamiento, en relación con la fracción II, del artículo 17 del Reglamento de esta Ley.
+Artículo 43 (sic).- El Instituto subsanará las deficiencias de los recursos interpuestos por los particulares.
 
-Los activos financieros incobrables, son aquellos que por falta de documentación o defectos en ésta; por falta de garantías; por prescripción o por carecer de información acerca del domicilio del deudor, no puedan recuperarse.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 42.
-
-El Instituto determinará las penas convencionales a cargo del adjudicatario por atraso en el cumplimiento de sus obligaciones de pago.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 43.
-
-El pago de los Bienes deberá realizarse en la forma y plazos que se establezcan en las bases de licitación o avisos respectivos, a partir del día siguiente a aquél en que se dé a conocer la adjudicación.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Tratándose de bienes inmuebles, el primer pago deberá cubrirse en el plazo de cinco días hábiles contados a partir del día en que se dé a conocer la adjudicación y representar, por lo menos, el 25% del valor de la operación, más el Impuesto al Valor Agregado que, en su caso, se genere, y el resto deberá quedar cubierto a la firma de la escritura pública correspondiente, o bien, en el plazo previsto en las bases de licitación para la venta de Bienes. Tratándose de adjudicaciones directas, el primer pago deberá representar, cuando menos, el 40% del valor de la operación.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-La entrega y recepción física de los bienes muebles deberá realizarse con posterioridad a la fecha en que se cubra la totalidad de su importe. Tratándose de activos financieros, la Junta de Gobierno determinará los términos y plazos para el pago, la entrega y la recepción de los mismos.
-
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Se dará posesión de los bienes inmuebles dentro de los 30 días hábiles siguientes a la fecha en que sea cubierta la totalidad del precio de los mismos, salvo que se trate de operaciones a plazo, en cuyo caso la posesión será otorgada dentro de los 30 días hábiles siguientes al momento de cubrir el primer pago.
-
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-El envío de las instrucciones para la escrituración correspondiente no podrá exceder de un plazo superior a treinta días naturales contados a partir del día siguiente de la fecha de adjudicación, salvo causa debidamente justificada.
-
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Durante dicho plazo el comprobante de pago, así como el instrumento en el que conste la adjudicación del bien, serán los documentos que acrediten los derechos del adquirente.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-En caso de que la entrega recepción de los Bienes y la escrituración en el caso de inmuebles no se efectúe por causas imputables al comprador, éste asumirá cualquier tipo de riesgo inherente a los mismos, salvo que obedezca a causas atribuibles al Instituto.
-
-#### Sección I. Licitación Pública
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Asimismo, deberá proporcionar un servicio de apoyo a los interesados para que puedan presentar el recurso.
 
 ###### Artículo 44.
 
-La licitación pública se realizará a través de convocatoria en la que se establecerá, en su caso, el precio o precios y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen, así como de las circunstancias del procedimiento y bien o Bienes a licitar. Los interesados podrán revisar las bases, en su caso, previo pago de las mismas.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-La publicación de un extracto de la convocatoria, así como sus modificaciones, podrán hacerse en el Diario Oficial de la Federación, en al menos un diario de circulación nacional y deberá divulgarse íntegramente a través de medios electrónicos, ópticos o de cualquier otra tecnología de la información y de la comunicación que permitan la difusión de la oferta.
-
-Tratándose de títulos valor, créditos o cualquier bien comerciable en bolsas, mercados de valores o esquemas similares, podrá utilizarse un medio de difusión distinto a los señalados en el párrafo anterior, sujeto a que los valores respectivos se encuentren inscritos en el Registro Nacional de Valores en los términos de la Ley del Mercado de Valores.
+La falta de respuesta a una solicitud de acceso, en el plazo señalado en el Artículo 35 de este Reglamento, se entenderá resuelta en sentido negativo, por lo que, transcurrido ese plazo, el solicitante podrá interponer el recurso ante el Instituto de Transparencia Municipal. En este caso, el usuario deberá adjuntar a su recurso copia de la solicitud en la que conste la fecha de su presentación ante la Ventanilla universal, además de los requisitos señalados en el próximo artículo.
 
 ###### Artículo 45.
 
-En las convocatorias se incluirá cuando menos:
+El escrito de interposición del recurso de revisión deberá contener:
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+I. La fecha en que presentó la solicitud ante la Ventanilla universal;
 
-I.- El nombre, denominación o razón social de la Entidad Transferente;
+II. El nombre del recurrente y del tercero interesado si lo hay, así como el domicilio o medio que señale para recibir notificaciones;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+III. La fecha en que se le notificó o tuvo conocimiento del acto reclamado;
 
-II.- La descripción, condición física y ubicación de los Bienes. En caso de bienes muebles, adicionalmente, se señalarán sus características, cantidad y unidad de medida; y tratándose de bienes inmuebles, la superficie total, linderos y colindancias, mismos que podrán difundirse entre los interesados mediante el uso de las tecnologías de la información;
+IV. El acto que se recurre y los puntos petitorios;
 
-III.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
+V. Los argumentos y hechos que funden y motiven sus pretensiones;
 
-IV.- El precio base del bien, salvo en los casos a que se refiere el último párrafo del artículo 37;
+VI. La copia de la resolución que se impugna y, en su caso, de la notificación correspondiente, y
 
-V.- La forma en que se deberá realizar el pago por el adquirente;
-
-VI.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
-
-VII.- Lugar, fecha, horarios y condiciones requeridas para mostrar fotografías, catálogos, planos o para que los interesados tengan acceso a los sitios en que se encuentren los bienes para su inspección física, cuando proceda;
-
-VIII.- Lugar, fecha y hora en que los interesados podrán obtener las bases de licitación, y en su caso, el costo y forma de pago de la misma;
-
-IX.- Fecha límite para que los interesados se inscriban a la licitación;
-
-X.- Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con las disposiciones establecidas por la Ley del Servicio de la Tesorería de la Federación;
-
-XI.- La existencia, en su caso, de gravámenes, limitaciones de dominio, o cualquier otra carga que recaiga sobre los bienes;
-
-XII.- La fecha, hora y lugar, o en su caso, plazo para la celebración del acto del fallo;
-
-XIII.- Criterios para la evaluación de las ofertas de compra y para la adjudicación;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-XIV.- La fecha hora y lugar del acto de presentación de propuestas, y
-
-XV.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-XVI.- La indicación de que no podrán participar las personas que se encuentren en los supuestos previstos en el artículo 32 de la Ley.
-
-XVII.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
-
-XVIII.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
+Los demás elementos de prueba que considere procedente someter a juicio del Instituto.
 
 ###### Artículo 46.
 
-Se considerará desierta la licitación cuando se cumpla cualquiera de los siguientes supuestos:
+El Instituto sustanciará el recurso de revisión conforme a los lineamientos siguientes:
 
-I.- Ninguna persona adquiera las bases;
+I. Interpuesto el recurso, el Presidente del Instituto lo turnará al Comisionado ponente, quien deberá, dentro de los treinta días hábiles siguientes a la interposición del recurso, integrar el expediente y presentar un proyecto de resolución al Pleno del Instituto;
 
-II.- Nadie se registre para participar en el acto de apertura de ofertas, o
+II. El Pleno del Instituto podrá determinar la celebración de audiencias con las partes;
 
-III.- Que las ofertas de compra que se presenten no sean aceptables.
+III. Durante el procedimiento deberá aplicarse la suplencia de la queja a favor del recurrente y asegurarse de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones, así como formular sus alegatos;
 
-Se considera que las ofertas de compra no son aceptables cuando no cubran el precio base de venta del bien o no cumplan con la totalidad de los requisitos establecidos en la convocatoria y en las bases.
+IV. Mediante solicitud del interesado podrán recibirse, por vía electrónica, las promociones y escritos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+V. El Pleno resolverá, en definitiva, dentro de los veinte días hábiles siguientes en que se presentó el proyecto de resolución, y
+
+VI. Las resoluciones del Pleno serán públicas.
+
+Cuando haya causa justificada, el Pleno del Instituto podrá ampliar por un periodo igual, y hasta por una vez, los plazos establecidos en las fracciones I y V de este Artículo.
+
+La información reservada o confidencial que, en su caso, sea solicitada por el Instituto por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
 
 ###### Artículo 47.
 
-Las bases estarán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta antes del acto de presentación de ofertas de compra y contendrán, como mínimo, lo siguiente:
+Las resoluciones del Instituto podrán:
 
-I.- La referencia exacta de la convocatoria a la cual corresponden las mismas;
+I. Desechar el recurso por improcedente o bien, sobreseerlo;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+II. Confirmar la resolución de la Ventanilla universal, o
 
-II.- Los elementos a que se refieren las fracciones II, VII, X y XIII, del artículo 45 de esta Ley;
+III. Revocar o modificar las decisiones de la Ventanilla universal y ordenar a la Unidad Administrativa, Dependencia o Entidad Municipal que permita al usuario el acceso a la información solicitada o a los datos personales; que reclasifique la información o bien, que modifique tales datos.
 
-III.- Los documentos por los cuales el interesado acreditará su personalidad jurídica;
+Las resoluciones, que deberán ser por escrito, establecerán los plazos para su cumplimiento, los cuales no podrán ser mayores de 15 días hábiles, y los procedimientos para asegurar la ejecución.
 
-IV.- Instrucciones para elaborar y entregar o presentar ofertas de compra, haciendo mención de que dichas ofertas deberán ser en firme;
+En caso de negativa en la ejecución de la resolución del Instituto, por parte de la Unidad Administrativa, Dependencia o Entidad Municipal, el Instituto deberá notificar a la Dirección General de Contraloría Interna, para que proceda conforme a derecho.
 
-V.- Lugar, fecha y hora en que los interesados podrán obtener las bases de licitación, y en su caso, el costo y forma de pago de la (sic) mismas;
+Si el Instituto no resuelve en el plazo establecido en esta Ley, la resolución que se recurrió se entenderá confirmada.
 
-VI.- Los criterios claros y detallados para la adjudicación del bien;
-
-VII.- Forma y términos para la formalización de la operación y entrega física del bien. En el caso de inmuebles, los gastos, incluyendo los de escrituración, serán por cuenta y responsabilidad absoluta del adquirente. Tratándose de contribuciones, éstas se enterarán por cada una de las partes que las causen;
-
-VIII.- El señalamiento de las causas de descalificación de la licitación;
-
-IX.- La indicación de que ninguna de las condiciones de las bases de licitación, así como las proposiciones presentadas por los licitantes, podrán ser negociadas;
-
-X.- La indicación de que no podrán participar las personas que se encuentren en los supuestos previstos en el artículo 32 de la Ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XI.- La indicación de que el fallo se dará a conocer por el mismo medio en que se hubiera hecho la convocatoria en junta pública, o mediante el uso de las tecnologías de la información y comunicación, según se determine;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XII.- Cualquier otra que de acuerdo a la naturaleza de los Bienes o su condición de venta señale el Instituto;
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XIII.- Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con las disposiciones establecidas por la Ley de Tesorería de la Federación, y
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XIV.- Criterios para la evaluación de las ofertas de compra y para la adjudicación.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Cuando el Instituto determine durante la sustanciación del procedimiento que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento a la Dirección General de Contraloría Interna, para que ésta inicie, en su caso, el procedimiento de responsabilidad que corresponda.
 
 ###### Artículo 48.
 
-El plazo para la presentación de las ofertas de compra no podrá ser mayor a diez días hábiles contados a partir de la fecha de publicación de la convocatoria de la licitación, salvo que, por la naturaleza de los Bienes, el Instituto considere conveniente establecer un plazo mayor.
+El recurso será desechado por improcedente cuando:
 
-El Instituto retendrá las garantías que se hubieren presentado, de conformidad con las disposiciones establecidas por la Ley de Tesorería de la Federación, hasta que se emita el fallo. A partir de esa fecha, procederá a la devolución de las garantías a cada uno de los interesados, salvo la de aquél a quien se hubiere adjudicado el bien, misma que se retendrá como garantía de cumplimiento de la obligación y podrá aplicarse como parte del precio de venta.
+I. Sea presentado, una vez transcurrido el plazo señalado en el Artículo 40 de este Reglamento;
+
+II. El Instituto haya conocido anteriormente del recurso respectivo y resuelto en definitiva;
+
+III. Se recurra una resolución que no haya sido emitida por la Ventanilla universal o que no sea materia de acceso a la información, o
+
+Ante los tribunales jurisdiccionales o arbitrales se esté tramitando algún recurso o medio de defensa que verse sobre el mismo asunto y que haya sido interpuesto por el recurrente.
 
 ###### Artículo 49.
 
-Los actos de presentación y de apertura de ofertas de compra se llevarán a cabo conforme a lo siguiente:
+El recurso será sobreseído cuando:
 
-I.- Los licitantes entregarán sus ofertas de compra en sobre cerrado en forma inviolable, o por los medios electrónicos, ópticos o de cualquier otra tecnología que garanticen la confidencialidad de las ofertas hasta el acto de apertura;
+I. El recurrente se desista expresamente del recurso;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+II. El recurrente fallezca o, tratándose de personas morales, se disuelva;
 
-II.- La apertura de las ofertas de compra se realizará en junta pública a más tardar, al segundo día hábil siguiente a aquél en que venza el plazo de presentación de ofertas de compra;
+III. Cuando admitido el recurso de impugnación, aparezca alguna causal de improcedencia en los términos del presente Reglamento, o
 
-III.- La convocante en un plazo no mayor de tres días hábiles, contados a partir del acto de apertura de ofertas de compra, procederá a la evaluación de las mismas, con pleno apego a lo dispuesto por el artículo 31 de esta Ley.
-
-Concluido el análisis de las ofertas de compra, se procederá de inmediato a emitir el fallo;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IV.- El fallo se dará a conocer por el mismo medio en que se hubiera hecho la convocatoria, en junta pública o mediante el uso de las tecnologías de la información y comunicación, según se determine en las bases, haciendo del conocimiento público el nombre del ganador y el monto de la oferta de compra ganadora. Asimismo, en su caso, se deberá informar a la dirección electrónica de las personas interesadas, por correo certificado con acuse de recibo u otros medios que determine para tal efecto el Instituto, que sus propuestas fueron desechadas y las causas que motivaron tal determinación, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-V.- El Instituto levantará acta en la que se dejará constancia de la participación de los licitantes, del monto de sus ofertas de compra, de las ofertas aceptadas o desechadas, de las razones por las que en su caso fueron desechadas, del precio base de venta, del nombre del ganador por cada bien, del importe obtenido por cada venta, así como de aquellos aspectos que, en su caso, sean relevantes y dignos de consignar en dicha acta.
+IV. La Unidad Administrativa, Dependencia o Entidad Municipal responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que el medio de impugnación quede sin efecto o materia.
 
 ###### Artículo 50.
 
-En caso de empate en el procedimiento de licitación pública, el bien se adjudicará al licitante que primero haya presentado su oferta.
+Las resoluciones del Instituto serán definitivas.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Cualquier autoridad que para uso oficial deba tener acceso a información clasificada como reservada o confidencial, tiene la obligación de mantenerla con ese carácter y no ponerla a disposición de cualquier persona.
+
+### Capítulo Séptimo. Responsabilidades y Sanciones
 
 ###### Artículo 51.
 
-El adjudicatario perderá, en favor del Instituto, la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo 43, quedando el Instituto en posibilidad de adjudicar el bien al participante que haya presentado la segunda oferta de compra más alta que no hubiere sido descalificada, y así sucesivamente, en caso de que no se acepte la adjudicación, siempre que su postura sea mayor o igual al precio base de venta fijado.
-
-En el supuesto de que la falta de formalización de la adjudicación sea imputable al Instituto, el licitante ganador podrá solicitar que le sean reembolsados los gastos no recuperables en que hubiera incurrido, derivados del procedimiento de licitación pública, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
-
-En el caso de enajenaciones no concretadas por causas atribuibles al Instituto, los compradores podrán solicitar que dichas operaciones queden sin efecto, y solicitar la devolución del importe pagado, observando las disposiciones emitidas para su enajenación.
-
-El atraso del Instituto en la formalización de la operación de compraventa, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
-
-#### Sección II. De la Subasta
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Sin perjuicio de lo dispuesto por otras disposiciones legales aplicables, la Dirección General de Contraloría Interna a petición del Instituto de Transparencia Municipal o por denuncia del usuario afectado, iniciará el procedimiento administrativo correspondiente o lo turnará al tribunal competente, por las violaciones en que los servidores públicos incurran al presente Reglamento.
 
 ###### Artículo 52.
 
-El Instituto, de acuerdo con lo dispuesto por el artículo 39 de esta Ley, llevará a cabo el procedimiento de subasta pública, electrónica o presencial, el cual deberá efectuarse dentro de los diez días hábiles siguientes a la publicación de la convocatoria.
+Serán causas de responsabilidad administrativa de los servidores públicos, respecto de las obligaciones establecidas en este Reglamento, las siguientes:
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+I. Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente y de manera indebida información que se encuentre bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
+
+II. Actuar con negligencia, dolo o mala fe en la sustanciación de las solicitudes de acceso a la información a que están obligados conforme a este Reglamento;
+
+III. Denegar intencionalmente información no clasificada como reservada o no considerada confidencial conforme a este Reglamento;
+
+IV. Clasificar como reservada, con dolo, información que no cumple con las características señaladas en este Reglamento y los lineamientos y criterios emitidos por el Instituto y la Dirección del Instituto Municipal de Documentación. La sanción sólo procederá cuando exista una resolución previa respecto del criterio de clasificación de ese tipo de información del Instituto, o las instancias correspondientes;
+
+V. Entregar información considerada como reservada o confidencial conforma a lo dispuesto por esta Ley;
+
+VI. Entregar intencionalmente de manera incompleta información requerida en una solicitud de acceso, y
+
+VII. No proporcionar la información cuya entrega haya sido ordenada por los órganos a que se refiere la fracción IV anterior.
+
+La responsabilidad a que se refiere este Artículo o cualquiera otra derivada del incumplimiento de las obligaciones establecidas en esta Ley, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
+
+La infracción prevista en esta fracción o la reincidencia en las conductas previstas en las fracciones I a VI de este Artículo, serán consideradas como graves para efectos de su sanción administrativa.
 
 ###### Artículo 53.
 
-El procedimiento se desarrollará en los siguientes términos:
+Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el Artículo anterior, son independientes de las del orden civil o penal que procedan.
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+## TRANSITORIOS
 
-I. El Instituto deberá mostrar a través de medios electrónicos el bien objeto de la subasta debiendo proporcionar una descripción del mismo;
+Primero.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en la Gaceta Municipal como en el Periódico Oficial del Estado, con las modalidades que establecen los artículos siguientes.
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Segundo.- La publicación de la información a que se refiere el Artículo 7 de este Reglamento deberá completarse, a más tardar, seis meses después de la entrada en vigor del mismo.
 
-II. El Instituto establecerá un período de al menos 240 horas para que los postores realicen sus ofertas a través de los medios electrónicos y de acuerdo con el formato que para tal efecto determine el Instituto;
+Tercero.- El presidente Municipal deberá designar la Ventanilla universal, a más tardar, seis meses después de la entrada en vigor de este ordenamiento, y en el mismo plazo deberán iniciar funciones. Asimismo, deberán notificarlo a la Dirección General de Contraloría Interna que, a su vez, deberá publicar en la Gaceta Municipal, su domicilio, horarios y funcionarios encargados. La conformación de las estructuras a que se refiere esta disposición deberá hacerse con los recursos humanos, materiales y presupuestos asignados, por lo que no deberán implicar erogaciones adicionales.
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+La Tesorería Municipal deberá publicar en la Gaceta Municipal a más tardar 5 días posteriores al inicio de las funciones de la Ventanilla universal, los lineamientos generales para la fijación de costos de reproducción para el acceso a la información con base en la Ley de Ingresos del Municipio, a que se refiere el artículo 39 del presente ordenamiento.
 
-III. Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo en forma escrita a través de los medios electrónicos autentificados mediante controles de seguridad, y
+Cuarto.- La designación de los cinco comisionados será realizada a más tardar tres meses después de la entrada en vigor del presente reglamento.
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Quinto.- El Instituto expedirá sus normas de operación dentro de los seis meses siguientes a la entrada en vigor del Reglamento.
 
-IV. Transcurrido el período que el Instituto determine para la realización de la subasta, el bien se adjudicará a la oferta que signifique las mejores condiciones de precio y oportunidad, atendiendo al tipo de subasta que se haya seguido.
+Asimismo, y dentro de los tres meses siguientes a la entrada en vigor del Reglamento, deberá emitir en coordinación con la Dirección del Instituto Municipal de Documentación los lineamientos y criterios de clasificación de información reservada y confidencial a que hace referencia el artículo 11 del Reglamento. Dichos criterios y lineamientos deberán ser publicados en la Gaceta Municipal a mas tardar 5 días hábiles posteriores a su emisión.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Sexto.- Los usuarios podrán presentar las solicitudes de acceso a la información o de acceso y corrección de datos personales, seis meses posteriores a la entrada en vigor del Reglamento.
 
-En las bases de la subasta se establecerá su tipo, las instrucciones para presentar ofertas de compra, así como la documentación y requisitos necesarios que el Instituto podrá exigir a los postores que hayan de participar en la subasta, a fin de garantizar el cumplimiento de sus ofertas.
+Séptimo.- Los sujetos obligados deberán, a más tardar seis meses posteriores a la entrada en vigor del Reglamento, completar la organización y funcionamiento de sus archivos administrativos, así como la publicación de la guía correspondiente.
 
-###### Artículo 54.
+Octavo.- A más tardar un mes posterior a la entrada en vigor del presente Reglamento, en sesión de cabildo se acordará el Presupuesto correspondiente para permitir la integración y funcionamiento adecuado del Instituto de Transparencia Municipal.
 
-Sin perjuicio de la aplicación de las disposiciones previstas en los Capítulos I y III del presente Título, serán aplicables a la subasta las disposiciones que correspondan a la licitación pública, en lo que no contravengan a su regulación específica.
+Presentado en la Ciudad de Torreón, Coahuila, a los trece días del mes de febrero del año dos mil tres.- El Presidente Municipal, Lic. José Guillermo Anaya Llamas.- El Secretario del Ayuntamiento, Lic. Alfonso Tafoya Aguilar.- Rúbrica.
 
-#### Sección III. Del Remate
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+P.O. 4 DE JULIO DE 2008.
 
-###### Artículo 55.
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal o el Periódico Oficial del Estado.
 
-El procedimiento de remate se realizará de acuerdo con lo dispuesto por el artículo 39 de esta Ley. Todo remate de bienes será público y deberá efectuarse dentro de los diez días hábiles siguientes a la publicación del aviso a que se refiere el artículo siguiente.
+SEGUNDO.- En un plazo de 30 días a partir de la entrada en vigor de este Reglamento, se lanzará la convocatoria para la selección de los Comisionados Ciudadanos que integrarán el Instituto Ciudadano para el Buen Gobierno del Municipio de Torreón, Coahuila. Los primeros nombramientos de Comisionados Ciudadanos se harán con vigencias escalonadas de manera que no todos los Comisionados Ciudadanos terminen su periodo el mismo año, bajo las siguientes reglas:
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+Se nombrarán dos Comisionados Ciudadanos cuyo periodo será de dos años, sin derecho a reelección.
 
-###### Artículo 56.
+Se nombrarán tres Comisionados Ciudadanos cuyo periodo será de Cuatro años, con derecho a ser reelectos para otro periodo igual.
 
-Para la realización del remate de Bienes se anunciará su venta mediante la publicación de un aviso, indistintamente, en el Diario Oficial de la Federación, en al menos un diario de circulación nacional o a través de medios electrónicos, ópticos o de cualquier otra tecnología de la información y comunicación.
+Posteriormente, los Comisionados Ciudadanos se nombrarán por períodos de cuatro años, en los términos de los artículos 9 y 10 de este Reglamento.
 
-###### Artículo 57.
+TERCERO.- Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Torreón, Coahuila y en consecuencia, desaparece el Instituto de Transparencia Municipal.
 
-Postura legal es la que cubre, al menos, las dos terceras partes del precio base de venta del bien.
+CUARTO.- Los bienes muebles e inmuebles que estén en posesión del Instituto de Transparencia Municipal, así como el personal a su cargo, pasarán a formar parte del Instituto Ciudadano para el Buen Gobierno del Municipio de Torreón.
 
-###### Artículo 58.
+QUINTO.- El presupuesto para el ejercicio 2008 que estaba asignado al Instituto de Transparencia Municipal, y que no haya sido ejercido, se asignará al Instituto para el Buen Gobierno del Municipio de Torreón, Coahuila, para el mismo ejercicio fiscal.
 
-Las posturas se formularán por escrito o por cualquier otro medio electrónico, óptico o de cualquier otra tecnología que permita la expresión de la oferta, manifestando, el mismo postor o su representante con facultades suficientes:
+SEXTO.- En tanto el Congreso del Estado de Coahuila determina respecto a la creación del órgano descentralizado "Instituto Ciudadano para el Buen Gobierno del Municipio de Torreón, Coahuila" dicho Instituto se formará como un órgano desconcentrado del R. Ayuntamiento, con autonomía operativa, presupuestaria y de decisión.
 
-I.- El nombre, capacidad legal y domicilio del postor, y
-
-II.- La cantidad que se ofrezca por los bienes.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-El oferente, al formular su postura, deberá entregar como garantía al Instituto en el acto del remate, el porcentaje de la cantidad ofertada que el Instituto fije en el aviso correspondiente, el cual no podrá ser inferior al diez por ciento de dicha cantidad, en cheque certificado o efectivo. Dicho organismo descentralizado retendrá el importe referido hasta que se declare fincado el remate y después de esa fecha lo regresará a los oferentes que no hayan resultado ganadores. El porcentaje otorgado en garantía de la postura ganadora se aplicará al pago del bien adjudicado.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 59.
-
-Si en la primera almoneda no hubiere postura legal, se citará a otra, para lo cual se publicará un nuevo aviso. En la almoneda se tendrá como precio inicial el precio base de venta del bien, con deducción de un veinte por ciento.
-
-###### Artículo 60.
-
-Si en la segunda almoneda no hubiere postura legal, se citará a la tercera en la forma que dispone el artículo anterior, y de igual manera se procederá para las ulteriores, cuando obrare la misma causa, hasta efectuar legalmente el remate. En cada una de las almonedas se deducirá un cinco por ciento del precio que, en la anterior, haya servido de base.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 61.
-
-Si el postor ganador no cumpliere sus obligaciones, el Instituto declarará sin efecto el remate y podrá convocar a un nuevo remate. El postor perderá la garantía exhibida, la cual se aplicará, como pena, a favor del Instituto.
-
-###### Artículo 62.
-
-El postor no puede rematar para un tercero, sino con poder bastante, quedando prohibido hacer postura sin declarar, el nombre de la persona para quien se hace.
-
-###### Artículo 63.
-
-Los postores tendrán la mayor libertad para hacer sus propuestas.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 64.
-
-El Instituto decidirá de plano conforme a las disposiciones aplicables, bajo su responsabilidad, cualquier asunto que se suscite, relativo al remate.
-
-###### Artículo 65.
-
-El día del remate, a la hora señalada, se pasará lista a los postores iniciándose el remate. A partir de ese momento, no se admitirán nuevos postores. Acto seguido, se revisarán las propuestas, desechando, las que no contengan postura legal y las que no estuvieren debidamente garantizadas.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 66.
-
-Calificadas de legales las posturas, se dará lectura de ellas, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, se declarará preferente la que importe mayor cantidad y si varias se encontraren exactamente en las mismas condiciones, la preferencia se establecerá por sorteo, que se realizará en presencia de los postores asistentes al remate.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 67.
-
-Declarada preferente una postura, el servidor público del Instituto preguntará si alguno de los postores la mejora. En caso de que alguno la mejore antes de transcurrir cinco minutos de hecha la pregunta, interrogará si algún postor puja la mejora, y así sucesivamente, se procederá con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha cualquiera de las mencionadas preguntas, no se mejorare la última postura o puja, se declarará fincado el remate en favor del postor que hubiere hecho aquélla.
-
-No procederá recurso ni medio de impugnación alguno contra la resolución que finque el remate.
-
-#### Sección IV. Adjudicación Directa
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 68.
-
-Los Bienes podrán enajenarse mediante adjudicación directa, previo dictamen del Instituto, el cual se emitirá de acuerdo con lo que al respecto disponga el Reglamento, que deberá constar por escrito, en los siguientes casos:
-
-I.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, o no fungibles, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Se trate de Bienes cuya conservación resulte incosteable para el Instituto;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- El valor de los Bienes sea menor al equivalente a 150,000 Unidades de Medida y Actualización;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-IV.- Se trate de bienes que habiendo salido a subasta pública, remate en primera almoneda o a licitación pública, no se hayan vendido;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-V.- Se trate de los frutos a que se refiere el último párrafo del artículo 39 de la Ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VI.- Se trate créditos administrados o propiedad del Instituto, cuya propuesta de pago individualizada sea hecha por un tercero distinto al acreditado;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VII.- Se trate de Bienes sobre los que exista oferta de compra presentada por alguna dependencia, entidad paraestatal u órgano de la Administración Pública Federal, de las entidades federativas o municipios, así como cualquier otro órgano de gobierno, constitucional autónomo o con autonomía derivada de los órdenes constitucionales Federal o de alguna entidad federativa o municipio, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VIII.- Se trate de Bienes provenientes de procesos de desincorporación, liquidación o extinción de empresas, así como de aquellos que determine la Junta de Gobierno.
-
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-A la propuesta de pago a que se refiere la fracción VI de este artículo, se le dará el mismo tratamiento que se daría si la hubiera presentado el propio acreditado.
-
-## TÍTULO QUINTO. De la Destrucción de Bienes
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 69.
-
-El Instituto podrá llevar a cabo la destrucción de los Bienes en los casos que establezca el Reglamento y las disposiciones que regulen los Bienes de que se trate.
-
-En toda destrucción se deberán observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-La destrucción de las substancias psicotrópicas, psicoactivas, estupefacientes, drogas, narcóticos y precursores químicos, se sujetará a lo dispuesto en el Código Penal Federal y el Código Nacional de Procedimientos Penales.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-En todas las destrucciones, el Instituto deberá seleccionar el método o la forma de destrucción menos contaminante, a fin de minimizar los riesgos que pudieren ocasionar emisiones dañinas para el ser humano, así como para su entorno. Asimismo, el método de destrucción que se seleccione no deberá oponerse a las normas oficiales expedidas por los Gobiernos Federal, estatales y municipales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 70.
-
-Sin perjuicio de lo dispuesto en el artículo anterior, se consideran como Bienes respecto de los cuales el Instituto podrá proceder a su destrucción los siguientes:
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-I.- Bienes asegurados, decomisados o abandonados relacionados con la comisión de delitos de propiedad industrial o derechos de autor;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Bienes que por su estado de conservación no se les pueda dar otro destino, así como aquellos de uso personal que sean usados o que exista el riesgo de daños a la salud pública;
-
-III.- Objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para ser consumidos o que puedan resultar nocivos para la salud de las personas. En estos casos, deberá darse intervención inmediata a las autoridades sanitarias para que, dentro del ámbito de sus atribuciones, autoricen la destrucción de este tipo de bienes;
-
-IV.- Productos o subproductos de flora y fauna silvestre o productos forestales, plagados o que tengan alguna enfermedad que impida su aprovechamiento, así como bienes o residuos peligrosos, cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación con repercusiones peligrosas para los ecosistemas o la salud pública. En estos casos, deberá solicitarse la intervención de la autoridad competente, y
-
-V.- Todos aquellos bienes, que las entidades transferentes pongan a su disposición para su destrucción.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 71.
-
-Para la destrucción de Bienes se estará a lo dispuesto por la Ley de Tesorería de la Federación y su reglamento, requiriéndose adicionalmente la autorización previa del Director General del Instituto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 72.
-
-Con independencia de lo que al respecto dispone la Ley de Tesorería de la Federación y su reglamento, el Instituto deberá integrar un expediente para proceder a la destrucción de los Bienes correspondientes, el cual deberá contener la siguiente documentación:
-
-I.- Oficio de la dependencia o entidad facultada para autorizar la destrucción de los bienes, en los casos en que sea necesario obtenerla.
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Oficio de autorización del Director General del Instituto;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- Notificación a la Fiscalía General de la República y/o a la autoridad judicial que conozca del procedimiento o, en su caso, a las Autoridades Aduaneras, de la destrucción de Bienes, para que los agentes del Ministerio Público o la autoridad judicial recaben, cuando sea factible, las muestras necesarias para que obren en la carpeta de investigación o expediente correspondiente, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IV.- Acta de la destrucción del bien, que deberán suscribir los servidores públicos facultados del Instituto, así como otras autoridades que deban participar y un representante del órgano interno de control del Instituto, quien en ejercicio de sus atribuciones, se cerciorará de que se observen estrictamente las disposiciones legales aplicables al caso.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 73.
-
-El Instituto llevará el registro y control de todos los Bienes que haya destruido, así como de aquéllos que hayan sido destruidos por otras autoridades a petición suya en el ámbito de sus respectivas atribuciones; el Director General del Instituto, deberá informar a la Junta de Gobierno sobre cualquier operación de destrucción de Bienes que se haya llevado a cabo en estos términos.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 74.
-
-Los gastos en que incurra el Instituto derivados de los procedimientos de destrucción, se considerarán como costos de administración de los Bienes.
-
-En caso de que del producto de la destrucción se obtengan recursos a favor, el Instituto podrá destinarlos para gastos de administración y destino de los Bienes.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 75.
-
-Tratándose de Bienes relacionados con la comisión de delitos o infracciones relativos a propiedad industrial o derechos de autor, el Instituto procederá a su destrucción, una vez que le sea notificada o se haga de su conocimiento la resolución definitiva firme que declare que se ha cometido una infracción administrativa o un delito, en términos de la Ley de la Propiedad Industrial y la Ley Federal del Derecho de Autor, y que el Instituto Mexicano de la Propiedad Industrial o, en su caso, el Instituto Nacional del Derecho de Autor hayan decidido poner los Bienes a disposición de la autoridad judicial competente.
-
-Tratándose de los Bienes cuya importación esté prohibida o sean objeto de ilícitos, el Instituto, antes de proceder a su destrucción, deberá verificar con las Autoridades Aduaneras la resolución definitiva que declare que se ha cometido una infracción o delito, en términos de la Ley Aduanera y de las leyes en materia penal que correspondan.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-## TÍTULO SEXTO. Del Instituto
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 76.
-
-El Instituto es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de México, el cual tendrá por objeto la administración, enajenación, destrucción y destino de los Bienes, activos o empresas, señalados en el artículo 1o. de esta Ley, así como el cumplimiento de las atribuciones establecidas en el presente ordenamiento.
-
-El Instituto estará agrupado en el sector coordinado por la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 77.
-
-El patrimonio del Instituto está integrado por:
-
-I.- Los bienes muebles, inmuebles y demás derechos que le sean asignados o que por cualquier título adquiera para sí;
-
-II.- Los recursos que le sean asignados en el Decreto de Presupuesto de Egresos de la Federación, así como los que obtenga en cumplimiento de su objeto público, y
-
-III.- Cualquier otro ingreso que la autoridad competente o las disposiciones aplicables destinen al Instituto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 78.
-
-Para el cumplimiento de su objeto, el Instituto contará con las siguientes atribuciones:
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-I.- Recibir, administrar, enajenar, monetizar, y destruir los Bienes de las Entidades Transferentes conforme a lo previsto en la presente Ley, así como realizar todos los actos de administración, pleitos y cobranzas y de dominio respecto de los Bienes, activos o empresas, aun y cuando se trate de entidades paraestatales en proceso de desincorporación, en aquellos casos en que así lo determine la Secretaría;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Administrar, enajenar y monetizar los Bienes, activos o empresas, que previa instrucción de autoridad competente, se le encomienden por la naturaleza especial que guardan los mismos.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Tratándose de numerario asegurado, decomisado, abandonado o sujeto a extinción de dominio, será captado y administrado en las cuentas que determine el Instituto;
-
-III.- Optimizar los bienes para darles un destino, de conformidad con las disposiciones contenidas en el Reglamento;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IV.- Fungir como visitador, conciliador y síndico en concursos mercantiles y quiebras, de conformidad con las disposiciones aplicables y, supletoriamente, con lo dispuesto en el presente ordenamiento en materia de enajenación de Bienes que conformen la masa concursal, debiendo recaer tales designaciones en el Instituto, invariablemente, tratándose de empresas aseguradas;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-V.- Fungir como liquidador único del Gobierno Federal de las empresas de participación estatal mayoritaria, sociedades nacionales de crédito y organismos descentralizados de la Administración Pública Federal, organismos autónomos, entidades de interés público, empresas productivas del estado, así como toda clase de sociedades mercantiles, sociedades o asociaciones civiles;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VI.- Ejecutar los mandatos y encargos en nombre y representación del Gobierno Federal, incluyendo todos los actos jurídicos que les sean inherentes;
-
-VII.- Manejar los créditos que el Gobierno Federal destine o haya destinado para otorgar su apoyo financiero a las instituciones de crédito y organizaciones auxiliares del crédito, así como la celebración de todos los actos necesarios para la recuperación de tales créditos, bien sea que las instituciones se rehabiliten o liquiden;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-VIII.- Celebrar convenios de coordinación y colaboración con los gobiernos de las entidades federativas, así como con organizaciones de productores deudores, sociedades de ahorro y préstamo y entidades de fomento en las que participen los gobiernos estatales y municipales, con el objeto de que coadyuven en la recuperación de la cartera vencida, pudiendo estipularse la cesión gratuita u onerosa de créditos, de conformidad con lo que establezcan los lineamientos que al efecto expida la Junta de Gobierno;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-IX.- Extinguir los fideicomisos públicos y privados;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-X.- Fungir como fiduciario sustituto en los fideicomisos constituidos en instituciones de crédito, instituciones de seguros, instituciones de fianzas, sociedades financieras de objeto limitado y almacenes generales de depósito, cuya liquidación sea encomendada al Instituto, así como, en aquellos en los que actúe con el carácter de fideicomitente o fideicomisario el Gobierno Federal o alguna entidad paraestatal de la Administración Pública Federal;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XI.- Celebrar contratos de prestación de servicios necesarios para la atención de los Encargos que le sean conferidos cuyo cumplimiento de pago sea con cargo a recursos de los mismos; su duración podrá ser superior al ejercicio fiscal de que se trate, por lo que en caso de que el ingreso neto sea insuficiente, la diferencia se cubrirá con cargo a la cuenta específica destinada a financiar las operaciones del Instituto, a que se refiere el artículo 89 de esta Ley, en los términos que para tal efecto determine la Junta de Gobierno, de acuerdo con los esquemas autorizados por la Secretaría, y
-
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-XII.- Realizar todos los actos, contratos y convenios necesarios para llevar a cabo las atribuciones anteriores.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 79.
-
-La administración del Instituto estará a cargo de:
-
-I.- La Junta de Gobierno, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- La persona Titular de la Dirección General.
-
-###### Artículo 80.
-
-La Junta de Gobierno se integrará de la siguiente manera:
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-I.- La persona servidora pública Titular de la Secretaría de Hacienda y Crédito Público, quien la presidirá;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Las personas servidoras públicas titulares de dos Subsecretarías de la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- La persona servidora pública Titular de la Tesorería de la Federación, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IV.- La persona servidora pública que ocupe la Presidencia de la Comisión Nacional Bancaria y de Valores.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Las personas servidoras públicas integrantes de la Junta de Gobierno designarán y acreditarán a su respectivo suplente.
-
-La Junta de Gobierno contará con un Secretario Técnico y un Prosecretario. El Secretario Técnico, tendrá la representación de la misma para todos sus efectos legales, rendirá los informes previos y justificados en los juicios de amparo en que la propia Junta sea señalada como autoridad responsable.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Las personas servidoras públicas a cargo de la Secretaría Técnica y la Prosecretaría de la Junta de Gobierno, asistirán indistintamente a las sesiones con voz, pero sin voto.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-La Junta de Gobierno se reunirá, de manera ordinaria, cuando menos cuatro veces al año, de acuerdo con el calendario que apruebe en la última sesión ordinaria del ejercicio anterior, pudiéndose además celebrar reuniones extraordinarias, conforme a lo previsto en el Estatuto Orgánico del Instituto. Sus reuniones podrán ser presenciales o mediante el auxilio de las tecnologías de la información y comunicación, conforme lo disponga el Estatuto Orgánico; serán válidas con la asistencia de por lo menos la mitad de sus miembros con la asistencia del Presidente. Las resoluciones se tomarán por mayoría de los votos, teniendo el Presidente voto de calidad para el caso de empate.
-
-###### Artículo 81.
-
-La Junta de Gobierno tendrá las facultades siguientes:
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-I.- Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-II.- Aprobar con sujeción a las disposiciones aplicables, las políticas, bases y programas generales, que regulen los convenios, contratos, o acuerdos que deba celebrar el Instituto con terceros para obras públicas, adquisiciones, arrendamientos y prestación de servicios. El Director General y, en su caso, los servidores públicos que sean competentes en términos de la legislación de la materia, realizarán tales actos bajo su responsabilidad y con sujeción a las directrices que les hayan sido fijadas por la Junta de Gobierno;
-
-III.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios;
-
-IV.- Determinar los lineamientos generales para la debida administración y enajenación de los bienes señalados en el artículo 1 de la presente Ley, así como para evitar que se alteren, deterioren, desaparezcan o destruyan;
-
-V.- Determinar los lineamientos generales a los que deberán ajustarse los depositarios; administradores, liquidadores o interventores en la utilización de los bienes; así como los terceros a que se refiere el artículo 1 de esta Ley;
-
-VI.- Dictar los lineamientos relativos a la supervisión de la base de datos a que se refiere el artículo 4 de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VII.- Aprobar los programas y presupuestos del Instituto, propuestos por el Director General, así como sus modificaciones, en términos de la legislación aplicable;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VIII.- Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros del Instituto y autorizar la publicación de los mismos;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IX.- Aprobar el Estatuto Orgánico del Instituto y la estructura orgánica básica del mismo, así como las modificaciones que procedan a éstos;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-X.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, con excepción de aquellos servidores públicos cuyo nombramiento corresponda a otra dependencia o entidad en términos de las disposiciones legales, reglamentarias y administrativas aplicables, así como aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale el Estatuto Orgánico, conforme a las disposiciones que emita la Secretaría para tal efecto;
-
-XI.- Nombrar y remover al Secretario Técnico y Prosecretario de la propia Junta de Gobierno;
-
-XII.- Autorizar los diferentes procedimientos de venta de conformidad con el Reglamento de la presente Ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XIII.- Emitir los lineamientos necesarios para la destrucción de los Bienes en los términos de la presente Ley y el Reglamento, así como para las demás actividades relacionadas con el objeto del Instituto;
-
-XIV.- Emitir los lineamientos para la venta en varias exhibiciones, para lo cual considerará las condiciones de mercado en operaciones similares;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XV.- Designar y facultar a las personas que realizarán las notificaciones respectivas en representación del Instituto, en términos de la legislación penal aplicable;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XVI.- Dictar los lineamientos a fin de que la estructura administrativa del Instituto opere con los recursos estrictamente necesarios para la realización de sus funciones en un principio de austeridad y eficiencia;
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XVII.- Aprobar los lineamientos para la condonación, por parte del Instituto, de créditos transferidos, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XVIII.- Las demás que se señalen en esta Ley, la Ley Federal de las Entidades Paraestatales y otras disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 82.
-
-El Director General del Instituto deberá remitir semestralmente a la Secretaría y a la Secretaría de la Función Pública, un informe en donde se detalle su operación, avances en los procedimientos a que se refiere esta Ley, así como respecto de la enajenación de los Bienes que fueron puestos a su disposición.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 83.
-
-El Instituto rendirá un informe anual detallado a las Entidades Transferentes, respecto de los Bienes, activos o empresas que cada una le haya transferido.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 84.
-
-El Instituto contará con un órgano de vigilancia integrado por un Comisario Público y un Suplente, designados por la Secretaría de la Función Pública, quienes tendrán a su cargo las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su reglamento y demás disposiciones aplicables.
-
-El Comisario asistirá, con voz, pero sin voto, a las sesiones de la Junta de Gobierno del Instituto.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 85.
-
-El Instituto contará con una Contraloría Interna, denominada Órgano Interno de Control, al frente de la cual estará el Contralor Interno, Titular de dicho órgano, mismo que será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y que, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas, designados en los mismos términos.
-
-El Titular del órgano de control interno, así como los de sus áreas de auditoría, quejas y responsabilidades, dependerán de la Secretaría de la Función Pública. Dicho órgano desarrollará sus funciones conforme a los lineamientos que emita esta última.
-
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública, y en los demás ordenamientos legales y administrativos aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 86.
-
-El Director General del Instituto será designado por el titular de la Secretaría, previo acuerdo del Ejecutivo Federal, debiendo recaer en la persona que cumpla con los siguientes requisitos:
-
-I.- Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad y esté en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno que señalan las fracciones II, III, IV y V, del artículo 19 de la Ley Federal de las Entidades Paraestatales, y
-
-IV.- No formar parte de las instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 87.
-
-El Director General del Instituto tendrá las facultades siguientes:
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-I.- Representar al Instituto, para todos los efectos legales, incluyendo los laborales y delegar esa representación en los términos que señale su Estatuto Orgánico;
-
-II.- Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-III.- Administrar el presupuesto del Instituto, de conformidad con las disposiciones aplicables. En caso de ser necesarias erogaciones de partidas no previstas en el presupuesto, el Director General deberá previamente obtener la aprobación de la Junta de Gobierno;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IV.- Dirigir y coordinar las actividades del Instituto, de conformidad con lo dispuesto en esta Ley, en el Reglamento y en los acuerdos que al efecto apruebe la Junta de Gobierno;
-
-V.- Asistir, con voz pero sin voto, a las sesiones de la Junta de Gobierno;
-
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-VI.- Nombrar y remover depositarios, interventores o administradores de los bienes de manera provisional y someter consideración de la Junta de Gobierno el nombramiento definitivo; así como removerlos del cargo de manera definitiva cuando medie orden de autoridad judicial o administrativa competente;
-
-VII.- Ejecutar los acuerdos de la Junta de Gobierno;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-VIII.- Presentar a la Junta de Gobierno para su aprobación, los programas y presupuestos del Instituto;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-IX.- Proponer a la Junta de Gobierno el nombramiento o remoción de los servidores públicos de las dos jerarquías administrativas inferiores a la del propio Director General, con excepción de aquellos servidores públicos cuyo nombramiento corresponda a otra dependencia o entidad en términos de las disposiciones legales, reglamentarias o administrativas aplicables, así como nombrar y contratar a los demás empleados del Instituto;
-
-X.- Rendir los informes a la Junta de Gobierno relacionados con la administración y manejo de los bienes; respecto de la administración, enajenación o destino, así como del desempeño de los depositarios, liquidadores, interventores o administradores designados y de los terceros a que se refiere el artículo 1 de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XI.- Establecer los métodos que permitan el óptimo aprovechamiento de los Bienes del Instituto;
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-XII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones del Instituto, para así poder mejorar su gestión;
-
-XIII.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
-
-XIV.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la entidad y presentar a la Junta de Gobierno por lo menos dos veces al año la evaluación de gestión con el detalle que previamente se acuerde con la Junta de Gobierno y escuchando al Comisario Público, y
-
-XV.- Las demás que señalen esta Ley u otras disposiciones aplicables, o las que mediante acuerdo de la Junta de Gobierno, le sean otorgadas.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 88.
-
-Las relaciones de trabajo entre el Instituto y sus servidores públicos se regularán por la Ley Federal del Trabajo, Reglamentaria del Apartado A del Artículo 123 Constitucional y las condiciones de trabajo que al efecto se establezcan. Los trabajadores del Instituto quedan incorporados al régimen del Instituto Mexicano del Seguro Social.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 89.
-
-A los recursos obtenidos por los procedimientos de venta a que se refiere el artículo 38 de esta Ley, así como a los frutos que generen los Bienes que administre el Instituto, se descontarán los costos de administración, gastos de mantenimiento y conservación de los Bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación del ejercicio correspondiente u otro ordenamiento aplicable.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Los recursos derivados por los procedimientos de venta junto con los frutos que generen los Bienes administrados por el Instituto, se destinarán a un fondo, el cual contará con dos subcuentas generales, una correspondiente a los frutos y otra a las ventas.
-
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Cada subcuenta general contará con subcuentas específicas correspondientes a cada bien o conjunto de bienes entregados en administración o a cada uno de los procedimientos de venta indicados en el párrafo anterior, por lo que se podrá realizar el traspaso de los recursos obtenidos de la subcuenta general a las diferentes subcuentas.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Los recursos de las subcuentas específicas, serán entregados por el Instituto, a quien tenga derecho a recibirlos, en los plazos que al efecto convenga con la Entidad Transferente o con la Tesorería de la Federación y de conformidad con las disposiciones aplicables. Una vez entregados tales recursos, el Instituto no tendrá responsabilidad alguna en caso de reclamaciones.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Para efectos de la captación y administración de activos, Bienes y empresas, así como numerario asegurado, decomisado, abandonado o afecto a un procedimiento de extinción de dominio, el Instituto establecerá las cuentas necesarias para tal efecto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 90.
-
-Para efectos de lo dispuesto en el penúltimo párrafo del artículo anterior, y tratándose de los Bienes propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán depositados, hasta por la cantidad que determine la Junta de Gobierno, en un fondo destinado a financiar, junto con los recursos fiscales del ejercicio de que se trate y los patrimoniales del Instituto, las operaciones de este organismo, y el remanente será concentrado en la Cuenta General Moneda Nacional de la Tesorería de la Federación, en los términos acordados con esta última.
-
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Semestralmente será revisado el saldo del fondo a que se refiere el párrafo anterior, a efecto de que, en caso de ser necesario, se depositen los recursos necesarios para alcanzar la cantidad fijada por la Junta de Gobierno.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-En el caso de extinción de dominio, los remanentes del valor de los Bienes que resulten una vez aplicados los recursos federales correspondientes en términos de la legislación única en materia de extinción de dominio, se depositarán en una cuenta especial administrada por el Instituto.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-En el caso de bienes abandonados, una vez obtenidos los recursos por su venta, se descontarán los costos de administración, gastos de mantenimiento y conservación de los Bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación para el ejercicio correspondiente u otro ordenamiento aplicable, y el producto obtenido se destinará a financiar las operaciones del Instituto.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-El Instituto, por sus actividades de administración, particularmente en el caso de procedimientos de desincorporación, liquidación, aseguramiento o análogos a éstos, no asumirá sustitución patronal alguna, no será garante, ni dispondrá de recursos públicos de su patrimonio para cubrir cualquier obligación.
-
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-Los recursos del fondo a que se refiere el primer párrafo de este artículo, así como los derivados de la venta de bienes abandonados, no podrán utilizarse para financiar transferencias deficitarias, a excepción de aquellos mandatos y demás operaciones que recibió el Instituto del Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, con base en el artículo octavo transitorio del Decreto por el que se expide la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y se adiciona el Código Nacional de Procedimientos Penales.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 91.
-
-Los recursos obtenidos por la venta de los Bienes y activos decomisados serán depositados en una cuenta específica de conformidad a lo establecido en el artículo 89 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 92.
-
-Corresponde al Gabinete Social de la Presidencia de la República la asignación y Transferencia de los Bienes a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como de los Bienes asegurados, abandonados y decomisados en los procedimientos penales federales, en los términos que disponga la legislación única en materia de extinción de dominio. Respecto de los Bienes decomisados, se deberá observar, además, lo previsto en el artículo 250 del Código Nacional de Procedimientos Penales.
-
-Los recursos obtenidos de la venta de los Bienes y activos respecto de los cuales se haya dictado la extinción de dominio o la Venta Anticipada, serán depositados, previo descuento de los gastos de administración y operación, en una cuenta específica de conformidad a lo establecido en el artículo 89 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
-
-###### Artículo 93.
-
-De los recursos obtenidos de la venta de Bienes, activos o empresas, el Instituto deberá prever un Fondo de Reserva para restituir aquellos que ordene la autoridad judicial mediante sentencia firme, los cuales no podrán ser menores al diez por ciento del producto de la venta. En el caso de Bienes en proceso de extinción conforme a la Ley Nacional de Extinción de Dominio, la reserva no podrá ser menor al treinta por ciento del producto de la venta.
-
-## Transitorios
-
-Primero. El presente Decreto entrará en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Se abroga la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
-
-Tercero. Se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
-
-Cuarto. Los asuntos iniciados ante el Servicio de Administración de Bienes Asegurados, que a la fecha de entrada en vigor de este Decreto se encuentren en trámite, se seguirán tramitando hasta su conclusión por el SAE.
-
-Los recursos que deriven de los asuntos a que se refiere el párrafo anterior, recibirán el tratamiento previsto en este Decreto.
-
-Quinto. Las referencias al Servicio de Administración de Bienes Asegurados que hagan las leyes y demás disposiciones, se entenderán hechas al SAE.
-
-Sexto. El Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como el Estatuto Orgánico del SAE, deberán ser emitidos con la debida oportunidad para que entren en vigor el mismo día que el presente Decreto.
-
-El Director General del SAE deberá ser nombrado, a más tardar, a los 10 días hábiles siguientes al de la entrada en vigor del presente Decreto.
-
-Séptimo. Los recursos financieros y materiales asignados al Servicio de Administración de Bienes Asegurados, pasarán a formar parte del patrimonio del SAE.
-
-Octavo. Los mandatos y demás operaciones que hasta antes de la fecha de entrada en vigor del presente Decreto, tenga encomendados el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, se entenderán conferidos al SAE, salvo que dentro de los treinta días naturales siguientes a la fecha indicada, el mandante o quien haya girado las instrucciones correspondientes manifieste por escrito ante el SAE su voluntad de dar por concluido el mandato. Así mismo, los recursos financieros, humanos y materiales asignados al citado Fideicomiso, pasarán a formar parte del patrimonio del SAE.
-
-Dentro del plazo a que se refiere el Transitorio Primero de este Decreto, se deberán realizar todas las acciones conducentes a efecto de extinguir el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito.
-
-Noveno. Las referencias a la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados que hagan las leyes y demás disposiciones, se entenderán hechas a la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
-
-México, D.F., a 31 de octubre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Yolanda E. González Hernández, Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
-
-D.O.F. 23 DE FEBRERO DE 2005.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
-
-###### ARTÍCULO SEGUNDO.
-
-Tratándose de vehículos que con motivo de algún procedimiento de aseguramiento, embargo, garantía, abandono u otro similar, de carácter federal, se encuentren en depósitos vehiculares federales o de permisionarios, serán transferidos al SAE, con la documentación con que se cuente, y aun cuando no se cuente con documentación alguna, por la autoridad federal respectiva, previa solicitud de transferencia, inventario y mediante acta de entrega recepción que se hará constar ante fedatario público, con la finalidad de que el SAE los enajene, y con el producto de la venta, descontados los gastos correspondientes, se constituya un fondo para cubrir contingencias por reclamaciones hasta por el monto que determine la Junta de Gobierno. El excedente se depositará en el fondo a que se refiere el artículo 89 del presente ordenamiento.
-
-En el caso de reclamaciones que resulten procedentes, se deberá entregar el producto de la venta, menos los gastos correspondientes.
-
-Las ventas se podrán realizar, dependiendo del estado físico de los vehículos, como material ferroso, como unidades o en lotes.
-
-Lo dispuesto en el presente artículo, se regirá por los lineamientos que para tal efecto expida la Junta de Gobierno.
-
-###### ARTÍCULO TERCERO.
-
-La transferencia de los bienes a que se refiere el artículo 6 bis, así como los asegurados por la Procuraduría, que a la fecha de entrada en vigor del presente Decreto se encuentren en administración y custodia de las Autoridades Federales competentes, se sujetará a los requisitos y plazos que determine la Junta de Gobierno mediante los lineamientos que expida para tal efecto.
-
-###### ARTÍCULO CUARTO.
-
-El SAE, en su carácter de liquidador de las trece sociedades nacionales de crédito que integran el Sistema Banrural, señaladas en el artículo tercero transitorio de la Ley Orgánica de la Financiera Rural, deberá enajenar los bienes muebles e inmuebles de dichas sociedades, así como los que éstas se hayan adjudicado en pago, a las dependencias y entidades paraestatales de la Administración Pública Federal, así como a cualquier persona física o moral, a través de los procedimientos previstos en la presente Ley.
-
-El producto de las enajenaciones, deducidos los gastos y demás conceptos previstos en el artículo 89 de esta Ley, se destinarán a cubrir los pasivos de la liquidación.
-
-D.O.F. 9 DE ABRIL DE 2012.
-
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
-
-D.O.F. 9 DE AGOSTO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY DE CONCURSOS MERCANTILES Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
-
-Tercero. En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
-
-Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
-
-Quinto. Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
-
-El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
-
-Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo Transitorio del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
-
-Sexto. El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
-
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2020)</small>
-
-Séptimo. Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
-
-Octavo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-
-Noveno. El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
-
-Décimo. El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
-
-Décimo Primero. El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
-
-Décimo Segundo. Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
-
-D.O.F. 22 DE ENERO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO Y, EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY DE CONCURSOS MERCANTILES Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, PUBLICADO EL 9 DE AGOSTO DE 2019".]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+SÉPTIMO.- En un plazo de 60 días posteriores a la entrada en vigor de este Reglamento, en su caso, el Cabildo determinará las modificaciones al Reglamento de Justicia Municipal y demás disposiciones jurídicas aplicables, con la finalidad de que prevean sanciones a los funcionarios públicos que reiteradamente no acaten las recomendaciones emitidas por el Instituto Ciudadano para el Buen Gobierno de Torreón, Coahuila.
