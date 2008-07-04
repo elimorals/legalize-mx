@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2007-10-19"
+last_updated: "2008-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3107,17 +3107,17 @@ VI.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de l
 
 VII.- Las pólizas originales de contratos celebrados con intervención de corredor público;
 
-VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
+VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-IX.- Los convenios celebrados por las partes ante la Procuraduría General de Justicia del Estado, ante los Juzgados de primera instancia del ramo penal o ante los Juzgados Penales de Paz.
+IX.- Los convenios celebrados por las partes ante la Procuraduría General de Justicia del Estado, ante la Procuraduría para la Defensa de los Derechos de los Menores y la Familia, antes los juzgados de Primera Instancia del Ramo Penal o ante los Juzgados Penales de Paz.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 437.
 
-Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría, los laudos o juicios de Contadores; los convenios celebrados ante la Procuraduría General de Justicia del Estado; ante los Juzgados de primera instancia del ramo penal o ante los Juzgados Penales de Paz en el Estado, motivarán ejecución, si el interesado no intentare la Vía de Apremio.
+Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría, los laudos o juicios de Contadores; los convenios celebrados ante la Procuraduría General de Justicia del Estado; los convenios celebrados ante la Procuraduría de la Defensa de los Menores y la Familia, ante los Juzgados de primera instancia del ramo penal o ante los Juzgados Penales de Paz en el Estado, motivarán ejecución, si el interesado no intentare la Vía de Apremio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4799,7 +4799,7 @@ ART. 714.- La responsabilidad civil en que puedan incurrir jueces y magistrados 
 
 ART. 715.- No podrá promoverse demanda de responsabilidad civil, sino hasta que queda determinado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 716.- Cuando la demanda se dirija contra un Juez de Paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el tribunal superior, si el juicio por su cuantía fuere apelable.
 
@@ -6866,3 +6866,9 @@ P.O. 19 DE OCTUBRE DE 2007.
 DECRETO No. 428
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE JULIO DE 2008.
+
+PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En todos los artículos del presente ordenamiento en que se haga alusión a la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia en el Estado, se entenderá referida a la Procuraduría para la Defensa de los menores y la Familia en el Estado.
