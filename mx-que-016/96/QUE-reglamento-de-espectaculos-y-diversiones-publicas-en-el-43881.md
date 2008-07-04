@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-espectaculos-y-diversiones-publicas-en-el-43881"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-11"
-last_updated: "2005-02-11"
+last_updated: "2008-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO DE ESPECTACULOS Y DIVERSIONES PUBLICAS EN EL MUNICIPIO DE SAN JUAN DEL RIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 11 de febrero de 2005.
 
@@ -923,111 +923,37 @@ La autoridad municipal podrá, de conformidad con las disposiciones aplicables, 
 
 ## TÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)</small>
+
 ### CAPÍTULO I. INFRACCIONES Y SANCIONES
 
 ###### Artículo 134.
 
-Son infracciones al presente reglamento las siguientes:
-
-No contar con la licencia o permiso municipal de funcionamiento del establecimiento donde se presente el espectáculo o diversión pública;
-
-II (SIC). No contar con el permiso para la presentación del espectáculo o diversión pública;
-
-III. Presentar el espectáculo o diversión pública en lugares distintos a los autorizados;
-
-IV. No contar con el refrendo de la licencia municipal de funcionamiento, del establecimiento donde se presenten espectáculo o diversiones públicas, así como el no hacerlo dentro de los tres primeros meses de cada año;
-
-V. No sujetarse a los horarios autorizados;
-
-VI. Obstaculizar o no permitir que se lleve a cabo la inspección o verificación ordenada por la autoridad municipal, aún cuando dicha conducta la realice persona distinta al titular de la licencia o permiso municipal. En este caso, quien obstaculice la inspección será puesto a disposición de las autoridades correspondientes. Se entenderá por obstaculizar, toda aquella conducta tendiente a impedir el acceso inmediato del personal que va a llevar acabo (sic) la inspección o verificación ordenada por la autoridad municipal;
-
-VII. Permitir el acceso a personas que porten armas;
-
-VIII. Permitir el acceso a menores de edad a los establecimientos en los que está prohibido su ingreso;
-
-IX. Abstenerse o negarse el propietario, su representante, o encargado del establecimiento a mostrar al personal autorizado por la autoridad competente, la licencia o permiso correspondiente, cuando le sea requerido;
-
-X. Dejar de cumplir con las medidas de seguridad, así como con las normas aplicables en materia de protección civil que deban observarse en los establecimientos regulados por este ordenamiento;
-
-XI. Dejar de cumplir con las medidas de salubridad e higiene, que deben observarse en los establecimientos regulados por este ordenamiento;
-
-XII. Permitir el acceso de personas a los establecimientos, en cantidad superior a la capacidad autorizada por la autoridad municipal; (sic)
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)
 
 ###### Artículo 135.
 
-Las autoridades competentes podrán imponer a los infractores una o más de las siguientes sanciones, atendiendo a la gravedad de la infracción:
-
-I. Multa por cada infracción de las previstas en el presente ordenamiento, tomando como base el salario mínimo vigente en el Estado, en los siguientes términos:
-
-De 40 a 50 veces el salario mínimo vigente en el Estado, para el caso de las fracciones IV y IX.
-
-De 51 a 70 veces el salario mínimo vigente en el Estado, para el caso de las fracciones V, VI, VII y XI.
-
-De 71 a 100 veces el salario mínimo vigente en el Estado, para el caso de las fracciones X y XII.
-
-De 101 a 200 veces el salario mínimo vigente en el Estado, para el caso de las fracciones I, II, III y VIII.
-
-Las multas que impongan las autoridades competentes por las infracciones a las disposiciones del presente ordenamiento, se determinarán conforme al mismo, y su cobro se efectuará por la dependencia encargada de las Finanzas Públicas Municipales. Se impondrán al infractor el número de multas que correspondan a las infracciones cometidas, sin que la aplicación de la multa más alta deje sin efecto a las de menor cuantía, en el caso de coexistir.
-
-Al imponer sanciones pecuniarias, la autoridad que emita la resolución, deberá valorar la gravedad de la infracción considerando el daño producido o que pueda producirse, las condiciones socioeconómicas del infractor, la reincidencia, las demás circunstancias que hubiesen concurrido, las pruebas aportadas, los dictámenes que correspondan y los alegatos formulados en su caso;
-
-II. Suspensión por 15 días de los derechos derivados de la licencia municipal de funcionamiento, en caso de reincidencia no grave en cualquiera de las fracciones señaladas en el presente ordenamiento;
-
-III. Suspensión por 30 días de los derechos derivados de la licencia, cuando por resultado de la inspección o verificación realizada por la autoridad competente se detecte que se han cometido dos o más infracciones de las señaladas en el presente ordenamiento;
-
-IV. Revocación de las licencias o permisos municipales de funcionamiento cuando:
-
-a) Como resultado de la inspección o verificación realizada por la autoridad competente, se detecte que se han cometido reiteradamente una o más infracciones de las señaladas en el presente ordenamiento, entendiéndose por reiteradamente aquella conducta infractora cometida por tres o más ocasiones;
-
-b) Su titular ceda o arrende las licencias o permisos municipales de funcionamiento, o derechos derivados de los mismos, o cambie el domicilio del establecimiento, sin la autorización de la autoridad municipal;
-
-c) Su titular constituya o permita que se constituya un gravamen sobre la licencia o permiso municipales de funcionamiento;
-
-d) Los establecimientos regulados por este reglamento no cumplan con los requisitos de seguridad y salubridad que deben reunir de conformidad con los reglamentos municipales de la materia y demás disposiciones legales aplicables;
-
-e) Se vendan o suministren bebidas alcohólicas sin licencia o permiso expedido por la autoridad competente; y
-
-f) Se opere con las licencias o permisos municipales de funcionamiento suspendidos temporalmente; (sic)
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)
 
 ###### Artículo 136.
 
-Las multas que imponga la dependencia municipal competente en la aplicación del presente ordenamiento, por las infracciones a las disposiciones del presente capítulo, serán cobradas por dependencia encargada de las Finanzas Públicas Municipales.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)
 
 ###### Artículo 137.
 
-La clausura inmediata constituye una medida cautelar de seguridad de forma temporal y se llevará a cabo mediante la colocación de sellos que impidan el acceso al interior del establecimiento o lugar correspondiente.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)
 
 ###### Artículo 138.
 
-La autoridad municipal podrá clausurar de forma temporal como una medida de seguridad de manera inmediata el establecimiento o lugar inspeccionado, cuando durante la visita de inspección se detecte que:
-
-I. Existe posesión, consumo o trafico de estupefacientes, drogas, enervantes o similares;
-
-II. Se realiza la venta o almacenaje de bebidas alcohólicas sin la licencia o permiso del ejercicio fiscal correspondiente;
-
-III. Se lleve a cabo la venta de bebidas alcohólicas en forma diversa a la que permita la licencia o permiso correspondiente;
-
-IV. Cuando la licencia o permiso de funcionamiento sea explotada por persona distinta a su titular;
-
-V. Cuando la licencia o permiso de funcionamiento sea explotada en domicilio distinto al señalado en la misma;
-
-VI. Cuando en el establecimiento se registren escándalos, alteraciones graves al orden público; y
-
-VII. Cuando en el establecimiento se cometan graves faltas contra la moral o las buenas costumbres, a juicio de la autoridad municipal.
-
-El inspector que lleve a cabo la clausura como medida de seguridad de forma temporal, procurará consultar a su superior jerárquico a fin de que en conjunto evalúen su ejercicio. Si le fuere imposible consultar a su superior, procederá bajo su más estricta responsabilidad y en su caso de las instrucciones del superior jerárquico, dejando constancia de los motivos de su decisión en el acta circunstanciada, así como de las instrucciones del superior jerárquico.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)
 
 ###### Artículo 139.
 
-Si dentro del establecimiento que deba ser clausurado se encuentra mercancía susceptible de descomposición o deterioro y no forma parte del producto asegurado, se apercibirá al interesado para que retire esos bienes antes de que se coloquen los sellos o símbolos de clausura. Si no lo hace se procederá a la clausura, asentando en el acta la negativa de la persona con quien se entienda la diligencia, por lo que será responsabilidad de esta los daños o deterioros que sufran los mismos.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)
 
 ###### Artículo 140.
 
-El levantamiento de la clausura será ordenado por la autoridad que la decretó, una vez que se haya efectuado el pago de las multas respectivas y corregido las situaciones que originaron la clausura correspondiente.
-
-Se instruirá al personal que habrá de llevar a cabo el rompimiento de los sellos que se hayan colocado, por lo que se levantará al efecto acta circunstanciada por duplicado ante dos testigos designados por la persona con quien se entienda la diligencia, en caso de negativa o de que los designados no acepten fungir como testigos, el personal instruido podrá nombrarlos, haciendo constar esta situación en el acta.
-
-Un ejemplar del acta deberá ser entregada a la persona con quien se entienda la diligencia y el original quedará en poder de la autoridad ejecutora. En dicha acta se hará constar la corrección de las circunstancias que originaron la clausura y se asentarán las nuevas condiciones del establecimiento.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)
 
 ## TÍTULO VII. DE LOS RECURSOS
 
@@ -1144,3 +1070,19 @@ LIC. J. JESÚS ÁNGELES NÁJERA
 SECRETARIO DEL H. AYUNTAMIENTO DE SAN JUAN DEL RÍO, QRO.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+PublÍquese por una sola ocasión en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en los medios de difusión oficial precisados en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Capítulo Primero del Titulo Décimo Segundo del Reglamento de Policía y Gobierno Municipal; los artículos 47, 48. 49, 52, 53, 54, 55 y el segundo párrafo del artículo 67 del Reglamento de Protección Civil; el Capítulo Octavo del Reglamento de Almacenaje, Venta. Porteo y Consumo de Bebidas Alcohólicas; el Capítulo Primero del Título Quinto del Reglamento de Espectáculos y Diversiones Públicas; los artículos del 142 al 156 y la fracción XVI del artículo 161 del Reglamento de Ecología y Protección al Ambiente; todos del Municipio de San Juan del Rio, Querétaro, así como cada una de las disposiciones reglamentarias que contravengan al presente Reglamento.
