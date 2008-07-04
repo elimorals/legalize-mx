@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-las-personas-152
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-15"
-last_updated: "2007-10-19"
+last_updated: "2008-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 1999.
 
@@ -808,3 +810,15 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 19 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Protección y Defensa de los Derechos de las Personas Menores de Dieciocho Años de Edad y la Familia en el Estado de Baja California, Publicada en el Periódico Oficial No. 43, de fecha 15 de Octubre de 1999.
+
+TERCERO.- Los asuntos que se encuentren en trámite ante la Procuraduría, serán substanciados conforme al procedimiento previsto en la Ley anterior.
+
+CUARTO.- En todos los ordenamientos en que se haga alusión a las personas menores de dieciocho años de edad, se entenderá referida a los menores, en los términos de la presente Ley.
+
+QUINTO.- En todos los ordenamientos en que se haga alusión a la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia en el Estado, se entenderá referida a la Procuraduría para la Defensa de los Menores y la Familia en el Estado, en los términos de la presente Ley.
