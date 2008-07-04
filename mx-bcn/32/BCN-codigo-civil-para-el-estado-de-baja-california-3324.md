@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2008-04-04"
+last_updated: "2008-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3067,9 +3067,11 @@ No pueden ser nombrados tutores o curadores las personas que desempeñen cargos 
 
 Cuando fallezca una persona que ejerza la patria potestad sobre una persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia de lo Familiar que conozca el caso, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 458.
 
-La tutela es testamentaria, legítima o dativa.
+La tutela es testamentaria, legítima, pública o dativa.
 
 ###### ARTICULO 459.
 
@@ -3215,11 +3217,9 @@ La falta temporal del tutor legítimo, se suplirá en los términos establecidos
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-### CAPITULO V
+### CAPITULO V. DE LA TUTELA PUBLICA
 
-DE LA TUTELA LEGITIMA DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 483.
 
@@ -3249,25 +3249,31 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor de la persona que no tiene capacidad para comprender el significado del hecho que tenga hijos menores de dieciocho años de edad, bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de áquel derecho
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2008)</small>
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
 ###### ARTICULO 489.
 
-Las personas menores de dieciocho años de edad expósitos o abandonados quedan legalmente bajo la tutela del Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, con las obligaciones y facultades establecidas para los demás tutores.
+La tutela pública será ejercida sobre:
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+I.- Personas menores de dieciocho años de edad expósitos; y
+
+II.- Personas menores de dieciocho años de edad abandonados.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 490.
 
-Los directores de las inclusas, hospicios y demás casas de asistencia social tendrán el carácter de custodios temporales de los expósitos, abandonados o personas que no tengan la capacidad para comprender el significado del hecho, que reciban en los establecimientos a su cargo; lugares en los que estos permanecerán bajo la tutela de la Procuraduría para la defensa de las dieciocho años de edad dieciocho años de edad (sic) y la familia del Estado, hasta que esta resuelva sobre su reincorporación al seno familiar, autorice la iniciación para el trámite de adopción, asigne hogar sustituto o con base en cual otra causa legítima disponga interrumpir o poner termino a la estancia de estos en tales establecimientos.
+La tutela pública es la ejercida temporalmente por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de los Menores y la Familia, sobre menores expósitos o abandonados, hasta en tanto es resuelta la situación jurídica del menor por la autoridad jurisdiccional, con las obligaciones y facultades establecidas para los demás tutores.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+No será necesario el discernimiento del cargo para el ejercicio de la tutela pública.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 491.
 
-En el caso del artículo 489, no es necesario el discernimiento del cargo.
+Los directores de las inclusas, hospicios y demás casas de asistencia social tendrán el carácter de custodios temporales de los expósitos, abandonados o personas que no tengan la capacidad para comprender el significado del hecho, que reciban en los establecimientos a su cargo; lugares en los que estos permanecerán bajo la tutela de la procuraduría para la Defensa de los Menores y la Familia del Estado, hasta que esta resuelva sobre su reincorporación al seno familiar, autorice la iniciación para el trámite de adopción, asigne hogar sustituto o con base en otra causa legítima, disponga interrumpir o poner término a la estancia de estos en tales establecimientos.
 
 ### CAPITULO VII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
@@ -15950,3 +15956,9 @@ La presente adición entrará en vigor al día siguiente de su publicación en e
 P.O. 4 DE ABRIL DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE JULIO DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En todos los artículos del presente ordenamiento en que se haga alusión a la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia en el Estado, se entenderá referida la Procuraduría para la Defensa de los Menores y la Familia en el Estado.
