@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-del-deporte-nicolaita-54710"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-09"
-last_updated: "2007-03-09"
+last_updated: "2008-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DEL DEPORTE NICOLAITA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de marzo de 2007.
 
@@ -193,6 +193,10 @@ XXXVI. Establecer comités deportivos para lograr una mejor vinculación con la 
 
 XXXVII. Prestar todos aquellos servicios e implementar los demás programas que estén encaminados al cumplimiento de los objetivos del Instituto.
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+XXXVIII. Los recursos que obtenga del cobro de cuotas de recuperación aprobadas por el Consejo Directivo.
+
 ### CAPÍTULO TERCERO. DE LOS ÓRGANOS DEL INSTITUTO
 
 ###### ARTÍCULO 10.
@@ -257,29 +261,57 @@ XVII. Promover el mejoramiento técnico, administrativo y patrimonial del Instit
 
 EL Consejo Directivo del Instituto se integrará de la siguiente manera:
 
-I. Una o un Presidente, que será la o el Presidente Municipal.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-II. Una o un Secretario técnico, que será la o el Director General de Instituto.
+I. Una o un Presidente que será el Director General del Instituto.
 
-III. Cuatro Consejeros nombrados por el R. Ayuntamiento a propuesta de la Comisión del Deporte, que serán distinguidas personalidades del deporte nicolaíta y que residan en el Municipio, dos mujeres y dos varones, integrantes de organismos públicos o de la sociedad civil, que se hayan destacado por su labor en el deporte, que sean representativos de la sociedad o avalados por organizaciones civiles. Los Consejeros durarán en su cargo un período de tres años, el cual deberá coincidir con el ejercicio del Ayuntamiento, pudiendo ser ratificados; en los casos que el nombramiento de Consejeros recaiga en integrantes de organismos públicos, sí durasen en su cargo por un tiempo menor a los tres años la función que desempeñen en los organismos públicos correspondientes, deberán ser sustituidos mediante nuevo nombramiento.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+II. Una o un Secretario Técnico que será un funcionario o empleado del Instituto designado por el Director General;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2008)</small>
+
+III. Cuatro Consejeros nombrados por el R. Ayuntamiento a propuesta de la Comisión de Deportes, que serán representantes de organismos públicos o de la sociedad civil, que se hayan destacado por su labor en el deporte, que sean representativos de la sociedad o avalados por organizaciones civiles. Los consejeros durarán en su cargo un período de tres años, el cual deberá coincidir con el ejercicio del Ayuntamiento, pudiendo ser ratificados.
 
 Los Consejeros permanecerán en su cargo hasta que el Ayuntamiento realice nuevo nombramiento.
 
-IV. Seis Vocales, que serán los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal, la Presidencia de la Comisión del Deporte, del R. Ayuntamiento, la Secretaría Técnica, la Secretaría de Desarrollo Humano, la Dirección General del Desarrollo Integral de la Familia (DIF), la Dirección de Educación y la Dirección General de Salud. Los Vocales durarán en funciones por el período del desempeño de su cargo.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+IV. Tres vocales que serán los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal: La Presidencia de la Comisión de Deportes, del R. Ayuntamiento, la Secretaría de Desarrollo Humano y la Dirección General de Salud. Los vocales durarán en funciones por el período del desempeño de su cargo.
 
 ###### ARTÍCULO 15.
 
 El funcionamiento del Consejo Directivo se sujetará a lo siguiente:
 
-I. Todos las y los miembros del Consejo Directivo tendrán derecho a voz y voto en las sesiones del mismo, con la excepción del Secretario Técnico, el cual tendrá sólo derecho a voz.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
-II. Sesionarán en forma ordinaria cada tres meses cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año. Pudiendo además celebrar las reuniones extraordinarias que se requieran, previa convocatoria expresa del Secretario Técnico del Consejo Directivo, del Presidente Municipal, o de la mayoría de los integrantes del propio Consejo.
+I. El Presidente del Consejo dirigirá las sesiones del mismo y tendrá voto de calidad en caso de empate en la votación de acuerdos o resoluciones.
 
-III. Las sesiones se celebrarán con la asistencia de la mayoría de sus integrantes en primera convocatoria, o con la asistencia de los presentes en segunda convocatoria. Sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo el Presidente del Consejo Directivo el voto de calidad en caso de empate.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+II. Sesionarán en forma ordinaria cada tres meses cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año. Pudiendo además celebrar las reuniones extraordinarias que se requieran, previa convocatoria expresa del Secretario Técnico del Consejo Directivo, del Presidente del Consejo o de la mayoría de los integrantes del mismo.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+III. Las sesiones se celebrarán con la asistencia de la mayoría de sus integrantes en primera convocatoria, o con la asistencia de los presentes en segunda convocatoria. Sus resoluciones se tomarán por mayoría de votos de los presentes.
 
 IV. De cada sesión se formulará un acta que contenga los pormenores de los acuerdos tomados y que deberá ser firmada por los asistentes, o al menos por quien la haya presidido y por el Secretario Técnico del Consejo Directivo quién será responsable de la formulación y custodia de las actas.
 
-V. En ausencia de la o el Presidente Municipal presidirá las sesiones del Consejo Directivo la o el Secretario de Desarrollo Humano.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+V. En ausencia de la o el Presidente del Consejo presidirá las sesiones, la o el Secretario Técnico.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VI. En ausencia del Secretario Técnico, auxiliará al Presidente del Consejo, el Vocal Presidente de la Comisión de Deportes del R. Ayuntamiento, o en su defecto, cualquier otro vocal que así lo designe el Presidente del Consejo.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VII.- El Secretario Técnico tendrá el derecho a voz, más no a voto, y auxiliará al Presidente del Consejo en la conducción de las sesiones. Tomará nota de los acuerdo del Consejo y elaborará el acta respectiva.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2008)</small>
+
+VIII.- Los consejeros y los vocales, tendrán derecho a voz y voto en las sesiones del mismo.
 
 ###### ARTÍCULO 16.
 
@@ -305,7 +337,9 @@ El Director General, en el ámbito administrativo, acordará directamente con el
 
 La Dirección General tendrá las siguientes atribuciones y responsabilidades:
 
-I. Ejecutar los acuerdos del Consejo Directivo y fungir como Secretario Técnico de dicho órgano.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+
+I. Ejecutar los acuerdos del Consejo Directivo y fungir como Presidente de dicho órgano.
 
 II. Proponer al Consejo Directivo; programas y acciones que deba desarrollar el Instituto, así como ejecutarlos.
 
@@ -423,9 +457,11 @@ En la disposición sobre sus bienes muebles e inmuebles, el Instituto se regirá
 
 En el Presupuesto de Egresos del municipio, que anualmente apruebe el R. Ayuntamiento, se fijará el monto anual que como transferencia corresponderá al Instituto, sin perjuicio de que le sean asignados recursos adicionales.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 31.
 
-La Secretaría de Finanzas y Tesorería realizará ministraciones iguales trimestrales cuatro veces al año a la cuenta del Instituto dentro de los primeros diez días de los meses de enero, abril, julio y octubre.
+La Secretaría de Finanzas y Tesorería Municipal realizará las ministraciones iguales mensualmente a la cuenta del Instituto, dentro de los primeros diez días de cada mes.
 
 ###### ARTÍCULO 32.
 
@@ -506,3 +542,11 @@ LIC. CAMILO RAMÍREZ PUENTE
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León a los 8-ocho días del mes de Marzo del 2007-dos mil siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
