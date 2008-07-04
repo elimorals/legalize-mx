@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-transparencia-y-acceso-a-la-informacion-32479"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-06"
-last_updated: "2003-06-06"
+last_updated: "2008-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "COA"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE TORREON, COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL BUEN GOBIERNO DEL MUNICIPIO DE TORREON, COAHUILA, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 6 de junio de 2003.
 
@@ -666,3 +668,27 @@ Séptimo.- Los sujetos obligados deberán, a más tardar seis meses posteriores 
 Octavo.- A más tardar un mes posterior a la entrada en vigor del presente Reglamento, en sesión de cabildo se acordará el Presupuesto correspondiente para permitir la integración y funcionamiento adecuado del Instituto de Transparencia Municipal.
 
 Presentado en la Ciudad de Torreón, Coahuila, a los trece días del mes de febrero del año dos mil tres.- El Presidente Municipal, Lic. José Guillermo Anaya Llamas.- El Secretario del Ayuntamiento, Lic. Alfonso Tafoya Aguilar.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal o el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 30 días a partir de la entrada en vigor de este Reglamento, se lanzará la convocatoria para la selección de los Comisionados Ciudadanos que integrarán el Instituto Ciudadano para el Buen Gobierno del Municipio de Torreón, Coahuila. Los primeros nombramientos de Comisionados Ciudadanos se harán con vigencias escalonadas de manera que no todos los Comisionados Ciudadanos terminen su periodo el mismo año, bajo las siguientes reglas:
+
+Se nombrarán dos Comisionados Ciudadanos cuyo periodo será de dos años, sin derecho a reelección.
+
+Se nombrarán tres Comisionados Ciudadanos cuyo periodo será de Cuatro años, con derecho a ser reelectos para otro periodo igual.
+
+Posteriormente, los Comisionados Ciudadanos se nombrarán por períodos de cuatro años, en los términos de los artículos 9 y 10 de este Reglamento.
+
+TERCERO.- Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Torreón, Coahuila y en consecuencia, desaparece el Instituto de Transparencia Municipal.
+
+CUARTO.- Los bienes muebles e inmuebles que estén en posesión del Instituto de Transparencia Municipal, así como el personal a su cargo, pasarán a formar parte del Instituto Ciudadano para el Buen Gobierno del Municipio de Torreón.
+
+QUINTO.- El presupuesto para el ejercicio 2008 que estaba asignado al Instituto de Transparencia Municipal, y que no haya sido ejercido, se asignará al Instituto para el Buen Gobierno del Municipio de Torreón, Coahuila, para el mismo ejercicio fiscal.
+
+SEXTO.- En tanto el Congreso del Estado de Coahuila determina respecto a la creación del órgano descentralizado "Instituto Ciudadano para el Buen Gobierno del Municipio de Torreón, Coahuila" dicho Instituto se formará como un órgano desconcentrado del R. Ayuntamiento, con autonomía operativa, presupuestaria y de decisión.
+
+SÉPTIMO.- En un plazo de 60 días posteriores a la entrada en vigor de este Reglamento, en su caso, el Cabildo determinará las modificaciones al Reglamento de Justicia Municipal y demás disposiciones jurídicas aplicables, con la finalidad de que prevean sanciones a los funcionarios públicos que reiteradamente no acaten las recomendaciones emitidas por el Instituto Ciudadano para el Buen Gobierno de Torreón, Coahuila.
