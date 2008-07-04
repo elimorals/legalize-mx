@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-almacenaje-venta-porteo-y-consumo-de-bebidas-4388
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-11"
-last_updated: "2005-02-11"
+last_updated: "2008-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO DE ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 11 de febrero de 2005.
 
@@ -493,6 +493,8 @@ Cuando en el ejercicio de sus funciones el personal facultado para realizar insp
 
 En todo caso, la autoridad dará parte al Ministerio Público remitiendo a las personas y bienes asegurados.
 
+> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE INSPECCION Y VERIFICACION PARA EL MUNICIPIO DE SAN JUAN DEL RIO, QUERETARO, P.O. 4 DE JULIO DE 2008)</small>
+
 ### CAPÍTULO VIII. De las Visitas de Verificación o Inspección
 
 ###### Artículo 34.
@@ -805,7 +807,7 @@ PRIMERO.- Se instruye al Secretario del Ayuntamiento para que publique el presen
 
 SEGUNDO.- Una vez aprobado el presente Dictamen remítase el expediente a la Secretaría del Ayuntamiento como asunto totalmente concluido.
 
-SEGUNDO.- SE INSTRUYE AL SECRETARIO DEL H. AYUNTAMIENTO, PARA QUE DE CONFORMIDAD CON LO ESTABLECIDO EN LOS ARTÍCULOS 130, 131 Y 132 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN JUAN DEL RÍO, QRO., PUBLIQUE EL PRESENTE ACUERDO, ASÍ COMO EL "REGLAMENTO DE ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS EN EL MUNICIPIO DE SAN JUAN DEL RÍO, QRO.", EN LA GACETA MUNICIPAL DE SAN JUAN DEL RÍO, QRO., PARA CONOCIMIENTO Y OBSERVANCIA GENERAL, POR UNA SOLA OCASIÓN, ASI COMO EN LUGARES VISIBLES DE LA PRESIDENCIA MUNICIPAL
+SEGUNDO (SIC).- SE INSTRUYE AL SECRETARIO DEL H. AYUNTAMIENTO, PARA QUE DE CONFORMIDAD CON LO ESTABLECIDO EN LOS ARTÍCULOS 130, 131 Y 132 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN JUAN DEL RÍO, QRO., PUBLIQUE EL PRESENTE ACUERDO, ASÍ COMO EL "REGLAMENTO DE ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS EN EL MUNICIPIO DE SAN JUAN DEL RÍO, QRO.", EN LA GACETA MUNICIPAL DE SAN JUAN DEL RÍO, QRO., PARA CONOCIMIENTO Y OBSERVANCIA GENERAL, POR UNA SOLA OCASIÓN, ASI COMO EN LUGARES VISIBLES DE LA PRESIDENCIA MUNICIPAL
 
 TERCERO.- SE INSTRUYE AL SECRETARIO DEL H. AYUNTAMIENTO, PARA QUE, DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 47 FRACCIÓN VII DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO, REMITA EL PRESENTE ACUERDO AL EJECUTIVO DEL ESTADO, LIC. FRANCISCO GARRIDO PATRÓN, A TRAVÉS DE LA DIRECCIÓN JURÍDICA DE GOBIERNO DEL ESTADO Y DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 9 FRACCIÓN XI DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE SAN JUAN DEL RÍO, QRO., ORDENE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DE GOBIERNO DEL ESTADO "LA SOMBRA DE ARTEAGA".
 
@@ -826,3 +828,19 @@ LIC. J. JESÚS ÁNGELES NÁJERA
 SECRETARIO DEL H. AYUNTAMIENTO DE SAN JUAN DEL RÍO, QRO.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese por una sola ocasión en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en los medios de difusión oficial precisados en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Capítulo Primero del Título Décimo Segundo del Reglamento de Policía y gobierno Municipal; los artículos 47, 48, 49, 52, 53, 54, 55 Y el segundo párrafo del artículo 67 del Reglamento de Protección Civil; el Capítulo Octavo del Reglamento de Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas; el Capítulo Primero Título Quinto del Reglamento de Espectáculos y Diversiones Públicas; los artículos del 142 al 156 y la fracción XVI artículo 161 del Reglamento de Ecología y Protección al Ambiente; todos del Municipio de San Juan del Río, Querétaro, así como cada una de las disposiciones reglamentarias que contravengan al presente Reglamento.
