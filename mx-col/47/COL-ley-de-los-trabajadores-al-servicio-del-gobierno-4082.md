@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2006-09-23"
+last_updated: "2008-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -1045,7 +1045,9 @@ II.- Por resolución de la asamblea de trabajadores tomada por acuerdo de la may
 
 III.- Por alguna de las causales previstas por los artículos 125 y 128 de esta Ley; y
 
-IV.- Por laudo del Tribunal que, a solicitud de las partes y con la conformidad de éstas, se avoque al conocimiento del asunto.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+IV. Por laudo del Tribunal que, a solicitud de los trabajadores en huelga, se avoque al conocimiento del asunto.
 
 ###### ARTICULO 131.
 
@@ -1193,9 +1195,11 @@ La audiencia se iniciará con la intervención del Magistrado comisionado que ha
 
 En caso de no lograrse el arreglo conciliatorio, el Magistrado comisionado tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para la ratificación o ampliación de la demanda. En el caso de que se ejerciten nuevas acciones o se adicionen hechos substanciales a los narrados en la demanda, se suspenderá la audiencia para dar conocimiento a los demandados de los nuevos conceptos, fijándose el término previsto en el Artículo 148 de esta Ley, para que manifiesten lo que a su derecho convenga y se fije la fecha para la reanudación de la audiencia, a partir del momento en que ocurrió la suspensión decretada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 152.
 
-Concluída la intervención de la parte actora o transcurrido el plazo mencionado en el artículo anterior, se concederá el uso de la palabra a la parte demandada para que por sí o por conducto del representante legal, ratifique o rectifique lo aseverado en la contestación producida, procediendo de inmediato a abrir la etapa del ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin más limitaciones que las derivadas de la existencia, factibilidad o posibilidad de su desahogo en forma física por los servidores del Tribunal.
+Concluida la intervención de la parte actora o transcurrido el plazo mencionado en el articulo anterior, se concederá el uso de la palabra a la parte demandada para que por sí o por conducto del representante legal, ratifique o amplíe lo aseverado en la contestación producida, procediendo de inmediato a abrir la etapa del ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin mas limitaciones que las derivadas de la existencia, factibilidad o posibilidad de su desahogo en forma física por los servidores del Tribunal.
 
 Los Titulares de la Entidad o dependencia, a juicio del Tribunal, en el ofrecimiento de la prueba testimonial, podrán rendir su declaración por medio de oficio.
 
@@ -1404,3 +1408,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 23 DE SEPTIEMBRE DE 2006.
 
 PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
