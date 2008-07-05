@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-del-estado-de-jalisco-y-sus-municipios-131
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-16"
-last_updated: "2003-12-30"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de enero de 1997.
 
@@ -161,6 +161,14 @@ VIII. Solicitar a las entidades públicas los informes necesarios para verificar
 
 Las facultades a que se refieren las fracciones IV, VI y VIII de este artículo, serán ejercidas por las Comisiones de Hacienda y Presupuestos y de Inspección del Congreso, y en su caso, según corresponda, por la Auditoría Superior del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
+
+###### Artículo 11 Bis.
+
+La Auditoria Superior podrá solicitar a las entidades públicas los informes necesarios para verificar que las operaciones de endeudamiento se realicen conforme a las disposiciones legales aplicables, formulando las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar.
+
 ###### Artículo 12.
 
 El titular del Poder Ejecutivo del Estado tendrá las siguientes facultades y obligaciones:
@@ -191,7 +199,11 @@ II. Son obligaciones:
 
 a) Enviar al H. Congreso del Estado las iniciativas de Ley de Ingresos y Presupuesto de Egresos del Estado, los que deberán incluir un programa financiero anual, que con base al mismo se maneje la deuda pública y señalará los montos de endeudamiento neto necesarios para cubrir los requerimientos del ejercicio fiscal correspondiente, debiendo contener además los elementos de juicio que los sustenten y la mención expresa de las partidas del presupuesto de egresos destinados al servicio de la deuda;
 
-b) Informar al Congreso del Estado, al rendir la cuenta pública correspondiente, de la situación que guarda la deuda pública estatal; a dicho informe se acompañará la documentación soporte y deberá contener:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+
+b) Informar a la Auditoria Superior, a rendir la cuenta pública correspondiente de la situación que guarda la deuda pública estatal; a dicho informe se acompañará la documentación soporte y deberá contener:
 
 1. El origen y condiciones de la operación de la deuda, tales como: los montos de financiamiento contratados, los organismos que contrataron, los plazos, las tasas de interés, los períodos de gracia y las garantías;
 
@@ -205,9 +217,11 @@ d) Llevar el registro de las obligaciones derivadas de la contratación de empr�
 
 e) Vigilar que la capacidad de pago de las entidades públicas estatales, que contraten financiamientos, sea suficiente para cubrir puntualmente los compromisos que contraigan;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-f) Comunicar al Congreso del Estado a través de la Auditoría Superior del Estado, en un plazo no mayor de treinta días hábiles, todos los datos relacionados con las operaciones financieras derivados de obligaciones contingentes; y
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+f) Comunicar a la Auditoría Superior del Estado, en un plazo no mayor de treinta días hábiles, todos los datos relacionados con las operaciones financieras derivados de las obligaciones contingentes, y
 
 g) Asesorar a los municipios y a sus entidades públicas, en la formulación de sus programas financieros y en todo lo relativo a la obtención de recursos por las operaciones financieras que realicen, y
 
@@ -229,7 +243,17 @@ I. Son facultades:
 
 a) Autorizar con el acuerdo de las dos terceras partes de los miembros del Ayuntamiento, la contratación de empréstitos directos adicionales a los que se refiere el inciso a) de la fracción II de este artículo y, en su caso, afectar en garantía de pago, las participaciones del municipio en impuestos federales y estatales;
 
-c) Aprobar la reestructuración de sus empréstitos y la de sus entidades, notificando al Congreso del Estado, con la justificación que avale su decisión, en un plazo de treinta días;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
+
+b) Aprobar la suscripción de actos, contratos y convenios que tengan por objeto la obtención de empréstito y demás operaciones de deuda pública. Remitiéndolos para efecto de registro, fiscalización y revisión a la Auditoría Superior, incluyendo las obligaciones derivadas de la deuda pública contingente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+c) Aprobar la reestructuración de sus empréstitos y la de sus entidades, notificando a la Auditoria Superior, con la justificación que avale la decisión, en un plazo de treinta días;
 
 (REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 19 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
 
@@ -241,11 +265,25 @@ f) Las demás que en materia de deuda pública le correspondan;
 
 II. Son obligaciones:
 
-a) Elaborar y aprobar sus programas financieros anuales dentro de sus presupuestos de egresos, que incluirán todas las operaciones de deuda pública a que se refiere esta Ley, remitiéndolos al Congreso del Estado para efectos de registro;
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBE EL CONTENIDO DEL PRESENTE INCISO, CONFORME A SU PUBLICACION EN EL P.O. DE 5 DE JULIO DE 2008.</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE JALISCO, http://congresojal.gob.mx/BibliotecaVirtual/</small>
 
-b) Informar al Congreso del Estado, por conducto de la Auditoría Superior del Estado, al remitir la cuenta pública correspondiente, de la situación que guarda la deuda pública municipal; a dichos informes se acompañará la documentación soporte y deberá contener:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+a) Elaborar y aprobar sus programas financieros anuales dentro de sus presupuestos de egresos, que incluirán todas las operaciones de deuda pública a que se refiere esta ley, remitiéndolos al Congreso del Estado para efectos de su registro y a la Auditoría Superior incluyendo las obligaciones derivadas de la deuda pública contingente;
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+a) (sic) Elaborar y aprobar sus programas financieros anuales dentro de sus presupuestos de egresos que incluirá todas las operaciones de deuda pública a que se refiere esta ley, remitiéndolos al Congreso del Estado para efectos de registro a la Auditoría Superior;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+b) Informar a la Auditoría Superior del Estado, al remitir la cuenta pública correspondiente, de la situación que guarda la deuda pública municipal (sic) dichos informes se acompañará la documentación soporte y deberá contener:
 
 > <small>(F. DE E., P.O. 13 DE MARZO DE 2001)</small>
 
@@ -475,21 +513,27 @@ I. Llevar sus propios registros de los empréstitos que contraten y proporcionar
 
 II. Informar anualmente a la Secretaría de Finanzas, el saldo de su deuda pública dentro de los primeros dos meses siguientes al ejercicio fiscal correspondientes, y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Proporcionar los informes necesarios al Congreso del Estado, por conducto de la Auditoría Superior del Estado, dentro de los treinta días siguientes a la fecha en que se celebró el contrato para los efectos de revisión y fiscalización.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+III. Proporcionar los informes necesarios a la Auditoría Superior del Estado, dentro de los treinta días siguientes a la fecha en que se celebró el contrato, para los efectos (sic) revisión y fiscalización.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Artículo 40.
 
-El Congreso del Estado por conducto de la Auditoría Superior del Estado, llevará un registro de todas las operaciones de deuda estatal o municipal y de sus entidades; debiéndose asentar en el mismo los datos que para el Registro Estatal establece esta Ley. Así mismo analizará los endeudamientos que vayan contrayendo y les requerirá por la presentación de un análisis respecto de su deuda. Cuando de los datos registrados se estime que pueda estar en peligro su capacidad de pago y en tanto que dicha información no sea desahogada y adecuadamente soportada financieramente, éste podrá rehusar la inscripción de nuevas suscripciones de operaciones de endeudamiento, resolución que deberá ser comunicada oportunamente a la entidad de que se trate.
+La Auditoria Superior del Estado, llevará un registro de todas las operaciones de deuda estatal o municipal y de sus entidades; debiéndose asentar en el mismo los datos que para el Registro Estatal establece esta Ley. Así mismo analizará los endeudamientos que vayan contrayendo y les requerirá por la presentación de un análisis respecto de su deuda. Cuando de los datos registrados se estime que pueda estar en peligro su capacidad de pago y en tanto que dicha información no sea desahogada y adecuadamente soportada financieramente, ésta podrá rehusar la inscripción de nuevas suscripciones de operaciones de endeudamiento, resolución que deba ser comunicada oportunamente a la entidad de que se trate.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Artículo 41.
 
-El Ejecutivo del Estado, los Ayuntamientos y el Congreso del Estado, podrán establecer convenios de colaboración administrativa para la integración de sus respectivos registros.
+El Ejecutivo del Estado, los ayuntamientos, el Congreso del Estado y la Auditoría Superior, podrán establecer convenios de colaboración administrativa para la integración de sus respectivos registros.
 
 TRANSITORIOS:
 
@@ -554,3 +598,29 @@ Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar p
 SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
 
 OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
+
+P.O. 5 DE JULIO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
+
+Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Jalisco publicada en el periódico oficial El Estado de Jalisco, el 30 de diciembre de 2003 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Tercero. El actual Auditor Superior del Estado, durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado. Para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
+
+Cuarto. En caso de no haber designación de Auditor Superior del Estado al día primero de agosto de 2008, el actual titular continuará en el cargo, en tanto no sea electo uno nuevo o no sea aprobado el actual conforme los procedimientos establecidos en la ley.
+
+Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco. La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley. Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
+
+En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
+
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+
+Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto. Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoria Superior del Estado.
+
+Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
