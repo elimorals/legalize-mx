@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2008-07-03"
+last_updated: "2008-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -273,35 +273,33 @@ b) Para elegir a los magistrados del Poder Judicial del Estado y a los integrant
 
 c) Para elegir a los integrantes de los concejos municipales en los casos que esta Constitución dispone;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-III. La organización de los procesos electorales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, en los términos que ordene la ley;
+III. La organización de los procesos electorales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana del estado de Jalisco, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, en los términos que ordene la ley, y (sic)
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-IV. El Instituto Electoral del Estado será autoridad en la materia, independiente en sus decisiones y funcionamiento, profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Pleno del Instituto será su órgano superior de dirección y estará conformado por siete consejeros electorales con derecho a voz y voto. Se integra también por los consejeros del Poder Legislativo, los representantes de los partidos políticos y el Secretario Ejecutivo, los cuales sólo tendrán derecho a voz.
+IV. El Instituto Electoral y de Participación Ciudadana del estado de Jalisco será autoridad en la materia, independiente en sus decisiones y funcionamiento, profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y estará conformado por un Consejero Presidente y seis consejeros electorales con derecho a voz y voto. Se integra también por los consejeros del Poder Legislativo, los representantes de los partidos políticos y el Secretario Ejecutivo, los cuales sólo tendrán derecho a voz.
 
-La ley determinará las reglas para la organización, funcionamiento y jerarquía de los órganos de dicho Instituto. Las instancias ejecutivas y técnicas dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la Ley Electoral y del estatuto que con base en ella apruebe el Instituto, regirán las relaciones de trabajo de los servidores del organismo público autónomo. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos;
+La ley determinará las reglas para la organización, funcionamiento y jerarquía de los órganos de dicho Instituto. Las instancias ejecutivas y técnicas dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley y del estatuto que con base en ella apruebe el Instituto, regirán las relaciones de trabajo de los servidores del organismo;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-V. Los consejeros electorales del Instituto Electoral serán electos sucesivamente, mediante el voto de las dos terceras partes de los integrantes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa consulta a la sociedad, de conformidad con lo que establezca la ley. Conforme al mismo procedimiento, por cada consejero electoral propietario, se elegirá a su suplente.
+V. El Consejero Presidente durará en su cargo tres años. Los consejeros electorales se renovarán de manera escalonada y durarán en su cargo tres años. Uno y otros serán electos por el voto de las dos terceras partes de los miembros que integran el Congreso del Estado, a propuesta de los grupos parlamentarios y previa consulta a la sociedad, de conformidad con lo que establezca la ley.
 
-Los consejeros electorales del Instituto Electoral, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función de conformidad a lo establecido en la ley.
+Una vez concluido el periodo para el que fueron electos tanto el Consejero Presidente como los consejeros electorales con derecho a voz y voto, podrán participar por una sola ocasión en el procedimiento que determine el Congreso del Estado para la elección de los nuevos consejeros, en igualdad de condiciones que los demás aspirantes.
 
-Los consejeros electorales del Instituto Electoral durarán en su cargo cinco años, podrán ser reelectos para un período inmediato conforme al procedimiento que determine la ley y no podrán tener ningún otro empleo, cargo o comisión, que implique subordinación, ya sea directa o indirecta, hacia alguna persona o entidad, pública o privada, que pueda lesionar el desempeño de su cargo, conforme a los principios rectores de la función electoral que establece esta Constitución.
+De darse la falta absoluta del Consejero Presidente o de cualquiera de los consejeros electorales, el sustituto será electo para concluir el periodo de la vacante, por el voto de las dos terceras partes de los miembros que integran el Congreso.
 
-No podrán ser consejeros electorales (sic) Instituto Electoral quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, dentro de los cinco años anteriores a la fecha en que deban ser electos por el Congreso.
+El Consejero Presidente y los consejeros electorales percibirán una remuneración igual a la prevista para los magistrados del Poder Judicial del Estado. No podrán tener otro empleo, cargo o comisión, que implique subordinación, ya sea directa o indirecta, hacia persona alguna o entidad pública o privada, que pueda lesionar el desempeño de su cargo, conforme a los principios rectores de la función electoral que establece esta Constitución, con excepción de aquellos en que actúen en representación del Instituto, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o beneficencia, no remunerados.
 
-Los consejeros electorales del Instituto Electoral, no podrán ocupar cargos públicos sino transcurridos dos años después de haberse separado del cargo, ni cargo de elección popular en el siguiente proceso electoral local.
+No podrán ser designados como Consejero Presidente ni como consejeros electorales del Instituto Electoral, quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, dentro de los cinco años anteriores a la fecha en que deban ser electos por el Congreso.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+El Consejero Presidente y los consejeros electorales del Instituto Electoral con derecho a voz y voto, no podrán ocupar cargos públicos sino transcurridos dos años después de haberse separado del cargo, ni cargo de elección popular en el siguiente proceso electoral local;
 
-VI. Los consejeros electorales del Instituto Electoral elegirán, de entre ellos mismos, por el voto de cuando menos cuatro de sus consejeros, a un Presidente. En caso de que transcurridas tres votaciones, ninguno de los consejeros electorales alcanzare la mayoría requerida, será el Congreso del Estado el que, mediante el voto de las dos terceras partes de sus integrantes elija, de entre los consejeros electorales, al Presidente del Instituto Electoral.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>(F. DE E., P.O. 1 DE JULIO DE 2006)</small>
-
-La remoción del Presidente del Instituto Electoral, será facultad exclusiva del Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, en los términos y bajo las condiciones que fije la ley;
+VI. La remoción del Consejero Presidente y de los consejeros electorales del Instituto Electoral, será facultad exclusiva del Congreso del Estado, mediante el voto de las dos terceras partes de los diputados que lo integran, en los términos y bajo las condiciones que fije la ley;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
@@ -319,13 +317,43 @@ Así mismo, tendrá a su cargo la realización de los procesos de plebiscito y r
 
 Las sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la ley;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-IX. A la iniciativa de Presupuesto de Egresos del Estado de Jalisco, se deberá adjuntar invariablemente, para su valoración, el proyecto de presupuesto elaborado por el Instituto Electoral; y
+IX. A la iniciativa de Presupuesto de Egresos del estado de Jalisco, se deberá adjuntar el proyecto de presupuesto elaborado por el Instituto Electoral y de Participación Ciudadana del estado de Jalisco;
 
 X. Para garantizar el principio de legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos.
 
-En materia electoral la interposición de los medios de impugnación, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+En materia electoral la interposición de los medios de impugnación, no producirá efectos suspensivos sobre la resolución o el acto impugnado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XI. El Instituto Electoral y de Participación Ciudadana del estado de Jalisco, previa justificación y con la aprobación de las dos terceras partes de los diputados que integran el Congreso del Estado, podrá convenir con el Instituto Federal Electoral para que éste último asuma la organización de procesos electorales locales en los términos que disponga la legislación aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XII. El Instituto Electoral y de Participación Ciudadana del estado de Jalisco deberá solicitar la colaboración del Instituto Federal Electoral a fin de superar el secreto bancario, fiduciario y fiscal en los actos de fiscalización que realice a las finanzas de los partidos políticos, en términos del penúltimo y antepenúltimo párrafos de la fracción V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El Instituto Electoral y de Participación Ciudadana del estado de Jalisco contará con una Contraloría Interna con autonomía técnica y de gestión, para que realice la fiscalización y vigilancia de los ingresos y egresos. El Contralor Interno será designado por las dos terceras partes de los diputados que integran el Congreso del Estado, bajo el procedimiento previsto en la ley, en la que se establecerán los requisitos que deberá reunir. Durará en su cargo tres años, y una vez concluido el periodo para el que fue designado, podrá participar por una sola ocasión en el procedimiento que determine el Congreso del Estado para la designación del nuevo Contralor Interno, en igualdad de condiciones a los demás aspirantes. La remoción de este funcionario será facultad del Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, en los términos y condiciones que fije la ley.
+
+El Instituto Electoral y de Participación Ciudadana del estado de Jalisco contará con un Órgano Técnico de Fiscalización de las Finanzas de los Partidos Políticos, con autonomía técnica y de gestión.
+
+La ley establecerá el procedimiento para su designación, los requisitos que deberá reunir el titular, así como la integración y funcionamiento de dicho Órgano Técnico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XIII. El Instituto Electoral y de Participación Ciudadana del estado de Jalisco, solicitará al Instituto Federal Electoral le asigne tiempos en radio y televisión para el cumplimiento de sus fines, en términos de lo dispuesto por el artículo 41, fracción III, apartado A, inciso g) y apartado B, párrafo último, de la Constitución Política de los Estados Unidos Mexicanos y por el Código Federal de Instituciones y Procedimientos Electorales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XIV. La ley señalará los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XV. La ley fijará las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XVI. Las elecciones deberán realizarse el primer domingo de julio del año que corresponda.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -337,49 +365,73 @@ En materia electoral la interposición de los medios de impugnación, no produci
 
 Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida política y permitir el acceso de éstos, a la integración de los órganos de representación estatal y municipal.
 
-La Ley Electoral determinará en el ámbito estatal el procedimiento para su constitución y reconocimiento, así como sus derechos, obligaciones, prerrogativas y las formas específicas de su intervención en los procesos electorales, conforme a las siguientes bases:
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+Para el ejercicio de sus derechos político-electorales, sólo los ciudadanos jaliscienses podrán organizarse y afiliarse libre e individualmente a partidos políticos, en los términos previstos por esta Constitución y la ley de la materia. Por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos, y cualquier forma de afiliación corporativa.
 
-Para el ejercicio de sus derechos político-electorales, los ciudadanos jaliscienses podrán organizarse y afiliarse libremente en partidos y agrupaciones políticas, en los términos previstos por esta Constitución y la ley de la materia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
+
+Sólo los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2.°, apartado A, fracciones III y VII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+
+La ley determinará, en el ámbito estatal, el procedimiento para la constitución y reconocimiento de los partidos políticos, la forma de acreditación de los partidos políticos nacionales, el registro de los partidos políticos estatales, los supuestos de pérdida de registro y acreditación, así como sus derechos, obligaciones, prerrogativas y las formas específicas de su intervención en los procesos electorales, los procedimientos para liquidar sus obligaciones, destino y adjudicación de bienes y remanentes a favor del Estado o Instituto Electoral en los casos de pérdida de registro o acreditación, conforme a las siguientes bases:
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 I. Los partidos políticos con registro gozarán de personalidad jurídica para todos los efectos legales. Deberán respetar la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-II. Para que un partido político estatal mantenga su registro y prerrogativas deberá obtener, cuando menos, el tres por ciento de la votación, sin considerar para tal efecto los votos nulos y los de candidatos no registrados en las elecciones de diputados por el principio de mayoría relativa;
+II. Para que un partido político estatal mantenga su registro, o partido político nacional sus prerrogativas estatales, deberá obtener cuando menos, el tres punto cinco por ciento de la votación, sin considerar para tal efecto los votos nulos y los de candidatos no registrados, en las elecciones de diputados por el principio de mayoría relativa;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+III. (DEROGADA, P.O. 5 DE JULIO DE 2008)
 
-III. El Gobierno del Estado garantizará en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+IV. La ley establecerá las condiciones y mecanismos para que los partidos políticos tengan acceso al financiamiento público destinado al cumplimiento de sus fines. El financiamiento público para los partidos políticos que mantengan su registro o acreditación después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto en año de elecciones, así como para actividades específicas, y se otorgarán conforme a las bases siguientes y lo que disponga la ley:
 
-IV. Sólo los partidos políticos estatales o nacionales que hubiesen obtenido o acreditado su registro conforme a lo dispuesto en la Ley Electoral, podrán participar en las elecciones de diputados, gobernador, presidentes municipales, regidores y síndicos de los ayuntamientos;
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de los ciudadanos inscritos en el padrón electoral en el estado de Jalisco, por el sesenta y cinco por ciento del salario mínimo diario vigente para la zona metropolitana de Guadalajara. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan gobernador, diputados locales y ayuntamientos, equivaldrá al sesenta por ciento del financiamiento público que corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados locales y ayuntamientos, equivaldrá al cuarenta por ciento del financiamiento por actividades ordinarias. Este financiamiento se otorgará independientemente del que corresponda conforme al inciso anterior, y
 
-V. La Ley Electoral establecerá las condiciones y mecanismos para que los partidos políticos tengan acceso al financiamiento público destinado al cumplimiento de sus fines. El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a las bases siguientes:
+c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior. Este financiamiento se otorgará independientemente del que corresponda conforme a los dos incisos anteriores;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-a) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales se fijará cada tres años, aplicando los costos mínimos de campaña calculados por el órgano superior de dirección del Instituto Electoral del Estado, que tomará en cuenta el número de diputados a elegir, de ayuntamientos a renovar, el número de partidos políticos con representación en el Congreso del Estado y la duración de las campañas electorales. Para el año electoral en que se deba elegir al titular del Poder Ejecutivo, se tomará en cuenta además el costo mínimo de la campaña para la elección del Gobernador.
+V. La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, el diez por ciento del tope de gastos establecidos para la última campaña de gobernador, asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones;
 
-El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-b) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes, equivaldrá a una cantidad igual a la mitad del monto del financiamiento público que le correspondería a cada partido político por actividades tendientes a la obtención del voto durante ese año, el cual se actualizará con base en la cifra oficial de inflación que publique el Banco de México. Este financiamiento se otorgará independientemente del que corresponda conforme al inciso anterior, y
+VI. Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos, en los términos que señalen esta Constitución y la ley;
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-c) A los partidos políticos les será reintegrado un porcentaje de los gastos anuales que eroguen por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, en los términos que establezca la ley de la materia;
+VII. Los partidos políticos tendrán derecho al uso de tiempos oficiales en las estaciones de radio y canales de televisión con cobertura en el estado de Jalisco, en los términos dispuestos por el inciso i) fracción IV del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, y las demás leyes de la materia.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+El tiempo establecido como derecho de los partidos políticos se distribuirá entre los mismos conforme a lo siguiente: el treinta por ciento en forma igualitaria y el setenta por ciento restante de acuerdo a los resultados de la elección para diputados locales inmediata anterior.
 
-VI. La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control, vigilancia y transparencia del origen y uso de los recursos con que cuenten y, asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones; y
+A cada partido político sin representación en el Congreso se le asignará para radio y televisión solamente la parte correspondiente al porcentaje igualitario establecido en el inciso anterior.
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2005)</small>
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-VII. Los partidos políticos deberán regular en sus estatutos y normatividad todo lo relativo a sus precampañas de carácter interno, apegándose en todo momento a los principios que esta Constitución establece para la función electoral y conforme a ley.
+Ninguna otra persona física o moral, sea a título propio o a cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor ni en contra de partidos políticos ni de candidatos a cargos de elección popular.
+
+En la propaganda política o electoral que difundan los partidos políticos, deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos o que calumnien a las personas.
+
+Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del Estado, como de los municipios, sus organismos públicos descentralizados, y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
+La infracción a lo dispuesto en los últimos cuatro párrafos será comunicada al Instituto Federal Electoral para los efectos de las sanciones que procedan en términos del apartado D, fracción III, del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tratándose de propaganda política o electoral que difundan los partidos políticos en medios distintos a radio y televisión que denigren a las instituciones y a los propios partidos, o que calumnien a las personas, será sancionado por el Instituto Electoral en los términos que establezca la ley, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+VIII. La ley fijará las reglas para las precampañas y campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan.
+
+La duración de las campañas electorales cuando se elija gobernador no deberá exceder de noventa días, y cuando sólo se elijan diputados locales y ayuntamientos será de sesenta días.
+
+Las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -459,15 +511,21 @@ El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Es
 
 El Congreso del Estado se integrará con representantes populares electos y se renovará cada tres años, conforme al procedimiento que establezca la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 18.
 
-El Congreso se compondrá de veinte diputados electos por el principio de votación mayoritaria relativa y veinte electos según el principio de representación proporcional.
+El Congreso se compondrá de veinte diputados electos por el principio de mayoría relativa y diecinueve electos según el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Todos los diputados tendrán los mismos derechos y obligaciones y podrán organizarse en grupos parlamentarios.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
 La ley establecerá los procedimientos para la conformación de grupos parlamentarios y promoverá la coordinación de las actividades parlamentarias.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Por cada Diputado propietario electo por el principio de votación mayoritaria relativa, se elegirá un suplente. La ley establecerá el procedimiento para suplir a los diputados que se elijan según el principio de representación proporcional.
 
@@ -489,9 +547,9 @@ La ley que establezca el procedimiento aplicable para la elección de los diputa
 
 I. Un partido político, para obtener el registro de sus listas de candidatos a diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados por mayoría relativa, por lo menos en dos terceras partes del total de distritos estatales uninominales;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-II. Todo partido político que alcance cuando menos el tres punto cinco por ciento de la votación, sin considerar para tal efecto los votos nulos y los de candidatos no registrados, tendrá derecho a participar en el procedimiento de asignación de diputados según el principio de representación proporcional;
+II. Todo partido político que alcance cuando menos el tres punto cinco por ciento de la votación total emitida, tendrá derecho a participar en el procedimiento de asignación de diputados según el principio de representación proporcional;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
@@ -557,11 +615,11 @@ Los diputados suplentes sólo podrán ser electos para el período inmediato con
 
 Los diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones y nunca podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 24.
 
-El Congreso del Estado se instalará cada tres años, el día primero de febrero del año posterior al de la elección, conforme al procedimiento que se determine en su Ley Orgánica.
+El Congreso del Estado se instalará cada tres años, el día primero de noviembre del año de la elección, conforme al procedimiento que se determine en su Ley Orgánica.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2000)</small>
 
@@ -755,9 +813,9 @@ VIII. Solicitar al Instituto Electoral del Estado, someta a referéndum derogato
 
 IX. Elegir a los magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal de lo Administrativo, así como a los titulares del Consejo de la Judicatura, en la forma y términos que dispongan esta Constitución y las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-X. Designar a los ciudadanos que desempeñen los cargos de consejeros electorales ante el Instituto Electoral del Estado, en la forma y términos que establezcan la presente Constitución y la ley de la materia;
+X. Designar a los ciudadanos que desempeñen los cargos de Consejero Presidente, consejeros electorales y al titular de la Contraloría Interna, en la forma y términos que establezcan la presente Constitución y la ley de la materia;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -1013,11 +1071,11 @@ IV. No estar en servicio activo en el Ejército Nacional ni en las fuerzas de se
 
 V. No ser Secretario General de Gobierno o Secretario del Despacho del Poder Ejecutivo, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 38.
 
-El Gobernador del Estado entrará a ejercer su encargo el día primero de marzo del año posterior al de la elección; durará seis años y nunca podrá ser reelecto, ni volver a ocupar ese cargo, aun con el carácter de interino, substituto o encargado del despacho.
+El Gobernador del Estado entrará a ejercer su encargo el día seis de diciembre del año de la elección; durará seis años y nunca podrá ser reelecto, ni volver a ocupar ese cargo, aun con el carácter de interino, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1051,11 +1109,11 @@ V. Si convocado por el Congreso, el Gobernador ausente o separado de sus funcion
 
 VI. No presentarse, sin causa justificada, en la fecha en que deba tomar posesión del cargo.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 42.
 
-Si al comenzar un período constitucional la elección no se hubiera verificado o calificado, no se hubiere declarado electo al Gobernador del Estado o éste no se presentare el primero de marzo, cesará el Gobernador cuyo período hubiese concluido y desde luego se encargará del Poder Ejecutivo, en calidad de Gobernador interino, el ciudadano que designe el Congreso, mientras se hace la elección correspondiente, en los términos previstos para la ausencia absoluta del Gobernador dentro de los dos primeros años de ejercicio constitucional que establece esta Constitución.
+Si al comenzar un periodo constitucional la elección no se hubiere verificado, calificado, declarado electo al Gobernador del Estado, o éste no se presentare el seis de diciembre, cesará en funciones el Gobernador cuyo periodo concluye y desde luego se encargará del Poder Ejecutivo, en calidad de Gobernador interino, el ciudadano que designe el Congreso, mientras se hace la elección correspondiente, en los términos previstos para la ausencia absoluta del Gobernador dentro de los dos primeros años de ejercicio constitucional que establece esta Constitución.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1283,7 +1341,9 @@ La ley garantizará la independencia de los propios tribunales, la de los magist
 
 Los tribunales del Poder Judicial resolverán con plenitud de jurisdicción todas las controversias que en el ámbito de su competencia se presenten.
 
-Los magistrados, consejeros y jueces percibirán una remuneración adecuada e irrenunciable que no podrá ser disminuida durante su encargo.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Todos los magistrados que integran el Poder Judicial del estado de Jalisco recibirán el mismo salario. Consejeros y jueces percibirán una remuneración adecuada e irrenunciable que no podrá ser disminuida durante su encargo.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
@@ -1563,9 +1623,15 @@ VI. La determinación e imposición de sanciones en la materia;
 
 VII. Los conflictos o diferencias laborales entre el Tribunal y sus trabajadores;
 
-VIII. Los conflictos o diferencias laborales entre el Consejo Electoral del Estado y sus trabajadores, y,
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+VIII. Los conflictos o diferencias laborales entre el Instituto Electoral y de Participación Ciudadana del estado de Jalisco y sus trabajadores, y
 
 IX. Las demás que señale la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
+
+El Tribunal Electoral del Estado hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
@@ -1609,9 +1675,9 @@ I. Cada municipio será gobernado por un Ayuntamiento de elección popular direc
 
 II. Los ayuntamientos se integrarán por un Presidente Municipal, regidores y síndicos electos popularmente, según los principios de mayoría relativa y representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Los regidores electos por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-III. Los presidentes, regidores y síndicos durarán en su cargo tres años, a partir del día 1º de enero del año siguiente al de la elección y se renovarán en su totalidad al final de cada período. Los ayuntamientos recibirán las renuncias y licencias que soliciten sus miembros, y decidirán lo procedente;
+III. Los presidentes, regidores y síndicos durarán en su encargo tres años. Iniciarán el ejercicio de sus funciones a partir del 1.° de octubre del año de la elección y se renovarán en su totalidad al final de cada periodo. Los ayuntamientos conocerán de las solicitudes de licencias que soliciten sus integrantes y decidirán lo procedente;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -1661,11 +1727,11 @@ VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de reca
 
 IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata del funcionario encargado de las finanzas municipales, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 75.
 
-Sólo tendrán derecho a participar en el procedimiento de asignación de regidores de representación proporcional los partidos políticos que no hubieren obtenido la mayoría, siempre que hubieren registrado planillas en el número de ayuntamientos que determine la ley y obtengan cuando menos el tres punto cinco por ciento de la votación total, sin tomar en cuenta los votos nulos y los de candidatos no registrados. La ley establecerá los procedimientos y requisitos para realizar la asignación a que se refiere este artículo.
+Sólo tendrán derecho a participar en el procedimiento de asignación de regidores de representación proporcional los partidos políticos que no hubieren obtenido la mayoría, siempre que hubieren registrado planillas en el número de ayuntamientos que determine la ley y obtengan cuando menos el tres punto cinco por ciento de la votación total emitida. La ley establecerá los procedimientos y requisitos para realizar la asignación a que se refiere este artículo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2250,6 +2316,14 @@ Ninguna autoridad impondrá préstamos forzosos, ni las dependencias harán gast
 ###### Art. 116.
 
 Las relaciones laborales del Estado, de los municipios y de los organismos descentralizados de ambos con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la que deberá establecer el servicio civil de carrera, respetando las disposiciones del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Art. 116 bis. Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales los poderes públicos, los órganos autónomos, dependencias y entidades de la administración pública, los municipios, organismos públicos descentralizados y cualquier otro ente público, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -2838,3 +2912,41 @@ Cuarto. El actual Auditor Superior del Estado durará en el cargo hasta el 31 de
 Quinto. En caso de no haber designación de Auditor Superior del Estado al día 1.° de agosto de 2008, el actual titular continuará en el cargo en tanto no sea electo uno nuevo o no sea aprobado el actual conforme a los procedimientos establecidos en la ley.
 
 Sexto. Una vez que el Congreso de la Unión expida las normas a que se refiere el artículo 73, fracción XXVIII de la Constitución Política de los Estados Unidos Mexicanos, cualquier disposición constitucional estatal o reglamentaria de la misma se entenderá derogada al momento de la entrada en vigor de la legislación federal.
+
+P.O. 5 DE JULIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Para los efectos del artículo 117 de la Constitución Política del estado de Jalisco, remítase a los 125 ayuntamientos del estado, con los debates que hubiere provocado, a efecto de que remitan a esta Legislatura su voto en calidad de integrantes del poder revisor de la Constitución local.
+
+TERCERO. Para los efectos de lo establecido en la fracción V del artículo 12 de la Constitución local, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente decreto, el Congreso del Estado procederá a integrar el Consejo General del Instituto Electoral y de Participación Ciudadana del estado de Jalisco, conforme a las siguientes bases:
+
+a) Elegirá al Consejero Presidente, cuyo mandato concluirá el 31 de julio de 2011;
+
+b) Elegirá a tres consejeros electorales, que concluirán su mandato el 31 de julio de 2011, y
+
+c) Elegirá a tres consejeros electorales que concluirán su mandato el 31 de julio de 2010.
+
+Los consejeros electorales y el Consejero Presidente del Instituto Electoral del estado de Jalisco en funciones a la entrada en vigor del presente decreto, podrán participar en el procedimiento para la integración del nuevo Instituto Electoral y de Participación Ciudadana del estado de Jalisco, en igualdad de condiciones con el resto de los aspirantes, y en su caso, continuarán en sus cargos hasta en tanto el Congreso del Estado dé cumplimiento a lo dispuesto en el presente artículo.
+
+Los consejeros en funciones que opten por no participar en el proceso de integración del nuevo organismo, o que participando, no sean electos mediante el procedimiento que realice el Poder Legislativo, percibirán por concepto de indemnización la cantidad equivalente a los sueldos que hubieren devengado de haber terminado el periodo para el que fueron electos.
+
+CUARTO. El Instituto Electoral deberá elaborar, conforme a las bases que establece esta Constitución, el cálculo de financiamiento público que corresponde a los partidos políticos para los meses de julio a diciembre de 2008. Para estos efectos, se tomará como base el total de ciudadanos inscritos en el Padrón Electoral en el estado de Jalisco, con corte al mes de diciembre de 2007.
+
+QUINTO. Por única vez el Instituto Electoral deberá establecer, conforme a las bases legales que se expidan, tope de gastos de campaña para gobernador del estado en el año 2008, sólo para efecto de determinar el monto total de financiamiento privado que podrá obtener anualmente cada partido político.
+
+SEXTO. Para los efectos de la toma de posesión de los cargos de elección popular, se estará conforme a las siguientes bases:
+
+a) Los munícipes electos en el proceso 2009, entrarán en funciones el primero de enero de 2010 y concluirán su encargo el 30 de septiembre de 2012;
+
+b) Los diputados electos en el proceso 2009, entrarán en funciones el primero de febrero de 2010 y concluirán su encargo el día 31 de octubre de 2012, y
+
+c) El gobernador electo en el proceso de 2012, entrará en funciones el primero de marzo de 2013 y concluirá su encargo el día 5 de diciembre de 2018.
+
+SÉPTIMO. El Congreso del Estado deberá realizar las adecuaciones que correspondan en las leyes respectivas, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+OCTAVO. Se derogan todas las disposiciones que contravengan el presente decreto.
+
+NOVENO. El Instituto Electoral y de Participación Ciudadana del estado de Jalisco deberá realizar una evaluación de la distribución de distritos locales, con base en el censo general de población que se realice en el año 2010.
+
+DÉCIMO. El proceso electoral 2009, iniciará con la convocatoria que apruebe y publique el Instituto Electoral y de Participación Ciudadana del estado de Jalisco, en la primera semana de diciembre de 2008.
