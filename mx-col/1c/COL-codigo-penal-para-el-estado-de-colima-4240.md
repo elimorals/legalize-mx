@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2008-05-03"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -105,11 +105,11 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 10.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA mencionada en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS en el artículo 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; HOMICIDIO Y LESIONES CULPOSAS previstas en el artículo 184 BIS; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210; ROBO respecto de los supuestos del inciso B) del artículo 227; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V y VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 206, 207, 208, 209 y 210; así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el articulo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA mencionada en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS en el artículo 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178,179 Y (sic) 183; HOMICIDIO Y LESIONES CULPOSAS previstas en el artículo 184 BIS; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 Y (sic) 210; Abuso Sexual, en lo previsto en el segundo párrafo del artículo 215; ROBO respecto de los supuestos del inciso B) del artículo 227; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V Y (sic) VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 206, 207, 208, 209 Y (sic) 210 así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 (REFORMADO, P.O. 18 DE JULIO DE 2006) (F. DE E., P.O. 3 DE AGOSTO DE 2006)
 
@@ -807,9 +807,9 @@ PERDON DEL OFENDIDO.
 
 En caso de suspensión, el Juez fijará la garantía que estime necesaria para el cumplimiento de las obligaciones a que se refieren las fracciones del artículo anterior. En cuanto a las penas no privativas de libertad, el Juez resolverá discrecionalmente sobre la suspensión, salvo la reparación del daño y el decomiso.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
-Son inconmutables y no podrán sustituirse ni suspenderse las penas por los delitos de cohecho, peculado, violación y corrupción de menores.
+Son inconmutables y no podrán sustituirse ni suspenderse las penas por los delitos de cohecho, peculado, violación, corrupción y explotación de personas.
 
 ###### ARTICULO 80.
 
@@ -2685,13 +2685,15 @@ Solo se procederá contra el responsable a petición de la parte ofendida o de s
 
 Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de tres meses a tres años y multa hasta por 30 unidades.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 215.
 
-Comete el delito de Abuso Sexual quien sin el propósito de llegar a la cópula ejecute un acto erótico sexual en persona menor de dieciocho años de edad, o en quien no tenga capacidad de comprender el significado del hecho, o en quien por cualquier causa no pueda resistir. Al responsable del Abuso Sexual se le impondrán de dos a seis años de prisión y multa hasta de 150 unidades. Cuando el sujeto pasivo tenga catorce a dieciocho años de edad, se le impondrá prisión de uno a cuatro años y multa hasta por 50 unidades.
+Al responsable del delito de Abuso Sexual, cuando el pasivo sea menor de dieciocho años, se le impondrá una pena de dos a seis años de prisión y multa de hasta 150 unidades.
 
-Si el sujeto pasivo es obligado a ejecutar el acto erótico sexual, la pena de prisión podrá aumentar seis meses más. Si se obliga a un menor de edad, la pena de prisión aumentará hasta una mitad más.
+De igual forma, cuando el pasivo sea menor de catorce años, o no tenga capacidad de comprender el significado del hecho, o en quien por cualquier causa no pueda resistirlo, al responsable del delito se le impondrá de tres a siete años de prisión y multa hasta de 200 unidades.
+
+Cuando se ejerza violencia en el sujeto pasivo la pena se aumentará hasta en un tercio más.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -3472,3 +3474,7 @@ P.O. 3 DE MAYO DE 2008.
 DECRETO NO. 294, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS TITULOS, CAPITULOS Y ARTICULOS AL CODIGO PENAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE JULIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Calima".
