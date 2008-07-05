@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-2943
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-01"
-last_updated: "2008-05-03"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 1 de marzo de 2003.
 
@@ -247,11 +247,11 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público, reglamentaria de los artículos 6° de la Constitución Política de los Estados Unidos Mexicanos y 1° Bis, fracción IV, de la Constitución Política del Estado y tiene por objeto garantizar el ejercicio del derecho de toda persona de tener acceso a la información pública en el Estado de Colima.
+La presente Ley es de orden público, reglamentaria de los artículos 6° de la Constitución Política de los Estados Unidos Mexicanos y 1°, fracción IV, así como 1° Bis de la Constitución Política del Estado y tiene por objeto garantizar el ejercicio del derecho de toda persona de tener acceso a la información pública en el Estado de Colima.
 
 ###### ARTICULO 2°.
 
@@ -273,11 +273,11 @@ La información creada, administrada o en posesión de los órganos previstos en
 
 En la interpretación de esta Ley se deberá favorecer el principio de máxima publicidad de la información.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 4°.
 
 Para ejercer el derecho de acceso a la información pública no es necesario acreditar derechos subjetivos, interés legítimo o las razones que motiven el pedimento.
-
-En materia política sólo podrán hacer uso de este derecho los ciudadanos mexicanos.
 
 El uso que se haga de la información es responsabilidad de la persona que la obtuvo.
 
@@ -383,9 +383,17 @@ XVII. Los informes presentados por los partidos políticos ante la autoridad est
 
 XVIII. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como la aplicación semestral de los recursos públicos que reciban;
 
-XIX. La conformación de las organizaciones ciudadanas que participan en la toma de decisiones de las entidades públicas; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-XX. Toda otra información que sea de utilidad para el ejercicio del derecho de acceso a la información pública.
+XIX. La conformación de las organizaciones ciudadanas que participan en la toma de decisiones de las entidades públicas;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+XX. La información completa y actualizada sobre sus indicadores de gestión; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2008)</small>
+
+XXI. Toda otra información que sea de utilidad para el ejercicio del derecho de acceso a la información pública.
 
 ###### ARTICULO 11.
 
@@ -595,9 +603,11 @@ Toda solicitud de información realizada en los términos de la presente Ley deb
 
 En ningún caso el plazo excederá de veinte días hábiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 31.
 
-Cumplido el plazo previsto en el articulo anterior, si la solicitud de información no se hubiese satisfecho o la respuesta fuese ambigua o parcial a juicio del solicitante, éste podrá acudir a la Comisión a fin de que requiera a la entidad pública correspondiente la información solicitada en los términos legalmente procedentes.
+Cumplido el plazo previsto en el articulo anterior, si la solicitud de información no se hubiere satisfecho, el solicitante podrá acudir a la Comisión a fin de que requiera a la entidad pública correspondiente la información solicitada en los términos legalmente procedentes.
 
 Cuando por negligencia no se dé respuesta en tiempo y forma a la solicitud de acceso a la información, la autoridad queda obligada a otorgarle la información en un período no mayor a los diez días hábiles, cubriendo todas las costas generadas por la reproducción del material informativo, siempre y cuando la información de referencia no sea reservada o confidencial.
 
@@ -609,9 +619,11 @@ En el caso de que la solicitud sea rechazada, se le comunicará por escrito al s
 
 Las entidades públicas podrán negar las solicitudes cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona o cuando la información se encuentre disponible públicamente. En este caso, deberán indicar al solicitante el lugar donde se encuentra la información.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 33.
 
-El examen de la información pública que soliciten las personas será gratuito. La reproducción o el proceso de búsqueda de información pública que no se encuentre disponible en la oficina en la que se formuló la consulta, habilitará a la entidad pública a realizar el cobro de un derecho por un monto de recuperación razonable que se establecerá en la ley respectiva. Los costos por obtener la información no podrán ser superiores a la suma de:
+El examen de la información pública que soliciten las personas será gratuito. La reproducción habilitará a la entidad pública a realizar el cobro de un derecho por un monto de recuperación razonable que se establecerá en la ley o acuerdo respectivo. Los costos por obtener la información no podrán ser superiores a la suma de:
 
 I. El costo de los materiales utilizados en la reproducción de la información; y
 
@@ -622,6 +634,12 @@ Los sujetos obligados deberán esforzarse por reducir, al máximo, los costos de
 ###### ARTICULO 34.
 
 Las entidades públicas consideradas en la presente Ley, están obligadas a entregar información sencilla y comprensible a la persona sobre los trámites y procedimientos que deben efectuarse, las autoridades o instancias competentes, la forma de realizarlos, la manera de llenar los formularios que se requieran, así como de las entidades ante las que se puede acudir para solicitar orientación o formular quejas, consultas o reclamos sobre la prestación del servicio o sobre el ejercicio de las funciones o competencias a cargo de la autoridad de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA APLICACION DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Los Poderes del Estado, los Municipios, los organismos paraestatales y municipales, deberán contar con los sistemas electrónicos que permitan que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información.
 
 ### CAPÍTULO VI. DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -705,79 +723,91 @@ En los dos primeros meses de cada año, todas las entidades públicas deberán p
 
 En el mes de abril, el Presidente de la Comisión presentará por escrito un informe anual de labores y resultados, en el cual se incluirá la descripción de la información remitida por las entidades públicas comprendidas en esta Ley; el número de asuntos atendidos por la Comisión, así como las dificultades observadas en el cumplimiento de esta Ley. El informe anual será publicado y difundido con amplitud.
 
-### CAPÍTULO VII. DE LOS RECURSOS DE INCONFORMIDAD Y REVISIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2008)</small>
+
+### CAPÍTULO VII. DE LOS RECURSOS DE QUEJA Y REVISIÓN
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 42.
 
-Los solicitantes que se consideren afectados por los actos y resoluciones de las entidades públicas que negaren o limitaren el acceso a la información, podrán interponer el recurso de inconformidad ante el titular de la entidad que negó o limitó la información.
+Los solicitantes que se consideren afectados por los actos y resoluciones de las entidades públicas que nieguen o limiten el acceso a la información, podrán interponer los recursos de queja y de revisión, que serán presentados y sustanciados ante la Comisión.” (sic)
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 43.
 
-El plazo para interponer el recurso de inconformidad será de diez días hábiles, contados a partir de la fecha en que surta efectos la notificación de la resolución administrativa impugnada.
+El recurso de queja procederá en los casos a que se refieren los artículos 31 y 38, fracción IV, de la presente Ley, y será sustanciado con un escrito de quien no reciba oportunamente la respuesta a una solicitud de información que hubiera presentado o de cualquier persona que denuncie conductas que pudieran considerarse transgresoras del contenido de la Ley, de parte de las entidades públicas. La Comisión, tan luego como tenga formalmente conocimiento de la queja, solicitará un informe a la entidad pública omisa quien deberá rendirlo en un plazo máximo de 5 días hábiles.
 
-El recurso de inconformidad se presentará ante la oficina encargada de liberar la información. En un plazo máximo de cinco días hábiles, dicha oficina deberá rendir al titular de la entidad el informe justificado correspondiente.
+La Comisión estará obligada a emitir la resolución respectiva en un término no mayor de 30 días hábiles, contados a partir del día siguiente al de la notificación del acuerdo que tenga por rendido el informe o declare precluido el término en el que la autoridad debió haberlo rendido.” (sic)
 
-El titular de la entidad pública estará obligado a emitir la resolución en un término no mayor de diez días hábiles, contados a partir del día siguiente del vencimiento del plazo a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 44.
 
-El recurso de inconformidad deberá presentarse por escrito cumpliendo con los siguientes requisitos:
+El Recurso de Queja deberá presentarse por escrito cumpliendo los siguientes requisitos:
 
-I. Estar dirigido al titular de la entidad encargada de liberar la información;
+I.- Estar dirigido a la Comisión;
 
-II. Hacer constar el nombre del inconforme y, en su caso, el de su representante legal o mandatario, con personalidad jurídica reconocida a través de escritura notarial;
+II.- Hacer constar el nombre del recurrente y, en su caso, el de su representante legal o mandatario;
 
-III. Señalar domicilio para recibir notificaciones y, en su caso, a quien en su nombre las pueda oír y recibir;
+III.- Señalar domicilio para recibir notificaciones y, en su caso, a quien en su nombre las pueda oír y recibir;
 
-IV. Precisar el acto o resolución impugnada, la autoridad responsable del mismo y los puntos petitorios;
+IV.- Acompañar copia del documento presentado a la entidad pública omisa, mediante el cual requiere la entrega de información o, en su caso, los elementos de los que derive el incumplimiento denunciado;
 
-V. Señalar la fecha en que se hizo la notificación del acto o resolución impugnada;
+V.- Mencionar, en su caso, de manera expresa y clara que no ha habido respuesta de la entidad pública correspondiente, respecto de la solicitud de información que formulara; y
 
-VI. Mencionar de manera expresa y clara los hechos en que se funde la impugnación, los agravios que le cause el acto o resolución impugnados y los preceptos legales presuntamente violados;
+VI.- La firma del promovente.
 
-VII. Acompañar copia de la resolución o acto que se impugna y de la notificación correspondiente. Cuando se trate de actos que no se resolvieron en tiempo, acompañar copia de iniciación del trámite;
-
-VIII. Ofrecer y aportar pruebas que tengan relación directa con el acto o resolución que se impugnen, debiendo acompañar las documentales con las que cuente; y
-
-IX. La firma del promovente o, en su caso, su huella digital.
-
-Cuando no existan pruebas para acreditar la violación reclamada, no será necesario satisfacer el requisito previsto en la fracción VIII.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 45.
 
-La autoridad deberá prevenir al inconforme sobre los errores de forma y fondo de los que, en su caso adolezca su escrito de inconformidad, pero de ninguna manera podrá cambiar los hechos. Para subsanar dichos errores deberá concederle un plazo de tres días, vencido el cual se estará a lo previsto en el párrafo siguiente.
+De no cumplir con los requisitos establecidos en el artículo anterior, la Comisión prevendrá al quejoso para que en un término de 3 días los subsane, apercibiéndole que en caso de no hacerlo así, será desechado el Recurso.
 
-Cuando el recurso de inconformidad no se presente por escrito ante la autoridad correspondiente o sea notoriamente improcedente por haber fenecido el plazo legal para su presentación, se desechará de plano.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 46.
 
-Procede el sobreseimiento, cuando:
+Para desahogar y resolver el Recurso, la Comisión podrá:
 
-I. El inconforme se desista por escrito del recurso de inconformidad;
+I.- Desecharlo;
 
-II. La autoridad responsable del acto o resolución impugnados los modifique o revoque, de tal manera que quede sin materia antes de que se resuelva el recurso; y
+II.- Sobreseerlo;
 
-III. El inconforme fallezca.
+III.- Declarar la procedencia de la entrega de la información al solicitante;
+
+IV.- Declarar improcedente la entrega, total o parcial, de la información solicitada, por considerarla de naturaleza confidencial o reservada; y
+
+V.- Declarar la existencia o inexistencia de incumplimiento a la ley, de parte de la entidad pública denunciada.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 47.
 
-Para desahogar y resolver el recurso, el titular de la entidad podrá:
+Procede el sobreseimiento, cuando:
 
-I. Sobreseerlo;
+I.- El recurrente se desista del Recurso;
 
-II. Confirmar el acto o resolución impugnada; y
+II.- La autoridad omisa haga entrega de la información solicitada o de respuesta negativa al solicitante, así también al subsanarse la omisión que motive el incumplimiento a la ley, de tal manera que quede sin materia la reclamación; y
 
-III. Revocar total o parcialmente el acto o resolución impugnada.
+III.- El recurrente fallezca.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 48.
 
-La resolución final deberá emitirse por escrito. En los casos en que se confirme la negativa a liberar información, la autoridad estará obligada a especificar los recursos e instancias con los que cuenta el quejoso para hacer valer su inconformidad, si a su derecho conviene.
+La resolución final deberá emitirse por escrito. En los casos en que se determine la improcedencia de liberar información, la Comisión estará obligada a fundar y motivar adecuadamente sus resoluciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 49.
 
-El recurso de revisión podrá interponerse contra las resoluciones que pongan fin al recurso de inconformidad. Deberá presentarse ante la Comisión, observando las formalidades previstas para el recurso de inconformidad.
+El recurso de revisión podrá interponerse contra las resoluciones dictadas por las entidades públicas, respecto de solicitudes de información que les fueren presentadas. Deberá hacerse valer por el solicitante de información dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución correspondiente. En su trámite se observarán las formalidades previstas para el recurso de queja y deberá ser resuelto dentro de los 60 días siguientes a la fecha en que se pongan los autos en estado de resolución.
 
-Serán aplicables a este recurso las disposiciones que regulan el recurso de inconformidad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Serán aplicables a este Recurso las disposiciones que regulan el Recurso de Queja.
 
 Las resoluciones de la Comisión podrán:
 
@@ -787,9 +817,15 @@ II. Confirmar la decisión del sujeto obligado; o
 
 III. Revocar o modificar las decisiones de entidad pública que permita al particular el acceso a la información solicitada o los datos personales; que reclasifique la información o bien, que modifique tales datos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 50.
 
-Para las entidades públicas las resoluciones de la Comisión serán definitivas. La persona agraviada tendrá en todo tiempo el derecho para acudir a los órganos jurisdiccionales para hacer valer lo que a su derecho corresponda.
+Las resoluciones de la Comisión serán definitivas e inatacables.
+
+La Comisión podrá expedir los lineamientos necesarios para que los Recursos de Queja y Revisión sean presentados empleando los formatos y mecanismos de transmisión de datos que, a través de los medios electrónicos disponibles, se establezcan, mismos que deberán cumplir, en lo conducente, con los requisitos establecidos en el artículo 44 de la presente Ley.
+
+La Comisión dispondrá lo necesario a efecto de que a los formatos electrónicos de los recursos puedan acompañarse los documentos a que se refiere el artículo anterior, que hayan sido previamente digitalizados por los quejosos. Los documentos digitalizados presumirán la existencia de los originales, sin embargo, en caso de ser objetados o de que la Comisión lo considere necesario, se requerirá al recurrente por la exhibición de éstos, concediéndole al efecto un plazo no mayor de 5 días, con el apercibimiento que de no aportarlos oportunamente se desechará el recurso.
 
 ### CAPÍTULO VIII. DE LAS FALTAS ADMINISTRATIVAS Y SANCIONES
 
@@ -870,3 +906,9 @@ P.O. 17 DE ENERO DE 2004.
 P.O. 3 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
+
+P.O. 5 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Lo dispuesto por el segundo párrafo del Artículo 34 de la Ley de Transparencia y Acceso a la Información Pública, contenido en esta reforma, será aplicable a partir del 21 de Julio de 2009.
