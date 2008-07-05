@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2005-10-15"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -260,6 +260,10 @@ En caso de que la solicitud sea rechazada, se comunicará la negativa por escrit
 Toda solicitud de información presentada en los términos de la presente Ley, deberá ser resuelta en un plazo no mayor de diez días hábiles.
 
 Sin embargo, de manera excepcional, este plazo podrá prorrogarse por otros cinco días hábiles, cuando no sea posible reunir la información solicitada en dicho término. En su caso, el Sujeto Obligado deberá comunicar al solicitante, antes del vencimiento de dicho plazo, las razones por las cuales hará uso de la prórroga.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
+
+En el acuerdo en que se dé respuesta a la solicitud de información se insertará, en un lugar visible, la siguiente leyenda: "Si el solicitante no está satisfecho, con la respuesta obtenida, podrá presentar Solicitud de Aclaración ante el sujeto obligado, dentro de los diez días hábiles siguientes, contados a partir del día siguiente de su notificación, o bien, el Recurso de Revisión ante el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, el cual deberá presentarse dentro de los quince días hábiles siguientes, contados a partir del día siguiente a su notificación."
 
 ###### Artículo 15.
 
@@ -1240,3 +1244,11 @@ LIC. JOSÉ REYES BAEZA TERRAZAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
