@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2007-12-29"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1377,9 +1377,9 @@ XXI. Hacienda y Presupuestos;
 
 XXII. Higiéne y Salud Pública;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIII. Inspección;
+XXIII. (REFORMADA [N. DE E. DEROGADA], P.O. 5 DE JULIO DE 2008)
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1425,13 +1425,23 @@ XXXIII. Seguridad Pública y Protección Civil;
 
 XXXIV. Trabajo y Previsión Social;
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXXV. Turismo; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+XXXV. Turismo;
 
-XXXVI. Vialidad, Transporte y Comunicaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+XXXVI. Vialidad, Transporte y Comunicaciones, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XXXVII. Vigilancia.
 
 ###### Artículo 74.
 
@@ -1765,25 +1775,11 @@ I. La legislación en materia de servicios sanitarios e higiene y salud pública
 
 II. Las políticas, planes y programas para la prevención, difusión, atención y fortalecimiento de la higiene y salud pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 91.
 
-1. Corresponde a la Comisión de Inspección el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
-
-I. La legislación en materia de fiscalización;
-
-II. La revisión, examen y fiscalización de las cuentas públicas de los Poderes del Estado, organismos públicos autónomos, descentralizados y desconcentrados; ayuntamientos, sus dependencias y entidades; así como los entes públicos de índole estatal y municipal e instituciones públicas o privadas que administran fondos o valores públicos, incluyendo la aplicación de recursos de origen federal cuando estos formen parte de la respectiva cuenta pública estatal o municipal; así como el Tribunal de Arbitraje y Escalafón;
-
-III. La legislación, actuación, administración, control y vigilancia del órgano técnico de auditoria superior del estado en los términos de la legislación estatal aplicable en la materia;
-
-IV. La propuesta para el nombramiento y remoción del titular y los directores de la Auditoria Superior del Estado, de conformidad con lo establecido por la legislación estatal aplicable en la materia;
-
-V. La propuesta para el nombramiento y la remoción de los empleados del órgano técnico de auditoria superior del estado;
-
-VI. La sustanciación y resolución, en su caso, en los términos de ley de las denuncias e inconformidades que se presenten en contra de la actuación de servidores públicos de la Auditoria Superior del Estado por incumplimiento de la legislación estatal aplicable en la materia;
-
-VII. Las políticas, planes y programas correspondientes para el fortalecimiento de la vigilancia, supervisión, control; y
-
-VIII. Las demás que le concedan la ley estatal de la materia y la legislación aplicable.
+(DEROGADO, P.O. 5 DE JULIO DE 2008)
 
 ###### Artículo 92.
 
@@ -1992,6 +1988,52 @@ IV. La prestación directa o concesionada del transporte de personas y cosas uti
 V. La construcción y funcionamiento de las vías de comunicación estatales; y
 
 VI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
+
+###### Artículo 103 Bis.
+
+1. Corresponde a la Comisión de Vigilancia el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+I. La comunicación entre el Congreso del Estado y la Auditoría Superior;
+
+II. Proponer al Congreso del Estado, sin dictaminar, los informes finales de las auditorías que aprueban las cuentas públicas y estados financieros de las entidades auditables;
+
+III. Conocer, revisar y dictaminar, fundada y motivadamente, los informes finales en los que se haya determinado en cantidad líquida la constitución de créditos fiscales por daños al erario o patrimonio público;
+
+IV. Devolver con observaciones a la Auditoría Superior, previa aprobación del Pleno y por una sola vez, los informes finales de cuenta pública o estados financieros, cuando de la revisión y auditoría pública se consideren aspectos materia de esta ley y que no fueron contemplados en el informe final;
+
+V. Proponer al Pleno del Congreso del Estado, los proyectos de dictamen de decreto que aprueban o rechazan una cuenta pública o los estados financieros de las entidades auditables y elevar a crédito fiscal las observaciones de la Auditoría Superior que hayan ocasionado daño al erario o patrimonio público;
+
+VI. Al dictaminar las cuentas públicas, ejercer las facultades de fiscalización a que se refiere esta ley, de tal manera que pueda ser calificado el desempeño de la gestión pública, con base a los indicadores de medición objetivos, que de manera fundada y motivada propicien una mejora gubernamental y un mayor impacto de los programas de gobierno en el beneficio colectivo;
+
+VIl. Expedir certificaciones de los documentos que obren en su archivo, por conducto de su Presidente;
+
+VIII. Conocer el programa anual de actividades que para el debido cumplimiento de sus funciones, elabore la Auditoría Superior, así como sus modificaciones y evaluar su cumplimiento;
+
+IX. Citar al Auditor Superior para conocer en lo específico de algún informe final de auditoria de las cuentas públicas o de la opinión técnica de los estados financieros;
+
+X. Conocer el proyecto de presupuesto anual de la Auditoría Superior, así como el informe anual de su ejercicio;
+
+XI. Proponer al Pleno del Congreso del Estado al titular de la Unidad, a sus servidores públicos y su reglamento interno.
+
+XII. Aprobar el programa de actividades de la Unidad y requerir toda la información relativa a sus funciones.
+
+XIII. Ordenar a la Unidad, la práctica de auditoria pública a la Auditoría Superior;
+
+XIV. Planear, programar, ordena y efectuar auditorías, inspecciones o visitas administrativas a las diversas unidades que integran la Auditoría Superior, cumpliendo con las formalidades de esta ley;
+
+XV. Proveer lo necesario para garantizar el carácter técnico y de gestión de la Auditoría Superior;
+
+XVI. Presentar al Congreso del Estado, el dictamen relativo a la terna para designar al Auditor Superior;
+
+XVII. Dictaminar acerca de la solicitud de licencia o remoción del Auditor Superior;
+
+XVIII. Vigilar que los servidores públicos de la Auditoría Superior se conduzcan en los términos de esta ley y la de Responsabilidades para los Servidores Públicos del Estado de Jalisco y presentar las denuncias correspondientes al Auditor Superior, y
+
+XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
 ### CAPÍTULO I. Forma y Periodicidad de las Sesiones
 
@@ -3177,10 +3219,6 @@ DECRETO NO. 20689 QUE REFORMA EL ARTICULO 108
 
 UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-P.O. 5 DE FEBRERO DE 2005.
-
-UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
 P.O. 9 DE NOVIEMBRE DE 2004.
 
 DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
@@ -3188,6 +3226,10 @@ DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, deberá presentar en un plazo no mayor a 120 días naturales, la iniciativa de reformas al Reglamento de la Ley Orgánica del Poder Legislativo del Estado, que resulten necesarias para adecuarlo al presente decreto.
+
+P.O. 5 DE FEBRERO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 26 DE ABRIL DE 2005.
 
@@ -3280,3 +3322,29 @@ SEGUNDO. La Comisión de Seguridad Pública y Protección Civil deberá enviar a
 P.O. 29 DE DICIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE JULIO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
+
+Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Jalisco publicada en el periódico oficial El Estado de Jalisco, el 30 de diciembre de 2003 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Tercero. El actual Auditor Superior del Estado, durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado. Para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
+
+Cuarto. En caso de no haber designación de Auditor Superior del Estado al día primero de agosto de 2008, el actual titular continuará en el cargo, en tanto no sea electo uno nuevo o no sea aprobado el actual conforme los procedimientos establecidos en la ley.
+
+Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco. La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley. Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
+
+En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
+
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+
+Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto. Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoria Superior del Estado.
+
+Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
