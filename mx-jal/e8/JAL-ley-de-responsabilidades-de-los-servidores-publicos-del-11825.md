@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2008-06-12"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -85,9 +85,35 @@ VIII. Las secretarías, dependencias y entidades paraestatales del Ejecutivo;
 
 IX. Los ayuntamientos y dependencias municipales y sus descentralizados;
 
-X. La Comisión Estatal de Derechos Humanos; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. Los demás órganos que determinen las leyes.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+X. La Comisión Estatal de Derechos Humanos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+XI. El Instituto Electoral del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XII. El Instituto de Transparencia e Información Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XIII. La Auditoría Superior; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+
+XIV. Los demás órganos que determinen las leyes.
 
 ###### Artículo 4º.
 
@@ -385,11 +411,13 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Artículo 31.
 
-Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el procurador general de justicia y el procurador social; los magistrados del Poder Judicial del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Consejo Electoral del Estado; los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
+Para proceder penalmente contra los diputados al Congreso del Estado; el Auditor Superior del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y los Consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral del Estado, el Presidente del Instituto de Transparencia e Información Pública del Estado, los presidentes municipales, síndicos, regidores y concejales de los ayuntamiento (sic) o concejeros municipales será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
 
 Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo General del Poder Judicial del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
 
@@ -695,9 +723,11 @@ XXV. Abstenerse de imponer condiciones, prestaciones u obligaciones que no esté
 
 XXVI. Presentar con oportunidad y veracidad la declaración de situación patrimonial ante los organismos competentes, quienes estén obligados a ello en los términos que señala esta ley; y (sic)
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXVII. Los funcionarios encargados de la Hacienda Pública Estatal y Municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos, se harán acreedores a las sanciones previstas por la ley; y (sic)
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+XXVII. Los funcionarios encargados de la hacienda pública estatal y municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos y no señalen domicilio para recibir notificaciones, se harán acreedores a las sanciones previstas por la ley;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
@@ -1290,3 +1320,29 @@ SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley p
 P.O. 12 DE JUNIO DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor 30 días hábiles posteriores a su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE JULIO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
+
+Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Jalisco publicada en el periódico oficial El Estado de Jalisco, el 30 de diciembre de 2003 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Tercero. El actual Auditor Superior del Estado, durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado. Para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
+
+Cuarto. En caso de no haber designación de Auditor Superior del Estado al día primero de agosto de 2008, el actual titular continuará en el cargo, en tanto no sea electo uno nuevo o no sea aprobado el actual conforme los procedimientos establecidos en la ley.
+
+Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco. La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley. Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
+
+En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
+
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+
+Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto. Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoria Superior del Estado.
+
+Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
