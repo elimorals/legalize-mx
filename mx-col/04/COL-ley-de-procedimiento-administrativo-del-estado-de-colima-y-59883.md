@@ -4,7 +4,7 @@ identifier: "COL-ley-de-procedimiento-administrativo-del-estado-de-colima-y-5988
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-09"
-last_updated: "2008-02-09"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLlMA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 9 de febrero de 2008.
 
@@ -57,9 +57,11 @@ LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLlMA Y SUS MUNICIPIOS
 
 La presente ley es de orden e interés público y tiene por objeto establecer las bases de los actos administrativos emanados de las dependencias del Poder Ejecutivo del Estado, de los Ayuntamientos, de los organismos Paraestatales y Paramunicipales y, los Organismos Descentralizados, estableciendo para ello los principios y normas que deben observarse en los procedimientos no jurisdiccionales.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### Artículo 2.
 
-Las disposiciones de este ordenamiento, no son aplicables en las materias financiera, fiscal, judicial, laboral, electoral, de seguridad pública, de responsabilidades para los servidores públicos, así como las relativas al Ministerio Público en ejercicio de sus funciones. En relación con los créditos fiscales no se excluyen de la aplicación de esta Ley lo relativo a las multas administrativas, derivadas de las infracciones por violaciones a las disposiciones de orden administrativo local.
+Las disposiciones de este ordenamiento no son aplicables en las materias financiera, fiscal, judicial, laboral, electoral, de seguridad pública, de responsabilidad para los servidores públicos, de transparencia y acceso a la información pública, así como las relativas al ministerio público en ejercicio de sus funciones. En relación con los créditos fiscales no se excluyen de la aplicación de ésta Ley lo relativo a las multas administrativas derivadas de las infracciones por violaciones a las disposiciones de orden administrativo local.
 
 ###### Artículo 3.
 
@@ -597,7 +599,9 @@ a) Se trate de asuntos no contemplados en los anteriores casos;
 
 b) No se haya señalado domicilio o bien cuando el señalado resultare falso.
 
-Las notificaciones por edictos se deben efectuar mediante publicaciones que contengan el resumen de las actuaciones por notificar. Dichas publicaciones deben efectuarse por tres veces, de tres en tres días en el Periódico Oficial "El Estado de Colima" y en un diario de circulación en la Entidad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Las notificaciones por edictos se deben efectuar mediante publicaciones que contengan el resumen de las actuaciones por notificar. Dichas publicaciones deben efectuarse por tres veces en el Periódico Oficial "El Estado de Colima", y por tres veces, de tres en tres días, en un diario de circulación en la Entidad.
 
 ###### Artículo 73.
 
@@ -1284,3 +1288,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 1º del mes de febrero del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica.
+
+P.O. 5 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Lo dispuesto por el segundo párrafo del Artículo 34 de la Ley de Transparencia y Acceso a la Información Pública, contenido en esta reforma, será aplicable a partir del 21 de Julio de 2009.
