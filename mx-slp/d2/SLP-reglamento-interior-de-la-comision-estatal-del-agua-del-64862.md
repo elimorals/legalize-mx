@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-comision-estatal-del-agua-del-64862"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-16"
-last_updated: "2005-08-16"
+last_updated: "2008-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA, DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR, DE LA COMISION ESTATAL DEL AGUA, DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P. O. DE 5 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de agosto de 2005.
 
@@ -634,3 +636,15 @@ EL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DEL AGUA
 ING. URBANO DÍAZ DE LEÓN BARROSO
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2008.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga el Reglamento Interno de la Comisión Estatal del Agua del Estado de San Luis Potosí, publicado en edición extraordinaria del Periódico Oficial del Estado, publicado con fecha 16 de agosto del año 2005.
+
+Tercero. Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia del presente Reglamento, deba ser ejercida por otra u otras unidades administrativas que en el mismo se establecen, corresponderá a la nueva unidad administrativa terminar la sustentación de los asuntos que se encuentren en trámite y, en su caso, dictar la resolución que corresponda.
+
+Cuarto. En tanto se expiden los manuales de organización procedimientos y las disposiciones administrativas que menciona el presente Reglamento, el Director General de la Comisión, queda facultado para resolver las cuestiones que dichos documentos deben regular.
