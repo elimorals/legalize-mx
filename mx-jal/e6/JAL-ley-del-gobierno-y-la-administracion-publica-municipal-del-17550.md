@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2008-05-27"
+last_updated: "2008-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -725,9 +725,11 @@ Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, e
 
 II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Remitir al Congreso del Estado, a través de su órgano fiscalizador, antes del día quince de cada mes, la cuenta detallada de los movimientos de fondos ocurridos en el mes anterior; antes del día último de julio, la cuenta del primer semestre; y antes del día último de enero, la general del año inmediato anterior;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+III. Remitir a la Auditoría Superior a más tardar el día veinte de cada mes, la cuenta detallada de los movimiento (sic) de fondos ocurridos en el mes anterior; a más tardar el día último de julio, el corte del primer semestre; y a más tardar el día último de febrero, el corte general del año inmediato anterior;
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1509,11 +1511,25 @@ Además de los ingresos que forman parte de la Hacienda Municipal, los municipio
 
 El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Artículo 79.
 
-El Congreso del Estado debe aprobar las leyes de Ingresos de los municipios y revisar y fiscalizar sus cuentas públicas. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo, a los principios de de (sic) racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad y a las siguientes reglas:
+El Congreso del Estado debe aprobar las leyes de ingresos de los municipios. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo, programas que señalen los objetivos, las metas con base en indicadores de desempeño y las unidades responsables de su ejecución, traducidos en capítulos, conceptos y partidas presupuéstales, así como a los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
+
+Dichos indicadores de desempeño corresponden a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+
+Asimismo, los presupuestos se sujetan a las siguientes reglas:
 
 I. Los Ayuntamientos deben elaborar y aprobar sus presupuestos de egresos, a más tardar, el día 15 de diciembre del año anterior al en que deben regir, considerando su actividad económica preponderante, la extensión de su territorio, las actividades prioritarias de sus habitantes, la amplitud de sus servicios públicos, la forma de distribución de la población, la prioridad de la obra pública y sus endeudamientos;
 
@@ -1792,6 +1808,8 @@ X. Centros deportivos municipales;
 XI. Centros culturales municipales; y
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
 XII. LOS DEMÁS QUE EL CONGRESO DEL ESTADO DETERMINE EN ATENCIÓN A LAS CONDICIONES TERRITORIALES Y SOCIOECONÓMICAS DE LOS MUNICIPIOS, ASÍ COMO A SU CAPACIDAD ADMINISTRATIVA Y FINANCIERA.
 
@@ -2652,3 +2670,35 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 5 DE JULIO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
+
+Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Jalisco publicada en el periódico oficial El Estado de Jalisco, el 30 de diciembre de 2003 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Tercero. El actual Auditor Superior del Estado, durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado. Para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
+
+Cuarto. En caso de no haber designación de Auditor Superior del Estado al día primero de agosto de 2008, el actual titular continuará en el cargo, en tanto no sea electo uno nuevo o no sea aprobado el actual conforme los procedimientos establecidos en la ley.
+
+Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
+
+La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+
+Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
+
+En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
+
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+
+Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
+
+Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
