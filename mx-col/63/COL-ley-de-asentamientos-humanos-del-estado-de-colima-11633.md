@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2006-09-23"
+last_updated: "2008-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -3887,6 +3887,12 @@ d) Suspensión del acto recurrido, y
 
 e) Autoridades competentes para resolver y términos para el efecto.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
+
+###### ARTICULO 364 Bis.
+
+Los Reglamentos de Construcción de los Ayuntamientos deberán especificar que los postes de las instalaciones eléctricas y sus retenidas e instalaciones telefónicas no obstruyan las rampas para discapacitados, así como el acceso a cocheras y el libre tránsito de los transeúntes por las banquetas.
+
 ###### ARTICULO 365.
 
 Las normas de diseño que se integran en los reglamentos de construcción incluirán especificaciones que faciliten el desplazamiento y el acceso a las personas con limitaciones físicas y en particular a edificios y espacios abiertos para actividades públicas, generales o restringidas.
@@ -4328,3 +4334,11 @@ P.O. 4 DE DICIEMBRE DE 2004.
 P.O. 23 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 5 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+SEGUNDO.- Los Ayuntamientos deberán reformar sus reglamentos de construcciones para incluir esta disposición a más tardar tres meses después de la entrada en vigor de éste decreto.
+
+TERCERO.- Quedan derogadas todas las disposiciones que se opongan a éste artículo.
