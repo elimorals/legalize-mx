@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2007-01-25"
+last_updated: "2008-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -99,6 +99,12 @@ Todo ingreso que perciba el Municipio deberá integrarse al acervo común de la 
 
 Las Leyes de ingresos municipales establecerán, anualmente los ingresos ordinarios de naturaleza fiscal que deban recaudarse, así como las tarifas correspondientes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Art. 10 bis. Corresponde a los Ayuntamientos, en los términos de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, determinar los servidores públicos municipales que tendrán la obligación de caucionar el ejercicio de su función, misma que no podrá ser liberada en tanto no sea aprobada la cuenta pública o no exista liberación de responsabilidad por parte de la Auditoría Superior.
+
 ###### Art. 11.
 
 Será facultad exclusiva de los Ayuntamientos, el cobro de sus impuestos, contribuciones especiales, derechos, productos y aprovechamientos, pudiendo en todo caso convenir con el Estado, para que éste ejerza tal facultad.
@@ -133,7 +139,11 @@ El Congreso del Estado aprobará a más tardar al día treinta de noviembre de c
 
 Si por cualquier circunstancia el Congreso del Estado no aprobara la Ley de Ingresos respectiva, se tendrá como ley de ingresos aprobada para ese determinado ejercicio fiscal, la ley de ingresos que se hubiere aprobado para el ejercicio fiscal inmediato anterior.
 
-Para la elaboración de Presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Título Quinto de la Constitución Política del estado de Jalisco, y los Ordenamientos que rijan al Poder Legislativo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Para la elaboración de presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Titulo Quinto de la Constitución Política del Estado de Jalisco, La Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco y demás ordenamientos.
 
 ###### Art. 16.
 
@@ -175,7 +185,11 @@ I. El Ayuntamiento;
 
 II. El Presidente Municipal;
 
-III. El Tesorero Municipal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+IIl. El funcionario encargado de la hacienda municipal cualquiera que sea su denominación en la presente ley o en los reglamentos municipales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
@@ -203,7 +217,11 @@ Son atribuciones del Ayuntamiento:
 
 I. Celebrar convenios con los gobiernos Federal y Estatal, para la recaudación y cobro de contribuciones, cuando esto represente un beneficio para la Hacienda Municipal; y
 
-II. Formular el Reglamento Interior de la Tesorería Municipal y todos aquellos de índole administrativa que tiendan a facilitar el cumplimiento de las disposiciones hacendarias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+
+II. Formular la normatividad que rija a la dependencia encargada de la Hacienda Municipal, cualquiera que sea su denominación en la presente ley o en los reglamentos municipales, y todos aquellos reglamentos que tiendan a facilitar el cumplimiento de las disposiciones hacendarias.
 
 ###### Art. 22.
 
@@ -297,13 +315,17 @@ XII. Fijar las cuotas o porcentajes que cubrirán los contribuyentes por cualqui
 
 XIII. Las demás que le otorguen otras Leyes o disposiciones fiscales.
 
-Independientemente de las atribuciones a que se refiere este artículo, el Tesorero Municipal deberá caucionar su manejo de fondos, dentro de los treinta días siguientes al día en que tome posesión de su cargo, en cualquiera de las formas que señala el Art. 47 de esta ley y por el importe que determinen las Leyes de Ingresos Municipales, debiendo actualizar su caución dentro del mes de enero de cada año. Dicha caución deberá otorgarse en favor del Ayuntamiento y remitirla al Congreso del Estado para su registro y control, dentro del término aludido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], P.O. 5 DE JULIO DE 2008)</small>
 
-Los gastos que se originen con motivo del otorgamiento de la caución, serán a cargo del Erario Municipal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Tesorero Municipal que no caucione su manejo de fondos, no podrá cobrar sueldos y será destituido de su cargo si no cumple esta obligación dentro de los tres meses siguientes a su nombramiento.
+> <small>(REFORMADO [N. DE E. DEROGADO TERCER PARRAFO], P.O. 5 DE JULIO DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. DEROGADO CUARTO PARRAFO], P.O. 5 DE JULIO DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
@@ -1885,11 +1907,15 @@ Los actos o contratos que surtan efectos posteriores al período del Ayuntamient
 
 Queda prohibido el subarrendamiento de bienes inmuebles propiedad del Municipio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### Art. 182.
 
-La Tesorería Municipal llevará un inventario de los bienes muebles e inmuebles propiedad del Municipio, el cual deberá ser permanentemente actualizado, debiendo comunicar, al Congreso del Estado, las altas y bajas que se realicen a más tardar el día cinco del mes siguiente del que se haya efectuado el movimiento.
+La Tesorería Municipal llevará un inventario de los bienes muebles e inmuebles propiedad del municipio, el cual deberá ser permanentemente actualizado, debiendo comunicar la Auditoría Superior, las altas y bajas que se realicen a más tardar el día cinco del mes siguiente del que se haya efectuado el movimiento.
 
-La obligación anterior no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe de dos días de salario.
+La obligación anterior no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe de diez días de salario.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
@@ -1933,9 +1959,13 @@ Los productos a que se refiere este capítulo se cobrarán por metro cuadrado, l
 
 El pago de los productos señalados en este capítulo, se hará por adelantado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### Art. 191.
 
-Los recibos que deba expedir la Tesorería Municipal y los boletos para el cobro de productos, por uso de piso, deberán ser enviados al Congreso del Estado para su registro y control.
+Los recibos que deba expedir la Tesorería Municipal y los boletos para el cobro de productos, por uso de piso, deberán ser enviados a la Auditoria Superior para su registro y control.
 
 ### CAPITULO V. Productos Diversos
 
@@ -2079,23 +2109,33 @@ Tratándose de giros en los que se realicen actividades en forma eventual o que 
 
 Se entiende por gasto público municipal, el conjunto de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 202.
 
-El gasto público municipal, para su correcta aplicación y la consecución de sus objetivos, se basará en el presupuesto de egresos, el que deberá formularse en base de programas que señalan los objetivos, metas y las unidades responsables de su ejecución, traducidos en capítulos, conceptos y partidas presupuestales.
+El gasto público municipal, para su correcta aplicación y la consecución de sus objetivos, se basará en el presupuesto de egresos, el que deberá formularse con base en programas que señale los objetivos, las metas con base en indicadores de desempeño y las unidades responsables de su ejecución, traducidos en capítulos, conceptos y partidas presupuestales.
 
-> <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
+Dichos indicadores de desempeño corresponderán a un índice, medida, cociente op (sic) fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad.
 
 La elaboración del presupuesto deberá realizarse por cada año calendario, en base a costos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### Art. 203.
 
-Las actividades de revisión y evaluación del gasto público municipal, estarán a cargo del Congreso del Estado, quien dictará las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
+Las actividades de revisión y evaluación del gasto público municipal, estarán a cargo de la Auditoría Superior y el Congreso del Estado, de conformidad con la Constitución Política y la Ley de Fiscalización Superior y de Auditoría Pública, ambos ordenamientos del Estado de Jalisco.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 204.
 
-Los Ayuntamientos, a solicitud del Congreso del Estado, proporcionarán a éste, todos los datos estadísticos e información general que puedan contribuir a una mejor comprensión y evaluación de las partidas presupuestales.
+Los ayuntamientos, a solicitud de la Auditoría Superior, proporcionarán a ésta, todos los datos estadísticos e información general que puedan contribuir a una mejor comprensión y evaluación de las partidas presupuestales.
 
 ###### Art. 205.
 
@@ -2165,9 +2205,11 @@ VIII. Deuda Pública.
 
 3a. Los conceptos se dividirán en partidas que representen en forma específica el gasto público.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los capítulos, conceptos y partidas que se utilizarán para la elaboración del presupuesto de egresos, deberán ajustarse al catálogo proporcionado por el Congreso del Estado, a través de la Auditoría Superior del Estado, para los efectos de la revisión de la cuenta pública.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+Los capítulos, conceptos y partidas que se utilizarán para la elaboración del presupuesto de egresos, deberán ajustarse al catálogo proporcionado por la Auditoria Superior del Estado, para los efectos de la revisión de la cuenta pública.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
@@ -2235,11 +2277,13 @@ Una vez estudiado y revisado el Proyecto del Gasto Público, el monto del mismo 
 
 Si por cualquier circunstancia el Ayuntamiento no aprueba en término el presupuesto de egresos correspondiente, se deberá aplicar el ejercicio el (sic) año inmediato anterior, incluyendo sus modificaciones.
 
-(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 212.
 
-Aprobado el presupuesto de egresos para el ejercicio fiscal respectivo, el gobierno municipal deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de ayuntamiento en que se aprobó, al Congreso del Estado, para su conocimiento y efectos de control y revisión de la cuenta pública.
+Aprobado el presupuesto de egresos para el ejercicio fiscal respectivo, el gobierno municipal deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de ayuntamiento en que se aprobó, a la Auditoría Superior, para su conocimiento y efectos de control y revisión de la cuenta pública.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
 
@@ -2273,13 +2317,17 @@ Una vez concluida la vigencia del gasto público, sólo procederá a hacer pagos
 
 El gasto público deberá de ejercerse, conforme a lo autorizado en cada una de las partidas del Presupuesto de Egresos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ### CAPITULO III. De la Iniciativa, Discusión y Aprobación
 
 (REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Art. 216.
 
-Los nombramientos que expida el Ayuntamiento serán enviados a su Tesorería, con copia al Congreso del Estado, a más tardar, dentro de los 5 días siguientes a la fecha en que se expidan los documentos relativos.
+Los nombramientos que expida el ayuntamiento serán enviados a la dependencia encargada de la hacienda municipal, con copia a la Auditoria Superior, dentro de los 5 días siguientes a la fecha en que se expidan los documentos relativos.
 
 ###### Art. 217.
 
@@ -2297,15 +2345,21 @@ El gasto público no podrá modificarse en ninguna de sus partidas, sin la previ
 
 A toda proposición de creación de partida o aumento del gasto en el presupuesto de egresos, deberá agregarse la correspondiente Iniciativa de Ingresos, si con tal proposición se altera el equilibrio ingreso-gasto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### Art. 220.
 
-En los casos a que se refiere el artículo anterior, el Presidente Municipal, por conducto del Tesorero del Ayuntamiento, preparará las iniciativas de las modificaciones correspondientes, debiendo comunicar al Congreso del Estado dichos cambios, a más tardar, 5 días posteriores a la realización de los mismos.
+En los casos a que se refiere el artículo anterior, el Presidente Municipal, por conducto del encargado de la hacienda municipal del ayuntamiento, preparará las iniciativas de las modificaciones correspondientes debiendo comunicar a la Auditoría Superior dichos cambios, dentro de los cinco días posteriores a la realización de los mismos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 221.
 
-Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo del Ayuntamiento, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Auditoría Superior del Estado.
+Excepcionalmente, cuando por razones de contingencia, la hacienda pública municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo del ayuntamiento, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del ayuntamiento sin perjuicio de la revisión y control que debe practicar la Auditoría Superior del Estado.
 
 ### CAPITULO V. De las Modificaciones
 
@@ -2319,19 +2373,21 @@ Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipa
 
 Para los efectos de esta Ley, la cuenta pública del Municipio está constituida por los estados contables y financieros, y demás información que muestre el registro de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio del gasto público municipal, la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la Hacienda municipal, y en un patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones del Ayuntamiento y los estados detallados de la Deuda Pública Municipal.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 223.
 
-La revisión de las cuentas anuales que deben presentar los Ayuntamientos de la Entidad, y la glosa de dichas cuentas, de acuerdo a lo dispuesto por los Arts. 23, frac. IV y el párrafo tercero, de la frac. III. del Art. 37, de la Constitución Política del Estado, estarán a cargo del Congreso.
+La revisión de las cuentas públicas anuales que deben presentar los ayuntamientos de la entidad, se realizarán de acuerdo a lo dispuesto por el artículo 35-Bis de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 224.
 
-El Congreso del Estado, a través de la Auditoría Superior del Estado para el cumplimiento de las atribuciones que le confiere la Constitución Política Local, tiene facultades para revisar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones y auditorías y, en general, recabar los elementos de información necesarios, para cumplir con sus funciones.
-
-Para tal efecto, podrá servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos y aplicar, en el caso, técnicas y procedimientos de auditoría.
+La Auditoría Superior del Estado, para el cumplimiento de las atribuciones que le confiere la Constitución Política Local, tiene facultades para revisar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones y auditorías y, en general, recabar los elementos de información necesarios, para cumplir con sus funciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
@@ -2343,27 +2399,39 @@ La revisión no sólo comprenderá la conformidad de ingresos y egresos, sino qu
 
 Si de la revisión aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas de los presupuestos, o no existiere exactitud o justificación en los gastos hechos, o de los ingresos percibidos, se determinarán y fincarán las responsabilidades procedentes, ante la autoridad competente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### Art. 226.
 
-A solicitud del Congreso del Estado, el Tesorero Municipal informará de los actos, convenios o contratos de los que resulten derechos u obligaciones para el Ayuntamiento, con el objeto de verificar si de sus términos y condiciones, pudieran derivarse daños, en contra de la Hacienda Pública Municipal o impliquen incumplimiento de alguna Ley relacionada con la materia.
+A solicitud de la Auditoría Superior, el encargado de la hacienda municipal informará de los actos, convenios o contratos de los que resulten derechos u obligaciones para el Ayuntamiento, con el objeto de verificar si de sus términos y condiciones, pudieran derivarse daños, en contra de la hacienda pública municipal o impliquen incumplimiento de alguna ley relacionada con la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 227.
 
-El Tesorero Municipal está obligado a proporcionar, al Congreso del Estado, la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias, que éste determine, para el esclarecimiento de los hechos.
+El encargado de la hacienda municipal está obligado a proporcionar a la a (sic) Auditoría Superior la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias, que éste determine, para el esclarecimiento de los hechos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 228.
 
-Si el encargado de la Hacienda Municipal se negare a proporcionar la información solicitada por el Congreso del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público ni permitiera la práctica de visitas, inspecciones y auditorías, la Auditoría Superior del Estado lo hará del conocimiento del Congreso del Estado, por conducto de la Comisión de Inspección, para que resuelva lo procedente.
+Si el encargado de la hacienda municipal se negare a proporcionar la información solicitada por la Auditoria Superior del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público, ni permitiera la práctica de visitas, inspecciones y auditorías, la Auditoría Superior del Estado resolverá lo conducente y en los términos de la Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco.
 
 ### CAPITULO II. De la Contabilidad
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 229.
 
-Con objeto de uniformar los criterios en materia de contabilidad municipal y archivo contable, el Congreso del Estado, a través de la Auditoría Superior del Estado, dará a conocer con toda oportunidad, el catálogo de cuentas de ingresos y egresos, las normas, procedimientos, métodos y sistemas que emita e implante con base en los ordenamientos correspondientes.
+Con el objeto de uniformar los criterios en materia de contabilidad municipal y archivo contable, la Auditoría Superior del Estado, dará a conocer con toda oportunidad, el catalogo de cuentas de ingresos y egresos, las normas, procedimientos, métodos y sistemas que emita e implante con base en los ordenamientos correspondientes y las disposiciones federales que al efecto expida el Congreso de la Unión.
 
 ###### Art. 230.
 
@@ -2377,15 +2445,29 @@ La contabilidad de la Tesorería Municipal se llevará con base acumulativa para
 
 Los sistemas de contabilidad deberán diseñarse y operarse en forma que faciliten la fiscalización de activos, pasivos, ingresos, costos, gastos, avances en la ejecución de los programas y, en general, de manera que permitan medir la eficiencia y eficacia del gasto público.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
 ###### Art. 233.
 
-El Tesorero Municipal suministrará al Congreso del Estado, la información contable, financiera y de cualquier otra índole que le requiera.
+El encargado de la hacienda municipal suministrará a la Auditoría Superior la información contable, financiera y de cualquiera otra índole que le requiera.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 234.
 
-El Congreso del Estado girará las instrucciones sobre la forma y términos en que el Tesorero Municipal deberá llevar sus registros auxiliares y contabilidad y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada Tesorería Municipal y podrá autorizar su modificación o simplificación.
+La Auditoría Superior determinará la forma y términos en que el encargado de la hacienda municipal deberá llevar a cabo sus registros auxiliares y contabilidad y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada dependencia de hacienda municipal y podrá autorizar sus modificaciones o simplificación y adecuarlas a las disposiciones federales que expida el Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+###### Artículo 235.
+
+Los estados financieros y demás información financiera y contable que emanen de la contabilidad de las haciendas municipales, serán consolidados por la Auditoría Superior del Estados (sic) y enviados al Congreso del Estado de conformidad con la Ley de Fiscalización Superior del Estado de Jalisco.
 
 ###### Art. 235.
 
@@ -2403,7 +2485,11 @@ Para los efectos de esta Ley, incurre en responsabilidad toda persona física o 
 
 Art. 236 bis.- Los Ayuntamientos están obligados a conservar la documentación comprobatoria de su contabilidad de archivos físicos por seis años.
 
-El Congreso del Estado, a través de la Auditoría Superior del Estado, podrá autorizar la destrucción de la documentación del primer año de la administración saliente, al inicio de una nueva, siempre y cuando se haya emitido la aprobación de la última cuenta pública anual de la que concluye su ejercicio constitucional.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+La Auditoría Superior del Estado, podrá autorizar la destrucción de la documentación del primer año de la administración saliente, al inicio de una nueva, siempre y cuando se haya emitido la aprobación de la última cuenta pública anual de la que concluye su ejercicio constitucional.
 
 Al rendir la aprobación de la cuenta anual correspondiente al segundo ejercicio fiscal de la administración en funciones, podrá autorizar la destrucción de la documentación correspondiente al segundo año de la administración anterior, y así sucesivamente para las cuentas anuales subsiguientes.
 
@@ -2427,7 +2513,13 @@ II. A los particulares; sean personas físicas o morales, cuando aprovechándose
 
 Las responsabilidades que se constituyan a cargo de los servidores públicos, no eximen ni a las empresas privadas ni a los particulares, de sus obligaciones derivadas de la responsabilidad incurrida, cuyo cumplimiento se les exigirá, aún cuando la responsabilidad en que se hubiese incurrido fuese total o parcial.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+
+###### Artículo 240.
+
+Si de la revisión de la cuenta pública de la hacienda municipal, se determinasen responsabilidades, la Auditoría Superior del Estado, realizará las acciones que correspondan en los términos de la Ley de Fiscalización Superior y de Auditoría Pública del Estado.
 
 ###### Art. 240.
 
@@ -3458,3 +3550,35 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Tratándose de la cuenta pública municipal de los Ayuntamientos del Estado, correspondiente a los meses del ejercicio fiscal del año 2007, ésta deberá presentarse conforme a las disposiciones que estuvieron en vigor antes de la entrada en vigor de este decreto.
 
 TERCERO.- En lo conducente, cuando en las disposiciones legales o administrativas de aplicación municipal; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a ramos, partidas y claves, se entenderán referidos a capítulos, conceptos y partidas.
+
+P.O. 5 DE JULIO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
+
+Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Jalisco publicada en el periódico oficial El Estado de Jalisco, el 30 de diciembre de 2003 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Tercero. El actual Auditor Superior del Estado, durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado. Para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
+
+Cuarto. En caso de no haber designación de Auditor Superior del Estado al día primero de agosto de 2008, el actual titular continuará en el cargo, en tanto no sea electo uno nuevo o no sea aprobado el actual conforme los procedimientos establecidos en la ley.
+
+Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
+
+La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+
+Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
+
+En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
+
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+
+Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
+
+Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
