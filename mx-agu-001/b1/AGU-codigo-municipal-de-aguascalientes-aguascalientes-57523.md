@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-05-12"
+last_updated: "2008-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2461,6 +2461,8 @@ APARTADO PRIMERO
 
 Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 162.
 
 Para la más eficaz atención y despacho de los asuntos de la competencia de la Presidencia Municipal, ésta contará con los órganos administrativos desconcentrados y descentralizados que resulten necesarios, los que tendrán las facultades y obligaciones que se establezcan en los reglamentos de su creación.
@@ -2473,17 +2475,25 @@ Las autoridades municipales por sí o en coordinación podrán para otorgar un m
 
 ###### ARTÍCULO 164.
 
-El Archivo General Municipal de Aguascalientes, es la dependencia encargada de resguardar y difundir el acervo histórico existente en la misma, así como rescatar y recopilar aquellos documentos que deban permanecer en él. Es la entidad central de consulta del H. Ayuntamiento en el manejo de archivos administrativo (sic) e históricos de la administración municipal para lograr una mejor coordinación, eficiencia y uniformidad normativa en esta materia, dependerá de la Secretaría de Administración.
+El Gobierno Municipal de Aguascalientes cuenta con dos archivos que resguardan la documentación generada en el ejercicio de sus actividades, distinguiendo entre el acervo administrativo y el histórico.
+
+El Archivo Administrativo, dependiente de la Secretaria de Administración, es la entidad central de resguardo y consulta del Honorable Ayuntamiento en el manejo de los documentos que permiten una mejor coordinación, eficiencia y uniformidad normativa en las actividades de gobierno.
+
+El Archivo Histórico, dependiente del Instituto Municipal Aguascalentense para la Cultura, es la entidad encargada de resguardar la documentación que le transfiera el Archivo Administrativo luego de treinta años de generación en las unidades administrativas del Gobierno Municipal. Asimismo, es el encargado de fomentar la investigación, rescatar, recopilar, conservar y difundir, en los términos más amplios, la memoria histórica del municipio.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 165.
 
-El presente capítulo tiene como finalidad normar el desplazamiento, conservación, y clasificación de los documentos generados por la administración pública municipal.
+El presente capítulo tiene como finalidad normar el desplazamiento, conservación y clasificación de los documentos generados por la Administración Pública Municipal, así como de promover el acrecentamiento y difusión de la memoria e identidad social de los habitantes del Municipio de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 166.
 
-El Archivo General Municipal tendrá por objeto:
+El Archivo Administrativo Municipal tendrá por objeto:
 
-I. Buscar las formas mas adecuadas para administrar la documentación generada por la administración publica municipal.
+I. Buscar las formas más adecuadas para administrar la documentación generada por la Administración Pública Municipal.
 
 II. Asesorar y apoyar a las unidades administrativas en el diseño de procedimientos internos, para el manejo y administración de documentos.
 
@@ -2491,101 +2501,157 @@ III. Vigilar y evaluar el cumplimiento de las normas expedidas para regular el m
 
 IV. Ser el órgano de apoyo, supervisión y promoción de la formación de archivos de área.
 
-V. Realizar tareas que ayuden a incrementar y preservar su acervo histórico a través del rescate y/o adquisición de material que permita integrar la evidencia histórico municipal, estatal y regional.
+V. Formar parte del Sistema Estatal de Archivos.
 
-VI. Formar parte del Sistema Estatal de Archivos.
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 166
+
+BIS.- El Archivo Histórico Municipal tendrá por objeto:
+
+I. Resguardar, mantener, catalogar y difundir los documentos que hayan cumplido su vida útil y que le transfiera el Archivo Administrativo al cabo de treinta años, contados desde la fecha de su producción.
+
+II. Realizar tareas que ayuden a incrementar y preservar su acervo histórico a través del rescate y/o adquisición de material bibliográfico, hemerográfico, fotográfico, audiovisual y de cualquier otro formato que permita integrar evidencias históricas municipales, estatales y regionales.
+
+III. Fomentar la investigación histórica entre su propio cuerpo de investigadores y entre profesionales, estudiantes e interesados en la materia.
+
+IV. Difundir los resultados de las investigaciones que se generen en su interior por los medios más adecuados, así como promover eventos, foros y presentaciones de libros que apunten a la divulgación de la memoria histórica del Municipio y promuevan la cultura en general.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 167.
 
-Los fondos documentales que integran el Archivo General Municipal son:
+los fondos documentales que integran el Archivo Administrativo Municipal son:
 
-I. Fondo Administrativo: Su documentación tiene una vida útil de 30 años, a partir de su expedición, dependiendo del documento que se trate, su consulta y utilización necesaria para el trámite de asuntos relacionados con la gestión municipal. La consulta de este material, queda reservada para el personal de la dependencia que lo generó.
+I. Fondo Administrativo: Su documentación tiene una vida útil de treinta años a partir de su expedición, dependiendo del documento que se trate, y podrá ser consultada y utilizada para el trámite de asuntos relacionados con la gestión municipal. La consulta de este material queda reservada al personal de la dependencia que lo haya generado.
 
-II. Fondos Gráficos e Impresos: esta integrado por:
+II. Fondo Planoteca: Contiene planos, mapas, alineamientos, subdivisiones, fusiones, licencias de construcción, demolición, bardeo y reparación. Su consulta requiere de autorización por escrito de la oficina generadora.
 
-a) Planoteca: Contiene planos, mapas, alineamientos, subdivisiones, fusiones, licencias de construcción, demolición, bardeo y reparación, su consulta requiere de autorización por escrito de la oficina generadora.
+III. Fondo Constancias de Servicio: Resguarda las nóminas de los empleados municipales. El encargado de este fondo tendrá la función de expedir constancias de servicio a los trabajadores del Honorable Ayuntamiento.
 
-b) Biblioteca: Se compone de obras dedicadas principalmente a historia regional; su consulta está a disposición del público en general y ésta solo se hará dentro del edificio.
+IV. Oficialía de Partes: Se encarga de la recepción y entrega de correspondencia de las diferentes dependencias o unidades que integran a la Administración Pública Municipal, tanto la que se recibe en la Oficialía de Partes como en el Apartado Postal del Servicio Postal Mexicano, además de dar el servicio de enmicado, engargolado, fotocopiado y la supervisión del buen funcionamiento del equipo de fotocopiado arrendado que se encuentra en las diferentes dependencias o unidades de la Administración Pública Municipal.
 
-c) Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial; su consulta está a disposición del público en general y esta se hará solo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Así mismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y Municipio de Aguascalientes.
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
 
-d) Fototeca: Esta formada por fotografías de administraciones pasadas; su consulta es abierta al público.
+###### ARTÍCULO 167
 
-e) Fondo Histórico: Esta integrado por la documentación que concluyó su vida para la administración municipal, su consulta queda abierta al público en general, no permitiendo la salida de ningún documento, salvo en casos especiales como exposiciones o intercambios culturales. Este fondo se enriquece con compras, donaciones y microfilms.
+BIS.- Los fondos documentales que integran el Archivo Histórico Municipal son:
 
-f) Constancias de Servicio: Resguarda las nóminas de los empleados municipales e igualmente se encarga de la expedición de constancias de servicio a los trabajadores del H. Ayuntamiento.
+I. Fondo Histórico: Está integrado por la documentación que concluyó su vida útil para la Administración Pública Municipal.
 
-III. Oficialía de Partes: Se encarga de la recepción y entrega de correspondencia de las diferentes dependencias o unidades que integran la administración publica municipal, tanto la que se recibe en Oficialía de Partes como en el apartado postal en el Servicio Postal Mexicano, además de dar el servicio de enmicado, engargolado, fotocopiado y la supervisión del buen funcionamiento del equipo de fotocopiado arrendado que se encuentra en las diferentes dependencias o unidades de la administración publica municipal.
+II. Fondo Bibliohemerográfico, integrado por:
 
-Además de mencionar el Archivo General Municipal como fuente de información, los autores de investigaciones realizadas en base al material que aquí se localiza, deberán donar un ejemplar de su publicación al mismo archivo.
+a) Biblioteca: Se compone de obras dedicadas principalmente a la historia local y regional.
+
+b) Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial que deberán ser sistemáticamente actualizados. Asimismo, deberá contar con una recopilación actualizada de Leyes, Decretos, Reglamentos y Bandos que tengan relación con el Estado y el Municipio de Aguascalientes.
+
+III. Fondo Gráfico e Impreso, integrado por:
+
+a) Fototeca: Está formada por fotografías de administraciones pasadas, así como de todas las imágenes que documenten el pasado de la ciudad y el Municipio de Aguascalientes y que sean adquiridas por compra y/o donación.
+
+b) Planoteca: Formada por planos totales o parciales de la Ciudad y el Municipio, producidos por las unidades administrativas del Gobierno Municipal y por todas aquellas entidades públicas y privadas, los cuales sean de relevancia por su carácter histórico.
+
+c) Folletos, carteles, boletos y demás impresos que se consideren pertinentes.
+
+IV. Fondo Audiovisual, integrado por:
+
+a) Grabaciones en audio y video, documentales, corto y largo metrajes que den cuenta de la historia de la ciudad, el Municipio y, en su caso, la región y el país.
+
+El Archivo puede crear los fondos digitales o de cualquier formato que, en su momento, considere pertinentes para la conservación y difusión de la memoria histórica municipal.
+
+Los autores de investigaciones realizadas en base al material que se localiza en este acervo deberán donar un ejemplar de su publicación al mismo archivo.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 168.
 
-El Archivo General Municipal estará bajo la responsabilidad de un titular con los conocimientos archivonómicos necesarios, que le permitan conocer la normatividad y objetivos de la documentación a su cargo, para su eficaz servicio a las dependencias municipales y a la comunidad en general.
+El Archivo Administrativo Municipal estará bajo la responsabilidad de un titular con los conocimientos en archivonomía necesarios, que le permitan conocer la normatividad y objetivos de la documentación a su cargo, a fin de otorgar un servicio eficaz a las dependencias municipales y a la comunidad en general.
 
-El titular del Archivo General Municipal será auxiliado por el personal que a esa dependencia asigne el organigrama y el presupuestos (sic) de egresos y tendrá las facultades y obligaciones siguientes:
+El Archivo Histórico Municipal estará bajo la responsabilidad de un historiador o un titular con los conocimientos necesarios para el cumplimiento de sus obligaciones.
 
-l. Planear, programar, organizar, dirigir controlar y evaluar el desarrollo de las funciones correspondientes al Archivo General Municipal.
+Ambos titulares serán auxiliados por el personal que, a sus respectivas dependencias, asigne el organigrama y el presupuesto de egresos, teniendo ambos las facultades y obligaciones siguientes dentro del archivo a su cargo:
 
-II. Dictar las políticas generales de administración y funcionamiento del archivo.
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las funciones correspondientes al Archivo Administrativo Municipal y al Archivo Histórico Municipal.
 
-III. Formular los dictámenes, opiniones e informes que le sean solicitados por la superioridad.
+II. Dictar las políticas generales de administración y funcionamiento del archivo correspondiente.
 
-IV. Presentar proyectos de programas y presupuestos para esa dependencia, así como gestionar la dotación de recursos necesarios para el desempeño de las funciones que tiene encomendadas.
+III. Formular los dictámenes, opiniones e; informes que les sean solicitados por la superioridad.
 
-V. Emitir opinión previa a la contratación de personal para servicio del archivo, procurando que reúna las (sic) conocimientos profesionales necesarios para garantizar su eficaz desempeño.
+IV. Resguardar, conservar, clasificar y catalogar la documentación y testimonios a su cargo. El responsable del Archivo Administrativo Municipal tendrá la obligación de planear y dirigir las transferencias documentales conforme a su Manual de Procedimientos y el titular del Archivo Histórico Municipal será responsable de recibir las transferencias al cumplirse la vida útil de los documentos, así como de difundir los testimonios a su resguardo.
 
-VI. Asesorar técnicamente, en asuntos de su especialidad, a los servidores públicos de la administración Municipal.
+V. Presentar proyectos de programas y presupuestos para las dependencias respectivas, así como gestionar la dotación de recursos necesarios para el desempeño de las funciones que tienen encomendadas.
 
-VII. Comunicar a los titulares de las dependencias que le envían documentación, de las irregularidades que detecte y las recomendaciones sobre su manejo;
+VI. Emitir opinión previa a la contratación del personal para servicio de los archivos, procurando que reúna los conocimientos profesionales necesarios para garantizar su eficaz desempeño.
 
-VIII. Vigilar, para efectos de préstamo y consulta de documentos, que su trámite sea realizado directamente por el titular de la dependencia solicitante o en su defecto, por la parte interesada, en los términos del presente capítulo.
+VII. Asesorar técnicamente, en asuntos de su especialidad, a los servidores públicos de la Administración Municipal.
 
-IX. Constatar el ingreso de documentos, responsabilizándose, con su aval, del préstamo y/o salida de los mismos.
+VIII. El responsable del Archivo Administrativo Municipal deberá comunicar a los titulares de las dependencias que le envían documentación, de las irregularidades que detecte y las recomendaciones sobre su manejo. Asimismo, tendrá que vigilar, para efectos de préstamo y consulta de documentos, que su trámite sea realizado directamente por el titular de la dependencia solicitante o, en su defecto, por la parte interesada, en los términos del presente capítulo, y se responsabilizará, con su aval, del préstamo y la salida de los documentos.
 
-X. Realizar periódicamente la depuración de los acervos documentales de las distintas dependencias municipales.
+IX. Deberá realizar el responsable del Archivo Administrativo Municipal depuración periódica de los acervos documentales de las distintas dependencias municipales y convocar a sesión del Consejo Consultivo de Depuración.
 
-XI. Convocar a sesión del consejo consultivo de depuración.
+X. Es responsabilidad del encargado del Archivo Histórico Municipal fomentar la investigación y la difusión de la memoria histórica del municipio, proporcionar servicios y organizar eventos tendientes a la celebración, discusión y difusión de la cultura, identidad, memoria y actualidad del Municipio de Aguascalientes.
 
-XII. Las demás que le confieran las disposiciones legales aplicables o le delegue el H. Ayuntamiento a través del Presidente Municipal o del Secretario de Administración.
+XI. Las demás que les confieran las disposiciones legales aplicables o que les delegue el Honorable Ayuntamiento a través del Presidente Municipal o, en su caso, el Secretario de Administración o el Director del Instituto Municipal Aguascalentense para la Cultura.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 169.
 
-En el Archivo General Municipal se concentrará la documentación de los archivos inmediatos o de área, de las dependencias o unidades que integran la administración pública municipal.
+En el Archivo Administrativo Municipal se concentrará la documentación de los archivos inmediatos o de área, de las dependencias o unidades que integran la Administración Pública Municipal.
 
-Las dependencias harán entrega al Archivo General Municipal dentro de los cuatro primeros meses del año, la documentación concluida, inactiva o semi-activa, debidamente relacionada; si alguna de las dependencias municipales considera necesario hacer una depuración previa al envío, esta deberá de realizarse ante un representante del Archivo General Municipal.
+Las dependencias harán entrega al Archivo Administrativo Municipal, dentro de los cuatro primeros meses del año, la documentación concluida, inactiva o semi-activa, debidamente relacionada. Si alguna de las dependencias municipales considera necesario hacer una depuración previa al envío, esta deberá de realizarse ante un representante del Archivo Administrativo Municipal.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 170.
 
-Las solicitudes de préstamo de documentación deberán formularse por medio de vale que el Archivo General Municipal proporcione, el cual deberá de contener la descripción exacta del documento requerido, la firma del titular de la dependencia solicitante y de quien lo recibe.
+Las solicitudes de préstamo de documentación del Archivo Administrativo Municipal deberán formularse por medio de vale que éste proporcione, el cual deberá de contener la descripción exacta del documento requerido, la firma del titular de la dependencia solicitante y de quien lo recibe.
+
+En el caso del Archivo Histórico Municipal, el público consultante deberá llenar igualmente un vale para la revisión de los documentos y demás material al interior del propio archivo.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 171.
 
-La documentación que se proporcione a las diversas dependencias, deberá ser devuelta en un plazo máximo de 7 días hábiles a partir de la fecha de entrega, salvo pedimento de ampliación de plazo razonable y de no hacerlo podrá iniciarse contra del servidor público solicitante el procedimiento de responsabilidad administrativa disciplinaria a que se refiere el artículo 72, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+La documentación que el Archivo Administrativo Municipal proporcione a las diversas dependencias, deberá ser devuelta en un plazo máximo de 7 días hábiles a partir de la fecha de entrega, salvo pedimento de ampliación de plazo razonable. De no cumplir con la anterior, podrá iniciarse contra del servidor público solicitante el procedimiento de responsabilidad administrativa disciplinaria a que se refiere el articulo 72 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 172.
 
-El Archivo General Municipal proporcionará al público, servicios como banco de datos, fotocopiado, expedición de certificaciones o información de documentos históricos.
+El Archivo Administrativo Municipal proporcionará al público servicios como banco de datos, fotocopiado o expedición de certificaciones.
+
+El Archivo Histórico Municipal proporcionará estos mismos servicios y además tendrá a disposición del público en general documentos históricos e información general de la historia local y regional.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 173.
 
-Queda estrictamente prohibido al personal que preste sus servicios en el Archivo General Municipal la sustracción de todo tipo de documentos.
+Queda estrictamente prohibido al personal que preste sus servicios en el Archivo Administrativo Municipal y en el Archivo Histórico Municipal la sustracción de todo tipo de documentos.
 
 APARTADO SEGUNDO
 
 De las Transferencias y Depuración Documental
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 174.
 
-Las dependencias generadoras de documentos deberán conservarlos en sus archivos de trámite hasta que concluyan su vida útil, que será cuando menos de dos años. Posteriormente se transferirá al Archivo General Municipal dentro de los primeros cuatro meses de cada año, debidamente ordenada y relacionada, de acuerdo al formato y calendario que les será permitido por el jefe del Archivo General Municipal.
+Las dependencias generadoras de documentos deberán conservarlos en sus archivos de trámite hasta que concluyan su vida útil, que será cuando menos de dos años. Posteriormente se transferirá al Archivo Administrativo Municipal dentro de los primeros cuatro meses de cada año, debidamente ordenada y relacionada, de acuerdo al formato y calendario que les será permitido por el titular del propio Archivo Administrativo.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 175.
 
-La transferencia que se haga al Archivo General Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho, muebles y equipo de oficina.
+La transferencia que se haga al Archivo Administrativo Municipal solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho, muebles y equipo de oficina.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 176.
 
-Para los efectos de depuración de documentos, funcionará un Consejo Consultivo de Depuración Documental, integrado por el Secretario de Administración como Presidente, el Jefe del Archivo General Municipal como Secretario, un historiador y el titular de la dependencia generadora de la documentación como vocales.
+Para los efectos de depuración de documentos, funcionará un Consejo Consultivo de Depuración Documental, integrado por el Secretario de Administración como Presidente, el titular del Archivo Administrativo Municipal como Secretario, el encargado del Archivo Histórico Municipal, un historiador y el titular de la dependencia generadora de la documentación como vocales.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 177.
 
@@ -2593,13 +2659,19 @@ El procedimiento para la depuración de documentos, se sujetará a los lineamien
 
 I. El Consejo Consultivo de Depuración Documental, es el único órgano facultado para autorizar la baja de documentos.
 
-II. En caso de empate a la votación del Consejo Consultivo, el presidente del mismo tendrá voto de calidad.
+II. En caso de empate en la votación del Consejo Consultivo, el Presidente del mismo tendrá voto de calidad.
 
-III. El Archivo General Municipal deberá elaborar una relación de la documentación a depurar que incluirá el asunto, año y volumen de la documentación, informando de ello a la dependencia generadora y convocará al Consejo Consultivo de Depuración Documental.
+III. El Archivo Administrativo Municipal deberá elaborar una relación de la documentación a depurar que incluirá el asunto, año y volumen de la documentación, informando de ello a la dependencia generadora y convocará al Consejo Consultivo de Depuración Documental.
 
-IV. Si procede, el Consejo levantará un acta, autorizando la depuración al Archivo General Municipal para que sea cotejada con la relación a que se hace mención él (sic) la facción (sic) que antecede.
+IV. Si procede, el Consejo levantará un acta, autorizando la depuración al Archivo Administrativo Municipal para que sea cotejada con la relación a que se hace mención en la fracción que antecede.
 
 V. Concluida la revisión y confirmando el cotejo, el personal del archivo procederá a la destrucción física de la documentación mencionada.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 177
+
+BIS.- Cumplidos treinta años desde la fecha de producción de los documentos, el Archivo Administrativo Municipal deberá hacer su transferencia al Archivo Histórico Municipal de forma organizada y ordenada, conforme a un acta diseñada de acuerdo a las necesidades de dicha transferencia.
 
 ###### ARTÍCULO 178.
 
@@ -18076,3 +18148,9 @@ DECRETO QUE REFORMA EL ARTICULO 1322 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
