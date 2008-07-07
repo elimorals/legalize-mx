@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-18473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-14"
-last_updated: "2007-03-14"
+last_updated: "2008-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de julio de 2000.
 
@@ -49,9 +49,11 @@ Este Reglamento tiene por objeto el preservar, mantener y conservar el orden pú
 
 Toda conducta que se oponga o contravenga a cualquiera de los fines señalados en el artículo que antecede, será considerada como infracción y se sancionará en los términos de este Reglamento.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 4º.
 
-Las sanciones a las infracciones cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
+Las sanciones a las infracciones cometidas a este Reglamento, serán aplicadas, por la Autoridad Municipal que corresponda, sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
 
 ###### Art. 5º.
 
@@ -61,37 +63,65 @@ Es deber de todo ciudadano dentro de sus posibilidades y sin menoscabo de sus de
 
 Todo ciudadano puede denunciar ante las autoridades correspondientes, las conductas que infrinjan este Reglamento o cualquier otro de carácter municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 7º.
 
-Son autoridades municipales facultadas para aplicar el presente Reglamento, por delegación expresa del C. Gobernador del Estado, quien conservará el mando supremo de los cuerpos policiacos, las siguientes:
+Son autoridades municipales facultadas para aplicar el presente Reglamento dentro de sus respectivas atribuciones, por delegación expresa del C. Gobernador del Estado, quien conservará el mando supremo de los cuerpos policiacos, las siguientes:
 
 I.- El C. Presidente Municipal
 
 II.- El C. Secretario del R. Ayuntamiento
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
 III.- El C. Secretario de Policía Preventiva Municipal de Monterrey
 
 IV.- El C. Secretario de Vialidad y Tránsito
 
-V.- Los C. Jueces Calificadores
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-VI. Los C. Comisarios
+V.- El Sub-Director de Jueces Calificadores
 
-VII.- Los C. Inspectores Municipales
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+VI.- Los Coordinadores de Jueces Calificadores
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+VII.- Los Jueces Calificadores
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+VIII. Los Comisarios
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+IX.- Los Inspectores Municipales
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+X.- Los Oficiales de Vialidad y Tránsito
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XI.- Los Oficiales de la Secretaría de Policía Preventiva de Monterrey
 
 ###### Art. 8º.
 
 El presente Reglamento será aplicable en todos los lugares públicos, así como en los transportes del Servicio Público.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 9º.
 
-Para efectos de este Reglamento se considera como lugar público todo espacio de uso común, libre tránsito o acceso público, inclusive las plazas, los jardines, los mercados, los lugares donde se expendan bebidas alcohólicas, los inmuebles de recreación general, los estacionamientos públicos, los transportes de servicios público (sic) y similares.
+Para efectos de este Reglamento se considera como lugar público todo espacio de uso común, libre tránsito o acceso público, inclusive las plazas, los jardines, los mercados, los lugares donde se expendan bebidas alcohólicas, los inmuebles de recreación general, los estacionamientos públicos, los transportes de servicios públicos y similares.
 
 ### Capítulo II. Organización de la Secretaría de Policía Preventiva de Monterrey
 
 ###### Art. 10º.
 
-La Presidencia Municipal, por conducto de la Secretaría de Policía Preventiva Municipal de Monterrey y de los Jueces Calificadores, aplicará el presente Reglamento y sancionará a los infractores del mismo.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY.</small>
 
@@ -111,9 +141,11 @@ La Presidencia Municipal, por conducto de la Secretaría de Policía Preventiva 
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE POLICIA PREVENTIVA MUNICIPAL DE MONTERREY, P.O. 21 DE JUNIO DE 2002)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 14º.
 
-Los Jueces Calificadores, tendrán las siguientes atribuciones y responsabilidades:
+El Sub-Director, Coordinadores y Jueces Calificadores tendrán las siguientes atribuciones y responsabilidades:
 
 I.- Conocer, calificar y sancionar las infracciones al presente Reglamento y a los demás Reglamentos Municipales, en su calidad de auxiliares del Presidente Municipal.
 
@@ -123,7 +155,9 @@ III.- Ejercer funciones de conciliación, cuando por motivo de faltas al present
 
 IV.- Poner a disposición de las autoridades competentes a los detenidos, cuando se trate de la comisión de un delito.
 
-V.- Poner a disposición de las autoridades competentes, a los menores que hayan sido detenidos.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+V.- Poner a disposición de las autoridades competentes, a los menores que hayan sido detenidos por la posible comisión de un delito.
 
 VI.- (REFORMADA [N. DE E. DEROGADA, P.O. 11 DE JULIO DE 2001)
 
@@ -149,11 +183,11 @@ III.- A la Moral o a las Buenas Costumbres.
 
 IV.- Al Derecho de Propiedad.
 
-V.- Al Ejercicio del Comercio y del Trabajo.
+V.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 VI.- Contra la Salud.
 
-VII.- Contra el Ambiente y Equilibrio Ecológico
+VII.- Contra el Ambiente y Equilibrio Ecológico.
 
 VIII.- De Carácter Administrativo.
 
@@ -167,7 +201,7 @@ I.- Causar o provocar escándalos en lugares públicos.
 
 II.- Pronunciar en lugares públicos, expresiones injuriosas, despectivas o que ataquen a la moral de los ciudadanos o contra las instituciones públicas, sus funcionarios o representantes.
 
-III.- Alterar el orden, ingerir bebidas embriagantes, encontrarse bajo los efectos de drogas enervantes o tóxicos de cualquier tipo en la vía pública.
+III.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 IV.- Provocar y/o participar en riñas en la vía pública, lugares públicos, en espectáculos o reuniones públicas.
 
@@ -175,57 +209,87 @@ V.- Realizar manifestaciones o cualquier otro acto público que contravenga las 
 
 VI.- Quien obstruya o impida el acceso o salida de personas y/o cosas, a domicilios, instalaciones o edificios públicos o privados, argumentando el ejercicio de un derecho.
 
-VII.- Efectuar bailes o eventos en domicilios particulares para el público en general con fines lucrativos, sin permiso de la autoridad competente.
+VII.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 VIII.- Efectuar bailes en domicilios particulares en forma reiterada que causen molestias a los vecinos.
 
 IX.- Realizar prácticas musicales que causen molestias a los vecinos.
 
-X.- Efectuar bailes en salones, clubes y centros sociales, infringiendo el Reglamento que regula la actividad de tales establecimientos.
+X.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-XI.- Realizar en las plazas, jardines y demás sitios públicos, toda clase de juegos que constituyan un peligro para la comunidad o colocar tiendas, cobertizos, techos o vehículos que obstruyan el libre tránsito de peatones o de vehículos, así como la buena imagen del lugar.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XI.- Realizar en las plazas, jardines y demás sitios públicos, toda clase de juegos que constituyan un peligro para la comunidad o colocar tiendas, cobertizos, techos o vehículos que obstruyan el libre tránsito de peatones o de vehículos o afecten la buena imagen del lugar.
 
 XII.- Impedir, dificultar o entorpecer la prestación de los servicios públicos municipales.
 
-XIII.- Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas, sin el permiso de la autoridad correspondiente.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-### Capítulo V. Infracciones para la Seguridad de la Población
+XIII.- Permitir, tolerar o promover cualquier tipo de juego de azar con cruce de apuestas sin el permiso de la autoridad correspondiente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 2008)</small>
+
+### Capítulo V. Infracciones contra la Seguridad de la Población
 
 ###### Art. 18º.
 
 Son Infracciones en relación con la Seguridad de la Población:
 
-I.- Oponerse o resistirse a un mandato legítimo de cualquier autoridad, ya sea federal, estatal o municipal.
+I.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 II.- Utilizar la vía pública o los lugares no autorizados o restringidos, para efectuar juegos de cualquier clase.
 
-III.- Hacer uso de banquetas, calles, plazas, o cualquier otro lugar público para la exhibición o venta de mercancías o para el desempeño de trabajos particulares, sin la autorización o el permiso correspondiente.
+III.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 IV.- Arrojar a la vía pública o lotes baldíos objetos que puedan causar daños o molestias a los vecinos, transeúntes o vehículos.
 
-V.- Apedrear, rayar o dañar de cualquier forma los bienes muebles o inmuebles pertenecientes a terceros, sean de particulares o bienes públicos.
+V.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-VI.- Disparar armas de fuego.
+VI.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 VII.- Detonar cohetes, hacer fogatas, utilizar combustibles o materiales flamables, que pongan en peligro a las personas o sus bienes.
 
-VIII.- Agruparse con el fin de causar molestias o daños a las personas o sus bienes.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-IX.- Conducir vehículos en estado de intoxicación debido al consumo de bebidas alcohólicas, solventes o drogas.
+VIII.- Agruparse con el fin de causar molestias a las personas o sus bienes.
 
-X.- Solicitar con falsas alarmas, los servicios de la policía, ambulancia, bomberos o de establecimientos médicos o asistenciales públicos o privados.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-XI.- Dañar o mover las señales públicas del lugar donde hubiesen sido colocadas por la autoridad.
+IX.- Conducir vehículos en estado de intoxicación debido al consumo de solventes o drogas.
 
-XII.- Provocar incendios, derrumbes y demás actividades análogas en sitios públicos o privados.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-XIII.- Portar o utilizar objetos o sustancias que entrañen peligro de causar daño a las personas, excepto instrumentos para el desempeño del trabajo, deporte u oficio del portador o de uso decorativo.
+X.- Conducir vehículos en estado de ineptitud o de ebriedad.
 
-XIV.- Azuzar perros y otros animales con la intención de causar daños o molestias a las personas o sus bienes.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-XV.- Asistir, ya sea en estado de embriaguez y/o drogado a los cines, teatros, kermesses y demás lugares públicos.
+XI.- Conducir vehículos en estado de ineptitud o de ebriedad, en forma reincidente, entendiéndose como tal dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
-XVI.- Ingerir bebidas alcohólicas, consumir drogas o inhalar solventes en las calles, banquetas, avenidas, plazas, áreas verdes ó cualquier otro lugar público.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XII.- Solicitar con falsas alarmas, los servicios de la policía, ambulancia, bomberos o de establecimientos médicos o asistenciales públicos o privados.
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XIII.- Mover las señales públicas del lugar donde hubiesen sido colocadas por la autoridad.
+
+XIV.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XV.- Portar o utilizar objetos o sustancias que entrañen peligro de causar daño a las personas, excepto instrumentos para el desempeño del trabajo, deporte u oficio del portador o de uso decorativo.
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XVI.- Azuzar perros y otros animales con la intención de causar daños o molestias a las personas o sus bienes.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XVII.- Asistir, ya sea en estado de embriaguez y/o drogado a los cines, teatros, kermesses y demás lugares públicos.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XVIII.- Ingerir bebidas alcohólicas, consumir drogas o inhalar solventes en las calles, banquetas, avenidas, plazas, áreas verdes o cualquier otro lugar público.
 
 ### Capítulo VI. Infracciones a la Moral y a las Buenas Costumbres
 
@@ -241,9 +305,9 @@ III.- Inducir o incitar a menores a cometer faltas en contra de la moral y las b
 
 IV.- Desempeñar actividades en las que exista trato directo con el público, en estado de embriaguez o bajo los efectos de alguna droga.
 
-V.- Permitir la estancia o permanencia de menores de edad en lugares donde se consuman bebidas alcohólicas, excepto restaurantes u otros lugares de acceso a las familias.
+V.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-VI.- Ejercer la vagancia en forma habitual.
+VI.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 VII.- Realizar actos inmorales dentro de vehículos en la vía pública y lugares públicos.
 
@@ -253,57 +317,59 @@ IX.- Ejercer la mendicidad en la vía pública y lugares públicos.
 
 X.- Ejercer la prostitución en la vía pública y lugares públicos.
 
-XI.- Faltar el respeto a los ancianos, niños y mujeres en la vía pública y lugares públicos.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XI.- Faltar el respeto a cualquier persona en la vía pública y lugares públicos.
 
 XII.- Colocar o exhibir cartulinas o posters que ofendan al pudor o a la moral pública.
 
-XIII.- Permitir los directores, encargados, gerentes o administradores de escuelas, unidades deportivas o de cualquier área de recreación, que se consuman o expendan cualquier tipo de bebidas embriagantes sin el permiso correspondiente, o sustancias tóxicas dentro de las instituciones a su cargo.
+XIII.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-XIV.- Exhibir públicamente material pornográfico o intervenir en actos de su comercialización o difusión en la vía pública. Los negocios autorizados para manejar este tipo de mercancía, deberán contar con un área reservada a la que no tengan acceso los menores de edad.
+XIV.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-XV.- Maltratar o explotar los padres o tutores a sus hijos o pupilos.
+XV.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-XVI.- Abandonar y/o maltratar los hijos o pupilos a los padres o tutores.
+XVI.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 XVII.- Enviar a menores de edad a comprar bebidas alcohólicas de cualquier tipo, en los establecimientos comerciales.
 
-XVIII.- Realizar actos de exhibicionismo que ataquen la moral y las buenas costumbres.
+XVIII.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-XIX.- Realizar cualquier acto contra la moral y las buenas costumbres.
+XIX.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 ### Capítulo VII. Infracciones al Derecho de Propiedad
 
 ###### Art. 20º.
 
-Son Infracciones al derecho de Propiedad:
+Son infracciones al derecho de Propiedad:
 
-I.- Dañar, pintar o manchar los monumentos, edificios, casas-habitación, estatuas, postes, arbotantes, bardas, ya sea de propiedad particular ó publica.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-II.- Causar daños en las calles, parques, jardines, plazas y lugares públicos.
+I.- Pintar, manchar o hacer grafitos en los monumentos, edificios, casas-habitación, estatuas, postes, arbotantes, bardas, ya sea de propiedad particular o publica.
 
-III.- Destruir, apedrear o afectar las lámparas o luminarias del alumbrado público.
+II.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-IV.- No comunicar a la autoridad municipal, los objetos o bienes mostrencos o abandonados en lugares públicos.
+III.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-V.- Dañar, destruir y apoderarse o cambiar de lugar las señales públicas, ya sean de tránsito o de cualquier señalamiento oficial.
+IV.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-VI.- Causar daño a las casetas telefónicas públicas, dañar los buzones o cualquier aparato de uso común colocado en la vía pública.
+V.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-VII.- Borrar, destruir o pegar cualquier leyenda sobre los nombres y letras con las que estén marcadas las cales (sic) del Municipio, rótulos con que se signan las calles, callejones, plazas y casas destinadas al uso público, así como las indicaciones relativas al tránsito de la población.
+VI.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-VIII.- Introducirse a lugares públicos de acceso reservado sin el permiso de la autoridad, o bien a propiedad privada sin autorización del propietario.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+VII.- Borrar o pegar cualquier leyenda sobre los nombres y letras con las que estén marcadas las calles del Municipio, rótulos con que se signan las calles, callejones, plazas y casas destinadas al uso público, así como las indicaciones relativas al tránsito de la población.
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+VIII.- Introducirse a lugares públicos de acceso reservado sin el permiso de la autoridad correspondiente.
 
 ### Capítulo VIII. Infracciones al Ejercicio del Comercio y del Trabajo
 
 ###### Art. 21°.
 
-Son Infracciones al Ejercicio del Comercio y del Trabajo
-
-I.- Trabajar como prestador de servicios o de cualquier actividad comercial, cuando para desempeñarla se requiera del permiso o licencia de la autoridad municipal y no cuente con ella, o bien; sin sujetarse a las condiciones requeridas para la prestación de dichos servicios.
-
-II.- Colocar sillas o módulos para aseo de calzado, fuera de los lugares autorizados.
-
-III.- Ejercer actos de Comercio dentro del área de cementerios, templos, iglesias, monumentos, edificios públicos y en aquellos lugares que por su tradición y costumbre, merezcan respeto, a menos que cuenten con la autorización y el permiso correspondiente para tal efecto.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ### Capítulo IX. Infracciones contra la Salud
 
@@ -317,13 +383,13 @@ II.- Orinar o defecar en los parques, plazas, lotes baldíos o en cualquier tipo
 
 III.- Tirar basura, tóxicos, materiales o animales que obstruyan las corrientes de agua de los manantiales, tanques almacenadores, fuentes públicas, acueductos, tuberías, alcantarillas y drenajes pluviales.
 
-IV.- No contar los propietarios, encargados u organizadores con personal médico o paramédico y de primeros auxilios en espectáculos públicos, masivos, de carreras de vehículos, toros, rodeos, fútbol y otros que por su naturaleza así lo requieran, en donde puedan producirse lesiones.
+IV.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-V.- Arrojar fuera de los depósitos colectores, basuras, desperdicios, desechos o sustancias similares.
+V.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-VI.- Fumar en lugares públicos.
+VI.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
-VII.- Vender o proporcionar bebidas alcohólicas o tóxicos a menores de edad en cualquiera de sus modalidades.
+VII.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 ### Capítulo X. Infracciones contra el Ambiente y Equilibrio Ecológico
 
@@ -335,7 +401,9 @@ I.- La destrucción y maltrato de los árboles, flores y cualquier ornamento que
 
 II.- Permitir, los dueños de los animales, que éstos beban de las fuentes públicas, así como que pasten, defequen o hagan daños en los jardines y áreas verdes o cualquier otro lugar público.
 
-III.- Disponer de flores, frutas, plantas, árboles o cualquier otro tipo de objetos que pertenezca a la Autoridad Municipal o de propiedad particular, sin el permiso de quien tenga el derecho de otorgarlo.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+III.- Disponer de flores, frutas, plantas, árboles o cualquier otro tipo de flora que pertenezca a la Autoridad Municipal o de propiedad particular, sin el permiso de quien tenga el derecho de otorgarlo.
 
 IV.- Incinerar desperdicios de hule, llantas, plásticos y similares cuyo humo cause molestias o trastorno al ambiente.
 
@@ -343,9 +411,9 @@ V.- Incinerar basura sin autorización de autoridad competente.
 
 VI.- Atrapar o cazar fauna, desmontar, retirar tierra de bosques o zonas de reserva ecológica, sin permiso de la autoridad competente.
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-VII.- Causar ruidos o sonidos que moleste, perjudique o afecte la tranquilidad de la ciudadanía, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68 dB (decibeles) de las 6:00 a las 22:00 horas y de 65 dB (decibeles) de las 22:00 a las 6:00 horas, del día siguiente.
+VII.- Causar ruidos o sonidos que moleste, perjudique o afecte la tranquilidad de la ciudadanía, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68dB (decibeles) de las 6:00 a las 22:00 horas y de 65dB (decibeles) de las 22:00 a las 6:00 horas del día siguiente.
 
 ### Capítulo XI. Infracciones de Carácter Administrativo
 
@@ -361,7 +429,7 @@ III.- No enviar los padres o tutores a sus hijos o pupilos a la escuela primaria
 
 IV.- Desobedecer o tratar de burlar a la autoridad que le llame la atención, en relación con cualquier aspecto relacionado con el orden y la tranquilidad de la población en general.
 
-V.- Alterar o mutilar las boletas de infracciones o cualquier tipo de notificación que sea realizada por la autoridad municipal.
+V.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 VI.- Otras que estén contempladas con ese carácter en cualquier ordenamiento municipal.
 
@@ -395,7 +463,7 @@ Cuando un menor sea presentado ante la autoridad municipal por haber cometido al
 
 ###### Art. 31°.
 
-En caso de que por la infracción cometida por un menor, éste deba de permanecer arrestado, se procurará que dicho arresto se cumpla en un lugar que se encuentra separado de aquel destinado para las personas mayores detenidas.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ###### Art. 32º.
 
@@ -415,21 +483,35 @@ III.- Arresto hasta por 36 horas.
 
 En la imposición de la sanción se deberán apreciar las circunstancias de la falta, considerando atenuantes, si existiere, y los siguientes agravantes:
 
-a).- Reincidencia.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
+a).- Reincidencia, es decir, la comisión de la misma infracción 2 veces o más dentro del período de 6 meses, que se contarán a partir de la comisión de la primera infracción.
 
 b).- Uso de Violencia Física o Moral.
 
 c).- La gravedad de la infracción y el peligro de la conducta del infractor.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Art. 34º.
 
-El Presidente Municipal delega la facultad de determinar la calificación de las infracciones y la aplicación de las sanciones a los C. Jueces Calificadores, los que sin perder el carácter de auxiliares de éste, dependen jerárquicamente del Secretario del Ayuntamiento.
+El Presidente Municipal delega la facultad de determinar la calificación de las infracciones y la aplicación de las sanciones al Sub-Director, Coordinadores y Jueces Calificadores, los que sin perder el carácter de auxiliares de éste, dependen jerárquicamente del Secretario del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Art. 34° Bis.
+
+En el caso de la comisión, por primera ocasión, de las infracciones contenidas en los artículos 17 fracciones I, II, VIII, IX, XI, 18 fracción II, 19 fracciones I, II, VII y IX y 23 fracción VII, el Juez Calificador aplicará al infractor la sanción consistente en amonestación.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Art. 35°.
 
-Si la sanción aplicada fuese una multa, ésta podrá ser de 1-una, a 10-diez cuotas. Se entiende como cuota el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda este Municipio.
+Si la sanción aplicada fuese una multa, ésta será determinada en cuotas, entendiéndose como tal el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda este Municipio.
+
+Las multas a aplicar serán las siguientes:
+
+(VEASE ARCHIVO ANEXO)
 
 ###### Art. 36º.
 
@@ -441,7 +523,9 @@ La calidad de jornalero, obrero o trabajador podrá demostrarse con cualquier do
 
 Los trabajadores no asalariados podrán demostrar esta calidad con cualquier documento que compruebe el tipo de actividad que realiza de manera preponderante.
 
-Los infractores a que hacen referencia los párrafos anteriores, tendrán un período de 24 horas para demostrar su calidad de jornaleros obreros o trabajadores no asalariados, ante el C. Juez Calificador Municipal.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
+Los infractores a que hacen referencia los párrafos anteriores, tendrán el período que dure su arresto para demostrar su calidad de jornaleros, obreros o trabajadores no asalariados, ante el C. Juez Calificador Municipal, quien le dará las facilidades al detenido para hacer las llamadas necesarias al efecto.
 
 ###### Art. 37°.
 
@@ -453,19 +537,21 @@ Los infractores a que hacen referencia los párrafos anteriores, tendrán un per
 
 Si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36-horas.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 39°.
 
-Si el infractor paga la multa que le haya sido impuesta, de inmediato será puesto en libertad. Si el infractor esta compurgando arresto por no haber pagado la multa y posteriormente ésta se paga, dicha suma le será reducida proporcionalmente a las horas en que haya pasado bajo arresto.
+Si el infractor paga la multa que le haya sido impuesta, de inmediato se ordenará sea puesto en libertad.
 
 ###### Art. 40°.
 
-Si como resultado de la infracción cometida se originasen daños al patrimonio municipal, el infractor se hará cargo de reparar o realizar la erogación para efectos de restablecer las cosas a su estado original ó en su defecto se pondrá a disposición de la Autoridad competente.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
-Si al cometerse una falta al presente reglamento se causen daños al patrimonio de algún tercero, previo acuerdo de las partes, la Autoridad Municipal determinará el importe que debe pagar el infractor al tercero, por concepto de reparación de daño. Si el infractor no aceptase pagar dicha cantidad, el tercero tendrá expedito su derecho para ejercitarlo ante la Autoridad competente.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Art. 41º.
 
-Si los Jueces Calificadores observan la comisión de un delito, deberán turnar el caso al Agente del Ministerio Público Investigador correspondiente y tratándose de menores deberán ponerlo a disposición del Consejo Estatal de Menores.
+Si los Jueces Calificadores observan la comisión de un delito, deberán turnar el caso al Agente del Ministerio Público Investigador correspondiente y tratándose de menores deberán ponerlo a disposición de la Autoridad competente.
 
 ###### Art. 42º.
 
@@ -473,9 +559,11 @@ Si la infracción es cometida por dos o más personas, cada una de ellas se har�
 
 ### Capítulo XV. De la Calificación de las Infracciones
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 43º.
 
-Cometida alguna infracción a lo previsto en este Reglamento o a otros ordenamientos municipales, el presunto infractor será puesto a disposición de los C. Jueces Calificadores, Autoridad en que el C. Presidente Municipal, delegue la facultad de determinar e imponer sanciones.
+Cometida alguna infracción a lo previsto en este Reglamento o a otros ordenamientos municipales, el presunto infractor será puesto a disposición de los C. Jueces Calificadores en la oficina o delegación más cercana, autoridad en que el C. Presidente Municipal delega la facultad de determinar e imponer sanciones. En las oficinas o delegaciones de Jueces Calificadores se deberá colocar en un lugar visible el tabulador que contengan las infracciones a este Reglamento, así como las sanciones que correspondan, para el conocimiento de la ciudadanía en general.
 
 ###### Art. 44º.
 
@@ -489,7 +577,9 @@ III.- El arrestado tendrá derecho a llamar por teléfono. Si el detenido design
 
 IV.- Sin ningún tipo de formulismo será celebrada una Audiencia oral, a la cual comparecerá el detenido y las personas implicadas en los hechos.
 
-V.- Durante la audiencia, el C. Juez Calificador, a su criterio y según sea el caso, podrá:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2008)</small>
+
+V.- Durante la audiencia, el C. Juez Calificador, a su criterio y según sea el caso, deberá:
 
 a).- Interrogar al arrestado en relación con los hechos, materia de la detención.
 
@@ -511,9 +601,11 @@ i).- Si no fuese responsable de la infracción a criterio del Juez Calificador, 
 
 j).- Si al interrogar al detenido, el mismo confiesa o acepta los hechos que se imputan o la comisión de la infracción, se ordenará la terminación de la audiencia y sin más trámites se emitirá la resolución correspondiente.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 45º.
 
-A todo detenido, en cualquiera de los estados de embriaguez, se le deberá practicar examen médico de inmediato. En caso de que desee obtener su libertad, deberá comparecer cualquier familiar para que se responsabilice del detenido, previo pago de la multa correspondiente.
+A todo detenido, en cualquiera de los estados de embriaguez, se le deberá practicar examen médico de inmediato. En caso de que desee obtener su libertad, deberá comparecer cualquier familiar para que se responsabilice del detenido, previo pago de la multa o arresto correspondiente.
 
 ###### Art. 46º.
 
@@ -533,7 +625,7 @@ Si las infracciones a que se refiere este ordenamiento y demás normas de carác
 
 ###### Art. 50°.
 
-Toda persona que presente alguna queja en las oficinas de la Dirección de Seguridad Pública, el Juez Calificador está facultado para citar al presunto infractor, y en caso de no comparecer, se le enviará una segunda cita. Si hace caso omiso, se le aplicarán las sanciones establecidas en el presente Reglamento.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ###### Art. 51º.
 
@@ -541,51 +633,31 @@ Los C. Jueces Calificadores procurarán que los asuntos de los que hayan tenido 
 
 ### Capítulo XVI. Del Recurso de Inconformidad
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Art. 52º.
 
-Contra los actos y resoluciones de la autoridad que imponga las sanciones a que este Reglamento se refiere, el interesado podrá interponer el recurso de inconformidad.
+Contra cualquier acto de la autoridad municipal que viole el presente reglamento, procederá el recurso de inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey.
 
 ###### Art. 53°.
 
-El Recurso de inconformidad tiene por objeto, que la autoridad confirme, revoque o modifique la resolución impugnada.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ###### Art. 54°.
 
-El recurso de inconformidad que interponga, deberá presentarse ante Juez Calificador, quien deberá enterar al Secretario del Ayuntamiento o bien a la persona que éste designe para su resolución. El afectado contará con un plazo de cinco días hábiles para la promoción del recurso, contados a partir de la fecha en que se le notificó o conoció la sanción.
-
-El recurso mencionado, deberá formularse por escrito y firmarse por el recurrente o por su representante debidamente acreditado. En el caso de ordenarse el arresto y en el supuesto de que al imponerse multa alt (sic) arresto, por no pagarse la multa se arreste al infractor, el recurso podrá formularse verbalmente por comparecencia ante el Juez Calificador.
-
-El escrito deberá contener:
-
-I.- Nombre y domicilio del recurrente y en su caso, de quien promueve en su representación.
-
-II.- Si fuesen varios los recurrentes, el nombre y domicilio de su representante común.
-
-III.- El interés legítimo y específico que asiste al recurrente.
-
-IV.- La autoridad o autoridades que dictaron el acto recurrido.
-
-V.- La mención precisa del acto de autoridad que motiva la interposición del recurso.
-
-VI.- Los conceptos de violación o en su caso las objeciones a la sanción reclamada.
-
-VII.- Las pruebas que ofrezcan que tengan relación inmediata y directa con la resolución o acto impugnado, debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúen en nombre de otro o de personas morales.
-
-VIII.- El lugar y la fecha de la promoción.
-
-IX.- Deberá firmarse por el recurrente o por su representante debidamente acreditado.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ###### Art. 55°.
 
-El término para el desahogo de las pruebas ofrecidas, será de cinco días hábiles, contados a partir del día siguiente de hecha tal solicitud.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ###### Art. 56°.
 
-Dentro del término no mayor de 15 días hábiles, después de concluir el período de pruebas, la Autoridad confirmara, modificará o revocará el acto recurrido.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ###### Art. 57°.
 
-El término máximo para resolver el recurso de inconformidad en el caso de arresto, siempre que continúe detenido el infractor, será de 12 horas. La persona a quien se delegue la facultad de resolver el recurso de inconformidad deberá enterar sin demora su resolución al Juez Calificador para que provea sobre su cumplimiento y para notificarlo al recurrente.
+(DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 ### Capítulo XVII. Procedimiento de Revisión y Consulta
 
@@ -646,3 +718,7 @@ TERCERO.- Se derogan los artículos 11, 12 y 13 del Reglamento de Policía y Bue
 P.O. 14 DE MARZO DE 2007.
 
 Artículo Único.- Las reformas por modificación y derogación al REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 7 DE JULIO DE 2008.
+
+Artículo Único.- Las reformas por Adición, modificación y derogación al REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
