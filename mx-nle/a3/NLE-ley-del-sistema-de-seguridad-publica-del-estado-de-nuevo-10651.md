@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2008-04-10"
+last_updated: "2008-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -559,9 +559,17 @@ II.- Sugerir medidas específicas y acciones concretas para mejorar esta funció
 
 III.- Proponer reconocimientos por méritos o estímulos para los miembros de las instituciones policiales;
 
-IV.- Realizar denuncias o quejas sobre irregularidades; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-V.- Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
+IV.- Dar seguimiento a que el inculpado cumpla con el tratamiento al que se le sujetó, al que se refiere el artículo 287 bis 1 del Código Penal para el Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+V.- Realizar denuncias o quejas sobre irregularidades; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+VI.- Auxiliara las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
 
 El Comité podrá designar un vocal para coordinar cada una o varias de dichas actividades.
 
@@ -1288,3 +1296,7 @@ P.O. 10 DE ABRIL DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo.- El Ejecutivo del Estado, así como los Ayuntamientos de la entidad, en el ámbito de sus respectivas competencias, deberán expedir el Reglamento para la asignación de protección a los servidores públicos a que hace referencia en el Artículo 4° de la Ley del Sistema de Seguridad Pública del Estado de Nuevo León en un plazo no mayor de 90 días naturales.
+
+P.O. 7 DE JULIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
