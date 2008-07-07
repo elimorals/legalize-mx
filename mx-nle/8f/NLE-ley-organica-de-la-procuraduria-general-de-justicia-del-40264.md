@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2007-09-26"
+last_updated: "2008-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -99,9 +99,17 @@ a. La Dirección General de Averiguaciones Previas, de la que formarán parte:
 
 2. La Dirección de Agentes del Ministerio Público de Protección a la Familia y Delitos en General;
 
-3. La Dirección de Agentes del Ministerio Público en Asuntos Viales; y
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
-4. La Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito.
+3. La Dirección de Agentes del Ministerio Público en Asuntos Viales;
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
+4. La Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito; y
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+5. La Dirección de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble.
 
 b. La Dirección General de Control de Procesos y Amparos de la que formarán parte:
 
@@ -575,9 +583,17 @@ IX.- Director de Agentes del Ministerio Público en Asuntos Viales;
 
 X.- Director General de Control de Procesos y Amparos;
 
-XI.- Director de Amparos; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-XII.- Director de Agentes del Ministerio Público Adscritos a Juzgados.
+XI.- Director de Amparos;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XII.- Director de Agentes del Ministerio Público Adscritos a Juzgados; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XIII.- Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble.
 
 Además tendrán carácter de Ministerio Público los que determinen el Reglamento de esta Ley y demás disposiciones legalmente aplicables.
 
@@ -611,7 +627,9 @@ II.- Revisar y devolver a los Agentes del Ministerio Público Investigadores, la
 
 III.- Resolver los conflictos de competencia que se presenten entre Agentes del Ministerio Público investigadores, así como las diferencias de criterio que surjan entre ellos;
 
-IV.- Instruir a los Ministerios Públicos Investigadores, respecto de los casos en que por acuerdo del Procurador o del Subprocurador del Ministerio Público, deberán ejercitar acción penal directamente ante el órgano jurisdiccional;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+IV.- Instruir a los Agentes del Ministerio Público Investigadores, respecto de los casos en que por acuerdo del Procurador o del Subprocurador del Ministerio Público, deberán ejercitar acción penal directamente ante el órgano jurisdiccional;
 
 V.- Aprobar las propuestas que formulen los Agentes del Ministerio Público Investigadores, dentro de aquellas averiguaciones en que la denuncia o querella se haya hecho por delitos de los considerados graves conforme al Código Penal vigente en el Estado, en que se pretenda dictar un auto de reserva de la averiguación previa;
 
@@ -643,9 +661,11 @@ XVII.- Operar una base de datos para el adecuado control de las investigaciones 
 
 XVIII.- Las que le encomiende el Subprocurador del Ministerio Público o le otorguen esta Ley, su Reglamento, y demás disposiciones legalmente aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Artículo 33.
 
-La Dirección de Agentes del Ministerio Público en Delitos Patrimoniales y la Dirección de Agentes del Ministerio Público de Protección a la Familia y Delitos en General dependen de la Dirección General de Averiguaciones Previas y son las unidades administrativas responsables de auxiliar a ésta en la integración de las averiguaciones previas, siendo competentes para realizar las acciones referidas en los artículos 23 y 25 de esta Ley, así como las siguientes:
+La Dirección de Agentes del Ministerio Público en Delitos Patrimoniales, la Dirección de Agentes del Ministerio Público de Protección a la Familia y Delitos en General y la Dirección de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble, dependen de la Dirección General de Averiguaciones Previas y son las unidades administrativas responsables de auxiliar a ésta en la integración de las averiguaciones previas, siendo competentes para realizar las acciones referidas en los artículos 23 y 25 de esta Ley, así como las siguientes:
 
 I.- Integrar a través de los Agentes del Ministerio Público Investigadores las averiguaciones previas en sus respectivas materias y, en su caso, ejercer la acción penal;
 
@@ -755,7 +775,9 @@ III.- Las que le encomiende el Director General de Control de Procesos y de Ampa
 
 La Dirección de Amparos depende de la Dirección General de Control de Procesos y Amparos, y es la unidad administrativa responsable de ejercer las acciones necesarias para la debida representación de la Institución frente a los órganos de control constitucional, siendo competente para:
 
-I.- Acreditar en los términos del párrafo primero del artículo 19 de la Ley de Amparo, a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador, Subprocurador del Ministerio Público, Director General de Control de Procesos y Amparos, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Asuntos Viales, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público Adscritos a Juzgados y Agentes del Ministerio Público Investigadores, Conciliadores o Adscritos; para que concurran a las audiencias a efecto de que en ellas rinda pruebas, alegatos o haga promociones, a excepción de aquellas relativas a recursos de inconformidad interpuestos contra inejercicios de la acción penal; tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+I.- Acreditar en los términos del párrafo primero del artículo 19 de la Ley de Amparo, a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador, Subprocurador del Ministerio Público, Director General de Control de Procesos y Amparos, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Asuntos Viales, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público Adscritos a Juzgados, Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble y Agentes del Ministerio Público Investigadores, Conciliadores o Adscritos; para que concurran a las audiencias a efecto de que en ellas rinda pruebas, alegatos o haga promociones, a excepción dé aquellas relativas a recursos de inconformidad interpuestos contra inejercicios de la acción penal; tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
 
 II.- Gestionar, para los efectos de la fracción IV del artículo 5º de la Ley de Amparo, con el Delegado de la Procuraduría General de la República o con los Agentes del Ministerio Público Federal adscritos a los Juzgados de Distrito, la interposición de los recursos que señale la Ley referida en los juicios de amparo penales en que se reclamen resoluciones de Tribunales locales, cuando se estime que las sentencias dictadas en audiencias constitucionales o resoluciones de incidentes de suspensión, causen agravio a los intereses de la representación social;
 
@@ -1445,7 +1467,9 @@ Los Subprocuradores serán nombrados por el Gobernador del Estado y deberán reu
 
 El Visitador General, los Directores Generales, los Directores y los Secretarios Particular y Técnico serán nombrados y removidos por el Procurador.
 
-Para ser nombrado Visitador General, Director de Agentes del Ministerio Público Auxiliares del Procurador, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público en Asuntos Viales, Director General de Control de Procesos y Amparos, Director de Amparos, Director de Agentes del Ministerio Público Adscritos a Juzgados, Secretario Particular y Secretario Técnico deberán reunirse los mismos requisitos que para ser Agente del Ministerio Público.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
+Para ser nombrado Visitador General, Director de Agentes del Ministerio Público Auxiliares del Procurador, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público en Asuntos Viales, Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble, Director General de Control de Procesos y Amparos, Director de Amparos, Director de Agentes del Ministerio Público Adscritos a los Juzgados, Secretario Particular y Secretario Técnico deberán reunirse los mismos requisitos que para ser Agente del Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2005)</small>
 
@@ -1495,9 +1519,15 @@ X.- El Director de Despliegue Policial: Por el Director de Análisis e Informaci
 
 XI.- El Director de Análisis e Información: Por el Director de Criminalística y Servicios Periciales o por el Director de Despliegue Policial; a falta o excusa de ambos, por el Director General de la Agencia;
 
-XII.- Los Agentes del Ministerio Público, Investigadores y Adscritos a los Juzgados del Quinto Distrito Judicial en adelante, por sus Secretarios o Delegados o por el Síndico del Ayuntamiento del lugar, en ausencia de los tres primeros; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-XIII. El personal restante, por quien designe el superior jerárquico.
+XII.- Los Agentes del Ministerio Público, Investigadores y Adscritos a los Juzgados del Quinto Distrito Judicial en adelante, por sus Secretarios o Delegados o por el Síndico del Ayuntamiento del lugar, en ausencia de los tres primeros;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XIII.- El Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble será sustituido por el Director de Agentes del Ministerio Público en Delitos Patrimoniales o el Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General; y
+
+XIV.- El personal restante, por quien designe el superior jerárquico.
 
 Cuando la falta exceda de treinta días, se designará a la persona que interinamente debe suplir al servidor público, y si es absoluta, se cubrirá mediante nuevo nombramiento. En ambos casos, la designación se hará por el Gobernador o el Procurador, según a quien corresponda hacer el nombramiento de conformidad con lo establecido por la Ley.
 
@@ -2018,3 +2048,7 @@ Artículo Tercero.- Los Ayuntamientos, en el ámbito de su competencia, en un pl
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Nuevo León.
