@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2007-07-04"
+last_updated: "2008-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -417,9 +417,13 @@ Si el demandado fuera extranjero, las copias de la demanda y de los documentos i
 
 Estas reglas se observarán para dar cumplimiento en el Estado a los exhortos de tribunales extranjeros que requieran a las autoridades judiciales locales, la práctica de alguna diligencia de su competencia.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Artículo 48.
 
 Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
+
+Asimismo, tratándose de exhortos y despachos entre tribunales del Estado, podrán enviarse mediante el sistema Tribunal Virtual, certificándose en la misma forma que lo prevé el artículo 74 del segundo título especial del libro séptimo de este código. Cuando se hagan por esta vía, las constancias de diligenciación se remitirán de oficio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -681,9 +685,9 @@ Las partes podrán designar personas solamente autorizadas para oír notificacio
 
 El Juez, al acordar lo relativo a la autorización a que se refiere este artículo, deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
-Así mismo, las partes podrán solicitar la autorización por sí o persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la página electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de internet del Tribunal Virtual. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por el artículo 76 de este Código. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual que se establezcan por el Tribunal Superior de Justicia a través del reglamento que para tal efecto se emita. Se excluye de la anterior forma de notificación el emplazamiento a juicio, además de las que el juez considere necesarias.
+Así mismo, las partes podrán solicitar la autorización por sí o persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la página electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de Internet del Tribunal Virtual. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por el articulo 76 de este Código. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual que se establecen en el Segundo Título Especial del Libro Séptimo de este Código.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -8439,17 +8443,17 @@ Cuando por motivos especiales fuere necesario hacer constar más de los que cupi
 
 Los jueces no son recusables; pero deben excusarse cuando estén impedidos y en tal caso el negocio pasará al juzgado que determine la Ley Orgánica del Poder Judicial.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2005)</small>
 
 SEGUNDO TITULO ESPECIAL
 
-DEL TRIBUNAL VIRTUAL
+Del Tribunal Virtual
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Artículo 44.
 
-Se entenderá por Tribunal Virtual el sistema de procesamiento de información, electrónico o virtual, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a los lineamientos de operación establecidos por el Tribunal Superior de Justicia, a través del reglamento que para tal efecto se emita.
+Se entenderá por Tribunal Virtual el sistema de procesamiento de información, electrónico o virtual, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a los lineamientos de operación establecidos en el Segundo Título Especial del Libro Séptimo de este Código.
 
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -8479,7 +8483,7 @@ V. Deberá presentarse una solicitud por expediente.
 
 Una vez presentada la solicitud, la autoridad jurisdiccional que conoce del asunto, procederá de acuerdo a los artículos 34 y 52 de este Código.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Artículo 48.
 
@@ -8493,13 +8497,319 @@ Contraseña: es una clave elegida por el interesado en el proceso de su registro
 
 Firma Electrónica: es la información en forma electrónica consignada en un mensaje de datos, adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al firmante en relación con el mensaje y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
 
-Página Electrónica: son las pantallas de acceso de los sistemas computacionales que mediante Internet publica el Poder Judicial del Estado.
+Página Electrónica: son las pantallas de acceso de los sistemas computacionales que mediante Internet pública el Poder Judicial del Estado.
 
 Acción Electrónica: es cualquier consulta, envío de información o interacción que se realicen en las páginas electrónicas del Tribunal Virtual del Poder Judicial del Estado.
 
 Notificación Electrónica: proceso mediante el cual se dan a conocer las actuaciones judiciales realizadas en los procesos civiles, familiares y de jurisdicción concurrente a los usuarios del Tribunal Virtual que así lo hayan solicitado.
 
 Expediente Electrónico: Es el conjunto de documentos digitalizados, promociones electrónicas y resoluciones realizadas en los sistemas del poder judicial, almacenados en sus bases de datos siendo una copia fiel del expediente físico.
+
+Administrador: Persona u órgano que conforme a lo indicado en este título es encargado de realizar una función de servicio, control, monitoreo, estadística o de naturaleza análoga, dentro de la estructura del Tribunal Virtual, ya sea de orden administrativo o técnico.
+
+Servicios: Funciones del Tribunal Virtual que serán determinadas por el administrador del sistema, controlada por él y debidamente identificadas para beneficio de los usuarios.
+
+Consulta electrónica: Acto mediante el cual un usuario revisa la información que se encuentra en la base de datos del Tribunal Virtual a la cual se le ha permitido el acceso.
+
+Recepción electrónica: Momento en el cual queda registrado en el sistema la entrega electrónica de una o varias solicitudes generadas por un usuario previamente autorizado para ello, lo que se reflejará en una medida de tiempo de horas, minutos y segundos, indicando igualmente la fecha calendario.
+
+Módulo: Ventana o página electrónica, externa (para usuarios) o interna (para servidores públicos), que forma parte del Tribunal Virtual, permitiendo la realización o uso de un servicio, a través del usuario y contraseña adecuado.
+
+Autorización: Es el consentimiento explícito del administrador a través de una acción electrónica dentro del mismo sistema, que permite al usuario solicitante realizar una función determinada. Esta autorización será realizada por quien tiene facultades para ello.
+
+Replicación: Momento en el cual el sistema actualiza la información diaria para agregar las actuaciones judiciales que se han realizado en un periodo ordinario de tiempo.
+
+Generación de resoluciones: Es la producción de los proyectos de decretos, autos o sentencias, a través de los módulos internos del sistema para la revisión y firma del titular del tribunal correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 49.
+
+El Tribunal Virtual es un sistema integral de información que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado, conforme al presente título especial y a los acuerdos especiales que dicte el Tribunal Superior de Justicia.
+
+Este sistema electrónico funciona a través de módulos internos, los cuales proveen la generación de resoluciones judiciales y su publicación en el Boletín Judicial del Estado. De la misma forma, crea expedientes electrónicos con las resoluciones Judiciales, las peticiones de las partes y con los escritos de cualquier persona que participe en el proceso, debidamente digitalizadas o generadas en el mismo sistema, que son verificadas y controladas para su exposición a través de Internet.
+
+Asimismo, el Tribunal Virtual opera mediante módulos externos, mismos que permiten la consulta controlada de los procedimientos jurisdiccionales por el público en general, así como la actuación judicial en los mismos a través de la vía electrónica, mediante las especificaciones que se expresan en el presente título.
+
+El Tribunal Superior de Justicia y el Consejo de la Judicatura, en sus respectivas facultades, vigilarán el exacto cumplimiento de las normas de operación por los servidores públicos de las Salas y de los Juzgados, así como de las unidades administrativas, aunado a lo que se especifique en otras legislaciones.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 50.
+
+El sistema tendrá cuatro funciones principales: La formación del expediente electrónico a través de la generación de las resoluciones judiciales en el sistema y la digitalización de documentos; la consulta de expedientes electrónicos; la recepción electrónica de promociones o peticiones diversas y la notificación en forma electrónica de las resoluciones judiciales.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 51.
+
+Cuando en este título no se encuentre disposición que permita establecer criterios de operación relacionados con el Tribunal Virtual, el Tribunal Superior de Justicia establecerá, mediante acuerdo general, el criterio a seguir y tomar las medidas más convenientes para cumplir con los fines del sistema informático, que tendrá vigencia al día siguiente de su publicación en el Boletín Judicial.
+
+Asimismo, el Tribunal Superior de Justicia establecerá modificaciones en la operación y servicios del Tribunal Virtual, y el Consejo de la Judicatura lo hará en lo relacionado con las políticas de la tecnología informática.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+
+De la administración del Tribunal Virtual
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 52.
+
+El objeto principal del Tribunal Virtual es apoyar la administración de justicia con seguridad y transparencia.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 53.
+
+El administrador del sistema Tribunal Virtual generará una bitácora histórica diaria del sistema, la cual conservará en forma electrónica para establecer las políticas de operación del sistema.
+
+Los comentarios de los miembros de los tribunales que operan a través del Tribunal Virtual se harán saber al administrador a través de reportes de servicio en caso de fallas técnicas, o por oficio en caso de dudas y fijación de criterios.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 54.
+
+Los datos mínimos de registro que se requieren para ser usuario del Tribunal Virtual serán: nombre, edad, profesión u ocupación, correo electrónico y domicilio. El administrador del sistema deberá verificar el cumplimiento estricto de estos datos, procurando que los mismos llenen a satisfacción una identificación real del usuario, a quien se le podrá negar el registro hasta que aclare cualquier información dudosa o incorrecta.
+
+Para hacer uso del Tribunal Virtual se deben cumplir los mismos requisitos de capacidad legal a que hace el presente Código de Procedimientos Civiles del Estado, así como el Código Civil de la entidad.
+
+En el ingreso inicial del usuario le será presentado un convenio electrónico de uso donde se le obligue a conducirse con respeto y legalidad en el manejo de la información y los componentes del sistema, haciéndole de su conocimiento los alcances legales del mismo y las sanciones a que puede ser acreedor en caso de obrar en contrarío. De la misma forma se expondrá lo más conveniente para el Poder Judicial del Estado, a fin de obtener el compromiso fehaciente del usuario en cuanto a su desenvolvimiento correcto dentro del Tribunal Virtual.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 55.
+
+Las contraseñas mediante las cuales los usuarios podrán acceder a lo servicios del Tribunal Virtual serán diseñadas por ellos mismos, bajo las instrucciones de los administradores, a través de un código alfanumérico. La responsabilidad del uso de las contraseñas que sean dadas de alta en el sistema serán exclusivamente del usuario por ser su creador y conocedor de las mismas.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 56.
+
+Deberá informarse a los usuarios la renovación de programas necesarios para el Tribunal Virtual a fin de mantener su efectividad, modernización y su correcto flujo de información. Cuando estos cambios requieran la suspensión del servicio éste será informado cuando menos cinco días hábiles anteriores al cese del funcionamiento, debiendo indicar la duración, así como fecha y hora en que se reanudará el servicio.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 57.
+
+La imagen del Tribunal Virtual en cuanto a su diseño será autorizada por el Tribunal Superior de Justicia. Esta imagen deberá promover el respeto institucional, reflejando la sobriedad, trascendencia y honorabilidad de la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Articulo 58.
+
+En caso de que el Tribunal Virtual presente evidencia de alteración electrónica no autorizada por el Tribunal Superior de Justicia, el administrador del sistema tomará las medidas pertinentes para impedir tales actos, informando inmediatamente al Tribunal Superior de Justicia quien emitirá las medidas definitivas de protección en el tiempo debido, siendo éste el necesario para su reunión en Pleno, mismas que se informarán a los usuarios a través de correo electrónico.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Articulo 59.
+
+Cuando por medidas de protección, mantenimiento o fallas técnicas se realice una suspensión general no prevista del servicio, el Tribunal Superior de Justicia emitirá los acuerdos necesarios para la realización de actuaciones judiciales por otro medio diverso, los cuales serán publicados en el Boletín Judicial que emite el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 60.
+
+La base de datos del Tribunal Virtual se mantendrá actualizada diariamente y su información se considera parte del archivo judicial.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+
+De la consulta de expedientes electrónicos
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 61.
+
+La consulta de los expedientes electrónicos en forma completa será realizada por los usuarios que autorice cada tribunal en los términos que señala el Código de Procedimientos Civiles del Estado, por lo que cada titular de los diferentes tribunales del Poder Judicial del Estado asignará, según su criterio, uno o varios servidores públicos responsables para autorizar y revocar los usuarios según sea el caso. Para consultar la información de cada expediente se requiere una autorización individual, por lo que no se permitirá un autorización general para diversos asuntos, lo anterior a fin de que quede constancia escrita de la misma en cada uno de los expedientes físicos, sin mas limitante que lo señalado por la vigente.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 62.
+
+Con la autorización señalada en el artículo anterior, se podrán consultar todos los autos y archivos, existentes en la base de datos del Tribunal Virtual, relacionados con el expediente electrónico respectivo, a través de los módulos que para ello se fijen en la página electrónica. En caso de falta de similitud entre las constancias del expediente físico y el electrónico, prevalecerán las del primero.
+
+Cuando se trate de una diferencia de carácter técnico relativo a captura de la información, será responsabilidad del administrador del sistema hacer esta corrección, una vez notificado de esa situación.
+
+Si la diferencia implica la existencia de una resolución judicial distinta en el expediente físico y en el expediente electrónico, se hará del conocimiento del Tribunal Superior de Justicia o al Consejo de la Judicatura, según corresponda, para que se actúe en los términos del artículo 65 de este título.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 63.
+
+Cada ciudadano, para acceder a la página electrónica del Tribunal Virtual, creará un "usuario" y asignará personalmente a éste una "contraseña", la que se manejará bajo su responsabilidad en caso de transmisión a terceros, así como para la navegación en el portal de Internet, sin ningún tipo de responsabilidad para el Poder Judicial del Estado. Una vez creado el nombre del usuario y asignada la contraseña, podrá entrar al sistema mediante estos datos, los cuales crearán un registro de uso por parte del sistema para cuestiones estadísticas.
+
+Con esta contraseña podrá consultar la siguiente información de los expedientes judiciales: Nombre de las partes, número de expediente, juzgado que conoce el procedimiento, tipo de procedimiento, lista de acuerdos dictados dentro del proceso, lista de promociones y actuaciones judiciales digitalizadas dentro del proceso, tanto en primera como en segunda instancia, los cuales tendrán una referencia de su contenido. Asimismo, tendrá derecho a los servicios accesorios del sistema.
+
+El usuario no contará con autorización para visualizar en forma completa los autos generados mediante el sistema y promociones digitalizadas hasta en tanto lo permita el juzgado o sala que tiene bajo su custodia el expediente físico, lo cual se hará a través de pedimento escrito a la autoridad correspondiente, quien hará la autorización después de dictar el auto donde estime la procedencia de la solicitud. Inmediatamente que se haga la autorización por el módulo electrónico que maneja el tribunal que ejerce jurisdicción sobre la causa, el usuario podrá acceder a la visualización integral de los autos y documentos digitalizados en primera y segunda instancia.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 64.
+
+En caso de que se haya dictado el auto autorizando el acceso al expediente electrónico, sin que el mismo tribunal hubiere realizado la autorización a través del módulo correspondiente, el administrador del sistema podrá realizarlo a pedimento escrito o verbal por el usuario, verificando debidamente que se ha hecho la autorización legal.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 65.
+
+Las resoluciones judiciales se generarán a través del sistema, con excepción de aquéllas que por su naturaleza se realicen fuera del recinto judicial, o bien, por fuerza mayor. Las resoluciones que ameriten su publicación a través del Boletín Judicial se registrarán en el sistema del Tribunal Virtual y a través de éste se obtendrá la lista de acuerdos que aparecerá publicada en dicho medio, por lo cual, ninguna actuación judicial podrá publicarse a menos que sea por el sistema electrónico, a excepción de los casos en que se haya generado fuera del recinto judicial o por fuerza mayor.
+
+Los Tribunales tienen la obligación de digitalizar todos los documentos que se alleguen al expediente por las partes o por los funcionarios judiciales, sin excepción alguna. En este caso el Secretario dará cuenta de las promociones recibidas, a más tardar dentro de veinticuatro horas.
+
+El Tribunal Superior de Justicia y el Consejo de la Judicatura vigilarán el debido cumplimiento de este artículo en los términos de la ley respectiva, fijando y sancionando la responsabilidad administrativa que corresponda.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 66.
+
+Sólo podrán visualizarse las promociones una vez que haya sido publicado el acuerdo recaído a las mismas. Las resoluciones judiciales y las promociones ligadas a ellas estarán disponibles el mismo día de su publicación, para lo cual se hará una replicación en el sistema para actualizar la información. El administrador del sistema expondrá visiblemente en la página de Internet del Tribunal Virtual la última actualización de los datos para conocimiento de los usuarios.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 67.
+
+Los jueces o magistrados podrán ordenar la reserva en los juicios cuando a su consideración exista razón fundada para ello en términos de la Ley de Acceso a la Información Pública u otros ordenamientos legales, misma que se hará del conocimiento del administrador del sistema, a fin de que se exprese ese impedimento en los datos del procedimiento. Esto se hará en forma total o parcial, según disposición del juez.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 68.
+
+Los usuarios autorizados para la visualización completa de expedientes electrónicos podrán ser dados de baja a petición propia, y tratándose de usuarios facultados sólo para oír y recibir notificaciones, a petición de la parte que dio dicha autorización. Cuando se trate de apoderados, deberá comprobarse la revocación del mandato.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 69.
+
+El administrador del sistema mantendrá una estadística actualizada de la consulta de expedientes en forma general y particular. Igualmente es su responsabilidad generar herramientas para que la consulta a los expedientes electrónicos se realice en las condiciones idóneas para el continuo desarrollo del Tribunal Virtual.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+
+Del envío de promociones electrónicas
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 70.
+
+Una vez que se ha generado un usuario y contraseña para la consulta de expedientes, se deberá generar una contraseña adicional para enviar promociones electrónicas por medio de la Página del Tribunal Virtual. Esta segunda autorización se hará también por el tribunal que conoce la causa por medio de decreto, a petición escrita del usuario dentro del expediente físico. La autorización para enviar promociones electrónicas sólo la podrá otorgar el tribunal correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 71.
+
+Sólo podrá autorizarse para presentar promociones electrónicas a quien se encuentra autorizado para hacerlo conforme al artículo 78 del libro primero de este código.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 72.
+
+Cuando las partes del proceso han autorizado a una o más personas para presentar promociones, podrán revocar dicha autorización por petición escrita al juez o magistrado que conoce del procedimiento, quien deberá hacer la cancelación en el sistema inmediatamente después de que se dicte el acuerdo de conformidad.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 73.
+
+El envío de promociones electrónicas se realizará mediante los programas de cómputo idóneos para esta función, los cuales podrán usar la tecnología de firma electrónica, o bien, algún otro componente que conforme los avances de la tecnología resulte más apropiado para los fines del Tribunal Virtual. Los usuarios aceptarán un convenio de uso en la primera actuación dentro del módulo de envío de promociones, el cual se presentará a través de los módulos externos del mismo Tribunal Virtual.
+
+Las promociones se consideran presentadas a la hora que aparezca en el acuse de recibo que se genere por el módulo de envío de promociones, que será el mismo que se genere en la base de datos. A través del Tribunal Virtual se podrán presentar promociones todos los días de la semana en cualquier horario, de acuerdo a lo especificado en el artículo 33 del libro primero de este Código.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 74.
+
+Los secretarios de cada tribunal que se hayan designado para revisar el módulo de recepción que se encuentra en las unidades de cómputo del juzgado, a primera hora laboral del día, así como al final de la jornada laboral, imprimirán las promociones que se hayan presentado en forma electrónica. El sistema adicionará a cada promoción la hora y fecha en que se generó, así como el usuario que presentó la misma. Una vez impresas las promociones por el Secretario, certificará con su firma que han sido recibidas por ese medio, sellándolas en los términos del artículo 33 del libro primero del Código de Procedimientos Civiles del Estado de Nuevo León. El Tribunal Superior de Justicia o el Consejo de la Judicatura impondrá la sanción correspondiente en caso de que no se cumpla lo previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 75.
+
+Cuando por fallas técnicas propias del Tribunal Virtual no sea posible enviar promociones a través de este sistema, implicando incumplimiento en los términos judiciales, se hará del conocimiento del tribunal correspondiente en la misma petición sujeta a término quien, antes de acordar lo respectivo, pedirá un reporte al administrador sobre la existencia de esa interrupción en el servicio. Una vez que el administrador confirme o no la interrupción el tribunal resolverá según las circunstancias.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+
+De las notificaciones electrónicas
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 76.
+
+El Tribunal Virtual, por su reconocimiento legal, es un medio informativo que produce efectos de notificación judicial a quien lo solicite.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 77.
+
+El usuario que esté facultado para oír y recibir notificaciones podrá solicitar por escrito a la autoridad que ejerce jurisdicción que las resoluciones judiciales que ameriten notificación personal se le hagan a través del Tribunal Virtual, señalando al efecto su nombre de usuario.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 78.
+
+La notificación personal a través del Tribunal Virtual se entiende hecha en el mismo día de publicación de las resoluciones, en virtud de que la replicación y actualización de datos se hará el mismo día en los términos del artículo 68 de este título. Lo anterior se tendrá en cuenta para el cómputo de términos judiciales conforme a las leyes aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+
+De los medios de comunicación en el proceso
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 79.
+
+Cuando se ordenen medios de comunicación en procesos llevados ante tribunales del Estado, podrán enviarse a través del sistema Tribunal Virtual. Estos documentos serán generados con la información contenida en la base de datos. Cuando se trate de exhortos o despachos se generará un expediente electrónico independiente al juicio de donde se derive.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 80.
+
+Una vez generado el medio de comunicación, se enviará y recibirá a través de los módulos que indique el sistema, debiendo certificarse su recepción por el secretario fedatario que corresponda, de la misma forma que las promociones electrónicas. El envío por el sistema generará una constancia con los datos generales del medio de comunicación, mismos que se agregarán al expediente físico para que puedan computarse los términos respectivos. En el caso que para la diligenciación se requiera documentos anexos se prevendrá en ese sentido, radicándose una vez que sean presentados al juzgado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+
+De los servicios accesorios
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 81.
+
+El Tribunal Virtual generará una lista automática de expedientes que le han sido autorizados a cada usuario para consulta, a efecto de que se simplifique su revisión en la página de Internet. Esta lista se modificará en la medida que los juzgados o salas autoricen o revoquen el acceso a los expedientes electrónicos. De igual manera se dará una opción a los usuarios para que personalmente cancelen de esta lista los expedientes que deseen.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 82.
+
+Los expedientes electrónicos serán consultados individualmente a través del servicio "Consulta por expediente", proporcionando el número del procedimiento, así como el número, materia y distrito del juzgado o sala en que se encuentra.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 83.
+
+El Tribunal Virtual, haciendo uso de la información que se publica en el Boletín Judicial del Estado, proporcionará un servicio denominado "búsqueda por partes", en el cual los usuarios podrán indagar procedimientos con un nombre determinado, donde aparecerán las partes que intervienen, el tipo de procedimiento, el número de expediente y el juzgado en que se encuentra. La información de un expediente en particular podrá denegarse si se ha reservado en los términos del presente título.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 84.
+
+El administrador del sistema recibirá retroalimentación de los usuarios a través de la herramienta "enviar comentario", misma que servirá para reportar cualquier circunstancia relacionada con los servicios y funcionamiento del Tribunal Virtual. Asimismo, se generará un servicio igual para comunicarse con los usuarios en caso de ser necesario.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 85.
+
+La información que los tribunales están obligados a entregar al Tribunal Superior de Justicia y al Consejo de la Judicatura conforme al artículo 40 de la Ley Orgánica del Poder Judicial del Estado, se hará pública a través del Tribunal Virtual en lo concerniente a los datos sobre los trámites judiciales, los cuales podrán verificarse remitiéndose a la base de datos para verificar su autenticidad.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 86.
+
+El Tribunal Superior de Justicia, autorizará nuevos servicios en el Tribunal Virtual con el fin de presentar la buena marcha de la administración de justicia, así como para cumplir con la transparencia institucional. Conforme a lo anterior, deberá generarse un dictamen por el administrador del sistema sobre la viabilidad del servicio, así como un dictamen presupuestal por el Consejo de la Judicatura, mediante los cuales se obtendrá la decisión de crear o no el nuevo servicio.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2008)</small>
+
+Disposiciones finales
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 87.
+
+La aceptación y uso del Tribunal Virtual obligan a obedecer las reglas de operación contenidas en el presente título, así como las obligaciones que emanan de la legislación positiva, asentándose de esta manera en los convenios de aceptación que suscribirán electrónicamente los usuarios del sistema.
 
 ARTICULOS TRANSITORIOS:
 
@@ -8844,3 +9154,11 @@ P.O. 4 DE JULIO DE 2007.
 DECRETO NUM. 112 QUE DEROGA LA FRACCION II DEL ARTICULO 950.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2008.
+
+Artículo Primero: El presente Decreto entrará en vigor a partir del día primero de agosto del año dos mil ocho.
+
+Artículo Segundo: Los usuarios ya registrados en el Tribunal Virtual al inicio de la vigencia del presente decreto deberán de renovar su registro conforme a lo establecido en el mismo. El administrador del sistema hará llegar mediante formato electrónico, el convenio de uso a que se refiere el artículo 55 que se adiciona, a todos los usuarios que se hayan registrado con anterioridad al presente título, a fin de que puedan hacer uso de los servicios del Tribunal Virtual.
+
+Artículo Tercero: Quedan derogadas todas las disposiciones legislativas expedidas con anterioridad al presente decreto y que se opongan al mismo.
