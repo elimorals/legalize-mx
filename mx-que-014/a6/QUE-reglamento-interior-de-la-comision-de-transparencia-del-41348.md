@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-de-transparencia-del-41348"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-30"
-last_updated: "2005-12-09"
+last_updated: "2008-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Reglamento publicado en la Gaceta Municipal del Municipio de Querétaro, el jueves 30 de mayo de 2002.
 
@@ -217,25 +217,25 @@ XIII. Las demás que le sean conferidas por el H. Ayuntamiento, el presente orde
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+
 ###### Artículo 8.
 
 La Comisión de Transparencia del Municipio de Querétaro estará integrada por:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
-
 I. El Presidente Municipal de Querétaro o el servidor público de la Administración Municipal, designado por él para que lo represente, en cualquier caso el asistente tendrá derecho a voz y voto;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
 II. Dos regidores integrantes del H. Ayuntamiento, con derecho a voz y voto;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
-
 III. Un Secretario Ejecutivo, que será el Director General del Centro de Estudios y Proyectos, con derecho a voz y voto; y
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
+IV. Cuatro ciudadanos propietarios pertenecientes al sector privado, social o académico, de entre los cuales la Comisión en pleno designará al Presidente de la misma, todos con derecho a voz y voto.
 
-IV. Cuatro ciudadanos pertenecientes a los sectores privado, social y académico, de entre los cuales el H. Ayuntamiento o en caso de ausencia temporal o definitiva del Presidente, la Comisión designará al Presidente de la misma, todos con derecho a voz y voto.
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 8 Bis.
+
+El Presidente de la Comisión de Transparencia del Municipio de Querétaro, estará en su cargo por un periodo de un año seis meses, pudiendo ser reelecto por un periodo igual y por una sola ocasión.
 
 ###### Artículo 9.
 
@@ -261,13 +261,15 @@ VI. No ser miembro o militante de algún partido o agrupación política.
 
 Los cargos de los integrantes de la Comisión de Transparencia del Municipio de Querétaro tienen el carácter de honorario.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
 
 ###### Artículo 11.
 
 La duración en el cargo para los funcionarios de la Administración Pública, integrantes de la Comisión de Transparencia del Municipio de Querétaro, será por el mismo periodo de la gestión municipal de la cual formen parte.
 
-Los ciudadanos integrantes de la Comisión, permanecerán en su cargo tres años, iniciando en el mes de julio del segundo año de la administración pública municipal en funciones. Los suplentes permanecerán en el cargo hasta finalizar el periodo para el cual fueron seleccionados los ciudadanos originalmente electos.
+Los ciudadanos integrantes de la Comisión que tengan el cargo de propietarios, permanecerán en su cargo tres años, iniciando en el mes de julio del segundo año de la administración, pudiéndose reelegir dos de los propietarios por un segundo periodo.
+
+En el caso de los suplentes, de igual forma podrán ser electos como propietarios, o reelectos como suplentes, por un segundo periodo, y por una sola ocasión, de entre los que así lo soliciten expresamente.
 
 Sin perjuicio de lo anterior, los ciudadanos que integren la Comisión continuarán con sus actividades encomendadas, hasta en tanto no tomen la protesta correspondiente los nuevos integrantes, siempre y cuando aquellos no hubieren sido removidos.
 
@@ -562,3 +564,9 @@ CUARTO. El Presidente de la Comisión de Transparencia del Municipio de Queréta
 QUINTO. En un plazo de treinta días hábiles, contados a partir de que entre en vigor la presente reforma, el Secretario Ejecutivo de la Comisión de Transparencia del Municipio de Querétaro, expedirá la convocatoria pública para seleccionar a los ciudadanos suplentes, que deberán integrarse a dicha Comisión en caso de que sea necesario.
 
 SEXTO. Notifíquese a los titulares de las Dependencias, Organismos y Unidades Municipales, que conforman la presente Administración.
+
+P.O. 7 DE JULIO DE 2008.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
