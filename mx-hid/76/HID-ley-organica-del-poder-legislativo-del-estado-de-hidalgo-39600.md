@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-39600"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-05-10"
-last_updated: "2008-05-19"
+last_updated: "2008-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -759,7 +759,11 @@ XX.- Comisión de Desarrollo Regional;
 
 (ADICIONADA, P.O. 18 DE ABRIL DE 2005) (F. DE E., P.O. 2 DE MAYO DE 2005)
 
-XXI.- Comisión del Trabajo.
+XXI.- Comisión del Trabajo;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+
+XXII.- Comisión de Protección Civil.
 
 Los Diputados que integren estas Comisiones, fungirán durante todo el Ejercicio Constitucional. Cuando las circunstancias lo justifiquen, el Pleno aprobará las modificaciones que se estimen pertinentes.
 
@@ -2086,3 +2090,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 TERCERO.- Se derogan las disposiciones que se opongan a la presente Ley.
+
+P.O. 7 DE JULIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
