@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-48216"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2005-12-22"
+last_updated: "2008-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE INFRAESTRUCTURA EDUCATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 2008.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 22 de diciembre de 2005.
 
@@ -77,23 +77,31 @@ El máximo Órgano de Gobierno del Instituto Sonorense de Infraestructura Educat
 
 El Consejo Directivo evaluará la forma en que los objetivos serán alcanzados y la manera en que las estrategias básicas serán conducidas, atendiendo además, los informes que en materia de control y auditoria le sean turnados y vigilará la implementación de las medidas correctivas a que hubiese lugar.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 5º.
 
-El Consejo Directivo está integrado por un Presidente, que será el Secretario de Infraestructura Urbana y Ecología, un Secretario, que será el Director General del Organismo; y tres Vocales, que serán los Secretarios de Educación y Cultura del Estado, de Hacienda y por el Director General Jurídico del Estado. También podrán participar con voz pero sin voto, a invitación expresa del Presidente, los demás Funcionarios que se estime conveniente para cumplir con el objeto del Instituto.
+El Consejo Directivo está integrado por un Presidente, que será el Secretario de Infraestructura y Desarrollo Urbano y cuatro vocales, que serán los Secretarios de Educación y Cultura del Estado, de Hacienda y de Economía y por el Director General Jurídico del Estado. También podrán participar con voz pero sin voto, a invitación expresa del Presidente, los demás funcionarios que se estime conveniente para cumplir con el objeto del Instituto, para que se incorporen con la aceptación unánime del Consejo Directivo.
 
 Los Vocales del Consejo Directivo podrán designar suplentes
 
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 6º.
 
-Las sesiones ordinarias se celebrarán cuando menos una vez cada tres meses, y cuantas veces fueren convocados por su Presidente, por conducto del Secretario del Consejo Directivo. Las sesiones extraordinarias se llevarán a cabo, a petición de las personas mencionadas, cuando sea necesario para su debido funcionamiento.
+El Consejo Directivo celebrará por lo menos cuatro reuniones ordinarias al año y las extraordinarias que se requieran, de conformidad con el Reglamento respectivo.
 
 ###### ARTÍCULO 7º.
 
 El Consejo Directivo funcionará válidamente con la asistencia de, cuando menos, la mitad más uno de sus integrantes; sus decisiones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 8º.
 
-Para la celebración de las sesiones del Consejo Directivo se deberá emitir convocatoria por parte del Director General del Instituto Sonorense de Infraestructura Educativa, en su carácter de Secretario de la misma. A la convocatoria se acompañará el orden del día, el proyecto de acta de la sesión anterior y el proyecto documental de los asuntos a tratar, mismos que se harán llegar a los integrantes de dicho Consejo, cuando menos con cinco días de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria y con tres días, cuando sea extraordinaria.
+Para la celebración de las sesiones del Consejo Directivo se deberá emitir convocatoria por parte del Director General del Instituto Sonorense de Infraestructura Educativa, en su carácter de Secretario Técnico, en forma personal a cada uno de los miembros.
+
+A la convocatoria se acompañará el orden del día que contenga los asuntos a tratar, así como la documentación necesaria para el análisis de cada uno de los puntos señalados en dicha orden del día y además información que sea pertinente, mismos que se harán llegar a los integrantes de dicho Consejo, cuando menos con cinco días de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria y 48 horas, cuando sea extraordinaria.
 
 ###### ARTÍCULO 9º.
 
@@ -109,9 +117,11 @@ IV. Suscribir conjuntamente con los demás miembros, las actas de las sesiones; 
 
 V. Las demás qua le confieran al presente Reglamento y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 10.
 
-El Secretario del Consejo Directivo tendré a su cargo las siguientes funciones:
+El Director General del Instituto Sonorense de Infraestructura Educativa en su carácter de Secretario Técnico, tendrá a su cargo las siguientes funciones:
 
 I. Asistir a las sesiones del Consejo Directivo;
 
@@ -123,27 +133,63 @@ III. Las demás que le confieran el presenta Reglamento y otras disposiciones le
 
 los integrantes del Consejo Directivo, tendrán derecho de voz y voto en la toma de decisiones respecto de los asuntos que se traten por dicho Órgano. Las mismas facultades tendrán los suplentes de los vocales, en caso de ausencia de éstos en las sesiones, previa comprobación ante el Presidente del Consejo Directivo, en su carácter de suplentes.
 
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 12.
 
-Las sesiones se desarrollarán en el siguiente orden:
+El orden del día para la celebración de sesiones del Consejo Directivo deberá contemplar, cuando menos, los siguientes aspectos:
 
-I.- Lista de asistencia y declaratoria relativa al quórum;
+I.- Lista de asistencia;
 
-II.- Lectura y aprobación en su caso, del acta de la sesión anterior;
+II.- Verificación del Quórum legal por parte del Comisario;
 
-III.- Discusión y resolución de los puntos comprendidos en el orden del día;
+III.- Lectura y aprobación del Orden del Día;
 
-IV.- Asuntos generales; y
+IV.- Lectura del Acta de la sesión anterior;
 
-V.- Clausura.
+V.- Informe del Director General;
+
+VI.- Informe del Comisario;
+
+VII.- Lectura, Discusión y, en su caso, aprobación de asuntos;
+
+VIII.- Asuntos Generales;
+
+IX.- Resumen de Acuerdos aprobados, y
+
+X.- Clausura.
+
+Las sesiones del Consejo Directivo deberán iniciar en la fecha y hora señalada en la convocatoria respectiva y su desarrollo deberá sujetarse a lo previsto en el orden del día, por lo que no podrá alterarse la secuencia de los puntos asentados en el mismo, ni tampoco tratase (sic) asuntos diversos que no se hayan contemplado en dicho (sic) orden del día.
+
+Tratándose de sesiones extraordinarias, se exceptuará del orden del día los puntos señalados en las fracciones IV, V, VI y VIII del presente artículo y dicha sesión se abocará exclusivamente a la discusión de los asuntos para los que hubiese sido convocado en Consejo Directivo.
+
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
-En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha prevista, deberá de celebrarse ésta, entre los cinco y quince días hábiles siguientes.
+En caso de que la sesión convocada no pudiera llevarse a cabo en la fecha prevista, deberá de celebrarse ésta entre los tres y diez días hábiles siguientes cuando se trate de sesiones ordinarias, y dentro de las 48 horas siguientes cuando se trate de sesiones extraordinarias, previa notificación correspondiente en ambos casos a los miembros, que realice el Director General del Instituto Sonorense de Infraestructura Educativa en su calidad de Secretario Técnico.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 13 Bis.
+
+El Director General del Instituto Sonorense de Infraestructura Educativa, en cada sesión ordinaria del Consejo Directivo deberá prestar un informe general del estado que guarda la administración de la Entidad, mismo que comprenderá cuando menos la siguiente información detallada al cierre del mes inmediato anterior al de la fecha de la sesión:
+
+I. Cumplimiento de la ejecución de acuerdos y resoluciones aprobados en sesiones anteriores;
+
+II. Estados financieros;
+
+III. Avance presupuestal, comprendiendo ingresos y egresos, por partida presupuestal;
+
+IV. Avance en el cumplimiento de metas del Programa Operativo Anual; y
+
+V. Avance en la ejecución del Programa Anual de Adquisiciones, Arrendamientos y Servicios y del programa Anual de Obras Públicas.
+
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
-El acta de cada sesión deberé ser aprobada por el Consejo Directivo y suscrita por el Presidente y los demás miembros presentes, sujetándose al contenido del artículo 12 de este Reglamento.
+De cada sesión, el Director General en su carácter de Secretario Técnico deberá levantar un acta en la que conste circunstanciadamente el desarrollo de la sesión, sujetándose a lo señalado en el capítulo VII del Reglamento para la Celebración de Sesiones de Órganos de Gobierno de las Entidades de la Administración Pública Estatal.
 
 ### CAPÍTULO III. DEL DIRECTOR GENERAL
 
@@ -159,9 +205,11 @@ III. Definir las políticas de instrumentación de los sistemas de control que f
 
 IV. Proporcionar tanto al Órgano de Control y Desarrollo Administrativo como al Comisario Público Oficial o Ciudadano designado por la Secretaría de la Contraloría General, las facilidades e informes necesarios para el desempeño de su función;
 
-V. Presentar, del Consejo Directivo, el informe del desempeño de las actividades del Instituto, Incluyendo el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General, con las realizaciones alcanzadas;
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2008)</small>
 
-VI. Presentar anualmente al Consejo Directivo dentro de los dos primeros meses del año, los estados financieros y el informe de actividades de ejercicio anterior;
+V. Presentar un Informe General del Estado de guarda la administración del Instituto considerando lo señalado en el artículo 24 del Reglamento para la Celebración de Sesiones de Órganos de Gobierno de las Entidades de la Administración Pública Estatal;
+
+VI. (DEROGADA, B.O. 7 DE JULIO DE 2008)
 
 VII. Someter a la consideración del Consejo Directivo a más tardar en la primera quincena del mes de octubre de cada año, el anteproyecto del programa presupuesto, mismo que deberá elaborarse de conformidad con la legislación aplicable;
 
@@ -177,9 +225,17 @@ XII. Establecer las políticas administrativas y elaborar y mantener actualizado
 
 XIII. Someter a consideración del Consejo Directivo, la creación y supresión de las unidades y oficinas administrativas que estime conveniente para el debido cumplimiento de los fines del Instituto y asignarlas las funciones que considere procedente;
 
-XIV. Garantizar el acceso a la información pública referente al Instituto, de conformidad a la "Ley de Acceso a le Información Pública del Estado de Sonora"; y
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2008)</small>
 
-XV. Las demás que se le asignen en otras disposiciones legales aplicables o las que expresamente le encomiende el Consejo Directivo
+XIV. Garantizar el acceso a la información pública referente al Instituto, de conformidad a la "Ley de Acceso a le Información Pública del Estado de Sonora";
+
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2008)</small>
+
+XV. Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo a la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 7 DE JULIO DE 2008)</small>
+
+XVI. Las demás que se le asignen en otras disposiciones legales aplicables o las que expresamente le encomiende el Consejo Directivo.
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS DE APOYO INTERNOS
 
@@ -349,9 +405,17 @@ VIII. Propiciar la participación del personal en la mejora continua de los proc
 
 IX. Cumplir con los objetivos, metas y operación del sistema de gestión de calidad;
 
-X. Atender al público en los asuntos de la competencia de la unidad administrativa respectiva; y
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2008)</small>
 
-XI. Desempeñar las demás atribuciones que les confieran las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
+X. Atender al público en los asuntos de la competencia de la unidad administrativa respectiva;
+
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2008)</small>
+
+XI. Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, circulación y conservación de los documentos y archivo;
+
+> <small>(ADICIONADA, B.O. 7 DE JULIO DE 2008)</small>
+
+XII. Desempeñar las demás atribuciones que les confieran las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -497,9 +561,11 @@ En ausencia del Comisario Público Titular, éste será suplido por el Comisario
 
 El Consejo Directivo y demás dependientes jerárquicos de éste, en su caso, deberán proporcionar oportunamente al Comisario Público, la información y documentación que requiera para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 34.
 
-El Titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, previa citación por escrito que se les formule y notifique con cinco y tres días hábiles de anticipación, asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias, respectivamente del Consejo Directivo.
+El Titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, previa citación por escrito que se les formule y notifique con cinco días hábiles de anticipación tratándose de sesiones ordinarias y de 48 horas tratándose de sesiones extraordinarias del Consejo Directivo, asistirán con voz pero sin voto.
 
 ### CAPÍTULO VIII. DE LAS RELACIONES LABORALES
 
@@ -574,3 +640,11 @@ En representación del C. LIC. WENCESLAO COTA MONTOYA
 Director General Jurídico del Estado
 
 > <small>N. DE E. VÉASE ORGANIGRAMA EN B. O. E. DEL 22 DE DICIEMBRE DE 2006, PÁGINA 25.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 7 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
