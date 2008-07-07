@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-coordinadora-de-turismo-municipal-de-59989"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-03"
-last_updated: "2008-03-03"
+last_updated: "2008-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA COORDINADORA DE TURISMO MUNICIPAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 3 de marzo de 2008.
 
@@ -97,7 +97,7 @@ VI.- Crear proyectos especiales de turismo taurino, con un enfoque de atracción
 
 VII.- Promover la creación de Museos Tradicionales, que responda a la identidad nacional y genere la recuperación de la misma; y
 
-VIII.- Promover las actuaciones de la Banda Sinfónica Municipal, permitiendo generar una plataforma amplia de acción para dicha Agrupación.
+VIII.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 ###### Artículo 7°.
 
@@ -143,7 +143,7 @@ XIX.- Impulsar la ampliación y mejoramiento de los productos turísticos promov
 
 XX.- Promover el rescate y preservación de las tradiciones y costumbres del Municipio que constituyan un atractivo turístico apoyando las iniciativas tendientes a su conservación;
 
-XXI.- Organizar las actividades inherentes a la Banda Sinfónica Municipal, así como recibir las solicitudes y autorizar la actuación de la Banda Sinfónica Municipal; y
+XXI.- (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 XXII.- Las demás que señalen las leyes y reglamentos aplicables en la materia.
 
@@ -241,7 +241,7 @@ b. Departamento de Relaciones Públicas.
 
 c. Departamento de Promoción Turística.
 
-d. Departamento de Banda Sinfónica.
+d. (DEROGADO, P.O. 7 DE JULIO DE 2008)
 
 II. Dirección de Eventos;
 
@@ -279,7 +279,7 @@ IV. Desarrollar actividades recreativas para la promoción y difusión dentro y 
 
 V. Apoyar a las operadoras receptivas de turismo y a otras instancias turísticas parta (sic) la realización de productos;
 
-VI. Promover las actuaciones de la Banda Sinfónica Municipal, permitiendo generar una plataforma amplia de acción, difundiendo constantemente sus actuaciones, grabaciones y logros;
+VI. (DEROGADA, P.O. 7 DE JULIO DE 2008)
 
 VII. Enfocar las actividades recreativas y productos turísticos a la participación ciudadana;
 
@@ -458,3 +458,15 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal para el Estado de Aguascalientes; 107, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente decreto, el personal y los recursos materiales y financieros de la Banda Sinfónica Municipal pasarán a formar parte del Instituto Municipal Aguascalentense para la Cultura.
