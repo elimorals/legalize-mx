@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-prevencion-y-atencion-integral-de-la-violencia-49106"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2006-02-15"
+last_updated: "2008-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PREVENCION Y ATENCION INTEGRAL DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de febrero de 2006.
 
@@ -55,7 +55,9 @@ III. Ley: La Ley de Prevención y Atención Integral de la Violencia Familiar en
 
 IV. Organismos del sector público, privado y social: Las instituciones legalmente constituidas, que trabajen en la materia de esta Ley en el Estado de Nuevo León;
 
-V. Atención: Conjunto de acciones y servicios especializados de índole social, médico, psicológico, jurídico, de seguridad pública y de procuración e impartición de justicia que puede ser integral, jurídica, médica y psicológica;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+
+V. Atención: Conjunto de acciones y servicios especializados de índole social, médico, psicológico, jurídico, de seguridad pública y de procuración e impartición de justicia brindados mediante el modelo de atención integral;
 
 VI. Generador de la violencia familiar: Aquella persona que por acción u omisión ejerce directa o indirectamente agresiones físicas, psicológicas, emocionales, sexuales, sociales o patrimoniales;
 
@@ -277,9 +279,49 @@ IX. La difusión de los derechos de las mujeres para fomentar en la sociedad la 
 
 El programa será permanente y deberá ser revisado y actualizado cada que sea necesario con la aprobación de la mayoría de los miembros presentes en la sesión del Consejo.
 
-### CAPÍTULO IV. DE LA PREVENCIÓN Y DE LA ATENCIÓN
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 7 DE JULIO DE 2008)</small>
 
-### CAPÍTULO V. DE LAS SANCIONES
+### CAPÍTULO IV. DE LAS VÍCTIMAS DE VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 15 Bis.
+
+Se entiende por víctima de violencia familiar a la persona que haya sufrido daño, como consecuencia de acciones u omisiones realizadas en su contra, que constituyan violencia familiar, independientemente de que habiten o no en el mismo domicilio del generador de la violencia familiar, se produzcan o no lesiones, o se proceda penalmente en contra del agresor.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 15 Bis 1.
+
+Se entiende por daño las lesiones, físicas, mentales o psicológicas, o la pérdida patrimonial de cualquier naturaleza, como consecuencias de hechos de violencia familiar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTICULO QUE LO INTEGRA], P.O. 7 DE JULIO DE 2008)</small>
+
+### CAPÍTULO V. DE LOS DERECHOS DE LAS VÍCTIMAS DE VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 15 Bis 2.
+
+Las víctimas de violencia familiar tendrán derecho, según corresponda, a:
+
+I. Recibir asesoría jurídica; ser informadas oportunamente de los derechos que en su favor establecen la Constitución, las leyes federales y locales aplicables; y a ser informadas del desarrollo del procedimiento penal y de las consecuencias legales de sus actuaciones dentro del mismo;
+
+II. Coadyuvar con el Ministerio Público, y que éste preste los servicios que constitucionalmente tiene encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y con la máxima diligencia;
+
+III. Recibir atención médica y psicológica de urgencia;
+
+IV. Que se les repare el daño, previa solicitud del Ministerio Público en los casos en que proceda;
+
+V. Ser informadas claramente del significado y la trascendencia jurídica del perdón, en caso de que deseen otorgarlo;
+
+VI. Ser restituidas en sus derechos, cuando éstos se encuentren acreditados; y
+
+VII. Solicitar las medidas y providencias para proteger su vida, integridad física y moral, bienes y posesiones o derechos, que la Ley prevea.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO IV], P.O. 7 DE JULIO DE 2008)</small>
+
+### CAPÍTULO VI. DE LA PREVENCIÓN Y DE LA ATENCIÓN
 
 ###### Artículo 16.
 
@@ -316,6 +358,84 @@ Sensibilizar y capacitar al personal de los diferentes espacios públicos y priv
 Impulsar la formación de promotores y promotoras comunitarias para la identificación, orientación y canalización de casos; y
 
 Establecer la coordinación intra e intersectorial adecuada de las rutas de atención, referencia y seguimiento requeridas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+
+### CAPÍTULO VII. DE LA ATENCIÓN
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 20 Bis.
+
+La atención a las víctimas de violencia familiar debe ser proporcionada mediante la prestación de servicios especializados, en un solo espacio físico, mediante el modelo de atención integral, que será:
+
+I. Interdisciplinario;
+
+II. Secuencial; e
+
+III. lnterinstitucional.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 20 Bis 1.
+
+El carácter interdisciplinario del modelo se basa en la participación de los diferentes profesionales en la atención a víctimas de violencia familiar que, desde la perspectiva de su especialidad, aborden integralmente la problemática.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 20 Bis 2.
+
+En atención al carácter interdisciplinario, la atención se brindará colegiadamente a través de los siguientes ámbitos de actuación:
+
+a) Jurídico: consistente en la asistencia a la víctima mediante los servicios de orientación y asesoría legal;
+
+b) Asistencia social: que incluye la gestión de apoyos para las víctimas, tendientes a consolidar la red de apoyo familiar y propiciar la comprensión que requiere en su núcleo social;
+
+c) Salud física: que comprende la atención a la afectación de la salud física ocasionada por el hecho de violencia;
+
+d) Psicológico: consistente en la presentación de servicios terapéuticos para el restablecimiento emocional de la víctima de violencia familiar; y
+
+e) Educativo: tendiente a proporcionar la información necesaria respecto al tema de violencia familiar.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 20 Bis 3.
+
+El carácter secuencial del modelo considera necesaria la intervención desde el momento en que se detecta la posibilidad de comisión de hechos constitutivos de violencia familiar, hasta cuando éstos ya han sido cometidos, buscando ofrecer una atención inmediata a la víctima. Las etapas del modelo son:
+
+a) Etapa de prevención, mediante el desarrollo de programas con enfoques preventivos, principalmente con modelos educativos que sensibilicen acerca de la necesidad de establecer relaciones humanas libres de violencia;
+
+b) Etapa de detección, a través de la aplicación de procedimientos eficaces para identificar a personas que viven en situaciones de riesgo, para proporcionarles subsecuentemente, la atención requerida;
+
+c) Etapa de atención, que comprende la prestación, en una sola sede, de los servicios especializados de índole social, médico, psicológico, jurídico, de seguridad pública y de procuración e impartición de justicia;
+
+d) Etapa de registro, mediante la correcta documentación y el eficiente manejo de la información, para conocer las dimensiones de la problemática;
+
+e) Etapa de análisis, en base a los datos estadísticos, se proporcionan parámetros de medición sumamente útiles en la ubicación de la población victimizada y sus requerimientos de atención; y
+
+f) Etapa de evaluación y seguimiento: establecer mediciones cualitativas y cuantitativas para determinar la incidencia de la problemática.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 20 Bis 4.
+
+El carácter interinstitucional del modelo se realiza mediante la participación coordinada de las dependencias, públicas y privadas, que incidan en la atención a víctimas de violencia familiar.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 20 Bis 5.
+
+Las dependencias del sector público serán aquellas instancias de gobierno que conforme a sus atribuciones legales sean competentes para prestar atención a las víctimas de violencia familiar.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+
+###### Artículo 20 Bis 6.
+
+Los participantes del sector privado serán aquellas organizaciones, universidades, colegios de profesionistas o instituciones que, legalmente constituidas y continuamente acreditadas, desarrollen actividades relacionadas con el tema de violencia familiar.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO V], P.O. 7 DE JULIO DE 2008)</small>
+
+### CAPÍTULO VIII. DE LAS SANCIONES
 
 ###### Artículo 21.
 
@@ -366,3 +486,9 @@ MARIA YOLANDA BLANCO GARCÍA
 EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JULIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
