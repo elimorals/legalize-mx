@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-servicio-profesional-de-carrera-para-la-58773"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SERVICIO PROFESIONAL DE CARRERA PARA LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de diciembre de 2007.
 
@@ -49,13 +49,17 @@ LEY DEL SERVICIO PROFESIONAL DE CARRERA PARA LA ADMINISTRACIÓN PÚBLICA CENTRAL
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Leyes de carácter administrativo y tiene por objeto establecer las bases para la organización, funcionamiento y desarrollo del Sistema del Servicio Profesional de Carrera en la Administración Pública Centralizada del Estado de Baja California Sur.
+La presente Ley es de carácter administrativo y tiene por objeto establecer las bases para la organización, funcionamiento y desarrollo del Sistema del Servicio Profesional de Carrera en la Administración Pública Centralizada del Estado de Baja California Sur, con excepción de la Procuraduría General de Justicia y Secretaría de Seguridad Pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 2.
 
-El Sistema del Servicio Profesional de Carrera es un mecanismo de gestión administrativa para los servidores públicos con categoría de confianza de la Administración Pública Centralizada del Estado de Baja California Sur, sustentado en el reclutamiento, selección, capacitación, profesionalización y evaluación del capital humano que garantiza el acceso, promoción y permanencia en la función pública con base en el mérito y desempeño. Está orientado a brindar un servicio de calidad a la ciudadanía.
+El Sistema del Servicio Profesional de Carrera es un mecanismo de gestión administrativa para los servidores públicos con categoría de confianza de la Administración Pública Centralizada del Estado de Baja California Sur con excepción de la Procuraduría General de Justicia y Secretaría de Seguridad Pública, las que se regirán respectivamente, por la Ley Orgánica del Ministerio Público y la Ley de Seguridad Pública, ambas del Estado de Baja California Sur. Dicho sistema estará sustentado en el reclutamiento, selección, capacitación, profesionalización y evaluación del capital humano que garantiza el acceso, promoción y permanencia en la función pública con base en el mérito y desempeño. Está orientado a brindar un servicio de calidad a la ciudadanía.
 
 Las entidades del sector paraestatal, previstas en la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, podrán establecer sus propios sistemas de servicio profesional de carrera, tomando como base los principios de la presente Ley. Igualmente, los Municipios del Estado, tanto en la administración pública centralizada como en la paramunicipal, podrán establecer sus propios sistemas de servicio profesional de carrera, tomando como base los principios del presente ordenamiento.
 
@@ -63,7 +67,9 @@ Las entidades del sector paraestatal, previstas en la Ley Orgánica de la Admini
 
 Para los efectos de ésta Ley se entenderá por:
 
-I. Administración Pública Centralizada: La parte del Poder Ejecutivo que depende directamente del Gobernador del Estado, integrado por la que define como tal la Ley Orgánica de Administración Pública del Estado, Título Primero, Capítulo Único, Artículo 3 y Titulo Segundo, Capitulo Primero, Artículo 18.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2008)</small>
+
+I. Administración Pública Centralizada: La parte del Poder Ejecutivo que depende directamente del Gobernador del Estado, integrado por la que define como tal la Ley Orgánica de Administración Pública del Estado, Título Primero, Capítulo Único, Artículo 3 y Titulo Segundo, Capitulo Primero, Artículo 18, con la salvedad prevista en los Artículos que preceden.
 
 II. Catálogo: Catálogo General de Puestos vigente integrado por las clasificaciones conjuntas, genéricas y específicas de los puestos de la Administración Pública Centralizada.
 
@@ -73,7 +79,9 @@ IV. Comité Técnico: Órgano operador del Sistema.
 
 V. Competencias: Habilidades y conocimientos necesarios para ocupar un puesto.
 
-VI. Dependencia: Cada una de las partes que integran la Administración Pública Centralizada, acorde a lo dispuesto por el Artículo 18 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2008)</small>
+
+VI. Dependencia: Cada una de las partes que integran la Administración Pública Centralizada, acorde a lo dispuesto por el Artículo 18 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, considerando la fraccion I del presente Artículo.
 
 VII. ICATEM: Instituto de Capacitación y Desarrollo para los Trabajadores al Servicio de los Poderes del Estado, Municipios y Organismos Descentralizados en Baja California Sur.
 
@@ -147,7 +155,7 @@ e) Secretario de Promoción y Desarrollo Económico;
 
 f) Secretario de Salud;
 
-g) Secretario de Seguridad Pública;
+g) (DEROGADO, B.O. 8 DE JULIO DE 2008)
 
 h) Secretario de Turismo;
 
@@ -155,7 +163,7 @@ i) Secretario de Pesca y Acuacultura;
 
 j) Contralor General de Gobierno;
 
-k) Procurador General de Justicia;
+k) (DEROGADO, B.O. 8 DE JULIO DE 2008)
 
 l) Titular de la Unidad Coordinadora, y
 
@@ -694,3 +702,73 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NABOR GARCÍA AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 8 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial der. Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Seguridad Pública, deberá expedir su reglamento interior dentro de los 60 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado número 48 con fecha 31 de diciembre de 1976, asimismo se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El personal de la Procuraduría General de Justicia del Estado, que para el desempeño de su función tengan el carácter de acuerdo a la Ley Orgánica del Ministerio Público para el Estado de Baja California Sur, de Agente del Ministerio Publico, Secretario de Acuerdos del Ministerio Publico, Detective de Investigaciones de la policía Ministerial, Agente de Investigaciones de la Policía Ministerial y Perito, deberán dar cumplimiento a los requerimientos y condiciones previstas en la ley señalada para incorporarse al Servicio Civil de Carrera.
+
+En ningún caso, podrán aplicarse en forma retroactiva normas que afecten su situación administrativa o laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades o puestos de nueva creación y denominación distinta que aparecen en la Ley Orgánica del Ministerio Público del Estado de Baja California Sur y que tienen competencia en asuntos que correspondían a otras áreas, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, se dé una denominación nueva o distinta a una unidad administrativa y cuyas funciones estén establecidas por otro ordenamiento jurídico, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine esta Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+###### ARTICULO SÉPTIMO.
+
+Se abroga el decreto expedido por el Ejecutivo del Estado, el día15 de Enero de 1998, publicado en el Boletín Oficial del Gobierno del Estado, No. 2 el día 20 de Enero de 1998, mediante el que se crea el Órgano Administrativo desconcentrado denominado Instituto interdisciplinario de Ciencias Penales.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado expedirá el Reglamento Interior de la Procuraduría General de Justicia del Estado, dentro del plazo de 30 días hábiles contados a partir de la entrada en vigor de este Decreto; en tanto continuará aplicándose el vigente siempre y cuando no se opongo a las disposiciones del mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los acuerdos, circulares, y demás disposiciones administrativas dictadas por el Procurador General de Justicia del Estado, con fundamento en la Ley Orgánica que se abroga mediante el presente Decreto, continuarán en vigor en lo que no se oponga a la Ley que entra en vigor, hasta que aquel dicte las normas administrativas que correspondan.
+
+###### ARTÍCULO DÉCIMO.
+
+Los expedientes, averiguaciones y cualquier otro asunto que a la fecha de entrada en vigor de la Ley Orgánica del Ministerio Público que se aprueba mediante este Decreto, se encuentren radicados y sean del conocimiento de los órganos existentes conforme a la Ley Orgánica del Ministerio Público que se abroga, deberán de remitirse de inmediato o los nuevos órganos paro su tramitación y resolución.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los servidores públicos que ocupen los cargos de nueva creación establecidos en la Ley Orgánica del Ministerio Publico del Estado de Baja California Sur, serán nombrados en los términos de la misma por la autoridad que corresponda, dentro del término de 30 días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se abroga el Decreto Número 1089 del H. Congreso del Estado de Baja California Sur, mediante el cual se expide la Ley de Seguridad Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de fecha 06 de Junio de 1996.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se abroga el Decreto Número 509 del H. Congreso del Estado de Baja California Sur, mediante el cual se crea la Academia de Policía del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 16, de fecho 20 de mayo de 1985.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Ejecutivo del Estado de Baja California Sur, contará con 60 días hábiles posteriores a la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para reformar o en su caso expedir un nuevo Reglamento Interno de la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Ejecutivo del Estado de Baja California Sur, contará con 90 días hábiles posteriores a lo publicación de este Decreto en el Boletín Oficial del Gobierno del Estado, para expedir las disposiciones administrativas necesarias para la operación del Centro Estatal de Control de Confianza, de la Academia Estatal de Policía, de la Comisión de Honor y Justicia, del Consejo de Consulta y Participación Ciudadana; y demás disposiciones para la adecuada aplicación de la Ley de Seguridad Pública de! Estado de Baja California Sur.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
