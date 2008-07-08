@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2008-03-11"
+last_updated: "2008-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2008.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -681,15 +681,35 @@ j) Controlar en coordinación con la Procuraduría General de Justicia del Estad
 
 k) Elaborar el Registro Estatal de Servicios Policiales;
 
-l) Controlar y supervisar los servicios de seguridad privada que se presten en el Estado; y
+l) Controlar y supervisar los servicios de seguridad privada que se presten en el Estado; y (sic)
 
-m) Organizar, capacitar, supervisar y controlar, el cuerpo de las fuerzas de Seguridad Pública Estatal.
+m) Organizar, capacitar, supervisar y controlar, el cuerpo de las fuerzas de Seguridad Pública Estatal;
 
-n) Coordinarse con las diferentes autoridades dentro del marco del Sistema Estatal de Seguridad Pública, para proponer al Titular del Poder ejecutivo del Estado reformas y adiciones a leyes y decretos relativos a la seguridad pública, que garanticen el bienestar y la confianza de la población.
+n) Coordinarse con las diferentes autoridades dentro del marco del Sistema Estatal de Seguridad Pública, para proponer al Titular del Poder ejecutivo del Estado reformas y adiciones a leyes y decretos relativos a la seguridad pública, que garanticen el bienestar y la confianza de la población;
 
-o) Celebrar con autoridades que conforman el Sistema Estatal de seguridad Pública, convenios que permitan preservar el orden y respeto dentro de la sociedad.
+o) Celebrar con autoridades que conforman el Sistema Estatal de seguridad Pública, convenios que permitan preservar el orden y respeto dentro de la sociedad;
 
-p) Organizar, supervisar, y controlar, previo acuerdo del Gobernador del Estado, la Academia Estatal de Policía.
+p) Organizar, supervisar, y controlar, previo acuerdo del Gobernador del Estado, la Academia Estatal de Policía;
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
+
+q) Coordinar, dirigir y supervisar a la Policía Estatal Preventiva;
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
+
+r) Organizar, controlar y supervisar el Registro Público Vehicular;
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
+
+s) Proporcionar a la Procuraduría General de Justicia la información que se tenga sobre personas y vehículos que ingresen o abandonen el territorio estatal;
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
+
+t) Organizar, controlar y supervisar, los Módulos de Identificación de personas y vehículos que se instalen en el territorio estatal, con el fin de identificarlos a la entrada y salida del Estado;
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
+
+u) Colaborar con los servicios de protección civil, en caso de situaciones de riesgo por disturbios sociales o desastre naturales, previo acuerdo con el Gobernador del Estado.
 
 II. En materia de Readaptación Social:
 
@@ -699,9 +719,15 @@ b) Administrar los centros de readaptación social estatales y vigilar que se cu
 
 c) Conocer y resolver sobre el otorgamiento y revocación del beneficio de la preliberación y someter a la consideración del Gobernador del Estado lo relativo a la libertad anticipada y la remisión parcial de la sanción, de conformidad con las leyes respectivas;
 
-d) Administrar las instituciones de internamiento para menores infractores, así como vigilar el cumplimiento de las disposiciones legales y reglamentarias respectivas; y
+d) Administrar las instituciones de internamiento para menores infractores, así como vigilar el cumplimiento de las disposiciones legales y reglamentarias respectivas; y (sic)
 
-e) Coordinar las funciones y programas que implemente el Patronato para la Reincorporación Social.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2008)</small>
+
+e) Administrar, coordinar y supervisar el Centro de Internamiento y Tratamiento Externo para Adolescentes;
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2008)</small>
+
+f) Coordinar las funciones y programas que implemente el Patronato para la Reincorporación Social.
 
 III. Las demás que le señalen las leyes aplicables en la entidad.
 
@@ -1234,3 +1260,71 @@ CUARTO.- El Gobierno del Estado tendrá un término de 60 días naturales contad
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 8 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial der. Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Seguridad Pública, deberá expedir su reglamento interior dentro de los 60 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado número 48 con fecha 31 de diciembre de 1976, asimismo se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El personal de la Procuraduría General de Justicia del Estado, que para el desempeño de su función tengan el carácter de acuerdo a la Ley Orgánica del Ministerio Público para el Estado de Baja California Sur, de Agente del Ministerio Publico, Secretario de Acuerdos del Ministerio Publico, Detective de Investigaciones de la policía Ministerial, Agente de Investigaciones de la Policía Ministerial y Perito, deberán dar cumplimiento a los requerimientos y condiciones previstas en la ley señalada para incorporarse al Servicio Civil de Carrera.
+
+En ningún caso, podrán aplicarse en forma retroactiva normas que afecten su situación administrativa o laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades o puestos de nueva creación y denominación distinta que aparecen en la Ley Orgánica del Ministerio Público del Estado de Baja California Sur y que tienen competencia en asuntos que correspondían a otras áreas, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, se dé una denominación nueva o distinta a una unidad administrativa y cuyas funciones estén establecidas por otro ordenamiento jurídico, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine esta Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+###### ARTICULO SÉPTIMO.
+
+Se abroga el decreto expedido por el Ejecutivo del Estado, el día15 de Enero de 1998, publicado en el Boletín Oficial del Gobierno del Estado, No. 2 el día 20 de Enero de 1998, mediante el que se crea el Órgano Administrativo desconcentrado denominado Instituto interdisciplinario de Ciencias Penales.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado expedirá el Reglamento Interior de la Procuraduría General de Justicia del Estado, dentro del plazo de 30 días hábiles contados a partir de la entrada en vigor de este Decreto; en tanto continuará aplicándose el vigente siempre y cuando no se opongo a las disposiciones del mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los acuerdos, circulares, y demás disposiciones administrativas dictadas por el Procurador General de Justicia del Estado, con fundamento en la Ley Orgánica que se abroga mediante el presente Decreto, continuarán en vigor en lo que no se oponga a la Ley que entra en vigor, hasta que aquel dicte las normas administrativas que correspondan.
+
+###### ARTÍCULO DÉCIMO.
+
+Los expedientes, averiguaciones y cualquier otro asunto que a la fecha de entrada en vigor de la Ley Orgánica del Ministerio Público que se aprueba mediante este Decreto, se encuentren radicados y sean del conocimiento de los órganos existentes conforme a la Ley Orgánica del Ministerio Público que se abroga, deberán de remitirse de inmediato o los nuevos órganos paro su tramitación y resolución.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los servidores públicos que ocupen los cargos de nueva creación establecidos en la Ley Orgánica del Ministerio Publico del Estado de Baja California Sur, serán nombrados en los términos de la misma por la autoridad que corresponda, dentro del término de 30 días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se abroga el Decreto Número 1089 del H. Congreso del Estado de Baja California Sur, mediante el cual se expide la Ley de Seguridad Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de fecha 06 de Junio de 1996.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se abroga el Decreto Número 509 del H. Congreso del Estado de Baja California Sur, mediante el cual se crea la Academia de Policía del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 16, de fecho 20 de mayo de 1985.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Ejecutivo del Estado de Baja California Sur, contará con 60 días hábiles posteriores a la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para reformar o en su caso expedir un nuevo Reglamento Interno de la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Ejecutivo del Estado de Baja California Sur, contará con 90 días hábiles posteriores a lo publicación de este Decreto en el Boletín Oficial del Gobierno del Estado, para expedir las disposiciones administrativas necesarias para la operación del Centro Estatal de Control de Confianza, de la Academia Estatal de Policía, de la Comisión de Honor y Justicia, del Consejo de Consulta y Participación Ciudadana; y demás disposiciones para la adecuada aplicación de la Ley de Seguridad Pública de! Estado de Baja California Sur.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
