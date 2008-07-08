@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "2006-10-05"
+last_updated: "2008-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 1752, POR EL QUE SE MODIFICAN DIVERSOS ORDENAMIENTOS, PUBLICADO EN EL B.O. DE 8 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -805,11 +807,11 @@ V. Todas las facultades y obligaciones fijadas en este artículo a los adscritos
 
 En los lugares que haya un solo Agente del Ministerio Público, éste fungirá como Agente Investigador y adscrito al Juzgado correspondiente, teniendo las atribuciones y obligaciones que para ambos establece esta ley.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
-### CAPITULO OCTAVO. DE LA DIRECCION DE LA POLICIA MINISTERIAL
+### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
 
-> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 42.
 
@@ -853,9 +855,11 @@ Los servicios periciales se prestarán a pedimento de las autoridades judiciales
 
 En caso de que se solicite el servicio por otra autoridad o institución, se prestará cuando lo acuerde el Procurador.
 
-### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
+> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
+### CAPITULO OCTAVO. DE LA DIRECCION DE LA POLICIA MINISTERIAL
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 46.
 
@@ -918,8 +922,6 @@ De igual forma, queda terminantemente prohibido a la Policía, en el desempeño 
 ###### ARTICULO 54.
 
 Ningún miembro de la Policía Ministerial podrá hacer uso de vehículos o cualquier otro objeto recogido o detenido con motivo de la comisión de delitos. La misma prohibición se establece para cualquier funcionario del Ministerio Público; la violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite en contra del responsable las acciones pertinentes.
-
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ## TITULO CUARTO. DISPOSICIONES GENERALES
 
@@ -1086,3 +1088,71 @@ UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicaci
 B.O. 5 DE OCTUBRE DE 2006.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 8 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial der. Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Seguridad Pública, deberá expedir su reglamento interior dentro de los 60 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado número 48 con fecha 31 de diciembre de 1976, asimismo se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El personal de la Procuraduría General de Justicia del Estado, que para el desempeño de su función tengan el carácter de acuerdo a la Ley Orgánica del Ministerio Público para el Estado de Baja California Sur, de Agente del Ministerio Publico, Secretario de Acuerdos del Ministerio Publico, Detective de Investigaciones de la policía Ministerial, Agente de Investigaciones de la Policía Ministerial y Perito, deberán dar cumplimiento a los requerimientos y condiciones previstas en la ley señalada para incorporarse al Servicio Civil de Carrera.
+
+En ningún caso, podrán aplicarse en forma retroactiva normas que afecten su situación administrativa o laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las unidades o puestos de nueva creación y denominación distinta que aparecen en la Ley Orgánica del Ministerio Público del Estado de Baja California Sur y que tienen competencia en asuntos que correspondían a otras áreas, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, se dé una denominación nueva o distinta a una unidad administrativa y cuyas funciones estén establecidas por otro ordenamiento jurídico, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine esta Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+###### ARTICULO SÉPTIMO.
+
+Se abroga el decreto expedido por el Ejecutivo del Estado, el día15 de Enero de 1998, publicado en el Boletín Oficial del Gobierno del Estado, No. 2 el día 20 de Enero de 1998, mediante el que se crea el Órgano Administrativo desconcentrado denominado Instituto interdisciplinario de Ciencias Penales.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado expedirá el Reglamento Interior de la Procuraduría General de Justicia del Estado, dentro del plazo de 30 días hábiles contados a partir de la entrada en vigor de este Decreto; en tanto continuará aplicándose el vigente siempre y cuando no se opongo a las disposiciones del mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los acuerdos, circulares, y demás disposiciones administrativas dictadas por el Procurador General de Justicia del Estado, con fundamento en la Ley Orgánica que se abroga mediante el presente Decreto, continuarán en vigor en lo que no se oponga a la Ley que entra en vigor, hasta que aquel dicte las normas administrativas que correspondan.
+
+###### ARTÍCULO DÉCIMO.
+
+Los expedientes, averiguaciones y cualquier otro asunto que a la fecha de entrada en vigor de la Ley Orgánica del Ministerio Público que se aprueba mediante este Decreto, se encuentren radicados y sean del conocimiento de los órganos existentes conforme a la Ley Orgánica del Ministerio Público que se abroga, deberán de remitirse de inmediato o los nuevos órganos paro su tramitación y resolución.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los servidores públicos que ocupen los cargos de nueva creación establecidos en la Ley Orgánica del Ministerio Publico del Estado de Baja California Sur, serán nombrados en los términos de la misma por la autoridad que corresponda, dentro del término de 30 días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se abroga el Decreto Número 1089 del H. Congreso del Estado de Baja California Sur, mediante el cual se expide la Ley de Seguridad Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de fecha 06 de Junio de 1996.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se abroga el Decreto Número 509 del H. Congreso del Estado de Baja California Sur, mediante el cual se crea la Academia de Policía del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 16, de fecho 20 de mayo de 1985.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Ejecutivo del Estado de Baja California Sur, contará con 60 días hábiles posteriores a la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para reformar o en su caso expedir un nuevo Reglamento Interno de la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Ejecutivo del Estado de Baja California Sur, contará con 90 días hábiles posteriores a lo publicación de este Decreto en el Boletín Oficial del Gobierno del Estado, para expedir las disposiciones administrativas necesarias para la operación del Centro Estatal de Control de Confianza, de la Academia Estatal de Policía, de la Comisión de Honor y Justicia, del Consejo de Consulta y Participación Ciudadana; y demás disposiciones para la adecuada aplicación de la Ley de Seguridad Pública de! Estado de Baja California Sur.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
