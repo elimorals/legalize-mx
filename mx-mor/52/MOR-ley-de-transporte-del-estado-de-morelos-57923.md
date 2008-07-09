@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-57923"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2008-03-12"
+last_updated: "2008-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,413 +21,657 @@ state: "MOR"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-REGLAMENTO PARA EL RETIRO DE PROPAGANDA ELECTORAL EN TERMINOS DE LO ESTABLECIDO EN LOS ARTICULOS 26, FRACCION XIII, 241, 258 Y 264 DEL CODIGO ELECTORAL DEL DISTRITO FEDERAL
+LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2008.
 
-Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 21 de julio de 2009.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL RETIRO DE PROPAGANDA ELECTORAL, EN TÉRMINOS DE LO DISPUESTO POR LOS ARTÍCULOS 26 FRACCIÓN XIII, 241, 258 Y 264 DEL CÓDIGO ELECTORAL DEL DISTRITO FEDERAL
+Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
 
-C O N S I D E R A N D O
+DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
-1. Que el Instituto Electoral del Distrito Federal es autoridad en la materia electora., (sic) independiente en sus decisiones, autónomo en su funcionamiento y profesional en su desempeño, con personalidad jurídica y patrimonio propios, de conformidad con lo establecido por los artículos 123 y 124 del Estatuto de Gobierno del Distrito Federal.
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-2. Que acorde a lo dispuesto por el artículo 127 del mismo ordenamiento, el Instituto Electoral del Distrito Federal tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de diputados, Jefe de Gobierno y titulares de los órganos administrativos de las demarcaciones territoriales, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales.
+LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-3. Que en términos de lo establecido por el artículo 2, párrafos primero y segundo del Código Electoral del Distrito Federal, corresponde al Instituto Electoral del Distrito Federal la interpretación y la aplicación de las normas establecidas en el citado ordenamiento legal, conforme a la letra o interpretación jurídica de la misma y, a falta de ésta, se fundará en los principios generales del Derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+CONSIDERANDO.
 
-4. Que acorde al artículo 86 del Código Electoral del Distrito Federal, el Instituto Electoral del Distrito Federal es un organismo público autónomo, depositario de la autoridad electoral y responsable de la función estatal de organizar las elecciones y los procedimientos de participación ciudadana; y en la orientación de sus fines y acciones, se encuentra contribuir al desarrollo de la vida democrática y fortalecer el sistema de partidos políticos y de agrupaciones políticas locales.
+.
 
-5. Que de conformidad con el artículo 88, fracciones I, III y IX del Código Electoral local, el Instituto Electoral del Distrito Federal tiene su domicilio y ejerce sus funciones en todo el territorio del Distrito Federal, a través de una estructura, dentro de la cual se encuentran un Consejo General, una Secretaría Ejecutiva y un órgano desconcentrado en cada uno de los distritos electorales uninominales en que se divide el Distrito Federal.
+Por lo anteriormente expuesto, esta Soberanía ha tenido ha bien expedir la siguiente:
 
-6. Que el Consejo General es el órgano superior de dirección del Instituto Electoral del Distrito Federal y se integra por un Consejero Presidente y seis Consejeros Electorales, todos ellos con derecho a voz y voto, y son integrantes con derecho a voz el Secretario Ejecutivo del Instituto, que fungirá como Secretario del Consejo, y representantes de los partidos políticos, de conformidad con lo dispuesto en el artículo 89, párrafo primero del Código de la materia. Asimismo, el segundo párrafo del artículo 124 del Estatuto de Gobierno del Distrito Federal, determina que el órgano superior del Instituto Electoral del Distrito Federal se integra, además de los miembros a que se refiere el Considerando inmediato anterior, por un integrante de cada Grupo Parlamentario con representación en la Asamblea Legislativa, quienes serán designados y aprobados por la Comisión de Gobierno de dicho órgano legislativo.
-
-7. Que acorde a lo establecido en el artículo 95, fracciones I, inciso a), XIV, XVIII, XXVIII y XXXIII del Código Electoral del Distrito Federal, dentro de las atribuciones que tiene el Consejo General del Instituto Electoral del Distrito Federal, se encuentran las de aprobar y expedir los reglamentos, procedimientos y demás normativa necesaria para asegurar el funcionamiento eficaz y eficiente del Instituto; conocer de las infracciones y, en su caso, imponer las sanciones que correspondan, en los términos previstos en el Código de la materia; vigilar que las actividades y uso de las prerrogativas de los partidos políticos y las agrupaciones políticas locales se desarrollen con apego al multicitado Código y cumplan con las obligaciones a que se encuentran sujetas, así como vigilar la legal aplicación de las prerrogativas que el Código Electoral local les otorga; vigilar el cumplimiento de las reglas sobre propaganda electoral e investigar, a solicitud de los partidos políticos o coaliciones, los presuntos incumplimientos a las mismas, y dictar los acuerdos y resoluciones necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en el Código Electoral del Distrito Federal.
-
-8. Que en congruencia con lo expuesto en el Considerando anterior, y con la finalidad de garantizar la plena aplicación y vigencia del Código Electoral del Distrito Federal, el Consejo General del Instituto Electoral del Distrito Federal se encuentra investido de la facultad reglamentaria, según la cual puede emitir la normativa que estime necesaria para dotar de contenido y precisar los alcances y efectos de las disposiciones legales y, de esta manera, colmar lagunas, antinomias o vaguedad de la ley, habida cuenta que la misma se refiere a aspectos generales, no extraordinarios.
-
-Al respecto, resultan orientadoras las tesis de Jurisprudencia sustentadas por el Pleno de la Suprema Corte de Justicia de la Nación y la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, cuyo rubro y texto son del tenor siguiente:
-
-“CONSEJO ESTATAL ELECTORAL DE DURANGO. SU FACULTAD REGLAMENTARIA PREVISTA EN EL CÓDIGO ELECTORAL DE LA ENTIDAD NO ES EXTRAORDINARIA. La circunstancia de que la facultad reglamentaria del citado Consejo se prevea en el Código Estatal Electoral y no en la Constitución Política del Estado de Durango no la convierte en una facultad extraordinaria, pues después de la Constitución la ley tiene encomendada la derivación primera del derecho, de manera que la ordenación de las relaciones sociales y la actuación de los demás poderes le tienen a ella por condición, de ahí que las normas elaboradas por los demás poderes y órganos con pretensión de incidir en ese ámbito creador del derecho deban estar habilitadas por ley y se conformen como normas secundarias. Ello se explica, porque goza de legitimidad democrática, al provenir de un procedimiento seguido por un Poder en el que se encuentran representadas las mayorías y las minorías. Además, dicha facultad se justifica atendiendo a la naturaleza del Consejo Estatal Electoral, que al ser un órgano autónomo no se encuentra dentro del ámbito de atribuciones del Poder Ejecutivo de la entidad, por lo que éste, en uso de su facultad reglamentaria, no podría expedir disposiciones que incidan en el ámbito de atribuciones del Consejo. En consecuencia, la facultad reglamentaria puede establecerse en ley, sin que por ello pueda estimarse que se trate de facultades extraordinarias, máxime si se toma en cuenta que dicha facultad se limita por los principios de reserva de ley y de subordinación jerárquica.
-
-Acción de inconstitucionalidad 36/2006. Partido Acción Nacional. 23 de noviembre de 2006.
-
-Unanimidad de diez votos. Ausente: José de Jesús Gudiño Pelayo. Ponente: Genaro David Góngora Pimentel. Secretarios: Makawi Staines Díaz, Marat Paredes Montiel y Rómulo Amadeo Figueroa Salmorán.
-
-El Tribunal Pleno, el diecisiete de abril en curso, aprobó, con el número 31/2007, la tesis jurisprudencial que antecede. México, Distrito Federal, a diecisiete de abril de dos mil siete
-
-FACULTAD REGLAMENTARIA. SUS LÍMITES. La facultad reglamentaria está limitada por los principios de reserva de ley y de subordinación jerárquica. El primero se presenta cuando una norma constitucional reserva expresamente a la ley la regulación de una determinada materia, por lo que excluye la posibilidad de que los aspectos de esa reserva sean regulados por disposiciones de naturaleza distinta a la ley, esto es, por un lado, el legislador ordinario ha de establecer por sí mismo la regulación de la materia determinada y, por el otro, la materia reservada no puede regularse por otras normas secundarias, en especial el reglamento. El segundo principio, el de jerarquía normativa, consiste en que el ejercicio de la facultad reglamentaria no puede modificar o alterar el contenido de una ley, es decir, los reglamentos tienen como límite natural los alcances de las disposiciones que dan cuerpo y materia a la ley que reglamentan, detallando sus hipótesis y supuestos normativos de aplicación, sin que pueda contener mayores posibilidades o imponga distintas limitantes a las de la propia ley que va a reglamentar. Así, el ejercicio de la facultad reglamentaria debe realizarse única y exclusivamente dentro de la esfera de atribuciones propias del órgano facultado, pues la norma reglamentaria se emite por facultades explícitas o implícitas previstas en la ley o que de ella derivan, siendo precisamente esa zona donde pueden y deben expedirse reglamentos que provean a la exacta observancia de aquélla, por lo que al ser competencia exclusiva de la ley la determinación del qué, quién, dónde y cuándo de una situación jurídica general, hipotética y abstracta, al reglamento de ejecución competerá, por consecuencia, el cómo de esos mismos supuestos jurídicos. En tal virtud, si el reglamento sólo funciona en la zona del cómo, sus disposiciones podrán referirse a las otras preguntas (qué, quién, dónde y cuándo), siempre que éstas ya estén contestadas por la ley; es decir, el reglamento desenvuelve la obligatoriedad de un principio ya definido por la ley y, por tanto, no puede ir más allá de ella, ni extenderla a supuestos distintos ni mucho menos contradecirla, sino que sólo debe concretarse a indicar los medios para cumplirla y, además, cuando existe reserva de ley no podrá abordar los aspectos materia de tal disposición.
-
-Acción de inconstitucionalidad 36/2006. Partido Acción Nacional. 23 de noviembre de 2006.
-
-Unanimidad de diez votos. Ausente: José de Jesús Gudiño Pelayo. Ponente: Genaro David Góngora Pimentel. Secretarios: Makawi Staines Díaz, Marat Paredes Montiel y Rómulo Amadeo Figueroa Salmorán.
-
-El Tribunal Pleno, el diecisiete de abril en curso, aprobó, con el número 30/2007, la tesis jurisprudencial que antecede. México, Distrito Federal, a diecisiete de abril de dos mil siete FUNDAMENTACIÓN Y MOTIVACIÓN DE LOS ACUERDOS DEL INSTITUTO FEDERAL ELECTORAL, QUE SE EMITEN EN EJERCICIO DE LA FUNCIÓN REGLAMENTARIA.-La fundamentación y la motivación de los acuerdos expedidos por el Instituto Federal Electoral, en ejercicio de su facultad reglamentaria, es entendible que no se exprese en términos similares que las de otros actos de autoridad. De ahí que para que un reglamento se considere fundado basta que la facultad reglamentaria de la autoridad que lo expide se encuentre prevista en la ley. Por otra parte, la motivación se cumple, cuando el reglamento emitido sobre la base de esa facultad reglamentaria, se refiere a relaciones sociales que reclaman ser jurídicamente reguladas, sin que esto signifique que todas y cada una de las disposiciones que integran el reglamento deban ser necesariamente materia de una motivación específica. Esto es así, porque de acuerdo con el artículo 16, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, todo acto de autoridad que cause molestias a los derechos previstos en el propio precepto debe estar fundado y motivado. En la mayoría de los casos se considera que lo primero se traduce, en que ha de expresarse el precepto legal aplicable al caso y, lo segundo, en que deben señalarse las circunstancias especiales, razones particulares o causas inmediatas que se hayan tenido en consideración para la emisión del acto; es necesario además, que exista adecuación entre los motivos aducidos y las normas aplicables, de manera que quede evidenciado que las circunstancias invocadas como motivo para la emisión del acto encuadran en la norma invocada como sustento del modo de proceder de la autoridad. El surtimiento de estos requisitos está referido a la fundamentación y motivación de aquellos actos de autoridad concretos, dirigidos en forma específica a causar, por lo menos, molestia a sujetos determinados en los derechos a que se refiere la propia norma constitucional. Es explicable que en esta clase de actos, la garantía de fundamentación y motivación se respete de la manera descrita, puesto que la importancia de los derechos a que se refiere el párrafo primero del artículo 16 constitucional provoca que la simple molestia que pueda producir una autoridad a los titulares de aquéllos, debe estar apoyada clara y fehacientemente en la ley, situación de la cual debe tener pleno conocimiento el sujeto afectado, incluso para que, si a su interés conviene, esté en condiciones de realizar la impugnación más adecuada para librarse de ese acto de molestia. En cambio, como los reglamentos gozan de los atributos de impersonalidad, generalidad y abstracción, es patente que su confrontación con el párrafo primero del artículo 16 constitucional para determinar si se ha observado la garantía de fundamentación y motivación debe hacerse sobre la base de otro punto de vista, como es el señalado al principio.
-
-Tercera Época:
-
-Recurso de apelación. SUP-RAP-028/99.-Partido Revolucionario Institucional.-6 de diciembre de 1999.-Unanimidad de votos.
-
-Recurso de apelación. SUP-RAP-029/99.-Partido Revolucionario Institucional.-6 de diciembre de 1999.-Unanimidad de votos.
-
-Recurso de apelación. SUP-RAP-042/99.-Coalición Alianza por México.-2 de marzo de 2000.-Unanimidad de votos.
-
-Revista Justicia Electoral 2001, suplemento 4, páginas 16-17, Sala Superior, tesis S3ELJ 01/2000.
-
-Compilación Oficial de Jurisprudencia y Tesis Relevantes 1997-2005, páginas 139-141.”
-
-9. Que en términos del primer párrafo del artículo 96 del Código Electoral local, el Consejo General contará con Comisiones Permanentes para el desempeño de sus atribuciones y supervisión del adecuado desarrollo de las actividades de los órganos ejecutivos y técnicos del Instituto Electoral del Distrito Federal, que auxiliarán al Consejo General en lo relativo a su área de actividades.
-
-10. Que de conformidad con lo dispuesto por los artículos 97, fracción I y 100, fracción I del Código de la materia, dentro de las Comisiones Permanentes con las que cuenta el Consejo General del Instituto Electoral del Distrito Federal se encuentra la Comisión de Asociaciones Políticas, la cual tiene como atribución, entre otras, la de auxiliar al Consejo General en la supervisión del cumplimiento de las obligaciones de los partidos políticos y agrupaciones políticas y, en general, en lo relativo a los derechos y prerrogativas de éstas.
-
-11. Que el artículo 110, fracciones V, VI y XXI del Código Electoral local, señala que son atribuciones del Secretario Ejecutivo del Instituto Electoral del Distrito Federal, entre otras, apoyar al Consejo General, al Consejero Presidente y a las Comisiones en el ejercicio de sus atribuciones; coordinar, supervisar y dar seguimiento a los programas y trabajos de las direcciones ejecutivas y unidades técnicas, así como de los órganos desconcentrados del Instituto en su ámbito de competencia, informando permanentemente al Presidente del Instituto; y ser el conducto de comunicación permanente entre los órganos desconcentrados y los órganos centrales, así como mantenerlos informados de los asuntos de su competencia.
-
-12. Que el artículo 125, párrafo primero del Código Electoral local establece que en cada uno de los distritos electorales uninominales en que se divida el Distrito Federal, el Instituto contará con un órgano desconcentrado permanente denominado Dirección Distrital. Durante los procesos electorales o de participación ciudadana funcionará como Consejo Distrital, y tendrán su sede en cada uno de los distritos electorales.
-
-13. Que las Direcciones Distritales se integran de manera permanente y exclusiva, por un Coordinador Distrital, que fungirá como Presidente del Consejo Distrital durante los procesos electorales o de participación ciudadana y encargado de la Organización Electoral; un Secretario Técnico Jurídico; un Director de Capacitación Electoral, Educación Cívica y Geografía Electoral, y dos líderes de proyecto, de conformidad con lo dispuesto en el primer párrafo del artículo 126 del Código de la materia.
-
-14. Que en términos de lo dispuesto por el artículo 131, fracciones I, II y III del Código Electoral local, en cada distrito electoral funcionará durante el proceso electoral un Consejo Distrital, que se integrará por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; un representante propietario de cada partido político o coaliciones, quienes sólo tendrán derecho a voz; y un Secretario del Consejo, con derecho a voz.
-
-15. Que el artículo 15, párrafo primero del Código Electoral del Distrito Federal, señala que en el Distrito Federal la denominación “Asociación Política” se refiere al conjunto de ciudadanos que en los términos del artículo 9 de la Constitución Política de los Estados Unidos Mexicanos, se reúnen para tomar parte en los asuntos políticos del país, y que para los efectos del Código de la materia, dos de las figuras que se reconocen como asociaciones políticas son los partidos políticos nacionales y los partidos políticos locales, de conformidad con lo dispuesto por las fracciones I y III del referido artículo 15 del Código Electoral local.
-
-16. Que el artículo 15, segundo párrafo, del Código Electoral del Distrito Federal señala que las asociaciones políticas constituyen entidades de interés público, con personalidad jurídica y patrimonio propios, las cuales gozarán de los derechos y de las prerrogativas que se establecen en la Constitución Política de los Estados Unidos Mexicanos; el Estatuto de Gobierno del Distrito Federal y el Código Electoral del Distrito Federal y quedarán sujetas a las obligaciones que dichos ordenamientos les determinan.
-
-17. Que acorde con lo establecido en el artículo 16 del Código Electoral local, la denominación “partido político” se reserva a las asociaciones políticas que tengan su registro como tal ante las autoridades electorales correspondientes. Los partidos políticos son entidades de interés público, que tienen como objetivo fomentar la participación de los ciudadanos en la vida democrática, contribuir a la integración de los órganos de representación del Distrito Federal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
-
-18. Que de conformidad con lo señalado en el artículo 25, fracciones I y IV del Código de la materia, son derechos de los partidos políticos, entre otros, participar conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en el Estatuto de Gobierno del Distrito Federal y en el Código Electoral del Distrito Federal, en el proceso electoral, y postular candidatos en las elecciones de Diputados locales, Jefe de Gobierno y Jefes Delegacionales del Distrito Federal.
-
-19. Que conforme a lo dispuesto por el artículo 26, fracciones I, XIII y XIX del Código Electoral local, son obligaciones de los partidos políticos, entre otras, conducir sus actividades dentro de los cauces legales, así como de sus normas internas y ajustar su conducta y la de sus militantes a los principios del Estado democrático, respetando la libre participación política de las demás asociaciones políticas y los derechos de sus ciudadanos; observar las normas y disposiciones que en materia de propaganda electoral establezca el Código Electoral del Distrito Federal, así como las disposiciones administrativas y de protección al medio ambiente, para la elaboración, colocación y retiro de propaganda electoral durante el transcurso y conclusión de los procesos de selección interna de candidatos y campañas electorales; y conducir sus actividades por los cauces legales que señala el Código de la materia y sus normas internas, en lo respectivo a los procesos de selección interna de candidatos y campañas electorales.
-
-20. Que el artículo 211 del Código de la materia determina que el proceso electoral es el conjunto de actos ordenados por la Constitución Política de los Estados Unidos Mexicanos; el Estatuto de Gobierno del Distrito Federal; el Código Electoral del Distrito Federal y demás leyes relativas, realizado por las autoridades electorales locales, los partidos políticos o coaliciones y los ciudadanos, que tiene por objeto la renovación periódica de diputados a la Asamblea Legislativa; del Jefe de Gobierno y de los Jefes Delegacionales.
-
-21. Que por disposición del artículo 217 del Código de la materia, el proceso electoral ordinario se inicia durante el mes de octubre del año anterior a la elección y concluye una vez que el Tribunal Electoral del Distrito Federal haya resuelto el último de los medios de impugnación que se hubiere interpuesto o cuando se tenga constancia de que no se presentó ninguno.
-
-22. Que en términos de la fracción IX del artículo 225 del Código Electoral del Distrito Federal, se entiende por procesos de selección interna de candidatos o precampañas, al conjunto de actos y actividades que tienen por objeto influir en la decisión de aquellos que integran el universo de votantes que eligen o designan a los candidatos a cargos de elección popular. Estos actos o actividades deberán realizarse dentro del período establecido por el Código Electoral local y estarán sujetas a lo previsto en ese mismo ordenamiento y en los Estatutos y demás normativa interna de los partidos políticos y coaliciones.
-
-23. Que de conformidad con lo dispuesto por el artículo 225, fracción VII del Código comicial local, en relación con lo establecido en el artículo 226, párrafos primero y tercero del mismo ordenamiento, la duración de las precampañas electorales es el tiempo que transcurre entre el inicio y el término de las actividades que de manera previa al registro de candidatos, son llevadas a cabo por ciudadanos que aspiran a ser candidatos para algún cargo de elección popular, dentro de una precampaña organizada por un partido político con el propósito de ser postulados por éste a algún cargo de elección popular, asimismo, los procesos de selección interna se llevarán a cabo en el mismo año en que se realice la jornada electoral y, en el caso de los procesos de selección interna de candidatos a Diputados a la Asamblea Legislativa y a Jefes Delegacionales, no podrán durar más de 30 días y no podrán extenderse más allá del 21 de marzo del año de la elección.
-
-24. Que acorde a lo señalado en el artículo 225, fracción X del Código de la materia, se entiende por propaganda electoral al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos o, en su caso, los candidatos registrados y sus simpatizantes, en el objeto de propiciar la exposición, desarrollo y discusión ante el electorado, de los programas y acciones fijados por los propios partidos políticos en sus Estatutos y, particularmente, en la plataforma electoral que para la elección hubieren registrado.
-
-25. Que de conformidad con lo establecido en el segundo párrafo del artículo 241 del Código Electoral local, una vez terminados los procesos de selección interna de candidatos, la propaganda deberá ser retirada por los partidos políticos, a más tardar cinco días antes del inicio de registro de candidatos. De no hacerlo, se notificará a la autoridad administrativa correspondiente para que proceda a su retiro, aplicando el costo de dichos trabajos con cargo a las prerrogativas del partido infractor, independientemente de las sanciones previstas en el Código de la materia.
-
-26. Que el artículo 256, primer párrafo del Código Electoral del Distrito Federal establece que la campaña electoral es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y los candidatos registrados, para la obtención del voto popular.
-
-27. Que en términos del artículo 256, tercer párrafo del Código comicial local, la propaganda electoral de las campañas electorales es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones, mantas, cartelones, pintas de bardas y expresiones que durante la campaña electoral producen y difunden los partidos políticos o coaliciones, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía, las candidaturas registradas.
-
-28. Que con fundamento en lo establecido en el artículo 257, párrafos primero, fracción II y segundo del multicitado Código, las campañas electorales de los partidos políticos o coaliciones se iniciarán 45 días antes del término previsto para finalizar las campañas electorales, en los casos de elección para diputados de mayoría relativa y Jefes Delegacionales, y que dichas campañas electorales deberán concluir tres días antes de celebrarse la jornada electoral.
-
-29. Que en observancia de lo dispuesto por el artículo 258, párrafos primero y segundo del Código Electoral del Distrito Federal, la propaganda electoral deberá ser retirada por los partidos políticos o coaliciones, en un lapso menor a quince días posteriores a la jornada electoral. La propaganda retirada de la vía pública deberá ser enviada por los partidos políticos o coaliciones a centros de reciclaje, acreditando mediante las constancias que éstos emiten, la entrega de dichos materiales. En caso de no hacerlo, la Comisión de Asociaciones Políticas del Instituto Electoral del Distrito Federal, requerirá al partido político o coalición respectiva, para que dentro del término de seis días naturales, lleve a cabo el retiro de su propaganda o alegue lo que a su derecho corresponda. De no ser retirada la mencionada propaganda o debidamente justificado su alegato, en caso de que existiera éste, la Comisión de Asociaciones Políticas le dará cuenta al Presidente del Consejo General, a efecto de que se instruya al Secretario ejecutivo, para que proceda a dar vista al Ministerio Público de la adscripción para que actúe conforme a su representación social competa.
-
-30. Que el artículo 264, segundo párrafo del Código Electoral del Distrito Federal, dispone que en caso de violación a las reglas para la propaganda y la fijación de la misma en los lugares permitidos, el Consejo General o Distrital respectivo, notificará al partido político o coalición infractor, requiriendo su inmediato retiro, que no podrá exceder de 24 horas; en caso de incumplimiento se notificará a la autoridad administrativa para el retiro de propaganda y la sanción que se determine al partido político o coalición responsable considerará el daño económico ocasionado.
-
-31. Que el ocho de septiembre de dos mil ocho, se aprobó el Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el que se expide la Convocatoria dirigida a los ciudadanos y a los partidos políticos para participar en el Proceso Electoral Ordinario 2008-2009, con motivo de la elección de Diputados a la Asamblea Legislativa del Distrito Federal y Jefes Delegacionales, para el período constitucional 2009-2012, cuya jornada electoral se celebrará el 5 de julio de 2009, identificado con la clave ACU-039-08, declarando el inicio formal del proceso electoral durante la sesión de dicho órgano colegiado de fecha diez de octubre de dos mil ocho.
-
-32. Que el veintiuno de marzo de dos mil nueve, concluyeron los procesos de selección interna que llevaron a cabo los partidos políticos para elegir a sus candidatos a diputados a la Asamblea Legislativa del Distrito Federal y a Jefes Delegacionales.
-
-33. Que con la finalidad de vigilar el cumplimiento de lo dispuesto en el artículo 241 del Código Electoral local, el Secretario Ejecutivo del Instituto electoral del Distrito Federal, en ejercicio de la atribución que le confiere el artículo 110, fracción VI de dicho ordenamiento legal, mediante la Circular No. 81, de fecha seis de abril de dos mil nueve, tomó las medidas necesarias para cumplimentar la disposición señalada en el referido artículo 241.
-
-34. Que la Junta Ejecutiva del Instituto Electoral del Distrito Federal durante el desarrollo de su Décima Cuarta Sesión Extraordinaria celebrada el 22 de abril del año en curso, emitió el acuerdo identificado con la clave alfanumérica JE088-09 por el que se aprobó el Proyecto de Reglamento para el retiro de propaganda electoral en los términos de lo establecido en los artículos 26, fracción XIII, 241, 258 y 268 del Código Electoral del Distrito Federal. Por lo anterior, con fundamento en la fracción III del artículo 108 del Código Electoral local, la Junta Ejecutiva propuso a la consideración del órgano superior de dirección de este Instituto Electoral el proyecto de reglamento en mención.
-
-35. Que a efecto de regular el retiro de la propaganda que se utilice en las precampañas dentro de los procesos de selección interna de candidatos a cargos de elección popular y en las campañas electorales; reglamentar la obligación que tienen los partidos políticos y coaliciones de enviar la propaganda electoral utilizada en las campañas electorales, a los centros de reciclaje autorizados por la ley; y regular el retiro de propaganda en caso de que algún partido político o coalición viole las reglas para la propaganda, este órgano superior de dirección del Instituto Electoral del Distrito Federal determina que es preciso expedir el Reglamento correspondiente, a efecto de establecer los alcances en la aplicación de los artículos 241, segundo párrafo y 258 del Código Electoral del Distrito Federal.
-
-36. Que en virtud de que las precampañas concluyeron con anterioridad a la expedición del presente Reglamento y que su retiro se reguló por lo dispuesto en la Circular No. 81, emitida por el Secretario Ejecutivo del Instituto Electoral del Distrito Federal, es inconcuso que las disposiciones relativas al retiro de propaganda de dicha etapa del proceso electoral no resultará aplicable para el proceso electoral 2008-2009, no así para la propaganda relativa a las campañas electorales, habida cuenta que, en términos de lo dispuesto por el artículo 257, primer párrafo, fracción II y segundo párrafo, en relación con el artículo 258, ambos del Código Electoral del Distrito Federal, las campañas electorales para diputados a la Asamblea Legislativa por el principio de mayoría relativa y para Jefes Delegacionales iniciarán 45 días antes del término previsto para finalizar las campañas electorales y que éstas deben concluir tres días antes de celebrarse la jornada electoral, es decir, el uno de julio de dos mil nueve, habida cuenta que la jornada electoral habrá de celebrarse el día cinco del mismo mes y año, y la propaganda de las campañas electorales habrá de retirarse en un plazo menor de quince días posteriores a la jornada electoral.
-
-37. Que el veintisiete de mayo de dos mil nueve, el órgano superior de dirección celebró sesión extraordinaria en la que, entre otros puntos, abordó el relativo al Proyecto de Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el que se expide el Reglamento para el retiro de propaganda electoral en términos de lo establecido en los artículos 26, fracción XIII, 241, 258 y 264 del Código Electoral del Distrito Federal; sin embargo, a petición expresa de los representantes de diversos partidos políticos, el órgano superior de dirección determinó posponer su discusión y, en su caso, aprobación, a efecto de integrar una mesa de trabajo en la que los partidos políticos pudieran plantear sus observaciones y comentarios al proyecto de referencia y, en su caso, se integrara una nueva versión.
-
-38. Que mediante los oficios identificados con las claves IEDF-SECG/2150/09 y IEDF-SECG/2229/09, de fecha veintiocho de mayo de dos mil nueve y dos de junio del mismo año, respectivamente, suscritos por el Secretario Ejecutivo de este Instituto Electoral, se solicitó a los representantes de los partidos políticos remitieran a esa Secretaría Ejecutiva sus observaciones, propuestas o comentarios al proyecto de Reglamento en comento. En este sentido, el ocho de junio de dos mil nueve, la representación del Partido Acción Nacional remitió a la Secretaría Ejecutiva diversas observaciones al proyecto de mérito, a efecto de que, en su caso, fueran consideradas en la elaboración de la versión final.
-
-39. Que el Secretario Ejecutivo, mediante los oficios identificados con las claves IEDF-SECG-2587/09, IEDFSECG/2688/09 e IEDF-SECG-2812/09, de fechas diecisiete, veintidós y veintinueve de junio de dos mil nueve, convocó a los representantes de los partidos políticos a diversas reuniones de trabajo para la discusión del Reglamento aludido. Como resultado de lo anterior, el veintinueve de junio del año en curso, a las 20:30 horas, en las oficinas de la Secretaría Ejecutiva asistieron, entre otros, los representantes de los Partidos Políticos Acción Nacional, Revolucionario Institucional, de la Revolución Democrática, del Trabajo, Verde Ecologista de México, Convergencia, Nueva Alianza y Socialdemócrata.
-
-40. Que en la reunión de trabajo referida en el considerando que antecede se plantearon diversas observaciones, mismas que se integraron al documento de mérito si resultaron procedentes, el cual se somete a la consideración del órgano superior de dirección para su aprobación, habida cuenta que los plazos legales para la expedición del Reglamento de referencia son improrrogables, limitados y de próximo vencimiento, para que éste pueda resultar aplicable en el proceso electoral en curso.
-
-Por lo anteriormente expuesto, y con fundamento en los artículos 123, 124 y 127 del Estatuto de Gobierno del Distrito Federal; 2, párrafos primero y segundo, 15, párrafos primero y segundo, 16, 25, fracciones I y IV, 26, fracciones I, XIII y XIX, 86, 88, fracciones I, III y IX, 89, primer párrafo, 95, fracciones I, inciso a) XIV, XVIII, XXVIII y XXXIII, 96, primer párrafo, 97, fracción I, 100, fracción I, 108, fracción III, 110, fracciones V, VI y XXI, 125, párrafo primero, 126, párrafo primero, 131, fracciones I, II y III, 211, 217, 225, fracciones VII, IX y X, 241, segundo párrafo, 256, párrafos primero y tercero, 257, párrafos primero, fracción II y segundo, 258, párrafos primero y segundo, y 264, segundo párrafo del Código Electoral del Distrito Federal, el Consejo General del Instituto Electoral del Distrito Federal adopta el siguiente
-
-A C U E R D O
-
-PRIMERO. Se aprueba el Reglamento para el retiro de propaganda electoral, en términos de lo establecido en los artículos 26, fracción XIII, 241, 258 y 264 del Código Electoral del Distrito Federal, el cual forma parte integral del presente Acuerdo.
-
-SEGUNDO. Este Acuerdo y su correspondiente anexo entrarán en vigor al día siguiente de su aprobación por parte del Consejo General del Instituto Electoral del Distrito Federal.
-
-TERCERO. Los actos producidos con motivo del cumplimiento de las disposiciones comprendidas en la Circular No. 81 que aún se encuentren en proceso al día de la entrada en vigor del presente Acuerdo y el respectivo Reglamento, continuarán rigiéndose por las disposiciones de la referida circular hasta que hayan concluido.
-
-CUARTO. La Circular No. 81 quedará sin efectos legales una vez concluidos los procesos originados con motivo del cumplimiento de las disposiciones contenidas en la misma.
-
-QUINTO. Notifíquese personalmente el presente Acuerdo y el Reglamento que forma parte integral del mismo, a los representantes de los partidos políticos ante el Consejo General del Instituto Electoral del Distrito Federal, dentro de las setenta y dos horas siguientes a su aprobación.
-
-SEXTO. Publíquese el presente Acuerdo y el Reglamento respectivo en los estrados del Instituto Electoral del Distrito Federal, tanto en oficinas centrales como en cada una de las cuarenta sedes distritales y en el portal del Instituto Electoral del Distrito Federal en Internet: http://www.iedf.org.mx.
-
-SÉPTIMO. Publíquese el presente Acuerdo y el Reglamento respectivo en la Gaceta Oficial del Distrito Federal.
-
-Así lo aprobaron por unanimidad de votos los CC. Consejeros Electorales integrantes del Consejo General del Instituto Electoral del Distrito Federal, en sesión pública de fecha uno de julio de dos mil nueve, firmando al calce, la Consejera Presidenta y el Secretario del Consejo General del Instituto Electoral del Distrito Federal, con fundamento en los artículos 105, fracción VI y 110, fracción XIII del Código Electoral del Distrito Federal, doy fe.- La Consejera Presidenta, Mtra. Beatriz Claudia Zavala Pérez.- El Secretario Ejecutivo, Lic. Sergio Jesús González Muñoz.- (Firmas).
-
-REGLAMENTO PARA EL RETIRO DE PROPAGANDA ELECTORAL EN TÉRMINOS DE LO ESTABLECIDO EN LOS ARTÍCULOS 26, FRACCIÓN XIII, 241, 258 Y 264 DEL CÓDIGO ELECTORAL DEL DISTRITO FEDERAL
+LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-El presente Reglamento es de orden público y de observancia obligatoria; su objetivo es regular las disposiciones derivadas del contenido de los artículos 26, fracción XIII, 241, 258 y 264 del Código Electoral del Distrito Federal, relativas al retiro de la propaganda que se utilice en las precampañas dentro de los procesos de selección interna de candidatos a cargos de elección popular y en las campañas electorales; la obligación que tienen los Partidos Políticos y Coaliciones de enviar la propaganda electoral utilizada en las campañas electorales a los centros de reciclaje autorizados por la Ley, y regular el retiro de propaganda electoral en caso de que algún Partido Político o Coalición viole las reglas para la propaganda.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto regular la prestación de los servicios de transporte público y privado; sus servicios auxiliares en el Estado de Morelos, que no sean de competencia federal; así como establecer las bases para la protección y la seguridad de la población en la materia.
 
-###### Artículo 2.
+###### ARTÍCULO 2.
 
-La interpretación y aplicación de las disposiciones derivadas del presente Reglamento se harán conforme a la letra, o interpretación jurídica de la misma, y a falta de ésta, se fundará en los principios generales del derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+La prestación del servicio de transporte público corresponde originariamente al Estado, quien podrá prestarlo directamente o concesionarlo, mediante concurso público, a personas físicas o morales, de conformidad con lo establecido por la presente Ley.
 
-Asimismo, la autoridad electoral local administrativa, para el debido cumplimiento de sus funciones, se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad.
+Las concesiones a que se refiere esta Ley, únicamente podrán ser otorgadas en garantía para obtener financiamiento destinado a la renovación del parque vehicular, previa autorización por escrito del titular del Poder Ejecutivo; en los demás casos se consideran bienes fuera del comercio y no podrá ser objeto de usufructo, arrendamiento, prenda o embargo.
 
-###### Artículo 3.
+Asimismo, para poder otorgar esta garantía, se hará constar el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no sean mexicanas por nacimiento o sociedades mercantiles integradas por extranjeros, la garantía comprenderá, salvo convenio en contrario:
 
-Para los efectos del presente Reglamento, se entenderá por:
+I.- La concesión cuando exista autorización del titular del Poder Ejecutivo; y
 
-a) Centros de reciclaje: Establecimientos autorizados por la Ley de Residuos Sólidos del Distrito Federal, y cualquier otra disposición aplicable, que emitan las autoridades competentes;
+II.- El o los vehículos motivo de la concesión.
 
-b) Código: Código Electoral del Distrito Federal;
+En virtud de lo anterior, la prestación del servicio a través de un concesionario, se considera como una extensión de la obligación que tiene el Estado de satisfacer las necesidades de transporte de los gobernados, por lo que éste conserva en todo momento la titularidad de los derechos de operación y explotación del servicio de transporte público.
 
-c) Comisión: Comisión de Asociaciones Políticas del Consejo General del Instituto Electoral del Distrito Federal;
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-d) Consejo General: Consejo General del Instituto Electoral del Distrito Federal;
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-e) Costo Total: Suma de cada uno de los montos correspondientes a todas las erogaciones realizadas por los Órganos Político-Administrativos en las tareas de retiro de propaganda electoral. Quedarán comprendidos, de manera enunciativa más no limitativa, dentro del costo total los gastos de mano de obra, transportación y combustible utilizados en las tareas en comento;
+###### ARTÍCULO 3.
 
-f) Instituto: Instituto Electoral del Distrito Federal;
+La Dirección General de Transportes previo a acuerdo con el Secretario de Gobierno, atendiendo al interés público, fijará los itinerarios y las tarifas, así como, autorizará horarios, sitios, terminales, bases, desplazamiento, enlaces, enrolamientos, fusiones o cualquier otra especificación para la operación y explotación de las concesiones y permisos de los servicios público y privado de transporte y sus servicios auxiliares, de conformidad con lo establecido por esta Ley y su Reglamento.
 
-g) Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones, mantas, cartelones, pintas de bardas y expresiones que, durante los procesos de selección interna y la campaña electoral, producen y difunden Partidos Políticos o Coaliciones, los precandidatos y candidatos registrados y sus simpatizantes con el propósito de propiciar la exposición, desarrollo y discusión ante el electorado, de los programas y acciones fijados por los propios Partidos Políticos en sus estatutos y particularmente en la plataforma electoral que para la elección hubieren registrado, así como la presentación ante la ciudadanía de las candidaturas registradas;
+###### ARTÍCULO 4.
 
-h) Secretario Ejecutivo: Secretario Ejecutivo del Instituto Electoral del Distrito Federal; y
+Cuando se presenten circunstancias de caso fortuito o de fuerza mayor, la Secretaría de Gobierno dictará las disposiciones que considere necesarias, para garantizar la prestación del servicio y resguardar la seguridad de la población en materia de transporte.
 
-i) Reglamento: Reglamento para el retiro de propaganda electoral en términos de lo establecido en los artículos 26, fracción XIII, 241, 258 y 264 del Código Electoral del Distrito Federal.
+###### ARTÍCULO 5.
 
-###### Artículo 4.
+Para los efectos de esta Ley, se entenderá por:
 
-Una vez concluidos los procesos de selección interna de candidatos, la propaganda deberá ser retirada por los Partidos Políticos, a más tardar cinco días antes del inicio de registro de candidatos.
+I.- Concesión : Título que otorga el titular del Poder Ejecutivo a través de un acto jurídico administrativo, a una persona física o moral para que en nombre del Estado explote y opere el servicio de transporte público en cualquiera de sus modalidades;
 
-###### Artículo 5.
+II.- Direcciones Generales:
 
-Las Direcciones Distritales, bajo la coordinación del Secretario Ejecutivo, realizarán recorridos de verificación en el ámbito territorial que les corresponda, a efecto de supervisar y constatar que el retiro de propaganda de los procesos de selección interna fijada por los Partidos Políticos, se haya efectuado en términos de lo dispuesto en el segundo párrafo del artículo 241 del Código.
+Dirección General de Transportes: La Dirección General de Transportes del Estado.
 
-###### Artículo 6.
+Dirección General de Control Vehicular: La Dirección General de Control Vehicular del Estado.
 
-Para la realización de los recorridos deberá acudir, sin excepción, el Secretario del Consejo Distrital, junto con el personal de la Dirección Distrital que sea necesario para llevar a cabo los recorridos.
+III.- Gafete: Autorización que concede el titular del Poder Ejecutivo a través de la Dirección General de Transportes a personas físicas para conducir y operar vehículos destinados a los servicios de transporte público;
 
-###### Artículo 7.
+IV.- Horario: Documento autorizado por la Dirección General de Transportes, que tiene como objeto regular las frecuencias en la operación del servicio de transporte público;
 
-Los recorridos referidos en el artículo anterior deberán comenzar el cuarto día previo al inicio del registro de candidatos y deberán finalizar el día previo al inicio de dicho registro; para ello, los Presidentes de los Consejos Distritales invitarán previamente y por escrito a los representantes de los Partidos Políticos acreditados ante el Consejo Distrital respectivo, para que acudan a dichos recorridos.
+V.- Ley: Ley de Transporte del Estado de Morelos;
 
-De cada uno de los recorridos, el Secretario del Consejo Distrital levantará un acta circunstanciada en la cual se dará fe de la fecha, el lugar y la hora en que se realiza el recorrido, así como de los hechos materia de supervisión; haciendo constar las circunstancias de modo, tiempo y lugar. Asimismo, se asentará de manera detallada la descripción, en su caso, de la propaganda detectada, sus características, rasgos distintivos, domicilio del lugar donde se ubicó, el día y la hora en que ésta fue observada. Dichas actas deberán ser firmadas por el Secretario del Consejo Distrital, pudiendo contar adicionalmente con la firma de los integrantes de la Dirección Distrital que hayan acudido a los recorridos y de los representantes de los Partidos Políticos que hayan estado presentes en dichos recorridos. De igual forma, se anexarán a las actas de mérito las fotografías, videos y/o testimonios que se estimen convenientes.
+VI.- Operativo: Acto administrativo por el que la Dirección General de Transportes, ejerce las facultades para supervisar y verificar el cumplimiento a lo dispuesto por la presente Ley y su Reglamento;
 
-Las Direcciones Distritales podrán hacer uso de cámaras fotográficas, de video o cualquier instrumento capaz de captar imágenes para la mejor realización de las diligencias a que se refiere este artículo.
+VII.- Permiso: Autorización que otorga la Dirección General de Transportes para operar servicios de transporte como son de carga, turismo, estudiantil, de personal y de arrastre, así como los servicios auxiliares del servicio de transporte público.
 
-###### Artículo 8.
+VIII.- Permiso Particular: Autorización que otorga la Dirección General de Control Vehicular a particulares para operar servicios de transporte particular de carga;
 
-En el caso de que se haya corroborado que la propaganda utilizada en los procesos de selección interna de candidatos no haya sido retirada, los Presidentes de los Consejos Distritales solicitarán por escrito al Titular del Órgano Político-Administrativo que corresponda para que proceda a retirar la propaganda electoral que se encuentre colocada, adherida, fijada o pintada.
+IX.- Reglamento: Reglamento de Transporte del Estado de Morelos;
 
-En la solicitud que envíen los Presidentes de los Consejos Distritales a los Titulares de los Órganos Político-Administrativos, deberán requerir que se desglose el costo total de los trabajos de retiro de propaganda por Partido Político, para lo cual se solicitará, sin excepción, el documento que acredite dicho costo total. En este sentido, quedarán comprendidos, de manera enunciativa más no limitativa, dentro del costo total, los gastos de mano de obra, transportación y combustible utilizados en las tareas de retiro de propaganda. Asimismo, se pedirá al Órgano Político-Administrativo que informe una vez que haya finalizado los trabajos de retiro de propaganda.
+X.- Secretaría: La Secretaría de Gobierno del Estado;
+
+XI.- Servicios Auxiliares: Son los elementos y bienes necesarios que coadyuvan al mejor funcionamiento de la prestación de los servicios de transporte;
+
+XII.- Servicio de Transporte Público: Es aquel que se lleva a cabo de manera continua, uniforme, regular y permanente en las vías públicas de comunicación terrestre del Estado y sus Municipios, para satisfacer la demanda de los usuarios, mediante la utilización de vehículos adecuados para cada tipo de servicio y en el que los usuarios como contraprestación realizan el pago de una tarifa previamente autorizada, siendo concesionado o permisionado por el titular del Poder del Ejecutivo;
+
+XIII.- Tarjetón: Es el documento de validación para prestar el servicio de transporte público;
+
+XIV.- Servicio de Transporte Privado: Es aquel que sin tener las características propias del servicio público, realizan las personas físicas o morales para satisfacer una necesidad específica de determinado sector de la población, relacionadas directamente con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente, pero que implican un fin lucrativo o de carácter comercial que desarrollan sus propietarios o poseedores, como parte de sus actividades comerciales; y
+
+XV.- Vía pública: Calles, avenidas, pasajes, carreteras pavimentadas o revestidas, brechas o caminos vecinales, y en general todo terreno de dominio público y de uso común que por disposiciones legales o de la autoridad estén destinados al tránsito de personas y vehículos, que no sean de jurisdicción federal.
+
+###### ARTÍCULO 6.
+
+La Dirección General de Transportes brindará información, orientación y asesoría a los usuarios, en relación con el servicio de transporte público, así como sobre sus derechos y obligaciones.
+
+###### ARTÍCULO 7.
+
+Para conducir vehículos destinados a los servicios de transporte en vías públicas de jurisdicción estatal se requiere disponer de licencia de chofer expedida por la Dirección General de Control Vehicular. Para lo cual se requerirá contar con el Gafete de Operador que expedirá la Dirección General de Transportes.
+
+###### ARTÍCULO 8.
+
+Los propietarios y conductores de vehículos particulares, no podrán prestar servicio a terceros a título oneroso.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES, SUS ATRIBUCIONES Y DEL PROGRAMA ESTATAL DE TRANSPORTE
 
-### CAPÍTULO II. DEL RETIRO DE PROPAGANDA DE LOS PROCESOS DE SELECCIÓN INTERNA DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR
+### CAPÍTULO PRIMERO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
-###### Artículo 9.
+###### ARTÍCULO 9.
 
-Una vez que el Órgano Político-Administrativo haya notificado a la Dirección Distrital el retiro de la propaganda, habiendo comunicado el costo total de dichos trabajos, la Dirección Distrital verificará que la propaganda electoral detectada en los recorridos, efectivamente haya sido retirada, para lo cual, realizará recorridos de inspección dentro de las veinticuatro horas siguientes a la recepción del informe respectivo de los Órganos Político-Administrativos, atendiendo a los requisitos y formalidades que para los mismos se prevén en los artículos 6 y 7, segundo párrafo del presente Reglamento.
+Son autoridades en materia de transporte:
 
-###### Artículo 10.
+l.- El titular del Poder Ejecutivo: Gobernador del Estado de Morelos.
 
-Los Presidentes de los Consejos Distritales deberán rendir un informe al Secretario Ejecutivo de los resultados de los recorridos realizados, una vez que hayan concluido los mismos, o en su caso, de las acciones descritas en los artículos 8 y 9 del presente Reglamento. A dicho informe deberán anexar el original de las actas circunstanciadas levantadas con motivo de los recorridos, así como todas las documentales recabadas y, de ser el caso, el documento original que acredite el costo total de las tareas de retiro de propaganda, desglosado por partido político.
+II.- El. Secretario de Gobierno, del Estado de Morelos; y
 
-###### Artículo 11.
+III.- El Director General de Transportes: Director General de Transportes del Gobierno del Estado de Morelos.
 
-El Secretario Ejecutivo informará al Consejo General de las acciones realizadas por las Direcciones Distritales en cumplimiento a lo dispuesto por este capítulo y, en su caso, someterá a consideración del Consejo General la propuesta de aplicación del costo total de los trabajos de retiro de propaganda con cargo a las prerrogativas de financiamiento público de los Partidos Políticos que no hubieran realizado el retiro correspondiente.
+Como órganos Auxiliares:
 
-El Consejo General ordenará el inicio del procedimiento sancionatorio que corresponda, al Partido Político que incurra en las hipótesis previstas en el artículo 173, fracciones I, VII, VIII y IX del Código.
+I.- La Dirección General de Control Vehicular: Director General de Control Vehicular del Gobierno del Estado de Morelos; y
 
-###### Artículo 12.
+Il.- Los Ayuntamientos.
 
-De conformidad con lo dispuesto por los artículos 26, fracción XIII, y 241, segundo párrafo del Código, la aplicación del costo total de los trabajos de retiro de propaganda con cargo a la prerrogativa de financiamiento público de los Partidos Políticos que incumplan con su obligación de retirar la propaganda relativa a sus procesos internos de selección de candidatos, es independiente a las sanciones previstas en el Código que pudiesen resultar del incumplimiento a las normas y disposiciones que en materia de propaganda electoral establezca dicho ordenamiento legal, así como las disposiciones administrativas y de protección al medio ambiente, para la elaboración, colocación y retiro de propaganda electoral durante el transcurso y conclusión de los procesos de selección interna de candidatos y campañas electorales.
+###### ARTÍCULO 10.
 
-###### Artículo 13.
+Son facultades del titular del Poder Ejecutivo:
 
-La propaganda electoral deberá ser retirada por los Partidos Políticos o Coaliciones en un lapso menor a quince días posteriores a la jornada electoral.
+l.- Reglamentar, dirigir y vigilar todo lo relativo al Transporte en las vías públicas del Estado;
 
-###### Artículo 14.
+II.- Definir la política y los programas en materia de transporte, tomando en cuenta la propuesta de los Ayuntamientos en lo que corresponda al ámbito territorial de los municipios respectivos;
 
-Dentro de las veinticuatro horas siguientes a que venza el plazo a que se refiere el párrafo primero del artículo 258 del Código Electoral del Distrito Federal, las Direcciones Distritales, bajo la coordinación del Secretario Ejecutivo, realizarán recorridos en el ámbito territorial que les corresponda para supervisar y constatar que el retiro de propaganda de las campañas electorales, fijada por los Partidos Políticos y/o Coaliciones, se haya efectuado en términos de lo señalado en el precepto referido.
+III.- Administrar y prestar originariamente el servicio de transporte público local, y, en su caso, concesionarlo;
 
-###### Artículo 15.
+IV.- Otorgar, revocar, suspender o declarar la nulidad de las concesiones o permisos, para la prestación del servicio de transporte público, en cualquiera de sus modalidades, desahogando el procedimiento respectivo a través de la Dirección General de Transportes;
 
-Para la realización de los recorridos deberá acudir, sin excepción, el Secretario del Consejo Distrital, junto con el personal de la Dirección Distrital que sea necesario para llevar a cabo los recorridos.
+V.- Establecer las bases generales de regulación tarifaria;
 
-###### Artículo 16.
+VI.- Celebrar convenios de coordinación con la Federación, las Entidades Federativas y los Municipios, así como con los sectores social y privado, para la mejor prestación de los servicios de transporte público y privado en el Estado y sus servicios auxiliares;
 
-Los recorridos referidos en el artículo que antecede deberán llevarse a cabo el día siguiente de haberse vencido el plazo de quince días posteriores a la jornada electoral. Para ello, los Presidentes de los Consejos Distritales invitarán con la anticipación suficiente, por escrito, a los representantes de los Partidos Políticos o Coaliciones acreditados ante el Consejo Distrital respectivo, para que acudan a dichos recorridos.
+VII.- Emitir en forma directa o a través del Secretario de Gobierno, el Programa Estatal de Desarrollo del Transporte;
 
-De cada uno de los recorridos, el Secretario del Consejo Distrital levantará un acta circunstanciada en la cual se dará fe de la fecha, el lugar y la hora en que se realiza el recorrido, así como los hechos materia de supervisión; haciendo constar las circunstancias de modo, tiempo y lugar. Asimismo, se asentará de manera detallada la descripción, en su caso, de la propaganda detectada, sus características, rasgos distintivos, domicilio del lugar donde se ubicó, el día y la hora en que ésta fue observada. Dichas actas deberán ser firmadas por el Secretario del Consejo Distrital, pudiendo contar adicionalmente con la firma de los integrantes de la Dirección Distrital que hayan acudido a los recorridos y de los representantes de los Partidos Políticos o Coaliciones que hayan estado presentes en dichos recorridos. De igual forma, se anexarán a las actas de mérito las fotografías, videos y/o testimonios que se estimen convenientes.
+VIII.- Otorgar las autorizaciones temporales de prestación del servicio de transporte público, cuando éstos sean necesarios por causa emergente, exclusivamente durante el tiempo que dure la misma y tengan como único fin garantizar el servicio a la ciudadanía;
 
-Las Direcciones Distritales podrán hacer uso de cámaras fotográficas, de video o cualquier instrumento capaz de captar imágenes para la mejor realización de las diligencias de mérito.
+IX.- Decretar la expropiación de dominio, servidumbre u ocupación temporal de los bienes que se requieran para la prestación del servicio de transporte público;
 
-### CAPÍTULO III. DEL RETIRO DE PROPAGANDA DE LAS CAMPAÑAS ELECTORALES
+X.- Autorizar en los municipios que considere necesario las condiciones para una conurbación, previo estudio que lleve a cabo la Dirección General de Transportes, otorgando el libre ascenso en la prestación del servicio de transporte público sin itinerario fijo. Esto en atención al crecimiento de la población así como a la necesidad de la ciudadanía de contar con un servicio de transporte público sin itinerario fijo;
 
-###### Artículo 17.
+XI.- Expedir la declaratoria de necesidades de nuevos servicios con base en los estudios que realice la Dirección General de Transportes;
 
-Dentro de las veinticuatro horas siguientes a la realización de los recorridos, los Presidentes de los Consejos Distritales deberán rendir un informe a la Comisión de Asociaciones Políticas de los resultados de los mismos. A dicho informe deberán anexar el original de las actas circunstanciadas levantadas con motivo de dichos recorridos, así como todas las documentales recabadas.
+XII.- Convocar a concurso público para el otorgamiento de concesiones para la prestación del servicio de transporte público, en cualquiera de sus modalidades, así como los servicios auxiliares del mismo, que correspondan;
 
-###### Artículo 18.
+XIII.- Aplicar las sanciones por los actos u omisiones en que incurran los conductores, propietarios, permisionarios o empresas de transporte, en violación a las disposiciones de esta Ley y de su Reglamento, y
 
-Una vez que la Comisión tenga conocimiento de que algún Partido Político o Coalición ha incumplido con su obligación de retirar la propaganda utilizada en las campañas electorales requerirá, dentro de las veinticuatro horas siguientes a la recepción de las actas de los recorridos y demás constancias sobre la celebración de los mismos, al Partido Político o Coalición infractor, a través de su representante ante el Consejo General, para que dentro del término de seis días naturales, lleve a cabo el retiro de su propaganda o alegue lo que a su derecho corresponda.
+XIV.- Las demás que establezcan el Reglamento y otras disposiciones legales aplicables.
 
-###### Artículo 19.
+###### ARTÍCULO 11.
 
-Una vez transcurrido el plazo referido en el artículo anterior, la Comisión ordenará a la Dirección Distrital que corresponda, a través del Secretario Ejecutivo, llevar a cabo una inspección ocular, dentro de las veinticuatro horas siguientes, e informe si el Partido Político o Coalición infractor ha retirado la propaganda utilizada en las campañas electorales. A dicha inspección acudirá, sin excepción, el Secretario del Consejo Distrital correspondiente.
+El titular de la Secretaría de Gobierno, además de las facultades que establece la Ley Orgánica de la Administración Pública del Estado, tendrá las siguientes:
+
+I.- Cumplir y hacer cumplir los acuerdos y disposiciones que, de conformidad con la presente Ley, dicte el titular del Poder Ejecutivo en materia de transporte;
+
+II.- Revisar y en su caso emitir el Programa Estatal de Desarrollo del Transporte que elabore la Dirección General de Transportes para su emisión, previo acuerdo con el titular del Poder Ejecutivo;
+
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+III.- AUTORIZAR Y REVISAR, PREVIO ACUERDO CON EL TITULAR DEL PODER EJECUTIVO, LAS TARIFAS, HORARIOS, ITINERARIOS, TABLAS DE DISTANCIA, TERMINALES, PARADEROS Y TODO AQUELLO RELACIONADO CON LA OPERACIÓN EFICIENTE DEL SERVICIO DE TRANSPORTE PÚBLICO EN LAS VIALIDADES DE JURISDICCIÓN ESTATAL;
+
+IV.- Presentar las denuncias y querellas ante la Procuraduría General de Justicia del Estado, en los casos que corresponda;
+
+V.- Organizar los servicios emergentes de transporte público, cuando las circunstancias lo ameriten;
+
+VI.- Autorizar a través de la Dirección General de Transportes los medios nuevos de transporte en las localidades que se requieran especificando las modalidades y condiciones de su operación hasta cuando sean legalmente concesionados o en su caso autorizados;
+
+VII.- Autorizar los convenios que los concesionarios celebren entre sí y, en su caso, con los auto transportistas federales, fijando las bases para la coordinación, combinación y enlace de los servicios de transporte, siempre y cuando los convenios conlleven al mejoramiento sustancial de dichos servicios;
+
+VIII.- El monto y tabulador de las sanciones será conforme a lo estipulado en el Reglamento de Transporte del Estado de Morelos;
+
+IX.- Imponer las sanciones que procedan de conformidad con la presente Ley y su Reglamento, y
+
+X.- Las demás que le encomiende el titular del Poder Ejecutivo, así como las establecidas por las disposiciones jurídicas y administrativas aplicables.
+
+###### ARTÍCULO 12.
+
+Son atribuciones del Director General de Transportes:
+
+I.- Aplicar las políticas y programas que emita el titular del Poder Ejecutivo o el Secretario de Gobierno en materia de transporte;
+
+II.- Realizar la revista mecánica de los vehículos del servicio de transporte público;
+
+III.- Integrar el Registro Estatal Público de Concesionarios y Permisionarios del servicio de transporte público y asimismo el padrón de operadores;
+
+IV.- Vigilar e inspeccionar que el servicio de transporte público y privado se preste en los términos y condiciones señalados en la legislación vigente, en las concesiones y permisos respectivos;
+
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+V.- SOMETER A LA APROBACIÓN DEL SECRETARIO DE GOBIERNO LOS HORARIOS, CONVENIOS Y ENROLAMIENTOS QUE LOS CONCESIONARIOS Y PERMISIONARIOS CELEBREN ENTRE SÍ Y, EN SU CASO, CON LOS AUTO TRANSPORTISTAS FEDERALES, RESPECTO DE LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO A SU CARGO;
+
+VI.- Elaborar el Programa Estatal de Desarrollo del Transporte y someterlo a la consideración del Secretario de Gobierno para la aprobación correspondiente;
+
+VII.- Registrar a las sociedades mercantiles para la prestación de los servicios de transporte público, que cumplan con los requisitos establecidos en la presente Ley;
+
+VIII.- Imponer las sanciones correspondientes por violación a las disposiciones de la presente Ley y su Reglamento;
+
+IX.- Elaborar los estudios técnicos, socioeconómicos y administrativos, que en materia de transporte se encomienden;
+
+X.- Establecer y desarrollar los programas de capacitación a concesionarios, permisionarios y operadores del servicio de transporte público;
+
+XI.- Representar a la Dirección General de Transportes por sí o por quien designe, ante las autoridades de las administraciones públicas Federal, Estatal, Municipal y órganos Jurisdiccionales, en asuntos de su competencia;
+
+XII.-Realizar los procedimientos de nulidad y revocación de las concesiones, así como su ejecución conforme a los lineamientos establecidos en la presente Ley y su Reglamento;
+
+XIII.- Verificar que los operadores de los servicios de transporte público, se sometan a la valoración indispensable que acredite su aptitud psicofísica para el buen desempeño de las funciones propias de su labor;
+
+XIV.- Custodiar y controlar los archivos que se integren con la documentación solicitada a los concesionarios, permisionarios, sociedades mercantiles y operadores para su registro;
+
+XV.- Implementar y mantener actualizado el Registro y/o sistema integral de trámites administrativos;
+
+XVI.- Brindar información, orientación y asesoría a los usuarios, en relación con el servicio de transporte público, así como sobre sus derechos y obligaciones;
+
+XVII.- Celebrar los convenios y/o actos jurídicos necesarios para la mejor prestación del servicio de transporte público, previa autorización del Secretario de Gobierno;
+
+XVIII.- Expedir Gafetes de Identificación del personal adscrito a la Dirección General de Transportes y Operadores debidamente acreditados del Servicio de Transporte Público;
+
+XIX.- Autorizar las cesiones de derechos entre particulares previo acuerdo con el Secretario de Gobierno;
+
+XX.- Registrar los vehículos de servicio de transporte público y privado, expedir las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones y permisos de servicio de transporte público y privado;
+
+XXI.- Resguardar de los documentos y placas depositadas con motivo de las infracciones y sanciones al servicio de transporte público y privado; y
+
+XXII.- Las demás que le asigne esta Ley, su Reglamento, el titular del Poder Ejecutivo y el Secretario de Gobierno.
+
+###### ARTÍCULO 13.
+
+Son atribuciones del Director General de Control Vehicular:
+
+I. Expedir las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones y permisos del servicio particular;
+
+lI. Expedir, suspender y cancelar licencias y permisos de conducir de uso particular;
+
+III. Controlar y resguardar las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, permisos y licencias de conducir de uso particular;
+
+IV. Recibir placas metálicas y tarjetas de circulación de los vehículos particulares para efectos de reposición; y
+
+V. Expedir y autorizar permisos de carga para uso exclusivo de vehículos particulares.
+
+###### ARTÍCULO 14.
+
+Son atribuciones de los Ayuntamientos:
+
+I.- Emitir opinión para la formulación de los programas en materia de transporte cuando afecte su ámbito territorial;
+
+II.- Celebrar convenios de coordinación con el Estado, para la mejor prestación de los servicios de transporte público en el ámbito del territorio de su Municipio;
+
+III.- Estudiar y discutir los problemas del transporte público en el ámbito de su jurisdicción territorial, emitiendo al efecto las recomendaciones en materia de planeación para su mejoramiento;
+
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ POR VÍA DE EXTENSIÓN LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+IV.- COMO ÓRGANO AUXILIAR EMITIR OPINIÓN RESPECTO A LA MODIFICACIÓN DE ITINERARIOS, ESTABLECIMIENTO DE PARADAS, SITIOS Y BASES;
+
+V.- Coadyuvar a la formulación de programas, convenios y planeación para el mejor funcionamiento del transporte público en su municipio, y
+
+VI.- Las demás que les señalen la presente Ley y su Reglamento.
+
+###### ARTÍCULO 15.
+
+Para el cumplimiento de sus atribuciones, la Dirección General de Transportes, contará con Delegaciones Regionales cuyo ámbito de competencia se establecerá en el Reglamento.
+
+Los titulares de las Delegaciones, serán nombrados por el Director General de Transportes, previo acuerdo con el Secretario de Gobierno.
+
+###### ARTÍCULO 16.
+
+Los Delegados Regionales tendrán las siguientes atribuciones:
+
+l.- Vigilar que en la prestación de los servicios de transporte público y privado, se cumplan las disposiciones de esta Ley y su Reglamento, así corno los acuerdos del Director General de Transportes, en el ámbito de su competencia;
+
+II.- Informar periódicamente al Director General de Transportes, sobre el cumplimiento de objetivos y metas, así como de las actividades e incidencias ocurridas en su jurisdicción;
+
+III.- Mantener actualizado el registro y/o sistema integral de trámites administrativos;
+
+lV.- Realizar los estudios técnicos necesarios que le solicite el Director General de Transportes; y
+
+V.- Las asignadas por el Director General de Transportes y las disposiciones legales aplicables.
+
+### CAPÍTULO SEGUNDO. DEL PROGRAMA ESTATAL DE DESARROLLO DEL TRANSPORTE
+
+###### ARTÍCULO 17.
+
+El Secretario de Gobierno someterá a la aprobación del. titular del Poder Ejecutivo, dentro de los primeros cuatro meses de iniciado el sexenio bajo su mandato, el Programa Estatal de Desarrollo del Transporte, mismo que será evaluado cada tres años y en el cual se especificarán los siguientes elementos:
+
+I. Objetivos;
+
+II. Metas;
+
+III. Estrategias;
+
+IV. Líneas de acción en la materia;
+
+V. Los sistemas integrales de rutas del servicio de transporte público en el Estado; y
+
+VI. Todos las demás que señale la presente Ley.
+
+###### ARTÍCULO 18.
+
+Para los fines del artículo anterior, el Director General de Transportes, tomará en cuenta los recursos humanos, materiales, técnicos y financieros con que cuente la dependencia.
+
+###### ARTÍCULO 19.
+
+Los Ayuntamientos, podrán emitir opinión al Programa Estatal de Desarrollo del Transporte, en lo que respecta al ámbito territorial de su competencia, llevándose a cabo en el inicio del sexenio o en su revisión.
 
 ## TÍTULO TERCERO. DEL CONSEJO CONSULTIVO DE TRANSPORTE
 
-### CAPÍTULO IV. DEL ENVÍO DE LA PROPAGANDA RETIRADA EN LA VÍA PÚBLICA A LOS CENTROS DE RECICLAJE
+### CAPÍTULO ÚNICO
 
-###### Artículo 20.
+###### ARTÍCULO 20.
 
-Para la realización de lo previsto en el artículo que antecede, el Presidente del Consejo Distrital que corresponda invitará por escrito al representante del Partido Político o Coalición presuntamente responsable, acreditado ante el Consejo Distrital respectivo. El Secretario del Consejo Distrital levantará un acta circunstanciada en la cual se dará fe de la fecha, el lugar y la hora en que se realiza la inspección ocular, así como de los hechos materia de supervisión; haciendo constar las circunstancias de modo, tiempo y lugar. Asimismo, se asentará de manera detallada la descripción, en su caso, de la propaganda detectada, sus características, rasgos distintivos, domicilio del lugar donde se ubicó, el día y la hora en que ésta fue observada. Dicha acta deberá ser firmada por el Secretario del Consejo Distrital, pudiendo contar adicionalmente con la firma de los integrantes de la Dirección Distrital y el representante del Partido Político o Coalición que hayan acudido a la verificación. De igual forma, se anexarán al acta de mérito las fotografías, videos y/o testimonios que se estimen convenientes.
+El Consejo Consultivo del Transporte es un órgano auxiliar de opinión, de consulta y concertación, teniendo a su cargo, estudiar y analizar la problemática en materia de transporte en todas sus modalidades, así como emitir las recomendaciones que para su mejoramiento estime procedentes, donde participaran los sectores público, privado y social.
 
-###### Artículo 21.
+###### ARTÍCULO 21.
 
-Una vez que la Comisión de Asociaciones Políticas verifique que un Partido Político o Coalición no retiró la mencionada propaganda o no justificó debidamente su alegato, en caso de que existiera éste, dicha instancia dará cuenta a la Presidencia del Consejo General, a efecto de que ésta, a su vez, instruya al Secretario Ejecutivo, para que proceda a dar vista al Ministerio Público de la adscripción para que actué de conformidad a su representación social; en atención a lo dispuesto por el artículo 258, segundo párrafo del Código.
+El Consejo Consultivo del Transporte, estará integrado por:
 
-###### Artículo 22.
+I. El Titular del Poder Ejecutivo.
 
-De manera adicional a las acciones descritas en el artículo que antecede, la Comisión informará al Consejo General sobre el cumplimiento de los Partidos Políticos o Coaliciones respecto de la obligación prevista en el primer párrafo del artículo 258 del Código y, en su caso, propondrá el inicio del procedimiento sancionatorio que corresponda al Partido Político o Coalición que incurra en las hipótesis previstas en el artículo 173, fracciones I, VIII y IX del Código, debiendo el Consejo General adoptar la determinación conducente.
+II. El Secretario de Gobierno.
 
-###### Artículo 23.
+III. El Secretario de Planeación y Finanzas.
 
-De conformidad con lo dispuesto por el artículo 26, fracción XIII del Código, las responsabilidades que resulten de la aplicación, en su caso, del procedimiento sancionatorio mencionado en el artículo anterior, son independientes a las sanciones previstas en el Código que pudiesen resultar del incumplimiento a las disposiciones administrativas y de protección al medio ambiente, para la elaboración, colocación y retiro de propaganda electoral durante el transcurso y conclusión de los procesos de selección interna de candidatos y campañas electorales.
+IV. El Secretario de Desarrollo Urbano y Obras Públicas.
 
-###### Artículo 24.
+V. El Secretario de Desarrollo Económico.
 
-La propaganda retirada de la vía pública deberá ser enviada por los Partidos Políticos o Coaliciones a centros de reciclaje, acreditando mediante las constancias que éstos emiten, la entrega de dichos materiales.
+VI. El Procurador General de Justicia.
+
+VII. El Director General de Transportes.
+
+VIII. El Director General de Protección Civil.
+
+IX. Los Delegados Regionales de la Dirección General de Transportes.
+
+X. El Presidente de la Comisión de Tránsito, Transporte y Vías de Comunicación del Congreso del Estado.
+
+XI. El Delegado del Centro de la Secretaría de Comunicaciones y Transportes Morelos.
+
+XII. Un Representante de cada una de las Cámaras, cuyos estatutos estén ligados con la actividad económica que regula esta Ley.
+
+XIII. Un representante de los concesionarios y permisionarios estatales por modalidad de transporte de cada Delegación, que tenga la Dirección General de Transportes; y
+
+XIV. A invitación expresa de la Secretaría de Gobierno, la autoridad municipal correspondiente.
+
+El titular del Poder Ejecutivo presidirá el Consejo y tendrá voto de calidad; el Secretario de Gobierno fungirá como Secretario Ejecutivo y el Director General de Transportes, como Secretario Técnico del Consejo Consultivo del Transporte.
+
+Los funcionarios a que se refieren las fracciones I, II, III, IV, VII, IX y XIII, tendrán voz y voto en las sesiones del Consejo, los demás integrantes sólo voz.
+
+Los integrantes del Consejo a que se refiere la fracción XIII ejercerán su representación por un lapso no mayor a dos años.
+
+###### ARTÍCULO 22.
+
+El Consejo Consultivo del Transporte, tendrá las funciones siguientes:
+
+I.- Coadyuvar al mejoramiento de la función pública en materia de servicio de transporte público, procurando una adecuada satisfacción de las necesidades de los usuarios.
+
+II.- Opinar con respecto a las medidas administrativas y de servicio adoptadas, relacionadas con el transporte.
+
+III.- Emitir opinión respecto a los estudios técnicos que elabore la Dirección General de Transportes, respecto a:
+
+a) Otorgamiento de nuevas concesiones, permisos o modificación de las condiciones de la declaratoria de necesidades;
+
+b) Cambio de modalidad en la operación y explotación del servicio;
+
+c) Modificación de itinerarios y horarios;
+
+d) Reglas de aplicación de las tarifas de los servicios de transporte; y
+
+e) Proyecto de Programa de Transporte.
+
+IV.- Recomendar acciones específicas para mejorar las condiciones de seguridad y prevenir la comisión de actos punibles.
+
+###### ARTÍCULO 23.
+
+Las Sesiones del Consejo serán Ordinarias y Extraordinarias:
+
+I.- Las Sesiones Ordinarias se celebrarán por lo menos cuatro veces al año, las Extraordinarias se realizarán cuando sea necesario, a petición del titular del Poder Ejecutivo, del Secretario de Gobierno o de por lo menos la mitad de los integrantes del Consejo.
+
+De las sesiones ordinarias que lleve a cabo el Consejo, deberá dedicar por lo menos dos de ellas, a tratar asuntos relacionados exclusivamente con el servicio de transporte de carga.
+
+Il.- Presidirá las Sesiones, el titular del Poder Ejecutivo o la persona por él designada.
+
+III.- Las sesiones del Consejo serán válidas con la asistencia de la mitad más uno de sus integrantes, a primera convocatoria; en caso de no reunirse la mayoría, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los Consejeros que asistan, entre los que deberá figurar el titular del Poder Ejecutivo o la persona que él designe.
+
+Las convocatorias a sesiones ordinarias del Consejo, las expedirá el titular del Poder Ejecutivo a través del Secretario de Gobierno, por escrito para los integrantes del Consejo, con cinco días hábiles de anticipación a la fecha de celebración, debiendo incluir el orden del día a que habrá de sujetarse la sesión y deberá publicarse con la misma anticipación por internet, en la pagina oficial del Gobierno del Estado.
+
+A las sesiones extraordinarias se convocará con cuarenta y ocho horas de anticipación.
+
+IV.- Las sesiones del Consejo se llevarán a cabo en el lugar que precise la convocatoria.
+
+###### ARTÍCULO 24.
+
+Para la integración del Consejo, cada dos años, el titular del Poder Ejecutivo convocará a los concesionarios que refiere la fracción XIII del artículo 21 de esta Ley, para que designen representante ante el Consejo. La convocatoria se publicará en el Periódico Oficial "Tierra y Libertad" y en un diario de los de mayor circulación en el Estado.
+
+La resolución de designación de representante tendrá carácter de definitiva, contra la que no procederá recurso alguno.
 
 ## TÍTULO CUARTO. DE LOS SERVICIOS DE TRANSPORTE
 
-### CAPÍTULO V. DEL RETIRO DE PROPAGANDA ELECTORAL EN CASO DE VIOLACIÓN A LAS REGLAS Y LA FIJACIÓN DE LA MISMA
+### CAPÍTULO PRIMERO. DE LOS SERVICIOS DE TRANSPORTE PÚBLICO
 
-###### Artículo 25.
+###### ARTÍCULO 25.
 
-El Instituto, a través del Secretario Ejecutivo, solicitará al Gobierno Federal y al Gobierno del Distrito Federal el padrón de los establecimientos mercantiles, industriales y de servicios que se dediquen a la reutilización o reciclaje de los residuos sólidos, y que cumplan con todas las disposiciones en la materia para el caso del Distrito Federal, con la finalidad de informar de los mismos a los Partidos Políticos y llevar a cabo de manera eficaz y eficiente la verificación del cumplimiento que tienen los Partidos Políticos o Coaliciones de enviar a los referidos centros de reciclaje la propaganda retirada de la vía pública. En su caso, el padrón referido constituirá solamente una recomendación para los Partidos Políticos.
+El servicio de transporte público es aquel que se lleva a cabo de manera continua, uniforme, regular y permanente en las vías públicas de comunicación terrestre del Estado y sus Municipios, para satisfacer la demanda de los usuarios, mediante la utilización de vehículos adecuados para cada tipo de servicio y en el que los usuarios como contraprestación realizan el pago de una tarifa previamente autorizada.
 
-###### Artículo 26.
+###### ARTÍCULO 26.
 
-El Secretario Ejecutivo solicitará a los Partidos Políticos o Coaliciones, a través de sus representantes acreditados ante el Consejo General, para que informen acerca del cumplimiento a la disposición referida en el artículo 24 de este Reglamento, dentro de los tres días posteriores al vencimiento del plazo al que se refiere el primer párrafo del artículo 258 del Código.
+El servicio de transporte público de pasajeros, es el que se presta en una o varias rutas, en caminos y vialidades de jurisdicción del Estado, en las condiciones y con los vehículos que se determinen en esta Ley y en su Reglamento y puede ser prestado bajo las siguientes modalidades:
 
-###### Artículo 27.
+I.- Con itinerario fijo.- Es el que se presta en una o varias rutas, con paradas intermedias, tarifa y horarios fijos.
 
-El Secretario Ejecutivo informará al Consejo General, sobre el cumplimiento, por parte de los Partidos Políticos y Coaliciones a lo previsto en el artículo 24 de este Reglamento, respecto al envío de la propaganda retirada de la vía pública a centros de reciclaje.
+El horario a que se sujetará el servicio, previa autorización por la Dirección General de Transportes, deberá contener como mínimo, nombre del concesionario, itinerario, horas de inicio y término del servicio, distancias, ubicación de los servicios auxiliares y firma del concesionario.
 
-Una vez que el Consejo General cuente con la información aludida, de considerarlo procedente ordenará, en su caso, el inicio del procedimiento sancionatorio que corresponda, al Partido Político o Coalición que incurra en las hipótesis previstas en el artículo 173, fracciones I, VIII y IX del Código, sin menoscabo de otras acciones que se emprendan en contra de los Partidos Políticos infractores, por el incumplimiento de obligaciones diversas a las señaladas en este numeral.
+Il.- Sin itinerario fijo.- Es el que se presta sin sujeción a ruta, circunscrito a un ámbito territorial, con tarifas autorizadas, en las condiciones y con los vehículos que se determinen en el Reglamento.
 
-###### Artículo 28.
+III.- Urbano.- Es el destinado a las zonas y áreas, que integran un centro de población, en las condiciones y con los vehículos que se determinen en el Reglamento.
 
-De conformidad con lo dispuesto en el segundo párrafo del artículo 264 del Código, en caso de violación a las reglas para la propaganda, el Consejo General o Distrital respectivo, notificará al Partido Político o Coalición infractor, requiriendo su inmediato retiro, que no podrá exceder de 24 horas; en caso de incumplimiento se notificará al Órgano Político-Administrativo para que proceda al retiro de la propaganda, y la sanción que se determine al Partido Político o Coalición responsable deberá considerar el daño económico ocasionado.
+IV.- Interurbano.- Es el destinado a circulación dentro de dos o más poblaciones o zonas conurbadas sujeto a rutas regulares, con paradas, terminales y horarios fijos.
 
-### CAPÍTULO VI. PREVENCIONES GENERALES
+VI (SIC).- Mixto.- El que se presta fuera de circunscripción urbana o interurbana, dentro del territorio estatal, con itinerario fijo entre una comunidad rural y otra o la vía de entronque por donde circulen servicios colectivos urbanos, interurbanos o foráneos; debiendo prestarse en vehículos adaptados con compartimientos específicos para el transporte de pasaje y de carga, de conformidad con las condiciones y vehículos que se determinen en el Reglamento.
 
-###### Artículo 29.
+###### ARTÍCULO 27.
 
-Los escritos relativos a la violación a las reglas para la propaganda, podrán ser presentados ante el Consejo General, a través del Secretario Ejecutivo, o ante el Consejo Distrital respectivo, a través del Presidente del Consejo Distrital correspondiente.
+El servicio de transporte público de carga en general, es el que se presta sin sujeción a ruta y en caminos de jurisdicción del Estado, para la movilización de bienes o productos no peligrosos, propiedad de terceros, mediante el pago de una tarifa autorizada, ubicados en un lugar fijo denominado base de servicio, en las condiciones y con los vehículos que se determinen en el Reglamento.
+
+###### ARTÍCULO 28.
+
+El servicio de transporte público de carga especializada, es el que se presta sin sujeción a ruta y en caminos de jurisdicción del Estado, para la movilización de bienes propiedad de terceros, que por sus características físicas y químicas, requieren de un manejo especial o implica riesgo su traslado, mediante el pago de una tarifa autorizada; ubicados en un lugar fijo denominado base de servicio, obligados a iniciar o concluir su servicio dentro del Municipio donde tengan establecida su base, en las condiciones y con los vehículos que se determinen en el Reglamento y se clasifica en:
+
+I.- Transporte de materiales para construcción.- Es el que se ofrece al público y que comprende el transporte de piedra, arena, grava, confitillo, cemento, tabique, ladrillo, varilla y toda clase de materiales en bruto o aquellos cuya elaboración es necesaria para la construcción, desde los lugares de producción o distribución a los depósitos o lugares donde se esté llevando a cabo una obra dentro del Estado y de ésta hacia los lugares donde se depositen los sobrantes de la misma.
+
+II.- Transporte de agua en pipas. Es el que se presta para el transporte de agua potable para consumo, humano, en vehículos que reúnan las condiciones de higiene y salubridad que determinen las autoridades del ramo correspondiente; no estará sujeto a itinerario ni horario determinado, pero sí a tarifa. El transporte de agua para fines distintos, no estará sujeto a tarifa.
+
+III.- Servicio de Grúas.- Es el que se presta en vehículos equipados con elevador y plataforma, o equipados con mecanismo de remolque, para el transporte o arrastre de cualquier vehículo, sin sujetarse a itinerario fijo, pero si a tarifa autorizada en los términos de esta Ley y su Reglamento, prohíbe establecer cobros del lugar en que se encuentra la grúa, al lugar en que inicie el servicio. Formará parte de la concesión de este servicio el salvamento y rescate.
+
+Se entenderá por arrastre: La acción de trasladar un vehículo de un lugar a otro sobre sus propias ruedas o sobre plataforma de grúa, por calles, caminos y puentes de jurisdicción estatal, incluyendo las maniobras necesarias e indispensables para engancharlo de forma segura a la grúa. Tratándose de grúas tipo plataforma incluirá las maniobras de cargarlo y asegurarlo a la misma.
+
+Se entenderá por arrastre y salvamento: El conjunto de maniobras necesarias para poner sobre el camino a los vehículos accidentados, sus partes o su carga, y así efectuar la acción propia del arrastre. Para la operación de servicio de arrastre y salvamento se deberá contar con el tipo de grúa que para cada caso señale el reglamento respectivo.
+
+### CAPÍTULO SEGUNDO. DE LOS SERVICIOS DE TRANSPORTE PRIVADO
+
+###### ARTÍCULO 29.
+
+El servicio de transporte privado, es aquel que sin tener las características propias del servicio público, realizan las personas físicas o morales para satisfacer una necesidad específica de determinado sector de la población, relacionadas directamente con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente, pero que implican un fin lucrativo o de carácter comercial, que desarrollan sus propietarios o poseedores, como parte de sus actividades comerciales, los cuales estarán regulados y vigilados por parte de la Dirección General de Transportes, a través de un permiso cuya vigencia no será menor a treinta días ni mayor a un año, y se clasifican en:
+
+l.- De personal.- El que se presta a empleados de una empresa o institución para trasladarse de lugares predeterminados al centro de trabajo y viceversa, pudiendo estar o no sujetos a ruta y horario determinado, respetando las paradas previamente autorizadas; realizándose en vehículos cerrados de ocho y hasta cuarenta y cinco pasajeros; quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuente la unidad.
+
+II.- Escolar.- Es el que se presta a quienes se encuentran cursando estudios, para transportarse de sus domicilios a los centros escolares y viceversa o cuando su transportación se relacione con la actividad académica. Este transporte, podrá estar o no, sujeto a rutas y horario determinado, respetándolas (sic) paradas previamente autorizadas; se prestará en vehículos cerrados con ventanas y puertas que garanticen la seguridad de las personas que transporten; quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuente la unidad.
+
+III.- De ambulancias.- Es el que se presta para el traslado de personas que hayan sufrido afectación en su salud; en vehículos especiales con el equipamiento e insumos mínimos establecidos en la norma oficial mexicana, relativa a la prestación de servicios de atención médica en unidades móviles, emitida por el Comité Consultivo Nacional de Normatividad de Regulación y Fomento Sanitario;
+
+Para este tipo de transporte deberá procurarse adicionalmente la autorización especial otorgada por la autoridad competente.
+
+IV.- Turismo Local.- Es el que tiene por objeto el traslado de personas dentro del Estado, de origen a destino y viceversa, hacia aquellos lugares que son considerados, como turísticos por revestir un interés histórico, arqueológico, cultural o recreativo; garantizando las condiciones de seguridad, comodidad e higiene con las condiciones y vehículos que se determinen en el Reglamento; quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuente la unidad.
+
+V.- Mensajería y Paquetería.- Es el que tiene por objeto trasladar dentro de la zona autorizada, toda clase de sobres, paquetes, bultos, cajas y cualquier otro tipo de contenedor con entrega a domicilio.
+
+VI.- De traslado de valores.
+
+VII.- Giros Restringidos.- Es el que se presta en vehículos que requieren tener condiciones y equipos adecuados para aislar, conservar y proteger los bienes objeto del traslado, así como para evitar cualquier riesgo a terceros, ya que por su propia naturaleza no pueden llevarse en vehículos convencionales, por lo que requiere de unidades dotadas de equipo de refrigeración, calderas, dispositivos herméticos y otros similares, para el traslado de animales en canal, viseras, de sustancias químicas, corrosivas, gaseosas, radioactivas, líquidos flamables e inflamables, sustancias o desechos peligrosos o infectocontagiosos y en general de aquellas que necesitan condiciones especiales por ser potencialmente peligrosas. Dependiendo de las clases de bienes que deban transportarse. Para este tipo de transporte deberá procurarse adicionalmente la autorización especial otorgada, por la autoridad competente en cada caso.
+
+VIII.- Servicios Funerarios.- Son aquellos que se efectúan para el traslado de cadáveres de personas para su inhumación o incineración.
 
 ### CAPÍTULO TERCERO. DEL SERVICIO PARTICULAR DE TRANSPORTE
 
-###### Artículo 30.
+###### ARTÍCULO 30.
 
-El aviso o inconformidad deberá reunir por lo menos de manera enunciativa más no limitativa los siguientes requisitos:
+El servicio de transporte particular, es aquel que realizan las personas físicas o morales para satisfacer una necesidad específica de transporte, siempre que tengan como fin, el desarrollo de sus actividades personales o el cumplimiento de su objeto social y en tanto no impliquen un fin lucrativo o de carácter comercial.
 
-a) Formularse por escrito;
+Cuando se transporte carga que exceda tres y medía toneladas, no podrá considerarse como servicio particular.
 
-b) Señalar el nombre del promovente;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
 
-c) Indicar el domicilio del promovente para recibir y/o escuchar notificaciones y documentos;
+###### ARTÍCULO 31.
 
-d) La narración clara y sucinta de los hechos denunciados, precisando las características y/o rasgos distintivos de la propaganda y de los lugares en los que presuntamente se está incurriendo en una violación a las reglas para la propaganda y, de ser posible, los preceptos presuntamente violados;
+Para el otorgamiento del permiso relacionado con el transporte que refiere el artículo anterior, el interesado deberá presentar ante la Dirección General de Control Vehicular los siguientes requisitos:
 
-e) Adjuntar los medios de prueba que estime pertinentes y que apoyen su dicho; y
+I. Tarjeta de Circulación vigente;
 
-f) Firma autógrafa del promovente.
+II. Revista Mecánica del Servicio Particular;
 
-###### Artículo 31.
+III. Identificación del propietario del vehículo;
 
-Una vez recibido el escrito referido en el artículo anterior, se procederá conforme a lo siguiente:
+IV. Registro Federal de Contribuyentes de actividades (R.F.C)
 
-a) Si el escrito de inconformidad se presenta ante el Consejo General, el Secretario Ejecutivo ordenará a la Dirección Distrital, por conducto del Presidente del Consejo Distrital que corresponda, realice una inspección ocular en el lugar o en los lugares señalados en el escrito en comento.
+Los permisos para el servicio de transporte particular que refiere este precepto serán otorgados por la Dirección General de Control Vehicular y se concederán por no más de 365 días, para el vehículo que realice la transportación.
 
-b) Si el escrito de inconformidad se presenta ante un Consejo Distrital, el Presidente de ese Consejo Distrital ordenará al personal adscrito a la Dirección Distrital respectiva la realización de una inspección ocular en el lugar o en los lugares señalados en la inconformidad.
+Para el efecto se anexará al expediente de cada vehículo relacionado, copia de los permisos de transporte particular que se expidan relacionados con el vehículo.
 
-En ambos casos, las inspecciones oculares deberán realizarse dentro de las doce horas siguientes de haberse enterado al Consejo Distrital, por conducto de su Presidente, de la inconformidad de mérito.
-
-Para la realización de las inspecciones oculares se invitará por escrito a los representantes de los Partidos Políticos o Coaliciones, procurando que el representante del Partido Político o Coalición, presuntamente infractor, acuda a la diligencia de mérito. Asimismo, el Secretario del Consejo Distrital acudirá, sin excepción, a las inspecciones en comento.
-
-De cada una de las inspecciones oculares, el Secretario del Consejo Distrital levantará un acta circunstanciada en la cual se dará fe de la fecha, el lugar y la hora en que se realiza la inspección, así como de los hechos materia de supervisión; haciendo constar las circunstancias de modo, tiempo y lugar. Asimismo, se asentará de manera detallada la descripción, en su caso, de la propaganda detectada, sus características, rasgos distintivos, domicilio del lugar donde se ubicó, el día y la hora en que ésta fue observada. Dichas actas deberán ser firmadas por el Secretario del Consejo Distrital, pudiendo contar adicionalmente con la firma de los integrantes de la Dirección Distrital que hayan acudido a las inspecciones y de los representantes de los Partidos Políticos o Coaliciones que hayan estado presentes en las inspecciones aquí mencionadas. De igual forma, se anexarán a las actas de mérito las fotografías, videos y/o testimonios que se estimen convenientes.
-
-Las Direcciones Distritales podrán hacer uso de cámaras fotográficas, de video o cualquier instrumento capaz de captar imágenes para la mejor realización de las diligencias de mérito.
+Los funcionarios que contravengan lo establecido en el presente artículo, serán acreedores a las sanciones establecidas en el (sic) Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ## TÍTULO QUINTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE
 
 ### CAPÍTULO ÚNICO
 
-###### Artículo 32.
+###### ARTÍCULO 32.
 
-En caso de que de la inspección ocular se desprenda que no existe la irregularidad reportada, el Presidente del Consejo Distrital notificará por escrito al promovente de la inconformidad, haciéndole saber que no se actualiza la hipótesis descrita en el segundo párrafo del artículo 264 del Código, archivándose en consecuencia el escrito de inconformidad como asunto concluido y se informará de lo anterior al Secretario Ejecutivo. El oficio de notificación que se dirija al promoverte estará acompañado de una copia certificada del acta circunstanciada de la inspección ocular.
+Para los efectos de ésta Ley son servicios auxiliares, aquellos que sin formar parte de la vía pública ni del transporte público y privado, complementan su operación.
 
-###### Artículo 33.
+###### ARTÍCULO 33.
 
-Cuando en el caso de que el Instituto haya corroborado que en efecto existe alguna violación a las reglas para la propaganda, el Presidente del Consejo Distrital que corresponda notificará al Partido Político o Coalición infractor, haciéndole saber que se ha registrado una violación a las normas sobre propaganda y la indebida fijación de la misma en un lugar determinado.
+Los permisos que en los términos de-esta Ley otorgue la Dirección General Transportes para la autorización de servicios auxiliares del transporte público, serán los siguientes:
 
-El oficio de notificación estará acompañado de la copia certificada del acta circunstanciada levantada con motivo de la inspección ocular, y se le requerirá al presunto responsable el inmediato retiro de la propaganda, en un plazo que no deberá exceder las veinticuatro horas, contadas a partir de la recepción del oficio de mérito.
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-###### Artículo 34.
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-Una vez transcurrido el plazo mencionado en el artículo que antecede, el personal de la Dirección Distrital que corresponda acudirá al lugar de los hechos para verificar que se ha retirado la propaganda electoral que motivó el inicio del procedimiento previsto en el segundo párrafo del artículo 264 del Código.
+I.- TERMINALES DE PASAJEROS;
 
-###### Artículo 35.
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-En caso de que la propaganda electoral no haya sido retirada, los Presidentes de los Consejos Distritales solicitarán por escrito al Titular del Órgano Político-Administrativo que corresponda para que proceda a retirar la propaganda electoral que se encuentre adherida, fijada o pintada.
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-En la solicitud que envíen los Presidentes de los Consejos Distritales a los Titulares de los Órganos Político-Administrativos, deberán requerir que se desglose el costo total de los trabajos de retiro de propaganda por Partido Político y/o Coalición, para lo cual se solicitará, sin excepción, el documento que acredite dicho costo total.
+II.- PARADEROS;
 
-En este sentido, quedarán comprendidos, de manera enunciativa más no limitativa, dentro del costo total los gastos de mano de obra, transportación y combustible utilizados en las tareas de retiro de propaganda. Asimismo, se pedirá al Órgano Político-Administrativo que informe una vez que haya finalizado los trabajos de retiro de propaganda.
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+III.- SITIOS;
+
+IV.- Talleres de mantenimiento y encierro;
+
+(NOTA: EL 18 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 18/2008, 20/2008 Y 22/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE MAYO DE 2011, 4 DE ABRIL DE 2011 Y EL 29 DE MARZO DE 2011, RESPECTIVAMENTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+V.- BASES;
+
+VI.- Depósito de vehículos.
+
+Para la expedición de los permisos a que se refiere este artículo, a excepción de la fracción VI, deberá contarse previamente con la opinión que al efecto emita el Ayuntamiento del Municipio que corresponda.
+
+###### ARTÍCULO 34.
+
+Para la prestación del servicio de transporte público de pasajeros con itinerario fijo, los concesionarios deberán contar con terminales de origen y destino, o en su caso con bases, conforme al Reglamente de esta Ley.
+
+Lo anterior sin perjuicio de la obligación que tiene el concesionario de exhibir la autorización del uso de suelo y el estudio de impacto vial que emitan las autoridades municipales correspondientes.
+
+###### ARTÍCULO 35.
+
+La operación y explotación de terminales o en su caso, de bases, talleres de mantenimiento y encierro, paraderos, paradas intermedias o sitios, para el ascenso y descenso de pasajeros se llevará a cabo conforme a los términos del Reglamento.
 
 ## TÍTULO SEXTO. DE LAS CONCESIONES Y PERMISOS
 
 ### CAPÍTULO PRIMERO. DE LAS CONCESIONES
 
-###### Artículo 36.
+###### ARTÍCULO 36.
 
-Una vez que el Órgano Político-Administrativo haya notificado a la Dirección Distrital el retiro de la propaganda, habiendo comunicado el costo total de dichos trabajos, la Dirección Distrital verificará que la propaganda electoral detectada en las inspecciones oculares, efectivamente haya sido retirada.
+Para efectos de la presente Ley se entenderá por concesión, el Título que a través de un acto administrativo otorga el titular del Poder Ejecutivo a personas físicas o morales y que confiere el derecho a explotar y operar los servicios de transporte público, en los términos que en la misma se señalan, sin que se confiera exclusividad respecto de los derechos de explotación.
 
-###### Artículo 37.
+Se requiere de concesión otorgada por el Gobierno del Estado de Morelos, para la operación y explotación de los servicios a que se refieren los artículos 25, 26, 27 y 28 de la presente Ley.
 
-Una vez que la Dirección Distrital haya verificado que la propaganda electoral ya fue retirada, informará de lo anterior al promovente de la inconformidad.
+###### ARTÍCULO 37.
 
-###### Artículo 38.
+Para el otorgamiento de concesiones, el titular del Poder Ejecutivo, a través del Secretario de Gobierno., deberá publicar en el Periódico Oficial del Estado, conjuntamente con la convocatoria, la declaratoria, de necesidades respectiva, que justifique el incremento de las concesiones existentes de acuerdo con la modalidad de que se trate.
 
-Los Presidentes de los Consejos Distritales deberán rendir un informe al Secretario Ejecutivo de todas las acciones realizadas para dar cumplimiento al presente capítulo. A dicho informe deberán anexar el original de las actas circunstanciadas levantadas con motivo de las inspecciones oculares, así como todas las documentales recabadas y, de ser el caso, el documento original que acredite el costo total de las tareas de retiro de propaganda.
+###### ARTÍCULO 38.
 
-###### Artículo 39.
+El titular del Poder Ejecutivo otorgará las concesiones mediante concurso público siguiendo el procedimiento establecido en la presente Ley y su Reglamento; a excepción de las referidas en los artículos 28 de esta ley, las que podrá otorgar directamente sin someterse a concurso; siempre y cuando se cumplan los requisitos que marca este ordenamiento.
 
-El Secretario Ejecutivo informará al Consejo General de las acciones realizadas por las Direcciones Distritales en cumplimiento a lo dispuesto por este capítulo. Una vez que el Consejo General cuente con la información aludida, de considerarlo procedente, ordenará el inicio del procedimiento sancionatorio que corresponda, al Partido Político o Coalición que incurra en las hipótesis previstas en el artículo 173, fracciones I, VII, VIII y IX del Código.
+###### ARTÍCULO 39.
 
-###### Artículo 40.
+La declaratoria de necesidades para el otorgamiento de concesiones, contendrá como mínimo lo siguiente:
 
-Para la mejor realización de las actividades contempladas en el presente Reglamento, el Instituto dispondrá del personal que estime conveniente.
+I.- Los resultados de los estudios técnicos-que justifiquen el otorgamiento;
 
-###### Artículo 41.
+II.- La modalidad y el número de concesiones que se requieran para satisfacer la necesidad detectada;
 
-Las situaciones no previstas en el presente Reglamento serán resueltas por la Comisión y el Secretario Ejecutivo, en sus respectivos ámbitos de competencia.
+III.- El tipo, número, antigüedad y características de los vehículos que se requieran;
 
-###### Artículo 42.
+IV.- Las condiciones generales para la prestación del servicio, y
 
-En caso de que el o los Secretarios de los Consejos Distritales no pudiesen llevar a cabo, por cualquier motivo, las tareas que el Reglamento les encomienda, el Secretario Ejecutivo tomará las medidas necesarias con el fin de cumplir con las disposiciones legales y reglamentarias que correspondan.
+V.- Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
-TRANSITORIOS (SIC)
+###### ARTÍCULO 40.
 
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de la aprobación del Acuerdo respectivo por parte del Consejo General.
+Las concesiones para la prestación del servido de transporte público en sus diferentes modalidades, se otorgarán a quienes cumplan los requisitos siguientes:
+
+I.- Personas físicas:
+
+a) Ser de nacionalidad mexicana;
+
+b) Tener cuando menos 18 años de edad;
+
+c) Estar inscrito en el Registro Federal de Contribuyentes;
+
+d) No haber sido condenado por delito intencional o grave;
+
+e) Acreditar una residencia en el Estado de por lo menos 5 años anteriores a la fecha de la solicitud;
+
+f) No tener antecedentes de revocación o declaratoria de nulidad de concesión del servicio público de transporte;
+
+g) Participar en el concurso público que para tal efecto se convoque conforme a las bases que se señalen en la convocatoria respectiva;
+
+h) Presentar al titular del Poder Ejecutivo, por conducto de la Dirección General de Transportes, la solicitud con todos los requisitos que en la misma se consignen, dentro del plazo que se señale en la convocatoria, aceptando como respuesta a su petición, el falto que se publique en el periódico oficial del Estado y en uno de los diarios de mayor circulación en la Entidad, y
+
+i) Someterse al estudio socioeconómico que al efecto practique la Dirección General de Transportes con el objeto de verificar la acreditación de la capacidad económica para la prestación del servicio.
+
+Las personas que acrediten una antigüedad de cuatro años como operadores de transporte público serán consideradas en el otorgamiento de la concesión, cuando demuestren su capacidad económica apoyada en una institución crediticia.
+
+II.- A personas morales:
+
+a) Exhibir acta constitutiva conforme a las leyes mexicanas con cláusula de exclusión de extranjeros y tener como objeto social principal, la prestación del servicio de transporte público;
+
+b) Acreditar las facultades legales de sus representantes o apoderados legales;
+
+c) Demostrar capacidad de inversión para la compra, arrendamiento o adquisición de financiamientos para unidades, instalaciones e infraestructura que se requiera para la prestación del servicio, y
+
+d) Acreditar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables en la materia.
+
+III.- Para organismos auxiliares de la Administración Pública Estatal, acreditar su existencia legal mediante la exhibición de la ley o decreto de creación.
+
+###### ARTÍCULO 41.
+
+Las concesiones se otorgarán a los concursantes que garanticen la prestación del servicio de transporte público en las mejores condiciones, atendiendo en su orden a los siguientes criterios
+
+I. Ofrezcan mejor calidad en el equipo destinado al servicio;
+
+II.- Por la instalación de servicios auxiliares, tales como: terminales, bodegas, estaciones intermedias, sitios, paraderos y bases, o por otras circunstancias similares estén en condiciones de prestar y garantizar un mejor servicio al público;
+
+III.- Tratándose de personas físicas que justifiquen la solvencia para el desempeño del servicio, se preferirá en su orden:
+
+a) A quien acredite mediante gafete, la mayor antigüedad de manera ininterrumpida como operador en el servicio de transporte público de que se trate; y
+
+b) A quienes acrediten mayor antigüedad como solicitantes.
+
+IV.- En caso de coincidencia se preferirá a las personas físicas o morales de origen morelense; y
+
+V.- En caso de existir nuevamente igualdad de condiciones se preferirá a las personas físicas o morales vinculadas y con domicilio en las regiones o zonas que habrán de abarcar los servicios; y
+
+VI.- Tratándose de personas morales, se otorgará a la empresa que acredite que realizará una mayor y mejor inversión para prestar en condiciones óptimas el servicio concursado, comprendiendo en ello, la capacitación del personal, la calidad de las unidades, los servicios y obras accesorias.
+
+###### ARTÍCULO 42.
+
+En ningún caso se otorgarán concesiones a quienes habiéndolas tenido, se les hayan revocado; las hayan enajenado bajo cualquier figura jurídica o hayan cedido o transferido sus derechos bajo cualquier forma o denominación, aún de forma simulada.
+
+El otorgamiento de una concesión obliga a proteger de manera efectiva a los usuarios del servicio de cualquier riesgo que puedan sufrir con motivo de la prestación del mismo. Bajo ninguna circunstancia podrá un vehículo concesionado realizar el servicio si carece de un seguro que cubra cualquier siniestro que pudiera presentarse con relación a las personas o la carga. Asimismo, por lo que se refiere a los daños que una unidad pueda causar a terceros, el concesionario podrá cumplir con esta disposición mediante un contrato de seguro de cobertura amplia con una institución registrada en la comisión nacional de seguros y fianzas o mediante la constitución de un fondo de garantía, en los términos establecido (sic) en el Reglamento de esta Ley.
 
 ###### ARTÍCULO 43.
 
@@ -859,9 +1103,15 @@ VI.- Infracciones, sanciones y delitos; y
 
 VII.- Las demás que sean necesarias a juicio de la Secretaría de Gobierno.
 
+(NOTA: EL 11 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 19/2008, 21/2008 Y 23/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE LA PRIMERA Y SEGUNDA EL 17 DE ENERO DE 2011, Y DE LA TERCERA EL 14 DE ENERO DE 2011, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 75.
 
-Se permitirá el acceso a los datos relacionados en el Registro Estatal de Concesionarios y Permisionarios del Servicio de Transporte Público sólo a quienes lo soliciten por escrito y acrediten su interés jurídico, así como a la autoridad competente que funde y motive la necesidad de la información, y estrictamente en cuanto a información que no involucre cuestiones personales y confidenciales de los titulares de los derechos respectivos.
+Se permitirá el acceso a los datos relacionados en el Registro Estatal de Concesionarios y Permisionarios del Servicio de Transporte Público a toda persona que lo solicite por escrito o por vía electrónica en los términos que prevé la ley de la materia, así como a la autoridad competente QUE FUNDE Y MOTIVE LA NECESIDAD DE LA INFORMACIÓN, y estrictamente en cuanto a información que no involucre cuestiones personales, en los términos de las leyes respectivas.
 
 ###### ARTÍCULO 76.
 
@@ -1163,9 +1413,11 @@ En el caso de vehículos debidamente acreditados para la prestación del servici
 
 Las citadas sanciones administrativas se impondrán sin perjuicio de la responsabilidad civil o penal en que se pudiera haber incurrido por la comisión de un ilícito.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2008)</small>
+
 ###### ARTÍCULO 108.
 
-Aquellos que presten el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación del servicio público de transporte en vehículo distinto al autorizado, se le impondrá multa de quinientos días de salario mínimo vigente en el Estado de Morelos, en caso de reincidencia ésta ascenderá a mil días de salario mínimo vigente en la Entidad.
+Aquellos que presten el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación del servicio público de transporte en vehículo distinto al autorizado, se le impondrá multa de cien a quinientos días de salario mínimo vigente en el Estado de Morelos, en caso de reincidencia ésta ascenderá de doscientos a mil días de salario mínimo vigente en la Entidad.
 
 Para garantizar el pago de esta sanción, la autoridad del transporte deberá retener en garantía el vehículo en el que se cometió la infracción.
 
@@ -1322,3 +1574,29 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MARZO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales o reglamentadas que se opongan al presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 9 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Ejecutivo para su publicación en el Periódico Oficial.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
