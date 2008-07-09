@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-57923"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2008-03-12"
+last_updated: "2008-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -309,7 +309,7 @@ II.- Informar periódicamente al Director General de Transportes, sobre el cumpl
 
 III.- Mantener actualizado el registro y/o sistema integral de trámites administrativos;
 
-IV.- Realizar los estudios técnicos necesarios que le solicite el Director General de Transportes; y
+lV.- Realizar los estudios técnicos necesarios que le solicite el Director General de Transportes; y
 
 V.- Las asignadas por el Director General de Transportes y las disposiciones legales aplicables.
 
@@ -393,7 +393,7 @@ I.- Coadyuvar al mejoramiento de la función pública en materia de servicio de 
 
 II.- Opinar con respecto a las medidas administrativas y de servicio adoptadas, relacionadas con el transporte.
 
-II.- Emitir opinión respecto a los estudios técnicos que elabore la Dirección General de Transportes, respecto a:
+III.- Emitir opinión respecto a los estudios técnicos que elabore la Dirección General de Transportes, respecto a:
 
 a) Otorgamiento de nuevas concesiones, permisos o modificación de las condiciones de la declaratoria de necesidades;
 
@@ -505,25 +505,25 @@ El servicio de transporte particular, es aquel que realizan las personas física
 
 Cuando se transporte carga que exceda tres y medía toneladas, no podrá considerarse como servicio particular.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 31.
 
-Para el otorgamiento del permiso relacionado con el transporte que refiere el artículo anterior, el interesado deberá presentar ante la Dirección General de Control Vehicular, solicitud por escrito con los datos y documentos siguientes:
+Para el otorgamiento del permiso relacionado con el transporte que refiere el artículo anterior, el interesado deberá presentar ante la Dirección General de Control Vehicular los siguientes requisitos:
 
-I.- Nombre y domicilio del solicitante;
+I. Tarjeta de Circulación vigente;
 
-II.- Original y copia fotostática de identificación oficial del propietario del vehículo;
+II. Revista Mecánica del Servicio Particular;
 
-III.- Origen, destino y distancia a recorrer;
+III. Identificación del propietario del vehículo;
 
-IV.- Especificación de lo transportado; y
+IV. Registro Federal de Contribuyentes de actividades (R.F.C)
 
-V.- Características del vehículo a utilizar, con copia fotostática que acredite la propiedad del mismo.
-
-Los permisos para el servicio de transporte particular que refiere este precepto, serán otorgados por la Dirección General de Control Vehicular y no se concederán por más de 5 días, ni por más de 2 veces al año para el vehículo en el que se realice la transportación.
+Los permisos para el servicio de transporte particular que refiere este precepto serán otorgados por la Dirección General de Control Vehicular y se concederán por no más de 365 días, para el vehículo que realice la transportación.
 
 Para el efecto se anexará al expediente de cada vehículo relacionado, copia de los permisos de transporte particular que se expidan relacionados con el vehículo.
 
-Los funcionarios que contravengan lo establecido en el presente artículo, serán acreedores a las sanciones establecidas en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Los funcionarios que contravengan lo establecido en el presente artículo, serán acreedores a las sanciones establecidas en el (sic) Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ## TÍTULO QUINTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE
 
@@ -1586,3 +1586,17 @@ Se derogan todas las disposiciones legales o reglamentadas que se opongan al pre
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 9 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Ejecutivo para su publicación en el Periódico Oficial.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
