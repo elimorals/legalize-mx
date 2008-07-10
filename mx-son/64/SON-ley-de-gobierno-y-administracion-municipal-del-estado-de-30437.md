@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2007-09-07"
+last_updated: "2008-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2008.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -655,7 +655,9 @@ H).- Ejercer directamente o por conducto de quienes autoricen, bajo los principi
 
 I).- Conocer y evaluar las necesidades y capacidad de endeudamiento de la administración pública municipal, pudiendo aprobar la contratación de empréstitos en los términos establecidos por la Ley de Deuda Pública para el Estado y los Municipios, solicitando, para tal efecto, la autorización correspondiente al Congreso del Estado;
 
-J).- Autorizar la ampliación, transferencia y supresión de las partidas del Presupuesto de Egresos, en los términos de ley y publicarlos en el Boletín Oficial del Gobierno del Estado;
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2008)</small>
+
+J).- Autorizar la creación, ampliación, transferencia y supresión de las partidas del Presupuesto de Egresos en los términos de ley y publicarlos en el Boletín Oficial del Gobierno del Estado;
 
 K).- Glosar anualmente por medio de su Tesorería las cuentas de sus comisarías y delegaciones y, en caso de irregularidades, fincar las responsabilidades que conforme a la ley correspondan;
 
@@ -3766,3 +3768,9 @@ Artículo Segundo.- Dentro de los sesenta días naturales siguientes al de su pu
 B.O. 7 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
