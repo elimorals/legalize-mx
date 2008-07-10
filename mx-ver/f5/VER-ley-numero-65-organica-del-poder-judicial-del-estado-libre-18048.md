@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2008-07-08"
+last_updated: "2008-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -1691,9 +1691,9 @@ También resolverá respecto de licencias solicitadas por los Magistrados de los
 
 XIX. Calificar los impedimentos de los Consejeros;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2008)</small>
 
-XX. Desarrollar por conducto del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado, tareas de formación, actualización, investigación, capacitación y especialización de los miembros del Poder Judicial así como de los interesados en ingresar a la carrera judicial. El Consejo establecerá los planes y programas de estudio, así como el reglamento de (sic) Instituto;
+XX. Desarrollar, por conducto del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado, tareas de formación, actualización, investigación, capacitación, especialización e impartición de educación superior a los miembros del Poder Judicial, así como de los interesados en ingresar a la carrera judicial. El Consejo establecerá, en el Reglamento correspondiente, los mecanismos de aprobación de los planes y programas de estudios, además de los requisitos de ingreso y promoción;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -2490,3 +2490,9 @@ G.O. 8 DE JULIO DE 2008.
 Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 10 DE JULIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente decreto.
