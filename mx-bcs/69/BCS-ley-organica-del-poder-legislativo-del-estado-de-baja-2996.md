@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2008-06-10"
+last_updated: "2008-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -493,7 +493,9 @@ I.- DE PUNTOS CONSTITUCIONALES Y DE JUSTICIA.
 
 II.- DE ASUNTOS POLITICOS.
 
-III.- DE DERECHOS HUMANOS.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2008)</small>
+
+III.- DE DERECHOS HUMANOS Y DE ASUNTOS INDIGENAS.
 
 IV.- DE ASUNTOS AGROPECUARIOS Y MINEROS.
 
@@ -545,6 +547,10 @@ XXI.- DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA.
 
 XXII.- DEL AGUA.
 
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2008)</small>
+
+XXIII.- DEL DEPORTE.
+
 ###### ARTICULO 55.
 
 Será materia de estudio y dictamen de las distintas comisiones, lo siguiente:
@@ -585,13 +591,19 @@ g).- La elección de Consejeros del Instituto de Transparencia y Acceso a la Inf
 
 h).- Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
 
-III.- DE DERECHOS HUMANOS:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2008)</small>
 
-a).- Lo concerniente a la salvaguarda de los Derechos Humanos, las Garantías Individuales, el principio de legalidad y la preservación del Estado de Derecho.
+III.- DE DERECHOS HUMANOS Y DE ASUNTOS INDÍGENAS:
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2008)</small>
+
+a).- El conocimiento de los asuntos relacionados con la salvaguarda de los Derechos Humanos, las Garantías Individuales, el principio de Legalidad, la preservación del estado de derecho y el reconocimiento a los Derechos Indígenas.
 
 b).- Servir de instancia receptora de quejas y denuncias presentadas acerca de violaciones a estos derechos y dar seguimiento a las acciones que las autoridades directamente involucradas realicen en la investigación, reparación y sanción procedente.
 
-c).- Establecer coordinación con las instituciones y organismos públicos y privados nacionales, para promover el respeto a los derechos humanos.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2008)</small>
+
+c).- Establecer coordinación con instituciones y organismo (sic) públicos y privados nacionales, para promover el respeto a los Derechos Humanos y el reconocimiento a los Derechos Indígenas; y
 
 d).- Las demás que le encomiende la Directiva y la Gran Comisión.
 
@@ -780,6 +792,18 @@ c).- Participar en el ámbito de su competencia con dependencias del ejecutivo y
 d).- Los asuntos relacionados con el suministro de agua para consumo humano y para uso agrícola; y
 
 e).- Los demás asuntos que le turne la Mesa Directiva del Congreso.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2008)</small>
+
+XXIII.- DEL DEPORTE:
+
+a).- Lo relativo a la legislación de los asuntos del deporte;
+
+b).- Lo relativo a planes y programas encaminados a impulsar y estimular el deporte en todas sus disciplinas;
+
+c).- Lo relativo a la creación de estímulos y premios para reconocer el esfuerzo de los deportistas sudcalifornianos destacados; y
+
+d).- Los demás que le señale la Mesa Directiva del Congreso y la Gran Comisión.
 
 ###### ARTICULO 56.
 
@@ -2146,5 +2170,9 @@ B.O. 10 DE MARZO DE 2008.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE JUNIO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
