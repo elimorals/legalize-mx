@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2008-06-11"
+last_updated: "2008-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1473,7 +1473,7 @@ Al responsable de este delito se le impondrán de seis meses a dos años de pris
 
 ### CAPÍTULO III. DISCRIMINACIÓN DE LAS PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE JULIO DE 2008)</small>
 
 ###### Artículo 182.
 
@@ -1629,13 +1629,19 @@ Cuando esté pendiente el proceso que se instruya por el delito imputado, se sus
 
 ###### Artículo 196.
 
-Se impondrán de seis meses a dos años de prisión y hasta cien días de trabajo en favor de la comunidad a quien, injustificadamente, por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de la piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, carácter físico, discapacidad o estado de salud:
+Se impondrán de uno a dos años de prisión y hasta cien días de trabajo a favor de la comunidad a quien, por razón de edad, sexo, embarazo, estado civil, origen étnico o nacional, lengua, religión, ideología, opinión, preferencia sexual, color de la piel, condición social o económica, trabajo, profesión, características físicas, discapacidad, condición de salud o cualquier otra que atente contra la dignidad humana:
 
-I. Provoque o incite al odio o a la violencia contra una o mas personas;
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2008)</small>
 
-II. En el ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a una persona un servicio o una prestación;
+I. Provoque o incite al odio o a la violencia;
 
-III. Veje o excluya a alguna persona o grupo de personas cuando con esas conductas se cause un daño material o moral; o
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2008)</small>
+
+II. En el ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a una persona un servicio o una prestación a la que tenga derecho. Para este efecto, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general;
+
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2008)</small>
+
+III. Veje o excluya a alguna persona o grupo de personas; o
 
 IV. Niegue o restrinja derechos laborales.
 
@@ -3258,6 +3264,12 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 G.O. 11 DE JUNIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE JULIO DE 2008.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
