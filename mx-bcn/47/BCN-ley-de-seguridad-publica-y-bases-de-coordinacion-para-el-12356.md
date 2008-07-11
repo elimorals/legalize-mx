@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2007-09-14"
+last_updated: "2008-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -101,11 +101,13 @@ VIII. Consejo: al Consejo Estatal de Seguridad Pública, creado mediante Acuerdo
 
 La Procuraduría, además de las atribuciones que le corresponden, podrá coadyuvar, en el ámbito de su competencia, en las actividades y con los Cuerpos de Seguridad, a través de la Policía Ministerial.
 
-La Policía Ministerial quedará sujeta, por lo que corresponde a su ámbito de competencia, a las disposiciones de esta Ley, sin perjuicio de lo previsto en la Ley Orgánica de la Procuraduría General de Justicia del Estado, su Reglamento y en el Código de Procedimientos Penales para el Estado de Baja California.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2001)</small>
+La Policía Ministerial quedará sujeta, por lo que corresponde a su ámbito de competencia, a las disposiciones de esta Ley, sin perjuicio de lo previsto en la Ley Orgánica de la Procuraduría General de Justicia del Estado, sus Reglamentos, en el Código de Procedimientos Penales para el Estado de Baja California y demás leyes aplicables.
 
-El Procurador General de Justicia del Estado deberá celebrar con los Ayuntamientos del Estado, convenios de cooperación y coordinación para el intercambio de información delictiva en el cumplimiento de las atribuciones que competen a las policías preventivas municipales.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+La Procuraduría deberá celebrar con la Secretaría y los Ayuntamientos, convenios de cooperación y coordinación para el intercambio de información en materia de seguridad pública, en el cumplimiento de las atribuciones que competen a las policías preventivas.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
@@ -131,23 +133,37 @@ V. Las demás que se constituyan con estricto apego a la Ley.
 
 Son auxiliares de los Cuerpos de Seguridad en la Entidad:
 
-I. Los Cuerpos Operativos de la Dirección de Protección Civil;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
+
+I. Los Cuerpos Operativos de la Dirección de Protección Civil del Estado y los Órganos Municipales Encargados de la Materia de Protección Civil;
 
 II. Los Cuerpos de Bomberos y Rescate;
 
-III. Las empresas de seguridad privada y de similar naturaleza que operen o se instalen en el Estado, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
 
-IV. Las demás que se constituyan con estricto apego a la Ley.
+III. Los prestadores de servicios de seguridad privada y de similar naturaleza que operen o se instalen en el Estado;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
+
+IV. Los cuerpos de asistencia médica o de primeros auxilios; y,
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2008)</small>
+
+V. Las demás que se constituyan con estricto apego a la Ley.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 8.
 
-Los Cuerpos de Seguridad a que se refiere el artículo anterior, desempeñarán sus funciones bajo la coordinación y supervisión de la Secretaría, a través del Consejo.
+Los auxiliares de los Cuerpos de Seguridad, a que se refiere el artículo anterior, desempeñarán sus funciones bajo la coordinación y supervisión de la Secretaría, a través del Consejo.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 9.
 
-Los mandos operativos en los Cuerpos de Seguridad se determinarán conforme a la Ley o Reglamento respectivo y tendrán el carácter de autoridad auxiliar cuando para ello sea requerido por la Autoridad competente.
+Los mandos operativos en los Cuerpos de Seguridad y los Auxiliares, a que se refieren los artículos 6 y 7, se determinarán conforme a la Ley o Reglamentos respectivos y tendrán el carácter de autoridad auxiliar cuando para ello sea requerido por la Autoridad competente.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 10.
 
@@ -156,14 +172,6 @@ Se consideran elementos de seguridad pública, los integrantes de los cuerpos de
 La relación que surge de la prestación del servicio entre los elementos de los cuerpos de seguridad pública y el Estado o los Municipios, es de carácter administrativa, y se regirá por su propia ley y los reglamentos respectivos, de conformidad con lo dispuesto por el artículo 123 fracción XIII del Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
 
 No formarán parte de los cuerpos de seguridad quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la seguridad pública, aun cuando laboren en las dependencias encargadas de prestar dicho servicio.
-
-Los elementos de seguridad pública se clasificarán como sigue:
-
-I. De apoyo Logístico y Administrativo;
-
-II. Policía Preventiva, y
-
-III. Policía Ministerial.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
 
@@ -263,125 +271,285 @@ Serán de Objeto de atención preferente, la coordinación de acciones para el i
 
 Las autoridades estatales y municipales están obligadas a coordinarse para ejecutar en forma conjunta y periódica, cuando menos una vez al mes, operativos en materia de prevención y persecución de los delitos. Para estos efectos celebrarán convenios específicos con las autoridades federales de seguridad pública a fin de que se incorporen en la ejecución de estos operativos. Los resultados de estas acciones conjuntas deberá ser revisadas de manera permanente y en su caso, diseñarse nuevas directrices y acciones que permitan eficientizar las funciones desarrolladas.
 
-## TÍTULO SEGUNDO. DEL REGISTRO ESTATAL DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JULIO DE 2008)</small>
 
-### CAPÍTULO PRIMERO. DEL PERSONAL
+## TÍTULO SEGUNDO. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JULIO DE 2008)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 22.
 
-Los Ayuntamientos, la Procuraduría y las empresas de Seguridad Privada, integrarán registros de los elementos que formen parte de sus respectivos cuerpos de seguridad, de las altas, suspensiones, remociones, destituciones o inhabilitaciones, de las cuales deberán dar cuenta y aviso oportuno a la Secretaría, la cual incluirá la información correspondiente a los elementos de sus cuerpos de seguridad, a efecto de integrar el Registro Estatal de Seguridad Pública.
+La Secretaría integrará y administrará la Información Estatal sobre Seguridad Pública, conforme a las disposiciones del Sistema Nacional de Seguridad Pública, por lo que deberá de coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente.
 
-### CAPÍTULO SEGUNDO. DEL ARMAMENTO Y VEHÍCULOS
+Los Ayuntamientos, la Procuraduría, los Prestadores de Servicios de Seguridad Privada y los Cuerpos de Seguridad Pública de la Secretaría están obligados a proporcionar y mantener actualizada la información necesaria para integrar el Sistema Estatal de Información sobre Seguridad Pública.
 
-###### ARTÍCULO 23.
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
 
-La utilización de los registros se hará bajo los más estrictos principios de confidencialidad y de reserva. La consulta se realizará única y exclusivamente en ejercicio de las funciones oficiales de seguridad pública; el público no tendrá acceso a la información que se contenga. El incumplimiento a esta disposición, así como el acceso a la información por parte de los particulares, se equipara al delito de revelación de secretos y se sancionará como tal, sin perjuicio de responsabilidades de otra naturaleza en que se pudiera incurrir.
+ARTÍCULO 22 BIS.- El Sistema Estatal de Información sobre Seguridad Pública se integrara por lo menos, con la siguiente información:
+
+I.- Del personal adscrito a las instituciones de Seguridad Pública de los Ayuntamientos y dependencias del Poder Ejecutivo del Estado, independientemente de la función que se desempeñe, así como del personal a que se refiere el reglamento que regula la prestación de servicios de seguridad privada en el Estado;
+
+II.- De los identificados por infracciones administrativas;
+
+III.- De los indiciados, procesados y sentenciados;
+
+IV.- Del armamento y equipo de los cuerpos de seguridad pública y prestadores de servicios de seguridad privada;
+
+V.- De mandamientos administrativos o judiciales, mismo que se integrará por órdenes de comparecencia, aprehensión, reaprehensión, presentación ejecutadas y pendientes de ejecutar, y ordenes de protección;
+
+VI.- De vehículos robados, recuperados, asegurados y decomisados;
+
+VII.- Del padrón vehicular y de licencias de conducir;
+
+VIII.- De huellas dactilares;
+
+IX.- Del registro de voz de elementos de seguridad pública, del personal que prevé el reglamento que regula la prestación de servicios de seguridad privada para el Estado, de los indiciados, procesados y sentenciados;
+
+X.- De tipo sanguíneo y de ácido desoxirribonucleico (ADN);
+
+XI.- Del padrón de construcciones que se encuentre en estado de abandono que posibiliten ser utilizado por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones;
+
+XII.- De la Estadística; y,
+
+XIII.- Las demás que se constituyan.
+
+El reglamento establecerá la forma y términos en que se estructurará la información que forma parte de cada una de los apartados descritos en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 22 TER.- La utilización del Sistema Estatal de Información sobre Seguridad Pública se hará bajo los más estrictos principios de confidencialidad, de reserva y sigilo. La consulta se realizará única y exclusivamente en ejercicio de las funciones oficiales de seguridad pública; el público no tendrá acceso a la información que se contenga. El incumplimiento a esta disposición, así como el acceso a la información por parte de los particulares, será sancionado por las leyes correspondientes, sin perjuicio de responsabilidades de otra naturaleza en que se pudiera incurrir.
 
 La información que ponga en riesgo la seguridad o atente contra las personas y su honra, será estrictamente resguardada y bajo ninguna circunstancia podrá ser hecha pública.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 22 QUATER.- La consulta de la Información del Sistema Estatal de Información sobre Seguridad Pública, será obligatoria y previa al ingreso del particular a cualquier institución policial, estatal o municipal, incluyendo a las de formación policial y de prestación de servicios de seguridad privada, por lo que los elementos y aspirantes deberán de presentarse ante la Secretaría para la consulta e identificación correspondiente. Con los resultados de dicha consulta, la autoridad procederá de conformidad con las normas conducentes.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JULIO DE 2008)</small>
+
+### CAPÍTULO SEGUNDO. DEL PERSONAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 23.
+
+Los Ayuntamientos, las Dependencias del Seguridad Pública del Poder Ejecutivo del Estado, así como los Prestadores de Servicios de Seguridad Privada y otros auxiliares, proporcionarán la información de los elementos que formen parte de sus respectivos cuerpos de seguridad, de las cuales deberán dar cuenta y aviso oportuno a la Secretaría. La Secretaría incluirá la información correspondiente a los elementos de sus cuerpos de seguridad pública. Dicha información deberá contener por lo menos:
+
+I. Las altas y bajas;
+
+II. Los datos generales que permitan identificar plenamente y localizar al servidor público o prestador del servicio;
+
+III. Las huellas digitales, fotografías de frente y perfiles, registro de voz y tipo sanguíneo;
+
+IV. Escolaridad y antecedentes laborales o administrativos;
+
+V. Trayectoria en los servicios desempeñados de seguridad pública o en la prestación de servicios de seguridad privada, las promociones, reconocimientos o sanciones a que se haya hecho acreedor el servidor público o prestador de servicios privados;
+
+VI. Descripción del equipo a su encargo, en su caso, casquillo y proyectil del arma de fuego que porte; y,
+
+VII. Cualquier cambio de adscripción, actividad o rango de servidor público, así como las razones que lo motivaron.
+
+Cuando a los elementos de los Cuerpos de Seguridad Pública o de los prestadores de servicios de seguridad privada se les dicte cualquier auto de procesamiento, sentencia, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, la autoridad que conozca del caso respectivo notificará inmediatamente a la Secretaría, para los efectos del presente capítulo.
+
+Las órdenes de aprehensión, de reaprehensión, de comparecencia, de presentación o arresto administrativo, se notificarán cuando no se ponga en riesgo la investigación o la causa procesal.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 24.
 
-La Secretaría integrará el Registro Estatal de Seguridad Pública, y resguardará la información relativa al personal de los elementos de seguridad pública, prestadores de servicios de seguridad privados y otros auxiliares, y contendrá por lo menos:
+Los titulares de los Cuerpos de Seguridad Pública y los Prestadores de Servicios de Seguridad Privada, inscribirán y mantendrán actualizados, los datos relativos a sus integrantes, en los términos del artículo 23 de la presente Ley y su Reglamento.
 
-I. Los datos generales que permitan identificar plenamente y localizar al servidor público o prestador del servicio;
-
-II. Huellas digitales, fotografías de frente y de perfil, registro de voz y tipo sanguíneo;
-
-III. Escolaridad y antecedentes laborales;
-
-IV. Trayectoria en los servicios desempeñados de seguridad pública o privada, los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público o prestador de servicios privados;
-
-V. Descripción del equipo a su encargo, en su caso, casquillo y proyectil del arma de fuego que porte, y
-
-VI. Cualquier cambio de adscripción, actividad o rango de servidor público, así como las razones que lo motivaron.
-
-Cuando a los integrantes de los Cuerpos de Seguridad, se les dicte cualquier auto de procesamiento, sentencia, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, la autoridad que conozca del caso respectivo notificará inmediatamente al Registro Estatal de Seguridad Pública.
-
-Las órdenes de aprehensión o arresto administrativo, se notificarán cuando no se ponga en riesgo la investigación o la causa procesal.
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 25.
 
-Los titulares de los Cuerpos de Seguridad inscribirán y mantendrán actualizados, los datos relativos a sus integrantes, en el Registro Estatal de Seguridad Pública, en los términos de esta Ley y su Reglamento.
+Las identificaciones de los Elementos de los Cuerpos de Seguridad Pública y el personal operativo de los Prestadores de Servicios de Seguridad Privada, deberán contener la clave única de identificación personal que para el efecto se determine en el Sistema Nacional de Seguridad Pública.
 
-### CAPÍTULO TERCERO. DE LA ESTADÍSTICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JULIO DE 2008)</small>
+
+### CAPÍTULO TERCERO. DEL ARMAMENTO Y VEHÍCULOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 26.
 
-La consulta del registro, será obligatoria y previa al ingreso del particular a cualquier institución policial, estatal o municipal, incluyendo a las de formación policial y de servicios privados. Con los resultados de dicha consulta, la autoridad procederá de conformidad con las normas conducentes.
+Además de cumplir con lo dispuesto en otras leyes, las autoridades de seguridad pública estatal y municipal, así como los prestadores de servicios de seguridad privada y otros auxiliares, deberán manifestar a la Secretaría:
 
-###### ARTÍCULO 27.
-
-Las identificaciones de los integrantes de los Cuerpos de Seguridad, deberán contener el número y clave de inscripción en el Registro Estatal de Seguridad Pública.
-
-###### ARTÍCULO 28.
-
-Además de cumplir con lo dispuesto en otras leyes, las autoridades de seguridad pública estatales y municipales, así como las personas que presten servicios privados de seguridad y otros auxiliares, deberán manifestar al Registro Estatal del Seguridad Pública:
-
-I. Los vehículos que tuvieren asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo, y
+I. Los vehículos que tuvieren asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie, motor para el registro del vehículo; y,
 
 II. Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación.
 
-###### ARTÍCULO 29.
+Previo a la entrega de las armas a los Cuerpos de Seguridad Pública en el Estado, la Procuraduría y la Secretaría tendrán la obligación de recabar por lo menos la siguiente información: datos generales del arma, fotografías y recolección de elementos testigo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 27.
 
 Cualquier persona que ejerza funciones de seguridad, sólo podrá portar las armas de cargo que hayan sido autorizadas individualmente, o que hubiesen sido asignadas y registradas colectivamente para la institución de seguridad a que pertenezcan, de conformidad con la Ley de la materia.
 
-Las armas sólo podrán ser portadas durante el tiempo en que ejerzan sus funciones, para un horario, misión o comisión, de acuerdo con lo establecido en los ordenamientos de cada institución.
+Las armas sólo podrán ser portadas durante el tiempo en que ejerzan sus funciones, para un horario, misión o comisión, de acuerdo con lo establecido en los ordenamientos de cada institución. El incumplimiento a la presente disposición, será sancionado conforme a las disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 28.
+
+En el caso de que los elementos de los Cuerpos de Seguridad Pública aseguren armas, municiones o vehículos, lo comunicarán de inmediato a la Secretaría, dejándolos a disposición de las autoridades competentes, en los términos de las disposiciones de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 29.
+
+Los Prestadores de servicios de seguridad privada y otros auxiliares, además de aportar los datos relativos del Sistema Estatal de Información sobre Seguridad Pública, deberán presentar en forma mensual a la Secretaría, un reporte detallado de la información a que se refiere el presente capítulo.
+
+El incumplimiento a esta disposición será sancionado conforme a los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 29 BIS.- La Secretaría de Planeación y Finanzas deberá proporcionar a la Secretaría y actualizar permanentemente los datos del Padrón Estatal Vehicular y de licencias de conducir a efecto de integrar el Sistema Estatal de Información Sobre Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+### CAPÍTULO CUARTO. DE LA IDENTIFICACIÓN Y DE LA UBICACIÓN DE CONSTRUCCIONES ABANDONADAS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 30.
 
-En el caso de que los elementos de seguridad pública aseguren armas o municiones, lo comunicarán de inmediato al Registro Estatal de Seguridad Pública y las pondrá a disposición de las autoridades competentes, en los términos de las disposiciones de la Ley de la materia.
+Se integrará la información estatal de datos sobre las personas probables y responsables de delitos, indiciadas, detenidas, procesadas, sentenciadas e identificadas administrativamente, y en su caso, el estado que guarda el proceso penal, de consulta obligatoria en las actividades de seguridad pública, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación. Esta base de datos, se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración, administración de justicia, readaptación social y en general, todas las instituciones que deban contribuir a la seguridad pública.
 
-### CAPÍTULO PRIMERO. DE LA PARTICIPACIÓN VECINAL Y CIUDADANA
+La Secretaría, la Procuraduría y los Ayuntamientos deberán de ingresar la información a que se refiere el párrafo anterior. Tales datos deberán ser capturados en los registros que para tal efecto establezca el Sistema Nacional de Seguridad Pública, debiendo de informarse de manera mensual a la Secretaría las actividades realizadas al respecto.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 30 BIS.- Los Ayuntamientos están obligados a conformar y a mantener actualizado un Padrón de Construcciones que se encuentren en estado de abandono que puedan ser utilizados por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones. Los Ayuntamientos deberán proporcionar la información de sus Padrones a la Secretaría de Seguridad Pública a efecto de integrar el Sistema Estatal de Información Sobre Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 30 TER.- El Padrón de Construcciones contendrá cuando menos los datos siguientes:
+
+1. Dirección del Inmueble;
+
+2. Nombre del Propietario;
+
+3. Ilícitos en que es empleado el Inmueble; y
+
+4. Medidas y Colindancias.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+### CAPÍTULO QUINTO. DE LOS VEHÍCULOS ROBADOS Y RECUPERADOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 31.
 
-Las personas que presten servicios privados de seguridad y otros auxiliares, además de aportar la información relativa al Registro Estatal de Seguridad Pública; deberán presentar en forma mensual, un reporte detallado de sus actividades a la Secretaría.
+La Procuraduría integrará una base de datos sobre vehículos robados y recuperados, la cual deberá actualizarse permanentemente y enviarse a la Secretaría, misma que será integrada a la Información Estatal sobre Seguridad Pública. Conteniendo por lo menos los datos siguientes:
 
-El incumplimiento a esta disposición será causa de cancelación de la autorización y registro para funcionar como prestadores del servicio.
+I. Averiguación previa;
+
+II. Modalidad del robo;
+
+III. Lugar del robo;
+
+IV. Denunciante;
+
+V. Datos del vehículo;
+
+VI. Características del vehículo;
+
+VII. Recuperación del vehículo;
+
+VIII. Lugar de recuperación;
+
+IX. Características de la recuperación; y,
+
+X. La demás información que establezca el Sistema Nacional de Seguridad Pública.
+
+La Procuraduría deberá actualizar de manera permanente la información contemplada en este capítulo, la cual le corresponderá tener disponible en el centro de control, comando, comunicación y cómputo en el Estado, para su consulta.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 32.
 
-Reglamentariamente, se señalarán los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general la problemática de seguridad pública en los ámbitos del Estado y sus Municipios, con el propósito de planear las estrategias de las políticas tendientes a la preservación del orden y la paz públicos.
+La Secretaría, a través de las llamadas que se reciban por medio del Servicio de Asistencia Telefónica, en los centros de Control, Comando, Comunicación y Cómputo en el Estado, con motivo del robo de un vehículo, formará de inmediato un reporte de incidente, mismo que servirá como alerta a las distintas corporaciones de seguridad Pública de la entidad. Esta medida preliminar, no releva al afectado en su obligación de presentar su denuncia ante la autoridad competente.
 
-El Consejo evaluará las estadísticas, a fin de proponer las políticas de seguridad pública.
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
 
-### CAPÍTULO SEGUNDO. DE LOS SERVICIOS DE ATENCIÓN A LA CIUDADANÍA
+### CAPÍTULO SEXTO. MANDAMIENTOS JUDICIALES Y ADMINISTRATIVOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 33.
 
-La estadística de seguridad pública, sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva y administración de justicia, sistemas de prisión preventiva, ejecución de sentencias y de tratamiento de menores, y los factores asociados a la problemática de seguridad pública.
+La Procuraduría, integrará una base de datos de mandamientos administrativos y judiciales, que contenga la información de las órdenes de aprehensión, reaprehensión, comparecencia, de presentaciones, y de protección giradas por la autoridad competente, misma que será integrada a la Información Estatal sobre Seguridad Pública, y contendrá por lo menos:
 
-### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS DE ACTUACIÓN
+I. Datos de la instancia ejecutora;
+
+II. Datos generales que permitan identificar a la persona;
+
+III. Datos del mandato;
+
+IV. Datos de la autoridad que emite el mandamiento;
+
+V. Datos del amparo, en su caso;
+
+VI. Datos del delito;
+
+VII. Otros nombres del presunto responsable o responsable;
+
+VIII. Domicilio conocido;
+
+IX. Otro mandamiento relacionado o relacionados; y,
+
+X. La demás información que establezca el Sistema Nacional de Seguridad Pública.
+
+La Procuraduría, deberá actualizar de manera permanente la información contemplada en este capítulo, la cual le corresponderá tener disponible en los centros de Control, Comando, Comunicación y Cómputo en el Estado, para su consulta.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA ESTADÍSTICA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 34.
 
-Se integrará una base estatal de datos sobre las personas probables y responsables de delitos, indiciadas, detenidas, procesadas o sentenciadas, de consulta obligatoria en las actividades de seguridad pública, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación. Esta base de datos, se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración, administración de justicia, readaptación social y en general, todas las instituciones que deban contribuir a la seguridad pública, relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas.
+La Secretaría, integrará y administrará la información estatal sobre la incidencia criminológica, por lo que deberá de coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente.
 
-Esta información servirá para integrar el Registro de Estadística de Seguridad Pública.
+La Secretaría, la Procuraduría y los Ayuntamientos están obligados a proporcionar y mantener actualizada la información sobre la incidencia criminológica, necesaria para integrar el Sistema Estatal de Información sobre Seguridad Pública.
 
-La información se dará de baja por resoluciones de libertad, desvanecimiento de datos o faltas de elementos para procesar, así como por sentencias absolutorias.
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 35.
 
-Para efectos del Registro de Estadística de Seguridad Pública, el Ministerio Público sólo podrá reservarse la información que ponga en riesgo alguna investigación.
+La estadística de seguridad pública, sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, readaptación social, sistemas de prisión preventiva, ejecución de sentencias y de adolescentes en conflicto con la ley, y los factores asociados a la problemática de seguridad pública.
 
-## TÍTULO TERCERO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
+La Secretaría, deberá presentar periódicamente a la Procuraduría y a los Ayuntamientos, el análisis de la incidencia criminológica en el Estado, con el objeto de que ésta, sea la base de la planeación de los programas y estrategias contra la delincuencia.
 
-### CAPÍTULO SEGUNDO. DE LA PROFESIONALIDAD DE LOS CUERPOS DE SEGURIDAD PÚBLICA
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 35 BIS.- Para efectos de la información a que se refieren los Capítulos
+
+Sexto y Séptimo de este Título, el Ministerio Público sólo podrá reservarse la información que ponga en riesgo alguna investigación, pero la proporcionará inmediatamente después que deje de existir tal condición.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JULIO DE 2008)</small>
+
+## TÍTULO TERCERO. DE LA PRESTACIÓN DE SERVICIOS DE SEGURIDAD PRIVADA
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 36.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares, personas físicas o morales que pretendan prestar o presten los servicios de seguridad, protección o vigilancia o custodia de personas, lugares o establecimientos; de bienes o valores, incluido su traslado, o servicios de sistemas de alarmas; deberán obtener, previo pago de derechos, la autorización de la Secretaría, con las cuales integrará el Registro de Prestadores de Servicios de Seguridad Privada.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares, personas físicas o morales que pretendan prestar o presten los servicios de seguridad privada en el Estado, en cualquiera de las modalidades que prevé la presente Ley y el reglamento correspondiente, deberán obtener, previo pago de derechos, la autorización de la Secretaría, con las cuales integrará la Información Estatal sobre Seguridad.
 
-Ninguna persona física o moral, ni grupos o individuos podrá realizar dichas actividades, si no han solicitado autorización y obtenido su registro en la citada dependencia.
+Ninguna persona física o moral, ni grupos o individuos podrá realizar dichas actividades, si no han obtenido autorización por parte de la Secretaría.
 
-Toda solicitud de registro, en los términos del artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, deberá hacerse del conocimiento de la Secretaría de Gobernación.
+Toda autorización otorgada por la Secretaría en los términos del artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, deberá hacerse del conocimiento de la instancia federal que corresponda.
 
 ###### ARTÍCULO 37.
 
@@ -389,25 +557,51 @@ Los prestadores de los servicios de seguridad privada, son auxiliares a la funci
 
 Al efecto, la Secretaría, la Procuraduría y los Ayuntamientos, signarán los convenios con los prestadores de éstos servicios para establecer los requisitos y condiciones en que habrá de darse tal colaboración.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 38.
 
-Para efectos de esta Ley se entenderá como prestador de servicios de seguridad privados a:
+Para efectos de esta Ley, se entenderá como prestador de servicios de seguridad privada a:
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
 
 I. Las personas morales legalmente constituidas, cuyo objeto social sea la prestación de servicios de seguridad privada, ya sea la guarda o custodia de locales o para la transportación de valores. Quedan asimiladas a este grupo las personas físicas que presten el servicio de seguridad privada por conducto de terceros empleados a su cargo;
 
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
 II. Los grupos de seguridad que a su costa organicen los habitantes de las colonias, fraccionamientos y zonas residenciales para ejercer, en cualquier horario, la función única y exclusiva de resguardar los inmuebles o las casas habitación ubicadas en las áreas que previamente se señalen;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
 
 III. Los custodios de personas, que presten servicios de seguridad personal, a costa de quienes reciben tal servicio;
 
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
 IV. Los vigilantes, que en forma independiente desempeñan la función de vigilancia sobre casas habitación, comercios o personas;
 
-V. Las personas físicas o morales, que presten los servicios de sistemas de alarmas en todas sus modalidades, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
 
-VI. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la seguridad.
+V. Las personas físicas o morales, que presten los servicios de seguridad electrónica en todas sus clasificaciones;
 
-Las obligaciones y prohibiciones que el Reglamento establece para los prestadores del servicio de seguridad privada, serán de observancia para las industrias, establecimientos fabriles o comerciales, que contraten a personal para realizar funciones de vigilancia interna, para la guarda o custodia de sus locales, bienes o valores, o para la transportación de estos últimos y que tengan una relación laboral de prestación de servicios con la unidad económica en la que desempeñen sus funciones.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
+
+VI. Las personas físicas o morales que presten servicios de investigación privada;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2008)</small>
+
+VII. Las personas físicas y morales que presten servicios de seguridad privada por medio de canes;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2008)</small>
+
+VIII. Las personas físicas o morales que realicen actividades vinculadas con servicios de blindaje de vehículos automotores; y,
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2008)</small>
+
+IX. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la seguridad privada en términos de la presente Ley y el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+Las obligaciones y prohibiciones que establezca el reglamento que regula los servicios de seguridad privada en el Estado, serán de observancia para las industrias; establecimientos fabriles o comerciales, que contraten a personal para realizar funciones de vigilancia interna, para la guarda o custodia de sus locales, bienes o valores, o para la transportación de estos últimos y que tengan una relación laboral de prestación de servicios con la unidad económica en la que desempeñen sus funciones.
 
 ###### ARTÍCULO 39.
 
@@ -419,9 +613,11 @@ Sólo podrán prestar este servicio, las personas físicas o morales de nacional
 
 Previa a la autorización de servicios de seguridad privada, la Secretaría requerirá y dará vista para su opinión, a la Procuraduría y a los Ayuntamientos, debiendo emitir la misma en un plazo de treinta días posteriores a su recepción.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 41.
 
-Los sujetos a que se refieren las fracciones I, II, III y IV del Artículo 38 de esta Ley, deberán capacitar a sus elementos bajo los lineamientos y programas en el Instituto, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
+Los sujetos a que se refieren las fracciones I, II, III, IV, VI y VII del Artículo 38 de esta Ley, deberán capacitar permanentemente a su personal operativo bajo los lineamientos y programas que establezca el Instituto, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
 
 ###### ARTÍCULO 42.
 
@@ -435,9 +631,11 @@ En caso de que acontezcan hechos que se presuman como constitutivos de delito o 
 
 La función de los vigilantes o grupos, cesará en cuanto hagan acto de presencia los Agentes del Ministerio Público o los elementos de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 44.
 
-Los particulares, personas físicas o morales que presten este servicio, así como el personal que utilicen, se regirán en lo conducente por las normas que esta ley y demás ordenamientos aplicables establecen para ellos; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para los registros, y proporcionar la información estadística y sobre la delincuencia que le requiera la Secretaría para el Registro Estatal de Seguridad Pública.
+Los particulares, personas físicas o morales que presten este servicio, así como el personal que utilicen, se regirán en lo conducente por las normas que esta ley y demás ordenamientos aplicables que establecen para ellos; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos y proporcionar la información y documentos para integrar la Información Estatal sobre Seguridad Pública, que le requiera la Secretaría.
 
 ###### ARTÍCULO 45.
 
@@ -463,15 +661,23 @@ VIII. Responderán solidariamente de los daños y perjuicios que cause su person
 
 Corresponde a la Secretaría:
 
-I. Solicitar opinión al Consejo, sobre las solicitudes de autorización para el funcionamiento de las empresas de seguridad privada, antes de aprobarlas;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
 
-II. Evaluar, por conducto de la unidad administrativa correspondiente y previo pago de los derechos respectivos, el funcionamiento de los servicios de seguridad privados;
+I. Solicitar opinión al Consejo, sobre las solicitudes de autorización para el funcionamiento de prestadores de servicios de seguridad privada y de similar naturaleza, antes de aprobarlas;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
+
+II. Evaluar, por conducto de la unidad administrativa correspondiente y previo pago de los derechos respectivos, el funcionamiento de los prestadores de servicios de seguridad privada y de similar naturaleza;
 
 III. Fijar los requisitos de forma para obtener la autorización e inscripción en el registro;
 
-IV. Supervisar permanentemente al personal, los programas de capacitación profesional, el equipo y la operación de las empresas que presten servicios de seguridad privados. Para ello, éstas tendrán la obligación de proporcionar la información que les solicite y podrá realizar las visitas de inspección que estime necesarias, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
 
-V. Sancionar conforme a lo dispuesto en el Artículo 49 de este ordenamiento, a las empresas de seguridad privada, cuando dejen de cumplir con los requisitos establecidos en esta Ley o en otras disposiciones legales aplicables.
+IV. Supervisar permanentemente al personal, los programas de capacitación profesional, el equipo y la operación de los prestadores de servicios de seguridad privada y de similar naturaleza. Para ello, éstas tendrán la obligación de proporcionar la información que les solicite y podrá realizar las visitas de inspección que estime necesarias; y,
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
+
+V. Sancionar conforme a lo dispuesto en el Artículo 49 de este ordenamiento, a los prestadores de servicios de seguridad privada y de similar naturaleza, cuando dejen de cumplir con los requisitos establecidos en esta Ley o en otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 47.
 
@@ -497,13 +703,17 @@ IV. Cancelación del registro con difusión pública de la misma. En este caso, 
 
 V. Clausura de los establecimientos de todas aquellas personas físicas y morales que presten servicios sin la autorización y registro de la Secretaría.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 50.
 
-La Secretaría podrá solicitar a la Procuraduría y al Ayuntamiento que corresponda, el auxilio necesario para la supervisión del funcionamiento de las empresas de seguridad privada.
+La Secretaría podrá solicitar a la Procuraduría y al Ayuntamiento que corresponda, el auxilio necesario para la supervisión del funcionamiento de las empresas prestadoras de servicios de seguridad privada y de similar naturaleza.
 
 ## TÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO TERCERO. DEL SISTEMA DE CARRERA POLICIAL
+### CAPÍTULO PRIMERO. DE LA PARTICIPACIÓN VECINAL Y CIUDADANA
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
 ###### ARTÍCULO 51.
 
@@ -585,25 +795,51 @@ Los Comités Ciudadanos Municipales de Seguridad Pública, tendrán derecho a re
 
 El Estado, a través de la Secretaría y los Ayuntamientos, fomentarán la colaboración de las organizaciones vecinales, asociaciones y sociedades de carácter privado, así como de la ciudadanía en general, en los correspondientes programas preventivos y de seguridad pública.
 
-### CAPÍTULO CUARTO. CONDECORACIONES, ESTÍMULOS Y RECOMPENSAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+### CAPÍTULO SEGUNDO. DEL SERVICIO DE ASISTENCIA TELEFÓNICA
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 55.
 
-La Secretaría, la Procuraduría y los Ayuntamientos establecerán, conjuntamente, el Servicio de Asistencia Telefónica, para responder y orientar a la población en casos de emergencia; coordinar rápida y eficientemente a los Cuerpos de Seguridad y Protección Civil para que presten los primeros auxilios y atención médica especializada.
+La Secretaría, la Procuraduría y los Ayuntamientos establecerán, conjuntamente, el Servicio de Asistencia Telefónica, para responder y orientar a la población en casos de emergencia, coordinar rápida y eficientemente a los Cuerpos de Seguridad Pública en el Estado y auxiliares a que se refiere el artículo 7 de esta Ley, para que presten los primeros auxilios, atención médica y demás servicios a que se refiere esta ley y las demás disposiciones legales aplicables.
 
-El Servicio de Asistencia Telefónica, deberá comprender, por lo menos, auxilio en la localización de personas, bienes y vehículos; recepción de quejas por faltas y actos delictivos de los elementos de seguridad pública y reportes de emergencias.
+El Servicio de Asistencia Telefónica, deberá comprender, por lo menos, la recepción de reportes por delitos, infracciones, conductas cometidas por adolescentes tipificadas como delitos por las leyes, auxilio en la prestación de servicios médicos de urgencia y en la localización de personas, bienes y vehículos, recepción de quejas por faltas y actos delictivos de los elementos de seguridad pública, reportes de emergencias y aquellos otros servicios que se establezcan en la presente ley y los reglamentos aplicables.
+
+La Secretaría, coordinará la prestación del Servicio de Asistencia Telefónica a través del centro de Control, Comando, Comunicación y Computo del Estado, y para su operación, contará por lo menos con la participación de la Procuraduría, las dependencias y unidades administrativas de los Ayuntamientos encargados de la función de seguridad Pública y los cuerpos de seguridad con carácter de auxiliar previstos en el artículo 7 fracciones II y IV de esta ley, quienes deberán designar de manera permanente el personal necesario para poder operar en forma eficaz en el centro de referencia que exista en cada municipio del Estado. La prestación del Servicio de Asistencia Telefónica tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
+
+Las corporaciones e instituciones participantes en los Centros de Control, Comando, Comunicación y Cómputo, no podrán establecer centrales de mando alternas, relacionadas con la prestación del servicio de Asistencia Telefónica que prevé esta Ley.
+
+El Servicio a que se refiere el presente Capítulo será brindado a través de una línea telefónica única, la cual será identificada con el número que integran los dígitos que al efecto asigne la autoridad competente. La marcación de dicho número será gratuita para la población. Los Centros de Control, Comando, Comunicación y Cómputo, deberán de establecerse por lo menos uno por cada municipio de la Entidad. En el Estado de Baja California, no podrán establecerse números telefónicos distintos al determinado por la autoridad competente para la prestación del servicio de asistencia telefónica previsto en esta Ley.
+
+El personal que labore en los Centros a que se refiere el presente capítulo y el de las corporaciones e instituciones referidas en el párrafo tercero del presente artículo, deberán previo ingreso a los mismos, cumplir y aprobar los exámenes de evaluación de confianza que para tal efecto establezca la Secretaría.
+
+Las instituciones a que se refiere el presente capítulo deberán atender los incidentes de las llamadas telefónicas que le sean canalizadas, de conformidad con los lineamientos que para ello establezca la Secretaría.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 56.
 
-El Servicio de Asistencia Telefónica funcionará de conformidad con el Reglamento respectivo que al efecto expida y publique el Ejecutivo del Estado.
+El Servicio de Asistencia Telefónica funcionará de conformidad con el Reglamento respectivo que al efecto expida y publique el Ejecutivo del Estado, el cual, por lo menos, establecerá la estructura, atribuciones y procedimientos de los Centros de Control, Comando, Comunicación y Computo en el Estado, además de regular la participación en los mismos, de las corporaciones e instituciones participantes.
 
-Los Cuerpos de Seguridad Pública y Privada y demás organizaciones de naturaleza homóloga tendrán comunicación directa y permanente con el Servicio de Asistencia Telefónica a efecto de recibir, proporcionar y actualizar información de interés público, conforme a las reglas y lineamientos que convengan.
+Los Cuerpos de Seguridad Pública del Estado y aquellos con carácter de auxiliares, tendrán comunicación directa y permanente con el Servicio de Asistencia Telefónica a efecto de recibir, proporcionar y actualizar información de interés público, conforme a las reglas y lineamientos que se convengan.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 56 BIS.- La coordinación operativa prevista en el presente Capítulo, entre los distintos cuerpos de seguridad pública del Estado y aquellos con carácter de auxiliares previstos en el artículo 7 de la Ley, deberá llevarse a cabo únicamente a través del Centro de Control, Comando, Comunicación y Cómputo en la Entidad, en los cuales la Secretaría promoverá el uso de la información estratégica de seguridad pública, así como de la tecnología necesaria para la mejor prestación del servicio.
+
+La Secretaría deberá establecer la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del servicio de asistencia telefónica.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+ARTÍCULO 56 TER.- La Secretaría, a través del centro de control, comando, comunicación y cómputo, administrara la Red Estatal de Telecomunicaciones de Seguridad Pública, para el intercambio de voz, datos e imágenes, a la cual deberán estar enlazados los Cuerpos de Seguridad Pública y aquellos con carácter de auxiliar previstos en la presente Ley, así como otras instituciones públicas o privadas que se consideren necesarias para el mejoramiento del servicio de asistencia telefónica y en general los servicios de seguridad pública en el Estado.
+
+La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómputo, prestará el servicio de monitoreo y operación de los sistemas de video vigilancia y de cámaras, así como de ubicación de unidades; dicho servicio se prestará de manera unificada con las corporaciones e instituciones participantes previstas en los artículos 6 y 7 de la presente Ley. Los Ayuntamientos deberán integrar a estos Centros cualquier sistema de cámaras, video vigilancia o sistemas de ubicación geográfica de las unidades con que operen.
 
 ## TÍTULO QUINTO. DE LAS BASES Y LINEAMIENTOS GENERALES DE ORGANIZACIÓN PARA LOS CUERPOS DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO QUINTO. DERECHOS DE LOS MIEMBROS DE CUERPOS DE SEGURIDAD PÚBLICA
+### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS DE ACTUACIÓN
 
 ###### ARTÍCULO 57.
 
@@ -649,7 +885,7 @@ XVII. Actuar coordinadamente con otras corporaciones, así como brindarles, en s
 
 XVIII. Estudiar, conocer y respetar esta Ley, su reglamento y demás leyes aplicables y relativas al servicio de seguridad pública.
 
-### CAPÍTULO PRIMERO. DE LOS CORRECTIVOS DISCIPLINARIOS
+### CAPÍTULO SEGUNDO. DE LA PROFESIONALIDAD DE LOS CUERPOS DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 59.
 
@@ -699,7 +935,7 @@ El Instituto Estatal de Policía podrá convenir con Instituciones educativas, n
 
 Las Academias e Instituciones de Policía Municipales, incluirán en la currícula el Programa General de Formación Policial, adecuarán este último a los propios y podrán acordar con el Instituto convenios de colaboración académica.
 
-### CAPÍTULO SEGUNDO. DE LA SUSPENSIÓN TEMPORAL
+### CAPÍTULO TERCERO. DEL SISTEMA DE CARRERA POLICIAL
 
 ###### ARTÍCULO 64.
 
@@ -813,7 +1049,9 @@ La evaluación de las actividades desempeñadas por los elementos de los Cuerpos
 
 Para efecto de dar cumplimiento a lo dispuesto por el artículo anterior, los Jefes Inmediatos Superiores de cada elemento de seguridad pública, requisitará los cuestionarios que señale el Reglamento de Promociones, Ascensos y Reconocimientos, tendientes a conocer y evaluar su desempeño. Los resultados deberán darse a conocer a cada elemento de seguridad oportunamente y por escrito.
 
-### CAPÍTULO TERCERO. DE LOS REQUISITOS DE PERMANENCIA
+### CAPÍTULO CUARTO. CONDECORACIONES, ESTÍMULOS Y RECOMPENSAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 75.
 
@@ -857,7 +1095,7 @@ III. Al Mérito Social, cuando se distinga particularmente en la prestación de 
 
 Los estímulos y recompensas, se ajustarán a lo establecido en el Decreto de Presupuesto de Egresos y se otorgarán a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficiencia en el desempeño de sus funciones.
 
-### CAPÍTULO CUARTO. DEL CONSEJO DE HONOR Y JUSTICIA
+### CAPÍTULO QUINTO. DERECHOS DE LOS MIEMBROS DE CUERPOS DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 81.
 
@@ -865,7 +1103,7 @@ Los estímulos y recompensas, se ajustarán a lo establecido en el Decreto de Pr
 
 ## TÍTULO SEXTO. DEL RÉGIMEN DISCIPLINARIO
 
-### CAPÍTULO QUINTO. DEL RECURSO DE REVISIÓN
+### CAPÍTULO PRIMERO. DE LOS CORRECTIVOS DISCIPLINARIOS
 
 ###### ARTÍCULO 82.
 
@@ -899,6 +1137,8 @@ Los estímulos y recompensas, se ajustarán a lo establecido en el Decreto de Pr
 
 (DEROGADO, P.O. 16 DE ENERO DE 2004)
 
+### CAPÍTULO SEGUNDO. DE LA SUSPENSIÓN TEMPORAL
+
 ###### ARTÍCULO 90.
 
 (DEROGADO, P.O. 16 DE ENERO DE 2004)
@@ -913,9 +1153,13 @@ Los estímulos y recompensas, se ajustarán a lo establecido en el Decreto de Pr
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
 
+### CAPÍTULO TERCERO. DE LOS REQUISITOS DE PERMANENCIA
+
 ###### ARTÍCULO 93.
 
 (DEROGADO, P.O. 16 DE ENERO DE 2004)
+
+### CAPÍTULO CUARTO. DEL CONSEJO DE HONOR Y JUSTICIA
 
 ###### ARTÍCULO 94.
 
@@ -934,6 +1178,8 @@ Los estímulos y recompensas, se ajustarán a lo establecido en el Decreto de Pr
 (DEROGADO, P.O. 29 DE JUNIO DE 2001)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ENERO DE 2004)</small>
+
+### CAPÍTULO QUINTO. DEL RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 98.
 
@@ -1108,3 +1354,11 @@ P.O. 29 DE SEPTIEMBRE DE 2006.
 P.O. 14 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Con relación a las armas que se hubieren entregado con fecha anterior a la entrada en vigor de la presente reforma el Gobierno del Estado, por conducto de la Secretaría de Seguridad Pública o la Procuraduría de Justicia y para efecto de lo previsto en el párrafo final del artículo 26 del presente Decreto llevará a cabo la revisión correspondiente.
+
+TERCERO.- La Secretaría emitirá la reglamentación correspondiente dentro de los 45 días siguientes a la entrada en vigor de las presentes reformas.
