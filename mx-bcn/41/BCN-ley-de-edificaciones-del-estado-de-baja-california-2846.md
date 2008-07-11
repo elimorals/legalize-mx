@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2000-11-03"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -807,6 +807,10 @@ Cuando un predio con construcción se encuentre en estado de abandono que posibi
 
 Para los efectos de la disposición anterior, se entiende que una construcción se encuentra en estado de abandono, cuando no sea habitada por sus propietarios o poseedores por más de un año y existan reportes policiacos, administrativos, o testimonios de vecinos que así lo indiquen.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2008)</small>
+
+Las autoridades municipales podrán celebrar convenios de coordinación con el Ejecutivo Estatal, a fin de que se ejerzan de manera conjunta las atribuciones que en relación con los bienes en estado de abandono les confiere este artículo.
+
 ## TITULO SEPTIMO. Trámites Administrativos
 
 ### CAPITULO I. Licencias y Autorizaciones
@@ -1208,3 +1212,7 @@ P.O. 3 DE NOVIEMBRE DE 2000.
 PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En un plazo de tres meses a partir del día en que inicie su vigencia la presente reforma, los Ayuntamientos Municipales deberán adecuar su marco jurídico reglamentario que permita a sus dependencias, ejercer las atribuciones conferidas.
+
+P.O. 11 DE JULIO DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
