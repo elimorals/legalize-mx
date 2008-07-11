@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2007-08-31"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -943,7 +943,9 @@ X.- Nombrar y remover libremente al Secretario de Gobierno y a los Funcionarios 
 
 XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
-XII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 1995)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2008)</small>
+
+XII.- Fomentar, impulsar y promover el desarrollo sustentable de la pesca y acuacultura en el Estado, considerando la participación del sector social y privado, así como coordinarse con la Federación y los Municipios de nuestra Entidad, cuando su intervención sea requerida para el ejercicio de las atribuciones que en esta materia les competan de conformidad con la presente Constitución y las leyes que correspondan.
 
 XIII.- Expedir los títulos profesionales con arreglo a las leyes y reconocer la validez de los que se expidan, en otras Entidades de la Federación, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución de los Estados Unidos Mexicanos;
 
@@ -2858,3 +2860,11 @@ Aprobada que sea la presente reforma, deberá enviarse a los Ayuntamientos del E
 ###### ARTÍCULO TERCERO.
 
 En un término que no exceda de 30 días en la entrada en vigor de dicha reforma, el Congreso del Estado deberá emitir la Ley reglamentaria a la que refiere el párrafo cuarto del artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 11 DE JULIO DE 2008.
+
+PRIMERO.- Una vez aprobada la presente reforma por el Poder Legislativo envíese a los Ayuntamientos de la entidad en cumplimiento del artículo 112 de la Constitución Política del Estado.
+
+SEGUNDO.- Luego de haber obtenido el voto aprobatorio de los Ayuntamientos, hágase la declaratoria correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
