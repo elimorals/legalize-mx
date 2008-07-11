@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2008-02-29"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -931,15 +931,21 @@ II.- Vigilar la elaboración y actualización del plan y programas de desarrollo
 
 III.- Proponer al Cabildo, los mecanismos e instrumentos necesarios para eficientar los programas de desarrollo urbano y control ecológico que implemente la administración municipal;
 
-IV.- Dictaminar y opinar en asuntos sobre ingeniería de tránsito;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+IV.- Dictaminar u opinar sobre asuntos que le sean turnados en materia de catastro, control urbano, ingeniería de tránsito y ecología;
 
-V.- Intervenir en la formulación de propuestas para determinar, modificar y actualizar la nomenclatura de vialidades y espacios públicos del municipio, de acuerdo con la normatividad aplicable; y,
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2008)</small>
+V.- Proponer al Cabildo mecanismos que permitan optimizar, modernizar y hacer eficientes los procedimientos que lleven a cabo las áreas responsables de las funciones referidas en la Fracción anterior;
 
-VI.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
+
+VI.- Intervenir en la formulación de propuestas para determinar, modificar y actualizar la nomenclatura de vialidades y espacios públicos del municipio, de acuerdo con la normatividad aplicable; y,
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2008)</small>
+
+VII.- Las demás que el Ayuntamiento y este Reglamente (sic) le encomienden.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1356,3 +1362,7 @@ P.O. 29 DE FEBRERO DE 2008.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los reglamentos y acuerdos del Ayuntamiento que se refieran a cualquiera de las comisiones cuya denominación o atribuciones se modifican por medio de la presente reforma, se entenderá que establecen facultades u obligaciones a la comisión que corresponda de acuerdo con la denominación y funciones a que se refiere el presente Acuerdo.
+
+P.O. 11 DE JULIO DE 2008.
+
+Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
