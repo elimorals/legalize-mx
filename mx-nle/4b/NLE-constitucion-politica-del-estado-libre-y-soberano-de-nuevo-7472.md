@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2008-06-17"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -187,47 +187,83 @@ El Estado de Nuevo León comprende el Territorio de lo fué (sic) provincia del 
 
 Del Proceso Electoral.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 41.
 
-El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado se realizará en elecciones libres, auténticas y periódicas, a través de la emisión del sufragio universal, igual, libre, secreto y directo.
+El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado se realizará en elecciones libres, auténticas y periódicas, a través de la emisión del sufragio universal, igual, libre, secreto y directo. La Jornada Electoral se llevará a cabo el primer domingo de julio del año de la elección.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 42.
 
-Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida política y permitir el acceso de éstos a la integración de los órganos de representación popular. Los partidos políticos nacionales y estatales con registro gozarán para todos los efectos legales de personalidad jurídica y patrimonio propio, mismo que administrarán libremente; y tendrán derecho a participar en los procesos electorales para elegir al Gobernador, a los Diputados del Congreso y a los integrantes de los Ayuntamientos del Estado, en los términos que prevea la Ley Electoral.
+Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida política y permitir el acceso de éstos a la integración de los órganos de representación popular. Los partidos políticos nacionales o con registro en el estado gozarán para todos los efectos legales de personalidad jurídica y patrimonio propio, mismo que administrarán libremente; teniendo el derecho exclusivo para solicitar el registro de candidatos a participar en los procesos electorales para elegir al Gobernador, a los Diputados al Congreso y a los integrantes de los Ayuntamientos del Estado, en los términos que prevea la Ley Electoral.
+
+Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto en la creación de partidos políticos quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente, así como cualquier forma de afiliación corporativa.
+
+Las autoridades electorales solamente pueden intervenir en los asuntos internos de los partidos en los términos que expresamente señalen esta Constitución y la ley electoral del Estado.
 
 Los partidos políticos coadyuvarán con los organismos electorales en la vigilancia para que las distintas etapas del proceso electoral se realicen con pleno respeto a lo dispuesto por esta Constitución, la ley electoral y demás leyes relativas.
 
 Las autoridades del Estado garantizarán en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas.
 
-La ley garantizará que los partidos políticos con registro nacional o estatal cuenten de manera equitativa y permanente con elementos para la realización de sus actividades, siempre y cuando las realicen en el Estado. En ella se establecerán las reglas para el financiamiento público que se otorgará a los partidos políticos que participen en las elecciones estatales y para la renovación de los integrantes de los Ayuntamientos de la entidad.
+La ley electoral garantizará que los partidos políticos con registro estatal o nacional cuenten de manera equitativa y permanente con elementos para la realización de sus actividades, siempre y cuando las realicen en el Estado. En ella se establecerán las reglas para el financiamiento público de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y para actividades específicas, relativas a educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, que se otorgará a los partidos políticos que participen en las elecciones estatales y para la renovación de los integrantes de los Ayuntamientos de la entidad.
+
+La ley electoral establecerá el procedimiento para la disolución y liquidación de los partidos que pierdan su registro estatal y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
 
 El monto total del financiamiento permanente que se otorgue a los Partidos Políticos será incrementado en el período electoral, en los términos que determine la ley.
 
 El setenta por ciento del total del financiamiento público que se otorgue a los partidos políticos se distribuirá de acuerdo al porcentaje de votación que éstos hayan obtenido en la última elección de Diputados Locales. El treinta por ciento restante se asignará en forma igualitaria a los partidos políticos contendientes que tengan representación en el Congreso del Estado.
 
-La ley establecerá los límites a las erogaciones de los partidos políticos en las distintas campañas electorales; el monto máximo de las aportaciones que podrán realizarse en numerario provenientes de sus simpatizantes; los procedimientos para la fiscalización y vigilancia que deban efectuarse sobre el origen y aplicación de todos los recursos con que cuenten los partidos políticos y para dar a conocer el patrimonio que poseen al iniciar el período electoral; así como las sanciones que deban aplicarse en el caso de incumplimiento de las disposiciones en esta materia.
+En materia de fiscalización, para superar la limitación de los secretos bancario, fiduciario o fiscal, la instancia competente de la Comisión Estatal Electoral deberá coordinarse con el órgano que tenga tal atribución en el Instituto Federal Electoral.
 
-Las autoridades del Estado y los órganos electorales promoverán las acciones necesarias para asegurar que los partidos políticos tengan acceso en forma equitativa a los medios de comunicación masiva.
+Los partidos políticos ejercerán su derecho de acceso a la radio y televisión conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en las leyes reglamentarias aplicables.
 
-La ley establecerá los recursos y medios de defensa, así como las responsabilidades y sanciones por actos violatorios a esta Constitución y a las leyes en materia electoral, garantizando que se fijen los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad en radio y televisión.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio o televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargo de elección popular. Queda prohibida la transmisión en territorio del estado de este tipo de mensajes contratados en el territorio nacional o en el extranjero.
+
+En la propaganda política o electoral que difundan los partidos políticos por cualquier medio, deberán de abstenerse de expresiones que denigren a las instituciones públicas o privadas, a los partidos políticos o que calumnien a las personas.
+
+La Ley Electoral establecerá entre otras, las disposiciones siguientes:
+
+I. Las reglas para establecer los límites a las erogaciones de los partidos políticos en sus procesos de precampaña y en las campañas electorales, los montos máximos que tengan las aportaciones de sus simpatizantes, cuya suma total no excederá del diez por ciento del tope de gastos de campaña que se determine para la elección del Gobernador y cuando sólo se elijan Diputados al Congreso y Ayuntamientos del Estado el monto máximo no excederá de la cantidad fijada en la anterior elección de Gobernador más el índice de inflación acumulado a la fecha de su determinación que señale la autoridad oficial correspondiente; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como para dar a conocer el patrimonio que poseen al iniciar el período electoral y el establecimiento de las sanciones para el incumplimiento de las disposiciones que se expidan en estas materias;
+
+II. Las reglas para que de manera permanente los organismos electorales y los partidos políticos; así como los candidatos y precandidatos en los períodos de campaña y precampaña, transparenten sus ingresos y egresos;
+
+III. Los términos y condiciones, en que en las elecciones de Gobernador, Diputados al Congreso y Ayuntamientos del Estado durante las campañas respectivas será obligatoria la participación de los candidatos a un debate público, cuya organización corresponderá a la Comisión Estatal Electoral; y
+
+IV. Las reglas y plazos para la realización de los procesos de precampañas y campañas electorales.
+
+En todo caso, la duración de las campañas no deberá de exceder de noventa días para la elección de Gobernador, ni de sesenta días cuando sólo se elijan Diputados al Congreso y Ayuntamientos del Estado; en ningún caso la duración de las precampañas podrá exceder de las dos terceras partes del tiempo de las respectivas campañas electorales.
+
+La violación a estas disposiciones por los partidos políticos o cualquier persona física o moral, será sancionada conforme a la ley.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 43.
 
-La organización de las elecciones es una función estatal que se ejerce bajo los principios de legalidad, imparcialidad, objetividad, certeza e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios. La ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado designados para tal efecto por el Congreso del Estado por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso.
+La organización de las elecciones es una función estatal que se ejerce bajo los principios de legalidad, imparcialidad, objetividad, certeza, e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios. La ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado designados para tal efecto por el Congreso del Estado por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso.
+
+La Comisión Estatal Electoral podrá celebrar convenios de coordinación y colaboración con los organismos electorales federales. Tratándose de la organización de los procesos electorales del Estado de Nuevo León, la Comisión Estatal Electoral, previa autorización de las dos terceras partes de los integrantes del Congreso del Estado, podrá convenir con el Instituto Federal Electoral que éste se haga cargo.
+
+Los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral y los titulares de primer nivel que integren dichos órganos, así como los Comisionados Municipales Electorales, no podrán ocupar dentro de los dos años siguientes a la fecha de su retiro, cargos en los poderes públicos o en las administraciones municipales en cuya elección hayan participado de manera directa.
 
 El Gobierno del Estado y las Autoridades Municipales están obligados a prestar a los organismos electorales el auxilio material e institucional que requieran para el desarrollo de sus actividades, así como el que la propia ley les señale.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1999)</small>
+Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes Legislativo, Ejecutivo y Judicial, como de los municipios, y de cualquier otro ente público estatal o municipal. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en caso de emergencia.
+
+Los servidores públicos del Estado y Municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin afectar la equidad de la competencia entre los partidos políticos.
+
+La propaganda bajo cualquier modalidad de comunicación social que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los órganos de gobierno estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso podrá incluir nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los tres párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 44.
 
-Para conocer y resolver las impugnaciones y controversias que se susciten dentro de los procesos electorales de la competencia estatal o con motivo de la impugnación de los resultados de los mismos, se establecerá en el estado un órgano jurisdiccional independiente con autonomía funcional y presupuestal, que tendrá a su cargo el desahogo de los recursos y resolución de las controversias que se planteen en la materia. La ley establecerá sus atribuciones, forma de organización y funcionamiento.
+Para conocer y resolver las impugnaciones y controversias que se susciten dentro de los procesos electorales de la competencia estatal o con motivo de la impugnación de los resultados de los mismos, se establecerá en el estado un órgano jurisdiccional independiente con autonomía funcional y presupuestal, que tendrá a su cargo el desahogo de los recursos y la resolución de las controversias que se planteen en la materia con plenitud de jurisdicción en sus resoluciones. La ley establecerá sus atribuciones, forma de organización y funcionamiento del mismo.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1999)</small>
 
@@ -237,13 +273,13 @@ En una partida del presupuesto de egresos, el Congreso del Estado, considerará 
 
 La autoridad en materia contencioso electoral se integrará por el número de Licenciados en Derecho que la Ley determine, designados por el Congreso del Estado, por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso; y que, además de cumplir los requisitos establecidos para los ciudadanos que deban integrar el órgano responsable de conducir los procesos electorales, deberán contar con por lo menos 35 años de edad y 10 años de ejercicio profesional.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 45.
 
-La Ley Electoral del Estado, reglamentaria de esta Constitución en la materia, regulará y garantizará el desarrollo de los procesos electorales; el ejercicio del sufragio; los derechos, obligaciones, organización y funciones de los partidos, asociaciones políticas y organismos electorales; la preparación, desarrollo, vigilancia, cómputo y calificación de las elecciones; el procedimiento de lo contencioso electoral; y en general las demás disposiciones relativas al proceso electoral.
+La Ley Electoral del Estado, reglamentaria de esta Constitución en la materia, regulará y garantizará el desarrollo de los procesos electorales; el ejercicio del sufragio; los derechos, obligaciones, organización y funciones de los partidos, asociaciones políticas y organismos electorales; la preparación, desarrollo, vigilancia, cómputo y calificación de las elecciones; el procedimiento de lo contencioso electoral; los recursos y medios de defensa, las responsabilidades y sanciones por actos violatorios a esta Constitución y a las leyes en materia electoral, así como los supuestos y reglas para la realización, en los ámbitos administrativos y jurisdiccional, de recuentos totales o parciales de votación, las causales de nulidad de las elecciones de Gobernador, Diputados al Congreso o Ayuntamientos del Estado; así como los plazos convenientes para el desahogo de todas las instancias impugnativas, sujetando todos los actos y resoluciones electorales invariablemente al principio de legalidad y tomando en cuenta el principio de definitividad de las etapas de los procesos electorales y en general las demás disposiciones relativas al proceso electoral.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+Así mismo, las leyes ordinarias establecerán los delitos y las faltas en materia electoral y las sanciones que por ello deban imponerse.
 
 El organismo electoral competente con la participación del Gobierno del Estado, de los Partidos Políticos y los Ciudadanos, actualizará permanentemente el padrón electoral.
 
@@ -569,11 +605,11 @@ XLII.- Elevar las Villas a la categoría de Ciudades por iniciativa de aquéllas
 
 XLIII.- Expedir leyes relativas al trabajo digno y socialmente útil, que rijan las relaciones de trabajo entre el Estado, los Municipios o las entidades paraestatales y sus trabajadores, así como las prestaciones de seguridad social de dichos trabajadores.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1983)</small>
 
 La jornada diaria máxima de trabajo diurna y nocturna, será de ocho y siete horas, respectivamente.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1983)</small>
 
 A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 
@@ -1329,7 +1365,7 @@ Art.- 103.- El Poder Judicial definirá y ejercerá en forma autónoma sus parti
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
-El Consejo de la Judicatura del Estado, formulará el Presupuesto de Egresos del Poder Judicial, y lo enviará al Poder Legislativo para su consideración en el presupuesto de egresos del Estado.
+El Consejo de la Judicatura del Estado, formulará el Presupuesto de Egresos, del Poder Judicial, y lo enviará al Poder Legislativo para su consideración en el presupuesto de egresos del Estado.
 
 Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura del Estado y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente por el Congreso del Estado.
 
@@ -1343,15 +1379,13 @@ Art.- 104.- Los Jueces Menores serán Licenciados en Derecho, tendrán las facul
 
 De las Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 105.
 
-Para los efectos de lo preceptuado en este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los servidores o empleados y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, ya sea del Estado o los Municipios; quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de lo preceptuado en este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los servidores o empleados y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado o en la administración publica, ya sea del Estado o los municipios, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
-
-Los ciudadanos que conformen los organismos electorales, los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral y los Comisionados de la Comisión de Acceso a la Información Pública, estarán con motivo del desempeño de su encargo, sujetos a las responsabilidades de los servidores públicos a que se refieren este artículo y las leyes reglamentarias
+Los integrantes que conforman los organismos electorales, los que fueren designados para integrar el Tribunal Electoral, y en general a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, estarán con motivo del desempeño de su encargo, sujetos a las responsabilidades de los servidores públicos a que se refieren este artículo y las leyes reglamentarias.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -2001,11 +2035,13 @@ El contrato de trabajo sólo obligará a prestar el servicio convenido por el ti
 
 La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 6o.
 
-La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que se ataque a la moral, los derechos de tercero, provoque algún delito o perturbe el orden público. El derecho a la información será garantizado por el Estado.
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho a réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 El ejercicio del derecho de acceso a la información, se regirá bajo los siguientes principios y bases:
 
@@ -3114,3 +3150,9 @@ Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su 
 P.O. 17 DE JUNIO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2008.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
