@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-adquisiciones-arrendamientos-y-contratacion-33443
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-08"
-last_updated: "2006-06-30"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE MEXICALI BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de agosto de 2003.
 
@@ -171,7 +171,9 @@ c) El Tesorero Municipal, como vocal;
 
 d) El Regidor Coordinador de la Comisión de Hacienda del Ayuntamiento, como vocal;
 
-e) El Regidor Coordinador de la Comisión de Administración Pública del Ayuntamiento, como vocal;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+e) El Regidor Coordinador de la Comisión de Administración Pública y Patrimonio Municipal, del Ayuntamiento, como vocal;
 
 f) El titular de la dependencia solicitante de la adquisición, arrendamiento o servicio, como vocal.
 
@@ -180,6 +182,10 @@ II.- Con derecho a voz pero sin voto:
 a) El Jefe de Recursos Materiales, como Secretario Técnico;
 
 En caso de no acudir el titular de alguna de las dependencias, podrá ser representado por otro funcionario previamente designado por este, quien contará con las mismas facultades que se le confieren en este reglamento.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+
+En el caso de que los Regidores referidos en los incisos d) y e) de la Fracción I de este Artículo, no puedan asistir a las sesiones del Comité, podrán designar a uno de los Regidores integrantes de las Comisiones que coordinan, quienes actuarán en suplencia de aquellos con las mismas atribuciones que les otorga este ordenamiento.
 
 Podrán ser invitados los servidores públicos cuya intervención se considere necesaria, para aclarar aspectos técnicos o administrativos relacionados con los asuntos sometidos a la consideración del comité.
 
@@ -375,9 +381,11 @@ En casos de Recursos Federales y Estatales, se estará a las leyes que correspon
 
 En los casos en que existan recursos convenidos, se estará a los que establezcan las partes u órdenes de gobierno de donde estos provengan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 28.
 
-No obstante lo previsto en el artículo anterior, en sus fracciones II, III, IV, y V podrán realizarse adquisiciones sin sujetarse a la solicitud de cotizaciones en los siguientes casos:
+No obstante lo previsto en el artículo anterior, en sus fracciones II, III, IV, y V podrán realizarse adquisiciones a través del procedimiento de adjudicación directa sin sujetarse a la solicitud de cotizaciones o licitación pública, en los siguientes casos:
 
 I. Cuando sea necesario adquirir un bien o contratar un servicio con características o marca especifica que un sólo proveedor pueda proporcionar;
 
@@ -385,11 +393,21 @@ II. Cuando se trate de adquisiciones, arrendamientos o servicios extraordinarias
 
 III. Cuando las adquisiciones, arrendamientos o servicios requieran de un desarrollo recreativo o un servicio de consultoría especializada;
 
-IV. Cuando el contrato sólo pueda celebrarse con una determinada persona por ser la titular de la patente, derechos de autor, u otros derechos exclusivos; y
+IV. Cuando el contrato sólo pueda celebrarse con una determinada persona por ser la titular de la patente, derechos de autor, u otros derechos exclusivos; y (sic)
 
 V. Cuando se trate de adquisición de bienes usados, en este último caso, su precio de adquisición no debe ser superior al del avalúo, que practicarán las instituciones de crédito u otros legitimados para ello;
 
-La Oficialía, en la realización de alguno de los supuestos señalados anteriormente, deberá someterlo previamente a la Opinión del Comité exceptuando la fracción II.
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2008)</small>
+
+VI. Cuando dos procedimientos de cotización hayan sido declarados desiertos; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2008)</small>
+
+VII. Cuando se realicen dos licitaciones públicas que hayan sido declaradas desiertas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE JULIO DE 2008)</small>
+
+La Oficialía, en la realización de alguno de los supuestos señalados anteriormente, deberá someterlo previamente a la opinión del Comité.
 
 ### CAPÍTULO QUINTO. DE LOS LINEAMIENTOS DE ADJUDICACIÓN DIRECTA Y DE COTIZACIÓN POR ESCRITO
 
@@ -1010,3 +1028,7 @@ P.O. 30 DE JUNIO DE 2006.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 SEGUNDO.- Las adquisiciones de bienes iniciadas con anterioridad a la vigencia de las presentes reformas se realizarán conforme a los criterios y procedimientos estipulados en este reglamento.
+
+P.O. 11 DE JULIO DE 2008.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
