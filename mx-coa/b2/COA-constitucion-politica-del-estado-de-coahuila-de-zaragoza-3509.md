@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2008-06-10"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -706,11 +706,11 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Artículo 49.
 
-El Gobernador del Estado asistirá cada año al Congreso, dentro de los primeros quince días del segundo período ordinario de sesiones, y rendirá un informe del estado general que guarda la administración pública del Estado. La Ley Orgánica del Congreso establecerá las formalidades del acto.
+El Gobernador del Estado informará por escrito anualmente al Congreso dentro de los primeros diez días del mes de noviembre, sobre el estado general que guarda la administración pública estatal.
 
 ###### Artículo 50.
 
@@ -1476,9 +1476,9 @@ III. Cuidar de la observancia de la Constitución Política de los Estados Unido
 
 Asimismo, será deber del Gobernador del Estado, publicar y hacer cumplir las leyes y decretos federales.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
 
-IV. Concurrir cada año al Congreso, dentro de los primeros quince días del segundo período ordinario de sesiones, y rendir, en ese acto, un informe sobre el estado que guarda la administración pública del Estado.
+IV. Informar por escrito anualmente al Congreso, dentro de los primeros diez días del mes de noviembre, sobre el estado general que guarda la administración pública estatal.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -2522,7 +2522,9 @@ El Municipio Libre.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPÍTULO II. EL GOBIERNO MUNICIPAL
+### CAPITULO II.
+
+El Gobierno Municipal.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -4153,3 +4155,9 @@ P.O. 10 DE JUNIO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2008.
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
