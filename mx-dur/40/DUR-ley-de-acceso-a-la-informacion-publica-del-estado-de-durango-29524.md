@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-acceso-a-la-informacion-publica-del-estado-de-durango-29
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-27"
-last_updated: "2004-03-04"
+last_updated: "2008-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 27 de febrero de 2003.
 
@@ -694,3 +696,31 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2008.
+
+Artículo Primero.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango. Una vez publicado entrará en vigor al tercer día de la publicación del decreto N° 156 que reforma el artículo 5º de la Constitución Política del Estado Libre y Soberano de Durango.
+
+Artículo Segundo.- Se abroga la Ley de Acceso a la Información Pública del Estado de Durango, aprobada mediante Decreto 193 de la LXII Legislatura de fecha 25 de febrero de 2003, que fue publicado en el Periódico Oficial del Gobierno Constitucional del Estado No. 17 de fecha 27 de febrero del mismo año, y se derogan las reformas y adiciones que hubieren sido incorporadas. Asimismo, se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+Artículo Tercero.- Los integrantes de la Comisión, y demás personal adscrito a la misma continuarán con el mismo carácter en el ejercicio de sus cargos y con reconocimiento de su antigüedad en el servicio.
+
+La integración y constitución de la Comisión, será en los términos que aluden los artículos 63 y 64 y demás relacionados de la presente ley, al momento de su entrada en vigor.
+
+Para la integración de la Comisión, los Comisionados que actualmente ocupan el cargo, concluirán el periodo para el cual fueron designados, debiendo designarse nuevos comisionados conforme a lo dispuesto por esta ley.
+
+La Comisión expedirá su nuevo Reglamento Interior en un periodo no mayor de sesenta días hábiles a partir de la entrada en vigor de la presente ley.
+
+Artículo Cuarto.- De conformidad con las disposiciones presupuestales de cada sujeto obligado se deberán implementar sistemas electrónicos de consulta, para permitir el acceso a la información de manera remota, en un plazo que no exceda de 1 año a partir de la entrada en vigor de la presente ley.
+
+Artículo Quinto.- Los sujetos obligados, emitirán sus reglamentos, para proporcionar a los particulares el acceso a la información pública, de conformidad a las bases y principios establecidos en esta ley. Estos reglamentos deberán ser expedidos en un plazo que no exceda de sesenta días hábiles a partir de la entrada en vigor de la presente ley.
+
+Artículo Sexto.- Las solicitudes de información o recursos que se encuentren en trámite ante los sujetos obligados o la Comisión se resolverán de conformidad con la ley que les dio origen.
+
+Artículo Séptimo.- La Comisión deberá implementar procedimientos de verificación del cumplimiento de la información de oficio contenida en las páginas de internet de los sujetos obligados de esta ley; la verificación deberá hacerse pública en forma trimestral.
+
+Artículo Octavo.- Los sujetos obligados expedirán en un plazo que no exceda de treinta días hábiles a partir de la entrada en vigor del presente ordenamiento, el acuerdo de creación de su Comité, en el cual se establecerá su organización y funcionamiento, el cual deberá ser publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Noveno.- Los sujetos obligados deberán implementar las medidas necesarias para cumplir las obligaciones que en materia de indicadores gestión prevé la presente ley.
+
+Artículo Décimo.- Se faculta a la Comisión y a los sujetos obligados para convenir la adopción del sistema de INFOMEX para cumplimentar las obligaciones del servicio de internet que contiene la presente.
