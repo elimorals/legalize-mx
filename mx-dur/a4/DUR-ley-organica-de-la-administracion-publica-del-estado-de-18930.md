@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2007-12-30"
+last_updated: "2008-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2008.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -259,7 +259,7 @@ VII. Secretaría de Educación;
 
 VIII. Secretaría de Contraloría y Modernización Administrativa;
 
-IX. Secretaria de Recursos Naturales y Medio Ambiente; y
+IX. Secretaria de Recursos Naturales y Medio Ambiente; y (sic)
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -267,15 +267,19 @@ X. Secretaría de Seguridad Pública;
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-XI. Secretaría de Desarrollo Social; y
+XI. Secretaría de Desarrollo Social; y (sic)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-XII.- Secretaría de Turismo; y
+XII.- Secretaría de Turismo; y (sic)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2008)</small>
 
-XIII.- Procuraduría General oe Justicia.
+XIII.- Secretaría del Trabajo y Previsión Social; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2008)</small>
+
+XIV.- Procuraduría General de Justicia.
 
 ###### ARTICULO 29.
 
@@ -353,9 +357,9 @@ XXXI. Administrar y vigilar el servicio de transporte público de bienes y cosas
 
 XXXII. Otorgar, modificar y revocar las concesiones y permisos necesarios para la explotación de servicio público de transporte en vialidades de jurisdicción estatal en todas las modalidades que contempla la ley de transportes del Estado;
 
-XXXIII. Coadyuvar con las autoridades federales para vigilar el cumplimiento de las disposiciones contenidas en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y en los reglamentos estatales vigentes en materia laboral, así mismo, ejercer las funciones que en materia de trabajo y conciliación administrativa, le corresponden al titular del Poder Ejecutivo del Estado;
+XXXIII. (DEROGADA, P.O. 13 DE JULIO DE 2008)
 
-XXXIV. Organizar y vigilar la Procuraduría Estatal de la Defensa del Trabajo, y las Juntas y Tribunales Locales de Conciliación y Arbitraje;
+XXXIV. (DEROGADA, P.O. 13 DE JULIO DE 2008)
 
 XXXV. Tramitar los recursos administrativos que competa resolver al Gobernador del Estado;
 
@@ -673,7 +677,7 @@ XLVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 32 bis.- La Secretaría de Turismo, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la Administración Pública Estatal, relacionadas con el fomento y desarrollo de las actividades turísticas y cinematográficas en el Estado, asegurando, en coordinación con las dependencias correspondientes, el aprovechamiento sustentable y la preservación de los recursos naturales y culturales.
+ARTICULO 32 bis. La Secretaría de Turismo, es la dependencia responsable de dirigir la planeación, programación y evaluación de las actividades de la Administración Pública Estatal, relacionadas con el fomento y desarrollo de las actividades turísticas y cinematográficas en el Estado, asegurando, en coordinación con las dependencias correspondientes, el aprovechamiento sustentable y la preservación de los recursos naturales y culturales.
 
 La Secretaría tiene como objeto esencial el fomento, la regulación y promoción del desarrollo turístico y cinematográfico del Estado, a fin de generar empleos, incrementar la venta de productos manufacturados y elevar la competitividad de las empresas duranguenses, le corresponde el despacho de los siguientes asuntos:
 
@@ -1074,6 +1078,66 @@ XXXI. Establecer los mecanismos que permitan instrumentar y operar el servicio p
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 XXXII. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2008)</small>
+
+ARTICULO 36 bis. La Secretaría del Trabajo y Previsión Social es la dependencia responsable de ejercer las atribuciones que en materia del trabajo le competen al Poder Ejecutivo del Estado. Le corresponde el despacho de los siguientes asuntos:
+
+I. Ejercer las atribuciones que en materia de trabajo correspondan al Poder Ejecutivo del Estado;
+
+II. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo;
+
+III. Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en sus reglamentos, de los ordenamientos jurídicos internacionales aplicables en materia de trabajo, así como las que regulen las relaciones del Gobierno del Estado con sus trabajadores;
+
+IV. Diseñar, conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos en la entidad, así como ejercer facultades de coordinación de los organismos de justicia laboral;
+
+V. Atender las consultas sobre la interpretación de las normas laborales o sobre los contratos colectivos de trabajo, así como intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+VI. Proponer al titular del Ejecutivo los proyectos de iniciativas de ley, reglamentos, decretos, acuerdos y disposiciones de carácter general sobre asuntos de naturaleza laboral;
+
+VII. Visitar los centros de trabajo para constatar que se cumpla con las condiciones de trabajo y de higiene y seguridad que establece la Ley Federal del Trabajo y demás normas aplicables;
+
+VIII. Mediar y conciliar, a petición de parte, en los conflictos que surjan de presuntas violaciones a las normas laborales o a los contratos colectivos de trabajo;
+
+IX. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores, así como elaborar y ejecutar programas de capacitación laboral en el Estado;
+
+X. Diseñar y ejecutar, previa aprobación del Gobernador del Estado, el Plan Estatal de Empleo;
+
+XI. Organizar y operar el Servicio Estatal de Empleo;
+
+XII. Promover y apoyar el incremento de la calidad y la productividad laboral;
+
+XIII. Promover y apoyar la organización social para el trabajo y el auto empleo;
+
+XIV. Coordinar y vigilar a las Juntas y Tribunales Locales de Conciliación y Arbitraje y a la Procuraduría Estatal de la Defensa del Trabajo;
+
+XV. Participar en la integración y el funcionamiento de las comisiones y comités transitorios o permanentes necesarios para la mejor atención de los asuntos de naturaleza laboral;
+
+XVI. Procurar la conciliación de los conflictos laborales colectivos o individuales con el objeto de que las partes resuelvan sus diferencias mediante la celebración de convenios;
+
+XVII. Vigilar que se proporcione asesoría gratuita en materia laboral a los sindicatos y trabajadores que así lo soliciten, por conducto de la Procuraduría Estatal de la Defensa del Trabajo;
+
+XVIII. Vigilar la instalación y funcionamiento de las comisiones obrero patronales que establezca la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
+
+XIX. Promover el incremento de la productividad del trabajo en el territorio estatal en coordinación con la Secretaria de Desarrollo Económico;
+
+XX. Realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación para incrementar la productividad en el trabajo que requieran los sectores productivos del Estado, en coordinación con otras dependencias;
+
+XXI. Recabar y actualizar la información estadística de los sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales y profesionales;
+
+XXII. Suscribir convenios y acuerdos de colaboración con autoridades, instituciones u organizaciones federales, estatales o municipales, e internacionales con el objeto de fortalecer la cultura laboral en la entidad;
+
+XXIII. Promover, en coordinación con las autoridades competentes, la integración laboral de personas pertenecientes a grupos vulnerables, así como de aquellas recluidas en los centros de readaptación social;
+
+XXIV. Difundir los cambios que se den en las normas laborales;
+
+XXV. Fungir como órgano de consulta ante los sectores productivos de la entidad encaminados a mantener la estabilidad laboral;
+
+XXVI. Llevar las estadísticas estatales correspondientes a la materia del trabajo, de acuerdo con las disposiciones jurídicas aplicables;
+
+XXVII. Promover la cultura y recreación entre los trabajadores duranguenses y sus familias; y.
+
+XXVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado o le delegue el titular del Poder Ejecutivo.
 
 ###### ARTICULO 37.
 
@@ -1800,3 +1864,17 @@ CUARTO.- La Secretaría de Turismo se subroga en todos los derechos y obligacion
 QUINTO.- La Secretaría de Turismo iniciará sus operaciones con los recursos que actualmente tiene asignada la Dirección de Turismo y Cinematografía y los que le reasigne el Ejecutivo por conducto de la Secretaría de Finanzas y de Administración en tanto el Congreso autoriza la partida presupuestal correspondiente a la citada Secretaría.
 
 SEXTO.- El personal que actualmente labora para la Dirección de Turismo y Cinematografía se transferirá a la Secretaría de Turismo, respetando todos sus derechos laborales. Asimismo, los recursos materiales y financieros asignados a la citada Dirección se transferirán a la Secretaría de referencia, en los términos que especifique el Decreto de transferencia que al efecto emita el titular del Ejecutivo Estatal y con la intervención que las leyes otorgan en ese proceso a las distintas dependencias de la administración.
+
+P.O. 13 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+TERCERO.- Cuando las disposiciones jurídicas, contenidas en cualquier ley, reglamento, decreto o convenio, se refieran a la Dirección del Trabajo y Previsión Social, a la Secretaría General de Gobierno o a la Secretaría de Desarrollo Económico por lo que respecta al Servicio Estatal de Empleo, relacionadas con la materia laboral, se entenderá que se refiere a la Secretaría del Trabajo y Previsión Social.
+
+CUARTO.- La Secretaría del Trabajo y Previsión Social se subroga en todos los derechos y obligaciones asumidos por la Secretaría General de Gobierno, concretamente a las áreas comprendidas dentro de la Dirección del Trabajo y Previsión Social, así como respecto a la Secretaría de Desarrollo Económico, concretamente al Servicios (sic) Estatal de Empleo.
+
+QUINTO.- La Secretaría del Trabajo y Previsión Social, iniciará sus operaciones con los recursos que actualmente tiene asignada la Dirección del Trabajo y Previsión Social y los que le reasigne el Ejecutivo por conducto de la Secretaría de Finanzas y de Administración, en tanto el Congreso autoriza la partida presupuestal correspondiente a la citada Secretaría.
+
+SEXTO.- El personal que actualmente labora para la Dirección del Trabajo y Previsión Social, las Juntas y Tribunales Locales de Conciliación y Arbitraje, la Procuraduría Estatal de la Defensa del Trabajo, las demás áreas de la Dirección, y el Servicio Estatal de Empleo, se transferirán a la Secretaría del Trabajo y Previsión Social, respetando todos sus derechos laborales. Asimismo, los recursos materiales y financieros asignados a la citada Dirección y demás órganos, se transferirán a la Secretaría de referencia, en los términos que especifique el Decreto de transferencia que al efecto emita el titular del Ejecutivo Estatal y con la intervención que las leyes otorgan en ese proceso a las distintas dependencias de la administración pública estatal.
