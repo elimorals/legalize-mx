@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2007-07-15"
+last_updated: "2008-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -178,6 +178,30 @@ El Congreso expedirá la ley que determine cuales son las profesiones que requie
 Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa.
 
 A toda petición deberá recaer un acuerdo de la autoridad, a quien se haya formulado, en el que ésta expresará, motivada y fundadamente, si concede o niega lo solicitado. La autoridad tiene obligación de notificar su resolución al peticionario dentro del término que señalan las leyes aplicables y que en ningún caso excederá de noventa días naturales, contados a partir de la fecha en que se presentó la solicitud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2008)</small>
+
+La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será garantizado por el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2008)</small>
+
+El ejercicio del derecho de acceso a la información en el Estado, se regirá por los siguientes principios y bases:
+
+I. Toda la información en posesión de cualquier autoridad, dependencia, entidad, unidad administrativa, órgano y organismo estatal y municipal es pública, y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley.
+
+Para la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad;
+
+II. La información que se refiere a la vida privada y los datos personales, será protegida en los términos y con las excepciones que fije la ley;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos, en términos de la legislación aplicable;
+
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos, estos últimos se sustanciarán ante órganos u organismos especializados, imparciales y con autonomía operativa, de gestión y de decisión;
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos;
+
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -2798,3 +2822,13 @@ P.O. 15 DE JULIO DE 2007.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 SEGUNDO.- Se deroga el Artículo Cuarto Transitorio del Decreto No. 290, aprobado en fecha 18 de agosto del 2006, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado No. 18 del mismo mes y año y demás disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
