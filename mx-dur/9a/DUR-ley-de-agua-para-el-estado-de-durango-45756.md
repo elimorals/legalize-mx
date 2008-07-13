@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2007-12-30"
+last_updated: "2008-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -1917,13 +1917,13 @@ Igualmente, quedan facultados el municipio y los prestadores de los servicios a 
 
 Lo anterior, será independiente de poner en conocimiento de tal situación a las autoridades sanitarias.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2008)</small>
 
 ###### Artículo 184.
 
-Los Notarios Públicos y Jueces en funciones de Notario Público no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de cuotas o tarifas por servicio de agua potable, alcantarillado y saneamiento de aguas residuales y, en este supuesto, el Registro Público de la Propiedad se abstendrá de inscribir cualquier contrato traslativo de dominio formalizado en escritura pública o privada.
+Los Notarios Públicos y Jueces en funciones de Notario Público, al formalizar actos traslativos de dominio de inmuebles urbanos que cuenten con el servicio de agua potable, alcantarillado y saneamiento, solicitarán al enajenante o en su caso, a su representante, exhiba el documento que acredite estar al corriente en el pago de cuotas o tarifas por dichos servicios.
 
-La violación a lo dispuesto por el párrafo anterior, hará responsable solidarios de dichos adeudos al Notario Público, al Juez en funciones de Notario y al servidor público del Registro Público de la Propiedad que autorice, certifique, transmita o inscriba la propiedad o el dominio del inmueble que se trate.
+El encargado del Registro Público de la Propiedad, para inscribir cualquier instrumento traslativo de dominio de bienes inmuebles urbanos, verificará que en el expediente respectivo obre la constancia de no adeudo por el servicio de agua potable, como se cita en el párrafo anterior.
 
 ### CAPÍTULO VII. INSPECCIÓN Y VERIFICACIÓN
 
@@ -2604,3 +2604,9 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 P.O. 30 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE JULIO DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por la presente.
