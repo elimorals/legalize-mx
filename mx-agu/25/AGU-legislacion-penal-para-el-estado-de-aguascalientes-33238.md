@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2008-06-30"
+last_updated: "2008-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2008.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1319,7 +1319,9 @@ XIII. Inducir al electorado a abstenerse de votar; o hacerlo a favor de cualquie
 
 XIV. Inmiscuirse en asuntos de orden político, siendo extranjero;
 
-XV. Realizar el servidor público propaganda o promoción a favor de partido político, coalición o candidato, utilizando tiempo de sus labores asignadas o los recursos del erario público; o
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
+
+XV. Realizar el servidor público propaganda o promoción a favor de partido político, coalición o candidato, utilizando tiempo de sus labores asignadas o los recursos del erario público;
 
 XVI. Teniendo el carácter de funcionario electoral:
 
@@ -1337,9 +1339,17 @@ f) No tomar las medidas legales adecuadas para evitar la existencia de condicion
 
 g) Dar a conocer dolosamente a cualquier medio masivo de comunicación o persona información falsa, antes durante o después del desarrollo de la jornada electoral o respecto de sus resultados; o
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2008)</small>
+
 h) Permitir o tolerar que un ciudadano emita su voto sin que éste cumpla con los requisitos de ley o que se introduzcan en las urnas una o más boletas electorales, en forma ilícita.
 
-A los responsables de los hechos descritos en las fracciones I a XV del presente artículo, se les aplicarán de 6 meses a 2 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 7 años. A los responsables de los hechos descritos en los diversos incisos de la fracción XVI del presente artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 6 a 9 años.
+(ADICIONADA, P.O. 14 DE JULIO DE 2008) (F. DE E., P.O. 18 DE AGOSTO DE 2008)
+
+XVII. Contratar propaganda en radio, televisión, prensa o internet, a favor o en contra de un partido político, candidato o precandidato.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2008)</small>
+
+A los responsables de los hechos descritos en las Fracciones I a la XV del presente Artículo, se les aplicarán de 6 meses a 2 años de prisión. A los responsables de los hechos descritos en los diversos incisos de la Fracción XVI y la Fracción XVII del presente Artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 6 años.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -1349,15 +1359,35 @@ También serán considerados Atentados al Sistema de Elección Popular, las cond
 
 I. No prestar con la debida oportunidad la ayuda o auxilio solicitados por las autoridades electorales, en términos de ley;
 
-II. Obligar a los empleados del lugar donde desarrolla sus labores a emitir voto a favor de un partido político, coalición o candidato;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
+
+II. Obligar, presionar, condicionar, u otorgar beneficios o prebendas, en cualquier tiempo a los empleados del lugar donde desarrollen sus labores, a afiliarse, inscribirse, trabajar o a emitir su voto a favor o en contra de un partido político, coalición o candidato;
 
 III. Condicionar la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del voto a favor de un partido político, coalición o candidato;
 
-IV. Destinar fondos, bienes, servicios, vehículos, inmuebles o equipos que tenga a su disposición o resguardo en virtud de su cargo, al apoyo de uno o varios partidos políticos, coaliciones o candidatos, o proporcione tal apoyo a través de sus subordinados; o
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
 
-V. Impedir la realización de reuniones, asambleas o manifestaciones pacíficas o la realización de cualquier otro acto de proselitismo electoral.
+IV. Destinar fondos, bienes, servicios, vehículos, inmuebles o equipos que tenga a su disposición o resguardo en virtud de su cargo, al apoyo de uno o varios partidos políticos, coaliciones o candidatos, o proporcione tal apoyo a través de sus subordinados;
 
-Al responsable de los hechos descritos en el presente artículo, se le aplicarán de 2 a 5 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 7 años, sin perjuicio de aplicar las reglas del Concurso, por la comisión de algún otro hecho delictivo.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
+
+V. Impedir la realización de reuniones, asambleas o manifestaciones pacíficas o la realización de cualquier otro acto de proselitismo electoral;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2008)</small>
+
+VI. Difundir bajo cualquier modalidad de comunicación en radio, televisión, prensa o internet, su nombre, imagen, voz o símbolos que impliquen promoción personalizada con cualquier fin, con excepción de la información relativa a servicios educativos y de salud o para la protección civil en caso de desastre;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2008)</small>
+
+VII. Aplicar recursos públicos que estén bajo su responsabilidad, para influir a favor o en contra de un candidato, partido político o coalición; o
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2008)</small>
+
+VIII. Difundir en los medios de comunicación social o internet, propaganda gubernamental a partir de los treinta días previos a la Jornada Electoral hasta la conclusión de ésta, con excepción de la información relativa a servicios educativos y de salud o para la protección civil en casos de desastre.
+
+(REFORMADO, P.O. 14 DE JULIO DE 2008) (F. DE E., P.O. 18 DE AGOSTO DE 2008)
+
+Al responsable de los hechos descritos en las Fracciones I a la VIII del presente Artículo, se le aplicarán de 2 a 9 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 9 años, sin perjuicio de aplicar las reglas del Concurso, por la comisión de algún otro hecho delictivo.
 
 ### CAPITULO DECIMO SEPTIMO. Tipos Penales Protectores del Fisco Estatal
 
@@ -5406,3 +5436,9 @@ P.O. 30 DE JUNIO DE 2008.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
