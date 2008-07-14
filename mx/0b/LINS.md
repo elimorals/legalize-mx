@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2006-06-22"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -274,11 +274,21 @@ Los directores generales de los Institutos Nacionales de Salud serán designados
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Ser médico cirujano, con alguna de las especialidades del Instituto de que se trate. En el caso del titular del Instituto Nacional de Salud Pública podrá ser una persona de reconocidos méritos académicos en las disciplinas médicas y de salud pública y que haya publicado trabajos de investigación en salud pública;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
 
-III. Tener amplia experiencia en las áreas médica y académica, así como una trayectoria reconocida en la Medicina, y
+II. Ser profesional de la salud, con alguna de las especialidades del Instituto de que se trate. En el caso del titular del Instituto Nacional de Salud Pública podrá ser una persona de reconocidos méritos académicos en las disciplinas médicas y de salud pública y que haya publicado trabajos de investigación en salud pública. En el caso de los demás Institutos Nacionales de Salud, haber publicado trabajos de investigación en la especialidad respectiva;
 
-IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+III. Tener una trayectoria reconocida en la Medicina y reconocidos méritos académicos;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+V. Tener experiencia en el desempeño de cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa.
 
 ###### ARTÍCULO 19.
 
@@ -661,3 +671,9 @@ Artículo Cuarto. Una vez constituida la Junta de Gobierno del Instituto Naciona
 D.O.F. 22 DE JUNIO DE 2006.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
