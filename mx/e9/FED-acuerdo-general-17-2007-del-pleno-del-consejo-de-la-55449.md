@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2007-del-pleno-del-consejo-de-la-55449"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2008-01-25"
+last_updated: "2008-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-05-02"
 
 ACUERDO GENERAL 17/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -519,6 +519,26 @@ SANCIONES. El incumplimiento a lo dispuesto en este Acuerdo se sujetará a lo pr
 
 INTERPRETACION. En las dudas o controversias que se generen con motivo de la interpretación administrativa y aplicación del presente Acuerdo y, en su caso, de las Reglas de Operación del Comité, se estará a lo que resuelva el Comité.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL PUNTO UNICO DEL ACUERDO GENERAL 39/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2008)</small>
+
+### Capítulo X. De las Faltas Temporales del Titular de la Secretaría Técnica
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 39/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2008)</small>
+
+###### Artículo 69.
+
+Durante las faltas temporales del titular de la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia, con excepción de los periodos de receso, el titular de la Dirección de Normatividad y Enlace Institucional ejercerá todas las atribuciones legales, normativas y reglamentarias asignadas a la Secretaría Técnica. A su vez, la falta temporal del titular de la Dirección de Normatividad y Enlace Institucional será suplida, en los mismos términos, por el titular de la Dirección de Administración Financiera.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 39/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2008)</small>
+
+###### Artículo 70.
+
+La falta temporal del titular de la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia, durante los periodos de receso del Consejo de la Judicatura Federal, será suplida por el titular de la Dirección de Normatividad y Enlace Institucional, quien ejercerá las atribuciones previstas en el artículo 39 de este acuerdo, excepto las mencionadas en las fracciones VIII, X, XI y XVI.
+
+De igual forma la falta temporal del titular de la Dirección de Normatividad y Enlace Institucional será suplida por el titular de la Dirección de Administración Financiera.
+
+Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Institucional y/o al titular de la Dirección de Administración Financiera, para determinar el número de servidores públicos necesarios para el óptimo ejercicio de las atribuciones antes descritas.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente hábil de su publicación en el Diario Oficial de la Federación.
@@ -554,3 +574,11 @@ D.O.F. 25 DE ENERO DE 2008.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE JULIO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 17/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Regula la Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia.
