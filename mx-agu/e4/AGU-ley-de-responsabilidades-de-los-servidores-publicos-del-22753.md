@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2004-02-12"
+last_updated: "2008-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE DE 2012 Y 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -153,9 +151,21 @@ I.- El ataque que perturbe la vida jurídica y el buen funcionamiento de las ins
 
 II.- Los actos u omisiones encaminados a alterar la forma de gobierno republicano, representativo y popular establecida por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado de Aguascalientes;
 
-III.- Las violaciones a las garantías individuales o sociales; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
 
-IV.- Los actos u omisiones que contravengan la Constitución local o las leyes que de ella emanen o los reglamentos, cuando causen daños patrimoniales graves al Estado, al municipio o a la sociedad, o motiven algún trastorno grave en el funcionamiento normal de sus instituciones.
+III.- Las violaciones a las garantías individuales o sociales;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2008)</small>
+
+IV.- Los actos u omisiones que contravengan la Constitución local o las leyes que de ella emanen o los reglamentos, cuando causen daños patrimoniales graves al Estado, al municipio o a la sociedad, o motiven algún trastorno grave en el funcionamiento normal de sus instituciones;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2008)</small>
+
+V.- Los actos que contravengan la Constitución Política de los Estados Unidos Mexicanos, la Constitución local y las leyes que de ellas emanen, cuando apliquen recursos públicos que estén bajo su responsabilidad para influir en la competencia entre los partidos políticos; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2008)</small>
+
+VI.- Los actos que contravengan la Constitución Política de los Estados Unidos Mexicanos, la Constitución local y las leyes que de ellas emanen cuando difundan bajo cualquier modalidad de comunicación social, en radio, televisión, prensa o internet, su nombre, imagen, voz o símbolos que impliquen promoción personalizada con cualquier fin.
 
 El ataque, la violación, el daño o trastorno al que se refieren las fracciones anteriores, debe ser cierto y existir prueba de haberse producido como consecuencia directa e inmediata del acto u omisión del servidor público.
 
@@ -1086,3 +1096,9 @@ UNICO.- El presente Decreto entrará en vigor a los treinta días siguientes de 
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
