@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-y-servicios-relacionados-con-las-54634"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-01"
-last_updated: "2007-03-01"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
 
 Ley publicada en la Sección Uno del Boletín Oficial del Estado de Sonora, el jueves 1 de marzo de 2007.
 
@@ -273,7 +273,9 @@ Dicha cantidad deberá ser utilizada única y exclusivamente para solventar nece
 
 De conformidad con las bases y condiciones que se establezcan en el reglamento de la presente ley, las dependencias y entidades del Ejecutivo del Estado podrán celebrar contratos en los que la realización y el costo de inversión de la obra pública quede a cargo de particulares, o bien, en las que la aportación o financiamiento provenga parcial o totalmente de recursos de personas físicas o morales del sector privado, social o ambos, quedando el Estado obligado, en su caso, a amortizar dicho financiamiento o a conceder la explotación o aprovechamiento de la obra pública realizada, aplicando esquemas financieros idóneos para tales propósitos.
 
-Asimismo, dichos entes podrán asociarse con una persona física o moral de derecho privado, para que ésta administre un activo, así como celebrar un contrato para diseñar, financiar, construir y operar activos con los que el Estado preste un servicio público.
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 2008)</small>
+
+Asimismo, dichos entes podrán asociarse con una persona física o moral de derecho privado, para que ésta administre un activo, así como celebrar un contrato para diseñar, financiar, construir y operar activos con los que el Estado preste un servicio público, siempre y cuando no sea Alianza Público Privada de Servicios en términos de la legislación aplicable.
 
 En la contratación de financiamientos deberá observarse la Ley de Deuda Pública del Estado de Sonora y demás disposiciones que resulten aplicables.
 
@@ -1212,3 +1214,11 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintiún días de del mes de febrero del año dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RÚBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBALASTIAZARÁN, RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
