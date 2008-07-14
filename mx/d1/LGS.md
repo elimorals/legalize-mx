@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2008-05-30"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2008.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -208,7 +208,13 @@ XXVI.- El control sanitario de los establecimientos dedicados al proceso de los 
 
 XXVII.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
 
-XXVIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+XXVIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes y células;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+XXVIII bis.- El control sanitario de cadáveres de seres humanos;
 
 XXIX.- La sanidad internacional, y
 
@@ -440,11 +446,13 @@ IX.- Ejercer la coordinación y la vigilancia general del cumplimiento de las di
 
 X.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se establezcan en esta Ley y en otras disposiciones generales aplicables.
 
-B. Corresponde a los gobiernos de las entidades federativas, en materia de Salubridad General, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+B. Corresponde a los gobiernos de las entidades federativas, en materia de salubridad general, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
 
-I. Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI Y XXII, del artículo 3o., de esta Ley, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII y XXVIII Bis del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
 
 II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
 
@@ -1796,7 +1804,11 @@ III.- Podrá efectuarse sólo cuando exista una razonable seguridad de que no ex
 
 IV.- Se deberá contar con el consentimiento por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
 
-V.- Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+V.- Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes.
+
+La realización de estudios genómicos poblacionales deberá formar parte de un proyecto de investigación;
 
 VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación, y
 
@@ -2828,7 +2840,7 @@ La Secretaría de Salud, determinará los tipos de establecimientos dedicados al
 
 ###### ARTICULO 202.
 
-Todo cambio de propietario a un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
+Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2850,7 +2862,7 @@ El proceso de los productos a que se refiere este Título deberá realizarse en 
 
 Se considera adulterado un producto cuando:
 
-I.- Su naturaleza o composición no corresponda a aquéllas con que se etiquete, anuncie, expenda, suministre o cuando no corresponda a las especificaciones de su autorización, o
+I.- Su naturaleza o composición no correspondan a aquéllas con que se etiquete, anuncie, expenda, suministre o cuando no corresponda a las especificaciones de su autorización, o
 
 II.- Haya sufrido tratamiento que disimule su alteración, se encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
 
@@ -4402,7 +4414,9 @@ Compete a la Secretaría de Salud:
 
 I. El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios, y
 
-II. La regulación y el control sanitario sobre cadáveres.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+
+II. La regulación sobre cadáveres.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4471,6 +4485,26 @@ Los establecimientos en los que se extraigan órganos y tejidos o se realicen tr
 Los órganos, tejidos y células no podrán ser sacados del territorio nacional.
 
 Los permisos para que los tejidos puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo casos de urgencia.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2008)</small>
+
+###### ARTICULO 317 Bis.
+
+El traslado fuera del territorio nacional de tejidos de seres humanos referidos en el artículo 375 fracción VI de esta Ley que pueda ser fuente de material genético (ácido desoxirribonucleico) y cuyo propósito sea llevar a cabo estudios genómicos poblacionales, estará sujeto a:
+
+I. Formar parte de un proyecto de investigación aprobado por una institución mexicana de investigación científica y conforme a lo establecido en el artículo 100 de la Ley, al Reglamento de la Ley General de Salud en materia de investigación y demás disposiciones aplicables, y (sic)
+
+II. Obtener el permiso al que se refiere el artículo 375 de esta Ley;
+
+III. Para efectos de esta Ley, se entiende por estudio genómico poblacional al que tiene como propósito el análisis de uno o más marcadores genéticos en individuos no relacionado que describen la estructura genómica de una población determinada, identifican a un grupo étnico o identifican genes asociados a un rasgo, una enfermedad o la respuesta a fármacos.
+
+La Secretaría, en coordinación con el Instituto Nacional de Medicina Genómica en su carácter de órgano asesor del Gobierno Federal y centro nacional de referencia en la materia, llevará el registro de los permisos que se mencionan en la fracción II de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2008)</small>
+
+###### ARTICULO 317 Bis 1.
+
+El material genético a que se refiere el artículo anterior no podrá ser utilizado para finalidades distintas o incompatibles con aquellos que motivaron su obtención.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4820,7 +4854,9 @@ Para la práctica de necropsias en cadáveres de seres humanos se requiere conse
 
 Para la utilización de cadáveres o parte de ellos de personas conocidas, con fines de docencia e investigación, se requiere el consentimiento del disponente.
 
-Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, las instituciones educativas deberán dar aviso a la Secretaría de Salud, en los términos de esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2008)</small>
+
+Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, las instituciones educativas deberán dar aviso a la autoridad sanitaria competente, en los términos de esta Ley y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5532,21 +5568,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos, 100, 122, 126, 146, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 422.
 
@@ -5814,11 +5850,13 @@ Al que saque o pretenda sacar del territorio nacional derivados de la sangre hum
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
 
-> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 461.
 
-Al que saque o pretenda sacar del territorio nacional, órganos, tejidos y sus componentes de seres humanos vivos o de cadáveres, sin permiso de la Secretaría de Salud, se le impondrá prisión de cuatro a quince años y multa por el equivalente de trescientos a setecientos días de salario mínimo general vigente en la zona económica de que se trate.
+Al que traslade o realice actos tendientes a trasladar fuera del territorio nacional, órganos, tejidos y sus componentes de seres humanos vivos o de cadáveres, sin permiso de la Secretaría de Salud, se le impondrá prisión de cuatro a quince años y multa por el equivalente de trescientos a setecientos días de salario mínimo general vigente en la zona económica de que se trate.
+
+Igual sanción se aplicará al que traslade o realice actos tendientes a trasladar fuera del territorio nacional tejidos de seres humanos que puedan ser fuente de material genético (ácido desoxirribonucleico) para estudios genómicos poblacionales en contravención de los artículos 317 Bis y 317 Bis 1 de esta Ley.
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por siete años.
 
@@ -6249,3 +6287,15 @@ CUARTO. El gobierno del Distrito Federal, los gobiernos de las entidades federat
 QUINTO. La Secretaría publicará en el Diario Oficial de la Federación las disposiciones para la formulación, aprobación, aplicación, utilización e incorporación de las leyendas, imágenes, pictogramas, fotografías y mensajes sanitarios que se incorporarán en los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de acuerdo a lo establecido en esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.
 
 SEXTO. Todos los empaques de tabaco fabricados en o importados hacia México deberán exhibir las nuevas advertencias de salud en un plazo de 9 meses contados a partir de la fecha en que la Secretaría publique los diseños para las advertencias sanitarias en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JULIO DE 2008.
+
+DECRETO QUE REFORMA LOS ARTICULOS 3o., FRACCION XXVIII, 13, APARTADO B, FRACCION I, 313, FRACCION II Y 350 BIS 3, SEGUNDO PARRAFO, Y SE ADICIONA LA FRACCION XXVIII BIS AL ARTICULO 3o. DE LA LEY GENERAL DE SALUD.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JULIO DE 2008.
+
+DECRETO QUE REFORMA LA FRACCION V DEL ARTICULO 100 Y EL ARTICULO 461, Y SE ADICIONAN LOS ARTICULOS 317 BIS Y 317 BIS 1, TODOS DE LA LEY GENERAL DE SALUD.
+
+Único. El presente Decreto entrará en vigor al siguiente día al de su publicación en el Diario Oficial de la Federación.
