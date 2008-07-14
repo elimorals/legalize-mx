@@ -4,7 +4,7 @@ identifier: "SON-ley-de-adquisiciones-arrendamientos-y-prestacion-de-15817"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-08"
-last_updated: "2007-09-07"
+last_updated: "2008-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 1988.
 
@@ -88,6 +88,12 @@ Para llevar a cabo los actos regulados por la presente Ley, los titulares de las
 Las adquisiciones, arrendamientos y servicios, que se realicen con cargo total o parcial a recursos económicos públicos estatales, conforme a los convenios que se celebren entre el Ejecutivo Estatal y los Ayuntamientos de los Municipios del Estado, estarán sujetos a las normas que establece esta Ley, a las disposiciones que se deriven de la misma y a las demás disposiciones aplicables.
 
 Para lo anterior, se especificará en los mencionados convenios, la intervención que corresponda a las dependencias y entidades respectivas y se pactará, en su caso, la participación de los grupos sociales interesados.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
+
+###### ARTICULO 5o.
+
+BIS.- No aplicarán las disposiciones de la presente Ley a la operación, administración, uso, goce, disposición o cualquier otro acto jurídico sobre bienes muebles, si dichos actos derivan de la prestación de servicios de una Alianza Público Privada de Servicios; en estos casos aplicarán las disposiciones de la Ley de Alianzas Público Privadas de Servicios.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
@@ -686,3 +692,9 @@ En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del pr
 B.O. 7 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
