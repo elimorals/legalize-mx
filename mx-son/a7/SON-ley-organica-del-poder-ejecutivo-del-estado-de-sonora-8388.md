@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2007-08-14"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -629,7 +629,7 @@ IX.- Realizar una labor permanente de difusión y orientación hacia la poblaci�
 
 X.- Establecer normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento; y
 
-XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
+XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realice en el Estado.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1173,9 +1173,9 @@ Los fideicomisos públicos referidos en el párrafo anterior estarán sujetos en
 
 ARTICULO 47 BIS.- Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, el comité técnico emitirá las instrucciones necesarias para dar efectivo cumplimiento.
 
-> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 2008)</small>
 
-ARTICULO 47 BIS A.- En los contratos constituidos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de su objeto no lo permita.
+ARTICULO 47 BIS A.- En los contratos constituidos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste la facultad expresa de revocarlos sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley, que la naturaleza de su objeto no lo permita, o que el fin primordial del fideicomiso sea actuar como fuente de pago de obligaciones del Estado o garantizar obligaciones del Estado en términos de la legislación aplicable.
 
 > <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
 
@@ -1627,7 +1627,7 @@ En los casos de las atribuciones de las dependencias, que conforme a este Decret
 
 ###### ARTICULO TERCERO.
 
-Los asuntos en trámite que con motivo de este Decreto deban pasar de una Secretaría a otra, o los recursos interpuestos en contra de los actos o resoluciones de aquélla, seguirán tramitándose ante las unidades administrativas de las Secretarías competentes, conforme este Decreto, y serán resueltos por las mismas.
+Los asuntos en trámite que con motivo de este Decreto deban pasar de una Secretaría a otra, o los recursos interpuestos en contra de los actos o resoluciones de aquélla, seguirán tramitándose antes las unidades administrativas de las Secretarías competentes, conforme este Decreto, y serán resueltos por las mismas.
 
 ###### ARTICULO CUARTO.
 
@@ -1722,3 +1722,9 @@ En los fideicomisos, mandatos o contratos análogos constituidos previamente a l
 ###### ARTICULO SEXTO.
 
 En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
+
+B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
