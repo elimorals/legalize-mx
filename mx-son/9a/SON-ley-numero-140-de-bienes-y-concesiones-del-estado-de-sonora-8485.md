@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-140-de-bienes-y-concesiones-del-estado-de-sonora-848
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "1992-12-31"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -184,6 +184,10 @@ Los bienes de dominio público del Estado son inalienables e imprescriptibles y 
 Los aprovechamientos accidentales o accesorios que sean compatibles con la naturaleza de estos bienes, tales como la venta de frutos, materiales o desperdicios, se regirán por el derecho privado.
 
 Los bienes de dominio público del Estado no podrán gravarse con servidumbres. Los derechos de tránsito, de vista, de luz, de derrames y otros semejantes sobre dichos bienes se regirán exclusivamente por las leyes y reglamentos administrativos.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
+
+No será necesario el otorgamiento de una concesión tratándose de bienes del dominio público que se destinen al desarrollo de una Alianza Pública Privada de Servicios en términos de la ley de la materia, en cuyo caso, su uso aprovechamiento y explotación serán regulados conforme a lo establecido en el contrato de prestación de servicios respectivo. En todo caso, el plazo para el uso, aprovechamiento y explotación de dicho bien no podrá ser mayor al establecido para el desarrollo de la Alianza Público Privada de Servicios en el contrato de prestación de servicios correspondiente.
 
 ###### ARTICULO 14.
 
@@ -599,6 +603,10 @@ Los actos jurídicos o contratos que se realicen en contravención de este Capí
 
 Los bienes de dominio privado del Estado, pueden ser objeto de todos los contratos que regula el derecho común. Se exceptúan, solamente, los de comodato y las donaciones no autorizadas en esta Ley.
 
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
+
+ARTICULO 61 BIS.- No obstante lo previsto en el artículo anterior, el Gobierno del Estado estará facultado para celebrar los contratos de comodato que sean necesarios para la prestación de servicios que deriven de una Alianza Público Privada de Servicios autorizada conforme a la Ley de la Materia. Su objeto y su plazo no podrán ser mayor al estrictamente necesario para cumplir con el Contrato de Alianza correspondiente.
+
 ###### ARTICULO 62.
 
 Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno del Estado, y en que en los términos de esta Ley requieran la intervención de Notario, se celebrarán ante la fe del que designe el titular del Poder Ejecutivo del Estado.
@@ -865,6 +873,10 @@ Las concesiones a que se refiere el párrafo anterior, se otorgarán por el plaz
 
 El Gobierno del Estado podrá construir y explotar caminos, carreteras y puentes de peaje, por sí o mediante concesión que se otorgue en los términos de esta Ley y su reglamento, a particulares.
 
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
+
+Tratándose de obras y servicios para vías estatales de comunicación terrestre que se desarrollen y presten a través de una Alianza Público Privada de Servicios en términos de la ley de la materia, su uso aprovechamiento y explotación serán regulados conforme a lo establecido en el contrato de prestación de servicios respectivo por lo que no se requerirá concesión. En todo caso, el plazo para el uso, aprovechamiento y explotación de las vías estatales de comunicación terrestre, no podrá ser mayor al establecido para el desarrollo de la Alianza Público Privada de Servicios en el contrato de prestación de servicios correspondiente.
+
 ###### ARTICULO 102.
 
 Las concesiones, contratos o permisos para la construcción, establecimiento o explotación de vías estatales de comunicación terrestre se extinguen por cualesquiera de las causas siguientes: cancelación; cumplimiento del plazo estipulado; y consentimiento expreso de ambas partes. El reglamento establecerá las causales de cancelación y el procedimiento administrativo, según el caso, cuya substanciación corresponderá a la Comisión Estatal.
@@ -978,3 +990,11 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
