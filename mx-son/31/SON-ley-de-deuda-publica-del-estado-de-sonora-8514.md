@@ -4,7 +4,7 @@ identifier: "SON-ley-de-deuda-publica-del-estado-de-sonora-8514"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-06"
-last_updated: "2007-08-14"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 1995.
 
@@ -140,6 +140,12 @@ IV.- En general, todas las operaciones de endeudamiento que comprendan obligacio
 > <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 No constituyen financiamiento las obligaciones de hacer y no hacer que adquieran los entes públicos, siempre y cuando no se precuantifiquen daños ni se establezcan penas convencionales para el caso de incumplimiento.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
+
+###### ARTICULO 4o.
+
+BIS.- Bajo ninguna circunstancia, se considerará como financiamiento las obligaciones de hacer o no hacer adquiridas por los entes públicos bajo declaraciones, convenios o contratos derivados de Alianzas Público Privadas en términos de la legislación aplicable que celebren, siempre que los pagos que en su caso deriven de dichas obligaciones no constituyan una cantidad predeterminada, aunque si puedan ser determinables mediante una formula previamente acordada y aprobada por la Secretaría, y únicamente sean pagaderas al ocurrir un acontecimiento futuro e incierto.
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -462,3 +468,9 @@ En los fideicomisos, mandatos o contratos análogos constituidos previamente a l
 ###### ARTÍCULO SEXTO.
 
 En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
+
+B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
