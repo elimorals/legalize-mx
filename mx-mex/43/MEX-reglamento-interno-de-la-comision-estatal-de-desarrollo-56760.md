@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-estatal-de-desarrollo-56760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-17"
-last_updated: "2007-08-17"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DESARROLLO URBANO Y VIVIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2008.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 17 de agosto de 2007.
 
@@ -73,6 +73,10 @@ Las dudas sobre la interpretación o aplicación de este Reglamento serán resue
 La COMISIÓN es un órgano técnico de coordinación interinstitucional con el objeto y funciones que le determinan el CÓDIGO, el REGLAMENTO y otras disposiciones jurídicas.
 
 Para el desarrollo de sus funciones La COMISIÓN se apoyará en los recursos humanos y materiales asignados a la SECRETARÍA.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2008)</small>
+
+La ventanilla única de la Dirección General de Operación Urbana será la vía para la recepción de las solicitudes de constancia de viabilidad y su documentación soporte, a efecto de que en el seno de la COMISIÓN se proceda a su integración.
 
 ###### Artículo 5.
 
@@ -142,7 +146,9 @@ IV. Discutir y acordar en el seno de la COMISIÓN, los asuntos que sean sometido
 
 V. Discutir, aprobar y, en su caso, modificar los proyectos de programa anual de trabajo y de calendario anual de sesiones de la COMISIÓN;
 
-VI. Entregar oportunamente a la COMISIÓN los documentos, opiniones y dictámenes que les correspondan de conformidad con el CÓDIGO, el REGLAMENTO y otras disposiciones jurídicas;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2008)</small>
+
+VI. Entregar por escrito en la sesión acordada por los integrantes de la COMISIÓN, los documentos opiniones técnicas y dictámenes relacionados con las solicitudes de constancia de viabilidad o con el Plan de Desarrollo Urbano correspondiente, los cuales deberán estar fundados, motivados y ser comentados por el integrante que los presente;
 
 VII. Presentar oportunamente a la COMISIÓN los informes que les solicite para el desahogo de los asuntos a tratar;
 
@@ -345,3 +351,11 @@ EL SECRETARIO DE AGUA Y OBRA PÚBLICA
 DR. DAVID KORENFELD FEDERMAN
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 14 DE JULIO DE 2008.
+
+PRIMERO.- Publíquese El presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
