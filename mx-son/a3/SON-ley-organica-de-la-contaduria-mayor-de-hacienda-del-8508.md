@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-contaduria-mayor-de-hacienda-del-8508"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-03-04"
-last_updated: "1998-07-09"
+last_updated: "2008-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE JULIO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE SONORA, PUBLICADA EN EL P.O. DE 14 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 4 de marzo de 1985.
 
@@ -414,3 +416,41 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que en lo conducente se opongan a la aplicación y observancia de la presente Ley.
+
+B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora el 4 de marzo de 1985, así como los decretos por los que se expidieron sus reformas publicados el 28 de abril de 1994 y el 9 de julio de 1998 respectivamente.
+
+Quedan sin efecto las disposiciones legales que contravengan o se opongan a lo preceptuado en esta ley.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto inició sus funciones a la entrada en vigor de la Ley 81 que contiene reformas y adiciones a la Constitución Política del Estado de Sonora que lo constituyó en julio de 2005 en sustitución de la Contaduría Mayor de Hacienda, y su Titular continuará en ese cargo hasta el 31 de diciembre de 2008, según fue determinado por el Congreso del Estado al momento de su designación.
+
+Una vez concluido el plazo señalado en el párrafo anterior, por única ocasión, se designa al actual Titular del Instituto para que continúe en dicho cargo por un nuevo período de tres años, hasta completar un total de siete años en dicho cargo, el cual vencerá el 31 de diciembre de 2011.
+
+Todos los actos y actuaciones realizados por el Instituto y el Auditor Mayor, en el ejercicio de sus funciones desde julio de 2005 hasta la entrada en vigor de la presente ley se convalidan por efectos de la transición de la Ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+La revisión de las cuentas públicas se efectuará conforme a las disposiciones establecidas en la presente ley a partir de la Cuenta Pública del ejercicio 2008, por lo que la revisión de la Cuentas Públicas del ejercicio 2007 y anteriores se efectuará conforme a las disposiciones vigentes en dichos ejercicios.
+
+###### ARTÍCULO QUINTO.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda del Congreso del Estado de Sonora, pasarán a formar parte del Instituto, en su calidad de empleados de confianza y se respetarán sus derechos conforme a la ley.
+
+En cuanto a la normatividad aplicable, se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y en lo aplicable, en las medidas protectoras del salario y de los beneficios de seguridad social, previstas en la Ley 40 del Servicio Civil para el Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+El Auditor Mayor emitirá el reglamento interior del Instituto dentro de los seis meses siguientes contados a partir de la entrada en vigor de la presente ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos y actuaciones que se encuentren en trámite al momento de entrar en vigor la presente ley, se tramitarán por el Instituto, hasta su total resolución, conforme a las disposiciones de la Ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado de Sonora.
