@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2008-07-10"
+last_updated: "2008-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1522,6 +1522,14 @@ La comisión de hacienda, patrimonio y cuenta pública del Ayuntamiento analizar
 El proyecto de Presupuesto de Egresos y el dictamen deberán ser presentados a todos los integrantes del Ayuntamiento, con la finalidad de que lo analicen y en su caso, pidan y obtengan aclaraciones o datos complementarios.
 
 El Presupuesto de Egresos y su dictamen deberán aprobarse con mayoría absoluta por los miembros del Ayuntamiento.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
+
+###### Artículo 141 Bis.
+
+El Ayuntamiento, mediante el acuerdo de las dos terceras partes de sus integrantes, podrá autorizar la celebración de contratos de obra, adquisiciones de bienes o contrataciones de servicios para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes. Para los años subsecuentes, los compromisos de pago adquiridos en ejercicios anteriores, conforme a lo previsto en este artículo, gozarán de preferencia respecto de nuevos compromisos que los Municipios adquieran. Los Ayuntamientos deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados, se realicen con sujeción a la preferencia establecida en este artículo.
+
+Cuando el Ayuntamiento apruebe una asignación presupuestal para el cumplimiento de obligaciones contraídas en los términos de la Ley de Alianzas Público Privadas, las asignaciones presupuestales para los ejercicios posteriores deberán ser aprobadas y no podrán ser disminuidas de tal forma que afecten el cumplimiento de los compromisos adquiridos por el Municipio bajo dicho esquema.
 
 ###### Artículo 142.
 
@@ -3774,3 +3782,9 @@ B.O. 10 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
