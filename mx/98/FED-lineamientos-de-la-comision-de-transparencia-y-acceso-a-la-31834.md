@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-de-la-comision-de-transparencia-y-acceso-a-la-3183
 country: "mx"
 rank: "lineamientos"
 publication_date: "2003-06-12"
-last_updated: "2003-06-12"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31834&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-06-10"
 
 LINEAMIENTOS DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL DOS DE JUNIO DE DOS MIL TRES, RELATIVOS A LA ORGANIZACION, CATALOGACION, CLASIFICACION Y CONSERVACION DE LA DOCUMENTACION DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE LA COMISION PARA LA TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL Y PROTECCION DE DATOS PERSONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL NUEVE DE JULIO DE DOS MIL OCHO, RELATIVO A LOS ORGANOS Y PROCEDIMIENTOS PARA TUTELAR EN EL AMBITO DE ESTE TRIBUNAL LOS DERECHOS DE ACCESO A LA INFORMACION, A LA PRIVACIDAD Y A LA PROTECCION DE DATOS PERSONALES GARANTIZADOS EN EL ARTICULO 6o. CONSTITUCIONAL, PUBLICADO EN EL D.O.F. DE 15 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Lineamientos publicados en el Diario Oficial de la Federación, el jueves 12 de junio de 2003, y en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Junio de 2003, página 1107.
 
@@ -398,3 +400,19 @@ SEGUNDO.- La elaboración del documento que describe las funciones de las Unidad
 TERCERO.- Publíquese este ordenamiento en el Semanario Judicial de la Federación y su Gaceta así como en el Diario Oficial de la Federación.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero integrantes de la Comisión para la Transparencia y Acceso a la Información de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+D.O.F. 15 DE JULIO DE 2008.
+
+PRIMERO. El presente Acuerdo entrará en vigor el primero de septiembre de dos mil ocho.
+
+SEGUNDO. Se abroga el Acuerdo número 9/2003 del veintisiete de mayo de dos mil tres, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, que establece los órganos, criterios y procedimientos institucionales, para la transparencia y acceso a la información pública de este Alto Tribunal; el Acuerdo número 13/2003, de dos de diciembre de dos mil tres, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, que modifica el diverso 9/2003; el Acuerdo General de Administración VI/2006, de 29 de mayo de 2006, del Comité de Comunicación Social de la Suprema Corte de Justicia de la Nación, por el que se determinan los procedimientos para la administración y estructura del portal de Internet de este Alto Tribunal; los Lineamientos de la Comisión para la Transparencia y Acceso a la Información de la Suprema Corte de Justicia de la Nación, de dos de junio de dos mil tres, relativos a la organización, catalogación, clasificación y conservación de la documentación de este Alto Tribunal; los Lineamientos de la Comisión para la Transparencia y Acceso a la Información Pública Gubernamental de la Suprema Corte de Justicia de la Nación, del nueve de noviembre de dos mil siete, relativos al procedimiento para la consulta física de los expedientes judiciales concluidos antes del doce de junio de dos mil tres que se encontraban bajo resguardo del Centro de Documentación y Análisis de este Alto Tribunal; las Políticas de actualización y publicación del directorio telefónico en la red de la Suprema Corte de Justicia de la Nación, aprobadas por la Comisión para la Transparencia y Acceso a la Información Pública Gubernamental de la Suprema Corte de Justicia de la Nación el catorce de junio de dos mil cuatro; los Lineamientos para la elaboración de versiones públicas de las sentencias del Pleno y de las Salas de la Suprema Corte de Justicia de la Nación, en vigor desde el dieciséis de mayo de dos mil siete; el Instructivo para la elaboración de versiones públicas de los expedientes y las resoluciones que tiene bajo su resguardo la Suprema Corte de Justicia de la Nación, aprobado el dieciséis de abril de dos mil ocho, por el Comité de Acceso a la Información y Protección de Datos Personales de la Suprema Corte de Justicia de la Nación; así como cualquier otra disposición general que se oponga a lo previsto en este Acuerdo.
+
+TERCERO. Para la declaración de modificación de la situación patrimonial de los servidores públicos de la Suprema Corte correspondiente al año dos mil nueve, la Contraloría de este Alto Tribunal propondrá al Comité de Gobierno y Administración los ajustes al formato respectivo que permitan reflejar la situación patrimonial de aquéllos, así como los necesarios para que a partir del año dos mil diez en las referidas declaraciones se manifiesten las variaciones porcentuales mencionadas en la fracción XVI del artículo 25 de este Acuerdo.
+
+CUARTO. Los integrantes del Comité deberán celebrar sendas sesiones de trabajo con los titulares de los órganos indicados en el artículo 29 del presente Acuerdo, para lograr la adecuada publicación de la información prevista en ese numeral, debiendo informar a esta Comisión los resultados obtenidos.
+
+QUINTO. Los proyectos de resolución en materia de ejecución, pendientes de presentar por los integrantes del Comité, se deberán someter a éste conforme al programa que autorice la Comisión.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública.
