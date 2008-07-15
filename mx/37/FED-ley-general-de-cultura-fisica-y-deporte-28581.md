@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2007-04-10"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
@@ -96,9 +96,17 @@ VII. CONDE: Los Consejos Nacionales del Deporte Estudiantil;
 
 VIII. SINADE: El Sistema Nacional de Cultura Física y Deporte;
 
-IX. RENADE: El Registro Nacional de Cultura Física y Deporte, y
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2008)</small>
 
-X. SEP: La Secretaría de Educación Pública.
+IX. RENADE: El Registro Nacional de Cultura Física y Deporte;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2008)</small>
+
+X. SEP: La Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2008)</small>
+
+XI. Comisión Especial: La Comisión Especial para la Prevención de la Violencia en la Celebración de Espectáculos Deportivos.
 
 ###### Artículo 4.
 
@@ -914,17 +922,23 @@ En los términos de los convenios de coordinación y colaboración respectivos, 
 
 La CONADE podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, cumpliendo el procedimiento que para ese propósito prevea el Reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
+
 ###### Artículo 85.
 
-Las instalaciones destinadas a la cultura física y el deporte deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles acciones de violencia o conductas antisociales.
+Las instalaciones destinadas a la cultura física, el deporte y en las que se celebren espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles manifestaciones de violencia, xenofobia, racismo, intolerancia y cualquier otra conducta antisocial.
 
 ###### Artículo 86.
 
 La CONADE promoverá ante las diversas instancias de gobierno la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y el deporte.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
+
 ###### Artículo 87.
 
-En el uso de las instalaciones a que se refiere este capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias y respetarse los programas y calendarios previamente establecidos y se deberá fijar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, misma que será determinada por la CONADE.
+En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias que determine la presente Ley y la Comisión Especial.
+
+Asimismo, deberán respetarse los programas y calendarios previamente establecidos, así como acreditar por parte de los organizadores, ante la Comisión Especial, que se cuenta con póliza de seguro vigente que cubra la reparación de los daños a personas y bienes que pudieran ocasionarse, cuando así se acredite su responsabilidad y que sea sujeto de ser asegurado.
 
 ### Capítulo II. De la Enseñanza, Investigación y Difusión
 
@@ -1146,39 +1160,121 @@ El laboratorio central antidopaje tendrá carácter nacional en tanto no exista 
 
 Para efectos del artículo anterior, quedan exentas las muestras biológicas recolectadas en los eventos que se realicen en el territorio nacional y que se encuentren inscritos en los calendarios oficiales de competiciones de las federaciones internacionales o aquellas que se enmarquen en el contexto del movimiento olímpico, mismas, que serán remitidas para su estudio analítico al laboratorio certificado por el Comité Olímpico Internacional o la Agencia Mundial Antidopaje que se haya previamente determinado.
 
-### Capítulo VI. De los Riesgos y Responsabilidad Civil
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE JULIO DE 2008)</small>
+
+### Capítulo VI. De la Prevención de la Violencia en la Celebración de Espectáculos Deportivos
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ###### Artículo 126.
 
-En la celebración de espectáculos públicos o privados, eventos, cursos, talleres o seminarios en materia de cultura física y/o deporte, sus promotores tienen la obligación de asegurar la integridad de los asistentes y la prevención de la violencia.
+La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos, que en materia de espectáculos públicos dicten la federación, los estados, el Distrito Federal y los municipios.
 
-Para dar cumplimiento a lo dispuesto en el párrafo anterior, además de lo previsto en el Reglamento de la presente Ley y en los lineamientos correspondientes que para el efecto expida la CONADE, se deberá estar a lo siguiente:
+En el ámbito de la prevención de la violencia en los espectáculos deportivos se creará la Comisión Especial para la Prevención de la Violencia en la Celebración de Espectáculos Deportivos, integrada de manera plural y equitativa por:
 
-I. Procurar que se movilicen servicios de policía preventiva suficientes para afrontar las manifestaciones de violencia en el lugar del evento o sus inmediaciones, así como a lo largo de las vías de tránsito utilizadas por los espectadores;
+a) Un representante del SINADE;
 
-II. Facilitar una cooperación estrecha y un intercambio de información apropiada entre los cuerpos de policía de las distintas localidades interesadas o que puedan llegar a estarlo, y
+b) Un representante de la CONADE;
 
-III. Actuar de manera tal, que la proyección y estructura de los lugares donde se celebren eventos deportivos, garanticen la seguridad de los asistentes, no favorezcan la violencia entre ellos, permitan un control eficaz de los asistentes, contenga barreras o vallas apropiadas y permitan la intervención de los servicios médicos y de seguridad pública.
+c) Un representante de la CODEME;
+
+d) Un representante del COM;
+
+e) Un representante de los Institutos Estatales del Deporte;
+
+f) Un representante del Consejo Nacional del Deporte Estudiantil, y
+
+g) Un representante de cada una las Comisiones Nacionales de Deporte Profesional.
+
+En la Comisión Especial podrán participar dependencias o entidades de la Administración Pública Federal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas en la prevención de la violencia en la celebración de espectáculos deportivos.
+
+La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo de la CONADE.
+
+Las funciones de dicha Comisión Especial entre otras, que se establecerán para el cumplimiento de sus fines, conforme a lo dispuesto en el reglamento de la presente Ley, serán:
+
+I. Trabajar de manera coordinada con las dependencias administrativas involucradas en la realización de espectáculos deportivos, procuradurías, áreas de seguridad pública y protección civil de la Federación, los Estados, el Distrito Federal y los Municipios;
+
+II. Promover e impulsar las acciones encaminadas a la prevención de la violencia en la celebración de espectáculos deportivos;
+
+III. Establecer los lineamientos generales para la debida y eficaz operación de los acuerdos y convenios de colaboración de los tres niveles de gobierno encaminados a la prevención de la violencia en los espectáculos deportivos;
+
+IV. Emitir los lineamientos para priorizar la implementación de medidas conforme a la clasificación de riesgo que para tal efecto emita;
+
+V. Emitir los lineamientos que determinen las medidas mínimas de seguridad y proceso de certificación con que deberán contar las instalaciones deportivas, en las cuales se celebren espectáculos deportivos;
+
+VI. Fomentar, coordinar y llevar a cabo programas y campañas de divulgación en contra de la violencia, el racismo, la xenofobia y la intolerancia a fin de retribuir los valores de integración y convivencia social del deporte;
+
+VII. Proponer políticas para elevar la seguridad en las instalaciones deportivas a través de la emisión de lineamientos encaminados a la organización de operativos que pudieran desarrollar los cuerpos policíacos estatales y municipales;
+
+VIII. Emitir recomendaciones y orientar a los miembros del SINADE el implemento de medidas tendientes a erradicar los actos violentos, racistas, xenófobos e intolerantes en el desarrollo de sus actividades y la celebración de espectáculos deportivos;
+
+IX. Implementar las características que deberán contener los boletos de entrada con información y especificaciones de las causas por las cuales se pudiese impedir el acceso de los asistentes al espectáculo deportivo;
+
+X. Brindar asesoría a quien lo solicite, en materia de prevención del delito a través de métodos y sistemas de investigación que aporten eficacia al combate de la violencia en los espectáculos deportivos, y
+
+XI. Las demás que se establezcan en su Reglamento Interno.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ###### Artículo 127.
 
-Con estricto respeto a los procedimientos previstos en otras leyes u ordenamientos aplicables, los espectadores y participantes, que cometan actos que generen violencia u otras acciones reprensibles al interior o exterior de los espacios destinados a la realización de la cultura física y/o el deporte en cualquiera de sus modalidades, serán sujetos a la sanción aplicable.
+En la celebración de espectáculos deportivos, los organizadores tienen la obligación de informar a las autoridades de seguridad pública y protección civil, de los detalles del espectáculo, a fin de prever la integridad de los asistentes y participantes.
+
+Para efecto de lo dispuesto en el párrafo anterior, además de lo previsto en el Reglamento de la presente Ley y en los lineamientos correspondientes que para el efecto expida la Comisión Especial, los organizadores deberán establecer una estrecha coordinación con las autoridades correspondientes a fin de observar lo siguiente:
+
+I. La promoción de operativos de vigilancia, custodia y revisión tanto en el interior como en las inmediaciones de las instalaciones en donde se celebrará un espectáculo deportivo;
+
+II. Llevar a cabo visitas de verificación de las instalaciones en donde se celebrará el evento;
+
+III. Celebrar las reuniones necesarias previas a la realización de un espectáculo deportivo a fin de delimitar las zonas de actuación y responsabilidad, de cada uno de los involucrados, antes, durante y después, tanto en las instalaciones como en las inmediaciones en donde se celebre dicho espectáculo;
+
+IV. Promover la realización de programas y campañas de divulgación adecuada sobre la no violencia en el deporte;
+
+V. Promover normas encaminadas a la erradicación de actos racistas, xenófobos, intolerantes y violentos, y
+
+VI. Fomentar los valores de integración y convivencia social del deporte, del juego limpio y la no violencia.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ###### Artículo 128.
 
-Los integrantes del SINADE, en coordinación con las autoridades competentes, están obligados a revisar continuamente sus reglamentos para controlar los factores que puedan provocar estallidos de violencia por parte de deportistas o espectadores.
+Dentro de los lineamientos que emita la Comisión Especial a que se refiere el artículo anterior deberán regularse, en lo concerniente al acceso a los espectáculos deportivos, entre otras medidas:
+
+I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro la integridad física de los deportistas, atletas, árbitros y de espectadores o asistentes en general;
+
+II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
+
+III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
+
+IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva federación, y
+
+V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ###### Artículo 129.
 
-En las proximidades de los recintos en que se celebren acontecimientos deportivos calificados de alto riesgo, la autoridad competente en coordinación con los organizadores montará oficinas móviles de denuncias, de equipos de recepción de detenidos y de centros móviles de atención médica.
+Quienes en su carácter de espectador acudan a la celebración de un espectáculo deportivo deberán:
+
+I. Acatar las disposiciones normativas relacionadas con la celebración de espectáculos deportivos que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y
+
+II. Cumplir con las condiciones señaladas en el reverso del boleto y puertas de acceso, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal, del Distrito Federal y municipal, los espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren espectáculos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ###### Artículo 130.
 
-El Cuerpo de Protección Civil prestará toda la ayuda posible a las unidades de policía, para que los efectivos especializados en la prevención de la violencia en los espectáculos deportivos, se mantengan actualizados en las disposiciones técnicas y métodos de trabajo que, a este objeto y en el ámbito de su competencia, establezcan las autoridades responsables.
+Los jugadores, deportistas, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para erradicar la violencia en la celebración de espectáculos deportivos emita la comisión especial y en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Nacionales respectivas.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ###### Artículo 131.
 
-La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos, que en materia de espectáculos públicos dicte la Federación, los Estados, el Distrito Federal y los Municipios.
+Los integrantes del SINADE, tienen la obligación de revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
+
+Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en los espectáculos deportivos, a fin de conseguir su correcta y adecuada implementación.
 
 ### Capítulo VII. De las Infracciones y Sanciones
 
@@ -1323,3 +1419,17 @@ D.O.F. 10 DE ABRIL DE 2007.
 Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las modificaciones al Estatuto Orgánico de la Comisión Nacional de Cultura Física y Deporte y al Reglamento de la Ley General de Cultura Física y Deporte, deberán expedirse dentro de un plazo no mayor a 90 días siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 15 DE JULIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las modificaciones al Reglamento de la Ley General de Cultura Física y Deporte, así como al Estatuto Orgánico de la Comisión Nacional de Cultura Física y Deporte, deberán realizarse y expedirse en un plazo no mayor a 120 días a la fecha de entrada en vigor el presente Decreto.
+
+Tercero. Las comisiones nacionales de deporte profesional, referidas en el artículo 76 de la presente Ley, deberán constituirse en un plazo no mayor a 60 días a la fecha de entrada en vigor el presente Decreto y de conformidad con lo establecido en los lineamientos para su creación, expedidos por la Comisión Nacional de Cultura Física y Deporte y publicados en el Diario Oficial de la Federación el 19 de abril de 2006.
+
+Cuarto. El pleno del Sistema Nacional del Deporte sesionará dentro de los 90 días siguientes a la entrada en vigor el presente Decreto, a fin de dar cumplimiento a lo establecido en el segundo párrafo del artículo 126.
+
+Quinto. La nueva Comisión Especial para la Prevención de la Violencia en la Celebración de Espectáculos Deportivos, conforme a la presente Ley, deberá celebrar su sesión de instalación en un plazo no mayor a 120 días a la fecha de entrada en vigor el presente Decreto. En dicha sesión se deberán aprobar su plan y programas de trabajo.
+
+Sexto. Las Federaciones Deportivas Nacionales, que a la entrada en vigor el presente Decreto, cuenten en su marco regulatorio interior con algún reglamento o lineamiento, referentes a la Prevención de la Violencia en la Celebración de Espectáculos Deportivos, deberán hacerlos del conocimiento de la Comisión Especial referida en el artículo 126.
