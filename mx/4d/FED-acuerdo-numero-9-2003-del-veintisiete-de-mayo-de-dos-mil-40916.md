@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-9-2003-del-veintisiete-de-mayo-de-dos-mil-40916"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-06"
-last_updated: "2004-04-02"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40916&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-05-27"
 
 ACUERDO NUMERO 9/2003 DEL VEINTISIETE DE MAYO DE DOS MIL TRES, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES, PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE ESTE ALTO TRIBUNAL
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL REGLAMENTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL PARA LA APLICACION DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL, PUBLICADO EN EL D.O.F. DE 2 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE LOS ORGANOS SEÑALADOS EN DICHO ACUERDO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE LA COMISION PARA LA TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL Y PROTECCION DE DATOS PERSONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL NUEVE DE JULIO DE DOS MIL OCHO, RELATIVO A LOS ORGANOS Y PROCEDIMIENTOS PARA TUTELAR EN EL AMBITO DE ESTE TRIBUNAL LOS DERECHOS DE ACCESO A LA INFORMACION, A LA PRIVACIDAD Y A LA PROTECCION DE DATOS PERSONALES GARANTIZADOS EN EL ARTICULO 6o. CONSTITUCIONAL, PUBLICADO EN EL D.O.F. DE 15 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Mayo de 2003, página 1319.
 
@@ -648,3 +648,17 @@ TERCERO. Los órganos establecidos en los Acuerdos Generales 9/2003, del Pleno d
 CUARTO. Con la salvedad establecida en el artículo transitorio que antecede, se derogan los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, así como las demás disposiciones derivadas de esos Acuerdos.
 
 QUINTO. La consulta física de los expedientes relativos a los asuntos jurisdiccionales o administrativos, que antes del doce de junio de dos mil tres habían concluido y se encontraban bajo resguardo de la Suprema Corte, del Consejo o de los Organos Jurisdiccionales se permitirá sin mayores restricciones que las necesarias para su conservación.
+
+D.O.F. 15 DE JULIO DE 2008.
+
+PRIMERO. El presente Acuerdo entrará en vigor el primero de septiembre de dos mil ocho.
+
+SEGUNDO. Se abroga el Acuerdo número 9/2003 del veintisiete de mayo de dos mil tres, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, que establece los órganos, criterios y procedimientos institucionales, para la transparencia y acceso a la información pública de este Alto Tribunal; el Acuerdo número 13/2003, de dos de diciembre de dos mil tres, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, que modifica el diverso 9/2003; el Acuerdo General de Administración VI/2006, de 29 de mayo de 2006, del Comité de Comunicación Social de la Suprema Corte de Justicia de la Nación, por el que se determinan los procedimientos para la administración y estructura del portal de Internet de este Alto Tribunal; los Lineamientos de la Comisión para la Transparencia y Acceso a la Información de la Suprema Corte de Justicia de la Nación, de dos de junio de dos mil tres, relativos a la organización, catalogación, clasificación y conservación de la documentación de este Alto Tribunal; los Lineamientos de la Comisión para la Transparencia y Acceso a la Información Pública Gubernamental de la Suprema Corte de Justicia de la Nación, del nueve de noviembre de dos mil siete, relativos al procedimiento para la consulta física de los expedientes judiciales concluidos antes del doce de junio de dos mil tres que se encontraban bajo resguardo del Centro de Documentación y Análisis de este Alto Tribunal; las Políticas de actualización y publicación del directorio telefónico en la red de la Suprema Corte de Justicia de la Nación, aprobadas por la Comisión para la Transparencia y Acceso a la Información Pública Gubernamental de la Suprema Corte de Justicia de la Nación el catorce de junio de dos mil cuatro; los Lineamientos para la elaboración de versiones públicas de las sentencias del Pleno y de las Salas de la Suprema Corte de Justicia de la Nación, en vigor desde el dieciséis de mayo de dos mil siete; el Instructivo para la elaboración de versiones públicas de los expedientes y las resoluciones que tiene bajo su resguardo la Suprema Corte de Justicia de la Nación, aprobado el dieciséis de abril de dos mil ocho, por el Comité de Acceso a la Información y Protección de Datos Personales de la Suprema Corte de Justicia de la Nación; así como cualquier otra disposición general que se oponga a lo previsto en este Acuerdo.
+
+TERCERO. Para la declaración de modificación de la situación patrimonial de los servidores públicos de la Suprema Corte correspondiente al año dos mil nueve, la Contraloría de este Alto Tribunal propondrá al Comité de Gobierno y Administración los ajustes al formato respectivo que permitan reflejar la situación patrimonial de aquéllos, así como los necesarios para que a partir del año dos mil diez en las referidas declaraciones se manifiesten las variaciones porcentuales mencionadas en la fracción XVI del artículo 25 de este Acuerdo.
+
+CUARTO. Los integrantes del Comité deberán celebrar sendas sesiones de trabajo con los titulares de los órganos indicados en el artículo 29 del presente Acuerdo, para lograr la adecuada publicación de la información prevista en ese numeral, debiendo informar a esta Comisión los resultados obtenidos.
+
+QUINTO. Los proyectos de resolución en materia de ejecución, pendientes de presentar por los integrantes del Comité, se deberán someter a éste conforme al programa que autorice la Comisión.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública.
