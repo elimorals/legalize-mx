@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2008-06-17"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -102,7 +102,9 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Estimular la educación física y la práctica del deporte;
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2008)</small>
+
+X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -112,7 +114,11 @@ XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2006)</small>
 
-XIII.- Fomentar los valores y principios del cooperativismo.
+XIII.- Fomentar los valores y principios del cooperativismo;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2008)</small>
+
+XIV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -1047,3 +1053,15 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 D.O.F. 17 DE JUNIO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JULIO DE 2008.
+
+DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 7o. DE LA LEY GENERAL DE EDUCACION.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JULIO DE 2008.
+
+DECRETO QUE ADICIONA LA FRACCION XIV AL ARTICULO 7o. DE LA LEY GENERAL DE EDUCACION.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
