@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-para-la-proteccion-al-ahorro-52326"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-29"
-last_updated: "2006-11-29"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52326&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-11-27"
 
 REGLAMENTO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO, PUBLICADO EN EL D.O.F. DE 15 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de noviembre de 2006.
 
@@ -126,3 +128,25 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Las acciones que se deriven de la aplicación del presente Reglamento, se sujetarán al presupuesto aprobado para el Instituto para la Protección al Ahorro Bancario, sin que implique la asignación de recursos adicionales.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE JULIO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto para la Protección al Ahorro Bancario, publicado en el Diario Oficial de la Federación el 29 de noviembre de 2006.
+
+TERCERO.- Las acciones que se deriven de la aplicación del presente Reglamento, se sujetarán al presupuesto aprobado para el Instituto para la Protección al Ahorro Bancario, sin que implique la asignación de recursos adicionales.
+
+CUARTO.- Las menciones que se hagan en cualquier disposición administrativa, resoluciones, oficios y demás documentos relacionados con el ejercicio de las atribuciones de las unidades administrativas a que se refiere el presente Reglamento, se entenderán efectuadas en los términos siguientes:
+
+Las referencias hechas a la Dirección General de Planeación, Análisis e Investigación Financiera, se entenderán referidas a la Dirección General del Seguro de Depósito.
+
+Las referencias hechas a la Secretaría Adjunta de Recuperación de Activos, se entenderán referidas a la Secretaría Adjunta de Recuperación de Activos y Asuntos Internacionales.
+
+Las referencias hechas a las Direcciones Generales de Bienes Corporativos, de Recuperación de Bienes Muebles e Inmuebles, y de Carteras Crediticias, se entenderán referidas a la Dirección General de Administración y Enajenación de Activos.
+
+Las referencias hechas a la Dirección General Jurídica de Recuperación, se entenderán referidas a la Dirección General Jurídica Técnica y de Recuperación.
+
+Las referencias hechas a la Dirección General Jurídica de lo Consultivo, se entenderán referidas a la Dirección General Jurídica de Normatividad y Consulta.
