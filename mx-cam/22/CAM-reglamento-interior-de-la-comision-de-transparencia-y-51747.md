@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-comision-de-transparencia-y-51747"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-14"
-last_updated: "2007-01-16"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 14 de septiembre de 2006.
 
@@ -807,9 +807,11 @@ El horario de labores de la Comisión será de las 8:00 a las 15:00 horas, todos
 
 Se considerarán hábiles todos los días del año, excepto los días de descanso obligatorio que señala la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche, los sábados y domingos, y los demás días que determine el Pleno al aprobar el calendario anual de labores que le proponga el Presidente. La recepción de documentos en la Comisión se hará de las 08:00 a las 15:00 horas, incluyendo la vía electrónica.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2008)</small>
+
 ###### Artículo 56.
 
-Los períodos vacacionales del personal de la Comisión serán programados escalonadamente, mediante acuerdo entre el titular del área respectiva y sus trabajadores; durante los mismos, se designarán las guardias necesarias para la recepción y trámite de la correspondencia y de los recursos previstos en la Ley.
+Los períodos vacacionales del personal de la Comisión serán programados al aprobar el Calendario Anual de Labores; durante los mismos, se designarán las guardias del personal, si así fuere necesario, para la recepción y trámite de la correspondencia y no correrán los términos previstos en la Ley y en los Lineamientos correspondientes, exclusivamente para los efectos del trámite, substanciación y resolución de las solicitudes de información interpuestas ante la Unidad de Acceso de la Comisión, así como de los recursos previstos en la Ley.
 
 ### CAPÍTULO II. DEL RECURSO DE REVISIÓN
 
@@ -1097,8 +1099,12 @@ C.D.O. Gonzalo E. Bojórquez Risueño, Comisionado Presidente.- C.P. Tirso A. R.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 16 DE ENERO DE 2007 .
+P.O. 16 DE ENERO DE 2007.
 
 PRIMERO. La presente Modificación entrará en vigor el mismo día de su aprobación por el Pleno de la Comisión.
 
 SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2008.
+
+ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
