@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "2000-01-13"
+last_updated: "2008-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1988-11-25"
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
@@ -1038,13 +1038,29 @@ d) Pagar los pasivos contraídos por los trabajadores respecto de los conceptos 
 
 II. Para el financiamiento de la construcción de unidades habitacionales para los trabajadores, que adquirirán mediante créditos que otorgue la Institución.
 
-III. A pagar a los trabajadores los depósitos constituidos que de acuerdo a las disposiciones del presente les correspondan.
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
 
-IV. Al pago de los gastos que origine la administración, operación y vigilancia del fondo.
+III. Para el cofinanciamiento de créditos hipotecarios celebrados conjuntamente con otras instituciones de crédito para la adquisición de vivienda de interés social.
 
-V. A la adquisición de los inmuebles necesarios para la consecución de los fines del fondo.
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
 
-VI. A cubrir todos los demás gastos inherentes a su finalidad.
+IV. A pagar a los trabajadores los depósitos constituidos que de acuerdo con las disposiciones del presente le correspondan.
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
+
+V. Al pago de los gastos que origine la administración, operación y vigilancia del fondo.
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
+
+VI. A la adquisición de los inmuebles necesarios para la consecución de los fines del fondo.
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2008)</small>
+
+VII. A cubrir las contingencias financieras derivadas de las actividades institucionales o de operatividad del Organismo, previa autorización del Consejo Directivo.
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2008)</small>
+
+VIII. A cubrir todos los demás gastos inherentes a su finalidad.
 
 ###### ARTICULO 144.
 
@@ -1327,3 +1343,7 @@ DEL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 G.O. 13 DE ENERO DE 2000.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+G.O. 15 DE JULIO DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
