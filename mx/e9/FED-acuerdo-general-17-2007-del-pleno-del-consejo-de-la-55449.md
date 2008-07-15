@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2007-del-pleno-del-consejo-de-la-55449"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2008-07-14"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-05-02"
 
 ACUERDO GENERAL 17/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -477,15 +477,15 @@ ACLARACIONES A LOS INFORMES RENDIDOS POR LA INSTITUCION DEPOSITARIA. Los informe
 
 EJERCICIO DE LOS RECURSOS DEL FONDO. El ejercicio de los recursos disponibles que integren el Fondo, se regirá por los principios de eficiencia, eficacia y honradez que postula el artículo 134 de la Constitución Federal, a fin de satisfacer los objetivos a los que están destinados, de conformidad con lo dispuesto por la Ley.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 32/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ###### Artículo 61.
 
-APLICACION DE LOS RECURSOS DEL FONDO. Para el ejercicio de los recursos disponibles, el Comité autorizará anualmente su destino, que comprenderá los conceptos señalados por el artículo 249 de la Ley.
+APLICACION DE LOS RECURSOS DISPONIBLES DEL FONDO. El Comité autorizará la aplicación de los recursos conforme a lo dispuesto en el artículo 249 de la Ley.
 
 ###### Artículo 62.
 
-AUTORIZACION DEL DESTINO DE LOS RECURSOS. Durante el primer trimestre de cada ejercicio fiscal, el Comité autorizará el destino de los recursos disponibles del Fondo, con base en la información de la plantilla de plazas, los proyectos que no se ejecutaron durante el año anterior, los proyectos del ejercicio fiscal vigente aplazados por las restricciones al presupuesto de egresos del Consejo y las prioridades institucionales.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 32/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JULIO DE 2008)
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
@@ -580,5 +580,13 @@ D.O.F. 14 DE JULIO DE 2008.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 17/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Regula la Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia.
+
+D.O.F. 15 DE JULIO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 17/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Regula la Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia.
