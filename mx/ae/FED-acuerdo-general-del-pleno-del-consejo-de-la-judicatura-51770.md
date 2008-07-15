@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-04-25"
+last_updated: "2008-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -955,9 +955,11 @@ Las licencias podrán ser otorgadas con o sin goce de sueldo hasta por seis mese
 
 Las licencias sin goce de sueldo no se computarán como tiempo de servicio prestado al Poder Judicial de la Federación, salvo en los casos en que el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado conceda licencia por enfermedad, en términos del antepenúltimo párrafo del artículo 111 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 constitucional.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ARTICULO 108 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 15 DE JULIO DE 2008)</small>
+
 ###### Artículo 108.
 
-Las licencias con goce de sueldo sólo serán concedidas cuando las motive una causa de fuerza mayor que impida el ejercicio del cargo a juicio del Pleno, mediante propuesta de la Comisión de Administración.
+Las licencias con goce de sueldo serán concedidas por la Comisión de Administración sólo cuando las motive una causa de fuerza mayor que impida el ejercicio del cargo.
 
 ###### Artículo 109.
 
@@ -1456,5 +1458,13 @@ D.O.F. 25 DE ABRIL DE 2008.
 PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
+
+D.O.F. 15 DE JULIO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el veinticinco de junio del año en curso.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
