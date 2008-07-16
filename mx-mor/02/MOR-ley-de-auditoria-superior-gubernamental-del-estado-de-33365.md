@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-superior-gubernamental-del-estado-de-33365"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-11"
-last_updated: "2006-05-31"
+last_updated: "2008-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE AUDITORIA SUPERIOR GUBERNAMENTAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 11 de agosto de 2003.
 
@@ -161,7 +161,11 @@ d) La información analítica que muestre el registro de las operaciones derivad
 
 e) Los avances físico-financieros de los programas, el cumplimiento de las metas;
 
-f) El resultado de las operaciones de los poderes del Estado, municipios y entes públicos estatales y municipales y demás entidades fiscalizables, además de los estados detallados de la deuda pública estatal y municipal; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+f) El resultado de las operaciones de los poderes del Estado, municipios y entes públicos estatales y municipales y demás entidades fiscalizables, además de los estados detallados de la deuda pública estatal y municipal y la información sobre el ejercicio de las partidas correspondientes a contratos de colaboración público privada; y
 
 g) El avance de la gestión financiera.
 
@@ -209,7 +213,11 @@ III. El desempeño, eficiencia, eficacia y economía, en el cumplimiento de los 
 
 IV. En forma posterior a la conclusión de los procesos correspondientes, el resultado de la gestión financiera de los Poderes del Estado, Municipios, entes públicos estatales y municipales y demás entidades fiscalizadas;
 
-V. Si la gestión financiera cumple con las leyes, decretos, reglamentos y demás disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+V. Si la gestión financiera cumple con las leyes, decretos, reglamentos y demás disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental, deuda pública, contratación de servicios, obra pública, adquisiciones, arrendamientos, contratos de colaboración público privada, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
 VI. Si la recaudación, administración, manejo y aplicación de recursos estatales y municipales y si los actos, contratos, convenios, concesiones u operaciones que las entidades fiscalizadas celebren o realicen, se ajustan a la legalidad, y si no han causado daños o perjuicios en contra del Estado y Municipios en su hacienda pública o al patrimonio de los entes públicos estatales o municipales y demás entidades fiscalizadas;
 
@@ -239,7 +247,11 @@ IV. Examinar el cumplimiento final de los objetivos y metas fijados en los progr
 
 V. Verificar que las entidades fiscalizadas que hubieren recibido, recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos con cargo a las partidas correspondientes, se efectúen con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VI. Verificar que las operaciones que realicen el Gobierno del Estado, los Gobiernos Municipales y los entes públicos estatales y municipales y demás entidades fiscalizables sean acordes con las Leyes de Ingresos y los Presupuestos de Egresos del Estado y Municipios, y se efectúen con apego a las disposiciones respectivas de la legislación fiscal; las Leyes de Deuda Pública, de Presupuesto, Contabilidad y Gasto Público, de Planeación, Orgánica del Poder Judicial, Orgánica del Congreso, Orgánica de la Administración Pública, todas del Estado de Morelos y demás disposiciones legales y administrativas aplicables a estas materias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VI. Verificar que las operaciones que realicen el Gobierno del Estado, los Gobiernos Municipales y los entes públicos estatales y municipales y demás entidades fiscalizables sean acordes con las Leyes de Ingresos y los Presupuestos de Egresos del Estado y Municipios, y se efectúen con apego a las disposiciones respectivas de la legislación fiscal; las Leyes de Deuda Pública, de Presupuesto, Contabilidad y Gasto Público, de Planeación, de Obras Públicas, de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios, de Contratos de Colaboración Público Privada, Orgánica del Poder Judicial, Orgánica del Congreso, Orgánica de la Administración Pública, todas del Estado de Morelos y demás disposiciones legales y administrativas aplicables a estas materias;
 
 VII. Enterarse, conocer y resolver sobre los recursos que se interponga (sic) en contra de las resoluciones y sanciones aplicadas;
 
@@ -1276,3 +1288,9 @@ P.O. 31 DE MAYO DE 2006.
 PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
