@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2003-09-03"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -128,6 +128,12 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 Los titulares de las dependencias, de los órganos de gobierno, de las entidades y las autoridades municipales emitirán, bajo su responsabilidad, las políticas, bases y lineamientos para el cumplimiento y observancia de la presente ley.
 
 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados cuando estos los lleven a cabo, ni las obras concesionadas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Tampoco será aplicable esta ley a obras o servicios relacionados con las mismas, cuya contratación se encuentre contemplada dentro del objeto de contratos de colaboración público privada autorizados por el Congreso del Estado. En esos casos será aplicable la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos.
 
 No estarán dentro del ámbito de aplicación de esta Ley, los contratos que celebren las dependencias con la Secretaría o los Ayuntamientos, o entre dependencias; no obstante, dichos actos quedarán sujetos a este ordenamiento cuando la Dependencia o Entidad obligada a realizar los trabajos no tenga la capacidad para hacerlos por si misma y contrate a un tercero para llevarlos a cabo.
 
@@ -1224,3 +1230,9 @@ P.O. 3 DE SEPTIEMBRE DE 2003
 PRIMERA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 SEGUNDA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
