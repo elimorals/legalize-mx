@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2005-07-27"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -155,9 +155,11 @@ Todas las dependencias y entidades que de sus actividades generen ingresos que c
 
 Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través del Órgano Superior de Auditoría.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios, para que puedan incluirse en las respectivas iniciativas de Leyes de Ingresos, se entregarán oportunamente, con el fin de que puedan ser presentadas según lo dispone el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el primero de octubre de cada año al Congreso del Estado:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+
+Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios, para que puedan incluirse en las respectivas iniciativas de Leyes de Ingresos, se entregarán oportunamente, con el fin de que puedan ser presentadas al Congreso del Estado en los términos que señala el artículo 32, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Morelos:
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -195,19 +197,27 @@ El Presupuesto de Egresos del Gobierno del Estado, será el que contenga el Decr
 
 El Presupuesto de Egresos del Municipio será el que apruebe el Ayuntamiento a iniciativa del Presidente Municipal, el que será enviado para su publicación al Periódico Oficial del Estado o en la Gaceta Municipal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 17.
 
-El Presupuesto de Egresos del Gobierno del Estado y de cada Municipio comprenderá también, en apartado especial, las previsiones del Gasto Público que habrán de realizar respectivamente las entidades de la Administración Pública Paraestatal y de la Administración Pública Paramunicipal.
+El Presupuesto de Egresos del Gobierno del Estado y de cada Municipio incluirá un capítulo específico que incorpore las erogaciones derivadas de contratos de colaboración público privada y, comprenderá también, en apartado especial, las previsiones del Gasto Público que habrán de realizar respectivamente las entidades de la Administración Pública Paraestatal y de la Administración Pública Paramunicipal.
 
 En el caso de entidades intermunicipales, cada Municipio contemplará las erogaciones que en lo particular le corresponden.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ### CAPITULO TERCERO. DEL PRESUPUESTO DE EGRESOS
 
 ###### ARTICULO 18.
 
-Todas las erogaciones deberán cubrirse siempre con los ingresos previstos, de manera que se guarde el equilibrio presupuestal. La Secretaría de Hacienda y los Ayuntamientos, verificarán, cuando los ingresos ordinarios y en su caso los extraordinarios no sean suficientes para cubrir el Presupuesto de Egresos correspondiente, que se determinen las fuentes de contratación de financiamiento y elaborando el Programa Financiero Estatal respectivo.
+Todas las erogaciones deberán cubrirse siempre con los ingresos previstos, de manera que se contribuya al equilibrio presupuestal. La Secretaría de Hacienda y los Ayuntamientos, verificarán, cuando los ingresos ordinarios y en su caso los extraordinarios no sean suficientes para cubrir el Presupuesto de Egresos correspondiente, que se determinen las fuentes de contratación de financiamiento y elaborarán el Programa Financiero respectivo.
 
-Si éste es el caso, los Ayuntamientos entregarán a la Secretaría de Hacienda toda la información que ésta solicite.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 19.
 
@@ -235,7 +245,17 @@ IV.- Ingresos y gastos realizados en el período transcurrido del ejercicio fisc
 
 V.- Estimación de los ingresos y propósitos de gastos del período por transcurrir del ejercicio fiscal en curso;
 
-VI.- Programa Financiero del Estado, que contenga la situación de la deuda Pública al término del último ejercicio fiscal, el detalle de lo que se va a contratar y la estimación de la que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VI.- En su caso, Programa Financiero del Estado, que contenga la situación de la deuda Pública al término del último ejercicio fiscal, el detalle de lo que se va a contratar y la estimación de la que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VI bis.- Un capítulo específico que incorpore la estimación de las erogaciones derivadas de contratos de colaboración público privada;
 
 VII.- Estructura organizacional y funciones vigentes así como las modificaciones propuestas, y
 
@@ -303,9 +323,17 @@ El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deber�
 
 Las inversiones físicas en obra Pública que realicen las entidades se apegarán a las disposiciones legales aplicables, integrando debidamente los expedientes técnicos, y las inversiones financieras se integran por las cuentas por cobrar y obras en proceso que mantienen las entidades en relación al cumplimiento de su objetivo social.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 30.
 
-La deuda pública a amortizar, deberá cumplir previamente con lo establecido en la Ley de Deuda Pública del Estado.
+Para su amortización, la deuda pública deberá contar con las autorizaciones y registros, previstos en las Leyes de Deuda Pública y de Contratos de Colaboración Público Privada, según corresponda.
+
+De la misma forma, los contratos de colaboración público privada que, en términos de lo previsto por la legislación aplicable no constituyan deuda pública, deberán contar para su pago, con las autorizaciones previstas en la Ley de Contratos de Colaboración Público Privada.
+
+La presupuestación y la clasificación del gasto derivado de contratos de colaboración público privada se regirá por lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos, en esta ley, en la Ley de Contratos de Colaboración Pública Privada para el Estado de Morelos y, en lo aplicable, por la Ley de Deuda Pública para el Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -315,9 +343,13 @@ La deuda pública a amortizar, deberá cumplir previamente con lo establecido en
 
 Toda erogación o Gasto Público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, y se sujetará a las reglas que determinen, en su caso, la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 32.
 
-Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones, que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática; pero tampoco será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se destinarán por conducto de la Secretaría de Hacienda o las Tesorerías Municipales, a los programas prioritarios y que requieran financiamiento, a la amortización o pago de la Deuda Pública o a los fines de asistencia social que determinen el Ejecutivo del Estado o los Ayuntamientos.
+Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones, que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, o de partidas correspondientes a empréstitos o a contratos de colaboración público privada en los casos en que deban ajustar su monto de manera automática previstos en el Artículo 32 de la Constitución Política del Estado. En el caso de las partidas o concepto de gasto de ampliación automática no será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se destinarán por conducto de la Secretaría de Hacienda o las Tesorerías Municipales, a los programas prioritarios y que requieran financiamiento, a la amortización o pago de la Deuda Pública o a los fines de asistencia social que determinen el Ejecutivo del Estado o los Ayuntamientos.
 
 ###### ARTICULO 33.
 
@@ -339,6 +371,12 @@ Las entidades de la Administración Pública Paraestatal y Paramunicipal adminis
 
 Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas, en el ámbito de su competencia por la Secretaría de Hacienda, Tesorerías Municipales, Sindicaturas, la Contraloría del Estado, y Contadurías y Unidades Internas de Auditorías, resultantes de las atribuciones de vigilancia o verificación del Gasto Público dispuestas por ésta Ley o por la Contaduría Mayor de Hacienda del Congreso del Estado resultantes de las atribuciones de fiscalización de las cuentas Públicas de conformidad con las leyes aplicables en la materia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+No se considerará concluida la vigencia del Presupuesto de Egresos en los casos en que deba continuar vigente no obstante haber sido aprobado para un ejercicio fiscal anterior, previstos en el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
 ###### ARTICULO 36.
 
 La Oficialía Mayor del Gobierno del Estado y las Comisiones o Dependencias Municipales que determine cada Ayuntamiento, en el ámbito de su competencia, serán responsables de que se lleve un registro del personal de las dependencias, y de aquellas entidades que para su operación reciban recursos del Poder Ejecutivo del Estado o de los Municipios.
@@ -353,15 +391,19 @@ Los Catálogos de Cuentas que utilizarán las dependencias a que se refieren el 
 
 El Poder Legislativo y el Poder Judicial, en el ámbito de sus respectivas competencias, emitirán sus propios catálogos de cuentas apegándose a los lineamientos, que se requieran a efecto de ser congruentes en sus sistemas contables con los establecidos para las dependencias del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 38.
 
-Es facultad de la Secretaría de Finanzas y Planeación formular la Cuenta Pública anual de la Hacienda Estatal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades Paraestatales o Paramunicipales, incluidas en los presupuestos de egresos para someterla a consideración del Ejecutivo del Estado, para su respectiva presentación al Congreso del Estado. Dicha Cuenta Pública se elaborará por trimestres comprendidos de enero a marzo; de abril a junio; de julio a septiembre y de octubre a diciembre.
+Es facultad de la Secretaría de Finanzas y Planeación formular la Cuenta Pública anual de la Hacienda Estatal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades Paraestatales o Paramunicipales, incluidas en los presupuestos de egresos para someterla a consideración del Ejecutivo del Estado, para su respectiva presentación al Congreso del Estado. Dicha Cuenta Pública se elaborará por trimestres calendario comprendidos de enero a marzo; de abril a junio; de julio a septiembre y de octubre a diciembre.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Ejecutivo rendirá la Cuenta Pública trimestralmente a más tardar el último día hábil del mes siguiente de cada trimestre. Para el cumplimiento de lo anterior, la Secretaría de Finanzas y Planeación dictará las disposiciones administrativas que procedan.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+El Ejecutivo rendirá la Cuenta Pública trimestralmente a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario. Para el cumplimiento de lo anterior, la Secretaría de Finanzas y Planeación dictará las disposiciones administrativas que procedan.
 
 Para el cumplimiento de lo anterior, la Secretaría de Hacienda dictará las disposiciones administrativas que procedan.
 
@@ -371,9 +413,11 @@ La Secretaría de Hacienda, las Dependencias y Entidades Estatales y Paraestatal
 
 En el ámbito Municipal, la facultad a que se refiere el primer párrafo del artículo anterior corresponde a las Tesorerías Municipales que habrán de preparar la cuenta Anual del Municipio y someterla al Cabildo.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los Ayuntamientos enviarán al Congreso del Estado, de conformidad con el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el 31 de enero de cada año, la cuenta pública correspondiente al año anterior, a excepción del año en que concluya un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo, a más tardar el 30 de noviembre el ayuntamiento que concluya, y el 31 de enero el que inicie, correspondiente a los últimos dos meses del año en que se haga el cambio.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Los Ayuntamientos enviarán al Congreso del Estado, de conformidad con el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el 31 de enero de cada año, la cuenta pública correspondiente al año anterior, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 30 de noviembre, la cuenta pública correspondiente a los meses de enero a octubre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses de noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -554,3 +598,9 @@ SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 TERCERO.- Se instruye a la Secretaría General de Servicios Legislativos y Parlamentarios, para que una vez aprobado y publicado el presente Decreto, de a conocer a los Presidentes Municipales, Tesoreros Municipales, al Titular del Poder Judicial y de las Entidades de la Administración Pública Paraestatal y Paramunicipal, la reforma aprobada.
 
 CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
