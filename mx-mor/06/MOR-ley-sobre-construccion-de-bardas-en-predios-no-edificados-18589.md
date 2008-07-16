@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-construccion-de-bardas-en-predios-no-edificados-18589
 country: "mx"
 rank: "ley"
 publication_date: "1965-03-31"
-last_updated: "1965-03-31"
+last_updated: "2008-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MOR"
 
 LEY SOBRE CONSTRUCCION DE BARDAS EN PREDIOS NO EDIFICADOS EN EL MUNICIPIO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO OCHOCIENTOS TREINTA Y UNO, PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 31 de marzo de 1965.
 
@@ -192,3 +194,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. Fausto Galván Campos
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- Una vez aprobado, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+Artículo Segundo.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
