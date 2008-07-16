@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2008-06-20"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -233,6 +233,10 @@ III.- Residir habitualmente en el territorio del Estado.
 Son derechos del ciudadano morelense:
 
 I.- Votar y participar activamente en las elecciones populares y en los procesos de plebiscito y referéndum a los que se convoque, en los términos que señale la Ley;
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Los ciudadanos morelenses radicados en el extranjero solo podrán participar en las elecciones para Gobernador del Estado, en los términos que señala la ley.
 
 > <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
@@ -520,93 +524,79 @@ Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas gra
 
 INSTITUCIONES Y PROCESOS ELECTORALES.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 23.
 
-Los procesos electorales del Estado se efectuarán conforme a las bases que establece la presente Constitución y las leyes de la materia, y se sujetarán a los principios de certeza, legalidad, independencia, imparcialidad, equidad, objetividad y profesionalismo.
+Los procesos electorales del Estado se efectuarán conforme a las bases que establece la presente Constitución y las leyes de la materia y se sujetarán a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, y equidad de género.
 
-Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las federales.
+Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las federales. La duración de las campañas no deberá exceder de setenta y cinco días para la elección de gobernador, ni de sesenta días para la elección de diputados locales o ayuntamientos. Las precampañas de los partidos políticos para elegir a sus candidatos a cargos de elección popular no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-I.- Los Partidos Políticos son entidades de interés público. Tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. La ley determinará las formas específicas de su intervención en los procesos electorales del Estado. La afiliación de los ciudadanos será libre e individual a los Partidos Políticos.
+I.- Los partidos políticos son entidades de interés público. Tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo.
 
-La ley establecerá las reglas para la constitución y registro de los Partidos Políticos estatales.
+La ley determinará las formas específicas de su intervención en los procesos electorales del estado. Los partidos políticos sólo se constituyen por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa.
 
-II.- En los procesos electorales del Estado, la ley garantizará que los Partidos Políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la ley señalará las reglas a que se sujetará el financiamiento de los Partidos Políticos y sus campañas electorales bajo los siguientes lineamientos:
+La ley establecerá las reglas para la Constitución, registro, vigencia y liquidación, de los partidos políticos.
 
-A).- El financiamiento público para los Partidos Políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Los recursos públicos prevalecerán sobre los de origen privado.
+II.- En los procesos electorales del estado, la ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso de los medios de comunicación, conforme a las normas establecidas por el Apartado B de la fracción III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
-B).- La ley fijará los criterios para determinar los límites a las erogaciones de los Partidos Políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales bajo los siguientes lineamientos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+1).- El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y por actividades específicas, conforme a las siguientes bases:
 
-III.- La organización, dirección y vigilancia de las elecciones estará a cargo de un organismo público autónomo denominado Instituto Estatal Electoral. En su integración participan los Poderes Ejecutivo y legislativo del Estado, los Partidos Políticos y los ciudadanos. Como autoridad en la materia, tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. En el ejercicio de sus funciones, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+A.- En ambos casos se garantizará el reparto igualitario del 10% del total del financiamiento entre todos los partidos con registro en el estado;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+B.- El resto del financiamiento se asignará a los partidos políticos que obtengan, al menos, el 3.5% de la votación estatal válida en la elección de diputados locales inmediata anterior, conforme lo disponga la ley reglamentaria de la materia;
+
+C.- Los recursos públicos prevalecerán sobre los de origen privado.
+
+2).- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador;
+
+Asimismo, fijará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y señalará las sanciones que deban imponerse por incumplimiento de estas disposiciones.
+
+3).- Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión de toda propaganda gubernamental en los medios de comunicación social tanto en los poderes federales y estatales, como de los municipios. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que denigre a las instituciones, los partidos o las personas.
+
+Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes.
+
+4).- Los servidores públicos de la federación, el estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos a su disposición, sin afectar la igualdad de oportunidades de los partidos políticos.
+
+5).- La propaganda bajo cualquier modalidad de comunicación social, de acciones, programas, políticas públicas, obras, servicios y campañas de todo tipo que emprendan los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente público de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en los respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
+III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum, estarán a cargo de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan el poder legislativo del estado, los partidos políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley e instituirá las bases obligatorias para la coordinación con el Instituto Federal Electoral en materia de fiscalización de las finanzas de los partidos políticos, en los términos establecidos en artículo 116 fracción IV inciso k) de la Constitución General de la República y se establecerá en la ley de la materia.
+
+El Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral que este se haga cargo de la organización de los procesos electorales locales previa autorización del Congreso del Estado en los términos que establezca la ley de la materia.
 
 El Instituto Estatal Electoral dispondrá de los medios necesarios para brindar el servicio profesional electoral.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
-
 El Instituto Estatal Electoral, a su vez, calificará la procedencia o improcedencia de las solicitudes de plebiscito o referéndum, y se encargará de la organización, dirección y vigilancia de estos procedimientos de participación ciudadana, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2008)</small>
-
-Los Partidos Políticos con registro en el Estado podrán solicitar el auxilio y colaboración del Instituto Estatal Electoral para llevar acabo sus procesos de selección interna.
 
 IV.- El órgano superior de dirección del Instituto Estatal Electoral, se denominará Consejo Estatal Electoral y se integrará de la siguiente forma:
 
-A).- Por un Consejero Presidente y cuatro Consejeros Electorales, quienes deberán reunir los requisitos que la ley señale, entre los cuales se considerará, no haberse desempeñado como alto funcionario de la Federación, del Estado y de los Municipios, tanto de la administración central como del sector paraestatal y hasta por siete años anteriores a la designación; o haber ejercido cargos de elección popular o directivos a nivel nacional, estatal, distrital o municipal de algún partido político en siete años anteriores a su designación. Serán nombrados por el voto de las dos terceras partes del total de los Diputados integrantes del Congreso, de entre las propuestas que para tal efecto hagan los grupos parlamentarios que conformen la legislatura en la forma y términos que disponga la ley correspondiente. El Consejero Presidente y los Consejeros Electorales serán electos sucesivamente por el mismo Congreso del Estado, o en sus recesos, por la Diputación Permanente.
+A).- Por un Consejero Presidente y cuatro Consejeros Electorales, quienes deberán reunir los requisitos que la ley señale, entre los cuales se considerará no haberse desempeñado como alto funcionario de la federación, del estado y de los municipios, tanto de la administración central como del sector paraestatal y hasta por siete años anteriores a la designación; o haber ejercido cargos de elección popular o directivos a nivel nacional, estatal, distrital o municipal de algún partido político en siete años anteriores a su designación.
 
-De la misma forma, se elegirán cuatro Consejeros Electorales con el carácter de suplentes, en orden de prelación, que suplirán las ausencias temporales o definitivas de los Consejeros Electorales propietarios.
+Serán nombrados por el voto de las dos terceras partes del total de los diputados integrantes del congreso, de entre las propuestas que para tal efecto hagan los grupos parlamentarios que conformen la legislatura en la forma y términos que disponga la ley correspondiente. El consejero presidente y los consejeros electorales serán electos sucesivamente por el mismo Congreso del Estado, o en sus recesos, por la Diputación Permanente.
 
-El Consejero Presidente y los Consejeros Electorales durarán en su cargo cuatro años, con posibilidad de ser electos para una segunda ocasión, y no podrán tener ningún otro empleo, cargo o comisión, de la Federación, del Estado, de los Municipios o de los particulares; excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia, en tanto no impidan el ejercicio expedito de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
+De la misma forma, se elegirán cuatro consejeros electorales con el carácter de suplentes, en orden de prelación, que suplirán las ausencias temporales o definitivas de los consejeros electorales propietarios.
 
-B).- Por el Secretario Ejecutivo del Instituto Estatal Electoral, quien será designado por el voto de las dos terceras partes de los Integrantes del Consejo Estatal Electoral, de entre las propuestas que presenten en terna ellos mismos.
+El Consejero Presidente y los consejeros electorales durarán en su cargo cuatro años, con posibilidad de ser electos para una segunda ocasión, y no podrán tener ningún otro empleo, cargo o comisión, de la federación, del estado, de los municipios o de los particulares; excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia, en tanto no impidan el ejercicio expedito de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-C).- Por un representante del Poder Ejecutivo.
+B).- Por el Secretario Ejecutivo del Instituto Estatal Electoral, quien será designado por el voto de las dos terceras partes de los integrantes del Consejo Estatal Electoral, de entre las propuestas que presenten en terna ellos mismos.
 
-D).- Por un representante de cada uno de los grupos parlamentarios que existan en el Congreso del Estado.
+C).- Por un representante de cada uno de los grupos parlamentarios que existan en el Congreso del Estado.
 
-E).- Por un representante de cada uno de los Partidos Políticos con registro en el Estado.
+D).- Por un representante de cada uno de los partidos políticos con registro en el Estado.
 
-Los integrantes del Consejo Estatal Electoral tendrán derecho a voz, y sólo el Consejero Presidente y los Consejeros Electorales tendrán derecho a voto.
+Los integrantes del Consejo Estatal Electoral tendrán derecho a voz, y sólo el Consejero Presidente y los consejeros electorales tendrán derecho a voto.
 
-V.- El Instituto Estatal Electoral a través de sus órganos y de acuerdo con lo que disponga la ley, realizará los cómputos respectivos y declarará la validez de las elecciones de Gobernador, Diputados y Ayuntamientos; otorgará las constancias a los candidatos que hubiesen obtenido la mayoría de votos y hará la asignación de Diputados y Regidores de representación proporcional; asimismo regulará la observación electoral.
+V.- El Instituto Estatal Electoral a través de sus órganos y de acuerdo con lo que disponga la ley, realizará los cómputos respectivos y declarará la validez de las elecciones de gobernador, diputados y ayuntamientos; otorgará las constancias a los candidatos que hubiesen obtenido la mayoría de votos y hará la asignación de diputados y regidores de representación proporcional; asimismo regulará la observación electoral.
 
 Las sesiones de todos los órganos colegiados del Instituto Estatal Electoral serán públicas y sus resoluciones recurribles en los términos de la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+VI.- Para garantizar los principios de legalidad y constitucionalidad de los actos y resoluciones electorales, así como de los procedimientos de plebiscito y referéndum, se establecerá un sistema de medios de impugnación, tanto administrativo como jurisdiccional, en los términos que esta Constitución y la ley señalen. Este sistema además garantizará los recuentos totales o parciales de votación que así lo requieran, las causas de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos y la protección de los derechos políticos de los ciudadanos para votar, ser votado participar en los procedimientos de plebiscito y referéndum y de asociación en los términos del artículo 14 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
-VI.- Para garantizar los principios de legalidad y constitucionalidad de los actos y resoluciones electorales, así como de los procedimientos de plebiscito y referéndum, se establecerá un sistema de medios de impugnación, tanto administrativos como jurisdiccionales, en los términos que esta Constitución y la ley señalen. Este sistema además garantizará la protección de los derechos políticos de los ciudadanos para votar, ser votado, participar en los procedimientos de plebiscito y referéndum y de asociación en los términos del artículo 14 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
-
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
-
-El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, se integrará por tres Magistrados propietarios con sus respectivos suplentes; tendrá competencia para resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral, en los tiempos no electorales, así como en lo relativo al plebiscito y al referéndum, en las formas y términos que determine la ley.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
-
-El Tribunal Estatal Electoral administrará sus recursos a través del Magistrado Presidente y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de los recursos del Tribunal Estatal Electoral estará a cargo del Organismo de Auditoría Superior Gubernamental.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
-
-La ley determinará la composición y los procedimientos de resolución y jurisprudencia del Tribunal Estatal Electoral.
-
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. FE E., P.O. 24 DE NOVIEMBRE DE 1999)
-
-VII.- Para ser Magistrados del Tribunal Estatal Electoral, deberán reunirse los requisitos que ésta Constitución establece para ser magistrado del Tribunal Superior de Justicia, además de no haber desempeñado cargo de elección popular, haber sido militante en activo o directivo a nivel nacional, estatal, distrital o municipal de algún partido político, cuando menos cinco años anteriores a su designación.
-
-Los Magistrados del Tribunal Estatal Electoral durarán en su encargo un período de cuatro años consecutivos, o en su defecto hasta que sean nombrados los magistrados del siguiente período y podrán ser reelectos por un período más, de conformidad con lo que establezca la ley.
-
-(F. FE E., P.O. 24 DE NOVIEMBRE DE 1999)
-
-Los Magistrados del Tribunal Estatal Electoral, serán designados por el Congreso del Estado, mediante el voto de las dos terceras partes de los Diputados que integren la Legislatura.
-
-(REFORMADO, P. O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P. O. 24 DE NOVIEMBRE DE 2000)
-
-Para dar cumplimiento a lo dispuesto en el párrafo anterior, se conformará una comisión calificadora integrada por tantos diputados como grupos parlamentarios integren el Congreso del Estado; esta Comisión emitirá una convocatoria pública y previo el análisis que haga de los aspirantes remitirá la propuesta al pleno del Congreso.
-
-VIII. Quienes hubieren ejercido los cargos de Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
+VII.- Quienes hubieren ejercido los cargos de Consejero Presidente y consejeros estatales electorales, los magistrados del Tribunal Estatal Electoral y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -780,9 +770,17 @@ Para el caso de que el Congreso dejare de aprobar, en los términos de esta Cons
 
 En los casos en que, de acuerdo a lo previsto en este Artículo, el Presupuesto de Egresos del Estado deba continuar vigente no obstante haber sido aprobado para el ejercicio fiscal anterior, las partidas correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada que hubiesen sido autorizadas en el Presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
 
-La falta de presentación oportuna, en los plazos que señala esta Constitución, de las cuentas públicas del Estado y de los Municipios, así como de la Ley de Ingresos y el Presupuesto de Egresos del Estado y de las Leyes de Ingresos de los Municipios, dará lugar a la aplicación de las sanciones previstas en la (sic) leyes respectivas, independientemente de las revisiones e inspecciones que realice el Organismo de Auditoría Superior Gubernamental y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en el Organismo de Auditoría Superior Gubernamental, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeto de fiscalización en los términos de esta Constitución y de la ley.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+La falta de presentación oportuna, en los plazos que señala esta Constitución de las cuentas públicas del Estado y de los Municipios, así como de la Ley de Ingresos y el Presupuesto de Egresos del Estado y de las Leyes de Ingresos de los Municipios, dará lugar a la aplicación de las sanciones previstas en la leyes respectivas, independientemente de las revisiones e inspecciones que realice la Auditoría Superior de Fiscalización del Congreso del Estado y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en la Auditoría Superior de Fiscalización, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeta de fiscalización en los términos de esta Constitución y la Ley.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -984,15 +982,19 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXVII.- Recibir de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior Gubernamental, la protesta a que se refiere el artículo 133 de esta Constitución.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+XXVII.- Recibir de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior de Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución.
 
-XXVIII.- Examinar la cuenta pública que trimestralmente deberán presentar los Poderes del Estado, misma que turnará al Organismo de Auditoría Superior Gubernamental, en la que se revisará el ingreso y la aplicación de los recursos, se verificará su congruencia con el Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar, en su caso, con el programa financiero y los informes de gobierno.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Así mismo, examinar la cuenta pública que deberán presentar los Ayuntamientos en el plazo fijado por el artículo 32 de esta Constitución, en la que se revisará la aplicación de los recursos, se verificará su congruencia con el Plan Municipal de Desarrollo, en su caso con el programa financiero y los informes de gobierno; estas últimas acciones por conducto del Organismo de Auditoría Superior Gubernamental.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XXVIII.- Examinar la cuenta pública que trimestralmente deberán presentar los Poderes del Estado, misma que turnará a la Auditoría Superior de Fiscalización, en la que se revisará el ingreso y la aplicación de los recursos, se verificará su congruencia con el Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar, en su caso, con el programa financiero y los informes de gobierno.
+
+Así mismo, examinar la cuenta pública que deberán presentar los Ayuntamientos en el plazo fijado por el artículo 32 de esta Constitución, en la que se revisará la aplicación de los recursos, se verificará su congruencia con el Plan Municipal de Desarrollo, en su caso con el programa financiero y los informes de gobierno; estas últimas acciones por conducto de la Auditoría Superior de Fiscalización.
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1006,31 +1008,37 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los funciona
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior Gubernamental, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos superiores de los organismos constitucionales autónomos.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior de Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos superiores de los organismos constitucionales autónomos.
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, al del Tribunal Unitario de Justicia para Adolescentes, al Procurador General de Justicia y al Auditor Superior Gubernamental, siempre que su ausencia exceda de treinta días.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, al del Tribunal Unitario de Justicia para Adolescentes, al Procurador General de Justicia y al Auditor Superior de Fiscalización, siempre que su ausencia exceda de treinta días.
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 XXXIV.- Convocar a elecciones de Gobernador, de los integrantes del Congreso del Estado, y de Ayuntamientos en los casos previstos por esta Constitución.
 
-XXXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XXXV.- Designar al representante del Poder Legislativo ante el Consejo de la Judicatura;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal Estatal Electoral; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado;
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal Estatal Electoral; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2007)</small>
+Asimismo, designar si fuera procedente, por un período más a los Magistrados Numerarios del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrados del Tribunal Estatal Electoral y Magistrado del Tribunal Unitario de Justicia para Adolescentes.
 
-Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el artículo 44 de la presente Constitución.
+Las designaciones y en su caso la remoción a que alude esta fracción, deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso.
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2007)</small>
 
@@ -1044,9 +1052,11 @@ XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al E
 
 XL.- Nombrar a los Consejeros propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, Consejero Presidente y Consejeros del Instituto Morelense de Información Pública y Estadística, Auditor Superior Gubernamental y los Presidentes Municipales y Síndicos.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, Consejero Presidente y Consejeros del Instituto Morelense de Información Pública y Estadística, Auditor Superior de Fiscalización y los Presidentes Municipales y Síndicos.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1056,19 +1066,27 @@ XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delito
 
 XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y las que se susciten entre el Tribunal Superior de Justicia y el Instituto Morelense de Información Pública y Estadística, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
 
-XLIV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2008)</small>
+
+XLlV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor Superior de Fiscalización del Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XLV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar, con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno, dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Auditoría Superior Gubernamental;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Auditoría Superior de Fiscalización.
 
-XLVII.- Por conducto del Organismo Superior de Auditoría Gubernamental, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo, en su caso con los programas financieros o de deuda pública, determinando las responsabilidades que en su caso procedan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XLVII.- Por conducto de la Auditoría Superior de Fiscalización, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo, en su caso con los programas financieros o de deuda pública, determinando las responsabilidades que en su caso procedan.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -1102,9 +1120,11 @@ LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal El
 
 LV.- Incoar el procedimiento sobre responsabilidades políticas y de declaración de procedencia a los servidores públicos señalados en los artículos 136 y 137 de esta Constitución; determinar las responsabilidades administrativas a que alude el artículo 141 de este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a los servidores públicos estatales y municipales, sea que presten sus servicios en la Administración Central o en cualquier organismo auxiliar, cuando éstas se deriven de los actos de fiscalización a los recursos humanos, materiales y financieros, plan o planes, y programas tanto del erario público estatal como de los municipales, e iniciar los juicios civiles o las querellas o denuncias respectivas, considerando la excepción prevista en el artículo 145 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Esta atribución será ejercida por el Organismo de Auditoría Superior Gubernamental o por la Comisión, órgano o dependencia que el Congreso determine.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Esta atribución será ejercida por la Auditoría Superior de Fiscalización o por la Comisión, órgano o dependencia que el Congreso determine.
 
 (ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 19 DE NOVIEMBRE DE 2003)
 
@@ -1308,7 +1328,9 @@ VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias,
 
 VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el "quórum" legal, y llamar a los suplentes respectivos.
 
-VIII.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2000)
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VIII. Designar a los Magistrados Interinos.
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2007)</small>
 
@@ -1838,33 +1860,51 @@ Es obligación del Secretario de Despacho correspondiente, vigilar el cumplimien
 
 No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de esté artículo constituye en responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 84.
 
-Se crea el Organismo de Auditoría Superior Gubernamental, del Congreso del Estado, para la revisión de las cuentas públicas de los Poderes, los Municipios, los organismos autónomos constitucionales, y en general, todo organismo que haya recibido, administrado o ejercido recursos públicos bajo cualquier concepto, que le turne el Poder Legislativo, entidad que estará a cargo del Auditor Superior Gubernamental.
+La Auditoria Superior de Fiscalización del Congreso del Estado es el órgano técnico de fiscalización, control y evaluación del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y de decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley, y estará a cargo del Auditor Superior de Fiscalización.
 
-La Auditoría Superior Gubernamental es el órgano técnico de fiscalización, control y evaluación; goza de autonomía técnica, de gestión y presupuestal, para decidir sobre su organización interna, funcionamiento y resoluciones, estará regulada por la Ley que al efecto se expida, estando facultado para:
+La revisión y fiscalización de las cuentas públicas de la administración pública centralizada, descentralizada y desconcentrada de los Poderes y los Municipios, los organismos autónomos constitucionales y en general, todo organismo público, persona física o moral del sector social o privado que por cualquier motivo reciba o haya recibido, administrado, ejerza o disfrute de recursos públicos bajo cualquier concepto, la realizará el Congreso a través del órgano que se crea denominado Auditoría Superior de Fiscalización del Congreso del Estado.
 
-I.- Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los poderes del estado y de todos los organismos y entidades públicas, así como la evaluación sobre el cumplimiento de sus objetivos y metas establecidos en sus programas;
+La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-II.- Realizar visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, de evaluación de la gestión social a las dependencias o entidades del sector paraestatal, del Poder Ejecutivo, del Poder Judicial en cualesquiera de los Tribunales Estatales, del propio Poder Legislativo, del Instituto Estatal Electoral y los ayuntamientos del Estado, en los términos de la legislación en la materia. En su caso, determinar las responsabilidades administrativas en que incurran los servidores públicos del Estado y municipios, promover juicios civiles y presentar denuncias o querellas y actuar como coadyuvante del Ministerio Público en esos casos;
+A.- La auditoría Superior de Fiscalización del Congreso del Estado tendrá las siguientes facultades:
 
-III.- Remitir al Congreso del Estado, los informes de resultados de la revisión de la cuenta pública del año anterior.
+I.- Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los poderes del estado, todos los organismos y entidades públicas y de cualquier entidad, persona física o moral, pública o privada y los transferidos a fideicomisos, mandatos, fondos o cualquier otro acto jurídico, así como la evaluación sobre el cumplimiento de sus objetivos y metas establecidos en sus programas.
 
-El organismo de fiscalización deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo. La ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+También fiscalizará directamente los recursos federales que administren o ejerzan, los municipios, los que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes aplicables y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-IV.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita relacionada con el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos;
+Si del estudio que se realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicho órgano sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
 
-V.- Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades públicas y fincar directamente a los responsables las sanciones correspondientes, así como promover ante otras autoridades competentes el fincamiento de otras responsabilidades;
+Las entidades fiscalizadas deberán llevar el control y registro contable, patrimonial y presupuestal de los recursos del estado y de los municipios que les sean transferidos y asignados de acuerdo con los criterios que establezca la constitución y la ley, garantizando que los recursos económicos de que dispongan se administren con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-VI.- Expedir las normas de auditoría que regularán el ejercicio de la auditoría gubernamental en el Estado de Morelos y las relativas al control interno.
+Sin perjuicio del principio de anualidad, la Auditoria Superior de Fiscalización podrá solicitar y revisar, por periodos semestrales la información correspondiente al ejercicio de la Cuenta Pública. Las observaciones y recomendaciones que, respectivamente se tengan que emitir deberán observar en todo momento el apego a la normatividad aplicable.
 
-Los Poderes del Estado y los sujetos de fiscalización facilitarán los auxilios que requiera la entidad de fiscalización superior del Estado, para el ejercicio de sus funciones.
+II.- Podrá revisar el desempeño en el cumplimiento de los objetivos contenidos en los programas de gobierno del estado y de los municipios. En el caso de que existan recomendaciones al desempeño las entidades fiscalizadas, estas deberán precisar ante la Auditoria Superior de Fiscalización las mejoras realizadas o, en su caso, justificar su improcedencia.
 
-El Auditor Superior Gubernamental será designado por el Congreso del Estado mediante el voto de las dos terceras partes de sus miembros presentes. La ley que al efecto se expida, establecerá el procedimiento para su designación. Dicho titular durará en el ejercicio de su cargo cuatro años, pudiendo ser nombrado nuevamente por una vez más. Podrá ser removido exclusivamente por las causas graves que la ley señale, con la misma votación requerida para su nombramiento o por las causas y conforme a los procedimientos establecidos por el Título Séptimo de esta Constitución.
+III.- Realizar visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, de evaluación de la gestión social a las dependencias o entidades del sector paraestatal, del Poder Ejecutivo, del Poder Judicial en cualesquiera de los Tribunales Estatales, del propio Poder Legislativo, del Instituto Estatal Electoral y los ayuntamientos del Estado, organismos constitucionales autónomos, en cualquier entidad, persona física o moral, pública o privada, en los términos de la legislación en la materia.
 
-Para ser titular de la entidad superior de auditoría se requiere cumplir con los requisitos establecidos en las fracciones I, II, IV, y VI del artículo 90 de esta Constitución, así como tener experiencia en la fiscalización de cuentas públicas. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+IV.- En su caso, determinar las responsabilidades administrativas en que incurran los servidores públicos del Estado, y municipios, promover juicios civiles y presentar denuncias o querellas y actuar como coadyuvante del ministerio público;
+
+V.- Remitir al Congreso del Estado, los informes de resultados de la revisión de la cuenta pública del año anterior. El organismo de fiscalización deberá guardar reserva de sus actuaciones y observaciones, la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+
+VI.- Informar al Congreso y en su caso, dar parte a la autoridad que corresponda, si del informe de resultados se desprenden actos u omisiones que impliquen alguna irregularidad o conducta ilícita relacionada con el ingreso, egreso, manejo, custodia y aplicación de los fondos y recursos públicos;
+
+VII.- Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades públicas y fincar a los responsables las sanciones correspondientes, así como promover en su caso, ante las autoridades competentes el fincamiento de otras responsabilidades;
+
+VIII.- Expedir las normas de auditoría que regularán el ejercicio de la Auditoria Superior de Fiscalización del Congreso del Estado, las relativas al control interno; y
+
+IX.- Las demás que establezca esta Constitución y las leyes aplicables.
+
+Los poderes del estado y las entidades fiscalizadas, facilitarán los auxilios que requiera la Auditoria Superior de Fiscalización del Congreso del Estado para el ejercicio de sus funciones.
+
+B.- El Auditor Superior de Fiscalización del Congreso del Estado, será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura, durará en el cargo siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, además de los requisitos establecidos en las fracciones I, II, IV y VI del artículo 90 de esta Constitución. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+
+Para su designación se conformará una comisión calificadora integrada por los coordinadores de los grupos parlamentarios, la cual presentará al Pleno del Congreso la propuesta correspondiente. La Ley establecerá los requisitos y el procedimiento para su designación. Podrá ser removido exclusivamente por las cusas (sic) graves que la ley señale con la misma votación requerida para su nombramiento o por las causas conforme los procedimientos establecidos en el titulo séptimo de esta constitución.
 
 ###### Artículo 85.
 
@@ -1912,7 +1952,7 @@ El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integra
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ## TITULO QUINTO.
 
@@ -1922,11 +1962,11 @@ DEL PODER JUDICIAL.
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
-###### ARTÍCULO 86.
+###### Artículo 86.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en los Juzgados que establezca la ley; en el Consejo de la Judicatura Estatal, en el Tribunal Estatal Electoral, en el Tribunal de lo Contencioso Administrativo y en el Tribunal Unitario de Justicia para Adolescentes y cada uno en el ámbito de competencia que les corresponde.
+El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de Justicia del Estado, en el Tribunal Estatal Electoral, en el Tribunal de lo Contencioso Administrativo y en el Tribunal Unitario de Justicia para Adolescentes, cada uno en el ámbito de competencia que les corresponde.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
@@ -1950,11 +1990,31 @@ DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados numerarios que se requieran para la integración de las salas que lo conformen; cuando menos de tres supernumerarios y en su caso, de los Magistrados interinos. Los nombramientos de los Magistrados serán hechos por el Congreso y sólo en el caso de los Magistrados interinos, podrá designar también la Diputación Permanente; en todos los casos serán designados de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal.
+El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados Numerarios que se requieran para la integración de las salas que lo conformen, cuando menos de tres supernumerarios y en su caso, de los Magistrados interinos. Los magistrados serán designados por el Pleno del Congreso del Estado y sólo en el caso de los Magistrados Interinos, podrá designar también la Diputación Permanente, en ambos casos a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública para designar a los Magistrados, conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+Los Magistrados del Tribunal Superior de Justicia rendirán su protesta ante el Pleno del Congreso o la Diputación Permanente, durarán en su cargo seis años, contados a partir de la fecha en que rindan la protesta constitucional, podrán ser designados para un periodo más y si lo fueren, continuarán en esa función únicamente ocho años más, y sólo podrán ser privados del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
-Los Magistrados del Tribunal Superior de Justicia rendirán su protesta ante la Cámara o la Diputación Permanente, durarán en su cargo seis años. Si concluido dicho término fueren ratificados serán inamovibles y sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
+La designación para un período más sólo procederá, de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos, e indicadores de gestión, que para dicha evaluación establezca esta Constitución y las leyes en la materia.
+
+El Presidente del Tribunal Superior de Justicia durará en su encargo dos años, pudiendo ser reelecto sólo por un período más, sin posibilidad de volver a ocupar ese cargo.
+
+La función y evaluación de los Magistrados del Poder Judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honestidad, independencia, transparencia y rendición de cuentas.
+
+Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un nuevo período en términos de esta constitución, podrá volver a ocupar el cargo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar catorce años en el cargo.
+
+Al término de los catorce años, los Magistrados numerarios tendrán derecho a un haber por retiro, conforme lo establezca la Ley en la materia. Para el caso de los Magistrados Supernumerarios, al término de su período se les otorgará de manera proporcional dicho derecho en los términos que establezca la Ley.
+
+El Consejo de la Judicatura elaborará un dictamen técnico en el que analizará y emitirá opinión sobre la actuación y desempeño de los magistrados que concluyan su período. Los dictámenes técnicos y los expedientes de los Magistrados serán enviados al órgano político del Congreso del Estado para su estudio y evaluación, por lo menos noventa días hábiles antes de que concluya el período para el que fueron nombrados. El dictamen técnico será un elemento más entre todos los que establezca el órgano político del Congreso, para la evaluación del magistrado que concluye sus funciones. La omisión en remitir los documentos en cita dará lugar a responsabilidad oficial.
+
+El procedimiento para la evaluación y en su caso la designación para un periodo más de los magistrados del Tribunal Superior de Justicia por el Congreso, junto con la evaluación de los aspirantes que de acuerdo al procedimiento y convocatoria pública que emita el órgano político del Congreso, hayan reunido los requisitos que se señalen, se realizará conforme lo establezcan esta Constitución y las leyes en la materia.
+
+(NOTA: EL 9 DE JULIO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2008, DECLARÓ LA INVALIDEZ EN LA PORCIÓN NORMATIVA DEL PÁRRAFO DÉCIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+El Congreso del Estado conforme a sus facultades, decide LIBRE Y SOBERANAMENTE sobre la designación de los magistrados, mediante el voto de las dos terceras partes de los diputados integrantes de la Legislatura. Si el Congreso resuelve que no procede la designación para un nuevo período, el magistrado cesará en sus funciones a la conclusión del período para el que fue nombrado.
+
+El retiro forzoso de los Magistrados se producirá al cumplir sesenta y cinco años de edad o por sobrevenir incapacidad física o mental que imposibilite el desempeño del cargo o de manera voluntaria. La Ley preverá los casos en que tendrán derecho a un haber por retiro en forma proporcional al tiempo en que ejercieron sus funciones en los términos de ley.
+
+Asimismo, la Ley en la materia, preverá la forma y proporción en que se otorgará el haber por retiro y la existencia de un mecanismo para generar los recursos para el pago del mismo a partir del presupuesto que se destine anualmente al Poder Judicial, evitando que su pago repercuta como un gasto excesivo a cargo del Presupuesto de dicho Poder.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -1970,9 +2030,9 @@ I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en 
 
 II.- Haber residido en el Estado durante los últimos diez años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del Servicio Público.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-III.- Poseer al momento de su designación, con antigüedad mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello.
+III.- Poseer al momento de su designación, con antigüedad mínima de diez años el título y la cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
@@ -1986,6 +2046,16 @@ V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha ded
 
 VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de gestión y aprobar la evaluación que en su caso se realice.
+
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquélIas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario o su equivalente, Procurador de Justicia o Diputado Local, durante el año previo al día de su designación.
+
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 91.
@@ -1998,15 +2068,25 @@ El pleno del Tribunal Superior de Justicia estará facultado para expedir acuerd
 
 Los Magistrados supernumerarios constituirán la Sala Auxiliar y además, sustituirán a los numerarios en el conocimiento de determinados negocios, por excusa o recusación de los mismos. De igual manera, suplirán a los numerarios en las faltas temporales de éstos, siempre que dichas faltas no excedan de treinta días; en los demás casos, suplirán los Magistrados interinos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 92.
 
-Se crea el Consejo de la Judicatura Estatal, integrado por cinco miembros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quién también lo será del Consejo; un Magistrado numerario; un Juez de Primera Instancia; un representante designado por el Ejecutivo del Estado y un representante de la Facultad de Derecho y Ciencias Sociales de la Universidad Autónoma del Estado de Morelos. Los Consejeros deberán reunir los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia.
+El Consejo de la Judicatura Estatal es un órgano del Poder Judicial del Estado de Morelos con independencia técnica, de gestión y para emitir sus resoluciones, a las cuales deberá dar publicidad y transparencia en los términos de la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1995)</small>
+El Consejo se integrará por cinco miembros, de los cuales uno será el Presidente en funciones del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado Numerario, un Juez de Primera Instancia, ambos designados conforme a lo que establezca la Ley Orgánica del Poder Judicial; un representante designado por el Ejecutivo del Estado y un representante del Poder Legislativo del Estado, designado por el órgano político del Congreso.
 
-El Consejo de la Judicatura Estatal se integrará en la forma y términos que señale la ley reglamentaria.
+Los Consejeros deberán reunir los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia y ejercerán su función con independencia e imparcialidad, independientemente de quien los designa.
+
+Los integrantes del Consejo para su elección deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades, y en el caso de los designados por el Poder Judicial, deberán gozar, además con reconocimiento en el ámbito judicial plenamente comprobados.
+
+(NOTA: EL 9 DE JULIO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2008, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+LOS REPRESENTANTES DEL PODER EJECUTIVO Y LEGISLATIVO PODRÁN SER REMOVIDOS LIBREMENTE Y EN CUALQUIER MOMENTO POR QUIEN LOS DESIGNÓ, EN TÉRMINOS DE LO ESTABLECIDO EN EL TÍTULO SÉPTIMO DE LA PRESENTE CONSTITUCIÓN, SIN QUE POR ELLO SE ESTABLEZCA QUE EXISTIÓ RELACIÓN LABORAL BUROCRÁTICA ALGUNA CON ÉSTOS. LA DESIGNACIÓN DE QUIEN SUSTITUYA EN EL CARGO AL REPRESENTANTE QUE FUERE REMOVIDO DEBERÁ REALIZARSE DE MANERA INMEDIATA.
+
+Salvo el Presidente del Consejo, los demás Consejeros durarán seis años en el cargo. Ninguno de los integrantes del Consejo podrá ser designado para un nuevo período. Durante su gestión los Consejeros podrán ser removidos además, en los términos que señale esta Constitución.
+
+La Ley reglamentaria deberá prever la integración y facultades del Consejo de la Judicatura Estatal, las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, transparencia y rendición de cuentas.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -2014,9 +2094,9 @@ El Consejo de la Judicatura Estatal se integrará en la forma y términos que se
 
 Son facultades del Consejo de la Judicatura Estatal:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-I.- Presentar a consideración del Congreso del Estado las ternas para la designación de los Magistrados del Tribunal Superior de Justicia, así como someter sus licencias y renuncias a la aprobación del propio Congreso, o en su caso de la diputación permanente.
+I.- Presentar a consideración del órgano político del Congreso del Estado, los dictámenes técnicos y el expediente de los magistrados que concluyan sus funciones, por lo menos noventa días hábiles antes de que concluyan su encargo.
 
 II.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial.
 
@@ -2034,7 +2114,9 @@ VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de 
 
 VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, con excepción de los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, cuyo nombramiento y remoción será facultad del pleno y las Salas del Tribunal, según el caso y de acuerdo con lo que la ley establezca.
 
-VIII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1999)
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VIII.- Crear los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo a un estudio de factibilidad presupuestal.
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
@@ -2150,15 +2232,17 @@ La Ley determinará los demás procedimientos que deban seguirse para el uso del
 
 ### CAPITULO IV.
 
+DE LA DEFENSORÍA PÚBLICA.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### Artículo 102.
 
 Habrá el número de Jueces de Primera Instancia que ejercerán sus funciones en los ramos civil y penal en los Distritos Judiciales que determine la Ley.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
-
 ###### Artículo 103.
 
-Los Consejeros ejercerán su función con independencia e imparcialidad. Durarán en su cargo cinco años, salvo el Presidente del Consejo; podrán ser nombrados por una sola vez, para un nuevo período. Durante su cargo, los Consejeros sólo podrán ser removidos en los términos del Título Séptimo de la Presente Constitución.
+(DEROGADO, P.O. 16 DE JULIO DE 2008)
 
 ###### Artículo 104.
 
@@ -2168,19 +2252,57 @@ Habrá también el número de Jueces de categoría inferior que establezca la Le
 
 La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
 
 ### CAPITULO V.
 
-DE LA DEFENSORIA PUBLICA.
+DEL TRIBUNAL ESTATAL ELECTORAL.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ### CAPITULO VI.
 
 DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+
+Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Este órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal plenamente acreditada. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Durarán en su cargo seis años contados a partir de la fecha en que rindan la protesta constitucional, podrán ser designados para un periodo más y si lo fueren, continuarán en esa función hasta por ocho años más, sin que puedan ocupar el cargo por más de catorce años y sólo podrán ser privados del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidades de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+La designación por un período más sólo procederá de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un período más en términos de esta constitución, podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar catorce años en el cargo.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Al término de los catorce años, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia conforme lo establece esta Constitución y la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+La Ley establecerá su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones. Por lo que hace a su Presupuesto de Egresos, el Tribunal deberá elaborar el proyecto respectivo y remitirlo con toda oportunidad para su integración al del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Los Magistrados deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales de bienes en los términos del Artículo 133-bis de esta Constitución.
+
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
 
 ### CAPÍTULO VII.
 
@@ -2196,11 +2318,15 @@ DE SU ORGANIZACION POLITICA.
 
 ###### Artículo 106.
 
-(DEROGADO, P.O. 7 DE JULIO DE 1988)
+La Defensoría Pública ejercerá las funciones que en materia penal le atribuye el artículo 20, fracción IX, de la Constitución General de la República y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 107.
 
-(DEROGADO, P.O. 7 DE JULIO DE 1988)
+El personal de la Defensoría Pública dependerá del Ejecutivo del Estado y será nombrado y removido libremente por el Secretario de Gobierno.
+
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
 
 ### CAPITULO II.
 
@@ -2210,13 +2336,23 @@ DE SU INTEGRACIÓN Y ELECCION.
 
 ###### Artículo 108.
 
-La Defensoría Pública ejercerá las funciones que en materia penal le atribuye el Artículo 20, Fracción IX, de la Constitución General de la República y las demás disposiciones jurídicas aplicables.
+Los Magistrados del Tribunal Estatal Electoral durarán en su encargo un período de cuatro años consecutivos, o en su defecto hasta que sean nombrados los magistrados del siguiente período, podrán ser designados únicamente por un período más, de conformidad con lo que establece esta constitución y les serán aplicables las disposiciones previstas para los Magistrados del Tribunal Superior de Justicia en cuanto al haber por retiro y el retiro forzoso.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+La designación para un período más sólo procederá, de los resultados que arroje la evaluación del desempeño que realice el propio Congreso a través del órgano político del Congreso, mediante los mecanismos, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y la Ley Orgánica del Congreso.
+
+Los magistrados del Tribunal Estatal Electoral, serán designados por el Congreso del Estado, mediante el voto de las dos terceras partes de los diputados que integren la legislatura.
+
+Para dar cumplimiento a lo dispuesto en el párrafo anterior, se conformará una comisión calificadora integrada por tantos diputados como grupos parlamentarios integren el congreso del estado; esta comisión emitirá una convocatoria pública y previo el análisis que haga de los aspirantes remitirá la propuesta al pleno del congreso.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 109.
 
-El personal de la defensoría pública dependerá del Ejecutivo del Estado y será nombrado y removido libremente por el Secretario de Gobierno.
+Ningún magistrado podrá ocupar el cargo por más de ocho años. Asimismo, ninguna persona que haya sido designada como magistrado y designada para un segundo periodo, podrá volver a ocupar el cargo.
+
+En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar ocho años en el cargo.
+
+En caso de retiro y retiro forzoso, les serán aplicables las disposiciones previstas para los Magistrados del Tribunal Superior de Justicia.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2226,23 +2362,39 @@ DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTICULO 109
+###### ARTÍCULO 109
 
-BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Órgano jurisdiccional que conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte el Organismo Superior de Auditoría Gubernamental.
+TER.- El Tribunal Unitario de Justicia para Adolescentes será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d) párrafo cuarto, de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
-Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado conforme a lo establecido en esta Constitución y la Ley de Justicia Administrativa del Estado. Durarán en su cargo 6 años, si concluido dicho término fueren ratificados serán inamovibles y sólo podrán ser removidos en los términos del título séptimo de esta Constitución. La ratificación sólo procederá, de los resultados que arroje la evaluación del desempeño que realice el propio Congreso. El Tribunal de lo Contencioso Administrativo propondrá al Poder Legislativo los mecanismos, procedimientos e indicadores de gestión para dicha evaluación, caso en el que, el Congreso podrá aprobarlo, modificarlo o en su caso determinar otro.
+Para ser Magistrado del Tribunal Unitario de Justicia para Adolescentes, se deberá acreditar especialización en la materia y reunir los requisitos que esta Constitución establece para ser magistrado del Tribunal Superior de Justicia; será nombrado por el Congreso del Estado previa convocatoria a examen de oposición que emitirá el órgano político del Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
-La Ley establecerá su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones. Por lo que hace a su Presupuesto de Egresos, el Tribunal deberá elaborar el proyecto respectivo y remitirlo con toda oportunidad para su integración al del Tribunal Superior de Justicia del Estado.
+Durará en su encargo un periodo de seis años consecutivos, contados a partir de la fecha en que rinda la protesta constitucional; podrá ser designado para un período más y si lo fuere continuará en esa función hasta por ocho años más, sin que por ningún motivo puedan rebasar catorce años en el cargo, y sólo podrán ser privados del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos, al término de los cuales tendrá derecho a un haber por retiro, conforme lo establezca esta Constitución y las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
-Los Magistrados deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales de bienes en los términos del Artículo 133-bis de esta Constitución.
+La designación por un período más sólo procederá de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y las leyes en la materia.
 
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un período más en términos de esta Constitución, podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, el Magistrado que hubiere ejercido el cargo con el carácter de titular o suplente, podrá rebasar catorce años en el cargo. El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+El Magistrado del Tribunal Unitario de Justicia para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de sus recursos estará a cargo de la Auditoría Superior de Fiscalización del Congreso del Estado.
+
+Habrá un Magistrado titular y suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales del Estado. Serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición, y durarán en su encargo tres años, pudiendo ser reelecto únicamente por otro periodo igual.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 824, PUBLICADO EN EL P.O. 16 DE JULIO DE 2008, LOS ANTERIORES PENULTIMO Y ULTIMO PARRAFOS, QUEDAN INTEGRADOS EN UNO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+La Ley Orgánica establecerá la organización, el funcionamiento, las atribuciones del Tribunal y demás disposiciones para el correcto desempeño de sus funciones. La información relacionada con los procesos jurisdiccionales en materia de justicia para adolescentes no será pública.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO IV.
 
@@ -2694,11 +2846,11 @@ El pago de la indemnización se efectuará después de seguir los procedimientos
 
 DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO.
 
-(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003) (F. DE E., P.O. 20 DE AGOSTO DE 2003)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 134.
 
-Para los efectos de las responsabilidades a que se refiere este título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Magistrados Electorales, los Magistrados del Tribunal de lo Contencioso Administrativo y en general todo aquél que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la administración pública estatal o paraestatal o en las entidades mencionadas con anterioridad.
+Para los efectos de las responsabilidades a que se refiere este título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los consejeros electorales del Instituto Estatal Electoral, el Consejero Presidente y los consejeros del Instituto Morelense de Información Pública y Estadística, los Magistrados Electorales, los Magistrados del tribunal de lo Contencioso Administrativo y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la administración pública estatal o paraestatal o en las entidades mencionadas con anterioridad.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -2710,13 +2862,19 @@ Al Gobernador solo se le podrá exigir responsabilidad durante su cargo, mediant
 
 El Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura Estatal son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 136.
 
-Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Auditor Superior Gubernamental, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, los Consejeros de la Judicatura Estatal, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística y los Presidentes Municipales y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a la formación de causa.
+Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, los Consejeros de la Judicatura Estatal, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística y los Presidentes Municipales y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a la formación de causa.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 En caso negativo cesará todo procedimiento en contra del servidor público, sin perjuicio de que la acusación continúe cuando éste termine su cargo. En caso afirmativo, quedará suspendida en el ejercicio de sus funciones y a disposición de los Tribunales comunes, para la instrucción del proceso respectivo.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
 
@@ -3082,7 +3240,7 @@ Segundo.- Se derogan todas las disposiciones legales o reglamentarias que se opo
 
 Tercero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Cuarto.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
+Cuarto.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución política del Estado.
 
 P.O. 30 DE JULIO DE 1986.
 
@@ -3286,7 +3444,7 @@ QUINTO.- Se autoriza al Ejecutivo del Estado para que realice las transferencias
 
 P.O. 1 DE OCTUBRE DE 1999.
 
-PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos señalados por los artículos 47 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos señalados por los artículos 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "Tierra y Libertad".
 
@@ -3314,7 +3472,7 @@ DECRETO NUMERO 1234
 
 PRIMERO.- El Presente Decreto de reformas, adiciones y derogaciones a diversas disposiciones de la Constitución Política del Estado de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos; por tanto se dejan sin efectos jurídicos el artículo tercero transitorio de la reforma a esta Constitución, aprobado en el Decreto Número 789 de fecha 30 de octubre de 1996, y publicado en el Periódico Oficial Tierra y Libertad número 3824, con la misma fecha.
 
-SEGUNDO.- A la vigencia de este Decreto, la Oficialía Mayor y la Contaduría Mayor de Hacienda del Congreso del Estado, serán las dependencias encargadas de recibir, a través de acta de entrega-recepción los recursos financieros, materiales, jurídicos y en su caso, humanos del organismo público descentralizado del Poder Ejecutivo del Estado, denominado Sistema Morelense de Radio y Televisión, cuya desincorporación del Poder Ejecutivo no rebasará un plazo mayor de veinte días naturales, contados a partir de la vigencia de esta reforma. Adicionalmente, el Congreso del Estado, procederá a emitir el Decreto correspondiente por el que se adecue la naturaleza jurídica, estructura orgánica y funciones de dicho organismo en el Poder Legislativo y emitirá la reforma respectiva al Presupuesto de Egresos, a efecto de que las partidas financieras respectivas pasen a integrarse al presupuesto de egresos del Congreso del Estado.
+SEGUNDO.- A la vigencia de este Decreto, la Oficialía Mayor y la Contaduría Mayor de Hacienda del Congreso del Estado, serán las dependencias encargadas de recibir a través de acta de entrega-recepción los recursos financieros, materiales, jurídicos y en su caso, humanos del organismo público descentralizado del Poder Ejecutivo del Estado, denominado Sistema Morelense de Radio y Televisión, cuya desincorporación del Poder Ejecutivo no rebasará un plazo mayor de veinte días naturales, contados a partir de la vigencia de esta reforma. Adicionalmente, el Congreso del Estado, procederá a emitir el Decreto correspondiente por el que se adecue la naturaleza jurídica, estructura orgánica y funciones de dicho organismo en el Poder Legislativo y emitirá la reforma respectiva al Presupuesto de Egresos, a efecto de que las partidas financieras respectivas pasen a integrarse al presupuesto de egresos del Congreso del Estado.
 
 La Entrega recepción de dicho organismo, no excluye la facultad de la Contaduría Mayor para hacer las revisiones que procedan y determinar en su caso las responsabilidades jurídicas durante el período de gestión anterior a la recepción del organismo por el Poder Legislativo.
 
@@ -3651,3 +3809,65 @@ P.O. 20 DE JUNIO DE 2008.
 Primero.- Aprobado que sea el presente Decreto por el Pleno del Congreso del Estado, remítase al Constituyente Permanente de la Entidad para los efectos constitucionales correspondientes.
 
 Segundo.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos, previa declaratoria de aprobación por parte del Congreso del Estado.
+
+P.O. 16 DE JULIO DE 2008.
+
+DECRETO No. 822, POR EL QUE SE REFORMA EL ARTICULO 23 FRACCION VI, PARRAFO TERCERO; 32, PARRAFOS NOVENO Y DECIMO, 40, FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLI, XLIV, XLVI, XLVII Y LV; 84, 109-BIS, PRIMER PARRAFO, 109-TER, TERCER PARRAFO Y 136 DE LA CONSTITUCION POLITICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- Aprobado que sea el presente Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir del 10 de octubre del presente año.
+
+TERCERO.- En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente Decreto, en que se haga referencia a la Auditoría Superior Gubernamental o al Auditor Superior Gubernamental, se entenderán referidos a la Auditoría Superior de Fiscalización del Congreso del Estado, así como a su titular, el Auditor Superior de Fiscalización.
+
+CUARTO.- En un término máximo de sesenta días hábiles, a partir de la publicación de la declaratoria correspondiente, el Congreso del Estado deberá expedir la Ley de Fiscalización Superior del Estado de Morelos.
+
+QUINTO.- Los asuntos que se encuentren en trámite o en proceso incluyendo las revisiones a las Cuentas Públicas del año 2006 en la Auditoría Superior Gubernamental del Estado al entrar en vigor el presente decreto, continuarán tramitándose, en los términos de la Ley de Auditoría Superior Gubernamental del Estado hasta su conclusión en lo que no se contravengan con este Decreto y la Ley que conforme a este Decreto expida el Congreso.
+
+SEXTO.- La Auditoría Superior de Fiscalización del Congreso del Estado, en un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de la Ley de Fiscalización Superior del Estado de Morelos qué expida el Congreso, deberá elaborar y publicar su Reglamento Interior en el que establecerá las funciones, atribuciones y objetivos de sus órganos, en estricto cumplimiento a lo establecido por esta Constitución y la Ley de Fiscalización Superior, previa aprobación por la Conferencia para la programación y Dirección de los Trabajos Legislativos del Congreso del Estado.
+
+SÉPTIMO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Auditoría Superior Gubernamental, pasarán a formar parte del órgano que con ese Decreto se crea. Los trabajadores tendrán derecho a la indemnización de tres meses de salario en caso de no utilizarse sus servicios en el nuevo órgano, mismo que se subroga en todos los derechos y obligaciones de aquélla.
+
+OCTAVO.- El Auditor Superior Gubernamental, concluirá sus funciones el 12 de octubre de 2008, conforme a lo establecido en el Decreto 363, publicado en el Periódico Oficial número 4355 el 20 de octubre de 2004.
+
+Los Auditores Especiales, el Titular de la Unidad de Administración, el Titular de la Unidad de Asuntos Jurídicos y los Directores de la Auditoría Superior Gubernamental, así como el Titular de la Unidad de Evaluación y Control del Congreso, cesarán sus funciones en la misma fecha en que concluya su encargo el Auditor Superior Gubernamental.
+
+NOVENO.- Por esta ocasión, el Pleno del Congreso del Estado designará al Auditor Superior de Fiscalización a propuesta directa de la Junta Política y de Gobierno, mismo que deberá reunir los requisitos establecidos en el artículo 84 apartado B de este Decreto. Designación que deberá realizarse a más tardar el 12 de octubre de 2008.
+
+DÉCIMO.- Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 16 DE JULIO DE 2008.
+
+DECRETO No. 823, POR EL QUE SE ADICIONA UN PARRAFO A LA FRACCION I DEL ARTICULO 14; SE REFORMAN LOS ARTICULOS 23 Y 134 DE LA CONSTITUCION POLITICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- Aprobado que sea el presente Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la publicación de la declaratoria correspondiente.
+
+TERCERO.- Remítase al titular del Poder Ejecutivo, para los efectos de su promulgación y publicación correspondiente.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 16 DE JULIO DE 2008.
+
+DECRETO No. 824, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- Aprobado que sea en términos del artículo 147 de la Constitución del Estado, remítase al titular del Poder Ejecutivo, para los efectos de su promulgación y publicación correspondiente.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERO.- En términos del artículo 42, fracción III de la Constitución Política Local, en un plazo no mayor a los treinta días hábiles, el Tribunal Superior de Justicia, deberá presentar la iniciativa para adecuar la legislación conducente al presente ordenamiento. El Congreso del Estado en un plazo no mayor a los sesenta días hábiles procederá a expedir los ordenamientos correspondientes.
+
+CUARTO.- En el término de treinta días hábiles, contados a partir de la vigencia del presente ordenamiento, la Junta Política y de Gobierno, procederá a designar al representante del Poder Legislativo ante el Consejo de la Judicatura del Estado.
+
+QUINTO.- Los actuales integrantes del Consejo de la Judicatura del Estado, continuarán en el cargo hasta completar un periodo de seis años contados a partir de su primera designación. Por esta única ocasión, el Consejo de la Judicatura estará integrado por seis miembros, hasta en tanto el representante de la Facultad de Derecho y Ciencias Sociales de la Universidad Autónoma del Estado de Morelos cumpla con el periodo a que se refiere este artículo, quien dejará en ese momento de formar parte del Consejo, para dar cumplimiento a lo que dispone el artículo 92 de la presente reforma.
+
+SEXTO.- Los Magistrados del Tribunal Superior de Justicia y Tribunal de lo Contencioso Administrativo que hayan sido designados para un nuevo período, continuarán en su cargo hasta completar ocho años, contados a partir de la fecha en que fueron designados por segunda vez, al término de los cuales les será aplicable lo establecido en el artículo 89, párrafos segundo, sexto y séptimo, sin que en ningún caso puedan ocupar el cargo por más de catorce años, caso en el cual se aplicará el retiro forzoso previsto en el último párrafo del mismo artículo.
+
+SÉPTIMO.- Por esta única ocasión los Magistrados del Tribunal Superior de Justicia, que hayan cumplido más de catorce años en el cargo, permanecerán en funciones hasta cumplir quince años, contados a partir de la fecha de su primera designación y se les aplicará el retiro forzoso previsto en el artículo 89 de esta Constitución, debiéndose prever el haber por retiro forzoso que marca esta Constitución y la Ley, en el presupuesto de Egresos del Poder Judicial del Estado de Morelos.
+
+OCTAVO.- Aquellos Magistrados que tengan antecedentes como trabajadores al servicio del Estado o municipios, con antigüedad de quince años o más, tendrán derecho a que se les otorgue, al término de su período, el haber de retiro o una pensión.
+
+La pensión se otorgará con base en lo que prevea la Ley de la materia, tomando en cuenta el último cargo que hayan tenido en el servicio público antes de ser Magistrados, actualizada o en su caso la homóloga a la fecha en que les sea otorgada la pensión, contándose sólo para efectos de antigüedad el tiempo que ocuparon el cargo de Magistrados.
+
+NOVENO.- Se derogan todas las disposiciones que se opongan al presente.
