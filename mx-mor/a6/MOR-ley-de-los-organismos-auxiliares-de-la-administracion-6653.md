@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-organismos-auxiliares-de-la-administracion-6653"
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-19"
-last_updated: "1992-07-22"
+last_updated: "2008-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 1989.
 
@@ -157,9 +157,13 @@ El Consejo de Administración o equivalente será presidido por el titular de la
 
 Independientemente de las facultades específicas que les otorguen sus estatutos y la legislación de la materia, así como aquellas propias de las asambleas ordinarias y extraordinarias, los consejos de administración o sus equivalentes tendrán las facultades que les otorga esta Ley, en lo que no sean incompatibles con las primeras.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 16.
 
-En las Empresas de Participación Estatal Mayoritaria, sus directores generales o equivalentes tendrán las facultades y obligaciones que les otorguen sus estatutos y la legislación correspondiente, pero además aquellas atribuciones que les confiere la presente Ley.
+En las Empresas de Participación Estatal Mayoritaria, sus directores generales o equivalentes tendrán las facultades y obligaciones que les otorguen sus estatutos y la legislación correspondiente. Asimismo, tendrán aquellas atribuciones que se establecen en esta Ley y en las demás disposiciones legales que les sean aplicables.
 
 ###### ARTICULO 17.
 
@@ -171,9 +175,19 @@ En los casos de fusión y liquidación de empresas de participación estatal may
 
 ### CAPITULO III. DE LOS FIDEICOMISOS PUBLICOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 19.
 
-Para los efectos de esta Ley, los fideicomisos públicos son aquellos organismos auxiliares que se constituyan con las características señaladas por la Ley Orgánica de la Administración Pública del Estado.
+Para los efectos de esta Ley, los fideicomisos públicos son aquéllos organismos auxiliares que se constituyan con las características señaladas en el artículo 47, primer párrafo, de la Ley Orgánica de la Administración Pública del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Los fideicomisos públicos que no se constituyan con las características señaladas en el párrafo que precede, no serán considerados entidades de la administración pública paraestatal y no estarán, por tanto, sujetos a esta ley.
 
 La integración, facultades y funcionamiento de los comités y directores generales de los fideicomisos públicos se regirán, cuando sea compatible con su naturaleza, por los preceptos que esta Ley establece para los órganos de gobierno y para los directores generales.
 
@@ -399,9 +413,13 @@ Cuando se trate de compromisos relacionados con compras o suministros que rebase
 
 Los organismos auxiliares administrarán y dispondrán de sus recursos, por medio de sus unidades administrativas; podrán recibir subsidios y transferencias de la Secretaría de Programación y Finanzas, por conducto de la Tesorería General del Estado, de acuerdo a los presupuestos anuales del Gobierno del Estado, y se sujetarán a los controles e informes que establezcan las Secretarías de Programación y Finanzas y de la Contraloría.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 45.
 
-Los Directores Generales de los Organismos auxiliares elaborarán y presentarán el presupuesto de egresos y el de ingresos, cuando sea el caso de que los perciban, y el Programa Financiero, los que autorizará el Organo de Gobierno, para que en su oportunidad se sometan a la aprobación del Ejecutivo del Estado, por conducto de la dependencia coordinadora.
+Los Directores Generales de los Organismos auxiliares elaborarán y presentarán el presupuesto de egresos y el de ingresos, cuando sea el caso de que los perciban y, en su caso, el Programa Financiero, los que autorizará el Organo de Gobierno, para que en su oportunidad se sometan a la aprobación del Ejecutivo del Estado, por conducto de la dependencia coordinadora.
 
 ###### ARTICULO 46.
 
@@ -594,3 +612,9 @@ P.O. 22 DE JULIO DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
