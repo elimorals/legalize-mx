@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-6558"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-12-27"
-last_updated: "1995-12-27"
+last_updated: "2008-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO FISCAL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 1995.
 
@@ -123,9 +123,13 @@ VIII.- Las que organicen los servicios administrativos para la recaudación, dis
 
 IX.- Las demás leyes, que establezcan ingresos que por cualquier concepto perciba el Estado o los municipios, o excepciones a las mismas, así como las normas relativas del decreto aprobatorio del Presupuesto de Egresos del Estado.
 
+> <small>N. DE E. EN RALACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 4º.
 
-Sólo por disposición de la Ley, podrá afectarse un ingreso estatal a un fin especial.
+Sólo por disposición de la Ley, podrá afectarse un ingreso estatal a un fin específico.
 
 ###### ARTICULO 5º.
 
@@ -2314,3 +2318,11 @@ SECRETARIO DE HACIENDA
 LIC. MANUEL GONZALEZ JAMESON
 
 RUBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
