@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2007-06-20"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -167,11 +167,19 @@ d) El factor obtenido se multiplica en cada municipio por el monto a distribuir 
 
 El Gobierno del Estado, por conducto de la Secretaría de Despacho encargada de la Hacienda Pública, entregará a los municipios las participaciones, de los distintos fondos y conceptos participables que les correspondan, dentro de los cinco días siguientes a la recepción de los recursos de la federación. El retraso dará lugar al pago de intereses, a la tasa de recargo que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6º de la Ley de Coordinación Fiscal de la Federación. De las liquidaciones que haga la Secretaría de Despacho encargada de la Hacienda Pública a los Municipios les entregará constancia pormenorizando cada uno de los conceptos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### Artículo 9.
 
-Las participaciones que corresponden a los municipios del estado son inembargables y no estarán sujetas a retención, ni podrán afectarse por fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el artículo 9º de la Ley de Coordinación Fiscal de la Federación.
+Las participaciones que corresponden a los municipios del Estado son inembargables y no estarán sujetas a retención, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el artículo 9° de la Ley de Coordinación Fiscal de la Federación.
 
-Para que los municipios puedan garantizar el pago de obligaciones contraídas por los mismos, deberán estar autorizadas por los cabildos y cuando rebasen el término de su administración serán autorizadas por el Congreso del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+La afectación de participaciones como garantía o fuente de pago de obligaciones contraídas por los municipios, deberá ser previamente autorizada por el Cabildo y por el Congreso del Estado en términos de lo previsto por la Constitución del Estado y por las Leyes de Deuda Pública y de Contratos de Colaboración Público Privada estatales.
 
 La compensación entre el derecho del municipio a recibir participaciones y las obligaciones que tenga con el Gobierno del Estado o con la federación por créditos de cualquier naturaleza, sólo podrá llevarse a cabo siempre y cuando exista el acuerdo entre las partes interesadas y operará en los términos de la legislación aplicable.
 
@@ -194,6 +202,14 @@ El estado y los municipios tendrán derecho a recibir las aportaciones federales
 Los recursos que por concepto de aportaciones federales reciban el Estado y los municipios, serán administrados y aplicados con base en las disposiciones que para efecto establezcan la Ley de Coordinación Fiscal y el Presupuesto de Egresos de la Federación.
 
 Los recursos de los fondos de aportaciones federales que correspondan al Gobierno del Estado podrán ser ejercidos por los Ayuntamientos siempre y cuando existan convenios específicos para tal efecto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Artículo 13 bis.- Las aportaciones federales y sus accesorios que corresponden a los municipios del Estado, no serán embargables, ni los ayuntamientos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarlas a mecanismos de fuente de pago, salvo en los casos expresamente previstos en la Ley de Coordinación Fiscal de la Federación. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en dicha ley.
+
+La afectación de aportaciones federales y sus accesorios como garantía o fuente de pago de obligaciones contraídas por los municipios, deberá ser previamente autorizada por el Cabildo y por el Congreso del Estado en términos de lo previsto por la Constitución del Estado y por las Leyes de Deuda Pública y de Contratos de Colaboración Público Privada estatales, según corresponda.
 
 ###### Artículo 14.
 
@@ -219,9 +235,13 @@ La distribución por municipios se incluirá en el Presupuesto de Egresos del Go
 
 La Secretaría de Despacho encargada de la hacienda pública, del Poder Ejecutivo y los Ayuntamientos elaborarán conjuntamente el Programa Financiero Anual en aquellos casos en que el Gobierno del Estado asuma obligaciones contingentes u otorgue garantías al municipio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### Artículo 17.
 
-La Secretaría de Despacho encargada de la hacienda pública del estado, de manera coordinada será la encargada de conformidad con el artículo 20 de la Ley de Deuda Pública para el Estado de Morelos, de llevar el control y registro de todas las operaciones y obligaciones derivadas de la contratación de empréstitos y endeudamientos.
+La Secretaría de Despacho encargada de la hacienda pública del estado, de manera coordinada será la encargada de llevar el control y registro de las operaciones que constituyan deuda pública en términos de lo previsto por la Ley de Deuda Pública para el Estado de Morelos o por la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos.
 
 ###### Artículo 18.
 
@@ -400,3 +420,9 @@ P.O. 20 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
