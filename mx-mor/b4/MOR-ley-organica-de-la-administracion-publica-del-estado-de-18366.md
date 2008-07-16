@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-18366"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2008-06-20"
+last_updated: "2008-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el 29 de septiembre de 2000.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 29 de septiembre de 2000.
 
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.
 
@@ -397,13 +397,21 @@ XVI. Planear, organizar y dirigir las tareas de revisión y de auditoria a causa
 
 XVII. Ejercer la facultad económico coactiva, conforme a las disposiciones jurídicas aplicables;
 
-XVIII. Contratar la deuda pública del Estado, así como administrar y controlar su servicio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XVIII. Con excepción de los casos expresamente previstos en las leyes, contratar la deuda pública del Estado, así como administrar y controlar su servicio;
 
 XIX. Realizar una labor permanente de difusión y orientación fiscal sobre las leyes tributarias del estado, así como proporcionar asesoría a los ayuntamientos y los particulares sobre la interpretación y aplicación de tales leyes. Esto último se dará a solicitud expresa;
 
 XX. Intervenir en los juicios de carácter fiscal en defensa de los intereses de la Hacienda Pública del Estado;
 
-XXI. Integrar el Anteproyecto de Presupuesto de Egresos del Gobierno del Estado y el Programa General del Gasto del Sector Público, y someterlos a consideración del Ejecutivo por conducto del Secretario de Gobierno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XXI. Integrar el Anteproyecto de Presupuesto de Egresos del Gobierno del Estado y el Programa General del Gasto del Sector Público, y someterlos a consideración del Ejecutivo por conducto del Secretario de Gobierno. En todo caso, deberá incluir la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada durante la vigencia de los mismos;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
 
@@ -1077,15 +1085,19 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 Asimismo, el Gobierno del Estado podrá poseer menos del 50% de las acciones representativas del capital social de empresas que actúen en campos de interés prioritario. En estos casos, las empresas no se considerarán como entidades de la Administración Pública Paraestatal, si bien se adscribirán a la coordinación sectorial que corresponda, en los términos del artículo 45 de esta Ley, para efectos de los derechos corporativos y patrimoniales que derivan de la titularidad de dichas acciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 47.
 
-Los fideicomisos públicos son aquellos creados por el Gobierno del Estado, organismos descentralizados o empresas de participación estatal mayoritaria, con la finalidad de apoyar al Ejecutivo Estatal en la realización de sus atribuciones o atención a las áreas de desarrollo prioritario.
+Los fideicomisos públicos a que se refiere el Artículo 3, párrafo tercero, de esta Ley, son aquéllos que el Gobierno del Estado, los organismos descentralizados o empresas de participación estatal mayoritaria, constituyen con la finalidad de apoyar al Ejecutivo Estatal en la realización de sus atribuciones o en la atención de áreas de desarrollo prioritario, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+Los fideicomisos públicos que no se constituyan con las características señaladas en el párrafo que precede, no serán considerados entidades de la administración pública paraestatal y no estarán, por tanto, sujetos a esta ley.
 
-En los fideicomisos creados por el Gobierno del Estado, la Secretaría de Finanzas y Planeación fungirá como Fideicomitente Único de la Administración Pública Central.
+En los fideicomisos constituidos por el Gobierno del Estado que se regulan en esta ley, la Secretaría de Finanzas y Planeación fungirá como Fideicomitente Único de la Administración Pública Central.
 
-###### ARTICULO 48.
+###### ARTÍCULO 48.
 
 Las entidades de la Administración Pública Paraestatal se agruparán por sectores, los cuales serán coordinados por las dependencias que determine el Ejecutivo, mediante acuerdo administrativo de adscripción.
 
@@ -1242,3 +1254,9 @@ En tanto se expiden las reformas a que se refiere el artículo anterior, seguir�
 ###### ARTÍCULO DÉCIMO.
 
 El Gobernador del Estado deberá realizar las modificaciones presupuestales necesarias para la operación de las nuevas Secretarías que con este Decreto se crean, informando de los mismas conforme a lo dispuesto en el articulo noveno del Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal 2008, publicado el 25 de enero de 2008, en el Periódico Oficial "Tierra y Libertad", número 4589.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
