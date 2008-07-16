@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2007-05-09"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -705,6 +705,12 @@ Son comisiones ordinarias las que se constituyan con carácter de permanentes y 
 
 Las comisiones especiales son aquellas de carácter temporal que acuerde el pleno del Congreso del Estado, para la atención de asuntos específicos; se conformarán y tendrán la duración que se establezca en el propio acuerdo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Artículo 54 BIS.- Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
+
 ###### Artículo 55.
 
 Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, los secretarios y vocales que sean designados, ningún diputado podrá participar en más de cuatro comisiones ordinarias.
@@ -817,7 +823,11 @@ V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas
 
 VI. Dictaminar las iniciativas o proyectos de Leyes de Ingresos y las que se refieran a la creación de impuestos extraordinarios o especiales, ya sean estatales o municipales;
 
-VII. Dictaminar lo relativo a los empréstitos que el Ejecutivo Estatal y los Ayuntamientos soliciten, estos últimos cuando su duración exceda del término de su administración;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VII. Dictaminar lo relativo a los empréstitos, créditos y demás modalidades y actos jurídicos previstos en la Ley de Deuda Pública para el Estado de Morelos;
 
 VIII. Representar al Congreso del Estado ante los organismos hacendarios reconocidos por las Leyes del Estado;
 
@@ -1546,3 +1556,11 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
