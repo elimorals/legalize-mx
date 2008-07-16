@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2006-08-02"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -639,9 +639,19 @@ c) Cuantificación del gasto de inversión y gasto corriente, entendiendo el pri
 
 d) Plantilla de personal autorizada;
 
-e) Las precisiones del gasto público que habrán de realizar las entidades de la administración pública paramunicipal y contemplar las erogaciones que en lo particular le corresponden a las entidades paramunicipales, conforme a lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos; y
+e) Las precisiones del gasto público que habrán de realizar las entidades de la administración pública paramunicipal y contemplar las erogaciones que en lo particular le corresponden a las entidades paramunicipales, conforme a lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos; y (sic)
 
-f) En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+f. Un capítulo específico que incorpore las erogaciones derivadas de contratos de colaboración público privada;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+
+g. En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
 
 VIII. Aprobar previamente la celebración de todo tipo de convenios con el Poder Ejecutivo del Gobierno del Estado de Morelos, con sus organismos auxiliares, o con el Poder Ejecutivo Federal y sus entidades, a que aluden los Artículos 115 Fracción III y 116 Fracción VII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -649,13 +659,29 @@ IX. Dentro del ámbito de su competencia y sujetándose a los requisitos que las
 
 X. Proponer, en su caso, a la Legislatura local, por conducto del Presidente Municipal, la creación de organismos municipales descentralizados, fideicomisos o empresas de participación municipal mayoritaria; para la prestación y operación de los servicios públicos; y en general para cualquier otro propósito de beneficio colectivo;
 
-XI. Someter a la autorización del Congreso del Estado la celebración de empréstitos y la aprobación de los contratos respectivos, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-XII. Solicitar la aprobación de la dependencia de la Administración Pública del Estado, encargada del ramo de Hacienda, cuando el Municipio, sus organismos descentralizados o fideicomisos, requieran la garantía del Estado para la contratación de empréstitos o créditos, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
+XI. Someter a la autorización del Congreso del Estado la celebración de empréstitos o créditos conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
 
-XIII. Previa la autorización del Congreso del Estado, emitir títulos de deuda pública pagaderos en moneda nacional y dentro del territorio nacional, conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XII. Solicitar la autorización de la dependencia de la Administración Pública del Estado encargada del ramo de Hacienda, cuando el Municipio, sus organismos descentralizados, empresas de participación municipal mayoritaria o fideicomisos, requieran que el Estado se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los mismos para la contratación de empréstitos, créditos o contratos de colaboración público privada, conforme a lo dispuesto en las leyes aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XIII. Someter a la autorización del Congreso del Estado la celebración de contratos de colaboración público privada cuando, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XIII bis.- Someter a la autorización del Congreso del Estado la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos del Municipio o, en su caso, de los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos;
 
 XIV. Supervisar el corte de caja de la Tesorería Municipal que mensualmente presente el Tesorero al Ayuntamiento en Cabildo y aprobarlo en su caso, remitiéndolo al Congreso del Estado dentro de los veinte primeros días del mes siguiente; en el último mes del ejercicio constitucional se remitirá el corte de caja al Congreso quince días antes de la conclusión del ejercicio constitucional del Ayuntamiento;
 
@@ -751,13 +777,19 @@ LVII. Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos
 
 LVIII. Proporcionar instrucción cívica a los ciudadanos del Municipio, con el fin de que se mantengan aptos en el ejercicio de sus derechos cívico políticos;
 
-LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y
+LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y (sic)
 
 LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras leyes y reglamentos;
 
 > <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
-LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
+LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+LXII. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
 
 ###### Artículo 39.
 
@@ -779,13 +811,17 @@ IV. Imponer contribuciones que no estén establecidas en la Ley de Ingresos del 
 
 V. Enajenar, gravar, arrendar o dar posesión de los bienes del Municipio sin sujetarse a los requisitos establecidos en la Constitución Estatal, la presente Ley y demás normas jurídicas aplicables;
 
-VI. Enajenar los ingresos municipales en cualquier forma;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VI. Con excepción de los casos expresamente previstos en las leyes, enajenar o afectar los ingresos municipales en cualquier forma;
 
 VII. Retener o invertir, para fines distintos, la cooperación, que en numerario o especie, aporten los particulares para la realización de obras de utilidad pública;
 
-VIII. Ejecutar planes y programas distintos a los aprobados; y
+VIII. Ejecutar planes y programas distintos a los aprobados; y (sic)
 
-IX. Conceder empleos en la administración municipal o tener como proveedores a cualesquiera de sus miembros o a los cónyuges, parientes consanguíneos en línea recta y parientes colaterales o por afinidad hasta el segundo grado de éstos, exceptuando aquellas funciones de carácter honorífico.
+IX. Conceder empleos en la administración municipal o tener como proveedores a cualesquiera de sus miembros o a los cónyuges, parientes consanguíneos en línea recta y parientes colaterales o por afinidad hasta el segundo grado de éstos, exceptuando aquellas funciones de carácter honorífico;
 
 No se consideran en la excepción anterior aquellos que tengan un empleo público en el Municipio, otorgado en fecha anterior a la función del Ayuntamiento que se trate, siempre y cuando no se vean beneficiados con la asignación de otro empleo, cargo o comisión de mayor jerarquía o percepción salarial.
 
@@ -813,7 +849,11 @@ VII. Proponer ante el Cabildo, en acuerdo con el Síndico, al responsable del á
 
 VIII. Representar al Ayuntamiento en todos los actos oficiales o delegar esta función;
 
-IX. Celebrar, a nombre del Ayuntamiento y por acuerdo de éste, todos los actos y contratos necesarios para el desempeño de los negocios administrativos y eficaz prestación de los servicios públicos municipales con facultades de un apoderado legal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+IX. Celebrar, a nombre del Municipio, por acuerdo del Ayuntamiento, todos los actos y contratos necesarios para el funcionamiento de la administración municipal, con facultades de un apoderado legal;
 
 X. Ejercer el Presupuesto de Egresos respectivo, organizar y vigilar el funcionamiento de la administración pública municipal; coordinar a través de la Tesorería las actividades de programación, presupuestación, control, seguimiento y evaluación del gasto público y autorizar las órdenes de pago; en términos de la Ley de Presupuesto Contabilidad y Gasto Público del Estado de Morelos;
 
@@ -827,7 +867,11 @@ XIV. Informar al Ayuntamiento respecto del cumplimiento dado a los acuerdos y re
 
 XV. Presentar el día treinta y uno de octubre de cada año, en sesión solemne de Cabildo, un informe del estado que guarde la administración y de las labores desarrolladas durante el año, así como dar contestación a las cuestiones que se le formulen por los regidores y síndico integrantes del Cabildo;
 
-XVI. Con el auxilio de las comisiones o dependencias respectivas, elaborar el proyecto de iniciativa de Ley de Ingresos del Municipio y del Presupuesto de Egresos, para someterlos al análisis y aprobación en su caso, del Cabildo y del Congreso del Estado, en términos de la Constitución Política del Estado, la Ley de Presupuesto, Contabilidad y Gasto Público y esta Ley; asimismo, remitir al Congreso la cuenta pública anual del Municipio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+XVI. Con el auxilio de las comisiones o dependencias respectivas, elaborar el proyecto de iniciativa de Ley de Ingresos del Municipio y del Presupuesto de Egresos, para someterlos al análisis y aprobación, en su caso, del Cabildo y del Congreso del Estado, en términos de la Constitución Política del Estado, la Ley de Presupuesto, Contabilidad y Gasto Público, la Ley de Deuda Pública, la ley de Contratos de Colaboración Público Privada, esta Ley y las demás disposiciones legales aplicables; asimismo, remitir al Congreso la cuenta pública anual del Municipio;
 
 XVII. Dar parte a las autoridades respectivas de los desalojos e invasiones de bienes inmuebles que se produzcan en el territorio municipal;
 
@@ -1271,7 +1315,11 @@ V.- Organizar y vigilar que se lleven al día y con arreglo a la técnica, la co
 
 VI.- Llevar por sí mismo la caja de tesorería, cuyos valores estarán siempre bajo su inmediato cuidado y exclusiva responsabilidad;
 
-VII.- Proporcionar oportunamente al Ayuntamiento la información y documentación necesaria, así como el apoyo humano necesarios para la formulación del Presupuesto de Egresos y del proyecto de Ley de Ingresos del municipio, vigilando que dichos ordenamientos se ajusten a las disposiciones de la Ley de Hacienda Municipal y de los Reglamentos respectivos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VII.- Proporcionar oportunamente al Ayuntamiento la información y documentación necesaria, así como el apoyo humano necesarios para la formulación del Presupuesto de Egresos y del proyecto de Ley de Ingresos del Municipio, vigilando que dichos ordenamientos se ajusten a las disposiciones constitucionales, legales y reglamentarias aplicables;
 
 VIII.- Verificar que los recursos recaudados, incluidas las multas impuestas por las autoridades municipales, ingresen a la Tesorería Municipal;
 
@@ -1675,23 +1723,47 @@ VI. Contribuciones especiales por la ejecución de obras públicas de urbanizaci
 
 VII. Fondos de los empréstitos públicos y privados y otros ingresos extraordinarios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### Artículo 114.
 
-Los egresos de la administración pública municipal deberán sujetarse estrictamente al presupuesto que el Ayuntamiento apruebe anualmente por ejercicios naturales, el cual deberá formularse sobre las bases, programas y modalidades que el propio Ayuntamiento determine, pero que invariablemente contendrá las asignaciones anuales para gastos generales, de operación y de administración, para inversiones públicas, para el pago de deudas municipales y para erogaciones especiales.
+Los egresos de la administración pública municipal deberán sujetarse estrictamente al presupuesto que el Ayuntamiento apruebe anualmente por ejercicios naturales, el cual deberá formularse sobre las bases, programas y modalidades que el propio Ayuntamiento determine, pero que invariablemente contendrá las asignaciones anuales para gastos generales, de operación y de administración, para inversiones públicas, para el pago de obligaciones derivadas de contratos de colaboración público privada, para el pago de deudas municipales y para erogaciones especiales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 115.
 
-Ningún pago podrá hacerse sin que exista partida expresa del presupuesto que lo autorice y saldo disponible para cubrirlo.
+Con excepción de los casos previstos en el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, ningún pago podrá hacerse sin que exista partida expresa del presupuesto que lo autorice y saldo disponible para cubrirlo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 116.
 
-Los Gobiernos Municipales, para celebrar actos o convenios que comprometan la Hacienda del Municipio por un plazo mayor al período del Ayuntamiento, requerirán de la previa autorización de la Legislatura Local, vigilando en los casos de obligaciones o empréstitos, que estos se destinen a inversiones públicas productivas, inclusive los que contraigan los organismos descentralizados, las empresas y fideicomisos públicos, con sujeción a las normas aplicables y por los conceptos y hasta por los montos que el Poder Legislativo fije anualmente. Los Ayuntamientos informarán de su ejercicio al rendir la cuenta pública.
+Los gobiernos municipales requerirán de la previa aprobación del Congreso del Estado para:
+
+a) Contratar obligaciones o empréstitos;
+
+b) Celebrar contratos de colaboración público privada cuando, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública; y
+
+c) Afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos.
+
+Los Ayuntamientos deberán informar detalladamente con relación a los empréstitos, contratos de colaboración público privada y la afectación de sus ingresos al rendir la cuenta pública.
 
 ###### Artículo 117.
 
 La cuenta pública anual de cada Municipio se formará, rendirá y aprobará en cada Ayuntamiento, conforme a las disposiciones de la Constitución Política del Estado y a las de esta Ley.
 
-Cuando se trate del término de un período constitucional, la administración municipal saliente aprobará su cuenta pública, correspondiente al período de enero a octubre, dentro de los últimos diez días del mes de octubre del año en que concluyan dicho período constitucional, conforme a lo previsto por la Constitución Política Local.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
+Cuando se trate del término de un período constitucional, la administración municipal saliente aprobará su cuenta pública, correspondiente al período de enero a octubre, dentro de los últimos diez días del mes de octubre del año en que concluyan dicho período constitucional y la presentará al Congreso del Estado a más tardar el treinta de noviembre de dicho año, conforme a lo previsto por la Constitución Política Local.
 
 ###### Artículo 118.
 
@@ -1705,21 +1777,49 @@ La Secretaría de la Contraloría tendrá la intervención en términos de la pr
 
 Los Ayuntamientos requieren de la aprobación de las dos terceras partes de sus integrantes para:
 
-I. Obtener empréstitos para inversiones públicas productivas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+I. La contratación de empréstitos para inversiones públicas productivas;
 
 II. Adquirir y enajenar sus bienes muebles e inmuebles;
 
-III. Dar en arrendamiento sus bienes propios por un término que no exceda a la gestión del Ayuntamiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Celebrar contratos de obras, así como la concesión de servicios públicos, que produzcan obligaciones, cuyo término no exceda de la gestión del Ayuntamiento contratante o concedente.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+III. Dar en arrendamiento sus bienes propios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+IV. Celebrar contratos de obras, así como la concesión de servicios públicos;
 
 V. Cambiar de destino los bienes inmuebles destinados a un servicio público o de uso común;
 
 VI. Desincorporar del dominio público los Bienes Municipales;
 
-VII. Para donar bienes muebles e inmuebles siempre que se destinen a la realización de obras de beneficio colectivo; y
+VII. Para donar bienes muebles e inmuebles siempre que se destinen a la realización de obras de beneficio colectivo; y (sic)
 
-VIII. Los demás casos establecidos por las leyes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+VIII. Celebrar contratos de colaboración público privada;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+IX. Afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos, en términos de las leyes aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+
+X. Los demás casos establecidos por las leyes.
 
 A la solicitud de autorización para contratar de acuerdo a lo anteriormente expuesto, deberán acompañarse las bases sobre las cuales se pretenden celebrar el contrato y los documentos necesarios.
 
@@ -1823,9 +1923,13 @@ II. Por contrato, las que se proyectan y ejecutan por personas físicas o morale
 
 Cuando varios Municipios del Estado tengan interés común en la realización de alguna misma obra pública, podrán celebrar convenio de asociación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### Artículo 130.
 
-Los convenios que celebren los Ayuntamientos para la ejecución de obras públicas municipales, con la cooperación de la Federación, del Gobierno del Estado o con la de los particulares, requieren la autorización del Congreso del Estado, si de ello resultan obligaciones cuyo término exceda del período de gestión del Ayuntamiento contratante.
+Los convenios que celebren los Ayuntamientos para la ejecución de obras públicas municipales, con la cooperación de la Federación, del Gobierno del Estado o con la de los particulares, requerirán de la autorización de las dos terceras partes de los integrantes del Ayuntamiento, si de ello resultan obligaciones cuyo término exceda del período de gestión del Ayuntamiento contratante.
 
 ###### Artículo 131.
 
@@ -2163,7 +2267,7 @@ II.- La realización conjunta de programas de desarrollo común;
 
 III.- La organización de empresas para la prestación de servicios públicos de alcance intermunicipal;
 
-IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población y
+IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población, y
 
 V.- Las demás acciones que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
 
@@ -2482,3 +2586,9 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
