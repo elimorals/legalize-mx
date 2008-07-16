@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-471
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-09"
-last_updated: "2005-11-09"
+last_updated: "2008-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO ESTATAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR, PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 9 de noviembre de 2005.
 
@@ -490,3 +492,15 @@ Quinto.- En los casos no previstos en el presente Reglamento y, en los que se pr
 Dado en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 12 doce días del mes de octubre del año 2005 dos mil cinco.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Enrique Robles Solís, Consejero Jurídico del Gobernador.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Estatal, publicado en el Periódico Oficial del Estado número 330, Tomo II, de fecha nueve de noviembre del año dos mil cinco, así como la normatividad que de él emane, y se derogan las disposiciones que se opongan al contenido del presente Reglamento.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento, y en los que se presente controversia en cuanto a su interpretación, aplicación y observancia, el Consejero Jurídico resolverá lo conducente.
+
+Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial del Estado.
