@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-de-la-deuda-publica-del-estado-de-26606
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-19"
-last_updated: "2000-04-19"
+last_updated: "2008-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL REGISTRO DE LA DEUDA PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. 16 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de abril de 2000.
 
@@ -250,3 +252,23 @@ EL SECRETARIO DE HACIENDA
 RAFAEL RIVERA RUÍZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- La presente Ley entrará en vigor a los treinta días naturales siguientes al de su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se abroga la Ley de Deuda Pública para el Estado de Morelos de fecha 19 de enero de 1995, publicada en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, Número 3729, el día 1º. de febrero del mismo año.
+
+Artículo Tercero.- Se abroga el Reglamento del Registro de la Deuda Pública del Estado de Morelos de fecha 20 de marzo del año 2000, publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, Número 4045, el día 19 de abril del mismo año.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
+
+Artículo Quinto.- Los empréstitos o créditos; el otorgamiento de garantías y avales; y, en general, cualesquier actos jurídicos, principales o accesorios, en materia de deuda pública, que se celebren al amparo de autorizaciones del Congreso del Estado otorgadas con anterioridad a la fecha de entrada en vigor de esta Ley, se regirán por la Ley de Deuda Pública para el Estado de Morelos vigente en la fecha de su autorización.
+
+Artículo Sexto.- La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de esta ley a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrados, otorgados o notificados con anterioridad a la fecha de entrada en vigor de esta Ley, no estará sujeta a lo previsto en el Artículo 75 segundo y tercer párrafos de la misma, debiendo regirse para su modificación por la legislación y los decretos correspondientes a su autorización.
+
+Artículo Séptimo.- Las entidades a que se refiere el Artículo 2 de esta Ley, deberán inscribir todos sus empréstitos o créditos vigentes en el Registro de Obligaciones y Empréstitos del Estado de Morelos, dentro de un plazo de noventa días a partir de la fecha de su publicación.
