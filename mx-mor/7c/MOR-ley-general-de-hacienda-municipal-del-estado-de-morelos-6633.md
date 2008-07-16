@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2008-04-04"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -595,15 +595,15 @@ ARTICULO 93 BIS-12.- Los jueces, notarios, corredores públicos, las oficinas p�
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES
 
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
+
 > <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 94.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
-
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
-
-ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
@@ -3231,6 +3231,8 @@ La intervención de inspectores, en los casos en que se determinen violaciones a
 
 ### CAPITULO SEPTIMO. INGRESOS DIVERSOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 215.
 
 Cuando se presente el hecho generado correspondiente, la Tesorería Municipal percibirá en calidad de otros ingresos, los siguientes:
@@ -3257,13 +3259,19 @@ La sanción podrá aumentarse progresivamente en tanto no se realice la conducta
 
 ###### ARTICULO 217.
 
-Quedan comprendidos dentro de esta clasificación de ingresos que obtengan el Municipio, por concepto de:
+Quedan comprendidos dentro de esta clasificación de ingresos los que obtengan el Municipio, por concepto de:
 
-I.- Créditos que le sean otorgados para obras, previa autorización y aprobación del H. Congreso del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+
+I.- Empréstitos que le sean otorgados para inversiones públicas productivas, previa autorización del Congreso del Estado.
 
 II.- Aportaciones extraordinarias de organismos públicos.
 
-III.- Créditos que le sean otorgados por la Banca Nacionalizada siempre y cuando su vencimiento no rebase el período de administración municipal correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+III.- (DEROGADA, P.O. 16 DE JULIO DE 2008)
 
 ## TRANSITORIOS
 
@@ -3402,6 +3410,12 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan al pr
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
