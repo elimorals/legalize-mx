@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-registro-publico-de-la-propiedad-y-del-44029"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-28"
-last_updated: "2006-06-21"
+last_updated: "2008-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 28 de febrero de 2005.
 
@@ -61,19 +61,25 @@ Es una unidad administrativa del Poder Ejecutivo del Estado y en términos de lo
 
 Al Registro Público de la Propiedad y del Comercio le corresponde el desempeño de las funciones registrales en materia inmobiliaria, mobiliaria y de personas jurídicas o morales, con arreglo a las prevenciones del Código Civil para el Estado de Quintana Roo, de este Reglamento, del Reglamento Interior de la Secretaría de Hacienda, de los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Hacienda, de los Manuales de Operación del Sistema Informático del propio Registro y de las demás disposiciones legislativas, reglamentarias y administrativas aplicables.
 
-Sus oficinas se ubican en la Ciudad de Chetumal; y cuando las necesidades del servicio lo requieran, se podrán establecer Delegaciones en otras ciudades de la Entidad por Acuerdo Administrativo del Ejecutivo, en el que se precisará la jurisdicción de cada una de ellas.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+Sus oficinas centrales se ubican en la Ciudad de Chetumal; y cuando las necesidades del servicio lo requieran, se podrán establecer Delegaciones en otras ciudades de la Entidad por Acuerdo Administrativo del Ejecutivo, en el que se precisará la circunscripción de cada una de ellas.
 
 ###### Artículo 4.
 
 El Registro Público de la Propiedad y del Comercio del Estado operará a través de un programa informático que contendrá una base de datos, la cual deberá contar con al menos un respaldo electrónico.
 
-Mediante el mencionado programa informático, se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+Mediante el mencionado programa informático, se realizará la captura por cualquier medio, el almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral.
 
 ###### Artículo 5.
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Asiento Registral: Las notas marginales y de presentación, anotaciones preventivas y definitivas inscripciones, cancelaciones, registros y cualquiera otra prevista en el Código Civil para el Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+l. Asiento Registral: Las notas marginales y de presentación, anotaciones preventivas, y definitivas, avisos preventivos, inscripciones, registros y cualquiera otra prevista en el Código Civil para el Estado de Quintana Roo.
 
 II. Autorización Electrónica: La clave digital asignada a determinados funcionarios, que les permite ingresar al programa informático, operarlo y sancionar los asientos registrales para su incorporación a la base de datos.
 
@@ -81,31 +87,71 @@ III. Analista: El servidor público auxiliar de la función registral, que tiene
 
 IV. Código: El Código Civil para el Estado de Quintana Roo.
 
-V. Delegaciones: Las oficinas del Registro Público de la Propiedad y del Comercio, que por acuerdo administrativo del Ejecutivo se establezcan en ciudades del interior del Estado con jurisdicción delimitada según su decreto de creación.
+REFORMADA, P.O. 17 DE JULIO DE 2008)
+
+V. Delegación: Las oficinas del Registro Público de la Propiedad y del Comercio, que por acuerdo administrativo del Ejecutivo se establezcan en ciudades del interior del Estado con circunscripción delimitada según su decreto de creación.
 
 VI. Delegados: Los titulares de las Delegaciones del Registro Público de la Propiedad y del Comercio en el Estado.
 
 VII. Dirección General: La Dirección General del Registro Público de la Propiedad y del Comercio en el Estado.
 
-VIII. Director General: El Director General del Registro Público de la Propiedad y del Comercio en el Estado.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-IX. Folio Registral: Expediente electrónico y digital en el que se practican los asientos registrales, y que contiene toda la información registral referida a un mismo mueble, inmueble o persona jurídica o moral, considerado cada uno de éstos como una unidad registral con historial jurídico propio.
+VIII. Director General: El Director General del Registro Público de la Propiedad y del Comercio en el Estado, quien ejerce la fe pública registral de la que es depositario.
 
-X. Forma Precodificada: Documento electrónico base del Sistema de Folio Registral, que contiene los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-XI. Programa Informático: Medio tecnológico utilizable para capturar, almacenar, custodiar, asegurar, consultar, verificar administrar, transmitir, generar, enviar, recibir, archivar, reproducir o procesar información registral relacionada con los actos y títulos registrales, que sirve de base para la operación del Sistema de Folio Registral.
+IX. Folio electrónico Registral: Expediente electrónico y digital en el que se practican los asientos registrales, y que contiene toda la información registral referida a un mismo mueble, inmueble o persona jurídica o moral, considerado cada uno de éstos como una unidad registral con historial jurídico propio.
 
-XII. Registrador: El servidor público depositario de la fe pública registral, que tiene a su cargo la calificación de los documentos registrables, así como la autorización de los asientos en que se materializa su registro.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+X. Forma Precodificada: Documento electrónico base del Sistema de Folio electrónico Registral, que contiene los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XI. Programa Informático: Medio tecnológico utilizable para capturar por cualquier medio, almacenar los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XII. Registrador: El servidor público depositario y que ejerce la fe pública registral que tiene a su cargo la calificación de los documentos registrales, así como la autorización de los asientos en que se materializa su registro.
 
 XIII. Registro: El Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo.
 
-XIV. Sistema de Folio Registral: El sistema informático de operación registral, conforme al cual los asientos registrales se practican en el Folio correspondiente a cada inmueble, mueble o persona jurídica o moral.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XIV. Sistema de Folio Registral: El sistema informático de operación registral, conforme al cual los asientos registrales se practican en el Folio electrónico correspondiente a cada inmueble, mueble o persona jurídica o moral.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS REGISTRALES
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 6.
 
-En términos de las disposiciones del Código, el Registro deberá respetar y aplicar los principios registrales de publicidad, inscripción, especialidad, buena fe, legalidad, prelación, anotación, tracto sucesivo o continuo, calificación registral y, en su caso, el de la obligatoriedad.
+En términos de las disposiciones del Código, el Registro deberá respetar y aplicar los principios registrales de publicidad, inscripción, especialidad, consentimiento, tracto sucesivo, rogación, prioridad o prelación, legalidad, calificación registral, legitimación, fe pública registral y, en su caso, el de la obligatoriedad:
+
+I. Principio de publicidad. Aquel por el cual el Registro revela la situación jurídica de los inmuebles, muebles o personas morales inscritos, y toda persona, sea o no tercero registral o interesado, tiene derecho, previa satisfacción de los requisitos establecidos en las disposiciones legales, reglamentarias y administrativas aplicables, a tener acceso a los asientos del Registro y a obtener constancias relativas a los mismos. La publicidad se da a través de la inscripción o anotación en el Registro Público;
+
+II. Principio de inscripción. Consiste en la materialización del asiento hecho en el Registro Público donde consta el Acto Jurídico que crea, produce, modifica o extingue una relación jurídica determinada;
+
+III. Principio de especialidad. Consiste en determinar pormenorizadamente las características intrínsecas del inmueble, mueble o persona moral de que se trate, así como del acto jurídico que les recae, y que es objeto de la inscripción o anotación;
+
+IV. Principio de consentimiento. Consiste en la necesidad del consentimiento del titular registral o interesados para que se cancele su registro y se haga uno nuevo a favor de otra persona;
+
+V. Principio de tracto sucesivo o continuo. Consiste en la correlación o concatenamiento entre los distintos titulares registrales, así como en cuanto al derecho a inscribirse o anotarse y su objeto;
+
+VI. Principio de rogación. Consiste en la petición o solicitud de parte interesada, mandato judicial o administrativo dirigido al Registrador a fin de que proceda a la inscripción de un acto jurídico;
+
+VII. Principio de prioridad o prelación. Consiste en que la preferencia entre derechos reales sobre un mismo inmueble, se determina por el orden de la presentación en el Registro Público de la Propiedad y no por la fecha del título que contiene el acto jurídico a registrar;
+
+VIII. Principio de legalidad. Consiste en que todo acto jurídico registrado o anotado en el Registro Público de la Propiedad, se presume reúne todos los requisitos jurídicos que señalan los ordenamientos que lo regulan;
+
+IX. Principio de calificación registral. Consiste en la facultad del registrador de examinar y valorar, bajo su más estricta responsabilidad, si los documentos que se presentan para su registro o anotación son susceptibles de inscribirse y si los mismos cumplen con los requisitos establecidos en las disposiciones legales conducentes, a efecto de autorizar, suspender o negar su trámite en el Registro Público;
+
+X. Principio de legitimación. Consiste en que lo inscrito es eficaz y crea una presunción de derecho, que admite prueba en contrario, de que el titular aparente es el real; pero si se trata de actos en los cuales se afecte el interés de un ajeno, la presunción adquiere fuerza legal, que no admite prueba, en protección a los adquirentes de buena fé, presumiendo que un derecho inscrito existe y pertenece al titular registral, en tanto no se pruebe la inexactitud de lo inscrito frente a lo real, prevaleciendo lo que se encuentra asentado;
+
+XI. Principio de fé pública registral. Consiste en tener como verdad jurídica el contenido de los asientos del Registro Público de la Propiedad, salvo prueba en contrario;
+
+XII. Principio de obligatoriedad. Consiste en la obligación que tienen las personas que por disposición legal deben de inscribir en el Registro Público de la Propiedad los documentos que consignen actos jurídicos que por ministerio de ley son constitutivos a partir de sus (sic) registro.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL REGISTRO
 
@@ -117,19 +163,25 @@ El Registro estará a cargo del Director General, a quien le corresponderá la p
 
 I. Área Jurídica
 
-II. Área Informática
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. Área de Innovación e Informática
 
 III. Área Administrativa
 
-IV. Área de Archivo
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+IV. Área de Acervo Registral
 
 V. Delegaciones
 
 ### CAPÍTULO II. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 8.
 
-Al frente de la Dirección General habrá un Director General y su jurisdicción comprenderá todo el territorio del Estado, a quien le corresponde originalmente la representación, trámite y resolución de los asuntos de la misma, y para el desarrollo de las actividades registrales podrá delegar sus facultades a servidores públicos subalternos sin perjuicio de su ejercicio directo.
+Al frente de la Dirección General habrá un Director General y su circunscripción comprenderá todo el territorio del Estado, a quien le corresponde originalmente la representación, trámite y resolución de los asuntos de la misma, y para el desarrollo de las actividades registrales podrá delegar sus facultades a servidores públicos subalternos sin perjuicio de su ejercicio directo.
 
 El Director General contará además con el personal técnico, administrativo y de apoyo, que sea necesario para el adecuado cumplimiento de sus atribuciones, conforme al Manual de Organización de la Dirección General y de conformidad con el presupuesto de egresos autorizado.
 
@@ -137,9 +189,13 @@ El Director General contará además con el personal técnico, administrativo y 
 
 El Director General tendrá las siguientes atribuciones:
 
-I. Ser depositario, al igual que los Registradores y los Delegados, de la fe pública registral.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-II. Dictar los lineamientos y políticas necesarias para aprobar y promover los planes y programas de trabajo, que permitan una práctica sana, uniforme y ágil del proceso registral.
+I. Ser depositario al igual que los Registradores y los Delegados, de la fe pública registral, y ejercerla en los términos de las disposiciones legales reglamentarias y administrativas aplicables.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. Dictar los lineamientos y políticas necesarias para aprobar y promover los planes y programas de trabajo, que permitan una práctica sana, uniforme y ágil del procedimiento registral.
 
 III. Dar fe, en su caso, de los actos registrales autorizando con su clave, firma y sellos, las inscripciones y certificaciones generadas y que obren en los archivos del Registro.
 
@@ -169,7 +225,9 @@ XIII. Acordar y promover las medidas que considere pertinentes para la continua 
 
 XIV. Colaborar con las autoridades judiciales y de cualquier otra índole en los casos que así establezcan las leyes respectivas.
 
-XV. Las demás que le confieran las leyes, reglamentos y demás disposiciones legislativas, reglamentarias y administrativas aplicables.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XV. Dirigir y coordinar, mediante la implantación de las acciones que considere pertinentes, la reposición, restauración, concentración, conservación, guarda y custodia del Acervo de la Institución.
 
 ###### Artículo 10.
 
@@ -193,61 +251,95 @@ VIII. No haber sido condenado por delito doloso.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DELEGADOS Y TITULARES DE LAS ÁREAS, Y DE SUS PERFILES PROFESIONALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 11.
 
-Los Delegados, así como los titulares de las Áreas Jurídica, Informática, Administrativa y de Archivo, tendrán las siguientes atribuciones genéricas:
+Los Delegados, así como los titulares de las Áreas Jurídica, Innovación e Informática, Administrativa y de Acervo Registral, tendrán las siguientes atribuciones genéricas:
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-I. Acatar las disposiciones que emanen de la Secretaría de Hacienda, Subsecretaría de Ingresos y la Dirección General.
+I. Acatar las disposiciones que emanen de la Secretaría de Hacienda, Subsecretaría de Ingresos, de la Dirección General y Procuraduría Fiscal del Estado.
 
 II. Supervisar de manera permanente el funcionamiento de las oficinas registrales en su respectiva área de competencia.
 
 III. Realizar y organizar mejoras a su área para que funcione de manera eficiente.
 
-IV. Formular y entregar en su oportunidad, los informes, reportes y estadísticas solicitados por la autoridad superior.
+IV. (DEROGADA, P.O. 17 DE JULIO DE 2008)
 
-V. Dar su visto bueno en aquéllos casos que le sea requerido por los funcionarios del Registro.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-VI. Mantener permanentemente informada a la Dirección General o en su caso a la Delegación de su adscripción, sobre los hechos y acciones relevantes.
+V. Emitir su opinión en aquéllos casos que le sea requerido por los servidores públicos de mandos medios o superiores del Registro.
+
+VI. (DEROGADA, P.O. 17 DE JULIO DE 2008)
 
 VII. Coordinar al personal a su cargo.
 
-VIII. Vigilar el orden interno e imponer los correctivos disciplinarios legales a que hubiere lugar.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-IX. Rendir a la Dirección General, dentro de los primeros diez días hábiles de cada mes, un informe completo de las actividades realizadas en el mes inmediato anterior en el área a su cargo.
+VIII. Vigilar el orden interno, e informar al Área Administrativa de las presuntas irregularidades que conozca.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+IX. Rendir a la Dirección General, dentro de los primeros diez días hábiles de cada mes, un informe completo de las actividades realizadas en el mes inmediato anterior, incluyendo reportes y estadísticas solicitados por la autoridad superior manteniendo permanentemente informada a la Dirección General sobre los hechos y acciones relevantes en el área a su cargo.
 
 X. Dar seguimiento a los programas que se implementen por la Dirección General, así como cumplir las indicaciones y asistir a las reuniones que se convoquen por la misma.
 
-XI. Firmar los documentos que le correspondan de acuerdo a su área de competencia.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XI. Firmar u otorgar la autorización electrónica asignada en los documentos que le correspondan de acuerdo a su area de competencia.
 
 XII. Orientar a los usuarios del Registro en áreas de su competencia.
 
 XIII. Proponer a la Dirección General las medidas que estime necesarias para el mejor logro de los objetivos del Registro.
 
-XIV. Determinar la actividad a desarrollar por el personal a su cargo, según las necesidades del Registro.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-XV. Excusarse de participar en procedimientos del Registro en los cuales tenga interés jurídico.
+XIV. Determinar la actividad a desarrollar por el personal a su cargo, según las necesidades del Registro y de acuerdo a las disposiciones legales, reglamentarias y administrativas en materia de profesionalización de la función registral.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XV. Excusarse de participar en procedimientos del Registro en los cuales tenga interés jurídico él o su cónyuge o pariente consanguíneo o por afinidad hasta el cuarto grado.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
 XVI. Las demás que les encomienden el Secretario de Hacienda, El Subsecretario de Ingresos, el Director General, y les señalen el Código, el Reglamento Interior de la Secretaría de Hacienda, este Reglamento, los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Hacienda, los Manuales de Operación del Sistema Informático del Registro, y demás disposiciones legislativas, reglamentarias y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 12.
 
-Los funcionarios señalados en el artículo anterior, deberán satisfacer los mismos requisitos que para ser Director General, con las siguientes excepciones:
+Los servidores públicos señalados en el Articulo anterior y los Registradores, deberán satisfacer los mismos requisitos que se requieren para ser Director General, con las siguientes excepciones:
 
-I. Los Delegados, Titular del Área Jurídica y Titular del Área de (sic) Administrativa, tener cuando menos treinta años de edad del día de su nombramiento; el Titular del Área de Archivo y el Titular del Área de Informática, deberán tener cuando menos veinticinco años de edad al día de su nombramiento.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-II. El Titular del Área de Informática deberá tener título profesional de Licenciado en Informática, Ingeniero en Sistemas de Computación o carrera afín, registrado en la Dirección General de Profesiones, y tener experiencia mínima de 4 años en el área de informática, análisis, diseño, desarrollo en sistemas, manejo de base de datos y en administración de centros de cómputo en empresas o gobierno.
+I. Los Delegados, Titular del Área Jurídica y Titular del Área Administrativa, tener cuando menos veintiocho años de edad del día de su nombramiento; el Titular del Área de Acervo Registral y el Titular del Área de Innovación e Informática, deberán tener cuando menos veinticinco años de edad al día de su nombramiento.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. El Titular del Área de Innovación e Informática deberá tener título profesional de Licenciado en Informática, Ingeniero en Sistemas de Computación o carrera afín, registrado en la Dirección General de Profesiones, y tener experiencia mínima de 4 años en el área de informática, análisis, diseño, desarrollo en sistemas, manejo de base de datos y en administración de centros de cómputo en empresas o gobierno.
 
 III. El Titular del Área Administrativa deberá tener título profesional de Licenciado en Administración de Empresas, Contador Público o Privado, registrado en la Dirección General de Profesiones. Y tener experiencia mínima de 3 años en el puesto o similar.
 
-IV. El Titular del Área de Archivo, deberá contar con Título de Licenciado en Archivonomia o carrera afín, y experiencia mínima de tres años en alguna empresa o institución de gobierno desempeñando funciones de archivista.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS DELEGADOS Y TITULARES DE LAS ÁREAS
+IV. El Titular del Área de Acervo Registral, deberá contar con Título de Licenciado en ArchivonomÍa (sic) o carrera afín, y experiencia mínima de tres años en alguna empresa o institución de gobierno desempeñando funciones de archivista.
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2008)</small>
+
+V. Los Registradores deberán contar con residencia efectiva en el Estado no menor a 3 años, tener como mínimo 25 años de edad a la fecha de su nombramiento, contar con tres años por lo menos en el ejercicio profesional y tener experiencia en materia registral o notarial.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2008)</small>
+
+Artículo 12 bis. El Director General y los titulares de las Áreas de Innovación e Informática y Administrativa, promoverán la implantación del Servicio Profesional de la Carrera Registral.
+
+En tanto no se formalice el mencionado Servicio Profesional de la Carrera Registral, promoverán el desarrollo y ejecución de programas de capacitación y desarrollo profesional de los recursos humanos al servicio del registro público, de acuerdo con los recursos presupuestales que para el efecto se asignen.
+
+Igualmente, fomentarán el establecimiento de un Código de Ética que promueva los valores de honestidad, integridad, buenas costumbres, probidad y respecto (sic) a la dignidad humana, entre otros, como parte del compromiso y obligación de todo servidor público de brindar un servicio con calidad y seguridad jurídica plenas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 2008)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECIFICAS DE LOS DELEGADOS, TITULARES DE LAS ÁREAS Y REGISTRADORES
 
 #### SECCIÓN I. DE LOS DELEGADOS
 
@@ -257,9 +349,11 @@ IV. El Titular del Área de Archivo, deberá contar con Título de Licenciado en
 
 El Registro brindará los servicios registrales estipulados en el Código, en el Reglamento Interior de la Secretaría de Hacienda, en este Reglamento, en los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la. Secretaría de Hacienda, en los Manuales de Operación del Sistema Informático, y en las demás disposiciones legislativas, reglamentarias y administrativas aplicables, a través de la Subsecretaría de Ingresos, de la Dirección General y de las Delegaciones que para tal efecto se establezcan en toda la circunscripción territorial del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 14.
 
-Las Delegaciones, dependerán de la Dirección General y al frente de cada una habrá un servidor público a quien se le denominará Delegado, el cual deberá reunir los mismos requisitos que para ocupar el cargo de Director General y que para el óptimo desempeño de sus funciones contará, con la estructura orgánica, personal y recursos materiales que requiera en base a su capacidad funcional y de servicio.
+Las Delegaciones dependerán de la Dirección General y al frente de cada una habrá un servidor público a quien se le denominará Delegado, el cual con excepción de la edad deberá reunir los mismos requisitos que para ocupar el cargo de Director General y que para el óptimo desempeño de sus funciones contará, con la estructura orgánica, personal y recursos materiales que requiera en base a su capacidad funcional y de servicio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
 
@@ -271,9 +365,13 @@ Los Delegados, además de las atribuciones señaladas en el Artículo 11 de este
 
 I. Acatar los lineamientos y políticas propuestos por la Subsecretaría de Ingresos y la Dirección General, para aprobar y promover los planes y programas de trabajo, que permitan una práctica sana, uniforme y ágil del proceso registral.
 
-II. Ser depositarios, al igual que los registradores, de la fe pública registral y autorizar con su clave, firma y sellos correspondientes, las inscripciones y certificaciones generadas y que obren en los archivos del Registro.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-III. Coordinar de manera efectiva y eficiente, las actividades que desarrollen las áreas adscritas al Registro.
+II. Ser depositarios de la fe pública registral y autorizar con su clave, firma y sellos correspondientes, las inscripciones generadas y que obren en los archivos de la Delegación de su adscripción.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+III. Coordinar de manera efectiva y eficiente, las actividades que desarrollen las áreas adscritas a su Delegación.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
@@ -285,19 +383,25 @@ V. Asesorar a los usuarios de los servicios registrales, a efecto de que se resu
 
 VI. Coordinarse con la Subsecretaría de Ingresos y con la Direccion General a fin de resolver con estricto apego a las leyes fiscales, los casos de cobro de derechos registrales no previstos en el esquema de tarifas vigente.
 
-VII. Expedir certificaciones de los asientos registrales que obren en los archivos de la Delegación.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-VIII. Coordinar y supervisar la instauración de métodos y procedimientos acordes con el sistema registral.
+VII. Proporcionar, previa solicitud del usuario y pago de derechos correspondientes, el servicio de consultas de la información registral contenida en la base de datos del Programa informático del Registro, o en su caso, de la Delegación de su adscripción.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+VIII. Expedir certificaciones de los asientos registrales que obren en los archivos de la Delegación a su cargo.
 
 IX. Representar con el nombramiento respectivo en documento fehaciente, a la Institución en los litigios de cualquier naturaleza jurídica en los cuales sea parte.
 
 X. Promover e instaurar planes y programas de calidad, tendientes a lograr la modernización registral en el territorio de su adscripción.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-XI. Recibir y enviar inmediatamente al Subsecretario de Ingresos para su resolución, el recurso de inconformidad presentado por los usuarios del servicio.
+XI. En su caso, recibir y enviar inmediatamente al Subsecretario de Ingresos para su resolución, el recurso de inconformidad presentado por los usuarios del servicio.
 
-XII. Acordar con los Titulares de las Áreas, sobre los asuntos que así lo requieran para su efectiva resolución y toma de decisiones.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XII. Acordar con los Titulares de las Áreas adscritas a su Delegación, sobre los asuntos que así lo requieran para su efectiva resolución y toma de decisiones.
 
 XIII. Acordar y promover las medidas que considere pertinentes para la continua actualización del Programa informático registral y de la estructura administrativa y funcional.
 
@@ -313,19 +417,47 @@ XVI. Colaborar con las autoridades judiciales y de cualquier otra índole, en lo
 
 XVII. Vigilar el cumplimiento de las resoluciones dictadas por el Secretario de Hacienda o autoridad competente.
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XVIII. Tener a su cargo las áreas de Oficialía de Partes y de Certificados.
+
+La Oficialía de Partes tendrá las siguientes atribuciones:
+
+a). Recibir del usuario la solicitud de inscripción o certificación, registrando en el sistema los documentos que presente;
+
+b). Realizar la labor de orientación y asesoría al usuario, en relación al trámite que requiera efectuar en el Registro;
+
+c). Emitir por sistema, la ficha de pago de los derechos por los servicios registrales solicitados por el usuario;
+
+d). Emitir y proporcionar al usuario del servicio registral, la boleta de ingreso de los documentos que se presenten al Registro para su trámite correspondiente;
+
+e). Devolver al usuario del servicio registral, previa presentación de la boleta de ingreso, la documentación y comprobante correspondiente una vez terminado el trámite de inscripción o anotación;
+
+f). Registrar en el sistema la devolución de la documentación al usuario del servicio registral como punto de control;
+
+g). Autorizar electrónicamente, imprimir y firmar diariamente el Libro Electrónico de Diarios de Entradas y Salidas, para consulta de los usuarios; y
+
+h). Verificar la correcta expedición de los certificados que se soliciten al Registro.
+
 #### SECCIÓN II. DEL ÁREA JURÍDICA
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 16.
 
-Al frente del Área Jurídica habrá un Titular, a quien le corresponderá el despacho de los asuntos de carácter jurídico de la Dirección General.
+Al frente del Área Jurídica habrá un Titular, a quien le corresponderá el despacho de los asuntos de carácter jurídico de la Dirección General y de las Delegaciones, pudiendo delegar sus facultades a los titulares de las áreas jurídicas de las Delegaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 17.
 
-Además de las atribuciones señaladas en el artículo 11 de este Reglamento, el Titular del Área Jurídica tendrá las siguientes atribuciones específicas:
+Además de las atribuciones señaladas en el Artículo 11 de este Reglamento, el Titular del Área Jurídica Central, por si o a través de las áreas jurídicas de las Delegaciones, tendrá las siguientes atribuciones:
 
 I. Recibir del analista o registrador, en caso de duda, para su estudio y análisis, los dictámenes y propuestas de inscripción o certificación o los acuerdos que respalden la denegación o suspensión de los documentos que se presenten para la práctica de alguna inscripción o anotación.
 
-II. Otorgar su visto bueno a los acuerdos de denegación o suspensión en aquellos casos en que como resultado del análisis, se decida no aceptar la solicitud de inscripción o anotación a petición del interesado.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. Otorgar su visto bueno a los acuerdos de denegación o suspensión en aquellos casos en que como resultado del análisis, se resuelva en ese sentido.
 
 III. Verificar que el expediente conformado por los formatos, documentos, testimonios y en su caso anexos, se encuentren debidamente cumplimentados de acuerdo a los procedimientos y políticas vigentes.
 
@@ -333,9 +465,11 @@ IV. Realizar la comprobación de consistencia de los documentos, testimonios y a
 
 V. Proporcionar asesoría jurídica registral a todos los usuarios del servicio registral en forma gratuita.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 18.
 
-Los Registradores, en su calidad de servidores públicos, son depositarios de la fe pública registral y tienen a su cargo la calificación de los documentos registrales, así como la autorización de los asientos en los Folios Registrales en los que se materializa su registro.
+Los Registradores, en su calidad de servidores públicos, son depositarios de la fe pública registral y tienen a su cargo la calificación de los documentos registrales, así como la autorización de los asientos en los Folios Electrónicos Registrales en los que se materializa su registro.
 
 ###### Artículo 19.
 
@@ -343,37 +477,49 @@ Los registradores tendrán, las siguientes atribuciones específicas:
 
 I. Vigilar la legalidad y exactitud de los registros que se practiquen.
 
-II. Formular los acuerdos de denegación o suspensión de las solicitudes de inscripción, incluyendo en el mismo las causas, y remitirlas al Área Jurídica para su visto bueno.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. Formular los acuerdos de denegación o suspensión de las solicitudes de inscripción o anotación, incluyendo en los mismo (sic) las causas y su fundamento legal, y remitirlas al Area Jurídica para su visto bueno.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
 III. Registrar en el programa informático, el nuevo acto, introduciendo en el mismo los datos esenciales y complementarios de inscripción, de conformidad con las formas precodificadas autorizadas por la Dirección General, previo acuerdo con la Subsecretaría de Ingresos y en los términos que se señalen en el Manual de Procedimientos autorizado por el Gobernador del Estado y expedido por la Secretaría de Hacienda y en el Manual de Operación del mencionado Sistema.
 
-IV. Asignar, de acuerdo al Programa, el número de folio electrónico que corresponda a la inscripción según la solicitud respectiva.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+IV. En su caso, asignar, de acuerdo al programa, el número de folio electrónico que corresponda a la inscripción según la solicitud respectiva.
 
 V. Agregar a la boleta de inscripción, con su firma y sello en los documentos o testimonios objeto de inscripción.
 
 VI. Enviar al área de Oficialía de Partes, el documento inscrito o la documentación que contenga el acuerdo de denegación o suspensión, para su posterior entrega al interesado.
 
-VII. Informar al Titular del Área Jurídica de cualquier anomalía que advierta en el funcionamiento de la oficina.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-VIII. Excusarse de ejercer la función calificadora cuando, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad, tengan algún interés o actúen como notarios en el asunto sobre el que verse el documento a registrar. En este caso el documento se calificará y registrará por el Registrador que designe el Director General, o por él mismo.
+VII. Informar al Titular del Área Jurídica de su adscripción de cualquier anomalía que advierta en el funcionamiento de la oficina.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+VIII. Excusarse de ejercer la función de calificación cuando, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad, tengan algún interés o actúen como notarios en el asunto sobre el que verse el documento a registrar. En este caso el documento se calificará y registrará por el Delegado de su adscripción.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2006)</small>
 
 IX. Las demás que le encomiende el Director General y le señalen el Código, el Reglamento Interior de la Secretaría de Hacienda, el presente Reglamento, los Manuales de Organización y de Procedimientos autorizados por el Gobernador del Estado y expedidos por la Secretaría de Hacienda, los Manuales de Operación del Sistema Informático del Registro, y demás disposiciones legislativas, reglamentarias y administrativas aplicables.
 
-#### SECCIÓN III. DEL ÁREA INFORMÁTICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 2008)</small>
+
+#### SECCIÓN III. DEL ÁREA DE INNOVACIÓN E INFORMÁTICA
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 20.
 
-Al frente del Área Informática habrá un Titular, a quien le corresponderá la operación, organización y administración de los recursos informáticos de la Institución.
+Al frente del Área de Innovación e Informática habrá un Titular, a quien le corresponderá la operación, organización y administración de los recursos informáticos de la Institución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 21.
 
-Además de las atribuciones señaladas en el Artículo 11 de este Reglamento, el titular del área informática tendrá las siguientes atribuciones específicas:
+Además de las atribuciones señaladas en el Articulo 11 de este Reglamento, el Titular del Área de Innovación e Informática, por si o a través del área Informática de las Delegaciones tendrá las siguientes atribuciones específicas:
 
 I. Proporcionar a las Áreas de la Dirección General o en su caso a la Delegación territorio de su adscripción correspondiente, el apoyo técnico en materia de informática, para el ejercicio de sus funciones y cumplimiento de sus metas y objetivos.
 
@@ -385,11 +531,15 @@ IV. Resolver la problemática que le presente el personal, respecto a la operaci
 
 V. Proporcionar, previa solicitud del usuario, el servicio de consulta de la información registral contenida en la base de datos del Programa informático del Registro, o en su caso, de la Delegación de su adscripción correspondiente.
 
-VI. Recibir de cada una de las oficinas la información que se genere con motivo de la operación registral, para su incorporación a la base de datos del Registro.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
 
-VII. Enviar los documentos procesados al área de archivo documental, para su guarda y custodia.
+V (SIC). Recibir de la Dirección General y de sus Delegaciones la información que se genere con motivo de la operación registral, para su incorporación a la base de datos del Registro.
 
-VIII. Mantener permanentemente actualizado el acervo informático del Registro, a efecto de que éste sea confiable y oportuno.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+VI. Enviar los documentos procesados al área de Acervo Registral documental, para su guarda y custodia.
+
+VIII (SIC). Mantener permanentemente actualizado el acervo informático del Registro, a efecto de que éste sea confiable y oportuno.
 
 IX. Participar en la formulación de propuestas tendientes a la modernización y actualización del Programa informático del Registro.
 
@@ -401,15 +551,33 @@ XI. Supervisar cada quince días la calidad de la información contenida en la b
 
 XII. Realizar los respaldos electrónicos requeridos y necesarios de la información contenida en la base de datos del Programa Informático.
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XIII. Poner a consideración del Director General, todas las acciones de innovación que tiendan a lograr una mejora continua dentro del proceso registral.
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XIV. Realizar, dirigir y controlar las acciones de innovación y mejora de calidad en el proceso registral.
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XV. Crear el programa anual de innovación, calidad y mejora continua dentro del Registro, en atención a los requerimientos de las áreas de la institución registral.
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2008)</small>
+
+XVI. Constituir anualmente el comité de gestión de calidad para el logro de una mejora continua del servicio registral que proporciona la institución.
+
 #### SECCIÓN IV. DEL ÁREA ADMINISTRATIVA
 
 ###### Artículo 22.
 
 Al frente del Área Administrativa habrá un Titular, a quien le corresponderá la administración y coordinación de los recursos humanos, materiales, financieros y tecnológicos asignados a la Dirección General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 23.
 
-Además de las atribuciones señaladas en el artículo 11 de este Reglamento, el Titular del Área Administrativa tendrá las siguientes atribuciones específicas:
+Además de las atribuciones señaladas en el Artículo 11 de este Reglamento, el Titular del Área Administrativa tendrá por si o a través de las áreas administrativas de las Delegaciones las siguientes atribuciones específicas:
 
 I. Diseñar y llevar a cabo, previa autorización del Director General o en su caso del Delegado, la difusión y cumplimiento de los instrumentos administrativos establecidos para la eficiente coordinación de los recursos humanos, materiales, financieros y tecnológicos.
 
@@ -429,39 +597,35 @@ VIII. Llevar el control y asignación del mobiliario entregado al personal del R
 
 IX. Coordinase con el Comité de Protección Civil del Estado, a efecto de tomar las medidas necesarias en caso de alguna emergencia, a fin de salvaguardar al personal, el acervo documental, las bases de datos y el equipo de cómputo del Registro.
 
-X. Coordinar con el Área de Archivo la formulación del inventario de libros, apéndices, índices, folios y documentos depositados en el archivo durante el año inmediato anterior, por lo menos una vez al término de cada año.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+X. Coordinarse con el Área de Acervo Registral para la formulación del inventario de libros, apéndices, índices, folios y documentos depositados en el archivo durante el año inmediato anterior, por lo menos una vez al término de cada año.
 
 XI. Llevar el control y seguimiento del registro contable de los egresos e ingresos recaudados por los diversos conceptos.
 
 XII. Recibir mensualmente de las Áreas, la información correspondiente a su operación por los diferentes conceptos de registro.
 
-XIII. Tener bajo su cargo al Área de Oficialía de Partes y la oficina e (sic) expedición de certificados.
+XIII. (DEROGADA, P.O. 17 DE JULIO DE 2008)
 
-XIV. Verificar la correcta expedición de los certificados que se soliciten al Registro.
+XIV. (DEROGADA, P.O. 17 DE JULIO DE 2008)
 
-XV. La Oficialía de Partes, contará con las siguientes atribuciones:
+XV. (DEROGADA, P.O. 17 DE JULIO DE 2008)
 
-a. Recibir del usuario la solicitud de inscripción o certificación, registrando en el sistema los documentos que presente.
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2008)</small>
 
-b. Realizar la labor de orientación y asesoría al usuario, en relación al trámite que requiera efectuar en el Registro.
+XVI. Verificar que los servidores públicos de la institución, cumplan con todos los requisitos exigidos por el presente reglamento para ejercer y desempeñar los cargos asignados.
 
-c. Emitir por sistema, la ficha de pago de los derechos por los servicios registrales solicitados por el usuario.
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 2008)</small>
 
-d. Emitir y proporcionar al usuario del servicio registral, la boleta de ingresos de los documentos que se presenten al Registro para su trámite correspondiente.
-
-e. Devolver al usuario del servicio registral, la documentación y comprobante correspondiente una vez terminado el trámite de inscripción; previa presentación de la boleta de ingreso.
-
-f. Registrar en el sistema la devolución de la documentación al usuario del servicio registral como punto de control.
-
-g. Autorizar electrónicamente, imprimir y firmar diariamente el Libro Electrónico de Diarios de Entradas y Salidas, para consulta de los usuarios.
-
-#### SECCIÓN V. DEL ÁREA DE ARCHIVO
+#### SECCIÓN V. DEL ÁREA DE ACERVO REGISTRAL
 
 ###### Artículo 24.
 
 Además de las atribuciones señaladas en el artículo 11 de este Reglamento, el Titular del Área de Archivo tendrá las siguientes atribuciones específicas:
 
-I. Recibir del Área Jurídica los libros, apéndices, medios magnéticos, folios e índices para su incorporación al archivo, así como aquella documentación que por su importancia deba resguardarse en esta Área.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+I. Recibir del Área Jurídica y del Área de Innovación e Informática, los libros, apéndices, medios magnéticos, folios e índices para su incorporación al archivo, así como aquella documentación que por su importancia deba resguardarse en esta área.
 
 II. Controlar, guardar y custodiar los libros, apéndices, folios e índices y demás documentación que integran el acervo documental del archivo del Registro.
 
@@ -483,9 +647,11 @@ VII. En coordinación con el Área Administrativa, formular en los inicios del m
 
 El Sistema Registral aplicable en el Estado por los funcionarios y empleados del Registro, deberá garantizar publicidad, inviolabilidad, certeza y seguridad jurídica y técnica, así como la identificación indubitable de los inmuebles y demás unidades registrales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 26.
 
-Para los efectos del artículo 3164 del Código, y para cada uno de los ramos establecidos en el artículo 3198 del propio ordenamiento, la forma de llevar el Registro será por el Sistema de Folio Registral.
+Para los efectos del Artículo 3164 del Código, y para cada uno de los ramos establecidos en el Artículo 3198 del propio ordenamiento, la forma de llevar el Registro será por el Sistema de Folio Electrónico Registral.
 
 En cuanto a sus efectos, será, en unos casos, además de publicitario, constitutivo, y en otros, meramente publicitario, en los casos y bajo los presupuestos que señala el propio Código.
 
@@ -499,7 +665,9 @@ En todo caso, los funcionarios y empleados del Registro deberán cumplir con las
 
 El Registro operará con un Programa Informático que contará con bases de datos independientes por cada una de las Delegaciones, y posteriormente concentradas en la Dirección General por medio de enlaces de comunicación, ubicadas en las distintas circunscripciones territoriales que determine el Ejecutivo del Estado a través de la Secretaría de Hacienda. Las bases de datos contarán con al menos un respaldo electrónico.
 
-Mediante el Programa Informático se realizará la captura, almacenamiento, custodia, seguridad, consulta, verificación, administración, transmisión, generación, envío, recepción, archivo, reproducción y procesamiento de la información registral.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+Mediante el Programa Informático se realizará la captura por cualquier medio, almacenamiento, custodia, seguridad, consulta, verificación, administración, transmisión, generación, envío, recepción, archivo, reproducción y procesamiento de la información registral.
 
 ###### Artículo 28.
 
@@ -507,9 +675,9 @@ Las bases de datos de las Delegaciones se integrarán con el conjunto de la info
 
 La Base de Datos Central, se integrará con la información que las Delegaciones incorporen a sus Bases de Datos, y con la información de la Dirección General, misma que deberá ser enviada vía red a la Dirección General.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
-El Programa Informático será definido, establecido y controlado de común acuerdo con el Subsecretario de Ingresos, la Dirección de Informática de la Secretaría de Hacienda y por el área de informática de la Dirección General. El programa y todas las bases de datos y los respaldos electrónicos correspondientes, serán propiedad del Gobierno del Estado Libre y Soberano de Quintana Roo en posesión de la Secretaría de Hacienda.
+El Programa Informático será definido, establecido y controlado de común acuerdo con el Subsecretario de Ingresos, la Dirección de Informática de la Secretaría de Hacienda y por el área de Innovación e Informática de la Dirección General. El Programa y todas las Bases de Datos y los respaldos electrónicos correspondientes, serán propiedad del Gobierno del Estado Libre y Soberano de Quintana Roo en posesión de la Secretaria de Hacienda.
 
 En caso de existir discrepancia o presunción de alteración de la información del Registro contenida en la Base de Datos de alguna Delegación, o sobre cualquier otro respaldo que hubiere, prevalecerá la información registrada en la Base de Datos Central de la Dirección General, salvo prueba en contrario.
 
@@ -557,13 +725,17 @@ II. Análisis del documento a inscribir; verificación de la existencia o inexis
 
 III. Calificación, en la que se suspenderá, denegará o realizará en forma definitiva la inscripción en la base de datos que corresponda, mediante la autorización electrónica del registrador, con lo cual se generará o adicionará el Folio Registral correspondiente, y
 
-IV. Emisión de una boleta de registro que se anexará al documento inscrito y será entregada físicamente al interesado, la cual llevará la fecha, folio, firma y sello del funcionario competente.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+IV. Emisión de una boleta de registro que se anexará al documento inscrito y será entregada físicamente al interesado, la cual llevará la fecha, el número de control ordinario, progresivo e invariable asignado al instrumento al ingresar al Registro, folio, la autorización electrónica asignada o firma autógrafa y sello del registrador que autoriza el registro.
 
 ###### Artículo 35.
 
 Los actos que conforme al Código, este Reglamento u otras leyes deban inscribirse en el Registro deberán constar en:
 
-I. Instrumentos públicos otorgados ante notario público;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+I. Instrumentos públicos otorgados ante fedatario público;
 
 II. Copias certificadas de resoluciones y providencias judiciales o administrativas;
 
@@ -571,9 +743,11 @@ III. Documentos privados válidos conforme la Ley, ratificados ante notario, o a
 
 IV. Los demás documentos previstos en el Código o en otras leyes aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 36.
 
-Para efectos de lo dispuesto en la fracción I del artículo 34 de este Reglamento, la persona interesada, presentará en la Oficialía de Partes de la oficina del Registro que corresponda, el instrumento jurídico, escritura pública, testimonio o documento legal en el que conste el acto o negocio jurídico a inscribir, debiéndose señalar expresamente el número de Folio Registral que corresponda.
+Para efectos de lo dispuesto en la fracción I del Artículo 34 de este Reglamento, la persona interesada, presentará en la Oficialía de Partes de la oficina del Registro que corresponda, el instrumento jurídico, escritura pública, testimonio o documento legal en el que conste el acto o negocio jurídico a inscribir, debiéndose señalar expresamente el número de Folio Electrónico Registral que le corresponda o, en su caso, el último antecedente registral.
 
 ###### Artículo 37.
 
@@ -583,11 +757,17 @@ Para efectos de lo dispuesto en la fracción II del artículo 34 de este Reglame
 
 Para efectos de lo dispuesto en la fracción III del artículo 34 de este Reglamento, el Registrador recibirá a través del Programa Informático el acto a procesar, identificándolo por el número de control ordinal, la fecha y la hora, y revisará los datos capturados en la fase de análisis.
 
-De ser correctos los datos y procedente la inscripción del acto de acuerdo con las disposiciones legales y reglamentarias vigentes, el registrador, mediante autorización electrónica, autorizará su inscripción en la base de datos, con lo cual se creará en forma definitiva el Folio Registral correspondiente o se agregará a éste el acto de que se trate.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
-El Folio Registral será único y servirá como único y exclusivo dato de identificación de la unidad básica registral inscrita en el Registro, para efectos de subsecuentes asientos registrales que recaigan sobre el mismo.
+De ser correctos los datos y procedente la inscripción del acto, de acuerdo con las disposiciones legales y reglamentarias vigentes, el registrador, mediante autorización electrónica, autorizará su inscripción en la base de datos, con lo cual se creará en forma definitiva el Folio Electrónico Registral correspondiente o se agregará a éste el acto de que de (sic) trate.
 
-En los subsecuentes actos que se pretendan registrar, relativos a un bien inmueble, mueble o persona jurídica o moral, se deberá señalar necesariamente el Folio Registral previamente generado, para que se proceda sobre el mismo a los correspondientes asientos registrales que se solicite por el interesado.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+El Folio Electrónico Registral será único y servirá como único y exclusivo dato de identificación de la unidad básica registral inscrita en el Registro, para efectos de subsecuentes asientos registrales que recaigan sobre el mismo.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+En los subsecuentes actos que se pretendan registrar, relativos a un bien inmueble, mueble o persona jurídica o moral, se deberá señalar necesariamente el Folio Electrónico Registral previamente generado, para que se proceda sobre el mismo a los correspondientes asientos registrales que se solicite (sic) por el interesado.
 
 Tratándose de la presentación física, el registrador calificará el documento que se haya presentado para su inscripción dentro de un plazo de diez días hábiles, contados a partir de la generación de la boleta de ingreso en la Oficialía de Partes.
 
@@ -601,9 +781,11 @@ De darse la suspensión o denegación del registro del acto, y siempre que lo so
 
 La autorización electrónica que se utilizará en el procesamiento de los actos registrales conforme a lo previsto en el artículo 34 fracción III, será fiable; por tanto, el uso de los medios de identificación electrónica que certifique la Dirección General, acreditará que la autorización corresponde exclusivamente al firmante y que estaban, en el momento de la autorización, bajo el control exclusivo de él.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 40.
 
-La Dirección General o las Delegaciones, a través del Área Informática, podrá autorizar el acceso a la base de datos del Registro a personas que así lo soliciten y que presenten alguna, identificación oficial, y cumplan con los lineamientos que al respecto emita la propia Dirección General, sin que dicha autorización implique, en ningún caso, la posibilidad de realizar inscripciones, anotaciones, cancelaciones o modificación de asientos registrales o cualquier otra información contenida en la base de datos.
+La Dirección General o las Delegaciones, a través del Área de Innovación e Informática, podrá autorizar el acceso a la base de datos del Registro a personas que así lo soliciten, previo el pago de los derechos correspondientes y que presenten alguna, identificación oficial, y cumplan con los lineamientos que al respecto emita la propia Dirección General, sin que dicha autorización implique, en ningún caso, la posibilidad de realizar inscripciones, anotaciones, cancelaciones o modificación de asientos registrales o cualquier otra información contenida en la base de datos. La consulta deberá de quedar registrada en el sistema informático registral.
 
 ###### Artículo 41.
 
@@ -647,9 +829,11 @@ Si durante la vigencia de los avisos preventivos, y en relación con la misma fi
 
 ### CAPÍTULO V. DE LAS ANOTACIONES PREVENTIVAS
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 47.
 
-Para los efectos del artículo 3164 del Código, la anotación preventiva es el acto por el cual, mediante la forma precodificada que se establezca y a petición de parte interesada, se asienta en el Folio Registral cualquiera de los actos o documentos a que se refiere el artículo 3200 del propio Código.
+Para los efectos del Artículo 3164 del Código, la anotación preventiva es el acto por el cual, mediante la forma precodificada que se establezca y a petición de parte interesada, se asienta en el Folio Electrónico Registral cualquiera de los actos o documentos a que se refiere el Artículo 3200 del propio Código.
 
 ### CAPÍTULO VI. DE LA DENEGACIÓN Y SUSPENSIÓN DEL REGISTRO
 
@@ -659,7 +843,9 @@ El Registrador denegará la inscripción solicitada en los casos señalados en l
 
 I. Por medios electrónicos a través del Programa Informático, cuando el envío de la forma precodificada y del instrumento jurídico, escritura pública, testimonio o documento legal correspondiente, se hubiere realizado por medios electrónicos, o
 
-II. Mediante los estrados de la oficina del Registro, en cuyo caso se tendrá por notificado a los tres días siguientes de su colocación.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. Mediante los estrados fisicos o electrónicos de la Oficina correspondiente, en cuyo caso se tendrá por notificado a los tres dias siguientes de su colocación.
 
 ###### Artículo 49.
 
@@ -689,7 +875,9 @@ De la procedencia de la rectificación se notificará al Archivo General de Nota
 
 En caso de que cualquiera de los interesados manifieste oposición a la rectificación, se procederá al archivo. En consecuencia, dicha rectificación solo procederá mediante resolución judicial.
 
-II. Si los asientos a rectificar estuvieren en libros, las rectificaciones se practicarán mediante el uso de la forma precodificada que determine la Dirección General para tal efecto, la que pasará a formar parte del Folio Registral correspondiente, a fin de tener por rectificado el error de que se trate.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. Si los asientos a rectificar estuvieren en libros, las rectificaciones se practicarán mediante el uso de la forma precodificada que determine la Dirección General para tal efecto, la que pasará a formar parte del Folio Electrónico Registral correspondiente, a fin de tener por rectificado el error de que se trate.
 
 II. Se procederá de igual manera, para el caso de rectificación de asientos que se hubieren practicado en el Sistema de Folios Registrales.
 
@@ -739,9 +927,11 @@ Si del análisis que lleve a cabo el Registrador apareciere que no es procedente
 
 Si del mencionado análisis apareciere que es procedente la prórroga de la caducidad, previa resolución, dará vista a todos los interesados para que dentro de los cinco días hábiles siguientes a la recepción de la notificación personal o por correo certificado, manifiesten lo que a su derecho convenga apercibiéndolos que en caso de no hacerlo dentro de dicho término, o en caso de que manifiesten no tener oposición o estar conformes, se procederá a efectuar la prórroga de la caducidad de la anotación preventiva.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 58.
 
-La materialización de las cancelaciones se efectuará mediante el uso de la forma precodificada que determine la Dirección General para tal efecto, la que pasará a formar parte del Folio Registral correspondiente a fin de tener por extinguida la inscripción o anotación de que se trate.
+La materialización de las cancelaciones se efectuará mediante el uso de la forma precodificada que determine la Dirección General para tal efecto, la que pasará a formar parte del Folio Electrónico Registral correspondiente a fin de tener por extinguida la inscripción o anotación de que se trate.
 
 ###### Artículo 59.
 
@@ -767,9 +957,11 @@ III. Registro de Personas Jurídicas o Morales.
 
 Se entiende por Registro Inmobiliario, el ramo del Registro en el cual se lleva a cabo la operación registral relativa a documentos, actos o negocios jurídicos relacionados con el dominio o la posesión originaria y los demás derechos reales sobre inmuebles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 62.
 
-Para efectos del último párrafo del artículo 3167 del Código, los asientos de inscripción practicados en los Folios Registrales del Registro Inmobiliario, deberán expresar los datos y circunstancias siguientes:
+Para efectos del último párrafo del artículo 3167 del Código, los asientos de inscripción practicados en los Folios Electrónicos Registrales del Registro Inmobiliario, deberán expresar los datos y circunstancias siguientes:
 
 I. La naturaleza, situación, ubicación, superficie, medidas y colindancias de los inmuebles objeto de la inscripción a los cuales afecte el derecho que deba inscribirse; su nombre y número si los hubiere, clave catastral y las referencias a la inscripción anterior.
 
@@ -809,7 +1001,9 @@ Cuanto se divida una finca, se asentarán como fincas nuevas la parte o partes r
 
 Cuando se fusiones (sic) dos o más fincas para formar una nueva se harán nuevos folios para las fincas resultantes, a las cuales se trasladarán los asientos vigentes.
 
-En los folios de las fincas modificadas por fusión o división, se harán constar las variantes producidas y el número de los nuevos folios que resultaren.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+En los folios electrónicos registrales de las fincas modificadas por fusión o división, se harán constar las variantes producidas y el número de los nuevos folios que resultaren.
 
 ### CAPÍTULO III. DEL REGISTRO MOBILIARIO
 
@@ -817,9 +1011,11 @@ En los folios de las fincas modificadas por fusión o división, se harán const
 
 Se entiende por Registro Mobiliario, el ramo del Registro en el cual se lleva a cabo la operación registral relativa a documentos, actos o negocios jurídicos relacionados con bienes muebles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 67.
 
-Para efectos del último párrafo del artículo 3167 del Código, los asientos que se practiquen en los Folios Registrales del Registro Mobiliario, deberán expresar los datos y circunstancias siguientes:
+Para efectos del último párrafo del artículo 3167 del Código, los asientos que se practiquen en los Folios Electrónicos Registrales del Registro Mobiliario, deberán expresar los datos y circunstancias siguientes:
 
 I. Los nombre de los contratantes;
 
@@ -845,13 +1041,17 @@ Para que una operación sobre bienes muebles sea inscribible, se requiere:
 
 I. Que recaiga sobre bienes muebles susceptibles de identificarse de manera indubitable.
 
-II. Que el acto o contrato correspondiente haya sido celebrado dentro de la circunscripción territorial de la oficina ante la cual se presenta el documento.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+II. Que el acto o contrato correspondiente haya sido celebrado dentro de la circunscripción territorial de la Delegación ante la cual se presenta el documento.
 
 III. Que al contrato correspondiente se acompañe la factura original o documentos con los que legalmente se acredite la propiedad, salvo lo dispuesto en el artículo 67.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 69.
 
-Para efectos de lo dispuesto en los artículos 3167 último párrafo y 3202 del Código, inscrita una operación en el folio Registral del Registro Mobiliario, al calce del contrato respectivo el Registrador dejará constancia de los datos de la inscripción, y en la factura o documento con los que se acredite la propiedad, mencionará, además de estos datos, la operación efectuada con el bien mueble.
+Para efectos de lo dispuesto en los articulos 3167 ultimo párrafo y 3202 del Código, inscrita una operación en el folio Electrónico Registral del Registro Mobiliario, al calce del contrato respectivo el Registrador dejará constancia de los datos de la inscripción y en la factura o documento con los que se acredite la propiedad, mencionará, además de estos datos, la operación efectuada con el bien mueble.
 
 ###### Artículo 70.
 
@@ -867,9 +1067,11 @@ La anotación de la factura, en su caso, podrá ser hecha indistintamente por el
 
 ### CAPÍTULO IV. DEL REGISTRO DE PERSONAS JURÍDICAS O MORALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 72.
 
-Para efectos del último párrafo del artículo 3167 y 3203 del Código, los asientos practicados en los Folios registrales del Registro de Personas Jurídicas o Morales, deberán expresar los datos y circunstancias siguientes:
+Para efectos del último párrafo del artículo 3167 y 3203 del Código, los asientos practicados en los Folios Electrónicos Registrales del Registro de Personas Jurídicas o Morales, deberán expresar los datos y circunstancias siguientes:
 
 I. El nombre y generales de los contratantes.
 
@@ -895,21 +1097,27 @@ X. Los demás datos que deban contener, conforme a las disposiciones jurídicas 
 
 ### CAPÍTULO I. DE LAS CERTIFICACIONES Y CONSTANCIAS
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 73.
 
-Para el efecto del artículo 3161 del Código, las certificaciones de no existencia de asientos de ninguna especie o de una especie determinada, o las constancias de existencia de las inscripciones asentadas en los Libros o en los Folios Registrales de la Base de Datos, sólo se expedirán conforme a la solicitud presentada por escrito, dentro de los cinco días hábiles siguientes a la fecha de su presentación y previo pago de los derechos correspondientes por parte del solicitante.
+Para el efecto del artículo 3161 del Código, las certificaciones de no existencia de asientos de ninguna especie o de una especie determinada, o las constancias de existencia de las inscripciones asentadas en los Libros o en los Folios Electrónicos Registrales de la Base de Datos, sólo se expedirán conforme a la solicitud presentada por escrito, dentro de los cinco días hábiles siguientes a la fecha de su presentación y previo pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 74.
 
-Para efecto de lo dispuesto en artículo anterior, las solicitudes de certificaciones o constancias podrán hacerse directamente en las oficinas del Registro o vía remota por medios electrónicos a través del programa informático, tratándose de notarios autorizados para tal efecto.
+Para efecto de lo dispuesto en artículo (sic) anterior, las solicitudes de certificaciones o constancias podrán hacerse directamente en las Delegaciones del Registro o vía remota por medios electrónicos a través del programa informático, tratándose de notarios autorizados para tal efecto.
 
-Las solicitudes de certificaciones o constancias deberán hacerse a través de la solicitud respectiva o de la forma precodificada correspondiente y contener los datos que sean necesarios para la localización de los asientos sobre los que deba versar la certificación y la mención del Folio Registral correspondiente, en su caso.
+Las solicitudes de certificaciones o constancias deberán hacerse a través de la Solicitud respectiva o de la forma precodificada correspondiente y contener los datos que sean necesarios para la localización de los asientos sobre los que deba versar la certificación y la mención del Folio Electrónico Registral correspondiente, en su caso.
 
 ###### Artículo 75.
 
 Las certificaciones de propiedad siempre deberán comprender las anotaciones marginales e inscripciones de gravámenes o condiciones que afecten a la inscripción principal y que no estén canceladas.
 
-Las certificaciones pueden ser literales o concretarse a determinados contenidos de las inscripciones de actos existentes en los Libros o en los Folios Registrales.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+Las certificaciones pueden ser literales o concretarse a determinados contenidos de las inscripciones de actos existentes en los Libros o en los Folios Electrónicos Registrales.
 
 Cuando en la solicitud o mandamiento no se exprese si la certificación ha de ser literal o en relación con las inscripciones o anotaciones, se dará en esta última forma.
 
@@ -945,9 +1153,13 @@ Cuando las solicitudes de los interesados o los mandamientos de los jueces o aut
 
 En igual forma se procederá siempre que se tuviere duda sobre los bienes o inscripciones a que deba referirse la certificación, aún cuando los mandamientos o solicitudes estén redactados con claridad, si por cualquier circunstancia fuera de temerse error o confusión.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 81.
 
-Tratándose de copias certificadas de los documentos que obren en los Libros o en los Folios Registrales, éstas se expedirán conforme a la solicitud presentada.
+Tratándose de copias certificadas de los documentos que obren en los Libros o en los Folios Electrónicos Registrales, éstas se expedirán conforme a la solicitud presentada.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 82.
 
@@ -973,27 +1185,37 @@ V. La declaración del testador y de los testigos, puntualizando en el dicho de 
 
 VI. Hará constar en cada uno de los sobres el número correspondiente al acta de depósito.
 
-VII. La firma del encargado del registro o quién este determine, y sello de la oficina registral que corresponda.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2008)</small>
+
+VII. La firma del encargado del registro o quien este determine, y sello de la Delegación registral que corresponda.
 
 Una copia autógrafa del acta de depósito del testamento ológrafo que reciba el interesado, quedará en la oficina.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 84.
 
-Cuando el testador se encuentre imposibilitado de apersonarse al Registro, el encargado del Registro acudirá al lugar donde se encuentre el testador, llevándose el trámite como si se hubiera presentado el testador al Registro.
+Cuando el testador se encuentre imposibilitado de apersonarse al Registro, el Delegado del Registro acudirá al lugar donde se encuentre el testador, llevándose el trámite como si se hubiera presentado el testador al Registro.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 85.
 
-El encargado del registro o quién este determine deberá conservar bajo su responsabilidad, los testamentos depositados con la mayor seguridad y discreción posible, ordenándolos por el número que les haya correspondido y en lugar separado, evitando que puedan confundirse con los documentos generales o con otros a que el público pueda tener acceso.
+El Director General o el Delegado o quién el primero determine, deberá conservar bajo su responsabilidad, los testamentos depositados con la mayor seguridad y discreción posible, ordenándolos por el número que les haya correspondido y en lugar separado, evitando que puedan confundirse con los documentos generales o con otros a que el público pueda tener acceso.
 
 Queda estrictamente prohibido dar informes de ellos a personas que no sean el mismo testador o alguna autoridad competente que lo solicite por medio de oficio.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 86.
 
-El encargado del registro o quién este determine no podrá en ningún caso sacar de la oficina los testamentos depositados, si no es por librarlos de un siniestro o por causa semejante; ni podrá encomendarlos a subalternos o empleados de ningún género, debiendo cuidar directamente de su conservación, bajo su más estricta responsabilidad.
+El encargado de la guarda y custodia de los testamentos depositados no podrá en ningún caso sacarlos de la oficina, si no es por librarlos de un siniestro o por causa semejante; ni podrá encomendarlos a subalternos o empleados de ningún género, debiendo cuidar directamente de su conservación bajo su más estricta responsabilidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 87.
 
-Para retirar un testamento ológrafo que se encuentre depositado en el Registro el encargado del registro o quién este determine asentará en un acta mediante la forma precodificada correspondiente, el estado en que se encuentre el sobre del testamento, comparándolo con la descripción hecha en el acta de depósito.
+Para retirar un testamento ológrafo que se encuentre depositado en el Registro, el encargado de su guarda y custodia asentará en un acta mediante la forma precodificada correspondiente, el estado en que se encuentre el sobre del testamento, comparándolo con la descripción hecha en el acta de depósito.
 
 Si hiciere alguna observación el testador, ésta se anotará en el acta expresando el encargado del registro o quién este determine las explicaciones que creyere oportunas. Si llegare a haber sospechas de que el sobre ha sido abierto o dañado de alguna manera, si pareciere conveniente al encargado del registro o quién este determine, o al testador, se suspenderá la entrega para verificarla con intervención del juez competente y del agente del Ministerio Público que corresponda.
 
@@ -1029,9 +1251,11 @@ El Gobernador del Estado ordenará la inscripción en el Registro de un plan o p
 
 Los actos y documentos a que se refiere el artículo anterior, deberán ser inscritos en lo general a más tardar dentro de los cinco días siguientes a la fecha de su presentación en el Registro, anexando la publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 95.
 
-El Registro deberá trasladar sin dilación alguna a cada uno de los Folios Registrales en lo particular, las disposiciones de los Planes o Programas que afecten la propiedad inmobiliaria como condición para que surtan efectos.
+El Registro deberá trasladar sin dilación alguna a cada uno de los Folios Electrónicos Registrales en lo particular, las disposiciones de los Planes o Programas que afecten la propiedad inmobiliaria como condición para que surtan efectos.
 
 #### SECCIÓN III. DE LA REPOSICIÓN DE LOS ASIENTOS
 
@@ -1039,19 +1263,29 @@ El Registro deberá trasladar sin dilación alguna a cada uno de los Folios Regi
 
 En los casos que se detecte la falta, mutilación o destrucción de acervo registral alguno, el propietario o interesado podrá pedir su reposición, para lo cual se sujetará al siguiente procedimiento:
 
-I. El propietario o interesado en forma personal o a través de su representante acudirá a la Oficialía de Partes del Registro a fin de solicitar por escrito al Director General, la reposición del asiento en cuestión, presentando una carta ratificada ante notario manifestando bajo protesta de decir verdad que el bien inmueble a que se refiere dicho asiento se encuentra libre de gravamen, o bien en su caso, manifestar las hipotecas y gravámenes con los que se cuente; haciéndose responsable de los gravámenes que existan antes de la reposición que se pretende, anexando a dicha solicitud, el original del documento inscrito y copia certificada del mismo, acompañado de cédula catastral y demás documentos correspondientes que prueben la veracidad de la inscripción a reponer:
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+El propietario o interesado en forma personal o a través de su representante acudirá a la Oficialía de Partes del Registro a fin de solicitar por escrito al Director General o Delegado correspondiente, la reposición del asiento en cuestión, presentando una carta ratificada ante notario manifestando bajo protesta de decir verdad que el bien inmueble a que se refiere dicho asiento se encuentra libre de gravamen, o bien en su caso, manifestar las hipotecas y gravámenes con los que se cuente; haciéndose responsable de los gravámenes que existan antes de la reposición que se pretende, anexando a dicha solicitud, el original del documento inscrito y copia certificada del mismo, acompañado de cédula catastral y demás documentos correspondientes que prueben la veracidad de la inscripción a reponer.
 
 Oficialía de Partes recepcionará el documento en la forma tradicional, es decir, fuera del sistema, y lo turnará al Titular del Área Jurídica para su estudio y análisis e inscripción correspondiente.
 
-Si del análisis que lleve a cabo el Titular del Área Jurídica apareciere que no es procedente la reposición, se rechazará de plano la solicitud fundando y motivando la respectiva negativa, notificando por escrito el Director General al interesado para su conocimiento y efectos que haya a lugar.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
-Si del mencionado análisis apareciere que es procedente la reposición, el Titular del Área Jurídica registrará el documento en cuestión dándole entrada al sistema, a fin de que forme parte del Folio Registral.
+Si del análisis que lleve a cabo el Titular del Área Jurídica apareciere que no es procedente la reposición, se rechazará de plano la solicitud fundando y motivando la respectiva negativa, notificando por escrito el Director General o Delegado al interesado para su conocimiento y efectos que haya a lugar.
 
-#### SECCIÓN IV. DEL ARCHIVO
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
+Si del mencionado análisis apareciere que es procedente la reposición, el Titular del Área Jurídica ordenará se registre el documento en cuestión dándole entrada al sistema, a fin de que forme parte del Folio Electrónico Registral.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 2008)</small>
+
+#### SECCIÓN IV. DEL ACERVO REGISTRAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 97.
 
-El Archivo del Registro es público, pero los interesados en consultar los documentos históricos relativos a inmuebles, muebles y personas jurídicas o morales, se sujetarán a las siguientes disposiciones:
+El Acervo Registral del Registro es público, pero los interesados en consultar los documentos históricos relativos a inmuebles, muebles y personas jurídicas o morales, se sujetarán a las siguientes disposiciones:
 
 I. Cuando el sistema de consulta sea en línea mediante medios electrónicos, la consulta será conforme lo establezcan los procedimientos establecidos para ello por la Dirección General.
 
@@ -1069,9 +1303,11 @@ La Dirección General dictará las medidas que juzgue necesarias para el mejor d
 
 #### SECCIÓN V. DE LOS ÍNDICES ELECTRÓNICOS
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 99.
 
-Además de los Índices formados, el Registro llevará un Sistema de Índices Electrónicos dentro del Programa Informático, que contendrá todos los actos relacionados con los Folios Registrales relativos a los inmuebles, muebles y personas jurídicas o morales registrados.
+Además de los índices formados, el Registro llevará un Sistema de Índices Electrónicos dentro del Programa Informático, que contendrá todos los actos relacionados con los Folios Electrónicos Registrales relativos a los inmuebles, muebles y personas jurídicas o morales registrados.
 
 ###### Artículo 100.
 
@@ -1155,13 +1391,15 @@ Cuando sean dos o más los recurrentes, deberán designar un representante comú
 
 Si el escrito en que se haga valer el recurso no satisface los requisitos establecidos en las fracciones II, III, IV y V del artículo inmediato anterior, se requerirá al promovente para que dentro del plazo de tres días hábiles cumpla con dichos requisitos. Si dentro del plazo concedido no se señala el nombre y domicilio del tercero interesado, o en su caso la resolución que se impugna, se tendrá por no presentado; si no se expresan los agravios que le causa la resolución, se desechará el recurso y si el requerimiento que se incumple se refiere a las pruebas, éstas se tendrán por no ofrecidas.
 
-La falta de firma del escrito donde se interponga el recurso, trae como consecuencia que se tenga por no presentado.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
+La falta de firma del recurrente en el escrito donde se interponga el recurso, trae como consecuencia que se tenga por no presentado.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 108.
 
-Una vez admitido el recurso, o agotadas las prevenciones, se le dará trámite al expediente, requiriendo a la autoridad en contra de quién se promovió el recurso, remita a la Secretaría de Hacienda en un término mayor de 10 días hábiles, el informe con justificación.
+Una vez admitido el recurso, o agotadas las prevenciones, se le dará trámite al expediente, requiriendo a la autoridad en contra de quién se promovió el recurso, remita a la Secretaría de Hacienda o Delegado, según el caso, en un término mayor de 10 días hábiles, el informe con justificación.
 
 ###### Artículo 109.
 
@@ -1197,11 +1435,13 @@ El recurso se resolverá en un plazo no mayor de 30 días hábiles contados a pa
 
 El personal del Registro procurará expeditar el despacho de las solicitudes que les hagan los interesados, y los instruirán sobre los requisitos necesarios para el registro de los documentos que presente, absteniéndose de exigirles declaraciones o imponerles taxativas o condiciones que no estén ordenadas por las leyes y reglamentos a que los mismos funcionarios deben sujetarse.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 113.
 
-En el Registro se usará un sello de autorizar con la mención de la Oficina Registral de que se trate; con este sello y la firma del Director General, Delegados registrador (sic) correspondiente, se autorizarán todos los actos del Registro según corresponda.
+En el Registro se usará un sello de autorizar con la mención de la Oficina o Delegación Registral de que se trate; con este sello y la autorización electrónica, o en su caso firma autógrafa del Director General, Delegados o Registrador correspondiente, se autorizarán todos los actos del Registro según corresponda.
 
-En el caso de inscripciones practicadas en los Folio Registrales y de certificaciones emitidas por medios informáticos, la Autorización Electrónica que se señala en la fracción II del artículo 5 de este Reglamento, hará las veces de la firma a que se hace referencia en el párrafo anterior.
+En el caso de inscripciones practicadas en los Folio Electrónicos Registrales y de certificaciones emitidas por medios informáticos, la Autorización Electrónica que se señala en la fracción II del artículo 5 de este Reglamento, hará las veces de la firma a que se hace referencia en el párrafo anterior.
 
 ###### Artículo 114.
 
@@ -1237,10 +1477,16 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 C. PEDRO JOSE FLORA ALCOCER
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE JUNIO DE 2006.
 
 Primero. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a los preceptos de la presente reforma.
+
+P.O. 17 DE JULIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a los preceptos del presente Decreto.
