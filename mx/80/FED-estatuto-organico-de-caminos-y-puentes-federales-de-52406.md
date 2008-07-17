@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-52406"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-13"
-last_updated: "2007-11-09"
+last_updated: "2008-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-01"
 
 ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de diciembre de 2006.
 
@@ -47,7 +47,9 @@ III. Proponer en los términos de ley a las autoridades competentes, las tarifas
 
 IV. Administrar y explotar por sí o a través de terceros mediante concesión, los servicios conexos y auxiliares a las vías generales de comunicación a que se refieren las fracciones anteriores;
 
-V. Establecer, administrar y explotar en forma directa o a través de sus entidades subsidiarias, plantas industriales para producir bienes necesarios para la realización de su objeto e instrumentar la producción y distribución de estos bienes;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2008)</small>
+
+V. Establecer, administrar y explotar en forma directa o a través de sus entidades subsidiarias, plantas industriales para producir y comercializar bienes necesarios para la realización de su objeto e instrumentar la producción y distribución de estos bienes;
 
 VI. Construir, administrar y explotar por sí o por terceros, las instalaciones complementarias que requiera para el cumplimiento de su objeto;
 
@@ -1235,9 +1237,11 @@ XIV. Coordinar las acciones de control y resguardo de la información contractua
 
 ### CAPITULO SEXTO (SIC). DE LA PLANTA DE PINTURAS Y EMULSIONES
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 45o.
 
-La Planta de Pinturas y Emulsiones tiene por objeto producir pinturas y emulsiones asfálticas, con el propósito de satisfacer las necesidades de insumos de la más alta calidad para la conservación y mantenimiento de la red carretera operada por el Organismo y de la red carretera a cargo de la Secretaría de Comunicaciones y Transportes; promover su comercialización en los mercados internos y externos, así como brindar capacitación constante, información sobre avances tecnológicos y soporte técnico a las áreas del Organismo, a la Secretaría de Comunicaciones y Transportes y a clientes en general que lo requieran, asimismo, participar en licitaciones públicas nacionales e internacionales para ofrecer sus productos y competir en los mercados abiertos.
+La Planta de Pinturas y Emulsiones tiene por objeto producir pinturas, emulsiones y asfaltos modificados con polímeros, con el propósito de satisfacer las necesidades de insumos de la más alta calidad para la conservación y mantenimiento de la red carretera operada por el Organismo y de la red carretera a cargo de la Secretaría de Comunicaciones y Transportes; promover su comercialización, así como brindar capacitación constante, información sobre avances tecnológicos y soporte técnico a las áreas del Organismo, a la Secretaría de Comunicaciones y Transportes y a clientes en general que lo requieran. Asimismo, participar en licitaciones públicas nacionales e internacionales para ofrecer sus productos y competir en los mercados abiertos.
 
 ###### ARTICULO 46o.
 
@@ -1494,6 +1498,12 @@ Dado en la Ciudad de México, Distrito Federal, al primer día de junio de dos m
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 9 DE NOVIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 17 DE JULIO DE 2008.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
