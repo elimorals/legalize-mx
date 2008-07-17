@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "2005-05-19"
+last_updated: "2008-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,130 +19,86 @@ issue_date: "1994-08-28"
 ---
 # ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-ACUERDO QUE MODIFICA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de mayo de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 17 de julio de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 2o., 5o., fracción IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo de 2001, 29 de junio de 2001, 6 de septiembre de 2002, 30 de mayo de 2003 y 14 de julio de 2004, respectivamente;
+Que el 31 de marzo de 2008 se publicó en el Diario Oficial de la Federación el Decreto por el que se otorgan facilidades administrativas en Materia Aduanera y de Comercio Exterior dando a conocer diversas medidas enfocadas a otorgar facilidades administrativas a los usuarios de comercio exterior, que agilicen, faciliten y simplifiquen sus operaciones, mediante esquemas administrativos de operación sencilla y de fácil comprensión para los usuarios;
 
-Que el Acuerdo citado en el considerando anterior tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
+Que el citado Decreto establece que las Secretarías de Hacienda y de Crédito Público y de Economía deberán de implementar acciones de simplificación, automatización y mejora de los procesos aduaneros y de comercio exterior, que contemple, entre otras, la incorporación de tecnología y el desarrollo de esquemas adicionales para realizar operaciones de comercio exterior, la disminución de medidas de control que incrementan tiempos y costos de las operaciones aduaneras, entre otras;
 
-Que el artículo cuarto fracción I inciso (c) del Acuerdo citado, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquéllas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si prueba que el país de origen de las mercancías es distinto al de aquellas sujetas a cuota compensatoria, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado comercial internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
+Que el mecanismo de certificación de origen para los efectos de cuotas compensatorias, resulta complejo, lo que aleja a empresas micro, pequeñas y medianas de la posibilidad de incursionar en el comercio exterior;
 
-Que para fortalecer y ampliar las relaciones comerciales con el Japón, el 17 de noviembre de 2004 se firmó el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, el cual fue aprobado por el Senado de la República el 18 de noviembre de 2004, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, y entró en vigor el 1 de abril del año en curso, y
+Que a efecto de que el marco jurídico genere certidumbre entre los importadores de mercancía por la que se debe pagar una cuota compensatoria, debe simplificarse manteniendo únicamente el esquema establecido en el artículo tercero del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, según el cual el país de origen de las mercancías a importar deberá de declararse en el pedimento de importación y eliminarse la doble regulación que implica la obtención de los documentos a que se refiere el artículo cuarto del mismo Acuerdo, sin que ello exima a los importadores de pagar las cuotas compensatorias, que en su caso, apliquen, y
 
-Que es necesario actualizar y dar a conocer las disposiciones referentes a la determinación y certificación del país de origen de mercancías importadas en materia de cuotas compensatorias, he tenido a bien expedir el siguiente:
+Que la Comisión de Comercio Exterior ha opinado favorablemente sobre las medidas contenidas en el presente instrumento, he tenido a bien expedir el siguiente:
 
-ACUERDO QUE MODIFICA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
 ###### ARTICULO UNICO.
 
-Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación, reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo de 2001, 29 de junio de 2001, 6 de septiembre de 2002, 30 de mayo de 2003 y 14 de julio de 2004, respectivamente, el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, para quedar como sigue:
+Se derogan los párrafos tercero, cuarto y quinto del artículo Segundo, pasando el actual párrafo sexto a ser tercero y los artículos quinto, sexto, séptimo y octavo, así como los anexos II, III, IV, VI y VII, y se reforma el artículo Cuarto del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación, reformado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo de 2001, 29 de junio de 2001, 6 de septiembre de 2002, 30 de mayo de 2003, 14 de julio de 2004 y 19 de mayo de 2005, para quedar como sigue:
 
-“ANEXO V
+“ARTICULO SEGUNDO.- Para efectos del presente Acuerdo se entiende por:
 
-...
+. . .
 
-...
+(Se deroga).
 
-Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón.”
+(Se deroga).
+
+(Se deroga).
+
+. . .
 
 ###### ARTICULO CUARTO.
 
-. . .
-
-l.- . . .
-
-a) Tratándose de las mercancías listadas en el Anexo II, con el Certificado de País de Origen contenido en el Anexo III. Cuando, de conformidad con las Reglas de País de Origen, el país de origen de las mercancías no sea miembro de la Organización Mundial de Comercio, se requerirá, además, una constancia de verificación expedida por una de las empresas privadas de inspección, reconocida por la Dirección General de Servicios al Comercio Exterior de la Secretaría de Comercio y Fomento Industrial, que avale la información contenida en el Certificado de País de Origen contenido en el Anexo III. La Secretaría de Comercio y Fomento Industrial publicará periódicamente, en el Diario Oficial de la Federación, la lista de las empresas privadas de inspección reconocidas.
-
-Cuando la importación de mercancías listadas en el Anexo II se efectúe a la franja fronteriza norte del país y a la región fronteriza al amparo de los Decretos, el importador podrá optar por cumplir con lo dispuesto en este inciso o en el inciso b) de esta fracción. Las mercancías importadas conforme al inciso b), no podrán ser objeto de reexpedición.
-
-b) a d) . . .
-
-II.- . . .
-
-a) . . .
-
-b) Copia del Certificado de País de Origen o el original cuando se trate de mercancías de un país listado en el Anexo VI, o de un país no miembro de la Organización Mundial de Comercio. Cuando la importación de las mercancías amparadas por el mismo certificado se divida en dos o más pedimentos, podrá adjuntar a dichos pedimentos la misma copia del certificado. Cuando se trate de mercancías de un país listado en el Anexo VI, o de un país no miembro de la Organización Mundial de Comercio, deberá presentar el original del Certificado de País de Origen con el primer pedimento y copia de dicho Certificado con los pedimentos subsecuentes, haciendo referencia en estos últimos al número de pedimento en el cual conste anexo el original del Certificado;
-
-c) a e) . . .
-
-. . .
-
-En los casos en que se admite la presentación de copias de la documentación a que se refiere esta fracción, también podrán admitirse dichas copias transmitidas vía fax.
-
-III.- . . .
+Para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria provisional o definitiva, no estará obligado a pagarla si en la declaración a que se refiere el artículo tercero del presente instrumento, el país de origen de las mercancías es distinto del país que exporta las mercancías en condiciones de prácticas desleales de comercio internacional.
 
 ###### ARTICULO QUINTO.
 
-. . .
+(Se deroga).
 
-l.- . . .
+###### ARTICULO SEXTO.
 
-II.- Estar formalizado por el organismo o autoridad extranjera señalado en el instructivo contenido en el Anexo III cuando se trate de mercancías de un país listado en el Anexo VI, o de un país no miembro de la Organización Mundial de Comercio.
-
-III.- Tratándose de mercancías que, de acuerdo a las Reglas de País de Origen, sean de un país no miembro de la Organización Mundial de Comercio, estar legalizado por la representación diplomática de los Estados Unidos Mexicanos ante dicho país.
+(Se deroga).
 
 ###### ARTICULO SEPTIMO.
 
-. . .
-
-l.- . . .
-
-a) La recolección de partes clasificándolas como si fueran un bien completo o terminado, conforme a la Regla General 2(a) del Sistema Armonizado.
-
-b) . . .
-
-Lo anterior no se aplicará a los bienes desensamblados que ya habían sido ensamblados anteriormente y posteriormente desensamblados por conveniencia de empaque, manejo o transporte.
-
-ll.- . . .
-
-. . .
-
-a) . . .
-
-b) Cuando en el Apéndice de Reglas Específicas de este Anexo se indique que la aplicación de la Regla General 2(a) del Sistema Armonizado no constituye un cambio de clasificación arancelaria suficiente, salvo que el bien se clasifique conforme a la Regla General 3(c) del Sistema Armonizado, el carácter esencial de dicho bien estará determinado por las partes o materiales, considerados individualmente, que se clasifiquen en la partida o subpartida correspondiente a las partes de ese bien.
-
-III.- . . .
-
-IV.- . . .”
+(Se deroga).
 
 ###### ARTICULO OCTAVO.
 
-. . .
+(Se deroga).
 
-I.- . . .
+ANEXO II
 
-Lo dispuesto en esta fracción será aplicable cuando las mercancías idénticas o similares a aquéllas por las que se deba pagar una cuota compensatoria, se importen junto con otras, no sujetas al pago de dicha cuota, siempre que el valor de las primeras no rebase el equivalente en moneda nacional, o en otras divisas, a mil dólares de los Estados Unidos de América, aunque juntas rebasen ese limite.
+(Se deroga).
 
-II.- . . .
+ANEXO III
 
-III.- Tratándose de mercancías importadas en los términos del artículo 61 fracciones II, VI, VII, VIII, IX, X, XI, XII, XIII y XV de la Ley Aduanera, así como las mercancías que se importen al amparo de una franquicia diplomática por embajadas u organismos internacionales.
+(Se deroga).
 
-IV.- . . .
+ANEXO IV
 
-a) . . .
+(Se deroga).
 
-b) elaboración, transformación o reparación en recinto fiscalizado;
+ANEXO VI
 
-c) Depósito fiscal para las mercancías importadas al amparo del artículo 121 de la Ley Aduanera, por las denominadas “Tiendas Libres de Impuestos”.
+(Se deroga).
 
-d) se deroga.
+ANEXO VII
 
-V.- . . .
-
-VI.- Tratándose de mercancías exportadas definitivamente que retornan al país en los términos del artículo 103 de la Ley Aduanera, siempre que no se trate de mercancías exportadas que hubieran sido importadas previamente al país y por las que se hubieran pagado los impuestos mediante depósitos en las cuentas aduaneras.
-
-VII.- Tratándose del retorno de mercancías exportadas temporalmente conforme a lo dispuesto por los artículos 115 y 116 de la Ley Aduanera”.
+(Se deroga)”.
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 12 de mayo de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 4 de julio de 2008.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
