@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2007-12-20"
+last_updated: "2008-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -50,9 +50,11 @@ LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2008)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular y controlar la prestación de los servicios de transporte de pasajeros y de carga en el Distrito Federal en todas sus modalidades, así como el equipamiento auxiliar de transporte, sea cualesquiera el tipo de vehículos y sus sistemas de propulsión, a fin de que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población; así como regular y controlar el uso de la vialidad, la infraestructura, los servicios y los elementos inherentes o incorporados a la misma, para garantizar su adecuada utilización y la seguridad de los peatones, conductores y usuarios.
+La presente Ley es de orden público e interés general y tiene por objeto regular y controlar la prestación de los servicios de transporte de pasajeros y de carga en el Distrito Federal en todas sus modalidades, así como el equipamiento auxiliar de transporte, sea cualesquiera el tipo de vehículos y sus sistemas de propulsión, a fin de que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población; así como regular y controlar el uso de la vialidad, la infraestructura, los servicios y los elementos inherentes o incorporados a la misma, para garantizar su adecuada utilización y la seguridad de los peatones, ciclistas, conductores y usuarios.
 
 Es responsabilidad de la Administración Pública asegurar, controlar, promover y vigilar que los servicios de transporte de pasajeros y de carga en el Distrito Federal, se efectúen con apego a la normatividad aplicable en la materia.
 
@@ -77,6 +79,10 @@ Bolardos: Material anclado al suelo y destinado para delimitar el carril confina
 Carril Confinado: Se refiere al carril de la superficie de rodamiento para la circulación de un tipo de transporte automotor, específicamente de transporte público de pasajeros, sobre un sentido de la vía, con dispositivos de delimitación en el perímetro del carril que no permiten que se introduzcan otro tipo de vehículos.
 
 Centro de Transferencia Modal: Espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve como conexión de los usuarios entre dos o más rutas o modos de transporte.
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2008)</small>
+
+Ciclista: Toda persona que se traslada de un lugar a otro a bordo de una bicicleta.
 
 Cierre de Circuito: Son los espacios físicos permitidos en los que, sin realizar base, se efectúa el despacho de las unidades destinadas al servicio público de transporte de pasajeros y de carga, para iniciar o terminar su itinerario, incluyen maniobras de ascenso y descenso y en el que se controla el intervalo de salidas entre una y otra unidad.
 
@@ -236,9 +242,13 @@ III.- Realizar todas aquellas acciones tendientes a que los servicios públicos 
 
 IV.- Realizar los estudios sobre la oferta y la demanda de servicio público de transporte dentro del periodo que determine el reglamento;
 
-V.- Elaborar y someter a aprobación del Jefe de Gobierno el Programa Integral de Transporte y Vialidad del Distrito Federal, que deberá ajustarse a los objetivos, políticas, metas y previsiones establecidas en los Programas Generales: de Desarrollo del Distrito Federal, de Desarrollo Urbano del Distrito Federal, de Ordenamiento Ecológico del Distrito Federal y Programa de Ordenación de la Zona Metropolitana del Valle de México. La Secretaría dictará las medidas necesarias para garantizar el debido cumplimiento del Programa Integral de Transporte y Vialidad del Distrito Federal y para su actualización, acorde con las necesidades e infraestructura de la ciudad;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
 
-VI.- Realizar los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades de acuerdo con las necesidades y las condiciones impuestas por la planeación del Distrito Federal;
+V.- Elaborar y someter a aprobación del Jefe de Gobierno el Programa Integral de Transporte y Vialidad del Distrito Federal, que deberá ajustarse a los objetivos, políticas, metas y previsiones establecidas en los Programas Generales: de Desarrollo del Distrito Federal, de Desarrollo Urbano del Distrito Federal, de Ordenamiento Ecológico del Distrito Federal y Programa de Ordenación de la Zona Metropolitana del Valle de México. La Secretaría dictará las medidas necesarias para garantizar el debido cumplimiento del Programa Integral de Transporte y Vialidad del Distrito Federal y para su actualización, acorde con las necesidades e infraestructura de la ciudad, en el que se brindará prioridad hacia el ciclista, el peatón y el usuario;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+
+VI.- Realizar los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades de acuerdo con las necesidades y las condiciones impuestas por la planeación del Distrito Federal, en los que se brindará prioridad hacia el ciclista, el peatón, y el usuario de transporte público;
 
 VII.- En coordinación con las entidades federativas colindantes establecer e implementar un Subprograma Metropolitano de Transporte y Vialidad, bajo las directrices que marque el Programa Integral de Transporte y Vialidad del Distrito Federal;
 
@@ -1494,7 +1504,9 @@ Es obligación de las personas físicas o morales que se dediquen a impartir cur
 
 La vialidad y el tránsito en el Distrito Federal, se sujetarán a lo previsto en esta Ley y demás disposiciones jurídicas y administrativas aplicables, y a las políticas establecidas por la Administración Pública, de acuerdo con las siguientes bases:
 
-I.- La aplicación de políticas que tiendan a una mejor utilización de vialidad, así como del tránsito de personas y vehículos;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+
+I.- La aplicación de políticas que atiendan a una mejor utilización de la vialidad, así como del tránsito de personas, ciclistas y vehículos;
 
 II.- Las limitaciones y restricciones que se establezcan con objeto de preservar el ambiente, salvaguardar el orden público en la vialidad;
 
@@ -1508,13 +1520,19 @@ VI.- La verificación que realicen los centros autorizados sobre emisión de con
 
 VII.- El retiro de la vialidad de los vehículos y objetos que ilícitamente obstaculicen, limiten o impidan el uso adecuado de la vialidad o pongan en peligro el tránsito de personas o vehículos;
 
-VIII.- El diseño y aplicación de medidas para garantizar la seguridad en los sistemas de transporte público de vía exclusiva, proporcionados por la Administración Pública y/o los particulares; y
+VIII.- El diseño y aplicación de medidas para garantizar la seguridad en los sistemas de transporte público de vía exclusiva, proporcionados por la Administración Pública y/o los particulares; y (sic)
 
-IX.- La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público.
+IX.- La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público;
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+
+X.- El diseño y aplicación de medidas para garantizar que las ciclo vías sean seguras, directas, continuas, con interconexión con los distintos sistemas de transporte público y que cuenten con la señalización debida.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2008)</small>
 
 ###### Artículo 90.
 
-La vía pública en lo referente a la vialidad se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad.
+La vía pública en lo referente a la vialidad se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos, ciclistas y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad.
 
 ###### Artículo 91.
 
@@ -1610,7 +1628,9 @@ Las Delegaciones y Secretarías competentes vigilarán en materia de transporte 
 
 I.- Que se procure el confinamiento en aquellos sistemas de transporte público de vía exclusiva, para seguridad de la población, y
 
-II.- Que en el Programa Integral de Transporte y Vialidad del Distrito Federal considere vialidades o carriles exclusivos para el tránsito de bicicletas y el fomento de la infraestructura del transporte masivo, corredores viales metropolitanos, red emergente y derechos de vía.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+
+II.- Que en el Programa Integral de Transporte y Vialidad del Distrito Federal considere prioritario vialidades o carriles exclusivos para el tránsito de bicicletas y el fomento de la infraestructura del transporte masivo, corredores viales metropolitanos, red emergente y derechos de vía.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE USUARIOS Y PEATONES
 
@@ -1812,7 +1832,13 @@ Los estacionamientos privados y públicos, tendrán las instalaciones necesarias
 
 Los estacionamientos privados, deberán disponer de espacios exclusivos para el uso de personas con capacidades diferentes; debiendo instalar las rampas, escaleras o elevadores necesarios, para dar un trato preferente y seguro a este segmento de la población.
 
-Las dependencias del Gobierno del Distrito Federal y las Jefaturas Delegacionales, que brinden servicio público de estacionamiento, deberán instalar el mobiliario adecuado, para brindar servicio preferencial a las personas con capacidades diferentes.
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2008)</small>
+
+Asimismo, deberán disponer de las instalaciones necesarias para proporcionar el servicio de manera segura a los usuarios de bicicletas.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2008)</small>
+
+Las dependencias del Gobierno del Distrito Federal y las Jefaturas Delegacionales, que brinden servicio público de estacionamiento, deberán instalar el mobiliario adecuado, para brindar servicio preferencial a las personas con capacidades diferentes y para usuarios de bicicletas.
 
 Las autoridades delegacionales podrán examinar en todo tiempo, que las instalaciones y la construcción reúnan las condiciones señaladas en los párrafos que anteceden y que tengan a su servicio personal capacitado.
 
@@ -2295,3 +2321,9 @@ SEGUNDO: El Presente decreto y las modificaciones que en éste se contienen entr
 TERCERO: Se derogan todas aquellas disposiciones que se contrapongan a las aquí reformadas.
 
 CUARTO: El Jefe de Gobierno deberá de expedir las modificaciones necesarias al Reglamento de Transito, en un tiempo máximo de 30 días a efecto de hacer operativas los cambios realizados a la presente ley.
+
+G.O. 17 DE JULIO DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se derogan todas las disposiciones contrarias a este Decreto.
