@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-56787
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-09-24"
-last_updated: "2007-09-24"
+last_updated: "2008-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56787&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-07-06"
 
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2008.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de septiembre de 2007.
 
@@ -202,7 +202,9 @@ La Junta de Gobierno tendrá, además de las atribuciones señaladas en el artí
 
 I. Aprobar el programa de labores, el presupuesto y los informes de actividades del Organismo;
 
-II. Aprobar anualmente, previo informe de las Comisarias y los Comisarios y dictamen de las y los Auditores Externos, los estados financieros del Organismo;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+
+II. Aprobar anualmente, previo informe de la Dirección de Comisarios y Control de Auditores Externos de la Dirección General de Contralorías Internas en entidades y dictamen de las y los Auditores Externos, los estados financieros del Organismo;
 
 III. Aprobar, de acuerdo con las disposiciones aplicables, las políticas, bases y programas generales que requieren los convenios, contratos o pedidos que deba celebrar el Organismo con terceros en materia de obra pública, adquisiciones, arrendamiento, administración de bienes y prestación de servicios;
 
@@ -338,9 +340,15 @@ XXV. Emitir opinión legal sobre los donativos que el Organismo otorgue o reciba
 
 XXVI. Difundir las políticas y lineamientos de asistencia social a las unidades operativas y administrativas bajo su responsabilidad;
 
-XXVII. Proporcionar los reportes e informes del avance y resultados de las áreas a su cargo, así como la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por otras dependencias y entidades de la Administración Pública, siempre y cuando sean del ámbito de su competencia y se cumplan las políticas que al respecto se establezcan; y
+XXVII. Proporcionar los reportes e informes del avance y resultados de las áreas a su cargo, así como la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por otras dependencias y entidades de la Administración Pública, siempre y cuando sean del ámbito de su competencia y se cumplan las políticas que al respecto se establezcan; y (sic)
 
-XXVIII. Las demás que le confiera la Dirección General y las disposiciones aplicables.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+
+XXVIII. Coordinar, asesorar y dar seguimiento al programa de creación de sociedades cooperativas;
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+
+XXIX. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ASISTENCIA ALIMENTARIA
 
@@ -416,9 +424,15 @@ XVIII. Promover relaciones institucionales e interinstitucionales para fortalece
 
 XIX. Difundir y promover una cultura de respeto a los derechos de la niñez en general y en particular de la niñez en riesgo y situación de calle;
 
-XX. Definir los perfiles requeridos del personal adecuado para la operación de los programas; y
+XX. Definir los perfiles requeridos del personal adecuado para la operación de los programas; y (sic)
 
-XXI. Las demás que le confiera la Dirección General y las disposiciones aplicables.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+
+XXI. Promover y fomentar Programas emergentes que permitan abastecer de agua potable para beneficiar a familias de escasos recursos que radican en zonas marginadas, carezcan de este servicio público en forma permanente o lo reciban en forma intermitente, en coordinación con el Sistema de Aguas del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+
+XXIII (SIC). Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
 ### CAPÍTULO IX. DE LAS ATRIBUCIONES DE LA COORDINACIÓN DE ADMINISTRACIÓN
 
@@ -562,7 +576,17 @@ XLIV. Establecer las políticas generales y específicas para el uso y aprovecha
 
 XLV. Desarrollar acciones de Protección Civil, al interior del Organismo, que garanticen la integridad de los trabajadores, así como de los bienes de la institución;
 
-XLVI. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+
+XLVI. Celebrar los contratos de prestación de servicios, adquisiciones y obras, así como iniciar y agotar el procedimiento de rescisión de dichos contratos;
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+
+XLVII. Delegar atribuciones a sus direcciones de área con base en el Manual Administrativo del DIF-DF;
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+
+XLVIII. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
 
 ### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA COMISARIA O COMISARIO
 
@@ -707,3 +731,9 @@ Ciudad de México a seis de julio de 2007.
 (Firma)
 
 C. JESÚS SALVADOR VALENCIA GUZMAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 17 DE JULIO DE 2008.
+
+PRIMERO. Las reformas del presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
