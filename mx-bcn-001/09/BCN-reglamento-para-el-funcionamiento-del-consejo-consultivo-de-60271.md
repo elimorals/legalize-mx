@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-del-consejo-consultivo-de-602
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-30"
-last_updated: "2006-06-30"
+last_updated: "2008-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de junio de 2006.
 
@@ -71,7 +71,9 @@ Para los efectos de este Reglamento, se entenderá por:
 
 I. Consejo: El Consejo Consultivo de Pesca y Acuacultura del Municipio de Ensenada, B.C.;
 
-II. Comisión: La Comisión de Pesca del Ayuntamiento;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
+
+II. Comisión de Pesca y Acuacultura Sustentables del Ayuntamiento;
 
 III. Consejero: Los miembros integrantes del Consejo, y
 
@@ -111,9 +113,11 @@ XIII. Promover de manera decidida el impulso de la acuacultura en las comunidade
 
 XIV. Impulsar la creación de un sistema para la certificación de calidad y origen de los productos pesqueros de Ensenada y Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 5.
 
-Son atribuciones del Consejo Consultivo:
+Son atribuciones del consejo consultivo:
 
 I. Participar en la elaboración de los Planes de desarrollo estatal y municipal y en los programas estatal y municipal, en lo que se refiere a las actividades de pesca y acuacultura en el municipio de Ensenada, mediante procesos de planeación participativa;
 
@@ -133,19 +137,25 @@ VIII. Promover ante las autoridades estatales y federales la elaboración de la 
 
 IX. Rendir informe anual de las actividades realizadas, ante el pleno del Cabildo, y
 
-X. Rendir informes específicos ante la Comisión de Pesca del Ayuntamiento.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
+
+X. Rendir informes específicos ante la comisión de Pesca y Acuacultura Sustentables del Ayuntamiento.
 
 ###### ARTÍCULO 6.
 
 Los recursos económicos de los ordenes federal, estatal o municipal, o bien los privados o de fundaciones altruistas nacionales o internacionales, que sean destinados al Ayuntamiento para su aplicación, asignación o administración, mediante programas, proyectos o acciones, tendientes a impulsar y promover la pesca y la acuacultura en la jurisdicción de este municipio, será el Consejo, por votación de las dos terceras partes de sus integrantes, quien determine una propuesta de los destinatarios y/o beneficiarios de dichos fondos, misma que será sometida para su aprobación al Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 7.
 
-El Consejo Consultivo se integra con los siguientes consejeros propietarios y su suplente respectivo:
+El consejo Consultivo se integra con las (sic) siguientes Consejeros propietarios y suplentes respectivo (sic):
 
 I. El Presidente Municipal o quien él designe;
 
-II. Los integrantes de la comisión de pesca del ayuntamiento;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
+
+II. Los integrantes de la Comisión de Pesca y Acuacultura Sustentables del Ayuntamiento;
 
 III. El titular del área o dependencia a cargo de las actividades de Fomento Económico y vinculación empresarial del Ayuntamiento;
 
@@ -438,3 +448,17 @@ PRESIDENTE MUNICIPAL
 LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JULIO DE 2008.
+
+PRIMERO.- Que una vez presentada en Sesión de Cabildo la presente iniciativa, se gire atento oficio turnándola a las Comisiones respectivas a efecto de iniciar el estudio, análisis y dictamen correspondiente, dentro del plazo establecido en el Artículo 72 del Reglamento Interior para el Ayuntamiento de Ensenada.
+
+SEGUNDO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del municipio.
+
+TERCERO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
+
+CUARTO.- Que los integrantes de esta Comisión permanente de pesca y acuacultura sustentable serán los mismos que integraban la Comisión de pesca no permanente de este XIX Ayuntamiento de Ensenada: REGIDOR, JULIO FELIPE GARCIA MUÑOZ, COMO COORDINADOR, RICARDO MANCILLAS AMADOR, COMO SECRETARIO Y EDUARDO COTA OSUNA, COMO VOCAL.
+
+QUINTO.- La Comisión de Pesca y Acuacultura Sustentables de (sic) Ayuntamiento de Ensenada, deberá instalarse a más tardar, dentro de los treinta días siguientes a la publicación del presente acuerdo.
