@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-44565"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-30"
-last_updated: "2006-09-12"
+last_updated: "2008-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Yucatán, el miércoles 30 de marzo de 2005.
 
@@ -71,7 +71,9 @@ c) El Poder Judicial;
 
 d) Los Ayuntamientos o Consejos Municipales;
 
-e) El Instituto Electoral del Estado;
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
+
+e) El Instituto de Procedimientos Electorales y Participación Ciudadana;
 
 f) El Tribunal Electoral del Estado;
 
@@ -137,7 +139,9 @@ IX. Aprobar las modificaciones a los planes, programas y aplicación del presupu
 
 X. Solicitar al Consejo, conjuntamente con el Secretario Ejecutivo la creación o modificación de partidas cuando así se requiera;
 
-XI. Dar vista, en su caso, a la instancia correspondiente, cuando se actualice alguno de los supuestos previstos en el artículo 54 de la Ley;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XI. Dar vista, en su caso, a la instancia correspondiente, cuando se actualice alguno de los supuestos previstos en el artículo 54 de la Ley; para que inicien los procedimientos de responsabilidad correspondientes;
 
 XII. Desahogar las consultas que cualquier sujeto obligado con facultad de iniciativa, le formule al Instituto para reformas o adiciones a la Ley;
 
@@ -157,9 +161,17 @@ XIX. Tener bajo su mando y responsabilidad al personal adscrito al Consejo;
 
 XX. Acordar a petición de parte legitimada, la expedición de copias certificadas de las constancias que obren en los expedientes derivados del Recurso de Revisión, previo pago de los derechos fiscales;
 
-XXI. Aprobar, en su caso, los informes, que debe rendir su Presidente o el Secretario Ejecutivo; y
+XXI. Aprobar, en su caso, los informes, que debe rendir su Presidente o el Secretario Ejecutivo; y (sic)
 
-XXII. Abrogar, derogar o adicionar el presente Reglamento.
+XXII. Abrogar, derogar o adicionar el presente Reglamento;
+
+ADICIONADA, D.O. 18 DE JULIO DE 2008)
+
+XXIII. Realizar recomendaciones y exhortaciones a los sujetos obligados, cuando estos no estén cumpliendo con los principios y normas de acceso a la información pública en el Estado;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XXIV. Desahogar las consultas de cualquier sujeto obligado, en materia de acceso a la información pública.
 
 ###### Artículo 9.
 
@@ -199,9 +211,15 @@ X. Decretar recesos en las sesiones del Consejo cuando el caso lo amerite;
 
 XI. Expedir certificaciones de las constancias de los documentos a cargo del Consejo;
 
-XII. Delegar, la práctica de las notificaciones derivadas del Recurso de Revisión, en el personal que estime conveniente; y
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
 
-XIII. Recibir del Secretario Ejecutivo, los expedientes relativos a los Recursos de Revisión y turnarlos al Pleno del Consejo para resolver sobre su admisión, y en su caso, el (sic) turnarlo al Consejero ponente que corresponda.
+XII. Delegar, la práctica de las notificaciones derivadas del Recurso de Revisión y demás procedimientos que conozca el Consejo, en el personal que estime conveniente, en el caso de falta o ausencia del Analista de Proyectos;
+
+XIII. Recibir del Secretario Ejecutivo, los expedientes relativos a los Recursos de Revisión y turnarlos al Pleno del Consejo para resolver sobre su admisión, y en su caso, el (sic) turnarlo al Consejero ponente que corresponda;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XIV. Acordar a petición de parte legitimada, la expedición de copias certificadas de las constancias que obren en los expedientes derivados del Recurso de Revisión y demás procedimientos que conozca el Consejo.
 
 ###### Artículo 13.
 
@@ -243,7 +261,9 @@ II. Tomar la votación de los Consejeros, levantar el acta respectiva y comunica
 
 III. Llevar el registro del turno de los Consejeros que deban formular ponencias para resolución del Pleno y el registro de las sustituciones;
 
-IV. Recibir y procesar la información rendida por los Consejeros y el Secretario Ejecutivo, en materia del trámite de los Recursos de Revisión e Inconformidad, respectivamente;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+IV.- Recibir y procesar la información rendida por los Consejeros y el Secretario Ejecutivo, en materia del trámite de los Recursos de Revisión e inconformidad, respectivamente y demás procedimientos que conozca el Consejo;
 
 V. Tener bajo su responsabilidad y control, el archivo del Consejo;
 
@@ -253,13 +273,23 @@ VII. Brindar a los consejeros el apoyo necesario para el mejor cumplimiento de s
 
 VIII. Auxiliar al Presidente en la tramitación y seguimiento de los expedientes, recursos y demás asuntos dirigidos al Consejo;
 
-IX. Tener bajo su control, resguardo y responsabilidad, los libros de gobierno y archivo de expedientes relativos al Recurso de Revisión;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+IX.- Tener bajo su control, resguardo y responsabilidad, los libros de gobierno y archivo de expedientes relativos al Recurso de Revisión y demás procedimientos que conozca el Consejo;
 
 X. Conservar bajo su resguardo y responsabilidad los sellos propios de su función;
 
 XI. Realizar un índice de las resoluciones dictadas por el Consejo en los Recursos de Revisión;
 
-XII. Las demás tareas que le confieran las disposiciones legales, así como aquellas que le asignen el Presidente o el Consejo.
+XII. Las demás tareas que le confieran las disposiciones legales, así como aquellas que le asignen el Presidente o el Consejo;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XIII. Fungir como Unidad Administrativa en el trámite de solicitudes de acceso a la información;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XIV. Llevar a cabo el trámite y sustanciación de los recursos de revisión y demás procedimientos y asuntos que conozca el Consejo General.
 
 ###### Artículo 16.
 
@@ -347,9 +377,13 @@ XXXIII. Dar seguimiento a las resoluciones derivadas del Recurso de Inconformida
 
 XXXIV. Despachar sin demora, los asuntos y correspondencia que se encuentren bajo su trámite;
 
-XXXV. Solicitar de los sujetos obligados el apoyo que requiera para el cumplimiento de las funciones del Instituto; y
+XXXV. Solicitar de los sujetos obligados el apoyo que requiera para el cumplimiento de las funciones del Instituto; y (sic)
 
-XXXVI. Habilitar personal para recepción de promociones fuera de horario de oficina.
+XXXVI. Habilitar personal para recepción de promociones fuera de horario de oficina;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XXXVII. Vigilar el cumplimiento de la Ley, proponiendo y ejecutando los programas de coordinación y vigilancia a los sujetos obligados a través de las visitas a sus Unidades de Acceso correspondientes.
 
 ### CAPÍTULO CUARTO
 
@@ -415,9 +449,21 @@ VIII. Proponer al Secretario Ejecutivo, la organización interna de la direcció
 
 IX. Participar en cursos, seminarios, diplomados y actos académicos relacionados con el ámbito de su desarrollo, cuando así lo permita el presupuesto del Instituto;
 
-X. Tener bajo su guardia y responsabilidad, todos los bienes inmuebles que le sean asignados para el ejercicio de sus funciones, previa firma del resguardo correspondiente; y
+X. Tener bajo su guardia y responsabilidad, todos los bienes inmuebles que le sean asignados para el ejercicio de sus funciones, previa firma del resguardo correspondiente; y (sic)
 
-XI. Tener bajo su resguardo y organización el archivo de trámite que corresponda a su área.
+XI. Tener bajo su resguardo y organización el archivo de trámite que corresponda a su área;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XII. Expedir cuando así proceda, certificaciones de los documentos que obren en los archivos de la Dirección a su cargo;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XIII. Asesorar y remitir opiniones en los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XIV. Fungir como Unidad Administrativa en el trámite de solicitudes de acceso a la información.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN JURÍDICA
 
@@ -433,9 +479,13 @@ III. Compilar leyes, decretos y reglamentos; así como cualquier otra disposici�
 
 IV. Asesorar a las demás direcciones del Instituto, a efecto de que observen las formalidades previstas en la Ley, este Reglamento y cualquier otra disposición aplicable;
 
-V. Elaborar y analizar proyectos de contratos, convenios y cualquier acto jurídico que suscriba el Instituto, así como dar seguimiento a lo pactado en ellos;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
 
-VI. Representar legalmente al Instituto, cuando formalmente le sea delegada esta facultad por el Secretario Ejecutivo en los términos del artículo 35 fracción X de la Ley;
+V. Elaborar y analizar proyectos de contratos, convenios y cualquier acto jurídico que suscriba el Instituto;
+
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+VI. Representar legalmente al Instituto ante los Tribunales Federales y del fuero común y ante cualquier autoridad administrativa y jurisdiccional en los asuntos en que el Instituto tenga interés jurídica, incluyendo todos los derechos procesales que las leyes reconocen a las partes y el de promover el juicio de amparo en contra de los actos que afecten la esfera jurídica del Instituto, rindiendo los informes de ley, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general vigilar y atender su tramitación, cuando formalmente le sea delgada esta facultad por el Secretario Ejecutivo en los términos del artículo 35 fracción X de la Ley; esta disposición no limita que el Secretario Ejecutivo pueda delegar su representación en cualquier otra persona en términos de Ley;
 
 VII. Compilar y resguardar las disposiciones de observancia general que emitan el Consejo y el Secretario Ejecutivo;
 
@@ -459,9 +509,23 @@ XVI. Realizar un índice de las resoluciones dictadas por el Secretario Ejecutiv
 
 XVII. Vigilar el cumplimiento de las normas jurídicos (sic) para la protección del equipo y programas computacionales, en materia de propiedad intelectual;
 
-XVIII. Elaborar proyectos de respuesta a peticiones de particulares dirigidas al Consejo o al Secretario Ejecutivo, cuando éstas no se refieran a los medios de impugnación ni a los procedimientos acceso (sic) a la información pública y de corrección de datos personales, previstos en la Ley; y
+XVIII. Elaborar proyectos de respuesta a peticiones de particulares dirigidas al Consejo o al Secretario Ejecutivo, cuando éstas no se refieran a los medios de impugnación ni a los procedimientos acceso (sic) a la información pública y de corrección de datos personales, previstos en la Ley; y (sic)
 
-XIX. Las demás tareas que le encomiende el Secretario Ejecutivo.
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XIX.- Elaborar estudios relacionados con el acceso a la información pública de leyes, reglamentos, acuerdos, lineamientos, recomendaciones y criterios de interpretación en la materia;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XX. Auxiliar al Secretario Ejecutivo en la Vigilancia a las Unidades de Acceso de los Sujetos Obligados:
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XXI. Las demás que le encomiende el Secretario Ejecutivo;
+
+> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XXII. Realizar visita a las Unidades de Acceso a la Información Pública de los sujetos obligados, para verificar que éstas estén cumpliendo con la Ley y demás disposiciones aplicables del derecho de acceso a la información pública.
 
 #### SECCIÓN TERCERA
 
@@ -475,13 +539,17 @@ I. Proponer al Secretario Ejecutivo, las medidas técnicas, administrativas y fi
 
 II. Auxiliar al Secretario Ejecutivo, en la elaboración del anteproyecto de presupuesto de egresos del Instituto;
 
-III. Cumplir y hacer cumplir las disposiciones administrativas en materia de recursos humanos al interior del Instituto;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+III. Cumplir las disposiciones administrativas en materia de recursos humanos al interior del Instituto;
 
 IV. Proponer al Secretario Ejecutivo los programas de administración para la mejor racionalización del presupuesto;
 
 V. Coordinar la elaboración del plan estratégico del Instituto y el Programa Operativo Anual;
 
-VI. Atender las necesidades administrativas del Instituto;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+VI. Atender las necesidades administrativas y materiales del Instituto, de sus Direcciones o Unidades Administrativas;
 
 VII. Documentar toda administración de fondos del Instituto;
 
@@ -493,7 +561,9 @@ X. Llevar la contabilidad general y control presupuestal;
 
 XI. Conservar y actualizar el registro, catálogo e inventario de los bienes muebles e inmuebles propiedad del Instituto;
 
-XII. Glosar las cuentas de la administración del Instituto;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 2008)</small>
+
+XII. Glosar las cuentas de la administración del Instituto y tener bajo su resguardo la Administración del Instituto;
 
 XIII. Integrar los estados contables de cierre del ejercicio fiscal;
 
@@ -619,9 +689,11 @@ El Consejo sesiona a convocatoria de su Presidente. Dicha convocatoria deberá c
 
 Si transcurrido el mes el Presidente no convoca a sesión, la convocatoria puede ser emitida conjuntamente por los otros dos Consejeros, cumpliendo las formalidades establecidas en el párrafo anterior.
 
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
+
 ###### Artículo 30.
 
-Las resoluciones o acuerdos del Consejo se tomarán por mayoría de votos y para sesionar válidamente se requerirá de la asistencia de al menos dos de sus integrantes.
+Las resoluciones o acuerdos del Consejo se tomarán por mayoría de votos y para sesionar válidamente se requerirá de la asistencia de al menos dos de sus integrantes. Y en el caso de que se deba resolver sobre algún asunto que afecte a uno de los Consejeros, se deberá de respetar la garantía de audiencia.
 
 ###### Artículo 31.
 
@@ -745,9 +817,19 @@ XIII. Notificar por cédula o por oficio a las personas o a los sujetos obligado
 
 ### CAPÍTULO SEGUNDO. DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO
 
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
+
 ###### Artículo 45.
 
-El Consejo General y el Secretario Ejecutivo por el conducto de sus Direcciones, son las Unidades Administrativas del Instituto; y son los órganos encargados de conservar y remitir, en su caso, la información requerida.
+Para el trámite de solicitudes de acceso a la información, se considerará como Unidades Administrativas a:
+
+I. Las Direcciones.
+
+II. Analistas de proyectos y.
+
+III. Cualquier funcionario que por las actividades que desempeñe tenga bajo su custodia y archivos cualquier documento.
+
+El Consejo General del Instituto y el Secretario Ejecutivo serán Unidades Administrativas única y exclusivamente a través de los antes señalados.
 
 ###### Artículo 46.
 
@@ -931,19 +1013,23 @@ Si en el plazo señalado en el artículo anterior, la Unidad Administrativa no d
 
 Si del análisis de la solicitud la Unidad Administrativa determina que los datos proporcionados en la misma no son suficientes para localizar los documentos o son erróneos, dentro de los 5 días hábiles siguientes a que fue turnada la solicitud por la Unidad de Acceso, solicitará a ésta que proceda en los términos señalados en el penúltimo párrafo del artículo 39 de la Ley.
 
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
+
 ###### Artículo 74.
 
-Mediante requerimiento, la Unidad de Acceso informará al solicitante las omisiones o errores que deben de ser subsanados, apercibiéndole de que, si en un plazo de 10 días hábiles contados a partir de la fecha en que se le notifique el requerimiento, no aclara, corrige o completa su solicitud, será desechada.
+Mediante requerimiento, la Unidad de Acceso informará al solicitante las omisiones o errores que deben de ser subsanados, apercibiéndole de que, si en un plazo de 10 día hábiles contados a partir de la fecha en que se le notifique el requerimiento, no aclara, corrige o completa su solicitud, será desechada.
 
-> <small>(REFORMADO, D.O. 13 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
 
 ###### Artículo 75.
 
-El plazo de 15 días hábiles para dar respuesta a la solicitud en el supuesto anterior, se interrumpe, en tanto el solicitante dé cumplimiento al requerimiento.
+El plazo de 15 días hábiles para entregar o negar la información solicitada en el supuesto anterior, se interrumpe, en tanto el solicitante dé cumplimiento al requerimiento.
+
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
 
 ###### Artículo 76.
 
-En el supuesto de que el solicitante dé cumplimiento al requerimiento cambie sustancialmente la solicitud de información, la Unidad de Acceso debe hacer de su conocimiento que el plazo de 15 días hábiles para dar respuesta a la solicitud, empieza a computarse de nueva cuenta a partir de la fecha en que dio cumplimiento al requerimiento ante la Unidad de Acceso.
+En el supuesto de que el solicitante de cumplimiento al requerimiento, la Unidad de Acceso debe hacer de su conocimiento que el plazo de 15 días hábiles para entregar o negar la información, empieza a computarse de nueva cuenta a partir de la fecha en que dio cumplimiento al requerimiento ante la Unidad de Acceso.
 
 ###### Artículo 77.
 
@@ -953,9 +1039,11 @@ Cuando la información no se encuentre en los archivos de la Unidad Administrati
 
 #### SECCIÓN SEGUNDA. DE LA AMPLIACIÓN DEL PLAZO PARA EL TRÁMITE DE LAS SOLICITUDES DEL INSTITUTO
 
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
+
 ###### Artículo 78.
 
-En los términos del artículo 42 de la Ley, la Unidad de Acceso puede ampliar el plazo de 15 días hábiles para dar respuesta a la solicitud de información, cuando existan razones suficientes que impidan entregar la información en dicho plazo. La determinación de ampliación puede realizarla de oficio o a petición de las Unidades Administrativas.
+En los términos del artículo 42 de la Ley, la Unidad de Acceso pude ampliar el plazo de 15 días hábiles para entregar la información al solicitante, cuando existan razones suficientes que impidan su entrega en dicho plazo. La determinación de ampliación puede realizarla de oficio o a petición de las Unidades Administrativas.
 
 ###### Artículo 79.
 
@@ -971,9 +1059,11 @@ IV. Por cualquier otra causa que pueda impedir, razonablemente, la entrega oport
 
 Los motivos que supongan negligencia o descuido de la dependencia en el desahogo de la solicitud, no pueden ser invocados como causales de ampliación del plazo.
 
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2008)</small>
+
 ###### Artículo 80.
 
-En caso de ser procedente la ampliación del plazo, la Unidad de Acceso debe emitir un acuerdo fundado y motivado, en el que precise el número de días hábiles por los que se amplia el plazo, los cuales pueden ser hasta 15 días más y sólo en casos excepcionales, debidamente justificados, y previa notificación al solicitante, se podrá entregar respuesta en un plazo que no exceda de los seis meses. Dicho acuerdo debe ser notificado al solicitante a más tardar el último día del plazo previsto por el artículo 42 de la Ley.
+En caso de ser procedente la ampliación del plazo, la Unidad de Acceso debe emitir un acuerdo fundado y motivado, en el que precise el número de días hábiles por los que se amplía el plazo, los cuales pueden ser hasta 15 días más y sólo en casos excepcionales, debidamente justificados, y previa notificación al solicitante, se podrá entregar respuesta en un plazo que no exceda de los seis meses. Dicho acuerdo debe ser notificado al solicitante a más tardar el último día del plazo con el que cuenta la Unidad de Acceso para dar respuesta a una solicitud.
 
 ###### Artículo 81.
 
@@ -1318,3 +1408,9 @@ D.O. 12 DE SEPTIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 18 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
