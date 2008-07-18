@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-26147"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-22"
-last_updated: "2002-10-22"
+last_updated: "2008-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-10-03"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 18 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de octubre de 2002.
 
@@ -46,6 +48,56 @@ VI. En el marco de los trabajos de revisión del anteproyecto de reformas al Reg
 VII. En la tercera sesión extraordinaria de la Comisión de Reglamentos, celebrada el día 6 de agosto del 2002, se determinó la remisión del anteproyecto de dicho reglamento a los Vocales Ejecutivos Locales de las Juntas Locales Ejecutivas con sede en cada una de las cinco cabeceras de circunscripción a efecto de que lo remitieran a los demás Vocales Ejecutivos pertenecientes a su circunscripción, para que formularan los comentarios y sugerencias que consideraran pertinentes, y una vez concentradas por la Secretaría Técnica de la Comisión, fueron valoradas por el grupo de trabajo y, en su caso, incorporadas en el instrumento correspondiente.
 
 VIII. En la novena sesión ordinaria de la Comisión de Reglamentos, celebrada el día 20 de septiembre del presente año, fue aprobado el Proyecto de Acuerdo del Consejo General del Instituto Federal Electoral por el que se aprueba el Reglamento de Sesiones de los Consejos Locales y Distritales.
+
+CONSIDERANDO
+
+I. Que el artículo 41, párrafo segundo, fracción III de la Constitución Política de los Estados Unidos Mexicanos dispone que la organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Federal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordena la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores de su actividad.
+
+II. Que el propio artículo 41, párrafo segundo, fracción III de la ley fundamental, señala que el Instituto Federal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento, profesional en su desempeño, y que contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+
+III. Que de conformidad con el artículo 73 del Código Federal de Instituciones y Procedimientos Electorales, el Consejo General es el órgano superior de dirección del Instituto Federal Electoral, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
+
+IV. Que todo órgano colegiado debe contar con normas que regulen sus actividades, así como las de sus integrantes, con el objeto de hacer más eficaces y eficientes sus labores.
+
+V. Que conforme a lo previsto en el artículo 82, párrafo 1, inciso a) del código comicial (sic) federal, es atribución del Consejo General expedir los reglamentos interiores necesarios para el buen funcionamiento del Instituto.
+
+VI. Que el propio artículo 82, párrafo 1, inciso ñ) determina que es facultad del Consejo General, expedir el Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto.
+
+VII. Que en razón de que el número de partidos políticos nacionales y la dinámica de los debates que se desarrollan dentro de los Consejos Locales y Distritales se ha modificado, resulta adecuado implementar mecanismos que permitan agilizar las sesiones, sin perjuicio del derecho a realizar las deliberaciones que resulten necesarias para la aprobación y discusión de los asuntos que son presentados a los Consejos referidos del Instituto Federal Electoral.
+
+VIII. Que en virtud de las experiencias generadas en el proceso electoral federal 1999-2000, se hace necesario ajustar el Reglamento de Sesiones de los Consejos Locales y Distritales, con el objeto de que se garantice un mejor desarrollo de las sesiones en ambos niveles.
+
+IX. Que debido a la dinámica de las sesiones de los Consejos Locales y Distritales, es necesario incorporar nuevos mecanismos que coadyuven al mejor desarrollo de las sesiones, así como precisar diversos preceptos, por lo que se hace necesario aprobar un nuevo reglamento de la materia.
+
+X. Que ante la omisión de contar con una forma clara para computar los diversos plazos previstos por el reglamento antes referido, es necesario la incorporación de un artículo específico que señale la manera en que se deba verificar dicho cómputo.
+
+XI. Que a efecto de que no existan impedimentos para que se realicen puntualmente las sesiones de los Consejos Locales y Distritales, resulta pertinente crear nuevos mecanismos para que se lleven a cabo las notificaciones de la convocatoria.
+
+XII. Que a efecto de facilitar la convocatoria a las sesiones de los órganos delegacionales y subdelegacionales, se estima necesario establecer un precepto reglamentario para que los consejeros electorales puedan solicitar a los presidentes respectivos convoquen a sesiones extraordinarias, lo cual reforzará su participación y sus atribuciones como integrantes de los órganos colegiados de dirección del Instituto, en términos de lo dispuesto por el artículo 41, párrafo segundo, fracción III de la Constitución Política de los Estados Unidos Mexicanos.
+
+XIII. Que la ciudadanización es una de las características que distinguen a los Consejos General, Locales y Distritales y, toda vez que la Constitución General de la República, en el ya referido artículo 41, fracción III, párrafo segundo determina que los ciudadanos, en su carácter de consejeros electorales, participan en la integración de la autoridad encargada de organizar las elecciones federales, éstos deben contar con los elementos mínimos necesarios para el mejor desempeño de sus atribuciones, por lo que en tal virtud resulta procedente reglamentar la posibilidad de que soliciten al consejero presidente que corresponda, convoque a sesiones extraordinarias.
+
+XIV. Que en atención a lo ordenado por los artículos 101, párrafo 1, inciso e) y 111, párrafo 1, inciso e) del Código Federal de Instituciones y Procedimientos Electorales, este Consejo General considera pertinente señalar en qué casos deben expedir certificaciones los presidentes de los Consejos Locales y Distritales y en qué supuestos los secretarios pueden ejercer dicha atribución, buscando con ello garantizar que las documentales públicas expedidas por los funcionarios del Instituto sean siempre autorizadas por funcionarios facultados para ello.
+
+XV. Que toda vez que el mecanismo para incluir los puntos en el orden del día no resulta del todo idóneo en cuanto a su eficacia, es necesario precisar el procedimiento de distribución respectivo.
+
+XVI. Que con el objeto de facilitar la exposición de los asuntos que se presenten en el seno de los Consejos Locales y Distritales, es pertinente establecer el derecho de preferencia para iniciar la primera ronda de discusión, correspondiente al integrante del Consejo que haya propuesto el punto.
+
+XVII. Que con la finalidad de que los integrantes de los Consejos Locales y Distritales cuenten con todos los elementos para la discusión de los asuntos en las sesiones, se requiere reglamentar sobre la oportuna disponibilidad de los documentos e información correspondiente.
+
+XVIII. Que derivado de la necesidad de establecer en el propio reglamento la base para la elaboración del acta de sesión, se propone formalizar la utilización de grabación en audio de las sesiones para tales efectos.
+
+XIX. Que el Consejo General, en ejercicio de sus atribuciones legales y en virtud de las motivaciones antes referidas, debe emitir un nuevo Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto Federal Electoral.
+
+De conformidad con los antecedentes y considerandos vertidos, y con fundamento en los artículos 41, párrafo segundo, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 73; 74, párrafo 1; 82, párrafo 1, incisos a), b), ñ) y z); 104, párrafo 2; 115, párrafo 2 y 130, párrafo 1, del Código Federal de Instituciones y Procedimientos Electorales, este Consejo General expide el siguiente:
+
+ACUERDO
+
+PRIMERO.- Se abroga el Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el día 10 de enero de 2000.
+
+SEGUNDO.- Se aprueba el Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto Federal Electoral para quedar en los términos siguientes:
+
+REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL
 
 CONSIDERANDO
 
@@ -538,3 +590,11 @@ TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 CUARTO.- El Secretario Ejecutivo dispondrá a la brevedad posible la edición del número de ejemplares que se estimen necesarios para su adecuada difusión.
 
 El presente acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 3 de octubre de 2002.- El Consejero Presidente del Consejo General, José Woldenberg Karakowsky.- Rúbrica.- El Secretario del Consejo General, Fernando Zertuche Muñoz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 18 DE JULIO DE 2008.
+
+Primero.- El presente Reglamento entrará en vigor a partir del día siguiente al de su aprobación por el Consejo General.
+
+Segundo.- Se abroga el Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 22 de octubre de 2002.
