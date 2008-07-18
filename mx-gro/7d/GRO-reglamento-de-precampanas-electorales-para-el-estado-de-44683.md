@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-precampanas-electorales-para-el-estado-de-44683"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-08"
-last_updated: "2005-04-08"
+last_updated: "2008-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE GUERRERO, EN CUMPLIMIENTO A LA RESOLUCIÓN EMITIDA POR LA SALA CENTRAL DEL TRIBUNAL ELECTORAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PRECAMPAÑAS ELECTORALES DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 8 de abril de 2005.
 
@@ -430,3 +432,25 @@ El Secretario Técnico.
 C. CARLOS A. VILLALPANDO MILIAN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JULIO DE 2008.
+
+PRIMERO. Se abroga el Reglamento de Precampañas Electorales para el Estado de Guerrero, aprobado por el Consejo Estatal Electoral de Guerrero en la Septuagésima Sesión Extraordinaria de fecha primero de marzo del año 2005.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo del Instituto, en actualización y adecuación a la normatividad reglamentaria interna de la Ley, como lo ordena su artículo Décimo Segundo Transitorio.
+
+TERCERO. Para el caso de la entrega de los informes de precampaña, su fiscalización, elaboración del dictamen y resolución correspondiente, se observaran, por esta única ocasión, los plazos siguientes:
+
+l. Los precandidatos entregaran a más tardar el día dos de julio del 2008, el informe de precampaña ante el partido;
+
+II. Recibidos los informes de los precandidatos, los partidos políticos deberán presentarlos ante la Comisión, durante los dos días posteriores a su recepción;
+
+III. La Comisión, dispondrá de veinte días para la revisión de los informes, contados a partir de su recepción;
+
+IV. En caso de que se observen omisiones, inconsistencias o dudas razonables de los informes, se notificarán a los partidos políticos para que dentro de un término de tres días contados a partir de la notificación realice las aclaraciones o rectificaciones que estimen pertinentes;
+
+V. La Comisión, transcurridos los plazos previstos en las fracciones que anteceden, dispondrá de cuatro días para elaborar y presentar a consideración del Consejo General del Instituto el dictamen y resolución correspondiente.
+
+CUARTO. Publíquese el presente Reglamento en el periódico Oficial del Gobierno del Estado de Guerrero.
