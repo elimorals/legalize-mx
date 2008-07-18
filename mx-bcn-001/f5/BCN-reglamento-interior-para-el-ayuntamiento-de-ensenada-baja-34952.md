@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2003-11-14"
+last_updated: "2008-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1255,9 +1255,9 @@ Son comisiones permanentes las siguientes:
 
 I.- Gobernación y Legislación;
 
-II.- Hacienda y Patrimonio Municipal;
+II.- Hacienda y patrimonio Municipal;
 
-III.- Administración Pública y Fortalecimiento Municipal;
+III.- Administración Pública y fortalecimiento Municipal;
 
 IV.- Equidad y Género;
 
@@ -1267,7 +1267,7 @@ VI.- Desarrollo Urbano y Ecología;
 
 VII.- Seguridad, Tránsito y Transporte;
 
-VIII.- Planeación y Desarrollo Económico;
+VIII.- Planeación y Desarrollo Municipal;
 
 IX.- Salud y Asistencia Social;
 
@@ -1277,7 +1277,15 @@ XI.- Educación, Cultura y Deportes;
 
 XII.- Comercio y Espectáculos;
 
-XIII.- Delegaciones.
+XIII.- Delegaciones;
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
+
+XIV.- Comisión de Asuntos Indígenas; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
+
+XV.- Pesca y Acuacultura Sustentables.
 
 Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
@@ -1477,6 +1485,28 @@ III.- Supervisar el desempeño de los Delegados Municipales y coadyuvar en la pr
 
 IV.- Vigilar que el funcionamiento de las Juntas de Mejoramiento Moral, Cívico y Material, cumplan con lo establecido en la normatividad respectiva y con los planes y programas del Gobierno Municipal.
 
+> <small>(ADICIONADA SU DENOMINACION, P.O. 18 DE JULIO DE 2008)</small>
+
+COMISION DE PESCA Y ACUACULTURA SUSTENTABLES.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2008)</small>
+
+ARTICULO 127 Ter (SIC).- Atribuciones:
+
+I.- Analizar y dictaminar los proyectos de Reglamento y disposiciones normativas de observancia general relacionados con la Pesca y la Acuacultura;
+
+II.- Proponer al Ayuntamiento:
+
+a) Los mecanismos, instrumentos, programas y acciones que resulten necesarios para fomentar, impulsor y promover la pesca y la acuacultura como actividades estratégicas para el desarrollo del Municipio, considerando la participación del sector social y privado;
+
+b) La adopción de políticas y medidas necesarias para el mejorar (sic) la atención a las necesidades o problemas del sector pesquero y acuícola, vigilando el cumplimiento de los planes y programas del Gobierno Municipal en esa materia;
+
+III.- Supervisar el desempeño de la unidad administrativa de la Administración Pública Municipal que se encargue de dar atención y tramite a los asuntos relacionados con la Pesca y la Acuacultura, y coadyuvar en la promoción de sus acciones, eventos y actividades;
+
+IV.- Vigilar que se garantice la continuidad en los procesos de planeación del desarrollo municipal en materia de Pesco y Acuacultura; y
+
+V.- Participar en la integración del Consejo Consultivo de Pesca Y Acuacultura del Municipio de Ensenada, Baja California.
+
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
 CONVOCATORIA.
@@ -1612,3 +1642,17 @@ PRESIDENTE MUNICIPAL.
 LUIS GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JULIO DE 2008.
+
+PRIMERO.- Que una vez presentada en Sesión de Cabildo la presente iniciativa, se gire atento oficio turnándola a las Comisiones respectivas a efecto de iniciar el estudio, análisis y dictamen correspondiente, dentro del plazo establecido en el Artículo 72 del Reglamento Interior para el Ayuntamiento de Ensenada.
+
+SEGUNDO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del municipio.
+
+TERCERO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
+
+CUARTO.- Que los integrantes de esta Comisión permanente de pesca y acuacultura sustentable serán los mismos que integraban la Comisión de pesca no permanente de este XIX Ayuntamiento de Ensenada: REGIDOR, JULIO FELIPE GARCIA MUÑOZ, COMO COORDINADOR, RICARDO MANCILLAS AMADOR, COMO SECRETARIO Y EDUARDO COTA OSUNA, COMO VOCAL.
+
+QUINTO.- La Comisión de Pesca y Acuacultura Sustentables de Ayuntamiento de Ensenada deberá instalarse a más tardar, dentro de los treinta días siguientes a la publicación del presente acuerdo.
