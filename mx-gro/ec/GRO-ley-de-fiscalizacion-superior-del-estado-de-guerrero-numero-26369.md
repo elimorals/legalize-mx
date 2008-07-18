@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fiscalizacion-superior-del-estado-de-guerrero-numero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-06"
-last_updated: "2007-12-28"
+last_updated: "2008-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 6 de noviembre de 2002.
 
@@ -147,9 +147,9 @@ V. COMISION DE VIGILANCIA: La Comisión de Vigilancia y Evaluación de la Audito
 
 VI. CONGRESO: El Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
 
-VII. CUENTA PUBLICA: Se integra por los estados financieros, presupuestarios, programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de las Entidades Fiscalizadas, además de los estados detallados de la deuda pública estatal y municipal, por el período comprendido del primero de enero al treinta y uno de diciembre de cada ejercicio fiscal;
+VII. CUENTA PUBLICA: Se integra por los estados financieros, presupuestarios, Programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de la (sic) Entidades Fiscalizadas así como el desempeño cumplido de los Programas de carácter sectorial o especial y los operativos anuales; además de los estados detallados de la deuda pública estatal y municipal, y con el inventario actualizado de los bienes muebles e inmuebles, por el período comprendido del primero de enero al treinta y uno de diciembre de cada ejercicio fiscal.
 
 VIII. ENTES PUBLICOS ESTATALES: Los organismos públicos autónomos, organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos estatales; las demás personas del derecho público de carácter estatal, autónomas por disposición legal, así como los órganos jurisdiccionales que determinen las leyes;
 
@@ -163,9 +163,9 @@ XI. ESTADO: El Estado Libre y Soberano de Guerrero;
 
 XII. FISCALIZACION SUPERIOR: La atribución que realiza el Congreso a través de la Auditoría General del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
 
-XIII.- INFORME FINANCIERO CUATRIMESTRAL: Para efectos de la presente Ley, deberá entenderse como el conjunto de datos que se emiten de manera cuatrimestral, en relación con las actividades derivadas del uso y manejo de los recursos financieros asignados a una Entidad Fiscalizada; la información que muestra la relación entre los derechos y obligaciones de las Entidades Fiscalizadas, así como la composición y variación de su patrimonio en el período que se informa;
+XIII. INFORME FINANCIERO CUATRIMESTRAL: Para los efectos de la presente Ley, deberá entenderse como el conjunto de datos que se emiten de manera cuatrimestral, en relación con las actividades derivadas del uso y manejo de los recursos financieros asignados a una Entidad Fiscalizada; la información que muestra la relación entre los derechos y obligaciones de las Entidades Fiscalizadas, la composición y variación de su patrimonio así como el desempeño en el cumplimiento de los Programas de carácter sectorial o especial y los operativos anuales en el período que se informa, qué incluirá el inventario actualizado de los bienes muebles e inmuebles municipales y de los Entes Públicos Estatales y Municipales.
 
 XIV. LEY ORGANICA: La Ley Orgánica del Poder Legislativo del Estado de Guerrero;
 
@@ -827,11 +827,13 @@ Los Informes Financieros concernientes al inicio y terminación de la Administra
 
 (DEROGADO, P.O. 28 DE ABRIL DE 2006)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 32.
 
-El Poder Legislativo del Estado deberá entregar a la Auditoria General del Estado un Informe Financiero cuatrimestral del ejercicio de sus recursos; y en los plazos y condiciones que esta Ley establece presentará su Cuenta Pública Anual; la Auditoria General del Estado deberá emitir un Informe de Resultados Anual correspondiente a la Comisión de Vigilancia del Congreso. El Informe Financiero cuatrimestral deberá remitirse a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo.
+El Poder Legislativo del Estado deberá entregar a la Auditoría General del Estado un Informe Financiero cuatrimestral del ejercicio de sus recursos; y en los plazos y condiciones que esta Ley establece presentará su Cuenta Pública Anual; la Auditoria General del Estado deberá emitir un Informe de Resultados Anual correspondiente a la Comisión de Vigilancia del Congreso. El Informe Financiero cuatrimestral deberá remitirse a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo, con excepción del último cuatrimestre que se entregará a más tardar en la segunda quincena del mes de febrero del año siguiente del ejercicio fiscal que se informe.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 Los Informes Financieros concernientes al inicio y terminación del Poder Legislativo Estatal comprenderán los periodos del quince de noviembre al treinta y uno de diciembre y del primero de septiembre al catorce de noviembre, respectivamente; siendo los periodos de entrega a la Auditoría General del Estado a más tardar la segunda quincena del mes de enero y la primera quincena de noviembre en forma correspondiente.
 
@@ -1612,3 +1614,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 18 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
