@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2008-06-20"
+last_updated: "2008-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -553,19 +553,37 @@ APLICACION DE LOS INSTRUMENTOS Y
 
 OBJETOS RELACIONADOS CON EL DELITO
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 60.
 
-El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos del delito, o así como las cosas que sean objeto o producto de él si son de uso prohibido; si son de uso lícito, se decomisarán cuando el delito sea doloso o preterintencional, y si pertenecen a un tercero, se decomisarán siempre que éste tenga conocimiento de su utilización para la realización del delito. En tratándose de armas, en todo caso serán decomisadas.
+El decomiso consiste en la pérdida de la propiedad, posesión o titularidad y su aplicación a favor del Poder Ejecutivo del Estado, a los órganos y para los fines que las leyes señalen, de los instrumentos del delito, así como los objetos o productos de él, si son de uso prohibido; si son de uso lícito, se decomisarán cuando el delito sea doloso o preterintencional; si los instrumentos del delito, objeto o producto de él pertenecen a terceros, se decomisarán cuando éstos tengan conocimiento de ello. Tratándose de armas, en todos los casos serán decomisadas.
+
+Las autoridades competentes, durante el trámite de la averiguación previa o el proceso, procederán de inmediato al aseguramiento de bienes que podrían ser materia del decomiso, cualquiera que sea su naturaleza.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 61.
 
-Si los instrumentos o cosas decomisadas son substancias nocivas o peligrosas, se destruirán, a juicio de la autoridad que esté conociendo, pero ésta, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los demás instrumentos o cosas decomisadas, el Estado determinará su destino según su utilidad.
+Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, la autoridad que esté conociendo de la averiguación previa o del proceso judicial, ordenará su inmediata destrucción o confinamiento, salvo que por representar utilidad para fines de docencia o investigación sean requeridas por alguna institución o dependencia pública y se les entregue, asumiendo entonces ésta la responsabilidad de su uso, conservación y destino.
 
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las jurisdiccionales; que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si el notificado no se presenta dentro de los cuatro meses siguientes a la fecha de la notificación, el producto se destinará al Estado, previas las deducciones de los gastos ocasionados.
+Si se trata de armas de fuego o demás objetos regulados por la ley federal de la materia, se procederá en los términos que establezca dicha legislación.
 
-La notificación a que se refiere el párrafo anterior se hará personalmente si se conoce el nombre y domicilio del interesado; en caso contrario, la notificación se hará por edictos publicados por tres veces en siete días en el periódico que determine la autoridad correspondiente.
+Tratándose de material pornográfico, se ordenará su inmediata destrucción.
 
-En el caso de bienes que se encuentren a disposición de la autoridad que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, por un lapso de cuatro meses a partir de la notificación que se le haga en los términos del párrafo anterior, transcurrido el cual, el producto se aplicará al Estado.
+Los bienes de consumo perecederos podrán ser donados a instituciones de asistencia pública.
+
+Los bienes de difícil o costosa conservación, respecto de los cuales no exista la posibilidad de entregarlos en breve tiempo a quienes tengan derecho a recibirlos, se procederá a su venta inmediata, si esto es posible, sin sujetarse a trámites o requisitos de subasta pública y el producto obtenido quedará a disposición de quien acredite tener derecho a recibirlo por un lapso de sesenta días, contados a partir de la notificación que se le haga; transcurrido ese tiempo sin acreditar o ejercer su derecho, se aplicará a favor del Poder Ejecutivo.
+
+Los bienes que se encuentren a disposición del Ministerio Público o la autoridad judicial, que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se aplicarán a favor del Poder Ejecutivo y se enajenarán de conformidad con las disposiciones legales y administrativas aplicables.
+
+Los bienes que estén a disposición del Ministerio Público o de la autoridad judicial, que sean de costosa o difícil conservación y además carezcan ya de importancia como evidencia en la investigación o en el proceso, por haber sido debidamente descritos y fijados a través de medios técnicos o sean de nulo o mínimo valor económico por el estado en que se encuentren o que nadie los reclame o acredite derecho a la devolución, a pesar de haber sido notificados con sesenta días de anticipación, podrán aplicarse a favor del Poder Ejecutivo del Estado y ordenarse su inmediata destrucción. Se presumirá que se encuentran en esta situación y por lo tanto, podrá ordenarse su inmediata destrucción, previa notificación a los interesados, todos aquellos bienes que tengan tres años o más a disposición de la autoridad investigadora o judicial y no sean objeto de reclamo por parte interesada, dentro de los sesenta días posteriores a dicha notificación.
+
+Para los efectos de este artículo, la notificación al interesado se tendrá por realizada, con el simple hecho de publicar, por tres veces, de siete en siete días, en dos periódicos de mayor circulación en la Entidad, la relación de bienes que se destruirán en caso de no ser reclamados; esto independientemente de que la información se ponga a disposición de la ciudadanía en los medios electrónicos de que disponga la autoridad que ordene la medida.
+
+En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Poder Ejecutivo, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley Orgánica de la Procuraduría General de Justicia del Estado, cuando los bienes hayan estado a disposición del Ministerio Público o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley Orgánica del Poder Judicial del Estado de Querétaro, cuando hayan estado a disposición de la autoridad judicial.
+
+Cuando no sea persona cierta, no esté identificada, se desconozca el domicilio de la persona a quien deba de notificársele en los términos de este artículo o se encuentre fuera del Estado o del País, la notificación se hará mediante publicación en los términos que establezca en el Código de Procedimientos Penales o supletoriamente en el de Procedimientos Civiles, ambos para el Estado de Querétaro.
 
 ### CAPITULO XV. TRATAMIENTO DE INIMPUTABLES PERMANENTES
 
@@ -917,7 +935,7 @@ La extinción de la potestad de ejecutar las penas y medidas de seguridad corres
 
 ###### ARTICULO 102.
 
-Si durante la ejecución de las penas o medidas de seguridad se advierte una causa de extinción de la pretensión punitiva o la potestad ejecutiva, sin que esta circunstancia se hubiere hecho valer durante el período de preparación del ejercicio de la acción penal o en el proceso, se solicitará ante el Organo Jurisdiccional que hubiere conocido del asunto la libertad absoluta del reo resolviéndose lo procedente.
+Si durante la ejecución de las penas o medidas de seguridad se advierte una causa de extinción de la pretensión punitiva o la potestad ejecutiva, sin que esta circunstancia se hubiere hecho valer durante el período de preparación del ejercicio de la acción penal o en el proceso, se solicitará ante el Órgano Jurisdiccional que hubiere conocido del asunto la libertad absoluta del reo resolviéndose lo procedente.
 
 ### CAPITULO IV. AMNISTIA
 
@@ -1871,7 +1889,7 @@ Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no 
 
 ###### ARTICULO 196.
 
-Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic)intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
+Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic) intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
 
 Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta fuese momentánea del pasivo, se aumentará hasta en una mitad mas la pena señalada en el párrafo anterior.
 
@@ -2863,7 +2881,7 @@ Al particular que promueva una conducta ilícita de un servidor público o se pr
 
 ###### ARTICULO 274.
 
-Al particular que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto justo o injusto relacionado con sus funciones, se le aplicarán de 6 meses a 6 años de prisión y de 20 a 240 días multa.
+Al particular que de manera expontánea (sic) dé u ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto justo o injusto relacionado con sus funciones, se le aplicarán de 6 meses a 6 años de prisión y de 20 a 240 días multa.
 
 ###### ARTICULO 275.
 
@@ -3714,3 +3732,7 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 18 DE JULIO DE 2008.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
