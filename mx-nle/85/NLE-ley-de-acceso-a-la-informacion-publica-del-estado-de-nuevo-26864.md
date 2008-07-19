@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-a-la-informacion-publica-del-estado-de-nuevo-2686
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2007-02-07"
+last_updated: "2008-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 2003.
 
@@ -640,3 +642,33 @@ P.O. 7 DE FEBRERO DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se concede un término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, para que los servidores públicos responsables de cada dependencia, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los órganos autónomos y los fideicomisos en donde el fideicomitente o fideicomisario sea cualquiera de las entidades citadas, hagan del conocimiento público a través de internet la información descrita en las fracciones VIII, IX y de la XI a la XX del Artículo 9 de esta Ley.
+
+P.O. 19 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León, con las modalidades que establecen los artículos siguientes.
+
+Artículo Segundo.- Se abroga la Ley de Acceso a la Información Pública contenida en el decreto 305, publicado el 21 de febrero de 2003; y todas sus reformas.
+
+Artículo Tercero.- Las modificaciones para la presentación obligatoria de la información a que se refiere esta Ley en todos sus rubros, deberá estar disponible en Internet a más tardar en un plazo de seis meses contados a partir de la entrada en vigor de esta Ley.
+
+Artículo Cuarto.- Los sujetos obligados que deben contar con la tecnología y los sistemas electrónicos respectivos a que se refiere la presente Ley, establecerán en sus presupuestos respectivos las partidas necesarias para su cumplimiento.
+
+Artículo Quinto.- Se concede un término máximo de dos años, contados a partir del 21 de julio de 2007, para que los sujetos obligados implementen los medios tecnológicos y electrónicos necesarios para que los solicitantes puedan ejercer el derecho de acceso a la información y los procedimientos de revisión a los que se refiere este Decreto.
+
+Artículo Sexto.- Los actuales Comisionados de la Comisión de Acceso a la Información Pública, permanecerán en sus cargos hasta la conclusión de sus respectivos nombramientos. El actual Comisionado Presidente podrá ejercer su cargo por el período para el que fue designado.
+
+Artículo Séptimo.- Todos los bienes, recursos, derechos y obligaciones de la Comisión de Acceso a la Información Pública, pasarán a formar parte de la Comisión de Transparencia y Acceso a la Información.
+
+Artículo Octavo.- El personal administrativo que al entrar en vigor el presente Decreto laboren en la Comisión de Acceso a la Información Pública, conservarán sus derechos y formarán parte de la Comisión de Transparencia y Acceso a la Información.
+
+Artículo Noveno.- La Comisión dentro del término de 30 días contados a partir de la entrada en vigor de este Decreto, deberá expedir el reglamento interior respectivo.
+
+Artículo Décimo.- Las solicitudes y el procedimiento de inconformidad en trámite a la entrada en vigor de esta Ley se resolverán conforme a la Ley de Acceso a la Información Pública.
+
+Los procedimientos de inconformidad que sean presentados a partir de la entrada en vigor de esta Ley, se regirán, por lo que hace al procedimiento, por las disposiciones de la misma, y por lo que hace a la materia sustantiva, por las disposiciones vigentes al momento en que fue presentada la solicitud de información que originó el acto de inconformidad.
+
+Artículo Décimo Primero.- La clasificación de la información efectuada antes de la entrada en vigor de la presente Ley, deberá actualizarse al momento de recibir una solicitud de acceso respecto del documento clasificado con anterioridad.
+
+Artículo Décimo Segundo.- El aviso de privacidad a que se refiere el artículo 47 de la presente Ley, deberá hacerse del conocimiento de los interesados en un plazo que no excederá de seis meses, contado a partir de la entrada en vigor de la misma.
+
+Artículo Décimo Tercero.- El documento de seguridad a que se alude en el artículo 79 de la presente Ley, deberá remitirse a los órganos garantes en un plazo que no excederá de un año a partir de entrada en vigor de la presente Ley.
