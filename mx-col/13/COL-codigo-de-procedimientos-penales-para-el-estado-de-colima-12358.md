@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2007-07-21"
+last_updated: "2008-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -2563,6 +2563,8 @@ Cuando la impugnación sea interpuesta solamente por el imputado o su defensor, 
 
 ### CAPITULO III. APELACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 356.
 
 El recurso de reconsideración es admisible en la primera instancia, contra los autos que no son apelables, y en la segunda, en contra de todos los que se pronuncien antes de la sentencia ejecutoriada, con excepción, en ambos casos, de las resoluciones que la ley expresamente declare no impugnables.
@@ -2579,11 +2581,27 @@ Admitido el recurso, el juzgador resolverá de plano lo que proceda, si no estim
 
 ###### ARTICULO 358.
 
-La apelación deberá interponerse ante el Juzgador que dictó la resolución que se impugne y podrá hacerse en el acto de la notificación o por escrito, dentro de los cinco días siguientes si se trata de la sentencia definitiva, o de tres días si se interpone contra un auto.
+La apelación deberá interponerse ante el Juzgador que dictó la resolución que se impugne y podrá hacerse en el acto de la notificación o por escrito, dentro de los diez días siguientes si se trata de la sentencia definitiva, o de seis días si se interpone contra un auto.
 
 Al notificar al imputado la sentencia de primera instancia, se le hará saber el plazo que la Ley le concede para interponer el recurso de apelación, asentándose constancia en el expediente.
 
 La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria, por parte del Magistrado Ponente que conozca de la apelación.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+En el escrito en el cual se interponga el recurso, el apelante deberá expresar los agravios que le causa la resolución impugnada. Asimismo, acompañará copias simples para que se corra traslado a las demás partes.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+El juzgador no admitirá el recurso cuando en el escrito en que se interponga éste, el apelante no exprese agravios, salvo que el recurrente sea el imputado o su defensor o el coadyuvante del Ministerio Público. En este caso, el Juez, de oficio, al vencimiento del plazo respectivo, dictará auto en que se haga constar esta circunstancia y admitirá el recurso.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+En el caso previsto en el artículo 351 de este Código, si fuere procedente el Recurso de Apelación, el Juez hará constar que el imputado manifestó su inconformidad al notificársele una resolución y admitirá éste.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Las notificaciones a que se refiere este artículo se harán personalmente.
 
 ###### ARTICULO 359.
 
@@ -2625,9 +2643,11 @@ Si la apelación se interpone conforme a las disposiciones que establece este T�
 
 Contra el auto que admita la apelación no procede recurso alguno. En contra del auto que declare que es improcedente por cualquier causa la apelación interpuesta procederá el recurso de denegada apelación, conforme al artículo 375.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 362.
 
-Admitida la apelación se remitirá el original del expediente al tribunal de segunda instancia, salvo que el Juzgador de primera instancia tenga que actuar necesariamente en el mismo; en éste caso se enviará el duplicado autorizado. A falta de éste se remitirá copia certificada.
+Admitida la apelación, con las copias respectivas, se correrá traslado a las otras partes para que dentro del plazo de cinco días contesten los agravios expresados por el apelante y, una vez que éstos hayan sido contestados o hubiera transcurrido el plazo que se concedió para ese efecto, se remitirá el original del expediente al Tribunal de Segunda Instancia, salvo que el Juzgador de Primera Instancia tenga que actuar necesariamente en el mismo; en éste caso se enviará el duplicado autorizado. A falta de éste se remitirá copia certificada.
 
 La remisión del original del expediente, del duplicado o del testimonio, deberá efectuarse dentro de los cinco días siguientes al en que se admita el medio de impugnación.
 
@@ -2635,11 +2655,19 @@ La remisión del original del expediente, del duplicado o del testimonio, deber�
 
 Recibido el expediente original, el duplicado o el testimonio de apelación, el magistrado ponente dentro del plazo de tres días dictará auto de radicación en el que se calificará la admisión y los efectos de la apelación. Declarada mal admitida la apelación, se devolverán los autos al inferior; revocada o modificada la calificación de los efectos de la apelación se procederá en su consecuencia.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 364.
 
-El apelante deberá expresar los agravios que le cause la resolución apelada dentro de los diez días siguientes a la notificación del auto de radicación. A su escrito acompañará copias simples para que se corra traslado a las demás partes por el plazo de cinco días para su contestación.
+Cuando alguna de las partes quisiera ofrecer pruebas, lo hará dentro de los tres días siguientes al en que se le notifique la radicación del recurso. Al promoverlas se expresará la naturaleza y objeto de las mismas.
 
-Las notificaciones a que se refiere este artículo se harán personalmente.
+La Sala, dentro de tres días siguientes a la fecha en que se presentó la promoción, decidirá, sin más trámite, si son de admitirse o no las pruebas.
+
+Las pruebas que se admitan, se desahogarán dentro del plazo de diez días, con sujeción a las reglas establecidas por este Código.
+
+Con excepción de la documental, no se admitirán medios de prueba cuando se apele un auto. Se procederá de igual forma cuando el apelante sea el Ministerio Público y se trate de sentencia.
+
+La prueba testimonial sólo se admitirá en segunda instancia respecto de hechos que no hubieran sido materia de examen en la primera.
 
 ###### ARTICULO 365.
 
@@ -2663,11 +2691,13 @@ Cuando el Juzgador de apelación advierta que el Juez de Primera Instancia no te
 
 Cuando el Tribunal una vez que tenga los autos a la vista para resolver, estime necesaria, para ilustrar su criterio, la práctica de alguna diligencia, podrá decretarla para mejor proveer, con citación de las partes y la desahogará dentro del plazo de diez días con sujeción a las reglas establecidas por este Código, para el desahogo de pruebas.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 370.
 
-Presentados los agravios y su contestación, o transcurridos los plazos otorgados para este efecto, en su caso, el Tribunal pronunciará el fallo correspondiente, confirmando, revocando o modificando la resolución apelada, dentro de los quince días siguientes. En todo caso deberá observarse lo previsto en el artículo 8 de este Código.
+Una vez calificada la admisión y los efectos de la apelación, el Tribunal pronunciará el fallo correspondiente, confirmando, revocando o modificando la resolución apelada, dentro de los quince días siguientes. En todo caso deberá observarse lo previsto en el artículo 8 de este Código.
 
-Cuando el recurrente sea el imputado o su defensor o el coadyuvante del Ministerio Público y no expresen sus agravios, el Tribunal de apelación, de oficio al vencimiento del plazo respectivo dictará auto en que se haga constar esta circunstancia y citará a las partes para oír sentencia en los términos del párrafo anterior haciendo, en su caso, la suplencia a que se refiere el artículo 355 párrafo segundo del presente Código.
+Cuando el recurrente sea el imputado o su defensor o el coadyuvante del Ministerio Público y no hubieren expresado sus agravios al interponer el recurso, el Tribunal de apelación, hará la suplencia a que se refiere el artículo 355 párrafo segundo del presente Código.
 
 ###### ARTICULO 371.
 
@@ -3222,3 +3252,7 @@ P.O. 26 DE NOVIEMBRE DE 2005.
 P.O. 21 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE JULIO DE 2008.
+
+ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
