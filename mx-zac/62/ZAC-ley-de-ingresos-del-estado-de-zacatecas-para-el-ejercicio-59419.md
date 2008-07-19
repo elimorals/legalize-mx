@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-59419
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-29"
-last_updated: "2007-12-29"
+last_updated: "2008-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL AÑO 2008.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 2007.
 
@@ -51,9 +51,11 @@ DECRETA
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL AÑO 2008.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 1°.
 
-La Hacienda Pública del Estado de Zacatecas, percibirá $13,946'148,368.00 durante el ejercicio fiscal del año 2008 por los ingresos provenientes de los conceptos que a continuación se enumeran:
+La Hacienda Pública del Estado de Zacatecas, percibirá $14,483'505,799.00 durante el ejercicio fiscal del año 2008, por los ingresos provenientes de los conceptos que a continuación se enumeran:
 
 I. IMPUESTOS $ 216'296,825.00
 
@@ -217,11 +219,15 @@ con menos PIB. 138'169,370.00
 
 15. Fondo de compensación del ISAN. 7'276,596.00
 
-VII. INGRESOS EXTRAORDINARIOS $1,331'473,828.00
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
+VII. INGRESOS EXTRAORDINARIOS $1,868'831,259.00
 
 1. Apoyos extraordinarios. 0
 
-2. Empréstitos. 0
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+2. Empréstitos $537'357,431.00
 
 3. Aportaciones Especiales. 0
 
@@ -298,3 +304,11 @@ LUIS GERARDO ROMO FONSECA.
 SECRETARIO DE FINANZAS
 
 LIC. JORGE MIRANDA CASTRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+SEGUNDO.- Se autoriza al Poder Ejecutivo del Estado a que gestione en el crédito que se autorice, un período de gracia hasta por seis meses para el cumplimiento de sus obligaciones crediticias; en caso de que el Sistema Financiero Mexicano no lo ofrezca, se autoriza para que al presentar la Cuenta Pública del ejercicio fiscal 2008, informe la fuente de financiamiento de las obligaciones crediticias del presente ejercicio fiscal. En ningún caso y en ninguna circunstancia se utilizará el Impuesto Sobre la Nómina como fuente de pago del crédito materia del presente.
