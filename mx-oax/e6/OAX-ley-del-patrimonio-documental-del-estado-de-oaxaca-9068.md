@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-patrimonio-documental-del-estado-de-oaxaca-9068"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-22"
-last_updated: "1990-09-22"
+last_updated: "2008-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DEL PATRIMONIO DOCUMENTAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 22 de septiembre de 1990.
 
@@ -210,3 +212,19 @@ Por lo tanto, mando c e (sic) se imprima, publique, circule y se le de el debido
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. HELADIO RAMIREZ LOPEZ.- RUBRICA.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. ILDEFONSO ZORRILLA CUEVAS.- RUBRICA.- EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.- LIC. GILBERTO TRINIDAD GUTIERREZ.- RUBRICA.- EL SECRETARIO DE PLANEACION.- LIC. DIODORO CARRASCO ALTAMIRANO.- RUBRICA.- EL SECRETARIO DE ADMINISTRACION.- LIC. ISAURO CERVANTES CORTES.- RUBRICA.- EL SECRETARIO DE FINANZAS.- LIC. DAVID COLMENARES PARAMO.- RUBRICA.- EL SECRETARIO DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS.- ARQ. RAUL CORZO LLAGUNO.- RUBRICA.- EL SECRETARIO DE DESARROLLO RURAL.- LIC. TOMAS BAÑOS BAÑOS.- RUBRICA.- EL SECRETARIO DE DESARROLLO ECONOMICO Y SOCIAL.- ING. RAUL SANTIAGO VALENCIA.- RUBRICA.
 
 LO COMUNICO A USTED, PARA SU CONOCIMIENTO Y FINES CONSIGUIENTES.- SUFRAGIO EFECTIVO, NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- OAXACA DE JUÁREZ, OAX., A 22 DE JUNIO DE 1990.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. ILDEFONSO ZORRILLA CUEVAS.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los miembros del Sistema Estatal de Archivos de Oaxaca, deberán llevar a cabo su primera reunión dentro de los sesenta días naturales contados a partir de la entrada en vigencia de la presente Ley, a convocatoria del Titular del Archivo del Poder Ejecutivo del Estado.
+
+TERCERO.- Los sujetos obligados contarán con un plazo de seis meses para expedir las disposiciones reglamentarias o administrativas de la presente Ley, en el que se establecerá la organización, funcionamiento y nombramiento de los responsables de los archivos; así como la vigencia de la documentación administrativa, baja y destino final de los documentos.
+
+CUARTO.- Los sujetos obligados instalarán sus áreas de archivo a más tardar a los sesenta días posteriores a la expedición de su reglamentación o normatividad respectiva.
+
+QUINTO.- Los sujetos obligados deberán complementar la organización y funcionamiento de sus archivos administrativos, a más tardar el 21 de julio del 2009, en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+
+SEXTO.- Se abroga la Ley del Patrimonio Documental del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de fecha 22 de septiembre de 1990.
