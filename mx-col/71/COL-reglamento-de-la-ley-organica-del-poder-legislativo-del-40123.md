@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2007-07-21"
+last_updated: "2008-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -219,9 +219,11 @@ En lo conducente se aplicará el procedimiento previsto por el artículo 16 de e
 
 ### CAPITULO IV. DE LA INSTALACION DE LA LEGISLATURA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### Artículo 22.
 
-En la segunda quincena de agosto del año de la elección, el Congreso o la Comisión Permanente, se constituirá en Comisión Instaladora de la Legislatura que le sucederá. De inmediato lo comunicará al Instituto Electoral y al Tribunal Electoral del Estado y procederá a ejecutar las acciones preliminares a la junta previa a que se refiere la fracción III del artículo 28 de la Ley, haciéndolo de la siguiente manera:
+En la segunda quincena de agosto del año de la elección, el Congreso o la Comisión Permanente, en su caso, se constituirá en Comisión Instaladora de la Legislatura que le sucederá. De inmediato lo comunicará al Instituto Electoral y al Tribunal Electoral del Estado y procederá a ejecutar las acciones preliminares a la junta previa a que se refiere la fracción III del artículo 28 de la Ley, haciéndolo de la siguiente manera:
 
 a).- Analizará la documentación electoral que reciba de la Oficialía Mayor y verificará que ésta se encuentre debidamente integrada y completa para su entrega a la Directiva Provisional de la Legislatura entrante;
 
@@ -335,7 +337,7 @@ Si no se logra la mayoría simple para elegir a los miembros de la Directiva, se
 
 El Presidente y el Vicepresidente del Congreso se renovarán mensualmente dentro de un período ordinario pudiendo ser reelectos para esos cargos durante el mismo período de sesiones; por lo tanto; en la última sesión de cada mes, deberán elegirse a los Diputados que ocuparán la Presidencia y la Vicepresidencia, o en su caso, serán reelectos los que estén en funciones. La elección se efectuará en los términos señalados por el artículo anterior.
 
-Se elegirán un Presidente y un Vicepresidente para el periodo comprendido del 1o al15 de julio aplicando en lo conducente, el procedimiento previsto en el primer párrafo de este artículo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 Los Secretarios y el Suplente durarán en su cargo todo el período de sesiones para el que fueron electos.
 
@@ -573,11 +575,11 @@ XV.- Los que se refieren al otorgamiento de amnistías; y
 
 XVI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
 ###### Artículo 49.
 
-Corresponde a la Comisión de Desarrollo Rural y Fomento Pesquero, conocer de todas las iniciativas relacionadas con los planes y programas de desarrollo agropecuario, forestal, fomento pesquero, de explotación rural, y mejoramiento de ejidatarios, comuneros, pequeños propietarios y, en general, de los poseedores de predios agrícolas y ganaderos, así como del desarrollo e impulso de la acuacultura y aprovechamiento integral de los recursos acuícolas, en las áreas de competencia del Estado.
+Corresponde a la Comisión de Desarrollo Rural, Fomento Pesquero y Asuntos Indígenas, conocer de todas las iniciativas relacionadas con los planes y programas de desarrollo agropecuario, forestal, fomento pesquero, de explotación rural, y mejoramiento de ejidatarios, comuneros, pequeños propietarios y, en general, de los poseedores de predios agrícolas y ganaderos, así como del desarrollo e impulso de la acuacultura y aprovechamiento integral de los recursos acuícolas, en las áreas de competencia del Estado. Asimismo deberá conocer de todos los mecanismos jurídicos de desarrollo de los grupos indígenas y acciones de los gobiernos Federal, Estatal y Municipal que fortalezcan sus usos, costumbres, lengua, cultura e idiosincrasia, coadyuvando en el trabajo por la salud, educación, recursos para proyectos productivos y la igualdad de derechos de las mujeres, niñas y niños indígenas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -759,7 +761,7 @@ V.- Analizar y dictaminar, conjuntamente con la Comisión de Justicia, Gobernaci
 
 VI.- Apoyar los convenios que beneficien a los Migrantes Colimenses;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
 VII.- Coadyuvar con las autoridades competentes en la búsqueda de instrumentos adecuados para atender las causas que generan la Migración;
 
@@ -1917,7 +1919,7 @@ II.- Una vez instalada la sesión se dará lectura a la resolución correspondie
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-III.- La Comisión de Justicia, Gobernación y Poderes dará lectura al dictamen respectivo.
+III.- La Comisión de Justicia, Gobernación y Poderes dará lectura al dictamen respectivo;
 
 IV.- Aprobado el dictamen por la Asamblea el Presidente de la Directiva dará lectura al Bando Solemne y la forma de difundir tal declaración en todo el Estado; y
 
@@ -1953,9 +1955,11 @@ La Comisión Permanente entrará en función inmediatamente después de clausura
 
 Durante su ejercicio, la Comisión Permanente tendrá las facultades y obligaciones que le señala el artículo 36 de la Constitución, los artículos 105, 106 y 108 de la Ley y los que le encomiende la Asamblea.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### Artículo 213.
 
-El año en que se celebren elecciones para renovar el Poder Legislativo, la Comisión Permanente se constituirá en comisión instaladora, presidirá la junta previa y será el enlace con la nueva Legislatura.
+El año en que se celebren elecciones para renovar el Poder Legislativo, la Comisión Permanente, en caso de estar en funciones, se constituirá en comisión instaladora, presidirá la junta previa y será el enlace con la nueva Legislatura.
 
 ###### Artículo 214.
 
@@ -2202,3 +2206,9 @@ P.O. 30 DE OCTUBRE DE 2006.
 P.O. 21 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 19 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Comisión de Desarrollo Rural, Fomento Pesquero y Asuntos Indígenas de la Quincuagésima Quinta Legislatura estará integrada por los Diputados que forman la Comisión de Desarrollo Rural y Fomento Pesquero.
