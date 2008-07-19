@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2008-05-03"
+last_updated: "2008-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1901,6 +1901,10 @@ ART. 301.- La obligación de dar alimentos es recíproca. El que los da tiene a 
 
 ART. 302.- Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Los concubinos deben darse alimentos, mientras subsista la relación de concubinato.
+
 ART. 303.- Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximas en grado.
 
 ART. 304.- Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
@@ -1909,17 +1913,23 @@ ART. 305.- A falta o por imposibilidad de los ascendientes o descendientes, la o
 
 Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
 
-ART. 306.- Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 306.- Los hermanos y parientes colaterales a que se refiere el artículo anterior, tienen la obligación de proporcionar alimentos a los menores hasta los 18 años o para el caso de las personas con discapacidad, hasta el cuarto grado.
 
 ART. 307.- El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 308.- Los alimentos comprenden la comida, el vestido, la habitación, la asistencia médica en caso de enfermedad y la educación, en caso de los hijos menores de 18 años. Respecto de los mayores de 18 y hasta los 25 años de edad, los alimentos comprenderán, además de lo mencionado en la primera parte del presente artículo, los gastos necesarios para proporcionarles algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales, durante el tiempo en que se encuentren cursando estudios.
+ART. 308.- Los alimentos comprenden:
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+I.- La comida, el vestido, la habitación, la atención médica, incluyendo la hospitalaria y en su caso, los gastos de embarazo y parto;
 
-En el caso de las personas con algún tipo de discapacidad o declaradas en estado de interdicción comprenderán además, todo lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
+II.- Respecto de los menores y mayores de 18 hasta los 25 años de edad, los alimentos comprenderán además, los gastos para su educación y para proporcionarles algún oficio, arte o profesión adecuados a sus circunstancias personales;
+
+III.- Con relación a las personas con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo, y
+
+IV.- Por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen integrándolos a la familia.
 
 ART. 309.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
@@ -1927,9 +1937,25 @@ ART. 310.- El deudor alimentista no podrá pedir que se incorpore a su familia e
 
 ART. 311.- Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
-Cuando por resolución judicial o convenio se haya fijado una pensión alimenticia, esta podrá modificarse cuando cambien las circunstancias de la acción que se dedujo en el juicio correspondiente, especialmente tratándose de menores de 18 años.
+Determinados por convenio o sentencia, los alimentos fijados en cantidades líquidas tendrán un incremento automático mínimo equivalente al aumento porcentual anual correspondiente al Índice Nacional de Precios al Consumidor publicado por el Banco de México, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción, en este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+La pensión alimenticia determinada en cualquiera de las modalidades citadas podrá modificarse cuando cambien las circunstancias de la acción que se dedujo en el juicio correspondiente, especialmente tratándose de menores de 18 años.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 311 BIS.- Los menores, las personas con discapacidad, los sujetos a estado de interdicción, el cónyuge o concubina que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 311 BIS 1.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año.
 
 ART. 312.- Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
 
@@ -1941,7 +1967,9 @@ ART. 315.- Tienen acción para pedir el aseguramiento de los alimentos:
 
 I.- El acreedor alimentario;
 
-II.- El ascendiente que le tenga bajo su patria potestad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+II.- El que ejerza la patria potestad o el que tenga la guarda y custodia del menor;
 
 III.- El tutor;
 
@@ -1951,13 +1979,17 @@ V.- El Ministerio Público.
 
 ART. 316.- Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
 
-ART. 317.- El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 317.- El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante a cubrir los alimentos o cualquier otra forma de garantía suficiente a juicio del Juez.
 
 ART. 318.- El tutor interino dará garantía por el importe anual de los alimentos. Si administrase algún fondo destinado a ese objeto, por él dará la garantía legal.
 
 ART. 319.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
-ART. 320.- Cesa la obligación de dar alimentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 320.- Se suspende o cesa la obligación de dar alimentos:
 
 I.- Cuando el que la tiene carece de medios para cumplirla;
 
@@ -1978,6 +2010,18 @@ ART. 322.- Cuando el deudor alimentario no estuviere presente o estándolo rehus
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
 ART. 323.- El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 164. En tal virtud el que no haya dado lugar a ese hecho, podrá pedir al Juez de lo Civil de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez, quien podrá emplear los medios de apremio para hacer cumplir sus determinaciones. Además, responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al deudor a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, serán responsables en los términos de los Ordenamientos Legales aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+El deudor alimentario deberá informar de inmediato al Juez y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada. El Juez podrá compelerlo a que cumpla esa obligación a través de los medios de apremio.
 
 ### CAPITULO I. De los hijos de matrimonio
 
@@ -2161,15 +2205,9 @@ ART. 380.- Cuando el padre y la madre que no vivan juntos reconozcan al hijo en 
 
 ART. 381.- En caso de que el reconocimiento se efectúe sucesivamente por los padres que no vivan juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
-ART. 382.- La investigación de la paternidad de los hijos nacidos fuera de matrimonio está permitida:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
-
-II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
-
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritablemente;
-
-IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
+ART. 382.- La paternidad puede acreditarse a través de los medios de prueba idóneos establecidos en el Código de Procedimientos Civiles. Si se propusiera cualquier prueba biológica o proveniente del avance de los conocimientos científicos y la persona a quien se atribuya la paternidad se negara a proporcionar la muestra necesaria, se presumirá que es el padre, salvo prueba en contrario.
 
 ART. 383.- Se presumen hijos del concubinario y de la concubina:
 
@@ -2509,9 +2547,9 @@ V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso e
 
 VI.- Cuando el que la ejerza sea condenado por delito grave;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-VII.- Por el incumplimiento de la obligación de dar alimentos sin causa justificada; y
+VII.- Ante el Incumplimiento de la obligación alimentaria por más de noventa días sin causa justificada;
 
 > <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
 
@@ -4999,9 +5037,13 @@ ART. 1269.- Cuando el caudal hereditario no fuere suficiente para dar alimentos 
 
 I.- Se ministrarán a los descendientes y al cónyuge supérstite a prorrata;
 
-II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-III.- Después se ministrarán también a prorrata, a los hermanos y a la concubina;
+II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a la concubina o concubino;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+III.- Después se ministrarán también a prorrata, a los ascendientes y a los hermanos, y
 
 IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
 
@@ -5715,11 +5757,15 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el ca
 
 ### CAPITULO VI. De la sucesión de la concubina
 
-ART. 1526.- La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 1526.- La mujer o el hombre con quien el autor de la herencia vivió como si fuera su esposa o esposo en calidad de concubinos durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
 
 I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1,515 y 1,516;
 
-II.- Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+II.- Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la porción que le corresponda a un hijo;
 
 III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo (sic) con otra mujer, tendrá derecho a las dos terceras partes de la porción de un hijo;
 
@@ -5727,9 +5773,13 @@ IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la
 
 V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
 
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenece a la concubina y la otra mitad, a la Beneficencia Pública.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1,515 y 1,516 si la concubina tiene bienes.
+VI.- Si el autor de la herencia no deja descendientes o ascendientes, la totalidad de los bienes serán para el concubino o la concubina en el caso de que se trate.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+En los casos a que se refieren las fracciones II, III, y IV, debe observarse lo dispuesto en los artículos 1515 y 1516 si la concubina o concubino tiene bienes.
 
 Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
 
@@ -10378,3 +10428,7 @@ P.O. 19 DE ABRIL DE 2008.
 P.O. 3 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE JULIO DE 2008.
+
+ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
