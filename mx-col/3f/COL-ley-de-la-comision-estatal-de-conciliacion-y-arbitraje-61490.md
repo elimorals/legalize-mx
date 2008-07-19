@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-61490"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-24"
-last_updated: "2008-05-24"
+last_updated: "2008-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA COMISION ESTATAL DE CONCILIACION Y ARBITRAJE MEDICO PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
 
 Ley publicada en el Suplemento No. 12 del Periódico Oficial del Estado de Colima, el sábado 24 de mayo de 2008.
 
@@ -109,9 +109,13 @@ XXII.- Irregularidad en la Prestación de Servicios de Salud: Todo acto u omisi�
 
 XXIII.- Responsabilidad Institucional: Acto mediante el cual, como consecuencia de una deficiencia administrativa, una institución o establecimiento de salud pública o privada provoque directa o indirectamente daño a un paciente;
 
-XXIV.- Error Médico: Falla en la consecución de un resultado en salud o bien el uso de un plan equivocado para alcanzar un objetivo. En consecuencia, cuando el diagnóstico y tratamiento no son los adecuados, causando daño o poniendo en peligro la vida y la salud de un paciente;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-XXV.- Negativa en la Prestación de Servicios de Salud: Todo acto u omisión contrario a las normas que rigen la prestación de servicios de salud, por medio del cual se niega la prestación de éstos;
+XXIV.- Error Médico: Cuando el diagnóstico y tratamiento de acuerdo a la Lex Artis no son los adecuados, causando daño o poniendo en peligro la vida y la salud de un paciente;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+XXV.- Negativa en la Prestación de Servicios de Salud: Todo acto u omisión contrario a las normas que rigen la prestación de servicios de salud, por medio del cual se niega la prestación de éstos, solamente en tratándose de casos de urgencia médica calificada;
 
 XXVI.- Lex Artis: Conjunto de reglas, normas y procedimientos para el ejercicio profesional de los servicios de salud contenidas en la literatura médica aceptada, en las cuales se establecen los medios para la atención médica y los criterios para su empleo;
 
@@ -143,9 +147,11 @@ XXXIX.- Gabinetes Médicos: Establecimientos públicos o privados, en los que se
 
 XL.- Laboratorios Médicos: Establecimientos, públicos o privados, en que se realizan investigaciones, análisis, pruebas y estudios clínicos, biológicos, químicos, bacteriológicos o patológicos entre otros, en apoyo al diagnóstico que formulan los prestadores de servicios médicos.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 3.
 
-El Reglamento Interno, precisará las reglas y directrices que habrá de considerar la Comisión para valorar la contravención a los lineamientos éticos y profesionales.
+El Reglamento Interno, precisará las reglas y directrices que habrá de considerar la Comisión para valorar la contravención a los lineamientos éticos y profesionales, debiendo en consecuencia hacer una investigación minuciosa.
 
 ###### ARTÍCULO 4.
 
@@ -653,13 +659,17 @@ El personal deberá especializarse y capacitarse en las técnicas de mediación,
 
 ### CAPÍTULO I. DE LAS QUEJAS
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 35.
 
-La Comisión procederá a petición de parte, y cuando tenga conocimiento de que se afecte la calidad de la atención médica y la seguridad del paciente, lo podrá hacer de oficio.
+La Comisión procederá a petición de parte. Cuando tenga conocimiento de que se afecte la calidad de la atención médica y la seguridad del paciente, lo podrá hacer de oficio, en tratándose de medidas generales de salud pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 36.
 
-La Comisión atenderá las inconformidades relacionadas con la prestación de servicios médicos cuando se aduzca mala práctica o negativa del servicio. Al efecto, estará facultada para solicitar la información relacionada, a las partes y a terceros; realizar las investigaciones necesarias, de oficio o a petición de parte; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativas y de los prestadores de servicios médicos.
+La Comisión atenderá las inconformidades relacionadas con la prestación de servicios médicos cuando se aduzca mala práctica o negativa del servicio. Al efecto, estará facultada para solicitar la información relacionada, a las partes y a terceros; realizar las investigaciones necesarias, de oficio o a petición de parte; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativas y de los prestadores de servicios médicos, para el debido cumplimiento de sus funciones.
 
 Los procedimientos alternativos para la solución de conflictos entre los usuarios y los prestadores de servicios médicos previstos en esta Ley, se regirán por los principios de legalidad, equidad, audiencia, igualdad de las partes, imparcialidad, eficacia, economía procesal, celeridad, sencillez, confidencialidad o reserva y gratuidad.
 
@@ -695,7 +705,9 @@ VI.- Las partes interesadas deberán conducirse con honradez, transparencia, leg
 
 VII.- Las citas, notificaciones, comunicaciones y las resoluciones de la comisión se podrán dar a conocer a los interesados por oficio, por lista de acuerdos, por correspondencia o mensajería con acuse o razón de recibo, correo electrónico, fax, teléfono u otro medio eficaz, para dar a conocer fehacientemente el contenido de cualquier resolución;
 
-VIII.- Recibida la queja, dentro de los dos días hábiles siguientes se dará vista de la misma al prestador de los servicios médicos para que, en un plazo de hasta cinco días hábiles, presente la documentación requerida.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
+VIII.- Recibida la queja y cumplidos los requisitos de ley, dentro de los dos días hábiles siguientes se dará vista de la misma al prestador de los servicios médicos para que, en un plazo de hasta cinco días hábiles, presente la documentación requerida.
 
 Una vez que se haya presentado la documentación por parte del prestador del servicio médico y si la Comisión la declara procedente, dará lugar de manera inmediata al procedimiento de mediación, previsto en el Capítulo III, del Título Tercero de ésta Ley;
 
@@ -953,7 +965,9 @@ Si no pudiere asistir a la audiencia el prestador de los servidos (sic) médicos
 
 Si a la audiencia no asistiere el usuario de los servicios médicos, se tendrá por ratificada la queja y se diferirá aquélla para nueva fecha, misma que será notificada a las partes;
 
-VII.- Si el prestador de servicio médico no acude en atención a la convocatoria respectiva, se le notificará en segunda o tercera convocatoria. De no atenderla se presumirá responsabilidad motivo de la queja, con las consecuencias legales a que haya lugar;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+VII.- Si el prestador de servicio médico no acude en atención a la convocatoria respectiva, se le notificará en segunda o tercera convocatoria. De no atenderla se presumirá responsabilidad motivo de la queja, con las consecuencias legales a que haya lugar, salvo prueba en contrario que acredite en el procedimiento legal respectivo;
 
 > <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1543,21 +1557,27 @@ Las resoluciones de la Comisión deben mandarse notificar, dentro de los cinco d
 
 Los laudos deben dictarse y mandarse notificar dentro de los diez días siguientes a aquél en que se hubiere hecho la citación para laudo. Sólo cuando hubiere necesidad de que la Comisión examine documentos voluminosos, al resolver el laudo, podrá disfrutar de un término ampliado de quince días más para los fines ordenados anteriormente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 142.
 
-Para fincar la responsabilidad por dolo, falta, impericia o negligencia médica, independientemente de la que, en su caso, corresponda administrativa, civil o penalmente, la Comisión deberá considerar lo siguiente:
+Para fincar la responsabilidad por dolo, impericia o negligencia médica, independientemente de la que, en su caso, corresponda administrativa, civil o penalmente, la Comisión deberá considerar lo siguiente:
 
-I.- El deber de cuidado médico que dejó de observar el prestador de servicios médicos. El deber se fundará en la Ley, Reglamento, resolución administrativa o judicial, contrato o convenio respectivo, en la Lex Artis y la Deontología Médica, que determinaron el riesgo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+I.- El deber de cuidado médico que dejó de observar el prestador de servicios médicos. El deber se fundará en la Ley, Reglamento, resolución administrativa o judicial, contrato o convenio respectivo, en la Lex Artis y la Deontología Médica, que determinaron el riesgo, salvo lo previsto en el artículo 50, fracción I, de esta Ley;
 
 II.- El resultado dañino en la salud del usuario de los servicios médicos a consecuencia de la violación del deber de cuidado médico, y
 
 III.- La posibilidad racional, objetiva y material de realizar la acción u omisión debida y, en su caso, de evitar el resultado dañino.
 
-Se considerará, para efectos de esta Ley, a la impericia como la falta de conocimientos en la práctica médica y que debiesen observarse en el caso concreto.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
-Se considerará, para efectos de esta Ley, como negligencia la falta de cuidado, atención o vigilancia en la práctica médica que debió observarse en el caso concreto.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
-El dolo se entenderá en los términos previstos por el artículo 2 fracción XXXIII de esta Ley.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+El dolo, la impericia y la negligencia se entenderán en los términos previstos por el artículo 2 fracción XXXIII, XXXV y XXXVI de esta Ley.
 
 ###### ARTÍCULO 143.
 
@@ -1581,11 +1601,15 @@ Los laudos, recomendaciones y acuerdos de no responsabilidad se referirán a cas
 
 ### CAPÍTULO XI. DE LA GESTIÓN PARA LA MEJORÍA DE LA CALIDAD EN LA PRESTACIÓN DE LOS SERVICIOS DE ATENCIÓN MÉDICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 147.
 
-Para el cumplimiento de su objeto, en particular lo relacionado con la mejoría de los servicios de atención médica que se prestan a la población, la Comisión estará facultada para emitir recomendaciones derivadas de su intervención de oficio, por alguna de las causas siguientes:
+Para el cumplimiento de su objeto, en particular lo relacionado con la mejoría de los servicios de atención médica que se prestan a la población, la Comisión estará facultada para emitir recomendaciones derivadas de su intervención de oficio, en virtud de las medidas generales de salud, por alguna de las causas siguientes:
 
-I.- Probables actos u omisiones por parte de prestadores de servicios médicos, que siendo del conocimiento público se presuma podrán trascender los intereses de la sociedad o de algún sector de ésta, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+I.- Probables actos u omisiones por parte de prestadores de servicios médicos, que siendo del conocimiento público o que se presuma podrán trascender los intereses de la sociedad o de algún sector de ésta, y
 
 II.- Probables actos u omisiones por parte de los prestadores de servicios médicos, que siendo del conocimiento público o que se conozcan en el transcurso de tramitación de una inconformidad ante la Comisión, se presuma podrían poner en riesgo un servicio o un establecimiento en detrimento de la salud de la población usuaria.
 
@@ -1593,9 +1617,11 @@ II.- Probables actos u omisiones por parte de los prestadores de servicios médi
 
 Para la debida intervención a que se refiere el artículo anterior, la Comisión realizará las investigaciones que estime necesarias, pudiendo solicitar de manera directa información documental al prestador del servicio médico involucrado, incluidas las autoridades de los establecimientos en los que se presté el servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 149.
 
-El personal de la Comisión podrá asistir a los establecimientos médicos con el objeto de gestionar el auxilio para pacientes, especialmente en el evento de tener noticia de abandono médico o ante la negativa de cooperación del personal del establecimiento en que se encontrare.
+El personal de la Comisión podrá asistir a los establecimientos que brindan servicios de salud pública con el objeto de gestionar el auxilio para pacientes, especialmente en el evento de tener noticia de abandono médico o ante la negativa de cooperación del personal del establecimiento en que se encontrare, únicamente para el caso de urgencia médica calificada.
 
 Podrá requerir la colaboración de quien estime necesario, especialmente de los establecimientos médicos y autoridades más cercanas al lugar en que estuviere el enfermo. Las personas, establecimientos y autoridades requeridos estarán obligados a prestar auxilio inmediato, sin perjuicio de las acciones legales que resulten.
 
@@ -1658,3 +1684,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en el Palacio de Gobierno, el día 21 del mes de mayo del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL Y PRESIDENTE EJECUTIVO DE SERVICIOS DE SALUD DEL ESTADO, DR. JOSÉ SALAZAR AVIÑA. Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
