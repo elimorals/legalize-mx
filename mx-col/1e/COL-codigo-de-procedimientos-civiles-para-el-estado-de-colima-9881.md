@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2008-04-19"
+last_updated: "2008-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -375,19 +375,57 @@ III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la a
 
 ART. 33.- Las acciones duran lo que la obligación que representan, menos en los casos en que la ley señala distintos plazos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 34.- Intentada la acción y fijados los puntos cuestionados, no podrán modificarse ni alterarse, salvo en los casos en que la Ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obligan al que lo hizo a pagar las costas y daños y perjuicios a la contraparte, salvo convenio en contrario "o de que el desistimiento se haya producido antes del emplazamiento de la demanda".
+ART. 34.- Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse, salvo en los casos en que la Ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aún sin consentirlo el demandado. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obligan al que lo hizo a pagar las costas, así como daños y perjuicios a la contraparte, salvo convenio en contrario o que el desistimiento se haya producido antes del emplazamiento.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+La caducidad operará en todos los procedimientos, salvo los casos de excepción previstos en este Código, cuando no se hayan realizado actos procesales o las partes no hayan promovido para impulsar el procedimiento, durante los plazos establecidos en este artículo.
 
-La caducidad operara en el término de un año en primera instancia o de seis meses en segunda instancia, contados por días naturales, si dentro de dichos términos las partes no promueven la normal consecución de la misma.
+El juzgador declarará la caducidad de oficio o a petición de cualquiera de las partes, conforme a las normas siguientes:
+
+I.- En la primera instancia, cualquiera que sea el estado del juicio, desde el emplazamiento y hasta antes de la citación para sentencia, o en su caso, antes de iniciada la audiencia de pruebas y alegatos con citación para sentencia. En segunda instancia procederá hasta antes de la citación para resolución definitiva y en los incidentes, hasta antes de que se celebre la audiencia de pruebas y alegatos.
+
+II.- La caducidad de la primera instancia opera cuando hayan transcurrido ciento veinte días naturales, contados a partir de que haya surtido efectos la notificación de la última determinación judicial y no hubiere promoción de cualquiera de las partes dirigida a impulsar el procedimiento. La caducidad de la primera instancia produce el efecto de anular todos los actos procesales verificados, por lo que se tendrá por no presentada la demanda, pero no influye en forma alguna sobre las relaciones de derecho existentes entre las partes que hayan intervenido en el proceso; por consecuencia, se sobreseerá el procedimiento y las cosas volverán al estado que tenían antes de la presentación de la demanda, levantándose las medidas preparatorias, de aseguramiento y cautelares. También quedará sin efecto la interrupción de la prescripción operada por la presentación de la demanda. Caducada la instancia, caducarán los incidentes. Se exceptúan de la ineficacia referida las resoluciones firmes sobre competencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere. Las pruebas rendidas en el proceso extinguido por caducidad, podrán ser invocadas en el nuevo, si se promoviere, siempre que se ofrezcan y precisen en la forma establecida en este Código.
+
+III.- La caducidad de la segunda instancia operará si en el lapso de sesenta días naturales, contados a partir de que haya surtido efectos la notificación de la última determinación judicial, ninguna de las partes hubiere promovido impulsando el procedimiento y su efecto será dejar firmes las resoluciones impugnadas. Así lo declarará el Tribunal de alzada.
+
+IV.- La caducidad de los incidentes opera por el transcurso de sesenta días naturales contados a partir de que surta efectos la notificación de la última determinación judicial, sin promoción alguna de las partes. La declaración respectiva sólo afectará a las actuaciones del incidente sin comprender las de la instancia principal.
+
+V.- El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de éstas realizados ante autoridad judicial diversa, siempre que tengan relación inmediata y directa con la instancia. Las actuaciones o promociones de mero trámite que no impliquen ordenación o impulso del procedimiento, no se considerarán como actividad de las partes ni impedirán que opere la caducidad.
+
+VI.- Los Secretarios de Acuerdos deberán levantar la certificación respectiva en el expediente cuando hayan transcurrido los lapsos previstos en este artículo para que opere la caducidad, dando cuenta de ello al juzgador que conoce del juicio, el cual dará vista a las partes por el plazo de tres días, con el objeto de que expongan lo que a su derecho convenga. Si ambas partes manifiestan su conformidad con que el proceso continúe, el Juez declarará la validez de las actuaciones y el juicio seguirá por sus trámites. En el caso contrario, decretará la caducidad del procedimiento.
+
+VII.- Las costas serán a cargo del actor cuando la caducidad se decrete en la primera instancia, salvo convenio en contrario. Serán compensables con las que corran a cargo del demandado en los casos previstos por la Ley y además, en aquellos en que opusiere reconvención, compensación, nulidad y, en general, las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
+
+VIII.- Las costas serán a cargo de la parte que haya promovido el incidente o interpuesto el recurso, cuando se decrete la caducidad de un incidente o de la segunda instancia, respectivamente.
+
+IX.- La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del proceso tiene lugar:
+
+a) Cuando por fuerza mayor el Juez o las partes no puedan actuar;
+
+b) En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por el mismo Juez o por otras autoridades;
+
+c) Cuando se pruebe ante el Juez en incidente que se consumó la caducidad por maquinaciones dolosas de una de las partes en perjuicio de la otra; y
+
+d) En los demás casos previstos por la Ley.
+
+X.- No tendrá lugar la declaración de caducidad:
+
+a) En los juicios universales de concurso y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquéllos surjan o por ellos se motive;
+
+b) En las actuaciones de jurisdicción voluntaria;
+
+c) En los juicios de alimentos y en los relativos a derechos de menores e incapaces, y
+
+d) En los juicios seguidos ante la justicia de paz.
+
+XI.- El auto que niega la caducidad de la instancia es apelable en efecto devolutivo.
 
 ### CAPITULO II. De las excepciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 35.- Son excepciones las siguientes:
+ART. 35.- Son excepciones procesales las siguientes:
 
 I.- La incompetencia del juez;
 
@@ -395,53 +433,105 @@ II.- La litispendencia;
 
 III.- La conexidad de la causa;
 
-IV.- La falta de personalidad o de capacidad en el actor;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-V.- La falta de cumplimiento del plazo o de la condición a que esté sujeta la acción intentada;
+IV.- La falta de personalidad o capacidad del actor o del demandado;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+V.- La falta de cumplimiento del plazo o de la condición a que esté sujeta la obligación;
 
 VI.- La división;
 
-VII.- La excusión;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-VIII.- Las demás a que dieren ese carácter las leyes.
+VII.- El orden o la excusión;
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 36.- En los juicios ordinarios sólo formarán artículo de previo y especial pronunciamiento la incompetencia, la litispendencia, la conexidad y la falta de personalidad "o capacidad en el actor o el demandado, quedando en suspenso el juicio principal hasta que se resuelvan estas excepciones, las cuales se tramitarán como incidentes". En los juicios sumarios sólo impedirán el curso del juicio la incompetencia y la falta de personalidad en el actor "o el demandado".
+VIII.- La improcedencia de la vía;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2008)</small>
+
+IX.- La cosa juzgada, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2008)</small>
+
+X.- Las demás a las que les den ese carácter las Leyes.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Todas las excepciones procesales que tenga el demandado debe hacerlas valer al contestar la demanda, y en ningún caso suspenderán el procedimiento.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 36.- La excepción de litispendencia procede cuando un Juez conoce ya de un mismo juicio, en el que hay identidad entre las acciones deducidas, los objetos reclamados y las partes, siempre y cuando éstas litiguen con el mismo carácter.
+
+El que la oponga debe señalar precisamente el juzgado donde se tramita el primer juicio y acompañar copia certificada de las constancias correspondientes, sin perjuicio de que el Juez pueda solicitar que se le remitan las actuaciones que considere necesarias.
+
+Si ambos juzgados se encuentran en la jurisdicción del mismo Tribunal de apelación y la excepción de litispendencia se declara procedente, el juicio posterior se sobreseerá y se remitirán los autos al juzgado que previno en el conocimiento del negocio, para que se acumulen y se tramiten como uno, decidiéndose en una sola sentencia.
+
+Cuando los juzgados se hallen en distinta jurisdicción del Tribunal de apelación, declarada procedente la litispendencia, se dará por concluido el segundo procedimiento.
 
 ART. 37.- La incompetencia puede promoverse por declinatoria o por inhibitoria que se substanciará conforme al capítulo III, título III.
 
-ART. 38.- La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el cual es demandado el reo. El que la oponga debe señalar precisamente el juzgado donde se tramita el primer juicio. Del escrito en que se oponga se dará traslado por tres días a la contraria y el juez dictará resolución dentro de las 24 horas siguientes, pudiendo previamente mandar inspeccionar el primer juicio. Si se declara procedente, se remitirán los autos al juzgado que primero conoció del negocio cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluído el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 39.- La excepción de conexidad tiene por objeto la remisión de los autos en que se opone al juzgado que primeramente previno en el conocimiento de la causa conexa. Hay conexidad de causas cuando hay identidad de personas y acciones, aunque las cosas sean distintas; y cuando las acciones provengan de una misma causa.
+ART. 38.- Hay conexidad entre dos procesos y procede la acumulación de autos, cuando existan:
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+I.- Identidad de personas y acciones, aunque las cosas sean distintas;
 
-ART. 40.- No procede la excepción de conexidad:
+II.- Identidad de personas y de cosas, aunque las acciones sean distintas;
 
-I.- Cuando los pleitos estén en diversas instancias.
+III.- Acciones que provengan de una misma causa, aunque sean diversas las personas y las cosas, y
 
-II.- Cuando los juzgados que conozcan respectivamente de los juicios, pertenezcan a tribunales de alzada diferente.
+IV.- Identidad de acciones y de cosas, aunque las personas sean distintas.
 
-ART. 41.- La parte que oponga la excepción de conexidad acompañará con su escrito copia autorizada de la demanda y contestación que iniciaron el juicio conexo, y con esta prueba y la contestación de la parte contraria, que producirá dentro del tercer día, el juez fallará dentro de las veinticuatro horas siguientes.
+El que oponga la conexidad debe señalar precisamente el juzgado donde se tramita el juicio conexo y acompañar copia autorizada de las constancias respectivas, sin perjuicio de que el Juez podrá solicitar que se le remitan las que estime pertinentes.
 
-ART. 42.- En las excepciones de litispendencia y conexidad, la inspección de los autos será también prueba bastante para su procedencia.
+Salvo disposición en contrario, si se declarara procedente la conexidad, su efecto será la acumulación de autos, con el fin de que se resuelvan los juicios en una sola sentencia.
 
-Procedente la excepción de conexidad, se mandarán acumular los autos del juicio al más antiguo para que, aunque se sigan por cuerda separada, se resuelvan en una misma sentencia.
+No procede la excepción de conexidad cuando los juzgados que conozcan de los juicios pertenezcan a tribunales de Alzada diferentes, cuando los juicios estén en diversas instancias o se trate de procesos que se ventilan en el extranjero.
 
-ART. 43.- Las excepciones de falta de personalidad y capacidad se substanciarán como incidentes.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 39.- De oficio, o cuando se declare fundada la excepción de falta de personalidad del actor o la objeción respecto de la personalidad del que represente al demandado, el Tribunal concederá un plazo no mayor de diez días para que se subsane, cuando fuere posible. De no hacerse así, el Juez de inmediato sobreseerá el juicio y devolverá los documentos.
+
+La falta de capacidad del actor obliga al Juez a sobreseer el juicio.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 40.- Cuando se declare la improcedencia de la vía, su efecto será el de continuar el procedimiento para el trámite del juicio en la vía que el Juez considere procedente, declarando la validez de lo actuado, con la obligación del Juez para regularizar el procedimiento de acuerdo a la vía que se declare procedente.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 41.- Las excepciones de falta de cumplimiento del plazo, o de la condición a que esté sujeta la obligación, el orden o la excusión y la división, si se allana la contraria, se declararán procedentes de plano. De no ser así, se resolverán de modo incidental y, si son procedentes, su efecto será dejar a salvo el derecho para que se haga valer cuando cambien las circunstancias que afectan su ejercicio.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 42.- Salvo la competencia del órgano jurisdiccional, las demás excepciones procesales se tramitarán en la vía incidental.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 43.- Sólo se admitirán como pruebas para demostrar las excepciones procesales la documental y la pericial.
 
 ## TITULO SEGUNDO. Reglas generales
 
 ### CAPITULO I. De la capacidad y personalidad
 
-ART. 44.- Todo el que, conforme a la ley, esté en el pleno ejercicio de sus derechos civiles puede comparecer en juicio.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 44.- Salvo disposición expresa que señale alguna otra excepción como procesal, las demás defensas y excepciones que se opongan se resolverán en la sentencia definitiva.
 
 ART. 45.- Por los que no se hallen en el caso del artículo anterior comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el título XI, Libro Primero del Código Civil.
 
 ART. 46.- Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o por medio de procurador con poder bastante.
 
-ART. 47.- El tribunal examinará la personalidad de las partes bajo su responsabilidad; esto no obstante, el litigante tiene derecho de impugnarla cuando tenga razones para ello. Contra el auto en que el juez desconozca la personalidad del actor negándose a dar curso a la demanda, se da la queja.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 47.- El Tribunal examinará la personalidad de las partes bajo su responsabilidad, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, sin perjuicio de lo dispuesto por el artículo 39 de este Código.
+
+Contra el auto en que el Juez desconozca la personalidad del actor negándose a dar curso a la demanda y la resolución que se dicte en el incidente de falta de personalidad, procede la apelación en el efecto devolutivo, de tramitación inmediata.
 
 ART. 48.- El que no estuviere presente en el lugar del juicio, ni tuviere persona que legítimamente lo represente, será citado en la forma prescrita en el capítulo IV de este título; pero si la diligencia de que se trata fuere urgente o perjudicial la dilación, a juicio del tribunal, el ausente será representado por el Ministerio Público.
 
@@ -527,9 +617,9 @@ Quedan los jueces facultados para investigar de oficio la existencia de los auto
 
 ART. 71.- Para sacar copia o testimonio certificado de cualquier constancia o actuación que obre en un juicio, así como en los archivos o protocolos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y petición de parte interesada en el juicio, previo pago de los derechos que al fisco estatal correspondan.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 72.- Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de mandarlos hacer saber a la otra parte, ni formar artículo, aunque sí deberán hacer constar el en qué consiste su frivolidad o improcedencia. En caso de insistencia infundada del recurrente consignarán el hecho al Agente del Ministerio Público para que se apliquen las sanciones del Código Penal.
+ART. 72.- Los tribunales no admitirán recursos ni incidentes notoriamente intrascendentes o improcedentes; los desecharán de plano, exponiendo los fundamentos y motivos correspondientes, e impondrán multa de una a veinte unidades de salario mínimo vigente en la región, solidariamente al promovente y al autorizado legal.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -843,7 +933,9 @@ ART. 143.- La competencia de los tribunales se determinará por la materia, la c
 
 ART. 144.- Ningún tribunal puede negarse a conocer de un asunto sino por considerarse incompetente. En este caso debe expresar en su resolución los fundamentos legales en que se apoye.
 
-ART. 145.- Ningún juez puede sostener competencia con un tribunal superior bajo cuya jurisdicción se halle, pero si con otro tribunal que, aunque sea superior en su clase, no ejerza jurisdicción sobre él.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 145.- Ningún órgano jurisdiccional puede sostener competencia con un Tribunal de grado superior bajo cuya jerarquía se halle, pero sí con otro que, aunque sea superior en grado, no ejerza jurisdicción sobre el mismo.
 
 ART. 146.- El tribunal que reconozca la jurisdicción de otro por providencia expresa, no puede sostener su competencia.
 
@@ -851,13 +943,21 @@ Si el acto del reconocimiento consiste sólo en la cumplimentación de un exhort
 
 ART. 147.- Las partes pueden desistirse de seguir sosteniendo la competencia de un tribunal, antes o después de la remisión de los autos al superior, si se trata de jurisdicción territorial.
 
-ART. 148.- La jurisdicción por razón del territorio es la única que se puede prorrogar. Se exceptúa el caso en que, conociendo el Tribunal Superior de apelación contra interlocutoria, resuelta que sea, las partes estén de acuerdo en que conozca de la cuestión principal. El juicio se tramitará conforme a las reglas de su clase, prosiguiéndose éste ante el Superior.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 148.- Las competencias por razón del territorio y materia son las únicas que se pueden prorrogar, salvo que correspondan al fuero federal.
+
+La competencia por razón de materia, únicamente es prorrogable cuando se trate de asuntos de naturaleza civil y familiar y en aquellos casos en que las prestaciones tengan íntima conexión entre sí, o por los nexos entre las personas que litiguen, sea por razón de parentesco, negocios, sociedad o similares, o deriven de la misma causa de pedir, sin que para que opere la prórroga de competencia en las materias señaladas, sea necesario convenio entre las partes o dé lugar a excepción sobre el particular. En consecuencia, ningún Tribunal podrá abstenerse de conocer de asuntos de esa naturaleza argumentando falta de competencia por materia.
+
+También será prorrogable la competencia en caso de que, conociendo el Tribunal superior de una apelación contra auto o interlocutoria, las partes estén de acuerdo en que conozca de la cuestión principal. El juicio se seguirá tramitando conforme a las reglas aplicables al procedimiento de que se trate, prosiguiéndose éste ante el Superior.
 
 ART. 149.- Si el juez deja de conocer por recusación o excusa, conocerá el que siga en número si lo hubiere en el partido judicial; si no lo hubiere, se observará lo que dispone la Ley Orgánica del Poder Judicial.
 
 ART. 150.- Es juez competente aquel al que los litigantes se hubieren sometido expresa o tácitamente, cuando se trate del fuero renunciable.
 
-ART. 151.- Hay sumisión expresa cuando los interesados renuncian clara y terminantemente al fuero que la ley les concede y designan con toda precisión al juez a quien se someten.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 151.- Hay sumisión expresa cuando medie acuerdo por escrito referido a un asunto determinado, en el cual los interesados renuncien clara y terminantemente al fuero que la ley les concede, y se sujeten a la competencia del Juez en turno del ramo correspondiente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2007)</small>
 
@@ -879,15 +979,19 @@ III.- El que habiendo promovido una competencia se desiste de ella;
 
 IV.- El tercer opositor y el que por cualquier motivo viniere al juicio.
 
-ART. 153.- Es nulo lo actuado por el juez que fuere declarado incompetente. Salvo:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-I.- Lo dispuesto en el artículo 162 in fine;
+ART. 153.- Es nulo todo lo actuado por el Juez que fuere declarado incompetente, salvo:
 
-II.- Cuando la incompetencia sea por razón del territorio y convengan las partes en la validez;
+I.- La demanda, la contestación a la demanda, la reconvención y su contestación, si las hubo, las que se tendrán como presentadas ante el Juez en que reconocida una incompetencia, sea declarado competente;
 
-III.- Si se trata de incompetencia sobrevenida, y
+II.- Las actuaciones relativas al conflicto competencial, o aquellas por las que se decrete de oficio;
 
-IV.- Los casos que la ley lo exceptúe.
+III.- Cuando la incompetencia sea por razón del territorio o convengan las partes en su validez;
+
+IV.- Que se trate de incompetencia sobrevenida. En este caso la nulidad sólo opera a partir del momento en que sobreviene la falta de competencia, y
+
+V.- Los demás casos en que la ley lo exceptúe.
 
 ART. 154.- La nulidad a que se refiere el artículo anterior es de pleno derecho y, por tanto, no requiere declaración judicial.
 
@@ -899,25 +1003,37 @@ Los tribunales declarados competentes harán que las cosas se restituyan al esta
 
 ART. 155.- Es juez competente:
 
-I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
+I.- El del lugar que el demandado haya señalado para ser requerido judicialmente de pago;
 
-II.- El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el anterior, surte el fuero no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más partidos, será a prevención;
+II.- El del lugar convenido en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el previsto en el inciso anterior surte el fuero no sólo para la ejecución y cumplimiento del contrato, sino para la rescisión, nulidad o cualesquiera otras pretensiones conexas;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Si los bienes estuvieren situados en o abarcaren dos o más partidos judiciales, será competente el que prevenga en el conocimiento del negocio;
 
 IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil.
 
-Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de los bienes raíces que formen la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
+Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el Juez del domicilio que escoja el actor, que se encuentre en turno;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+V.- En los juicios sucesorios, el Juez en cuya jurisdicción haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de bienes raíces que forman la herencia; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
 VI.- Aquel en cuyo territorio radica un juicio sucesorio para conocer:
 
-a).- De las acciones de petición de herencia;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
+a) De las acciones de petición de herencia y de las que versen sobre impugnación y nulidad de testamento;
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+b) De las acciones que se promuevan contra la sucesión antes de la partición y adjudicación de los bienes;
 
 c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
@@ -931,17 +1047,31 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 
-XII.- En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 156.- Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor. Los réditos, daños o perjuicios no serán tenidos en consideración, si son posteriores a la presentación de la demanda, aún cuando se reclame en ella.
+XII.- En los juicios de divorcio, el Tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado; y
 
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2008)</small>
+
+XIII.- En los juicios de alimentos, el domicilio del actor o del demandado a elección del primero.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 156.- Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. No así el importe de los réditos, daños y perjuicios y demás accesorios reclamados, salvo que se encuentren en condición de liquidez al presentarse la demanda.
+
+Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se trate de prestaciones vencidas, en cuyo caso éstas se tomarán como base para fijar la cuantía.
+
+Si fueren varios los actores o se exigiera pluralidad de prestaciones de carácter principal, el monto se determinará por la totalidad de lo reclamado.
 
 ART. 157.- En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que tenga. Si se trata de usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma. Pero de los interdictos conocerán siempre los jueces de primera instancia de la ubicación de la cosa.
 
 ART. 158.- De las cuestiones sobre estado o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los jueces de primera instancia.
 
-ART. 159.- En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero no la inversa.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 159.- El Juez que conozca de la demanda principal es competente para conocer de la reconvención, cualquiera que sea la materia de ésta.
+
+Si el valor de la reconvención es inferior a la cuantía de la competencia del Juez que conoce de la demanda principal, seguirá conociendo éste, pero no a la inversa.
 
 ART. 160.- Las cuestiones de tercería deben substanciarse y decidirse por el juez que sea competente para conocer del asunto principal. Cuando el interés de la tercería que se interponga exceda del que la ley somete a la competencia del juez que está conociendo del negocio principal, se remitirá lo actuado en éste y la tercería al que designe el tercer opositor y sea competente para conocer de la cuestión por razón de la materia del interés mayor y del territorio
 
@@ -951,37 +1081,73 @@ En las providencias precautorias regirá lo dispuesto en el párrafo anterior. S
 
 ### CAPITULO III. De la substanciación y decisión de las competencias
 
-ART. 162.- Las cuestiones de competencia podrán promoverse por inhibitoria o por declinatoria.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-La inhibitoria se intentará ante el juez a quien se considera competente, pidiéndole que dirija oficio al que se estima no serlo, para que se inhiba y remita los autos.
+ART. 162.- Salvo los casos de prórroga autorizados por este Código, si el Tribunal estimare que es incompetente lo declarará de oficio en el primer proveído que dicte respecto de la demanda principal, o de la reconvención por lo que hace a la cuantía, ordenando remitir el expediente al Tribunal que a su juicio le corresponda conocer del asunto. Esta resolución es apelable en efecto devolutivo, de tramitación inmediata.
 
-La declinatoria se propondrá ante el juez a quien se considere incompetente pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. Se substanciará conforme al capítulo I del título sexto.
+Las partes podrán promover la incompetencia del Juez por inhibitoria o por declinatoria.
 
-En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
+La inhibitoria se intentará ante el Juez a quien se considere competente, dentro del término de nueve días contados a partir de la fecha del emplazamiento, pidiéndole que dirija oficio al que se estima que no lo es, para que se inhiba y remita los autos al órgano requirente, si éste acepta tener la competencia.
 
-ART. 163.- Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la jurisdicción del tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
+La declinatoria se propondrá ante el Juez que se considere incompetente, precisamente en el escrito de contestación a la demanda, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente.
 
-También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cual haya de ser el juez o tribunal que deba conocer de un asunto.
+Aunque el trámite de la inhibitoria o la declinatoria no suspende el procedimiento, el Juez no podrá dictar sentencia definitiva hasta en tanto se determine por resolución firme el juzgado al cual le corresponde conocer del asunto.
 
-ART. 164.- Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá al superior a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-Una vez recibidos los autos por dicho tribunal, citará a las partes y al Ministerio Público a una audiencia de pruebas y alegatos, que se efectuará dentro del tercer día, y en ella pronunciará resolución.
+ART. 163.- En caso de que la parte que se estima afectada no promueva cuestión de competencia alguna dentro de los términos señalados, se considerará sometido a la del Juez que lo emplazó y perderá todo derecho para impugnarla.
 
-ART. 165.- El juez ante quien se promueva la inhibitoria mandará librar oficio requiriendo al juez que estime incompetente para que se abstenga de conocer del negocio, y remitirá desde luego las actuaciones respectivas al superior, haciéndolo saber al interesado.
+Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la jurisdicción del Tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
 
-Luego que el juez requerido reciba el oficio inhibitorio acordará la suspensión del procedimiento y remitirá, a su vez, los autos originales al superior con citación de las partes.
+También se desechará de plano cualquier competencia promovida que no tenga por objeto determinar el Juez o Tribunal que deba conocer de un asunto.
 
-Recibidos los autos en el tribunal que debe decidir la competencia, citará a las partes y al Ministerio Público a una audiencia verbal dentro de los tres días siguientes al de la citación, en la que recibirá pruebas y alegatos y pronunciará resolución.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-Decidida la competencia enviará los autos al juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al juez contendiente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
+ART. 164.- El Tribunal requerido, dentro de los cinco días siguientes al en que reciba el oficio inhibitorio, decidirá si acepta o no la inhibitoria. Si las partes estuvieren conformes al ser notificadas del proveído que acepte la inhibición, remitirá los autos al Tribunal requirente. En cualquier otro caso, remitirá testimonio de los autos al Pleno del Supremo Tribunal de Justicia, comunicándolo así al requirente, para que proceda de la misma manera.
 
-ART. 166.- El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlo sucesivamente.
+Una vez recibidos los autos por el Pleno del Supremo Tribunal de Justicia, se pondrán a la vista de ambas partes, por el término de tres días para que ofrezcan pruebas o aleguen lo que a su interés convenga.
 
-Cuando no proceda la inhibitoria debe pagar las costas el que la promovió y una multa hasta de $300.00 que, según la importancia del negocio, le impondrá el superior en favor del colitigante.
+En el caso de que se ofrezcan pruebas y éstas sean admitidas, se mandarán preparar y se fijará fecha para que, dentro de los diez días siguientes, tenga lugar una audiencia, en la cual se desahogarán pruebas y se formularán alegatos. La resolución deberá pronunciarse y notificarse dentro del término de ocho días.
 
-ART. 167.- Todo tribunal está obligado a suspender sus procedimientos luego que expida la inhibitoria, o luego que en su caso la reciba, Igualmente suspenderá sus procedimientos al promoverse la declinatoria.
+Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, el Pleno del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
 
-ART. 168.- La infracción del artículo anterior producirá la nulidad de lo actuado. En este caso, el tribunal será responsable de los daños y perjuicios originados a las partes, e incurrirá en la pena que señala la ley.
+Los autos se remitirán al Juez declarado competente, con testimonio de la sentencia, del cual se remitirá otro tanto al Juez contendiente. Contra la resolución dictada por el Pleno del Supremo Tribunal de Justicia es procedente el recurso de responsabilidad.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 165.- La declinatoria de competencia se propondrá ante el Juez, pidiéndole se abstenga de conocer del negocio.
+
+El juzgador ordenará correr traslado a la parte actora con copia del escrito en el que la parte demandada interponga la excepción de incompetencia por declinatoria, para que en un plazo de tres días manifieste lo que a su derecho convenga. Dentro de los cinco días siguientes al vencimiento del plazo anterior, el juzgador dictará resolución sobre la excepción de incompetencia. Si el juzgador sostiene ésta, continuará conociendo del proceso; en el caso contrario, remitirá el expediente al Juez que considere competente, el cual dentro de los cinco días siguientes resolverá si estima o no que lo es. Si este último se declara incompetente, remitirá testimonio del expediente al Pleno del Supremo Tribunal de Justicia, para que determine cuál es el juzgador competente para continuar conociendo del proceso.
+
+Recibido por el Pleno del Tribunal el testimonio de las constancias procesales, lo pondrá a la vista de las partes para que éstas dentro del término de tres días ofrezcan pruebas o aleguen lo que a su interés convenga.
+
+En el caso de que se ofrezcan pruebas y éstas sean admitidas, se mandarán preparar y se fijará fecha para que, dentro de los diez días siguientes, tenga lugar una audiencia, en la cual se desahogarán pruebas y se formularán alegatos. La resolución deberá pronunciarse y notificarse dentro del término de ocho días.
+
+Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, el Pleno del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
+
+Decidida la competencia, el Pleno del Tribunal lo comunicará al Juez ante quien se promovió la declinatoria, y en su caso, al que se declare competente.
+
+Si la declinatoria se declara improcedente, el Pleno del Tribunal lo comunicará al Juez.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 166.- Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá, dentro del término de seis días, ante el Pleno del Supremo Tribunal de Justicia, a fin de que ordene a los que se niegan a conocer que en el término de tres días, le envíen los expedientes originales en que se contengan sus respectivas resoluciones.
+
+Una vez recibidos los autos por el Tribunal, los pondrá a la vista del peticionario, o en su caso de ambas partes, por el término de tres días para que ofrezcan pruebas o aleguen lo que a su interés convenga.
+
+En el caso de que se ofrezcan pruebas y éstas se admitan se mandarán preparar y se fijará fecha para que, dentro de los diez días siguientes, tenga lugar una audiencia, en la cual se desahogarán pruebas y se formularán alegatos. La resolución deberá pronunciarse y notificarse dentro del término de ocho días.
+
+Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, el Pleno del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 167.- El litigante que hubiere optado por uno de los dos medios de promover una incompetencia, no podrá abandonarlo y recurrir al otro, ni tampoco emplearlos sucesivamente.
+
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa equivalente hasta de veinte días de salario mínimo general vigente en el Estado a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, siempre que a juicio del Juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 168.- Las resoluciones en las que los juzgadores sostengan o admitan su competencia serán impugnables a través del Recurso de Apelación, el cual se admitirá en el efecto devolutivo, de tramitación inmediata.
 
 ### CAPITULO I. De los impedimentos y excusas
 
@@ -1107,7 +1273,9 @@ ART. 193.- Al pedirse la diligencia preparatoria debe expresarse el motivo por q
 
 ART. 194.- El juez puede disponer lo que crea conveniente, ya para cerciorarse de la personalidad del que solicita la diligencia preparatoria, ya de la urgencia de examinar a los testigos.
 
-Contra la resolución que conceda la diligencia preparatoria no habrá ningún recurso. Contra la resolución que la niegue habrá el de apelación en ambos efectos, si fuere apelable la sentencia del juicio que se prepara o que se teme.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Contra la resolución que conceda la diligencia preparatoria no habrá ningún Recurso. Contra la resolución que la niegue habrá el de Apelación en efecto suspensivo, si fuere apelable la sentencia del juicio que se prepara o que se teme.
 
 ART. 195.- La acción que puede ejercitarse conforme a las fracciones II, III y IV del artículo 192 procede contra cualquiera persona que tenga en su poder las cosas que en ella se mencionan.
 
@@ -1375,7 +1543,9 @@ VII.- El valor de lo demandado si de ello depende la competencia del juez.
 
 ART. 255.- Presentada la demanda con los documentos y copias prevenidos, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días.
 
-ART. 256.- Si la demanda fuere obscura o irregular, el juez debe prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos; hecho lo cual le dará curso. El juez puede hacer esta prevención por una sola vez y verbalmente. Si no le da curso, podrá el promovente acudir en queja al superior.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 256.- Si la demanda fuere obscura o irregular, el Juez debe prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos, hecho lo cual le dará curso. El Juez puede hacer esta prevención por una sola vez y verbalmente. Si no le da curso, será procedente la Apelación en efecto devolutivo, de tramitación inmediata.
 
 ART. 257.- Los efectos de la presentación de la demanda son: interrumpir la prescripción si no lo está por otros medios, señalar el principio de la instancia y determinar el valor de las prestaciones exigidas, cuando no pueda referirse a otro tiempo.
 
@@ -1403,13 +1573,9 @@ ART. 260.- Las excepciones y la reconvención se discutirán al propio tiempo y 
 
 EXCEPCIONES DILATORIAS
 
-ART. 261.- Si entre las excepciones opuestas hubiere de previo y especial pronunciamiento, se substanciarán dejando en suspenso el principal. Resueltas que sean, continuará en su caso el curso del juicio.
+ART. 261.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
-
-La declinatoria de jurisdicción se propondrá ante el juez pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá, desde luego, los autos a su inmediato superior, emplazando a los interesados para que en un término de diez días comparezcan ante éste, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes y del Ministerio Público, resolverá la cuestión y mandará sin retardo los autos al juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso la demanda y la contestación se tendrán como presentadas ante éste.
-
-ART. 262.- Cuando no proceda la declinatoria, debe pagar las costas causadas el que la promovió y una multa hasta de trescientos pesos que, según la importancia del litigio, le impondrá el superior en favor del colitigante.
+ART. 262.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
 ART. 263.- Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, que no fué de previo pronunciamiento, se abstendrá el juez de fallar la cuestión principal, reservando el derecho del acto.
 
@@ -1433,31 +1599,35 @@ ART. 270.- Transcurrido el término del emplazamiento sin haber sido contestada 
 
 Se presumen confesados los hechos de la demanda que se dejó de contestar.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 271.- El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después, dándose traslado del escrito al actor, en el caso de admitirse su procedencia a trámite, para que lo conteste en el término de seis días. Si el reconvenido no contesta dentro de dicho término, se le declarará rebelde, procediéndose en lo demás en los mismos términos señalados por el Artículo anterior.
+ART. 271.- El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después, dándose traslado del escrito al actor y los litisconsortes que se adviertan en la reconvención, en el caso de admitirse su procedencia a trámite, para que lo conteste en el término de seis días. Si el reconvenido no contesta dentro de dicho término, se le declarará rebelde, procediéndose en lo demás en los mismos términos señalados por el artículo anterior.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 272.- Las excepciones supervenientes se harán valer hasta antes de citación para sentencia y dentro del tercer día de que de ella tenga conocimiento la parte interesada. Se substanciará en forma incidental y su resolución se reservará para la sentencia definitiva.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 273.- Confesada la demanda en todas sus partes o manifestando el actor su conformidad con la contestación a ella, se pronunciará sentencia definitiva.
+ART. 273.- Cuando el demandado se allane a la demanda o admita que son ciertos los hechos afirmados en la misma, y no se haga valer compensación o reconvención, previa ratificación ante la presencia judicial, el juzgador mandará citar a las partes para oír sentencia definitiva, excepto cuando se trate de juicios del orden familiar y del estado civil, se controviertan derechos irrenunciables, la sentencia por dictarse manifiestamente deba surtir efectos frente a terceros que no han litigado o la Ley así lo disponga.
+
+Se procederá de igual manera cuando el actor manifieste su conformidad con la contestación a la demanda.
+
+La citación para sentencia se hará precisamente en el auto que provea la contestación a la demanda.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 274.- Sólo podrán oponerse excepciones o defensas contradictorias cuando se hagan con el carácter de subsidiarias.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 275.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará a las partes para sentencia definitiva, la que se pronunciará dentro del término legal.
+ART. 275.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, salvo lo dispuesto para el derecho extranjero, el juzgador otorgará a las partes un plazo común de tres días para que aleguen y dictará sentencia definitiva.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 276.- El juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado o de que él lo estime necesario, pronunciando al efecto y en forma expresa el auto correspondiente.
+ART. 276.- Transcurrido el término para contestar la demanda o la reconvención, el Juez abrirá el juicio a prueba, cuando se requiera, pronunciando al efecto y en forma expresa el auto correspondiente.
 
-El auto que manda abrir a prueba un juicio será apelable en el sólo efecto devolutivo. El que niegue será revocable.
+El auto que niegue o mande abrir el juicio a prueba será revocable.
 
 ## TITULO SEXTO. Del juicio ordinario
 
@@ -1465,13 +1635,43 @@ El auto que manda abrir a prueba un juicio será apelable en el sólo efecto dev
 
 Reglas generales
 
-ART. 277.- Para conocer la verdad sobre los puntos controvertidos puede el juzgador valerse de cualquier persona, sea parte o tercero, y de cualquiera cosa o documento, ya sea que pertenezca las partes o a un tercero; sin más limitación que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 277.- Para conocer la verdad sobre los puntos controvertidos, el juzgador tendrá las siguientes facultades, independientemente de la carga de la prueba impuesta a las partes conforme a este Capítulo:
+
+I.- Examinar a cualquier persona, sea parte o tercero, o valerse de cualesquiera cosas o documentos, ya sea que pertenezcan a las partes o a un tercero, sin más limitación que la de que las pruebas no estén prohibidas, y de que si se trata de tercero, se procure armonizar el interés de la justicia con el respeto que merecen sus derechos.
+
+II.- Decretar en todo tiempo, sea cual fuere la naturaleza del negocio, la práctica o ampliación de cualquier diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados. En la práctica de estas diligencias, el juzgador obrará como estime procedente para obtener el mejor resultado, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
+
+III.- Examinar documentos, objetos y lugares, o hacerlas reconocer por peritos; y
+
+IV.- En general, practicar cualquier diligencia que, a su juicio, sea necesaria para el esclarecimiento de la verdad.
+
+Para los tribunales no rigen las limitaciones y prohibiciones establecidas en relación con las partes en materia de prueba.
 
 ART. 278.- Los tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del negocio, la práctica o ampliación de cualquiera diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados. En la práctica de estas diligencias, el juez obrará como estime procedente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes oyéndolas y procurando en todo su igualdad.
 
-ART. 279.- Los daños y perjuicios que se ocasionen a tercero por comparecer, o exhibir cosas, serán indemnizados por la parte que ofreció la prueba, o por ambas si el juez procedió de oficio, sin perjuicio de hacer la regulación de costas en su oportunidad.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 280.- El actor debe probar los hechos constitutivos de su acción y el reo los de sus excepciones.
+ART. 279.- Los daños y perjuicios que se ocasionen a terceros por comparecer o exhibir alguna cosa, serán indemnizados por la parte que ofreció la prueba, o por ambas si el juzgador procedió de oficio.
+
+La indemnización, en caso de reclamación, se determinará a través del procedimiento incidental.
+
+Cada parte cubrirá los gastos que originen las pruebas que ofrezca. Ambas partes, las ordenadas por el juzgador.
+
+Cada parte deberá pagar los gastos y honorarios de los peritos que designe. El designado en rebeldía será pagado por la parte que ofreció la prueba y el tercero en discordia, por ambas partes.
+
+Las reglas establecidas en este artículo, se aplicarán sin perjuicio de lo que ordene la sentencia definitiva respecto a gastos y costas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 280.- Las partes tienen la carga de demostrar sus respectivas proposiciones de hecho.
+
+Quien pretende algo ha de probar los hechos constitutivos de su acción; quien contradice la pretensión del adversario, ha de probar los hechos extintivos o las circunstancias impeditivas de esa pretensión.
+
+El que funda su derecho en una regla general no necesita probar que su caso siguió ésta, pero quien alegue que está en la excepción, debe probarlo.
+
+En caso de que exista duda respecto de la atribución de la carga de la prueba, ésta debe ser rendida por la parte que se encuentre en circunstancias de mayor facilidad para proporcionarla o, si esto no pudiera determinarse, corresponderá a quien sea favorable el efecto jurídico del hecho que deba probarse.
 
 ART. 281.- El que niega sólo será obligado a probar:
 
@@ -1483,27 +1683,51 @@ III.- Cuando se desconozca la capacidad;
 
 IV.- Cuando la negativa fuere elemento constitutivo de la acción.
 
-ART. 282.- Ni la prueba en general ni los medios de prueba establecidos por la ley son renunciables.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 283.- Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en leyes extranjeras o en usos, costumbres o jurisprudencia.
+ART. 282.- Las partes no pueden renunciar anticipadamente a la fase probatoria, ni a ofrecer las pruebas autorizadas por la ley.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+No obstante lo dispuesto en el artículo anterior, las partes podrán solicitar que se falle el juicio sin más pruebas que las documentales que, en su caso, hayan ofrecido con los escritos de demanda y contestación, en cuyo caso, el juzgador otorgará a las partes un plazo común de tres días para que aleguen y dictará sentencia definitiva.
 
-ART. 284.- El Tribunal debe recibir las pruebas que le presenten las partes, siempre que estén permitidas por la Ley y se refieran a los puntos cuestionados.
+Las partes podrán desistirse de la práctica de las pruebas que estén pendientes de recepción, a fin de que el procedimiento continúe por sus demás trámites, pero no podrán hacerlo una vez que han sido desahogadas.
 
-El auto en que se admita una prueba no es recurrible; el que la deseche es apelable en el efecto devolutivo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 283.- Serán objeto de prueba los hechos controvertidos por las partes en los escritos que fijan el debate. El derecho lo estará únicamente cuando se funde en leyes extranjeras o en usos, costumbres o jurisprudencia.
+
+El Tribunal aplicará el derecho extranjero tal como lo harían los jueces o tribunales del Estado cuyo derecho resultare aplicable, sin perjuicio de que las partes puedan alegar su existencia y contenido.
+
+Para informarse del texto, vigencia, sentido y alcance del derecho extranjero, el Tribunal podrá valerse de informes oficiales al respecto, que rindan funcionarios facultados del Servicio Exterior Mexicano, o bien ordenar las diligencias probatorias que considere necesarias o admitir las que ofrezcan las partes.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 284.- El Tribunal debe recibir las pruebas que le presenten las partes siempre que estén permitidas por la Ley y se refieran a los puntos cuestionados.
 
 ART. 285.- Los hechos notorios no necesitan ser probados y el juez puede invocarlos, aunque no hayan sido alegados por las partes.
 
-ART. 286.- Cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste a las preguntas que el tribunal le dirija, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe a la inspección del tribunal la cosa o documento que tiene en su poder.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 287.- Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunales en la averiguación de la verdad. En consecuencia deben, sin demora, exhibir documentos y cosas que tengan en su poder, cuando para ello fueren requeridos.
+ART. 286.- Para la aportación de las pruebas y para que las mismas se reciban, las partes, los terceros y las autoridades tendrán las siguientes obligaciones:
 
-Los tribunales tienen la facultad y el deber de compeler a terceros, por los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
+I.- Las partes estarán obligadas a facilitar la inspección o reconocimiento ordenados por el juzgador, a exhibir los documentos que tengan en su poder o de que puedan disponer y se relacionen con el proceso a permitir que se haga el examen de sus condiciones físicas o mentales y a contestar las preguntas que el Tribunal o sus contrapartes les dirijan sobre los hechos controvertidos.
 
-De la mencionada obligación están exentos los ascendientes, descendientes, cónyuges y personas que deben guardar secreto profesional en los casos en que se trate de probar contra la parte con la que están relacionados.
+El juzgador podrá hacer cumplir sus determinaciones a través de la aplicación de los medios de apremio, o bien podrá apercibir en el sentido de que se tendrán por ciertas las afirmaciones de la contraparte si no se cumplen con estas obligaciones, dejando siempre a salvo el derecho de rendir prueba en contrario.
 
-ART. 288.- La ley reconoce como medios de prueba:
+II.- Los terceros estarán obligados en todo tiempo a prestar auxilio a los tribunales para el esclarecimiento de los hechos controvertidos y, en consecuencia, deberán proporcionar información, exhibir sin demora los documentos y objetos que tengan en su poder cuando para ello sean requeridos, o permitir su inspección. Los tribunales tienen la facultad y el deber de compeler a los terceros por los medios de apremio más eficaces, para que cumplan con esta obligación. En caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
+
+De esta obligación estarán exentos los ascendientes y descendientes, el cónyuge, los especialistas en métodos alternativos de justicia que hubieren conocido del asunto y las personas que deban guardar secreto profesional, en los casos en que se trate de probar contra la parte con la que estén relacionados.
+
+III.- Las autoridades tendrán la obligación de proporcionar los informes que se les pidan respecto de hechos relacionados con el proceso, y de los que hayan tenido conocimiento o en los que hayan intervenido por razón de su cargo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 287.- Las pruebas practicadas válidamente en un proceso judicial ventilado ante los Tribunales del Poder Judicial del Estado, podrán trasladarse a otro en copia auténtica, y serán apreciables sin más formalidades, siempre que en el proceso primitivo se hubieren practicado a petición de la parte contra quien se aducen o con audiencia de ella.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 288.- Las partes tendrán libertad para ofrecer como medios de prueba los que estimen conducentes para la demostración de los hechos en que basen sus pretensiones, siempre y cuando sean adecuados para producir convicción en el juzgador y cumplan las normas previstas en este Código.
+
+En forma enunciativa, serán admisibles los siguientes medios de prueba:
 
 I.- Confesión;
 
@@ -1515,15 +1739,19 @@ IV.- Dictámenes periciales;
 
 V.- Reconocimiento o inspección judicial;
 
-VI.- Testigos;
+VI.- Testimonial;
 
-VII.- Fotografías, copias fotostáticas, registros dactiloscópicos y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
+VII.- Fotografías, copias fotostáticas, registros dactiloscópicos, grabaciones en disco, cassette, cinta, video, o cualquier otro tipo de reproducción; la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia y la tecnología;
 
 VIII.- Fama pública;
 
-IX.- Presunciones;
+IX.- Presunciones; y
 
-X.- Y demás medios que produzcan convicción en el juzgador.
+X.- Demás medios que produzcan convicción en el juzgador.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 288 BIS.- Salvo disposición contraria de la Ley, lo dispuesto en este Capítulo es aplicable a toda clase de procedimientos.
 
 ### CAPITULO III. Del ofrecimiento y admisión de pruebas
 
@@ -1531,7 +1759,17 @@ X.- Y demás medios que produzcan convicción en el juzgador.
 
 ART. 289.- El período de ofrecimiento de pruebas es de diez días fatales que empezarán a contarse desde el día siguiente en que se notifique a las partes el auto que expresamente abra dicho período.
 
-ART. 290.- Las pruebas deben ser ofrecidas relacionándolas con cada uno de los puntos controvertidos, declarando el nombre y domicilio de testigos y peritos, y pidiendo la citación de la contraparte para absolver posiciones.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 290.- Las pruebas deben ser ofrecidas relacionándolas con cada uno de los puntos controvertidos que se pretendan demostrar y expresando claramente el hecho o hechos que se tratan de probar con las mismas. Además, deberán ser adecuadas para que el juzgador conozca la verdad material de los hechos.
+
+Si a juicio del Tribunal las pruebas ofrecidas no cumplen con las condiciones apuntadas en el párrafo anterior, serán desechadas, salvo que se trate de controversias del orden familiar, en que se estará a lo dispuesto en el segundo párrafo del artículo 940 de este Código.
+
+La práctica de las pruebas se realizará en audiencia pública, excepto en los casos de divorcio, nulidad de matrimonio y cuando el Tribunal considere que debe ser privada, para la debida protección del derecho al honor y a la intimidad de alguna de las partes.
+
+Las pruebas se recibirán siempre con citación de la parte contraria y de acuerdo con las reglas que para cada una de éstas se establecen en éste y los Capítulos siguientes.
+
+En cualquier momento del juicio o antes de iniciarse éste, cuando se demuestre que haya peligro de que una persona desaparezca o se ausente del lugar del juicio o que una cosa desaparezca o se altere, y la declaración de la primera o la inspección de la segunda sea indispensable para la resolución de la cuestión controvertida, podrá el Juez ordenar la recepción de la prueba correspondiente.
 
 ART. 291.- La prueba de confesión se ofrece presentando el pliego que contenga las posiciones. Si éste se presentare cerrado deberá guardarse así en el secreto del juzgado, asentándose la razón respectiva en la misma cubierta. La prueba será admisible aunque no se exhiba el pliego pidiendo tan sólo la citación; pero si no concurriere el absolvente a la diligencia de prueba, no podrá ser declarado confeso más que de aquellas posiciones que con anticipación se hubieren formulado.
 
@@ -1545,9 +1783,25 @@ ART. 295.- Los documentos que ya se exhibieron antes de este período y las cons
 
 ART. 296.- Al solicitarse la inspección judicial se determinarán los puntos sobre que deba de versar.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 297.- Al día siguiente en que termine el periodo de ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. No se admitirán diligencias de prueba contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles. Contra el auto que deseche una prueba procede la apelación en el efecto devolutivo. Contra el auto que la admita no hay más recurso que el de responsabilidad.
+ART. 297.- Al día siguiente de que termine el período de ofrecimiento de pruebas, el juzgador dictará resolución en la que determinará las pruebas que se admitan por cada hecho o, en su caso, se desechen.
+
+Serán improcedentes y el juzgador deberá desechar de plano las pruebas que pretendan rendirse, en los siguientes casos:
+
+I.- Para demostrar hechos que no son materia de la controversia o no han sido alegados por las partes.
+
+II.- Para demostrar hechos que quedaron admitidos por las partes y sobre los que no se suscite controversia al quedar fijado el debate.
+
+III.- Para demostrar un hecho que no pueda existir porque sea incompatible con una ley de la naturaleza o con las reglas de la lógica y las máximas de la experiencia.
+
+IV.- Para demostrar hechos que fueron acreditados plenamente con otras pruebas.
+
+V.- En forma extemporánea o en contravención a las reglas establecidas en este Código.
+
+VI.- Que sean contrarias al derecho o al respeto y la dignidad de las personas.
+
+Contra el auto que admita o deseche una prueba procede la Apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal.
 
 ### CAPITULO IV. De la recepción y práctica de las pruebas
 
@@ -1565,23 +1819,31 @@ ART. 298.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 Del termino probatorio
 
-#### SECCION I. Del término probatorio
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2008)</small>
+
+#### SECCION I. Del período probatorio
 
 ART. 299.- Al día siguiente de que se notifique el auto de admisión, se abre por ministerio de la ley el término probatorio de treinta días improrrogables.
 
-ART. 300.- Cuando las pruebas hubieren de practicarse fuera del Estado, a petición de parte, se concederá un término extraordinario siempre que se llenen los siguientes requisitos: 1º- Que se solicite durante el ofrecimiento de pruebas; 2º- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testifical; 3º- Que se designen en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse, o presentarse originales.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-El juez al calificar la admisibilidad de las pruebas resolverá sobre el término extraordinario y determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba. Sin este depósito no surtirá efecto el término extraordinario concedido.
+ART. 300.- Cuando las pruebas hubieren de practicarse fuera del Estado, a petición de parte, se concederá un término extraordinario siempre que se llenen los siguientes requisitos: 1º.- Que se solicite durante el ofrecimiento de pruebas; 2º.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testimonial; y 3º.- Que se designen en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de cotejarse, o presentarse originales.
 
-ART. 301.- El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse el periodo probatorio, a pagar a su contraparte una multa de $ 100.00 a $ 1,000.00 y a la indemnización de daños y perjuicios.
+El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el término extraordinario y determinará el monto de la cantidad que el oferente deberá depositar para garantizar el pago de la multa, en caso de que la prueba no sea incorporada a los autos dentro del plazo respectivo. Si el oferente no hace este depósito dentro de los tres días siguientes a la notificación del auto que admitió la prueba, éste quedará sin efecto jurídico y precluirá el derecho del oferente a que se practique dicha prueba.
 
-ART. 302.- El término extraordinario de prueba será:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-I.- De cincuenta días, si las pruebas para las que se solicitó, han de practicarse dentro del territorio nacional y fuera del Estado;
+ART. 301.- La parte a quien se hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregará el exhorto para su diligenciación y si no lo devolviere debidamente diligenciado dentro del plazo señalado por el Juez, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador hasta por veinte días de salario mínimo general vigente en el Estado. Asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
 
-II.- De cien días, si hubieren de practicarse en la América del Norte, en la Central o en las Antillas;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-III.- De ciento veinte días, si hubieren de practicarse en cualquiera otra parte.
+ART. 302.- El desahogo de pruebas fuera del lugar del juicio se hará a través de exhorto o despacho, que se remitirá a la autoridad competente del lugar de que se trate, para cuyo efecto el Juez concederá al oferente un término que no podrá exceder de:
+
+I.- Cincuenta días, si las pruebas para las que se solicitó han de practicarse dentro del territorio nacional y fuera del Estado;
+
+II.- Cien días, si hubieren de practicarse en la América del Norte, en la Central o en las Antillas; y
+
+III.- Ciento veinte días, si hubieren de practicarse en cualquiera otra parte.
 
 ART. 303.- Después de concluído el término ordinario, no se recibirá prueba alguna que no fuere aquella para cuya recepción se concedió el término extraordinario.
 
@@ -1589,235 +1851,535 @@ El término extraordinario correrá desde el día siguiente al auto que califica
 
 ART. 304.- Ni el término ordinario ni el extraordinario podrá suspenderse ni ampliarse, ni aún por consentimiento común de los interesados. Sólo causas muy graves, a juicio del juez, y bajo su responsabilidad, podrán producir la suspensión.
 
-ART. 305.- Las diligencias de prueba sólo podrán practicarse dentro del término probatorio, bajo pena de nulidad y responsabilidad del juez. Se exceptúan aquellas diligencias que pedidas en tiempo legal no pudieron practicarse por causas independientes del interesado o que provengan de caso fortuito, de fuerza mayor, o dolo del colitigante; en estos casos el juez, si lo cree conveniente, podrá mandar concluirlas dando conocimiento de ellas a las partes y señalando al efecto un término prudente por una sola vez.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 305.- Las diligencias de prueba sólo podrán practicarse dentro del término probatorio, bajo pena de nulidad y responsabilidad del Juez. Se exceptúan aquellas diligencias que, pedidas en tiempo legal, no pudieron practicarse por causas independientes del interesado o que provengan de caso fortuito, de fuerza mayor o dolo del colitigante; en esos casos el Juez, si lo cree conveniente, podrá requerir a las partes, por una sola vez, para que en un plazo no mayor de tres días promuevan su desahogo, apercibiéndolas de que en el caso contrario, serán declaradas desiertas.
 
-ART. 306.- Las pruebas documentales que se presenten fuera de término serán admitidas en cualquier estado del juicio hasta la citación para sentencia, protestando la parte que antes no supo de ellas y dándose conocimiento de las mismas a la contraria por el término de tres días para que manifieste lo que a su derecho convenga, resolviéndose en forma incidental. En contra de esa resolución será procedente el recurso de apelación en el sólo efecto devolutivo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 306.- Las pruebas documentales que se presenten fuera de término serán admitidas en cualquier estado del juicio hasta la citación para sentencia, protestando la parte que antes no supo de ella y dándose conocimiento de las mismas a la contraria por el término de tres días para que manifieste lo que a su derecho convenga, resolviéndose en forma incidental. En contra de esa resolución será procedente el Recurso de Apelación en efecto preventivo, de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal.
 
 #### SECCION II. De la confesión
 
-ART. 307.- Desde que se abra el período de ofrecimiento de pruebas hasta la citación para definitiva en primera instancia, todo litigante está obligado a declarar bajo protesta de decir verdad, cuando así lo exigiere el contrario.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 308.- El que haya de absolver posiciones será citado personalmente, a más tardar el día anterior al señalado para la diligencia, bajo apercibimiento de que si dejare de comparecer sin justa causa, será tenido por confeso.
+ART. 307.- Desde que se abra el período de ofrecimiento de pruebas y hasta antes de que concluya el período probatorio en primera instancia, toda persona que tenga el carácter de parte estará obligada a absolver posiciones, bajo protesta de decir verdad, cuando así lo exija el contrario.
 
-ART. 309.- La parte está obligada a absolver personalmente las posiciones cuando así lo exija el que las articula, o cuando el apoderado ignore los hechos.
+La confesión puede ser expresa o tácita. Es expresa, la que se hace clara y distintamente, ya al formular o contestar la demanda, ya absolviendo posiciones, o en cualquier otro acto del proceso. Es tácita o ficta, la que se presume en los casos señalados por la Ley.
 
-Es permitido articular posiciones al procurador que tenga poder especial para absolverlas, o general con cláusula para hacerlo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-El cesionario se considera como apoderado del cedente para los efectos del inciso que precede.
+ART. 308.- El que haya de absolver posiciones será citado personalmente, por lo menos con dos días de anticipación al señalado para la audiencia, sin contar el día en que se verifique la diligencia de notificación, el día siguiente hábil en que surta efectos la misma ni el señalado para recibir la declaración.
 
-Si el que debe de absolver posiciones estuviere ausente, el juez librará el correspondiente exhorto, acompañando cerrado y sellado el pliego en que constan las preguntas; pero del cual deberá sacar previamente una copia que, autorizada conforme a la ley con su firma y la del secretario, quedará en la Secretaría del tribunal.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-El juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
+ART. 309.- Las personas físicas pueden absolver posiciones por sí o por apoderado, siempre que éste tenga poder bastante para absolverlas. Sin embargo, estarán obligadas a absolver personalmente las posiciones, aunque tengan representante en juicio, cuando así lo pida la contraparte al ofrecer la prueba y en los escritos que fijan el debate se hayan señalado hechos concretos que sean propios de dichas personas, que justifiquen, a juicio del juzgador, que la prueba tenga que ser absuelta personalmente y no por conducto de apoderado.
 
-ART. 310.- Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no han de contener cada una más que un sólo hecho y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que exista entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tienen por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder, con el objeto de obtener una confesión contraria a la verdad.
+Las personas morales absolverán posiciones por conducto de sus representantes legales o sus apoderados con facultades para ello, sin que pueda exigirse que las posiciones sean absueltas por determinado representante legal o apoderado.
 
-ART. 311.- Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El juez deberá ser escrupuloso en el cumplimiento de este precepto.
+Por los que no gocen de capacidad procesal, lo harán sus representantes legales.
 
-ART. 312.- Si el citado a absolver posiciones comparece, el juez abrirá el pliego si lo hubiere, e impuesto de ellas, las calificará y aprobará sólo las que se ajusten a lo dispuesto por los artículos 310 y 311. En seguida el absolvente firmará el pliego de posiciones, antes de procederse al interrogatorio.
+El mandatario o representante que comparezca a absolver posiciones por alguna de las partes, forzosamente será conocedor de todos los hechos controvertidos propios de su mandante o representado, y no podrá manifestar desconocer los hechos propios de aquél por quien absuelve, ni podrá manifestar que ignora la respuesta o contestar con evasivas, ni mucho menos negarse a contestar o abstenerse de responder de modo categórico en forma afirmativa o negativa, pues de hacerlo así se le declarará confeso de las posiciones que calificadas de legales se le formulen.
+
+En el caso de cesión, se considera al cesionario como apoderado del cedente, para absolver posiciones sobre hechos de éste; pero, si los ignora, pueden articularse las posiciones al cedente, siendo a cargo del cesionario la obligación de presentarlo.
+
+La declaración de confeso del cedente obliga al cesionario, quedando a salvo el derecho de éste frente al cedente.
+
+Si el que debe absolver posiciones no tuviere su domicilio dentro de la jurisdicción del juzgador, se le mandará examinar por medio de exhorto, al que se acompañará en sobre cerrado y sellado, el pliego en que consten las posiciones, después de que el juzgador haya hecho la correspondiente calificación de las que considere legales, anotándolo en el mismo pliego. Hecho lo anterior, el Secretario certificará una copia de éste y lo mandará guardar en secreto del Juzgado hasta que se lleve a cabo la diligencia.
+
+El Juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 310.- Las posiciones deberán llenar los requisitos siguientes:
+
+I.- Estar formuladas en términos claros y precisos;
+
+II.- Ser aseverativas, entendiéndose por tales las que afirman algo, aunque estén redactadas en términos negativos;
+
+III.- Contener hechos propios del que absuelva;
+
+IV.- No han de ser insidiosas. Son insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder, con el objeto de obtener una confesión contraria a la verdad;
+
+V.- No han de contener más que un solo hecho. Cuando la posición contenga dos o más hechos, el Tribunal la examinará prudentemente, determinando si debe absolverse en dos o más, o si, por la íntima relación que exista entre los hechos que contiene, de manera que no pueda afirmarse o negarse uno, sin afirmar o negar el otro u otros, y teniendo en cuenta lo ya declarado por el absolvente al contestar las anteriores posiciones, debe prevalecer como ha sido formulada;
+
+VI.- No han de ser contradictorias. En caso de que resulten serlo, ambas posiciones serán desechadas; y
+
+VII.- Deberán concretarse a hechos que sean objeto del debate.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 311.- El juzgador deberá desechar las posiciones que no cumplan con los requisitos previstos en el artículo anterior.
+
+Contra el desechamiento de posiciones procede el recurso de apelación preventiva, de tramitación conjunta con la sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 312.- Si el citado a absolver posiciones comparece, deberá identificarse, asentándose razón en el acta de los documentos o medios que sirvieron para este fin. Después, el Juez, o en su caso, el Secretario, deberá tomarle la protesta de conducirse con verdad, advirtiéndole sobre las penas que el Código Penal para el Estado establece para sancionar a las personas que se conducen con falsedad ante la autoridad judicial.
+
+Hecha la protesta de decir verdad, el Juez, en presencia del absolvente, abrirá el pliego de posiciones y calificará éstas, conforme a los artículos 310 y 311 de este Código.
+
+Si el oferente no exhibió el pliego de posiciones en forma escrita, podrá formularlas de manera verbal en la audiencia respectiva y el Juez las calificará en los términos del párrafo anterior, pero en el caso de que no comparezca a la misma, se declarará desierta la prueba.
+
+Cuando las posiciones fueren verbales, se harán constar en el acta de la diligencia; si se formulan por escrito, el pliego que las contenga se engrosará a los autos.
+
+Una vez que las posiciones sean calificadas de legales, el Juez o Secretario ordenará al declarante que las responda y asentará literalmente las respuestas. Concluida la diligencia, la parte absolvente firmará o estampará su huella dactilar al margen del pliego de posiciones, lo cual se asentará en el acta respectiva.
+
+Contra la calificación de posiciones procede el Recurso de Apelación preventiva, de tramitación conjunta con la sentencia definitiva.
 
 ART. 313.- Si fueren varios los que hayan de absolver posiciones y al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo acto, evitando que los que absuelvan primero se comuniquen con los que han de absolver después.
 
-ART. 314.- En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuera extranjero, podrá ser asistido por un interprete, en cuyo caso el juez lo nombrará.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 314.- En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuera extranjero, podrá ser asistido por un interprete, en cuyo caso el Juez lo nombrará. Si la parte lo pide, se asentará también su declaración en su propio idioma, con intervención del intérprete.
 
 ART. 315.- Las contestaciones deberán ser categóricas, en sentido afirmativo o negativo, pudiendo el que las dé, agregar las explicaciones que estime convenientes o las que el juez le pida.
 
 En el caso de que el declarante se negare a contestar o contestare con evasivas, o dijere ignorar los hechos propios, el juez lo apercibirá en el acto, de tenerlo por confeso sobre los hechos de los cuales sus respuestas no fueren categóricas o terminantes.
 
-ART. 316.- La parte que promovió la prueba puede formular, oral o directamente, posiciones al absolvente.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+Si el absolvente estima ilegal o confusa una posición, podrá manifestarlo al Tribunal, a fin de que vuelva a calificarla. Si se declara legal, se le repetirá para que la conteste.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 316.- Contestado el pliego, la parte que promovió la prueba puede formular, oral o directamente, posiciones al absolvente, las cuales, una vez que sean calificadas de legales, se formularán al absolvente conforme a este Código.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 317.- El tribunal puede libremente interrogar a las partes sobre los hechos y circunstancias que sean conducentes a la averiguación de la verdad.
 
-ART. 318.- De las declaraciones de las partes se levantarán actas en las que se hará constar la contestación implicando la pregunta, iniciándose con la protesta de decir verdad y las generales.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-Esta acta deberá ser firmada al pie de la última hoja y al margen de las demás en que contenga las declaraciones producidas por los absolventes después de leerlas por sí mismos si quieren hacerlo, o de que les sean leídas por la Secretaría. Si no supieren firmar se hará constar esa circunstancia.
+ART. 318.- De la diligencia se levantará acta, que deberá ser firmada al pie de la última hoja y al margen de las demás en que contenga las declaraciones producidas por los absolventes después de leerlas por sí mismos si quieren hacerlo o de que les sean leídas por el Juez, o en su caso, el Secretario de Acuerdos. Si no supieren firmar, pondrán su huella digital, y, si no quisieren hacer lo uno ni lo otro, firmarán sólo el Juez y el Secretario de Acuerdos, haciendo constar esta circunstancia.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 319.- Cuando el absolvente, al enterarse de su declaración manifiesta no estar conforme con los términos asentados, el juez decidirá en el acto lo que proceda acerca de las rectificaciones que deban hacerse. Una vez firmadas las declaraciones no pueden variarse ni en la substancia ni en la redacción. La nulidad proveniente de error o violencia se substanciará incidentalmente y la resolución que se dicte será apelable en el sólo efecto devolutivo.
+ART. 319.- Cuando el absolvente, al enterarse de su declaración manifiesta no estar conforme con los términos asentados, el Juez decidirá en el acto lo que proceda acerca de las rectificaciones que deban hacerse. Una vez firmadas las declaraciones no pueden variarse ni en la substancia ni en la redacción. La nulidad proveniente de error o violencia se substanciará incidentalmente y la resolución que se dicte será apelable en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal.
 
-ART. 320.- En caso de enfermedad legalmente comprobada, del que deba declarar, el tribunal se trasladará al domicilio de aquél, donde se efectuará la diligencia a presencia de la otra parte si asistiere.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 321.- El que deba absolver posiciones será declarado confeso: 1°- Cuando sin justa causa no comparezca; 2°- Cuando se niegue a declarar; 3°- Cuando al hacerlo insista en no responder afirmativa o negativamente.
+ART. 320.- Cuando deban absolver posiciones personas mayores de setenta años o que se encuentren imposibilitadas para trasladarse al local del Tribunal, en razón de padecer una enfermedad debidamente comprobada, el personal autorizado del Tribunal se trasladará al domicilio de aquéllas o al lugar en el que se encuentren, a fin de efectuar la diligencia, misma que podrá realizarse en presencia de la otra parte, si asistiere.
 
-En el primer caso, el juez abrirá el pliego y calificará las posiciones antes de hacer la declaración.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 322.- No podrá ser declarado confeso el llamado a absolver posiciones, si no hubiere sido apercibido legalmente.
+ART. 321.- El que deba absolver posiciones será declarado confeso: 1°.- Cuando sin justa causa no comparezca y haya sido debidamente citado para hacerlo, en cuyo caso la declaración se hará de oficio, siempre y cuando el pliego de posiciones se haya exhibido con anterioridad; 2°.- Cuando se niegue a declarar; y 3°.- Cuando al hacerlo insista en no responder afirmativamente o negativamente.
 
-La declaración se hará cuando la parte contraria lo pidiere, después de contestada la demanda hasta la citación para sentencia.
+ART. 322.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
-ART. 323.- El auto en que se declare confeso al litigante o en el que se deniegue esta declaración es apelable en el efecto preventivo, si fuere apelable la sentencia definitiva.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 324.- Se tendrá por confeso el articulante respecto a los hechos propios que afirmare en las posiciones.
+ART. 323.- El auto en que se declare confeso al litigante o en el que se deniegue esta declaración admite la apelación preventiva, de tramitación conjunta con la sentencia definitiva, siempre que pueda apelarse de la sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 324.- Se tendrá por confeso el articulante y sólo en lo que le perjudique, respecto a los hechos propios que consten en las posiciones que formule, y contra ellos no se le admitirá prueba de ninguna clase.
 
 ART. 325.- Las autoridades, las corporaciones oficiales y los establecimientos que formen parte de la administración pública no absolverán posiciones en la forma que establecen los artículos anteriores; pero la parte contraria podrá pedir que se les libre oficio insertando las preguntas que quiera hacerles para que, por vía de informe, sean contestadas dentro del término que designe el tribunal, y que no excederá de ocho días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro del término que se le haya fijado, o si no lo hiciere categóricamente afirmando o negando los hechos.
 
-#### SECCION III. De la prueba instrumental
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 326.- Son documentos públicos:
+ART. 325 BIS.- Las partes podrán, dentro del período de ofrecimiento de pruebas, pedir por una sola vez que la contraparte se presente a declarar sobre hechos objeto del debate.
 
-I.- Los testimonios de las escrituras públicas otorgadas con arreglo a derecho y las escrituras originales mismas;
+Las preguntas se formularán de manera verbal y podrán no referirse a hechos propios, con tal de que la persona que declare tenga conocimiento de los mismos.
+
+La declaración de las partes se recibirá de acuerdo con las siguientes reglas:
+
+I. Podrá recibirse con independencia de la prueba de posiciones; pero también podrán formularse las preguntas en el mismo acto de la absolución de posiciones, aprovechando la misma citación.
+
+II. Cuando la citación para declarar sea distinta de la citación para absolver posiciones, el juzgador podrá emplear los medios de apremio autorizados en este código para hacer comparecer a las partes ante su presencia y para hacer que éstas declaren en el proceso.
+
+III. No procederá la confesión ficta en la prueba de declaración de parte.
+
+IV. Serán aplicables a esta prueba, en lo conducente, las reglas de la prueba testimonial.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2008)</small>
+
+#### SECCION III. Documentos públicos y privados
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 326.- Para demostrar los hechos controvertidos, son admisibles toda clase de documentos públicos o privados.
+
+Son documentos públicos los autorizados por funcionarios públicos o depositarios de la fe pública, dentro de los límites de su competencia, y con las solemnidades o formalidades prescritas por la ley.
+
+Tendrán ese carácter tanto los originales como los testimonios y las copias certificadas que autoricen o expidan dichos funcionarios o profesionales con facultades para certificar.
+
+La calidad de auténticos y públicos se podrá demostrar, además, por la existencia regular en los documentos, de sello, firmas u otros signos exteriores, que en su caso, prevengan las leyes.
+
+Por tanto, en forma enunciativa y no limitativa, son documentos públicos:
+
+I.- Los testimonios y las copias certificadas de las escrituras y actas otorgadas ante notarios públicos, así como los originales de dichas escrituras y actas;
 
 II.- Los documentos auténticos expedidos por funcionarios que desempeñen cargo público en lo que se refiere al ejercicio de sus funciones;
 
-III.- Los documentos auténticos, libros de Actas, estatutos, registros y catastros que se hallen en los archivos públicos o dependientes del Gobierno Federal, de los Estados, de los Ayuntamientos y de las Delegaciones del Distrito o Territorios Federales;
+III.- Los documentos auténticos, libros de actas, estatutos, registros y catastro que se hallen en los archivos públicos o dependientes del Gobierno del (sic) Federal, de los Estados, de los Ayuntamientos y del Distrito Federal;
 
-IV.- Las certificaciones de actas del estado civil expedidas por los oficiales del Registro Civil, respecto a constancias existentes en los libros correspondientes;
+IV.- Las certificaciones de actas del estado civil expedidas por los Oficiales del Registro Civil, respecto a constancias existentes en los libros correspondientes;
 
 V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
 
-VI.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por notario público o quien haga sus veces con arreglo a derecho;
+VI.- Las certificaciones de constancias en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por notario público o quien haga sus veces con arreglo a derecho;
 
-VII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, universidades, siempre que estuvieren aprobados por el Gobierno Federal, o de los Estados, y las copias certificadas que de ellos se expidieren;
+VII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, así como universidades, siempre que estuvieren aprobados por el Gobierno Federal, o de los Estados, y las copias certificadas que de ellos se expidieren;
 
 VIII.- Las actuaciones judiciales de toda especie;
 
-IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la ley y las expedidas por corredores titulados con arreglo al Código de Comercio;
+IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la Ley y las expedidas por corredores titulados con arreglo al Código de Comercio;
 
-X.- Los demás a los que se les reconozca ese carácter por la ley.
+X.- Las actas autorizadas por los corredores públicos, así como los asientos de su libro de registro y las copias certificadas que expidan de las actas y asientos, con apego a la Ley de la materia; y
+
+XI.- Los demás a los que se les reconozca ese carácter por la Ley.
+
+Por testimonio se entiende la copia de una escritura pública expedida por el notario ante quien se otorgó o por el que lo sustituya conforme a la Ley.
+
+Auténtico se llama a todo documento que está autorizado y firmado por el servidor público que tenga facultades para certificar y que lleve el sello de la oficina respectiva.
 
 ART. 327.- Los documentos públicos expedidos por autoridades federales o funcionarios de los Estados o del Distrito y Territorios Federales, harán fe en esta entidad sin necesidad de legalización.
 
 ART. 328.- Para que hagan fe en el estado los documentos públicos procedentes del extranjero, deberán lenar (sic) los requisitos que fija el Código Federal de Procedimientos Civiles.
 
-ART. 329.- De la traducción de los documentos que se presenten en idioma extranjero, se mandará dar vista a la parte contraria para que dentro del tercer día manifieste si está conforme. Si lo estuviere o no dijere nada, se pasará por la traducción; en caso contrario el tribunal nombrará traductor.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 329.- A todo documento redactado en idioma extranjero, se acompañará la traducción del mismo, copia de aquél y de ésta. Con ambos, se mandará dar vista a la parte contraria para que dentro del tercer día manifieste si está conforme. Si lo estuviere o no manifestara nada, se pasará por la traducción; en caso contrario, el Tribunal nombrará traductor.
 
 ART. 330.- Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento, o pieza que obre en los archivos públicos, el contrario tendrá derecho de que a su costa se adicione con lo que crean conducente del mismo documento.
 
-ART. 331.- Los documentos existentes en partido distinto del en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el juez de los autos al del lugar en que aquellos se encuentren.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 332.- Los instrumentos públicos que hayan venido al pleito sin citación contraria, se tendrán por legítimos y eficaces, salvo que se impugnare expresamente su autenticidad o exactitud por la parte a quien perjudiquen. En este caso, se decretará el cotejo con los protocolos y archivos, que se practicará por el secretario, constituyéndose, al efecto, en el archivo o local donde se halla la matriz a presencia de las partes, si concurrieren, a cuyo fin se señalará previamente el día y hora, salvo que el juez lo decretare en presencia de los litigantes o se hiciere en el acto de la audiencia de pruebas.
+ART. 331.- Los documentos existentes en un lugar distinto de aquél en que se sigue el negocio, se compulsarán a virtud de despacho o exhorto que dirija el Tribunal de los autos al Juez del lugar en que aquellos se encuentren.
 
-También podrá hacerlo el juez por sí mismo cuando los (sic) estime conveniente.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 333.- Son documentos privados; los vales, pagarés, libros de cuentas, cartas y demás escritos firmados o formados por las partes o de su orden y que no estén autorizados por escribano o funcionario competente.
+ART. 332.- El documento público hace fe plena de su formación y de los hechos que el funcionario público, el notario o el corredor, autorizados por la Ley para formarlo, declaren haber ocurrido en su presencia. Contra esta prueba sólo se admite la impugnación por falsedad. En este caso, se decretará su cotejo con los que obren en los archivos o protocolos de los que provengan. El cotejo se practicará en el archivo o local en donde se halle la matriz del documento impugnado, con asistencia de las partes, si concurriesen, a cuyo fin se señalará y hará saber previamente el día y la hora. El cotejo también podrá hacerlo el Secretario cuando el juzgador así lo determine. Si el archivo o protocolo no están dentro de la jurisdicción, el cotejo se practicará por medio de exhorto.
 
-ART. 334.- Los documentos privados y la correspondencia procedentes de uno de los interesados, presentados en juicio por vía de prueba y no objetados por la parte contraria, se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente. Puede exigirse el reconocimiento expreso si el que los presenta así lo pidiere; con este objeto se manifestarán los originales a quien deba reconocerlos y se le dejará ver todo el documento, no sólo la firma.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 333.- Son documentos privados los que carezcan de los requisitos que se expresan en el artículo 326 de este Código.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 334.- Los documentos privados y la correspondencia procedentes de uno de los interesados, presentados en juicio por vía de prueba y no impugnados por la parte contraria, se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente.
+
+Podrá exigirse el reconocimiento expreso de documentos privados presentados como prueba, si el que los ofrece así lo pidiere; con este objeto se exhibirán los originales a quien deba reconocerlos y se le dejará verlos en su integridad y no sólo la firma.
+
+En el reconocimiento de documentos se observarán, en lo conducente, las reglas de la confesión judicial.
 
 ART. 335.- Los documentos privados se presentarán originales, y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
 
-ART. 336.- Si el documento se encuentra en libros o papeles de casa de comercio o de algún establecimiento industrial, el que pida el documento o la constancia, deberá fijar con precisión cual sea, y la copia testimonial se tomará en el escritorio del establecimiento, sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 337.- En el reconocimiento de documentos se observará lo dispuesto en los artículos 309, 316 y 321.
+ART. 336.- Si los documentos a que se refiere el artículo anterior se encuentran agregados a libros o papeles de casa de comercio, o de algún establecimiento industrial, el que pida el documento o la constancia deberá precisar cuáles son éstos y el lugar donde se hallan. Los responsables de esos establecimientos sólo estarán obligados a exhibir los documentos en el lugar en donde se encuentren, para que sean cotejados, sin perjuicio de que pueda obtenerse copia certificada de los mismos.
 
-ART. 338.- Sólo pueden reconocer un documento privado el que lo firma, el que lo manda extender o el legítimo representante de ellos con poder o cláusula especial. Se exceptúan los casos previstos en los artículos 1,439 y 1,441 del Código Civil.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 339.- Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contado desde la notificación del auto que ordene su recepción.
+ART. 337.-Con excepción de lo previsto en el artículo anterior, cuando las partes deban servirse de documentos en poder de terceros, solicitarán al juzgador que requiera a éstos para que exhiban o entreguen copia fotográfica, fotostática, facsimilar o testimonio certificado de ellos, siendo los gastos que se originen a cargo del que pida la prueba. Los terceros podrán rehusarse a la entrega por alguna causa justificada, la cual será calificada por el Juez.
 
-ART. 340.- Podrá pedirse el cotejo de firmas y letras, siempre que se niegue o que se ponga en duda la autenticidad de un documento privado o de un documento público que carezca de matriz. Para este objeto se procederá con sujeción a lo que se previene en la Sección IV de este capítulo.
+Si se trata de documento que se halle o se hubiere hallado en poder de la contraparte, se le requerirá para que lo presente en el plazo que señale el juzgador. El que promueva la prueba podrá presentar copia del documento o proporcionar los datos que conozca acerca de su contenido, copia o datos que se tendrán por exactos si se probare que el documento se halla o hubiere hallado en poder del adversario y éste, sin justa causa, no lo presentare.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+Si la parte se niega, sin justa causa, a exhibir en juicio un documento que obra en su poder o al que se haya referido en el proceso, o a presentar de nuevo un documento, temporalmente retirado, o si, con hecho propio, impide la producción de un documento, a cuya presentación tiene derecho la contraparte, el tribunal, una vez valoradas cuidadosamente las circunstancias del caso y su influencia sobre la decisión, podrá considerar como probadas las afirmaciones del adversario sobre el contenido del documento.
 
-ART. 341.- La persona que pida el cotejo designará el documento indubitado y coetáneo con que deba hacerse o conste en él su firma o letra indubitable y coetánea.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 338.- Sólo podrá reconocer un documento privado el que lo haya firmado, el que lo haya mandado extender o el legítimo representante de ellos, con poder o cláusula especial. Se exceptúan los casos previstos en los artículos 1,439 y 1,141 del Código Civil.
+
+Los documentos privados que no provengan de las partes deberán ser reconocidos por su autor, quien podrá ser examinado en la forma establecida para la prueba testimonial.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 339.- En caso de que se niegue o se ponga en duda la autenticidad de un documento, impugnándolo de falso, podrá pedirse el cotejo de letras y/o firmas.
+
+Tratándose de los documentos exhibidos con la demanda, el demandado, si pretende tacharlos de falsedad, deberá oponer la excepción correspondiente, de la cual se dará vista a la contraparte, y ofrecer en ese momento las pruebas que estime pertinentes, además de la pericial, cuya admisión se reservará para el momento procesal oportuno.
+
+Tratándose de documentos exhibidos por la parte demandada junto con su contestación a la demanda, o bien de documentos exhibidos por cualquiera de las partes con posterioridad a los escritos que fijan la litis, la impugnación se hará en la vía incidental, dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser impugnados en igual término, contado desde la notificación del auto que ordene su recepción. En ambos casos, la resolución se reservará para la definitiva.
+
+Para que se pueda dar curso a la impugnación, el interesado deberá expresar con toda precisión los motivos o causas en los que se base para sostener que el documento es falso o inexacto y precisará el archivo o protocolo del que provenga el documento impugnado, para que pueda hacerse el cotejo correspondiente; o en su defecto, señalará los documentos indubitables para que el mismo se practique.
+
+Si con la impugnación a que se refieren los párrafos anteriores no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos previstos para su admisión o trámite, se desechará de plano por el juzgador.
+
+Cuando el juicio se siga en rebeldía y el actor haya presentado documentos cuya autoría atribuye al demandado y éste no los haya objetado, será necesario su reconocimiento, el que se practicará con sujeción a las disposiciones sobre la confesión, y surtirá sus mismos efectos. Si el documento es de un tercero, la verdad de su contenido debe demostrarse por otras pruebas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 340.- La falsedad consiste en la formación de un documento no verdadero, o en la alteración de uno auténtico, o bien en la falta de veracidad de los hechos representados en un documento público que se afirman como ocurridos ante un servidor público, notario o corredor.
+
+También se considera que existe falsedad en los documentos privados cuando quien ha recibido el documento firmado, con el texto no escrito en su totalidad, haya formado o complementado, o hecho formar o completar su texto, en contra de los acuerdos tomados con el firmante.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 341.- Cuando se impugne la autenticidad de un documento privado o público sin matriz, deberán señalarse los documentos indubitables para el cotejo o solicitar al Tribunal que cite al interesado para que, en su presencia, estampe la firma, letras o huella digital que servirá para el cotejo, así como promover la prueba pericial correspondiente.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 342.- Se considerarán indubitados para el cotejo:
 
-I.- Los documentos que las partes reconozcan como tales, de común acuerdo.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-II.- Los documentos privados cuya letra o firma hayan sido reconocidas en juicio por aquél a quien se atribuye la dudosa.
+I.- Los documentos que las partes reconozcan como tales, de común acuerdo, debiendo manifestar su conformidad a la autoridad judicial.
 
-III.- Los documentos cuya letra o firma ha sido judicialmente declarada propia de aquél a quien se atribuye la dudosa.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+II.- Los documentos privados cuya letra o firma hayan sido reconocidas en juicio por aquél a quien se atribuya la falsedad.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+III.- Los documentos privados cuya letra, firma o huella dactilar haya sido judicialmente declarada propia de aquél a quien se atribuye la falsedad del documento, exceptuando el caso en que la declaración haya sido hecha en rebeldía.
 
 IV.- El escrito impugnado en la parte en que reconozca la letra como suya aquél a quien perjudique.
 
-V.- Las firmas puestas en actuaciones judiciales en presencia del Secretario del Tribunal por la parte cuya firma o letra se trata de comprobar, a excepción de las estampadas dentro del mismo juicio en donde se suscitó la prueba.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 343.- El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos, y aún puede ordenar que se repita el cotejo por otros peritos.
+V.- Las firmas o huellas dactilares puestas en actuaciones judiciales en presencia del Secretario del Tribunal por la parte cuya firma, letra o huella dactilar se trata de comprobar, a excepción de las estampadas dentro del mismo juicio en donde se suscitó la prueba y las puestas ante cualquier otro funcionario revestido de la fe pública.
 
-ART. 344.- Cuando alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales. En este caso no alegarán las partes, sino hasta que se decida sobre la falsedad por la autoridad competente. Si el procedimiento penal concluye sin decidir sobre la falsedad o autenticidad del documento, el juez oirá sumariamente a las partes sobre el valor probatorio del instrumento, reservándose la resolución para la definitiva.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 343.- El Juez, al emitir la sentencia definitiva, podrá decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiera lugar.
+
+ART. 344.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
 #### SECCION IV. Prueba Pericial
 
-ART. 345.- Los peritos deben tener título en la ciencia o arte a que pertenezca el punto sobre que ha de oírse su parecer, si la profesión o el arte estuvieren legalmente reglamentados.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 345.- La prueba pericial será admisible cuando la naturaleza de los puntos o cuestiones materia de la misma, requieran conocimientos científicos o técnicos, o bien experiencias prácticas en el ejercicio de un oficio, más no en lo relativo a conocimientos generales que la Ley presupone como necesarios en los Jueces.
+
+El juzgador, aunque no lo pidan las partes, podrá hacerse asistir por uno o más peritos, cuando lo considere necesario para el esclarecimiento de puntos o cuestiones de litigio, o para el cumplimiento de actos que no esté en condiciones de apreciar por sí mismo.
+
+Los peritos deben tener título en la ciencia o arte a que pertenezca la cuestión sobre la cual ha de oírse su parecer, si la profesión o el arte estuvieren legalmente reglamentados.
 
 Si la profesión o el arte no estuvieren legalmente reglamentados, o estándolo, no hubieren peritos en el lugar, podrán ser nombrados cualesquiera personas entendidas, aún cuando no tengan título.
 
-ART. 346.- Cada parte dentro del tercer día nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno sólo. El tercero en discordia será nombrado por el juez.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 347.- El juez nombrará los peritos que correspondan a cada parte en los siguientes casos:
+ART. 346.- La prueba pericial deberá ofrecerse expresando los puntos sobre los cuales ésta debe versar, con la correspondiente relación de tal prueba con los hechos controvertidos, las cuestiones que deba dictaminar el perito, así como su nombre, apellidos, domicilio, cédula profesional, calidad técnica, artística o industrial. Además, el oferente deberá acompañar un escrito en el cual el perito que designó acepte el cargo conferido y proteste su fiel y legal desempeño, debiendo anexar el original o copia de su cédula profesional o los documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se le designa y manifestar, bajo protesta de decir verdad, que conoce los puntos cuestionados y pormenores relativos a la pericial, así como que tiene la capacidad suficiente para emitir dictamen sobre el particular. Sin la exhibición de dichos documentos justificativos de su calidad, no se tendrá por presentado al perito aceptando el cargo.
 
-I.- Si alguno de los litigantes dejare de hacer el nombramiento en el término señalado en el artículo anterior;
+Admitida la prueba pericial, el Juez dará vista a la contraparte, por el término de tres días para que, en su caso, proponga la ampliación de otros puntos o cuestiones además de los formulados por el oferente para que los peritos dictaminen y para que designe perito de su parte, debiendo nombrarlo en la misma ciencia, arte, técnica, oficio o industria en que la haya ofrecido la contraria y expresar su cédula profesional, calidad técnica, artística, técnica o industrial y domicilio, acompañando el escrito de aceptación del perito y los documentos mencionados en el párrafo anterior.
 
-II.- Cuando el designado por las partes no aceptare dentro de las cuarenta y ocho horas que sigan a la notificación de su nombramiento;
+Los peritos deberán rendir su dictamen dentro de los diez días siguientes a la fecha en que se les notifique su admisión, salvo que existiera causa bastante por la que tuviera que modificarse la fecha de inicio del plazo originalmente concedido, sin que sea necesaria la ratificación de dichos dictámenes ante la presencia judicial.
 
-III.- Cuando, habiendo aceptado, no rindiere su dictamen dentro del término fijado o en la diligencia respectiva;
+En cualquier momento las partes podrán acordar la designación de un solo perito.
 
-IV.- Cuando el que fué nombrado y aceptó el cargo lo renunciare después;
+Si fueren más de dos los litigantes, nombrarán un perito los que sostuvieren unas mismas pretensiones, y otro los que las contradigan. Si no pudieren ponerse de acuerdo, el Tribunal designará uno de entre los que propongan los interesados.
 
-V.- Si el designado por los litigantes no se encontrare en el lugar del juicio o en el que deba practicarse la prueba, o no se hubiere señalado su domicilio.
+Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, de tal modo que el Juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, designará al perito tercero en discordia.
 
-ART. 348.- El juez señalará lugar, día y hora para que la diligencia se practique, si debe presidirla. En cualquiera otro caso fijará a los peritos un término prudente para que presenten dictamen. Las partes pueden en todo caso formular a los peritos cuestiones que sean pertinentes.
+Los peritos fundamentarán en forma idónea su dictamen y podrán acompañar a éste dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. Además, podrán solicitar aclaraciones a las partes, requerir informes de terceros y ejecutar calcas, planos, relieves, así como todas las actividades que sean indispensables para rendir su dictamen. Igualmente estarán facultados para inspeccionar lugares, bienes muebles o inmuebles, documentos y libros, y obtener muestras para motivar sus dictámenes. Las partes y terceros estarán obligados a darles facilidades para el cumplimiento de su misión y el juzgador les prestará, para este fin, el auxilio necesario.
 
-ART. 349.- En el caso de la primera parte del artículo anterior concurrirá el tercero en discordia, y se observarán las reglas siguientes:
+Las partes podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el Juez en su sentencia.
 
-I.- El perito que dejare de concurrir sin causa justa, calificada por el tribunal, incurrirá en una multa de diez a cincuenta pesos y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 347;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran, pero deberán retirarse, para que los peritos discutan y deliberen solos;
+ART. 347.- La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se deseche la prueba pericial. Si la parte contraria no designara perito, o éste no aceptara y protestara el cargo, se le tendrá por conforme con el dictamen pericial que rinda el perito del oferente.
 
-III.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto; de lo contrario, se les señalará un término prudente para que lo rindan. Cuando discordaren los peritos, dictaminará el tercero, solo o asociado de los otros.
+En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes no rinden su dictamen dentro del término concedido, el Juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo previsto en el artículo 346 de este Código.
 
-ART. 350.- El perito que nombre el juez puede ser recusado dentro de las cuarenta y ocho horas siguientes a la en que se notifique su nombramiento a los litigantes, siempre que concurra alguna de las siguientes causas:
+En caso de que alguno de los peritos renuncie después de haber aceptado y protestado el cargo, la parte que lo haya nombrado podrá solicitar al Juez que designe a otro para sustituirlo.
 
-I.- Consanguinidad dentro del cuarto grado;
+En los casos a que se refieren los párrafos anteriores, el Juez sancionará a los peritos omisos, sin justa causa, con multa hasta de tres mil pesos. Dicho monto se actualizará en forma anualizada en el mes de diciembre para empezar a regir el primero de enero siguiente, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México y a falta de éste será aplicable el que lo sustituya.
 
-II.- Interés directo o indirecto en el pleito;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-III.- Ser socio, inquilino, arrendador o amigo íntimo de alguna de las partes.
+ART. 348.- Cuando el Juez lo estime necesario, señalará lugar, día y hora para que el desahogo de la pericial tenga lugar ante su presencia.
+
+El Juez, podrá pedir a los peritos todas las aclaraciones que estime conducentes, y en el caso de que se tomen muestras, ordenar las providencias necesarias para asegurar su autenticidad y conservación en el momento de su obtención y traslado.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 349.- Cuando el Juez lo estime conveniente, ordenará que la pericial se desahogue en audiencia y concurra el tercero en discordia. En este caso se observarán las reglas siguientes:
+
+I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, podrá ser sancionado con una multa hasta de tres mil pesos, de acuerdo con lo previsto por el artículo 347 de este Ordenamiento;
+
+II.- Los peritos practicarán unidos la diligencia. Las partes y sus abogados y consultores técnicos podrán asistir a la práctica de la peritación, salvo que el juzgador disponga otra cosa o que se trate de investigaciones que el perito estime debe realizar sin asistencia de las partes. Éstas pueden realizar las observaciones que estimen pertinentes. Los peritos estarán obligados a considerar, en su dictamen, las observaciones de los interesados y del Tribunal;
+
+III.- Las partes deberán retirarse, para que los peritos discutan y deliberen solos;
+
+IV.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto; de lo contrario, se les señalará un término prudente para que lo rindan; y
+
+V.- Si los peritos concuerdan en su opinión, emitirán su dictamen en un mismo escrito. Si no lo estuvieren, lo harán de manera individual y por escrito, del cual acompañarán una copia.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 349 BIS.- Los jueces podrán designar peritos de entre aquéllos autorizados como auxiliares de la administración de justicia por el Supremo Tribunal de Justicia.
+
+En todos los casos en que se trate únicamente de peritajes sobre el valor de cualquier clase de bienes y derechos, los mismos se realizarán por avalúos que practiquen los peritos nombrados por cada una de las partes, y en caso de diferencias en los montos que arrojen los avalúos, no mayor del treinta por ciento en relación con el monto mayor, éstas se mediarán. De ser mayor tal diferencia, se nombrará un perito tercero en discordia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 350.- El perito que nombre el Juez puede ser recusado dentro de las cuarenta y ocho horas siguientes a la fecha en que se notifique su nombramiento a los litigantes, siempre que concurra alguna de las siguientes causas:
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+I.- Tener parentesco por consanguinidad o afinidad, dentro del cuarto grado, con alguna de las partes, sus apoderados, abogados, autorizados o del Juez o sus secretarios, o tener parentesco civil con alguna de dichas personas;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+II.- Tener interés directo o indirecto en el juicio;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
+III.- Ser socio, arrendador, arrendatario, dependiente o tener negocios de cualquier clase, con alguna de las personas que se indican en la fracción I de este artículo; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2008)</small>
+
+IV.- Tener amistad íntima o enemistad manifiesta con algunas de las partes, sus representantes o autorizados legales.
 
 El juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida, se nombrará nuevo perito en los mismos términos que al recusado.
 
 ART. 351.- En caso de ser desechada la recusación se impondrá al recusante una multa, que no excederá de veinte pesos, en favor del colitigante.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 352.- El honorario de cada perito será pagado por la parte que lo nombró o en cuyo defecto lo hubiere nombrado el juez y el tercero para en caso de discordia será pagado por el oferente de la prueba, sin perjuicio de lo que disponga la resolución definitiva sobre la condenación en costas.
+ART. 352.- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuya rebeldía lo hubiere nombrado el Juez, de acuerdo con el arancel. El tercero para en caso de discordia, será pagado por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre la condenación en costas.
+
+Los honorarios de los peritos deberán ser depositados ante el Juzgado en el momento de ofrecer la prueba. Tratándose de peritos designados por el Juez, éste requerirá a la parte o partes para que en un término de tres días los exhiban.
+
+En todo caso el importe de los honorarios, se entregará al perito, hasta después de que rinda su dictamen.
+
+El incumplimiento de la parte oferente de la prueba pericial, de la obligación de exhibir los honorarios de los peritos que designó será motivo suficiente para que se le tenga por perdido su derecho para desahogar dicha prueba, con o sin petición de la contraria.
 
 #### SECCION V. Del reconocimiento o inspección judicial
 
-ART. 353.- El reconocimiento se practicará siempre previa citación de las partes, fijándose día, hora y lugar.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 353.- La inspección judicial puede practicarse, a petición de parte o por disposición del tribunal, para aclarar o fijar hechos relativos a la contienda que no requieran conocimientos técnicos especiales.
+
+La inspección puede recaer sobre lugares, cosas muebles o inmuebles, o personas. Si la prueba es pedida por alguna de las partes, deberá indicar con toda precisión, al ofrecerla, la materia y objeto de la inspección y los hechos controvertidos que pretenda acreditar.
+
+Al admitir la prueba, el juzgador fijará fecha y lugar para que se lleve a cabo, previa citación de las partes.
 
 Las partes, sus representantes o abogados pueden concurrir a la inspección y hacer las observaciones que estimen oportunas.
 
-También podrán concurrir a ellas los testigos de identidad o peritos que fueren necesarios.
+Si el reconocimiento o inspección requiere conocimientos especiales o científicos, podrán concurrir también peritos, los cuales deberán ser designados de acuerdo con las reglas de la prueba pericial.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+Asimismo, podrán citarse a testigos de identidad para que concurran, si fuere necesario.
 
-ART. 354.- Del reconocimiento se levantará acta que firmarán los que en él concurran, asentándose los puntos que lo provocaron, las observaciones, declaraciones de peritos y todo lo necesario para esclarecer la verdad. Cuando fuere necesario se levantarán planos o se sacarán fotografías del lugar y objetos inspeccionados ante la presencia judicial, quien certificará esa circunstancia.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 354.- La inspección o reconocimiento se practicará personalmente por el juzgador o se encomendará al Secretario.
+
+Si se trata de inspeccionar un inmueble, o bien un objeto o documento que no pueda ser llevado ante el juzgador sin gran dificultad o considerables gastos, o porque la Ley no lo autorice, la inspección se efectuará constituyéndose en el lugar donde el bien se encuentre. En el caso contrario, la parte que lo tenga en su poder deberá exhibirlo ante la autoridad judicial.
+
+La inspección judicial sobre personas podrá practicarse con el concurso de uno o varios peritos, y deberá efectuarse en tal forma que no menoscabe su dignidad.
+
+En la inspección de documentos de contabilidad y libros, el juzgador también podrá auxiliarse de peritos nombrados por él o por las partes, quienes en su informe podrán referirse a libros o documentos que tuvieron a la vista, aunque no haya sido con objeto de la inspección.
+
+Al practicarse la inspección, el juzgador o funcionario que actúe podrá disponer que se ejecuten planos, calcas o copias, se tomen fotografías, películas, grabaciones por video o de cualquier otra especie, de objetos, documentos y lugares, cuando se requiera.
+
+También podrá ordenar, para comprobar que un hecho se ha producido, o pudo haberse producido en forma determinada, que se reconstruya. La diligencia podrá hacerse constar por medio de fotografías, videograbación, u otros medios tecnológicos.
+
+El Juez o funcionario que practique la inspección, durante el desarrollo de ésta, podrá oír testigos para obtener informes, aunque éstos no hayan sido designados antes, y podrá dictar las providencias necesarias para que se exhiban las cosas o se tenga acceso a los lugares materia de la inspección.
+
+De la inspección o reconocimiento se levantará acta, que firmarán quienes concurran a la misma, asentándose los puntos que motivaron la inspección o reconocimiento, las observaciones, declaraciones de peritos o testigos y todo lo necesario para esclarecer la verdad.
 
 #### SECCION VI. Prueba testimonial
 
 ART. 355.- Todos los que tengan conocimiento de los hechos que las partes deben de probar, están obligados a declarar como testigos.
 
-ART. 356.- Los testigos serán citados a declarar cuando la parte que ofrezca su testimonio manifieste no poder por sí misma, hacer que se presenten.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
-Los que citados legalmente se nieguen a comparecer sin causa justificada y los que habiendo comparecido se nieguen a declarar, serán apremiados por el tribunal.
+No estarán obligados a declarar como testigos y podrán pedir que se les exima de hacerlo los ascendientes y descendientes, el cónyuge y las personas que deban guardar secreto profesional, en los casos en que se trate de probar contra la parte con la cual estén relacionados.
 
-ART. 357.- A los ancianos de más de sesenta años y a los enfermos podrá el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 358.- Al Presidente de la República, a los secretarios de Estado, senadores, diputados, magistrados, jueces, generales con mando, gobernadores y presidentes municipales, se pedirá su declaración por oficio, y en esta forma la rendirán. En casos urgentes, podrán rendir su declaración personalmente.
+Una parte sólo puede presentar hasta tres testigos sobre cada hecho.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 359.- Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes en el momento de la audiencia y deberán tener relación directa con los puntos controvertidos; deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar que se cumplan estas condiciones reprobando preguntas que las contraríen. Contra la reprobación de preguntas sólo cabe la apelación en el efecto devolutivo.
+ART. 356.- La prueba testimonial se ofrecerá indicando los nombres y domicilios de las personas terceras ajenas al pleito, a quienes deba interrogarse, y los hechos sobre los cuales cada uno de ellos o todos deban declarar.
+
+Las partes tendrán el deber de presentar a sus propios testigos. Cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán al juzgador bajo protesta de decir verdad, expresando las causas por las cuales no pueden presentarlos y le pedirán que los cite. El Juez calificará las causas de imposibilidad bajo su prudente arbitrio, sin perjuicio de que la parte oferente coadyuve a la debida citación de los mismos.
+
+El juzgador ordenará la citación de los testigos, con el apercibimiento de imponerles una multa o un arresto en los términos previstos en el artículo 73 de este Código, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
+
+A los que citados legalmente, dejaren de comparecer sin causa justificada, o habiendo comparecido se nieguen a prestar la protesta de decir verdad o a declarar, se les hará efectivo el apercibimiento fijado en la citación y podrá ordenarse la presentación de los que no hayan asistido, por medio de la fuerza pública o mediante arresto, independientemente de la responsabilidad penal en que incurran.
+
+La prueba se declarará desierta cuando el oferente se comprometa a presentar testigos y no lo hiciere; cuando ejecutados los medios de apremio, no se logre dicha presentación o en el caso de que el señalamiento del domicilio de algún testigo resulte inexacto.
+
+El oferente de la prueba podrá sustituir sus testigos por causa justificada, siempre que lo solicite cinco días antes de la celebración de la audiencia, a menos que al iniciarse ésta presente a los testigos sustitutos.
+
+El Juez resolverá la sustitución de testigos de plano.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 357.- En caso de que exista imposibilidad justificada para asistir a declarar, se observarán las mismas disposiciones que tratándose de la prueba confesional.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 358.- Al Gobernador, Secretarios de Despacho, Diputados, Magistrados, Procurador de Justicia, Subprocuradores, Jueces de Primera Instancia y Presidentes Municipales del Estado; al Presidente de la República, Ministros de la Suprema Corte de Justicia de la Nación, Diputados y Senadores del Congreso de la Unión; Secretarios de Estado, Jueces de Distrito, titulares de dependencias federales y Generales con mando, que residan en el Estado, se pedirá su declaración mediante oficio y en esta forma la rendirán. El oficio en que se pida la declaración deberá contener o estar acompañado de los puntos del interrogatorio, el cual deberá ser exhibido por la parte que solicite la prueba, con el escrito de ofrecimiento.
+
+En casos urgentes y cuando los propios funcionarios lo deseen, podrán rendir su declaración personalmente. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes a la notificación del auto que admita la prueba.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 359.- Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes en el momento de la audiencia, de acuerdo con las reglas siguientes:
+
+I.- Deberán tener relación directa con los puntos controvertidos;
+
+II.- No serán contrarias al derecho o la moral;
+
+III.- No deberán ser formuladas en forma que sugieran al testigo la respuesta, de tal forma que sólo se concreten a responder afirmativa o negativamente;
+
+IV.- Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho; y
+
+V.- Sólo se referirán a hechos o circunstancias que hayan podido apreciar los testigos por medio de sus sentidos.
+
+El Juez debe cuidar que se cumplan estas condiciones y desechar de plano las preguntas que no satisfagan esos requisitos, mismas que se asentarán literalmente en autos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 359 BIS.- Las preguntas y repreguntas serán desechadas cuando:
+
+I.- No reúnan los requisitos previstos en el artículo anterior;
+
+II.- Sean insidiosas;
+
+III.- Sean contradictorias, en cuyo caso se desecharán las dos preguntas o repreguntas que contengan contradicción; y
+
+IV.- Estén formuladas en términos técnicos o se refieran a opiniones o creencias.
+
+Contra el desechamiento de preguntas sólo cabe la apelación en el efecto preventivo, de tramitación conjunta con la sentencia definitiva.
 
 ART. 360.- La protesta y examen de los testigos se hará en presencia de las partes que concurrieren. Interrogará el promovente de la prueba y a continuación los demás litigantes.
 
-ART. 361.- No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del lugar del juicio, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios con las copias respectivas para las otras partes que dentro de tres días pueden presentar sus interrogatorios de repreguntas. Para el examen de los testigos que no residen en el lugar del juicio se librará exhorto en que se incluirán, en pliego cerrado, las preguntas y repreguntas.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 362.- Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado, de alguno de los litigantes; si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito; si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá el examen.
+ART. 361.- No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera de la jurisdicción del Tribunal o se trate de alguno de los servidores públicos señalados en el artículo 358 de este Código, el promovente, al ofrecer la prueba, deberá presentar sus interrogatorios con las copias respectivas para la contraparte, requisito sin el cual no será admitida. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes al auto que ordena la admisión de la prueba.
+
+El juzgador calificará las preguntas conforme a lo previsto en los artículos 359 y 359 Bis de este Código y hará las anotaciones correspondientes en el mismo interrogatorio, del cual se dejará copia certificada en el expediente respectivo.
+
+El juzgador podrá formular por escrito el interrogatorio sobre los hechos propuestos por las partes, pudiendo incluir en el exhorto el pliego de preguntas y el de repreguntas en sobre cerrado y sellado.
+
+La parte podrá presentarse directamente, a repreguntar, ante el Tribunal requerido, el cual hará la calificación de las repreguntas, cuidando de asentar literalmente en autos las que deseche.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 362.- Los testigos deberán identificarse, asentándose razón en el acta de los documentos o medios que sirvieron para este fin. Después, se les tomará la protesta de conducirse con verdad y se les advertirán las penas en que incurren los testigos falsos. Además, se harán constar el nombre, edad, estado civil, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado, de alguno de los litigantes, si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito; si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá al examen.
 
 > <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
 
 ART. 363.- Los testigos serán examinados separada y sucesivamente, sin que unos puedan presenciar las declaraciones de los otros. A este efecto el juez fijará un sólo día para que se presenten los testigos que deben declarar, y designará el lugar en que deben permanecer hasta la conclusión de la diligencia, salvo lo dispuesto en los artículos 357 a 359. Si no fuere posible terminar el examen de los testigos en un sólo día, la diligencia se suspenderá para continuarla al día siguiente.
 
-ART. 364.- Cuando el testigo deje de contestar a algún punto o haya incurrido en contradicción, o se haya expresado con ambigüedad, pueden las partes llamar la atención del juez para que éste, si lo estima conveniente, exija al testigo las aclaraciones oportunas.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 365.- El tribunal tendrá la más amplia facultad para hacer a los testigos y a las partes las preguntas que estime conducentes a la investigación de la verdad respecto a los puntos controvertidos.
+En primer término formulará su interrogatorio el oferente de la prueba y en seguida la contraparte, quien también podrá formular preguntas directas al testigo, siempre y cuando tengan relación con los hechos que se traten de acreditar.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+El testigo interrogado deberá contestar personalmente y no podrá servirse de apuntes ya preparados, pero el Tribunal podrá permitirle el uso de anotaciones cuando deba referirse a nombres o cifras, o cuando así lo aconsejen circunstancias especiales.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+El testigo podrá leer por sí mismo su declaración, y deberá firmarla, ratificando antes su contenido. Si se niega a firmarla no puede o no sabe leer o escribir, la declaración será leída por el Secretario y firmada por éste y por el Juez, haciéndose constar tal circunstancia.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 364.- Cuando el testigo deje de contestar a algún punto o haya incurrido en contradicción, o se haya expresado con ambigüedad, las partes pueden llamar la atención del Juez para que éste, si lo estima conveniente, exija a aquél las respuestas y aclaraciones que procedan.
+
+En caso de que el oferente de la prueba no se presente el día de la audiencia a formular las preguntas a los testigos, la prueba deberá declararse desierta de oficio.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 365.- El Tribunal tendrá la más amplia facultad para hacer a los testigos y a las partes las preguntas que estime conducentes a la investigación de la verdad respecto a los puntos controvertidos, así como para cerciorarse de la idoneidad de los testigos, asentandose todo en el acta.
 
 ART. 366.- Si el testigo no sabe el idioma rendirá su declaración por medio de intérprete, que será nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma por él o por el intérprete.
 
@@ -1841,11 +2403,23 @@ ART. 372.- Para acreditar hechos o circunstancias que tengan relación con el ne
 
 Quedan comprendidas dentro del término fotografías, las cintas cinematográficas y cualesquiera otras producciones fotográficas.
 
-ART. 373.- Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás elementos que produzcan convicción en el ánimo del juez.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-La parte que presente esos medios de prueba deberá ministrar al tribunal los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos y figuras.
+ART. 373.- Como medio de prueba deben admitirse también los registros dactiloscópicos y fonográficos, así como la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia y la tecnología.
+
+La parte que presente esos medios de prueba deberá indicar los hechos y circunstancias que desea probar y proporcionar al Tribunal los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos e imágenes.
+
+El juzgador, según su prudente arbitrio, admitirá o denegará la prueba y señalará al oferente un plazo para que la presente, así como el día y la hora para que en su presencia y en la de las partes, se lleve a cabo la práctica del experimento, reproducción o reconstrucción.
 
 ART. 374.- Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+En caso de que se necesiten conocimientos técnicos especiales para la apreciación de los medios de prueba a que se refiere este Capítulo, el Tribunal designará un perito para que emita su opinión.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+La parte que ofrezca y promueva la prueba, cubrirá los gastos de su desahogo, incluyendo los honorarios de los técnicos que sean necesarios para llevarla a cabo, con independencia de la determinación de las costas procesales que haga el juzgador en la sentencia definitiva.
 
 #### SECCION VIII. De la fama pública
 
@@ -1883,23 +2457,33 @@ ART. 382.- Contra las demás presunciones legales y contra las humanas es admisi
 
 ### CAPITULO VII. Del valor de las pruebas
 
-ART. 401.- La confesión judicial hace prueba plena cuando concurren en ella las siguientes condiciones:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 401.- No tendrán valor legal alguno las pruebas rendidas con infracción de lo dispuesto en los Capítulos II, III, V, VI y VII de este Título.
+
+La confesión judicial hace prueba plena cuando concurren en ella las siguientes condiciones:
 
 I.- Que sea hecha por persona capaz de obligarse;
 
 II.- Que sea hecha con pleno conocimiento y sin coacción ni violencia;
 
-III.- Que sea de hecho propio o, en su caso, del representado o del cedente, y concerniente al negocio;
+III.- Que sea de hecho propio o, en su caso, del representante o del cedente, y concerniente al negocio; y
 
-IV.- Que se haga conforme a las formalidades de la ley.
+IV.- Que se haga conforme a las formalidades de la Ley.
 
 ART. 402.- El declarado confeso sin que haya hecho confesión, puede rendir prueba en contrario, siempre que esta prueba no importe una excepción no opuesta en tiempo oportuno.
 
 ART. 403.- La confesión judicial expresa que afecte a toda la demanda, engendra el efecto de obligar al juez a otorgar en la sentencia un plazo de gracia al deudor después de efectuado el secuestro y reducir las costas.
 
-ART. 404.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 404.- Los hechos propios de las partes, aseverados en la demanda, en la contestación o en cualquier otro acto del juicio, harán prueba plena en contra de quien los asevere, sin necesidad de ofrecerlos como prueba.
 
 ART. 405.- La confesión hecha en la demanda, en la contestación o en cualquier otro acto del juicio, hará prueba plena sin necesidad de ratificación ni ser ofrecida como prueba.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+La confesión ficta produce el efecto de una presunción, cuando no haya pruebas que la contradigan.
 
 ART. 406.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
@@ -1909,7 +2493,11 @@ ART. 407.- La confesión extrajudicial hecha en testamento también hace prueba 
 
 ART. 408.- La confesión no producirá efecto probatorio cuando venga acompañada con otras pruebas o presunciones que la hagan inverosímil o descubran la intención de defraudar a terceros. Debe el juez razonar cuidadosamente esta parte en su fallo.
 
-ART. 409.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 409.- Los documentos públicos hacen prueba plena de los hechos legalmente afirmados por la autoridad que de aquéllos procedan; pero, si en ellos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones; pero no prueban la verdad de lo declarado o manifestado.
+
+Las declaraciones o manifestaciones de que se trata prueban plenamente contra quienes las hicieron o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas. Pierden su valor en el caso de que judicialmente se declare su simulación.
 
 ART. 410.- Los instrumentos públicos no se perjudicarán en cuanto a su validez por las excepciones que se aleguen para destruir la acción que en ellos se funde.
 
@@ -1917,17 +2505,67 @@ ART. 411.- Las partidas registradas por los párrocos, anteriores al establecimi
 
 ART. 412.- Las actuaciones judiciales hacen prueba plena.
 
-ART. 413.- Los documentos privados sólo harán prueba plena, y contra su autor, cuando fueren reconocidos legalmente. En el reconocimiento expreso de documentos privados es aplicable lo dispuesto en las fracciones I y II del artículo 401.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 414.- El reconocimiento hecho por el albacea hace prueba plena, y también lo hace el hecho por un heredero en lo que a él concierna.
+ART. 413.- El documento privado forma prueba de los hechos mencionados en éste, sólo en cuanto sean contrarios a los intereses de su autor, cuando la Ley no disponga otra cosa.
 
-ART. 415.- Los documentos simples comprobados por testigos tendrán el valor que merezcan sus testimonios recibidos conforme a lo dispuesto en la Sección VI de este capítulo.
+Los documentos privados provenientes de las partes, harán prueba plena cuando no fueren objetados, cuando no se pruebe la objeción o cuando fueren legalmente reconocidos.
+
+El documento proveniente de un tercero sólo prueba en favor de la parte que quiere beneficiarse con él y contra su colitigante, cuando éste no lo objeta. En el caso contrario, la verdad de su contenido debe demostrarse por otras pruebas.
+
+El escrito privado que contenga una declaración de verdad, hace fe de la existencia de la declaración; más no de los hechos declarados. Es aplicable al caso lo dispuesto en el párrafo segundo del artículo 409 de este Código.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 414.- Se considera como autor de un documento privado al que lo suscribe, salvo la excepción de que trata el penúltimo párrafo de este artículo, y a aquél por cuya cuenta ha sido formado.
+
+Se entiende por suscripción la colocación, al pie del escrito, de las palabras que, con respecto al destino del mismo, sean idóneas para identificar a la persona que subscribe.
+
+La suscripción hace plena fe de la formación del documento por cuenta del suscriptor, aun cuando el texto no haya sido escrito ni en todo ni en parte por él, excepto por lo que se refiere a agregados interlineales o marginales, cancelaciones o cualesquiera otras modificaciones contenidas en él, las cuales no se reputan provenientes del autor, si no están escritas por su mano, o no se ha hecho mención de ellas antes de la suscripción.
+
+Si la suscripción o la fecha están certificadas por notario o por cualquier otro funcionario revestido de la fe pública, tendrá el mismo valor que un documento público indubitado.
+
+Se considera como autor de los libros de comercio, registros domésticos y demás documentos que no se acostumbra suscribir, a aquél que los haya formado o por cuya cuenta se hicieren.
+
+En los casos de este artículo y en los del anterior, no tendrá valor probatorio el documento no objetado, si el juicio se ha seguido en rebeldía y no se cumplió con lo establecido en el último párrafo del artículo 339 de este Código.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 415.- Si un documento privado contiene juntos uno o más hechos contrarios a los intereses de su autor, y uno o más hechos favorables al mismo, la verdad de los primeros no puede aceptarse sin aceptar, al propio tiempo, la verdad de los segundos, en los límites dentro de los cuales los hechos favorables suministren, a aquél contra el cual está producido el documento, una excepción o defensa contra la prestación que apoyan los hechos que le son contrarios.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 415 BIS.- Para valorar la fuerza probatoria de la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
+
+Cuando la Ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
 
 ART. 416.- El documento que un litigante presenta, prueba plenamente en su contra, en todas sus partes, aunque el colitigante no lo reconozca.
 
 ART. 417.- El reconocimiento o inspección judicial hará prueba plena cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos.
 
-ART. 418.- El dictamen de peritos y la prueba testimonial serán valorizados según el prudente arbitrio del juez.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 418.- El valor probatorio de la prueba pericial será estimado por el Juez, atendiendo al contenido de los dictámenes, la calidad de los peritos, entendiéndose como tal el grado académico, especialización y experiencia que tiene sobre la materia, de acuerdo a constancias de autos; así como las razones de éstos para sustentar su opinión, debiendo apreciar las circunstancias del caso, sin más límite que el impuesto por la sana crítica, la lógica y la experiencia, para formarse una convicción respecto del que tenga mayor fuerza probatoria.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 418 BIS.- El valor de la prueba testimonial quedará al prudente arbitrio del Juzgador, quien, para apreciarla, tendrá en consideración:
+
+I.- Que los testigos convengan en lo esencial del acto que refieran, aun cuando difieran en los accidentes;
+
+II.- Que, por su edad, capacidad o instrucción, tengan el criterio necesario para juzgar el acto;
+
+III.- Que, por su probidad, por la independencia de su posición o por sus antecedentes personales, tengan completa imparcialidad;
+
+IV.- Que por sí mismos conozcan los hechos sobre que declaren, y no por inducciones ni referencias de otras personas;
+
+V.- Que la declaración sea clara, precisa, sin dudas ni reticencias, sobre la sustancia del hecho y sus circunstancias esenciales;
+
+VI.- Que no hayan sido obligados por fuerza o miedo, ni impulsados por engaño, error o soborno; y
+
+VII.- Que den fundada razón de su dicho.
+
+Un solo testigo hace prueba plena cuando ambas partes convengan expresamente en pasar por su dicho, siempre que su declaración no esté en oposición con otras pruebas que obren en autos. En cualquier otro caso, su valor quedará a la prudente apreciación del Tribunal.
 
 ART. 419.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
 
@@ -1943,7 +2581,15 @@ ART. 422.- Para que las presunciones no establecidas por la ley sean apreciables
 
 Los jueces apreciarán en justicia el valor de las presunciones humanas.
 
-ART. 423.- La valorización de las pruebas se hará de acuerdo con el presente capítulo, a menos que por el enlace interior de las pruebas rendidas y de las presunciones formadas, el tribunal adquiera convicción distinta respecto de los hechos materia del litigio. En este caso deberá fundar el juez cuidadosamente esta parte de su sentencia.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 423.- El juzgador hará el análisis y valoración de cada una de las pruebas rendidas y de su conjunto, racionalmente, de acuerdo con los principios de la lógica y las máximas de la experiencia, debiendo además, observar las reglas especiales que la Ley fije.
+
+La valoración de las pruebas contradictorias se hará confrontándolas, a efecto de que, por el enlace interior de las rendidas, las presunciones y los indicios, formen convicción.
+
+En casos dudosos, el juzgador podrá deducir argumentos de prueba de las respuestas de las partes, cuando las ha llamado a su presencia para interrogarlas, de la resistencia injustificada para exhibir documentos o a permitir inspecciones que se hayan ordenado; y, en general, de su comportamiento durante el proceso.
+
+En todo caso, el juzgador deberá exponer en la parte considerativa de su sentencia, los fundamentos y motivos de la valoración jurídica y de su decisión.
 
 ## TITULO SEXTO (SIC). Recepción de pruebas
 
@@ -1973,9 +2619,9 @@ La prueba pericial se rendirá en la audiencia, reproduciendo los peritos sus di
 
 ART. 391.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba, para mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos. El juez debe impedir preguntas capciosas, ociosas o impertinentes. Las partes podrán objetar la pregunta que se haga en el momento de la audiencia y en ese mismo momento el juez resolverá esa objeción, tomando como base lo dispuesto en este mismo Artículo y por el 359. En el acta que se levante deberán asentarse literal y textualmente las preguntas y las respuestas.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 392.- Concluida la recepción de las pruebas, a petición de parte, se abrirá el periodo de alegatos por cinco días a cada parte, primero al actor y después al demandado, citando en ese mismo auto para sentencia definitiva, la que se pronunciará dentro de los siguientes quince días al en que termine el período de alegatos concedido a las partes.
+ART. 392.- Concluida la recepción de las pruebas, se abrirá el periodo de alegatos por cinco días a cada parte. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los quince días siguientes, salvo el caso de que existan apelaciones de tramitación inmediata pendientes de resolver.
 
 ART. 393.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
@@ -2085,29 +2731,31 @@ Todo el juicio se hará constar en una sola acta.
 
 ART. 432.- El juicio sumario se inicia con el escrito de demanda en el que debe reunir los requisitos señalados por los Artículos 254 y 255 del escrito de demanda se correrá traslado al demandado, por un término de cinco días, para que la conteste, apercibiéndolo que de no hacerlo se le declarará confeso y se le seguirá el juicio en su rebeldía.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 433.- Transcurrido el término para contestar la demanda, a petición de parte, si el estado procesal del juicio lo permite, se abrirá el término de ofrecimiento de pruebas por tres días común a las partes.
+Si en la contestación de la demanda se opusiere falta de personalidad o capacidad en el actor o el demandado, se tramitará dicha excepción en forma de incidente, que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, de tramitación inmediata, sin perjuicio de lo dispuesto por el artículo 39 de este Código.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 433.- Transcurrido el término para contestar la demanda, cuando se requiera, el Juez abrirá el juicio a prueba, por tres días común a las partes, pronunciando al efecto y en forma expresa el auto correspondiente.
+
+El auto que niegue o mande abrir el juicio a prueba será revocable.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 434.- Una vez ofrecidas y admitidas las pruebas que así lo ameriten a las partes, se señalará día y hora para su recepción dentro de los siguientes quince días a su admisión.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 435.- Desahogadas las pruebas admitidas a las partes, a petición por escrito de cualquiera de ellas, se habrirá (sic) el período de alegatos por tres días a cada una de las mismas, primero al actor y después al demandado, ordenando citarlas y así quedar por ese mismo auto para sentencia definitiva, la que se pronunciará dentro de los siguientes diez días al en que termine el período de alegatos.
+ART. 435.- Desahogadas las pruebas admitidas, se abrirá el período de alegatos por tres días común a las partes. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los diez días siguientes, salvo el caso de que existan apelaciones de tramitación inmediata pendientes de resolver.
 
 ART. 436.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
-
-ART. 437.- Si en la contestación de la demanda se opusiere falta de personalidad o capacidad en el actor o el demandado, se tramitará dicha excepción en forma de incidente como de previo y especial pronunciamiento, suspendiéndose mientras tanto el juicio original. Si se declara procedente, terminará el juicio dejándose a salvo los derechos del actor para que los haga valer como legalmente corresponda. Esta resolución será apelable en el sólo efecto devolutivo.
+ART. 437.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
 ART. 438.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 439.- Los incidentes surgidos en los juicios ordinarios o sumarios se tramitarán y se resolverán en la misma forma que la establecida por los Artículos 432 a 435, excepto cuando el punto cuestionado tenga señalado expresamente otro trámite o términos, los cuales serán aplicables. Las resoluciones que se pronuncien en los incidentes serán apelables en el sólo efecto devolutivo, a excepción de los que la Ley expresamente disponga que sea en ambos efectos.
+ART. 439.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2008)</small>
 
@@ -2319,7 +2967,9 @@ ART. 512.- Del precio del remate se pagará al ejecutante el importe de su créd
 
 ART. 513.- Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
 
-ART. 514.- Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución presentará su liquidación, de la cual se dará vista por tres días a la parte condenada. Si ésta nada expusiere dentro del término fijado se decretará la ejecución por la cantidad que importe la liquidación; mas si se expresare su inconformidad, se dará vista de las razones que alegue a la parte promovente por tres días, y de los que replique, por otros tres al deudor. El juez fallará dentro de igual término lo que estime justo. De esta resolución no habrá más recurso que el de responsabilidad.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 514.- Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución presentará su liquidación, de la cual se dará vista por tres días a la contraria. Se haya o no desahogado la vista, el Juez fallará dentro de igual plazo lo que en derecho corresponda. Esta resolución será apelable en el efecto devolutivo, de tramitación inmediata.
 
 ART. 515.- Cuando la sentencia hubiere condenado al pago de daños y perjuicios sin fijar su importe en cantidad líquida, háyanse establecido o no en aquélla las bases para la liquidación, el que haya obtenido a su favor el fallo presentará, con la solicitud, relación de los daños y perjuicios y de su importe. De esta regulación se correrá traslado al que haya sido condenado, observándose lo prevenido en el artículo anterior.
 
@@ -3095,7 +3745,9 @@ El juez debe desechar de plano las excepciones diversas a las que el Código Civ
 
 Son improcedentes la reconvención y la compensación.
 
-ART. 494.- La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en ambos efectos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 494.- La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en efecto suspensivo.
 
 ART. 495.- Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 489.
 
@@ -3259,7 +3911,9 @@ En caso de que no las acepten, el tribunal resolverá en la sentencia lo que pro
 
 Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
 
-ART. 680.- La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en ambos efectos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 680.- La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en efecto suspensivo.
 
 ART. 681.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó, y al del nacimiento de los divorciados, para los efectos de los artículos 114, 116 y 291 del Código Civil.
 
@@ -3293,115 +3947,291 @@ Divorcio por mutuo consentimiento
 
 ### CAPITULO I. De las revocaciones y apelaciones
 
-ART. 682.- Las sentencias no pueden ser revocadas por el juez que las dicta.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 683.- Los autos que no fueran apelables y los decretos pueden ser revocados por el juez que los dicta, o por el que lo substituya en el conocimiento del negocio.
+ART. 682.- Todos los recursos de la misma naturaleza hechos valer por separado en contra de una misma resolución judicial, deberán acumularse a petición de parte o de oficio, y decidirse en una sola sentencia.
 
-ART. 684.- La revocación debe pedirse por escrito dentro de las veinticuatro horas siguientes a la notificación, y se substancia con un escrito por cada parte y la resolución del juez que debe pronunciarse dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
+Si se hicieren valer varios recursos simultáneamente, sólo se admitirá el que proceda.
 
-ART. 685.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+Cuando un recurso sea declarado inadmisible o improcedente, no puede interponerse nuevamente el mismo recurso, aun cuando no haya vencido el plazo establecido por la Ley para hacerlo valer.
 
-ART. 686.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+Hasta antes de dictarse la resolución sobre el recurso, el que lo interpuso o su representante con poder bastante, podrán desistirse.
 
-ART. 687.- El recurso de apelación tiene por objeto que el superior confirme, revoque o modifique la resolución del inferior.
+Los recursos se tendrán por abandonados cuando no se continuaren en forma legal o no se interpongan por las partes con los requisitos que establece la Ley.
 
-ART. 688.- Pueden apelar: el litigante si creyese haber recibido algún agravio, los terceros que hayan salido al juicio y los demás interesados a quien perjudique la resolución judicial.
+El abandono de un recurso no trae condena en costas, pero sujeta al que lo hizo valer a indemnizar a la contraparte por el perjuicio que le cause la suspensión, si se hubiere admitido con ese efecto.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo la restitución de frutos, la indemnización de daños y perjuicios o el pago de costas, podrá apelar también.
+ART. 683.- Las sentencias no pueden ser impugnadas a través del Recurso de Revocación, ni revocadas por el juzgador que las haya dictado.
 
-ART. 689.- La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esa notificación. En este caso, la adhesión al recurso sigue la suerte de éste.
+Los autos y los decretos pueden ser revocados por el Juez que los dicta, o por el que lo substituya en el conocimiento del negocio, excepto cuando la Ley declare expresamente que no son recurribles o establezca expresamente la procedencia de otro recurso.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+En los juicios en que la sentencia definitiva sea apelable, la revocación procede únicamente contra determinaciones de trámite, en los términos del artículo 79, fracción I de este Código.
 
-ART. 690.- La apelación debe interponerse por escrito verbalmente en el momento de notificarse la resolución o ante el juez que pronunció la sentencia, dentro de cinco días hábiles improrrogables, si la sentencia fuere definitiva, o dentro de tres si fuere auto o interlocutoria. Se exceptúa la apelación en contra (sic) las sentencias de los juicios en rebeldía, cuando no fuere notificado personalmente el demandado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-Los autos e interlocutorias serán apelables cuando lo fuere la sentencia definitiva o la ley así lo disponga.
+ART. 684.- El Recurso de Revocación deberá interponerse por escrito dentro de los tres días siguientes a la notificación, expresando los hechos y fundamentos legales que lo sustenten. El Juez podrá resolver de plano confirmando o modificando la resolución impugnada. Podrá asimismo, en consideración a las circunstancias del caso, dar vista a la parte contraria por un término igual y la resolución deberá pronunciarse dentro del tercer día siguiente. Esta resolución no admite más recurso que el de responsabilidad.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
+Si el recurso fuere presentado extemporáneamente o no contiene expresión de agravios, se declarará desierto y firme la resolución recurrida.
 
-ART. 691.- El litigante al interponer la apelación debe usar de moderación, absteniéndose de denostar al juez; de lo contrario, quedará sujeto a la pena impuesta en los artículos 61 y 62.
+> <small>(REFORMADO [N. DE .E. ADICIONADO], P.O. 19 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 685.- Contra los decretos y autos emitidos por las Salas y el Pleno del Supremo Tribunal de Justicia no procede recurso alguno.
 
-ART. 692.- Interpuesta una apelación el juez la admitirá sin substanciación alguna, si fuere procedente, expresando si la admite en ambos efectos o en el sólo efecto devolutivo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 686.- A través del Recurso de Apelación el Tribunal de Alzada podrá revocar o modificar el auto o la sentencia recurridos, si estima fundados los agravios del apelante; confirmar la resolución apelada, si los considera infundados o en su caso, decretar la reposición del procedimiento, todo ello a solicitud de la parte agraviada, con excepción de lo dispuesto en el artículo 715 de este Código.
 
-ART. 693.- El recurso de apelación procede en el sólo efecto devolutivo o en los efectos suspensivo y devolutivo. En el primer caso no se suspende la ejecución del auto o de la sentencia que se impugna, y si ésta es definitiva, se dejará en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el juez y la parte interesada en su ejecución estimen necesarias, remitiéndose los autos originales al tribunal superior para la tramitación del recurso interpuesto. Si lo combatido es auto o interlocutoria se remitirá al tribunal superior testimonio de lo que el apelante señale y a él se agregarán, a costa del colitigante, las constancias que éste solicite. El apelante deberá hacer ese señalamiento en el mismo momento de interponer el recurso y de no hacer así se le denegará la admisión del recurso interpuesto y se declarará firme la resolución impugnada.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-La apelación admitida en ambos efectos suspende, desde luego, la ejecución de la sentencia, hasta que ésta cause ejecutoria, o la tramitación del juicio, cuando se interpuso contra auto o interlocutoria.
+ART. 687.- El Recurso de Apelación procede:
 
-ART. 694.- Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido que se admitan libremente, o en ambos efectos.
+I.- Contra las sentencias definitivas en toda clase de juicios, excepto cuando la Ley declare expresamente que no son apelables;
 
-ART. 695.- De las sentencias interlocutorias con fuerza de definitivas que no paralizan ni ponen término al juicio, se admitirán las apelaciones en el efecto devolutivo; pero, si el juicio fuere ordinario y el apelante, en un plazo que no exceda de seis días, presta fianza a satisfacción del juez para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
+II.- Las sentencias interlocutorias, excepto cuando por disposición de la Ley no se otorgue a las partes el recurso o la sentencia definitiva no fuere apelable;
 
-Si el tribunal confirmase el auto apelado, condenará al apelante al pago de dichas indemnizaciones, fijando prudencialmente el importe de los daños y perjuicios, que no bajarán de cien pesos ni podrán exceder de quinientos, además de lo que importen las costas.
+III.- Contra los autos definitivos o los que independientemente de que tengan ese carácter:
 
-ART. 696.- Si la apelación devolutiva fuere de auto o sentencia interlocutoria, sólo se remitirá al superior testimonio de lo que señalare de los autos el apelante, con las adiciones que haga el colitigante y el juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. El apelante deberá solicitar el testimonio dentro del tercer día de la admisión del recurso, expresando los particulares que deban contener. Transcurrido este término, sin haberlo solicitado se le negará el testimonio y se tendrá por firme la resolución apelada.
+a) Denieguen la admisión de la demanda o los medios preparatorios a juicio;
 
-Al remitirse las constancias al superior, se emplazará a las partes para que comparezcan ante dicho tribunal.
+b) Resuelvan sobre acumulación de acciones o sobre la intervención de sucesores procesales o terceros;
 
-Para la remisión del testimonio regirá lo dispuesto en la parte final del artículo siguiente.
+c) Rechacen la representación de alguna de las partes o resuelvan sobre cualquier otro presupuesto procesal;
 
-ART. 697.- No se suspenderá la ejecución de la sentencia, auto o providencia apelados, cuando haya sido admitida la apelación en el efecto devolutivo. En este caso, si la apelación fuere de sentencia definitiva, quedará en el juzgado testimonio de lo necesario para ejecutarla, remitiendo los autos al superior, como se previene en el artículo 693. No se podrá suspender la remisión de los autos, porque las partes dejaren de suministrar los timbres para las copias certificadas que formen el testimonio de ejecución, pudiendo el juez apremiarlas para que los exhiban con posterioridad, si fuere necesario.
+d) Deniegue el trámite de una excepción procesal o la resuelva;
 
-ART. 698.- Admitida la apelación en sólo el efecto devolutivo, no se ejecutará la sentencia si no se otorga previamente fianza, conforme a las reglas siguientes:
+e) Denieguen la apertura del proceso a prueba o el señalamiento del término para recibirlas;
 
-I.- La calificación de la idoneidad de la fianza será hecha por el juez, quien se sujetará bajo su responsabilidad, a las disposiciones del Código Civil;
+f) Decida sobre nulidades procesales;
 
-II.- La fianza otorgada por el actor comprenderá la devolución de la cosa o cosas que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios, si el superior revoca el fallo;
+g) Acuerde sobre suspensión o interrupción del proceso u ordene que se levanten;
 
-III.- La otorgada por el demandado comprenderá el pago de lo juzgado y sentenciado, y su cumplimiento, en el caso de que la sentencia condene a hacer o a no hacer;
+h) Resuelva sobre la aprobación de transacciones y convenios, desistimiento, perención o cualquier otra causa que ponga fin al proceso;
 
-IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
+i) Decrete o levante medidas cautelares; y
 
-ART. 699.- Además de los casos determinados expresamente en la ley, se admitirán en ambos efectos las apelaciones que se interpongan:
+j) Causen un gravamen que no pueda repararse en la sentencia definitiva.
 
-I.- De las sentencias definitivas en los juicios plenarios;
+IV.- Contra las demás resoluciones expresamente señaladas en este Código.
 
-II.- De los autos definitivos que paralizan o ponen término al juicio haciendo imposible su continuación;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-III.- De las sentencias interlocutorias que paralizan o ponen término al juicio haciendo imposible su continuación.
+ART. 688.- Artículo 688. El Recurso de Apelación se concede:
 
-ART. 700.- Admitida la apelación en ambos efectos, el juez remitirá los autos originales, desde luego, al Supremo Tribunal, dentro del tercer día, citando a las partes para que comparezcan ante dicho tribunal.
+I.- Al litigante contra quien se dictó la resolución, si creyere haber recibido algún agravio.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
+II.- A los terceros que hayan salido al juicio y a los demás intervinientes a quienes perjudique la resolución judicial.
 
-ART. 701.- En el caso del artículo anterior se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del juez para seguir conociendo de los autos principales, desde el momento en que se admita la apelación en ambos efectos, sin perjuicio de que la sección de ejecución continúe en poder del juez a quo, para resolver lo concerniente al depósito, las cuentas, gastos y administración.
+No puede apelar el que obtuvo todo lo que pidió, a menos que se trate de apelación adhesiva. El vencedor que no obtuvo la restitución de frutos, la indemnización de daños y perjuicios o el pago de costas, podrá apelar en lo que a estos puntos de la resolución se refiere.
 
-ART. 702.- Llegados los autos o el testimonio, en su caso, al tribunal superior, éste sin necesidad de vista o informes, dentro de los ocho días, dictará providencia en la que decidirá sobre la admisión del recurso y la calificación del grado hecha por el juez inferior. Declarada inadmisible la apelación, se devolverán los autos al inferior; revocada la calificación, se procederá en su consecuencia.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 703.- En el auto a que se refiere el artículo anterior mandará el tribunal poner a la disposición del apelante los autos, por seis días en la secretaría, para que exprese agravios. Del escrito de expresión de agravios se corre traslado a la contraria por otros seis días, durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
+ART. 689.- La parte que obtuvo sentencia definitiva favorable puede adherirse a la apelación interpuesta por la contraparte, de acuerdo con las reglas siguientes:
 
-ART. 704.- En caso de que el apelante omitiere en el término de ley, expresar los agravios, se tendrá por desierto el recurso, haciendo la declaración correspondiente el superior, a petición de parte.
+I.- Deberá interponerse dentro de los tres días siguientes a la admisión del recurso;
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+II.- Deberá formularse expresando los razonamientos tendientes a acreditar las deficiencias o la indebida motivación o fundamentación de que adolezca la sentencia, no obstante serle favorable, con el objeto de que sean subsanadas, de estimarse atendibles, al dictarse resolución en la apelación principal;
 
-ART. 705.- Si en el escrito de expresión de agravios y su contestación, las partes manifiestan su deseo de ofrecer pruebas, deberán especificar los puntos sobre las que se relacionarán, que nunca serán extraños a la cuestión debatida.
+III.- También podrá expresar agravios si existiere otra apelación por resolución diversa que se haya dejado para decidirse junto con la apelación de la sentencia definitiva, en los casos autorizados por la Ley, y cuya resolución se estime de trascendencia para obtener la confirmación de la resolución apelada;
 
-ART. 706.- Dentro del tercer día, el tribunal resolverá sobre la admisión de las pruebas, abriendo un término probatorio que no podrá exceder de veinte días.
+IV.- De los escritos de expresión de agravios formulados por el contra apelante a que aluden las dos fracciones anteriores, se correrá traslado al apelante por el término de tres días; y
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+V.- La adhesión no se considerará como una apelación independiente, debiendo seguir la suerte procesal de la apelación principal.
 
-ART. 707.- Sólo podrá otorgarse el recibimiento de prueba en segunda instancia:
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-I.- Cuando por cualquier causa no imputable al que solicite la prueba, no hubiere podido practicarse, en la primera instancia, toda o parte de la que hubiere propuesto.
+ART. 690.- La apelación debe interponerse por escrito ante el Juez que pronunció la resolución impugnada y, con excepción de los casos en que este Código establece que se tramite conjuntamente con la sentencia definitiva, el apelante deberá expresar los agravios que le causa y los motivos que originaron ese agravio. Además, deberá exhibir copias del mismo para cada una de las partes. En caso de que el apelante no cumpla con esta disposición el Tribunal ordenará que se expidan a su costa.
 
-II.- Cuando hubiere ocurrido algún hecho que importe excepción superveniente.
+Si los autos o sentencias constaran de varios puntos resolutivos, puede consentirse respecto de unos y recurrirse respecto de otros. En este caso la instancia versará sólo sobre las decisiones recurridas. Cuando sean varias consideraciones que sustenten el sentido de una resolución, deberán atacarse las mismas en su totalidad.
 
-ART. 708.- Sin necesidad de recibir el pleito a prueba, podrán pedir los litigantes, desde que se pongan los autos a su disposición en la secretaría del tribunal, hasta antes de la celebración de la vista, que la parte contraria rinda confesión judicial por una sola vez, con tal de que sea sobre hechos que, relacionados con los puntos controvertidos, no fueron objeto de posiciones en la primera instancia, y que reciba la prueba documental de los instrumentos a que se refiere el artículo 98.
+Cuando el Recurso de Apelación deba admitirse en el efecto devolutivo y tramitarse conjuntamente con la sentencia definitiva, se interpondrá en el término de tres días, sin que sea necesario expresar agravios en tal escrito. Interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Dentro del plazo de nueve días a que se refiere el artículo 691, el apelante deberá hacer valer también, en escrito por separado, los agravios que considere le causaron las determinaciones que combatió en las apelaciones admitidas en efecto devolutivo de tramitación preventiva y cuyo trámite se reservó para hacerlo conjuntamente con la sentencia definitiva, para que el Tribunal que conozca del recurso en contra de ésta última pueda considerar el resultado de lo ordenado en la resolución recaída en la apelación preventiva.
 
-ART. 709.- Cuando pida el apelante que se reciba el pleito a prueba, puede el apelado, en la contestación de los agravios, oponerse a esa pretensión.
+Si se trata del vencido, o de aquella parte que no obtuvo todo lo que pidió, con independencia de los agravios que se expresen en la apelación de tramitación conjunta con la definitiva, deberá expresar en los agravios en contra de la sentencia que resolvió el juicio, de qué manera trascendería al fondo del asunto el resarcimiento de la violación a subsanar.
+
+En dicho supuesto se dará vista a la contraria para que en el término de seis días conteste los agravios.
+
+En el propio escrito de interposición, el apelante señalará domicilio para recibir notificaciones en el lugar de la ubicación del Tribunal de Alzada y lo mismo harán las otras partes en el escrito de contestación de agravios. En caso de que las partes o alguna de ellas no cumplan con esta prevención, las notificaciones, aún las que conforme a las reglas generales deben hacerse personalmente, surtirán efectos respecto del omiso, por lista que se fije en los estrados del Tribunal.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 691.- Las apelaciones oponibles contra sentencia definitiva deberán hacerse valer en el término de nueve días; contra auto o interlocutoria, en el término de seis días, si son de tramitación inmediata y de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 692.- Interpuesta una apelación, el Juez la admitirá sin substanciación alguna si fuere procedente, expresando el efecto en el cual la admite.
+
+En el mismo auto, el juzgador ordenará se corra traslado con copia del escrito de expresión de agravios a la contraparte del apelante, para que los conteste dentro del plazo de tres días si se trata de auto o sentencia interlocutoria y de seis días si se trata de sentencia definitiva.
+
+En caso de que en el escrito de apelación no se formulen agravios, el juzgador tendrá por no interpuesto el recurso, pero no estará facultado para decidir si lo expresado por el inconforme constituye o no agravio.
+
+El auto que tenga por no interpuesta la apelación es recurrible en queja.
+
+En el escrito de contestación de agravios, la contraparte se referirá a los expresados por el apelante.
+
+La falta de contestación de los agravios por parte del apelado, no implicará su conformidad con los agravios del apelante.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 693.- En el auto que tenga por interpuesto el recurso de apelación, el juzgador deberá expresar el efecto que la admisión tenga en relación con la ejecución de la resolución recurrida. Este efecto podrá ser:
+
+I.- El devolutivo, cuando la interposición no suspenda la ejecución de la resolución apelada;
+
+II.- El suspensivo, cuando la resolución apelada no pueda ejecutarse, mientras el recurso no se decida o la resolución apelada quede firme, y
+
+Las apelaciones que se admitan en el efecto devolutivo podrán ser de tramitación inmediata o preventiva, de acuerdo con lo establecido en este Código.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 694.- Se admitirán en efecto devolutivo las apelaciones en que no se establezca expresamente el efecto en que deban ser admitidas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 695.- La apelación en el efecto devolutivo no suspende la ejecución de la resolución apelada ni la secuela del juicio en que se dicte. Sin embargo, para ejecutar las sentencias definitivas, deberá otorgarse previamente caución para responder de los daños y perjuicios que puedan ocasionarse a la contraparte con motivo de la ejecución provisional.
+
+La ejecución provisional podrá llevarse a cabo sin necesidad de caución cuando se trate de sentencias sobre alimentos y en los demás casos en que la Ley lo disponga.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 696.- La garantía a que se refiere el artículo anterior podrá consistir en:
+
+I.- Depósito de dinero en efectivo;
+
+II.- Hipoteca sobre bienes inmuebles bastantes a juicio del Tribunal, ubicados dentro del territorio del Estado; y
+
+III.- Fianza en la que deberán renunciarse los beneficios de orden y excusión.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 697.- El otorgamiento de la caución para ejecutar la sentencia definitiva, una vez que se ha admitido la apelación en efecto devolutivo, se regirá por las reglas siguientes:
+
+I.- La calificación de la idoneidad de la caución será hecha por el Juez, quien se sujetará bajo su responsabilidad, a las disposiciones del Código Civil y de este Código;
+
+II.- La caución otorgada por el actor comprenderá la devolución o entrega de la cosa o cosas que deba recibir, sus frutos e intereses y la indemnización de daños y perjuicios que se causen al demandado, si el superior revoca el fallo. El Ministerio Público y el acreedor alimentario, siempre y cuando sea menor de 25 años, no están obligados a prestarla;
+
+III.- La liquidación de los daños y perjuicios se hará mediante incidente que se tramitará de acuerdo con las reglas de la ejecución de sentencia, y
+
+IV.- En los juicios sin interés pecuniario, el señalamiento de la caución quedará al criterio del Juez;
+
+Otorgada la caución, la parte contraria al ejecutante puede evitar la ejecución, otorgando a su vez, caución que comprenderá el pago de lo juzgado y sentenciado, y su cumplimiento, en el caso de que la sentencia condene a hacer o a no hacer. El deudor alimentista no tendrá este derecho, a menos que el acreedor sea mayor de 25 años.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 698.- Si la apelación se interpone en contra de auto o sentencia interlocutoria y fuere procedente admitirla en el efecto devolutivo, el Juez ordenará en el mismo auto admisorio que se forme testimonio con todas las constancias que obren en autos, si se tratare de la primera apelación que hagan valer las partes. Si se tratare de la segunda o ulteriores apelaciones, solamente formará el testimonio de apelación con las constancias faltantes entre la última apelación admitida y las subsecuentes, hasta la apelación de que se trate. Las copias necesarias para formar el testimonio de apelación correspondiente serán a costa del o los apelantes, siendo requisito indispensable para la admisión del recurso el previo pago total de las mismas. El pago deberá efectuarse de manera independiente por cada apelante, excepto en el caso de litisconsorcio, sea activo o sea pasivo, caso en el cual solo se pagará una vez.
+
+En el caso de que se trate de sentencia definitiva, se dejará en el juzgado, para su ejecución, copia certificada de la misma y de las demás constancias que el Juez estime necesarias, remitiéndose los originales al Tribunal Superior.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 699.- Además de los casos determinados expresamente en la Ley, se admitirán en efecto suspensivo las Apelaciones que se interpongan:
+
+I.- Contra las sentencias definitivas que se dicten en los Juicios Ordinarios;
+
+II.- Las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad de matrimonio, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
+
+III.- Contra las sentencias interlocutorias y los autos que paralicen o pongan término al juicio, haciendo imposible su continuación; y
+
+IV.- Contra el auto aprobatorio del remate.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 700.- Al admitir la apelación en efecto suspensivo, se suspenderá la ejecución de la sentencia o auto apelado hasta que causen ejecutoria; mientras tanto quedará en suspenso la tramitación del juicio en la parte afectada por el recurso.
+
+Cuando la ejecución de autos o sentencias interlocutorias pueda causar un daño irreparable o de difícil reparación, el recurso podrá admitirse en el efecto suspensivo, siempre y cuando el apelante lo solicite al interponer éste y señale los motivos por los que considera que el daño que la ejecución pudiera causarle es irreparable o de difícil reparación y que lo justifique por medio de documento o dictamen de un perito registrado.
+
+Si el Juez resuelve que efectivamente existe peligro de causar daño irreparable o de difícil reparación, admitirá el recurso en el efecto suspensivo y señalará el monto de la caución que el apelante deberá exhibir dentro del término de seis días para que surta efectos la suspensión.
+
+La caución debe atender a lo dispuesto en el artículo 697 de este Código.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 701.- Cuando la apelación se admita en el efecto suspensivo, se remitirán los expedientes originales a la Sala del Supremo Tribunal de Justicia que corresponda, para la substanciación del recurso. El juzgador deberá vigilar que el expediente original sea enviado al Superior dentro del plazo señalado.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 702.- El Juez remitirá los autos originales o en su caso el testimonio de apelación, a la Sala correspondiente del Supremo Tribunal de Justicia, a través de la Secretaría General de Acuerdos, dentro del término de cinco días, contados a partir de la fecha en que precluyó el término de la parte apelada para contestar los agravios, o en su caso, del auto en que se tuvieron por contestados, indicando si se trata de la primera, segunda o el número que corresponda en las apelaciones interpuestas, citando a las partes para que comparezcan ante el Tribunal de Alzada.
+
+La falta de envío oportuno a la Sala de los autos o testimonio para la substanciación del recurso, a través de la Secretaría General de Acuerdos, será causa de responsabilidad para el Secretario de Acuerdos.
+
+La Sala, al recibir el testimonio, formará un solo toca para tramitar el recurso interpuesto y las ulteriores apelaciones que se interpongan en el juicio de que se trate, el cual deberá mantener en el local del Tribunal hasta que concluya el negocio.
+
+Por separado, se formarán cuadernos de constancias, que se integrarán con los escritos de agravios y contestación, así como todo lo que se actúe en cada recurso, y la resolución que se dicte.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 703.- Las apelaciones se tramitarán de inmediato, salvo los casos en que de acuerdo con lo previsto expresamente en este Código deban tramitarse conjuntamente con la sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 704.- Llegados los autos o el testimonio en su caso, la Sala revisará si el recurso fue interpuesto en tiempo, la calificación del grado que hizo el Juez y si la expresión de agravios y su contestación fueron hechas oportunamente.
+
+Si encuentra que la interposición del recurso es procedente y confirma la calificación del grado en que se admitió, dentro de los ocho días siguientes a la recepción del testimonio de apelación o de los autos ordenará su radicación y lo notificará personalmente a las partes.
+
+Si se revoca la calificación del grado y la Sala determina que la apelación se admita en el efecto devolutivo, lo comunicará al Juez para que continúe con la etapa de ejecución. Para ese efecto, remitirá copia certificada del auto en que modificó la admisión del recurso y las constancias que estime convenientes para la integración del cuaderno de ejecución. Si determina que la apelación debe admitirse en el efecto suspensivo, ordenará al Juez que suspenda la ejecución del auto o sentencia apelado.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 705.- El Tribunal de apelación puede desechar el recurso interpuesto en los siguientes casos:
+
+a) Cuando la resolución recurrida no sea apelable;
+
+b) Cuando el recurso no haya sido interpuesto en tiempo; y
+
+c) Si el apelante no expresó agravios, salvo las excepciones previstas en este Código.
+
+En este caso, devolverá los autos o el testimonio al Juez de primera instancia.
+
+De igual forma, el Tribunal podrá desechar la adhesión a la apelación:
+
+a) Cuando no se admita la apelación principal;
+
+b) Si la adhesión no se hizo al contestar los agravios; y
+
+c) Si el adherente no expresó agravios.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 706.- Si no se hubieren promovido pruebas o las que se ofrecieron no se hubieren admitido, en el mismo auto en que se admitió el recurso se citará a las partes para sentencia, que se pronunciará y notificará dentro del término máximo de treinta días. Cuando se trate de expedientes voluminosos se podrá ampliar el plazo concediendo quince días más para el dictado y notificación de la sentencia.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 707.- Si las partes desean ofrecer pruebas, deberán hacerlo en los escritos de expresión de agravios y su contestación, especificando los puntos sobre los cuales versarán éstas, los cuales no podrán ser extraños ni a la cuestión debatida ni a hechos sobrevenidos.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 708.- En el auto que admita la apelación el Tribunal resolverá si admite o desecha las pruebas ofrecidas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 709.- Las pruebas que sean admitidas se recibirán dentro de los veinte días siguientes, en la audiencia que al efecto se señale en el auto admisorio, procediéndose a su preparación cuando sea necesario. Concluida la audiencia, alegarán verbalmente las partes y se les citará para sentencia, que se pronunciará y notificará en el término previsto en el artículo 706 de este Código.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 710.- En el auto en que la sala admita la prueba ofrecida se señalará día y hora para su desahogo dentro de los siguientes veinte días hábiles.
 
-ART. 711.- Desde el auto que recae a la contestación de la expresión de agravios, si no se hubiera promovido prueba o concluída la recepción en la forma escrita de las que hubiera admitido, se entregarán los autos originales primero al actor y después al reo, por diez días a cada uno, para que aleguen.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-Pasado que sea el término para alegar, serán citadas las partes para sentencia, que se pronunciará dentro de ocho días.
+ART. 711.- La sentencia de segunda instancia se sujetará a lo siguiente:
+
+I.- Se limitará a estudiar y decidir sobre los agravios que haya expresado el apelante, sin que pueda resolver sobre cuestiones que no fueron materia de éstos o que hayan sido consentidas expresamente por las partes. El Tribunal no estará obligado a pronunciarse sobre el escrito de contestación de agravios del apelado.
+
+II.- El Tribunal deberá suplir la deficiencia de los agravios expresados cuando el juicio verse sobre derechos que pudieren afectar el interés de la familia y cuando intervenga como parte por lo menos un menor o un incapaz, si por falta de esa suplencia pudieran verse afectados sus derechos o intereses.
+
+III.- Fuera de los casos en los que conforme al artículo 707, se admitan pruebas en la apelación, el Tribunal, al resolver ésta, se concretará a apreciar los hechos tal como hubieren sido probados en primera instancia.
+
+IV.- Las apelaciones interpuestas en contra de la sentencia definitiva y de resoluciones que se dictaron durante la tramitación del juicio, respecto de las cuales se hizo valer la apelación en efecto devolutivo, de tramitación conjunta con la definitiva, se decidirán en una sola ejecutoria.
+
+El Tribunal de Alzada estudiará en primer término las violaciones procesales que se hubiesen hecho valer en los Recursos de Apelación preventiva y de encontrar violaciones procesales que sean trascendentes al fondo del juicio y solo en aquellas que requieran ser reparadas por el Juez natural, dejará insubsistente la sentencia definitiva, regresando los autos originales al Juez de origen, para que éste proceda a reponer el procedimiento y dicte nueva sentencia.
+
+De no ser procedentes los agravios de las apelaciones de tramitación conjunta con la definitiva o no habiendo sido expresados, o resultando fundados no sea necesario que la violación procesal sea reparada por el Juez de origen, el Tribunal estudiará y resolverá la procedencia o no de los agravios expresados en contra de la definitiva, resolviendo el recurso con plenitud de jurisdicción.
+
+VI (SIC).- Se examinarán los razonamientos hechos valer en la apelación adhesiva y se resolverá lo que proceda.
+
+VII.- En caso de que la sentencia de primera instancia apelada fuere absolutoria por haberse declarado procedente alguna contra pretensión perentoria, si la resolución fuere revocatoria en este punto, decidirá también el fondo de la cuestión litigiosa en su integridad sobre todos los puntos materia del litigio.
+
+VIII.- Se resolverá en la sentencia lo que proceda respecto a condenación en costas.
+
+VIII (SIC).- En todo lo demás serán aplicables a las sentencias de segunda instancia, las reglas establecidas para las de la primera.
 
 ART. 712.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
@@ -3474,6 +4304,64 @@ III.- La sentencia o auto firme que haya puesto término al pleito o causa.
 ART. 735.- La sentencia que absuelva de la demanda de responsabilidad civil condenará en costas al demandante, y las impondrá a los demandados cuando, en todo o en parte, se accede a la demanda.
 
 ART. 736.- En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil alterará la sentencia firme que haya recaído en el pleito en que se hubiere ocasionado el agravio.
+
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2008)</small>
+
+TITULO DECIMOSEGUNDO BIS
+
+De los incidentes
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2008)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 736 BIS.- Toda cuestión accesoria que tenga relación inmediata con el proceso principal, y que no tenga señalado un procedimiento propio en este Código, deberá tramitarse en la misma pieza de autos, en la forma prevista en las disposiciones de este capítulo.
+
+La autoridad judicial desechará de oficio los incidentes ajenos al negocio principal, sin perjuicio del derecho de la parte que lo haya promovido para deducir la pretensión en la forma correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 736 BIS 1.- La demanda incidental deberá formularse de acuerdo con las disposiciones establecidas para la demanda principal, en cuanto fueren aplicables.
+
+En el escrito de demanda incidental las partes ofrecerán pruebas, expresando los puntos sobre los que deban versar y que no sean extraños a la cuestión incidental planteada. Todos los documentos que se han de aducir como demostrativos, se presentarán con este escrito.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 736 BIS 2.- Admitida la demanda incidental, se correrá traslado a la parte contraria por el plazo de tres días para que la conteste.
+
+En el escrito de contestación se ofrecerán también los medios de prueba correspondientes.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. BIS 3.- Contestada la demanda incidental o transcurrido el término en el que debió producirse, el juzgador de oficio, citará a una audiencia que se verificará dentro de los quince días siguientes, en la que se recibirán las pruebas ofrecidas y se formularán alegatos verbales, sin perjuicio de que también se puedan hacer constar por escrito.
+
+En el incidente son admisibles toda clase de pruebas, excepto la testimonial y las que fueren contra la moral o contra el derecho.
+
+Las partes no podrán servirse de otros medios de prueba que los indicados en los escritos de demanda y contestación del incidente.
+
+Cuando las partes no ofrezcan pruebas, las que propongan no se admitan o se desahoguen por su propia naturaleza, una vez contestado el incidente o transcurrido el término para hacerlo, el Juez citará a las partes para oír la interlocutoria que proceda.
+
+Las disposiciones sobre prueba son aplicables a los incidentes, en lo que no se opongan a lo preceptuado en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 736 BIS 4.- El juzgador, sin necesidad de citación, resolverá el incidente dictando la sentencia interlocutoria que en derecho proceda, dentro de los diez días siguientes de la fecha de la audiencia.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 736 BIS 5.- Los incidentes deberán quedar definitivamente resueltos antes de la citación para sentencia, salvo aquellos que deban resolverse en ésta.
+
+Los incidentes posteriores a la citación para sentencia no suspenderán el dictado de ésta y se resolverán en la definitiva.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 736 BIS 6.- Aunque no se solicite, la sentencia que decida un incidente condenará en costas al que lo promovió sin razón.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 736 BIS 7.- Las cuestiones que surjan en el curso de los incidentes no darán motivo a un incidente especial, sino que se decidirán en la sentencia interlocutoria que resuelva el incidente principal.
 
 TITULO DECIMOTERCERO
 
@@ -4930,3 +5818,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE ABRIL DE 2008.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
+
+P.O. 19 DE JULIO DE 2008.
+
+ÚNICO.- La presente Ley (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
