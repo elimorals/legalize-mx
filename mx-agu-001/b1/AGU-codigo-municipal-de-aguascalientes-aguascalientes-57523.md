@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-07-07"
+last_updated: "2008-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -317,9 +317,43 @@ Al término de la ceremonia de instalación el Presidente Municipal saliente, ha
 
 ### CAPÍTULO IV. De las Sesiones del Cabildo
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 23.
 
-Se denomina Cabildo al H. Ayuntamiento en Sesión. Las Sesiones serán presididas por el Presidente Municipal o por quien lo sustituya legalmente, constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el periodo de enero a diciembre de cada año.
+Se denomina Cabildo al Honorable Ayuntamiento en sesión. Las sesiones serán presididas por el Presidente Municipal. En caso de ausencia de éste, dentro de una sesión, la misma será presidida por el Primer Regidor, en el orden establecido por la constancia de mayoría emitida por el Consejo General del Instituto Estatal Electoral publicada en el Periódico Oficial del Estado de Aguascalientes.
+
+En ausencia del Primer Regidor, la sesión será presidida por el siguiente Regidor que se encuentre presente, en el orden establecido por la constancia de mayoría citada en el párrafo anterior.
+
+Las sesiones de Cabildo constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el periodo de enero a diciembre de cada año.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 23
+
+BIS.- El Presidente de la sesión de Cabildo tendrá las siguientes funciones y atribuciones dentro de la misma, las que se señalan de forma enunciativa, más no limitativa:
+
+I. Dar cabal cumplimiento con la estructura de la sesión, establecida en el artículo 24 del presente Código.
+
+II. Declarar la apertura y clausura de las sesiones.
+
+III. Poner a votación el orden del día de la sesión, para su aprobación.
+
+IV. Solicitar la participación de los Regidores y Síndicos, en los respectivos debates.
+
+V. Dar el uso de la voz a los Regidores y Síndicos, en el orden en que fue solicitado.
+
+VI. Dirigir los debates que se presenten.
+
+VII. Poner a votación los diferentes puntos discutidos, para su aprobación.
+
+VIII. Ejercer su derecho al voto de calidad, conforme a lo establecido por el artículo 61 del presente Código.
+
+IX. Solicitar receso, cuando lo considere pertinente.
+
+X. Apoyarse en el Secretario del Honorable Ayuntamiento, para el ejercicio de sus funciones.
+
+XI. Las demás que le otorgue la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código.
 
 ###### ARTÍCULO 24.
 
@@ -12795,11 +12829,13 @@ XVII. Uso Habitacional Unifamiliar: Es el lugar que utilizan las personas para r
 
 XVIII. Uso Habitacional Multifamiliar: Es el lugar que utilizan las personas para residir permanentemente, en el que se desarrollan exclusivamente las actividades propias del hogar, conformado por dos o más viviendas dentro de un lote o predio;
 
-XIX. Comercio Inmediato o primera necesidad: Es aquel que por sus características de consumo, de distribución o venta al menudeo, así como por el tamaño o dimensión de su establecimiento podrá ubicarse en las vialidades de zonas habitacionales autorizadas como fraccionamientos de tipo popular e interés social. En los fraccionamientos autorizados como tipo medio, residencial y campestre solo se permite este tipo de comercio en las zonas previamente destinadas y definidas en el proyecto o en el plano de factibilidad de usos de suelo autorizado por la Comisión Estatal. Si la vialidad es de tipo local, únicamente se podrá situar en sus esquinas. Este tipo de comercio incluye exclusivamente productos de primera necesidad.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2008)</small>
 
-Ese comercio se podrá instalar en construcciones existentes, siempre y cuando se cumpla con el porcentaje de ocupación que se determine por la Secretaría al expedir la Constancia de Alineamiento y Compatibilidad Urbanística y que no se modifiquen las áreas para estacionamiento.
+XIX. Comercio Inmediato o de primera necesidad: Es aquel que por sus características de consumo distribución o venta al menudeo, así como por el tamaño o dimensión de su establecimiento podrá ubicarse en vialidades se (sic) zonas habitacionales autorizadas como fraccionamiento y/o condominios habitacionales de tipo popular e interés social. En los fraccionamientos autorizados como tipo medio residencial y campestre previamente destinadas y definidas en el proyecto o en el plano de factibilidad de usos de suelo autorizado por la Comisión Estatal. Si la vialidad es de tipo local, únicamente se podrá situar en sus esquinas. Este tipo de comercio incluye exclusivamente productos de primera necesidad.
 
-Dentro de este concepto de comercio se encuentran: tiendas de abarrotes, fruterías, verdulerías, expendios de pan, farmacias, carnicerías y cremerías, venta de ropa, zapaterías, estéticas y lo demás que se indica en el Manual de Usos de Suelo. Estos tipos de actividades no deberán incluir la elaboración, preparación o transformación de productos, sino exclusivamente la venta;
+Este comercio se podrá instalar en construcciones existentes, siempre y cuando se cumpla con el porcentaje de ocupación que se determine por la Secretaría al expedir la Constancia de Alineamiento y Compatibilidad Urbanística y que no se modifiquen las áreas para estacionamiento.
+
+Dentro de este concepto de comercio se encuentran: tiendas de abarrotes, fruterías, verdulerías, expendios de pan, farmacias, carnicerías y cremerías venta de ropa, zapaterías, estéticas y lo demás que se indica en el Manuel (sic) de Usos de suelo, estos tipos de actividades no deberán incluir la elaboración, preparación o transformación de productos, sino exclusivamente la venta;
 
 XX. Comercio Periódico: Es aquel que por sus características de consumo, de distribución o venta, así como por el tamaño o dimensión de su establecimiento podrá ubicarse únicamente en vialidades colectoras, secundarias, primarias y regionales. Este tipo de comercio no incluye productos de primera necesidad, ni de tipo eventual.
 
@@ -12807,7 +12843,7 @@ Dentro de este concepto se encuentran: mercería, paletería, cocina económica,
 
 XXI. Comercio Eventual: Es aquel que por sus características de consumo, de distribución o venta, así como por el tamaño o dimensión de su establecimiento podrá ubicarse únicamente en vialidades secundarias, primarias y regionales o en las zonas indicadas en el plano de factibilidad de usos de suelo autorizado por la Comisión Estatal. Este tipo de comercio no incluye productos de primera necesidad, ni de tipo periódico, sino aquel que por sus cualidades es el que requieren las personas esporádicamente.
 
-Dentro de este concepto de comercio se encuentran: mueblerías, licorerías y cervecerías, productos y equipos para fundición, abonos químicos y naturales, aceites en general, madererías, malla industrial o ciclónica, maquinaria en general incluyendo la pesada, refacciones vehiculares en general, vidrios y cristales, lámina de acero, asbesto y plástico, solventes, acero, hierro y perfiles metálicos y lo demás que se indica en el Manual de Usos de Suelo. Estos tipos de actividades no deberán incluir la elaboración, preparación o transformación de productos, sino exclusivamente la venta.
+Dentro de este concepto de comercio se encuentran: mueblerías, licorerías y cervecerías, productos y equipos para fundición, abonos químicos y naturales, aceites en general, madererías, malla industrial o ciclónica, maquinaria en general incluyendo la pesada, refacciones vehiculares en general, vidrios y cristales, lámina de acero, asbesto y plástico, solventes, acero, hierro y perfiles metálicos y lo demás que se indica en el Manual de Usos de Suelo. Estos tipos de actividades no deberán incluir la elaboración, preparación o transformación de productos, sino exclusivamente la venta;
 
 XXII. Servicios Gastronómicos: Son los establecimientos que principalmente se dedican a la preparación de alimentos, los cuales deben ser consumidos dentro de los mismos locales, con la factibilidad secundaria de vender bebidas alcohólicas por copeo conjuntamente con los alimentos; así mismo los que se dediquen a la preparación de los alimentos para ser vendidos en el tipo de comercio inmediato.
 
@@ -12815,7 +12851,7 @@ Entiéndase de éste giro los restaurantes, fondas, taquerías, loncherías, mar
 
 Estos tipos de establecimientos se podrán ubicar en vialidades de tipo secundario, primario y regional; los cuales deberán contar con cajones de estacionamiento dentro de sus predios, conforme lo señalan el Código Urbano y este Código Municipal.
 
-Respecto de las taquerías y loncherías, también se podrán ubicar en vialidades colectoras, de fraccionamientos de tipo popular e interés social, siempre y cuando cuenten con el área de estacionamiento respectiva.
+Respecto de las taquerías y loncherías, también se podrán ubicar en vialidades colectoras, de fraccionamientos de tipo popular e interés social, siempre y cuando cuenten con el área de estacionamiento respectiva;
 
 XXIII. Servicios con venta de bebidas alcohólicas: Son los establecimientos donde se permite la venta de bebidas alcohólicas por copeo y pueden de manera secundaria ofrecer al público servicios gastronómicos o botanas preparadas.
 
@@ -13323,9 +13359,13 @@ III. Conforme al uso o destino que se pretenda dar al inmueble, según lo contem
 
 IV. Por su origen, según la naturaleza jurídica de quien lo promueva, según lo indica el artículo 370 del Código Urbano, el condominio también se clasificará en: de orden privado, el que constituyan los particulares, y de orden público, los que constituyan las instituciones u organismos públicos de la Federación, el Estado y los Municipios.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 1151.
 
 Los inmuebles sujetos al régimen de propiedad en condominio, únicamente se podrán dedicar al uso para el que fueron autorizados por la Autoridad correspondiente.
+
+En el caso de condominios habitacionales de tipo popular e interés social se permitirá uso comercial de tipo inmediato sólo en la planta baja del mismo, y siempre y cuando no invadan área de uso común, vialidades, andadores, no alteren o afecten el condominio en su estructura, ni su unidad privativa, no se ponga en peligro la seguridad, estabilidad, conservación y comodidad del condominio y sus condóminos, y no contravenga en ningún momento las disposiciones del Reglamento Interno del condominio.
 
 ###### ARTÍCULO 1152.
 
@@ -18152,5 +18192,21 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 7 DE JULIO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2008.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 23 Y ADICIONA EL ARTICULO 23 BIS AL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2008.
+
+DECRETO POR EL QUE SE REFORMA EL LA FRACCION XIX DEL ARTICULO 1107 Y EL ARTICULO 1151 AL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
