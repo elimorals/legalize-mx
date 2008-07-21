@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2008-02-25"
+last_updated: "2008-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2008.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -784,183 +784,207 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 ### CAPITULO PRIMERO. De las Dependencias
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 96.
 
 Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contará con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
 
-I.- PRESIDENCIA MUNICIPAL:
+I.- COORPORACIÓN MUNICIPAL
 
-- A).- Secretaría Particular;
+II.- PRESIDENCIA MUNICIPAL
 
-- B).- Departamento de Relaciones Públicas;
+A).- Secretaría Particular:
 
-- C).- Departamento de Participación Ciudadana;
+a).- Departamento de Relaciones Públicas; y
 
-- D).- Departamento de Atención a la Ciudadanía y Giras;
+b).- Departamento de Participación Ciudadana y Giras.
 
-- E).- Coordinación de Comunicación Social;
+B).- Coordinación de Comunicación Social:
 
-- F).- Departamento de Prensa;
+a).- Departamento de Prensa; y
 
-- G).- Departamento de Diseño e Impresión;
+b).- Departamento de Diseño e Impresión.
 
-- H).- Coordinación General de Asesores; y
+C).- Coordinación General de Asesores:
 
-- I).- Departamento de Mejora Gubernamental y Proyectos Especiales.
+a).- Departamento de Mejora Gubernamental y Proyectos Especiales.
 
-II.- SECRETARIA DEL AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO.
+D).- Instancia de la Mujer.
 
-- A).- Departamento de Acción Cívica;
+III.- SECRETARIA DEL AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
-- B).- Departamento de Archivo Municipal;
+A).- Departamento de Acción Cívica;
 
-- C).- Delegados y Comisarios Municipales;
+B).- Departamento de Actas y Archivo Municipal;
 
-- D).- Coordinación de Delegaciones Municipales;
+C).- Coordinación de Delegados Municipales:
 
-- E).- Departamento de Control Reglamentario;
+a).- Delegados y Comisarios Municipales.
 
-- F).- Departamento de Jueces Calificadores;
+D).- Departamento de Control Reglamentario;
 
-- G).- Unidad de Protección Civil.
+E).- Departamento de Jueces Calificadores;
 
-III.- DIRECCIÓN DE FINANZAS.
+F).- Unidad de Protección Civil.
 
-- A).- Subdirector de Finanzas;
+IV.- DIRECCION DE FINANZAS
 
-- B).- Departamento de Ingresos;
+A).- Subdirector de Finanzas:
 
-- B) (SIC).- Departamento de Egresos;
+a).- Departamento de Ingresos;
 
-- C).- Departamento de Recursos Federales;
+b).- Departamento de Egresos;
 
-- D).- Departamento de Catastro; y
+c).- Departamento de Recursos Federales;
 
-- E).- Departamento de Contabilidad.
+d).- Departamento de Contabilidad; y
 
-IV.- DIRECCIÓN DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD.
+e).- Departamento de Catastro.
 
-- A).- Subdirección de Seguridad Pública;
+V.- DIRECCIÓN DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD
 
-- B).- Subdirección de Tránsito y Vialidad;
+A).- Subdirección de Seguridad Pública:
 
-- C).- Departamento Administrativo; y
+a).- Departamento Administrativo;
 
-- D).- Jefatura Operativa.
+b).- Departamento de Prevención del Delito;
 
-V.- DIRECCIÓN JURÍDICA.
+c).- Departamento de Asuntos Internos; y
 
-- A).- Subdirección de Asuntos Litigiosos;
+d).- Jefatura Operativa.
 
-- B).- Subdirección de Apoyo Jurídico Municipal;
+B).- Subdirección de Tránsito y Vialidad:
 
-- C).- Subdirección de Asesoría Jurídica a la Ciudadanía;
+a).- Departamento Administrativo.
 
-- D).- Departamento Jurídico Adscrito a la Dirección de Finanzas;
+VI.- NIVEL MUNICIPAL.
 
-- E).- Departamento Jurídico Adscrito a la Dirección de Seguridad Pública y Tránsito;
+VII.- DIRECCIÓN JURIDICA
 
-- F).-Departamento Jurídico Adscrito a la Contraloría Municipal; y
+A).- Subdirección de Apoyo Jurídico Municipal:
 
-- G).- Departamento Jurídico Adscrito al Comité para el Desarrollo Integral de la Familia.
+a).- Departamento de Asuntos Litigiosos;
 
-VI.- DIRECCIÓN DE GESTIÓN ADMINISTRATIVA.
+b).- Departamento de Asesoría Jurídica a la Ciudadanía;
 
-- A).- Subdirección de Gestión Administrativa;
+c).- Departamento Jurídico Adscrito a la Dirección de Finanzas;
 
-- B).- Departamento de Recursos Humanos y Capacitación;
+d).- Departamento Jurídico Adscrito a la Dirección de Seguridad Pública y Tránsito;
 
-- C).- Departamento de Servicios Generales;
+e).- Departamento Jurídico Adscrito a la Contraloría Municipal; y
 
-- D).- Departamento de Redes e Informática; y
+f).- Departamento Jurídico Adscrito al Comité para el Desarrollo Integral de la Familia.
 
-- E).- Oficialía de Compras y Adquisiciones.
+VIII.- DIRECCIÓN DE GESTION ADMINISTRATIVA
 
-VII.- DIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES.
+A).- Subdirección de Gestión Administrativa:
 
-- A).- Subdirector de Servicios Públicos Municipales
+a).- Departamento de Recursos Humanos y Capacitación;
 
-- B).- Departamento de Estética Urbana, limpieza y Aseo Público;
+b).- Departamento de Servicios Generales;
 
-- C).- Departamento de Áreas Comerciales y Panteones;
+c).- Departamento de Redes e Informática;
 
-- D).- Departamento de Rastro Municipal;
+d).- Oficialía de Compras y Adquisiciones; y
 
-- E).- Departamento de Parques, Jardines, Viveros y Alumbrado Público; y
+e).- Departamento de Control Patrimonial.
 
-- F).- Departamento de Regulación Sanitaria.
+B).- Coordinación Administrativa.
 
-VIII.- DIRECCIÓN DE DESARROLLO ECONÓMICO.
+IX.- DIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES
 
-- A).- Subdirección de Proyectos; y
+A).- Subdirector de Servicios Públicos Municipales:
 
-- B).- Subdirección de Comercialización.
+a).- Departamento de Estética Urbana, Limpieza y Aseo Público;
 
-IX.- DIRECCIÓN DE PLANEACIÓN y DESARROLLO URBANO.
+b).- Departamento de Áreas Comerciales;
 
-- A).- Departamento de Planeación;
+c).- Departamento de Cementerios;
 
-- B).- Departamento de Usos de Suelo y Control Urbano;
+d).- Departamento de Rastro Municipal;
 
-- C).- Departamento de Fraccionamientos y Licencias de Construcción; y
+e).- Departamento de Parques, Jardines y Viveros; y
 
-- D).- Departamento de Ecología y Medio Ambiente.
+f).- Departamento de Alumbrado Público.
 
-X.- DIRECCIÓN DE OBRAS PÚBLICAS.
+X.- DIRECCIÓN DE DESARROLLO ECONÓMICO
 
-- A).- Departamento de Proyectos, Costos y Licitaciones;
+A).- Subdirección de Desarrollo Económico:
 
-- B).- Departamento de Construcción y Conservación; y
+a).- Departamento de Proyectos; y
 
-- C).- Departamento de Supervisión y Control de Calidad.
+b).- Departamento de Comercialización.
 
-XI.- DIRECCIÓN DE DESARROLLO HUMANO Y SOCIAL
+XI.- DIRECCIÓN DE PLANEACION Y DESARROLLO URBANO
 
-- A).- Departamento de Fomento Agropecuario y Rural;
+a).- Departamento de Planeación;
 
-- B).- Departamento de Programas y Políticas Públicas; y
+b).- Departamento de Usos de Suelo y Control Urbano;
 
-- C).- Departamento de Educación, Cultura y Deportes.
+c).- Departamento de Fraccionamientos y Licencias
 
-XII.- CONTRALORÍA MUNICIPAL.
+de Construcción; y
 
-- A).- Departamento de Auditoria Administrativa y Gestión;
+d).- Departamento de Ecología y Medio Ambiente.
 
-- B).- Departamento de Auditoria Contable y Fiscal;
+XII.- DIRECCIÓN DE OBRAS PÚBLICAS
 
-- B) (SIC).- Departamento de Auditoria de Participaciones Federales; y
+a).- Departamento de Proyectos, Costos y
 
-- C).- Departamento de Auditoria de Obra y Servicios Públicos.
+Licitaciones;
 
-XIII.- DIRECCIÓN DE SALUD.
+b).- Departamento de Construcción y Conservación; y
 
-- A).- Departamento de Salud.
+c).- Departamento de Supervisión y Control de Calidad.
 
-XIV.- COMITÉ PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.
+XIII.- DIRECCION DE DESARROLLO HUMANO Y SOCIAL
 
-- A).- Presidencia del Comité;
+a).- Departamento de Fomento Agropecuario y Rural;
 
-- B).- Dirección General;
+b).- Departamento de Programas y Políticas Públicas; y
 
-- C).- Secretaría Particular;
+c).- Departamento de Educación, Cultura y Deportes.
 
-- D).- Departamento Administrativo;
+XIV.- CONTRALORIA MUNICIPAL.
 
-- E).- Departamento de Servicios Médicos;
+a).- Departamento de Auditoría Administrativa y Gestión;
 
-- F).- Departamento de Trabajo Social;
+b).- Departamento de Auditoría Contable y Fiscal;
 
-- G).- Departamento de Salud Mental;
+c).- Departamento de Auditoría de Participaciones Federales; y
 
-- H).- Departamento de Programas y Políticas Públicas para la Familia;
+d).- Departamento de Auditoría de Obra y Servicios Públicos.
 
-- I).- Departamento de Atención a las Personas de la Senectud; y
+XV.- DIRECCION DE SALUD
 
-- J).- Departamento de Desarrollo Infantil.
+a).- Departamento de Salud; y
 
-XIV (SIC).- CRONISTA DEL MUNICIPIO.
+b).- Departamento de Regulación Sanitaria.
+
+XVI.- COMITÉ PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.
+
+A).- Presidencia del Comité;
+
+B).- Secretaría Particular;
+
+C).- Dirección General:
+
+a).- Departamento Administrativo;
+
+b).- Departamento de Servicios Médicos;
+
+c).- Departamento de Trabajo Social;
+
+d).- Departamento de Salud Mental;
+
+e).- Departamento de Programas y Políticas Públicas para la Familia;
+
+f).- Departamento de Atención a las Personas de la Senectud; y
+
+g).- Departamento de Desarrollo Infantil.
+
+XVII.- CRONISTA DEL MUNICIPIO.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
@@ -14375,5 +14399,11 @@ P.O. 19 DE NOVIEMBRE DE 2007.
 P.O. 25 DE FEBRERO DE 2008.
 
 .
+
+SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2008.
+
+...
 
 SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
