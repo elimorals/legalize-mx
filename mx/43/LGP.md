@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1999-01-04"
+last_updated: "2008-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -900,65 +900,59 @@ Al que en materia migratoria presente o suscriba cualquier documento o promoció
 
 Se impondrá multa hasta de cinco mil pesos al extranjero que no haya cumplido la orden de la Secretaría de Gobernación para salir del territorio nacional dentro del plazo que para el efecto se le fijó, por haber sido cancelada su calidad migratoria.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-(REUBICADO [N. DE E. ANTES ARTICULO 98], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 118.
 
-Se impondrá pena hasta de diez años de prisión y multa hasta de cinco mil pesos al extranjero que habiendo sido expulsado se interne nuevamente al territorio nacional sin haber obtenido acuerdo de readmisión. Igual sanción se aplicará al extranjero que no exprese u oculte su condición de expulsado para que se le autorice y obtenga nuevo permiso de internación.
+Se impondrá multa de veinte a cien días de salario mínimo general vigente en el Distrito Federal, al extranjero que:
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+a) Habiendo sido expulsado se interne nuevamente al territorio nacional sin haber obtenido acuerdo de readmisión;
 
-(REUBICADO [N. DE E. ANTES ARTICULO 99], D.O.F. 22 DE JULIO DE 1992)
+b) No exprese u oculte su condición de expulsado para que se le autorice y obtenga nuevo permiso de internación;
+
+c) Habiendo obtenido legalmente autorización para internarse al país, por incumplimiento o violación de las disposiciones administrativas o legales a que se condicionó su estancia, se encuentre ilegalmente en el mismo;
+
+d) Realice actividades para las cuales no esté autorizado conforme a esta Ley o al permiso de internación que la Secretaría de Gobernación le haya otorgado;
+
+e) Dolosamente haga uso o se ostente como poseedor de una calidad migratoria distinta de la que la Secretaría de Gobernación le haya otorgado;
+
+f) Se interne al país sin la documentación requerida;
+
+g) Contraiga matrimonio con mexicano en los términos previstos en el artículo 127.
+
+Al extranjero que haga uso de un documento falso o alterado, o que proporcione datos falsos al ser interrogado por la autoridad con relación a su situación migratoria, se le impondrán las sanciones previstas en el Código Penal, sin perjuicio de lo dispuesto en el artículo 125.
+
+El extranjero que haya incurrido en el supuesto comprendido en el inciso c) de este artículo, podrá solicitar la regularización de su situación migratoria.
 
 ###### ARTICULO 119.
 
-Se impondrá pena hasta de seis años de prisión y multa hasta de cinco mil pesos, al extranjero que habiendo obtenido legalmente autorización para internarse al país, por incumplimiento o violación de las disposiciones administrativas o legales a que se condicionó su estancia, se encuentre ilegalmente en el mismo.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-(REUBICADO [N. DE E. ANTES ARTICULO 100], D.O.F. 22 DE JULIO DE 1992)
+(DEROGADO, D.O.F. 21 DE JULIO DE 2008)
 
 ###### ARTICULO 120.
 
-Se impondrá multa hasta de tres mil pesos y pena hasta de dieciocho meses de prisión, al extranjero que realice actividades para las cuales no esté autorizado conforme a esta Ley o al permiso de internación que la Secretaría de Gobernación le haya otorgado.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-(REUBICADO [N. DE E. ANTES ARTICULO 101], D.O.F. 22 DE JULIO DE 1992)
+(DEROGADO, D.O.F. 21 DE JULIO DE 2008)
 
 ###### ARTICULO 121.
 
-Se impondrá pena hasta de dos años de prisión y multa hasta de diez mil pesos, al extranjero que, por la realización de actividades ilícitas o deshonestas, viola los supuestos a que está condicionada su estancia en el país.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-(REUBICADO [N. DE E. ANTES ARTICULO 102], D.O.F. 22 DE JULIO DE 1992)
+(DEROGADO, D.O.F. 21 DE JULIO DE 2008)
 
 ###### ARTICULO 122.
 
-Se impondrá pena hasta de cinco años de prisión y multa hasta de cinco mil pesos, al extranjero que dolosamente haga uso o se ostente como poseedor de una calidad migratoria distinta de la que la Secretaría de Gobernación le haya otorgado.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-(REUBICADO [N. DE E. ANTES ARTICULO 103], D.O.F. 22 DE JULIO DE 1992)
+(DEROGADO, D.O.F. 21 DE JULIO DE 2008)
 
 ###### ARTICULO 123.
 
-Se impondrá pena hasta de dos años de prisión y multa de trescientos a cinco mil pesos, al extranjero que se interne ilegalmente al país.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 104], D.O.F. 22 DE JULIO DE 1992)
+(DEROGADO, D.O.F. 21 DE JULIO DE 2008)
 
 ###### ARTICULO 124.
 
-Al extranjero que para entrar al país o que ya internado, proporcione a las autoridades datos falsos con relación a su situación migratoria, se le impondrán las sanciones previstas en el Código Penal, sin perjuicio de lo dispuesto en el artículo siguiente.
+(DEROGADO, D.O.F. 21 DE JULIO DE 2008)
 
-> <small>(REFORMADO Y REUBICADO, [N. DE E. ANTES ARTICULO 105], D.O.F. 22 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 125.
 
-Al extranjero que incurra en las hipótesis previstas en los artículos 115, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127 y 138 de esta Ley, se le cancelará la calidad migratoria y será expulsado del país, sin perjuicio de que se le apliquen las penas establecidas en dichos preceptos.
+El extranjero que incurra en las hipótesis previstas en los artículos 115, 116, 117, 118 y 138, será expulsado del país o repatriado a su país de origen si existiese convenio con este último, sin perjuicio de que se le apliquen las penas previstas en dichos preceptos.
 
 > <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
@@ -966,13 +960,13 @@ Al extranjero que incurra en las hipótesis previstas en los artículos 115, 117
 
 En los casos en que se atente en contra de la soberanía o la seguridad nacional, la expulsión será definitiva. En todos los demás casos la Secretaría de Gobernación señalará el período durante el cual el extranjero no deberá reingresar al país. Durante dicho período, sólo podrá ser readmitido por acuerdo expreso del Secretario de Gobernación o del Subsecretario respectivo.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-(REUBICADO [N. DE E. ANTES ARTICULO 107], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 127.
 
-Se impondrá pena hasta de cinco años de prisión y multa hasta de cinco mil pesos al mexicano que contraiga matrimonio con extranjero sólo con el objeto de que éste pueda radicar en el país, acogiéndose a los beneficios que la Ley establece para estos casos. Igual sanción se aplicará al extranjero contrayente.
+Se impondrá multa de cien a quinientos días de salario mínimo general vigente en el Distrito Federal al mexicano que contraiga matrimonio con extranjero sólo con el objeto de que éste pueda radicar en el país, acogiéndose a los beneficios que la Ley establece para estos casos.
+
+Para la aplicación de las sanciones previstas en este artículo, será necesario que la intencionalidad sea comprobada de manera fehaciente, para lo que se deberá contar con sentencia firme de carácter irrevocable, dictada por autoridad judicial competente.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 108], D.O.F. 22 DE JULIO DE 1992)
 
@@ -1357,3 +1351,7 @@ QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Ca
 Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 21 DE JULIO DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
