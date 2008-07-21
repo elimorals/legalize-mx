@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-del-sistema-de-4523
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-01"
-last_updated: "2005-07-01"
+last_updated: "2008-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-06-23"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO, PUBLICADO EN EL D.O.F. DE 21 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 1 de julio de 2005.
 
@@ -708,3 +710,23 @@ SÉPTIMO.- Las acciones que se deriven de la aplicación del presente Reglamento
 Asimismo, las modificaciones que se lleven a cabo a la estructura orgánica de la Comisión Nacional del Sistema de Ahorro para el Retiro se deberán realizar mediante movimientos compensados, que no impliquen un aumento en el presupuesto regularizable de servicios personales respectivo, aprobado para cada ejercicio fiscal.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE JULIO DE 2008.
+
+PRIMERO.- El presente ordenamiento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Nacional del Sistema de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el día 1o. de julio de 2005.
+
+TERCERO.- Los asuntos que a la entrada en vigor del presente ordenamiento se encuentren en trámite y que conforme al mismo deban ser atendidos por una unidad administrativa diversa a la que hubiere correspondido conforme a las disposiciones vigentes antes de esa fecha, serán transferidos por la unidad administrativa que se encuentre conociendo del asunto de que se trate, a la unidad o unidades administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+
+CUARTO.- Cuando un servidor público sea adscrito a una unidad administrativa diferente o su puesto cambie de denominación o nivel con motivo de las modificaciones a la estructura de la organización administrativa de la Comisión Nacional del Sistema de Ahorro para el Retiro, quedará sujeto a lo dispuesto en el artículo Tercero Transitorio de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+Asimismo, para que dicho servidor público sea considerado como servidor público de carrera, estará sujeto al cumplimiento de lo dispuesto en el artículo Décimo Transitorio del Reglamento de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+QUINTO.- Los acuerdos y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente ordenamiento, continuarán en vigor en lo que no se opongan al mismo.
+
+SEXTO.- Las acciones que se deriven de la aplicación del presente Reglamento se sujetarán al presupuesto aprobado para la Comisión Nacional del Sistema de Ahorro para el Retiro, sin que implique la asignación de recursos adicionales.
+
+Asimismo, las modificaciones que se lleven a cabo a la estructura orgánica de la Comisión Nacional del Sistema de Ahorro para el Retiro se deberán realizar mediante movimientos compensados, que no impliquen un aumento en el presupuesto regularizable de servicios personales respectivo, aprobado para cada ejercicio fiscal.
