@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2008-01-01"
+last_updated: "2008-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -481,19 +481,53 @@ I. Inventario del acervo patrimonial en los términos de los Artículos 131, 132
 
 II. Plantillas de personal;
 
-III. Relación de documentos que obran en los archivos del Municipio, así como la documentación que se encuentre en las distintas áreas que conforman la Administración Municipal.
+III. Relación de documentos que obran en los archivos del Municipio, así como la documentación que se encuentre en las distintas áreas que conforman la Administración Municipal;
 
 IV. Relación de asuntos pendientes de resolver, así como los documentos vinculados a los mismos;
 
-V. Informes detallados de las obras ejecutadas en el último ejercicio, así como los informes detallados de las obras inconclusas iniciadas durante la gestión del Ayuntamiento saliente, incluidos sus avances físicos y financieros.
+V. Informes detallados de las obras ejecutadas en el último ejercicio, así como los informes detallados de las obras inconclusas iniciadas durante la gestión del Ayuntamiento saliente, incluidos sus avances físicos y financieros;
 
-VI. Reporte del avance del cumplimiento del Convenio Unico de Desarrollo Estado-Municipio, así como de los Acuerdos suscritos con el Gobierno del Estado.
+VI. Reporte del avance del cumplimiento del Convenio Unico de Desarrollo Estado-Municipio, así como de los Acuerdos suscritos con el Gobierno del Estado;
 
-VII. Bando de Policía y Buen Gobierno, reglamentos y ordenanzas municipales.
+VII. Bando de Policía y Buen Gobierno, reglamentos y ordenanzas municipales;
 
-VIII. Concesiones, permisos y autorizaciones otorgadas que involucran bienes municipales o la prestación de servicios públicos, y
+VIII. Concesiones, permisos y autorizaciones otorgadas que involucran bienes municipales o la prestación de servicios públicos, y (sic)
 
-IX. Las demás que sean necesarias para mantener la continuidad en la administración municipal y en la atención a la ciudadanía, así como para evitar daños al patrimonio municipal.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2008)</small>
+
+IX. Padrón de contribuyentes del impuesto predial, en forma impresa y digital; controlado a través de la cuenta catastral o predial, o en su defecto clasificado por tipo de predio urbano, suburbano, rústico.
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2008)</small>
+
+X. Expedientes catastrales de los contribuyentes, señalando la información que los integran;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2008)</small>
+
+XI. Cartografía o cartografía digital, en forma impresa y digital;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2008)</small>
+
+XII. Licencias de los softwares o programas informáticos para la operación de la cartografía digital y de administración de contribuciones municipales; así como las claves de identificación confidencial para su acceso;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2008)</small>
+
+XIII. Tablas de valores unitarios de suelo y construcción, de manera impresa y digital;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2008)</small>
+
+XIV. Convenios de coordinación o colaboración en materia fiscal;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2008)</small>
+
+XV. Expedientes por el ejercicio fiscal sobre la recaudación de contribuciones asignables del impuesto predial y derechos por servicio de agua potable remitidos a la Secretaría de Hacienda y Crédito Público a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, para la distribución de participaciones federales (Fondo de Fomento Municipal); y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2008)</small>
+
+XVI. Las demás que sean necesarias para mantener la continuidad en la administración municipal y en la atención a la ciudadanía, así como para evitar daños al patrimonio municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+
+En caso de que los servidores públicos municipales omitan la información establecida en este artículo o no la entreguen al Comité de entrega-recepción en al (sic) acto final de entrega-recepción, conforme lo establece la presente Ley, les serán aplicables las sanciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
 
@@ -717,11 +751,11 @@ II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-III.- Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley;
+III. Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2008)</small>
 
-IV. Presentar al Congreso del Estado, a través de la Auditoria General del Estado, a más tardar el último día del mes de enero de cada año, la Cuenta de la Hacienda Pública Municipal, la que contendrá el Informe Financiero correspondiente al tercer cuatrimestre del ejercicio fiscal anterior, consolidando el resultado de las operaciones de ingresos y gastos que se hayan realizado, en los términos que señale la Ley de Fiscalización Superior del Estado de Guerrero;
+IV. Presentar al Congreso del Estado, a través de la Auditoria General del Estado, a más tardar en la segunda quincena del mes de febrero del año siguiente del ejercicio fiscal del que se informe, la Cuenta de la Hacienda Pública Municipal, la que contendrá el Informe Financiero correspondiente al tercer cuatrimestre del ejercicio fiscal anterior, consolidando el resultado de las operaciones de ingresos y gastos que se hayan realizado así como el desempeño cumplido del Programa Operativo Anual y el Plan Municipal de Desarrollo, en los términos que señale la Ley de Fiscalización Superior del Estado de Guerrero;
 
 V. Recaudar y administrar los ingresos correspondientes a la Hacienda Pública Municipal;
 
@@ -1419,9 +1453,11 @@ IV. Proponer e implementar programas de modernización de la administración pú
 
 La Tesorería Municipal es el órgano de recaudación de los Ayuntamientos y estará a cargo de un Tesorero que será nombrado por el propio Ayuntamiento a propuesta del presidente municipal.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 105.
 
-Los requisitos para ser Tesorero Municipal son los mismos que se señalan para ser Secretario del Ayuntamiento y tener conocimientos de contabilidad.
+Los requisitos para ser Tesorero Municipal son los mismos que se señalan para ser Secretario del Ayuntamiento y preferentemente, ser profesional en los ramos de contabilidad, finanzas públicas o economía, o tener práctica y conocimientos necesarios en dichas materias.
 
 ###### ARTICULO 106.
 
@@ -1498,6 +1534,36 @@ El Gobierno del Estado podrá otorgar mediante convenio recursos materiales, fin
 ###### ARTICULO 109.
 
 Para que el Gobierno del Estado pueda otorgar recursos materiales o subsidios, o asignar personal a los Ayuntamientos para la prestación de servicios públicos o la ejecución de obras públicas, los tesoreros y servidores encargados de las áreas que presten esos servicios o ejecuten esas obras deberán formar parte del Sistema Estatal del Servicio Civil Municipal para asegurar su idoneidad y su estabilidad en el cargo.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+
+ARTICULO 109 A.- La Unidad de Obras Públicas estará a cargo de in (sic) Secretario, Director o Jefe, preferentemente con experiencia profesional en el ramo de obras públicas, responsable de vigilar los trabajos que tengan por objeto construir, instalar, ampliar, adecuar, remodelar, restaurar, mantener, modificar y demoler bienes inmuebles, así como:
+
+l. Formular el Programa anual de Desarrollo Urbano Municipal y las políticas de creación y administración de reservas territoriales, a fin de someterlos a la consideración del Presidente Municipal y aprobación del Ayuntamiento;
+
+II. Intervenir en la celebración y vigilar el cumplimiento de los contratos de obra pública;
+
+III. Coordinar y supervisar la ejecución de obras públicas cuando e (sic) lleven a cabo por otras dependencias federales o estatales, organismos descentralizados federales, estatales o municipales o empresas de participación municipal;
+
+IV. Otorgar licencias y permisos para la construcción, reparación y demolición de bienes inmuebles;
+
+V. Prestar el servicio de nomenclatura, numeración oficial y alineamiento de construcciones;
+
+VI. Determinar y exigir el cumplimiento de las normas, instalaciones y equipos de seguridad que deben incorporarse a las construcciones en general y las que particularmente deben observarse en los que tenga acceso el público;
+
+VII. Proyectar, dirigir, ejecutar y conservar toda clase de obras públicas que se estimen necesarias para el mejoramiento de las poblaciones, tales como parques, jardines, áreas de recreo, vías públicas, entre otras;
+
+VIII. Aprobar y autorizar planos y proyectos para la construcción de casas habitación o de edificaciones para cualquier otro fin, así como para las instalaciones de las mismas;
+
+IX. Ordenar las medidas procedentes y urgentes que juzgue necesarias, para evitar los riesgos que pueda ofrecer cualquier construcción, así como obligar a retirar y sancionar a quines (sic) invadan las calles y banquetas con materiales de construcción o de cualquier otra índole, que impidan o pongan en peligro la libre circulación por las mismas;
+
+X. Integrar los expedientes técnicos y unitarios relativos a las obras públicas municipales, para ponerlos a disposición oportuna de los encargados de preparar e integrar la cuenta pública anual; caso contrario, se le aplicará la responsabilidad administrativa que corresponda, notificándose tal hecho a la Auditoría General del Estado;
+
+XI. Proponer al Presidente Municipal la creación de las zonas de reserva ecológica, de vivienda y urbanización, y el cumplimiento de las normas y criterios para la regularización de asentamientos humanos en la jurisdicción municipal;
+
+XII. Elaborar y vigilar el cumplimiento del plano regular del crecimiento urbano municipal; y
+
+XIII. Las demás que le señalen otros ordenamientos legales aplicables.
 
 ### CAPITULO V. DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -1631,9 +1697,11 @@ IX. Las contribuciones que perciban por la aplicación de las leyes fiscales, tr
 
 X. Los capitales procedentes de la venta de fincas rústicas y urbanas propiedad de los Municipios.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 124.
 
-Los Ayuntamientos formularán un inventario y avalúo de los bienes municipales y remitirán un ejemplar al Congreso del Estado.
+Los Ayuntamientos formularán un inventario cuatrimestral y avalúo de los bienes muebles e inmuebles municipales y remitirán un ejemplar al Congreso del Estado, a través de la Auditoría General del Estado, en la forma y en los plazos que determine la Ley de Fiscalización Superior del Estado de Guerrero.
 
 ###### ARTICULO 125.
 
@@ -1931,7 +1999,7 @@ Los planes de desarrollo urbano municipal deberán contener los programas de des
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
-ARTICULO 175 A.- La autoridad municipal podrá requerir a los propietarios, arrendatarios y poseedores de inmuebles o de muebles afectos o adheridos a éstos, que lleven a cabo lo que este artículo establece fundando y motivando sus requerimientos, y cuando sean desestimados éstos podrá (sic) hacer las obras la propia autoridad municipal, procediendo a cobrar su costo por la vía económica-coactiva.
+ARTICULO 175 A.- La autoridad municipal podrá requerir a los propietarios, arrendatarios y poseedores de inmuebles o de muebles afectos o adheridos a éstos, que lleven a cabo lo que este artículo establece fundando y motivando sus requerimientos, y cuando sean desestimados éstos podrá hacer las obras la propia autoridad municipal, procediendo a cobrar su costo por la vía económica-coactiva.
 
 I. Terminación o demolición de obras inconclusas;
 
@@ -3120,3 +3188,13 @@ TERCERO.- Los Ayuntamientos que se elijan en el año 2008, durarán en funciones
 CUARTO.- Los Regidores de mayoría relativa por elección directa serán elegidos a partir del Proceso Electoral de Ayuntamientos y Diputados a celebrarse en el año 2012.
 
 QUINTO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Ejecutivo del Estado para los efectos legales conducentes.
