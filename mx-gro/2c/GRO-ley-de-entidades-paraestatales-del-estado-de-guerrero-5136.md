@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-entidades-paraestatales-del-estado-de-guerrero-5136"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-02"
-last_updated: "1988-12-02"
+last_updated: "2008-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 690 DE ENTIDADES PARAESTATALES DEL ESTADO DE GUERRERO, PUBLICADO EN EL P. O. DE 22 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el viernes 2 de diciembre de 1988.
 
@@ -324,3 +326,23 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deroga la Ley de Entidades Paraestatales del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado el 2 de diciembre de 1988.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en la presente ley.
+
+CUARTO.- En tanto el Ejecutivo dicte las disposiciones correspondientes para que los órganos de gobierno y de vigilancia de las entidades paraestatales se ajustan a esta ley, seguirán funcionando los órganos existentes de acuerdo a sus leyes o decretos de creación.
+
+QUINTO.- Los actos y operaciones de las entidades paraestatales que en términos de esta ley deban inscribirse en el Registro de Entidades Paraestatales, hasta en tanto se expida el reglamento del registro y se formalizan las funciones del expresado registro, se regirán para su validez y consecuencias legales conforme a las leyes, reglamentos, decretos y acuerdos vigentes hasta la fecha de la expedición de la presente ley.
+
+SEXTO.- Las entidades paraestatales a que hace referencia esta ley, deberán realizar los trámites correspondientes ante la Secretaría de Finanzas y Administración y la Contraloría General del Estado, a fin de obtener el registro respectivo, en un plazo de noventa días a partir de la entrada en vigor de la presente ley.
+
+SÉPTIMO.- El Ejecutivo Estatal a partir de la entrada en vigor de esta ley promoverá, en su caso por conducto de las coordinadoras de sector, las modificaciones o actualizaciones a los instrumentos de creación a las actas constitutivas de las empresas de participación estatal mayoritaria o a los contratos de fideicomiso correspondientes, para ajustarlas en lo que proceda a los términos de este ordenamiento.
+
+OCTAVO.- El Ejecutivo Estatal, dentro de los noventa días posteriores a la entrada en vigor de esta ley, expedirá el acuerdo de agrupamiento de las entidades paraestatales, a que se refiere el artículo 7 de esta ley.
