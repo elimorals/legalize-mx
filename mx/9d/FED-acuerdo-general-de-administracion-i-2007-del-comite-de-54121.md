@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-i-2007-del-comite-de-54121"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-01-29"
-last_updated: "2007-01-29"
+last_updated: "2008-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-01-29"
 
 ACUERDO GENERAL DE ADMINISTRACION I/2007, DEL VEINTINUEVE DE ENERO DE DOS MIL SIETE, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LOS REQUISITOS Y LOS PROCEDIMIENTOS PARA LA CREACION DE PLAZAS, EL OTORGAMIENTO DE NOMBRAMIENTOS Y DE LICENCIAS, ASI COMO PARA LA COMISION, LA READSCRIPCION, LA SUSPENSION Y LA REMOCION DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ANTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION V/2008, DEL DOCE DE JUNIO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXV, Febrero de 2007, página 2081.
 
@@ -628,3 +630,15 @@ LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURÍDICOS DE L
 CERTIFICA:
 
 Que esta copia del Acuerdo General de Administración I/2007, de veintinueve de enero de dos mil siete, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas, constante de treinta y un fojas útiles, concuerda fielmente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente. México, Distrito Federal, a primero de febrero de dos mil siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 22 DE JULIO DE 2008.
+
+PRIMERO. Este Acuerdo entrará en vigor el primero de agosto de dos mil ocho.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración I/2007, del veintinueve de enero de dos mil siete, del Comité de Gobierno y Administración, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas.
+
+TERCERO. Los servidores públicos que cuenten con comisiones actuales para ejercer funciones de Director de Area o de un puesto superior, obtendrán la remuneración equivalente a la del puesto al que fueron comisionados a partir del primero de enero de dos mil ocho.
+
+CUARTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
