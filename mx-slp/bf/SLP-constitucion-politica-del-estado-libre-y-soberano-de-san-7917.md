@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2008-05-10"
+last_updated: "2008-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2008.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -713,13 +713,31 @@ Cuando concluido un período ordinario de sesiones el Congreso esté conociendo 
 
 La Ley Orgánica del Congreso señalará las formalidades con que deban celebrarse la apertura y clausura de las sesiones.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 53.
 
 En el primer período ordinario de sesiones, el Congreso del Estado se ocupará de preferencia de aprobar las leyes de Ingresos del Estado y las de los municipios, así como de examinar y aprobar el presupuesto de egresos que le presente el Ejecutivo, correspondiente al año entrante.
 
-En el segundo se ocupará, con la misma preferencia, de revisar y aprobar, en su caso, las cuentas públicas del Estado, de los Municipios y de sus organismos descentralizados y entidades, relativas al año próximo anterior.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2008)</small>
+
+En el segundo periodo, el Congreso del Estado se ocupará con la misma preferencia, del inicio y conclusión de la revisión de las cuentas públicas del Estado, de los municipios y de sus organismos descentralizados, de los organismos autónomos, y demás entidades auditables, relativas al año próximo anterior; para lo cual contará con el apoyo de la Auditoria Superior del Estado, de conformidad con el procedimiento que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+
+La Cuenta Pública del Poder Ejecutivo del Estado deberá presentarse al Congreso, y en sus recesos a la Diputación Permanente, en forma anual, a más tardar el último día del mes de febrero del año siguiente al que corresponda su ejercicio.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+
+Además, las entidades del Poder Ejecutivo del Estado rendirán de forma trimestral, un informe de su situación financiera, a más tardar el día quince del mes siguiente al periodo de que se trate, conforme lo dispuesto en la ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+
+Las cuentas públicas municipales anuales, previa su aprobación por los ayuntamientos respectivos, se entregarán al Congreso del Estado, y en sus recesos a la Diputación Permanente, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio; salvo que se trate del último año del ejercicio de las administraciones municipales, pues en tal caso, las cuentas públicas se presentarán durante la última semana del periodo constitucional de los ayuntamientos. El periodo del que hubiera dejado de informarse deberá incluirse en la primera cuenta pública del ayuntamiento entrante.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+
+Los demás entes auditables deberán entregar al Congreso sus respectivas cuentas públicas, a más tardar el quince de febrero del año siguiente a su ejercicio.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -2530,3 +2548,7 @@ I. Por única vez, para los efectos que se establecen en el artículo 63 de la L
 II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
 
 III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
+
+P.O. 22 DE JULIO DE 2008.
+
+UNICO. Previa aprobación por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad, la reforma y adición a que se refiere este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
