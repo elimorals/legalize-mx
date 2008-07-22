@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-mediante-el-cual-se-aprueban-los-lineamientos-en-60524"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-15"
-last_updated: "2008-04-15"
+last_updated: "2008-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2008-07-22"
 
 ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, Y SE ABROGAN LOS APROBADOS MEDIANTE EL ACUERDO 095/SO/31-08/2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2008.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el martes 15 de abril de 2008.
 
@@ -303,7 +303,9 @@ VII. Establecer las políticas de sondeo de mercado, especificación de insumos,
 
 VIII. Colocar en el portal de Internet del Instituto, por conducto del Secretario Técnico del Instituto, los acuerdos, informes, directrices, políticas, lineamientos y demás documentos derivados de los actos de esta instancia colegiada, y
 
-IX. Elaborar y actualizar el Manual de Integración y Funcionamiento del Comité.
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2008)</small>
+
+IX. Aprobar y actualizar el Manual de Integración y Funcionamiento del Comité.
 
 ###### Artículo 14.
 
@@ -1120,3 +1122,15 @@ No se podrán anular, revocar o modificar los actos administrativos impugnados c
 ###### Artículo 72.
 
 En todas las cuestiones relativas en los procedimientos previstos en los Capítulos I y II del presente Título, se observarán de forma supletoria las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal, siempre y cuando no se contraponga a estos Lineamientos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 22 DE JULIO DE 2008.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se instruye al Secretario Técnico para que comunique el presente Acuerdo a los Integrantes del Comité de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto, así como para que realice las acciones necesarias para que también sea publicado en la Gaceta Oficial del Distrito Federal y en el portal de Internet de este Instituto.
