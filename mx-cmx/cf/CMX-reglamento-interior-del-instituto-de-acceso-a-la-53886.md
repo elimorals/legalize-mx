@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-53886"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-14"
-last_updated: "2007-03-09"
+last_updated: "2008-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53886&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2007-01-31"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MARZO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el miércoles 14 de febrero de 2007.
 
@@ -747,3 +749,13 @@ G.O. 9 DE MARZO DE 2007.
 TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 CUARTO. Instrúyase al Secretario Técnico para que el presente Acuerdo sea publicado en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
+
+G.O. 22 DE JULIO DE 2008.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueba el Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal, conforme al documento que como anexo forma parte del presente Acuerdo.
+
+SEGUNDO. Se abrogan los Acuerdos 013/SO/31-01/2007, de fecha treinta y uno de enero de dos mil siete, y el 028/SO/28-02/2007, de veintiocho de febrero del mismo año, aprobados por el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
