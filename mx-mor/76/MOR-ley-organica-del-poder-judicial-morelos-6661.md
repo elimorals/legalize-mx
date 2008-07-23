@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2005-07-20"
+last_updated: "2008-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -109,9 +109,11 @@ V.- Proporcionar a las autoridades competentes los datos e informes que éstos p
 
 VI.- Las demás que los ordenamientos legales les impongan.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 6.
 
-Son días y horas hábiles para el despacho en el Tribunal Superior de Justicia, Consejo de la Judicatura Estatal, Juzgados de Primera Instancia, Menores de Paz, de lunes a viernes, de las ocho a las quince horas, salvo los días en que oficialmente se suspendan las labores. Quedan exceptuados los asuntos de carácter penal y los casos en que por disposición de la ley o a juicio del pleno del tribunal o del Consejo, en su caso, fuere necesario laborar en días y horas diversos.
+Son días y horas hábiles para el despacho en el Tribunal Superior de Justicia, Consejo de la Judicatura Estatal, Juzgados de Primera Instancia, Menores y de Paz, de lunes a viernes, de las ocho a las quince horas, salvo los días en que oficialmente se suspendan las labores. Quedan exceptuados los asuntos de carácter penal y los casos en que por disposición de la ley o a juicio del pleno del tribunal o del Consejo, en su caso, fuere necesario laborar en días y horas diversos.
 
 ###### ARTICULO 7.
 
@@ -145,9 +147,11 @@ Ningún nombramiento para servidor público de la administración de justicia o 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 14.
 
-El Pleno del Tribunal Superior de Justicia tiene jurisdicción en todo el Estado; las salas de circuito, en el de su adscripción; los Jueces de primera instancia, en el distrito judicial para el que se les designe; los Jueces menores en la demarcación o distrito judicial al cual fueren asignados, y los Jueces de paz en el municipio para el cual se les nombre.
+El Pleno del Tribunal Superior de Justicia tiene competencia territorial en todo el Estado; las Salas de Circuito, en el de su adscripción; los Jueces de Primera Instancia y Menores en el Circuito, Distrito o Demarcación para el que se les designe; y, los Jueces de paz en el Municipio para el cual se les nombre.
 
 ###### ARTICULO 15.
 
@@ -159,9 +163,11 @@ II.- Segundo Circuito, que comprende los actuales distritos judiciales segundo, 
 
 III.- Tercer Circuito, que comprende los actuales distritos judiciales, quinto, sexto y séptimo, con sede en Cuautla.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 16.
 
-Los distritos judiciales y demarcaciones que en lo futuro llegaren a crearse quedarán adscritos a la Sala de circuito competente en el ámbito territorial de ella; si tales distritos o demarcaciones abarcaren una circunscripción territorial que comprendiere dos o más circuitos, el Pleno del Tribunal decidirá a cual circuito quedarán adscritos.
+No obstante lo dispuesto en los artículos anteriores, el Pleno del Tribunal Superior de Justicia podrá crear otros circuitos y distritos judiciales para modificar la división judicial del territorio del Estado, y podrá ampliar o modificar la competencia territorial de los órganos jurisdiccionales de primera y segunda instancia, cuando así se requiera para brindar un mejor servicio en la administración de justicia.
 
 ###### ARTICULO 17.
 
@@ -170,6 +176,14 @@ En cada circuito habrá el número de salas de circuito que fueren necesarias en
 ###### ARTICULO 18.
 
 En cada distrito judicial y en cada demarcación habrá el número de juzgados de primera instancia y menores que fueren necesarios, en materia civil, penal o mixta, los que serán denominados conforme al número progresivo que les asigne el Tribunal Superior de Justicia y tendrán su residencia en la cabecera distrital o demarcacional o en el lugar que el Pleno del propio Tribunal determine, sin modificar su jurisdicción.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+El Pleno del Tribunal podrá acordar, dentro de las posibilidades presupuestales, la conformación de Juzgados, integrados cada uno de ellos por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma unitaria o colegiada de conformidad con lo dispuesto por la Ley. En estos casos el Pleno designará a uno de los Jueces como coordinador.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+Tratándose del sistema penal acusatorio y adversarial, los juzgados podrán integrarse con jueces que asuman atribuciones de garantía y de juicio oral, siempre y cuando un mismo juez no desempeñe ambas funciones en un mismo asunto.
 
 ## TITULO TERCERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -213,6 +227,8 @@ Los Magistrados del Tribunal Superior de Justicia se retirarán forzosamente del
 
 El Pleno del Tribunal es la máxima autoridad del Poder Judicial en todas las cuestiones que no sean de la competencia exclusiva del Consejo de la Judicatura Estatal; se constituye por los Magistrados numerarios que integren las Salas y por el Presidente de ese cuerpo colegiado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE JULIO DE 2008)</small>
+
 Las sesiones y deliberaciones que se efectúen tendrán validez con la asistencia de por lo menos las dos terceras partes de los Magistrados; las presidirá el Presidente o, en su defecto, el Magistrado que lo supla interinamente. Sus decisiones serán inimpugnables.
 
 ###### ARTICULO 28.
@@ -229,7 +245,7 @@ II.- Conocer de los juicios que se instruyan a los funcionarios mencionados en e
 
 III.- Conocer, como jurado de sentencia, en los juicios políticos instruidos contra los funcionarios mencionados en la fracción anterior, por faltas oficiales. En este caso, el Tribunal se integrará conforme a lo dispuesto en el artículo 137 de la citada Constitución;
 
-IV.- Conocer de las causas por delitos comunes u oficiales de los Jueces;
+IV.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
 V.- Decidir las controversias que surjan en relación con pactos o negociaciones que celebre el titular del ejecutivo, por sí o por medio de sus representantes, con individuos o corporaciones civiles del Estado y de los demás negocios de la hacienda pública, siempre que el Gobierno fuere demandado. Si fuere actor, se seguirá el fuero del reo;
 
@@ -245,11 +261,15 @@ X.- Determinar la creación o supresión, de acuerdo con lo establecido en el ar
 
 XI.- Determinar el número, competencia territorial y cabeceras de los distritos judiciales y demarcaciones del Estado, creándolos, modificándolos o suprimiéndolos, según requiera la buena marcha de la administración de justicia;
 
-XII.- Llamar a su presencia a los Jueces para asuntos relacionados con la buena marcha de la administración de justicia, y pedir en cualquier tiempo copia de diligencias o los expedientes originales que se tramiten en los juzgados, cuidando de no interrumpir los términos previstos en la ley ni el regular procedimiento;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
-XIII.- Acordar la práctica de visitas a los Juzgados y otras dependencias del Poder Judicial, en comisión de uno o varios Magistrados;
+XII.- Determinar la distribución de las cargas de trabajo entre las distintas Salas, así como establecer la circunscripción territorial en la que ejercerán funciones;
 
-XIV.- Nombrar, remover y cambiar de adscripción al Secretario General de Acuerdos, a los Secretarios de Acuerdos de la Salas, a los Secretarios de Amparos, Actuarios y Secretarios de estudio y cuenta, todos ellos del Tribunal;
+XIII.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XIV.- Nombrar, remover y cambiar de adscripción al Secretario General de Acuerdos, a los Secretarios de Acuerdos de la (sic) Salas, a los Secretarios de Amparos, Actuarios, Secretarios de estudio y cuenta, y oficiales judiciales adscritos a las áreas antes citadas, todos ellos del Tribunal;
 
 XV.- Elegir cada dos años al Presidente del Tribunal Superior de Justicia;
 
@@ -321,7 +341,9 @@ IX.- Informar al Pleno acerca de las medidas o medios administrativos adoptados,
 
 X.- Reunir individual o colectivamente a los Jueces por lo menos una vez al mes, a fin de atender los problemas suscitados en sus respectivas adscripciones;
 
-XI.- Poner en conocimiento del Pleno o del Consejo de la Judicatura Estatal, según corresponda, la ausencia absoluta de los Jueces, de los Secretarios y demás empleados, así como las licencias que por más de cinco días soliciten;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XI.- Poner en conocimiento del Pleno la ausencia absoluta y las licencias que por más de cinco días solicite el personal de segunda instancia del Tribunal;
 
 XII.- Conceder permiso hasta por cinco días al personal del Tribunal;
 
@@ -329,9 +351,9 @@ XIII.- Habilitar a Secretarios y Actuarios para las Salas del Tribunal Superior 
 
 XIV.- Informar anualmente al Pleno del Tribunal sobre las labores del Poder Judicial;
 
-XV.- Llamar a su presencia a los Jueces para asuntos relacionados con la marcha de la administración de justicia y pedir en cualquier tiempo copia de diligencias o los expedientes originales que se tramiten en los juzgados, cuidando de no interrumpir los términos previstos en la ley ni el normal procedimiento;
+XV.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
-XVI.- Practicar visitas a los juzgados cuando lo estime pertinente, para cerciorarse de la asistencia y corrección del personal, de si el despacho de los procesos y juicios es correcto y dictar todas las providencias que le parezcan convenientes para la buena marcha de la administración de justicia;
+XVI.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
 XVII.- Rendir los informes previos y con justificación en los amparos que se promuevan en contra de resoluciones del Pleno del Tribunal;
 
@@ -361,33 +383,51 @@ Las Salas conocerán de las excusas y recusaciones de sus integrantes, en los ca
 
 Son atribuciones de los presidentes de Sala:
 
-I.- Distribuir por riguroso turno los asuntos entre él y los demás miembros de la Sala, para su estudio y presentación oportuna del proyecto de resolución que en cada uno deba dictarse;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
-II.- Presidir las sesiones y audiencias plenarias de Sala y dirigir su desarrollo;
+I.- Distribuir por riguroso turno los asuntos entre él y los demás miembros de la Sala, para su estudio y solución oportuna;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+II.- Presidir las sesiones internas de Sala y dirigir su desarrollo;
 
 III.- Atender la correspondencia oficial de su Sala;
 
 IV.- Rendir los informes previo y justificado en los juicios de amparo promovidos contra actos de la Sala;
 
-V.- Procurar lo necesario para el debido cumplimiento de la función de la Sala; y
+V.- Procurar lo necesario para el debido cumplimiento de la función de la Sala; y (sic)
 
-VI.- Conocer de los demás asuntos que les encomiende esta ley.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VI.- Devolver a sus juzgados de origen, en su oportunidad, los autos de los juicios o procesos de que haya conocido la Sala, con los testimonios respectivos;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VII.- Remitir los autos radicados en la Sala cuando deban ser diligenciados fuera de la jurisdicción, atendiendo el trámite respectivo; y,
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VIII.- Conocer de los demás asuntos que les encomiende esta ley.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 41.
 
-Las decisiones de las Salas serán tomadas por mayoría de votos. En los casos que sean del conocimiento de las Salas, un Magistrado designado por el Presidente, por riguroso turno, será ponente y presentará proyectos de sentencia ante la Sala en el término que fijen las leyes del procedimiento.
+Las decisiones de las Salas serán tomadas por mayoría de votos. En los casos que sean del conocimiento de las Salas, un Magistrado designado por el Presidente, por riguroso turno, será ponente y presentará proyectos de resolución ante la Sala en el término que fijen las leyes del procedimiento.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 42.
 
-El Magistrado ponente presidirá las diligencias que legalmente procedan, de oficio o a petición de parte, y dictará los autos y decretos consiguientes en los juicios o procesos que se le encomienden para su dictamen. Las vistas e informes que en estrados se señalen, se llevarán a efecto ante la Sala correspondiente.
+El Magistrado ponente presidirá las diligencias que legalmente procedan, de oficio o a petición de parte, y dictará los acuerdos de trámite consiguientes en los juicios o procesos que se le encomienden para su dictamen. Las vistas e informes que en estrados se señalen, se llevarán a efecto ante la Sala correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 43.
 
-Encontrándose el juicio o proceso en estado de sentencia, presentará el Magistrado ponente proyecto ante el Pleno de la Sala respectiva, para sus discusión. El proyecto aprobado por mayoría de votos tendrá carácter de resolución.
+Encontrándose el juicio o proceso en estado de resolución, presentará el Magistrado ponente una propuesta de solución ante el Pleno de la Sala respectiva, para su discusión, y de ser aprobada por mayoría de votos tendrá carácter de resolución.
 
-De no ser aprobado el proyecto, éste será devuelto al Magistrado ponente para que lo modifique de acuerdo con el criterio de la mayoría. En caso de que no esté de acuerdo el ponente con ello, podrá sostener su proyecto como voto particular, debiendo entregar el expediente al Presidente para el efecto de que lo turne a otro Magistrado de la Sala a fin de que se formule nuevo proyecto, de acuerdo con la opinión prevaleciente de la mayoría.
-
-En todo caso el Magistrado disidente con la mayoría podrá presentar voto particular.
+De no ser aceptada la propuesta de solución formulada por el ponente, uno de los magistrados que conforman la mayoría redactara la resolución correspondiente, y se consignara el voto particular del disidente.
 
 ###### ARTICULO 44.
 
@@ -411,19 +451,33 @@ VII.- Los demás asuntos que le señalen las leyes.
 
 Corresponde a las Salas Penales, conocer:
 
-I.- Los recursos de apelación, denegada apelación y demás que la ley conceda contra las resoluciones de los Jueces de primera instancia y menores, dictados en los procesos del orden penal;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+I.- Los recursos que la ley conceda contra las resoluciones de los Jueces de primera instancia y menores, dictados en los procesos del orden penal;
 
 II.- Los recursos de revocación contra los acuerdos que pronuncien los Magistrados ponentes o la propia Sala en los casos de su competencia;
 
-III.- Los asuntos sobre competencia que se susciten en las materias que les correspondan;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+III.- Los asuntos sobre competencia que les correspondan;
 
 IV.- Las excusas y recusaciones de los Jueces de primera instancia y menores;
 
 V.- Los asuntos de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
 
-VI.- La orientación técnica al personal del Poder Judicial en los asuntos en materia penal; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
-VII.- Los demás asuntos que les señalen las leyes.
+VI.- Los demás asuntos que les señalen las leyes.
+
+VII.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+En el proceso penal acusatorio y adversarial el recurso de casación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en apelación; y el recurso de revisión deberán conocerlo Magistrados que no hubieren intervenido en el mismo asunto en casación.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+En el procedimiento penal acusatorio y adversarial el Secretario de Acuerdos de la Sala no tendrá las atribuciones señaladas en las fracciones II, III, V y VI de éste artículo.
 
 ###### ARTICULO 46.
 
@@ -499,9 +553,9 @@ III.- Dar cuenta al Presidente del Tribunal con la correspondencia de carácter 
 
 IV.- Asistir a los acuerdos del Tribunal Pleno en asuntos administrativos, redactando las actas respectivas y firmándolas con los Magistrados integrantes del Pleno y el Secretario General de Acuerdos;
 
-V.- devolver a sus juzgados de origen, en su oportunidad, los autos de los juicios o procesos de que haya conocido el Tribunal o las Salas, con los testimonios respectivos;
+V.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
-VI.- Remitir los autos radicados en el Tribunal cuando deban ser diligenciados fuera de la jurisdicción, atendiendo el trámite respectivo; y
+VI.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
 VII.- Los demás que el Tribunal Pleno o el Presidente del mismo le señalen.
 
@@ -535,17 +589,25 @@ XII.- Vigilar que los demás empleados de la Sala asistan con puntualidad al des
 
 XIII.- Las demás que determinen las leyes y otros ordenamientos legales.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+En el procedimiento penal acusatorio y adversarial el Secretario de Acuerdos de la Sala no tendrá las atribuciones señaladas en las fracciones II, III, V, y VI de este artículo.
+
 ###### ARTICULO 52.
 
 Los Secretarios de la Sección de Amparos tendrán a su cargo los expedientes y valores relacionados con el trámite de los juicios de amparo en los que sea parte el Pleno de (sic) Tribunal, su Presidente, las Salas, o el Presidente de éstas, consultando al Magistrado que haya sido ponente y dando cuenta al Presidente del Tribunal o de la Sala que corresponda.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 53.
 
-Cada una de las Salas contará con los Actuarios que el servicio requiera, los cuales harán las notificaciones que corresponda a la Sala o al Pleno del Tribunal, según la materia de que se trate.
+Cada una de las Salas contará con los Actuarios que el servicio requiera, los cuales harán las notificaciones que corresponda a la Sala o al Pleno del Tribunal, según la materia de que se trate, sin perjuicio de que se establezcan otras formas de notificación conforme a la ley.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 54.
 
-Los Secretarios de Estudio y Cuenta tendrán a su cargo el estudio de los expedientes que reciban del Magistrado ponente al cual estén adscritos, dando cuenta a éste con el estudio realizado, y formularán los proyectos de sentencia de acuerdo con las instrucciones que reciban del Magistrado ponente.
+Los Secretarios de Estudio y Cuenta tendrán a su cargo el estudio de los asuntos que les encomiende el Magistrado ponente al cual estén adscritos, dando cuenta a éste con el estudio realizado.
 
 ### CAPITULO SEPTIMO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
@@ -573,25 +635,29 @@ V.- Tener la preparación necesaria para el desempeño del empleo; y
 
 VI.- Tener su domicilio en el Estado.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 58.
 
 El personal de la administración de justicia del Estado será de confianza o de base, de acuerdo con la naturaleza de la función que desempeñe. Son empleados de confianza, aquéllos cuya actividad implique funciones de dirección, administración, inspección o vigilancia. En su caso, es de aplicación supletoria de la presente ley, la del Servicio Civil del Estado de Morelos, teniendo las siguientes categorías:
 
-I.- Secretarios de acuerdos de los juzgados, independientemente de las funciones que desempeñen, ya sea civiles, penales, y actuarios de los propios juzgados;
+I.- Administrador de Juzgado;
 
-II.- Secretarios de acuerdos y actuarios de los juzgados menores;
+II.- Secretarios de acuerdos de los juzgados, independientemente de las funciones que desempeñen, ya sea civiles, penales, y actuarios de los propios juzgados;
 
-III.- Empleados de las diversas oficinas administrativas;
+III.- Secretarios de acuerdos y actuarios de los juzgados menores;
 
-IV.- Taquimecanógrafos;
+IV.- Empleados de las diversas oficinas administrativas;
 
-V.- Mecanógrafos;
+V.- Taquimecanógrafos;
 
-VI.- Auxiliares de oficina;
+VI.- Mecanógrafos;
 
-VII.- Intendentes del tribunal; y
+VII.- Auxiliares de oficina;
 
-VIII.- Oficiales de intendencia.
+VIII.- Intendentes del tribunal; y,
+
+IX.- Oficiales de intendencia.
 
 ###### ARTICULO 59.
 
@@ -627,11 +693,11 @@ V.- El Director y los Oficiales del Registro Civil;
 
 VI.- Los Notarios y Corredores Públicos;
 
-VII.- El Consejo Tutelar para Menores;
+VII.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
 VIII.- Los Directores, Alcaides y demás funcionarios de los centros de reclusión preventiva y para sentenciados;
 
-IX- El Consejo de Tutelas;
+IX.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
 X.- El Servicio Médico Forense;
 
@@ -653,9 +719,11 @@ XV.- Las demás personas, físicas o jurídicas, a quienes las leyes encomienden
 
 Los Jueces ejercerán sus funciones previa la protesta legal que otorgarán ante el Consejo de la Judicatura Estatal. Durarán en su encargo el tiempo que señala la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 64.
 
-Los Jueces residirán dentro del territorio del Estado, y los de paz preferentemente en el municipio correspondiente. Los de primera instancia y menores podrán ser cambiados de adscripción por decisión del Consejo de la Judicatura Estatal de acuerdo con las necesidades del servicio.
+Los Jueces residirán dentro del territorio del Estado, y los de paz, preferentemente en el municipio correspondiente. Los de primera instancia y menores podrán ser cambiados de adscripción por decisión del Consejo de la Judicatura Estatal de acuerdo con las necesidades del servicio, conforme a los criterios generales fijados previamente por dicho órgano para tal efecto.
 
 ###### ARTICULO 65.
 
@@ -667,19 +735,69 @@ II.- Tener veinticinco años de edad cumplidos;
 
 III.- Tener título y cédula profesionales de abogado o licenciado en derecho, expedidos conforme a la ley y registrados en el Tribunal Superior de Justicia;
 
-IV.- Tener tres años de práctica forense o continuidad de servicios dentro de la carrera judicial por ese término y sustentar y aprobar los concursos de mérito o exámenes de oposición, según sea el caso, que el Consejo de la Judicatura Estatal determine;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
-V.- No haber sido condenado en sentencia firme por delito grave intencional ni en juicio de responsabilidad administrativa;
+IV.- Haber obtenido la licenciatura en derecho con un promedio mínimo de ocho, o en su caso, obtener dicha calificación en los estudios de maestría o doctorado en derecho;
 
-VI.- No tener enfermedad o impedimento físico que lo incapacite para el ejercicio de su cargo;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
-VII.- Ser de honradez y probidad notorios; y
+V.- Tener tres años de práctica forense o continuidad de servicios dentro de la carrera judicial por ese término y sustentar y aprobar los concursos de mérito y exámenes de oposición, que el Consejo de la Judicatura Estatal determine;
 
-VIII.- No ser ministro de culto religioso alguno.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VI.- No haber sido condenado en sentencia firme por delito grave intencional ni en juicio de responsabilidad administrativa;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VII.- No tener enfermedad o impedimento físico que lo incapacite para el ejercicio de su cargo;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VIII.- Ser de honradez y probidad notorios; y,
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+IX.- No ser ministro de culto religioso alguno.
 
 ###### ARTICULO 66.
 
 La planta de personal de los juzgados será la siguiente: un Juez, uno o más Secretarios, uno o más Actuarios y el número de empleados auxiliares que determine el Consejo de la Judicatura Estatal.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+Los juzgados que funcionen conforme al sistema procesal penal acusatorio y adversarial, tendrán los funcionarios y el personal administrativo auxiliar que determine el Consejo de la Judicatura, necesarios para su buen funcionamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+El Consejo de la Judicatura podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías y otras áreas para varios juzgados de un mismo distrito o circuito judicial.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTICULO 66 Bis.
+
+En el proceso penal acusatorio y adversarial, los Jueces y Magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTICULO 66 Ter.
+
+En material penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+
+Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
+
+Cuando un juez de la materia penal utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultan suficientes para acreditar la autenticidad, aunque no se impriman en papel ni sean firmados.
+
+Las autoridades judiciales de la materia penal podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación, Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
+
+El Consejo de la Judicatura dictará los lineamientos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios; para garantizar su seguridad y conservación; así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTICULO 66 Quater.
+
+Cuando una autoridad penal del Estado reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
+
+Tratándose del envío de exhorto, mandamiento o comisión a otro Estado, el Juez solicitará, en la medida en que no se contravengan las disposiciones de esa entidad, se ejecute de c (sic) al procedimiento vigente para la autoridad exhortante.
 
 ### CAPITULO TERCERO. DE LOS JUECES MENORES
 
@@ -692,6 +810,10 @@ I.- Civiles;
 II.- Penales; y
 
 III.- Mixtos.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+Para todos los efectos legales, se consideran jueces de primera instancia en materia penal a los jueces de garantía y los jueces de juicio oral.
 
 ###### ARTICULO 68.
 
@@ -713,15 +835,53 @@ III.- Habilitar al Secretario de acuerdos como Actuario, cuando las necesidades 
 
 IV.- Las demás que les asignen las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 69.
 
-Corresponde a los Jueces de Primera Instancia Penales:
+Corresponde a los Jueces de primera instancia penales que tramitan procesos regulados por el Código de Procedimientos Penales del 9 de octubre de 1996 y sus reformas:
 
 I.- Conocer de todos los asuntos penales que se susciten en sus respectivos distritos, que sean de su competencia;
 
 II.- Practicar mensualmente visitas a los reclusorios dando cuenta al Tribunal Superior del resultado de las mismas; y
 
 III.- Las demás que les asignen las leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTICULO 69 Bis.
+
+Los jueces de garantía actuarán en forma unitaria y tendrán las siguientes atribuciones:
+
+I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los convenios y tratados internacionales vigentes en el país;
+
+II.- Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promueven en ellas;
+
+III.- Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
+
+IV.- Resolver sobre la vinculación a proceso de los imputados;
+
+V.- Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la ley;
+
+VI.- Dirigir la audiencia intermedia;
+
+VII.- Dictar sentencia en el procedimiento abreviado; y
+
+VIII.- Las demás que le otorgue la ley.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTICULO 69 Ter.
+
+Los Tribunales de juicio oral en materia penal se integrarán por tres jueces que actuarán en forma colegiada y tendrán las siguientes atribuciones:
+
+I.- Conocer y juzgar los procesos sometidos a su conocimiento;
+
+II.- Resolver todas las cuestiones que se presentan durante el juicio;
+
+III.- Dictar sentencia con base en las pruebas presentadas durante la audiencia de juicio; y,
+
+IV.- Las demás que les otorgue la ley.
 
 ###### ARTICULO 70.
 
@@ -733,7 +893,7 @@ Los Jueces de Primera Instancia no podrán encomendar a los Jueces Menores de la
 
 ###### ARTICULO 72.
 
-Los Jueces de Primera Instancia atenderán las consultas que les formulen los Jueces Menores de su jurisdicción.
+(DEROGADO, P.O. 23 DE JULIO DE 2008)
 
 ###### ARTICULO 73.
 
@@ -747,11 +907,15 @@ III.- Remitir oportunamente al Archivo Judicial General, por conducto de la Pres
 
 IV.- Los Jueces Mixtos de Primera Instancia y los del ramo penal, deberán visitar mensualmente los centros preventivos y de readaptación social ubicados dentro de su jurisdicción, informando necesariamente del resultado de tales visitas a la Presidencia del Tribunal;
 
-V.- Informar anualmente al Tribunal Superior de los delitos mas frecuentes en su distrito y de las medidas correctivas que a su juicio fueren pertinentes;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+V.- Informar anualmente al tribunal superior de los delitos mas frecuentes en su distrito;
 
 VI.- Informar al Pleno del Tribunal Superior de Justicia sobre las deficiencias que adviertan para la aplicación de la ley y poner oportunamente a los sentenciados a disposición del Ejecutivo del Estado;
 
-VII.- Cumplir con los programas de actualización que determine el Instituto de Capacitación Judicial, así como vigilar y ordenar a los Secretarios que cumplan con el deber de verificar la puntual asistencia del personal a sus labores, dentro de las horas de servicio y el desempeño del trabajo que se le encomiende;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VII.- Cumplir con los programas de actualización que determine la Escuela Judicial;
 
 VIII.- Proponer al Consejo de la Judicatura Estatal, quien decidirá, al personal que deba trabajar a sus órdenes, con sujeción a lo dispuesto sobre la materia en esta ley, y tomarle la protesta respectiva;
 
@@ -767,6 +931,10 @@ XIII.- Llevar los libros de gobierno y demás que ordenen las disposiciones lega
 
 XIV.- Las demás que les imponga la ley.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+Tratándose de los juzgados penales del sistema procesal penal acusatorio y adversarial, donde se hubiere asignado un administrador de juzgado, las atribuciones previstas en las fracciones II, III, V, VIII, IX; X, XII y XIII, de este artículo, quedarán a cargo del administrador.
+
 ###### ARTICULO 74.
 
 En los distritos y demarcaciones en que hubiere más de un juzgado los asuntos se turnarán por la oficialía de partes común en los términos que señale el Pleno del Tribunal.
@@ -781,7 +949,9 @@ I.- De todos los procedimientos cuya cuantía no exceda de mil doscientas veces 
 
 II.- De los interdictos;
 
-III.- De los delitos sancionados con pena hasta de cuatros años de prisión; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+III.- De los delitos sancionados con pena hasta de cuatro años de prisión, cuando éstos sean tramitados conforme a lo previsto en el Código de Procedimientos Penales del 9 de octubre de 1996 y sus reformas; y
 
 IV.- Los demás asuntos que se les encomiende, de conformidad con lo dispuesto en esta ley.
 
@@ -789,7 +959,7 @@ IV.- Los demás asuntos que se les encomiende, de conformidad con lo dispuesto e
 
 Dentro del límite de su competencia los Jueces Menores tendrán las mismas atribuciones y obligaciones que esta ley señala para los Jueces de Primera Instancia.
 
-### CAPITULO QUINTO. DE LOS SECRETARIOS DE ACUERDOS Y DE LOS ACTUARIOS
+### CAPITULO QUINTO. DE LOS SECRETARIOS DE ACUERDOS, DE LOS ACTUARIOS Y DE LOS ADMINISTRADORES
 
 ###### ARTICULO 77.
 
@@ -887,6 +1057,8 @@ Los Jueces de Paz tendrán como superior administrativo inmediato al Juez Menor 
 
 Los Jueces de Paz desempeñarán sus funciones dentro de los límites territoriales del municipio para el cual fueron designados.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2008)</small>
+
 ### CAPITULO PRIMERO. DEL JURADO POPULAR
 
 ###### ARTICULO 92.
@@ -942,6 +1114,42 @@ IV.- Asentar en los expedientes las que correspondan a la publicación de las re
 V.- Autentificar con su firma las diligencias en que intervenga; y
 
 VI.- Las demás que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTICULO 94 Bis.
+
+En los juzgados y en los tribunales de juicio oral podrá nombrarse un administrador de oficina, con las siguientes atribuciones:
+
+I.- Dirigir las labores administrativas del Juzgado de su adscripción;
+
+II.- Vigilar y controlar la conducta de los funcionarios y empleados a su cargo, a fin de que ajusten su actuación a lo dispuesto por las leyes.
+
+III.- Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados o tribunales;
+
+IV.- Remitir a la Presidencia del Tribunal Superior de Justicia una noticia estadística anual y otra mensual sobre el movimiento de negocios habidos en los juzgados o tribunales en donde ejerce funciones administrativas, la primera dentro de los primeros cinco días de enero y la segunda en los primeros cinco días de cada mes, siendo sujetos de responsabilidad administrativa por omisión;
+
+V.- Tener bajo su custodia los locales de los juzgados o tribunales de su adscripción, los de las salas de audiencias que les correspondan así como la conservación de los bienes asignados a los mismos;
+
+VI.- Custodiar los bienes y valores que se encuentren a disposición del Juzgado o Tribunal con motivo de la tramitación de los asuntos sometidos a su conocimiento;
+
+VII.- Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos últimas fracciones;
+
+VIII.- Distribuir los asuntos entre los jueces por turno riguroso, y;
+
+IX.- Las demás que determine la ley, el Consejo de la Judicatura o el Pleno del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTICULO 94 Ter.
+
+Para ser administrador de oficina se requiere:
+
+I.- Ser mayor de veinticinco años;
+
+II.- Ser profesionista titulado, con amplia experiencia en administración;
+
+III.- No haber sido condenado por delito doloso en los últimos seis años.
 
 ## TITULO QUINTO. DEL JURADO POPULAR Y DE LOS ARBITROS
 
@@ -1133,9 +1341,19 @@ XXII.- Nombrar al personal supernumerario que las necesidades de la administraci
 
 XXIII.- Tomar todas las decisiones que tiendan a la correcta y adecuada aplicación de la presente ley, así como resolver cualquier situación no prevista por ella, en el ámbito de su competencia;
 
-XXIV.- Designar a los Jueces Auxiliares del Magistrado Visitador General; y
+XXIV.- Designar a los Jueces Auxiliares del Magistrado Visitador General; y (sic)
 
-XXV.- Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XXV.- Estructurar; organizar y planear los proyectos para la implementación de los Juzgados de Garantía y Tribunal Oral, debiendo establecer los modelos de gestión necesarios para su buen funcionamiento;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XXVI.- Ordenar la práctica de visitas a los juzgados cuando lo estime pertinente, para cerciorarse de la asistencia y corrección del personal, de si el despacho de los procesos y juicios es correcto y dictar todas las providencias que le parezcan convenientes para la buena marcha de la administración de justicia; y,
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XXVII.- Las demás que le confieran las leyes.
 
 ###### ARTICULO 118.
 
@@ -1173,11 +1391,19 @@ XII.- Remitir al Poder Legislativo, por conducto del Jefe del Ejecutivo, el proy
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2001)</small>
 
-XIII.- Presentar ante el Congreso del Estado un informe trimestral de las Cuentas Públicas, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas; y
+XIII.- Presentar ante el Congreso del Estado un informe trimestral de las Cuentas Públicas, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas; y (sic)
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
-XIV.- Las demás que le confieran las leyes.
+XIV.- Poner en conocimiento del Pleno o del Consejo de la Judicatura Estatal, según corresponda, la ausencia absoluta de los Jueces, de los Secretarios y demás empleados, así como las licencias que por más de cinco días soliciten;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XV.- Llamar a su presencia a los Jueces o administradores, según corresponda, para asuntos relacionados con la marcha de la administración de justicia y pedir en cualquier tiempo copia de diligencias o los expedientes originales que se tramiten en los juzgados, cuidando de no interrumpir los términos previstos en la ley ni el normal procedimiento; y,
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XVI.- Los demás que le confieran las leyes.
 
 ### CAPITULO PRIMERO. DEL ARCHIVO JUDICIAL GENERAL
 
@@ -1313,35 +1539,49 @@ II.- Los expedientes en los que, aún cuando no estén concluidos, se haya dejad
 
 III.- Los libros de gobierno de los tribunales de los que no se requiera su permanencia en los mismos, actas de Plenos, actas de Sesiones del Consejo de la Judicatura Estatal, y copia de los informes de la Presidencia del Tribunal Superior de Justicia y del Consejo; y
 
-IV.- Los demás documentos que las leyes determinen.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+IV.- Los demás documentos y registros que las leyes determinen.
 
 ###### ARTICULO 130.
 
 Los Tribunales, al remitir los expedientes al archivo, para su resguardo llevarán una relación en la cual harán constar, en forma de inventario, los que contenga cada remisión; el jefe del archivo pondrá al calce de este inventario una constancia de recibo, informando de inmediato por escrito al Presidente del Consejo.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 131.
 
-Con los expedientes y documentos recibidos en el archivo, se formarán índices y serán colocados en el lugar que les corresponda, procurando que no sufran deterioro.
+Con los expedientes, registros y documentos recibidos en el archivo, se formarán índices y serán colocados en el lugar que les corresponda, procurando que no sufran deterioro.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 132.
 
-Por ningún motivo se extraerá expediente alguno del archivo judicial, a no ser a petición de la autoridad que lo haya remitido o de cualquiera otra competente, insertando en el oficio relativo la determinación que motiva el pedimento. La salida de éste será autorizada por el Presidente del Consejo y la orden se colocará en el lugar que ocupe el expediente solicitado.
+Por ningún motivo se extraerá expediente o registro alguno del archivo judicial, a no ser a petición de la autoridad que lo haya remitido o de cualquiera otra competente, insertando en el oficio relativo la determinación que motiva el pedimento. La salida de éste será autorizada por el Presidente del Consejo y la orden se colocará en el lugar que ocupe el expediente solicitado.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 133.
 
-La vista, examen o expedición de copias de libros, documentos o expedientes del archivo, serán autorizados por el Presidente del Tribunal y podrán permitirse a los interesados o a sus procuradores, en presencia del encargado de dicha oficina y dentro de ella, según la autorización; en su caso, las copias que se expidan serán certificadas por el Secretario General de Acuerdos del Tribunal Superior de Justicia.
+La vista, examen o expedición de copias de libros, registros, documentos o expedientes del archivo, serán autorizados por el Secretario General de Acuerdos del Tribunal y podrán permitirse a los interesados o a sus procuradores, en presencia del encargado de dicha oficina y dentro de ella, según la autorización; en su caso, las copias que se expidan serán certificadas por el referido funcionario.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 134.
 
-No se permitirá por ningún motivo a los empleados del archivo que extraigan del mismo documentos o expedientes; la infracción de esta disposición ameritará sanción administrativa, sin perjuicio de la denuncia penal respectiva.
+No se permitirá por ningún motivo a los empleados del archivo que extraigan del mismo documento, registros o expedientes; la infracción de esta disposición ameritará sanción administrativa, sin perjuicio de la denuncia penal respectiva.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 135.
 
-La falta de remisión al archivo de los expedientes que lo ameriten o su remisión indebida, será sancionada por el Consejo de la Judicatura Estatal.
+La falta de remisión al archivo de los expedientes o registros que lo ameriten o su remisión indebida, será sancionada por el Consejo de la Judicatura Estatal.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 136.
 
-Cualquier defecto, irregularidad o infracción que el Jefe del Archivo advierta en los expedientes y documentos que se remitan para su depósito, lo comunicará por escrito inmediatamente al Presidente del Consejo de la Judicatura Estatal, para que ordene lo conducente.
+Cualquier defecto, irregularidad o infracción que el jefe del archivo advierta en los expedientes, registros y documentos que se remitan para su depósito, lo comunicará por escrito, inmediatamente al Presidente del Consejo de la Judicatura Estatal, para que ordene lo conducente.
 
 ###### ARTICULO 137.
 
@@ -1385,7 +1625,9 @@ VII.- Promover la actualización y modernización de la biblioteca; y
 
 VIII.- Las demás que prescriban las leyes y reglamentos relativos y aquellas que se deriven de las instrucciones del Presidente del Consejo.
 
-### CAPITULO CUARTO. DEL INSTITUTO TECNICO
+### CAPITULO CUARTO. DE LA ESCUELA JUDICIAL
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 143.
 
@@ -1395,21 +1637,27 @@ El Boletín Judicial es el órgano encargado de publicar la relación de las res
 
 El Boletín Judicial circulará diariamente en todos los distritos judiciales, a excepción de los días inhábiles. En todos los tribunales del Estado habrá el número de ejemplares necesarios para consulta del público.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2008)</small>
+
 ### CAPITULO QUINTO. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 145.
 
-La Presidencia del Consejo de la Judicatura Estatal tendrá bajo su dependencia al Instituto Técnico, cuyas funciones serán las de adiestrar el personal que deba prestar sus servicios en el Poder Judicial, mejorar la capacidad del que esté laborando y especializar a los servidores públicos en las distintas ramas de la administración de justicia.
+La Presidencia del Consejo de la Judicatura Estatal tendrá bajo su dependencia a la Escuela Judicial, cuyas funciones serán las de adiestrar el personal que deba prestar sus servicios en el Poder Judicial, mejorar la capacidad del que esté laborando y especializar a los servidores públicos en las distintas ramas de la administración de justicia.
 
 La composición y funcionamiento del Instituto se regirá por el Reglamento Interior del Consejo.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 146.
 
-En el Instituto Técnico se publicará una revista jurídica periódica, la que tendrá como finalidad ser órgano de difusión jurídica, legislativa, académica y jurisprudencial.
+En la Escuela Judicial se publicará una revista jurídica periódica, la que tendrá como finalidad ser órgano de difusión jurídica, legislativa, académica y jurisprudencial.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 147.
 
-El Instituto tomará las medidas necesarias y vigilará que la revista tenga la difusión debida y oportuna entre las autoridades, instituciones y público en general a los que interese su contenido.
+La Escuela Judicial tomará las medidas necesarias y vigilará que la revista tenga la difusión debida y oportuna entre las autoridades, instituciones y público en general a los que interese su contenido.
 
 ### CAPITULO SEXTO. DEL CENTRO DE COMPUTACION E INFORMATICA
 
@@ -1615,9 +1863,17 @@ III.- Las de los Magistrados del Tribunal Superior de Justicia, por el Magistrad
 
 En los casos de recusación, excusa o impedimento de los Jueces conocerá del asunto respectivo, el Juez del ramo que funcione en la misma circunscripción territorial progresivamente. Agotados estos últimos o no funcionando más que uno solo en el ramo respectivo, conocerá el juez de la circunscripción territorial siguiente, en orden progresivo.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+Tratándose de un Juzgado integrado por varios jueces, el asunto pasará a conocimiento de otro de ellos, conforme a la distribución interna que se haya dispuesto.
+
 ###### ARTICULO 171.
 
 Las faltas accidentales o temporales de los Jueces que no excedan de tres meses, serán suplidas dentro del juzgado en que ocurran, por el funcionario que designe el Consejo de la Judicatura Estatal. En tanto se haga la designación actuará como encargado del despacho, el primer secretario de acuerdos, quien sólo podrá dictar resoluciones de trámite; en los casos de juzgados mixtos, el primer secretario del ramo civil.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+Tratándose de juzgados integrados por varios jueces, éstos podrán sustituirse entre sí, sin perjuicio de que se nombre un funcionario interino.
 
 ###### ARTICULO 172.
 
@@ -1669,7 +1925,9 @@ La responsabilidad de los Jueces y servidores públicos judiciales se regirá po
 
 Son faltas de los Jueces:
 
-I.- Abstenerse, sin causa justificada, de dictar las resoluciones en los negocios de su conocimiento, dentro de los términos o plazos que señala la ley;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+I.- Abstenerse, sin causa justificada, de realizar las audiencias y de dictar las resoluciones en los negocios de su conocimiento, dentro de los términos o plazos que señala la ley;
 
 II.- Dejar de concluir sin causa justificada, dentro de los términos de la ley, la instrucción de los procesos de su conocimiento;
 
@@ -1695,7 +1953,7 @@ X.- No respetar los mecanismos establecidos por el Consejo de la Judicatura del 
 
 XI.- Dedicar a los servidores de la administración de justicia de su dependencia, al desempeño de labores ajenas a las funciones oficiales;
 
-XII.- Concurrir a sus labores bajo el efecto de algún estupefaciente o producto prohibido por la ley, salvo el caso de prescripción médica; y
+XII.- Concurrir a sus labores bajo el efecto de algún estupefaciente o producto prohibido por la ley, salvo el caso de prescripción médica; y (sic)
 
 > <small>(REFORMADA, P.O.20 DE JULIO DE 2005)</small>
 
@@ -1743,25 +2001,41 @@ Se consideran como faltas de los miembros del Consejo de la Judicatura Estatal, 
 
 Si la falta se cometiere porque alguna de las Salas del Tribunal no dicte sus resoluciones dentro del termino legal, solamente será responsable el Magistrado Ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás Magistrados; y cualquiera de los tres será responsable si habiéndose presentado la ponencia correspondiente, no concurriere a la discusión del negocio o no firmare la sentencia dentro del mismo plazo legal, sin causa justificada en uno y otros casos.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 186.
 
-Son faltas de los Secretario (sic) de Acuerdos:
+Son faltas de los administradores y de los Secretarios de Acuerdos:
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
 I.- Dar cuenta, fuera del término legal, con los oficios, promociones de las partes y documentos oficiales dirigidos al juez;
 
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
+
 II.- Retardar la entrega de los expedientes para su notificación personal o su diligenciación;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
 III.- Rehusarse a mostrar los expedientes a las partes, cuando lo soliciten o cuando se hubiera publicado en el boletín judicial del día la resolución correspondiente;
 
-IV.- Descuidar el trámite o la conservación de los expedientes, procesos, tocas, escritos, documentos, objetos y valores que tengan a su cargo;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+IV.- Descuidar el trámite o la conservación de los expedientes, registros, procesos, tocas, escritos, documentos, objetos y valores que tengan a su cargo;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
 V.- Abstenerse de dar cuenta a su superior de las faltas u omisiones que hubieren observado en el personal de su oficina;
 
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
+
 VI.- Asentar en autos, las certificaciones que procedan de oficio o por mandato judicial, sin sujetarse a los plazos señalados en la ley o abstenerse de hacerla;
 
-VII.- No cumplir con las atribuciones en el ámbito de su competencia de lo que establecen los artículos 49, 51 y 93 de esta ley; y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+
+VII.- No cumplir con las atribuciones en el ámbito de su competencia de lo que establecen los artículos 49, 51, 93 y 94 bis de esta ley; y
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
 
 VIII.- Las demás que señalen otras leyes u ordenamientos aplicables.
 
@@ -1879,7 +2153,13 @@ c).- El artículo 50 fracciones II, IV, V y VI del presente ordenamiento;
 
 d).- El artículo 93 fracciones VI, IX, XI y XIV de esta ley; y
 
-e).- El artículo 183 de la presente ley, con excepción de las fracciones XVII y XVIII.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
+e).- El artículo 94 bis fracciones III, VII y VIII, y,
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+f).- El artículo 183 de la presente ley, con excepción de las fracciones XVII y XVIII.
 
 II.- Igualmente serán consideradas como faltas graves el incumplimiento de las atribuciones a que se refieren las fracciones V a VIII del artículo 51 de esta ley.
 
@@ -1907,15 +2187,15 @@ VII.- En su caso, el monto del beneficio, daño o perjuicio económico causado, 
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
 
-###### ARTICULO 195.
+###### ARTICULO 195 Ter.
 
-Ter.- Las sanciones previstas en las fracciones I a IV del artículo 194 de esta ley prescribirán en seis meses y las demás en un año; los plazos anteriores se contarán a partir de la presentación de la denuncia que corresponda. En ambos casos las actuaciones realizadas por la Visitaduría o por el Consejo de la Judicatura Estatal, encaminadas al esclarecimiento de los hechos denunciados, interrumpirán los plazos de la prescripción.
+Las sanciones previstas en las fracciones I a IV del artículo 194 de esta ley prescribirán en seis meses y las demás en un año; los plazos anteriores se contarán a partir de la presentación de la denuncia que corresponda. En ambos casos las actuaciones realizadas por la Visitaduría o por el Consejo de la Judicatura Estatal, encaminadas al esclarecimiento de los hechos denunciados, interrumpirán los plazos de la prescripción.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
 
-###### ARTICULO 195
+###### ARTICULO 195 Quáter.
 
-Quáter.- En todo lo no previsto por este ordenamiento se aplicarán en lo conducente, las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+En todo lo no previsto por este ordenamiento se aplicarán en lo conducente, las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
 ###### ARTICULO 196.
 
@@ -2018,3 +2298,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Remítase al titular del Poder Ejecutivo, para los efectos legales conducentes. Recinto Legislativo a los cinco días del mes de julio de dos mil cinco.
+
+P.O. 23 DE JULIO DE 2008.
+
+Artículo Primero. El presente Decreto, entrará en vigor, al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+Artículo Segundo. Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Artículo Tercero. Derogación Tácita de Preceptos Incompatibles. Quedan derogados los preceptos que se opongan a las disposiciones de este Ordenamiento.
+
+Artículo Cuarto. Facultades extraordinarias. A partir de la vigencia de esta ley y hasta los tres años siguientes de la entrada en vigor en todo el Estado del Código de Procedimientos Penales que regula el sistema procesal penal acusatorio y adversarial, el Pleno Tribunal Superior de Justicia o el Consejo de la Judicatura, en su caso, podrán establecer las disposiciones generales para el traslado y designación de funcionarios, nombramiento provisional de jueces de garantía, integración de tribunales de juicio oral y salas, redistribución de competencias territoriales, asignación del juzgado de rezagos y creación de órganos que resulten pertinentes. Las decisiones que adopten en virtud de esta norma, deberán sustentarse siempre en un mejor servicio público y en la necesidad de instrumentar la aplicación del referido Código Procesal Penal.
+
+Artículo Quinto. Situación de jueces actuales. Por esta ocasión, quienes se desempeñan como jueces de cuantía menor y de primera instancia, mediante la capacitación correspondiente que disponga el Consejo de la Judicatura Estatal, desempeñarán el cargo de jueces en el sistema procesal penal acusatorio y adversarial.
