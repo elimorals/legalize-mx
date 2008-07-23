@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2007-03-30"
+last_updated: "2008-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2008.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -119,13 +119,15 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
-> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; comercio ilícito de bebidas alcohólicas en su modalidad de venta o distribución, previsto por el artículo 245, primer párrafo; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos previstos en el artículo 284-bis; violación, previsto por los artículos 313, 315 y 316; usura, previsto por el artículo 328; robo, previsto por el artículo 330, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; robo calificado, previsto en el artículo 335 fracciones II, III, IV, VIII, IX y XI, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; y fracciones I, VI, VII, X, XII y XIII del mismo artículo independientemente del monto de lo robado; robo con violencia previsto en el artículo 336; robo de ganado mayor, previsto por el artículo 339; robo de ganado menor, previsto por el artículo 340 cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; daño en propiedad ajena doloso, previsto por el artículo 350 cuando el importe de lo dañado sea el establecido en la fracción IV del artículo 333; lesiones, previsto por los artículos 360, 361, 362, y 363; homicidio doloso, previsto por el artículo 368 en relación con el 372 , 378 y 384; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; comercio ilícito de bebidas alcohólicas en su modalidad de venta o distribución, previsto por el artículo 245, primer párrafo; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos previstos en el artículo 284-bis; abuso sexual previsto en el párrafo cuarto del artículo 309; violación, previsto por los artículos 313, 315 y 316; usura, previsto por el artículo 328; robo, previsto por el artículo 330, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; robo calificado previsto en el artículo 335 fracciones II, III, IV, VIII, IX y XI, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333, y fracciones I, VI, VII, X, XII y XIII del mismo artículo independientemente del monto de lo robado; robo con violencia previsto en el artículo 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339; robo de ganado menor previsto por el artículo 340 cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; daño en propiedad ajena doloso, previsto por el artículo 350 cuando el importe de lo dañado sea el establecido en la fracción IV del artículo 333; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368 en relación con el 372, 378 y 384; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
 
-Quienes cometan algún delito grave de los señalados en el párrafo anterior, no tendrán derecho a la libertad provisional bajo caución, a que hace referencia el Código de Procedimientos en Materia Penal.
+A quienes se atribuya haber cometido algún delito grave de los señalados en el párrafo anterior, no tendrán derecho a la libertad provisional bajo caución, a que hace referencia el Código de Procedimientos en Materia Penal.
 
 ### CAPÍTULO IV. PERSONAS RESPONSABLES DE LOS DELITOS
 
@@ -201,7 +203,11 @@ El delito se excluirá cuando:
 
 I. El hecho se realice sin intervención de la voluntad del agente;
 
-II. No se acredite el cuerpo del delito;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
+
+II. Se demuestre la inexistencia de alguno de los elementos que integran la descripción típica del delito de que se trate;
 
 III. Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
@@ -223,9 +229,31 @@ VII. Al momento de realizar el hecho típico, el agente no tenga la capacidad de
 
 Cuando la capacidad a que se refiere el párrafo anterior sólo se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 93 de este Código;
 
-VIII. Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que efectuó, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX. El resultado típico se produzca por caso fortuito.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
+
+VIII. Se realice la acción o la omisión bajo un error invencible, respecto de:
+
+a).- Alguno de los elementos objetivos que integran la descripción legal del delito de que se trate; o
+
+b).- La ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
+
+En caso de que sea vencible el error a que se refiere el inciso a), fracción VIII de este artículo, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización.
+
+Si el error vencible es el previsto en el inciso b) de la misma fracción, la penalidad será de una tercera parte del delito que se trate;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
+
+IX. Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que efectuó, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2008)</small>
+
+X. El resultado típico se produzca por caso fortuito.
 
 ###### ARTÍCULO 22.
 
@@ -1443,6 +1471,10 @@ Las sanciones establecidas en este Capítulo se aplicarán sin perjuicio de las 
 
 ### CAPÍTULO II. CORRUPCIÓN DE MENORES E INCAPACES, TRATA DE MENORES Y PORNOGRAFÍA INFANTIL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 193.
 
 A quien venda, distribuya o suministre medicamentos una vez vencida su fecha de vigencia se le aplicará prisión de uno a cuatro años y de diez a sesenta días-multa.
@@ -1553,41 +1585,71 @@ No se sancionarán las conductas que tengan un fin de investigación o divulgaci
 
 ### CAPÍTULO II. SUSTRACCIÓN DE MENORES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 208.
 
-Comete el delito de corrupción de menores, e incapaces, el que induzca, procure, facilite u obligue a un menor de dieciséis años de edad o a quien no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos, sexuales, prostitución, ebriedad, consumo de narcóticos, prácticas sexuales o a cometer hechos delictuosos. Al autor de este delito se le aplicarán de cinco a diez años de prisión y de cien a quinientos días-multa.
+Comete el delito de corrupción de menores e incapaces, quien induzca, procure, favorezca, facilite u obligue a una persona menor de dieciocho años de edad o a quien no tenga capacidad para comprender el significado del hecho o que no tenga la capacidad para resistirlo, a realizar cualquiera de los siguientes actos:
 
-Al que obligue o induzca a la práctica de la mendicidad, se le impondrá de tres a ocho años de prisión y de cincuenta a doscientos días-multa.
+I.- Exhibicionismo corporal o actos sexuales simulados o no con fines lascivos o sexuales;
 
-No se entenderá por corrupción de menores los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
+II.- Práctica de la prostitución y la mendicidad con fines de explotación;
 
-Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos de alcoholismo, farmacodependencia, se dedique a la prostitución o a formar parte de una asociación delictuosa, la pena será de siete a doce años de prisión y de trescientos a quinientos días-multa.
+III.- Consumo de bebidas alcohólicas, drogas y sustancias tóxicas o narcóticos;
+
+IV.- Comisión de hechos tipificados como delitos por este Código, o
+
+V.- Comisión de violencia física, sea ésta real o simulada.
+
+Al autor de este delito se le aplicarán de cinco a diez años de prisión y de cien a quinientos días-multa.
+
+La misma pena se impondrá a quien realice cualquiera de las conductas descritas en las fracciones I y V de este artículo, en presencia de menores de dieciocho años o de personas que no tengan capacidad para comprender el hecho o que no tengan la capacidad para resistirlo.
+
+Cuando de la práctica reiterada de los actos de corrupción, la persona menor de dieciocho años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, adquiera los hábitos de alcoholismo, farmacodependencia, se dedique a la prostitución o a formar parte de una asociación delictuosa, la pena será de siete a doce años de prisión y de trescientos a quinientos días-multa.
+
+No se entenderá por corrupción de menores de dieciocho años, las actividades o los programas preventivos educativos, deportivos o de cualquier naturaleza que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, la educación sobre la función reproductiva, el fomento al deporte, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
+
+Cuando no sea posible determinar con precisión la edad de la víctima, el juez solicitará los dictámenes periciales que correspondan.
 
 Si además de los delitos previstos en este Capítulo resultase cometido otro, se aplicarán las reglas de la acumulación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 209.
 
-Se impondrá de uno a cinco años de prisión y de diez hasta cien días-multa a los propietarios, gerentes, administradores, o encargados de las industrias, talleres o expendios de substancias tóxicas que consientan, por culpa o negligencia, que menores de dieciséis años o incapaces las utilicen, ya sea que trabajen en dichos lugares o por cualquier otro motivo concurran a los mismos.
+Se impondrá de uno a cinco años de prisión y de diez hasta cien días multa a los propietarios, gerentes, administradores, o encargados de las industrias, talleres o expendios de substancias tóxicas que consientan, por culpa o negligencia, que menores de dieciocho años o incapaces las utilicen, ya sea que trabajen en dichos lugares o por cualquier otro motivo concurran a los mismos.
 
-Igual sanción a la establecida en el párrafo anterior se aplicará a los industriales, comerciantes, distribuidores, expendedores o poseedores de cualquier tipo de substancias tóxicas o alucinógenas, utilizadas normalmente en la industria, que las expendan, distribuyan o permitan el consumo de las mismas a los menores de dieciséis años de edad o incapaces.
+Igual sanción a la establecida en el párrafo anterior se aplicará a los industriales, comerciantes, distribuidores, expendedores o poseedores de cualquier tipo de substancias tóxicas o alucinógenas utilizadas normalmente en la industria, que las expendan, distribuyan o permitan el consumo de las mismas a los menores de dieciocho años de edad o incapaces.
 
-Al que emplee a menores de dieciséis años de edad o incapaces en cantinas, bares, tabernas, centros nocturnos o cualesquiera otros centros de vicio, se le sancionará con prisión de tres a ocho años, de cien a quinientos días-multa y además con cierre definitivo del establecimiento en caso de reincidencia.
+Al que emplee a menores de dieciocho años de edad o incapaces en cantinas, bares, tabernas, centros nocturnos o cualesquiera otros centros de vicio, se le sancionará con prisión de tres a ocho años, de cien a quinientos días-multa y además con cierre definitivo del establecimiento en caso de reincidencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 210.
 
-A quien promueva, publicite, invite, facilite o gestione por cualquier medio, que persona o personas tengan relaciones sexuales con menores de dieciséis años de edad se le impondrá sanción de cinco a catorce años de prisión y de cien a quinientos días-multa.
+A quien promueva, publicite, invite, facilite o gestione por cualquier medio, que persona o personas tengan relaciones sexuales con menores de dieciocho años de edad se le impondrá sanción de cinco a catorce años de prisión y de cien a quinientos días-multa.
 
-Las mismas sanciones se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas viajen al interior o exterior del territorio del Estado y que tenga como propósito, que dichas personas tengan relaciones sexuales con menores de dieciséis años de edad.
+Las mismas sanciones se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas viajen al interior o exterior del territorio del Estado y que tenga como propósito, que dichas personas tengan relaciones sexuales con menores de dieciocho años de edad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 211.
 
-Al que procure o facilite por cualquier medio que uno o más menores de dieciséis años, con o sin su consentimiento, los obligue o induzca a realizar actos de exhibicionismo corporal, lascivos o sexuales, con objeto y fin de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrán de cinco a diez años de prisión y de cuatrocientos a quinientos días-multa.
+Al que procure o facilite por cualquier medio que uno o más menores de dieciocho años, con o sin su consentimiento, los obligue o induzca a realizar actos de exhibicionismo corporal, lascivos o sexuales, con objeto y fin de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos: con o sin el fin de obtener un lucro, se le impondrán de cinco a diez años de prisión y de cuatrocientos a quinientos días-multa.
 
-Al que fije, grabe o imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciséis años, se le impondrá la pena de diez a catorce años de prisión y de cuatrocientos a quinientos días-multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite o transmita el material a que se refieren las acciones anteriores.
+Al que fije, grabe o imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, se le impondrá la pena de diez a catorce años de prisión y de cuatrocientos a quinientos días-multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite o transmita el material a que se refieren las acciones anteriores.
 
-Se impondrá prisión de ocho a dieciséis años y de cuatrocientos cincuenta a quinientos días-multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los dos párrafos anteriores con menores de dieciséis años.
+Se impondrá prisión de ocho a dieciséis años y de cuatrocientos cincuenta a quinientos días-multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los dos párrafos anteriores con menores de dieciocho años.
 
-Para los efectos de este artículo se entiende por pornografía infantil, la representación sexualmente explícita de imágenes de menores de dieciséis años.
+Para los efectos de este artículo se entiende por pornografía infantil, la representación sexualmente explícita de imágenes de menores de dieciocho años.
 
 ###### ARTÍCULO 212.
 
@@ -1613,7 +1675,11 @@ III. Regentee, administre o sostenga prostíbulos, casas de cita o lugares de co
 
 IV. Por cualquier medio, retenga a una persona en la práctica de la prostitución contra su voluntad.
 
-Si la persona objeto de la explotación por medio del comercio carnal fuere menor de dieciséis años de edad, las sanciones señaladas en este artículo se aumentarán hasta en una mitad más.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
+Si la persona objeto de la explotación por medio del comercio carnal fuere menor de dieciocho años de edad, las sanciones señaladas en este artículo se aumentarán en una mitad más.
 
 Si el delincuente fuera ascendiente, descendiente, cónyuge, concubinario, concubina, hermano, tutor, curador o tuviere cualquier otra autoridad sobre la persona explotada, la prisión será de dos a ocho años y de veinte a ciento sesenta días-multa. Además será privado de todo derecho de familia sobre la persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela.
 
@@ -1667,9 +1733,13 @@ A quien dolosamente se coloque en estado de insolvencia con el objeto de eludir 
 
 ###### ARTÍCULO 223.
 
-Al familiar de un menor de dieciséis años de edad que lo sustraiga, sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la tenga o bien lo retenga sin voluntad de éste, se le impondrá de un mes a seis años de prisión y de diez a sesenta días-multa.
+Al familiar de un menor de dieciocho años de edad que lo sustraiga, sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la tenga o bien lo retenga sin voluntad de éste, se le impondrá de un mes a seis años de prisión y de diez a sesenta días-multa.
 
-Cuando la sustracción o retención de un menor de dieciséis años, se realice por una persona distinta de las indicadas, se impondrán de uno a ocho años de prisión y de veinte a ciento sesenta días-multa. Si se pone en libertad al menor, espontáneamente, antes de tres días y sin causarle ningún perjuicio, se aplicará como sanción, de un mes a un año de prisión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
+Cuando la sustracción o retención de un menor de dieciocho años, se realice por una persona distinta de las indicadas, se impondrán de uno a ocho años de prisión y de veinte a ciento sesenta días-multa. Si se pone en libertad al menor, espontáneamente, antes de tres días y sin causarle ningún perjuicio, se aplicará como sanción, de un mes a un año de prisión.
 
 Si el agente devuelve espontáneamente al menor antes de la vista pública, se le impondrá hasta una tercera parte de las penas señaladas.
 
@@ -1688,6 +1758,12 @@ Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcle
 Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial, la sanción se aumentará hasta el doble de la prevista en aquél.
 
 A quienes teniendo el ejercicio de los derechos de familia en relación con el ofendido cometan el delito a que se refiere este artículo, además de las sanciones señaladas se les privará de ese derecho.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+Cuando a consecuencia del tráfico del menor, éste resulte afectado en su integridad física por extraerle algún órgano o parte del cuerpo humano, se aplicará como sanción una pena de seis a diez años de prisión, independientemente de las que pudieran resultar por la comisión de cualquier otro delito.
 
 ### CAPÍTULO I. AMENAZAS
 
@@ -1751,11 +1827,17 @@ Se equipara a la violencia intrafamiliar y se sancionará con seis meses a cuatr
 
 En todos los casos previstos en los dos artículos precedentes, el Ministerio Público durante la averiguación previa exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física, psíquica o moral de la misma. La Autoridad Administrativa vigilará el cumplimiento de estas medidas. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
-### CAPÍTULO I. VAGANCIA Y MALVIVENCIA
+### CAPÍTULO V. DELITO CONTRA LA INTIMIDAD PERSONAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ## TÍTULO DÉCIMO. DELITOS EN MATERIA DE CADÁVERES
 
-### CAPÍTULO II. DEL COMERCIO ILÍCITO DE BEBIDAS ALCOHÓLICAS Y LA EBRIEDAD
+### CAPÍTULO I. VAGANCIA Y MALVIVENCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTÍCULO 231.
 
@@ -1785,7 +1867,25 @@ DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTÍAS DE LAS PERSONAS
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA LA VIDA E INTEGRIDAD CORPORAL
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DEL COMERCIO ILÍCITO DE BEBIDAS ALCOHÓLICAS Y LA EBRIEDAD
+
+###### ARTÍCULO 243
+
+BIS. Se sancionará con prisión de seis meses a cinco años, al que para conocer asuntos relacionados con la intimidad de una persona o con la finalidad de causarle perjuicio o daño, y sin consentimiento de ésta o sin autorización de autoridad competente, en su caso, usando cualquier medio, realice las conductas siguientes:
+
+l. Intervenga o intercepte las comunicaciones privadas directas o por medios electrónicos;
+
+II. Se apodere o utilice documentos u objetos de la propiedad de la victima u ofendido, aunque el la hubiese puesto en posesión de este;
+
+III. Reproduzca, difunda o transmita por cualquier medio, los productos de lo obtenido conforme a las dos fracciones precedentes; o
+
+IV. Utilice medios técnicos de manera oculta, para escuchar u observar, transmitir, grabar o reproducir la imagen o el sonido de sus actividades o sus relaciones interpersonales efectuadas en lugar privado.
+
+Si la información obtenida se hace del conocimiento de terceros la sanción se incrementará en un tercio de la que le corresponda.
+
+TÍTULO DECIMOSEGUNDO
+
+VAGANCIA, MALVIVENCIA Y VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTÍCULO 233.
 
@@ -1813,7 +1913,7 @@ II. Si exigió que el amenazado cometiere un delito, se acumulará a la sanción
 
 III. Si lo que exigió fue que se dejara de ejecutar un acto lícito se le impondrá el doble de la sanción señalada en el artículo que antecede.
 
-### CAPÍTULO II. PRESTACIÓN INDEBIDA O ABANDONO DE UN SERVICIO PÚBLICO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 236.
 
@@ -1821,7 +1921,7 @@ Se impondrá sanción de dos meses a tres años de prisión y de dos a veinte d�
 
 Las mismas sanciones se aplicarán a quienes en iguales condiciones a las que se precisan en el párrafo que antecede, se introduzcan a establecimientos públicos mientras éstos se mantengan cerrados.
 
-### CAPÍTULO III. ABUSO DE AUTORIDAD
+### CAPÍTULO II. PRESTACIÓN INDEBIDA O ABANDONO DE UN SERVICIO PÚBLICO
 
 ###### ARTÍCULO 237.
 
@@ -1843,9 +1943,9 @@ Cuando dos o más asaltantes atacaren una población, se impondrá de veinte a t
 
 La pena será de diez a treinta años de prisión para el salteador de caminos o carreteras que haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular.
 
-### CAPÍTULO IV. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPÍTULO III. ABUSO DE AUTORIDAD
 
-### CAPÍTULO V. COHECHO
+### CAPÍTULO IV. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 241.
 
@@ -1869,9 +1969,11 @@ III. Causar daño o perjuicio al secuestrado o a otra persona.
 
 Si el agente pone en libertad a la persona plagiada espontáneamente, dentro de tres días siguientes a la consumación del delito y sin lograr los propósitos a que se refiere el artículo anterior, se le impondrá sanción de uno a cuatro años de prisión y de doce a cuarenta días-multa.
 
-TÍTULO DECIMOSEGUNDO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VAGANCIA, MALVIVENCIA Y VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 23 DE JULIO DE 2008)</small>
+
+### CAPÍTULO V. COHECHO
 
 ### CAPÍTULO VI. CONCUSIÓN
 
@@ -1891,15 +1993,11 @@ VAGANCIA, MALVIVENCIA Y VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
 ### CAPÍTULO III. RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
 
-### CAPÍTULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, LLAVES, MARCAS, CONTRASEÑAS Y OTROS OBJETOS
-
 ###### ARTÍCULO 244.
 
-Se impondrá prisión de tres meses a tres años a quien no se dedique a un trabajo honesto, sin estar incapacitado ni tener para ello causa justificada y además tenga malos antecedentes por estar identificado como delincuente habitual o peligroso contra la propiedad, explotador de prostitutas, traficante de drogas prohibidas, toxicómano, ebrio consuetudinario, tahúr o mendigo simulador.
+(DEROGADO, D.O. 23 DE JULIO DE 2008)
 
-Para los efectos de este artículo se estimarán comprobados los malos antecedentes, por los informes que proporcionen las autoridades judiciales o por los datos que obren en las oficinas policiales de investigación.
-
-### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS EN GENERAL
+### CAPÍTULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, LLAVES, MARCAS, CONTRASEÑAS Y OTROS OBJETOS
 
 ###### ARTÍCULO 245.
 
@@ -1907,7 +2005,11 @@ Se impondrá prisión de uno a seis años y de cincuenta a doscientos días-mult
 
 La misma sanción a que se refiere el párrafo anterior se aplicará a quien a sabiendas, permita, induzca, o auspicie la venta ilícita de bebidas alcohólicas así como a quien permita, auspicie, induzca, ordene o realice la venta de bebidas alcohólicas o las distribuya a las personas a que se refiere el párrafo siguiente.
 
-Las sanciones a que se refiere el primer párrafo de este artículo se duplicarán cuando el delito de venta o distribución ilícita de bebidas alcohólicas se cometa de manera reiterada, o la venta se realice a menores de dieciséis años aun cuando ésta se efectúe en los establecimientos y horarios autorizados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
+Las sanciones a que se refiere el primer párrafo de este artículo se duplicarán cuando el delito de venta o distribución ilícita de bebidas alcohólicas se cometa de manera reiterada, o la venta se realice a menores de dieciocho años aun cuando ésta se efectúe en los establecimientos y horarios autorizados.
 
 Se considera reiterada la conducta cuando el agente activo haya sido condenado anteriormente por el mismo delito a que se refiere el párrafo primero de este artículo.
 
@@ -1937,7 +2039,7 @@ TÍTULO DECIMOTERCERO
 
 DELITOS COMETIDOS POR LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO III. FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
+### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS EN GENERAL
 
 ###### ARTÍCULO 247.
 
@@ -1951,7 +2053,7 @@ Las disposiciones de este Título se aplicarán en lo conducente a todos los ser
 
 Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, si el servidor público es trabajador de base, funcionario o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá considerarse agravante de la sanción.
 
-### CAPÍTULO IV. VARIACIÓN DEL NOMBRE O DOMICILIO
+### CAPÍTULO III. FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
 
 ###### ARTÍCULO 250.
 
@@ -1969,7 +2071,7 @@ IV. Sin causa justificada abandone sus funciones sin haber presentado su renunci
 
 V. Teniendo obligación, por razones de empleo, cargo o comisión de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber en cualquier forma, propicie daño a las personas o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
 
-### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORME, INSIGNIA, DISTINTIVO O CONDECORACIÓN
+### CAPÍTULO IV. VARIACIÓN DEL NOMBRE O DOMICILIO
 
 ###### ARTÍCULO 251.
 
@@ -2001,7 +2103,7 @@ XI. Otorgue cualquier identificación en que se acredite como un servidor públi
 
 El delito de abuso de autoridad se sancionará con prisión de dos a ocho años, de diez a cuatrocientos días-multa y destitución del cargo, empleo o comisión.
 
-### CAPÍTULO VI. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORME, INSIGNIA, DISTINTIVO O CONDECORACIÓN
 
 ###### ARTÍCULO 253.
 
@@ -2011,7 +2113,7 @@ Cometen el delito de coalición de servidores públicos, los que teniendo ese ca
 
 A quienes cometan el delito de coalición de servidores públicos, se les impondrá de tres meses a seis años de prisión, de uno a cien días-multa, y destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para obtener cualquier otro.
 
-### CAPÍTULO I. GOLPES
+### CAPÍTULO VI. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
 ###### ARTÍCULO 255.
 
@@ -2027,7 +2129,7 @@ A quien cometa el delito de cohecho se le impondrá de tres meses a seis años d
 
 En ningún caso se devolverá a los responsables del delito de cohecho el dinero o dádiva entregados o recibidos; los mismos se aplicarán en beneficio del erario público del Estado.
 
-### CAPÍTULO II. INJURIAS Y DIFAMACIÓN
+### CAPÍTULO I. GOLPES
 
 ###### ARTÍCULO 257.
 
@@ -2037,9 +2139,9 @@ Comete el delito de concusión el servidor público que, con el carácter de tal
 
 A quien cometa el delito de concusión se le impondrá de tres meses a seis años de prisión, de veinte a doscientos días-multa y destitución e inhabilitación para desempeñar cualquier cargo público de dos a diez años.
 
-### CAPÍTULO III. CALUMNIA
+### CAPÍTULO II. INJURIAS Y DIFAMACIÓN
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS CAPÍTULOS II Y III PRECEDENTES
+### CAPÍTULO III. CALUMNIA
 
 ###### ARTÍCULO 259.
 
@@ -2053,7 +2155,7 @@ II. El servidor público que valiéndose de la información que posea por razón
 
 A quien cometa el delito de ejercicio abusivo de funciones se le impondrán de tres meses a seis años de prisión, de veinte a doscientos días-multa y destitución e inhabilitación para desempeñar cualquier cargo público de dos a diez años.
 
-### CAPÍTULO V. CHANTAJE
+### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS CAPÍTULOS II Y III PRECEDENTES
 
 ###### ARTÍCULO 261.
 
@@ -2069,9 +2171,9 @@ III. El servidor público que, por sí o por interpósita persona, indebidamente
 
 A quien cometa el delito de tráfico de influencias, se le impondrá de tres meses a seis años de prisión, de treinta a trescientos días-multa y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
+### CAPÍTULO V. CHANTAJE
 
-### CAPÍTULO II. ABUSO SEXUAL
+### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
 
 ###### ARTÍCULO 263.
 
@@ -2081,7 +2183,7 @@ Comete el delito de peculado todo servidor público que para usos propios o ajen
 
 A quien cometa el delito de peculado se le impondrá de seis meses a diez años de prisión, de veinte a doscientos días-multa y destitución e inhabilitación para desempeñar cualquier cargo público de dos a diez años.
 
-### CAPÍTULO III. ESTUPRO
+### CAPÍTULO II. ABUSO SEXUAL
 
 ###### ARTÍCULO 265.
 
@@ -2095,7 +2197,7 @@ TÍTULO DECIMOCUARTO
 
 DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO
 
-### CAPÍTULO IV. VIOLACIÓN
+### CAPÍTULO III. ESTUPRO
 
 ###### ARTÍCULO 267.
 
@@ -2151,7 +2253,7 @@ TÍTULO DECIMOQUINTO
 
 RESPONSABILIDAD PROFESIONAL
 
-### CAPÍTULO V. DISPOSICIONES COMUNES
+### CAPÍTULO IV. VIOLACIÓN
 
 ###### ARTÍCULO 269.
 
@@ -2161,7 +2263,11 @@ I. Además de las sanciones señaladas para los delitos que resulten cometidos, 
 
 II. Estarán obligados a la reparación del daño por sus propios actos y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
 
-### CAPÍTULO I. REGLAS GENERALES
+### CAPÍTULO V. DISPOSICIONES COMUNES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 270.
 
@@ -2191,7 +2297,7 @@ III. Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cu
 
 La misma sanción se impondrá a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente recetada por otra que cause daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
 
-### CAPÍTULO II. ABUSO DE CONFIANZA
+### CAPÍTULO I. REGLAS GENERALES
 
 ###### ARTÍCULO 273.
 
@@ -2229,7 +2335,7 @@ TÍTULO DECIMOSEXTO
 
 FALSEDAD
 
-### CAPÍTULO III. FRAUDE
+### CAPÍTULO II. ABUSO DE CONFIANZA
 
 ###### ARTÍCULO 277.
 
@@ -2267,7 +2373,7 @@ V. A sabiendas, hiciera uso de las llaves, sellos, marcas y demás objetos expre
 
 Se impondrá prisión de uno a cinco años y de diez a cien días-multa, a quien en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir al ganado, sin autorización de la persona que lo tenga legalmente registrado ante la autoridad competente.
 
-### CAPÍTULO IV. EXTORSIÓN
+### CAPÍTULO III. FRAUDE
 
 ###### ARTÍCULO 281.
 
@@ -2343,7 +2449,7 @@ Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumenta
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
 
-### CAPÍTULO V. USURA
+### CAPÍTULO IV. EXTORSIÓN
 
 ###### ARTÍCULO 285.
 
@@ -2383,7 +2489,7 @@ I. Con objeto de aprovechar ilícitamente la eficacia jurídica de una resoluci�
 
 II. Fundado en documentos o testigos falsos a sabiendas de que los son, proporcione datos falsos que produzcan indefensión y deduzca acción en contra de otro ante autoridades judiciales o administrativas con perjuicio de éste o de un tercero.
 
-### CAPÍTULO VI. DESPOJO DE COSA INMUEBLE
+### CAPÍTULO V. USURA
 
 ###### ARTÍCULO 289.
 
@@ -2397,7 +2503,7 @@ III. Siendo servidor público en los actos propios de su cargo, atribuyere a una
 
 Lo dispuesto en este artículo no comprende a quien tenga el carácter de inculpado o acusado en una averiguación o proceso penal.
 
-### CAPÍTULO VII. ROBO
+### CAPÍTULO VI. DESPOJO DE COSA INMUEBLE
 
 ###### ARTÍCULO 290.
 
@@ -2409,7 +2515,7 @@ II. Usare credenciales de servidor público o condecoraciones a que no tenga der
 
 III. Al que, sin tener título legal, se atribuya el carácter profesional y ejerza los actos propios de la profesión.
 
-### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
+### CAPÍTULO VII. ROBO
 
 ###### ARTÍCULO 291.
 
@@ -2423,13 +2529,13 @@ TÍTULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
 
 ###### ARTÍCULO 293.
 
 Se aplicarán de tres días a un año de prisión y de uno a seis días-multa a quien, públicamente y fuera de riña, infiera a otro, sin lesionarlo, un golpe simple con ánimo de ofender.
 
-### CAPÍTULO I. ABANDONO DE PERSONAS
+### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
 ###### ARTÍCULO 294.
 
@@ -2471,7 +2577,7 @@ Se consideran de carácter sedicioso las informaciones que inciten a las persona
 
 Para los efectos de este artículo se consideran que faltan al respeto a la vida privada las informaciones que penetran en la intimidad del hogar o en la conducta social de las personas o que tiendan a exhibirlas, a menoscabar su reputación o dañarlas en sus relaciones sociales.
 
-### CAPÍTULO II. LESIONES
+### CAPÍTULO I. ABANDONO DE PERSONAS
 
 ###### ARTÍCULO 299.
 
@@ -2491,7 +2597,7 @@ Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los
 
 Cuando haya pendiente un procedimiento relacionado con un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que el juicio termine. En este caso, la prescripción comenzará a correr cuando éste concluya.
 
-### CAPÍTULO III. HOMICIDIO
+### CAPÍTULO II. LESIONES
 
 ###### ARTÍCULO 301.
 
@@ -2515,7 +2621,7 @@ Siempre que sea condenado el autor de una injuria, difamación o de una calumnia
 
 No servirá de excusa de la difamación o de la calumnia, que el hecho imputado sea notorio o que el agente se limite a reproducir lo ya publicado o difundido en la República Mexicana o en otro país.
 
-### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPÍTULO III. HOMICIDIO
 
 ###### ARTÍCULO 306.
 
@@ -2529,7 +2635,7 @@ TÍTULO DECIMOCTAVO
 
 DELITOS SEXUALES
 
-### CAPÍTULO V. ATAQUES PELIGROSOS
+### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTÍCULO 308.
 
@@ -2537,9 +2643,9 @@ A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, va
 
 En caso de reincidencia se le impondrá sanción de seis meses a dos años de prisión más la multa mencionada.
 
-### CAPÍTULO VI. ABORTO
+### CAPÍTULO V. ATAQUES PELIGROSOS
 
-### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
+### CAPÍTULO VI. ABORTO
 
 ###### ARTÍCULO 309.
 
@@ -2547,13 +2653,23 @@ A quien sin consentimiento de una persona y sin el propósito de llegar a la có
 
 Si hiciere uso de la violencia física o moral, el mínimo y el máximo de la sanción se aumentarán hasta en una mitad.
 
-A quien obligue a tener sexo oral a cualquier persona por medio de la violencia física o moral, se le impondrá una sanción de tres a siete años de prisión y de cien a trescientos días-multa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
+A quien obligue a tener sexo oral a cualquier persona por medio de la violencia física o moral, se le impondrá una sanción de cuatro a diez años de prisión y de cien a trescientos días-multa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+Cuando la conducta prevista en el párrafo anterior se cometa en perjuicio de un menor de doce años, persona privada de razón o sentido, o de quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción se incrementará en una mitad.
 
 ###### ARTÍCULO 310.
 
 A quien sin el propósito de llegar a la cópula, ejecute un acto lascivo en una persona menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la obligue a ejecutarlo, se le aplicará una sanción de dos a cinco años de prisión y de cincuenta a doscientos días-multa. Si se hiciere uso de la violencia física o moral, la sanción se aumentará hasta en una mitad.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
 
 ###### ARTÍCULO 311.
 
@@ -2563,7 +2679,11 @@ Al que tenga cópula con persona mayor de doce años y menor de dieciséis, obte
 
 En el caso del artículo anterior, no se procederá contra el sujeto activo sino por querella de la persona ofendida o de sus padres, o a falta de éstos, de sus representantes legítimos.
 
-### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
+### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 313.
 
@@ -2577,17 +2697,21 @@ Se aplicará la misma sanción al que introduzca por la vía vaginal o anal cual
 
 La violación entre cónyuges o entre concubina o concubinario únicamente se perseguirá por querella.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 315.
 
-Se equipara a la violación y se sancionará con prisión de ocho a veinticinco años, y de doscientos a quinientos días-multa, a quien tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir, así como la cópula con persona de doce años de edad o menos.
+Se equipara a la violación y se sancionará con prisión de ocho a veinticinco años, y de doscientos a quinientos días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de doce años de edad o a persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir.
 
 Si además se ejerciere violencia física o moral, el mínimo y el máximo de la sanción se aumentarán en una mitad.
 
-### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 316.
 
-Las sanciones previstas para el abuso sexual y la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando el delito fuere cometido:
+Las sanciones previstas para el abuso sexual, la violación y la violación equiparada, establecidas en el artículo precedente, se aumentarán hasta en una mitad en su mínimo y máximo, cuando el delito fuere cometido:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -2603,13 +2727,29 @@ TÍTULO DECIMONOVENO
 
 DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
+### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
 
 ###### ARTÍCULO 317.
 
 Cuando se hable de salario en este Título, se entenderá que se refiere al mínimo general vigente en el Estado en el momento de consumarse el delito si fuere instantáneo; en el momento consumativo de la última conducta si fuere continuado y en el momento en que cesó la consumación si fuere permanente.
 
-### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
+
+###### ARTÍCULO 394
+
+BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 394
+
+TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
+
+TÍTULO VIGESIMOPRIMERO
+
+DELITOS ELECTORALES
 
 ###### ARTÍCULO 318.
 
@@ -2631,9 +2771,13 @@ II. Al depositario designado por las autoridades competentes, que disponga de la
 
 III. A quien haga aparecer como suyo un depósito que garantice la libertad caucional de un inculpado y no le corresponda la propiedad de dicho depósito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 320.
 
-Se equipara al abuso de confianza la ilegítima posesión de la cosa retenida, si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho o no la entregue a la autoridad, para que ésta disponga de la misma conforme a la ley.
+Se equipara al abuso de confianza y se sancionará conforme a lo establecido en el artículo 318 de este Código, la ilegítima posesión de la cosa retenida, si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho o no la entregue a la autoridad, para que ésta disponga de la misma conforme a la ley.
 
 ###### ARTÍCULO 321.
 
@@ -2643,7 +2787,7 @@ Para estimar la cuantía del abuso de confianza, se atenderá únicamente al val
 
 Se considera abuso de confianza y se sancionará con prisión de tres meses a tres años y hasta cien días-multa, al conductor o legítimo propietario de un vehículo que disponga indebidamente del mismo o se niegue sin justificación a entregarlo, si lo ha recibido en calidad de depósito por el Ministerio Público o por la autoridad judicial en una averiguación previa o proceso, respectivamente, relacionado con delitos por tránsito de vehículos, siempre que haya sido requerido por cualquiera de las autoridades que conozcan o sigan conociendo del caso.
 
-### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
+### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
 
 ###### ARTÍCULO 323.
 
@@ -2733,7 +2877,7 @@ Este delito se perseguirá a petición de parte ofendida.
 
 Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, las sanciones serán hasta de una tercera parte del máximo de la que correspondiera imponer o bien, podrán prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al inculpado en el momento procedimental oportuno, este beneficio.
 
-### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
+### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 327.
 
@@ -2741,7 +2885,7 @@ A quien sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo o
 
 Las sanciones se aumentarán hasta el doble si el constreñimiento se realiza mediante una asociación delictuosa o por quien sea o haya sido servidor público. En este caso, se impondrá además al servidor, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos y al ex-servidor público únicamente la inhabilitación por el mismo término.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
 
 ###### ARTÍCULO 328.
 
@@ -2750,6 +2894,8 @@ Se impondrá prisión de tres a ocho años y de cien a quinientos días-multa, a
 Se considera lucro excesivo la obtención de ganancias superiores a la tasa de interés bancaria más alta vigente el día en que se celebre la operación.
 
 Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer párrafo de este artículo serán hasta de una mitad del mínimo y máximo que correspondiere imponer.
+
+### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 329.
 
@@ -2760,6 +2906,8 @@ I. Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pert
 II. Ocupe un inmueble de su propiedad que se halle en poder de otra persona por causa legítima, o ejerza actos de dominio que lesionen los derechos del ocupante.
 
 Si el despojo se efectúa por dos o más personas o con violencia, se aumentarán hasta en una mitad las penas señaladas, pero a los autores intelectuales, o a quienes dirijan el despojo se les aplicará prisión de uno a seis años y de diez a sesenta días-multa.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 330.
 
@@ -2815,7 +2963,11 @@ VI. Se lleve a cabo durante un incendio, naufragio, inundación u otra calamidad
 
 VII. Se realice de noche, llevando armas, con fractura, excavación o escalamiento sean los ladrones dos o más;
 
-VIII. Recaiga sobre vehículos estacionados en lugares públicos, sobre partes de ellos u objetos guardados en su interior;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
+
+VIII. Se apodere ilícitamente de partes de vehículos u objetos guardados en su interior, cuando los objetos no sean los establecidos en la fracción II del artículo 338;
 
 IX. Se cometa en una oficina recaudatoria u otra en que se conserven caudales, contra personas que la custodien o transporten aquéllos;
 
@@ -3137,6 +3289,14 @@ II. Siendo padre o madre lesione o prive de la vida al corruptor de alguno de su
 
 De las lesiones o muerte que a una persona cause algún animal, será responsable quien con esa intención lo azuce o lo suelte o haga esto último por descuido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 387
+
+BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta días de salario mínimo, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin cumplir los requisitos legales correspondientes.
+
 ###### ARTÍCULO 388.
 
 Se impondrá sanción de tres meses hasta dos años de prisión y de dos a veinte días-multa:
@@ -3191,9 +3351,9 @@ V. Cuando se practique con el consentimiento de la madre y del padre en su caso 
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de diez a cuarenta años. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los Capítulos III y IV anteriores.
 
-TÍTULO VIGESIMOPRIMERO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-DELITOS ELECTORALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 395.
 
@@ -3394,3 +3554,9 @@ D.O. 30 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 23 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a los 30 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
