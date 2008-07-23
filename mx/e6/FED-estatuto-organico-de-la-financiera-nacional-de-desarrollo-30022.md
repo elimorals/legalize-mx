@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2008-05-15"
+last_updated: "2008-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -333,9 +333,15 @@ XIII. Instruir la constitución de comités internos de trabajo distintos a los 
 
 XIV. Rendir al Consejo informes semestrales, con la intervención que corresponda a los comisarios;
 
-XV. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines de la Financiera, y
+XV. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines de la Financiera, y (sic)
 
-XVI. Las demás que le atribuya el Consejo y la Ley.
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XVI. Coordinar el funcionamiento del área que desempeñe las funciones de contraloría interna, en cuanto a los asuntos que competan a la Dirección General;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XVII. Las demás que le atribuya el Consejo y la Ley.
 
 Las facultades del Director General previstas en las fracciones III, IV, V, VI, VII y X de este artículo serán indelegables.
 
@@ -361,57 +367,17 @@ V. Investigar, documentar e informar al Comité de Administración Integral de R
 
 VI. En el desempeño de sus funciones, la Unidad para la Administración Integral de Riesgos tendrá las facultades y atribuciones genéricas a que hace referencia el artículo 50 del presente Estatuto.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
 ###### ARTICULO 18.
 
-Corresponde a la Dirección General Adjunta de la Secretaría Técnica:
-
-I. Diseñar y coordinar la política de relaciones interinstitucionales con las dependencias y entidades de la administración pública federal, los poderes legislativo y judicial, los representantes de los diversos órganos de gobierno, así como con los sectores privado y social;
-
-II. Coordinar las políticas de comunicación social de la Financiera;
-
-III. Representar al Director General en los asuntos que le encomiende;
-
-IV. Dar seguimiento a los acuerdos tomados por el Consejo Directivo cuando funja como Secretario del mismo;
-
-V. Coordinar el funcionamiento del área que desempeñe las funciones de contraloría interna, en cuanto a los asuntos que competan a la Dirección General;
-
-VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo, y (sic)
-
-VII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-VIII. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
 
 ###### ARTICULO 19.
 
-Corresponde a la Dirección Ejecutiva de Vinculación y Desarrollo Institucional:
-
-I. Dirigir las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores y organismos internacionales a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
-
-II. Supervisar el seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
-
-III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende Director General Adjunto de la Secretaría Técnica;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-IV. Generar vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
 
 ###### ARTICULO 20.
 
-Corresponde a la Subdirección Corporativa de Desarrollo Institucional:
-
-I. Efectuar las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores; y organismos internacionales a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
-
-II. Dar seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
-
-III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director Ejecutivo de Vinculación y Desarrollo Institucional.
+(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -431,41 +397,81 @@ V. Dirigir las actividades de administración y control de la Normateca Instituc
 
 VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
 ###### ARTICULO 22.
 
-La Prosecretaría del Consejo Directivo de la Financiera Rural, estará adscrita orgánica y funcionalmente de manera directa a la Dirección General Adjunta de la Secretaría Técnica.
+(DEROGADO, D.O.F. 23 DE JULIO DE 2008)
 
-Corresponde al Prosecretario del Consejo coadyuvar con el Secretario en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el artículo 15 anterior.
-
-Corresponde al Prosecretario del Consejo apoyar a la Dirección General Adjunta de la Secretaría Técnica en el desempeño de sus atribuciones, por lo que habrá de desempeñar las funciones y comisiones que su titular le encomiende.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 23.
 
-Corresponde a la Dirección General Adjunta Jurídica:
+Corresponde a la Dirección General Adjunta Técnica y de Instrumentación Legal:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Dictar las políticas y estrategias tendientes a que los procesos jurídicos de la Financiera se apeguen a la legalidad;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Emitir estrategias y políticas para la representación y defensa en materia contenciosa de la Institución ante instancias judiciales y administrativas, a fin de proteger sus intereses jurídicos y patrimoniales;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Definir estrategias para la compilación y divulgación de la legislación relacionada al funcionamiento de la Financiera;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 IV. Definir estrategias para la protocolización de actas, así como para el otorgamiento y revocación de poderes de los servidores públicos de la Institución;
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 V. Emitir políticas para la prevención de riesgos en materia legal para la Financiera;
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 VI. Dentro de su esfera de atribuciones, suplir al Director General de la Financiera en el cumplimiento de las obligaciones que tengan término;
+
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
 VII. Instruir estrategias de coordinación técnica dirigidas a las gerencias jurídicas de las coordinaciones regionales, así como de apoyo corporativo jurídico a las unidades administrativas de la Financiera.
 
-Para tales efectos, las gerencias jurídicas de las coordinaciones regionales dependerán en materia técnica y decisoria de la Dirección General Adjunta Jurídica, cuyas resoluciones vincularán en todo momento a dichas gerencias jurídicas;
+Para tales efectos, las gerencias jurídicas de las coordinaciones regionales dependerán en materia técnica y decisoria de la Dirección General Adjunta Técnica y de Instrumentación Legal, cuyas resoluciones vincularán en todo momento a dichas gerencias jurídicas;
 
-VIII. Proponer el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes jurídicos de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias jurídicas, así como a los asesores jurídicos de las agencias de Crédito Rural, y
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-IX. Atraer los asuntos en materia jurídica, que a consideración del Director General Adjunto Jurídico deban ser atendidos por los servidores públicos adscritos a la Dirección General Adjunta Jurídica.
+VIII. Proponer el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes jurídicos de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias jurídicas, así como a los asesores jurídicos de las agencias de Crédito Rural, y (sic)
+
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+IX. Atraer los asuntos en materia jurídica, que a su consideración deban ser atendidos por los servidores públicos adscritos a la Dirección General Adjunta Técnica y de Instrumentación Legal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+X. Diseñar y coordinar la política de relaciones interinstitucionales con las dependencias y entidades de la administración pública federal, los poderes legislativo y judicial, los representantes de los diversos órganos de gobierno, así como con los sectores privado y social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XI. Coordinar las políticas de comunicación social de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XII. Representar al Director General en los asuntos que le encomiende;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XIII. Dar seguimiento a los acuerdos tomados por el Consejo Directivo cuando funja como Secretario del mismo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XIV. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XVI. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -485,7 +491,9 @@ IV. Fungir como titular de la unidad de consultas y reclamaciones de usuarios de
 
 V. Proponer modificaciones a los lineamientos para la contratación de servicios de abogados externos para la defensa de los intereses de la Financiera Rural, que contemplen entre otras cosas, la autorización del pago de honorarios por servicios brindados por despachos externos y la aprobación de los gastos judiciales de la Financiera Rural, y
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico.
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Técnico y de Instrumentación Legal.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -509,7 +517,39 @@ VII. Proporcionar el apoyo jurídico y asesoría al Consejo, así como a las div
 
 VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Financiera para rendir los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México, y
 
-IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico.
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Técnico y de Instrumentación Legal.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+ARTICULO 25 BIS.- Corresponde a la Dirección Ejecutiva de Vinculación y Desarrollo Institucional:
+
+I. Dirigir las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores y organismos internacionales a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
+
+II. Supervisar el seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
+
+III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Técnico y de Instrumentación Legal, y
+
+IV. Generar vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+ARTICULO 25 TER.- Corresponde a la Subdirección Corporativa de Desarrollo Institucional:
+
+I. Efectuar las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores; y organismos internacionales a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
+
+II. Dar seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
+
+III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director Ejecutivo de Vinculación y Desarrollo Institucional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+ARTICULO 25 QUATER.- La Prosecretaría del Consejo Directivo de la Financiera Rural, estará adscrita orgánica y funcionalmente de manera directa a la Dirección General Adjunta Técnica y de Instrumentación Legal.
+
+Corresponde al Prosecretario del Consejo coadyuvar con el Secretario en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el artículo 15 anterior.
+
+Corresponde al Prosecretario del Consejo apoyar a la Dirección General Adjunta Técnica y de Instrumentación Legal en el desempeño de sus atribuciones, por lo que habrá de desempeñar las funciones y comisiones que su titular le encomiende
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -811,9 +851,9 @@ IV. Proporcionar apoyos y servicios de promoción, capacitación, consultoría y
 
 V. Administrar los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
-VI. Celebrar todo tipo de convenios con los sectores público, social y privado a nivel nacional e internacional que contribuyan a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales, previa validación de la Dirección General Adjunta Jurídica;
+VI. Celebrar todo tipo de convenios con los sectores público, social y privado a nivel nacional e internacional que contribuyan a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales, previa validación de la Dirección General Adjunta Técnica y de Instrumentación Legal;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1615,17 +1655,25 @@ V. El Director General Adjunto de Fomento y Promoción de Negocios;
 
 VI. El Director General Adjunto de Administración;
 
-VII. El Director General Adjunto Jurídico;
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+VII. El Director General Adjunto Técnico y de Instrumentación Legal;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
 VIII. El Director General Adjunto (sic) Finanzas, Operaciones y Sistemas;
 
-IX. El Prosecretario del Consejo Directivo, y
+IX. El Prosecretario del Consejo Directivo, y (sic)
 
-X. El Titular del Organo Interno de Control, en calidad de asesor.
+X. El Titular del Organo Interno de Control, en calidad de asesor;
 
-Los integrantes previstos en los incisos I, II, IX y X acudirán con derecho a voz pero sin voto. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+XI. El Director Ejecutivo de Contraloría Interna, en calidad de asesor.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+Los integrantes previstos en los incisos I, II, IX, X y XI acudirán con derecho a voz pero sin voto. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1667,7 +1715,9 @@ IV. El Director General Adjunto de Planeación Estratégica y Análisis Sectoria
 
 V. El Director General Adjunto de Fomento y Promoción de negocios;
 
-VI. El Director General Adjunto Jurídico;
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+VI. El Director General Adjunto Técnico y de Instrumentación Legal;
 
 VII. El Subdirector Corporativo de Normatividad de Crédito;
 
@@ -1767,7 +1817,9 @@ Los integrantes previstos en los incisos VI, VII acudirán con voz pero sin voto
 
 En las ausencias del Director General, éste será suplido por los titulares de las direcciones generales adjuntas de acuerdo con el ámbito de competencia que les corresponda.
 
-En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director General Adjunto Jurídico.
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director General Adjunto Técnico y de Instrumentación Legal.
 
 Los directores generales adjuntos serán suplidos en sus ausencias por los directores ejecutivos, en los asuntos de su respectiva competencia o, en su caso, por los subdirectores corporativos correspondientes.
 
@@ -1822,5 +1874,9 @@ D.O.F. 16 DE ABRIL DE 2008.
 UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 15 DE MAYO DE 2008.
+
+UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JULIO DE 2008.
 
 UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
