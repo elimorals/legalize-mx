@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-chispazo-de-pronosticos-para-la-31948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2006-09-08"
+last_updated: "2008-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2008.
 
-Reglamento publicado en el Diario Oficial de la Federación el miércoles 18 de junio de 2003.
+Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
 ### Capítulo I. Disposiciones generales
 
@@ -45,11 +45,13 @@ El sorteo Chispazo consiste en la selección o pronóstico que haga el participa
 
 bis.- El concurso Chispazo consiste en la selección o pronóstico que haga el participante, de una combinación de números tomados del conjunto que determine Pronósticos para el sorteo, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que los números sorteados correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este reglamento.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2008)</small>
 
 ###### Artículo 3o.
 
-Para los efectos de este reglamento, se entenderá por:
+Para los efectos de este Reglamento, se entenderá por:
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
 1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
@@ -73,7 +75,11 @@ Para los efectos de este reglamento, se entenderá por:
 
 6.- Boleto.- Registro electrónico de la combinación y/o documento impreso en el que se plasma la participación, los cuales se encuentran almacenados en el sistema central de captación de transacciones en línea y acredita el derecho de participar en el sorteo.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 El documento impreso a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él sean legítimos.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
 Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en los Sorteos Instantáneos en Línea de Pronósticos.
 
@@ -96,6 +102,14 @@ Con excepción de las causas señaladas en el presente reglamento, no será posi
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 11.- Ceremonia.- Acto oficial de selección al azar de la combinación ganadora.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE JULIO DE 2008)</small>
+
+12.- Monto acumulativo.- A la cantidad repartible correspondiente al primer lugar que se haya declarado vacante por falta de ganadores y que es adicionada al monto del primer premio del siguiente sorteo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE JULIO DE 2008)</small>
+
+13.- Bolsa garantizada.- Al monto mínimo que Pronósticos se compromete a entregar al primer lugar acorde con lo establecido en los Artículos 39o. y 40o. del presente Reglamento.
 
 ### Capítulo II. De los procedimientos para concursar
 
@@ -343,6 +357,258 @@ En el caso de que el boleto contenga la participación dentro del sorteo Instant
 
 En los términos establecidos por el artículo 22o. del presente Reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el sorteo respectivo prescribirá en un plazo de 1 año contando a partir del siguiente día de la fecha de celebración del sorteo a que se refiere el artículo 9o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+
+### Capítulo VI. Chispazo Multiganador
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 27o.
+
+Para poder participar en la modalidad de Chispazo Multiganador, se debe estar participando en el sorteo Chispazo combinación sencilla y acertar como mínimo a 3 (tres) números de los extraídos al azar de la urna correspondiente al sorteo Chispazo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 28o.
+
+El sorteo Chispazo Multiganador, consiste en la selección o pronóstico que mediante el pago del precio correspondiente, haga el participante, de una combinación de números tomados del conjunto que determine Pronósticos para el sorteo y que le dará derecho a obtener, en el supuesto de que los números sorteados correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este Reglamento. El sorteo se inicia en el momento de aceptación del pago de Chispazo Multiganador y termina con el acto denominado “Selección de Ganadores”, en el cual se determinarán las quinielas o combinaciones ganadoras, así como el importe de los premios correspondientes.
+
+En el mismo boleto con que se participa en Chispazo, vendrá impresa la nota de “Chispazo Multiganador”.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+
+### Capítulo VII. De los procedimientos para participar en Chispazo Multiganador
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 29o.
+
+El interesado podrá participar en el sorteo Chispazo Multiganador marcando en los volantes del sorteo Chispazo la opción de Chispazo Multiganador; por dictado del participante al agente; a través de una selección automática y aleatoria efectuada por la terminal (Chispático Multiganador) o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 30o.
+
+El participante seleccionará 4 (cuatro) números elegidos entre el 1 (uno) y el 28 (veintiocho), los cuales constituirán su pronóstico sobre el resultado del sorteo Chispazo Multiganador.
+
+Combinación sencilla es la selección de 4 (cuatro) distintos números de los comprendidos entre el 1 (uno) y el 28 (veintiocho).
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 31o.
+
+Pronósticos podrá facultar a sus Agentes Autorizados para emitir las participaciones del Sorteo Chispazo Multiganador mediante el uso de:
+
+I. Terminales que imprimirán, numerarán y expedirán el Boleto que, contra su pago, será entregado al participante, quedando constancia de su expedición en el Registro de Participaciones correspondiente en el Sistema de Cómputo Central, y
+
+II. Medios electrónicos enlazados al Sistema de Cómputo Central que permitirán transmitir cualquier Participación al Sistema de Cómputo Central donde quedará almacenado el Registro de Participación correspondiente.
+
+Pronósticos podrá facultar a sus Agentes Autorizados para registrar la venta de cualquier Boleto para el sorteo Chispazo Multiganador por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tenga celebrado para tal efecto con dichos Agentes, transmitiendo los datos de cada Participación vendida al Sistema de Cómputo Central.
+
+Pronósticos podrá definir otras modalidades para la venta de Boletos, previa verificación de cumplimiento de los requisitos establecidos en este Reglamento. Dichas modalidades deberán transmitir los datos de cada Participación del Sorteo Chispazo Multiganador respectivo al Registro de Participaciones.
+
+Los Agentes Autorizados recibirán el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que señalen el contrato de comisión mercantil y el Reglamento de Agentes de Pronósticos vigente.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 32o.
+
+El participante, además de observar lo estipulado en los Artículos 29o., 30o. y 31o. que anteceden, deberá observar lo señalado en los Artículos 6o. bis y 7o. del presente Reglamento, ya que se aplican en los mismos términos para Chispazo Multiganador.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+
+### Capítulo VIII. Selección de ganadores de Chispazo Multiganador
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 33o.
+
+Todas las Ceremonias serán públicas.
+
+Pronósticos publicará en medios de comunicación masiva y/o en el portal de Pronósticos en Internet, a más tardar al día siguiente de aquél en el que se hubiere verificado el Sorteo Chispazo Multiganador, la serie de números ganadores y el importe de la premiación correspondiente a cada una de las categorías establecidas.
+
+Los participantes podrán consultar los resultados en:
+
+I. El portal de Pronósticos en Internet;
+
+II. Las agencias autorizadas de Pronósticos;
+
+III. La línea telefónica del conmutador de Pronósticos;
+
+IV. Medios de comunicación masiva autorizados por Pronósticos, y
+
+V. Telefonía celular.
+
+Los resultados oficiales del sorteo Chispazo Multiganador, son los que se asienten en el acta mencionada en el Artículo 41o. de este Reglamento.
+
+Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 34o.
+
+El día y hora fijados para la ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación, se procederá de la siguiente forma:
+
+I. Se introducirán en una urna 28 (veintiocho) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 28 (veintiocho), inclusive.
+
+II. Ante la presencia del representante del Director General de Pronósticos, designado en los términos del Artículo 41o. de este Reglamento, un representante de la Coordinación de Tecnologías de la Información y Comunicaciones de Pronósticos y otro representante de la Gerencia de Sorteos y Normatividad de Pronósticos, se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de cualquier nuevo registro de participación en el Sistema de Cómputo Central. Inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo Chispazo Multiganador. A este archivo el sistema le asignará una firma electrónica que garantizará su integridad.
+
+Dicha firma electrónica será grabada en un dispositivo de almacenamiento de datos que, en forma previa a la ceremonia, el representante de la Coordinación de Tecnologías de la Información y Comunicaciones de Pronósticos entregará al inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control en Pronósticos.
+
+III. En presencia de los mismos funcionarios señalados en la fracción II del presente Artículo, se llevará a cabo el sorteo, procediendo a extraer de la urna, una a una y al azar 4 (cuatro) esferas, cuyos números integrarán la combinación de números ganadora.
+
+El orden y la secuencia en que se extraigan las 4 (cuatro) esferas de la urna no influirán en el resultado del sorteo.
+
+IV. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el Sistema de Cómputo Central, será grabado en un dispositivo de almacenamiento de datos y depositado por los supervisores del Departamento de Operaciones en Línea adscritos a la Coordinación de Tecnologías de la Información y Comunicaciones de Pronósticos en la caja de seguridad a que se refiere el inciso II del presente Artículo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 35o.
+
+Concluida la Ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación y de los funcionarios mencionados en el inciso II del Artículo 34o. de este Reglamento, se procederá a efectuar la identificación de cada Participación que haya acertado a los números sorteados y que sea ganadora en alguna de las distintas categorías de premiación conforme el Artículo 38o. del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 36o.
+
+El Importe Total de Ventas se aplicará en los porcentajes y en el orden que sigue:
+
+I. Hasta el 10% (diez por ciento) para los Agentes Autorizados, por concepto de comisión por las ventas que realicen;
+
+II. El 55% (cincuenta y cinco por ciento), será destinado para la premiación de los participantes ganadores;
+
+III. De la cantidad restante, así como de las demás que resulten de otros productos e ingresos de Pronósticos, se cubrirán las erogaciones e inversiones contenidas en su presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia y las demás que acuerde constituir su Consejo Directivo, y
+
+IV. El saldo que, en su caso, exista se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 37o.
+
+Un Boleto será ganador en un Sorteo Chispazo Multiganador cuando sus números coincidan con los números que sean extraídos de la urna y conforme a lo siguiente:
+
+I. Los participantes que hayan acertado a 4 (cuatro) o 5 (cinco) números de los extraídos al azar de la urna para el sorteo Chispazo, podrán participar en todas las categorías de premiación del sorteo Chispazo Multiganador.
+
+II. Los participantes que hayan acertado a 3 (tres) números de los extraídos al azar de la urna para el sorteo Chispazo, podrán participar en la tercera, cuarta y quinta categorías de premiación del sorteo Chispazo Multiganador.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 38o.
+
+Se instituyen cinco (5) categorías de premiación en cada Sorteo Chispazo Multiganador, como sigue:
+
+a) A primer lugar, las combinaciones dentro de las cuales figuren los 4 (cuatro) números extraídos al azar de la urna para el sorteo Chispazo Multiganador y que hayan obtenido 4 (cuatro) o 5 (cinco) números de los extraídos al azar de la urna para el sorteo Chispazo;
+
+b) A segundo lugar, las combinaciones dentro de las cuales figuren 3 (tres) de los 4 (cuatro) números extraídos al azar de la urna para el sorteo Chispazo Multiganador y que hayan obtenido 4 (cuatro) o 5 (cinco) números de los extraídos al azar de la urna para el sorteo Chispazo;
+
+c) A tercer lugar, las combinaciones dentro de las cuales figuren 2 (dos) de los 4 (cuatro) números extraídos al azar de la urna para el sorteo Chispazo Multiganador y que hayan obtenido 4 (cuatro) o 5 (cinco) números de los extraídos al azar de la urna para el sorteo Chispazo y/o las combinaciones dentro de las cuales figuren 2 (dos), 3 (tres) o 4 (cuatro) de los 4 (cuatro) números extraídos al azar de la urna para el sorteo Chispazo Multiganador y que hayan obtenido 3 (tres) números de los extraídos al azar de la urna para el sorteo Chispazo;
+
+d) A cuarto lugar, las combinaciones dentro de las cuales figure 1 (uno) de los 4 (cuatro) números extraídos al azar de la urna para el sorteo Chispazo Multiganador y que hayan obtenido 3 (tres), 4 (cuatro) o 5 (cinco) números de los extraídos al azar de la urna para el sorteo Chispazo, y
+
+e) A quinto lugar, los boletos que no hayan acertado a ningún número de los extraídos al azar de la urna para el sorteo Chispazo Multiganador y que hayan obtenido 3 (tres), 4 (cuatro) o 5 (cinco) números de los extraídos al azar de la urna para el sorteo Chispazo.
+
+Todo lo anterior, se ilustra en la siguiente tabla:
+
+Categoría Aciertos en Aciertos en
+
+Chispazo 5/28 Chispazo
+
+Multiganador
+
+4/28
+
+1o. 4 o 5 de 28 4 de 28
+
+2o. 4 o 5 de 28 3 de 28
+
+3o. 4 o 5 de 28 2 de 28
+
+También 3o. 3 de 28 2, 3 y 4 de 28
+
+4o. 3, 4 o 5 de 28 1 de 28
+
+5o. 3, 4 o 5 de 28 0 de 28
+
+El boleto que haya acertado una combinación de los extraídos al azar de la urna para el sorteo Chispazo, sólo tendrá una participación, es decir; prevalecerá la combinación que haya obtenido el mayor número de aciertos, por lo que sólo obtendrá un premio en una de las categorías especificadas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 39o.
+
+El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores en cada categoría de la estructura de premios señalada en el Artículo anterior de este Reglamento y la dará a conocer previamente al público en medios de comunicación masiva y en el portal de Pronósticos en Internet. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
+
+El Fondo de Premiación asignado a cada una de las categorías mencionadas se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 40o.
+
+Para la primera categoría de premiación se tendrá una bolsa garantizada la cual será entregada al boleto ganador a esa categoría. Cuando en un sorteo no hubiere combinación ganadora a primer lugar, el premio asignado a esta categoría incrementará en su totalidad el monto del premio al primer lugar del siguiente sorteo de Chispazo Multiganador, y si en éste tampoco la hubiere, se seguirá el mismo procedimiento, y así sucesivamente, hasta que hubiese combinación ganadora en esta categoría de premiación, a este proceso se le llama Monto Acumulativo.
+
+Las categorías de segundo, tercer, cuarto y quinto lugar tienen premios de importe fijo, estipulados por Pronósticos para la Asistencia Pública.
+
+La bolsa garantizada asignada para la premiación de la primera categoría, se incrementará en función de las ventas del sorteo y el porcentaje de distribución establecido para esa categoría.
+
+El porcentaje de distribución se aplica al fondo de premiación una vez sustraído el monto destinado a cubrir el pago de premios de la segunda a la quinta categoría.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 41o.
+
+Concluida la Ceremonia e identificadas las combinaciones ganadoras, se levantará un acta en la que se harán constar los antecedentes del Sorteo Chispazo Multiganador, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los funcionarios mencionados en el inciso II del Artículo 34o. de este Reglamento, quienes deben intervenir en el acto y suscribir dicha acta.
+
+El Director General de Pronósticos designará a su representante, de entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al de él.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 42o.
+
+Si por causas de fuerza mayor o caso fortuito no acudiera al evento el inspector designado por la Secretaría de Gobernación, se estará a lo dispuesto en el Artículo 15o. bis del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 43o.
+
+De existir interrupciones, por caso fortuito o fuerza mayor, en la celebración de un Sorteo Chispazo Multiganador, el Director General de Pronósticos, o su representante en dicho evento, se reserva el derecho de diferir la Ceremonia hasta que la causa de la interrupción haya sido eliminada, dejando constancia en un acta del motivo del diferimiento. Asimismo, el diferimiento y la fecha de reanudación, se darán a conocer por cualquiera de los medios establecidos en el Artículo 33o. de este Reglamento.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+### Capítulo IX. De las reclamaciones de Chispazo Multiganador
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 44o.
+
+El participante que tenga interés legítimo, podrá impugnar los resultados conforme a lo establecido en los Artículo 16o. al 20o. del presente Reglamento.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 23 DE JULIO DE 2008)</small>
+
+### Capítulo X. Del pago de premios de Chispazo Multiganador
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 45o.
+
+El participante que haya resultado ganador conforme a este Reglamento, podrá cobrar su premio conforme a lo señalado en los Artículo 22o. al 26o. del presente Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+
+### Capítulo XI. De los Agentes de Pronósticos
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 46o.
+
+Los Agentes Autorizados de Pronósticos atenderán el contenido de este Reglamento, del contrato de comisión mercantil celebrado con Pronósticos y la demás normatividad que corresponda.
+
+Las omisiones, errores o faltas imputables a los Agentes Autorizados o a su personal dependiente, por inobservancia o violación de las disposiciones aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+
+###### Artículo 47o.
+
+Es aplicable a los Agentes Autorizados por Pronósticos para efectuar la venta de los Boletos, el Reglamento de Agentes de Pronósticos vigente.
+
 ## Transitorios
 
 Primero.- Este reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -406,3 +672,11 @@ Tercero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Quinto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
+
+D.O.F. 23 DE JULIO DE 2008.
+
+Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
