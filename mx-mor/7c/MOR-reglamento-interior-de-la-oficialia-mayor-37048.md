@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-oficialia-mayor-37048"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-31"
-last_updated: "2006-09-27"
+last_updated: "2008-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2008 (ABROGADO).
 
 Reglamento publicado en el número 4096 del Periódico Oficial del Estado de Morelos, el jueves 31 de diciembre de 2000.
 
@@ -588,3 +590,17 @@ LOS RECURSOS MATERIALES Y FINANCIEROS RELATIVOS A LA MODERNIZACIÓN CON LOS QUE 
 ###### ARTÍCULO SEXTO.
 
 LA ACTUALIZACIÓN DE LOS MANUALES DE ORGANIZACIÓN Y DE POLÍTICAS Y PROCEDIMIENTOS, SE REALIZARÁN EN UN PLAZO NO MAYOR A SESENTA DÍAS NATURALES. EL TITULAR DE LA OFICIALÍA MAYOR, QUEDA FACULTADO PARA RESOLVER LAS CUESTIONES DE PROCEDIMIENTO Y OPERACIÓN QUE SE ORIGINEN POR LA APLICACIÓN DE ESTE ORDENAMIENTO LEGAL.
+
+P.O. 23 DE JULIO DE 2008.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Oficialía Mayor, publicado con fecha treinta y uno de diciembre del dos mil y sus reformas publicadas con fechas cuatro de diciembre de dos mil dos y veintisiete de septiembre de dos mil seis, en el Periódico Oficial "Tierra y Libertad", números cuatro mil noventa y seis, cuatro mil doscientos veinticuatro y cuatro mil cuatrocientos ochenta y cuatro, respectivamente.
+
+TERCERO. Cuando en una ley, reglamento o disposición jurídica se haga referencia a las Direcciones General de Recursos Materiales y Control Patrimonial, de Control del Gasto Administrativo y de Modernización Administrativa, se entenderá que hacen referencia a las Direcciones Generales de Adquisiciones y Patrimonio, de Gestión del Pago de Servicios y de Tecnologías de la Información y Comunicación, respectivamente.
+
+CUARTO. Los Manuales de Organización y de Políticas y Procedimientos, deberán adecuarse en un plazo no mayor a noventa días naturales, y en tanto se expidan dichos manuales, seguirán vigentes los anteriores y en su caso, el Oficial Mayor resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+QUINTO. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Reglamento.
