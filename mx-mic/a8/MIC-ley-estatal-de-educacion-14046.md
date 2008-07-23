@@ -4,7 +4,7 @@ identifier: "MIC-ley-estatal-de-educacion-14046"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2007-08-23"
+last_updated: "2008-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -283,9 +283,17 @@ XX.- Coordinar sus actividades con otras Entidades federativas con el propósito
 
 XXI.- Formular un Plan de Trabajo Anual acorde con el Plan Nacional de Desarrollo, con el Programa de Desarrollo Educativo y con el Plan Integral de Desarrollo del Estado, tomando en cuenta la opinión de las instituciones educativas representativas de cada nivel, tipo y modalidad;
 
-XXII.- Proponer a la autoridad educativa federal los contenidos regionales para el mejor aprovechamiento de la educación en el Estado; y,
+XXII.- Proponer a la autoridad educativa federal los contenidos regionales para el mejor aprovechamiento de la educación en el Estado; y (sic),
 
-XXIII.- Coordinar con otras autoridades estatales actividades educativas tendientes a cumplir, en sus respectivos territorios, los objetivos de la educación que les sean comunes.
+XXIII.- Coordinar con otras autoridades estatales actividades educativas tendientes a cumplir, en sus respectivos territorios, los objetivos de la educación que les sean comunes;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XXIV.- En coordinación con la Secretaría de Salud, promover los programas y acciones que fomenten en los directivos de las escuelas, maestros, padres de familia, encargados de las cooperativas escolares y prioritariamente en los educandos, el consumo de una alimentación sana, balanceada, higiénica y variada, que junto con la práctica de la actividad física y deportiva, contribuyan a prevenir la obesidad infantil y juvenil, así como un importante número de enfermedades y padecimientos físicos que de ella se derivan beneficiando, así hábitos de vida saludable, de conformidad con lo establecido en la Ley de Salud del Estado, en la Norma Técnica relativa al tipo de productos que pueden expenderse en las cooperativas escolares del Estado y demás normatividad aplicable al respecto;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2008)</small>
+
+XXV.- Prohibir la venta de productos y alimentos de bajo o nulo valor nutricional, en los establecimientos escolares o cooperativas que expenden alimentos dentro de las instituciones educativas en la Entidad, asimismo, vigilar el adecuado cumplimiento de la reglamentación en la materia, como también, impulsar con los ayuntamientos del Estado la reglamentación correspondiente al expendio de alimentos de bajo o nulo valor nutricional en la periferia de los centros escolares.
 
 ###### ARTICULO 20.
 
@@ -1236,3 +1244,9 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 23 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
