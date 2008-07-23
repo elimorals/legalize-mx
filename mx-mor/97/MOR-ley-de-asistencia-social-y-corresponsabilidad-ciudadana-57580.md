@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2007-11-21"
+last_updated: "2008-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -823,7 +823,9 @@ CUARTO.- El Sistema para el Desarrollo Integral de la Familia del Estado de More
 
 QUINTO.- El Sistema para el Desarrollo Integral de la Familia para el Estado de Morelos deberá presentar a la Junta de Gobierno su Reglamento Interior y Manuales de Operación en un lapso máximo, de noventa días a partir de la entrada en vigor de la presente Ley, para su aprobación y publicación en el periódico oficial del Estado.
 
-SEXTO.- Remítase al titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes. Recinto Legislativo a los trece días del mes de noviembre de dos mil siete.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JULIO DE 2008)</small>
+
+SEXTO.- Los Ayuntamientos del Estado, en un plazo que no excederá de seis meses contados a partir de la fecha en que esta disposición entre en vigor, deberán presentar al Congreso del Estado su iniciativa de Decreto en virtud del cual se crean los respectivos organismos públicos descentralizados municipales, con personalidad jurídica y patrimonio propios, encargados de la promoción y prestación de los servicios de salud en materia de asistencia social en cada uno de los Municipios de la entidad, en los términos que señala el artículo 42 de esta Ley.
 
 ATENTAMENTE.
 
@@ -860,3 +862,17 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El término de seis meses a que se refiere el artículo transitorio que se adiciona, empezará a contar a partir de la fecha en que éste Decreto inicie su vigencia.
+
+TERCERO.- Aquellos ayuntamientos en que se encuentre constituido el organismo público descentralizado municipal a que se refiere este Decreto, con antelación a la entrada en vigor de la Ley de Asistencia Social y Corresponsabilidad Ciudadana para el Estado de Morelos, contarán con el mismo término para adecuar sus disposiciones al contenido del ordenamiento citado, si así fuere necesario.
+
+CUARTO.- Por conducto de la Secretaría del Congreso notifíquese el presente Decreto a los Ayuntamientos del Estado para los efectos legales correspondientes.
+
+QUINTO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos legales y constitucionales correspondientes.
