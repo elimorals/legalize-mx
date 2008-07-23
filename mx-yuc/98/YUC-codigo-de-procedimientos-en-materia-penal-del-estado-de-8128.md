@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-en-materia-penal-del-estado-de-8128"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-15"
-last_updated: "2004-07-06"
+last_updated: "2008-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2008.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 15 de diciembre de 1994.
 
@@ -335,6 +335,12 @@ Cuando el inculpado, el ofendido o la víctima, el denunciante, los peritos o lo
 
 Sólo cuando no pueda encontrarse a un intérprete mayor de edad, podrá nombrarse uno de dieciséis años cuando menos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+Cuando el inculpado fuere indígena el servicio de traducción será prestado de manera oportuna, competente y gratuita por la Procuraduría General de Justicia hasta que sea puesto a disposición del juzgado y con posterioridad por la defensoría de oficio.
+
 ###### ARTICULO 35.
 
 Las partes podrán recusar al intérprete fundando su recusación y la autoridad que practique la diligencia la calificará de plano y sin que proceda recurso alguno.
@@ -389,11 +395,27 @@ De igual manera se procederá contra el defensor que incurriere en conducta simi
 
 Durante las audiencias el inculpado podrá comunicarse, previa autorización de quien la preside, con sus defensores y personal del juzgado, pero no con los demás asistentes. En caso de infracción a esta disposición se le aplicará una corrección disciplinaria. Se procederá en igual forma con quien se comunique o intente comunicarse con el indiciado, inculpado o acusado.
 
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 47.
 
-A las audiencias, la víctima o el ofendido, las demás personas que tengan derecho a la reparación del daño o su representante legal, pueden comparecer y alegar lo que a su derecho interese en las mismas condiciones que la defensa; en consecuencia, en todo procedimiento penal, dichas personas tendrán derecho a recibir asesoría jurídica, a ser informados, cuando lo soliciten, del desarrollo de la Averiguación Previa o del proceso, a que se les satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se les preste atención médica de urgencia y psicológica cuando lo requieran, a estar presentes en el desarrollo de todos los actos procedimentales en los que el inculpado tenga ese derecho y a los demás que señalen las leyes; por lo tanto, podrán poner a disposición del Ministerio Público o al juzgado, directamente o por medio de su representante, todos los datos o elementos de prueba conducentes a acreditar el cuerpo del delito y a establecer la probable o plena responsabilidad del inculpado, según el caso, y a justificar la reparación del daño.
+A las audiencias, la víctima o el ofendido, las demás personas que tengan derecho a la reparación del daño o su representante legal, pueden comparecer y alegar lo que a su derecho convenga en las mismas condiciones que la defensa; en consecuencia, en todo procedimiento penal, dichas personas tendrán derecho a:
+
+I.- Recibir asesoría jurídica gratuita y oportuna, ser informados cuando lo soliciten, del desarrollo de la Averiguación Previa o del proceso. Las personas indígenas que no hablen español tendrán derecho a ser asistidas por un defensor y un traductor que hable su lengua;
+
+II.- Recibir la reparación del daño cuando proceda;
+
+III.- Coadyuvar con el Ministerio Público;
+
+IV.- Recibir atención médica de urgencia y psicológica cuando lo requieran;
+
+V.- Poner a disposición del Ministerio Público o del juzgado, directamente o por medio de su representante, todos los datos o elementos de prueba conducentes a acreditar el cuerpo del delito y a establecer la probable o plena responsabilidad del inculpado, según el caso y a justificar la reparación del daño y su monto;
+
+VI.- Estar presentes en el desarrollo de todos los actos procedimentales en los que el inculpado tenga ese derecho; y
+
+VII.- Los demás que señalen las leyes.
 
 ###### ARTICULO 48.
 
@@ -821,9 +843,13 @@ La confrontación y los careos son medios complementarios de las pruebas de conf
 
 ### CAPITULO II. CONFESION
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 116.
 
-La confesión es la declaración voluntaria y espontánea hecha por persona no menor de 16 años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, Juez o Tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Federal.
+La confesión es la declaración voluntaria y espontánea hecha por persona no menor de dieciocho años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, Juez o Tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 117.
 
@@ -1035,6 +1061,12 @@ Si para el conocimiento de la verdad acerca del delito imputado y de la personal
 
 Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda dar alguna luz para la averiguación de los hechos delictuosos y la responsabilidad del inculpado, y la autoridad ante quien debe realizarse la diligencia estime necesario su examen.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+En caso de que la persona formara parte de un grupo indígena que no hable español, un traductor deberá de acompañarla durante la recepción de su testimonio.
+
 ###### ARTICULO 158.
 
 Durante la instrucción el Juez no podrá dejar de examinar a los testigos presentes, cuya declaración solicite cualquiera de las partes.
@@ -1067,11 +1099,15 @@ En materia penal no puede oponerse tacha a los testigos, pero, de oficio o a pet
 
 La minoría de edad del declarante no invalida, por sí misma, el valor probatorio que a su testimonio le corresponde, pero serán tomadas en consideración las circunstancias del caso.
 
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 164.
 
-Antes de emitir su testimonio, los testigos deberán siempre rendir la protesta de producirse con verdad ante la autoridad correspondiente, quien los instruirá acerca de las sanciones que establece el Código Penal del Estado para los que declaran con falsedad. A los menores de dieciséis años, en vez de hacerles esta advertencia y de que otorguen la protesta correspondiente, se les exhortará para que se conduzcan con verdad.
+Antes de emitir su testimonio, los testigos deberán siempre rendir la protesta de producirse con verdad ante la autoridad correspondiente, quien los instruirá acerca de las sanciones que establece el Código Penal del Estado para los que declaran con falsedad. A los menores de dieciocho años, en vez de hacerles esta advertencia y de que otorguen la protesta correspondiente, se les exhortará para que se conduzcan con verdad.
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
 
 El Juez o Tribunal deberá cerciorarse de la veracidad de las respuestas del testigo con relación a su nombre, edad y domicilio, para lo cual deberá exigirle la respectiva acreditación, mediante la exhibición de su credencial para votar con fotografía o de un documento fidedigno, del cual se tomará debida nota en el expediente. Lo mismo hará el Ministerio Público con relación a los testigos que ante él declaren en averiguación previa.
 
@@ -1321,7 +1357,11 @@ La confesión debe reunir los siguientes requisitos:
 
 I.- Que esté plenamente comprobado por otros medios el cuerpo del delito de que se trate.
 
-II.- Que se haga por persona no menor de 16 años, en su contra, con pleno conocimiento y sin coacción ni violencia de ninguna clase.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
+
+II.- Que se haga por persona no menor de dieciocho años, en su contra, con pleno conocimiento y sin coacción ni violencia de ninguna clase.
 
 III.- Que sea de hecho propio.
 
@@ -1375,9 +1415,13 @@ V.- Que el testigo no haya sido obligado por la fuerza o miedo ni impulsado por 
 
 Carecerá de valor jurídico alguno la declaración del testigo, si en los autos no quedó debidamente acreditada su identidad en la forma que se previene en el segundo párrafo del artículo 164.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 219.
 
-El Ministerio Público, los Jueces y Tribunales, según la naturaleza de los hechos, la prueba de ellos y el enlace lógico y natural, más o menos necesario que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de las presunciones hasta el punto de considerar su conjunto como prueba plena.
+El Ministerio Público, los Jueces y Tribunales, según la naturaleza de los hechos, la prueba de ellos y el enlace lógico y natural, más o menos necesario que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de los indicios hasta el punto de considerar su conjunto como prueba plena.
 
 ###### ARTICULO 220.
 
@@ -1986,6 +2030,12 @@ Cuando por la naturaleza del delito o de la sanción aplicable no deba restringi
 ###### ARTICULO 297.
 
 El Juez deberá tomar al detenido su declaración preparatoria dentro de las 48 horas contadas a partir del momento en que aquél ha sido puesto a su disposición, en audiencia pública, excepto en el caso de delitos contra la moral. A la audiencia no deberán concurrir los que tengan que ser examinados con relación a los hechos que se averiguan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+
+Al momento de tomarle la declaración a una persona indígena que no hable español, esta diligencia no podrá realizarse sin que se encuentre acompañada de un traductor que la auxilie.
 
 ###### ARTICULO 298.
 
@@ -3324,3 +3374,9 @@ El Artículo 239 que se deroga, continuará aplicándose por hechos u omisiones 
 D.O. 6 DE JULIO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 23 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a los 30 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
