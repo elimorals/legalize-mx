@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2008-07-16"
+last_updated: "2008-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -411,7 +411,7 @@ La Mesa Directiva es dirigida y coordinada por el Presidente del Congreso y se r
 
 ### CAPÍTULO ÚNICO. DE SU DESIGNACIÓN Y ATRIBUCIONES
 
-> <small>N. DE E. PARA LA VIGENCIA DEL PRESENTE ARTICULO, VEASE ARTICULO SEXTO TRANSITORIO.</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### Artículo 35.
 
@@ -535,7 +535,7 @@ XIII. Las demás que les confiera esta Ley, su Reglamento y demás disposiciones
 
 ###### Artículo 41.
 
-La Diputación Permanente estará integrada por los diputados que conforman la Mesa Directiva del Congreso y en la última sesión de cada período ordinario, el Congreso nombrará por escrutinio secreto y el voto de las dos terceras partes de sus integrantes, al diputado que deba formar parte de ella como tercer secretario y a tres suplentes, conforme a lo dispuesto por la Constitución Política del Estado y tendrá las atribuciones que le confiere la misma.
+La Diputación Permanente estará integrada por cinco diputados, que serán los cuatro que conformen la Mesa Directiva del Congreso y, treinta días antes de la clausura del período ordinario correspondiente, el Congreso nombrará, por escrutinio secreto y el voto de las dos terceras partes de sus integrantes, al diputado que deba formar parte de ella y a tres suplentes, conforme a lo dispuesto por la Constitución Política del Estado y tendrá las atribuciones que le confiere la misma.
 
 Las sesiones de la Diputación Permanente tendrán lugar por lo menos una vez a la semana, exceptuándose en los períodos vacacionales; las sesiones serán convocadas por su Presidente o cuando así se lo solicite la mayoría de los diputados integrantes de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, pudiendo ser públicas o secretas en los términos del Reglamento.
 
@@ -631,7 +631,9 @@ I. Conducir las relaciones políticas con los demás poderes del Estado, los ayu
 
 II. Proponer al pleno del Congreso del Estado para su aprobación:
 
-a) Los nombramientos o designaciones de los servidores públicos, así como las ratificaciones de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de cualquier otro funcionario que la Ley confiera al Congreso del Estado y que no sea facultad de alguna Comisión;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+
+a) Las designaciones de los servidores públicos y de cualquier otro funcionario que la Ley confiera al Congreso del Estado y que no sea facultad de alguna Comisión;
 
 b) Las solicitudes de permisos y licencias del Gobernador, Magistrados del Poder Judicial, de los diputados y demás servidores públicos;
 
@@ -641,9 +643,13 @@ d) La integración de las comisiones ordinarias y especiales, así como de los c
 
 e) La designación y remoción de los titulares de los órganos administrativos del Congreso del Estado, en términos de esta Ley, se hará por los votos de mayoría calificada del pleno del Congreso del Estado;
 
-f) La terna de ciudadanos que envíe el Gobernador del Estado para designar al Procurador General de Justicia; y
+f) La terna de ciudadanos que envíe el Gobernador del Estado para designar al Procurador General de Justicia; y (sic)
 
 g) El proyecto de presupuesto de egresos del Congreso del Estado;
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2008)</small>
+
+h) Las designaciones de los Magistrados que integran el Poder Judicial, para lo cual la Junta Política y de Gobierno establecerá los criterios para las designaciones conforme lo establece la Constitución del Estado y esta Ley;
 
 III. Designar al Secretario Técnico de la propia Junta Política y de Gobierno y al Coordinador del área de Comunicación Social del Congreso del Estado;
 
@@ -1564,3 +1570,9 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 23 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su aprobación. Para efectos de su divulgación, remítase el mismo al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
