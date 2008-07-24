@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2008-05-09"
+last_updated: "2008-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JULIO DE 2008.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -85,17 +85,59 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, gé
 
 El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Todo individuo tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación preescolar, primaria y secundaria de forma obligatoria para todos los mexiquenses.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+La educación que imparta el Estado será de calidad, gratuita, laica y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia, garantizando la libertad de creencias, el criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, será una educación para la diversidad sin discriminación, también será democrática, nacional, humanista y contribuirá a la mejor convivencia humana.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Además de impartir la educación básica, el Estado promoverá y atenderá todos los tipos, modalidades y niveles educativos incluyendo la educación inicial, superior e indígena considerados necesarios para el desarrollo de la nación. El sistema educativo del Estado contará con escuelas rurales, de artes y oficios y de agricultura, educación especial, educación indígena y educación para adultos.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Los particulares podrán impartir educación, siempre con apego a los mismos fines y criterios que establece la Constitución Política de los Estados Unidos Mexicanos en su artículo tercero y deberán obtener en cada caso, la autorización expresa del poder público, siempre sujetándose a la vigilancia e inspecciones oficiales establecidas.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, soberanía y gobierno, tendrán la facultad y la responsabilidad de gobernarse por sí mismas.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 El derecho a la información será garantizado por el Estado. La ley establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión de este derecho.
-
-> <small>(ADICIONADO, G.G. 9 DE MAYO DE 2008)</small>
-
-La manifestación de la ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2004)</small>
 
 Los poderes públicos y los órganos autónomos transparentarán sus acciones, garantizarán el acceso a la información pública y protegerán los datos personales en los términos que señale la ley reglamentaria.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+El ejercicio del derecho de acceso a la información pública, en el Estado de México se regirá por los siguientes principios y bases:
+
+l. Toda la información en posesión de cualquier autoridad Estatal o Municipal, así como de los órganos autónomos, es pública y solo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes.
+
+En la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad;
+
+II. La información referente a la intimidad de la vida privada y la imagen de las personas será protegida a través de un marco jurídico rígido de tratamiento y manejo de datos personales, con las excepciones que establezca la ley reglamentaria;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
+
+IV. Los procedimientos de acceso a la información pública, de acceso, corrección y supresión de datos personales, así como los recursos de revisión derivados de los mismos, podrán tramitarse por medios electrónicos, a través de un sistema automatizado que para tal efecto establezca la ley reglamentaria y el órgano garante en el ámbito de su competencia.
+
+La Legislatura del Estado establecerá un órgano autónomo que garantice el acceso a la información pública y proteja los datos personales que obren en los archivos de los poderes públicos y órganos autónomos, el cual tendrá las facultades que establezca la ley reglamentaria y será competente para conocer de los recursos de revisión interpuestos por violaciones al derecho de acceso a la información pública. Las resoluciones del órgano autónomo aquí previsto serán de plena jurisdicción;
+
+V. Los sujetos obligados por la ley reglamentaria deberán cumplir con los requisitos generales en materia de archivos, en términos de las leyes respectivas y deberán cumplir con la publicación, a través de medios electrónicos, de la información pública de oficio en términos de la ley reglamentaria y de los criterios emitidos por el órgano garante;
+
+VI. La ley reglamentaria, determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
+
+VII. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -471,7 +513,7 @@ Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electo
 
 No podrán reunirse dos o más poderes del Estado en una sola persona o corporación ni depositarse el Legislativo en un individuo, salvo en el caso previsto por la fracción XI del artículo 61 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 37.
 
@@ -2868,6 +2910,14 @@ DÉCIMO SEGUNDO.- Los nuevos integrantes del Pleno del Tribunal Electoral, será
 DÉCIMO TERCERO.- La Legislatura del Estado llevará a cabo la reforma integral del Tribunal Electoral del Estado de México, a más tardar, antes de que concluya el siguiente período ordinario de sesiones de la propia Legislatura.
 
 DÉCIMO CUARTO.- Sin menoscabo del cumplimiento de los fines que les impone la Constitución y la ley, el Instituto y el Tribunal Electoral del Estado de México, deberán adecuar sus presupuestos y sus programas de actividades para el presente año, relacionados con el próximo proceso electoral, con base en lo establecido en este decreto y en lo que, en su oportunidad se establezca en la ley secundaria.
+
+G.G. 24 DE JULIO DE 2008.
+
+PRIMERO.- Publíquese este decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por el presente decreto.
 
 ###### ARTICULO SEGUNDO.
 
