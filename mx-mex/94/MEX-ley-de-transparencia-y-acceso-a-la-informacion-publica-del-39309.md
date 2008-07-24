@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2007-02-01"
+last_updated: "2008-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS -ANTES LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO-
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE JULIO DE 2008.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -41,15 +41,39 @@ DECRETA:
 
 Se expide la Ley de Transparencia y Acceso a la Información Pública del Estado de México, conforme al tenor siguiente:
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
+> <small>(REFORMADA SU DENOMINACION, G.G. 24 DE JULIO DE 2008)</small>
+
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### Capítulo I. Objeto de la Ley
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria de los párrafos segundo y tercero del artículo 5º de la Constitución Política del Estado Libre y Soberano de México y tiene por objeto, tutelar y garantizar, a toda persona, el ejercicio del derecho de acceso a la información pública y proteger los datos personales que se encuentren en posesión de los Sujetos Obligados.
+La presente Ley es reglamentaria de los párrafos décimo y décimo primero y décimo segundo del artículo 5 de la Constitución Política del Estado Libre y Soberano de México, y tiene por objeto, transparentar el ejercicio de la función pública, tutelar y garantizar a toda persona, el ejercicio del derecho de acceso a la información pública, a sus datos personales, así como a la corrección y supresión de éstos y proteger los datos personales que se encuentren en posesión de los sujetos obligados, y tiene como objetivos:
+
+I. Promover la transparencia de la gestión pública y la rendición de cuentas de los sujetos obligados hacia la sociedad, bajo el principio de máxima publicidad;
+
+II. Facilitar el acceso de los particulares a la información pública, a sus datos personales, a la corrección o supresión de éstos, mediante procedimientos sencillos y expeditos, de manera oportuna y gratuita;
+
+III. Contribuir a la mejora de la gestión pública y a la toma de decisiones en las políticas gubernamentales, mediante mecanismos que alienten la participación ciudadana en el acceso a la información;
+
+IV. Promover una cultura de transparencia y acceso a la información; y
+
+V. Garantizar a través de un órgano autónomo:
+
+A) El acceso a la información pública;
+
+B) La protección de datos personales;
+
+C) El acceso, corrección y supresión de datos personales en posesión de los sujetos obligados; y
+
+D) El derecho a la intimidad y privacidad de los particulares, en relación con sus datos personales.
+
+Dicho órgano será responsable de promover y difundir estas garantías y resolver los procedimientos relacionados con éstas.
 
 ### Capítulo II. De las Definiciones
 
@@ -57,35 +81,61 @@ La presente Ley es reglamentaria de los párrafos segundo y tercero del artícul
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Ley: a la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-II. Datos Personales: La información concerniente a una persona física identificada o identificable, relativa a su origen étnico o racial, o que esté referida a las características físicas, morales, vida afectiva y familiar, domicilio, número telefónico, situación patrimonial, ideología y opinión política; creencias o convicciones religiosas, estado de salud, orientación sexual o análogas relacionadas con su intimidad; y en general, toda aquella información de carácter personal que no sea susceptible de ser publicada, proporcionada o comercializada por autoridad alguna sin consentimiento expreso de la persona a quien se refiera, salvo que medie mandamiento de autoridad judicial;
+I. Ley: A la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
-III. Órganos Autónomos: El Instituto Electoral del Estado de México, el Tribunal Estatal Electoral, la Comisión Estatal de Derechos Humanos, las Universidades e Instituciones de Educación Superior dotadas de autonomía y cualquier otro establecido en la Constitución Política del Estado Libre y soberano de México;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Datos personales: La información concerniente a una persona física, identificada o identificable;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+III. Órganos Autónomos: El Instituto Electoral del Estado de México, el Tribunal Estatal Electoral, la Comisión de Derechos Humanos del Estado de México, el Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, las Universidades e Instituciones de Educación Superior dotadas de autonomía, y cualquier otro establecido en la Constitución Política del Estado Libre y Soberano de México;
 
 IV. Servidor Público.- Toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, en los municipios, en los tribunales administrativos y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a estas, en los fideicomisos públicos y en los órganos autónomos. Por lo que toca a los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos;
 
-V. Información Pública: Toda aquella que esté en posesión de los Sujetos Obligados, en ejercicio de sus atribuciones;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+V. Información Pública: La contenida en los documentos que los sujetos obligados generen en el ejercicio de sus atribuciones;
 
 VI. Información Clasificada: Aquella considerada por la presente Ley como reservada o confidencial;
 
 VII. Información Reservada: La clasificada con este carácter de manera temporal por las disposiciones de esta Ley, cuya divulgación puede causar daño en términos de lo establecido por artículo 20 del presente ordenamiento;
 
-VIII. Información Confidencial: La clasificada con este carácter, de manera permanente, por las disposiciones de esta u otras leyes, que al ser divulgada afecte la privacidad de las personas;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-IX. Instituto: El Instituto de Transparencia y Acceso a la Información Pública del Estado de México;
+VIII. Información Confidencial: La clasificada con este carácter por las disposiciones de esta u otras leyes;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+IX. Instituto: El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
 X. Comité de Información: Cuerpo colegiado que se integre para resolver sobre la información que deberá clasificarse, así como para atender y resolver los requerimientos de las Unidades de Información y del Instituto;
 
-XI. Unidades de Información: Las establecidas por los sujetos obligados para atender las solicitudes de información pública;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XII. Servidor Público Habilitado: Persona encargada de apoyar a sus respectivas Unidades de Información y aportar en primera instancia el fundamento y motivación de la clasificación de la información;
+XI. Unidades de Información: Las establecidas por los sujetos obligados para tramitar las solicitudes de acceso a la información pública, a datos personales, así como a corrección y supresión de éstos;
 
-XIII. Seguridad del Estado: La protección de los elementos esenciales del Estado Mexicano y del Estado de México, como población, territorio, gobiernos, orden jurídico, la soberanía estatal, la autonomía Municipal, la seguridad interior;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+XII. Servidor Público Habilitado: Persona encargada dentro de las diversas unidades administrativas o áreas del sujeto obligado, de apoyar con la información o datos personales que se ubiquen en la misma, a sus respectivas Unidades de Información, respecto de las solicitudes presentadas, y aportar en primera instancia el fundamento y motivación de la clasificación de la información;
 
-XIV. Versión Pública: la información pública separada de un documento que contenga información clasificada.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XIII. Seguridad del Estado: La integridad de los elementos esenciales del Estado Mexicano y del Estado de México y Municipios, como población, territorio, gobierno, orden jurídico, la soberanía estatal, la autonomía municipal y la seguridad interior;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XIV. Versión Pública: Documento en el que se elimina, suprime o borra la información clasificada como reservada o confidencial para permitir su acceso;
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XV. Documentos: Los expedientes, estudios, actas, resoluciones, oficios, acuerdos, circulares, contratos, convenios, estadísticas o bien cualquier registro en posesión de los sujetos obligados, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en medios escritos, impresos, sonoros, visuales, electrónicos, informáticos u holográficos; y
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XVI. Derecho de Acceso a la Información: Es la facultad que tiene toda persona para acceder a la información pública generada, o en poder de los sujetos obligados conforme a esta Ley.
 
 ## TITULO SEGUNDO. SUJETOS DE LA LEY
 
@@ -95,9 +145,11 @@ XIV. Versión Pública: la información pública separada de un documento que co
 
 La información pública generada, administrada o en posesión de los Sujetos Obligados en ejercicio de sus atribuciones, será accesible de manera permanente a cualquier persona, privilegiando el principio de máxima publicidad de la información. Los Sujetos Obligados deben poner en práctica, políticas y programas de acceso a la información que se apeguen a criterios de publicidad, veracidad, oportunidad, precisión y suficiencia en beneficio de los solicitantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 4.
 
-Toda persona tiene el derecho de acceso a la información pública, sin más limitaciones que las establecidas en la presente Ley.
+Toda persona tiene el derecho de acceso a la información pública, sin necesidad de acreditar su personalidad ni interés jurídico.
 
 En materia política, solo podrán ejercer este derecho los mexicanos.
 
@@ -131,13 +183,23 @@ V. Los Órganos Autónomos;
 
 VI. Los Tribunales Administrativos.
 
-La información relativa a los partidos políticos, será proporcionada por el Instituto Electoral del Estado de México, conforme a lo establecido por el Código de la materia. En el caso de las personas de derecho privado que ejerzan o administren fondos públicos, la información será proporcionada por el Sujeto Obligado que realizó la transferencia de recursos, independientemente de la modalidad en que se hubiese realizado.
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Los partidos políticos atenderán los procedimientos de transparencia y acceso a la información pública por conducto del Instituto Electoral del Estado de México, y proporcionarán la información a que están obligados en los términos del Código Electoral del Estado de México.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Los sujetos obligados deberán hacer pública toda aquella información relativa a los montos y las personas a quienes entreguen, por cualquier motivo, recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos.
 
 Los servidores públicos deberán transparentar sus acciones así como garantizar y respetar el derecho a la información pública.
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 8.
 
-Los responsables y quienes intervengan en el procesamiento de datos de información reservada y confidencial están obligados a guardar el secreto y sigilo correspondiente, conservando la confidencialidad aún después de su función como servidor público.
+Los responsables y quienes intervengan en el procesamiento de datos de información reservada y confidencial están obligados a guardar el secreto y sigilo correspondiente, conservando la confidencialidad aún después de cesar en su función como servidor público.
+
+En caso de contravención se estará a lo dispuesto por los ordenamientos administrativos correspondientes, independientemente de las acciones penales o civiles correspondientes.
 
 ###### Artículo 9.
 
@@ -195,13 +257,15 @@ XIV. Planeación, programación y contenidos de la información que difundan a t
 
 XV. Agenda de reuniones públicas a las que convoquen los titulares de los sujetos obligados;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XVI. Índices, catálogos de información pública y listado de bases de datos personales que cada sujeto obligado posee y maneja;
+XVI. Índices de Información clasificada como reservada y listado de bases de datos personales que cada sujeto obligado posee y maneja;
 
 XVII. Expedientes concluidos relativos a la expedición de autorizaciones, permisos, licencias, certificaciones y concesiones;
 
-XVIII. Los informes de las auditorias realizadas por los órganos de control interno, la Secretaría de la Contraloría, los órganos de control interno de los Poderes Legislativo y Judicial, las contralorías de los órganos autónomos, la Contaduría General de Glosa del Estado, las contralorías municipales y despachos externos, las aclaraciones que correspondan; y, en su oportunidad, las resoluciones de las responsabilidades de las mismas cuando éstas hayan causado Estado; y (sic)
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XVIII. Los informes de las auditorías realizadas por los órganos de control interno, la Secretaría de la Contraloría, los órganos de control interno de los Poderes Legislativo y Judicial, las contralorías de los órganos autónomos, el Órgano Superior de Fiscalización, las contralorías municipales y por los despachos externos y las aclaraciones que correspondan;
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -217,7 +281,11 @@ XXI. Los trámites y servicios ofrecidos así como los requisitos para acceder a
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XXII. Informes y estadísticas que tengan que realizar en términos del Código Administrativo del Estado de México.
+XXII. Informes y estadísticas que tengan que realizar en términos del Código Administrativo del Estado de México;
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XXIII. Las cuentas públicas, estatal y municipales.
 
 ###### Artículo 13.
 
@@ -225,7 +293,9 @@ Los Sujetos Obligados a los que se refiere el artículo 7 fracción I de esta Le
 
 I. La derivada del Sistema de Planeación Democrática para el desarrollo del Estado de México;
 
-II. La Situación económica, ingresos, egresos y deuda pública en los términos que establezca la legislación aplicable, que será proporcionada por la Secretaría de Finanzas, Planeación y Administración; y
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Los ingresos, egresos y deuda pública en los términos que establezca la legislación aplicable, que será proporcionada por la Secretaría de Finanzas; y
 
 III. Los proyectos de disposiciones reglamentarias, directamente, a través de la Dirección Jurídica y Consultiva del Estado de México o del Consejo Consultivo para la Actualización de la Legislación del Estado de México, diez días hábiles anteriores a su publicación, se podrán dar a conocer por los medios disponibles. Lo anterior no aplicará cuando las anteriores instancias, determinen que su conocimiento puede afectar los objetivos que se pretenden lograr con su vigencia o se trate de situaciones de emergencia.
 
@@ -237,7 +307,17 @@ Los Sujetos Obligados a los que se refiere el artículo 7 fracción II de esta L
 
 I. Informes y cuentas públicas que por disposición legal deben entregar las entidades públicas estatales y municipales al Poder Legislativo y que hayan sido revisados por la Legislatura;
 
-II. Iniciativas, dictámenes, informes, diario de debates, decretos, acuerdos y las resoluciones aprobadas;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Las iniciativas de ley, informes, diario de debates, decretos, acuerdos o cualquier otra disposición de carácter general, la fecha en que se recibió, las Comisiones a las que se turne, y los dictámenes y resoluciones que, en su caso, recaigan sobre las mismas;
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+III. La agenda legislativa; y
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+IV. Las listas de asistencia y votación de cada una de las sesiones.
 
 ###### Artículo 15.
 
@@ -251,11 +331,13 @@ III. Información en materia de protección civil, los planes de desarrollo urba
 
 ###### Artículo 16.
 
-La información a que se refiere el presente capítulo deberá presentarse de forma tal que facilite su uso y comprensión por las personas, y permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 17.
 
-Los Sujetos Obligados deberán preparar la automatización, presentación y contenido de su información, así como su integración en medios electrónicos, observando los lineamientos o, en su caso, recomendaciones que expida el Instituto. Entre tanto, los Sujetos Obligados que no puedan satisfacer esta exigencia técnica, dispondrán por medio de los elementos a su alcance, los documentos que contengan la información de referencia.
+La información referente a las obligaciones de transparencia será puesta a disposición de los particulares por cualquier medio que facilite su acceso, dando preferencia al uso de sistemas computacionales y las nuevas tecnologías de información.
 
 ###### Artículo 18.
 
@@ -275,7 +357,9 @@ Para los efectos de esta Ley, se considera información reservada, la clasificad
 
 I. Comprometa la Seguridad del Estado o la Seguridad Pública;
 
-II. Pueda dañar la conducción de las negociaciones de acuerdos interinstitucionales, incluida aquella información que otros Estados u organismos internacionales entreguen con carácter de confidencial al Estado de México;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Pueda dañar la conducción de las negociaciones de acuerdos interinstitucionales, incluida aquella información que otros Estados u organismos institucionales entreguen con carácter de confidencial al Estado de México; así como la que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
 
 III. Pueda dañar la situación económica y financiera del Estado de México;
 
@@ -283,9 +367,9 @@ IV. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona, o cau
 
 V. Por disposición legal sea considerada como reservada;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-VI. Pueda causar daño a los expedientes procesales o procedimientos administrativos, incluidos los de quejas, denuncias, inconformidades, responsabilidades administrativas y resarcitorias hasta que no esté total y definitivamente concluido dicho procedimiento;
+VI. Pueda causar daño o alterar el proceso de investigación en averiguaciones previas, procesos judiciales procesos o procedimientos administrativos, incluidos los de quejas, denuncias, inconformidades, responsabilidades administrativas y resarcitorias en tanto no hayan causado estado; y
 
 VII. El daño que pueda producirse con la publicación de la información sea mayor que el interés público de conocer la información de referencia.
 
@@ -317,13 +401,19 @@ Los Sujetos Obligados podrán solicitar autorización al Instituto para ampliar 
 
 Tratándose de información, en posesión de los Sujetos Obligados, que se relacione con el secreto comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por alguna disposición legal, se estará a lo que la legislación de la materia establezca.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 25.
 
-Para los efectos de esta Ley, se considera información confidencial, la clasificada como tal, de manera permanente por su naturaleza o mediante acuerdo fundado y motivado por los Sujetos Obligados, cuando:
+Para los efectos de esta Ley, se considera información confidencial, la clasificada como tal, de manera permanente, por su naturaleza, cuando:
 
-I. Contenga datos personales y al ser divulgada afecte la privacidad de las personas;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-II. Por disposición legal sea considerada como confidencial;
+I. Contenga datos personales;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Así lo consideren las disposiciones legales; y
 
 III. Se entregue a los Sujetos Obligados bajo promesa de secresía.
 
@@ -331,9 +421,23 @@ III. Se entregue a los Sujetos Obligados bajo promesa de secresía.
 
 No se considerará confidencial la información que se encuentre en los registros públicos o en fuentes de acceso público, ni tampoco la que sea considerada por la presente Ley como información pública.
 
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 25 Bis.
+
+Los sujetos obligados son responsables de los datos personales y, en relación con éstos, deben:
+
+I. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y evite su alteración, pérdida, transmisión y acceso no autorizado; y
+
+II. Capacitar a los servidores públicos en relación a la protección de los datos personales.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 26.
 
-La información que contenga datos personales debe sistematizarse en archivos elaborados con fines lícitos. Salvo en el caso de la información necesaria para proteger la seguridad pública o la vida de las personas, no deberá registrarse ni se obligará a las personas a proporcionar datos que puedan originar discriminación, en particular información sobre el origen racial o étnico, preferencia sexual, opiniones políticas, convicciones religiosas, filosóficas o de otro tipo, o sobre la participación en una asociación o la afiliación a una agrupación gremial.
+Los sujetos obligados deben sistematizar la información que contenga datos personales en archivos seguros y confiables bajo su resguardo y responsabilidad. Solamente podrá obligarse a los sujetos obligados a proporcionar información personal para proteger la seguridad pública o la vida de las personas; dicha información será la estrictamente necesaria y no contendrá datos que puedan originar discriminación, sobre su origen racial o étnico, preferencia sexual, opiniones políticas, convicciones religiosas, filosóficas o de otro tipo, su participación en alguna asociación o la afiliación a una agrupación gremial.
+
+En lo no previsto, los sujetos obligados estarán a lo dispuesto en la Ley especial.
 
 ###### Artículo 27.
 
@@ -353,17 +457,25 @@ El acuerdo que clasifique la información como confidencial deberá contener un 
 
 ### Capítulo I. De los Comités de Información
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 29.
 
-En cada dependencia, organismo auxiliar y fideicomiso de la administración pública estatal y en la Procuraduría General de Justicia del Estado de México se establecerá un Comité de Información, integrado por:
+Los Sujetos Obligados establecerán un comité de información integrado:
 
-I. El titular de la dependencia, del organismo auxiliar o, del fideicomiso o, el servidor público que ellos mismos designen, quien presidirá el Comité;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+l. En el Poder Ejecutivo, por el titular de la dependencia, del organismo auxiliar o, del fideicomiso o, el servidor público que ellos mismos designen, quien presidirá el Comité;
 
 II. El responsable o titular de la unidad de información; y
 
 III. El titular del órgano del control interno.
 
 El Comité adoptará sus decisiones por mayoría de votos.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+En los casos de los Poderes Legislativo y Judicial, por el Presidente de la Junta de Coordinación Política y por el Presidente del Consejo de la Judicatura o por quien estos designen respectivamente; en, el caso de los Ayuntamientos por el Presidente Municipal o quien éste designe; en el caso de los Órganos Autónomos y Tribunales Administrativos, la titularidad del sujeto obligado se establecerá con base en lo dispuesto en sus reglamentos respectivos.
 
 ###### Artículo 30.
 
@@ -385,11 +497,15 @@ VI. Enviar los datos necesarios para la elaboración del informe anual del Insti
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-VII. Emitir las resoluciones que correspondan para la atención de las solicitudes de información, así como de acceso y de corrección de datos personales, de acuerdo con los lineamientos que emita el Instituto.
+VII. Emitir las resoluciones que correspondan para la atención de las solicitudes de información, así como de acceso y de corrección de datos personales, de acuerdo con los lineamientos que emita el Instituto;
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VIII. Dictaminar las declaratorias de inexistencia de la información que les remitan las unidades administrativas, y resolver en consecuencia.
 
 ###### Artículo 31.
 
-En los Poderes Legislativo y Judicial, los municipios, los órganos autónomos y los Tribunales Administrativos, se establecerán Comités de información que se integrarán y funcionarán en términos de este capítulo.
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
 ### Capítulo II. De las Unidades de Información
 
@@ -433,15 +549,17 @@ X. Las demás que disponga esta Ley y las disposiciones reglamentarias.
 
 ###### Artículo 36.
 
-En los Poderes Legislativo y Judicial, los municipios, los órganos autónomos y los Tribunales Administrativos, se establecerán Unidades de Información que funcionarán en términos de este capítulo.
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
 ###### Artículo 37.
 
 Cada Unidad de Información deberá elaborar un catálogo de información o de expedientes clasificados que será del conocimiento público.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 38.
 
-En el ámbito del Poder Ejecutivo las Unidades de Información, acatarán las recomendaciones, lineamientos y criterios del Instituto y atenderán los requerimientos de informes que realice el mismo.
+Los Sujetos Obligados, a través de las Unidades de Información, acatarán las resoluciones, lineamientos y criterios del Instituto y atenderán los requerimientos de informes que realice el mismo.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -465,7 +583,9 @@ III. Apoyar a la Unidad de Información en lo que ésta le solicite para el cump
 
 IV. Proporcionar a la Unidad de Información, las modificaciones a la información pública de oficio que obre en su poder;
 
-V. Integrar y presentar al Responsable de la Unidad de Información la propuesta de primera clasificación de información, la cual tendrá los fundamentos y argumentos en que se basa dicha propuesta;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+V. Integrar y presentar al Responsable de la Unidad de Información la propuesta de clasificación de información, la cual tendrá los fundamentos y argumentos en que se basa dicha propuesta;
 
 VI. Verificar, una vez analizado el contenido de la información, que no se encuentre en los supuestos de información clasificada; y
 
@@ -477,11 +597,23 @@ VII. Dar cuenta a la Unidad de Información del vencimiento de los plazos de res
 
 Los Sujetos Obligados sólo proporcionarán la información pública que se les requiera y que obre en sus archivos. No estarán obligados a procesarla, resumirla, efectuar cálculos o practicar investigaciones.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 41 Bis.
+
+El procedimiento de acceso a la información se rige por los siguientes principios:
+
+l. Simplicidad y rapidez;
+
+II. Gratuidad del procedimiento; y
+
+III. Auxilio y orientación a los particulares.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 42.
 
-Cualquier persona, podrá ejercer el derecho de acceso a la información pública. Este derecho podrá ejercerse de manera directa; cuando se trate de consultas verbales y mediante la presentación de una solicitud por escrito libre, en los formatos proporcionados por el Instituto a través de la Unidad de Información respectiva o vía electrónica, a través del sistema automatizado de solicitudes respectivo. Cuando se realice una consulta verbal deberá ser resuelta por la Unidad de Información en el momento, de no ser posible se invitará al particular a iniciar el procedimiento de acceso; las consultas verbales no podrán ser recurribles conforme lo establece la presente ley.
+Cualquier persona, podrá ejercer el derecho de acceso a la información pública sin necesidad de acreditar su personalidad ni interés jurídico; cuando se trate de consultas verbales y mediante la presentación de una solicitud por escrito libre, en los formatos proporcionados por el Instituto a través de la Unidad de Información respectiva o vía electrónica, a través del sistema automatizado de solicitudes respectivo. Cuando se realice una consulta verbal deberá ser resuelta por la Unidad de Información en el momento, de no ser posible se invitará al particular a iniciar el procedimiento de acceso; las consultas verbales no podrán ser recurribles conforme lo establece la presente ley.
 
 ###### Artículo 43.
 
@@ -505,25 +637,35 @@ No se dará curso a las solicitudes que carezcan de los requisitos establecidos 
 
 La Unidad de Información notificará al particular, por escrito o vía electrónica, dentro del plazo de cinco días hábiles, si requiere completar, corregir o ampliar los datos de la solicitud escrita. Si transcurrido un plazo igual no es atendido el requerimiento, se tendrá por no presentada la petición, quedando a salvo los derechos de la persona para volverla a presentar.
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 45.
 
-De no corresponder la solicitud a la Unidad de Información, ésta orientará a los solicitantes para que presenten la solicitud a la Unidad de Información que corresponda.
+De no corresponder la solicitud a la Unidad de Información, ésta orientará a los solicitantes para que presenten la solicitud a la Unidad de Información que corresponda en un plazo no mayor a cinco días hábiles.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 46.
 
-La Unidad de Información deberá entregar la información solicitada dentro de los diez días hábiles siguientes a la recepción de la solicitud. Este plazo podrá ampliarse hasta por otros siete días hábiles, siempre que existan razones para ello, debiendo notificarse por escrito al solicitante.
+La Unidad de Información deberá entregar la información solicitada dentro de los quince días hábiles contados a partir del día siguiente a la presentación de la solicitud. Este plazo podrá ampliarse hasta por otros siete días hábiles, siempre que existan razones para ello, debiendo notificarse por escrito al solicitante.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 47.
 
-En el caso de que no se cuente con la información solicitada o que ésta sea clasificada, la Unidad de Información deberá notificarlo al solicitante por escrito, en un plazo que no excederá de diez días hábiles contados a partir de la fecha de presentación de la solicitud.
+En el caso de que no se cuente con la información solicitada o que ésta sea clasificada, la Unidad de Información deberá notificarlo al solicitante por escrito, en un plazo que no exceda a quince días hábiles contados a partir del día siguiente a la presentación de la solicitud. Este plazo podrá ampliarse hasta por otros siete días hábiles, siempre que existan razones para ello, debiendo notificarse por escrito al solicitante.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 48.
 
-La obligación de acceso a la información pública se tendrá por cumplida, cuando el solicitante previo el pago, previsto en el articulo 6 de esta Ley, si es el caso, tenga a su disposición la información vía electrónica o copias simples, certificadas o en cualquier otro medio en el que se encuentre contenida la información solicitada, o cuando realice la consulta de la información en el lugar en el que ésta se localice.
+La obligación de acceso a la información pública se tendrá por cumplida, cuando el solicitante previo el pago, previsto en el artículo 6 de esta Ley, si es el caso, tenga a su disposición la información vía electrónica o copias simples, certificadas o en cualquier otro medio en el que se encuentre contenida la información solicitada, o cuando realice la consulta de la información en el lugar en el que ésta se localice.
 
 Cuando la información solicitada ya esté disponible para consulta, se le hará saber por escrito al solicitante el lugar donde puede consultarla y las formas para reproducir o adquirirla.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Cuando el Sujeto Obligado no entregue la respuesta a la solicitud dentro del plazo previsto en la Ley, la solicitud se entenderá negada y el solicitante podrá interponer el recurso de revisión previsto en este ordenamiento.
 
 Una vez entregada la información, el solicitante acusará recibo por escrito, dándose por terminado el trámite de acceso a la información.
 
@@ -535,17 +677,25 @@ Cuando un mismo medio, impreso o electrónico, contenga información pública y 
 
 ### Capítulo V. Del Procedimiento para el Acceso y Corrección de Datos Personales
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 50.
 
-Las Unidades de Información deberán recibir y dar curso a las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación o supresión total o parcial de sus datos personales.
+Las Unidades de Información deberán recibir y dar curso a las solicitudes de acceso, corrección, sustitución, rectificación, o supresión total o parcial de sus datos personales. Estas solicitudes podrán hacerse por vía electrónica.
 
 Se exceptúan de esta disposición las modificaciones que estén reguladas por otros ordenamientos.
 
-En el ámbito del Poder Ejecutivo las respuestas negativas a las solicitudes realizadas en ejercicio del procedimiento de corrección de datos personales deberán ser notificadas de oficio al Instituto, para que éste proceda y requiera al omiso, respecto del fundamento y motivación legal en que sustente su negativa. En caso de que el Instituto desestime las razones expresadas, conminará al omiso a realizar el acto solicitado.
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Las respuestas negativas a las solicitudes realizadas en el ejercicio del procedimiento de corrección de datos personales, deberán ser notificadas de oficio al Instituto, para que éste proceda y requiera al omiso, respecto del fundamento y motivación legal en que se sustente su negativa. En caso de que el Instituto desestime las razones expresadas, conminará al omiso a realizar el acto solicitado.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 51.
 
-Para que proceda la solicitud, el interesado deberá precisar las modificaciones que deben realizarse y aportar la documentación necesaria. El Sujeto Obligado tendrá un plazo de treinta días hábiles desde la presentación de la solicitud para realizar las modificaciones o expresar las razones fundadas y motivadas por las que no procedieron las mismas. En ambos casos la Unidad de Información deberá notificarlo al interesado en un plazo no mayor de diez días hábiles.
+Para que proceda la solicitud de modificación o supresión de sus datos personales, el interesado deberá precisarlas y aportar la documentación original o certificada que acredite su petición. Cuando a la solicitud no se adjunten los documentos respectivos, la Unidad de Información requerirá al solicitante, dentro de los cinco días hábiles siguientes a la recepción de la misma, para que los presente en un plazo no mayor de cinco días hábiles, apercibiéndolo de que en caso de no hacerlo se tendrá por no presentada, dejando a salvo su derecho para realizarla nuevamente.
+
+El Sujeto Obligado tendrá un plazo de treinta días hábiles contados a partir del día siguiente de la presentación de la solicitud para realizar las modificaciones o expresar las razones fundadas y motivadas por las que no procedieron las mismas. En ambos casos, de procedencia o improcedencia, la Unidad de Información deberá notificarlo al interesado en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la presentación de la solicitud.
 
 ###### Artículo 52.
 
@@ -559,33 +709,53 @@ III. Que la información sea requerida por orden judicial;
 
 IV. Que la información sea requerida para la prestación de un servicio contratado a particulares por los Sujetos Obligados. En este caso la entrega de la información se hará una vez que se haya cubierto una fianza para garantizar la secrecía, el buen manejo de la información y que sólo se utilizará para los propósitos estrictamente señalados en el contrato. Dicha fianza no exime al contratista de las responsabilidades en que pudiera incurrir por el uso indebido de la información. Una vez terminado el contrato, el particular devolverá los datos personales que para uso exclusivo y temporal le fueron otorgados;
 
-V. Los demás casos que expresamente señalen otras leyes y los reglamentos respectivos.
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+V. Que los datos figuren en fuentes accesibles al público y su uso sea necesario, siempre que no se vulneren los derechos y libertades fundamentales del interesado;
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VI. Para el ejercicio de las atribuciones propias de los sujetos obligados;
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VII. Cuando se transmitan entre sujetos obligados o entre dependencias y entidades, siempre y cuando los datos se utilicen para el ejercicio de facultades propias de los mismos; y
+
+VIII. Los demás casos que expresamente señalen otras leyes y los reglamentos respectivos.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+En ningún caso los datos personales podrán ser utilizados para fines electorales o de proselitismo por partido político alguno, y sólo se emplearán para los fines previstos en esta Ley o en la especial en la materia.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 53.
 
-Las personas o sus representantes legales, podrán solicitar información de sus datos personales. La Unidad de Información tendrá un plazo de diez días hábiles, contados a partir de recibida la solicitud para entregar los datos.
+Las personas o sus representantes legales, podrán solicitar información, corrección o supresión de sus datos personales. La Unidad de Información tendrá un plazo de quince días hábiles contados a partir del día siguiente de la presentación de la solicitud para atenderla.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 54.
 
-Los trámites que se realicen para el procedimiento previsto en este capítulo, así como la entrega de la información requerida será gratuita.
+Los trámites que se realicen para el procedimiento previsto en este capítulo, así como la entrega de la información que contenga datos personales será gratuita; el particular solamente deberá cubrir los gastos de envío. No obstante, si la misma persona realiza una nueva solicitud respecto de la misma fuente de datos personales en un periodo menor a seis meses a partir de la última solicitud, deberá cubrir los costos de reproducción de acuerdo con la tarifa establecida.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 55.
 
-Las Unidades de Información deberán hacer del conocimiento del Instituto u órgano equivalente, las bases de datos personales que posean los Sujetos Obligados e informarle sobre su actualización.
+Las Unidades de Información deberán hacer del conocimiento del Instituto el listado de las bases de datos personales que posean los Sujetos Obligados e informarle sobre su actualización.
 
 ## TITULO QUINTO. DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION
 
 ### Capítulo I. De la Naturaleza y Atribuciones
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 56.
 
-Se crea el Organismo Público Descentralizado no sectorizado de carácter estatal denominado, "Instituto de Transparencia y Acceso a la Información Pública del Estado de México", dotado de personalidad jurídica y patrimonio propios, con autonomía operativa, presupuestaria y de decisión, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales.
+Se crea el Órgano Público Autónomo de carácter estatal denominado Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, dotado de personalidad jurídica y patrimonio propio, con autonomía operativa, presupuestaria y de decisión, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales.
 
-Para garantizar la autonomía de gestión, decisión y el cabal cumplimiento de su objeto, el Instituto queda exceptuado de lo establecido por el artículo 4, el segundo párrafo del artículo 9, así como por lo señalado en el Capítulo III salvo lo dispuesto en el artículo 16, y el artículo 23, todos de la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México, la cual en lo general no se aplicará en lo que se oponga a la presente Ley.
-
-El Instituto de Transparencia y Acceso de Información Pública del Estado de México, podrá modificar su estructura y base de organización, conforme al procedimiento que al efecto establezca el Consejo, cuando sea necesario, para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
+El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, podrá modificar su estructura y base de organización, conforme al procedimiento que al efecto establezca el Pleno, cuando sea necesario, para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
 
 ###### Artículo 57.
 
@@ -595,11 +765,13 @@ En su organización, funcionamiento y control, el Instituto se sujetará a lo es
 
 El Instituto aplicará las disposiciones del Libro Décimo Tercero del Código Administrativo del Estado de México, en lo que no se oponga a la presente Ley. Asimismo, determinará la conformación de sus comités a efecto de dar debido cumplimiento a lo dispuesto por dicho Código.
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 58.
 
-Para el ejercicio de sus atribuciones el Instituto tendrá acceso a la información pública, que se genere en el ámbito del Poder Ejecutivo; tratándose de información clasificada como reservada o confidencial, podrá conocerla para resolver medios de impugnación, determinando su debida clasificación o desclasificación y de no proceder esta última, continuará bajo el resguardo del sujeto obligado en cuya posesión originalmente se encontraba.
+Para el ejercicio de sus atribuciones, el Instituto tendrá acceso a la información pública que se genere en el ámbito de los Sujetos Obligados; tratándose de información clasificada como reservada o confidencial, podrá conocerla para resolver medios de impugnación, determinando su debida clasificación o desclasificación y de no proceder esta última, continuará bajo el resguardo del sujeto obligado en cuya posesión originalmente se encontraba.
 
-Los Sujetos Obligados señalados en el artículo 7 fracción I de esta Ley, deberán facilitar los trabajos del Instituto.
+Los Sujetos Obligados deberán facilitar los trabajos del Instituto.
 
 ###### Artículo 59.
 
@@ -613,19 +785,23 @@ I. Interpretar en el orden administrativo la presente Ley;
 
 II. Vigilar en el ámbito de su competencia el cumplimiento de la presente Ley;
 
-III. Establecer lineamientos y criterios de carácter obligatorio en materia de acceso a la información pública para las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, así como a la Procuraduría General de Justicia del Gobierno del Estado, y vigilar su cumplimiento;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-IV. Establecer lineamientos para el manejo, mantenimiento y seguridad de los datos personales, que estén en posesión de los Sujetos Obligados, señalados en la fracción anterior, y vigilar su cumplimiento;
+III. Establecer lineamientos y criterios de carácter obligatorio en materia de acceso a la información pública, a datos personales, corrección o supresión de éstos para todos los Sujetos Obligados de la Ley, y vigilar su cumplimiento;
 
-V. Emitir criterios para la clasificación y catalogación de la información pública y vigilar su cumplimiento;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+IV. Establecer lineamientos para el manejo, mantenimiento y seguridad de los datos personales que estén en posesión de los sujetos obligados, y vigilar su cumplimiento;
 
-VI. Formular recomendaciones a los Sujetos Obligados en lo referente al acceso a la información pública y a la protección de datos personales, así como de sus criterios de clasificación y lineamientos;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+V. Emitir criterios para la clasificación de la información pública y vigilar su cumplimiento;
 
-VII. Conocer y resolver los recursos de revisión que promuevan los particulares en contra de actos de los Sujetos Obligados señalados en la fracción I del artículo 7 de esta Ley. Dichas resoluciones tendrán efectos obligatorios y vinculatorios para los Sujetos Obligados señalados;
+VI. (DEROGADA, G.G. 24 DE JULIO DE 2008)
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VII. Conocer y resolver los recursos de revisión que promuevan los particulares en contra de actos de los sujetos obligados por esta Ley. Dichas resoluciones tendrán efectos de pleno derecho para los sujetos obligados;
 
 VIII. Solicitar a los Sujetos Obligados los datos para la integración de su informe anual, incluidas las consultas verbales atendidas;
 
@@ -633,7 +809,9 @@ IX. Proporcionar asesoría y apoyo técnico a los Sujetos Obligados para la elab
 
 X. Apoyar a los Sujetos Obligados en el cumplimiento de las obligaciones que les impone la presente Ley;
 
-XI. Hacer del conocimiento del órgano de control interno de cada dependencia, organismo auxiliar y fideicomiso de la Administración Pública Estatal, las presuntas infracciones a esta Ley. Las resoluciones finales que al respecto expidan los órganos de control interno y que hayan causado estado, deberán ser notificadas al Instituto, quien deberá hacerlas públicas a través de su informe anual;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XI. Hacer del conocimiento del órgano de control interno o equivalente de cada Sujeto Obligado las infracciones a esta Ley;
 
 XII. Elaborar formatos de solicitudes de acceso a la información pública y orientar a los particulares;
 
@@ -649,7 +827,9 @@ XVII. Rendir informe anual de actividades a través de su Presidente ante el Ple
 
 XVIII. Designar, a través de su Presidente, a los servidores públicos de su adscripción y administrar sus recursos materiales y financieros;
 
-XIX. Elaborar y remitir a la Secretaría de Finanzas, Planeación y Administración su proyecto de presupuesto anual para que sea integrado al Proyecto de Presupuesto del Gobierno del Estado;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XIX. Elaborar y remitir a la Secretaría de Finanzas su proyecto de presupuesto anual para que sea integrado al proyecto de presupuesto del Gobierno del Estado;
 
 XX. Expedir su Reglamento Interior y demás normas de operación; y (sic)
 
@@ -657,17 +837,17 @@ XX. Expedir su Reglamento Interior y demás normas de operación; y (sic)
 
 XXI. Administrar los recursos humanos, bienes y patrimonio del Instituto, así como determinar y autorizar su estructura orgánica y su personal.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XXII. Realizar de oficio y a petición de parte, si existieran elementos suficientes a juicio del Consejo del Instituto, análisis y recomendaciones, o en su caso, lineamientos en relación con presuntos incumplimientos a las disposiciones de la Ley;
+XXII. Realizar de oficio y a petición de parte, si existen elementos suficientes a juicio del Pleno del Instituto, análisis y recomendaciones, o en su caso, lineamientos en relación con presuntos incumplimientos a las disposiciones de la Ley;
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 XXIII. Emitir comunicados públicos sobre el incumplimiento de sus resoluciones o por infracciones reiteradas a la Ley, en el ámbito de su competencia;
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XXIV. Ordenar a los Sujetos Obligados señalados en la fracción I del artículo 7°, la entrega de información en términos de la presente Ley;
+XXIV. Ordenar a los sujetos obligados la ejecutoría en la entrega de información en términos de la presente Ley;
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -677,67 +857,87 @@ XXV. Revisar los criterios de clasificación, desclasificación y custodia de la
 
 XXVI. Establecer procedimientos para verificar las acciones realizadas por los Sujetos Obligados en el cumplimiento de sus obligaciones en términos de la presente Ley;
 
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XXVII. Nombrar al Contralor Interno del Instituto; y
+
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XXVII. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
+XXVIII. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
 
 ### Capítulo II. De la Administración e Integración del Instituto
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 61.
 
-La dirección y administración del Instituto estará a cargo de un Consejo y su Presidente, quien tendrá la representación legal del organismo.
+La dirección y administración del Instituto estará a cargo de un Pleno y su Presidente, quien tendrá la representación legal del Órgano, así como las facultades que le confiera el Pleno en el Reglamento Interior.
 
-El Consejo estará integrado por dos consejeros y un Consejero Presidente designados por el Gobernador del Estado, cuyo nombramiento deberá hacerse del conocimiento de la Legislatura de manera inmediata.
+El Pleno estará integrado por cinco Comisionados, los cuales serán propuestos por el Gobernador del Estado y aprobados por la Legislatura. La designación de uno de estos Comisionados como Presidente, recaerá en la propia Legislatura.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-Las decisiones del Consejo se harán constar en actas en las que sólo se asentarán los asuntos a tratar y los acuerdos tomados.
+Las decisiones de los Comisionados se harán constar en actas en las que sólo se asentarán los asuntos a tratar y los acuerdos tomados.
 
 ###### Artículo 62.
 
-La Legislatura o la Diputación Permanente, en su caso, podrán objetar por mayoría de sus integrantes alguno o algunos de los nombramientos, en un plazo no mayor de diez días hábiles posteriores al nombramiento. Vencido este plazo sin que se emita resolución al respecto se entenderán por no objetados los nombramientos del Ejecutivo.
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
-Si existiese objeción a alguno o algunos de los nombramientos, el Gobernador del Estado deberá proceder a efectuar nuevos nombramientos, que desde luego serán comunicados al Poder Legislativo para los efectos del párrafo anterior, en un plazo no mayor de diez días hábiles.
-
-En caso de que por segunda ocasión existan objeciones, el Gobernador del Estado hará nuevos nombramientos que no admitirán objeción.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 63.
 
-Los Consejeros y el Consejero Presidente desempeñarán su cargo por un período de cuatro años; y, en lo individual, podrán ser ratificados para fungir por otro periodo igual, o ser nuevamente designados con distintos nombramientos, en este supuesto, al término de su gestión no podrán ser ratificados.
+Los Comisionados y el Comisionado Presidente desempeñarán su cargo por un periodo de cinco años; y, en lo individual, podrán ser ratificados para fungir por otro periodo igual, o ser nuevamente designados con distintos nombramientos, en este supuesto al término de su gestión no podrán ser ratificados.
 
 En todo caso, deberá observarse el mismo procedimiento que se siguió para la primera designación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 64.
 
-Los Consejeros y el Consejero Presidente solo podrán ser removidos de su cargo y destituidos por las causales siguientes:
+Los Comisionados y el Comisionado Presidente sólo podrán ser removidos de su cargo y destituidos por las causales siguientes:
 
 I. Cuando en ejercicio de sus funciones transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución General de la República, la Particular del Estado y esta Ley, o incurra en alguna responsabilidad administrativa que amerite su destitución; lo cual deberá ser calificado por las dos terceras partes de los integrantes (sic) Legislatura del Estado;
 
 II. Cuando hayan sido condenados por un delito que merezca pena corporal, mediante sentencia ejecutoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 65.
 
-El procedimiento para la destitución de los integrantes del Consejo, por alguna de las causas establecidas en la fracción I del artículo anterior, se sujetará a las reglas siguientes:
+El Procedimiento para la destitución de los integrantes del Pleno, por alguna de las causales establecidas en la fracción I del artículo anterior, se sujetará a las reglas siguientes:
 
-I. Será iniciado por el Titular del Ejecutivo o por una cuarta parte de los integrantes de la Legislatura;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-II. Si es iniciado por el Titular del Ejecutivo, lo hará del conocimiento de inmediato, de la Legislatura, para que ésta proceda conforme a la fracción siguiente.
+l. Será iniciado a solicitud de por lo menos la cuarta parte de los integrantes de la Legislatura, o a propuesta del Titular del Ejecutivo;
 
-III. Iniciado el procedimiento, la Legislatura del Estado citará al o a los Consejeros inculpados, para que comparezcan a desahogar su garantía de audiencia, en la que podrán formular alegatos y ofrecer las pruebas que a sus intereses convengan.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Si es propuesto por el Titular del Ejecutivo, lo comunicará a la Legislatura, para que ésta proceda conforme a la fracción siguiente;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+III. Iniciado el procedimiento, la Legislatura del Estado citará al o a los Comisionados inculpados, para que comparezcan a desahogar su garantía de audiencia, en la que podrán formular alegatos y ofrecer las pruebas que a sus intereses convengan;
 
 IV. Desahogada la garantía de audiencia, la Legislatura del Estado determinará la responsabilidad del o de los inculpados, calificará la gravedad de la infracción, y resolverá, por las dos terceras partes de sus integrantes, si es el caso de proceder a la destitución;
 
-V. La resolución de la Legislatura que determine la destitución de alguno o algunos de los Consejeros, será comunicada al Titular del Ejecutivo para que proceda a la destitución y, en su oportunidad, a la designación de nuevos Consejeros.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+V. La resolución de la Legislatura que determine la destitución de alguno o algunos de los Comisionados, será comunicado al Titular del Ejecutivo para que proponga a los nuevos Comisionados.
 
 En el supuesto de que la Legislatura resuelva que no es el caso de proceder a la destitución, se dará por terminado el procedimiento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 66.
 
-Para ser Consejero se requiere:
+Para ser Comisionado se requiere:
 
-I. Ser Mexiquense en los términos establecidos por el artículo 23 de la Constitución Política del Estado Libre y Soberano de México;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-II. Tener más de veinticinco años de edad;
+l. Cumplir con cualquiera de las calidades señaladas en el artículo 23 de la Constitución Política del Estado Libre y Soberano de México, o tener, cuando menos, un año de residencia fija en determinado lugar del territorio de la entidad;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Tener más de treinta años de edad a la fecha de su nombramiento;
 
 III. Gozar de buena reputación y no haber sido condenado por delito que merezca pena corporal;
 
@@ -745,7 +945,9 @@ IV. No tener ni haber tenido cargo alguno de elección popular ni haber sido pos
 
 V. No haber sido titular de alguna de las secretarías de la administración pública estatal ni Procurador General de Justicia del Estado durante un año previo a su designación;
 
-VI. Contar con título profesional de alguna licenciatura y tener conocimientos en la materia;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VI. Contar con título profesional y tener conocimientos en la materia;
 
 VII. Gozar de prestigio social y profesional;
 
@@ -755,21 +957,19 @@ IX. No ser ni haber sido ministro de culto por lo menos cinco años antes de su 
 
 ###### Artículo 67.
 
-Para ser Consejero Presidente, además de lo establecido por las fracciones I, III, V, VI y VII del artículo anterior, se requiere:
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
-I. Tener más de 30 años de edad;
-
-II. No tener ni haber tenido cargo alguno de elección popular ni haber sido postulado como candidato, en los últimos diez años anteriores a la designación;
-
-III. No ser ni haber sido militante o dirigente de partido o asociación política alguna, por lo menos diez años antes de su designación;
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 68.
 
-Durante su gestión los Consejeros y el Consejero Presidentes no podrán desempeñar ningún otro empleo, cargo o comisión, salvo las docentes en instituciones educativas o alguna de beneficencia que no implique remuneración siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Instituto.
+Durante su gestión los Comisionados y el Comisionado Presidente no podrán desempeñar ningún otro empleo, cargo o comisión, salvo las docentes en instituciones educativas o alguna de beneficencia que no implique remuneración, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Instituto.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 69.
 
-A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará con la estructura orgánica y funcional necesaria.
+A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará con la estructura orgánica y funcional necesaria, así como con un Contralor Interno quien tendrá las facultades que le establezca el Reglamento Interior.
 
 ### Capítulo III. De los Medios de Impugnación
 
@@ -777,25 +977,29 @@ A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará c
 
 En las respuestas desfavorables a las solicitudes de acceso a la información pública o de corrección de datos personales, las unidades de información deberán informar a los interesados el derecho y plazo que tienen para promover recurso de revisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 71.
 
-En el ámbito del Poder Ejecutivo, los particulares podrán interponer recurso de revisión cuando:
+Los particulares podrán interponer recurso de revisión cuando:
 
 I. Se les niegue la información solicitada;
 
 II. Se les entregue la información incompleta o no corresponda a la solicitada;
 
-III. Se les niegue modificar, corregir o resguardar la confidencialidad de los datos personales;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+III. Se les niegue el acceso, modificar, corregir o resguardar la confidencialidad de sus datos personales; y
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 IV. Se considere que la respuesta es desfavorable a su solicitud.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 72.
 
-El recurso de revisión se presentará por escrito ante la Unidad de Información correspondiente, o vía electrónica por medio del sistema automatizado de solicitudes respectivo, dentro del plazo de 15 días hábiles, contado a partir de la fecha en que el afectado tuvo conocimiento de la resolución respectiva.
+El recurso de revisión se presentará por escrito ante la Unidad de Información correspondiente, o vía electrónica por medio del sistema automatizado de solicitudes respectivo, dentro del plazo de 15 días hábiles, contados a partir del día siguiente de la fecha en que el afectado tuvo conocimiento de la resolución respectiva.
 
 ###### Artículo 73.
 
@@ -819,27 +1023,55 @@ Al escrito de recurso deberá acompañarse copia del escrito que contenga el act
 
 El Instituto subsanará las deficiencias de los recursos en su admisión y al momento de su resolución; asimismo, establecerá las condiciones necesarias para que los particulares puedan establecer sus recursos de manera electrónica.
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 75.
 
-Recibido el recurso de revisión, el consejero presidente, en un plazo no mayor de tres días hábiles, lo turnará a un consejero quien será designado ponente, quien presentará al Consejo el expediente con el proyecto de resolución. El Consejo resolverá en definitiva dentro de un plazo de treinta días hábiles siguientes a la fecha de interposición del recurso.
+Recibido el recurso de revisión, el Comisionado Presidente, en un plazo no mayor de tres días hábiles, lo turnará a un Comisionado quien será designado ponente, quien presentará al Pleno el expediente con el proyecto de resolución. El Pleno resolverá en definitiva dentro de un plazo de treinta días hábiles siguientes a la fecha de interposición del recurso.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 75 Bis.
+
+Las resoluciones deberán contener lo siguiente:
+
+l. Lugar, fecha en que se pronuncia, el nombre del recurrente, sujeto obligado y extracto breve de los hechos cuestionados;
+
+II. Los preceptos que la fundamenten y las consideraciones que la sustenten;
+
+III. Los alcances y efectos de la resolución, fijando con precisión, en su caso los órganos obligados a cumplirla; y
+
+IV. Los puntos resolutivos.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Artículo 75 Bis A.- El recurso será sobreseído cuando:
+
+l. El recurrente se desista expresamente del recurso;
+
+II. El recurrente fallezca o, tratándose de personas morales, se disuelva;
+
+III. La dependencia o entidad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que el medio de impugnación quede sin efecto o materia.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 76.
 
-La resolución del Instituto deberá remitirse a la Unidad de Información, una vez que haya causado estado quien deberá cumplimentarla dentro del plazo de diez días hábiles.
+La resolución del Instituto deberá remitirse a la Unidad de Información, quien deberá cumplirla dentro del plazo de quince días hábiles.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 77.
 
-Las prescripciones contenidas en el presente capítulo serán aplicables a los Poderes Legislativo y Judicial, a los Municipios del Estado, a los Órganos Autónomos y Tribunales Administrativos.
+Las prescripciones contenidas en el presente capítulo serán aplicables a los Poderes Legislativo, Ejecutivo y Judicial, a los Municipios del Estado, a los Órganos Autónomos y Tribunales Administrativos.
 
-En estos casos el recurso de revisión será resuelto por el servidor público que determinen las disposiciones legales o reglamentarias respectivas.
+En estos casos el recurso de revisión será resuelto por el Instituto.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 78.
 
-En contra de las resoluciones dictadas en los recursos de revisión por el Instituto o por los ayuntamientos, los particulares afectados podrán promover el juicio administrativo ante el Tribunal de lo Contencioso Administrativo.
-
-Las resoluciones que dicten los demás sujetos obligados, en materia del recurso de revisión, no admitirán medio de defensa ordinario alguno.
+Las resoluciones que dicte el Instituto en los recursos de revisión serán definitivas para los sujetos obligados en la presente Ley. Se resguarda el derecho de los particulares a impugnar las resoluciones referidas por la vía del Juicio de Amparo, en los términos de las leyes aplicables.
 
 ###### Artículo 79.
 
@@ -851,25 +1083,11 @@ La Comisión de Derechos Humanos del Estado de México tendrá la intervención 
 
 ###### Artículo 80.
 
-Los Poderes Legislativo y Judicial del Estado; los Municipios; los Tribunales Administrativos y los órganos autónomos, en el ámbito de sus respectivas competencias, establecerán el órgano equivalente al del Título Quinto de la presente ley, para proporcionar y garantizar a los particulares el acceso a la información y la protección de los datos personales, de conformidad con lo previsto en esta Ley.
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
 ###### Artículo 81.
 
-Las disposiciones que los Sujetos Obligados emitan deberán señalar:
-
-I. Las unidades de información responsables de publicar la información a que se refiere el artículo 12;
-
-II. El Comité de información o su equivalente;
-
-III. El servidor público habilitado o su equivalente;
-
-IV. Los criterios y procedimientos de clasificación y conservación de la información reservada o confidencial;
-
-V. Una instancia interna responsable de aplicar la Ley, resolver los recursos, y las demás facultades que le otorga este ordenamiento.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-Cualquier disposición que emitan los Sujetos Obligados deberá observar los principios y enunciados normativos de la presente Ley, y en ningún caso podrán ir en contra de la misma.
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
 ## TITULO SEPTIMO. DE LAS RESPONSABILIDADES Y LAS SANCIONES
 
@@ -891,35 +1109,53 @@ V. Entregar información clasificada como confidencial fuera de los casos previs
 
 VI. Vender, sustraer o publicitar la información clasificada;
 
-VII. Hacer caso omiso de los requerimientos y resoluciones del Instituto o del órgano equivalente, en su caso;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VII. Hacer caso omiso de los requerimientos y resoluciones del Instituto;
 
 VIII. En general dejar de cumplir con las disposiciones de esta ley.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE JULIO DE 2008)</small>
 
-El Instituto, por acuerdo de su Consejo podrá realizar un extrañamiento público al servidor público que actualice alguna de las causas de responsabilidad administrativa, establecidas en esta Ley y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin necesidad de que inicie el procedimiento administrativo disciplinario.
+El Instituto aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios, para sancionar a quienes no cumplan las obligaciones de la presente Ley.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+El Instituto remitirá las resoluciones que impongan sanciones para efectos de registro a la Secretaría de la Contraloría del Poder Ejecutivo y a las instancias homólogas de los demás sujetos obligados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 24 DE JULIO DE 2008)</small>
+
+El Instituto, por acuerdo del Pleno podrá realizar un extrañamiento público al sujeto obligado que actualice alguna de las causas de responsabilidad administrativa, establecidas en esta Ley y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin necesidad de que inicie el procedimiento administrativo disciplinario.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 83.
 
-Los servidores públicos de los sujetos obligados que incurran en las responsabilidades administrativas establecidas en el artículo anterior, serán castigados con las sanciones máximas establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+Los servidores públicos de los sujetos obligados que incurran en las responsabilidades administrativas establecidas en el artículo anterior, serán sancionados de acuerdo con la gravedad de la conducta incurrida y conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
 
-En caso de reincidencia de cualquiera de los supuestos descritos en el artículo 82, la sanción correspondiente será duplicada.
+El Instituto deberá considerar como elemento agravante la reincidencia en que incurran los servidores públicos al momento de determinar la aplicación de la sanción correspondiente.
 
 ###### Artículo 84.
 
 La atención extemporánea de las solicitudes de información no exime a los servidores públicos de la responsabilidad administrativa en que hubiese incurrido en términos de este capítulo.
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 ###### Artículo 85.
 
-En los casos en que el Instituto o el órgano equivalente, en su caso, determine que por negligencia no se hubiese atendido alguna solicitud en los términos de esta ley, requerirá a la Unidad de Información correspondiente para que proporcione la información sin costo alguno para el solicitante, dentro del plazo de diez días hábiles a partir del requerimiento.
+En el caso de que el Instituto determine que por negligencia no se hubiere atendido alguna solicitud en los términos de esta ley, requerirá a la Unidad de Información correspondiente para que proporcione la información sin costo alguno para el solicitante, dentro del plazo de quince días hábiles a partir del requerimiento.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 86.
 
-Los servidores públicos de los sujetos obligados que de acuerdo con el Instituto a los órganos equivalentes, hagan caso omiso a los requerimientos y resoluciones para la entrega de la información, podrán ser sancionados conforme a los ordenamientos aplicables y, en su caso, lo harán del conocimiento del Ministerio Público, quien deberá investigar dichas conductas.
+Los servidores públicos de los sujetos obligados que de acuerdo con el Instituto, hagan caso omiso de los requerimientos y resoluciones para la entrega de la información, podrán ser sancionados conforme a los ordenamientos aplicables y, en su caso, lo harán del conocimiento del Ministerio Público, quien deberá investigar dichas conductas.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 87.
+
+Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el artículo anterior, son independientes de las de orden civil y penal que procedan, así como los procedimientos para el resarcimiento del daño ocasionado por el sujeto obligado.
 
 T R A N S I T O R I O S
 
@@ -990,3 +1226,31 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de México, contenida en el presente Decreto, entrará en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y de los municipios, correspondientes al ejercicio fiscal 2006.
+
+G.G. 24 DE JULIO DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dos de los Comisionados del Instituto deberán ser propuestos por el Gobernador del Estado dentro de los treinta días siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- Los Consejeros en funciones concluirán su encargo en los términos de sus nombramientos originales y serán elegibles para un nuevo periodo tal y como lo establece la Ley en vigor a la fecha de su nombramiento.
+
+QUINTO.- Los sujetos obligados, en el ámbito de sus competencias, realizarán las adecuaciones requeridas para dar cumplimiento al presente decreto dentro de los 60 días hábiles siguientes al de su entrada en vigor.
+
+SEXTO.- Se extingue el Organismo Público Descentralizado no sectorizado de carácter Estatal denominado Instituto de Transparencia y Acceso a la Información Pública del Estado de México.
+
+SÉPTIMO.- El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios aplicará las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a lo establecido por el presente decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+OCTAVO.- Los recursos humanos, materiales y financieros con los que venía operando el Instituto de Transparencia y Acceso a la Información Pública del Estado de México, como organismo público descentralizado, se transferirán al órgano autónomo.
+
+NOVENO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos al organismo público descentralizado que pasen a formar parte del órgano autónomo.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en el Instituto de Transparencia y Acceso a la Información Pública del Estado de México, como organismo público descentralizado, al momento de la entrada en vigor del presente decreto, serán atendidos hasta su conclusión por el órgano autónomo, de conformidad con las atribuciones que le confiere el presente decreto. Los procedimientos y recursos administrativos iniciados al amparo de la Ley vigente, y que se encuentren en trámite al entrar en vigor el presente ordenamiento, se sustanciarán y resolverán conforme a la disposición legal anterior.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y actos que se encuentren en trámite al momento de la entrada en vigor del presente decreto a favor del Instituto de Transparencia y Acceso a la Información Pública del Estado de México, se entenderán transferidos o aplicables al órgano autónomo, a partir de la fecha de entrada en vigor del presente decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia al Instituto de Transparencia y Acceso a la Información Pública del Estado de México, como organismo público descentralizado se entenderá al órgano autónomo.
+
+DÉCIMO TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente decreto.
