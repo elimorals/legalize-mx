@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2008-07-05"
+last_updated: "2008-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -68,6 +68,10 @@ El Estado de Jalisco adopta para su régimen interno, la forma de gobierno repub
 ###### Art. 3º.
 
 El territorio del Estado es el que por derecho le corresponde.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2008)</small>
+
+Los municipios del estado son aquellos señalados en la ley que establece las bases generales de la administración pública municipal.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -449,6 +453,10 @@ El poder público del Estado se divide para su ejercicio en Legislativo, Ejecuti
 
 Los poderes del Estado deben residir en la capital del mismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2008)</small>
+
+Todos los órganos, dependencias, entidades u organismos estatales de carácter público que establezcan las leyes, formarán parte de los poderes del Estado a que se refiere el presente artículo, con excepción de los organismos públicos autónomos que crea esta Constitución.
+
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
 ###### Art. 15.
@@ -589,9 +597,7 @@ VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario de
 
 VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo de la Judicatura, Presidente Municipal, Regidor o Síndico de Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
-
-IX. En el caso de quien ya hubiere sido diputado local, probar que la última vez que lo fue, cumplió con la fracción I del artículo 28 de la Constitución Política del Estado de Jalisco; si no cumplió, se requiere transcurran cuando menos ocho años a partir de la conclusión de tal cargo;
+IX. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE JULIO DE 2008)
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
@@ -621,11 +627,11 @@ Los diputados son inviolables por la manifestación de sus ideas en el ejercicio
 
 El Congreso del Estado se instalará cada tres años, el día primero de noviembre del año de la elección, conforme al procedimiento que se determine en su Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2008)</small>
 
 ###### Art. 25.
 
-El Congreso sesionará por lo menos dos veces por semana durante los períodos comprendidos del primero de febrero al treinta y uno de marzo y del quince de septiembre al quince de diciembre de cada año, fuera de los cuales sesionará al menos dos veces por mes.
+El Congreso sesionará por lo menos cuatro veces al mes durante los periodos comprendidos del 1.º de febrero al 31 de marzo y del 1.º de octubre al 31 de diciembre de cada año, fuera de los cuales sesionará al menos una vez al mes.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -651,37 +657,23 @@ No se necesita esta declaración para los diputados que no hayan rendido la prot
 
 ### CAPITULO II. De la iniciativa y formación de las leyes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2008)</small>
 
 ###### Art. 28.
 
-La facultad de presentar iniciativas de leyes y decretos, corresponde:
+La facultad de presentar iniciativas de leyes y decreto (sic), corresponde a:
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
+I. Los diputados;
 
-I. A los diputados;
+II. El Gobernador del Estado;
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1999)</small>
+III. El Supremo Tribunal, en asuntos del ramo de justicia, y
 
-Es obligación de cada diputado formular y presentar al menos una iniciativa de ley dentro del tiempo que dure su ejercicio.
+IV. Los ayuntamientos, en asuntos de competencia municipal.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
+Pueden presentar iniciativas de ley los ciudadanos inscritos en el Registro Nacional de Ciudadanos correspondiente al estado, cuyo número represente cuando menos el 0.5 por ciento del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia.
 
-II. Al Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
-
-III. Al Supremo Tribunal, en asuntos del ramo de justicia; y
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
-
-IV. A los ayuntamientos, en asuntos de competencia municipal.
-
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-V. A los ciudadanos inscritos en el Registro Nacional de Ciudadanos correspondiente al Estado, cuyo número represente cuando menos el .5 por ciento del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia.
-
-Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas dentro del término de dos meses, contados a partir del día en que hubieren sido turnadas por el pleno a la comisión correspondiente.
+Dichas iniciativas deberán ser dictaminadas en los términos que establezca la ley en la materia.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -727,21 +719,33 @@ Se considerará aprobado por el Ejecutivo todo proyecto que no se devuelva con o
 
 El proyecto de ley al que se hubieren hecho observaciones, será sancionado y publicado si el Congreso vuelve a aprobarlo por los dos tercios del número total de sus miembros presentes.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2008)</small>
 
-Todo proyecto de ley al que no hubiese hecho observaciones el Ejecutivo dentro del término que establece este artículo, debe ser publicado en un plazo de quince días como máximo, contados a partir de la fecha en que lo haya recibido.
+Todo proyecto de ley o decreto al que no hubiese hecho observaciones el Ejecutivo dentro del término que establece este artículo, debe ser publicado en un plazo de veinte días, como máximo, contados a partir de la fecha en que lo haya recibido.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2008)</small>
 
-Los proyectos de ley objetados por el Gobernador del Estado y que ratifique el Congreso, deberán ser publicados en un término que no exceda de ocho días, contados a partir de la fecha en que los haya recibido nuevamente.
+Los proyectos de ley o decreto objetados por el Gobernador del Estado y que ratifique el Congreso del Estado, deberán ser publicados en un término que no exceda de ocho días, contados a partir de la fecha en que los haya recibido nuevamente.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2008)</small>
 
-La facultad prevista en el presente artículo, no comprenderá la aprobación de la Ley Orgánica del Poder Legislativo y sus reglamentos, las cuentas públicas, las resoluciones que dicte el Congreso como Jurado, los decretos que con motivo de un proceso de referéndum declaren derogada una ley o disposición, ni el voto que tenga que emitir en su calidad de Constituyente Permanente Federal en los términos que determina para tal efecto la Constitución Política de los Estados Unidos Mexicanos.
+La facultad de objetar proyectos de ley o decreto no comprenderá lo siguiente:
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2003)</small>
+I. La aprobación, modificación, derogación o abrogación de la Ley Orgánica del Poder Legislativo y los reglamentos internos que se deriven;
 
-La Ley Orgánica del Poder Legislativo y sus reglamentos, así como sus reformas, adiciones o derogaciones no necesitarán de promulgación del Ejecutivo para tener vigencia. La minuta correspondiente será remitida directamente por los Secretarios del Congreso al Periódico Oficial del Estado para su publicación dentro del plazo que establece el quinto párrafo del presente artículo.
+II. La revisión y fiscalización de las cuentas públicas de las autoridades del Estado y de los municipios;
+
+III. Las resoluciones que dicte el Congreso como Jurado;
+
+IV. Los decretos que con motivo de un proceso de referéndum declaren derogada una ley o disposición;
+
+V. Los nombramientos que en ejercicio de sus facultades realice el Congreso del Estado, y
+
+VI. El voto que tenga que emitir en su calidad de constituyente permanente federal, en los términos que determina para tal efecto la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2008)</small>
+
+Las leyes y decretos a que se refieren las fracciones anteriores, para efectos de la publicación por parte del Poder Ejecutivo, deberán ser enviadas al Periódico Oficial del Estado, debiendo publicarse dentro del plazo que establece el quinto párrafo del presente artículo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2279,15 +2283,21 @@ Queda estrictamente prohibido para las autoridades competentes, establecer en lo
 
 La infracción de este artículo constituye causal de responsabilidad, misma que se sancionará en la forma y términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2008)</small>
 
 ###### Art. 112.
 
-Todo cargo público de elección popular es incompatible con algún otro de la Federación o del Estado, cuando por ambos se perciba sueldo, salvo los de los ramos de docencia, investigación científica y beneficencia.
+Todo cargo público de elección popular es incompatible con algún otro de la Federación, del Estado o del Municipio, cuando por ambos se perciba sueldo, salvo de los ramos de docencia, investigación científica y beneficencia.
 
-Los diputados, el Gobernador y los magistrados, durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo del Estado o de la Federación, por los cuales se disfrute sueldo o gratificación, sino con licencia previa del Congreso; pero, entonces, cesarán en sus funciones respectivas mientras dure la nueva ocupación. Se exceptúan los empleos y comisiones de docencia, culturales, científicos y de beneficencia, los cuales se podrán desempeñar sin incurrir en incompatibilidad.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2008)</small>
+
+Los diputados, el Gobernador y los magistrados, durante el periodo de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo o gratificación, sino con licencia previa del Congreso; pero, entonces, cesarán en sus funciones respectivas mientras dure la nueva ocupación. Se exceptúan los empleos y comisiones de docencia, culturales, científicos y de beneficencia, los cuales se podrán desempeñar sin incurrir en incompatibilidad.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 La infracción de estas disposiciones será castigada conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Los magistrados, aun cuando gocen de licencia, además del impedimento a que se refiere el párrafo segundo de este artículo, no podrán ejercer su profesión de abogado ni patrocinar negocios judiciales ante los tribunales.
 
@@ -2950,3 +2960,9 @@ OCTAVO. Se derogan todas las disposiciones que contravengan el presente decreto.
 NOVENO. El Instituto Electoral y de Participación Ciudadana del estado de Jalisco deberá realizar una evaluación de la distribución de distritos locales, con base en el censo general de población que se realice en el año 2010.
 
 DÉCIMO. El proceso electoral 2009, iniciará con la convocatoria que apruebe y publique el Instituto Electoral y de Participación Ciudadana del estado de Jalisco, en la primera semana de diciembre de 2008.
+
+P.O. 24 DE JULIO DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Notifíquese a los municipios del estado de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
