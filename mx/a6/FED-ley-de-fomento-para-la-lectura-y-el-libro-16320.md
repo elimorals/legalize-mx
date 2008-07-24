@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fomento-para-la-lectura-y-el-libro-16320"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2000-06-08"
+last_updated: "2008-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16320&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,11 @@ abbreviation: "LFLL"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, PUBLICADA EN EL D.O.F. DE 24 DE JULIO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 8 de junio de 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de junio de 2000.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -189,3 +191,17 @@ Artículo Tercero.- Para elegir a los titulares de los Institutos de Cultura, la
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de junio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE JULIO DE 2008.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Con la publicación de la presente Ley y su entrada en vigor se abroga la Ley de Fomento para la Lectura y el Libro publicada en el Diario Oficial de la Federación el 8 de junio del año 2000.
+
+Artículo Tercero.- En el término de noventa días contados a partir de la entrada en vigor de la presente Ley deberá formarse el Consejo Nacional de Fomento para el Libro y la Lectura con base en lo establecido en los artículos 12 y 14 de la presente Ley. De no hacerlo, convocará la Secretaría Ejecutiva.
+
+Artículo Cuarto.- El Consejo Nacional de Fomento para el Libro y la Lectura deberá expedir su manual de operación y programa de trabajo a los sesenta días de su integración.
+
+Artículo Quinto.- El Programa de Fomento para el Libro y la Lectura establecido en el artículo 6 de la presente Ley tendrá que ser expedido por el Secretario de Educación Pública en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor de esta Ley.
