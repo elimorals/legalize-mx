@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2008-07-18"
+last_updated: "2008-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -935,7 +935,7 @@ La extinción de la potestad de ejecutar las penas y medidas de seguridad corres
 
 ###### ARTICULO 102.
 
-Si durante la ejecución de las penas o medidas de seguridad se advierte una causa de extinción de la pretensión punitiva o la potestad ejecutiva, sin que esta circunstancia se hubiere hecho valer durante el período de preparación del ejercicio de la acción penal o en el proceso, se solicitará ante el Órgano Jurisdiccional que hubiere conocido del asunto la libertad absoluta del reo resolviéndose lo procedente.
+Si durante la ejecución de las penas o medidas de seguridad se advierte una causa de extinción de la pretensión punitiva o la potestad ejecutiva, sin que esta circunstancia se hubiere hecho valer durante el período de preparación del ejercicio de la acción penal o en el proceso, se solicitará ante el Organo Jurisdiccional que hubiere conocido del asunto la libertad absoluta del reo resolviéndose lo procedente.
 
 ### CAPITULO IV. AMNISTIA
 
@@ -2139,6 +2139,8 @@ Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la exi
 
 DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2008)</small>
+
 ###### ARTICULO 217.
 
 A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que con conocimiento de ese parentesco tengan cópula entre sí, se les impondrá prisión de 3 meses a 3 años.
@@ -2261,7 +2263,19 @@ II. Procure o facilite la realización de las conductas ilícitas señaladas en 
 
 ###### ARTICULO 228.
 
-Al que maneje un vehículo de motor hallándose en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos, substancias volátiles inhalables u otras que impidan o perturben su adecuada conducción, se le aplicará prisión de 3 meses a 2 años.
+Al que maneje un vehículo de motor hallándose en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos, substancias volátiles inhalables u otras que impidan o perturben su adecuada conducción, se le aplicará prisión de 3 meses a 2 años o de noventa a trescientas sesenta horas de trabajo a favor de la comunidad y de 50 a 200 días multa e inhabilitación de tres meses a un año para manejar vehículos de motor, independientemente de las sanciones que correspondan por la comisión de otros delitos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JULIO DE 2008)</small>
+
+En caso de reincidencia, se le aplicará prisión de 6 meses a 3 años o de trescientas sesenta a setecientas veinte horas de trabajo a favor de la comunidad de 100 a 300 días multa e inhabilitación por un año o de manera definitiva para manejar vehículos de motor, independientemente de las sanciones que correspondan por la comisión de otros delitos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JULIO DE 2008)</small>
+
+Se duplicarán las sanciones establecidas en el párrafo anterior al que maneje un vehículo de motor hallándose en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos, substancias volátiles inhalables u otras que impidan o perturben su adecuada conducción y cause una lesión que produzca incapacidad parcial o total permanente o provoque la muerte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JULIO DE 2008)</small>
+
+Las sanciones previstas en este artículo se impondrán sin perjuicio del concurso de delitos.
 
 Si este delito se comete por conductores de vehículos de transporte escolar o de servicio público de pasajeros o de carga, se duplicará la pena señalada en el párrafo anterior.
 
@@ -3151,7 +3165,7 @@ III.- Promueva incidentes o recursos o use medios notoriamente improcedentes o i
 
 IV.- A sabiendas alegue hechos falsos;
 
-V.- Con el carácter de defensor, abogado patrono o apoderado, no ofrezca ni rinda pruebas dentro de los plazos previstos por la Ley, si está en posibilidad de hacerlo y corresponden a la naturaleza y estado del asunto;
+V.- Con el carácter de defensor, abogado patrono o apoderado, no ofrezca ni rinda pruebas dentro de los plazos previstos por la Ley, si esta en posibilidad de hacerlo y corresponden a la naturaleza y estado del asunto;
 
 VI.- Como defensor, sea particular o de oficio, sólo se concrete a aceptar el cargo y a solicitar la libertad caucional del inculpado, sin promover más pruebas ni dirigirlo en su defensa, o
 
@@ -3736,3 +3750,7 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan a la 
 P.O. 18 DE JULIO DE 2008.
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
+
+P.O. 25 DE JULIO DE 2008.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro.
