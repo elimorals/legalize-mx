@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2008-07-24"
+last_updated: "2008-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2008.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -287,7 +287,7 @@ La ley fijará las causales de nulidad de las elecciones de Gobernador, Diputado
 
 La ley establecerá los supuestos y las reglas para el ejercicio de los medios de apremio para hacer cumplir de manera expedita sus resoluciones.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 14.
 
@@ -513,7 +513,7 @@ Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electo
 
 No podrán reunirse dos o más poderes del Estado en una sola persona o corporación ni depositarse el Legislativo en un individuo, salvo en el caso previsto por la fracción XI del artículo 61 de esta Constitución.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 37.
 
@@ -677,7 +677,11 @@ III. Al Tribunal Superior de Justicia en todo lo relacionado con la organizació
 
 IV. A los ayuntamientos en los asuntos que incumben a los municipios, y en general, tratándose de la administración pública y gobierno municipales en cualquier materia referente a sus facultades y a las concurrentes con los demás ámbitos de gobierno;
 
-V. A los ciudadanos del Estado, en todo los ramos de la administración.
+V. A los ciudadanos del Estado, en todo los ramos de la administración;
+
+> <small>(ADICIONADA, G.G. 25 DE JULIO DE 2008)</small>
+
+VI. A la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2918,6 +2922,12 @@ PRIMERO.- Publíquese este decreto en el Periódico Oficial "Gaceta del Gobierno
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por el presente decreto.
+
+G.G. 25 DE JULIO DE 2008.
+
+PRIMERO.- publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
