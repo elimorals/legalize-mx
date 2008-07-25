@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2007-07-25"
+last_updated: "2008-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -585,13 +585,13 @@ En el cumplimiento de sus funciones el Congreso del Estado integrará Comisiones
 
 Ninguna Comisión se integrará con Diputados de un sólo Partido.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 67.
 
 Serán Comisiones Permanentes las siguientes:
 
-I. De Puntos Constitucionales y Gobernación;
+l. De Puntos Constitucionales y Gobernación;
 
 II. De Hacienda Pública y Administración;
 
@@ -605,7 +605,7 @@ VI. De Ecología;
 
 VII. De Desarrollo Económico;
 
-VIII. De Comunicaciones y Obras Pública;
+VIII. De Comunicaciones y Obras Públicas;
 
 IX. De Salud y Asistencia Social;
 
@@ -615,43 +615,35 @@ XI. De Asuntos Obreros y de Trabajo y Previsión Social;
 
 XII. De Derechos Humanos;
 
-XIII. De Glosa;
+XIII. De Fiscalización;
 
-XIV. De Vigilancia;
+XIV. De las Comunidades y Asuntos Indígenas;
 
-XV. De las Comunidades y Asuntos Indígenas;
+XV. De Turismo;
 
-XVI. De Turismo;
+XVI. De Pesca;
 
-XVII. De Pesca;
+XVII. De Asuntos Agropecuarios;
 
-XVIII. De Asuntos Agropecuarios;
+XVIII. De Protección Civil;
 
-XIX. De Protección Civil;
+XIX. De Seguridad Pública;
 
-XX. De Seguridad Pública;
+XX. De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
 
-XXI. De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
+XXI. De Equidad, Género y Familia;
 
-XXII. De Equidad, Género y Familia;
+XXII. De Protocolo y Régimen Orgánico Interior;
 
-XXIII. De Protocolo y Régimen Orgánico Interior;
+XXIII. De Participación Ciudadana;
 
-XXIV. De Participación Ciudadana;
+XXIV. De Honor y Disciplina Parlamentaria;
 
-XXV. De Honor y Disciplina Parlamentaria;
+XXV. De Vivienda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2007)</small>
+XXVI. De Justicia; e
 
-XXVI. De Vivienda;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JULIO DE 2007)</small>
-
-XXVII. De Justicia; e
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JULIO DE 2007)</small>
-
-XXVIII. Instructora.
+XXVII. Instructora.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -687,6 +679,8 @@ Las Comisiones Permanentes presentarán en la última sesión de cada período o
 
 Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Disciplina Parlamentaria e Instructora.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 147, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTICULO HA SIDO MODIFICADA.</small>
+
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 71.
@@ -697,43 +691,49 @@ Las Comisiones Permanentes, además de lo establecido en el artículo anterior, 
 
 I.- La Comisión de Puntos Constitucionales y Gobernación atenderá todos los asuntos correspondientes a las reformas constitucionales, a la seguridad pública, así como los relacionados con la expedición de Leyes;
 
-II.- La Comisión de Glosa tendrá a su cargo el despacho de los negocios que le impone la Ley Orgánica de la Contaduría Mayor de Hacienda, respecto a la revisión de las cuentas públicas;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
 
-III.- La Comisión de Vigilancia conjuntamente con la Comisión de Glosa propondrá el nombramiento del Contador Mayor de Hacienda, establecerá los criterios generales para el funcionamiento de la Contaduría Mayor de Hacienda, revisará el informe anual del Contador Mayor de Hacienda así como su programa de trabajo y conocerá de las responsabilidades en que incurra el personal de la Contaduría Mayor de Hacienda;
+II.- La Comisión de Fiscalización, en los términos que establece la Ley de la Auditoría Superior del Estado:
 
-IV.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo preparar los proyectos de Ley o Decreto para actualizar las normas de las actividades camarales, estudiar las disposiciones normativas, regímenes y prácticas parlamentarias y desahogar las consultas sobre la aplicación e interpretación de esta Ley, prácticas y usos parlamentarios;
+a) Atenderá lo relacionado a la revisión y fiscalización de las cuentas públicas;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+b) Propondrá el nombramiento del Auditor Superior del Estado y revisará su informe anual así como su programa de trabajo;
 
-V.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el despacho de los negocios que le señalen las Leyes, en materia fiscal, los asuntos donde se ventile la situación de la hacienda pública estatal y de los municipios así como los asuntos en materia de administración pública estatal y municipal;
+c) Establecerá los criterios generales para la organización y el funcionamiento de la Auditoría Superior del Estado; y
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
+d) Conocerá de procedimientos de responsabilidades que instruya el órgano fiscalizador.
 
-VI.- La Comisión de Honor y Disciplina Parlamentaria funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
+III.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo preparar los proyectos de Ley o Decreto para actualizar las normas de las actividades camarales, estudiar las disposiciones normativas, regímenes y prácticas parlamentarias y desahogar las consultas sobre la aplicación e interpretación de esta Ley, prácticas y usos parlamentarios;
 
-VII.- La Comisión de Justicia se hará cargo de los asuntos relacionados con la procuración y la administración de justicia; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+IV.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el despacho de los negocios que le señalen las Leyes, en materia fiscal, los asuntos donde se ventile la situación de la hacienda pública estatal y de los municipios, así como los asuntos en materia de administración pública estatal y municipal.
 
-VIII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+V.- La Comisión de Honor y Disciplina Parlamentaria funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+
+VI.- La Comisión de Justicia se hará cargo de los asuntos relacionados con la procuración y la administración de justicia; y,
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+
+VII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 72.
 
-Las Comisiones se compondrán:
+Las Comisiones permanentes se integrarán con cinco Diputados, con excepción de la Comisión de Fiscalización, que estará compuesta de siete Diputados. La composición de las comisiones permanentes será siempre plural.
 
-Las Permanentes con cinco Diputados y las especiales con tres mínimo y máximo cinco Diputados.
+Las comisiones especiales se integrarán con un mínimo de tres y un máximo de cinco Diputados.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2002)</small>
+En ningún caso un Diputado podrá formar parte de más de cuatro Comisiones Permanentes.
 
-En ningún caso un Diputado podrá formar parte de más de cuatro Comisiones Permanentes..
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-Las Comisiones de Glosa, de Hacienda y de Puntos Constitucionales y Gobernación, para el desempeño de sus funciones, contarán con espacios adecuados y con los recursos humanos y materiales suficientes para el desarrollo profesional y eficiente de sus labores.
+Las Comisiones de Puntos Constitucionales y Gobernación, de Hacienda Pública y Administración, y de Fiscalización, contarán para el desempeño de sus funciones con espacios adecuados y con los recursos humanos y materiales suficientes para el desarrollo profesional y eficiente de sus labores, de acuerdo con la disponibilidad presupuestal.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -919,7 +919,9 @@ En todo lo demás que no esté previsto en los artículos anteriores, la Diputac
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
 
-### CAPITULO IX. DE LA CONTADURIA MAYOR DE HACIENDA
+### CAPITULO IX. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES
 
@@ -1053,7 +1055,9 @@ El Congreso del Estado contará con un Instituto de Investigaciones Parlamentari
 
 I.- Realizar, promover y difundir investigaciones vinculadas con los temas relevantes del quehacer parlamentario;
 
-II.- Proporcionar asesoría a las Comisiones Legislativas para apoyar sus dictámenes, las decisiones del Congreso, de la Diputación Permanente, de la Gran Comisión, de los Diputados, de la Secretaría General del Congreso y de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+
+II.- Proporcionar asesoría a las Comisiones Legislativas para apoyar sus dictámenes, las decisiones del Congreso, de la Diputación Permanente, de la Gran Comisión, de los Diputados, de la Secretaría General del Congreso y de la Auditoría Superior del Estado;
 
 III.- Investigar los antecedentes históricos del Poder Legislativo, así como de las leyes, códigos, decretos y acuerdos vigentes en la entidad;
 
@@ -1073,23 +1077,25 @@ X.- Las demás que le asigne la Gran Comisión, la Secretaría General o el Cong
 
 Al frente del Instituto habrá un Director y contará con las unidades y Departamentos que fije su Reglamento Interior conforme al cual se desarrollarán sus funciones.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2008)</small>
+
 #### SECCION SEGUNDA. DEL CEREMONIAL
 
 ### CAPITULO II. DEL PROCESO LEGISLATIVO
 
 ###### ARTICULO 103.
 
-La Contaduría Mayor de Hacienda es el órgano técnico cuya función es la revisión de las cuentas públicas, del Gobierno del Estado y de los Municipios. Para tal efecto gozará de plena independencia y autonomía y deberá contar con las áreas, departamentos, equipo profesional y personal suficiente para que cumpla de manera eficaz sus atribuciones; debiendo utilizar para el ejercicio de sus facultades todos los adelantos tecnológicos, profesionales y científicos que se requieran, contando para ello con las partidas presupuestales correspondientes que le asigne el Congreso.
+La Auditoría Superior del Estado es el órgano técnico mediante el cual el Congreso del Estado ejerce su facultad exclusiva de Fiscalización Superior, consistente en la revisión y fiscalización de las cuentas públicas de los Poderes del Estado, de los municipios y de las demás entidades y personas que ejercen recursos públicos.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 104.
 
-La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa del Congreso, hará la revisión de todas las cuentas públicas que el Gobierno del Estado y los Municipios presenten a la Cámara; establecerá normas y sistemas de información uniformes y obligatorios para la presentación de las cuentas públicas y resolverá todas las consultas, en el área de su competencia, que le hagan a la misma.
-
-Asimismo hará la revisión de los informes financieros de los organismos públicos descentralizados y de participación estatal o municipal, en los términos que prevengan las Leyes.
+La Auditoría Superior del Estado, como órgano técnico de fiscalización general en la Entidad, en los términos de esta Ley y de la Ley de la Auditoría Superior del Estado, será coordinada por la Comisión de Fiscalización en su relación con el Congreso del Estado.
 
 ###### ARTICULO 105.
 
-La Contaduría Mayor de Hacienda estará bajo la inmediata y exclusiva dependencia del Congreso, a través de una Comisión de Vigilancia y la Ley Reglamentaria establecerá su organización y funcionamiento.
+(DEROGADO, P.O. 25 DE JULIO DE 2008)
 
 ## TITULO QUINTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
@@ -2030,3 +2036,13 @@ P.O. 25 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La integración de la Comisión de Fiscalización deberá hacerse a más tardar en la última sesión del Segundo Periodo Ordinario de Sesiones del Primer Año de Ejercicio Constitucional de la Quincuagésima Novena Legislatura.
