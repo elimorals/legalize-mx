@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2001-08-08"
+last_updated: "2008-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1193,7 +1193,9 @@ II.- Estudiar los asuntos relacionados con la creación, modificación, fusión,
 
 III.- Aprobar su organización y división administrativas, de acuerdo con las necesidades del Municipio;
 
-IV.- Expedir Bandos de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, referentes a su organización, funcionamiento, servicios públicos que deban prestar y demás asuntos de su competencia, sujetándose a las bases normativas establecidas por la Constitución Política del Estado Libre y Soberano de Puebla, vigilando su observancia y aplicación;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+
+IV.- Expedir y actualizar Bandos de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, referentes a su organización, funcionamiento, servicios públicos que deban prestar y demás asuntos de su competencia, sujetándose a las bases normativas establecidas por la Constitución Política del Estado Libre y Soberano de Puebla, vigilando su observancia y aplicación; con pleno respeto a los derechos humanos que reconoce el orden jurídico nacional;
 
 V.- Inducir y organizar la participación de los ciudadanos en la promoción del desarrollo integral de sus comunidades;
 
@@ -1349,7 +1351,7 @@ LVI.- Entregar a sus Juntas Auxiliares los recursos que por ley les corresponda;
 
 LVII.- Proveer lo conducente para la organización administrativa del Gobierno Municipal, creando o suprimiendo comisiones permanentes o transitorias, así como dependencias municipales y órganos de participación ciudadana, de acuerdo con las necesidades y el presupuesto del Municipio;
 
-LVIII.- Prestar los servicios públicos que constitucionalmente les corresponden; y
+LVIII.- Prestar los servicios públicos que constitucionalmente les corresponden; y (sic)
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
 
@@ -1361,13 +1363,19 @@ LX.- Las demás que le confieran las leyes y ordenamientos vigentes en el Munici
 
 ### CAPÍTULO VII. DE LAS BASES NORMATIVAS PARA EL EJERCICIO DE LAS FACULTADES REGLAMENTARIAS DEL MUNICIPIO
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 79.
 
-Los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones de observancia general deberán contener las normas que requiera el régimen gubernamental y administrativo del Municipio, cuyos principios normativos corresponderán a la identidad de los mandatos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Puebla.
+Los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones de observancia general constituyen los diversos cuerpos normativos tendientes a regular, ejecutar y hacer cumplir el ejercicio de las facultades y obligaciones que esta Ley confiere a los Ayuntamientos en el ámbito de su competencia; y deberán respetar los derechos humanos consagrados en el orden jurídico mexicano.
+
+En aquellos municipios con población mayoritariamente indígena la normatividad observará los usos y costumbres en la medida de lo posible, sin que contravengan los derechos humanos reconocidos en el orden jurídico nacional.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 80.
 
-Los reglamentos municipales constituyen los diversos cuerpos normativos tendientes a regular, ejecutar y hacer cumplir el ejercicio de las facultades y obligaciones que esta Ley confiere a los Ayuntamientos en los ámbitos de su competencia.
+Los reglamentos municipales son los cuerpos normativos dictados por el Ayuntamiento para proveer, dentro de la esfera de su competencia, la correcta ejecución o la debida aplicación de las leyes o disposiciones en materia municipal.
 
 Los reglamentos que se expidan contarán con la siguiente materia de regulación normativa:
 
@@ -1381,7 +1389,9 @@ IV.- Establecimiento de las bases para garantizar, en beneficio de la sociedad, 
 
 V.- Regulación de la satisfacción de urgencias colectivas y procuración del bienestar, señalando prohibiciones e imponiendo obligaciones a los particulares cuyas actividades signifiquen obstáculos para la consecución de las finalidades del orden social y administrativo del Municipio;
 
-VI.- Prevenciones para salvaguardar las garantías constitucionales de audiencia y defensa, a favor de los particulares, por la comisión de alguna falta o infracción a los reglamentos; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+
+VI.- Prevenciones para salvaguardar las garantías constitucionales y los derechos humanos a favor de los particulares, por la comisión de alguna falta o infracción a los reglamentos; y
 
 VII.- Protección y preservación del medio ambiente, así como promoción de una cultura de la separación de la basura, e instrumentación de programas de recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos.
 
@@ -1446,6 +1456,12 @@ Durante la votación no se admitirá discusión alguna, salvo para la aclaració
 ###### ARTÍCULO 88.
 
 La promulgación y posterior publicación en el Periódico Oficial del Estado de un ordenamiento aprobado, constituyen requisitos de validez, vigencia y legalidad que serán insustituibles y obligatorios.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2008)</small>
+
+###### ARTÍCULO 88 Bis.
+
+Los Ayuntamientos deberán aprobar y publicar dentro de los 90 días siguientes a su toma de posesión su Bando de Policía y Gobierno o, en su caso, ratificar o actualizar el vigente.
 
 ###### ARTÍCULO 89.
 
@@ -2933,7 +2949,9 @@ b) Se revisarán en el mes de enero de cada año, asentando las modificaciones d
 
 III.- Informar al Ayuntamiento del que dependan, el cumplimiento de las disposiciones establecidas en la fracción anterior y su resultado;
 
-IV.- Imponer dentro de su jurisdicción las sanciones que establezca el Bando de Policía y Gobierno para los infractores de sus disposiciones;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+
+IV.- Imponer dentro de su jurisdicción las sanciones que establezca el Bando de Policía y Gobierno para los infractores de sus disposiciones; vigilando que se respeten los derechos humanos de los mismos;
 
 V.- Imponer, cuando proceda, las sanciones a que se refiere la presente Ley;
 
@@ -3288,3 +3306,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JULIO DE 2008.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
