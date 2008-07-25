@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2008-02-29"
+last_updated: "2008-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -720,6 +720,10 @@ Si la notificación no pudiera realizarse, el notificador expresará las causas 
 Si se tratare de la notificación de la demanda y a la primera busca no se encontrare la persona que debe ser notificada o su representante legal, se le dejará citatorio para que espere en el domicilio designado, a hora fija del día siguiente; y si no espera se le hará la notificación por cédula.
 
 La cédula, en los casos de este artículo y del anterior, se entregará a los parientes o empleados, en su caso, del interesado o a cualquier persona que viva en la casa, después que el notificador se haya cerciorado de que ese es el domicilio de la persona que debe ser notificada; de todo lo cual se asentará razón en las diligencias.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2008)</small>
+
+Si no se encontrare persona alguna en el domicilio o habiéndola se niegue a recibir la cédula, el notificador deberá fijarla en lugar visible del domicilio, dejando los documentos que deban entregarse con algún vecino cercano que los reciba, asentando en la cédula el nombre y domicilio de la persona a quién se entregan. Además, el notificador también deberá asentar los datos de la identificación de la persona a quien se dejan los documentos y la descripción de aquellos con los que se acredita que dicha persona es vecino del buscado.
 
 La cédula se acompañará con una copia de la demanda, cuando no sea forzoso entregar las copias del traslado.
 
@@ -6752,3 +6756,7 @@ PRIMERO. La presente Ley entrará en vigor a los treinta días de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales o reglamentarías que se opongan a la presente.
+
+P.O. 25 DE JULIO DE 2008.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
