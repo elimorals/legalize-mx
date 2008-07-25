@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-554-hacendario-para-el-municipio-de-xalapa-51200"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2006-07-14"
+last_updated: "2008-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -173,11 +173,21 @@ La aplicación de las disposiciones de este Libro corresponde al Ayuntamiento, p
 
 Para los efectos de este Código se consideran leyes fiscales municipales:
 
-I. El presente Código;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
 
-II. La Ley de Ingresos del Municipio; y
+I. El Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave;
 
-III. Los demás ordenamientos de naturaleza fiscal, que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
+
+II. El presente Código;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
+
+III. La Ley de Ingresos del Municipio; y
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2008)</small>
+
+IV. Los demás ordenamientos de naturaleza fiscal, que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios.
 
 La aplicación de los ordenamientos a que se refiere este artículo corresponde a las autoridades fiscales.
 
@@ -4551,9 +4561,11 @@ Las participaciones que correspondan al Municipio en materia de ingresos federal
 
 ## TÍTULO SÉPTIMO. DE LAS APORTACIONES FEDERALES
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2008)</small>
+
 ###### Artículo 271.
 
-Las aportaciones federales ingresarán a la Hacienda Pública Municipal, en la forma y términos que prevén los ordenamientos que resulten aplicables, para ser destinadas a los fines que para cada fondo se establezcan en los mismos, los que se determinarán a través de los procedimientos e instancias previstos en la legislación aplicable.
+Las aportaciones federales son ingresos que percibe el Municipio, derivados de los fondos establecidos en el Capítulo V de la Ley de Coordinación Fiscal.
 
 ## TÍTULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -5519,11 +5531,15 @@ La deuda pública ordinaria se contratará y ejercerá con base en el programa a
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 403, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
 
+> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
+
+También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
+
 ### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### Artículo 409.
 
-Corresponde al Cabildo, por conducto de la Tesorería y, en su caso, del Presidente y del Síndico.
+Corresponde al Cabildo, por conducto de la Tesorería y, en su caso, del Presidente y del Síndico:
 
 I. Elaborar el programa anual de financiamiento con base en el cual se contratará y manejará la deuda pública;
 
@@ -5531,7 +5547,9 @@ II. Emitir opinión sobre la procedencia del otorgamiento de garantía municipal
 
 III. Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a los fines para los que fueron contratados;
 
-IV. Contratar y manejar la deuda pública del Municipio y otorgar la garantía del mismo para la realización de operaciones crediticias;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
+
+IV. Contratar y manejar la deuda pública del Municipio; afectar los ingresos, el derecho, o ambos, a las aportaciones federales que les correspondan, susceptibles de destinarse, como fuente de pago, garantía, o ambos, para el cumplimiento de sus obligaciones; o en su caso, otorgar la garantía del Municipio para la realización de operaciones crediticias;
 
 V. Vigilar que la capacidad de pago del Municipio sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo del programa de financiamiento aprobado, así como la adecuada estructura financiera del propio Municipio;
 
@@ -5549,19 +5567,25 @@ XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conf
 
 Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 403 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+
 ###### Artículo 410.
 
-Corresponde al Congreso:
+Corresponde al H. Congreso del Estado:
 
 I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamiento del Ayuntamiento para cada ejercicio fiscal;
 
-II. A solicitud del Ayuntamiento, autorizar la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
+
+Il. A solicitud del Ayuntamiento, autorizar la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten, o éstos cuenten con recursos suficientes para pagar los financiamientos correspondientes;
 
 III. Autorizar de manera expresa la contratación de endeudamiento por los Ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fueron elegidos;
 
 IV. Autorizar a las entidades de la administración pública paramunicipal la contratación de endeudamiento;
 
-V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
+
+V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado; así como autorizar la afectación de los ingresos, el derecho, o ambos, a las aportaciones federales que le correspondan y que sean susceptibles de destinarse, como fuente de pago, garantía, o ambas, para el cumplimiento de sus obligaciones, en los términos de la legislación vigente;
 
 VI. Verificar que todas las operaciones de deuda que realicen el Ayuntamiento y sus entidades, se apeguen a las disposiciones legales;
 
@@ -5689,11 +5713,15 @@ Las entidades mencionadas en las fracciones II a IV del artículo 403 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-### CAPÍTULO V. DE LAS GARANTÍAS
+> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
+
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 425.
 
-Se podrá otorgar en garantía cualquier bien, derecho o ingreso que se encuentre dentro del patrimonio de quien contrate operaciones de financiamiento, directas o contingentes, si conforme a la ley no existe impedimento para que los mismos sean gravados.
+Se podrá otorgar como fuente de pago o garantía cualquier bien, derecho o ingreso que se encuentre dentro del patrimonio de quien contrate operaciones de financiamiento, directas o contingentes, si conforme a la ley no existe impedimento para tales efectos.
 
 El Ayuntamiento podrá comprometer hasta el treinta por ciento de los ingresos municipales y de las participaciones federales, cuando no se afecten los programas de gasto corriente ni de inversión prioritaria.
 
@@ -5813,11 +5841,21 @@ Las participaciones que corresponden al Municipio son inembargables, no pueden a
 
 Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Municipal y en el Registro de Deuda Pública Estatal correspondiente, tratándose en este último de adeudos avalados por el Estado.
 
+> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
+
+El Municipio podrá afectar como fuente de pago o garantía de sus obligaciones, el derecho, los ingresos o ambos a las aportaciones federales susceptibles de destinarse a dichos fines en términos de la legislación aplicable.
+
 ###### Artículo 440.
 
 En todos los casos en que se afecten participaciones, el Ayuntamiento, previa autorización del Congreso, podrá solicitar a la Secretaría de Finanzas y Planeación del Gobierno del Estado, que en su nombre y representación realice los pagos de las amortizaciones de operaciones de endeudamiento convenidas, descontando dichos montos de las participaciones que en ingresos federales le correspondan al Municipio.
 
-Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
+> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
+
+En el caso de que se afecten aportaciones, el Ayuntamiento, podrá instrumentar como fuente de pago, garantía, o ambas, fideicomisos, mandatos irrevocables o cualquier otro mecanismo autorizado por las disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2008)</small>
+
+Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave y el Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, según corresponda.
 
 # LIBRO SEXTO. DE LOS BIENES MUNICIPALES
 
@@ -6232,3 +6270,11 @@ A t e n t a m e n t e
 Sufragio efectivo. No reelección.
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 25 DE JULIO DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
