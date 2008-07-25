@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2008-05-16"
+last_updated: "2008-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -429,7 +429,9 @@ VI.- Fomentar la manifestación de actividades positivas, individuales y grupale
 
 VII.- Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
 
-Para ser docente de Educación Física, se requiere haber obtenido el título de Maestro Normalista de Educación Física o de Licenciado en Educación Física.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
+
+Para ser docente de Educación Física, se requiere haber obtenido el título de Maestro Normalista de Educación Física, de Licenciado en Educación Física, de Licenciado en Actividad Física y Deporte; o profesión afín que cuente con reconocimiento oficial.
 
 ###### ARTICULO 31.
 
@@ -1142,3 +1144,7 @@ P.O. 5 DE OCTUBRE DE 2007.
 P.O. 16 DE MAYO DE 2008.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JULIO DE 2008.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
