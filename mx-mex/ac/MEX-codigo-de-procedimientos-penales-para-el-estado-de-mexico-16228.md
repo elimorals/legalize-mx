@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2007-12-27"
+last_updated: "2008-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3223,9 +3223,9 @@ TERCERO.- Dentro del término de novena días naturales contados a partir de la 
 
 CUARTO.- La aplicación del artículo 275-A del Código de Procedimientos Penales para el Estado de México, respecto de los juzgados a que se refiere el transitorio que antecede, conocerán en principio de los asuntos que les sean turnados por las oficialías de partes común, en los casos del conocimiento de delitos de la actual competencia de los juzgados de cuantía menor; dieciocho juzgados más deberán entrar en funciones a más tardar el treinta y uno de octubre del dos mil ocho; con posterioridad se instalarán los demás juzgados para juicios predominantemente orales de esta competencia, que permitan que la totalidad de los asuntos se tramiten bajo este procedimiento, teniendo como fecha límite para tal efecto, el treinta y uno de octubre de dos mil nueve. Entre tanto, los asuntos que se turnen a juzgados de cuantía menor, se tramitarán conforme al procedimiento penal ordinario.
 
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, G.G. 25 DE JULIO DE 2008)</small>
 
-QUINTO.- Para dar continuidad a esta reforma, a partir del mes de octubre de dos mil siete y hasta antes del treinta y uno de octubre de dos mil ocho, entrarán en operación de manera gradual, conforme a la disponibilidad de recursos económicos y necesidad del servicio, un juzgado en cada distrito judicial para el trámite de juicios predominantemente orales, que les sean turnados por las oficialías de partes común, para el conocimiento de delitos no graves cuya competencia corresponde a los Juzgados Penales de Primera Instancia; dieciocho juzgados más deberán entrar en funciones a más tardar el treinta y uno de octubre de dos mil nueve, en la inteligencia de que hasta antes del mes de noviembre de dos mil diez, deberán quedar instalados los juzgados que sean necesarios para la atención de los juicios predominantemente orales relacionadas con delitos no graves de la competencia de los Juzgados Penales de Primera Instancia. Entre tanto, los asuntos que se turnen a los diversos juzgados penales de primera instancia, se tramitarán conforme al procedimiento penal ordinario.
+QUINTO.- Los asuntos relacionados con delitos no graves que se turnen a los juzgados penales de primera instancia, se tramitarán conforme al procedimiento penal ordinario.
 
 > <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -3276,3 +3276,13 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las órdenes de aprehensión que se encuentren en trámite al momento de la entrada en vigor del presente decreto, deberán ajustarse a los términos establecidos en el artículo 147 del Código de Procedimientos Penales del Estado de México, corriéndose los plazos al día de iniciada la validez formal de este decreto.
+
+G.G. 25 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
