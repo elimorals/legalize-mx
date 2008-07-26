@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2008-05-01"
+last_updated: "2008-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2008.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -217,7 +217,7 @@ Ningún negocio judicial tendrá más de dos instancias, y el Juez que de cualqu
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Toda persona tiene derecho a que se le administre justicia por los tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial sin perjuicio de los centros de mediación y justicia alternativa que puedan crearse por las autoridades. El servicio tanto de los tribunales como de los centros de mediación o justicia alternativa mencionados, será gratuito, quedando en consecuencia, prohibidas las costas por estos servicios.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
 
@@ -243,6 +243,10 @@ En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona ti
 
 Los habitantes del Estado tienen todas las garantías y libertades consagradas en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2008)</small>
+
+En el Estado está prohibida la trata de personas en todas sus formas.
+
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 1999)</small>
 
 El Estado otorgará a los ciudadanos la seguridad indispensable para salvaguardar su vida e integridad personal, la ley establecerá la forma y términos en que deba brindarse.
@@ -251,17 +255,21 @@ El Estado otorgará a los ciudadanos la seguridad indispensable para salvaguarda
 
 Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+(ADICIONADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
 
-El régimen matrimonial se establece bajo la igualdad de derechos derivados de esta institución en los términos de la Ley. El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objetos de especial protección de parte de las autoridades.
+Toda mujer tiene derecho a una vida libre de violencia de género, tanto en el ámbito público como en el privado. En los términos que la ley señale, el Gobierno del Estado y los Gobiernos Municipales se coordinarán para establecer un Sistema Estatal que asegure el acceso de las mujeres a este derecho.
+
+(REFORMADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
+
+El régimen matrimonial se establece bajo la igualdad de derechos derivados de esta institución en los términos de la ley. El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, las madres, independientemente de su estado civil, las niñas, los niños, las y los adolescentes tendrán especial protección de parte de las autoridades.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 El patrimonio familiar es inalienable, imprescriptible e inembargable.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+(REFORMADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
 
-Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección.
+Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La Ley posibilitará la investigación de la paternidad.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -715,7 +723,7 @@ La elección de los ayuntamientos se hará mediante el sufragio universal, libre
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -3208,6 +3216,10 @@ TERCERO.- La Contaduría Mayor de Hacienda del Congreso continuará ejerciendo l
 CUARTO.- Todos los recursos materiales y patrimoniales de la Contaduría Mayor de Hacienda del Congreso, pasarán a formar parte de la Auditoría Superior del Estado de Oaxaca.
 
 P.O. 1 DE MAYO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JULIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
