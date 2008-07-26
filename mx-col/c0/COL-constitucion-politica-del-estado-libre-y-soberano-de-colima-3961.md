@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2008-05-31"
+last_updated: "2008-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2008.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1947,6 +1947,10 @@ II.- La propiedad privada se respetará y garantizará en el Estado, con las mod
 
 III.- La educación será motivo de especial atención en el Estado, en los términos que establece la Constitución General de la República.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2008)</small>
+
+La formación de los educandos, inclusive, será en el marco del fortalecimiento de los valores de la justicia, la tolerancia, la bondad, la rectitud, la honestidad y el diálogo, y en todo caso, fomentará en ellos, la cultura de la paz y la legalidad, como una forma de aprender a vivir en armonía utilizando como métodos los alternativos de solución de conflictos.
+
 IV.- La población tiene derecho a estar informada de manera continua y eficiente sobre las actividades que lleven a cabo las autoridades estatales y municipales y en general, sobre los acontecimientos de su entorno local y regional.
 
 V.- Toda persona tiene derecho al trabajo, a la salud y a disfrutar de vivienda digna y decorosa. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
@@ -1980,6 +1984,12 @@ XII.- Toda persona que sufra una lesión en sus bienes y derechos, con motivo de
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2008)</small>
 
 XIII.- El Estado y los municipios en el ámbito de su competencia, promoverán la participación de la sociedad en el rescate, preservación y difusión de la cultura, lenguas, usos, costumbres y tradiciones indígenas, otorgarán el reconocimiento a las personas o comunidades de origen étnico que residan de manera temporal o permanente en el territorio, e instrumentarán políticas públicas para promover su desarrollo integral y la salvaguarda de sus derechos.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2008)</small>
+
+XIV.- Toda persona tiene derecho a un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos. Cualquier forma de violencia atenta contra el desarrollo humano integral y la dignidad de la persona.
+
+El Estado implementará las políticas y acciones correspondientes a fin de garantizar las condiciones que permitan a sus habitantes, a través de la cultura de la paz, vivir sin violencia.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2726,6 +2736,10 @@ DECRETO No. 322, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 33, 77 Y LA DE
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- En tanto no se expida la Ley Reglamentaria de la fracción XLI Bis, del articulo 33 de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado seguirá conociendo de los juicios de responsabilidad administrativa para sancionar a los servidores públicos que hayan incurrido en faltas administrativas.
+
+P.O. 26 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
