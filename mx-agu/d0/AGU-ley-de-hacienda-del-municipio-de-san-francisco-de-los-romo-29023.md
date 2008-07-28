@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2006-12-31"
+last_updated: "2008-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -755,7 +755,11 @@ DE LAS EXENCIONES
 
 No se pagará el impuesto establecido en esta Ley:
 
-I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+(NOTA: EL 17 DE FEBRERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2008)</small>
+
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, Y LOS PARTIDOS POLÍTICOS NACIONALES, SIEMPRE Y CUANDO DICHOS INMUEBLES SEAN PARA SU PROPIO USO; y
 
 II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan estos al enajenante.
 
@@ -1454,5 +1458,11 @@ Lic. Efrén González Cuellar.
 P.O. 31 DE DICIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
