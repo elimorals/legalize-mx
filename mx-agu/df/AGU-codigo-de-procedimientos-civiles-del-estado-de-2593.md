@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2007-11-19"
+last_updated: "2008-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2008.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -2017,7 +2017,9 @@ I.- El juez ordenará de oficio a las partes la realización de la prueba perici
 
 II.- La prueba que ordene el juez deberán ser practicadas por el servicio médico legal de la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado o por cualquier institución pública que cuente con especialidad para ello y se encuentre debidamente registrada ante el Supremo Tribunal de Justicia del Estado, y deberán realizarse con absoluto respeto a la dignidad de la persona que deba sujetarse a ella y sin que pueda en ningún caso constituir, en sí misma o por la forma de realizarla, un trato inhumano o degradante;
 
-III.- El juez solicitará las pruebas genéticas a quien, en razón de su especialidad técnica, deba practicarlas, indicando la fecha y hora en que las muestran (sic) de material genético deban ser tomadas en el local del juzgado, o bien, podrá autorizar que sean tomadas en lugar diverso en cuyo caso decretará las providencias necesarias para que sean debidamente identificadas;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2008)</small>
+
+III.- El juez solicitará las pruebas genéticas a quien, en razón de su especialidad técnica, deba practicarlas, indicando la fecha y hora en que las muestras de material genético deban ser tomadas en el local del juzgado, o bien, podrá autorizar que sean tomadas en lugar diverso en cuyo caso decretará las providencias necesarias para que sean debidamente identificadas;
 
 IV.- Una de las muestras a que se refiere la Fracción anterior, permanecerá en cadena de custodia en la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado, hasta que la sentencia dictada en el juicio respectivo haya causado ejecutoria.
 
@@ -5776,5 +5778,11 @@ P.O. 19 DE NOVIEMBRE DE 2007.
 La Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado y el Instituto de Salud del Estado de Aguascalientes, tendrán 30 días hábiles para elaborar el Reglamento a que hace alusión el Artículo 307 C del presente Decreto. Una vez publicado en el Periódico Oficial del Estado de Aguascalientes dicho Reglamento, se podrá iniciar con la realización de la prueba relativa.
 
 ###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
