@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2000-05-24"
+last_updated: "2008-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 129
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -137,7 +137,7 @@ XVI.- Los servidores profesionales de las instituciones públicas y personal aca
 
 XVII.- Los corredores públicos en las funciones que les encomiende el Código Procesal Civil y demás leyes aplicables.
 
-Los auxiliares señalados están obligados a cumplir las ordenes que dicten las Autoridades Judiciales en ejercicio de sus atribuciones.
+Los auxiliares señalados están obligados a cumplir las órdenes que dicten las Autoridades Judiciales en ejercicio de sus atribuciones.
 
 ## TITULO SEGUNDO. DE LA SEDE Y COMPETENCIA DE LOS ORGANOS JURISDICCIONALES
 
@@ -185,9 +185,13 @@ ALDAMA, comprende las municipalidades de: Apaxtla, Cuetzala del Progreso, Genera
 
 ALLENDE, comprende las municipalidades de: Ayutla de los Libres, Florencio Villarreal y Tecoanapa; su cabecera en Ayutla de los Libres.
 
-ALTAMIRANO, comprende las municipalidades de: Azoyú, Copala, Cuautepec y San Luis Acatlán; su cabecera en San Luis Acatlán.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
 
-ALVAREZ, comprende las municipalidades de: Ahuacuotzingo, Atlixtac, Chilapa de Alvarez, y Zitlala; su cabecera en Chilapa de Alvarez.
+ALTAMIRANO, comprende las municipalidades de: Azoyú, Copala, Cuautepec, Juchitán, Marquelia y San Luis Acatlán; su cabecera en Marquelia.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
+
+ALVAREZ, comprende las municipalidades de: Ahuacuotzingo, Atlixtac, Chilapa de Álvarez, José Joaquín de Herrera y Zitlala; su cabecera en Chilapa de Álvarez.
 
 AZUETA, comprende las municipalidades de: José Azueta y Petatlán; su cabecera en Zihuatanejo.
 
@@ -201,11 +205,15 @@ GUERRERO, comprende las municipalidades de: Mártir de Cuilapan y Tixtla de Guer
 
 HIDALGO, comprende las municipalidades de: Atenango del Río, Buenavista de Cuellar, Cocula, Copalillo, Huitzuco de los Figueroa, Iguala de la Independencia, y Tepecoacuilco de Trujano; su cabecera en Iguala de la Independencia.
 
-LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Malinaltepec y Tlacoapa; su cabecera en Malinaltepec.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
+
+LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Malinaltepec, Tlacoapa e Iliatenco; su cabecera en Malinaltepec.
 
 MINA, comprende las municipalidades de: Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Pungarabato y Zirándaro; su cabecera en Coyuca de Catalán.
 
-MORELOS, comprende las municipalidades de: Acatepec, Alcozauca de Guerrero, Copanatoyac, Metlatónoc, Olinalá, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatáhuac y Zapotitlán Tablas; su cabecera en Tlapa de Comonfort.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
+
+MORELOS, comprende las municipalidades de: Acatepec, Alcozauca de Guerrero, Cochoapa el Grande, Copanatoyac, Metlatónoc, Olinalá, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac y Zapotitlán Tablas; su cabecera en Tlapa de Comonfort.
 
 MONTES DE OCA, comprende las municipalidades de: Coahuayutla de José María Izazaga y La Unión de Isidoro Montes de Oca; su cabecera en La Unión.
 
@@ -309,7 +317,7 @@ XXVI.- Integrar el Consejo de Administración del Fondo Auxiliar para la Adminis
 
 XXVII.- Suspender en sus funciones, a solicitud de la autoridad judicial, al Juez en contra de quien se ejercite acción penal, siempre que se reúnan los requisitos que para librar una orden de aprehensión exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos. Para este efecto, la Sala Penal de adscripción, conforme a lo dispuesto por el artículo 6 de esta Ley, presentará a consideración del Pleno del Tribunal el proyecto de resolución respectivo, que por turno elaborará uno de los Magistrados que la integran;
 
-XXVIII.- Aprobar, modificar o revocar las resoluciones que emita el Consejo de la Judicatura, en caso de faltas e incumplimiento de las obligaciones de los servidores públicos del Poder Judicial, cuando se trate de suspención, destitución o inhabilitación del cargo;
+XXVIII.- Aprobar, modificar o revocar las resoluciones que emita el Consejo de la Judicatura, en caso de faltas e incumplimiento de las obligaciones de los servidores públicos del Poder Judicial, cuando se trate de suspensión, destitución o inhabilitación del cargo;
 
 XXIX.- Conocer y resolver de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal y de los Magistrados de las Salas;
 
@@ -675,7 +683,7 @@ XIII.- Conocer y resolver de las excitativas de justicia que se presenten en con
 
 XIV.- Realizar los trámites ante las afianzadoras, con motivo del pago que deba hacerse a favor del Fondo Auxiliar para la Administración de Justicia, por garantías que se hayan hecho efectivas por los Juzgados u Organos competentes;
 
-XV.- Depositar a favor del Fondo Auxiliar para la Administración de Justicia del Estado, las finanzas, cauciones, multas, consignaciones y el pago de derechos, dentro de los diez días siguientes a la fecha de su exhibición por parte de los particulares;
+XV.- Depositar a favor del Fondo Auxiliar para la Administración de Justicia del Estado, las fianzas, cauciones, multas, consignaciones y el pago de derechos, dentro de los diez días siguientes a la fecha de su exhibición por parte de los particulares;
 
 XVI.- De los impedimentos, excusas y recusaciones de los Jueces de Paz; y
 
@@ -873,7 +881,7 @@ Los Secretarios y demás empleados de la Administración de Justicia del Estado,
 
 ###### ARTICULO 63.
 
-Los Secretarios, Proyectistas, Actuarios y demás empleados del Poder Judicial, en bien de la Administración de Justicia, tienen la obligación de asistir a sus labores en horas del despacho y también en las extraordinarias cuando la función lo requiera, desempeñando las mismas con eficacia conforme a las ordenes que reciban.
+Los Secretarios, Proyectistas, Actuarios y demás empleados del Poder Judicial, en bien de la Administración de Justicia, tienen la obligación de asistir a sus labores en horas del despacho y también en las extraordinarias cuando la función lo requiera, desempeñando las mismas con eficacia conforme a las órdenes que reciban.
 
 ###### ARTICULO 64.
 
@@ -1583,7 +1591,7 @@ VII.- No remitir el archivo del Tribunal al terminar el año, los expedientes cu
 
 Las faltas comprendidas en las fracciones II, III, IV, V y VI de este artículo, se sancionarán cuando se cometa por primera vez con apercibimiento, cuando se cometan por segunda vez, con multa hasta de cincuenta días de salario mínimo. La falta comprendida en la fracción I, se sancionará por primera vez, con suspensión hasta de treinta días y por segunda vez, con suspensión hasta de tres meses.
 
-La falta comprendida en la fracción VII, por la primera vez, se aplicara sanción de apercibimiento; y por la segunda, multa hasta de cincuenta días de salario mínimo y por tercera ocasión, suspención hasta por tres meses.
+La falta comprendida en la fracción VII, por la primera vez, se aplicara sanción de apercibimiento; y por la segunda, multa hasta de cincuenta días de salario mínimo y por tercera ocasión, suspensión hasta por tres meses.
 
 ###### ARTICULO 114.
 
@@ -1621,7 +1629,7 @@ Son faltas de los Secretarios de los Juzgados de Paz, las señaladas en sus resp
 
 Los servidores públicos del Poder Judicial del Estado, no podrán cobrar ni recibir cantidad de dinero de los litigantes por concepto de gratificaciones u otras percepciones análogas.
 
-La comisión de esta falta, por la primera vez, se sancionará con amonestación, y por la segunda, con suspención por tres meses.
+La comisión de esta falta, por la primera vez, se sancionará con amonestación, y por la segunda, con suspensión por tres meses.
 
 ###### ARTICULO 118.
 
@@ -1864,3 +1872,13 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+TERCERO.- Comuníquese el presente Decreto al Pleno del Tribunal Superior de Justicia del Estado para su conocimiento y efectos legales conducentes.
