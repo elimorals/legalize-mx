@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "2008-02-11"
+last_updated: "2008-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO CIVIL PARA EL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 11 DE FEBRERO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2008.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -15563,9 +15563,11 @@ P.O. 6 DE JULIO DE 2007.
 
 P.O. 11 DE FEBRERO DE 2008.
 
+(REFORMADO, P.O. 29 DE JULIO DE 2008) (F. DE E., P.O. 8 DE AGOSTO DE 2008)
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor a los 180 días siguientes a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+El presente Decreto entrará en vigor a los 210 días siguientes a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -15574,3 +15576,9 @@ A la entrada en vigor del presente Decreto se abroga el Código Civil para el Es
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación civil vigente, hasta su total conclusión.
+
+P.O. 29 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
