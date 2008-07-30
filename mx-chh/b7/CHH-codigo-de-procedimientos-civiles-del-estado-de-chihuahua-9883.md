@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2008-04-23"
+last_updated: "2008-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2008.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1555,9 +1555,13 @@ II.- Los documentos auténticos expedidos por funcionarios públicos en el ejerc
 
 III.- Los libros de actas, registros y catastro que se lleven en las Oficinas del Gobierno del Estado, de la Federación, y de los otros Estados o Territorios Federales;
 
-IV.- Las certificaciones de actas de estado civil expedidas por los titulares del Registro Civil respectivos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-V.- Las certificaciones de constancias existentes en los archivos públicos, expedidas por los funcionarios a quienes compete su expedición;
+IV.- Las certificaciones de las actas del estado civil expedidas por los titulares del Registro Civil respectivos y las certificaciones que sean expedidas por medios manuales o electrónicos y que cuenten con la rúbrica manual o electrónica del funcionario facultado para ello;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
+
+V.- Las certificaciones de constancias existentes en los archivos públicos, expedidas por los funcionarios a quienes compete su expedición; ya sea que las mismas se generen de manera manual o electrónica y que sea autorizada por medio de firma autógrafa o electrónica del funcionario correspondiente;
 
 VI.- Las certificaciones de constancias existentes en los archivos parroquiales que se refieran a actos del estado civil anteriores al establecimiento del Registro Civil, siempre que se encuentren cotejadas por notario público o quien haga sus veces conforme a derecho;
 
@@ -4764,3 +4768,13 @@ El presente Decreto entrará en vigor inmediatamente después de su aprobación 
 ###### ARTÍCULO SEGUNDO.
 
 Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
+
+P.O. 30 DE JULIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El servicio del Registro Civil se brinda en Oficinas Estatales, Municipales y Seccionales. Las firmas autógrafas podrán aplicarse en cualquier Oficia lía del Estado y la electrónica estará vigente en las Oficialías Estatales, en los Centros Digitales de Trámites y Servicios y en las Recaudaciones de Rentas. En las Oficialías Municipales y Seccionales, el Registro Civil tendrá la facultad para incorporarlas a la firma electrónica conforme avance su modernización.
