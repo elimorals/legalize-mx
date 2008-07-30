@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-de-planeacion-y-desarrollo-54709"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-09"
-last_updated: "2008-07-04"
+last_updated: "2008-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO DE PLANEACION Y DESARROLLO MUNICIPAL DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de marzo de 2007.
 
@@ -475,7 +475,7 @@ Los consejeros serán ciudadanos designados por el Consejo Directivo del Institu
 
 ###### ARTÍCULO 34.
 
-Cada Consejo Consultivo se integrará con un mínimo de diez y un máximo de veinticinco miembros. Los Consejeros durarán en su cargo dieciocho meses y podrán ser ratificados por el Consejo Directivo para el periódo inmediato siguiente, manteniendo en todo caso por lo menos el cincuenta por ciento de los consejeros. Sin perjuicio de lo anterior, los consejeros seguirán en su cargo, hasta en tanto inicien funciones los consejeros entrantes. Asimismo podrán ser removidos antes del término del período, por el propio consejo, mediante votación.
+Cada Consejo Consultivo se integrará con un mínimo de diez y un máximo de veinticinco miembros. Los Consejeros durarán en su cargo dieciocho meses y podrán ser ratificados por el Consejo Directivo para el periódo inmediato siguiente, manteniendo en todo caso por lo menos el cincuenta por ciento de los consejeros. Sin perjuicio de lo anterior, los consejeros seguirán en su cargo, hasta en tanto inicien funciones los consejeros entrantes. Asimismo podrán ser removidos antes del término del período, por el propio consejo, mediante votación
 
 Tratándose del Presidente del Consejo, en caso de que éste no sea ratificado en su cargo, corresponde al Vicepresidente entrar en su lugar, previa aprobación del consejo respectivo.
 
@@ -639,7 +639,7 @@ El incumplimiento a las obligaciones anteriores, será evaluado por el propio Co
 
 ###### ARTÍCULO 45.
 
-Los miembros de los Consejos forman parte del mismo por su perfil profesional y personal y por lo tanto, dentro del mismo no representan a organismos, colegios, sindicatos, asociaciones o a las organizaciones que los propusieron.
+(DEROGADO, P.O. 30 DE JULIO DE 2008)
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
 
@@ -683,9 +683,11 @@ El patrimonio del Instituto de Planeación y Desarrollo Municipal es inembargabl
 
 En el Presupuesto de Egresos del municipio, que anualmente apruebe el R. Ayuntamiento, se fijará el monto anual que como transferencia corresponderá Instituto, sin perjuicio de que le sean asignados recursos adicionales.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2008)</small>
+
 ###### ARTÍCULO 52.
 
-La Secretaría de Finanzas y Tesorería realizará ministraciones iguales trimestrales cuatro veces al año a la cuenta del Instituto dentro de los primeros diez días de los meses de enero, abril, julio y octubre.
+La Secretaría de Finanzas y Tesorería Municipal realizará las ministraciones iguales mensualmente a la cuenta del Instituto, dentro de los primeros diez días de cada mes.
 
 ###### ARTÍCULO 53.
 
@@ -739,9 +741,7 @@ El Presidente Municipal, el Secretario del Ayuntamiento, los Regidores y Síndic
 
 El Consejo Directivo del Instituto podrá sugerir modificaciones a este ordenamiento a través de propuesta por escrito que, por medio del Presidente Municipal, remitierá al R. Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2008)</small>
-
-ARTÍCULO 70 (SIC).- La Secretaría de Finanzas y Tesorería Municipal realizará las ministraciones iguales mensualmente a la cuenta del Instituto, dentro de los primeros diez días de cada mes.
+ARTÍCULO 70 (SIC).- (DEROGADO, P.O. 30 DE JULIO DE 2008)
 
 ## TRANSITORIOS
 
@@ -776,3 +776,9 @@ P.O. 4 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
