@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2007-06-30"
+last_updated: "2008-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -210,6 +210,10 @@ Los actos, contratos y convenios que se celebren o realicen en contravención a 
 ###### ARTICULO 15.
 
 Corresponde a los Entes Públicos llevar a cabo los procedimientos para contratar y ejecutar la obra pública y servicios relacionados con las mismas, por lo que en ningún caso se podrán contratar servicios para que por su cuenta y orden se contraten las obras o servicios de que se trate. Quedan exceptuados de esta disposición los Poderes Legislativo y Judicial.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2008)</small>
+
+ARTICULO 15 BIS.- Los entes públicos a que se refiere el artículo 1o., se abstendrán de fijar en las obras públicas el nombre del o de los servidores públicos, de sus cónyuges o parientes consanguíneos hasta el cuarto grado, en vida, que, durante el periodo de ejecución de las mismas, se encuentren en el ejercicio de su encargo, o bien, de asignarles el nombre propio de alguno de ellos a tales obras.
 
 ## TITULO SEGUNDO
 
@@ -1448,3 +1452,9 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 30 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
