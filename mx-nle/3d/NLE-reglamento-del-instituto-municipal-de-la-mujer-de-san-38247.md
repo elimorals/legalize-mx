@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-la-mujer-de-san-38247"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-04"
-last_updated: "2008-07-04"
+last_updated: "2008-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE SAN NICOLÁS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2008.
 
 Reglamento publicado en el Periódico Oficial de Estado de Nuevo León, el viernes 6 de febrero de 2004.
 
@@ -249,17 +249,17 @@ XVII. Las demás que establezca el presente Reglamento y demás disposiciones ap
 
 El Consejo Directivo del Instituto se Integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-I.- Una o un Presidente que será el o la Directora General del Instituto;
+I.- Una Presidenta, que será la Directora General del Instituto;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-II.- Una o un Secretario Técnico que será un funcionario o empleado del Instituto, designado por el Director General;
+II.- Una o un Secretario Técnico, que será un funcionario o empleado del Instituto, designado por la Directora General;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2008)</small>
 
-III.- Cuatro consejeras nombradas por el R. Ayuntamiento que serán una representante del Instituto Estatal de las Mujeres de Nuevo León, una representante de la Comisión Estatal de Derechos Humanos, una representante de la Facultad de Trabajo Social de la Universidad Autónoma de Nuevo León, y una representante de la Cámara de la Industria.
+III.- Cuatro Consejeras nombradas por el R. Ayuntamiento, que serán distinguidas mujeres, dos de ellas integrantes de Organismos Públicos o de la Sociedad Civil; una representante de alguna de las Universidades de San Nicolás de los Garza, Nuevo León, así como una representante de la Cámara de la Industria del Municipio;
 
 Las Consejeras durarán en su cargo un período de tres años, el cual deberá coincidir con el del ejercicio del Ayuntamiento, pudiendo ser ratificadas.
 
@@ -267,37 +267,41 @@ En el caso que el nombramiento de Consejeras recaiga en integrantes de organismo
 
 Las Consejeras permanecerán en su cargo hasta que el Ayuntamiento realice nuevo nombramiento.
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-IV.- Cuatro vocales que serán una Ex-Presidenta del Desarrollo Integral de la Familia DIF Municipal, una representante del sector empresarial en el Municipio, una representante de una Asociación o Sociedad Civil del Municipio y la Presidenta de la Comisión de Equidad de Género del R. Ayuntamiento. Las y los vocales durarán en funciones hasta que el R. Ayuntamiento, realice nuevo nombramiento.
+IV.- Cuatro vocales, que serán una o un ciudadano distinguido del Municipio; una o un representante del Sector Empresarial en el Municipio; una o un representante de una Asociación o Sociedad Civil del Municipio y la Presidenta de la Comisión de Equidad de Género del R. Ayuntamiento. Las o los vocales durarán en funciones hasta que el R. Ayuntamiento realice nuevo nombramiento.
 
 ###### ARTÍCULO 14.
 
 El funcionamiento del Consejo Directivo se sujetará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-I. La o el Presidente del Consejo dirigirá las sesiones del mismo y tendrá voto de calidad en caso de empate en la votación de acuerdos o resoluciones;
+I. La Presidenta del Consejo dirigirá las sesiones del mismo y tendrá voto de calidad en caso de empate en la votación de acuerdos o resoluciones;
 
-II. Sesionarán en forma ordinaria cada tres meses, cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año. Pudiendo además celebrar las sesiones extraordinarias que se requieran, previa convocatoria expresa de la Secretaria Técnica del Consejo Directivo, de la o el Presidente Municipal en su carácter de Presidente del Consejo Directivo, o de la mayoría de los integrantes del propio Consejo.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
+
+II. Sesionarán en forma ordinaria cada tres meses, cuando menos, de acuerdo a un calendario que será aprobado en la primera sesión ordinaria del año. Pudiendo además celebrar las sesiones extraordinarias que se requieran, previa convocatoria expresa de la o el Secretario Técnico, de la Presidenta o de la mayoría de los integrantes del propio Consejo Directivo;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
 
 III. Las sesiones se celebrarán con la asistencia de la mayoría de sus integrantes en primera convocatoria, o con la asistencia de los presentes en segunda convocatoria. Sus resoluciones se tomarán por mayoría de votos de los presentes;
 
-IV. De cada sesión se formulará un acta que contenga los pormenores de los acuerdos tomados y que deberá ser firmada por los asistentes o al menos por quien la haya presidido y por la Secretaria Técnica del Consejo Directivo quién será responsable de la formulación y custodia de las actas.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+IV. De cada sesión se formulará un acta que contenga los pormenores de los acuerdos tomados y que deberá ser firmada por los asistentes o al menos por quien la haya presidido y por la o el Secretario Técnico del Consejo Directivo, quien será responsable de la formulación y custodia de las actas;
 
-V. En ausencia de la o el Presidente del Consejo presidirá las sesiones el Secretario Técnico;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2008)</small>
+V. En ausencia de la Presidenta del Consejo presidirá las sesiones, la o el Secretario Técnico;
 
-VI. En ausencia de la o el Secretario Técnico, auxiliará a la o el Presidente del Consejo, la Vocal Presidente de la Comisión de Equidad de Género del R. Ayuntamiento o en su defecto cualquier otro vocal designado por el Presidente del Consejo;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2008)</small>
+VI. En ausencia de la o el Secretario Técnico, auxiliará a la Presidenta del Consejo, la Vocal Presidenta de la Comisión de Equidad de Género del R. Ayuntamiento o en su defecto, cualquier otro vocal designado por la Presidenta del Consejo;
 
-VII. El Secretario Técnico tendrá derecho a voz, más no a voto, y auxiliará al Presidente del Consejo en la conducción de las sesiones. Tomará nota de los acuerdos del Consejo y elaborará el acta respectiva;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
+
+VII. La o el Secretario Técnico tendrá derecho a voz, más no a voto, y auxiliará a la Presidenta del Consejo, en la conducción de las sesiones. Tomará nota de los acuerdos del Consejo y elaborará el acta respectiva;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2008)</small>
 
@@ -329,9 +333,9 @@ El nombramiento de la Directora General, que haga la o el Presidente Municipal, 
 
 La Dirección General tendrá las siguientes atribuciones y responsabilidades:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2008)</small>
 
-I. Ejecutar los acuerdos del Consejo Directivo y fungir como Presidente de dicho órgano;
+I. Ejecutar los acuerdos del Consejo Directivo y fungir como Presidenta de dicho órgano.
 
 II. Proponer al Consejo Directivo; programas y acciones que deba desarrollar el instinto, así como ejecutarlos.
 
@@ -546,3 +550,9 @@ P.O. 4 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
