@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2007-11-10"
+last_updated: "2008-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2008.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -289,7 +289,15 @@ En toda acta del estado civil, se anotará la clave única del registro de pobla
 
 49.- El Director, el Jefe del Departamento de Archivo Central, los Oficiales del Registro Civil y los Oficiales de Certificación del Registro Civil, con independencia del ámbito de sus respectivas jurisdicciones, deberán expedir toda clase de certificaciones, constancias y testimonios relativos a los actos y actas del estado civil de las personas.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2008)</small>
+
+La certificación a que se refiere el párrafo anterior, podrá autentificarse por firma autógrafa o electrónica del Servidor Público facultado para ello. Dichas firmas deberán ser registradas y autorizadas por la Dirección del Registro Civil, a efecto de verificar su veracidad.
+
 Los documentos antes señalados serán suficientes para comprobar el estado civil de las personas.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2008)</small>
+
+Por firma electrónica se entenderá aquella que se utilice como forma de autentificar los actos y procedimientos administrativos efectuados mediante el uso de medios electrónicos o contenidos en archivos electrónicos y consiste en un conjunto de datos únicos encriptados, asociados a un mensaje digital, que permita garantizar la identidad del firmante y la integridad del mensaje.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
@@ -11659,13 +11667,19 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 2892.- Los lugares en que deba existir una Oficina del Registro Público serán fijados por el Código Administrativo del Estado, el cual determinará asimismo el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2008)</small>
 
-2893.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados o resguardados en soporte magnético u óptico decodificados o reproducibles de cualquier forma por un sistema informático.
+2893.- El Registro será público y podrá operar con un programa informático.
 
-También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en las diferentes secciones del Registro; así como certificaciones en caso de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+Los usuarios podrán presentar en forma física o por medios electrónicos, los documentos que pretenden inscribir, acompañados, en su caso, de las formas precodificadas necesarias para la inscripción, en los términos que señale la ley respectiva.
 
-La autoridad registral queda exceptuada de la obligación establecida en el párrafo anterior respecto a la información resguardada en la Sección Octava del Registro Público de la Propiedad y del Notariado.
+Los encargados de las oficinas tienen la obligación de permitir a quienes lo soliciten, el acceso a la información de las inscripciones que obren en libros o en el archivo electrónico de las Oficinas Registrales. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que obren en dicho archivo; así como certificaciones en caso de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+
+Las certificaciones a que se refiere el párrafo anterior, podrán autentificarse por la firma autógrafa o electrónica del Servidor Público autorizado para ello. La Dirección emitirá los lineamientos necesarios e implementará el proceso de certificación y validación de firmas electrónicas autorizadas, salvaguardando la confidencialidad de los datos.
+
+Por firma electrónica se entenderá aquella que se utilice como forma de autentificar los actos y procedimientos administrativos efectuados mediante el uso de medios electrónicos o contenidos en archivos electrónicos y consiste en un conjunto de datos únicos encriptados, asociados a un mensaje digital, que permita garantizar la identidad del firmante y la integridad del mensaje; un documento expedido por un medio electrónico signado por el Funcionario Público autorizado para ello, quien tendrá la facultad para signar por medios electrónicos y que autentificará los datos contenidos en el acta.
+
+La autoridad registral queda exceptuada de la obligación establecida en los párrafos segundo y tercero, respecto a la información resguardada en la Sección Octava del Registro Público de la Propiedad y del Notariado.
 
 ## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
@@ -11755,9 +11769,11 @@ III.- Los documentos privados que en esta forma fueren válidos con arreglo a la
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2008)</small>
 
-2906.- Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+2906.- Toda inscripción que se haga en el Registro, ya sea en folio electrónico o que se asiente en libros, expresará las circunstancias siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
 
 I.- La descripción exacta de los bienes que sea objeto del acto jurídico. Si se trata de inmuebles, se identificarán señalando:
 
@@ -11765,27 +11781,47 @@ a) Si son rústicos o urbanos;
 
 b) Su ubicación, colindancias o linderos y superficie, relacionando el último título de propiedad, citando los datos de inscripción en el Registro Público o el hecho de no estar registrado;
 
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
+
 II.- El valor de los bienes a que se refiere la fracción anterior;
 
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
+
 III.- Las estipulaciones esenciales y modalidades de los actos jurídicos que se pretendan registrar;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
 
 IV.- La naturaleza, extensión, valor, condiciones y cargos del derecho que se constituya, transmita, modifique o extinga;
 
 Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
 
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
+
 V.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado y, si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr.
 
 Cuando sólo se haya gravado una superficie parcial del inmueble, deberá hacerse una identificación clara de la misma sobre la totalidad del bien;
 
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
+
 VI.- Los datos generales de las personas que por sí o por medio de representantes hubieran celebrado el contrato o ejecutado el acto sujeto a inscripción, relativos a su nombre y apellidos, nacionalidad, lugar y fecha de nacimiento, estado civil, ocupación y domicilio. Tratándose de personas casadas, cuando sea trascendente el régimen patrimonial de su matrimonio para el acto jurídico que se hace constar, se expresará además el nombre del cónyuge, lugar y fecha de matrimonio y el régimen patrimonial del mismo. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades por su razón o denominación;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
 
 VII.- La personalidad de quien hubiera comparecido en representación de otro, acreditada en los términos de la ley;
 
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
+
 VIII.- La naturaleza del acto o contrato;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
 
 IX.- El número de instrumento correspondiente, el lugar y fecha en que se asentó, así como el nombre, apellido y número del Notario. En los casos en que la ley lo prevenga, se deberá precisar también la hora en que se otorgó;
 
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
+
 X.- La fecha y hora de la presentación del título para su registro;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2003)</small>
 
 XI.- Tratándose de anotaciones marginales derivadas de la cancelación o nulidad de inscripción, la descripción del instrumento que la origina, el número de expediente, el juzgado que conoce del procedimiento en que se solicita la nulidad o cancelación de la inscripción, la cuantía de la garantía y la mención del tipo y número de documentos mediante el cual se cubrió.
 
@@ -12414,3 +12450,13 @@ P.O. 10 DE NOVIEMBRE DE 2007.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El servicio del Registro Civil se brinda en Oficinas Estatales, Municipales y Seccionales. Las firmas autógrafas podrán aplicarse en cualquier Oficialía del Estado y la electrónica estará vigente en las Oficialías Estatales, en los Centros Digitales de Trámites y Servicios y en las Recaudaciones de Rentas. En las Oficialías Municipales y Seccionales, el Registro Civil tendrá la facultad para incorporarlas a la firma electrónica conforme avance su modernización.
