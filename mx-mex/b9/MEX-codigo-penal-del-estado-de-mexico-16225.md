@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2008-07-25"
+last_updated: "2008-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -615,7 +615,9 @@ II. La magnitud del daño causado al bien jurídico y del peligro a que hubiere 
 
 III. Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
 
-IV. La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido;
+> <small>(REFORMADA, G.G. 31 DE JULIO DE 2008)</small>
+
+IV. La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido; para tal efecto, se considerará la circunstancia de que se haya cometido el delito, en razón del origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias o estado civil de la víctima;
 
 V. La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico, indígena se tomarán en cuenta, además, sus usos y costumbres;
 
@@ -2443,6 +2445,8 @@ SUBTITULO CUARTO
 
 DELITOS CONTRA LA LIBERTAD SEXUAL
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE JULIO DE 2008)</small>
+
 ###### Artículo 235.
 
 Al que intencionalmente y en contravención a las disposiciones legales en materia de protección a la flora y la fauna o normas técnicas relacionadas con esta materia de competencia estatal:
@@ -2475,7 +2479,9 @@ Será necesario que la secretaria del ramo formule la denuncia correspondiente p
 
 La reparación del daño respecto de los delitos contenidos en este subtítulo, se aplicará en favor de la colectividad a través de la autoridad correspondiente.
 
-### CAPITULO I. ACOSO SEXUAL
+### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(REFORMADO, G.G. 31 DE JULIO DE 2008)</small>
 
 ## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
 
@@ -2867,7 +2873,15 @@ Este delito sólo se perseguirá por querella.
 
 ###### Artículo 269.
 
-Al que con fines de lujuria asedie reiteradamente a persona de cualquier sexo que le sea subordinada, valiéndose de su posición derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique jerarquía, se le impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+Comete el delito de hostigamiento sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo que le sea subordinada, valiéndose de su posición derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique jerarquía; y se le impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+
+Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo.
+
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2008)</small>
+
+Artículo 269 BIS.- Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima; y se le impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+
+Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido de su cargo.
 
 ###### Artículo 270.
 
@@ -3101,7 +3115,7 @@ XIV. Cuando el robo se cometa al interior de un vehículo automotor particular o
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
-XV. Si en los actos mencionados en las fracciones anteriores, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este articulo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+XV. Si en las actos mencionados en las fracciones anteriores, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este articulo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 ###### Artículo 291.
 
@@ -3461,7 +3475,7 @@ Al responsable, se le impondrán de cien a quinientos días multa o prisión de 
 
 A quien vote más de una vez en una misma elección se le aumentara hasta el doble de la pena señalada en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 318.
 
@@ -3809,7 +3823,7 @@ SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-P.O. 25 DE JULIO DE 2008.
+G.G. 25 DE JULIO DE 2008.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3818,3 +3832,9 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE JULIO DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
