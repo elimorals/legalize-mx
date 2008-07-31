@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2008-04-30"
+last_updated: "2008-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2008.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -757,11 +757,11 @@ ARTICULO 105
 
 Los representantes del Fisco, de los Ayuntamientos, de la Beneficencia y del Ministerio Público, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2008)</small>
 
 ARTICULO 106
 
-Presentada la regularización de gastos y costas, se emplazará a las partes para una audiencia que deberá efectuarse a más tardar dentro de cinco días, en la cual se dictará la resolución que proceda. Si nada expusiere la parte demandada, se aprobará la regulación, siempre que esté de acuerdo con lo dispuesto por el artículo 104 o el arancel.
+Exhibida la planilla de gastos y costas, por quien hubiere obtenido sentencia favorable, quedará en el juzgado a la vista de su contraparte, por el término de tres días; transcurrido el cual se dictará la resolución que proceda. Si nada expusiere la parte condenada, se aprobará la propuesta, siempre que esté de acuerdo con lo dispuesto en el artículo 104 o el arancel.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -5081,7 +5081,7 @@ La declaración de incapacidad por causa de demencia que no resulte declarada en
 
 > <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
-El nombramiento de tutor interino deberá recaer por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
+El nombramiento de tutor interino deberá recaer por su orden, en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
 
 En el caso de no haber ninguna de las personas indicadas, o no siendo aptas para la tutela, el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
 
@@ -5998,6 +5998,12 @@ G.O. 30 DE ABRIL DE 2008.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+G.O. 31 DE JULIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
