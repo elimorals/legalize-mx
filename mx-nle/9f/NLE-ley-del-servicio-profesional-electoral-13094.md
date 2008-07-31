@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-profesional-electoral-13094"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-02"
-last_updated: "1998-12-02"
+last_updated: "2008-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO PROFESIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de diciembre de 1998.
 
@@ -245,9 +245,17 @@ IV. El Director de Capacitación Electoral;
 
 V. El Director Jurídico;
 
-VI. El Director de Administración; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2008)</small>
 
-VII. El personal necesario para realizar las actividades especializadas del servicio que determine la Comisión en el Catálogo.
+VI. El Director de Administración;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2008)</small>
+
+VII. El Director de Fiscalización a Partidos Políticos; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2008)</small>
+
+VIII. El personal necesario para realizar las actividades especializadas del servicio que determine la Comisión en el Catálogo.
 
 ###### Artículo 31.
 
@@ -550,3 +558,9 @@ LIC. FERNANDO DE JESUS CANALES CLARIOND
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE LUIS COINDREAU GARCIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
