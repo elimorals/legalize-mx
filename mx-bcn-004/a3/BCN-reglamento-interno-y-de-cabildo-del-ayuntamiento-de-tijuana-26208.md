@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2006-07-21"
+last_updated: "2008-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -821,7 +821,9 @@ IV.- Comisión de Régimen Interno;
 
 V.- Comisión de Obras y Servicios Públicos;
 
-VI.- Comisión de Desarrollo Urbano y Control Ecológico;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+VI.- Comisión de Desarrollo Urbano y Medio Ambiente;
 
 VII.- Comisión de Seguridad Pública;
 
@@ -857,7 +859,9 @@ XVIII.- Comisión de Equidad y Género.
 
 XX (SIC).- Comisión de Derechos Humanos y Grupos Vulnerables.
 
-Para efectos de crear nuevas Comisiones permanentes, deberá procederse a la reforma del present (sic) Reglamento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+Para efectos de crear nuevas Comisiones permanentes, deberá procederse a la reforma del presente Reglamento.
 
 ###### ARTICULO 80.
 
@@ -951,15 +955,21 @@ VI.- Dictaminar respecto de los proyectos de disposiciones normativas en materia
 
 VII.- En general, aquellas que el Cabildo le encomiende
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 85.
 
-Comisión de Desarrollo Urbano y Control Ecológico.- La Comisión de Desarroll (sic) Urbano y Control Ecológico tendrá las siguientes atribuciones:
+Comisión de Desarrollo Urbano y Medio Ambiente.- La Comisión de Desarrollo Urbano y Medio Ambiente tendrá las siguientes atribuciones:
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observanci (sic) general en materia de desarrollo urbano y control ecológico;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de desarrollo urbano y Medio Ambiente;
 
 II.- Vigilar la elaboración y actualización de los programas de desarrollo urbano del Municipio;
 
-III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para eficientar lo (sic) programas de desarrollo urbano y control ecológico que implemente el Gobierno Municipal, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para eficientar los programas de desarrollo urbano y Medio Ambiente que implemente el Gobierno Municipal, y
 
 IV.- En general, aquellas que el Cabildo le encomiende.
 
@@ -1442,3 +1452,9 @@ P.O. 21 DE JULIO DE 2006.
 PRIMERO.- El presente Acuerdo entrará en vigor al momento de su aprobación y se Publicara en el periódico oficial, órgano de difusión del gobierno del Estado de Baja California, y en un diario local de mayor circulación, y/o la Gaceta Municipal, para conocimiento de los vecinos.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el periódico Oficial del Estado y/o en la Gaceta Municipal órgano de difusión del Ayuntamiento de Tijuana Baja California.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones municipales que se opongan a lo establecido en el presente acuerdo.
