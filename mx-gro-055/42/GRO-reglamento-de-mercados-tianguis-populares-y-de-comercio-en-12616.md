@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-mercados-tianguis-populares-y-de-comercio-en-1261
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-20"
-last_updated: "1998-10-20"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 REGLAMENTO DE MERCADOS, TIANGUIS POPULARES Y DE COMERCIO EN LA VIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 20 de octubre de 1998.
 
@@ -321,35 +321,11 @@ III.- El que realice el vendedor con puesto semifijo, debidamente autorizado, in
 
 IV.- El que realice el vendedor con puesto fijo, debidamente autorizado, instalando muebles en la vía pública en forma permanente, es decir que no los retira al final de la jornada.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 34.
 
-Queda prohibida la autorización y desarrollo del comercio en la vía pública, cualquiera que sea su modalidad, en las siguientes calles, plazas y avenidas de la cabecera municipal:
-
-I.- Benito Juárez.
-
-II.- Plazuela del Ex-Convento.
-
-III.- Calle y Plazuela de las Estacadas.
-
-IV.- Plazuela de Bernal.
-
-V.- Juan Ruíz de Alarcón.
-
-VI.- Becerra y Tanco.
-
-VII.- Zócalo.
-
-VIII.- Real de Cuauhtémoc.
-
-IX.- Plazuela de San Juan.
-
-X.- Miguel Hidalgo.
-
-XI.- Segunda de Miguel Hidalgo.
-
-XII.- Morelos y
-
-XIII.- Aquellos que determine el Ayuntamiento.
+Queda prohibida la autorización y desarrollo del comercio en la vía pública, cualquiera que sea su modalidad, en las siguientes calles, plazas y avenidas de las cabeceras municipales: Benito Juárez, Plazuela del Exconvento, Calle y Plazuela de las Estacadas, Plazuela de Bernal, Juan Ruíz de Alarcón, Becerra y Tanco, Zócalo, Real de Cuauhtémoc, Plazuela de San Juan, Miguel Hidalgo, Segunda de San Miguel, Morelos, Calle Luis Montes de Oca, Calle de los Pajaritos y Calle Tetitlan y aquellas que determine el Ayuntamiento.
 
 ### CAPITULO V
 
@@ -642,3 +618,9 @@ Rúbrica.
 C. JOSE AVILES CUEVAS.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2008.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUERRERO.
