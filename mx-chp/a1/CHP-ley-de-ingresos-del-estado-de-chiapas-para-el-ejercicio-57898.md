@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-57898"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-11-21"
-last_updated: "2008-02-20"
+last_updated: "2008-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2008
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -43,139 +43,129 @@ Ley de Ingresos del Estado de Chiapas para el Ejercicio Fiscal 2008
 
 ### Capítulo Primero. Generalidades
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-La Hacienda Pública del Estado de Chiapas, percibirá durante el Ejercicio Fiscal del 2008, los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
+###### Artículo 1°.
 
-Conceptos Miles de
+La Hacienda Pública del Estado de Chiapas, percibirá durante el Ejercicio Fiscal 2008, los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
 
-Pesos
+Concepto Miles de pesos
 
-1. Ingresos propios 2,360,692
+1. Ingresos propios. 2,360,692
 
-1.1. Impuestos. 857,608
+1.1. Impuestos. 852,901
 
 1.1.1. Nóminas. 728,866
 
-1.1.2. Ejercicio Profesional de la Medicina 4,707
+1.1.2. Hospedaje. 12,084
 
-1.1.3. Hospedaje. 12,084
+1.1.3. Tenencia Estatal o Uso de Vehículos
 
-1.1.4. Tenencia Estatal o Uso de
+automotores. 64,912
 
-Vehículos automotores. 64,912
+1.1.4. Adquisición de Vehículos Automotores
 
-1.1.5. Adquisición de Vehículos
+Usados. 45,066
 
-Automotores Usados. 45,066
+1.1.5. Juegos Permitidos, Rifas, Sorteos,
 
-1.1.6. Juegos Permitidos, Rifas,
-
-Sorteos, Loterías y Concursos. 1,973
+Loterías y Concursos. 1,973
 
 1.2. Derechos. 756,929
 
-1.2.1. Servicios que presta la
+1.2.1. Servicios que presta la Secretaría
 
-Secretaría de Gobierno. 155,120
+de Gobierno. 155,120
 
-1.2.2. Servicios que presta la
+1.2.2. Servicios que presta la Secretaría de
 
-Secretaría de Finanzas. 314,905
+Hacienda. 314, 905
 
-1.2.3. Servicios que presta la
+1.2.3 Servicios que presta la Secretaría de
 
-Secretaría de Administración. 4,537
+Administración. 4,537
 
-1.2.4. Servicios que presta la
+1.2.4. Servicios que presta la Secretaría
 
-Secretaría del Campo. 4
+del Campo. 4
 
-1.2.5. Servicios que presta la
+1.2.5. Servicios que presta la Secretaría de
 
-Secretaría de Seguridad y Protección
+Seguridad y Protección Ciudadana. 121,458
 
-Ciudadana. 121,458
+1.2.6. Servicios que presta la Secretaría
 
-1.2.6. Servicios que presta la
+de Transportes. 36,060
 
-Secretaría de Transportes. 36,060
+1.2.7 Servicios que presta la Secretaría
 
-1.2.7. Servicios que presta la
+de Educación. 18,542
 
-Secretaría de Educación. 18,542
+1.2.8. Servicios que presta la Secretaría
 
-1.2.8. Servicios que presta
+de Salud. 91,278
 
-la Secretaría de Salud. 91,278
+1.2.9. Servicios que presta la Secretaría
 
-1.2.9. Servicios que presta la
+de Turismo y Proyectos Estratégicos. 2,362
 
-Secretaría de Turismo y Proyectos
+1.2.10. Servicios que presta la Secretaría
 
-Estratégicos 2,362
+de la Contraloría. 4,580
 
-1.2.10. Servicios que presta la
+1.2.11. Servicios que presta el Instituto de
 
-Secretaría de la Contraloría. 4,580
+Historia Natural
 
-1.2.11. Servicios que presta el
+y Ecología. 483
 
-Instituto de Historia Natural y
+1.2.12. Servicios que presta el Consejo de
 
-Ecología 483
+Ejecución de Sanciones Penales y
 
-1.2.12. Servicios que presta el
+Medidas de Seguridad. 6,392
 
-Consejo de Ejecución de Sanciones
+1.2.13. Servicios que presta el Ministerio de
 
-Penales y Medidas de
+Justicia del Estado. 1,102
 
-Seguridad. 6,392
+1.2.14. Costos de reproducción y gastos de
 
-1.2.13. Servicios que presta el
+envío en materia de acceso a la
 
-Ministerio de Justicia del Estado. 1,102
-
-1.2.14. Costos de reproducción y gastos
-
-de envío en materia de acceso a la
-
-Información 1
+Información Pública. 1
 
 1.2.15. Otros Derechos. 105
 
 1.3. Productos. 398,571
 
-1.3.1. Venta de Bienes Muebles
+1.3.1. Venta de Bienes Muebles e inmuebles
 
-e inmuebles del Estado. 1
+del Estado. 1
 
-1.3.2. Arrendamiento de Bienes
+1.3.2. Arrendamiento de Bienes Muebles e
 
-Muebles e Inmuebles del Estado. 247
+Inmuebles del Estado. 247
 
 1.3.3. Uso de Bienes o Instalaciones
 
 Terrestres Aeroportuarias. 1
 
-1.3.4. Venta del Periódico Oficial del
+1.3.4. Venta del Periódico Oficial del Estado. 245
 
-Estado 245
+1.3.5. Rendimientos de Establecimientos y
 
-1.3.5. Rendimientos de Establecimientos
-
-y Empresas del Estado. 1
+Empresas del Estado. 1
 
 1.3.6. Utilidad de Inversiones, Acciones,
 
-Créditos y Valores que por algún título
+Créditos y Valores que por algún
 
-correspondan al Estado. 4,481
+título correspondan al Estado. 4,481
 
-1.3.7. Venta de publicaciones oficiales
+1.3.7. Venta de publicaciones oficiales que
 
-que edite el Gobierno del Estado. 9
+edite el Gobierno del Estado. 9
 
 1.3.8. Productos Financieros. 393,571
 
@@ -189,39 +179,37 @@ que edite el Gobierno del Estado. 9
 
 1.4.3. Reparación del daño. 1
 
-1.4.4. Restituciones que por
+1.4.4. Restituciones que por cualquier causa
 
-cualquier causa se haga al fisco 1
+se haga al fisco. 1
 
-1.4.5. Donativos, herencias y
+1.4.5. Donativos, herencias y legados a favor
 
-legados a favor del Estado. 1
+del Estado. 1
 
 1.4.6. Indemnizaciones. 1
 
-1.4.7. Fianzas o cauciones
+1.4.7. Fianzas o cauciones que la autoridad
 
-que la autoridad administrativa
-
-ordene hacer efectivas. 4,050
+administrativa ordene hacer efectivas. 4,050
 
 1.4.8. Reintegros y alcances. 146,708
 
-1.4.9. Aportaciones del Gobierno
+1.4.9. Aportaciones del Gobierno Federal y
 
-Federal y de terceros para obras
+de terceros para obras y servicios de
 
-y servicios de beneficio social a
+beneficio social a cargo del Gobierno
 
-cargo del Gobierno del Estado. 2,698
+del Estado. 2,698
 
 1.4.10. Aprovechamientos de dependencias
 
 y entidades del Estado. 17,086
 
-1.4.11. Aportaciones de contratistas de
+1.4.11. Aportaciones de contratistas de obra
 
-obra pública para obras de beneficio social. 49,249
+pública para obras de beneficio social. 49,249
 
 1.4.12. Aportaciones al fondo catastro. 9,015
 
@@ -231,17 +219,15 @@ obra pública para obras de beneficio social. 49,249
 
 1.5.1. 6% adicional para atención a
 
-salvamentos y servicios médicos por
+salvamentos y servicios médicos
 
-instituciones altruistas. 6,240
+por instituciones altruistas. 6,240
 
-2. Ingresos Derivados de la
+2. Ingresos Derivados de la Coordinación Fiscal. 38,021,756
 
-Coordinación Fiscal. 38, 021,756
+2.1. Participaciones Fiscales Federales. 14,673.601
 
-2.1. Participaciones Fiscales Federales. 14, 673,601
-
-2.1.1. Fondo General de Participaciones 13, 180,904
+2.1.1. Fondo General de Participaciones. 13,180.904
 
 2.1.2. Fondo de Fomento Municipal. 230,327
 
@@ -251,19 +237,17 @@ Especiales. 131,770
 
 2.1.4. Fondo de Fiscalización. 656,000
 
-2.1.5. Fondo de Compensación. 300,900
+2.1.5. Fondo de Compensación 300,900
 
-2.1.6. Fondo de Extracción de
+2.1.6. Fondo de Extracción de Hidrocarburos 173,700
 
-Hidrocarburos. 173,700
+2.2. Incentivos por Administración de
 
-2.2. Incentivos por Administración
+Ingresos Federales. 736,807
 
-de Ingresos Federales. 736,807
+2.2.1. Impuesto sobre Tenencia o uso de
 
-2.2.1. Impuesto sobre Tenencia o
-
-uso de Vehículos. 308,133
+Vehículos 308,133
 
 2.2.2. Fiscalización. 12,373
 
@@ -271,99 +255,75 @@ uso de Vehículos. 308,133
 
 2.2.4. Multas Federales no Fiscales. 2,811
 
-2.2.5. Derechos de Inspección y
+2.2.5. Derechos de Inspección y Vigilancia 27,497
 
-Vigilancia. 27,497
+2.2.6. Zona Federal Marítimo Terrestre 357
 
-2.2.6. Zona Federal Marítimo
+2.2.7. Impuesto sobre automóviles nuevos 113,591
 
-Terrestre. 357
+2.2.8. Fondo de Compensación del ISAN 28,349
 
-2.2.7. Impuesto sobre Automóviles
+2.2.9. ISR por Régimen Intermedio 16,704
 
-Nuevos. 113,591
+2.2.10. ISR Régimen de Pequeños
 
-2.2.8. Fondo de compensación
+Contribuyentes. 40,385
 
-del ISAN. 28,349
+2.2.11. IVA Régimen de Pequeños
 
-2.2.9. I .S.R. por Régimen
+Contribuyentes 24,222
 
-Intermedio. 16,704
+2.2.12. ISR por Enajenación de Bienes. 29,619
 
-2.2.10. I .S .R. Régimen de
+2.2.13. Derechos por Servicios Turísticos. 18
 
-Pequeños Contribuyentes. 40,385
+2.2.14. Impuestos a la venta final de
 
-2.2.11. IVA Régimen de
-
-Pequeños Contribuyentes. 24,222
-
-2.2.12. I .S .R. por Enajenación
-
-de Bienes. 29,619
-
-2.2.13. Derechos por Servicios
-
-Turísticos. 18
-
-2.2.14. Impuestos a la venta final
-
-de gasolina y diesel. 119,000
+gasolina y diesel. 119,000
 
 2.2.15. Otros Incentivos. 2,371
 
-2.3. Aportaciones y Subsidios
+2.3. Aportaciones y Subsidios Federales. 22,611,348
 
-Federales. 22,611,348
+2.3.1. Fondo de Aportaciones para la
 
-2.3.1. Fondo de Aportaciones
+Educación Básica y Normal. 10,564,707
 
-para la Educación Básica y Normal. 10, 564,707
-
-2.3.2. Fondo de Aportaciones de Salud. 2, 071,707
+2.3.2. Fondo de Aportaciones de Salud 2,071,707
 
 2.3.3. Fondo de Aportaciones para
 
-Infraestructura Social. 3, 960,432
+Infraestructura Social 3,960,432
 
-2.3.4. Fondo de Aportaciones
+2.3.4. Fondo de Aportaciones para el
 
-para el Fortalecimiento de los
+Fortalecimiento de los Municipios 1,491,259
 
-Municipios. 1, 491,259
+2.3.5. Fondo de Aportaciones Múltiples. 618,690
 
-2.3.5. Fondo de Aportaciones
+2.3.6. Fondo de Aportaciones para la
 
-Múltiples. 618,690
+Educación Tecnológica y de Adultos. 202,816
 
-2.3.6. Fondo de Aportaciones
+2.3.7. Fondo de Aportaciones para la
 
-para la Educación Tecnológica
+Seguridad Pública. 212,488
 
-y de Adultos. 202,816
+2.3.8. Fondo de Aportaciones para el
 
-2.3.7. Fondo de Aportaciones
+Fortalecimiento de las Entidades
 
-para la Seguridad Pública. 212,488
-
-2.3.8. Fondo de Aportaciones
-
-para el Fortalecimiento de las
-
-Entidades Federativas. 981,192
+Federativas. 981,192
 
 2.3.9. Aportaciones de PEMEX. 70,000
 
-2.3.10. Otras Aportaciones y
+2.3.10. Otras Aportaciones y Subsidios. 2,438,057
 
-Subsidios. 2, 438,057
+3. Ingresos Extraordinarios. -
 
-3. Ingresos Extraordinarios.
+4. Financiamientos y Empréstitos. -
 
-4. Financiamientos y Empréstitos.
-
-Total 40, 382,448
+Total 40,377,741
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
 
@@ -450,3 +410,9 @@ Primero.- El presente de Decreto entrará en vigencia al día siguiente de su pu
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Decreto.
 
 Tercero.- Como consecuencia del contenido de la presente reforma, se suspende el canje de placas en el Estado, en los términos establecidos en el Decreto No. 110, publicado en el Periódico Oficial del Estado No. 071, Tomo III, de fecha 28 de diciembre de 2007.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
