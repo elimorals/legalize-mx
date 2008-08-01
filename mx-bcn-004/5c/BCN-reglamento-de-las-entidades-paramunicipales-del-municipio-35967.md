@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2005-09-23"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -157,6 +157,50 @@ II.- Tres Regidores, Presidentes de las Comisiones relacionadas a la actividad d
 
 III.- Tres representantes de organismos sociales de la ciudad.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+ARTICULO 13 BIS.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, únicamente la Junta de Gobierno del Instituto Municipal de Planeación se integrará de la siguiente manera:
+
+I. El Presidente Municipal, quien presidirá la Junta de Gobierno;
+
+II. El Regidor Presidente de la Comisión de Planeación del Desarrollo Municipal;
+
+III. El Regidor Presidente de la Comisión de Desarrollo Urbano y Control Ecológico;
+
+IV. Regidor Presidente de la Comisión de Obras y Servicios Públicos;
+
+V. un representante de la Comisión Federal de electricidad (CFE):
+
+VI. Un representante de la Secretaría de Desarrollo Social (SEDESOL);
+
+VII. Un representante de la Secretaría de Desarrollo Urbano e Infraestructura del Estado (SIDUE);
+
+VIII. Un representante de la Comisión Estatal de Servicios Públicos de Tijuana (CESPT);
+
+IX. Director de Administración Urbana (DAU)
+
+X. Director de Obras e Infraestructura Urbana Municipal (DOIUM);
+
+XI. Director de Catastro Municipal (DCM);
+
+XII. Representante de teléfonos de Noroeste (TELNOR);
+
+XIII. Representante de la compañía de Gas de Tijuana;
+
+XIV. Un representante del Colegio de Arquitectos;
+
+XV. Un representante del Colegio de Notarios del Estado de Baja California;
+
+XVI. Un representante de la Cámara Mexicana de la Industria de la Construcción (CMIC);
+
+XVII. Un representante de la Universidad Autónoma de Baja California (UABC);
+
+XVIII. Un representante del Colegio de la Frontera (COLEF);
+
+XIX. Un representante del Consejo Empresarial de Tijuana (CDT), y
+
+XX. Un representante de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda en Baja California.
+
 ###### ARTICULO 14.
 
 Los integrantes propietarios pertenecientes a la Administración Pública, serán nombrados al inicio de la Administración Municipal, durante el tiempo que estén en el cargo, y los representantes de la sociedad serán elegidos por el Ayuntamiento de una terna propuesta por el Presidente, durante el mes decimoctavo de la Administración Municipal quienes durarán en su comisión tres años y no podrán ser reelectos.
@@ -189,7 +233,9 @@ IV.- Los inhabilitados para ejercer el comercio o para desempeñar un empleo, ca
 
 V.- Los titulares y servidores públicos del Poder Legislativo y Poder Judicial del Estado de Baja California;
 
-VI.- Los empleados del Ayuntamiento.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+VI.- Los empleados del Ayuntamiento que no tengan relación o injerencia con el objeto o atribuciones de los organismos descentralizados.
 
 ###### ARTICULO 19.
 
@@ -682,3 +728,11 @@ Se derogan todas aquellas disposiciones municipales que se opongan a las present
 ###### ARTICULO TERCERO.
 
 Realícense los ajustes presupuestales que correspondan a efecto de dar cumplimiento a la presente adición y reforma.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
+
+TERCERO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
