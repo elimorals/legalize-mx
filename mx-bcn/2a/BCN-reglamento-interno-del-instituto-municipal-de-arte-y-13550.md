@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-municipal-de-arte-y-13550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-28"
-last_updated: "2001-07-27"
+last_updated: "2008-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE ARTE Y CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 1998.
 
@@ -49,9 +49,11 @@ De acuerdo con lo establecido en los artículos 73, 74, 77, 78, 79, 80 y demás 
 
 ### Capítulo I. Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1.
 
-El Instituto Municipal de Arte y Cultura de conformidad con el Acuerdo de Creación, publicado en el Periódico Oficial del Estado de Baja California del 23 de enero de 1998, es un organismo descentralizado de la Administración Pública Municipal, con personalidad jurídica, administrativa y patrimonio propias (sic).
+El Instituto Municipal de Arte y Cultura de conformidad con el Acuerdo de Creación, publicado en el Periódico Oficial del Estado de Baja California del 23 de enero de 1998, es un organismo descentralizado de la Administración Pública Municipal, con personalidad jurídica, administrativa y patrimonio propio.
 
 ###### Artículo 2.
 
@@ -75,9 +77,17 @@ Son supletorias de este Reglamento, a falta de disposición expresa:
 
 I.- Las leyes relacionadas con la materia que regula este Reglamento.
 
-II.- La Ley Orgánica Municipal.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
-III.- El Reglamento Interior para el Ayuntamiento de Tijuana y la Administración Pública Municipal.
+II.- La Ley del Régimen Municipal para el Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+III.- El Reglamento de la Administración Pública para el Municipio de Tijuana, Baja California.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+IV.- El Reglamento de las Entidades Paramunicipales del Municipio de Tijuana, Baja California.
 
 ### Capítulo II. De los alcances, competencias, atribuciones y facultades del Instituto Municipal de Arte y Cultura.
 
@@ -97,13 +107,17 @@ III. Apoyar por diversos medios la creación artística de manera integral en to
 
 IV. Apoyar, preservar y difundir las expresiones de la cultura popular y las tradiciones culturales mexicanas.
 
-V. Administrar, dirigir, coordinar y conservar los espacios culturales y los acervos de libros y objetos de arte.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+V. Administrar, dirigir, coordinar y conservar los espacios culturales y los objetos de arte.
 
 VI. Diseñar y emitir convocatorias públicas para concursos en todas las disciplinas con el fin de otorgar estímulos y premios a los artistas mas destacados.
 
 VII. Organizar festivales, encuentros y muestras culturales a nivel regional, nacional y binacional, que estimulen la participación y la creación artística de todos aquellos interesados en cultivar las expresiones del espíritu humano.
 
-VIII. Mantener un sistema de capacitación artística, por medio de talleres, cursos y seminarios a nivel de iniciación de las artes, en los espacios que sean designados para ello, como la Casa de la Cultura, la Galería de Arte de la Ciudad, las bibliotecas públicas Municipales, la Casa de la Cultura de Playas de Tijuana y otros que se vayan incorporando a la infraestructura cultural de la ciudad, tales como programas de profesionalización y especialización artística.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+VIII. Mantener un sistema de capacitación artística, por medio de talleres, cursos y seminarios a nivel de iniciación de las artes, en los espacios que sean designados para ello, como la Casa de la Cultura, la Galería de Arte de la Ciudad, la Casa de la Cultura de Playas de Tijuana y otros que se vayan incorporando a la infraestructura cultural de la ciudad, tales como programas de profesionalización y especialización artística.
 
 IX. Promover la apertura de espacios culturales en la ciudad.
 
@@ -115,7 +129,7 @@ XII. Incrementar la memoria gráfica de la ciudad, por medio de acervos de fotog
 
 XIII. Difundir el conocimiento de la historia local por medio de diversas acciones y actividades.
 
-XIV. Garantizar la oferta de servicios bibliotecarios en la ciudad de Tijuana, incrementando acervos, incorporando tecnología informativa y mejorando los espacios de servicio.
+XIV. (DEROGADA, P.O. 1 DE AGOSTO DE 2008)
 
 XV. Realizar labores editoriales que conduzcan a un adecuado registro de la cultura impresa, publicando libros y colecciones que abarquen todos los géneros literarios: novela, cuento, poesía, ensayo, crónica y dramaturgia.
 
@@ -277,9 +291,11 @@ En caso de proyectos comunitarios prioritarios y no considerados dentro del pres
 
 Presidirán las Juntas Ciudadanas de Consulta por lo menos tres de los integrantes de la Junta de gobierno.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 30.
 
-Para la realización y lgística (sic) de las Juntas Ciudadanas de Consulta y propuesta, la Junta de Gobierno recurrirá a la partida presupuestal que se requiera del propio Instituto Municipal de Arte y Cultura.
+Para la realización y logística de las Juntas Ciudadanas de Consulta y Propuesta, la Junta de Gobierno recurrirá a la partida presupuestal que se requiera del propio Instituto Municipal de Arte y Cultura.
 
 ### Capítulo IV. De los informes y dictámenes de la Junta de Gobierno.
 
@@ -333,11 +349,15 @@ X.- Las demás que le fijen las leyes y reglamentos aplicables en la materia.
 
 La Subdirección Operativa ejercerá las siguientes atribuciones:
 
-I.- Planear, organizar y supervisar la política del gobierno municipal conforme los lineamientos y estrategias que marque el Director del Instituto Municipal de arte y Cultura y en coordinación con los Jefes de departamentos de promoción cultural y comunitaria, las campañas de difusión, divulgación y publicitarias, Programas y Proyectos del sistema Municipal de Bibliotecas, Casas de Cultura, Centros Comunitarios, Vinculación Educativa, Galerías, Museos, Cultura Popular y todas aquellas acciones relacionadas con el Proyecto de Cultura Municipal.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+I.- Planear, organizar y supervisar la política del gobierno municipal conforme los lineamientos y estrategias que marque el Director del Instituto Municipal de Arte y Cultura y en coordinación con los Jefes de departamentos de promoción cultural y comunitaria, las campañas de difusión, divulgación y publicitarias, Casas de Cultura, Centros Comunitarios, Vinculación Educativa, Galerías, Museos, Cultura Popular y todas aquellas acciones relacionadas con el Proyecto de Cultura Municipal.
 
 II.- Colabora con el Director en la elaboración de los programas operativos anuales para ser presentados ante la Junta de Gobierno.
 
-III.- Analiza y estructura los programas operativos anuales aprobados por la Junta de gobierno y la Dirección del Instituto Municipal de Arte y Cultura, con el fin de garantizar el acceso de la comunidad tijuanense a la oferta de bienes y servicios culturales, especialmente en aquellos que se refieran a la promoción cultural, capacitación artística, la producción de espectáculos y los servicios bibliotecarios.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+III.- Analiza y estructura los programas operativos anuales aprobados por la Junta de Gobierno y la Dirección del Instituto Municipal de Arte y Cultura, con el fin de garantizar el acceso de la comunidad tijuanense a la oferta de bienes y servicios culturales, especialmente en aquellos que se refieran a la promoción cultural, capacitación artística, la producción de espectáculos.
 
 IV.- Planea, organiza y ejecuta dichos programas, observando la estructura financiera autorizada para tales efectos.
 
@@ -375,7 +395,11 @@ XX.- Desempeña todo encargo propuesto por la Dirección del Instituto Municipal
 
 XXI.- Cumple con todas las disposiciones previstas por las leyes y reglamentos en la materia.
 
-Artículo 45 (SIC). La Subdirección Administrativa ejerce las siguientes atribuciones:
+(REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 37.
+
+La Subdirección Administrativa ejerce las siguientes atribuciones:
 
 I.- Administra y controla los recursos humanos, materiales y financieros del Instituto Municipal de Arte y Cultura, con base en las políticas establecidas por la Dirección, el Reglamento Interno del Instituto Municipal de Arte y Cultura, el Plan Municipal de Desarrollo y las leyes y reglamentos relativos a su función pública.
 
@@ -413,7 +437,9 @@ XVII.- Propone y prepara documentación contable y financiera para las sesiones 
 
 XVIII.- Colabora con el Director y el Subdirector Operativo en la elaboración del proyecto anual de inversión, para ser presentado a la Junta de Gobierno.
 
-###### Artículo 46.
+(REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 38.
 
 La Coordinación de Programación y Presupuesto ejerce las siguientes atribuciones:
 
@@ -433,7 +459,9 @@ VII.- Proporcionar información presupuestal; reportes comparativos del presupue
 
 VIII.- Tramitar ante la Sub-Dirección Administrativa propuestas de ajustes al presupuesto, para ser solicitados ante la Junta de Gobierno.
 
-###### Artículo 47.
+(REUBICADO [N. DE E. ANTES ARTICULO 47], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 39.
 
 La Coordinación de Contabilidad ejerce las siguientes atribuciones:
 
@@ -455,7 +483,9 @@ VIII.- Proporcionar a la Sub-Dirección Administrativa información contable, qu
 
 IX.- Tramitar oportunamente los pagos por adeudos fiscales, proveedores, Issstecali, sindicato, etcétera.
 
-###### Artículo 48.
+(REUBICADO [N. DE E. ANTES ARTICULO 48], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 40.
 
 La Coordinación de Recursos Humanos ejerce las siguientes atribuciones:
 
@@ -477,7 +507,9 @@ VIII.- Proporcionar información, de la situación del personal, periódicamente
 
 IX.- Tramitar ante la Dirección de Servicios Médicos Municipales los avisos de altas y bajas al personal, para su atención.
 
-###### Artículo 49.
+(REUBICADO [N. DE E. ANTES ARTICULO 49], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 41.
 
 La Dirección de Casas de Cultura ejerce las siguientes atribuciones:
 
@@ -515,41 +547,13 @@ XVI.- Elabora y turna un informe mensual a las SubDirecciones Operativa y Admini
 
 XVII.- Verifica el cumplimiento de las disposiciones y reglamentos vigentes.
 
-###### Artículo 50.
+###### Artículo 42.
 
-Son atribuciones de la Coordinación Generales de Bibliotecas:
+(DEROGADO Y REUBICADO [N. DE E. ANTES ARTICULO 50], P.O. 1 DE AGOSTO DE 2008)
 
-I.- Planear, organizar y dirigir la política cultural del gobierno municipal en materia de servicios bibliotecarios a la comunidad, así como la aplicación de los programas de la red Nacional de Bibliotecas Públicas y los lineamientos establecidos por la Dirección General de Bibliotecas de la Secretaría de Educación Pública.
+(REUBICADO [N. DE E. ANTES ARTICULO 51], P.O. 1 DE AGOSTO DE 2008)
 
-II.- Planea, organiza y ejecuta los programas aprobados por la Dirección del Instituto Municipal de Arte y Cultura conforme a los lineamientos trazados en la Junta de Gobierno del Instituto; ejecuta sus actividades con base en los programas de la Dirección General de Bibliotecas de la Secretaría de Educación Pública.
-
-III.- Presenta un programa anual de actividades, dividido por trimestres, ante la Dirección, en el cual se especifican las formas, contenidos y funciones de cada acción prevista.
-
-IV.- Coordina la planeación y organización de eventos conjuntos con clubes y círculos de lectura, exposiciones, talleres literarios, cineclubes y otros que promuevan la concurrencia de la comunidad a las bibliotecas de la ciudad, en coordinación con las otras áreas del Instituto Municipal de Arte y Cultura como las Casas de Cultura, Promoción Cultural, así como con otras entidades educativas e instituciones de promoción cultural.
-
-V.- Convoca la participación de estudiantes y maestros en la utilización, conservación y enriquecimiento de los servicios bibliotecarios, mediante concursos y eventos especiales con el fin de ampliar la presencia del Instituto Municipal de Arte y Cultura en la comunidad escolar.
-
-VI.- Propone acciones tendientes al enriquecimiento del acervo bibliotecario de la ciudad.
-
-VII.- Determina los objetivos y funciones del personal a su cargo, con el fin de evaluar su desempeño y proponer las acciones educativas o formativas pertinentes para evaluar la calidad de los servicios que prestan a la comunidad.
-
-VIII.- Lleva el control de los inventarios bibliográficos, hemerográficos y de material electromagnético existentes en las unidades a su cargo.
-
-IX.- Supervisa y evalúa la calidad del servicio que cada biblioteca presta a la comunidad.
-
-X.- Propone y ejecuta acciones preventivas y correctivas en función del nivel del servicio prestado.
-
-XI.- Facilita al personal a su cargo los recursos materiales existentes, así como la instrucción que se requiera para el óptimo desempeño de sus funciones.
-
-XII.- Organiza cursos especializados de capacitación y adiestramiento en manejo y servicios bibliotecarios, dirigidos a fortalecer el adiestramiento del personal a su cargo.
-
-XIII.- Es responsable ante la SubDirección Administrativa del Instituto por los recursos materiales a su cargo, procurando llevar al día la información relativa a los acervos, inventarios físicos de activo fijo y otros que le sean asignados.
-
-XIV.- La Coordinación general de Bibliotecas reporta a las Subdirecciones y lleva una relación de coordinación con Casas de la Cultura, Vinculación Educativa, Publicaciones, Cultura Popular y Promoción Cultural y Difusión.
-
-XV.- Elabora un informe mensual de sus actividades y lo turna ante las Sub Direcciones correspondientes del Instituto Municipal de Arte y Cultura.
-
-###### Artículo 51.
+###### Artículo 43.
 
 Son atribuciones del Coordinador general de Promoción Cultural:
 
@@ -577,7 +581,9 @@ XI.- Evalúa el desempeño de sus colaboradores y determina las necesidades de c
 
 XII.- Coordina las reuniones semanales de información con el personal a su cargo.
 
-XIII.- Se reúne por lo menos una vez al mes con los titulares de Bibliotecas, Casas de Cultura, y demás áreas para promover sus actividades.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+XIII.- Se reúne por lo menos una vez al mes con los titulares de Casas de Cultura, y demás áreas para promover sus actividades.
 
 XIV.- Participa en las reuniones trimestrales de evaluación y planeación con los titulares de todas las áreas administrativas y operativas del Instituto.
 
@@ -585,7 +591,9 @@ XV.- Elabora un informe mensual de sus actividades y lo turna a las Subdireccion
 
 XVI.- Apoya a los Subdirectores en la integración de los informes trimestrales y anuales, proporcionando reportes sobre los avances en cada uno de los programas que coordina.
 
-###### Artículo 52.
+(REUBICADO [N. DE E. ANTES ARTICULO 52], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 44.
 
 Son atribuciones de la Coordinación de Difusión:
 
@@ -621,7 +629,9 @@ XV.- Coordina las reuniones quincenales de logística e información con los dep
 
 XVI.- Participa en las reuniones trimestrales de evaluación y planeación con los Titulares de todas las áreas administrativas y operativas del Instituto.
 
-###### Artículo 53.
+(REUBICADO [N. DE E. ANTES ARTICULO 53], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 45.
 
 Son atribuciones de la Coordinación de Publicaciones:
 
@@ -655,7 +665,9 @@ XIV.- Presenta un reporte mensual ante la Subdirección Operativa, del avance de
 
 XV.- Propone los programas formativos y de capacitación que considere pertinentes para elevar la calidad del servicio que su coordinación presta a la comunidad, con base en las deficiencias detectadas en evaluación previa para todo proyecto.
 
-###### Artículo 54.
+(REUBICADO [N. DE E. ANTES ARTICULO 54], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 46.
 
 Son atribuciones de la Coordinación de Vinculación Educativa:
 
@@ -685,7 +697,9 @@ XII.- Verifica que haya un seguimiento en cada una de las acciones que emprende.
 
 XIII.- Elabora un informe mensual de sus actividades y lo turna a la Subdirección Operativa del Instituto Municipal de Arte y Cultura.
 
-###### Artículo 55.
+(REUBICADO [N. DE E. ANTES ARTICULO 55], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 47.
 
 Son atribuciones de la Coordinación de eventos Especiales:
 
@@ -721,7 +735,9 @@ XV.- Es responsable ante la Subdirección Administrativa, por los equipos mueble
 
 XVI.- Elabora un informe mensual de sus actividades y lo turna a las Subdirecciones Operativa y Administrativa.
 
-###### Artículo 56.
+(REUBICADO [N. DE E. ANTES ARTICULO 56], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 48.
 
 Son atribuciones de la Coordinación de Galerías:
 
@@ -759,7 +775,9 @@ XVI.- Coordina con el apoyo del Jefe de Promoción Cultural y el de Difusión la
 
 XVII.- Elabora un informe mensual de sus actividades y lo turna a la Subdirección Operativa del Instituto Municipal de Arte y Cultura.
 
-###### Artículo 57.
+(REUBICADO [N. DE E. ANTES ARTICULO 57], P.O. 1 DE AGOSTO DE 2008)
+
+###### Artículo 49.
 
 Son atribuciones de la Coordinación de Cultura Popular:
 
@@ -799,10 +817,28 @@ EL SECRETARIO DEL H. XV AYUNTAMIENTO DE TIJUANA.
 
 LIC. IGNACIO ACUÑA LOERA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 27 DE JULIO DE 2001.
 
 PRIMERO: La presente reforma entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en un periódico mayor (sic) circulación en la localidad para conocimiento de la población.
 
 SEGUNDO: Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+PRIMERO.- Transfiérase los recurso materiales y humanos, así como los expedientes y bienes en general con los que cuenta la Dirección del Sistema Educativo Municipal a la Secretaría de Educación Pública Municipal.
+
+SEGUNDO.- Se instruye al ejecutivo municipal que gire instrucciones a efecto de que sea puesto a consideración del órgano de gobierno del Instituto Municipal de Arte y Cultura, en los términos del Reglamento de las Entidades Paramunicipales del Municipio de Tijuana, y demás legislación aplicable; la transferencia de recursos materiales y humanos con los que cuenta la Coordinación General de Bibliotecas a la Secretaría de Educación Pública Municipal, específicamente a la Coordinación de Bibliotecas, que de ella depende.
+
+TERCERO.- El titular de la Secretaría de Educación Pública Municipal, deberá gestionar ante la Oficialía Mayor Municipal, la designación del espacio físico donde quedará instalada la Secretaría.
+
+CUARTO.- En los términos del artículo 139, del Reglamento de la Administración
+
+Pública del Ayuntamiento de Tijuana, Baja California, la Secretaría de Educación Pública Municipal deberá contar con su propio reglamento interior en donde se contemple la estructura orgánica, atribuciones, niveles de jerarquía, sistemas de escalafón, criterios para la delegación de facultades y mecanismos para suplir las ausencias de los titulares, entre otros.
+
+QUINTO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+SEXTO.- Publíquese en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, así como un diario de mayor circulación en la localidad y/o en la Gaceta Municipal para conocimiento de los vecinos
+
+SÉPTIMO.- Las presentes reformas, adiciones y derogaciones entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
