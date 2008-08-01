@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-27905"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2003-01-10"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -211,7 +211,7 @@ I.- Tramitar las solicitudes que se reciban en la Secretaría Municipal para la 
 
 II.- Ejecutar las resoluciones que emita el ayuntamiento, a través de las dependencias municipales competentes;
 
-III.- Autorizar cambios de giro, cambios de domicilio, cambios de titular y los cambios (sic) nombre comercial;
+III.- Autorizar cambios de giro, cambios de domicilio, cambios de titular y los cambios (sic)nombre comercial;
 
 IV.- Autorizar los servicios adicionales a que se refiere el presente Reglamento;
 
@@ -599,9 +599,11 @@ Los servicios adicionales únicamente podrán ser autorizados en los giros indic
 
 Los negocios contemplados en los incisos del I) al O) y del R) al U), del articulo anterior de este reglamento, contarán con una hora adicional al horario permitido para la venta de bebidas alcohólicas, para desalojar a la clientela del establecimiento, sin que durante este lapso de tiempo autorizado se permita la venta o consumo de bebidas alcohólicas, asimismo se autoriza este tiempo para realizar los movimientos contables que correspondan, culminando este lapso quedarán totalmente cerrados, solo podrán permanecer en el interior del establecimiento el personal de limpieza y de seguridad.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 35.
 
-La Secretaria Municipal, podrá autorizar horarios extraordinarios, que excedan el limite señalado en los diferentes giros contemplados en el artículo 18 fracción I del presente reglamento, a excepción de los giros identificados con los incisos A), B), C), D), I), P), Q). El horario extraordinario no excederá de catorce horas por semana calendario, y de 2 horas por día, dicha autorización se sujetará a los lineamientos que previamente establezca la Secretaria Municipal mediante el pago de los derechos correspondientes.
+La Secretaria Municipal, podrá autorizar horarios extraordinarios, que excedan al limite señalado en los diferentes giros contemplados en el Articulo 33 del Presente Reglamento a excepción de los giros identificados son (sic) los incisos A), B), C), D), I), P), Q). El horario extraordinario no excederá de catorce horas por semana calendario, y de 2 horas por día, dicha autorización se sujetara a los lineamientos que previamente se establezca la Secretaria Municipal Mediante el pago de los derechos correspondientes.
 
 ### CAPITULO SEXTO. DE LOS REQUISITOS PARA EL OTORGAMIENTO DE PERMISOS Y SU UBICACIÓN
 
@@ -715,7 +717,7 @@ j).- Registro Federal de Contribuyentes del titular o curp;
 
 k).- Firma del Presidente Municipal y del Secretario del Ayuntamiento,
 
-1 (sic)) Llevara la siguiente leyenda: “En caso de cesión de derechos el titular del presente permiso, deberá previamente dar aviso por escrito a la Secretaría del Ayuntamiento, para conocer sobre la situación actual del permiso de acuerdo a la ley y el reglamento que regulan las bebidas alcohólicas", y
+1 sic)) Llevara la siguiente leyenda: “En caso de cesión de derechos el titular del presente permiso, deberá previamente dar aviso por escrito a la Secretaría del Ayuntamiento, para conocer sobre la situación actual del permiso de acuerdo a la ley y el reglamento que regulan las bebidas alcohólicas", y
 
 m).- Sello de la Secretaría del Ayuntamiento.
 
@@ -861,15 +863,19 @@ Si la autoridad municipal aprueba la solicitud del titular del permiso, en los s
 
 ### CAPITULO NOVENO. DE LAS PROHIBICIONES PARA LOS TITULARES, ENCARGADOS, REPRESENTANTES O EMPLEADOS EN LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 64.
 
-En el Municipio de Tecate, Baja California, queda prohibido:
+En el municipio de Tecate, Baja California, queda prohibido:
 
 I.- Iniciar actividades comerciales de venta, almacenaje y consumo público de bebidas alcohólicas, sin el permiso correspondiente, expedido por la autoridad municipal conforme a lo establecido en el reglamento;
 
 II.- La venta de bebidas alcohólicas, a menores o por menores de edad, así como permitir a éstos el consumo de las mismas, en los lugares o establecimientos a que hace referencia la ley y este reglamento;
 
-III.- Permitir la entrada a menores de edad a los establecimientos indicados en los incisos K, L, M, N, O, R, S y T del Artículo 18 de este ordenamiento;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+III.- Permitir la entrada a menores de edad a los establecimientos indicados en los incisos K, L, M, N, O, R, S, y T del Articulo 33 de este Ordenamiento;
 
 IV.- Utilizar el permiso en un lugar o domicilio distinto al indicado en el mismo, así como darle un uso distinto al autorizado;
 
@@ -991,9 +997,11 @@ II.- La notificación que se le hizo al infractor de la sanción impuesta.
 
 ### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y MEDIDAS DE APREMIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 74.
 
-Son infracciones al presente reglamento:
+Son infracciones al presente Reglamento:
 
 I.- La violación de cualquiera de las prohibiciones a que se refiere el artículo 64 de este Reglamento;
 
@@ -1001,7 +1009,9 @@ II.- No contar con la autorización por escrito de la autoridad municipal para t
 
 III.- La violación o destrucción, de los sellos de clausura temporal o definitiva;
 
-IV.- No cumplir con las obligaciones impuestas en el artículo 13 de este Reglamento;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
+IV.- No cumplir con las obligaciones impuestas en el Articulo 28 del mencionado Reglamento;
 
 V.- Que el titular, el encargado, el representante o empleados de los establecimientos impidan de cualquier forma o dificulten la entrada a las autoridades encargadas de la aplicación y observancia del presente reglamento y la ley;
 
@@ -1236,3 +1246,9 @@ ALFONSO BARONA GARCÍA
 EL SECRETARIO MUNICIPAL
 
 ROBERTO RODRÍGUEZ VALENZUELA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2008.
+
+Artículo Transitorio Único.- El presente acuerdo entra en vigor a partir del día siguiente de su publicación.
