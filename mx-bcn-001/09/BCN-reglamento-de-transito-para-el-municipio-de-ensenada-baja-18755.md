@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2008-03-14"
+last_updated: "2008-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -1093,7 +1093,7 @@ SI - 26 - Servicio telefónico.
 
 SI - 27 - Servicio Mecánico.
 
-SI - 28 - Servicio de Combustible.
+SI - 28.- Servicio de Combustible.
 
 SI - 29 - Puesto de Socorro
 
@@ -1409,9 +1409,11 @@ En las arterias de tres o más carriles en un sentido y con camellón central, e
 
 Todo conductor que tenga que cruzar la banqueta para entrar o salir de su estacionamiento, deberá ceder el paso a peatones y vehículo. Para entrar o salir de una estación de servicio, estacionamiento privado o público, deberá hacerlo a su extrema derecha.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 134.
 
-Los conductores de vehículos deberán manejar con precaución, sin distraer su atención y no permitir que otra persona u objeto impida la circulación y libre maniobrabilidad del vehículo.
+El conductor que circule un vehículo en las vías publicas municipales y utilice teléfono celular, radio u objeto alguno que obstruya o distraiga su responsabilidad como conductor del vehículo y/o escuche la música con alto volumen, lleve entre sus brazos o manos a personas o animales, comete infracción, haciéndose por consecuencia acreedor a la sanción expresamente aplicable al caso en que se cita.
 
 ###### ARTICULO 135.
 
@@ -1865,7 +1867,7 @@ VI.- Cuando el propietario de un vehículo tenga conocimiento de que éste ha pa
 
 VII.- Para el esclarecimiento de hechos, tratándose de accidentes de tránsito, se utilizarán los procedimientos, métodos y técnicas que establece computadora de evidencia física “GALLION”.
 
-VIII.- Los resultados que se obtengan del proceso las (sic)evidencias en accidentes de tránsito, una vez aplicado el sistema mencionado en el inciso anterior, se anexarán en todos los casos, al parte de novedades que se rinda considerándose éstos como prueba determinante del grado de responsabilidad.
+VIII.- Los resultados que se obtengan del proceso las (sic) evidencias en accidentes de tránsito, una vez aplicado el sistema mencionado en el inciso anterior, se anexarán en todos los casos, al parte de novedades que se rinda considerándose éstos como prueba determinante del grado de responsabilidad.
 
 ###### ARTICULO 201.
 
@@ -2177,13 +2179,13 @@ El Presidente Municipal, el Secretario de Seguridad Pública Municipal, los Juec
 
 El infractor que cubra el importe de las multas que establece este Reglamento dentro de los Quince Días Naturales de haber sido impuesta, tiene derecho a que se le descuente un 50% del monto de la misma.
 
-La autoridad podrá conmutar la multa por trabajo comunitario o por asistir y acreditar el curso de manejo, siempre y cuando se trate de primo-infractores y lo solicite antes de los quince días de haber sido impuesta. Vencido este plazo no procederá descuento o conmutación alguna.
+La autoridad podrá conmutar la multa por trabajo comunitario o por asistir y acreditar el curso de manejo, siempre y cuando se trate de primo-infractores y la solicite antes de los quince días de haber sido impuesta. Vencido este plazo no procederá descuento o conmutación alguna.
 
 La conmutación y el descuento de la multa no aplican si fue impuesta por conducir en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, participar en competencias de velocidad o resultar responsable del accidente de tránsito, conforme a lo dispuesto en los artículos 40, 41, 94, 200 y 205.
 
 De no ser pagada dentro de los Treinta Días Naturales de haber sido impuesta, será cobrada de acuerdo al procedimiento económico coactivo que señala la Ley de Hacienda Municipal.
 
-> <small>N. DE E. VEASE REFORMAS AL TABULADOR EN EL P.O. DE 24 DE MARZO DE 2006, PAGINAS DE LA 125 A LA 131.</small>
+> <small>N. DE E. VEASE REFORMAS AL TABULADOR EN EL P.O. DE 1 DE AGOSTO DE 2008, PAGINA 173.</small>
 
 ###### ARTICULO 245.
 
@@ -2256,3 +2258,9 @@ La Secretaría de Seguridad Pública, ampliará la cobertura de los programas de
 P.O. 14 DE MARZO DE 2008.
 
 UNICO.- La presente reforma entrara en vigor a partir del día siguiente de su publicación en el periódico oficial del Estado de Baja California.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+PRIMERO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
