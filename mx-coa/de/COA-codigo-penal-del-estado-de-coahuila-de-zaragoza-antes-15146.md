@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2008-06-10"
+last_updated: "2008-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -2481,7 +2481,7 @@ Las sanciones se aplicarán con independencia de las que resulten aplicables por
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
-ARTÍCULO 272 BIS.- AGRAVANTES PARA CIERTOS DELITOS QUE SE REPUTAN COMETIDOS EN ASOCIACIÓN DELlCTUOSA. Se reputarán como cometidos en asociación delictuosa y se aumentarán en una mitad los mínimos y los máximos de las penas de prisión aplicables a los delitos señalados como graves, cuando en su comisión intervengan dos o más personas, aunque las mismas no se encuentren identificadas; siempre que concurra, además, alguna o algunas de las circunstancias siguientes:
+ARTÍCULO 272 BIS. AGRAVANTES PARA CIERTOS DELITOS QUE SE REPUTAN COMETIDOS EN ASOCIACIÓN DELlCTUOSA. Se reputarán como cometidos en asociación delictuosa y se aumentarán en una mitad los mínimos y los máximos de las penas de prisión aplicables a los delitos señalados como graves, cuando en su comisión intervengan dos o más personas, aunque las mismas no se encuentren identificadas; siempre que concurra, además, alguna o algunas de las circunstancias siguientes:
 
 I. Que en su comisión se hayan utilizado armas de fuego reservadas para uso exclusivo del ejército o explosivos; conforme a lo dispuesto en la Ley Federal de la materia.
 
@@ -3511,6 +3511,10 @@ Cuando se inicien actos para ejecutar el suicidio y éste no se consume por caus
 
 SANCIONES Y FIGURA TÍPICA DE EUTANASIA. Se aplicará de tres meses a tres años de prisión: A quien con la voluntad del pasivo le cause la muerte sólo por motivos de piedad; que consistan en evitar que tenga una agonía dolorosa en extremo o porque se trate de un enfermo en fase terminal, sin posibilidad de sanar.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+ARTÍCULO 354 BIS. En los casos a que se refieren los artículos anteriores, la conducta no será punible cuando ocurra y haya sido realizada en términos de lo dispuesto por la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila.
+
 ### CAPÍTULO CUARTO. ALLANAMIENTO DE MORADA
 
 ###### ARTÍCULO 355.
@@ -3745,7 +3749,7 @@ Las atenuantes aquí señaladas, serán de aplicación única y exclusivamente p
 
 ###### ARTÍCULO 374.
 
-SANCIÓN Y FIGURAS TIPICAS RELACIONADAS CON EL SECUESTRO. Se impondrá de uno a ocho años de prisión y multa, al que en relación con las conductas mencionadas en el artículo 371 y sin que le beneficie ninguna excluyente de incriminación:
+SANCIÓN Y FIGURAS TÍPICAS RELACIONADAS CON EL SECUESTRO. Se impondrá de uno a ocho años de prisión y multa, al que en relación con las conductas mencionadas en el artículo 371 y sin que le beneficie ninguna excluyente de incriminación:
 
 I. Conozca los planes o actividades encaminados a la ejecución de un secuestro y no dé aviso oportuno a la autoridad u omita su denuncia, si tiene conocimiento de sus autores o partícipes.
 
@@ -3784,6 +3788,12 @@ Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumen
 ### CAPITULO QUINTO. ACOSO SEXUAL
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTÍCULO 399 BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a tres años de prisión y multa, a quien con fines lascivos asedie, acose o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
+
+Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
+
+Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el sector público por un período de uno a tres años.
 
 ###### ARTÍCULO 377.
 
@@ -4620,3 +4630,9 @@ P.O. 10 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
