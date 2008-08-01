@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-las-personas-con-discapacidad-44931"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-06-10"
-last_updated: "2005-06-10"
+last_updated: "2008-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-05-31"
 
 LEY GENERAL DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de junio de 2005.
 
@@ -43,9 +43,13 @@ Ley General de las Personas con Discapacidad
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en los Estados Unidos Mexicanos. Su objeto es establecer las bases que permitan la plena inclusión de las personas con discapacidad, en un marco de igualdad y de equiparación de oportunidades, en todos los ámbitos de la vida.
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en los Estados Unidos Mexicanos. Su objeto es establecer las bases que permitan la plena inclusión de las personas con discapacidad, dentro de un marco de igualdad en todos los ámbitos de la vida.
 
 De manera enunciativa y no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos y mandata el establecimiento de las políticas públicas necesarias para su ejercicio.
 
@@ -61,7 +65,11 @@ III. Comunidad de Sordos.- Todo aquel grupo social cuyos miembros tienen como ca
 
 IV. Educación Especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación.
 
-V. Equiparación de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
+V. Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con las mismas oportunidades y posibilidades que el resto de la población.
 
 VI. Estenografía Proyectada.- Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales o en Sistema de Escritura Braille.
 
@@ -97,17 +105,47 @@ a) La equidad;
 
 b) La justicia social;
 
-c) La equiparación de oportunidades;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-d) El reconocimiento de las diferencias;
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2008)</small>
 
-e) La dignidad;
+c) La igualdad, incluida la igualdad de oportunidades;
 
-f) La integración;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-g) El respeto, y
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2008)</small>
 
-h) La accesibilidad.
+d) El respeto por la diferencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
+e) El respeto a la dignidad y a la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
+f) La integración a través de la participación e inclusión plenas y efectivas en la sociedad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
+g) El reconocimiento y la aceptación de la discapacidad como parte de la diversidad y la condición humanas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
+h) La accesibilidad, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
+i) La no discriminación.
 
 ###### Artículo 6.
 
@@ -209,7 +247,13 @@ XIII. Impulsar programas de investigación, preservación y desarrollo de la len
 
 XIV. Elaborar programas para las personas ciegas y débiles visuales, que los integren al Sistema Educativo Nacional, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 11.
+
+Las personas con discapacidad tienen derecho a recibir información acerca de las ayudas técnicas a la movilidad, de aquellos dispositivos técnicos y tecnologías de apoyo, incluidas nuevas tecnologías, así como cualquier forma de asistencia y servicios e instalaciones de apoyo. En cumplimiento de este derecho se establecerán instrumentos y diseñarán políticas públicas a fin de que las personas con discapacidad estén orientadas en el ejercicio de tal derecho.
 
 En el Sistema Nacional de Bibliotecas, salas de lectura y servicios de información de la Administración Pública Federal se incluirán, entre otros, los equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permita su uso a las personas con discapacidad.
 
@@ -377,7 +421,11 @@ El Consejo tendrá las siguientes atribuciones:
 
 I. Elaborar y coordinar, en el marco del Plan Nacional de Desarrollo, el Programa Nacional para el Desarrollo de las Personas con Discapacidad, promoviendo, convocando y concertando acuerdos o convenios con las dependencias de la Administración Pública Federal, las Entidades Federativas, los municipios, los sectores social o privado, o las organizaciones, evaluando periódica y sistemáticamente la ejecución del mismo;
 
-II. Promover acciones para generar la equiparación de oportunidades para las personas con discapacidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2008)</small>
+
+II. Promover acciones que fomenten la igualdad de las personas con discapacidad;
 
 III. Impulsar el ejercicio pleno de los derechos de las personas con discapacidad y hacer de su conocimiento los canales institucionales para hacerlos exigibles ante la autoridad competente;
 
@@ -482,3 +530,9 @@ Octavo.- La renovación y adaptación del parque vehicular de transporte públic
 México, D.F., a 21 de abril de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Yolanda E. González Hernández, Secretaria.- Dip. Graciela Larios Rivas, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE AGOSTO DE 2008.
+
+Único.- El presente Decreto entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
