@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "2006-12-12"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -569,9 +569,13 @@ Todas las anotaciones marginales deberán llevar la firma o media firma o rúbri
 
 Acta Notarial es el instrumento original que el notario levanta fuera de protocolo y autoriza con su firma y sello, para hacer constar un hecho que acontezca en su presencia.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-De cada acta notarial, el Notario enviará copia a la Dirección de Notarías, dentro de los 10 días hábiles siguientes.
+De cada acta notarial, el Notario enviará copia o duplicado a la Dirección de Notarías, dentro de los 10 días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+El Notario Público que intervenga en el otorgamiento de un documento que contenga las Disposiciones Previsoras a que hace referencia la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila; deberá expedir por quintuplicado dicho documento, a fin de que en su archivo quede un tanto del mismo, y los otros cuatro sean entregados: al otorgante o Autor, al Representante, a la Dirección General de Notarias en el Estado y a la Secretaría de Salud en el Estado, respectivamente.
 
 ###### ARTICULO 61.
 
@@ -587,9 +591,15 @@ a).- Notificaciones, interpelaciones, requerimientos, protesto de documentos mer
 
 b).- La comprobación de que determinadas personas estamparon su firma o huella digital en algún documento y de que ratifican el contenido y firma del mismo.
 
-c).- Hechos materiales, cotejo de documentos y certificaciones de escrituras, planos y fotografías, etcétera, y
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-d).- Cualesquiera otros que la ley determine.
+c).- Hechos materiales, cotejo de documentos y certificaciones de escrituras, planos y fotografías, etcétera;
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+d).- El documento que contenga las disposiciones previsoras a que hace referencia la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila; y
+
+e).- Cualesquiera otros que la ley determine.
 
 ###### ARTICULO 63.
 
@@ -1686,3 +1696,9 @@ P.O. 12 DE DICIEMBRE DE 2006.
 PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
