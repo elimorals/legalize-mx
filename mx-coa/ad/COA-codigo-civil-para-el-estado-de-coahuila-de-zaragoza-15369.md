@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2007-12-28"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -261,9 +261,11 @@ Quienes estando en pleno uso de sus facultades psíquicas y mentales adquieren l
 
 #### SECCIÓN SEGUNDA. DE LA EMANCIPACIÓN
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 42.
 
-El emancipado tiene capacidad de ejercicio para la libre administración de su patrimonio y para la libre disposición de sus bienes muebles.
+El emancipado tiene capacidad de ejercicio para la libre administración de su patrimonio, disposición de sus bienes muebles y para otorgar el documento que contenga las disposiciones previsoras a que hace referencia la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila.
 
 ###### ARTÍCULO 43.
 
@@ -20504,3 +20506,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
