@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2008-06-28"
+last_updated: "2008-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -291,13 +291,11 @@ El Director de Gobierno llevará el libro de actas de las Sesiones del Ayuntamie
 
 ###### Artículo 22.
 
-En tanto el Municipio tenga bajo su responsabilidad la administración del Centro de Readaptación Social para Adultos, el mismo estará a cargo de un Director que será designado por el Presidente.
+(DEROGADO, P.O. 2 DE AGOSTO DE 2008)
 
 ###### Artículo 23.
 
-El Director del Centro de Readaptación Social para Adultos estará encargado de la seguridad de los reos, la administración del establecimiento carcelario, así como de la reclusión de los procesados cuando las autoridades competentes lo determinen.
-
-En el ejercicio de su función procurará la readaptación efectiva de los sentenciados, y que la reclusión de las personas se de en circunstancias que permitan la rehabilitación, de acuerdo a la dignidad que como personas les corresponde.
+(DEROGADO, P.O. 2 DE AGOSTO DE 2008)
 
 ###### Artículo 24.
 
@@ -337,9 +335,15 @@ III. Supervisar el desempeño de los Oficiales Calificadores, adscritos a la Dir
 
 IV. Vigilar el buen desempeño del personal administrativo a su cargo;
 
-V. Recopilar la información necesaria, a fin de integrar los reportes estadísticos del personal bajo su mando y vigilancia; y
+V. Recopilar la información necesaria, a fin de integrar los reportes estadísticos del personal bajo su mando y vigilancia; y (sic)
 
-VI. Las demás que le confieran las Leyes, Reglamentos y Manuales de Organización.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2008)</small>
+
+VI. Implementar en el ámbito de su competencia, programas en materia de prevención, de atención a ofendidos y de apoyo a infractores, así como proponer la celebración de toda clase de acuerdos y convenios administrativos, mediante los cuales se establezcan los mecanismos de coordinación, colaboración y concertación que permitan la participación de los sectores público y privado; y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2008)</small>
+
+VII. Las demás que le confieran la Leyes, Reglamentos y Manuales de Organización.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2008)</small>
 
@@ -532,6 +536,16 @@ En cada distrito existirá un Director, quien estará encargado del cumplimiento
 ###### Artículo 37.
 
 Para dirigir las actividades de formación policiaca y la ejecución de los programas aprobados para la capacitación de los cuerpos que integran la Secretaria, existirá un Director de Academia en quien recaerá la responsabilidad del entrenamiento de los cadetes de policía de acuerdo a las leyes, reglamentos y manuales de organización y procedimientos.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2008)</small>
+
+Artículo 37 bis.- En tanto el Municipio tenga bajo su responsabilidad la administración del Centro de Readaptación Social para Adultos, el mismo estará a cargo de un Director que será designado por el Presidente y formará parte de la Secretaría de Seguridad Pública y Protección Ciudadana.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2008)</small>
+
+Artículo 37 ter.- El Director del Centro de Readaptación Social para Adultos estará encargado de la seguridad de los reos, la administración del establecimiento carcelario, así como de la reclusión de los procesados cuando las autoridades competentes lo determinen.
+
+En el ejercicio de su función procurará la readaptación efectiva de los sentenciados, y que la reclusión de las personas se de en circunstancias que permitan la rehabilitación, de acuerdo a la dignidad que como personas les corresponde.
 
 DIRECCION GENERAL DE TRANSITO
 
@@ -1516,3 +1530,13 @@ P.O. 28 DE JUNIO DE 2008.
 PRIMERO: El presente acuerdo, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO: Se ordena girar oficio a la Tesorería Municipal, a fin de que realice los tramites respectivos, para la asignación del presupuesto suficiente, para la operación de las atribuciones de la Dirección, a que se refiere el presente acuerdo, una vez que entre en vigor.
+
+P.O. 2 DE AGOSTO DE 2008.
+
+PRIMERO: El presente acuerdo, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se ordena girar oficio a la Tesorería Municipal, a fin de que realice los trámites respectivos, para la asignación de presupuesto suficiente, para la operación de las atribuciones a que se refiere el presente acuerdo, una vez que entre en vigor.
+
+## ARTÍCULOS TRANSITORIOS
+
+ÚNICO.- La reforma del artículo 25 del Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, en los términos del presente acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
