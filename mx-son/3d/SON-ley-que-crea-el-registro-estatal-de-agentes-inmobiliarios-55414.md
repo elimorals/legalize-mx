@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-registro-estatal-de-agentes-inmobiliarios-55414
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2007-04-12"
+last_updated: "2008-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL REGISTRO ESTATAL DE AGENTES INMOBILIARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE AGOSTO DE 2008.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 23 de mayo de 2002.
 
@@ -55,7 +55,9 @@ I.- Secretaría: Secretaría de Economía;
 
 II.- Instituto: Instituto Catastral y Registral del Estado de Sonora;
 
-III.- Agentes Inmobiliarios: Las personas físicas cuyo objeto preponderante sea la intermediación o corretaje de operaciones inmobiliarias;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+III.- Agentes Inmobiliarios: Las personas físicas que realicen actividades de intermediación o corretaje de operaciones inmobiliarias con licencia expedida por la Secretaría, y las personas morales que lleven a cabo dichas actividades, que se encuentren inscritas en el Registro;
 
 IV.- Operaciones Inmobiliarias: Las operaciones relacionadas con la compraventa, arrendamiento, fideicomiso o cualquier otro contrato traslativo de dominio o de uso o usufructo de bienes inmuebles, así como la administración, comercialización y consultoría sobre los mismos;
 
@@ -87,19 +89,29 @@ I.- Recibir las solicitudes y, en su caso, otorgar la licencia respectiva e insc
 
 II.- Verificar, mediante visitas de inspección y en los términos que establezca esta Ley, el cumplimiento de los requisitos previstos en la misma para el otorgamiento y revalidación de las licencias de los agentes inmobiliarios;
 
-III.- Revalidar, con la periodicidad prevista en el Reglamento de la presente Ley, las licencias de los agentes inmobiliarios;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+III.- Revalidar, con la periodicidad prevista en la presente Ley, las inscripciones en el Registro y las licencias de los agentes inmobiliarios;
 
 IV.- Formular y ejecutar, con la participación de los agentes inmobiliarios, el programa anual de capacitación, actualización y profesionalización en materia de operaciones inmobiliarias;
 
-V.- Llevar actualizado el Registro, en el que se deberán inscribir las licencias otorgadas y el nombre de su titular, así como las sanciones que se les impongan, en los términos de esta Ley;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+V.- Llevar actualizado el Registro en el que se deberán inscribir los agentes inmobiliarios, las licencias otorgadas y el nombre de su titular, así como las sanciones que se les impongan, en los términos de esta Ley;
 
 VI.- Aplicar las sanciones a quienes incumplan las disposiciones de esta Ley; y
 
-VII.- Establecer y operar un sistema de quejas o denuncias para usuarios respecto de los agentes inmobiliarios con registro estatal y las personas que se ostenten como tales sin serio.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+VII.- Establecer y operar un sistema de quejas o denuncias para usuarios respecto de los agentes inmobiliarios y las personas que se ostenten como tales sin serio.
+
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 5.
 
-El Instituto Catastral y Registral y la Dirección General de Notarias, obrarán como órganos de apoyo técnico de la Secretaría, en relación con la aplicación de esta Ley, de conformidad con las atribuciones que les confiera el Reglamento respectivo.
+El Instituto y la Dirección General de Notarías obrarán como órganos de apoyo técnico de la Secretaría, en relación con la aplicación de esta Ley, de conformidad con las atribuciones que les confiera la misma y el Reglamento respectivo. La Dirección General de Notarías implementará las medidas necesarias a efecto de que los notarios públicos verifiquen, antes de formalizar cualquier acto jurídico de carácter inmobiliario, que el agente inmobiliario que en su caso intervenga en dichas operaciones cuente con la inscripción en el Registro o la licencia a que se refiere la presente Ley, según proceda.
+
+Los notarios públicos deberán dar aviso a la Secretaría cuando de la verificación resulte que el agente inmobiliario no cuenta con la inscripción en el Registro o, en su caso, con la licencia respectiva.
 
 ###### ARTÍCULO 6.
 
@@ -117,7 +129,7 @@ Para obtener su inscripción en el Registro, las personas físicas o morales int
 
 I.- Tratándose de personas morales:
 
-a) Copia del documento constitutivo o de creación de la sociedad;
+a) (DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 b) Precisar y acreditar la ubicación de su domicilio matriz y, en su caso, de las sucursales;
 
@@ -125,55 +137,69 @@ c) Presentar, en su caso, constancia de registro ante la Procuraduría Federal d
 
 d) Aceptar expresamente cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias que se pongan en operación por la Secretaría y, en su caso, acreditar el cumplimiento de aquellos que se establezcan con carácter obligatorio para los efectos de la revalidación de la inscripción; y
 
-e) Acreditar su registro ante las autoridades fiscales correspondientes; y
+e) (DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 II.- Tratándose de personas físicas:
 
 a) Copia de identificación oficial vigente con fotografía;
 
-b) Acreditar su capacitación profesional y/o la certificación de conocimientos especializados y experiencia en operaciones de corretaje o intermediación inmobiliaria por parte de institución de educación superior o de la autoridad educativa estatal o federal competente;
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+b) Acreditar su capacitación profesional y/o la certificación de conocimientos especializados y experiencia en operaciones de corretaje o intermediación inmobiliaria por parte de alguna institución o de la autoridad competente o, en su defecto, presentar una carta compromiso, debidamente firmada, para sujetarse a los programas de acreditación profesional en la materia;
 
 c) Precisar y acreditar la ubicación de su domicilio;
 
-d) Presentar los documentos e información previstos en los incisos c), d) y e) de la fracción anterior; y
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+d) Presentar los documentos e información previstos en los incisos c) y d) de la fracción anterior; y
 
 e) No contar con antecedes penales con motivo de la comisión de delito alguno de carácter patrimonial.
 
-> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
-ARTÍCULO 7 BIS.- En el caso de las personas físicas, una vez inscritas en el Registro la Secretaría expedirá en forma simultánea la licencia.
+ARTÍCULO 7 BIS.- La inscripción en el Registro y la licencia tendrán una vigencia de tres años, contados a partir de la fecha en que se otorguen. En el caso de las personas físicas, una vez inscritas en el Registro la Secretaría expedirá en forma simultánea la licencia respectiva.
 
-Sólo las personas físicas que cuenten con la licencia emitida por la Secretaria para realizar operaciones inmobiliarias podrán ostentarse y anunciarse como "agentes inmobiliarios con licencia estatal".
+Sólo las personas físicas que cuenten con la licencia y las morales inscritas en el Registro podrán realizar operaciones inmobiliarias, así como ostentarse y anunciarse como "agentes inmobiliarios con licencia estatal" y "agentes inmobiliarios con registro", respectivamente.
 
 ### CAPITULO III. OBLIGACIONES
 
-> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
-###### ARTÍCULO 8.
+###### ARTÍCULO 8o.
 
 Los agentes inmobiliarios tendrán las siguientes obligaciones:
 
-I.- Tramitar ante la Secretaria su inscripción en el Registro;
+I.- Tramitar ante la Secretaría su inscripción en el Registro;
 
-lI.- Revalidar su inscripción en el Registro y, en su caso, la licencia respectiva, con la periodicidad que se prevenga en el Reglamento de esta Ley, presentando para este efecto manifestación bajo protesta de que se mantiene idéntica la información originadora de la inscripción o del otorgamiento de la licencia o, en su caso, las modificaciones que hayan ocurrido, así como el cumplimiento de los cursos de capacitación que la Secretaría haya establecido con el carácter de obligatorio para el señalado fin;
+II.- Revalidar su inscripción en el Registro y, en su caso, la licencia respectiva, con la periodicidad que se previene en la presente Ley, presentando para este efecto manifestación bajo protesta de decir verdad de que se mantiene idéntica la información originadora de la inscripción o del otorgamiento de la licencia o, en su caso, las modificaciones que hayan ocurrido;
 
-III.- Sujetarse a los programas permanentes de capacitación y actualización en materia de operaciones inmobiliarias.
+III.- Sujetarse a los programas permanentes de capacitación y actualización en materia de operaciones inmobiliarias. Esta obligación podrá ser eximida por la Secretaría cuando se cumpla con alguno de los siguientes supuestos:
 
-IV.- Dar aviso, por escrito, a la Secretaría de cualquier cambio o modificación que afecte los datos contenidos en la licencia otorgada.
+a) Acreditar su adiestramiento en la materia con constancias expedidas por instituciones competentes; y
 
-V.- Permitir que se lleven a cabo las visitas de inspección que ordene la Secretaría para verificar el cumplimiento de las disposiciones de esta Ley y sus disposiciones reglamentarias; y
+b) Aprobar el examen que indique la Secretaría para acreditar su adiestramiento en materia de operaciones inmobiliarias;
 
-VI.- Las demás que establezca esta Ley y su Reglamento.
+IV.- Dar aviso por escrito a la Secretaría de cualquier modificación que afecte los datos contenidos en el Registro o, en su caso, en la licencia;
+
+V.- Permitir que se lleven a cabo las visitas de inspección que ordene la Secretaría para verificar el cumplimiento de las disposiciones de esta Ley y sus disposiciones reglamentarias;
+
+VI.- Conducirse con honestidad y ética profesional, y proteger los intereses legales y financieros de sus clientes respecto de las operaciones inmobiliarias en que intervengan;
+
+VII.- Omitir conducirse de manera que pongan a sus clientes en situaciones de inseguridad legal o financiera en las operaciones inmobiliarias en las que los apoyen;
+
+VIII.- Excusarse de recibir pagos anticipados o depósitos en dinero por la prestación de sus servicios o por los trámites propios de las operaciones inmobiliarias, cuando no se pueda extender a cambio una factura, un recibo fiscal u otro documento legal que ampare el mismo, salvo tratándose de los pagos establecidos en el contrato de adhesión registrado; y
+
+IX.- Las demás que establezca esta Ley y su Reglamento.
 
 ## TITULO TERCERO. DE LAS VISITAS DE INSPECCION, DE LAS INFRACCIONES Y SANCIONES Y DE LOS RECURSOS
 
 ### CAPITULO I. DE LAS VISITAS DE INSPECCION
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE AGOSTO DE 2008)</small>
 
-###### ARTÍCULO 9.
+###### ARTÍCULO 9o.
 
-Todo acto de visita de inspección y vigilancia que lleve a cabo la Secretaría a los agentes inmobiliarios con registro estatal y a las personas que se ostenten como tales sin serlo, se sujetará a las siguientes formalidades:
+Todo acto de visita de inspección y vigilancia que lleve a cabo la Secretaría a los agentes inmobiliarios y a las personas que se ostenten como tales sin serlo, se sujetará a las siguientes formalidades:
 
 > <small>(REFORMADA, B.O. 12 DE ABRIL DE 2007)</small>
 
@@ -192,6 +218,10 @@ VI.- El o los inspectores harán entrega de una copia del acta levantada, donde 
 VII.- No afectará la validez de lo actuado en la diligencia, la negativa de firmar el acta por los agentes inmobiliarios, o la persona con quien se haya realizado la diligencia, así como los testigos que presenciaron las actuaciones, lo que deberá hacerse constar en la misma. El acta es válida con la firma de uno solo de los inspectores, aún cuando actúen dos o más.
 
 En el acto de la diligencia, los requeridos podrán formular las observaciones que consideren procedentes y aportar las pruebas necesarias; o dentro del término de cinco días hábiles siguientes a la fecha de la conclusión de la diligencia que corresponda.
+
+> <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Transcurrido el plazo a que se refiere el párrafo anterior, dentro de cinco días hábiles siguientes a éste, y considerando las circunstancias que hubiesen concurrido y las pruebas aportadas, en su caso, la autoridad dictará la resolución que proceda en los términos del Capítulo II de esta Ley, debidamente fundada y motivada, notificándola personalmente al interesado.
 
 ###### ARTÍCULO 10.
 
@@ -225,17 +255,19 @@ Los inspectores de la Secretaría tienen estrictamente prohibido recibir alguna 
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
-El incumplimiento de las disposiciones de esta Ley y de su Reglamento por parte de los agentes inmobiliarios con registro estatal y de las personas que se ostenten como tales sin serlo, dará lugar a las siguientes sanciones:
+El incumplimiento de las disposiciones de esta Ley y de su Reglamento por parte de los agentes inmobiliarios dará lugar a las siguientes sanciones:
 
 I.- Amonestación;
 
 II.- Apercibimiento;
 
-III.- Multa de hasta mil veces el salario mínimo general vigente en el lugar donde se cometa la infracción;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+III.- Multa desde veinticinco hasta tres mil veces el salario mínimo general diario vigente en la capital del Estado;
 
 > <small>(REFORMADA, B.O. 12 DE ABRIL DE 2007)</small>
 
@@ -245,15 +277,15 @@ IV.- Suspensión de la licencia respectiva e inscripción en el Registro, en su 
 
 V.- Cancelación de la licencia respectiva y de la inscripción en el Registro.
 
-> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
-A las personas físicas que se ostenten como agentes inmobiliarios con licencia estatal y que realicen operaciones inmobiliarias sin que cuenten con la licencia respectiva se les aplicará la sanción consistente en multa.
+A las personas físicas que se ostenten como agentes inmobiliarios sin contar con el registro, y en su caso, la licencia a que se refiere la presente Ley, así como a los agentes inmobiliarios que realicen operaciones inmobiliarias sin tener vigente su registro y, en su caso, la licencia en los términos de lo dispuesto por el artículo 7o BIS de esta Ley, se les podrá aplicar la sanción consistente en multa que podrá ser de setenta a tres mil veces el salario mínimo diario general vigente en la capital del Estado.
 
-> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
-ARTÍCULO 14 BIS.- Los agentes inmobiliarios con registro estatal que durante la vigencia de su registro hubieran sido condenados por delito alguno de carácter patrimonial, serán sancionados con la cancelación del registro y, en su caso, revocación de la licencia respectiva.
+ARTÍCULO 14 BIS.- Los agentes inmobiliarios que durante la vigencia de su registro o licencia hubieran sido condenados por delito alguno de carácter patrimonial serán sancionados con la cancelación del registro y, en su caso, revocación de la licencia respectiva, y no podrán solicitar de nueva cuenta su registro o licencia sino hasta después de tres años contados a partir de la fecha de imposición de la sanción respectiva.
 
 ###### ARTÍCULO 15.
 
@@ -271,127 +303,73 @@ IV.- La reincidencia del infractor.
 
 ARTÍCULO 15 BIS.- Las sanciones consistentes en multa que imponga la Secretaría se harán efectivas por la Secretaría de Hacienda, mediante el procedimiento administrativo de ejecución, en los términos previstos por el Código Fiscal del Estado.
 
+> <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Los recursos que se obtengan por concepto de multas se destinarán a los programas que impulse la Secretaría relacionados con los agentes inmobiliarios.
+
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 16.
 
-En todo caso, las infracciones y sanciones que se cometan por agentes inmobiliarios inscritos en el Registro Estatal de Agentes Inmobiliarios, se asentarán en el mismo.
+En todo caso, las infracciones y sanciones que se cometan por agentes inmobiliarios se asentarán en el Registro.
 
-### CAPITULO III. DEL RECURSO DE REVISION
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE AGOSTO DE 2008)</small>
+
+### CAPITULO III. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 17.
 
-Los interesados afectados por los actos y resoluciones de la Secretaría podrán, a su elección, interponer el recurso de revisión previsto en esta Ley o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado. El recurso de revisión tendrá por objeto que la Secretaría confirme, modifique, revoque o anule el acto administrativo recurrido.
+Los interesados afectados por los actos y resoluciones de la Secretaría podrán, a su elección, interponer el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Estado de Sonora, o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 ###### ARTÍCULO 18.
 
-El término para interponer el recurso de revisión ante la Secretaría, será de quince días hábiles, contados a partir del día siguiente que surta sus efectos la notificación de la resolución que se recurra, o de que el recurrente tenga conocimiento de dicha resolución.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 19.
 
-En el escrito de interposición del recurso de revisión, el interesado deberá cumplir con los siguientes requisitos:
-
-I.- El nombre del recurrente y del tercero perjudicado si lo hubiere, así como el lugar que señale para oír y recibir notificaciones y documentos, y el nombre de la persona para oírlas y recibirlas;
-
-II.- Precisar el acto o resolución administrativa que impugna, así como la fecha en que fue notificado de la misma o bien tuvo conocimiento de ésta;
-
-III.- La descripción de los hechos, antecedentes de la resolución que se recurre;
-
-IV.- Los agravios que le causan y los argumentos de derecho en contra de la resolución que se recurre;
-
-V.- Las pruebas que se ofrezcan, relacionándolas con los hechos que se mencionen; y
-
-VI.- La ratificación de firmas ante la propia autoridad en un lapso no mayor a cinco días, contados a partir de la fecha de interposición del mismo o ratificadas las firmas ante fedatario público.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 20.
 
-Con el escrito de interposición del recurso de revisión deberán acompañarse los siguientes documentos:
-
-I.- Los documentos que acrediten la personalidad del promovente, cuando actúe a nombre de otro o de persona moral;
-
-II.- El documento en que conste el acto o la resolución recurrida, cuando dicha actuación haya sido por escrito;
-
-III.- La constancia de notificación del acto impugnado o la manifestación bajo protesta de decir verdad de la fecha en que tuvo conocimiento de la resolución; y
-
-IV.- Las pruebas que acrediten los hechos.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 21.
 
-En caso de que el recurrente no cumpliera con alguno de los requisitos o no presente los documentos que señalan los dos artículos anteriores, la Secretaría deberá prevenirlo por escrito por una vez para que en el término de cinco días hábiles siguientes a la notificación personal subsane la irregularidad. Si transcurrido dicho plazo el recurrente no desahoga en sus términos la prevención, el recurso se tendrá por no interpuesto.
-
-Si el escrito de interposición del recurso no aparece firmado por el interesado, o por quien debe hacerlo, se tendrá por no interpuesto.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 22.
 
-Recibido el recurso por la Secretaría, en un término de tres días hábiles deberá proveer sobre la admisión, prevención o desechamiento del recurso, lo cual deberá notificársele al recurrente personalmente. Si se admite el recurso a trámite se concederá una dilación probatoria por el término de diez días. Concluido este periodo, se abrirá uno para alegatos por el término de cinco días.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 23.
 
-Se desechará por improcedente el recurso cuando se interponga:
-
-I.- Contra actos administrativos que sean materia de otro recurso que se encuentre pendiente de resolución y que haya sido promovido por el mismo recurrente por el propio acto impugnado;
-
-II.- Contra actos que no afecten los intereses legítimos del promovente;
-
-III.- Contra actos consumados de modo irreparable;
-
-IV.- Contra actos consentidos expresamente;
-
-V.- Cuando el recurso sea interpuesto fuera del término previsto por esta Ley; o
-
-VI.- Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 24.
 
-Será sobreseído el recurso cuando:
-
-I.- El promovente se desista expresamente;
-
-II.- El interesado fallezca durante el procedimiento, si el acto o resolución impugnados sólo afecta a su persona;
-
-III.- Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-IV.- Hayan cesado los efectos del acto impugnado;
-
-V.- Falte el objeto o materia del acto; o
-
-VI.- No se probare la existencia del acto impugnado.
-
-> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2007)</small>
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 25.
 
-La Secretaría deberá emitir la resolución al recurso dentro de los diez días hábiles siguientes a aquél en que fenezca el periodo de alegatos.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 26.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la Secretaría la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
-
-La Secretaría, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
-
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de 10 días hábiles contados a partir de que se haya dictado dicha resolución.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE ABRIL DE 2007)</small>
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 27.
 
-La Secretaría, al resolver el recurso podrá:
-
-I.- Declararlo improcedente o sobreseerlo;
-
-II.- Confirmar el acto impugnado;
-
-III.- Declarar la nulidad del acto impugnado o revocarlo; o
-
-IV.- Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente; u ordenar la reposición del procedimiento administrativo.
-
-> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2007)</small>
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 28.
 
-Contra la resolución que recaiga al recurso de revisión dictado por la Secretaría procede el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 29.
 
-Para los efectos del presente Capítulo, se aplicará supletoriamente las disposiciones del Código de Procedimientos Civiles para el Estado de Sonora.
+(DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 T R A N S I T O R I O S
 
@@ -426,5 +404,15 @@ Las personas morales, dentro del plazo a que se refiere el párrafo anterior, de
 A partir del vencimiento del plazo señalado en los párrafos anteriores, la Secretaría de Economía podrá sancionar, en los términos de lo dispuesto por este Decreto, a los agentes inmobiliarios inscritos en el Registro Estatal que no hubiesen acudido ante esa dependencia a entregar la documentación e información adicional para los efectos antes mencionados.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 4 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
