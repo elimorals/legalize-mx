@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2008-03-31"
+last_updated: "2008-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,69 +18,37 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL CUAL SE DA A CONOCER EL CUPO MAXIMO PARA EXPORTAR A LOS ESTADOS UNIDOS DE AMERICA, CEMENTO GRIS PORTLAND Y CEMENTO CLINKER, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2006 A 2009, AL AMPARO DEL ACUERDO SOBRE COMERCIO DE CEMENTO CELEBRADO ENTRE LA SECRETARIA DE ECONOMIA DE LOS ESTADOS UNIDOS MEXICANOS Y LA OFICINA DEL REPRESENTANTE COMERCIAL DE LOS ESTADOS UNIDOS DE AMERICA Y EL DEPARTAMENTO DE COMERCIO DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA
 
-Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 31 de marzo de 2008.
+Acuerdo publicado en la Primera Sección del diario Oficial de la Federación, el lunes 4 de agosto de 2008.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comunicaciones y Transportes.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 6o., 14, 15 fracción II, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 8o. párrafo primero del Acuerdo relativo a la aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994; 3o. párrafos sexto y séptimo del Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias de la Organización Mundial del Comercio; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL JUEVES 30 DE AGOSTO DE 2007.
+
+HUMBERTO TREVIÑO LANDOIS, Subsecretario de Transporte de la Secretaría de Comunicaciones y Transportes, con fundamento en los artículos 36 fracciones I, IX, XII y XXVII de la Ley Orgánica de la Administración Pública Federal; 1o., 5, fracciones I, III y IV, 12 y 59 de la Ley de Caminos, Puentes y Autotransporte Federal; el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 20 de diciembre de 1993; 1o., 3o., 7o., 9o. y 17 del Reglamento de Autotransporte Federal y Servicios Auxiliares; 1o., 3o., 6o., fracciones IX y XVII, y 19 del Reglamento Interior de la Secretaría de Comunicaciones y Transportes, y
 
 CONSIDERANDO
 
-Que el 6 de marzo de 2006, los titulares de la Secretaría de Economía de México, del Departamento de Comercio de los Estados Unidos de América y de la Oficina del Representante Comercial de los Estados Unidos de América suscribieron un acuerdo interinstitucional sobre el comercio de cemento (el Acuerdo sobre Comercio de Cemento), con el objetivo de finalizar el procedimiento de solución de diferencias ante la OMC y diversos litigios conforme al artículo 1904 del TLCAN y en consecuencia eliminar en un periodo de tres años el derecho antidumping impuesto por los Estados Unidos de América;
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) ha constituido un instrumento para fomentar el intercambio comercial entre México y Estados Unidos de América, que en su gran mayoría es transportado por carretera.
 
-Que el Acuerdo sobre Comercio de Cemento establece en sus párrafos II.A.1, III y IV, que durante la vigencia del mismo las exportaciones de cemento mexicano a los Estados Unidos de América se regularán mediante cupos de exportación administrados por medio de permisos previos a la exportación;
+Que el 30 de agosto de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se crea la modalidad temporal del servicio de autotransporte transfronterizo de carga internacional entre los Estados Unidos Mexicanos y los Estados Unidos de América, por medio del cual se establecieron las bases para el inicio del Programa Demostrativo del servicio de autotransporte transfronterizo de carga internacional, hacia y desde ambos países.
 
-Que el Acuerdo sobre Comercio de Cemento establece en su párrafo I.P que el primer periodo de exportación inicia el 3 de abril de 2006 y termina el 31 de marzo de 2007; el segundo periodo de exportación inicia el 1 de abril de 2007 y termina el 31 de marzo de 2008; y el tercero y último periodo de exportación inicia el 1 de abril de 2008 y termina el 31 de marzo de 2009;
+Que el Programa Demostrativo ha permitido adquirir experiencia recíproca en la prestación del servicio de autotransporte transfronterizo, de carga internacional, aclarar los procedimientos de apertura y operación fronteriza y facilitar tanto a cada gobierno como a los transportistas, la evaluación objetiva del Programa en su conjunto, en cumplimiento de la reglamentación de cada país, con acceso real y equitativo a los mercados.
 
-Que el 29 de marzo de 2006, la Secretaría de Economía publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América (Acuerdo por el que se da a conocer el cupo máximo publicado en 2006);
+Que para conservar las ventajas competitivas respecto a otras regiones del mundo, es necesario continuar con los esfuerzos de cada una de las naciones participantes para seguir promoviendo e incentivando el intercambio comercial.
 
-Que en esa misma fecha, la Secretaría de Economía publicó en el Diario Oficial de la Federación el Acuerdo que modifica el similar por el que se establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, a fin de incluir al cemento gris Portland y al cemento Clinker entre los productos que están sujetos a permiso previo para su exportación a los Estados Unidos de América;
+Con base en las anteriores consideraciones, he tenido a bien emitir el siguiente:
 
-Que conforme a lo previsto en el párrafo III.A.2.a del Acuerdo sobre Comercio de Cemento, el Departamento de Comercio de los Estados Unidos de América notificará anualmente a la Secretaría de Economía el monto del cupo para la exportación de cemento gris Portland y cemento Clinker, que corresponderá a cada periodo anual y que será determinado con base en el consumo aparente de cemento que previamente se haya presentado en cada subregión, y que para el segundo y tercer periodo de exportación se incrementará o disminuirá en un porcentaje de hasta el 4.5 por ciento del consumo aparente en cada subregión;
-
-Que el 30 de marzo de 2007 la Secretaría de Economía, publicó en el Diario Oficial de la Federación, el Acuerdo que modifica el diverso por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, a fin de dar a conocer el cupo para el segundo periodo anual de exportación vigente del 1 de abril de 2007 al 31 de marzo de 2008;
-
-Que el 6 de julio de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de comercio exterior, en cuyo Anexo 2.2.1 (Acuerdo de Permisos) se mantiene sujeta a permiso previo, la exportación de cemento gris Portland y cemento Clinker a los Estados Unidos de América;
-
-Que conforme al párrafo III.A.2 del Acuerdo sobre Comercio de Cemento, el 1 de febrero de 2008 el Departamento de Comercio de los Estados Unidos de América notificó a la Secretaría de Economía el monto anual del cupo para exportar cemento gris Portland y cemento Clinker a los Estados Unidos de América durante el tercer periodo anual de exportación previsto por el Acuerdo sobre Comercio de Cemento, el cual irá del primer día hábil de abril de 2008 al último día hábil de marzo de 2009 (en adelante, tercer periodo anual);
-
-Que por lo anterior es necesario modificar el Acuerdo por el que se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre Comercio de Cemento y; a efecto de dar a conocer el cupo anual de exportación que estará vigente durante el tercer periodo anual, y
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Acuerdo cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
-
-ACUERDO QUE MODIFICA EL DIVERSO POR EL CUAL SE DA A CONOCER EL CUPO MAXIMO PARA EXPORTAR A LOS ESTADOS UNIDOS DE AMERICA, CEMENTO GRIS PORTLAND Y CEMENTO CLINKER, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2006 A 2009, AL AMPARO DEL ACUERDO SOBRE COMERCIO DE CEMENTO CELEBRADO ENTRE LA SECRETARIA DE ECONOMIA DE LOS ESTADOS UNIDOS MEXICANOS Y LA OFICINA DEL REPRESENTANTE COMERCIAL DE LOS ESTADOS UNIDOS DE AMERICA Y EL DEPARTAMENTO DE COMERCIO DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA
 
 ###### ARTICULO UNICO.
 
-Se reforman los incisos 5.2 y 5.3, del numeral 5, de la Circular número R.E.1 en la que se detallan las Reglas a las que se sujetará el ingreso temporal de personas de negocios, de conformidad con el Tratado de Libre Comercio para América del Norte (T.L.C.A.N.), publicada el 9 de mayo de 1994, para quedar como sigue:
+Se modifican el Considerando Cuarto y los Artículos PRIMERO y SEGUNDO TRANSITORIOS y se adiciona un TERCER Artículo transitorio al presente Acuerdo, para quedar como sigue:
 
-1. …
+CONSIDERANDO CUARTO
 
-2. …
-
-3. …
-
-4. …
-
-5. TEMPORALIDAD DE LA INTERNACION CON FMN.
-
-5.1. …
-
-5.2. La vigencia de la autorización otorgada, en todo caso, será por 180 días contados a partir de la fecha del sello de la primera internación al país.
-
-5.3. En este caso, el término de los 180 días deberá entenderse como días naturales y, por ende, la vigencia de la forma migratoria vencerá de manera fatal al final de dicho término, sin tomar en consideración los días que el extranjero haya permanecido efectivamente en el país.
-
-5.4 …
-
-6. …
-
-7. …
-
-8. …
-
-9. …
+Que con objeto de continuar con la instrumentación de la resolución final del Panel de Solución de Controversias del Tratado de Libre Comercio de América del Norte, de febrero de 2001, los Estados Unidos Mexicanos y los Estados Unidos de América han acordado que la vigencia del Programa Demostrativo de acceso al autotransporte de carga será hasta el 31 de agosto de 2010, a través del cual se autorizará la participación de hasta 100 empresas representativas del transporte de cada país, cuya operación estará sujeta a las reglas expedidas en forma equitativa por ambos gobiernos, a fin de procurar un trato justo, no discrecional y bajo el principio de no discriminación respecto de los nacionales de cada país.
 
 ### Capítulo 9: Eliminar la regla de marcado aplicable al Capítulo 9 y reemplazarla con la siguiente regla:. 09.01 Un cambio a la partida 09.01 de cualquier
 
@@ -590,11 +558,13 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor el 1 de abril de 2008 y concluirá su vigencia el 31 de marzo de 2009.
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta 31 de agosto de 2010.
 
-SEGUNDO.- Al día siguiente de la publicación de este Acuerdo, la Secretaría de Economía iniciará la recepción y trámite de las solicitudes de asignación de cupo de exportación y solicitudes de permisos de exportación de conformidad con las disposiciones del presente.
+SEGUNDO.- Los permisos que se expidan al amparo del presente Acuerdo, tendrán una vigencia hasta el 31 de agosto de 2010.
 
-México, D.F., a 19 de marzo de 2008.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+TERCERO.- Los permisos que se hayan expedido en fecha anterior a la entrada en vigor de la presente modificación se entenderán prorrogados hasta el 31 de agosto de 2010.
+
+México, Distrito Federal, a uno de agosto de dos mil ocho.- El Subsecretario de Transporte de la Secretaría de Comunicaciones y Transportes, Humberto Treviño Landois.- Rúbrica.
 
 ## TRANSITORIOS
 
