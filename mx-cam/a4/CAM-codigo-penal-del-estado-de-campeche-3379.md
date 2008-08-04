@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "2002-09-30"
+last_updated: "2008-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULO PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LA MISMA FECHA EN QUE INICIE LA VIGENCIA DEL NUEVO CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -3910,3 +3912,15 @@ Segundo.- Se abrogan el Código Electoral del Estado expedido, bajo Decreto núm
 Tercero.- Las funciones que competen a la Dirección Ejecutiva del Registro Estatal de Electores del Instituto Electoral del Estado quedan en suspenso, mientras se encuentre vigente el convenio celebrado por el Gobierno del Estado con el Instituto Federal Electoral para utilizar localmente el sistema y credencialización del Registro Federal de Electores.
 
 Cuarto.- Los actuales Consejeros Electorales del Consejo General del Instituto Electoral del Estado continuarán en el desempeño de sus cargos hasta la fecha de conclusión del período para el que resultaron electos.
+
+P.O. 4 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Al entrar en vigor el presente Código quedará abrogado el Código Penal del Estado de Campeche vigente desde el 2 de enero de 1976 y que fuera publicado en el Periódico Oficial del Estado de fecha 16 de diciembre de 1975, pero deberá continuar aplicándose por los hechos ejecutados durante su vigencia, a menos que los acusados manifiesten su voluntad de acogerse al presente ordenamiento.
+
+TERCERO.- Se derogan los delitos contenidos en las leyes locales especiales previstos en este Código.
+
+Asimismo se derogan todas las disposiciones legales y administrativas que se opongan al contenido del presente decreto.
+
+CUARTO.- La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos penales modificados.
