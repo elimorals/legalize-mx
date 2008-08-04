@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-secretaria-de-hacienda-46157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-18"
-last_updated: "2006-07-13"
+last_updated: "2008-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2008
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 18 de agosto de 2005.
 
@@ -45,7 +45,7 @@ Cuando en este Reglamento se haga referencia a la Secretaría y al Secretario, s
 
 Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órganos desconcentrados:
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
 I.- Unidades Administrativas:
 
@@ -99,9 +99,7 @@ Dirección General de Visitas Domiciliarias.
 
 Dirección de Procedimientos Legales.
 
-Dirección General de Coordinación Hacendaría.
-
-Dirección General de Asuntos legales y Especiales.
+Dirección General de Coordinación Hacendaria.
 
 Dirección de Consultas y Estudios Jurídicos.
 
@@ -545,23 +543,37 @@ XXII. Las demás que le confieran las disposiciones legales aplicables y las que
 
 Corresponde a la Coordinación Ejecutiva de Verificación al Comercio Exterior las siguientes atribuciones:
 
-I. Colaborar, en coordinación con la Dirección General de Auditoría Fiscal, en la formulación del programa operativo anual de fiscalización concurrente, en donde se establecen los números de actos en materia de visitas domiciliarias y verificación de la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de toda clase de mercancías de procedencia extranjera y verificación de la legal importación, estancia o tenencia, transporte o manejo en territorio nacional de vehículos de procedencia extranjera, excepto aeronaves;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-II. Proponer al Secretario los sistemas, programas operativos y procedimientos para la práctica de visitas domiciliarias y de verificación de mercancías en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, inclusive en transporte y de vehículos, de procedencia extranjera, de acuerdo a la normatividad, lineamientos, políticas y criterios establecidos por la Secretaría de Hacienda y Crédito Público;
+I. Colaborar, en coordinación con la Dirección General de Auditoría Fiscal, en la formulación del programa operativo anual de fiscalización concurrente, en donde se establecen los números de actos en materia de visitas domiciliarias, auditorias, revisiones de escritorio, verificaciones de origen y verificaciones de la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de toda clase de mercancías de procedencia extranjera y verificación de la legal importación, estancia o tenencia, transporte o manejo en territorio nacional de vehículos de procedencia extranjera, excepto aeronaves;
 
-III. Ordenar la práctica de visitas domiciliarias y de verificación de mercancías de procedencia extranjera en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, inclusive en transporte, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables y en su caso, el embargo precautorio de los mismos;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-IV. Ordenar la práctica de visitas domiciliarias y de verificación de vehículos de origen y procedencia extranjera, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduaneras aplicables, y en su caso, el embargo precautorio de los mismos;
+II. Proponer al Secretario los sistemas, programas operativos y procedimientos para la práctica de visitas domiciliarias, auditorías, verificaciones de origen y de verificaciones de mercancías en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, inclusive en transporte y de vehículos, de procedencia extranjera, así como de revisiones de escritorio, de acuerdo a la normatividad, lineamientos, políticas y criterios establecidos por la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+III. Ordenar la práctica de visitas domiciliarias, auditorías, verificaciones de origen y de verificaciones de mercancías de procedencia extranjera en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, inclusive en transporte, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, así como de revisiones de escritorio, de conformidad con la legislación fiscal y aduanera aplicables y, en su caso, el embargo precautorio de los mismos;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+IV. Ordenar la práctica de visitas domiciliarias, auditorías, verificaciones de origen y de verificaciones de vehículos de origen y procedencia extranjera, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, así como de revisiones de escritorio, de conformidad con la legislación fiscal y aduanera aplicables, y en su caso, el embargo precautorio de los mismos;
 
 V. Ordenar la verificación de vehículos de procedencia extranjera en circulación, aún y cuando no se encuentren en movimiento, inclusive en las zonas de inspección permanente a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables, y en su caso, el embargo precautorio de los mismos;
 
-VI. Resolver el procedimiento administrativo en materia aduanera y determinar en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras en materia de su competencia;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-VII. Constituirse en depositaria de las mercancías, medios de transporte o vehículos embargados precautoriamente, hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de las mercancías, medios de transporte o vehículos, e informar a la Secretaría de Hacienda y Crédito Público sobre dicha situación, en materia de su competencia;
+VI.· Resolver el procedimiento administrativo en materia aduanera y determinar en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias, auditorías, revisiones de escritorio, verificaciones de origen y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras en materia de su competencia;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+VII. Constituirse en depositaria de las mercancías, medios de transporte o vehículos embargados precautoriamente, o designar depositarias de las mercancías a terceras personas e incluso al propio interesado, hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de las mercancías, medios de transporte o vehículos, e informar a la Secretaría de Hacienda y Crédito Público sobre dicha situación, en materia de su competencia;
 
 VIII. Resguardar y custodiar las mercancías, medios de transporte o vehículos que hayan sido embargados precautoriamente hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o hasta que se resuelva legalmente la devolución de los mismos, en materia de su competencia;
 
-IX. Expedir y autorizar las constancias de identificación que acrediten al personal para el desarrollo de las visitas domiciliarias y verificaciones de mercancías de procedencia extranjera, inclusive en transporte, así como para las visitas domiciliarias y verificaciones de vehículos de origen o procedencia extranjera y para la práctica de las notificaciones derivadas del ejercicio de tales atribuciones;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+IX. Expedir y autorizar las constancias de identificación que acrediten al personal para el desarrollo de las visitas domiciliarias, auditorías, revisiones de escritorio, verificaciones de origen y verificaciones de mercancías de procedencia extranjera, inclusive en transporte, así como para las visitas domiciliarias y verificaciones de vehículos de origen o procedencia extranjera y para la práctica de las notificaciones derivadas del ejercicio de tales atribuciones;
 
 X. Acordar con el superior jerárquico el destino de las mercancías que hayan sido adjudicadas a favor del Estado; así como la destrucción, donación, asignación o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la legislación aduanera, en materia de su competencia;
 
@@ -613,11 +625,25 @@ XXXIII. Supervisar los programas de difusión relativos a los beneficios que se 
 
 XXXIV. Aprobar y coordinar el diseño o producción del holograma de control que se utilizará en los vehículos que circulen únicamente en la Entidad, conforme a las características que señala el Acuerdo de la materia, así como de los formatos de las solicitudes y permisos de importación temporal en cuyo reverso deberán constar las advertencias y sanciones que se aplicarán a los usuarios que infrinjan las disposiciones legales;
 
-XXXV. Ser enlace ante la Secretaría de Hacienda y Crédito Público, por conducto del Servicio de Administración Tributaria, en materia de vehículos de procedencia extranjera;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-XXXVI. Aprobar las formas oficiales y demás documentos, en el ámbito de su competencia, requeridos por las disposiciones fiscales estatales o federales, en su caso, así como los instructivos para su utilización por parte de los contribuyentes; y
+XXXV. Ser enlace ante la Secretaría de Hacienda y Crédito Público, por conducto del Servicio de Administración Tributaria, en materia de vehículos de procedencia extranjera, así como mantener la comunicación y coordinación con las aduanas del país, las autoridades aduaneras federales y las demás autoridades locales de la Entidad, para el ejercicio de sus atribuciones;
 
-XXXVII. Las demás que le confieran las disposiciones legales aplicables y las que le delegue el Secretario.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXVI. Aprobar las formas oficiales y demás documentos, en el ámbito de su competencia, requeridos por las disposiciones fiscales estatales o federales, en su caso, así como los instructivos para su utilización por parte de los contribuyentes;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXVII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes, así como recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones legales, así como autorizar o negar prórrogas para su presentación. Emitir los oficios de observaciones y el de conclusión de la revisión;
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXVIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de las facultades señaladas en este artículo y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante; y
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXIX. Las demás que le confieran las disposiciones legales aplicables y las que le delegue el Secretario.
 
 ###### ARTÍCULO 15.
 
@@ -647,7 +673,9 @@ XI. Hacer efectivas y sustanciar los procedimientos contenciosos correspondiente
 
 XII. Designar a los abogados de la Hacienda Pública para que comparezcan en representación de la Secretaría o de sus unidades administrativas en los casos a que aluden las fracciones III, VII, IX y XI de este artículo, así como expedir las credenciales o constancias de identificación del personal adscrito a su unidad administrativa que se autorice para tales efectos;
 
-XIII. Declarar la prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales aplicables, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XIII. Declarar la prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales aplicables, para determinarlas contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios, solicitadas por los contribuyentes;
 
 XIV. Condonar, cuando proceda, las multas impuestas por la autoridad fiscal correspondiente, con excepción de aquellas que sean de la competencia de la Subsecretaría de Ingresos o unidades administrativas a su cargo;
 
@@ -883,7 +911,9 @@ III. Imponer multas por infracciones a las disposiciones fiscales o administrati
 
 IV. Proponer, para aprobación superior, los sistemas, métodos y procedimientos en las materias de su competencia;
 
-V. Revisar que los dictámenes formulados por contador público registrado, sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes, o respecto de operaciones de enajenación de acciones, o cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúna los requisitos establecidos en las disposiciones fiscales; así como efectuar su revisión respecto de los contribuyentes de su competencia para comprobar el cumplimiento de las disposiciones fiscales relativas a impuestos federales y estatales;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+V. Revisar que los dictámenes formulados por contador público registrado, sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes, o respecto de operaciones de enajenación de acciones, o cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúna los requisitos establecidos en las disposiciones fiscales, determinar y notificar a los contadores públicos registrados las irregularidades de su actuación profesional, en su caso; así como efectuar su revisión respecto de los contribuyentes de su competencia para comprobar el cumplimiento de las disposiciones fiscales relativas a impuestos federales y estatales;
 
 VI. Tramitar y resolver las solicitudes de los contribuyentes para dejar sin efectos, en los casos que proceda y en las materias de su competencia, las resoluciones de carácter individual no favorables a un particular, emitidas por esa unidad administrativa o por sus subordinados jerárquicamente, en las que se demuestre que son contradictorias a las disposiciones fiscales;
 
@@ -897,11 +927,15 @@ X. Informar a la Administración General de Auditoría Fiscal Federal de las irr
 
 XI. Evaluar la operación en materia de fiscalización concurrente y de impuestos estatales considerando la forma de medición de los efectos que en los sectores económicos, regiones y en la recaudación, produzcan las acciones contempladas en el Programa Operativo Anual y establecer en su caso las medidas correctivas que procedan;
 
-XII. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, vigilancia y verificaciones de expedición de comprobantes fiscales y del cumplimiento de obligaciones en materia del Registro Estatal de Contribuyentes y del Registro Federal de Contribuyentes y dejarlas sin efecto cuando procedan, a fin de facilitar el desarrollo de actos de fiscalización, así como los demás actos que establezcan las disposiciones fiscales federales, aduaneras o estatales, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros con ellos relacionados, en el domicilio fiscal o establecimiento de los mismos, así como en las oficinas de la autoridad competente, en materia de contribuciones, incluyendo el impuesto general de importación, impuesto al valor agregado, impuesto especial sobre producción y servicios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que se causen por la importación en territorio nacional de mercancías de procedencia extranjera; Resolver (sic) las solicitudes de conclusión anticipada de las visitas en los domicilios fiscales que hayan ordenado a contribuyentes obligados a dictaminar sus estados financieros por contador público autorizado;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XII. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, vigilancia y verificaciones de expedición de comprobantes fiscales y del cumplimiento de obligaciones en materia del Registro Estatal de Contribuyentes y del Registro Federal de Contribuyentes y dejarlas sin efecto cuando procedan, a fin de facilitar el desarrollo de actos de fiscalización, así como los demás actos que establezcan las disposiciones fiscales federales, aduaneras o estatales, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros con ellos relacionados, en el domicilio fiscal o establecimiento de los mismos, así como en las oficinas de la autoridad competente, en materia de contribuciones, incluyendo el impuesto general de importación, impuesto al valor agregado, impuesto especial sobre producción y servicios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que se causen por la importación en territorio nacional de mercancías de procedencia extranjera; resolver las solicitudes de conclusión anticipada de las visitas en los domicilios fiscales que hayan ordenado a contribuyentes obligados a dictaminar sus estados financieros por contador público autorizado; reponer el procedimiento cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables al mismo;
 
 XIII. Notificar los actos relacionados con el ejercicio de las facultades de comprobación, y las resoluciones que determinen créditos fiscales derivados del ejercicio de las facultades de comprobación, en los términos de la legislación fiscal federal y estatal; tratándose de actos del ámbito de su competencia, notificar al interesado el inicio del procedimiento administrativo en materia aduanera, así como tramitar y resolver el mismo hasta sus últimas consecuencias de conformidad con la legislación federal y aduanera aplicables;
 
-XIV. Requerir a los contribuyentes, responsables solidarios y de terceros con ellos relacionados, así como solicitar a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones legales, así como autorizar o negar prórrogas para su presentación. Emitir los oficios de observaciones el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XIV. Requerir a los contribuyentes, responsables solidarios y de terceros con ellos relacionados, así como solicitar a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen copia del dictamen fiscal que hayan presentado ante las Administraciones Locales de Auditoría Fiscal Federal, la contabilidad, declaraciones, avisos, datos u otros documentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones legales, así como autorizar o negar prórrogas para su presentación. Emitir los oficios de observaciones, el de conclusión de la revisión y, en su caso, el de prórroga y reanudación del plazo para concluir la revisión;
 
 XV. Determinar los impuestos, la actualización de las contribuciones cuando proceda hacerlo y sus accesorios, de carácter federal o estatal que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de actos de comprobación; determinar la cuota fija para el pago de contribuciones, de conformidad con las disposiciones fiscales aplicables; determinar las cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, de conformidad con las disposiciones fiscales y aduaneras aplicables, que deriven del ejercicio de las facultades a que se refiere este artículo;
 
@@ -939,7 +973,9 @@ I. Recibir y tramitar las solicitudes de licencias y de revalidación de las mis
 
 II. Tramitar la regularización de licencias para la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico en los casos previstos en la ley aplicable;
 
-III. Mantener actualizado el padrón y expedientes de los titulares de licencias de los establecimientos destinados a la fabricación, envasamiento, distribución, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+III. Mantener actualizados los registros en el Sistema Integral de Información y Administración Financiera relativos al padrón estatal, porteadores y proveídos, en materia de bebidas con contenido alcohólico, así como los expedientes de los establecimientos destinados a la fabricación, envasamiento, distribución, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico;
 
 IV. Ordenar y practicar las visitas de inspección y verificación a los establecimientos dedicados a la fabricación, envasamiento, distribución, almacenamiento, venta y consumo de bebidas con contenido alcohólico en el Estado, para cerciorarse del cumplimiento de las disposiciones contenidas en la ley de la materia;
 
@@ -969,13 +1005,19 @@ XVI. Intervenir y en su caso defender, en coordinación con la Procuraduría Fis
 
 XVII. Denunciar ante las autoridades correspondientes, en coordinación con la Procuraduría Fiscal, les hechos de que tenga conocimiento en el ejercicio de sus funciones que puedan constituir delitos para los efectos legales que procedan, aportando las actuaciones y pruebas que se hubiere allegado;
 
-XVIII. Elaborar los proveídos mediante los cuales se impongan sanciones por infracciones a las disposiciones en materia de bebidas con contenido alcohólico, cuya imposición competa al superior jerárquico, someterlas a su firma y darles el trámite correspondiente, y registrar los pagos de las multas respectivas en base a la información proporcionada por la Dirección General de Recaudación;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XVIII. Elaborar los proveídos mediante los cuales se impongan sanciones por infracciones a las disposiciones en materia de bebidas con contenido alcohólico, cuya imposición competa al superior jerárquico, someterlos a su firma, notificarlos y darles el trámite correspondiente;
 
 XIX. Tramitar, en coordinación con la Dirección Jurídica de la Subsecretaría de Ingresos, las solicitudes de reducción, condonación o cancelación de multas por infracción a las disposiciones legales aplicables y con base en los antecedentes del caso, proponer al superior jerárquico la posible resolución del asunto de que se trate;
 
-XX. Designar, supervisar, dirigir y evaluar a los inspectores adscritos a su cargo;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-XXI. Expedir las credenciales o constancias del personal adscrito a su unidad administrativa y del que se autorice para la práctica de alguna actuación relacionada con los procedimientos inherentes al desempeño de sus facultades;
+XX. Designar, supervisar, dirigir y evaluar a los inspectores y al personal que practique la notificación de proveídos, mediante los cuales se impongan sanciones por infracciones a las disposiciones en materia de bebidas con contenido alcohólico, adscritos a su cargo;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXI. Expedir las credenciales o constancias del personal adscrito a su unidad administrativa, del que se autorice para la práctica de alguna actuación relacionada con los procedimientos inherentes al desempeño de sus facultades y del personal que se autorice para la práctica de notificaciones de proveídos, mediante los cuales se impongan sanciones por infracciones a las disposiciones en materia de bebidas con contenido alcohólico;
 
 XXII. Proponer al superior jerárquico las reformas a las disposiciones legales y reglamentarias de su competencia, cuando así se requiera;
 
@@ -983,9 +1025,15 @@ XXIII. Coordinar las Oficinas Administrativas de Bebidas Alcohólicas en el Esta
 
 XXIV. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
-Las órdenes y las guías a que se refieren las fracciones IV, V y VI, respectivamente, de este artículo, podrán ser expedidas por el personal adscrito a esta unidad administrativa, que específicamente designe para tales efectos el Director General.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Las órdenes y las guías a que se refieren las fracciones IV, V y VI, respectivamente, de este artículo, podrán ser expedidas por los subdirectores de alcoholes así como por el personal adscrito a esta unidad administrativa que específicamente designe para tales efectos el Director General.
 
 Las actuaciones a que se refieren las fracciones IV, V, VII, VIII y IX de este artículo, serán practicadas por los inspectores adscritos a esta unidad administrativa.
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Las notificaciones de los proveídos mediante los cuales se impongan sanciones por infracciones a las disposiciones en materia de bebidas con contenido alcohólico, serán practicadas por el personal que se autorice en los términos de la fracción XXI de este numeral.
 
 ###### ARTÍCULO 21.
 
@@ -1153,7 +1201,9 @@ XXIV. Designar, supervisar, dirigir y evaluar a los notificadores y ejecutores a
 
 XXV. Expedir las credenciales o constancias del personal adscrito a su unidad administrativa y del que autorice para la práctica de alguna diligencia relacionada con los actos o procedimientos inherentes a su competencia;
 
-XXVI. Ejercer las atribuciones que se precisan en las fracciones XVII al XXIII de este artículo, respecto de contribuyentes cuyos créditos fiscales provengan de los ingresos federales coordinados a que se refiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, Anexos respectivos a dicho Convenio, impuestos estatales y sanciones administrativas, en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXVI.- Ejercer las atribuciones que se precisan en las fracciones XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXVIII y XXXII de este artículo, respecto de contribuyentes cuyos créditos fiscales provengan de los ingresos federales coordinados a que se refiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, Anexos respectivos a dicho Convenio, impuestos estatales y sanciones administrativas, en los siguientes casos:
 
 a) Créditos fiscales federales o estatales determinados por la autoridad en el ejercicio de sus facultades de comprobación, así como de aquellos contribuyentes fiscalizados a quienes les sea revocada la autorización para pagar a plazos en forma diferida o en parcialidades, independientemente del monto del adeudo fiscal;
 
@@ -1165,9 +1215,29 @@ d) Créditos fiscales determinados por las autoridades administrativas federales
 
 XXVII. Coordinarse con la Coordinación Ejecutiva de Verificación al Comercio Exterior y las Direcciones Generales de Auditoría Fiscal, de Recaudación y de Bebidas Alcohólicas, para el envío oportuno de las resoluciones y sanciones respecto de las cuales tiene atribuciones de ejecución;
 
-XXVIII. Llevar un control de los créditos fiscales por cobrar a favor del Gobierno del Estado, respecto de los cuales tiene atribuciones, y vigilar su correcta y oportuna recuperación; así como informar el avance de gestión de cobro a la Dirección General de Recaudación y Agencia Fiscal que corresponda; y
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-XXIX. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+XXVIII.- Habilitar los días y horas inhábiles para la práctica de las diligencias que se deban efectuar en los términos del Código Fiscal de la Federación y Código Fiscal del Estado, en las materias de su competencia;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXIX.- Llevar un control de los créditos fiscales por cobrar a favor del Gobierno del Estado, respecto de los cuales tiene atribuciones, y vigilar su correcta y oportuna recuperación; así como informar el avance de gestión de cobro a la Dirección General de Recaudación y Agencia Fiscal que corresponda;
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXX.- Declarar de oficio la prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales aplicables, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios;
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXI.- Llevar a cabo las medidas de seguridad para conservar los bienes embargados derivados de créditos fiscales estatales o federales, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXII.- Nombrar o remover, en su caso, dentro del procedimiento administrativo de ejecución, a los depositarios, interventores o peritos, en los términos de las leyes fiscales estatales y federales, en el ámbito de su competencia; y
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXIII.- Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 25.
 
@@ -1445,45 +1515,45 @@ X. Dictaminar los catálogos de cuentas para la contabilidad del gasto público 
 
 XI. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 32.
 
 La Dirección General de Control de Fondos y Pagaduría estará adscrita a la Tesorería del Estado y le corresponden las siguientes atribuciones:
 
-I. Custodiar y guardar los documentos, valores y efectivos del Gobierno del Estado;
+I. Operar y distribuir los fondos de las cuentas bancarias para tener la capacidad de pago y liquidez del Gobierno Estatal;
 
-II. Elaborar diariamente las posiciones de caja y bancos para llevar los registros necesarios para el control de los movimientos de ingresos y egresos;
+II. Recibir las concentraciones de reportes de recaudación de las Agencias Fiscales, a través de la Dirección General de Recaudación y efectuar las transferencias electrónicas en las instituciones bancarias;
 
-III. Manejar el sistema de control de disponibilidad de fondos, cuidando la capacidad de pago y liquidez del Gobierno Estatal;
+III. Manejar la concentración y situación de fondos y valores provenientes del cumplimiento de la Ley de Ingresos del Estado y otros conceptos que deba percibir la Hacienda Pública Estatal, por cuenta propia y ajena;
 
-IV. Tramitar las liquidaciones de pago de participaciones federales y estatales, así como de les anticipos de las mismas, a los municipios, de acuerdo a los lineamientos y políticas que al efecto se establezcan en la Ley de Coordinación Fiscal, en los convenios respectivos y en las demás disposiciones legales correspondientes, previa autorización del superior jerárquico;
+IV. Elaborar diariamente las pólizas de diario, pólizas de ingresos y órdenes de pago para llevar el control y registro contable de los movimientos bancarios;
 
-V. Recibir las concentraciones de reportes de recaudación de las Agencias Fiscales, a través de la Dirección General de Recaudación y efectuar las transferencias electrónicas en las instituciones bancarias;
+V. Emitir los cheques y/o pagos electrónicos correspondientes a las órdenes de pago, previa autorización del superior jerárquico;
 
-VI. Elaborar los cheques correspondientes al pago a proveedores, contratistas y prestadores de servicios, subsidios a organismos, así como los que correspondan a las nóminas de sueldo de los servidores públicos del Estado y los demás que legalmente deba hacer el Gobierno del Estado en función de sus disponibilidades, vigilando que toda erogación esté debidamente comprobada y requisitada previa autorización del superior jerárquico y realizar los pagos correspondientes;
+VI. Elaborar los cheques y/o transferencias electrónicas correspondientes al pago a proveedores, contratistas y prestadores de servicios, subsidios a organismos, así como los que correspondan a las nóminas de sueldo de los servidores públicos del Estado y los demás que legalmente deba hacer el Gobierno del Estado en función de sus disponibilidades, vigilando que toda erogación esté debidamente comprobada y requisitada previa autorización del superior jerárquico y realizar los pagos correspondientes;
 
-VII. Manejar la concentración y situación de fondos y valores provenientes del cumplimiento de la Ley de Ingresos del Estado y otros conceptos que deba percibir la Hacienda Pública Estatal, por cuenta propia o ajena;
+VII. Realizar el pago por cheque y/o transferencia electrónica y resguardar los listados con firmas originales de liquidación por concepto de servicios personales diversos a funcionarios y empleados del Gobierno del Estado, previa la autorización correspondiente;
 
-VIII. Emitir los cheques correspondientes a las órdenes de pago, previa autorización del superior jerárquico;
+VIII. Tramitar las liquidaciones de pago de participaciones federales y estatales, así como de los anticipos de las mismas; a los municipios, de acuerdo a los lineamientos y políticas que al efecto se establezcan en la Ley de Coordinación Fiscal, en los convenios respectivos y en las demás disposiciones legales correspondientes, previa autorización del superior jerárquico;
 
-IX. Realizar el pago de los recibos y listas de raya por concepto de servicios personales diversos a funcionarios y empleados del Gobierno del Estado, previa la autorización correspondiente;
+IX. Recibir pagos por las diversas operaciones que realice el Gobierno del Estado;
 
-X. Llevar registro de las garantías que se otorguen a favor del Estado;
+X. Efectuar pagos electrónicos a proveedores mediante el programa de cadenas productivas;
 
-XI. Recibir pagos por las diversas operaciones que realice el Gobierno del Estado;
+XI. Recibir los fondos por participaciones y aportaciones federales efectuando el registro de las mismas;
 
-XII. Recibir los fondos por participaciones y aportaciones federales efectuando el registro de las mismas;
+XII. Tramitar los documentos por movimientos virtuales, bonos, subsidios, certificados especiales y otros, previa autorización del superior jerárquico;
 
-XIII. Tramitar los documentos por movimientos virtuales, bonos, subsidios, certificados especiales y otros, previa autorización del superior jerárquico;
+XIII. Cancelar, y en su caso, reponer cheques expedidos;
 
-XIV. Formular las pólizas de ingresos y egresos correspondientes y/o concentraciones de movimientos para su debida contabilización por la Dirección General de Contabilidad Gubernamental;
+XIV. Custodiar y guardar los documentos, valores y efectivos del Gobierno del Estado;
 
-XV. Cancelar, y en su caso, reponer cheques expedidos;
+XV. Llevar registro de las garantías que se otorguen a favor del Estado;
 
-XVI. Realizar arqueos de fondos cuando lo considere conveniente;
+XVI. Realizar arqueos de fondos cuando lo considere conveniente; y
 
-XVII. Efectuar pagos electrónicos a proveedores mediante el programa de cadenas productivas; y
-
-XVIII. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+XVII. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 33.
 
@@ -1513,7 +1583,9 @@ XI. Celebrar los acuerdos con los municipios de la Entidad a fin de que estos ú
 
 XII. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
 
-XIII. Informar a la Procuraduría Fiscal de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir infracciones administrativas, delitos fiscales o delitos de los servidores públicos de la Secretaría en el desempeño de sus respectivas funciones. Acompañando, en su caso, la cuantificación del perjuicio sufrido al fisco estatal;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XIII. Informar a la Procuraduría Fiscal de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir infracciones administrativas, delitos fiscales o delitos de los servidores públicos de la Secretaría en el desempeño de sus respectivas funciones, acompañando, en su caso, la cuantificación del perjuicio sufrido al fisco estatal, así como las actuaciones y pruebas que se hubiere allegado;
 
 XIV. Proceder al levantamiento del embargo precautorio y la entrega de las mercancías o medios de transporte embargados precautoriamente, antes de la conclusión del procedimiento aduanero, en los casos que resulte procedente;
 
@@ -1527,7 +1599,9 @@ XVIII. Participar en la materia de su competencia en la formulación de convenio
 
 XIX. Coordinarse en las materias de su competencia, con las autoridades fiscales federales, estatales y municipales, para el mejor ejercicio de sus facultades;
 
-XX. Comunicar a la Procuraduría Fiscal de los hechos que tenga conocimiento en el ejercicio de sus funciones, que puedan constituir delitos, aportando las actuaciones y pruebas que se hubiere allegado;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XX. Designar como depositaria de la mercancía embargada, derivada del procedimiento administrativo en materia aduanera, al contribuyente, representante legal o terceras personas, así como remover al depositario designado cuando lo estime pertinente;
 
 XXI. Designar, supervisar, dirigir y evaluar a los inspectores, verificadores y notificadores adscritos a su cargo;
 
@@ -1611,9 +1685,17 @@ XXXV. Diseñar o producir los hologramas, formatos y demás documentos para la i
 
 XXXVI. Informar en los términos del Acuerdo de la materia, el número de vehículos que ingresaron y retomaron al país a través del procedimiento previsto en dicho Acuerdo, así como enviar a las autoridades correspondientes la información de todas las operaciones de importación temporal de vehículos destinados a permanecer y circular exclusivamente en el territorio del Estado, de los vehículos que hayan retornado y de aquellos cuyos plazos hayan vencido y aún se encuentren en el territorio del propio Estado;
 
-XXXVII. Practicar visitas a los lugares de control y resguardo a fin de fiscalizar y supervisar el avance en los objetivos para los que fueron establecidos; y
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-XXXVIII. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+XXXVII.- Practicar visitas a los lugares de control y resguardo a fin de fiscalizar y supervisar el avance en los objetivos para los que fueron establecidos;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXVIII.- Designar como depositaria de la mercancía embargada, derivada del procedimiento administrativo en materia aduanera, al contribuyente, representante legal o terceras personas, así como remover al depositario designado cuando lo estime pertinente; y
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XXXIX.- Las demás que le señale el superior jerárquico o le confieran otras disposiciones legales.
 
 Las actuaciones a que se refieren las fracciones III, V, VI, VII, XXVI y XXVII de este artículo, serán practicadas por los inspectores y verificadores adscritos a esta unidad administrativa.
 
@@ -1621,33 +1703,65 @@ Las actuaciones a que se refieren las fracciones III, V, VI, VII, XXVI y XXVII d
 
 La Dirección General de Visitas Domiciliarias estará adscrita a la Coordinación Ejecutiva de Verificación al Comercio Exterior y le corresponden las siguientes atribuciones:
 
-I. Ordenar la práctica de visitas domiciliarias, de mercancías o vehículos de procedencia extranjera en el domicilio fiscal del contribuyente, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de las mercancías para su venta, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables vigentes y en su caso, el embrago (sic) precautorio de los mismos;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-Il. Practicar visitas domiciliarias y verificaciones en centros de almacenamiento, distribución o comercialización, tianguis, lotes, mercados sobre ruedas, puestos fijos y semifijos, en la vía pública o donde se realice la exhibición de la mercancía para su venta, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables vigentes, y en su caso practicar el embargo precautorio de las mercancías;
+I.- Ordenar la práctica de visitas domiciliarias, auditorías, verificaciones de origen y verificaciones de mercancías o vehículos de procedencia extranjera en el domicilio fiscal del contribuyente, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de las mercancías para su venta, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, así como de revisiones de escritorio, de conformidad con la legislación fiscal y aduanera aplicables vigentes, y en su caso, el embargo precautorio de los mismos;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+II.- Practicar visitas domiciliarias, auditorías, verificaciones de origen y verificaciones en centros de almacenamiento, distribución o comercialización, tianguis, lotes, mercados sobre ruedas, puestos fijos y semifijos, en la vía pública o donde se realice la exhibición de la mercancía para su venta, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, así como revisiones de escritorio, de conformidad con la legislación fiscal y aduanera aplicables vigentes, y en su caso, practicar el embargo precautorio de las mercancías;
 
 III. Levantar actas circunstanciadas en las que se hará constar los hechos, en caso de que se inicie el procedimiento administrativo en materia aduanera o para que se finque un crédito fiscal, procediendo a turnar dichas actuaciones a la Dirección de Procedimientos Legales para su trámite y posterior resolución por parte del superior jerárquico, del procedimiento que corresponda;
 
 IV. Iniciar el procedimiento administrativo en materia aduanera, embargándose precautoriamente los bienes, procediendo a turnar dichas actuaciones a la Dirección de Procedimientos Legales para su trámite y posterior resolución por parte del superior jerárquico, del mencionado procedimiento;
 
-V. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-VI. Informar a la Dirección de Procedimientos Legales de los hechos de que se tenga conocimiento con motivo de sus actuaciones que puedan constituir infracciones administrativas, delitos fiscales o delitos de los servidores públicos de la Secretaría en el desempeño de sus diversas funciones, acompañando, en su caso, las actuaciones y pruebas que se hubiere allegado y la cuantificación del perjuicio sufrido al fisco estatal;
+V.- Designar como depositaria de la mercancía embargada, derivada del procedimiento administrativo en materia aduanera, al contribuyente visitado, representante legal o terceras personas, así como remover al depositario designado cuando lo estime pertinente;
 
-VII. Proceder al levantamiento del embargo precautorio y la entrega de la mercancía embargada precautoriamente, antes de la conclusión del procedimiento administrativo en materia aduanera en los casos que resulte procedente;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-VIII. Proponer al superior jerárquico los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+VI.- Proceder al levantamiento del embargo precautorio y la entrega de la mercancía embargada precautoriamente, antes de la conclusión del procedimiento administrativo en materia aduanera en los casos que resulte procedente;
 
-IX. Coordinarse en materias de su competencia, con las autoridades fiscales federales, estatales y municipales, para el mejor ejercicio de sus facultades;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-X. Designar, supervisar, dirigir y evaluar a los auditores, verificadores y notificadores adscritos a su cargo;
+VII.-. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes, así como recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones legales, así como autorizar o negar prórrogas para su presentación. Emitir los oficios de observaciones y el de conclusión de la revisión;
 
-XI. Expedir y autorizar las constancias de identificación que acrediten al personal para el desarrollo de las visitas domiciliarias de mercancías de procedencia extranjera;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-XII. Presentar mensualmente al superior jerárquico, un reporte con los resultados obtenidos en el ejercicio de sus funciones conforme a las metas y acciones de la unidad administrativa a su cargo; y
+VIII.- Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de las facultades señaladas en este artículo y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante;
 
-XIII. Las demás que señale el superior jerárquico, o le confieran otras disposiciones legales.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-Las actuaciones a que se refieren las fracciones II, III y IV de este artículo, serán practicadas por los auditores y verificadores adscritos a esta unidad administrativa;
+IX.- Proponer al superior jerárquico los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+X.- Coordinarse en materias de su competencia, con las autoridades fiscales federales, estatales y municipales, para el mejor ejercicio de sus facultades;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XI.- Designar, supervisar, dirigir y evaluar a los auditores, verificadores y notificadores adscritos a su cargo;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XII.- Expedir y autorizar las constancias de identificación que acrediten al personal para el desarrollo de las visitas domiciliarias de mercancías de procedencia extranjera;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XIII.- Presentar mensualmente al superior jerárquico, un reporte con los resultados obtenidos en el ejercicio de sus funciones conforme a las metas y acciones de la unidad administrativa a su cargo;
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XIV.- Informar a la Dirección de Procedimientos Legales de los hechos de que se tenga conocimiento con motivo de sus actuaciones que puedan constituir infracciones administrativas, delitos fiscales o delitos de los servidores públicos de la Secretaría en el desempeño de sus diversas funciones, acompañando, en su caso, las actuaciones y pruebas que se hubiere allegado y la cuantificación del perjuicio sufrido al fisco estatal; y
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XV.- Las demás que señale el superior jerárquico, o le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Las actuaciones a que se refieren las fracciones II, III y IV de este artículo, serán practicadas por los auditores y verificadores adscritos a esta unidad administrativa.
 
 ###### ARTÍCULO 36.
 
@@ -1659,7 +1773,9 @@ II. Aceptar, previa calificación, las garantías que se otorguen para cubrir cr
 
 III. Imponer las multas que correspondan en el ámbito de su competencia, relacionadas con el incumplimiento de las obligaciones fiscales y aduaneras y, en su caso, condonarlas en los casos que procedan;
 
-IV. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+IV. Iniciar el procedimiento administrativo en materia aduanera embargándose precautoriamente los bienes, tratándose de verificación de mercancías y vehículos de procedencia extranjera;
 
 V. Informar a la Procuraduría Fiscal de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir infracciones administrativas, delitos fiscales o delitos de los servidores públicos de la Secretaría en el desempeño de sus respectivas funciones, acompañando en su caso, la cuantificación del perjuicio sufrido al fisco estatal;
 
@@ -1673,9 +1789,17 @@ IX. Remitir a la Secretaría de Hacienda y Crédito Público, trimestralmente, u
 
 X. Formular las formas oficiales y demás documentos, en el ámbito de su competencia, requeridos por las disposiciones fiscales estatales o federales, en su caso, así como los instructivos para su utilización por parte de los contribuyentes;
 
-XI. Notificar al interesado de todas las actuaciones concernientes al procedimiento administrativo en materia aduanera; y
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-XII. Las demás que le confieran las disposiciones legales aplicables y las que le delegue el superior jerárquico.
+XI. Notificar al interesado de todas las actuaciones concernientes al procedimiento administrativo en materia aduanera;
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XII. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia; y
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XIII. Las demás que le confieran las disposiciones legales aplicables y las que le delegue el superior jerárquico.
 
 ###### ARTÍCULO 37.
 
@@ -1713,39 +1837,7 @@ XV. Identificar y proponer, para aprobación superior, alternativas de política
 
 XVI. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
-> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2006)</small>
-
-ARTÍCULO 37 BIS.- La Dirección General de Asuntos Legales y Especiales estará adscrita a la Procuraduría Fiscal y le corresponden las siguientes atribuciones:
-
-I.- Acordar con el Procurador Fiscal, en materia de ingresos estatales, los términos de los informes previos y con justificación en relación con los juicios de amparo interpuestos contra leyes, reglamentos y otras disposiciones de carácter general, de los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad, así como contra actos de las autoridades de la Secretaría;
-
-II.- Actuar en los juicios de amparo de su competencia, con las facultades de delegados en las audiencias y proponer la designación de abogados hacendarios con el carácter de delegados en las audiencias y dirigirlos en su actuación en los juicios respectivos;
-
-III.- Requerir y vigilar, en ámbito de su competencia, el debido cumplimiento por parte de las autoridades hacendarias a los amparos y, en su caso, proponer los términos en que se deberá intervenir en los incidentes de inejecución de sentencia y de repetición de actos reclamados que promuevan los particulares;
-
-IV.- Formular las contestaciones de los escritos de los particulares en que ejerzan el derecho de petición, en asuntos materia de su competencia;
-
-V.- Proponer, en los asuntos materia de su competencia, por instrucciones del Procurador Fiscal, a las autoridades dependientes de la Secretaría, la conveniencia de revocar las resoluciones emitidas, cuando así convenga a los intereses de la Secretaría; proponer los términos de los alegatos que deban formularse en audiencias constitucionales e incidentales, los que deban rendirse en los juicios de amparo directo, en las controversias constitucionales y acciones de inconstitucionalidad, así como los demás juicios cuyo conocimiento sea de su competencia;
-
-VI.- Someter a consideración del Procurador Fiscal la no formulación de alegatos en los asuntos de su competencia;
-
-VII.- Formular las denuncias o querellas ante el Ministerio Público por la presunta comisión de delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, así como elaborar los informes dirigidos a la Secretaría de la Contrataría General sobre los hechos que pudieran constituir responsabilidades administrativas, allegándose los elementos probatorios del caso, excepto del Secretario y Subsecretarios o equivalentes jerárquicos de la Secretaría en los términos del primer párrafo del artículo 146 de la Constitución Política del Estado, así como formular las denuncias o querellas ante el Ministerio Público competente sobre los hechos delictuosos en que la Secretaría resulte ofendida o en aquellos en que tenga conocimiento o interés;
-
-VIII.- Tramitar el recurso administrativo de revocación establecido en el Código Fiscal del Estado, que interpongan los contribuyentes en contra de los actos o resoluciones emitidos por la Secretaría o sus unidades administrativas;
-
-IX.- Participar con la Coordinación Ejecutiva de Verificación al Comercio Exterior en los grupos de trabajos que se creen para lograr la adecuada interpretación y aplicación de la legislación aduanera y proponer medidas para el mejoramiento de la colaboración administrativa en materia de comercio exterior;
-
-X.- Intervenir, por instrucciones del Procurador Fiscal, en las investigaciones o procedimientos ante la Comisión Estatal de Derechos Humanos, y ante otras autoridades competentes, en que sea parte la Secretaría o sus unidades administrativas, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tiene interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento de la Unidad de Seguimiento y Supervisión Operativa de la Secretaría, los hechos respectivos;
-
-XI.- Realizar el seguimiento de todas y cada una de las controversias en materia de derechos humanos promovidos en contra de la Secretaría o sus unidades administrativas, así como colaborar con la Secretaría de la Contraloría General en los asuntos que así se considere;
-
-XII.- Tramitar las declaratorias de prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales estatales, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios de carácter estatal;
-
-XIII.- Vigilar la debida constitución de la garantía del interés fiscal en los procedimientos y juicios de la materia de su competencia;
-
-XIV.- Certificar hechos y expedir certificaciones de las constancias de los expedientes relativos a asuntos de su competencia; y
-
-XV.- Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+ARTÍCULO 37 BIS.- (DEROGADO, B.O. 4 DE AGOSTO DE 2008)
 
 ###### ARTÍCULO 38.
 
@@ -1787,39 +1879,49 @@ XVI. Las demás que le señale el superior jerárquico o le confieran otras disp
 
 La Dirección de lo Contencioso y Recursos de Revocación estará adscrita a la Procuraduría Fiscal y le corresponden las siguientes atribuciones:
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-I.- Representar a la Secretaría y a sus unidades administrativas ante los tribunales judiciales y administrativos federales y estatales, como delegado en las audiencias con facultades para rendir pruebas y producir alegatos en los juicios contenciosos, a excepción de aquellos que deriven de ingresos estatales;
+I. Representar a la Secretaría y a sus unidades administrativas ante los tribunales judiciales y administrativos federales y estatales, como delegado en las audiencias con facultades para rendir pruebas y producir alegatos en los juicios contenciosos;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-II.- Elaborar los documentos mediante los cuales el Procurador Fiscal ejercite las acciones, excepciones y defensas de que sean titulares la Secretaría y sus unidades administrativas, en los asuntos materia de su competencia;
+II. Elaborar los documentos mediante los cuales el Procurador Fiscal ejercite las acciones, excepciones y defensas de que sean titulares la Secretaría y sus unidades administrativas;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-III.- Formular los informes previos y justificados en los juicios de amparo y contestaciones de demandas en los juicios de amparo, nulidad, civiles y mercantiles cuando la Secretaría o sus unidades administrativas sean requeridas o llamadas a juicio, a excepción de aquéllos que deriven de ingresos estatales;
+III. Formular los informes previos y justificados en los juicios de amparo y contestaciones de demandas en los juicios de amparo, nulidad, civiles, penales y mercantiles cuando la Secretaría o sus unidades administrativas sean requeridas o llamadas a juicio;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-IV.- Someter a consideración del Procurador Fiscal la no formulación de alegatos en los asuntos de su competencia;
+IV. Realizar el seguimiento de todas y cada una de las controversias en materia de derechos humanos promovidas en contra de la Secretaría o sus unidades administrativas, así como colaborar con la Secretaría de la Contraloría General en los asuntos que así se considere;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-V.- Participar con la Dirección General de Coordinación Hacendaria en los grupos de trabajos que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y proponer medidas para el mejoramiento de la colaboración administrativa en materia de ingresos coordinados;
+V. Formular las denuncias o querellas ante el Ministerio Público por la presunta comisión de delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, así como elaborar los informes dirigidos a la Secretaría de la Contraloría General sobre los hechos que pudieran constituir responsabilidades administrativas, allegándose los elementos probatorios del caso, excepto del Secretario y Subsecretarios o equivalentes jerárquicos de la Secretaría en los términos del primer párrafo del artículo 146 de la Constitución Política del Estado, así como formular las denuncias o querellas ante el Ministerio Público competente sobre los hechos delictuosos en que la Secretaría resulte ofendida o en aquellos en que tenga conocimiento o interés;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-VI.- Realizar los trámites para el debido cumplimiento de las ejecutorias de amparo en las materias de su competencia;
+VI. Someter a consideración del Procurador Fiscal la no formulación de alegatos en los asuntos de su competencia, así como realizar los trámites para el debido cumplimiento de las ejecutorias de amparo;
 
 VII. Elaborar las resoluciones de los recursos administrativos establecidos en el Código Fiscal de la Federación, en relación con actos o resoluciones de la Secretaría o de sus unidades administrativas, emitidos en el ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal y demás ordenamientos aplicables;
 
 VIII. Formular los requerimientos para hacer efectivas las fianzas a favor de la Secretaría otorgadas en los términos de las disposiciones fiscales estatales o conforme a leyes distintas de las fiscales, así como llevar el seguimiento de los procedimientos contenciosos correspondientes;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-IX.- Tramitar las declaratorias de prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales federales, para determinar las contribuciones omitidas y sus accesorios y para imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios de carácter federales; y
+IX. Tramitar el recurso administrativo de revocación establecido en el Código Fiscal del Estado, que se interponga en contra de los actos o resoluciones emitidos por la Secretaría o sus unidades administrativas;
 
-X. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+X. Tramitar las declaratorias de prescripción de los créditos fiscales y extinción de facultades de la autoridad fiscal para comprobar el cumplimiento de las disposiciones fiscales aplicables, para determinar las contribuciones omitidas y sus accesorios y para imponer multas, en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios, solicitadas por los contribuyentes;
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XI. Participar con la Dirección General de Coordinación Hacendaría en los grupos de trabajos que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal y proponer medidas para el mejoramiento de la colaboración administrativa en materia de ingresos coordinados; y
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+XII. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 40.
 
@@ -1909,23 +2011,33 @@ I. Agencia Fiscal de Agua Prieta, con sede en Agua Prieta, cuya circunscripción
 
 II. Agencia Fiscal de Caborca, con sede en Caborca, cuya circunscripción territorial comprenderá el Municipio de Caborca, Sonora;
 
-III. Agencia Fiscal de Cd. Obregón, con sede en Cd. Obregón, cuya circunscripción territorial comprenderá el Municipio de Cajeme, Sonora y el poblado de Vícam del Municipio de Guaymas;
+III. Agencia Fiscal de Cd. Obregón, con sede en Cd. Obregón, cuya circunscripción territorial comprenderá el Municipio de Cajeme, Sonora y el poblado de Vícam del Municipio de Guaymas.
 
-Dependen de esta Agencia Fiscal las Subagencias Fiscales de Esperanza y Pueblo Yaqui, ubicadas en el Municipio de Cajeme y la de Vícam, ubicada en el Municipio de Guaymas, cuyas circunscripciones territoriales comprenderán sus respectivas Comisarías;
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Dependen de esta Agencia Fiscal, la Subagencia Fiscal California, ubicada en Cd. Obregón, cuya circunscripción territorial comprenderá el Municipio de Cajeme, en concurrencia con dicha Agencia Fiscal y las Subagencias Fiscales de Esperanza y Pueblo Yaqui, ubicadas en el Municipio de Cajeme y la de Vicam, ubicada en el Municipio de Guaymas, cuyas circunscripciones territoriales comprenderán sus respectivas Comisarías;
 
 IV. Agencia Fiscal de Cananea, con sede en Cananea, cuya circunscripción territorial comprenderá el Municipio de Cananea, Sonora;
 
-V. Agencia Fiscal de Guaymas, con sede en Guaymas, cuya circunscripción territorial comprenderá el Municipio de Guaymas, Sonora, excepto el poblado de Vícam;
+V. Agencia Fiscal de Guaymas, con sede en Guaymas, cuya circunscripción territorial comprenderá el Municipio de Guaymas, Sonora, excepto el poblado de Vícam.
 
-VI. Agencia Fiscal de Hermosillo, con sede en Hermosillo, cuya circunscripción territorial comprenderá el Municipio de Hermosillo, Sonora;
+> <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Depende de esta Agencia Fiscal la Subagencia Fiscal de Empalme, cuya circunscripción territorial comprenderá el Municipio de Empalme;
+
+VI. Agencia Fiscal de Hermosillo, con sede en Hermosillo, cuya circunscripción territorial comprenderá el Municipio de Hermosillo, Sonora.
 
 > <small>(REFORMADO, B.O. 13 DE JULIO DE 2006)</small>
 
-Depende de esta Agencia Fiscal la Subagencia Fiscal del Centro de Usos Múltiples, la Subagencia Fiscal Veracruz y la Subagencia Fiscal Parque Industrial, ubicadas en Hermosillo, cuya circunscripción territorial comprenderá el citado Municipio, en concurrencia con dicha Agencia Fiscal.
+Depende de esta Agencia Fiscal la Subagencia Fiscal del Centro de Usos Múltiples, la Subagencia Fiscal Veracruz y la Subagencia Fiscal Parque Industrial, ubicadas en Hermosillo, cuya circunscripción territorial comprenderá el citado Municipio, en concurrencia con dicha Agencia Fiscal;
 
 VII. Agencia Fiscal de Huatabampo, con sede en Huatabampo, cuya circunscripción territorial comprenderá el Municipio de Huatabampo, Sonora;
 
-VIII. Agencia Fiscal de Magdalena, con sede en Magdalena de Kino, cuya circunscripción territorial comprenderá el Municipio de Magdalena, Sonora;
+VIII. Agencia Fiscal de Magdalena, con sede en Magdalena de Kino, cuya circunscripción territorial comprenderá el Municipio de Magdalena, Sonora.
+
+> <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Depende de esta Agencia Fiscal la Subagencia Fiscal de Santa Ana, cuya circunscripción territorial comprenderá el Municipio de Santa Ana;
 
 IX. Agencia Fiscal de Nacozari, con sede en Nacozari, cuya circunscripción territorial comprenderá el Municipio de Nacozari de Garcia, Sonora;
 
@@ -1933,17 +2045,29 @@ X. Agencia Fiscal de Navojoa, con sede en Navojoa, cuya circunscripción territo
 
 Dependen de esta Agencia Fiscal, las Subagencias Fiscales de Fundición y Masiaca, ubicadas en el Municipio de Navojoa, cuyas circunscripciones territoriales comprenderán sus respectivas Comisarías;
 
-XI. Agencia Fiscal de Nogales, con sede en Nogales, cuya circunscripción territorial comprenderá el Municipio de Nogales, Sonora;
+XI. Agencia Fiscal de Nogales, con sede en Nogales, cuya circunscripción territorial comprenderá el Municipio de Nogales, Sonora.
+
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Depende de esta Agencia Fiscal la Subagencia Fiscal Puerta del Sur, cuya circunscripción territorial comprenderá el Municipio de Nogales, en concurrencia con dicha Agencia Fiscal;
 
 XII. Agencia Fiscal de Puerto Peñasco, con sede en Puerto Peñasco, cuya circunscripción territorial comprenderá el Municipio de Puerto Peñasco, Sonora;
 
-XIII. Agencia Fiscal de San Luis Río Colorado, con sede en San Luis Río Colorado, cuya circunscripción territorial comprenderá el Municipio de San Luis Río Colorado, Sonora;
+XIII. Agencia Fiscal de San Luis Río Colorado, con sede en San Luis Río Colorado, cuya circunscripción territorial comprenderá el Municipio de San Luis Río Colorado, Sonora.
 
 Dependen de esta Agencia Fiscal las Subagencias Fiscales de Golfo de Santa Clara y Luis B. Sánchez, ubicadas en el Municipio de San Luis Río Colorado, cuyas circunscripciones territoriales comprenderán sus respectivas Comisarías; y
 
-XIV Las Oficinas Administrativas de Notificación y Cobranza tendrán su sede y ejercerán sus facultades en las mismas poblaciones y municipios, respectivamente, que se establecen para las Agencias Fiscales;
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-Las Oficinas Administrativas de Notificación y Cobranza podrán contar con oficinas auxiliares, que en todo caso se establecerán y ejercerán su competencia, en las Comisarías que cuenten con Subagencia Fiscal.
+XlV.- Agencia Fiscal de Moctezuma, con sede en Moctezuma, cuya circunscripción territorial comprenderá el Municipio de Moctezuma, Sonora.
+
+> <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Las oficinas Administrativas de Notificación y Cobranza tendrán su sede y ejercerán sus facultades en las mismas poblaciones y municipios, respectivamente, que se establecen para las Agencias Fiscales.
+
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+
+Las Oficinas Administrativas de Notificación y Cobranza podrán contar con oficinas auxiliares, que en todo caso se establecerán y ejercerán su competencia, en las Comisarias que cuenten con Subagencia Fiscal.
 
 ###### ARTÍCULO 46.
 
@@ -2071,11 +2195,7 @@ Dado en la residencia del Poder Ejecutivo del Estado en la ciudad de Hermosillo,
 
 EL C. GOBERNADOR DEL ESTADO DE SONORA, EDUARDO BOURS CASTELO. RUBRICA. El SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARÁN. RUBRICA.
 
-> <small>(REFORMADO, B. O. 13 DE JULIO DE 2006)</small>
-
-ORGANIGRAMA ESTRUCTURAL DE LA SECRETARÍA DE HACIENDA
-
-> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DEL 13 DE JULIO DE 2006, PAGINA 8.</small>
+> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DEL 18 DE AGOSTO DE 2005, PAGINA 68.</small>
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -2084,3 +2204,9 @@ B. O. 13 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B. O. 4 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
