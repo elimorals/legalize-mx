@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2007-08-27"
+last_updated: "2008-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,23 +23,33 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 107 POR LA SEXAGESIMA LEGISLATURA DEL ESTADO, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL PRESENTE ORDENAMIENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DEL 4 DE AGOSTO DE 2008.</small>
+
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO ÚNICO
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-###### Artículo 1º.
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 1°.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios, que tiene como objetivo la promoción de la asistencia social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas, así como la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
 El presente Reglamento tiene por objeto regular jurídicamente la organización y funcionamiento del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, mediante la creación de direcciones de área, programas de atención y la determinación de sus estructuras y atribuciones.
 
-###### Artículo 2º.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-Para los efectos del presente se entenderá por:
+Artículo 2°,- Para los efectos del presente se entenderá por:
 
 I.- DIF Estatal: al Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
 
@@ -49,29 +59,39 @@ III.- Patronato: al Patronato del DIF Estatal;
 
 IV.- Director General: al Director General del DIF Estatal;
 
-V.- Direcciones y Directores de área: a las Direcciones adscritas al DIF Estatal y a los titulares de las mismas, respectivamente;
+V.- Direcciones y Directores de Área: a las Direcciones adscritas al DIF Estatal y a los titulares de las mismas, respectivamente;
 
-VI.- Coordinaciones y Coordinadores de área: a las Coordinaciones adscritas al DIF Estatal y a los titulares de las mismas, respectivamente; y
+VI.- Coordinaciones y Coordinadores de área: a las Coordinaciones adscritas al DIF Estatal y a los titulares de las mismas, respectivamente;
 
-VII.- Procuraduría y Procurador: a la Procuraduría para la Defensa del Menor y la Familia y al titular de la misma.
+VII.- Procuraduría y Procurador: a la Procuraduría para la Defensa del Menor y la Familia y al titular de la misma; y
 
-###### Artículo 3º.
+VIII.- CRIS: Centro de Rehabilitación e Integración Social.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 3°.
 
 El Consejo Directivo del DIF Estatal tendrá facultades para aprobar los programas y demás disposiciones legales y administrativas de observancia general dentro de su propio ámbito de competencia, que organice la administración y asegure la participación ciudadana.
 
-###### Artículo 4º.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 4°.
 
 El despacho, funcionamiento, dirección y ejecución de las políticas y programas institucionales de los asuntos que competen al DIF Estatal recaerá en el Director General quien las ejercerá de conformidad a las disposiciones legales vigentes aplicables.
 
 Además se auxiliará directamente de las respectivas Direcciones de Área y unidades de apoyo necesarias, que le estarán jerárquicamente subordinadas, para administrar programas especiales y de asesoría que requiera.
 
-###### Artículo 5º.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 5°.
 
 El Director General podrá celebrar convenios, contratos y actos jurídicos para la prestación de servicios o la realización de cualquier otro propósito de beneficio colectivo en términos de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar y de las leyes relativas vigentes.
 
 Por acuerdo expreso, podrá delegar en los titulares de las direcciones de área el ejercicio de las atribuciones o facultades que la ley le otorgue, salvo que éstas sean indelegables, cuando el acuerdo en que habrá de delegarse las facultades, sea de carácter general, deberá publicarse en el Periódico Oficial del Estado.
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 6°.
 
 Son facultades indelegables del Director General:
 
@@ -81,51 +101,71 @@ II.- Coordinar el desempeño de las condiciones y funciones específicas que le 
 
 III.- Las demás que con ese carácter, le otorguen otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 7º.
 
 Los titulares de las Direcciones de Área y Coordinadores serán designados por el Consejo Directivo a propuesta del Director General.
 
 El Procurador será designado por el Consejo Directivo a propuesta del Presidente del mismo.
 
-###### Articulo 8º.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 8°.
 
 El Director General designará las Direcciones de Área que deberán coordinarse con las dependencias y entidades Federales, Estatales y Municipales, de acuerdo a la competencia que este Reglamento les otorgue.
 
-###### Artículo 9º.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-Para ser titular de las Direcciones de Área a que se refiere este Reglamento se requiere:
+###### Artículo 9°.
+
+Para ser titular de las Direcciones de Área a que se refiere este Reglamento, se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos políticos;
 
 II.- Ser mayor de veinticinco años;
 
-III.- Contar con Título y Cédula Profesional legalmente expedido de nivel superior o en su caso, con el apostillamiento de título expedido en el extranjero; y
+III.- Haber desempeñado cargos de nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa y de acuerdo a las especificaciones de la función a desempeñar; contar con Título y Cédula profesional legalmente expedidos de nivel superior o en su caso, con el apostillamiento de título expedido en el extranjero; y
 
-IV.- Contar con tres o más años de experiencia en el ejercicio de su profesión, computándose este plazo a partir de la fecha de expedición de la Cédula Profesional.
+IV.- Contar con tres o más años de experiencia en el ejercicio de su profesión, computándose este plazo a partir de la fecha en que se hubiesen desempeñado los cargos de nivel decisorio o de la expedición de la cédula profesional en el caso de que ésta sea requerida para el desempeño de la función según las especificaciones del puesto.
 
-El Director General y el Procurador deberán cumplir además los requisitos que para ocupar dicho cargo establece la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar.
+El Director General y el Procurador deberán cumplir además los requisitos que para ocupar dicho cargo establece la Ley del Sistema, Estatal de Asistencia Social y de Integración Familiar.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 10.
 
 Los titulares de las direcciones de área no podrán desempeñar ningún otro puesto, empleo, cargo o comisión públicos, salvo los relacionados con la docencia, siempre y cuando no se encuentren dentro del horario de trabajo oficial del DIF Estatal.
 
-## TITULO SEGUNDO. ESTRUCTURA ORGÁNICA DEL DIF ESTATAL Y SUS ATRIBUCIONES
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+## TITULO SEGUNDO. ESTRUCTURA ORGANICA DEL DIF ESTATAL Y SUS ATRIBUCIONES
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO I. De la Estructura Orgánica
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 11.
 
-El DIF Estatal contará con un Órgano de Gobierno que se denominará Consejo Directivo, el cual estará integrado de la manera señalada en el artículo 23 de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar.
+El DIF Estatal contará con un Organo de Gobierno que se denominará Consejo Directivo el cual estará integrado de la manera señalada en el Artículo 23 de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 12.
 
 El DIF Estatal tendrá un Patronato, que fungirá como un órgano para coadyuvar en la promoción y apoyo del propio organismo, presidido por la persona que se designe el Gobernador del Estado de entre sus integrantes, de igual forma el Titular del Ejecutivo designará a quien debe desempeñar el cargo de Secretario.
 
-El Patronato estará integrado por diez miembros, que serán designados y removidos libremente por el Gobernador Constitucional del Estado y sus cargos serán honoríficos, cada miembro propietario podrá designar un suplente que lo represente en las sesiones a las cuales no pueda asistir.
+El Patronato estará integrado por diez miembros que serán designados y removidos libremente por el Gobernador Constitucional del Estado y sus cargos serán honoríficos, cada miembro propietario podrá designar un suplente que lo represente en las sesiones a las cuales no pueda asistir.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 13.
 
 El DIF Estatal tendrá un Comisario Público Propietario y un Suplente, encargados del control y vigilancia de dicho organismo, designados por la Contraloría General del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 14.
 
@@ -137,33 +177,47 @@ II.- Dirección de Administración y Finanzas;
 
 III.- Dirección de Desarrollo Familiar;
 
-IV.- Dirección de Desarrollo Comunitario;
+IV.- Dirección de Programas Institucionales y Desarrollo Comunitario;
 
-V.- Dirección de Planeación, Información y Desarrollo;
+V.- Dirección de Planeación, Información y Estadística;
 
 VI.- Dirección de Servicios Médicos;
 
-VII.- Coordinación de Gestión Social, Giras y Eventos Especiales;
+VII.- Dirección de Atención y Desarrollo a Personas Adultas Mayores;
 
-VIII.- Coordinación General del Voluntariado, y
+VIII:- Coordinación de Giras y Eventos;
 
-IX.- Coordinación de Comunicación Social.
+IX.- Coordinación General del Voluntariado; y
+
+X.- Coordinación de Comunicación Social.
+
+La Dirección General adicionalmente se auxiliará directamente de las siguientes unidades de apoyo: Secretaría Particular, Coordinación de Relaciones Públicas y Enlace con el Sector Empresarial. Asimismo contará con las unidades administrativas necesarias para administrar programas especiales y de asesoría que requiera.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 15.
 
-Las Direcciones de Área y Coordinaciones para el cumplimiento de sus funciones contarán con los Departamentos y Unidades señaladas en el artículo 39 del presente ordenamiento jurídico.
+Las Direcciones de Área y Coordinaciones para el cumplimiento de sus funciones contarán con los Departamentos y Unidades señaladas en el Artículo 39 del presente ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. Del Consejo Directivo
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 16.
 
-El Consejo Directivo sesionará ordinariamente cuando sea convocado con ese carácter por su Presidente o el Director General.
+El Consejo Directivo sesionará ordinariamente cuando sea convocado con ese carácter por su Presidente o el Director General, de conformidad a lo señalado en el Artículo 25 de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar.
 
 Asimismo, podrán realizarse las sesiones extraordinarias que se requieran a citación de su Presidente, de la mayoría de sus miembros o del Director General del DIF Estatal.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 17.
 
-El Consejo tendrá un Presidente, cinco o seis Vocales, según sea el caso, y un Secretario Técnico.
+El Consejo tendrá un Presidente, seis Vocales y un Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 18.
 
@@ -171,53 +225,65 @@ Para la aprobación de los asuntos, se requiere contar por lo menos con la mayor
 
 En caso de empate el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 19.
 
-El Consejo Directivo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Publica Estatal.
+El Consejo Directivo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
 
-En caso de no haber el quórum legal, se citará nuevamente en un término de diez días naturales, para su celebración, llevándose a cabo con el número de miembros que se encuentren presentes.
+En caso de no haber el quórum legal, se citará nuevamente en un término de ocho días naturales, para su celebración, llevándose a cabo con el número de miembros que se encuentren presentes.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 20.
 
 Cada sesión se numerará progresivamente, así como los acuerdos que se tomen en la misma.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO III. De la Instalación del Consejo Directivo y Apertura de Sesiones
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 21.
 
-La sesión ordinaria de apertura de cada nueva administración, a cuyo acto se invitará a que concurran los titulares de los Poderes Ejecutivo, Legislativo y Judicial, una vez pasada la lista de asistencia y comprobado el quórum legal de los miembros del Consejo, se llevará acabo bajo el siguiente orden:
+La sesión ordinaria de apertura de cada nueva administración, a cuyo acto se invitará a que concurran los titulares de los Poderes Ejecutivo, Legislativo y Judicial, una vez pasada la lista de asistencia y comprobado el quórum legal de los miembros del Consejo, se llevará a cabo bajo el siguiente orden:
 
-I. El Director General designará a las Comisiones de cortesía que acompañarán a los titulares de los tres Poderes del Estado al ingresar y abandonar el recinto donde haya de celebrarse;
+I.- El encargado del despacho de la Dirección General designará a las Comisiones de cortesía que acompañarán a los titulares de los tres Poderes del Estado al ingresar y abandonar el recinto donde haya de celebrarse;
 
 II.- Verificando el quórum de ley, el Gobernador del Estado tomará protesta a los miembros del Consejo en los términos siguientes:
 
-"CIUDADANOS .................................. ¿PROTESTAN SIN RESERVA ALGUNA, CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO DE AGUASCALIENTES, LAS LEYES QUE DE AMBAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO COMO MIEMBRO DEL ORGANO DE GOBIERNO QUE SE LE HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO?"
+"CIUDADANOS …………………¿PROTESTAN SIN RESERVA ALGUNA, CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO DE AGUASCALIENTES, LAS LEYES QUE DE AMBAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO COMO MIEMBRO DEL ORGANO DE GOBIERNO QUE SE LE HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO?"
 
-"SÍ, PROTESTO"; CONTESTARÁN LOS MIEMBROS DEL CONSEJO DIRECTIVO.
+"SI, PROTESTO";- CONTESTARÁN LOS MIEMBROS DEL CONSEJO DIRECTIVO.
 
-DIRA ENTONCES EL SEÑOR GOBERNADOR:
-
-"SI ASÍ NO LO HICIEREN, QUE EL ESTADO SE LOS DEMANDE".
+DIRA ENTONCES EL SEÑOR GOBERNADOR: "SI ASI NO LO HICIEREN, QUE EL ESTADO SE LOS DEMANDE".
 
 III.- Realizado lo anterior, el Gobernador del Estado invitará a los miembros del Consejo Directivo a tomar sus respectivos asientos;
 
 IV.- Acto seguido, el Gobernador del Estado dispondrá la lectura sobre la legitimidad con que se ostentan los miembros del Consejo, de acuerdo a lo señalado en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar;
 
-V.- Continuará con el uso de la palabra el Gobernador Constitucional del Estado para dirigir un mensaje de apertura y designar al Presidente del Consejo Directivo, según lo dispuesto en el artículo 23 de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar;
+V.- Continuará con el uso de la palabra el Gobernador Constitucional del Estado para dirigir un mensaje de apertura y designar al Presidente del Consejo Directivo, según lo dispuesto en el Artículo 23 de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar;
 
 VI.- El Presidente del Consejo Directivo hará uso de la palabra para dirigir a su vez un mensaje a los miembros de dicho Consejo y declarar formalmente instalado el mismo;
 
 VII.- Hará uso de la palabra el Director General para dirigir un mensaje como titular del DIF Estatal;
 
-VIII.- El Presidente, previa cita a la primera sesión ordinaria, darán por clausurados los trabajos, levantándose el acta correspondiente.
+VIII.- El Presidente, previa cita a la primera sesión ordinaria, dará por clausurados los trabajos, levantándose el acta correspondiente.
 
 IX.- La Comisión de Cortesía, previamente designada, acompañará a los Titulares de los tres Poderes del Estado a abandonar el recinto oficial.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 22.
 
 Los actos de instalación del Consejo Directivo serán consignados en acta que se publicará en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO IV. Del Presidente del Consejo Directivo
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 23.
 
@@ -245,17 +311,25 @@ X.- Comunicar al Director General del DIF Estatal, las instrucciones, observacio
 
 XI.- Citar a los miembros del Consejo Directivo cuando lo estime necesario;
 
-XII.- Citar al Director General del DIF Estatal a las sesiones ordinarias y extraordinarias, para su conocimiento o participación;
+XII.- Citar al Director General del DIF estatal a las sesiones ordinarias y extraordinarias, para su conocimiento o participación;
 
 XIII.- Aplicar a los miembros del Consejo las sanciones que correspondan con fundamento en la Ley; y
 
 XIV.- Las demás que le otorgue la Ley y ordenamientos relativos a su función.
 
-### CAPITULO V. Del Secretario Técnico del Consejo Directivo
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+### CAPITULO V
+
+Del Secretario Técnico del Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 24.
 
 El nombramiento de Secretario Técnico, deberá recaer en la persona que el Director General proponga al Consejo Directivo, el cual deberá ser de entre los empleados del DIF Estatal o de los miembros del propio Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 25.
 
@@ -263,7 +337,7 @@ El Secretario Técnico del Consejo Directivo tendrá las siguientes atribuciones
 
 I.- Asistir al Presidente del Consejo Directivo en las sesiones;
 
-II.- Comprobar el quórum legal en las sesiones, llevar acabo el cómputo y registro de las votaciones y dar a conocer el resultado de éstas;
+II.- Comprobar el quórum legal en las sesiones, llevar a cabo el cómputo y registro de las votaciones y dar a conocer el resultado de éstas;
 
 III.- Dar cuenta por instrucciones del Presidente del Consejo Directivo, de todos los asuntos que se deban presentar en la sesión, siguiendo el orden del día, conforme en lo establecido en este instrumento jurídico;
 
@@ -271,7 +345,7 @@ IV.- Dar lectura a los documentos incluidos en el orden del día;
 
 V.- Supervisar de que se impriman y distribuyan oportunamente entre los miembros del Consejo Directivo las iniciativas y propuestas;
 
-VI.- Elaborar el acta de las sesiones y ponerla a consideración del Presidente del Consejo;
+VI.- Elaborar el acta de las sesiones y ponerla a consideración del Presidente, del Consejo;
 
 VII.- Llevar el registro de las actas en el libro correspondiente;
 
@@ -279,7 +353,11 @@ VIII.- Conformar y mantener actualizado los expedientes de los asuntos de la com
 
 IX.- Las demás que deriven de la Ley y del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO VI. Del Presidente del Patronato y del Voluntariado Estatales
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 26.
 
@@ -297,11 +375,15 @@ V.- Conocer, autorizar y apoyar las actividades de las diferentes Unidades de Pr
 
 VI.- Atender a las giras de presentación del Voluntariado en comunidades y eventos;
 
-VII.- Realizar visitas aleatorias a los diferentes Asilos de ancianos y casas hogar; y
+VII.- .Realizar visitas aleatorias a los diferentes Asilos de ancianos y casas hogar; y
 
 VIII.- Firmar toda correspondencia destinada a solicitar donativos del sector público y privado.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO VII. De las Atribuciones del Comisario Público
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 27.
 
@@ -313,7 +395,11 @@ II.- Realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos
 
 III.- Solicitar la información que requiera para el cumplimiento de sus funciones, sin perjuicio de las tareas del DIF Estatal.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO VIII. De las Atribuciones del Director General
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 28.
 
@@ -341,21 +427,27 @@ X.- Elaborar y proponer al Consejo Directivo el Manual de Organización y el Man
 
 XI.- Aprobar la creación de nuevos programas de atención con la validación del Consejo Directivo;
 
-XII.- Emitir opinión ante otras dependencias a nivel Federal, Estatal o municipal, sobre la expedición de permisos, licencias o autorizaciones que soliciten personas físicas o morales, cuya actividad u objeto sea la asistencia social;
+XII.- Emitir opinión ante otras dependencias a nivel Federal, Estatal o Municipal, sobre la expedición de permisos, licencias o autorizaciones que soliciten personas físicas o morales, cuya actividad u objeto sea la asistencia social;
 
 XIII.- Emitir opinión sobre el otorgamiento de donativos a instituciones públicas o privadas que actúen en el campo de la asistencia social;
 
 XIV.- Proporcionar al Comisario Público la información que le sea solicitada;
 
-XV.-Designar o revocar los nombres y firmas de los funcionarios autorizados para el manejo de las cuentas bancarias del DIF Estatal; y
+XV.- Designar o revocar los nombres y firmas de los funcionarios autorizados para el manejo de las cuentas bancarias del DIF Estatal;
 
-XVI.- Las demás disposiciones establecidas en el presente ordenamiento jurídico y leyes aplicables.
+XVI.- Conformar las unidades de apoyo directo que considere necesarias para el desempeño de sus atribuciones y el ejercicio de sus facultades.
+
+XVII.- Las demás disposiciones establecidas en el presente ordenamiento jurídico y leyes aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO IX. De las Atribuciones del Procurador, de los Directores de Área y Coordinadores
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 29.
 
-Al Procurador le corresponde, además de las atribuciones que expresamente le confieren la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar, los siguientes:
+Al Procurador le corresponde, además de las atribuciones que expresamente le confieren la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar y la Ley de Protección de la Niñez y de la Adolescencia del Estado de Aguascalientes, los siguientes:
 
 I.- Tramitar, patrocinar y resolver cuando proceda, los asuntos de su competencia en materia de derecho familiar, sucesiones y jurisdicciones voluntarias;
 
@@ -365,11 +457,15 @@ III.- Promover en el ámbito de su competencia la reforma necesaria para mejor p
 
 IV.- Dar opinión de los convenios, acuerdos o propuestas que se pretendan celebrar en el ámbito de su competencia;
 
-V.- Elaborar los proyectos de Reglamentos de Casa DIF y para la adopción de menores, así como las propuestas de modificación a los mismos y presentarlos a la Dirección de Planeación para el trámite correspondiente;
+V.- Elaborar los proyectos de Reglamentos del Organismo, así como las propuestas de modificación a los mismos;
 
 VI.- Representar al DIF Estatal en los juicios que intervenga y que deriven de la promoción o competencia de la propia Procuraduría;
 
-VII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+VII.- Ser el asesor jurídico del organismo y representarlo legalmente en todas aquellas instancias que sean necesarias mediante el aval o ratificación del Director General; y
+
+VIII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 30.
 
@@ -397,13 +493,13 @@ X.- Elaborar las requisiciones de compra de material y/o equipo necesarios y, en
 
 XI.- Informar al personal del DIF Estatal lo referente a los cursos de capacitación, proporcionados por la Dirección de Capacitación de la Subsecretaría de Administración y designar al personal que asistirá a dichos cursos, en común acuerdo con el encargado del área, así como la organización de los mismos;
 
-XII.- Informar a la Dirección General de Recursos Humanos de la Subsecretaría de Administración los reportes e incidencias de personal del organismo;
+XII.- Informar a la Dirección General de Recursos Humanos de la Subsecretaria de Administración los reportes e incidencias de personal del organismo;
 
 XIII.- Supervisar el manejo del fondo revolvente y autorizar las compras menores del organismo;
 
 XIV.- Fortalecer el esquema de organización y funcionamiento de la Institución para que ésta desarrolle su actividad con coherencia, se eviten desperdicios y se incremente la eficiencia de los resultados;
 
-XV.- Coordinar y practicar a las áreas del DIF Estatal, auditorias y revisiones para verificar el cumplimiento de las disposiciones legales y fiscales, la preparación de información operativa, financiera y contable, la eficiencia de los recursos y el cumplimiento de metas y programas y, recomendar las acciones correctivas que procedan;
+XV.- Coordinar y practicar a las áreas del DIF Estatal, auditorías y revisiones para verificar el cumplimiento de las disposiciones legales y fiscales, la preparación de información operativa, financiera y contable, la eficiencia de los recursos y el cumplimiento de metas y programas y recomendar las acciones correctivas que procedan;
 
 XVI.- Observar y adoptar para su operación las normas generales que establece la Contraloría General del Estado;
 
@@ -413,7 +509,7 @@ XVIII.- Realizar las demás actividades inherentes al puesto necesarias para el 
 
 XIX.- Entregar la Cuenta Pública del DIF Estatal y solventar la glosa que formule la Contaduría Mayor de Hacienda del Congreso del Estado;
 
-XX.- Determinar con acuerdo del Director General, las instituciones bancarias en que operarán las cuentas del “DIF Estatal”, y proporcionar los nombres, previo estudio de conveniencia;
+XX.- Determinar con acuerdo del Director General, las instituciones bancarias en que operarán las cuentas del "DIF Estatal", y proporcionar los nombres, previo estudio de conveniencia;
 
 XXI.- Revisar y aprobar financieramente de acuerdo a los programas y techos financieros asignados a los mismos, todos aquellos actos, contratos, convenios y demás relativos, en los que se comprometan recursos del DIF Estatal, para el debido control presupuestal y administración de éstos;
 
@@ -427,9 +523,13 @@ XXV.- Integrar, coordinar y dirigir el Comité Interno de Licitaciones; y
 
 XXVI.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
 
-Artículo.- 31.- Al Director de Desarrollo Familiar le corresponde:
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-I.- Procurar el bienestar familiar, en una relación de respeto y convivencia mutua;
+###### Artículo 31.
+
+Al Director de Desarrollo Familiar le corresponde:
+
+I.- Procurar el bienestar familiar, en una relación de respeto y convivencia .mutua;
 
 II.- Promover la comunicación constante dentro del núcleo familiar;
 
@@ -439,7 +539,7 @@ IV.- Contribuir a la integración conyugal, a través de la información, formac
 
 V.- Fomentar la paternidad y la maternidad responsables;
 
-VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, drogadicción, adulterio y otros semejantes, que atenten contra la integridad de la familia;
+VI.- Asesorar a los padres dé familia para atender problemas de alcoholismo, drogadicción, adulterio y otros semejantes, que atenten contra la integridad de la familia;
 
 VII.- En general, brindar la atención a todas aquellas cuestiones indispensables para el bienestar de la familia;
 
@@ -455,41 +555,45 @@ XII.- Canalizar a las instituciones respectivas los casos que les correspondan;
 
 XIII.- Elaborar, actualizar y presentar las iniciativas, modificaciones o adicionar la normatividad, lineamientos y demás disposiciones de su competencia, al Director General a través de la Dirección de Planeación para el trámite y su respectiva autorización; y
 
-XIV.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+XIV.- Las señaladas en el Artículo 38 de este ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 32.
 
 Al Director de Desarrollo Comunitario le corresponde:
 
-I.- Promover el bienestar del anciano y el desarrollo de acciones de preparación para la senectud;
+I.- Promover la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
 
-II.- Promover la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
+II.- Impulsar la orientación nutricional y la alimentación complementaria a personas de escasos recursos, y a población de zonas marginadas;
 
-III.- Impulsar la orientación nutricional y la alimentación complementaria a personas de escasos recursos, y a población de zonas marginadas;
+III.- Promover el desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
 
-IV.- Promover el desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
+IV.- Reforzar el desarrollo comunitario en localidades y zonas social y económicamente marginadas;
 
-V.- Reforzar el desarrollo comunitario en localidades y zonas social y económicamente marginadas;
+V.- Informar, cuando lo requiera el Sistema Nacional para el Desarrollo Integral de la Familia, sobre los avances que registran los diversos programas que son propios de la Dirección de Desarrollo Comunitario;
 
-VI.- Informar, cuando lo requiera el Sistema Nacional para el Desarrollo Integral de la Familia, sobre los avances que registran los diversos programas que son propios de la Dirección de Desarrollo Comunitario;
+VI.- Promover la capacitación del personal de los sistemas DIF Municipales, directores de escuela y demás personal necesario en lo referente a la orientación nutricional y alimentación complementaria;
 
-VII.- Promover la capacitación del personal de los sistemas DIF Municipales, directores de escuela y demás personal necesario en lo referente a la orientación nutricional y alimentación complementaria;
+VII.- Coordinar, regular y supervisar la distribución de los apoyos proporcionados por medio de los diferentes programas que son responsabilidad de la Dirección;
 
-VIII.- Coordinar, regular y supervisar la distribución de los apoyos proporcionados por medio de los diferentes programas que son responsabilidad de la Dirección;
+VIII.- Determinar las cuotas de asignación anual de apoyos alimentarios a los sistemas DIF Municipales;
 
-IX.- Determinar las cuotas de asignación anual de apoyos alimentarios a los sistemas DIF Municipales;
+IX.- Elaborar y proponer las actualizaciones del Reglamento Interior de los Centros de Desarrollo de la Comunidad, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
 
-X.- (DEROGADA, P.O. 26 DE FEBRERO DE 2007)
+X.- (DEROGADA, 4 DE AGOSTO DE 2008)
 
-XI.- (DEROGADA, P.O. 26 DE FEBRERO DE 2007)
+XI.- (DEROGADA, P.O. 4 DE AGOSTO DE 2008)
 
-XII.- (DEROGADA, P.O. 26 DE FEBRERO DE 2007)
+XII.- (DEROGADA, 4 DE AGOSTO DE 2008)
 
 XIII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 33.
 
-Al Director de Planeación, Información y Desarrollo le corresponde:
+Al Director de Planeación, Información y Estadística le corresponde:
 
 I.- Integrar mensualmente la información generada por las diferentes áreas que conforman el DIF Estatal;
 
@@ -505,13 +609,13 @@ VI.- Ejecutar registros sistemáticos y cronológicos de los resultados de la ac
 
 VII.- Integrar la información generada por las diferentes áreas que conforman el DIF Estatal, así como de los Comités DIF Municipales, referente a la elaboración de la estructura programática anual que solicita el Sistema Nacional para el Desarrollo Integral de la Familia, y administrar la información entregada al Sistema Nacional de Información a fin de reportar sistemáticamente;
 
-VIII.- Entregar los reportes solicitados por la Secretaría de Planeación del Estado;
+VIII.- Entregar los reportes solicitados por la Secretaria de Planeación del Estado;
 
 IX.- Coordinar la participación de los sistemas municipales del DIF en el desarrollo de los programas asistenciales, orientándolos sobre la normatividad, lineamientos y procedimientos establecidos para eficientar las operaciones de los mismos;
 
-X.- Coordinarse con la Dirección de Administración y Finanzas para la aplicación de un sistema de calidad que propicie una mejora continúa en los servicios prestados a los ciudadanos de parte de todas las áreas del DIF Estatal;
+X.- Coordinarse con la Dirección de Administración y Finanzas para la aplicación de un sistema de calidad que propicie una mejora continua en los servicios prestados a los ciudadanos de parte de todas las áreas del DIF Estatal;
 
-XI.- Coordinarse con la Dirección de Administración y Finanzas para proponer la actualización del Reglamento Interior y los manuales de organización de cada Dirección, revisando la funcionalidad de la estructura orgánica del DIF Estatal, a fin de realizar, en su caso, previa autorización del Director General y del Consejo Directivo, las modificaciones necesarias y la definición de las funciones de los puestos;
+XI.- Coordinarse con la Procuraduría de la Defensa del Menor y la Familia y la Dirección de Administración y Finanzas para proponer la actualización del Reglamento Interior y los manuales de organización de cada Dirección, revisando la funcionalidad de la estructura orgánica del DIF Estatal, a fin de realizar, en su caso, previa autorización del Director General y del Consejo Directivo, las modificaciones necesarias y la definición de las funciones de los puestos;
 
 XII.- Coordinarse con la Dirección de Administración y Finanzas para la elaboración y proponer las actualizaciones de los manuales de procedimientos de los servicios que presta la Institución y someterlos a consideración del Director General para el trámite de aprobación;
 
@@ -519,33 +623,27 @@ XIII.- Coordinarse con cada Dirección de Área para revisar y actualizar las re
 
 XIV.- Realizar las investigaciones que sean requeridas en coordinación con el área involucrada, para la operación y definición de los programas e implementación de nuevos proyectos;
 
-XV.- Vigilar que todas las acciones y actos realizados por el DIF Estatal estén con sujeción a las leyes aplicables;
+XV.- Realizar un trabajo de coordinación, supervisión y vigilancia de las organizaciones de beneficencia privada recopilando la información referente a las mismas para diagnosticar su situación y proponer apoyos subsidiarios, conforme a la Ley de Asistencia Social e Integración Familiar y éste ordenamiento jurídico;
 
-XVI.- Prestar asesoría jurídica al Director General y a las demás áreas del DIF Estatal que lo requieran;
+XVI.- Planear, programar y administrarlas reuniones del Patronato y de los Comités Interinstitucionales, Comités Coordinadores, Comités Técnicos, Fideicomisos, etc., y/o Convenios que el DIF estatal encabeza, en coordinación con los encargados de área involucrados, y vigilar que cada uno tenga su reglamento propio o reglas de operación oficialmente reconocidas y actualizadas conforme a la Ley de Asistencia Social y de Integración Familiar y demás leyes aplicables;
 
-XVII.- Realizar un trabajo de coordinación, supervisión y vigilancia de las organizaciones de beneficencia privada recopilando la información referente a las mismas para diagnosticar su situación y proponer apoyos subsidiarios, conforme a la Ley de Asistencia Social e Integración Familiar y éste ordenamiento jurídico;
+XVII.- Elaborar, en coordinación con la Dirección de Administración, el anteproyecto de presupuesto general anual del DIF Estatal;
 
-XVIII.- Planear, programar y administrar las reuniones del Patronato y de los Comités Interinstitucionales, Comités Coordinadores, Comités Técnicos, Fideicomisos, etc. y/o Convenios que el DIF estatal encabeza, en coordinación con los encargados de área involucrados, y vigilar que cada uno tenga su reglamento propio o reglas de operación oficialmente reconocidas y actualizadas conforme a la Ley de Asistencia Social y de Integración Familiar y demás leyes aplicables;
+XVIII.- Elaborar y proponer las actualizaciones de los Manuales de Organización y Procedimientos de la Dirección, así como los reglamentos o reglas de operación de los programas propios y someterlos a consideración del Director General para el trámite de aprobación;
 
-XIX.- Elaborar, en coordinación con la Dirección de Administración, el anteproyecto de presupuesto general anual del DIF Estatal;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE FEBRERO DE 2007)</small>
+XIX.- Concentrar y auditar el Padrón Único de Beneficiarios del DIF Estatal, reportar anomalías y avances al Director General y Directores de Área, informando a las Instituciones y ciudadanos que lo soliciten;
 
 XX.- Coordinar, regular y supervisar la distribución de los apoyos proporcionados por medio de los diferentes programas que son responsabilidad de la Dirección;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE FEBRERO DE 2007)</small>
-
 XXI.- Integrar los expedientes de los fideicomisarios atendidos por cada uno de los fideicomisos, aprobados en las reuniones de los comités técnicos respectivos;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE FEBRERO DE 2007)</small>
 
 XXII.- Supervisar los estudios socioeconómicos que realiza Trabajo Social del DIF Estatal y dar el visto bueno para el apoyo que se sugiere;
 
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
-
 XXIII.- Realizar los estudios socioeconómicos que requieren de una atención especial; y
 
-XXIV.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+XXIV.- Las señaladas en el Artículo 38 de este ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 34.
 
@@ -565,35 +663,49 @@ VI.- Promover la enseñanza, capacitación y la investigación en el personal de
 
 VII.- Implementar programas preventivos de discapacidad con el propósito de disminuir las incidencias;
 
-VIII.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro de Rehabilitación e Integración Social (CRIS), en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
+VIII.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro de Rehabilitación e Integración Social (CRIS), en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
 
-IX.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro de Atención Integral del Adulto Mayor (CAIAM), en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
+IX.- Las señaladas en el Artículo 38 de este ordenamiento jurídico.
 
-X.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+Artículo 34 bis.- Al Director de Atención y Desarrollo a Personas Adultas Mayores le corresponde:
+
+I.- Promover el bienestar del anciano y el desarrollo de acciones de preparación para la senectud;
+
+II.- Coordinar y apoyar los programas y acciones a favor de la autogestión y bienestar de las personas de la tercera edad; así como coadyuvar con las delegaciones y subdelegaciones del Instituto Nacional de Personas Adultas Mayores a nivel estatal y municipal para la aplicación de programas;
+
+III.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro Gerontológico del DIF Estatal, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y Dirección de Planeación y someterlo a consideración del. Director General para el trámite de aprobación;
+
+IV.- Elaborar y proponer las actualizaciones del Reglamento Interior de la Estancia de Día del DIF Estatal, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
+
+V.- Establecer programas y acciones de Coordinación con el Instituto de Salud del Estado de Aguascalientes para proporcionar los servicios de atención médica especializada que se requieran en apoyo a las personas de la tercera edad conforme a lo establecido en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar; y
+
+VI.- Realizar las acciones señaladas en el Artículo 13 de la Ley de la Senectud del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 35.
 
-Al Coordinador de Gestión Social, Giras y Eventos Especiales le corresponde:
+Al Coordinador de Giras y Eventos le corresponde:
 
-I.- Supervisar los estudios socioeconómicos que realiza Trabajo Social en la Unidad de Atención y Seguimiento a la demanda del DIF Estatal y dar el visto bueno para el apoyo que se sugiere;
+I.- Supervisar el apoyo logístico que demanda el DIF Estatal a través de las diferentes Direcciones;
 
-II.- Realizar los estudios socioeconómicos que requieren de una atención especial;
+II.- Proyectar, Coordinar y realizar las giras de trabajo de la Presidenta del Voluntariado Estatal y Director General del DIF;
 
-III.- Supervisar el apoyo logístico que demanda el DIF Estatal a través de las diferentes Direcciones;
+III.- Organizar las visitas del DIF Estatal a colonias y comunidades;
 
-IV.- Proyectar, coordinar y realizar las giras de trabajo de la Presidenta del Voluntariado Estatal y Director General del DIF;
+IV.- Proyectar, poner a consideración y organizar los diversos eventos especiales que indique el Director General;
 
-V- Organizar las visitas del DIF Estatal a colonias y comunidades;
+V.- Colaborar con otras Direcciones en diferentes programas;
 
-VI.- Proyectar, poner a consideración y organizar los diversos eventos especiales que indique el Director General;
+VI.- Analizar actividades junto con el personal de Giras para acordar los cambios que deban hacerse para el mejoramiento del servicio;
 
-VII.- Colaborar con otras Direcciones en diferentes programas;
+VII.- Proponer las actualizaciones al Reglamento de los Albergues del DIF Estatal, en coordinación con la Procuraduría para la Defensa del Menor y la Familia y la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
 
-VIII.- Analizar actividades junto con los Jefes de las Unidades de Atención y seguimiento a la Demanda y Unidad de Giras para acordar los cambios que deban hacerse para el mejoramiento del servicio;
+VIII.- Las señaladas en el Artículo 38 de éste ordenamiento jurídico.
 
-IX.- Elaborar y proponer las actualizaciones al Reglamento de los Albergues del DIF Estatal, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación, y
-
-X.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 36.
 
@@ -609,7 +721,7 @@ IV.- Organizar cursos de capacitación al Voluntariado;
 
 V.- Coordinar los trabajos de las Damas Voluntarias en la comunidad y demás centros del DIF Estatal;
 
-VI.-Gestión de ingresos de personas necesitadas a los diferentes Asilos de Ancianos del Estado;
+VI.- Gestión de ingresos de personas necesitadas a los diferentes Asilos de Ancianos del Estado;
 
 VII.- Gestión de brigadas médicas y oftalmológicas en Asilos de ancianos;
 
@@ -621,43 +733,49 @@ X.- Coordinar la gira del Presidente del Voluntariado o Presidente Honorario de 
 
 XI.- Organizar la ceremonia de inauguración de la Colecta Anual de Cruz Roja en coordinación con el Gobernador Constitucional del Estado y principales funcionarios de Gobierno del Estado;
 
-XII.- Elaborar y proponer las actualizaciones del Reglamento Interior de las Unidades de Promoción Voluntaria, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
+XII.- Elaborar y proponer las actualizaciones del Reglamento Interior de las Unidades de Promoción Voluntaria, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
 
-XIII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+XIII.- Las señaladas en el Artículo 38 de este ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 37.
 
 El Coordinador de Comunicación Social dependerá directamente del Director General y le corresponde:
 
-I.- Elaborar boletines informativos;
+I.- Definir la política de comunicación y difusión de la institución;
 
-II.- Cubrir todos los eventos a los que asiste el Presidente del Voluntariado Estatal, así como los del Director General, principalmente;
+II.- Elaborar boletines informativos;
 
-III.- Organizar conferencias de prensa, e invitar a los medios de comunicación;
+III.- Cubrir todos los eventos a los que asiste el Presidente del Voluntariado Estatal, así como los del Director General, principalmente;
 
-IV.- Enviar las invitaciones y felicitaciones, a los representantes de los medios de comunicación, de parte del Presidente del Voluntariado;
+IV.- Organizar conferencias de prensa, e invitar a los medios de comunicación;
 
-V.- Estar en contacto permanente con directivos y reporteros de los medios de comunicación;
+V.- Enviar las invitaciones y felicitaciones, a los representantes de los medios de comunicación, de parte del Presidente del voluntariado;
 
-VI.- Estar en contacto permanente con las direcciones de área del DIF Estatal;
+VI.- Estar en contacto permanente con directivos y reporteros de los medios de comunicación;
 
-VII.- Supervisar el material fotográfico y de video que es enviado a los medios masivos de comunicación;
+VII. Estar en contacto permanente con las direcciones de área del DIF Estatal;
 
-VIII.- Supervisar la Síntesis Informativa, misma que incluye monitoreos de radio y televisión;
+VIII.- Supervisar el material fotográfico y de video que es enviado a los medios masivos de comunicación;
 
-IX.- Elaborar los artículos que se publican en la Revista bimensual;
+IX.- Supervisar la Síntesis Informativa, misma que incluye monitoreos de radio y televisión;
 
-X.- Supervisar los diseños de trípticos, diplomas, invitaciones y otros, utilizados para la promoción de programas y/o eventos del DIF Estatal;
+X.- Elaborar los artículos que se publican en la Revista bimensual;
 
-XI.- Concertar donativos para la Revista;
+XI.- Supervisar los diseños de trípticos, diplomas, invitaciones y otros, utilizados para la promoción de programas y/o eventos del DIF Estatal;
 
-XII.- Supervisar el Periódico Mural;
+XII.- Concertar donativos para la Revista;
 
-XIII.- Controlar el techo financiero asignado para la publicidad de los diversos eventos;
+XIII.- Supervisar el Periódico Mural;
 
-XIV.- Definir los criterios básicos de acceso y coordinar la presentación de las diversas áreas a cualquier medio de comunicación; y
+XIV.- Controlar el techo financiero asignado para la publicidad de los diversos eventos;
 
-XV.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+XV.- Definir los criterios básicos de acceso y coordinar la presentación de las diversas áreas a cualquier medio de comunicación; y
+
+XVI.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 38.
 
@@ -701,7 +819,7 @@ XVIII.- Establecer los planes de capacitación y profesionalización técnica de
 
 XIX.- Organizar y asistir a cursos de capacitación para usuarios del DIF Estatal;
 
-XX.- Proponer al Director General, acuerdos y convenios con los sectores público, social y privado, en las materias asistenciales de sus ámbitos de responsabilidad, en coordinación con la Dirección de Planeación;
+XX.- Proponer al Director General, acuerdos y convenios con los sectores público, social y privado, en las materias asistenciales de sus ámbitos de responsabilidad, en coordinación con la Procuraduría de la Defensa del Menor y la Familia;
 
 XXI.- Promover y vigilar que en la atención y resolución de los asuntos de su competencia, se cumplan las políticas y lineamientos dictados por el Director General, los ordenamientos legales y las demás disposiciones normativas aplicables;
 
@@ -719,293 +837,261 @@ XXVII.- Informar mensualmente los resultados de los programas propios a la Direc
 
 XXVIII.- Realizar las demás funciones inherentes al puesto y las demás que le otorgue el Director General.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO X. De la Integración de la Procuraduría, Direcciones y Coordinaciones de Área
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 39.
 
 La Procuraduría, Direcciones y Coordinaciones de Área que establece el presente ordenamiento jurídico se auxiliarán de los siguientes Departamentos y Jefaturas de Unidad que respectivamente se señalan:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+I.- PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA:
 
-I.- PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA:
+a) Departamento Jurídico:
 
-a) Departamento Jurídico;
+I. Unidad de Asesoría Jurídica del Adulto Mayor;
 
-1.- Unidad Jurídica;
+2. Unidad Jurídica.
 
 b) Departamento Jurídico Contencioso;
 
-c) Departamento de Protección a Menores;
+c) Coordinación de Protección a Menores;
 
-d) Departamento de Psicología
+d) Departamento de Psicología;
 
-e) Departamento de Casa DIF
+e) Departamento de Casa DIF;
 
-f) Departamento de Tutelas
+f) Departamento de Tutelas;
 
-g) Departamento de Procesos Institucionales y Transparencia de la Información.
+g) Departamento de procesos institucionales;
 
-II.- DIRECCION DE ADMINISTRACION Y FINANZAS:
+h) Departamento del Centro de Encuentro y Convivencia:
 
-a) Departamento Administrativo;
+1. Unidad de Trabajo Social;
+
+2. Unidad de Psicología.
+
+II.- DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS:
+
+a) Departamento Administrativo:
 
 1. Unidad de Recursos Humanos;
 
 2. Unidad de Recursos Materiales;
 
-3. Unidad de Oficialía de Partes;
+3. Unidad de Almacén General;
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+4. Unidad de Servicios Generales;
 
-4. Unidad de Almacén General;
+5. Unidad de Oficialía de Partes.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2005)</small>
-
-5. Unidad de Oficialía de Partes;
-
-b) Departamento de Finanzas;
+b) Departamento de Finanzas:
 
 1. Unidad de Contabilidad;
 
-2 Unidad de Control Presupuestal;
+2. Unidad de Control Presupuestal;
 
-3 Unidad de Finanzas;
+3. Unidad de Egresos;
 
-4 Unidad de Egresos;
+4. Unidad de Ingresos.
 
-5. Unidad de Auditoria Interna;
-
-6 Unidad de Ingresos;
-
-7. Unidad de Informática.
-
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
-
-c) Departamento de Auditoria Interna;
+c) Departamento Administrativo de Servicios Médicos.
 
 III.- DIRECCION DE DESARROLLO FAMILIAR:
 
-a) Departamento de Atención a la Infancia;
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+a) Departamento de Atención a la Infancia:
 
 1. Unidad del Programa para la Prevención, Desaliento y Erradicación del Trabajo Infantil Urbano Marginal (PROPADETIUM);
 
 2. Unidad Casa Club;
 
-3. Unidad del CENDI;
+3. Unidad del CENDI.
 
-b) Departamento de Atención a la Familia;
+b) Departamento de Atención a la Familia:
 
-1. Unidad Chimalli;
+1. Unidad de Estrategias Educativas;
 
-2. Unidad Nuestras Raíces;
+2. Unidad Centro Indígena.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
+c) Departamento de Atención al Adolescente;
 
-d) (sic) Departamento del Centro de Atención Integral a la Mujer.
+d) Departamento del Centro de Atención Integral a la Mujer:
 
-1.- Unidad de Trabajo Social; y
+1.- Unidad de Trabajo Social;
 
 2.- Unidad de Psicología.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+IV.- DIRECCIÓN DE PROGRAMAS INSTITUCIONALES y DESARROLLO COMUNITARIO:
 
-IV.- DIRECCIÓN DE PROGRAMAS INSTITUCIONALES Y DESARROLLO COMUNITARIO:
+a) Departamento de Atención y Mejoras Nutricionales:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+1. Coordinación de Zona 1;
 
-a) Departamento de Atención y Mejoras Nutricionales;
+2. Coordinación de Zona 2;
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+3. Coordinación de Zona 3;
 
-1. Coordinación de Zona 1
+4. Coordinación de Zona 4;
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+5. Unidad de Almacén de Alimentos.
 
-2. Coordinación de Zona 2
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-3. Coordinación de Zona 3
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-4. Coordinación de Zona 4
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-5. Unidad de Almacén de Alimentos;
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2005)</small>
-
-b) Departamento de Programas de Desarrollo Comunitario.
-
-> <small>(F. DE E., P.O. 25 DE ABRIL DE 2005)</small>
+b) Departamento de Programas de Desarrollo Comunitarios:
 
 1. Unidad de Comunidad Diferente.
 
-c) (DEROGADO, P.O. 26 DE FEBRERO DE 2007)
+c) Derogado.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+V. DIRECCION DE PLANEACIÓN, INFORMACIÓN y ESTADISTICA:
 
-d) Departamento de la Estancia de Día;
+a) Departamento de la Coordinación de Informática:
 
-1. Unidad de Trabajo Social Estancia de Día;
+1. Derogado;
 
-2. Unidad Médico-Nutricional Estancia de Día;
+2. Unidad de Informática del CRIS.
 
-3. Unidad de Psicología Estancia de Día;
+b) Departamento de Enlace con Comités Municipales e Instituciones Privadas:
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+1. Unidad de Enlace con Instituciones de Beneficencia Privada.
 
-e) Departamento de Villas del Abuelo;
+c) Unidad del Centro de Información en Asistencia Social;
 
-1.- Unidad de Trabajo Social Villas del Abuelo;
+d) Unidad de Investigación y Estudios;
 
-2.- Unidad Médico-Nutricional Villas del Abuelo;
-
-3. Unidad de Psicología Villas del Abuelo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
-
-V.- DIRECCION DE PLANEACION, INFORMACION Y ESTADISTICA:
-
-a) Unidad de Procesos Institucionales;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2006)</small>
-
-2 (sic).- Programador Analista.
-
-b) Unidad de Planeación, Estadística y Evaluación;
-
-c) Unidad de Investigación y Respaldo de la Información;
-
-d) Unidad de Enlace con Comités Municipales e Instituciones de Beneficencia Privada;
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE ABRIL DE 2005)</small>
-
-e) Unidad de Estadística y Evaluación.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+e) Unidad de Estadística y Evaluación;
 
 f) Departamento de Trabajo Social:
 
-1. Unidad de Administración de Fideicomisos.
+1. Unidad de Administración de Fideicomisos;
 
-2. Supervisor de Trabajo Social;
+2. Supervisor de Trabajo Social.
 
-g) Unidad de Enlace con el Sector Empresarial.
+g) Unidad de control de peticiones.
 
-VI.- DIRECCION DE SERVICIOS MEDICOS:
+VI.- DIRECCIÓN DE SERVICIOS MEDICOS:
 
-a) Departamento de Administración.
+a) Departamento de Programas de Atención a Personas con Discapacidad, Enseñanza e Investigación;
 
-b) Departamento de Programas, Atención a Personas con Discapacidad, Enseñanza e Investigación;
+b) Departamento de Programas de Salud;
 
-c) Departamento de Programas de Salud;
+c) Departamento de Rehabilitación e Integración Social:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+1. Unidad de Supervisión Vespertina;
 
-c) (sic) Departamento de Rehabilitación e Integración Social;
+2. Unidad de Terapia física pediátrica y de intervención Temprana;
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+3. Unidad de Terapia Física Adultos;
 
-1. Unidad de Atención Integral Pediátrica;
+4. Unidad de Rehabilitación Neurológica.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+d) Departamento de Nutrición.
 
-2.- Unidad de Terapia Física Pediátrica y de Intervención Temprana
+VII.- DIRECCIÓN DE ATENCIÓN Y DESARROLLO A PERSONAS ADULTAS MAYORES:
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+a) Departamento de Estancia de Día:
 
-3.- Unidad de Terapia Física Adultos;
+1. Unidad Médico Nutricional;
 
-4.-… (sic)
+2. Servicios generales.
 
-e) Departamento del Centro de Atención Integral al Adulto Mayor.
+b) Departamento del Centro Gerontológico:
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+1. Unidad de Cultura;
 
-1. Unidad del Centro de Atención Integral al Adulto Mayor;
+2. Unidad Social.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
+c) Departamento del Centro de Atención Integral al Adulto Mayor:
 
-f) Unidad de Cómputo;
+1. Unidad Médica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+VIII.- COORDINACIÓN DE GIRAS Y EVENTOS:
 
-VII.- DIRECCION DE ATENCION Y DESARROLLO A PERSONAS ADULTAS MAYORES;
+a) Coordinador de Logística;
 
-a) Unidad de Atención y Seguimiento a la Demanda;
+b) Encargado de Sonido;
 
-b) Unidad de Relaciones Públicas y Programas Especiales;
+c) Encargado de Apoyo Técnico.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE JUNIO DE 2006)</small>
+IX.- COORDINACIÓN DEL VOLUNTARIADO ESTATAL:
 
-c) Departamento del Centro de Atención Integral al Adulto Mayor;
+a) Unidad de Vinculación con Municipios;
 
-1.- Unidad Médica.
+b) Unidad de Supervisión y Seguimiento;
 
-VIII.- COORDINACIÓN DEL VOLUNTARIADO ESTATAL;
+c) Unidad de Capacitación;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+d) Unidad de enlace con Sectores Sociales.
 
-IX.- COORDINACION DEL VOLUNTARIADO ESTATAL:
+X.- COORDINACIÓN DE COMUNICACIÓN SOCIAL:
 
-a) Unidad de Prensa y Difusión.
+a) Unidad de Diseño Gráfico;
 
-b)… (sic)
+b) Unidad de Difusión;
 
-c)… (sic)
+c) Unidad de Información.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
-
-d) (sic) Unidad de enlace con Sectores Sociales.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO XI. De la Suplencia de los Servidores Públicos del DIF Estatal
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 40.
 
 El Director General del DIF Estatal será suplido en sus ausencias temporales o accidentales menores a treinta días por el Procurador de la Defensa del Menor y la Familia; en ausencias mayores, o en casos especiales, será suplido por quien designe el Gobernador Constitucional del Estado ratificado por el Consejo Directivo.
 
-En caso de que el Director General deba ser suplido por el Procurador de la Defensa del Menor y la Familia y este no se encuentre en funciones por cualquier razón, el Director General será suplido por el funcionario que jerárquicamente le siga al Procurador en términos de lo establecido en el artículo 14 del presente Reglamento.
+En caso de que el Director General deba ser suplido por el Procurador de la Defensa del Menor y la Familia y éste no se encuentre en funciones por cualquier razón, el Director General será suplido por el funcionario que jerárquicamente le siga al Procurador en términos de lo establecido en el Artículo 14 del presente reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 41.
 
-Los Coordinadores y Directores de Área y el Procurador serán suplidos en sus ausencias temporales o accidentales menores a quince días, por el servidor público de la jerarquía inmediata inferior designado por aquéllos; si la ausencia es mayor será suplido por quien designe el Director General, en ambos casos se hará mediante acuerdo por escrito.
+Los Coordinadores y Directores de Area y el Procurador serán suplidos en sus ausencias temporales o accidentales menores a quince días, por el servidor público de la jerarquía inmediata inferior designado por aquéllos; si la ausencia es mayor será suplido por quien designe el Director General, en ambos casos se hará mediante acuerdo por escrito.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 42.
 
 Los Jefes de Departamento y demás personal del DIF Estatal serán suplidos en sus ausencias temporales menores a quince días, por el servidor de la jerarquía inmediata inferior que ellos mismos señalen; si la ausencia es mayor será suplido por quien designe el Director o Coordinador del Área correspondiente o en su caso por el Procurador, en ambos casos la sustitución se hará mediante acuerdo por escrito.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ## TITULO TERCERO. DE LOS SERVICIOS DEL DIF ESTATAL
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO I. De los Servicios
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 43.
 
 La Procuraduría y las Direcciones y Coordinaciones del DIF Estatal tendrán a su cargo la realización de los objetivos contenidos en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar a través de los Programas Institucionales que se desarrollen en los rubros que se señalan a continuación:
 
-I.- Atención a Familias;
+I.- Atención a la Familia y a la Comunidad;
 
 II.- Atención a la Infancia y Adolescencia;
 
-III.- Atención a Personas con Capacidades Diferentes;
+III.- Atención Integral a la Población Discapacitada y a sus Familias;
 
-IV.- Atención a Adultos Mayores;
+IV.- Atención Integral a la Senectud;
 
-V.- Atención Jurídica a Población Objetivo;
+V.- Atención Jurídica a Población Vulnerable; y
 
-VI.- Programa Administrativo para la Asistencia Social.
+VI.- Soporte Técnico y Administrativo para la Asistencia Social.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 44.
 
 Los Programas señalados en el artículo anterior, así como los específicos que se establezcan derivados de los mismos, se aplicarán y ejecutarán de conformidad con sus propias reglas de operación a las que estarán sujetos el personal responsable, para su aplicación, observancia y cumplimiento.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO II. De los Procedimientos de Acceso a los Programas Institucionales y Específicos
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 45.
 
@@ -1015,13 +1101,19 @@ El otorgamiento de la autorización correspondiente como beneficiarios a tales p
 
 Será el DIF Estatal quien señale las reglas aplicables para la asignación correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 46.
 
 Para la obtención de la autorización a que se refiere el artículo anterior, los interesados deberán presentar ante el DIF Estatal una solicitud.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 47.
 
-Presentada la solicitud y en su caso la documentación que sea requerida, el DIF Estatal dará el trámite respectivo conforme a sus disposiciones aplicables.
+Presentada la solicitud y en su caso la documentación que sea requerida, el DIF Estatal dará el trámite respectivo conforma a sus disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 48.
 
@@ -1029,41 +1121,59 @@ Una vez evaluado e integrado el expediente de la solicitud, el DIF Estatal dicta
 
 En dicha resolución podrá otorgar la autorización de la asignación de los beneficios del programa que se trate, en los términos de Ley; negar dicha autorización de acuerdo a lo que se establezca en las disposiciones de cada programa o incluso habiendo sido sujeto al mismo no se le otorgue por haberse cubierto el monto total de los recursos financieros asignados para cada programa.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 49.
 
 El DIF Estatal establecerá un registro de beneficiarios de cada programa, el cual administrará la Dirección de Planeación.
 
-## TITULO CUARTO. DE LOS COMITÉS COORDINADORES Y COMITÉS TÉCNICOS
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+## TITULO CUARTO. DE LOS COMITES COORDINADORES Y COMITES TECNICOS
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO I. Comité Coordinador de la Senectud
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 50.
 
 El objeto del Comité Coordinador es establecer las bases para facilitar el cumplimiento de la Ley de la Senectud, la cual busca la solución de los problemas que afectan a las personas adultas mayores del Estado de Aguascalientes.
 
-###### Articulo 51.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-El Comité Coordinador estará sujeto al DIF Estatal y se encargará de organizar todas las acciones a favor de las personas senectas, unificando criterios de las Instituciones que les otorguen servicios sociales, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando duplicidad de servicios con otras Instituciones, procurando siempre una correcta aplicación de recursos públicos que se destinen para este fin.
+###### Artículo 51.
+
+El Comité Coordinador estará sujeto al DIF Estatal y se, encargará de organizar todas las acciones a favor de las personas senectas, unificando criterios de las Instituciones que les otorguen servicios sociales, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando duplicidad de servicios con otras Instituciones, procurando siempre una correcta aplicación de recursos públicos que se destinen para este fin.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 52.
 
 El Comité coordinador establecerá las disposiciones reglamentarias de procedimientos para su funcionamiento y operatividad con sujeción a la Ley referida, que obligará su cumplimiento y observancia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO II. Del Comité Técnico de la Senectud
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 53.
 
 El DIF Estatal crea el Comité Técnico de la Senectud con sujeción a la Ley de la Senectud, estableciendo en el presente ordenamiento jurídico las disposiciones para su funcionamiento y operación.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 54.
 
 El Comité Técnico estará integrado de la siguiente manera:
 
-I.- Presidente: Director General del DIF Estatal;
+I.- Presidente: Director General del DIF estatal;
 
 II.- Vicepresidente: Director de Desarrollo Comunitario del DIF Estatal;
 
-III.- Secretario: Director de Planeación del DIF Estatal,
+III.- Secretario: Director de Planeación del DIF Estatal;
 
 IV.- Tesorero: Director de Administración y Finanzas del DIF Estatal;
 
@@ -1073,45 +1183,67 @@ VI.- Vocal: Secretario de Finanzas del Estado; y
 
 VII.- Vocal: Representante del Consejo de la tercera edad en el Estado.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 55.
 
-El Comité Técnico tendrá las atribuciones, objetivos y responsabilidades que el Capítulo II del Título II de la Ley de la Senectud establece.
+El Comité Técnico tendrá las atribuciones, objetivos y responsabilidades que el capítulo II del título II de la Ley de la Senectud establece.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 56.
 
 A fin de conseguir la coordinación de los diversos programas específicos a favor de las personas senectas, el comité técnico realizará reuniones formales e informales con los titulares de los mismos y con los encargados operativos, para eliminar duplicidad de funciones, calendarizar acciones, promover proyectos conjuntos, entre otros de beneficio para las personas senectas, informando a todas las gestiones que realice al comité coordinador para la validación de dichos trabajos.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 57.
 
 El comité técnico rendirá informe de sus actividades al Comité Coordinador, con una periodicidad máxima de seis meses.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO III. Del Comité Coordinador de Integración Social y Productiva de Personas con Discapacidad
 
-###### Articulo 58.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 58.
 
 El objeto del Comité Coordinador es establecer las bases para facilitar el cumplimiento de las normas establecidas por la Ley de Integración Social y Productiva de Personas con Discapacidad, para la resolución de los problemas que afectan a las personas con discapacidad, y de esta forma puedan integrarse social y productivamente a la comunidad para su completa realización personal.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 59.
 
 El Comité Coordinador estará sujeto al DIF Estatal y se encargará de coordinar todas las acciones a favor de las personas con discapacidad, unificando los criterios de las instituciones que les den servicio social, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando duplicidad de servicios con otras instituciones, procurando siempre una correcta aplicación de los recursos públicos que se destinen para este fin.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 60.
 
 El Comité Coordinador establecerá las disposiciones reglamentarias de procedimientos para su funcionamiento y operatividad con sujeción a la Ley de Integración Social y Productiva de Personas con Discapacidad, que obligará su cumplimiento y observancia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO IV. Del Comité Técnico de Integración Social y Productiva de Personas con Discapacidad
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+
 #### SECCIÓN PRIMERA. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 61.
 
 El DIF Estatal crea el Comité Técnico de Integración Social y Productiva de Personas con Discapacidad con sujeción a la Ley de Integración Social y Productiva de Personas con discapacidad, estableciendo en el presente ordenamiento jurídico las disposiciones para su funcionamiento y operación.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 62.
 
 El Comité Técnico estará integrado de la siguiente manera:
 
-I.- PRESIDENTE: Director General del DIF Estatal;
+I- PRESIDENTE: Director General del DIF Estatal;
 
 II.- VICEPRESIDENTE: Asesor del Gobernador del área de Asistencia Social;
 
@@ -1125,67 +1257,131 @@ VI.- VOCAL: Secretario de Finanzas del Estado; y
 
 VII.- VOCAL: Representante del Consejo Estatal de Personas con Discapacidad.
 
-###### Articulo 63.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 63.
 
 Tendrá las atribuciones, objetivos y responsabilidades que establece el artículo 11 de la Ley de Integración Social y Productiva de Personas con Discapacidad.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 64.
 
 Con el fin de conseguir la coordinación de los diversos programas específicos a favor de las personas con discapacidad, de las diferentes instituciones, el Comité Técnico realizará reuniones formales e informales con los titulares de las mismas y con los encargados operativos, para eliminar duplicidades, calendarizar acciones, promover proyectos conjuntos y demás actividades relativas informando de cuanta gestión se realice al Comité Coordinador para la validación de los trabajos.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 65.
 
-Se creará un padrón de personas con discapacidad que deberá integrarse con los datos que las diversas instituciones poseen, así como también el padrón de las instituciones privadas dedicadas a la atención de personas con discapacidad, siendo el encargado de concentrarlos el DIF Estatal a través del Centro de Rehabilitación e Integración Social y la Comisión de Valoración señalada en el Capítulo III de la Ley de Integración Social y Productiva de Personas con Discapacidad.
+Se creará un padrón de personas con discapacidad que deberá integrarse con los datos que las diversas instituciones poseen, así como también el padrón de las instituciones privadas dedicadas a la atención de personas con discapacidad, siendo el encargado de concentrar los el DIF Estatal a través del Centro de Rehabilitación e Integración Social y la Comisión de Valoración señalada en el Capítulo III de la Ley de Integración Social y Productiva de Personas con Discapacidad.
 
 Este padrón deberá actualizarse constantemente.
 
-La información mínima contenida en ésta base de datos será: nombre completo, domicilio, localidad, municipio, fecha de nacimiento, sexo, tipo de discapacidad, nivel máximo de estudios, profesión u oficio y ocupación y en el caso de personas morales denominación o razón social, objeto de la persona moral, domicilio, localidad, municipio, Registro Federal de Contribuyentes.
+La información mínima contenida en esta base de datos será: nombre, domicilio, localidad, municipio, fecha de nacimiento, sexto, tipo de discapacidad, nivel máximo de estudios, profesión u oficio y ocupación y en el caso de personas morales denominación o razón social, objeto de la persona moral, domicilio, localidad, municipio, Registro Federal de Contribuyentes.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 66.
 
-El padrón de instituciones al que hace referencia el artículo anterior se obtendrá a través de la Unidad de Enlace con las Instituciones de Beneficencia Privada del DIF Estatal, ubicada dentro de la Dirección de Planeación, la cual también les expedirá Acreditaciones de Constitución y/o Funcionamiento conforme lo marca la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar, en su artículo 78.
+El padrón de instituciones al que hace referencia el artículo anterior se obtendrá a través de la Unidad de Enlace con las Instituciones de Beneficencia Privada del DIF Estatal, ubicada dentro de la Dirección de Planeación, la cual también les expedirá Acreditaciones de Constitución y/o Funcionamiento conforme lo marca la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar, en su Artículo 78.
 
 Estas acreditaciones les serán solicitadas por las dependencias de la administración pública cuando soliciten algún apoyo o servicio.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 67.
 
-La credencialización de las personas con discapacidad estará a cargo del DIF Estatal y será una de las actividades del Centro de Rehabilitación e Integración Social. La información mínima que debe contener la credencial, además de la fotografía, será la señalada en el artículo 77 del presente ordenamiento jurídico.
+La credencialización de las personas con discapacidad estará a cargo del DIF Estatal y será una de las actividades del Centro de Rehabilitación e Integración Social. La información mínima que debe contener la credencial, además de la fotografía, será la señalada en el Artículo 77 del presente ordenamiento jurídico.
 
-Para promover la credencialización se exigirá que a toda persona con discapacidad que solicite apoyos en las instituciones integrantes del Comité Coordinador, le sea solicitada la presentación de su credencial de identificación-valoración otorgada por DIF Estatal.
+Para promover la credencialización se exigirá que a toda persona con discapacidad que solicite apoyos en las instituciones integrantes del Comité Coordinador, les sea solicitada la presentación de su credencial de identificación-valoración otorgada por DIF Estatal.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 68.
 
 El Comité Técnico rendirá informes, sobre las acciones realizadas, al Comité Coordinador, con una periodicidad máxima de tres meses.
 
-#### SECCIÓN SEGUNDA. De la Estructura, Funcionamiento y Atribuciones del Consejo Técnico para la Beneficencia Privada
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. Del Consejo Estatal de Personas con Discapacidad
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 69.
 
-Se crea el Consejo Técnico de Adopciones que se regirá por lo dispuesto en el presente ordenamiento jurídico, las Reglas de Operación para el Procedimiento y Tramite de las Adopciones y las demás disposiciones legales aplicables.
+El Consejo Estatal de Personas con Discapacidad al que hace referencia el Artículo octavo, inciso k) de la Ley de Integración Social y Productiva de Personas con Discapacidad se integra de la siguiente manera:
+
+I.- Un presidente que será el Director General del DIF Estatal;
+
+II.- Un secretario que será el Director de Servicios Médicos del DIF Estatal;
+
+III.- Un representante del Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad;
+
+IV.- Un representante del Comité Técnico de Integración Social y Productiva para Personas con Discapacidad;
+
+V.- Un representante de la Comisión de Valoración de las Personas con Discapacidad;
+
+VI.- El Director de atención y desarrollo a personas adultas mayores; y
+
+VII.- Dos representantes de las instituciones de beneficencia privada que podrán ser asociaciones o fundaciones constituidas conforme al capitulo IV del Título Segundo de la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar del estado de Aguascalientes y que se encuentren debidamente acreditadas mediante la declaratoria correspondiente por parte del Consejo Técnico para la Beneficencia Privada, cuyo objeto social sea el brindar apoyos o servicios a personas con discapacidad y que serán nombrados a propuesta del Director General del Sistema para el Desarrollo Integral de la Familia al Consejo referido, en virtud de su reconocimiento y representatividad en el Estado, los cuales tendrán el cargo de Vocal.
+
+Cada uno de los integrantes deberá designar a un suplente quien los representará en caso de ausencia.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 70.
 
-El Consejo Técnico de Adopción estará integrado de la siguiente manera:
+El Consejo Estatal de Personas con Discapacidad es un órgano de consulta y apoyo en el análisis de los programas que se pretendan implementar a favor de las personas con discapacidad, promoverán la participación de la sociedad en apoyo a los programas que se emprendan.
 
-I.- Presidente: que será el titular de la Procuraduría de la Defensa del Menor y la Familia;
-
-II.- Secretario Técnico; y
-
-III.- Al menos cuatro Consejeros.
-
-Los miembros del Consejo Técnico, deberán ser profesionales de las carreras de Derecho, Psicología y Trabajo Social que presten sus servicios en el DIF Estatal.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 71.
 
-El Consejo Técnico podrá invitar a funcionarios de los tres Poderes del Estado, a las reuniones para su participación con voz pero sin voto, en relación con el tema de la adopción, a los profesionales que cuenten con experiencia en el ramo, así como a los representantes de las instituciones privadas o asociaciones que promuevan adopciones en la Entidad y que acrediten su representación.
+El Consejo Estatal de Personas con Discapacidad sesionará tres veces al año de forma ordinaria y podrán realizar el número de sesiones extraordinarias que se requieran, mediante convocatoria que realice el secretario del Consejo. Los acuerdos que se tomen serán por mayoría.
+
+Las sesiones se convocarán con al menos cinco días de anticipación, en caso de que no haya quórum se podrá convocar nuevamente dentro de los siguientes tres días y la sesión se celebrará con los miembros asistentes.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO V. Consejo Técnico de Adopciones
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 72.
+
+Se crea el Consejo Técnico de Adopciones que se regirá por lo dispuesto en el presente ordenamiento jurídico, las Reglas de Operación para el Procedimiento y Trámite de las Adopciones y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 73.
+
+El Consejo Técnico de Adopción estará integrado de la siguiente manera:
+
+I.- Presidente: que será el Titular de la Procuraduría de la Defensa del Menor y la Familia;
+
+II.- Secretario Técnico;
+
+III.- Un representante de la Procuraduría General de Justicia del Estado; y
+
+IV.- Al menos cuatro Consejeros.
+
+Los miembros del Consejo Técnico, deberán ser profesionales de las carreras de Derecho, Psicología y Trabajo Social que presten sus servicios en el DIF Estatal, a excepción del representante de la Procuraduría General de Justicia.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 74.
+
+El Consejo Técnico podrá invitar a funcionarios de los tres poderes del Estado, a las reuniones para su participación con voz pero sin voto, en relación con el tema de la adopción, a los profesionales que cuenten con experiencia en el ramo, así como a los representantes de las instituciones privadas o asociaciones que promuevan adopciones en la Entidad y que acrediten su representación.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 75.
 
 El Director General del DIF Estatal nombrará al Secretario Técnico y a los Consejeros dentro del personal del propio organismo.
 
-###### Artículo 73.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 76.
 
 El Consejo Técnico tendrá las siguientes funciones:
 
@@ -1193,7 +1389,7 @@ I.- Analizar detalladamente los expedientes de los solicitantes de adopción que
 
 II.- Cuando lo considere necesario, solicitar la revaloración de los solicitantes o la ampliación de información acerca de aspectos específicos sobre los mismos, con el propósito de contar con más elementos para pronunciarse acerca de la procedencia o improcedencia de sus solicitudes;
 
-III.- Asimismo, solicitar a la Procuraduría General de Justicia del Estado el informe respecto a la posible existencia de antecedentes penales de los solicitantes en agravio de un menor;
+III.- Asimismo, solicitar a la Procuraduría General de Justicia en el Estado el informe respecto a la posible existencia de antecedentes penales de los solicitantes en agravio de un menor;
 
 IV.- Llevar el control de las solicitudes de adopción que se reciban en el DIF Estatal y deberá contar con un registro de los centros asistenciales públicos y particulares, así como de los menores institucionalizados en los mismos y de la situación jurídica de cada uno de dichos menores;
 
@@ -1203,7 +1399,7 @@ VI.- Tramitar ante el Juez de lo Familiar, a través de los miembros del propio 
 
 VII.- Realizar estudios psicológicos y socioeconómicos a solicitantes de adopción, a fin de que dichos estudios tengan validez ante el DIF Estatal a través del personal calificado y designado que le auxilie;
 
-VIII.- Acreditar a las instituciones o asociaciones privadas dedicadas a la adopción en la Entidad, para tramitar dichas adopciones a través del mismo. Asimismo, podrá revocar las acreditaciones expedidas en términos de la presente fracción cuando haya motivos que lo justifiquen;
+VIII.- Acreditar a las instituciones o asociaciones privadas dedicadas a la adopción en la entidad, para tramitar dichas adopciones a través del mismo. Asimismo, podrá revocar las acreditaciones expedidas en términos de la presente fracción cuando haya motivos que lo justifiquen;
 
 IX.- Analizar la procedencia de la expedición de los certificados de idoneidad para cada caso especifico de adopción que le sean requeridos y en su caso, autorizar al Presidente del Consejo su expedición;
 
@@ -1211,11 +1407,15 @@ X.- Someter al Director General del DIF Estatal para su aprobación, las Reglas 
 
 XI.- Las demás que le asigne expresamente el Consejo Directivo del DIF Estatal o el Director General del mismo.
 
-###### Artículo 74.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 77.
 
 Las Instituciones o Asociaciones que pretendan obtener su acreditación en el área de Adopciones, deberán cumplir, con los requisitos establecidos en las Reglas de Operación para el Procedimiento y Trámite de las Adopciones y demás disposiciones legales.
 
-###### Artículo 75.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 78.
 
 El Presidente tendrá las siguientes facultades:
 
@@ -1227,15 +1427,17 @@ III.- Firmar el acta correspondiente a cada sesión;
 
 IV.- Expedir las acreditaciones que apruebe el Consejo Técnico a las instituciones o asociaciones privadas dedicadas a la adopción;
 
-V.- Expedir los certificados de idoneidad que le sean requeridos y cuya emisión haya aprobado previamente el Consejo Técnico.
+V.- Expedir los certificados de idoneidad que le sean requeridos y cuya emisión haya aprobado previamente el Consejo Técnico;
 
 VI.- Las demás que le asigne expresamente el Consejo Técnico, el Consejo Directivo o el Director General.
 
-###### Artículo 76.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 79.
 
 El Secretario Técnico tendrá las facultades siguientes:
 
-I.- Convocar a reunión del Consejo Técnico con la anticipación señalada en el artículo 79 del presente ordenamiento jurídico, a petición del presidente;
+I.- Convocar a reunión del Consejo Técnico con la anticipación señalada en el Artículo 82 del presente ordenamiento jurídico, a petición del presidente;
 
 II.- En su caso, recabar los pre-dictámenes de procedencia de las solicitudes de adopción elaborados;
 
@@ -1249,11 +1451,13 @@ VI.- Mantener en orden y actualizado el consecutivo de las actas de las reunione
 
 VII.- Firmar el acta correspondiente a cada sesión;
 
-VIII.- Llevar el control de la información y registros que sean necesarios o se requieran para la operación y aplicación del servicio;
+VIII.- Llevar el control de la información y registros que sean necesarios o se requieran para la operación y aplicación del servicio; y
 
 IX.- Las demás que le asigne expresamente el Consejo Técnico o su Presidente, así como el Consejo Directivo o el Director General del DIF Estatal.
 
-###### Artículo 77.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 80.
 
 Los Consejeros tendrán las facultades siguientes:
 
@@ -1263,59 +1467,85 @@ II.- Exponer los estudios, valoraciones o revaloraciones practicados a los solic
 
 III.- Votar en la toma de decisiones del Consejo Técnico.
 
-###### Artículo 78.
-
-Los integrantes titulares de los Comités Coordinadores y Técnicos de la Senectud y de Integración Social y Productiva de Personas con discapacidad y del Consejo Técnico de Adopciones podrán designar oficialmente un representante, delegándole capacidad de compromiso y decisión.
-
-La delegación a la que se refiere el párrafo anterior deberá hacerse por medio de oficio, en el que se precise los alcances de la delegación, dirigido al Titular del Comité o Consejo correspondiente.
-
-Los miembros de los Comités y del Consejo no percibirán remuneración alguna derivada de su nombramiento como tales.
-
-###### Artículo 79.
-
-Los Comités y el Consejo a que se refiere el presente Capítulo sesionarán ordinariamente una vez cada dos meses y extraordinariamente cada vez que sea convocado por el Secretario del mismo o por quien tenga facultades para expedir la convocatoria correspondiente; sus integrantes durarán en sus cargos el tiempo que dure su nombramiento.
-
-Para la celebración de las sesiones de los comités o del Consejo mencionados en el párrafo anterior, se emitirá convocatoria por escrito por el Secretario del mismo y a la convocatoria se acompañará el orden del día de la sesión.
-
-En el caso de sesiones ordinarias, la convocatoria se realizará con cinco días de anticipación y en las sesiones extraordinarias será con veinticuatro horas de anticipación.
-
-###### Artículo 80.
-
-El quórum legal de las sesiones será del 50% más uno de sus miembros. Las decisiones se tomarán por mayoría de votos, teniendo el Presidente o en su ausencia el Vicepresidente o Secretario en su caso, voto de calidad en caso de empate.
-
-Cuando el quórum no se complete se citará mediante una segunda convocatoria que se expida en el lapso de uno a seis días de anticipación antes de la fecha señalada para la sesión, celebrándose válidamente la sesión con las personas que concurran a la misma y se tomarán las decisiones y acuerdos con los miembros que se encuentren presentes.
-
-Ninguna decisión será válida si no se encuentran presentes el Presidente o Vicepresidente o quien los supla en su ausencia.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO VI
 
 Disposiciones Comunes para los Comités Coordinadores y Técnicos de la Senectud y de Integración Social y Productiva de Personas con Discapacidad y del Consejo Técnico de Adopciones
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 81.
 
-En todas las sesiones que realicen los comités o el Consejo Técnico se levantará acta, que tendrá un número progresivo y en la que figurará su carácter, fecha de celebración, lista de asistencia, relación sucinta del desahogo del orden del día, así como los acuerdos que se tomen, los cuales deberán ser identificados por número progresivo, número de acta y año al que corresponde. Las actas podrán acompañarse de anexos relacionados con cuestiones relativas a los asuntos tratados en las sesiones y ser firmadas por todos los asistentes de la sesión.
+Los integrantes titulares de los Comités Coordinadores y Técnicos de la Senectud y de Integración Social y Productiva de personas con discapacidad y del Consejo Técnico de Adopciones podrán designar oficialmente un representante, delegándole capacidad de compromiso y decisión.
+
+La delegación a la que se refiere el párrafo anterior deberá hacerse por medio de oficio, en el que se precise los alcances de la delegación, dirigido al Titular del Comité o Consejo correspondiente.
+
+Los miembros de los Comités y del Consejo no percibirán remuneración alguna derivada de su nombramiento como tales.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 82.
 
-El Estado, a través del DIF Estatal, cuidará que se cumplan las disposiciones que la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar de Aguascalientes establece, quien constituirá para el logro de sus objetivos y fines un Consejo Técnico para la Beneficencia Privada, estableciendo en el presente ordenamiento jurídico las disposiciones para su funcionamiento y operación.
+Los Comités y el Consejo a que se refiere el presente Capitulo sesionarán ordinariamente una vez cada dos meses y extraordinariamente cada vez que sea convocado por el Secretario del mismo o por quien tenga facultades para expedir la convocatoria correspondiente; sus integrantes durarán en sus cargos el tiempo que dure su nombramiento.
+
+Para la celebración de las sesiones de los comités o del Consejo mencionados en el párrafo anterior, se emitirá convocatoria por escrito por el Secretario del mismo y a la convocatoria se acompañará el orden del día de la sesión.
+
+En el caso de sesiones ordinarias, la convocatoria se realizará con cinco días de anticipación y en las sesiones extraordinarias será con veinticuatro horas de anticipación.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 83.
 
-El DIF Estatal a través del Consejo Técnico regulará la operación y funcionamiento de las Instituciones de Beneficencia Privada en el Estado, de acuerdo a las disposiciones establecidas en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar y en el presente ordenamiento jurídico.
+El quórum legal de las sesiones será del 50% más uno de sus miembros. Las decisiones se tomarán por mayoría de votos, teniendo el Presidente o en su ausencia el Vicepresidente o Secretario en su caso, voto de calidad en caso de empate.
+
+Cuando el quórum no se complete se citará mediante una segunda convocatoria que se expida en el lapso de uno a seis días de anticipación antes de la fecha señalada para la sesión, celebrándose validamente la sesión con las personas que concurran a la misma y se tomarán las decisiones y acuerdos con los miembros que se encuentren presentes.
+
+Ninguna decisión será válida si no se encuentran presentes el Presidente o Vicepresidente o quien los supla en su ausencia.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 84.
 
+En todas las sesiones que realicen los comités o el Consejo Técnico se levantará acta, que tendrá un número progresivo y en la que figurará su carácter, fecha de celebración, lista de asistencia, relación sucinta del desahogo del orden del día, así como los acuerdos que se tomen, los cuales deberán ser identificados por número progresivo, número de acta y año al que corresponde. Las actas podrán acompañarse de anexos relacionados con cuestiones relativas a los asuntos tratados en las sesiones y ser firmadas por todos los asistentes de la sesión.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+### CAPITULO VII. Del Consejo Técnico para la Beneficencia Privada
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN PRIMERA. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 85.
+
+El Estado, a través del DIF Estatal, cuidará que se cumplan las disposiciones que la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar de Aguascalientes establece, quien constituirá para el logro de sus objetivos y fines un Consejo Técnico para la Beneficencia Privada, estableciendo en el presente ordenamiento jurídico las disposiciones para su funcionamiento y operación.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 86.
+
+El DIF Estatal a través del Consejo Técnico regulará la operación y funcionamiento de las Instituciones de Beneficencia Privada en el Estado, de acuerdo a las disposiciones establecidas en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar y en el presente ordenamiento jurídico.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. De la Estructura, Funcionamiento y Atribuciones del Consejo Técnico para la Beneficencia Privada
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 87.
+
 El Consejo Técnico estará integrado de la siguiente manera:
 
-I.- El Presidente, que será el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
+I.- El Presidente, que será el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
 
-II.- El Secretario, que será el Director de Planeación, Información y Desarrollo del DIF Estatal.
+II.- El Secretario que será el Director de Planeación, Información y Estadística del DIF Estatal;
 
 III.- Los Vocales del Sector Público que serán:
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-a).- Un representante designado por el C. Gobernador del Estado.
+a).- Un representante designado por el C. Gobernador del Estado;
 
 b).- Un representante de la Procuraduría de la Defensa del Menor y la Familia;
 
@@ -1323,87 +1553,95 @@ c).- Un representante del Instituto de Salud del Estado;
 
 d).- Un representante del Instituto de Educación del Estado;
 
-e).- Un representante de la Secretaría de Desarrollo Social del Estado
+e).- Un representante de la Secretaría de Desarrollo Social del Estado;
 
-f).- Un representante de la Secretaría de Desarrollo Social Federal, en su caso;
+f).- Uh representante de la Secretaría de Desarrollo Social Federal, en su caso;
 
-g).- Un Representante del Sistema para el Desarrollo Integral de la Familia del Municipio de Aguascalientes, en su caso; y (sic)
+g).- Un Representante del Sistema para el Desarrollo Integral de la Familia del Municipio de Aguascalientes, en su caso;
+
+.
 
 h).- Un representante de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, en su caso;
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2006)</small>
+i).- Un representante de la Procuraduría General de Justicia del Estado; y
 
-i) Un representante de la Procuraduría General de Justicia del Estado.
+IV.- Mínimo Cinco Representantes del Sector Privado quienes tendrán el cargo de vocales.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-IV.- Mínimo Cinco Representantes del Sector Privado, quienes tendrán el cargo de vocales.
-
-a) (DEROGADO, P.O. 29 DE MAYO DE 2006)
-
-b) (DEROGADO, P.O. 29 DE MAYO DE 2006)
-
-c) (DEROGADO, P.O. 29 DE MAYO DE 2006)
-
-d) (DEROGADO, P.O. 29 DE MAYO DE 2006)
-
-e) (DEROGADO, P.O. 29 DE MAYO DE 2006)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2006)</small>
-
-### CAPITULO VII. Del Consejo Técnico para la Beneficencia Privada
-
-###### Artículo 85.
+###### Artículo 88.
 
 Los vocales del Sector Privado se invitarán de acuerdo al liderazgo y representatividad que tengan dentro de la Sociedad en el Estado de Aguascalientes.
 
 La selección la hará en sesión el Presidente del Consejo, atendiendo sugerencias de los miembros del mismo.
 
-###### Artículo 86.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 89.
 
 El Presidente y el Secretario del Consejo, así como los Vocales del Sector Público permanecerán en su cargo el tiempo que dure la Administración del Organismo.
 
 Los vocales del Sector Privado permanecerán mientras sus nombramientos no sean revocados por quien los designó, o mientras subsista el encargo de parte de la institución.
 
-###### Artículo 87.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 90.
 
 Los integrantes del Consejo no percibirán ninguna remuneración derivada de su nombramiento como tales.
 
-###### Artículo 88.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 91.
 
 La autoridad máxima del Consejo Técnico reside en su Asamblea.
 
-###### Artículo 89.
-
-Las Asambleas serán presididas por el Presidente o su Representante, nombrado previamente y por escrito.
-
-###### Articulo 90.
-
-Las Asambleas podrán ser Ordinarias y se celebrarán dos al año por convocatoria del Presidente del Consejo, o extraordinarias cuando se requiera por convocatoria del Presidente del Consejo o del Secretario y para que sus acuerdos sean válidos será necesaria la presencia cuando menos de la mitad más uno de los integrantes del Consejo, y sus acuerdos se tomarán por mayoría de votos. En caso de empate el Presidente o su Representante tendrán voto de calidad.
-
-En caso de falta de quórum en las asambleas, se realizará la reunión una hora después de lo programado en la convocatoria, con los que hubieren asistido, siempre y cuando estén presentes el Presidente o su representante y el Secretario y que así se haya precisado en la convocatoria.
-
-###### Articulo 91.
-
-Para la celebración de asambleas, se emitirá convocatoria por escrito por el Presidente del Consejo. La convocatoria se acompañará con el orden del día.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 92.
 
-Las Asambleas Ordinarias se convocarán con 72 horas de anticipación, y las extraordinarias con 48 horas de anticipación.
+Las Asambleas serán presididas por el Presidente o su Representante, nombrado previamente y por escrito.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 93.
 
-Las asambleas deberán apegarse al orden del día previa aprobación del Presidente del Consejo y cuando alguno de los integrantes sugiera la inclusión de algún asunto, este será tratado en los asuntos generales.
+Las Asambleas podrán ser Ordinarias y se celebrarán dos al año por convocatoria del Presidente del Consejo, o extraordinarias cuando se requiera por convocatoria del Presidente del Consejo o del Secretario y para que sus acuerdos sean válidos será necesaria la presencia cuando menos de la mitad más uno de los integrantes del Consejo, y sus acuerdos se tomarán por mayoría de votos. En caso de empate el Presidente o su Representante tendrán voto de calidad.
 
-###### Articulo 94.
+En caso de falta de Quórum en las asambleas, se realizará la reunión una hora después de lo programado en la convocatoria, con los que hubieren asistido, siempre y cuando estén presentes el Presidente o su representante y el Secretario y que así se haya precisado en la convocatoria.
 
-De todas las asambleas que celebre el Consejo, se levantará acta, que tendrá un número progresivo y en la que se señalará su carácter, fecha de celebración, relación del desahogo del orden del día, así como los acuerdos que se tomen los cuales deberán ser identificados por un número progresivo, número de acta y año al que corresponde. Se anexará la documentación relativa a los asuntos tratados y la lista de asistencia de los integrantes del Consejo.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 94.
+
+Para la celebración de asambleas, se emitirá convocatoria por escrito por el Presidente del Consejo. La convocatoria se acompañará con el orden del día.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 95.
 
-El acta deberá ser firmada por los que intervinieron en la asamblea.
+Las Asambleas Ordinarias se convocarán con 72 horas de anticipación, y las extraordinarias con 48 horas de anticipación.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 96.
+
+Las asambleas deberán apegarse al orden del día previa aprobación del Presidente del Consejo y cuando alguno de los integrantes sugiera la inclusión de algún asunto, este será tratado en los asuntos generales.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 97.
+
+De todas las asambleas que celebre el Consejo, se levantará acta, que tendrá un número progresivo y en la que se señalará su carácter, fecha de celebración, relación del desahogo del orden del día, así como los acuerdos que se tomen los cuales deberán ser identificados por un número progresivo, número de acta y año al que corresponde. Se anexará la documentación relativa a los asuntos tratados y la lista de asistencia de los integrantes del Consejo.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 98.
+
+El acta deberá ser firmada por los que intervinieron en la asamblea.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 99.
 
 El Consejo Técnico tendrá las siguientes atribuciones:
 
@@ -1429,7 +1667,7 @@ X.- Autorizar a las Instituciones de Beneficencia Privada para que puedan recibi
 
 XI.- Canalizar los donativos, herencias o legados recibidos por el Organismo destinados a la Beneficencia Privada y determinará a que Instituciones se otorgarán;
 
-XII.- Vigilar que los fundadores y patronos cumplan con sus derechos y obligaciones;
+XIII (sic).- Vigilar que los fundadores y patronos cumplan con sus derechos y obligaciones;
 
 XIII.- Convocar a reuniones de información y asesoría, a los representantes de las Instituciones de Beneficencia Privada;
 
@@ -1443,9 +1681,11 @@ XVII.- Evaluar y reconocer públicamente a las Instituciones de Beneficencia Pri
 
 XVIII.- Promover entre las Instituciones de Beneficencia Privada la planeación administrativa, financiera y organizacional; y
 
-XIX.- Propiciar la autosuficiencia, rentabilidad con proyectos productivos sustentables, que permitan la consolidación de las Instituciones de Beneficencia Privada.
+XIX.- Propiciarla autosuficiencia, rentabilidad con proyectos productivos sustentables, que permitan la consolidación de las Instituciones de Beneficencia Privada.
 
-###### Artículo 97.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 100.
 
 Al Presidente del Consejo Técnico le corresponde:
 
@@ -1461,7 +1701,9 @@ V.- Supervisar el seguimiento de los acuerdos emanados del Consejo; y
 
 VI.- Vigilar la correcta aplicación del presente Reglamento en las resoluciones del Consejo Técnico.
 
-###### Artículo 98.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 101.
 
 Al Secretario del Consejo Técnico le corresponde:
 
@@ -1473,7 +1715,9 @@ III.- Preparar la documentación que se requiera durante las asambleas así como
 
 IV.- Ejecutar los acuerdos derivados de las sesiones del Consejo, Administrar a la Unidad de Enlace para tal efecto.
 
-###### Artículo 99.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 102.
 
 A los Vocales del Consejo Técnico les corresponde:
 
@@ -1483,65 +1727,97 @@ II.- Participar y fomentar las propuestas en los asuntos a tratar del orden del 
 
 III.- Cumplir y desempeñar con eficiencia las comisiones y acuerdos emanados del Consejo.
 
-###### Artículo 100.
-
-El DIF Estatal a través del Consejo Técnico para la Beneficencia Privada, llevará acabo todas las funciones inherentes a la autorización, inspección, supervisión, vigilancia, constitución, funcionamiento y extinción de las instituciones de beneficencia privada.
-
-###### Artículo 101.
-
-El DIF Estatal como organismo rector de la asistencia social, acreditará a las instituciones de beneficencia privada que cumplan y ajusten su actividad a la misma.
-
-###### Artículo 102.
-
-El DIF Estatal a través del Consejo Técnico para la Beneficencia Privada podrá en todo tiempo revocar los derechos otorgados a las Instituciones de beneficencia Privada en los casos en que la anterior dejara de cumplir con sus actividades y obligaciones que la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar y el presente ordenamiento jurídico establecen.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO VIII. De la Supervisión y Vigilancia de Instituciones de Beneficencia Privada
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 103.
 
-Las Instituciones de Beneficencia Privada deberán funcionar cumpliendo con Las Normas Oficiales Mexicanas y demás leyes aplicables.
+El DIF Estatal a través del Consejo Técnico para la Beneficencia Privada, llevará a cabo todas las funciones inherentes a la autorización, inspección, supervisión, vigilancia, constitución, funcionamiento y extinción de las instituciones de beneficencia privada.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 104.
 
-El Consejo Técnico para la Beneficencia Privada ordenará la práctica de visitas domiciliarias a las instituciones de beneficencia privada y quien las lleve a cabo elaborará en un término no mayor de tres días hábiles posteriores a la fecha en que se realizó la visita, el reporte de la misma, para su conocimiento y respectiva evaluación.
+El DIF Estatal como organismo rector de la asistencia social, acreditará a las instituciones de beneficencia privada que cumplan y ajusten su actividad a la misma.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 105.
 
-Si el reporte de la visita plantea situaciones anómalas respecto a su constitución, funcionamiento, administración o aspectos éticos de las Instituciones de Beneficencia Privada; se tomarán las acciones necesarias según corresponda el caso.
+El DIF Estatal a través del Consejo Técnico para la Beneficencia Privada podrá en todo tiempo revocar los derechos otorgados a las Instituciones de beneficencia Privada en los casos en que la anterior dejara de cumplir con sus actividades y obligaciones que la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar y el presente ordenamiento jurídico establecen.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 106.
 
-Si las anomalías de la Institución corresponden al ámbito de competencia del Instituto de Salud del Estado u otra Institución; el Consejo Técnico para la Beneficencia Privada deberá realizar la notificación de la situación anómala para que se realice la inspección o resolución correspondiente; dicha notificación deberá hacerse en un término no mayor de cinco días después de que se realizó la visita de supervisión.
+Las Instituciones de Beneficencia Privada deberán funcionar cumpliendo con Las Normas Oficiales Mexicanas y demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 107.
 
-En el supuesto de que las anomalías correspondan al ámbito de competencia del Organismo, el Consejo Técnico para la Beneficencia Privada notificará a las Instituciones, objeto de la situación reportada, sobre las anomalías detectadas, indicando un plazo razonable para la corrección de dichas anomalías.
+El Consejo Técnico para la Beneficencia Privada ordenará la práctica de visitas domiciliarias a las instituciones de beneficencia privada y quien las lleve a cabo elaborará en un término no mayor de tres días hábiles posteriores a la fecha en que se realizó la visita, el reporte de la misma, para su conocimiento y respectiva evaluación.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 108.
 
-Al término del plazo señalado en el supuesto del artículo anterior, se realizará otra visita de inspección y supervisión, para verificar que las anomalías reportadas ya hayan sido corregidas, levantándose un nuevo reporte donde se haga constar la subsanación correspondiente.
+Si el reporte de la visita plantea situaciones anómalas respecto a su constitución, funcionamiento, administración o aspectos éticos de las Instituciones de Beneficencia Privada; se tomará las acciones necesarias según corresponda el caso.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 109.
 
-En caso de que las anomalías no hayan sido corregidas en el plazo concedido se procederá según correspondan, levantándose igualmente el reporte respectivo, haciéndose del conocimiento al interesado y a quien competa.
+Si las anomalías de la Institución corresponden al ámbito de competencia del Instituto de Salud del Estado u otra Institución; el Consejo Técnico para la Beneficencia Privada deberá realizar la notificación de la situación anómala para que se realice la inspección o resolución correspondiente; dicha notificación deberá hacerse en un término no mayor de cinco días después de que se realizó la visita de supervisión.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 110.
 
-El Consejo Técnico para la Beneficencia Privada en Asamblea Ordinaria o Extraordinaria evaluará el seguimiento y avances de las resoluciones.
+En el supuesto de que las anomalías correspondan al ámbito de competencia del Organismo, el Consejo Técnico para la Beneficencia Privada notificará a las Instituciones, objeto de la situación reportada, sobre las anomalías detectadas, indicando un plazo razonable para la corrección de dichas anomalías.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 111.
 
-El Consejo Técnico para la Beneficencia Privada notificará a la Institución supervisada en un plazo no mayor de tres días naturales a partir de la fecha en que realizó la Asamblea, sobre el dictamen y resolución tomados.
+Al término del plazo señalado en el supuesto del artículo anterior, se realizará otra visita de inspección y supervisión, para verificar que las anomalías reportadas ya hayan sido corregidas, levantándose un nuevo reporte donde se haga constar la subsanación correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 112.
+
+En caso de que las anomalías no hayan sido corregidas en el plazo concedido se procederá según correspondan, levantándose igualmente el reporte respectivo, haciéndose del conocimiento al interesado y a quien competa.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 113.
+
+El Consejo Técnico para la Beneficencia Privada en Asamblea Ordinaria o Extraordinaria evaluará el seguimiento y avances de las resoluciones.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 114.
+
+El Consejo Técnico para la Beneficencia Privada notificará a la Institución supervisada en un plazo no mayor de tres días naturales a partir de la fecha en que realizó la Asamblea, sobre el dictamen y resolución tomados.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+## TITULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
+
+###### Artículo 115.
 
 Las violaciones a los preceptos de este ordenamiento jurídico y las disposiciones que de ella emanen constituyen infracción y serán sancionadas administrativamente, por el DIF Estatal en asuntos de su competencia o por la Contraloría del Estado cuando se trate de asuntos de su competencia de conformidad con la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar y la Ley de Responsabilidades de los Servidores Públicos.
 
 ARTICULOS TRANSITORIOS:
-
-## TITULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
-
-### CAPITULO UNICO
 
 ###### ARTICULO PRIMERO
 
@@ -1598,3 +1874,13 @@ UNICO.- Las reformas entrarán en vigor al día siguiente de su publicación en 
 P.O. 27 DE AGOSTO DE 2007.
 
 UNICO.- Las reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones reglamentarias que se contengan en otros ordenamientos legales y que contravengan las normas del presente Reglamento.
