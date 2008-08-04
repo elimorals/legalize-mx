@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-06-27"
+last_updated: "2008-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -261,7 +261,9 @@ XIV.- DECIMOCUARTO CIRCUITO:
 
 XV.- DECIMOQUINTO CIRCUITO:
 
-1.- Cuatro tribunales colegiados con residencia en Mexicali.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 34/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2008)</small>
+
+1.- Cinco tribunales colegiados con residencia en Mexicali.
 
 2.- Siete tribunales unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
 
@@ -275,7 +277,9 @@ XVI.- DECIMOSEXTO CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Guanajuato.
 
-3.- Siete juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y dos con residencia en Celaya.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 35/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2008)</small>
+
+3.- Ocho juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y tres con residencia en Celaya.
 
 XVII.- DECIMOSEPTIMO CIRCUITO:
 
@@ -914,3 +918,21 @@ D.O.F. 27 DE JUNIO DE 2008.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE AGOSTO DE 2008.
+
+ACUERDO GENERAL 34/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XV, NUMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE AGOSTO DE 2008.
+
+ACUERDO GENERAL 35/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XVI, NUMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Guanajuato, con sede en Celaya, con motivo del inicio de funciones del Juzgado Octavo de Distrito en el Estado de Guanajuato, con residencia en Celaya.
