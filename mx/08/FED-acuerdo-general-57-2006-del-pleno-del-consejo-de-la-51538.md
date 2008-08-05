@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-08-04"
+last_updated: "2008-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -135,9 +135,9 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL DEL 72/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 33/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE AGOSTO DE 2008)</small>
 
-3.- Veintidós juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Nezahualcóyotl.
+3.- Veintitrés juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -936,3 +936,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Guanajuato, con sede en Celaya, con motivo del inicio de funciones del Juzgado Octavo de Distrito en el Estado de Guanajuato, con residencia en Celaya.
+
+D.O.F. 5 DE AGOSTO DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Nezahualcóyotl, con motivo del inicio de funciones del Juzgado Decimosegundo de Distrito en el Estado de México, con residencia en Nezahualcóyotl.
