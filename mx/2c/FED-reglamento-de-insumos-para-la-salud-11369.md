@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2008-01-02"
+last_updated: "2008-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -1433,9 +1433,13 @@ Sin perjuicio de lo establecido en los dos párrafos anteriores, se podrá solic
 
 La información a que se refieren los artículos 167 y 167 bis de este Reglamento que tenga el carácter de confidencial o reservada de conformidad con lo establecido en los tratados internacionales de los que México sea parte y con las demás disposiciones legales aplicables, estará protegida contra toda divulgación a otros particulares.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 168.
 
-Para ser titular del registro sanitario de un medicamento se requiere contar con licencia sanitaria de fábrica o laboratorio de medicamentos o productos biológicos para uso humano.
+Para ser titular del registro sanitario de un medicamento se requiere contar con licencia sanitaria de fábrica o laboratorio de medicamentos o productos biológicos para uso humano. Para el caso de fabricantes extranjeros se requiere contar con licencia, certificado o documento que acredite que la empresa cuenta con el permiso para fabricar medicamentos, expedido por la autoridad competente del país de origen.
 
 ###### ARTÍCULO 169.
 
@@ -1461,7 +1465,11 @@ La certificación de las buenas prácticas de fabricación se realizará a solic
 
 Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados, y
 
-III. La carta de representación, cuando el laboratorio que lo fabrique en el extranjero no sea filial o casa matriz del laboratorio solicitante del registro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2008)</small>
+
+III. El documento que acredite a un representante legal con domicilio en los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 171.
 
@@ -2238,3 +2246,21 @@ Para tal efecto el particular solicitará al Consejo de Salubridad General la in
 La inclusión de un Medicamento Genérico en dicho catálogo es únicamente para efectos informativos y no constituye un requisito para su comercialización.
 
 OCTAVO. El Comité de Moléculas Nuevas de la Comisión Federal para la Protección contra Riesgos Sanitarios, quedará constituido a más tardar treinta días después de la publicación del presente Decreto, y deberá aprobar y publicar en el Diario Oficial de la Federación su Reglamento Interior a más tardar noventa días después de haber quedado constituido.
+
+D.O.F. 5 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor conforme a lo siguiente:
+
+a) Al día siguiente de su publicación por lo que se refiere a su observancia tratándose de medicamentos antirretrovirales;
+
+b) A los seis meses posteriores a su publicación, para el caso de vitamínicos, vacunas, sueros, hemoderivados, antitoxinas, hormonales de origen biológico, medicamentos homeopáticos y medicamentos herbolarios;
+
+c) A los doce meses posteriores a su publicación, para medicamentos biotecnológicos y biológicos no especificados en el párrafo anterior;
+
+d) A los dieciocho meses posteriores a su publicación, para medicamentos que contengan estupefacientes o psicotrópicos y medicamentos de libre acceso de conformidad con lo establecido en las fracciones I, II, III, V y VI del artículo 226 de la Ley General de Salud, y
+
+e) A los veinticuatro meses posteriores a su publicación, para los demás medicamentos en los términos de la fracción IV del artículo 226 de la Ley General de Salud.
+
+SEGUNDO.- Las solicitudes de registro sanitario que se encuentren en trámite a la entrada en vigor del presente Decreto, se atenderán conforme a las disposiciones vigentes al momento de su presentación.
+
+TERCERO.- Las erogaciones que, en su caso, se requieran para dar cumplimiento a lo dispuesto en este Decreto, se realizarán con cargo a la disponibilidad presupuestaria de la Secretaría de Salud.
