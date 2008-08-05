@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-05-20"
+last_updated: "2008-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -344,7 +344,23 @@ G) Unidad de Inteligencia Financiera del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
-1.- Coordinación Ejecutiva de Verificación de Comercio Exterior.
+1. Coordinación Ejecutiva de Verificación de Comercio Exterior.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+1.1. Dirección de Programación;
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+1.2. Dirección de Comercio Exterior;
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+1.3. Dirección de Procedimientos Legales; y
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+1.4. Subdirección del Recinto Fiscal.
 
 IX. A la Secretaría de Transportes y Vialidad:
 
@@ -374,11 +390,19 @@ XI. A la Secretaría de Turismo:
 
 > <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
 
-3.- Dirección General de Planeación y Desarrollo Turístico;
+3. Dirección General de Planeación y Desarrollo Turístico;
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
-4.- Dirección General del Instituto de Promoción Turística del Distrito Federal;
+4. Dirección General del Instituto de Promoción Turística del Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+5. Dirección General de Promoción Turística Internacional; y
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+6. Dirección General de Protección y Atención al Turista.
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -448,9 +472,13 @@ XIV. A la Contraloría General:
 
 1.2. Dirección de Recursos de Inconformidad
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 5 DE AGOSTO DE 2008)</small>
+
 2. Dirección General de Asuntos Jurídicos y Responsabilidades:
 
-2.1. Dirección de Responsabilidad y Sanciones;
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+2.1. Dirección de Responsabilidades y Sanciones;
 
 2.2. Dirección de Quejas y Denuncias;
 
@@ -1560,9 +1588,9 @@ III. Recibir, tramitar y resolver las solicitudes de declaratoria de exención d
 
 IV. Recibir, tramitar y resolver las solicitudes de caducidad y prescripción que formulen los contribuyentes, respecto de las facultades de comprobación y de créditos fiscales provenientes de la aplicación del Código Financiero del Distrito Federal, así como las que deriven de contribuciones federales coordinadas, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia;
 
-> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-V. Informar a la Secretaría de Finanzas, a la Tesorería del Distrito Federal y a la Unidad de Inteligencia del Distrito Federal, de las resoluciones de los tribunales administrativos o judiciales sobre asuntos de su competencia;
+V. Informar a la Secretaría de Finanzas y a la Tesorería del Distrito Federal, de las resoluciones de los tribunales administrativos o judiciales sobre asuntos de su competencia;
 
 > <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1744,25 +1772,29 @@ XVIII. Expedir las constancias o credenciales de identificación respectivas, qu
 
 XIX. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de Colaboración Administrativa en Materia Fiscal Federal, relativos al comercio exterior, en los términos de las Leyes y Reglamentos Aplicables;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 5 DE AGOSTO DE 2008)</small>
 
-XX. Administrar las funciones operativas inherentes a la recaudación, comprobación, determinación y cobro de los ingresos federales coordinados en materia de comercio exterior, con base en los Acuerdos suscritos con Ejecutivo Federal;
+XX. Administrar las funciones operativas inherentes a la recaudación, comprobación, determinación y cobro de los ingresos federales coordinados en materia de comercio exterior, con base en los Acuerdos suscritos con el Ejecutivo Federal;
 
 > <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
 XXI. Ejecutar la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivo los créditos fiscales de carácter federal, en materia de comercio exterior, en los términos de las disposiciones fiscales aplicables y de los acuerdos suscritos con el Ejecutivo Federal;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-XXII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus (sic) sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
+XXII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus sustitución, cancelarlas, devolverlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
 
 > <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
 
 XXIII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Administración Pública del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-XXIV. Todas aquellas que sean necesarias para el ejercicio de sus funciones, las que sean conferidas por sus superiores jerárquicos, así como, las que correspondan a las unidades administrativas que le sean adscritas.
+XXIV. Determinar y cobrar los ingresos federales coordinados, con base en las leyes, convenios de coordinación y acuerdos que rijan la materia, así como ejercer las facultades de comprobación que las mismas establezcan, en materia de comercio exterior; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XXV. Todas aquellas que sean necesarias para el ejercicio de sus funciones, las que sean conferidas por sus superiores jerárquicos, así como las que correspondan a las unidades administrativas que le sean adscritas.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -4928,11 +4960,15 @@ VII. Constituirse en depositaria de las mercancías, medios de transporte o veh�
 
 Guardar y custodiar las mercancías, los medios de transporte o los vehículos de procedencia extranjera embargados precautoriamente, hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o se resuelva la legal devolución de la mercancía o vehículo de que se trate;
 
-VIII. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia. Para lo anterior, podrá solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VIII. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia o, en su caso, podrá solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
 
 IX. Resolver, en los casos que proceda, el levantamiento del embargo precautorio, así como la entrega de las mercancías, medios de transporte o vehículos de procedencia extranjera, embargados precautoriamente, antes de la conclusión del procedimiento administrativo en materia aduanera;
 
-X. Coordinar la determinación de los impuestos de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias y la determinación en cantidad líquida del monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados en materia de comercio exterior;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+X. Determinar los impuestos de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias, así como determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados en materia de comercio exterior;
 
 XI. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras, así como reducir o condonar dichas multas y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
 
@@ -4966,7 +5002,9 @@ XXI. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que ha
 
 XXII. Coordinarse con la Subtesorería de Fiscalización, a efecto de formular de manera conjunta el Programa Operativo Anual de las contribuciones federales coordinadas en materia de comercio exterior, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos con el Ejecutivo Federal;
 
-XXIII. Elaborar y llevar un Registro las (sic) constancias o credenciales de identificación respectivas, que acrediten a los servidores públicos que realicen actos de verificación en materia de comercio exterior, tales como las visitas domiciliarias y verificaciones de mercancías y vehículos, de origen o procedencia extranjera, para la práctica de las notificaciones, liquidaciones de créditos fiscales y todos los actos inherentes al procedimiento administrativo de ejecución, al procedimiento administrativo en materia aduanera y a la clasificación arancelaria, derivados del ejercicio de dichas facultades;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XXIII. Elaborar y llevar un Registro de las constancias o credenciales de identificación respectivas, que acrediten a los servidores públicos que realicen actos de verificación en materia de comercio exterior, tales como las visitas domiciliarias y verificaciones de mercancías y vehículos, de origen o procedencia extranjera, para la práctica de las notificaciones, liquidaciones de créditos fiscales y todos los actos inherentes al procedimiento administrativo de ejecución, al procedimiento administrativo en materia aduanera y a la clasificación arancelaria, derivados del ejercicio de dichas facultades;
 
 XXIV. Informar en todos los casos a la Procuraduría Fiscal de la Federación, sobre la comisión o presunta comisión de cualquier infracción administrativa, delito fiscal federal o en materia aduanera, de que tenga conocimiento con motivo de sus actuaciones;
 
@@ -4978,9 +5016,17 @@ XXVII. Ejecutar la facultad económico coactiva, mediante el procedimiento admin
 
 XXVIII. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus (sic) sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
 
-XXIX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada al Distrito Federal, y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-XXX. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y vehículos de procedencia extranjera.
+XXIX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada al Distrito Federal;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XXX. Intercambiar información, con motivo del ejercicio de sus atribuciones en materia de comercio exterior, con la Tesorería del Distrito Federal o con cualquier otra autoridad municipal, local o federal; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XXXI. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y vehículos de procedencia extranjera.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -4990,7 +5036,9 @@ Corresponde a la Dirección de Programación, las siguientes atribuciones:
 
 I. Elaborar y proponer para su aprobación, el Programa Operativo Anual de las contribuciones federales coordinadas en materia de comercio exterior;
 
-II. Coordinar la realización de investigaciones de campo, para recopilar datos relacionados con la legal estancia en el país de mercancías y vehículos de procedencia extranjera, y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+II. Realizar investigaciones de campo, para recopilar datos relacionados con la legal estancia en el país de mercancías y vehículos de procedencia extranjera; y
 
 III. Conocer, sistematizar y coordinar la información correspondiente para la emisión de los actos de verificación y/o comprobación del correcto cumplimiento de las obligaciones fiscales en materia de comercio exterior.
 
@@ -5006,7 +5054,9 @@ b) Comprobar el correcto cálculo y pago de los impuestos al valor agregado, esp
 
 c) Comprobar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
 
-II. Coordinar la práctica de visitas domiciliarias y de verificación, auditorias y revisiones de escritorio, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para la venta de mercancías y vehículos, mercados sobre ruedas, puestos fijos y semifijos en la vía pública; así como de vehículos en circulación y mercancías en transporte, aún cuando no se encuentren en movimiento, excepto aeronaves; asimismo efectuar verificaciones de origen, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+II. Practicar visitas domiciliarias y de verificación, auditorias y revisiones de escritorio, en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para la venta de mercancías y vehículos, mercados sobre ruedas, puestos fijos y semifijos en la vía pública; así como de vehículos en circulación y mercancías en transporte, aun cuando no se encuentren en movimiento, excepto aeronaves; efectuar verificaciones de origen, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables;
 
 III. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el Artículo 152 de la Ley Aduanera o del Artículo que lo sustituya, y notificar dicho inicio al interesado, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
@@ -5022,7 +5072,9 @@ VIII. Verificar y determinar, en su caso, la naturaleza, características, el va
 
 IX. Solicitar a la Subdirección del Recinto Fiscal el dictamen de clasificación arancelaria, para el debido ejercicio de sus atribuciones;
 
-X. Supervisar la determinación de los impuestos de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias, y la determinación en cantidad líquida del monto correspondiente, que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, en materia de comercio exterior;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+X. Determinar los impuestos de carácter federal y sus accesorios, la aplicación de las cuotas compensatorias, y la determinación en cantidad líquida del monto correspondiente, que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, en materia de comercio exterior;
 
 XI. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
 
@@ -5040,7 +5092,7 @@ Artículo 92 Sextus.- Corresponde a la Dirección de Procedimientos Legales, las
 
 I. Iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el Artículo 152 de la Ley Aduanera o del Artículo que lo sustituya, y notificar dicho inicio al interesado, así como tramitar y resolver los citados procedimientos hasta sus últimas consecuencias, de conformidad con la legislación federal aplicable; determinando en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
-II. Elaborar informe para que a través de la instancia respectiva, se informe a la Secretaría de Hacienda y Crédito Público del inicio del procedimiento administrativo en materia aduanera, dentro del término de 15 días hábiles, contados a partir de la fecha del embargo precautorio;
+II. (DEROGADA, G.O. 5 DE AGOSTO DE 2008)
 
 III. Decretar el embargo precautorio de las mercancías y de los vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya. Asimismo, conforme a lo establecido en la Ley Aduanera y demás legislación federal aplicable, podrá declarar que dichas mercancías y vehículos han causado abandono en favor del Fisco Federal;
 
@@ -5054,9 +5106,13 @@ VII. Recibir y resolver las solicitudes presentadas por los contribuyentes respe
 
 VIII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos, los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con el Servicio de Administración Tributaria, las aduanas del país, las autoridades aduaneras federales y las demás autoridades del Distrito Federal, para el ejercicio de sus funciones;
 
-IX. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-XI (SIC). Verificar y determinar, en su caso, la naturaleza, características, el valor en aduana y el valor comercial de mercancías y vehículos de procedencia extranjera, de conformidad con las disposiciones legales aplicables;
+IX. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia, o en su caso, solicitar dictamen o apoyo a la Secretaría de Hacienda y Crédito Público, al agente aduanal, al dictaminador aduanero o cualquier otro perito en la materia;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+X. Verificar y determinar, en su caso, la naturaleza, características, el valor en aduana y el valor comercial de mercancías y vehículos de procedencia extranjera, de conformidad con las disposiciones legales aplicables;
 
 XI. Solicitar a la Subdirección del Recinto Fiscal el dictamen de clasificación arancelaria, para el debido ejercicio de sus atribuciones;
 
@@ -5070,15 +5126,29 @@ XV. Solicitar a los contribuyentes, responsables solidarios o terceros con ellos
 
 XVI. Recibir y resolver las solicitudes de pago a plazo de créditos fiscales en materia de comercio exterior, determinados por el Distrito Federal;
 
-XVII. Calificar las garantías que otorguen los contribuyentes, cuando sea procedente, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XVII. Aceptar y calificar las garantías que otorguen los contribuyentes, para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como registrarlas, autorizar su sustitución, cancelarlas, devolverlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
 
 XVIII. Dar aviso a la Secretaría de Hacienda y Crédito Público, en caso de siniestro de vehículos asignados, dentro de las cuarenta y ocho horas siguientes a que éste ocurra;
 
 XIX. Informar en todos los casos a la Procuraduría Fiscal de la Federación sobre la comisión o presunta comisión de cualquier infracción administrativa, delito fiscal federal o en materia aduanera, de que tenga conocimiento con motivo de sus actuaciones;
 
-XX. Elaborar trimestralmente, un informe sobre los procedimientos administrativos en materia aduanera que se hayan iniciado en el ámbito de su competencia, y sobre el estado procesal en que se encuentran los mismos, para que a través de la instancia respectiva se haga llegar a la Secretaría de Hacienda y Crédito Público, y
+XX. (DEROGADA, G.O. 5 DE AGOSTO DE 2008)
 
-XXI. Participar en el ámbito de su competencia, en la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XXI. Participar en el ámbito de su competencia, en la formulación de los convenios y acuerdos de coordinación con las autoridades fiscales de la Secretaría de Hacienda y Crédito Público; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XXII. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables en materia de comercio exterior, para comprobar el correcto:
+
+a) Cálculo y pago de los impuestos generales de importación y exportación, así como del derecho de trámite aduanero;
+
+b) Cálculo y Pago de los impuestos al valor agregado, especial sobre producción y servicios, sobre automóviles nuevos y sobre tenencia o uso de vehículos, causados por la importación a territorio nacional, así como el correcto cumplimiento de regulaciones y restricciones no arancelarias, inclusive de las normas oficiales mexicanas y el pago de cuotas compensatorias; y
+
+c) Cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5350,11 +5420,13 @@ Corresponde a la Dirección General de Programas Estratégicos:
 
 I. Planear el desarrollo de la actividad turística a través del uso eficiente de los recursos turísticos, en los términos de la Ley de Turismo del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-II. Formular el Programa Sectorial e integrar el programa de Trabajo de la Secretaría de Turismo, en concordancia con el Programa General de Desarrollo del Distrito Federal;
+II. Coadyuvar en la formulación del Programa Sectorial e integrar el Programa de Trabajo de la Secretaría de Turismo, en los términos establecidos por el titular de la Secretaría de Turismo;
 
-III. Evaluar los programas de trabajo de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Secretaría de Turismo;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+III. Elaborar los proyectos de programas para otorgar información y apoyo al Turista respecto a la oferta de servicios turísticos del Distrito Federal;
 
 IV. Impulsar el desarrollo de los recursos turísticos del Distrito Federal, de conformidad con las políticas y programas de Desarrollo del Distrito Federal y, en su caso, de común acuerdo con los grupos sociales involucrados;
 
@@ -5367,16 +5439,6 @@ VI. Planificar, diseñar y coordinar los proyectos estratégicos para el Desarro
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
 VII. Acordar y coordinar, por instrucciones del (a) Titular de la Secretaría, con los organismos y dependencias oficiales, el sector privado y el sector social el establecimiento de los proyectos estratégicos para el Desarrollo de Turismo en la Ciudad de México.
-
-VIII. (DEROGADA, G.O. 21 DE MAYO DE 2002)
-
-IX. (DEROGADA, G.O. 21 DE MAYO DE 2002)
-
-X. (DEROGADA, G.O. 21 DE MAYO DE 2002)
-
-XI. (DEROGADA, G.O. 21 DE MAYO DE 2002)
-
-XII. (DEROGADA, G.O. 21 DE MAYO DE 2002)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -5396,13 +5458,21 @@ II. Elaborar y actualizar anualmente el catálogo de servicio y lugares de inter
 
 III. Recabar y generar la información estadística y de mercado para el establecimiento y desarrollo de los programas de promoción;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-IV. Desarrollar el sistema de información turística; y
+IV. Desarrollar el Sistema de Información Turística;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-V. Elaborar y difundir los indicadores que permitan a los prestadores de servicios turísticos fijar los criterios tarifarios proporcionales a las temporadas turísticas y a la calidad del servicio ofrecido.
+V. Elaborar y difundir los indicadores que permitan a los prestadores de servicios turísticos fijar los criterios tarifarios proporcionales a las temporadas turísticas y a la calidad del servicio ofrecido;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VI. Formular el Programa Sectorial e integrar el Programa de Trabajo de la Secretaría de Turismo, en concordancia con el Programa General de Desarrollo del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VII. Evaluar los programas de trabajo de las unidades administrativas y unidades administrativas de apoyo técnico-operativo, adscritas a la Secretaría de Turismo.
 
 ###### Artículo 97.
 
@@ -5410,9 +5480,13 @@ Corresponde a la Dirección General de Servicios Turísticos:
 
 I. Promover y concertar mecanismos de apoyo crediticio y de asistencia técnica a los prestadores de servicios turísticos del Distrito Federal, así como promover la inversión en infraestructura turística;
 
-II. Elaborar los proyectos de programas para la protección, información y apoyo al turista;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-III. Participar en la ejecución de los programas orientados a ofrecer, en el ámbito del distrito Federal, protección, información y apoyo al turista;
+II. Vigilar que los prestadores de los servicios turísticos brinden el servicio de manera eficiente, conforme a las condiciones óptimas de calidad;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+III. Participar en la Ejecución de los Programas orientados a ofrecer, en el ámbito del Distrito Federal, información y apoyo al turista;
 
 IV. Coordinar los servicios de orientación al turismo y módulos de atención al turista ubicados en los principales puntos de aforo o concentración de turistas en el Distrito Federal;
 
@@ -5434,17 +5508,57 @@ III. Proponer y acordar el Programa de Promoción Turística de la Ciudad de Mé
 
 IV. Definir la imagen turística institucional de la Ciudad de México y supervisar su uso;
 
-V. Promocionar y difundir las actividades, servicios y atractivos turísticos del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+V. Promocionar y difundir las actividades, servicios y atractivos turísticos del Distrito Federal, al interior de la Republica Mexicana;
 
 VI. Promover la realización de eventos que contribuyan a la difusión de la oferta turística de la Ciudad de México;
 
 VII. Promover la concertación y coordinación de acciones de promoción turística de la Ciudad de México, con los sectores público, social y privado;
 
-VIII. Establecer el Sistema de Comunicación permanente con los medios nacionales e internacionales para promover los atractivos turísticos de la Ciudad de México;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VIII. Establecer el Sistema de Comunicación permanente con los medios nacionales para promover los atractivos turísticos del Distrito Federal;
 
 IX. Recabar y difundir la información pertinente que sobre la actividad turística (sic) la Ciudad de México se emita a través de los medios de comunicación; y
 
 X. Determinar las necesidades de información estadística y de mercado para el establecimiento y desarrollo de los programas de promoción turística.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+###### Artículo 97 Ter.
+
+Corresponde a la Dirección General de Promoción Turística Internacional:
+
+I. Promover los servicios turísticos y fomentar el patrimonio que ofrece el Distrito Federal, en el extranjero en coordinación con las autoridades federales competentes;
+
+II. Establecer el Sistema de Comunicación permanente con los medios internacionales para promover los atractivos turísticos del Distrito Federal;
+
+III. Promocionar y difundir las actividades, servicios y atractivos turísticos del Distrito Federal en el ámbito internacional;
+
+IV. Participar en ferias, foros y festivales internacionales para difundir la imagen y propuesta turística del Distrito Federal en el ámbito internacional; y
+
+V. Proponer al Jefe de Gobierno del Distrito Federal o, en su caso, al Titular de la Secretaría de Turismo, la suscripción en materia turística de acuerdos, convenios y demás instrumentos jurídicos con gobiernos extranjeros y organismos internacionales.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+###### Artículo 97 Quater.
+
+Corresponde a la Dirección General de Protección y Atención al Turista:
+
+I. Elaborar y coordinar la ejecución de programas orientados a ofrecer mayor protección al turista y promover su instrumentación ante las autoridades locales y federales competentes;
+
+II. Colaborar en la instrumentación de programas de educación y capacitación en materia de protección y atención al turista;
+
+III. Diseñar y proponer ante las instancias competentes en materia de seguridad y procuración de justicia, medidas preventivas para vigilar, cuidar, atender e informar a turistas nacionales y extranjeros;
+
+IV. Diseñar e instrumentar programas y acciones dirigidos a atender y apoyar al turista en el seguimiento de sus quejas y denuncias presentadas ante las instancias de seguridad y procuración de justicia correspondientes;
+
+V. Promover y, en su caso, coordinar la ejecución de acuerdos, convenios y demás instrumentos jurídicos celebrados en materia de protección, seguridad y atención al turista con autoridades locales, estatales y federales;
+
+VI. Impulsar la participación de Dependencias y Entidades de la Administración Pública Federal y del Distrito Federal, así como de los representantes de los sectores privado y social, en sus programas de protección y atención al turista; y
+
+VII. Coordinar las acciones de edición e impresión de las publicaciones oficiales en materia de protección, seguridad y atención al turista.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -8390,11 +8504,11 @@ Además, los Órganos Políticos-Administrativos podrán contar con las Direccio
 
 Los titulares de los Órganos Político-Administrativos, tendrán la facultad de delegar en las Direcciones Generales y demás Unidades Administrativas de apoyo técnico-operativo, las facultades que expresamente les otorguen los ordenamientos jurídicos correspondientes; dichas facultades, se ejercerán mediante disposición expresa, misma que se publicará en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 122
 
-Bis.- Para el despacho de los asuntos que competen a los órganos políticos-administrativos, se les adscriben las siguientes Unidades Administrativas:
+Bis.- Para el despacho de los asuntos que competen a los Órganos Político-Administrativos, se les adscriben las siguientes Unidades Administrativas:
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -8698,7 +8812,9 @@ D) Dirección General de Servicios Urbanos;
 
 E) Dirección General de Desarrollo Social; y
 
-F) Dirección General de Medio Ambiente y Desarrollo Rural.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+F) Dirección General de Medio Ambiente y Desarrollo Sustentable.
 
 ###### Artículo 122 Bis.
 
@@ -9362,9 +9478,7 @@ XXII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
 
 XXIII. Las demás que de manera directa les asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XXIV. Planear, coordinar y proporcionar soporte técnico, sistemas y administración de base de datos para el buen funcionamiento de la Unidad Administrativa.
+XXIV. (DEROGADA, G.O. 5 DE AGOSTO DE 2008)
 
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2005)</small>
 
@@ -11610,27 +11724,71 @@ IV. Impulsar el desarrollo de programas encaminados a la realización de activid
 
 V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 193.
 
-Corresponde a la Dirección General de Medio Ambiente y Desarrollo Rural:
+Corresponde a la Dirección General de Medio Ambiente y Desarrollo Sustentable:
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 I. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
 
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
 II. Elaborar diagnóstico de impacto ambiental respecto a las construcciones y establecimientos que soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 III. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
 IV. Participar de manera coordinada con la Secretaría de Medio Ambiente en la elaboración de los programas de ordenamiento ecológico que se requiera implementar en la demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 V. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
 
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
 VI. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
 
-VII. Proponer el establecimiento de zonas de conservación ecológica y de parques urbanos en la demarcación territorial; y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-VIII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+VII. Proponer a la autoridad competente el establecimiento de zonas de conservación ecológica y de parques urbanos en la demarcación territorial;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VIII. Fomentar el Desarrollo Rural Sustentable en la demarcación territorial, a través de la planeación, organización e instrumentaciones de acciones dirigidas a los diferentes núcleos agrarios, en coordinación con las autoridades competentes en la materia;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+IX. En coordinación con las Dependencias competentes, diseñar y ejecutar acciones encaminadas a la protección, conservación y restauración de los diferentes ecosistemas comprendidos en el suelo de conservación y en la Áreas Naturales Protegidas ubicadas en la demarcación;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+X. Elaborar diagnósticos y programas de capacitación orientados a identificar las necesidades de los sectores rural, pecuario y forestal;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XI. Ampliar y rehabilitar la infraestructura vigente para la protección y conservación de las zonas agroecológicas;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XII. Organizar ferias y exposiciones dirigidas a promover los productos y servicios de los sectores rural, pecuario y forestal;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XIII. Incentivar la investigación y el desarrollo tecnológicos en materia agropecuaria y forestal, a través de la celebración de convenios, acuerdos o demás instrumentos jurídicos con las instituciones educativas, los centros de investigación y las organizaciones sociales, que deriven en una transferencia de tecnología fundada en el desarrollo sustentable de la Delegación y sus habitantes;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XIV. Incrementar la capacidad productiva y la eficiencia de las unidades de producción rural, mediante la capacitación a los productores y la modernización, ampliación y mejoramiento de la infraestructura existente; y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XV. Las demás que de manera directa le asigne el titular del órgano político-administrativo, así como las que se establezcan en los Manuales Administrativos.
 
 (REUBICADO, G.O. 31 DE ENERO DE 2001)
 
@@ -11752,7 +11910,7 @@ VII. Las demás que le confieran las disposiciones jurídicas y administrativas 
 
 > <small>(ADICIONADA, G.O. 30 DE MAYO DE 2005)</small>
 
-#### SECCION IV
+#### SECCION IV. (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
 #### SECCION V
 
@@ -11774,29 +11932,157 @@ V. Planear, organizar, controlar y prestar los servicios hidráulicos, y los pro
 
 VI.- Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
 
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 200.
 
-(DEROGADO, G.O. 16 DE DICIEMBRE DE 2003)
+Para el despacho de los asuntos que competan al Sistema de Aguas de la Ciudad de México se le adscriben:
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 16 DE DICIEMBRE DE 2003)</small>
+I. La Dirección Ejecutiva de Operación;
+
+II. La Dirección Ejecutiva de Planeación y Construcción;
+
+III. La Dirección Ejecutiva de Servicios a Usuarios;
+
+IV. La Dirección Jurídica; y
+
+V. Las demás unidades administrativas que sean necesarias para el desempeño de sus atribuciones, y les sean autorizadas, quienes tendrán las funciones que señalen los manuales administrativos correspondientes.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 201.
 
-(DEROGADO, G.O. 16 DE DICIEMBRE DE 2003)
+La Dirección Ejecutiva de Operación, tiene las siguientes atribuciones:
+
+I. Establecer y dirigir los programas y actividades relativas a los procesos de producción, captación, potabilización, conducción y distribución del agua potable;
+
+II. Establecer y dirigir los programas y actividades relativas a los procesos de captación, conducción y desalojo de aguas residuales y pluviales;
+
+III. Establecer y dirigir los programas y actividades relativas a los procesos de producción, distribución, conducción y tratamiento de aguas residuales;
+
+IV. Ejecutar los programas operativos, presupuestación, contratación y ejecución de obras y mantenimiento de la infraestructura de agua potable, drenaje y agua tratada;
+
+V. Planear y dirigir el funcionamiento de los sistemas de distribución de agua potable, agua residual tratada y de los sistemas de conducción y desalojo de aguas residuales;
+
+VI. Elaborar, conjuntamente con la Dirección Ejecutiva de Planeación y Construcción, las políticas y acciones relativas al monitoreo y control de la calidad del agua potable y agua tratada, de acuerdo con las disposiciones legales y normativas vigentes;
+
+VII. Proponer y someter a consideración de la Dirección General los estudios e investigaciones relativas al aprovechamiento de nuevas fuentes de abastecimiento de agua, así como, los programas de rehabilitación y reposición de pozos, extracción, captación, conducción y distribución de agua potable;
+
+VIII. Someter a consideración del Director General, proyectos y programas de adecuaciones a la infraestructura hidráulica de los sistemas agua potable, drenaje, potabilización, tratamiento y reuso, para la mejora de los servicios;
+
+IX. Establecer las políticas y acciones para la elaboración y cumplimiento de los programas de mantenimiento preventivo y correctivo a instalaciones civiles, equipos mecánicos, electromecánicos y electrónicos, así como del parque vehicular y maquinaria pesada del Sistema de Aguas de la Ciudad de México;
+
+X. Establecer y dirigir las políticas y acciones para la atención de fallas en los sistemas de agua potable, drenaje y de agua tratada;
+
+XI. Establecer mecanismos de coordinación con los Órganos Político -Administrativos, para la prestación de los servicios hidráulicos;
+
+XII. Controlar las actividades de desazolve de la red de drenaje, cauces y vasos reguladores; y
+
+XIII. Las demás que le confieren otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 202.
 
-(DEROGADO, G.O. 16 DE DICIEMBRE DE 2003)
+La Dirección Ejecutiva de Planeación y Construcción tiene las siguientes atribuciones:
 
-(REUBICADA, G.O. 31 DE ENERO DE 2001)
+I. Ejecutar las actividades de planeación, programación, presupuestación, contratación y ejecución de las obras y servicios relacionados con las mismas, a cargo del Sistema de Aguas de la Ciudad de México.
+
+II. Establecer las acciones necesarias para definir los programas de trabajo y ejecución de las obras para crear la infraestructura hidráulica necesaria en la prestación de servicios públicos que los particulares tengan concesionados;
+
+III. Ejecutar la elaboración y contratación de estudios, proyectos arquitectónicos, de ingeniería civil y electromecánica, análisis técnico-económicos y planes maestros para los sistemas de agua potable, drenaje, tratamiento y reuso de aguas residuales;
+
+IV. Llevar a cabo las acciones necesarias para que los sistemas de agua potable, drenaje y tratamiento cuenten con equipos de automatización, así como los sistemas de información para la transmisión y manejo de los datos generados;
+
+V. Ejecutar las acciones para determinar los volúmenes de flujos de agua en los sistemas de captación, en las redes de agua potable y conciliar los de agua en bloque que entrega la Comisión Nacional del Agua al Distrito Federal;
+
+VI. Establecer y ejecutar las políticas y lineamientos relativos a la vigilancia de la calidad del agua potable, de acuerdo con las normas mexicanas y los parámetros establecidos por la Secretaría de Salud;
+
+VII. Establecer las políticas y lineamientos para determinar las especificaciones a que deberán sujetarse las obras y servicios hidráulicos;
+
+VIII. Establecer y dirigir las acciones para fomentar la investigación y desarrollo tecnológico en materia de potabilización.
+
+IX. Llevar a cabo los procesos de contratación de obra pública y de servicios relacionados con las mismas, con cargo total a recursos del Presupuesto de Egresos del Distrito Federal, así como las obras financiadas total o parcialmente con fondos federales;
+
+X. Supervisar que los procedimientos de revisión y autorización de ajuste de costos, de precios unitarios, precios unitarios extraordinarios y volumetría adicional para que se efectúen de conformidad con las disposiciones legales y términos contractuales;
+
+XI. Ordenar la suspensión de obras públicas y servicios relacionados con las mismas, determinar su temporalidad y las obras derivadas de concesión, así como la terminación anticipada;
+
+XII. Substanciar y resolver los procedimientos de rescisión administrativa de los contratos de obra pública y de servicios relacionados con las mismas, así como de las obras derivadas de concesiones;
+
+XIII. Remitir a la Dirección Jurídica los documentos necesarios para que se interpongan los juicios cuando legalmente proceda, derivado de actos competencia del área; y
+
+XIV. Las demás que le confieren otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 203.
 
-(DEROGADO, G.O. 19 DE ENERO DE 2007)
+La Dirección Ejecutiva de Servicios a Usuarios, tiene las siguientes atribuciones
+
+I. Ejecutar, instruir y controlar las funciones como autoridad auxiliar de la Secretaría de Finanzas, para llevar a cabo los servicios de Tesorería, conforme a lo dispuesto por el artículo 7º de la Ley de Aguas del Distrito Federal;
+
+II. Supervisar las actividades realizadas por terceros en concesión o cualquier otra modalidad relativas a la lectura, emisión, distribución de boletas por los consumos de agua potable y descargas de aguas residuales;
+
+III. Supervisar y ordenar la suspensión del servicio de agua a los usuarios domésticos, no domésticos y mixtos, en los términos previstos en la Ley de Aguas del Distrito Federal y el Código Financiero del Distrito Federal;
+
+IV. Planear, establecer y ordenar los programas de práctica de visitas domiciliaras, de verificaciones, procedimientos de ejecución, inspección y revisiones de gabinete, de conformidad con las disposiciones fiscales;
+
+V. Dirigir y controlar la recaudación de derechos por suministro de agua, servicios de construcción y operación hidráulica, descarga en la red de drenaje y sus accesorios;
+
+VI. Programar y ordenar la emisión de las órdenes de inspección relativas a los consumos de agua potable y descargas a la red de drenaje;
+
+VII. Programar, ordenar y dirigir los actos de verificación administrativa, inspección y vigilancia, además de la suspensión de las tomas no autorizadas, conforme a lo establecido en la Ley de Aguas del Distrito Federal y demás disposiciones legales y reglamentarias de la materia;
+
+VIII. Ordenar la emisión de autorizaciones para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial;
+
+IX. Autorizar la emisión de dictámenes de factibilidad de otorgamiento del servicio a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, considerando la disponibilidad del agua y de la infraestructura para su prestación;
+
+X. Establecer los mecanismos de coordinación con los Órganos - Político Administrativos para regular la participación que corresponde a estos en la atención de las solicitudes de conexión a las redes hidráulicas;
+
+XI. Atender oportuna y eficazmente, por si o, en su caso, por conducto de los Órganos - Político Administrativos, las solicitudes para la instalación reconstrucción y cambio de diámetro de tomas de agua potable, residual tratada y descargas domiciliarias;
+
+XII. Suscribir los documentos relativos al ejercicio de las atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia, y las demás funciones que se deriven de la normatividad aplicable;
+
+XIII. Programar y supervisar campañas periódicas e instrumentos de participación ciudadana que instruyan el uso eficiente del agua y su conservación en todas las fases del ciclo hidrológico, e impulsen una cultura del agua que considere a este elemento como un recurso vital, escaso, finito y vulnerable mediante la educación ambiental; así como dirigir programas, estudios y acciones para el aprovechamiento racional del agua, la conservación de su calidad y el pago oportuno de los derechos por el suministro de ésta; y
+
+XIV. Las demás que le confieren otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 204.
 
-(DEROGADO, G.O. 19 DE ENERO DE 2007)
+La Dirección Jurídica tiene las siguientes atribuciones:
+
+I. Ejercer las facultades como apoderado general del Sistema de Aguas de la Ciudad de México o del Gobierno del Distrito Federal, en términos de la normativa aplicable;
+
+II. Coordinarse con la Dirección Ejecutiva Jurídica de la Secretaría del Medio Ambiente y con apoyo de la Consejería Jurídica, cuando así se le requiera, para la defensa de los juicios que contra actos del Sistema de Aguas de la Ciudad de México se promuevan;
+
+III. Dirigir, coordinar y supervisar los asuntos jurídicos del Sistema de Aguas de la Ciudad de México;
+
+IV. Asesorar jurídicamente a las diversas áreas que conforman al Sistema de Aguas de la Ciudad de México;
+
+V. Pronunciar opinión jurídica sobre las modificaciones a las disposiciones jurídicas que propongan las otras Unidades Administrativas del Sistema de Aguas de la Ciudad de México o dependencias de la Administración;
+
+VI. Revisar y dictaminar los convenios, contratos, acuerdos, y en general todos y cada uno de los instrumentos jurídicos, que el Sistema de Aguas de la Ciudad de México suscriba o celebre con empresas, organismos públicos, privados o sociales, nacionales e internacionales, así como llevar el registro de los mismos;
+
+VII. Coordinar con la Procuraduría Fiscal del Distrito Federal, la defensa de los asuntos de naturaleza fiscal, en los que sea parte el Sistema de Aguas de la Ciudad de México, como órgano auxiliar de la Secretaría de Finanzas;
+
+VIII. Designar a los Servidores Públicos autorizados y adscritos a la Dirección Jurídica para representar, contestar demandas, denuncias, querellarse, comparecer a audiencias y a todo tipo de diligencias y actuaciones judiciales, ofrecer pruebas, interponer recursos, intervenir en los juicios de amparo, así como en la elaboración de los informes previos y con justificación y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses del Sistema de Aguas de la Ciudad de México;
+
+IX. Conocer, substanciar y resolver el procedimiento administrativo relativo a la aplicación de sanciones y medidas de seguridad a que se refiere la Ley de Aguas del Distrito Federal, previa integración y envío del expediente integrado con motivo de la verificación, inspección y vigilancia;
+
+X. Conocer, substanciar y resolver los recursos administrativos de inconformidad, revocación, cancelación, reconsideración y en general de todos aquellos actos emitidos por el Sistema de Aguas de la Ciudad de México, con excepción de aquellos que hubiesen sido encomendados a otras Unidades Administrativas del mismo;
+
+XI. Formular y presentar denuncias o querellas ante el Ministerio Público competente, de los hechos delictuosos por los que se afecte el Sistema de Aguas, así como la prestación de los servicios públicos a su cargo; otorgar el perdón legal cuando proceda, previo acuerdo con el Director General, así como denunciar o querellarse ante el Ministerio Público de los hechos que puedan constituir delitos de los servidores públicos del Sistema de Aguas de la Ciudad de México, en el desempeño de sus funciones, dando la intervención que corresponda a la Contraloría General del Distrito Federal;
+
+XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
+
+XIII. Expedir copias cerificadas (sic), previo cotejo de los originales de los documentos que obren en los expedientes integrados en la Dirección Jurídica y Dirección General para el desarrollo de las funciones encomendadas; y
+
+XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Director General.
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION VI
 
@@ -12185,3 +12471,9 @@ G.O. 20 DE MAYO DE 2008.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficia (sic) del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 5 DE AGOSTO DE 2008.
+
+Primero. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Finanzas y la Oficialía Mayor.
