@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-sobre-el-uso-de-aparatos-electro-mecanicos-11494"
 country: "mx"
 rank: "reglamento"
 publication_date: "1956-08-30"
-last_updated: "1956-08-30"
+last_updated: "2008-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO SOBRE USO DE APARATOS ELECTRO - MECANICO MUSICALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SINDICATO DE MUSICOS DE MARAVATIO DE OCAMPO, MICHOACAN, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el jueves 30 de agosto de 1956.
 
@@ -130,3 +132,15 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Mich., a 11 de julio de 1956.- DIPUTADO
 Por tanto mando se imprima, publique, circule y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich., a 22 de agosto de 1956.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Gral. Dámaso Cárdenas. Firmado.- EL SECRETARIO GENERAL DE GOBIERNO.- Lic. Emilio Romero Espinosa. Firmado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P. O. 5 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento sobre uso de aparatos electro-mecánicos musicales, aprobado por el Congreso del Estado el 11 de julio de 1956, así como cualquier otra disposición que se oponga al presente.
