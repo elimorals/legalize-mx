@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2006-12-26"
+last_updated: "2008-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -427,43 +427,19 @@ V. Procedimiento a seguir en caso de no realizarse la elección del Magistrado e
 
 ###### Artículo 48.
 
-1. El Congreso del Estado deberá, a más tardar el día primero de junio del año que corresponda, designar a los consejeros electorales del Consejo Electoral del Estado, conforme a lo siguiente:
-
-La Comisión de Asuntos Electorales somete a la Asamblea el proyecto de convocatoria, para su aprobación y publicación, dirigida la sociedad en general, para que presenten candidatos ante el Congreso del Estado con copias suficientes para las fracciones parlamentarias. Esta convocatoria deberá contener cuando menos;
-
-a) El cargo vacante;
-
-b) Los requisitos de elegibilidad para el desempeño del cargo, conforme a las disposiciones constitucionales y legales aplicables al caso;
-
-c) El lugar y la fecha en que puedan recibirse las propuestas y los documentos que acrediten que el candidato reúne los requisitos para ocupar el cargo. Los mencionados documentos no serán devueltos a los interesados;
-
-d) El mecanismo de elección;
-
-e) Fecha en que deba realizarse el nombramiento; y
-
-f) Procedimiento a seguir en caso de no realizarse la elección del consejero en los plazos señalados, así como en el caso de que los candidatos propuestos no alcancen la votación requerida.
-
-2. La Comisión de Asuntos Electorales, una vez cerrado el plazo establecido en la convocatoria, elaborará un dictamen individual de cada uno de los ciudadanos propuestos e integrará una lista de candidatos que contendrá, cuando menos, cuatro veces el número de consejeros a elegir, extraídos de entre los ciudadanos propuestos que reúnan los requisitos que establece esta ley. Invariablemente, se debe señalar en dichas listas, el origen de cada una de las propuestas.
-
-3. Presentado el dictamen con la lista de candidatos, la Asamblea realiza la elección mediante el sistema de votación por cédula. Las propuestas de consejeros serán votadas de manera individual y sucesiva en orden alfabético. Se requiere la votación favorable de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura en la sesión para aprobar el nombramiento.
-
-4. Si realizadas las tres rondas de votación a que se refiere la Ley Electoral no se cubriera la totalidad de consejeros a elegir, la Comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. En este último caso se seguirá el procedimiento señalado en los incisos anteriores.
-
-5. Para cubrir las ausencias de los consejeros electorales, ya sean temporales o definitivas, serán electos siete consejeros suplentes conforme al mismo procedimiento.
+(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 49.
 
-1. Las ausencias temporales serán cubiertas de manera rotativa por los consejeros suplentes; en caso de falta absoluta de algún Consejero Electoral propietario, los integrantes del Congreso, por insaculación de entre los suplentes designará a quien ocupará el cargo como propietario y notificará al Congreso del Estado para que proceda a tomarle la protesta de Ley previamente a la toma de posesión del cargo.
+(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 50.
 
-1. En caso de vacante para el cargo de Consejero Electoral del Estado de Jalisco, la comisión de Asuntos Electorales, de oficio o a petición del Consejo Electoral, inicia el procedimiento para la elección de conformidad con las disposiciones de este apartado.
+(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 51.
 
-1. El acuerdo en el que se propongan candidatos al cargo de consejero electoral, debe señalar la duración del nombramiento, especificando la fecha de inicio y terminación del mismo.
-
-2. Los candidatos electos deben tomar protesta de Ley ante el Congreso del Estado, previamente a la toma de posesión del cargo.
+(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ### CAPÍTULO IX. PROCEDIMIENTO PARA LA ELECCIÓN DE LOS INTEGRANTES DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
@@ -2131,7 +2107,7 @@ III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o supe
 
 1. Los proveedores serán responsables por los defectos, vicios ocultos o falta de calidad en general, en los bienes o servicios o por cualquier otro incumplimiento en que hubieren incurrido en los términos del pedido, de conformidad a los términos establecidos en la fianza presentada.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 181.
 
@@ -2308,3 +2284,35 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Secretario General del Congreso del Estado, cantará con 180 días para realizar la traducción de la Constitución Política, Código Civil, Código de Procedimientos Civiles, Código de Asistencia Social, Código Penal y Código de Procedimientos Penales, todos ellos del Estado de Jalisco, al brile (sic) y a las lenguas Náhuatl y Wixarica.
 
 TERCERO. El Poder Legislativo deberá llevar a cabo los ajustes presupuestales en el ejercicio fiscal 2007, para dar cumplimiento al presente decreto.
+
+P.O. 5 DE AGOSTO DE 2008.
+
+Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo: Para efectos de lo dispuesto en el artículo 232 del presente ordenamiento legal se tomará como referencia el proceso electoral del 2009.
+
+Tercero: Se abroga la Ley Electoral del Estado de Jalisco.
+
+Cuarto: Se abroga la Ley de Participación Ciudadana para el Estado de Jalisco.
+
+Quinto: Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Sexto: El personal del Instituto Electoral del Estado de Jalisco que con motivo del presente decreto concluya sus funciones o deba ser objeto de cambios en su adscripción de trabajo o funciones será con estricto respeto a sus derechos laborales.
+
+Séptimo: El titular de la Contrataría del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, será designado por el honorable Congreso del Estado a más tardar el día 30 de Agosto de 2008.
+
+Octavo: El Consejo General del Instituto Electoral emitirá los acuerdos necesarios tendientes a hacer efectivas las disposiciones de este Código así como expedir los reglamentos que del mismo se derivan a más tardar en cien días a partir de la entrada en vigor.
+
+Noveno: En un plazo de treinta días, contados a partir de la entrada en vigor del presente decreto, los partidos políticos registrados o acreditados ante el Instituto Electoral deberán retirar o suprimir la propaganda colocada en lugares públicos que contravenga disposiciones de este Código.
+
+Décimo: Se derogan todas las disposiciones que se oponga (sic) al presente decreto.
+
+Undécimo: Para efectos de lo dispuesto en el artículo tercero transitorio del decreto número 22228/LVIII/08, publicado el cinco de julio de 2008, el Congreso del Estado nombrará una comisión especial con integración paritaria para que, una vez que no exista impedimento emanado de alguna resolución de carácter judicial, emita la convocatoria, analice las propuestas de candidatos a ocupar los cargos de Consejero Electoral y Consejero Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco. Asimismo, esta comisión debe presentar al pleno dictamen con los nombres de aquellos que reúnan los requisitos de elegibilidad, para que designe a los que habrán de ocupar los cargos respectivos.
+
+Duodécimo: De conformidad con lo dispuesto en el artículo cuarto transitorio del decreto número 22228/LVIII/08, publicado el cinco de julio de 2008, el Titular del Poder Ejecutivo deberá realizar las gestiones y adecuaciones presupuestarias necesarias a efecto de que se aplique la fórmula de financiamiento público en las fechas indicadas, considerando que la fórmula deberá aplicarse a todos los partidos políticos que actualmente cuenten con registro o acreditación ante el Instituto Electoral.
+
+Décimo tercero: El Congreso del Estado de Jalisco deberá iniciar el procedimiento legislativo a efecto de adecuar la Ley Orgánica del Poder Legislativo para dotar de competencia a las comisiones de Responsabilidades y de Asuntos Electorales en materia de responsabilidad administrativa del Consejero Presidente y de los Consejeros Electorales.
+
+Décimo cuarto: De conformidad con lo dispuesto en el artículo tercero transitorio del decreto número 22228/LVIII/2008, publicado el cinco de julio de 2008, el Titular del Poder Ejecutivo deberá realizar las gestiones y adecuaciones presupuestarias necesarias para efecto de que se proceda a pagar los recursos que por concepto de indemnización le corresponda a los Consejeros Electorales en funciones que opten por no participar en el proceso de integración del nuevo Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, o que participando, no resultaren electos.
+
+Décimo Quinto (sic): Se deroga lo dispuesto por los artículos 48 al 51 del Reglamento de la Ley Orgánica del Poder Legislativo del estado de Jalisco, contenida en el decreto 20544.
