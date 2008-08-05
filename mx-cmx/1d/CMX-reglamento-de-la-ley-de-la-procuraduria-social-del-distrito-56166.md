@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-la-procuraduria-social-del-distrito-561
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-06"
-last_updated: "2007-08-06"
+last_updated: "2008-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56166&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-07-12"
 
 REGLAMENTO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Gaceta Oficial de Distrito Federal, el lunes 6 de agosto de 2007.
 
@@ -88,9 +88,13 @@ IV. Un Subprocurador de Defensa y Exigibilidad de Derechos Ciudadanos;
 
 V. Un Coordinador General de Asuntos Jurídicos;
 
-VI. Un Coordinador de Programas Sociales;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-VII. Un Coordinador Administrativo, y
+VI. Un Coordinador General de Programas Sociales;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VII. Un Coordinador General Administrativo, y
 
 VIII. Las demás unidades administrativas necesarias para la realización de sus funciones.
 
@@ -230,7 +234,9 @@ V. Iniciar, sustanciar y resolver el procedimiento administrativo de aplicación
 
 VI. Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la Ley y en el artículo 68 de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal;
 
-VII. Proporcionar los servicios relacionados a orientación, quejas y conciliación en materia administrativa, de arrendamiento y condominal;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VII. Proporcionar los servicios relacionados a asesoría, orientación, quejas, conciliación y amigable composición en materia administrativa, condominal y de arrendamiento;
 
 VIII. Establecer los lineamientos y coordinar las acciones que para la atención de la ciudadanía en materia condominal y administrativa, se requiera implementar en las Oficinas Delegacionales;
 
@@ -248,13 +254,27 @@ XIV. Apoyar al Procurador en la promoción, conducción, coordinación, vigilanc
 
 XV. Atender y resolver las consultas jurídicas que en materia condominal o administrativa, se le planteen;
 
-XVI. Certificar y expedir copias de los documentos que obren en los archivos de la Subprocuraduría, y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
-XVII. Las demás atribuciones que le confieran otros ordenamientos jurídicos, las delegadas expresamente por el Procurador y las que correspondan a las unidades administrativas adscritas a la misma.
+XVI. Certificar y expedir copias de los documentos que obren en los archivos de la Subprocuraduría;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XVII. Asistir a las asambleas condominales en calidad de asesor, cuando se considere oportuno y lo soliciten las partes interesadas, y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+XVIII. Las demás atribuciones que le confieran otros ordenamientos jurídicos, las delegadas expresamente por el Procurador y las que correspondan a las unidades administrativas adscritas a la misma.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+
+La atribución prevista en la fracción V, también podrá ejercerse por conducto de la Jefatura de Unidad Departamental de Procedimientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Coordinación General de Asuntos Jurídicos:
+Corresponde a la Coordinación General de Asuntos Jurídicos, por sí misma o por conducto de la Subdirección Jurídica:
 
 I. Ejercer la representación legal de la Procuraduría en todos los asuntos en los que esta sea parte;
 
@@ -266,7 +286,9 @@ IV. Realizar estudios y emitir opiniones derivados de consultas jurídicas formu
 
 V. Formular proyectos de convenios y bases de colaboración con instituciones diversas;
 
-VI. Formular y/o revisar los aspectos jurídicos de los proyectos de contratos que se pretendan celebrar por parte de la Procuraduría;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VI. Formular y/o revisar los aspectos jurídicos de los contratos que se celebren o pretendan celebrar por parte de la Procuraduría;
 
 VII. Emitir opiniones sobre los aspectos jurídicos de los procesos de licitación, invitación restringida o adjudicación directa en los que participe la Procuraduría;
 
@@ -294,9 +316,11 @@ XVIII. Certificar y expedir copias de los documentos que obren en los archivos d
 
 XIX. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos jurídicos y administrativos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 10.
 
-Corresponde a la Coordinación de Programas Sociales:
+Corresponde a la Coordinación General de Programas Sociales:
 
 I. Someter a la consideración del Procurador las propuestas, mecanismos y procedimientos para impulsar y operar los programas sociales de la Procuraduría;
 
@@ -324,9 +348,11 @@ XII. Certificar y expedir copias de los documentos que obren en el archivo de la
 
 XIII. Las demás atribuciones que le confieren otros ordenamientos jurídicos y las delegadas expresamente por el Procurador.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 11.
 
-Corresponde a la Coordinación Administrativa:
+Corresponde a la Coordinación General Administrativa:
 
 I. Administrar los recursos humanos, materiales y financieros de la Entidad, conforme a las políticas, lineamientos, criterios y normas establecidas por la Oficialía Mayor y la Secretaría de Finanzas;
 
@@ -340,11 +366,15 @@ V. Planear, organizar, controlar y suministrar oportunamente, las adquisiciones 
 
 VI. Certificar los nombramientos que se requieran, de los servidores públicos que sean señalados como autoridades responsables en los procedimientos administrativos o jurisdiccionales;
 
-VII. Presidir las reuniones del Comité de Adquisiciones, del Comité de Capacitación y del Comité de Enajenación;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VII. Participar en las reuniones de los Comités y Subcomités de los que sea integrante;
 
 VIII. Supervisar y llevar a cabo el cierre del ejercicio anual de la Entidad;
 
-IX. Convocar y dirigir, de conformidad con la normatividad aplicable, los concursos de proveedores y contratistas para la adquisición de bienes y servicios;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+IX. Supervisar la convocatoria y dirección, de conformidad con la normatividad aplicable, de los concursos de proveedores y contratistas para la adquisición de bienes y servicios;
 
 X. Previo acuerdo con el Procurador, llevar a cabo la adquisición de bienes, contratación de servicios y arrendamientos de bienes muebles, observando las disposiciones jurídicas y administrativas aplicables;
 
@@ -374,9 +404,15 @@ V. Sustanciar las aclaraciones a instancia de parte, que surjan de los laudos;
 
 VI. Aplicar, dentro del ámbito de su competencia, los medios de apremio señalados en la Ley y en el artículo 68 de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal;
 
-VII. De oficio o a petición de parte, iniciar, sustanciar y resolver el procedimiento administrativo de aplicación de sanciones previsto en la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal; y
+VII. De oficio o a petición de parte, iniciar, sustanciar y resolver el procedimiento administrativo de aplicación de sanciones previsto en la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal; y (sic)
 
-VIII. Llevar a cabo el registro de los nombramientos de los administradores de los condominios en el Distrito Federal en los términos de la normatividad aplicable; autorizar los libros de asambleas de condóminos del Distrito Federal y llevar su registro; así como asistir a las asambleas en calidad de asesores.
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+VIII. Llevar a cabo el registro de los nombramientos de los administradores de los condominios en el Distrito Federal en los términos de la normatividad aplicable; autorizar los libros de asambleas de condóminos del Distrito Federal y llevar su registro; así como asistir a las asambleas en calidad de asesores, y
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
+IX. Iniciar, substanciar y formular el acuerdo o sugerencia correspondiente en el procedimiento de amigable composición, en materia de arrendamiento inmobiliario.
 
 B. En materia de queja administrativa, por conducto del Responsable de Atención Ciudadana en esa materia:
 
@@ -605,3 +641,13 @@ Quinto. Se abroga el Reglamento de la Ley de la Procuraduría Social del Distrit
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de julio de dos mil siete.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a diez de julio de dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRAD CASAUBON.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 5 DE AGOSTO DE 2008.
+
+Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. - Los procedimientos administrativos de aplicación de sanciones que se encuentren en trámite, así como los que se inicien durante el año dos mil ocho, serán substanciados y resueltos por la Jefatura de Unidad Departamental de Procedimientos.
