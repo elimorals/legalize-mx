@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-del-valle-455
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-14"
-last_updated: "2005-07-14"
+last_updated: "2008-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 14 de julio de 2005.
 
@@ -87,6 +87,8 @@ La Junta Directiva se integrará de acuerdo con lo establecido por el Decreto y 
 
 ### CAPITULO III. DEL RECTOR
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 9.
 
 El Rector será nombrado por el Gobernador del Estado a propuesta del Secretario de Educación.
@@ -123,31 +125,43 @@ Para el estudio, planeación, despacho, control y evaluación de los asuntos de 
 
 I. Dirección de División de Ingeniería Industrial y de Sistemas.
 
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
 II. Dirección de División de Ingeniería Mecánica y Electrónica.
 
 III. Dirección de División de Ingeniería en Informática.
 
 IV. Dirección de Administración y Finanzas.
 
-V. Departamento de Control Escolar.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-VI. Departamento de Extensión Universitaria y Vinculación.
+V. Subdirección de Apoyo y Desarrollo Académico.
 
-VII. Departamento de Planeación, Programación y Evaluación.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+VI. Subdirección de Extensión Universitaria y Vinculación.
+
+VII. (DEROGADA, G.G. 6 DE AGOSTO DE 2008)
 
 VIII. Abogado General.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la estructura orgánica y presupuesto que le sean autorizados.
 
-### CAPÍTULO IV. DE LOS DIRECTORES Y JEFES DE DEPARTAMENTO
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE AGOSTO DE 2008)</small>
+
+### CAPÍTULO IV. DE LOS DIRECTORES Y SUBDIRECTORES
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 12.
 
-Al frente de cada Dirección y Departamento habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto de egresos autorizado.
+Al frente de cada Dirección y Subdirección habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto de egresos autorizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 13.
 
-Corresponde a los directores y jefes de departamento:
+Corresponde a los directores y subdirectores:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -175,9 +189,11 @@ XII. Participar, en el ámbito de su competencia, en la elaboración y actualiza
 
 XIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
 
-Queda excluido de este artículo el titular del Departamento de Recursos Financieros y Materiales, quien atenderá directamente los asuntos de su competencia con el Director de Administración y Finanzas de la Universidad.
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
 
-### CAPÍTULO V. DE LAS DIRECCIONES, Y ABOGADO GENERAL Y DEPARTAMENTOS
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE AGOSTO DE 2008)</small>
+
+### CAPÍTULO V. DE LAS DIRECCIONES, SUBDIRECCIONES Y ABOGADO GENERAL
 
 ###### Artículo 14.
 
@@ -207,11 +223,15 @@ XI. Conducir los procesos relacionados con el ingreso, promoción y permanencia 
 
 XII. Vigilar el cumplimiento de los planes y programas de estudio y de las actividades de investigación de la División a su cargo.
 
-XIII. Proponer la actualización y mejora a los contenidos temáticos de la División a su cargo.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+XIII. Proponer la actualización y mejora a los contenidos temáticos de los programas de estudio de la División a su cargo.
 
 XIV. Participar en la evaluación curricular de la carrera a su cargo.
 
-XV. Promover mecanismos de coordinación con el sector productivo para la realización de prácticas profesionales de los alumnos de la Universidad.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+XV. Promover mecanismos de coordinación con el sector productivo para la realización de estancias y estadías de los alumnos de la Universidad.
 
 XVI. Integrar la planta docente de la División a su cargo y someterla a la consideración del Rector.
 
@@ -257,13 +277,19 @@ XV. Integrar los estados financieros de la Universidad y presentarlos al Rector.
 
 XVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 16.
 
-Corresponde al Departamento de Control Escolar:
+Corresponde a la Subdirección de Apoyo y Desarrollo Académico:
 
-I. Organizar y ejecutar las funciones de registro y control escolar de los alumnos de la Universidad.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-II. Elaborar las constancias, certificados, diplomas y títulos de los estudiantes de la Universidad.
+I. Organizar y controlar las funciones de registro y control escolar de los alumnos de la Universidad.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+II. Coordinar la elaboración de las constancias, actas, certificados, diplomas y títulos de los estudiantes de la Universidad.
 
 III. Atender las solicitudes de revalidación y equivalencia de estudios realizados en la Universidad.
 
@@ -271,7 +297,9 @@ IV. Realizar y controlar el proceso de inscripción, reinscripción, cambios, ba
 
 V. Coordinar sus acciones con las instancias competentes para la aplicación de exámenes a los aspirantes a ingresar a la Universidad.
 
-VI. Llevar el seguimiento y control de las evaluaciones académicas de los alumnos de la Universidad.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+VI. Llevar el seguimiento y registro de las evaluaciones académicas de los alumnos de la Universidad.
 
 VII. Proponer al Rector el calendario escolar, en coordinación con las Direcciones de División.
 
@@ -279,11 +307,19 @@ VIII. Proponer, difundir y vigilar el cumplimiento de las políticas, lineamient
 
 IX. Establecer políticas, lineamientos y procedimientos para el otorgamiento de la documentación escolar de los alumnos de la Universidad.
 
-X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+X. Coordinar y supervisar la prestación de los servicios que ofrece el Centro de Información de la Universidad.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 17.
 
-Corresponde al Departamento de Extensión Universitaria y Vinculación:
+Corresponde a la Subdirección de Extensión Universitaria y Vinculación:
 
 I. Proponer al Rector programas de extensión universitaria y llevar a cabo su ejecución.
 
@@ -297,31 +333,23 @@ V. Promover, organizar, vigilar y evaluar el desarrollo de actividades culturale
 
 VI. Promover y difundir las carreras y programas académicos y de investigación de la Universidad.
 
-VII. Operar el Centro de Idiomas de la Universidad.
+VII. (DEROGADA, G.G. 6 DE AGOSTO DE 2008)
 
-VIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+VIII. Coordinar la prestación del servicio social de los alumnos de la Universidad.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+IX. Integrar, operar y mantener actualizado el Sistema Integral de Información de la Universidad.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+X. las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
 
 ###### Artículo 18.
 
-Corresponde al Departamento de Planeación, Programación y Evaluación:
-
-I. Coordinar la elaboración del programa de desarrollo de la Universidad, así como las estrategias y mecanismos para su ejecución.
-
-II. Proyectar el desarrollo de la Universidad a corto, mediano y largo plazos, con la participación de las demás unidades administrativas del Organismo.
-
-III. Proponer modelos de planeación global de la Universidad, vigilando la congruencia entre sus acciones, objetivos y recursos.
-
-IV. Proponer políticas y mecanismos para la ejecución de los procesos de planeación, presupuestación evaluación de la Universidad.
-
-V. Realizar el seguimiento y evaluación de las funciones de la Universidad, proponiendo acciones y estrategias para su cumplimiento.
-
-VI. Proponer la congruencia de los planes y programas de la Universidad con las estrategias, objetivos y prioridades del desarrollo estatal.
-
-VII. Evaluar y dar seguimiento al cumplimiento de los convenios que celebre la Universidad.
-
-VIII. Formular proyectos para que los programas académicos de la Universidad se orienten a atender las necesidades del sector productivo.
-
-IX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Rector.
+(DEROGADO, G.G. 6 DE AGOSTO DE 2008)
 
 ###### Artículo 19.
 
@@ -333,9 +361,13 @@ II. Asesorar jurídicamente al Rector en los asuntos competencia de la Universid
 
 III. Formular y revisar los proyectos de reglamentos, acuerdos, convenios, contratos y cualquier otro ordenamiento que pretenda expedir o suscribir la Universidad.
 
-IV. Proporcionar asesoría jurídica en materia educativa al personal de la Universidad.
+> <small>(REFORMADA G.G. 6 DE AGOSTO DE 2008)</small>
 
-V. Vigilar la aplicación de las disposiciones que regulan las relaciones de trabajo en la Universidad.
+IV. Proporcionar asesoría jurídica en materia educativa a las unidades administrativas de la Universidad.
+
+> <small>(REFORMADA G.G. 6 DE AGOSTO DE 2008)</small>
+
+V. Asesorar en la aplicación de las disposiciones que regulan las relaciones de trabajo en la Universidad.
 
 VI. Actuar como órgano de consulta y difusión de las disposiciones jurídicas que rijan la organización y el funcionamiento de la Universidad.
 
@@ -349,9 +381,11 @@ VIII. Las demás que le confieren otras disposiciones aplicables y aquellas que 
 
 El Rector será suplido en sus ausencias temporales hasta por 15 días, por el Director que aquél designe. En las mayores de 15 días, por el servidor público que designe el Presidente de la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 21.
 
-Los Directores de División y jefes de departamento serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Rector.
+Los Directores de División y Subdirectores serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Rector.
 
 T R A N S I T O R I O S
 
@@ -369,6 +403,16 @@ SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DE LA JUNTA DIR
 
 DR. FRANCISCO JOSE PLATA OLVERA
 
-RECTOR DE LA UNIVERSIDAD POLITECNICA DEL VALLEDE MEXICO Y SECRETARIO DE LA JUNTA DIRECTIVA
+RECTOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 6 DE AGOSTO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
