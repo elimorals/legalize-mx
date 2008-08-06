@@ -1,0 +1,766 @@
+---
+title: "LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MEXICO -ANTES- LEY DEL ADULTO MAYOR DEL ESTADO DE MEXICO"
+identifier: "MEX-ley-de-las-personas-adultas-mayores-del-estado-de-mexico-62524"
+country: "mx"
+rank: "ley"
+publication_date: "2008-08-06"
+last_updated: "2008-08-06"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62524&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mex"
+scjn_id: "62524"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "25 SECCION CUARTA"
+reform_count: "8"
+scjn_last_update: "2026-04-10"
+issue_date: "2008-08-06"
+state: "MEX"
+---
+# LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MEXICO -ANTES- LEY DEL ADULTO MAYOR DEL ESTADO DE MEXICO
+
+LEY DEL ADULTO MAYOR DEL ESTADO DE MEXICO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de agosto de 2008.
+
+ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NÚMERO 182
+
+LA H. "LVI" LEGISLATURA DEL ESTADO DE MÉXICO
+
+DECRETA:
+
+LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 1.
+
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de México y tiene por objeto garantizar el ejercicio de los derechos de los adultos mayores, así como establecer las bases y disposiciones para su cumplimiento, a efecto de mejorar su calidad de vida.
+
+###### Artículo 2.
+
+Para efectos de esta Ley se entenderá por:
+
+I. Ley: Ley del Adulto Mayor del Estado de México;
+
+II. Adulto Mayor: Hombres y mujeres a partir de los 60 años de edad;
+
+III. Asistencia Social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+IV. Atención Integral: Satisfacción de las necesidades de los adultos mayores para facilitarles una vejez plena tomando en cuenta sus hábitos, capacidades funcionales, usos y costumbres;
+
+V. Bienestar Social: Resultado de las acciones que realizan las dependencias, organismos auxiliares y entidades de la administración pública estatal y municipal, las familias y la sociedad organizada tendientes a modificar y mejorar las condiciones de vida del adulto mayor;
+
+VI. Calidad del Servicio: Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
+
+VII. CEMyBS: Consejo Estatal de la Mujer y Bienestar Social del Estado de México;
+
+VIII. Comité: Comité Estatal para la Atención del Adulto Mayor;
+
+IX. DIFEM: Sistema para el Desarrollo Integral de la Familia del Estado de México;
+
+X. SMDIF: Sistemas Municipales para el Desarrollo Integral de la Familia;
+
+XI. Geriatría: Rama de la medicina que se dedica al estudio de las enfermedades propias de los Adultos Mayores, así como a su prevención y tratamiento;
+
+XII. Gerontología: Ciencia que trata del envejecimiento del organismo humano y a los fenómenos que la caracterizan;
+
+XIII. SEDESEM: Secretaría de Desarrollo Social del Estado de México;
+
+XIV. Tanatología: Conjunto de conocimiento (sic) médicos relativos a la muerte; y
+
+XV. Vulnerabilidad: Condición de indefensión jurídica, social, económica o física, en la que se puede encontrar el Adulto Mayor.
+
+###### Artículo 3.
+
+La aplicación y seguimiento de las disposiciones de esta Ley corresponde:
+
+l. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y del Consejo Estatal de la Mujer y Bienestar Social y Órgano Rector; y
+
+II. A los Gobiernos Municipales, en el ámbito de sus respectivas competencias, por conducto de los SMDIF.
+
+## TÍTULO SEGUNDO. DE LOS PRINCIPIOS Y DERECHOS
+
+### CAPÍTULO I. DE LOS PRINCIPIOS
+
+###### Artículo 4.
+
+Son principios rectores en la observación y aplicación de esta Ley:
+
+l. Autonomía y Autorrealización: Las acciones que se realicen en beneficio de los adultos mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal, comunitario y la cantidad del desarrollo productivo de los Adultos Mayores;
+
+II. Integración: La participación de los adultos mayores en todos los órdenes de la vida pública.
+
+En los ámbitos de su interés serán consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención;
+
+III. Equidad: El acceso de los Adultos Mayores a condiciones de igualdad y proporcionalidad, en los términos establecidos;
+
+IV. Corresponsabilidad: La colaboración entre las personas, grupos sociales y órdenes de gobierno, para la atención de los adultos mayores en forma concurrente y responsable;
+
+V. Atención Preferente: La atención que proporcionen las dependencias, organismos auxiliares y entidades de la administración pública estatal y municipal, mediante la implementación de programas en beneficio de adultos mayores, acorde a sus diferentes necesidades, características y circunstancias;
+
+VI. Dignificación: El derecho de los adultos mayores a que se respete su integridad física, psíquica y moral, así como la protección a su imagen, autonomía, pensamiento, dignidad y valores, los cuales deberán ser considerados en los planes y programas gubernamentales y en las acciones que emprendan las organizaciones privadas y sociales.
+
+### CAPÍTULO II. DE LOS DERECHOS
+
+###### Artículo 5.
+
+Son derechos de los adultos mayores, además de aquellos que les reconozcan otras leyes, los siguientes:
+
+l. Disfrutar plenamente, sin discriminación o distinción alguna, de los derechos que ésta y otras leyes consagran;
+
+II. Vivir en una sociedad sensibilizada con respeto a sus problemas, sus méritos, sus responsabilidades, sus capacidades y experiencias;
+
+III. Recibir protección de su familia, de la sociedad y de las instituciones públicas y privadas, estatales y municipales;
+
+IV. Acceder en igualdad de oportunidades, a los programas sociales que para tal efecto establezcan las instituciones públicas y privadas;
+
+V. Participar en la planeación integral del desarrollo social y productivo para promover e incidir acciones a favor de los adultos mayores;
+
+VI. Recibir información y acceso a los derechos del Adulto Mayor;
+
+VII. Recibir trato digno y apropiado de las autoridades estatales y municipales en el ejercicio y respeto de sus derechos;
+
+VIII. Gozar de condiciones apropiadas de reclusión cuando se encuentren privados de su libertad;
+
+IX. Recibir asesoría jurídica en los procedimientos administrativos y judiciales en que sea parte y contar con un representante legal cuando lo considere necesario;
+
+X. Decidir, cuando tenga capacidad, sobre la tutela de su persona y bienes, para el caso de pérdida de capacidad de autogobierno;
+
+XI. Decidir libremente el ingreso a una casa hogar o albergue, así como el ejercicio pleno de sus derechos en casos de internamientos involuntarios;
+
+XII. Ser sujetos de programas de asistencia social en caso de desempleo, discapacidad y pérdida de sus medios de subsistencia;
+
+XIII. Ser sujetos de programas para tener acceso a una casa hogar o albergue u otras alternativas de atención integral, si se encuentra en situación de riesgo o desamparo;
+
+XIV. Ser sujetos de programas destinados al cuidado, atención, enseñanza, sana recreación y esparcimiento de los adultos mayores;
+
+XV. Recibir un trato digno y respetuoso, así como al disfrute de sus derechos y libertades fundamentales;
+
+XVI. Mantener relaciones afectivas con sus familiares u otras personas con las que desee compartir y a recibir visitas dentro de los horarios adecuados;
+
+XVII. Recibir información previa de todos los servicios que prestan las Estancias del Adulto Mayor y del costo de estos;
+
+XVIII. No ser trasladado ni removido de las Estancias del Adulto Mayor sin que medie consentimiento, excepto si se le informa por escrito y con la debida anticipación, las causas del traslado o remoción;
+
+XIX. Compartir dormitorio, cuando ambos cónyuges o compañeros sean residentes, siempre que las facilidades del establecimiento lo permitan;
+
+XX. Tener acceso preferente a los servicios de salud y a la atención hospitalaria inmediata en casos de emergencia;
+
+XXI. Acceder a servicios médicos integrales y a paquetes de prevención de salud, así como a recibir en los términos que corresponda, medicamentos, prótesis, tratamientos y rehabilitación necesarios para mantener su salud;
+
+XXII. Tener acceso a toda la información gerontológica y tanatológica disponible, para incrementar su cultura, y llevar a cabo acciones de prevención y preparación para la senectud;
+
+XXIII. Obtener productos de calidad con componentes gerontológicos y geriátricos en los diversos niveles de atención a la salud;
+
+XXIV. Contar con una cartilla médica para el control de su salud, así como a recibir gratuitamente las vacunas y medicamentos necesarios, en términos de la Ley de la materia;
+
+XXV. Ser informados respecto de su condición de salud y del tratamiento que requiere;
+
+XXVI. Oponerse a recibir tratamiento médico experimental o con exceso de medicamentos;
+
+XXVII. Vivir en entornos seguros y dignos que cumplan con sus necesidades y requerimientos;
+
+XXVIII. Acceder a programas de educación y capacitación que les permita seguir siendo productivos;
+
+XXIX. Gozar de igualdad de oportunidades en el acceso al trabajo, así como de la protección de la Ley en la materia, realizando labores o tareas acordes a su capacidad física e intelectual;
+
+XXX. Acceder a programas de protección jurídica y psicosocial cuando hayan sido afectados por violencia física, sexual, psicológica o patrimonial;
+
+XXXI. Ser beneficiarios de programas sociales que les permitan disfrutar de una vivienda digna, adaptada a sus necesidades;
+
+XXXII. Contar con instalaciones e infraestructura inmobiliaria que les permitan su libre desplazamiento;
+
+XXXIII. Tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público;
+
+XXXIV. Acceder a programas de condonaciones de contribuciones tanto estatales como municipales, de acuerdo a lo establecido en los programas y en las Leyes de la materia;
+
+XXXV. Estar informado de la condonación de contribuciones, así como de los descuentos ofrecidos en su beneficio por las instituciones públicas y privadas;
+
+XXXVI. Obtener oportunamente, la información adecuada en los trámites para su jubilación; y
+
+XXXVII. Acceder a programas de descuentos en establecimientos públicos, privados, y servicios de transporte de pasajeros.
+
+## TÍTULO TERCERO. DE LAS POLÍTICAS PÚBLICAS E INSTANCIAS RESPONSABLES
+
+### CAPÍTULO I. DE LAS POLÍTICAS PÚBLICAS
+
+###### Artículo 6.
+
+El Ejecutivo Estatal y los Presidentes Municipales en sus respectivos ámbitos de competencia, son las instancias responsables de implementar políticas, programas y acciones en beneficio de los adultos mayores, las cuales deberán sustentarse en el Plan de Desarrollo respectivo.
+
+###### Artículo 7.
+
+Las políticas en beneficio de los adultos mayores deberán tener como objetivos:
+
+l. Vigilar y garantizar la defensa y el pleno ejercicio de sus derechos, sean éstos residentes o estén de paso por el Estado;
+
+II. Propiciar las condiciones para un mayor bienestar físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
+
+III. Establecer las bases para la planeación y concertación de acciones entre las instituciones públicas y privadas, para lograr un funcionamiento coordinado en los programas y servicios que presten a este sector de la población;
+
+IV. Fomentar una cultura de aprecio a los adultos mayores para lograr un trato digno, favorecer su revalorización y su plena integración social y así procurar una mayor sensibilidad de conciencia social, respeto, solidaridad y convivencia entre las generaciones, con el fin de evitar toda forma de discriminación y olvido por motivo de su edad;
+
+V. Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a los adultos mayores y garantizar la asistencia social para todas aquellas que por sus circunstancias requieran de protección especial por parte de las instituciones públicas y privadas;
+
+VI. Establecer las bases para la asignación de programas y beneficios sociales, descuentos y estímulos para ese sector de la población, de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Fomentar que las instituciones educativas y de salud establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, con el fin de garantizar la cobertura de los servicios de salud requeridos por la población adulta mayor; y
+
+VIII. Fomentar la realización de estudios e investigaciones sociales de la problemática inherente al envejecimiento que sirvan como herramienta de trabajo a las instituciones del sector público y privado para desarrollar programas en beneficio de la población adulta mayor.
+
+### CAPÍTULO II. DE LAS INSTANCIAS RESPONSABLES
+
+###### Artículo 8.
+
+Corresponde a la Secretaría de Desarrollo Social:
+
+l. Fomentar la participación de los sectores público, social y privado en la promoción, seguimiento y financiamiento de los programas de atención a los adultos mayores;
+
+II. Fomentar la participación de los adultos mayores, de forma individual o colectiva, en la planeación integral del desarrollo social, para promover e incidir en acciones a favor de ellos;
+
+III. Incorporar en el Programa de Desarrollo Social y Combate a la Pobreza, programas y acciones de desarrollo social en beneficio de los adultos mayores;
+
+IV. Promover, a través de las dependencias de la administración pública estatal, programas de asistencia, protección, provisión, participación y atención de sus derechos;
+
+V. Suscribir con los sectores público, social y privado, los convenios que se requieran para la implementación de programas de defensa, protección, provisión, participación y atención a los derechos de los adultos mayores; y
+
+VI. Promover el acceso de los adultos mayores a los programas sociales que establezcan las instituciones públicas y privadas.
+
+###### Artículo 9.
+
+Corresponde a la Secretaría de Salud:
+
+l. Coordinar la política estatal en materia de salud, así como la prestación de los servicios de salud a los adultos mayores, en la Entidad;
+
+II. Promover que los adultos mayores tengan una atención preferente en los servicios de salud, así como una atención hospitalaria inmediata en casos de emergencia;
+
+III. Promover el acceso de los adultos mayores a servicios médicos integrales, paquetes de prevención de salud, medicamentos, prótesis, tratamientos y rehabilitación necesarios;
+
+IV. Difundir información gerontológica, geriátrica y tanatológica así como promover acciones de prevención que permitan a la población en general prepararse para la senectud;
+
+V. Fomentar la formación de recursos humanos y la integración de áreas especializadas en gerontología, geriatría y tanatología en los diferentes niveles de atención a la salud en las clínicas y hospitales del sector público y privado;
+
+VI. Implementar una cartilla médica para adultos mayores, que permita llevar un control del estado de su salud, tanto en instituciones públicas como privadas;
+
+VII. Promover el acceso de los adultos mayores a las vacunas y medicamentos necesarios para mantener su salud;
+
+VIII. Orientar a los adultos mayores acerca de la existencia de tratamientos experimentales y del acceso a los mismos;
+
+IX. Implementar mecanismos de coordinación interinstitucional para proporcionar medicamentos, previo estudio socioeconómico para su distribución, sin costo alguno;
+
+X. Fomentar la capacitación en materia de primeros auxilios, terapias de rehabilitación, técnicas de alimentación y tratamiento de adultos mayores, para aquellas personas que tengan a éstos a su cuidado;
+
+XI.- Coordinar con los sectores público, social y privado, campañas educativas, de capacitación sanitaria y de salud, que contribuyan a mejorar las condiciones de vida de los adultos mayores;
+
+XII. Ampliar la red de atención a los adultos mayores, a través de convenios con instituciones de salud privadas;
+
+XIII. Establecer convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de los adultos mayores en las unidades geriátricas y/o domicilio; y
+
+XIV. Verificar que las casas hogar, albergues, casas de día y centro de atención integral para adultos mayores, cumplan con la normatividad de la materia.
+
+###### Artículo 10.
+
+Corresponde al Sistema para el Desarrollo Integral de la Familia:
+
+l. Implementar programas de asistencia social para que los adultos mayores reciban la protección de su familia, de la sociedad y de los órganos de gobierno estatales y municipales, fomentando una cultura de respeto y dignificación hacia éstos;
+
+II Implementar programas de asistencia social para adultos mayores, en caso de desempleo, discapacidad, pérdida de sus medios de subsistencia;
+
+III. Proporcionar defensa jurídica gratuita a los adultos mayores, poniendo especial cuidado en la protección de su patrimonio personal y familiar;
+
+IV. Proporcionar protección jurídica y psicosocial a los adultos mayores que hayan sido afectados por la violencia física, sexual, psicológica o patrimonial;
+
+V. Promover la creación de establecimientos destinados al cuidado, atención, enseñanza y entretenimiento de los adultos mayores;
+
+VI. Conocer de las quejas y denuncias sobre la violación de los derechos de los adultos mayores, canalizándolos a las autoridades competentes con la finalidad de ejercer las acciones legales correspondientes;
+
+VII. Fomentar el acceso de los adultos mayores que se encuentren en situación de riesgo o desamparo, a casas hogar, albergues u otras alternativas de atención integral;
+
+VIII. Garantizar a los adultos mayores el derecho de ingresar voluntariamente a una casa hogar o albergue, o por el contrario, respetar su decisión a no ser internado;
+
+IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudique a los adultos mayores; y
+
+X. Verificar la atención que reciben los adultos mayores que residan en casas hogar, albergues, casas de día, centros de atención integral, públicos o privados.
+
+### CAPÍTULO I. DEL OBJETO, ATRIBUCIONES Y FUNCIONES
+
+###### Artículo 11.
+
+Corresponde al Consejo Estatal de la Mujer y Bienestar Social:
+
+l. Promover, coordinar, operar y evaluar políticas y programas de apoyo para los adultos mayores y su bienestar social;
+
+II. Coordinar e instrumentar los programas y acciones de atención a los adultos mayores que se deriven de los acuerdos nacionales e internacionales que le sean encomendados;
+
+III. Sensibilizar a la sociedad, respecto de los problemas, necesidades, méritos, capacidades y experiencias de los adultos mayores, Impulsando una cultura de respeto y reconocimiento a éstos;
+
+IV. Proporcionar asesoría jurídica gratuita en los procedimientos administrativos y judiciales en que los adultos mayores sean parte;
+
+V. Impulsar la oportunidad, eficiencia, suficiencia y calidad de los servicios de prevención y atención a la salud de los adultos mayores, ante las instancias de salud del sector público y privado;
+
+VI. Integrar y mantener actualizado un sistema de información que dé cuenta de la situación de los adultos mayores;
+
+VII. Promover el acceso de los adultos mayores a la alimentación, salud, educación, vivienda, práctica del deporte, actividades recreativas y la cultura;
+
+VIII. Promover que los adultos mayores tengan una atención preferente en los establecimientos públicos y privados que prestan servicios al público; y
+
+IX. Suscribir con los sectores público, social y privado, los convenios que se requieran para la implementación de programas y acciones que aseguren el bienestar social de los adultos mayores.
+
+###### Artículo 12.
+
+Corresponde a la Secretaría General de Gobierno:
+
+l. Considerar en las políticas de población, las características y necesidades de los adultos mayores;
+
+II. Gestionar ante los notarios públicos, el otorgamiento de descuentos y facilidades en los trámites que realicen ante ellos, los adultos mayores;
+
+III. Realizar campañas de regularización del estado civil y de otorgamiento de la Clave Única de Registro Poblacional para los adultos mayores;
+
+IV. Fomentar la cultura y el respeto a los derechos del adulto mayor, ya sea en el medio rural o urbano, mediante la implementación e instauración de programas y acciones tendientes a propiciar y fortalecer su desarrollo integral;
+
+V. Promover la defensa y ejercicio de los derechos de los adultos mayores;
+
+VI. Promover un trato digno y apropiado a los adultos mayores, en cualquier procedimiento administrativo o judicial del que sea parte; y
+
+VII. Promover condiciones apropiadas de reclusión para los adultos mayores, cuando se encuentren privados de su libertad.
+
+###### Artículo 13.
+
+Corresponde a la Secretaría de Finanzas:
+
+l. Desarrollar programas de condonación o de reducción de contribuciones estatales a favor de los adultos mayores;
+
+II. Promover entre los municipios de la entidad, la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores;
+
+III. Realizar campañas de difusión de la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores; y
+
+IV. Promover el acceso de los adultos mayores, a los créditos otorgados por las entidades financieras públicas y privadas.
+
+## TÍTULO CUARTO. DEL COMITÉ ESTATAL PARA LA ATENCIÓN DEL ADULTO MAYOR
+
+### CAPÍTULO II. DE SU INTEGRACIÓN Y ORGANIZACIÓN
+
+###### Artículo 14.
+
+Corresponde a la Secretaría del Trabajo:
+
+l. Desarrollar programas de capacitación para adultos mayores que les permitan continuar con su vida productiva;
+
+II. Desarrollar programas para que el adulto mayor goce de igualdad de oportunidades en el acceso al trabajo y de la protección de la Ley de la materia, realizando actividades acordes a su capacidad física e intelectual;
+
+III. Verificar que el adulto mayor reciba oportunamente, la información adecuada para su trámite de jubilación;
+
+IV. Fomentar la creación de organizaciones productivas de adultos mayores en grupos de diferente orden;
+
+V. Ofrecer asesoría y apoyo jurídico, a los adultos mayores que requieran realizar su trámite de jubilación;
+
+VI. Integrar una bolsa de trabajo con ofertas laborales que puedan ser desempeñadas por los adultos mayores; y
+
+VII. Brindar capacitación y financiamiento para el autoempleo de los adultos mayores.
+
+###### Artículo 15.
+
+Corresponde a la Secretaría de Educación:
+
+l. Fomentar el acceso de los adultos mayores a programas de educación y capacitación continua;
+
+II. Fomentar, en coordinación con las universidades, programas de educación superior y de investigación en las etapas de pre-grado y post-grado en las especialidades de geriatría, gerontología y tanatología en todos los niveles de atención en salud, así como de atención integral a los adultos mayores, dirigidos a personal técnico asistencial;
+
+III. Proponer ante las autoridades correspondientes, la incorporación de contenidos sobre procesos de envejecimiento en los planes y programas de estudios de todos los niveles educativos;
+
+IV. Facilitar el acceso de los adultos mayores a la cultura y las artes, de manera gratuita o con descuentos especiales; y
+
+V. Facilitar el uso de las bibliotecas públicas que les otorguen préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado y/o credencial de adulto mayor.
+
+### CAPÍTULO I. DE LA FAMILIA
+
+###### Artículo 16.
+
+Corresponde a la Secretaría de Desarrollo Urbano:
+
+l. Verificar que los desarrollos urbanos cuenten con las características que satisfagan las necesidades de los adultos mayores y que les permitan un libre desplazamiento;
+
+II. Promover programas sociales para que los adultos mayores tengan una vivienda digna y adaptada a sus necesidades; y
+
+III. Promover proyectos de vivienda de interés social acordes a las necesidades de parejas compuestas por adultos mayores, adultos mayores solos o que jefaturen una familia.
+
+###### Artículo 17.
+
+Corresponde a la Secretaría de Turismo:
+
+l. Impulsar la promoción de actividades y participación de los adultos mayores en actividades turísticas;
+
+II. Promover acciones a fin de que en lugares públicos destinados a la recreación, se cuente con los espacios y actividades que faciliten la integración de los adultos mayores; y
+
+III. Establecer convenios de coordinación con empresas del ramo, para ofrecer tarifas especiales, en su caso gratuitas, en los centros públicos y privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y asistencia a centros históricos y turísticos.
+
+###### Artículo 18.
+
+Corresponde a la Secretaría del Transporte:
+
+l. Celebrar convenios con las empresas de transporte, para que otorguen tarifas preferenciales a los adultos mayores; y
+
+II. Fomentar entre las empresas de transporte público y privado, el equipamiento adecuado de sus unidades, para otorgar servicios seguros y cómodos para los adultos mayores.
+
+###### Artículo 19.
+
+Corresponde a la Procuraduría General de Justicia del Estado:
+
+l. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para garantizar y asegurar a los adultos mayores la justicia plena;
+
+II. Brindar a las víctimas que sean adultos mayores la información integral sobre las instituciones públicas y privadas encargadas de su atención;
+
+III. Garantizar la seguridad jurídica, la integridad física, la protección de datos personales y la salvaguarda de los bienes de las víctimas que sean adultos mayores.
+
+###### Artículo 20.
+
+Corresponde a las demás dependencias, organismos auxiliares y entidades de la administración pública estatal y a los municipios, implementar las políticas, acciones y programas a los que deberán destinar un porcentaje de su presupuesto a fin de desarrollarlos en beneficio de los adultos mayores.
+
+###### Artículo 21.
+
+Se crea el Comité Estatal para la Atención del Adulto Mayor, como un órgano rector de la política estatal a favor de los adultos mayores, cuyo objeto es coordinar, promover, apoyar, fomentar, vigilar y evaluar las obras, acciones y programas que la administración pública estatal desarrolla en beneficio de los adultos mayores.
+
+###### Artículo 22.
+
+En el ejercicio de sus funciones, el Comité deberá atender los siguientes criterios:
+
+l. Transversalidad en las políticas públicas a cargo de las distintas dependencias, organismos auxiliares y entidades de la Administración Pública Estatal, a partir de la ejecución de programas y acciones coordinadas;
+
+II. Vigilar el cumplimiento y desarrollo de los programas y actividades para el fortalecimiento institucional de las dependencias responsables de la aplicación de las disposiciones jurídicas que regulen la materia en la entidad y los municipios; y
+
+III. Coadyuvar en el fortalecimiento de los vínculos con las demás instancias del sector público federal y municipal, así como con los Poderes Legislativo y Judicial, con el fin de cumplir con los objetivos de esta Ley.
+
+###### Artículo 23.
+
+El Comité tendrá las siguientes funciones:
+
+l. Formular las políticas y planes en materia de adultos mayores;
+
+II. Coordinar con las dependencias, organismos auxiliares y entidades de la Administración Pública Estatal, los municipios y el sector social y privado, las acciones en pro del bienestar, desarrollo y protección del adulto mayor;
+
+III. Coordinar la implementación, seguimiento y evaluación de los programas y acciones establecidos en beneficio de los adultos mayores, tratando de unificar criterios a fin de evitar duplicidad de servicios y procurar la correcta aplicación de los recursos públicos;
+
+IV. Impulsar alternativas ocupacionales productivas, tanto en el medio urbano como en el rural, encaminadas a mejorar el nivel de vida de los adultos mayores;
+
+V. Fomentar la creación, continuidad y accesibilidad de las acciones, programas y servicios relativos a la atención integral de los adultos mayores;
+
+VI. Promover la creación de establecimientos para la atención de los adultos mayores en situación de vulnerabilidad social;
+
+VII. Impulsar la investigación en las áreas relacionadas con el envejecimiento;
+
+VIII. Velar por el cumplimiento de las leyes, convenios, acuerdos y demás disposiciones relacionadas con la protección y atención de los adultos mayores;
+
+IX. Propiciar la colaboración y participación de instituciones públicas y privadas en las acciones que la administración estatal y municipal emprenda para la atención integral de los adultos mayores;
+
+X. Crear un paquete integral de servicios básicos, con acciones que fomenten la generación de la cultura del envejecimiento digno;
+
+XI. Establecer vínculos de colaboración entre los poderes del Estado, que permitan cumplir con los objetivos de la presente Ley; y
+
+XII. Gestionar fondos ante organizaciones públicas y privadas, nacionales e internacionales, para la ejecución de programas de atención a los adultos mayores.
+
+###### Artículo 24.
+
+El Comité Estatal para la Atención del Adulto Mayor, estará integrado por:
+
+l. Un Presidente, que será el Secretario de Desarrollo Social;
+
+II. Un Secretario Técnico, que será el Vocal Ejecutivo del Consejo Estatal de la Mujer y Bienestar Social;
+
+III. Once vocales que serán:
+
+Un representante:
+
+a) De la Secretaría General de Gobierno;
+
+b) De la Secretaría de Salud;
+
+c) De la Secretaría del Trabajo;
+
+d) De la Secretaría de Educación;
+
+e) De la Secretaría de Turismo;
+
+f) De la (sic) Sistema para el Desarrollo Integral de la Familia;
+
+g) Del Instituto de Seguridad Social del Estado de México y Municipios;
+
+h) Del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
+
+i) De la Secretaría de Finanzas;
+
+j) De la Secretaría de Desarrollo Urbano;
+
+k) De la Secretaría de Transporte;
+
+l) De la Comisión (sic) Derechos Humanos del Estado de México;
+
+m) De la Procuraduría de Justicia del Estado de México;
+
+n) De la Legislatura del Estado, que sea un diputado que integre una Comisión Legislativa relacionada con el tema de los Adultos Mayores;
+
+Serán invitados permanentes en el Comité, el Centro de Investigación y Estudios avanzados de la Población de la UAEM, así como el Consejo Estatal de Población, los cuales contarán solo con derecho a voz y sin voto.
+
+###### Artículo 25.
+
+Los integrantes del Comité, tendrán voz y voto, con excepción del Secretario Técnico, quien sólo tendrá voz. Las decisiones del Comité se tomarán por mayoría de votos de sus integrantes. En caso de empate el Presidente tendrá voto de calidad.
+
+Por cada uno de los integrantes del Comité, se nombrará un suplente. El cargo de integrante del Comité será honorífico.
+
+El Presidente podrá invitar a las sesiones del Comité, a representantes de otras dependencias, organismos auxiliares, Organismos Públicos Autónomos y entidades de la administración pública federal, estatal o municipal, así como de los sectores social y privado vinculados con los adultos mayores, quienes tendrán derecho a voz pero sin voto.
+
+###### Artículo 26.
+
+El Comité sesionará de forma ordinaria trimestralmente y extraordinaria, cuando convoque el Presidente o la mayoría de los vocales.
+
+###### Artículo 27.
+
+Para que el Comité pueda sesionar válidamente, se requerirá de la asistencia de la mitad más uno de sus integrantes, siempre que asista el Presidente y el Secretario Técnico, o sus suplentes debidamente acreditados.
+
+###### Artículo 28.
+
+Para apoyar el cumplimiento de sus funciones, el Comité podrá designar la instalación de grupos de trabajo.
+
+## TÍTULO QUINTO. DE LA FAMILIA, LA SOCIEDAD Y LAS INSTITUCIONES DE ATENCIÓN A LOS ADULTOS MAYORES
+
+### CAPÍTULO II. DE LA SOCIEDAD
+
+###### Artículo 29.
+
+Las dependencias, organismos auxiliares y entidades de la administración pública estatal, están obligadas a suministrar la información requerida por el Comité, para el cumplimiento de sus fines.
+
+###### Artículo 30.
+
+La familia deberá velar por el respeto a la dignidad de los adultos mayores y de sus derechos fundamentales.
+
+###### Artículo 31.
+
+La familia de los adultos mayores está obligada a:
+
+l. Conocer los derechos de los adultos mayores, previstos en la presente Ley y demás ordenamientos legales;
+
+II. Cuidar de los adultos mayores que formen parte de su familia, conociendo de sus necesidades y proporcionándoles los elementos necesarios para su atención integral;
+
+III. Procurar que permanezcan en el hogar del que forman parte y que sólo por decisión personal, enfermedad, causas de fuerza mayor o por determinación de autoridad competente, sean ingresados en alguna institución de asistencia pública ó privada, dedicada al cuidado y atención de adultos mayores;
+
+IV. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, promoviendo los valores que incidan en sus necesidades afectivas, de protección y apoyo;
+
+V. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos; y
+
+VI. Abstenerse de forzar al adulto mayor a realizar actos de mendicidad que atenten contra su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física y mental.
+
+### CAPÍTULO III. DE LAS INSTITUCIONES DE ATENCIÓN A LOS ADULTOS MAYORES
+
+###### Artículo 32.
+
+Los familiares, representantes legales o encargados del cuidado del adulto mayor, deberán proporcionarle hogar y protección permanente, suministro oportuno de alimentos, vestido, atención médica y medicamentos, así como contribuir a la satisfacción de sus necesidades de fortalecimiento de lazos afectivos y espirituales.
+
+###### Artículo 33.
+
+El derecho de los adultos mayores a percibir alimentos se garantiza en los términos previstos por el Código Civil vigente en la entidad y extraordinariamente, la prestación alimentaria comprenderá, además el pago de:
+
+l. Gastos médicos extraordinarios, de necesidad notoria y urgente;
+
+II. Suministro de los medicamentos que requiera para su salud;
+
+III. Gastos por terapia o atención especializada, en gerontología, geriatría y psicogerontología; y
+
+IV. Sepelio.
+
+###### Artículo 34.
+
+Es obligación de los descendientes, representantes legales o las personas encargadas de los adultos mayores, cumplir con las instrucciones y controles médicos que se prescriban para velar por la salud de éstos, además, serán responsables de dar el uso correcto a los alimentos que ellos reciban como suplemento nutritivo de la dieta.
+
+###### Artículo 35.
+
+Cuando un adulto mayor se encuentre viviendo con un familiar, no se interrumpirá dicha convivencia, a menos que mejore su situación afectiva, material y moral al vivir en otro lugar, ya sea por voluntad del adulto mayor o por resolución médica o judicial que así lo establezca.
+
+###### Artículo 36.
+
+Los adultos mayores que no vivan con su familia, tienen derecho a tener contacto con su círculo familiar y afectivo, tomando en cuenta su interés personal en esta decisión.
+
+###### Artículo 37.
+
+Cuando los familiares, representantes legales o encargados del cuidado del adulto mayor, ejerzan sobre éstos, abusos físicos y psicológicos, negligencia en el cuidado, trato vejatorio y discriminatorio o violen sus derechos, serán sancionados conforme a la Ley correspondiente.
+
+Asimismo se sancionará a los ciudadanos en general o instituciones públicas o privadas que cometan las conductas mencionadas en el párrafo anterior.
+
+## TÍTULO SEXTO. DE LAS DENUNCIAS Y SANCIONES
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO
+
+###### Artículo 38.
+
+Cuando ninguno de los descendientes pueda encargarse del cuidado personal del adulto mayor, se dará aviso al Sistema para el Desarrollo Integral de la Familia del Estado de México, quien inmediatamente tomará las medidas pertinentes, asegurando con los mecanismos a su alcance, el bienestar del adulto mayor.
+
+###### Artículo 39.
+
+Corresponde a la sociedad, participar de manera coordinada y concertada con las instituciones públicas en la integración, asistencia, bienestar, promoción y defensa de los derechos de los adultos mayores.
+
+###### Artículo 40.
+
+Toda persona que tenga conocimiento de que un adulto mayor se encuentre en situación de vulnerabilidad o riesgo, podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+
+###### Artículo 41.
+
+Se consideran instituciones de atención a los adultos mayores, aquellas instituciones públicas, privadas o sociales constituidas exclusivamente para su beneficio.
+
+###### Artículo 42.
+
+Todas las instituciones públicas, privadas o sociales que atienden adultos mayores, están obligadas a observar y respetar los derechos que ésta y otras leyes les reconozcan.
+
+###### Artículo 43.
+
+El personal que labore en instituciones públicas, privadas y sociales dedicadas a la atención de los adultos mayores, deberá recibir los cursos de capacitación y actualización en materia de geriatría, gerontología y tanatología para el mejor desempeño de sus actividades.
+
+###### Artículo 44.
+
+Cuando una institución pública, privada o social, se haga cargo de un Adulto Mayor, está obligada a:
+
+l. Atender adecuadamente su alimentación, habitación y asistencia médica;
+
+II. Otorgar los cuidados integrales que requiera su salud física y mental;
+
+III. Proporcionar actividades culturales y recreativas;
+
+IV. Integrar un expediente personal con la historia clínica y un registro con los datos de identificación, estado de salud, tratamientos, entre otros;
+
+V. Dar seguimiento a la evolución y evaluación de los casos atendidos, registrando los datos en los expedientes personales correspondientes;
+
+VI. Obtener en caso de ser posible, los nombres, domicilios y teléfonos de sus familiares; y
+
+VII. Expedir copia del expediente a los familiares autorizados, a las autoridades judiciales o a las instituciones que continúen la atención del Adulto Mayor, cuando lo soliciten.
+
+###### Artículo 45.
+
+Cuando una institución otorgue atención a un Adulto Mayor, examinará, en primer término, la posibilidad de su reintegración familiar.
+
+###### Artículo 46.
+
+La creación de la Estancia del Adulto Mayor será impulsada por organizaciones civiles y el Municipio; deberán funcionar de acuerdo con el Reglamento y el Programa Estatal. El CEMYBS (sic) propondrá el Modelo de Atención y la Secretaría de Desarrollo Social se encargará de su ejecución.
+
+El Gobierno Estatal y los Gobiernos Municipales se coordinarán con los diversos sectores social y privado para impulsar la creación de estancias para la atención a los Adultos Mayores. Corresponde a las Estancias municipales del Adulto Mayor:
+
+l. Aplicar el Programa Estatal;
+
+II. Velar por la seguridad de los Adultos Mayores que se encuentren en ellos;
+
+III. Proporcionar a los adultos mayores los cuidados necesarios para su atención, servicios como médico general, nutriólogo, geriatría y tanatologia, que les permita participar plenamente en la vida pública, social y privada;
+
+IV. Dar información de sus derechos y prestar asesoría jurídica gratuita; y
+
+V. Contar con el personal debidamente capacitado y especializado en la materia, para proporcionar los servicios y realizar las acciones inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+
+###### Artículo 47.
+
+Las Estancias Municipales deberán ser lugares seguros para los Adultos Mayores.
+
+###### Artículo 48.
+
+Las Estancias Municipales prestarán a los adultos mayores los siguientes servicios especializados y gratuitos:
+
+l. Alimentación;
+
+II. Servicio médico;
+
+III. Asesoría jurídica;
+
+IV. Apoyo psicológico;
+
+V. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
+
+VI. Capacitación para que puedan adquirir conocimientos para el desempeño de una actividad laboral; y
+
+VII. Bolsa de trabajo con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
+
+###### Artículo 49.
+
+La permanencia de los adultos mayores será indefinida hasta que los familiares lo decidan y el horario de visita al Adulto Mayor será de las 8:00 a.m. a 6:30 p.m. a menos que persista su inestabilidad física, psicológica o su situación de riesgo.
+
+###### Artículo 50.
+
+Para efectos del artículo anterior, el personal médico, psicológico y jurídico evaluará su armónica convivencia y respeto por parte de su entorno familiar.
+
+###### Artículo 51.
+
+En ningún caso se podrá mantener a los Adultos Mayores en las estancias en contra de su voluntad.
+
+###### Artículo 52.
+
+Los Gobiernos Estatal y Municipales, con la participación que corresponda de los sectores social, civil y/o a través de la Junta de Asistencia Privada promoverán el establecimiento de mecanismos para proveer de los apoyos necesarios para que las Estancias Municipales del Adulto Mayor cumplan con su objeto.
+
+###### Artículo 53.
+
+Cualquier persona podrá denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece la presente Ley; en el caso de que estos actos pongan en peligro la vida del adulto mayor, deberá informar de manera inmediata al Ministerio Público.
+
+###### Artículo 54.
+
+Cuando los responsables del daño o afectación de los derechos del adulto mayor, sean servidores públicos en ejercicio de sus funciones, se deberá dar aviso al superior jerárquico de manera inmediata para su conocimiento, sujetándolos al procedimiento administrativo que para tal efecto contempla la Ley de Responsabilidades de los Servidores Públicos del Estado de México.
+
+###### Artículo 55.
+
+La inobservancia a las disposiciones de esta Ley, serán sancionadas de conformidad a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México, así como en las leyes civiles, penales y demás ordenamientos legales aplicables.
+
+###### Artículo 56.
+
+Para el caso de la tramitación de juicios de pensión alimenticia en los que se vea involucrado un adulto mayor, los jueces de primera instancia del Poder Judicial del Estado, deberán observar las disposiciones establecidas en esta Ley, al momento de garantizar los alimentos de los adultos mayores.
+
+###### Artículo 57.
+
+El incumplimiento de las disposiciones que establece ésta Ley, en el ámbito de la salud, tratándose de negligencia médica, se pondrán a consideración de la Comisión de Conciliación y Arbitraje Médico del Estado de México, si derivado de éste, resultare la muerte del adulto mayor, se dará vista al Ministerio Público Investigador, quien aplicará lo dispuesto en el Código Penal de la Entidad.
+
+###### Artículo 58.
+
+En materia laboral, la instancia encargada de conocer y tramitar los incumplimientos derivados de esta Ley, será la Procuraduría de la Defensa del Trabajo, a través de las Juntas locales de Conciliación y Arbitraje y/o Tribunal Estatal de Conciliación y Arbitraje.
+
+###### Artículo 59.
+
+La Comisión de Derechos Humanos del Estado de México, conocerá de las quejas que se presenten, o bien investigará de oficio sobre violaciones a los derechos fundamentales de los adultos mayores, en términos de su propia legislación.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- El ejecutivo del Estado proveerá lo necesario para adecuar o abrogar el acuerdo por el que se crea el Consejo Estatal para la Atención del Adulto Mayor, publicado en el periódico oficial "Gaceta del Gobierno" el 25 de septiembre de 2002.
+
+CUARTO.- El Comité Estatal para la Protección del Adulto Mayor, se instalará en un plazo no mayor a setenta días hábiles, contados a partir de la fecha de publicación de la presente Ley.
+
+QUINTO.- El Ejecutivo del Estado expedirá el Reglamento de la Ley del Adulto Mayor del Estado de México, dentro del plazo de noventa días naturales siguientes a la fecha en que entre en vigor este ordenamiento.
+
+SEXTO.- EL Comité Estatal para la Atención del Adulto Mayor deberá expedir su Reglamento Interior dentro de los sesenta días naturales siguientes a la entrada en vigor de esta ley.
+
+SÉPTIMO.- El Ejecutivo del Estado, los presidentes municipales y las Secretarías de Estado, y las instancias responsables destinarán un porcentaje de su presupuesto a fin de desarrollar los programas y acciones en beneficio de los adultos mayores.
+
+OCTAVO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los nueve días del mes de julio del año dos mil ocho.- Presidente.- Dip. Carlos Alberto Cadena Ortíz de Montellano.- Secretarias.- Dip. Guillermina Casique Vences.- Dip. Carla Bianca Grieger Escudero.- Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 6 de agosto de 2008.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+LIC. ENRIQUE PEÑA NIETO
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+DR. VICTOR HUMBERTO BENITEZ TREVIÑO
+
+(RUBRICA).
