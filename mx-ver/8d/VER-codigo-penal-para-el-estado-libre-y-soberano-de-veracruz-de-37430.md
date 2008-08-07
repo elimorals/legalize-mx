@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2008-07-10"
+last_updated: "2008-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1585,6 +1585,8 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 ### CAPÍTULO VIII. EXTORSIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
+
 ### CAPÍTULO IX. USURA
 
 ### CAPÍTULO X. DESPOJO
@@ -1911,9 +1913,15 @@ A quien, artificiosamente, se coloque en estado de insolvencia, con el objeto de
 
 ###### Artículo 220.
 
-A quien obligue a otro a dar, hacer o dejar de hacer algo contra sus propios bienes patrimoniales o los de un tercero, para procurarse a sí mismo o a otro un lucro indebido, se le impondrán de tres a siete años de prisión y multa hasta de cuatrocientos días de salario.
+A quien por cualquier medio obligue a otro a dar, hacer, o dejar de hacer algo, contra sus propios bienes patrimoniales o los de un tercero, para procurarse a sí mismo o a otro un lucro indebido, se le impondrán de tres a diez años de prisión y multa hasta de quinientos días de salario.
 
 Las penas se aumentarán en una mitad si la extorsión se comete por un servidor público, a quien se le sancionará, además, con destitución e inhabilitación de uno a seis años para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2008)</small>
+
+###### Artículo 220 Bis.
+
+Al responsable de tentativa en la conducta señalada en el artículo anterior, se le aplicará la misma sanción.
 
 ### CAPÍTULO VIII. INCESTO
 
@@ -3274,3 +3282,9 @@ G.O. 10 DE JULIO DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE AGOSTO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
