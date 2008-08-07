@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2007-05-21"
+last_updated: "2008-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2008.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -737,9 +737,13 @@ XLI. Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipal
 
 XLII. Convocar a la designación de los Coordinadores Municipales de Derechos Humanos;
 
+> <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2008)</small>
+
+XLIII. Conocer y, en su caso, acordar lo conducente acerca de las licencias temporales o definitivas, así como los permisos para viajar al extranjero en misión oficial, que soliciten sus integrantes;
+
 > <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
 
-XLIII. Las demás que señalen las leyes y otras disposiciones legales.
+XLIV. Las demás que señalen las leyes y otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -813,21 +817,43 @@ Los ayuntamientos podrán donar, previa autorización de la Legislatura, bienes 
 
 ### CAPITULO QUINTO. Suplencia de los Miembros del Ayuntamiento
 
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 40.
 
 Los miembros del ayuntamiento necesitan licencia del mismo, para separarse temporal o definitivamente del ejercicio de sus funciones.
 
-Las faltas de los integrantes del ayuntamiento podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de quince días, o que excediendo este plazo, sean debido a causa justificada.
+Las faltas de los integrantes del ayuntamiento podrán ser temporales o definitivas.
+
+Las faltas temporales que no excedan de quince días se harán del conocimiento del Ayuntamiento sin que se requiera acuerdo de cabildo para autorizarlas. Las faltas temporales que excedan de quince días serán otorgadas por el ayuntamiento cuando exista causa justificada. Se consideran causas justificadas para separarse del cargo las siguientes:
+
+a) Para ocupar otro empleo, cargo o comisión en la administración pública municipal, estatal o federal o en organismos autónomos, desconcentrados o descentralizados de cualquiera de los tres niveles de gobierno.
+
+b) Para enfrentar un proceso penal, siempre y cuando el solicitante se encuentre sujeto a prisión preventiva.
+
+c) Para contender como candidato en un proceso electoral federal o local.
+
+d) Por imposibilidad física o mental de carácter temporal debido a enfermedad.
+
+e) Aquellas otras que por su naturaleza sean consideradas por el Ayuntamiento.
+
+El Ayuntamiento deberá resolver las solicitudes de licencia que excedan de quince días o las definitivas, a más tardar dentro de los ocho días siguientes a la solicitud en sesión de Cabildo. En caso de que el ayuntamiento no resuelva en el plazo señalado en este párrafo, se tendrá por aprobada la solicitud de licencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 41.
 
-Las faltas temporales del presidente municipal, las cubrirá el primer regidor, y en ausencia de éste, el que le siga en número.
+Las faltas temporales del presidente municipal, que no excedan de quince días, las cubrirá el secretario del Ayuntamiento, como encargado del despacho; las que excedan de este plazo y hasta por 100 días serán cubiertas por el integrante del propio ayuntamiento que se designe por acuerdo de cabildo a propuesta del presidente municipal, quien fungirá como presidente municipal por ministerio de ley.
 
 Las faltas temporales de los síndicos serán suplidas por el miembro del ayuntamiento que éste designe, cuando sólo haya un síndico; y cuando haya más de uno, la ausencia será cubierta por el que le siga en número.
 
-Las faltas de los regidores no se cubrirán, cuando no excedan de ocho días y haya el número suficiente de miembros que marca la ley para que los actos del ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo.
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
 
-Para cubrir las faltas absolutas de los miembros de los ayuntamientos, serán llamados los suplentes respectivos. Si faltase también el suplente para cubrir la vacante que corresponda, la Legislatura, a propuesta del Ejecutivo, designará los sustitutos.
+Las faltas de los regidores no se cubrirán, cuando no excedan de quince días y haya el número suficiente de miembros que marca la ley para que los actos del ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo.
+
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
+
+Para cubrir las faltas definitivas de los miembros de los ayuntamientos, serán llamados los suplentes respectivos. Si faltase también el suplente para cubrir la vacante que corresponda, la Legislatura, a propuesta del Ejecutivo, designará a los sustitutos.
 
 ### CAPITULO SEXTO. De la Suspensión y Desaparición de Ayuntamientos de
 
@@ -969,13 +995,19 @@ II. Imponer contribución o sanción alguna que no esté señalada en la Ley de 
 
 III. Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles o inmuebles o en cualquier otro asunto de carácter civil, ni decretar sanciones o penas en los de carácter penal;
 
-IV. Ausentarse del municipio sin licencia del ayuntamiento, excepto en aquellos casos de urgencia justificada;
+> <small>(REFORMADA, G.G. 7 DE AGOSTO DE 2008)</small>
+
+IV. Ausentarse del país por más de 5 días, sin la autorización del ayuntamiento, con excepción de los viajes que realice durante sus periodos vacacionales;
 
 V. Cobrar personalmente o por interpósita persona, multa o arbitrio alguno, o consentir o autorizar que oficina distinta a la tesorería municipal, conserve o tenga fondos municipales;
 
 VI. Utilizar a los empleados o policías municipales para asuntos particulares;
 
-VII. Residir durante su gestión fuera del territorio municipal.
+VII. Residir durante su gestión fuera del territorio municipal;
+
+> <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2008)</small>
+
+VIII. Separarse del ejercicio de sus funciones, en los términos de esta ley.
 
 ### CAPITULO SEGUNDO. De los Síndicos
 
@@ -2474,3 +2506,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Los procedimientos respecto de las solicitudes que haya remitido el Ejecutivo Estatal a la Legislatura para autorización de actos municipales que se encuentren en trámite al entrar en vigor el presente decreto, se sustanciarán y resolverán conforme a las disposiciones legales anteriores.
+
+G.G. 7 DE AGOSTO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
