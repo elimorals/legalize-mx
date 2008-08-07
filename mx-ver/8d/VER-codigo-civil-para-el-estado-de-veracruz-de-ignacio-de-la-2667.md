@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2008-02-01"
+last_updated: "2008-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2008.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -547,9 +547,11 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituída a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes; la impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas o incurables que sean, además, contagiosas o hereditarias;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2008)</small>
 
-IX.- El idiotismo y la imbecilidad;
+VIII.- El trastorno mental o de comportamiento que afecte la capacidad de la persona para obligarse o ejercer sus derechos, por sí o por cualquier otro medio;
+
+IX.- (DEROGADA, G.O. 7 DE AGOSTO DE 2008)
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -4213,17 +4215,29 @@ II.- La constancia de que prestan su consentimiento para que el matrimonio se ce
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2008)</small>
 
-IV.- Un certificado expedido por cualquier institución del Sector Salud del Estado y en donde no existan estos servicios, por médicos titulados que desempeñen cargos oficiales del Estado o municipales, en el que se haga constar el tipo de sangre y haberse comprobado por los exámenes médicos y de laboratorio necesarios, que los pretendientes no padecen enfermedad alguna de las que sean de carácter hereditarios y transmisión sexual, incluyendo el VIH;
+IV.- La constancia de asistencia a un curso o taller de salud sexual, reproductiva, de prevención de adicciones, de enfermedades crónicas contagiosas, hereditarias, impartido por alguna institución pública de salud del Estado;
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 177 y 199, y el Encargado del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber, a efecto de que el convenio quede debidamente formulado.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2008)</small>
+
+V.- Un certificado expedido por cualquier institución del sector salud estatal, y en donde no exista por médicos titulados que desempeñen cargos oficiales del Estado o municipales, en el que conste, respecto de los pretendientes:
+
+a). El tipo de sangre;
+
+b). Los resultados de exámenes médicos y de laboratorio necesarios para determinar enfermedades de carácter crónico, incurables, contagiosas, hereditarias y consumo de drogas enervantes; y
+
+c). Que no padecen trastorno mental o de comportamiento que afecte la capacidad de la persona para obligarse o ejercer sus derechos, por sí o por cualquier otro medio.
+
+Los resultados de los exámenes a que se refiere el inciso b) tendrán naturaleza confidencial; serán útiles sólo para informar a la pareja y remitirla a las instituciones del sector salud estatal donde recibirán el tratamiento correspondiente;
+
+VI.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio, se tendrá en cuenta lo que disponen los artículos 177 y 199, Y el Encargado del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber, a efecto de que el convenio quede debidamente formulado;
 
 Si de acuerdo con lo dispuesto en el artículo 173 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
 
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+VII.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
-VII.- Copia de la dispensa de impedimento, si los hubo.
+VIII.- Copia de la dispensa de impedimento, si los hubo.
 
 (REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
@@ -16012,3 +16026,9 @@ G.O. 1 DE FEBRERO DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE AGOSTO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
