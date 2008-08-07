@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2008-07-10"
+last_updated: "2008-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE AGOSTO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -385,7 +385,7 @@ VII.- Extender personalmente las actas de las sesiones de carácter secreto, lo 
 
 VIII.- Rendir informes exactos al Congreso, en la primera sesión de cada mes, de los expedientes y negocios que fueron despachados durante el anterior, y los que aún permanecen en poder o a disposición de las comisiones.
 
-IX.- En la primera sesión de cada mes, informar al Congreso sobre las faltas de asistencia de los Diputados durante el mes anterior, con expresión de las causas que la motivaron.
+IX.- En la primera sesión de cada mes, informar al Congreso sobre las faltas de asistencia de los Diputados durante el mes anterior, con expresión de las causas que la (sic) motivaron.
 
 X.- Recoger y comprobar las votaciones, proclamando sus resultados cuando así lo disponga el Presidente de la Directiva.
 
@@ -497,7 +497,9 @@ II.- DE ASUNTOS POLITICOS.
 
 III.- DE DERECHOS HUMANOS Y DE ASUNTOS INDIGENAS.
 
-IV.- DE ASUNTOS AGROPECUARIOS Y MINEROS.
+> <small>(REFORMADA, B.O. 7 DE AGOSTO DE 2008)</small>
+
+IV.- DE ASUNTOS AGROPECUARIOS, FORESTALES Y MINEROS: (SIC)
 
 V.- DE ASUNTOS COMERCIALES Y TURISTICOS.
 
@@ -607,15 +609,25 @@ c).- Establecer coordinación con instituciones y organismo (sic) públicos y pr
 
 d).- Las demás que le encomiende la Directiva y la Gran Comisión.
 
-IV.- DE ASUNTOS AGROPECUARIOS Y MINEROS:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE AGOSTO DE 2008)</small>
+
+IV.- DE ASUNTOS AGROPECUARIOS, FORESTALES Y MINEROS:
 
 a).- Lo concerniente al desarrollo de la Agricultura y Ganadería en todas sus formas, así como las Industrias del Campo.
 
 b).- Lo relativo a la Propiedad Rural.
 
-c).- El fomento, explotación, comercio y todo lo que se refiere al Ramo Minero.
+> <small>(REFORMADO, B.O. 7 DE AGOSTO DE 2008)</small>
 
-d).- Las demás que le fijen la Directiva del Congreso y la Gran Comisión.
+c).- Lo relativo a las actividades productivas en materia forestal.
+
+> <small>(REFORMADO, B.O. 7 DE AGOSTO DE 2008)</small>
+
+d).- El fomento, explotación, comercio y todo lo que se refiere al ramo minero; y
+
+> <small>(ADICIONADO, B.O. 7 DE AGOSTO DE 2008)</small>
+
+e).- Los demás que le turnen la mesa directiva y la Gran Comisión.
 
 V.- DE ASUNTOS COMERCIALES Y TURISTICOS:
 
@@ -1957,7 +1969,7 @@ Son facultades de la Diputación Permanente:
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-I.- Acordar por si o a propuesta del Gobernador, la convocatoria a periódo extraordinario de sesiones;
+I.- Acordar por si o a propuesta del Gobernador, la convocatoria a periodo extraordinario de sesiones;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2174,5 +2186,9 @@ B.O. 10 DE JUNIO DE 2008.
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE JULIO DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 7 DE AGOSTO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
