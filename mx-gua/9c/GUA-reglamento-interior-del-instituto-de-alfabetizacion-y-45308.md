@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-alfabetizacion-y-45308"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-14"
-last_updated: "2005-06-14"
+last_updated: "2008-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ALFABETIZACION Y EDUCACION BASICA PARA ADULTOS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 14 de junio de 2005.
 
@@ -85,31 +85,69 @@ EI INAEBA, para el estudio, planeación y despacho de los asuntos de su competen
 
 I. Dirección General;
 
-II. Dirección General de Desarrollo Educativo;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-III. Dirección de Distribución del Conocimiento;
+II. Dirección de Desarrollo Educativo;
 
-IV. Dirección de Investigación y Desarrollo;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-V. Coordinación de Capacitación;
+III. Coordinación de Investigación y Desarrollo;
 
-VI. Coordinación de Acreditación y Certificación;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-VII. Dirección General de Gestión Regional;
+IV. Coordinaciones de Programas Educativos;
 
-VIII. Coordinaciones Regionales;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-IX. Dirección Administrativa;
+V. Direcciones Regionales;
 
-X. Dirección de Planeación;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XI. Dirección de Servicios Jurídicos;
+VI. Coordinaciones de Zona;
 
-XII. Coordinación de Comunicación Social; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XIII. Secretaría Particular.
+VII. Dirección Administrativa;
 
-Las Coordinaciones Regionales del INAEBA para el desarrollo de sus facultades, abarcarán un ámbito geográfico en los municipios que conforman el Estado de Guanajuato, de acuerdo a la distribución que para tales efectos se establezca en el Manual de Organización, Políticas y Procedimientos del INAEBA y a las necesidades que se requieran.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+VIII. Coordinación de Capacitación;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+IX. Dirección de Planeación;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+X. Dirección de Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XI. Dirección de Servicios Escolares y Sistemas de Información;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XII. Coordinación de Acreditación y Certificación;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XIII. Coordinación de Control Escolar;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XIV. Coordinación de Soporte Técnico;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XV. Coordinación de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XVI. Secretaría Particular.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+Las Coordinaciones de Zona del INAEBA, para el desarrollo de sus facultades, abarcarán un ámbito geográfico de los municipios que conforman el Estado de Guanajuato, de acuerdo a la distribución que para tales efectos se establezca en el Manual de Organización, Políticas y Procedimientos del INAEBA y a las necesidades que se requieran.
 
 ###### Artículo 10.
 
@@ -119,7 +157,9 @@ Los titulares de las unidades administrativas, a que se refiere el artículo ant
 
 Las funciones y descripción de puestos del personal del INAEBA que no se desarrollan en el presente Reglamento se establecerán en el Manual de Organización, Políticas y Procedimientos, que para tal efecto expida el Director General del organismo.
 
-### CAPÍTULO TERCERO. DE LOS DIRECTORES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2008)</small>
+
+### CAPÍTULO TERCERO. DEL DIRECTOR GENERAL Y DE LOS DIRECTORES
 
 #### SECCIÓN PRIMERA. DE LAS FACULTADES DEL DIRECTOR GENERAL DEL INAEBA
 
@@ -179,11 +219,15 @@ XIV. Aprobar las normas, técnicas, políticas y procedimientos de trabajo que r
 
 Las facultades previstas en el artículo 17 del Decreto de Creación, a excepción de la prevista en la fracción VIII, tendrán el carácter de indelegables.
 
-#### SECCIÓN SEGUNDA. DE LAS FACULTADES GENÉRICAS DE LAS DIRECCIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS FACULTADES GENÉRICAS DE LOS DIRECTORES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 15.
 
-Los Directores Generales tendrán las siguientes facultades genéricas:
+Los Directores tendrán las siguientes facultades genéricas:
 
 I. Dirigir, coordinar y evaluar el desarrollo y cumplimiento de las funciones encomendadas a las unidades administrativas adscritas a la Dirección General;
 
@@ -191,13 +235,19 @@ II. Proponer las acciones de vinculación con los diferentes niveles de Gobierno
 
 III. Coordinarse con las demás unidades administrativas para el debido cumplimiento de sus atribuciones;
 
-IV. Someter a consideración del Director General del INAEBA los asuntos relevantes encomendados a la Dirección General a su cargo e informar sobre los estudios y proyectos que se elaboren;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+IV. Someter a consideración del Director General del INAEBA los asuntos relevantes encomendados a la Dirección a su cargo e informar sobre los estudios, proyectos y planeación anual que sobre su Dirección se elaboren;
 
 V. Proponer al Director General del INAEBA, la contratación, desarrollo, capacitación y promoción del personal bajo su responsabilidad, de conformidad con la normatividad vigente;
 
-VI. Participar en la formulación del anteproyecto de presupuesto de egresos de la Dirección General a su cargo y demás unidades administrativas a ellos adscritas, así como verificar su correcta y oportuna ejecución;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-VII. Elaborar los proyectos de manuales de organización, procedimientos y servicios de la Dirección General, conforme a la normatividad vigente;
+VI. Participar en la formulación del anteproyecto de presupuesto de egresos de la Dirección a su cargo y demás unidades administrativas a ellos adscritas, así como verificar su correcta y oportuna ejecución;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+VII. Elaborar los proyectos de manuales de organización, procedimientos y servicios de la Dirección, conforme a la normatividad vigente;
 
 VIII. Participar en la planeación, ejecución y evaluación de los proyectos estratégicos y programas del INAEBA;
 
@@ -209,33 +259,41 @@ XI. Someter a consideración del Director General del INAEBA, la creación, orga
 
 XII. Las demás que les confieran el Director General del INAEBA.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 16.
 
-Las Direcciones Generales de Desarrollo Educativo y de Gestión Regional tendrán igual jerarquía y entre ellas no habrá preeminencia alguna.
+Las Direcciones tendrán igual jerarquía y entre ellas no habrá preeminencia alguna.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE DESARROLLO EDUCATIVO
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NO. 78, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE CAPITULO, PARA QUEDAR CONFORMADO POR DOS SECCIONES.</small>
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE DESARROLLO EDUCATIVO
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 17.
 
-La Dirección General de Desarrollo Educativo, deberá planear, apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
+La Dirección de Desarrollo Educativo deberá planear, apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
 
-I. Dirección de Distribución del Conocimiento;
+I. Coordinación de Investigación y Desarrollo; y
 
-II. Dirección de Investigación y Desarrollo;
+II. Coordinaciones de Programas Educativos.
 
-III. Coordinación de Capacitación; y
-
-IV. Coordinación de Acreditación y Certificación.
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 18.
 
-La Dirección General de Desarrollo Educativo, tendrá las siguientes facultades:
+La Dirección de Desarrollo Educativo tendrá las siguientes facultades:
 
 I. Generar en el Estado una red de aprendizaje, real y/o virtual mediante la conectividad a Internet, con el fin de que el conocimiento generado en los diferentes niveles y foros se pueda socializar, no sólo a nivel estatal sino a nivel nacional e internacional;
 
 II. Propiciar las acciones de vinculación con organismos e instituciones en el ámbito de innovación educativa;
 
-III. Promover investigaciones acerca de las modalidades existentes, en línea como presenciales, relacionadas con la formación, capacitación y desarrollo de los asesores, promotores y gestores de los servicios del INAEBA;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+III. Promover investigaciones acerca de las modalidades educativas de atención al rezago existentes, en línea como presenciales, relacionadas con la formación y desarrollo de los asesores, promotores y gestores de los servicios del INAEBA;
 
 IV. Elaborar y someter a consideración del Director General la creación y adecuación de las políticas y estrategias en materia de alfabetización y educación para adultos;
 
@@ -261,13 +319,15 @@ XIV. Emitir la generación de un plan integral para la elaboración del perfil, 
 
 XV. Impulsar propuestas didácticas que faciliten a los usuarios el desarrollo de las competencias necesarias;
 
-XVI. Instrumentar las políticas y mecanismos para mantener actualizada la base de datos, relacionada con la acreditación y certificación de los conocimientos de la educación para adultos, eficientando los procesos de envío y recepción de los datos relacionados con el rendimiento escolar;
+XVI. (DEROGADA, P.O. 8 DE AGOSTO DE 2008)
 
-XVII. Mantener una estrecha relación con las instancias correspondientes, para la expedición de los reconocimientos oficiales de la educación ofertada en el INAEBA;
+XVII. (DEROGADA, P.O. 8 DE AGOSTO DE 2008)
 
-XVIII. Coadyuvar en los procedimientos para la acreditación, revalidación y certificación de estudios conforme a la normatividad vigente; y
+XVIII. (DEROGADA, P.O. 8 DE AGOSTO DE 2008)
 
 XIX. Las demás que le confiera el Director General del INAEBA.
+
+(REUBICADO, P.O. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 19.
 
@@ -291,11 +351,15 @@ VIII. Dar seguimiento a los convenios establecidos para la apertura y operación
 
 IX. Las demás que le confiera el Director General de Desarrollo Educativo.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE DISTRIBUCIÓN DEL CONOCIMIENTO
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN PRIMERA. DE LA COORDINACION DE INVESTIGACION Y DESARROLLO
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 20.
 
-La Dirección de Investigación y Desarrollo, tendrá las siguientes facultades:
+La Coordinación de Investigación y Desarrollo tendrá las siguientes facultades:
 
 I. Diseñar y proponer los modelos, procesos y métodos educativos innovadores, que permitan la intervención consciente de la acción educativa institucional, para potenciar con apoyo de las TIC's el desarrollo humano personal y social;
 
@@ -311,137 +375,249 @@ VI. Propiciar la realización de investigaciones conjuntas con organismos e inst
 
 VII. Evaluar la metodología existente y proponer alternativas de ajuste, o bien, efectuar el diseño de aquellas que, tendientes al logro de aprendizajes a largo plazo, resulte conveniente instrumentar;
 
-VIII. Vigilar la congruencia entre las acciones de evaluación académica y las propuestas curriculares; y
+VIII. Vigilar la congruencia entre las acciones de evaluación académica y las propuestas curriculares; y (sic)
 
-IX. Las demás que le confiera el Director General de Desarrollo Educativo.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE INVESTIGACIÓN Y DESARROLLO
+IX. Presenter al Director de Desarrollo Educativo, para su autorización, la planeación anual de sus servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2008)</small>
+
+X. Actualizar los planes y programas de estudio para alfabetización, así como proponer las adecuaciones pertinentes a los planes y programas de educación primaria y secundaria para personas mayores de 15 años;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], 8 P.O. DE AGOSTO DE 2008)</small>
+
+XI. Revisar los modelos educativos vigentes y proponer mejoras en los contenidos para que sean actuales, relevantes, oportunos, pertinentes y significativos;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XII. Proponer al Director General, estrategias y metodologías para apoyar la educación de personas mayores de 15 años;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XIII. Revisar investigaciones y documentos de otras experiencias educativas con jóvenes y adultos; con el fin de mejorar el modelo educativo; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XIV. Las demás que le confiera el Director de Desarrollo Educativo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS COORDINACIONES DE PROGRAMAS EDUCATIVOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 21.
 
-La Coordinación de Capacitación, tendrá las siguientes facultades:
+Las Coordinaciones de Programas Educativos tendrán las siguientes facultades:
 
-I. Ejecutar el plan integral de elaboración de perfil, selección, formación y capacitación de los asesores, promotores educativos y gestores;
+I. Presentar al Director de Desarrollo Educativo, para su autorización, la planeación anual de sus servicios;
 
-II. Investigar acerca de las modalidades existentes, tanto en línea como presenciales, relacionadas con la formación, capacitación y desarrollo de los asesores, promotores y gestores;
+II. Diseñar, aplicar y evaluar la currícula de alfabetización, así como aplicar y evaluar la currícula en los niveles de educación primaria y secundaria, para personas mayores de 15 años en las modalidades presencial y virtual;
 
-III. Asesorar y capacitar a las Coordinaciones Regionales respecto a la alfabetización y educación para adultos;
+III. Someter para la autorización del Director General, las propuestas de actualización de la currícula de los servicios educativos del INAEBA, las estrategias y los materiales educativos en las modalidades presencial y virtual; así como las propuestas de políticas públicas en materia de educación para personas mayores de 15 años;
 
-IV. Diagnosticar, con base en el modelo educativo, las necesidades de formación para cada uno de los actores educativos;
+IV. Definir y producir contenidos temáticos y estrategias que desarrollen competencias para la vida y promuevan la cultura y el arraigo tanto local como regional en los beneficiarios del INAEBA;
 
-V. Analizar y diagnosticar las evaluaciones de capacitación de los actores educativos, para obtener información que permita la toma de decisiones, con el fin de lograr la calidad académica;
+V. Revisar los contenidos y estrategias educativas para alfabetización, educación primaria y secundaria dirigidos a los beneficiarios del INAEBA;
 
-VI. Ejecutar la práctica de novedosas técnicas didácticas para el fortalecimiento de los asesores e instructores del INAEBA; y
+VI. Utilizar las plataformas educativas basadas en las nuevas tecnologías de la información y las comunicaciones en el proceso de educación de los educandos;
 
-VII. Las demás que le confiera el Director General de Desarrollo Educativo.
+VII. Utilizar instrumentos de diagnóstico, planeación educativa y evaluación del aprendizaje de personas en situación de rezago; así como del uso e impacto de las estrategias educativas: presencial y virtual, para proponer innovaciones en la educación de jóvenes y adultos;
+
+VIII. Coadyuvar con el Director de Desarrollo Educativo en el establecimiento de criterios para analizar software, estrategias y materiales didácticos a fin de ofrecer los servicios del INAEBA;
+
+IX. Propiciar la vinculación con organismos e instituciones en el ámbito de la innovación educativa; y
+
+X. las demás que le confiera el Director de Desarrollo Educativo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 22.
 
-La Coordinación de Acreditación y Certificación, tendrá las siguientes facultades:
+las Coordinaciones de Programas Educativos se integrarán de acuerdo a la distribución que para tales efectos se establezcan en el Manual de Organización, Políticas y Procedimientos del INAEBA y a las necesidades que se requieran.
 
-I. Mantener actualizada la base de datos relacionada con la acreditación y certificación de estudios;
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2008)</small>
 
-II. Coordinarse con la unidad de informática de la Dirección Administrativa, para eficientar los mecanismos de envío y recepción de los datos relacionados con el control escolar;
+### CAPÍTULO QUINTO. DE LAS DIRECCIONES REGIONALES Y COORDINACIONES DE ZONA
 
-III. Mantener una estrecha relación con la Dirección General de Gestión Regional, con el fin de proponer conjuntamente estrategias de mejora, del proceso de acreditación y certificación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2008)</small>
 
-IV. Llevar a cabo las acciones pertinentes, ante las instancias correspondientes, para la expedición de la certificación de estudios ofertada en el INAEBA;
+#### SECCIÓN PRIMERA. DE LAS DIRECCIONES REGIONALES
 
-V. Administrar el Control Escolar en lo concerniente a la acreditación y tramitación de las constancias y certificados de educación para adultos; y
-
-VI. Las demás que le confiera el Director General de Desarrollo Educativo.
-
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DE GESTIÓN REGIONAL
-
-#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE CAPACITACIÓN
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 23.
 
-La Dirección General de Gestión Regional, deberá planear, apoyar, coordinar y supervisar el trabajo de las Coordinaciones Regionales, las cuales contarán con el personal que requieran las necesidades del servicio y que permita su presupuesto.
+las Direcciones Regionales deberán planear, apoyar, coordinar y supervisar el trabajo de las Coordinaciones de Zona, las cuales contarán con el personal que requieran las necesidades del servicio y que permita su presupuesto.
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 24.
 
-La Dirección General de Gestión Regional, tendrá las siguientes facultades:
+las Direcciones Regionales tendrán las siguientes facultades:
 
 l. Coadyuvar en el establecimiento de políticas de vinculación para el desarrollo de las funciones materia del INAEBA;
 
-II. Suscribir los contratos de suministros, de asesores en alfabetización y (sic) instructores de educación, previo acuerdo delegatorio, requeridos en las coordinaciones regionales, de conformidad con la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-III. Promover la vinculación entre las Coordinaciones Regionales y organismos gubernamentales y no gubernamentales, para ofertar programas que emprendan acciones materia del INAEBA, para el desarrollo de estrategias conjuntas;
+II. Suscribir los contratos de suministros, de asesores en alfabetización e instructores de educación primaria y secundaria previo acuerdo delegatorio del Director General, requeridos en las Coordinaciones de Zona, de conformidad con la normatividad correspondiente;
 
-IV. Proponer la apertura de centros de atención de los servicios que ofrece el INAEBA, atendiendo las necesidades educativas en el Estado;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-V. Identificar conjuntamente con las Coordinaciones Regionales y organismos gubernamentales y no gubernamentales, las necesidades educativas;
+III. Promover la vinculación entre las Coordinaciones de Zona y organismos gubernamentales y no gubernamentales, para el desarrollo de estrategias conjuntas en materia de atención al rezago educativo;
 
-VI. Proponer estrategias para la oferta de programas que atiendan la demanda actual de alfabetización y educación para adultos en el Estado;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-VII. Fomentar la participación de los actores educativos en la promoción de educación para adultos, con la participación de las Coordinaciones Regionales;
+IV. Proponer la apertura de centros de atención de los servicios que ofrece el INAEBA, atendiendo las necesidades en materia de rezago educativo en el estado; en especial de los Centros de Acceso a Servicios Sociales y de Aprendizaje (CASSA);
 
-VIII. Coadyuvar con la Dirección General de Desarrollo Educativo en la creación de modelos pedagógicos para la educación impartida, competencia del INAEBA;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-IX. Proponer políticas, lineamientos y criterios para la planeación, organización y funcionamiento de los lugares donde se ofrezcan los programas educativos para adultos;
+V. Identificar conjuntamente con las Coordinaciones de Zona y organismos gubernamentales y no gubernamentales, las necesidades en materia de rezago educativo;
 
-X. Promover los servicios a su cargo, entre la población adulta que no haya tenido acceso o concluido la educación básica;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XI. Promover y supervisar la vinculación con las instituciones educativas, para que por medio de acciones de servicio social se consoliden los servicios educativos;
+VI. Proponer estrategias para la oferta de programas que atiendan la demanda actual de alfabetización, educación primaria y secundaria para adultos en el Estado;
 
-XII. Proponer estrategias para difundir en el Estado la importancia de la alfabetización y educación para adultos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+VII. Fomentar la participación de los actores educativos en la promoción de educación para personas mayores de 15 años, con la participación de las Coordinaciones de Zona;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+VIII. Coadyuvar con la Dirección de Desarrollo Educativo en la creación de estrategias para el enriquecimiento del modelo educativo del INAEBA;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+IX. Proponer políticas, lineamientos y criterios para la planeación, organización y funcionamiento de los lugares donde se ofrezcan los programas educativos para personas mayores de 15 años;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+X. Promover los servicios educativos del INAEBA entre la población mayor de 15 años que no haya tenido acceso o concluido la educación primaria o secundaria;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XI. Promover y supervisar la vinculación con las instituciones educativas, para que por medio de acciones de servicio social se consoliden los servicios de atención al rezago educativo;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XII. Proponer estrategias para difundir en el estado la importancia de la alfabetización, educación primaria y secundaria para personas mayores de 15 años;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
 XIII. Proponer y desarrollar mecanismos de colaboración con las autoridades municipales, estatales, federales y sociedad civil en la ejecución de los servicios que brinda el INAEBA;
 
-XIV. Realizar acciones interinstitucionales con los sectores productivos de bienes y servicios público, privado y social, para atender demandas de alfabetización y educación para adultos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XV. Coadyuvar con el Director General de Desarrollo Educativo y los Coordinadores Regionales en la ejecución del Sistema Educativo de Alfabetización y Educación para Adultos;
+XIV. Realizar acciones interinstitucionales con los sectores productivos de bienes y servicios público, privado y social, para atender demandas de alfabetización, educación primaria y secundaria para personas mayores de 15 años;
 
-XVI. Establecer las directrices que las Coordinaciones Regionales deberán observar para la definición de objetivos, metas y proyectos orientados al ámbito de alfabetización y educación para adultos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XVII. Coadyuvar con el Director General de Desarrollo Educativo en la integración y mejora del subsistema educativo encabezado por el INAEBA;
+XV. Coadyuvar con el Director de Desarrollo Educativo y Coordinadores de Zona en la ejecución del Sistema Educativo de alfabetización, educación primaria y secundaria para personas mayores de 15 años;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XVI. Establecer las directrices que las Coordinaciones de Zona deberán observar para la definición de objetivos, metas y proyectos orientados al ámbito de alfabetización, educación primaria y secundaria para personas mayores de 15 años;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XVII. Coadyuvar con el Director de Desarrollo Educativo en la integración y mejora del campo de educación de adultos encabezado por el INAEBA;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
 XVIII. Impulsar estrategias que faciliten la movilidad de los educandos entre subsistemas y niveles educativos;
 
-XIX. Proponer la vinculación entre los subsistemas y organismos sectorizados a la SEG, para coordinar esfuerzos en materia de alfabetización y educación para adultos, procurando el desarrollo integral de las personas en un marco de fomento a los valores universales;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XIX. Proponer la vinculación entre los subsistemas y organismos sectorizados a la SEG, para coordinar esfuerzos en materia de alfabetización, educación primaria y secundaria para personas mayores de 15 años, procurando el desarrollo integral de las personas en un marco de fomento a los valores universales;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
 XX. Promover programas permanentes tendientes a impulsar la educación durante y para toda la vida;
 
-XXI. Proponer convenios de coordinación con las instancias competentes en materia de formación para el trabajo, para el beneficio de las personas mayores que reciben los servicios del INAEBA;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XXII. Fomentar la coordinación de acciones para el desarrollo de programas de apoyo asistencial, educación para adultos, alfabetización y demás programas especiales;
+XXI. Proponer convenios de coordinación con las instancias competentes en materia de formación para el trabajo, para el beneficio de las personas mayores de 15 años que reciben los servicios del INAEBA;
 
-XXIII. Facilitar y difundir el material didáctico para la ejecución de los programas educativos; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XXIV. Las demás que le confiera el Director General del INAEBA.
+XXII. Fomentar la coordinación de acciones con los programas de Apoyo Asistencial, educación primaria y secundaria para personas mayores de 15 años, alfabetización y demás programas especiales;
 
-#### SECCIÓN CUARTA. DE LA COORDINACIÓN DE ACREDITACIÓN Y CERTIFICACIÓN
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXIII. Facilitar y difundir el material didáctico para la ejecución de los programas educativos;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXIV. Homologar los servicios educativos que se prestan en los CASSA;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXV. Dar seguimiento a las solicitudes de las instancias, tanto para apertura, como para mantenimiento de los CASSA y proponer ante la Dirección General nuevos centros o su reubicación, atendiendo a la suficiencia financiera;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXVI. Implementar el modelo de operación de los CASSA;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXVII. Coordinarse con las áreas de investigación y desarrollo para evaluar el seguimiento y proponer estrategias y acciones viables para fortalecer los servicios competencia del INAEBA, mediante las nuevas tecnologías;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXVIII. Propiciar procesos de desarrollo educativo y social que permitan, tanto a las personas como a los grupos, decidir así como asumir sus propios procesos y proyectos de desarrollo integral;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXIX. Dar seguimiento a los convenios establecidos para la apertura y operación de los CASSA; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XXX. Las demás que les confiera el Director General del INAEBA.
+
+Artículo 24 bis (sic).- (DEROGADO, P.O. 8 DE AGOSTO DE 2008)
+
+> <small>(REFORMADA [N. DE E. ANTES SECCION UNICA], P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS COORDINACIONES DE ZONA
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 25.
 
-Las Coordinaciones Regionales del INAEBA se integrarán acordes con la organización funcional de la Secretaría de Educación de Guanajuato y tendrán las siguientes facultades:
+Las Coordinaciones de Zona del INAEBA se integrarán de acuerdo a la distribución que para tales efectos se establezca en el Manual de Organización, Políticas y Procedimientos del INAEBA y a las necesidades que se requieran, y tendrán las siguientes facultades:
 
-I. Acordar con el Director General de Gestión Regional el desarrollo de los asuntos encomendados;
+I. Acordar con el Director Regional de su adscripción, el desarrollo de los asuntos encomendados;
 
 II. Integrar la documentación necesaria para la suscripción de los convenios y contratos necesarios para el cumplimiento del objeto del INAEBA, en su ámbito territorial;
 
-III. Presentar el anteproyecto del presupuesto anual de la Coordinación Regional al Director General de Gestión Regional;
+III. Presentar el anteproyecto del presupuesto anual de la Coordinación de Zona al Director Regional de su adscripción;
 
-IV. Ejercer eficientemente el presupuesto asignado a la Coordinación Regional;
+IV. Presentar al Director Regional de su adscripción, la planeación anual de la Coordinación de Zona;
 
-V. Coadyuvar, en coordinación con el Director General de Gestión Regional, en la ejecución de los programas y proyectos del INAEBA;
+V. Ejercer eficientemente el presupuesto asignado a la Coordinación de Zona;
 
-VI. Realizar acciones de vinculación que permitan ampliar los servicios, consolidar los ya existentes, y obtener concurrencias de recursos;
+VI. Coadyuvar, en coordinación con el Director Regional de su adscripción, en la ejecución de los programas y proyectos del INAEBA;
 
-VII. Promover, difundir y ejecutar en los municipios del Estado que conforman la región correspondiente, los proyectos y acciones de educación para adultos;
+VII. Definir los objetivos y metas en la región de su adscripción atendiendo las directrices formuladas por su Director Regional;
 
-VIII. Establecer un centro de documentación e información relacionado con las funciones y actividades desarrolladas con recursos y en cumplimiento de los fines del INAEBA, emitiendo los informes que le soliciten las áreas competentes;
+VIII. Realizar acciones de vinculación que permitan obtener la concurrencia de recursos a fin de ampliar los servicios educativos del INAEBA y consolidar los ya existentes;
 
-IX. Presentar periódicamente al Director General de Gestión Regional, toda clase de informes sobre datos estadísticos de los avances en los servicios que ofrece el INAEBA, informando de la problemática que se pudiera presentar y las propuestas de solución;
+IX. Promover, difundir y ejecutar en los municipios del Estado que conforman la zona correspondiente, los proyectos y acciones de educación para adultos;
 
-X. Coadyuvar con las demás Coordinaciones Regionales del INAEBA a fin de atender la demanda de los servicios que ofrece y que se requiera de manera intermunicipal;
+X. Establecer un centro de documentación e información relacionado con las funciones y actividades desarrolladas con recursos y en cumplimiento de los fines del INAEBA, emitiendo los informes que le soliciten las áreas competentes;
 
-XI. Difundir entre el personal a su cargo en la región que les corresponde la misión, visión, objetivos y valores que enaltecen al INAEBA; y
+XI. Presentar periódicamente al Director Regional de su adscripción, toda clase de informes sobre datos estadísticos de los avances en los servicios que ofrece el INAEBA, informando de la problemática que se pudiera presentar y las propuestas de solución;
 
-XII. Las demás que le confiera el Director General de Gestión Regional.
+XII. Coadyuvar con las demás Coordinaciones de Zona del INAEBA a fin de atender la demanda de los servicios que ofrece y que se requiera de manera intermunicipal;
 
-#### SECCIÓN ÚNICA. DE LAS COORDINACIONES REGIONALES
+XIII. Difundir entre el personal a su cargo en la zona que les corresponde, la misión, visión, objetivos y valores que enaltecen al INAEBA; y
+
+XIV. Las demás que le confiera el Director Regional de su adscripción.
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ### CAPÍTULO SEXTO. DE LAS UNIDADES DE APOYO DIRECTO AL DIRECTOR GENERAL DEL INAEBA
 
@@ -457,17 +633,49 @@ I. Dirección Administrativa;
 
 II. Dirección de Planeación;
 
-III. Dirección de Servicios Jurídicos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-IV. Coordinación de Comunicación Social; y
+III. Dirección de Asuntos Jurídicos;
 
-V. Secretaría Particular.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN ADMINISTRATIVA
+IV. Dirección de Servicios Escolares y Sistemas de Información;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+V. Coordinación de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+VI. Secretaría Particular.
+
+#### SECCIÓN PRIMERA «A». DE LA COORDINACION DE CAPACITACION
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+Artículo 28 A.- La Coordinación de Capacitación tendrá las siguientes facultades:
+
+I. Elaborar el perfil, seleccionar, formar y capacitar al personal del INAEBA;
+
+II. Elaborar el diagnóstico de necesidades de capacitación del personal del INAEBA;
+
+III. Analizar y diagnosticar las evaluaciones de capacitación del personal para obtener información que permita la toma de decisiones, con el fin de lograr la calidad en la prestación de sus servicios;
+
+IV. Presentar para su autorización al Director Administrativo, la planeación anual de sus servicios;
+
+V. Vincularse con la Dirección de Desarrollo Educativo, a fin de atender las necesidades de formación, capacitación y desarrollo de los asesores, promotores y gestores educativos en las modalidades existentes, tanto en línea como presenciales; aplicar las modalidades existentes, tanto en línea como presenciales, relacionadas con la formación, capacitación y desarrollo de los asesores, promotores y gestores educativos;
+
+VI. Asesorar y capacitar a las Direcciones Regionales y Coordinaciones de Zona, respecto a la alfabetización, educación primaria y secundaria para personas mayores de 15 años;
+
+VII. Diagnosticar, con base en el modelo educativo, las necesidades de formación para cada uno de los actores educativos;
+
+VIII. Ejecutar la práctica de novedosas técnicas didácticas para el fortalecimiento en la capacitación de los asesores e instructores del INAEBA; y
+
+IX. Las demás que le confiera el Director Administrativo.
 
 ###### Artículo 28.
 
-La Dirección Administrativa, tendrá las siguientes facultades:
+La Dirección Administrativa deberá planear, apoyar, coordinar y supervisar el trabajo de la Coordinación de Capacitación y tendrá las siguientes facultades:
 
 I. Atender las necesidades de recursos materiales, financieros y humanos de las unidades del INAEBA, de acuerdo con los lineamientos generales y políticas establecidas en la normatividad vigente;
 
@@ -489,17 +697,27 @@ IX. Actualizar los almacenes de mobiliario, equipo y materiales;
 
 X. Elaborar e integrar el sistema contable del INAEBA, que permita obtener los estados financieros, periódicos y extraordinarios del ejercicio presupuestal, así como atender las obligaciones fiscales y contables del Organismo, conforme a la normatividad aplicable;
 
-XI. Administrar los sistemas de información, bases de datos, redes y enlaces con que cuenta el INAEBA;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XII. Brindar el mantenimiento preventivo y correctivo de los bienes informáticos;
+XI. Coordinar la operación de las diversas modalidades, relacionadas con la formación, capacitación y desarrollo del personal del INAEBA;
 
-XIII. Diseñar, implementar y monitorear los sistemas de información que permitan el logro de los objetivos institucionales; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XIV. Las demás que le confiera el Director General del INAEBA.
+XII. Gestionar ante las instancias correspondientes, los recursos necesarios para llevar a cabo los cursos de capacitación que sean procedentes: y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XIII. Las demás que le confiera el Director General del INAEBA.
+
+XIV. (DEROGADA, P.O. 8 DE AGOSTO DE 2008)
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE AGOSTO DE 2008)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PLANEACIÓN
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS JURÍDICOS
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 29.
 
@@ -509,13 +727,17 @@ I. Coordinar y organizar la planeación estratégica de los programas y servicio
 
 II. Dirigir, en coordinación con el Director General del INAEBA, los procesos de planeación y programación, estableciendo los mecanismos de seguimiento y evaluación de las metas y compromisos adquiridos;
 
-III. Planear y establecer las estrategias de coordinación interinstitucional entre organismos de los sectores público, privado y social relacionados con la alfabetización y educación para adultos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+III. Planear y establecer las estrategias de coordinación interinstitucional entre organismos de los sectores público, privado y social relacionados con la alfabetización, educación primaria y secundaria para personas mayores de 15 años;
 
 IV. Mantener actualizada la base de datos relacionada con la cobertura y eficiencia de los programas educativos del INAEBA;
 
 V. Apoyar, asesorar y promover la realización de estudios y diagnósticos necesarios para diseñar y evaluar políticas en los programas y proyectos del INAEBA;
 
-VI. Diseñar, proponer y realizar estudios e investigaciones para la medición, análisis y evaluación de la actividad de alfabetización y educación para adultos estatal y sus impactos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+VI. Diseñar, proponer y realizar estudios e investigaciones para la medición, análisis y evaluación de la actividad de alfabetización, educación primaria y secundaria para personas mayores de 15 años en el estado y sus impactos;
 
 VII. Crear y desarrollar un sistema de evaluación integral que considere los insumos, procesos y productos del INAEBA;
 
@@ -527,17 +749,109 @@ X. Mantener actualizada la bases de datos relacionada con el padrón único de b
 
 XI. Las demás que le confiera el Director General INAEBA.
 
-#### SECCIÓN CUARTA. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2008)</small>
 
-#### SECCIÓN QUINTA. DE LA SECRETARÍA PARTICULAR
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE SERVICIOS ESCOLARES Y SISTEMAS DE INFORMACIÓN
 
-#### SECCIÓN PRIMERA. DE LAS SUPLENCIAS
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-#### SECCIÓN SEGUNDA. DE LAS RELACIONES LABORALES
+Artículo 30 A.- La Dirección de Servicios Escolares y Sistemas de Información, deberá planear, apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
+
+I. Coordinación de Acreditación y Certificación;
+
+II. Coordinación de Control Escolar; y
+
+III. Coordinación de Soporte Técnico.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+Articulo 30 B.- La Dirección de Servicios Escolares y Sistemas de Información tendrá las siguientes facultades:
+
+l. Desarrollar, administrar y dar soporte técnico de los sistemas que atiendan las necesidades de generación, integración y análisis de información que el INAEBA requiera;
+
+II. Establecer enlaces eje telecomunicaciones a través de los diferentes tipos de infraestructuras para eficientar la comunicación y el intercambio de información de manera segura en las áreas del INAEBA;
+
+III. Resguardar la integridad y seguridad de los datos almacenados en los sistemas de información del Instituto;
+
+V. Instrumentar las políticas y mecanismos del uso racional de la infraestructura informática;
+
+VI. Eficientar los procesos de envío y recepción de la información documental y digital relacionados con el rendimiento y control escolar;
+
+VII. Administrar y resguardar el archivo documental de beneficiarios de los diferentes servicios educativos que ofrece el Instituto; y
+
+VIII. Las demás que le confiera el Director General del INAEBA.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN CUARTA «A». DE LA COORDINACIÓN DE ACREDITACIÓN Y CERTIFICACIÓN
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+Artículo 30 C.- La Coordinación de Acreditación y Certificación tendrá las siguientes facultades:
+
+I. Mantener actualizada la base de datos relacionada con la acreditación y certificación de estudios;
+
+II. Coordinarse con la Dirección de Servicios Escolares y Sistemas de Información para eficientar los mecanismos de envío y recepción de los datos relacionados con el control escolar;
+
+III. Mantener una estrecha relación con las Direcciones Regionales con el fin de proponer conjuntamente estrategias de mejora, del proceso de acreditación y certificación;
+
+IV. Presentar para su autorización al Director de Servicios Escolares y Sistemas de Información, la planeación anual de sus servicios;
+
+V. Llevar a cabo las acciones pertinentes, ante las instancias correspondientes, para la expedición de la certificación de estudios ofertada en el INAEBA;
+
+VI. Vincularse con la Coordinación de Control Escolar en lo concerniente a la acreditación y tramitación de las constancias y certificados de educación para adultos; y
+
+VII. Las demás que le confiera el Director de Servicios Escolares y Sistemas de Información.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN CUARTA «B». DE LA COORDINACIÓN DE CONTROL ESCOLAR
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+Artículo 30 D.- La Coordinación de Control Escolar tendrá las siguientes facultades:
+
+I. Operar y actualizar el sistema de control escolar;
+
+II. Operar el control escolar para la ejecución oportuna de los servicios de acreditación, tramitación de constancias y certificados de educación para jóvenes y adultos;
+
+III. Tramitar los certificados y constancias educativas a través del sistema de control escolar;
+
+IV. Presentar para su autorización al Director de Servicios Escolares y Sistemas de Información, la planeación anual de sus servicios;
+
+V. Realizar la programación de los módulos de inscripción, acreditación y certificación del control escolar;
+
+VI. Elaborar reportes periódicos de avance de metas a la Dirección de Servicios Escolares y Sistemas de Información; y
+
+VII. Las demás que le confiera el Director de Servicios Escolares y Sistemas de Información.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN CUARTA «C». DE LA COORDINACIÓN DE SOPORTE TÉCNICO
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+Artículo 30 E.- La Coordinación de Soporte Técnico tendrá las siguientes facultades:
+
+I. Dar mantenimiento preventivo y correctivo a los equipos informáticos del INAEBA;
+
+II. Brindar asesoría técnica sobre el uso del software a los usuarios de los equipos de cómputo del INAEBA;
+
+III. Proporcionar mantenimiento preventivo y correctivo al equipo de cómputo de las diversas áreas;
+
+IV. Proporcionar cursos de capacitación de los programas computacionales requeridos por el personal, para la mejora de la prestación de los servicios;
+
+V. Coordinar y realizar las acciones necesarias para mantener en buen estado la señal satelital, que permita el adecuado uso del Internet requerido por el INAEBA;
+
+VI. Presentar para su autorización al Director de Servicios Escolares y Sistemas de Información, la planeación anual de sus servicios; y
+
+VII. Las demás que le confiera el Director de Servicios Escolares y Sistemas de Información.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADA, ANTES SECCION CUARTA], P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 30.
 
-La Dirección de Servicios Jurídicos, tendrá las siguientes facultades:
+La Dirección de Asuntos Jurídicos tendrá las siguientes facultades:
 
 I. Asesorar al INAEBA, en la interpretación de las disposiciones legales de su competencia, así como en los asuntos relevantes de carácter jurídico;
 
@@ -561,9 +875,21 @@ X. Expedir copias certificadas de las constancias que obren en los archivos del 
 
 XI. Compilar las leyes, reglamentos, decretos y disposiciones federales, estatales y municipales, particularmente las relacionadas con las atribuciones del INAEBA;
 
-XII. Fungir como la Unidad de Enlace en las solicitudes de Acceso a la Información; y
+XII. (DEROGADA, P.O. 8 DE AGOSTO DE 2008)
 
 XIII. Las demás que le confiera el Director General del INAEBA.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+
+#### SECCIÓN SEXTA. DE LA SECRETARIA PARTICULAR
+
+#### SECCIÓN PRIMERA. DE LAS SUPLENCIAS
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS RELACIONES LABORALES
 
 ###### Artículo 31.
 
@@ -585,9 +911,21 @@ VII. Brindar apoyo en giras, foros y eventos que sean organizados o participe el
 
 VIII. Fomentar la buena relación con los medios de comunicación masiva por medio del envío e información oportuna y constante;
 
-IX. Apoyar en la elaboración del documento descriptivo para la participación del INAEBA en el informe Anual de Gobierno; y
+IX. Apoyar en la elaboración del documento descriptivo para la participación del INAEBA en el informe Anual de Gobierno; y (sic)
 
-X. Las demás que le confiera el Director General del INAEBA.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+X. Aplicar y mejorar los mecanismos de comunicación interna y externa, con la finalidad de fortalecer el posicionamiento del INAEBA;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XI. Presentar para su autorización al Director General, la planeación anual de sus servicios; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XII. Las demás que le confiera el Director General del INAEBA.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION QUINTA], P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 32.
 
@@ -607,9 +945,21 @@ VI. Convocar a los funcionarios del INAEBA con los que el Director General deba 
 
 VII. Recibir las invitaciones y convocatorias a reuniones que le sean realizadas al Director General del INAEBA, acordando con él su atención;
 
-VIII. Dar seguimiento a los acuerdos y asuntos del Director General del INAEBA; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-IX. Las demás que le confiera el Director General del INAEBA.
+VIII. Realizar acciones de vinculación con los diversos sectores de la sociedad, con el objeto de generar sinergia en los servicios del INAEBA;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+IX. Dar seguimiento a los acuerdos y asuntos del Director General del INAEBA;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+X. Fungir como la Unidad de Enlace en las solicitudes de Acceso a la información; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XI. Las demás que le confiera el Director General del INAEBA.
 
 ### CAPÍTULO SÉPTIMO. DEL ÓRGANO DE VIGILANCIA
 
@@ -647,7 +997,7 @@ XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así
 
 ###### Artículo 35.
 
-Las suplencias del Director General del INAEBA, serán cubiertas por el Director General que al efecto designe. Los demás funcionarios del INAEBA serán suplidos en sus ausencias conforme al nombramiento que realice para tales efectos el responsable de la unidad administrativa, previo acuerdo con el Director General del INAEBA.
+Las suplencias del Director General del INAEBA, serán cubiertas por el Director que al efecto designe. Los demás funcionarios del INAEBA serán suplidos en sus ausencias conforme al nombramiento que realice para tales efectos el responsable de la unidad administrativa, previo acuerdo con el Director General del INAEBA.
 
 ###### Artículo 36.
 
@@ -668,3 +1018,9 @@ SECRETARIO DE EDUCACIÓN DE GUANAJUATO
 RICARDO TORRES ORIGEL
 
 EL SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2008.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
