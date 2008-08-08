@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2008-06-27"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2008.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -595,9 +595,7 @@ La obligación de cubrir los derechos que establece este artículo nace desde el
 
 > <small>(ADICIONADO, P.O 31 DE DICIEMBRE DE 1988)</small>
 
-###### ARTICULO 75 Bis-A.
-
-Se establece el Impuesto Predial:
+ARTICULO 75 Bis A.- Se establece el Impuesto Predial:
 
 I.- Es objeto del Impuesto Predial:
 
@@ -715,143 +713,147 @@ XIV.- Las sociedades, agrupaciones, empresas o personas físicas que exploten bo
 
 XV.- Para los efectos de este Impuesto se tomarán en cuenta la (sic) definiciones que sobre las distintas clases de predios y construcciones contiene la Ley del Catastro Inmobiliario del Estado de Baja California.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-###### ARTICULO 75 Bis-B.
+ARTICULO 75 Bis B.- Se establece el impuesto sobre adquisición de inmuebles. El cual se regirá de la siguiente forma:
 
-Se establece el impuesto sobre adquisición de inmuebles y transmisión de dominio:
+A.- Son sujetos del Impuesto previsto en este artículo, las personas físicas y morales que adquieran bienes inmuebles consistentes en el suelo, o en el suelo y las construcciones adheridas a él, ubicados en los Municipios del Estado, así como la adquisición de derechos reales o posesorios sobre los bienes inmuebles.
 
-I.- Están obligados al pago de este impuesto las personas físicas o morales que adquieran o enajenen inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a el, ubicados en el territorio del Eestado (sic), así como los derechos reales o posesorios independientemente del nombre que le asigne la Ley que regule el acto que les de origen.
+Es objeto del impuesto la adquisición de los inmuebles a que se refiere el párrafo anterior.
 
-El objeto de este impuesto es la adquisición de inmuebles y los derechos sobre los mismos. Cuando por acuerdo expreso o tácito de las partes, por determinación de la Ley o por resolución de las autoridades de trabajo, judiciales o administrativas, el enajenante se ve obligado al pago, el objeto de este impuesto será la Transmisión de Dominio.
+I.- Para efectos de este impuesto los actos mediante los cuales se adquieren bienes inmuebles, o derechos reales o posesorios serán los siguientes:
 
-En ningún caso se gravará dos veces una misma operación con el impuesto a que se refiere el presente artículo, por lo que si se paga por la adquisición no se gravará la transmisión o la inversa, a excepción del contrato de permuta, en virtud de que mediante el se realizan dos adquisiciones.
+a) La compraventa, aun y cuando el vendedor se reserve la propiedad;
 
-II.- El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
+b) La prescripción positiva;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+c) La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión o que el futuro vendedor recibirá el precio de la venta o parte de el, antes de que se celebre el contrato prometido;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1991)</small>
+d) La cesión de derechos del comprador o del futuro comprador;
 
-III.- La base para determinar el importe a pagar por concepto de este impuesto, será el que resulte mayor entre:
+e) La dación de pago, liquidación, reducción de capital, pago en especie, utilidades o dividendos, de asociaciones o sociedades civiles o mercantiles;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+f) La fusión de sociedades;
 
-El avalúo que al efecto practique la autoridad fiscal municipal.
+g) La escisión de sociedades, cuando no se cumplan los requisitos que señala el artículo 14-B del Código Fiscal de la Federación;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+h) El fideicomiso;
 
-El valor catastral.
+i) La aportación a toda clase de sociedades y asociaciones;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+j) El usufructo;
 
-El valor del inmueble que resulte de actualizar el precio pactado por el factor que obtenga de dividir el Indice Nacional de Precios al Consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquel en que se efectúo la adquisición. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido en la fecha de la adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, este no se tomará en cuenta y el impuesto se calculará sobre el valor del avalúo, determinándose las diferencias de impuestos que resulten.
+k) La cesión de derechos del heredero o legatario;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
+l) La Donación, legado y herencia;
 
-En todo caso, se aplicará una deducción equivalente a un salario mínimo general elevado al año, que rija en el Estado en el momento en que se realice el acto generador.
+m) La permuta, por cada adquisición; y,
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1995)</small>
+n) Todo acto por el que se adquiera la propiedad o derechos reales o posesorios sobre bienes inmuebles, no enunciados en los incisos anteriores.
 
-El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará la deducción a que se refiere el párrafo anterior.
+II.- La base para determinar el importe a pagar por concepto de este impuesto, será el que resulte mayor entre:
 
-Para los fines de este artículo, se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
+a) El valor del inmueble que resulte de actualizar el precio pactado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
+b) El valor catastral; y,
 
-La deducción a que se refiere el párrafo quinto de la fracción III de este artículo, se realizará conforme a lo siguiente:
+c) El valor comercial del inmueble resultante del avalúo, realizado en los términos del apartado B de este artículo, que al efecto determine el perito valuador autorizado por la autoridad municipal.
 
-a).- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir la verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la deducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
+Para los fines de este artículo, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos del 50% del valor de la propiedad.
 
-b).- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere la fracción VII de este Artículo, la deducción se hará en la proporción que corresponda a dicha parte.
+El valor del inmueble se actualizará, aplicándole al precio pactado el factor de actualización. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que publique el Banco de México, del mes inmediato anterior, a aquel en que se realice el pago, entre el mencionado Índice correspondiente al mes anterior a aquel en que se efectuó la adquisición.
 
-c).- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la deducción por cada uno de ellos.
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
-d).- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
+Las autoridades fiscales estarán facultadas para ordenar, o tomar en cuenta el avalúo del inmueble referido en la fecha de la adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, este no se tomará en cuenta y el impuesto se calculara sobre el valor del avalúo, determinándose las diferencias de impuestos que resulten.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1991)</small>
+III.- Al valor obtenido conforme a la fracción anterior, se le aplicará una deducción equivalente a un salario mínimo general vigente en el Estado elevado al año, la cual se aplicará conforme a lo siguiente:
 
-En tratándose de donaciones, herencias y legados que se celebren entre cónyuges en las que se realicen de padres a hijos o de hijos a padres y en las operaciones en que los adquirentes sean Asociaciones Civiles que no persigan fines de lucro, se considerará que el inmueble tiene valor nulo.
+a) Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir la verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste al monto de la deducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en este inciso no es aplicable a las adquisiciones por causa de muerte;
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1991)</small>
+b) Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, la deducción se hará en la proporción que corresponda a dicha parte;
 
-Esta previsión no se aplicará a los adquirentes cuando los donatarios, herederos o legatarios cedan sus derechos sobre los bienes gravables;
+IV.- El impuesto sobre adquisición de inmuebles a pagar, será el que resulte de aplicar a la base gravable la tasa del 2%.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1991)</small>
+V.- Se aplicará a la base gravable la tasa del 0%, cuando la adquisición sea por alguno de los siguientes supuestos:
 
-IV.- El Impuesto sobre Adquisición de Inmuebles y Transmisión de Dominio a pagar será el que resulte de aplicar a la base gravable la tasa del 2%.
+a) Por donación, herencia o legado entre cónyuges;
 
-V.- Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Recaudación de Rentas Municipal, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los 30 días siguientes de la fecha en que se realice el acto generador, mediante declaración utilizando las formas que al efecto apruebe la Tesorería Municipal, debiendo acompañar el avalúo practicado por perito autorizado.
+b) Por donación, herencia o legado que se realicen de padres a hijos o de hijos a padres;
 
-La falta de formas oficiales no exime al contribuyente de la obligación de enterar el pago en el plazo señalado en el párrafo que antecede.
+c) En las operaciones en que los adquirentes sean asociaciones civiles que no persigan fines de lucro; y,
 
-VI.- Los contribuyentes que estén obligados al pago de este impuesto no podrán ser sujetos de impuestos adicionales estatales, ni municipales, por lo que respecta al pago de dicho impuesto.
+d) Por la adquisición de terrenos a través de títulos de propiedad, expedidos por el Registro Agrario Nacional que obtengan los ejidatarios.
 
-VII.- Esta Ley reconoce como fuentes que origina la adquisición de inmuebles o transmisión de dominio, así como derechos sobre los mismos los siguientes actos:
+La tasa del 0% no será aplicable cuando los donatarios, herederos o legatarios cedan sus derechos sobre los bienes gravables, y cuando los adquirentes a que se refiere el inciso d) cedan sus derechos a personas distintas a las que se hace alusión en dicho inciso.
 
-a).- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de sociedades y asociaciones.
+VI.- Se estará exento del impuesto a que se refiere este artículo, cuando el adquirente sea la Federación, el Estado o el Municipio, y los bienes sean de los clasificados como del dominio público, de acuerdo al artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-b).- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de esta opere con posterioridad.
+VII.- Los sujetos obligados al pago de este impuesto deberán efectuarlo en la Recaudación de Rentas Municipal, en que se encuentre ubicado el inmueble, dentro de los 30 días siguientes de la fecha en que se realice el acto generador, a través de la forma oficial que al efecto apruebe la autoridad fiscal Municipal, debiendo acompañar el avalúo practicado por perito autorizado en los términos del apartado B de este artículo, y el documento base de la operación.
 
-c).- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de el, antes de que se celebre el contrato prometido.
+La falta de formas oficiales no exime al contribuyente de la obligación del pago en el plazo señalado en el párrafo que antecede, pudiendo en todo momento el contribuyente pagar el impuesto por anticipado.
 
-d).- La cesión de derechos del comprador o del futuro comprador en los casos de los incisos b) y c) que anteceden, respectivamente.
+VIII.- Las autoridades judiciales, del trabajo o administrativas, están obligadas a dar aviso anticipado a la Recaudación de Rentas Municipal, que se verificara remate de inmuebles y practicado este, deberán de remitirle copia certificada de la diligencia de remate o adjudicación.
 
-e).- Fusión de sociedades.
+IX.- Los Notarios, Jueces, Funcionarios del Registro Público de la Propiedad y de Comercio, las autoridades fiscales municipales y toda persona que se encuentre investida de fé publica, no autorizaran actos o contratos de adquisición de propiedad de inmuebles o de derechos reales o posesorios, ni harán inscripciones o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe lo siguiente:
 
-f).- La dación de pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
+a) Que se haya pagado el impuesto a que se refiere este artículo.
 
-g).- Constitución de usufructo, transmisión de este o de la nuda propiedad, así como la extinción del usufructo temporal.
+b) Que esté al corriente en el pago de todas las obligaciones fiscales, a que se encuentre sujeto el inmueble objeto de la operación, hasta el mes en que se realice el pago de este impuesto;
 
-h).- Prescripción positiva.
+c) Que se ha efectuado el deslinde del predio.
 
-i).- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción de estos.
+Las comprobaciones a que se refiere esta fracción, serán, respecto del inciso a), mediante la presentación de las declaraciones o recibos oficiales, debidamente legitimados por la Recaudación de Rentas Municipal que corresponda, debiendo cumplir con los requisitos autorizados por dicha autoridad; en cuanto al inciso b), por medio del certificado de libertad de gravámenes fiscales, en el que se establezca el periodo de validez que tendrá el certificado para su utilización, el cual deberá estar debidamente firmado por el titular y contar con el sello de la dependencia correspondiente; en lo que se refiere al inciso c), con el acta o plano expedido por la dirección de catastro y control urbano o por la dependencia u organismo descentralizado que legalmente lo sustituya.
 
-j).- Enajenación a través de fideicomisos, en los términos del Código Fiscal de la Federación.
+X.- Los Notarios, Jueces y demás funcionarios públicos que violen lo dispuesto en la Fracción anterior, serán responsables solidarios del importe total de las prestaciones fiscales, que dejaren de pagar los contribuyentes de este impuesto sin perjuicio de las sanciones administrativas y de la responsabilidad penal en que incurran.
 
-> <small>(ADICIONADO, P.O 23 DE JULIO DE 1999)</small>
+XI.- Las autoridades fiscales municipales, tendrán la obligación de resolver la aprobación del avalúo presentado respecto a la adquisición en el término de siete días naturales y en el supuesto que no se resuelva en este plazo, se recibirá para los efectos de la determinación y pago del impuesto, pudiendo ejercer sus facultades de revisión posteriormente.
 
-k).- La escisión de sociedades, cuando no se cumplan los requisitos que señala el Artículo 14-A del Código Fiscal de la Federación.
+XII.- Los peritos valuadores, deberán estar registrados ante la Recaudación de Rentas Municipal que corresponda, de conformidad con los reglamentos municipales vigentes, en caso contrario se rechazarán los avalúos practicados.
 
-VIII.- Las partes que celebren alguno de los actos a que se refiere la Fracción anterior son responsables solidarios del pago de este impuesto, según sea el caso en los términos de la fracción I, de este artículo.
+B.- El avaluó que sirva de base para el cobro del impuesto previsto en este artículo, deberá sujetarse a las normas y reglas de valuación contenidas en los reglamentos municipales aprobados y publicados en el Periódico Oficial del Estado de Baja California, el cual deberá contener por lo menos:
 
-IX.- Este impuesto deberá pagarse dentro del plazo que establece la fracción V de este artículo, aún cuando el contrato se celebre con reserva de dominio o la venta sea a plazo.
+l. Los métodos o enfoques para la determinación del valor comercial como lo son:
 
-El pago del impuesto deberá hacerse dentro del mismo plazo cuando se realice cualquiera de los supuestos que a continuación se señalan:
+a).- Comparativo de Mercado;
 
-a).- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+b).- De costos; y,
 
-b).- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se causo por el cesionario o por el adquirente.
+c).- De ingresos.
 
-c).- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos, de enajenación en los términos del Código Fiscal de la Federación.
+Una vez calculado los valores de acuerdo a los tres enfoques, el valuador en función del bien a valuar y el tipo de valor requerido, deberá aplicar todos o algunos de ellos en la conclusión del valor comercial.
 
-d).- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+Los avalúos tendrán una vigencia de seis meses a partir de su elaboración. En caso de que después de realizado el avalúo se lIevaren a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, los valores consignados en dicho avalúo quedarán sin efecto, aun cuando no haya transcurrido el plazo señalado.
 
-e).- En los casos no previstos en los incisos anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+El avalúo elaborado, deberá de contener la justificación de las metodologías y técnicas utilizadas, como también la documentación comprobatoria.
 
-El contribuyente podrá pagar el impuesto por anticipado.
+II. Además, el avalúo deberá de contener como mínimo lo siguiente:
 
-X.- Las autoridades judiciales, del trabajo o administrativas, están obligadas a dar aviso anticipado a la Recaudación de Rentas Municipal, que se verificará remate de inmuebles y practicado este, deberán remitirle copia certificada de la diligencia de remate o adjudicación.
+1. Nombre del solicitante, propietario o posesionario;
 
-XI.- Los Notarios, Jueces, y toda persona que se encuentre investida de Fé Pública, así como los funcionarios del Registro Público de la Propiedad y de Comercio, no autorizará actos o contratos de transmisión de dominio o adquisición de propiedad raíz o de derechos reales o posesorios sobre los mismos, ni harán inscripción o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe lo siguiente:
+2. Clave catastral del inmueble;
 
-a).- Que se haya pagado el impuesto a que se refiere la fracción I de este artículo.
+3. Antecedentes;
 
-b).- Que está al corriente en el pago de todas las obligaciones fiscales a que se encuentre sujeto el inmueble objeto de la operación, hasta el mes en que se realice la autorización o registro.
+4. Fotografías del inmueble.
 
-c).- Que se ha efectuado el deslinde del predio.
+5. Características urbanas;
 
-Las comprobaciones a que se refiere este artículo se harán, respeto (sic) del primer inciso, mediante la presentación de las declaraciones o recibos oficiales que las substituyan, debidamente legitimados por la Recaudación de Rentas Municipal que corresponda mismos que deberán contener la impresión de la máquina registradora en cuanto a la segunda por medio de Certificado de Libertad de Gravámenes Fiscales, debidamente firmado por el titular y sello de la dependencia correspondiente; en lo que se refiere a la tercera con el acta o plano expedido por la Dirección de Catastro y Control Urbano o por la dependencia u organismo descentralizado que legalmente lo substituya.
+6. Descripción general del terreno;
 
-XII.- Los Notarios, Jueces y demás funcionarios públicos que violen lo dispuesto en la Fracción XI, serán responsables solidarios del importe total de las prestaciones fiscales que dejaren de pagar los contribuyentes de este impuesto sin perjuicio de las sanciones administrativas y de la responsabilidad penal en que incurran.
+7. Descripción general del inmueble;
 
-XIII.- Para los efectos del pago del impuesto, en caso de escrituras, adjudicaciones o contratos que se celebren fuera del municipio respectivo, de bienes ubicados en este, el adquirente dentro de los 60 días siguientes a la fecha de subscripción o protocolización de los mismos, deberán presentar su declaración ante la Recaudación de Rentas Municipal, en cuya jurisdicción se encuentra ubicado el o los inmuebles.
+8. Elementos de la construcción, accesorios y obras complementarias;
 
-XIV.- Para los efectos de la fracción I de este artículo, los contribuyentes del impuesto sobre adquisición de inmuebles y transmisión de dominio generado por las operaciones de adquisición o transmisión de inmuebles ubicados en el Estado, están obligados a presentar la declaración de la operación ante la Recaudación de Rentas del Ayuntamiento que corresponda, con quince días naturales de anticipación cuando menos a que concluya el plazo que señala la Fracción V de este Artículo.
+9. Consideraciones previas al avalúo;
 
-XV.- Las autoridades fiscales, de los Ayuntamientos del Estado tendrán la obligación de resolver la aprobación del avalúo presentado respecto de la adquisición o transmisión en el término de siete días naturales. En caso de que las autoridades fiscales no resuelvan en ese plazo se recibirá para los efectos del impuesto que se señala el avalúo de referencia, pudiendo revisarse posteriormente.
+10. Valor físico o directo;
 
-XVI.- Los Peritos valuadores deberán presentar ante la Recaudación de Rentas Municipal del Ayuntamiento que corresponda la documentación oficial que los acredite como legalmente autorizados por la comisión Nacional Bancaria y de Seguros en los términos de su legislación y en base igualmente a los lineamientos establecidos por el Código de Comercio y el Reglamento de Corredores, para expedir los avalúos. En caso de que no se presenten a acreditar su autorización se rechazarán los avalúos practicados.
+11. Resumen de los valores;
+
+12. Consideraciones previas a la conclusión; y,
+
+13. Conclusión.
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DEL 2000)</small>
 
@@ -2155,7 +2157,7 @@ Si se intnerpone (sic) el recurso de condonación no podrá hacer uso del recurs
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2008)</small>
 
-DE LA APLICACION DEL REDONDEO
+DE LA APLICACIÓN DEL REDONDEO
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -2342,3 +2344,21 @@ P.O. 14 DE SEPTIEMBRE DE 2007.
 P.O. 27 DE JUNIO DE 2008.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE AGOSTO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Dentro del término de 60 días siguientes a la entrada en vigor de la reforma, los Municipios deberán realizar las adecuaciones necesarias a sus reglamentos correspondientes.
+
+###### ARTICULO TERCERO.
+
+En tanto no se adecuen los reglamentos municipales, se continuarán aplicando los reglamentos municipales de la materia, en lo que no se opongan a las reformas.
+
+###### ARTICULO CUARTO.
+
+Los sujetos que hayan causado el Impuesto conforme al artículo 75 BIS B de la Ley de Hacienda Municipal del Estado de Baja California, antes de la entrada en vigor del presente Decreto y que aún no lo hayan pagado, se regirán por la disposición vigente al momento de su causación.
