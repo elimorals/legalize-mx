@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2006-11-14"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -291,13 +291,31 @@ Todo ciudadano guanajuatense tiene derecho a participar en la vida política del
 
 Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libremente, al Partido o Asociación Política de su preferencia, cumpliendo con los requisitos estatutarios de ingreso.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 17.
 
-Los Partidos Políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo, para ello tendrán derecho a postular candidatos por sí mismos, candidatos comunes o a través de coaliciones, en los términos que establezca la Ley de la materia.
+Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Para ello tendrán el derecho exclusivo de postular candidatos por sí mismos, candidatos comunes o a través de coaliciones, en los términos que establezca la Ley de la materia.
 
-El Estado garantizará que los Partidos Políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, así como los topes y bases a sus gastos de campaña. Los Partidos Políticos deberán rendir informes justificados sobre el origen y uso de todos los recursos con que cuenten, para efectos de la fiscalización a que se refiere el Artículo 31 de esta Constitución, en los términos de la Ley de la materia. Dichos informes serán públicos.
+Sólo los ciudadanos guanajuatenses podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+
+El Estado garantizará que los partidos políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, los topes y bases a sus gastos de precampaña y de campaña, así como el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
+
+El financiamiento público para los partidos políticos que mantengan su registro o acreditación después de cada elección se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico.
+
+Para que un Partido Político Estatal conserve su registro, reciba financiamiento y goce de los derechos y las prerrogativas que esta Constitución y la Ley le conceda, deberá obtener el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
+
+Para que un Partido Político Nacional tenga derecho a recibir financiamiento público, deberá haber conservado su acreditación y obtenido cuando menos el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
+
+Los partidos políticos deberán rendir informes justificados sobre el origen y uso de todos los recursos con que cuenten, para efectos de la fiscalización a que se refiere el artículo 31 de esta Constitución, en los términos de la Ley de la materia. Dichos informes serán públicos.
+
+La Ley fijará los criterios para establecer los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia Ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+La Ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales. La duración de las campañas en el año de elecciones para Gobernador no durarán más de setenta y cinco días, las campañas para elegir Diputados al Congreso no durarán más de cuarenta y cinco días y las campañas para elegir ayuntamientos no durarán más de sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la Ley.
+
+Los partidos políticos accederán a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -481,23 +499,25 @@ El Organismo Público Autónomo a que se refiere el Artículo 31 de esta Constit
 
 Los actos y resoluciones que emita el Organismo Público Autónomo en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION A LA COMPETENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO A QUE SE REFIERE LA MODIFICACION AL PRESENTE ARTICULO, VER SEGUNDO TRANSITORIO DEL DECRETO NUMERO 163, PUBLICADO EN EL P.O DE 8 DE AGOSTO DE 2008.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 31.
 
 La Soberanía del Estado reside originalmente en el pueblo y en el nombre de éste la ejercen los Titulares del Poder Público, del modo y en los términos que establecen la Constitución Federal, esta Constitución y las Leyes.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-La Organización de las elecciones es una función estatal que se realiza a través de un Organismo Público Autónomo, con la concurrencia de los poderes del Estado, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El organismo público será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
+La organización de las elecciones es una función estatal que se realiza a través de un Organismo Público Autónomo denominado Instituto Electoral del Estado de Guanajuato, con la concurrencia de los poderes del Estado, de los partidos políticos y de los ciudadanos según lo disponga la Ley. Dicho Instituto será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 La certeza, legalidad, independencia, imparcialidad, definitividad, equidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-El Organismo Público será autoridad en la materia. Profesional en su desempeño y autónomo en sus decisiones; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+El Instituto Electoral del Estado de Guanajuato será autoridad en la materia. Profesional en su desempeño y autónomo en sus decisiones; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -507,53 +527,53 @@ La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios
 
 El Organo de Dirección, como jerárquicamente superior, se integrará por Consejeros Ciudadanos, por Representantes de los Poderes Legislativo y Ejecutivo y de los Partidos Políticos. Los órganos Ejecutivos y Técnicos dispondrán del personal calificado, el estrictamente necesario, para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los Partidos Políticos. Las Mesas Directivas de casilla estarán integradas por ciudadanos.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-El Estado de Guanajuato contará con un registro estatal de electores que tendrá facultades para expedir credenciales para votar, las que serán validas exclusivamente en el ámbito local. En esta materia, el órgano autónomo encargado de la organización de los procesos electorales, podrá celebrar convenios para coordinarse con la Autoridad Federal competente, en los términos que determine la Ley.
+En los casos previstos y conforme al procedimiento que determine la Ley de la materia, el Instituto Electoral del Estado de Guanajuato podrá convenir con el Instituto Federal Electoral que asuma la organización de los procesos electorales en el Estado. Asimismo, podrá celebrar convenios con la autoridad electoral federal en materia del Registro Federal de Electores.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Los consejeros ciudadanos del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Legislatura y del Poder Ejecutivo del Estado. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
+Los Consejeros Ciudadanos del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Legislatura. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-El Organismo Autónomo, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los Municipios de la Entidad, así como de los Diputados al Congreso del Estado, hará la asignación de regidores y de Diputados de representación proporcional en los términos de los Artículos 44 y 109 de esta Constitución, así mismo fiscalizará el origen y uso de todos los recursos con que cuenten los partidos políticos, en los términos de la Ley de la materia. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
+El Instituto Electoral del Estado de Guanajuato, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los Municipios de la Entidad, así como de los Diputados al Congreso del Estado, hará la asignación de regidores y de Diputados de representación proporcional en los términos de los artículos 44 y 109 de esta Constitución, así mismo fiscalizará el origen y uso de todos los recursos con que cuenten los partidos políticos, coordinándose cuando así proceda, con el órgano técnico del Instituto Federal Electoral, en los términos de la legislación de la materia. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Para dar definitividad y garantizar la legalidad de las distintas etapas de los Procesos Electorales, la Ley establecerá un sistema de medios de impugnación, de los que conocerán, según la competencia, el Organismo Autónomo a que se refiere este artículo y el Tribunal Estatal Electoral.
+Para dar definitividad y garantizar la legalidad de las distintas etapas de los Procesos Electorales, la Ley establecerá un sistema de medios de impugnación, de los que conocerán, según la competencia, el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato. También establecerá los casos y los procedimientos conforme a los cuales el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato, en las etapas del proceso electoral que corresponda, realizarán el recuento total o parcial de votación, de la elección de Gobernador, de Diputados al Congreso o de los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-El Tribunal Estatal Electoral es el órgano autónomo y máxima autoridad jurisdiccional electoral, se integrará con cinco magistrados, que conformarán Salas Unitarias que podrán ser regionales, mismos que serán designados por las dos terceras partes de los miembros del Congreso, dos a propuesta del Ejecutivo y tres a propuesta del Pleno del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley. Los Poderes Ejecutivo, Legislativo y Judicial garantizarán su debida integración.
+El Tribunal Electoral del Estado de Guanajuato es el órgano autónomo y máxima autoridad jurisdiccional electoral, se integrará con cinco magistrados, que conformarán Salas Unitarias que podrán ser regionales, mismos que serán designados por las dos terceras partes de los miembros presentes del Congreso, dos a propuesta del Ejecutivo y tres a propuesta del Pleno del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley. Los Poderes Ejecutivo, Legislativo y Judicial garantizarán su debida integración.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-La designación de Magistrados propuestos por el Pleno del Supremo Tribunal de Justicia, deberá recaer preferentemente entre sus miembros y actuarán exclusivamente durante el proceso electoral, de acuerdo a lo que disponga la Ley.
+La designación de Magistrados propuestos por el Pleno del Supremo Tribuna (sic) de Justicia, deberá recaer entre sus miembros quienes actuarán durante el proceso electoral, y en los supuestos que disponga la Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-El Tribunal Estatal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores.
+El Tribunal Electoral del Estado de Guanajuato tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral, en materia de participación ciudadana y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Para el ejercicio de su competencia, el Tribunal Estatal Electoral contará con Magistrados y Jueces Instructores.
+Para el ejercicio de su competencia, el Tribunal Electoral del Estado de Guanajuato contará con Magistrados y Jueces Instructores.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Los Magistrados del Tribunal Estatal Electoral, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+Los Magistrados del Tribunal Electoral del Estado de Guanajuato, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-El Pleno del Tribunal Electoral del Estado, será competente para resolver en segunda instancia los recursos que se interpongan contra la declaratoria de validez de la (sic) elecciones de Gobernador, de Diputados o de Ayuntamiento y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las Autoridades Electorales competentes en los términos de la Ley.
+El Pleno del Tribunal Electoral del Estado de Guanajuato, será competente para resolver en segunda instancia los recursos que se interpongan contra la declaratoria de validez de las elecciones de Gobernador, de Diputados o de Ayuntamiento y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las Autoridades Electorales competentes.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-En materia Electoral los recursos o medios de impugnación no producirán, en ningún caso, efectos suspensivos del acto o resolución impugnados.
+En materia electoral los recursos o medios de impugnación no producirán, en ningún caso, efectos suspensivos del acto o resolución impugnados. La legislación penal y la electoral, respectivamente, tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones que les correspondan.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-La Ley garantizará que los consejeros ciudadanos que integrarán el organismo autónomo, a que se refiere este artículo, y los Magistrados del Tribunal Estatal Electoral, no tengan antecedentes de militancia partidaria.
+La Ley garantizará que los consejeros ciudadanos que integrarán el organismo autónomo, a que se refiere este artículo, y los Magistrados del Tribunal Electoral del Estado de Guanajuato, no tengan antecedentes de militancia partidaria.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -727,7 +747,9 @@ III.- Tener residencia en el Estado cuando menos de dos años anteriores a la fe
 
 No podrán ser diputados al Congreso del Estado:
 
-I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y forma de designación; los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo; el Procurador General de Justicia; los Magistrados del Supremo Tribunal de Justicia; los que se encuentren en servicio activo en el Ejército Federal o en otra Fuerza de Seguridad Pública; los que sean Miembros de los Ayuntamientos o de los Concejos Municipales y quienes funjan como Secretario, Oficial Mayor o Tesorero de los mismos, siempre que estos últimos ejerzan sus funciones dentro del Distrito o circunscripción en que habrá de efectuarse la elección, a no ser que cualesquiera de los nombrados se separen de sus cargos cuando menos noventa días antes de la fecha de la elección;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y forma de designación; los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo; el Procurador General de Justicia; los Magistrados del Supremo Tribunal de Justicia; los que se encuentren en servicio activo en el Ejército Federal o en otra Fuerza de Seguridad Pública; los presidentes municipales o los presidentes de los Concejos Municipales y quienes funjan como Secretario, Oficia (sic) Mayor o Tesorero, siempre que estos últimos ejerzan sus funciones dentro del Distrito o circunscripción en que habrá de efectuarse la elección, a no ser que cualesquiera de los nombrados se separen de sus cargos cuando menos noventa días antes de la fecha de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -784,6 +806,10 @@ El Congreso celebrará Período Extraordinario de Sesiones cada vez que para ell
 El Congreso no puede abrir sus Períodos, ni ejercer sus funciones, sin la concurrencia de la mayoría de sus Miembros.
 
 Los presentes reunidos el día señalado por la Ley para la instalación del Congreso, compelerán a los ausentes a que concurran dentro de los quince días siguientes con la advertencia de que si no lo hiciesen se entenderá, por ese solo hecho, que rehusan su encargo, llamándose de inmediato a sus Suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+En el caso de las vacantes, en cualquier tiempo, de los miembros del Congreso electos por el Principio de Representación Proporcional, si no concurren los suplentes, dentro de los quince días siguientes, se declarará vacante el puesto y se llamará al candidato de la fórmula que figure como siguiente en el orden de prelación de la lista del mismo partido.
 
 Incurrirán en responsabilidades y se harán acreedores a las sanciones que la Ley señala, quienes habiendo sido electos Diputados no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo, dentro del plazo señalado en el segundo párrafo de este artículo. Se sancionará con la pérdida de su registro a los Partidos Políticos que, habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
 
@@ -947,9 +973,11 @@ XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y co
 
 XII.- Solicitar al Gobernador del Estado la comparecencia de Funcionarios del Poder Ejecutivo para que informen al Congreso, cuando se discuta o estudie un asunto relativo a las funciones que aquéllos ejerzan. Solicitar la comparecencia de los Presidentes de los Ayuntamientos y Concejos Municipales y la de los Titulares de los Organismos Públicos Doscentralizados (sic) de los Municipios, para los mismos efectos;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XIII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado presentado por el Gobernador, previa aprobación de la Ley de Ingresos respectiva.
+XIII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado presentado por el Gobernador, previa aprobación de la Ley de Ingresos respectiva. Así como autorizar en dicho Presupuesto, las erogaciones plurianuales para aquellos proyectos de inversión pública que se determinen conforme a lo dispuesto en la Ley; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
 
 En el supuesto de que al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado la Ley de Ingresos o la Ley del Presupuesto General de Egresos, en tanto sean expedidas el Congreso no podrá ocuparse de ninguna otra Ley, mientras tanto se aplicará la vigente en el año inmediato anterior; en tal caso, se estará a lo establecido por la Ley Reglamentaria;
 
@@ -1255,7 +1283,11 @@ V.- Rendir, ante el Congreso del Estado, el Informe a que se refiere el Artícul
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
-VI.- Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto General de Egresos del Estado y de Ley de Ingresos del Estado, así como su Cuenta Pública trimestral y su concentrado anual, en la forma y términos que establezca la Ley;
+VI.- Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto General de Egresos del Estado y de Ley de Ingresos del Estado, así como su Cuenta Pública trimestral y su concentrado anual, en la forma y términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+La iniciativa de Ley del Presupuesto General de Egresos del Estado deberá contener las erogaciones plurianuales para aquellos proyectos de inversión pública que se determinen conforme a lo dispuesto en la Ley;
 
 VII.- Vigilar que la recaudación y distribución de los Fondos Públicos se sujeten en todo a la Ley;
 
@@ -1357,9 +1389,9 @@ Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del E
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. DEL SUPREMO TRIBUNAL DE JUSTICIA
+#### SECCION TERCERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO CUARTO. DEL PODER JUDICIAL
 
@@ -1375,7 +1407,7 @@ El Ministerio Público contará con instituciones especializadas en la procuraci
 
 Para ser Procurador General de Justicia se deben reunir los requisitos que señala el artículo 86 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO PRIMERO. DEL PATRIMONIO
 
@@ -1383,13 +1415,13 @@ Para ser Procurador General de Justicia se deben reunir los requisitos que seña
 
 ###### ARTICULO 82.
 
-Para la defensa de los derechos de los particulares frente a los actos de las autoridades administrativas, estatales y municipales, se podrá crear un Tribunal de lo Contencioso Administrativo, con la competencia, jurisdicción, organización, número de Magistrados y Salas que la Ley de la materia establezca.
+El Tribunal de lo Contencioso Administrativo es un órgano de control de legalidad, para la defensa de los derechos de los particulares frente a los actos de las autoridades administrativas estatales y municipales, dotado de plena jurisdicción e imperio para hacer cumplir sus resoluciones. La ley establecerá su competencia, funcionamiento e integración.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-#### SECCION SEGUNDA. DE LOS JUECES DE PARTIDO Y DE LOS JUECES MENORES Y DE LOS TRIBUNALES ESPECIALIZADOS EN LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES
+#### SECCION PRIMERA. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 83.
 
@@ -1673,9 +1705,9 @@ Los Magistrados, los Consejeros, los Jueces, los Secretarios y los Actuarios del
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
-#### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
+#### SECCION SEGUNDA. DE LOS JUECES DE PARTIDO Y DE LOS JUECES MENORES Y DE LOS TRIBUNALES ESPECIALIZADOS EN LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 93.
 
@@ -1749,9 +1781,9 @@ IV.- Por incurrir en responsabilidad en los términos de esta Constitución y de
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-#### SECCION SEGUNDA. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
+#### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 95.
 
@@ -1893,9 +1925,9 @@ Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayun
 
 ### CAPITULO UNICO. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-#### SECCION TERCERA. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+#### SECCION SEGUNDA. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1919,6 +1951,10 @@ II.- Los Regidores serán electos por el Principio de Representación Proporcion
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
+#### SECCION TERCERA. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
 ###### ARTICULO 110.
 
 Para ser Presidente Municipal, Síndico o Regidor, se requiere:
@@ -1939,7 +1975,9 @@ III.- Tener cuando menos dos años de residir en el municipio en donde deba dese
 
 No podrán ser Presidentes Municipales, Síndicos o Regidores:
 
-I.- Los militares en servicio activo o ciudadanos con mando de fuerzas en el Municipio donde deba efectuarse la elección, ni el Secretario y Tesorero del Ayuntamiento a no ser que se separen de sus cargos cuando menos con noventa días de anticipación al de la elección;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+I.- Los militares en servicio activo o el Secretario y Tesorero del Ayuntamiento a no ser que se separen de sus cargos cuando menos con sesenta días de anticipación al de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -2043,11 +2081,9 @@ h).- Seguridad Pública, en los términos del artículo 21 de la Constitución P
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-i) Transporte público urbano y suburbano en ruta fija; y
+i).- Transporte público urbano y suburbano en ruta fija; y
 
 j).- Las demás que determine la Ley.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2063,9 +2099,15 @@ V.- Crear, en los términos de la Ley, organismos públicos descentralizados, em
 
 VI.- Ejercer las funciones o la prestación de los servicios públicos municipales observando lo dispuesto por las Leyes federales y estatales;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
 
-VII.- Formular y aprobar su Presupuesto de Egresos correspondiente al siguiente año fiscal, con base en sus ingresos disponibles, enviando copia certificada al Congreso del Estado de dicho presupuesto y de su pronóstico de ingresos. En caso de que al iniciarse el año fiscal correspondiente, el Ayuntamiento no hubiese aprobado el presupuesto de egresos, en tanto sea aprobado, en lo conducente se continuará aplicando el vigente en el año inmediato anterior. Asimismo, presentar al Congreso del Estado, la cuenta pública del Municipio, en el plazo, forma y términos que establezca la Ley;
+VII.- Formular y aprobar su Presupuesto de Egresos correspondiente al siguiente año fiscal, con base en sus ingresos disponibles, enviando copia certificada al Congreso del Estado de dicho Presupuesto y de su pronóstico de ingresos.
+
+En dicho Presupuesto, se deberán autorizar las erogaciones plurianuales para aquellos proyectos de inversión pública con participación de recursos federal o estatal, que se determinen conforme a lo dispuesto en la Ley; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
+
+En caso de que al iniciarse el año fiscal correspondiente, el Ayuntamiento no hubiese aprobado el Presupuesto de Egresos, en tanto sea aprobado, en lo conducente se continuará aplicando el vigente en el año inmediato anterior.
+
+Asimismo, presentar al Congreso del Estado, la cuenta pública del Municipio, en el plazo, forma y términos que establezca la Ley;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2104,6 +2146,10 @@ XV.- Dar cumplimiento a las resoluciones derivadas de los procesos de referéndu
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
 XVI.- Las demás facultades y obligaciones que le señale la ley.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+La justicia administrativa en los municipios del Estado se impartirá a través de un órgano jurisdiccional administrativo de control de legalidad en los municipios, dotado de autonomía para dictar sus fallos; y cuya actuación se sujetará a los principios de igualdad, publicidad, audiencia y legalidad. La competencia, funcionamiento e integración de dicho órgano jurisdiccional se establecerán en la Ley Orgánica Municipal.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -2193,7 +2239,13 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 ###### ARTICULO 122.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como Servidores Públicos a los representantes de elección popular, a los Miembros del Poder Judicial, a los Funcionarios y Empleados del Estado y de los Municipios, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como Servidores Públicos a los representantes de elección popular, a los Miembros del Poder Judicial, a los Funcionarios y Empleados del Estado y de los Municipios, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, así como en los organismos a los que esta Constitución y la Ley otorguen autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+Los Servidores Públicos, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente público estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -3002,3 +3054,23 @@ Artículo Tercero.- Los presupuestos estatales y municipales incluirán los recu
 Artículo Cuarto.- El Gobierno del Estado celebrará con el Gobierno Federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
 
 Artículo Quinto.- Una vez que entre en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley de Educación para el Estado de Guanajuato y demás disposiciones legales aplicables en la materia.
+
+P.O. 8 DE AGOSTO DE 2008.
+
+DECRETO NUMERO 162, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 82, 117 Y LA SECCION TERCERA AL CAPITULO TERCERO DEL TITULO QUINTO DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO.
+
+ÚNICO. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE AGOSTO DE 2008.
+
+DECRETO NUMERO 163, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 17, 31, 46, 53, 111 Y 122 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La modificación a la competencia del Tribunal Electoral del Estado de Guanajuato, a que se refiere el artículo 31 de este decreto, surtirá efectos a partir del 1 de noviembre de 2009.
+
+P.O. 8 DE AGOSTO DE 2008.
+
+DECRETO NUMERO 164, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 63, 77 Y 117 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
