@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-76-de-referendo-plebiscito-e-iniciativa-popular-1769
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-19"
-last_updated: "2000-10-19"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE REFERENDO, PLEBISCITO E INICIATIVA POPULAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 19 de octubre de 2000.
 
@@ -165,47 +165,51 @@ IV. Pregunta o preguntas correspondientes, con la indicación de cruzar uno de l
 
 ### CAPÍTULO III. De La Iniciativa Popular
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 12.
 
-La iniciativa popular procederá siempre que se cumplan los requisitos siguientes:
+La iniciativa popular procederá siempre que:
 
-I. Que sea presentada por escrito y debidamente firmada, bajo su más estricta responsabilidad, cuando menos por el 0.5 por ciento de los ciudadanos inscritos en el Padrón Electoral vigente en el Estado;
+I. Se trate de materias competencia del Congreso del Estado;
 
-II. Que al escrito de presentación se acompañe copia de la credencial para votar de los firmantes;
+II. Sus propuestas sean acordes con los principios contenidos en la Constitución Política de los Estados Unidos Mexicanos y la del Estado;
 
-III. Que se trate de materias competencia del Congreso del Estado;
+III. El escrito de presentación sea firmado por al menos el 0.2 por ciento de los ciudadanos inscritos en el Padrón Electoral del Estado correspondiente a la elección de Ayuntamientos más reciente;
 
-IV. Que exponga los motivos de su formulación y el texto de ley propuesto, que deberá observar los principios básicos de la técnica legislativa; y
+IV. Se acompañe, para efectos de la disposición contenida en la fracción anterior, copia de la credencial para votar de los firmantes;
 
-V. Que se designe al ciudadano que fungirá como representante común de los promoventes.
+V. Se expongan los motivos de su formulación y el texto de ley propuesto, que deberá observar los principios básicos de la técnica legislativa; y
 
-La Iniciativa popular no procederá tratándose de:
+VI. Se designe al ciudadano que fungirá como representante común de los promoventes.
 
-I. Propuestas contrarias a los contenidos de la Constitución Política de los Estados Unidos Mexicanos y la del Estado;
-
-II. Regímenes financieros del Estado o los Ayuntamientos; y
-
-III. Función pública o regímenes internos de los Poderes del Estado o de los Ayuntamientos
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 13.
 
-La iniciativa popular deberá presentarse al Congreso del Estado, quien dictaminará su procedencia o improcedencia en un término de treinta días.
+La iniciativa popular deberá presentarse al Congreso del Estado. La Mesa Directiva o la Diputación Permanente en su caso, lo turnará a la Comisión o Comisiones Permanentes que procedan, a efecto de que, dentro de un término de treinta días, dictaminen su procedencia o improcedencia.
 
-El Congreso contará con el auxilio de las dependencias y entidades de la administración pública, así como de los organismos autónomos del Estado, para la verificación de los requisitos de procedencia.
+La Comisión o Comisiones dictaminadoras contarán con el auxilio de las dependencias y entidades de la administración pública, así como de los organismos autónomos del Estado, para la verificación de los requisitos de procedencia.
 
-Asimismo, el Congreso podrá allegarse opiniones que sobre la materia emitan las asociaciones, sociedades y demás organismos públicos y privados que por su actividad resulten afines.
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 14.
 
-Las resoluciones del Congreso sobre la procedencia o improcedencia de la iniciativa popular las mandará publicar dentro de los siguientes quince días en la Gaceta Oficial del Estado y en dos diarios locales de mayor circulación, y su contenido se notificará personalmente en igual término al representante de los ciudadanos promoventes, señalando los motivos y fundamentos jurídicos en los que se sustenta la decisión.
+Con base en el dictamen que señala el artículo anterior, el Congreso del Estado o la Diputación Permanente acordará la procedencia o improcedencia de la iniciativa popular.
 
-En contra de esta resolución no se admitirá recurso alguno.
+Ese acuerdo se publicará, dentro de los siguientes quince días, en la Gaceta Oficial, órgano del Gobierno del Estado, y en dos diarios locales de mayor circulación, y se notificará personalmente, en el mismo término, al representante de los ciudadanos promoventes, con expresión de los motivos y fundamentos jurídicos en los que se sustente la decisión.
+
+En contra de ese acuerdo, no se admitirá recurso alguno.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 15.
 
-Decretada la procedencia de la iniciativa popular, se someterá al proceso legislativo en los términos previstos en la Constitución Política del Estado y en la normatividad interior del Poder Legislativo.
+Establecida la procedencia de la iniciativa popular se someterá al proceso legislativo, en los términos previstos en la Constitución Política del Estado y en la normatividad interior del Poder Legislativo.
 
-Si el Congreso del Estado desecha la Iniciativa Popular, sólo podrá ser presentada nuevamente transcurridos dos periodos ordinarios de sesiones.
+En el estudio de la iniciativa, la Comisión o Comisiones Permanentes competentes del Congreso podrán allegarse opiniones que sobre la misma emitan las instituciones, sociedades y demás organismos públicos y privados que por su actividad resulten afines a la materia de que se trate.
+
+Si el Congreso del Estado no aprueba la iniciativa popular, ésta sólo podrá presentarse nuevamente después de transcurridos dos periodos ordinarios de sesiones.
 
 ## TRANSITORIOS
 
@@ -216,3 +220,11 @@ Dada en el salón de sesiones de la H. LVIII Legislatura del Congreso del Estado
 Por tanto, en atención a lo dispuesto por el párrafo segundo del artículo 35 de la Constitución Política del Estado, y en cumplimiento del oficio número 2962, de los diputados presidente y secretario de la Quincuagésima Octava Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los dieciocho días del mes de octubre del año dos mil.
 
 Atentamente. Sufragio efectivo. No reelección, licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+G.O. 8 DE AGOSTO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
