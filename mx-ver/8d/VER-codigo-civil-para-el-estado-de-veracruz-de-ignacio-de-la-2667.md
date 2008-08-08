@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2008-08-07"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -893,11 +893,15 @@ Para que pueda pedirse el divorcio por causa de enajenación mental que se consi
 
 ARTICULO 146
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Encargado del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2008)</small>
+
+Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos o éstos sean mayores de edad sin necesidad de alimentos, y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Encargado del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de manera terminante y explícita su voluntad de divorciarse.
 
 El Encargado del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Encargado del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2008)</small>
+
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de edad o mayores de edad con necesidad de alimentos, o no han liquidado su sociedad conyugal; y entonces aquéllos sufrirán las penas que establezca el código de la materia.
 
 > <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -16032,3 +16036,9 @@ G.O. 7 DE AGOSTO DE 2008.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
