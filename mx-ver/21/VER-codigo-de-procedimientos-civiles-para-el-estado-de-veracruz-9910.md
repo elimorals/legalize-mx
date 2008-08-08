@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2008-07-31"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -3639,9 +3639,13 @@ Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los proce
 
 ## TITULO NOVENO. DE LAS TERCERIAS
 
-### CAPITULO UNICO. ARTICULO 498
+### CAPITULO UNICO
 
-Cuando ambos cónyuges convengan en divorciarse y sean menores de edad, tengan hijos o no hayan liquidado la sociedad conyugal, si bajo ese régimen se casaron, acudirán ante el juez de su domicilio para completar su personalidad, fijar la situación en que deban quedar los hijos y liquidar y dividir los bienes de la sociedad.
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2008)</small>
+
+ARTICULO 498
+
+Cuando ambos cónyuges convengan en divorciarse, si uno de ellos o ambos son menores de edad acudirán ante el juez de su domicilio para completar su personalidad; igualmente, si tienen hijos con necesidad de alimentos, para fijar la situación en que deban quedar éstos; o cuando no hayan liquidado la sociedad conyugal, si bajo ese régimen se casaron, con el fin de liquidarla y dividir los bienes.
 
 ARTICULO 499
 
@@ -6004,6 +6008,12 @@ G.O. 31 DE JULIO DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
