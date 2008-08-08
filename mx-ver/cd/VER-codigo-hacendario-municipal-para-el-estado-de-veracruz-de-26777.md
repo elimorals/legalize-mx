@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2008-02-13"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -3653,9 +3653,13 @@ Las autoridades municipales no autorizarán el traspaso o traslado de un giro me
 
 Son objeto de estos derechos:
 
-I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y
+I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y (sic)
 
-II. La evaluación de impacto ambiental.
+II. La evaluación de impacto ambiental;
+
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2008)</small>
+
+III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo informático, disco de 3.5 pulgadas o disco compacto, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado.
 
 ###### Artículo 223.
 
@@ -3680,6 +3684,24 @@ c) En los casos a que se refieren las fracciones anteriores, cuando se escriba p
 En el caso a que se refiere esta fracción además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.25 salarios mínimos.
 
 III. Evaluación de impacto ambiental, veinte salarios mínimos.
+
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2008)</small>
+
+IV. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
+
+a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio:
+
+0.02 salarios mínimos
+
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción:
+
+0.25 salarios mínimos
+
+c) Por información grabada en disco de 3.5 pulgadas o disco compacto, por copia:
+
+0.30 salarios mínimos
+
+El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -6084,3 +6106,11 @@ G.O. 13 DE FEBRERO DE 2008.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo Segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+G.O. 8 DE AGOSTO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Los sujetos obligados a que se refiere el artículo 5.1, fracciones I, II, III y IV de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, realizarán los trámites necesarios ante la Secretaría de Finanzas y Planeación para obtener los recibos fiscales que se extenderán a las personas que soliciten información pública. Los Ayuntamientos harán lo propio, a través de sus respectivas tesorerías.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
