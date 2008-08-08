@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2008-05-14"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3521,7 +3521,11 @@ II. Se busque incorporar predios colindantes a lotes de conjuntos urbanos, subdi
 
 III. Se pretenda dar al predio por fusionar, el uso, densidad o intensidad de ocupación del suelo que tiene aquél al que se fusiona, siendo incompatible;
 
-IV. Se trate de constituir servidumbre de paso o transformar en vía pública el lote resultante de la fusión, para dar paso a los predios colindantes.
+IV. Se trate de constituir servidumbre de paso o transformar en vía pública el lote resultante de la fusión, para dar paso a los predios colindantes;
+
+> <small>(ADICIONADA, G.G. 8 DE AGOSTO DE 2008)</small>
+
+V. se (sic) trate de predios a que se refiere el párrafo segundo del artículo 5.141 del Código Civil del Estado de México, a menos que la sentencia ejecutoria se protocolice ante Notario, y no se esté en ningún otro de los casos de impedimento regulados por este artículo.
 
 ###### Artículo 5.
 
@@ -10794,3 +10798,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+G.G. 8 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
