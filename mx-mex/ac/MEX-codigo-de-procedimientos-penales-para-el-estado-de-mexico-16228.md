@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2008-07-25"
+last_updated: "2008-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2405,7 +2405,9 @@ III. Que caucione el cumplimiento de las obligaciones a su cargo que la ley esta
 
 IV. Que no se trate de alguno de los delitos señalados como graves en la ley penal.
 
-La garantía a que se refiere la fracción I deberá ser siempre mediante depósito en efectivo, y las señaladas en las fracciones II y III podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2008)</small>
+
+Las garantías a que se refieren las fracciones I, II, y III podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
 
 ###### Artículo 320.
 
@@ -3286,3 +3288,13 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 8 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
