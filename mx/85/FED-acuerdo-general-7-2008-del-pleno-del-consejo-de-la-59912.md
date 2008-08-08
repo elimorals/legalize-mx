@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2008-del-pleno-del-consejo-de-la-59912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-03-13"
-last_updated: "2008-03-13"
+last_updated: "2008-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-02-06"
 
 ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2008.
 
@@ -185,7 +185,9 @@ XII. Implementar las visitas extraordinarias programadas que el Pleno acuerde. D
 
 XIII. Remitir al secretario ejecutivo las correspondientes actas de visita y de inspección a distancia que se levanten. Informar al secretario ejecutivo los resultados de las supervisiones de conducta de los servidores públicos de los órganos jurisdiccionales;
 
-XIV. Planear, programar, implementar, coordinar y practicar los informes y encuestas de conducta;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
+
+XIV. Planear, programar, implementar, coordinar y practicar los informes;
 
 XV. Rendir los informes que sean requeridos a la Visitaduría, por los órganos competentes del Consejo;
 
@@ -219,7 +221,9 @@ XXIX. Coordinar las reuniones periódicas con los visitadores con el objeto de a
 
 XXX. Rendir a la Comisión, cada seis meses, un informe detallado de labores; y previo su análisis y aprobación por ésta, remitir al Pleno, uno anual que además de cuenta sobre los resultados generales de la inspección y supervisión efectuadas;
 
-XXXI. Formular y proponer a la Comisión proyectos de reforma a este acuerdo general, a cualquier formato de actas, informes, cuestionarios o encuestas; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
+
+XXXI. Formular y proponer a la Comisión proyectos de reforma a este acuerdo general, a cualquier formato de actas, informes, cuestionarios; y
 
 XXXII. Las demás que le confieran la Ley, este acuerdo general, así como las disposiciones que en la materia emitan el Pleno o la Comisión.
 
@@ -371,7 +375,7 @@ d) Visitas extraordinarias programadas;
 
 e) Informes de conducta;
 
-f) Encuestas de conducta; y
+f) (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 g) Los demás que acuerden el Pleno o las Comisiones.
 
@@ -673,41 +677,59 @@ Fuentes. Las fuentes para obtener la información necesaria para seleccionar los
 
 Formatos. La Comisión acordará la aprobación de formatos para la práctica de visitas extraordinarias programadas. Estos tendrán especial énfasis en la inspección de los indicadores por los que se seleccionó al órgano jurisdiccional a visitar extraordinariamente. Las visitas programadas se efectuarán conforme a dichos formatos, sin merma a las facultades y obligaciones de inspección y supervisión del visitador judicial “A”, de complementar la inspección.
 
-## TITULO CUARTO. DE LOS INFORMES Y LAS ENCUESTAS DE CONDUCTA
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
+
+## TITULO CUARTO. DE LOS INFORMES
 
 ### CAPITULO PRIMERO. GENERALIDADES
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 84.
 
-Objeto y sujetos. El Consejo, a través de la Visitaduría Judicial, contará, además, con los informes y las encuestas de conducta, como instrumentos para supervisar el comportamiento de los servidores públicos de los órganos jurisdiccionales.
+Objeto y sujetos. El Consejo, a través de la Visitaduría Judicial, contará, además, con los informes, como instrumentos para supervisar el comportamiento de los servidores públicos de los órganos jurisdiccionales.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 85.
 
-Formatos. El visitador general someterá a la aprobación del Pleno los formatos impresos y electrónicos de los informes y encuestas, así como los manuales e instructivos respectivos. Dichos formatos serán revisados periódicamente por aquél, quien podrá proponer, motivadamente, su modificación o sustitución.
+Formatos. El visitador general someterá a la aprobación del Pleno los formatos impresos y electrónicos de los informes, así como los manuales e instructivos respectivos. Dichos formatos serán revisados periódicamente por aquél, quien podrá proponer, motivadamente, su modificación o sustitución.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 86.
 
-Periodicidad. Los informes y las encuestas de conducta se llevarán a cabo, cuando menos, una vez al año cada uno.
+Periodicidad. Los informes se llevarán a cabo, cuando menos, una vez al año cada uno.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 87.
 
-Operatividad. Los informes y las encuestas de conducta serán operados por la Visitaduría Judicial, a través de los visitadores judiciales o secretarios técnicos que designe el visitador general.
+Operatividad. Los informes serán operados por la Visitaduría Judicial, a través de los visitadores judiciales o secretarios técnicos que designe el visitador general.
 
 Podrán efectuarse en forma manuscrita o electrónica.
 
-Los datos que de los informes y encuestas de conducta deriven, serán compilados en el sistema que al efecto el visitador general implemente.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
+
+Los datos que de los informes deriven, serán compilados en el sistema que al efecto el visitador general implemente.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 88.
 
-Contenido. Los reactivos que se contengan en los informes y en las encuestas de conducta deberán tener su fundamento en las disposiciones vigentes, relativas a la conducta de los servidores públicos. Tales instrumentos deberán abarcar, en lo posible, similares aspectos, que refieran a los comportamientos jurisdiccional, administrativo, laboral y personal de los servidores públicos.
+Contenido. Los reactivos que se contengan en los informes deberán tener su fundamento en las disposiciones vigentes, relativas a la conducta de los servidores públicos. Tales instrumentos deberán abarcar, en lo posible, similares aspectos, que refieran a los comportamientos jurisdiccional, administrativo, laboral y personal de los servidores públicos.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 89.
 
-Confidencialidad. La información contenida y que se derive de los informes y de las encuestas de conducta, serán manejados con absoluta confidencialidad, hasta en tanto el Pleno o la Comisión dispongan lo contrario.
+Confidencialidad. La información contenida y que se derive de los informes, serán manejados con absoluta confidencialidad, hasta en tanto el Pleno o la Comisión dispongan lo contrario.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 90.
 
-Verificación. El Consejo, a través de la Visitaduría Judicial, tendrá facultad para constatar la veracidad de la información recabada en los informes y encuestas de conducta.
+Verificación. El Consejo, a través de la Visitaduría Judicial, tendrá facultad para constatar la veracidad de la información recabada en los informes.
 
 ### CAPITULO SEGUNDO. DEL INFORME DE CONDUCTA
 
@@ -729,49 +751,43 @@ Su presentación será a través de la vía postal o por medios electrónicos, s
 
 Omisión. La falta de rendición del informe de conducta, total o parcial, en el plazo otorgado, se comunicará a la Dirección General de Recursos Humanos, a fin de que se haga constar en el expediente personal del servidor público omiso, y será tomado en cuenta para su reingreso, capacitación, ascenso, promoción, adscripción, ratificación, reconocimiento, estímulo, premiación, remoción y otros casos análogos, sin perjuicio de que, a juicio de la Comisión, sea motivo para la orden de práctica de visita extraordinaria de inspección.
 
+> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2008, SE DEROGAN LOS ARTICULOS 94 A 99 QUE CONFORMAN EL CAPITULO TERCERO, RECORRIENDOSE LA NUMERACION DE LOS PRECEPTOS 100 A 108, PARA SER 94 A 102.</small>
+
 ## TITULO QUINTO. DE LA EVALUACION
-
-### CAPITULO TERCERO. DE LA ENCUESTA DE CONDUCTA
-
-###### Artículo 94.
-
-Clasificación y Finalidad. Las encuestas de conducta se clasifican en internas ordinarias, internas especiales y externas.
-
-Tendrán esencialmente propósitos disciplinarios, de inspección, planeación, promoción, premiación y otros análogos.
-
-###### Artículo 95.
-
-Encuestas internas ordinarias. La encuesta de conducta interna ordinaria es la consulta general, periódica y global que el Consejo realiza a los servidores públicos de los órganos jurisdiccionales, referente al comportamiento de los titulares bajo cuya dirección laboren o hayan laborado.
-
-###### Artículo 96.
-
-Opción. Las manifestaciones contenidas en la encuesta de conducta podrán ser nominadas o anónimas, a elección del servidor público encuestado.
-
-###### Artículo 97.
-
-Procedimiento. La encuesta de conducta interna ordinaria podrá llevarse a cabo durante las visitas, al momento de practicarse la inspección a distancia, o en cualquier otro momento. Se efectuarán en forma manuscrita o a través de medios electrónicos.
-
-El visitador judicial que practique la visita de inspección, en caso de que la encuesta sea manuscrita, en el acto de comprobación de asistencia, hará entrega del formato relativo a la encuesta de conducta a cada uno de los servidores públicos que integren el órgano visitado. La encuesta contestada se devolverá al visitador en sobre cerrado, antes de que termine la visita.
-
-En el caso de que la encuesta se efectúe en el momento de la inspección a distancia o en otro diverso, el formato de la encuesta de conducta se hará llegar a través de medios electrónicos, con su respectivo método de identificación, y será contestado y devuelto por la misma vía a la Visitaduría Judicial, dentro del plazo que al efecto se establezca.
 
 ### CAPITULO PRIMERO. GENERALIDADES
 
-###### Artículo 98.
+(REUBICADO [N. DE E. ANTES ARTICULO 100] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
-Encuestas internas especiales. La encuesta de conducta interna especial, es la consulta particular, excepcional y específica que el Consejo realiza a servidores públicos de órganos jurisdiccionales, referente al comportamiento de sus superiores, pares o subalternos.
+###### Artículo 94.
 
-###### Artículo 99.
+Sistema y periodicidad. El visitador general elaborará un sistema que permita supervisar y evaluar el desempeño y la conducta de los visitadores judiciales. La evaluación se efectuará semestralmente.
 
-Encuestas externas. A través de las encuestas externas, el Pleno o las Comisiones consultarán a las partes en los juicios, a las autoridades, o a cualquier persona, con el objeto de conocer la percepción que se tenga del desempeño de los órganos jurisdiccionales y la conducta de sus integrantes.
+(REUBICADO [N. DE E. ANTES ARTICULO 101] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
-Las instancias ordenadoras precisarán en cada caso, la periodicidad, contenido y procedimientos relativos.
+###### Artículo 95.
+
+Historial. El director general abrirá un expediente por cada visitador, en el que recopilará documentos y datos relativos a sus actuaciones.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 102] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+
+###### Artículo 96.
+
+Manifestaciones. Previo a la evaluación sobre el desempeño y conducta de los visitadores judiciales, se les impondrá con los datos desfavorables contenidos en el expediente que integre la Dirección General, por el término de tres días, para que manifiesten lo que a su interés convenga.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 103] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+
+###### Artículo 97.
+
+Registro de evaluación. La Dirección General, será la encargada de llevar el registro de los resultados de las evaluaciones a que se refiere este título.
 
 ### CAPITULO SEGUNDO. DE LA EVALUACION DE LOS VISITADORES JUDICIALES "A"
 
-###### Artículo 104.
+(REUBICADO [N. DE E. ANTES ARTICULO 104] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
-Temas para la supervisión y evaluación. Para la supervisión y evaluación de los visitadores judiciales “A” se considerarán los siguientes aspectos:
+###### Artículo 98.
+
+Temas para la supervisión y evaluación. Para la supervisión y evaluación de los visitadores judiciales "A" se considerarán los siguientes aspectos:
 
 a) La revisión metódica de las actas que practiquen;
 
@@ -793,21 +809,25 @@ i) El cumplimiento de las funciones y obligaciones a que se refiere este acuerdo
 
 j) Los demás que determine el Pleno o la Comisión.
 
-###### Artículo 105.
+(REUBICADO [N. DE E. ANTES ARTICULO 105] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
-Resolución e informe de evaluación. El visitador general examinará los expedientes de los visitadores judiciales “A”, así como las manifestaciones que respecto del mismo hubieran formulado y emitirá una resolución en la que evalúe su desempeño y conducta. A continuación, informará a la Comisión el resultado de su evaluación.
+###### Artículo 99.
+
+Resolución e informe de evaluación. El visitador general examinará los expedientes de los visitadores judiciales "A", así como las manifestaciones que respecto del mismo hubieran formulado y emitirá una resolución en la que evalúe su desempeño y conducta. A continuación, informará a la Comisión el resultado de su evaluación.
 
 ### CAPITULO TERCERO. DE LA EVALUACION DE LOS VISITADORES JUDICIALES "B"
 
-###### Artículo 106.
+(REUBICADO [N. DE E. ANTES ARTICULO 106] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
-Temas para la supervisión y evaluación. Para la supervisión y evaluación de los visitadores judiciales “B” se considerarán los siguientes temas:
+###### Artículo 100.
+
+Temas para la supervisión y evaluación. Para la supervisión y evaluación de los visitadores judiciales "B" se considerarán los siguientes temas:
 
 a) La revisión metódica de las actas que practiquen;
 
 b) Los dictámenes de las visitas que practiquen;
 
-c) La verificación de datos que los visitadores judiciales “A” puedan obtener en la práctica de visitas extraordinarias;
+c) La verificación de datos que los visitadores judiciales "A" puedan obtener en la práctica de visitas extraordinarias;
 
 d) Las quejas, inconformidades u opiniones que respecto de su conducta se presenten;
 
@@ -819,29 +839,19 @@ g) El cumplimiento de las funciones y obligaciones a que se refiere este acuerdo
 
 h) Los demás que determine el Pleno o la Comisión.
 
-###### Artículo 107.
-
-Opinión de Visitadores “A”. Al inicio de cada semestre, los visitadores judiciales “A” revisarán el expediente de los visitadores judiciales “B” que el visitador general les asigne, así como las manifestaciones que respecto del mismo hubieren formulado los visitadores “B”. En breve término emitirán al visitador general una opinión objetiva en relación con el desempeño y conducta que los visitadores “B” tuvieron durante el periodo revisado.
-
-###### Artículo 108.
-
-Informe de evaluación. El Visitador General examinará los expedientes de los visitadores “B” y la opinión emitida por los visitadores “A” y emitirá una resolución en la que evalúe el desempeño y conducta de los primeros. A continuación, informará a la Comisión el resultado de su evaluación.
-
-###### Artículo 100.
-
-Sistema y periodicidad. El visitador general elaborará un sistema que permita supervisar y evaluar el desempeño y la conducta de los visitadores judiciales. La evaluación se efectuará semestralmente.
+(REUBICADO [N. DE E. ANTES ARTICULO 107] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 101.
 
-Historial. El director general abrirá un expediente por cada visitador, en el que recopilará documentos y datos relativos a sus actuaciones.
+Opinión de Visitadores "A". Al inicio de cada semestre, los visitadores judiciales "A" revisarán el expediente de los visitadores judiciales "B" que el visitador general les asigne, así como las manifestaciones que respecto del mismo hubieren formulado los visitadores "B". En breve término emitirán al visitador general una opinión objetiva en relación con el desempeño y conducta que los visitadores "B" tuvieron durante el periodo revisado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 108] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 ###### Artículo 102.
 
-Manifestaciones. Previo a la evaluación sobre el desempeño y conducta de los visitadores judiciales, se les impondrá con los datos desfavorables contenidos en el expediente que integre la Dirección General, por el término de tres días, para que manifiesten lo que a su interés convenga.
+Informe de evaluación. El Visitador General examinará los expedientes de los visitadores "B" y la opinión emitida por los visitadores "A" y emitirá una resolución en la que evalúe el desempeño y conducta de los primeros. A continuación, informará a la Comisión el resultado de su evaluación.
 
-###### Artículo 103.
-
-Registro de evaluación. La Dirección General, será la encargada de llevar el registro de los resultados de las evaluaciones a que se refiere este título.
+> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2008, SE DEROGA EL SEXTO TRANSITORIO, RECORRIENDOSE LA NUMERACION DEL SEPTIMO AL DECIMO, PARA SER DEL SEXTO AL NOVENO.</small>
 
 ## TRANSITORIOS
 
@@ -857,14 +867,30 @@ Las actas de visita ordinaria junto con los informes circunstanciados (y las act
 
 QUINTO. Si durante el inicio de la implementación de la inspección ordinaria a distancia ocurrieran desajustes y fallas técnicas o circunstancias similares que impidieran el inicio, la práctica o la conclusión de la totalidad de las etapas de una inspección determinada, con la rendición del informe inicial se tendrá por agotada la inspección ordinaria a distancia al órgano jurisdiccional relativo, a consideración del visitador general.
 
-SEXTO. Una vez aprobados los formatos de las encuestas de conducta, la Comisión acordará la fecha de inicio de su implementación.
+(REUBICADO [N. DE E. ANTES SEPTIMO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
-SEPTIMO. Con motivo de la entrada en vigor del presente acuerdo, los visitadores judiciales "A", se reincorporarán a la función jurisdiccional de la que tienen licencia, en el órgano jurisdiccional que determine el Pleno; con excepción del magistrado Filemón Haro Solís, que dada su reciente designación continuará en funciones, para lo cual se le extenderá nuevo y actualizado nombramiento.
+SEXTO. Con motivo de la entrada en vigor del presente acuerdo, los visitadores judiciales "A", se reincorporarán a la función jurisdiccional de la que tienen licencia, en el órgano jurisdiccional que determine el Pleno; con excepción del magistrado Filemón Haro Solís, que dada su reciente designación continuará en funciones, para lo cual se le extenderá nuevo y actualizado nombramiento.
 
-OCTAVO. La plantilla de los visitadores judiciales "B" se renovará escalonadamente en el transcurso de los tres años siguientes a la entrada en vigor de este acuerdo. Cuatro de ellos fungirán hasta el treinta y uno de diciembre de dos mil ocho; otros cuatro permanecerán en sus cargos hasta el treinta y uno de diciembre de dos mil nueve; y los restantes cuatro visitadores "B" se desempeñarán en sus cargos hasta el treinta y uno de diciembre de dos mil diez. La selección de los integrantes de cada uno de los grupos, se realizará de acuerdo al resultado de las evaluaciones al desempeño y conducta practicadas por el visitador general.
+(REUBICADO [N. DE E. ANTES OCTAVO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
-NOVENO. Los nombramientos del personal de confianza adscrito a los magistrados visitadores que se reincorporarán a su función jurisdiccional, tendrán efectos hasta en tanto se designe a quienes les sustituyan.
+SEPTIMO. La plantilla de los visitadores judiciales "B" se renovará escalonadamente en el transcurso de los tres años siguientes a la entrada en vigor de este acuerdo. Cuatro de ellos fungirán hasta el treinta y uno de diciembre de dos mil ocho; otros cuatro permanecerán en sus cargos hasta el treinta y uno de diciembre de dos mil nueve; y los restantes cuatro visitadores "B" se desempeñarán en sus cargos hasta el treinta y uno de diciembre de dos mil diez. La selección de los integrantes de cada uno de los grupos, se realizará de acuerdo al resultado de las evaluaciones al desempeño y conducta practicadas por el visitador general.
 
-DECIMO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+(REUBICADO [N. DE E. ANTES NOVENO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+
+OCTAVO. Los nombramientos del personal de confianza adscrito a los magistrados visitadores que se reincorporarán a su función jurisdiccional, tendrán efectos hasta en tanto se designe a quienes les sustituyan.
+
+(REUBICADO [N. DE E. ANTES DECIMO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+
+NOVENO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de seis de febrero de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, Indalfer Infante Gonzales y Jorge Moreno Collado.- México, Distrito Federal, a veintiocho de febrero de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 8 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y para su mayor difusión, en la página web del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado.
