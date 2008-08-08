@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2007-08-15"
+last_updated: "2008-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3315,6 +3315,26 @@ Por cada animal 7 salarios mínimos
 
 IV. Por la expedición de copias certificadas de diligencias de averiguaciones previas levantada por el Ministerio Público, por cada hoja o fracción 0.25 salario mínimo
 
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2008)</small>
+
+###### Artículo 150 Bis.
+
+Por servicios prestados por los sujetos obligados mencionados en el artículo 5.1, fracciones I, II, III y IV, de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, por costos de reproducción de información que les sea solicitada en términos de Ley; se causarán y pagarán los derechos siguientes:
+
+I. Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio:
+
+0.02 salarios mínimos;
+
+II. Por copias certificadas distintas a las señaladas en el artículo 150 de este Código, por cada hoja o fracción:
+
+0.25 salarios mínimos;
+
+III. Por información grabada en disco de 3.5 pulgadas o disco compacto, por copia:
+
+0.30 salarios mínimos.
+
+El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
+
 ## TÍTULO TERCERO. DE LOS PRODUCTOS
 
 ### CAPÍTULO ÚNICO
@@ -3471,7 +3491,7 @@ XII. Aprovechamientos diversos.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO , G.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 493.
 
@@ -8380,3 +8400,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 G.O. 15 DE AGOSTO DE 2007.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+
+G.O. 8 DE AGOSTO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Los sujetos obligados a que se refiere el artículo 5.1, fracciones I, II, III y IV de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, realizarán los trámites necesarios ante la Secretaría de Finanzas y Planeación para obtener los recibos fiscales que se extenderán a las personas que soliciten información pública. Los Ayuntamientos harán lo propio, a través de sus respectivas tesorerías.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
