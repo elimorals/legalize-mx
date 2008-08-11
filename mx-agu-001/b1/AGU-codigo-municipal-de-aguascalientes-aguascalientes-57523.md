@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-07-21"
+last_updated: "2008-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -681,7 +681,9 @@ II. Hacienda.
 
 III. Seguridad Pública y Tránsito Municipal.
 
-IV. Desarrollo Humano y Asistencia Social.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2008)</small>
+
+IV. Comisión de Desarrollo Social.
 
 V. Desarrollo Económico, Turismo y Asuntos Internacionales.
 
@@ -18210,3 +18212,9 @@ DECRETO POR EL QUE SE REFORMA EL LA FRACCION XIX DEL ARTICULO 1107 Y EL ARTICULO
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Toda disposición legal vigente que haga referencia a la comisión de Desarrollo Humano y Asistencia Social se entenderá que hace referencia a la Comisión de Desarrollo Social en los términos del presente decreto.
