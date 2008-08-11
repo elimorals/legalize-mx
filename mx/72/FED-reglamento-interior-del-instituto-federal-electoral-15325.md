@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-15325"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-13"
-last_updated: "2005-09-06"
+last_updated: "2008-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-11-30"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE SEPTIEMBRE DE 2005.
+N. DE. E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 11 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 13 de diciembre de 1999.
 
@@ -2086,3 +2088,11 @@ Cuarto.- Los Programas Anuales de Trabajo de las comisiones de Administración y
 Quinto.- Los Programas Anuales de Trabajo de las comisiones de Contraloría, de Auditoría y de Responsabilidades Administrativas aprobados por el Consejo General para el año 2005 continuarán en vigor y conformarán conjuntamente el Programa de Trabajo de la Comisión de Contraloría, de Auditoría y Responsabilidades Administrativas.
 
 Sexto.- Publíquese el presente dictamen de la Comisión de Reglamentos del Consejo General del Instituto y los puntos de acuerdo respectivos en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE AGOSTO DE 2008.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Una vez que entre el vigor el presente Reglamento, se abroga el Reglamento Interior del Instituto Federal Electoral, aprobado en sesión extraordinaria del Consejo General de fecha 30 de noviembre de 1999, mediante Acuerdo CG/152/99, así como aquellas disposiciones y acuerdos adoptados con anterioridad que contravengan al presente Reglamento.
+
+Tercero.- Las adecuaciones inmediatas que requiera el presente instrumento, serán evaluadas y propuestas al Consejo por la Comisión de Reglamentos antes del inicio del proceso electoral federal 2008-2009.
