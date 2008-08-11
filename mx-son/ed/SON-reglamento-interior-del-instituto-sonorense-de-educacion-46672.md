@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-educacion-46672"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-24"
-last_updated: "2005-10-06"
+last_updated: "2008-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE EDUCACION PARA ADULTOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 24 de enero de 2002.
 
@@ -32,11 +32,11 @@ REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE EDUCACIÓN PARA ADULTOS
 
 ### CAPÍTULO I. DEL OBJETO Y ESTRUCTURA DEL ORGANISMO
 
-> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 11 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1º.
 
-El Instituto Sonorense de Educación para los Adultos, como Organismo Público descentralizado de la Administración Pública Estatal con personalidad jurídica, autonomía de gestión y patrimonio propio, con domicilio en la Ciudad de Hermosillo, Sonora; tiene por objeto prestar los servicios de educación básica para adultos en el Estado de Sonora, la cual comprende la alfabetización, educación primaria y la secundaria, así como la formación para el trabajo, con los contenidos particulares para atender las necesidades educativas específicas de ese sector de la población y se apoyará en la solidaridad social, en los términos del Decreto que lo crea.
+El Instituto Sonorense de Educación para los Adultos, como Organismo Público Descentralizado de la Administración Pública Estatal con personalidad jurídica, autonomía de gestión y patrimonio propio, con domicilio en la Ciudad de Hermosillo, Sonora: tiene por objeto prestar los servicios de educación básica y media superior para adultos en el Estado de Sonora, la cual comprende la alfabetización, la educación primaria, la secundaria y la preparatoria, así como la formación para el trabajo, con los contenidos particulares para atender las necesidades educativas específicas de ese sector de la población y se apoyará en la solidaridad social.
 
 ###### Artículo 2º.
 
@@ -70,11 +70,13 @@ II.- Órganos Colegiados y de Apoyo:
 
 - Patronato para la Educación de los Adultos.
 
-> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 11 DE AGOSTO DE 2008)</small>
 
 III.- Unidades Administrativas:
 
 - Dirección de Servicios Educativos.
+
+- Coordinación de Preparatoria Abierta.
 
 - Dirección de Acreditación y Certificación.
 
@@ -124,9 +126,13 @@ Las sesiones ordinarias se celebrarán cada tres meses y las extraordinarias cad
 
 La Junta Directiva sesionará válidamente con la asistencia de su Presidente o su suplente y por lo menos la mitad más uno de sus miembros; sus acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, B.O. 11 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 9º.
 
-Para la celebración de las sesiones de la Junta Directiva, se deberá emitir convocatoria en los términos del Artículo 7º del presente Reglamento Interior. A la convocatoria se acompañará el Orden del Día, el Proyecto de Acta de la sesión anterior y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a los integrantes de dicha Junta, cuando menos con cinco días de anticipación a la fecha de celebración de la sesión, cuando ésta tenga el carácter de ordinaria y con tres días, cuando sea extraordinaria.
+Para la celebración de las sesiones de la Junta Directiva, se deberá emitir convocatoria en los términos del artículo 7º del presente reglamento interior. La convocatoria tendrá efectos de citación, debiendo notificarse en forma escrita personalmente a cado uno de los miembros, con una anticipación de cuando menos cinco días hábiles tratándose de sesiones ordinarias y de cuarenta y ocho horas tratándose de sesiones extraordinarias, señalándose lugar, fecha y hora en que tendrá lugar la sesión.
+
+Junto a la convocatoria respectiva deberá presentarse en forma anexa el orden del día que contenga los asuntos a tratar, así como la documentación necesaria para el análisis de cada uno de los puntos señalados en dicha orden del día y la demás información que sea pertinente.
 
 ###### Artículo 10º.
 
@@ -148,21 +154,35 @@ V. Las demás que le confieren el presente Reglamento y otras disposiciones lega
 
 Los integrantes de la Junta Directiva, tendrán derecho a voz y voto en la toma de decisiones respecto de los asuntos que se traten en dicho Órgano. Las mismas facultades tendrán los suplentes de cada representante propietario en caso de ausencia de éstos de las sesiones, previa comprobación por escrito ante el Presidente de la Junta Directiva, de su carácter de suplentes; de igual forma, en las decisiones de la Junta Directiva participará el Director General del Instituto con voz, pero sin voto.
 
+> <small>(REFORMADO, B.O. 11 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 12º.
 
-Las sesiones se desarrollarán en el siguiente orden:
+El orden del día para la celebración de sesiones de la Junta Directiva deberá contemplar, cuando menos, los siguientes aspectos:
 
-I. Lista de presentes y declaratoria relativa al quórum;
+I.- Lista de asistencia;
 
-II. Lectura y aprobación, en su caso, del Acta de la sesión anterior;
+II.- Verificación de quórum legal por parte del Comisario;
 
-III. Análisis y aprobación de los puntos comprendidos en el orden del día;
+III.- Lectura y aprobación del orden del día;
 
-IV. Consignación de acuerdos;
+IV.- Lectura del acta de la sesión anterior;
 
-V. Asuntos Generales; y
+V.- Informe del Director General;
 
-VI. Clausura.
+VI.- Informe del Comisario;
+
+VII.- Lectura, discusión y, en su caso, aprobación de asuntos;
+
+VIII.- Asuntos generales;
+
+IX.- Resumen de acuerdos aprobados, y
+
+X.- Clausura.
+
+Las sesiones de la junta Directiva deberán iniciar en la fecha y hora señalada en la convocatoria respectiva y su desarrollo deberá sujetarse a lo previsto en el orden del día, por lo que no podrá alterarse la secuencia de los puntos asentados en el mismo, ni tampoco tratarse asuntos diversos que no se hayan contemplado en dicho orden del día.
+
+Tratándose de sesiones extraordinarias, se exceptuará del orden del día los puntos señalados en las fracciones IV, V, VI y VIII del presente artículo y dicha sesión se abocará exclusivamente a la discusión de los asuntos para los que hubiese sido convocada la Junta Directiva.
 
 ###### Artículo 13º.
 
@@ -234,9 +254,13 @@ VIII. Proporcionar al Comisario Público Oficial o Ciudadano designado por la Co
 
 IX. Presentar trimestralmente a la Junta Directiva, el informe de actividades, avance de los programas y estados financieros;
 
-X. Presentar anualmente a la Junta Directiva, a más tardar en el mes de Octubre de cada año, el anteproyecto del Programa-Presupuesto, mismo que deberá de elaborarse de conformidad con la legislación aplicable;
+> <small>(REFORMADA, B.O. 11 DE AGOSTO DE 2008)</small>
 
-XI. Someter a la consideración de la Junta Directiva, a más tardar en el mes de octubre de cada año, el Anteproyecto del Programa-Presupuesto, mismo que deberá de elaborarse de conformidad con la legislación aplicable;
+X.- Presentar anualmente y someter a la consideración de la Junta Directiva, a mas tardar en el mes de octubre de cada año, el anteproyecto del Programa-Presupuesto, mismo que deberá de elaborarse de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, B.O. 11 DE AGOSTO DE 2008)</small>
+
+XI.- Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo a la normatividad en la materia;
 
 XII. Someter a la consideración de la Junta Directiva, la creación y supresión de las Unidades y Oficinas Administrativas que estime convenientes para el debido cumplimiento de los fines del Instituto y asignarles las funciones que considere procedentes, y
 
@@ -259,6 +283,10 @@ IV. Rendir los informes y formular los dictámenes, estudios y opiniones que les
 V. Aplicar y vigilar el cumplimiento en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionados con los servicios y actividades de la competencia de la respectiva Unidad Administrativa, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes;
 
 VI. Acordar con el Director General los asuntos de la competencia de la Unidad a su cargo;
+
+> <small>(ADICIONADA, B.O. 11 DE AGOSTO DE 2008)</small>
+
+VI Bis.- Coadyuvar en el cumplimiento de la normatividad expedida en la materia para el control, organización, circulación y conservación de documentos y archivos;
 
 VII. Someter a la consideración del Director General los proyectos de modernización administrativa de la Unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
@@ -304,9 +332,7 @@ XIII. Supervisar el cumplimiento de las disposiciones técnico-pedagógicas esta
 
 XIV. Planear, organizar, ejecutar y controlar acciones para la elaboración de contenidos, métodos y materiales a fin de apoyar los procesos de enseñanza-aprendizaje con adultos.
 
-> <small>(REFORMADA, B.O. 6 DE OCTUBRE DE 2005)</small>
-
-XV. Coordinar el programa SEDENA-SEP-INEA.
+XV. (DEROGADA, B.O. 11 DE AGOSTO DE 2008)
 
 > <small>(ADICIONADA, B.O. 6 DE OCTUBRE DE 2005)</small>
 
@@ -321,6 +347,54 @@ XV Bis A. Promover a nivel estatal el establecimiento de convenios de participac
 XV Bis B. Coordinar y evaluar el proyecto de certificación del Consejo Nacional de Educación para la Vida y el Trabajo (CONEVyT).
 
 XVI. Los demás que de manera expresa, le asigne la Dirección General.
+
+> <small>(ADICIONADO, B.O. 11 DE AGOSTO DE 2008)</small>
+
+###### Artículo 18º Bis.
+
+La Coordinación de Preparatoria Abierta tendrá las siguientes atribuciones específicas:
+
+I. Difundir y supervisar la aplicación de la normatividad que establezca la Secretaría de Educación y Cultura, el Instituto y la Dirección de Sistemas Abiertos de la Dirección General del Bachillerato, en relación a los planes y programas de estudio, contenido, métodos y materiales didácticos, así como para la operación de los Procesos de Registro y Control;
+
+II. Apoyar a las Coordinaciones de Zona en la operación de estrategias de difusión y capacitación para el personal de Preparatoria Abierta en el Estado;
+
+III. Coordinar la incorporación y desempeño de prestadores de Servicio Social en apoyo a la educación media superior para adultos en el Estado;
+
+IV. Dar seguimiento, con el apoyo de las Coordinaciones de Zona, a la operación de los servicios de Preparatoria Abierta del Instituto en el Estado;
+
+V. Resguardar, controlar y supervisar el uso adecuado de los instrumentos de evaluación, observando los lineamientos establecidos;
+
+VI. Mantener los documentos, registros y formatos necesarios para la operación del servicio, legibles fácilmente, identificables y recuperables;
+
+VII. Definir y aplicar la calendarización de actividades bajo la cual se operan los Procesos de Inscripción, Acreditación. Aspectos Académicos y Certificación;
+
+VIII. Remitir demanda de exámenes a la Dirección de Sistemas Abiertos de la Dirección General del Bachillerato, en las fechas establecidas en el calendario de actividades vigente de exámenes ordinarios y extemporáneos a desarrollar entre la Dirección y las Oficinas de Preparatorio Abierta en los Estados;
+
+IX. Difundir en el Instituto las características y ventajas que ofrece el servicio de Preparatoria Abierta con base al material que para tal efecto elabore, así como el que le proporcione la Dirección General del Bachillerato;
+
+X. Apoyar, asesorar y supervisar a los Centros de Asesoría Sociales y Particulares, para verificar su operación y la aplicación de las Normas en los Servicios de Gestaría y Trámites que proporcionan a los usuarios del Servicio;
+
+XI. Proporcionar cuatrimestralmente a la Dirección de Sistemas Abiertos la información estadística básica estatal que se genera en los Procesos de Inscripción, Acreditación, Aspectos Académicos y Certificación;
+
+XII. Comprobar ante la Dirección General de Acreditación, Incorporación y Revalidación y la Dirección General del Bachillerato la correcta aplicación de las normas, la operación de los procedimientos y el uso dado a los documentos de certificación utilizados en cada período de vigencia establecido;
+
+XIII. Brindar las facilidades necesarias al personal de la Dirección General de Acreditación, Incorporación y Revalidación y de la Dirección General del Bachillerato para que lleven a cabo los procesos de revisión, análisis y evaluación correspondientes;
+
+XIV. Elaborar y coordinar el programa para la formación y capacitación de asesores;
+
+XV. Evaluar la operación de los servicios de Preparatoria Abierta en el Estado;
+
+XVI. Diseñar, elaborar y adecuar los contenidos, métodos y materiales de formación del personal asesor, así como propiciar su autoformación;
+
+XVII. Definir estrategias de operación que permitan ampliar la cobertura de atención;
+
+XVIII. Supervisar el cumplimiento de las disposiciones técnico-pedagógicas establecidas para la atención de los usuarios del servicio de Preparatoria Abierta;
+
+XIX. Planear, organizar, ejecutar y controlar acciones para la elaboración de guías, contenidos, métodos y materiales, a fin de apoyar los procesos de enseñanza-aprendizaje con usuarios del servicio de Preparatoria Abierta;
+
+XX. Promover y coordinar el proceso de vinculación con empresas y otras instituciones para apoyar la operación de los servicios de Preparatoria Abierta en el Estado y fomentar la participación social; y
+
+XXI. Los demás que de manera expresa, le asigne el Director General.
 
 ###### Artículo 19º.
 
@@ -467,6 +541,10 @@ XVI. Proporcionar a las (sic) Dirección General, Direcciones de Área, Departam
 XVII. Aplicar las sanciones administrativas a que se haga acreedor el personal del Instituto, previo acuerdo o dictamen jurídico.
 
 XVIII. Coadyuvar en el seguimiento y trámite de los asuntos jurídicos y de las observaciones emanadas de las auditorías practicadas al Instituto.
+
+> <small>(ADICIONADA, B.O. 11 DE AGOSTO DE 2008)</small>
+
+XVIII Bis.- Implementar y mantener el Sistema Integral de Archivos, asimismo elaborar los procedimientos y normatividad de control de administración documental y criterios específicos de organización de archivos de acuerdo a la normatividad en la materia.
 
 XIX. Vigilar que las Coordinaciones de Zona y demás unidades administrativas del Instituto, cumplan con las normas y disposiciones en materia de sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arendamientos (sic), conservación, uso, destino, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales necesarios, y
 
@@ -736,11 +814,11 @@ Las funciones de vigilancia del Instituto estarán a cargo de los Comisarios Pú
 
 La Junta Directiva y demás dependientes jerárquicos de ésta, en su caso, deberán proporcionar oportunamente al Comisario Público, la Información y documentación que requiera para el cumplimiento de sus funciones.
 
-> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 11 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 39º.
 
-El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, previa citación por escrito que se le formule y notifique con cinco días de anticipación asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias de la Junta Directiva.
+El Titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, previa citación por escrito que se les formule y notifique con cinco días de anticipación, en el caso de sesiones ordinarias y de cuarenta y ocho horas en caso de sesiones extraordinarias, asistirán con voz pero sin voto a las sesiones de la Junta Directiva.
 
 > <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
 
@@ -782,7 +860,7 @@ PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de
 
 SEGUNDO.- En el transcurso de un año, a partir del inicio de la vigencia del presente Reglamento Interior, deberá integrarse los Manuales de Organización, de Puestos y de Procedimientos del Instituto.
 
-> <small>(REFORMADO, B.O. 6 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 11 DE AGOSTO DE 2008)</small>
 
 INSTITUTO SONORENSE DE EDUCACIÓN PARA LOS ADULTOS
 
@@ -824,16 +902,26 @@ Regionales de los Adultos
 
 Apoyo
 
-Dirección Dirección Dirección Dirección Dirección Coordina-
+Direc- Direc- Direc- Direc- Direc- Direc- Coordi-
 
-de Servicios de Acredita- de Planea- de Adminis- de Informá- ciones de
+ción ción ción ción ción ción nacio-
 
-Educativos ción y Certi- ción y tración y tica Zona (12)
+de Servi Prepara- de Acredi- de Planea- de de nes de
 
-ficación Evaluación Finanzas
+cios toria tación ción y Adminis- Infor- Zona
+
+Educativos Abierta y Certi- Evalua tración y má- (12)
+
+ficación ción Finanzas tica
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 B.O. 6 DE OCTUBRE DE 2005.
 
 Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Los recursos presupuestarios para la operación exclusiva de los Servicios Educativos de Preparatoria Abierta, estarán constituidos por sus ingresos propios y por aquellos que para tal efecto destine el Gobierno del Estado.
