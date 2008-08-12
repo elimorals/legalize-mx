@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-planeacion-del-estado-de-mexico-y-26335
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-16"
-last_updated: "2006-08-29"
+last_updated: "2008-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 16 de octubre de 2002.
 
@@ -81,7 +81,9 @@ Los elementos programáticos permiten conocer la calidad de los productos o los 
 
 Los elementos programáticos son: los objetivos, la misión, los propósitos institucionales, los indicadores y las metas;
 
-XII. Evaluación del desempeño gubernamental. Al instrumento de medición que permite conocer además de las acciones que se realizan en un período, los resultados que tales acciones generan para lograr los objetivos planteados, empleando para ello indicadores de desempeño que ponderen el efecto de los bienes producidos y de los servicios prestados a la población por el gobierno, califica la calidad de los insumos y recursos empleados, así como la eficiencia, eficacia e impacto de los procesos y resultados;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XII. Evaluación del desempeño gubernamental. Al instrumento de medición que permite conocer además del alcance de las acciones que se realizan en un período, los resultados que tales acciones generan para lograr los objetivos planteados, empleando para ello indicadores de desempeño que ponderen el efecto de los bienes producidos y de los servicios prestados a la población por el gobierno, califica la calidad de los insumos y recursos empleados, así como la eficiencia, eficacia e impacto de los procesos y resultados;
 
 XIII. Evaluación programática presupuestal. Al conjunto de acciones de supervisión y verificación, orientadas a valorar la congruencia existente entre el ejercicio de los recursos financieros asignados a una determinada instancia, y el cumplimiento de las metas y objetivos contenidos en sus respectivos programas anuales de trabajo, a efecto de diseñar medidas preventivas o correctivas que permitan la optimización de los recursos y la eficacia de las metas comprometidas;
 
@@ -91,7 +93,11 @@ XV. Grupos de Trabajo. A los grupos interinstitucionales que conjuntamente y al 
 
 XVI. IGECEM Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
-XVII. Indicador. Al Parámetro utilizado para medir o comparar los resultados efectivamente obtenidos en la ejecución de un programa, proyecto o actividad. Es la base del Sistema Integral de Evaluación del Desempeño para monitorear y evaluar la ejecución de las tareas gubernamentales;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XVII. Indicador. Al parámetro utilizado para medir o comparar los resultados efectivamente obtenidos en la ejecución de un plan, programa, proyecto o actividad. Es la base del Sistema Integral de Evaluación del Desempeño para monitorear y evaluar la ejecución de las tareas gubernamentales.
+
+Un indicador permite evaluar el cumplimiento de una meta establecida;
 
 XVIII. Indicador de desempeño. Al Parámetro de medición que permite a una dependencia o entidad pública evaluar los resultados de su gestión, en términos del cumplimiento de sus objetivos estratégicos, de la calidad, los costos unitarios y la pertinencia de sus servicios.
 
@@ -130,6 +136,14 @@ XXXII. Subfunción. A la desagregación específica y concreta de la función qu
 XXXIII. Subprograma. A las partes principales en que se divide un programa, a fin de separar, convencionalmente, las actividades y los recursos, con el propósito de facilitar su ejecución y control en áreas concretas de operación;
 
 XXXIV. Tesorería. A la Tesorería municipal.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XXXV. Comisión Permanente. A la Comisión Permanente del Comité de Planeación para el Desarrollo del Estado de México; y
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XXXVI. Seguimiento. Al proceso que permite medir el alcance, dirección, coordinación y conducción de las acciones gubernamentales en los planes y programas respecto a los objetivos planteados.
 
 ###### Artículo 3.
 
@@ -171,7 +185,9 @@ IV. PREVISION.- Los objetivos y metas se deberán fijar en el corto, mediano y l
 
 V. UNIDAD.- La relación de interdependencia e interconexión que guardan las partes entre sí, pertenece a la esencia misma del plan, por lo cual, se deberá considerar la unificación de actividades concurrentes y complementarias para el logro de los objetivos planeados a fin de no incrementar costos en las tareas y evitar duplicidad de funciones;
 
-VI FLEXIBILIDAD.- El principio de flexibilidad se asume a partir de que en la fase operativa, los planes y programas generalmente suelen modificarse en forma temporal, dadas las circunstancias siempre cambiantes del entorno, por lo cual esto podrá ser susceptible sin que se pierda en el proceso los objetivos inicialmente propuestos, por lo que es necesario llevar a cabo revisiones periódicas de las ejecuciones de las estrategias de desarrollo, efectuando los ajustes necesarios para lo cual, se vincularán la planeación de mediano y largo plazo con la programación anual, expresada esta a través del presupuesto por programas;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VI. FLEXIBILIDAD.- El principio de flexibilidad se asume a partir de que en la fase operativa, los planes y programas generalmente suelen modificarse en forma temporal, dadas las circunstancias siempre cambiantes del entorno, por lo cual esto podrá ser susceptible sin que se pierda en el proceso los objetivos inicialmente propuestos, por lo que es necesario llevar a cabo revisiones periódicas de las ejecuciones de las estrategias de desarrollo, efectuando los ajustes necesarios para lo cual, se vincularán la planeación de mediano y largo plazo con la programación anual, expresada ésta a través del presupuesto por programas;
 
 VII. COOPERACION.- Se entiende como un proceso integrado y con una visión de conjunto, incluye todas las fases del ciclo administrativo y prevé particularmente los efectos futuros en relación a las decisiones que se tomen en el presente;
 
@@ -183,9 +199,13 @@ IX. EFICIENCIA.- Capacidad para cumplir los objetivos y las metas programadas, c
 
 Para efectos de lo establecido en el artículo 6 de la Ley, se considerarán necesidades básicas, las siguientes:
 
-I. Educación;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-II. Agua potable y alcantarillado;
+I. Educación y cultura;
+
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+II. Agua potable, drenaje y alcantarillado;
 
 III. Alumbrado público;
 
@@ -217,7 +237,21 @@ XVI. Salud y asistencia social;
 
 XVII. Empleo y capacitación;
 
-XVIII. Otras que se determinen según las condiciones territoriales y socio-económicas del Estado y los municipios.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XVIII. Alimentación y nutrición;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XIX. Preservación y conservación del medio ambiente;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XX. Deporte y recreación; y
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XXI. Otras que se determinen según las condiciones territoriales y socioeconómicas del Estado y los municipios.
 
 ###### Artículo 7.
 
@@ -225,25 +259,33 @@ La Secretaría está facultada para interpretar las disposiciones del presente R
 
 ### CAPITULO SEGUNDO. DE LA PLANEACION DEMOCRATICA PARA EL DESARROLLO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 8.
 
-El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, es el instrumento de vinculación entre la sociedad y el gobierno; así como, entre los sistemas nacional, estatal y municipal de planeación para el desarrollo. Este sistema utiliza al COPLADEM como el espacio que facilita la coordinación y concertación para lograr armonizar y dar congruencia a los planes y programas estatales con los otros ámbitos de gobierno.
+El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, es el instrumento de vinculación entre la sociedad y el gobierno; así como, entre los sistemas nacional, estatal y municipal de planeación para el desarrollo. Este sistema recurre al COPLADEM como el espacio que facilita la coordinación y concertación para lograr armonizar y dar congruencia a los planes y programas estatales con los otros órdenes de gobierno.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 9.
 
-El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, se conforma por diferentes estructuras de participación, el COPLADEM y sus órganos auxiliares, son los espacios por excelencia donde sociedad y gobierno interactúan para conducir la planeación del desarrollo del Estado, a través de los planes y programas.
+El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, se conforma por diferentes estructuras de participación, el COPLADEM y sus instancias auxiliares, son los espacios por excelencia donde sociedad y gobierno interactúan para conducir la planeación del desarrollo del Estado, a través de los planes y programas.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 10.
 
-El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios reconoce como ámbitos de planeación con incidencia en el desarrollo del Estado los siguientes: Federal; Estatal; Sectorial; Regional y Municipal.
+El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios reconoce como ámbitos de planeación con incidencia en el desarrollo del Estado los siguientes: Federal; Estatal; Sectorial; Metropolitano; Regional y Municipal.
 
 ###### Artículo 11.
 
 El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios contará con una estructura técnico-administrativa de apoyo a través de las unidades de información, planeación, programación y evaluación y/o los órganos o servidores públicos que lleven a cabo estas funciones de acuerdo con las facultades que se establecen en los artículos 18, 19 y 20 de la Ley.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 12.
 
-En el ámbito de sus respectivas atribuciones, y en apego al artículo 20 de la ley en la materia, las Unidades de Información, Planeación, Programación y Evaluación de las dependencias y entidades, serán las únicas instancias responsables de generar, procesar, emitir y difundir de manera oficial la información, respecto de los programas de su competencia.
+En el ámbito de sus respectivas atribuciones, y en apego al artículo 20 de la ley en la materia, las unidades de información, planeación, programación y evaluación de las dependencias, organismos y entidades públicas estatales y a las unidades administrativas o los servidores públicos de los municipios, designados para tal fin, serán las únicas instancias responsables de generar, procesar, emitir, reportar y difundir de manera oficial la información, respecto de los planes y programas de su competencia.
 
 ###### Artículo 13.
 
@@ -267,7 +309,9 @@ Para dar cumplimiento a lo establecido en el artículo 15 de la Ley, el Titular 
 
 I. Emitir y proveer a través de la Secretaría, los criterios y metodología para la formulación, instrumentación, control y evaluación de los planes de desarrollo y sus programas dentro de los primeros 45 días a partir del inicio del período constitucional de Gobierno para el caso del estado y dentro de los primeros 30 días en el caso de los municipios;
 
-II. Establecer y publicar en el periódico oficial Gaceta del Gobierno, a través de la Secretaría, con una anticipación de 15 días a la fecha de su realización, las bases para llevar a cabo los foros de Consulta Popular y de la participación de los diferentes grupos de la sociedad para la integración del Plan de Desarrollo del Estado de México;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+II. Establecer y publicar en el periódico oficial "Gaceta del Gobierno", a través de la Secretaría, con una anticipación de 15 días a la fecha de su realización, las bases para llevar a cabo la Consulta Popular a través de mecanismos e instrumentos de participación social definidos en el presente reglamento, para la integración del Plan de Desarrollo del Estado de México;
 
 III. Enviar a la H. Legislatura Local el Proyecto del Plan de Desarrollo del Estado de México, para su examen y opinión, al menos quince días antes de que finalice el período establecido en el artículo 22 de la Ley. El Poder Legislativo, en el ejercicio de sus atribuciones podrá emitir sus opiniones y observaciones;
 
@@ -293,41 +337,53 @@ V. Integrar y actualizar a través de la Dirección General de Planeación y Gas
 
 VI. Aprobar las propuestas de inversión derivadas de los programas sectoriales, regionales o especiales.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 17.
 
-La Secretaría de la Contraloría y las contralorías municipales, para dar cumplimiento a lo dispuesto en la fracción I del artículo 17 de la Ley, integrarán anualmente un Programa de Auditoría de Evaluación del Desempeño que asegure la vinculación del gasto público con los objetivos y prioridades de los Planes de Desarrollo y para la verificación en el cumplimiento de objetivos y metas contenidas en los programas y proyectos, así como de las disposiciones contenidas en la Ley de acuerdo a sus atribuciones.
+La Secretaría de la Contraloría y las contralorías municipales, para dar cumplimiento a lo dispuesto en la fracción I del artículo 17 de la Ley, integrarán anualmente un Programa de Auditoría de Evaluación del Desempeño que asegure la vinculación del gasto público con los objetivos y prioridades de los Planes de Desarrollo y para la verificación en el cumplimiento de objetivos y metas contenidas en los programas y proyectos, así como de las disposiciones contenidas en la Ley de acuerdo con sus atribuciones.
 
 ###### Artículo 18.
 
 Para efectos de lo dispuesto en el artículo 19 de la Ley, los Ayuntamientos de los municipios del Estado realizarán las siguientes acciones:
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-I. Elaborar conforme a los criterios y metodología que el Ejecutivo del Estado proponga a través de la Secretaría, los planes de desarrollo y sus programas al inicio de cada periodo constitucional de Gobierno, los cuales, una vez aprobados por el Cabildo, deberán ser documentados en el Registro Estatal de Planes y Programas, y presentados a la H. Legislatura Local a través del Órgano Superior de Fiscalización.
+I. Elaborar conforme a los criterios y metodología que el Ejecutivo del Estado proponga a través de la Secretaría, los planes de desarrollo y sus programas al inicio de cada periodo constitucional de Gobierno, los cuales, una vez aprobados por el Cabildo, deberán ser documentados en el Registro Estatal de Planes y Programas, y presentados a la H. Legislatura Local a través del Órgano Superior de Fiscalización del Estado de México. Así mismo deberán remitir copia del Plan de Desarrollo Municipal al COPLADEM;
 
 II. Crear, determinar o ratificar en su caso, al inicio de cada período de gestión, la unidad o servidores públicos, independientes de la tesorería, que deberán llevar a cabo las funciones de integración de la información, planeación, programación, presupuestación y evaluación;
 
 III. Integrar en los primeros treinta días de gestión, a partir de la toma de posesión, el programa para la formulación y aprobación del Plan de Desarrollo Municipal correspondiente;
 
-IV. Requerir si fuera el caso, asesoría externa para la elaboración de sus planes de desarrollo, de las personas físicas o morales reconocidas en el Registro Estatal que para tal fin integre la Secretaría;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+IV. Requerir, si fuera el caso, asesoría externa para la elaboración de sus planes de desarrollo, de las personas físicas o jurídicas colectivas reconocidas en el Registro Estatal de Consultores y Asesores Externos que para tal fin integre la Secretaría;
 
 V. Presentar con sus planes de desarrollo y sus programas, y en su caso, con los dictámenes de reconducción, el análisis de congruencia con las estrategias de desarrollo, las políticas y los objetivos del Plan de Desarrollo del Estado. Igualmente, será para el caso de las actualizaciones o adecuaciones generadas en la programación anual;
 
 VI. Integrar en los documentos que contengan la evaluación de los resultados de la ejecución de sus planes de desarrollo, el análisis de congruencia entre las acciones realizadas y las prioridades, objetivos y metas de sus planes de desarrollo y programas; e
 
-VII. Implantar un mecanismo de participación democrática en el proceso de planeación del desarrollo municipal, en el que podrán formar parte las delegaciones o representaciones de las dependencias del gobierno federal y estatal, así como representantes de las organizaciones no gubernamentales y de la ciudadanía.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VII. Implantar un mecanismo de participación democrática en el proceso de planeación del desarrollo municipal, en el que podrán formar parte las delegaciones o representaciones de las dependencias del gobierno federal y estatal, así como representantes de las organizaciones no gubernamentales y de la ciudadanía; dicho mecanismo será operado por el COPLADEMUN.
 
 ###### Artículo 19.
 
 Para efectos de lo dispuesto en el artículo 18 de la Ley, las Unidades de Información, Planeación, Programación y Evaluación tendrán las siguientes funciones:
 
-I. Conducirse de acuerdo a lo establecido en la Ley, en el presente Reglamento, así como, observar los lineamientos, criterios y metodologías que emita la Secretaría.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+I. Conducirse de acuerdo con lo establecido en la Ley, en el presente Reglamento, así como, observar los lineamientos, criterios y metodologías que emita la Secretaría.
 
 II. En materia de información:
 
-a) Realizar las acciones para la recopilación, integración, análisis, generación y uso de la información programática y presupuestal, el avance de metas, estadística básica, geográfica o aquella que provenga de registros administrativos del ámbito de su competencia y proporcionarla a la Secretaría y al IGECEM, en las materias que le correspondan, cuando sea requerida, o conforme lo establezcan los ordenamientos aplicables;
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
-b) Presentar a la Secretaría y al IGECEM la información con suficiencia, oportunidad y congruencia para que los documentos de evaluación de la gestión pública, tengan un alto grado de confiabilidad, conservando en sus archivos, los expedientes que sustenten la misma; y
+a) Realizar las acciones para la recopilación, integración, análisis, generación y uso de la información programática y presupuestal, el avance de metas, estadística básica, geográfica o aquella que provenga de registros administrativos del ámbito ele su competencia y proporcionarla a la Secretaría, al COPLADEM y al IGECEM, en las materias que le correspondan, cuando sea requerida, o conforme lo establezcan los ordenamientos aplicables;
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+b) Presentar a la Secretaría, al COPLADEM y al IGECEM la información suficiente, oportuna y congruente con el propósito de que los documentos de evaluación de la gestión pública, tengan un alto grado de confiabilidad, conservando en sus archivos, los expedientes que sustenten la misma; y
 
 c) Atender a la brevedad, los requerimientos extraordinarios de información que solicite la Secretaría.
 
@@ -381,7 +437,9 @@ a) Reportar a la Secretaría, por conducto de la Dirección General de Planeaci�
 
 b) Reportar a la Secretaría los avances de los indicadores contenidos en el Sistema Integral de Evaluación del Desempeño, SIED;
 
-c) Actualizar y modificar en línea, en los períodos previamente establecidos, el número de indicadores contenidos en el SIED en la materia de su competencia;
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+c) Actualizar y modificar en línea, en los periodos previamente establecidos, el avance de las cifras de los indicadores contenidos en el SIED en la materia de su competencia;
 
 d) Analizar, valorar, validar y reportar a la Secretaría los avances que reporte en los informes mensual y trimestral programático-presupuestal;
 
@@ -389,13 +447,21 @@ d) Analizar, valorar, validar y reportar a la Secretaría los avances que report
 
 e) Integrar y enviar a la Secretaría por conducto de la Dirección General de Planeación y Gasto Público la evaluación para el informe trimestral y anual de avance en la ejecución del Plan de Desarrollo del Estado de México;
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
-f) Elaborar y remitir a la Secretaría por conducto de la Dirección General de Planeación y Gasto Público, el dictamen de reconducción y actualización de la estrategia de desarrollo, cuando se actualicen los programas y generen elementos para fundamentar la cancelación, modificación o adecuación de subprogramas y proyectos de acuerdo a lo establecido en los artículos 24 y 38 de la Ley;
+f) Elaborar y remitir al COPLADEM y a la Secretaría por conducto de la Dirección General de Planeación y Gasto Público, el dictamen de reconducción y actualización de la estrategia de desarrollo cuando se actualicen los programas y generen elementos para fundamentar la cancelación, modificación o adecuación de subprogramas y proyectos de acuerdo a lo establecido en los artículos 24 y 38 de la Ley;
 
-g) Participar en la integración de la información requerida por el IGECEM, para la elaboración de los informes y la memoria de gobierno; y
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
-h) Registrar, instrumentar y vigilar el cumplimiento de las obligaciones generadas a partir de la firma de los convenios de coordinación y participación en el ámbito de sus atribuciones.
+g) Participar en la integración de la información requerida por el IGECEM, para la elaboración de los informes y la memoria de gobierno;
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+h) Registrar, instrumentar y vigilar el cumplimiento de las obligaciones generadas a partir de la firma de los convenios de coordinación y participación en el ámbito de sus atribuciones; y
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+i) Proporcionar la información requerida por el COPLADEM, para la elaboración e integración de los informes de evaluación y seguimiento del Plan de Desarrollo y sus programas.
 
 ###### Artículo 20.
 
@@ -403,11 +469,15 @@ En el caso de los Ayuntamientos, las unidades administrativas o servidores públ
 
 I. En materia de planeación:
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 a) Coordinar conjuntamente con el COPLADEMUN la elaboración del Plan de Desarrollo Municipal y los Programas que de él se deriven;
 
 b) Participar en la elaboración de los programas regionales en los cuales esté involucrado el Municipio;
 
-c) Elaborar en coordinación con la Tesorería el proyecto de presupuesto por programas, asegurando en todo momento la congruencia con los objetivos y metas establecidos en el Plan de Desarrollo Municipal;
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+c) Elaborar en coordinación con la Tesorería el proyecto de presupuesto por programas, asegurando en todo momento la congruencia con los objetivos y metas establecidos en el Plan de Desarrollo Municipal y sus programas;
 
 d) Elaborar en su caso, las propuestas de reconducción y/o actualización del Plan de Desarrollo Municipal y de los programas anuales que conforman su presupuesto por programas;
 
@@ -415,7 +485,9 @@ e) Actualizar y dar seguimiento a la cartera potencial de proyectos definida en 
 
 f) Verificar de manera permanente la congruencia del Plan y los programas con el Plan de Desarrollo del Estado y el Plan Nacional de Desarrollo; y
 
-g) Asesorar a los miembros del COPLADEMUN en las tareas de planeación que estos llevan a cabo.
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+g) Asesorar a los miembros del COPLADEMUN en las tareas de planeación que éstos llevan a cabo.
 
 II. En materia de información:
 
@@ -423,9 +495,17 @@ a) Llevar a cabo las acciones inherentes a la recopilación, integración, anál
 
 b) Ser el canal único de información para la planeación entre el Ayuntamiento y las dependencias Federales y Estatales, así como, otros tipos de usuarios que la requieran;
 
-c) Proporcionar con oportunidad la información que le sea solicitada por las dependencias y organismos que integran la Administración Municipal para apoyar sus procesos internos, así como, para la toma de decisiones; y
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
-d) Asegurar que los documentos evaluatorios de la gestión pública del municipio sean presentados con oportunidad y contengan la suficiencia y congruencia debida en la información, para lograr en ellos un alto grado de confiabilidad.
+c) Proporcionar con oportunidad la información que le sea solicitada por las dependencias y organismos que integran la administración municipal para apoyar sus procesos internos, así como, para la toma de decisiones;
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+d) Asegurar que los documentos evaluatorios de la gestión pública del municipio sean presentados con oportunidad y contengan la suficiencia y congruencia debida en la información, para lograr en ellos un alto grado de confiabilidad; y
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+e) Reportar al COPLADEM, los resultados de la ejecución de los planes y programas, con la periodicidad que el mismo establezca.
 
 III. En materia de programación:
 
@@ -475,11 +555,15 @@ e) Participar en la integración de los informes de Gobierno que anualmente rind
 
 Los Planes y Programas a que se refiere la Ley y el presente Reglamento, serán los instrumentos a través de los cuales se fijarán las prioridades, objetivos, estrategias, líneas de acción y metas para el desarrollo sustentable del Estado y Municipios.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 22.
 
-El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, deberá conducirse para efectos de la formulación e integración de planes y programas de acuerdo a una estructura metodológica que básicamente contendrá:
+El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, deberá conducirse para efectos de la formulación e integración de planes y programas de acuerdo con una estructura metodológica que básicamente contendrá:
 
-I. Diagnóstico.- El cual corresponderá a un análisis e interpretación general o particular de un fenómeno o fenómenos de manera cuantitativa y cualitativa de la situación existente y sus tendencias, así como de la descripción del contexto actual y la trayectoria histórica con una visión retrospectiva que permita identificar las necesidades económico sociales, de manera que se aprecie la problemática existente y las oportunidades de desarrollo, así como, sus causas y efectos. El diagnóstico deberá atender a la capacidad real de desarrollo y a la disponibilidad de recursos;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+l. Diagnóstico.- El cual corresponderá a un análisis e interpretación general o particular de un fenómeno o fenómenos de manera cuantitativa y cualitativa de la situación existente, así como de la descripción del contexto actual y la trayectoria histórica con una visión retrospectiva que permita identificar las necesidades económico sociales, de manera que se aprecie la problemática existente v las oportunidades de desarrollo, así como, sus causas y efectos. El diagnóstico deberá atender a la capacidad real de desarrollo y a la disponibilidad de recursos;
 
 II. Fijación de Objetivos, Estrategias y Líneas de Acción.- Deberán ser establecidos en función de las prioridades que se hayan determinado de acuerdo a las necesidades debidamente jerarquizadas, estimando el comportamiento futuro de las tendencias detectadas en el diagnóstico. Los objetivos, estrategias y líneas de acción deberán ser fijados en forma clara y concreta. Los objetivos serán los fines hacia los cuales se dirige la acción planificada;
 
@@ -491,13 +575,23 @@ III. Establecimiento de Metas.- Los planes de desarrollo municipal, así como lo
 
 IV. Determinación de recursos técnicos, humanos, materiales y financieros necesarios para la ejecución de las acciones.- Los planes de desarrollo municipal, los programas especiales, sectoriales y regionales determinarán estos recursos, de acuerdo con las necesidades expresadas en el diagnóstico y con la capacidad financiera de que se disponga, además del señalamiento de responsables y tiempo de ejecución;
 
-V. Ejecución de Planes y Programas.- Corresponderá a toda la administración pública en su conjunto, atendiendo a las siguientes reglas fundamentales: organización adecuada; buena dirección y coordinación; comunicación y flujo de información en todos sentidos; buena administración de personal y división racional del trabajo; eficacia, eficiencia y congruencia en la toma de decisiones; control efectivo; delimitación de los niveles de autoridad y responsabilidad y unidad de criterio en la acción, dirección y mando; y
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-VI. Mecanismos de seguimiento, control y evaluación del proceso de ejecución de planes y programas; que implica la supervisión y monitoreo periódico del avance y cumplimiento de los objetivos, acciones y metas establecidas; así como la comparación de los resultados y logros obtenidos contra los esperados y la evaluación de sus impactos.
+V. Ejecución de Planes y Programas.- Corresponderá a la administración pública en su conjunto, atendiendo a las siguientes reglas fundamentales: organización adecuada; buena dirección y coordinación; comunicación y flujo de información en todos sentidos; buena administración de personal y división racional del trabajo; eficacia, eficiencia y congruencia en la toma de decisiones; control efectivo; delimitación de los niveles de autoridad y responsabilidad y unidad de criterio en la acción, dirección y mando;
+
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VI. Mecanismos de seguimiento, control y evaluación del proceso de ejecución de planes y programas: que implica la supervisión y monitoreo periódico del avance y cumplimiento de los objetivos, acciones y metas establecidas; así como la comparación de los resultados y logros obtenidos contra los esperados y la evaluación de sus impactos; y
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VII. Prospectiva.- Conjunto de metodologías orientadas a la previsión del futuro, imaginando escenarios posibles, con el fin último de planificar las acciones necesarias que generan un mayor grado de certidumbre para la toma de decisiones.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 23.
 
-En la etapa de formulación e integración del Plan de Desarrollo del Estado de México, el Ejecutivo, convocará con la participación de los Poderes Legislativo y Judicial a más tardar dentro de los primeros 45 días de iniciado el período constitucional de Gobierno, los foros de consulta popular para analizar los temas y prioridades del desarrollo estatal, a efecto de captar las demandas sociales e integrarlas al plan. Por lo que toca a la fase de ejecución y evaluación de las políticas y acciones gubernamentales, dichos Poderes, podrán opinar sobre los logros y alcances de los programas.
+En la etapa de formulación e integración del Plan de Desarrollo del Estado de México, el Ejecutivo, convocará con la participación de los Poderes Legislativo y Judicial a más tardar dentro de los primeros 45 días de iniciado el período constitucional de Gobierno, los foros de consulta popular u otros mecanismos de participación social definidos en el presente Reglamento para analizar los temas y prioridades del desarrollo estatal, a efecto de captar las demandas sociales e integrarlas al plan. Por lo que toca a la fase de ejecución y evaluación de las políticas y acciones gubernamentales, dichos Poderes, podrán opinar sobre los logros y alcances de los programas.
 
 ###### Artículo 24.
 
@@ -511,9 +605,21 @@ III. Encuestas y sondeos de opinión;
 
 IV. Buzones de opinión ciudadana;
 
-V. Estudios e investigaciones académicas y sociales; y
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-VI. Registro de Demandas de campaña.
+V. Estudios e investigaciones académicas y sociales;
+
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VI. Registro de demandas de campaña;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VII. Consulta popular a través de medios electrónicos; y
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VIII. Recepción de documentos y propuestas en las instancias auxiliares del COPLADEM.
 
 Con los resultados, se integrará un expediente o memoria que contendrá su correspondiente registro, análisis y conclusiones, las que deberán incorporarse y ser parte del plan.
 
@@ -521,11 +627,11 @@ Con los resultados, se integrará un expediente o memoria que contendrá su corr
 
 Los planes de desarrollo y sus programas derivados, deberán incluir un apartado específico en donde se incluyan prioridades, objetivos, estrategias y líneas generales de acción, que rebasen el período constitucional de la gestión gubernamental, según sea el caso, los cuales, invariablemente, al inicio de cada nueva administración, serán revisados, analizados y reformulados de ser procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 26.
 
-Una vez aprobado y publicado el Plan de Desarrollo del Estado de México, el Presidente de la Asamblea fijará las políticas y medios para su divulgación.
+Una vez aprobado y publicado el Plan de Desarrollo del Estado de México, el Presidente de la Asamblea General a través del COPLADEM, fijará las políticas y medios para su divulgación; las cuales podrán ser:
 
 I. Impresión masiva y en medios magnéticos, incluida la página Web del Gobierno, de la versión completa y abreviada para su amplia difusión entre la población;
 
@@ -539,13 +645,11 @@ IV. Reuniones informativas con la población.
 
 De estas acciones se llevará un registro y se elaborará un reporte que será remitido al COPLADEM, para su presentación ante la Asamblea General.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 27.
 
-El Plan de Desarrollo del Estado de México, es el instrumento rector de la Planeación Estatal y en él, deberán quedar expresadas claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia económica, política y social para promover y fomentar el desarrollo integral sustentable y el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y la sociedad hacia ese fin.
-
-En su elaboración e integración quedarán incluidas, previa valoración, las propuestas planteadas por los distintos grupos sociales a través de los foros de consulta popular y los órganos auxiliares del COPLADEM.
+El Plan de Desarrollo del Estado de México, es el instrumento rector de la Planeación Estatal y en él, deberán quedar expresadas claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia económica, política y social para promover y fomentar el desarrollo integral sustentable y el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y de la sociedad hacia ese fin. En su elaboración e integración quedarán incluidas, previa valoración, las propuestas planteadas por los distintos grupos sociales a través de los mecanismos e instrumentos de participación social definidos en el presente Reglamento.
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
 
@@ -569,11 +673,13 @@ I. Tesis y proyecto político administrativo a desarrollar durante el período d
 
 II. Diagnóstico del contexto económico, político y social del Estado por región y sector;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-III. Prospectiva con la visión del desarrollo estatal a veinte años;
+II. Diagnóstico del contexto económico, político y social del Estado;
 
-IV. Prioridades y estrategia general del desarrollo;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+III. Prospectiva con la visión del desarrollo estatal a mediano y largo plazo;
 
 V. Objetivos, estrategias y líneas de acción por región, sector y programas incluidos;
 
@@ -609,9 +715,11 @@ La Secretaría emitirá los criterios y metodología para la elaboración e inte
 
 Los programas sectoriales y regionales deberán quedar integrados y aprobados, a más tardar, en los siguientes seis meses posteriores a la publicación del Plan de Desarrollo del Estado de México.
 
+> <small>(REFORMADOP PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 37.
 
-Los programas especiales, si fuera el caso, deberán ser integrados y publicados dentro de los tres meses siguientes a la fecha en que emita el acuerdo de integración, el titular del Ejecutivo Estatal, a través de la Secretaría. Será el COPLADEM responsable de coordinar su elaboración, seguimiento y evaluación.
+Los programas especiales, si fuera el caso, deberán ser integrados y publicados dentro de los tres meses siguientes a la fecha en que emita el acuerdo de integración, el titular del Ejecutivo Estatal, a través de la Secretaría. Será el COPLADEM con la Instancia Auxiliar competente responsable de coordinar su elaboración, seguimiento y evaluación.
 
 Para el caso de los municipios podrán derivar de sus planes de desarrollo, programas sectoriales, microregionales y especiales de corto plazo.
 
@@ -633,6 +741,10 @@ Los programas sectoriales deberán formularse asegurando su debida congruencia c
 
 En la formulación e integración de los programas sectoriales participarán las dependencias y entidades de acuerdo con los programas agrupados al sector que corresponda; su elaboración e integración será coordinada por el COPLADEM, el cual valorará la propuesta y emitirá un dictamen de concordancia con el Plan de Desarrollo del Estado de México y con el Sistema Nacional de Planeación.
 
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+El COPLADEM a través de los subcomités sectoriales respectivos que al efecto establezca, convocará y coordinará las reuniones de trabajo necesarias para elaborar, integrar, difundir, dar seguimiento y evaluar los programas sectoriales.
+
 ###### Artículo 41.
 
 Los programas sectoriales contendrán los siguientes elementos:
@@ -651,11 +763,11 @@ V. Lineamientos para la instrumentación, seguimiento y evaluación del programa
 
 VI. Propuesta de estructura orgánico-administrativa necesaria para cumplir con los objetivos del Programa Sectorial.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 42.
 
-El COPLADEM, con las dependencias responsables, coordinará la impresión y distribución de los ejemplares suficientes de los programas sectoriales y regionales autorizados, dando seguimiento a estas acciones para asegurar su debido cumplimiento y será el responsable de publicar un resumen de dichos programas en el periódico oficial "Gaceta del Gobierno".
+El COPLADEM, con las instancias auxiliares y dependencias responsables, coordinará la distribución de los programas sectoriales y regionales autorizados, dando seguimiento a estas acciones para asegurar su debido cumplimiento y será el responsable de publicar un resumen de dichos programas en el periódico oficial "Gaceta del Gobierno".
 
 ###### Artículo 43.
 
@@ -665,9 +777,11 @@ Los programas regionales serán el instrumento de Planeación que señalen las p
 
 Los programas regionales deberán elaborarse e integrarse asegurando la debida congruencia con las prioridades, objetivos estrategias y líneas de acción que establezca el Plan de Desarrollo del Estado de México y los programas sectoriales, cuidando que su desagregación a nivel regional sea la adecuada para constituirse en un instrumento eficaz de orientación del quehacer gubernamental de los tres órdenes de gobierno en un ámbito territorial determinado.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 45.
 
-En su vertiente de coordinación y concertación, para la formulación de los programas regionales el COPLADEM promoverá y articulará la participación de las dependencias de las tres esferas de gobierno y de la sociedad que requieran ser involucradas, y propiciará la colaboración de las instancias que faciliten contar con programas acordes a las necesidades del desarrollo integral de las regiones en que incidan dichos programas.
+En su vertiente de coordinación y concertación, para la formulación de los programas regionales el COPLADEM promoverá y articulará la participación de las dependencias de los tres órdenes de gobierno y de la sociedad que requieran ser involucradas, y propiciará la colaboración de las instancias que faciliten contar con programas acordes con las necesidades del desarrollo integral de las regiones en que incidan dichos programas.
 
 ###### Artículo 46.
 
@@ -715,7 +829,9 @@ I. Tesis y proyecto político a desarrollar durante el período del gobierno mun
 
 II. Diagnóstico del contexto económico, político y social del municipio;
 
-III. Visión del desarrollo municipal a 10 años;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+III. Visión del desarrollo municipal a mediano y largo plazo;
 
 IV. Prioridades generales del plan;
 
@@ -755,9 +871,11 @@ VII. Replanteamiento de las estrategias, políticas y objetivos a desarrollar, e
 
 VIII. Avance en la integración y ejecución de los programas sectoriales, regionales y especiales.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 55.
 
-Cuando los programas deban modificarse como consecuencia de la publicación, modificación o actualización del Plan Nacional de Desarrollo o en su caso, del Plan de Desarrollo del Estado de México, las dependencias y entidades responsables, a través de sus Unidades de Información, Planeación, Programación y Evaluación u órganos administrativos que cumplan esas funciones, deberán emitir el dictamen de reconducción y actualización respectivo y enviarlo a la Secretaría para su aprobación.
+Cuando los programas deban modificarse, entre otras causas, como consecuencia de la publicación, modificación o actualización del Plan Nacional de Desarrollo o en su caso, del Plan de Desarrollo del Estado de México, las dependencias y entidades responsables, a través de sus unidades de información, planeación, programación y evaluación u órganos administrativos que cumplan esas funciones, deberán emitir el dictamen de reconducción y actualización respectivo y enviarlo a la Secretaría para su aprobación.
 
 ###### Artículo 56.
 
@@ -765,13 +883,19 @@ Los dictámenes de reconducción y actualización a que se refiere al artículo 
 
 Los dictámenes serán sometidos a consideración de la Secretaría durante el primer semestre de cada año y la revisión periódica a la que se refiere el artículo 28 de la citada Ley, será anual; en el caso de los municipios, los referidos dictámenes los harán en los períodos que determinen los Ayuntamientos.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 57.
 
-Corresponderá al Gobernador del Estado a través de la Secretaría, y al Ayuntamiento, autorizar la procedencia del dictamen de reconducción y actualización, así como las modificaciones en las estrategias cuando así procedan.
+Corresponderá al Gobernador del Estado a través de la Secretaría, y al Ayuntamiento, autorizar la procedencia del dictamen de reconducción y actualización, así como las modificaciones en las estrategias contenidas en los planes y programas cuando así procedan.
 
 ###### Artículo 58.
 
 La Secretaría deberá emitir el comunicado de procedencia o improcedencia del dictamen de reconducción y actualización, una vez que sea autorizado por la Secretaría y los Ayuntamientos en el momento que así lo determinen.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Si el comunicado es de procedencia, la Unidad de Información, Planeación, Programación y Evaluación u órgano administrativo que cumpla esas funciones, deberá notificar al COPLADEM de tal circunstancia enviando copia del dictamen de reconducción y actualización, y en el caso de los Ayuntamientos también lo remitirá al COPLADEMUN, para su registro y seguimiento.
 
 ###### Artículo 59.
 
@@ -845,9 +969,11 @@ Para establecer y operar el Registro Estatal de Planes y Programas, la Secretar�
 
 ### CAPITULO CUARTO. DEL CONTROL, SEGUIMIENTO Y EVALUACION DE LA EJECUCION
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 65.
 
-El Plan de Desarrollo del Estado de México en lo general, será analizado en términos de los avances en su ejecución una vez al finalizar el primer trienio de gobierno y antes de que concluya el período constitucional de Gobierno. Dichas reuniones de análisis, se realizarán en sesión plenaria del COPLADEM y tendrán como propósito determinar los avances y logros de los objetivos, estrategias, líneas de acción y metas intermedias y terminales que se hayan comprometido.
+El Plan de Desarrollo del Estado de México en lo general, será analizado en términos de los avances en su ejecución una vez al finalizar el primer trienio de gobierno y antes de que concluya el período constitucional del mismo. Este análisis, se realizará en el COPLADEM y tendrá como propósito determinar los avances y logros de los objetivos, estrategias y líneas de acción que se hayan comprometido.
 
 ###### Artículo 66.
 
@@ -875,17 +1001,23 @@ Las contralorías internas de las dependencias y entidades del Poder Ejecutivo y
 
 Las contralorías internas de las dependencias y entidades del Poder Ejecutivo y las de los municipios, además de tomar las medidas que les correspondan en el marco de sus respectivas atribuciones, deberán comunicar por escrito a los Titulares y a los Ayuntamientos respectivos, sobre los retrasos, desviaciones o incumplimientos que pudieran presentarse, con relación a la ejecución del plan y sus programas.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 71.
 
-Las evaluaciones del Plan de Desarrollo Municipal se realizarán en sesión especial de Cabildo y en todos los casos, deberá tomarse en cuenta a los miembros integrantes del COPLADEMUN.
+Las evaluaciones del Plan de Desarrollo Municipal se realizarán en sesión especial de cabildo y en todos los casos, deberán participar los miembros integrantes del COPLADEMUN.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 72.
 
-La evaluación de los programas sectoriales, regionales y especiales, independientemente de los mecanismos e instrumentos aplicados para estos fines por la Secretaría, y la Secretaría de la Contraloría en sus respectivos ámbitos de competencia, deberá realizarse en el seno de los diferentes subcomités del COPLADEM, cuando menos dos veces al año durante el mes de junio, para vincular los alcances con la programación-presupuestación del ejercicio presupuestal siguiente y en el mes de febrero, en el que se presentarán los resultados alcanzados en el año inmediato anterior y el programa de trabajo para el año en curso.
+La evaluación de los programas sectoriales, regionales y especiales, independientemente de los mecanismos e instrumentos aplicados para estos fines por la Secretaría y la Secretaría de la Contraloría en sus respectivos ámbitos de competencia, deberá realizarse en el seno de los diferentes subcomités del COPLADEM, cuando menos dos veces al año, la primera sesión se realizará durante el primer trimestre, en el que se presentarán los resultados alcanzados en el año inmediato anterior y el programa de trabajo para el año en curso, entre otros asuntos; y una posterior para atender el informe de avances de los programas y las previsiones de vinculación y concertación de los alcances con la programación-presupuestación del ejercicio presupuestal siguiente.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 73.
 
-Los resultados de las evaluaciones a las que hace referencia el artículo anterior, servirán para actualizar las estrategias y líneas de acción de los programas, los cuales quedarán documentados en un informe que elabore la dependencia responsable. Estas evaluaciones serán entregadas al Coordinador General del COPLADEM, a través de la Comisión Permanente, quien a su vez las presentará al Gobernador del Estado.
+Los resultados de las evaluaciones a las que hace referencia el artículo anterior, servirán para actualizar las estrategias y líneas de acción de los programas, los cuales quedarán documentados en un informe que elabore la dependencia responsable. Estas evaluaciones serán entregadas al Secretario Técnico de la Asamblea General quien las remitirá al Coordinador General del COPLADEM, que a su vez las presentará al Gobernador del Estado.
 
 ###### Artículo 74.
 
@@ -941,9 +1073,11 @@ h) Convenios entre un órgano de la administración pública estatal e instituci
 
 i) Convenios entre los ayuntamientos e instituciones de educación superior e investigación.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 78.
 
-Los convenios de coordinación y colaboración se publicarán en el Periódico Oficial Gaceta del Gobierno.
+Los convenios de coordinación, de colaboración, de participación y concertación se publicarán en el periódico oficial "Gaceta del Gobierno".
 
 ###### Artículo 79.
 
@@ -959,9 +1093,11 @@ Las controversias que surjan con motivo de los convenios entre el Gobierno del E
 
 ### CAPITULO SEXTO. DE LOS COMITES DE PLANEACION
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 82.
 
-El COPLADEM como instancia de coordinación del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, además de las establecidas en la Ley y en otras disposiciones de este Reglamento, tendrá las funciones siguientes:
+El COPLADEM como instancia de coordinación del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, además de las establecidas en la Ley y en otras disposiciones de este Reglamento, tendrá las atribuciones y funciones siguientes:
 
 I. Promover la participación de los grupos y organizaciones sociales y privados, en el proceso de planeación para el desarrollo;
 
@@ -977,31 +1113,67 @@ VI. Proponer al Ejecutivo y a los ayuntamientos programas de desarrollo;
 
 VII. Constituirse en el vínculo de coordinación entre el Estado, los ayuntamientos, el Gobierno Federal, las entidades federativas y el Distrito Federal, para asegurar el cumplimiento del objeto del Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
 
-VIII. Promover la creación y propiciar el fortalecimiento de los COPLADEMUN.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2006)</small>
+VIII. Promover la creación o renovación y propiciar el fortalecimiento de los COPLADEMUN;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+IX. Coadyuvar en la integración, elaboración, evaluación y seguimiento de los planes y programas de desarrollo; y
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+X. Generar e integrar información para los procesos de elaboración, evaluación y seguimiento de los planes y programas de desarrollo.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 83.
 
-El logotipo de identificación del COPLADEM, es el elemento visual que lo individualiza. Este será diseñado por la dependencia del Gobierno Estatal que tenga a su cargo la identidad gráfica institucional y será utilizado invariablemente en la papelería y vehículos, así como en las asambleas, reuniones y demás eventos que por su naturaleza tengan relación con las funciones de los órganos del COPLADEM.
+El logotipo de identificación del COPLADEM, es el elemento visual que lo individualiza. Este será diseñado por la dependencia del Gobierno Estatal que tenga a su cargo la identidad gráfica institucional y será utilizado invariablemente en las asambleas, reuniones y demás eventos que por su naturaleza tengan relación con las funciones de las instancias auxiliares del COPLADEM.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 84.
 
-El COPLADEM impulsará la creación o renovación, en su caso, de los COPLADEMUN al inicio del periodo constitucional de los gobiernos municipales, preferentemente, asegurando la participación de los grupos y organizaciones sociales y privados del municipio.
+El COPLADEM promoverá la creación o renovación, en su caso, de los COPLADEMUN al inicio del periodo constitucional de los gobiernos municipales, quienes procurarán que en su integración participen los grupos y organizaciones sociales y privados del municipio.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 85.
 
-La integración y funcionamiento de los COPLADEMUN se determinará por los ayuntamientos de acuerdo con el reglamento o reglas de operación que al efecto expidan.
+El Comité de Planeación para el Desarrollo Municipal se integrará al menos por:
+
+I. Un Presidente, que será el Presidente Municipal del municipio respectivo;
+
+II. Un representante del sector público municipal;
+
+III. Un representante del sector social municipal;
+
+IV. Un representante del sector privado municipal;
+
+V. Representantes de las organizaciones sociales del municipio, en su caso también podrán incorporarse a miembros de los consejos de participación ciudadana; y
+
+VI. Un representante del COPLADEM, quien fungirá únicamente como Asesor Técnico.
+
+Por cada integrante, su titular podrá nombrar a un suplente.
+
+El Comité de Planeación para el Desarrollo Municipal podrá tener tantos miembros como se juzgue conveniente para el eficaz desempeño de sus funciones, el Presidente designará de entre ellos a un Secretario de Actas, los integrantes durarán en su encargo el periodo municipal correspondiente.
+
+Para que sesione válidamente el COPLADEMUN se requerirá la presencia del Presidente o su suplente, y la mitad más uno de los demás miembros. Todos los miembros tendrán derecho a voz y voto, con excepción del señalado en la fracción VI quién solo tendrá derecho a voz.
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 86.
 
-La participación del COPLADEMUN en la coordinación para la realización de acciones derivadas de las estrategias estatal y municipal de desarrollo, se orientará a promover la participación de los distintos sectores de la sociedad en la formulación, ejecución, seguimiento y evaluación del Plan de Desarrollo Municipal y a asegurar la congruencia de éste con los planes Nacional y Estatal de Desarrollo, así como a fortalecer los vínculos de coordinación con los gobiernos federal y estatal.
+La participación del COPLADEMUN en la coordinación para la realización de acciones derivadas de las estrategias estatal y municipal de desarrollo, se orientará a promover la participación de los distintos sectores de la sociedad en la formulación, ejecución, seguimiento, evaluación y control del Plan de Desarrollo Municipal y a asegurar la congruencia de éste con los planes Nacional y Estatal de Desarrollo, así como a fortalecer los vínculos de coordinación con los gobiernos federal y estatal.
 
 ###### Artículo 87.
 
 En la elaboración de los programas sectoriales, microregionales, especiales y comunitarios que se deriven de los planes municipales de desarrollo, el COPLADEMUN será el órgano encargado de promover y coordinar la participación de los diferentes sectores de la sociedad en la definición, instrumentación y ejecución de obras y acciones.
 
-En el caso de los programas regionales a que hace referencia la Ley y el presente Reglamento, el COPLADEMUN, a través de su Presidente, será el vínculo a través del cual, el municipio establezca la coordinación con los gobiernos federal y estatal, así como con los municipios que participen en el programa.
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+En el caso de los programas regionales a que hace referencia la Ley y el presente Reglamento, el COPLADEMUN, por conducto de su Presidente, vía el COPLADEM, será el vínculo a través del cual, el municipio establezca la coordinación con los gobiernos federal y estatal, así como con los municipios que participen en el programa.
 
 ### CAPITULO SEPTIMO. DE LAS FUNCIONES DE LA ASAMBLEA GENERAL
 
@@ -1009,7 +1181,21 @@ En el caso de los programas regionales a que hace referencia la Ley y el present
 
 La Asamblea General es el órgano de gobierno del COPLADEM que tiene a su cargo la dirección del organismo y que se integra en términos de lo dispuesto por el artículo 46 de la Ley.
 
-El COPLADEM contará con un comisario, quien será el representante de la Secretaría de la Contraloría, de acuerdo con lo previsto en el artículo 23 fracción III de la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México.
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+La Asamblea General celebrará sesiones por lo menos cada dos meses en Pleno o en Comisión Permanente.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Para convocar a la Asamblea General en Pleno, el COPLADEM, emitirá la convocatoria respectiva con al menos cinco días hábiles de anticipación a la fecha a celebrarse la asamblea, publicándola en la página electrónica del organismo y en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Para convocar a la Asamblea General para sesionar a través de la Comisión Permanente, el COPLADEM, emitirá la convocatoria respectiva con al menos cinco días hábiles de anticipación a la fecha a celebrarse la asamblea, mediante la página electrónica del organismo, vía oficio y en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Ya sea que la Asamblea General sesione en pleno o a través de su Comisión Permanente, el Secretario Técnico notificará por oficio los acuerdos en ella tomados, a los titulares de las dependencias, organismos, entidades públicas y unidades administrativas involucradas para que procedan a su cumplimiento, requiriéndoles informen al COPLADEM de las acciones tomadas, a efecto de realizar su evaluación y seguimiento en la siguiente asamblea.
 
 ###### Artículo 89.
 
@@ -1021,7 +1207,7 @@ II. Subcomités regionales;
 
 III. Subcomités especiales;
 
-IV. Grupos de trabajo de la Asamblea General;
+IV. (DEROGADA, G.G. 12 DE AGOSTO DE 2008)
 
 V. Grupos de trabajo de los subcomités.
 
@@ -1039,7 +1225,9 @@ III. Coadyuvar con el Ejecutivo al seguimiento y evaluación de los programas y 
 
 IV. Proponer a los gobiernos federal y estatal, así como a los ayuntamientos, medidas de carácter jurídico, administrativo o financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del COPLADEM; en el caso de las propuestas que se formulen a los ayuntamientos éstas, se presentarán a través de la Dirección General a los COPLADEMUN;
 
-V. Dictar normas y políticas generales para establecer los criterios que deban orientar las acciones, funciones y actividades de los órganos del COPLADEM;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+V. Dictar en su caso normas y políticas generales para establecer los criterios que deban orientar las acciones, funciones y actividades de la Comisión Permanente, subcomités sectoriales, regionales y especiales, así como de los grupos de trabajo de los Subcomités;
 
 VI. Proponer y aprobar reformas o adiciones al reglamento interno del COPLADEM;
 
@@ -1051,11 +1239,17 @@ IX. Resolver las dudas que se presenten con motivo de la interpretación y aplic
 
 X. Las demás que señale el presente reglamento y las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Las atribuciones que deberá cumplir la Comisión Permanente, serán las señaladas en las fracciones I, II, III, VIII y IX del presente artículo.
+
 ### CAPITULO OCTAVO. DE LAS FUNCIONES DE LOS INTEGRANTES DE LA ASAMBLEA GENERAL
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 91.
 
-El Presidente de la Asamblea General tendrá las siguientes funciones:
+El Presidente de la Asamblea General tendrá las siguientes atribuciones:
 
 I. Presidir las sesiones de la Asamblea General;
 
@@ -1069,19 +1263,27 @@ V. Proponer a la Asamblea General el establecimiento, modificación o supresión
 
 VI. Nombrar a los coordinadores de los subcomités y grupos de trabajo;
 
-VII. Instruir al Secretario, a través del Coordinador General, para la elaboración de las convocatorias para la realización de las sesiones de la Asamblea General;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VII. Instruir al Secretario Técnico, a través del Coordinador General, para la elaboración de las convocatorias para la realización de las sesiones de la Asamblea General;
 
 VIII. Las demás que le confieren las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 92.
 
-El Coordinador General del COPLADEM tendrá las siguientes funciones:
+El Coordinador General del COPLADEM tendrá las siguientes atribuciones:
 
 I. Coordinar las actividades del COPLADEM;
 
-II. Proponer a la Asamblea General las políticas y lineamientos generales para la planeación global del desarrollo del Estado, las metodologías para la integración, ejecución y evaluación de los programas sectoriales, regionales y especiales en el marco del Sistema Estatal de Planeación Democrática, así como proponer el Programa Anual de Inversión Pública;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-III. Coordinar la integración del programa anual de trabajo, el informe anual y la evaluación de actividades del COPLADEM y sus órganos auxiliares;
+II. Proponer a la Asamblea General las políticas y lineamientos generales para la planeación del desarrollo del Estado, las metodologías para la integración, ejecución y evaluación de los programas sectoriales, regionales y especiales en el marco del Sistema Estatal de Planeación Democrática, así como proponer el Programa Anual de Inversión Pública;
+
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+III. Coordinar la integración del programa anual de trabajo, el informe anual y la evaluación de actividades del COPLADEM y sus instancias auxiliares;
 
 IV. Proponer al presidente el establecimiento, modificación o supresión de subcomités y grupos de trabajo;
 
@@ -1089,15 +1291,19 @@ V. Coordinar la elaboración de los trabajos que determine la Asamblea General;
 
 VI. Someter a consideración del presidente, la carpeta que contenga la convocatoria, el orden del día y fecha de las sesiones de la Asamblea General;
 
-VII. Realizar el seguimiento de los acuerdos tomados en las sesiones de la Asamblea General y en las reuniones de los subcomités y grupos de trabajo;
+VII. (DEROGADA, G.G. 12 DE AGOSTO DE 2008)
 
 VIII. Las que le encomiende la Asamblea General.
 
-Para el cumplimiento de sus funciones, el Coordinador General contará con el apoyo del Coordinador de Planeación, del Director General y de los coordinadores de los subcomités y de los grupos de trabajo.
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Para el cumplimiento de sus funciones, el Coordinador General contará con el apoyo del Coordinador de Planeación, del Secretario Técnico y de los coordinadores de los subcomités y de los grupos de trabajo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 93.
 
-El Director General en su carácter de Secretario Técnico, tendrá las funciones siguientes:
+El Director General en su carácter de Secretario Técnico, tendrá las atribuciones siguientes:
 
 I. Apoyar al Coordinador General en la organización y desarrollo de las sesiones de la Asamblea General;
 
@@ -1105,17 +1311,27 @@ II. Levantar las actas de las sesiones de la Asamblea General;
 
 III. Cumplir con las comisiones y trabajos que le encomiende la Asamblea General;
 
-IV. Preparar las carpetas que contengan la convocatoria, orden del día y fecha para la celebración de las sesiones de la Asamblea General y presentarlas al Coordinador General con suficiente anticipación.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+IV. Preparar las carpetas que contengan la convocatoria, orden del día y fecha para la celebración de las sesiones de la Asamblea General y presentarlas al Coordinador General;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+V. Realizar el seguimiento de los acuerdos tomados en las sesiones de la Asamblea General.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 94.
 
-El Coordinador de Planeación tendrá las funciones siguientes:
+El Coordinador de Planeación tendrá las atribuciones siguientes:
 
 I. Representar o suplir al Coordinador General en las reuniones, actos o eventos y ante las instancias que éste determine;
 
 II. Apoyar al Coordinador General en la ejecución de las resoluciones de la Asamblea General;
 
-III. Someter al Coordinador General las propuestas de las políticas y lineamientos generales para la planeación global del desarrollo del Estado, las metodologías para la integración, ejecución y evaluación de los programas sectoriales, regionales y especiales en el marco del Sistema Estatal de Planeación Democrática, así como proponer el Programa Anual de Inversión Pública;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+III. Someter al Coordinador General las propuestas de las políticas y lineamientos generales para la planeación del desarrollo del Estado, las metodologías para la integración, ejecución y evaluación de los programas sectoriales, regionales y especiales en el marco del Sistema Estatal de Planeación Democrática, así como proponer el Programa Anual de Inversión Pública;
 
 IV. Vigilar que los propósitos y objetivos planteados en los programas, proyectos y acciones que se establezcan en el seno de los subcomités o grupos de trabajo sean congruentes con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México y los planes de desarrollo municipal;
 
@@ -1207,13 +1423,19 @@ Región XV Valle de Bravo: Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan,
 
 Región XVI Zumpango: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac, Tonanitla y Zumpango.
 
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Las regiones antes señaladas, en virtud de su diversidad o de la identidad de sus condiciones socioeconómicas, o bien para la ejecución de programas o líneas de acción podrán subdividirse o agruparse según sea el caso, para lo cual, el Presidente de la Asamblea General a través del COPLADEM emitirá el dictamen respectivo, en el cual se motivarán las razones para tal circunstancia.
+
 ###### Artículo 98.
 
 Los subcomités especiales se integrarán por representantes de los distintos ordenes de gobierno y de grupos y organizaciones sociales y privados, encargados de atender una problemática o fenómeno económico o social específico, y en el cual intervienen más de dos dependencias coordinadoras de sector.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 99.
 
-Los grupos de trabajo son instancias auxiliares de la Asamblea General y de los subcomités. En el acuerdo de su instalación se especificarán sus propósitos, objetivos, metas, adscripción y vigencia en su caso, por lo tanto atenderán alguna subregión, programa, subprograma, contingencia o acción específica.
+Los grupos de trabajo de los subcomités son instancias auxiliares del COPLADEM. En el acuerdo de su instalación se especificarán sus propósitos, objetivos, metas, adscripción y vigencia en su caso, por lo tanto atenderán alguna subregión, programa, subprograma, contingencia o acción específica.
 
 ###### Artículo 100.
 
@@ -1231,27 +1453,35 @@ IV. Los titulares de las dependencias y organismos auxiliares estatales, y de la
 
 V. Un representante de la Secretaría de Desarrollo Social del Gobierno del Estado de México; el cual fungirá como Secretario Técnico en los subcomités regionales.
 
-VI. Representantes de grupos y organizaciones sociales y privados cuyo objeto de creación tenga ingerencia (sic) en el respectivo subcomité o grupo de trabajo.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VI. Los titulares o representantes de los grupos y organizaciones sociales y privados, cuando su objeto social sea afín al asunto a tratar por el Subcomité o Grupo de Trabajo.
 
 Los integrantes de los subcomités o grupos de trabajo designarán a su respectivo suplente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 101.
 
-Los subcomités y grupos de trabajo tendrán las funciones siguientes:
+Los subcomités y grupos de trabajo tendrán las atribuciones siguientes:
 
 I. Participar en la elaboración y actualización del Plan de Desarrollo del Estado de México;
 
 II. Emitir los dictámenes para la autorización de los programas sectoriales, regionales o especiales;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-III. Integrar las propuestas de inversión, turnarlas para su aprobación a la Secretaría; asegurando su congruencia con los programas derivados del Plan de Desarrollo del Estado de México; e informar de ello a la Asamblea General.
+III. Integrar las propuestas de inversión, turnarlas para su aprobación a la Secretaría; asegurando su congruencia con los programas derivados del Plan de Desarrollo del Estado de México; e informar de ello a la Asamblea General;
 
 IV. Aprobar el programa anual de actividades del subcomité o grupo de trabajo según se trate;
 
-V. Realizar los trabajos que le encomiende la Asamblea General o los subcomités en su caso, para coadyuvar al cumplimiento de los propósitos del COPLADEM;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
 
-VI. Realizar reuniones de autoevaluación y participar en las de evaluación que convoque la Asamblea General;
+V. Realizar los trabajos que le encomiende la Asamblea General, la Comisión Permanente o los subcomités en su caso, para coadyuvar al cumplimiento de los propósitos del COPLADEM;
+
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VI. Realizar reuniones de autoevaluación y participar en las de evaluación que convoque la Asamblea General o la Comisión Permanente;
 
 VII. Aprobar el informe anual de actividades que someta a su consideración el coordinador del subcomité o grupo de trabajo.
 
@@ -1261,9 +1491,11 @@ VII. Aprobar el informe anual de actividades que someta a su consideración el c
 
 Los subcomités y grupos de trabajo celebrarán, al menos, dos sesiones ordinarias al año, en el lugar y fecha que se indique en la convocatoria correspondiente, la cual será expedida por el coordinador del subcomité o grupo de trabajo, anexando el orden del día. Podrán realizarse sesiones extraordinarias cuando los asuntos a tratar así lo ameriten a juicio del coordinador o de la mayoría de los integrantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 103.
 
-Los coordinadores de los subcomités o grupos de trabajo tendrán las funciones siguientes:
+Los coordinadores de los subcomités o grupos de trabajo tendrán las atribuciones siguientes:
 
 I. Coordinar las actividades del subcomité o grupo de trabajo y darles seguimiento;
 
@@ -1277,7 +1509,9 @@ V. Coordinar la integración del programa anual de trabajo, el informe de activi
 
 VI. Someter a consideración del coordinador general las medidas que estime pertinentes para mejorar el funcionamiento del subcomité o grupo de trabajo;
 
-VII. Convocar y presidir las sesiones del subcomité o grupo de trabajo, rubricar las actas correspondientes y remitir copia al Director General;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VII. Convocar y presidir las sesiones del subcomité o grupo de trabajo y rubricar las actas correspondientes;
 
 VIII. Verificar el cumplimiento de los acuerdos establecidos en las sesiones ordinarias y extraordinarias que realice el subcomité o grupo de trabajo;
 
@@ -1289,29 +1523,41 @@ XI. Informar sobre el cumplimiento de los Convenios de Coordinación y Participa
 
 XII. Analizar el avance y resultados de los programas anuales de inversión pública, tanto federales como estatales, y hacerlos del conocimiento del subcomité o grupo de trabajo de que se trate;
 
-XIII. Coordinar los demás trabajos que les encomiende la Asamblea General o el subcomité.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+XIII. Coordinar los demás trabajos que les encomiende la Asamblea General, la Comisión Permanente o el subcomité.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 104.
 
-Los coordinadores operativos de cada subcomité o grupo de trabajo tendrán las funciones siguientes:
+Los coordinadores operativos de cada subcomité o grupo de trabajo tendrán las atribuciones siguientes:
 
 I. Preparar el orden del día de las sesiones;
 
 II. Expedir por escrito las convocatorias para las sesiones;
 
-III. Integrar con suficiente anticipación la carpeta de la sesión correspondiente, que deberá contener cuando menos orden del día, acta de la sesión anterior, acuerdos cumplidos y pendientes de solución;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+III. Integrar y enviar con 5 días de anticipación la carpeta de la sesión correspondiente, que deberá contener cuando menos orden del día, acta de la sesión anterior, acuerdos cumplidos y pendientes de solución;
 
 IV. Tomar asistencia y declarar el quórum;
 
-V. Realizar el seguimiento de los acuerdos tomados en las sesiones;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+V. Realizar el seguimiento de los acuerdos tomados en las sesiones, y comunicar al Secretario técnico del COPLADEM sobre el avance y cumplimiento de los mismos;
 
 VI. Apoyar y auxiliar al coordinador en la organización y desarrollo de los trabajos del subcomité o grupo de trabajo;
 
-VII. Vigilar que los programas anuales de inversión pública sean acordes a los programas derivados del Plan de Desarrollo Estatal;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+VII. Vigilar que los programas anuales de inversión pública sean acordes con los programas derivados del Plan de Desarrollo Estatal;
 
 VIII. Integrar y mantener actualizada la documentación del subcomité o grupo de trabajo para su adecuado registro y control;
 
-IX. Levantar el acta de cada una de las sesiones, remitiendo copia a la Dirección General;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+IX. Levantar el acta de cada una de las sesiones, remitiendo copia al Secretario Técnico del COPLADEM;
 
 X. Proponer medidas para el mejor funcionamiento del subcomité o grupo de trabajo;
 
@@ -1333,11 +1579,15 @@ IV. Las demás que le encomiende el coordinador.
 
 En las sesiones de los subcomités y grupos de trabajo se observarán las reglas siguientes:
 
-I. Para sesionar válidamente requerirán la presencia del coordinador del subcomité, el coordinador operativo, el representante de la Secretaría de Desarrollo Social del Estado de México, y cuando menos la mitad más uno de los miembros que integren el subcomité o grupo de trabajo;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2008)</small>
+
+I. Para sesionar válidamente requerirán la presencia del coordinador del subcomité, el coordinador operativo, el Director General del COPLADEM o el representante que éste designe, el representante de la Secretaría de Desarrollo Social del Estado de México, y cuando menos la mitad más uno de los miembros que integren el subcomité o grupo de trabajo;
 
 II. A falta de quórum, se expedirá en la misma fecha, una segunda convocatoria para sesionar en un plazo máximo de tres días hábiles, llevándose a cabo la sesión con el número de integrantes que asistan;
 
-Al final de cada sesión se levantará el acta, la que será sometida para su aprobación en la siguiente sesión, y en ella se hará constar cuando menos la lista de asistencia, los acuerdos tomados, el desarrollo del orden del día y la firma de los asistentes.
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+Al final de cada sesión se levantará el acta, la que será sometida para su aprobación, y en ella se hará constar cuando menos la lista de asistencia, seguimiento de acuerdos, los acuerdos tomados, el desarrollo del orden del día y la firma de los asistentes.
 
 ### CAPITULO DECIMO. DE LA INTEGRACION, FUNCIONES Y SESIONES DE LOS SUBCOMITES REGIONALES
 
@@ -1352,6 +1602,122 @@ II. Determinar las prioridades del desarrollo de la región y proponer las accio
 ###### Artículo 108.
 
 Los coordinadores operativos de los subcomités regionales, además de las funciones señaladas en el Capítulo Noveno de este reglamento, tendrán las relativas a la elaboración de los análisis de congruencia y propuestas de coordinación y convergencia entre los planes de desarrollo municipal con el programa de desarrollo regional y llevar a cabo su seguimiento y evaluación, sometiendo las conclusiones a la consideración del coordinador del subcomité regional.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 12 DE AGOSTO DE 2008)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LA INTEGRACIÓN, ATRIBUCIONES Y SESIONES DE LA COMISIÓN PERMANENTE
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 109.
+
+La Comisión Permanente se integrará de la manera siguiente:
+
+I. Un Presidente, quien será el Gobernador del Estado;
+
+II. Un Coordinador General, quien será el Secretario de Finanzas;
+
+III. Un Secretario Técnico, quien será el Director General del Comité de Planeación para el Desarrollo del Estado de México;
+
+IV. Un Coordinador de Planeación, quien será el Subsecretario de la Secretaría de Finanzas que designe su titular;
+
+V. Un Representante de los presidentes municipales de la Entidad, designado por insaculación;
+
+VI. Tres representantes de los titulares de las dependencias del Ejecutivo Estatal, designados por el Presidente;
+
+VII. Un Representante del Poder Legislativo, designado por su titular;
+
+VIII. Un Representante del Poder Judicial, designado por su titular;
+
+IX. Un Representante de los subcomités y grupos de trabajo, que designe el Coordinador General;
+
+X. Un Representante de las representaciones federales en el Estado;
+
+XI. Los invitados especiales a que hace referencia el artículo 46 de la Ley;
+
+XII. Un Comisario, quien será el representante de la Secretaría de la Contraloría;
+
+XIII. Los titulares o representantes de los grupos y organizaciones sociales y privados, cuando su objeto social sea afín al asunto a tratar por la Comisión Permanente.
+
+Por cada titular de la Comisión Permanente, se nombrará un suplente o representante, quien actuara en ausencia del titular con los derechos y obligaciones inherentes al mismo.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 110.
+
+La Comisión Permanente ejercerá las atribuciones previstas en el artículo 50 de la Ley de Planeación del Estado de México y Municipios, con excepción de la fracción VI; así mismo tendrá las señaladas en las fracciones I, II, III, VIII y IX del artículo 90, de este Reglamento, y todas aquellas que expresamente le encomiende la Asamblea General.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 111.
+
+Las sesiones de la Comisión Permanente se desarrollarán en términos de lo previsto por el artículo 47 de la Ley y 88 de este reglamento.
+
+Los acuerdos tomados en el seno de la Comisión Permanente deberán hacerse del conocimiento de las instancias auxiliares, los titulares de las dependencias, organismos, entidades públicas y unidades administrativas conforme a su naturaleza de operación y competencia para que procedan a su cumplimiento.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 112.
+
+Para el cumplimiento de las atribuciones conferidas a la Comisión Permanente, podrá apoyar su operación en las instancias auxiliares señaladas en el artículo 89 de este Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 12 DE AGOSTO DE 2008)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DE LA COMISIÓN PERMANENTE
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 113.
+
+El Presidente de la Comisión Permanente, tendrá las siguientes atribuciones:
+
+I. Presidir las sesiones de la Comisión Permanente;
+
+II. Instruir al Secretario Técnico, a través del Coordinador General, para la elaboración de las convocatorias para la realización de las sesiones de la Comisión Permanente;
+
+III. Aquellas que expresamente le designe la Asamblea General.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 114.
+
+El Coordinador General de la Comisión Permanente tendrá las siguientes atribuciones:
+
+I. Coordinar las actividades de la Comisión Permanente;
+
+II. Coordinar la elaboración de los trabajos que determine la Asamblea General y la propia Comisión Permanente;
+
+III. Someter a consideración del Presidente de la Comisión Permanente, la carpeta que contenga la convocatoria, el orden del día y fecha de las sesiones de la Comisión Permanente;
+
+IV. Las que le encomiende la Comisión Permanente.
+
+Para el cumplimiento de sus funciones, el Coordinador General contará con el apoyo del Coordinador de Planeación, del Secretario Técnico y de los coordinadores de los subcomités y de los grupos de trabajo.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 115.
+
+El Director General en su carácter de Secretario Técnico de la Comisión Permanente, tendrá las atribuciones siguientes:
+
+I. Apoyar al Coordinador General en la organización y desarrollo de las sesiones de la Comisión Permanente;
+
+II. Levantar las actas de las sesiones de la Comisión Permanente;
+
+III. Cumplir con las comisiones y trabajos que le encomiende la Comisión Permanente;
+
+IV. Preparar las carpetas que contengan la convocatoria, orden del día y fecha para la celebración de las sesiones de la Comisión Permanente y presentarlas al Coordinador General;
+
+V. Realizar el seguimiento de los acuerdos tomados en las sesiones de la Comisión Permanente.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2008)</small>
+
+###### Artículo 116.
+
+El Coordinador de Planeación de la Comisión Permanente tendrá las atribuciones siguientes:
+
+I. Apoyar al Coordinador General en la ejecución de las resoluciones de la Comisión Permanente;
+
+II. Las que le encomiende la Comisión Permanente y el Coordinador General.
 
 T R A N S I T O R I O S
 
@@ -1418,3 +1784,13 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
+
+G.G. 12 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
