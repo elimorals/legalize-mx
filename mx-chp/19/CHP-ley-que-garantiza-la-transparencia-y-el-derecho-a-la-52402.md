@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-garantiza-la-transparencia-y-el-derecho-a-la-52402"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-12"
-last_updated: "2007-08-29"
+last_updated: "2008-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2008.
 
 Ley publicada en el Tomo II del Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -619,9 +619,13 @@ XVI. Los informes presentados por los partidos políticos ante las autoridades e
 
 XVII. Las formas de participación ciudadana, en su caso, para la toma de decisiones por parte de los sujetos obligados;
 
-XVIII. Una descripción de los programas, proyectos, acciones y recursos asignados a cada uno de ellos por el presupuesto asignado; y,
+XVIII. Una descripción de los programas, proyectos, acciones y recursos asignados a cada uno de ellos por el presupuesto asignado; y (sic),
 
-XIX. La información de sus actividades que considere relevante.
+XIX. La información de sus actividades que considere relevante;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2008)</small>
+
+XX. La información completa y actualizada de los indicadores de gestión.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -977,7 +981,9 @@ El informe anual será publicado y difundido con amplitud en el portal de cada s
 
 Las solicitudes de acceso a la información pública podrán presentarse por escrito ante la Unidad de Acceso a la Información Pública de los sujetos obligados, personalmente o a través de un representante legal.
 
-De igual forma, podrá presentarse por medio electrónico, a través del sistema que establezcan los sujetos obligados para ese fin. En todo caso se entregará, confirmará o remitirá al solicitante un acuse de recibo, que será el documento que ampare la recepción de la solicitud, en el cual conste de manera fehaciente la fecha de presentación respectiva.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2008)</small>
+
+De igual forma, el solicitante podrá presentar su petición de acceso a la información pública por medios electrónicos, a través del sistema que los sujetos obligados establezcan para tal fin. En todo caso el sistema generará un acuse de recibo, que será el documento que ampare la recepción de la solicitud, en el cual conste de manera fehaciente la fecha de presentación respectiva.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -1244,3 +1250,13 @@ Artículo Noveno.- Se deroga el artículo sexto transitorio de la Ley que Garant
 Artículo Décimo.- El Instituto a través del Consejero General, deberá someter a consideración del Poder Ejecutivo del Estado, en un plazo no mayor a los noventa días, contados a partir de la publicación del presente decreto, el proyecto de Reglamento Interior de dicho organismo público descentralizado, para su expedición y publicación correspondiente.
 
 Artículo Décimo Primero.- El Instituto en el ámbito de su competencia y apego a la Ley, cumplirá y vigilará la observancia de los artículos transitorios del presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Para la observancia del artículo 70, de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, los municipios que tengan una población superior a los setenta mil habitantes, deberán contar con sistemas electrónicos para que los solicitantes puedan hacer uso de mecanismos de acceso a la información y de los procedimientos del recurso de revisión al que se refiere el Capítulo II, de la misma Ley, a más tardar al veintiuno de julio de dos mil nueve.
+
+Artículo Cuarto.- Los municipios con población menor a setenta mil habitantes, deberán atender el ejercicio del derecho de acceso a la información pública a través de las solicitudes que por escrito se presenten ante la unidad de acceso a la información pública municipal respectiva, o si sus condiciones presupuestarias, humanas y técnicas se lo permiten, implementarán los sistemas electrónicos de acceso a la información pública y del procedimiento del recurso de revisión antes señalado.
