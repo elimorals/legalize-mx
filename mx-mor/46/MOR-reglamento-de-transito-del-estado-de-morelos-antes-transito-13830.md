@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transito-del-estado-de-morelos-antes-transito-138
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-20"
-last_updated: "2006-07-03"
+last_updated: "2008-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE TRANSITO DEL ESTADO DE MORELOS -ANTES TRANSITO Y TRANSPORTES-
 
-REGLAMENTO DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE MORELOS
+REGLAMENTO DE TRANSITO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 1998.
 
@@ -71,367 +71,113 @@ Mención especial merece la fusión en una sola dependencia de los órganos admi
 
 Por todo lo anteriormente expuesto y fundado, la administración a mi cargo ha tenido a bien expedir el siguiente:
 
-REGLAMENTO DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE MORELOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2008)</small>
+
+REGLAMENTO DE TRANSITO DEL ESTADO DE MORELOS
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ## TITULO PRIMERO
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1.
 
-El presente Reglamento establece las normas y requisitos a que debe sujetarse el tránsito de Peatones y Vehículos en las vías públicas del Estado, así como las condiciones y requisitos que deben observarse en la prestación del servicio público de transporte de carga y de pasajeros en la entidad.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 2.
 
-Corresponde al Titular del Poder Ejecutivo a través del Director General de Tránsito y Transportes la aplicación del presente Reglamento, sin perjuicio de las atribuciones que correspondan a las autoridades municipales de conformidad con las disposiciones legales aplicables.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 3.
 
-Para efectos de este Reglamento se entiende por:
-
-I.- Ley.- Ley de Tránsito y Transportes del Estado de Morelos;
-
-II.- Reglamento.- El presente Reglamento de Tránsito y Transportes para el Estado de Morelos;
-
-III.- Tránsito.- Servicio público que presta el Estado, relativo a los requisitos, condiciones y mecanismos administrativos de circulación y control vehicular en las vías públicas;
-
-IV.- Transporte.- Servicio público a cargo del Estado mediante el que se establecen los requisitos y condiciones que deben observarse en el transporte de pasajeros y carga dentro de las vías públicas de jurisdicción estatal; el cual puede ser prestado directamente por el Estado o a través de concesión o permiso que se otorgue conforme a la ley;
-
-V.- Dirección o Dirección General.- Dirección General de Tránsito y Transportes;
-
-VI.- Dirección de área.- Dirección de Tránsito o de Transportes según sea el caso;
-
-VII.- Licencia.- Acreditación que extiende la autoridad de tránsito y transportes de que su titular está capacitado para conducir vehículos automotores;
-
-VIII.- Permiso.- Autorización o constancia que otorga la autoridad de tránsito y transportes, de carácter temporal, para conducir vehículos o bien para transportar pasajeros o carga, en los términos a que se refiere el presente Reglamento;
-
-IX.- Concesión.- Título administrativo expedido por el Poder Ejecutivo mediante el cual se habilita a un particular para que a nombre del Estado preste el servicio público de transporte en cualquiera de sus modalidades;
-
-X.- Señales.- Dispositivo de información mediante el que la autoridad de tránsito y transportes regula y hace más fluido el tránsito de vehículos y peatones en las vías públicas del Estado, las cuales se clasifican en:
-
-HUMANAS: Las que efectúen los agentes de tránsito;
-
-VERTICALES: Las de los semáforos, aparatos mecánicos y símbolos; y
-
-HORIZONTALES: Las líneas, marcas y letreros pintados o realizados en el piso.
-
-XI.- Agente.- Elemento humano de la Dirección General de Tránsito y Transportes encargado de vigilar en la vía pública el cumplimiento del presente Reglamento;
-
-XII.- Servicio.- Prestación administrativa de carácter público que otorga el Estado, conforme a las disposiciones legales aplicables, con la finalidad de satisfacer en forma regular, uniforme y permanente, una necesidad de carácter colectivo;
-
-XIII.- Registro de vehículos.- Obligación que tiene todo propietario de vehículo residente en el Estado, de informar a la autoridad de tránsito y transportes que corresponda, los datos particulares de su unidad, para obtener los documentos que le permitan circular en la vía pública;
-
-XIV.- Registro Público.- Registro Público de la Propiedad;
-
-XV.- Itinerario fijo.- Transporte público de pasajeros que se presta en una o varias rutas preestablecidas y definidas, con frecuencia, horarios y tarifas determinados, que no pueden ser modificados sino mediante autorización expresa otorgada por la autoridad competente;
-
-XVI.- Sin Itinerario fijo.- Transporte público de pasajeros que se presta mediante automóviles de alquiler y no está sujeto a horario alguno, pero debe circunscribirse al territorio de operación y a la tarifa autorizados por la autoridad competente;
-
-XVII.- Terminal.- Lugar donde los prestadores del servicio público de transporte estacionan sus vehículos para iniciar o terminar su recorrido;
-
-XVIII.- Sitio.- Lugar en la vía pública o predio particular, donde, previa autorización de la autoridad competente, se estacionen vehículos destinados al servicio público de pasajeros o de carga sin itinerario fijo, a donde acuda el público a contratar sus servicios;
-
-XIX.- Paradas.- Lugar en donde reglamentariamente se detienen los vehículos del transporte público de pasajeros con itinerario fijo, para el ascenso y descenso de pasajeros a lo largo de su ruta;
-
-XX.- Ley Fiscal.- Código Fiscal para el Estado de Morelos;
-
-XXI.- Días.- Si son por concepto de multa, se consideran igual a días de salario mínimo vigente en la Entidad. En todos los demás supuestos deberán entenderse como días hábiles; y
-
-XXII.- Ciudad.- Todo centro de población.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 4.
 
-En los casos en que la prestación de los servicios públicos de tránsito, transporte de pasajeros o de carga sean materia de concesión o permiso, concesionarios y permisionarios deben sujetarse a las disposiciones de la Ley de Tránsito y Transportes, al presente Reglamento, y a las medidas que dentro de sus facultades dicten las autoridades competentes.
-
-La expedición de los documentos, así como los servicios que presta la Dirección General, causarán los derechos establecidos en la Ley General de Hacienda del Estado.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 5.
 
-Son autoridades de tránsito y transportes:
-
-I.- El Gobernador del Estado;
-
-II.- El Secretario General de Gobierno;
-
-III.- El Secretario de Desarrollo Urbano y Obras Públicas;
-
-IV.- El Director General de Tránsito y Transportes;
-
-V.- Los Presidentes Municipales, en sus respectivas jurisdicciones; y
-
-VI.- Los Servidores Públicos de la Dirección General de Tránsito y Transportes, a quienes este Reglamento, otras disposiciones aplicables o la autoridad competente les otorguen tal carácter.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 6.
 
-El Titular del Poder Ejecutivo tendrá en materia de tránsito y transportes las atribuciones que se señalen en la Ley de la materia y demás ordenamientos aplicables.
-
-En todo caso el Gobernador del Estado podrá celebrar convenios de colaboración con los ayuntamientos, para que éstos asuman la prestación de uno o ambos servicios, en los mismos términos y condiciones a que se refiere el presente Reglamento.
-
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 6
 
-Bis.- Corresponde a los Presidentes Municipales y a los servidores públicos que ellos designen dentro de sus respectivos ámbitos de competencia y jurisdicciones territoriales, la facultad de imponer las multas con motivo de la comisión de infracciones de tránsito que este Reglamento establece, así como su recaudación, administración y disposición a través de las oficinas administrativas que para ello autoricen.
+Bis.- (DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 7.
 
-El Gobernador del Estado, por si o por conducto del Secretario General de Gobierno, dictará las medidas necesarias para coordinar y evaluar las acciones conducentes para la eficaz aplicación de la Ley y de este Reglamento; así mismo determinará anualmente el monto y características del seguro obligatorio para todos los conductores de vehículos automotores, y procederá a otorgar el contrato tipo respectivo y las modificaciones en su caso.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 8.
 
-Son atribuciones del Secretario de Desarrollo Urbano y Obras Públicas, las siguientes:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
-I.- Planear, dirigir y controlar el desarrollo del transporte en el Estado y formular el programa respectivo, en los términos señalados en la Ley Estatal de Planeación;
-
-II.- Conducir la operación y regulación del servicio público del transporte en todas sus modalidades, en base al programa a que se refiere la fracción anterior.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ## TITULO SEGUNDO. DE LA DIRECCION GENERAL DE TRANSITO Y TRANSPORTES
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO I. DE LA ORGANIZACION Y FUNCIONES
 
 ###### ARTICULO 9.
 
-La Dirección General de Tránsito y Transportes para la realización de sus funciones estará a cargo de un Director General, un Director de Tránsito, un Director de Transportes, las Delegaciones Regionales y Subdelegaciones necesarias, y contará además con las unidades administrativas que requieran la prestación de ambos servicios de acuerdo a su organización interna y al presupuesto de egresos.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 10.
 
-Para ser Director General o Director de área deberán reunirse los siguientes requisitos:
-
-I.- Tener mínimo 25 años el día de la designación;
-
-II.- Acreditar estudios mínimos de nivel medio o superior;
-
-III.- Tener una residencia mínima en la Entidad de 10 años;
-
-IV.- Ser mexicano en pleno goce de sus derechos ciudadanos;
-
-V.- Acreditar una experiencia mínima de 5 años dentro del ramo; y
-
-VI.- No contar con antecedentes penales, ni estar sujeto a proceso penal por delito doloso.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 11.
 
-El Director General de Tránsito y Transportes, será nombrado y removido libremente por el Titular del Poder Ejecutivo, el nombramiento de los demás funcionarios estará a cargo del Director General.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 12.
 
-Para ser Delegado se requiere:
-
-I.- Tener mínimo 25 años el día de la designación.
-
-II.- Acreditar estudios mínimos de nivel medio o superior.
-
-III.- Tener una residencia mínima en cualquier municipio de la región donde preste sus servicios de 5 años.
-
-IV.- Ser mexicano en pleno goce de sus derechos ciudadanos.
-
-V.- Acreditar una experiencia mínima de 5 años dentro del ramo.
-
-VI.- No contar con antecedentes penales, ni estar sujeto a proceso penal por delito doloso.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 13.
 
-Son atribuciones del Director General las siguientes:
-
-I.- Cumplir y hacer cumplir la Ley de Tránsito y Transportes, este Reglamento, y los acuerdos del Titular del Ejecutivo;
-
-II.- Ejercer el mando directo del personal de la Dirección, dictar las disposiciones necesarias para su organización, mantener la disciplina y moralidad del mismo, y vigilar que se dé al público un trato atento y eficaz;
-
-III.- Expedir las placas, tarjetas de circulación, calcomanías, las autorizaciones y los permisos correspondientes, tanto de uso particular como para la prestación del servicio público;
-
-IV.- Autorizar el tránsito temporal de vehículos carentes de la documentación necesaria para circular, en los casos previstos por este Reglamento;
-
-V.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-VI.- Por acuerdo expreso del Ejecutivo del Estado y previa audiencia de los interesados, ocupar temporalmente los servicios públicos de tránsito o transporte en cualesquiera de sus modalidades, e intervenir en su administración, en los casos en que el concesionario o permisionario no lo preste eficazmente o se niegue a prestarlo o lo haga en condiciones de riesgo grave para las personas;
-
-VII.- Establecer, previo acuerdo del Titular del Poder Ejecutivo del Estado, Delegaciones y Subdelegaciones de Tránsito y o Transportes, suficientes para el cumplimiento de la Ley y de este Reglamento;
-
-VIII.- Coordinar con las autoridades federales, estatales y municipales, las actividades en materia de tránsito y transporte;
-
-IX.- Coordinar sus actividades con las Autoridades de Desarrollo Urbano, de Obras Públicas y con otros organismos, para la planeación, programación, ejecución y desarrollo de las obras que se requieran en materia de vialidad y transporte;
-
-X.- Coordinar sus actividades con los ayuntamientos y las autoridades a que se refiere la fracción anterior, para la construcción o autorización de los estacionamientos que sean necesarios para lograr mayor eficiencia en la vialidad y el transporte;
-
-XI.- Planear, dirigir, controlar y regular los servicios públicos de tránsito y transporte en el Estado, en los términos previstos por la Ley de la materia;
-
-XII.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-XIII.- Formular y proponer, en coordinación con la autoridad competente de Desarrollo Urbano, los sistemas de vialidad y transporte; para lograr mayor eficiencia en la circulación vehicular en el Estado;
-
-XIV.- Evaluar y dictaminar sobre el otorgamiento de concesiones y de permisos, para la prestación del servicio público de transporte;
-
-XV.- Integrar y operar un sistema de información de concesionarios y permisionarios del servicio de transporte, así como de vehículos, instalaciones y demás aspectos relacionados con dichos servicios;
-
-XVI.- Establecer las disposiciones administrativas para que los concesionarios y permisionarios satisfagan eficientemente la necesidad del servicio público de transporte o de tránsito en el Estado, de conformidad con los ordenamientos legales vigentes;
-
-XVII.- Vigilar e inspeccionar que ambos servicios se presten en los términos y condiciones señalados en las Leyes y reglamentos de la materia y en las concesiones o permisos correspondientes;
-
-XVIII.- Aprobar los horarios, convenios y enrolamientos, que los concesionarios y permisionarios celebren entre sí, y en su caso con la Federación, respecto de la prestación del servicio público a su cargo;
-
-XIX.- Establecer en coordinación con las autoridades federales, las normas técnicas y características físicas de terminales de pasajeros y de carga; así como vigilar el funcionamiento y operación de las mismas;
-
-XX.- Realizar los estudios necesarios para el señalamiento en las vías de comunicación de jurisdicción estatal;
-
-XXI.- Aplicar y hacer cumplir las sanciones por infracciones a la Ley o a este Reglamento;
-
-XXII.- Previo cumplimiento de los requisitos, autorizar a particulares la prestación del servicio de transporte público en el territorio del Estado;
-
-XXIII.- Autorizar la prestación de los servicio (sic) auxiliares de tránsito, en los casos y condiciones previstos en el presente Reglamento y demás disposiciones aplicables;
-
-XXIV.- Determinar las características que deban llevar los vehículos en que se preste el servicio público de transporte;
-
-XXV.- Elaborar los estudios técnicos, socioeconómicos y administrativos, que en materia de ambos servicios se le encomienden;
-
-XXVI.- Intervenir conforme al presente Reglamento en materia de extinción de las concesiones y permisos;
-
-XXVII.- Expedir y controlar las licencias o permisos para conducir vehículos automotores en todas sus modalidades;
-
-XXVIII.- Atender y resolver los problemas que surjan en materia de ambos servicios;
-
-XXIX.- Representar a la Dirección General por sí o por quien designe, ante las autoridades de la Administración Pública Federal, Estatal, Municipal y órganos jurisdiccionales en asuntos de su competencia;
-
-XXX.- Elaborar y desarrollar programas, campañas y cursos de educación y seguridad vial;
-
-XXXI.- Evaluar y emitir opinión técnica sobre el otorgamiento de permisos para la prestación de los servicios auxiliares de arrastre, salvamento y depósito de vehículos;
-
-XXXII.- Administrar y vigilar el tránsito en las vialidades de jurisdicción estatal en los términos que señalen las Leyes y reglamentos respectivos;
-
-XXXIII.- Promover en los niveles básicos y medio superior del sistema educativo la difusión del presente Reglamento y realizar campañas de educación vial;
-
-XXXIV.- Asignar funciones en el ámbito de su competencia a sus Directores de área;
-
-XXXV.- Las que le asignen otras disposiciones legales, el Titular del Poder Ejecutivo y el Secretario General de Gobierno.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 14.
 
-Corresponde al Director de Tránsito, auxiliar al Director General en todo lo que se refiere a la prestación de ese servicio, por lo que tendrá a su cargo las atribuciones siguientes:
-
-I.- Cumplir y hacer cumplir la Ley, este Reglamento y los acuerdos del Director General;
-
-II.- Ejercer el mando directo del personal de la Dirección, dictar las disposiciones necesarias para su organización, mantener la disciplina y moralidad del mismo y vigilar que se dé al público un trato atento y eficaz;
-
-III.- Jefaturar al personal administrativo encargado de infraccionar y vigilar el cumplimiento del presente Reglamento en las vías de jurisdicción estatal o municipal;
-
-IV.- Coordinar sus actividades con las autoridades federales, estatales y municipales en materia de tránsito;
-
-V.- Participar junto con las autoridades estatales o municipales encargadas de la planeación del desarrollo urbano, en la programación, ejecución y desarrollo de las obras que se requieran en materia de vialidad, así como en la construcción o autorización de los estacionamientos que sean necesarios;
-
-VI.- Planear, dirigir, controlar y regular el servicio público de tránsito, en los términos previstos por el presente Reglamento;
-
-VII.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-VIII.- Formular y proponer ante el Director General los sistemas de vialidad; para lograr mayor eficiencia en la circulación vehicular en el Estado;
-
-IX.- Evaluar y emitir opinión técnica sobre el otorgamiento de permisos para la prestación de los servicios auxiliares de arrastre, salvamento y depósito de vehículos;
-
-X.- Vigilar e inspeccionar que tanto el servicio público de tránsito como el de transportes se preste en los términos y condiciones señalados en la Ley y este Reglamento, en las demás disposiciones administrativas y en las concesiones o permisos correspondientes;
-
-XI.- Realizar los estudios necesarios para el señalamiento en las vías de comunicación de jurisdicción estatal;
-
-XII.- Aplicar y hacer cumplir las sanciones por infracciones a la Ley o a este Reglamento en materia de tránsito;
-
-XIII.- Elaborar los estudios técnicos, socioeconómicos y administrativos, que en materia de tránsito le encomiende el Director General;
-
-XIV.- Atender y resolver los problemas que surjan en materia del servicio público de tránsito;
-
-XV.- Representar a la Dirección de Tránsito, por sí o por quien designe, ante las autoridades de la Administración Pública Federal, Estatal, Municipal en asuntos de su competencia;
-
-XVI.- Elaborar y desarrollar programas, campañas y cursos de educación y seguridad vial, y
-
-XVII.- Las que le asignen otras disposiciones legales, el Titular del Poder Ejecutivo, y el Director General.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 15.
 
-Corresponde al Director de Transportes, auxiliar al Director General en todo lo que se refiere a la prestación de ese servicio, por lo que tendrá a su cargo las siguientes atribuciones:
-
-I.- Cumplir y hacer cumplir las disposiciones de este Reglamento y los acuerdos del Director General;
-
-II.- Ejercer el mando directo del personal de la Dirección, dictar las disposiciones necesarias para su organización, mantener la disciplina y moralidad del mismo, y vigilar que se dé al público un trato atento y eficaz;
-
-III.- Expedir por acuerdo del Director General las placas, tarjetas de circulación, calcomanías, las autorizaciones, los permisos y las licencias correspondientes, tanto de uso particular como para la prestación del servicio público de transporte;
-
-IV.- Administrar y resguardar las placas, tarjetas de circulación, calcomanías, autorizaciones y permisos correspondientes que expida la Dirección;
-
-V.- Autorizar por acuerdo del Director General, el tránsito temporal de vehículos carentes de la documentación necesaria para circular, en los casos previstos por este Reglamento;
-
-VI.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-VII.- Participar junto con las autoridades estatales o municipales encargadas de la planeación del desarrollo urbano, en la programación, ejecución y desarrollo de las obras que se requieran en materia de transportes;
-
-VIII.- Planear, dirigir, controlar y regular el servicio público de transportes, en los términos previstos por el presente Reglamento;
-
-IX.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-X.- Evaluar y dictaminar sobre el otorgamiento de concesiones y de permisos, para la prestación del servicio público de transporte;
-
-XI.- Mantener actualizado el sistema de información de concesionarios y permisionarios del servicio de transporte, así como de vehículos, instalaciones y demás aspectos relacionados con dicho servicio;
-
-XII.- Vigilar el cumplimiento de las disposiciones administrativas para que los concesionarios y permisionarios satisfagan eficientemente la necesidad del servicio público de transporte en el Estado, de conformidad con los ordenamientos legales vigentes;
-
-XIII.- Dictaminar sobre las características que deban llevar los vehículos en que se preste el servicio público de transporte;
-
-XIV.- Intervenir conforme al presente Reglamento en materia de extinción de las concesiones y permisos;
-
-XV.- Administrar y controlar las concesiones que expida el Ejecutivo y las licencias y permisos que autorice la Dirección General;
-
-XVI.- Atender y resolver los problemas que surjan en materia de transportes;
-
-XVII.- Representar a la Dirección de Transportes por sí o por quien designe, ante las autoridades de la Administración Pública Federal, Estatal, Municipal en asuntos de su competencia;
-
-XVIII.- Las que le asignen otras disposiciones legales, el Titular del Poder Ejecutivo, y el Director General.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 16.
 
-Los Delegados Regionales ejercerán sus funciones en los municipios que previo acuerdo con el Titular del Poder Ejecutivo, les señale la Dirección General.
-
-Las Subdelegaciones son autoridades auxiliares de las delegaciones y tendrán la función y las atribuciones que les deleguen los Delegados regionales o el Director General.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 17.
 
-Las Delegaciones Regionales son órganos auxiliares de la Dirección General, de quien dependerán directamente, estarán encargadas de prestar en su nombre y representación los servicios públicos de tránsito y transportes, en los términos que señale el presente Reglamento y tendrán a su cargo las siguientes atribuciones:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
-I.- Cumplir y hacer cumplir las disposiciones de la Ley, este Reglamento y los acuerdos del Director General;
-
-II.- Ejercer el mando directo del personal de la Delegación, dictar las disposiciones necesarias para su organización, mantener la disciplina y moralidad del mismo, y vigilar que se dé al público un trato atento y eficaz;
-
-III.- Planear, dirigir, controlar y regular los servicios públicos de tránsito y transportes en su jurisdicción, en los términos previstos por el presente Reglamento;
-
-IV.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-V.- Mantener actualizado el sistema de información de concesionarios y permisionarios del servicio de transporte, así como de vehículos, instalaciones y demás aspectos relacionados con dichos servicios;
-
-VI.- Vigilar y supervisar el cumplimiento de las disposiciones administrativas para que los concesionarios y permisionarios satisfagan eficientemente la necesidad del servicio público de transporte, de conformidad con los ordenamientos legales vigentes;
-
-VII.- Vigilar e inspeccionar que dentro de su jurisdicción ambos servicios se presten en los términos y condiciones señalados en las Leyes, reglamentos de la materia y en las concesiones o permisos correspondientes;
-
-VIII.- Atender y resolver los problemas que surjan en materia de ambos servicios dentro de su jurisdicción;
-
-IX.- Realizar los estudios técnicos necesarios que le solicite el Director General y los Directores de Area;
-
-X.- Las que le asignen otras disposiciones legales, el Director General y los Directores de Area.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. DE LOS ORGANOS AUXILIARES EN MATERIA DE TRANSITO
 
 ###### ARTICULO 18.
 
-Se consideran órganos auxiliares de la Dirección General de Tránsito y Transportes, en materia de tránsito los siguientes:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
-I.- Los Peritos acreditados por la Dirección General;
-
-II.- Los Inspectores y Supervisores acreditados por la Dirección General, y
-
-III.- Las Corporaciones Policíacas del Estado y de los Municipios.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO III. DE LOS ORGANOS AUXILIARES EN MATERIA DE TRANSPORTES
 
 ###### ARTICULO 19.
 
-Se consideran órganos auxiliares de la Dirección General de Tránsito y Transportes, en materia de transportes los siguientes:
-
-I.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-II.- Las Corporaciones Policíacas que funcionen en el Estado cualquiera que sea su denominación, si se les delega la facultad de intervenir en materia de transporte.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 20.
 
@@ -1781,403 +1527,145 @@ Los peritos y agentes de tránsito deberán entregar a sus superiores un reporte
 
 La Dirección General registrará los datos estadísticos relativos al número de accidentes, su causa, el lugar, la fecha, el número de personas lesionadas, fallecidas y el importe aproximado de los daños materiales.
 
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
+
 ## TITULO CUARTO. DEL SERVICIO PUBLICO DE TRANSPORTE
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO I. DE LA CLASIFICACION DE LOS VEHICULOS
 
 ###### ARTICULO 162.
 
-Por el servicio que prestan, los vehículos se clasifican en:
-
-I.- De servicio particular: Los destinados al transporte privado de personas, o de objetos y mercancías para satisfacer necesidades de sus propietarios; y
-
-II.- De servicio público: Los destinados al transporte público de personas, de objetos o mercancías mediante concesión o permiso y con sujeción al cobro de tarifas autorizadas. Este servicio se subdivide en:
-
-A) Transporte de pasajeros, dentro del cual se comprenden:
-
-1.- Con itinerario fijo; y
-
-2.- Sin itinerario fijo.
-
-B) Transporte de carga, dentro del cual se comprenden:
-
-1.- Materiales para construcción;
-
-2.- Carga en general;
-
-3.- Pipas de Agua; y
-
-4.- Substancias tóxicas o peligrosas.
-
-C) Mixto. Transporte de pasajeros y de carga en un mismo vehículo.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 163.
 
-Por su peso, los vehículos destinados al servicio de transporte de carga, se clasifican en:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
-I.- Ligeros, hasta tres toneladas y media; y
-
-II.- Pesados, de más de tres toneladas y media.
-
-En esta clasificación se atiende al peso bruto vehicular que es el peso del vehículo totalmente equipado más la carga útil autorizada.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. DEL REGISTRO DE VEHICULOS
 
 ###### ARTICULO 164.
 
-Para que un vehículo destinado al servicio público de transporte de pasajeros, de carga o mixto pueda transitar en el Estado, debe estar registrado en la Dirección General y tener:
-
-I.- Placas para prestar el servicio de que se trate;
-
-II.- Tarjeta de circulación y la calcomanía correspondiente;
-
-III.- Tarjetón que autoriza la prestación del servicio; y
-
-IV.- Tarjetón de identificación del conductor.
-
-La expedición de estos documentos compete a la Dirección General, y los señalados en las fracciones II a IV deben ser renovados anualmente.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 165.
 
-Para registrar un vehículo se requiere:
-
-I.- Presentar la solicitud correspondiente conforme al formato que proporcionará la Dirección, que debe contener: Nombre completo del propietario, su domicilio, número de motor, marca, capacidad, modelo del vehículo, servicio a que se destinará, lugar y fecha. A la solicitud se deben acompañar los documentos siguientes:
-
-A) Comprobante de propiedad, sea factura, carta factura o documento legalmente requisitado;
-
-B) Tarjeta aduanal, en tratándose de vehículos extranjeros.
-
-C) Constancia de haberse cancelado el registro del vehículo si hubiera estado inscrito con anterioridad aún cuando fuera en Entidad Federativa distinta;
-
-D) Copia de la concesión o permiso correspondiente; y
-
-E) Comprobante de pago de los derechos por el otorgamiento de la concesión o permiso.
-
-II.- Obtener la tarjeta de circulación que otorga la Dirección General y que llevará siempre el conductor en el vehículo, dicha tarjeta deberá contener:
-
-A) El nombre del propietario;
-
-B) El número de placas correspondientes;
-
-C) Las características del vehículo; y
-
-D) La fecha de expedición de la misma.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 166.
 
-Los vehículos del servicio público de transporte para transitar por las vías públicas del Estado requieren:
-
-I.- Estar registrados ante la autoridad del transporte, de cualquier entidad de la República;
-
-II.- Tener los permisos de las autoridades correspondientes si se trata de vehículos provenientes de otros países; y
-
-III.- Tener permiso provisional expedido por la autoridad de transporte competente, por un período que no exceda de treinta días, en los casos siguientes:
-
-A) Cuando esté en trámite el registro del vehículo;
-
-B) Cuando se trate del traslado de vehículos de un lugar a otro del Estado o fuera del mismo, en el permiso debe especificarse el lugar donde se encuentra el vehículo y el lugar a donde vaya a ser trasladado; y
-
-C) Cuando se pierdan o deterioren las placas o la tarjeta de circulación, en tanto el interesado tramite su reposición.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 167.
 
-Cuando un vehículo cambie de propietario, el adquirente deberá hacerlo del conocimiento de la Dirección General, mediante el formato que proporcionará dicha dependencia, dentro de los quince días posteriores al cambio de propietario.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 168.
 
-En caso de deterioro o pérdida de una o ambas placas, de la tarjeta de circulación, o de la calcomanía, la Dirección General expedirá un duplicado, previa solicitud, en la que se manifieste bajo protesta de decir verdad que no fue recogida por alguna infracción a la Ley de Tránsito y Transportes o a su Reglamento.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 169.
 
-Para dar de baja un vehículo registrado, se requiere:
-
-I.- Presentar una solicitud, de acuerdo con el formato que proporcionará la Dirección General;
-
-II.- Comprobar que se está al corriente en el pago de adeudos fiscales estatales relacionados con el vehículo; y
-
-III.- Entregar para efectos de reposición a la Dirección General la tarjeta de circulación, las placas del vehículo y el tarjetón.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 170.
 
-La Dirección General entregará al interesado una constancia de haberse cancelado el registro del vehículo.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO III. DE LAS PLACAS DE MATRICULACION
 
 ###### ARTICULO 171.
 
-Las placas para vehículos que expedirá la Dirección General serán para:
-
-I.- Transporte de pasajeros con itinerario fijo;
-
-II.- Transporte de pasajeros sin itinerario fijo; y
-
-III.- Transporte de carga.
-
-Los vehículos destinados al transporte mixto de personas y de carga para efectos de expedición de placas se clasificarán conforme a su actividad preponderante.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 172.
 
-Para la expedición de las placas, será necesario satisfacer los requisitos establecidos en la fracción I del artículo 165 de este Reglamento.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 173.
 
-Respecto a las características de las placas, la colocación de éstas en los vehículos, las restricciones y la vigencia de las mismas, serán aplicables las disposiciones relativas del presente Reglamento.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO IV. DE LOS EQUIPOS Y DISPOSITIVOS
 
 ###### ARTICULO 174.
 
-Los vehículos de servicio público de transporte de pasajeros con itinerario fijo, además de cumplir con los requisitos establecidos en el presente Reglamento, en cuanto a equipo y dispositivos, estarán provistos de lo siguiente:
-
-I.- Espejos retrovisores: Uno a cada lado del frente del vehículo;
-
-II.- Avisos que indiquen las tarifas autorizadas y otros con las siguientes leyendas "no escupir", "no viajar en el estribo", "no fumar", "quejas al teléfono..." asimismo llevar en el exterior, en la parte delantera superior, un rótulo que mencione el lugar de destino;
-
-III.- Timbres: Llevarán los necesarios operados por medio de cables o contactos en toda la extensión del interior del vehículo;
-
-IV.- Pasamanos: Que permitan a los pasajeros sujetarse y conducirse con seguridad en el interior del vehículo;
-
-V.- Guía de pasajeros: En el interior debidamente iluminado por las noches, llevará el itinerario de ruta autorizada;
-
-VI.- Ventilación: Estarán equipados con un sistema de ventilación indirecta en forma tal, que resulte efectiva la renovación del aire en el interior;
-
-VII.- Extinguidor: Llevar por lo menos uno en el lugar adecuado para ser utilizado en caso de emergencia;
-
-VIII.- Equipo de emergencia: Comprende botiquín, banderolas y linternas rojas;
-
-IX.- Alumbrado: En la parte delantera exterior y a ambos lados del rótulo de la ruta, llevarán dos plafones de color ámbar; en el interior llevarán tres o más plafones de luz fija, distribuidos proporcionalmente; y
-
-X.- Puertas de emergencia: Por lo menos una, los vehículos con capacidad para más de veintidós pasajeros.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 175.
 
-Los vehículos de servicio de transporte de carga, además de cumplir con los requisitos establecidos en el presente Reglamento, en cuanto a equipo y dispositivos, deberán estar provistos de:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
-I.- Dos espejos retrovisores colocados uno en cada lado de la cabina;
-
-II.- Los vehículos de transporte de carga del servicio público, una inscripción a ambos lados, con el número económico que les corresponda y la leyenda: "Transportes en General ";
-
-III.- Los vehículos de carga dedicados al servicio particular, una inscripción en los costados de su carrocería o cabina, con la razón social de la empresa a que pertenecen y la clase de actividad comercial correspondiente a la misma; si se trata de persona física, el nombre, domicilio y actividad del propietario; y
-
-IV.- De un botiquín de primeros auxilios.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO V. DE LAS CONCESIONES
 
 ###### ARTICULO 176.
 
-Mediante la concesión el Titular del Ejecutivo habilita a una persona física o moral la facultad de prestar el servicio público de transporte, con sujeción a tarifas y modalidades determinadas por el interés general y por la naturaleza del servicio de que se trate, por el tiempo y bajo las condiciones que el propio Ejecutivo establezca.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 177.
 
-Las concesiones tienen el carácter de revocables y renovables; deberán ser renovadas cada diez años por un período igual, previo el cumplimiento de los requisitos que señala este Reglamento, así como el pago de los derechos de renovación; recibo con el cual se hará el asiento de la nota marginal de "renovada" en el Registro Público de la Propiedad.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 178.
 
-Salvo los casos señalados en el artículo 190 de este Reglamento las concesiones del servicio público de transporte de pasajeros, de carga o mixto no podrán ser enajenadas o transferidas por ningún título, ni tampoco cedido su uso.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2006)</small>
-
-El Titular del Ejecutivo Estatal evitará el monopolio del transporte, en el caso de las personas morales será necesario que haya cuando menos un socio por cada tres concesiones, y tendrá en cuenta que a ninguna persona física o moral se le otorguen mas de tres concesiones en cualquiera de las categorías a que se refiere el artículo 183 de este Reglamento.
-
-Los concesionarios podrán organizarse en sociedades civiles o mercantiles aportando a éstas sus respectivas concesiones, pero aquellos conservarán siempre la titularidad de su concesión.
-
-El Ejecutivo del Estado estará facultado para otorgar concesiones a organismos auxiliares de la administración pública estatal.
-
-Las agrupaciones sin personalidad jurídica que soliciten concesiones, así como las que formen los concesionarios para la prestación organizada del servicio o para representar su interés, deberán constituirse como sociedades mercantiles o como sociedades o asociaciones civiles, según su naturaleza jurídica, e inscribirse en el Registro Público de la Propiedad y del Comercio del Estado; será requisito de procedencia de cualquier solicitud, trámite o gestión, acreditar el cumplimiento de lo ordenado en este párrafo.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 179.
 
-Para efectos de este Reglamento las concesiones otorgadas a personas físicas se considerarán como patrimonio familiar del concesionario, por lo que en caso de muerte la Dirección General deberá transferir los derechos de la concesión a los familiares que acrediten la dependencia económica y su parentesco más cercano. En todo caso se estará de manera supletoria a lo dispuesto por el Código Civil en cuanto al parentesco, disposición sucesoria y a la normativadad (sic) sobre patrimonio familiar.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 180.
 
-Siempre que se otorgue una concesión a persona física, a una sociedad civil o mercantil, la Dirección General librará oficio al Director del Registro Público de la Propiedad en el Estado, para que proceda a su inscripción, cuando se trate de personas morales, deberá solicitar además, que se anote marginalmente la existencia de este derecho en el libro de registro en que se encuentre asentada la constitución de la misma.
-
-Las sociedades concesionarias están obligadas a informar a la Dirección General del Transporte acerca de todos los cambios de su situación jurídica dentro del término de quince días después de que ocurra el cambio.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 181.
 
-Se considera de interés público la inscripción y publicidad de las concesiones otorgadas por el Estado para la prestación del servicio público del transporte en cualquier modalidad, por lo tanto como documentos auténticos, deberán inscribirse en el Registro Público de la Propiedad.
-
-Será obligación de los concesionarios efectuar los trámites registrales en un término no mayor de 30 días cubriendo su costo, para no perder los derechos de la explotación.
-
-Se considerará como último titular de la concesión a quien aparezca inscrito en el Registro Público de la Propiedad.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 182.
 
-En el título de la concesión se especificarán:
-
-I.- Nombre, nacionalidad, edad y domicilio del concesionario, así como su Registro Federal de Contribuyentes;
-
-II.- Clase de servicio concesionado;
-
-II (sic).- Vigencia;
-
-IV.- Datos y características de la unidad;
-
-V.- Tipo de unidad;
-
-VI.- Línea, ruta o sitio a que pertenece;
-
-VII.- Itinerario o derrotero y horario del servicio;
-
-VIII.- Localidades a las que debe prestarse el servicio;
-
-IX.- Lugar y fecha de la expedición; y
-
-X.- Plazo para iniciar la prestación del servicio, y en su caso para terminar y poner en operación las instalaciones complementarias.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 183.
 
-Las concesiones se otorgarán para las siguientes categorías:
-
-I.- Para servicio público de transporte de pasajeros con itinerario fijo, exprés, de primera clase, de segunda clase o de servicio mixto;
-
-II.- Para servicio público de transporte de pasajeros sin itinerario fijo;
-
-III.- Para servicio público de transporte de carga en general;
-
-IV.- Para servicio público de transporte de materiales para construcción;
-
-V.- Para servicio público de transporte de agua; y
-
-VI.- Para otros servicios que el Ejecutivo determine conforme a las necesidades de la comunidad.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 184.
 
-Las concesiones para la prestación del servicio público de transporte de pasajeros, de carga o mixto, se otorgarán conforme a las disposiciones siguientes:
-
-I.- Se expedirán a personas físicas o morales, mexicanas por nacimiento las primeras, y con cláusula de exclusión de extranjeros las segundas;
-
-II.- Se preferirá a los ciudadanos morelenses residentes en el Estado, quienes deberán de cubrir los siguientes requisitos:
-
-A).- Edad mínima de 25 años;
-
-B).- Que haya hecho de esta actividad su medio de subsistencia;
-
-C).- Que tenga la obligación de sostener a una familia;
-
-D).- Que tenga licencia de chofer con una antigüedad mínima de 3 años;
-
-E).- Que no haya sido condenado por delito alguno; y
-
-F).- Que acredite una residencia en el Estado mínima de 10 años anteriores a la solicitud.
-
-III.- Se preferirá a quien garantice una mejor prestación del servicio, en igualdad de condiciones; de esto se eximirá cuando se adquiera en términos de la fracción I del artículo 190 de éste Reglamento.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 185.
 
-El Ejecutivo del Estado, por medio de la Dirección General, para el otorgamiento de concesiones formulará convocatoria pública, la cual deberá contener las bases para que los interesados presenten sus solicitudes.
-
-La convocatoria se publicará en el Periódico Oficial del Estado "Tierra y Libertad", así como en un diario de los de mayor circulación en la Entidad.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 186.
 
-El interesado en obtener una concesión para la explotación del servicio público de transporte, en cualesquiera de sus modalidades, a que se refiera la convocatoria correspondiente, deberá cumplir los requisitos siguientes:
-
-I.- Presentar solicitud por escrito en la Dirección General, dentro del término que fije la convocatoria, con los siguientes datos o documentos:
-
-A) Nombre y domicilio del solicitante;
-
-B) Acta constitutiva de la persona moral o acta de nacimiento si se trata de persona física;
-
-C) Tipo de servicio que pretende prestar;
-
-D) Tipo y modelo del o de los vehículos con los que prestaría el servicio;
-
-E) Descripción de las instalaciones relacionadas con las bases, terminales, paradas, talleres y otros elementos que propone para la prestación del servicio público que se solicita;
-
-F) Garantía que ofrece constituir para cubrir los daños que se pudieran causar en la prestación del servicio tanto a usuarios como a terceros;
-
-G) En el caso de sociedades mercantiles, acreditar que sus estatutos contienen cláusula de exclusión de extranjeros; y
-
-H) Comprobar su capacidad económica para satisfacer las exigencias derivadas del servicio que se pretende prestar.
-
-II.- Prestar el servicio con una unidad que no exceda de cinco años de antigüedad al iniciar el servicio y de diez años si ya cuenta con la concesión.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 187.
 
-La Dirección General examinará si los solicitantes reúnen los requisitos establecidos en la convocatoria y formulará dictamen que presentará al Ejecutivo para su resolución.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 188.
 
-La concesión para la prestación del servicio público de transporte otorga a su titular los derechos siguientes:
-
-I.- Operar el servicio en los términos autorizados;
-
-> <small>(REFORMADA, 3 DE JULIO DE 2006)</small>
-
-II.- Cobrar a los usuarios las tarifas aprobadas previamente por el Ejecutivo Estatal, y
-
-III.- (DEROGADA, 3 DE JULIO DE 2006)
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 189.
 
-Son obligaciones de los concesionarios del servicio público de transporte de personas, de carga y mixto las siguientes:
-
-I.- Prestar el servicio en las condiciones y con las modalidades establecidas en la concesión;
-
-II.- Respetar las tarifas, horarios, frecuencias de servicio, rutas e itinerarios autorizados;
-
-III.- Conservar los vehículos, terminales, sitios e instalaciones accesorias en condiciones que garanticen seguridad, funcionalidad e higiene;
-
-IV.- Cubrir a los usuarios los daños que se les causen en la prestación del servicio;
-
-V.- Abstenerse de efectuar actos que constituyan competencia desleal a otros concesionarios;
-
-VI.- Prestar el servicio a toda persona que lo solicite, salvo los casos de excepción previstos en este Reglamento;
-
-VII.- Que los conductores reúnan los siguientes requisitos:
-
-A) Tratar con respeto, cortesía y atención a los usuarios;
-
-B) Usar el uniforme autorizado por la Dirección General, mantener el aseo y presentación personal adecuados al servicio y de la unidad;
-
-C) Tener la licencia de chofer;
-
-D) Portar gafete de identificación en lugar visible; y
-
-E).- Aprobar los exámenes que le requiera la Dirección General.
-
-VIII.- Prestar el servicio exclusivamente dentro de la circunscripción territorial autorizada;
-
-IX.- Pintar los vehículos con los colores que determine la Dirección General y exhibir en lugar visible el tarjetón del permiso estatal para prestar el servicio;
-
-X.- Combinar y coordinar sus servicios con otras empresas que exploten la misma clase de servicio, en cumplimiento de disposiciones del Ejecutivo del Estado o de convenios suscritos por las empresas concesionarias aprobadas por el Ejecutivo;
-
-XI.- Cumplir con las especificaciones que para la Construcción y equipamiento de las terminales, fije la Dirección General de Protección Civil del Estado;
-
-XII.- Prestar gratuitamente el servicio en casos de emergencia, siniestros o cualquier problema grave que afecte a alguna comunidad del Estado, a requerimiento de las autoridades del transporte;
-
-XIII.- (DEROGADA, P.O. 3 DE JULIO DE 2006)
-
-XIV.- Avisar por escrito a la Dirección General de cualquier circunstancia que impida la prestación del servicio por más de dos días, de la o las unidades que comprenda la concesión respectiva;
-
-XV.- Tramitar y obtener de la autoridad competente el gafete de identificación legalmente necesario y el tarjetón de quien o quienes vayan a conducir la unidad;
-
-XVI.- Otorgar facilidades a las autoridades del transporte para la inspección de vehículos, instalaciones y documentos relacionados con la concesión;
-
-XVII.- Efectuar los trámites necesarios para inscribir el Título de Concesión en el Registro Público de la Propiedad;
-
-XVIII.- Respetar los acuerdos y criterios emitidos por la Comisión de Transportes del Estado;
-
-XIX.- No efectuar el cobro por el servicio a las personas a que se refiere el artículo 210 de este Reglamento;
-
-XX.- Abstenerse de hacer inscripciones despectivas u ofensivas en las unidades en las que se preste el servicio público concesionado;
-
-XXI.- Mostrar en lugar visible para los pasajeros una leyenda que declare la obligación prevista por el artículo 210 fracciones II y III de este Reglamento; y
-
-XXII.- Las que resulten de los convenios que celebre el Estado con la autoridad federal relacionados con dichos servicios.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 190.
 
-Los derechos derivados de las concesiones otorgadas para la explotación del servicio público de transporte de pasajeros, de carga o mixto pueden ser objeto de transmisión; para ello se requiere la autorización del Director General de Tránsito y Transportes, previo acuerdo del Ejecutivo y el cumplimiento de la fracción I, a que se refiere el artículo 184, del presente Reglamento, en los siguientes casos:
-
-I.- Por fallecimiento, incapacidad física o mental del concesionario; y
-
-II.- Si la transmisión se hace a una sociedad que para la explotación del servicio se haya constituido, y de la que el cedente sea socio.
-
-En todo caso deberá observarse además lo señalado por el artículo 179 del presente Reglamento.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ### CAPITULO VI. DE LA TERMINACION DE LAS CONCESIONES
 
@@ -2523,785 +2011,157 @@ Los concesionarios del servicio público de transporte de pasajeros están oblig
 
 Para otorgar la protección a que se refiere el artículo anterior los concesionarios contratarán un seguro con una institución legalmente autorizada. Los términos del contrato de seguro deberán someterse a la aprobación previa de la Dirección General.
 
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
+
 ## TITULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 237.
 
-A los infractores de este Reglamento, independientemente de la responsabilidad penal en que incurran, se impondrán las siguientes sanciones:
-
-I.- Amonestación;
-
-II.- Multa, la cual se fijará con base en días de salario mínimo general vigente en el Estado, en el momento en que se cometa la infracción;
-
-III.- Suspensión de licencia, permiso o concesión;
-
-IV.- Cancelación de permiso, concesión o licencia;
-
-V.- Arresto hasta por 36 horas;
-
-VI.- Retiro de la circulación y remisión del vehículo al depósito; y
-
-VII.- Retiro del vehículo de la prestación del servicio.
-
-Las sanciones anteriores se aplicarán de acuerdo con la gravedad de la infracción cometida.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 238.
 
-Cuando el infractor, en uno o en varios hechos viole varias disposiciones de este Reglamento, se le acumularán y aplicarán las sanciones correspondientes a cada una de ellas.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 239.
 
-Los agentes de la Dirección General de Tránsito y Transportes, cuando los conductores de vehículos, contravengan alguna de las disposiciones de este Reglamento, procederán en la forma siguiente:
-
-I.- En su caso, indicar al conductor que debe detener la marcha del vehículo y estacionarlo en un lugar que no obstaculice la circulación;
-
-II.- Se identificarán con nombre y número de placa;
-
-III.- Señalarán al conductor, con la cortesía y respeto debidos, la infracción que ha cometido, relacionándola con la disposición reglamentaria correspondiente y la sanción respectiva;
-
-IV.- Solicitará al conductor que muestre su licencia de manejo y la tarjeta de circulación del vehículo; y
-
-V.- Una vez mostrados los documentos, procederán a levantar el acta de infracción, de la que entregarán un tanto al infractor.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 240.
 
-Las infracciones se harán constar en formas impresas y numeradas, las cuales contendrán:
-
-I.- Datos del infractor;
-
-II.- Número y especificación de la licencia del infractor y los datos de la placa del vehículo;
-
-III.- Características del vehículo;
-
-IV.- La infracción cometida;
-
-V.- Lugar, fecha y hora en que se hubiere cometido la infracción; y
-
-VI.- Nombre y firma de quien formula el acta de la infracción.
-
-Así como la firma del infractor, a menos que éste se niegue a hacerlo.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 241.
 
-Para garantizar el pago de la multa correspondiente a la infracción, los agentes de tránsito sólo podrán retener la tarjeta de circulación del vehículo, y a falta de ésta, licencia o permiso de manejo; en el caso de que el conductor no exhiba alguno de los documentos anteriores procederán a retirar el vehículo de la circulación.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 242.
 
-El acta de infracción que se formule a los conductores, concesionarios y operadores de los vehículos a que se refiere el presente Reglamento, que no requiera del retiro del vehículo, suplirá el documento recogido al infractor, por el término máximo de diez días hábiles, contados a partir de aquél en que se haya formulado.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 243.
 
-En caso de que cualquier infractor reincida en la misma infracción en el lapso de un año, contado a partir de la fecha en que cometió la primera, se le aplicará el doble de la multa correspondiente.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 244.
 
-A los que conduzcan en estado de ebriedad o bajo los efectos de cualquier droga, estupefaciente, psicotrópicos u otras substancias tóxicas, aún cuando se les haya suministrado por prescripción médica, además de las sanciones que correspondan a otras infracciones cometidas, se les aplicará:
-
-I.- La primera vez: Arresto de 12 horas y suspensión de la licencia de conducir por seis meses;
-
-II.- La segunda vez: Arresto por 24 horas y suspensión de la licencia de conducir por un año; y
-
-III.- La tercera vez: Cancelación de la licencia de conducir y arresto por 36 horas.
-
-En caso de reincidencia, la licencia será cancelada y el gafete retirado.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 245.
 
-Para los efectos de este Reglamento, se considera que una persona se encuentra en estado de ebriedad, cuando tenga 0.08% o más de contenido alcohólico en la sangre.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 246.
 
-Los agentes de la Dirección, únicamente podrán detener la marcha de un vehículo cuando su conductor haya violado de manera flagrante alguna de las disposiciones de este Reglamento. En consecuencia, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo, salvo el caso de campañas de revisión de documentos, dadas a conocer oportunamente por la Dirección General o por la Dirección de área que corresponda.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 247.
 
-A los que en el término de un año incurran tres veces en las infracciones de conducir con exceso de velocidad, falta de precaución o poniendo en riesgo la seguridad de los pasajeros en el caso de un servicio público concesionado, se les suspenderá la licencia por seis meses, sin perjuicio de la aplicación de las multas correspondientes.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 248.
 
-A los que hayan cometido una infracción y se den a la fuga sin obedecer las indicaciones de las autoridades de tránsito y transportes para detenerse, además de las multas correspondientes, se les suspenderá la licencia o permiso de manejo por un término de seis meses.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 249.
 
-Las autoridades de tránsito y transportes deberán poner a disposición del Ministerio Público a toda persona que al conducir un vehículo incurra en hechos que puedan ser constitutivos de delitos.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 250.
 
-Para los efectos de este Reglamento, se considera reincidente a quien infrinja una misma disposición durante el lapso de un año, contado a partir de la primera infracción.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 251.
 
-Las sanciones prescribirán en el término de cinco años a partir de la fecha en que se impongan.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 252.
 
-Las autoridades de tránsito y transportes deberán prevenir por todos los medios disponibles los accidentes de tránsito y evitar que se cause o incremente un daño a las personas o sus propiedades.
-
-En especial cuidarán de la seguridad de los peatones y que éstos cumplan sus obligaciones establecidas en este Reglamento; para este efecto, los agentes encargados de la aplicación del presente Reglamento, actuarán de la siguiente manera:
-
-I.- Cuando uno o varios peatones estén en vías de cometer una infracción, los agentes, cortésmente, les indicarán que se abstengan de hacerlo; y
-
-II.- Ante la comisión de una infracción, los agentes harán de manera eficaz pero atenta que la persona que haya cometido la infracción, cumpla con la obligación que según el caso, le señale este Reglamento; al mismo tiempo, el agente amonestará a dicha persona y le explicará su falta a éste ordenamiento.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 253.
 
-Si transcurridos treinta días naturales, contados a partir de la fecha en que fue impuesta la multa, ésta no es pagada, se seguirá el procedimiento administrativo de ejecución que marca el Código Fiscal.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 254.
 
-No se autorizará ningún trámite administrativo respecto de un concesionario, permisionario, conductor o vehículo, cuando estén pendientes de pago multas por infracciones.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 255.
 
-Las licencias se cancelarán además de los casos expresados previstos en este Reglamento en los siguientes supuestos:
-
-I.- Cuando el titular de la licencia deje de tener las aptitudes físicas o mentales para conducir;
-
-II.- Cuando lo determine una autoridad Judicial por sentencia que cause ejecutoria;
-
-III.- Cuando al titular se le haya sancionado dos veces con la suspensión de la licencia y de motivo a una tercera suspensión; y
-
-IV.- Cuando para obtener la licencia el interesado exhiba documentos falsos o proporcione datos inexactos en las solicitudes respectivas.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 256.
 
-Una vez suspendida o cancelada una licencia, deberá hacerse la anotación en el libro de registro respectivo y comunicarlo a las Delegaciones y Subdelegaciones de Tránsito y Transportes del Estado; asimismo se requerirá al titular para que entregue la licencia a la autoridad correspondiente en el término de cinco días, apercibiéndole de las sanciones a que haya lugar en caso de incumplimiento.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 257.
 
-Las autoridades de tránsito y transportes deberán retirar de la circulación y remitir al depósito oficial un vehículo, cuando:
-
-I.- El conductor se encuentre en notorio estado de ebriedad o bajo la influencia de cualquiera droga, estupefaciente, psicotrópicos o substancias tóxicas, aun cuando se le haya suministrado por prescripción médica;
-
-II.- El conductor no exhiba la licencia de manejo o permiso y no vaya acompañado por otra persona con licencia o permiso que pueda conducir el vehículo;
-
-III.- Las placas del vehículo no coincidan en números o letras con la calcomanía o con la tarjeta de circulación. La falta de una placa, de la tarjeta de circulación o de la calcomanía, no será motivo de detención del vehículo y únicamente se aplicará la infracción respectiva;
-
-IV.- Le falten al vehículo las dos placas o éstas no hubiesen sido canjeadas en el término legal; y
-
-V.- Los vehículos que deban llevar una sola placa no la lleven.
-
-En todos los casos antes señalados, una vez terminados los trámites relativos a la infracción cometida, se procederá a la entrega inmediata del vehículo a la persona legitimada cuando se cubran previamente los gastos de traslado, si los hubiere. No se podrá retener el vehículo por falta de pago de la o las multas.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 258.
 
-Si con motivo del retiro de la circulación de un vehículo, éste sufriera daños o robos, las autoridades responsables tendrán la obligación de reparar los daños o pagar el costo de ellos, a elección del particular.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 259.
 
-Cuando el infractor sea jornalero, obrero o trabajador cuyo ingreso ascienda a un salario mínimo, la multa que se imponga, no podrá exceder del importe de su jornal o salario de un día, en el caso de trabajadores no asalariados la multa no excederá del equivalente a un día de su ingreso.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. EN MATERIA DE TRANSITO
 
 ###### ARTICULO 260.
 
-Las multas por infracciones a la Ley y al presente Reglamento, se aplicarán conforme a la siguiente tarifa:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
-I.- PLACAS:
-
-A) Falta de:
-
-Tres días;
-
-B) Colocación incorrecta:
-
-Dos días;
-
-C) Impedir su visibilidad:
-
-Cinco días;
-
-D) Sustituirlas por placas decorativas o de otro País:
-
-Cincuenta días;
-
-E) Circular con placas no vigentes:
-
-Quince días;
-
-F) Circular con placas de otro vehículo:
-
-Cien días; y
-
-G) Uso indebido de placas de demostración:
-
-Veinticinco días;
-
-II.- CALCOMANIA:
-
-A) No adherirla:
-
-Dos días; y
-
-B) No tenerla:
-
-Tres días;
-
-III.- LICENCIA O PERMISO PARA CONDUCIR:
-
-A) Falta de:
-
-Cuatro días;
-
-B) Permitir el propietario la conducción de su vehículo a persona que carezca de permiso o licencia;
-
-Cuatro días;
-
-C) Ilegible:
-
-Un día;
-
-D) Falta de resello;
-
-Dos días; y
-
-E) Cancelados o suspendidos:
-
-Cuatro días.
-
-IV.- LUCES:
-
-A) Falta de faros principales delanteros:
-
-Cuatro días;
-
-B) Falta de lámparas posteriores o delanteras:
-
-Tres días;
-
-C) Falta de lámparas direccionales:
-
-Tres días;
-
-D) Falta de lámparas de freno o en mal estado de funcionamiento:
-
-Dos días;
-
-E) Usar sin autorización las lámparas y torretas exclusivas de vehículos policíacos o de emergencia:
-
-Cinco días;
-
-F) Llevar fanales alineados a la parte posterior del vehículo:
-
-Tres días;
-
-G) Carecer de lámparas demarcadoras y de identificación los autobuses y camiones, remolques y semirremolques, y camión tractor;
-
-Tres días; y
-
-H) Carecer de reflejantes los autobuses y camiones, remolques y semirremolques, maquinaria de construcción y maquinaria agrícola:
-
-Tres días;
-
-V.- FRENOS:
-
-A) Estar en mal estado de funcionamiento:
-
-Cinco días; y
-
-B) Falta de manómetro en vehículos que empleen aire comprimido:
-
-Tres días;
-
-VI.- CARECER O ENCONTRARSE EN MAL ESTADO DE FUNCIONAMIENTO LOS SIGUIENTES DISPOSITIVOS DE LOS VEHICULOS:
-
-A) Bocina:
-
-Dos días;
-
-B) Cinturones de seguridad:
-
-Dos días;
-
-C) Velocímetro:
-
-Un día;
-
-D) Silenciador:
-
-Tres días;
-
-E) Espejos retrovisores:
-
-Dos días;
-
-F) Limpiadores de parabrisas:
-
-Un día;
-
-G) Antellantas en vehículos de carga:
-
-Tres días;
-
-H) Una o las dos defensas:
-
-Dos días;
-
-I) Equipo de emergencia:
-
-Dos días; y
-
-J) Llanta de refacción:
-
-Un día;
-
-VII.- VISIBILIDAD:
-
-A) Colocar en los cristales del vehículo, rótulos, leyendas, carteles u objetos que la obstruyan:
-
-Dos días; y
-
-B) Pintar los cristales u obscurecerlos que la disminuyan:
-
-Tres días;
-
-VIII.- CIRCULACION:
-
-A) Obstruirla:
-
-Cinco días;
-
-B) Llevar en el vehículo a más del número autorizado en la tarjeta de circulación:
-
-Dos días;
-
-C) Contaminar por expedir humo excesivo:
-
-Tres días;
-
-D) Conducir un vehículo con oruga metálica sobre calles asfaltadas:
-
-Cinco días;
-
-E) Circular sobre rayas longitudinales delimitantes de carriles:
-
-Dos días;
-
-F) Circular en sentido contrario:
-
-Cuatro días;
-
-G) Conducir con persona o bulto entre los brazos:
-
-Tres días;
-
-H) Arrojar basura o desperdicios en las vías públicas:
-
-Tres días;
-
-I) No circular por el carril derecho:
-
-Dos días;
-
-J) Conducir sobre isletas, camellones, y demás zonas prohibidas:
-
-Tres días;
-
-K) Causar daño en las vías públicas, semáforos y señales:
-
-Tres días;
-
-L) Maniobras en reversa sin precaución:
-
-Dos días;
-
-M) No indicar el cambio de dirección:
-
-Un día;
-
-N) No ceder el paso:
-
-Cuatro días;
-
-Ñ) Circular vehículos de carga en zona comercial fuera de horario:
-
-Dos días;
-
-O) Dar vuelta en «U» en lugar no permitido:
-
-Tres días;
-
-P) Llevar pasajeros en salpicaderas, defensas, estribos, puertas o fuera de la cabina en general:
-
-Tres días;
-
-Q) Conducir motocicletas o bicicletas sujeto a otro vehículo, en forma paralela; con carga que dificulte su manejo o sobre las aceras:
-
-Dos días;
-
-R) Conducir motocicletas sin casco o anteojos protectores o llevar pasajeros sin casco,
-
-Tres días;
-
-S) conducir vehículos de carga cuando ésta estorbe, constituya peligro o sin cubrir:
-
-Cuatro días;
-
-T) No llevar banderolas en el día o reflejante o lámpara roja en la noche, cuando la carga sobresalga.
-
-Cuatro días;
-
-U) Transportar materiales inflamables o explosivos sin autorización o precaución:
-
-Cien días;
-
-V) Trasladar cadáveres sin el permiso respectivo:
-
-Cien días;
-
-W) Por no mantener la distancia de seguridad;
-
-Dos días;
-
-X) Por invadir la zona de paso peatonal:
-
-Dos días;
-
-Y) Por causar peligro a terceros al entrar a un crucero con la luz en ámbar del semáforo:
-
-Cinco días;
-
-Z) Por invadir el carril contrario de circulación:
-
-Cinco días;
-
-A1) Obstruir en alguna forma la circulación de vehículos o peatones:
-
-Tres días;
-
-B1) Cargar objetos, no autorizados en la tarjeta de circulación:
-
-Tres días;
-
-C1) Por cargar y descargar fuera del horario o del área autorizada:
-
-Cinco días;
-
-D1) Por entorpecer columnas militares; marchas escolares, desfiles cívicos, manifestaciones, cortejos fúnebres y otros eventos similares:
-
-Tres días;
-
-E1) No dar preferencia de paso al peatón:
-
-Cuatro días;
-
-F1) No ceder el paso a vehículos con preferencia:
-
-Diez días;
-
-G1) Darse a la fuga después de haberle indicado hacer ALTO un agente de tránsito:
-
-Diez días;
-
-H1) Darse a la fuga después de haber provocado un accidente:
-
-Diez días;
-
-I1) Por no utilizar los cinturones de seguridad:
-
-Dos días; y
-
-J1) Por conducir sin el equipo necesario, en el caso de personas con incapacidades físicas para hacerlo normalmente.
-
-IX.- ESTACIONAMIENTO:
-
-A) En lugar prohibido:
-
-Tres días;
-
-B) En forma incorrecta:
-
-Dos días;
-
-C) No señalar o advertir de obstáculos o vehículos estacionados en la vía de rodamiento:
-
-Dos días;
-
-D) Por no respetar los límites de estacionamiento en una intersección:
-
-Tres días;
-
-E) En zona de ascenso y descenso de pasajeros de vehículos de servicio público:
-
-Tres días;
-
-F) Frente a una entrada de vehículo:
-
-Tres días;
-
-G) En carril de alta velocidad:
-
-Tres días;
-
-H) Sobre la banqueta:
-
-Seis días;
-
-I) Sobre algún puente:
-
-Tres días;
-
-J) Abandono de vehículo en la vía pública:
-
-Tres días;
-
-K) En doble fila:
-
-Tres días;
-
-L) Efectuar reparaciones en la vía pública, que no sean de emergencia:
-
-Tres días; y
-
-M) Fuera de su terminal los vehículos de transporte o en horario fuera de los permisos o en zonas restringidas:
-
-Cuatro días;
-
-N) En lugares destinados para personas con discapacidad
-
-Tres días;
-
-X.- VELOCIDAD:
-
-A) Manejar con exceso:
-
-Diez días;
-
-B) No disminuirla en cruceros, frente a escuelas, lugares de espectáculos y ante señalamientos de tránsito:
-
-Cuatro días; y
-
-C) Circular a tan baja velocidad que obstruya el tráfico o que represente un peligro para el tránsito:
-
-Tres días;
-
-XI.- REBASAR:
-
-A) A otro vehículo en zona prohibida con señal:
-
-Cinco días;
-
-B) En zona de peatones:
-
-Seis días;
-
-C) A otro vehículo que circule a velocidad máxima permitida:
-
-Cinco días;
-
-D) Por el acotamiento:
-
-Seis días; y
-
-E) Por la derecha en los casos no permitidos:
-
-Seis días;
-
-XII.- RUIDO:
-
-A) Usar la bocina cerca de hospitales, sanatorios, centros de salud y escuelas, en lugares prohibidos o innecesariamente:
-
-Cinco días;
-
-B) Producirlos con el escape:
-
-Dos días; y
-
-C) Usar equipo de radio o estereofonía a volumen excesivo:
-
-Cinco días.
-
-XIII.- ALTO:
-
-A) No hacerlo en crucero de ferrocarril:
-
-Cuatro días;
-
-B) No hacerlo al cruzar o entrar en vías con preferencia de paso:
-
-Tres días;
-
-C) No acatarlo cuando lo indique un agente o semáforo:
-
-Tres días; y
-
-D) No respetar el señalado en letreros:
-
-Tres días;
-
-XIV.- ABANDONO DE VEHICULOS EN LA VIA PUBLICA:
-
-Cinco días;
-
-XV.- DOCUMENTOS DEL VEHICULO:
-
-A) Alterarlos:
-
-Cien días;
-
-B) Sin tarjeta de circulación:
-
-Cinco días;
-
-C) Con tarjeta de circulación no vigente:
-
-Tres días;
-
-D) Omisión por el propietario de cualesquiera de los avisos previstos en este Reglamento:
-
-Tres días; y
-
-XVI.- Cambiar numeración de motor o chasis sin la autorización de la dependencia correspondiente:
-
-Cien días.
-
-Para el caso de que las infracciones a que se refiere este artículo sean cometidas por conductores o abordo de vehículos de servicio público de transporte, se aplicara el doble de la sanción señalada para cada caso.
-
-Cuando alguna infracción no esté sancionada específicamente en este artículo se aplicará la multa que corresponda conforme a la gravedad de la falta cometida la que se impondrá a criterio de la Dirección General del Transporte y que no podrá exceder de sesenta días de salario.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO III. EN MATERIA DE TRANSPORTES
 
 ###### ARTICULO 261.
 
-Las sanciones que se impongan por infracciones a este Reglamento en materia de Transportes, serán las siguientes:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
-A.- A los conductores:
-
-I.- Por conducir vehículos de servicio público de transporte sin portar licencia de chofer y/o sin gafete de identificación: diez días;
-
-II.- Por no cumplir con las condiciones de prestación del servicio e higiene del vehículo: quince días;
-
-III.- Por hacer sitio en lugar no autorizado: quince días;
-
-IV.- Por prestar el servicio fuera de la ruta establecida o del territorio autorizado: veinte días;
-
-V.- Por prestar servicio de vehículo con itinerario fijo, en uno autorizado para prestar servicio sin itinerario fijo: veinte días.
-
-VI.- Por negarse a prestar el servicio sin causa justificada: veinte días;
-
-VII.- Por no cumplir con el itinerario o la frecuencia autorizados en la ruta asignada: veinte días;
-
-VIII.- Por abastecer combustible con pasajeros a bordo: veinte días;
-
-IX.- Por faltarle al respeto al usuario o a los inspectores de la Dirección General del Transporte del Estado: veintiocho días;
-
-X.- Por cobrar una cantidad que altere la tarifa autorizada: treinta días;
-
-XI.- Por prestar servicio público de transporte de pasajeros en vehículo particular no autorizado: treinta días;
-
-XII.- Por transportar un número de pasajeros superior al autorizado para el vehículo que conduzca: treinta días;
-
-XIII.- Por conducir vehículo de servicio público de transporte en estado de ebriedad o bajo los efectos de alguna droga que afecte sus facultades físicas o mentales, aunque su uso le esté autorizado por prescripción médica: treinta días o arresto por treinta y seis horas, así como la suspensión establecida en el artículo 247 de este Reglamento;
-
-XIV.- Por no hacer alto total para el ascenso y descenso de pasaje, en las paradas autorizadas para ello: diez días; y
-
-XV.- Por mantener conversaciones que lo distraigan mientras conduce el vehículo: diez días.
-
-B.- A los concesionarios o permisionarios, por permitir:
-
-I.- Por permitir la circulación de un vehículo que preste servicio de transporte de carga particular o público, que carezca de la razón social: diez días;
-
-II.- Por permitir la prestación del servicio público de transporte de pasajeros, en un vehículo con un color, con distintivos, o con emblemas no autorizados: quince días;
-
-III.- Por permitir que sus vehículos presten el servicio concesionado, sin haber cumplido con la revisión mecánica, en la fecha señalada para tal efecto: veinte días;
-
-IV.- Por permitir manejar a una persona que carezca de licencia de chofer y/o gafete de identificación: treinta días;
-
-V.- Por permitir la prestación del servicio con sus vehículos, sin haber dado cumplimiento a las órdenes resultantes de la revisión mecánica: treinta días;
-
-VI.- Por permitir la circulación de un vehículo que preste el servicio público de transporte sin estar autorizado para ello: treinta días;
-
-VII.- Por permitir la circulación de un vehículo que preste el servicio de transporte y se encuentre en malas condiciones mecánicas o generales: treinta días.
-
-VIII.- Por dejar de inscribir los cambios corporativos a que se refiere el artículo 180 de este Reglamento, cinco días, más medio día por cada día que transcurra después de vencido el plazo.
-
-Cuando alguna infracción no esté sancionada en este artículo se aplicará la multa que corresponda conforme a la gravedad de la falta cometida la que se impondrá a criterio de la Dirección General del Transporte y que no podrá exceder de sesenta días de salario.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ## TITULO SEXTO. DE LOS RECURSOS ADMINISTRATIVOS
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 262.
 
-Las resoluciones e infracciones que las autoridades de tránsito y transportes dicten, podrán ser impugnadas administrativamente mediante recurso de inconformidad, presentado por los afectados dentro del plazo de diez días contados a partir de la fecha de que se cometió la infracción o en que se notifique la resolución combatida, ante la autoridad que emitió el acto.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 263.
 
-En contra de las resoluciones en que se establezcan modificaciones o modalidades a las concesiones o permisos de ruta o zona, él o los afectados podrán promover dentro de los quince días siguientes al de su notificación o al de la fecha en que se tenga conocimiento de la resolución, el recurso de reconsideración ante la Dirección General.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 264.
 
-En la tramitación de los recursos a que se refieren los artículos anteriores, se podrán ofrecer toda clase de pruebas, excepto la confesional, siempre que las mismas tengan relación con los hechos que constituyan la base de la resolución recurrida. Al interponerse el recurso deberán ofrecerse las pruebas correspondientes, exhibirse las documentales y acreditarse la personalidad de quien promueva.
-
-Para el desahogo de las pruebas, se señalará un plazo no menor de ocho ni mayor de quince días, y quedará a cargo del recurrente la presentación de testigos y dictámenes.
-
-Cuando no se desahoguen las pruebas dentro del término otorgado o las ofrecidas que no se desahoguen por su propia naturaleza, no se considerarán para emitir la resolución respectiva.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 265.
 
-La interposición de cualquier recurso, suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
-
-Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión solo se otorgará si concurren los requisitos siguientes:
-
-I.- Que lo solicite el recurrente;
-
-II.- Que el recurso haya sido admitido;
-
-III.- Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a la Ley, y a este Reglamento, y
-
-IV.- Que no ocasionen daños o perjuicios a terceros en términos de esta Ley o de las disposiciones que de ella emanen.
-
-Cuando proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros, el promovente podrá otorgar, previa a la ejecución de aquella, una garantía cuya cantidad será fijada por la Dirección General.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 266.
 
-En la interposición de cualquier recurso se deberá cumplir con los siguientes requisitos:
-
-I.- El interesado o interesados o su apoderado o representante legal, deberá acudir por escrito ante la autoridad correspondiente dentro del plazo que se señala para cada recurso;
-
-II.- Se hará constar el nombre del promovente y domicilio para oír notificaciones;
-
-III.- El promovente deberá acreditar su personalidad ante quien actúe;
-
-IV.- Se hará mención expresa del acto o la resolución que se impugna y de la autoridad o dependencia responsable del acto;
-
-V.- Una relación sucinta de los hechos en que se basa la impugnación, los preceptos legales que se consideren violados, así como los agravios que cause la resolución impugnada;
-
-VI.- En el escrito en que se haga valer el recurso, deberá exponer lo que a su derecho convenga, y o en su caso, aportar las pruebas y formular los alegatos que considere procedente, en relación con los hechos en los que el recurrente funde su reclamación; y
-
-VII.- El nombre y domicilio del tercero interesado si lo hubiere.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 267.
 
-Recibido cualquier recurso por la autoridad de tránsito y transportes encargada de substanciarlo, se seguirá el procedimiento siguiente:
-
-I.- Se verificará que la interposición se haya presentado dentro del término fijado para el tipo de recurso de que se trate, y que se satisfacen cada uno de los requisitos exigidos en el artículo anterior;
-
-II.- De cumplirse lo señalado en la fracción anterior, se acordará la admisión del recurso y en caso contrario, se desechará por notoriamente improcedente;
-
-III.- El tercero interesado, si existe, será llamado a participar en el procedimiento, quien podrá exponer lo que a su derecho convenga y, en su caso, aportar pruebas y formular alegatos en relación a los hechos que se le imputan, para lo cual se pondrán a su disposición las actuaciones para que en un plazo de tres días hábiles hagan valer tal derecho;
-
-IV.- Desahogadas las pruebas presentadas por el recurrente, así como las exhibidas por el tercero interesado, o habiendo transcurrido el término a que se refiere la fracción precedente, se procederá, dentro de los 15 días naturales siguientes, a dictar por escrito la resolución respectiva;
-
-V.- La resolución dictada se notificará a los interesados en el domicilio señalado para recibir notificaciones, en forma personal o por correo certificado, con acuse de recibo, y
-
-VI.- Se turnará a la autoridad fiscal competente, copia de la misma, para que tome nota de la revocación, modificación o confirmación, en su caso, y de proceder cobro alguno, según el sentido de la resolución, este se deberá efectuar mediante el procedimiento administrativo de ejecución que establece el Código Fiscal.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ###### ARTICULO 268.
 
-Es improcedente el recurso de revocación, cuando se haga valer contra actos administrativos:
-
-I.- Que no afecten el interés jurídico del recurrente;
-
-II.- Que sean realizados en la tramitación, de recursos administrativos o en cumplimiento de estos o de sentencias;
-
-III.- Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado;
-
-IV.- Que se hayan consentido, entendiéndose por consentimiento el caso de aquellos contra los cuales no se promovió el recurso en el plazo señalado al efecto; y
-
-V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2008)
 
 ## TRANSITORIOS
 
@@ -3372,3 +2232,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias que se contrapongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se derogan los títulos primero, segundo, cuarto, quinto y sexto del Reglamento de Tránsito y Transportes del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 3919, de fecha 20 de mayo de 1989, asimismo se reforma su denominación para quedar como Reglamento de Tránsito del Estado de Morelos.
+
+TERCERO. Se concede un plazo de ciento ochenta días hábiles a la Dirección General de Transportes, para que lleve a cabo todas las modificaciones administrativas y normativas necesarias para el cumplimiento del presente Reglamento.
+
+CUARTO. Se otorga un plazo de doce meses contados a partir de la entrada en vigor del presente Reglamento, para que los concesionarios ajusten la antigüedad de sus vehículos a los lineamientos establecidos por el actual ordenamiento, así como para el cumplimiento de la capacitación de los operadores y la posterior obtención de su gafete de identificación, y para el registro y padrón de concesionarios, permisionarios y de operadores.
+
+QUINTO. La inscripción para el registro de concesionarios se hará a partir de la fecha de la publicación del presente Reglamento, obteniendo los concesionarios y permisionarios un término de ciento ochenta días para el trámite respectivo.
+
+SEXTO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+SÉPTIMO. Los titulares de las concesiones otorgadas antes de la publicación del presente Reglamento, conservarán los derechos que sobre las mismas les ha otorgado la autoridad. Al vencimiento de éstas y para su renovación se sujetarán invariablemente a las condiciones y términos que en materia de concesiones señala este Reglamento.
+
+OCTAVO. El titular del Poder Ejecutivo, a través del Secretario de Gobierno, cuenta con un plazo de noventa días hábiles contados a partir de la publicación del presente Reglamento, para convocar a la instalación y apertura de las sesiones del Consejo Consultivo de Transportes.
