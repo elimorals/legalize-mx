@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-las-juntas-locales-y-distritales-1614
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-15"
-last_updated: "2000-06-20"
+last_updated: "2008-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-04-27"
 
 REGLAMENTO DE SESIONES DE LAS JUNTAS LOCALES Y DISTRITALES EJECUTIVAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL REGLAMENTO DE SESIONES PARA LAS JUNTAS LOCALES Y DISTRITALES EJECUTIVAS DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 13 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 15 de mayo de 2000.
 
@@ -360,3 +362,17 @@ EL PRESENTE ACUERDO FUE APROBADO EN SESION ORDINARIA DEL CONSEJO GENERAL CELEBRA
 D.O.F. 20 DE JUNIO DE 2000.
 
 PRIMERO.- Las modificaciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE AGOSTO DE 2008.
+
+A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES PARA LAS JUNTAS LOCALES Y DISTRITALES EJECUTIVAS DEL INSTITUTO FEDERAL ELECTORAL, QUE TIENEN RELACION EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.- Se abroga el Reglamento de Sesiones de las Juntas Locales y Distritales Ejecutivas del Instituto Federal Electoral, aprobado mediante Acuerdo CG105/2000, de fecha 31 de mayo del año 2000.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+QUINTO.- El Secretario dispondrá a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
