@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-la-junta-general-ejecutiva-del-15789"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-14"
-last_updated: "2000-06-20"
+last_updated: "2008-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15789&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-02-29"
 
 REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 13 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 14 de marzo de 2000.
 
@@ -384,3 +386,17 @@ PRIMERO.- Las modificaciones al presente Reglamento entrarán en vigor al día s
 SEGUNDO.- El Secretario Ejecutivo dará cuenta del presente Acuerdo, por el que se acata la sentencia SUP-RAP-012/2000, al Tribunal Electoral del Poder Judicial de la Federación.
 
 TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE AGOSTO DE 2008.
+
+A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, QUE TIENEN RELACION CON EL PRESENTE ORDENAMIENTO.
+
+.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.- Se abroga el Reglamento de Sesiones de la Junta General Ejecutiva del Instituto Federal Electoral, aprobado mediante Acuerdo CG104/2000, de fecha 31 de mayo del año 2000.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+QUINTO.- El Secretario dispondrá a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
