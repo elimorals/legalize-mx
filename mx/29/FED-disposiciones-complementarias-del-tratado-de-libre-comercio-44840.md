@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2007-07-09"
+last_updated: "2008-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,105 +19,51 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
+DECRETO POR EL QUE SE MODIFICAN LOS DIVERSOS POR LOS QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE JULIO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE NICARAGUA, Y LA TASA APLICABLE PARA EL 2008 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS
 
-Acuerdo publicado e la Primera Sección del Diario Oficial de la Federación, el lunes 9 de julio de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 30 de abril de 1998 fue aprobado por el Senado de la República el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 1 de julio de 1998;
+Que el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua fue aprobado por el Senado de la República el 30 de abril de 1998, publicado en el Diario Oficial de la Federación el 1 de julio de 1998 y entró en vigor ese mismo día;
 
-Que el artículo 3-04 párrafo 5 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, dispone que cada parte podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar la cuota de importaciones realizadas al amparo de los volúmenes establecidos en el mismo instrumento, siempre y cuando esas medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cupo;
+Que el 30 de mayo de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se aprueba el Protocolo por el que se adicionan disposiciones en materia de acumulación textil al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, suscrito en la Ciudad de Managua, el dieciocho de diciembre de mil novecientos noventa y siete, firmado el doce de abril de dos mil siete, el cual fue aprobado por el Senado de la República el 26 de abril de 2007;
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece disposiciones en materia de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada ley;
+Que el 30 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa aplicable a partir del 1 de julio de 2007 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua;
 
-Que el procedimiento a través del cual se asigna el cupo de importación de leche establecido en el Tratado, es un instrumento de la política sectorial para promover el complemento de la oferta en el país, y
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras fue aprobado por el Senado de la República el 14 de diciembre de 2000, publicado en el Diario Oficial de la Federación el 14 de marzo de 2001 y entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador y Guatemala, y el 1 de junio de 2001 para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el 19 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se aprueba el Protocolo por el que se Adicionan Disposiciones en Materia de Acumulación Textil al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, suscrito en la Ciudad de México, el veintinueve de junio de dos mil, firmado el dieciséis de abril de dos mil siete, el cual fue aprobado por el Senado de la República el 26 de abril de 2007;
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR LECHE EN POLVO, ORIGINARIA DE LA REPUBLICA DE NICARAGUA
+Que el 27 de diciembre de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la tasa aplicable para el 2008 del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras;
 
-###### ARTICULO PRIMERO.
+Que los protocolos mencionados en los considerandos segundo y quinto tienen por objeto otorgar un trato arancelario preferencial a los bienes clasificados en el Capítulo 62 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que incorporen insumos de los Estados Unidos de América y que se consideren originarios de Nicaragua, El Salvador, Guatemala y Honduras, de conformidad con lo dispuesto en dichos protocolos;
 
-El cupo para importar leche en polvo originaria de la República de Nicaragua, en el periodo comprendido de la entrada en vigor del presente Acuerdo al 30 de junio de 2008, con el arancel-cupo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, es el que se determina a continuación:
+Que lo anterior se hizo con la finalidad de otorgar reciprocidad a los Estados Unidos de América, ya que de conformidad con la cláusula de acumulación textil establecida en el Tratado de Libre Comercio entre los Estados Unidos, Centroamérica y República Dominicana, se otorgará un trato preferencial a los bienes textiles que se produzcan en Centroamérica e incorporen insumos originarios de México;
 
-(VEASE ARCHIVO ANEXO)
+Que a fin de que se aplique el beneficio de trato arancelario preferencial previsto en los referidos protocolos, las mercancías procedentes de los países mencionados en el considerando anterior deberán contar con un certificado de elegibilidad que emitirá la Secretaría de Economía, como parte del compromiso internacional adquirido por México;
 
-###### ARTICULO SEGUNDO.
+Que con el objeto de reflejar el trato arancelario preferencial establecido en los aludidos protocolos, resulta necesario modificar los decretos que se refieren en los considerandos tercero y sexto precedentes, y
 
-Con objeto de complementar el abasto doméstico de leche en polvo, se aplicará el mecanismo de asignación directa del cupo de importación de leche en polvo originaria de la República de Nicaragua, conforme al cuadro siguiente:
+Que con la finalidad de dar a conocer a los operadores económicos y autoridades aduaneras las condiciones arancelarias que derivan de los citados protocolos, he tenido a bien expedir el siguiente
 
-(VEASE ARCHIVO ANEXO)
+DECRETO
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO PRIMERO.
 
-Podrán solicitar asignación del arancel-cuota de importación a que se refiere el presente Acuerdo:
+Se adiciona un artículo 8 al Decreto por el que se establece la Tasa aplicable a partir del 1 de julio de 2007 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua, publicado en el Diario Oficial de la Federación el 30 de junio de 2007, para quedar como sigue:
 
-A. La empresa del sector público encargada del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo; así como a lo establecido en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
+"ARTÍCULO 8.- La importación de mercancías procedentes de Nicaragua que se clasifiquen en el capítulo 62 de la LIGIE y que cumplan con lo establecido en el Anexo al Artículo 3-16 del Tratado estarán exentas del pago de arancel, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía."
 
-B. Empresas industriales del sector privado, que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo que cumplan la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007; considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, suero de leche y crema de leche) del año previo, conforme a la hoja de requisitos anexa, y
+###### ARTÍCULO SEGUNDO.
 
-C. Empresas industriales del sector privado, que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo que no cumplan la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, suero de leche y crema de leche), del año previo conforme a la hoja de requisitos anexa.
+Se adiciona un artículo 16 al Decreto por el que se establece la tasa aplicable para el 2008 del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2007, para quedar como sigue:
 
-Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquélla en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso tiene características distintas a las de la materia prima de donde proviene. Dicha materia prima es un insumo importante dentro del proceso industrial pero no el único.
-
-Para la empresa mencionada en el inciso A) de este artículo, la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), de conformidad con lo señalado en los artículos segundo y tercero de este Acuerdo; para las empresas señaladas en el inciso B) y C), la asignación directa se realizará a través de la DGCE, de manera proporcional con base en los consumos auditados de materias primas lácteas conforme se detalla en el artículo siguiente.
-
-Para la aplicación general de los mecanismos y criterios que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior, podrá solicitar la opinión de la Dirección General de Industrias Básicas.
-
-La mercancía obtenida por asignación directa no podrá ser comercializada en el mismo estado físico en que se importe.
-
-La vigencia máxima de los certificados de cupo será al 30 de junio de 2008 y serán improrrogables.
-
-###### ARTICULO CUARTO.
-
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso B) del artículo tercero de este Acuerdo, se considerará lo siguiente:
-
-Los solicitantes deberán cumplir como condición previa que su consumo de leche en polvo importada no sobrepase el 30% de la suma del total de los consumos auditados de leche fluida, leche en polvo y de otros sólidos de leche de producción nacional, y de leche en polvo importada durante el año previo. Asimismo, registrarán sus compromisos de adquisición de leche de producción nacional para 2008.
-
-El monto asignado se distribuirá a prorrata, es decir proporcionalmente entre las empresas, con base en los consumos auditados de leche fluida y leche en polvo (convertidas a sólidos totales) del año previo. A cada solicitante se asignará el monto que resulte menor entre el 20 por ciento del cupo correspondiente a este grupo de empresas, el monto solicitado o el que resulte de la prorrata. En ningún caso, la asignación anual por beneficiario podrá exceder el total del consumo de leche en polvo reportado del año previo.
-
-Para la asignación de este monto, se prevé que este proceso se lleve a cabo entre las empresas que cumplan adecuadamente con todos los requisitos establecidos en la hoja anexa para este propósito; en caso de que alguna empresa no cumpla con todos los requisitos, de contar con los elementos necesarios para estimar su asignación (consumos auditados), se reservará el monto que resulte de la aplicación de la fórmula arriba expuesta. En caso contrario, la empresa podrá ser tomada en cuenta hasta que se disponga de los elementos necesarios para estimar su asignación, siempre que exista saldo disponible para este grupo de empresas, en cuyo caso se le asignará el monto que resulte menor entre el 20 por ciento del cupo correspondiente a este grupo de empresas, el monto solicitado o un porcentaje similar al que resulte de la prorrata realizada.
-
-###### ARTICULO QUINTO.
-
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso C) del artículo tercero que no puedan cumplir la condición previa señalada en el artículo cuarto de este Acuerdo, los criterios de asignación aplicables son los que a continuación se indican:
-
-El monto asignado se distribuirá a prorrata, es decir proporcionalmente entre las empresas, con base en los consumos auditados de leche fluida y leche en polvo. A cada solicitante se asignará el monto que resulte menor entre el 20 por ciento del cupo correspondiente a este grupo de empresas, el monto solicitado o el que resulte de la prorrata. En ningún caso, la asignación anual por beneficiario podrá exceder el total del consumo de leche en polvo reportado del año previo.
-
-Para la asignación de este monto, se prevé que este proceso se lleve a cabo entre las empresas que cumplan adecuadamente con todos los requisitos establecidos en la hoja anexa para este propósito; en caso de que alguna empresa no cumpla con todos los requisitos, de contar con los elementos necesarios para estimar su asignación (consumos auditados), se reservará el monto que resulte de la aplicación de la fórmula arriba expuesta. En caso contrario, la empresa podrá ser tomada en cuenta hasta que se disponga de los elementos necesarios para estimar su asignación, siempre que exista saldo disponible para este grupo de empresas, en cuyo caso se le asignará el monto que resulte menor entre el 20 por ciento del cupo correspondiente a este grupo de empresas, el monto solicitado o un porcentaje similar al que resulte de la prorrata realizada.
-
-###### ARTICULO SEXTO.
-
-Las solicitudes de asignación directa, deberán presentarse en el formato SE-03-011-1 "Solicitud de asignación de cupo" en la Representación Federal de esta Secretaría que le corresponda, la hoja de requisitos específicos se establece como anexo al presente instrumento. El plazo de solicitud será no mayor de siete días hábiles, contados a partir del día hábil siguiente a la fecha de recepción del total de las solicitudes debidamente requisitadas.
-
-Las asignaciones de cupo tendrán una vigencia al 30 de junio de 2008 y serán improrrogables.
-
-###### ARTICULO SEPTIMO.
-
-La Dirección General de Industrias Básicas de esta Secretaría y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, efectuarán reuniones con los representantes de las principales organizaciones de productores e industriales que integran la cadena productiva de leche y derivados lácteos, con el fin de evaluar y dar seguimiento a la administración de este cupo.
-
-###### ARTICULO OCTAVO.
-
-Una vez asignado el monto para importar dentro del arancel-cupo por el mecanismo de asignación directa, la Secretaría expedirá los respectivos certificados de cupo, a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 "Solicitud de certificados de cupo "(obtenidos por asignación directa)".
-
-El certificado de cupo es nominativo e intransferible.
-
-###### ARTICULO NOVENO.
-
-Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados en las Representaciones Federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica correspondiente, como se indica a continuación:
-
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-b) Para el formato de expedición del certificado de cupo (SE-03-013-5): “Solicitud de certificados de cupo (obtenido por asignación directa)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
+"ARTÍCULO 16.- La importación de mercancías procedentes de El Salvador, Guatemala y Honduras que se clasifiquen en el capítulo 62 de la LIGIE y que cumplan con lo establecido en el Anexo 3-20 del Tratado estarán exentas del pago de arancel, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía."
 
 ###### ARTÍCULO 1.
 
@@ -199,30 +145,6 @@ En aquellos casos de este artículo o en los de la columna “Noruega” del Ap�
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de junio de 2008.
+ÚNICO.- El presente Decreto entrará en vigor el 15 de agosto de 2008.
 
-México, D.F., a 26 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-Julio 2007-Junio 2008
-
-REQUISITOS PARA LA ASIGNACION EL CUPO DE IMPORTACION ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE NICARAGUA PARA EMPRESAS CON QUE CUMPLAN CON LA CONDICION PREVIA */ LECHE EN POLVO (0402.10.01 Y 0402.21.01)
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-Julio 2007-Junio 2008
-
-REQUISITOS PARA LA ASIGNACION EL CUPO DE IMPORTACION ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE NICARAGUA PARA EMPRESAS CON QUE NO CUMPLAN CON LA CONDICION PREVIA */ LECHE EN POLVO (0402.10.01 Y 0402.21.01)
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
