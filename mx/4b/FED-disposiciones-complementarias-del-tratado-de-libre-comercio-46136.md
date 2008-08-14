@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2007-12-27"
+last_updated: "2008-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,87 +18,51 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR, ATUN EN LATA, CON UN PESO NO MAYOR A 1 KG ORIGINARIO DE LA REPUBLICA DE GUATEMALA
+DECRETO POR EL QUE SE MODIFICAN LOS DIVERSOS POR LOS QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE JULIO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE NICARAGUA, Y LA TASA APLICABLE PARA EL 2008 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 27 de diciembre de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 4-04 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las repúblicas de El Salvador, Guatemala y Honduras; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las repúblicas de El Salvador, Guatemala y Honduras, firmado el 29 de junio de 2000 y publicado el 19 de enero de 2001 en el Diario Oficial de la Federación, manifiesta la decisión de crear un mercado más extenso y seguro para bienes producidos en el territorio de las Partes y establecer una zona de libre comercio, entre los cuatro países a través de la eliminación de barreras comerciales;
+Que el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua fue aprobado por el Senado de la República el 30 de abril de 1998, publicado en el Diario Oficial de la Federación el 1 de julio de 1998 y entró en vigor ese mismo día;
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las repúblicas de El Salvador, Guatemala y Honduras establece en el párrafo 1 del artículo 4-04 que las Partes eliminarán sus aranceles aduaneros sobre bienes originarios, de conformidad con lo establecido en el Anexo 3-04 (5);
+Que el 30 de mayo de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se aprueba el Protocolo por el que se adicionan disposiciones en materia de acumulación textil al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua, suscrito en la Ciudad de Managua, el dieciocho de diciembre de mil novecientos noventa y siete, firmado el doce de abril de dos mil siete, el cual fue aprobado por el Senado de la República el 26 de abril de 2007;
 
-Que el punto 9 del Anexo 3-04 (5) establece el tratamiento arancelario aplicable a los bienes originarios incluidos en las fracciones arancelarias;
+Que el 30 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa aplicable a partir del 1 de julio de 2007 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua;
 
-Que el procedimiento de asignación del cupo de importación de atún en lata, es un instrumento de la política sectorial para favorecer las relaciones comerciales con los países con los que México ha suscrito acuerdos comerciales internacionales, y
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras fue aprobado por el Senado de la República el 14 de diciembre de 2000, publicado en el Diario Oficial de la Federación el 14 de marzo de 2001 y entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador y Guatemala, y el 1 de junio de 2001 para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el 19 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se aprueba el Protocolo por el que se Adicionan Disposiciones en Materia de Acumulación Textil al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, suscrito en la Ciudad de México, el veintinueve de junio de dos mil, firmado el dieciséis de abril de dos mil siete, el cual fue aprobado por el Senado de la República el 26 de abril de 2007;
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR, ATUN EN LATA, CON UN PESO NO MAYOR A 1 kg ORIGINARIO DE LA REPUBLICA DE GUATEMALA
+Que el 27 de diciembre de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la tasa aplicable para el 2008 del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras;
 
-###### ARTICULO PRIMERO.
+Que los protocolos mencionados en los considerandos segundo y quinto tienen por objeto otorgar un trato arancelario preferencial a los bienes clasificados en el Capítulo 62 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que incorporen insumos de los Estados Unidos de América y que se consideren originarios de Nicaragua, El Salvador, Guatemala y Honduras, de conformidad con lo dispuesto en dichos protocolos;
 
-El cupo para importar durante el periodo que comprende del 1 de enero al 31 de diciembre de cada año dentro del arancel-cuota establecido en el Anexo 43-04 (5) del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las repúblicas de El Salvador, Guatemala y Honduras, atún en lata, con un peso no mayor a 1 kg originario de la República de Guatemala, es el que se determina a continuación:
+Que lo anterior se hizo con la finalidad de otorgar reciprocidad a los Estados Unidos de América, ya que de conformidad con la cláusula de acumulación textil establecida en el Tratado de Libre Comercio entre los Estados Unidos, Centroamérica y República Dominicana, se otorgará un trato preferencial a los bienes textiles que se produzcan en Centroamérica e incorporen insumos originarios de México;
 
-Fracción Descripción Cupo
+Que a fin de que se aplique el beneficio de trato arancelario preferencial previsto en los referidos protocolos, las mercancías procedentes de los países mencionados en el considerando anterior deberán contar con un certificado de elegibilidad que emitirá la Secretaría de Economía, como parte del compromiso internacional adquirido por México;
 
-1604.14.01
+Que con el objeto de reflejar el trato arancelario preferencial establecido en los aludidos protocolos, resulta necesario modificar los decretos que se refieren en los considerandos tercero y sexto precedentes, y
 
-1604.14.02
+Que con la finalidad de dar a conocer a los operadores económicos y autoridades aduaneras las condiciones arancelarias que derivan de los citados protocolos, he tenido a bien expedir el siguiente
 
-1604.14.03
+DECRETO
 
-1604.14.99 Atún en lata, con 500 toneladas
+###### ARTÍCULO PRIMERO.
 
-un peso no mayor métricas
+Se adiciona un artículo 8 al Decreto por el que se establece la Tasa aplicable a partir del 1 de julio de 2007 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua, publicado en el Diario Oficial de la Federación el 30 de junio de 2007, para quedar como sigue:
 
-1604.19.01 a 1 kg
+"ARTÍCULO 8.- La importación de mercancías procedentes de Nicaragua que se clasifiquen en el capítulo 62 de la LIGIE y que cumplan con lo establecido en el Anexo al Artículo 3-16 del Tratado estarán exentas del pago de arancel, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía."
 
-1604.19.02
+###### ARTÍCULO SEGUNDO.
 
-1604.19.99
+Se adiciona un artículo 16 al Decreto por el que se establece la tasa aplicable para el 2008 del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2007, para quedar como sigue:
 
-###### ARTICULO SEGUNDO.
-
-De conformidad con el artículo 24 de la Ley de Comercio Exterior, se aplicará al cupo de importación a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
-
-###### ARTICULO TERCERO.
-
-Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos.
-
-###### ARTICULO CUARTO.
-
-Para la obtención del cupo el solicitante deberá presentar en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda lo siguiente:
-
-a) Para cada año, la primera solicitud de asignación de cupo a que se refiere el presente instrumento, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de la presentación de la solicitud. La vigencia de la constancia de asignación será al 31 de diciembre de cada año.
-
-b) Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato SE-03-013-5, "Solicitud de certificados de cupo (obtenido por asignación directa)" adjuntando copia de la factura comercial y del conocimiento de embarque o carta de porte o guía aérea, según sea el caso. La Representación Federal de la Secretaría de Economía, emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
-
-Siempre que exista saldo en el cupo, el monto a asignar por solicitante será el que resulte menor entre el monto indicado en la factura comercial y el conocimiento de embarque o la carta de porte o la guía aérea, según sea el caso.
-
-###### ARTICULO QUINTO.
-
-Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes deberá haber ejercido por lo menos una de las expediciones otorgadas. De forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin ejercer.
-
-La vigencia de los certificados de cupo a que se refiere este Acuerdo, será lo que ocurra primero entre 60 días naturales contados a partir de la expedición del certificado o el 31 de diciembre de cada año.
-
-###### ARTICULO SEXTO.
-
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: http:www.cofemer.gob.mx o en las siguientes direcciones electrónicas:
-
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-B
-
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-B
+"ARTÍCULO 16.- La importación de mercancías procedentes de El Salvador, Guatemala y Honduras que se clasifiquen en el capítulo 62 de la LIGIE y que cumplan con lo establecido en el Anexo 3-20 del Tratado estarán exentas del pago de arancel, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía."
 
 ###### ARTÍCULO 1.
 
@@ -252,6 +216,6 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008.
+ÚNICO.- El presente Decreto entrará en vigor el 15 de agosto de 2008.
 
-México, D.F., a 17 de diciembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
