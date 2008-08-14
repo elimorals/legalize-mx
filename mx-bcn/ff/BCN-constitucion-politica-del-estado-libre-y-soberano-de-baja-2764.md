@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2008-07-11"
+last_updated: "2008-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -57,99 +57,93 @@ La base de la división territorial y de la organización política y administra
 
 El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 5.
 
-Todo Poder Público dimana del pueblo y se instituye para beneficio de éste.
+Todo poder público dimana del pueblo y se instituye para beneficio de éste.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+La renovación de los poderes Legislativo, Ejecutivo y de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas.
 
-Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral. Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales en los términos que establezca la Ley.
+La Ley determinará la duración de las campañas que no deberán exceder de noventa días cuando haya elección de gobernador, ni de sesenta días cuando sólo se elijan diputados y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. En la propaganda política o electoral que difundan los partidos políticos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de julio del año que corresponda.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+La Ley establecerá los supuestos, condiciones y reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
-La Ley establecerá los mecanismos apropiados para que se propicie el acceso de los partidos políticos a los medios de comunicación social en condiciones de equidad, de acuerdo a la disponibilidad presupuestal.
+La Ley electoral establecerá las faltas y sanciones administrativas, que se deriven de su incumplimiento o inobservancia. El Código Penal tipificará los delitos electorales y las penas que se deriven.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+APARTADO A. Los partidos políticos:
 
-Los partidos políticos de acuerdo a las disponibilidades presupuestales, recibirán en forma equitativa, financiamiento público permanente y de campaña electoral, para la realización de sus fines. La Ley establecerá los medios de justificación del gasto y los plazos o modalidades de las entregas, así como los procedimientos para la fiscalización del origen y aplicación de los recursos que ejerzan los partidos políticos en Baja California; igualmente señalará las bases bajo las cuales se determinarán los límites o topes a las erogaciones de los partidos políticos en sus campañas electorales, los montos máximos a que se sujetarán las aportaciones pecuniarias de sus simpatizantes, incluyendo las sanciones que se deriven por el incumplimiento a las disposiciones que se expidan en esta materia.
+Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales en los términos que establezca la Ley.
 
-La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Corresponde exclusivamente a los partidos políticos el derecho para solicitar el registro de candidatos a cargos de elección popular.
 
-El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de los partidos políticos, al padrón electoral y Listas Nominales de Electores, impresión de materiales electorales, preparación de la Jornada Electoral, cómputos, otorgamiento de constancias de mayoría, y asignaciones por el principio de representación proporcional. Así como lo relativo a la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Asimismo, tendrá a su cargo en los términos que señale esta Constitución y la Ley, la realización de los procesos de Plebiscito, y Referéndum.
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+El acceso de los partidos políticos a los tiempos en radio y televisión se estará a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y leyes aplicables. Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-El Instituto Estatal Electoral será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con órganos normativos, directivos o ejecutivos, de vigilancia y técnicos. El órgano superior normativo, denominado Consejo Estatal Electoral, se integrará por siete Consejeros Ciudadanos electos por mayoría calificada del Poder Legislativo, en la forma y mediante el procedimiento que señale la Ley, y representantes de los partidos políticos acreditados paritariamente, con voz pero sin voto, y un Secretario Fedatario. Los Consejeros Ciudadanos designarán de entre ellos mismos, con la aprobación de las dos terceras partes de sus integrantes a quien fungirá como Consejero Presidente. En caso de que transcurridas tres rondas de votaciones ninguno de los Consejeros alcanzare la votación requerida, la elección se hará por mayoría calificada del Poder Legislativo. La renovación del Consejo Estatal Electoral será en forma parcial, cuatro de los Consejeros cada tres años. El Consejero Presidente durará en su encargo tres años pudiendo ser reelecto.
+Los partidos políticos de acuerdo a las disponibilidades presupuestales, recibirán en forma equitativa, financiamiento público permanente y de campaña electoral, para la realización de sus fines.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+La Ley determinará los montos máximos a que se sujetarán las aportaciones de los simpatizantes de los partidos políticos, cuya suma total anual no excederá el diez por ciento del tope de gastos de campaña que se determine para la última campaña de gobernador actualizada en términos de Ley.
 
-Los órganos normativos inferiores serán los Consejos Distritales Electorales que se integrarán por siete Consejeros Ciudadanos nombrados por las dos terceras partes de los integrantes del órgano superior normativo; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario.
+La Ley establecerá los medios de justificación del gasto y los plazos o modalidades de las entregas, así como los procedimientos para la fiscalización del origen y aplicación de los recursos que ejerzan los partidos políticos en Baja California; igualmente señalará las bases bajo las cuales se determinarán los límites o topes a las erogaciones de los partidos políticos en sus precampañas y campañas electorales.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+El procedimiento para la liquidación de los partidos políticos estatales que pierdan su registro y el destino de sus bienes y remanentes, se hará en los términos que establezca la Ley.
 
-Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
+El incumplimiento de las normas que regulen la comprobación de ingresos, egresos, topes de gastos y aportaciones, así como la liquidación de los partidos políticos, serán sancionados en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+APARTADO B. Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
 
-La Ley fijará el régimen de responsabilidades a que estarán sujetos los Consejeros Ciudadanos y los titulares de los órganos ejecutivos.
+La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Electoral y de Participación Ciudadana del Estado de Baja California, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+El Instituto Electoral y de Participación Ciudadana podrá convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales, cuando exista causa justificada para ello, y en los términos que disponga la Ley.
 
-La Ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto Estatal Electoral, así como las relaciones de mando entre éstos. Las relaciones de trabajo de los servidores del Instituto Estatal Electoral, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
+El Instituto Electoral y de Participación Ciudadana agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de los partidos políticos, impresión de materiales electorales, preparación de la Jornada Electoral, cómputos, otorgamiento de constancias de mayoría, y asignaciones por el principio de representación proporcional. Así como lo relativo a la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Además, tendrá a su cargo en los términos que señale esta Constitución y la Ley, la realización de los procesos de Plebiscito, y Referéndum.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+El Instituto Electoral y de Participación Ciudadana será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con un órgano normativo, un órgano directivo, órganos operativos, de vigilancia, técnicos y una Contraloría General.
 
-Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las Mesas Directivas de Casilla estarán integradas por ciudadanos.
+El órgano superior normativo, denominado Consejo General Electoral, se integrará por siete Consejeros Electorales electos por el Poder Legislativo, y representantes de los partidos políticos acreditados paritariamente, con voz pero sin voto, y un Secretario Fedatario nombrado mediante votación aprobatoria de las dos terceras partes de los integrantes del Consejo General Electoral a propuesta del Consejero Presidente.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Los Consejeros Electorales del Consejo General Electoral durarán en su cargo tres años; pudiendo ser considerados para la designación de un período inmediato en términos de Ley; no podrán tener empleo, cargo o comisión en la Administración Pública, salvo las actividades académicas o docentes. La retribución que perciban será determinada en la Ley, igual impedimento es aplicable al titular del órgano directivo del Instituto Electoral y de Participación Ciudadana.
 
-Los órganos directivos o ejecutivos serán la Dirección General del Instituto Estatal Electoral y la Dirección General de Registro Estatal de Electores del Instituto Estatal Electoral, quienes serán nombrados por el órgano superior normativo a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, mediante el procedimiento que señale la Ley.
+Los Consejeros Electorales designarán de entre ellos mismos, con la aprobación de las dos terceras partes de sus integrantes a quien fungirá como Consejero Presidente. En caso de que transcurridas tres rondas de votaciones ninguno de los Consejeros alcanzare la votación requerida, la elección se hará por mayoría simple de los Consejeros Electorales que integran el Consejo General Electoral. La renovación del Consejo General Electoral se realizará cada tres años, el Consejero Presidente durará en su encargo tres años pudiendo ser reelecto.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Los Consejeros Electorales del Consejo General Electoral no podrán ocupar cargos públicos de primer y segundo nivel en la Administración Pública Estatal o Municipal, sino transcurrido un año después de haberse separado del cargo.
 
-Los Consejeros Ciudadanos del órgano superior normativo deberán satisfacer los requisitos que señala la Ley, y serán electos de las propuestas que resulten de la convocatoria pública que formule el Congreso del Estado. La Ley señalará las reglas y el procedimiento correspondiente. Conforme a los mismos requisitos y procedimientos se designarán a los Consejeros Ciudadanos Supernumerarios, en orden de prelación. Asimismo, la Ley fijará los requisitos y el procedimiento para la elección de los Consejeros Ciudadanos que integren los Consejos Distritales Electorales.
+El órgano directivo será la Dirección General del Instituto Electoral y de Participación Ciudadana, a cargo de un titular, quien será nombrado por el órgano superior normativo a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, durará en su encargo cuatro años con la posibilidad de ser reelecto por una sola ocasión, mediante el procedimiento que señale la Ley; en el supuesto de que transcurridas dos rondas de votación, el aspirante propuesto no alcanzare la votación requerida, la designación se hará por mayoría simple del Consejo General Electoral en los términos que disponga la Ley. La Dirección General, contará con direcciones ejecutivas.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+La Contraloría General contará con autonomía técnica y de gestión, y tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto, así como la imposición de sanciones en los términos que determine la Ley.
 
-Los Consejeros Ciudadanos del Consejo Estatal Electoral durarán en su cargo tres años, pudiendo ser reelectos para un período inmediato; no podrán tener empleo, cargo o comisión en la Administración Pública, salvo las actividades académicas o docentes. La retribución que perciban será determinada en la Ley, igual impedimento es aplicable a los titulares de los órganos directivos o ejecutivos del Instituto Estatal Electoral.
+El titular de la Contraloría General del Instituto será designado por el Congreso del Estado por mayoría calificada a propuesta de instituciones públicas de educación superior, centros de investigación, y colegios de profesionistas del ramo contable debidamente registrados, en la forma y términos que determine la ley; en el supuesto de que transcurridas dos rondas de votación, ninguno de los aspirantes propuestos alcanzare la votación requerida, la designación se hará por mayoría absoluta del Pleno del Congreso.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+El Contralor durará cuatro años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente al Consejo General Electoral y mantendrá la coordinación técnica necesaria con el Órgano de Fiscalización Superior del Estado.
 
-No podrán ser Consejeros Ciudadanos del Consejo Estatal Electoral quienes hayan sido registrados como candidatos a cargos de elección popular durante los seis años anteriores a la publicación de la convocatoria respectiva o hayan ocupado cargos de dirigencia de algún partido político dentro de igual tiempo, a la fecha en que deban ser electos; así como los que hayan ocupado cargos de primer y segundo nivel en la Administración Pública Federal, Estatal o Municipal durante el año anterior al que deban ser electos.
+La fiscalización de las finanzas de los partidos políticos estará a cargo de un órgano técnico del Consejo General Electoral del Instituto, dotado de autonomía de gestión, cuyo titular será designado por el voto de las dos terceras partes del propio Consejo a propuesta del Consejero Presidente, que deberá satisfacer los requisitos que señala la Ley. De igual forma la ley desarrollará los procedimientos para la aplicación de sanciones por el Consejo General Electoral en esta materia.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Los Consejos Distritales son órganos operativos del Instituto Electoral y de Participación Ciudadana, que se integrarán por cinco Consejeros Electorales Distritales nombrados por las dos terceras partes de los integrantes del órgano superior normativo del cual dependen; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario nombrado mediante votación de las dos terceras partes de los Consejos Distritales a propuesta de cada uno de los Consejeros Presidentes, la Ley establecerá los requisitos que deberán reunir para su designación.
 
-Los Consejeros Ciudadanos del Consejo Estatal Electoral no podrán ocupar cargos públicos de primer y segundo nivel en la Administración Pública Estatal o Municipal, sino transcurrido un año después de haberse separado del cargo.
+Las Mesas Directivas de Casilla estarán integradas por ciudadanos. El órgano de vigilancia que determine la Ley se integrará mayoritariamente por representantes de los partidos políticos.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Los órganos técnicos y el órgano directivo dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
-El Secretario Fedatario, será nombrado por las dos terceras partes del Consejo Estatal Electoral a propuesta del Consejero Presidente. Los Consejos Distritales Electorales nombrarán a los respectivos Secretarios Fedatarios, mediante la misma votación calificada a propuesta de cada uno de los Consejeros Presidentes. En ambos casos la Ley establecerá los requisitos que deberán reunir para su designación.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+La Ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto Electoral y de Participación Ciudadana, así como las relaciones de mando entre éstos. Las relaciones de trabajo de los servidores del Instituto Electoral y de Participación Ciudadana del Estado de Baja California, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
 
 Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+La Ley fijará el régimen de responsabilidades a que estarán sujetos los servidores públicos del Instituto Electoral y de Participación Ciudadana; para estos efectos, se consideran servidores públicos del Instituto el Consejero Presidente, los Consejeros Electorales del Consejo General y de los Consejos Distritales, el Director General, el Contralor General, los directores de área, los jefes de departamento, los funcionarios y empleados, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto Electoral. Compete a la Contraloría General del Instituto Electoral, conocer de las responsabilidades administrativas que cometan los servidores públicos del Instituto, así como imponer las sanciones que disponga la Ley.
 
-Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de la fracción III del Artículo 68 de ésta Constitución. Además, este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía y concentración procesal.
+APARTADO C. Justicia Electoral.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de la fracción III del Artículo 68 de esta Constitución. Además, este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
 
 En materia electoral, la interposición de los medios de impugnación constitucionales y legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-La Ley electoral establecerá las faltas y sanciones administrativas, que se deriven de su incumplimiento o inobservancia. El Código Penal tipificará los delitos electorales y las penas que se deriven.
 
 ### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
 
@@ -317,7 +311,9 @@ b).- Haber obtenido por lo menos el cuatro por ciento de la votación estatal em
 
 c).- Haber obtenido el registro de la lista de candidatos a Diputados por el principio de representación proporcional;
 
-II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+
+II.- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello.
 
 En caso de que el número de partidos políticos o coaliciones sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
 
@@ -349,9 +345,9 @@ e).- Hechas las asignaciones anteriores, si aún existieren diputaciones por asi
 
 IV.- Ningún partido político o coalición podrá tener más de dieciséis Diputados por ambos principios, y
 
-(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004) (F. DE E., P.O. 7 DE MAYO DE 2004)
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
 
-V.- La asignación de los Diputados por el principio de representación proporcional que le corresponda a cada partido político o coalición, la hará el Instituto Estatal Electoral, en orden de prelación, de la lista que registre cada partido político o coalición, en los términos que señala la Ley.
+V.- La asignación de los Diputados por el principio de representación proporcional que le corresponda a cada partido político o coalición, la hará el Instituto Electoral y de Participación Ciudadana del Estado de Baja California, en los términos que señale la Ley.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -417,19 +413,31 @@ VII.- Los ministros de cualquier culto religioso, a menos que se separen en los 
 
 El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 20.
 
-El Instituto Estatal Electoral, de acuerdo con lo que establezca la Ley, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley.
-
-El otorgamiento de las constancias de mayoría y la asignación de Diputados de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante el Tribunal de Justicia Electoral, en los términos que señale la Ley.
+El Instituto Electoral y de Participación Ciudadana del Estado de Baja California, de acuerdo con lo que establezca la Ley, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
+El otorgamiento de las constancias de mayoría y la asignación de Diputados de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante el Tribunal de Justicia Electoral, en los términos que señale la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 21.
 
-El Congreso del Estado, designará a los Consejeros Ciudadanos del Consejo Estatal Electoral, mediante el voto de las dos terceras partes de sus integrantes, en la forma y términos que establezca la Ley.
+El Congreso del Estado, por mayoría calificada de sus integrantes, designará a los Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California. En el supuesto de que no se aprueben la totalidad de los nombramientos, y habiéndose agotado una segunda ronda de votación, la designación se hará por mayoría absoluta del Pleno del Congreso del Estado; la Ley establecerá la forma, términos y el procedimiento correspondiente, observando por lo menos, las siguientes bases:
+
+I.- Los consejeros electorales deberán satisfacer los requisitos que señala la Ley, y serán designados de las propuestas que resulten de la convocatoria pública que formule el Congreso del Estado;
+
+II.- Las instituciones de educación superior y centros de investigación en el Estado, los organismos empresariales y de la sociedad civil, podrán proponer al Congreso del Estado candidatos a ocupar el cargo de Consejero Electoral del Consejo General Electoral;
+
+III.- No podrán ser consejeros electorales del Consejo General Electoral, ni titular de los órganos de fiscalización del Instituto, quienes hayan sido registrados como candidatos a cargos de elección popular, representantes ante órganos electorales, o hayan ocupado cargos en órganos directivos o de decisión de algún partido político; así como los que hayan ocupado cargos de primer y segundo nivel en la Administración Pública Federal, Estatal o Municipal durante el año anterior al que deban ser electos, y
+
+IV.- Conforme a los mismos requisitos y procedimientos se designarán a los Consejeros Electorales Supernumerarios, en orden de prelación.
+
+La Ley fijará los requisitos y el procedimiento para la elección de los Consejeros Electorales que integren los Consejos Distritales Electorales.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
@@ -485,13 +493,13 @@ V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de 
 
 VI.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
 
-VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Instituto Estatal Electoral;
+VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Instituto Electoral y de Participación Ciudadana del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
 
-VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la declaración de munícipes electos que hubiere hecho el Instituto Estatal Electoral;
+VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la declaración de munícipes electos que hubiere hecho el Instituto Electoral y de Participación Ciudadana del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -619,11 +627,11 @@ II.- Al Gobernador;
 
 III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;
 
-IV.- A los Ayuntamientos;
+IV.- A los Ayuntamientos.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
 
-V.- Al Instituto Estatal Electoral, exclusivamente en materia electoral; y
+V.- Al Instituto Electoral y de Participación Ciudadana del Estado de Baja California, exclusivamente en materia electoral; y
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -847,9 +855,11 @@ Los Militares en servicio activo y los titulares de los cuerpos policíacos, no 
 
 Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 43.
 
-Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 115 de la Constitución General de la República.
+Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -1383,21 +1393,41 @@ El Tribunal de Justicia Electoral será la máxima autoridad jurisdiccional elec
 
 El Tribunal de Justicia Electoral, tendrá competencia para resolver, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral estatal.
 
-El Tribunal de Justicia Electoral funcionará en Pleno y en Unica Instancia. Sus sesiones de resolución serán públicas en los términos que establezca la Ley.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
-El Tribunal de Justicia Electoral resolverá en forma definitiva y firme en los términos de esta Constitución y de la Ley de la Materia, sobre:
+El Tribunal de Justicia Electoral funcionará en Pleno y en Salas en los términos que disponga la Ley. Las sesiones de resolución del Pleno serán públicas.
 
-I.- Las impugnaciones en las elecciones de Diputados, Munícipes y Gobernador;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+
+El Tribunal de Justicia Electoral resolverá en los términos de esta Constitución y de la Ley, sobre:
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
+
+I.- Las impugnaciones en las elecciones de Diputados, Munícipes y Gobernador.
+
+El Tribunal sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en las leyes;
 
 II.- Las impugnaciones de actos y resoluciones de la autoridad electoral local distintas a las señaladas en la fracción anterior;
 
 III.- Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado; y
 
-IV.- Las demás que señale la Ley.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
 
-La organización y competencia del Tribunal de Justicia Electoral, así como los procedimientos para la resolución de los asuntos de su competencia, y los mecanismos para fijar criterios obligatorios en la materia, serán los que determine la ley.
+IV.- La imposición de sanciones derivadas de las quejas o denuncias instruidas por el Consejo General Electoral, por actos o hechos emitidos por los partidos políticos, sus dirigentes, militantes o simpatizantes, a excepción de las derivadas en materia de fiscalización sobre el origen, monto y destino de sus recursos, y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2008)</small>
+
+V.- Las demás que señale la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+
+La organización y competencia del Tribunal de Justicia Electoral, así como los procedimientos para la resolución de los asuntos de su competencia, y los mecanismos para fijar criterios obligatorios en la materia, serán los que determine la Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE AGOSTO DE 2008)</small>
 
 El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su proyecto de presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión agregada al proyecto de presupuesto del Poder Judicial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE AGOSTO DE 2008)</small>
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
@@ -1525,7 +1555,9 @@ c).- No haber obtenido la constancia de mayoría respectiva, y
 
 III.- La asignación de regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
 
-a).- El Instituto Estatal Electoral determinará que partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+
+a).- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
 
 b).- Primeramente asignará un Regidor a cada Partido Político o coalición con derecho a la representación proporcional.
 
@@ -1943,7 +1975,7 @@ Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del S
 
 I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad y antecedentes en el servicio;
 
 III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
@@ -1953,19 +1985,33 @@ IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los d
 
 La Ley del Servicio Civil determinará cual es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 100.
 
-Los recursos económicos de que disponga el Gobierno del Estado y los Municipios así como sus respectivas administraciones públicas descentralizadas, se administrarán con eficiencia, eficacia y honradez, de acuerdo a las metas que estén destinados dentro de sus respectivos Presupuestos de Egresos.
+Los recursos económicos de que disponga el Gobierno del Estado y los Municipios así como sus respectivas administraciones públicas descentralizadas, se administrarán con eficiencia, eficacia y honradez, de acuerdo a las metas que estén destinados dentro de sus respectivos Presupuestos de Egresos. Los servidores públicos tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
 
 Las adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas y convocatorias públicas, para que se presenten libremente proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, garantías, formas de pago, oportunidad y demás circunstancias pertinentes.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+
 Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos, y demás elementos para acreditar la economía, eficiencia, eficacia y honradez que garanticen las mejores condiciones financieras, comerciales y de servicio.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
 
 Respecto a los bienes muebles del Estado deben implementarse y ejercerse estrictos sistemas de control para garantizar su uso racional y esmerada conservación, así como para operar las bajas, venta, permuta o donación de los mismos, cuando por su estado físico o cualidades técnicas ya no sean útiles o funcionales. Así también, cuando se hubieren extraviado, robado, accidentado o destruido, deberá darse debido cumplimiento a las disposiciones legales que resulten aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2008)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+
 El manejo de los recursos económicos del Estado se sujetará a las bases de este Artículo.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Octavo de la Constitución Política del Estado.
 
@@ -2194,6 +2240,34 @@ El Gobernador Provisional cesará el día en que, conforme a la presente Constit
 Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta Constitución se reducen a treinta días.
 
 Mexicali, B. Cfa., 15 de Agosto de 1953.
+
+LIC. EVARISTO BONIFAZ GOMEZ,
+
+Dip. Presidente,
+
+MIGUEL CALETTE ANAYA,
+
+Dip. Vicepresidente,
+
+DIPUTADOS:
+
+DR. FRANCISCO DUEÑAS MONTES
+
+AURELIO CORRALES JR.
+
+LIC. FRANCISCO H. RUIZ JR.
+
+LIC. ALEJANDRO LAMADRID JR.
+
+Dip. Secretario,
+
+CELEDONIO APODACA BARRERA,
+
+Dip. Prosecretario.
+
+En tal virtud y con fundamento en los artículos 7 siete del Decreto de 10 diez de noviembre de 1952 mil novecientos cincuenta y dos publicado en el Diario Oficial de la Federación (número 17 del Tomo CXCV), correspondiente al día 21 veintiuno del mismo mes y Primero Transitorio de la Constitución del Estado de Baja California, promúlguese por Bando Solemne y publíquese en el Periódico Oficial y en los lugares públicos.
+
+Dado en el Palacio del Poder Ejecutivo en Mexicali, Estado de Baja California a 16 dieciséis de agosto de 1953 mil novecientos cincuenta y tres.
 
 Dip. Presidente,
 
@@ -2681,14 +2755,6 @@ Las presentes reformas iniciarán su vigencia una vez que se realicen las adecua
 
 El Gobierno del Estado deberá realizar las acciones necesarias, a efecto de transferir en ejercicio de plenitud, la prestación de los servicios y funciones de naturaleza municipal, que esta Constitución atribuye a favor de los ayuntamientos, dentro del término de un año, contado a partir de la entrada en vigor de las presentes reformas.
 
-P.O. 22 DE JUNIO DEL 2001.
-
-PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado.
-
-SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2001, el nombramiento de los Magistrados que iniciarán su cargo a partir del primero de noviembre del 2001.
-
 P.O. 14 DE SEPTIEMBRE DE 2001.
 
 PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
@@ -2696,6 +2762,14 @@ PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Es
 SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
+
+P.O. 22 DE JUNIO DEL 2001.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2001, el nombramiento de los Magistrados que iniciarán su cargo a partir del primero de noviembre del 2001.
 
 P.O. 7 DE DICIEMBRE DE 2001.
 
@@ -2868,3 +2942,47 @@ PRIMERO.- Una vez aprobada la presente reforma por el Poder Legislativo envíese
 SEGUNDO.- Luego de haber obtenido el voto aprobatorio de los Ayuntamientos, hágase la declaratoria correspondiente.
 
 TERCERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE AGOSTO DE 2008.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Consejero Presidente y los Consejeros Ciudadanos del Instituto Estatal Electoral del Estado que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo hasta que concluya el periodo para el que fueron designados.
+
+TERCERO.- A efecto de que el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado, este integrado por siete consejeros, el Congreso del Estado deberá nombrar a la persona que cubra el cargo que correspondía al ciudadano Tonatiuh Guillén López, quien fungirá en el cargo el tiempo que le faltare por cumplir a este último. Bajo el siguiente procedimiento:
+
+a) Dentro de los quince días siguientes a la entrada en vigor de este Decreto, emitirá convocatoria pública a ocupar el cargo de Consejero Electoral, dirigida a los ciudadanos residentes en el Estado, a las instituciones de educación superior y centros de investigación en el Estado, a organismos empresariales, y de la sociedad civil, publicándola en el Periódico Oficial del Estado y en dos diarios de mayor circulación en la entidad;
+
+b) La convocatoria deberá contener, por lo menos: el plazo de inscripción para los ciudadanos, requisitos a cubrir por los aspirantes, procedimiento para comparecencia; el plazo en que las instituciones de educación superior y centros de investigación en el Estado, organismos empresariales, y de la sociedad civil, podrán proponer al Congreso del Estado hasta dos ciudadanos que consideren con mayor aptitud para el ejercicio de la función pública electoral;
+
+c) Corresponderá a la Comisión de Legislación y Puntos Constitucionales analizar y dictaminar sobre las solicitudes presentadas, para el cargo de Consejero Electoral;
+
+d) El Pleno del Congreso aprobará el nombramiento, a más tardar treinta días posteriores al cierre de inscripción para Consejero Electoral; y
+
+e) En el supuesto de que no se apruebe el nombramiento, y habiéndose agotado una segunda ronda de votación, la designación se hará por mayoría absoluta del Pleno del Congreso del Estado.
+
+QUARTO (SIC).- El personal que actualmente labora en el Instituto Estatal Electoral, en sus diferentes órganos que lo integran, quedan adscritos al Instituto Electoral y de Participación Ciudadana de acuerdo a su nueva conformación, conservando sus derechos y obligaciones conforme a lo previsto en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California y demás disposiciones legales aplicables.
+
+QUINTO.- En tanto se hacen las reformas a la Ley de la materia, el Consejo General Electoral y la Dirección General del Instituto Electoral y de Participación Ciudadana, ejercerán las competencias y funciones que actualmente les señala la Ley de Instituciones y Procesos Electorales para el Estado de Baja California, al Consejo Estatal Electoral y a la Dirección General del Instituto Estatal Electoral, quien también ejercerá las relativas al Registro Estatal de Electores.
+
+SEXTO.- Los archivos, bienes y recursos materiales de todos y cada uno de los órganos que conformaban el Instituto Estatal Electoral, pasarán al patrimonio del Instituto Electoral y de Participación Ciudadana del Estado.
+
+SEPTIMO.- La Contraloría General del Instituto a que se refiere el Apartado B del artículo 5 del presente Decreto, entrará en funcionamiento a partir del primero de enero del año 2009. El Congreso del Estado deberá designar al titular respectivo.
+
+OCTAVO.- El Congreso del Estado deberá adecuar la legislación secundaria, a más tardar dentro de los noventa días siguientes a la entrada en vigor de las presentes reformas.
+
+NOVENO.- Los medios de impugnación, denuncias y quejas que a la entrada en vigor del presente Decreto se encuentren en trámite y las que se presenten en forma posterior pero antes de la reforma a la Ley de la materia, deberán resolverse conforme a las disposiciones vigentes al momento de su interposición.
+
+DÉCIMO.- Se derogan, en lo conducente, todas las disposiciones que se opongan a las presentes reformas.
+
+DÉCIMO PRIMERO.- Las menciones que en otras leyes se hagan al Instituto Estatal Electoral, se entenderán hechas al Instituto Electoral y de Participación Ciudadana.
+
+DÉCIMO SEGUNDO.- Si a la entrada en vigor del presente decreto estuviera vacante el cargo de Director General del Instituto Estatal Electoral, el Consejo General Electoral procederá a designar al Director General del Instituto Electoral y de Participación Ciudadana, bajo el siguiente procedimiento:
+
+I. El Consejero Presidente propondrá al aspirante al cargo de Director General del Instituto Electoral y de Participación Ciudadana, y será designado mediante la votación aprobatoria de las dos terceras partes de los integrantes del mismo Consejo;
+
+II. En el supuesto de que transcurridas dos rondas de votación, el aspirante propuesto por el Consejero Presidente no alcanzaré la votación requerida en la fracción anterior, se procederá a integrar una terna con candidatos propuestos por cada uno de los Presidentes de las Comisiones Permanentes del Consejo General a que se refiere el actual artículo 121 de la Ley de Instituciones y Procesos Electorales del Estado de Baja California. La designación en este caso se hará por mayoría simple del Consejo General.
+
+III. Corresponderá en todos los casos, a la Comisión de Reglamentos y Asuntos Jurídicos a que se refiere la fracción II del artículo 121 de la Ley de Instituciones y Procesos Electorales, dictaminar sobre los requisitos de elegibilidad de los candidatos que se propongan, quienes deberán reunir los requisitos referidos en el artículo 130 de la Ley.
+
+IV. El Director General del Instituto Electoral y de Participación Ciudadana, que se elija bajo el procedimiento de este artículo, estará en funciones cuatro años, y en su caso, hasta que el Consejo General Electoral, designe a un nuevo Director General.
