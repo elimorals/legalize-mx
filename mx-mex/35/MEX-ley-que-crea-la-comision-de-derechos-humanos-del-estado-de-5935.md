@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-la-comision-de-derechos-humanos-del-estado-de-5935
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-20"
-last_updated: "2006-09-26"
+last_updated: "2008-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY QUE CREA LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 14 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 20 de octubre de 1992.
 
@@ -796,3 +798,49 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 14 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los quince días hábiles siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley que Crea la Comisión de Derechos Humanos del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 20 de octubre de 1992, será abrogada al entrar en vigor la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales y reglamentarias que se opongan a los preceptos de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Consultivo de la Comisión, deberá emitir el nuevo Reglamento Interno del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, el cual será publicado en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Consultivo, formulará los lineamientos o disposiciones de funcionamiento y organización de la Comisión, en tanto emite el nuevo Reglamento Interno.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se expide el reglamento a que se refiere el transitorio anterior, se aplicarán las disposiciones reglamentarias en vigor, que no sean contrarias a las previsiones de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos y trámites iniciados conforme a las disposiciones de la Ley que Crea la Comisión de Derechos Humanos del Estado de México, se sustanciarán y resolverán conforme a la misma; y en lo que fuere procedente, y resulte en beneficio de los interesados, seran aplicables los preceptos de la presente Ley y los lineamientos o disposiciones que determine el Consejo Consultivo.
+
+###### ARTÍCULO OCTAVO.
+
+El Consejo Consultivo del Organismo, emitirá las disposiciones que regulen el sistema de servicio profesional de carrera de la Comisión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley, el cual deberá ser publicado en el órgano de difusión de la Comisión.
+
+###### ARTÍCULO NOVENO.
+
+El Consejo Consultivo, realizará las adecuaciones que sean conducentes a la Declaración de Principios Éticos de los Servidores Públicos del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley, las cuales deberán ser publicadas en el órgano de difusión de la Comisión.
+
+###### ARTÍCULO DÉCIMO.
+
+El Comisionado y los miembros del Consejo Consultivo, cuya designación se realizó al amparo de la Ley que Crea la Comisión de Derechos Humanos del Estado de México, permanecerán en su encargo plenamente por el periodo para el que fueron electos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los servidores públicos de la Comisión, que recibieron sus nombramientos en términos de la Ley que Crea la Comisión de Derechos Humanos del Estado de México, permanecerán en su cargo y serán reconocidos todos sus derechos laborales.
