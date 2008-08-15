@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2008-08-07"
+last_updated: "2008-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -347,7 +347,9 @@ Las penas y medidas de seguridad se impondrán con sus modalidades, en los térm
 
 Las penas que se pueden imponer a las personas físicas, son:
 
-I. Prisión;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2008)</small>
+
+I. Prisión: por tiempo determinado o vitalicia;
 
 II. Tratamiento en libertad o semilibertad personal;
 
@@ -405,11 +407,11 @@ VIII. Vigilancia de la autoridad.
 
 ### CAPÍTULO IV. PRISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 48.
 
-La prisión consiste en la privación de la libertad corporal del sujeto activo del delito, hasta por setenta años, que será compurgada en el lugar que designe el órgano ejecutor de las sanciones.
+La prisión consiste en la privación de la libertad corporal del sujeto activo del delito, hasta por setenta años o vitalicia, que será compurgada en el lugar que designe el órgano ejecutor de las sanciones. Sólo en los casos en que la Ley expresamente lo autorice, se podrá imponer prisión vitalicia.
 
 En toda pena de prisión se computará el tiempo de detención y de prisión preventiva. Tratándose de dos o más penas de prisión, impuestas cada una en sentencias diferentes, se cumplirán invariablemente de manera sucesiva.
 
@@ -729,17 +731,17 @@ Al reincidente se le aplicará la sanción que corresponda por el último delito
 
 ### CAPÍTULO V. CONCURSO DE DELITOS Y DELITO CONTINUADO
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 88.
 
-En caso de concurso real o material se impondrá la sanción correspondiente al delito que tenga prevista la mayor, a la cual podrán sumarse las sanciones de los demás ilícitos, sin que exceda de setenta años de prisión.
+En caso de concurso real o material, se impondrá la sanción correspondiente al delito que tenga prevista la mayor, a la cual podrán sumarse las sanciones de los demás ilícitos, sin que excedan de setenta años de prisión; salvo los delitos que se sancionen con prisión vitalicia.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 89.
 
-Tratándose de concurso ideal se aplicará la sanción correspondiente al delito que merezca la mayor, la que podrá aumentarse hasta por la mitad del máximo correspondiente a dicho ilícito, sin que exceda de setenta años de prisión.
+Tratándose de concurso ideal, se aplicará la sanción correspondiente al delito que merezca la mayor, la que podrá aumentarse hasta por la mitad del máximo correspondiente a dicho ilícito, sin que exceda de setenta años de prisión; salvo los delitos que se sancionen con prisión vitalicia.
 
 ###### Artículo 90.
 
@@ -1019,21 +1021,21 @@ Comete el delito de homicidio quien priva de la vida a otra persona.
 
 Al responsable de homicidio doloso que no tenga señalada una sanción especial en este código se le impondrán de diez a veinte años de prisión y multa hasta de cien días de salario.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 130.
 
-Al responsable de homicidio calificado se le impondrán de veinte a setenta años de prisión y multa hasta de mil días de salario.
+Al responsable de homicidio calificado, se le impondrán de veinte a setenta años de prisión y multa hasta de mil días de salario; si además en la comisión del homicidio se actualizan cuatro o más de las circunstancias agravantes señaladas en el artículo 144 de este Código, se le impondrán de treinta años a prisión vitalicia.
 
 ###### Artículo 131.
 
 Cuando en la comisión de un homicidio intervengan dos o más sujetos y no constare quién o quiénes son los homicidas, a todos se les impondrán de diez a catorce años de prisión si el delito fuere simple; pero si se tratare de homicidio calificado, la sanción será de quince a treinta años de prisión y multa, en ambos casos, hasta de quinientos días de salario.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 132.
 
-A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo esa relación, se le impondrán de diez a setenta años de prisión y multa hasta de quinientos días de salario.
+A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo esa relación, se le impondrán de diez a setenta años de prisión y multa hasta de quinientos días de salario; si además en la comisión del homicidio se actualizan cuatro o más de las circunstancias agravantes señaladas en el artículo 144 de este Código, se le impondrán de treinta años a prisión vitalicia.
 
 ###### Artículo 133.
 
@@ -1267,6 +1269,8 @@ Además de las penas previstas, se impondrá privación del derecho para ejercer
 
 ### CAPÍTULO III. SECUESTRO
 
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2008)</small>
+
 ## TÍTULO III. DELITOS CONTRA LA LIBERTAD
 
 ### CAPÍTULO IV. RAPTO
@@ -1287,27 +1291,25 @@ A quien obligue a otro a prestar servicios laborales, se le impondrán de uno a 
 
 ###### Artículo 163.
 
-Se impondrán de veinte a cincuenta años de prisión y multa hasta de mil días de salario a quien prive de su libertad a otro cuando se pretenda:
+A quien prive de su libertad a otro, se le sancionará:
 
-I. Obtener rescate;
+l. Con veinte a cincuenta años de prisión y multa hasta de mil días de salario, cuando se pretenda:
 
-II. Causar daño o perjuicio al secuestrado;
+a). Obtener rescate;
 
-III. Causar daño o perjuicio a terceros relacionados con el secuestrado; o
+b). Causar daño o perjuicio al secuestrado, o a terceros relacionados con el secuestrado; o
 
-IV. Que la autoridad haga o deje de hacer un acto de cualquier índole.
+c). Que la autoridad haga o deje de hacer un acto de cualquier índole.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+II. La prisión será de treinta años a vitalicia cuando:
 
-A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Ejecución de Sanciones para el Estado de Veracruz de Ignacio de la Llave.
+a). La víctima del delito sea mujer, menor de edad, mayor de sesenta años o por cualquier causa no pueda resistir el ilícito; padezca alguna enfermedad que requiera el suministro de medicamentos o de tratamiento médico que no deba de ser suspendido.
 
-> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2004)</small>
+b). El sujeto activo del delito sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o readaptación social; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares; cometa el delito en pandilla o asociación delictuosa o con la intervención de inimputables, o mutile el cuerpo de la víctima.
 
-La pena de prisión podrá ser de hasta setenta años cuando:
+III. La prisión será de cincuenta años a vitalicia cuando se prive de la vida a la víctima del delito.
 
-a) La víctima del delito sea menor de edad, mayor de sesenta años o por cualquier causa no pueda resistir el ilícito, padezca alguna enfermedad que requiera el suministro de medicamentos o tratamiento que sean suspendidos, o se trate de mujer embarazada; y
-
-b) El activo sea o haya sido, o se ostente, sin serlo, integrante de alguna institución policiaca o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o readaptación social; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con el pasivo o con sus familiares; cometa el delito en pandilla o asociación delictuosa o con la intervención de inimputables o mutile cualquier parte del cuerpo de la víctima.
+A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Ejecución de Sanciones para el Estado de Veracruz de Ignacio de la Llave; y su tratamiento o internamiento penitenciario se ajustará estrictamente a lo que dicho ordenamiento disponga en el caso específico de la comisión de este ilícito.
 
 > <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
 
@@ -3288,3 +3290,9 @@ G.O. 7 DE AGOSTO DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 15 DE AGOSTO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
