@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-imposicion-de-multas-por-infraccion-a-11583"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-24"
-last_updated: "2005-06-01"
+last_updated: "2008-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11583&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-03-19"
 
 REGLAMENTO PARA LA IMPOSICION DE MULTAS POR INFRACCION A LAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y SUS REGLAMENTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA IMPOSICION DE MULTAS POR INCUMPLIMIENTO DE LAS OBLIGACIONES QUE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y SUS REGLAMENTOS ESTABLECEN A CARGO DE LOS PATRONES, PUBLICADO EN EL D.O.F. DE 15 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 24 de marzo de 1998.
 
@@ -312,3 +314,11 @@ SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, 
 TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 15 DE AGOSTO DE 2008.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y sus reglamentos, publicado en el Diario Oficial de la Federación el 24 de marzo de 1998 y las demás disposiciones reglamentarias o administrativas que se opongan a este Reglamento.
+
+Tercero. Los asuntos que se encuentren en trámite iniciados con base en el reglamento que se abroga en virtud del transitorio anterior, deberán concluirse conforme a lo previsto en él y en las demás disposiciones que resulten aplicables.
