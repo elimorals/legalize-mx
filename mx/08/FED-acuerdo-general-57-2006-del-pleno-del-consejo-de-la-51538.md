@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-08-05"
+last_updated: "2008-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -275,7 +275,9 @@ XVI.- DECIMOSEXTO CIRCUITO:
 
 1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo, dos en materias civil y de trabajo y uno en materia penal con residencia en Guanajuato, Guanajuato.
 
-2.- Dos tribunales unitarios con sede en Guanajuato.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 45/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2008)</small>
+
+2.- Tres tribunales unitarios con sede en Guanajuato.
 
 > <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 35/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2008)</small>
 
@@ -944,3 +946,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Nezahualcóyotl, con motivo del inicio de funciones del Juzgado Decimosegundo de Distrito en el Estado de México, con residencia en Nezahualcóyotl.
+
+D.O.F. 15 DE AGOSTO DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Tribunales Unitarios del Decimosexto Circuito, con residencia en Guanajuato, Guanajuato.
+
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
