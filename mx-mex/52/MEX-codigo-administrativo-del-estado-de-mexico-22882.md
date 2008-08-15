@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2008-08-08"
+last_updated: "2008-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE AGOSTO DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -913,6 +913,8 @@ El sistema estatal de salud podrá auxiliarse de los organismos nacionales e int
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
+> <small>(REFORMADO, G.G. 15 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 2.
 
 22.- La coordinación del sistema estatal de salud estará a cargo de la Secretaría de Salud, quien tendrá las atribuciones siguientes:
@@ -1469,7 +1471,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ###### Artículo 3.
 
-1.- Este Libro tiene por objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, el ejercicio profesional y el mérito civil; así como promover e impulsar la investigación científica y tecnológica, la cultura, el deporte y la atención a la juventud.
+1.- Este Libro tiene por objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, el ejercicio profesional y el mérito civil; así como promover e impulsar la investigación científica y tecnológica, la cultura, la educación ambiental, el deporte y la atención a la juventud.
 
 ###### Artículo 3.
 
@@ -1481,7 +1483,9 @@ II. Asegurar que quienes ejerzan una profesión cuenten con los conocimientos ne
 
 III. Impulsar el desarrollo del Estado a través de la investigación científica y tecnológica;
 
-IV. Promover la cultura, el deporte y la atención a la juventud;
+> <small>(REFORMADA, G.G. 15 DE AGOSTO DE 2008)</small>
+
+IV. Promover la cultura, el deporte, la educación ambiental, y la atención a la juventud;
 
 V. Reconocer públicamente a quienes por su conducta, actos u obras lo merezcan.
 
@@ -1581,7 +1585,9 @@ XX. Vigilar el cumplimiento de las disposiciones jurídicas, políticas y planes
 
 XXI. Imponer sanciones;
 
-XXII. Publicar en el periódico oficial Gaceta del Gobierno, los planes y programas de estudios que la autoridad educativa federal determine conforme a lo establecido por la Ley General.
+> <small>(REFORMADA, G.G. 15 DE AGOSTO DE 2008)</small>
+
+XXII. Propiciar, en coordinación con las autoridades federales y municipales, programas de educación ambiental en los planteles educativos del Estado de México, buscando que los contenidos teóricos de los programas de estudio se vinculen con proyectos prácticos, que fomenten la conciencia ambiental de los estudiantes.
 
 ###### Artículo 3.
 
@@ -1601,7 +1607,11 @@ VI. Promover y apoyar otro tipo de actividades educativas de interés a la socie
 
 VII. Promover la gestión de recursos para contribuir a la atención de las necesidades educativas, sin perjuicio de la participación directa de otras instancias;
 
-VIII. Promover y apoyar los programas y acciones de capacitación y difusión dirigidas a los padres de familia y tutores, para que orienten y guíen adecuadamente la educación de sus hijos o pupilos, así como para fortalecer la integración familiar.
+VIII. Promover y apoyar los programas y acciones de capacitación y difusión dirigidas a los padres de familia y tutores, para que orienten y guíen adecuadamente la educación de sus hijos o pupilos, así como para fortalecer la integración familiar;
+
+> <small>(ADICIONADA, G.G. 15 DE AGOSTO DE 2008)</small>
+
+IX. Implementar, en coordinación con las autoridades federales y estatales, programas de educación ambiental en las comunidades de los municipios, buscando se vinculen con proyectos prácticos, que fomenten la conciencia ambiental de sus habitantes.
 
 ### CAPITULO CUARTO. Del Registro Estatal de Educación
 
@@ -10808,3 +10818,9 @@ publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 15 DE AGOSTO DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
