@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2008-06-18"
+last_updated: "2008-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 2008.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1402,11 +1402,13 @@ El Congreso o una sola de las Cámaras, cuando se trate de asunto exclusivo de e
 
 Las dos Cámaras residirán en un mismo lugar y no podrán trasladarse a otro sin que antes convengan en la traslación y en el tiempo y modo de verificarla, designando un mismo punto para la reunión de ambas. Pero si conviniendo las dos en la traslación, difieren en cuanto al tiempo, modo y lugar, el Ejecutivo terminará la diferencia, eligiendo uno de los dos extremos en cuestión. Ninguna Cámara podrá suspender sus sesiones por más de tres días, sin consentimiento de la otra.
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2008)</small>
 
 ###### Art. 69.
 
-A la apertura de Sesiones Ordinarias del Primer Período del Congreso asistirá el Presidente de la República y presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del país. En la apertura de las sesiones extraordinarias del Congreso de la Unión, o de una sola de sus Cámaras, el Presidente de la Comisión Permanente, informará acerca de los motivos o razones que originaron la convocatoria.
+En la apertura de Sesiones Ordinarias del Primer Periodo de cada año de ejercicio del Congreso, el Presidente de la República presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del país. En la apertura de las sesiones extraordinarias del Congreso de la Unión, o de una sola de sus cámaras, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
+
+Cada una de las Cámaras realizará el análisis del informe y podrá solicitar al Presidente de la República ampliar la información mediante pregunta por escrito y citar a los Secretarios de Estado, al Procurador General de la República y a los directores de las entidades paraestatales, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
 ###### Art. 70.
 
@@ -2094,13 +2096,21 @@ Todos los reglamentos, decretos, acuerdos y órdenes del Presidente deberán est
 
 Los Secretarios del Despacho, luego que esté abierto el periodo de sesiones ordinarias, darán cuenta al Congreso del estado que guarden sus respectivos ramos.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2008)</small>
 
-Cualquiera de las Cámaras podrá citar a los Secretarios de Estado, al Procurador General de la República, así como a los directores y administradores de los organismos descentralizados federales o de las empresas de participación estatal mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
+Cualquiera de las Cámaras podrá convocar a los Secretarios de Estado, al Procurador General de la República, a los directores y administradores de las entidades paraestatales, así como a los titulares de los órganos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
 
 > <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los diputados, y de la mitad, si se trata de los Senadores, tienen la facultad de integrar comisiones para investigar el funcionamiento de dichos organismos descentralizados y empresas de participación estatal mayoritaria. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo Federal.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 2008)</small>
+
+Las Cámaras podrán requerir información o documentación a los titulares de las dependencias y entidades del gobierno federal, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a 15 días naturales a partir de su recepción.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 2008)</small>
+
+El ejercicio de estas atribuciones se realizará de conformidad con la Ley del Congreso y sus reglamentos.
 
 ### CAPITULO IV.
 
@@ -5489,6 +5499,12 @@ Décimo. La Federación creará un fondo especial para el financiamiento de las 
 Décimo Primero. En tanto entra en vigor el sistema procesal acusatorio, los agentes del Ministerio Público que determine la ley podrán solicitar al juez el arraigo domiciliario del indiciado tratándose de delitos graves y hasta por un máximo de cuarenta días.
 
 Esta medida será procedente siempre que sea necesaria para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia.
+
+D.O.F. 15 DE AGOSTO DE 2008.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
 
 ###### ARTICULO PRIMERO.
 
