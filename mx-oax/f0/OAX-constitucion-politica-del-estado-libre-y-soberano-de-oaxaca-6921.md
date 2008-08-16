@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2008-07-26"
+last_updated: "2008-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2008.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -511,9 +511,9 @@ Son ciudadanos del Estado de Oaxaca los hombres y mujeres que hayan nacido en su
 
 Son obligaciones de los ciudadanos del Estado:
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-I.- Votar en las elecciones populares;
+I.- Votar en las elecciones populares y participar en los procesos de plebiscito y referéndum;
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -537,7 +537,9 @@ V.- Formar parte del Ejército Nacional para la defensa del territorio, de las i
 
 Son prerrogativas de los ciudadanos hombres y mujeres:
 
-I.- Votar en las elecciones populares.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+I.- Votar en las elecciones populares y participar en los procesos de plebiscito y referéndum.
 
 II.- Ser votados para los cargos de elección popular y ser promovidos a cualquier empleo o comisión conforme a las leyes.
 
@@ -561,15 +563,19 @@ A. DE LAS ELECCIONES
 
 Las elecciones son actos de interés público. Su organización y desarrollo estarán a cargo del órgano electoral.
 
-I.- Las elecciones de Diputados Locales, Gobernador del Estado y Concejales de los Ayuntamientos, según cada caso, serán concurrentes con las elecciones federales;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
+I.- Las elecciones ordinarias de Diputados Locales, Gobernador del Estado y de los integrantes de los ayuntamientos por el régimen de partidos políticos, se celebrarán el primer domingo de julio del año que corresponda;
 
-II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos; establecerá los mecanismos para permitir la plena y total participación de las mujeres en dichos procesos electorales y así, garantizar su derecho a votar y ser votadas en condiciones de igualdad frente a los varonos (sic) y sancionará su inobservancia;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2o. Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca; establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada en condiciones de igualdad con el de los varones y sancionará su contravención;
 
 III.- La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que deban imponerse;
 
-IV.- La les establecerá y reglamentará los medios de participación ciudadana; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+IV.- La ley reglamentará los procesos de plebiscito y referéndum en los casos en que éstos procedan;
 
 V.- Las mesas directivas de casilla estarán integradas por ciudadanos, en los términos previstos por la ley.
 
@@ -577,23 +583,65 @@ B. DE LOS PARTIDOS POLITICOS
 
 Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales estará determinada y garantizada por la ley.
 
-I.- Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-II.- Los partidos políticos recibirán, de acuerdo con las disponibilidades presupuestales, en forma equitativa, financiamiento público para su sostenimiento y contarán, durante los procesos electorales, con apoyos para sus actividades de promoción de candidaturas a cargos de elección popular y de fomento del sufragio. Los fondos del financiamiento público, bajo ninguna circunstancia podrán aplicarse a la promoción de precandidatos dentro de los procedimientos internos de selección;
+I.- Solo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, a los Partidos Políticos se les reconoce el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2o. Apartado A, fracciones III y VII, de la Constitución Federal.
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la Ley;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+II.- Los partidos políticos recibirán en forma equitativa financiamiento público para el sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Los fondos del financiamiento público, bajo ninguna circunstancia podrán aplicarse a la promoción de precandidatos dentro de los procedimientos internos de selección;
 
 III.- Los partidos políticos registrarán fórmulas completas de candidatos a diputados según los principios de mayoría relativa y de representación proporcional. La ley establecerá los medios para garantizar una efectiva equidad de género e impedir la discriminación;
 
-IV.- La ley establecerá las reglas a las que se sujetarán el financiamiento, el acceso equitativo a los medios de información y las campañas electorales.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-La contratación de los medios de información, se hará por conducto del Instituto Estatal Electoral, en los términos que la ley establezca;
+IV.- La ley establecerá las reglas a las que se sujetará el financiamiento.
 
-V.- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, los montos máximos de las aportaciones pecuniarias de sus militantes y simpatizantes, así como los procedimientos para el control y vigilancia de origen y uso de todos los recursos con que cuenten, estableciendo las sanciones por el incumplimiento de estas disposiciones y de los reglamentos correspondientes;
+Para los fines electorales en la Entidad, el Instituto Federal Electoral asignará los tiempos de acceso que correspondan a los partidos políticos nacionales y locales en las estaciones de radio y canales de televisión de cobertura en la entidad, en los términos establecidos en el artículo 41 Base III Apartado B de la Constitución Federal y la Ley;
 
-VI.- El periodo de campaña electoral para Gobernador, tendrá una duración máxima de noventa días, para Diputados sesenta días y para Concejales Municipales por el régimen de partidos políticos, treinta días;
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-VII.- La duración de los procesos internos de los partidos políticos para la selección de precandidatos, será regulada por la ley, considerando los plazos para el registro formal de candidaturas; y
+V.- Los partidos políticos en ningún momento podrán contratar o adquirir, por si o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-VIII.- Se prohíbe el uso de propaganda electoral que impacte negativamente al medio ambiente. Las modalidades para el uso de la propaganda electoral, serán reguladas por las leyes.
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+
+Queda prohibida la transmisión en territorio estatal de mensajes contratados en otras Entidades Federativas o en el extranjero;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+VI.- En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+VII.- Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de los poderes federales y estatales, los municipios y de cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
+La Ley sancionará las infracciones a lo dispuesto en esta disposición;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+VIII.- La ley fijará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus simpatizantes, cuya suma total, no excederá el diez por ciento del tope de gastos de campaña determinado para la última elección de Gobernador; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establezcan las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+IX.- La Ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes sean adjudicados al patrimonio estatal;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+X.- El periodo de campaña electoral para Gobernador, tendrá una duración máxima de noventa días, para diputados sesenta días y para concejales municipales por el régimen de partidos políticos treinta días;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+XI.- Las precampañas de los partidos políticos para la selección de precandidatos, en ningún caso podrán durar más de las dos terceras partes de las respectivas campañas electorales;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+XII.- Se prohíbe el uso de propaganda electoral que impacte negativamente al medio ambiente.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+Las modalidades para el uso de la propaganda electoral, serán reguladas por las leyes.
 
 Las leyes respectivas sancionarán la contravención a las disposiciones contenidas en este artículo.
 
@@ -601,17 +649,39 @@ C. DEL INSTITUTO ELECTORAL
 
 La organización y desarrollo de las elecciones, es una función estatal que realiza el organismo público de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones, con personalidad jurídica y patrimonio propios, denominado Instituto Estatal Electoral. El ejercicio de sus funciones se sujetará a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+El Instituto Estatal Electoral es la autoridad administrativa competente para celebrar los convenios a que se refieren los artículos 41 apartado D, fracción V, párrafo doce y 116 fracción IV inciso d) de la Constitución Política de los Estados Unidos Mexicanos.
+
 I.- El Instituto Estatal Electoral será autoridad en la materia y profesional en su desempeño. Su estructura contará con órganos de dirección, ejecutivos, técnicos, de vigilancia y de fiscalización. En la integración de sus diversos órganos, se dispondrá de personal profesionalizado o capacitado en la materia;
 
-II.- El Órgano Superior de dirección es el Consejo General, el cual estará integrado por un consejero presidente y seis consejeros electorales, con derecho a voz y voto, elegidos por el Congreso del Estado, mediante el voto aprobatorio de la dos terceras partes de sus integrantes; así como por representantes nombrados por los partidos políticos, en los términos que disponga la ley;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-III.- El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las facultades relativas a la capacitación electoral, la educación cívica, la impresión de materiales electorales, la preparación de la jornada electoral, la realización de cómputos, la calificación, y en su caso, la declaración de validez de las elecciones y el otorgamiento de constancias. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley; y
+II.- El Órgano Superior de Dirección es el Consejo General, el cual estará integrado por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, elegidos por el Congreso del Estado, mediante el voto aprobatorio de las dos terceras partes de sus integrantes: los representantes del Poder Legislativo con derecho a voz y voto, así como por los representantes nombrados por los partidos políticos, en los términos que disponga la Ley;
 
-IV.- El Instituto Estatal Electoral tendrá a su cargo las funciones de fiscalización de los recursos estatales otorgados a los partidos políticos. Para tal efecto, podrá celebrar convenios de colaboración.
+III.- El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las facultades relativas a la capacitación electoral, la educación cívica, la impresión de materiales electorales, la preparación de la jornada electoral, la realización de cómputos, la calificación, y en su caso, la declaración de validez de las elecciones y el otorgamiento de constancias. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley; y (sic)
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+IV.- El Instituto contará con una Contraloría Interna que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización y vigilancia de los ingresos y egresos del Instituto, de conformidad con lo establecido en la Ley.
+
+El Titular de la Contraloría Interna del Instituto Estatal Electoral será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes en la forma y términos que determine la ley. Durará tres años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+V.- La fiscalización de los recursos estatales otorgados a los partidos políticos estará a cargo de un órgano técnico de fiscalización del Consejo General del Instituto Estatal Electoral, dotado de autonomía de gestión, cuyo titular será designado por el voto de las dos terceras partes del propio Consejo a propuesta del Consejero Presidente. La Ley desarrollará la integración y funcionamiento de dicho órgano, así como los procedimientos para la aplicación de sanciones por el Consejo General.
+
+La Fiscalización de los recursos de los partidos políticos que realice el Instituto Estatal Electoral, no estará limitada por los secretos bancario, fiduciario y fiscal. Para el ejercicio de esta facultad y superar la limitación que refiere este párrafo, el Instituto podrá solicitarla a través del órgano técnico de fiscalización del Instituto Federal Electoral.
 
 D. DE LOS MEDIOS DE IMPUGNACION
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán el Instituto Estatal Electoral y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los proceso electorales y garantizará que los actos y resoluciones electorales, se sujeten invariablemente a los principios de legalidad y constitucionalidad. La ley fijará los plazos para promover los medios de impugnación.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+La ley establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Así mismo se señalarán los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales y parciales de votación.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+En materia electoral la interposición de los medios de impugnación, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
 E. DEL TRIBUNAL ESTATAL ELECTORAL
 
@@ -624,6 +694,10 @@ II.- Las resoluciones del Tribunal serán definitivas e inatacables en el ámbit
 III.- El Tribunal Estatal Electoral está integrado por tres magistrados propietarios y tres suplentes, que serán elegidos por la Legislatura, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, de una lista por ternas para propietarios y suplentes, propuesta por el Tribunal Superior de Justicia del Estado. La ley determinará el proceso de selección, previa convocatoria y examen por oposición.
 
 Los magistrados del Tribunal Estatal Electoral deberán reunir los mismos requisitos que los magistrados del Tribunal Superior de Justicia y durarán en su encargo cuatro años, pudiendo ser reelectos por una sola vez.
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+IV.- El Tribunal Estatal Electoral podrá decretar la nulidad de una elección por causas expresamente establecidas en la ley. Se preverán los plazos convenientes para el desahogo de todas las Instancias Impugnativas, tomando en cuenta el principio de definitividad de los procesos electorales.
 
 ## TITULO TERCERO. Del Estado, su soberanía y territorio
 
@@ -755,7 +829,7 @@ El Congreso del Estado estará integrado por 25 diputados electos según el prin
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados con mayoría relativa en por lo menos doce distritos uninominales.
+I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -767,7 +841,7 @@ III.- El Partido que cumpla con los supuestos señalados en las fracciones I y I
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-IV.- La ley determinará la fórmula electoral y los procedimientos que observarán en dicha asignación en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1113,9 +1187,9 @@ XXV. Dar bases generales conforme a las cuales el Ejecutivo puede concertar empr
 
 XXVI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-XXVII. Emitir el Decreto correspondiente para que el Instituto Estatal Electoral convoque a elecciones de Gobernador, Diputados y Ayuntamientos en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos.
+XXVII. Emitir el decreto correspondiente para que el Instituto Estatal Electoral, convoque a elecciones de Gobernador, Diputados y Ayuntamientos, en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos. Así como para la realización del plebiscito y referéndum;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2541,6 +2615,18 @@ El manejo de recursos económicos estatales y municipales se sujetarán a las ba
 
 Los servidores públicos, serán responsables del cumplimiento de ésta en los términos de la ley reglamentaria respectiva.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+Los servidores públicos de la Federación, del Estado y de los municipios, así como del Distrito Federal y sus Delegaciones tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos, o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 161], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 138.
@@ -3222,6 +3308,12 @@ P.O. 1 DE MAYO DE 2008.
 P.O. 26 DE JULIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
