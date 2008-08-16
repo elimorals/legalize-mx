@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-10999"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-07-13"
-last_updated: "2004-05-31"
+last_updated: "2008-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGANICA DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 16 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -83,7 +85,7 @@ Los procedimientos que se sigan ante la COMISION deberán ser breves, sencillos 
 
 ## TITULO SEGUNDO. DE LA INTEGRACION, INCOMPETENCIA Y ATRIBUCIONES DE LA COMISION
 
-### CAPITULO PRIMERO. DE SU INTEGRACION
+### CAPITULO SEGUNDO. INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
 
 ###### ARTICULO 21.
 
@@ -127,7 +129,7 @@ Las decisiones o resoluciones se tomarán por mayoría de votos y el Secretario 
 
 Cuando no se reúna la mitad más uno de los integrantes del Consejo, la sesión se verificará dentro de las veinticuatro horas siguientes con los miembros que asistan a la misma, incluyendo invariablemente al Presidente de la COMISION.
 
-### CAPITULO SEGUNDO. INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
+### CAPITULO PRIMERO. DE SU INTEGRACION
 
 ###### ARTICULO 8.
 
@@ -840,3 +842,21 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 31 DE MAYO DE 2004.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 16 DE AGOSTO DE 2008.
+
+PRIMERO. La presente ley entrará en vigor 30 días naturales computados a partir del día siguiente de su publicación.
+
+SEGUNDO. Se abroga el decreto número 7772 que contiene la Ley Orgánica de la Comisión de Derechos Humanos para el Estado de Nayarit; publicada en el Periódico Oficial del Gobierno del Estado el día miércoles 13 de Julio de 1994.
+
+Asimismo, se abrogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO. La porción normativa contenida en el artículo 35 de esta ley, relativa al inicio del proceso de selección de Consejeros operará hasta el año 2013.
+
+CUARTO. Los actuales Consejeros continuarán en su encargo hasta el final del período para el que fueron designados, por lo que concluirán en su encargo hasta el 30 de mayo del año 2009 dos mil nueve.
+
+QUINTO. Para los efectos de compatibilizar el contenido del artículo 35 de esta ley, la designación de los miembros del Consejo a renovarse en el mes de mayo del año 2009, ejercerán por un período que fenecerá el 13 de diciembre del año 2013.
+
+SEXTO. En los términos previstos por este ordenamiento, el Presidente de la Comisión deberá emitir, dentro de los 180 días naturales siguientes a la fecha en que entre en vigor esta ley, el reglamento interior correspondiente.
+
+SÉPTIMO. Los procedimientos y trámites iniciados conforme a las disposiciones de la ley que se abroga, continuarán substanciándose conforme a la misma y, en lo que fuere procedente y resulte en beneficio de los interesados, se aplicarán las disposiciones de la presente ley y los acuerdos que se determinen.
