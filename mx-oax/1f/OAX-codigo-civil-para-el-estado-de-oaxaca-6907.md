@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2008-04-12"
+last_updated: "2008-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1081,13 +1081,21 @@ III. Errores mecanográficos o de escritura;
 
 IV. Inversión de nombres o apellidos, si de los demás datos proporcionados para el acto registrado se hace evidente esa inversión;
 
-V. Falta de datos no esenciales, cuya deducción sea posible en razón a los demás datos existentes en el acta y que se relacionen con el mismo acto registrado.
+V. Falta de datos no esenciales, cuya deducción sea posible en razón a los demás datos existentes en el acta y que se relacionen con el mismo acto registrado;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+
+VI. Actas de nacimiento en que, habiendo comparecido únicamente un progenitor, se hubiere asentado al registrado con un solo apellido, procederá la aclaración para el efecto previsto en la última parte de la fracción V del artículo 68 de este Código. En caso de que el interesado, además del apellido del progenitor que compareció al registro, haya usado continua y públicamente un segundo apellido, podrá solicitar la aclaración para el único efecto de que se agregue este último al ya existente, sin que pueda anotarse ningún dato filiatorio. La resolución que declare procedente la aclaración no modifica ni extingue las obligaciones que el interesado hubiere contraído con anterioridad.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
 ###### Artículo 142.
 
 La aclaración de las actas del estado civil deberá tramitarse ante la Dirección del Registro Civil conforme a las disposiciones del Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+
+En el caso de la fracción VI del artículo anterior, una vez aprobada la aclaración para anotar un segundo apellido, previa la anotación marginal que se realice en los atestados correspondientes a la Oficialía del Registro Civil y Archivo Central, se dará vista al Ministerio Público, quien dentro del término de tres días hábiles podrá oponerse a la aclaración; dicha oposición que deberá ser fundada y motivada, se tramitará en los términos previstos por el Reglamento Interno del Registro Civil.
 
 ## TITULO QUINTO. Del matrimonio
 
@@ -15738,5 +15746,9 @@ PRIMERO.- Este Decreto entrará en vigor en la fecha de su publicación en el Pe
 SEGUNDO.- Se concede al Titular del Poder Ejecutivo el plazo de ciento veinte días naturales para reformar el Reglamento Interior de la Dirección del Registro Civil, en el que deberá establecer los lineamientos legales y técnicos para otorgar plena certidumbre a los actos validados por la firma facsimilar digitalizada.
 
 P.O. 12 DE ABRIL DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE AGOSTO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
