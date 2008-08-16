@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-21491"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2005-04-09"
+last_updated: "2008-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO, PUBLICADO EN EL P.O. DE 16 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de mayo del 2001.
 
@@ -2328,3 +2330,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El Congreso procederá a elaborar, en un plazo que no deberá exceder al último día hábil del mes de abril de 2005, el estudio y proyecto de reforma a las Bases de Competencia aplicable a las comisiones legislativas, para incluir las atribuciones correspondientes a la Comisión de Transparencia e Información Gubernamental que se crea mediante este Decreto. La aprobación de dicho proyecto estará sujeto (sic) al trámite legislativo previsto en las normas internas del Congreso.
 
 Artículo Tercero.- De conformidad a lo dispuesto por el artículo 41 fracción VIII de la Ley Orgánica del Poder Legislativo, la Comisión de Gobierno Legislativo en un plazo que no exceda de 15 días contados a partir del día siguiente de la entrada en vigor del presente Decreto, propondrá al pleno el acuerdo que designe a los Diputados que integrarán la Comisión de Transparencia e Información Gubernamental.
+
+P.O. 16 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se abroga el Decreto número 8346 publicado en el Periódico Oficial, Órgano del Gobierno del Estado de fecha 30 de mayo de 2001, que contiene el Reglamento para el Gobierno Interior del Congreso, así como todas sus reformas y adiciones.
+
+Artículo Tercero.- Se abroga el Acuerdo que establece las Bases de Competencia para el Funcionamiento de las Comisiones Legislativas.
