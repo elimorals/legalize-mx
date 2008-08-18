@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2007-11-26"
+last_updated: "2008-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -51,9 +51,11 @@ La presente Ley tiene por objeto regular los casos, términos y condiciones para
 
 Los premios se otorgarán en el tercer año de ejercicio constitucional de la Legislatura correspondiente, en sesión solemne que será convocada para el día veintidós de octubre.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
-Los acreedores a los premios previstos por esta Ley, serán personas físicas o morales vecinas de la Entidad, aun cuando las primeras no sean oriundas del Estado, y las segundas no tengan establecido su domicilio en el territorio del mismo.
+###### ARTÍCULO 2°.
+
+Los acreedores a los premios previstos por esta Ley, serán personas físicas o morales vecinas de la Entidad o de cualquier Estado, aún del extranjero para el caso de la Medalla "César E. Chávez".
 
 ###### ARTÍCULO 3º.
 
@@ -73,9 +75,17 @@ III. Medalla "José María Bocanegra";
 
 IV. Medalla "José Guadalupe Posada";
 
-V. Medalla "Palmas Académicas"; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-VI. Medalla "Miguel Ángel de Quevedo".
+V. Medalla "Palmas Académicas";
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VI. Medalla "Miguel Ángel de Quevedo"; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VII. Medalla "César E. Chávez".
 
 El Congreso del Estado podrá otorgar reconocimientos especiales propuestos por alguno de los Diputados integrantes de la Legislatura.
 
@@ -130,6 +140,14 @@ Esta Medalla será entregada, a quienes por su trabajo, labor cotidiana, sus pro
 ###### ARTÍCULO 12.
 
 Esta Medalla se otorgará a quienes por sus méritos, se destaquen en el arte de la música o la opera, a un valor de rango estatal, nacional y/o internacional.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+#### Sección VIII. Medalla "César E. Chávez"
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+ARTÍCULO 12 BIS.- Esta Medalla se otorgará a. la persona física o moral que se distinga por su labor, trabajo y aportaciones realizadas en México o en el extranjero, en beneficio de los aguascalentenses y sus familias radicados en otros países; por actividades y trabajos que fomenten y mejoren las relaciones de nuestro país con personas y gobiernos de otros países; por trabajos y actividades que mejoren la presencia y percepción de México y los mexicanos en el extranjero, así como aquellos que permitan disminuir la migración de mexicanos.
 
 ### CAPÍTULO III. De La Comisión De Postulaciones
 
@@ -222,3 +240,11 @@ PRIMER SECRETARIO.
 Dip. Ubaldo Treviño Soledad,
 
 SEGUNDO SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
