@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2008-02-18"
+last_updated: "2008-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -1277,9 +1277,9 @@ Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, l
 
 I. Aplicar los criterios generales para la protección de la atmósfera en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-II.- Establecer las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con la Secretaría;
+II. Establecer las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con el lnstituto;
 
 III. Aplicar las normas oficiales mexicanas para prevenir la contaminación de la atmósfera, en las materias y supuestos de su competencia;
 
@@ -1803,9 +1803,13 @@ e) Comisión de Medio Ambiente y Recursos Naturales del Honorable Congreso del E
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-f) Instituto del Agua del Estado
+f) Instituto del Agua del Estado;
 
 g) Cada Ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+h) Procuraduría Estatal de Protección al Ambiente.
 
 B. Empresarial:
 
@@ -1899,11 +1903,11 @@ IV. Se tenga que respetar la propiedad intelectual de su autor.
 
 Toda persona, física o moral, podrá denunciar ante la autoridad estatal, las autoridades federales o municipales en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
 
-(REFORMADO, P.O. 11 DE ABRIL DE 2005) (F. DE E., P.O. 18 DE ABRIL DE 2005)
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
-Si en la localidad no existiere representación de la autoridad estatal o de la autoridad municipal en materia ambiental, la denuncia se podrá formular ante cualquier autoridad.
+En caso de presentarse una denuncia ciudadana ante una autoridad ambiental que no sea competente, ésta deberá ser turnada de inmediato a la autoridad facultada para ello.
 
-La denuncia podrá ser presentada ante cualquier autoridad, la cual deberá turnar de inmediato dicha denuncia a la dependencia ambiental competente.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 156.
 
@@ -1911,7 +1915,9 @@ Al recibir la denuncia ciudadana, la autoridad ambiental acusará recibo y le as
 
 Cuando se presenten dos o más denuncias respecto de los mismos hechos, actos u omisiones, deberá acordarse su acumulación en un sólo expediente, prevaleciendo el primer número de expediente asignado. El contenido del acuerdo respectivo deberá notificarse a los denunciantes.
 
-Para el seguimiento de la denuncia ciudadana, se estará a lo dispuesto en el reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+Para el seguimiento de la denuncia ciudadana se estará a lo dispuesto en el reglamento de esta Ley y demás ordenamientos establecidos en la normatividad del Estado.
 
 ###### ARTICULO 157.
 
@@ -1930,6 +1936,10 @@ II. Los datos que permitan identificar al presunto infractor o localizar la fuen
 III. Las pruebas que en su caso ofrezca el denunciante.
 
 Asimismo, podrá formularse la denuncia vía telefónica, por correo, fax o cualquier otro medio.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+En caso de no cumplir con los requisitos anteriores, se considerará como un reporte ciudadano que podrá servir como antecedentes para que a juicio de la Procuraduría se pueda ordenar una visita de inspección en su caso.
 
 ###### ARTICULO 159.
 
@@ -2238,3 +2248,9 @@ P.O. 18 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
