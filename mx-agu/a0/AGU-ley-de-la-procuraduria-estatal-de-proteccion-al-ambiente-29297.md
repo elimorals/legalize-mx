@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2005-08-01"
+last_updated: "2008-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -65,6 +65,14 @@ IV. Secretaría: Secretaría de Desarrollo Social del Estado de Aguascalientes.
 
 V. Reglamento Interior: El Reglamento de la Procuraduría Estatal de Protección al Ambiente.
 
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VI. Junta de Gobierno: Junta de Gobierno de la Procuraduría Estatal de Protección al Ambiente.
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VII. Legislación Ambiental: Todas las leyes, reglamentos, decretos, acuerdos, resoluciones, normas técnicas y demás disposiciones vigentes de carácter general que conforman la normatividad ambiental del Estado de Aguascalientes.
+
 ###### Artículo 4°.
 
 El patrimonio de la Procuraduría Estatal de Protección al Ambiente, se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, por las partidas que se prevean en el presupuesto de egresos del Gobierno del Estado de Aguascalientes, y los bienes y recursos numerarios que por cualquier título adquiera.
@@ -85,7 +93,9 @@ II. Conocer e investigar sobre actos, hechos u omisiones que constituyan violaci
 
 III. Denunciar ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones o incumplimiento a la legislación administrativa y penal en materia ambiental;
 
-IV. Realizar visitas de verificación en situaciones de emergencia, o cuando exista denuncia presentada y ratificada ante la Procuraduría, a efecto de determinar su existencia o no de la infracción; y dictar las resoluciones correspondientes;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV. Realizar visitas para el reconocimiento de hechos u omisiones planteadas tanto en las denuncias recibidas como en las investigaciones de oficio que realice y emplazar en su caso, a las personas involucradas para que comparezcan ante la Procuraduría a manifestar lo que a su derecho convenga a efecto de determinar la existencia o no de la infracción; y en su caso dictar las resoluciones correspondientes;
 
 V. Dar contestación debidamente fundada y motivada a la denuncia presentada y ratificada ante la Procuraduría, notificando del resultado de la verificación, de las medidas que se hayan tomado y, en su caso de la imposición de la sanción respectiva;
 
@@ -93,7 +103,9 @@ VI. Emitir recomendaciones a las dependencias y entidades de la administración 
 
 VII. Emitir sugerencias al Congreso del Estado y a las autoridades judiciales, para su consideración en los procedimientos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia relacionados a la protección del ambiente.
 
-VIII. Instaurar a los particulares los procedimientos administrativos por incumplimiento de las obligaciones previstas en la Ley de Protección Ambiental para el Estado de Aguascalientes, sus reglamentos y demás ordenamientos en la materia, derivados de las visitas de inspección, imponiendo en su caso las sanciones procedentes.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VIII. Instaurar a las personas físicas y morales los procedimientos administrativos por incumplimiento de las obligaciones previstas en la Legislación Ambiental que sean de su competencia derivados de los actos de inspección, imponiendo en su caso las medidas y sanciones correspondientes;
 
 IX. Formular y validar dictámenes técnicos y periciales respecto de daños y perjuicios ocasionados por violaciones o incumplimiento a las disposiciones jurídicas en materia ambiental de competencia estatal.
 
@@ -165,6 +177,10 @@ El Procurador sólo podrá ser removido en términos de lo establecido al respec
 
 En ese supuesto o en el de renuncia, el procurador será sustituido interinamente por el director, a designación de la Junta de Gobierno, en tanto se procede al nombramiento por el Gobernador del Estado, bajo el procedimiento de ratificación establecido en la presente ley.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+En caso de la ratificación del Procurador para un segundo período, a que se refiere el primer párrafo de este Artículo, no será necesario surtir el procedimiento a que se refiere el Artículo 7º de la presente Ley. Al efecto bastará que la Comisión del Medio Ambiente y Recursos Naturales del Congreso del Estado, apruebe por mayoría absoluta de sus integrantes la ratificación, y la someta a consideración del Pleno del Congreso, para que en su caso apruebe dicho nombramiento por mayoría calificada. En caso de no aprobarse la ratificación, se realizará el procedimiento establecido en el Artículo 7° de la presente Ley.
+
 ###### Artículo 10.
 
 El titular de la Procuraduría tendrá las siguientes atribuciones:
@@ -187,9 +203,13 @@ VIII. Definir, establecer y mantener los sistemas de información, evaluación y
 
 IX. Expedir copias certificadas de los documentos que obran en sus archivos sobre asuntos que competan a la Procuraduría, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-X. Delegar las facultades en el Director y los Jefes de Departamento, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Aguascalientes
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-XI. Someter a consideración de la Junta de Gobierno el nombramiento, promoción y remoción de los servidores públicos de la Procuraduría;
+X. Delegar las facultades en los Directores y los Jefes de Departamento, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XI. Someter a la Junta de Gobierno el nombramiento, promoción y remoción de los Directores así como informarle el nombramiento, promoción y remoción de los demás servidores públicos de la Procuraduría;
 
 XII. Presentar el proyecto de Reglamento Interior a la Junta de Gobierno para su aprobación;
 
@@ -207,15 +227,29 @@ La Junta de Gobierno será el Organo Rector de la Procuraduría y se integrará 
 
 I. El Gobernador del Estado o por el servidor público que él designe;
 
-II. Los titulares de cada una de las Secretarías de Desarrollo Social, Obras Públicas, Desarrollo Económico y Planeación;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+II. Los titulares de cada una de las Secretarías de Seguridad Pública, de Obras Públicas, de Desarrollo Económico y de Planeación y Desarrollo Regional;
 
 III. Un diputado integrante de la Comisión del Medio Ambiente, a propuesta de esta Comisión y designado por el Pleno.
 
-IV. Dos ciudadanos que gocen de buena reputación y que cuenten con conocimientos y experiencia comprobada en las materias relacionadas con las funciones de la Procuraduría, quienes serán nombrados conforme al procedimiento de designación para el nombramiento del Procurador.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV. Los siguientes ciudadanos quienes deberán contar con conocimientos y experiencia en las materias relacionadas con las funciones de la Procuraduría:
+
+a) Un representante de la Universidad Autónoma de Aguascalientes, relacionado con la materia ambiental;
+
+b) El Presidente o un representante del Colegio de Biólogos; y
+
+c) El Presidente o quien éste designe del Consejo Coordinador Empresarial.
 
 Los integrantes de la Junta de Gobierno referidos en las fracciones II y III del presente artículo nombrarán al funcionario inmediato como su suplente, quien acudirá en su ausencia a las sesiones de la Junta.
 
 Los integrantes de la Junta de Gobierno, ostentarán el cargo a título honorífico.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+Los ciudadanos a que se refiere la Fracción IV de este Artículo serán nombrados por un período de cuatro años, su cargo será honorífico y tendrán las atribuciones que establezcan la presente Ley; su designación se realizará por sus cuerpos colegiados o su equivalente.
 
 ###### Artículo 13.
 
@@ -239,7 +273,9 @@ V. Aprobar los manuales de organización y de procedimientos de la Procuraduría
 
 VI. Designar al Secretario Técnico;
 
-VII. Aprobar el nombramiento, promoción y remoción de los funcionarios de la Procuraduría; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VII. Aprobar el nombramiento, promoción y remoción de los Directores de la Procuraduría; así como tener conocimiento del nombramiento, promoción y remoción de los demás servidores públicos de la Procuraduría; y
 
 VIII. Las demás atribuciones que establezca el Reglamento Interior.
 
@@ -267,27 +303,43 @@ La Procuraduría, dentro del ámbito de su competencia, iniciará sus actuacione
 
 Los procedimientos de la Procuraduría se regirán por los principios de simplificación, agilidad, economía, información, precisión, legalidad, transparencia e imparcialidad, salvaguardando el legítimo interés de toda persona para solicitar la defensa y protección de su derecho a gozar de un ambiente adecuado para su desarrollo, salud y bienestar.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 20.
 
-Los servidores públicos de las dependencias de la Administración Pública están obligados a auxiliar en forma preferente y adecuada al personal de la Procuraduría en el desempeño de sus funciones, y rendir los informes que se les soliciten en el término establecido en la presente Ley.
+Los servidores públicos de las dependencias de la Administración Pública Estatal y Municipal, están obligados a rendir informes que les requiera la Procuraduría en un término de diez días hábiles contados a partir de la recepción de la solicitud; así como expedirle sin costo alguno, las copias certificadas o simples que soporten sus informes, o que la Procuraduría les requiera para la atención de asuntos que esté tramitando.
 
 El acceso a los documentos y las solicitudes de información deberán estar debidamente justificados, y referirse a las quejas específicas objeto de la investigación correspondiente.
 
-Cuando no sea posible proporcionar los informes solicitados por la Procuraduría, el hecho deberá acreditarse por escrito haciendo constar las razones.
+Cuando no sea posible proporcionar los informes o copias certificadas solicitadas por la Procuraduría, el hecho deberá acreditarse por escrito haciendo constar las razones que tuviesen para ello las autoridades respectivas, anexando en su caso, las probanzas acreditables.
+
+Los servidores públicos que incumplan con lo previsto en el presente Artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 21.
 
 La presentación de las denuncias se regirá bajo el procedimiento que establece el Título Séptimo, Capítulo IV de la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
-Toda denuncia deberá ser ratificada en el término de tres días hábiles, y de no ser así se tendrá por no presentada.
+Toda denuncia deberá ser ratificada en el término de tres días hábiles, y de no ser así se tendrá por no presentada, con excepción de las interpuestas por escrito en la Procuraduría, mismas que no requerirán de ratificación.
+
+Las denuncias que se tengan por no presentadas, así como los reportes de los menores de edad, deberán ser tomados en cuenta por la Procuraduría para ordenar una inspección.
 
 ###### Artículo 22.
 
 Las agrupaciones u organizaciones de particulares podrán presentar denuncias en los términos de esta Ley, designando un representante.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 23.
 
-La Procuraduría podrá atender las denuncias consignadas en los medios de comunicación, en casos de especial relevancia ambiental, sobre asuntos de su competencia.
+La Procuraduría podrá iniciar investigaciones de oficio relacionadas con cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales o constituya o pueda constituir una contravención o falta de aplicación de las normas en materia ambiental, de preferencia en los siguientes casos:
+
+I. Denuncias consignadas en los medios de comunicación en caso de especial relevancia ambiental, sobre asuntos de su competencia;
+
+II. Denuncias no ratificadas en los términos previstos por esta Ley o reportes ciudadanos;
+
+III. Hechos que se consideren de especial relevancia para el cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental.
 
 ### CAPITULO II. De la Denuncia
 
@@ -458,3 +510,13 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los recursos financieros que se requieran para llevar a cabo la reforma a la estructura administrativa de la Procuraduría Estatal de Protección al Ambiente deberán ajustarse al presupuesto autorizado para el ejercicio fiscal 2005.
+
+P.O. 18 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ciudadanos a que se refiere el Artículo 12, Fracción IV de la Ley de la Procuraduría Estatal de Protección al Ambiente, terminaron su período de cuatro años el doce de abril del dos mil ocho, por lo que deberán designarse nuevos ciudadanos integrantes de la Junta de Gobierno a que se refiere dicha Fracción, en un período máximo de treinta días contados a partir de su publicación, en términos del presente Decreto.
