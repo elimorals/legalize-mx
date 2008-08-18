@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-integral-de-justicia-para-adolescentes-del-5763
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-23"
-last_updated: "2007-12-19"
+last_updated: "2008-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 23 de noviembre de 2007.
 
@@ -3836,3 +3838,41 @@ PRIMERO.- El presente Decreto iniciará su vigencia, al día siguiente de su pub
 SEGUNDO.- Hasta en tanto entre en vigor la presente Ley, estará vigente la Ley del Consejo Tutelar para Menores Infractores para el Estado de Morelos, estableciéndose lo conducente en el Presupuesto de Egresos para el ejercicio del año 2008.
 
 TERCERO.- Aprobado que sea el presente remítase al titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. DE 18 DE AGOSTO DE 2008.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se abroga la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4571 de fecha 23 de noviembre del año 2007, salvo para los casos dispuestos en el artículo cuarto transitorio de este ordenamiento.
+
+TERCERO.- Salvo los casos de excepción previstos en estas disposiciones transitorias, el Código de Procedimientos Penales aplicable supletoriamente al proceso previsto por esta Ley, será el publicado en el Periódico Oficial "Tierra y Libertad" número 4570 de fecha 22 de noviembre de 2007, el cual adquirirá vigencia previa sólo para los efectos de la aplicación de esta Ley, de conformidad con lo dispuesto en el artículo Transitorio Segundo párrafo cuarto de dicho ordenamiento, publicado en el Periódico Oficial "Tierra y Libertad" número 4577 de fecha 19 de diciembre de 2007.
+
+CUARTO.- En los asuntos iniciados el 15 de enero de 2008 que a la entrada en vigor de la presente ley se encuentren en trámite ante el Ministerio Público o ante el Tribunal Unitario de Justicia para Adolescentes, se aplicará el principio de ley más favorable.
+
+QUINTO.- Los asuntos que se encontraban en trámite ante la Procuraduría General del (sic) Justicia del Estado o ante el Consejo Tutelar para Menores Infractores, previo a la entrada en vigor de la Ley del Sistema Integral de Justicia para Adolescentes del Estado, publicada en el Periódico Oficial "Tierra y Libertad" número 4571 de fecha 23 de noviembre del año 2007, se tramitarán de la siguiente manera:
+
+I. Con las salvedades que se indican en este artículo, las conductas tipificadas como delito, cometidas por adolescentes hasta antes del 15 de enero de 2008, seguirán su curso conforme a las normas previstas en el Código de Procedimientos Penales para el Estado de Morelos, aprobado por el Congreso del Estado el 24 de septiembre de 1996, publicado en el Periódico Oficial número 3820 del 9 de octubre del mismo año, en vigor a partir del 7 de noviembre de 1996; en tanto no contravengan los principios contenidos en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. El Tribunal Unitario de Justicia para Adolescentes contará con un Juzgado Especializado, con competencia para conocer de las conductas a que se refiere la fracción anterior;
+
+III. El titular del Juzgado a que se refiere este artículo, por única ocasión será nombrado de manera directa por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, durará en su encargo el tiempo necesario para concluir los asuntos bajo su jurisdicción, se auxiliará de un Secretario de Acuerdos y del personal administrativo que sea necesario y que permita el Presupuesto de Egresos del Tribunal;
+
+IV. Las actuaciones practicadas con anterioridad a la entrada en vigor de la ley a que se refiere el artículo segundo transitorio, conservarán el valor que les otorgaba en su momento la Ley del Consejo Tutelar para Menores Infractores y seguirán su substanciación de conformidad con lo establecido en esta Ley;
+
+V. Los asuntos que se encontraban pendientes de elaboración de proyecto de resolución definitiva o con proyecto de resolución pendiente de discutirse por la sala del Consejo Tutelar para Menores Infractores, serán entregados al Juez especializado a que se refiere este artículo, para que emita la resolución correspondiente;
+
+VI. Los asuntos en los que se encuentren pendientes de resolución los recursos de apelación o inconformidad previstos, respectivamente en los artículos 53 y 60 de la abrogada Ley del Consejo Tutelar para Menores Infractores del Estado, se entregarán al Tribunal Unitario de Justicia para Adolescentes, el cual deberá resolverlos aplicando en lo conducente las reglas previstas en esta Ley.
+
+SEXTO.- En tanto se expide la Ley Federal de Justicia para Adolescentes, el Ministerio Público especializado de la Procuraduría General de Justicia del Estado, podrá conocer de los casos de conductas tipificadas como delitos del orden federal, cometidas por los adolescentes a los que se refiere esta Ley, aplicando en lo conducente, las disposiciones contenidas en este ordenamiento.
+
+SÉPTIMO.- En los casos en que el Tribunal Unitario de Justicia para Adolescentes conozca de las infracciones a las leyes penales federales cometidas por menores de dieciocho años, en términos de lo dispuesto por el artículo 500 del Código Federal de Procedimientos Penales, se observaran las siguientes disposiciones:
+
+I. Para los efectos de esta Ley, en los casos de delitos del orden federal, se considerará Conducta Antisocial Grave a aquella tipificada como delito grave en la legislación federal aplicable;
+
+II. La acción prescribirá transcurrido un término igual al medio aritmético resultante de la suma de las sanciones mínima y máxima de la pena señalada en el Código Penal Federal para la conducta tipificada como delito que se atribuye al adolescente. En ningún caso el término de la prescripción podrá exceder el plazo máximo de cinco años;
+
+III. Cuando se trate de conductas antisociales graves, del orden federal, la medida sancionadora de privación de la libertad será hasta de tres años a los adolescentes a que se refiere la fracción II del artículo 6° y hasta de cinco años a los adolescentes a que se refiere la fracción III del artículo 6° de esta Ley;
+
+IV. Esta disposición tendrá vigencia en tanto no entre en vigor la Ley Federal del Sistema de Justicia para Adolescentes; en caso de celebrarse convenio con la Federación sobre esta materia, se estará a lo dispuesto por dicho convenio.
+
+OCTAVO.- En un plazo de treinta días hábiles contados a partir de la fecha de entrada en vigor de la presente Ley, el Colegio Estatal de Seguridad Pública deberá instrumentar los cursos de capacitación a los elementos policiales del Estado en relación con los preceptos de este ordenamiento.
