@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2008-02-18"
+last_updated: "2008-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -107,9 +107,55 @@ La declaración de pérdida de vecindad será realizada por el Ayuntamiento.
 
 La calidad de avecindado, no se perderá por ausencia en el desempeño de un cargo público o de elección popular, comisión oficial o de estudios.
 
-### CAPITULO CUARTO. De la Creación de Municipios
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
 
-### CAPITULO PRIMERO. Del Ayuntamiento
+### CAPITULO TERCERO BIS. De las Mujeres
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 11 Bis.
+
+Toda mujer que se encuentre en el Estado, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros:
+
+I. El derecho a que se respete la vida;
+
+II. El derecho a que se respete su integridad física, psíquica y moral;
+
+III. El derecho a la libertad y la seguridad personales;
+
+IV. El derecho a no ser sometida a torturas;
+
+V. El derecho a igualdad de protección ante y de la Ley;
+
+VI. El derecho a que se respete la dignidad inherente a su persona y que se proteja a su familia;
+
+VII. El derecho a un recurso sencillo y rápido ante los tribunales competentes, que la ampare contra actos que violen sus derechos;
+
+VIII. El derecho a libertad de asociación;
+
+IX. El derecho a la libertad de profesar la religión y las creencias propias dentro de la Ley; y
+
+X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 11 Ter.
+
+Los Ayuntamientos cuidarán que la función pública municipal, observe los siguientes principios rectores, a efecto de garantizar el acceso de las mujeres aguascalentenses al derecho a una vida libre de violencia, tanto en el ámbito público como en el privado:
+
+I. La no discriminación;
+
+II. La autodeterminación y libertad de las mujeres;
+
+III. La igualdad sustantiva entre mujeres y hombres;
+
+IV. El respeto a la dignidad de las mujeres;
+
+V. El pluralismo social y la multiculturalidad de las mujeres; y
+
+VI. La perspectiva de género que permite incorporar a la mujer como sujeto social.
+
+### CAPITULO CUARTO. De la Creación de Municipios
 
 ###### Artículo 12.
 
@@ -141,7 +187,7 @@ Para fijar y modificar los límites de la extensión del territorio que correspo
 
 ## TITULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
-### CAPITULO SEGUNDO. De la Suspensión de Ayuntamientos, Declaratoria de que han Desaparecido y de la Suspensión o Revocación del Mandato de Alguno de sus Miembros
+### CAPITULO PRIMERO. Del Ayuntamiento
 
 ###### Artículo 15.
 
@@ -217,9 +263,7 @@ Si el día de la instalación no hay mayoría de integrantes propietarios del Ay
 
 En caso de no completarse la integración del Ayuntamiento habiéndose agotado el procedimiento establecido en el artículo anterior se procederá a nombrar a los miembros faltantes necesarios para integrar el Ayuntamiento, en la misma forma como se eligen los integrantes del Concejo Municipal.
 
-### CAPITULO TERCERO. Facultades y Obligaciones de los Ayuntamientos
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+### CAPITULO SEGUNDO. De la Suspensión de Ayuntamientos, Declaratoria de que han Desaparecido y de la Suspensión o Revocación del Mandato de Alguno de sus Miembros
 
 ###### Artículo 29.
 
@@ -287,7 +331,9 @@ IX. Por inasistencia a cinco sesiones de Cabildo, aun cuando no sean consecutiva
 
 El procedimiento que seguirá el Congreso del Estado, se estará a lo dispuesto en el Artículo 31 de esta Ley.
 
-### CAPITULO CUARTO. Facultades y Obligaciones de los Presidentes Municipales
+### CAPITULO TERCERO. Facultades y Obligaciones de los Ayuntamientos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 36.
 
@@ -423,21 +469,55 @@ LIII. Celebrar convenios para la administración y custodia de las zonas federal
 
 LIV. Formular y aprobar los planes y programas conducentes al desarrollo municipal de acuerdo con lo dispuesto en esta ley;
 
-LV. Solicitar en términos de la Ley aplicable la expropiación de bienes por causas de utilidad pública, en la forma que determine la ley en la materia, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento.
+LV. Solicitar en términos de la Ley aplicable la expropiación de bienes por causas de utilidad pública, en la forma que determine la ley en la materia, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento;
 
 LVI. Los municipios podrán coordinarse entre sí, con municipios de otros estados o bien con el Gobierno del Estado, para la solución de problemas comunes. Esta coordinación se llevará a cabo por medio de los convenios respectivos que se celebren de conformidad con lo dispuesto en esta Ley;
 
 LVII. Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
 
-LVIII. Nombrar al Titular de la Policía Preventiva Municipal y Tránsito; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-LIX. Las demás que le confieran la presente ley y otras disposiciones legales.
+LVIII. Nombrar al Titular de la Policía Preventiva Municipal y Tránsito;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+LIX. En materia de igualdad y género:
+
+a. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+
+b. Promover, en coordinación con el Estado, cursos de capacitación y esquemas de modificación conductual para quienes atienden a mujeres que viven algún tipo de violencia de género;
+
+c. Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres, que responsabilicen a quienes ejercen dicha violencia siempre priorizando la seguridad e integridad física de las mujeres;
+
+d. Promover de buenas prácticas que favorezcan y establezcan la igualdad sustantiva entre los géneros;
+
+e. Apoyar la creación de refugios seguros que protejan a las mujeres y sus hijos que reciban violencia familiar y sexual;
+
+f. Participar y coadyuvar en los cuatro ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+g. Impartir cursos y talleres de protección contra la violencia de género en los cuerpos policíacos;
+
+h. Evaluar anualmente las actitudes de los cuerpos policíacos y servidores públicos encargados de la atención a la violencia de género;
+
+i. Elaborar una guía de asistencia inmediata que seguirán los elementos de seguridad pública cuando se presenten casos de violencia familiar;
+
+j. Designar a los integrantes del Sistema Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia, y vigilar su correcta instalación y funcionamiento;
+
+k. Aprobar el Programa Municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñará con base a la perspectiva de género;
+
+l. Constituir el Mecanismo Municipal de Adelanto a favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo; y
+
+m. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+LX. Las demás que le confieran la presente Ley y otras disposiciones legales.
 
 ###### Artículo 37.
 
 Los ayuntamientos vigilarán que los acuerdos, políticas y decisiones tomadas en el ejercicio de las atribuciones conferidas en el artículo 36 de esta Ley, sean ejecutados por los organismos y dependencias correspondientes, en apego a los principios de generalidad, eficiencia, continuidad, imparcialidad, honradez y certeza.
 
-### CAPITULO QUINTO. Facultades y Obligaciones de los Síndicos
+### CAPITULO CUARTO. Facultades y Obligaciones de los Presidentes Municipales
 
 ###### Artículo 38.
 
@@ -447,7 +527,9 @@ I. Promulgar y publicar los reglamentos y bandos municipales;
 
 II. Dar publicidad a las normas de carácter general, aprobadas por el Ayuntamiento;
 
-III. Dentro de su competencia, cumplir y hacer cumplir las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar en su caso, a los infractores de estas últimas, las sanciones correspondientes;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+III. Dentro de su competencia, cumplir y hacer cumplir las disposiciones contenidas en las leyes y reglamentos federales, estatales y. municipales, poniendo especial cuidado en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, disposiciones en materia de Violencia Familiar del Estado, los Reglamentos de atención y sanción a la violencia familiar, de violencia de género e igualdad, y de observancia policíaca de ordenes de protección, a que se refieren las Fracciones I, II y III del Artículo 92 Bis de esta Ley, y las disposiciones que de ellos emanen; así como aplicar en su caso, a los infractores de estas últimas, las sanciones correspondientes;
 
 IV. Tomar la protesta de Ley a los regidores y síndicos, funcionarios y empleados del Municipio;
 
@@ -479,7 +561,9 @@ XVII. Celebrar a nombre del Municipio y por acuerdo del Ayuntamiento, todos los 
 
 XVIII. Expedir a la Tesorería Municipal las órdenes de pago que sean conforme al presupuesto aprobado, firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios, si autorizasen algún gasto no previsto en dicho presupuesto;
 
-XIX. Informar anualmente al Ayuntamiento, al término de cada ejercicio fiscal, del estado que guarda la Administración Municipal y de las labores realizadas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XIX. Informar anualmente al Ayuntamiento, al término de cada ejercicio fiscal, del estado que guarda la Administración Municipal y de las labores realizadas; en dicho informe señalará las acciones instrumentadas en materia de igualdad y género, en especial la aplicación de los Reglamentos de atención y sanción a la violencia familiar, de violencia de género e igualdad, y de observancia policíaca de ordenes de protección, a que se refieren las Fracciones I, II y III del Artículo 92 Bis de esta Ley;
 
 XX. Abstenerse de intervenir en cualquier forma de atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio económico para sí, sus parientes consanguíneos o por afinidad hasta el cuarto grado o por adopción o para terceros con los que tenga relaciones laborales o de negocios o para socios o sociedades de las que el Presidente Municipal o las personas antes referidas, formen o hayan formado parte;
 
@@ -487,9 +571,21 @@ XXI. Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener pa
 
 XXII. Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes mencionados en la fracción XX;
 
-XXIII. Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar, o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate, tenga en el mercado ordinario o cualquier donación, empleo, cargo o comisión para sí o para las personas a que se refiere la fracción XX y que procedan de cualquier persona física o moral, cuyas actividades profesionales o comerciales o industriales, se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-XXIV. Las demás que le confieran las leyes, reglamentos o demás disposiciones en la materia.
+XXIII. Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar, o recibir, por sí o por interpósita persona, dinero, bines (sic) muebles o inmuebles mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate, tenga en el mercado ordinario o cualquier donación, empleo, cargo o comisión para sí o para las personas a que se refiere la Fracción XX y que procedan de cualquier persona física o moral, cuyas actividades profesionales o comerciales o industriales, se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño, cargo o comisión;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XXIV. Supervisar los procedimientos que instaure el Sistema Municipal para el Desarrollo Integral de la Familia en materia de violencia familiar, en términos de las disposiciones en materia de Violencia Familiar del Estado y sus Reglamentos;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XXV. Substanciar, en su calidad de superior jerárquico, los recursos que se interpongan con motivo de la tramitación y expedición de las órdenes de protección y de los procedimientos en materia de violencia familiar, citados en las dos Fracciones anteriores; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XXVI. Las demás que le confieran las leyes, reglamentos o demás disposiciones en la materia.
 
 ###### Artículo 39.
 
@@ -507,7 +603,7 @@ I. Cuando el Síndico se encuentre legalmente impedido para el caso; y
 
 II. Cuando el Síndico se niegue a cumplir su función; en este caso, el Presidente Municipal deberá recabar la autorización del Ayuntamiento.
 
-### CAPITULO SEXTO. Facultades y Obligaciones de los Regidores
+### CAPITULO QUINTO. Facultades y Obligaciones de los Síndicos
 
 ###### Artículo 42.
 
@@ -541,11 +637,23 @@ XIII. Procurar la regularización de la propiedad de los bienes del Municipio;
 
 XIV. Asociarse a las comisiones, cuando se trate de dictámenes o resoluciones que afecten al Municipio;
 
-XV. Verificar que los funcionarios y empleados municipales cumplan con las declaraciones de situación patrimonial que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-XVI. Las demás que les confieran o impongan las leyes, los reglamentos o el Ayuntamiento.
+XV. Verificar que los funcionarios y empleados municipales cumplan con las declaraciones de situación patrimonial que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
 
-### CAPITULO SEPTIMO. De las Licencias y Suplencia de los Miembros del Ayuntamiento
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XVI. Coadyuvar con el Presidente Municipal en la supervisión de los procedimientos que instaure el Sistema Municipal para el Desarrollo Integral de la Familia en materia de violencia familiar, en términos de lo establecido en las disposiciones en materia de Violencia Familiar del Estado y sus Reglamentos;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XVII. Coadyuvar con el Presidente Municipal en la substanciación de los recursos que se interpongan con motivo de la tramitación y expedición de las órdenes de protección y de los procedimientos en materia de violencia familiar, citados en las dos Fracciones anteriores; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XVIII. Las demás que les confieran o impongan las leyes, los reglamentos o el Ayuntamiento.
+
+### CAPITULO SEXTO. Facultades y Obligaciones de los Regidores
 
 ###### Artículo 43.
 
@@ -569,7 +677,7 @@ VIII. Pedir al Ayuntamiento la remoción de los empleados que estén a su cargo,
 
 IX. Las demás que les otorguen esta Ley y demás disposiciones aplicables.
 
-### CAPITULO PRIMERO. De las Dependencias Administrativas
+### CAPITULO SEPTIMO. De las Licencias y Suplencia de los Miembros del Ayuntamiento
 
 ###### Artículo 44.
 
@@ -591,7 +699,7 @@ Las faltas de los regidores no se cubrirán, cuando no excedan de treinta días 
 
 ## TITULO TERCERO. REGIMEN ADMINISTRATIVO
 
-### CAPITULO SEGUNDO. Formalidades de los Actos Jurídicos Municipales
+### CAPITULO PRIMERO. De las Dependencias Administrativas
 
 ###### Artículo 47.
 
@@ -613,9 +721,21 @@ I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino 
 
 II. Contar con título de licenciatura debidamente registrado. En el caso del Municipio de Aguascalientes, deberá contar con título de licenciatura en derecho debidamente registrado, en términos de ley;
 
-III. Tener la capacidad para desempeñar el cargo, a juicio del Ayuntamiento; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-IV. No estar inhabilitados para desempeñar cargo, empleo o comisión pública.
+III. Tener la capacidad para desempeñar el cargo, a juicio del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV. No estar inhabilitados para desempeñar cargo, empleo o comisión pública;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
 ###### Artículo 50.
 
@@ -633,11 +753,19 @@ III. Caucionar el manejo de los fondos en términos de Ley;
 
 IV. No haber sido inhabilitado para desempeñar otro cargo, empleo o comisión públicos;
 
-V. No haber sido condenado en proceso penal por delito intencional, y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-VI. Cumplir con otros requisitos que señalen las leyes correspondientes, o los que acuerde el propio Ayuntamiento.
+V. No haber sido condenado en proceso penal por delito intencional;
 
-### CAPITULO TERCERO. De los Actos Administrativos que Requieren Autorización del Congreso del Estado y los que Requieren el Acuerdo de las dos Terceras Partes del Ayuntamiento
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VII. Cumplir con otros requisitos que señalen las leyes correspondientes, o los que acuerde el propio Ayuntamiento.
+
+### CAPITULO SEGUNDO. Formalidades de los Actos Jurídicos Municipales
 
 ###### Artículo 52.
 
@@ -679,7 +807,7 @@ Los actos jurídicos realizados en contravención a lo dispuesto por esta Ley, s
 
 Los actos jurídicos realizados por funcionarios municipales sin facultad para ello y los que se dicten viciados por error, dolo o violencia, serán revocados administrativamente por los ayuntamientos, previa audiencia de los interesados.
 
-### CAPITULO UNICO. Del Patrimonio y Hacienda Municipal
+### CAPITULO TERCERO. De los Actos Administrativos que Requieren Autorización del Congreso del Estado y los que Requieren el Acuerdo de las dos Terceras Partes del Ayuntamiento
 
 ###### Artículo 60.
 
@@ -743,25 +871,7 @@ Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura
 
 ## TITULO CUARTO. PATRIMONIO Y HACIENDA
 
-### CAPITULO PRIMERO. De los Servicios y Funciones Públicas Municipales
-
-Artículo 74 (SIC).- Los municipios tendrán a su cargo la prestación, explotación, administración y conservación de los servicios públicos municipales, considerándose enunciativa y no limitativamente, los siguientes:
-
-I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
-
-II. Alumbrado público;
-
-III. Limpia, recolección, traslado, tratamiento y disposición final de residuos;
-
-IV. Mercados y centrales de abasto;
-
-V. Panteones;
-
-VI. Rastro;
-
-VII. Calles, parques, jardines y su equipamiento; y
-
-VIII. Unidades deportivas y de promoción cultural de su competencia.
+### CAPITULO UNICO. Del Patrimonio y Hacienda Municipal
 
 ###### Artículo 65.
 
@@ -853,7 +963,25 @@ Los conflictos que se presenten con motivo de la aplicación de los convenios qu
 
 ## TITULO QUINTO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO SEGUNDO. Areas Estratégicas
+### CAPITULO PRIMERO. De los Servicios y Funciones Públicas Municipales
+
+Artículo 74 (SIC).- Los municipios tendrán a su cargo la prestación, explotación, administración y conservación de los servicios públicos municipales, considerándose enunciativa y no limitativamente, los siguientes:
+
+I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+II. Alumbrado público;
+
+III. Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+IV. Mercados y centrales de abasto;
+
+V. Panteones;
+
+VI. Rastro;
+
+VII. Calles, parques, jardines y su equipamiento; y
+
+VIII. Unidades deportivas y de promoción cultural de su competencia.
 
 ###### Artículo 75.
 
@@ -905,7 +1033,7 @@ c) Deberá aprobarse el convenio por las dos terceras partes de los integrantes 
 
 d) Cuando el municipio tenga una incapacidad real para la ejecución o continuación en la ejecución del convenio, o bien que descuide sus funciones de gobierno o tenga que destinar recursos de otros programas para dar cumplimiento a las obligaciones que contrajo, lo hará saber al Titular del Ejecutivo del Estado, proponiéndole la forma que mejor estime necesaria para suspender o terminar el convenio.
 
-### CAPITULO TERCERO. De la Policía Preventiva y Tránsito Municipal
+### CAPITULO SEGUNDO. Areas Estratégicas
 
 ###### Artículo 79.
 
@@ -927,7 +1055,7 @@ Los servicios públicos no estratégicos podrán ser concesionados a particulare
 
 Los municipios podrán celebrar contratos con particulares para la realización de obras públicas y servicios relacionados con ellos, en los términos que fijen las leyes respectivas.
 
-### CAPITULO CUARTO. De la Impugnación de los Actos Municipales
+### CAPITULO TERCERO. De la Policía Preventiva y Tránsito Municipal
 
 ###### Artículo 82.
 
@@ -955,7 +1083,7 @@ La Policía Preventiva Municipal estará bajo el mando del Presidente de los Est
 
 Las corporaciones de Tránsito Municipal en el uso de sus facultades estarán a lo dispuesto por la Ley de Vialidad del Estado.
 
-### CAPITULO UNICO. De la Reglamentación Municipal
+### CAPITULO CUARTO. De la Impugnación de los Actos Municipales
 
 ###### Artículo 88.
 
@@ -963,7 +1091,7 @@ Los actos de las autoridades municipales, se regirán por esta Ley y en lo condu
 
 ## TITULO SEXTO. REGLAMENTACION MUNICIPAL
 
-### CAPITULO PRIMERO. De la Responsabilidad de los Servidores Públicos Municipales
+### CAPITULO UNICO. De la Reglamentación Municipal
 
 ###### Artículo 89.
 
@@ -1009,6 +1137,18 @@ IX. Infracciones, sanciones; y
 
 X. Las demás que cada Ayuntamiento estime necesarias, que esta Ley y otras disposiciones les imponga.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 92 Bis.
+
+Para garantizar el derecho de las mujeres aguascalentenses a una vida libre de violencia, los Ayuntamientos quedan expresamente obligados a emitir los siguientes reglamentos:
+
+I. El que regule la atención y sanción de la violencia familiar y sexual, en el que se establezcan los modelos de atención y la debida aplicación de los procedimientos, que desalienten la violencia familiar y sexual en sus diversos tipos en el Municipio;
+
+II. El que regule la violencia de género para atender y sancionar la violencia institucional, laboral, docente y la violencia en la comunidad, promoviendo una cultura de legalidad y de denuncia de actos violentos contra las mujeres; y además contenga los lineamientos para prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona en el Municipio, así como promover la Igualdad de oportunidades y de trato; y
+
+III. El que regule la observancia policíaca de órdenes de protección que se emitan de conformidad a la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes, a efecto de garantizar el debido cumplimiento de las mismas.
+
 ###### Artículo 93.
 
 Los ayuntamientos expedirán los reglamentos, circulares y disposiciones administrativas que regulen el régimen de las diversas esferas de competencia municipal.
@@ -1019,7 +1159,7 @@ Los bandos, reglamentos y disposiciones de observancia general deberán publicar
 
 ## TITULO SEPTIMO. DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
-### CAPITULO SEGUNDO. De la Entrega y Recepción de la Administración Pública Municipal
+### CAPITULO PRIMERO. De la Responsabilidad de los Servidores Públicos Municipales
 
 ###### Artículo 95.
 
@@ -1035,7 +1175,11 @@ El Presidente Municipal, los regidores y síndicos gozan de fuero en términos d
 
 Por las infracciones administrativas cometidas a esta Ley, Bandos y Reglamentos Municipales, los servidores públicos municipales incurrirán en responsabilidad en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO PRIMERO. Organización Territorial
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+De igual forma incurren en responsabilidad los servidores públicos que contravengan los principios y disposiciones que consagran las Leyes General y Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, los Reglamentos a que se refiere el Artículo 92 Bis de esta Ley, o no den debido y cabal cumplimiento a las normas que de ellos emanan, o bien realicen cualquier práctica discriminatoria, o tolerancia de la violencia de género, en el ejercicio de su cargo o comisión.
+
+### CAPITULO SEGUNDO. De la Entrega y Recepción de la Administración Pública Municipal
 
 ###### Artículo 98.
 
@@ -1067,15 +1211,97 @@ Los servidores públicos salientes harán constar por escrito cuando así proced
 
 Las contralorías municipales, en el ámbito de sus respectivas atribuciones, quedan facultadas para dictar las disposiciones que requieran para la adecuada aplicación y cumplimiento del contenido de este capítulo, con aprobación de la mayoría del Ayuntamiento y en base a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-## TITULO OCTAVO. DISPOSICIONES REGLAMENTARIAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
 
-## TITULO NOVENO. AUTORIDADES, ORGANISMOS AUXILIARES Y COMITES MUNICIPALES
+## TITULO SEPTIMO BIS. DEL SISTEMA MUNICIPAL DE PREVENCION, ATENCION, SANCION Y ERRADICACION DE LA VIOLENCIA
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 103 Bis.
+
+El Sistema Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia es el conjunto de Dependencias y Entidades de la Administración Pública Municipal en interacción y vinculación permanente entre sí, para el desarrollo de los ejes de acción de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+El Sistema Municipal tendrá por objeto la instrumentación de una coordinación única cuyo mecanismo facilite la articulación de los ejes de acción, sus instrumentos, servicios y políticas públicas, de conformidad con el Programa Municipal para prevenir, atender, sancionar y erradicar la violencia.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 103 Ter.
+
+Corresponderá al Ayuntamiento la designación de los integrantes del Sistema Municipal, pero en todo caso, serán miembros propietarios los Titulares del Sistema Municipal para el Desarrollo Integral de la Familia y del Mecanismo de Adelanto de las Mujeres en el Municipio correspondiente.
+
+Dicho Sistema Estatal será presidido por el Presidente municipal, recayendo la Secretaría Ejecutiva del mismo, en la Titular del Mecanismo de Adelanto de las Mujeres, quien llevará la representación del Municipio al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia, en caso de ausencia, podrá suplir dicha titularidad el Sistema Municipal para el Desarrollo Integral de la Familia; y al mismo podrán ser invitados los servidores públicos o miembros de la sociedad civil, que se considere procedente a las sesiones ordinarias o extraordinarias.
+
+En la sesión de instalación del Sistema Municipal se aprobará su Reglamento Interior que establecerá las disposiciones que regulen la celebración de sus sesiones; los mecanismos de votación para que sus acuerdos y resoluciones tengan validez.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 103 Quater.
+
+Para el adecuado cumplimiento de sus funciones el Sistema Municipal podrá constituir las siguientes Comisiones de Acción:
+
+I. Prevención;
+
+II. Atención;
+
+III. Sanción;
+
+IV. Erradicación; y
+
+V. Evaluación y Monitoreo.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 103 Quinquies.
+
+El Programa Municipal incluirá los siguientes ejes de acción: la prevención, atención, sanción y erradicación, considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+Este Programa contendrá:
+
+I. Los Objetivos Generales y Específicos;
+
+II. Las Estrategias;
+
+III. Las Líneas de Acción;
+
+IV. Los Recursos Asignados;
+
+V. Las Metas Cuantitativas y Cualitativas;
+
+VI. Los Responsables de Ejecución;
+
+VII. Los Mecanismos de Evaluación; y
+
+VIII. El Subprograma de Capacitación.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Artículo 103 Sexies.
+
+Sin perjuicio de las atribuciones que le otorguen otros ordenamientos, son facultades del Sistema Municipal para el Desarrollo Integral de la Familia para garantizar el derecho de las mujeres a una vida libre de violencia, las siguientes:
+
+I. Implementar y substanciar los procedimientos de amigable composición o arbitraje y contencioso, previsto por las disposiciones en materia de Violencia Familiar del Estado;
+
+II. Resolver y emitir las resoluciones y laudos que sean procedentes, con motivo de los procedimientos referidos en la Fracción que antecede;
+
+III. Imponer las sanciones que correspondan a dichos procedimientos y recibir los recursos a que haya lugar;
+
+IV. Sensibilizar, capacitar y evaluar a su personal operativo para detectar, atender y canalizar a víctimas y generadores de la violencia familiar;
+
+V. Promover acciones y programas de protección social, jurídica y policíaca, a las receptoras de la violencia familiar;
+
+VI. Coadyuvar con las dependencias competentes en las acciones y programas de seguimiento a los casos en que tenga conocimiento de dicha violencia; y
+
+VII. Prestar servicios de atención y asesoría jurídica, psicológica y social a las receptoras de la violencia familiar.
+
+Para tales efectos, el Sistema Municipal para el Desarrollo Integral de la Familia tendrá adscritos los amigables componedores, oficiales contenciosos, y notificadores, de acuerdo a lo que el Reglamento de la Ley en materia de Violencia Familiar establezca. Sin menoscabo del auxilio que recibirá de los cuerpos policíacos municipales.
+
+## TITULO OCTAVO. DISPOSICIONES REGLAMENTARIAS
 
 ###### Artículo 104.
 
 Las disposiciones contenidas en el presente y en los subsecuentes títulos serán aplicables en aquellos municipios que no cuenten con los códigos, con los bandos o reglamentos correspondientes, hasta en tanto expidan sus reglamentos sobre estas materias.
 
-### CAPITULO SEGUNDO. De la Instalación de los Ayuntamientos
+### CAPITULO PRIMERO. Organización Territorial
 
 ###### Artículo 105.
 
@@ -1095,7 +1321,7 @@ IV. RANCHERÍA: Centro de población que no reúna los requisitos anteriores.
 
 El Ayuntamiento con base en los estudios que realice, declarará la categoría de las localidades o centros de población en su Municipio.
 
-### CAPITULO TERCERO. Funcionamiento de los Ayuntamientos y de las Comisiones
+### CAPITULO SEGUNDO. De la Instalación de los Ayuntamientos
 
 ###### Artículo 107.
 
@@ -1121,7 +1347,7 @@ El Presidente Municipal electo, dará lectura a los lineamientos generales del P
 
 Al término de la ceremonia de instalación, el Presidente Municipal saliente, hará entrega al Ayuntamiento electo, de todos los documentos que contenga el archivo, así como de los muebles, enseres y demás bienes que constituyan el patrimonio y hacienda municipal, en la forma y términos que establece el Título Décimo Tercero de esta Ley, y lo previsto en los ordenamientos municipales aplicables.
 
-### CAPITULO CUARTO. Facultades y Obligaciones de los Presidentes Municipales
+### CAPITULO TERCERO. Funcionamiento de los Ayuntamientos y de las Comisiones
 
 ###### Artículo 109.
 
@@ -1175,9 +1401,17 @@ XIII. Parques y Jardines;
 
 XIV. Acción Social y Deportes;
 
-XV. Relojes y Panteones; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-XVI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XV. Relojes y Panteones;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XVI. Igualdad y género cuya competencia será: promover la expedición de las normas legales correspondientes, y proponer las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, en el ámbito público y privado; así como promover mecanismos de evaluación respecto a la aplicación de la legislación sobre violencia de género en el Municipio, buscando la adecuación y armonización, con la Legislación Estatal y Federal; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XVII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 114.
 
@@ -1187,7 +1421,7 @@ Las Comisiones, para el estudio y dictamen de sus asuntos, previa solicitud al E
 
 Las Comisiones deberán concretarse a vigilar y a observar las actividades que correspondan a sus ramos, comunicando al Ayuntamiento las deficiencias o anomalías que observen, además de las propuestas de mejoras, para los efectos a que haya lugar.
 
-### CAPITULO QUINTO. De las Dependencias Administrativas
+### CAPITULO CUARTO. Facultades y Obligaciones de los Presidentes Municipales
 
 ###### Artículo 116.
 
@@ -1197,7 +1431,7 @@ I. Vigilar que se integren y funcionen debidamente los consejos de colaboración
 
 II. Visitar los poblados del Municipio, en compañía de las personas que presidan los consejos municipales y de los comisionados del ramo que debe inspeccionar, para conocer sus problemas; informar de sus visitas al Ayuntamiento, comunicándole los problemas que a su juicio requieran urgente solución, a efecto de que sean tomadas las medidas tendientes a su resolución.
 
-### CAPITULO PRIMERO. Autoridades Auxiliares
+### CAPITULO QUINTO. De las Dependencias Administrativas
 
 ###### Artículo 117.
 
@@ -1285,15 +1519,15 @@ XX. Expedir las credenciales o constancias de identificación del personal autor
 
 XXI. Las que le señalen las disposiciones legales y el propio Ayuntamiento.
 
-## TITULO DECIMO. DESARROLLO MUNICIPAL
+## TITULO NOVENO. AUTORIDADES, ORGANISMOS AUXILIARES Y COMITES MUNICIPALES
 
-### CAPITULO SEGUNDO. De los Consejos de Participación Ciudadana y Colaboración Municipal
+### CAPITULO PRIMERO. Autoridades Auxiliares
 
 ###### Artículo 122.
 
 Son autoridades auxiliares municipales, los delegados y subdelegados, los jefes de sector, de sección y de manzana que designe el Ayuntamiento conforme a los procedimientos establecidos por éste, en los reglamentos respectivos.
 
-### CAPITULO TERCERO. De la Comisión de Planeación Para el Desarrollo Municipal
+### CAPITULO SEGUNDO. De los Consejos de Participación Ciudadana y Colaboración Municipal
 
 ###### Artículo 123.
 
@@ -1341,7 +1575,7 @@ Los ayuntamientos podrán destinar recursos y coordinarse con las organizaciones
 
 Para satisfacer las necesidades colectivas, los ayuntamientos podrán solicitar la cooperación de instituciones privadas.
 
-### CAPITULO CUARTO. De los Consejos Municipales de Protección Civil
+### CAPITULO TERCERO. De la Comisión de Planeación Para el Desarrollo Municipal
 
 ###### Artículo 132.
 
@@ -1379,7 +1613,7 @@ El Presidente Municipal, al inicio de su período constitucional, convocará a o
 
 La Comisión de Planeación para el Desarrollo Municipal contará con un mínimo de cinco miembros encabezados por quien designe el Ayuntamiento, y podrá tener tantos como se juzgue conveniente, tomando en cuenta las condiciones económicas sociales y demográficas, para el eficaz desempeño de sus funciones, los cuales durarán en su encargo el período municipal correspondiente.
 
-### CAPITULO QUINTO. De los Comités Ciudadanos de Control y Vigilancia de la Obra Pública Municipal
+### CAPITULO CUARTO. De los Consejos Municipales de Protección Civil
 
 ###### Artículo 136.
 
@@ -1401,7 +1635,7 @@ V. Crear y establecer los órganos y mecanismos que promuevan y aseguren la part
 
 VI. Operar, sobre la base de las dependencias municipales, las agrupaciones sociales y voluntariado participantes, un sistema municipal en materia de prevención, información, capacitación, auxilio y protección civil en favor de la población del municipio.
 
-### CAPITULO SEXTO. Del Comité de Desarrollo Integral de la Familia
+### CAPITULO QUINTO. De los Comités Ciudadanos de Control y Vigilancia de la Obra Pública Municipal
 
 ###### Artículo 138.
 
@@ -1449,7 +1683,7 @@ Las dependencias y entidades de la administración pública municipal que constr
 
 Las dependencias y entidades señaladas en el artículo anterior, harán la entrega-recepción de las obras ante los integrantes de los comités ciudadanos de control y vigilancia y de los vecinos de la localidad beneficiados con la obra.
 
-### CAPITULO SEPTIMO. De las Concesiones
+### CAPITULO SEXTO. Del Comité de Desarrollo Integral de la Familia
 
 ###### Artículo 145.
 
@@ -1487,7 +1721,7 @@ La organización, funciones, atribuciones y facultades necesarias para cumplir s
 
 El cargo de Presidente del Comité Municipal para el Desarrollo Integral de la Familia es de carácter honorario.
 
-### CAPITULO PRIMERO. De la Planeación Municipal
+### CAPITULO SEPTIMO. De las Concesiones
 
 ###### Artículo 147.
 
@@ -1591,9 +1825,9 @@ El Ayuntamiento emitirá la declaratoria de municipalización, una vez oído a l
 
 Una vez decretada la municipalización del servicio, si el Ayuntamiento carece de recursos para prestarlo, podrá concesionarlo en términos de esta Ley.
 
-## TITULO DECIMO PRIMERO. DE LA JUSTICIA MUNICIPAL
+## TITULO DECIMO. DESARROLLO MUNICIPAL
 
-### CAPITULO SEGUNDO. De las Reservas Territoriales y uso del Suelo
+### CAPITULO PRIMERO. De la Planeación Municipal
 
 ###### Artículo 161.
 
@@ -1647,7 +1881,7 @@ El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán 
 
 Los planes y programas podrán ser modificados o suspendidos siguiendo el mismo procedimiento que para su elaboración, aprobación y publicación, cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico.
 
-### CAPITULO TERCERO. Del Cuerpo de Bomberos
+### CAPITULO SEGUNDO. De las Reservas Territoriales y uso del Suelo
 
 ###### Artículo 171.
 
@@ -1657,7 +1891,7 @@ Los municipios formularán y administrarán la zonificación y el control de los
 
 Conjuntamente con el Gobierno del Estado, los municipios deberán promover y determinar con base en los programas de Desarrollo Urbano y de Vivienda, la adquisición y administración de reservas territoriales, para la ejecución de los mismos, de conformidad con las bases establecidas en el Código Urbano para el Estado de Aguascalientes.
 
-### CAPITULO UNICO. De los Jueces Calificadores
+### CAPITULO TERCERO. Del Cuerpo de Bomberos
 
 ###### Artículo 173.
 
@@ -1667,17 +1901,19 @@ El Ayuntamiento podrá integrar cuerpos de bomberos que tengan como objetivo, la
 
 Los bomberos son un cuerpo de Seguridad Pública incorporado a la Policía Preventiva Municipal.
 
-## TITULO DECIMO SEGUNDO. DE LAS SANCIONES ADMINISTRATIVAS
+## TITULO DECIMO PRIMERO. DE LA JUSTICIA MUNICIPAL
 
-### CAPITULO UNICO. Sanciones Administrativas
+### CAPITULO UNICO. De los Jueces Calificadores
 
 ###### Artículo 175.
 
 En cada Municipio, el Ayuntamiento designará, al menos, a un Juez Calificador con sede en la cabecera municipal y en los centros de población que se determine en cada caso.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 176.
 
-El Bando o Reglamento Municipal establecerá los requisitos para ocupar el cargo de Juez Calificador.
+El Bando o Reglamento Municipal establecerá los requisitos para ocupar el cargo de Juez Calificador, pero invariablemente deberán ser evaluados actitudinalmente, a fin de que no efectúe prácticas discriminatorias, prejuiciosas, ausentes de perspectiva de género, y deberán acreditar contar con capacitación en materia de violencia y perspectiva de género, así como en arbitraje.
 
 ###### Artículo 177.
 
@@ -1696,6 +1932,10 @@ V. Informar diariamente por escrito de las novedades ocurridas durante el ejerci
 ###### Artículo 178.
 
 El Bando o Reglamento Municipal determinará la forma de organización y funcionamiento de los juzgados calificadores de su Municipio.
+
+## TITULO DECIMO SEGUNDO. DE LAS SANCIONES ADMINISTRATIVAS
+
+### CAPITULO UNICO. Sanciones Administrativas
 
 ###### Artículo 179.
 
@@ -1800,3 +2040,17 @@ P.O. 18 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema Municipal a que se refiere el Artículo 103 Bis se instalará dentro de los 90 días siguientes a la entrada en vigencia del presente ordenamiento, de conformidad a las designaciones que al efecto realice el Ayuntamiento.
+
+###### ARTÍCULO TERCERO.
+
+El Ayuntamiento de cada Municipio del Estado de Aguascalientes contará con doscientos setenta días a partir de la entrada en vigencia de este Decreto para emitir los Reglamentos a que se refieren las Fracciones I, II y III del Artículo 92 Bis de este ordenamiento.
