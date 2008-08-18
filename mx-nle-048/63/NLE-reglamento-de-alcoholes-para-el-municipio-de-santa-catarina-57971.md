@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-alcoholes-para-el-municipio-de-santa-catarina-579
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-07"
-last_updated: "2007-12-07"
+last_updated: "2008-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de diciembre de 2007.
 
@@ -45,9 +45,11 @@ El presente Reglamento es de orden publico e interés social se expide con funda
 
 Es obligatoria la observancia del presente Reglamento para los propietarios, titulares de licencias y/o establecimientos, asi como para los responsables, encargados, administradores u ocupantes de los establecimientos donde se venda o consuma cerveza y/o bebidas alcohólicas, asi como para cualquier persona que tenga relación con dichas actividades, sin perjuicio, en su caso, de los demás ordenamientos vigentes.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 3.
 
-Para la apertura y funcionamiento de establecimientos que se rigen por este Reglamento en los que se almacene, distribuya, expenda, vendan y/o consuman bebidas alcohólicas, se requiere licencia autorizada por el R. Ayuntamiento, en los términos y condiciones que se preceptúan en este Reglamento.
+Para la apertura y funcionamiento de establecimientos que se rigen por este Reglamento en los que se almacene, distribuya, expenda, vendan y/o consuman bebidas alcohólicas, se requiere licencia autorizada por el R. Ayuntamiento, en los términos y condiciones que se preceptúan en este Reglamento, por lo que queda estrictamente prohibido iniciar algún acto comercial, en tanto el trámite esté en proceso, y no se tenga la Licencia físicamente en el establecimiento, en caso contrario a lo antes estipulado, cualquier trámite quedara desechado.
 
 ###### ARTÍCULO 4.
 
@@ -107,9 +109,13 @@ XX.- LICENCIA: La autorización escrita que, a solicitud de un particular (perso
 
 XXI.- PERMISO ESPECIAL: Autorización por escrito, de carácter especial, que emite el Presidente Municipal y/o el Secretario del Ayuntamiento, para la realización de un evento o festejo tradicional de la comunidad, fuera de los horarios establecidos, con consumo y venta de bebidas alcohólicas y el cual no podrá exceder de tres días naturales.
 
-XXII.- PERMISO TEMPORAL: Autorización por escrito, de carácter temporal, que emite el Presidente Municipal y/o el Secretario del Ayuntamiento, previa autorización de la mayoría de los integrantes de la Comisión de Alcoholes del R. Ayuntamiento, para la realización de un evento en particular y el cual no podrá exceder de treinta días naturales.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-XXIII.- REFRENDO: Acto Administrativo con vigencia anual que realiza la Tesorería Municipal del empadronamiento del negocio cuya licencia haya sido otorgada por el R. Ayuntamiento, para que siga operando mediante la expedición del comprobante respectivo, previo pago por el titular de la licencia de los derechos correspondientes.
+XXII.- PERMISO TEMPORAL: Autorización por escrito, de carácter temporal, que emite el Presidente Municipal y/o el Secretario del Ayuntamiento, previa autorización de la mayoría de los integrantes de la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento, para la realización de un evento en particular y el cual no podrá exceder de treinta días naturales.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XXIII.- REFRENDO: Acto Administrativo con vigencia anual que realiza la Secretaría de Tesorería y Finanzas Municipal del empadronamiento del negocio cuya licencia haya sido otorgada por el R. Ayuntamiento, para que siga operando mediante la expedición del comprobante respectivo, previo pago por el titular de la licencia de los derechos correspondientes.
 
 XXIV.- GIRO: Tipo específico de autorización que denota el alcance de la Licencia o Permiso que se otorgue para que el establecimiento pueda operar la venta en envase cerrado, o permitir el consumo en envase abierto o al copeo.
 
@@ -185,19 +191,27 @@ Las Autoridades Competentes y los servidores públicos facultados para la aplica
 
 I.- El R. Ayuntamiento
 
-II.- La Comisión de Alcoholes.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+II.- La Comisión de Comercio, Alcoholes y Espectáculos.
 
 III.- El Presidente Municipal.
 
 IV.- El Secretario del Ayuntamiento.
 
-V.- El Secretario de Finanzas y Tesorero.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+V.- El Secretario Tesorería (sic) y Finanzas.
 
 VI.- El Director de Protección Civil.
 
-VII.- El Coordinador de Espectáculos y Permisos.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-VIII.- El Director de Alcoholes.
+VII.- El Director de Espectáculos y Permisos.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VIII.- Director de Comercio y Alcoholes.
 
 IX.- El Director de Ingresos.
 
@@ -215,11 +229,15 @@ II.- Autorizar o negar los cambios de domicilio o de titulares de las licencias,
 
 III.- Las demás que le confiere este Reglamento, las leyes y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 9.
 
-Son facultades de la Comisión de Alcoholes del R. Ayuntamiento:
+Son facultades de la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento:
 
-I.- Vigilar las labores de la (sic) Direcciones de Alcoholes y/o de las demás dependencias que por la naturaleza de su función, tengan relación en materia del presente Reglamento.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+I.- Vigilar las labores de la Dirección de Comercio y Alcoholes y/o de las demás dependencias que por la naturaleza de su función, tengan relación en materia del presente Reglamento.
 
 II.- Verificar y analizar los expedientes administrativos relativos a las solicitudes para los establecimientos con venta o consumo de bebidas alcohólicas que le sean turnados por la presidencia para su dictamen.
 
@@ -231,11 +249,17 @@ Son facultades del Presidente Municipal o del Secretario del Ayuntamiento:
 
 A) DEL PRESIDENTE MUNICIPAL O DEL SECRETARIO DEL AYUNTAMIENTO:
 
-I.- Dar seguimiento a las solicitudes que se presenten para la expedición de licencias o cambio de domicilio o de titular en los casos que estipulan en este ordenamiento y cambio de giro del establecimiento. Las solicitudes serán debidamente revisadas e integradas por la por la (sic) Secretaría del Ayuntamiento a través del departamento que ésta designe, formulando el predictamen correspondiente, el cual deberá ser turnado juntamente con el expediente respectivo a la Comisión de Alcoholes del R. Ayuntamiento, para su análisis y posterior dictamen, mismo que se someterá a discusión y votación en sesión de Cabildo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-II.- Iniciar, dar trámite y someter a la aprobación del R. Ayuntamiento, previa audiencia del interesado, la solicitud de revocación de licencia y clausura definitiva en los casos que se establecen en el artículo 92 del presente ordenamiento; la cual se turnará a la Comisión de Alcoholes del R. Ayuntamiento para su dictamen.
+I.- Dar seguimiento a las solicitudes que se presenten para la expedición de licencias o cambio de domicilio o de titular en los casos que estipulan en este ordenamiento y cambio de giro del establecimiento. Las solicitudes serán debidamente revisadas e integradas por la por la (sic) Secretaría del Ayuntamiento a través del departamento que ésta designe, formulando el predictamen correspondiente, el cual deberá ser turnado juntamente con el expediente respectivo a la Comisión de Comercio, Alcoholes y de Espectáculos del R. Ayuntamiento, para su análisis y posterior dictamen, mismo que se someterá a discusión y votación en sesión de Cabildo.
 
-III.- Autorizar o negar los Permisos para el expendio, venta y/o consumo de bebidas alcohólicas para eventos especiales o temporales, previa autorización de la mayoría de los integrantes de la Comisión de Alcoholes.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+II.- Iniciar, dar trámite y someter a la aprobación del R. Ayuntamiento, previa audiencia del interesado, la solicitud de revocación de licencia y clausura definitiva en los casos que se establecen en el artículo 92 del presente ordenamiento; la cual se turnará a la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento para su dictamen.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+III.- Autorizar o negar los Permisos para el expendio, venta y/o consumo de bebidas alcohólicas para eventos especiales o temporales, previa autorización de la mayoría de los integrantes de la Comisión de Comercio, Alcoholes y Espectáculos.
 
 IV.- Finnar (sic) las licencias que acuerde el R. Ayuntamiento en sesión de Cabildo, cuidando que en las mismas, se incluyan todos los requisitos necesarios para su identificación, como son:
 
@@ -253,7 +277,9 @@ IV.- Finnar (sic) las licencias que acuerde el R. Ayuntamiento en sesión de Cab
 
 7).- Metros cuadrados aprobados, los cuales deberán coincidir con lo (sic) señalados en la autorización que emita la Secretaría de Desarrollo Urbano y Obras Públicas Municipal; y
 
-8).- La firma autógrafa del Presidente Municipal, del Secretario del Ayuntamiento y del Presidente de la Comisión de Alcoholes.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+8).- La firma autógrafa del Presidente Municipal, del Secretario del Ayuntamiento y del Presidente de la Comisión de Comercio, Alcoholes y Espectáculos.
 
 V.- Decretar y ordenar la clausura temporal, decomisos y demás sanciones y medidas cautelares previstas por este Reglamento, así como dar seguimiento al procedimiento de clausura definitiva y revocación de la Licencia, y ordenar el retiro de sellos y/o símbolos de clausura, cuando así proceda conforme a derecho o por resolución de autoridad jurisdiccional que así lo determine.
 
@@ -269,13 +295,15 @@ IV.- Ordenar visitas de inspección a los establecimientos a que se refiere este
 
 V.- Ordenar la clausura, decomisos y demás sanciones y medidas administrativas y cautelares previstas por este Reglamento, así como ordenar el retiro de sellos y/o símbolos de clausura, cuando así proceda conforme a derecho o por resolución de autoridad jurisdiccional que así lo determine.
 
-VI.- Ordenar el retiro de los sellos y/o símbolos de clausura, cuando así proceda conforme a derecho o por resolución de autoridad jurisdiccional que así lo determine.
+VI.- (DEROGADA, P.O. 18 DE AGOSTO DE 2008)
 
 VII.- Las demás facultades que le confiere este Reglamento, Leyes y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 11.
 
-Corresponde a la Secretaría de Finanzas y Tesorería Municipal:
+Corresponde a la Secretaría de Tesorería y Finanzas:
 
 I.- Llevar el empadronamiento o registro de licencias que se expidan por el R. Ayuntamiento para su debido control.
 
@@ -293,35 +321,49 @@ VI.- Las demás que le confiere este Reglamento y demás disposiciones aplicable
 
 Corresponden a los Directores y al personal que hace mención el artículo 7 del presente Reglamento, las siguientes facultades:
 
-A) AL C. COORDINADOR DE ESPECTACULOS Y PERMISOS:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+A) AL C. DIRECTOR DE ESPECTACULOS Y PERMISOS:
 
 I.- Asignar un número de folio consecutivo a los expedientes que se integren con las solicitudes y la información recibida para el trámite de las licencias o permisos.
 
-II.- Llevar un registro en Coordinación con la Secretaria de Finanzas y Tesorería y la Dirección de Alcoholes, de todas las licencias, permisos especiales, temporales o provisionales, otorgados por la autoridad municipal, así como de cualquier cambio o modificación.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+II.- Llevar un registro en Coordinación con la Secretaría de Tesorería y Finanzas y la Dirección de Comercio y Alcoholes, de todas las licencias, permisos especiales, temporales o provisionales, otorgados por la autoridad municipal, así como de cualquier cambio o modificación.
 
 III.- Integrar, custodiar y conservar los expedientes administrativos de cada uno de los establecimientos, que incluirá todos los requisitos necesarios para el otorgamiento de la licencia, según el presente Reglamento, las actas de inspección levantadas, las sanciones que le hubieren sido impuestas y demás aspectos referentes a la verificación y control de los establecimientos.
 
-IV.- Elaborar, en forma indelegable, un estudio y análisis del cumplimiento o incumplimiento de los requisitos, con el carácter de predictamen respecto a las solicitudes de licencia, el cual, se incluirá en el expediente administrativo que se turne a la Comisión de Alcoholes del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV.- Elaborar, en forma indelegable, un estudio y análisis del cumplimiento o incumplimiento de los requisitos, con el carácter de predictamen respecto a las solicitudes de licencia, el cual, se incluirá en el expediente administrativo que se turne a la Comisión de Comercio, Alcoholes y Espectáculos, del R. Ayuntamiento.
 
 V.- Orientar a los contribuyentes que deseen realizar cualquiera de los trámites previstos por este Reglamento.
 
 VI.- Las demás facultades que le confiere este Reglamento y las Leyes aplicables.
 
-B) AL C. DIRECTOR DE ALCOHOLES:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+B) AL C. DIRECTOR DE COMERCIO Y ALCOHOLES:
 
 I.- Coordinar y dirigir las labores de inspección y vigilancia para verificar el cumplimiento del presente Reglamento.
 
 II.- Realizar por sí o por sus subordinados, las investigaciones y verificaciones de campo para constatar que los establecimientos que solicitan una licencia cumplan con los requisitos que establece este Reglamento.
 
-III.- Remitir las actas de inspección a la Dirección Jurídica Municipal, con copia al Secretario de Finanzas y Tesorero Municipal, y ejecutar las clausuras y demás sanciones y medidas de seguridad que éstos decreten.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+III.- Remitir las actas de inspección a la Dirección Jurídica Municipal, con copia al Secretario de Tesorería y Finanzas, y ejecutar las clausuras y demás sanciones y medidas de seguridad que éstos decreten.
 
 IV.- Ejecutar personalmente o por conducto de los Inspectores a su cargo, las notificaciones o resoluciones que emita la Autoridad Municipal.
 
 V.- Ordenar la destrucción de los líquidos decomisados; en lo que se refiere a la venta de envases, la tramitará conjuntamente con el Síndico Primero.
 
-VI.- Decretar y ejecutar la clausura temporal y/o parcial de establecimientos y lugares donde se expendan, vendan y/o consuman bebidas alcohólicas, en los términos de este Reglamento, previa autorización de la Comisión de Alcoholes del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-VII.- Turnar a la Comisión de Alcoholes del R. Ayuntamiento, la relación de negocios sujetos a baja definitiva por estar en el supuesto establecido en el artículo 41 de este Ordenamiento, para que mediante el dictamen correspondiente se resuelva en la siguiente Sesión Ordinaria del R. Ayuntamiento.
+VI.- Decretar y ejecutar la clausura temporal y/o parcial de establecimientos y lugares donde se expendan, vendan y/o consuman bebidas alcohólicas, en los términos de este Reglamento, previa autorización de la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VII.- Turnar a la Comisión de Comercio, Alcoholes y Espectáculos, del R. Ayuntamiento, la relación de negocios sujetos a baja definitiva por estar en el supuesto establecido en el artículo 41 de este Ordenamiento, para que mediante el dictamen correspondiente se resuelva en la siguiente Sesión Ordinaria del R. Ayuntamiento.
 
 VIII.- Exigir de los dueños, encargados o administradores de los establecimientos, la documentación que acredite la mayoría de edad de su personal.
 
@@ -349,11 +391,17 @@ II.- Ordenar el cumplimiento del refrendo.
 
 III.- Iniciar el procedimiento administrativo de ejecución previsto por el Código Fiscal del Estado, para el cobro de los créditos fiscales derivados del presente Reglamento.
 
-IV.- Enviar tanto a la Comisión de Alcoholes como a la Dirección de Alcoholes, el estado de cuenta de cada una (sic) de los establecimientos en caso de realizar algún trámite administrativo; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-V.- Las demás que le confiera el Secretario de Finanzas y Tesorero Municipal y/o autoridades competentes.
+IV.- Enviar tanto a la Comisión de Comercio, Alcoholes y Espectáculos, como a la Dirección de Comercio, y Alcoholes el estado de cuenta de cada una (sic) de los establecimientos en caso de realizar algún trámite administrativo; y
 
-D) CORRESPONDE AL PERSONAL ADSCRITO A LA DIRECCIÓN DE ALCOHOLES DEL R. AYUNTAMIENTO LAS SIGUIENTES OBLIGACIONES:
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+V.- Las demás que le confiera el Secretario de Tesorería y Finanzas y/o autoridades competentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+D) CORRESPONDE AL PERSONAL ADSCRITO A LA DIRECCIÓN COMERCIO (SIC) Y ALCOHOLES DEL R. AYUNTAMIENTO LAS SIGUIENTES OBLIGACIONES:
 
 I. Realizar las visitas de inspección, vigilancia y control de establecimientos, elaborando las actas circunstanciadas, actas de visita y/o ordenes de visita.
 
@@ -371,7 +419,9 @@ VII. Solicitar el apoyo de Seguridad Pública, Protección Civil y/o Vialidad, e
 
 VIII. Imponer, Reimponer o Retirar sellos de suspensión o clausura, previo acuerdo de la Autoridad correspondiente.
 
-IX. Rendir reporte diario de actividades al Director de Alcoholes.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IX.- Rendir reporte diario de actividades al Director de Comercio y Alcoholes.
 
 X. Realizar las investigaciones de las solicitudes para establecimientos; y
 
@@ -463,9 +513,11 @@ El R. Ayuntamiento en Pleno, es la Autoridad facultada para otorgar, negar o rev
 
 Para que un establecimiento en el que se expendan o consuman bebidas alcohólicas pueda iniciar operaciones, requiere autorización previa y por escrito del R. Ayuntamiento, en los términos de la Ley de Hacienda y de este Reglamento. Esta autorización previa y por escrito será la licencia que acredite el legal funcionamiento del establecimiento.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 20.
 
-La Licencia otorgada en contravención de los requisitos o disposiciones establecidas por éste y otros Reglamentos o las leyes vigentes al momento de su expedición será revocable de pleno derecho. Las Licencias expedidas por el R. Ayuntamiento por este supuesto, deberán ser revocadas únicamente por el R. Ayuntamiento en Sesión de Cabildo en Pleno, a propuesta del Presidente Municipal o de la Comisión de Alcoholes del R. Ayuntamiento; solo en el caso de que la persona física o moral satisfaga los requisitos o las disposiciones vigentes podrá otorgársele nueva licencia.
+La Licencia otorgada en contravención de los requisitos o disposiciones establecidas por éste y otros Reglamentos o las leyes vigentes al momento de su expedición será revocable de pleno derecho. Las Licencias expedidas por el R. Ayuntamiento por este supuesto, deberán ser revocadas únicamente por el R. Ayuntamiento en Sesión de Cabildo en Pleno, a propuesta del Presidente Municipal o de la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento; solo en el caso de que la persona física o moral satisfaga los requisitos o las disposiciones vigentes podrá otorgársele nueva licencia.
 
 ###### ARTÍCULO 21.
 
@@ -476,6 +528,10 @@ El Ayuntamiento podrá negar una licencia para venta de bebidas alcohólicas en 
 Los establecimientos deberán ubicarse a una distancia RADIAL mínima de 200 metros, contados a partir de los límites de la propiedad de las instituciones educativas, iglesias, templos, hospitales, clínicas y centros de salud, con excepción de los abarrotes, minisúper, tiendas de conveniencia, tiendas de autoservicio; restaurantes y establecimientos cuya actividad preponderante sea la preparación de alimentos; centros o clubes sociales o deportivos; estadios de fútbol y béisbol; arenas de box y lucha libre; plazas de toros y en general todo lugar en que se realicen actividades deportivas.
 
 De igual forma no podrán establecerse negocios que se dediquen al mismo giro de venta, distribución y consumo de bebidas alcohólicas, en envase cerrado, para su consumo o al copeo, dentro de un perímetro de 200-doscientos metros contados a partir del límite de propiedad de los ya autorizados y en funcionamiento o bien de los que en lo sucesivo se autoricen, por lo que deberá haber una distancia mínima de 200-doscientos metros entre los negocios de nueva autorización. Esta disposición no aplicará para aquellos que se pretendan ubicar en los corredores urbanos y/o comerciales.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+En caso en el (sic) que sea Fraccionamiento Nuevo, no se podrá iniciar trámite, hasta que se tenga por lo menos los vecinos que se hace mención en el artículo 23 en la fracción VII del presente Ordenamiento.
 
 ###### ARTÍCULO 23.
 
@@ -493,11 +549,15 @@ V.- Presentar constancia de pagos actualizados de diligencias de inspección, de
 
 VI.- Presentar original de la Licencia de Uso de la Edificación y justificar haber cumplido con los lineamientos establecidos en dicha licencia.
 
-VII.- Acompañar la firma o anuencia de los vecinos residentes inmediatos de la zona o sector donde se localiza el establecimiento pretendido, las cuales no deberán ser menos de quince. Estas firmas serán revisadas por la Dirección de Alcoholes para constatar su autenticidad y su valorización de inmediatez quedara sujeta a juicio de la Comisión de Alcoholes.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VII.- Acompañar la firma o anuencia de los vecinos residentes inmediatos de la zona o sector donde se localiza el establecimiento pretendido, las cuales no deberán ser menos de quince. Estas firmas serán revisadas por la Dirección de Comercio y Alcoholes para constatar su autenticidad y su valorización de inmediatez quedara sujeta a juicio de la Comisión de Comercio, Alcoholes y Espectáculos, y en el supuesto en el cual, no existiese vecino inmediato, debido a que se encuentra una casa deshabitada o en su caso un lote baldio, se tendrá que constatar con una constancia que deberá emitir el Delegado Municipal.
 
 VIII.- No estar impedido para ejercer el comercio, de acuerdo a las disposiciones legales aplicables y no ser servidor público de la Federación, del Estado o del Municipio. Debiendo presentar escrito de protesta de decir verdad de cumplir esta disposición.
 
-IX.- No estar comprendido dentro de los supuestos establecidos por los Artículos 35 y 39 de este Reglamento.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IX.- No estar comprendido dentro de los supuestos establecidos por el Artículo 39 de este Reglamento.
 
 X.- En caso de ser extranjero el solicitante deberá anexar documentación con la cual acredite estar autorizado por la Secretaría de Gobernación para dedicarse a actividades remuneradas en el país.
 
@@ -509,13 +569,17 @@ XII.- Los demás requisitos establecidos en este Reglamento y otros ordenamiento
 
 No se asignara folio ni se dará tramite a aquellas solicitudes que no reúnan los requisitos y la documentación exigida por el artículo anterior.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 25.
 
-Recibida la solicitud con toda la documentación completa a que se refiere el Artículo 23 de este Reglamento, la Secretaría del Ayuntamiento o la dependencia que ésta designe, la foliará e integrará el expediente administrativo correspondiente, enviándolo a la Dirección de Alcoholes para que ésta realice una inspección al establecimiento motivo de la solicitud, dentro de un término de 15-quince días hábiles contados a partir de la fecha en que se recibió la solicitud, a fin de verificar los datos proporcionados por el solicitante y a efecto de constatar que se cumpla con las distancias radiales a que se refiere el Artículo 21 de este Ordenamiento, de todo lo cual se deberá levantar croquis y acta circunstanciada.
+Recibida la solicitud con toda la documentación completa a que se refiere el Artículo 23 de este Reglamento, la Secretaría del Ayuntamiento o la dependencia que ésta designe, la foliará e integrará el expediente administrativo correspondiente, enviando a la Dirección de Comercio y Alcoholes copia simple de expediente, para que ésta realice una inspección al establecimiento motivo de la solicitud, dentro de un término de 15-quince días hábiles contados a partir de la fecha en que se recibió la solicitud, a fin de verificar los datos proporcionados por el solicitante y a efecto de constatar que se cumpla con las distancias radiales a que se refiere el Artículo 22 de este Ordenamiento, de todo lo cual se deberá levantar croquis y acta circunstanciada.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 26.
 
-Levantada el acta señalada en el Artículo anterior, se agregará al expediente administrativo formado, incluyendo el predictamen firmado por el Coordinador de Espectáculos y Permisos, luego será turnado en sesión de cabildo a los integrantes de la Comisión de Alcoholes del R. Ayuntamiento, quienes previo estudio y verificación de las disposiciones legales y reglamentarias aplicables, elaborarán el dictamen correspondiente al caso, y lo someterán a consideración del Pleno del R. Ayuntamiento en diversa sesión de Cabildo para la aprobación, negación o revocación de la Licencia solicitada; en estos últimos dos casos, la resolución será notificada en forma personal al solicitante a través de la Secretaría del Ayuntamiento o mediante la dependencia que ésta designe.
+Levantada el acta señalada en el Artículo anterior, se agregará al expediente administrativo formado, incluyendo el predictamen firmado por el Director de Espectáculos y Permisos, luego será turnado en sesión de cabildo a los integrantes de la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento, quienes previo estudio y verificación de las disposiciones legales y reglamentarias aplicables, elaborarán el dictamen correspondiente al caso, y lo someterán a consideración del Pleno del R. Ayuntamiento en diversa sesión de Cabildo para la aprobación, negación o revocación de la Licencia solicitada; en estos últimos dos casos, la resolución será notificada en forma personal al solicitante a través de la Secretaría del Ayuntamiento o mediante la dependencia que ésta designe.
 
 ###### ARTÍCULO 27.
 
@@ -529,9 +593,11 @@ Las Licencias concedidas por el R. Ayuntamiento, para las actividades reguladas 
 
 Las licencias, solo podrán ser transferidas de acuerdo con los supuestos y requisitos que establece el presente Reglamento, por ende queda prohibido la transmisión por cualquier medio que implique la explotación del título por cualquier otra persona.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 30.
 
-La Tesorería Municipal, llevará el empadronamiento o registro de las Licencias, para efecto de control de los establecimientos, el cual contendrá los siguientes datos:
+La Secretaría de Tesorería y Finanzas, llevará el empadronamiento o registro de las Licencias, para efecto de control de los establecimientos, el cual contendrá los siguientes datos:
 
 I.- Nombre del titular.
 
@@ -565,7 +631,9 @@ II.- Indicar la causa o motivo del evento o celebración y su duración.
 
 III.- Presentar plan de seguridad para el desarrollo del evento, debidamente dictaminado y avalado por la Dirección de Protección Civil.
 
-IV.- Certificación actualizada de no adeudo expedida por la Secretaría de Finanzas y Tesorería Municipal; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV.- Certificación actualizada de no adeudo expedida por la Secretaría de Tesorería y Finanzas Municipal; y
 
 V.- Cubrir el pago de los derechos correspondiente (sic).
 
@@ -575,13 +643,15 @@ Recibida la solicitud y reunidos los anteriores requisitos, la Autoridad Municip
 
 Los permisos a que se refiere el artículo anterior, deberán otorgarse a nombre de la persona física o moral que lo solicita, expresando la duración del permiso, lugar y horario de funcionamiento, la delimitación del área específica donde se expenderán o consumirán las bebidas alcohólicas, su tipo y cantidad, así como las medidas de seguridad o condiciones especificas que deba cumplir su titular, la firma del C. Secretario del R. Ayuntamiento y el sello correspondiente.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 34.
 
-La Secretaría del Ayuntamiento a través de la Dirección de Alcoholes, deberá contar con un Padrón confiable y actualizado de todos los establecimientos, licencias y permisos existentes, el cual será puesto al conocimiento de la ciudadanía mediante la página electrónica con la cual cuente el Municipio.
+La Secretaría del Ayuntamiento a través de la Dirección de Comercio y Alcoholes, deberá contar con un Padrón confiable y actualizado de todos los establecimientos, licencias y permisos existentes, el cual será puesto al conocimiento de la ciudadanía mediante la página electrónica con la cual cuente el Municipio.
 
 ###### ARTÍCULO 35.
 
-La autoridad municipal competente no deberá dar trámite a solicitudes para aprobación de cambios de titular o de nuevas licencias, respecto a cualquier establecimiento de los señalados por este Reglamento, a persona física o moral que de acuerdo con el Padrón señalado en el artículo anterior cuente con más de tres Licencias o Permisos expedidos a su favor y en todo caso la solicitud deberá ser negada por el R. Ayuntamiento.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2008)
 
 ### CAPÍTULO SEXTO. DE LOS CAMBIOS DE TITULAR, GIRO O DOMICILIO
 
@@ -599,7 +669,9 @@ El trámite para realizar el cambio de titular o traspaso por enajenación de la
 
 3).- Realizar la solicitud y trámite dentro de los siguientes 90 días naturales a la cesión de derechos del permiso. La omisión de lo anterior será causa de clausura definitiva y revocación del permiso.
 
-4).- Visto Bueno de no adeudos expedido por la Secretaría de Finanzas y Tesorería Municipal.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+4).- Visto Bueno de no adeudos expedido por la Secretaría de Tesorería y Finanzas.
 
 5).- No estar comprendido dentro de los supuestos establecidos por los Artículos 35 y 39 de este Reglamento; y
 
@@ -633,7 +705,9 @@ I.- Llenar solicitud por escrito, y expresar las razones del cambio, bajo protes
 
 II.- En caso de ampliación de giro o cambio de domicilio o ampliación de los metros cuadrados autorizados, deberá reunir adicionalmente los requisitos exigidos para el trámite de licencia mencionados en el artículo 23 de este Reglamento.
 
-III.- Visto bueno actualizado de no adeudos expedido por la Secretaría de Finanzas y Tesorería Municipal.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+III.- Visto bueno actualizado de no adeudos expedido por la Secretaría de Tesorería y Finanzas.
 
 IV.- Entregar la licencia original anterior o en su defecto la Certificación expedida por el C. Secretario del Ayuntamiento.
 
@@ -655,23 +729,29 @@ I.- El titular deberá presentarse con identificación oficial, llenar y firmar 
 
 II.- Presentar la Licencia en original.
 
-III.- Verificación y Visto Bueno de no adeudos de impuesto predial, multas y otros, expedido por la Secretaría de Finanzas y Tesorería Municipal, y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+III.- Verificación y Visto Bueno de no adeudos de impuesto predial, multas y otros, expedido por la Secretaría de Tesorería y Finanzas, y
 
 IV.- Cubiertos los requisitos anteriores, y efectuado el pago, en ese momento se expedirá el recibo de pago del refrendo.
 
 La falta de cumplimiento de cualquiera de los requisitos anteriores será suficiente para no otorgar el refrendo, mediante acuerdo fundado y motivado.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 47.
 
-El recibo de pago de refrendo que llegara a expedirse y que corresponda a una licencia transferida, cedida, comprada o arrendada sin previa autorización del R. Ayuntamiento, será nulo de pleno derecho y no tendrá efecto legal alguno, procediendo la revocación del mismo por la Secretaría de Finanzas y Tesorería Municipal.
+El recibo de pago de refrendo que llegara a expedirse y que corresponda a una licencia transferida, cedida, comprada o arrendada sin previa autorización del R. Ayuntamiento, será nulo de pleno derecho y no tendrá efecto legal alguno, procediendo la revocación del mismo por la Secretaría de Secretaría (sic) de Tesorería y Finanzas.
 
 ###### ARTÍCULO 48.
 
 Los titulares de las licencias otorgadas para operar establecimientos regulados por este Reglamento, deberán efectuar su pago de refrendo y presentar la documentación requerida en este capítulo, a más tardar hasta el último día hábil del mes de marzo de cada año.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 49.
 
-La Secretaría de Finanzas y Tesorería Municipal, deberá turnar a la Comisión de Alcoholes del R. Ayuntamiento en un término de 15-quince días naturales a partir del día siguiente de la fecha del párrafo anterior, la relación de los negocios no refrendados que estarán sujetos a procedimiento administrativo de ejecución en términos del Código Fiscal. De igual manera la Secretaría de Finanzas y Tesorería Municipal infonnará (sic) a la Comisión de Alcoholes, cada trimestre, acerca del estado que guardan los procedimientos administrativos de ejecución, o si se efectúo el pago correspondiente.
+La Secretaría de Tesorería y Finanzas, deberá turnar a la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento en un término de 15-quince días naturales a partir del día siguiente de la fecha del párrafo anterior, la relación de los negocios no refrendados que estarán sujetos a procedimiento administrativo de ejecución en términos del Código Fiscal. De igual manera la Secretaría de Tesorería y Finanzas informará a la Comisión de Comercio, Alcoholes y Espectáculos cada trimestre, acerca del estado que guardan los procedimientos administrativos de ejecución, o si se efectúo el pago correspondiente.
 
 ### CAPÍTULO OCTAVO. DE LAS OBLIGACIONES DE LOS TITULARES DE LAS LICENCIAS
 
@@ -853,9 +933,11 @@ LI.- Expender o permitir la venta de bebidas alcohólicas en establecimientos si
 
 LII.- Las demás que se señalan en este Reglamento u otro ordenamiento federal, estatal o municipal.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 52.
 
-Cuando la Dirección de Alcoholes, tenga informes, quejas, denuncias y/o el conocimiento de que se realiza la venta, expendio y/o consumo de bebidas alcohólicas adulteradas, contaminadas y/o alteradas, lo informara de inmediato mediante oficio a la Secretaría de Salud del Estado, para que proceda como autoridad.
+Cuando la Dirección de Comercio y Alcoholes, tenga informes, quejas, denuncias y/o el conocimiento de que se realiza la venta, expendio y/o consumo de bebidas alcohólicas adulteradas, contaminadas y/o alteradas, lo informara de inmediato mediante oficio a la Secretaría de Salud del Estado, para que proceda como autoridad.
 
 ### CAPÍTULO DECIMO. DE LOS DIAS Y HORARIOS AUTORIZADOS
 
@@ -885,7 +967,9 @@ Fuera del horario establecido, dichos establecimientos deberán permanecer cerra
 
 El horario a que se refiere este Artículo no será aplicable a quienes vendan y distribuyan bebidas alcohólicas directamente a mayoristas y detallistas; siempre y cuando fuera del horario referido, se evite la venta al público en general en los establecimientos.
 
-La Dirección de Alcoholes llevará un registro de los establecimientos que deberán estar cerrados y de los que se encuentren excepcionados de tal supuesto, en los términos de este Artículo.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+La Dirección de Comercio y Alcoholes llevará un registro de los establecimientos que deberán estar cerrados y de los que se encuentren excepcionados de tal supuesto, en los términos de este Artículo.
 
 ###### ARTÍCULO 55.
 
@@ -893,23 +977,31 @@ Los establecimientos a que se refiere este Reglamento, deberán colocar en su(s)
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 56.
 
-Es facultad del C. Secretario del Ayuntamiento, llevar a efecto la inspección y vigilancia del almacenaje, distribución, expendio, venta y/o consumo de bebidas alcohólicas para el cumplimiento del presente Reglamento. Lo anterior a través de la Dirección de Alcoholes y del personal que de ella depende.
+Es facultad del C. Secretario del Ayuntamiento, llevar a efecto la inspección y vigilancia del almacenaje, distribución, expendio, venta y/o consumo de bebidas alcohólicas para el cumplimiento del presente Reglamento. Lo anterior a través de la Dirección de Comercio y Alcoholes y del personal que de ella depende.
 
 Sobre las atribuciones establecidas en este Reglamento para la Dirección de Protección Civil, se faculta a la misma para llevar a cabo actividades de inspección, verificación y vigilancia.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 57.
 
-La Dirección de Alcoholes, esta facultada para inspeccionar y vigilar el cumplimiento que los establecimientos den al presente Reglamento, levantando Actas Circunstanciadas de Inspección en cualquier momento, todos los días del año y sin necesidad de aviso o notificación previa, otorgando un plazo de 5-cinco días hábiles contados a partir del día hábil siguiente, al que fuera levantada el acta, a fin de que el propietario y/o quien acredite su interés jurídico comparezca a su derecho de audiencia, aporte las pruebas y los alegatos de su intención.
+La Dirección de Comercio y Alcoholes, esta facultada para inspeccionar y vigilar el cumplimiento que los establecimientos den al presente Reglamento, levantando Actas Circunstanciadas de Inspección en cualquier momento, todos los días del año y sin necesidad de aviso o notificación previa, otorgando un plazo de 5-cinco días hábiles contados a partir del día hábil siguiente, al que fuera levantada el acta, a fin de que el propietario y/o quien acredite su interés jurídico comparezca a su derecho de audiencia, aporte las pruebas y los alegatos de su intención.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 58.
 
-La Dirección de Alcoholes, esta facultada para imponer como Medida Administrativa de inmediata ejecución, la suspensión de actividades y colocación de sellos y símbolos respectivos cuando de manera flagrante se sorprenda la venta, distribución y/o consumo de cerveza o bebidas alcohólicas en lugares o establecimientos que no cuenten con la debida autorización expedida por la autoridad competente; citando al Propietario Responsable, Administrador, Encargado u Ocupante del mismo a una audiencia dentro las siguientes 24 horas hábiles, en la cual éste podrá alegar lo que a su interés convenga y aportar las pruebas de su intención. Posterior a ello la autoridad dictara la resolución correspondiente.
+La Dirección de Comercio y Alcoholes, esta facultada para imponer como Medida Administrativa de inmediata ejecución, la suspensión de actividades y colocación de sellos y símbolos respectivos cuando de manera flagrante se sorprenda la venta, distribución y/o consumo de cerveza o bebidas alcohólicas en lugares o establecimientos que no cuenten con la debida autorización expedida por la autoridad competente; citando al Propietario Responsable, Administrador, Encargado u Ocupante del mismo a una audiencia dentro las siguientes 24 horas hábiles, en la cual éste podrá alegar lo que a su interés convenga y aportar las pruebas de su intención. Posterior a ello la autoridad dictara la resolución correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 59.
 
-Las inspecciones practicadas por la Dirección de Alcoholes, se podrán efectuar en cualquier tiempo y tendrán como fin, verificar que se cumplan las disposiciones contenidas en el presente Reglamento.
+Las inspecciones practicadas por la Dirección de Comercio y Alcoholes, se podrán efectuar en cualquier tiempo y tendrán como fin, verificar que se cumplan las disposiciones contenidas en el presente Reglamento.
 
 Para la realización de las labores de inspección y vigilancia son hábiles para la autoridad municipal, las 24 horas del día y todos los días del año.
 
@@ -959,9 +1051,11 @@ La oposición, resistencia o impedimento para la práctica de visitas de inspecc
 
 Quienes realicen la inspección, por ningún motivo podrán imponer las sanciones a que se refiere este Reglamento, salvo el caso de flagrancia en la violación y los casos en que se debe aplicar la clausura inmediata, formulándose en dicho caso acta circunstanciada y entregando copia a la persona con quien se entienda la diligencia.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 65.
 
-El Director de Alcoholes, mediante oficio remitirá el original del acta circunstanciada y de inspección a la Dirección Jurídica, manifestando si existen objetos, productos y/o materiales decomisados relacionados con los hechos con su respectivo inventario y en su caso el lugar donde se encuentran bajo resguardo, para tal efecto deberá remitir esta información a las 08:00 horas al siguiente día hábil, de haberse finalizado el acta circunstanciada y de inspección.
+El Director de Comercio y Alcoholes, mediante oficio remitirá el original del acta circunstanciada y de inspección a la Dirección Jurídica, manifestando si existen objetos, productos y/o materiales decomisados relacionados con los hechos con su respectivo inventario y en su caso el lugar donde se encuentran bajo resguardo, para tal efecto deberá remitir esta información a las 08:00 horas al siguiente día hábil, de haberse finalizado el acta circunstanciada y de inspección.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DERECHO DE AUDIENCIA
 
@@ -1003,21 +1097,27 @@ Entendiéndose por:
 
 IMPROCEDENCIA: Dejar sin efecto todo lo actuado en las Diligencias de Orden de Visita y/o Acta Circunstanciada.
 
-PROCEDENCIA: Turnar ante la Secretaría de Finanzas y Tesorería las Diligencias de Orden de Visita y/o Acta Circunstanciada.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+PROCEDENCIA: Turnar ante la Secretaría de Tesorería y Finanzas las Diligencias de Orden de Visita y/o Acta Circunstanciada.
 
 APERCIBIMIENTO: Es aquel que se aplicará a toda persona que se sorprenda en disposición de cometer una infracción y para el efecto se le ilustrará sobre la competencia y alcances de la autoridad administrativa competente para actuar en caso de infringir este ordenamiento.
 
 AMONESTACION: Aquella que se impondrá a toda persona, con el afán de advertir las consecuencias de una infracción, notificando que se exigirá por la autoridad competente la enmienda y a la vez conminándolo de que se aplicará una sanción en caso de reincidencia.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 72.
 
-Cuando se ordene la procedencia de la infracción, la Dirección Jurídica la remitirá a la Dirección de Alcoholes para que proceda a la notificación y/o ejecución de la misma. Enviando además una copia de dicha resolución a la Secretaría de Finanzas y Tesorería Municipal, a través de la Dirección de Ingresos para que ésta realice la calificación y cobro de las sanciones pecuniarias que se hubieren impuesto.
+Cuando se ordene la procedencia de la infracción, la Dirección Jurídica la remitirá a la Dirección de Comercio y Alcoholes para que proceda a la notificación y/o ejecución de la misma. Enviando además una copia de dicha resolución a la Secretaría de Tesorería y Finanzas, a través de la Dirección de Ingresos para que ésta realice la calificación y cobro de las sanciones pecuniarias que se hubieren impuesto.
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LAS SANCIONES Y MEDIDAS ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 73.
 
-Las infracciones a la Ley en lo que se refiere a las facultades de los municipios, y a este Reglamento; serán sancionadas y calificadas por la Secretaría de Finanzas y Tesorería o por el R. Ayuntamiento, según el caso, en los términos de lo dispuesto en el presente Capítulo; salvo en las facultades otorgadas a la Dirección de Protección Civil, en cuyo caso también estará facultada para imponer la sanción.
+Las infracciones a la Ley en lo que se refiere a las facultades de los municipios, y a este Reglamento; serán sancionadas y calificadas por la Secretaría de Tesorería y Finanzas o por el R. Ayuntamiento, según el caso, en los términos de lo dispuesto en el presente Capítulo; salvo en las facultades otorgadas a la Dirección de Protección Civil, en cuyo caso también estará facultada para imponer la sanción.
 
 ###### ARTÍCULO 74.
 
@@ -1071,7 +1171,9 @@ II.- Clausura inmediata de aparatos enfriadores, cuartos fríos y demás enseres
 
 III.- Desocupación y desalojo del establecimiento en los giros que corresponda.
 
-IV.- Decomiso y aseguramiento de productos, previo inventario levantado por el inspector ejecutor y/o por la persona habilitada por la Dirección de Alcoholes, con la firma de 2 testigos de asistencia.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV.- Decomiso y aseguramiento de productos, previo inventario levantado por el inspector ejecutor y/o por la persona habilitada por la Dirección de Comercio y Alcoholes, con la firma de 2 testigos de asistencia.
 
 V.- Uso de la Fuerza Pública.
 
@@ -1085,13 +1187,17 @@ El uso de la fuerza pública se utilizará para hacer guardar el orden en el int
 
 Las Medidas Administrativas que se dicten serán comunicadas al titular o encargado del establecimiento por escrito en la misma acta de inspección levantada para tal efecto, para su inmediata ejecución.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 79.
 
-Corresponde al R. Ayuntamiento a través de la Comisión de Alcoholes, el determinar la cancelación, revocación de la Licencia o Permiso y la clausura definitiva del establecimiento.
+Corresponde al R. Ayuntamiento a través de la Comisión de Comercio, Alcoholes y Espectáculos, el determinar la cancelación, revocación de la Licencia o Permiso y la clausura definitiva del establecimiento.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 80.
 
-Cuando la Dirección de Alcoholes y/o la Dirección de Seguridad Pública, tenga conocimiento que un menor de edad o un incapaz mental, proporcionó datos falsos para obtener bebidas alcohólicas, deberá informar mediante oficio a la Autoridad Competente, con una síntesis de los datos, hechos e información, a fin de que aplique el tratamiento indicado.
+Cuando la Dirección de Comercio, Alcoholes y Espectáculos y/o la Dirección de Seguridad Pública, tenga conocimiento que un menor de edad o un incapaz mental, proporcionó datos falsos para obtener bebidas alcohólicas, deberá informar mediante oficio a la Autoridad Competente, con una síntesis de los datos, hechos e información, a fin de que aplique el tratamiento indicado.
 
 ###### ARTÍCULO 81.
 
@@ -1103,7 +1209,9 @@ La prescripción para la aplicación de las sanciones será de cinco años y los
 
 La multa deberá estar motivada y fundamentada y se aplicará conforme a los rangos mínimo y máximo determinados para cada infracción y se individualizará aplicando en cada caso particular los criterios establecidos en el capitulo anterior.
 
-Recibida el Acta de Inspección, la Dirección Jurídica del R. Ayuntamiento, desahogará la audiencia de pruebas y alegatos, con o sin la asistencia de la parte interesada, ordenará en su caso la imposición de la multa y la procedencia de la infracción enviando dicho acuerdo a la Secretaría de Finanzas y Tesorería Municipal para su cuantificación y cobro.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+Recibida el Acta de Inspección, la Dirección Jurídica del R. Ayuntamiento, desahogará la audiencia de pruebas y alegatos, con o sin la asistencia de la parte interesada, ordenará en su caso la imposición de la multa y la procedencia de la infracción enviando dicho acuerdo a la Secretaría de Tesorería y Finanzas para su cuantificación y cobro.
 
 ###### ARTÍCULO 83.
 
@@ -1111,7 +1219,7 @@ Las infracciones al presente Reglamento serán calificadas dentro del mínimo y 
 
 > <small>N. DE E. VEASE TABLA EN EL P.O. DE 7 DE DICIEMBRE DE 2007, DE LA PAGINA 133 A LA 138.</small>
 
-> <small>N. DE E. FE DE ERRATAS A LA TABLA, P.O. 15 DE FEBRERO DE 2008.</small>
+> <small>N. DE E. FE DE ERRATAS A LA TABLA, P.O. 15 DE FEBRERO DE 2008, REFORMAS A LA TABLA, P.O. 18 DE AGOSTO DE 2008.</small>
 
 Para los efectos de este Artículo, al hacerse referencia a cuota, se entenderá el equivalente a un salario mínimo general diario vigente para la Zona Geográfica que se determine en el Diario Oficial de la Federación.
 
@@ -1139,13 +1247,17 @@ III.- En las infracciones establecidas en los artículos 50 Fracción VIII, X, X
 
 En los demás casos de infracciones del Artículo 83, al incurrirse nuevamente en la misma y/o diversa infracción, se aplicará además de la multa, la sanción de clausura y/o revocación de la licencia, si las infracciones se cometen en un período de 180-ciento ochenta días naturales, a partir de la primera infracción y/o cometer 3-tres o más infracciones, en un período de un año, o 5-cinco infracciones en un período de dos años contados a partir de la primera infracción.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 86.
 
-El pago de las multas que se impongan, se efectuará únicamente en las cajas de recaudación autorizadas por la Dirección de Ingresos o la Secretaría de Finanzas y Tesorería, quien extenderá el recibo oficial de pago al infractor, una vez que haya cubierto el pago de la misma.
+El pago de las multas que se impongan, se efectuará únicamente en las cajas de recaudación autorizadas por la Dirección de Ingresos o la Secretaría de Tesorería y Finanzas, quien extenderá el recibo oficial de pago al infractor, una vez que haya cubierto el pago de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 87.
 
-El Director de Alcoholes elaborará un informe mensual de los establecimientos que hayan cometido infracciones y una copia de dicho informe será turnado a la Comisión de Alcoholes, en los primeros 05-cinco días hábiles de cada mes, y en el se indicará:
+El Director de Comercio y Alcoholes elaborará un informe mensual de los establecimientos que hayan cometido infracciones y una copia de dicho informe será turnado a la Comisión de Comercio, Alcoholes y Espectáculos, en los primeros 05-cinco días hábiles de cada mes, y en el se indicará:
 
 I.- Nombre del titular, domicilio del establecimiento, giro comercial, número de cuenta y razón social.
 
@@ -1167,9 +1279,11 @@ Las infracciones que sean sancionadas con multa y a la vez con clausura parcial,
 
 La clausura inmediata como medida administrativa persistirá hasta en tanto se aplica la clausura temporal o definitiva con las formalidades que exige este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 89.
 
-La Dirección de Alcoholes a través del personal a su cargo, podrá aplicar como medida administrativa la clausura inmediata del establecimiento o lugar inspeccionado, cuando durante la visita de inspección se detecte que:
+La Dirección de Comercio y Alcoholes a través del personal a su cargo, podrá aplicar como medida administrativa la clausura inmediata del establecimiento o lugar inspeccionado, cuando durante la visita de inspección se detecte que:
 
 I.- Se realiza la venta, almacenaje o distribución de bebidas alcohólicas sin la licencia o permiso correspondiente.
 
@@ -1217,7 +1331,9 @@ I.- Se citará al titular de la Licencia, el día, hora y lugar para que se desa
 
 II.- El Secretario del Ayuntamiento, una vez desahogadas las pruebas dentro de un plazo de 5- cinco días hábiles posteriores al de la audiencia de pruebas y alegatos deberá emitir resolución.
 
-III.- Cuando en la resolución se imponga alguna sanción pecuniaria, ésta deberá ser notificada a la Secretaría de Finanzas y Tesorería Municipal para que proceda a su cobro.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+III.- Cuando en la resolución se imponga alguna sanción pecuniaria, ésta deberá ser notificada a la Secretaría de Tesorería y Finanzas para que proceda a su cobro.
 
 ###### ARTÍCULO 92.
 
@@ -1239,7 +1355,9 @@ II.- Por no presentarse el titular de la Licencia o su representante legal, a re
 
 III.- Por cometer 3-tres o más violaciones a las disposiciones de este Reglamento, en un período de un año, contados a partir de la primera infracción.
 
-IV.- Cuando en el interior del establecimiento se permita, propicie, favorezca, incentive y/o tolere el ejercicio de la prostitución, la asignación de citas, de cuartos, espectáculos de cualquier índole con desnudos y semidesnudos que inciten a la conducta lasciva, la corrupción de menores y/o incapaces mentales, se vendan y/o consuman drogas, enervantes y/o cualquier otra sustancia o producto con efectos psicotrópicos, se provoque alguna riña, se altere el orden y/o se exponga la integridad física de las personas. Se entenderá que se tolera un hecho y son imputables en la participación directa o indirecta el titular, administrador, representante, encargado y/o empleado responsable, cuando conozcan de la situación y no lo hayan reportado a la Secretaría de Seguridad Pública y la Dirección de Alcoholes.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV.- Cuando en el interior del establecimiento se permita, propicie, favorezca, incentive y/o tolere el ejercicio de la prostitución, la asignación de citas, de cuartos, espectáculos de cualquier índole con desnudos y semidesnudos que inciten a la conducta lasciva, la corrupción de menores y/o incapaces mentales, se vendan y/o consuman drogas, enervantes y/o cualquier otra sustancia o producto con efectos psicotrópicos, se provoque alguna riña, se altere el orden y/o se exponga la integridad física de las personas. Se entenderá que se tolera un hecho y son imputables en la participación directa o indirecta el titular, administrador, representante, encargado y/o empleado responsable, cuando conozcan de la situación y no lo hayan reportado a la Secretaría de Seguridad Pública y la Dirección de Comercio y Alcoholes.
 
 V.- Cuando el establecimiento opere en un lugar distinto al autorizado en la licencia.
 
@@ -1259,11 +1377,17 @@ I.- Clausurar en forma inmediata el lugar hasta en tanto se resuelva la clausura
 
 II.- Citar al titular de la Licencia, en día, lugar y hora señalada para que comparezca por sí o por conducto de su representante legal a desahogar la audiencia de pruebas y alegatos, en un término 5-cinco días hábiles contados a partir del día siguiente de ejecutada la clausura inmediata, en la cual podrá ofrecer las pruebas y alegatos correspondientes, en un trámite administrativo, dentro de un procedimiento que se seguirá en la Dirección Jurídica dependiente de la Secretaría del Ayuntamiento.
 
-III.- El Secretario del Ayuntamiento, una vez desahogadas las pruebas y formulados los alegatos, dentro del plazo de 10-diez días posteriores al desahogo de la audiencia, deberá remitir el expediente a la Comisión de Alcoholes del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-IV.- La Comisión de Alcoholes estudiará, analizará y emitirá un dictamen final que someterá al Pleno en la siguiente sesión del R. Ayuntamiento.
+III.- El Secretario del Ayuntamiento, una vez desahogadas las pruebas y formulados los alegatos, dentro del plazo de 10-diez días posteriores al desahogo de la audiencia, deberá remitir el expediente a la Comisión de Comercio, Alcoholes y Espectáculos del R. Ayuntamiento.
 
-V.- Si el R. Ayuntamiento acuerda la clausura definitiva y la revocación de la Licencia, lo hará del conocimiento del Secretario del Ayuntamiento para que proceda a la ejecución de la clausura definitiva y al Secretario de Finanzas y Tesorero Municipal se le notificara la revocación de la licencia para el cobro de las multas en caso de existir y cancelación del número de cuenta del titular.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV.- La Comisión Comercio (sic), Alcoholes y Espectáculos estudiará, analizará y emitirá un dictamen final que someterá al Pleno en la siguiente sesión del R. Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+V.- Si el R. Ayuntamiento acuerda la clausura definitiva y la revocación de la Licencia, lo hará del conocimiento del Secretario del Ayuntamiento para que proceda a la ejecución de la clausura definitiva y al Secretario de Tesorería y Finanzas se le notificara la revocación de la licencia para el cobro de las multas en caso de existir y cancelación del número de cuenta del titular.
 
 VI.- Se le notificará al titular de la licencia revocada, o por conducto de su representante legal, la resolución o acuerdo tomado en la Sesión del R. Ayuntamiento, estando obligado a entregar la Licencia revocada al municipio para su destrucción.
 
@@ -1279,15 +1403,21 @@ Si dentro del establecimiento que deba ser clausurado se encuentra mercancía su
 
 ### CAPÍTULO DECIMO SEXTO. DE LOS ESTABLECIMIENTOS Y/O DISTRIBUIDORES CLANDESTINOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 95.
 
-El establecimiento y/o distribuidor clandestino, es decir que opere sin licencia y en forma subrepticia o en casa habitación, que se encuentre en flagrancia de venta o distribución de bebidas alcohólicas, se procederá por parte de los Inspectores adscritos a la Dirección de Alcoholes de la siguiente manera:
+El establecimiento y/o distribuidor clandestino, es decir que opere sin licencia y en forma subrepticia o en casa habitación, que se encuentre en flagrancia de venta o distribución de bebidas alcohólicas, se procederá por parte de los Inspectores adscritos a la Dirección de Comercio y Alcoholes de la siguiente manera:
 
 I.- Se aplicará multa y la clausura inmediata del establecimiento como medida cautelar y el aseguramiento de los instrumentos donde se almacenen, encuentren, trasladen o distribuyan bebidas alcohólicas, tales como: hieleras, enfriadores, bodegas, vehículos de reparto, etc. Si se realiza venta de bebidas alcohólicas en casa habitación no se realizará clausura si no existe un área reservada para la venta de bebidas alcohólicas que tenga otra entrada independiente a la de la casa habitación.
 
-II.- Se ordenará el decomiso, aseguramiento y secuestro de productos, objetos y materiales relacionados con la infracción, previo el inventario elaborado por el inspector de alcoholes, el ejecutor fiscal y/o por la persona habilitada por el (sic) Autoridad competente, con la firma de 2 testigos presénciales, lo cual servirá para garantizar el pago de la sanción o multa a que es acreedor el infractor; nombrando, si así conviniera al interés Municipal, en ese acto al propietario o distribuidor del establecimiento clandestino, depositario de las bebidas alcohólicas e instrumentos correspondientes. Si la multa no es liquidada por su infractor dentro del término de 15 días, la Secretaría de Finanzas y Tesorería Municipal requerirá el pago correspondiente, iniciando el procedimiento administrativo de ejecución previsto en el Código Fiscal.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-III.- En caso de oposición, resistencia y/o reincidencia en los establecimientos y/o distribuidores clandestinos, los Inspectores adscritos a la Dirección de Alcoholes, quedan facultados para solicitar el uso de la fuerza pública.
+II.- Se ordenará el decomiso, aseguramiento y secuestro de productos, objetos y materiales relacionados con la infracción, previo el inventario elaborado por el inspector de alcoholes, el ejecutor fiscal y/o por la persona habilitada por el (sic) Autoridad competente, con la firma de 2 testigos presénciales, lo cual servirá para garantizar el pago de la sanción o multa a que es acreedor el infractor; nombrando, si así conviniera al interés Municipal, en ese acto al propietario o distribuidor del establecimiento clandestino, depositario de las bebidas alcohólicas e instrumentos correspondientes. Si la multa no es liquidada por su infractor dentro del término de 15 días, la Secretaría de Tesorería y Finanzas requerirá el pago correspondiente, iniciando el procedimiento administrativo de ejecución previsto en el Código Fiscal.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+III.- En caso de oposición, resistencia y/o reincidencia en los establecimientos y/o distribuidores clandestinos, los Inspectores adscritos a la Dirección de Comercio y Alcoholes, quedan facultados para solicitar el uso de la fuerza pública.
 
 IV.- En caso de que la Autoridad Municipal sea depositario de mercancía decomisada de susceptible descomposición y/o deterioro y en el término de 15-quince días hábiles no se haya hecho el pago de la multa o la reclamación de la mercancía, se iniciara la destrucción de la misma.
 
@@ -1317,9 +1447,11 @@ V.- Señalar nombre y domicilio o datos que permitan la localización del establ
 
 IV (SIC).- El escrito anterior deberá ser ratificado por el quejoso ante la Secretaría del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 99.
 
-La Secretaría del Ayuntamiento turnará el escrito de denuncia a la Dirección de Alcoholes, quien deberá radicarla en caso de que se reúnan los requisitos mencionados en el anterior articulo o bien deberá hacer la prevención correspondiente y posterior a ello deberá escuchar, en caso necesario, la defensa del denunciado.
+La Secretaría del Ayuntamiento turnará el escrito de denuncia a la Dirección de Comercio y Alcoholes, quien deberá radicarla en caso de que se reúnan los requisitos mencionados en el anterior articulo o bien deberá hacer la prevención correspondiente y posterior a ello deberá escuchar, en caso necesario, la defensa del denunciado.
 
 ###### ARTÍCULO 100.
 
@@ -1329,9 +1461,11 @@ De no resolverse la denuncia se entenderá que se emite una resolución negativa
 
 ### CAPÍTULO DECIMO OCTAVO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 101.
 
-Cualquier persona podrá denunciar ante la Comisión de Alcoholes, el Presidente Municipal o la Contraloría Interna Municipal, la responsabilidad en que incurran servidores públicos por el incumplimiento o negligencia en el cumplimiento de sus responsabilidades o facultades establecidas en el presente Reglamento o la trasgresión al mismo. De las denuncias verbales deberá levantarse acta de comparecencia por parte de la autoridad que reciba la misma.
+Cualquier persona podrá denunciar ante la Comisión de Comercio, Alcoholes y Espectáculos, el Presidente Municipal o la Contraloría Interna Municipal, la responsabilidad en que incurran servidores públicos por el incumplimiento o negligencia en el cumplimiento de sus responsabilidades o facultades establecidas en el presente Reglamento o la trasgresión al mismo. De las denuncias verbales deberá levantarse acta de comparecencia por parte de la autoridad que reciba la misma.
 
 ###### ARTÍCULO 102.
 
@@ -1369,9 +1503,11 @@ VI.- Lugar y fecha de la promoción y firma del promovente.
 
 El recurso se interpondrá dentro del término de 15-quince días hábiles, contados a partir de la fecha en que fuere notificado el acuerdo o resolución impugnados, o en el que el interesado tuvo conocimiento de dicho acto o resolución.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 106.
 
-Interpuesto el recurso y admitido, se citará al recurrente para la celebración de una audiencia de pruebas y alegatos, la que se efectuará en un término de 5-cinco días hábiles contados a partir del día siguiente al acto de admisión del recurso.
+Interpuesto el recurso y admitido, la Dirección Jurídica del Ayuntamiento citará al recurrente para la celebración de una audiencia de pruebas y alegatos, la que se efectuará en un término de 5-cinco días hábiles contados a partir del día siguiente al acto de admisión del recurso.
 
 ###### ARTÍCULO 107.
 
@@ -1434,3 +1570,9 @@ PRESIDENTE MUNICIPAL
 LIC. GABRIEL ALBERTO NAVARRO RODRÍGUEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2008.
+
+PRIMERO. Las presentes disposiciones de reformas por adición y modificación al Reglamento de Alcoholes para el Municipio de Santa Catarina, Nuevo León, publicado en el Periódico Oficia (sic) de fecha 07 de Diciembre de 2007, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
