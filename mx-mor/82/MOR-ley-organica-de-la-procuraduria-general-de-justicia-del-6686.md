@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-procuraduria-general-de-justicia-del-6686"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-08-24"
-last_updated: "2008-04-23"
+last_updated: "2008-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de agosto de 1994.
 
@@ -518,3 +520,21 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las investigaciones o procedimientos administrativos que se encuentren en trámite bajo el imperio de la Ley Estatal de Responsabilidades de los Servidores Públicos, publicada en el Periódico Oficial número 4562 de fecha veinticuatro de octubre del dos mil siete, deberán ser remitidas a la Visitaduría General de la Procuraduría General de Justicia, para ser substanciados y resueltos por dicha autoridad, previa notificación que se haga al probable responsable y accionante, figuras consideradas en el artículo 42 de la citada Ley.
 
 TERCERO.- Se establece un plazo de treinta días hábiles para que la Procuraduría General de Justicia, emita o modifique los reglamentos respectivos relacionados con la presente reforma, a efecto de consolidar las funciones de la Visitaduría General.
+
+P.O. 18 DE AGOSTO DE 2008.
+
+PRIMERO.- La presente ley iniciara su vigencia a partir de las cero horas del día treinta de octubre del dos mil ocho.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, publicada el día 24 de Agosto de 1994 en el Periódico Oficial del Estado "Tierra y Libertad".
+
+TERCERO.- En tanto se expiden las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia, reglamento de la Policía Ministerial, la Procuraduría General de Justicia estará facultada para emitir normas generales relativas al desarrollo y operación de dicho Servicio, por lo cual el Ejecutivo del Estado deberá expedir dichos reglamentos en un término de noventa días hábiles.
+
+CUARTO.- Los agentes del Ministerio Público, Agentes de la Policía Ministerial y peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia, se someterán a las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia que se expidan para tal efecto.
+
+QUINTO.- El ejecutivo del Estado deberá expedir el Reglamento de esta Ley en un término de sesenta días hábiles.
+
+SEXTO.- El Gobierno del Estado a través de la Procuraduría General de Justicia del Estado, creará un fondo económico para la restauración y protección especial de las victimas u ofendidos del delito, por medio de un financiamiento en el que participen diversas instituciones del Gobierno del Estado, así como organismos públicos y privados, con el objeto de que las victimas u ofendidos sean resarcidos del daño moral y patrimonial sufrido y con ello lograr que se integren a la sociedad.
+
+SÉPTIMO.- El Ejecutivo del Estado en un término de noventa días deberá crear el fondo que se establece en el transitorio anterior.
+
+OCTAVO.- Derogación tácita de preceptos incompatibles. Quedan derogados los preceptos de la legislación de la entidad, acuerdos, circulares, que se opongan a las disposiciones de este ordenamiento.
