@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-para-el-municipio-de-monterrey-nuevo-14790
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-05"
-last_updated: "2003-01-10"
+last_updated: "2008-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de agosto 1996.
 
@@ -43,25 +43,21 @@ REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
 ###### Art. 1.
 
 El presente reglamento es de orden público e interés social y tiene por objeto regular los servicios de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos, atribuciones y responsabilidades de la autoridad municipal, prohibiciones y obligaciones para los propietarios y obligaciones para los propietarios de inmuebles, habitantes, visitantes o en tránsito en el territorio municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 2.
 
-Las autoridades responsables de la prestación del servicio público son: el R. Ayuntamiento, el Presidente Municipal, el Secretario del R. Ayuntamiento, y el Secretario de Servicios Públicos.
-
-Las Autoridades responsables de la vigilancia de este reglamento son: el R. Ayuntamiento, el Presidente Municipal, el Secretario de Servicios Públicos, el Secretario de Desarrollo Urbano y Ecología, el Secretario de Policía Preventiva Municipal de Monterrey y el Secretario de Vialidad y Tránsito.
+Las autoridades responsables de la prestación del servicio público de Limpia son: el R. Ayuntamiento, el Presidente Municipal, el Secretario del R. Ayuntamiento, y el Secretario de Servicios Públicos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
 ###### Art. 3.
 
@@ -69,19 +65,23 @@ Para los efectos del presente reglamento, se entiende por:
 
 a).- Limpia: Recolección, traslado, tratamiento y disposición final de residuos.
 
-b).- Basura: Material que proviene de casas habitación, oficinas, edificios, mercados, vías públicas, plazas, parques, establecimientos comerciales e industriales o de cualquier actividad generados en los procesos de extracción, beneficio, transformación o producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó o sea desechado y que no esté considerado como residuo peligroso de acuerdo a la Ley de Equilibrio Ecológico y Protección al Ambiente, las Leyes de Salud Federal y Estatal, así como sus reglamentos.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+b).- Basura: Material que proviene de casas habitación, oficinas, edificios, mercados, vías públicas, plazas, parques, establecimientos comerciales de servicios e industriales o de cualquier actividad, generados en los procesos de extracción, beneficio, transformación o producto, cuya calidad no permita usarlo nuevamente en el proceso que lo generó o sea desechado y que no esté considerado como residuo peligroso de acuerdo a la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás ordenamientos aplicables.
 
 c).- Vía Pública: Toda área de propiedad municipal, estatal o federal con libre tránsito de personas o vehículos.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+d).- Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su ·estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
+
 ### CAPITULO SEGUNDO. DEL SERVICIO DE LIMPIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 4.
 
-El servicio de limpia en el municipio de Monterrey, se prestará mediante la Secretaría de Servicios Públicos en forma directa o de acuerdo a las modalidades que se establezcan en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado de Nuevo León y la Ley Orgánica del la Administración Pública Municipal, con la cooperación y responsabilidad de los vecinos, las organizaciones de colonos, las asociaciones de comerciantes, de servicios, de industriales y representativas de cualquier sector organizado de la población.
+El servicio de limpia en el municipio de Monterrey, se prestará mediante la Secretaría de Servicios Públicos en forma directa o de acuerdo a las modalidades que se establezcan en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado de Nuevo León y demás ordenamientos aplicables, con la cooperación y responsabilidad de los vecinos, las organizaciones de colonos, las asociaciones de comerciantes, de servicios, de industriales y representativas de cualquier sector organizado de la población.
 
 ###### Art. 5.
 
@@ -91,11 +91,9 @@ I.- Barrido de las plazas, parques y jardines del municipio de Monterrey, así c
 
 II.- Limpieza de calles importantes, avenidas y camellones y aquellas cuando fuere necesario a juicio del Secretario de Servicios Públicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
-
-III.- Recolección de basura y desperdicios provenientes de los lugares señalados en el artículo 3 incisos b) y c) de este reglamento. En su caso se observará lo dispuesto en la Ley de Hacienda para los Municipios del Estado de Nuevo León, respecto al pago de derechos por recolección.
+III.- Recolección de basura y desperdicios provenientes de los lugares señalados en el artículo 3 incisos b y c de este reglamento y los demás que considere necesarios la Secretaría de Servicios Públicos y que tengan por objeto el ejercicio de todas las funciones y actividades encaminadas a satisfacer necesidades sociales de servicios públicos. En su caso se observará lo dispuesto en la Ley de Hacienda para los Municipios del Estado de Nuevo León, respecto al pago de derechos por recolección.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -105,9 +103,11 @@ IV.- Transporte de la basura y desperdicios a los lugares autorizados por el mun
 
 V.- Recolección, transporte y cremación de cadáveres de animales que se encuentren en las calles o vías públicas.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Art. 6.
 
-El barrido y la limpieza de las calles de la ciudad se efectuará por la autoridad municipal con la colaboración de los propietarios, inquilinos o usufructuarios de las fincas que colinden con las mismas.
+El barrido y la limpieza de las calles de la ciudad se efectuará por la autoridad municipal con la colaboración de los propietarios, inquilinos, poseedores o usufructuarios de las fincas que colinden con las mismas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -125,9 +125,13 @@ La recolección y traslado de la basura domiciliaria de las casas habitación, e
 
 La Presidencia Municipal dotará a la Secretaría de Servicios Públicos del equipo necesario para la prestación del servicio de limpia. Se instalarán depósitos en lugares adecuados con capacidad suficiente para la basura y desperdicios generados en la vía pública.
 
-Los propietarios, administradores o encargados de edificios y conjuntos habitacionales, tendrán la obligación de instalar en el interior de sus predios depósitos suficientes para la basura que generen los inquilinos y sacarla a la vía pública cuando se anuncie el paso del camión recolector.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
-La Secretaría de Servicio Públicos, previo aviso, podrá cambiar el sistema de recolección, tomando en consideración las necesidades de la comunidad, del tránsito de vehículos o el ancho de las calles.
+Los propietarios, administradores o encargados de edificios, conjuntos habitacionales o propiedades de régimen en condominio, tendrán la obligación de instalar en el interior de sus predios depósitos suficientes para la basura que genere, debiendo ser instalados en un lugar que permita las maniobras para su adecuada recolección.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+La Secretaría de Servicio Públicos, para optimizar el servicio podrá cambiar el sistema de recolección instalando depósitos para los residuos compatibles con las unidades recolectoras tomando en consideración las necesidades de la comunidad, la densidad de la población y la vialidad para el acceso de los vehículos recolectores.
 
 ###### Art. 9.
 
@@ -173,21 +177,17 @@ Las personas físicas o morales, cuyo objeto sea la prestación de los servicios
 
 Los propietarios o poseedores de animales serán responsables de la limpieza, recolección y de neutralizar los efectos contaminantes de residuos generados por necesidades fisiológicas o por la dispersión de basura que realicen dichos animales en la vía pública, así como el traslado por sí o por personas autorizadas de acuerdo al artículo anterior, de los restos en caso de muerte de los animales al sitio autorizado para su confinamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 14.
 
-Es responsabilidad de los Propietarios, Directores. Administradores o Gerentes de Establecimientos de Salud Pública o Privada, la vigilancia de que todos los materiales utilizados en curaciones, tratamientos e intervenciones quirúrgicas, así como los desechos generados en tales actividades, sean depositados en bolsas o recipientes adecuados debidamente sellados a los cuales se le adherirá una etiqueta que diga: "Material Bioinfeccioso", así como, utilizar el Código Internacional de Colores, establecido en la Ley Federal de Protección al Ambiente, que rige para este tipo de producto y apegarse a las normas de Ecología, que rigen en nuestro País. Los materiales anteriormente descritos deberán ser incinerados en los sitios autorizados para tal efecto.
+Es responsabilidad de toda persona física o moral, pública o privada, que por su actividad sea generador de residuos peligrosos ya sea corrosivos, reactivos, explosivos, tóxico-ambientales, inflamables o biológico infecciosos, la vigilancia de que los desechos generados en tales actividades sean colocados en bolsas o depósitos adecuados debidamente sellados y etiquetados, así como su traslado, disposición final y manejo en general, como se establece en la ley General del Equilibrio Ecológico y la Protección al Ambiente y apegarse a las Normas Oficiales Mexicanas y demás ordenamientos aplicables.
 
-Los vehículos destinados para transporte de los citados materiales, deberán ser descontaminados después de cada descarga y el personal asignado para el traslado e incineración de los mismos, deberá estar protegido con traje, guantes, cubre boca y demás equipo adecuado para el tratamiento de este tipo de materiales.
+En los casos en que los generadores de residuos peligrosos sean personas físicas o morales ya sean públicas o privadas, además de apegarse al presente artículo, deberán cumplir con lo establecido en los artículos 10 Y 11 del presente reglamento para la recolección y traslado de residuos sólidos no peligrosos que generen.
 
-De todo desecho radioactiva, contaminado, bioinfeccioso y peligroso y aquellos que correspondan, según normatividad establecida, deberán notificarse a la Autoridad Federal competente para que determine su confinamiento. Los vehículos recolectores del servicio municipal no deberán de recoger esa dase de desechos.
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2008)</small>
 
-En los casos de que los generadores de residuos bioinfecciosos o peligrosos, sean establecimientos o instituciones privadas, además de apegarse al presente artículo, deberán cumplir con lo establecido en los artículos 10 y 11 del presente reglamento para la recolección y traslado de residuos sólidos no peligrosos que generen.
-
-### CAPITULO TERCERO. DE LAS OBLIGACIONES DEL PUBLICO
+### CAPITULO TERCERO. DE LAS OBLIGACIONES DE LA CIUDADANIA
 
 ###### Art. 15.
 
@@ -199,23 +199,21 @@ Es obligación de los habitantes de Monterrey, y de las personas que transiten p
 
 I.- La recolección de basura domiciliaria se hará en el horario y con la frecuencia que determine la Secretaría de Servicios Públicos. La basura deberá ser puesta en recipientes en buenas condiciones para que no se derrame y colocarse éstos en la banqueta al paso del camión, que será anunciado con anticipación. El peso total de la basura, incluyendo el recipiente, no deberá exceder los 20 kilogramos.
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+II.- Los propietarios de casa-habitación, encargados, poseedores originarios o derivados, así como los dueños o representantes de establecimientos comerciales, industriales, profesionales o de cualquier otra índole, tiene la obligación de mantener limpias las fachadas, aparadores, banquetas y medias calles.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
-
-II.- Los propietarios de casa-habitación, encargados, poseedores originarios o derivados, así como los dueños o representantes de establecimientos comerciales, industriales, profesionales o de cualquier otra índole, tienen la obligación de mantener limpias las fachadas y aparadores, además de barridas las banquetas y las medias calles.
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 1999)</small>
 
 III.- Los propietarios o poseedores de terrenos baldíos deberán cercarlos y embanquetarlos en los lados que colinden con la Calle o vía pública. Igualmente deberán mantenerlos limpios, libres de basura, escombro, animales muertos, vehículos y objetos abandonados y maleza, realizando en ellos la limpieza, desmonte y deshierba cuando la altura de la hierba rebase 30 centímetros, evitando la insalubridad e impidiendo que sean usados como tiraderos. En todo caso se estará a lo dispuesto en la Ley de Hacienda de referencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 16.
 
-Para colaborar con la autoridad municipal, los habitantes de Monterrey barrerán diariamente sus banquetas y la media calle que por cualquier lado colinde con la casa habitación o con el comercio, industria o establecimiento de cualquier otra indole, realizándose dicha actividad preferentemente antes de las 9:30 horas o después de las 22:00 horas.
+Los propietarios, representantes o responsables de los predios ubicados en el municipio de Monterrey deberán mantener limpia su banqueta y media calle que por cualquier lado colinde con la casa habitación o con el comercio, industria o establecimiento de cualquier otra índole realizándose dicha actividad preferentemente antes de las 9:30 horas o después de las 22:00 horas.
 
 El barrido se hará preferentemente durante la mañana, según se trate, respectivamente, de casa habitación o de comercio u otro establecimiento.
 
@@ -229,9 +227,7 @@ Cuando sea necesario hacer el barrido en la noche entre las 19:00 y 21:00 horas,
 
 A fin de concientizar a los habitantes del municipio de Monterrey, de los beneficios sociales que se obtienen al mantener la ciudad limpia se concertarán con los medíos de comunicación masiva y con la comunidad en general, en coordinación con la Secretaría de Servicios Públicos y la Comisión de Servicios Públicos, campañas de limpieza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 19.
 
@@ -239,15 +235,17 @@ Los propietarios o encargados de obras, bodegas, almacenes, cuidarán de que al 
 
 ###### Art. 18.
 
-Los vehículos destinados al transporte de materiales deberán cubrirse con el equipo adecuado para evitar que la carga se esparza en el trayecto que recorran. Cuando el material que se transporta produzca polvo, los vehículos deberán cubrirse con lonas. Los conductores de vehículos de transporte de materiales, un vez que hayan descargado los materiales respectivos deberán barrer el interior de la caja del vehículo en el mismo lugar de descarga, para evitar que se dispersen polvos, desperdicios o residuos sólidos, durante el recorrido de regreso, de acuerdo a las disposiciones del Reglamento de Vialidad y Tránsito.
+Los vehículos destinados al transporte de materiales deberán cubrirse con el equipo adecuado para evitar que la carga se esparza y realizar la limpieza de los mismos de tal forma que queden libres de residuos en el mismo sitio en el que hayan descargado.
 
 ###### Art. 20.
 
 Los propietarios o encargados de establecimientos comerciales, industriales o de toda índole que tengan vitrinas, aparadores, escaparates o cualquier otro medio para exponer sus artículos a la vista del público, cuidarán de que los vidrios o cristales siempre estén limpios y que su lavado se haga antes de las 9:30 horas o después de las 22:00 horas.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Art. 21.
 
-Los propietarios de establos o caballerizas harán por su propia cuenta el transporte del estiércol y demas desperdicios. Pero si los conservan para utilizarlos o venderlos para abono de la tierra deberán depositarlos en lugares o recipientes apropiados con observancia de los requisitos legales de higiene y salubridad vigentes.
+Los propietarios de establos, caballerizas, tiendas de animales, veterinarias o cualquier otro lugar similar harán por su propia cuenta el transporte del estiércol y demás desperdicios. Pero si los conservan para utilizarlos o venderlos para abono de la tierra, deberán depositarlos en lugares o recipientes apropiados con observancia de los requisitos legales de higiene y salubridad vigentes.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -275,7 +273,9 @@ Los propietarios o encargados de estaciones de servicio para venta de gasolina, 
 
 Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción, ampliación, remodelación, mantenimiento o demolición, son responsables solidariamente de la diseminación de materiales, escombros o cualquier otra clase de basura que generen.
 
-Todos los lados de los inmuebles descritos en el párrafo anterior que colinden con calle, deberán mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en la vía pública. En caso de resultar inevitable la utilización de la vía pública, se obtendrá previamente el permiso correspondiente de la Secretaría de Desarrollo Urbano y Ecología y en tal caso se protegerán tales materiales, para evitar sean diseminados. Los responsables deberán transportar los escombros a los sitios autorizados.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+Todos los lados de los inmuebles descritos en el párrafo anterior que colinden con calle deberán mantenerse en completa limpieza quedando estrictamente prohibido acumular escombros y materiales en la vía pública. En caso de resultar inevitable la utilización de la vía pública, se obtendrá previamente el permiso correspondiente de la Secretaría de Servicios Públicos o Secretaría de Desarrollo Urbano y Ecología o de ambas en su caso debiendo proteger siempre tales materiales, para evitar que sean diseminados. Los responsables deberán transportar los escombros a los sitios autorizados.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -289,7 +289,9 @@ Los propietarios o encargados de inmuebles que tengan jardines o árboles, está
 
 Los propietarios, administradores o encargados de camiones y transporte colectivo en general, destinados al servicio de pasajeros o de carga, de automóviles de alquiler, de andenes de estación de ferrocarril y del metro, deberán mantener en perfecto estado de limpieza los exteriores de sus instalaciones.
 
-La basura y desperdicio provenientes del público usuario, edificios, equipo y taller de las empresas, si no son transportados por su cuenta conforme lo prevé la Ley de Hacienda para los Municipios de Nuevo León, deberán depositarse en recipientes metálicos en la banqueta del establecimiento, para su recolección por una empresa recolectora de basura autorizada por el municipio para efectuar este trabajo, mediante el pago correspondiente a ésta.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+La basura y desperdicio provenientes de los usuarios de los edificios y talleres, se depositarán en recipientes adecuados que deberán instalarse en el interior de su establecimiento, en un lugar que permita las maniobras para su adecuada recolección, además de cumplir con los establecido en los artículos 10 y 11 del presente reglamento.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -315,13 +317,11 @@ Los propietarios o encargados de madererías o carpinterías tienen la obligaci�
 
 En los mercados públicos, sean o no de propiedad del municipio, así como los denominados mercados sobre ruedas o ambulantes, los dueños o administradores tendrán la obligación de vigilar que tanto en su interior como en su exterior se mantenga la más escrupulosa y absoluta limpieza, aplicándose a estos giros mercantiles las disposiciones que establece el artículo 10 y 11 de este reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 30.
 
-Los comerciantes ambulantes, propietarios y encargados de puestos fijos y semifijos establecidos en la vía pública o vías autorizadas, deberán estar provistos de recipientes para depositar la basura y los desperdicios de las mercancías que expendan al público y mantener en estado de absoluta limpieza e higiene su equipo y el lugar en que se encuentren, quedando obligados a transportar los desperdicios a un lugar autorizado para tal fin, apegándose a lo establecido en los artículos 10 y 11 de este reglamento.
+Los comerciantes ambulantes, propietarios y encargados de puestos fijos y semifijos establecidos en la vía pública o vías autorizadas, deberán estar provistos de recipientes para depositar la basura y los desperdicios de las mercancías que expendan al público y mantener su equipo y el lugar en que se encuentren en estado de absoluta limpieza e higiene, quedando obligados a transportar los desperdicios a un lugar autorizado para tal fin apegándose a lo establecido en los artículos 10 y 11 de este reglamento.
 
 ### CAPITULO CUARTO. DE LAS PROHIBICIONES EN GENERAL
 
@@ -345,7 +345,9 @@ V.- No limpiar o barrer la vía pública, cuando se riegan macetas instaladas en
 
 VI.- Extraer la basura y desperdicios de los botes colectores instalados en la vía pública.
 
-VII.- Arrojar o abandonar basura en la vía pública, parques o plazas y, en general, en sitios no autorizados.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+VII.- Arrojar o abandonar basura o cualquier tipo de desecho en la vía pública, parques o plazas y, en general, en sitios no autorizados.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -383,25 +385,27 @@ XVII.- Arrojar cadáveres de animales en la vía pública.
 
 XVIII.- Arrojar a la calle, con motivo de las corrientes formadas por las lluvias, la basura y desperdicios.
 
-XIX.- Toda persona física o moral que con motivo de su actividad obstaculice la vía pública con objetos de cualquier especie, tanto peatonal como vehicular.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XIX.- Tener o instalar objetos de cualquier especie o no permitir el libre tránsito, tanto peatonal como vehicular en áreas o vías públicas, sin las prevenciones y el permiso correspondiente de la autoridad municipal, en el entendido de que las personas físicas o morales que cometan esta infracción serán los responsables de los daños y gastos que se generen por sus actos u omisiones.
 
 XX.- Todo acto u omisión que contribuya al desaseo de las vías públicas, plazas y parques o que impida la prestación del servicio de limpia.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-XXI.- Arrojar basura, animales muertos o escombro en terrenos baldíos y mantenerlos tanto los propietarios o poseedores de dichos terrenos sin cerco y banqueta en los lados en que colinden con la calle o la vía Pública, o mantenerlos con basura, escombro, animales muertos, vehículos abandonados y maleza.
+XXI.- Arrojar basura, animales muertos o escombro en terrenos baldíos.
 
 XXII.- La quema o incineración de desechos sólidos tales como llantas, telas, papel, plásticos u otros elementos, cuya combustión sea perjudicial para la salud.
 
-XXIII.- Tirar la basura en lugares no autorizados., desechos y materiales a que se refiere el artículo 14 de este reglamento.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+XXIII.- Tirar la basura, desechos y materiales a que se refiere el artículo 14 de este reglamento en lugares no autorizados.
 
 XXIV.- Tirar escombro en la vía pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
-
-XXV.- Fijar anuncios o cualquier tipo de propaganda con adherentes o materiales que en el proceso de instalar o retirar dichos anuncios, exista el riesgo de dañar los recubrimientos o el espacio en sí, de paredes, pasos a desnivel o peatonales, bancas, arbotantes, árboles, infraestructura vial o de servicios que se encuentren en áreas o en vías públicas.
+XXV.- Fijar anuncios o cualquier tipo de propaganda con adherentes o materiales que en el proceso de instalar o retirar los mismos, exista el riesgo de dañar los recubrimientos o el espacio en sí, de paredes, pasos a desnivel o peatonales, bancas, arbotantes, árboles, infraestructura vial o de servicios que se encuentren en áreas o en vías públicas, o colocarlos sin el permiso correspondiente de la autoridad municipal.
 
 ### CAPITULO QUINTO. DE LA CLASIFICACIÓN DE LOS RESIDUOS
 
@@ -413,17 +417,23 @@ XXV.- Fijar anuncios o cualquier tipo de propaganda con adherentes o materiales 
 
 Los residuos o desechos se podrán clasificar de tal manera que puedan quedar para el debido acopio, transporte y reutilización, usando diversos recipientes, según el tipo de residuo y en base de la clasificación que señalan los siguientes artículos.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Art. 33.
 
-Son artículos reciclables, entre otros, los siguientes: plásticos, metales, vidrio, papel, cartón etc.
+Son artículos recicla bies, entre otros, los siguientes: plásticos, metales, vidrio, papel, cartón o cualquier otro tipo de material que pueda reutilizarse para ser transformado en nuevo producto o materia prima.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 34.
 
-Son artículos orgánicos, entre otros, los siguientes: desperdicios de comida, hojas de árbol, podas de jardín etc.
+Son artículos, orgánicos, entre otros, los siguientes: desperdicios de comida, hojas de árbol; podas de jardín o cualquier elemento que sea biodegradable, es decir que se desintegre o degrade rápidamente, transformándose en otro tipo de-materia orgánica.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 35.
 
-Son artículos no orgánicos, entre otros, productos que por su uso no pueden ser reciclables, tales como: recipientes contaminados, con uno o más materiales, escombro etc.
+Son artículos no orgánicos, entre otros: productos que por su uso no pueden ser reciclables, tales como: recipientes contaminados, con uno o más materiales, escombro o cualquiera que por sus características sufren una descomposición natural muy lenta.
 
 ###### Art. 36.
 
@@ -431,21 +441,39 @@ Los recipientes a que se refiere el artículo 32 deberán de contar con la leyen
 
 ### CAPITULO SEXTO. DE LA VIGILANCIA
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Art. 37.
 
-Las autoridades responsables mencionadas en el artículo 2 de este reglamento, por conducto de la Secretaría de Servicios Públicos Municipales, mantendrán la vigilancia para el cumplimiento de las disposiciones de este reglamento.
+Las autoridades responsables de la vigilancia de este reglamento son:
+
+I.- El R. Ayuntamiento;
+
+II.- El Presidente Municipal;
+
+III.- El Secretario de Servicios Públicos;
+
+IV.- El Secretario de Desarrollo Urbano y Ecología;
+
+V.- El Tesorero del Municipio de Monterrey;
+
+VI.- El Secretario de Policía Preventiva Municipal de Monterrey;
+
+VII.- El Secretario de Vialidad y Tránsito;
+
+VIII.- los inspectores municipales; y
+
+IX.- Los supervisores de la Secretaría de Servicios Públicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 38.
 
-Son auxiliares para la vigilancia y cumplimiento de las disposiciones de este reglamento.
+Son auxiliares para la vigilancia y cumplimiento de las disposiciones de este reglamento los ciudadanos del municipio y los inspectores honorarios.
 
-I.- Los ciudadanos del Municipio.
+I.- (DEROGADA, P.O. 18 DE AGOSTO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
-
-II.- Los inspectores de la Secretaría de Servicios Públicos e inspectores honorarios.
+II.- (DEROGADA, P.O. 18 DE AGOSTO DE 2008)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -489,33 +517,29 @@ II.- Multa, cuyo monto será referido al salario mínimo vigente del día de la 
 
 Será atribución de la Secretaría de Servicios Públicos citar en cualquier momento para que asista a sus oficinas, a toda persona física o moral para que presente la información y documentos que se le solicite en relación con cualquier violación, que contravenga el Reglamento de Limpia en vigor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 44.
 
-La infracción a lo dispuesto por las fracciones I a VI inclusive, del artículo 31, así como los artículos 13, 16 y 20 de este reglamento, se sancionarán con multa equivalente de 1 a 10 días de salario mínimo general vigente en el Municipio de Monterrey.
+La infracción a lo dispuesto por las fracciones I a VI del artículo 31, así como los artículos 13, 16 y 20 de este reglamento, se sancionarán con multa equivalente de 1 a 50 días de salario mínimo general vigente en el Municipio de Monterrey.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 45.
 
-La infracción a lo dispuesto por las fracciones VII a X inclusive, del artículo 31, así como a los artículos 15, fracciones I y II, 25 y 30 de este reglamento, se sancionarán con multa equivalente de 11 a 50 días de salario mínimo general vigente en el municipio de Monterrey.
+La infracción a lo dispuesto por las fracciones VII a XX del artículo 31, así como a los artículos 15, fracciones I y II, 18, 19, 21, 25, 26 y 30 de este reglamento, se sancionarán con multa equivalente de 51 a 100 días de salario mínimo general vigente en el municipio de Monterrey.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 46.
 
-La infracción a lo dispuesto por las fracciones XI a XX inclusive, del artículo 31, así como a los artículos 18, 19, 21 y 26 de este reglamento, se sancionarán con multa equivalente de 51 a 100 días de salario mínimo general vigente en el municipio de Monterrey.
+La infracción a lo dispuesto por las fracciones XXI a XXV del artículo 31, así como a los artículos 10, 11, 12 y 15, fracción III de este reglamento, se sancionarán con multa equivalente de 101 a 200 días de salario mínimo general vigente en el municipio de Monterrey.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 47.
 
-La infracción a lo dispuesto por las fracciones XXI a XXV inclusive, del artículo 31, así como a los artículos 10, 11, 12, 14 y 15 en su fracción III de este reglamento, se sancionarán con multa equivalente de 101 a 200 días de salario mínimo general vigente en el municipio de Monterrey.
+La infracción a lo dispuesto por el artículo 41 de este reglamento, se sancionarán con multa equivalente de 201 a 400 días de salario mínimo general vigente en el municipio de Monterrey.
 
 ###### Art. 48.
 
@@ -531,11 +555,13 @@ La Secretaría de Servicios Públicos para aplicar la sanción correspondiente, 
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de un jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
 ###### Art. 50.
 
 En el caso de reincidencia se aplicará hasta el doble de la multa correspondiente.
 
-Para los efectos de este reglamento se considera reincidente aquella persona que habiendo sido sancionada por cometer una infracción al mismo, viole nuevamente la misma disposición en el transcurso de un año. A excepción de las violaciones que pudieran surgir del Cápitulo Quinto.
+Para los efectos de este reglamento se considera reincidente aquella persona que habiendo sido sancionada por cometer una infracción al mismo, viole nuevamente la misma disposición en el transcurso de un año.
 
 ###### Art. 51.
 
@@ -543,13 +569,11 @@ Cualquier infracción al presente reglamento que no esté considerada específic
 
 ### CAPITULO OCTAVO. DE LA APLICACION DE LAS SANCIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 52.
 
-Son infractores aquellas personas físicas o morales; empresas industriales, comercios, de servicio, de la construcción, talleres y propietarios de terrenos baldíos que incurran en la violación del artículo 31, en todas sus fracciones.
+Son infractores aquellas personas físicas o morales privadas o públicas; que incurran en la violación al presente reglamento.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -571,13 +595,27 @@ III.- Desahogada la vista, la Secretaría de Servicios Públicos reportará en s
 
 IV.- (DEROGADA, P.O. 10 DE ENERO DE 2003)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+### CAPITULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 54.
 
-Los ciudadanos considerados como infractores en una resolución administrativa de multa dictada por la Secretaría de Servicios Públicos, en los términos de (sic) presente reglamento y dentro de los quince días siguientes a su aplicación, podrán interponer el recurso de inconformidad ante la misma autoridad de acuerdo a los términos establecidos en el Reglamento de la Administración Pública en el Municipio de Monterrey.
+Los ciudadanos considerados como infractores en una resolución administrativa de multa dictada por la Secretaría de Servicios Públicos, en los términos del presente reglamento y dentro de los quince días siguientes a su aplicación, podrán interponer el recurso de inconformidad ante la Dirección Jurídica de la Secretaría del R. Ayuntamiento de Monterrey, de acuerdo a los términos establecidos en el Reglamento que Regula el Procedimiento Único de Recursos de Inconformidad en el Municipio de Monterrey.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Art. 55.
+
+Para la revisión y consulta del presente· reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual, se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### Art. 56.
+
+La Comisión deberá analizar, estudiar y dictaminar sobre las propuestas planteadas en un plazo no mayor de treinta días hábiles. De resultar fundadas las propuestas planteadas, se hará del conocimiento del Republicano Ayuntamiento para su consideración. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -622,3 +660,7 @@ PRIMERO. El presente reglamento entrará en vigor 15 días después de su public
 SEGUNDO. En cuanto a los artículos 32 al 36 inclusive del presente reglamento, no se aplicará sanción alguna hasta en tanto se reúnan las condiciones adecuadas para establecer un sistema de clasificación de residuos, de alcance general.
 
 TERCERO. Se deroga cualquier otra disposición, en materia de limpia, que se oponga a este Reglamento.
+
+P.O. 18 DE AGOSTO DE 2008.
+
+Artículo Único.- Las reformas por adición, modificación y derogación al, Reglamento de Limpia para el Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Paródico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
