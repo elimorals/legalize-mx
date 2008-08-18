@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2008-02-18"
+last_updated: "2008-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -147,7 +147,9 @@ El Secretario de Seguridad Pública propondrá al Gobernador del Estado, los pro
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
-ARTICULO 8o BIS.- El Secretario de Seguridad Pública tiene las siguientes facultades:
+###### ARTICULO 8o Bis.
+
+El Secretario de Seguridad Pública tiene las siguientes facultades:
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
@@ -379,7 +381,9 @@ Las placas tendrán las características que determine la norma oficial mexicana
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 21 BIS.- Las placas para demostración de vehículos nuevos exclusivamente se proporcionarán a las personas físicas o morales que acrediten su actividad en la fabricación de vehículos, así como a las agencias distribuidoras autorizadas de los mismos.
+###### ARTICULO 21 Bis.
+
+Las placas para demostración de vehículos nuevos exclusivamente se proporcionarán a las personas físicas o morales que acrediten su actividad en la fabricación de vehículos, así como a las agencias distribuidoras autorizadas de los mismos.
 
 Se deberá llevar un registro de la utilización de las placas para demostración de vehículos nuevos.
 
@@ -487,7 +491,9 @@ Las llantas de los vehículos automotores, remolques y semirremolques, deberán 
 
 Queda prohibido transitar en vehículos automotores, remolques y semirremolques con llantas lisas o con rotura que pongan en peligro a los demás vehículos y a la propia seguridad del conductor.
 
-Queda prohibido transitar en vehículos automotores con vidrios polarizados, cuando éstos obstaculicen la visibilidad del conductor.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+Queda prohibido transitar en vehículos automotores con vidrios polarizados que obstruya la visibilidad del conductor, o al interior del vehículo. Se exceptúan de la presente prohibición aquellos polarizados realizados en base a una prescripción médica así como las que se realicen a las unidades desde la fabricación y ensamble del vehículo, siempre que exista registro y constancia ante la autoridad correspondiente.
 
 Los vehículos de carga deberán contar, en la parte posterior con cubre-llantas, antellantas o guarda-fangos, que eviten proyectar objetos hacia vehículos que van atrás de ellos.
 
@@ -627,7 +633,9 @@ V.- Con respecto a las licencias de chofer de servicio público de pasajeros, de
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
-ARTICULO 36 BIS.- Las licencias de chofer de servicio público, con vigencia de 4 a 6 años, deberán ser refrendadas cada 2 años ante la Dirección, debiendo cumplir para tal efecto con los exámenes establecidos en las fracciones II y III, así como el requisito de la fracción V del artículo 35.
+###### ARTICULO 36 Bis.
+
+Las licencias de chofer de servicio público, con vigencia de 4 a 6 años, deberán ser refrendadas cada 2 años ante la Dirección, debiendo cumplir para tal efecto con los exámenes establecidos en las fracciones II y III, así como el requisito de la fracción V del artículo 35.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2091,27 +2099,35 @@ IV.- En caso de accidente en que se causen lesiones, homicidio o daños en propi
 
 En los supuestos establecidos en el presente artículo, los agentes de vialidad también se encontrarán sujetos a disposiciones que para el efecto se establecen en la Legislación Penal del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 145 Bis.
 
 Los agentes podrán detener la marcha de un vehículo cuando se lleven a cabo operativos preventivos de conducción de vehículos, en estado de ebriedad u otras sustancias tóxicas.
 
-Si al detener la marcha de un vehículo, el agente percibe que el conductor se encuentra presumiblemente en estado de ebriedad y sus condiciones no son óptimas para conducir con responsabilidad y seguridad su vehículo por la vía pública, se procederá a examinarlo a través de la prueba de alcohol en aire aspirado, que consistirá en solicitar a la persona que realice una exhalación profunda en una boquilla de plástico esterilizada que estará conectada al “Alcoholímetro”.
+Si al detener la marcha de un vehículo, el agente percibe que el conductor se encuentra presumiblemente en estado de ebriedad y sus condiciones no son óptimas para conducir con responsabilidad y seguridad su vehículo por la vía pública, atentamente se le solicitará que de manera voluntaria, se aplique la prueba de alcohol en aire espirado, que consistirá en que la persona realice una exhalación profunda en una boquilla de plástico esterilizada que estará conectada al "Alcoholímetro".
 
-El alcoholímetro es un instrumento de medición que permitirá determinar cuantitativamente si la persona se encuentra bajo el influjo de bebidas alcohólicas.
+El alcoholímetro es un instrumento de medición que permitirá determinar cuantitativa mente si la persona se encuentra en estado de ebriedad.
 
-Se considera que una persona se encuentra probablemente en estado de ebriedad, si el resultado arrojado por el alcoholímetro es mayor a 0.4 miligramos de alcohol por litro de aire respirado.
+Se considerará que una persona se encuentra probablemente en estado de ebriedad, si el resultado arrojado por el alcoholímetro es mayor a 0.4 miligramos de alcohol por litro de aire espirado.
 
-En caso de que el conductor rebase la cantidad de alcohol establecida en el párrafo anterior o se resista a que se le realice la prueba del alcoholímetro y muestre síntomas claros de encontrarse en estado de ebriedad, se impedirá que continúe conduciendo y será remitido de manera inmediata ante la autoridad competente para los exámenes a que haya lugar; si del resultado de éstos exámenes se determina que se encuentra en estado de ebriedad, se le aplicarán las sanciones que señala la presente Ley y el vehículo será enviado al depósito vehicular.
+En caso de que el conductor rebase la cantidad de alcohol establecida en el párrafo anterior, se impedirá que continúe conduciendo y será remitido de manera inmediata ante la autoridad competente para los exámenes a que haya lugar; si del resultado de estos exámenes se determina que se encuentra en estado de ebriedad, se le aplicarán las sanciones que señala la presente Ley y el vehículo será enviado al depósito vehicular.
 
 Para el caso del párrafo anterior el vehículo no será remitido al depósito vehicular si se cuenta con alguna persona que lo conduzca en términos de esta Ley.
 
-Tratándose de conductores de vehículos destinados al servicio público de transporte de pasajeros y de carga, bastará únicamente que muestren aliento alcohólico y/o síntomas claros de consumo de estupefacientes, psicotrópicos u otras sustancias tóxicas, para su presentación inmediata ante las autoridades competentes a efecto de que se le apliquen los exámenes correspondientes y de ser positivos se hará acreedor a las sanciones establecidas en la fracción II del Artículo 157 de la presente Ley y el vehículo será remitido al depósito vehicular.
+Asimismo, en caso de que el conductor no acceda voluntariamente a que se le practique la prueba del alcoholímetro, y presente síntomas claros de ebriedad, operará la presunción de que éste se encuentra en estado de ebriedad, salvo prueba en contrario. Dicha presunción quedará desvirtuada en el momento que acceda voluntariamente a la práctica de dicha prueba y ésta resulte negativa. Los agentes de tránsito están obligados a hacer del conocimiento de los conductores de esta presunción en su contra, ante la negativa de practicarse la multicitada prueba.
 
-Los operativos que realice la autoridad deberán garantizar condiciones de estricta higiene, seguridad y control en la utilización del alcoholímetro; así mismo garantizar la transparencia, legalidad, imparcialidad y respeto de las garantías y derechos fundamentales de los conductores. Los operativos deberán integrarse con agentes de sexo masculino y femenino.
+Sí así lo determina la autoridad competente o a petición del interesado, se realizará una prueba de sangre para determinar si la persona se encuentra en estado de ebriedad o bajo el influjo de cualquier tipo de estupefacientes.
 
-En caso de actualizarse alguno de los supuestos contenidos en el párrafo quinto o séptimo del presente artículo, los agentes deberán levantar acta circunstanciada firmada por dos testigos propuestos por el conductor del vehículo o ante su negativa nombrados por los propios agentes, de la cual, se entregará una copia al conductor.
+Tratándose de conductores de vehículos destinados al servicio público de transporte de pasajeros y de carga, bastará únicamente que muestren aliento alcohólico y/o síntomas claros de consumo de estupefacientes, psicotrópicos u otras sustancias tóxicas, para su presentación inmediata ante las autoridades competentes a efecto de que se apliquen los exámenes correspondientes y de ser positivos se hará acreedor a las sanciones que correspondan conforme a la presente Ley y el vehículo será remitido al depósito vehicular.
+
+Los operativos que realice la autoridad deberán garantizar condiciones de estricta higiene, seguridad y control en la utilización del alcoholímetro; asimismo garantizar la transparencia, legalidad, imparcialidad y respeto de las garantías y derechos fundamentales de los conductores. Los operativos deberán integrarse con agentes del sexo masculino y femenino.
+
+En caso de actualizarse alguno de los supuestos contenidos en el párrafo quinto o noveno del presente Artículo, los agentes deberán levantar acta circunstanciada firmada por dos testigos propuestos por el conductor del vehículo o ante su negativa nombrados por los propios agentes, de la cual, se entregará una copia al conductor.
+
+Ninguna persona deberá conducir vehículos por la vía pública, si tiene una cantidad de alcohol en la sangre superior a 0.8 miligramos por litro; en aire espirado, superior a 0.4 miligramos por litro o bajo el influjo de cualquier tipo de estupefaciente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -2237,11 +2253,17 @@ Los municipios implementarán campañas permanentes antialcohólicas a través d
 
 ### CAPITULO XI. De las Sanciones
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 154.
 
-Las sanciones que se impongan a los infractores de esta Ley prescribirán por el transcurso de 3 años, a partir de la fecha en que se haya cometido la infracción.
+Las sanciones que se impongan a los infractores de esta Ley prescribirán por el transcurso de 3 años, a partir de la fecha en que se notifique la infracción cometida.
+
+Los Municipios, en el ámbito de su competencia, fijarán los procedimientos y medios probatorios necesarios para la imposición de las sanciones que correspondan ante una infracción vial, respetando siempre las bases generales previstas por la presente ley y la garantía de audiencia consagrada por la Constitución General de la República.
+
+La determinación del monto de la multa que corresponda a cada tipo de infracción cometida, se establecerá en las leyes de ingresos de cada uno de los municipios del Estado, en su caso, atendiendo al tipo de vehículo y a la clasificación de las infracciones establecidas en términos de la presente ley.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2263,29 +2285,21 @@ III.- Solidariamente, los propietarios de negociaciones o establecimientos; y
 
 IV.- Los titulares de autorizaciones para operar las escuelas de manejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 157.
 
-Quien conduzca en estado de ebriedad será sancionado de acuerdo a lo siguiente:
+Quien conduzca un vehículo de motor en estado de ebriedad o bajo los efectos de cualquier tipo de estupefacientes, psicotrópicos u otras sustancias tóxicas, será sancionado conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2006)</small>
+I. Tratándose de la primera vez, se aplicará la multa correspondiente, tomando en cuenta la condición socioeconómica del infractor, el daño ocasionado o, en su caso, el riesgo o peligro a que se expuso el bien jurídico tutelado.
 
-I.- Tratándose de la primera vez se le aplicarán (sic) la multa correspondiente de acuerdo a la clasificación de las infracciones cometidas.
+II. En caso de reincidencia será sancionado con arresto administrativo inconmutable de treinta y seis horas, y la multa señalada en la Fracción anterior.
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2006)</small>
+III. Tratándose de conductores del transporte público, bastará únicamente que las pruebas determinen que muestra aliento alcohólico o síntomas simples de estar bajo los efectos de cualquier tipo de estupefaciente para que se le aplique arresto administrativo inconmutable hasta por treinta y seis horas, y la multa señalada en la Fracción I del presente Artículo.
 
-II.- En caso de reincidencia será sancionado con arresto administrativo inconmutable hasta por treinta y seis horas, independientemente de las multas a que se haga merecedor por las demás infracciones que se cometan.
-
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2006)</small>
-
-III.- Tratándose de conductores del transporte público, bastará únicamente que las pruebas determinen que muestra aliento alcohólico para que se le aplique arresto administrativo inconmutable hasta por 36 horas.
-
-Las demás infracciones a la presente Ley, serán sancionadas de acuerdo con la falta cometida, con multa de uno a veinte días de salario mínimo general vigente en el Estado.
-
-Para la imposición de la multa, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el artículo 21 de la Constitución General de la República.
-
-La determinación del monto de la multa que corresponda a cada tipo de infracción cometida, se establecerá en las leyes de ingresos de cada uno de los municipios o del Estado, en su caso, atendiendo al tipo de vehículo y a la clasificación de las infracciones establecidas en el artículo siguiente.
+Para la imposición de la multa, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2469,6 +2483,10 @@ En los casos en que los residuos sean peligrosos, deberá solicitar el auxilio d
 
 39. Llevar encendida en la parte delantera de la cabina del vehículo, una pantalla reproductora de imágenes que impida la concentración del conductor.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+40. Transitar con vidrios polarizados que obstruya la visibilidad del conductor, o al interior del vehículo.
+
 c) Vehículos de transporte público de pasajeros:
 
 1. No transitar por el carril derecho.
@@ -2639,25 +2657,27 @@ d) Vehículos de transporte de carga:
 
 7. Efectuar fuera de los horarios señalados, maniobras de carga y descarga en vías primarias.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- MUY GRAVE.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+IV. MUY GRAVE.
 
 a) Todo tipo de vehículo:
 
-1. Conducir en estado de ebriedad;
+1. Conducir cualquier tipo de vehículo cuando se encuentre suspendida o cancelada la licencia de conducir.
 
-2. Cometer una infracción a la presente Ley o causar un accidente, conduciendo cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-3.- Conducir cualquier tipo de vehículo cuando se encuentre suspendida o cancelada la licencia de conducir.
+V. Quien obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas discapacitadas, el infractor se hará acreedor a la multa que se determine en la Ley de Ingresos del Municipio que corresponda.
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- Vehículos de transporte público de pasajeros y de carga:
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
-1.- Conducir con aliento alcohólico bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas.
+Las demás infracciones a la presente Ley, serán sancionadas de acuerdo con la falta cometida, con multa de uno a veinte días de salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 158.
 
@@ -2900,3 +2920,31 @@ P.O. 18 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE AGOSTO DE 2008.
+
+DECRETO NUMERO 113, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 145 BIS, 154, 157 Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los noventa días naturales, contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Honorable Ayuntamiento del Municipio de Aguascalientes, Ags., emitirá en un plazo de noventa días naturales, contados a partir de la publicación del presente Decreto, el Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+El Honorable Ayuntamiento del Municipio de Aguascalientes, Ags., determinará en un plazo de noventa días naturales, contados a partir de la publicación del presente Decreto, las acciones para la prevención y el tratamiento del alcoholismo que habrán de ser financiados con lo recaudado en virtud de las multas impuestas a personas que conduzcan en estado de ebriedad o bajó el efecto de estupefacientes, psicotrópicos u otras sustancias tóxicas, o, en su caso, si dicho ingreso se destinará al equipamiento de los elementos de seguridad pública y tránsito del propio Municipio.
+
+###### ARTÍCULO CUARTO.
+
+En el supuesto de que los demás Municipios de la Entidad, pretendan incrementar las multas por conducción de vehículos de motor en estado de ebriedad, o bajo los efectos de cualquier tipo de estupefacientes, psicotrópicos u otras sustancias tóxicas, deberán promover la reforma correspondiente a sus Leyes de Ingresos.
+
+P.O. 18 DE AGOSTO DE 2008.
+
+DECRETO NUMERO 130, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 30 Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
