@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2007-12-15"
+last_updated: "2008-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE AGOSTO DE 2008.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -365,9 +365,17 @@ Son organismos autónomos del Estado:
 
 I.- El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán;
 
-II.- La Comisión de Derechos Humanos del Estado de Yucatán, y
+> <small>(REFORMADA, D.O. 18 DE AGOSTO DE 2008)</small>
 
-III.- El Tribunal Electoral del Estado.
+II.- La Comisión de Derechos Humanos del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 18 DE AGOSTO DE 2008)</small>
+
+III.- El Tribunal Electoral del Estado, y
+
+> <small>(ADICIONADA, D.O. 18 DE AGOSTO DE 2008)</small>
+
+IV.- El Instituto Estatal de Acceso a la Información Pública.
 
 > <small>(ADICIONADO, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -595,7 +603,7 @@ V.- dar, interpretar y derogar Leyes y Decretos;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
-VI.- aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
+VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -603,7 +611,7 @@ Determinar las bases, montos y plazos con que serán distribuidas las participac
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-VII.- examinar, y en su caso aprobar semestralmente la cuenta pública del Gobierno del Estado, de los Municipios y de los Organismos Autónomos;
+VII.- Examinar, y en su caso aprobar semestralmente la cuenta pública del Gobierno del Estado, de los Municipios y de los Organismos Autónomos;
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
@@ -651,11 +659,11 @@ XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento inte
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XVIII.- nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
+XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -683,7 +691,7 @@ XXIII.- nombrar a los Magistrados del Tribunal Superior de Justicia y a los supl
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-XXIII Bis.- aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo y recibir la protesta de los mismos;
+XXIII Bis.- Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo y recibir la protesta de los mismos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -699,7 +707,7 @@ XXVI.- Recibir la protesta a los Magistrados del Tribunal Superior de Justicia a
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
+XXVII.- Resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
 
 XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -735,7 +743,7 @@ Los ayuntamientos se sujetarán a dichas bases para la elaboración y aprobació
 
 > <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XXXV Bis.- formular las disposiciones aplicables, en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+XXXV Bis.- Formular las disposiciones aplicables, en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -751,11 +759,11 @@ XXXVII Bis.- Autorizar la celebración de los convenios de coordinación, dispue
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XXXVIII.- fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
+XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XXXIX.- conocer y resolver los desacuerdos que surjan por los convenios que suscriban los Ayuntamientos con el Ejecutivo, conforme a los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos;
+XXXIX.- Conocer y resolver los desacuerdos que surjan por los convenios que suscriban los Ayuntamientos con el Ejecutivo, conforme a los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -765,7 +773,7 @@ Para el ejercicio de las facultades señaladas en esta fracción, se deberá gar
 
 > <small>(ADICIONADA, D.O. 26 DE MAYO DE 2005)</small>
 
-XL Bis.- designar un Concejo Municipal de entre los ciudadanos y vecinos del municipio de que se trate, en caso de falta absoluta de la totalidad de los integrantes del Ayuntamiento. Dicho Concejo podrá ser:
+XL Bis.- Designar un Concejo Municipal de entre los ciudadanos y vecinos del municipio de que se trate, en caso de falta absoluta de la totalidad de los integrantes del Ayuntamiento. Dicho Concejo podrá ser:
 
 a) Provisional, si su designación se lleva a cabo en el lapso de los primeros seis meses del ejercicio de la gestión, y
 
@@ -777,7 +785,7 @@ Sus integrantes no podrán ser electos para el período constitucional inmediato
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
+XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
 
 XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
@@ -1005,7 +1013,7 @@ VII.- no ser titular o encargado del despacho de alguna de las dependencias a qu
 
 > <small>(REFORMADA, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
 
-VIII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53; y (sic)
+VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53; y (sic)
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -1185,7 +1193,7 @@ XXIV.- las demás que le confieren esta Constitución y otras Leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO UNICO. De la Protección de los Derechos Humanos
+### CAPÍTULO PRIMERO (SIC). De la Protección de los Derechos Humanos
 
 > <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1226,6 +1234,22 @@ VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores de
 VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícitos o espectáculos inmorales.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 28 DE ENERO DE 1970)</small>
+
+### CAPÍTULO SEGUNDO. Del Acceso a la Información Pública y de la Protección de los Datos Personales
+
+> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+
+###### Artículo 75 Bis.
+
+Se establece un Organismo Público Autónomo denominado Comisión de Derechos Humanos del Estado de Yucatán, con personalidad jurídica y patrimonio propio, encargada de la protección, defensa, estudio, promoción y divulgación de los derechos humanos.
+
+La Ley preservará el carácter público, no vinculatorio, apartidista, transparente y expedito de sus recomendaciones; además su funcionamiento, facultades y procedimientos.
+
+Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un período más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
+
+La Comisión de Derechos Humanos estará facultada para conocer los actos u omisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
+
+(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ###### Artículo 57.
 
@@ -1385,7 +1409,7 @@ El tratamiento en internamiento se utilizará como medida extrema, en el menor t
 
 ## TITULO SEPTIMO. De los Organismos Autónomos
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES CAPITULO UNICO], D.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 74.
 
@@ -1427,11 +1451,11 @@ Se establece un Organismo Público Autónomo denominado Comisión de Derechos Hu
 
 La Ley preservará el carácter público, no vinculatorio, apartidista, transparente y expedito de sus recomendaciones; además su funcionamiento, facultades y procedimientos.
 
-Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un período más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
+Se integrará por un Presidente, un Consejo Consultivo y el personal necesario; el Presidente durará cuatro años en su ejercicio, pudiendo ser ratificado para un periodo más y sólo podrá ser removido durante su encargo, en los términos del Título Décimo de esta Constitución. Este presentará anualmente ante el Congreso, un informe sobre la situación de los derechos humanos, en los términos de Ley.
 
-La Comisión de Derechos Humanos estará facultada para conocer los actos u omisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
+La Comisión de Derechos Humanos estará facultada para conocer los actos u comisiones violatorios, de cualquier servidor público estatal o municipal, con competencia no jurisdiccional; tratándose del Poder Judicial, únicamente conocerá los de naturaleza administrativa. No tendrá facultades en asuntos electorales y de tipo laboral.
 
-(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 18 DE AGOSTO DE 2008)</small>
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
@@ -1947,11 +1971,11 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 Cualquier ciudadano, bajo su responsabilidad y mediante la presentación de pruebas, podrá formular denuncia, ante el Congreso del Estado, respecto de las conductas a que se refiere este título.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos a Juicio Político los diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal, los Presidentes Municipales y los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
+Podrán ser sujetos a Juicio Político los diputados locales en, funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal, los Presidentes Municipales, los Consejeros Electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y los Consejeros del Instituto Estatal de Acceso a la Información Pública.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -2900,3 +2924,9 @@ Se derogan las disposiciones que se opongan a lo establecido en este Decreto.
 ###### ARTÍCULO TERCERO.
 
 Dentro de un plazo que no exceda de seis meses a la entrada en vigor de este Decreto, se expedirá la ley en materia de protección a los derechos de la infancia, en la que se contemplará la creación del organismo especializado referido en este Decreto; para lo cual se escuchará a la opinión ciudadana especializada en la materia.
+
+D.O. 18 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
