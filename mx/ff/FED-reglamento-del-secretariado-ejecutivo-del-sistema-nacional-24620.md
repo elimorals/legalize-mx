@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-secretariado-ejecutivo-del-sistema-nacional-2462
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-06"
-last_updated: "2002-05-06"
+last_updated: "2008-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24620&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-04-29"
 
 REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de mayo de 2002.
 
@@ -44,6 +44,28 @@ REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 ###### Artículo 1.
 
 El presente Reglamento tiene por objeto establecer la estructura, organización y funcionamiento del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, órgano administrativo desconcentrado de la Secretaría de Seguridad Pública, el cual contará con autonomía técnica y operativa en el desarrollo de las atribuciones y funciones que le confiere el Reglamento Interior de la Secretaría de Seguridad Pública, el presente Reglamento y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública tendrá por objeto apoyar la operación y funcionamiento del Consejo Nacional de Seguridad Pública, para lo cual tendrá las siguientes atribuciones:
+
+I. Proponer, previo acuerdo con el Secretario, las políticas, lineamientos, acciones, mecanismos e instrumentos que fortalezcan la coordinación en materia de seguridad pública, y coadyuvar en su instrumentación, con base en los acuerdos y resoluciones del Consejo;
+
+II. Apoyar en la formulación y modificación de programas de formación básica, de especialización, de promoción y de actualización en las modalidades preventivas, judicial, ministerial, pericial y de custodia, así como proponer al Secretario, la constitución y funcionamiento de academias o institutos regionales de seguridad pública;
+
+III. Auxiliar en el seguimiento y evaluación de los convenios y sus anexos técnicos que por acuerdo del Consejo se suscriban con las Entidades Federativas en materia de seguridad pública, así como de la operación de los fideicomisos que se constituyan en esa misma materia;
+
+IV. Apoyar en la ejecución, seguimiento y evaluación de los acuerdos y resoluciones del Consejo y del Secretario y formular los informes correspondientes;
+
+V. Coadyuvar en el diseño, desarrollo, instrumentación y administración del Sistema Nacional de Información sobre Seguridad Pública;
+
+VI. Elaborar conjuntamente con la Coordinación General de Asuntos Jurídicos de la Secretaría, propuestas de reformas al marco jurídico sobre seguridad pública para su presentación al Consejo;
+
+VII. Realizar el análisis de proyectos de reformas a leyes y reglamentos que en materia de seguridad pública sean presentados al Consejo;
+
+VIII. Administrar y regular el Registro Público Vehicular, conforme a las instrucciones del Secretario, y
+
+IX. Las demás que le confieran otras disposiciones legales aplicables, el Consejo Nacional de Seguridad Pública o el Secretario.
 
 ###### Artículo 2.
 
@@ -365,35 +387,7 @@ X. Todas aquellas que le asignen otras disposiciones legales aplicables y el Sec
 
 ###### Artículo 18.
 
-Corresponden a la Dirección General de Administración y Finanzas las siguientes funciones:
-
-I. Dirigir y coordinar la administración de recursos humanos, financieros y materiales, así como de los servicios administrativos del Secretariado Ejecutivo en apego a la normatividad aplicable;
-
-II. Diseñar y establecer las políticas y procedimientos que contribuyan a la innovación gubernamental del Secretariado Ejecutivo;
-
-III. Formular el anteproyecto de presupuesto del Secretariado Ejecutivo y su correspondiente Programa Operativo Anual;
-
-IV. Autorizar a las unidades administrativas, previo acuerdo con el Secretario Ejecutivo, los recursos financieros que requieran para su operación, de conformidad con la asignación presupuestal aprobada, así como integrar la documentación comprobatoria del gasto, de conformidad con la normatividad aplicable;
-
-V. Operar un sistema de contabilidad para integrar, registrar y consolidar las operaciones realizadas por el Secretariado Ejecutivo, así como emitir los estados financieros y los del ejercicio presupuestal;
-
-VI. Someter al acuerdo del Secretario Ejecutivo las propuestas de modificación a las estructuras orgánicas, ocupacionales y de las plantillas de personal que formulen las unidades administrativas, para el dictamen administrativo correspondiente;
-
-VII. Planear, programar e instrumentar, en coordinación con la Secretaría, el sistema integral de recursos humanos del Secretariado Ejecutivo;
-
-VIII. Coordinar la ejecución del programa de capacitación que autorice el Comité de Capacitación del Secretariado Ejecutivo y la Comisión de Capacitación de la Secretaría;
-
-IX. Ejecutar, de manera coordinada con la unidad administrativa correspondiente de la Secretaría, el Programa de Protección Civil del Secretariado Ejecutivo;
-
-X. Formular y ejecutar los programas anuales de Adquisiciones, Arrendamientos y Servicios, de Obras Públicas y Servicios Relacionados con las Mismas y Enajenación de Bienes, conforme a los lineamientos que establezca el Secretario Ejecutivo y las disposiciones aplicables;
-
-XI. Suscribir contratos y pedidos en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas, conforme a los lineamientos que establezca el Secretario Ejecutivo, de conformidad con las disposiciones legales aplicables, con el acuerdo de delegación de facultades que, en su caso, expida el Secretario, con las autorizaciones de los comités respectivos y con las políticas establecidas por la Oficialía Mayor de la Secretaría;
-
-XII. Administrar el Sistema de Recursos Materiales y consolidar el control de almacenes y de bienes de activo fijo, así como actualizar los inventarios, conforme a la normatividad aplicable;
-
-XIII. Administrar los servicios de transporte, mensajería, archivo, vigilancia, conservación, mantenimiento y los que se requieran para el adecuado funcionamiento de las unidades administrativas del Secretariado Ejecutivo, conforme a la normatividad aplicable, y
-
-XIV. Todas aquellas que le asignen otras disposiciones legales aplicables y el Secretario Ejecutivo.
+(DEROGADO, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### Artículo 19.
 
@@ -421,9 +415,89 @@ X. Formular los proyectos de actas de las sesiones del Consejo, dar seguimiento 
 
 XI. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir los servidores públicos del Secretariado Ejecutivo cuando sean señalados como autoridad responsable;
 
-XII. Fungir como enlace del Secretariado Ejecutivo en materia jurídica con la Coordinación General de Asuntos Jurídicos de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, de los estados, del Distrito Federal y de los municipios, y
+XII. Fungir como enlace del Secretariado Ejecutivo en materia jurídica con la Coordinación General de Asuntos Jurídicos de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, de los estados, del Distrito Federal y de los municipios, y (sic)
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIII. Observar los lineamientos, políticas y directrices que establezca la Coordinación General de Asuntos Jurídicos de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIV. Informar periódicamente a la Coordinación General de Asuntos Jurídicos de la Secretaría, de los asuntos a su cargo. No obstante, en los asuntos relevantes y urgentes deberá informar y poner en conocimiento de inmediato al Secretario Ejecutivo y al Coordinador General de Asuntos Jurídicos de la Secretaría, sin perjuicio de adoptar las medidas urgentes que resulten necesarias para la protección de los objetivos del Órgano;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XV. Formar parte del Comité Jurídico de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XVI. Las demás que señalen los ordenamientos jurídicos aplicables y el Secretario Ejecutivo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+Artículo 19 bis.- Corresponde a la Dirección General del Registro Público Vehicular las funciones siguientes:
+
+I. Operar y mantener actualizado el Registro Público Vehicular;
+
+II. Establecer, previo acuerdo con el Secretario, las reglas de operación y funcionamiento del Registro Público Vehicular;
+
+III. Validar la información que proporcionen al Registro Público Vehicular los sujetos obligados, las autoridades federales, estatales y municipales, así como requerir su aclaración o corrección;
+
+IV. Expedir las constancias de inscripción de vehículos, así como las de reposición conforme a lo dispuesto por la normatividad aplicable;
+
+V. Brindar al público, el servicio de consulta de información, respecto de la contenida en la base de datos del Registro Público Vehicular, en términos de lo dispuesto por la normatividad aplicable;
+
+VI. Promover en coordinación con la Secretaría de Relaciones Exteriores y, previa opinión de la Coordinación General de Asuntos Jurídicos de la Secretaría, la celebración de tratados y acuerdos internacionales;
+
+VII. Establecer, previa opinión de la Unidad Administrativa correspondiente de la Secretaría, mecanismos de coordinación y cooperación con autoridades de otros países, para el intercambio de información en materia vehicular;
+
+VIII. Ordenar la práctica de visitas de verificación para comprobar el cumplimiento de la Ley del Registro Público Vehicular y su Reglamento, de conformidad a lo establecido por la Ley Federal de Procedimiento Administrativo;
+
+IX. Imponer las sanciones que correspondan por el incumplimiento a lo dispuesto por la Ley del Registro Público Vehicular y su Reglamento;
+
+X. Coordinarse con las autoridades de las entidades federativas para el suministro e intercambio de la información;
+
+XI. Brindar asesoría a las instancias de coordinación del Sistema Nacional de Seguridad Pública en materia de control e identificación vehicular;
+
+XII. Someter a consideración del Secretario Ejecutivo las opiniones de los sujetos obligados a que se refiere la Ley del Registro Público Vehicular y su Reglamento, y
 
 XIII. Todas aquellas que le asignen otras disposiciones legales aplicables y el Secretario Ejecutivo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+Artículo 19 ter.- Corresponden a la Dirección de Administración y Enlace, las siguientes funciones:
+
+I. Administrar los recursos materiales, así como los servicios administrativos del Secretariado Ejecutivo, en apego a la normatividad aplicable;
+
+II. Formular el anteproyecto de presupuesto del Secretariado Ejecutivo y su correspondiente Programa Operativo Anual;
+
+III. Administrar los recursos financieros del órgano administrativo desconcentrado, en coordinación con la Secretaría, y comunicar a las unidades administrativas, previo acuerdo con el Secretario Ejecutivo, los recursos financieros que requieran para su operación, de conformidad con la asignación presupuestal aprobada;
+
+IV. Integrar la documentación comprobatoria del gasto, de conformidad con la normatividad aplicable;
+
+V. Operar un sistema de contabilidad para integrar, registrar y consolidar las operaciones realizadas por el Secretariado Ejecutivo, así como emitir los estados financieros y los del ejercicio presupuestal, de conformidad con las disposiciones aplicables;
+
+VI. Someter al acuerdo del Secretario Ejecutivo las propuestas de modificación a las estructuras orgánicas, ocupacionales y de las plantillas de personal que formulen las unidades administrativas, para el dictamen administrativo correspondiente, previa opinión presupuestaria de la Oficialía Mayor de la Secretaría;
+
+VII. Planear y programar, en coordinación con la Secretaría, el sistema integral de recursos humanos del Secretariado Ejecutivo;
+
+VIII. Ejecutar, de manera coordinada con la unidad administrativa correspondiente de la Secretaría, el Programa de Protección Civil del Secretariado Ejecutivo;
+
+IX. Formular y ejecutar los programas anuales de Adquisiciones, Arrendamientos y Servicios, y Enajenación de Bienes, conforme a los lineamientos que establezca el Secretario Ejecutivo y las disposiciones aplicables;
+
+X. Suscribir los contratos y pedidos que correspondan en términos de su competencia, y en específico los relacionados con la materia de adquisiciones, arrendamientos y servicios, conforme a los lineamientos que establezca el Secretario Ejecutivo y de conformidad con las disposiciones legales aplicables;
+
+XI. Administrar el Sistema de Recursos Materiales y consolidar el control de almacenes y de bienes de activo fijo, así como actualizar los inventarios, conforme a la normatividad aplicable;
+
+XII. Administrar los servicios de transporte, mensajería, archivo, vigilancia, conservación, mantenimiento y los que se requieran para el adecuado funcionamiento de las unidades administrativas del Secretariado Ejecutivo, conforme a la normatividad aplicable;
+
+XIII. Fungir como Unidad de Enlace con las áreas específicas de la Oficialía Mayor de la Secretaría para efecto de la administración de los recursos humanos y financieros que correspondan al Secretariado Ejecutivo;
+
+XIV. Consolidar en la Oficialía Mayor de la Secretaría, los requerimientos del Secretariado Ejecutivo y proyectos respectivos en materia de obras públicas y servicios relacionados con las mismas;
+
+XV. Fungir como Unidad de Enlace en términos de lo dispuesto por el artículo 28 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y
+
+XVI. Todas aquellas que le asignen otras disposiciones legales aplicables y el Secretario Ejecutivo.
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
@@ -456,3 +530,13 @@ PRIMERO.- El presente ordenamiento entrará en vigor al día siguiente de su pub
 SEGUNDO.- En virtud de que el órgano administrativo desconcentrado denominado Patronato para la Reincorporación Social por el Empleo en el Distrito Federal, se integró a la estructura del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, por disposición del Transitorio Tercero del Reglamento Interior de la Secretaría de Seguridad Pública publicado en el Diario Oficial de la Federación el 6 de febrero de 2001, toda mención a dicho patronato en otras disposiciones se entenderá referida a la Dirección General de Instituciones Abiertas, Prevención y Readaptación Social.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de abril de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Seguridad Pública, Alejandro Gertz Manero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las acciones que se lleven a cabo para la aplicación del presente Decreto, se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Secretaría de Seguridad Pública, y deberán observar las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+TERCERO.- La Oficialía Mayor de la Secretaría de Seguridad Pública realizará las transferencias de recursos humanos, financieros y materiales que correspondan para la operación de las unidades administrativas a que se refiere este Decreto, mediante movimientos compensados con cargo al presupuesto aprobado para dicha dependencia. Las referidas acciones deberán cumplimentarse a más tardar dentro de los sesenta días siguientes a la publicación del presente Decreto.
