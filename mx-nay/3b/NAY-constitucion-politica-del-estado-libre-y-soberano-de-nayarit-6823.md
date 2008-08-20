@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2007-11-14"
+last_updated: "2008-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -519,19 +519,19 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
 ###### Art. 42.
 
-El Congreso celebrará Sesión Solemne el 17 de diciembre de cada año, a la que comparecerá el Gobernador y rendirá por escrito un informe anual en el que expondrá sucintamente el estado que guardan todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
+El 17 de diciembre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado.
 
-En el último año de ejercicio constitucional del gobernador, el informe deberá ser presentado a la apertura del primer periodo ordinario de sesiones.
+El Congreso realizará el análisis del informe y podrá solicitar al Gobernador ampliar la información mediante pregunta por escrito y citar a los titulares de las dependencias de la administración pública centralizada y descentralizada y al Procurador General de Justicia, quienes comparecerán ante el Congreso y bajo protesta de decir verdad, rendirán un informe sobre el estado que guardan sus respectivos ramos.
 
-El día anterior a la rendición del informe, el Gobernador comparecerá ante las comisiones legislativas, con las que entablará un diálogo fundado en el respeto a la pluralidad y libertad de expresión, en los términos que disponga la ley.
+En el último año de ejercicio constitucional del gobernador, el informe deberá ser presentado a la apertura del primer período ordinario de sesiones.
 
-El día anterior a la rendición del informe, el Gobernador comparecerá ante las comisiones legislativas, con las que entablará un diálogo fundado en el respeto a la pluralidad y libertad de expresión, en los términos que disponga la ley.
+El Congreso igualmente podrá requerirles información o documentación mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a 15 días naturales a partir de su recepción.
 
-En los días previos al informe, los titulares de la administración pública centralizada y descentralizada, comparecerán ante las comisiones legislativas, con el objeto de informar sobre sus respectivos ramos. Estas deberán remitir al titular del Poder Ejecutivo los posicionamientos y recomendaciones del caso, en los términos que disponga la ley.
+El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Congreso y su Reglamento.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -673,9 +673,11 @@ XXIV. Decretar el desafuero de alguno de sus miembros.
 
 XXV. Expedir Leyes de expropiación por causa de utilidad pública.
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2008)</small>
 
-XVI. Fiscalizar las cuentas públicas del año anterior de todos los caudales del estado y de los municipios.
+XXVI. Fiscalizar las cuentas públicas del año anterior de todos los caudales del estado y de los municipios con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas.
+
+La fiscalización de las cuentas públicas la realizará el Congreso del Estado a través del Órgano de Fiscalización Superior del Estado.
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
@@ -1561,11 +1563,11 @@ i) Celebrar convenios para la administración y custodia de las zonas federales.
 
 En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarias.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
 ###### Art. 112.
 
-El presidente municipal presentará anualmente en sesión solemne del Ayuntamiento, un informe escrito sobre el estado que guarda la administración pública municipal, así como de los avances del Plan Municipal de Desarrollo. Dicho informe será revisado y evaluado por los miembros del Ayuntamiento, en los términos que señale la ley.
+El presidente municipal presentará anualmente al Ayuntamiento, un informe por escrito sobre el estado que guarda la administración pública municipal, así como de los avances del Plan Municipal de Desarrollo. Dicho informe será revisado y evaluado por los miembros del Ayuntamiento, en los términos que señale la ley.
 
 ###### Art. 113.
 
@@ -1613,7 +1615,7 @@ Los bienes del dominio público municipal son inalienables, imprescriptibles e i
 
 ### CAPITULO SEGUNDO. De la Fiscalización Superior del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
 ###### Art. 116.
 
@@ -1667,51 +1669,71 @@ El año fiscal queda comprendido del primero de enero al 31 de diciembre, inclus
 
 ###### Art. 121.
 
-La revisión y fiscalización de los programas y recursos públicos tendrá por objeto investigar el examen de la exactitud y justificación de los gastos hechos, si las cantidades están o no de acuerdo con las partidas y criterios señalados en los presupuestos de egresos, conocer los resultados de la gestión financiera y programática así como comprobar si se ha ajustado a la normatividad aplicable.
+El Órgano de Fiscalización Superior del Estado del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley.
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
+La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-El Órgano de Fiscalización Superior del Estado realizará la revisión y fiscalización a la que se refiere el párrafo anterior, con arreglo a lo dispuesto en la ley y el reglamento de la materia y conforme a las bases siguientes.
+Apartado A. El Órgano de Fiscalización Superior del Estado tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+l. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los de los (sic) poderes del estado, de los municipios, órganos autónomos, y demás entes públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes de desarrollo estatal y municipales, y en los programas gubernamentales que deriven de éstos, a través de los informes que se rendirán en los términos que disponga la ley.
 
-I.- Fiscalizará en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los poderes del estado, de los ayuntamientos y órganos autónomos, así como el cumplimiento de los objetivos contenidos en los planes de desarrollo estatal y municipal, así como de los programas gubernamentales que deriven de éstos; mediante los informes y documentos que se le presenten en los términos que disponga la ley.
+También fiscalizará los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-Si del examen que se realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley.
+En todo caso, si de las auditorías que realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior del Estado sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
 
-Sin perjuicio de los informes y documentos a que se refiere el primer párrafo de esta fracción, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señaladas por la ley, se podrá dar lugar al fincamiento de las responsabilidades que correspondan.
+Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior del Estado podrá solicitar y fiscalizar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a los sujetos fiscalizables que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se impondrán las sanciones previstas en la misma. El Órgano de Fiscalización Superior del Estado rendirá un informe específico al Congreso y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-II.- En los términos de la ley, entregará al Congreso el informe del resultado de la revisión de las cuentas públicas a más tardar el 15 de noviembre del año siguiente al que se revise; investigará los actos u omisiones que impliquen irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos que dispongan los poderes del estado, los Ayuntamientos, las entidades estatales y municipales y demás organismos autónomos del estado; el informe una vez presentado será público y su difusión será obligatoria en todo el estado.
+II. Entregar el informe del resultado de la revisión de las cuentas públicas a más tardar el 15 de noviembre del año siguiente al que se revise, el cual se someterá a la consideración del pleno del Congreso y tendrá carácter público y su contenido deberá difundirse en todo el estado. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos estatales y municipales por parte de los sujetos fiscalizables a que se refiere la fracción anterior y a la verificación del desempeño en el cumplimiento de los objetivos de los programas, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, los sujetos fiscalizados hayan presentado sobre las mismas, así como las acciones promovidas.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+Para tal efecto, de manera previa a la presentación del informe del resultado, en los términos de ley, se darán a conocer a los sujetos fiscalizables la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano de Fiscalización Superior del Estado para la elaboración del informe del resultado de la revisión de las Cuentas Públicas.
 
-III.- Efectuará visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas.
+El titular del Órgano de Fiscalización Superior del Estado enviará a los sujetos fiscalizados, a más tardar a los 10 días hábiles posteriores a que sea entregado al Congreso el informe del resultado, el resultado de las auditorías que se les hayan practicado en el cual se le darán a conocer las recomendaciones y acciones promovidas.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+En el caso de las recomendaciones al desempeño las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior del Estado las mejoras realizadas o, en su caso, justificar su improcedencia.
 
-IV.- Determinará los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, al patrimonio de las entidades descentralizadas y al de los organismos autónomos del Estado, fincando directamente a los responsables las indemnizaciones y sanciones pecuniarias que correspondan, así como promover ante las autoridades competentes las responsabilidades que procedan, presentando las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+El Órgano de Fiscalización Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el informe del resultado a que se refiere esta fracción; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de que dispongan los sujetos fiscalizables, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
 
-V.- El Congreso designará titular del Organo de Fiscalización Superior, por el voto de las dos terceras partes de sus integrantes. La ley determinará el procedimiento que al efecto resulte aplicable. Dicho titular durará en su cargo cuatro años, podrá ser ratificado por una sola vez y será removido por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en esta Constitución.
+IV. Determinar los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, o al patrimonio de los sujetos fiscalizables y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Octavo de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+Las sanciones y demás resoluciones del Órgano de Fiscalización Superior del Estado podrán ser impugnadas por los servidores públicos y las demás personas afectadas, ante el propio Órgano y ante el Tribunal de Justicia Administrativa del Estado, conforme a lo previsto en la ley.
 
-VI.- La ley establecerá los requisitos y procedimientos para la designación y remoción de los demás servidores públicos del Organo de Fiscalización Superior del Estado. Durante el ejercicio de su cargo, incluido el titular, no podrán formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia; y
+Los sujetos fiscalizables facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos locales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+El Poder Ejecutivo Estatal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo. Los recursos recuperados deberán reintegrarse a la hacienda pública cuya afectación haya dado origen al crédito fiscal.
 
-VII.- Los Poderes del Estado y las autoridades municipales, así como los sujetos de fiscalización, facilitarán los informes y documentos que requiera el Organo de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+Apartado B. En los términos que fije la ley, los sujetos fiscalizables presentarán su Cuenta Pública del ejercicio fiscal correspondiente a más tardar el 15 de febrero del año siguiente; y trimestralmente, presentarán informes del avance de la gestión financiera de los programas a su cargo. Sólo se podrá ampliar el plazo de presentación de las cuentas públicas y de los informes del avance de gestión financiera cuando medie solicitud del titular del sujeto fiscalizable suficientemente justificada a juicio del Congreso o de la Diputación Permanente, debiendo comparecer en todo caso el titular de la dependencia correspondiente a informar de las razones que lo motiven; la prórroga no deberá exceder de 15 días naturales y, en tal supuesto, el Órgano de Fiscalización Superior del Estado contará con el mismo tiempo adicional para la presentación del informe del resultado de la fiscalización de la Cuenta Pública correspondiente.
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
+El Congreso del Estado concluirá la fiscalización de las cuentas públicas a más tardar el 30 de mayo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado del Órgano de Fiscalización Superior del Estado referido en esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por dicho órgano sigan su curso.
 
-En los términos que fije la ley, los sujetos fiscalizables deberán presentar su cuenta pública anualmente dentro de los cuarenta y cinco días posteriores al 31 de diciembre del ejercicio fiscal del que se informe, en todo caso, trimestralmente presentarán los informes del avance de su gestión financiera sobre los avances físicos y financieros de los programas a su cargo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2008)</small>
 
 ###### Art. 121 Bis.
 
-(DEROGADO, P.O. 25 DE AGOSTO DE 1943)
+El Congreso del Estado designará al titular del Órgano de Fiscalización Superior del Estado, por el voto de las dos terceras partes de los miembros presentes. Dicho titular durará en su cargo siete años. Podrá ser removido, exclusivamente por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos de responsabilidad previstos en esta Constitución.
+
+Para ser titular del Órgano de Fiscalización Superior se requiere cumplir con los siguientes requisitos:
+
+I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos, sin tener ni antes ni durante el encargo doble nacionalidad;
+
+II. Ser vecino del estado de Nayarit con una residencia mínima de cinco años;
+
+III. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+IV. Contar con experiencia de al menos cinco años en materia de control, auditoría financiera y de responsabilidades;
+
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal u órgano autónomo, Magistrado, Procurador General de Justicia, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Sindico o Tesorero Municipal o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
+
+VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
+
+VIII. Poseer, al día del nombramiento, título y cédula profesional de licenciatura en el área de Sociales, Humanidades o Económico Administrativas, expedidos por autoridad o institución legalmente facultada para ello.
+
+Dicho titular, durante el ejercicio de su encargo, no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(REFORMADA SU NUMERACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2772,3 +2794,25 @@ Para los efectos del artículo 131 de la Constitución Política del Estado Libr
 ###### ARTÍCULO QUINTO.
 
 Para los efectos a que alude la fracción II, apartado B del artículo 135 de la presente reforma, el Instituto Estatal Electoral será la única autoridad facultada para contratar o adquirir tiempos de radio y televisión, si al inicio del proceso electoral no está vigente la legislación a que se refiere la reforma al artículo 41 de la Constitución Federal.
+
+P.O. 20 DE AGOSTO DE 2008.
+
+DECRETO QUE REFORMA EL ARTICULO 47, FRACCION XXVI, 121 Y 121 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial, Órgano del Gobierno del Estado, salvo lo previsto en el artículo siguiente.
+
+Artículo Segundo.- Las formalidades, procedimientos y principios que se establecen en el presente decreto relativa a los procesos de fiscalización que realice el Órgano de Fiscalización Superior entrarán en vigor a partir del primero de enero del año 2009.
+
+Artículo Tercero.- En todo caso, el Congreso del Estado deberá aprobar las reformas legales que sean necesarias, mismas que deberán entrar en vigor a más tardar el primero de enero del año 2009.
+
+Artículo Cuarto.- Para los efectos del nombramiento del titular del Órgano de Fiscalización Superior del Estado que deberá iniciar su periodo el próximo 24 de noviembre de 2008, el Poder Legislativo, por conducto de la comisión competente, determinará oportunamente los plazos y formalidades inherentes a dicha resolución, sujetándose al período y requisitos que en este decreto se establecen.
+
+Artículo Quinto.- Remítase el presente decreto a los Ayuntamientos de la entidad para los efectos del artículo 131 de la Constitución Política del Estado.
+
+P.O. 20 DE AGOSTO DE 2008.
+
+DECRETO QUE REFORMA LOS ARTICULOS 42 Y 112 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT.
+
+Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Remítase el presente Decreto a los Ayuntamientos de la entidad, para los efectos previstos por el artículo 131 de la Constitución Política del Estado de Nayarit.
