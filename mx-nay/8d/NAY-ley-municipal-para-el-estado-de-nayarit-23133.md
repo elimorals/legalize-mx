@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2008-04-12"
+last_updated: "2008-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -751,9 +751,11 @@ VII.- Promulgar las normas de carácter general y reglamentos aprobados por el A
 
 VIII.- Rendir mensualmente un informe al Ayuntamiento sobre el estado que guarda la administración municipal en sus aspectos más relevantes;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2008)</small>
 
-IX.- Informar por escrito dentro de los primeros diez días del mes de diciembre de cada año en sesión solemne, al Ayuntamiento, del estado que guarda la administración pública municipal en todos sus aspectos y de las labores realizadas durante el año, con la salvedad que para el último año de ejercicio constitucional, el informe se presentará en los primeros diez días del mes de septiembre.
+IX.- Informar por escrito dentro de los primeros diez días del mes de diciembre de cada año, al Ayuntamiento, del estado que guarda la administración pública municipal en todos sus aspectos y de las labores realizadas durante el año, con la salvedad que para el último año de ejercicio constitucional, el informe se presentará en los primeros diez días del mes de septiembre.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2006)</small>
 
 Dicho informe se publicará en la Gaceta Municipal;
 
@@ -3144,3 +3146,9 @@ P.O. 12 DE ABRIL DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 20 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del 17 de septiembre del año 2008, y deberá publicarse en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
