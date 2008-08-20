@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2008-02-15"
+last_updated: "2008-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -151,21 +151,33 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 De las Personas Morales.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 25.
 
 Son personas morales:
 
-I.- La Nación, los Estados y los Municipios;
+I. La Nación, los Estados y los Municipios;
 
-II.- Las demás corporaciones de carácter público reconocidas por la ley;
+II. Las demás corporaciones de carácter público reconocidas por la ley;
 
-III.- Las sociedades civiles y mercantiles;
+III. Las sociedades civiles y mercantiles;
 
-IV.- Los sindicatos, Comisariados Ejidales, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
+IV Los sindicatos, Comisariados Ejidales, las Asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
 
-V.- Las sociedades cooperativas y mutualistas;
+V. Las sociedades cooperativas y mutualistas;
 
-VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
+VI. Los organismos descentralizados;
+
+VII. Los partidos políticos reconocidos conforme a la legislación electoral;
+
+VIII. Las asociaciones y órdenes religiosas;
+
+IX. Los condominios;
+
+X. Las personas morales extranjeras con autorización expresa para operar dentro del territorio del Estado; y
+
+XI. Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
 
 ###### Artículo 26.
 
@@ -11749,7 +11761,7 @@ Si la concesión del plazo fue posterior al contrato, el comprador estará oblig
 
 ###### Artículo 2181.
 
-Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión (sic) o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
+Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
 
 ###### Artículo 2182.
 
@@ -16088,6 +16100,12 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 P.O. 15 DE FEBRERO DE 2008.
 
 DECRETO NUMERO 49 POR EL QUE SE DEROGAN LOS ARTICULOS 62, 64, 158, 264, 265 Y 289; Y, SE REFORMA EL NUMERAL 288 DEL CODIGO CIVIL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE AGOSTO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
