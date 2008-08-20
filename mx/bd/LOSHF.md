@@ -4,7 +4,7 @@ identifier: "LOSHF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-10-11"
-last_updated: "2006-06-22"
+last_updated: "2008-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOSHF"
 
 LEY ORGANICA DE SOCIEDAD HIPOTECARIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de octubre de 2001.
 
@@ -46,11 +46,11 @@ LEY ORGANICA DE SOCIEDAD HIPOTECARIA FEDERAL
 
 La presente Ley es reglamentaria del quinto párrafo del artículo 4o. constitucional y tiene por objeto regular la organización y el funcionamiento de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2o.
 
-Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, tendrá por objeto impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda, mediante el otorgamiento de garantías destinadas a la construcción, adquisición y mejora de vivienda, preferentemente de interés social, así como al incremento de la capacidad productiva y el desarrollo tecnológico, relacionados con la vivienda.
+Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, tendrá por objeto impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda, mediante el otorgamiento de crédito y garantías destinadas a la construcción, adquisición y mejora de vivienda, preferentemente de interés social en los términos de esta Ley, así como al incremento de la capacidad productiva y el desarrollo tecnológico, relacionados con la vivienda.
 
 Asimismo, podrá garantizar financiamientos relacionados con el equipamiento de conjuntos habitacionales.
 
@@ -84,6 +84,14 @@ IV. Operar con divisas y valores, incluyendo aquéllos respaldados por garantía
 
 V. Garantizar créditos y valores relacionados con financiamientos a la vivienda, otorgados o emitidos por entidades financieras, e invertir en esos valores;
 
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+V Bis. Otorgar créditos relacionados con la vivienda con el fin de impulsar el desarrollo de algún segmento de los mercados primario y secundario de crédito a la vivienda o de procurar la estabilidad de dichos mercados conforme a los criterios que defina su Consejo Directivo;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+V Ter. Prestar servicios de consultoría;
+
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2006)</small>
 
 VI. Celebrar contratos para cubrir, total o parcialmente, los riesgos que asuma la Sociedad por las operaciones a que se refiere la fracción anterior;
@@ -102,15 +110,17 @@ X. Actuar como representante común de tenedores de títulos de crédito represe
 
 X Bis. Realizar aportaciones para la constitución de instituciones de seguros de los ramos de crédito a la vivienda y garantía financiera o invertir en el capital social de éstas, en los términos del artículo 24 Bis de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-X Ter. Invertir, con la previa autorización de la Secretaría de Hacienda y Crédito Público, en el capital social de las empresas que le presten servicios complementarios o auxiliares en la administración o en la realización del objeto de la propia Sociedad o realizar aportaciones para la constitución de este tipo de empresas, en cuyo caso éstas no serán consideradas de participación estatal y, por lo tanto, no estarán sujetas a las disposiciones aplicables a las entidades de la Administración Pública Federal Paraestatal, y
+X Ter. Invertir, con la previa autorización de la Secretaría de Hacienda y Crédito Público, en el capital social de las empresas que le presten servicios complementarios o auxiliares en la administración o en la realización del objeto de la propia Sociedad o realizar aportaciones para la constitución de este tipo de empresas, en cuyo caso éstas no serán consideradas de participación estatal y, por lo tanto, no estarán sujetas a las disposiciones aplicables a las entidades de la Administración Pública Federal Paraestatal, así como contratar sus servicios sin que resulte aplicable para tal efecto la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y
 
 XI. Las demás operaciones a que se refiere la Ley de Instituciones de Crédito, así como las análogas y conexas que autorice la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 5o.
 
-Las operaciones a que se refiere el artículo 4o. deberán contratarse en términos que guarden congruencia con la consecución del objetivo de la Sociedad y con la sana administración de su patrimonio.
+Las operaciones a que se refiere el artículo 4o. deberán contratarse en términos que guarden congruencia con la consecución del objetivo de la Sociedad y con la sana administración de su patrimonio. Con este propósito, cualquier financiamiento que otorgue la Sociedad deberá contar con garantía y satisfacer los criterios que defina su Consejo Directivo.
 
 ###### Artículo 6o.
 
@@ -176,7 +186,9 @@ c) El Gobernador del Banco de México;
 
 d) Un Subgobernador del Banco de México, designado por el propio Gobernador, y
 
-e) Un representante de la Secretaría de Desarrollo Social, que será el titular de la Comisión Nacional de Fomento a la Vivienda, y
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+e) El Titular de la Comisión Nacional de Vivienda, y
 
 II. Cuatro consejeros externos representarán a la serie "B" de los certificados de aportación patrimonial de la Sociedad; serán designados por el titular o titulares de esos certificados que representen, cuando menos, el 51% de éstos y, en el supuesto de que el titular sea el Gobierno Federal, la designación correspondiente la realizará el Secretario de Hacienda y Crédito Público.
 
@@ -204,6 +216,10 @@ Las personas que ocupen el cargo de consejeros externos podrán ser designadas c
 
 La vacante que se produzca en un puesto de consejero externo será cubierta por el nuevo miembro que se designe para integrar el Consejo Directivo y durará en su cargo sólo por el tiempo que faltare desempeñar al sustituido.
 
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+Los consejeros externos no formarán parte del personal de la Sociedad, por lo que no se considerarán servidores públicos.
+
 El Consejo Directivo de la Sociedad tendrá la facultad indelegable de fijar las remuneraciones de los consejeros externos, a propuesta del Comité señalado en el artículo 31 de esta Ley, sin que éstas se sujeten a autorización alguna por parte de autoridades administrativas. Para adoptar las resoluciones a que se refiere este párrafo, en la respectiva sesión del Consejo Directivo, no podrán participar los consejeros externos y éste deberá considerar las remuneraciones existentes para el personal de la Sociedad, así como la evolución de las remuneraciones en el sistema financiero del país. Asimismo, como criterio rector, el Consejo Directivo deberá procurar que la Sociedad cuente con consejeros externos idóneos y calificados, en términos de las disposiciones aplicables y con base en las condiciones del mercado laboral. Los pagos se realizarán con cargo al presupuesto autorizado de la Sociedad.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2006)</small>
@@ -212,7 +228,9 @@ El Consejo Directivo de la Sociedad tendrá la facultad indelegable de fijar las
 
 Las designaciones de consejeros externos deberán recaer en personas de nacionalidad mexicana que cuenten con experiencia en materia financiera, jurídica, administrativa o contable, y con capacidad y prestigio profesional que les permita desempeñar sus funciones libres de conflictos de interés, sin que estén supeditados a intereses personales, patrimoniales o económicos. Además, deberán de cubrir los requisitos siguientes:
 
-I. Estar en pleno goce de sus derechos y no tener más de 70 años cumplidos al inicio del período correspondiente;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+I. Estar en pleno goce de sus derechos;
 
 II. Haber ocupado, por lo menos durante cinco años, cargos de alto nivel en materia financiera, jurídica, administrativa o contable;
 
@@ -316,13 +334,35 @@ IV. (DEROGADA, D.O.F. 24 DE JUNIO DE 2002)
 
 IV Bis. Resolver sobre los asuntos que someta a su consideración el Comité de Auditoría;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-V. Expedir las normas y criterios a los cuales deberán sujetarse la elaboración y el ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, sujetándose a los montos globales anuales autorizados al efecto por la Secretaría de Hacienda y Crédito Público, y
+V. Expedir las normas y criterios a los cuales deberán sujetarse la elaboración y el ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, sujetándose a los montos globales anuales autorizados al efecto por la Secretaría de Hacienda y Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-VI. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional, así como opinar sobre las condiciones generales de trabajo que rijan las relaciones laborales entre la Sociedad y sus trabajadores.
+VI. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VII. Expedir las normas y bases que habrán de seguirse para la enajenación a precio de mercado de bienes muebles o inmuebles recibidos en pago o adjudicados a la Sociedad y a las instituciones de seguros en cuyo capital participe la primera, sin que le resulten aplicables la Ley General de Bienes Nacionales ni la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VIII. Aprobar los objetivos, lineamientos y políticas en materia de originación y administración del crédito, así como establecer, conforme a la fracción V Bis del artículo 4o. de esta Ley, los criterios para el otorgamiento de créditos, los cuales deberán incluir, cuando menos:
+
+a) Las características para delimitar los segmentos de mercado que requieran desarrollarse sin inhibir la participación del sector privado en condiciones de sana competencia en estos segmentos.
+
+b) Los plazos o metas para determinar cuándo la Sociedad deberá concluir con el otorgamiento de créditos al respectivo segmento del mercado, para lo cual deberá considerar que se hayan desarrollado sanas prácticas de competencia y se cuente con participación suficiente y adecuada del sector privado.
+
+c) Los criterios para autorizar la participación de la Sociedad en el otorgamiento de créditos durante circunstancias inusuales en los mercados, con el propósito de mantener la liquidez y sana operación del sector de crédito a la vivienda;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+IX. Establecer políticas de carácter prudencial que fijen límites a la exposición de la Sociedad en su función de proveedor de liquidez al mercado, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+X. Designar a propuesta del Director General al titular de la contraloría interna quien además será el responsable del área de auditoría interna de la Sociedad, la cual estará integrada y desempeñará funciones en materia de vigilancia y control interno de la Sociedad, conforme a las disposiciones que expida la Comisión Nacional Bancaria y de Valores y demás disposiciones normativas aplicables, así como aprobar sus lineamientos generales y planes de trabajo.
 
 ###### Artículo 21.
 
@@ -332,15 +372,27 @@ El Director General será designado por el Ejecutivo Federal a través de la Sec
 
 El Director General tendrá a su cargo la administración y representación legal de la Sociedad, sin perjuicio de las atribuciones que correspondan al Consejo Directivo. Al efecto tendrá las siguientes facultades y funciones:
 
-I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, y no limitativa, podrán emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aún aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, y no limitativa, podrán emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio.
+
+También podrá representar a la Sociedad cuando ésta actúe como Autoridad Responsable en el juicio de amparo, el titular de la unidad administrativa encargada del área jurídica de la Sociedad;
 
 II. Ejecutar los acuerdos del Consejo Directivo;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-II Bis. Formular el plan de trabajo a largo plazo de la Sociedad de cuando menos cinco años, para someterlo a consideración del Consejo Directivo en la primera sesión de cada año, que comprenda las proyecciones financieras, operativas y estrategias de la Institución;
+II Bis. Formular el plan de trabajo de largo plazo de la Sociedad de cuando menos cinco años, para someterlo a consideración del Consejo Directivo, que comprenda las proyecciones financieras, operativas y estrategias de la Institución. Este plan estratégico se revisará al menos cada tres años o antes en caso que se requiriera ajustar;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+II Bis 1. Formular el plan de trabajo anual relacionado con la estrategia, así como el avance y seguimiento del plan de largo plazo para someterlo a consideración del Consejo Directivo en el primer trimestre de cada año;
 
 III. Actuar con el carácter de apoderado y como delegado fiduciario general, así como proponer al Consejo Directivo la designación de delegados fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la de su rango y presentar las solicitudes de licencia, así como las renuncias de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+III Bis. Expedir certificaciones de constancias de los expedientes de la Sociedad y determinar a los servidores públicos de la Sociedad que cuenten con esta atribución;
 
 IV. Firmar y publicar los balances mensuales de la Sociedad conforme a las bases acordadas por el Consejo Directivo;
 
@@ -370,9 +422,13 @@ El comisario tendrá, en los términos que establezca la Ley de Instituciones de
 
 El Comité de Auditoría vigilará que la información financiera y contable de la Sociedad se formule de conformidad con los lineamientos, normativa y principios de contabilidad que le sean aplicables, y que se presente en tiempo y forma a las instancias que correspondan, en los términos de las disposiciones aplicables.
 
-El Comité de Auditoría estará integrado por los consejeros externos de la Sociedad, de entre los cuales el propio Consejo designará al presidente. El titular del órgano interno de control de la Sociedad participará, con voz pero sin voto, en dicho comité y conforme a la normatividad aplicable.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-El Comité de Auditoría sesionará en forma ordinaria trimestralmente y, en forma extraordinaria, cuando sea necesario, previa convocatoria que realicen por lo menos dos de sus miembros. Las sesiones del Comité serán válidas con la asistencia de al menos tres de sus miembros. Los acuerdos que se emitan se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el presidente tendrá voto de calidad.
+El Comité de Auditoría estará integrado por dos de los consejeros externos de la Sociedad designados por el propio Consejo, quien de entre los cuales determinará al presidente, así como por una persona designada también por el Consejo Directivo de la Sociedad, quien deberá contar con experiencia en materia de auditoría y cubrir los requisitos previstos en el primer párrafo y las fracciones I a VI del artículo 17 de esta Ley, y permanecerá en su encargo dos ejercicios fiscales consecutivos, pudiendo el Consejo volver a designarlo, así como removerlo cuando incurra en alguna de las causales a que se refieren las fracciones I, I Bis, I Ter, III y VI del artículo 18 de esta Ley. El contralor interno de la Sociedad fungirá como secretario de dicho Comité y el titular del órgano interno de control de la Sociedad participará en el mismo, con voz pero sin voto.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+El Comité de Auditoría sesionará en forma ordinaria trimestralmente y, en forma extraordinaria, cuando sea necesario, previa convocatoria que realicen por lo menos dos de sus miembros. Las sesiones del Comité serán válidas con la asistencia de al menos dos de sus miembros. Los acuerdos que se emitan se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el presidente tendrá voto de calidad.
 
 > <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2006)</small>
 
@@ -388,11 +444,23 @@ b) Los lineamientos generales a seguir para la selección, contratación y deter
 
 c) Los objetivos, lineamientos y políticas generales del sistema de control interno de la Sociedad, así como sus actualizaciones;
 
-d) El código de conducta de los servidores públicos y consejeros de la Sociedad, y
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-e) Las políticas y reglas de operación del propio Comité de Auditoría, las cuales deberán sujetarse a las disposiciones aplicables;
+d) El código de conducta de los servidores públicos y consejeros de la Sociedad;
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+e) Las políticas y reglas de operación del propio Comité de Auditoría, las cuales deberán sujetarse a las disposiciones aplicables, y
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+f) El programa de auditoría de cada ejercicio elaborado por el contralor interno;
 
 II. Verificar, cuando menos una vez al año o cuando lo requiera la Secretaría de la Función Pública, que el programa de auditoría de la Sociedad se esté aplicando de conformidad con estándares de calidad adecuados y que las actividades respectivas se realicen con efectividad;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+II Bis. Recibir del contralor interno los informes de la auditoría interna, el cual se coordinará con el órgano interno de control dependiente de la Secretaría de la Función Pública a efecto de que pueda desempeñar las funciones de su competencia conforme a las disposiciones de la Comisión Nacional Bancaria y de Valores, y establecer los lineamientos para no duplicar las funciones de auditoría interna;
 
 III. Con base en los resultados de las auditorías que realicen las instancias competentes, verificar la aplicación del sistema de control interno de la Sociedad, así como evaluar su eficiencia y efectividad;
 
@@ -446,15 +514,21 @@ III. Las instituciones de seguros no responderán por las pérdidas de la Socied
 
 Para los efectos de este artículo, quedarán excluidas todas aquellas obligaciones que suscriban o contraigan las mencionadas instituciones de seguros con posterioridad a la fecha en que, en su caso, la Sociedad deje de ser titular de las acciones representativas de su capital.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 24 Quáter.
 
-Como excepción a lo dispuesto por el artículo 29, fracciones VII y VII Bis 2 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, en lo que respecta a los consejos de administración de las instituciones de seguros de que trata este capítulo, éstos quedarán integrados por los mismos consejeros que conforman el Consejo Directivo de la Sociedad y tendrán las facultades que establezca la normativa aplicable. El Comité de Auditoría y el comisario de la Sociedad fungirán como tales en las instituciones de seguros.
+Como excepción a lo dispuesto por el artículo 29, fracciones VII, VII Bis y VII Bis 2 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, en lo que respecta a los consejos de administración de las instituciones de seguros de que trata este capítulo, éstos quedarán integrados por los mismos consejeros que conforman el Consejo Directivo de la Sociedad y tendrán las facultades que establezca la normativa aplicable. El Comité de Auditoría y el comisario de la Sociedad fungirán como tales en las instituciones de seguros, así como el contralor interno de la Sociedad podrá fungir como contralor normativo de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2006)</small>
 
 El director general de cada institución de seguros a que se refiere este artículo será designado por la Sociedad, mediante acuerdo de su Consejo Directivo, a propuesta del Secretario de Hacienda y Crédito Público. La designación del director general podrá recaer en el Director General de la Sociedad.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2006)</small>
+
 Las instituciones de seguros en cuyo capital social participe la Sociedad se apoyarán en la estructura administrativa de ésta para el ejercicio de sus funciones, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2006)</small>
 
 Las operaciones que, de acuerdo con lo establecido por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, realicen las instituciones de seguros en cuyo capital participe la Sociedad deberán contratarse en términos que guarden congruencia con la consecución del objetivo de impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda y con la sana administración de su patrimonio.
 
@@ -482,13 +556,13 @@ A la Secretaría de Hacienda y Crédito Público compete coordinar, evaluar y vi
 
 Se procurará el mejor aprovechamiento y la canalización más adecuada de los recursos de la Sociedad en el marco de la autonomía de gestión requerida para su eficaz funcionamiento de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 29.
 
-Para efectos de lo previsto en la fracción V del artículo 4 de esta Ley, por entidades financieras se entenderá a las instituciones de banca múltiple, instituciones de banca de desarrollo, instituciones de seguros, sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero, uniones de crédito, sociedades cooperativas de ahorro y préstamo y a las sociedades financieras populares, ya sea que actúen por cuenta propia o, en su caso, en carácter de fiduciario, así como a los fideicomisos de fomento económico que cuenten con la garantía del Gobierno Federal en la operación de que se trate.
+Para efectos de lo previsto en las fracciones V y V Bis del artículo 4o. de esta Ley, por entidades financieras se entenderá a las instituciones de banca múltiple, instituciones de banca de desarrollo, instituciones de seguros, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple, arrendadoras financieras, empresas de factoraje financiero, uniones de crédito, sociedades cooperativas de ahorro y préstamo, las sociedades financieras populares, así como las sociedades de ahorro y préstamo, que se encuentren operando bajo el régimen transitorio establecido en el “Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular”, publicado en el Diario Oficial de la Federación el 27 de mayo de 2005 y que en términos de dicho Decreto hayan presentado su expediente a la Comisión Nacional Bancaria y de Valores para operar como Entidad de Ahorro y Crédito Popular, ya sea que actúen por cuenta propia o, en su caso, en carácter de fiduciario, así como a los fideicomisos de fomento económico que cuenten con la garantía del Gobierno Federal en la operación de que se trate.
 
-La Secretaría de Hacienda y Crédito Público podrá determinar las demás personas que puedan ser consideradas como entidades financieras, las cuales quedarán incluidas en los supuestos del párrafo anterior.
+El Consejo Directivo podrá determinar las demás personas que puedan ser consideradas como entidades financieras, las cuales quedarán incluidas en los supuestos del párrafo anterior.
 
 ###### Artículo 30.
 
@@ -519,6 +593,16 @@ Salvo los consejeros externos y la persona designada por el Consejo Directivo en
 ###### Artículo 32.
 
 (DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+###### Artículo 33.
+
+La Sociedad prestará los servicios de asistencia y defensa legal a los integrantes de su Consejo Directivo y a los servidores públicos que laboren en la propia Sociedad o en las instituciones de seguros en cuyo capital participe, con respecto a los actos que las personas antes referidas lleven a cabo en el ejercicio de las funciones que por ley les estén encomendadas.
+
+La mencionada asistencia y defensa se proporcionará aun cuando las personas indicadas dejaren de desempeñar sus funciones o prestar sus servicios, según corresponda a la Sociedad o a las instituciones de seguros, siempre que se trate de actos realizados en el desempeño de sus funciones o actividades al servicio de la Sociedad o de las instituciones de seguros.
+
+La asistencia y defensa legal se proporcionará con cargo a los recursos con los que para estos fines cuente la Sociedad de acuerdo con los lineamientos de carácter general que apruebe su Consejo Directivo, en los cuales deberá preverse el supuesto de que si la autoridad competente le dicta al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicho sujeto deberá rembolsar a la Sociedad los gastos y cualquier otra erogación en que se hubiere incurrido con motivo de la asistencia y defensa legal.
 
 ## TRANSITORIOS
 
@@ -552,9 +636,7 @@ SEPTIMO.- Las personas que presten un servicio personal subordinado al Banco de 
 
 OCTAVO.- Sociedad Hipotecaria Federal no deberá distribuir dividendos ni disminuir su capital, por un plazo de doce años contado a partir de la entrada en vigor de esta Ley, salvo en el caso de que su Consejo Directivo, contando con la opinión favorable de dos empresas calificadoras de prestigio, estime que la Sociedad cuenta con un capital y reservas suficientes para hacer frente a todas sus obligaciones y pasivos contingentes, así como a sus programas de financiamiento y garantías.
 
-NOVENO.- Por un plazo de ocho años, contados a partir de la entrada en vigor del presente Decreto, la Sociedad Hipotecaria Federal podrá efectuar descuentos y otorgar préstamos y créditos a los intermediarios financieros, mencionados en el artículo 29 de la Ley. A estas operaciones les será aplicable lo dispuesto en el artículo 30 de la Ley.
-
-Faltando tres años para la conclusión de ese plazo, Sociedad Hipotecaria Federal deberá sujetar a la aprobación de la Secretaría de Hacienda y Crédito Público su programa gradual para la conclusión de nuevas operaciones de este tipo.
+NOVENO.- (DEROGADO, D.O.F. 20 DE AGOSTO DE 2008)
 
 DECIMO.- Previo al inicio de operaciones, distintas a las que actualmente realiza el Fondo de Operación y Financiamiento Bancario a la Vivienda, Sociedad Hipotecaria Federal someterá a la aprobación de la Comisión Nacional Bancaria y de Valores, sus sistemas operativos, de procesamiento de información y de control interno, así como sus manuales de organización y operación.
 
@@ -621,3 +703,7 @@ TERCERO.- A más tardar a los 90 días siguientes a que el Secretario de Haciend
 CUARTO.- La garantía del Gobierno Federal respecto de las obligaciones de la Sociedad a que se refieren los párrafos tercero y cuarto del artículo segundo transitorio de la Ley Orgánica de Sociedad Hipotecaria Federal, en los términos reformados y adicionados conforme al "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 24 de junio de 2002 y aclarado mediante fe de erratas publicada en ese mismo medio el 8 de julio de 2002, será aplicable a aquellas obligaciones que asuma la Sociedad al amparo de las fracciones I y II del artículo 24 Ter que, por virtud del presente Decreto, se adiciona a la Ley Orgánica de Sociedad Hipotecaria Federal.
 
 QUINTO. Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del "Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos términos establecidos en el primer párrafo del artículo segundo transitorio del citado Decreto.
+
+D.O.F. 20 DE AGOSTO DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
