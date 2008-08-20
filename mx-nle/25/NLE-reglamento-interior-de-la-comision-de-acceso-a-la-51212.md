@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-comision-de-acceso-a-la-51212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-27"
-last_updated: "2006-07-27"
+last_updated: "2008-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION, PUBLICADA EN EL P.O. DE 20 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el jueves 27 de julio de 2006.
 
@@ -610,3 +612,21 @@ Lic. Luz Amparo Silva Morín
 Comisionada Supernumeraria
 
 Dado en las instalaciones de la Comisión de Acceso a la Información Pública en la Ciudad de Monterrey Nuevo León a los 24 días del mes de Julio de 2006.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión de Acceso a la Información Pública de Nuevo León, publicado en el Periódico Oficial del Estado el 27 de julio de 2006.
+
+TERCERO.- Los Titulares de la Secretaría Ejecutiva, las Direcciones y de las Unidades de la Comisión deberán nombrarse dentro del término de los seis meses siguientes a la entrada en vigor de este Reglamento, siempre y cuando el presupuesto de egresos asignado lo permita.
+
+CUARTO.- Hasta en tanto se nombren los Titulares de la Secretaria Ejecutiva, las Direcciones y de las Unidades de la Comisión, sus atribuciones serán ejercidas por el o los funcionarios que nombre el Pleno, o por quienes en la entrada en vigor del presente Reglamento se encuentren ejerciendo dichas funciones.
+
+QUINTO.- Los servidores públicos de la Comisión que se encuentren obligados a presentar su Declaración Inicial de situación patrimonial ante la autoridad correspondiente, deberán hacerlo dentro de los treinta días hábiles siguientes a su ingreso.
+
+SEXTO.- El Tabulador de Sueldos, el Catálogo de Puestos y Funciones, mencionados en el presente ordenamiento, deberán aprobarse por el Pleno a más tardar dentro de los sesenta días hábiles a partir de la entrada en vigor del presente Reglamento.
+
+SÉPTIMO.- Los medíos tecnológicos Y electrónicos necesarios para que los particulares puedan presentar ante la Comisión los procedimientos de inconformidad a que se refiere la Ley, deberán estar implementados a más tardar el 21 de julio de 2009.
