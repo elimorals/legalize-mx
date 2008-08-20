@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "2008-06-26"
+last_updated: "2008-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -3232,11 +3232,17 @@ III.- Instituciones de fianzas;
 
 IV.- Casas de bolsa;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-V.- Sociedades financieras de objeto múltiple a que se refiere el artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y
+V. Sociedades financieras de objeto múltiple a que se refiere el artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito;
 
-VI.- Almacenes generales de depósito.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VI. Almacenes generales de depósito, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VII. Uniones de crédito.
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -4025,6 +4031,50 @@ D.O.F. 26 DE JUNIO DE 2008.
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE AGOSTO DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito.
+
+Las uniones de crédito autorizadas para operar como tales con arreglo a las disposiciones que se derogan, se reputarán autorizadas para operar en los términos del presente Decreto.
+
+Las uniones de crédito autorizadas para operar como tales antes de la entrada en vigor del presente Decreto, únicamente podrán admitir nuevos socios que cumplan con la característica establecida en el primer párrafo del artículo 21 del artículo Primero del presente Decreto. Asimismo, no podrán renovar las operaciones que hayan pactado con los socios que no acrediten la referida característica.
+
+Tercero.- En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter general a que se refiere esta Ley, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o queden derogadas.
+
+Sin perjuicio de lo anterior, a la fecha de entrada en vigor del presente Decreto se deroga el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de cambio para el año 2008, publicado en el Diario Oficial de la Federación el 31 de marzo de 2008, en todo lo relativo a uniones de crédito.
+
+Cuarto.- Las uniones de crédito contarán con un plazo de dos años contados a partir de la entrada en vigor del presente Decreto para ajustarse a las disposiciones a que se refieren los artículos 61 y 62 de la Ley de Uniones de Crédito.
+
+Quinto.- Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos realizados con fundamento en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, que conforme a lo dispuesto en el presente Decreto corresponda llevar a cabo a la Comisión Nacional Bancaria y de Valores, continuarán en vigor, hasta que, en su caso, sean revocadas o sus términos modificados expresamente por dicha Comisión o bien, dejen de producir sus efectos.
+
+Sexto.- Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos previstos en el presente Decreto.
+
+Séptimo.- Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, sus estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto.
+
+Octavo.- A la entrada en vigor del presente Decreto todas las uniones de crédito que hayan sido autorizadas para operar como tales en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, serán clasificadas con un nivel de operaciones 1.
+
+Las uniones de crédito podrán solicitar a la Comisión Nacional Bancaria y de Valores, que les autorice el cambio de nivel de operaciones previo cumplimiento de los requisitos a que se refieren los artículos 39 y 43 del artículo Primero de este Decreto.
+
+Noveno.- Las uniones de crédito que a la entrada en vigor del presente Decreto no cumplan con el capital mínimo previsto en el artículo 18 del artículo Primero del presente Decreto para el nivel de operaciones I, contarán con un plazo de cinco años para integrar el capital mínimo referido.
+
+Transcurrido el plazo citado, las autorizaciones que haya otorgado la Comisión Nacional Bancaria y de Valores para la constitución y operación de uniones de crédito que no cuenten con un capital mínimo equivalente en moneda nacional al valor de 2,000,000 de unidades de inversión, quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser uniones de crédito.
+
+Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para continuar operando, deberán:
+
+I. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son uniones de crédito y que se encuentran autorizadas por la Comisión Nacional Bancaria y de Valores para constituirse y funcionar con tal carácter.
+
+II. Presentar a la Comisión Nacional Bancaria y de Valores, a más tardar ciento ochenta días naturales el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.
+
+Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
 
 ## TRANSITORIOS
 
