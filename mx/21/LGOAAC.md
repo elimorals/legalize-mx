@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2007-06-28"
+last_updated: "2008-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE AGOSTO DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -774,77 +774,21 @@ VIII. Realizar las demás operaciones que no les estén expresamente autorizadas
 
 (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
-### CAPITULO III. De las Uniones de Crédito
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+### CAPITULO III
 
 ###### ARTICULO 39.
 
-Las uniones de crédito a que se refiere este capítulo, gozarán de autorización para operar en las ramas económicas en que se ubiquen las actividades de sus socios.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### ARTICULO 40.
 
-Las uniones de crédito en los términos de su autorización, sólo podrán realizar las siguientes actividades:
-
-I. Facilitar el uso del crédito a sus socios y prestar su garantía o aval, conforme a las disposiciones legales y administrativas aplicables, en los créditos que contraten sus socios;
-
-II. Recibir préstamos exclusivamente de sus socios, de instituciones de crédito, de seguros y de fianzas del país o de entidades financieras del exterior así como de sus proveedores.
-
-Las operaciones de préstamo que se garanticen con hipoteca de sus propiedades, deberán acordarse previamente en asamblea general extraordinaria de accionistas por votación que represente por lo menos el setenta y cinco por ciento de su capital pagado, salvo que en sus estatutos tengan establecido un por ciento más elevado;
-
-III. Emitir títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista, excepto obligaciones subordinadas de cualquier tipo;
-
-IV. Practicar con sus socios operaciones de descuento, préstamo y crédito de toda clase, reembolsables a plazos congruentes con los de las operaciones pasivas que celebren;
-
-V. Descontar, dar en garantía o negociar los títulos de crédito y afectar los derechos provenientes de los contratos de financiamiento que realicen con sus socios o de las operaciones autorizadas a las uniones de crédito, con las personas de las que reciban financiamiento, en términos de la fracción II anterior así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de financiamiento que celebren con sus socios a efecto de garantizar el pago de las emisiones a que se refiere la fracción III de este artículo;
-
-VI. Recibir de sus socios depósitos de dinero para el exclusivo objeto de prestar servicios de caja, cuyos saldos podrá depositar la unión en instituciones de crédito o invertirlos en valores gubernamentales;
-
-VII. (DEROGADA, D.O.F. 4 DE JUNIO DE 2001)
-
-VIII. Adquirir acciones, obligaciones y otros títulos semejantes y aun mantenerlos en cartera;
-
-IX. Tomar a su cargo o contratar la construcción o administración de obras de propiedad de sus socios para uso de los mismos, cuando esas obras sean necesarias para el objeto directo de sus empresas, negociaciones o industrias;
-
-X. Promover la organización y administrar empresas industriales o comerciales para lo cual podrán asociarse con terceras personas. Estas operaciones deberán realizarse con recursos provenientes de su capital pagado y reservas de capital o de préstamos que reciban para ese fin;
-
-XI. Encargarse de la compra y venta de los frutos o productos obtenidos o elaborados por sus socios o por terceros;
-
-XII. Comprar, vender y comercializar insumos, materias primas, mercancías y artículos diversos así como alquilar bienes de capital necesarios para la explotación agropecuaria o industrial, por cuenta de sus socios o de terceros;
-
-XIII. Adquirir por cuenta propia los bienes a que se refiere la fracción anterior para enajenarlos o rentarlos a sus socios o a terceros;
-
-XIV. Encargarse, por cuenta propia, de la transformación industrial o del beneficio de los productos obtenidos o elaborados por sus socios;
-
-XV. La transformación que se señala en la fracción anterior podrá realizarse en las plantas industriales que adquieran al efecto, con cargo a su capital pagado y reservas de capital o con recursos provenientes de financiamientos de instituciones de crédito;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
-
-XVI. Realizar por cuenta de sus socios como factorados operaciones de factoraje financiero, así como recibir bienes en arrendamiento financiero destinados al cumplimiento de su objeto social, y
-
-XVII. Las demás actividades análogas y conexas que, mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
-
-Las operaciones señaladas en las fracciones XI a XIII de este artículo que realicen las uniones de crédito con terceros, en ningún caso constituirán su actividad preponderante.
-
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
-
-Las actividades a que se refieren las fracciones IX a XIII de este artículo, se efectuarán por medio de departamento especial.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### ARTICULO 41.
 
-Las uniones de crédito deberán constituirse como sociedades anónimas de capital variable, de acuerdo con la legislación mercantil, en cuanto no se oponga a las siguientes disposiciones que son de aplicación general;
-
-I. Los socios podrán ser personas físicas o morales;
-
-II. Todas las acciones, ya sean las representativas del capital sin derecho a retiro como las de capital con derecho a retiro, y salvo las características derivadas del tipo de capital que representen, conferirán iguales derechos y obligaciones a los tenedores; y
-
-III. Para la transmisión de las acciones se requerirá indispensablemente la autorización del consejo de administración de la sociedad.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### ARTICULO 42.
 
@@ -852,77 +796,11 @@ III. Para la transmisión de las acciones se requerirá indispensablemente la au
 
 ###### ARTICULO 43.
 
-La actividad de las uniones de crédito se someterá a las siguientes disposiciones:
-
-I. El importe total del pasivo real sumado al contingente, no podrá exceder en ningún caso de treinta veces el importe del capital pagado y las reservas de capital. Para tales efectos, se entenderá por pasivo exigible el importe de sus obligaciones y de las responsabilidades solidarias contraídas en garantía de sus socios.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-La Comisión Nacional Bancaria fijará límites menores al señalado en el párrafo anterior, cuando considere que las circunstancias financieras y de operación que concurran en algunas uniones de crédito así lo ameriten;
-
-II. (DEROGADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-En los contratos de crédito de habilitación o avío, el acreditante se reservará el derecho de negociar, afectar en garantía o endosar a entidades financieras del país, los títulos que expida el acreditado por las disposiciones que vaya efectuando y se obligará, en su caso, a rescatarlos de acuerdo con lo pactado, a medida que se vayan haciendo los reembolsos del crédito; cada disposición estará de acuerdo con los ciclos de producción; la mora en el pago de una disposición, suspenderá el ejercicio del crédito y los frutos o productos futuros y los nuevos bienes que adquiera el acreditado para servicio de la unidad productiva dentro de la vigencia del contrato, quedarán en garantía sin necesidad de ulteriores anotaciones o inscripciones en el Registro Público que corresponda, salvo que se trate de bienes inmuebles.
-
-Cuando el crédito de habilitación o avío sea complementario de un crédito refaccionario y se formalice en el mismo instrumento, los plazos de aquél podrán ampliarse a los establecidos para el refaccionario, siempre que se observen los requisitos y condiciones señalados en el párrafo anterior.
-
-El importe de todas las operaciones que las uniones de crédito practiquen para ser reembolsadas a plazo superior a trescientos sesenta días, no podrá exceder del 80% de sus obligaciones, entendiéndose por éstas todos los saldos que integren el pasivo real;
-
-III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-IV. Las operaciones de crédito que practiquen con sus socios, deberán estar relacionadas directamente con las actividades de las empresas o negocios de éstos, y deberán tener las garantías que sean propias de cada tipo de crédito, sin perjuicio de las demás que puedan pactarse.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-En las operaciones sin garantía real, excepto las de departamento especial, el importe total de las que practique un socio con la unión, en ningún caso podrá exceder de diez veces la parte del capital de la unión pagada por el socio más la proporción que le corresponda de las reservas de capital, incluyendo el superávit por revalorización de inmuebles.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-En las operaciones con garantía real, su importe total podrá alcanzar hasta cuarenta veces la parte del capital de la unión pagada por el socio, más la proporción de las reservas y el superávit a que se refiere el párrafo anterior.
-
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-El saldo de las responsabilidades totales a cargo de un socio, incluidas las contraídas por medio de departamento especial, no podrá exceder de cincuenta veces el capital pagado por el propio socio más las reservas y el superávit mencionados en los párrafos precedentes;
-
-V. En el otorgamiento y durante la vigencia de los créditos o préstamos de cualquier naturaleza, se sujetarán a lo dispuesto por el artículo 73 de esta Ley;
-
-VI. Los valores que constituyan sus inversiones serán los aprobados por la Comisión Nacional de Valores, sin que la inversión en valores de una misma sociedad pueda exceder del 15% del capital pagado de la unión, más las reservas de capital, ni del 10% del capital pagado de la emisora;
-
-VII. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VIII. No excederá del sesenta por ciento del capital pagado y reservas de capital, el importe de las inversiones en mobiliario, equipo e inmuebles destinados a sus oficinas y bodegas, más el importe de la inversión en acciones de sociedades a que se refiere el artículo 68 de esta Ley y de aquéllas que se organicen exclusivamente para adquirir el dominio y administrar inmuebles, siempre que en alguno de éstos, propiedad de la sociedad, la unión de crédito tenga establecida o establezca su oficina principal o alguna sucursal u oficina de representación. La inversión en dichas acciones y los requisitos que deban satisfacer las sociedades a que se hace referencia, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público;
-
-IX. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-X. El importe total de las inversiones en plantas industriales, sumado al señalado en la fracción VIII, menos la parte insoluta de los créditos que reciban las uniones de crédito para el mismo fin, no podrá ser superior al setenta por ciento del capital pagado y reservas de capital;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-XI. Cuando tengan saldos insolutos provenientes de créditos destinados a la adquisición de plantas industriales, las uniones de crédito no podrán acordar devoluciones de capital con derecho a retiro;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-XII. El importe de los gastos de organización o similares no podrá exceder del diez por ciento del capital pagado y reservas de capital; y
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-XIII. Los depósitos de sus socios podrán ser retirados mediante recibos, órdenes de pago o cualquier otro documento, no negociables. En ningún caso podrá disponerse de ellos mediante cheques.
-
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### ARTICULO 43-A.
 
-Las uniones de crédito que emitan títulos de crédito, en serie o en masa, en los términos de la fracción III del artículo 40 de esta Ley, sin perjuicio de mantener el capital mínimo previsto por la misma, deberán tener un capital contable por un monto no menor de la cantidad que resulte de aplicar un porcentaje que no será inferior al seis por ciento, a la suma de sus activos y en su caso de sus operaciones causantes de pasivo contingente, expuestos a riesgo significativo. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, y tomando en cuenta los usos internacionales en la materia, determinará cuáles activos y pasivos contingentes deberán considerarse dentro de la mencionada suma así como el porcentaje aplicable en los términos del presente artículo.
-
-Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se consideren integrantes del capital contable de las uniones de crédito.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### ARTICULO 44.
 
@@ -930,51 +808,7 @@ Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, 
 
 ###### ARTICULO 45.
 
-A las uniones de crédito les estará prohibido:
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-I. Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no sean socios de la unión, excepto con las personas expresamente autorizadas en el artículo 40, fracción II de esta Ley;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-II. Emitir cualquier clase de valores, salvo las acciones de la unión y los títulos de crédito a que se refiere la fracción III del artículo 40 de esta Ley; así como garantizar títulos de crédito con excepción de los suscritos en términos de lo dispuesto en dicha fracción III o los emitidos por sus socios, de acuerdo a lo señalado por el artículo 40 fracción I de esta Ley;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-III. Entrar en sociedades de responsabilidad ilimitada y explotar por su cuenta: minas, plantas metalúrgicas, fincas rústicas, y establecimientos mercantiles o industriales, salvo el caso a que se refiere el artículo 40, fracción XIV de esta Ley, o bien cuando los reciban en pago de créditos o en garantía de los ya concertados, casos en los cuales podrán continuar la explotación de ellos, previa autorización de la Comisión Nacional Bancaria, por un periodo que no exceda de dos años a partir de la fecha de su adquisición.
-
-En casos excepcionales, la Comisión Nacional Bancaria podrá prorrogar ese plazo por una sola vez, por el período que a juicio de la propia Comisión sea estrictamente necesario para el traspaso de los bienes de que se trate, sin que la prórroga exceda de dos años;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-IV. Comerciar por cuenta propia o ajena sobre mercancías de cualquier género, salvo lo dispuesto en las fracciones XI, XII y XIII del artículo 40 de esta Ley;
-
-V. Adquirir derechos reales que no sean de garantía, muebles e inmuebles distintos a los permitidos para las uniones en este capítulo o en exceso de las proporciones señaladas en la fracción VIII del artículo 43 de esta Ley, excepto los que reciban en pago de créditos o por adjudicación.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-Cuando los bienes y derechos a que se refiere el párrafo anterior, hubieren sido adquiridos en pago de deudas o por adjudicación en remate dentro de juicios relacionados con créditos a favor de la unión, deberán liquidarse, tratándose de bienes muebles, dentro del plazo de un año a partir de su adquisición y en el caso de inmuebles, dentro de un plazo de dos años;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VI. Otorgar fianzas, garantías o cauciones o avales, salvo que sean en favor de sus socios o las garantías a que se refiere la fracción V del artículo 40 de esta Ley;
-
-VII. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
-
-VIII. Operar sobre sus propias acciones;
-
-IX. Aceptar o pagar letras de cambio o cualquier otro documento, en descubierto, salvo en los casos de apertura de créditos concertada en los términos de ley;
-
-X. Realizar operaciones a futuro de compra y venta de oro y divisas extranjeras;
-
-XI. Hacer operaciones de reporto de cualquier clase; y
-
-XII. Celebrar operaciones en virtud de las cuales puedan resultar deudores directos del establecimiento sus directores generales o gerentes generales, comisarios y auditores externos, a menos que estas operaciones correspondan a préstamos de carácter laboral o sean aprobados por una mayoría de cuatro quintas partes de los votos del consejo de administración. Esta regla se aplicará a los ascendientes, descendientes o cónyuges de las personas indicadas.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-Cuando las inversiones hechas en los términos de la fracción VI del artículo 43 de esta Ley, los derechos reales adquiridos y los excedentes de inversión de conformidad con la fracción III del referido artículo 43, excedan en total del importe del capital pagado y reservas de capital, la unión procederá, dentro del plazo de noventa días, a partir del requerimiento que al efecto le haga la Comisión Nacional Bancaria, a la liquidación de dicho activo en la parte excedente, o al aumento del capital social necesario para observar la citada parte.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE UNIONES DE CRÉDITO, D.O.F. 20 DE AGOSTO DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2989,6 +2823,50 @@ D.O.F. 28 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+D.O.F. 20 DE AGOSTO DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito.
+
+Las uniones de crédito autorizadas para operar como tales con arreglo a las disposiciones que se derogan, se reputarán autorizadas para operar en los términos del presente Decreto.
+
+Las uniones de crédito autorizadas para operar como tales antes de la entrada en vigor del presente Decreto, únicamente podrán admitir nuevos socios que cumplan con la característica establecida en el primer párrafo del artículo 21 del artículo Primero del presente Decreto. Asimismo, no podrán renovar las operaciones que hayan pactado con los socios que no acrediten la referida característica.
+
+Tercero.- En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter general a que se refiere esta Ley, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o queden derogadas.
+
+Sin perjuicio de lo anterior, a la fecha de entrada en vigor del presente Decreto se deroga el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de cambio para el año 2008, publicado en el Diario Oficial de la Federación el 31 de marzo de 2008, en todo lo relativo a uniones de crédito.
+
+Cuarto.- Las uniones de crédito contarán con un plazo de dos años contados a partir de la entrada en vigor del presente Decreto para ajustarse a las disposiciones a que se refieren los artículos 61 y 62 de la Ley de Uniones de Crédito.
+
+Quinto.- Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos realizados con fundamento en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, que conforme a lo dispuesto en el presente Decreto corresponda llevar a cabo a la Comisión Nacional Bancaria y de Valores, continuarán en vigor, hasta que, en su caso, sean revocadas o sus términos modificados expresamente por dicha Comisión o bien, dejen de producir sus efectos.
+
+Sexto.- Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos previstos en el presente Decreto.
+
+Séptimo.- Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, sus estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto.
+
+Octavo.- A la entrada en vigor del presente Decreto todas las uniones de crédito que hayan sido autorizadas para operar como tales en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, serán clasificadas con un nivel de operaciones I.
+
+Las uniones de crédito podrán solicitar a la Comisión Nacional Bancaria y de Valores, que les autorice el cambio de nivel de operaciones previo cumplimiento de los requisitos a que se refieren los artículos 39 y 43 del artículo Primero de este Decreto.
+
+Noveno.- Las uniones de crédito que a la entrada en vigor del presente Decreto no cumplan con el capital mínimo previsto en el artículo 18 del artículo Primero del presente Decreto para el nivel de operaciones I, contarán con un plazo de cinco años para integrar el capital mínimo referido.
+
+Transcurrido el plazo citado, las autorizaciones que haya otorgado la Comisión Nacional Bancaria y de Valores para la constitución y operación de uniones de crédito que no cuenten con un capital mínimo equivalente en moneda nacional al valor de 2,000,000 de unidades de inversión, quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser uniones de crédito.
+
+Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para continuar operando, deberán:
+
+I. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son uniones de crédito y que se encuentran autorizadas por la Comisión Nacional Bancaria y de Valores para constituirse y funcionar con tal carácter.
+
+II. Presentar a la Comisión Nacional Bancaria y de Valores, a más tardar ciento ochenta días naturales el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
+
+La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.
+
+Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
