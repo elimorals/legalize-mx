@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-320
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-25"
-last_updated: "2003-06-25"
+last_updated: "2008-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32035&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-06-24"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2008.
 
-Reglamento publicado en la Segunda sección del Diario Oficial de la Federación el miércoles 25 de junio de 2003.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de junio de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -37,149 +37,149 @@ REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
 El presente Reglamento tiene por objeto establecer la organización y funcionamiento de la Procuraduría General de la República, para el despacho de los asuntos que la Constitución Política de los Estados Unidos Mexicanos, su Ley Orgánica y otros ordenamientos le encomiendan a la Institución, al Procurador y al Ministerio Público de la Federación.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 2.
 
 Para el cumplimiento de los asuntos de la competencia de la Procuraduría, de su Titular y del Ministerio Público de la Federación, contará con las unidades administrativas y órganos desconcentrados siguientes:
 
-- Subprocuraduría Jurídica y de Asuntos Internacionales;
+I. Subprocuraduría Jurídica y de Asuntos Internacionales;
 
-- Subprocuraduría de Control Regional, Procedimientos Penales y Amparo;
+II. Subprocuraduría de Control Regional, Procedimientos Penales y Amparo;
 
-- Subprocuraduría de Investigación Especializada en Delincuencia Organizada;
+III. Subprocuraduría de Investigación Especializada en Delincuencia Organizada;
 
-- Subprocuraduría de Investigación Especializada en Delitos Federales;
+IV. Subprocuraduría de Investigación Especializada en Delitos Federales;
 
-- Subprocuraduría de Derechos Humanos, Atención a Víctimas y Servicios a la Comunidad;
+V. Subprocuraduría de Derechos Humanos, Atención a Víctimas y Servicios a la Comunidad;
 
-- Fiscalía Especializada para la Atención de Delitos Electorales;
+VI. Fiscalía Especializada para la Atención de Delitos Electorales;
 
-- Oficialía Mayor;
+VII. Oficialía Mayor;
 
-- Visitaduría General;
+VIII. Visitaduría General;
 
-- Agencia Federal de Investigación;
+IX. Agencia Federal de Investigación;
 
-- Coordinación de Planeación, Desarrollo e Innovación Institucional;
+X. Coordinación de Planeación, Desarrollo e Innovación Institucional;
 
-- Coordinación de Asuntos Internacionales y Agregadurías;
+XI. Coordinación de Asuntos Internacionales y Agregadurías;
 
-- Coordinación General de Delegaciones;
+XII. Coordinación General de Delegaciones;
 
-- Unidad Especializada en Investigación de Delitos contra la Salud;
+XIII. Unidad Especializada en Investigación de Delitos contra la Salud;
 
-- Unidad Especializada en Investigación de Terrorismo, Acopio y Tráfico de Armas;
+XIV. Unidad Especializada en Investigación de Terrorismo, Acopio y Tráfico de Armas;
 
-- Unidad Especializada en Investigación de Operaciones con Recursos de Procedencia Ilícita y de Falsificación o Alteración de Moneda;
+XV. Unidad Especializada en Investigación de Operaciones con Recursos de Procedencia Ilícita y de Falsificación o Alteración de Moneda;
 
-- Unidad Especializada en Investigación de Secuestros;
+XVI. Unidad Especializada en Investigación de Secuestros;
 
-- Unidad Especializada en Investigación de Tráfico de Menores, Indocumentados y Órganos;
+XVII. Unidad Especializada en Investigación de Tráfico de Menores, Indocumentados y Órganos;
 
-- Unidad Especializada en Investigación de Asalto y Robo de Vehículos;
+XVIII. Unidad Especializada en Investigación de Asalto y Robo de Vehículos;
 
-- Unidad Especializada en Investigación de Delitos contra los Derechos de Autor y la Propiedad Industrial;
+XIX. Unidad Especializada en Investigación de Delitos contra los Derechos de Autor y la Propiedad Industrial;
 
-- Unidad Especializada en Investigación de Delitos Fiscales y Financieros;
+XX. Unidad Especializada en Investigación de Delitos Fiscales y Financieros;
 
-- Unidad Especializada en Investigación de Delitos Cometidos por Servidores Públicos y contra la Administración de Justicia;
+XXI. Unidad Especializada en Investigación de Delitos Cometidos por Servidores Públicos y contra la Administración de Justicia;
 
-- Unidad Especializada en Investigación de Delitos contra el Ambiente y Previstos en Leyes Especiales;
+XXII. Unidad Especializada en Investigación de Delitos contra el Ambiente y Previstos en Leyes Especiales;
 
-- Unidad de Operaciones;
+XXIII. Unidad de Operaciones;
 
-- Dirección General de Comunicación Social;
+XXIV. Dirección General de Comunicación Social;
 
-- Dirección General de Asuntos Jurídicos;
+XXV. Dirección General de Asuntos Jurídicos;
 
-- Dirección General de Constitucionalidad;
+XXVI. Dirección General de Constitucionalidad;
 
-- Dirección General de Normatividad;
+XXVII. Dirección General de Normatividad;
 
-- Dirección General de Extradiciones y Asistencia Jurídica;
+XXVIII. Dirección General de Extradiciones y Asistencia Jurídica;
 
-- Dirección General de Cooperación Internacional;
+XXIX. Dirección General de Cooperación Internacional;
 
-- Dirección General de Control de Averiguaciones Previas;
+XXX. Dirección General de Control de Averiguaciones Previas;
 
-- Dirección General de Control de Procesos Penales Federales;
+XXXI. Dirección General de Control de Procesos Penales Federales;
 
-- Dirección General de Amparo;
+XXXII. Dirección General de Amparo;
 
-- Dirección General de Promoción de la Cultura en Derechos Humanos, Atención a Quejas e Inspección;
+XXXIII. Dirección General de Promoción de la Cultura en Derechos Humanos, Atención a Quejas e Inspección;
 
-- Dirección General de Atención a Recomendaciones y Amigables Conciliaciones en Derechos Humanos;
+XXXIV. Dirección General de Atención a Recomendaciones y Amigables Conciliaciones en Derechos Humanos;
 
-- Dirección General de Atención a Víctimas del Delito;
+XXXV. Dirección General de Atención a Víctimas del Delito;
 
-- Dirección General de Prevención del Delito y Servicios a la Comunidad;
+XXXVI. Dirección General de Prevención del Delito y Servicios a la Comunidad;
 
-- Dirección General Jurídica en Materia de Delitos Electorales;
+XXXVII. Dirección General Jurídica en Materia de Delitos Electorales;
 
-- Dirección General de Averiguaciones Previas en Materia de Delitos Electorales;
+XXXVIII. Dirección General de Averiguaciones Previas y Control de Procesos en Materia de Delitos Electorales;
 
-- Dirección General de Control de Procesos y Amparo en Materia de Delitos Electorales;
+XXXIX. Dirección General de Política Criminal, Coordinación y Desarrollo en Materia de Delitos Electorales;
 
-- Dirección General de Coordinación, Desarrollo e Innovación Gubernamental en Materia de Delitos Electorales;
+XL. Dirección General de Seguridad Institucional;
 
-- Dirección General de Información y Política Criminal en Materia de Delitos Electorales;
+XLI. Dirección General de Programación, Organización y Presupuesto;
 
-- Dirección General de Programación, Organización y Presupuesto;
+XLII. Dirección General de Recursos Humanos;
 
-- Dirección General de Recursos Humanos;
+XLIII. Dirección General de Recursos Materiales y Servicios Generales;
 
-- Dirección General de Recursos Materiales y Servicios Generales;
+XLIV. Dirección General de Tecnologías de Información y Comunicaciones;
 
-- Dirección General de Telemática;
+XLV. Dirección General de Control y Registro de Aseguramientos Ministeriales;
 
-- Dirección General de Control y Registro de Aseguramientos Ministeriales;
+XLVI. Dirección General de Servicios Aéreos;
 
-- Dirección General de Servicios Aéreos;
+XLVII. Dirección General de Visitaduría;
 
-- Dirección General de Visitaduría;
+XLVIII. Dirección General de Inspección Interna;
 
-- Dirección General de Inspección Interna;
+XLIX. Dirección General de Supervisión e Inspección Interna para la Agencia Federal de Investigación;
 
-- Dirección General de Supervisión e Inspección Interna para la Agencia Federal de Investigación;
+L. Dirección General de Delitos Cometidos por Servidores Públicos de la Institución;
 
-- Dirección General de Delitos Cometidos por Servidores Públicos de la Institución;
+LI. Dirección General de Planeación Policial;
 
-- Dirección General de Planeación Policial;
+LII. Dirección General de Investigación Policial;
 
-- Dirección General de Investigación Policial;
+LIII. Dirección General de Análisis Táctico;
 
-- Dirección General de Análisis Táctico;
+LIV. Dirección General de Despliegue Regional Policial;
 
-- Dirección General de Despliegue Regional Policial;
+LV. Dirección General de Operaciones Especiales;
 
-- Dirección General de Operaciones Especiales;
+LVI. Dirección General de Asuntos Policiales Internacionales e Interpol;
 
-- Dirección General de Asuntos Policiales Internacionales e Interpol;
+LVII. Dirección General de Intercepción;
 
-- Dirección General de Intercepción;
+LVIII. Dirección General de Planeación e Innovación Institucional;
 
-- Dirección General de Erradicación;
+LIX. Dirección General de Políticas Públicas y Coordinación Interinstitucional;
 
-- Dirección General de Planeación e Innovación Institucional;
+LX. Dirección General de Formación Profesional;
 
-- Dirección General de Políticas Públicas y Coordinación Interinstitucional;
+LXI. Dirección General del Servicio de Carrera de Procuración de Justicia Federal;
 
-- Dirección General de Formación Profesional;
+LXII. Dirección General de Coordinación de Servicios Periciales;
 
-- Dirección General del Servicio de Carrera de Procuración de Justicia Federal;
+LXIII. Centro Nacional de Planeación, Análisis e Información para el Combate a la Delincuencia;
 
-- Dirección General de Coordinación de Servicios Periciales;
+LXIV. Centro de Evaluación y Desarrollo Humano;
 
-Órganos Desconcentrados:
+LXV. Instituto de Capacitación y Profesionalización en Procuración de Justicia Federal;
 
-- Centro Nacional de Planeación, Análisis e Información para el Combate a la Delincuencia;
+LXVI. Delegaciones, y
 
-- Centro de Evaluación y Desarrollo Humano;
+LXVII. Agregadurías.
 
-- Instituto de Capacitación y Profesionalización en Procuración de Justicia Federal;
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-- Delegaciones, y
-
-- Agregadurías.
+###### Artículo 2 Bis.
 
 El Órgano Interno de Control en la Procuraduría se regirá conforme a lo dispuesto por el artículo 21 de este Reglamento.
 
@@ -281,23 +281,33 @@ En el caso de los titulares de las unidades administrativas Especializadas y Fis
 
 ###### Artículo 8.
 
-Los Coordinadores Generales y titulares de Unidades Especializadas, deberán reunir los siguientes requisitos:
+Los Coordinadores Generales y Titulares de Unidades Especializadas, deberán reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y en los casos en que la Ley lo requiera, no adquirir otra nacionalidad;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+I. Ser ciudadano mexicano por nacimiento y no adquirir otra nacionalidad;
 
-III. Contar con título y cédula profesional de Licenciado en Derecho, con ejercicio profesional de diez años, contados a partir de la expedición de la cédula;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+II. Tener cuando menos treinta años cumplidos el día de la designación;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+III. Contar con título y cédula profesional de Licenciado en Derecho, con ejercicio profesional de cinco años;
 
 IV. Gozar de buena reputación, y
 
 V. No haber sido condenado por delito doloso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 9.
 
-Los Coordinadores, Jefe de Unidad, el Titular de la Agencia, los Directores Generales, Delegados y Agregados Legales de la Institución en el extranjero, deberán reunir los siguientes requisitos:
+Los Coordinadores, Jefes de Unidad, el Titular de la Agencia, los Directores Generales, Delegados y Agregados Legales de la Institución en el extranjero, deberán reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y en los casos en que la Ley lo requiera, no adquirir otra nacionalidad;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+I. Ser ciudadano mexicano por nacimiento y no adquirir otra nacionalidad;
 
 II. Tener cuando menos treinta años cumplidos el día de la designación;
 
@@ -306,6 +316,14 @@ III. Contar con título y cédula profesional, con ejercicio profesional de cinc
 IV. Gozar de buena reputación, y
 
 V. No haber sido condenado por delito doloso.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+En el caso de los Directores Generales y del Titular de la Agencia, el Procurador atendiendo a la naturaleza de los puestos y a la experiencia profesional de los candidatos en la materia de que se trate, podrá exceptuarlos de cumplir el requisito previsto en la fracción III.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+No operará la excepción prevista en el párrafo que antecede, cuando la Dirección General de que se trate cuente con agentes del Ministerio Público de la Federación o peritos profesionales bajo su mando.
 
 ### CAPÍTULO SEGUNDO. DEL TITULAR DE LA PROCURADURÍA
 
@@ -487,35 +505,49 @@ I. Dictar, de conformidad con los lineamientos que emita el Procurador, las norm
 
 II. Establecer y ejecutar con la aprobación del Procurador, las políticas pertinentes para el control administrativo de los bienes asegurados por el Ministerio Público de la Federación, en los términos de las disposiciones aplicables;
 
-III. Definir de conformidad con los lineamientos que establezca el Procurador, el catálogo de puestos, sus perfiles y requerimientos, así como establecer normas y procedimientos sobre el desarrollo e identificación del personal administrativo; autorizar las erogaciones, vigilar el ejercicio del presupuesto y llevar su contabilidad, y emitir las bases y los lineamientos para el establecimiento y operación del proceso de contabilidad, e integrar la información para la cuenta pública;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+III. Definir de conformidad con los lineamientos que establezca el Procurador, el catálogo de puestos, sus perfiles y requerimientos, así como establecer normas y procedimientos sobre el desarrollo e identificación del personal administrativo, vigilar el ejercicio del presupuesto, emitir las bases y los lineamientos para el establecimiento y operación del proceso de contabilidad e integrar la información para la cuenta pública;
 
 IV. Proponer al Procurador el anteproyecto del presupuesto anual de la Procuraduría; y los relativos a los manuales de organización, de procedimientos y de servicios al público, con la validación en cuanto a su marco jurídico de la Dirección General de Normatividad;
 
 V. Organizar, sistematizar y operar los servicios en materia de administración de documentos, archivos y acervos, así como prestar el servicio de consulta de la Biblioteca de la Institución;
 
-VI. Coordinar el Programa de Telemática y Estadística de la Institución;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VI. Coordinar la integración y ejecución de los programas de tecnologías de información y de comunicaciones de la institución, así como autorizar las políticas para la adquisición, explotación y administración de los bienes y servicios informáticos y de comunicaciones de la Procuraduría;
 
 VII. Conducir las relaciones laborales de la Procuraduría, de conformidad con los lineamientos que al efecto establezca el Titular de la misma; designar y remover a los representantes de la Procuraduría ante las comisiones mixtas que se integren, conforme a las Condiciones Generales de Trabajo;
 
 VIII. Expedir los nombramientos de los servidores públicos de la Institución, que no sean de designación superior; autorizar los movimientos de personal; resolver los casos de terminación de los efectos de nombramiento, a excepción del personal del Servicio de Carrera, previo dictamen de la Dirección General de Asuntos Jurídicos;
 
-IX. Otorgar los reconocimientos y recompensas que determine la Ley, de conformidad con lo establecido por el Procurador y dentro del presupuesto de la Institución, y las Condiciones Generales de Trabajo, y emitir los lineamientos relativos a la aplicación, modificación y revocación de las sanciones administrativas a que se haga acreedor el personal de la Procuraduría, dentro del ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-X. Acordar la liquidación y pago de cualquier remuneración al personal de la Procuraduría;
+IX. Autorizar el otorgamiento de los reconocimientos y recompensas que determine la Ley y las Condiciones Generales de Trabajo, de conformidad con lo establecido por el Procurador, y emitir los lineamientos relativos a la aplicación, modificación y revocación de las sanciones administrativas a que se haga acreedor el personal de la Procuraduría, dentro del ámbito de su competencia;
+
+X. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
 
 XI. Formular y suscribir los contratos en los que la Procuraduría sea parte y que afecten su presupuesto, previa revisión de la Dirección General de Asuntos Jurídicos, así como los demás documentos que impliquen actos de administración;
 
-XII. Adquirir, contratar y proporcionar los bienes y servicios necesarios para el desarrollo de los programas de la Institución, y su mantenimiento, de acuerdo a lo que establezcan las disposiciones aplicables y el Comité de Adquisiciones, Arrendamientos y Servicios de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XIII. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios, así como el de Obras Públicas de la Institución;
+XII. Autorizar los programas anuales de adquisiciones; obra pública; disposición final de bienes muebles; seguro sobre bienes; aprobar las propuestas de arrendamiento de inmuebles y supervisar la contratación, adquisición, mantenimiento, arrendamiento de los bienes y servicios necesarios para el desarrollo de los programas de la Institución;
 
-XIV. Establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIII. Determinar los lineamientos que en materia administrativa deban aplicar los órganos desconcentrados de la Procuraduría;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIV. Establecer, controlar y evaluar el Programa de Seguridad Institucional, así como los programas internos de protección civil para el personal, instalaciones, bienes e información de la Procuraduría;
 
 XV. Proporcionar la prestación de los servicios aéreos que requiera la Institución y, en su caso, apoyar a las dependencias y entidades del Gobierno Federal, del Gobierno del Distrito Federal, de los Gobiernos Estatales y Municipales y otras instancias oficiales que lo requieran;
 
 XVI. Solicitar ante las autoridades competentes la licencia colectiva de portación de armas, en términos de las disposiciones aplicables;
 
-XVII. Suscribir, conjuntamente con el Procurador, las credenciales que acrediten la calidad de servidores públicos de la Institución;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XVII. Suscribir las credenciales que acrediten la calidad de servidores públicos de la Institución;
 
 XVIII. Aprobar y suscribir el dictamen para la autorización y registro de la estructura orgánica y ocupacional de la Procuraduría, así como promover la actualización del presente ordenamiento y disponer que las modificaciones efectuadas se incorporen en los manuales de organización, de normas y procedimientos y de servicios al público;
 
@@ -755,9 +787,13 @@ Lo anterior sin perjuicio de que el Procurador emita los criterios mediante los 
 
 Al frente de la Unidad de Operaciones habrá un Titular, quien tendrá las facultades siguientes:
 
-I. Desarrollar y operar sistemas de intercepción aérea, marítima y terrestre del tráfico ilícito de personas, así como de sustancias y objetos de cualquier naturaleza, en coordinación con otras dependencias y entidades competentes;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-II. Desarrollar y ejecutar programas de erradicación de cultivos ilícitos de narcóticos, en coordinación con las dependencias y entidades que tengan facultades para ello;
+I. Desarrollar y operar sistemas de intercepción aérea, marítima y terrestre del tráfico ilícito de personas, de sustancias y de objetos de cualquier naturaleza, en coordinación con otras dependencias y entidades competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+II. Auxiliar al Ministerio Público de la Federación en el seguimiento de erradicación de cultivos;
 
 III. Apoyar, en el ámbito de su competencia, los programas nacionales, regionales y estatales en materia de control de drogas;
 
@@ -823,9 +859,19 @@ XI. Desahogar las consultas que en el ámbito de su competencia le formulen las 
 
 XII. Informar a la Dirección General de Constitucionalidad la existencia de tesis contradictorias sustentadas por los tribunales federales;
 
-XIII. Dirigir la Revista Mexicana de Justicia, y
+XIII. Dirigir la Revista Mexicana de Justicia, y (sic)
 
-XIV. Las demás que le confieran otras disposiciones o el Procurador.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIV. Recibir y dar trámite a las solicitudes de acceso a la información a cargo de la Procuraduría, así como practicar las notificaciones respectivas, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XV. Recabar y difundir la información a que se refiere el artículo 7 de la Ley Federal mencionada en la fracción anterior, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XVI. Las demás que le confieran otras disposiciones o el Procurador.
 
 La Dirección General de Asuntos Jurídicos contará, cuando menos, con las direcciones de servicios legales de la Institución y de juicios federales, cuyos titulares tendrán las atribuciones contenidas en las fracciones I, II, IV, V, VI y VII del presente artículo, sin perjuicio de que sean desempeñadas por el titular de la Dirección General.
 
@@ -1031,97 +1077,157 @@ VI. Las demás que le confieran otras disposiciones o el Procurador.
 
 Al frente de la Dirección General de Prevención del Delito y Servicios a la Comunidad, habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Desarrollar programas y campañas permanentes, con la finalidad de prevenir la comisión de conductas ilícitas de carácter federal, así como evaluar periódicamente el resultado de las actividades realizadas, en todo el territorio nacional, en coordinación con las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-II. Proponer la celebración de convenios de colaboración con los Gobiernos del Distrito Federal, de los Estados integrantes de la Federación y municipios, así como con organizaciones de los sectores social y privado, para promover la prevención del delito;
+I. Desarrollar programas y campañas permanentes, con la finalidad de prevenir la comisión de conductas ilícitas de carácter federal;
 
-III. Establecer el sistema de atención a detenidos que se encuentren a disposición del Ministerio Público de la Federación o en las instalaciones de la Institución, mediante los módulos correspondientes vigilando el respeto irrestricto de sus derechos humanos;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-IV. Diseñar y ejecutar el programa de vinculación de la Procuraduría con la sociedad, en coordinación con las unidades administrativas competentes;
+II. Evaluar periódicamente el resultado de las actividades realizadas, en todo el territorio nacional, en coordinación con las unidades administrativas competentes;
 
-V. Facilitar el acceso de la comunidad a los servicios requeridos por ésta, en el ámbito de competencia de la Procuraduría, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-VI. Difundir e intercambiar experiencias en materia de prevención del delito y servicios a la comunidad, con instituciones nacionales y extranjeras y valorar conjuntamente con las unidades administrativas competentes respecto de la conveniencia de adoptar las medidas que en este rubro recomienden los diversos organismos internacionales;
+III. Proponer la celebración de convenios con los Gobiernos del Distrito Federal, de los Estados integrantes de la Federación y municipios, así como con organizaciones de los sectores social y privado, para promover la prevención del delito;
 
-VII. Brindar orientación legal y social al público en general, canalizándolo a las dependencias y entidades competentes, que proporcionen servicios de carácter tutelar, asistencial, preventivo y educacional, en coordinación con la Dirección General de Promoción de la Cultura en Derechos Humanos y Atención a Víctimas del Delito;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-VIII. Promover la participación social para el apoyo de los servicios que presta la Institución, a través del establecimiento de comités de colaboración comunitaria en las entidades federativas;
+IV. Establecer el sistema de atención a detenidos que se encuentren a disposición del Ministerio Público de la Federación o en las instalaciones de la Procuraduría, mediante los módulos correspondientes vigilando el respeto irrestricto de sus derechos humanos;
 
-IX. Establecer mecanismos para la recepción de información ciudadana sobre la posible comisión de delitos federales, así como canalizarlas a las unidades y órganos competentes;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-X. Coordinar los programas de formación de capacitadores para la prevención de la farmacodependencia;
+V. Diseñar y ejecutar el programa de vinculación de la Procuraduría con la sociedad, en coordinación con las unidades administrativas competentes;
 
-XI. Realizar foros de consulta popular sobre temas relacionados con las funciones de la Procuraduría, en coordinación con las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XII. Proponer los criterios en materia de servicios a la comunidad y vinculación social, así como coordinar las instancias encargadas de los mismos dentro de la Procuraduría;
+VI. Facilitar el acceso de la comunidad a los servicios requeridos por ésta, en el ámbito de competencia de la Procuraduría, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales;
 
-XIII. Recabar y difundir la información a que se refiere el artículo 7 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y propiciar su actualización;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XIV. Recibir y dar trámite a las solicitudes de acceso a la información a cargo de la Institución, así como practicar las notificaciones respectivas, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+VII. Difundir e intercambiar experiencias en materia de prevención del delito y servicios a la comunidad, con instituciones nacionales y extranjeras y valorar conjuntamente con las unidades administrativas competentes respecto de la conveniencia de adoptar las medidas que en este rubro recomienden los diversos organismos internacionales;
 
-XV. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, dar orientación a los solicitantes acerca de las dependencias, entidades u órganos que pudieran tener la información solicitada;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XVI. Proponer al Comité de Información de la Procuraduría los procedimientos internos que aseguren la mayor eficacia y eficiencia en la gestión de las solicitudes de acceso a la información, así como los criterios para la clasificación de información reservada y confidencial a cargo de la Institución;
+VIII. Brindar orientación legal y social al público en general, canalizándolo a las dependencias y entidades competentes, que proporcionen servicios de carácter tutelar, asistencial, preventivo y educacional, en coordinación con la Dirección General de Promoción de la Cultura en Derechos Humanos y Atención a Víctimas del Delito;
 
-XVII. Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XVIII. Las demás que le confieran otras disposiciones o el Procurador.
+IX. Promover la participación social para el apoyo de los servicios que presta la Procuraduría, a través del establecimiento de comités de colaboración comunitaria en las entidades federativas;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+X. Establecer mecanismos para la recepción de información ciudadana sobre la posible comisión de delitos federales, así como canalizarlas a las unidades y órganos competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XI. Coordinar los programas de formación de capacitadores para la prevención de la farmacodependencia;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XII. Realizar foros de consulta popular sobre temas relacionados con las funciones de la Procuraduría, en coordinación con las unidades administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIII. Proponer los criterios en materia de servicios a la comunidad y vinculación social, así como coordinar las instancias encargadas de los mismos dentro de la Procuraduría, y
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIV. Las demás que le confieran otras disposiciones o el Procurador.
+
+XV. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
+
+XVI. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
+
+XVII. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
+
+XVIII. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### Artículo 44.
 
 Al frente de la Dirección General Jurídica en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Autorizar los dictámenes de incompetencia, de no ejercicio de la acción penal y de reserva de la averiguación previa, que realice la Dirección General de Averiguaciones Previas en Materia de Delitos Electorales, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-II. Atender las comunicaciones y recomendaciones que se reciban de la Comisión Nacional de los Derechos Humanos, relacionados con los delitos electorales federales, así como elaborar los proyectos de contestación que deba rendir la Fiscalía Especializada para la Atención de Delitos Electorales, en coordinación con otras unidades administrativas competentes de la Institución;
+I. Autorizar los dictámenes de incompetencia, de no ejercicio de la acción penal y de reserva de la averiguación previa, que realice la Dirección General de Averiguaciones Previas y Control de Procesos en Materia de Delitos Electorales, de conformidad con las disposiciones aplicables;
 
-III. Desahogar las consultas que en materia de delitos electorales formulen el Instituto Federal Electoral, las dependencias y entidades de los gobiernos Federal, del Distrito Federal y de los estados, así como los organismos políticos e instituciones públicas y privadas;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-IV. Formular y revisar, en coordinación con las unidades administrativas competentes, los anteproyectos de acuerdos, circulares e instructivos, así como de convenios y bases de colaboración, competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+II. Atender las comunicaciones y recomendaciones que se reciban de la Comisión Nacional de los Derechos Humanos, relacionados con los delitos electorales federales;
 
-V. Proponer, en coordinación con las unidades administrativas competentes, anteproyectos de reformas en materia de delitos electorales federales, del registro nacional de ciudadanos y de cualquier ordenamiento jurídico que se refiera a las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-VI. Actualizar y sistematizar el acervo de fuentes de información en materia electoral, y
+III. Elaborar los proyectos de contestación que deba rendir la Fiscalía Especializada para la Atención de Delitos Electorales, en coordinación con otras unidades administrativas competentes de la Institución;
 
-VII. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+IV. Desahogar las consultas que en materia de delitos electorales formulen el Instituto Federal Electoral, las dependencias y entidades de los gobiernos Federal, del Distrito Federal y de los estados, así como los organismos políticos e instituciones públicas y privadas;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+V. Formular y revisar, en coordinación con las unidades administrativas competentes, los anteproyectos de acuerdos, circulares e instructivos, así como de convenios y bases de colaboración, competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VI. Proponer, en coordinación con las unidades administrativas competentes, proyectos normativos en materia de delitos electorales federales, del registro nacional de ciudadanos y de cualquier ordenamiento jurídico que se refiera a las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VII. Actualizar y sistematizar el acervo de fuentes de información en materia electoral;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VIII. Ejercer, en coordinación con la Dirección General de Amparo, las facultades que se encuentran previstas en la Ley Orgánica, tratándose de juicios de amparo derivados de averiguaciones previas o procesos iniciados por delitos electorales federales, así como por cualquier acto de autoridad de la Fiscalía Especializada para la Atención de Delitos Electorales cuando sea autoridad responsable;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+IX. Coordinar y vigilar el cumplimiento de los acuerdos de apoyo y colaboración celebrados por la Procuraduría en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+X. Intervenir en coordinación con las unidades administrativas competentes, en las denuncias de contradicción de tesis sobre los asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XI. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 45.
 
-Al frente de la Dirección General de Averiguaciones Previas en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+Al frente de la Dirección General de Averiguaciones Previas y Control de Procesos en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Ejercer las atribuciones que el artículo 4, fracciones I, apartados A y C, IV, V y VI de la Ley Orgánica, le confieren al Ministerio Público de la Federación respecto de los delitos del ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+I. Ejercer las atribuciones que el artículo 4, fracciones I, apartados A, B y C, IV, V y VI de la Ley Orgánica, le confieren al Ministerio Público de la Federación respecto de los delitos del ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
 
 II. Formular los dictámenes del no ejercicio de la acción penal y de reserva de la averiguación previa, para la autorización de la Dirección General Jurídica en Materia de Delitos Electorales;
 
 III. Proponer la incompetencia o el ejercicio de la acción penal, remitiendo los expedientes al área respectiva;
 
-IV. Establecer mecanismos de coordinación con las delegaciones en las entidades federativas, a fin de que presten el auxilio necesario en el ejercicio de sus funciones, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-V. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
+IV. Establecer mecanismos de coordinación con las delegaciones en las entidades federativas, a fin de que presten el auxilio necesario en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+V. Presentar ante el Consejo de la Judicatura Federal las quejas administrativas de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, por asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VI. Promover lo conducente al desarrollo de los procesos en el ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VII. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
 
 ###### Artículo 46.
 
-Al frente de la Dirección General de Control de Procesos y Amparo en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+(DEROGADO, D.O.F. 20 DE AGOSTO DE 2008)
 
-I. Ejercer las atribuciones que el artículo 4, fracciones I, apartados B y C, IV, V y VI de la Ley Orgánica, le confieren al Ministerio Público de la Federación respecto de los delitos del ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
-
-II. Elaborar la solicitud de declaración de procedencia para perseguir penalmente a servidores públicos, en los casos en que legalmente se requiera;
-
-III. Ejercer, en coordinación con la Dirección General de Amparo, las facultades que se encuentran previstas en la Ley Orgánica, tratándose de juicios de amparo derivados de averiguaciones previas o procesos iniciados por delitos electorales federales, así como por cualquier acto de autoridad de la Fiscalía Especializada para la Atención de Delitos Electorales;
-
-IV. Presentar ante el Consejo de la Judicatura Federal las quejas administrativas de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, por asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
-
-V. Intervenir en coordinación con las unidades administrativas competentes, en las denuncias de contradicción de tesis sobre los asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
-
-VI. Promover lo conducente al desarrollo de los procesos y amparos en el ámbito de su competencia;
-
-VII. Establecer mecanismos de coordinación con las delegaciones en las entidades federativas, a fin de que presten el auxilio necesario en el ejercicio de sus funciones, y
-
-VIII. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 47.
 
-Al frente de la Dirección General de Coordinación, Desarrollo e Innovación Gubernamental en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+Al frente de la Dirección General de Política Criminal, Coordinación y Desarrollo en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
 
 I. Promover la participación de instituciones públicas y privadas que contribuyan al cumplimiento de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
 
@@ -1131,33 +1237,49 @@ III. Participar con las unidades administrativas competentes en la elaboración 
 
 IV. Intervenir en coordinación con las unidades administrativas competentes, en los procesos de reclutamiento, capacitación, actualización y especialización del personal de la Fiscalía Especializada para la Atención de Delitos Electorales;
 
-V. Coordinar y vigilar el cumplimiento de los acuerdos de apoyo y colaboración celebrados por la Institución en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-VI. Las demás que le confieran otras disposiciones aplicables o el Fiscal Especializado para la Atención de Delitos Electorales.
+V. Recopilar, analizar y sistematizar la información estadística y complementaria en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales, para realizar estudios e investigaciones en el ámbito del sistema penal, y para la elaboración, medición y seguimiento de los indicadores de resultados derivados del Plan Nacional de Desarrollo, programas sectoriales, institucionales y especiales requeridos por las unidades administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VI. Elaborar y presentar para la aprobación del Fiscal Especializado para la Atención de Delitos Electorales el informe requerido por el Consejo General del Instituto Federal Electoral;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VII. Promover, diseñar e implantar herramientas y sistemas en apoyo al desempeño de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VIII. Participar con las unidades administrativas competentes en la elaboración y ejecución de los Programas relacionados con Transparencia y Combate a la Corrupción en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+IX. Intervenir en coordinación con las unidades administrativas competentes, en los procesos de capacitación, actualización y especialización del personal de la Fiscalía Especializada para la Atención de Delitos Electorales, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+X. Las demás que le confieran otras disposiciones aplicables o el Fiscal Especializado para la Atención de Delitos Electorales.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 48.
 
-Al frente de la Dirección General de Información y Política Criminal en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+Al frente de la Dirección General de Seguridad Institucional habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Diseñar e implementar los proyectos y programas permanentes de información y fomento de la cultura penal electoral;
+I. Proponer para autorización superior, la política, normas y lineamientos en materia de seguridad institucional, así como promover su aplicación y supervisar su cumplimiento, con apego a las disposiciones aplicables;
 
-II. Participar en coordinación con las instancias competentes, en la elaboración y ejecución de los programas de prevención del delito en materia electoral federal;
+II. Elaborar y someter a autorización los programas de seguridad institucional y de protección civil en la Procuraduría; coordinar su instrumentación y supervisar su cumplimiento, de conformidad con las disposiciones aplicables;
 
-III. Promover la celebración de convenios de coordinación y colaboración para la ejecución de acciones preventivas en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+III. Coordinar y supervisar la instalación y operación de sistemas integrales de seguridad en la Procuraduría; así como administrar los servicios de seguridad privada que contrate la Institución;
 
-IV. Brindar orientación legal al público en general en materia de procuración de justicia electoral federal;
+IV. Fungir como enlace de la Procuraduría ante las autoridades y organizaciones en materia de seguridad Institucional y protección civil;
 
-V. Coordinar la formación de capacitadores para la prevención del delito electoral federal;
+V. Registrar, controlar y administrar el resguardo de armas y municiones y realizar supervisiones sobre el cumplimiento de la asignación de armas de cargo de la Agencia;
 
-VI. Promover la participación social en las entidades federativas y difundir los mecanismos para la recepción de denuncias relativas a la comisión de delitos electorales;
+VI. Coordinar con la Agencia Federal de Investigación la asignación de elementos para la seguridad de las personas, conforme a las disposiciones que emita el Procurador, así como regular y supervisar su operación, y
 
-VII. Coordinar la preparación del informe que se debe rendir ante el Consejo General del Instituto Federal Electoral;
-
-VIII. Recopilar, integrar, sistematizar y analizar la información estadística y complementaria en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
-
-IX. Elaborar y presentar para la aprobación del Fiscal Especializado para la Atención de Delitos Electorales, los reportes estadísticos que le sean requeridos y que no estén reservados a otras áreas, y
-
-X. Las demás que le confieren otras disposiciones aplicables o el Fiscal Especializado para la Atención de Delitos Electorales.
+VII. Las demás que le confieran otras disposiciones aplicables o el Procurador.
 
 ###### Artículo 49.
 
@@ -1201,7 +1323,9 @@ IV. Proporcionar la asesoría y apoyo que en materia de relaciones laborales req
 
 V. Tramitar los nombramientos, licencias, reubicación y baja del personal de la Procuraduría y, tratándose del personal ministerial, policial y de servicios periciales, en coordinación con la Dirección General del Servicio de Carrera de Procuración de Justicia Federal;
 
-VI. Realizar la liquidación y pago de las remuneraciones al personal de la Procuraduría, de conformidad con la normatividad vigente, así como la aplicación de descuentos procedentes y realizar la emisión y distribución de cheques; efectuar la tramitación del pago de salarios caídos y otras prestaciones que ordene la autoridad administrativa o judicial correspondiente, previa consulta con la Dirección General de Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VI. Acordar y realizar la liquidación y pago de las remuneraciones al personal de la Procuraduría, de conformidad con la normatividad vigente, así como la aplicación de descuentos procedentes y realizar la emisión y distribución de cheques; efectuar la tramitación del pago de salarios caídos y otras prestaciones que ordene la autoridad administrativa o judicial correspondiente, previa consulta con la Dirección General de Asuntos Jurídicos;
 
 VII. Determinar los importes a favor de las dependencias y entidades de la Administración Pública Federal, de la representación sindical autorizada y de terceros, de las cantidades que les correspondan con motivo de deducciones efectuadas por su cuenta al personal de la Procuraduría;
 
@@ -1235,21 +1359,29 @@ VI. Abastecer los recursos materiales y suministrar los servicios generales que 
 
 VII. Conservar, mantener y reaprovechar los bienes de la Procuraduría; integrar y vigilar el Programa de Seguros; registrar, controlar y actualizar los inventarios de la Institución; atender los servicios de correspondencia, archivo, mensajería, vigilancia, transportes, talleres, intendencia y diseño gráfico;
 
-VIII. Establecer y coordinar conforme al Sistema Nacional de Protección Civil, el Programa Interno de Protección Civil para el Personal, Instalaciones y Bienes de la Procuraduría, y
+VIII. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
 
 IX. Las demás que le confieran otras disposiciones o el Procurador.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 52.
 
-Al frente de la Dirección General de Telemática habrá un Director General, quien tendrá las facultades siguientes:
+Al frente de la Dirección General de Tecnologías de la Información y Comunicaciones habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Desarrollar, administrar y operar los servicios de telefonía, telecomunicaciones, informática, Internet e infraestructura electrónica;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-II. Implementar las políticas, estrategias y acciones en materia de sistemas informáticos y de Internet;
+I. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de telefonía, telecomunicaciones, informática, internet e infraestructura electrónica y tecnologías de información y comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+II. Plantear e implementar las políticas, estrategias, normas y acciones en materia de sistemas informáticos, de comunicaciones y de Internet;
 
 III. Proyectar e implementar el programa institucional de desarrollo informático, en coordinación con los órganos y unidades administrativas competentes;
 
-IV. Diseñar, desarrollar y conducir las políticas de seguridad informática de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+IV. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de seguridad informática y comunicaciones empleando, en su caso, servicios de terceros;
 
 V. Proponer la normatividad y metodología necesarios para el correcto funcionamiento y empleo de la telefonía, telecomunicaciones, informática, Internet, infraestructura electrónica y de seguridad informática de la Institución;
 
@@ -1569,27 +1701,7 @@ X. Las demás que le confieran otras disposiciones o el Procurador.
 
 ###### Artículo 66.
 
-Al frente de la Dirección General de Erradicación habrá un Director General, quien tendrá las facultades siguientes:
-
-I. Planear los programas y dirigir los operativos para la erradicación de cultivos ilícitos;
-
-II. Coordinar, en los casos en que sea de su competencia, la destrucción de sustancias y cultivos ilícitos, el desmantelamiento de laboratorios ilícitos en los que se elaboren estupefacientes y sustancias psicotrópicas, así como la entrega a la autoridad competente de las sustancias y demás objetos que sean asegurados;
-
-III. Coordinar el desarrollo de programas de investigación de herbicidas coadyuvantes y equipo de operación y seguridad que se utilicen en la localización, verificación y destrucción de plantíos ilícitos;
-
-IV. Recabar las muestras de estupefacientes y psicotrópicos de plantíos ilícitos para los fines de la averiguación previa y del proceso;
-
-V. Participar, con las unidades administrativas competentes, en las investigaciones relacionadas con cultivos ilícitos;
-
-VI. Informar periódicamente sobre la situación que guardan las actividades desarrolladas conforme a los planes y programas operativos de erradicación de cultivos ilícitos;
-
-VII. Coordinarse con autoridades federales, estatales, del Distrito Federal y municipales, a fin de establecer políticas coordinadas de erradicación de cultivos ilícitos;
-
-VIII. Establecer, en coordinación con las unidades administrativas competentes, enlaces con autoridades extranjeras y organismos internacionales, respecto de técnicas de erradicación;
-
-IX. Coordinarse con las unidades administrativas competentes, a fin de elaborar las estadísticas sobre los avances en la erradicación de cultivos ilícitos, y
-
-X. Las demás que le confieran otras disposiciones o el Procurador.
+(DEROGADO, D.O.F. 20 DE AGOSTO DE 2008)
 
 ###### Artículo 67.
 
@@ -1597,33 +1709,63 @@ Al frente de la Dirección General de Planeación e Innovación Institucional ha
 
 I. Elaborar los diagnósticos en materia de procuración de justicia en el ámbito Federal;
 
-II. Diseñar, ejecutar y evaluar el sistema de planeación de la Institución, así como los programas específicos que determine el Procurador y, en su caso, proponer a la unidad administrativa competente las modificaciones pertinentes a la estructura orgánica de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-III. Coordinar y evaluar la participación de las unidades administrativas en la ejecución del sistema de planeación, para asegurar la congruencia de las estructuras con los procesos y proyectos, que sustenten la operación y ejecución de los programas institucionales;
+II. Realizar estudios sobre la operación de la Procuraduría, identificando sus fortalezas, oportunidades, debilidades y amenazas, con objeto de proponer acciones que contribuyan a mejorar su desempeño;
 
-IV. Definir y aplicar métodos, técnicas y herramientas que permitan actualizar, fortalecer y consolidar el sistema de planeación institucional a fin de asegurar su pertinencia con las atribuciones y funciones de las unidades administrativas de la Institución;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-V. Evaluar periódicamente los resultados obtenidos por las unidades administrativas, respecto de los planes y programas operativos y de desarrollo informático, para proponer acciones sobre su cumplimiento y retroalimentar el sistema de planeación de la Institución;
+III. Diseñar, ejecutar y evaluar el sistema de planeación de la Institución, así como los programas específicos que determine el Procurador y, en su caso, proponer a la Unidad Administrativa competente las modificaciones pertinentes a la estructura orgánica de la Procuraduría;
 
-VI. Participar en foros de consulta ciudadana para conocer las demandas de la población y proponer su integración al marco del Sistema Nacional de Planeación Democrática;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-VII. Diseñar un sistema de desarrollo y mejora continua para orientar el quehacer de la Procuraduría hacia la adopción de mejores prácticas y procesos que conlleven a una cultura de calidad;
+IV. Coordinar y evaluar la participación de las Unidades Administrativas en la ejecución del sistema de planeación, para asegurar la congruencia de las estructuras con los proyectos y proyectos, que sustenten la operación;
 
-VIII. Plantear programas y organizar acciones de capacitación y especialización en materia de calidad e innovación tecnológica, en coordinación con las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-IX. Coordinar la innovación de procesos de calidad para fortalecer la eficiencia y eficacia en el funcionamiento de la Institución, en coordinación con las unidades administrativas competentes;
+V. Definir y aplicar métodos, técnicas y herramientas que permitan actualizar, fortalecer y consolidar el sistema de planeación institucional a fin de asegurar su congruencia con las atribuciones y funciones de las Unidades Administrativas de la Procuraduría;
 
-X. Proyectar parámetros de control y evaluación del sistema de información integral de la Institución, en coordinación con los órganos y unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XI. Diseñar y evaluar la innovación tecnológica y de calidad que se requiera en la Institución, en coordinación con los órganos y unidades administrativas competentes;
+VI. Evaluar periódicamente los resultados obtenidos por las Unidades Administrativas, respecto de los planes y programas operativos y de desarrollo informático, para proponer acciones sobre su cumplimiento y retroalimentar el sistema de planeación de la Institución;
 
-XII. Plantear las políticas, estrategias y normas para el desarrollo y administración de sistemas informáticos y de Internet, en coordinación con las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XIII. Proponer, emitir y evaluar, conjuntamente con las unidades administrativas y órganos competentes, los lineamientos para la captación, sistematización, procesamiento de datos, generación de información estadística, geo-referida en mapas e indicadores sobre los procesos de la Institución, a fin de contribuir en su mejora;
+VII. Participar en foros de consulta ciudadana para conocer las demandas de la población y proponer su integración al marco del Sistema Nacional de Planeación Democrática;
 
-XIV. Verificar la alineación de los proyectos relacionados con tecnologías de la información, en coordinación con los órganos y unidades administrativas competentes, y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-XV. Las demás que le confieran otras disposiciones aplicables o el Procurador.
+VIII. Diseñar un sistema de desarrollo y mejora continua para orientar el quehacer de la Procuraduría hacia la adopción de mejores prácticas y procesos que conlleven a una cultura de calidad;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+IX. Plantear programas y organizar acciones de capacitación y especialización en materia de calidad e innovación tecnológica, en coordinación con las Unidades Administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+X. Coordinar la innovación de procesos de calidad para fortalecer la eficiencia y eficacia en el funcionamiento de la Procuraduría, en coordinación con las Unidades Administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XI. Proyectar parámetros de control y evaluación del sistema de información integral de la Institución, en coordinación con los órganos y Unidades Administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XII. Diseñar y evaluar la innovación y calidad que se requiera en la Procuraduría, en coordinación con los órganos y Unidades Administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XIII. Establecer las políticas, estrategias y normas para el desarrollo, contenido y administración de las páginas de Internet de la Procuraduría, en coordinación con las Unidades Administrativas competentes;
+
+XIV. (DEROGADA, D.O.F. 20 DE AGOSTO DE 2008)
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XV. Proponer, emitir y evaluar, conjuntamente con las unidades administrativas y órganos competentes, los lineamientos para la captación, sistematización, procesamiento de datos, generación de información estadística e indicadores sobre los procesos de la Procuraduría, a fin de contribuir en su mejora, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+XVI. Las demás que le confieran otras disposiciones aplicables o el Procurador.
 
 ###### Artículo 68.
 
@@ -1763,9 +1905,13 @@ IV. Gestionar y establecer sistemas y mecanismos de intercambio de información 
 
 V. Diseñar, concertar, coordinar y dar seguimiento a los sistemas y mecanismos de intercambio de información en materia de operación e impacto de la delincuencia, con agencias extranjeras y organismos internacionales, de conformidad con las disposiciones jurídicas aplicables, los instrumentos de carácter internacional y las políticas institucionales;
 
-VI. Desarrollar y operar sistemas de procesamiento de información, entre otras, sobre incidencia delictiva geo-referenciada, para la planeación del combate a la delincuencia, en coordinación con las unidades administrativas competentes de la Institución;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
 
-VII. Diseñar y promover el desarrollo tecnológico e intercambio de información, para la oportuna prevención, detección e investigación de la delincuencia, en coordinación con las unidades administrativas competentes;
+VI. Operar sistemas de procesamiento de información y dictar los lineamientos sobre incidencia delictiva geo-refererida para captar y sistematizar la información que le permitan la planeación del combate a la delincuencia, en coordinación con las unidades administrativas competentes de la Procuraduría;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2008)</small>
+
+VII. Diseñar y promover el intercambio de información, para la oportuna prevención, detección e investigación de la delincuencia, en coordinación con las unidades administrativas competentes;
 
 VIII. Integrar y dar seguimiento, en coordinación con las unidades administrativas competentes de la Institución, a la ejecución del Programa Nacional para el Control de Drogas;
 
@@ -2018,3 +2164,13 @@ La Coordinación General de Investigación que venía formando parte de la plant
 En tanto entren en vigor las normas reglamentarias de la Secretaría de la Función Pública, las menciones que en el presente Reglamento se hagan a dichas normas, se entenderán referidas al Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 Dado en la residencia oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de junio del año dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Procuraduría General de la República.
