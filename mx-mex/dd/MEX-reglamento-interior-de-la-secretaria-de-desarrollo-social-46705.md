@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-social-46705
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-16"
-last_updated: "2006-05-04"
+last_updated: "2008-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 16 de septiembre de 2005.
 
@@ -65,21 +65,37 @@ VI. Coordinaciones Regionales;
 
 VII. Unidad de Asuntos Jurídicos;
 
-VIII. Coordinación de Administración y Finanzas; y
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
 
-IX. Contraloría Interna.
+VIII. Coordinación de Administración y Finanzas;
+
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+IX. Coordinación de Concertación Interinstitucional; y
+
+> <small>(ADICIONADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+X. Contraloría Interna.
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2008)</small>
+
+La Contraloría Interna de la Secretaría tendrá las atribuciones que se establecen en el Reglamento Interior de la Secretaría de la Contraloría y en los demás ordenamientos jurídicos y administrativos aplicables.
+
+> <small>(REFORMADO, G.G. 22 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 4.
 
-La Secretaría, Subsecretarías, Direcciones Generales, Coordinaciones Regionales, y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma programada, con base en los objetivos, políticas y estrategias que en la materia establezca el Plan de Desarrollo del Estado de México, así como los programas, sectoriales, regionales y especiales a cargo de la dependencia o en los que participe, de conformidad con las disposiciones legales aplicables.
+La Secretaría, Subsecretarías, Direcciones Generales, Coordinaciones y demás unidades administrativas que integran a esta dependencia, programarán y desarrollarán sus actividades con base en los objetivos, políticas y estrategias que en la materia establezca el Plan de Desarrollo del Estado de México, así como los programas sectoriales, regionales y especiales a cargo de la Secretaría o en los que participe, de conformidad con las disposiciones legales aplicables.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
+> <small>(REFORMADO, G.G. 22 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 5.
 
-El estudio, planeación, trámite y resolución de los asuntos competencia de la Secretaría, así como su representación, corresponden originalmente al Secretario, quien para su mejor atención y despacho podrá delegar sus facultades en los servicios públicos subalternos, sin perder por ello la autoridad de su ejercicio directo, excepto aquellas que por disposición de Ley deben ser ejercidas en forma directa por él.
+El estudio, planeación, trámite y resolución de los asuntos competencia de la Secretaría, así como su representación, corresponden originalmente al Secretario, quien para su mejor atención y despacho, podrá delegar sus facultades en los servidores públicos subalternos, sin perder por ello la autoridad de su ejercicio directo, excepto aquellas que por disposición de ley deben ser ejercidas en forma directa por él.
 
 ###### Artículo 6.
 
@@ -87,9 +103,9 @@ Corresponde al Secretario las atribuciones siguientes:
 
 I. Fijar y dirigir la política general de la Secretaría;
 
-> <small>(F. DE E., G.G. 31 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
 
-II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas, Planeación y Administración, de acuerdo con la legislación vigente;
+II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia; así como otorgar poderes y delegar poderes especiales o generales en uno o más apoderados para que los ejerzan individual o conjuntamente. Para actos de dominio requerirá la autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación aplicable;
 
 > <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
 
@@ -115,7 +131,9 @@ X. Coordinar las acciones para el cumplimiento, por parte del Poder Ejecutivo Es
 
 XI. Promover ante dependencias y organismos internacionales, federales, estatales y municipales, proyectos orientados a desconcentrar y descentralizar el despacho de los asuntos para el desarrollo social y regional equilibrado;
 
-XII. Dictaminar la orientación del gasto de inversión para el desarrollo social cuando se trate de recursos estatales, en las regiones del Estado, atendiendo a las prioridades sociales y sectoriales;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+XII. Recomendar la orientación del gasto de inversión para el desarrollo social en las regiones del Estado, cuando se trate de recursos estatales, atendiendo las prioridades sociales y sectoriales;
 
 XIII. Coordinar operativamente a las unidades administrativas desconcentradas de las dependencias y organismos auxiliares del Poder Ejecutivo Estatal, en cada región de la entidad;
 
@@ -123,19 +141,25 @@ XIV. Establecer los mecanismos e instrumentos necesarios para la procuración de
 
 XV. Promover que los recursos públicos federales, estatales y municipales destinados a los programas sociales, se apliquen dando primero cobertura a las zonas de atención prioritaria;
 
-XVI. Coordinar que los recursos estatales de los programas de desarrollo social que presenten las dependencias y organismos auxiliares del Ejecutivo Estatal, y la obra pública ejecutada por los ayuntamientos cuando se trate de recursos estatales, se aplique dando prioridad a las necesidades sociales y sectoriales;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+XVI. Proponer que los recursos estatales de los programas de desarrollo social que presenten las dependencias y organismos auxiliares del Ejecutivo Estatal y la obra pública ejecutada por los ayuntamientos, cuando se trate de recursos estatales, se apliquen dando prioridad a las necesidades sociales y sectoriales;
 
 XVII. Planear, coordinar, supervisar, controlar y evaluar, en términos de la legislación aplicable, las actividades de los organismos auxiliares del Poder Ejecutivo del Estado que se adscriban sectorialmente a la Secretaría;
 
 XVIII. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera y mantenerlo informado del desarrollo de las mismas;
 
-XIX. Suscribir acuerdos y convenios con los sectores público, social y privado en los asuntos competencia de la Secretaría;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+XIX. Suscribir acuerdos, convenios y contratos con los sectores público, social y privado en los asuntos competencia de la Secretaría;
 
 XX. Proponer al Ejecutivo del Estado, a través de la Secretaría General de Gobierno, iniciativas de ley o decreto, así como proyectos de reglamentos y acuerdos sobre asuntos competencia de la Secretaría;
 
 XXI. Comparecer ante la Legislatura del Estado, para informar de la situación que guarda su ramo o sector, o bien cuando se discuta una ley o se estudie un asunto relacionado con sus funciones;
 
-XXII. Aprobar la organización de la Secretaría, así como los manuales administrativos, en coordinación con la Secretaría de Finanzas, Planeación y Administración;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+XXII. Aprobar la organización de la Secretaría, así como sus manuales administrativos, en coordinación con la Secretaría de Finanzas;
 
 XXIII. Acordar con el Gobernador del Estado el nombramiento de los servidores públicos de mando superior de la Secretaría;
 
@@ -143,7 +167,9 @@ XXIV. Aprobar el programa operativo anual y el anteproyecto del presupuesto anua
 
 XXV. Crear y, en su caso, presidir comisiones internas en la Secretaría;
 
-XXVI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los no previstos en el mismo;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+XXVI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los asuntos no previstos en el mismo;
 
 XXVII. Las demás que le confieren otras disposiciones legales y las que le encomiende el titular del Poder Ejecutivo Estatal.
 
@@ -213,15 +239,21 @@ I. Dirección General de Programas Sociales.
 
 II. Dirección General de Inversión para el Desarrollo Social.
 
-### CAPITULO V. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES GENERALES, DE LOS COORDINADORES REGIONALES Y DE LA UNIDAD DE ASUNTOS JURIDICOS
+> <small>(REFORMADA SU DENOMINACION, G.G. 22 DE AGOSTO DE 2008)</small>
+
+### CAPITULO V. DE LOS DIRECTORES GENERALES, COORDINADORES Y JEFE DE UNIDAD
+
+> <small>(REFORMADO, G.G. 22 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 10.
 
-Al frente de cada Dirección General y Coordinación Regional habrá un Director General y un Coordinador Regional respectivamente, al frente de la Unidad de Asuntos Jurídicos, habrá un Jefe de Unidad, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada y con el presupuesto de egresos correspondiente.
+Al frente de cada Dirección General, Coordinación y Unidad habrá un Director General, un Coordinador y un Jefe de Unidad, respectivamente, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada y con el presupuesto de egresos correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 11.
 
-Corresponde a los Directores Generales, Coordinadores Regionales y Jefe de la Unidad de Asuntos Jurídicos, las atribuciones genéricas siguientes:
+Corresponde a los Directores Generales, Coordinadores y Jefe de Unidad:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las actividades de la unidad administrativa a su cargo;
 
@@ -237,7 +269,9 @@ VI. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servido
 
 VII. Proporcionar la información, datos o el apoyo técnico que les sean requeridos por otras dependencias y organismos auxiliares del Poder Ejecutivo Estatal;
 
-VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación, poder o los que les correspondan por suplencia;
 
 IX. Coordinar sus actividades con las demás unidades administrativas de la Secretaría, así como con las unidades administrativas desconcentradas de las dependencias y organismos auxiliares, para el mejor cumplimiento de los programas, proyectos y acciones a su cargo;
 
@@ -245,13 +279,15 @@ X. Proponer a su superior jerárquico mejoras a la organización y al funcionami
 
 XI. Emitir y certificar las copias de los registros y documentos que obren en los archivos de la unidad administrativa a su cargo, conforme a la normatividad específica;
 
-XII. Celebrar, en asuntos de su competencia y previo acuerdo de su superior jerárquico, acuerdos y contratos con los sectores público, social y privado; y
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+XII. Celebrar, en asuntos de su competencia y previo acuerdo de su superior jerárquico, acuerdos, convenios y contratos con los sectores público, social y privado;
 
 XIII. Las demás que les confieren otras disposiciones legales y las que les señale su superior jerárquico.
 
-### CAPITULO VI
+> <small>(REFORMADA SU DENOMINACION, G.G. 22 DE AGOSTO DE 2008)</small>
 
-DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES, COORDINACIONES REGIONALES, UNIDAD DE ASUNTOS JURIDICOS, COORDINACION DE ADMINISTRACION Y FINANZAS Y CONTRALORIA INTERNA
+### CAPITULO VI. DE LAS DIRECCIONES GENERALES, COORDINACIONES Y UNIDAD DE ASUNTOS JURÍDICOS
 
 ###### Artículo 12.
 
@@ -283,45 +319,23 @@ XII. Integrar, coordinar y administrar el Registro Social Estatal para asentar l
 
 XIII. Las demás que le confieren otros ordenamientos legales y las que le señale el Secretario; (sic)
 
+> <small>(REFORMADO, G.G. 22 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 13.
 
 Corresponde a la Dirección General de Inversión para el Desarrollo Social:
 
-I. Dictaminar la orientación del gasto de inversión para el desarrollo social que presenten a la Secretaría de Finanzas, Planeación y Administración, las dependencias y organismos auxiliares del Ejecutivo Estatal y los ayuntamientos, cuando se trate de recursos estatales, en las regiones del Estado, atendiendo a las prioridades sociales y sectoriales;
+I. Recomendar la orientación del gasto de inversión para el desarrollo social y regional que presenten a la Secretaría de Finanzas las dependencias y organismos auxiliares del Ejecutivo Estatal y los ayuntamientos, cuando se trate de recursos estatales, atendiendo a las prioridades sociales y sectoriales;
 
-II. Dictaminar respecto de las solicitudes de modificaciones presupuestales del gasto e inversión para el desarrollo social que propongan las dependencias y organismos auxiliares del Ejecutivo Estatal y los ayuntamientos cuando se trate de recursos estatales, en las regiones del Estado, atendiendo a las prioridades sociales y sectoriales;
+II. Proponer a la Secretaría de Finanzas la programación del gasto de inversión para el desarrollo social, acorde con los objetivos y necesidades del desarrollo social y regional de la entidad;
 
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+III. Formular programas locales, regionales y especiales de desarrollo social y diseñar mecanismos para su seguimiento y evaluación;
 
-III. Dictaminar la liberación de recursos para los programas de inversión para el desarrollo social que presenten a la Secretaría de Finanzas, las dependencias y organismos auxiliares del Ejecutivo Estatal, en las regiones del Estado, atendiendo a las prioridades sociales y sectoriales;
+IV. Proponer mecanismos para verificar la orientación social recomendada al gasto de inversión de las dependencias y organismos auxiliares del Ejecutivo Estatal, a fin de que se ejerza en proyectos y estrategias prioritarias de desarrollo social, de conformidad con los programas establecidos;
 
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+V. Establecer criterios sociales que orienten el gasto de inversión sectorial y vigilar de manera permanente su congruencia con las prioridades sectoriales;
 
-IV. Dictaminar la liberación de recursos para la ejecución de la obra pública de los ayuntamientos, cuando se trate de recursos estatales;
-
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
-
-V. Emitir previo acuerdo con los subsecretarios de desarrollo regional, los dictámenes de inversión correspondiente a los recursos federales y estatales, incluidos los del ramo administrativo treinta y tres, de las dependencias y organismos auxiliares, con el objeto de garantizar la continuidad de las obras prioritarias y dictaminar los programas de inversión definitivos, una vez aprobado el Presupuesto de Egresos del Gobierno del Estado de México, en términos de la normatividad vigente;
-
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
-
-VI. Dictaminar la orientación del gasto de inversión para el desarrollo social en las distintas regiones del Estado, en coordinación con la Secretaría de Finanzas, de conformidad con las prioridades sociales y sectoriales;
-
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
-
-VII. Proponer a la Secretaría de Finanzas, la programación del gasto público, acorde a los objetivos y necesidades del desarrollo social y regional de la entidad;
-
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
-
-VIII. Dictaminar la integración de los programas - presupuesto, objeto de los convenios de desarrollo que celebre el Ejecutivo Estatal con los municipios, para llevar a cabo su seguimiento y evaluación, de acuerdo a los mecanismos que se establezcan en los convenios;
-
-IX. Elaborar programas locales, regionales y especiales de desarrollo social y combate a la pobreza y diseñar mecanismos para su seguimiento y evaluación;
-
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
-
-X. Proponer las políticas para verificar que el gasto de inversión dictaminado, de las dependencias y organismos auxiliares del Ejecutivo Estatal, se ejerza en los proyectos y estrategias prioritarias de desarrollo social, de conformidad con los programas establecidos; y
-
-XI. Las demás que le confieren otros ordenamientos legales y las que le señale el Secretario; (sic)
+VI. Las demás que le confieren otros ordenamientos legales y las que le señale el Secretario.
 
 ###### Artículo 14.
 
@@ -375,9 +389,13 @@ IV. Formular los dictámenes, opiniones e informes que les sean solicitados por 
 
 V. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención;
 
-VI. Elaborar o sancionar los acuerdos, convenios, contratos y demás instrumentos jurídicos en los que la Secretaría sea parte;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
 
-VII. Intervenir en los asuntos de carácter jurisdiccional, administrativo o cualquier asunto de carácter legal en que sea parte la Secretaría, o que se refiera a hechos o actos susceptibles de causar daño o perjuicio a su patrimonio;
+VI. Elaborar o validar los acuerdos, convenios, contratos y demás instrumentos jurídicos en los que la Secretaría sea parte;
+
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+VII. Intervenir como representante legal de la Secretaría y de sus unidades administrativas, en los asuntos de carácter jurisdiccional, juicios, procesos y procedimientos administrativos, civiles, laborales, penales, de amparo y en cualquier otra materia en que sea parte la Secretaría o que se refieran a hechos o actos susceptibles de causar daño o perjuicio a sus intereses;
 
 VIII. Unificar los criterios de interpretación y de aplicación de las leyes y otras disposiciones jurídicas que normen el funcionamientos (sic) de la Secretaría y sus Organismos Auxiliares Sectorizados;
 
@@ -401,7 +419,9 @@ V. Controlar y verificar la aplicación del presupuesto de las unidades administ
 
 VI. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto de la Secretaría e informar al Secretario sobre el comportamiento del mismo;
 
-VII. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias de los servidores públicos de la Secretaría;
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+VII. Realizar la contratación de los servidores públicos de la Secretaría, cuya contratación no esté encomendada a otros titulares y tramitar los movimientos de altas, bajas, cambios, permisos y licencias de los servidores públicos de la Secretaría;
 
 VIII. Presidir y representar legalmente al Comité de Adquisiciones y Servicios de la Secretaría, de acuerdo con la normatividad aplicable;
 
@@ -411,37 +431,33 @@ X. Suscribir contratos y convenios derivados de los procesos adquisitivos de bie
 
 XI. Promover el registro, mantenimiento y conservación de los bienes muebles e inmuebles de la Secretaría;
 
-XII. Integrar y promover la actualización de los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas, Planeación y Administración; y
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2008)</small>
+
+XII. Promover la integración y actualización de los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas;
 
 XIII. Las demás de (sic) le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2008)</small>
+
+###### Artículo 16 Bis.
+
+Corresponde a la Coordinación de Concertación Interinstitucional:
+
+l. Difundir y promover los proyectos y programas de desarrollo social entre los sectores público, social y privado;
+
+II. Promover la participación de la sociedad civil organizada en el desarrollo de programas que mejoren el nivel de vida de la población más vulnerable de la entidad;
+
+III. Promover proyectos de desarrollo social en los municipios y regiones de alta y muy alta marginación de la entidad, en colaboración con los ayuntamientos y organizaciones civiles;
+
+IV. Capacitar y orientar a los sectores público, social y privado, respecto a los mecanismos para que participen en la ejecución de programas sociales;
+
+V. Gestionar recursos de organismos nacionales e internacionales, públicos y privados, para apoyar proyectos y programas de desarrollo social;
+
+VI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+
 ###### Artículo 17.
 
-Corresponde a la Contraloría Interna:
-
-I. Vigilar, en el ámbito de su competencia, el cumplimiento de los programas y subprogramas de las unidades administrativa (sic) de la Secretaría y elaborar los reportes correspondientes;
-
-II. Intervenir en los procesos adquisitivos de la Secretaría, cuando la normatividad así lo determine;
-
-III. Realizar a las unidades administrativas de la Secretaría, operativos, supervisiones, revisiones, auditorías, evaluaciones y demás acciones de control y evaluación que le correspondan, tendientes a verificar el cumplimiento de los objetivos, metas, normas y disposiciones relacionadas con los sistemas de registro de contabilidad, contratación y pago de personal, contratación de servicio, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados a la dependencia y dar seguimiento a la solventación de las observaciones derivadas de tales acciones hasta su conclusión;
-
-IV. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Secretaría de la Contraloría para su trámite y resolución;
-
-V. Verificar el adecuado ejercicio del presupuesto de la Secretaría, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable;
-
-VI. Ordenar que se presenten denuncias correspondientes y dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos de la Secretaría;
-
-VII. Verificar la presentación oportuna de las declaraciones, de situación patrimonial de los servidores públicos de la Secretaría, sujetos a esta obligación;
-
-VIII. Promover la eficacia, transparencia y calidad de las actividades (sic) la Secretaría;
-
-IX. Informar al Secretario de las actividades que realice en el cumplimiento de sus atribuciones;
-
-X. Difundir entre los servidores públicos de la Secretaría, las disposiciones en materia de control que incidan en el desarrollo de sus funciones;
-
-XI. Proponer al Secretario la instrumentación de normas complementarias en materia de control; y
-
-XII. Las demás que le confieren otros ordenamientos legales y las que le señale el Secretario de la Contraloría.
+(DEROGADO, G.G. 22 DE AGOSTO DE 2008)
 
 ### CAPITULO VII. DE LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -459,9 +475,11 @@ El Secretario será suplido en sus ausencias de hasta 15 días, por el Subsecret
 
 Los Subsecretarios serán suplidos en sus ausencias de hasta 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que determine el Secretario.
 
+> <small>(REFORMADO, G.G. 22 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 21.
 
-Los Directores Generales y los Coordinadores Regionales serán suplidos en sus ausencias de hasta 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Secretario.
+Los Directores Generales, Coordinadores y Jefes de Unidad serán suplidos en sus ausencias de hasta 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Secretario.
 
 T R A N S I T O R I O S
 
@@ -498,3 +516,11 @@ G.G. 4 DE MAYO DE 2006.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 22 DE AGOSTO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.-Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
