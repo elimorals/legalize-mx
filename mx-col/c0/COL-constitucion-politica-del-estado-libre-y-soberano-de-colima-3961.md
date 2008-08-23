@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2008-07-26"
+last_updated: "2008-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2008.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -483,9 +483,9 @@ III.- Al Supremo Tribunal de Justicia en asuntos del Ramo de Justicia;
 
 IV.- A los Ayuntamientos; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
-V.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 4% de los inscritos en el listado nominal de electores. Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas en el siguiente período ordinario de sesiones a aquel en que se reciba. Esta facultad será reglamentada en los términos de la ley respectiva.
+V.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 3% de los inscritos en el listado nominal de electores. Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas en el siguiente período ordinario de sesiones a aquel en que se reciba. Esta facultad será reglamentada en los términos de la ley respectiva.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1003,17 +1003,27 @@ X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Jueces d
 
 XI.- Proponer al Congreso del Estado a los Magistrados del Tribunal Electoral, en los términos que establezca la ley de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
-XII.- Funcionando en salas, declarar la conformación o modificación de los procedentes jurídicos obligatorios ajustándose a los términos que señale la Ley Orgánica del Poder Judicial. En todo caso, la conformación o modificación de los precedentes jurídicos obligatorios de las salas, se constituirá cuando resuelvan cinco ejecutorias ininterrumpidas en el mismo sentido. El Supremo Tribunal de Justicia funcionando en Pleno, declarará los precedentes jurídicos obligatorios cuando resuelva la contradicción entre tesis de las salas;
+XII.- Funcionando en Pleno o Salas, establecer, en el ámbito de su competencia, criterios de aplicación, interpretación e integración de leyes, reglamentos y demás normas jurídicas, que vinculen a todas las autoridades del Estado, en los términos que señala la Ley Orgánica del Poder Judicial del Estado.
+
+La jurisprudencia que establezca el Pleno del Tribunal se sujetará a las reglas siguientes:
+
+a) Se constituirá cuando la mayoría de los magistrados resuelvan las denuncias de contradicción entre tesis sustentadas por las Salas, fijando el criterio que deba prevalecer o regir.
+
+b) Se integrará con cinco resoluciones consecutivas, no interrumpidas por otra en contra, en las cuales sostenga el mismo criterio de aplicación, interpretación o integración de una norma.
+
+Las Salas del tribunal conformarán la jurisprudencia cuando emitan cinco ejecutorias consecutivas no interrumpidas por otra en contra, en las cuales sostengan el mismo criterio de aplicación, interpretación o integración de una norma.
+
+La Ley Orgánica del Poder Judicial establecerá los requisitos para la interrupción y modificación de la jurisprudencia, así como el procedimiento para su aprobación, compilación, sistematización y publicación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2002)</small>
 
 XIII.- Salvaguardar, aun con el uso de la fuerza pública en caso necesario, la inviolabilidad de los recintos del Poder Judicial; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
-XIV.- Disponer, en los términos de la Ley Orgánica del Poder Judicial y la de Hacienda del Estado, del fondo auxiliar en beneficio de la administración de justicia, el que se integrará con multas, decomisos, donaciones, derechos, productos, aprovechamientos e intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común, cuyo destino será únicamente para infraestructura y capacitación de personal.
+XIV.- Disponer, en los términos de la Ley Orgánica del Poder Judicial y la de Hacienda del Estado, del fondo auxiliar en beneficio de la administración de justicia, el que se integrará con multas, decomisos, donaciones, derechos, productos, aprovechamientos e intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante las dependencias y tribunales judiciales del fuero común que se aplicará a infraestructura, capacitación, actualización y especialización del personal. Asimismo podrá aplicarse hasta el treinta por ciento del monto del Fondo Auxiliar en Beneficio de la Administración de Justicia al otorgamiento de incentivos al desempeño de los servidores públicos, de acuerdo con lo previsto en el Reglamento de Procedimientos y Asignación de Estímulos del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -1493,11 +1503,13 @@ Aprobado por el Cabildo el dictamen de revisión de los resultados semestrales d
 
 Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión. La aprobación del dictamen de revisión por el Cabildo no impide que, en su caso, el Congreso del Estado finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2008)</small>
+
+###### Artículo 96.
+
+Los ciudadanos de un municipio debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 4% de los inscritos en el padrón electoral municipal respectivo. Las iniciativas presentadas conforme a este párrafo, deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada en los términos de la ley respectiva.
+
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
-
-###### ARTICULO 96.
-
-Los ciudadanos de un municipio debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 5% de los inscritos en el padrón electoral municipal respectivo. Las iniciativas presentadas conforme a este párrafo, deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada en los términos de la ley respectiva.
 
 Los actos de gobierno de las autoridades municipales podrán ser sometidos a plebiscito, en los términos de la ley respectiva.
 
@@ -2738,6 +2750,10 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En tanto no se expida la Ley Reglamentaria de la fracción XLI Bis, del articulo 33 de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado seguirá conociendo de los juicios de responsabilidad administrativa para sancionar a los servidores públicos que hayan incurrido en faltas administrativas.
 
 P.O. 26 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE AGOSTO DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
