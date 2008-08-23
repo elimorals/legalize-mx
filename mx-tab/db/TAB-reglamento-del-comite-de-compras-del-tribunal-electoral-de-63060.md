@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-compras-del-tribunal-electoral-de-6306
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-20"
-last_updated: "2008-08-20"
+last_updated: "2008-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO DEL COMITE DE COMPRAS DEL TRIBUNAL ELECTORAL DE TABASCO
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 20 de agosto de 2008.
+Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 20 de agosto de 2008. (REPUBLICADO EN EL P.O. 23 DE AGOSTO DE 2008).
 
 ACUERDO DE VEINTE DE AGOSTO DE DOS MIL OCHO, MEDIANTE EL QUE SE EMITE Y APRUEBA EL REGLAMENTO DEL COMITÉ DE COMPRAS DEL TRIBUNAL ELECTORAL DE TABASCO.
 
