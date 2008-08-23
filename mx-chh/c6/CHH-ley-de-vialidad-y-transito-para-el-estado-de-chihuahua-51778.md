@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2007-06-30"
+last_updated: "2008-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -625,9 +625,19 @@ Para obtener la licencia de conducir en cualquiera de sus modalidades, se requie
 
 3. Aprobar el examen de aptitudes en la conducción y conocimientos teóricos para manejar;
 
-4. Aprobar el examen médico de aptitudes físicas y mentales para la conducción; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-5. Ser residente de la localidad donde la solicite.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
+
+4. Aprobar el examen médico de aptitudes físicas y mentales para la conducción;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2008)</small>
+
+5. Tomar el curso de manejo preventivo que para tal efecto impartan las autoridades de Tránsito, y
+
+6. Ser residente de la localidad donde la solicite.
 
 La licencia de conducir deberá contener el dato que indique si el guiador a cuyo nombre se expidió la misma, realizó ante la autoridad competente su manifestación de donar o no sus órganos en caso de fallecimiento.
 
@@ -663,11 +673,21 @@ IV. Paso Preferencial, que autoriza a conducir vehículos destinados al paso pre
 
 Las licencias tendrán una vigencia de tres y seis años a solicitud del interesado, pero tratándose de las de chofer del transporte público, su duración será de seis años, debiendo refrendarse cada dos años, en los términos precisados en el Reglamento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 55.
 
-A las personas mayores de quince años y menores de dieciocho se les podrá expedir licencia de conducir únicamente de las del servicio particular en las categorías de motociclista y de automovilista, previo consentimiento por escrito otorgado por el padre o la madre y en su caso por el tutor del menor, además del cumplimiento de los requisitos que para tal efecto se establecen por la Ley y el reglamento.
+A las personas mayores de quince años y menores de dieciocho se les podrá expedir licencia de conducir únicamente de las del servicio particular en las categorías de motociclista y de automovilista, previo consentimiento por escrito otorgado por las personas que ejerzan la patria potestad o, en su caso, por el tutor del menor, quienes asumirán la responsabilidad civil, además del cumplimiento de los requisitos que para tal efecto se establecen por la ley y el reglamento. Esta licencia tendrá vigencia de un año.
 
-Esta licencia tendrá vigencia de un año, autorizando a los menores a conducir, manejar o maniobrar vehículos únicamente en el horario que comprende de las seis a las veintidós horas.
+Los menores de edad a que se refiere este artículo, solamente podrán conducir los vehículos previamente registrados por quienes ejerzan la patria potestad o tutor, ante las autoridades de Vialidad y/o Tránsito.
+
+Así mismo, se les expedirá un holograma fluorescente, para identificación pública de los vehículos respectivos, como los autorizados para ser conducidos por el menor de edad, el cual deberá portarse adherido en un lugar visible del parabrisas trasero.
+
+El holograma al que se refiere el párrafo anterior, contendrá la identificación del vehículo y el número telefónico o dirección electrónica, donde cualquier ciudadano pueda reportar cualquier anomalía en la conducción del mismo. El reporte ciudadano deberá generar un registro individual e histórico de las denuncias, el cual podrá ser consultable en cualquier tiempo por quienes asumieron la responsabilidad civil.
+
+Los menores a que se refiere este artículo, estarán autorizados para conducir, manejar o maniobrar vehículos únicamente en el horario que comprende de las seis a las veintidós horas. En carretera sólo podrán conducir acompañados de una persona mayor de edad.
 
 ###### Artículo 56.
 
@@ -707,9 +727,23 @@ II. Cuando el titular de la misma cometa tres infracciones de las consideradas g
 
 III. Cuando se haya suspendido la licencia dos veces en un periodo de dos años o tres veces en cinco años;
 
-IV. Que se compruebe que la información proporcionada o alguno de los documentos o constancias exhibidos por el interesado para la obtención de la licencia son falsos o han sido falsificados; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Cuando se compruebe que tiene dos o más licencias de la misma categoría. En este caso, si se acreditare la obtención dolosa del solicitante, se cancelarán todas; de lo contrario, quedará vigente únicamente la última de ellas.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+IV. Que se compruebe que la información proporcionada o alguno de los documentos o constancias exhibidos por el interesado para la obtención de la licencia son falsos o han sido falsificados;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+V. Cuando se compruebe que tiene dos o más licencias de la misma categoría. En este caso, si se acreditare la obtención dolosa del solicitante, se cancelarán todas; de lo contrario, quedará vigente únicamente la última de ellas; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+VI. En el caso de los menores de edad, si éstos conducen un vehículo diverso para el que están autorizados, o si no portan en el mismo el holograma de identificación previsto en esta Ley.
 
 La suspensión y la cancelación de las licencias se sujetarán al procedimiento establecido por el reglamento de la materia.
 
@@ -931,7 +965,17 @@ III. Suspensión de la licencia de conducir;
 
 IV. Cancelación de la licencia de conducir;
 
-V. Arresto hasta por treinta y seis horas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+V. Arresto hasta por treinta y seis horas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+VI. Retención del vehículo automotor, en los términos del artículo 101 de la presente Ley.
 
 Para aplicar las sanciones a que se refieren las fracciones III, IV y V de este artículo, se tomarán en cuenta las siguientes circunstancias:
 
@@ -1069,9 +1113,29 @@ III. En los casos en que se incurra en una infracción grave y su conductor no s
 
 IV. Conduzca, maniobre o maneje sin contar con dos de los siguientes documentos: Licencia de conducir vigente que le haya sido otorgada para la clase de vehículo que conduzca; no lleve en el vehículo la tarjeta de circulación del mismo, y la póliza de seguro vigente con cobertura de daños a terceros que garantice su responsabilidad civil en caso de accidente. Para el efecto, el oficial de vialidad y/o tránsito que realice el acto de molestia deberá expresar por escrito el precepto legal en que lo funda y motive el acto.
 
-V. Por orden judicial; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Por conducir, maniobrar o manejar en estado de intoxicación por alcohol, drogas u otras sustancias igualmente tóxicas, que alteren su capacidad para conducir, maniobrar o manejar. En este caso la retención del vehículo será por un plazo máximo de doce horas en la delegación de tránsito y/o vialidad, tiempo en el cual el vehículo queda bajo el resguardo de la delegación, y en la cual el infractor a través de un familiar o conocido podrá recoger el vehículo. Si transcurrido el plazo anterior el vehículo no es recuperado, éste será remitido al corralón que determine la delegación.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+V. Por orden judicial;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+VI. Por conducir, maniobrar o manejar en estado de intoxicación por alcohol, drogas u otras sustancias igualmente tóxicas, que alteren su capacidad para conducir, maniobrar o manejar. En este caso la retención del vehículo será por un plazo máximo de doce horas en la delegación de tránsito y/o vialidad, tiempo en el cual el vehículo queda bajo el resguardo de la delegación, y en la cual el infractor a través de un familiar o conocido podrá recoger el vehículo. Si transcurrido el plazo anterior el vehículo no es recuperado, éste será remitido al corralón que determine la delegación; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
+
+VII. En el caso de menores de edad, sin perjuicio de lo señalado en la fracción IV de este artículo, cuando conduzcan un vehículo que no traiga adherido el holograma de identificación previsto en esta Ley, o cuando conduzcan un vehículo diverso para el que fueron autorizados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2008)</small>
+
+Invariablemente, el oficial de vialidad y/o tránsito que realice el acto de molestia, deberá expresar por escrito el precepto legal en que lo funda y motiva, notificándolo a quien aparezca como propietario del vehículo y/o a quienes hayan asumido la responsabilidad civil.
 
 ### CAPÍTULO TERCERO. DE LOS RECURSOS
 
@@ -1236,3 +1300,13 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 23 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección de Vialidad y Protección Civil tendrá un término de 60 días a partir de la publicación del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley de Vialidad y Tránsito para el Estado de Chihuahua.
