@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2008-del-pleno-del-consejo-de-la-60760"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-30"
-last_updated: "2008-06-13"
+last_updated: "2008-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-04-16"
 
 ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGION, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de abril de 2008.
 
@@ -55,9 +55,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 44/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2008)</small>
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, conformado por dos tribunales colegiados Auxiliares, dos tribunales unitarios Auxiliares y tres juzgados de Distrito Auxiliares, el domicilio de un tribunal colegiado, de los tribunales unitarios y de los juzgados de Distrito será el ubicado en Carretera Cuatro Carriles Guanajuato-Silao, Glorieta Santa Fe número 5, colonia Yerbabuena, código postal 36251, Guanajuato, Guanajuato, y el del restante tribunal colegiado estará en Paseo de la Presa de la Olla número 158, Zona Centro, código postal 36000, Guanajuato, Guanajuato, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, conformado por dos tribunales colegiados Auxiliares, cinco tribunales unitarios Auxiliares y tres juzgados de Distrito Auxiliares, el domicilio de un tribunal colegiado, de cuatro tribunales unitarios y de los juzgados de Distrito será el ubicado en Carretera Cuatro Carriles Guanajuato-Silao, Glorieta Santa Fe número 5, colonia Yerbabuena, código postal 36251, Guanajuato, Guanajuato, y el del restante tribunal colegiado y tribunal unitario estará en Paseo de la Presa de la Olla número 158, Zona Centro, código postal 36000, Guanajuato, Guanajuato, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región.
 
@@ -70,6 +70,12 @@ Los tribunales unitarios se denominarán:
 Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
 
 Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
+
+Tercer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
+
+Cuarto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
+
+Quinto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
 
 Los tribunales colegiados se denominarán:
 
@@ -251,7 +257,9 @@ DECIMOPRIMERO. DEL ACUERDO GENERAL 57/2006. Se reforma el Acuerdo General 57/200
 
 1. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
 
-2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 44/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2008)</small>
+
+2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
 
 Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.”
 
@@ -272,6 +280,14 @@ EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CON
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 13 DE JUNIO DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los Organos Jurisdiccionales que lo Integrarán.
+
+D.O.F. 25 DE AGOSTO DE 2008.
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
