@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2008-03-24"
+last_updated: "2008-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2008.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -9147,113 +9147,81 @@ IV. Con el producto del remate, la autoridad municipal procederá a cubrir el mo
 
 ###### ARTICULO 945.
 
-El presente Libro de este Código es de observancia general y tiene como finalidad establecer las normas y medidas necesarias para la Seguridad Civil y la Prevención de Incendios y todo género de siniestros y el control de los mismos en el Municipio de San Francisco de los Romo.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 946.
 
-Las disposiciones presentes tenderán a garantizar la Seguridad Pública y la integridad personal, así como la conservación de la salud y bienes que conforman el patrimonio de los habitantes del Municipio de San Francisco del los Romo.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 947.
 
-Las disposiciones del presente Libro tendrán aplicación a cualquier tipo de construcción, edificación o instalación de carácter público o privado y a las personas físicas o morales, que se encuentren establecidas o estén en tránsito en la circunscripción del San Francisco de los Romo.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO IV. De las Obligaciones de los Propietarios, Posesionarios y Administradores de los Inmuebles
 
 ###### ARTICULO 948.
 
-Son autoridades competentes para la aplicación del presente Libro:
-
-I. El Presidente Municipal;
-
-II. El Secretario del H. Ayuntamiento y Director General de Gobierno;
-
-III. El Director de Seguridad Pública y Tránsito Municipal;
-
-IV. El Subdirector de la Unidad de Protección Civil;
-
-V. Los Inspectores designados por el Titular de Protección Civil, como miembros del mismo.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 949.
 
-La Unidad Municipal de Protección Civil, es el Órgano de la Administración Pública Municipal, encargado en forma directa de velar por la observancia y aplicación del presente Libro, pudiendo en caso de hacerse necesario hacer uso de la fuerza pública para su debido cumplimiento.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 950.
 
-El Subdirector de la Unidad Municipal de Protección Civil, en apoyo del presente ordenamiento, queda facultado para la elaboración de los manuales técnicos para su eficaz operación y acorde a las Normas Oficiales Mexicanas (NOM) en vigor, debiendo someter al H. Ayuntamiento las tablas técnicas actualizadas que contribuyan de cualquier naturaleza.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO V. De las Conductas que Contravienen la Seguridad Civil y los Sistemas para la Prevención de Incendios y Percances Similares
 
 ###### ARTICULO 951.
 
-La Unidad Municipal de Protección Civil la obligación de brindar servicios a la población en general en los casos de incendios y cualquier otro género de siniestros, incidentes, desastres o percances naturales o provocados.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 952.
 
-La Unidad Municipal de Protección Civil, deberán atender en forma inmediata la prestación de los servicios regulares de emergencia que por su naturaleza requieren de la celeridad en su prestación; por cuanto se refiere a los servicios ordinarios que no entrañan de momento un estado de emergencia o peligro pero que competen a la intervención de la Unidad Municipal de Protección Civil y del Departamento de Bomberos del Estado, a toda solicitud que por escrito se formule habrá de recaer una resolución en un término no mayor de quince días hábiles contados a partir del día siguiente al de la recepción de la solicitud, surtiendo estas sus efectos al día siguiente de haber sido emitidas.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 953.
 
-La Unidad Municipal de Protección Civil podrá revisar periódicamente las instalaciones o edificaciones públicas y privadas para efecto de detectar riesgos y prevenir desastres.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 954.
 
-La Unidad Municipal de Protección Civil, expedirá certificaciones de aprobación de dispositivos de seguridad y prevención de incendios y siniestros, cuando se hayan satisfecho éstos en debida forma, de acuerdo a los parámetros establecidos en este Código, dentro de un plazo de diez días hábiles para giros de mediano y alto impacto, y se podrá preautorizar a giros de bajo y mediano impacto con la manifestación de autorregulación en la que se establece el compromiso de cumplir con los requisitos mínimos de seguridad que le señale la propia Unidad.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 955.
 
-La Unidad Municipal de Protección Civil podrá sancionar en forma administrativa a los infractores del presente ordenamiento en la forma y término que en el mismo se prevén.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO VI. De las Normas Preventivas en Edificaciones para Casa Habitación
 
 ###### ARTICULO 956.
 
-Son obligaciones de los propietarios, posesionarios o administradores de los inmuebles, instalaciones o edificaciones a que hace referencia el presente Libro, las siguientes:
-
-I. Instalar, conservar, modificar y construir, en estado óptimo de funcionamiento los sistemas o aparatos que garanticen la seguridad de quienes los usen, visiten o circulen y de la población en general, a fin de prevenir los incendios y demás percances que pudiesen sobrevenir;
-
-II. Cumplir y cooperar para que se cumplan las medidas de seguridad y prevención de incendios y cualquier género de siniestros previstas en este ordenamiento; y Código Civil en coordinación con el Departamento de Bomberos del Estado;
-
-III. Solicitar a la Subdirección de la Unidad Municipal de Protección Civil la revisión y aprobación en su caso de los sistemas o aparatos de seguridad que deberá efectuarse con diez días de anticipación a la fecha de la ocupación de la nueva construcción;
-
-IV. Los establecimientos que almacenan sustancias inflamables, peligrosas, contaminantes o de fácil combustión, explosivas, radioactivas o químicas que importen peligro, deberán contar sus permisos y autorizaciones de las autoridades competentes y con autorización de la Subdirección de la Unidad Municipal de Protección Civil y del H. Ayuntamiento, así como con la revisión y aprobación en su caso de los sistemas o aparatos de seguridad que deberá efectuarse con diez días de anticipación a la fecha de la ocupación del establecimiento; y
-
-V. Para los giros de mediano Impacto se determinará en el Catálogo de los mismos, si se requiere dicha aprobación. Para los giros de bajo impacto, se podrá no requerir dicha aprobación, si se manifiesta que se tendrán los elementos mínimos necesarios de seguridad que le señalará la Unidad de Protección Civil, sin necesidad de inspección y verificación para iniciar actividades, sin menoscabo de las inspecciones que se puedan realizar durante la operación del establecimiento.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 957.
 
-Es responsabilidad del propietario, posesionario, administrador, usuario, arrendatario o detentador de los inmuebles de que se trate, la seguridad de sus ocupantes, el debido y correcto funcionamiento de los sistemas y aparatos de seguridad así como el cumplimiento de las normas contenidas en este Libro y en los demás ordenamientos legales que le sean aplicables.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 958.
 
-La Unidad Municipal de Protección Civil, podrán practicar visitas de inspección a fin de verificar que se cumplan las disposiciones preventivas previstas en el presente Código y la Norma Oficial Mexicana correspondientes, debiendo realizarlas con las formalidades exigidas en el mismo código.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 959.
 
-Son conductas o actividades que contravienen el régimen de Protección Civil y prevención de incendios, las siguientes:
-
-I. Fumar dentro de los locales, edificios, instalaciones u otros, donde se manifieste la prohibición de hacerlo, en los términos de la Ley de Protección de No Fumadores;
-
-II. Emitir o lanzar voces de alarma en lugares públicos que por su naturaleza infundan y provoquen el pánico;
-
-III. Llamar a los cuerpos o corporaciones prestadoras de servicios de emergencia de forma irresponsable que movilice a éstas y se confirme como falsa alarma;
-
-IV. Obstruir o invadir zonas de acceso y evacuación, tales como pasillos o escaleras de instalaciones o centros de espectáculos públicos;
-
-V. Hacer uso del fuego o materiales inflamables de cualquier clase que no sean para procesar alimentos en vías y lugares públicos, de igual forma en los predios o edificaciones de los particulares, que estén previstas en las Normas Oficiales Mexicanas correspondientes;
-
-VI. Almacenar sustancias inflamables, peligrosas, contaminantes o de fácil combustión, explosivas, radioactivas o químicas que importen peligro en circulaciones generales en zonas de concentración de personas, cerca de edificios tales como: Escuelas, Hospitales, Restaurantes, Centro de Espectáculos, Edificios de Gobierno, Centros Comerciales y en general en cualquier edificio que sirva como centro de reunión; y
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO II. Del Comité Municipal y de la Declaración de Emergencia
 
 ###### ARTICULO 960.
 
-Se consideran edificaciones Casa-Habitación, tanto los hogares, habitaciones unifamiliares, multifamiliares o edificaciones en condominio de uno o varios niveles.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 961.
 
-Cualquier tipo de edificio de habitación multifamiliar de cualquier tipo de estructura, deberá reunir las condiciones de seguridad para sus ocupantes que establecen el Código Urbano del Estado y el Libro Octavo del presente Código, tales como los sistemas de seguridad contra incendios por medio de los cuales se garantice la protección y seguridad de sus ocupantes.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ## TITULO SEGUNDO. DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
@@ -9261,477 +9229,231 @@ Cualquier tipo de edificio de habitación multifamiliar de cualquier tipo de est
 
 ###### ARTICULO 962.
 
-El presente Capítulo tiene por objeto organizar y regular el Sistema Municipal de Protección Civil, con la finalidad de salvaguardar la vida de las personas y sus bienes, así como el funcionamiento de los servicios públicos y equipamiento estratégico ante cualquier evento destructivo de origen natural o generado por la actividad humana, a través de la prevención, el auxilio y la recuperación, en el marco de los objetivos Nacionales, Estatales y de acuerdo al interés general del Municipio.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 963.
 
-Para los efectos de este Capítulo se entiende por:
-
-I. Siniestro.- Evento determinado en el tiempo y en el espacio en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial de tal manera que afecta su vida normal;
-
-II. Desastre.- Evento determinado en el tiempo y espacio en cual la sociedad o una parte de ella sufre un daño severo o perdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;
-
-III. Alto Riesgo.- La inminente o probable ocurrencia de un siniestro o desastre;
-
-IV. Prevención.- Las acciones dirigidas a identificar y controlar los riegos, así como el conjunto de medidas destinadas a evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
-
-V. Auxilio.- Al conjunto de acciones destinadas primordialmente a rescatar y salvaguardar la integridad física de las personas, sus bienes y el medio ambiente; y
-
-VI. Recuperación o Restablecimiento.- A las acciones encaminadas a volver a las condiciones de normalidad, una vez que ha ocurrido el siniestro o desastre.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 964.
 
-Son autoridades del Sistema Municipal de Protección Civil:
-
-I. El H. Ayuntamiento Constitucional de San Francisco de los Romo;
-
-II. El H. Consejo Municipal; y
-
-III. Subdirector de la Unidad de Protección Civil;
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 965.
 
-Son atribuciones del H. Ayuntamiento Constitucional de San Francisco de los Romo:
-
-I. Integrar el Sistema Municipal de Protección Civil;
-
-II. Aprobar, publicar y ejecutar el programa Municipal de Protección Civil y los programas Institucionales que se deriven;
-
-III. Participar en el Sistema Municipal de Protección Civil y asegurar la congruencia de los programas con el Programa Estatal de Protección Civil, haciendo las propuestas que estimen pertinentes;
-
-IV. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades del presente Capítulo en el ámbito de su jurisdicción;
-
-V. Celebrar convenios con los Gobiernos Federal y Estatal que apoyen los objetivos y finalidades de los Sistemas de Protección Civil;
-
-VI. Coordinarse y Asociarse con otros municipios de la entidad y el Gobierno del Estado para el cumplimiento de los programas Estatales y Municipales;
-
-VII. Instrumentar sus programas en coordinación con el Consejo y la Unidad Estatal de Protección Civil;
-
-VIII. Difundir y dar cumplimiento a la declaración de emergencia que en su caso expida el Comité Estatal;
-
-IX. Publicar, difundir y dar cumplimiento a la declaración de emergencia que en su caso expida el Comité Municipal;
-
-X. Solicitar al Ejecutivo Estatal el apoyo necesario para desarrollar las acciones de auxilio y recuperación cuando los efectos de un siniestro o desastre lo requieran;
-
-XI. Asociarse con otras entidades públicas o con particulares para coordinar y conservar la realización de las acciones programadas en materia de Protección Civil;
-
-XII. Integrar en los Reglamentos de Zonificación Urbana y Construcción los criterios de prevención;
-
-XIII. Asegurar que las obras de Urbanización y Edificación que autorice se proyecten, ejecuten y operen, conforme a las normas de prevención;
-
-XlV. Promover la Constitución de Grupos Voluntarios integrados al Sistema Municipal de Protección Civil, autorizar sus reglamentos y apoyarlos en sus actividades;
-
-XV. Promover la capacitación de los habitantes en materia de Protección Civil;
-
-XVI. Proporcionar información y asesoría a las Asociaciones de Vecinos o Comités de Colonos, para elaborar programas específicos e integrar Unidades Internas de Protección Civil, a fin de realizar acciones de prevención y auxilio en las Colonias, Barrios y Unidades Habitacionales;
-
-XVII. Promover la participación de los grupos sociales que integran su comunidad, en el Sistema Municipal de Protección Civil y respecto a la formalización y ejecución de los programas Municipales;
-
-XVIII. Aplicar las disposiciones de este Capítulo e instrumentar sus programas en coordinación con el Sistema y la Unidad Estatal de Protección Civil;
-
-XIX. Vigilar a través de la Unidad Municipal de Protección Civil, el cumplimiento de este Libro por parte de las Instituciones, Organismos y Empresas de los Sectores Público, Social y Privado, en el ámbito de su competencia y de conformidad con los Convenios de Coordinación que celebre con el Estado y de la Federación;
-
-XX. Tramitar y resolver el recurso administrativo previsto en la Ley Estatal de Protección Civil; y
-
-XXI. Las demás que les señale la Ley Estatal de Protección Civil y otras normas reglamentarias.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 966.
 
-El Consejo Municipal es el órgano que planea, opina, convoca, coordina y decide las acciones públicas y la participación social en materia de Protección Civil en el Municipio, de forma multidisciplinaria e institucional.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 967.
 
-El Consejo Municipal de Protección Civil se conforma por las siguientes autoridades:
-
-I. El Presidente Municipal, en su carácter de Presidente del Consejo;
-
-II. El Secretario del H. Ayuntamiento y Director General de Gobierno, en su carácter de Secretario Ejecutivo;
-
-III. El Subdirector de la Unidad Municipal de Protección Civil, en su carácter de Secretario Técnico;
-
-IV. Los titulares de las Dependencias y Entidades Municipales con actividades de protección civil, como vocales;
-
-V. Los Regidores de cuyas comisiones estén involucrados en la Protección Civil, como vocales;
-
-VI. Representantes de las organizaciones del sector social y privado;
-
-VII. Representantes de Instituciones Educativas y/o expertos en protección civil; y
-
-VIII. El Comité Municipal de Emergencias, como órgano ejecutivo.
-
-Las reuniones podrán realizarse de manera ordinaria cada cuatro meses y extraordinariamente las veces que sea necesario. Las sesiones extraordinarias se llevarán a cabo con los integrantes del Consejo que concurran, siempre que se presente una situación de emergencia.
-
-Habrá un quórum legal cuando concurra la mitad más uno de sus miembros y siempre asista su Presidente, o en sus ausencias el Secretario Ejecutivo.
-
-Para los efectos de este Artículo, los Consejeros señalados en las fracciones de la I a la V, tendrán derecho a voz y voto, Y los demás tendrán solamente derecho a voz.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 968.
 
-Por cada Consejero se designará un suplente que lo sustituya en ausencias temporales. El cargo de consejero es de carácter honorario, por lo que no percibirán remuneración alguna por la participación en las sesiones y actividades del Consejo Municipal, tratándose de servidores públicos es inherente al empleo que desempeñan.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 969.
 
-Son atribuciones del Consejo Municipal, como órgano de planeación, coordinación y concentración del Sistema Municipal de Protección Civil, implementar las acciones de protección civil en el Municipio.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 970.
 
-Las decisiones del Consejo Municipal se tomaran por mayoría simple de votos de los asistentes con derecho a ello, teniendo el Presidente voto de calidad en caso de empate.
-
-Los acuerdos del Consejo se asentarán en un libro de Actas.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 971.
 
-La Unidad Municipal de Protección Civil es un órgano de Administración dentro del Sistema Municipal de Protección Civil y le compete ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento conforme al Reglamento, Programas y Acuerdos que autorice el Consejo Municipal de Protección Civil.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 972.
 
-La Unidad de Protección Civil, dependerá administrativamente de la Dirección de Seguridad Pública y Tránsito Municipal y se constituirá por:
-
-I. Subdirector de la Unidad de Protección Civil
-
-II. Coordinador de Operaciones, de Planeación y Comunicación;
-
-III. Personal Operativo, Verificadores, Peritos, Capacitadores, Asesores Especializados y Personal Administrativo de apoyo, comisionados de otras Dependencias Municipales;
-
-IV. Coordinador de Grupos Voluntarios y Patronato; y
-
-V. Bases Municipales que se establezcan conforme al Programa Municipal de Protección Civil.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 973.
 
-Compete a la Unidad de Protección Civil, ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento conforme a los reglamentos, programas y acuerdos que autorice el Consejo Municipal, desarrollando las siguientes funciones:
-
-I. Elaborar el proyecto del Programa Municipal de Protección y presentarlo a consideración del Consejo Municipal y en su caso las propuestas para su modificación;
-
-II. Elaborar el proyecto del Programa Operativo Anual y presentarlo al Consejo Municipal para su autorización;
-
-III. Identificar los riesgos que se presenten en el Municipio de San Francisco de los Romo, integrando el Atlas de Riesgos;
-
-IV. Establecer y ejecutar los subprogramas básicos de prevención, auxilio y recuperación o restablecimiento;
-
-V. Promover y realizar acciones de educación, capacitación y difusión a la comunidad en materia de simulacros, señalización y uso de equipos de seguridad personal para la Protección Civil, impulsando la formación del personal que pueda ejercer esas funciones;
-
-VI. Elaborar el Catálogo de Recursos Humanos y Materiales necesarios en casos de emergencias, verificar su existencia y coordinar su utilización;
-
-VII. Celebrar acuerdos para utilizar los recursos a que se refiere la fracción anterior;
-
-VIII. Disponer que se integren las Unidades Internas de las Dependencias y Organismos de la Administración Pública Municipal y vigilar su cooperación;
-
-IX. Proporcionar información y dar asesoría a las Empresas, Instituciones, Organismos y Asociaciones Privadas y del Sector Social dentro del ámbito de su jurisdicción para integrar sus Unidades Internas y promover su participación en las acciones de Protección Civil;
-
-X. Llevar el registro, prestar asesoría y coordinar a los grupos voluntarios y acorde al Apartado de los Grupos de Emergencia y su Estructura;
-
-XI. Integrar la red de comunicación que permita reunir informes sobre condiciones de alto riesgo, alertar a la población, convocar a los grupos voluntarios y en general, dirigir las operaciones del Sistema Municipal de Protección Civil;
-
-XII. Establecer y operar los centros de acopio para recibir y administrar la ayuda a la población afectada por un siniestro o desastre;
-
-XIII. En el ámbito de su competencia practicar inspecciones y otorgar certificaciones de operación a fin de vigilar el cumplimiento de las disposiciones municipales en materia de Protección Civil y Seguridad Civil;
-
-XlV. Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de Protección Civil en el ámbito de competencia; y
-
-XV. Las demás que dispongan los Reglamentos, Programas y Convenios o que le asigne el Consejo Municipal de Protección Civil.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 974.
 
-Son Funciones del Subdirector de la Unidad de Protección Civil como titular de la Unidad:
-
-I. Dirigir la Unidad Municipal de Protección Civil;
-
-II. Coordinar los trabajos operativos que apoyen la realización, instrumentación y evaluación del programa Municipal de Protección Civil;
-
-III. Organizar los eventos que apoyen la formulación de los programas elaborados por el Consejo Municipal de Protección Civil; y
-
-IV. Informar a los miembros del Consejo respecto del avance de los programas que integra el Sistema Municipal de Protección Civil.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 975.
 
-Son obligaciones del Subdirector de la Unidad Municipal de Protección Civil:
-
-l. Promover la Protección Civil en sus aspectos normativo, operativo, de coordinación y participación buscando la extensión de sus efectos a toda la población del Municipio;
-
-II. Establecer los Programas básicos de prevención, auxilio y apoyo frente a la eventualidad de desastres provocados por los diferentes tipos de agentes;
-
-III. Realizar las acciones de auxilio y rehabilitación inicial, para atender las consecuencias a los efectos destructivos en caso de que se produzca algún desastre;
-
-IV. Elaborar el inventario de recursos humanos y materiales disponibles y susceptibles de movilizarse en caso de emergencia, procurando su incremento y mejoramiento;
-
-V. Hacer cumplir el presente Capítulo en las verificaciones, supervisiones y certificaciones a las edificaciones, industrias, empresas y todo aquello que establezca dicha normatividad; y
-
-VI. Estudiar y someter a consideración del Consejo Municipal, planes y proyectos para la protección de personas, instalaciones y bienes de interés general, para garantizar el normal funcionamiento de los servicios esenciales para la comunidad en caso de graves contingencias.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO IV. De los Programas de Protección Civil
 
 ###### ARTICULO 976.
 
-El Comité Municipal de Emergencia se erigirá cuando se presenten condiciones de alto riesgo, siniestro o desastre y será presidido por el C. Presidente Municipal como responsable del Sistema de Protección Civil en el Municipio.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 977.
 
-El Comité Municipal es el Órgano Ejecutivo del Consejo Municipal de Protección Civil y se constituye por el Presidente, el Secretario General, el Secretario Técnico y Cuatro Vocales que serán designados por el Consejo Municipal entre sus propios integrantes con duración en su cargo dichos vocales de un año, por lo que en caso de alto riesgo, siniestro o desastre, el Comité Municipal de Emergencia, expedirá la declaratoria de emergencia y ordenará su publicación en un periódico de mayor circulación de la ciudad y en las oficinas de las dependencias que se consideren necesarias conforme a los siguientes lineamientos:
-
-I. Todo hecho que implique una posible condición de alto riesgo, siniestro o desastre, será puesto en conocimiento de la Unidad Municipal;
-
-II. Conforme a una evaluación inicial que detecte las posibles condiciones de alto riesgo, siniestro o desastre, el titular de la Unidad Municipal decidirá sobre informar, alertar o convocar en forma urgente al Comité de Emergencia;
-
-III. Reunido el Comité Municipal, analizará el informe inicial que presente el titular de la Unidad de Protección Civil, decidiendo el curso de las acciones de prevención o rescate;
-
-IV. Analizará el informe inicial que presente el titular de la Unidad de Protección Civil, decidiendo el curso de las acciones de prevención o rescate;
-
-V. Cuando del informe se advierta que existe una condición de alto riesgo o se presente un siniestro, se hará la declaratoria de emergencia;
-
-VI. Cuando el Comité Municipal decida declarar emergencia lo comunicará al Comité Estatal y en su caso, el Comité Estatal al declarar la emergencia, dispondrá que se instale el Centro Estatal de Operaciones; y
-
-VII. Cuando del informe resulte evidente que se presente una condición de alto riesgo, siniestro o desastre, el Presidente del Comité Municipal y del Comité Estatal de Emergencia, según corresponda, hará la declaratoria de emergencia y citará al Comité respectivo, para presentar el informe de la Unidad de Protección Civil y solicitar se ratifique su decisión.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 978.
 
-Cuando la gravedad del siniestro lo requiera, el Presidente del Consejo Municipal de Protección Civil solicitará el auxilio a las Dependencias Estatales de Protección Civil.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 979.
 
-En caso de incidencias que requieran la participación del Estado en el Municipio, el Presidente Municipal como representante del Sistema de Protección Civil Municipal, participará en el Comité Estatal de Emergencia que para esos casos instale el Consejo Estatal de Protección Civil. En este caso el Presidente Municipal participará con voz y voto tal y como lo establece la estructura organizativa del Sistema Nacional de Protección Civil.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 980.
 
-Para el caso de que la gravedad del siniestro rebase las capacidades de respuesta del Consejo Municipal de Protección Civil y de las Dependencias Estatales, el Presidente del Consejo hará del conocimiento de la Zona Militar los acontecimientos solicitando su intervención, quedando desde este momento el mando de las acciones a cargo de la misma.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO V. De la Coordinación
 
 ###### ARTICULO 981.
 
-Son organismos auxiliares y de participación social, tal como lo establece el Sistema de Protección Civil del Estado:
-
-l. Los grupos voluntarios que prestan sus servicios en actividades de protección civil de manera solidaria sin recibir remuneración económica alguna;
-
-II. Las Asociaciones de Vecinos Constituidas conforme a las disposiciones legales; y
-
-III. Las Unidades internas de las Dependencias y Organismos del Sector Público, como también las Instituciones y Empresas del Sector Privado encargadas de instrumentar en el ámbito de sus funciones la ejecución de los programas de protección civil, atendiendo las necesidades específicas de prevención y atención de riesgos para la seguridad del personal y bienes.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 982.
 
-Para coadyuvar en los fines y funciones de la Protección Civil Municipal, el Consejo Municipal promoverá y aprobará comisiones de colaboración municipal con diferentes organismos afines, cualquiera que sea con el nombre que se les designe.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 983.
 
-El Consejo Municipal de Protección Civil, procurará que en la integración de estos organismos queden incluidas personas pertenecientes a sectores de mayor representatividad y que tenga la mayor calificación y preparación necesaria.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 984.
 
-Estos Organismos auxiliares podrán coadyuvar en el cumplimiento eficaz en los planes y programas Municipales de Protección Civil aprobados y promover la participación y colaboración de los habitantes del municipio en todos los aspectos de beneficio social.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO VI. De la Educación y Capacitación
 
 ###### ARTICULO 985.
 
-El Programa Municipal de Protección Civil desarrollará los siguientes subprogramas:
-
-I. De Prevención;
-
-II. De Auxilio; y
-
-III. De Restablecimiento.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 986.
 
-El Subprograma de Prevención según el Sistema Municipal de Protección Civil agrupará las acciones tendientes a evitar o mitigar los efectos o disminuir la ocurrencia de hechos de alto riesgo, siniestro o desastre y promover el desarrollo de la cultura de Protección Civil en la comunidad.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 987.
 
-El Subprograma de Prevención deberá establecer los siguientes elementos operativos para responder en condiciones de alto riesgo, siniestros o desastres, según lo establece el Sistema Estatal de Protección Civil:
-
-I. Los Estudios, investigaciones y proyectos de Protección Civil a ser realizados;
-
-II. Los criterios para integrar el Atlas de Riesgo;
-
-III. Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
-
-IV. Las acciones que la Unidad Municipal de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
-
-V. Los criterios para promover la participación social y la capacitación y aplicación de los recursos que aporten los sectores público, privado y social;
-
-VI. El inventario de recursos disponible;
-
-VII. Las previsiones para organizar albergues y viviendas emergentes;
-
-VIII. Los lineamientos para la elaboración de los manuales de capacitación;
-
-IX. La política de comunicación social; y
-
-X. Los criterios y bases para la realización de simulacros.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 988.
 
-El Subprograma de auxilio integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riego, siniestro o desastre, la integridad física de las personas, sus bienes y el medio ambiente.
-
-Para realizar las acciones de rescate, se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención, según lo establece el Sistema Estatal de Protección Civil del Estado de Aguascalientes.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 989.
 
-El Subprograma de auxilio integrará los criterios generales para instrumentar, en condiciones de siniestro o desastre:
-
-l. Las acciones que desarrollarán las Dependencias y Organismos de la Administración Pública Municipal o Estatal;
-
-II. Los estudios, investigaciones y proyectos de Protección Civil a ser realizados;
-
-III. Los criterios para integrar el Atlas de Riesgo;
-
-IV. Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
-
-V. Las acciones que la Unidad Municipal de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
-
-VI. Los criterios para promover la participación social y la capacitación y aplicación de los recursos que aporten los sectores público, privado y social;
-
-VII. El inventario de recursos disponible;
-
-VIII. Las previsiones para organizar albergues y viviendas emergentes;
-
-IX. Los lineamientos para la elaboración de los manuales de capacitación;
-
-X. La política de comunicación social; y
-
-XI. Los criterios y bases para la realización de simulacros.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 990.
 
-El Subprograma de auxilio integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riego, siniestro o desastre, la integridad física de las personas, sus bienes y el medio ambiente.
-
-Para realizar las acciones de rescate, se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención, según lo establece el Sistema Estatal de Protección Civil del Estado de Aguascalientes.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 991.
 
-El Subprograma de auxilio integrará los criterios generales para instrumentar, en condiciones de siniestro o desastre:
-
-I. Las acciones que desarrollarán las Dependencias y Organismos de la Administración Pública Municipal o Estatal;
-
-II. Los mecanismos de concertación y coordinación con los sectores social y privado;
-
-III. Los medios de Coordinación con los grupos voluntarios; y
-
-IV. La política de comunicación social.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 992.
 
-El Subprograma de Restablecimiento determinará las estrategias necesarias para la recuperación de la normalidad una vez ocurrido el siniestro o desastre.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 993.
 
-Los Programas Operativos anuales precisarán las acciones a desarrollar por las Unidades de Protección Civil para el periodo correspondiente, a fin de integrar el presupuesto de estas dependencias conforme a las disposiciones en materia de planeación y control presupuestal.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 994.
 
-Los programas específicos precisarán las acciones de Protección a cargo de las Unidades Internas que se establezcan en las Dependencias, Organismos, Empresas o Entidades que lo quieran, de conformidad con sus actividades y por la afluencia de personas que concurran o habiten en las edificaciones que administren.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 995.
 
-Los programas previstos tendrán la vigencia que se determine en cada caso, cuando no se establezca un término, el programa se mantendrá en vigor, hasta que sea modificado, sustituido o cancelado.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO VII. De las Inspecciones
 
 ###### ARTICULO 996.
 
-La coordinación que establezca el Sistema Nacional, el Sistema Estatal y los Sistemas Municipales, tendrá por objeto precisar:
-
-I. Las acciones que corresponden a cada sistema para entender los riesgos específicos que se presenten en la entidad y en el Municipio, relacionados con sus bienes y actividades;
-
-II. Las formas de cooperación con las Unidades Internas de las Dependencias y Organismos de la Administración Pública Federal en el Estado, acordando las responsabilidades y acciones que asumirán en materia de Protección Civil;
-
-III. Los medios que permitan identificar, registrar y controlar las actividades peligrosas que se desarrollen en la entidad, bajo la regulación Federal; y
-
-IV. Los medios de comunicación entre los órganos operativos, para coordinar acciones en caso de alto riesgo, siniestro o desastre.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 997.
 
-Con el propósito de lograr una adecuada coordinación entre los Sistemas Nacional, Estatal y Municipal de Protección Civil, el Secretario General del Consejo Municipal informará periódicamente a la Secretaría de Gobernación y al Estado, por conducto de la Unidad Municipal de Protección Civil, sobre el estado que guarda el Municipio de San Francisco de los Romo en su conjunto, en relación con pronósticos de riesgos para la fundación y acciones específicas de prevención.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO VIII. De la Capacitación y Adiestramiento
 
 ###### ARTICULO 998.
 
-El Consejo Municipal esta obligado a realizar campañas permanentes de capacitación en coordinación con las entidades educativas con el objeto de dar cumplimiento al Programa Nacional de Seguridad y Emergencia Escolar en los planteles de Educación Preescolar, Primaria y Secundaria, así como de programas similares en los Planteles de Educación Superior.
-
-De acuerdo a las condiciones de alto riesgo que se presenten en la localidad se realizarán simulacros para capacitar operativamente a los educandos, apropiados a los diferentes niveles escolares a que se hace mención en el párrafo anterior.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO IX. De los Grupos de Emergencia y su Estructuración
 
 ###### ARTICULO 999.
 
-El Gobierno Municipal a través de sus Dependencias correspondientes ejercerá las funciones de vigilancia e inspección y aplicarán las sanciones establecidas por el Sistema de Protección Civil Municipal, en los asuntos de su competencia.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1000.
 
-Las inspecciones se sujetarán a las formalidades prescritas en el presente Código.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO X. De los Sistemas de Apoyo
 
 ###### ARTICULO 1001.
 
-Será competencia de la Unidad de Protección Civil, la vigilancia, supervisión e impartición de los cursos a brigadas de prevención de incendios, a las Unidades Internas de Protección y Prevención ante todo tipo de siniestros, tanto a particulares como al mismo Municipio como Institución.
-
-Asimismo será competencia de la Unidad de Protección Civil avalar y acreditar los programas de capacitación, vigilancia y supervisión que imparta por si misma, por diferentes dependencias o por terceros.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1002.
 
-Las Capacitaciones, Cursos o Adiestramiento tendrán un costo en relación con los elementos a emplear dentro de la temática a tratar, por lo que estos se podrán pagar al Municipio en especie vía donación, a los Departamentos para la recuperación inmediata de los materiales, de Artículos o materiales didácticos a emplear para la superación del nivel.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO XI. Del Patronato para el Auxilio a Damnificados, Bomberos y Protección Civil
 
 ###### ARTICULO 1003.
 
-Son grupos de emergencia, todo agrupamiento o asociación de personas que se conforman con la finalidad propia de brindar los servicios de auxilio y rescate en momentos de emergencia a causa de cualquier tipo de incidente, siniestro, percance natural o humano.
-
-Este tipo de grupos que se encuentren establecidos dentro de la circunscripción territorial del municipio, tales como Clubes de Rescate deberán de encontrarse debidamente constituidos atento a lo que establece el Código Civil para el Estado de Aguascalientes en vigor.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1004.
 
-Este tipo de grupos a fin de lograr en conjugación de esfuerzos una adecuada coordinación con el supervisor por excelencia de todo grupo de emergencia, es decir la Unidad Municipal de Protección Civil, los primeros deberán de obtener el registro respectivo de su Acta Constitutiva, Estatutos o Constitución que regule sus actividades y miembros que la integren.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1005.
 
-La Unidad Municipal de Protección Civil será el órgano de la Administración Pública Municipal encargado de supervisar, coordinar y ejercer el control sobre los grupos de emergencia.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1006.
 
-Los diversos grupos de emergencia registrados y reconocidos por la Unidad Municipal de Protección Civil habrán de presentarle periódicamente sus programas de capacitación y adiestramiento en las diversas modalidades que pueden comprender: rescate aéreo, acuático y terrestre. Deberán manifestar el tipo de equipo con que cuentan listado o nómina de miembros que integren o conformen dichos grupos, y los reportes de altas o bajas cada vez que esas ocurran.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1007.
 
-La Unidad Municipal de Protección Civil otorgará identificación a los elementos de los grupos de emergencia que a su consideración y por reporte de actividades que realiza, se estime otorgar.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO I. De la Planeación del Desarrollo Urbano y Rural
 
 ###### ARTICULO 1008.
 
-La Unidad Municipal de Protección Civil normará los procedimientos de apoyo, a que habrán de quedar sujetos los diferentes grupos de seguridad, rescate, emergencia u otros similares.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1009.
 
-El Rango de Acción de los diferentes Cuerpos o Grupos de Seguridad, Rescate o Emergencias, se habrán de sujetar a los diferentes procedimientos de servicio de la Unidad Municipal de Protección Civil y los que le sean señalados por estos, con el fin de evitar en lo posible toda obstaculización de los servicios de emergencia y lograr actuar en forma coordinada y eficiente.
-
-Los Grupos de Emergencia establecidos en el territorio Municipal, habrán de prestar sus servicios en beneficio de la comunidad, cada vez que sean requeridos de los mismos.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ### CAPITULO II. De las Construcciones
 
 ###### ARTICULO 1010.
 
-El Patronato para el Auxilio a Damnificados, Bomberos y Protección Civil lo conformará la ciudadanía, ya sean personas físicas o morales, asociaciones, cámaras y particulares, para el apoyo a los ciudadanos que por siniestro o desastre fueron afectados y requieren del auxilio y recuperación de su anterior situación en lo posible.
-
-Coadyuvará con el H. Ayuntamiento en fortalecer a la Unidad Municipal de Protección Civil y el Departamento de Bomberos con recursos materiales e insumos para contar con mayor eficacia ante los incendios, explosiones, inundaciones, derrumbes, demoliciones, salvamento y rescate de personas y cuerpos inertes, atención médica prehospitalaria, control de sustancia químicas en fuga y derrame, control de materiales radioactivos y otros, con un servicio eficiente a la comunidad entre otras.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1011.
 
-Los recursos de este Patronato serán empleados en las actividades descritas en el Artículo anterior y serán regidas por un Órgano Administrativo que forma parte de este Patronato; lo presidirá el Presidente Municipal o la persona que designe la Secretaría del H. Ayuntamiento y Director General de Gobierno, el Secretario de Consejo de Protección Civil, la Tesorería, la persona que destine el Consejo de entre sus miembros y los Vocales de los voluntarios que conforman el Patronato.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1012.
 
-Los donativos que reciba este patronato vía capacitación por la Unidad Municipal de Protección Civil y del Departamento de Bomberos se emplearán en la superación profesional de los mismos elementos activos y voluntarios.
-
-Asimismo se emplearán en la adquisición de equipo de capacitación, equipo de protección y materiales indispensables para el adiestramiento del personal que conforma la Unidad de Protección Civil Municipal.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 ###### ARTICULO 1013.
 
-El Patronato proveerá a los albergues provisionales que se establecen por motivo de desastres, con los recursos en su haber y deberán contar con la estructura para ello, activando la promoción de apoyo de la ciudadanía.
-
-Ayudará también a los ciudadanos que por un siniestro se encuentren desprovistos de recursos según las condiciones que prevalezcan en ese momento en el Patronato.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
 # LIBRO OCTAVO. DEL DESARROLLO URBANO
 
@@ -20266,3 +19988,19 @@ P.O. 24 DE MARZO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes de manera simultánea en todo el territorio municipal.
+
+SEGUNDO.- El Reglamento Interior del Consejo Municipal de Protección Civil a que se refiere este Reglamento; deberá expedirse en un plazo no mayor de 90 días, contados a partir de la vigencia del presente Reglamento.
+
+TERCERO.- El Consejo Municipal de Protección Civil y la Unidad Municipal de Protección Civil se deberán instalar o reinstalar en un plazo no mayor de treinta días naturales, contados a partir del día siguiente al de la vigencia de este Reglamento.
+
+CUARTO.- El Programa de Protección Civil Municipal deberá expedirse o actualizarse, en un plazo no mayor de sesenta días naturales a partir del día siguiente al de la vigencia del presente Reglamento.
+
+QUINTO.- Se derogan los artículos 945 al 1013 contenidos en el Libro Séptimo denominado de la Protección Civil del Código Municipal de San Francisco de los Romo, publicado en Periódico Oficial en fecha 12 de febrero de 2007.
+
+SEXTO.- Se derogan todas las disposiciones municipales que se opongan al presente Reglamento y a su Ley.
+
+SÉPTIMO.- En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de este Reglamento.
