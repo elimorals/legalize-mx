@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2007-06-25"
+last_updated: "2008-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -212,6 +212,34 @@ Una vez concluido el proceso de preparación y aprobación interna de los proyec
 ###### ARTICULO 19.
 
 El Proyecto de Presupuesto de Egresos del Gobierno del Estado o de los Municipios que presente el Titular del Poder Ejecutivo a la H. Legislatura o el Presidente Municipal al Ayuntamiento en su caso, deberá ir acompañado de una Exposición de Motivos en la que se describan, como mínimo, las condiciones económico-sociales que prevalezcan en el Estado o Municipio, la situación financiera y hacendaria.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2008)</small>
+
+ARTICULO 19 A.- El monto a ejercer considerado en el Presupuesto de Egresos, no podrá exceder el importe que señale la Ley de Ingresos correspondiente.
+
+El Presupuesto de Egresos se integrará, al menos, con los siguientes Capítulos de Gasto:
+
+I. Servicios Personales.
+
+II. Materiales y Suministros.
+
+III. Servicios Generales.
+
+IV. Transferencias.
+
+V. Bienes Muebles e Inmuebles.
+
+VI. Obras Públicas.
+
+VII. Inversiones Financieras.
+
+VIII. Deuda Pública.
+
+El Presupuesto de Egresos comprenderá las erogaciones por concepto de gasto corriente, transferencias, gasto de inversión en obras y acciones, inversión financiera, servicios de deuda pública y subsidios. En el de obras públicas se deberá especificar el monto asignado a cada obra pública.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2008)</small>
+
+ARTICULO 19 B.- Los capítulos se dividirán en subcapítulos y partidas de gasto, que representarán las autorizaciones específicas del presupuesto, mediante catálogos que determinen la Secretaría de Finanzas y las Tesorerías Municipales en el caso de los municipios, procurando que exista congruencia y homogeneidad entre ambos niveles de gobierno.
 
 ###### ARTICULO 20.
 
@@ -500,3 +528,9 @@ El presente Decreto tendrá vigencia a partir del día siguiente de su publicaci
 El Titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes en un plazo que no deberá exceder de 90 días contados a partir de la fecha de su publicación.
 
 Por lo que respecta a los Poderes Legislativo, Judicial y los Municipios, aplicarán dicho Reglamento en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios Órganos de control.
+
+P.O. 25 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
