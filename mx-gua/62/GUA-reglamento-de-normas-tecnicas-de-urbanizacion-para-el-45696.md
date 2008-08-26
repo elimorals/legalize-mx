@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-normas-tecnicas-de-urbanizacion-para-el-45696"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-08"
-last_updated: "2008-06-10"
+last_updated: "2008-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE NORMAS TECNICAS DE URBANIZACION PARA EL MUNICIPIO DE SILAO, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de julio de 2005.
 
@@ -621,7 +621,7 @@ I.- Áreas de circulación peatonal en áreas comunes;
 
 II.- Áreas de equipamiento urbano en función de las superficies y viviendas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
 
 III.- Áreas verdes;
 
@@ -1223,9 +1223,17 @@ b) Cuando se trate de persona moral, copia de la escritura constitutiva inscrita
 
 c) Levantamiento topográfico suscrito por perito profesional;
 
-d) Constancia de suficiencia de servicios de agua potable y alcantarillado, y de energía eléctrica, expedida por los organismos operadores correspondientes, tratándose de predios urbanos; y,
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2008)</small>
 
-e) Plano avalado por el perito fiscal autorizado por el Municipio de Silao, Guanajuato, que contenga la propuesta de división, con superficie, medidas y colindancias, garantizando la servidumbre de paso a los predios resultantes de una división de predios urbanos. Y en caso necesario presentar Plano de levantamiento topográfico que incluya las calles colindantes y la infraestructura existente.
+d) Constancia de suficiencia de servicios de agua potable y alcantarillado, y de energía eléctrica, expedida por los organismos operadores correspondientes, tratándose de predios urbanos;
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2008)</small>
+
+e) Plano avalado por el perito fiscal autorizado por el Municipio de Silao, Guanajuato, que contenga la propuesta de división, con superficie, medidas y colindancias, garantizando la servidumbre de paso a los predios resultantes de una división de predios urbanos. Y en caso necesario presentar Plano de levantamiento topográfico que incluya las calles colindantes y la infraestructura existente, y,
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2008)</small>
+
+f) Certificado de libertad de gravámenes actualizado.
 
 ###### Artículo 104.
 
@@ -1636,3 +1644,13 @@ Se derogan todas las disposiciones administrativas que se opongan al presente re
 ###### ARTÍCULO TERCERO.
 
 El Instituto Municipal de Vivienda de Silao y la Dirección, en coordinación con las dependencias y entidades públicas de la Administración Pública Municipal, dentro de los 120 días siguientes a la entrada en vigor del presente ordenamiento, establecerán los lineamientos y criterios generales a que deberán sujetarse ,los convenios que se celebren entre el citado organismo y los particulares para la ejecución de fraccionamientos que se realicen bajo el procedimiento constructivo de urbanización progresiva previsto en el artículo 50 del presente reglamento.
+
+P.O. 26 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones administrativas que se opongan al presente reglamento.
