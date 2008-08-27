@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-procedimientos-electorales-del-estado-de-chiapas-44544"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-17"
-last_updated: "2005-03-17"
+last_updated: "2008-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE ELECCIONES Y PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 27 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de marzo de 2005.
 
@@ -1082,3 +1084,29 @@ Dado en el salón de sesiones del Honorable congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez Chiapas; a los catorce días del mes de marzo del año dos mil cinco.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén Velázquez López, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor en un término de 30 días hábiles, contados a partir del siguiente a su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abrogan el Código Electoral del Estado de Chiapas, la Ley Orgánica de la Contraloría de la Legalidad Electoral y la Ley de Procedimientos Electorales del Estado de Chiapas, contenidos en los Decretos 175, 134 y 136, visibles, el primero de ellos, en el Periódico Oficial número 033, de fecha 06 de mayo de 1995, y los restantes en el Periódico Oficial 294, de fecha jueves 17 de marzo de 2005; así como las reformas y demás disposiciones derivadas a éstos ordenamientos, que se opongan al presente Decreto.
+
+Los procedimientos que los organismos electorales tuviesen instaurados con antelación a la entrada en vigor del presente Decreto y de sus normas reglamentarias, se substanciarán con las disposiciones vigentes al momento de su inicio.
+
+Artículo Tercero.- Como excepción a lo dispuesto en el artículo 439 del presente Código, por única ocasión, y exclusivamente a lo concerniente al proceso electoral estatal del año dos mil diez, se estará a lo siguiente:
+
+El Juicio de Nulidad Electoral deberá resolverse por el Tribunal de Justicia Electoral y Administrativa, dentro de los siguientes plazos:
+
+I. Para la elección de Gobernador, a más tardar el día treinta de septiembre.
+
+II. Para la elección de Diputados, a más tardar el día treinta y uno de octubre.
+
+III. Para la elección de miembros de Ayuntamientos, a más tardar el día treinta de noviembre.
+
+Artículo Cuarto.- El Tribunal de Justicia Electoral y Administrativa, el Instituto de Elecciones y Participación Ciudadana y la Comisión de Fiscalización Electoral, contarán con un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigencia del presente Decreto, para emitir las disposiciones reglamentarias que deriven en el ámbito de su competencia.
+
+Artículo Quinto.- Se instruye a la Dependencia normativa del Poder Ejecutivo del Estado, para que en el ámbito de su competencia, lleve a cabo las acciones presupuestarias que sean necesarias para la adecuación y constitución de la estructura orgánica y funcional del Instituto de Elecciones y Participación Ciudadana y de la Comisión de Fiscalización Electoral, lo anterior conforme a las disposiciones del presente Decreto y de las disposiciones reglamentarias emitidas por estos organismos.
+
+Artículo Sexto.- Se derogan las disposiciones que se opongan al presente Decreto, con las salvedades previstas en el mismo.
