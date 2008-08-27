@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2008-08-20"
+last_updated: "2008-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -15415,7 +15415,9 @@ Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los c
 
 ### CAPITULO I.
 
-De las Oficinas del Registro.
+Disposiciones Generales.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2878.
 
@@ -15425,9 +15427,13 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas ni al origen de los créditos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2008)</small>
+
 ## TITULO II.
 
-Del Registro Público.
+Del Registro Público de la Propiedad.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II.
 
@@ -15435,17 +15441,57 @@ De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
 
 ###### Artículo 2880.
 
-El Ejecutivo del Estado designará las poblaciones en donde deba establecerse la oficina denominada "REGISTRO PÚBLICO".
+El Registro Público de la Propiedad tiene por objeto dar publicidad a los actos jurídicos para que surtan efectos contra terceros. Las inscripciones en el mismo deben constar en libros de registro o en folios electrónicos, los cuales tienen efectos declarativos y no constitutivos.
+
+Con la finalidad de preservar la seguridad jurídica de los actos registrados se deberán aplicar los principios de publicidad, inscripción, legitimación, rogación, consentimiento, prelación, calificación registral, especialización y tracto sucesivo.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2881.
 
-El Reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
+El Registro Público de la Propiedad se rige por las disposiciones de este Código y el reglamento respectivo, sus oficinas se establecerán en cada cabecera municipal y se les denominará "Oficina del Registro Público de la Propiedad."
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2882.
 
-El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El Registro será público, por lo que los encargados del mismo tienen obligación de:
+
+I. Permitir a las personas que lo soliciten, se enteren de las inscripciones y de los documentos relacionados con las mismas;
+
+II. Expedir copias certificadas que les soliciten; y,
+
+III. Expedir certificaciones de no existencia de inscripciones.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1462.
+
+La certificación podrá autentificarse con firma autógrafa o electrónica del servidor público facultado legalmente para ello. Las copias certificadas así expedidas tendrán valor jurídico probatorio.
+
+Todos los servicios registrales y documentos a que se hacen referencia en el presente Código que sean proporcionados mediante un mensaje de datos con firma electrónica, tienen plena validez y eficacia jurídica.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2882 Bis.
+
+Para los efectos del presente Título, se reconoce como:
+
+l. Firma Electrónica: la firma que se utilice como forma de autentificar con medios electrónicos la autorización del servidor público competente, y con la cual el firmante aprueba los datos contenidos en los documentos así expedidos, según el sistema que se implemente en el Registro Público de la Propiedad y su reglamento, en el que se deberán utilizar mecanismos confiables para evitar su falsificación;
+
+II. Folio Electrónico: al expediente con toda la información referida a un mismo mueble, inmueble o persona jurídica, considerado cada uno de éstos como una unidad registral con historial jurídico propio, cuya información deba ser procesada de manera electrónica o en forma manual;
+
+III. Mensaje de Datos: a la información generada, enviada, recibida o archivada por medios electrónicos y, en general, cualquier documento que se encuentre en soporte electrónico y firmado electrónicamente;
+
+IV. Registrador: funcionario depositario de fe pública registral; y,
+
+V. Sistema Informático Registral: es la herramienta tecnológica a la que se sujetará la operación automatizada de los procesos en todas las oficinas del Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2882 Bis- A.
+
+Para el mejor desempeño de sus funciones los registradores, servidores públicos y demás empleados del Registro, deberán actuar con apego a este Código, su Reglamento, Manual de Organización y Procedimientos y demás disposiciones legales aplicables.
+
+El Registro Público podrá recibir la documentación que se pretenda registrar y continuar el trámite correspondiente de manera manual e irá implementando el Sistema Informático Registral gradualmente, conforme se provea de los recursos tecnológicos y humanos para su modernización.
 
 ### CAPITULO III.
 
@@ -15517,7 +15563,9 @@ Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a a
 
 No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
-En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio, contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento a no ser que hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio, contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro Público de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento a no ser que hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
 
 ###### Artículo 2890.
 
@@ -15559,9 +15607,11 @@ En el caso a que se refiere la parte final del artículo anterior, el registrado
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 2896.
 
-Toda inscripción que se haga en el Registro expresará las ciscunstancias (sic) siguientes:
+Todo acto que se pretenda inscribir en el Registro, expresará las circunstancias siguientes:
 
 I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, la referencia al registro anterior en donde consten esos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
 
@@ -15583,23 +15633,21 @@ VIII.- El día y la hora de la presentación del título en el Registro.
 
 El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que causa a los interesados y sufrirá una suspensión de empleo por tres meses.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 2898.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+El registro producirá sus efectos desde el día y la hora en que el pago de los derechos de registro se haya cubierto, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
-###### ARTICULO 2899.
+###### Artículo 2899.
 
-Cuando un Notario o autoridad judicial que actúe por receptoría en los términos de la Ley del Notariado tenga constancia de que ante él se va a otorgar un acto jurídico o escritura en la que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, podrá solicitar al Registro Publico certificado de existencia o inexistencia de gravámenes en relación con los inmuebles aludidos. Recibida que sea la solicitud, el Registrador hará la anotación respectiva al margen de la inscripción de la propiedad, y surtirá efectos de aviso preliminar contra terceros con vigencia de treinta días naturales a partir de la fecha de su presentación. Dicha solicitud deberá mencionar además el tipo de operación e identificar el inmueble de que se trate, los nombres de los otorgantes y la indicación del número, tomo y sección en que estuviere el antecedente de propiedad en el Registro Público.
+Cuando un Notario o autoridad judicial que actúe por receptoría en los términos de la Ley del Notariado tenga constancia de que ante él se va a otorgar un acto jurídico o escritura en la que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, podrá solicitar al Registro Público de la Propiedad certificado de existencia o inexistencia de gravámenes en relación con los inmuebles aludidos. Recibida la solicitud, el registrador hará la anotación respectiva al margen de la inscripción de la propiedad, y surtirá efectos de aviso preliminar contra terceros con vigencia de treinta días naturales a partir de la fecha de su presentación. Dicha solicitud deberá mencionar además el tipo de operación e identificar el inmueble de que se trate, los nombres de los otorgantes y la indicación de los datos del libro de registro o folio electrónico en que estuviere el antecedente de propiedad.
 
-Una vez que se firme la escritura o acto jurídico a que se refiere el párrafo anterior, haya habido o no aviso preliminar, el Notario o autoridad que la autorice dará al Registro Publico un aviso que contendrá los mismos datos que se indican para el aviso preliminar, y, en su caso, la relacionará con la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido algún derecho real sobre la propiedad o posesión registrada, señalando los nombres de los interesados en la operación, la fecha y número de la escritura y la de su firma.
+Una vez que se firme una escritura o acto jurídico a que se refiere el párrafo anterior, haya habido o no aviso preliminar, el Notario o la autoridad que la autorice dará al Registro Público un aviso que contendrá los mismos datos que se indican para el aviso preliminar y, en su caso, la relacionará con la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido algún derecho real sobre la propiedad o posesión registrada, señalando los nombres de los interesados en la operación, la fecha y número de la escritura y los datos del libro de registro o folio electrónico en que estuviere inscrita.
 
-El Registrador con el aviso del Notario o de la autoridad en los términos del párrafo que antecede, hará inmediatamente una anotación preventiva al margen de la inscripción de la propiedad o posesión, la cual tendrá vigencia y surtirá efectos contra terceros durante treinta días naturales adicionales a los señalados en el primer párrafo; si dentro de los treinta días señalados a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha del aviso preliminar a que se refiere el primer párrafo o en defecto de él, desde la fecha del aviso a que se refiere el párrafo anterior, lo cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar los avisos a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2892 y el mencionado aviso producirá los mismos efectos que los dados por el Notario.
-
-El Registrador realizará las anotaciones tanto preliminar como preventiva, a que se refiere este articulo, sin cobro de derecho alguno.
+El registrador con el aviso en los términos del párrafo que antecede, hará inmediatamente una anotación preventiva al calce de los datos de inscripción de la propiedad o posesión o en el folio electrónico correspondiente, la cual tendrá vigencia y surtirá efectos contra terceros durante treinta días naturales adicionales a los señalados en el primer párrafo, si dentro de los treinta días señalados a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
 
 ###### Artículo 2900.
 
@@ -15619,37 +15667,51 @@ En los casos de los números I y II del artículo que precede, los interesados h
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 2903.
 
-El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+El Reglamento del Registro establecerá los derechos y obligaciones de los registradores, así como los procedimientos y demás requisitos que deben llenar las inscripciones.
 
 ### CAPITULO V.
+
+De las Anotaciones Marginales, Rectificación y Extinción de las Inscripciones en Libros de Registro o Folios Electrónicos.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2904.
 
 El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1154, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
 
-La información se recibirá con citación del Ministerio Público, del respectivo registrador de la Propiedad y de los colindantes.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+La información se recibirá con citación del Ministerio Público, del respectivo registrador del Registro y de los colindantes.
 
 Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
 
 No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
 
-Comprobada debidamente la posesión, el Juez mandará pretocolizar (sic) las diligencias que resulten en la Notaría que designe el promovente. El testimonio que se expida deberá ser inscrito en el Registo (sic) Público.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 1948)</small>
+Comprobada debidamente la posesión, el Juez mandará protocolizar las diligencias que resulten en la Notaría que designe el promovente. El testimonio que se expida deberá ser inscrito en el Registro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO VI.
 
-De la Extinción de las Inscripciones.
+De las Certificaciones.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2905.
 
-(DEROGADO, P.O. 15 DE MAYO DE 1948)
+Las anotaciones marginales se asentarán en los libros de registro o en el folio electrónico de la propiedad correspondiente que diere lugar a la anotación.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2906.
 
-(DEROGADO, P.O. 15 DE MAYO DE 1948)
+La rectificación de las inscripciones en los libros de registro o folios electrónicos por causa de error material o de concepto, sólo procede cuando existe discrepancia entre el título y la inscripción.
 
 ###### Artículo 2907.
 
@@ -15663,17 +15725,25 @@ De la Extinción de las Inscripciones.
 
 (DEROGADO, P.O. 15 DE MAYO DE 1948)
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2910.
 
 Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión de dominio, o derecho real inscrito a otra persona.
+
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
 
 ###### Artículo 2911.
 
 Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2912.
 
 La cancelación de las inscripciones podrá ser total o parcial.
+
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
 
 ###### Artículo 2913.
 
@@ -15691,6 +15761,8 @@ V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el c
 
 VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2914.
 
 Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
@@ -15699,25 +15771,37 @@ I.- Cuando se reduzca el inmueble objeto de la inscripción;
 
 II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2915.
 
 Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
 
 ###### Artículo 2916.
 
 Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2917.
 
 Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajena.
+
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
 
 ###### Artículo 2918.
 
 Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2919.
 
 Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
 
 ###### Artículo 2920.
 
@@ -15729,9 +15813,13 @@ II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se 
 
 III.- Por ofrecimiento de pago y consignación del importe de los títulos hechos de acuerdo con las disposiciones relativas.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2921.
 
 Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
 
 ###### Artículo 2922.
 
@@ -15739,17 +15827,101 @@ Procederá también, la cancelación total si se presentasen, por lo menos, las 
 
 La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2923.
 
 Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
 
 ###### Artículo 2924.
 
 Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener para su validez, los datos necesarios a fin de que con toda exactitud se conozca cual es la inscripción que se cancela, la causa por que se hace la cancelación y su fecha.
 
+(REUBICADO, P.O. 27 DE AGOSTO DE 2008)
+
 ###### Artículo 2925.
 
 Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+### CAPITULO VII.
+
+Sistema Informático Registral.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2926.
+
+El Registro tiene obligación de expedir, a quien lo solicite, mediante el pago de derechos respectivo, certificaciones literales o en extracto de las inscripciones o constancias asentadas en los libros de registro o folios electrónicos y demás archivos existentes de conformidad a lo establecido en el presente Código. Las certificaciones expedidas por el Registro, cuya información se encuentre contenida en el archivo del mismo, tendrán el carácter de documento público.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2927.
+
+Los certificados se expedirán en la forma y términos previstos en el Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2008)</small>
+
+### CAPITULO VIII.
+
+De los Medios de Impugnación.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2928.
+
+El Sistema Informático Registral utilizará cualquier medio electrónico, óptico u otra tecnología para generar, enviar, recibir, archivar, reproducir o procesar información respecto de los actos registrales contenidos en el acervo documental del Registro.
+
+Mediante los sistemas previstos en el Reglamento se realizará la captura, almacenamiento, custodia, seguridad, reproducción, consulta, verificación, administración, transmisión y extracción de la información registral.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2929.
+
+La información y las imágenes contenidas en la base de datos, tendrán la misma validez jurídica y probatoria que la contenida en los libros de registro, ésta deberá ser respaldada en medios magnéticos, los cuales serán almacenados bajo la responsabilidad del Registro.
+
+El sistema informático y la base de datos serán propiedad del Gobierno del Estado.
+
+En caso de existir discrepancia o presunción de alteración de la información del Registro que se encuentre contenida dentro de las bases de datos, o en cualquiera de los respaldos que se hayan instalado, prevalecerá la información contenida en el documento que dio origen al registro, salvo prueba en contrario.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2930.
+
+Para el caso de las inscripciones por medios electrónicos, se autoriza el uso de formas precodificadas, con los requisitos precisados en el Reglamento, para la integración del folio electrónico y su almacenamiento en la base de datos.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2931.
+
+El Registro podrá dar acceso a su sistema informático:
+
+I. En sus instalaciones; o
+
+II. Por vía remota a quienes lo soliciten y cumplan con los requisitos que se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2932.
+
+La consulta a través del sistema informático no autoriza en ningún caso a modificar los contenidos registrales.
+
+La violación de lo señalado en el párrafo anterior será sancionada por el Código Penal para el Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2933.
+
+Se otorga valor jurídico a los mensajes de datos siempre y cuando se encuentren asociados de una firma electrónica.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2008)</small>
+
+###### Artículo 2934.
+
+Procede el recurso de reconsideración contra las resoluciones de los registradores que suspendan o nieguen el servicio de registro regulado en este Código, su procedimiento se fijará en el Reglamento respectivo.
 
 ## Artículos Transitorios.
 
@@ -16110,3 +16282,9 @@ P.O. 20 DE AGOSTO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial" El Estado de Sinaloa".
