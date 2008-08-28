@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-gobierno-52388"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-03"
-last_updated: "2007-09-20"
+last_updated: "2008-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección I al Boletín Oficial del Estado de Sonora, el viernes 3 de noviembre de 2006.
 
@@ -41,7 +41,7 @@ La Secretaría de Gobierno, como dependencia del Poder Ejecutivo Estatal, tiene 
 
 Para la atención, estudio, planeación, despacho y resolución de los asuntos de su competencia, la Secretaría de Gobierno contará con las siguientes unidades administrativas y órganos desconcentrados:
 
-> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
 I.- Unidades Administrativas:
 
@@ -49,7 +49,7 @@ Oficina del Titular de la Secretaría.
 
 Subsecretaría "A" de Gobierno.
 
-Subsecretaría “B” de Gobierno.
+Subsecretaría "B" de Gobierno.
 
 Subsecretaría del Trabajo.
 
@@ -57,11 +57,13 @@ Coordinación Estatal de Comunicación Social.
 
 Coordinación Ejecutiva de Relaciones Públicas y Eventos.
 
-Coordinación Ejecutiva de la Representación del Gobierno del Estado en San Luis Rio Colorado.
+Coordinación Ejecutiva de la Representación del Gobierno del Estado en San Luis Río Colorado.
+
+Coordinación Ejecutiva de la Representación del Gobierno del Estado en Caborca.
 
 Dirección General de Gobierno.
 
-Dirección General de Notarias.
+Dirección General de Notarías.
 
 Dirección General del Registro Civil.
 
@@ -93,13 +95,13 @@ Coordinación General de Administración y Control Presupuestal.
 
 Dirección General de Sistemas de Información.
 
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
 II.- Órganos Desconcentrados:
 
 Oficialías del Registro Civil.
 
 Unidad Estatal de Protección Civil.
-
-Centro Estatal de Desarrollo Municipal.
 
 Consejo Estatal de Población.
 
@@ -364,6 +366,34 @@ VII.- Coadyuvar en las gestiones relacionadas con el Gobierno del Estado ante el
 VIII.- Actualizar y enviar al titular de esta dependencia los directorios de instituciones y personas relacionadas al buen funcionamiento del Gobierno del Estado;
 
 IX.- Informar permanentemente al Gobernador del Estado y a las instancias y niveles que determinen sobre las noticias internacionales, nacionales y regionales que impacten al desarrollo del municipio de San Luis Río Colorado, Sonora;
+
+X.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+
+XI.- Las demás que le confieren las disposiciones legales aplicables, el Gobernador del Estado y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+###### ARTÍCULO 11 Bis 1.
+
+La Coordinación Ejecutiva de la Representación del Gobierno del Estado en Caborca, tendrá las siguientes atribuciones:
+
+I.- Representar al Gobierno del Estado en el Municipio de Caborca, ante dependencias públicas, privadas y organismos de la sociedad civil para tramitar, promover, gestionar, difundir y vincular actividades y asuntos relacionados con el desarrollo y bienestar del Estado;
+
+II.- Asegurar y propiciar en coordinación con la Ayudantía, las condiciones de seguridad y logística que demanda la investidura del Titular del Poder Ejecutivo del Estado durante su estancia en el Municipio de Caborca;
+
+III.- Apoyar, trasladar y atender a funcionarios del Gobierno del Estado de Sonora en sus actividades oficiales en el Municipio de Caborca;
+
+IV.- Promover actividades políticas, culturales, económicas y todas aquellas que sean necesarias para promover en forma eficaz los programas del Gobierno del Estado;
+
+V.- Atender y apoyar en promoción e información a la comunidad sonorense que resida o viaje al Municipio de Caborca, en lo relativo a programas que desarrolla el Gobierno del Estado, dando seguimiento hasta llegar a su respectiva conclusión;
+
+VI.- Mantener un diálogo propositivo y de intercambio con los representantes de los organismos privados como productores, comerciantes e industriales, con el fin de fomentar los programas del Gobierno del Estado;
+
+VII.- Coadyuvar en las gestiones relacionadas con el Gobierno del Estado ante el Gobierno Municipal e instituciones públicas y privadas cuando sean encomendadas por el Titular del Poder Ejecutivo o por las dependencias estatales;
+
+VIII.- Actualizar y enviar al titular de esta dependencia los directorios de instituciones y personas relacionadas al buen funcionamiento del Gobierno del Estado;
+
+IX.- Informar permanentemente al Gobernador del Estado y a las instancias y niveles que determinen, sobre las noticias internacionales, nacionales y regionales que impacten al desarrollo del municipio de Caborca, Sonora;
 
 X.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
 
@@ -927,11 +957,11 @@ VIII.- Las demás que le confieren las disposiciones legales aplicables y el tit
 
 Para la más eficaz atención y eficiente despacho de los asuntos de la competencia de la Secretaría de Gobierno, ésta contará con órganos desconcentrados, que le estarán jerárquicamente subordinados y que gozarán de autonomía técnica.
 
-> <small>(REFORMADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 31.
 
-El Centro Estatal de Desarrollo Municipal, el Consejo Estatal de Población, las Juntas Locales de Conciliación y Arbitraje, las Oficialías del Registro Civil y la Unidad Estatal de Protección Civil, tienen el carácter de órganos desconcentrados de la Secretaría de Gobierno y se regirán por sus respectivos ordenamientos jurídicos de creación, por las disposiciones aplicables de este Reglamento y por las que, en su caso, determinen el Gobernador del Estado o el Secretario de Gobierno en la esfera de sus atribuciones. Los titulares de los órganos desconcentrados, tendrán atribuciones de expedir copias certificadas de las constancias existentes en sus archivos. El Centro Estatal de Desarrollo Municipal, el Consejo Estatal de Población y la Unidad Estatal de Protección Civil estarán directamente adscritos al Titular de la dependencia, las Juntas Locales de Conciliación y Arbitraje serán coordinadas directamente por la Subsecretaría del Trabajo, y las Oficialías del Registro Civil serán coordinadas directamente por la Dirección General del Registro Civil.
+El Consejo Estatal de Población, las Juntas Locales de Conciliación y Arbitraje, las Oficialías del Registro Civil y la Unidad Estatal de Protección Civil, tienen el carácter de órganos desconcentrados de la Secretaría de Gobierno y se regirán por sus respectivos ordenamientos jurídicos de creación, por las disposiciones aplicables de este Reglamento y por las que, en su caso, determinen el Gobernador del Estado o el Secretario de Gobierno en la esfera de sus atribuciones. Los titulares de los órganos desconcentrados, tendrán atribuciones de expedir copias certificadas de las constancias existentes en sus archivos. El Consejo Estatal de Población y la Unidad Estatal de Protección Civil serán coordinados por la Subsecretaría "A" de Gobierno, las Juntas Locales de Conciliación y Arbitraje serán coordinadas directamente por la Subsecretaría del Trabajo, y las Oficialías del Registro Civil serán coordinadas directamente por la Dirección General del Registro Civil.
 
 > <small>(REFORMADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
 
@@ -939,11 +969,11 @@ El Centro Estatal de Desarrollo Municipal, el Consejo Estatal de Población, las
 
 La Unidad Estatal de Protección Civil como órgano desconcentrado ejercerá las atribuciones que le confiere la Ley de Protección Civil para el Estado de Sonora, así como los demás ordenamientos jurídicos aplicables y estará directamente adscrito al Titular de la dependencia.
 
-> <small>(REFORMADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 33.
 
-El Centro Estatal de Desarrollo Municipal y el Consejo Estatal de Población como órganos desconcentrados estarán sujetos para su funcionamiento a la organización, dirección, control y vigilancia de la dependencia, y ejercerán las funciones que les confieran sus respectivos Decretos de creación, así como los demás ordenamientos jurídicos aplicables.
+El Consejo Estatal de Población como órgano desconcentrado estará sujeto para su funcionamiento a la organización, dirección, control y vigilancia de la dependencia, y ejercerán las funciones que le confiera su respectivo Decreto de creación, así como los demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 34.
 
@@ -992,3 +1022,21 @@ B.O. 20 DE SEPTIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 28 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, el día 1° de septiembre de 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda sin efecto el Acuerdo emitido por el C. Secretario de Gobierno, en el que se delega en el Vocal Ejecutivo del Centro Estatal de Desarrollo Municipal, la atribución de autorizar el ejercicio del presupuesto del presente ejercicio fiscal, asignado al órgano desconcentrado a su cargo, publicado en el Boletín Oficial número 1, Sección I, de fecha 3 de enero de 2008.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos financieros, materiales y humanos asignados al Centro Estatal de Desarrollo Municipal, serán reasignados a la Secretaría de Desarrollo Social, en virtud de su incorporación a esa dependencia.
+
+###### ARTÍCULO CUARTO.
+
+Se abrogan todas aquellas disposiciones que se opongan al presente Reglamento.
