@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-colegio-de-bachilleres-del-estado-de-sonora-841
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-12"
-last_updated: "1996-05-27"
+last_updated: "2008-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL DEL ESTADO: 27 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL DEL ESTADO: 28 DE AGOSTO DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 12 de julio de 1975.
 
@@ -39,17 +39,23 @@ L E Y
 
 QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE SONORA.
 
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 1o.
 
-El Estado fomentará, en los términos de esta Ley, la enseñanza medio-superior. Se crea el Colegio de Bachilleres de Sonora como organismo público descentralizado, con personalidad jurídica y patrimonio propios y domicilio en la ciudad de Hermosillo, Sonora.
+Se crea el Colegio de Bachilleres del Estado de Sonora, como un organismo descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, con el objeto de impartir e impulsar la educación de tipo medio superior correspondiente al nivel de bachillerato, y con domicilio en la Ciudad de Hermosillo, Sonora.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 2o.
 
-El Colegio de Bachilleres tendrá por objeto impartir e impulsar la educación correspondiente al ciclo superior de nivel medio y tendrá las siguientes facultades:
+El Colegio de Bachilleres del Estado de Sonora, en adelante el Colegio, para el cumplimiento de su objeto, tendrá las siguientes facultades y obligaciones:
 
 I.- Establecer, organizar, administrar y sostener planteles en los lugares del Estado que estime conveniente;
 
-II.- Impartir educación del mismo ciclo a través de las modalidades escolar y extraescolar;
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+II.- Impartir e impulsar educación de tipo medio superior a través de las modalidades de escolar y extraescolar; o bien por cualquier modalidad educativa, de manera que permita al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva y que permita asimismo al trabajador estudiar; así como promover e impulsar entre los educandos actividades de orden académico, de investigación, artístico, deportivo, cultural y cívico;
 
 > <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
 
@@ -57,13 +63,27 @@ III.- Expedir certificados de estudio y otorgar diplomas;
 
 IV.- Otorgar o retirar reconocimiento de validez a estudios realizados en planteles particulares que impartan el mismo ciclo de enseñanza;
 
-V.- Auspiciará el establecimiento de planteles particulares en los que se imparta el mismo ciclo educativo, y
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-VI.- Ejercer las demás que sean afines con las anteriores.
+V.- Auspiciar el establecimiento de planteles particulares en los que se imparta el mismo ciclo educativo;
+
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+VI.- Llevar a cabo los actos jurídicos necesarios para el cumplimiento de su objeto y función;
+
+> <small>(ADICIONADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+VII.- Celebrar acuerdos y convenios con instituciones de gobierno y educativas, nacionales e internacionales, y con personas físicas para el cumplimiento de su objeto; y
+
+> <small>(ADICIONADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+VIII.- Ejercer las demás que sean afines con las anteriores.
+
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 3o.
 
-El Colegio de Bachilleres de Sonora se regirá por los planes de organización académica de la Secretaría de Educación Pública.
+El Colegio se regirá por los planes de organización académica de la Secretaría de Educación Pública y de la Secretaría de Educación y Cultura del Estado de Sonora.
 
 ###### ARTICULO 4o.
 
@@ -71,33 +91,47 @@ El patrimonio del Colegio estará constituido por:
 
 I.- Los ingresos que obtenga por los servicios que preste;
 
-II.- Los fondos que le asigne la Secretaría de Educación Pública o el Consejo Nacional de Fomento Educativo;
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-III.- Los bienes y demás ingresos que adquiera por cualquier título legal.
+II.- Los fondos que le asigne la Secretaria de Educación Pública, el Consejo Nacional de Fomento Educativo y la Secretaría de Educación y Cultura del Estado de Sonora;
 
-> <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+III.- Las donaciones, herencias y legados que se otorguen a favor del Colegio:
+
+> <small>(ADICIONADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+IV.- Sus propiedades, posesiones, derechos y obligaciones;
+
+> <small>(ADICIONADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+V.- Las cuotas de las escuelas particulares y por cooperación incorporadas al Colegio; y
+
+> <small>(ADICIONADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+VI.- Los bienes y demás ingresos que adquiera por cualquier título legal.
+
+> <small>(ADICIONADO, B.O. 28 DE AGOSTO DE 2008)</small>
+
+ARTlCULO 4o BIS.- El Colegio, respecto de sus bienes muebles e inmuebles destinados a su objeto, gozará de los derechos que se establecen en las leyes estatales y, en lo aplicable, las federales. Dichos bienes, así como los actos y contratos que celebre el Colegio estarán exentos de toda clase de contribuciones estatales.
+
+El Colegio es una Institución educativa de acreditada solvencia moral y económica y no estará obligado a constituir depósito o fianza legal de ninguna clase, de conformidad con las disposiciones legales estatales aplicables.
+
+Los bienes inmuebles que formen parte del Colegio, serán imprescriptibles y en ningún caso podrá constituirse gravamen sobre ellos mientras estén sujetos al servicio objeto de su creación. Asimismo, serán inembargables los saldos bancarios y los ingresos que el Colegio obtenga, por cualquier título.
+
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 5o.
 
-Serán Organos de Gobierno del Colegio:
+Para el cumplimiento de su objeto, el Colegio contará con los siguientes Órganos de Gobierno y de Administración:
 
-I.- El Consejo Directivo;
+I. El Consejo Directivo; y
 
-II.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
-
-III.- El Director General;
-
-> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
-
-IV.- Los Directores de Area;
-
-V.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
-
-VI.- Los Directores de cada uno de los planteles que establezca el Colegio.
+II. El Director General.
 
 ###### ARTICULO 6o.
 
-Los acuerdos de los órganos colegiados de la institución se tomarán por mayoría de votos y el quórum se integrará con la asistencia de la mitad más uno de sus miembros. En caso de empate el Presidente tendrá voto de calidad.
+(DEROGADO, B.O. 28 DE AGOSTO DE 2008)
 
 ###### ARTICULO 7o.
 
@@ -107,11 +141,15 @@ Los acuerdos de los órganos colegiados de la institución se tomarán por mayor
 
 (DEROGADO, B.O. 27 DE MAYO DE 1996)
 
-> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 9o.
 
-El Consejo Directivo estará integrado en forma permanente por: los Secretarios de Educación y Cultura, de Planeación del Desarrollo y Gasto Público y de Finanzas; por los Rectores de la Universidad de Sonora y del Instituto Tecnológico del Estado de Sonora; por el Director del Instituto Tecnológico de Hermosillo; por el Director General del Centro de Estudios Superiores del Estado de Sonora y por el Presidente del Patronato. En caso de ausencia de los integrantes del Consejo, éstos serán suplidos por los funcionarios o representantes que ellos designen.
+El Consejo Directivo estará integrado en forma permanente por el Secretario de Educación y Cultura; por el Secretario de Hacienda; por los Rectores de la Universidad de Sonora; del Instituto Tecnológico de Sonora y del Centro de Estudios Superiores del Estado de Sonora; por el Director General del Instituto Tecnológico de Hermosillo y por un representante de la Secretaría de Educación Pública en el Estado, quien se integrará por invitación del Presidente del Consejo Directivo; los cuales tendrán derecho a voz y voto.
+
+Por cada miembro del Consejo Directivo se nombrará un suplente en los términos de las disposiciones reglamentarias al respecto.
+
+El Titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público asistirán a las sesiones del Consejo Directivo, con voz pero sin voto.
 
 ###### ARTICULO 10.
 
@@ -137,123 +175,137 @@ II.- Determinar las cuotas que deban cubrirse por los servicios educativos que p
 
 III.- Aprobar planes y programas de estudios y modalidades educativas que a su consideración someta el Director General;
 
-IV.- Resolver acerca de la conveniencia de establecer planteles destinados a impartir educación correspondiente al ciclo superior de nivel medio;
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+IV.- Resolver acerca de la conveniencia de establecer planteles destinados a impartir educación correspondiente al ciclo de nivel medio superior;
 
 V.- Determinar las bases conforme a las cuales podrá otorgar reconocimiento de validez a estudios realizados en establecimientos particulares que impartan el mismo ciclo de enseñanza;
 
 VI.- Dictar las disposiciones necesarias para revalidar y establecer equivalencias de estudios, realizados en instituciones nacionales o extranjeras que impartan el mismo ciclo educativo;
 
-VII.- Nombrar a los miembros del Patronato y removerlos por causa justificada;
+VII.- (DEROGADA, B.O. 28 DE AGOSTO DE 2008)
 
 VIII.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
 
-> <small>(REFORMADA B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-IX.- Otorgar la autorización a que se refiere el Artículo 16 de la presente ley, para que el Director General del Colegio de Bachilleres, pueda enajenar o gravar los bienes inmuebles de la institución;
+IX.- Otorgar la autorización a que se refiere el artículo 16, párrafo segundo de la presente Ley, para que el Director General pueda enajenar los bienes muebles e inmuebles del Colegio; tratándose de inmuebles de dominio público se requerirá además la previa desincorporación por la autoridad competente;
 
-> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-X.- Autorizar, los nombramientos que haga el Director General de los Directores de Area, así como su remoción;
+X.- Autorizar los nombramientos que haga el Director General de los titulares de las diversas unidades administrativas del Colegio, así como su remoción;
 
 XI.- Expedir las normas y disposiciones reglamentarias para la mejor organización y funcionamiento técnico, docente, y administrativo del Colegio;
 
-XII.- Conocer y resolver los asuntos que no sean de la competencia de algún otro órgano, y
+XII.- (DEROGADA, B.O. 28 DE AGOSTO DE 2008)
 
-> <small>(ADICIONADA, B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-XIII.- Designar y remover representantes legales y apoderados generales o especiales del Colegio; especificando en cada caso sus facultades, que podrán ser para pleitos y cobranzas, actos de administración y actos de dominio, incluyendo las facultades para presentar querellas penales y otorgar el perdón correspondiente, desistirse del juicio de amparo, absolver y articular posiciones, obligarse cambiariamente y, en general, todas aquellas facultades que conforme a la ley requieran cláusula especial;
+XIII.- Conocer en la última sesión del ejercicio fiscal las actividades del Colegio realizadas durante el último ciclo escolar concluido; y
 
-XIV.- Ejercer las demás facultades que le confiera este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
+XIV.- Ejercer las demás facultades que le confiera este ordenamiento, así como las indelegables que le confiere la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 13.
 
-El Colegio contará con un Patronato, como órgano de apoyo, que se integrará por un Presidente, un Secretario, un Tesorero y los Vocales que estime conveniente el Consejo Directivo, los patronos desempeñarán su cargo con carácter honorario; los puestos directivos se ejercerán por cuatro años, pudiendo los titulares ser reelectos para un segundo período.
+El Consejo Directivo del Colegio celebrará por lo menos tres reuniones ordinarias al año y las extraordinarias que se requieran, de conformidad con el Reglamento respectivo.
 
-> <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
+El Consejo Directivo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Los acuerdos del Consejo Directivo se tomarán por mayoría de votos y, en caso de empate, su Presidente tendrá voto de calidad.
+
+El Consejo Directivo para el desarrollo de sus sesiones se apoyará en un Secretario Técnico, quien asistirá con derecho a voz pero sin voto, y tendrá las funciones que se establezcan en el Reglamento Interior del Colegio.
 
 ###### ARTICULO 14.
 
-Corresponde al Patronato:
+(DEROGADO, B.O. 28 DE AGOSTO DE 2008)
 
-> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
-
-I.- Obtener recursos económicos complementarios a través de la realización de actividades propias, que deberán destinarse única y exclusivamente al desarrollo del Colegio, mediante el apoyo a la creación de nuevas áreas, fomento a las actividades culturales y deportivas y estímulo a la actividad académica en general;
-
-II.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
-
-III.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
-
-> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
-
-IV.- Presentar, por conducto de su Presidente a más tardar el día 20 de diciembre de cada año, un informe de las actividades realizadas durante los meses precedentes y del estado financiero que guarde el propio Patronato;
-
-V.- Ejercer las demás facultades que le confiere este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
-
-> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 15.
 
-Para ser Director General del Colegio, se deberán reunir los siguientes requisitos:
+El Director General del Colegio será nombrado y removido libremente por el Gobernador del Estado; en ningún caso durará en su encargo más de ocho años.
 
-I.- Ser ciudadano mexicano;
+Para ser Director General, se deberán reunir los siguientes requisitos:
 
-II.- Poseer título a nivel licenciatura;
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-III.- Tener cinco años de experiencia académica; y
+II. Poseer título a nivel licenciatura;
 
-IV.- Ser de reconocida solvencia moral.
+III. Tener cuando menos cinco años de experiencia académica;
 
-El Director General será nombrado y removido libremente por el Gobernador del Estado.
+IV. Ser de reconocida solvencia moral;
 
-> <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
+V. Acreditar conocimientos y experiencia en materia administrativa; y
+
+VI. No encontrarse en alguno de los impedimentos que señalan las fracciones III, IV y V del artículo 45 Bis A de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 16.
 
-El Director General del Colegio de Bachilleres de Sonora será representante legal del Colegio, con todas las facultades de un apoderado general para actos de administración y de dominio y para pleitos y cobranzas, incluyendo aquellas facultades que requieran cláusula especial conforme a la ley, en los términos de los dos primeros párrafos del artículo 2831 del Código Civil para el Estado de Sonora. Para actos de dominio que impliquen la enajenación o gravamen de los bienes inmuebles del Colegio, se requerirá la previa desincorporación del inmueble correspondiente y la autorización del Consejo Directivo. Durará en su cargo cuatro años y podrá ser reelecto.
+El Director General será el representante legal del Colegio, con las facultades de un Apoderado General para Pleitos y Cobranzas y Actos de Administración en los más amplios términos de los dos primeros párrafos de los artículos 2831 del Código Civil para el Estado de Sonora y 2554 del Código Civil para el Distrito Federal, con todas las facultades generales y las especiales que requieran cláusulas especiales conforme a la Ley, incluyendo las facultades previstas en los artículos 2868 y 2587 de los Códigos anteriormente señalados, en su orden. Tendrá además facultades para suscribir Títulos y Operaciones de Crédito, en los términos previstos en los artículos 9° y 85 de la Ley General de Títulos y Operaciones de Crédito. En materia laboral con toda clase de facultades para comparecer ante autoridades administrativas o jurisdiccionales, contestar demandas, ofrecer pruebas e intervenir en su desahogo; absolver y articular posiciones, igualmente para proponer y suscribir todo tipo de convenios conciliatorios que pongan fin al conflicto. También podrá designar Apoderados Generales y Especiales otorgándoles las facultades que le son concedidas, reservándose la facultad de revocar tales poderes.
+
+En concordancia con lo dispuesto por la fracción IX del artículo 12 de esta Ley, para enajenar o gravar de cualquier manera bienes inmuebles propiedad del Colegio, el Director General requerirá de la autorización expresa del Consejo Directivo, además de reunir los demás requisitos previstos por la Ley de Bienes y Concesiones del Estado de Sonora y demás disposiciones legales y reglamentarias aplicables.
 
 ###### ARTICULO 17.
 
 El Director General del Colegio no podrá desempeñar, simultáneamente, el cargo de Director del Plantel.
 
-> <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 18.
 
 Son facultades y obligaciones del Director General:
 
-> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+I. Elaborar y presentar al Consejo Directivo, para su autorización, el proyecto de presupuesto anual de ingresos y egresos del Colegio;
 
-I.- Elaborar y presentar al Consejo Directivo, para su autorización, el proyecto de propuesta anual de ingresos y egresos del Colegio;
+II. Someter a la consideración del Consejo Directivo, para su autorización, las cuotas que deban cubrirse por los servicios educativos que preste el Colegio;
 
-II.- Hacer cumplir las normas y disposiciones reglamentarias del Colegio;
+III. Cumplir y hacer cumplir las normas y disposiciones reglamentarias del Colegio, así como los acuerdos tomados por el Consejo Directivo;
 
-III.- Presentar al Consejo Directivo, en la última sesión del ejercicio escolar, un informe de las actividades del Colegio realizadas durante el año anterior;
+IV. Presentar al Consejo Directivo, en la última sesión del ejercicio fiscal, un informe de las actividades del Colegio realizadas durante el último ciclo escolar concluido;
 
-> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+V. Nombrar y remover, con la aprobación del Consejo Directivo, a los titulares de las diversas unidades administrativas del Colegio;
 
-IV.- Nombrar y remover a los Directores de Area, con la aprobación del Consejo Directivo;
+VI. Nombrar y remover libremente a los Directores de Plantel;
 
-> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+VII. Fijar a los servidores públicos del Colegio, las directrices generales a que habrán de sujetarse para un mejor funcionamiento de la Institución, apegándose a la presente Ley y al Reglamento Interior del propio Colegio;
 
-V.- Nombrar y remover libremente a los Directores de Plantel;
+VIII. Someter a consideración del Consejo Directivo los calendarios, planes y programas de estudio del Colegio, para su aprobación;
 
-VI.- Fijar a los funcionarios y servidores del Colegio, las directrices generales a que habrán de sujetarse para un mejor funcionamiento de la institución, apegándose a la presente ley y a su reglamento;
+IX. Dictaminar sobre las solicitudes de incorporación de escuelas particulares y por cooperación que impartan educación de tipo media superior en el Estado, sometiéndolas a la consideración del Consejo Directivo para su resolución definitiva;
 
-VII.- Plantear a la consideración del Consejo Directivo los calendarios, planes y programas de estudio del Colegio, para su aprobación;
+X. Presentar al Consejo Directivo, dentro de los tres primeros meses del año, los estados financieros del ejercicio fiscal anterior, con el dictamen del auditor nombrado por la Secretaría de la Contraloría General;
 
-VIII.- Dictaminar sobre las solicitudes de incorporación de escuelas particulares que impartan el ciclo de Educación Media Superior en el Estado, poniéndolas a consideración del Consejo Directivo para la resolución definitiva;
+XI. Proponer al Consejo Directivo, para su aprobación, el proyecto de Reglamento Interior y demás normas y disposiciones generales relativas al Colegio;
 
-IX.- Las demás que le señale esta ley y las normas y disposiciones reglamentarias del Colegio;
+XII. Conducir y ejecutar las acciones operativas del Colegio, conforme a la Ley y a las demás disposiciones aplicables;
 
-> <small>(ADICIONADA, B.O. 27 DE MAYO DE 1996)</small>
+XIII. Promover la modernización administrativa, académica y tecnológica para una mejora continua de los servicios que presta;
 
-X.- Presentar al Consejo Directivo, dentro de los tres primeros meses de la fecha en que concluya un ejercicio presupuestal, los estados financieros, con el dictamen del auditor nombrado para el caso por el propio Consejo; y
+XIV. Proponer al Consejo Directivo la organización académico-administrativa, que considere conveniente para el buen funcionamiento del Colegio;
 
-> <small>(ADICIONADA, B.O. 27 DE MAYO DE 1996)</small>
+XV. Suscribir los acuerdos, convenios y contratos que sean necesarios o convenientes para el debido cumplimiento del objeto del Colegio;
 
-XI.- Proponer al Consejo Directivo, para su aprobación, el Reglamento Interior y demás normas y disposiciones generales relativas al Colegio.
+XVI. Expedir los certificados de terminación de estudios, parciales y duplicados de los alumnos de los planteles de administración directa y de escuelas incorporadas;
+
+XVII. Certificar la documentación generada por el Colegio;
+
+XVIII. Fomentar las actividades deportivas, culturales y cívicas en el Colegio;
+
+XIX. Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso de los ciudadanos a la información de carácter público;
+
+XX. Coordinar el proceso de mejora regulatoria en el Colegio, a fin de contar con un eficiente marco normativo;
+
+XXI. Fungir como Secretario Técnico en las sesiones del Consejo Directivo;
+
+XXII. Otorgar, previa autorización del Consejo Directivo, exenciones de pago de cuotas de colegiaturas y/o servicios a los alumnos de escasos recursos económicos, previo estudio socioeconómico, así como a los que se encuentren en situaciones fortuitas que pongan en riesgo su permanencia dentro del Colegio;
+
+XXIII. Promover entre los exdirectores generales, exdirectores de plantel, extrabajadores y exalumnos del Colegio, personas físicas y morales, la creación de asociaciones civiles, fundaciones y organismos, con el propósito de que coadyuven con el Colegio para el cumplimiento de su objeto y de diversificar su financiamiento; y
+
+XXIV. Ejercer las demás facultades que le confiera este ordenamiento, las que le confiere la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, así como las normas y disposiciones reglamentarias del Colegio.
 
 ARTICULO 18 BIS.- (DEROGADO, B.O. 27 DE MAYO DE 1996)
 
@@ -263,39 +315,35 @@ ARTICULO 18 BIS 2.- (DEROGADO, B.O. 27 DE MAYO DE 1996)
 
 ###### ARTICULO 19.
 
-Con los Directores de los planteles se integrará un Consejo Consultivo de Directores, que será presidido por el Director General del Colegio.
+(DEROGADO, B.O. 28 DE AGOSTO DE 2008)
 
 ###### ARTICULO 20.
 
-Corresponde al Consejo Consultivo de Directores:
+(DEROGADO, B.O. 28 DE AGOSTO DE 2008)
 
-I.- Sugerir reformas a los planes y programas de estudio;
-
-II.- Analizar los problemas académicos y administrativos de los planteles y proponer las soluciones que estime convenientes;
-
-III.- Acordar los programas sobre actualización y mejoramiento profesional de personal académico, y
-
-IV.- Las demás facultades que le señale este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
-
-> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 21.
 
-Los Directores de Plantel deberán reunir los requisitos a que se refiere el artículo 15 de esta Ley.
+Los planteles que se establezcan estarán a cargo de un Director que será nombrado por el Director General.
+
+Para ser Director de Plantel se deberán reunir los requisitos a que se refiere el artículo 15 de esta Ley.
 
 ###### ARTICULO 22.
 
 En las normas y disposiciones reglamentarias que expide el Consejo Directivo, se establecerán las facultades y obligaciones de los Directores de planteles.
 
-> <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 23.
 
-Los nombramientos definitivos del personal académico deberán hacerse mediante oposición o por procedimientos igualmente idóneos para comprobar la capacidad de los candidatos, debiendo cumplir como requisitos mínimos el de poseer carta de pasante a nivel de Licenciatura o título de Normal Superior.
+El ingreso del personal docente se determinará bajo un concurso de oposición y los nombramientos definitivos se otorgarán conforme al procedimiento que se establezca en el reglamento correspondiente.
+
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 24.
 
-El Director General hará, en los términos de las normas y disposiciones reglamentarias, las designaciones de remociones del personal docente técnico y administrativo que no estén reservadas a otro órgano del Colegio.
+El Director General hará, en los términos de las normas y disposiciones reglamentarias, las designaciones y remociones del personal de confianza, docente, técnico docente, administrativo y de servicios que no estén reservadas al Consejo Directivo.
 
 > <small>(ADICIONADO, B.O. 27 DE MAYO DE 1996)</small>
 
@@ -305,11 +353,11 @@ ARTICULO 24 BIS.- La Secretaría de la Contraloría General del Estado determina
 
 Las asociaciones de alumnos que se constituyan en los planteles serán independientes de los órganos del Colegio de Bachilleres y se organizarán democráticamente en la forma que los mismos estudiantes determinen.
 
-> <small>(ADICIONADO. B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 26.
 
-Las relaciones entre el Colegio de Bachilleres del Estado de Sonora y los maestros, empleados y demás trabajadores a su servicio se regirán por la Ley de Servicio Civil para el Estado de Sonora.
+Las relaciones laborales entre el Colegio y los maestros, empleados y demás trabajadores a su servicio, se regirán por la ley laboral aplicable.
 
 t r a n s i t o r i o :
 
@@ -368,3 +416,9 @@ B.O. 27 DE MAYO DE 1996.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE AGOSTO DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en él Boletín Oficial del Gobierno del Estado de Sonora.
