@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2006-07-06"
+last_updated: "2008-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE AGOSTO DE 2008.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -3277,7 +3277,13 @@ I.- Cuando las sentencias hayan sido consentidas expresamente por las partes;
 
 II.- Cuando, notificadas en forma, no son recurridas dentro del término señalado por la ley, salvo cuando proceda la revisión forzosa, y
 
-III.- Cuando se interpuso recurso que no se continuó en la forma y términos legales o cuando quien lo interpuso se desistió. La declaración la hará el juez de oficio o a petición de parte en el caso de la fracción I. En el caso de la fracción II la declaración se hará a petición de parte, substanciando artículo mediante vista de tres días a la contraparte y tres para dictar resolución, excepto en el caso de divorcio voluntario en que la declaración se hará de oficio y sin substanciar incidente. En los casos de la fracción III la declaración la hará el tribunal o el juez al resolver sobre la deserción o desistimiento del recurso. El auto que declara que la sentencia ha causado o no ejecutoria es recurrible en queja. En los demás casos, las sentencias causarán ejecutoria por ministerio de la ley, sin necesidad de declaración expresa que lo indique, una vez que no estén sujetas a impugnación.
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+III.- Cuando se interpuso recurso que no se continuó en la forma y términos legales o cuando quien lo interpuso se desistió.
+
+> <small>(ADICIONADO, B.O. 28 DE AGOSTO DE 2008)</small>
+
+La declaración la hará el juez de oficio o a petición de parte en el caso de las fracciones I y II. En los casos de la fracción III la declaración la hará el tribunal o el juez al resolver sobre la deserción o desistimiento del recurso.
 
 ###### Art. 352.
 
@@ -3449,7 +3455,9 @@ El término para interponer el recurso de apelación será:
 
 I.- De cinco días si se trata de sentencia definitiva en juicios en lo que el emplazamiento no se hubiere hecho por edictos, o en cualquier otro caso en que la sentencia se notifique en igual forma;
 
-II.- De sesenta días, a partir de la fecha en que se haga la publicación, si el emplazamiento se hubiere hecho por edictos, o en cualquier otro caso en que la sentencia se notifique en igual forma, y
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+II.- De sesenta días, a partir de la fecha en que se haga la publicación, si el emplazamiento se hubiere hecho por edictos, o en cualquier otro caso en que la sentencia se notifique en igual forma, pero tratándose de resoluciones que decreten la pérdida de la patria potestad de menores o incapaces acogidos por instituciones públicas de asistencia social, el recurso deberá interponerse en el término de quince días, y
 
 III.- De tres días para apelar de sentencias interlocutorias, autos y demás resoluciones.
 
@@ -5195,6 +5203,10 @@ En todos los asuntos de que trata este Título tendrá intervención el Minister
 
 El juez dispondrá de las más amplias facultades para la determinación de la verdad material, sin que quede vinculado a las reglas de la prueba legal para lograr este resultado.
 
+> <small>(ADICIONADO, B.O. 17 DE MAYO DE 2001)</small>
+
+El Juez de Primera Instancia estará facultado para intervenir en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia intrafamiliar, pudiendo decretar de oficio medidas precautorias y de seguridad que tiendan a preservar la familia y proteger a sus miembros, observando en particular las previstas en el artículo 447 del Código Civil y la fracción IV del artículo 39 de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
+
 A este fin, regirán los siguientes principios:
 
 I.- Las reglas sobre repartición de la carga de la prueba no tendrán aplicación;
@@ -5206,10 +5218,6 @@ III.- El principio preclusivo, en cuanto signifique un obstáculo para el logro 
 IV.- La admisión de hechos y el allanamiento no vinculan al juez;
 
 V.- No tendrán aplicación las reglas formales de apreciación de las pruebas, ni las ficciones legales.
-
-> <small>(ADICIONADO, B.O. 17 DE MAYO DE 2001)</small>
-
-El Juez de Primera Instancia estará facultado para intervenir en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia intrafamiliar, pudiendo decretar de oficio medidas precautorias y de seguridad que tiendan a preservar la familia y proteger a sus miembros, observando en particular las previstas en el artículo 447 del Código Civil y la fracción IV del artículo 39 de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
 
@@ -5565,21 +5573,37 @@ Los asuntos que versen sobre posesión de la patria potestad y calificación de 
 
 La resolución que se dicte no es apelable.
 
-> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE AGOSTO DE 2008)</small>
 
-Art. 595 BIS.- Tratándose de menores que sean acogidos por una institución pública de asistencia social, la pérdida de la patria potestad en los casos a que se refieren las fracciones III y VII del artículo 611 del Código Civil para el Estado de Sonora, se tramitará en juicio especial de acuerdo a las reglas de la vía sumaria, con las siguientes modalidades:
+Art. 595 BIS.- Tratándose de menores acogidos por una institución pública de asistencia social, la pérdida de la patria potestad se tramitará en juicio especial de acuerdo a las reglas de la vía sumaria, con las siguientes modalidades:
 
-I.- Se correrá traslado de la demanda a quienes ejerzan la patria potestad y a las personas a que se refiere el artículo 581 del Código Civil para el Estado de Sonora.
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-II. En el caso de que las notificaciones se realicen mediante edictos, éstos deberán ser publicados por tres veces consecutivas en el Boletín Oficial del Gobierno del Estado y en un periódico de los que tengan mayor circulación en el Estado. Las notificaciones mediante edictos surtirán sus efectos a los tres días siguientes al de la última publicación.
+I.- Se correrá traslado de la demanda a quienes ejercen la patria potestad; asimismo, a los abuelos paternos y matemos, requiriéndoles para que cumplan las obligaciones a que se refiere el párrafo tercero del artículo 581 del Código Civil para el Estado de Sonora, con apercibimiento de que el incumplimiento injustificado de las mismas les hará perder el derecho a obtener la patria potestad respecto del menor o incapacitado manifestando, en su caso, su interés en ejercer este derecho.
+
+En la sentencia que se dicte el juez determinará si procede o no la perdida de la patria potestad de los padres o de los abuelos a obtener este derecho y, en su caso, si los abuelos paternos o maternos habrán de ejercerlos en forma definitiva.
+
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
+
+II.- En el caso de que las notificaciones se realicen mediante edictos, éstos deberán ser publicados por tres veces consecutivas en un periódico de los que tengan mayor circulación en el Estado. Las notificaciones mediante edictos surtirán sus efectos al día siguiente de la fecha de la última publicación.
+
+> <small>(ADICIONADA, B.O. 29 DE ABRIL DE 2004)</small>
 
 III.- Todas las excepciones deberán hacerse valer en la contestación. Si la parte demandada no formula su contestación, se le tendrá por contestado en sentido negativo.
 
+> <small>(ADICIONADA, B.O. 29 DE ABRIL DE 2004)</small>
+
 IV.- Los incidentes no suspenderán el procedimiento. Las excepciones y recursos que se interpongan se resolverán en la sentencia definitiva.
+
+> <small>(ADICIONADA, B.O. 29 DE ABRIL DE 2004)</small>
 
 V.- Las pruebas deberán ofrecerse en los escritos de demanda o contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
 
+> <small>(ADICIONADA, B.O. 29 DE ABRIL DE 2004)</small>
+
 VI.- Transcurrido el periodo de emplazamiento, dentro de los tres días siguientes se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran. Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días.
+
+> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 2004)</small>
 
 El ejercicio de la acción corresponderá al Ministerio Público y será juez competente el del lugar donde esté el domicilio de la Institución de Beneficencia o Asistencia Social que haya acogido al menor.
 
@@ -8576,3 +8600,17 @@ B.O. 6 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios de pérdida de patria potestad que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
