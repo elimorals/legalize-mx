@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-desarrollo-social-47698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-18"
-last_updated: "2006-01-18"
+last_updated: "2008-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-01-02"
 
 REGLAMENTO DE LA LEY GENERAL DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 18 de enero de 2006.
 
@@ -210,6 +210,10 @@ El proceso de incorporación de los beneficiarios se apegará a los criterios de
 La incorporación de beneficiarios se podrá hacer a través de un levantamiento de información socioeconómica en las localidades o la verificación directa del cumplimiento de los criterios de elegibilidad, de conformidad con los mecanismos que establezcan las reglas de operación de cada programa.
 
 El proceso de incorporación a un programa de desarrollo social concluirá con el registro de las personas que cubran los criterios de elegibilidad y que de acuerdo con la disponibilidad presupuestal del programa puedan ser atendidos, considerando las metas establecidas en los mismos. Lo anterior, sin menoscabo de la responsabilidad de las dependencias y entidades de la Administración Pública Federal que tengan a su cargo los programas, de contar con la documentación comprobatoria sobre el cumplimiento de los requisitos de elegibilidad por parte de los beneficiarios.
+
+> <small>(ADICIONADO, D.O.F. 28 DE AGOSTO DE 2008)</small>
+
+Artículo 19 bis.- El Gobierno Federal podrá informar a los beneficiarios sobre los servicios y prestaciones contenidos en los programas de desarrollo social, observando las disposiciones legales aplicables.
 
 ###### Artículo 20.
 
@@ -684,3 +688,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Reglamen
 TERCERO.- En un plazo de 120 días contados a partir de la entrada en vigor del presente Reglamento, la Secretaría formulará y someterá a la Comisión Nacional las reglas para la participación Social. Una vez que la Comisión Nacional apruebe las reglas, la Secretaría deberá publicarlas en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de enero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.- La Secretaria de Desarrollo Social, Josefina Eugenia Vázquez Mota.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.- El Secretario de Energía, Fernando de Jesús Canales Clariond.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Francisco Javier Salazar Sáenz.- Rúbrica.- El Secretario de la Reforma Agraria, Florencio Salazar Adame.- Rúbrica.- El Secretario de Turismo, Rodolfo Elizondo Torres.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE AGOSTO DE 2008.
+
+ÚNICO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
