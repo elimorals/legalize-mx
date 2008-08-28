@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2008-02-20"
+last_updated: "2008-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2008.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -311,6 +311,8 @@ Excusa Absolutoria por Urgencia.- No es punible la impericia de quien, sin profe
 
 ### Capítulo II. Prisión
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 29.
 
 Las penas que podrá imponer el Órgano Jurisdiccional son las siguientes:
@@ -355,7 +357,7 @@ V.- Las demás que establezcan las leyes.
 
 ###### Artículo 31.
 
-La prisión consiste en la privación de la libertad personal. Su duración dependerá de cada caso concreto, pero no podrá ser menor de tres días ni mayor de setenta años y se ejecutará en los lugares o establecimientos que señale el Ejecutivo del Estado.
+La prisión consiste en la privación de la libertad personal. Su duración dependerá de cada caso concreto, pero no podrá ser menor de tres días ni mayor de ciento diez años, y se ejecutará en los lugares o establecimientos que señale el Ejecutivo del Estado.
 
 ###### Artículo 32.
 
@@ -1695,37 +1697,59 @@ III. Para causar daño o perjuicio a la persona privada de la libertad o a cualq
 
 Al que cometa el delito de privación ilegal de la libertad en su carácter de plagio o de secuestro, se le impondrá de veinte a cincuenta años de prisión y de mil a cuatro mil días multa.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 215.
 
 Se aplicarán de veinte a sesenta años de prisión y de tres mil a cinco mil días multa, si en la privación ilegal de la libertad a que se hace referencia en el artículo 213, concurre alguna o algunas de las circunstancias siguientes:
 
-I. Que se realice en camino público o en lugar desprotegido o solitario.
+I. Que se realice en camino o lugar público o en lugar desprotegido o solitario.
 
 II. Que se realice en un domicilio particular, lugar de trabajo o a bordo de un vehículo.
 
-III. Que el autor sea o haya sido integrante de alguna corporación de seguridad pública o privada, integrante de alguna institución de procuración o administración de justicia o que se ostente con cualquiera de esos cargos sin tenerlo.
+III. Que quienes lo lleven a cabo, obren en grupo de dos o más personas.
 
-IV. Que quienes lo lleven a cabo, obren en grupo de dos o más personas.
+IV. Que se realice con violencia o aprovechando la confianza que se haya depositado en el sujeto activo.
 
-V. Que se realice con violencia o aprovechando la confianza que se haya depositado en el sujeto activo.
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2008)</small>
 
-VI. Que la víctima sea menor de edad o mayor de sesenta años o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto del sujeto activo.
+###### Artículo 215 Bis.
 
-VII.- Que se realice con el propósito de llevar a cabo imposiciones o abusos de prácticas sexuales para fines de explotación pornográfica.
+Se aplicarán de treinta a ciento diez años de prisión y de cuatro mil a ocho mil días multa, si en la privación de la libertad a que se hace referencia en el artículo 213, concurre alguna de las siguientes causas:
+
+I. Que el autor sea o haya sido integrante de alguna corporación de seguridad pública o privada, integrante de alguna institución de procuración o administración de justicia, o que se ostente con cualquier de esos cargos sin tenerlo.
+
+II. Cuando la víctima sea menor de edad o mayor de sesenta años o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto del sujeto activo.
+
+III. Cuando la víctima sea mujer.
+
+IV. Que se realice con el propósito de llevar a cabo imposiciones o abusos de prácticas sexuales para fines de explotación pornográfica.
+
+V. Cuando se cometa por una persona que se encuentre recluida en un centro de reinserción social del Estado, bien sea porque esté sujeto a proceso o bien compurgando una sentencia por pena privativa de la libertad.
+
+En el caso de la última fracción de este artículo, la pena correspondiente se aplicará una vez que el procesado o en su caso el sentenciado, haya cumplido la pena que corresponda al delito por el que se encuentre sujeto a prisión.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 216.
 
-A quien prive de la libertad a un menor de edad o a quien por cualquier causa no tenga capacidad de comprender o resistir la conducta, con el fin de trasladarlo fuera del territorio del Estado para obtener un lucro por su venta o por su entrega, se le aplicarán de veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa.
+A quien prive de la libertad a un menor de edad o a quien por cualquier causa no tenga capacidad de comprender o resistir la conducta, con el fin de trasladarlo fuera del territorio del Estado para obtener un lucro por su venta o por su entrega, se le aplicarán de veinticinco a ciento diez años de prisión y de cuatro mil a ocho mil días multa.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 217.
 
-En caso de que la víctima fallezca durante el tiempo en que se encuentre privado de la libertad, se impondrá a los responsables la pena de veinte a setenta años de prisión.
+En caso de que la víctima fallezca durante el tiempo en que se encuentre privado de la libertad, se impondrá a los responsables la pena de cuarenta a ciento diez años de prisión, independientemente de la causa que haya generado la muerte del sujeto pasivo.
 
 Cuando la víctima sea lesionada o privada de la vida por sus captores, se aplicarán las reglas del concurso de delitos.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 218.
 
-Si se libera espontáneamente al secuestrado, dentro de los tres días siguientes al de la privación ilegal de la libertad sin lograr alguno de los propósitos a que se refiere el artículo 213, la pena será de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa.
+Si se libera espontáneamente al secuestrado, dentro de los tres días siguientes al de la privación ilegal de la libertad sin lograr alguno de los propósitos a que se refieren los artículos 213 y 216, y sin que se hayan presentado alguna de las circunstancias previstas en los artículos 215 y 215 Bis, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
+
+En los demás casos en que espontáneamente se libere al secuestrado, sin lograr alguno de los propósitos a que se refieren los artículos 213 y 216, la pena será de siete a veinte años de prisión y de trescientos cincuenta a setecientos días multa.
 
 ###### Artículo 219.
 
@@ -2423,13 +2447,27 @@ Al responsable del delito de extorsión, se le aplicará una pena de prisión de
 
 Las penas señaladas en el artículo anterior se aumentarán hasta un tanto más en los siguientes casos:
 
-I.- Si el constreñimiento se realiza por una asociación delictuosa.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2008)</small>
+
+I.- Si el constreñimiento se realiza por una asociación delictuosa o se simule pertenecer a ésta.
 
 II.- Si el constreñimiento se realiza por un servidor público o ex servidor público o por un miembro o ex miembro de corporación policíaca o de las fuerzas armadas.
 
 III.- Si en el delito interviene una o más personas armadas o se utilizan instrumentos peligrosos.
 
 IV.- Si se emplea violencia física para la consumación del delito.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
+
+V.- Si es cometido en contra de un adulto mayor de sesenta años de edad.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
+
+VI.- Si se utiliza como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
+
+VII.- Si se comete desde un centro de reinserción social, independientemente de la pena por la que se encuentre recluido el sujeto activo. En este caso, la pena correspondiente se aplicará una vez que el procesado o en su caso el sentenciado según se trate, hubiera compurgado la pena que corresponda al delito por el que se encuentre sujeto a prisión.
 
 En los casos correspondientes, se impondrá, además, al servidor o ex servidor público o al miembro o ex miembro de alguna corporación policíaca, la destitución del empleo, cargo o comisión y se le inhabilitará, según el caso, de uno a cinco años para desempeñar cargo o comisión pública.
 
@@ -4370,3 +4408,11 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al
 P.O. 20 DE FEBRERO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
