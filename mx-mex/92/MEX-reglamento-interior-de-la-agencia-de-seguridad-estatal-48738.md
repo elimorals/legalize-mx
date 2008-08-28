@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-agencia-de-seguridad-estatal-48738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-01"
-last_updated: "2006-04-17"
+last_updated: "2008-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA AGENCIA DE SEGURIDAD ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 1 de febrero de 2006.
 
@@ -471,11 +471,15 @@ VII. Fortalecer las relaciones públicas de la Agencia de Seguridad Estatal con 
 
 VIII. Las demás que les señalen otras disposiciones legales y administrativas y las que determine el Comisionado de la Agencia de Seguridad Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 28 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 18.
 
-Corresponde a la del Colegio de Policía el ejercicio de las siguientes facultades:
+Corresponde al Instituto de Profesionalización, el ejercicio de las siguientes facultades:
 
-I. Dirigir la elaboración del Plan Rector de Formación, Capacitación y de Profesionalización Policial, así como los programas de adiestramiento y actualización para los cadetes y servidores de la Agencia de Seguridad Estatal, dentro de un esquema técnico, científico y humanista.
+> <small>(REFORMADA, G.G. 28 DE AGOSTO DE 2008)</small>
+
+I. Dirigir la elaboración del Plan Rector de Formación, Capacitación y de Profesionalización Policial, así como los programas de adiestramiento y actualización para los servidores públicos de la Agencia de Seguridad Estatal, dentro de un esquema técnico, científico y humanista.
 
 II. Dirigir, planear y coordinar el Centro de Estudios Superiores, en el que se impartan programas de especialización, con niveles de licenciatura, maestría y doctorado.
 
@@ -483,9 +487,11 @@ III. Determinar y mantener mecanismos de coordinación con organismos de enseña
 
 IV. Dirigir la realización de investigaciones pedagógicas, técnicas y de adiestramiento policial tendientes a mantener actualizados los planes y programas de profesionalización y formación.
 
-V. Dirigir el proceso de reclutamiento, selección y evaluación de aspirantes a ingresar a los Planteles del Colegio de Policía.
+> <small>(REFORMADA, G.G. 28 DE AGOSTO DE 2008)</small>
 
-VI. Promover la realización de cursos, seminarios o eventos con instituciones nacionales y extranjeras similares a la Agencia de Seguridad Estatal.
+V. Dirigir el proceso de reclutamiento, selección y evaluación de aspirantes a ingresar a los Planteles del Instituto de Profesionalización.
+
+VI. Promover la realización de cursos, seminarios o eventos con instituciones nacionales y extranjeras similares a la Agencia de Seguridad Estatal;
 
 VII. Dirigir, controlar y evaluar los planes y programas de capacitación y promover su revisión y actualización, así como establecer las políticas y normas para el funcionamiento de los planteles.
 
@@ -540,3 +546,17 @@ G.G. 17 DE ABRIL DE 2006.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 28 DE AGOSTO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos jurídicos, se haga referencia del Colegio de Policía, se entenderá al Instituto de Profesionalización.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo preceptuado por el presente Acuerdo.
+
+QUINTO.- Los derechos adquiridos por los servidores públicos del extinto Colegio de Policía, serán respetados conforme a las disposiciones legales aplicables.
+
+SEXTO.- Los asuntos a cargo del Colegio de Policía, que se encuentren en trámite al entrar en vigor el presente Acuerdo, continuarán su curso conforme a las disposiciones legales aplicables.
