@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2008-05-28"
+last_updated: "2008-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -50,6 +50,10 @@ Decreto de Código de Ejecución de Sanciones Penales y Medidas de Libertad Anti
 Las disposiciones de éste Código son de orden público y de aplicación en todo el territorio estatal, en lo que concierne a los internos de los Centros a que se refiere el presente ordenamiento, así como de las autoridades administrativas y jurisdiccionales locales, en los ámbitos de su respectiva competencia.
 
 Respecto de los internos que compurguen sentencias por delitos federales, el presente ordenamiento le será aplicable en términos de los convenios de coordinación que se celebren con las autoridades competentes y en estricto a pego (sic) a las leyes federales en la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2008)</small>
+
+No se concederá ninguno de los beneficios contenidos en el presente Código, a los sentenciados por el delito de secuestro o extorsión, a excepción de los que deriven de la aplicación de la ley más favorable y los derivados de los principios contenidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -1417,6 +1421,10 @@ El Gobernador del Estado podrá tomar en consideración las solicitudes que le f
 
 Este Código no beneficiará a los autores de los delitos que a criterio de la Comisión Interinstitucional mencionada, afecten de manera substancial los intereses de la sociedad.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2008)</small>
+
+En ningún caso se beneficiará a los autores de los delitos de secuestro o extorsión, salvo lo previsto en el artículo 1°, de este Código.
+
 ### Capítulo V. Condena Condicional
 
 ### Capítulo I. Procedimientos Ordinarios de Ejecución
@@ -1644,3 +1652,11 @@ Artículo Quinto.- La Secretaría de Administración, la Secretaría de Finanzas
 Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente decreto, en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
