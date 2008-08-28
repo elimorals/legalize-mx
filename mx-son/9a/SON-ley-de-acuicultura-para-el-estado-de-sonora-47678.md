@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acuicultura-para-el-estado-de-sonora-47678"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-26"
-last_updated: "2005-12-26"
+last_updated: "2008-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE ACUICULTURA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 28 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 26 de diciembre de 2005.
 
@@ -954,3 +956,35 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los trece días del mes de diciembre del año dos mil cinco.
 
 SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARÁN, RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 28 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley número 167 de Acuicultura para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado el día 26 de diciembre de 2005, y se derogan todas las disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Los permisos otorgados al amparo de la Ley número 167 de Acuicultura para el Estado de Sonora que se abroga continuarán en vigor hasta el cumplimiento del plazo por el que fueron otorgados.
+
+###### ARTÍCULO CUARTO.
+
+Las solicitudes de permisos cuya tramitación haya iniciado durante la vigencia de la Ley número 167 de Acuicultura para el Estado de Sonora y que se encuentren pendientes de resolución, deberán ser resueltas conforme a las disposiciones legales y administrativas vigentes al momento en que aquéllas fueron ingresadas.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos y recursos administrativos relativos a las materias de la Ley número 167 de Acuicultura para el Estado de Sonora que se hayan iniciado durante su vigencia y se encuentren pendientes de resolución, se tramitarán y resolverán de conformidad con las disposiciones vigentes al momento en que se iniciaron.
+
+###### ARTÍCULO SEXTO.
+
+El reglamento de la presente ley deberá ser expedido por el Gobernador del Estado, dentro de los ocho meses siguientes a la entrada en vigor de esta Ley. Mientras se expide dicho reglamento seguirá vigente el Reglamento de la Ley de Acuicultura del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado el 16 de abril de 2007.
+
+###### ARTÍCULO SÉPTIMO.
+
+La información que de acuerdo con la Ley número 167 de Acuicultura para el Estado de Sonora esté a cargo del Registro Estatal Acuícola y del Consejo Estatal de Acuicultura, pasarán a formar parte del Registro Estatal de Pesca y Acuicultura y del Consejo Estatal de Pesca y Acuicultura, respectivamente, previstos en la presente ley.
