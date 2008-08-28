@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2007-12-06"
+last_updated: "2008-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 6 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 28 DE AGOSTO DE 2008.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -3565,11 +3565,21 @@ Los hijos menores de edad no emancipados están bajo la patria potestad mientras
 
 La patria potestad es el conjunto de derechos y obligaciones reconocidos por la ley a los ascendientes, en relación con sus descendientes; su ejercicio implica el cuidado, protección y educación de los menores, así como la correcta administración de sus bienes.
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### Art. 581.
 
-La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la madre. Faltando ambos, por los abuelos paternos o maternos que mejor aseguren su desarrollo integral, a criterio del Juez de Primera Instancia.
+La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la madre. A falta de padres, ejercerán la patria potestad sobre el hijo menor o incapacitado, los abuelos paternos o maternos que mejor garanticen la protección y desarrollo de su descendiente, a criterio del juez competente, tomando en cuenta las circunstancias del caso, así como la opinión del menor que esté en condiciones de expresarla y la de cualquier persona que el juez estime conveniente escuchar, en beneficio del propio menor.
+
+Tratándose de hijos monoparentales, cuando el progenitor muera, la patria potestad se ejercerá automáticamente por los abuelos que correspondan.
+
+Cuando se presenten situaciones de abandono o peligro para el menor o incapacitado, los abuelos paternos y maternos deberán salvaguardar su interés superior, realizando los actos de protección, asistencia o convivencia que el mismo necesite. Cuando los abuelos paternos y maternos no cumplan con estas obligaciones y no justifiquen su incumplimiento, perderán el derecho a obtener la patria potestad respecto del menor.
+
+> <small>(ADICIONADO, B.O. 28 DE AGOSTO DE 2008)</small>
+
+Art. 581 BIS.- A partir de la muerte de los padres, la custodia y representación de los hijos se ejercerá automáticamente de manera provisional por los abuelos que tengan su domicilio en la misma población de los menores o incapacitados, sin perjuicio de que lleguen a acuerdos con abuelos que residan en lugares distintos. Si los abuelos paternos y matemos habitan en la misma población donde tenga su domicilio el menor o incapacitado, o cuando aquéllos residan en lugares distintos, la custodia provisional se ejercerá automáticamente por los ascendientes maternos a reserva de que el juez competente designe definitivamente a los abuelos que mejor garanticen el desarrollo integral del menor o incapacitado, atendiendo a lo dispuesto en el párrafo primero del artículo 581 de este Código.
+
+Cuando exista controversia respecto de la custodia que debe ejercerse sobre menores acogidos en instituciones públicas de asistencia social, el juez determinará a quién deba asignarse en forma provisional, hasta en tanto se resuelva en definitiva lo que corresponda.
 
 ###### Art. 582.
 
@@ -3767,11 +3777,11 @@ II.- En los casos de divorcio teniendo en cuenta lo que dispone el artículo 448
 
 > <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
 
-III.- Por el solo hecho de que, por las costumbres depravadas, malos tratamientos o abandono de los deberes del que la ejerce, pueda comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal; y
+III.- Por el solo hecho de que, por las costumbres depravadas, malos tratamientos o abandono de los deberes del que la ejerce, pueda comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal; y (sic)
 
 > <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
 
-IV.- Por la exposición que de los menores hiciere quien ejerza la patria potestad.
+IV.- Por la exposición que de los menores hiciere quien ejerza la patria potestad;
 
 ADICIONADA, B.O. 17 DE MAYO DEL 2001)
 
@@ -3781,9 +3791,9 @@ V.- Cuando el que la ejerza sea condenado por la comisión de un delito en el qu
 
 VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave, siempre que, a criterio del Juez, pueda poner en peligro la persona o bienes del menor; y
 
-> <small>(ADICIONADA, B.O. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
 
-VII. Cuando quien la ejerza deje de asistir o convivir injustificada con el menor por más de 90 días naturales, cuando éste se encuentre acogido en una institución pública de asistencia social.
+VII.- Cuando quien la ejerza deje de asistir o convivir injustificadamente con el menor por más de treinta días naturales, cuando éste se encuentre acogido en una institución pública de asistencia social.
 
 ###### Art. 612.
 
@@ -6789,7 +6799,7 @@ De las Obligaciones del Usufructuario.
 
 El usufructuario antes de entrar en el goce de los bienes, está obligado:
 
-I.- A formar a su (sic) expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
+I.- A formar a su expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
 
 II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 601.
 
@@ -10335,7 +10345,9 @@ Los frutos y productos de la herencia corresponden en plena propiedad a los here
 
 El heredero que sobrevive un solo instante al autor de la herencia, transmite sus derechos a sus propios herederos, que gozan como él de la facultad de aceptar o repudiar.
 
-Art 1859.- El heredero tiene acción para reclamar los bienes de la herencia que se encuentren en poder de quien los tenga a título de sucesor del causante, sin derecho suficiente, aunque no hubiere sido judicialmente declarado. Procede la acción, en el mismo caso, contra el heredero que rehusa reconocer al demandante como coheredero, o contra quien pretende serlo en concurrencia con él.
+###### Art. 1859.
+
+El heredero tiene acción para reclamar los bienes de la herencia que se encuentren en poder de quien los tenga a título de sucesor del causante, sin derecho suficiente, aunque no hubiere sido judicialmente declarado. Procede la acción, en el mismo caso, contra el heredero que rehusa reconocer al demandante como coheredero, o contra quien pretende serlo en concurrencia con él.
 
 Esta acción se denomina de petición de herencia.
 
@@ -16493,7 +16505,7 @@ El cumplimiento voluntario de las deudas de juego o apuesta lícitos sobrepasand
 
 ###### Art. 3056.
 
-La deuda de juego o de apuesta prohibidos no puede comparar ni ser convertida por novación en una obligación civilmente eficaz.
+La deuda de juego o de apuesta prohibidos no puede compararse ni ser convertida por novación en una obligación civilmente eficaz.
 
 ###### Art. 3057.
 
@@ -18994,3 +19006,17 @@ P.O. 6 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios de pérdida de patria potestad que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
