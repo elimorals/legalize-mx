@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2008-08-15"
+last_updated: "2008-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE AGOSTO DE 2008.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1998,11 +1998,11 @@ El cargo de Presidente de la República sólo es renunciable por causa grave, qu
 
 El Presidente, al tomar posesión de su cargo, prestará ante el Congreso de la Unión o ante la Comisión Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de Presidente de la República que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión; y si así no lo hiciere que la Nación me lo demande."
 
-> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2008)</small>
 
 ###### Art. 88.
 
-El Presidente de la República no podrá ausentarse del territorio nacional sin permiso del Congreso de la Unión o de la Comisión Permanente en su caso.
+El Presidente de la República podrá ausentarse del territorio nacional hasta por siete días, informando previamente de los motivos de la ausencia a la Cámara de Senadores o a la Comisión Permanente en su caso, así como de los resultados de las gestiones realizadas. En ausencias mayores a siete días, se requerirá permiso de la Cámara de Senadores o de la Comisión Permanente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
@@ -5505,6 +5505,10 @@ D.O.F. 15 DE AGOSTO DE 2008.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+D.O.F. 29 DE AGOSTO DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
