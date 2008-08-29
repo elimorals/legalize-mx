@@ -4,7 +4,7 @@ identifier: "COA-reglamento-que-regula-el-funcionamiento-de-mercados-de-32007"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-20"
-last_updated: "2003-05-20"
+last_updated: "2008-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE MERCADOS DE PIEDRAS NEGRAS, COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE MERCADOS DE PIEDRAS NEGRAS, COAHUILA, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de mayo de 2003.
 
@@ -416,3 +418,11 @@ CUARTO. La Secretaría del R. Ayuntamiento deberá tumar (sic) para su publicaci
 QUINTO. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Dado en la Sala de Sesiones del R. Ayuntamiento de Piedras Negras, a los 28 días del mes de Marzo del 2003.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento que Regula el Funcionamiento de Mercados de Piedras Negras publicado el 20 de Mayo de 2003 y las demás disposiciones generales o administrativas de carácter municipal que rijan en el área de mercados municipales en todo aquello que se oponga a este reglamento.
