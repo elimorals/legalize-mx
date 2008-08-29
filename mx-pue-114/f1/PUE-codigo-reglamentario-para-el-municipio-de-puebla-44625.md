@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2008-01-04"
+last_updated: "2008-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -997,9 +997,9 @@ ASAMBLEA GENERAL.- Al máximo órgano de representación vecinal de la colonia, 
 
 SECRETARÍA.- A la Secretaría de Gobernación Municipal del Honorable Ayuntamiento del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-DIRECCIÓN.- A la Dirección de Desarrollo Político, encargada de ejecutar las facultades que este Título otorga a la Secretaría de Gobernación Municipal.
+DIRECCIÓN.- A la Dirección de Delegaciones Políticas o la autoridad municipal que desempeñe las facultades que este título otorga a la Secretaría de Gobernación Municipal.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
@@ -1015,9 +1015,11 @@ La Secretaría a través de la Dirección será la encargada, en el ámbito jur�
 
 La Dirección para cumplir cabalmente con las funciones que le son determinadas por el presente Capítulo, podrá delegar las facultades que se le confieren en los funcionarios que designe.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 115.
 
-Para efectos de este Capítulo y para la delimitación territorial tanto de la Colonia, Fraccionamiento o Unidad Habitacional, se estará a lo dispuesto por la Secretaría de Administración Urbana del Municipio de Puebla.
+Para efectos de este Capítulo y para la delimitación territorial tanto de la Colonia, Fraccionamiento o Unidad Habitacional, se estará a lo dispuesto por la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable (SEGUROP) o la autoridad municipal que desempeñe dicha función.
 
 DE SU INTEGRACIÓN Y ORGANIZACIÓN
 
@@ -2249,7 +2251,9 @@ III. La vigilancia y conservación para mantener la salubridad e higiene de las 
 
 IV. Recibir a los detenidos de las dependencias autorizadas como:
 
-Dirección de la Policía, Dirección General de Tránsito, Policía Judicial, Departamento de Auxilio y Seguridad Ciudadana, a petición del Juez Calificador.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Dirección de Seguridad Pública, Dirección de Tránsito Municipal, Policía Judicial, Departamento de Auxilio y Seguridad Ciudadana, a petición del Juez Calificador;
 
 V. Tener bajo su custodia y protección a las personas que estén a disposición del Juez Calificador;
 
@@ -2385,13 +2389,17 @@ Los conductores, los patrones de éstos, los padres o tutores sí aquellos son m
 
 DE LA COMPETENCIA Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 258.
 
-El Ayuntamiento, a través de la Dirección General de Seguridad Pública y Vialidad Municipal, la Dirección de Seguridad Vial y los agentes de vialidad adscritos a la misma, tiene a su cargo la aplicación y observancia de las disposiciones contenidas en el presente Capítulo y, en lo conducente, de los preceptos contenidos en los ordenamientos federales y estatales en la materia.
+El Ayuntamiento, a través de la Secretaría de Seguridad Pública y Tránsito Municipal, la Dirección de Tránsito Municipal, los agentes de vialidad estarán facultados para la aplicación y observancia de las disposiciones contenidas en el presente Capítulo y, en lo conducente, de los preceptos contenidos en los ordenamientos federales y estatales en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 259.
 
-La Secretaría General de Seguridad Pública y Vialidad Municipal, a través de la Dirección de Seguridad Vial, vigilará en forma permanente que el tránsito municipal se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá atribuciones:
+La Secretaría de Seguridad Pública y Tránsito Municipal, a través de la Dirección de Tránsito Municipal vigilará en forma permanente que el tránsito municipal se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá atribuciones:
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -2421,7 +2429,7 @@ IX. Vigilar e inspeccionar los vehículos que circulen en las vías públicas de
 
 X. Requerir y verificar la documentación que deben portar los conductores de los vehículos, para que aquellos puedan conducir y éstos circular;
 
-XI. Emitir permisos de circulación provisional para vehículos particulares, en tanto se obtiene la documentación oficial respectiva, con una vigencia máxima de treinta días por unidad, previo acuerdo que exista con el Gobierno del Estado;
+XI. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
 XII. Sancionar a los conductores, propietarios de vehículos y peatones, y retirar de la circulación, inmovilizar o asegurar unidades, en su caso, cuando contravengan las disposiciones del presente Capítulo;
 
@@ -2441,23 +2449,23 @@ XVII. Las demás que les confieran este Capítulo, así como las disposiciones q
 
 Para los efectos de la fracción V del artículo anterior se entiende por CINEMÓMETRO una cámara móvil para la detección de la velocidad.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 259 Bis 1.
 
-La Dirección de Seguridad Vial, se encuentra facultada para instalar de manera discrecional CINEMÓMETROS, en las vialidades que para tal efecto designe, a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos que sobre ellas circulen.
+La Dirección de Tránsito Municipal se encuentra facultada para instalar de manera discrecional CINEMÓMETROS, en las vialidades que para tal efecto designe, a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos que sobre ellas circulen.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 259 Bis 2.
 
-La Dirección de Seguridad Vial, se encuentra facultada para colocar CINEMÓMETROS, en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva.
+La Dirección de Tránsito Municipal, se encuentra facultada para colocar CINEMÓMETROS, en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 259 Bis 3.
 
-En la hipótesis de que la Secretaría General de Seguridad Pública y Vialidad Municipal, a través de la Dirección de Seguridad Vial, proceda a la instalación de CINEMÓMETROS, tendrá como objetivo salvaguardar la vida, salud, integridad física y propiedades de los conductores, de los pasajeros, de los transeúntes y en términos generales de cualquier otra persona que pudiera ser afectada por la inobservancia de las reglas relativas al límite de velocidad.
+En la hipótesis de que la Secretaría de Seguridad Pública y Tránsito Municipal a través de la Dirección de Tránsito Municipal, proceda a la instalación de CINEMÓMETROS, tendrá como objetivo salvaguardar la vida, salud, integridad física y propiedades de los conductores, de los pasajeros, de los transeúntes y en términos generales de cualquier otra persona que pudiera ser afectada por la inobservancia de las reglas relativas al límite de velocidad.
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -2479,35 +2487,47 @@ Si en un mismo evento concurren dos o más infracciones al presente Capítulo, y
 
 Respecto a la infracción concurrente, el Agente de Seguridad Vial Municipal se encuentra facultado para proceder en términos del presente Capítulo determinando la infracción que en su caso hubiese cometido el conductor en términos del artículo 304 y demás relativos del presente ordenamiento legal.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 259 Bis 7.
 
-Con independencia de lo señalado en los artículos 259 Bis, 259 Bis 1,259 Bis 2, 259 Bis 3, 259 Bis 4, 259 Bis 5 y 259 Bis 6, la Dirección de Seguridad Vial, a través de su personal, mantiene las facultades discrecionales en términos del presente Capítulo, a fin de cerciorarse de que un vehículo ha excedido el límite de velocidad en aquellas vialidades en donde no se encuentre un CINEMÓMETRO, conminando a los conductores a fin de que no incurran nuevamente en una falta por exceso de velocidad y realizando las acciones que en términos del presente Capítulo sean procedentes.
+Con independencia de lo señalado en los artículos 259 Bis, 259 Bis 1,259 Bis 2, 259 Bis 3, 259 Bis 4, 259 Bis 5 y 259 Bis 6, la Dirección de Tránsito Municipal a través de su personal, mantiene las facultades discrecionales en términos del presente Capítulo, a fin de cerciorarse de que un vehículo ha excedido el límite de velocidad en aquellas vialidades en donde no se encuentre un CINEMÓMETRO, conminando a los conductores a fin de que no incurran nuevamente en una falta por exceso de velocidad y realizando las acciones que en términos del presente Capítulo sean procedentes.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 260.
 
-De acuerdo con el artículo anterior, los agentes de vialidad adscritos a la Dirección de Seguridad Vial, están facultados para proceder conforme a las fracciones IX, X y XII del mismo precepto, en los supuestos en que los conductores o propietarios de vehículos y peatones contravengan alguna de las disposiciones del presente Capítulo, aplicando las medidas preventivas y de seguridad que se requieran y levantando las actas de infracción, en su caso, de acuerdo con los procedimientos para el efecto, las cuales se ejecutarán o sancionarán por la misma Dirección, de conformidad al tabulador de infracciones y sanciones establecido en este Capítulo.
+De acuerdo con el artículo anterior, los agentes de vialidad adscritos a la Dirección de Tránsito Municipal, están facultados para proceder conforme a las fracciones IX, X y XII del mismo precepto, en los supuestos en que los conductores o propietarios de vehículos y peatones contravengan alguna de las disposiciones del presente Capítulo, aplicando las medidas preventivas y de seguridad que se requieran y levantando las actas de infracción, en su caso, de acuerdo con los procedimientos para el efecto, las cuales se ejecutarán de conformidad al tabulador de infracciones y sanciones establecido en este Capítulo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 261.
 
-La Dirección de Seguridad Vial cuidará que las aceras, calles y demás vías públicas o lugares de tránsito para peatones y vehículos estén siempre expeditos para la circulación, debiendo intervenir en todos los casos en que se realicen obras y trabajos que alteren o impidan el libre tránsito, en la colocación de moderadores de velocidad y en la instalación y funcionamiento de centros comerciales o de espectáculos, estacionamientos, expendios de combustible, ferias y demás establecimientos o eventos que impliquen una concentración masiva de personas o vehículos, con el fin de evitar accidentes viales, obstrucciones a la circulación, la ocupación indebida de la vía pública e invasiones al correspondiente derecho de vía.
+La Dirección de Tránsito Municipal cuidará que las aceras, calles y demás vías públicas o lugares de tránsito para peatones y vehículos estén siempre expeditos para la circulación, debiendo intervenir en todos los casos en que se realicen obras y trabajos que alteren o impidan el libre tránsito, en la colocación de moderadores de velocidad y en la instalación y funcionamiento de centros comerciales o de espectáculos, estacionamientos, expendios de combustible, ferias y demás establecimientos o eventos que impliquen una concentración masiva de personas o vehículos, con el fin de evitar accidentes viales, obstrucciones a la circulación, la ocupación indebida de la vía pública e invasiones al correspondiente derecho de vía.
 
-Los encargados de ejecutar dichas obras o trabajos, los interesados en colocar moderadores de velocidad y los responsables de los establecimientos o eventos referidos, además de cumplir con las autorizaciones, permisos y licencias municipales correspondientes, tendrán la obligación de colocar las señales de tránsito y dispositivos de seguridad vial que sean necesarios y la de advertir adecuadamente sobre la existencia de excavaciones, materiales acumulados, maquinaria, construcciones en desarrollo u otros obstáculos, que signifiquen un peligro para los vehículos y peatones, debiendo atender todas las indicaciones que la Dirección de Seguridad Vial les haga al respecto.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Los encargados de ejecutar dichas obras o trabajos, los interesados en colocar moderadores de velocidad y los responsables de los establecimientos o eventos referidos, además de cumplir con las autorizaciones, permisos y licencias municipales correspondientes, tendrán la obligación de colocar las señales de tránsito y dispositivos de seguridad vial que sean necesarios y la de advertir adecuadamente sobre la existencia de excavaciones, materiales acumulados, maquinaria, construcciones en desarrollo u otros obstáculos, que signifiquen un peligro para los vehículos y peatones, debiendo atender todas las indicaciones que la Dirección de Tránsito Municipal les haga al respecto.
 
 Si por desobedecimiento o negligencia en la observancia de lo dispuesto en el párrafo anterior se producen accidentes viales o de tránsito, las personas responsables del incumplimiento deberán resarcir a los conductores y peatones afectados de todos los perjuicios y daños materiales causados por tal motivo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 262.
 
-La Dirección de Seguridad Vial fijará, de manera general, los límites máximo y mínimo de velocidad que puedan desarrollar los vehículos en las vías públicas del Municipio, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas.
+La Dirección de Tránsito Municipal fijará, de manera general, los límites máximo y mínimo de velocidad que puedan desarrollar los vehículos en las vías públicas del Municipio, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 263.
 
-La Dirección de Seguridad Vial, señalará los lugares autorizados para estacionamiento de vehículos en la vía pública y la forma en que deban hacerlo, tomando en consideración los movimientos, circulación y concentración de vehículos y de personas.
+La Dirección de Tránsito Municipal señalará los lugares autorizados para estacionamiento de vehículos en la vía pública y la forma en que deban hacerlo, tomando en consideración los movimientos, circulación y concentración de vehículos y de personas.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 264.
 
-La Dirección de Seguridad Vial podrá establecer horarios específicos para operaciones de carga y descarga: dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las vías públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas.
+La Dirección de Tránsito Municipal podrá establecer horarios específicos para operaciones de carga y descarga: dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las vías públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas.
 
 TRÁNSITO MUNICIPAL DE LOS VEHÍCULOS
 
@@ -2649,15 +2669,19 @@ e) Ancho máximo de la carga que se transporte: 2.5 metros
 
 f) Largo total de un camión de carga con remolque: 13 metros
 
-Tratándose de camiones que excedan de las características anotadas, se requerirá autorización especial de la Dirección de Seguridad Vial para que puedan circular en las vías públicas, en las rutas y horarios que ésta determine.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Tratándose de camiones que excedan de las características anotadas, se requerirá autorización especial de la Dirección de Tránsito Municipal para que puedan circular en las vías públicas, en las rutas y horarios que ésta determine.
 
 ###### Artículo 273.
 
 En los vehículos particulares destinados al transporte de personas que circulen por las vías públicas, queda prohibida la transportación de animales, bultos, paquetes u otros objetos análogos en el habitáculo destinado a los pasajeros, cuando por su condición, volumen, aspecto o mal olor, causen evidentes molestias o afecten la comodidad y seguridad de los mismos, sin perjuicio de lo que dispongan los ordenamientos federales y estatales en materia de transporte. Tratándose de autobuses, la transportación de estos bienes y del equipo de los usuarios, se hará en la forma que determinen las autoridades competentes en la materia.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 274.
 
-La Dirección de Seguridad Vial Municipal podrá realizar inspecciones a los vehículos que circulan en el Municipio, con la finalidad de verificar que se encuentren en condiciones apropiadas para circular, que se sujeten a lo señalado previamente y cumplan con los demás requisitos establecidos en el presente Capítulo, pudiendo retirar de la circulación y asegurar aquellos vehículos que no se ajusten a lo anterior.
+La Dirección de Tránsito Municipal podrá realizar inspecciones a los vehículos que circulan en el Municipio, con la finalidad de verificar que se encuentren en condiciones apropiadas para circular, que se sujeten a lo señalado previamente y cumplan con los demás requisitos establecidos en el presente Capítulo, pudiendo retirar de la circulación y asegurar aquellos vehículos que no se ajusten a lo anterior.
 
 DE LOS CONDUCTORES DE VEHÍCULOS
 
@@ -2719,9 +2743,11 @@ IV. Los invidentes deberán usar bastón plegadizo de color rojo y blanco y silb
 
 V. Las personas con discapacidad o enfermos que circulen en carros de mano, sillas de ruedas o aparatos similares, deben cruzar por las rampas destinadas a tal efecto y, de preferencia, ser auxiliados por otras personas.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 282.
 
-Se prohíbe el uso de la vía pública para toda clase de competencia y juegos organizados que requieran autorización específica, así como transitar sobre ella con vehículos no reglamentados que puedan dañar la vía pública o pongan en riesgo la integridad de los usuarios, salvo que el Secretario General de Seguridad Pública y Vialidad Municipal otorgue permiso especial para ello. Con forme a lo establecido a este Capítulo, los padres, tutores o encargados de los menores de edad, si se trata de éstos, serán responsables de la infracción a lo dispuesto en este artículo.
+Se prohíbe el uso de la vía pública para toda clase de competencia y juegos organizados que requieran autorización específica, así como transitar sobre ella con vehículos no reglamentados que puedan dañar la vía pública o pongan en riesgo la integridad de los usuarios, salvo que el Secretario de Seguridad Pública y Tránsito Municipal otorgue permiso especial para ello. Conforme a lo establecido a este Capítulo, los padres, tutores o encargados de los menores de edad, si se trata de éstos, serán responsables de la infracción a lo dispuesto en este artículo.
 
 ###### Artículo 283.
 
@@ -2741,15 +2767,19 @@ El conductor que permita alguna de estas infracciones, será sancionado en los m
 
 DE LAS SEÑALES UTILIZADAS PARA REGULAR EL TRÁNSITO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 284.
 
-La Secretaría General de Seguridad Pública y Vialidad Municipal, por conducto de la Dirección de Seguridad Vial o la instancia que determine el Ayuntamiento, tiene a su cargo, conforme a las disposiciones federales y estatales aplicables, determinar y supervisar la instalación de señales mecánicas y luminosas, reflejantes, aparatos electromecánicos u otros semejantes, que indiquen las prevenciones que deben observar los peatones y conductores de vehículos para su correcta circulación, así como regular las señales realizadas por elementos pertenecientes al personal operativo de la misma Dirección, para dirigir el tránsito de aquellos.
+La Secretaría de Seguridad Pública y Tránsito Municipal, por conducto de la Dirección de Tránsito Municipal o la instancia que determine el Ayuntamiento, tiene a su cargo, conforme a las disposiciones federales y estatales aplicables, determinar y supervisar la instalación de señales mecánicas y luminosas, reflejantes, aparatos electromecánicos u otros semejantes, que indiquen las prevenciones que deben observar los peatones y conductores de vehículos para su correcta circulación, así como regular las señales realizadas por elementos pertenecientes al personal operativo de la misma Dirección, para dirigir el tránsito de aquellos.
 
 El proyecto e instalación de dispositivos y marcas de señalamiento, se harán con base en el Manual para el Control de Tránsito en Calles y Carreteras o en las normas oficiales de carácter técnico que lo sustituyan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 285.
 
-La Dirección de Seguridad Vial utilizará las siguientes señales fijas:
+La Dirección de Tránsito Municipal, utilizará las siguientes señales fijas:
 
 I. PREVENTIVAS.- Que tienen por objeto advertir al usuario la existencia y naturaleza de un peligro en el camino y se usarán en los siguientes casos:
 
@@ -2799,7 +2829,7 @@ III. INFORMATIVAS.- Que sirvan para guiar al usuario lo largo de su ruta, indic�
 
 a). De ruta: Que identifican los caminos y vías públicas según el número o nombre que se les haya asignado, así como el sentido que sigan los mismos;
 
-b).De destino: Que Indican al usuario el nombre de la población, delegación, colonia o zona que encuentre sobre la ruta, el número o nombre de ésta y la dirección de deberá seguir;
+b). De destino: Que Indican al usuario el nombre de la población, delegación, colonia o zona que encuentre sobre la ruta, el número o nombre de ésta y la dirección de deberá seguir;
 
 c). De servicios: Que indican el tipo, su proximidad y los lugares donde se prestan éstos;
 
@@ -2829,17 +2859,25 @@ III. Los colores se pueden combinar con flechas que hagan referencia a las manio
 
 IV. Las luces de color verde y ámbar pueden parpadear entres (sic) tres y cinco ocasiones consecutivas para indicar que el dispositivo está por cambiar a la luz del color siguiente;
 
-V. La duración de cada luz será determinada por la Dirección de Seguridad Vial, de acuerdo con la afluencia de vehículos en cada intersección y su sincronización con los demás semáforos de dicha (sic) vías, y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-VI. Si en un crucero las luces de los semáforos funcionan de manera intermitente de acuerdo con el horario de funcionamiento que fije la Dirección de Seguridad Vial, los conductores deberán hacer alto parcial en caso de luz amarilla y total si es roja, antes de proseguir la marcha.
+V. La duración de cada luz será determinada por la Dirección de Tránsito Municipal, de acuerdo con la afluencia de vehículos en cada intersección y su sincronización con los demás semáforos de dicha (sic) vías, y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VI. Si en un crucero las luces de los semáforos funcionan de manera intermitente de acuerdo con el horario de funcionamiento que fije la Dirección de Tránsito Municipal, los conductores deberán hacer alto parcial en caso de luz amarilla y total si es roja, antes de proseguir la marcha.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 288.
 
-La Dirección de Seguridad Vial marcará sobre el pavimento de las calles, con pintura de color blanco o amarillo o con alguna otra señal que considere adecuada, las líneas necesarias para canalizar las diferentes corrientes de circulación y para indicar los lugares en donde los vehículos deben efectuar “alto” al finalizar las calles; así como para delimitar las zonas de seguridad o paso de peatones. En la misma forma se pintarán flechas que indiquen la dirección de (sic) deban tomar los vehículos.
+La Dirección de Tránsito Municipal marcará sobre el pavimento de las calles, con pintura de color blanco o amarillo o con alguna otra señal que considere adecuada, las líneas necesarias para canalizar las diferentes corrientes de circulación y para indicar los lugares en donde los vehículos deben efectuar “alto” al finalizar las calles; así como para delimitar las zonas de seguridad o paso de peatones. En la misma forma se pintarán flechas que indiquen la dirección de (sic) deban tomar los vehículos.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 289.
 
-A la Dirección de Seguridad Vial le corresponde señalar las zonas o lugares de la vía pública en donde el estacionamiento esté permitido, sujeto a horarios especiales, limitado a vehículos oficiales o prohibido, mandando pintar en el primer caso una franja blanca sobre la guarnición de las banquetas y en los tres supuestos siguientes, un franja de color amarillo sin perjuicio de utilizar o autorizar otro tipo de señalizaciones con el mismo fin. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos.
+A la Dirección de Tránsito Municipal le corresponde señalar las zonas o lugares de la vía pública en donde el estacionamiento esté permitido, sujeto a horarios especiales, limitado a vehículos oficiales o prohibido, mandando pintar en el primer caso una franja blanca sobre la guarnición de las banquetas y en los tres supuestos siguientes, un franja de color amarillo sin perjuicio de utilizar o autorizar otro tipo de señalizaciones con el mismo fin. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos.
 
 ###### Artículo 290.
 
@@ -2877,41 +2915,47 @@ II. Adosar o colocar propaganda, letreros u otra clase de objetos, cuando por su
 
 DE LAS VIALIDADES DE INTENSO TRÁNSITO
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 292.
 
-La Dirección de Seguridad Vial realizará las acciones necesarias para definir y establecer las vialidades de intenso tránsito en el Municipio, en las que sea necesario establecer disposiciones especiales, horarios o restricciones, para facilitar o hacer más expedita la circulación de vehículos.
+La Dirección de Tránsito Municipal realizará las acciones necesarias para definir y establecer las vialidades de intenso tránsito en el Municipio, en las que sea necesario establecer disposiciones especiales, horarios o restricciones, para facilitar o hacer más expedita la circulación de vehículos.
 
-Para este objeto, la Dirección de Seguridad Vial debe tomar en cuenta las zonas comerciales, de oficinas públicas, de centros de reunión, de espectáculos, de mercados y todas aquéllas que por su naturaleza determinen una afluencia considerable de vehículos.
+Para este objeto, la Dirección de Tránsito Municipal debe tomar en cuenta las zonas comerciales, de oficinas públicas, de centros de reunión, de espectáculos, de mercados y todas aquéllas que por su naturaleza determinen una afluencia considerable de vehículos.
 
 DE LOS ESTACIONAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 293.
 
-El estacionamiento en las vías públicas se permitirá solamente en los lugares que determine el Ayuntamiento, por conducto de la Dirección de Seguridad Vial.
+El estacionamiento en las vías públicas se permitirá solamente en los lugares que determine el Ayuntamiento, por conducto de la Dirección de Tránsito Municipal.
 
-I. La Dirección de Seguridad Vial hará el señalamiento de las vialidades en que se permita o prohíba el estacionamiento, así como las zonas y cajones respectivos, usando señales uniformes, claras, visibles, fácilmente compresivas y colocadas en forma ordenada, pudiendo precisar además el máximo de tiempo que en ellos se permita e instalar los dispositivos que considere convenientes;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-II. En las calles en donde se permita el estacionamiento de vehículos, los conductores de éstos están obligados a estacionarlos sobre el lado izquierdo de la dirección en que circulen, salvo casos en que se permita efectuar estacionamientos en el lado opuesto.
+I. La Dirección de Tránsito Municipal hará el señalamiento de las vialidades en que se permita o prohíba el estacionamiento, así como las zonas y cajones respectivos, usando señales uniformes, claras, visibles, fácilmente compresivas (sic) y colocadas en forma ordenada, pudiendo precisar además el máximo de tiempo que en ellos se permita e instalar los dispositivos que considere convenientes;
+
+II. En las calles en donde se permita el estacionamiento de vehículos, los conductores de éstos están obligados a estacionarlos sobre el lado izquierdo de la dirección en que circulen, salvo casos en que se permita efectuar estacionamientos en el lado opuesto;
 
 III. En todo caso los conductores deben observar estrictamente las disposiciones relativas a estacionamientos en “cordón” o en “batería” que sobre el particular apruebe la misma Dirección, y
 
 IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 294.
 
-Las personas con capacidad diferente, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Seguridad Vial la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
+Las personas con capacidad diferente, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Tránsito Municipal la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
 
-I. Vigilar en coordinación con la Dirección de Registro y Fiscalización, que en los estacionamientos, dichos espacios se establezcan en la proporción y con las características reglamentadas por las disposiciones municipales en materia de construcciones;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+I. Vigilar en coordinación con la Unidad de Normatividad y Regulación Comercial que en los estacionamientos, dichos espacios se establezcan en la proporción y con las características reglamentadas por las disposiciones municipales en materia de construcciones;
 
 II. En las calles y avenidas en el que se permita el estacionamiento de vehículos, destinar un espacio por cada veinte o fracción a partir de diez, para uso reservado a personas con discapacidad, con las dimensiones que la misma autoridad estime convenientes y con una ubicación lo más cercana posible de las rampas establecidas para facilitar el tránsito, la seguridad y la accesibilidad de dichas personas, instalando la señal internacional del discapacitado en un lugar fácilmente visible y pintada, además sobre el pavimento del cajón;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
-III. Procurar el respeto de estos espacios, cuidando que en los mismos sólo se estacionen los vehículos que tengan la placa correspondiente, expedida por la autoridad estatal competente.
+III. Procurar el respeto de estos espacios, cuidando que en los mismos sólo se estacionen los vehículos que tengan la placa correspondiente, expedida por la autoridad estatal competente;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -2965,15 +3009,17 @@ XV. En las demás zonas o áreas de la vía pública que determine el Ayuntamien
 
 El estacionamiento de vehículos en inmuebles distintos a la vía pública estará permitido siempre que el inmueble respectivo cumpla las condiciones y requisitos municipales en materia de desarrollo urbano y construcciones y que el prestador de servicio, tratándose de estacionamientos públicos, cuente con la documentación que se menciona en el Capítulo respectivo y cumpla con las disposiciones que establezca el Ayuntamiento, relativas al funcionamiento de este tipo de establecimientos.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 299.
 
-En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la Secretaría de Seguridad Pública y Tránsito Municipal para que, a través de la Dirección de Seguridad Vial, lo revise y apruebe su impacto en el tránsito municipal. La aprobación del proyecto que en su caso emita el titular de la Secretaría General de Seguridad Pública y Vialidad Municipal, será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas.
+En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la Secretaría de Seguridad Pública y Tránsito Municipal para que, a través de la Dirección de Tránsito Municipal, lo revise y apruebe su impacto en el tránsito municipal. La aprobación del proyecto que en su caso emita el titular de la Secretaría de Seguridad Pública y Tránsito Municipal, será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 300.
 
-Para el cumplimiento de lo dispuesto en el presente Capítulo, la Secretaría General de Seguridad Pública y Vialidad Municipal, a través de las áreas que determine su titular, estará facultada para aplicar como medidas de seguridad la inmovilización o el retiro de los vehículos estacionados en forma o lugares prohibidos, utilizando los medios adecuados para hacerlo sin causar daños a los mismos.
+Para el cumplimiento de lo dispuesto en el presente Capítulo, la Secretaría de Seguridad Pública y Tránsito Municipal, a través de las áreas que determine su titular, estará facultada para aplicar como medidas de seguridad la inmovilización o el retiro de los vehículos estacionados en forma o lugares prohibidos, utilizando los medios adecuados para hacerlo sin causar daños a los mismos.
 
 DE LA CONDUCCIÓN Y CIRCULACIÓN DE VEHÍCULOS DE LA CIRCULACIÓN EN GENERAL
 
@@ -3171,9 +3217,11 @@ Los conductores de vehículos deberán tener el debido cuidado para evitar atrop
 
 En intersecciones o zonas marcadas para paso de peatones, donde no haya semáforo ni agentes que regulen la circulación, los conductores deberán ceder el paso a los peatones que se encuentren sobre la superficie de rodamiento correspondiente al sentido de circulación del vehículo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 321.
 
-El conductor que produzca o sufra algún accidente de tránsito, está obligado a detenerse inmediatamente y si hubiere algún lesionado, las personas involucradas deberán solicitar auxilio y no separarse del lugar bajo ningún pretexto, hasta que hayan intervenido las autoridades competentes, correspondiendo al área de servicios periciales de la Dirección de Seguridad Vial dictaminar, en su caso, sobre las circunstancias en que se produjo el accidente y las responsabilidades en materia vial derivadas del mismo, para los efectos a que haya lugar.
+El conductor que produzca o sufra algún accidente de tránsito, está obligado a detenerse inmediatamente y si hubiere algún lesionado, las personas involucradas deberán solicitar auxilio y no separarse del lugar bajo ningún pretexto, hasta que hayan intervenido las autoridades competentes, correspondiendo al área de servicios periciales de la Dirección de Tránsito Municipal dictaminar, en su caso, sobre las circunstancias en que se produjo el accidente y las responsabilidades en materia vial derivadas del mismo, para los efectos a que haya lugar.
 
 ###### Artículo 322.
 
@@ -3197,9 +3245,11 @@ VI. Que ostente frases, leyendas u otras manifestaciones gráficas que lesionan 
 
 VII. Que usen propaganda luminosa, dispositivos reflejantes o faros traseros de luz blanca que causen deslumbramiento a los demás conductores.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 324.
 
-La Dirección de Seguridad Vial, por conducto de los elementos a su servicio y como medida preventiva o de seguridad, puede retirar de la circulación los vehículos que presenten cualquiera de las características prohibidas en el artículo anterior, hasta que se corrija su situación, debiendo dar parte de inmediato, en su caso, a las autoridades competentes en materia de ecología o transporte, para los efectos legales correspondientes.
+La Dirección de Tránsito Municipal por conducto de los elementos a su servicio y como medida preventiva o de seguridad, puede retirar de la circulación los vehículos que presenten cualquiera de las características prohibidas en el artículo anterior, hasta que se corrija su situación, debiendo dar parte de inmediato, en su caso, a las autoridades competentes en materia de ecología o transporte, para los efectos legales correspondientes.
 
 ###### Artículo 325.
 
@@ -3223,7 +3273,9 @@ I. Por disposiciones federales, estatales y municipales conducentes, por lo que 
 
 II. Por lo establecido en este Capítulo, en todo lo concerniente a su circulación, requisitos y condiciones para transitar.
 
-Los pasajeros tendrán derecho a exigir al conductor del vehículo y, en su caso, a los agentes de transito de la Dirección de Seguridad Vial, que se cumpla con dichas disposiciones.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Los pasajeros tendrán derecho a exigir al conductor del vehículo y, en su caso, a los agentes de tránsito de la Dirección de Tránsito Municipal, que se cumpla con dichas disposiciones.
 
 ###### Artículo 328.
 
@@ -3253,15 +3305,21 @@ II. Los transportistas de líquidos, gases y suspensiones deben estar dotados de
 
 III. Los transporte de carnes y vísceras deben llevar una caja de carga acondicionada, que garantice las condiciones higiénicas indispensables, y se sujetarán, además, a las disposiciones sanitarias que resulten aplicables;
 
-IV. Para transportar materias u objetos repugnantes a la vista o al olfato, será obligatorio, además de llevarlos debidamente cubiertos, contar con el permiso respectivo de la Dirección de Seguridad Vial, en el que, de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones sanitarias aplicables;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-V. Para el transporte de maquinaria u objetos cuyo tamaño o peso puedan ocasionar lentitud en la maniobra, entorpecer la libre circulación o causar perjuicio a los pavimentos, debe contarse previamente con la autorización de la Dirección de Seguridad Vial, la que señalará el horario, ruta o condiciones a que deberá sujetarse el acarreo de dichos objetos;
+IV. Para transportar materias u objetos repugnantes a la vista o al olfato, será obligatorio, además de llevarlos debidamente cubiertos, contar con el permiso respectivo de la Dirección de Tránsito Municipal, en el que, de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones sanitarias aplicables;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. Para el transporte de maquinaria u objetos cuyo tamaño o peso puedan ocasionar lentitud en la maniobra, entorpecer la libre circulación o causar perjuicio a los pavimentos, debe contarse previamente con la autorización de la Dirección de Tránsito Municipal, la que señalará el horario, ruta o condiciones a que deberá sujetarse el acarreo de dichos objetos;
 
 VI. El transporte de ganado bravo o bestias peligrosas debe hacerse con las precauciones debidas;
 
 VII. En los vehículos de carga de más de 1,500 kilos, sólo se permitirá que viajen en la cabina el conductor y hasta dos personas más;
 
-VIII. Cuando por el peso de lo transportado se produzca excesiva trepidación, deberán tomarse las precauciones que fije la Dirección de Seguridad Vial; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VIII. Cuando por el peso de lo transportado se produzca excesiva trepidación, deberán tomarse las precauciones que fije la Dirección de Tránsito Municipal; y
 
 IX. Se prohíbe a los conductores, mientras el vehículo esté en movimiento, usar aparatos de televisión a la vista de los mismos o realizar alguna otra actividad que provoque su distracción o ponga en peligro la seguridad de los pasajeros y terceros.
 
@@ -3273,11 +3331,15 @@ I. Debe efectuarse en vehículos adaptados exclusivamente para tal objeto o en l
 
 II. En el caso de materias inflamables, los vehículos deben llevar cadenas metálicas que vayan en contacto con el piso;
 
-III. En todos los casos, los vehículos deben estar dotados, como mínimo, de un extinguidor de incendio y no podrán circular dentro del primer cuadro de la Ciudad ni en sectores de intenso tránsito o de alta densidad poblacional, salvo que la Dirección de Seguridad Vial, en coordinación con la Unidad Operativa Municipal de Protección Civil, conceda permiso para ello, fijando la ruta y horario respectivo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. En todos los casos, los vehículos deben estar dotados, como mínimo, de un extinguidor de incendio y no podrán circular dentro del primer cuadro de la Ciudad ni en sectores de intenso tránsito o de alta densidad poblacional, salvo que la Dirección de Tránsito Municipal, en coordinación con la Unidad Operativa Municipal de Protección Civil, conceda permiso para ello, fijando la ruta y horario respectivo;
 
 IV. No podrán estacionarse en zonas densamente pobladas o unidades habitacionales, más que por el tiempo indispensable para distribuir los productos que transportan;
 
-V. Para el transporte de explosivos en el Municipio, es obligatorio contar previamente con permiso de la Secretaria de la Defensa Nacional y autorización de la Dirección de Seguridad Vial, que contenga el horario y ruta a que forzosamente habrá de sujetarse el acarreo; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. Para el transporte de explosivos en el Municipio, es obligatorio contar previamente con permiso de la Secretaría de la Defensa Nacional y autorización de la Dirección de Tránsito Municipal que contenga el horario y ruta a que forzosamente habrá de sujetarse el acarreo; y
 
 VI. Los vehículos que transporten materias inflamables o explosivas deben usar una bandeja roja en la parte posterior del vehículo y en forma ostensible se fijaran rótulos en las posteriores y laterales que contengan la inscripción “PELIGRO, EXPLOSIVOS” o “PELIGRO, INFLAMABLE”.
 
@@ -3289,9 +3351,11 @@ Los conductores de vehículos de transporte público o mercantil tendrán las mi
 
 Los conductores de vehículos de transporte público o mercantil, tienen prohibido estacionarlos en la vía pública para hacer reparaciones o limpieza de éstos, para abastecerse de las materias o sustancias que transportan, o para realizar algún chequeo con sus concesionarios, permisionarios o de los dependientes de éstos. En el caso de sitios, bases o terminales, se deberá contar con la autorización de las instancias competentes para estacionar las unidades respectivas en la vía pública.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 333.
 
-La Dirección de Seguridad Vial intervendrá con las autoridades federales y estatales, en la realización de los estudios técnicos que se requieran para el establecimiento de los horarios, tarifas e itinerarios del servicio público de transporte, los cuales serán determinados por las instancias competentes.
+La Dirección de Tránsito Municipal intervendrá con las autoridades federales y estatales, en la realización de los estudios técnicos que se requieran para el establecimiento de los horarios, tarifas e itinerarios del servicio público de transporte, los cuales serán determinados por las instancias competentes.
 
 DE LOS USUARIOS DEL SERVICIO DE TRANSPORTE DE PERSONAS
 
@@ -3337,9 +3401,11 @@ II. Bases.- Los predios de propiedad particular o superficies de la infraestruct
 
 III. Sitios.- Los predios de propiedad particular o lugares de la vía pública, que se pueden determinar como áreas de servicio auxiliar para el transporte mercantil de personas y que se establezcan conforme a lo previsto por la legislación estatal, previó dictamen en términos del siguiente artículo, para ser destinados por las empresas o permisionarios del servicio de automóviles de alquiler o taxis, a estacionar sus vehículos durante su horario de servicio, sin exceder el número de unidades permitido, y a los que el usuario pueda acudir para su contratación.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 338.
 
-Para el establecimiento de terminales de competencia federal o estatal, bases y sitios en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la Secretaría General de Seguridad Pública y Vialidad Municipal respecto de su ubicación y funcionamiento, sin perjuicio de la demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
+Para el establecimiento de terminales de competencia federal o estatal, bases y sitios en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la Secretaría de Seguridad Pública y Tránsito Municipal respecto de su ubicación y funcionamiento, sin perjuicio de la (sic) demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
 
 ###### Artículo 339.
 
@@ -3359,7 +3425,9 @@ V. Los demás que determinen las autoridades competentes, en los diferente (sic)
 
 La tramitación de los dictámenes a que se refiere esta Sección, se sujetará a las siguientes disposiciones:
 
-I. La solicitud se hará por escrito ante la Dirección de Seguridad Vial, proporcionando los siguientes datos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+I. La solicitud se hará por escrito ante la Dirección de Tránsito Municipal, proporcionando los siguientes datos:
 
 a). Nombre y dirección del solicitante;
 
@@ -3371,11 +3439,19 @@ d). Las características de los vehículos motivo de la solicitud, indicando si 
 
 e). La clase de servicio que se pretenda prestar y el número de vehículos que vayan a estacionarse.
 
-II. Admitida la solicitud, la Dirección de Seguridad Vial procederá a inspeccionar el lugar de que se trate y verificará el cumplimiento de los requisitos respectivos;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Director General de Seguridad Pública y Vialidad resolverá lo conducente; y
+II. Admitida la solicitud, la Dirección de Tránsito Municipal procederá a inspeccionar el lugar de que se trate y verificará el cumplimiento de los requisitos respectivos;
 
-IV. En caso de ser favorable el dictamen, el Director General de Seguridad Pública y Vialidad debe indicar en éste el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la vía pública, o si, tratándose de una base, sólo servirá de referencia de paso o control.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Secretaio de Seguridad Pública y Tránsito Municipal resolverá lo conducente; y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IV. En caso de ser favorable el dictamen, el Secretario de Seguridad Pública y Tránsito Municipal
+
+debe indicar en éste el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la vía pública, o si, tratándose de una base, sólo servirá de referencia de paso o control.
 
 ###### Artículo 341.
 
@@ -3393,9 +3469,11 @@ V. Prevenir y evitar que en dichos lugares se propicien o realicen actos graves,
 
 VI. Las demás que se contengan en los ordenamientos vigentes o establezcan las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 342.
 
-En caso de que la Dirección de Seguridad Vial considere conveniente para el tránsito municipal, suprimir o cambiar de ubicación las estaciones, terminales, bases o sitios que constituyan un problema para la circulación, podrá concertar con los interesados las medidas conducentes, sin perjuicio de que el Ayuntamiento, en cualquier tiempo, pueda solicitar al Gobierno del Estado que autorice su supresión su cambio de ubicación, incluso que cancele el permiso o revoque la concesión otorgada, cuando se incumpla lo dispuesto en este Capítulo o de alguna otra forma se afecte el interés público.
+En caso de que la Dirección de Tránsito Municipal considere conveniente para el tránsito municipal, suprimir o cambiar de ubicación las estaciones, terminales, bases o sitios que constituyan un problema para la circulación, podrá concertar con los interesados las medidas conducentes, sin perjuicio de que el Ayuntamiento, en cualquier tiempo, pueda solicitar al Gobierno del Estado que autorice su supresión su cambio de ubicación, incluso que cancele el permiso o revoque la concesión otorgada, cuando se incumpla lo dispuesto en este Capítulo o de alguna otra forma se afecte el interés público.
 
 Si la instancia competente autoriza la supresión o cambio de ubicación de alguna base o sitio, el interesado podrá solicitar que se le autorice otro lugar para el establecimiento de la nueva base o sitio de acuerdo con esta Sección, o bien, su incorporación a otros ya establecidos.
 
@@ -3441,23 +3519,31 @@ SEGURIDAD VIAL
 
 El Ayuntamiento, a través de la Secretaría de Seguridad Pública y Tránsito Municipal, ejercerá las funciones de prevención, vigilancia, dirección, inspección y control que el presente Capítulo establece en materia de seguridad vial, tránsito municipal y estacionamiento en la vía pública, así como las demás que se desprendan de los convenios o acuerdos de coordinación que suscriban con el Estado y otros Municipios, en ésta u otras materias relacionadas.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 346.
 
-La Secretaría de Seguridad Pública y Vialidad Municipal, aplicará las medidas preventivas y de seguridad que se requieran y sancionará las transgresiones a lo establecido por el presente Capítulo y las demás disposiciones relativas, por conducto de la Dirección de Seguridad Vial y los agentes adscritos a la misma, en los términos que este mismo ordenamiento establece y sin perjuicio de las atribuciones que correspondan a otras autoridades, conforme a las normas vigentes en materia fiscal, sanitaria, de transporte mercantil o cualquier otra relacionada con el tránsito vehicular.
+La Secretaría de Seguridad Pública y Tránsito Municipal, aplicará las medidas preventivas y de seguridad que se requieran y sancionará las transgresiones a lo establecido por el presente Capítulo y las demás disposiciones relativas, por conducto de la Dirección de Tránsito Municipal y los agentes adscritos a la misma, en los términos que este mismo ordenamiento establece y sin perjuicio de las atribuciones que correspondan a otras autoridades, conforme a las normas vigentes en materia fiscal, sanitaria, de transporte mercantil o cualquier otra relacionada con el tránsito vehicular.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 347.
 
-La Secretaría General de Seguridad Pública y Vialidad Municipal, por acuerdo del Presente Municipal, podrá coordinarse de manera operativa con las autoridades federales, estatales y de otros Municipios, competentes, en la materia o en otros ámbitos relacionados con la misma, para el mejor cumplimiento de sus respectivas atribuciones, debiendo sujetarse en tales casos a los convenios, acuerdos e instrucciones correspondientes.
+La Secretaría de Seguridad Pública y Tránsito Municipal, por acuerdo del Presidente Municipal, podrá coordinarse de manera operativa con las autoridades federales, estatales y de otros Municipios, competentes, en la materia o en otros ámbitos relacionados con la misma, para el mejor cumplimiento de sus respectivas atribuciones, debiendo sujetarse en tales casos a los convenios, acuerdos e instrucciones correspondientes.
 
 DE LOS PROCEDIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 348.
 
-Los agentes de la Dirección de Seguridad Vial, serán competentes para instrumentar el procedimiento relativo a los actos de control y supervisión del Ayuntamiento en materia de tránsito y seguridad vial, para lo cual deben conducirse con respeto en su trato hacia los particulares, observar los principios éticos del servicio público, abstenerse de incurrir en responsabilidades u otras faltas y cumplir con las siguientes formalidades.
+Los agentes de la Dirección de Tránsito Municipal serán competentes para instrumentar el procedimiento relativo a los actos de control y supervisión del Ayuntamiento en materia de tránsito y seguridad vial, para lo cual deben conducirse con respeto en su trato hacia los particulares, observar los principios éticos del servicio público, abstenerse de incurrir en responsabilidades u otras faltas y cumplir con las siguientes formalidades.
 
 I. Estos actos podrán practicarse en cualquier día y hora, pudiendo consistir en operativo de vigilancia y seguridad vial permanentes u ordenados por la autoridad competente y en acción de verificación de los vehículos, el estado de los conductores, sus documentos y demás obligaciones relacionados con los mismos;
 
-II. Para realizar estas diligencias, bastará que los agentes de la Dirección de Seguridad Vial que esté de turno se encuentren debidamente uniformados y cuenten con la identificación oficial que los acredite como tales, requiriéndose orden escrita sólo en los casos que se pretenda inspeccionar un inmueble distinto de la vía pública, siendo aplicables a tal supuesto las disposiciones municipales en materia de visitas de inspección;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+II. Para realizar estas diligencias, bastará que los agentes de la Dirección de Tránsito Municipal que estén de turno se encuentren debidamente uniformados y cuenten con la identificación oficial que los acredite como tales, requiriéndose orden escrita sólo en los casos que se pretenda inspeccionar un inmueble distinto de la vía pública, siendo aplicables a tal supuesto las disposiciones municipales en materia de visitas de inspección;
 
 III. Los agentes, a detener algún vehículo e iniciar acciones de verificación se identificarán debidamente con el conductor o la persona con quien se entienda la diligencia o, en su defecto, asentarán en el acta de infracción que no se halló ninguna persona en ese momento que tuviera relación con el vehículo o área objeto de la supervisión;
 
@@ -3487,15 +3573,19 @@ i). Los demás datos relativos a la actuación.
 
 VII. Al levantar el acta de infracción, el agente de seguridad vial debe dar oportunidad a la persona con la que se entendió la diligencia, para que en el mismo acto, si lo desea, declare lo que estime conveniente;
 
-VIII. Cumplido lo anterior, se procederá a la firma del acta por quienes en ella hayan intervenido, se entregará el original de la misma al interesado y otro tanto se remitirá a la Dirección de Seguridad Vial;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VIII. Cumplido lo anterior, se procederá a la firma del acta por quienes en ella hayan intervenido, se entregará el original de la misma al interesado y otro tanto se remitirá a la Dirección de Tránsito Municipal;
 
 IX. Si el conductor o la persona con quien se entendió la diligencia se negaré a firmar, o a aceptar el original del acta levantada, ello no afectará el valor jurídico de la misma ni su eficacia, siempre y cuando el agente de seguridad vial haga constar dichas circunstancias y asiente las razones relativas; y
 
 X. En caso de que el infractor no esté presente en el momento en que se levante el acta de infracción o se niegue a recibirla, el original de ésta se dejara en lugar visible del vehículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 349.
 
-Con el fin de evitar mayores afectaciones al tránsito, la seguridad vial, la salud, el ambiente o el orden público en el Municipio, así como de garantizar el pago de las multas impuestas por concepto de infracciones, la Dirección de Seguridad Vial, a través de sus agentes y de acuerdo a las condiciones imperantes, deberá aplicar, las medidas preventivas y de seguridad que este establece el presente Capítulo, en el ámbito de su competencia.
+Con el fin de evitar mayores afectaciones al tránsito, la seguridad vial, la salud, el ambiente o el orden público en el Municipio, así como de garantizar el pago de las multas impuestas por concepto de infracciones, la Dirección de Tránsito Municipal, a través de sus agentes y de acuerdo a las condiciones imperantes, deberá aplicar, las medidas preventivas y de seguridad que establece el presente Capítulo, en el ámbito de su competencia.
 
 La aplicación de dichas medidas se hará siempre de manera alternativa atendiendo a la brevedad y demás circunstancias del acto; pero tratándose de la retención de documentos, sólo podrá retenerse uno de éstos. Para el retiro de vehículos de la circulación, se hará uso de grúa si fuere necesario.
 
@@ -3511,13 +3601,17 @@ Los agentes de seguridad vial también podrán detener para su remisión a las a
 
 El propietario del vehículo objeto de la infracción y de la medida preventiva o de seguridad, en su caso, dispondrá de un plazo de veinte días naturales contados a partir del día siguiente a la fecha en que se impuso la medida preventiva o de seguridad o se fijo la multa, para cubrirla, así como los demás gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará a la autoridad fiscal competente, para su cobro y ejecución.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 352.
 
-Después de recibir las actas de infracción que se levanten, la Dirección de Seguridad Vial procederá a aplicar las sanciones correspondientes, las cuales se determinarán, individualizarán, calificarán, impondrán y en su caso ejecutarán, conforme a lo dispuesto por este Capítulo y demás ordenamientos que resulten aplicables, en los términos establecidos en el tabulador de infracciones y multas, sin perjuicio de las sanciones que procedan conforme a las leyes penales u otras disposiciones.
+Después de recibir las actas de infracción que se levanten, el Departamento de Infracciones dependiente de la Dirección de Ingresos de la Tesorería Municipal procederá a aplicar las sanciones correspondientes, las cuales se determinarán, individualizarán, calificarán, impondrán y en su caso ejecutarán, conforme a lo dispuesto por este Capítulo y demás ordenamientos que resulten aplicables, en los términos establecidos en el tabulador de infracciones y multas, sin perjuicio de las sanciones que procedan conforme a las leyes penales u otras disposiciones.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 353.
 
-Si los hechos u omisiones asentados en el acta de infracción corresponde a alguno de los supuestos que, de acuerdo con las disposiciones aplicables en materia de licencias, se deben sancionar con la suspensión o cancelación de la licencia respectiva, la Dirección de Seguridad Vial deberá hacerlo del conocimiento de la autoridad competente, enviando dentro del término que señala el artículo siguiente, copia certificada del expediente formado, para que ésta pueda iniciar el procedimiento que corresponda, participando la Dirección de Seguridad Vial en los términos conducentes.
+Si los hechos u omisiones asentados en el acta de infracción corresponde a alguno de los supuestos que, de acuerdo con las disposiciones aplicables en materia de licencias, se deben sancionar con la suspensión o cancelación de la licencia respectiva, la Dirección de Tránsito Municipal deberá hacerlo del conocimiento de la autoridad competente, enviando dentro del término que señala el artículo siguiente, copia certificada del expediente formado, para que ésta pueda iniciar el procedimiento que corresponda, participando la Dirección de Tránsito Municipal en los términos conducentes.
 
 ###### Artículo 354.
 
@@ -3547,23 +3641,31 @@ e). Por hacer uso de una licencia alterado o falsificada;
 
 f). Por dos o más suspensiones dictadas por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 355.
 
-Una vez que la Dirección de Seguridad Vial, tenga conocimiento de que ha ocurrido cualquiera de los casos que motiven la suspensión o cancelación de licencias procederá, dentro de las setenta y dos horas siguientes, a dictar un acuerdo por el que ordene remitir el expediente interno de la Dirección a la autoridad competente, para que ésta tramite y determine si así procede la suspensión o cancelación de la licencia e imponga las demás medidas de seguridad que resulten conducentes.
+Una vez que la Dirección de Tránsito Municipal tenga conocimiento de que ha ocurrido cualquiera de los casos que motiven la suspensión o cancelación de licencias procederá, dentro de las setenta y dos horas siguientes, a dictar un acuerdo por el que ordene remitir el expediente interno de la Dirección a la autoridad competente, para que ésta tramite y determine si así procede la suspensión o cancelación de la licencia e imponga las demás medidas de seguridad que resulten conducentes.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 356.
 
-Suspendida o cancelada una licencia, la Dirección de Seguridad Vial tomará nota en los registros respectivos y coadyuvará con las autoridades competentes en materia de licencia apoyando en la aplicación de las resoluciones respectivas, mediante la retención de las licencias que hubieren sido suspendidas o canceladas y la remisión del titular al Ministerio Público, cuando hubiere desobedecido dicha resolución.
+Suspendida o cancelada una licencia, la Dirección de Tránsito Municipal tomará nota en los registros respectivos y coadyuvará con las autoridades competentes en materia de licencia apoyando en la aplicación de las resoluciones respectivas, mediante la retención de las licencias que hubieren sido suspendidas o canceladas y la remisión del titular al Ministerio Público, cuando hubiere desobedecido dicha resolución.
 
 DE LAS FALTAS, MEDIDAS DE SEGURIDAD Y SANCIONES
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 357.
 
-La Dirección de Seguridad Vial, aplicará a los propietarios o conductores de vehículos, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo.
+La Dirección de Tránsito Municipal, aplicará a los propietarios o conductores de vehículos, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 358.
 
-Son medidas de seguridad las disposiciones que dicte la Dirección de Seguridad Vial, a través de los agentes autorizados, con el fin de proteger el orden, la seguridad, los servicios públicos o el patrimonio municipal, y de garantizar el pago de las multas que se impongan con motivo de la comisión de alguna falta, considerándose como tales medidas, para efectos de este Capítulo, las siguientes:
+Son medidas de seguridad las disposiciones que dicte la Dirección de Tránsito Municipal a través de los agentes autorizados, con el fin de proteger el orden, la seguridad, los servicios públicos o el patrimonio municipal, y de garantizar el pago de las multas que se impongan con motivo de la comisión de alguna falta, considerándose como tales medidas, para efectos de este Capítulo, las siguientes:
 
 I. Retensión de licencia de conducir, tarjetas de circulación, placas de vehículos, o permisos de circulación;
 
@@ -3575,9 +3677,11 @@ IV. La inhabilitación del infractor para conducir en el Municipio de Puebla, po
 
 Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario y para la inmovilización de los mismos los medios mecánicos que se consideren pertinentes, cuidando en ambos casos no dañar los vehículos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 359.
 
-Las faltas y violaciones a las disposiciones de este Capítulo que comentan los sujetos del mismo serán sancionadas administrativamente por el Ayuntamiento, a través de la Dirección de Seguridad Vial, según sea el caso, por una o más de las siguientes sanciones:
+Las faltas y violaciones a las disposiciones de este Capítulo que comentan los sujetos del mismo serán sancionadas administrativamente por el Ayuntamiento, a través de la Dirección de Tránsito Municipal; y serán ejecutadas por el Departamento de Infracciones de la Dirección de Ingresos de la Tesorería Municipal, según sea el caso, por una o más de las siguientes sanciones:
 
 I. Amonestación verbal; y
 
@@ -3585,9 +3689,11 @@ II. Multa por el importe de 2 a 40 días de salario mínimo general vigente en e
 
 Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código de Defensa Social del Estado de Puebla, el Capítulo de Policía y Gobierno de este Código Reglamentario o algún otro ordenamiento que resulte aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 360.
 
-Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la base de datos de la Dirección de Seguridad Vial, sólo se le sancionará de manera preventiva, imponiendo una amonestación verbal, salvo en caso de trasgresión a los artículos 261, 262, 268, 291 fracción I, 301, 303, 304 fracciones I y VI, 309, 321, 338 y 373 de este mismo ordenamiento. En estos últimos supuestos o a partir de la segunda infracción en los demás casos, las violaciones se sancionarán con la amonestación o la imposición de la multa señalada para cada falta de manera específica, y con equivalencia a las ordenadas estatalmente, en el siguiente:
+Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la base de datos de la Dirección de Tránsito Municipal, sólo se le sancionará de manera preventiva, imponiendo una amonestación verbal, salvo en caso de trasgresión a los artículos 261, 262, 268, 291 fracción I, 301, 303, 304 fracciones I y VI, 309, 321, 338 y 373 de este mismo ordenamiento. En estos últimos supuestos o a partir de la segunda infracción en los demás casos, las violaciones se sancionarán con la amonestación o la imposición de la multa señalada para cada falta de manera específica, y con equivalencia a las ordenadas estatalmente, en el siguiente:
 
 TABULADORES DE INFRACCIONES Y SANCIONES
 
@@ -3597,9 +3703,9 @@ TABULADORES DE INFRACCIONES Y SANCIONES
 
 Una vez calificadas e impuestas las sanciones dentro de los términos respectivos, las autoridades municipales ejecutoras deberán proceder conforme a las disposiciones aplicables para su ejecución y las personas a quienes en su carácter de infractores y responsables solidarios se les impongan sanciones en los términos del presente Capítulo, tendrán la obligación de cumplir con las mismas.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-El Ayuntamiento, por conducto de la Dirección de Seguridad Vial y las demás instancias competentes, señalará los plazos establecidos por este Capítulo, a las personas sancionadas a efecto de que cumplan con el pago respectivo, apercibiéndolos de que en caso de que no efectúen el pago de las multas impuestas, éstas se volverán fiscalmente exigibles y se procederá a su ejecución forzosa en términos de la legislación aplicable.
+El Ayuntamiento, por conducto de la Dirección de Ingresos de la Tesorería Municipal y las demás instancias competentes, señalará los plazos establecidos por este Capítulo, a las personas sancionadas a efecto de que cumplan con el pago respectivo, apercibiéndolos de que en caso de que no efectúen el pago de las multas impuestas, éstas se volverán fiscalmente exigibles y se procederá a su ejecución forzosa en términos de la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -3641,21 +3747,27 @@ En caso de reincidencia o habitualidad, el importe de las multas que corresponda
 
 Para los efectos de lo establecido en el presente Capítulo se considerará reincidente, al infractor que incurra más de dos veces en conductas que impliquen la comisión repetida de una misma falta, en un periodo de un año, contando a partir de que se haya realizado la primera falta o infracción, siempre que éstas no hubieren sido desvirtuadas; en tanto que por habitualidad se entiende que el infractor cometa distintas violaciones a las disposiciones de este Capítulo, cinco o más veces, dentro del periodo de un año, contado a partir de la fecha en que se le imponga la sanción correspondiente a la primera falta o infracción.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 366.
 
-El tabulador de infracciones se elaborará, modificará o adicionará, por el Ayuntamiento, en Sesión de Cabildo, tomando en cuenta la propuesta que envíe la Dirección General de Seguridad Pública y Vialidad Municipal.
+El tabulador de infracciones se elaborará, modificará o adicionará, por el Ayuntamiento, en Sesión de Cabildo, tomando en cuenta la propuesta que envíe la Secretaría de Seguridad Pública y Tránsito Municipal, así como la Dirección de Ingresos de la Tesorería Municipal.
 
 ###### Artículo 367.
 
 Cuando el infractor cometa varias transgresiones al presente Capítulo en un mismo acto, se le acumularán las sanciones correspondientes a cada una de ellas.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 368.
 
-Una vez determinada la falta o infracción que se hubiere cometido, el Ayuntamiento, por conducto de la Dirección de Seguridad Vial, procederá a individualizar, calificar e imponer la sanción o sanciones específicas correspondientes.
+Una vez determinada la falta o infracción que se hubiere cometido, el Ayuntamiento, por conducto del Departamento de Infracciones dependiente de la Dirección de Ingresos de la Tesorería Municipal, procederá a individualizar, calificar e imponer la sanción o sanciones específicas correspondientes.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 369.
 
-Las sanciones económicas impuestas deben pagarse en las oficinas autorizadas para ello y se sujetarán para su cobro y ejecución, a lo que estable el Código Fiscal y Presupuestario para el Municipio de Puebla.
+Para la aplicación del presente Capítulo, se estará en todo caso a lo establecido en las leyes y reglamentos federales, estatales y las disposiciones que al efecto determine el Ayuntamiento por conducto de la Dirección de Tránsito Municipal.
 
 ###### Artículo 370.
 
@@ -3727,9 +3839,11 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto la observancia y cumplimiento estricto, del Acuerdo por el que se establece el Sistema Municipal de Protección Civil en el Municipio de Puebla, regulando la aplicación de las acciones de protección civil relativas a la prevención y salvaguarda de las personas y sus bienes, así como el funcionamiento adecuado de los servicios públicos y equipamiento estratégico en caso de alto riesgo, catástrofe o calamidad pública.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 378.
 
-Corresponde al Presidente Municipal por conducto del Secretario de Gobernación Municipal y del Sistema Municipal de Protección Civil, la aplicación del presente Capítulo.
+Corresponde al Presidente Municipal por conducto del Secretario de Gobernación Municipal y del Sistema Municipal de Protección Civil, la aplicación del presente Capítulo a través de la Unidad Operativa Municipal de Protección Civil o la autoridad competente que desempeñe las funciones descritas en el mismo.
 
 ###### Artículo 379.
 
@@ -4285,11 +4399,11 @@ Las disposiciones establecidas en éste Capítulo, deberán ser observadas por l
 
 Se entiende como sitio público para los efectos de éste Capítulo, los edificios de departamentos, industriales, comercios, salas de espectáculos, hospitales, instalaciones deportivas o recreativas, laboratorios o cualquier otro semejante a los anteriores, a juicio del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 409.
 
-Corresponde a la Unidad Operativa Municipal de Protección Civil en coordinación con el Departamento de Registro y Fiscalización verificar el cumplimiento de lo establecido en el artículo que antecede para lo cual todo establecimiento de acuerdo a sus características, debe contar con:
+Corresponde a la Unidad Operativa Municipal de Protección Civil en coordinación con la Unidad de Normatividad y Regulación Comercial verificar el cumplimiento de lo establecido en el artículo que antecede para lo cual todo establecimiento de acuerdo a sus características, debe contar con:
 
 I. Extintores;
 
@@ -4341,9 +4455,11 @@ Los sitios públicos consistentes en hoteles, hospitales, comercios, salas de es
 
 Los accionadores de alarma estarán en lugares visibles desde toda área y el número que en ellos deba instalarse, será establecido por la Unidad Operativa Municipal de Protección Civil y las pruebas a estos sistemas deberán efectuarse cuando menos cada 60 días, llevando bitácora del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 415.
 
-Para la autorización de construcciones en el Municipio, deberán observarse por la Dirección de Desarrollo Urbano o la Unidad Administrativa Municipal competente, las disposiciones sobre medidas preventivas contra incendio.
+Para la autorización de construcciones en el Municipio, deberán observarse por la Unidad Administrativa Municipal competente, las disposiciones sobre medidas preventivas contra incendio.
 
 En los siguientes casos, se requerirá autorización expresa del jefe del Heroico Cuerpo de Bomberos:
 
@@ -4829,11 +4945,11 @@ Todas las construcciones que se ocupen para la presentación de espectáculos p�
 
 DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 479.
 
-Toda empresa dedicada a la promoción, patrocinio o explotación de espectáculos públicos, requiere para su presentación, de la autorización previa y por escrito de la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
+Toda empresa dedicada a la promoción, patrocinio o explotación de espectáculos públicos, requiere para su presentación, de la autorización previa y por escrito de la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial.
 
 ###### Artículo 480.
 
@@ -4877,11 +4993,17 @@ VIII. Exhibir los documentos que amparen la contratación de los servicios médi
 
 La Autoridad Municipal con vista de la solicitud y demás requisitos contenidos en este Capítulo, dará contestación en un plazo máximo de diez días hábiles contados a partir del día siguiente al que el solicitante exhiba la documentación completa para obtención del permiso, debiendo notificarse la resolución al solicitante.
 
-En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por otorgado el permiso, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización que niegue el otorgamiento del permiso, el solicitante podrá interponer el recurso el Recurso (sic) de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+En caso de que transcurrido el término de referencia la Unidad de Normatividad y Regulación Comercial no dé contestación por escrito al solicitante, se tendrá por otorgado el permiso, independientemente de la responsabilidad administrativa en que incurra el servidor público.
 
-En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica Consultiva Municipal dará vista a la Contraloría Municipal.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Contra el acto que emita la Unidad de Normatividad y Regulación Comercial que niegue el otorgamiento del permiso, el solicitante podrá interponer el recurso el Recurso (sic) de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica y de lo Contencioso dará vista a la Contraloría Municipal.
 
 ###### Artículo 482.
 
@@ -4901,11 +5023,11 @@ La Autoridad Municipal podrá autorizar también, por una sola vez el aumento de
 
 DE LOS ESPECTÁCULOS PROVISIONALES
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 486.
 
-La instalación de carpas, circos, plazas de toros portátiles, aparatos mecánicos y similares en parques, lotes o vía pública, requiere de autorización de la Tesorería Municipal a través del Departamento de Registro y Fiscalización. Para el caso de los juegos mecánicos, se deberá presentar, al Departamento de Registro y Fiscalización, un escrito de los vecinos, a través del cual, manifiesten que no existe inconveniente para la instalación de los aparatos; excepto en las fiestas profano religiosas tradicionales que tengan diez años o más de celebrarse.
+La instalación de carpas, circos, plazas de toros portátiles, aparatos mecánicos y similares en parques, lotes o vía pública, requiere de autorización de la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial. Para el caso de los juegos mecánicos, se deberá presentar, además un escrito de los vecinos, a través del cual, manifiesten que no existe inconveniente para la instalación de los aparatos; excepto en las fiestas profano religiosas tradicionales que tengan diez años o más de celebrarse.
 
 ###### Artículo 487.
 
@@ -4989,7 +5111,9 @@ Este Capítulo tiene por objeto regular los espectáculos taurinos que se realic
 
 Para los efectos de este Capítulo se entenderá por:
 
-I. Tesorería, a la Tesorería del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+I. Tesorería, a la Tesorería del Honorable Ayuntamiento del Municipio de Puebla a través de las autoridades administrativas que ejerzan las facultades previstas en el presente Capítulo;
 
 II. Empresas, a las personas físicas o morales que promueven espectáculos taurinos en el Municipio de Puebla.
 
@@ -5877,7 +6001,9 @@ Además de las otras obligaciones contenidas en el presente Capítulo, las Empre
 
 I. Las Empresas interesadas en celebrar espectáculos taurinos en el Municipio de Puebla deberán formular, con diez días hábiles de anticipación a la fecha que vaya a iniciarse cualquier actividad de dicho espectáculo, solicitud a la Presidencia Municipal acompañada de la siguiente documentación:
 
-a). Dictamen vigente sobre el estado del local que vaya a utilizarse, emitido por la Dirección de Desarrollo Urbano del Ayuntamiento, en el que se certifique que cuenta con las condiciones técnicas y de seguridad que señala el presente Código Reglamentario;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+a). Dictamen vigente sobre el estado del local que vaya a utilizarse, emitido por la Dirección de Gestión y Desarrollo Urbano Sustentable del Ayuntamiento, en el que se certifique que cuenta con las condiciones técnicas y de seguridad que señala el presente Código Reglamentario;
 
 b). Croquis con la ubicación del lugar donde se pretenda realizar el espectáculo, así como los documentos que acrediten el derecho de utilizarlo;
 
@@ -5893,15 +6019,17 @@ g). Autorizaciones oficiales de la Autoridad Competente, tratándose de actuante
 
 Presentada la solicitud a que se refiere éste artículo, el Ayuntamiento verificará si reúne los requisitos reglamentarios y para tal efecto ordenará las inspecciones y medidas que juzgue conveniente. Integrado el expediente, se dictará la resolución que proceda debidamente fundada y motivada y se notificará al interesado en un término no mayor de tres días hábiles a partir de la fecha es en (sic) que se presente la solicitud.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE AGOSTO DE 2008)</small>
+
 Las Empresas podrán anunciar formalmente la celebración de los eventos taurinos, una vez que hayan obtenido el consentimiento de la Autoridad para realizarlos.
 
 II. La venta de derechos de abono o apartado, se sujetará a las siguientes reglas:
 
 a). Se concederá preferencia para la adquisición del derecho de apartado de los tenedores de esa franquicia en la temporada anterior;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b). El Departamento de Registro y Fiscalización, podrá revisar en todo momento, los documentos en que consten los nombres de los tenedores del derecho de abono o apartado y ordenar la cancelación de los derechos correspondientes, cuando compruebe que son o han sido de origen de una reventa ilegal, observando la garantía de audiencia;
+b). La Unidad de Normatividad y Regulación Comercial, podrá revisar en todo momento, los documentos en que consten los nombres de los tenedores del derecho de abono o apartado y ordenar la cancelación de los derechos correspondientes, cuando compruebe que son o han sido de origen de una reventa ilegal, observando la garantía de audiencia;
 
 c). Para poder vender el derecho de abono o apartado, deberá anunciarse completo el elenco de matadores con especificación del número de corridas que cada uno tenga contratadas, así como también las ganaderías contratadas, con especificación del número de encierros que a cada una corresponda, no pudiendo hacerse el anuncio de elementos no contratados, ni aún a título “pendientes de contrato“. Los contratos correspondientes al número de encierros enunciados en el derecho de apartado, deberán haber sido celebrados con los ganaderos, cuando menos con dos meses de anticipación a la venta del derecho de apartado. En tanto que los contratos de los actuantes deberán haber sido celebrados cuando menos quince días de anticipación a la venta señalada, lo que no tendrá efectos cuando se trate de novilladas;
 
@@ -5949,9 +6077,9 @@ d). Contratos respectivos celebrados con toreros y ganaderos.
 
 En ningún caso se permitirá la venta de boletos al público, si no ha sido aprobado el Programa en los términos de este Capítulo.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-En el caso de que por fuerza mayor, sea necesario hacer algún cambio, la Empresa recabará previamente el permiso para realizarlo de la Tesorería Municipal a través del Departamento de Registro y Fiscalización, autoridad que además determinará, atendiendo a la fecha y hora del evento, su anuncio por cualquier medio de comunicación masiva y de carteles murales, pero en todo caso será forzoso dicho anuncio por medio de carteles o pizarrones que se fijarán en el exterior de la Plaza y en todas y cada una de las taquillas y puertas de entrada con cuatro horas de anticipación, por lo menos, a la celebración del evento.
+En el caso de que por fuerza mayor, sea necesario hacer algún cambio, la Empresa recabará previamente el permiso para realizarlo de la Unidad de Normatividad y Regulación Comercial, autoridad que además determinará, atendiendo a la fecha y hora del evento, su anuncio por cualquier medio de comunicación masiva y de carteles murales, pero en todo caso será forzoso dicho anuncio por medio de carteles o pizarrones que se fijarán en el exterior de la Plaza y en todas y cada una de las taquillas y puertas de entrada con cuatro horas de anticipación, por lo menos, a la celebración del evento.
 
 ###### Artículo 586.
 
@@ -6099,17 +6227,17 @@ Los establecimientos a que se refieren las fracciones I, II, VII, XII, XV y XVI 
 
 Para la venta y consumo de bebidas alcohólicas, permisos y horarios a que se refiere este Capitulo, los establecimientos a que hace mención la fracción XX del artículo citado, quedarán sujetos a las restricciones y condiciones que se determinen para los establecimientos definidos en el artículo 611 del presente Código, que por sus características puedan homologarse al caso especifico de que se trate.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 604.
 
-Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización, en los términos y condiciones señalados en el Código Fiscal y Presupuestario para el Municipio de Puebla; así como en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente, y en el presente Código Reglamentario.
+Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, en los términos y condiciones señalados en el Código Fiscal y Presupuestario para el Municipio de Puebla; así como en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente, y en el presente Código Reglamentario.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 605.
 
-Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes, la Tesorería Municipal a través del Departamento de Registro y Fiscalización, otorgará una licencia provisional.
+Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes. La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, otorgará una licencia provisional.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -6117,17 +6245,17 @@ Para el caso de eventos temporales que impliquen el proceso, almacenamiento, ena
 
 Las licencias de funcionamiento expedidas a favor de personas físicas o morales, sólo podrán ser transferidas si se encuentran funcionando los establecimientos y cumplen con los requisitos establecidos en el presente Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Se hará constar la transferencia a que se refiere el párrafo anterior, ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización, reuniendo el licenciatario los siguientes documentos:
+Se hará constar la transferencia a que se refiere el párrafo anterior, ante el Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal, reuniendo el licenciatario los siguientes documentos:
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 a) Formato de transferencia de propietario;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b) Licencia de funcionamiento original, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -6153,11 +6281,11 @@ g) Acta de Cesión de Derechos ante Notario Público; y
 
 h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 607.
 
-Para realizar el trámite de refrendo anual o solicitar la suspensión o baja de la licencia de funcionamiento ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización, los interesados deberán reunir y presentar los siguientes documentos:
+Para realizar el trámite de refrendo anual o solicitar la suspensión o baja de la licencia de funcionamiento ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, los interesados deberán reunir y presentar los siguientes documentos:
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -6167,9 +6295,9 @@ I. Para el refrendo de las licencias a que se refiere este Capítulo:
 
 a) Formato de Refrendo;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b) Licencia de funcionamiento original, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
 
 c) Identificación oficial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
@@ -6177,21 +6305,21 @@ d) Acta Constitutiva y Poder Notarial, para personas morales; y
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-El Jefe del Departamento de Registro y Fiscalización, en un término no mayor a diez días hábiles contados a partir del día hábil siguiente en que reciba la solicitud, deberá otorgar el tarjetón de refrendo correspondiente, siempre que se cumplan con los requisitos señalados anteriormente, debiendo notificarse la resolución al solicitante.
+El Titular del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal, a través de la instancia correspondiente, en un término no mayor a diez días hábiles contados a partir del día hábil siguiente en que reciba la solicitud, deberá otorgar el tarjetón de refrendo correspondiente, siempre que se cumplan con los requisitos señalados anteriormente, debiendo notificarse la resolución al solicitante.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por negada la solicitud, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+En caso de que transcurrido el término de referencia el Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal no dé contestación por escrito al solicitante, se tendrá por negada la solicitud, independientemente de la responsabilidad administrativa en que incurra el servidor público.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización que niegue el otorgamiento del tarjetón de refrendo, el licenciatario podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+Contra el acto que emita el Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal que niegue el otorgamiento del tarjetón de refrendo, el licenciatario podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica Consultiva Municipal dará vista a la Contraloría Municipal.
+En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica y de lo Contencioso dará vista a la Contraloría Municipal.
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -6201,9 +6329,9 @@ De no otorgarse el tarjetón de refrendo la Tesorería Municipal hará la devolu
 
 II. Para la constancia de suspensión temporal de la licencia:
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-a) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización; y
+a) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos.
 
 b) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
@@ -6211,11 +6339,11 @@ b) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingreso
 
 III. Para la baja de la licencia de funcionamiento:
 
-a) Formato de baja de la licencia de funcionamiento:
+a) Formato de baja de la licencia de funcionamiento;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos;
 
 c) Suspensión de actividades presentada ante la Secretaría de Hacienda y Crédito Público;
 
@@ -6223,9 +6351,9 @@ d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -6233,7 +6361,7 @@ Para la reposición del tarjetón de refrendo, constancia de suspensión tempora
 
 ###### Artículo 608.
 
-Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al publico en general, por lo menos con cuarenta y ocho horas de anticipación.
+Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al público en general, por lo menos con cuarenta y ocho horas de anticipación.
 
 La prohibición a que se refiere el párrafo anterior, se aplicará invariablemente el día en que se realicen elecciones Constitucionales o de Juntas Auxiliares.
 
@@ -6247,11 +6375,11 @@ II. Restringir, ampliar o sujetar a condiciones especiales las licencias, autori
 
 III. Las demás que le confiera el presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 610.
 
-El Departamento de Registro y Fiscalización, debe llevar un registro actualizado sobre las altas, bajas y suspensiones de las licencias de funcionamiento de los giros mercantiles que enajenen o expendan bebidas alcohólicas en forma total o parcial, con público en general a que se refiere este Capítulo, respecto del cual rendirá por escrito un informe mensual al Ayuntamiento, en cada Sesión Ordinaria de Cabildo.
+El Departamento de Licencias y Padrón de Contribuyentes, deberá llevar un registro actualizado sobre las altas, bajas y suspensiones de las licencias de funcionamiento de los giros mercantiles que enajenen o expendan bebidas alcohólicas en forma total o parcial, con público en general a que se refiere este Capítulo, respecto del cual rendirá por escrito un informe mensual al Ayuntamiento, en cada Sesión Ordinaria de Cabildo.
 
 DE LOS ESTABLECIMIENTOS
 
@@ -6355,7 +6483,9 @@ Para su funcionamiento, los establecimientos a que se refiere este Capítulo, de
 
 I. Obtener la apertura de Establecimiento o Alta de Hacienda tramitada ante la Secretaría de Hacienda y Crédito Público;
 
-II. Obtener Dictamen de Uso de Suelo, expedido por la Dirección de Desarrollo Urbano de la Secretaría de Administración Urbana o la Unidad Administrativa que resulte competente y cumplir además con las disposiciones que señale el Programa de Desarrollo Urbano de la Ciudad de Puebla, el Capítulo de Construcciones y cualquier otro ordenamiento y/o instrumento de planeación relacionado con la materia;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+II. Obtener Dictamen de Uso de Suelo, expedido por la Unidad Administrativa que resulte competente y cumplir además con las disposiciones que señale el Programa de Desarrollo Urbano de la Ciudad de Puebla, el Capítulo de Construcciones y cualquier otro ordenamiento y/o instrumento de planeación relacionado con la materia;
 
 III. Cumplir con todos los requisitos establecidos por el Código Fiscal y Presupuestario para el Municipio de Puebla;
 
@@ -6369,9 +6499,9 @@ VI. En los lugares considerados en los programas de desarrollo urbano sectoriale
 
 VII. Estar incomunicados en su interior con habitaciones o cualquier otro local ajeno al establecimiento;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-VIII. Dar aviso a la Tesorería Municipal a través del Departamento de Registro y Fiscalización de la suspensión de actividades, cambio de propietario, de denominación o domicilio, de giro comercial, aumento o disminución de giro del establecimiento mercantil dentro de los treinta días hábiles siguientes al trámite realizado ante la Secretaría de Hacienda y Crédito Público.
+VIII. Dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la suspensión de actividades, cambio de propietario, de denominación o domicilio, de giro comercial, aumento o disminución de giro del establecimiento mercantil dentro de los treinta días hábiles siguientes al trámite realizado ante la Secretaría de Hacienda y Crédito Público.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -6387,9 +6517,9 @@ b) Dictamen de compatibilidad de Uso de Suelo expedido por la Unidad Administrat
 
 c) Comprobante del pago de derechos por el Uso de Suelo; y
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-d) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
+d) Licencia de funcionamiento original expedida por la Tesorería Municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -6399,17 +6529,17 @@ a) Formato de cambio del giro comercial;
 
 b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-c) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+c) Licencia de funcionamiento original expedida por la Tesorería Municipal;
 
 d) Aviso en Hacienda de cambio de giro comercial; y
 
 e) Pago de derecho (sic) que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -6423,15 +6553,15 @@ DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TITULARES DE LAS LICENCIAS
 
 Son obligaciones de los licenciatarios:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-I. Contar con la licencia de funcionamiento correspondiente, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización antes de iniciar sus actividades o llevar a cabo un evento temporal;
+I. Contar con la licencia de funcionamiento correspondiente, expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos antes de iniciar sus actividades o llevar a cabo un evento temporal;
 
 II. Destinar el establecimiento únicamente al giro autorizado en la licencia de funcionamiento;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Tener en un lugar visible del establecimiento, el original de la licencia de funcionamiento expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización, y en su caso, del comprobante que demuestre que se encuentra al corriente del refrendo;
+III. Tener en un lugar visible del establecimiento, el original de la licencia de funcionamiento expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos;
 
 IV. Contar con el dictamen de Medidas Preventivas Contra Incendios expedido por el Departamento de Bomberos y fijarlo en un lugar visible dentro del establecimiento;
 
@@ -6451,13 +6581,13 @@ X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos
 
 XI. Notificar oportunamente a la autoridad competente, de cualquier escándalo o riña que se registre en el interior o exterior de su local;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-XII. Cuando por cualquier circunstancia, no se inicien las actividades del establecimiento o éstas sean suspendidas, el licenciatario dentro de los 120 días naturales siguientes, deberá dar aviso a la Tesorería Municipal a través del Departamento de Registro y Fiscalización, manifestando el motivo, así como el tiempo durante el cual permanecerá sin funcionar;
+XII. Cuando por cualquier circunstancia, no se inicien las actividades del establecimiento o éstas sean suspendidas, el licenciatario dentro de los 120 días naturales siguientes, deberá dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal, así como a la Unidad de Normatividad y Regulación Comercial, manifestando el motivo, así como el tiempo durante el cual permanecerá sin funcionar;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-XIII. Los establecimientos a que hace referencia las fracciones I, II y XV del artículo 611 del presente Capítulo, deberán contar con licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización. Para la obtención de la misma, los licenciatarios deberán cumplir con lo establecido en el artículo 1932 del presente ordenamiento legal;
+XIII. Los establecimientos a que hace referencia las fracciones I, II y XV del artículo 611 del presente Capítulo, deberán contar con licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos. Para la obtención de la misma, los licenciatarios deberán cumplir con lo establecido en el artículo 1932 del presente ordenamiento legal;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MARZO DE 2006)</small>
 
@@ -6609,11 +6739,11 @@ IV. Clausura definitiva y cancelación de la licencia de funcionamiento.
 
 A las personas que vendan o enajenen bebidas alcohólicas en la vía pública se les sancionará con arresto hasta por treinta y seis horas no conmutable con multa, así como decomiso de la mercancía.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 619.
 
-Los establecimientos que expendan bebidas alcohólicas sin licencia de funcionamiento, serán sancionados por el Departamento de Registro y Fiscalización con multa de 100 a 500 días de salario mínimo general diario vigente para el Estado de Puebla y además serán clausurados en forma definitiva.
+Los establecimientos que expendan bebidas alcohólicas sin licencia de funcionamiento, serán sancionados por la Unidad de Normatividad y Regulación Comercial con multa de 100 a 500 días de salario mínimo general diario vigente para el Estado de Puebla y además serán clausurados en forma definitiva.
 
 ###### Artículo 620.
 
@@ -7647,11 +7777,13 @@ III. SERVICIOS:
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 629.
 
-Para obtener la licencia de funcionamiento y su actualización el interesado deberá presentar ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización los siguientes documentos:
+Para obtener la licencia de funcionamiento y su actualización el interesado deberá presentar ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos los siguientes documentos:
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 A. Licencia de funcionamiento:
 
@@ -7661,15 +7793,21 @@ II. Identificación oficial y comprobante domiciliario; las personas morales ade
 
 III. Copia certificada de la Cédula de Identificación Fiscal, expedida por el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público o justificante de que se encuentra en trámite de inscripción;
 
-IV. Autorización de uso de suelo, emitida por la Dirección de Desarrollo Urbano de la Secretaría de Administración Urbana; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IV. Autorización de uso de suelo, emitida por la autoridad competente; y
 
 V. Pago de derechos que procedan conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 B. Actualización de licencia de funcionamiento:
 
 I. Formato de actualización de licencia de funcionamiento;
 
-II Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+II. Licencia de funcionamiento original expedida por la Tesorería Municipal;
 
 III. Identificación oficial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
@@ -7677,33 +7815,49 @@ IV. Acta constitutiva y poder notarial, para personas morales; y
 
 V. Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La actualización de las licencias a que se refiere el presente Capítulo, se realizarán siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo.
-
-Para la reposición de licencia de funcionamiento por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente. En este caso el solicitante deberá proporcionar sus datos personales, los de la negociación y la fecha de expedición de la licencia.
-
-El pago de derechos que no este contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio vigente.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, y en su caso, la Unidad de Normatividad y Regulación Comercial entregarán los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
+La actualización de las licencias a que se refiere el presente Capítulo, se realizarán siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Para la reposición de licencia de funcionamiento por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente. En este caso el solicitante deberá proporcionar sus datos personales, los de la negociación y la fecha de expedición de la licencia.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+El pago de derechos que no este contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio vigente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 630.
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización, en un término no mayor de diez días hábiles contados a partir del día siguiente al que se reciba la solicitud deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, en un término no mayor de diez días hábiles contados a partir del día siguiente al que se reciba la solicitud deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
 
-En caso de que .transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por otorgada la licencia, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+En caso de que transcurrido el término de referencia no se dé contestación por escrito al solicitante, se tendrá por otorgada la licencia, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro comercial.
 
-Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización, que niegue el otorgamiento o actualización de la licencia de funcionamiento, o cambio de giro comercial, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Contra el acto que emita el Jefe del Departamento de Licencias y Padrón de Contribuyentes que niegue el otorgamiento o actualización de la licencia de funcionamiento, o cambio de giro comercial, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 631.
 
-El titular de la licencia a que se refiere este Capítulo, podrá cederla a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal a través del Departamento de Registro y Fiscalización, bajo los siguientes requisitos:
+El titular de la licencia a que se refiere este Capítulo, podrá cederla a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, bajo los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -7713,9 +7867,9 @@ l. Transferencia o cesión de la licencia de funcionamiento:
 
 a) Formato de transferencia de propietario;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
 c) Alta de Hacienda del nuevo propietario;
 
@@ -7737,23 +7891,23 @@ a) Formato de cambio del giro comercial;
 
 b) Dictamen de Compatibilidad de Uso de Suelo. expedido por la Unidad Administrativa competente;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-c) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+c) Licencia de Funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
 d) Aviso en Hacienda de cambio de giro comercial; y
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes y en su caso la Unidad de Normatividad y Regulación Comercial entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 632.
 
-Las modificaciones que haga el titular de la licencia de funcionamiento, respecto al cambio de domicilio o baja del giro comercial, deberán realizarse ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización, para lo cual se acompañará:
+Las modificaciones que haga el titular de la licencia de funcionamiento, respecto al cambio de domicilio o baja del giro comercial, deberán realizarse ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -7765,9 +7919,9 @@ b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrat
 
 c) Comprobante del pago de derechos por el Uso de Suelo; y
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-d) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
+d) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -7775,9 +7929,9 @@ II. Para la baja de la licencia de funcionamiento:
 
 a) Formato de baja de la licencia de funcionamiento;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
 c) Suspensión de actividades presentada ante la Secretaria de Hacienda y Crédito Público;
 
@@ -7785,9 +7939,9 @@ d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes y en su caso, la Unidad de Normatividad y Regulación Comercial, entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -7865,11 +8019,11 @@ Fecha 11 y 12 de diciembre de cada año
 
 Lugar Paseo Bravo y Seminario Palafoxiano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 638.
 
-Corresponde al Departamento de Registro y Fiscalización determinar, calificar e imponer a quienes violen el presente Capítulo y los que resulten aplicables en la materia, indistintamente las siguientes sanciones:
+Corresponde a la Unidad de Normatividad y Regulación Comercial determinar, calificar e imponer a quienes violen el presente Capítulo y los que resulten aplicables en la materia, indistintamente las siguientes sanciones:
 
 I. Multa equivalente al importe de 5 a 500 días de salario mínimo vigente en el Municipio de Puebla en el momento de la infracción;
 
@@ -7901,11 +8055,11 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto regular la actividad Comercial de Vendedores Ambulantes, Semifijos y Prestadores Ambulantes de Servicios en la Vía Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 641.
 
-Corresponde al Departamento de Registro y Fiscalización, las siguientes atribuciones:
+Corresponde a la Secretaría de Gobernación a través del Departamento de Vía Pública de la Dirección de Desarrollo Político, las siguientes atribuciones:
 
 I. Expedir las credenciales y permisos correspondientes para el ejercicio del Comercio Ambulante, Semifijo y Prestación Ambulante de Servicios en la Vía Pública.
 
@@ -7915,13 +8069,27 @@ III. Determinar el número de comerciantes por o en cada zona y territorio;
 
 IV. Fijar los días y horarios, en los que se permita ejercer las actividades que éste Capítulo contempla, cuando las circunstancias o el caso lo requieran;
 
-V. Organización de sorteos públicos de los lugares disponibles para ejercer las actividades que éste Capítulo contempla,
+V. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
-VI. Elaborar y mantener actualizado el padrón de Comerciantes Ambulantes, Semifijos y Prestadores de Ambulantes de Servicios en la Vía Pública;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VI. Elaborar y mantener actualizado el padrón de Comerciantes Ambulantes, Semifijos y Prestadores de Ambulantes de Servicios en la Vía Pública, en coordinación con el Departamento de Licencias y Padrón de Contribuyentes de la Tesorería Municipal;
 
 VII. (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 VIII. (DEROGADA, P.O. 27 DE MARZO DE 2006)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2008)</small>
+
+IX. Ejercer Funciones de conciliación en los casos que considere necesario con los comerciantes ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2008)</small>
+
+X. Informar y actuar coordinadamente con la Unidad de Normatividad y Regulación Comercial cuando el comercio semifijo en la vía pública del Municipio, se dedique a la distribución o comercialización de productos pornográficos, no tengan dicho material a la vista del público en general, ni realicen su distribución o comercialización a menores de edad; debiéndose entender por pornografía, toda representación por cualquier medio, de hombres y/o mujeres dedicados a actividades sexuales explicitas, reales o simuladas, o toda representación de sus partes genitales con fines primordialmente sexuales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2008)</small>
+
+XI. Informar y actuar coordinadamente con la Unidad de Normatividad y Regulación Comercial cuando el comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública vendan, distribuyan o tengan en posesión productos de cualquier índole en donde se presenten o reproduzcan pornografía infantil; debiéndose entender por pornografía infantil, toda representación por cualquier medio, de un niño o niña dedicado a actividades sexuales explicitas, reales o simuladas o toda representación de las partes genitales de un niño o niña con fines primordialmente sexuales.
 
 ###### Artículo 642.
 
@@ -7961,21 +8129,21 @@ DE LA ORGANIZACIÓN, FUNCIONAMIENTO Y ADMINISTRACIÓN
 
 Sólo podrán ejercer su actividad en la Vía Pública, aquellos vendedores Ambulantes, Semifijos y prestadores Ambulantes de Servicios, que cumplan con los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-I. Encontrarse inscritos por el padrón que al efecto lleve el Departamento de Registro y Fiscalización;
+I. Estar inscritos por el padrón que al efecto lleve el Departamento de Vía Pública de la Dirección de Desarrollo Político y qua haya sido notificado al Departamento de Licencias y Padrón de Contribuyentes de la Tesorería Municipal;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-II. Contar con credencial personalizada y vigente, expedida por el Departamento de Registro y Fiscalización;
+II. Contar con credencial personalizada y vigente, expedida por el Departamento de Vía Pública de la Dirección de Desarrollo Político;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Contar con el permiso especial expedido por el Departamento de Registro y Fiscalización la Autoridad Municipal para los siguientes casos:
+III. Contar con el permiso especial expedido por el Departamento de Vía Pública de la Secretaría de Gobernación para los siguientes casos:
 
 a) Fiestas populares;
 
-b) Eventos especiales (juegos deportivos o espectáculos extraordinarios);
+b) (DEROGADO, P.O. 29 DE AGOSTO DE 2008)
 
 IV. Respetar los días, horarios, zonas, territorios y ubicación que les sean asignados en sus permisos; entendiéndose como:
 
@@ -7989,13 +8157,21 @@ V. Los vendedores Ambulantes sólo pueden llevar mercancía a la mano. De ningun
 
 VI. Cumplir con todas las leyes y disposiciones Municipales aplicables;
 
-VII. Cumplir con las leyes y disposiciones sanitarias aplicables; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-VIII. Contratar y pagar el suministro de energía eléctrica, agua y recolección de basura correspondiente.
+VII. Cumplir con las leyes y disposiciones sanitarias y de seguridad aplicables; y (sic)
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+VIII. Contratar y pagar el suministro de energía eléctrica, agua y recolección de basura correspondiente, ante la instancia competente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2008)</small>
+
+IX. Pagar los derechos correspondientes señalados por la Ley de Ingresos del Municipio ante las oficinas y/o cajas recaudadoras de la Tesorería Municipal.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+El Departamento de Vía Pública no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 646.
 
@@ -8061,7 +8237,9 @@ I. Mantener aseado los lugares por donde transiten o se ubiquen;
 
 II. Portar permanentemente su credencial a la vista;
 
-III. Portar copia de permiso, en los casos que lo ameriten; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Portar el permiso; y
 
 IV. Respetar los horarios y días de trabajo que se hayan establecido previamente según el caso.
 
@@ -8077,9 +8255,9 @@ III. Ejercer su actividad en estado de ebriedad o bajo influjo de alguna substan
 
 IV. Ejercer su actividad con mala presentación o desaseado;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-V. Transferir su permiso a otro individuo sin el consentimiento o autorización previa del Departamento de Registro y Fiscalización;
+V. Transferir su permiso a otro individuo sin el consentimiento o autorización del Departamento de Vía Pública;
 
 VI. Obstaculizar al peatón, vehículos, entradas particulares o comerciales, y obras Municipales;
 
@@ -8087,17 +8265,25 @@ VII. Ejercer actividades que atenten contra la salud, las buenas costumbres o la
 
 VIII. Utilizar sus casetas, kioscos, carros, vehículos o bienes muebles, como casa habitación, u otros diferentes al comercial.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+###### Artículo 651 Bis.
+
+Corresponde a la Unidad de Normatividad y Regulación Comercial bajo el visto bueno del Departamento de Vía Pública de la Secretaría de Gobernación la expedición de permisos especiales para la celebración de juegos deportivos o espectáculos extraordinarios en la vía pública.
+
 SANCIONES
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 652.
 
 Las infracciones al presente Capítulo, se sancionarán atendiendo a las sanciones contenidas en los Capítulos de Policía y Gobierno; mercados y central de abasto; establecimientos Industriales, Comerciales y de Servicios del presente Código Reglamentario para el Municipio de Puebla; sin perjuicio de las contenidas en otros ordenamientos.
 
-En caso de reincidencia, dentro de un periodo de cuarenta y cinco días naturales, independientemente de la multa a que se refiere el párrafo anterior, el Departamento de Registro y Fiscalización impondrá la suspensión temporal del permiso, por el lapso de uno a quince días hábiles.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Si persistiera en reincidir, el Departamento de Registro y Fiscalización procederá a la cancelación por un periodo de seis a doce meses del permiso correspondiente.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Corresponde a la Secretaría de Gobernación la suspensión temporal y/o cancelación del permiso, en caso de violación al presente Capítulo; y en caso de reincidencia se turnará a la Unidad de Normatividad y Regulación Comercial para los efectos que señala el artículo 638 del presente ordenamiento.
 
 ###### Artículo 653.
 
@@ -8139,9 +8325,11 @@ IX. Los procedimientos y acciones de control, supervisión e inspección de inmu
 
 X. La determinación e imposición de infracciones, medidas de seguridad y sanciones en los casos previstos por el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 656.
 
-Corresponde a la Dirección de Desarrollo Urbano del Municipio de Puebla, la aplicación de las disposiciones de este Capítulo.
+Corresponde a la Dirección de Gestión y Desarrollo Urbano Sustentable del Municipio de Puebla, a través de las autoridades competentes adscritas a ésta, la aplicación de las disposiciones de este Capítulo.
 
 AUTORIDADES Y FACULTADES
 
@@ -8151,15 +8339,37 @@ Aplicación del Capítulo. Para la debida aplicación del presente Capítulo, so
 
 I. El Gobierno Federal, a través de las dependencias que conforme a las leyes previamente establecidas tienen facultades para intervenir en esta materia;
 
-II. El Ejecutivo Estatal, a través de la Secretaria de Desarrollo Urbano, Ecología y Obras Publicas; y
+II. El Ejecutivo Estatal, a través de la Secretaria de Desarrollo Urbano, Ecología y Obras Publicas; y (sic)
 
-III. Por el Municipio la Dirección Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Por el Municipio, la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable o las autoridades administrativas competentes que ejerzan las facultades previstas en el presente Capítulo;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IV. La Dirección de Gestión y Desarrollo Urbano Sustentable a través de las áreas adscritas a ésta o las autoridades administrativas competentes que ejerzan las facultades previstas en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+###### Artículo 657 Bis.
+
+Para efectos del presente Capítulo se entenderá por:
+
+I. Dirección de Gestión. La Dirección de Gestión y Desarrollo Urbano Sustentable, adscrita a la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable.
+
+II. Subdirección de Gestión. La Subdirección de Gestión Urbana, adscrita a la Dirección de Gestión y Desarrollo Urbano Sustentable.
+
+III. Subdirección de Planeación. La Subdirección de Planeación, adscrita a la Dirección de Gestión y Desarrollo Urbano Sustentable.
+
+IV. Subdirección de Ecología. La Subdirección de Ecología y Medio Ambiente adscrita a la Dirección de Gestión y Desarrollo Urbano Sustentable.
 
 FACULTADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 658.
 
-De conformidad a lo dispuesto por el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos por la Constitución Política del Estado de Puebla y por la Ley Orgánica Municipal, la aplicación y vigilancia del cumplimiento de las disposiciones de este Capítulo, corresponderá al Municipio de Puebla, por conducto del C. Presidente Municipal, quien delega en la Dirección de Desarrollo Urbano, las facultades que le confiere este Capítulo, siendo estas las siguientes:
+De conformidad a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos por la Constitución Política del Estado de Puebla y por la Ley Orgánica Municipal, la aplicación y vigilancia del cumplimiento de las disposiciones de este Capítulo, corresponderá al Municipio de Puebla, por conducto del C. Presidente Municipal, quien delega en la Dirección de Gestión, las facultades que le confiere este Capítulo, y quien actuará a través de las autoridades competentes adscritas a ésta:
 
 I. Administrar la zonificación prevista en el Programa de Desarrollo Urbano;
 
@@ -8211,11 +8421,13 @@ XXIV. Expedir y modificar, cuando lo considere necesario, los acuerdos, resoluci
 
 XXV. Las demás que le confieren este Capítulo y las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 659.
 
-Para el estudio y propuesta de reformas y adiciones al presente Capítulo, específicamente; se tomarán en cuenta las opiniones de los representantes de las Comisiones de Desarrollo Urbano y Obra Pública del Ayuntamiento, los Consejos Ciudadanos de Obras y Servicios Públicos; los Consejos Ciudadanos de Desarrollo Urbano; los Colegios de Ingenieros Civiles, los Colegios de Arquitectos, Cámaras de la Construcción y de Empresas de Consultoría, la Secretaría de Administración Urbana, Obra Pública y Ecología; la Secretaría del H. Ayuntamiento y la Sindicatura Municipal, así como, por otras dependencias, instituciones públicas o privadas del ramo, que se considere necesaria su participación.
+Para el estudio y propuesta de reformas y adiciones al presente Capítulo, específicamente; se tomarán en cuenta las opiniones de los representantes de las Comisiones de Desarrollo Urbano y Obra Pública del Ayuntamiento, los Consejos Ciudadanos de Obras y Servicios Públicos; los Consejos Ciudadanos de Desarrollo Urbano; los Colegios de Ingenieros Civiles, los Colegios de Arquitectos, Cámaras de la Construcción y de Empresas de Consultoría, la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable; la Secretaría del H. Ayuntamiento y la Sindicatura Municipal, así como, por otras dependencias, instituciones públicas o privadas del ramo, que se considere necesaria su participación.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 Las opiniones que se emitan derivado de lo estipulado en el párrafo anterior, no obligan al C. Presidente Municipal.
 
@@ -8231,7 +8443,9 @@ Director Responsable de Obra, es la persona física profesional competente que s
 
 La calidad de Director Responsable de Obra se adquiere con el registro de la persona ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, habiendo cumplido previamente con los requisitos establecidos en el artículo 662.
 
-Todos los funcionarios del Ayuntamiento, en especial los de la Dirección de Desarrollo Urbano, encargados de la aplicación y vigilancia del cumplimiento de este Capítulo, deberán tener la calidad de Director Responsable de Obra o Corresponsable. En caso que no lo fuera en el momento de su nombramiento, contarán con un plazo de 6 meses a partir del mismo para cumplir este requisito.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Todos los funcionarios del Ayuntamiento, en especial los de la Dirección de Gestión, encargados de la aplicación y vigilancia del cumplimiento de este Capítulo, deberán tener la calidad de Director Responsable de Obra o Corresponsable. En caso que no lo fuera en el momento de su nombramiento, contarán con un plazo de 6 meses a partir del mismo para cumplir este requisito.
 
 ###### Artículo 662.
 
@@ -8247,7 +8461,9 @@ III. Acreditar como mínimo tres años en el ejercicio profesional en la constru
 
 IV. Acreditar que es miembro con derechos vigentes, de uno o más colegios de profesionales constituidos en el Municipio; y
 
-V. Presentar constancia vigente de haber acreditado el curso de directores responsables de obra y Corresponsables. Constancia que deberá tener como término, máximo de expedición de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. Presentar constancia vigente de haber acreditado el curso de Directores Responsables de Obra y Corresponsables. Constancia que deberá tener como término, máximo de expedición de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Gestión.
 
 ###### Artículo 663.
 
@@ -8269,7 +8485,9 @@ I. Dirigir y vigilar la obra, asegurándose de que tanto el proyecto, como la ej
 
 II. Contar con los Corresponsables a que se refiere el artículo 666, en los casos que en ese mismo artículo se numeran. En los casos no incluidos en dicho artículo, el Director Responsable de Obra podrá definir libremente la participación de los Corresponsables. El Director Responsable de Obra, deberá comprobar que cada uno de los Corresponsables con que cuente, según sea el caso, cumpla con las obligaciones que se indican en el Artículo 669;
 
-III. Responder de cualquier violación a las disposiciones de este Capítulo, debiendo notificar por escrito cualquier modificación al proyecto o incumplimiento a este Capítulo que el propietario del inmueble pretenda realizar sin previa autorización de la Dirección de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Responder de cualquier violación a las disposiciones de este Capítulo, debiendo notificar por escrito cualquier modificación al proyecto o incumplimiento a este Capítulo que el propietario del inmueble pretenda realizar sin previa autorización de la Dirección de Gestión;
 
 IV. Planear y supervisar las medidas de seguridad del personal y terceras personas en la obra, sus colindancias y en la vía pública, durante su ejecución;
 
@@ -8557,17 +8775,27 @@ I. Dos representantes de la Dirección, designados por el C. Presidente Municipa
 
 II. Un representante propietario y un suplente de los:
 
-a). Colegios de Ingenieros Civiles registrados ante la Dirección de Desarrollo Urbano en el municipio de Puebla.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b). Colegios de Arquitectos registrados ante la Dirección de Desarrollo Urbano. En el municipio de Puebla.
+a). Colegios de Ingenieros Civiles registrados ante la Dirección de Gestión en el Municipio de Puebla.
 
-c). Colegios de Ingenieros Municipales registrados ante la Dirección de Desarrollo Urbano en el municipio de Puebla.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-d). Colegios de Ingenieros Mecánicos y Electricistas registrados ante la Dirección de Desarrollo Urbano en el municipio de Puebla.
+b). Colegios de Arquitectos registrados ante la Dirección de Gestión en el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+c). Colegios de Ingenieros Municipales registrados ante la Dirección de Gestión en el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+d). Colegios de Ingenieros Mecánicos y Electricistas registrados ante la Dirección de Gestión en el Municipio de Puebla.
 
 e). (DEROGADO, P.O. 14 DE DICIEMBRE DE 2005)
 
-f). Colegios de Restauradores registrados ante la Dirección de Desarrollo Urbano en el municipio de Puebla.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+f). Colegios de Restauradores registrados ante la Dirección de Gestión en el Municipio de Puebla.
 
 III. Por los Presidentes de las Comisiones de Regidores Desarrollo Urbano y Obra Pública del H. Ayuntamiento;
 
@@ -8583,9 +8811,9 @@ d). De Obra y Servicios Públicos.
 
 Todos los miembros de la Comisión deberán tener registro de Director Responsable de Obra o Corresponsable, a excepción de los mencionados en la fracción III y IV de este artículo.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-En el mes de octubre de cada año, la Comisión de Asesoría y Admisión de los Directores Responsables de Obra y Corresponsables, a través de la Secretaría de Administración Urbana, Obra Pública y Ecología, solicitará a cada uno de los organismos participantes, los nombres de sus representantes Propietario y Suplente, quienes deberán cumplir con lo dispuesto en este artículo.
+En el mes de octubre de cada año, la Comisión de Asesoría y Admisión de los Directores Responsables de Obra y Corresponsables, a través de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, solicitará a cada uno de los organismos participantes, los nombres de sus representantes Propietario y Suplente, quienes deberán cumplir con lo dispuesto en este artículo.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
@@ -8937,9 +9165,11 @@ NUMERO OFICIAL.- La Dirección, previa solicitud, señalará para cada predio qu
 
 COLOCACIÓN DEL NÚMERO OFICIAL.- Deberá ser claramente legible y con las placas oficiales expedidas por la Dirección; de no contar la Dirección con éstas, serán a cargo del interesado. En edificios públicos y edificios que por su naturaleza generen intensa concentración de usuarios, deberán tener nomenclatura en braille, para servicio y uso de personas invidentes.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 704.
 
-La Dirección podrá ordenar el cambio del número oficial, para lo cual lo notificará al interesado, quedando éste obligado a colocar el nuevo número en el plazo que se fije, pudiendo conservar el anterior noventa días más. Dicho cambio deberá ser notificado por la Dirección de Desarrollo Urbano, a la Dirección General de Correos de la Secretaría de Comunicaciones y Transportes, a la Secretaría de Finanzas, Registro Público de la Propiedad, Tesorería del Ayuntamiento, al Organismo Operador de los Servicios de Agua Potable y Alcantarillado correspondiente, y Catastro Municipal, a fin de que se hagan las modificaciones necesarias en los registros correspondientes.
+La Dirección podrá ordenar el cambio del número oficial, para lo cual lo notificará al interesado, quedando éste obligado a colocar el nuevo número en el plazo que se fije, pudiendo conservar el anterior noventa días más. Dicho cambio deberá ser notificado por la Dirección de Gestión, a la Dirección General de Correos de la Secretaría de Comunicaciones y Transportes, a la Secretaría de Finanzas, Registro Público de la Propiedad, Tesorería del Ayuntamiento, al Organismo Operador de los Servicios de Agua Potable y Alcantarillado correspondiente, y Catastro Municipal, a fin de que se hagan las modificaciones necesarias en los registros correspondientes.
 
 ###### Artículo 705.
 
@@ -9439,9 +9669,11 @@ II. Impacto Ambiental o Informe Preventivo; y
 
 III. Croquis esquemático y fotografía.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 758.
 
-Después de terminada la demolición el propietario deberá retirar el material producto de demolición en un término no mayor de 15 días y depositarlo en el lugar que se le indique en el informe ecológico respectivo, emitido por la Dirección de Ecología del Honorable Ayuntamiento de Puebla.
+Después de terminada la demolición el propietario deberá retirar el material producto de demolición en un término no mayor de 15 días y depositarlo en el lugar que se le indique en el informe ecológico respectivo, emitido por la Subdirección de Ecología del Honorable Ayuntamiento de Puebla.
 
 ###### Artículo 759.
 
@@ -10305,9 +10537,11 @@ AREAS VERDES
 
 Cuando en un lote exista una superficie destinada para áreas verdes entre arroyo y banqueta o entre la banqueta y el lote, únicamente en el área de entrada peatonal y vehicular se permitirá el pavimento y se respetará esta área como tal, así como también cuando se requiera utilizar una área verde para acceso peatonal o vehicular, se deberá solicitar el permiso correspondiente a la Dirección quien lo autorizará o negará en términos del presente Capítulo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 852.
 
-Para el caso de que, de acuerdo al proyecto de construcción, sea necesario derribar un árbol de la vía pública, deberá solicitarse el permiso a la Dirección de Ecología, quien especificará el lugar de reposición del árbol o árboles de que se trate en el lugar que se designe.
+Para el caso de que, de acuerdo al proyecto de construcción, sea necesario derribar un árbol de la vía pública, deberá solicitarse el permiso a la Subdirección de Ecología, quien especificará el lugar de reposición del árbol o árboles de que se trate en el lugar que se designe.
 
 ###### Artículo 853.
 
@@ -10335,15 +10569,19 @@ El propietario de una construcción provisional, estará obligado a conservarla 
 
 CEMENTERIOS
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 857.
 
-Corresponde a la Dirección, conceder licencia para el establecimiento de nuevos cementerios en el Municipio, sean municipales o construidos y administrados por particulares, debiendo ser condición esencial para el otorgamiento de los permisos particulares, el que los servicios de sepulturas se presten sin limitación por credos políticos, religiosos o de nacionalidad.
+Corresponde a la Dirección, conceder licencia para el establecimiento de nuevos panteones en el Municipio, sean municipales o construidos y administrados por particulares, debiendo ser condición esencial para el otorgamiento de los permisos particulares, el que los servicios de sepulturas se presten sin limitación por credos políticos, religiosos o de nacionalidad.
 
-Para concederse la autorización para el establecimiento de un cementerio, se tendrá en cuenta los Programas de Desarrollo Urbano y las disposiciones jurídicas municipales en materia de Panteones para el Municipio de Puebla dispuestas en el presente Código Reglamentario.
+Para concederse la autorización para el establecimiento de un panteón, se tendrá en cuenta los Programas de Desarrollo Urbano y las disposiciones jurídicas municipales en materia de Panteones para el Municipio de Puebla dispuestas en el presente Código Reglamentario.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 858.
 
-Queda prohibido el autorizar cementerios de uso privado ya que invariablemente deben ser éstos de uso público.
+Queda prohibido el autorizar panteones de uso privado ya que invariablemente deben ser éstos de uso público.
 
 DEPÓSITOS PARA EXPLOSIVOS
 
@@ -14091,9 +14329,11 @@ La interpretación del presente Capítulo corresponde al Presidente Municipal, p
 
 DE LA ZONA DE MONUMENTOS DE LA CIUDAD DE PUEBLA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1185.
 
-Para efecto de protección, mejoramiento y custodia de la Zona de Monumentos de la Ciudad de Puebla, la Dirección de Desarrollo Urbano deberá:
+Para efecto de protección, mejoramiento y custodia de la Zona de Monumentos de la Ciudad de Puebla, la Dirección de Gestión deberá:
 
 I. Establecer y definir el conjunto de normas técnicas, funciones, procedimientos y responsabilidades del Ayuntamiento, en la conservación (protección y preservación) del patrimonio cultural; así como la conservación y mejoramiento de la imagen y fisonomía urbana y comunicación de los espacios y elementos urbanos del Centro Histórico;
 
@@ -14195,21 +14435,29 @@ c) Inmuebles contemporáneos fuera de contexto histórico e imagen urbana.
 
 d) Las plazas, calles y jardines.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1188.
 
-El patrimonio cultural inmueble de la zona de monumentos, comprende, tanto a los monumentos catalogados como a los históricos no catalogados de los siglos XVI al XIX y los modelos arquitectónicos representativos de la arquitectura del siglo XX como son Art Nouveau, Art Decó, Neocolonial y Neocaliforniano, Funcionalista y Orgánico; en los que las intervenciones estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección de Desarrollo Urbano, con el objeto de conservarlos o recuperarlos con propuestas de actualización. Los criterios de intervención para cada uno de los inmuebles se establecerán sobre el plano base de unidades mínimas de intervención, asignando criterios para cada uno de los inmuebles.
+El patrimonio cultural inmueble de la zona de monumentos, comprende, tanto a los monumentos catalogados como a los históricos no catalogados de los siglos XVI al XIX y los modelos arquitectónicos representativos de la arquitectura del siglo XX como son Art Nouveau, Art Decó, Neocolonial y Neocaliforniano, Funcionalista y Orgánico; en los que las intervenciones estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección de Gestión con el objeto de conservarlos o recuperarlos con propuestas de actualización. Los criterios de intervención para cada uno de los inmuebles se establecerán sobre el plano base de unidades mínimas de intervención, asignando criterios para cada uno de los inmuebles.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1189.
 
-La Dirección de Desarrollo Urbano es la dependencia municipal coordinadora y la autoridad responsable de los procedimientos para expedir dictámenes, autorizaciones y licencias previstos en este apartado, así como para ejecutar sus resoluciones e imponer sanciones en el ámbito de su competencia.
+La Dirección de Gestión es la dependencia municipal coordinadora y la autoridad responsable de los procedimientos para expedir dictámenes, autorizaciones y licencias previstos en este apartado, así como para ejecutar sus resoluciones e imponer sanciones en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1190.
 
-Para la realización de cualquier tipo de obra de conservación, restauración, construcción, adecuación, excavación, cimentación, demolición o colocación de anuncios en los inmuebles y área urbana de la zona, se requerirá de la autorización y licencia correspondiente, emitidas por la Dirección de Desarrollo Urbano, independientemente de las que corresponda al INAH otorgar.
+Para la realización de cualquier tipo de obra de conservación, restauración, construcción, adecuación, excavación, cimentación, demolición o colocación de anuncios en los inmuebles y área urbana de la zona, se requerirá de la autorización y licencia correspondiente, emitidas por la Dirección de Gestión, independientemente de las que corresponda al INAH otorgar.
 
-###### Articulo 1191.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Para los (sic) protección, conservación y mejoramiento de la Zona de monumentos, la Dirección de Desarrollo Urbano tendrá las siguientes facultades:
+###### Artículo 1191.
+
+Para los (sic) protección, conservación y mejoramiento de la Zona de monumentos, la Dirección de Gestión tendrá las siguientes facultades:
 
 I. Fijar los requisitos técnicos a que deberán sujetarse las construcciones e instalaciones en predios y vías públicas a fin de que se satisfagan las condiciones de habitabilidad, seguridad, comodidad y buen aspecto, y se protejan los valores históricos y artísticos;
 
@@ -14241,9 +14489,11 @@ DE LAS FUSIONES Y DIVISIONES
 
 Podrá solicitar la fusión o división de predios, la persona física o moral que acredite ser su legítima propietaria, acompañando a su solicitud copias de los títulos de propiedad correspondientes.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1193.
 
-La Dirección de Desarrollo Urbano otorgará o negará, según sea el caso, las autorizaciones de fusión o división de los predios de (sic) considerando el objeto que se persigue con la fusión o división, así como las características del predio.
+La Dirección de Gestión otorgará o negará, según sea el caso, las autorizaciones de fusión o división de los predios de (sic) considerando el objeto que se persigue con la fusión o división, así como las características del predio.
 
 ###### Artículo 1194.
 
@@ -14259,9 +14509,11 @@ En caso de que el inmueble haya sido objeto de divisiones y subdivisiones, afect
 
 DE LAS OBRAS DE CONSERVACIÓN DE LA ZONA
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1197.
 
-Las intervenciones en los inmuebles comprendidos dentro de la Zona, estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección de Desarrollo Urbano, dentro del ámbito de su competencia, con el objeto de conservarlos o recuperarlos con propuestas de actualización.
+Las intervenciones en los inmuebles comprendidos dentro de la Zona, estarán determinadas por el estado de deterioro que presenten y sus posibilidades de uso, mismas que serán supervisadas y aprobadas por la Dirección de Gestión, dentro del ámbito de su competencia, con el objeto de conservarlos o recuperarlos con propuestas de actualización.
 
 ###### Artículo 1198.
 
@@ -14273,7 +14525,9 @@ a) Podrán realizarse las siguientes obras o elementos en fachadas:
 
 1. Los portones de acceso para vehículos podrán incluir una puerta proporcionada para el paso de peatones, en cualquiera de las hojas, las que serán de madera y diseño acorde.
 
-2. Apertura de vanos cuando se trate de restablecer huecos cegados, cuando con base a la normativa de la Dirección de Desarrollo Urbano, no altere la composición o la estructura de la fachada.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+2. Apertura de vanos cuando se trate de restablecer huecos cegados, cuando con base a la normativa de la Dirección de Gestión, no altere la composición o la estructura de la fachada.
 
 3. Los elementos de carpintería y herrería en los vanos como son puertas, ventanas, aparadores y cualquier otro elemento similar, deberán situarse a paño de muro de fachada.
 
@@ -14317,13 +14571,17 @@ II. Intervenciones en el interior del inmueble.
 
 a) En las cubiertas podrán autorizarse las siguientes obras:
 
-1. Cuando se trate de restaurarlas, se deberán respetar, en su forma, nivel y sistema constructivo, utilizando los elementos de refuerzo a consideración de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+1. Cuando se trate de restaurarlas, se deberán respetar, en su forma, nivel y sistema constructivo, utilizando los elementos de refuerzo a consideración de la Dirección de Gestión.
 
 2. Cubiertas y azoteas planas, con pendiente inferior al 5% y con pretiles rectos y horizontales, debiendo respetarse las bóvedas y cúpulas que se localizan en la construcción.
 
 b) No es permisible realizar las siguientes obras en cubiertas:
 
-1. Construcciones o instalaciones en azoteas que sean visibles desde la calle, tales como: jardineras, terrazas o balcones, instalaciones para tanques de gas, antenas, elementos emisores y receptores de centrales de radio, televisión o teléfono, jaulas para tendederos, cuartos de servicio, bodegas o cualquier elemento que altere el perfil de las fachadas, permitiéndose sólo cuando se encuentren fuera del campo visual del conjunto urbano, previa autorización de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+1. Construcciones o instalaciones en azoteas que sean visibles desde la calle, tales como: jardineras, terrazas o balcones, instalaciones para tanques de gas, antenas, elementos emisores y receptores de centrales de radio, televisión o teléfono, jaulas para tendederos, cuartos de servicio, bodegas o cualquier elemento que altere el perfil de las fachadas, permitiéndose sólo cuando se encuentren fuera del campo visual del conjunto urbano, previa autorización de la Dirección de Gestión.
 
 2. Agregar otro nivel o cualquier tipo de construcciones en las azoteas, así como techar los patios con cubiertas no reversibles de manera parcial o total, o agregar entrepisos en alturas originales.
 
@@ -14331,7 +14589,9 @@ c) Podrán autorizarse las siguientes obras con relación a la proporción, rein
 
 1. Reparaciones o modificaciones tendientes a mejorar las condiciones de estabilidad, salubridad, ventilación y soleamiento existentes o tendientes a restablecer composiciones, distribuciones o estructuras arquitectónicas históricas que están deterioradas o alteradas.
 
-2. Construcción de un nivel adicional, en el caso de edificios de contexto urbano, excesivamente bajo con relación a las construcciones vecinas, lo cual se hará dentro de las limitaciones establecidas, según proyecto aprobado por la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+2. Construcción de un nivel adicional, en el caso de edificios de contexto urbano, excesivamente bajo con relación a las construcciones vecinas, lo cual se hará dentro de las limitaciones establecidas, según proyecto aprobado por la Dirección de Gestión.
 
 3. Eliminación de agregados o volúmenes de construcciones recientes sin valor histórico, cuando éstos alteran la estructura o la composición del inmueble de la Zona de Monumentos.
 
@@ -14345,9 +14605,11 @@ d) No es permisible realizar Proyectos de restauración o adecuación, cuando ca
 
 e) Podrán autorizarse las siguientes obras en los elementos de paramentos, recubrimientos y pisos:
 
-1. Consolidación, o en su caso la sustitución de los elementos de recubrimientos tradicionales de la arquitectura poblana, azulejo, ladrillo o estuco, que se hayan deteriorado, previa presentación de estudio especial para su autorización correspondiente. Cuando el deterioro de la cantería, piedra o material pétreo, azulejo, ladrillo o estuco, se deba a humedad por escurrimientos, filtraciones o humedad ascendente del terreno u otro factor similar, más que sustituir las piezas, se deberán combatir las causas que originan la misma.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-2.La limpieza de los paramentos de cantería y los elementos de recubrimiento tradicionales de la arquitectura poblana, tales como azulejo, ladrillo o estuco, con cepillo de raíz y lavado de agua y jabón neutro no iónico.
+1. Consolidación, o la operación que la Dirección de Gestión considere adecuada, en el caso de aplanados o fragmentos dañados o desprendidos de los paramentos.
+
+2. La limpieza de los paramentos de cantería y los elementos de recubrimiento tradicionales de la arquitectura poblana, tales como azulejo, ladrillo o estuco, con cepillo de raíz y lavado de agua y jabón neutro no iónico.
 
 3. Sustitución de sillares por piezas nuevas de tonalidad y grano equivalentes a las demás piezas, en caso de encontrarse piezas de cantería muy dañadas y en un estado de degradación, que ponga en riesgo la estabilidad estructural de la construcción.
 
@@ -14381,13 +14643,17 @@ d) Dotación del equipamiento e infraestructura necesarios para lograr la recupe
 
 DE LAS NUEVAS CONSTRUCCIONES, VOLÚMENES Y ALINEAMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1200.
 
-No podrá realizarse dentro de la Zona de Monumentos ninguna obra nueva, arquitectónica o urbana sin la debida autorización del INAH y de la Dirección de Desarrollo Urbano, en el ámbito de sus respectivas competencias, debiendo además observarse lo siguiente:
+No podrá realizarse dentro de la Zona de Monumentos ninguna obra nueva, arquitectónica o urbana sin la debida autorización del INAH y de la Dirección de Gestión, debiendo además observarse lo siguiente:
 
 I. La traza urbana no debe ser alterada, por nuevas edificaciones, por nuevas vialidades, y por ningún motivo se alterará la traza original de la ciudad, salvo en los casos en que se recupere la misma. Toda obra pública o privada que incida en cualquiera de los componentes de la fisonomía urbana, deberá dejarlos en buen estado y libres de escombro; para tal efecto se observará lo siguiente:
 
-a) La Dirección de Desarrollo Urbano, podrá requerir o autorizar que se realicen construcciones o bardas con el fin de restituir alineamientos de la traza histórica que haya sido modificada.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+a) La Dirección de Gestión, podrá requerir o autorizar que se realicen construcciones o bardas con el fin de restituir alineamientos de la traza histórica que haya sido modificada.
 
 b) Se restituirá hasta donde sea posible el espacio libre destinado a patios, jardines o huertos, en el interior de los edificios y predios.
 
@@ -14407,7 +14673,9 @@ b) Los nuevos volúmenes que se construyan dentro del perímetro de la Zona de M
 
 c) La arquitectura de integración buscará una mayor armonía y diálogo formal con el conjunto, sin negar la contemporaneidad de la nueva intervención, tanto de la obra de conservación, como de la nueva arquitectura.
 
-d) Cuando la nueva construcción se inscriba dentro del campo visual de algún monumento, el nuevo edificio deberá someterse a la supervisión y autorización de la Dirección de Desarrollo Urbano. La altura de las nuevas edificaciones no deberá alterar el perfil o silueta del paisaje urbano de la Zona de Monumentos.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+d) Cuando la nueva construcción se inscriba dentro del campo visual de algún monumento, el nuevo edificio deberá someterse a la supervisión y autorización de la Dirección de Gestión. La altura de las nuevas edificaciones no deberá alterar el perfil o silueta del paisaje urbano de la Zona de Monumentos.
 
 e) Las cubiertas y azoteas deberán ser planas, con una pendiente inferior al 5%, y con el pretil horizontal y recto, en el caso de cúpulas y bóvedas, la pendiente podrá ser mayor.
 
@@ -14415,11 +14683,15 @@ f) En el caso de los predios ya ocupados por alguna construcción o baldíos en 
 
 g) La relación de entrepisos entre la obra nueva y los monumentos o inmuebles del entorno deberá ser semejante.
 
-h) En el área de uso determinada en los planos autorizados por la Dirección de Desarrollo Urbano, deberán conservar al menos un 40% del área ajardinada.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+h) En el área de uso determinada en los planos autorizados por la Dirección de Gestión, deberá conservar al menos un 40% del área ajardinada.
 
 i) La relación entre vanos y macizos para propuestas de obra nueva será la que predomine en las fachadas de las construcciones históricas de ésa calle, y los vanos deberán ser de proporción vertical, excluyéndose las ventanas tipo tronera con mixtilíneas.
 
-j) Se autorizará para el acceso de vehículo, en las nuevas construcciones, un solo portón, de no más de dos metros ochenta centímetros de ancho, y su altura deberá ser por lo menos igual a los cerramientos de las ventanas, y no deberá sobrepasar los cerramientos de los portones de los edificios históricos vecinos. Para predios de más de veinte metros de frente, podrán autorizarse dos portones separados, previa autorización del INAH y la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+j) Se autorizará para el acceso de vehículo, en las nuevas construcciones, un solo portón, de no más de dos metros ochenta centímetros de ancho, y su altura deberá ser por lo menos igual a los cerramientos de las ventanas, y no deberá sobrepasar los cerramientos de los portones de los edificios históricos vecinos. Para predios de más de veinte metros de frente, podrán autorizarse dos portones separados, previa autorización del INAH y la Dirección de Gestión.
 
 k) En el caso de inmuebles específicamente dedicados a estacionamientos, se podrán autorizar dos vanos para acceso y salida de vehículos, de no más de dos metros ochenta centímetros de ancho, en función de cada proyecto, en particular predominando el macizo sobre el vano.
 
@@ -14431,7 +14703,9 @@ n) Las fachadas de las nuevas edificaciones deberán ser proyectadas tomando en 
 
 o) El criterio respecto a la volumetría será el que permita una configuración urbana homogénea, en concordancia con los edificios existentes.
 
-p) Los edificios nuevos ya realizados, de altura superior al promedio de los existentes en la Zona de Monumentos, no justificarán la solicitud de levantar edificios de altura superior al promedio existente, sujetándose a revisión de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+p) Los edificios nuevos ya realizados, de altura superior al promedio de los existentes en la Zona de Monumentos, no justificarán la solicitud de levantar edificios de altura superior al promedio existente, sujetándose a revisión de la Dirección de Gestión.
 
 q) Se podrán construir niveles adicionales en edificios contemporáneos siempre y cuando la altura resultante no rebase a la de los monumentos o edificios ni la del perfil general del entorno.
 
@@ -14443,37 +14717,53 @@ t) Las cornisas, balcones y rejas de ventanas no deberán sobresalir del paño d
 
 u) Las instalaciones y los servicios deberán quedar ocultos desde cualquier ángulo visual del entorno.
 
-III. Se requerirá la autorización previa de la Dirección de Desarrollo Urbano, para efectuar retiro o liberaciones parciales, tanto de elementos en el interior, como en fachadas o volúmenes hacia la vía pública. También se requerirá de la autorización correspondiente, en caso de que sea necesario liberar algún elemento agregado que no sea original del inmueble histórico, y cuya liberación sea benéfica para la revalorización del mismo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Se requerirá la autorización previa de la Dirección de Gestión, para efectuar retiro o liberaciones parciales, tanto de elementos en el interior, como en fachadas o volúmenes hacia la vía pública. También se requerirá de la autorización correspondiente, en caso de que sea necesario liberar algún elemento agregado que no sea original del inmueble histórico, y cuya liberación sea benéfica para la revalorización del mismo;
 
 IV. Las antenas y elementos emisores o receptores de centrales de radio, televisión y teléfono, deberán situarse fuera de la Zona de Monumentos Históricos, en puntos retirados de edificios y conjuntos históricos, y cuando ya existan estas instalaciones en el interior de dicha zona, no se permitirá su ampliación y se fomentará su reubicación fuera de la zona;
 
 V. Toda obra colindante con un monumento histórico quedará sujeta al estudio y análisis de posibles perjuicios estructurales que pudiera causarle, y
 
-VI. Un inmueble o parte del mismo se podrá demoler dentro de la Zona, previa autorización de la Dirección de Desarrollo Urbano. En el caso de monumentos históricos catalogados deberán también contar con la autorización del INAH.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VI. Un inmueble o parte del mismo se podrá demoler dentro de la Zona, previa autorización de la Dirección de Gestión con base en el dictamen que emita la Subdirección de Planeación. En el caso de monumentos históricos catalogados deberán también contar con la autorización del INAH.
 
 DEL TRATAMIENTO URBANO DE LA ZONA
 
-Artículo 1201 Todo lo relacionado con el mantenimiento y conservación de la vía pública, y lo relativo al entorno urbano, considerándose toda intervención en fachadas, modificaciones en las vialidades, plazas, jardines, y áreas públicas, y en general toda obra que altere la perspectiva y la unidad de dichos espacios, se regirá por los siguientes lineamientos:
+###### Artículo 1201.
+
+Todo lo relacionado con el mantenimiento y conservación de la vía pública, y lo relativo al entorno urbano, considerándose toda intervención en fachadas, modificaciones en las vialidades, plazas, jardines, y áreas públicas, y en general toda obra que altere la perspectiva y la unidad de dichos espacios, se regirá por los siguientes lineamientos:
 
 a) Se privilegiará al peatón sobre los vehículos, buscando dar mayores facilidades a los primeros.
 
-b) La Dirección de Desarrollo Urbano podrá determinar las formar físicas y los diseños de la nomenclatura oficial.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+b) La Dirección de Gestión podrá determinar las formar físicas y los diseños de la nomenclatura oficial.
 
 c) La nomenclatura de las calles y plazas se considera de valor patrimonial, por lo que cualquier modificación deberá ser encaminada a recuperar alguno de sus nombres anteriores, de preferencia el más significativo.
 
 d) Se procurará conservar la nomenclatura existente que contiene los nombres históricos de las calles y avenidas.
 
-e) Se podrán realizar o reparar los pavimentos de las banquetas, arroyo de calles o plazas, después de autorizarse los proyectos correspondientes por la Dirección de Desarrollo Urbano, con el objeto de mantener la armonía del conjunto urbano y arquitectónico.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-f) La colocación de pavimentos, sean éstos nuevos o de restitución, deberán realizarse sin alterar los accesos de los inmuebles; asimismo deberán acatar las disposiciones de la Dirección de Desarrollo Urbano, respecto de los niveles de pavimentos y banquetas y se promoverá la colocación de la pavimentación tradicional, como: piedra laja, piedra bola recortada y otros. Los escalones y rampas de acceso, en caso de ser autorizados, se construirán con el mismo material que el resto de las aceras o banquetas, y no deberán obstaculizar el tránsito de peatones, promoviendo la incorporación de elementos que faciliten el tránsito de personas con capacidades diferenciadas.
+e) Se podrán realizar o reparar los pavimentos de las banquetas, arroyo de calles o plazas, después de autorizarse los proyectos correspondientes por la Dirección de Gestión con el objeto de mantener la armonía del conjunto urbano y arquitectónico.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+f) La colocación de pavimentos, sean éstos nuevos o de restitución, deberán realizarse sin alterar los accesos de los inmuebles; asimismo deberán acatar las disposiciones de la Dirección de Gestión, respecto de los niveles de pavimentos y banquetas y se promoverá la colocación de la pavimentación tradicional, como: piedra laja, piedra bola recortada y otros. Los escalones y rampas de acceso, en caso de ser autorizados, se construirán con el mismo material que el resto de las aceras o banquetas, y no deberán obstaculizar el tránsito de peatones, promoviendo la incorporación de elementos que faciliten el tránsito de personas con capacidades diferenciadas.
 
 g) Se restaurarán los pavimentos de las plazas, calles y andadores, así como el adoquinado y carpeta asfáltica en donde sea necesario para dar la calidad adecuada al tránsito y contribuir a mejorar el ambiente.
 
 h) Se podrá permitir la instalación de elementos móviles, como mesas, sillas o sombrillas y templetes, así como la colocación temporal de puestos o instalaciones tradicionales, únicamente para los festejos cívicos del 1ro de mayo, 5 de mayo, 16 de septiembre, 12 de octubre, y 20 de noviembre, que se instalarán la víspera y el día de la celebración, y en el caso de las fiestas patronales, se aplicará la misma disposición, que en ningún momento podrán ser actividades de comercio informal que afecta o compita deslealmente con los comercios establecidos en la Zona, contando para su instalación, con el permiso temporal correspondiente de acuerdo a las disposiciones legales vigentes y emitido por la Autoridad Municipal.
 
-i) Los proyectos de jardinería, pavimentación, urbanización, alumbrado público, mobiliario urbano y ornato que se realicen en la Zona de Monumentos, deberán ser autorizados por la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-j) Las áreas verdes públicas en la Zona de Monumentos, se conservarán como tales y será necesaria la autorización de la Dirección de Desarrollo Urbano para modificarlas.
+i) Los proyectos de jardinería, pavimentación, urbanización, alumbrado público, mobiliario urbano y ornato que se realicen en la Zona de Monumentos, deberán ser autorizados por la Dirección de Gestión.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+j) Las áreas verdes públicas en la Zona de Monumentos, se conservarán como tales y será necesaria la autorización de la Dirección de Gestión para modificarlas.
 
 k) Las plazas y áreas verdes de relevancia histórica deberán conservarse, solamente se permitirán en éstas el uso y destino que no las afecte.
 
@@ -14491,13 +14781,19 @@ q) No se permitirá dentro de las plazas públicas, la construcción de edificio
 
 r) No se autorizarán instalaciones fijas de mobiliario y equipo, que sean extensiones de edificios al exterior de los mismos, adosadas o separadas de ellos.
 
-s) No se permitirá la colocación de altares sobre los paramentos de las fachadas de las edificaciones, salvo autorización de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+s) No se permitirá la colocación de altares sobre los paramentos de las fachadas de las edificaciones, salvo autorización de la Dirección de Gestión.
 
 ###### Artículo 1202.
 
 Los propietarios y los poseedores de los inmuebles de la zona, en forma solidaria, son responsables de dar el mantenimiento necesario, rescatar y conservar dichos inmuebles.
 
-Artículo 1203 Los propietarios y los poseedores de los inmuebles ubicados dentro de la zona, al dar mantenimiento a los inmuebles, deberán pintarlos, de acuerdo a la gama de colores autorizados por la Dirección de Desarrollo Urbano, bajo los siguientes lineamientos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+###### Artículo 1203.
+
+Los propietarios y los poseedores de los inmuebles ubicados dentro de la zona, al dar mantenimiento a los inmuebles, deberán pintarlos de acuerdo a la gama de colores autorizados por la Dirección de Gestión, bajo los siguientes lineamientos:
 
 a) Los colores que se utilicen, tanto en los paños de muros visibles desde el exterior, como en los enmarcamientos de vanos, carpintería, herrería, apoyos y elementos de ornato, deberán ajustarse a la gama de colores que se especifican en particular para esta zona de monumentos.
 
@@ -14523,7 +14819,9 @@ k) Los zócalos conservarán preferentemente el color del paramento en que se ub
 
 l) El color de las fachadas de los inmuebles que se construyan, se elegirá tomando en cuenta su integración con los inmuebles colindantes, y buscando la armonía en el conjunto.
 
-m) La pintura de murales deberá ser sometida a la aprobación de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+m) La pintura de murales deberá ser sometida a la aprobación de la Dirección de Gestión.
 
 n) No se autoriza la aplicación de pintura color blanco en paramentos de fachadas.
 
@@ -14533,7 +14831,9 @@ p) No se permitirá ningún dibujo, figura, alegoría, escudo, rotulación, logo
 
 q) No se autoriza la subdivisión de fachadas de edificios de valor histórico con diversos colores, ni con un solo color varias superficies compuestas por varias construcciones.
 
-r) Queda prohibido el uso de pintura de aceite para fachadas e interiores, salvo disposición de lo contrario, por escrito de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+r) Queda prohibido el uso de pintura de aceite para fachadas e interiores, salvo disposición de lo contrario, por escrito de la Dirección de Gestión.
 
 ###### Artículo 1204.
 
@@ -14543,9 +14843,11 @@ Las obras de restauración, construcción, modificación o intervención que se 
 
 Por mobiliario urbano deberá entenderse el conjunto de instalaciones muebles utilizadas para prestar servicios urbanos y poder desarrollar las diferentes actividades características de la ciudad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1206.
 
-El mobiliario urbano destinado a las vialidades, plazas, parques y jardines localizados en la Zona de Monumentos, será diseñado buscando la integración al contexto histórico y el máximo aprovechamiento funcional, entre los cuales podrá ser autorizado por la Dirección de Desarrollo Urbano, el siguiente mobiliario:
+El mobiliario urbano destinado a las vialidades, plazas, parques y jardines localizados en la Zona de Monumentos, será diseñado buscando la integración al contexto histórico y el máximo aprovechamiento funcional, entre los cuales podrá ser autorizado por la Dirección de Gestión, el siguiente mobiliario:
 
 a) Puestos de servicio público
 
@@ -14627,9 +14929,11 @@ III. Intensidades; y
 
 IV. Usos autorizados, prohibidos y condicionados.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1211.
 
-Toda modificación al uso del suelo de la Zona, así como el otorgamiento de los permisos que marque el presente Capítulo de Construcciones, con respecto al uso de suelo de dicha zona, requerirá previamente la autorización de la Dirección de Desarrollo Urbano.
+Toda modificación al uso del suelo de la Zona, así como el otorgamiento de los permisos que marque el presente Capítulo de Construcciones, con respecto al uso de suelo de dicha zona, requerirá previamente la autorización de la Dirección de Gestión.
 
 ###### Artículo 1212.
 
@@ -14645,7 +14949,9 @@ d) Construcciones que requieran grandes chimeneas, antenas o depósitos visibles
 
 e) La construcción de estacionamientos públicos en edificios catalogados.
 
-f) Las construcciones o edificios para estacionamientos públicos, sólo podrán ser autorizados después de presentar el proyecto correspondiente, obtener la factibilidad de uso de suelo y la aprobación de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+f) Las construcciones o edificios para estacionamientos públicos, sólo podrán ser autorizados después de presentar el proyecto correspondiente, obtener la factibilidad de uso de suelo y la aprobación de la Dirección de Gestión.
 
 ###### Artículo 1213.
 
@@ -14849,13 +15155,19 @@ f) El Ayuntamiento renovará la licencia del anuncio siempre y cuando el anuncio
 
 g) Se sugiere que los materiales que se utilicen para los anuncios comerciales, sean preferentemente de madera, lámina natural, lámina pintada, latón, cobre, bronce, concreto, piedra, talavera, fierro forjado, hierro fundido.
 
-h) Durante la realización de cualquier obra en los inmuebles, se deberán colocar las placas que amparan las autorizaciones del INAH, en su caso, y la Dirección de Desarrollo Urbano, debiendo retirarlas al término de la obra.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+h) Durante la realización de cualquier obra en los inmuebles, se deberán colocar las placas que amparan las autorizaciones del INAH, en su caso, y la Dirección de Gestión, debiendo retirarlas al término de la obra.
 
 i) Los anuncios temporales para renta o venta de inmuebles deberán ser los reglamentarios, cuarenta centímetros por sesenta centímetros máximo.
 
-j) Los anuncios en escenografía urbana se permiten, previa autorización de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-k) Anuncio integrado en fachada, se autoriza este tipo de anuncio dentro de la Zona de Monumentos sólo en edificios modernos y contemporáneos, bajo la supervisión de la Dirección de Desarrollo Urbano.
+j) Los anuncios en escenografía urbana se permiten, previa autorización de la Dirección de Gestión.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+k) Anuncio integrado en fachada, se autoriza este tipo de anuncio dentro de la Zona de Monumentos sólo en edificios modernos y contemporáneos, bajo la supervisión de la Dirección de Gestión.
 
 l) No se autorizan anuncios en idioma extranjero, con excepción de nombres de marcas registradas o sus frases publicitarias que les caractericen.
 
@@ -14917,9 +15229,11 @@ h) No se autorizan nuevos estacionamientos en edificios catalogados.
 
 i) No se permitirá el estacionamiento de camiones de carga, mudanzas, autobuses foráneos y suburbanos en las calles o plazas; deberán tener su propio estacionamiento fuera de la Zona de Monumentos y sólo se permitirá el estacionamiento de autobuses escolares y de promoción turística, durante el ascenso y descenso del pasaje.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1229.
 
-Se complementarán las obras de recuperación, con un alumbrado público adecuado en plazas, calles y edificios; suprimiendo éstas donde sea posible, los tendidos aéreos de líneas de Comisión Federal de Electricidad, Teléfonos de México y Televisión por cable, preferentemente bajo la dirección de proyectos de iluminación para los monumentos, coordinadamente con la iluminación pública aprobados por la Dirección de Desarrollo Urbano, bajo los siguientes lineamientos:
+Se complementarán las obras de recuperación, con un alumbrado público adecuado en plazas, calles y edificios; suprimiendo éstas donde sea posible, los tendidos aéreos de líneas de Comisión Federal de Electricidad, Teléfonos de México y Televisión por cable, preferentemente bajo la dirección de proyectos de iluminación para los monumentos, coordinadamente con la iluminación pública aprobados por la Dirección de Gestión, bajo los siguientes lineamientos:
 
 a) Se hará una revisión integral, de todas las redes, instalaciones eléctricas y cableado de la Zona de Monumentos.
 
@@ -14935,7 +15249,9 @@ d) La iluminación de los anuncios, letreros, aparadores y vitrinas que sean vis
 
 3. En caso de requerirse elementos exteriores, como cables o soportes, éstos deberán ser por su forma, color y colocación poco visibles en el día.
 
-4. La iluminación para eventos especiales o de temporada deberá ser coordinada por la Dirección de Desarrollo Urbano, para evitar que los elementos de iluminación ocasionen deterioro físico o de percepción en la imagen urbana.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+4. La iluminación para eventos especiales o de temporada deberá ser coordinada por la Dirección de Gestión, para evitar que los elementos de iluminación ocasionen deterioro físico o de percepción en la imagen urbana.
 
 ###### Artículo 1230.
 
@@ -14991,11 +15307,15 @@ Se autorizará el ingreso de vehículos-cisterna a la Zona para transportar agua
 
 DE LOS TRÁMITES PARA LLEVAR A CABO PROYECTOS DE OBRA EN LA ZONA DE MONUMENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1240.
 
-Para el trámite de solicitud de autorización o licencia de cualquier obra regulada en este apartado, el interesado deberá cumplir ante la Dirección de Desarrollo Urbano, con los requisitos establecidos en el presente Capítulo de Construcciones para el Municipio de Puebla, presentado (sic) para tal efecto solicitud de acuerdo a lo siguiente.
+Para el trámite de solicitud de autorización o licencia de cualquier obra regulada en este apartado, el interesado deberá cumplir ante la Dirección de Gestión, con los requisitos establecidos en el presente Capítulo de Construcciones para el Municipio de Puebla, presentado (sic) para tal efecto solicitud de acuerdo a lo siguiente.
 
-a) Solicitud en la que se incluya nombre y domicilio del solicitante, del propietario y perito restaurador responsable de la obra, así como su aceptación para la realización de inspecciones por parte de la Dirección de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+a) Solicitud en la que se incluya nombre y domicilio del solicitante, del propietario y perito restaurador responsable de la obra, así como su aceptación para la realización de inspecciones por parte de la Dirección de Gestión.
 
 b) Planta de localización del predio en la manzana correspondiente a escala uno a quinientos, incluyendo número oficial, superficie, linderos e indicaciones de las áreas libres y construidas.
 
@@ -15007,7 +15327,9 @@ e) Fotografías del inmueble: de la fachada e interiores, así como del predio, 
 
 f) Planos del proyecto que incluya: plantas arquitectónicas, alzados, cortes generales y cortes detallados de la fachada a la vía pública, especificando acabados y colores visibles desde el exterior.
 
-g) En el caso de construcciones nuevas, la Dirección de Desarrollo Urbano podrá solicitar estudios de composición y armonía del edificio proyectado y su entorno, estudios de mecánica de suelo, estudios de perfiles urbanos, expresados mediante fotografías y fotomontajes, geometrales y perspectivas. Y cuando el caso lo amerite, se deberá presentar uso del suelo y estudio vial.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+g) En el caso de construcciones nuevas, la Dirección de Gestión, podrá solicitar estudios de composición y armonía del edificio proyectado y su entorno, estudios de mecánica de suelo, estudios de perfiles urbanos, expresados mediante fotografías y fotomontajes, geometrales y perspectivas. Y cuando el caso lo amerite, se deberá presentar uso del suelo y estudio vial.
 
 h) Autorización por parte del INAH.
 
@@ -15063,13 +15385,15 @@ El Ayuntamiento se encargará de gestionar todas aquellas autorizaciones y actos
 
 Todo proyecto de conservación y restauración promovidos por el Gobierno Municipal podrá considerar e incorporar las propuestas ciudadanas que cualquier particular u organización pueda aportar.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1248.
 
-Se concede acción popular a toda persona física para denunciar ante la Dirección de Desarrollo Urbano, la realización de actos que produzcan daño a alguno o varios inmuebles ubicados en la Zona de monumentos, así como el incumplimiento de cualquiera de las disposiciones señaladas en este Capítulo.
+Se concede acción popular a toda persona física para denunciar ante la Dirección de Gestión, la realización de actos que produzcan daño a alguno o varios inmuebles ubicados en la Zona de Monumentos, así como el incumplimiento de cualquiera de las disposiciones señaladas en este Capítulo.
 
-Las denuncias deberán presentarse por escrito, telefónicamente o por cualquier otro medio que el H. Ayuntamiento de Puebla establezca para tal efecto y deberán ser atendidas por la Dirección de Desarrollo Urbano, en un plazo no mayor a dos días contados a partir de la fecha de recepción del aviso.
+Las denuncias deberán presentarse por escrito, telefónicamente o por cualquier otro medio que el H. Ayuntamiento de Puebla establezca para tal efecto y deberán ser atendidas por la Dirección de Gestión, en un plazo no mayor a dos días contados a partir de la fecha de recepción del aviso.
 
-La Dirección de Desarrollo Urbano avisará por escrito al promovente de las acciones realizadas una vez que hayan sido tomadas.
+La Dirección de Gestión avisará por escrito al promovente de las acciones realizadas una vez que hayan sido tomadas.
 
 DE LAS SANCIONES
 
@@ -15091,9 +15415,11 @@ Procederá la demolición cuando el propietario o poseedor agregue o construya a
 
 Para la ejecución de cualquiera de estas sanciones, las Autoridades Municipales, podrán solicitar el auxilio de la fuerza pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1251.
 
-En caso de que el infractor desee evitar la imposición de la sanción derivada de la violación a cualquiera de los preceptos señalados en el presente apartado, podrá celebrar un convenio de coordinación con el Ayuntamiento, a efecto de realizar las obras que se requieran. Para tal efecto, se acordará un programa de trabajo, mismo que se ejecutará bajo la asesoría de la Dirección de Desarrollo Urbano.
+En caso de que el infractor desee evitar la imposición de la sanción derivada de la violación a cualquiera de los preceptos señalados en el presente apartado, podrá celebrar un convenio de coordinación con el Ayuntamiento, a efecto de realizar las obras que se requieran. Para tal efecto, se acordará un programa de trabajo, mismo que se ejecutará bajo la asesoría de la Dirección de Gestión.
 
 Si el infractor demuestra fehacientemente que no cuenta con las condiciones económicas para llevar a cabo los trabajos, la autoridad podrá optar, a su entera discreción, por cualquiera de las siguientes opciones:
 
@@ -15127,7 +15453,9 @@ II. Aviso: La manifestación escrita hecha por el interesado a la autoridad, don
 
 III. Anunciante: Persona física o moral que utiliza los servicios de publicidad para difundir o publicitar productos, bienes o servicios;
 
-IV. Ayuntamiento: Al Honorable Ayuntamiento de Puebla, a través de las Unidades Administrativas a las que les sean delegadas las facultades de aplicación y vigilancia del cumplimiento del presente Capítulo; sin perjuicio de las que se encuentren señaladas para autoridades específicas en este Capítulo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IV. Ayuntamiento: Al Honorable Ayuntamiento de Puebla, a través de las autoridades administrativas que ejerzan las facultades de aplicación y vigilancia del cumplimiento del presente Capítulo;
 
 V. Contaminación Visual: Alteración que impide la contemplación y disfrute armónico de los paisajes natural, rural y urbano del Municipio de Puebla, ocasionando impactos negativos importantes en la percepción visual, por la distorsión o cualquier forma de transformación del entorno natural, histórico y urbano del Municipio de Puebla, que deteriore la calidad de vida de las personas;
 
@@ -15139,9 +15467,9 @@ VIII. Cartel: Elemento publicitario de carácter gráfico, bidimensional o tridi
 
 IX. Contratista: Persona física o moral que celebra contratos para la fijación, instalación, mantenimiento, modificación o retiro de anuncios;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-X. Dirección de Administración Urbana.- La Dirección de Administración Urbana de la Secretaria de Administración Urbana, Obra Pública y Ecología del H. Ayuntamiento de Puebla;
+X. Dirección de Gestión.- La Dirección de Gestión y Desarrollo Urbano Sustentable de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable; quien actuará a través de las autoridades competentes adscritas a esta Dirección;
 
 XI. Director Responsable de Obra: Persona física que se hace responsable de la observancia del Capítulo de Construcciones, en el acto en que otorga su responsiva;
 
@@ -15185,13 +15513,11 @@ XXX. Capítulo de Construcciones: El Capítulo de Construcciones del presente C�
 
 XXXI. Responsable Solidario: Toda persona física o moral que se obliga mancomunadamente con el titular, a responder de las obligaciones derivadas de la instalación, modificación y/o retiro de un anuncio;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-XXXII. Secretaría.- La Secretaría de Administración Urbana, Obra Pública y Ecología;
+XXXII. Secretaría.- La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
-
-XXXIII. Mercadotecnia Urbana: El Departamento de Imagen y Equipamiento Urbano;
+XXXIII. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
 XXXIV. Tapiales: Elementos de seguridad que sirven para cubrir y proteger perimetralmente y a nivel de banqueta, una obra en construcción, durante el tiempo que marque la respectiva licencia de construcción; los cuales pueden ser de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad;
 
@@ -15395,11 +15721,11 @@ II. Anuncios en accesorios:
 
 Los que se encuentran integrados o adheridos a una estructura y cuenten con dos o más elementos constitutivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1262.
 
-Los anuncios no considerados dentro de las especificaciones de instalación contenidas en este Capítulo, podrán ser puestos a consideración de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano del Ayuntamiento para su análisis y evaluación.
+Los anuncios no considerados dentro de las especificaciones de instalación contenidas en este Capítulo, podrán ser puestos a consideración de la Dirección de Gestión para su análisis y evaluación.
 
 Los anuncios impresos tales como volantes, panfletos, trípticos, dípticos y cualesquiera otros similares, repartidos en la vía pública, serán regulados y sancionados en términos de los Capítulos de Policía y Gobierno y el relativo a Limpia del presente Código Reglamentario.
 
@@ -15451,11 +15777,11 @@ VI. No se permitirá instalar este tipo de anuncios en la zona a que hace refere
 
 VII. No se permitirá ningún anuncio con doble área de exhibición sobre el mismo soporte, ni en un mismo plano.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1264 Bis.
 
-El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios autosoportados, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+El Ayuntamiento, a través de la Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios autosoportados, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 1265.
 
@@ -15477,19 +15803,21 @@ VII. La distancia mínima entre un anuncio de éstos respecto de otro igual o au
 
 VIII. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1265 Bis.
 
-El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios en azoteas de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+El Ayuntamiento, a través de la Dirección de Gestión determinará el lugar específico para la colocación de los anuncios en azoteas de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1266.
 
 Para la ubicación o modificación de los anuncios en muros de colindancia se deberá cumplir con lo siguiente:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento de la licencia o permiso correspondiente, el Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano valorará y determinará sobre el carácter estético o decorativo del anuncio;
+I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento de la licencia o permiso correspondiente, el Ayuntamiento, a través de la Dirección de Gestión las valorará y determinará sobre el carácter estético o decorativo del anuncio;
 
 II. No se permitirá la instalación o fijación de mantas y lonas; y
 
@@ -15503,15 +15831,15 @@ I. Sólo se permitirá su instalación temporal, cuando se trate de promociones,
 
 II. No se permitirán anuncios de este tipo en inmuebles destinados a uso habitacional, según lo establecido en los Programas de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil y en su caso, la Secretaría de Administración Urbana;
+III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil y en su caso; la Dirección de Gestión;
 
 IV. Si el objeto es colocado directamente en el piso, debe contar con una protección en forma de valla a cuando menos 2 metros alrededor del mismo;
 
 V. Los objetos no deben invadir las áreas de tránsito peatonal o vehicular;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
 VI. Deberán ser inflados con aire o gas inerte, para lo cual deberán contar con el visto bueno de la Unidad Operativa Municipal de Protección Civil. No se permitirá la instalación de objetos inflados con algún tipo de gas tóxico, inflamable o explosivo;
 
@@ -15557,11 +15885,11 @@ V. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o fun
 
 VI. No se permitirá instalar este tipo de anuncios en zonas históricas, arqueológicas, artísticas, en inmuebles catalogados por el Instituto Nacional de Antropología e Historia, o por el Ayuntamiento, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1270 Bis.
 
-El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios en tapiales, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+La Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios en tapiales, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 1271.
 
@@ -15585,11 +15913,11 @@ VIII. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o 
 
 IX. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública y/o los predios colindantes.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1271 Bis.
 
-El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios electrónicos de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+El Ayuntamiento, a través de la Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios electrónicos de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 1272.
 
@@ -15609,11 +15937,11 @@ VI. No estarán permitidos este tipo de anuncios cuando su funcionamiento impliq
 
 VII. Este tipo de anuncios podrán ser autosoportados o de azotea, debiendo cumplir, además, con lo dispuesto en los artículos 1265 y 1266.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1272 Bis.
 
-El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, determinará el lugar específico para la colocación de los anuncios de neón, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+El Ayuntamiento, a través de la Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios de neón, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -15621,37 +15949,53 @@ El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Ima
 
 Para efectos del presente Capítulo, se entenderá por anuncio espectacular, a aquella estructura destinada a la colocación de propaganda publicitaria, sustentada por uno o más elementos que se encuentren apoyados o anclados directamente al piso de un predio, y en los que sus soportes, carátula o pantalla no tengan contacto con alguna edificación.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1272 Quáter.
 
 Para la fijación, instalación y ubicación de los anuncios espectaculares, se deberá cumplir con lo siguiente:
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 l. Sus características podrán tener un área de exhibición que podrá exceder como máximo hasta en 1.5 metros las dimensiones de 12.90 metros de longitud por 7.20 metros de ancho y una altura de 25 metros, medida sobre nivel de banqueta a la parte superior del anuncio;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 II. La distancia mínima entre un anuncio de este tipo y otro igual, deberá estar a una distancia de 200 metros;
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 III. No se permitirá la instalación de este tipo de anuncios en zonas históricas, arqueológicas, artísticas, en inmuebles catalogados por el Instituto Nacional de Antropología e Historia o el Ayuntamiento, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de la zonas referidas;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 IV. No se permitirán anuncios de este tipo en lugares que afecten inmuebles destinados parcial o totalmente a uso habitacional;
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 V. Solo se permitirán este tipo de anuncios en lugares en donde no se interfiera la visibilidad o funcionamiento de las señalizaciones oficiales de cualquier tipo;
 
-VI. Obtener la autorización correspondiente por parte de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VI. Obtener la autorización correspondiente por parte de la Dirección de Gestión;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 VII. Queda estrictamente prohibido instalar en el Municipio de Puebla, anuncios cuyas dimensiones excedan de las medidas establecidas en la fracción I de este artículo; y
 
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+
 VIII. Las demás que a juicio de la Autoridad correspondiente sean requeridas.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1272 Quinquies.
 
-La autorización para la instalación de los anuncios espectaculares, quedará a cargo de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, previo dictamen de factibilidad que haga la Unidad Operativa Municipal de Protección Civil.
+La autorización para la instalación de los anuncios espectaculares, quedará a cargo de la Dirección de Gestión, previo dictamen de factibilidad que haga la Unidad Operativa Municipal de Protección Civil.
 
-La vigencia de la autorización a la que hace referencia el párrafo anterior, quedará a consideración de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de las Direcciones correspondientes: una vez que haya concluido el término por el que se expidió dicha autorización, el particular autorizado, tendrá una prórroga de diez días naturales para retirar el espectacular, sin que genere gasto alguno por concepto de infracciones o pago de derechos por parte del mismo; posterior a ese plazo, será la autoridad quien lleve a cabo el retiro de la estructura, con cargo a dicho titular, así como de las infracciones y pago de derechos a los que se haga acreedor.
+La vigencia de la autorización a la que hace referencia el párrafo anterior, quedará a consideración de la Dirección de Gestión. Una vez que haya concluido el término por el que se expidió dicha autorización, el particular autorizado, tendrá una prórroga de diez días naturales para retirar el espectacular, sin que genere gasto alguno por concepto de infracciones o pago de derechos por parte del mismo; posterior a ese plazo, será la autoridad quien lleve a cabo el retiro de la estructura, con cargo a dicho titular, así como de las infracciones y pago de derechos a los que se haga acreedor.
 
-El Titular de la autorización, al momento de realizar el retiro del espectacular, deberá notificar a las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, así como, a la Unidad Operativa Municipal de Protección Civil, con una anticipación de cuando menos de cinco días hábiles a los trabajos que se llevarán a cabo con motivo de dicho retiro.
+El Titular de la autorización, al momento de realizar el retiro del espectacular, deberá notificar a la Dirección de Gestión, así como a la Unidad Operativa Municipal de Protección Civil, con una anticipación de cuando menos de cinco días hábiles a los trabajos que se llevarán a cabo con motivo de dicho retiro.
 
 ###### Artículo 1273.
 
@@ -15671,11 +16015,11 @@ Los espacios destinados para la publicidad en el mobiliario urbano, serán deter
 
 Sólo se permitirá instalar publicidad a aquellas personas físicas o morales las que se le rente o concesione la publicidad de puentes peatonales, sujetándose a las disposiciones del presente Capítulo en materia técnica y presentando propuesta de la estructura y tipo de publicidad a instalar, la cual será instalada una vez autorizada por el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1277.
 
-El Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, expedirá la autorización respectiva para la colocación de anuncios publicitarios en los bastidores que para tal fin, haya destinado el propio Ayuntamiento.
+La Dirección de Gestión, expedirá la autorización respectiva para la colocación de anuncios publicitarios en los bastidores que para tal fin, haya destinado el propio Ayuntamiento.
 
 ###### Artículo 1278.
 
@@ -15691,9 +16035,9 @@ IV. Empleen los símbolos patrios con fines comerciales, salvo para su promoció
 
 V. Interfieran la visibilidad de la circulación vial y peatonal;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-VI. El Ayuntamiento, a través de la Secretaría de Administración Urbana, Obra Pública y Ecología, solo podrá autorizar, previo dictamen de factibilidad que emita al respecto la propia instancia y en los lugares destinados para tal fin, que se localicen en los muebles que forman o constituyen el mobiliario urbano, la instalación de anuncios dentro de la zona a que se hace referencia en el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, así como a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en ésta fracción;
+VI. La Dirección de Gestión, solo podrá autorizar, previo dictamen de factibilidad que emita al respecto la propia instancia y en los lugares destinados para tal fin, que se localicen en los muebles que forman o constituyen el mobiliario urbano, la instalación de anuncios dentro de la zona a que se hace referencia en el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, así como a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
 
 VII. Sea publicidad de tipo político o electoral, fuera de plazos y fechas de elecciones oficiales o bien fuera de los plazos y lugares específicos convenidos con las autoridades electorales correspondientes; y (sic)
 
@@ -15703,11 +16047,11 @@ VIII. Se empleen materiales adhesivos, pegotes, carteles o cualquier otro tipo d
 
 IX. Cuando la publicidad exceda en dimensiones respecto de los lugares destinados para tal fin, en el mobiliario urbano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1279.
 
-Solo podrán instalar anuncios en mobiliario urbano, las personas físicas o morales que cuenten con la autorización correspondiente para explotar dichos espacios, misma que deberá ser expedida, previo estudio y análisis correspondiente por parte de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, y de conformidad con las disposiciones contenidas en el presente Capítulo.
+Solo podrán instalar anuncios en mobiliario urbano, las personas físicas o morales que cuenten con la autorización correspondiente para explotar dichos espacios, misma que deberá ser expedida, previo estudio y análisis correspondiente por parte de la Dirección de Gestión, y de conformidad con las disposiciones contenidas en el presente Capítulo.
 
 Se considera también mobiliario urbano, todos aquellos muebles y equipamiento que se encuentre concesionado, rentado o administrado a una persona o empresa. De igual manera deberán sujetarse al presente Capítulo todo aquel mobiliario o equipamiento ubicado en la vía pública municipal o áreas de uso común, que contengan publicidad o anuncio alguno.
 
@@ -15717,11 +16061,11 @@ Se considera también mobiliario urbano, todos aquellos muebles y equipamiento q
 
 El Ayuntamiento, a través del Presidente Municipal, para fines de colocación de cualquier tipo de anuncios publicitarios, estará facultado para celebrar convenios o contratos, por concepto de concesión, renta o administración de los muebles que forman parte o constituyan el mobiliario urbano, pudiendo recibir como contraprestaciones beneficios en especie, las cuales, en ningún caso deberán ser menores al monto por la autorización o permiso o cuando éstas sean en detrimento del patrimonio municipal.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1280.
 
-Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano distintos a los señalados en el presente Capítulo, el Ayuntamiento, a través de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, dependientes de la Secretaría de Administración Urbana, Obra Pública y Ecología, valorará y en su caso, aprobará dicha colocación, previo dictamen técnico que de esos lugares hagan las Direcciones mencionadas.
+Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano distintos a los señalados en el presente Capítulo, el Ayuntamiento, a través de la Dirección de Gestión, valorará y en su caso, aprobará dicha colocación, previo dictamen técnico que de esos lugares haga la Dirección mencionada.
 
 DE LAS ESPECIFICACIONES TÉCNICAS EN VEHÍCULOS PARTICULARES Y DEL SERVICIO DE TRANSPORTE
 
@@ -15935,11 +16279,11 @@ VI. Anuncios autosoportados con una altura mayor a 2.10 metros del nivel de banq
 
 PROCEDIMIENTO PARA LA OBTENCIÓN DE LICENCIAS
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1297.
 
-Para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y en su caso, la demolición de estructuras que soportan o sustentan el anuncio, será necesario obtener licencia que expidan las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, previo dictamen de la Unidad Operativa Municipal de Protección Civil.
+Para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y en su caso, la demolición de estructuras que soportan o sustentan el anuncio, será necesario obtener licencia que expidan las Dirección de Gestión, previo dictamen de la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 1298.
 
@@ -16033,31 +16377,33 @@ XVII.- Presentar póliza de seguro de responsabilidad civil y daños causados a 
 
 XVIII. El dictamen técnico favorable en materia de protección civil, emitido por autoridad competente para los anuncios referidos en las fracciones I, III, IV, VIII y X del artículo 1299 de este Capítulo;
 
-XIX. El dictamen estructural favorable por parte del Ayuntamiento, tratándose de anuncios autosoportados y en azoteas; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+XIX. El dictamen estructural favorable por parte de la Dirección de Gestión, tratándose de anuncios autosoportados y en azoteas; y
 
-XX. El dictamen estructural favorable por parte de las Direcciones de Administración Urbana y de Imagen y Equipamiento Urbano, en todos los casos de anuncios fijos.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+XX. El dictamen estructural favorable por parte de la Dirección de Gestión, en todos los casos de anuncios fijos.
 
-La Dirección de Desarrollo Urbano no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+La Dirección de Gestión no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 LOS ANUNCIOS QUE PUBLICITEN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1303.
 
-Las licencias tendrán una vigencia de hasta un año a partir de su otorgamiento y podrán ser revalidadas por la Dirección de Desarrollo Urbano previa inspección que realice dentro de los cinco días hábiles siguientes a la solicitud en la que se corrobore que no han cambiado las condiciones que originaron la expedición de la misma.
+Las licencias tendrán una vigencia de hasta un año a partir de su otorgamiento y podrán ser revalidadas por la Dirección de Gestión previa inspección que realice dentro de los cinco días hábiles siguientes a la solicitud en la que se corrobore que no han cambiado las condiciones que originaron la expedición de la misma.
 
 La revalidación deberá solicitarse dentro de los quince días hábiles previos a la conclusión de la vigencia de la licencia.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1304.
 
-Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la Dirección de Desarrollo Urbano prevendrá al interesado para que en un término de cinco días hábiles, acredite el cumplimiento de los requisitos omitidos, debiendo notificarse la resolución al solicitante. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la autoridad, la solicitud se tendrá por no presentada.
+Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la Dirección de Gestión prevendrá al interesado para que en un término de cinco días hábiles, acredite el cumplimiento de los requisitos omitidos, debiendo notificarse la resolución al solicitante. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la autoridad, la solicitud se tendrá por no presentada.
 
 ###### Artículo 1305.
 
@@ -16153,9 +16499,9 @@ c) Para la entrega del permiso se debe presentar el comprobante de pago de derec
 
 d) Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Dirección de Desarrollo Urbano no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La Dirección de Gestión no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 1313.
 
@@ -16173,17 +16519,19 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que haya cubierto el Ayuntamiento y que se hubieren generado con motivo del retiro de anuncios.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1316.
 
-Los permisos para la instalación de anuncios, se sujetará a lo que establece el presente Capítulo; su vigencia será la que al efecto señalen las Direcciones de Administración Urbana, y de Imagen y Equipamiento Urbano, en atención a las circunstancias y características del anuncio y podrán ser revalidados, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 1310, que tendrá una vigencia máxima de 90 días.
+Los permisos para la instalación de anuncios, se sujetará a lo que establece el presente Capítulo; su vigencia será la que al efecto señale la Dirección de Gestión, en atención a las circunstancias y características del anuncio y podrán ser revalidados, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 1310, que tendrá una vigencia máxima de 90 días.
 
 DE LOS PERMISOS PUBLICITARIOS EN VEHÍCULOS DEL SERVICIO DE TRANSPORTE
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1317.
 
-Las empresas interesadas en colocar publicidad en vehículos del servicio de transporte público o privado, deberán tramitar el permiso correspondiente ante el Ayuntamiento.
+Las empresas interesadas en colocar publicidad en vehículos del servicio de transporte público o privado, deberán tramitar el permiso correspondiente ante la Dirección de Gestión.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -16245,9 +16593,9 @@ VI. Mantener actualizados los datos inscritos ante al Ayuntamiento; y
 
 VII. Informar al Ayuntamiento, del retiro de los anuncios.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Dirección de Desarrollo Urbano no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La Dirección de Gestión no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 1328.
 
@@ -16363,11 +16711,11 @@ III. Se aplicarán sin perjuicio de la responsabilidad civil o penal que pudiera
 
 DE LAS SANCIONES Y DE LOS MEDIOS DE DEFENSA
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1336.
 
-La aplicación del presente apartado, estará a cargo de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de la Dirección de Administración Urbana y la Dirección de Imagen y Equipamiento Urbano.
+La aplicación del presente apartado, estará a cargo de la Dirección de Gestión, quien actuará a través de las autoridades competentes en la materia.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -16477,9 +16825,11 @@ Los anuncios de carácter político y/o electoral, que en cualquier tiempo se pr
 
 Para los efectos específicos de los anuncios relativos a la propaganda política y/o electoral, se considerará como solidario responsable, a aquella persona cuya imagen aparezca en los anuncios de índole político y/o electoral referidos; y responderá solidariamente ante la autoridad municipal por todos y cada uno de los efectos que se deriven del incumplimiento a las disposiciones del presente Código Reglamentario Municipal.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1346.
 
-Queda reservada al Honorable Ayuntamiento de Puebla, la facultad para permitir la instalación en la forma, lugar y demás circunstancias, los anuncios relativos a propaganda política y/o electoral y demás anuncios de esta clase, conforme lo estime conveniente.
+Queda reservada a la Dirección de Gestión, la facultad para permitir la instalación en la forma, lugar y demás circunstancias, los anuncios relativos a propaganda política y/o electoral y demás anuncios de esta clase, conforme lo estime conveniente.
 
 ###### Artículo 1347.
 
@@ -16857,9 +17207,9 @@ V. Separar los residuos sólidos en biodegradables y no biodegradables.
 
 Los representantes reconocidos de los comerciantes de cualquier giro, agrupados en los tianguis, están obligados a vigilar que los comerciantes dejen limpio y aseado en el momento que se retiren del lugar que ocupen en los mismos.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-El incumplimiento a lo señalado dará lugar a la multa que establezca el Titular del Organismo, independientemente que el Departamento de Registro y Fiscalización revoque la autorización correspondiente. Igualmente se obligan a sufragar los costos de recolección, transportación y confinamiento de los residuos sólidos que generen.
+El incumplimiento a lo señalado dará lugar a la multa que establezca el Titular del Organismo y/o Unidad de Normatividad y Regulación Comercial, independientemente que el Departamento de Licencias y Padrón de Contribuyentes de la Tesorería Municipal revoque la autorización correspondiente. Igualmente se obligan a sufragar los costos de recolección, transportación y confinamiento de los residuos sólidos que generen.
 
 ###### Artículo 1369.
 
@@ -16981,7 +17331,9 @@ III. Apercibir y notificar a los presuntos infractores de este Capítulo;
 
 IV. Levantar infracciones por violaciones al presente Capítulo;
 
-V. Remitir en coordinación con los elementos de la Secretaría de Seguridad Pública y Vialidad Municipal, en caso de falta flagrante, a los infractores de este Capítulo, respetando sus garantías individuales y poniéndolos inmediatamente a disposición del Juez Calificador de la Delegación que corresponda. Dicho Juez aplicará el Capítulo de Policía y Gobierno del presente Código Reglamentario, apegándose a las sanciones descritas en el Capítulo correspondiente y aportará la información necesaria al Organismo Operador para que imponga las sanciones que en su caso pudieran resultar de la infracción al presente Capítulo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. Remitir en coordinación con los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal, en caso de falta flagrante, a los infractores de este Capítulo, respetando sus garantías individuales y poniéndolos inmediatamente a disposición del Juez Calificador de la Delegación que corresponda. Dicho Juez aplicará el Capítulo de Policía y Gobierno del presente Código Reglamentario, apegándose a las sanciones descritas en el Capítulo correspondiente y aportará la información necesaria al Organismo Operador para que imponga las sanciones que en su caso pudieran resultar de la infracción al presente Capítulo;
 
 VI. Verificar el cumplimiento de pago del servicio por parte de los usuarios a la Tesorería Municipal y en caso de Comercios e Industrias, a los concesionarios autorizados;
 
@@ -17281,11 +17633,11 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto regular la actividad comercial, la organización, vigilancia y administración de los mercados del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1399.
 
-El funcionamiento de los Mercados Municipales, será operado y vigilado por conducto del Departamento de Registro y Fiscalización de la Tesorería Municipal. El servicio de los Mercados, podrá ser prestado por los particulares, previo acuerdo del Honorable Ayuntamiento de Puebla, por el cual se otorgue la concesión respectiva.
+El funcionamiento de los Mercados Municipales, será operado y vigilado por la Dirección de Abasto y Comercio Interior de la Secretaría de Desarrollo Económico, Turismo y Competitividad, correspondiendo la función fiscalizadora a la Unidad de Normatividad y Regulación Comercial dependiente de la Tesorería Municipal. El servicio de los Mercados, podrá ser prestado por los particulares, previo acuerdo del Honorable Ayuntamiento de Puebla, por el cual se otorgue la concesión respectiva.
 
 ###### Artículo 1400.
 
@@ -17293,9 +17645,9 @@ Para los efectos de este Capítulo, se considerará:
 
 I. MERCADO PÚBLICO: Al lugar o local que sea propiedad del Municipio, donde concurra una diversidad de comerciantes y consumidores en libre competencia, cuya oferta y demanda se refieren primordialmente a los artículos de primera necesidad, con excepción de la venta de artículos explosivos o combustibles;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-II. LICENCIA: Documento expedido por el Tesorero Municipal a través del Departamento de Registro y Fiscalización a favor de un particular, a través del cual se autoriza el ejercicio del comercio en un lugar o local específico de un mercado en concreto y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía;
+II. LICENCIA: Documento expedido por el Tesorero Municipal a través de la Dirección de Ingresosa propuesta de la Dirección de Abasto y Comercio Interior en favor de un particular, a través del cual se autoriza el ejercicio del comercio en un lugar o local específico de un mercado en concreto y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía;
 
 III. COMERCIANTE: A la persona física o moral que dentro de los mercados públicos, hace del comercio su ocupación habitual;
 
@@ -17345,21 +17697,21 @@ III. Zona semihúmeda: Aquella en la que se expedirán toda clase de alimentos p
 
 IV. Zona de tianguis: Aquella en la que se expedirán artículos no perecederos, como ropa, calzado, plásticos, orfebrería, jarciería y similares a éstos.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Excepcionalmente y para efectos exclusivos de regularización, la Tesorería Municipal a través del Departamento de Registro y Fiscalización podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el presente artículo, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona.
+Excepcionalmente y para efectos exclusivos de regularización, la Dirección de Abasto y Comercio Interior, podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el presente artículo, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona, informando de dicha autorización al Departamento de Licencias y Padrón de Contribuyentes para su inscripción en el registro correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1405.
 
-En la solicitud que formule el comerciante, deberá señalar el giro comercial para guardar el orden correspondiente, que quedará debidamente determinado en la autorización; reservándose el Departamento de Registro y Fiscalización de la Tesorería Municipal, la facultad para señalar el lugar dentro del Mercado Municipal, en el que se pueda operar, lo cual informará a la Contraloría Municipal para los efectos que resulten procedentes.
+En la solicitud que formule el comerciante para la asignación de un local y/o plataforma dentro de un mercado municipal, deberá señalar el giro comercial al cual será destinado, a fin de guardar el orden correspondiente, mismo que quedará debidamente determinado en la autorización que emita la Dirección de Abasto y Comercio Interior respecto al lugar dentro del Mercado Municipal en el que ha de operar, situación que deberá ser informada a la Contraloría Municipal y al Departamento de Licencias y Padrón de Contribuyentes para los efectos que resulten procedentes.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1406.
 
-Toda suspensión temporal de actividades por el comerciante a quien se la haya concedido la licencia u otorgamiento del contrato respectivo, deberá ser avisada al Departamento de Registro y Fiscalización de la Tesorería Municipal.
+Toda suspensión temporal de actividades por el comerciante a quien se le haya concedido la licencia, autorización u otorgamiento del contrato respectivo, de un local o plataforma en un Mercado Municipal deberá ser notificada a la Unidad de Normatividad y Regulación Comercial, así como al Departamento de Licencias y Padrón de Contribuyentes.
 
 DE LOS PRESTADORES DE SERVICIOS
 
@@ -17367,11 +17719,11 @@ DE LOS PRESTADORES DE SERVICIOS
 
 Dentro de los mercados públicos, se podrán prestar los servicios de sanitarios, báscula, refrigeración y los demás que el Ayuntamiento considere necesarios para cada uno de los mercados.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1408.
 
-La prestación de los servicios mencionados en el articulo anterior, estará a cargo de los propietarios que tengan el uso de suelo debidamente autorizado y en su caso por las personas que sin ser propietarios y contando con el uso del suelo, tenga la autorización del Departamento de Registro y Fiscalización de la Tesorería Municipal.
+La prestación de los servicios mencionados en el articulo anterior, estará a cargo de los propietarios que tengan el uso de suelo debidamente autorizado y en su caso por las personas que sin ser propietarios y contando con el uso del suelo, tenga la autorización de la Dirección de Abasto y Comercio Interior.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -17391,11 +17743,11 @@ Los prestadores de servicios tendrán la obligación de proporcionar el servicio
 
 (DEROGADO, P.O. 27 DE MARZO DE 2006)
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1413.
 
-Los servicios complementarios de carga y descarga, estiba, transporte de carga ligera y taxis, funcionarán en los términos y condiciones que proponga el Departamento de Registro y Fiscalización de la Tesorería Municipal y sean aprobados por el Ayuntamiento.
+Los servicios complementarios de carga y descarga, estiba, transporte de carga ligera y taxis, funcionarán en los términos y condiciones que proponga la Dirección de Abasto y Comercio Interior y sean aprobados por el Ayuntamiento.
 
 DEL EMPADRONAMIENTO
 
@@ -17417,17 +17769,17 @@ DEL EMPADRONAMIENTO
 
 DE LAS LICENCIAS
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1418.
 
-Los comerciantes que operen en los Mercados Municipales, deberán solicitar la licencia de funcionamiento o celebrar contratos de compraventa con el Municipio, a través del Departamento de Registro y Fiscalización de la Tesorería Municipal, cubriendo los derechos, productos o aprovechamientos de acuerdo a la de Ley de Ingresos vigente.
+Los comerciantes que operen en los Mercados Municipales y/o de Apoyo, deberán contar con su respectiva licencia de funcionamiento que ampare el giro comercial del establecimiento; en caso de no contar con la misma, la deberán solicitar a través de la Dirección de Abasto y Comercio Interior, quien analizará su procedencia tomando en consideración lo dispuesto por el artículo 1404 del presente Código. De considerarse procedente y una vez cubiertos los derechos, productos o aprovechamientos correspondientes de acuerdo a la de (sic) Ley de Ingresos vigente, deberá informarse al Departamento de Licencias y Padrón de Contribuyentes, a fin de que se realicen las anotaciones en el padrón respectivo y se emita la licencia de funcionamiento correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1419.
 
-Para obtener la licencia de funcionamiento o contrato de compraventa, el interesado deberá presentar solicitud por escrito ante el Departamento de Registro y Fiscalización, acompañado de la documentación siguiente:
+Para obtener la licencia de funcionamiento descrita en el artículo que antecede, el interesado deberá presentar solicitud por escrito, acompañado de la documentación siguiente:
 
 I. Identificación oficial o acta constitutiva en su caso;
 
@@ -17437,41 +17789,43 @@ III. Autorización de uso de suelo; y
 
 IV. Los demás que requiera la Tesorería para efectos de ubicación, censo o cualquier otro rubro.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud para la obtención de la licencia de funcionamiento o contrato de compraventa correspondiente, pudiendo ser negada por escrito debidamente fundada y motivada, la cual deberá ser notificada al solicitante. En caso de no dar contestación por escrito en el término de referencia el Jefe del Departamento de Registro y Fiscalización incurrirá en responsabilidad administrativa.
+La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud, pudiendo ser negada por escrito debidamente fundada y motivada, la cual deberá ser notificada al solicitante. En caso de no dar contestación por escrito en el término de referencia el Titular de la Unidad Administrativa competente, incurrirá en responsabilidad administrativa.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La autoridad competente no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 1420.
 
 En los mercados públicos municipales, las licencias de funcionamiento podrán incluir hasta tres locales en el mismo mercado, siempre que sean colindantes y operen dentro de la misma zona y hasta dos en distinta.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1421.
 
-Cuando un local permanezca cerrado o inactivo durante un lapso consecutivo de treinta días naturales y sin justificación, previo estudio fundado y motivado del Departamento de Registro y Fiscalización, se procederá a la revocación de la licencia y la cancelación de su registro en el padrón que al efecto lleve el propio Departamento de Registro y Fiscalización, debiendo al efecto observar la garantía de audiencia.
+Cuando un local permanezca cerrado o inactivo durante un lapso consecutivo de treinta días naturales y sin justificación, previo estudio fundado y motivado de la Dirección de Abasto y Comercio Interior, se procederá a la revocación de la licencia y la cancelación de su registro en el padrón que al efecto lleve el Departamento de Licencias y Padrón de Contribuyentes, debiendo al efecto observar la garantía de audiencia.
 
 ###### Artículo 1422.
 
 La Autoridad Municipal dará preferencia en el otorgamiento de licencias y/o contratos en los Mercados públicos, a las personas de escasos recursos que no puedan desempeñar otras labores, a los desempleados, a los discapacitados, a las viudas y a las madres de familia que sean el sostén del hogar.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
-
 ###### Artículo 1423.
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización refrendará anualmente las licencias otorgadas, atendiendo a las disposiciones que se desprenden del presente Capítulo.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2008)
 
 MERCADOS TEMPORALES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1424.
 
 Para el establecimiento de un mercado temporal, los interesados deberán cubrir los siguientes requisitos:
 
-I. Solicitud por escrito al Ayuntamiento;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+I. Solicitud por escrito al Ayuntamiento, misma que deberá ser atendida por el Departamento de Vía Pública adscrito a la Secretaría de Gobernación;
 
 II. Croquis de localización;
 
@@ -17479,9 +17833,9 @@ III. Manifestación de voluntad de los vecinos donde se pretenda establecer el m
 
 IV. Fianza por la cantidad que a juicio de la autoridad competente, garantice que al fenecimiento de la autorización correspondiente, se realice la limpieza total del lugar donde se hubiere instalado. La autoridad, previa comprobación de que el lugar donde se instaló el mercado temporal se encuentra debidamente aseado, devolverá la cantidad de dinero que hubiere sido entregada para cumplimiento de esta fracción.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud para el establecimiento de un mercado temporal, pudiendo ser negada por escrito debidamente fundado y motivado debiendo notificarse la resolución al solicitante. En caso de no dar contestación por escrito en el término de referencia el Jefe del Departamento de Registro y Fiscalización incurrirá en responsabilidad administrativa.
+La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud para el establecimiento de un mercado temporal, pudiendo ser negada por escrito debidamente fundado y motivado debiendo notificarse la resolución al solicitante. En caso de no dar contestación por escrito en el término de referencia, la autoridad competente incurrirá en responsabilidad administrativa.
 
 DE LAS AUTORIDADES COMPETENTES
 
@@ -17493,13 +17847,33 @@ I. El Presidente Municipal;
 
 II. El Tesorero Municipal;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. El Jefe del Departamento de Registro y Fiscalización; y
+III. El Secretario de Desarrollo Económico, Turismo y Competitividad;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-IV. El funcionario que el Tesorero Municipal, con aprobación del Presidente Municipal, designe para la administración de los Mercados Municipales.
+IV. El Titular de la Unidad de Normatividad y Regulación Comercial;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. El Director de Abasto y Comercio Interior;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VI. El Jefe del Departamento de Mercados y Central de Abasto;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VII. El Administrador de cada Mercado designado por el Presidente Municipal a propuesta del Secretario de Desarrollo Económico, Turismo y Competitividad;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VIII. El Titular del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal; y
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IX. Las autoridades administrativas competentes que ejerzan facultades previstas en el presente Capítulo.
 
 ###### Artículo 1426.
 
@@ -17541,41 +17915,69 @@ IV. Las demás que se desprendan de la Ley Orgánica Municipal para el Estado de
 
 Compete al Departamento de Registro y Fiscalización;
 
-I. Llevar el padrón de los comerciantes que acudan u ocupen los Mercados Municipales;
+I. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
-II. Ordenar la instalación, alineamiento, reparación, pintura y modificación de los locales;
+II. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
-III. Cancelar o retirar, previo el derecho de audiencia, el contrato o licencia otorgada a los ocupantes de los locales de los Mercados, cuando existan violaciones al contrato y al presente Capítulo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-IV. Expedir las credenciales con fotografía en la que se identifique al titular del permiso y giro a que se dedica; y
+III. Clausurar el local, cancelar o retirar, previo el derecho de audiencia, el contrato o licencia otorgada a los ocupantes de los locales de los Mercados, cuando existan violaciones al contrato y al presente Capítulo; en su caso, deberá allegarse de la información que emita la Dirección de Abasto y Comercio Interior;
 
-V. Solicitar el auxilio de la fuerza pública para el desarrollo de las actividades derivadas del cumplimiento del presente Capítulo.
+IV. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+V. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VI. Verificar que en los mercados y zonas de mercados no se ejerza el comercio sin la autorización correspondiente, se altere el orden público; se practique cualquier deporte, juegos de azar, con o sin cruce de apuestas; o se tire basura fuera de los depósitos respectivos.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+###### Artículo 1428 Bis.
+
+Compete al Departamento de Licencias y Padrón de Contribuyentes:
+
+I. Llevar el padrón de los comerciantes que ocupen los Mercados Municipales;
+
+II. Emitir la Licencia de Funcionamiento en la que se otorgue la autorización y/o el cambio de giro comercial;
+
+III. Expedir las credenciales con fotografía en la que se identifique al Titular de la autorización y/o concesión, con los datos correspondientes; y
+
+IV. Efectuar las anotaciones correspondientes en el padrón en el que se lleve el Registro de Mercado, con relación a las cesiones de derechos efectuadas entre particulares, respecto a los locales y/o plataformas de mercados municipales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1429.
 
-Compete al funcionario que el Tesorero Municipal con la aprobación del Presidente Municipal designe, para la administración de los Mercados Municipales:
+Compete al Administrador de cada Mercado, designado por el Secretario de Desarrollo Económico con la aprobación del Presidente Municipal, las siguientes atribuciones para la administración de los Mercados Municipales:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-I. Remitir las solicitudes para la expedición de las licencias al Departamento de Registro y Fiscalización;
+I. Remitir las solicitudes para la expedición de las licencias al Departamento de Mercados y Central de Abastos, quien la someterá a la consideración de la Dirección de Abasto y Comercio Interior, a fin de ser turnadas al Departamento de Licencias y Padrón de Contribuyentes para los efectos conducentes;
 
-II. Enviar a la Tesorería Municipal lo recaudado por concepto de pago de derecho de piso y concesiones de servicios adjuntando los recibos correspondientes, en los que debe constar con número y letra la cantidad que amparen y su concepto;
+II. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Informar al Presidente o al Jefe del Departamento de Registro y Fiscalización, respecto de las obras de mejoramiento, mantenimiento y remozamiento del mercado público o central de abastos a su cargo, que se pretendan llevar a cabo por parte de los comerciantes;
+III. Informar al Presidente o al Titular del área correspondiente respecto de las obras de mejoramiento, mantenimiento y remozamiento del mercado público o central de abastos a su cargo, que se pretendan llevar a cabo por parte de los comerciantes;
 
-IV. Vigilar que en los Mercados del Municipio, prive la sana convivencia y la libre concurrencia para el desarrollo de la actividad comercial y beneficio de la ciudadanía en general; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-V. Solicitar el auxilio de la fuerza pública para procurar el cumplimiento de sus funciones.
+IV. Vigilar que en los Mercados del Municipio, prive la sana convivencia y la libre concurrencia para el desarrollo de la actividad comercial y beneficio de la ciudadanía en general, y en su caso remitir el informe correspondiente al Departamento de Mercados y Central de Abastos para ser turnado a través de éste o la Dirección de Abasto y Comercio Interior a la Unidad de Normatividad y Regulación Comercial;
+
+V. Solicitar el auxilio de la fuerza pública para procurar el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VII (SIC). Remitir al Departamento de Mercados y Central de Abastos el Informe de actividades correspondientes respecto del avance de los programas implementados, así como el reporte de los acontecimientos que se consideren relevantes respecto a la seguridad y protección civil.
 
 DE LOS COMERCIANTES
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1430.
 
-Los comerciantes que ejerzan su actividad en los mercados sujetos al régimen de propiedad en condominio, además de las disposiciones civiles mencionadas, deberán observar lo establecido en el presente Capítulo.
+Los comerciantes que ejerzan su actividad en los mercados sujetos al régimen de propiedad en condominio, además de las disposiciones civiles correspondientes, deberán observar lo establecido en el presente Capítulo, excepto lo relativo a la adquisición de sus locales y pérdida de los mismos, derivado de la aplicación de sanciones.
 
 ###### Artículo 1431.
 
@@ -17585,9 +17987,9 @@ I. Contratar y pagar el suministro de energía eléctrica, combustible, agua pot
 
 II. Asear los puestos, plataformas, locales o bodegas y sus áreas comunes, debiendo depositar los desechos que ello genere en el camión recolector;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Realizar ininterrumpidamente la comercialización de sus productos, salvo en los casos en que cuente con permiso expreso del Departamento de Registro y Fiscalización, el cual no podrá exceder de 30 días por una sola vez;
+III. Realizar ininterrumpidamente la comercialización de sus productos, salvo en los casos en que cuente con permiso expreso de la Dirección de Abasto y Comercio Interior, el cual no podrá exceder de 30 días por una sola vez;
 
 IV. Sujetarse al horario que determine el Presidente Municipal, para realizar las operaciones comerciales, maniobra de carga y descarga, registro, entrada y salida de vehículos, limpieza y recolección de desechos y cualquier otro servicio;
 
@@ -17599,23 +18001,23 @@ VI. Pagar oportunamente las contribuciones, cuotas, rentas o precios asignados e
 
 VII. Destinar el local al comercio directo y al menudeo de productos básicos, manteniéndolo en buen estado y observando las normas de higiene, aseo, limpieza y seguridad impuestas por las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-VIII. Observar las indicaciones que, de manera fundada y motivada, el Departamento de Registro y Fiscalización dicte en materia de ubicación, reubicación, dimensión y color de los locales;
+VIII. Observar las indicaciones que, de manera fundada y motivada, la Dirección de Abasto y Comercio Interior dicte en materia de ubicación, reubicación, dimensión y color de los locales;
 
 IX. Respetar las normas del comercio y salud pública;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-X. Manifestar su giro ante el Departamento de Registro y Fiscalización;
+X. Manifestar su giro ante el Departamento de Licencias y Padrón de Contribuyentes;
 
 XI. Refrendar los permisos, licencias y/o contratos, en los términos que señale la autoridad competente;
 
 XII. Ejercer personalmente el comercio y atendiendo directamente al consumidor; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-XlII. Realizar la devolución tanto material como jurídica del local al Departamento de Registro y Fiscalización cuando:
+XlII. Realizar la devolución tanto material como jurídica del local a la Dirección de Abasto y Comercio Interior, quien deberá hacerlo del conocimiento al Departamento de Licencias y Padrón de Contribuyentes y/o a la Unidad de Normatividad y Regulación Comercial cuando:
 
 a) El locatario ya no desee seguir explotándolo;
 
@@ -17625,13 +18027,15 @@ b) La autoridad Municipal competente así lo determine, en términos de lo dispu
 
 Los locatarios ocupantes de los locales en los mercados municipales, tendrán las siguientes prohibiciones:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-I. Efectuar cambios de giros, sin la autorización del Departamento de Registro y Fiscalización;
+I. Efectuar cambios de giros, sin la autorización de la Dirección de Abasto y Comercio Interior;
 
 II. Almacenar, vender y/o introducir materiales inflamables, explosivos, contaminantes y los que pudiera representar peligro para las personas o bienes que se encuentran dentro de las áreas o zonas de los mercados municipales, así como utilizar el mercado como bodega;
 
-III. Emprender o realizar obra alguna sobre los locales, sin el permiso previo de la Dirección de Desarrollo Urbano del H. Ayuntamiento de Puebla;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Emprender o realizar obra alguna sobre los locales, sin el permiso previo de la autoridad competente del H. Ayuntamiento de Puebla;
 
 IV. Realizar obras en los bienes comunes o instalaciones generales de los mercados municipales;
 
@@ -17651,11 +18055,11 @@ XI. Destinar para fines habitacionales o cualquier otro similar que no sea el de
 
 DE LOS TRASPASOS Y CAMBIOS DE GIRO
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1433.
 
-Los comerciantes a que se refiere este Capítulo, deberán solicitar por escrito al Departamento de Registro y Fiscalización, la autorización para traspasar sus derechos sobre los locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales a las cuales se le hubiere autorizado.
+Los comerciantes a que se refiere este Capítulo, deberán solicitar por escrito a la Dirección de Abasto y Comercio Interior, la autorización para traspasar sus derechos sobre los locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales a las cuales se le hubiere autorizado.
 
 ###### Artículo 1434.
 
@@ -17673,45 +18077,53 @@ IV. Obtener la autorización sanitaria de la autoridad competente; y
 
 V. Presentar tres fotografías.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+La autoridad competente no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1435.
 
-Para cambio de giro, se deberá cumplir con los requisitos exigidos para la obtención del permiso y éste podrá realizarse, tomando en cuenta que los Mercados Municipales expenden productos de temporada, debiendo notificarse al Departamento de Registro y Fiscalización.
+Para cambio de giro, se deberá cumplir con los requisitos exigidos para la obtención de la autorización y/o concesión, otorgada por la Dirección de Abasto y Comercio Interior, tomando en cuenta que los Mercados Municipales expenden productos de temporada, debiendo notificarse al Departamento de Licencias y Padrón de Contribuyentes y a la Unidad de Normatividad y Regulación Comercial para los efectos correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1436.
 
-El Departamento de Registro y Fiscalización, una vez que hayan cumplido los requisitos administrativos y legales, autorizará el traspaso o el cambio de giro y expedirá la licencia de funcionamiento, en un término no mayor a diez días hábiles.
+Una vez cumplidos los requisitos administrativos y legales, requeridos al efecto, la Dirección de Abasto y Comercio Interior autorizará el traspaso y/o cambio de giro y solicitará al Departamento de Licencias y Padrón de Contribuyentes, expida la Licencia de Funcionamiento, contando con un término no mayor a diez días hábiles para su cumplimiento.
 
-En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no de contestación por escrito al solicitante, se tendrá por otorgada la licencia, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro.
-
-Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización, que niegue el traspaso o cambio de giro, el solicitante podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
-
-De no otorgarse el traspaso o cambio de giro, la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+En caso de que transcurrido el término de referencia y no exista contestación por escrito al solicitante, se tendrá por otorgada la licencia, en cuyo caso, el servidor público omiso, incurrirá en responsabilidad administrativa.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
+Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Contra el acto que emita la Dirección de Abasto y Comercio Interior que niegue el traspaso o cambio de giro, el solicitante podrá interponer el Recurso de Inconformidad interpuesto en la Ley Orgánica Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+De no otorgarse el traspaso o cambio de giro, la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1437.
 
-Todo traspaso no autorizado, propiciará la clausura temporal de uno a treinta días naturales, el cambio de giro no autorizado propiciará la clausura definitiva, la cual será decretada por el Departamento de Registro y Fiscalización debidamente fundada y motiva, en cualquier caso se preservará la garantía de audiencia correspondiente.
+Todo traspaso no autorizado, propiciará la clausura temporal de uno a treinta días del local y/o plataforma; el cambio de giro no autorizado propiciará la clausura definitiva, la cual será decretada por la Unidad de Normatividad y Regulación Comercial, a solicitud debidamente fundada y motivada de la Dirección de Abasto y Comercio Interior, en cualquier caso se preservará la garantía de audiencia correspondiente.
 
 ###### Artículo 1438.
 
 (DEROGADO, P.O. 27 DE MARZO DE 2006)
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1439.
 
-En caso de fallecimiento de algún locatario, los herederos que lo sean en línea directa o consanguínea, gozarán del derecho de preferencia para que se les otorgue el contrato, licencia o permiso del local. Los herederos que se encuentren en el supuesto anterior, tendrán el derecho de preferencia principalmente, pero en caso de que no existan éstos, será aquél que a falta del titular compruebe que ha trabajado el local objeto de la controversia, y manifieste bajo protesta de decir verdad ante el Jefe del Departamento de Registro y Fiscalización que no existen familiares que puedan ejercer el derecho de preferencia.
+En caso de fallecimiento de algún locatario, los herederos que lo sean en línea directa o consanguínea, gozarán del derecho de preferencia para que se les otorgue la autorización y/o concesión del local o plataforma. Los herederos que se encuentren en el supuesto anterior tendrán el derecho de preferencia principalmente, pero en caso de que no existan éstos, será aquél que a falta del titular compruebe que ha trabajado el local objeto de la controversia, y manifieste bajo protesta de decir verdad ante la Dirección de Abasto y Comercio Interior que no existen familiares que puedan ejercer el derecho de preferencia.
 
 ###### Artículo 1440.
 
@@ -17723,11 +18135,11 @@ DE LAS SANCIONES
 
 La autoridad municipal tendrá atribuciones para sancionar con el retiro de mercancías en caso de evidente insalubridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1442.
 
-Corresponde al Presidente Municipal por conducto del Jefe del Departamento de Registro y Fiscalización en forma exclusiva, imponer indistintamente a los comerciantes que violen el presente Capítulo, las siguientes sanciones:
+Corresponde al Presidente Municipal por conducto de la Unidad de Normatividad y Regulación Comercial, imponer indistintamente a los comerciantes que violen el presente Capítulo, las siguientes sanciones:
 
 I. Amonestación;
 
@@ -17741,13 +18153,17 @@ V. Clausura definitiva y cancelación de la licencia; y
 
 VI. Arresto administrativos hasta por 18 horas.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Cuando imponga una multa económica el Jefe del Departamento de Registro y Fiscalización, el comerciante deberá regularizar en un termino no mayor a quince días naturales la situación por la que se generó la sanción, en la inteligencia de que, sin perjuicio de la obligación de pago de la sanción impuesta en las oficinas recaudadoras de la Tesorería Municipal y la suspensión inmediata de tales actos; de continuar con las conductas que constituyan infracción al presente Capítulo, el Departamento de Registro y Fiscalización procederá a la clausura temporal de uno a treinta días naturales, considerando como reincidencia, a la mencionada continuidad de conductas constitutivas de infracción.
+La Unidad de Normatividad y Regulación Comercial, podrá actuar a solicitud de la Dirección de Abasto y Comercio Interior para la imposición de las sanciones a las que se refiere el presente artículo.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Lo dispuesto en este articulo, se aplicará sin perjuicio de la obligación del Departamento de Registro y Fiscalización, por conducto de la Sindicatura Municipal, de dar vista al Ministerio Público de actos que puedan resultar constitutivos de delitos.
+Cuando imponga una multa económica la Unidad de Normatividad y Regulación Comercial, el comerciante deberá regularizar en un termino no mayor a quince días naturales la situación por la que se generó la sanción, en la inteligencia de que, sin perjuicio de la obligación de pago de la sanción impuesta en las oficinas recaudadoras de la Tesorería Municipal y la suspensión inmediata de tales actos; de continuar con las conductas que constituyan infracción al presente Capítulo, la Unidad de Normatividad y Regulación Comercial, procederá a la clausura temporal de uno a treinta días naturales, considerando como reincidencia, a la mencionada continuidad de conductas constitutivas de infracción.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Lo dispuesto en este artículo, se aplicará sin perjuicio de la obligación de la autoridad que tenga conocimiento de actos que puedan ser constitutivos de delitos, de dar vista al Ministerio Público por conducto de la Sindicatura Municipal.
 
 ###### Artículo 1443.
 
@@ -17763,11 +18179,9 @@ IV. Las circunstancias de tiempo y lugar en que haya sido cometida la infracció
 
 Para los efectos de este capítulo, será considerado como reincidente el comerciante que cometa dos o más infracciones; y de conformidad con el artículo anterior, la falta de suspensión inmediata de actos que constituyan infracciones al presente Capítulo.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
-
 ###### Artículo 1444.
 
-Contra los actos de las autoridades señaladas en el presente Capítulo, procederá el Recurso de Revisión señalado en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2008)
 
 ### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
@@ -17809,7 +18223,9 @@ h) CONSEJO: Al Consejo General de la Central de Abasto.
 
 i) ESTACIONAMIENTO: Área de uso común destinada para el aparcamiento de vehículos, tanto para los bodegueros, comerciantes y empleados de la Central de Abasto, como para sus clientes.
 
-j) PRESTADOR DE SERVICIOS: Persona física o moral que se encuentre debidamente registrada y autorizada por la Dirección de Abasto y Comercialización del Ayuntamiento y el Consejo y que realiza un servicio determinado dentro de la Central de Abasto.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+j) PRESTADOR DE SERVICIOS: Persona física o moral que se encuentre debidamente registrada y autorizada por la Dirección de Abasto y Comercio Interior de la Secretaría de Desarrollo Económico, Turismo y Competitividad y el Consejo y que realiza un servicio determinado dentro de la Central de Abasto.
 
 k) QUÓRUM: Cuando se encuentra reunido el número mínimo necesario de miembros para llevar a cabo válidamente una asamblea, ya sea ordinaria o extraordinaria.
 
@@ -17825,9 +18241,11 @@ II. Naves "B", "C", "D" Y "E".- Frutas, verduras y legumbres; y
 
 III. Otras autorizadas por el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1447.
 
-En la escritura de compraventa respectiva de cualquiera de las bodegas de la Central de Abasto, se insertarán los dictámenes y constancias que la Secretaría de Administración Urbana del Ayuntamiento expida, respecto a la utilización del suelo y coeficientes de construcción que estén contenidos en los Programas de Desarrollo Urbano vigentes.
+En la escritura de compraventa respectiva de cualquiera de las bodegas de la Central de Abasto, se insertarán los dictámenes y constancias que la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable expida, respecto a la utilización del suelo y coeficientes de construcción que estén contenidos en los Programas de Desarrollo Urbano vigentes.
 
 ###### Artículo 1448.
 
@@ -17925,7 +18343,9 @@ VI. Autorizar dentro de la central de abasto a las asociaciones de prestadores d
 
 VII. Expedir y refrendar, así como negar la expedición y refrendo de las credenciales de los prestadores de servicios complementarios en coordinación con la autoridad competente en materia de Abasto y Comercialización del Honorable Ayuntamiento;
 
-VIII. Autorizar las placas de los carritos de los prestadores de servicios de cocinas, en coordinación con la Dirección de Abasto y Comercialización del Ayuntamiento;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VIII. Autorizar las placas de los carritos de los prestadores de servicios de cocinas, en coordinación con la Dirección de Abasto y Comercio Interior;
 
 IX. Fijar un lugar específico para la instalación de maleteros o propios dentro del tianguis de hierbas;
 
@@ -18151,13 +18571,23 @@ Tratándose de los prestadores de servicios complementarios como las cocinas, es
 
 Por lo que se refiere a las credenciales de los prestadores de servicios de la Central de Abasto señaladas en este Capítulo, se regirán por las siguientes normas:
 
-I. Deberán ser expedidas por el Consejo en coordinación con la Dirección de Abasto y Comercialización del Ayuntamiento.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-II. Deberán ser refrendadas dentro de los primeros quince días del mes de enero de cada año, debiéndose reunir los mismos requisitos exigidos para su expedición, así como haber cumplido debidamente con las obligaciones reglamentarias para cada actividad a juicio de la Dirección de Abasto y Comercialización del Ayuntamiento y el Consejo;
+I. Deberán ser expedidas por el Consejo en coordinación con la Dirección de Abasto y Comercio Interior del Ayuntamiento.
 
-III. El costo de la credencial será fijado por la Dirección de Abasto y Comercialización; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-IV. La Dirección de Abasto y Comercialización del Ayuntamiento, por acuerdo del Consejo de la Central de Abasto, podrá cancelar o negar el refrendo de alguna de las credenciales que expida a los prestadores de servicios por aplicación de las sanciones establecidas en este capítulo, por cualquier circunstancia similar o de mayor gravedad, debiéndose contar con el voto de la mayoría de los miembros presentes de la Mesa Directiva en sesión de Consejo.
+II. Deberán ser refrendadas dentro de los primeros quince días del mes de enero de cada año, debiéndose reunir los mismos requisitos exigidos para su expedición, así como haber cumplido debidamente con las obligaciones reglamentarias para cada actividad a juicio de la Dirección de Abasto y Comercio Interior del Ayuntamiento y el Consejo;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. El costo de la credencial será fijado por el Consejo;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IV. La Dirección de Abasto y Comercio Interior, por acuerdo del Consejo de la Central de Abasto, podrá cancelar o negar el refrendo de alguna de las credenciales que expida a los prestadores de servicios por aplicación de las sanciones establecidas en este Capítulo, por cualquier circunstancia similar o de mayor gravedad, debiéndose contar con el voto de la mayoría de los miembros presentes de la Mesa Directiva en sesión del Consejo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1484.
 
@@ -18167,13 +18597,17 @@ I. Tener en legal propiedad o arrendamiento un local destinado para el servicio 
 
 II. Presentar un padrón con fotografía de sus agremiados;
 
-III. Portar una credencial autorizada por la Dirección de Abasto y Comercialización del Ayuntamiento y el Consejo, debiendo firmarla también los presidentes de las asociaciones;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Portar una credencial autorizada por la Dirección de Abasto y Comercio Interior del Ayuntamiento y el Consejo, debiendo firmarla también los presidentes de las asociaciones;
 
 IV. Ajustarse a las disposiciones aplicables en materia de prevención de incendios;
 
 V. De cada cocina establecida en las cabeceras de las naves, podrán salir a vender tres personas y de las cocinas ubicadas fuera de las naves, podrán salir a vender únicamente dos personas. La forma de trabajo será ofreciendo sus productos caminando sin establecerse o estacionarse en un lugar específico por un tiempo mayor que el necesario para atender a sus clientes;
 
-VI. Por higiene y presentación, los hombres usarán baberos y quepis y las mujeres batas y cubrepelos, el traslado de los alimentos será en carritos emplacados por la Dirección de Abasto y Comercialización en coordinación con el Consejo, debiendo permanecer protegidos de la contaminación y en perfecto estado de higiene; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VI. Por higiene y presentación, los hombres usarán baberos y quepis y las mujeres batas y cubrepelos, el traslado de los alimentos será en carritos emplacados por la Dirección de Abasto y Comercio Interior en coordinación con el Consejo, debiendo permanecer protegidos de la contaminación y en perfecto estado de higiene; y
 
 VII. Contribuir con los gastos de administración, conservación, reparación y operación de los bienes y servicios de uso común, de acuerdo a las tarifas estipuladas por el Consejo.
 
@@ -18185,7 +18619,9 @@ I. Presentar un padrón con fotografía de sus agremiados;
 
 II. Identificar sus diablitos con colores distintivos;
 
-III. Portar una credencial autorizada por la Dirección de Abasto y Comercialización del Ayuntamiento y el Consejo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Portar una credencial autorizada por la Dirección de Abasto y Comercio Interior del Ayuntamiento y el Consejo;
 
 IV. Únicamente podrán circular dentro de las naves los diablitos, no así los carros de cuatro ruedas;
 
@@ -18203,9 +18639,13 @@ Para la prestación del servicio de taxis y de camionetas de acarreo, las asocia
 
 I. Presentar un padrón con fotografía de sus asociados;
 
-II. Contar con los permisos respectivos del Consejo, de la Dirección de Abasto y Comercialización del Ayuntamiento, así como el de la Dirección de Seguridad Vial del Estado para hacer sitio dentro de la Central de Abasto;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Estar rotulados, con el membrete de la asociación a la que pertenezcan y la leyenda de "Central de Abasto", numerados progresivamente, y portar de manera visible la credencial que lo acredite como miembro autorizado por la Dirección de Abasto y Comercialización del Ayuntamiento y el Consejo General, así como portar el uniforme respectivo; y
+II. Contar con los permisos respectivos del Consejo, de la Dirección de Abasto y Comercio Interior del Ayuntamiento, así como el de la Dirección de Seguridad Vial del Estado para hacer sitio dentro de la Central de Abasto;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Estar rotulados, con el membrete de la asociación a la que pertenezcan y la leyenda de "Central de Abasto", numerados progresivamente, y portar de manera visible la credencial que lo acredite como miembro autorizado por la Dirección de Abasto y Comercio Interior del Ayuntamiento y el Consejo General, así como portar el uniforme respectivo; y
 
 IV. Contribuir con los gastos de administración, conservación, reparación y operación de los bienes y servicios de uso común, de acuerdo a las tarifas estipuladas por el Consejo.
 
@@ -18373,9 +18813,11 @@ Se considera como reincidente a la persona que cometa dos o más infracciones al
 
 Cuando un producto o mercancía sea retirado del lugar en que se encuentre por violación a este capítulo, será remitido a las oficinas de la Administración de la Central de Abasto, o, a falta de capacidad, a la bodega única del Departamento de Auxilio y Seguridad Ciudadana, indicándose ésta circunstancia a su propietario y al Consejo. El propietario tendrá un plazo de diez días para recogerlos y de 24 horas tratándose de perecederos.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1518.
 
-Si transcurridos los plazos a que se refiere el artículo anterior, no se recogieren los bienes en el caso de los perecederos, el Administrador de la Central de Abasto conjuntamente con el Director de Abasto y Comercialización del Ayuntamiento, determinará el destino de los productos, pudiendo llevar a cabo el envío de los mismos a cualquier institución de Beneficencia Pública, conservando para cualquier aclaración el recibo respectivo.
+Si transcurridos los plazos a que se refiere el artículo anterior, no se recogieren los bienes en el caso de los perecederos, el Administrador de la Central de Abasto conjuntamente con el Director de Abasto y Comercio Interior del Ayuntamiento, determinará el destino de los productos, pudiendo llevar a cabo el envío de los mismos a cualquier institución de Beneficencia Pública, conservando para cualquier aclaración el recibo respectivo.
 
 ###### Artículo 1519.
 
@@ -18417,7 +18859,9 @@ III. Introducir a las naves vehículos de 4 ruedas;
 
 IV. Cobrar más de lo señalado en las tarifas autorizadas por el Consejo;
 
-V. Trabajar sin la credencial que, para tal efecto, expidan el Consejo y la Dirección de Abasto y Comercialización; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. Trabajar sin la credencial que, para tal efecto, expidan el Consejo y la Dirección de Abasto y Comercio Interior; y
 
 VI. Hacer carga y descarga en zonas de tránsito vehicular y/o peatonal.
 
@@ -18435,7 +18879,9 @@ Los prestadores de servicios dedicados a la venta de alimentos, que cometan una 
 
 I. Retiro de los alimentos:
 
-a) Por no portar la credencial expedida por la Dirección de Abasto y Comercialización del Ayuntamiento y el Consejo, para tal efecto.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+a) Por no portar la credencial expedida por la Dirección de Abasto y Comercio Interior del Ayuntamiento y el Consejo, para tal efecto.
 
 b) Por no cumplir con la obligación establecida en la fracción V del artículo 1484 de este Capítulo.
 
@@ -18453,7 +18899,9 @@ Los miembros de las agrupaciones de algún giro autorizado por el Consejo (comer
 
 I. Retiro de la mercancía:
 
-a) Por trabajar sin la credencial que para tal efecto expida el Consejo y la Dirección de Abasto y Comercialización del Ayuntamiento.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+a) Por trabajar sin la credencial que para tal efecto expida el Consejo y la Dirección de Abasto y Comercio Interior del Ayuntamiento.
 
 b) Por estacionarse a realizar su venta, en algún lugar no contemplado o prohibido en el presente Capítulo.
 
@@ -18471,7 +18919,9 @@ I. Multa equivalente a diez días de salario mínimo:
 
 a) Por trabajar sin uniforme.
 
-b) Por trabajar sin la credencial que para tal efecto expiden la Dirección de Abasto y Comercialización del Ayuntamiento y el Consejo.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+b) Por trabajar sin la credencial que para tal efecto expiden la Dirección de Abasto y Comercio Interior del Ayuntamiento y el Consejo.
 
 c) Por cargar o descargar en zonas de tránsito vehicular y/o peatonal.
 
@@ -18577,9 +19027,13 @@ IV. Cremación: Al proceso de incineración de un cadáver, de restos humanos y 
 
 V. Cripta: A La estructura construida bajo el nivel del suelo con gavetas o nichos destinados al depósito de cadáveres, de restos humanos y de restos humanos áridos o cremados;
 
-VI. Departamento: Al Departamento de Panteones dependiente de la Dirección de Servicios Públicos de la Secretaría de Administración Urbana o cualquier Unidad Administrativa que tenga a su cargo el servicio de panteones en el Municipio de Puebla;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-VII. Dirección: A la Dirección de Servicios Públicos dependiente de la Secretaría de Administración Urbana del Ayuntamiento de Puebla;
+VI. Departamento: Al Departamento de Panteones dependiente de la Dirección de Servicios Públicos de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable o cualquier autoridad administrativa que tenga a su cargo el servicio de panteones en el Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VII. Dirección: A la Dirección de Servicios Públicos dependiente de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Ayuntamiento de Puebla, a través de las autoridades administrativas que ejerzan las facultades previstas en el presente Capítulo;
 
 VIII. Exhumación: A la extracción de un cadáver sepultado;
 
@@ -18619,7 +19073,9 @@ XXV. Restos Humanos Cremados: A las cenizas resultantes de la incineración de u
 
 XXVI. Restos Humanos Cumplidos: A los restos que quedan de un cadáver al cabo del plazo que señala la temporalidad mínima;
 
-XXVII. Secretaría: A la Secretaría de Administración Urbana del H. Ayuntamiento de Puebla o a la Unidad Administrativa que tenga a su cargo sus funciones, cualquiera que sea su denominación;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+XXVII. Secretaría: A la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del H. Ayuntamiento de Puebla o a la autoridad administrativa competente que ejerza las facultades de aplicación previstas en el presente Capítulo, cualquiera que sea su denominación;
 
 XXVIII. Tiempo Cumplido: Exhumación que se realiza transcurridos siete años para el caso del ataúd de madera y 10 años para el caso de ataúd metálico;
 
@@ -18759,13 +19215,17 @@ I. El otorgamiento del Título de Concesión respectivo por parte del órgano le
 
 II. Reunir los requisitos y disposiciones en materia de desarrollo urbano, uso de suelo, construcciones, transporte, vialidad, protección civil, y sanidad, federales, estatales y municipales aplicables; y
 
-III. Exhibir un estudio de los niveles freáticos permisibles autorizado previamente por la Secretaría de Administración Urbana del Ayuntamiento.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Exhibir un estudio de los niveles freáticos permisibles autorizado previamente por la Secretaría.
 
 ###### Artículo 1543.
 
 Además de los requisitos señalados en el artículo anterior, los panteones quedarán sujetos a lo siguiente:
 
-I. Deberán elaborar plano que deberá ser aprobado, en su caso, por la Secretaría de Administración Urbana del Ayuntamiento, donde se especifique:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+I. Deberán elaborar plano que deberá ser aprobado, en su caso, por la Secretaría, donde se especifique:
 
 a) La situación, dimensiones, tipo de construcción, topografía del terreno, distribución, vías internas y de acceso, trazo de calles y andadores.
 
@@ -19345,7 +19805,9 @@ El Ayuntamiento o el concesionario, podrán importar el ganado mayor o menor en 
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1625 bis.- Los productos cárnicos provenientes del Rastro Municipal, o del exterior sean de origen nacional o del extranjero, que se transporten o se pretendan comercializar en el Municipio, serán sujetos de inspección sanitaria por la Autoridad Municipal.
+###### Artículo 1625 Bis.
+
+Los productos cárnicos provenientes del Rastro Municipal, o del exterior sean de origen nacional o del extranjero, que se transporten o se pretendan comercializar en el Municipio, serán sujetos de inspección sanitaria por la Autoridad Municipal.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19363,9 +19825,13 @@ II.- El Presidente Municipal;
 
 III.- El Síndico Municipal;
 
-IV.- El Tesorero Municipal por sí o por conducto del Jefe del Departamento de Registro y Fiscalización; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-V.- Los Inspectores Municipales del Departamento de Registro y Fiscalización.
+IV.- El Tesorero Municipal por sí o por conducto de la Unidad de Normatividad y Regulación Comercial; y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V.- Los Inspectores Municipales de la Unidad de Normatividad y Regulación Comercial.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19399,65 +19865,111 @@ IV.- Sancionar al concesionario por inobservancia a lo dispuesto en el presente 
 
 V.- Proponer al Cabildo la renovación del Título de Concesión por incumplimiento a lo pactado y dispuesto en el presente Capítulo y normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1629.
 
-Son facultades del Tesorero Municipal, por sí o por conducto del Jefe del Departamento de Registro y Fiscalización:
+Son facultades del Tesorero Municipal, por sí o por conducto de la Unidad de Normatividad y Regulación Comercial.
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
 
 I.- Vigilar el cumplimiento de los programas operativos, la capacidad técnica y administrativa del servicio de rastro con base en las Normas Oficiales Mexicanas y normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
+
 II.- Verificar la prestación del servicio público de Rastro Municipal, e informar los resultados al Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
 
 III.- Supervisar el cumplimiento de lo dispuesto en el presente Capítulo;
 
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
+
 IV.- Otorgar la licencia para el abasto de productos cárnicos en el Municipio;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
 
 V.- Vigilar la comercialización en el Municipio de los productos cárnicos provenientes del exterior de origen nacional o extranjero, previa inspección sanitaria;
 
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
+
 VI.- Revisar los datos de los libros de registro;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
 
 VII.- Ordenar el decomiso de lo (sic) productos cárnicos que no cumplan con lo dispuesto en el presente Capítulo y normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
+
 VIII.- Vigilar el cumplimiento de lo dispuesto en el presente Capítulo; y
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
 
 IX.- Las facultades que le confiere las leyes.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Artículo 1629 bis.- Los inspectores municipales del Departamento de Registro y Fiscalización, serán médicos veterinarios zootécnicas aprobados por la Secretaría y tendrán las facultades y obligaciones siguientes:
+###### Artículo 1629 Bis.
+
+Los inspectores municipales de la Unidad de Normatividad y Regulación Comercial, serán médicos veterinarios zootécnicas aprobados por la Secretaría y tendrán las facultades y obligaciones siguientes:
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
 
 I.- Vigilar que el rastro y lugares autorizados procedan de acuerdo a lo dispuesto en el presente Capítulo y disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
+
 II.- Verificar la sanidad, propiedad y posesión legítima del ganado mayor o menor en pie, con la documentación correspondiente;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
 
 III.- Inspeccionar el sacrificio higiénico-sanitario del ganado mayor o menor en pie;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
+
 IV.- Confirmar la sanidad de los productos cárnicos del Rastro Municipal o del rastro al que pertenecen, con el sello de sanidad y con la documentación correspondiente;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
 
 V.- Verificar el pago de derechos;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
+
 VI.- Inspeccionar el expendio de los productos cárnicos en el rastro, en el área de exhibición y comercialización y en los demás establecimientos y centros comerciales, que cumplan con las normas higiénico-sanitarias, sellado sanitario y documentación que acredite su sanidad y legal procedencia y, en su caso, la licencia y autorización correspondiente para vender ese tipo de producto en el Municipio;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
 
 VII.- Supervisar la comercialización en el Municipio de los productos cárnicos provenientes del exterior, sean de origen nacional o extranjero, previa inspección sanitaria;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
+
 VIII.- Verificar que la infraestructura y mobiliario donde se presta el servicio de Rastro Municipal cumpla con la normatividad aplicable en la materia;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
 
 IX.- Practicar visitas de inspección;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
+
 X.- Inspeccionar los datos de los libros de registro;
 
-XI.- Rendir mensualmente un informe al Jefe del Departamento de Registro y Fiscalización, sobre los pormenores del cerco sanitario;
+(REFORMADA, P.O. 29 DE AGOSTO DE 2008))
+
+XI.- Rendir mensualmente un informe al Titular de la Unidad de Normatividad y Regulación Comercial, sobre los pormenores del cerco sanitario;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
 
 XII.- Realizar el decomiso de los productos cárnicos que no tengan la documentación comprobatoria de sanidad, legal procedencia y/o los sellos sanitarios del Rastro Municipal o del rastro al que pertenecen; y
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
+
 XlII.- Las que les confiera el Tesorero Municipal.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1630.
 
-La Secretaría de Seguridad Pública y Vialidad Municipal deberá auxiliar al Director o Administrador y a los inspectores internos del Rastro Municipal, cuando denuncien el incumplimiento a lo dispuesto en el presente Capítulo.
+La Secretaría de Seguridad Pública y Tránsito Municipal deberá auxiliar al Director o Administrador y a los inspectores internos del Rastro Municipal, cuando denuncien el incumplimiento a lo dispuesto en el presente Capítulo.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19563,9 +20075,11 @@ DE LA VERIFICACIÓN E INSPECCIÓN
 
 Los que procesen, refrigeren, empaquen, industrialicen, movilicen, comercialicen productos cárnicos para consumo humano dentro de los límites del Municipio, estarán sujetos a inspección por parte del Ayuntamiento, sin prejuicio de que concurran con el mismo fin, inspectores de los Servicios Coordinados de Salud Pública y autoridades competentes.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Artículo 1636 bis.- Para el cumplimiento de lo dispuesto en el artículo anterior se contará con el apoyo de la Secretaría de Seguridad Pública y Vialidad Municipal.
+###### Artículo 1636 Bis.
+
+Para el cumplimiento de lo dispuesto en el artículo anterior se contará con el apoyo de la Secretaría de Seguridad Pública y Tránsito Municipal.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19575,17 +20089,21 @@ Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artícu
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1637 bis.- El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del rastro al que pertenece será decomisado y sometido a inspección sanitaria, de resultar apto para consumo se destinará a un establecimiento de beneficencia privada.
+###### Artículo 1637 Bis.
+
+El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del rastro al que pertenece será decomisado y sometido a inspección sanitaria, de resultar apto para consumo se destinará a un establecimiento de beneficencia privada.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1637 ter.- En caso de concesión, los inspectores internos del rastro, se coordinarán con la Autoridad Municipal en la inspección, vigilancia del sacrificio, transporte y comercialización de todo producto cárnico en el Municipio.
+###### Artículo 1637 Ter.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+En caso de concesión, los inspectores internos del rastro, se coordinarán con la Autoridad Municipal en la inspección, vigilancia del sacrificio, transporte y comercialización de todo producto cárnico en el Municipio.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1638.
 
-Toda persona física o moral, podrá denunciar vía telefónica, mediante escrito o comparecencia ante el Departamento de Registro y Fiscalización o en la Dirección del Rastro Municipal, todo acto u omisión a lo dispuesto en el presente Capítulo, procediéndose a la aplicación de las medidas conducentes y sanciones que resulten procedentes de conformidad con la normatividad aplicable.
+Toda persona física o moral, podrá denunciar vía telefónica, mediante escrito o comparecencia ante la Unidad de Normatividad y Regulación Comercial, todo acto u omisión a lo dispuesto en el presente Capítulo, procediéndose a la aplicación de las medidas conducentes y sanciones que resulten procedentes de conformidad con la normatividad aplicable.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19691,11 +20209,11 @@ Los productos de la manzana serán entregados a sus propietarios por el personal
 
 En el Municipio de Puebla queda prohibido el sacrificio del ganado mayor o menor fuera de las instalaciones del rastro, excepto de aquellas especies que por su naturaleza y por la falta de instalaciones adecuadas en el rastro no puedan ser sacrificadas en el mismo; sin embargo se le dará aviso a la Autoridad Municipal para que otorgue el permiso correspondiente.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1647.
 
-La matanza que se realice en contravención a lo dispuesto en el presente Capítulo, será considerada como clandestina; los productos cárnicos serán decomisados por la Tesorería Municipal a través del Departamento de Registro y Fiscalización y sometidos a inspección sanitaria; de resultar aptos para consumo humano, se destinarán a un establecimiento de Beneficencia Pública, si no son aptos para consumo se remitirán al Rastro Municipal para su incineración.
+La matanza que se realice en contravención a lo dispuesto en el presente Capítulo, será considerada como clandestina; los productos cárnicos serán decomisados por la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial y sometidos a inspección sanitaria; de resultar aptos para consumo humano, se destinarán a un establecimiento de Beneficencia Pública, si no son aptos para consumo se remitirán al Rastro Municipal para su incineración.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19727,11 +20245,15 @@ Si el servicio de rastro lo presta el Ayuntamiento, se hará ingresar mensualmen
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1651 bis.- Si el servicio de rastro lo presta el concesionario dará aviso a la Tesorería Municipal del manejo de las materias residuales del proceso de matanza; si son incineradas, industrializadas y comercializadas o algunas de ellas entregadas a los introductores o usuarios a petición de éstos, siempre y cuando justifiquen el destino de los mismos, cumpliendo con la normatividad aplicable a la materia.
+###### Artículo 1651 Bis.
+
+Si el servicio de rastro lo presta el concesionario dará aviso a la Tesorería Municipal del manejo de las materias residuales del proceso de matanza; si son incineradas, industrializadas y comercializadas o algunas de ellas entregadas a los introductores o usuarios a petición de éstos, siempre y cuando justifiquen el destino de los mismos, cumpliendo con la normatividad aplicable a la materia.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1651 ter.- Las pieles de los animales serán entregadas a los propietarios, por el personal autorizado previa opinión del médico veterinario y pago de los servicios prestados.
+###### Artículo 1651 Ter.
+
+Las pieles de los animales serán entregadas a los propietarios, por el personal autorizado previa opinión del médico veterinario y pago de los servicios prestados.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19841,7 +20363,9 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1665 bis.- El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la Autoridad Municipal y sometido a inspección sanitaria; de ser apto para consumo humano se destinará a un establecimiento de Beneficencia Pública.
+###### Artículo 1665 Bis.
+
+El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la Autoridad Municipal y sometido a inspección sanitaria; de ser apto para consumo humano se destinará a un establecimiento de Beneficencia Pública.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19933,7 +20457,9 @@ V.- Decomiso.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1671 bis.- Son infracciones administrativas:
+###### Artículo 1671 Bis.
+
+Son infracciones administrativas:
 
 I.- La falta del sello sanitario y/o documentación comprobatoria de la sanidad y legal procedencia de los productos cárnicos en canales, en piezas o en partes que se comercialicen en el Municipio, ya sean, nacionales o del extranjero; en cuyo caso, se impondrá multa de treinta a mil quinientos días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, decomiso;
 
@@ -19955,7 +20481,9 @@ IX.- Las demás violaciones a lo establecido en el presente Capítulo; en cuyo c
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1671 ter.- En caso de reincidencia se impondrá multa por el doble de las cantidades señaladas en este Capítulo.
+###### Artículo 1671 Ter.
+
+En caso de reincidencia se impondrá multa por el doble de las cantidades señaladas en este Capítulo.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19967,7 +20495,9 @@ Las sanciones de referencia se impondrán, sin perjuicio de la responsabilidad a
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1672 bis.- Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisión de un delito, los responsables serán puestos a disposición de la autoridad competente.
+###### Artículo 1672 Bis.
+
+Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisión de un delito, los responsables serán puestos a disposición de la autoridad competente.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -19993,7 +20523,9 @@ Contra los actos emitidos por las Autoridades Fiscales encargadas de la aplicaci
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Artículo 1675 bis.- Contra de los actos emitidos por el Presidente Municipal o el Ayuntamiento, de los contenidos en los artículos 1627 fracción IV y 1628 fracción V, del presente ordenamiento procede el recurso de inconformidad, el que se substanciará en términos de los dispuesto en la Ley Orgánica Municipal.
+###### Artículo 1675 Bis.
+
+Contra de los actos emitidos por el Presidente Municipal o el Ayuntamiento, de los contenidos en los artículos 1627 fracción IV y 1628 fracción V, del presente ordenamiento procede el recurso de inconformidad, el que se substanciará en términos de los dispuesto en la Ley Orgánica Municipal.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -20009,7 +20541,9 @@ Las disposiciones del presente Capítulo regulan los requisitos para la obtenci�
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1676 bis. Para efectos del presente Capítulo, se entenderá por:
+###### Artículo 1676 Bis.
+
+Para efectos del presente Capítulo, se entenderá por:
 
 I. Estacionómetro: Aparato y/o sistema de medición y control que se utiliza para regular el uso de estacionamiento en vía pública a través del cobro de una tarifa;
 
@@ -20025,7 +20559,9 @@ VI. Servicio de acomodadores de vehículos: Aquél cuyo fin es la recepción y d
 
 VII. Tesorería: La Tesorería del H. Ayuntamiento del Municipio de Puebla;
 
-VIII. SAUOPE: La Secretaría de Administración Urbana, Obras Públicas y Ecología; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VIII. Secretaría de Gestión: La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
 
 IX. SSPTM: La Secretaría de Seguridad Pública y Tránsito Municipal.
 
@@ -20045,7 +20581,9 @@ II. El Presidente Municipal Constitucional del H. Ayuntamiento del Municipio de 
 
 III. La Tesorería del Ayuntamiento del Municipio de Puebla;
 
-IV. La SAUOPE;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IV. La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, o las autoridades administrativas que ejerzan las facultades previstas en el presente Capítulo;
 
 V. La SSPTM: y
 
@@ -20053,7 +20591,9 @@ VI. Los demás funcionarios públicos en quien delegue facultades el Ayuntamient
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1677 bis. Son facultades de las autoridades competentes, las siguientes:
+###### Artículo 1677 Bis.
+
+Son facultades de las autoridades competentes, las siguientes:
 
 I. Del Ayuntamiento:
 
@@ -20087,7 +20627,9 @@ g) Vigilar el adecuado funcionamiento del servicio público de estacionamiento e
 
 h) Las facultades que le confiera el presente Capítulo y disposiciones normativas aplicables.
 
-IV. De la SAUOPE:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+IV. De la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, en adelante, Secretaría de Gestión:
 
 a) Recibir las solicitudes de los interesados en obtener la licencia, para su trámite respectivo;
 
@@ -20203,33 +20745,57 @@ d. Mixto: Estacionamientos que contemplan las características de las clasificac
 
 DE LA APERTURA Y MODIFICACIÓN DEL ESTACIONAMIENTO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1679.
 
-Para la apertura de un estacionamiento público, la persona que pretenda prestar el servicio o su representante, deberá presentar la solicitud de licencia ante la SAUOPE con los datos y documentos siguientes:
+Para la apertura de un estacionamiento público, la persona que pretenda prestar el servicio o su representante, deberá presentar la solicitud de licencia ante la Secretaría de Gestión con los datos y documentos siguientes:
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 I. Nombre o razón social y domicilio del solicitante;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 II. Ubicación del estacionamiento;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 III. Testimonio notarial de la escritura pública del inmueble, en su caso, el contrato de arrendamiento actualizado e inscrito en el Registro Público de la Propiedad y del Comercio;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 IV. Si se trata de persona moral, original y copia del acta constitutiva;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 V. Poder notarial si el trámite se realiza en representación de una persona física o moral;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 VI. Original y copia de la constancia de la licencia de uso de suelo y de la licencia de construcción, en su caso;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 VII. Plano arquitectónico del establecimiento, especificando el número de cajones y servicios adicionales;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 VIII. Croquis de localización;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 IX. Copia de su cédula de inscripción en el Registro Federal de Contribuyentes;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 X. Fecha en que iniciará la operación;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 XI. El horario en que prestará el servicio;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 XII. Oficio firmado en el que describa el servicio que pretende prestar;
 
@@ -20237,25 +20803,39 @@ XII. Oficio firmado en el que describa el servicio que pretende prestar;
 
 XIII. La forma y términos en que responderá por los daños que sufran los vehículos estacionados de conformidad con el artículo 1679 ter fracción VIII del presente Capítulo;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
 XIV. Expresar la existencia de servicios adicionales; y
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 XV. Los datos y documentos que le solicite la autoridad municipal.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 Una vez que la SAUOPE integre el expediente correspondiente y lleve a cabo los trámites necesarios, turnará el mismo a la Tesorería.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 La Tesorería expedirá la licencia correspondiente en un término no mayor a diez días hábiles, en el que se determine lo relativo a su aprobación caso en el que, se establecerá como mínimo la clasificación, horario, licencia y tarifa autorizada.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 En caso de ser negada la licencia, la Tesorería pondrá a disposición del solicitante la documentación que haya presentado, dejando a salvo sus derechos para formular nueva petición.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+###### Artículo 1679 Bis.
+
+La Secretaría de Gestión notificará a la SSPTM, las solicitudes de licencia o modificación de un estacionamiento y le dará aviso para que revise y apruebe su impacto en el tránsito municipal; dicha aprobación será un requisito indispensable para que los interesados obtengan la licencia de uso de suelo y, en su caso, la licencia de construcción y, finalmente la licencia expedida por la Tesorería.
+
+Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el propietario o administrador deberá presentar ante la Secretaría de Gestión un escrito complementario en el que detalle los cambios realizados, a fin de mantener actualizado el registro de las licencias y, en caso necesario, reclasificar el estacionamiento.
+
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1679 bis.- La SAUOPE notificará a la SSPTM, las solicitudes de licencia o modificación de un estacionamiento y le dará aviso para que revise y apruebe su impacto en el tránsito municipal; dicha aprobación será un requisito indispensable para que los interesados obtengan la licencia de uso de suelo y, en su caso, la licencia de construcción y, finalmente la licencia expedida por la Tesorería.
+###### Artículo 1679 Ter.
 
-Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el propietario o administrador deberá presentar ante la SAUOPE un escrito complementario en el que detalle los cambios realizados, a fin de mantener actualizado el registro de las licencias y, en caso necesario, reclasificar el estacionamiento.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
-Artículo 1679 ter.- Son obligaciones de los prestadores del servicio:
+Son obligaciones de los prestadores del servicio:
 
 I. Entregar en tiempo y forma la documentación solicitada por las autoridades municipales para el otorgamiento de la licencia;
 
@@ -20265,7 +20845,9 @@ III. Acatar estrictamente los términos en que se le otorgue la licencia;
 
 IV. Colaborar con las autoridades municipales, estatales y federales en el ejercicio de sus facultades con respecto a la inspección y vigilancia de la prestación del servicio, cumplimiento de la legislación aplicable y ejercicio de sus funciones cuando así lo requieran;
 
-V. Comunicar a la SAUOPE y Tesorería la existencia de servicios adicionales al de estacionamiento;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. Comunicar a la Secretaría de Gestión y Tesorería la existencia de servicios adicionales al de estacionamiento;
 
 VI. Conservar las instalaciones del estacionamiento en condiciones de higiene y seguridad, incluyendo el servicio de baños;
 
@@ -20297,7 +20879,9 @@ Los estacionamientos clasificados como de primera y segunda clase, deberán cont
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1679 quáter.- Son obligaciones de los usuarios:
+###### Artículo 1679 Quáter.
+
+Son obligaciones de los usuarios:
 
 I. El pago al prestador del servicio, de la tarifa correspondiente; y
 
@@ -20337,25 +20921,33 @@ El prestador de servicio podrá cobrar por concepto de movilización, hasta el e
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1680 bis.- El prestador del servicio revalidará anualmente la licencia de estacionamiento, y podrá ceder sus derechos sobre dicho servicio.
+###### Artículo 1680 Bis.
+
+El prestador del servicio revalidará anualmente la licencia de estacionamiento, y podrá ceder sus derechos sobre dicho servicio.
 
 Los interesados deberán presentar ante la Tesorería, dentro de los treinta días anteriores a la fecha de vencimiento de la licencia, su solicitud de revalidación acompañada de una fotocopia en donde conste que la póliza de seguro obligatoria estará vigente durante el año en que prestará el servicio.
 
-Cuando se cedan los derechos sobre un estacionamiento con servicio al público, el adquirente o cesionario dará aviso por escrito a la Tesorería, quien a su vez comunicará a la SAUOPE y Tesorería, dentro de los quince días siguientes a la celebración del contrato correspondiente de las nuevas condiciones en las que prestará el servicio y, de la forma que responderá por robo o daños que sufran los vehículos durante el tiempo de guarda, acompañando copia certificada del documento de cesión de derechos.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Cuando se cedan los derechos sobre un estacionamiento con servicio al público, el adquirente o cesionario dará aviso por escrito a la Tesorería, quien a su vez comunicará a la Secretaría de Gestión y Tesorería, dentro de los quince días siguientes a la celebración del contrato correspondiente de las nuevas condiciones en las que prestará el servicio y, de la forma que responderá por robo o daños que sufran los vehículos durante el tiempo de guarda, acompañando copia certificada del documento de cesión de derechos.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 DE LOS ESTACIONAMIENTOS PÚBLICOS CON ACOMODADORES
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1681.
 
-El prestador del servicio de estacionamiento o la persona que pretenda brindar el servicio de acomodadores de vehículos, deberá solicitado ante la SAUOPE, de modo que se le autorice para ello.
+El prestador del servicio de estacionamiento o la persona que pretenda brindar el servicio de acomodadores de vehículos, deberá solicitar ante la Secretaría de Gestión, de modo que se le autorice para ello.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 La persona que pretenda brindar este servicio, deberá cumplir con las disposiciones aplicables para los prestadores del servicio de estacionamiento además de los siguientes requisitos:
 
-I. Presentar a la SAUOPE la licencia de chofer vigente de las personas que se encargarán del acomodo de los vehículos y copias de su identificación oficial y carta de antecedentes no penales;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+I. Presentar a la Secretaría de Gestión la licencia de chofer vigente de las personas que se encargarán del acomodo de los vehículos y copias de su identificación oficial y carta de antecedentes no penales;
 
 II. Los empleados deberán portar su gafete de identificación y el uniforme correspondiente que los ubique como personal autorizado. El citado gafete deberá contener los siguientes requisitos:
 
@@ -20377,7 +20969,9 @@ V. Tener debidamente señalado que el servicio de acomodadores de vehículos es 
 
 VI. Cerciorarse de que sólo su personal maneje los vehículos y, bajo ninguna circunstancia los podrán utilizar para fines ajenos a la prestación del servicio; y
 
-VII. Presentar denuncia ante la Procuraduría de Justicia del Estado de Puebla, y remitir copia a la SAUOPE y Tesorería, en caso de robo o extravío de dichas credenciales.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+VII. Presentar denuncia ante la Procuraduría General de Justicia del Estado de Puebla, y remitir copia a la Secretaría de Gestión y Tesorería, en caso de robo o extravío de dichas credenciales.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -20393,11 +20987,15 @@ El Ayuntamiento podrá instalar estacionómetros para el uso de la vía pública
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1682 bis.- El servicio de estacionamiento en la vía pública podrá ser concesionado por el Ayuntamiento en los términos del Capítulo XVIII de la Ley Orgánica Municipal, caso en el cual, el concesionario tendrá la obligación de acatar estrictamente los términos del contrato, sin perjuicio de lo dispuesto en este Capítulo.
+###### Artículo 1682 Bis.
+
+El servicio de estacionamiento en la vía pública podrá ser concesionado por el Ayuntamiento en los términos del Capítulo XVIII de la Ley Orgánica Municipal, caso en el cual, el concesionario tendrá la obligación de acatar estrictamente los términos del contrato, sin perjuicio de lo dispuesto en este Capítulo.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1682 ter. Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
+###### Artículo 1682 Ter.
+
+Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -20419,13 +21017,17 @@ El Ayuntamiento mantendrá las obligaciones de las fracciones IV y V, independie
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1683 bis. Se destinará en la vía pública por cada calle, avenida, calzada y demás arroyos viales un lugar de estacionamiento gratuito para personas con capacidad diferente, de acuerdo con lo dispuesto por el artículo 294 y demás relativos de este ordenamiento.
+###### Artículo 1683 Bis.
+
+Se destinará en la vía pública por cada calle, avenida, calzada y demás arroyos viales un lugar de estacionamiento gratuito para personas con capacidad diferente, de acuerdo con lo dispuesto por el artículo 294 y demás relativos de este ordenamiento.
 
 Para hacer uso de estos cajones, los usuarios deberán portar las placas en su vehículo adecuadas al caso, expedidas por la autoridad estatal competente.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1683 ter. En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al reglamento de tránsito y vialidad municipal para no entorpecer la circulación en la vía pública.
+###### Artículo 1683 Ter.
+
+En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al reglamento de tránsito y vialidad municipal para no entorpecer la circulación en la vía pública.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -20501,7 +21103,9 @@ XVII. La violación de cualquier otra obligación en materia de los estacionamie
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1686 bis. Incurre en infracción administrativa al estacionamiento en vía pública la persona que:
+###### Artículo 1686 Bis.
+
+Incurre en infracción administrativa al estacionamiento en vía pública la persona que:
 
 I. Omita el pago de los estacionómetros;
 
@@ -20533,7 +21137,9 @@ V. Arresto administrativo hasta por treinta y seis horas.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1687 bis. Para la imposición de las sanciones la autoridad competente tomará en cuenta la gravedad de la infracción de acuerdo a:
+###### Artículo 1687 Bis.
+
+Para la imposición de las sanciones la autoridad competente tomará en cuenta la gravedad de la infracción de acuerdo a:
 
 1. Los daños que se hubieren producido o pudieren producirse.
 
@@ -20549,7 +21155,9 @@ La persona a quien se le determine por tercera vez una infracción, será sancio
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1687 ter. En caso de que la autoridad encuentre que se han cometido diversas infracciones, en la resolución respectiva, las multas se determinarán separadamente, así como el monto total de todas ellas. Asimismo, si la autoridad determina que existen dos o más infractores, a cada uno de ellos se le impondrá la sanción que corresponda.
+###### Artículo 1687 Ter.
+
+En caso de que la autoridad encuentre que se han cometido diversas infracciones, en la resolución respectiva, las multas se determinarán separadamente, así como el monto total de todas ellas. Asimismo, si la autoridad determina que existen dos o más infractores, a cada uno de ellos se le impondrá la sanción que corresponda.
 
 Las sanciones por infracciones administrativas se impondrán sin perjuicio de las penas que correspondan a los delitos en que, en su caso, incurran los infractores.
 
@@ -20559,7 +21167,9 @@ DEL RECURSO ADMINISTRATIVO DE REVISIÓN
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Artículo 1687 quáter. El particular podrá impugnar los actos administrativos derivados de la aplicación de lo previsto por este Capítulo mediante recurso de revisión, mismo que se substanciará en términos de lo dispuesto por el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+###### Artículo 1687 Quáter.
+
+El particular podrá impugnar los actos administrativos derivados de la aplicación de lo previsto por este Capítulo mediante recurso de revisión, mismo que se substanciará en términos de lo dispuesto por el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
 
 > <small>(REFORMADO EN SU ESTRUCTURA, P.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -21347,7 +21957,9 @@ III. Corrección: Modificación de los procesos causales de deterioro ambiental 
 
 IV. Deterioro ambiental: Afectación de carácter negativo en la calidad del ambiente, en su conjunto o de los elementos que lo integran; la disminución de la diversidad biótica, así como la alteración de los procesos naturales en los sistemas ecológicos;
 
-V. Dirección: Es la Dirección de Ecología dependiente de la Secretaría de Administración Urbana del H. Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+V. Dirección de Gestión: Dirección de Gestión y Desarrollo Urbano Sustentable quien actúa a través de la Subdirección de Ecología y Medio Ambiente;
 
 VI. Disposición Final: El depósito permanente de los residuos en sitios y condiciones adecuadas para evitar daños a los ecosistemas;
 
@@ -21393,7 +22005,9 @@ XXVI. Residuos comerciales: Son los que se generan en /o (sic) por las actividad
 
 XXVII. Ruido: Es todo sonido que molesta o perjudica a las personas;
 
-XXVIII. SAU: Secretaría de Administración Urbana;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+XXVIII. Secretaría de Gestión: Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable o las autoridades administrativas que ejerzan las facultades previstas en el presente Capítulo;
 
 XXIX. SEDURBECOP: Secretaría de Desarrollo Urbano Ecología y Obras Públicas del Estado de Puebla;
 
@@ -21469,9 +22083,11 @@ XIII. Promover la participación en materia ambiental de las organizaciones soci
 
 XIV. Las demás que se establezcan en el presente Capítulo u otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1718.
 
-Son atribuciones del Director de Ecología las siguientes:
+Son atribuciones del Director de Gestión a través de la Subdireccion de Ecología y Medio Ambiente las siguientes:
 
 I. Coordinar y evaluar las actividades de las unidades administrativas adscritas a la Dirección;
 
@@ -21513,9 +22129,13 @@ DE LA COMISIÓN DE ECOLOGÍA Y MEDIO AMBIENTE
 
 La Comisión de Ecología del Honorable Ayuntamiento, además de estar integrada por los regidores que apruebe H. Ayuntamiento, se complementará por los siguientes vocales:
 
-I. El director de ecología;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-II. El director de desarrollo urbano;
+I. El Director de Gestión y Desarrollo Urbano Sustentable; y (sic)
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+II. El Subdirector de Ecología y Medio Ambiente;
 
 III. El director del OOSL;
 
@@ -21533,7 +22153,9 @@ Los trabajos de la comisión se realizarán con base a lo establecido en la Ley 
 
 La Comisión tendrá las siguientes atribuciones:
 
-I. Coadyuvar con la SAU para estudiar y en su caso proponer, procedimientos, reformas o adiciones al presente Capítulo tendientes a mejorar la política ambiental municipal;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+I. Coadyuvar con la Secretaría de Gestión para estudiar y en su caso proponer, procedimientos, reformas o adiciones al presente Capítulo tendientes a mejorar la política ambiental municipal;
 
 II. Colaborar en la determinación y actualización del diagnóstico sobre la problemática ambiental del Municipio;
 
@@ -22565,9 +23187,11 @@ DE LAS SANCIONES EN MATERIA DE PROTECCIÓN AMBIENTAL
 
 Se considera infractor toda persona o autoridad que por hecho, acto u omisión directa, intencional o imprudencial, colaborando de cualquier forma, o bien, induzca directa o indirectamente a alguien a infringir las disposiciones del presente Capítulo y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1821.
 
-Las sanciones por infracción a las disposiciones que se disponen en el presente Capítulo serán impuestas por el Director de Ecología. Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
+Las sanciones por infracción a las disposiciones que se disponen en el presente Capítulo serán impuestas por el Director de Gestión y en su caso, el Subdirector de Ecología y Medio Ambiente. Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
 
 I. Amonestación;
 
@@ -22851,9 +23475,11 @@ V. Celebrar convenios de concertación con los sectores público, social y priva
 
 VI. Las demás que le confiera la Ley, este Capítulo y los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1838.
 
-Corresponde a la Dirección de Ecología como ente de la Administración Pública Municipal, el ejercicio de las siguientes facultades:
+Son atribuciones de la Dirección de Gestión a través de la Subdirección de Ecología y Medio Ambiente o la autoridad administrativa que ejerza las facultades previstas en el presente Capítulo, las siguientes:
 
 I. La promoción de información y difusión que genere una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales;
 
@@ -22911,9 +23537,11 @@ DE LA CULTURA PARA LA PROTECCIÓN A LOS ANIMALES
 
 Las autoridades municipales, en el ámbito de sus facultades, promoverán mediante programas y campañas de difusión la cultura de protección a los animales objeto de este Capítulo, consistente en valores y conductas de respeto por parte del ser humano hacia los animales, con base en las disposiciones establecidas en el presente Capítulo en materia de trato digno y respetuoso.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 1843.
 
-La Dirección de Ecología promoverá programas de formación en la cultura de protección a los animales, ante las autoridades competentes que las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales.
+La Dirección de Gestión a través de la Subdirección de Ecología y Medio Ambiente promoverá programas de formación en la cultura de protección a los animales, ante las autoridades competentes que las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales.
 
 ###### Artículo 1844.
 
@@ -24061,9 +24689,13 @@ Para el trámite de licencia de sustancias susceptibles de inhalación y efectos
 
 A. Licencia de sustancias susceptibles de inhalación y efectos tóxicos:
 
-a) Formato de licencia de sustancias susceptibles de inhalación y efectos tóxicos, el formato de actualización de la misma, según el caso, expedidos por el Departamento de Registro y Fiscalización;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+a) Formato de licencia de sustancias susceptibles de inhalación y efectos tóxicos, el formato de actualización de la misma, según el caso, expedidos por la Tesorería Municipal;
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
 c) Identificación oficial. Para el caso de realizar el trámite a través de un gestor éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
@@ -24071,17 +24703,29 @@ d) Acta constitutiva y poder notarial, para personas morales; y
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
 
-Para el caso de actualización de la licencia, además se acompañara la licencia de sustancias susceptibles de inhalación y efectos tóxicos original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+Para el caso de actualización de la licencia, además se acompañara la licencia de sustancias susceptibles de inhalación y efectos tóxicos original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes.
 
-El Jefe del Departamento de Registro y Fiscalización, en un término no mayor de diez días hábiles contados a partir del día siguiente en que reciba la solicitud deberá otorgar la licencia de sustancias susceptibles de inhalación y efectos tóxicos siempre que se cumplan los requisitos señalados anteriormente.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por negada la solicitud.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización, que niegue el otorgamiento y actualización de la licencia de sustancias susceptibles de inhalación y efectos tóxicos, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica Consultiva Municipal dará vista a la Contraloría Municipal.
+El Jefe del Departamento de Licencias y Padrón de contribuyentes, en un término no mayor de diez días hábiles contados a partir del día siguiente en que reciba la solicitud, deberá otorgar la licencia de sustancias susceptibles de inhalación y efectos tóxicos siempre que se cumplan los requisitos señalados anteriormente.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+En caso de que transcurrido el término de referencia el Jefe del Departamento de Licencias y Padrón de Contribuyentes no dé contestación por escrito al solicitante, se tendrá por negada la solicitud.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+Contra el acto que emita el Jefe del Departamento de Licencias y Padrón de Contribuyentes, que niegue el otorgamiento y actualización de la licencia de sustancias susceptibles de inhalación y efectos tóxicos, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
+En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica y de lo Contencioso Municipal dará vista a la Contraloría Municipal.
 
 De no otorgarse la licencia de sustancias susceptibles de inhalación y efectos tóxicos la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. En este caso, los solicitantes estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
 
@@ -24101,9 +24745,9 @@ I. Al Honorable Ayuntamiento;
 
 II. Al Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Al Jefe del Departamento de Registro y Fiscalización, adscrito a la Dirección de Ingresos de la Tesorería Municipal;
+III. Al Titular de la Unidad de Normatividad y Regulación Comercial;
 
 IV. Al Director General del DIF Municipal.
 
@@ -24111,11 +24755,11 @@ IV. Al Director General del DIF Municipal.
 
 El Honorable Ayuntamiento tendrá la obligación de salvaguardar los intereses de la población que comprende a los menores de edad a través de las campañas de educación preventiva que coordinará conjuntamente con el DIF Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1935.
 
-El Departamento de Registro y Fiscalización deberá:
+La Unidad de Normatividad y Regulación Comercial deberá:
 
 I. Establecer mecanismos para la vigilancia permanente en las inmediaciones de zonas escolares y dentro de parques públicos donde se tenga noticia del uso o del abuso de las substancias materia de este Capítulo;
 
@@ -24123,23 +24767,23 @@ II. Informar al Presidente Municipal, de las revisiones que hagan a los registro
 
 III. Levantar inmediatamente un acta circunstanciada resaltando todos los hechos en caso de flagrancia, al propietario o encargado del establecimiento o persona en general vendiendo a un menor substancias de efectos tóxicos por inhalación o pinturas en aerosol, debiendo turnarla a la autoridad municipal que corresponda para los fines pertinentes; y
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-IV. Vigilar y supervisar a los establecimientos con venta de substancias tóxicas o pinturas en aerosol, que cuenten con la licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización, en caso contrario lo harán del conocimiento de la misma para los fines respectivos.
+IV. Vigilar y supervisar a los establecimientos con venta de substancias tóxicas o pinturas en aerosol, que cuenten con la licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal, en caso contrario lo harán del conocimiento de la misma para los fines respectivos.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1936.
 
-El Departamento de Registro y Fiscalización, se encargará de determinar y calificar una infracción e imponer sanciones a los infractores de las disposiciones previstas en el presente Capítulo.
+El Titular de la Unidad de Normatividad y Regulación Comercial, se encargará de determinar y calificar una infracción e imponer sanciones a los infractores de las disposiciones previstas en el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1937.
 
-Cualquier persona podrá denunciar ante el Departamento de Registro y Fiscalización, las violaciones de las disposiciones de este Capítulo; así como denunciar a los individuos que comercien ilícitamente con las substancias inhalantes y pinturas en aerosol a que se contrae este Capítulo.
+Cualquier persona podrá denunciar ante la Unidad de Normatividad y Regulación Comercial, las violaciones de las disposiciones de este Capítulo; así como denunciar a los individuos que comercien ilícitamente con las substancias inhalantes y pinturas en aerosol a que se contrae este Capítulo.
 
-El Jefe del Departamento de Registro y Fiscalización en cualquier momento, cuando lo solicite el denunciante, le informará de las acciones realizadas y resultados una vez que hayan sido determinadas.
+El Titular de la Unidad de Normatividad y Regulación Comercial en cualquier momento, cuando lo solicite el denunciante, le informará de las acciones realizadas y resultados una vez que hayan sido determinadas.
 
 ###### Artículo 1938.
 
@@ -24173,11 +24817,11 @@ III. Las condiciones socioeconómicas del infractor; y
 
 IV. La calidad de reincidente del infractor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1941.
 
-En el caso de que al aplicar la multa ésta no sea pagada en el término de 15 días hábiles siguientes a su determinación, el Jefe del Departamento de Registro y Fiscalización la remitirá al Departamento de Ejecución u Oficina Ejecutora para el trámite legal correspondiente.
+En el caso de que al aplicar la multa ésta no sea pagada en el término de 15 días hábiles siguientes a su determinación, el Titular de la Unidad de Normatividad y Regulación Comercial la remitirá al Departamento de Ejecución u Oficina Ejecutora para el trámite legal correspondiente.
 
 El importe de las multas ingresará a la Tesorería Municipal, el cual deberá de destinarse preferentemente a:
 
@@ -24203,7 +24847,9 @@ I. Ayuntamiento: Al Honorable Ayuntamiento del Municipio de Puebla.
 
 II. Estación de Servicio de Gas Licuado de Petróleo con Almacenamiento Fijo: Al establecimiento con sistema fijo y permanente para almacenar y trasegar Gas L.P., que en instalaciones apropiadas, realice exclusivamente el llenado de recipientes montados permanentemente en vehículos que lo usen para su propulsión, en sus modalidades de Autoabasto y Comercial;
 
-III. Secretaría: A la Secretaría de Administración Urbana del H. Ayuntamiento de Puebla;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Secretaría: A la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del H. Ayuntamiento de Puebla o la autoridad administrativa que ejerzan las facultades previstas en el presente Capítulo;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -27483,7 +28129,9 @@ El Consejo se integrará con los siguientes miembros:
 
 I.- Un Presidente, que será el Presidente Municipal;
 
-II.- Un Secretario Técnico, que será el Secretario de Fomento Económico, Turismo y Empleo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+II.- Un Secretario Técnico, que será el Secretario de Desarrollo Económico, Turismo y Competitividad;
 
 III.- Cinco vocales que serán:
 
@@ -27681,13 +28329,17 @@ IV. Costos de salud, medio ambiente u otro de carácter social; y
 
 V. Costos administrativos que asuman las dependencias municipales, que se encargarían de instrumentar, y aplicar la regulación propuesta, como son los costos de personal, así como los derivados de inspecciones u otras actividades para asegurar el cumplimiento de las regulaciones.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2264.
 
-Las manifestaciones de impacto Regulatorio se remitirán al Consejo con copia del proyecto a través de la Secretaría de Fomento Económico, Turismo y Empleo, para su revisión.
+Las manifestaciones de impacto Regulatorio se remitirán al Consejo con copia del proyecto a través de la Secretaría de Desarrollo Económico, Turismo y Competitividad, para su revisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Si los proyectos o las manifestaciones de impacto Regulatorio no cumplen con las previsiones legales y reglamentarias, El Consejo dentro de los diez días hábiles siguientes a la presentación de los documentos prevendrá a la dependencia o entidad solicitante para que los corrija, o subsane las deficiencias, así como las recomendaciones que se estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 El Consejo deberá indicar de manera concreta los puntos sobre los que versarán las deficiencias que contengan los proyectos y las manifestaciones de impacto regulatorio.
 
@@ -27743,13 +28395,13 @@ XV. Apartado de observaciones; y
 
 XVI. Número de teléfono, fax y correo electrónico de la Contraloría Municipal para los casos de quejas o denuncias en contra de servidores públicos.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2267.
 
-La Secretaría de Fomento Económico, Turismo y Empleo llevará un registro de cédulas de trámites y servicios que se realicen en las dependencias y entidades de la Administración Pública Municipal; al cual se le denominará: Registro Municipal de Trámites y Servicios.
+La Secretaría de Desarrollo Económico, Turismo y Competitividad llevará un registro de cédulas de trámites y servicios que se realicen en las dependencias y entidades de la Administración Pública Municipal; al cual se le denominará: Registro Municipal de Trámites y Servicios.
 
-Las dependencias o entidades, bajo su responsabilidad, deberán entregar a la Secretaría de Fomento Económico, Turismo y Empleo y a la Contraloría Municipal, la información actualizada de los trámites en los formatos que les sean proporcionados en un plazo no mayor de quince días hábiles, contados a partir de la fecha de solicitud correspondiente.
+Las dependencias o entidades, bajo su responsabilidad, deberán entregar a la Secretaría de Desarrollo Económico, Turismo y Competitividad y a la Contraloría Municipal, la información actualizada de los trámites en los formatos que les sean proporcionados en un plazo no mayor de quince días hábiles, contados a partir de la fecha de solicitud correspondiente.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -27815,11 +28467,11 @@ V. Los instrumentos administrativos y jurídicos para la ejecución del programa
 
 VI. Las demás que dicta el Ayuntamiento y el Consejo.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2273.
 
-Corresponde a la Contraloría Municipal y a la Secretaría de Fomento Económico, Turismo y Empleo el seguimiento y consecución de las acciones y metas establecidas en los Programas de Mejora Regulatoria.
+Corresponde a la Contraloría Municipal y a la Secretaría de Desarrollo Económico, Turismo y Competitividad, el seguimiento y consecución de las acciones y metas establecidas en los Programas de Mejora Regulatoria.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -28595,7 +29247,9 @@ El Consejo de Premiación del Reconocimiento al "Mérito Empresarial", estará i
 
 I. Un Presidente, quien será el Presidente Municipal Constitucional de Puebla, quien en caso de empate tendrá voto de calidad;
 
-II. Un Secretario, quien será el Secretario de Fomento Económico, Turismo y Empleo; con voz y voto; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+II. Un Secretario, quien será el Secretario de Desarrollo Económico, Turismo y Competitividad; con voz y voto; y
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
 
@@ -28791,7 +29445,9 @@ El Consejo de Premiación del Reconocimiento al "Mérito, Laboral", estará inte
 
 I. Un Presidente, quien será el Presidente Municipal Constitucional, quien en caso de empate tendrá voto de calidad.
 
-II. Un Secretario, quien será el Secretario de Fomento Económico, Turismo y Empleo; con voz y voto.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+II. Un Secretario, quien será el Secretario de Desarrollo Económico, Turismo y Competitividad; con voz y voto.
 
 III. Los Regidores que integren la Comisión de Trabajo y Previsión Social del Honorable Ayuntamiento, quienes tendrán voz y voto.
 
@@ -28997,9 +29653,7 @@ PRIMERO. El presente Acuerdo deberá publicarse en el Periódico Oficial del Est
 
 SEGUNDO. Se instruye al Presidente Municipal para el efecto de realizar las acciones tendientes a fin de celebrar el convenio de colaboración con el Gobierno del Estado de Puebla, respecto al Registro Estatal de Vehículos.
 
-TERCERO. Se extingue la Dirección de Normatividad Comercial e Industrial, y su Unidad Administrativa; adscrita a la Secretaría de Gobernación Municipal; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Registro y Fiscalización adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos
-
-constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
+TERCERO. Se extingue la Dirección de Normatividad Comercial e Industrial, y su Unidad Administrativa; adscrita a la Secretaría de Gobernación Municipal; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Registro y Fiscalización adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
 
 CUARTO. Se extingue el Departamento de Espectáculos, adscrito a la Dirección de Asuntos Jurídicos de la Secretaría de Gobernación Municipal; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Registro y Fiscalización adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
 
@@ -29142,3 +29796,9 @@ TERCERO.- Se instruye a la Coordinación de Comunicación Social para que elabor
 CUARTO.- Las presentes reformas y adiciones entrarán en vigor a partir de su publicación en el Periódico Oficial Estado.
 
 QUINTO.- Se derogan todas las disposiciones que se contrapongan al presente Dictamen.
+
+P.O. 29 DE AGOSTO DE 2008.
+
+ÚNICO.- Las presentes reformas, derogaciones y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Lo previsto en el párrafo anterior se exceptúa en los casos en que, atendiendo a la característica accesoria del marco reglamentario, para la asunción de nuevas denominaciones de las estructuras administrativas se requiera de adecuaciones a la ley, en cuyo evento, la vigencia de este Dictamen surtirá sus efectos el mismo día que los decretos congresionales respectivos.
