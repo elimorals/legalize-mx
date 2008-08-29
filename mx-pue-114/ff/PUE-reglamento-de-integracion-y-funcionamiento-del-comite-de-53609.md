@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-integracion-y-funcionamiento-del-comite-de-53609"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-30"
-last_updated: "2006-08-30"
+last_updated: "2008-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DE INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE ADQUISICIONES DEL SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2008.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 30 de agosto de 2006.
 
@@ -67,9 +67,11 @@ VII. Proveedor: La persona que celebre contratos o pedidos de adquisiciones, arr
 
 ### CAPÍTULO II. DEL COMITÉ DE ADQUISICIONES
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+
 ###### ARTÍCULO 2.
 
-El Comité tiene como objetivo ejecutar las acciones relativas a la planeación, programación, contratación, gasto, ejecución y control que, en materia de adquisiciones, arrendamientos y prestación de servicios participa el SOAPAP de los Programas Federales con la Comisión Nacional del Agua, de conformidad con la normatividad vigente, y sólo en los casos en que la Secretaría de Finanzas y Administración del Estado de Puebla no esté facultada para realizarlas.
+El Comité tiene por objeto ejecutar las acciones relativas a la planeación, programación, contratación, gasto, ejecución y control que, en materia de adquisiciones, arrendamientos y prestación de servicios participa el SOAPAP de los Programas Federales, de conformidad con la normatividad vigente.
 
 ###### ARTÍCULO 3.
 
@@ -163,7 +165,9 @@ l. Presidir los actos de los procedimientos de adjudicación;
 
 II. Autorizar y suscribir las convocatorias, órdenes del día de las reuniones del Comité y las invitaciones de los procedimientos de adjudicación, así como convocar a sus miembros cuando sea necesario;
 
-III. Vigilar el cumplimiento de los Programas Federales en los que participa el SOAPAP con la Comisión Nacional del Agua;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+
+III. Vigilar el cumplimiento de los Programas Federales en los que participa el SOAPAP;
 
 IV. Autorizar la realización de los procedimientos de adjudicación de adquisiciones, arrendamientos y servicios que el Comité realice;
 
@@ -412,3 +416,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- En los casos no previstos por este Reglamento, se aplicará la Ley.
 
 Dado en la Heroica Puebla de Zaragoza, a los veintiocho días del mes agosto de dos mil seis.- El Presidente del Comité.- INGENIERO FRANCISCO PALOMINO ECHARTEA.- Rúbrica.- El Secretario Ejecutivo del Comité.- ARQUITECTO JUAN FRANCISCO MARTÍNEZ CRUZ.- Rúbrica.- Primer Vocal.- LICENCIADO RAFAEL SÁNCHEZ JAIME.- Rúbrica.- Segundo Vocal.-CONTADOR PÚBLICO MAURICIO LÓPEZ Y LÓPEZ.- Rúbrica.- Tercer Vocal.- LICENCIADO LÁZARO TORRES PÉREZ.- Rúbrica.- Cuarto Vocal.- CONTADOR PÚBLICO MIGUEL ÁNGEL NIEVA ZARATE.- Rúbrica.- Quinto Vocal.- INGENIERO TOMÁS HERNÁNDEZ LEAL.- Rúbrica.- Sexto Vocal.- INGENIERO JAIME SALVADOR SÁNCHEZ VÁZQUEZ.- Rúbrica.-Asesor.- INGENIERO JOSÉ VÍCTOR CASTELAN PALACIOS.- Rúbrica.- Asesor Jurídico.- MAESTRA EN DERECHO MARGARITA VÁZQUEZ RICO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2008.
+
+PRIMERO.- Las reformas que establece el presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Puebla.
+
+SEGUNDO.- En los casos no previstos por este Reglamento, se aplicará la Ley.
