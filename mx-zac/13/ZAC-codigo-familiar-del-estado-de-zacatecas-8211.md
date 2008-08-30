@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2007-10-03"
+last_updated: "2008-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -2793,9 +2793,13 @@ Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado 
 
 Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen la obligación de dar aviso al mismo funcionario y al Consejo Estatal de los Derechos del Niño para igual efecto, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### ARTICULO 419.
 
-La tutela es testamentaria, legítima o dativa.
+La tutela puede ser autodesignada, testamentaria, legítima o dativa.
+
+Toda persona mayor de edad capaz, puede designar tanto al tutor o tutores que deberán encargarse de su persona, y en su caso, de su patrimonio, como el curador en previsión, de encontrarse en los supuestos del artículo 409, fracción II. La designación del tutor o curador debe hacerse en escritura pública ante Notario que contenga expresamente todas las reglas a las cuales deberá sujetarse el tutor y es revocable en cualquier momento mediante la misma formalidad.
 
 ###### ARTICULO 420.
 
@@ -2897,7 +2901,11 @@ Ha lugar a la tutela legítima:
 
 I. En los casos de suspensión o pérdida de la patria potestad, o de impedimento o falta absoluta del que o de los que deben ejercerla;
 
-II. Cuando deba nombrarse tutor por causa de divorcio.
+II. Cuando deba nombrarse tutor por causa de divorcio;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+III. Cuando no haya tutor autodesignado.
 
 ###### ARTICULO 441.
 
@@ -2967,7 +2975,9 @@ En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
 Habrá lugar a la tutela dativa:
 
-I. Cuando no haya tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+I. Cuando no haya tutor testamentario o autodesignado, ni persona a quien, conforme a la ley, corresponda la tutela legítima;
 
 II. Cuando el tutor testamentario o legítimo es coheredero o tiene cualquier otra oposición de intereses, y sólo para representar al incapaz en esos casos.
 
@@ -4698,3 +4708,9 @@ Artículo segundo.- Se derogan las disposiciones que contravengan este decreto.
 Artículo tercero.- La titular del Ejecutivo dentro de los noventa días siguientes a la entrada en vigor de este instrumento legislativo, deberá publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento del Registro Civil.
 
 Artículo cuarto.- Los juicios iniciados con anterioridad a la vigencia del presente decreto, deberán concluirse de conformidad con las disposiciones vigentes al momento de su interposición.
+
+P.O. 30 DE AGOSTO DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan este Decreto.
