@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-a-la-informacion-publica-del-estado-de-40310"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-14"
-last_updated: "2004-07-14"
+last_updated: "2008-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de julio de 2004.
 
@@ -57,9 +57,11 @@ Para ejercer el derecho de acceso a la información pública no es necesario acr
 
 En materia política, sólo podrán hacer uso de este derecho los ciudadanos mexicanos.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 4.
 
-En la interpretación de esta ley, se deberá atender al principio de publicidad de la información, excepto aquella considerada reservada o confidencial.
+En la interpretación de esta ley, se deberá atender al principio de máxima publicidad así como a la disponibilidad de la información, excepto aquella considerada reservada o confidencial.
 
 ###### Artículo 5.
 
@@ -155,9 +157,11 @@ Sólo podrá negarse la información que conforme a esta ley tenga el carácter 
 
 DE OFICIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 9.
 
-Los sujetos obligados deberán difundir de oficio, a través del Periódico Oficial y por medios informáticos o impresos, por lo menos, la información siguiente:
+Los sujetos obligados deberán difundir de oficio, ya sea a través del Periódico Oficial, por medios informáticos o impresos, la siguiente información:
 
 I. Leyes, reglamentos, decretos, estatutos, acuerdos, manuales circulares, y demás disposiciones administrativas que le den sustento legal al ejercicio de sus funciones;
 
@@ -167,7 +171,9 @@ III. El directorio de servidores públicos, a partir del nivel de jefe de depart
 
 IV. El salario mensual por puesto, según lo establezcan las disposiciones correspondientes;
 
-V. Los destinatarios y beneficiarios de toda entrega de recursos públicos, cualquiera que sea su destino y aplicación;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+V. Los destinatarios y beneficiarios de toda entrega de recursos públicos, cualquiera que sea su destino y aplicación; excepto en el caso de programas de financiamiento, a través de fideicomisos públicos en los cuales la información se considerará confidencial, por estar referida a su patrimonio;
 
 VI. Los informes presentados por los partidos políticos ante la autoridad estatal electoral;
 
@@ -203,7 +209,19 @@ XXI. Los convenios que celebren los sujetos obligados con la Federación, otras 
 
 XXII. Agenda de reuniones públicas de los diversos consejos, gabinetes, cabildos, sesiones plenarias y sesiones de trabajo a las que convoquen los sujetos obligados;
 
-XXIII. Aquella información que sea de utilidad para el ejercicio del derecho de acceso a la información pública conforme a la ley.
+XXIII. Aquella información que sea de utilidad para el ejercicio del derecho de acceso a la información pública conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+XXIV. Listado de la información clasificada como reservada o confidencial y su plazo de reserva;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+XXV. El Plan Estatal de Desarrollo, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+XXVI. Los sujetos obligados deberán publicar a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos. Por lo cual deberán además, preservar sus documentos en archivos administrativos actualizados.
 
 ###### Artículo 10.
 
@@ -283,9 +301,11 @@ La Comisión promoverá ante las universidades públicas y privadas, que dentro 
 
 El ejercicio del derecho de acceso a la información pública sólo será restringido en los términos de lo dispuesto por esta ley, mediante las figuras de información reservada y confidencial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 19.
 
-Para los efectos de esta ley se considera información reservada, la expresamente clasificada como tal mediante acuerdo del titular de cada uno de los sujetos obligados. Es información confidencial, la referida en la fracción VIII del artículo 5 de esta ley. La clasificación de la información procede sólo en los siguientes casos:
+Para los efectos de esta ley se considera información reservada, la relacionada con la Seguridad Pública del Estado y Municipios, y que verse sobre información en la que se detalle el estado de fuerza de las instituciones y corporaciones de Seguridad Pública, y la expresamente clasificada como tal mediante acuerdo del titular de cada uno de los sujetos obligados. Es información confidencial, la referida en la fracción VIII del artículo 5 de esta ley. La clasificación de la información procede sólo en los siguientes casos:
 
 I. Cuando se trate de información cuya divulgación ponga en riesgo la seguridad del Estado y municipios, la vida o la seguridad de cualquier persona o el desarrollo de investigaciones reservadas en una sociedad democrática;
 
@@ -303,9 +323,13 @@ VII. Cuando se trate de información correspondiente a documentos o comunicacion
 
 VIII. Cuando se trate de información cuya divulgación pueda dañar la estabilidad financiera y económica del Estado y municipios;
 
-IX. Cuando se trate de información que pueda generar una ventaja personal indebida en perjuicio de un tercero; y
+IX. Cuando se trate de información que pueda generar una ventaja personal indebida en perjuicio de un tercero; y (sic)
 
-X. Cuando se trate de información confidencial en términos de esta ley.
+X. Cuando se trate de información confidencial en términos de esta ley;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+XI. La Información sobre el desarrollo o planeación de operativos.
 
 ###### Artículo 20.
 
@@ -327,7 +351,9 @@ La información a que se refiere este artículo, sólo podrá ser consultada por
 
 El acuerdo que clasifique la información como reservada o como confidencial, deberá indicar la fuente de información, la justificación por la cual se clasifica, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación.
 
-Las partes de un documento que no estén expresamente reservadas se considerarán de libre acceso público.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Las partes de un documento que no estén expresamente reservadas se considerarán de libre acceso público, en cuyo caso la Unidad de Enlace elaborará una versión pública del documento que será entregada al solicitante.
 
 ###### Artículo 23.
 
@@ -341,33 +367,49 @@ Solo los servidores públicos serán responsables por el quebrantamiento de la r
 
 ### CAPÍTULO QUINTO. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 25.
 
-Las personas ejercerán su derecho de acceso a la información ante el sujeto obligado que la posea.
+Las personas ejercerán su derecho de acceso a la información ante el sujeto obligado que la posea. Los sujetos obligados sólo deberán entregar la información que expresamente se les requiera y que se encuentre en sus archivos. La información se entregará en el estado en que se encuentre, sin procesarla, resumirla, efectuar cálculos o practicar cualquier clase de investigaciones, salvo en los casos en los que por la naturaleza de la solicitud tenga que realizarse una versión pública.
 
 ###### Artículo 26.
 
 Los sujetos obligados a que se refiere esta ley, contarán con una unidad de enlace ante la que se tramite la solicitud de información pública y se resuelva lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 27.
 
-El interesado presentará ante la unidad administrativa correspondiente, solicitud por escrito, en forma pacífica y respetuosa, misma que deberá contener:
+El interesado presentará ante la Unidad de Enlace correspondiente, solicitud por escrito, o a través de los sistemas electrónicos que los propios sujetos obligados determinen y de acuerdo a su reglamentación interna, en forma pacífica y respetuosa, misma que deberá contener:
 
 I. Identificación del sujeto obligado ante quien se dirija;
 
-II. Nombre completo, datos generales e identificación con documento oficial del solicitante;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+II. Nombre completo y datos generales que serán utilizados únicamente para fines estadísticos;
 
 III. Identificación clara y precisa de los datos e informaciones que requieran;
 
-IV. Domicilio para recibir la información o notificaciones;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
 
-V. Firma del interesado.
+IV. Domicilio o correo electrónico para recibir la información o notificaciones;
+
+V. (DEROGADA, P.O. 30 DE AGOSTO DE 2008)
 
 Si la solicitud es ambigua y no contiene todos los datos requeridos, la unidad de enlace deberá hacérselo saber al solicitante en un plazo no mayor de cinco días hábiles, a fin de que la aclare o complete.
 
 Trascurrido (sic) el plazo a que se refiere el párrafo anterior, sin que el solicitante aclare o complete aquello que le requiere el sujeto obligado, éste desechará la solicitud.
 
 Si la solicitud es presentada ante un sujeto obligado que no es competente para entregar la información o que no la tenga por no ser de su competencia, la unidad administrativa deberá informar y orientar debidamente al solicitante, en un plazo no mayor de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Artículo 27 A.- Cuando el solicitante no señale domicilio para recibir la información, o señalando que acudirá a las oficinas de la Unidad de Enlace a recibirla, no se presente a recogerla, ésta se notificará, por cédula fijada en los estrados que al efecto designe el sujeto obligado.
+
+La notificación surtirá efectos al día siguiente hábil de aquél en que se fije en estrados. Se tomará razón en autos de que se ha hecho la publicación.
+
+En el caso de las solicitudes presentadas por sistema electrónico, se estará a lo establecido en su reglamentación interna.
 
 ###### Artículo 28.
 
@@ -378,6 +420,10 @@ Los costos por obtener información no podrán ser superiores a la suma de:
 I. El costo de los materiales utilizados en la reproducción de la información; y
 
 II. El costo de envío.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Artículo 28 A.- Tratándose de información contenida en publicaciones oficiales, la autoridad proporcionará al interesado los datos necesarios para su localización, salvo que la solicitud verse respecto del original.
 
 ###### Artículo 29.
 
@@ -475,7 +521,9 @@ La Comisión será presidida por un comisionado que tendrá la representación l
 
 La Comisión tendrá las siguientes atribuciones:
 
-I. Conocer y resolver los recursos de revisión interpuestos por los solicitantes;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+I. Conocer y resolver los procedimientos de queja y los recursos de revisión interpuestos por los solicitantes;
 
 II. Establecer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial;
 
@@ -533,7 +581,39 @@ II. Los derechos, bienes muebles e inmuebles que legalmente adquiera; y
 
 III. Las aportaciones, subsidios, apoyos y donaciones que en su caso le destine el gobierno federal, así como los organismos de los sectores social y privado de carácter nacional e internacional.
 
-### CAPÍTULO OCTAVO. RECURSO DE REVISIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 2008)</small>
+
+### CAPÍTULO OCTAVO. DE LOS RECURSOS
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE AGOSTO DE 2008)</small>
+
+#### Sección Primera. De Queja
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Artículo 47 A.- El recurso de queja procede en contra de los sujetos obligados cuando habiendo recibido una solicitud de acceso a la información o corrección de datos personales por escrito, y habiendo transcurrido el plazo fijado en el artículo 30, no hubiesen dado respuesta en ningún sentido. También será procedente el recurso de queja, cuando los sujetos obligados no cuenten con su Unidad de Enlace; no dispongan con la información de oficio que marca la ley, o bien, cuando se presenten omisiones en la recepción y trámite de las solicitudes de información.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Artículo 47 B.- El recurso de queja se interpondrá ante la Comisión Estatal para el Acceso a la Información Pública, por escrito o a través de sistemas electrónicos dentro de los 4 días hábiles siguientes al en que haya vencido el término que tiene el sujeto obligado para dar respuesta, debiendo cumplir con los requisitos a que se refieren las fracciones I, II, IV y VI del artículo 51 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Artículo 47 C.- Una vez que el recurso fuera admitido, la Comisión requerirá al sujeto obligado para que dentro del mismo término rinda el informe correspondiente. La Comisión decidirá lo que corresponde en un término igual.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Artículo 47 D.- El recurso será desechado como improcedente cuando:
+
+I. No esté apoyado en hecho cierto; y
+
+II. Sea presentado, una vez transcurrido el plazo para ello.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+#### Sección Segunda. De Revisión
+
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
 
 ###### Artículo 48.
 
@@ -541,9 +621,13 @@ Los actos o resoluciones que nieguen, impidan o limiten a los gobernados el acce
 
 Los sujetos obligados están exentos de proporcionar información que en términos de esta ley se considere reservada o confidencial.
 
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
+
 ###### Artículo 49.
 
 Es procedente el recurso de revisión cuando se presenta la impugnación en tiempo y forma.
+
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
 
 ###### Artículo 50.
 
@@ -551,9 +635,11 @@ El plazo para interponer el recurso de revisión será de diez días hábiles, c
 
 La notificación surte efectos a partir del día hábil siguiente al en que se realice.
 
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)
+
 ###### Artículo 51.
 
-El recurso de revisión deberá presentarse por escrito cumpliendo con los siguientes requisitos:
+El recurso de revisión deberá presentarse por escrito o a través de sistemas electrónicos cumpliendo con los siguientes requisitos:
 
 I. El sujeto obligado ante el cual se presentó la solicitud;
 
@@ -563,15 +649,21 @@ III. La fecha en que se le notificó o tuvo conocimiento del acto reclamado;
 
 IV. El acto que se recurre y los puntos petitorios;
 
-V. Anexar la copia de la resolución que se impugna y, en su caso, de la notificación correspondiente; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+V. Anexar la copia de la resolución que se impugna y, en su caso, de la notificación correspondiente, ya sea en forma personal o a través de sistemas electrónicos; y
 
 VI. Los demás elementos que considere procedentes someter a juicio de la Comisión.
+
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
 
 ###### Artículo 52.
 
 La Comisión sustanciará el recurso de revisión conforme a los lineamientos siguientes:
 
-I. Interpuesto el recurso, el Presidente de la Comisión, lo turnará al comisionado ponente, quien deberá, dentro de los diez días hábiles siguientes a la interposición del recurso, integrar el expediente y presentar un proyecto de resolución al Pleno de la Comisión;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+I. Interpuesto el recurso, el Presidente de la Comisión, 10 turnará al comisionado ponente, quien deberá, dentro de los veinte días hábiles siguientes a la interposición del recurso, integrar el expediente y presentar un proyecto de resolución al Pleno de la Comisión;
 
 II. El Pleno de la Comisión podrá determinar la celebración de audiencias con las partes;
 
@@ -579,15 +671,21 @@ III. Durante el procedimiento deberá aplicarse la suplencia de la queja a favor
 
 IV. Mediante solicitud del interesado podrán recibirse, por vía electrónica, las promociones y escritos;
 
-V. El Pleno resolverá, en definitiva, dentro de los veinte días hábiles siguientes al en que se presentó el proyecto de resolución;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+V. El Pleno resolverá, en definitiva, dentro de los diez días hábiles siguientes al en que se presentó el proyecto de resolución;
 
 VI. Las resoluciones del Pleno serán públicas.
 
 Cuando haya causa justificada, el Pleno de la Comisión podrá ampliar, por una vez y hasta por un periodo igual, los plazos establecidos en las fracciones I y V de este artículo.
 
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
+
 ###### Artículo 53.
 
 El comisionado ponente podrá prevenir al inconforme sobre las omisiones de forma y fondo de los que, en su caso adolezca su escrito de revisión, pero de ninguna manera podrá cambiar los hechos. Para subsanar dichas omisiones deberá concederle un término de cuatro días hábiles, vencido el cual se desechará de plano.
+
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
 
 ###### Artículo 54.
 
@@ -597,9 +695,11 @@ I. Sea presentado, una vez transcurrido el plazo señalado en el artículo 50;
 
 II. La Comisión haya conocido anteriormente del recurso respectivo y resuelto en definitiva;
 
-III. Se recurra una resolución que no haya sido emitida por un Comité, o
+III. (DEROGADA, P.O. 30 DE AGOSTO DE 2008)
 
 IV. Ante los tribunales del Poder Judicial del Estado se esté tramitando algún recurso o medio de defensa interpuesto por el recurrente.
+
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
 
 ###### Artículo 55.
 
@@ -617,6 +717,8 @@ Si la Comisión no resuelve en el plazo establecido en esta ley, incurrirá en r
 
 Cuando la Comisión determine durante la sustanciación del procedimiento que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento del órgano interno de control del sujeto obligado responsable para que éste inicie, en su caso, el procedimiento de responsabilidad que corresponda.
 
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
+
 ###### Artículo 56.
 
 El recurso será sobreseído cuando:
@@ -629,9 +731,17 @@ III. Cuando admitido el recurso de impugnación, aparezca alguna causal de impro
 
 IV. La dependencia o entidad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que el medio de impugnación quede sin efecto o materia.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+Artículo 56 A.- En todo lo no previsto en esta ley, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Zacatecas.
+
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
+
 ###### Artículo 57.
 
 Para los sujetos obligados las resoluciones de la Comisión serán definitivas.
+
+(REUBICADO, P.O. 30 DE AGOSTO DE 2008)
 
 ###### Artículo 58.
 
@@ -706,3 +816,11 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME ARTURO CASAS MADERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los sujetos obligados, en el ámbito de sus respectivas competencias, establecerán mediante los instrumentos jurídicos procedentes, los medios para recibir y atender las solicitudes de acceso a la información pública o recursos de revisión y queja a través de sistemas electrónicos, a más tardar un año después de la entrada en vigor del presente Decreto.
