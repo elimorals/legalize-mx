@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-55017"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2007-03-31"
+last_updated: "2008-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ZAC"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
 
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
 
 AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, a sus habitantes hago saber:
 
@@ -107,103 +107,107 @@ VII. Biodiversidad: La variabilidad de organismos vivos incluidos en los ecosist
 
 VIII. Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
 
-IX. Conservación: Mantener los ecosistemas en forma tal que se mantenga su equilibrio ecológico, llevando a cabo facciones de preservación o bien de aprovechamiento sustentable;
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
 
-X. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos en cantidades, concentraciones o niveles capaces de interferir en el bienestar y la salud de las personas, atentar contra la flora y la fauna o causar desequilibrio ecológico;
+IX. Cambio climático: Afectaciones que se presentan de manera global en la temperatura de la Tierra, atribuibles a la presencia de dióxido de carbono, metano, óxidos nitrosos y clorofluorocarbonos, que son producidos directa o indirectamente por la actividad humana y producen alteraciones espontáneas en las condiciones climáticas del planeta, en los patrones de precipitación global y en los ecosistemas;
 
-XI. Contaminante: Toda materia o energía, en cualesquiera de sus estados químicos o físicos y formas, que al incorporarse o actuar en la atmósfera, el agua, el suelo, la flora, la fauna o cualquier elemento natural, altere o modifique su composición y condición original;
+X. Conservación: Mantener los ecosistemas en forma tal que se mantenga su equilibrio ecológico, llevando a cabo facciones de preservación o bien de aprovechamiento sustentable;
 
-XII. Contaminación visual: La alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
+XI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos en cantidades, concentraciones o niveles capaces de interferir en el bienestar y la salud de las personas, atentar contra la flora y la fauna o causar desequilibrio ecológico;
 
-XIII. Contingencia ambiental: La situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+XII. Contaminante: Toda materia o energía, en cualesquiera de sus estados químicos o físicos y formas, que al incorporarse o actuar en la atmósfera, el agua, el suelo, la flora, la fauna o cualquier elemento natural, altere o modifique su composición y condición original;
 
-XIV. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+XIII. Contaminación visual: La alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
 
-XV. Criterios ecológicos: Los lineamientos contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
+XIV. Contingencia ambiental: La situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-XVI. Cultura Ambiental: El conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
+XV. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XVII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y busca la justicia social, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XVI. Criterios ecológicos: Los lineamientos contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
 
-XVIII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+XVII. Cultura Ambiental: El conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
 
-XIX. Disposición final: La acción de depositar permanentemente los residuos sólidos no susceptibles a reciclarse, en sitios y condiciones adecuadas para evitar daños al ambiente;
+XVIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y busca la justicia social, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XX. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
+XIX. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XXI. Educación ambiental: El proceso sistematizado de aprendizaje mediante el cual cualquier individuo adquiere conciencia de ser parte integrante de la naturaleza para actuar positivamente hacia ella;
+XX. Disposición final: La acción de depositar permanentemente los residuos sólidos no susceptibles a reciclarse, en sitios y condiciones adecuadas para evitar daños al ambiente;
 
-XXII. Ejecutivo del Estado: Al Gobernador o Gobernadora del Estado;
+XXI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
 
-XXIII. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente a nivel de intercambio de energía y de materia que hace posible la existencia y desarrollo de los seres vivos;
+XXII. Educación ambiental: El proceso sistematizado de aprendizaje mediante el cual cualquier individuo adquiere conciencia de ser parte integrante de la naturaleza para actuar positivamente hacia ella;
 
-XXIV. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
+XXIII. Ejecutivo del Estado: Al Gobernador o Gobernadora del Estado;
 
-XXV. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales, que al afectar severamente los elementos naturales pone en peligro uno o varios ecosistemas;
+XXIV. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente a nivel de intercambio de energía y de materia que hace posible la existencia y desarrollo de los seres vivos;
 
-XXVI. Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
+XXV. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
 
-XXVII. Estudio de riesgo: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate;
+XXVI. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales, que al afectar severamente los elementos naturales pone en peligro uno o varios ecosistemas;
 
-XXVIII. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
+XXVII. Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
 
-XXIX. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
+XXVIII. Estudio de riesgo: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate;
 
-XXX. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+XXIX. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
 
-XXXI. Fuente Móvil: Todo vehículo ya sea tractocamiones, autobuses, camiones, microbuses, automóviles, motocicletas, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera y que sea de competencia de esta Ley;
+XXX. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
 
-XXXII. Impacto ambiental: La modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
+XXXI. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-XXXIII. Instituto: El Instituto de Ecología y Medio Ambiente del Estado;
+XXXII. Fuente Móvil: Todo vehículo ya sea tractocamiones, autobuses, camiones, microbuses, automóviles, motocicletas, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera y que sea de competencia de esta Ley;
 
-XXXIV. Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas;
+XXXIII. Impacto ambiental: La modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XXXV. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XXXIV. Instituto: El Instituto de Ecología y Medio Ambiente del Estado;
 
-XXXVI. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
+XXXV. Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas;
 
-XXXVII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XXXVI. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXVIII. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XXXVII. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
 
-XXXIX. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
+XXXVIII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XL. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
+XXXIX. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLI. Normas oficiales mexicanas: El conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
+XL. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
 
-XLII. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+XLI. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
 
-XLIII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XLII. Normas oficiales mexicanas: El conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
 
-XLIV. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
+XLIII. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
-XLV. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
+XLIV. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XLVI. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
+XLV. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
 
-XLVII. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XLVI. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
 
-XLVIII. Recursos genéticos: El material genético de valor real o potencial;
+XLVII. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
 
-XLIX. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XLVIII. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-L. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
+XLIX. Recursos genéticos: El material genético de valor real o potencial;
 
-LI. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+L. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-LII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
+LI. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
 
-LIII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-LIV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
+LIII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
 
-LV. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+LIV. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LVI. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria, y
+LV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
 
-LVII. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+LVI. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+
+LVII. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria, y
+
+LVIII. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y SU COORDINACIÓN
 
@@ -231,7 +235,9 @@ III. Expedir los decretos relativos a la declaratoria, establecimiento, protecci
 
 IV. Proponer a la Federación la declaratoria de zonas de restauración ecológica dentro de la Entidad;
 
-V. Expedir el Programa ambiental para el desarrollo sustentable del Estado, los programas de ordenamiento ecológico y territorial y demás disposiciones que tengan por objeto la preservación del medio ambiente, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+V. Expedir el Programa ambiental para el desarrollo sustentable del Estado, los programas de ordenamiento ecológico y territorial y demás disposiciones que tengan por objeto la preservación del medio ambiente y el combate a los efectos del cambio climático, y;
 
 VI. Las demás que le confiera la presente Ley, sus reglamentos y otras disposiciones legales.
 
@@ -715,15 +721,19 @@ IV. Promover tecnologías orientadas al aprovechamiento racional de los recursos
 
 #### Sección primera. Disposiciones comunes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 43.
 
-La educación ambiental tiene como objetivo relacionar los problemas ambientales con las necesidades locales y regionales del desarrollo sustentable de la entidad, así como incorporar el enfoque interdisciplinario y de coordinación, con la finalidad de promover la conservación y el uso adecuado de los recursos naturales en el Estado.
+La educación ambiental tiene como objetivo relacionar los problemas ambientales con las necesidades locales y regionales del desarrollo sustentable de la entidad, así como la realización de acciones que ayuden a concientizar a la ciudadanía sobre los riesgos y las consecuencias del cambio climático, e incorporar el enfoque interdisciplinario y de coordinación con la finalidad de promover la conservación y el uso adecuado de los recursos naturales; (sic)
 
 Las autoridades educativas estatales y federales con la colaboración del Instituto, concertadamente con instituciones y organismos de los sectores social, académico y privado, procederán a revisar y hacer propuestas en los planes de estudio de los niveles escolares de preescolar, primaria y secundaria, a fin de incorporar, en la forma más amplia posible, los objetivos previstos en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 44.
 
-La cultura ambiental tiene por objeto propiciar actitudes y conductas de participación comunitaria en las tareas de protección, conservación y restauración del ambiente, el aprovechamiento sustentable de los recursos naturales y propiciar los conocimientos sobre las causas del deterioro del mismo y las medidas para su prevención y control.
+La cultura ambiental tiene por objeto propiciar actitudes y conductas de participación comunitaria en las tareas de protección, conservación y restauración del ambiente el aprovechamiento sustentable de los recursos naturales y propiciar los conocimientos sobre las causas del deterioro del mismo y las medidas para su prevención y control, así como participar en las medidas individuales y colectivas que se puedan tomar para reducir los efectos ocasionados por el cambio climático.
 
 ###### Artículo 45.
 
@@ -735,9 +745,15 @@ II. La incorporación en sus planes y programas de estudio, de los aspectos de c
 
 III. La coordinación y el fomento de acciones de cultura ambiental en la entidad, considerando los criterios regionales pertinentes e intensificando los esfuerzos para proteger y mejorar el estado actual del entorno, a fin de ampliar la cobertura de la educación ambiental a todos sus habitantes, para propiciar el fortalecimiento de la conciencia ecológica;
 
-IV. El desarrollo de una política educativa que promueva los principios, valores y prácticas de conservación y aprovechamiento sustentable de los recursos naturales en los que quede de manifiesto la relación entre el equilibrio ecológico y la calidad de vida de la población, elaborando programas de educación ambiental con dimensión paralela a las áreas de formación del pensamiento y el comportamiento del ser humano como conceptos básicos de una política educativa de formación ambiental, y
+IV. El desarrollo de una política educativa que promueva los principios, valores y prácticas de conservación y aprovechamiento sustentable de los recursos naturales en los que quede de manifiesto la relación entre el equilibrio ecológico y la calidad de vida de la población, elaborando programas de educación ambiental con dimensión paralela a las áreas de formación del pensamiento y el comportamiento del ser humano como conceptos básicos de una política educativa de formación ambiental, y (sic)
 
-V. Procurarán la permanente instrucción y actualización del magisterio en materia de ecología, medio ambiente y desarrollo sustentable.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+V. Procurarán la permanente instrucción y actualización del magisterio en materia de ecología, medio ambiente y desarrollo sustentable, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+VI. Concientizar a la ciudadanía sobre los riesgos y las consecuencias del cambio climático, así como sobre las medidas individuales y colectivas que deben tomarse para participar en la disminución de sus efectos.
 
 ###### Artículo 46.
 
@@ -783,9 +799,15 @@ IV. Los programas de sensibilización ambiental dirigidos a agricultores, ganade
 
 V. El impulso de proyectos de turismo alternativo y de aventura, en los términos de la Ley para el Desarrollo Turístico del Estado;
 
-VI. La implementación de programas tendientes a disminuir la generación de residuos, y
+VI. La implementación de programas tendientes a disminuir la generación de residuos, y (sic)
 
-VII. La ejecución de programas que fomenten la separación de residuos desde el lugar de su generación.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+VII. La ejecución de programas que fomenten la separación de residuos desde el lugar de su generación, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+VIII. La promoción y la realización de acciones que ayuden a disminuir los efectos producidos por el cambio climático, así mismo debe incentivarse a quien proteja el ambiente, promueva o realice acciones que ayuden a disminuir los efectos producidos por el cambio climático y aproveche de manera sustentable los recursos naturales.
 
 ###### Artículo 51.
 
@@ -1049,9 +1071,11 @@ IV. Instrumentará un sistema de reconocimientos y estímulos que permita identi
 
 ### Capítulo I. De la promoción y organismos de participación social
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 80.
 
-El Ejecutivo del Estado y los Ayuntamientos deberán promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
+El Ejecutivo del Estado y los Ayuntamientos deberán promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes a disminuir los efectos producidos por el cambio climático y a promover el desarrollo sustentable de la entidad.
 
 ###### Artículo 81.
 
@@ -1559,9 +1583,11 @@ I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos
 
 II. Las emisiones de contaminantes de la atmósfera, sean de fuentes naturales o artificiales, fijas o móviles, deben ser reducidas y controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 139.
 
-Para prevenir y controlar la contaminación atmosférica, los Gobiernos estatal y municipales, en el ámbito de sus respectivas competencias de conformidad con la presente Ley, tendrán las siguientes facultades:
+Para prevenir y controlar la contaminación atmosférica y los efectos producidos por el cambio climático, los gobiernos estatal y municipales, en el ámbito de sus respectivas competencias de conformidad con la presente Ley, tendrán las siguientes facultades:
 
 I. Controlar la contaminación del aire en los bienes y zonas de jurisdicción estatal, así como en fuentes fijas tales como establecimientos industriales, comerciales y de servicios;
 
@@ -1659,9 +1685,15 @@ I. Adquieran, instalen u operen equipo para el control de emisiones contaminante
 
 II. Fabriquen, instalen o proporcionen mantenimiento a equipo de filtrado, combustión, control, y en general, de tratamiento de emisiones que contaminen la atmósfera;
 
-III. Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes, y
+III. Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes, y (sic)
 
-IV. Ubiquen o se localicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+IV. Ubiquen o se localicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+V. Realicen obras o actividades que ayuden a disminuir las consecuencias del cambio climático.
 
 ### Capítulo III. De la prevención y control de la contaminación del agua y de los ecosistemas acuáticos
 
@@ -2318,3 +2350,13 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE AGOSTO DE 2008.
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Tercero.- El Ejecutivo del Estado deberá modificar la reglamentación de la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas, para ajustarla de conformidad con las reformas presentadas en este decreto en materia de cambio climático, a más tardar en un plazo de 90 días naturales después de su entrada en vigor.
