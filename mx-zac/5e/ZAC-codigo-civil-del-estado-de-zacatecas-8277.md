@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2001-07-04"
+last_updated: "2008-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -5801,7 +5801,11 @@ La responsabilidad de que habla este artículo no excederá de la suma de diez c
 
 Hay aceptación tácita en el caso del artículo anterior y también cuando se realiza un acto en ejecución del mandato.
 
-1933.- Pueden ser objeto de mandato todos los actos lícitos para los que la Ley no exige la intervención personal del interesado.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+1933.- Pueden ser objeto de mandato todos los actos lícitos para los que la ley no exige la intervención personal del interesado.
+
+El mandato habrá de subsistir aún cuando el mandante devenga incapaz si éste así lo dispuso en su otorgamiento, asimismo el mandatario podrá tomar decisiones sobre el tratamiento médico y el cuidado de la salud del mandante, aún cuando éste hubiere quedado incapaz, si para ello hubiere sido expresamente autorizado por el mandante. Este poder será revocado por el mandante capaz en todo momento. Igualmente podrá ser revocado por el tutor en caso de que el mandante devenga incapaz, con las formalidades previstas por la ley.
 
 1934.- Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 
@@ -5837,13 +5841,19 @@ Los Notarios insertarán este artículo en los testimonios de los poderes, que e
 
 1941.- El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesario la previa ratificación de las firmas, cuando el interés del negocio para el que se confiera exceda del valor correspondiente a cinco cuotas del salario mínimo vigente y no de cincuenta cuotas, ya que si sobrepasa deberá otorgarse en escritura pública.
 
-1942.- El mandato debe otorgarse en escritura pública:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+
+1942.- El mandato debe otorgarse ante Notario Público:
 
 I.- Cuando el interés del negocio para el que se confiere exceda de cincuenta cuotas del valor del salario mínimo vigente;
 
-II.- Cuando sea general; y
+II.- Cuando sea general; y (sic)
 
-III.- Cuando en virtud de él haya de ejecutar el mandatario a nombre del mandante, algún acto que conforme a la ley deba constar en instrumento público.
+III.- Cuando en virtud de él haya de ejecutar el mandatario a nombre del mandante, algún acto que conforme a la ley deba constar en instrumento público;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+IV.- En el supuesto del segundo párrafo del artículo 1933.
 
 1943.- La omisión de los requisitos de forma o de alguno de ellos anula el mandato.
 
@@ -5987,7 +5997,9 @@ II.- Por la renuncia del mandatario;
 
 III.- Por la muerte del mandante o del mandatario;
 
-IV.- Por la interdicción de uno u otro;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
+
+IV.- Por la interdicción de uno u otro; excepto que hubiere sido otorgado en los términos del segundo párrafo del artículo 1933 y cuando el mandato se hubiere otorgado con la mención expresa de que habría de subsistir, aún cuando el mandante se devengue incapaz;
 
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que le fue concedido;
 
@@ -8070,3 +8082,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- La Junta Directiva del Consejo Promotor de la Vivienda Popular, procederá a expedir y publicar las adecuaciones al Estatuto Orgánico, así como el Reglamento de Escrituración, Protocolo y Registro, que resultan de este decreto, en un plazo no mayor de treinta días hábiles, contados a partir de que entre en vigor este Decreto.
+
+P.O. 30 DE AGOSTO DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan este Decreto.
