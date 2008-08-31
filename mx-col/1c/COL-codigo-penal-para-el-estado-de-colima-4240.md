@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2008-07-05"
+last_updated: "2008-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -1385,7 +1385,9 @@ I.- Funcionarios electorales: quienes en los términos de la Ley Electoral del E
 
 II.- Funcionarios partidistas: los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales, los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la ley de la materia, y
 
-III.- Documentos públicos electorales: las boletas electorales, las actas oficiales de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, y en general, los documentos expedidos en el ejercicio de sus funciones, por los órganos del Instituto Electoral del Estado.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+III.- Documentos públicos electorales: las boletas electorales, las actas oficiales de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, y en general, los documentos expedidos en el ejercicio de sus funciones, por las autoridades Electorales del Estado.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1395,13 +1397,17 @@ Se impondrá prisión de seis meses a tres años y multa hasta por veinte unidad
 
 I.- Vote a sabiendas de que no cumple con los requisitos de la ley, o vote más de una vez en una misma elección;
 
-II.- Vote o pretenda votar con una credencial de la que no sea titular;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+II.- Vote o pretenda votar con una credencial de elector, de la que no sea titular;
 
 III.- Haga proselitismo o presione a los electores el día de la jornada electoral, en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
 
 IV.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
 
-V.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+V.- Ofrezca o Solicite (sic) una paga, dádiva o promesa de dinero u otra recompensa, a cambio de votar a favor de determinado partido político, coalición o candidato;
 
 VI.- Impida en forma violenta la instalación de una casilla, obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio, o del cómputo;
 
@@ -1413,13 +1419,17 @@ VII.- Viole de cualquier manera el secreto del voto, o recoja sin causa prevista
 
 VIII.- Introduzca en las urnas o sustraiga ilícitamente de ellas, una o mas boletas electorales; o destruya o altere boletas o documentos públicos electorales;
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-IX.- Haga proselitismo dentro de los tres días previos al de la jornada electoral; o
+IX.- Haga proselitismo dentro de los tres días previos al de la jornada electoral;
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-X.- Durante los 6 días previos al de la jornada electoral y hasta la hora del cierre oficial de las casillas, difunda o publique por cualquier medio, los resultados de encuestas, sondeos de opinión o conteos rápidos que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
+X.- Durante los 6 días previos al de la jornada electoral y hasta la hora del cierre oficial de las casillas, difunda o publique por cualquier medio, los resultados de encuestas, sondeos de opinión o conteos rápidos que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos; o
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+XI.- Realice u ordene la distribución de propaganda electoral fuera de los tiempos electorales durante campañas y precampañas que señale la ley en la materia, los estatutos, o en sus caso (sic), la convocatoria de un PARTIDO POLÍTICO.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1453,9 +1463,17 @@ I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o
 
 II.- Sustraiga, destruya, altere o haga uso indebido de documentos públicos electorales;
 
-III.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales, o
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-IV.- Impida con violencia la apertura, instalación o cierre de una casilla; o interfiera u obstaculice el escrutinio o cómputo.
+III.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+IV.- Impida con violencia la apertura, instalación o cierre de una casilla; o interfiera u obstaculice el escrutinio o cómputo, o
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+V.- Realice u ordene la distribución de propaganda electoral fuera de los tiempos electorales durante campañas y precampañas que señale la ley en la materia, los estatutos o en sus caso (sic) la convocatoria de un PARTIDO POLÍTICO.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1481,11 +1499,17 @@ V.- Se niegue sin causa justificada a dar fe de hechos o certificar documentos c
 
 Se impondrá prisión de dos a siete años, a quien por cualquier medio participe en la alteración del registro de electores del Padrón Electoral y los listados nominales o en la expedición ilícita de Credenciales para Votar.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 135 Bis 7.
 
-Se impondrá de tres días a dos años de prisión y multa hasta por 50 unidades, a los ministros de cultos de cualquier religión o secta, que en el desarrollo de actos propios de su ministerio, por cualquier medio fomenten la abstención o induzcan al electorado a votar en favor o en contra de un determinado candidato o partido político.
+Se impondrá de tres días a dos años de prisión y multa hasta por 50 unidades, a los ministros de cultos de cualquier religión o secta, que en el desarrollo de actos propios de su ministerio, por cualquier medio fomenten la abstención o induzcan al electorado a votar en favor o en contra de un determinado partido político, coalición o candidato.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+###### ARTICULO 135 Bis 8.
+
+Se impondrá prisión de dos a siete años y multa hasta por 100 unidades, al que por cualquier medio, difunda o publique, por sí o por interpósita persona, propaganda política o electoral con expresiones que denigren a las instituciones y a los propios partidos políticos, o que calumnien o difamen a cualquier persona durante una campaña o precampaña electoral, en perjuicio de un partido político, coalición o candidato.
 
 ## TITULO TERCERO.
 
@@ -3478,3 +3502,7 @@ DECRETO NO. 294, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS TITULOS, CAPITULOS 
 P.O. 5 DE JULIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Calima".
+
+P.O. 31 DE AGOSTO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado Colima".
