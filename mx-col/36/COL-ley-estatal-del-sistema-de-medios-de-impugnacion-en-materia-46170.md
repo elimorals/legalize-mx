@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia-461
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-31"
-last_updated: "2005-08-31"
+last_updated: "2008-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2008.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2005.
 
@@ -105,9 +105,11 @@ p) PLENO: el Pleno del Tribunal Electoral del Estado.
 
 La resolución de los medios de impugnación previstos en esta LEY, deberá ser conforme a la letra o a la interpretación jurídica de la misma bajo los criterios gramatical, sistemático y funcional, y a falta de ésta se fundara en los principios generales del derecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 5o.
 
-Los recursos, son los medios de impugnación puestos a disposición de quienes estén legitimados por esta LEY, que tienen por objeto la revocación o la modificación de las decisiones, resoluciones y dictámenes emitidos por los órganos electorales, así como la nulidad de una votación o de una elección.
+Los recursos, son los medios de impugnación puestos a disposición de quienes estén legitimados por esta LEY, que tienen por objeto la revocación, la modificación o la confirmación de las decisiones, resoluciones y dictámenes emitidos por los órganos electorales, así como la nulidad de una votación o de una elección.
 
 El sistema de medios de impugnación se integra por:
 
@@ -117,7 +119,9 @@ b) El recurso de revisión;
 
 c) El recurso de inconformidad; y
 
-d) El recurso de la libre asociación.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+d) El recurso de la libre asociación y de participación ciudadana.
 
 ###### Artículo 6o.
 
@@ -191,11 +195,21 @@ Los estrados son los lugares destinados en las oficinas de los órganos electora
 
 En casos urgentes o extraordinarios y a juicio del Presidente, exclusivamente las notificaciones que se ordenen por el TRIBUNAL podrán hacerse por fax, y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse su recibo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 15.
 
-Las notificaciones personales se harán al interesado a más tardar al día siguiente de aquél en que se dictó el acto o la resolución. Se entenderán personales sólo aquellas notificaciones que con tal carácter establezca la presente LEY.
+Las notificaciones personales se harán al interesado a más tardar al día siguiente de aquél en que se dictó el acto o la resolución. Se entenderán como personales las siguientes:
 
-Las notificaciones personales a que se refiere esta LEY, se harán en el domicilio del promovente únicamente cuando éste lo haya señalado en la capital del MUNICIPIO.
+I. La resolución que admita, deseche, sobresea o tenga por no interpuesto el medio de impugnación de que se trate;
+
+II. Las resoluciones definitivas que recaigan a los medios de impugnación, y
+
+III. Cualquier acto, acuerdo o resolución que emitan los órganos del INSTITUTO o el TRIBUNAL y estimen necesario notificarse personalmente para la mejor eficacia del acto.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+Las notificaciones personales a que se refiere esta LEY, se harán en el domicilio del promovente únicamente cuando éste lo haya señalado en la capital del ESTADO, y a falta de éste se le notificará por estrados.
 
 Las cédulas de notificación personal deberán contener el lugar, hora y fecha en que éstas se hacen, la descripción del acto o resolución que se notifica y el nombre de la persona con quien se entiende la diligencia.
 
@@ -217,9 +231,11 @@ II.- Al CONSEJO GENERAL o CONSEJOS MUNICIPALES cuyo acto o resolución fue impug
 
 III.- A los terceros interesados, por correo certificado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 18.
 
-Las resoluciones del TRIBUNAL recaídas a los recursos de revisión, apelación o de la libre asociación, serán notificadas a los órganos electorales que correspondan, así como a quien los haya interpuesto y a los terceros interesados, personalmente, por estrados, por correo certificado, telegrama o vía fax a solicitud de parte, una vez que haya registrado el número correspondiente. En este último caso, la notificación surtirá efectos a partir de que se tenga constancia de su recepción o se acuse su recibo.
+Las resoluciones del TRIBUNAL recaída a los recursos de revisión y apelación serán notificadas a los órganos electorales que correspondan, así como a quien los hayan interpuesto y a los terceros interesados, personalmente, por estrados, por correo certificado, telegrama o vía fax, una vez que haya registrado el número correspondiente. En este último caso, la notificación surtirá efectos a partir de que se tenga constancia de su recepción o se acuse su recibo.
 
 También podrá realizarse la notificación por correo electrónico y en este caso el acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado. Para los efectos de este párrafo, se entenderá como firma electrónica del notificado, la que se genere al utilizar la clave que el TRIBUNAL le proporcione para abrir el documento digital que le hubiera sido enviado.
 
@@ -233,11 +249,21 @@ No requerirán de notificación personal y surtirán sus efectos al día siguien
 
 Serán partes en el procedimiento para tramitar los medios de impugnación en materia electoral:
 
-I.- El actor, que será el PARTIDO POLITICO o coalición que lo interponga, debiendo observar las reglas de legitimación previstas en esta LEY;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-II.- La autoridad responsable, que es el organismo electoral que realizó el acto, emitió el acuerdo o dictó la resolución que se impugna; y
+I.- El actor, que será el PARTIDO POLlTICO o coalición o ciudadano que lo interponga, debiendo observar las reglas de legitimación previstas en esta LEY;
 
-III.- El tercero interesado, que será el ciudadano, el PARTIDO POLITICO o la coalición, el candidato o cualquier persona que tenga un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+II.- La autoridad responsable, que es el organismo electoral que realizo el acto, emitió el acuerdo o dicto la resolución que se impugna;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+III.- El tercero interesado, que será el ciudadano, el PARTIDO POLITICO o la coalición, el candidato o cualquier persona que tenga un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+IV.- El Instituto Político responsable, que es el PARTIDO POLÏTICO (SIC) que emitió el acto de expulsión la inhabilitación respectiva o bien determinó la anulación de un proceso interno.
 
 ### CAPÍTULO VI. De las reglas del procedimiento para la tramitación de los recursos
 
@@ -245,7 +271,9 @@ III.- El tercero interesado, que será el ciudadano, el PARTIDO POLITICO o la co
 
 Los medios de impugnación deberán presentarse por escrito ante la autoridad señalada como responsable del acto, acuerdo o resolución impugnada, salvo disposición en contrario por la LEY, y deberá cumplir con los siguientes requisitos:
 
-I. - Hacer constar el nombre del actor y el carácter con el que promueve y domicilio para recibir notificaciones en la capital del MUNICIPIO; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+I.- Hacer constar el nombre del actor y el carácter con el que promueve y domicilio para recibir notificaciones en la capital del ESTADO; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
 
 II.- En caso de que el recurrente no tenga acreditada la personería ante los órganos electorales correspondientes, acompañará su promoción con los documentos necesarios para acreditarla;
 
@@ -263,9 +291,15 @@ Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no 
 
 Cuando el medio de impugnación no se presente por escrito a la autoridad responsable, incumpla cualquiera de los requisitos previstos en las fracciones de la I a la VI, resulte evidentemente frívolo o cuya notoria improcedencia se derive de las disposiciones del presente ordenamiento, se desechará de plano. También operará el desechamiento a que se refiere este párrafo, cuando no existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+La omisión al requisito señalado en la fracción V de este artículo no dará lugar al desechamiento del medio de impugnación de que se trate. En todo caso la autoridad que conozca del mismo resolverá con base en las constancias y pruebas que obren en el expediente.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 22.
 
-Los recursos de revisión y apelación se interpondrán ante el órgano del INSTITUTO que realizó el cómputo o que dictó el acto o resolución que se impugna. El de inconformidad se presentará ante el TRIBUNAL.
+Los recursos de revisión y apelación se interpondrán ante el órgano del INSTITUTO que realizó el cómputo o que dictó el acto o resolución que se impugna, el de libre asociación y de participación ciudadana y el de inconformidad se presentarán ante el TRIBUNAL.
 
 ###### Artículo 23.
 
@@ -303,11 +337,21 @@ V.- El informe circunstanciado que debe rendir la autoridad responsable, mencion
 
 Recibido el recurso de revisión por el CONSEJO GENERAL, el Presidente del mismo lo turnará al Secretario Ejecutivo para que certifique que se interpuso en tiempo y que cumple los requisitos que exige esta LEY.
 
-Si el recurso debe desecharse por ser notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el Secretario Ejecutivo u otro Consejero designado por el Presidente, procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al CONSEJO GENERAL en la primera sesión que celebre después de su recepción. La resolución que se dicte en la sesión será engrosada por el Secretario Ejecutivo en los términos que determine el propio Consejo.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
 
-Si el CONSEJO MUNICIPAL que remitió el recurso omitió algún requisito, el Secretario Ejecutivo de éste lo hará del inmediato conocimiento de su Presidente para que éste, a su vez, requiera la complementación del o los requisitos omitidos.
+Si el recurso debe desecharse por ser notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el Secretario Ejecutivo u otro Consejero designado por el Presidente como ponente, procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al CONSEJO GENERAL dentro del término establecido en ésta LEY.. (sic) La resolución que se dicte en la sesión será engrosada por el Secretario Ejecutivo en los términos que determine el propio Consejo.
 
-En todo caso, el recurso deberá resolverse con los elementos con que se cuente a más tardar 15 días contados a partir de su recepción.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+El Consejero Ponente en coordinación con el Presidente del CONSEJO GENERAL realizará todos los actos y diligencias necesarias para la completa y debida integración del o los expedientes de revisión de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente que firmará el Presidente del Consejo junto con Secretario Ejecutivo.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+Si el CONSEJO MUNICIPAL que remitió el recurso omitió algún requisito, el Secretario Ejecutivo de éste lo hará del inmediato conocimiento de su Presidente para que éste, a su vez lo comunique por oficio al Presidente del CONSEJO GENERAL Y éste realice lo que conforme a derecho proceda.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+En todo caso, el recurso deberá resolverse con los elementos con que se cuente a más tardar 15 días contados a partir de su admisión.
 
 ###### Artículo 26.
 
@@ -315,25 +359,37 @@ Recibido el recurso de apelación por el TRIBUNAL, inmediatamente dictará auto 
 
 Si de la revisión que realice el Secretario General de Acuerdos se encuentra que el recurso es evidentemente frívolo o encuadra en alguna de las causales de improcedencia a que se refiere el artículo 32 de esta LEY o, en su caso, si se han cumplido todos los requisitos, éste procederá a formular el proyecto de resolución de admisión o desechamiento correspondiente, mismo que será sometido a la decisión del PLENO.
 
-Hecho lo anterior, el expediente será turnado por el Presidente al Magistrado designado como ponente, quien revisará la integración, realizando para ello todos los actos y diligencias necesarias y elaborará el proyecto de resolución definitiva, que será sometido a la decisión del PLENO.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+Una vez admitido el recurso de apelación, el Secretario General de Acuerdos integrará hasta ese momento el expediente correspondiente, comunicándolo así al Magistrado Presidente para que éste lo turne al Magistrado designado como Ponente y auxiliado del proyectista del TRIBUNAL presente un proyecto de resolución a fin de que lo someta a la decisión del PLENO dentro del término establecido para su resolución.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+El Magistrado Ponente en coordinación con el Presiente del TRIBUNAL realizará todos los actos y diligencias necesarias para la completa y debida integración de o los expedientes de apelación, de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente que firmará el Presidente y el Secretario General de Acuerdos.
 
 El TRIBUNAL dispondrá de 10 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este recurso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 27.
 
-Para la tramitación del recurso de inconformidad, una vez que el TRIBUNAL reciba el escrito de interposición, inmediatamente dictará auto de radicación. Acto seguido el Secretario General de Acuerdos, dentro de las 24 horas siguientes a su recepción, deberá revisar que reúna todos los requisitos señalados en la presente LEY.
+Para la tramitación del recurso de inconformidad, una vez que el TRIBUNAL reciba el escrito de interposición, inmediatamente dictará auto de radicación. Acto seguido el Secretario General de Acuerdos, dentro de las 24 horas siguientes a su recepción, deberá revisar que reúna todos los requisitos señalados en la presente LEY y solicitará a la autoridad responsable el informe circunstanciado correspondiente, mismo que deberá de admitirse en los términos de la fracción V, del artículo 24 de ésta LEY, dentro de las 24 horas siguientes al momento en que haya sido formalmente notificada la solicitud respectiva.
 
-Si de la revisión que realice el Secretario General de Acuerdos encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el artículo 32 de esta LEY o que es evidentemente frívolo, someterá desde luego, a la consideración del PLENO, la resolución para su desechamiento de plano.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+Si de la revisión que realice el Secretario General de Acuerdos encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el artículo 32 de esta LEY o que es evidentemente frívolo, someterá desde luego, a la consideración del PLENO, la resolución para su desechamiento de plano, omitiendo en éste caso solicitar el informe circunstanciado correspondiente.
 
 Si el recurso reúne todos los requisitos, el Secretario General de Acuerdos formulará el proyecto de resolución de admisión correspondiente, mismo que someterá a la decisión del PLENO, quien ordenará se fije copia en los estrados del TRIBUNAL.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 28.
 
-El Secretario General de Acuerdos realizará todos los actos y diligencias necesarios para la integración de los expedientes de los recursos de inconformidad, de manera que los ponga en estado de resolución.
+Una vez admitido el recurso de inconformidad, el Secretario General de Acuerdos integrará hasta ese momento el expediente correspondiente, comunicándolo así al Magistrado Presidente para que éste lo turne al Magistrado designado como Ponente y auxiliado del proyectista respectivo, presente un proyecto de resolución a fin de que lo someta a la decisión del PLENO dentro del término establecido para su resolución.
 
-Integrado el expediente del recurso de inconformidad por el Secretario General de Acuerdos, será turnado por el Presidente al proyectista que corresponda para que éste formule y presente un proyecto de resolución al Magistrado designado como ponente, a fin de que si lo estima conveniente, lo apruebe y lo someta a la decisión del PLENO.
+El Magistrado Ponente en coordinación con el Presiente del TRIBUNAL realizará todos los actos y diligencias necesarias para la completa y debida integración de o (sic) los expedientes de inconformidad, de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente.
 
-EL TRIBUNAL dispondrá de 10 días, contados a partir del día siguiente al en que se dicte el auto de admisión, para substanciar y resolver este recurso.
+EL TRIBUNAL dispondrá de 10 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este recurso.
 
 ###### Artículo 29.
 
@@ -355,9 +411,13 @@ El Presidente deberá ordenar que se fije en los estrados con una anticipación 
 
 El TRIBUNAL determinará la hora y día de sus sesiones públicas.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 31.
 
-El Magistrado ponente podrá solicitar a las autoridades federales, estatales o municipales o requerir a los diversos órganos del INSTITUTO, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, las que deberán proporcionarlos oportunamente. Igualmente, en casos extraordinarios, dicho Magistrado podrá ordenar que se realice alguna diligencia o perfeccione una prueba, siempre que lo anterior no sea obstáculo para resolver dentro de los plazos establecidos en esta LEY. La no colaboración será notificada por el TRIBUNAL al superior jerárquico, cuando así sea procedente, para que imponga la sanción correspondiente.
+El Magistrado Presidente ponente podrá solicitar a las autoridades federales, estatales o municipales o requerir a los diversos órganos del INSTITUTO, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, las que deberán proporcionarlos oportunamente.
+
+En casos extraordinarios el Magistrado Ponente podrá ordenar que se realice alguna diligencia o perfeccione una prueba, siempre que lo anterior no sea obstáculo para resolver dentro de los plazos establecidos en esta LEY. La no colaboración será notificada por el TRIBUNAL al superior jerárquico, cuando así sea procedente, para que imponga la sanción correspondiente, con independencia de imponer las sancione (sic) en los términos del Código Electoral del Estado.
 
 ### CAPÍTULO VII. De la improcedencia y del sobreseimiento
 
@@ -365,11 +425,15 @@ El Magistrado ponente podrá solicitar a las autoridades federales, estatales o 
 
 Los medios de impugnación previstos en esta LEY serán improcedentes en los casos siguientes:
 
-I. Cuando se pretenda impugnar la no conformidad a la Constitución;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+I. Cuando se pretenda impugnar la no conformidad a la CONSTITUCIÓN FEDERAL;
 
 II. Cuando los actos, acuerdos o resoluciones que se pretendan impugnar no se ajusten a las reglas particulares de procedencia de cada medio de impugnación;
 
-III. Cuando se pretenda impugnar actos, acuerdos o resoluciones, que no afecten el interés jurídico del actor; que se hayan consumado de un modo irreparable; que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de la voluntad que entrañen ese consentimiento; o aquellos contra los cuales no se hubiese interpuesto el medio de impugnación respectivo, dentro de los plazos señalados en esta LEY;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+III. Cuando se pretenda impugnar actos, acuerdos o resoluciones, que no afecten el interés legitimo del actor; que se hayan consumado de un modo irreparable; que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de la voluntad que entrañen ese consentimiento; o aquellos contra los cuales no se hubiese interpuesto el medio de impugnación respectivo, dentro de los plazos señalados en esta LEY;
 
 IV. Que el promovente carezca de legitimación en los términos de la presente LEY;
 
@@ -387,7 +451,9 @@ II.- Cuando la autoridad electoral modifique o revoque el acto o resolución imp
 
 III.- Cuando durante el procedimiento sobrevenga alguna de las causas de improcedencia previstas en el artículo anterior; y
 
-IV.- En su caso, cuando durante el procedimiento de un recurso de apelación el ciudadano recurrente fallezca o sea suspendido o privado del goce de sus derechos políticos.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+IV.- En su caso, cuando durante el procedimiento de un recurso de apelación el ciudadano recurrente fallezca o sea suspendido o privado del goce de sus derechos políticos siempre y cuando no se afecten intereses de terceros.
 
 ### CAPÍTULO VIII. De la acumulación
 
@@ -397,7 +463,9 @@ Podrán acumularse los expedientes de aquellos recursos de revisión o apelació
 
 El TRIBUNAL podrá acumular los expedientes de los recursos de inconformidad que a su juicio lo ameriten.
 
-Todos los recursos de revisión y apelación interpuestos dentro de los 5 días anteriores a la elección, serán enviados al TRIBUNAL, para que sean resueltos junto con los recursos de inconformidad con los que guarden relación. El recurrente deberá señalar la conexidad de la causa en el recurso de inconformidad.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+Todos los recursos de revisión y de apelación interpuestos dentro de los 5 días anteriores a la elección, serán enviados al TRIBUNAL, para que sean resueltos junto con los recursos de inconformidad y los de la libre asociación y participación ciudadana con los que guarden relación. El recurrente deberá señalar la conexidad de la causa en el recurso de inconformidad.
 
 Cuando los recursos a que se refiere el párrafo anterior no guarden relación con uno de inconformidad, serán archivados como asuntos definitivamente concluidos.
 
@@ -423,6 +491,10 @@ La Confesional y la testimonial podrán ser ofrecidas y admitidas cuando versen 
 
 Los órganos competentes para resolver podrán ordenar el desahogo de reconocimientos o inspecciones, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para que con su perfeccionamiento se pueda modificar, revocar o anular el acto, acuerdo o resolución impugnada.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+Las pruebas deberán ofrecerse expresando claramente el hecho o hechos que se trata de demostrar con las mismas, así como las razones por las que el oferente considera que demostrará sus afirmaciones. Si a juicio del TRIBUNAL las pruebas ofrecidas no cumplen con las condiciones apuntadas, serán desechadas
+
 ###### Artículo 36.
 
 Para los efectos de esta LEY:
@@ -439,7 +511,9 @@ d).- Los documentos expedidos por quienes estén investidos de fe pública de ac
 
 II.- Serán pruebas documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y se relacionen con sus pretensiones;
 
-III.- Serán pruebas técnicas todos aquellos medios de reproducción de imágenes y sonidos y en general todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogadas sin la necesidad de peritos que tengan por objeto crear convicción en los Magistrados del TRIBUNAL acerca de los hechos controvertidos. En estos casos, el oferente deberá señalar concretamente aquello que pretende probar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+III.- Serán pruebas técnicas todos aquellos medios de reproducción de imágenes y sonidos y en general todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogadas sin la necesidad de peritos que tengan por objeto crear convicción en los Consejeros del INSTITUTO o Magistrados del TRIBUNAL acerca de los hechos controvertidos. En estos casos, el oferente deberá señalar además de lo dispuesto en el segundo párrafo del artículo 35 de la presente LEY, identificar a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
 
 Así mismo deberá proveer a la autoridad ante la cual se ofrezca la prueba, aquellos elementos técnicos que sean necesarios para su reproducción.
 
@@ -467,7 +541,9 @@ III. Los reconocimientos o inspecciones tendrán valor probatorio pleno, cuando 
 
 IV. Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial y las periciales, sólo harán prueba plena cuando a juicio del órgano competente para resolver, los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
-En ningún caso se tomarán en cuenta para resolver las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos o conocidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+En ningún caso se tomarán en cuenta para resolver las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos o conocidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción correspondiente.
 
 ###### Artículo 38.
 
@@ -479,9 +555,11 @@ El TRIBUNAL, según la naturaleza de los hechos y el enlace lógico y natural qu
 
 Para el oportuno desahogo de las pruebas a que se refiere este Capítulo, las autoridades y los órganos electorales deberán expedir las que obren en su poder inmediatamente que se les soliciten. La infracción a esta disposición será notificada por la autoridad electoral al superior jerárquico, cuando así sea procedente, para que imponga la sanción correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 40.
 
-El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los recursos, las pruebas que obren en su poder. En caso contrario, señalará la autoridad que deba proporcionarla.
+El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los recursos, las pruebas que obren en su poder. En caso contrario, señalará la autoridad que deba proporcionarla, atendiendo previamente lo dispuesto en la fracción V del artículo 21 de la presente LEY.
 
 Ninguna prueba aportada fuera de estos casos será tomada en cuenta al resolver el recurso interpuesto.
 
@@ -527,21 +605,17 @@ Cuando se omita señalar los preceptos jurídicos presuntamente violados o se ci
 
 ### CAPÍTULO I. De la procedencia
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 44.
 
-Durante el tiempo que transcurra entre dos procesos electorales el recurso de apelación será procedente en contra:
+Durante el tiempo que transcurra entre dos procesos electorales el recurso de apelación será procedente en contra de los actos y resoluciones del CONSEJO GENERAL.
 
-I.- De los actos y resoluciones del CONSEJO GENERAL; y
-
-II.- De las resoluciones que nieguen el registro de las asociaciones interesadas en constituirse en PARTIDO POLÍTICO local.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 45.
 
-Durante el proceso electoral el recurso de apelación será procedente, en contra:
-
-I.- De las resoluciones que recaigan a los recursos de revisión dictadas por el CONSEJO GENERAL; y
-
-II.- De los actos y resoluciones del CONSEJO GENERAL.
+Durante el proceso electoral el recurso de apelación será procedente, en contra de los actos y resoluciones del CONSEJO GENERAL.
 
 ### CAPÍTULO II. De la competencia
 
@@ -563,17 +637,21 @@ II.- Los ciudadanos o todo aquel que acredite su interés legítimo.
 
 ### CAPÍTULO IV. De las sentencias
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 48.
 
-Las sentencias de fondo que recaigan al recurso de apelación, tendrán como efecto confirmar, modificar o revocar el acto o resolución impugnado.
+Las resoluciones definitivas que recaigan al recurso de apelación, tendrán como efecto confirmar, modificar o revocar el acto o resolución impugnado.
 
 Los recursos de apelación serán resueltos por el TRIBUNAL dentro de los 10 días siguientes a aquel en que se admitan.
 
 ### CAPÍTULO V. De las notificaciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 49.
 
-Las sentencias del TRIBUNAL recaídas a los recursos de apelación, serán notificadas de la siguiente manera:
+Las resoluciones del TRIBUNAL recaídas a los recursos de apelación, serán notificadas de la siguiente manera:
 
 I.- Al actor, anexando copia certificada de la resolución;
 
@@ -623,9 +701,11 @@ Los recursos de revisión serán resueltos por el CONSEJO GENERAL dentro de los 
 
 ### CAPÍTULO I. De la procedencia
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 54.
 
-Durante el proceso electoral el recurso de inconformidad será procedente, para impugnar por error aritmético:
+Durante el proceso electoral el recurso de inconformidad será procedente, para impugnar la probable inelegibilidad de un candidato conocida o surgida después de la jornada electoral, así como para impugnar por error aritmético:
 
 I.- Los cómputos municipales y distritales de la elección de Diputados de mayoría relativa o de Ayuntamientos;
 
@@ -653,11 +733,21 @@ I.- El cómputo municipal, distrital o de circunscripción plurinominal que se i
 
 II.- La elección que se impugna;
 
-III.- La mención precisa de las casillas cuya votación se solicite que se anule en cada caso; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-IV.- La relación que, en su caso, guarde el recurso con otras impugnaciones.
+III.- La mención precisa de las casillas cuya votación se solicite que se anule en cada caso;
 
-Cuando el recurrente omita alguno de los requisitos señalados en las fracciones III y IV del artículo anterior, el CONSEJO GENERAL o el TRIBUNAL, requerirán al promovente para que los subsane en un plazo de 24 horas contadas a partir de la fijación en estrados del requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+IV.- La relación que, en su caso, guarde el recurso con otras impugnaciones, y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+V.- En su caso el o los requisitos de elegibilidad que se considera no reúne el candidato respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
+Cuando el recurrente omita alguno de los requisitos señalados en las fracciones III y IV de este artículo, el TRIBUNAL, requerirán al promovente para que los subsane en un plazo de 24 horas contadas a partir de la fijación en estrados del requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
 
 ### CAPÍTULO III. De la competencia
 
@@ -685,7 +775,9 @@ Las resoluciones que recaigan a los recursos de inconformidad podrán tener los 
 
 I.- Confirmar los resultados consignados en las actas de cómputo municipal, distrital o de circunscripción plurinominal;
 
-II.- Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador, cuando se den los supuestos previstos en el artículo 69 de esta LEY, y modificar, en consecuencia, el acta de cómputo municipal respectiva;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+II.- Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador, cuando se den los supuestos previstos en el artículo 69 de esta LEY, y modificar, en consecuencia, el acta de cómputo municipal y estatal respectivas;
 
 III.- Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en el artículo 69 de esta LEY y modificar, en consecuencia, el acta del cómputo municipal o estatal respectiva para la elección de Ayuntamientos y Diputados de mayoría relativa;
 
@@ -695,9 +787,17 @@ V.- Declarar la nulidad de la elección y revocar la constancia de mayoría expe
 
 VI.- Declarar la nulidad del cómputo de la elección de Diputados y de miembros de Ayuntamientos por el principio de representación proporcional cuando se dé el supuesto de error aritmético en el mismo;
 
-VII.- Modificar la asignación de Diputados y de Regidores por el principio de representación proporcional; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-VIII.- Corregir los cómputos de la elección de Gobernador, de Diputados de mayoría relativa y de Ayuntamientos, cuando sean impugnados por error aritmético.
+VII.- Modificar la asignación de Diputados y de regidores por el principio de representación proporcional;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+VIII.- Corregir los cómputos de la elección de Gobernador, de Diputados de mayoría relativa y de Ayuntamientos, cuando sean impugnados por error aritmético, y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+IX.- Determinar la nulidad de elección o en su caso revocar la constancia de mayoría respectiva al candidato declarado inelegible sin que se afecten los derechos de terceros;
 
 Los recursos de inconformidad serán resueltos por el TRIBUNAL dentro de los 10 días siguientes a aquél en que se admitan.
 
@@ -707,73 +807,93 @@ El TRIBUNAL sólo podrá declarar la nulidad de la votación recibida en una o v
 
 ### CAPÍTULO VI. De las notificaciones
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 61.
 
-Las sentencias del TRIBUNAL recaídas a los recursos de inconformidad, serán notificadas de la siguiente manera:
+Las resoluciones del TRIBUNAL recaídas a los recursos de inconformidad, serán notificadas de la siguiente manera:
 
-I.- Al PARTIDO POLITICO o coalición recurrente y a los terceros interesados, personalmente siempre y cuando hayan señalado domicilio en la ciudad de Colima. En caso contrario, se hará mediante cédula colocada en los estrados del TRIBUNAL, a más tardar al día siguiente en que se dictó la resolución. La cédula se acompañará de copia simple de la resolución respectiva; y
+I.- Al PARTIDO POLÍTICO o coalición recurrente y a los terceros interesados, personalmente siempre y cuando hayan señalado domicilio en la ciudad de Colima. En caso contrario, se hará mediante cédula colocada en los estrados del TRIBUNAL, a más tardar al día siguiente en que se dictó la resolución. La cédula se acompañará de copia simple de la resolución, acompañando copia certificada de la resolución respectiva, y
 
-II.- Al CONSEJO GENERAL y a los CONSEJOS MUNICIPALES, la notificación se les hará mediante oficio, acompañado de copia certificada del expediente y de la resolución. Esta documentación se entregará a más tardar dentro de las 48 horas siguientes a la fecha del fallo, en sus respectivos domicilios.
+II.- Al CONSEJO GENERAL y a los CONSEJOS MUNICIPALES, la notificación se les hará mediante oficio, acompañado de una copia certificada del expediente y de la resolución. Esta documentación se entregará a más tardar dentro de las 48 horas siguientes a la fecha del fallo, en sus respectivos domicilios.
 
-## TÍTULO CUARTO. Del recurso de la libre asociación
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2008)</small>
+
+## TÍTULO CUARTO. Del recurso de la libre asociación y la participación ciudadana
 
 ### CAPÍTULO I. De la procedencia
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 62.
 
-En todo tiempo el recurso de la libre asociación será procedente, en contra:
+En todo tiempo el recurso de la libre asociación y participación ciudadana será procedente, en contra de los actos, acuerdos o resoluciones de los PARTIDOS POLÍTICOS que inhabiliten o expulsen a sus militantes.
 
-I.- De los actos, acuerdos o resoluciones de los PARTIDOS POLITICOS que inhabiliten o expulsen a sus militantes.
+Durante el proceso electoral, este recurso será procedente en contra de los actos, acuerdos o resoluciones de los PARTIDOS POLlTICOS que se encuentren relacionados con la determinación de la anulación de un proceso interno.
 
 ### CAPÍTULO II. De la competencia
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 63.
 
-El CONSEJO GENERAL será competente para resolver el recurso de la libre asociación.
+El TRIBUNAL será competente para resolver el recurso de la libre asociación y participación ciudadana.
 
 ### CAPÍTULO III. De la legitimación y la personería
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 64.
 
-Podrán interponer recurso de la libre asociación:
-
-I.- Los militantes o todo aquel que acredite su interés legítimo.
+Podrán interponer recurso de la libre asociación y la participación ciudadana por los militantes o todo aquel que acredite su interés legítimo.
 
 ### CAPÍTULO IV. Requisitos del recurso
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 65.
 
-El recurso de la libre asociación deberá interponerse por escrito ante el INSTITUTO, cumpliendo para ello con los siguientes requisitos:
+El recurso de la libre asociación y participación ciudadana deberá interponerse por escrito ante el TRIBUNAL, cumpliendo para ello con los siguientes requisitos:
 
-I.- Hacer constar el nombre del actor, el carácter con el que promueve y domicilio para recibir notificaciones, en la capital del MUNICIPIO. Si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+I.- Hacer constar el nombre del actor, el carácter con el que promueve y domicilio para recibir notificaciones, en la capital del ESTADO. Si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
 
 II.- Acreditar su personería en los términos de la legislación civil, cuando promueva con el carácter de representante legal;
 
 III.- Identificar el acto, acuerdo o resolución que se impugna y el PARTIDO POLÍTICO responsable;
 
-IV.- Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que causen el acto, acuerdo o resolución impugnados y los preceptos legales que se consideren violados;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-V.- Ofrecer y aportar las pruebas al momento de la presentación del medio de impugnación;
+IV.- Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que causen el acto, acuerdo o resolución impugnados, las disposiciones estatutarias y los preceptos legales que se consideren violados;
 
-VI.- La firma autógrafa del promovente, pudiendo autorizar a personas para oír y recibir notificaciones en su nombre; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
-VII.- En su caso, la dirección de correo electrónico para recibir notificaciones.
+V.- Ofrecer y aportar las pruebas al momento de la presentación del medio de impugnación, y
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+VI.- La firma autógrafa del promovente, pudiendo autorizar a personas para oír y recibir notificaciones en su nombre.
+
+VII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2008)
 
 ### CAPÍTULO V. De la substanciación
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 66.
 
-Recibido el recurso de la libre asociación por el CONSEJO GENERAL, el Presidente del mismo lo turnará al Secretario Ejecutivo para que certifique que se interpuso en tiempo y que cumple los requisitos que exige esta LEY.
-
-Si el recurso debe desecharse por ser notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el Secretario Ejecutivo u otro Consejero designado por el Presidente, dará vista al PARTIDO POLÍTICO señalado como responsable a efecto de que manifieste lo que a su derecho convenga dentro del término de 48 horas, transcurrido dicho lapso procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al CONSEJO GENERAL. La resolución que se dicte será engrosada por el Secretario Ejecutivo en los términos que determine el propio Consejo.
+Recibido el recurso de la libre asociación y participación ciudadana por el TRIBUNAL, éste substanciara el procedimiento en lo conducente, en los términos del artículo 26 de esta Ley.
 
 ### CAPÍTULO VI. De la sentencia
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 67.
 
-Las resoluciones que recaigan al recurso de la libre asociación se limitarán a analizar la legalidad del procedimiento de inhabilitación o expulsión correspondiente.
+Las resoluciones que recaigan al recurso de la libre asociación y participación ciudadana determinarán la legalidad del procedimiento de inhabilitación o expulsión correspondiente, restituyendo al ciudadano en su caso, de los derechos políticos violados.
 
-El recurso deberá resolverse con los elementos con que se cuente a más tardar dentro de los 10 días contados a partir de su recepción.
+El recurso deberá resolverse con los elementos con que se cuente a más tardar dentro de los 10 días contados a partir de su admisión.
 
 ## TÍTULO QUINTO. De las nulidades
 
@@ -791,7 +911,9 @@ La votación recibida en una casilla electoral será nula cuando se acredite cua
 
 I.- Sin causa justificada, la casilla electoral se haya instalado en distinto lugar al aprobado por el CONSEJO MUNICIPAL correspondiente, o se hubiera instalado en hora anterior o en condiciones diferentes a las establecidas por el mismo, o cuando el escrutinio y cómputo se efectúe en sitio diferente al de la casilla;
 
-II.- Entregar, sin causa justificada, el paquete que contenga los expedientes electorales a los Consejos electorales correspondientes, fuera de los plazos que el CODIGO señale;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+II.- Se impida sin causa justificada el ejercicio del derecho del voto a los ciudadanos, y esto sea determinante para el resultado de la votación;
 
 III.- Se reciba, sin causa justificada, la votación por personas u órganos distintos a los facultados por el CODIGO;
 
@@ -823,7 +945,9 @@ II.- Cuando no se instalen el 20% o más de las casillas correspondientes a un d
 
 III.- Cuando exista violencia generalizada en el ámbito de la elección correspondiente; y
 
-IV.- Cuando los integrantes de la fórmula de candidatos que hayan obtenido mayoría de votos en la elección respectiva, no reúnan los requisitos de elegibilidad contenidos en la CONSTITUCION y en el CODIGO.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
+
+IV.- Cuando el candidato o los integrantes de la fórmula de candidatos que hayan obtenido mayoría de votos en la elección respectiva, no reúnan los requisitos de elegibilidad contenidos en la CONSTITUCIÓN y en el CÓDIGO.
 
 Cuando se declare nula una elección se comunicará al CONGRESO del Estado para que proceda conforme a la LEY.
 
@@ -841,9 +965,11 @@ Ningún PARTIDO POLITICO podrá invocar como causa de nulidad, hechos o circunst
 
 Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+
 ###### Artículo 74.
 
-Tratándose de inelegibilidad de candidatos a Diputados de representación proporcional, tomará el lugar del declarado no elegible, el que le sigue en la LISTA del mismo PARTIDO POLITICO. En el caso de los Regidores ocupara la posición el suplente.
+Tratándose de inelegibilidad de candidatos a Diputados de representación proporcional, tomará el lugar del declarado no elegible, el que le sigue en la LISTA del mismo PARTIDO POLlTICO. En el caso de los diputados de mayoría relativa y munícipes ocupara la posición el suplente, el regidor designado vía representación proporcional declarado no elegible, o en su caso en licencia o renuncia tomara su lugar el que le siga en la lista del mismo partido político.
 
 ## TÍTULO SEXTO. De las Prevenciones Generales
 
@@ -876,3 +1002,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 30 de del mes de agosto del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 2008.
+
+Único.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial "El Estado de Colima".
