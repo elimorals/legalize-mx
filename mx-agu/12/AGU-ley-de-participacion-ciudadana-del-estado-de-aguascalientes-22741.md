@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-participacion-ciudadana-del-estado-de-aguascalientes-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2001-11-26"
+last_updated: "2008-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2001.
 
@@ -67,9 +67,21 @@ V.- Legalidad, sustentada en que las decisiones del gobierno serán siempre apeg
 
 VI.- Respeto, al reconocimiento pleno de la diversidad de opiniones y posturas, ejercidas libremente en torno a los asuntos de interés público. En este caso inicia con la libertad de elegir cómo y cuándo se participa en la vida pública del Estado;
 
-VII.- Tolerancia, sustentada en el reconocimiento y respeto a la diversidad de criterios de quienes conforman la sociedad, tomando como base la construcción de consensos; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-VIII.- Sustentabilidad, con base en la responsabilidad de que las decisiones asumidas en el presente den certeza a las generaciones futuras en el uso y disfrute de los recursos naturales de su entorno, fomentando una cultura ciudadana: crítica, activa, responsable y positiva.
+VII.- Tolerancia, sustentada en el reconocimiento y respeto a la diversidad de criterios de quienes conforman la sociedad, tomando como base la construcción de consensos;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Sustentabilidad, con base en la responsabilidad de que las decisiones asumidas en el presente, den certeza a las generaciones futuras en el uso y disfrute de los recursos naturales de su entorno, fomentando una cultura ciudadana: crítica, activa, responsable y positiva; e
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+IX.- Igualdad sustantiva, es la igualdad de hecho que debe darse entre mujeres y hombres, desterrándose una diferenciación de trato en razón del género.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+Asumiendo como propios los principios que consagra la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### ARTICULO 3º
 
@@ -109,9 +121,17 @@ IV.- Medio Ambiente y Agua;
 
 V.- Responsabilidad de los Servidores Públicos;
 
-VI.- Civil; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-VII.- Penal.
+VI.- Civil;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Penal; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Violencia y perspectiva de género.
 
 ###### ARTICULO 6º
 
@@ -123,9 +143,17 @@ II.- Al Gobernador del Estado;
 
 III.- A los Ayuntamientos del Estado;
 
-IV.- Al Instituto Estatal Electoral; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-V.- Al Tribunal Local Electoral;
+IV.- Al Instituto Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Al Tribunal Local Electoral; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Al Sistema Estatal para la Erradicación de la Violencia de Género.
 
 La Constitución Política del Estado, la Ley Orgánica del Poder Legislativo y sus Reglamentos, el Código Electoral del Estado, la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado, la Ley Orgánica del Poder Judicial y la Ley Orgánica Municipal del Estado serán aplicadas supletoriamente a esta Ley.
 
@@ -147,9 +175,17 @@ V.- Opinar sobre la aprobación, modificación, derogación o abrogación por me
 
 VI.- Ser informado de las funciones y acciones de la estructura que realiza la Administración Pública Estatal y Municipal;
 
-VII.- Participar en la planeación, diseño, ejecución y evaluación de las decisiones de gobierno, sin menoscabo de las atribuciones de la autoridad; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-VIII.- Las demás que se establezcan en ésta y en las demás leyes.
+VII.- Participar en la planeación, diseño, ejecución y evaluación de las decisiones de gobierno, sin menoscabo de las atribuciones de la autoridad;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Constituir observatorios ciudadanos en materia de violencia y perspectiva de género; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+IX.- Las demás que se establezcan en ésta y en las demás leyes.
 
 ###### ARTICULO 8º
 
@@ -209,9 +245,17 @@ IV.- Ley Orgánica del Poder Judicial del Estado;
 
 V.- Ley Orgánica Municipal del Estado de Aguascalientes;
 
-VI.- El Código Electoral del Estado y las leyes que de él se deriven; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-VII.- Los demás que determinen las leyes.
+VI.- El Código Electoral del Estado y las leyes que de él se deriven;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- La violencia de género y el tratamiento de alguna de sus modalidades y tipos en especial a los ordenamientos relacionados a la violencia familiar; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Los demás que determinen las leyes.
 
 ### CAPITULO III. De la Solicitud del Plebiscito
 
@@ -311,9 +355,17 @@ III. Cuando los ciudadanos peticionarios no estén inscritos en el Padrón Elect
 
 IV. Cuando el plebiscito se haya consumado y no puedan restituirse las cosas a la situación que guardaban con anterioridad;
 
-V. Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-VI. Cuando la solicitud respectiva no cumpla con las formalidades establecidas.
+V.- Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Cuando la solicitud respectiva no cumpla con las formalidades establecidas; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Cuando la materia de éste, contravenga el principio de igualdad o derechos de las mujeres, o sea carente de la perspectiva de género, de conformidad con lo establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### ARTICULO 25.
 
@@ -433,9 +485,17 @@ IV.- Ley Orgánica del Poder Judicial del Estado;
 
 V.- Ley Orgánica Municipal del Estado de Aguascalientes;
 
-VI.- El Código Electoral del Estado y las leyes que de él se deriven; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-VII.- Las demás que determinen las Leyes.
+VI.- El Código Electoral del Estado y las leyes que de él se deriven;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Las disposiciones legales en materia de violencia y perspectiva de género, así como aquellas que consagren derechos o acciones afirmativas a favor de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Las demás que determinen las Leyes.
 
 ###### ARTICULO 40.
 
@@ -539,9 +599,17 @@ III.- Cuando los peticionarios no estén inscritos en el Padrón Electoral y las
 
 IV.- Cuando el referéndum se haya consumado y no puedan restituirse las cosas a la situación que guardaban con anterioridad;
 
-V.- Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-VI.- Cuando la solicitud respectiva no cumpla con las formalidades establecidas.
+V.- Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Cuando la solicitud respectiva no cumpla con las formalidades establecidas; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Cuando la materia de éste, contravenga el principio de igualdad sustantiva o derechos de las mujeres, o sea carente de la perspectiva de género, de conformidad con lo establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### ARTICULO 51.
 
@@ -734,3 +802,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
