@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2008-06-30"
+last_updated: "2008-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -207,9 +207,11 @@ ARTICULO 11 A.- La relación existente entre el Estado con los elementos operati
 
 Para efectos de la regulación que hace esta ley de la relación entre las autoridades y los elementos, así como sus derechos, se consideran elementos operativos de las Corporaciones de Seguridad, a todos los pertenecientes a las Corporaciones de Seguridad a que se refiere el Artículo 7° y la Fracción II del Artículo 8° de esta ley.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-ARTICULO 11 B.- Las controversias que se suscitaren con motivo de las relaciones y condiciones entre el Estado o los Municipios y sus elementos, serán resueltas por las comisiones de Honor y Justicia de la Secretaría, de la Procuraduría y de los Municipios de acuerdo a lo dispuesto por esta Ley, las disposiciones municipales aplicables y a los siguientes ordenamientos supletorios:
+ARTICULO 11 B.- Las controversias que se suscitaren con motivo de las relaciones y condiciones entre el Estado o los Municipios y sus elementos, serán resueltas por las Comisiones de Honor y Justicia de acuerdo a las disposiciones de esta Ley, las disposiciones municipales aplicables y a los siguientes ordenamientos supletorios:
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 Serán supletorios a esta Ley en cuanto a los procedimientos, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, La Legislación Penal para el Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes y el Código de Procedimientos Civiles del Estado de Aguascalientes, en ese orden.
 
@@ -431,9 +433,9 @@ ARTICULO 11 JJ.- En el caso de la Fracción IV del Artículo anterior, si la inc
 
 ARTICULO 11 KK.- Ningún elemento podrá ser destituido del servicio, sino por causa justificada o por la pérdida de la confianza, en los términos de esta Ley y demás normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-ARTICULO 11 LL.- Si la corporación de seguridad pública, opta por la destitución y no logra acreditar en el procedimiento correspondiente la causa de la destitución, el elemento tendrá derecho a que se le reincorpore al servicio que venía desempeñando antes de la destitución y al cobro de su pago a que tuvo derecho durante todo el tiempo que duraron los efectos de la destitución; en su caso, a elección del elemento, se podrá solicitar el cobro de tres meses de pago, más el equivalente del pago de servicios a que tuvo derecho durante todo el tiempo que duraron los efectos de la destitución hasta ese momento sin reincorporación y dando por terminada la relación laboral y de servicio.
+ARTICULO 11 LL.- Si la corporación de seguridad pública, resolviere la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio, y no logra acreditar la causa de destitución, el elemento sólo tendrá el derecho al cobro de su pago a que tuvo derecho durante todo el tiempo que duraron los efectos de la destitución y la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
 
@@ -445,7 +447,9 @@ En este supuesto el elemento tendrá derecho a que se le restablezca el pago per
 
 ARTICULO 11 NN.- En el supuesto de renuncia del elemento, se observarán las siguientes reglas:
 
-Si dentro de los ocho días hábiles siguientes a su presentación, el elemento no recibe respuesta y no se encuentra sujeto a investigación o procedimiento ante la Comisión de Honor y Justicia de la entidad de Seguridad Pública que corresponda, se tendrá como tácitamente aceptada para todos los efectos legales.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+Si dentro de los ocho días hábiles siguientes a su presentación, el elemento no recibe respuesta y no se encuentra sujeto a investigación o procedimiento ante la comisión de Honor y Justicia que corresponda, se tendrá como tácitamente aceptada para todos los efectos legales.
 
 Mientras la renuncia no haya sido aceptada, ni transcurrido el plazo señalado anteriormente, el elemento deberá permanecer en el ejercicio de sus funciones; una vez aceptada la renuncia, se le notificará por escrito.
 
@@ -1649,13 +1653,17 @@ III.- Al Mérito Social, cuando se distinga particularmente en la prestación de
 
 Las condecoraciones referidas, consistirán en medalla, diploma, reconocimiento público y prestación económica, la cual estará sujeta a los presupuestos anuales de egresos estatales y municipales autorizados por el H. Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 107.
 
-Cada año en el mes de octubre, las áreas de Asuntos Internos de las Corporaciones de Seguridad, presentarán ante las comisiones de Honor y Justicia respectivas los expedientes con las investigaciones realizadas, para el otorgamiento de condecoraciones, estímulos y recompensas, en los casos del personal que pudiere ser acreedor a ellas, estando obligada la Comisión de Honor y Justicia a desahogar el procedimiento y resolver lo conducente en un término de 30 días hábiles.
+Cada año en el mes de octubre, las áreas de Asuntos Internos correspondientes, presentarán ante las Comisiones de Honor y Justicia respectivas los expedientes con las investigaciones realizadas, para el otorgamiento de las condecoraciones, estímulos y recompensas, en los casos del personal que pudiere ser acreedor a ellas, estando obligada la Comisión de Honor y Justicia a desahogar el procedimiento y resolver lo conducente en un término de treinta días hábiles.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 Las investigaciones de las áreas de Asuntos Internos comenzarán de oficio, o a petición del interesado o de sus familiares.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 El procedimiento señalado anteriormente, deberá seguirse en cualquier momento, tratándose del otorgamiento de una condecoración, estímulo y recompensa que merezca un elemento en el supuesto de "al Valor".
 
@@ -1665,7 +1673,7 @@ El procedimiento señalado anteriormente, deberá seguirse en cualquier momento,
 
 Las recompensas consistentes en prestación económica, se otorgarán bajo los siguientes parámetros, debiéndose contemplar una partida especial en los presupuestos anuales de egresos de la Secretaría, de la Procuraduría y de los Municipios, para estos efectos:
 
-I. AI Valor de 50 a 250 días de salario mínimo vigente en el Estado, en una sola exhibición;
+I. Al Valor de 50 a 250 días de salario mínimo vigente en el Estado, en una sola exhibición;
 
 II. A la Perseverancia de 25 a 125 días de salario mínimo vigente en el Estado, en una sola exhibición, por cada cinco años de servicio ininterrumpidos en la corporación a la que pertenezcan y siempre y cuando haya mantenido un expediente limpio y ejemplar, a juicio de la Comisión de Honor y Justicia;
 
@@ -1873,23 +1881,37 @@ Las Corporaciones de Seguridad elaborarán un registro de los elementos que haya
 
 ### CAPITULO IV. De las Comisiones de Honor y Justicia
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 120.
 
-En cada corporación de seguridad pública, habrá una Comisión de Honor y Justicia, su integración y operación será conforme al reglamento que la autoridad correspondiente dicte y estará integrada como mínimo a nivel estatal por el titular de la corporación de seguridad a la que pertenezca el elemento infractor, un representante de la Contraloría General del Estado, por el titular de la Dirección General Jurídica de la dependencia que corresponda, por el titular de la Dirección General Administrativa de la dependencia que corresponda y por un elemento sin mando de la corporación a la que pertenezca.
+La Comisión de Honor y Justicia es el órgano colegiado e imparcial encargado de conocer, resolver y sancionar los casos de faltas cometidas por los elementos, en servicio o fuera de él, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias previstos en el presente ordenamiento, en las leyes aplicables o normas municipales. Además de ser el órgano facultado para otorgar reconocimientos a las acciones relevantes en que intervino el personal correspondiente.
 
-A nivel municipal, se integrará por el titular de la corporación de seguridad a la que pertenezca el elemento infractor, un representante de la Contraloría Municipal o de la dependencia que realice esa función, por el titular del área jurídica de la corporación de seguridad pública a la que pertenezca, por un elemento sin mando de la corporación de seguridad a la que pertenezca el infractor y por el titular de la dependencia municipal de que se trate que controle los recursos humanos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-Se podrán establecer en los reglamentos, un mayor número de integrantes y un régimen de suplencias.
+Estará integrada como mínimo a nivel estatal por el titular de la corporación de seguridad a la que pertenezca el elemento infractor, un representante de la Contraloría General del Estado, por el titular de la Dirección General Jurídica de la dependencia que corresponda, el titular de la Dirección General Administrativa de la dependencia que corresponda y por un elemento sin mando de la corporación que pertenezca.
 
-Las comisiones de Honor y Justicia, serán órganos competentes para:
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+A nivel municipal su integración y el régimen de suplencias de la Comisión de Honor y Justicia será conforme al ordenamiento Municipal correspondiente pudiendo integrar alguno o algunos de los siguientes: al titular de la corporación de seguridad a la que pertenezca el elemento infractor, un representante de la Contraloría Municipal o de la dependencia que realice esa función, por el titular del área jurídica de la corporación de seguridad pública a la que pertenezca, por un elemento sin mando de la corporación de seguridad pública a la que pertenezca el infractor o por el titular de la dependencia municipal de que se trate que controle los recursos humanos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
+Las Comisiones de Honor y Justicia, serán órganos competentes para:
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 I. Conocer, promover y resolver sobre las faltas graves en que incurran los elementos policiales a los principios de actuación previstos en la presente Ley, así como las normas disciplinarias de cada una de las Corporaciones de Seguridad;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 II. Resolver sobre la pérdida de grado, suspensión temporal y la destitución de los elementos; y
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 III. Otorgar condecoraciones, estímulos y recompensas, a que se hagan acreedores los elementos de su corporación.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 El resto de los correctivos disciplinarios que prevea esta Ley, podrán ser impuestos por los funcionarios con mando dentro de las corporaciones de conformidad con sus reglamentos internos.
 
@@ -1897,25 +1919,43 @@ El resto de los correctivos disciplinarios que prevea esta Ley, podrán ser impu
 
 Las Comisiones de Honor y Justicia velarán por la honorabilidad y reputación de las Corporaciones de Seguridad y sancionarán las conductas lesivas del personal que afecten a la comunidad o la Corporación. Para tal efecto gozarán de las más amplias facultades para examinar los expedientes u hojas de servicio de los elementos a fin de practicar las diligencias que le permitan allegarse de las pruebas necesarias para dictar su resolución.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
-ARTICULO 121 A.- Las comisiones de Honor y Justicia de las diversas Corporaciones de Seguridad, se auxiliarán para sus investigaciones de un departamento de asuntos internos, al cual le corresponderá las funciones que se establezcan en los reglamentos respectivos y las cuales al menos deberán de ser:
+ARTICULO 121 A.- Las Comisiones de Honor y Justicia, se auxiliarán para sus resoluciones, en las investigaciones de las áreas de asuntos internos, áreas que estarán a lo dispuesto por los ordenamientos estatales o municipales correspondientes en cuanto a sus funciones y a la incorporación de éstas a una dependencia en específico. Dichas áreas tendrán cuando menos las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 I. Realizar las investigaciones correspondientes con motivo de las quejas, denuncias o señalamientos de servidores públicos o particulares relativos al desempeño de los elementos de seguridad pública;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 II. Recibir las quejas que imputen a algún elemento de la Corporación de Seguridad que corresponda, por la presunta comisión de una infracción a los principios de actuación o a las obligaciones de los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 III. Denunciar ante la Comisión de Honor y Justicia, las presuntas comisiones de faltas o infracciones a los principios de actuación de los elementos;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 IV. Hacer suyas y ratificar las denuncias o quejas interpuestas por particulares cuando éstos no lo hagan en el término de Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 V. Realizar las investigaciones que considere necesarias para el cumplimiento de sus funciones y recabar mediante actas administrativas las declaraciones de testigos y presuntos infractores como parte del material probatorio que debe aportar a la Comisión de Honor y Justicia, las cuales deberán de ser ratificadas ante la Comisión;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 VI. Ofrecer pruebas de cargo ante la Comisión de Honor y Justicia;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 VII. Someterse obligatoriamente el titular y el resto del personal de esa área a las evaluaciones de cualquier tipo que determine el Centro de Control y la Evaluación de la Secretaría o cuando lo determine el titular de la corporación de que se trate, al menos cada veinticuatro meses;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 VIII. Acatar las instrucciones de la Comisión de Honor y Justicia en la substanciación de los procedimientos; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 IX. Las demás que le confiera el Reglamento respectivo.
 
@@ -2060,3 +2100,9 @@ Las autorizaciones para la portación de armas de fuego expedidas por autoridad 
 ###### ARTÍCULO SEXTO.
 
 Los nombramientos de funcionarios y elementos que hayan sido realizados con anterioridad al presente Decreto serán validos y legales, hasta en tanto el encargado de realizarlos, no estime oportuno formalizar uno diferente en apego a los requisitos que el presente Decreto impone.
+
+P.O. 1 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
