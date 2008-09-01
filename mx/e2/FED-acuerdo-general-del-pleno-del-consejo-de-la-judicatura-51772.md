@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-07-14"
+last_updated: "2008-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -96,6 +96,10 @@ Secretaría Ejecutiva de Disciplina;
 Secretaría Ejecutiva de Vigilancia, Información y Evaluación; y
 
 Las demás que determine el Pleno;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2008)</small>
+
+X Bis. Secretaría General: Secretaría General de la Presidencia del Consejo de la Judicatura Federal;
 
 XI. Secretarios ejecutivos: los titulares de las secretarías ejecutivas;
 
@@ -307,11 +311,11 @@ XVI. Las demás que establezca el Pleno, mediante acuerdos generales.
 
 Tratándose de las ausencias del consejero Presidente que no requieran licencia, será suplido por el Ministro de la Suprema Corte de Justicia de la Nación más antiguo en su designación, a menos que el Pleno de ésta hubiese designado a un interino.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 28.
 
-La Presidencia del Consejo contará, para el adecuado ejercicio de sus atribuciones, con la Dirección General Adjunta y la Dirección General de Imagen Institucional, sin perjuicio de que el Pleno determine alguna otra.
+La Presidencia del Consejo contará, para el adecuado ejercicio de sus atribuciones, con la Dirección General de Imagen Institucional, sin perjuicio de que el Pleno determine alguna otra.
 
 ### Capítulo III. De los Demás Consejeros
 
@@ -1483,6 +1487,46 @@ XV. Las demás que determinen el Pleno y la Comisión de Vigilancia, Informació
 
 La Secretaría Ejecutiva de Vigilancia, Información y Evaluación contará con la unidad administrativa denominada Archivo General del Consejo.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 86 BIS.- La Secretaría General de la Presidencia del Consejo de la Judicatura Federal se encargará de asistir al Presidente en los asuntos que, de acuerdo con sus atribuciones, le corresponda conocer.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 86 TER.- El titular de la Secretaría General de la Presidencia del Consejo de la Judicatura Federal tendrá las siguientes atribuciones:
+
+I. Recibir la documentación e integrar la carpeta del Presidente con los asuntos listados para la sesión del Pleno;
+
+II. Informar al Presidente sobre los asuntos que se analizarán en las sesiones del Pleno;
+
+III. Elaborar opiniones jurídicas, dictámenes y notas informativas para el Presidente, sobre los asuntos mencionados en la fracción que precede;
+
+IV. Formular opiniones jurídicas sobre temas de interés del Presidente, relacionados con el Consejo;
+
+V. Recibir los escritos, peticiones y avisos que magistrados de circuito, jueces de distrito y trabajadores del Poder Judicial de la Federación dirijan al Presidente y canalizarlos a las áreas administrativas del Consejo que conforme a sus atribuciones, corresponda tramitar y resolver;
+
+VI. Recibir los escritos que particulares, autoridades e instituciones dirigen al Presidente y remitirlos a las áreas administrativas del Consejo que correspondan o, en su caso, darles respuesta;
+
+VII. Dar seguimiento e informar al Presidente sobre el trámite y resultado de los escritos y peticiones mencionadas en las fracciones V y VI de este artículo;
+
+VIII. Brindar atención ciudadana a quienes soliciten entrevistas con el Presidente;
+
+IX. Coadyuvar con la Secretaría Particular del Presidente, en todo lo concerniente a la administración de las oficinas de la Presidencia;
+
+X. Llevar el archivo y correspondencia de la Presidencia del Consejo;
+
+XI. Asistir a las reuniones interinstitucionales en las que participe el Consejo y coordinar, con las áreas involucradas, el cumplimiento de los acuerdos tomados en dichas reuniones;
+
+XII. Asesorar al Presidente en los asuntos en que éste se lo requiera, así como desempeñar las comisiones y funciones especiales que aquél le encomiende;
+
+XIII. Participar, cuando así lo acuerde el Pleno, o lo instruya el Presidente, emitiendo opinión en las reuniones de los titulares de los órganos auxiliares y administrativos del Consejo que tengan como propósito el estudio y análisis para la creación, modificación o derogación de normas internas del propio Consejo;
+
+XIV. Fungir como enlace operativo entre el Presidente y los Directores de los Organos Auxiliares del Consejo, los Secretarios Ejecutivos y los Directores Generales, con el objeto de mantener una línea de información directa sobre las actividades y avances programáticos de las áreas a cargo de dichos funcionarios;
+
+XV. Asistir, como asesor del Presidente, a las sesiones del Pleno; y
+
+XVI. Las demás que le atribuya expresamente el Presidente.
+
 ### Capítulo VI. De los Organos Auxiliares del Consejo
 
 Sección 1a.
@@ -1931,33 +1975,11 @@ XXV. Las demás que le atribuya expresamente el Pleno o cualquiera de las Comisi
 
 ###### Artículo 111.
 
-La Dirección General Adjunta se encargará de asistir al Presidente en los asuntos que, de acuerdo con sus atribuciones, le corresponda conocer.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2008)
 
 ###### Artículo 112.
 
-El titular de la Dirección General Adjunta tendrá las siguientes atribuciones:
-
-I. Recibir la documentación e integrar la carpeta del Presidente con los asuntos listados para la sesión del Pleno;
-
-II. Informar al Presidente sobre los asuntos que se analizarán en las sesiones del Pleno;
-
-III. Elaborar opiniones jurídicas, dictámenes y notas informativas para el Presidente, sobre los asuntos mencionados en la fracción que precede;
-
-IV. Formular opiniones jurídicas sobre temas de interés del Presidente, relacionados con el Consejo;
-
-V. Recibir los escritos, peticiones y avisos que magistrados de circuito, jueces de distrito y trabajadores del Poder Judicial de la Federación dirijan al Presidente y canalizarlos a las áreas administrativas del Consejo que conforme a sus atribuciones, corresponda tramitar y resolver;
-
-VI. Recibir los escritos que particulares, autoridades e instituciones dirigen al Presidente y remitirlos a las áreas administrativas del Consejo que correspondan o, en su caso, darles respuesta;
-
-VII. Dar seguimiento e informar al Presidente sobre el trámite y resultado de los escritos y peticiones mencionadas en las fracciones V y VI de este artículo;
-
-VIII. Brindar atención ciudadana a quienes soliciten entrevistas con el Presidente;
-
-IX. Coadyuvar con la Secretaría Particular del Presidente, en todo lo concerniente a la administración de las oficinas de la Presidencia;
-
-X. Llevar el archivo y correspondencia de la Presidencia del Consejo; y
-
-XI. Las demás que le atribuya expresamente el Presidente.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2008)
 
 > <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
 
@@ -3570,3 +3592,15 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el primer día de septiembre del año dos mil ocho.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- Modifíquese el Tabulador General del Consejo de la Judicatura Federal para adicionar el Puesto de "Secretario General de la Presidencia del Consejo de la Judicatura Federal", correspondiéndole el nivel 06 00, con las prestaciones adicionales que correspondan al cargo de Secretario Ejecutivo.
+
+> <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 2008)</small>
+
+CUARTO.- El personal de la Dirección General Adjunta de la Presidencia deberá integrar la estructura inicial de la Secretaría General de la Presidencia del Consejo de la Judicatura Federal, lo que deberá hacerse del conocimiento de la Dirección General de Programación y Presupuesto y de la Dirección General de Recursos Humanos.
