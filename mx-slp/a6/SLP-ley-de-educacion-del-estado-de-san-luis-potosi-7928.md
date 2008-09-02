@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2008-06-07"
+last_updated: "2008-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -967,9 +967,25 @@ II.- Participar a las autoridades de la escuela en que estén inscritos sus hijo
 
 III.- Colaborar con las autoridades escolares, para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
-IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social, a que se refiere este capítulo; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
-V.- Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen.
+IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social, a que se refiere este capítulo;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Opinar, en los, casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Actuar en forma conjunta con las asociaciones de padres de familia, en la toma de decisiones, incluyendo la determinación y destino de las aportaciones voluntarias;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Ser informados por la asociación de padres de familia, de la cual formen parte, de la administración de las aportaciones, la situación financiera que guardan, así como de todas las actividades que realicen en su gestión, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Los demás establecidos en las leyes y reglamentos respectivos.
 
 ###### ARTICULO 89.
 
@@ -1009,21 +1025,103 @@ V.- Coadyuvar con las autoridades educativas difundiendo entre los padres de fam
 
 VI.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+ARTICULO 90 BIS.- Las asociaciones de padres de familia tendrán por objeto:
+
+I.- Representar ante las autoridades escolares, los intereses que en materia educativa sean comunes a los asociados;
+
+II.- Colaborar en el mejoramiento de la comunidad escolar, y proponer a las autoridades las medidas que estimen conducentes;
+
+III.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalado en las fracciones anteriores, y
+
+IV.- Las demás que dicten las leyes y ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+ARTICULO 90 TER.- Las asociaciones de padres de familia tienen las siguientes atribuciones:
+
+l.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares y de su funcionamiento;
+
+II.- Reunir fondos para los fines de mejoramiento en la infraestructura escolar.
+
+La falta de pago de las aportaciones a que se hace referencia en la fracción anterior, no podrá condicionar ninguno de los derechos de los educandos.
+
+Se prohíbe estrictamente a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad, a las asociaciones de padres de familia;
+
+III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos, y del cumplimiento de los programas educativos;
+
+IV.- Colaborar en la ejecución de los proyectos estratégicos que mejoren la vida familiar y social de sus miembros, y su situación en la economía del Estado;
+
+V.- Colaborar con las autoridades escolares y educativas, en las actividades y campañas de beneficio social, cultural, sanitario y ecológico que se efectúen en sus comunidades;
+
+VI.- Informar por escrito a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos, y
+
+VII.- Las demás que los ordenamientos legales y reglamentarios establezcan.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+ARTICULO 90 QUATER.- Las asociaciones de padres de familia tienen las siguientes obligaciones:
+
+I.- Registrar ante la Secretaría de Educación Pública en el Estado, su conformación e integración, acompañando los documentos y constancias correspondientes.
+
+Ningún padre de familia podrá ser miembro de la asociación de padres de familia de institución educativa, en la cual sus hijos o pupilos no se encuentren inscritos;
+
+II.- Acordar, de manera conjunta con los padres de familia asociados, el monto de las aportaciones, y el destino de las mismas;
+
+III.- Informar a los padres de familia o tutores, de todas sus actividades, y de la administración de los fondos, y la situación financiera en que se encuentra la asociación;
+
+IV.- Sujetarse a lo que prevenga el reglamento aplicable, y
+
+V.- Abstenerse de intervenir en los aspectos administrativos, técnico-pedagógicos, y laborales de los establecimientos educativos.
+
 ### Capítulo II.
 
 De los Consejos de Participación Social.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 91.
 
-Para asegurar el apoyo de la sociedad en el logro de los fines de la educación, las autoridades educativas del Estado promoverán en los términos de las disposiciones aplicables, la operación de:
+Las autoridades educativas deben promover, de conformidad con los lineamientos que se establezcan para tal fin, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos en los términos de la presente Ley.
 
-I.- Un consejo escolar de participación social en cada institución educativa, integrada con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la misma. Consejos análogos podrán operar en la (sic) escuelas particulares de educación básica.
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
-II.- Un consejo municipal de participación social en la educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación; y
+ARTICULO 91 BIS.- Las autoridades educativas establecerán la convocatoria y lineamientos, a efecto de que sea creado un consejo escolar de participación social, integrado por alumnos, padres de familia, directivos, trabajadores de la educación, ex alumnos, así como las asociaciones civiles y personas morales de la comunidad interesados en el desarrollo de la propia escuela.
 
-III.- Un consejo estatal de participación social que como órgano de consulta, orientación y apoyo, contribuya a elevar la calidad de la educación y funcione mediante la participación de padres de familia y representantes de sus asociaciones; maestros y representantes de su organización sindical, instituciones formadoras de maestros, autoridades educativas estatales y municipales, así como de sectores sociales en la Entidad especialmente interesados en la educación.
+Las autoridades educativas deberán estructurar el sistema de consejos de participación social, de acuerdo a las necesidades propias de cada región.
 
-Los consejos de participación social tendrán las funciones que son establecidas en los artículos 69, 70 y 71 de la Ley General de Educación, se regirán por los lineamientos generales que emita la autoridad educativa federal competente; y, se abstendrán de participar en cuestiones políticas y religiosas y de intervenir en los aspectos laborales de las escuelas públicas de educación básica.
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+ARTICULO 91 TER.- Los consejos escolares tienen las siguientes atribuciones; además de las conferidas por los lineamientos que para su organización y funcionamiento, expida la Secretaría de Educación del Gobierno del Estado de, San Luis Potosí:
+
+l.- Conocer el calendario escolar, las metas educativas, y el avance de las actividades escolares, con el objeto de coadyuvar con el docente a su mejor realización;
+
+II.- Conocer los resultados de las evaluaciones que realicen las autoridades educativas;
+
+III.- Propiciar la colaboración de docentes y padres de familia;
+
+IV.- Proponer estímulos y reconocimientos de carácter social a educandos, docentes, directivos y empleados de la escuela;
+
+V.- Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
+
+VI.- Llevar a cabo las acciones de participación, coordinación y difusión necesarias, para la protección civil y la emergencia escolar;
+
+VII.- Atender el interés familiar y comunitario por el desempeño del educando, y
+
+VIII.- Opinar en asuntos pedagógicos, y contribuir a reducir las condiciones sociales adversas que influyan en la educación.
+
+Están facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldar las labores cotidianas de la escuela y, en general, realizar actividades para beneficio de la propia escuela, sin menoscabo de las acciones que instrumenten otras organizaciones.
+
+Consejos análogos pueden operar en las escuelas particulares de educación básica.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+###### ARTICULO 91.
+
+QUATER.- El trabajo de los consejos de participación social será delimitado y supervisado, por la Secretaría de Educación de Gobierno del Estado; existirán, además del dispuesto por el artículo anterior, consejos municipales de participación social, así como el Consejo Estatal de Participación Social.
+
+En todos los casos, la. Secretaría de Educación de Gobierno del Estado emitirá un reglamento, con las funciones, obligaciones, y manual operativo de éstos, para su correcto desempeño.
 
 ### Capítulo III.
 
@@ -1386,6 +1484,16 @@ SEGUNDO. Remítase el texto íntegro del dictamen, a la Secretaría de Educació
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 CUARTO. Se derogan todas las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado tiene noventa días naturales, a partir de la publicación del presente Decreto, para expedir el Reglamento de Participación Social en la Educación del Estado de San Luis Potosí, a que se hace referencia en el artículo 91 Quater.
+
+TERCERO. El Ejecutivo del Estado constituirá Consejo Estatal de Participación Social del Estado de San Luis Potosí, noventa días naturales después de la publicación de este decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
