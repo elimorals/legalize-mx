@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-del-estado-de-34827"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2007-04-17"
+last_updated: "2008-09-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 2 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 4 de noviembre de 2003.
 
@@ -968,3 +970,19 @@ SEGUNDO. Los sujetos obligados a proporcionar la información según lo previsto
 > <small>(F. DE E., P.O. 18 DE MAYO DE 2007)</small>
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. La presente ley deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor el 1 de diciembre del 2008, salvo las excepciones previstas en el artículo Cuarto Transitorio de esta ley.
+
+SEGUNDO. Una vez que entre en vigor la presente ley, se dejará sin efectos la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza, publicada mediante decreto número 96 en el Periódico Oficial del Gobierno del Estado, el día 4 de noviembre del 2003.
+
+TERCERO. Los sujetos obligados contarán con un plazo de noventa días naturales posteriores a la entrada en vigor de esta ley, para que lleven a cabo la difusión de la información pública mínima.
+
+CUARTO. Las disposiciones de esta ley en relación a la protección de datos personales y archivos administrativos, entrarán en vigor en de diciembre del 2009.
+
+QUINTO. El Instituto deberá adecuar las disposiciones reglamentarias en materia de acceso a la información pública y protección de datos personales, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor de la presente ley.
+
+SEXTO.- Las solicitudes de información y recursos que se encuentren en trámite a la entrada en vigor de la presente ley, se resolverán conforme a las disposiciones previstas en la Ley de Acceso a la Información Pública del Estado de Coahuila y las disposiciones reglamentarias conducentes.
+
+SÉPTIMO.- Se derogan las disposiciones que se opongan a lo establecido en esta ley.
