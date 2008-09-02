@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2008-01-26"
+last_updated: "2008-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -213,7 +213,9 @@ Las participaciones que correspondan a los municipios son inembargables e impres
 
 La compensación entre el derecho del municipio a recibir participaciones y las obligaciones que tengan con la Federación, Estado, municipios y particulares, por créditos de cualquier naturaleza, operarán con fundamento en las disposiciones de la Ley de Deuda Pública Municipal del Estado de San Luis Potosí; Código Fiscal del Estado; y demás legislación aplicable.
 
-El Estado podrá realizar pagos por cuenta de los municipios con cargo a sus participaciones, cuando así lo soliciten, o cuando las participaciones hayan sido afectadas en garantía de adeudos y éstos no se hayan satisfecho, previo a la aplicación de las disposiciones contenidas en la Ley de Deuda Pública Municipal del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+El Estado podrá realizar pagos, entre otros, por concepto del suministro de energía eléctrica, por cuenta de los municipios con cargo a sus participaciones, cuando así lo soliciten; o cuando las participaciones hayan sido afectadas en garantía de adeudos, entre los cuales estará la que se efectué en el rubro referido con antelación, y éstos no se hayan satisfecho, previo a la aplicación de las disposiciones contenidas en la Ley de Deuda Pública Municipal del Estado de San Luis Potosí.
 
 Las cantidades que obtengan los municipios por concepto del Impuesto a la Venta Final de Gasolinas y Diesel, podrá afectarse en los términos del artículo 9º de la Ley de Coordinación Fiscal, siempre que la afectación correspondiente en ningún caso exceda del veinticinco por ciento de los recursos que les corresponden.
 
@@ -374,3 +376,9 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2008.
+
+UNICO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
