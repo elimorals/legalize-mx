@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-estado-de-guanajuato-para-el-59503"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-25"
-last_updated: "2007-12-25"
+last_updated: "2008-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DEL AÑO 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 25 de diciembre de 2007.
 
@@ -742,6 +742,10 @@ IV. Por la validación de documentos $ 123.00
 V. Por registro de baja o modificación
 
 al padrón vehicular $ 56.00
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Estarán exentos de su pago los derechos de tránsito por registro, circulación y control de vehículos previstos en las fracciones I y II de este artículo, cuando la ministración del juego de placas, incluyendo su calcomanía y tarjeta de circulación, según corresponda, se realice al amparo del Programa de Actualización del Padrón Vehicular 2008 que efectúe la Secretaría de Finanzas y Administración del Estado.
 
 ###### Artículo 10.
 
@@ -2076,3 +2080,15 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2008.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La Secretaría de Finanzas y Administración del Estado, conforme a lo previsto por el párrafo segundo del artículo 9 de la presente Ley, en un plazo máximo de quince días, contados a partir de la entrada en vigor del presente decreto publicará en el Periódico Oficial del Gobierno del Estado el Programa de Actualización del Padrón Vehicular 2008 que implemente, el cual tendrá vigencia hasta el 24 de diciembre de 2008.
+
+El Programa de Actualización del Padrón Vehicular 2008 contemplará requisitos y condiciones bajo los cuales operará el canje obligatorio y gratuito de placas, calcomanía de identificación vehicular y tarjeta de circulación, según corresponda, durante el presente ejercicio fiscal.
+
+La Secretaría de Finanzas y Administración del Estado implementará las acciones conducentes para informar permanentemente a la ciudadanía sobre la operación del programa.
