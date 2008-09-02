@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-adolescentes-del-estado-de-guanajuato-5137
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2006-08-01"
+last_updated: "2008-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -85,7 +85,9 @@ VII. Dirección General de Reintegración Social para Adolescentes: la unidad ad
 
 VIII. Juez de Impugnación: el titular del tribunal especializado del Poder Judicial a quien, le corresponde, en segunda instancia, conocer y resolver de los medios de impugnación interpuestos en el proceso instaurado al adolescente, que realiza los demás actos que le son previstos en esta Ley, así como aquéllos que conforme al Código de Procedimientos Penales u otras leyes corresponda a los juzgadores de segundo grado;
 
-IX. Juez de Ejecución: el titular del tribunal especializado en la impartición de justicia para adolescentes del Poder Judicial, encargado de conocer y resolver lo relativo al beneficio de la suspensión de la medida, previsto por esta Ley;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+IX. Juez de Ejecución: el titular del tribunal especializado en la impartición de justicia para adolescentes del Poder Judicial, encargado de conocer y resolver lo relativo a la ejecución de las medidas previstas en las fracciones III a VII del artículo 101 de esta Ley;
 
 X. Juez para Adolescentes: el titular del tribunal especializado en la impartición de justicia para adolescentes del Poder Judicial, encargado de conocer y resolver en primera instancia el proceso instruido al adolescente;
 
@@ -305,9 +307,27 @@ Al Juez de Impugnación le corresponde, en segunda instancia, conocer y resolver
 
 #### Sección Tercera. Juez de Ejecución
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 17.
 
-El Juez de Ejecución será el encargado de conocer y resolver lo relativo al beneficio de la suspensión de la medida, previsto por esta Ley.
+El Juez de Ejecución será el encargado de conocer y resolver lo relativo a la ejecución de las medidas previstas en las fracciones III a VII del artículo 101 de esta Ley, para lo cual tendrá las siguientes facultades:
+
+l. Resolver lo relativo a la suspensión, cumplimiento y variación de las condiciones de ejecución de las medidas impuestas por el Juez para Adolescentes en los términos de esta Ley;
+
+II. Aprobar el cumplimiento de los Programas Personalizados de Ejecución que al efecto se elaboren respecto de las medidas dictadas por el Juez para Adolescentes y, en su caso, velar por que se lleven a cabo;
+
+III. Acordar en relación a las peticiones o quejas que puedan plantear los adolescentes sobre la ejecución de las medidas, que puedan afectar a sus derechos reconocidos por ésta y otras leyes;
+
+IV. Realizar visitas a los Centros de Internación y entrevistas con los adolescentes y, en su caso, hacer las recomendaciones respecto de las irregularidades que detecte;
+
+V. Acordar las medidas de apremio para lograr el cumplimiento de las medidas a que se refieren las fracciones III a VI del artículo 101 de esta Ley que, en su caso, hayan sido impuestas por el Juez para Adolescentes; y
+
+VI. Las demás que les otorgue esta Ley y otras disposiciones legales aplicables.
+
+Para efectos de la variación de las condiciones de ejecución de la medida impuesta por el Juez para Adolescentes, a que se refiere la fracción I de este artículo, la Dirección General de Reintegración Social para Adolescentes, podrá hacer la solicitud en cualquier momento al Juez de Ejecución, cuando considere que las condiciones en que se ejecuta, impida la finalidad de la misma, con excepción de la medida de internamiento a que se refiere la fracción VII del artículo 101 de esta Ley, la que no estará sujeta a variación.
+
+El Juez de Ejecución, una vez que haya analizado el informe que al efecto acompañe a su solicitud la Dirección General de Reintegración Social para Adolescentes, determinará fundada y motivadamente, la variación de las condiciones de ejecución de la medida, dentro de los diez días siguientes a la recepción de la misma.
 
 #### Sección Cuarta. Comité Auxiliar Técnico
 
@@ -335,6 +355,10 @@ Esta función la desarrollará primordialmente sobre las bases de esta Ley, plan
 
 La Dirección General de Reintegración Social para Adolescentes informará semestralmente al representante del Poder Judicial del Estado, de los planes y programas con los que se cuente en el Estado, conducentes o que se juzguen eficaces para la reintegración social y familiar del adolescente.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+La Dirección General de Reintegración Social para Adolescentes podrá solicitar al Juez de Ejecución, la variación de las condiciones de ejecución de la medida impuesta por el Juez para Adolescentes, en los términos del artículo 17 de esta Ley.
+
 ###### Artículo 20.
 
 Para la ejecución, cumplimiento y seguimiento de las medidas, la Dirección General de Reintegración Social para Adolescentes contará con el personal especializado que se encargará de vigilar su cumplimiento efectivo, el que podrá tener la colaboración de los padres o familia del adolescente, tutores o quienes ejerzan la patria potestad o custodia del adolescente.
@@ -351,7 +375,9 @@ Los Centros de Internación implementarán las acciones necesarias a fin de logr
 
 Los adolescentes que se encuentren en internamiento preventivo deberán estar separados de los adolescentes que se encuentren cumpliendo la medida de internamiento.
 
-Las personas mayores de dieciocho años que se encuentren sujetas a un internamiento preventivo o definitivo, deberán permanecer separadas de los menores de dieciocho años de edad y de las personas acusadas o sentencias por delitos, salvo determinación en contrario del Juez para Adolescentes o del Juez de Ejecución en atención a la solicitud que se le exponga con base en el estudio biosicosocial que haya practicado el Comité Auxiliar Técnico o el Consejo Técnico Interdisciplinario, según se trate de la fase de instrucción o de ejecución.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Las personas mayores de dieciocho años que se encuentren sujetas a un internamiento preventivo o definitivo, deberán permanecer separadas de los menores de dieciocho años de edad y de las personas sujetas a proceso penal o sentenciadas por delitos.
 
 La estructura, organización y funcionamiento de los Centros de Internación serán los que señale su reglamento pero en todo caso deberán proveer de medios que reduzcan al mínimo los riesgos y propicie el ambiente adecuado para su readaptación.
 
@@ -375,7 +401,9 @@ III. A que se observen las garantías del debido proceso legal, desde el inicio 
 
 IV. A que se respete la independencia entre las autoridades que efectúen la remisión, las que dicten las medidas y quienes las ejecuten;
 
-V. A que durante la investigación, el trámite del proceso y la ejecución de las medidas, se le respete el derecho a la igualdad ante la ley y a no ser discriminado por motivos de raza, origen étnico, género, preferencia sexual, condición social o económica, religión, idioma, lengua, dialecto, nacionalidad, prácticas o creencias culturales, capacidades especiales, grado de inadaptación social, naturaleza y gravedad de la conducta, o cualquier otro supuesto semejante;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+V. A que durante la investigación, el trámite del proceso y la ejecución de las medidas, se le respete el derecho a la igualdad ante la ley y a no ser discriminado por motivos de raza, origen étnico, género, preferencia sexual, condición social o económica, religión, idioma, lengua, dialecto, nacionalidad, prácticas o creencias culturales, discapacidades, grado de inadaptación social, naturaleza y gravedad de la conducta, o cualquier otro supuesto semejante;
 
 VI. A tener un proceso justo, reservado, sin demora, expedito y gratuito ante un Juez competente;
 
@@ -469,7 +497,7 @@ En estos casos se llevarán a cabo las declaraciones en las condiciones que esta
 
 XIII. A que se mantenga el anonimato sobre su victimización en los medios de comunicación;
 
-XIV. A que la Representación Gratuita en Materia Civil le represente en el proceso civil para obtener la reparación del daño; salvo que dicha institución se vea obligada a representar un interés contrapuesto, en cuyo caso será el Ministerio Público quien intervenga; para que se acoja esa pretensión no será indispensable exhibir sentencia firme del procedimiento que, en su caso, se siga al adolescente; y
+XIV. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2008)
 
 XV. Los demás que se establezcan en esta Ley y en otras disposiciones legales aplicables, que no contravengan el presente ordenamiento.
 
@@ -481,11 +509,59 @@ XV. Los demás que se establezcan en esta Ley y en otras disposiciones legales a
 
 El procedimiento para adolescentes tiene por objeto la demostración de la existencia de una conducta tipificada como delito en las leyes del Estado que sea atribuida a un adolescente, así como la comprobación de su autoría o participación y, en su caso, determinar la aplicación de las medidas que correspondan conforme a esta Ley.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 26 A. Para los efectos de esta Ley se considerarán conductas tipificadas como graves las siguientes, previstas en el Código Penal:
+
+I. Homicidio previsto por el artículo 138, con relación a los artículos 139,140 y 153, así como en grado de tentativa con relación al artículo 18;
+
+II. Lesiones previsto por los artículos 145 y 147;
+
+III. Homicidio culposo previsto por el primer párrafo en relación al tercer párrafo del artículo 154;
+
+IV. Homicidio en razón de parentesco o relación familiar previsto por el artículo 156, así como en grado de tentativa con relación al artículo 18;
+
+V. Aborto previsto por el artículo 158 en relación al artículo 161;
+
+VI. Secuestro previsto por los artículos 173 y 174, excepto el caso atenuado previsto por el artículo 175, así como en grado de tentativa con relación al artículo 18;
+
+VII. Violación previsto por los artículos 180, 181, 182 y 184, así como en grado de tentativa con relación al artículo 18;
+
+VIII. Robo calificado previsto por el artículo 191, en relación al artículo 194, y sancionado por las fracciones III y IV del artículo 191 y último párrafo del artículo 194;
+
+IX. Daños dolosos previsto por los artículos 211 y 212;
+
+X. Extorsión previsto por el artículo 213;
+
+XI. Tráfico de menores previsto por el artículo 220 segundo párrafo;
+
+XII. Violencia intrafamiliar previsto por el artículo 221-a;
+
+XIII. Corrupción de menores e incapaces contemplado en los artículos 236 y 236-b;
+
+XIV. Prostitución de menores a que se refiere el artículo 240-a;
+
+XV. Trata de personas a que se refieren los artículos 240-b y 240-c;
+
+XVI. Rebelión previsto por el artículo 241;
+
+XVII. Terrorismo previsto por el artículo 245;
+
+XVIII. Evasión de detenidos, inculpados o condenados previsto en el artículo 269 segundo párrafo; y
+
+XIX. Encubrimiento por receptación calificado, previsto en el artículo 275-a.
+
 ###### Artículo 27.
 
 Serán aplicables en lo conducente y en cuanto no contravengan esta Ley, para determinar los ámbitos espacial y temporal de aplicación, las disposiciones que al respecto contienen el Código Penal y el Código de Procedimientos Penales.
 
-Tratándose de conductas típicas consideradas graves por el Código Penal, así como de sus conductas conexas, será competente el Juez para Adolescentes donde se ubique territorialmente el Centro de Internación más cercano, si es que hubiere varios, al lugar donde hayan resultado cometidas las primeras.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Tratándose de conductas consideradas como graves en el artículo 26 A de esta Ley, así como de sus conductas conexas, cometidas por adolescentes mayores de catorce años será competente el Juez para Adolescentes donde se ubique territorialmente el Centro de Internación más cercano; si es que hubiere varios, al lugar donde hayan resultado cometidas las primeras.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+En el caso de conductas consideradas como graves en el artículo 26 A de esta Ley, así como de sus conductas conexas, cometidas por adolescentes que tengan entre doce y catorce años de edad será competente el Juez para Adolescentes al que pertenezca el lugar en donde hubieren ocurrido los hechos.
 
 ###### Artículo 28.
 
@@ -523,7 +599,9 @@ Si en la conducta tipificada como delito en las leyes del Estado intervienen ado
 
 Forman parte de la presente Ley y por tanto serán aplicables en cuanto no se opongan a sus disposiciones, las instituciones y reglas previstas en el Código Penal en materia de conductas típicas, su clasificación y forma, tentativa, autoría y participación, concurso y causas de exclusión, y tratamiento de inimputables.
 
-Igualmente el Código de Procedimientos Penales tratándose de formalidades, intérpretes, despacho de los asuntos, correcciones disciplinarias y medios de apremio, requisitorias y exhortos, cateos, términos, citaciones, audiencias de derecho, resoluciones judiciales, notificaciones, iniciación del procedimiento, reglas especiales para la práctica de diligencias y levantamiento de actas, reglas generales de la instrucción, comprobación del cuerpo del delito y la probable responsabilidad, huellas del delito y aseguramiento de los instrumentos y objetos del mismo, atención médica a los lesionados, aseguramiento de personas, prueba, conclusiones, sobreseimiento, aclaración de sentencia, sentencias irrevocables, apelación, procedimiento relativo a los inimputables, ejecución e incidentes salvo el relativo a la reparación del daño exigible a terceros.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Igualmente el Código de Procedimientos Penales tratándose de formalidades, intérpretes, despacho de los asuntos, correcciones disciplinarias y medios de apremio, requisitorias y exhortos, cateos, términos, citaciones, audiencias de derecho, resoluciones judiciales, notificaciones, iniciación del procedimiento, reglas especiales para la práctica de diligencias y levantamiento de actas, reglas generales de la instrucción, comprobación del cuerpo del delito y la probable responsabilidad, huellas del delito y aseguramiento de los instrumentos y objetos del mismo, atención médica a los lesionados, aseguramiento de personas, prueba, conclusiones, sobreseimiento, aclaración de sentencia, sentencias irrevocables, apelación, procedimiento relativo a los inimputables, ejecución e incidentes.
 
 Tratándose de requisitorias y exhortos, serán autoridades auxiliares las que residan en el lugar en que deban practicarse las diligencias si no hubiere especializadas en materia de adolescentes.
 
@@ -575,11 +653,15 @@ Los padres, tutores o quienes ejerzan la patria potestad o la custodia del adole
 
 El Ministerio Público Especializado o el Juez para Adolescentes podrán otorgar la libertad provisional bajo caución al adolescente inmediatamente que lo solicite por sí o por su defensor o representante, en los términos de los artículos 18 y 20 Apartado A fracción I de la Constitución Política de los Estados Unidos Mexicanos y de este artículo.
 
-Para los efectos de la libertad provisional bajo caución se considerarán conductas tipificadas como graves, las siguientes previstas en el Código Penal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Para los efectos de la libertad provisional bajo caución se considerarán conductas sobre las que no procede este beneficio, en virtud de su gravedad, las siguientes previstas en el Código Penal:
 
 l. Homicidio previsto por el artículo 138, con relación a los artículos 139, 140 y 153, así corno en grado de tentativa con relación al artículo 18;
 
-II. Lesiones previsto por el artículo 147;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+II. Lesiones previstos por los artículos 145 y 147, cuando sean cometidos en forma dolosa;
 
 III. Homicidio culposo previsto por el primer párrafo en relación al tercer párrafo del artículo 154;
 
@@ -599,7 +681,9 @@ X. Corrupción de menores e incapaces, contemplado en los artículos 236 y 236 b
 
 XI. Prostitución de menores a que se refiere el artículo 240-a;
 
-XII. Rebelión previsto por el artículo 241;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+XII. Robo calificado previsto por el artículo 191, con relación al artículo 194 y sancionado por las fracciones III y IV del artículo 191 y último párrafo del artículo 194;
 
 XIII. Terrorismo previsto por el artículo 245;
 
@@ -607,7 +691,9 @@ XIV. Tortura previsto por el artículo 264; y
 
 XV. Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
 
-Tratándose de conductas que causen daño patrimonial, este beneficio se otorgará siempre que se hubiere garantizado o cubierto la reparación del daño.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Tratándose de conductas que causen daño patrimonial o a la integridad física, este beneficio se otorgará siempre que se hubiere garantizado o cubierto la reparación del daño en los términos de esta Ley.
 
 ###### Artículo 42.
 
@@ -661,7 +747,13 @@ Si alguno de los convocados, necesarios para la conciliación, no comparece o no
 
 Presentes las personas convocadas, se les explicará el objeto de la diligencia y se buscará el avenimiento. Si se llega a un acuerdo, se firmará el acta de conciliación, así como el convenio que contendrá los acuerdos pactados.
 
-En apego estricto a los plazos acordados por las partes, el Ministerio Público Especializado no incoará ante el Juez para Adolescentes en tanto el acuerdo conciliatorio se cumpla.
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+El acuerdo conciliatorio entre el adolescente y la víctima u ofendido deberá contener lo relativo a la reparación del daño y su cumplimiento por parte de terceros, según sea el caso.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+En apego a los plazos acordados por las partes, el Ministerio Público Especializado no incoará ante el Juez para Adolescentes en tanto el acuerdo conciliatorio se cumpla.
 
 El plazo acordado por las partes para el cumplimiento del acuerdo, no excederá de ciento ochenta días naturales e interrumpe el término de la prescripción.
 
@@ -749,9 +841,11 @@ En caso necesario la investigación la iniciará el Ministerio Público ordinari
 
 Toda persona o autoridad que tuviere conocimiento de una conducta tipificada como delito en las leyes del Estado, que se impute a un adolescente y que se persiga de oficio, deberá hacerla del conocimiento de la autoridad inmediata, la que lo comunicará al Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 62.
 
-Queda prohibido detener a cualquier adolescente, sin orden librada por autoridad judicial competente, excepto cuando se trate de flagrancia o bien de casos urgentes de conducta tipificada como grave en el Código Penal, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en cuyo caso deberá ser puesto a disposición de la autoridad competente dentro del plazo a que se refiere el artículo 69 de esta Ley.
+Queda prohibido detener a cualquier adolescente sin orden librada por autoridad judicial competente, excepto cuando se trate de flagrancia o bien de casos urgentes de conducta señalada como grave en el artículo 26 A de esta Ley, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en cuyo caso deberá ser puesto a disposición de la autoridad competente dentro del plazo a que se refiere el artículo 69 de esta Ley.
 
 Sólo el Ministerio Público Especializado con sujeción a dicho precepto acordará de inmediato si el adolescente quedará en calidad de detenido, sin perjuicio de las facultades que en su momento correspondan al Juez para Adolescentes. El adolescente detenido en contravención a lo previsto en este artículo será puesto inmediatamente en libertad, haciendo penalmente responsable al Ministerio Público.
 
@@ -813,7 +907,9 @@ En los casos de conducta típica flagrante, que deberán reunir las mismas condi
 
 Se considera que hay conducta típica flagrante cuando el adolescente es detenido en el momento de estarla cometiendo, o si, inmediatamente después de ejecutada la conducta típica, aquél es perseguido materialmente; o alguien lo señala como responsable y se encuentra en su poder el objeto de la conducta, el instrumento con que aparezca cometida, o huellas o indicios que hagan presumir fundadamente su autoría o participación en su realización.
 
-En esos casos el Ministerio Público Especializado iniciará su investigación y bajo su responsabilidad, según procediere, decretará motivada y fundadamente la retención del adolescente si la conducta corresponde a un delito grave conforme al Código Penal perseguible de oficio o bien, ordenará su libertad.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+En esos casos el Ministerio Público Especializado iniciará su investigación y bajo su responsabilidad, según procediere, decretará motivada y fundadamente la retención del adolescente si la conducta está señalada como grave en el artículo 26 A de esta Ley y es perseguible de oficio conforme al Código Penal, o bien ordenará su libertad.
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público que decrete indebidamente la retención y el adolescente será puesto en inmediata libertad.
 
@@ -821,7 +917,9 @@ La violación de esta disposición hará penalmente responsable al Ministerio P�
 
 En casos urgentes el Ministerio Público Especializado podrá, bajo su responsabilidad, ordenar por escrito la detención del adolescente, fundando y expresando los indicios previos que acrediten:
 
-I. Que el adolescente haya intervenido en cualquier forma en la comisión de alguna conducta tipificada como delito grave en el Código Penal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+l. Que el adolescente haya intervenido en cualquier forma en la comisión de alguna conducta señalada como grave en el artículo 26 A de esta Ley;
 
 II. Que exista riesgo fundado de que el adolescente pueda sustraerse a la acción de la justicia; y
 
@@ -829,11 +927,13 @@ III. Que por razón de la hora, lugar o circunstancia, no pueda ocurrir ante aut
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público que decrete indebidamente la detención y el adolescente será puesto en inmediata libertad.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 69.
 
-En los casos de flagrancia o urgencia, ningún adolescente podrá ser detenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos en que tres o más personas se organicen bajo las reglas de jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos, cualquier conducta tipificada como delito grave en el Código Penal.
+En los casos de flagrancia o urgencia, ningún adolescente podrá ser detenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos en que tres o más personas se organicen bajo las reglas de jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos, cualquier conducta señalada como grave en el artículo 26 A de esta Ley.
 
-Si la integración de la investigación requiere mayor tiempo del señalado, el adolescente será puesto en inmediata libertad con las reservas de Ley, sin perjuicio de que el Ministerio Público Especializado en su oportunidad solicite orden de detención al Juez para Adolescentes, cuando se trate de una conducta calificada como grave por el Código Penal.
+Si la integración de la investigación requiere mayor tiempo del señalado, el adolescente será puesto en inmediata libertad con las reservas de ley, sin perjuicio de que el Ministerio Público Especializado en su oportunidad solicite orden de detención al Juez para Adolescentes, cuando se trate de una conducta señalada como grave en el artículo 26 A de esta Ley.
 
 ###### Artículo 70.
 
@@ -957,9 +1057,11 @@ X. Cuando proceda, el pronunciamiento sobre el inicio de la fase de mediación y
 
 XI. El nombre y la firma del Juez para Adolescentes que la emita y del Secretario que dará fe.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 80.
 
-Cuando se trate de conductas consideradas como delitos graves en el Código Penal, se dictará auto de formal internamiento preventivo sólo cuando su probable autor o partícipe sea un adolescente mayor de catorce años de edad.
+Cuando se trate de conductas consideradas como graves en el artículo 26 A de esta Ley, se dictará auto de formal internamiento preventivo sólo cuando su probable autor o partícipe sea un adolescente mayor de catorce años de edad.
 
 ###### Artículo 81.
 
@@ -1139,6 +1241,18 @@ VI. Tratamiento bajo custodia familiar o en hogares sustitutos; y
 
 VII. Internamiento.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Cuando sea procedente, se determinará, además de las medidas señaladas, el pago de la reparación del daño, la cual se regirá por lo previsto en el Código Penal y el Código de Procedimientos Penales, en aquello que no se oponga a lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Corresponderá cubrirla preponderantemente al adolescente y subsidiariamente a los padres, tutores o quienes tengan la patria potestad o custodia del adolescente, en los términos legales. El Ministerio Público Especializado promoverá en la vía incidental, cuando sea procedente, que el Juez para Adolescentes declare la insolvencia del adolescente y determine el pago subsidiario de la reparación de daño a cargo de los padres, tutores o quienes tengan la patria potestad o custodia del adolescente.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+La reparación del daño podrá realizarse a través de la prestación de servicios a la comunidad, siempre y cuando la víctima u ofendido manifieste su consentimiento ante el Juez para Adolescentes, quien resolverá sobre la pertinencia de la medida con apego a lo dispuesto por el artículo 99 de esta Ley.
+
 ###### Artículo 102.
 
 Para determinar la medida aplicable al adolescente se deberá tener en cuenta:
@@ -1167,7 +1281,9 @@ Cuando se hubiere otorgado la ejecución condicional de la medida de internamien
 
 En caso de incumplimiento voluntario de las demás medidas, la Dirección General de Reintegración Social para Adolescentes podrá solicitar al Juez de Ejecución la aplicación de medios de apremio para lograr su cumplimiento.
 
-Tratándose de la medida de internamiento, no podrá exceder de dos tercios de la máxima penalidad establecida para el delito correspondiente.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Tratándose de la medida de internamiento, no podrá exceder de dos tercios de la máxima punibilidad establecida para el delito correspondiente, debiendo ajustarse, en todo caso, a los límites mínimo y máximo previstos por el artículo 114 de esta Ley.
 
 ###### Artículo 104.
 
@@ -1257,9 +1373,13 @@ La medida de internamiento consiste en hacer permanecer al adolescente en el Cen
 
 El tratamiento será integral, porque incidirá en todos los aspectos que conforman el desarrollo biosicosocial del adolescente; secuencial, porque llevará una evolución ordenada en función de sus potencialidades; interdisciplinario, por la participación de técnicos de diversas disciplinas en los programas de tratamiento; y dirigido al adolescente con el apoyo de su familia, porque el tratamiento se adecuará a las características propias de cada adolescente y de su familia.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 114.
 
-El internamiento sólo podrá aplicarse a los adolescentes mayores de catorce años y menores de dieciocho años por aquellas conductas tipificadas como graves en el Código Penal y no podrá exceder de siete años.
+El internamiento sólo podrá aplicarse a los adolescentes mayores de catorce años y menores de dieciocho años por aquellas conductas señaladas como graves en el artículo 26 A de esta Ley.
+
+Cuando se trate de adolescentes mayores de catorce y menores de dieciséis años el internamiento no podrá ser menor de un año ni exceder de cuatro años; cuando se trate de adolescentes entre dieciséis años y menores de dieciocho, éste no podrá ser menor de dos años ni exceder de siete años.
 
 ###### Artículo 115.
 
@@ -1279,7 +1399,9 @@ El internamiento se cumplirá en lugar diferente al destinado para la compurgaci
 
 La medida de internamiento impuesta al adolescente podrá suspenderse en la misma sentencia por el Juez que la decrete, a su prudente arbitrio y oficiosamente, siempre que concurran las siguientes circunstancias:
 
-I. Que sea la primera vez que comete una conducta tipificada como delito grave en el Código Penal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+I. Que sea la primera vez que se hace responsable por una conducta señalada como grave en el artículo 26 A de esta Ley;
 
 II. Que haya observado buena conducta durante el procedimiento; y
 
@@ -1287,7 +1409,9 @@ III. Que la duración de la medida dictada no sea mayor a tres años.
 
 La suspensión condicional de la medida de internamiento no procederá cuando la conducta atribuida al adolescente sea cualesquiera de las figuras típicas señaladas en el artículo 41 de esta Ley.
 
-Para poder acceder a este beneficio, deberá haberse reparado el daño causado, siempre y cuando las condiciones del adolescente lo permitan y el Juez para Adolescentes así lo determine.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+Para poder acceder a este beneficio, deberá haberse reparado el daño causado.
 
 ###### Artículo 119.
 
@@ -1409,9 +1533,15 @@ I. Haber cubierto al menos el sesenta por ciento de la medida impuesta;
 
 II. Que no se le hayan aplicado reiteradamente correcciones disciplinarias durante su internamiento;
 
-III. En su caso, carta compromiso de los padres, tutores o quienes ejerzan la patria potestad o la custodia, en la que se responsabilicen de que el adolescente cumplirá con las obligaciones que le sean impuestas; y
+III. En su caso, carta compromiso de los padres, tutores o quienes ejerzan la patria potestad o la custodia, en la que se responsabilicen de que el adolescente cumplirá con las obligaciones que le sean impuestas; y (sic)
 
-IV. Que se esté cumpliendo satisfactoriamente el Programa Personalizado de Ejecución, de acuerdo al dictamen que produzca el Consejo Técnico Interdisciplinario.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+IV. Que se esté cumpliendo satisfactoriamente el Programa Personalizado de Ejecución, de acuerdo al dictamen que produzca el Consejo Técnico Interdisciplinario; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+V. Haber cubierto la reparación del daño.
 
 Si en la sentencia se hubieren impuesto otras obligaciones al adolescente, deberán también cumplirse.
 
@@ -1447,7 +1577,7 @@ Si el beneficiado con la suspensión, incumple con alguna de las obligaciones qu
 
 ###### Artículo 137.
 
-El Ejecutivo podrá otorgar al adolescente que esté cumpliendo internamiento su condonación, sólo en casos especiales, que deberán justificarse en la resolución correspondiente.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2008)
 
 ###### Artículo 138.
 
@@ -1501,15 +1631,25 @@ Si el adolescente se sustrae de la acción de la autoridad, se iniciará de nuev
 
 La acción del Estado prescribirá:
 
-l. A los siete años cuando se trate de conductas tipificadas como delitos graves en el Código Penal, sancionados con pena privativa de libertad cuyo término medio aritmético sea de quince años o más;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
-II. A los cinco años cuando se trate de conductas tipificadas como delitos graves en el Código Penal, sancionados con pena privativa de libertad cuyo término medio aritmético sea de diez años y menos de quince años;
+I. A los siete años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de quince años o más;
 
-III. A los tres años cuando se trate de conductas tipificadas como delitos graves en el Código Penal, sancionados con pena privativa de libertad cuyo término medio aritmético sea menor de diez años;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
-IV. Al año cuando se trate de conductas tipificadas como delitos considerados no graves en el Código Penal y sancionados con pena privativa de libertad cuyo término medio aritmético sea de dos años o superior a este; y
+II. A los seis años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de diez años y menos de quince años;
 
-V. A los seis meses cuando se trate de conductas tipificadas como delitos considerados no graves en el Código Penal y sancionados con pena privativa de libertad cuyo término medio aritmético sea menor al año, o tengan asignada una sanción no corporal o cuando sea alternativa.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+III. A los cuatro años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea menor de diez años;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+IV. A los dos años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de dos años o superior a éste; y
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+
+V. Al año cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea menor de dos años, o tengan asignada una sanción no privativa de libertad o cuando sea alternativa.
 
 ###### Artículo 148.
 
@@ -1614,3 +1754,9 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2008.
+
+Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
