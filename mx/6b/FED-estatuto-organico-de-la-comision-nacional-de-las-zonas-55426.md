@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-las-zonas-55426"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-11"
-last_updated: "2007-05-11"
+last_updated: "2008-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55426&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-04-26"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL DE LAS ZONAS ARIDAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DE LA COMISION NACIONAL DE LAS ZONAS ARIDAS, PUBLICADO EN EL D.O.F. DE 3 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 11 de mayo de 2007.
 
@@ -452,3 +454,13 @@ TERCERO.- En lo relativo a los procedimientos y trámites administrativos que se
 CUARTO.- El presente Estatuto Orgánico se publicará en el Diario Oficial de la Federación de conformidad a la normatividad aplicable.
 
 México, D.F., a 26 de abril de 2007.- El Presidente Suplente, Antonio Ruiz García.- Rúbrica.- El Secretario Técnico, José de Jesús Romo Santos.- Rúbrica.- El Comisario Público Suplente, Miguel Alberto Abiaca Lee.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 3 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto anterior aprobado por el H. Consejo Directivo en su Sesión Ordinaria número 101, mediante el acuerdo No. 101.06.06, celebrada el 17 de noviembre de 2006.
+
+TERCERO.- En lo relativo a los procedimientos y trámites administrativos que se encuentren vigentes, continuarán conforme al Estatuto vigente al inicio del trámite correspondiente.
