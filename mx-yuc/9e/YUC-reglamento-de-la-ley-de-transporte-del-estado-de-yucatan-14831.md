@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transporte-del-estado-de-yucatan-14831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-25"
-last_updated: "1999-06-25"
+last_updated: "2008-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICAD EN EL DIARIO OFICIAL: 3 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 25 de junio de 1999.
 
@@ -151,9 +151,11 @@ VI. Proponer al Ejecutivo del Estado las modificaciones que considere deban ser 
 
 VII. Turnar las propuestas de concesión al Ejecutivo del Estado que resulten de la convocatoria que se emite, debidamente analizadas a fin de que esa autoridad dicte la resolución correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 8.
 
-En el ejercicio de las atribuciones que le confiere la Ley, la Secretaría de Protección y Vialidad estará facultada para:
+En el ejercicio de las atribuciones que le confiere la Ley, la Secretaría de Seguridad Pública estará facultada para:
 
 I. Auxiliar a la Secretaría General de Gobierno, cuando ésta así lo requiera, en el ejercicio de sus funciones o con motivo de ellas;
 
@@ -179,9 +181,11 @@ VI. Conocer sobre las quejas e inconformidades que se presenten en la prestació
 
 VII. Realizar los estudios que sean necesarios para evaluar las condiciones de funcionamiento del servicio público de transporte y turnarlos al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, y VIII. Las demás que le confieran el Ejecutivo del Estado, el Secretario General de Gobierno, el Director de Transporte y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 10.
 
-Son auxiliares de las autoridades de transporte en el estado, los Inspectores de Transporte y los agentes de la Secretaría de Protección y Vialidad.
+Son auxiliares de las autoridades de transporte en el estado, los Inspectores de Transporte y los agentes de la Secretaría de Seguridad Pública.
 
 ###### ARTÍCULO 11.
 
@@ -195,7 +199,9 @@ III. Vigilar el estricto cumplimiento de las disposiciones establecidas en la Le
 
 IV. Levantar las infracciones por violaciones a la Ley, a este Reglamento y a las demás disposiciones legales aplicables e informar de ello al Director de Transporte;
 
-V. Solicitar el auxilio de los agentes de la Secretaría de Protección y Vialidad, cuando así lo requieran, para hacer cumplir las disposiciones de la Ley, este Reglamento y demás disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
+V. Solicitar el auxilio de los agentes de la Secretaría de Seguridad Pública, cuando así lo requieran, para hacer cumplir las disposiciones de la Ley, este Reglamento y demás disposiciones legales aplicables;
 
 VI. Practicar visitas de inspección en las terminales y sitios de los vehículos destinados al servicio de transporte público de carga y de pasajeros;
 
@@ -327,7 +333,9 @@ El Registro de Vehículos señalado en el artículo anterior estará integrado p
 
 I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre los vehículos y sus motores, así como el arrendamiento de éstos mismos;
 
-II. Los certificados a que se refieren los artículos 53 y 54 de la Ley, y los números de placas de circulación que porten estas unidades, las cuales deberán ser expedidas por la Secretaría de Protección y Vialidad;
+> <small>(REFORMADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
+II. Los certificados a que se refieren los artículos 53 y 54 de la Ley, y los números de placas de circulación que porten estas unidades, las cuales deberán ser expedidas por la Secretaría de Seguridad Pública;
 
 III. Las concesiones y permisos que amparen el servicio de transporte público o particular, según corresponda, así como los actos y resoluciones legales que los modifiquen o terminen; y
 
@@ -1297,7 +1305,9 @@ Las terminales destinadas al servicio de transporte público de carga deberán c
 
 I. Las instalaciones y equipo necesario para el embarque y desembarque de los productos y cosas de su función, en los términos que establece la Ley y este Reglamento;
 
-II. Estar ubicadas en lugares previamente autorizados por el Ejecutivo del Estado por conducto de la Secretaría General de Gobierno y la Secretaría de Protección y Vialidad;
+> <small>(REFORMADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
+II. Estar ubicadas en lugares previamente autorizados por el Ejecutivo del Estado por conducto de la Secretaría General de Gobierno y la Secretaría de Seguridad Pública;
 
 III. Almacenes con dimensión suficiente para la recepción o desembarque de la carga;
 
@@ -1413,9 +1423,11 @@ III. Hasta de 15 años, cuando se trate del servicio de transporte urbano.
 
 La antigüedad a que se refieren los dos artículos anteriores, se entenderán referidas a la antigüedad del motor de los vehículos, la que se obtendrá de la fecha de fabricación o reconstrucción del mismo. En todos los casos, la carrocería y los demás componentes de los vehículos destinados al servicio de transporte deberán estar en adecuado estado de conservación y no representar riesgo alguno para los usuarios.
 
+> <small>(REFORMADO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 131.
 
-Los vehículos destinados al servicio público o particular de transporte de pasajeros o de carga, estarán dotados de placas metálicas de identificación específicas autorizadas para el tipo de transporte que corresponda, calcomanías u hologramas y tarjetas de circulación correspondientes que otorgue la Secretaría de Protección y Vialidad. Los propietarios o poseedores legítimos de dichos vehículos deberán cumplir con el procedimiento de expedición, reposición y revalidación que establezca este Reglamento y demás disposiciones legales aplicables.
+Los vehículos destinados al servicio público o particular de transporte de pasajeros o de carga, estarán dotados de placas metálicas de identificación específicas autorizadas para el tipo de transporte que corresponda, calcomanías u hologramas y tarjetas de circulación correspondientes que otorgue la Secretaría de Seguridad Pública. Los propietarios o poseedores legítimos de dichos vehículos deberán cumplir con el procedimiento de expedición, reposición y revalidación que establezca este Reglamento y demás disposiciones legales aplicables.
 
 ### CAPÍTULO III. DE LAS IMPUGNACIONES
 
@@ -1537,9 +1549,11 @@ Los inspectores de Transporte podrán realizar inspecciones rutinarias a los veh
 
 Dentro de un plazo de cinco días siguientes al hecho de que se trate, el infractor podrá acudir a la Dirección de Transporte para alegar lo que a su derecho convenga y presentar pruebas de su dicho. En un término de diez días hábiles, posteriores al vencimiento del plazo antes señalado, el Director de Transporte emitirá la resolución correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 145.
 
-Los inspectores de Transporte o en su caso, los agentes de la Secretaría de Protección y Vialidad podrán impedir la circulación de los vehículos destinados al servicio de transporte cuando se violen de manera flagrante las disposiciones de la Ley y su Reglamento, siempre que concurran las siguientes condiciones:
+Los inspectores de Transporte o en su caso, los agentes de la Secretaría de Seguridad Pública podrán impedir la circulación de los vehículos destinados al servicio de transporte cuando se violen de manera flagrante las disposiciones de la Ley y su Reglamento, siempre que concurran las siguientes condiciones:
 
 I. Los vehículos presten el servicio sin las placas correspondientes a la modalidad de concesión o permiso autorizados;
 
@@ -1569,7 +1583,9 @@ III. Por dejar de prestar el servicio público de transporte sin informar en los
 
 IV. Por prestar un servicio particular de transporte sin contar con el permiso correspondiente, en los términos del Artículo 36 de la Ley;
 
-V. Por prestar algún servicio de transporte sin contar con las placas expedidas por la Secretaría de Protección y Vialidad, para prestar el servicio de que se trate, en los términos del Artículo 42 de la Ley; y
+> <small>(REFORMADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
+V. Por prestar algún servicio de transporte sin contar con las placas expedidas por la Secretaría de Seguridad Pública, para prestar el servicio de que se trate, en los términos del Artículo 42 de la Ley; y
 
 VI. Por continuar prestando el servicio de transporte cuando la concesión o permiso no hayan sido renovados, por causas imputables al concesionario o permisionario, en los términos del Artículo 47 de la Ley.
 
@@ -1621,7 +1637,7 @@ La impugnación de las resoluciones dictadas por las autoridades competentes en 
 
 ###### ARTÍCULO 153.
 
-En el caso de que el Ejecutivo del Estado delegue algunas de las facultades establecidas en el Ley y su Reglamento, las impugnaciones se substanciarán previamente de conformidad a lo que establezca la Ley Orgánica de los Municipios.
+(DEROGADO, D.O. 3 DE SEPTIEMBRE DE 2008)
 
 ###### ARTÍCULO 154.
 
@@ -1635,9 +1651,15 @@ I. Auxiliar al Ejecutivo del Estado en la planeación y organización de las act
 
 II. Recomendar las medidas que considere necesarias para el mejor desarrollo de los programas y actividades relativas al transporte que implemente el Ejecutivo del Estado;
 
-III. Proponer programas y proyectos que tiendas a proteger y mejorar el servicio de transporte en el Estado.
+III. Proponer programas y proyectos que tiendas a proteger y mejorar el servicio de transporte en el Estado;
 
-IV. Las demás funciones que le encomiende el Ejecutivo del Estado.
+> <small>(REFORMADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
+IV. Establecer comisiones que le auxilien en el cumplimiento de sus funciones, y
+
+> <small>(ADICIONADA, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
+V. Las demás funciones que le encomiende el Ejecutivo del Estado.
 
 ###### ARTÍCULO 156.
 
@@ -1653,15 +1675,21 @@ IV. Pertenecer a organismos relacionados con el transporte; y
 
 V. Las demás que determine el Ejecutivo del Estado.
 
+> <small>(REFORMADO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 157.
 
-El Consejo Consultivo del Transporte estará integrado por:
+El Consejo del Transporte estará integrado por:
 
-I. Un presidente, que será el Gobernador del Estado;
+I. Un presidente, que será el Gobernador del Estado, o la persona que designe para ello;
 
-II. El número de vocales que determine el Gobernador del Estado, el cual no podrá exceder de 15, y
+II. Un Secretario Técnico;
 
-III. Los demás representantes de los sectores público, social y privado que el Gobernador del Estado convoque.
+III. El número de vocales que determine el Gobernador del Estado, el cual no podrá exceder de 15;
+
+IV. Las personas físicas o morales, cuya participación se considere conveniente en el análisis y estudio de los asuntos que se analicen en el seno del Consejo del Transporte, y
+
+V. Los demás representantes de los sectores público, social y privado que el Gobernador del Estado convoque.
 
 ###### ARTÍCULO 158.
 
@@ -1701,9 +1729,11 @@ VI. Levantar las actas de las sesiones del Consejo; y
 
 VII. Las demás que le encargue el Presidente del Consejo Consultivo.
 
+> <small>(REFORMADO, D.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 161.
 
-Los Vocales del Consejo Consultivo del Transporte en el Estado y los representantes de los sectores público, social y privado que integren el Consejo Directivo, participarán en las sesiones del mismo, con voz y voto, emitiendo sus opiniones acerca de los asuntos que se planteen.
+Los integrantes del Consejo Consultivo del Transporte señalados en las fracciones I, III, IV y V del artículo 157 de este Reglamento, participarán en las sesiones del mismo, con voz y voto; el Secretario Técnico podrá emitir sus opiniones acerca de los asuntos que se planteen, pero no tendrá derecho a votarlos.
 
 ###### ARTÍCULO 162.
 
@@ -1756,3 +1786,9 @@ ABOG. R. CLEOMINIO ZOREDA NOVELO
 EL SECRETARIO DE PROTECCIÓN Y VIALIDAD
 
 LUIS FELIPE SAIDEN OJEDA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 3 DE SEPTIEMBRE DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
