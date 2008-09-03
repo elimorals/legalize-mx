@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-consejo-general-del-instituto-federal-electoral-621
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-08-14"
-last_updated: "2008-08-14"
+last_updated: "2008-09-03"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE CREA EL ORGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE SEPTIEMBRE DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
@@ -157,15 +157,17 @@ Acuerdo
 
 Primero.- Se aprueba la creación del Organo Garante de la Transparencia y el Acceso a la Información Pública del Instituto Federal Electoral, a fin de dar cumplimiento a lo previsto en el párrafo segundo, fracción IV, del artículo 6o. de la Constitución.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO CG354/2008 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 3 DE SEPTIEMBRE DE 2008)</small>
+
 Segundo.- Se aprueba la nueva integración del Organo Garante de la Transparencia y el Acceso a la información, en los términos que a continuación se indican:
 
-Consejero Electoral Presidente
+Francisco Javier Guerrero Aguirre Presidente
 
-Contralor General del Instituto
+Marco Antonio Baños Martínez
 
-Especialista
+Arturo Sánchez Gutiérrez
 
-Director Jurídico Secretario Técnico
+Rolando De Lassé Cañas Secretario Técnico
 
 Consejero del Poder Legislativo del Grupo
 
@@ -314,3 +316,9 @@ Décimo segundo.- El presente Acuerdo deberá publicarse en el Diario Oficial de
 Primero.- Este instrumento entrará en vigor una vez que el Consejo General apruebe la designación de los funcionarios a que se refiere el punto tercero del presente Acuerdo.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE SEPTIEMBRE DE 2008.
+
+Unico.- El presente Acuerdo entrará en vigor a partir de su aprobación en la sesión correspondiente del Consejo General y tendrá efectos hasta la entrada en vigor del Acuerdo por el que se crea el Organo Garante de la Transparencia y el Acceso a la Información del Instituto Federal Electoral, aprobado en la sesión extraordinaria del Consejo General, celebrada el 10 de julio de 2008, en términos del artículo Décimo Segundo Transitorio del Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, aprobado en la misma sesión y publicado en el Diario Oficial de la Federación el 12 de agosto de 2008.
