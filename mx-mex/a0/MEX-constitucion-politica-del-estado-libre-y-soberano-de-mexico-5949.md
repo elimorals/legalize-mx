@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2008-07-25"
+last_updated: "2008-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -287,7 +287,7 @@ La ley fijará las causales de nulidad de las elecciones de Gobernador, Diputado
 
 La ley establecerá los supuestos y las reglas para el ejercicio de los medios de apremio para hacer cumplir de manera expedita sus resoluciones.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 14.
 
@@ -617,13 +617,21 @@ Las elecciones de diputados por el principio de mayoría relativa serán computa
 
 El cómputo y la declaración de validez de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será hecha por el organismo público estatal encargado de la organización, desarrollo y vigilancia de las elecciones.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 46.
 
-La Legislatura del Estado se reunirá en sesiones ordinarias dos veces al año. El primer período iniciará el 5 de septiembre y concluirá a más tardar el 30 de diciembre; y el segundo iniciará el 2 de mayo y no podrá prolongarse más allá del 31 de julio.
+La Legislatura del Estado de México se reunirá en sesiones ordinarias tres veces al año, iniciando el primer periodo el 5 de septiembre y concluyendo, a más tardar el 18 de diciembre; el segundo iniciará el 1º de marzo y no podrá prolongarse más allá del 30 de abril; y el tercero iniciará el 20 de julio, sin que pueda prolongarse más allá del 15 de agosto.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
+
+En el año de inicio del período constitucional del Ejecutivo Federal el primer período podrá prolongarse hasta el 31 de diciembre.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia asistirán al recinto de la Legislatura a la apertura de sesiones ordinarias del primer período.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 Excepcionalmente, la Legislatura podrá invitar a los titulares de los poderes Ejecutivo y Judicial a asistir a su recinto con motivo de la celebración de sesiones solemnes.
 
@@ -2929,36 +2937,12 @@ PRIMERO.- publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-###### ARTICULO SEGUNDO.
+G.G. 3 DE SEPTIEMBRE DE 2008.
 
-El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTÍCULO PRIMERO.
 
-G.G. 22 DE JUNIO DE 2006.
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+###### ARTÍCULO SEGUNDO.
 
-G.G. 16 DE AGOSTO DE 2006.
-
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 29 DE ENERO DE 2007.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- La reforma a la Constitución del Estado Libre y Soberano de México, contenida en el presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y de los municipios, correspondientes al ejercicio fiscal 2006.
-
-G.G. 6 DE JULIO DE 2007.
-
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 25 DE JULIO DE 2007.
-
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
