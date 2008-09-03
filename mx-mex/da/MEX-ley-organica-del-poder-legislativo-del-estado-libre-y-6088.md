@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2008-08-11"
+last_updated: "2008-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -63,9 +63,15 @@ El ejercicio del Poder Legislativo se deposita en una asamblea denominada Legisl
 
 A la Legislatura se le denominará agregando previamente el número romano que le corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 6.
 
-Durante su ejercicio constitucional, la Legislatura tendrá dos períodos de sesiones ordinarias cada año, el primer período iniciará el 5 de septiembre y concluirá a más tardar el 30 de diciembre; y el segundo iniciará el 2 de mayo y no podrá prolongarse más allá del 31 de julio, pudiendo ser convocada a períodos de sesiones extraordinarias en los términos previstos por la Constitución y la ley.
+Durante su ejercicio constitucional, la Legislatura tendrá tres períodos de sesiones ordinarias cada año, el primer periodo iniciará el 5 de septiembre y concluirá, a más tardar el 18 de diciembre; el segundo iniciará el 1º de marzo y no podrá prolongarse más allá del 30 de abril; y el tercero iniciará el 20 de julio, sin que pueda prolongarse más allá del 15 de agosto, pudiendo ser convocada a períodos de sesiones extraordinarias en los términos previstos por la Constitución y la ley.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
+
+En el año de inicio del período constitucional del Ejecutivo Federal el primer período podrá prolongarse hasta el 31 de diciembre.
 
 Se consideran días hábiles para el trabajo legislativo todos los comprendidos dentro de cada período.
 
@@ -1604,6 +1610,16 @@ TERCERO.- Cuando se haga referencia en disposiciones legales o administrativas a
 En cumplimiento del presente decreto se modifican los acuerdos publicados en el Periódico Oficial "Gaceta del Gobierno" de fechas 26 de septiembre y 29 de noviembre del año 2006, en cuanto a la denominación de la Comisión de Recursos Acuíferos para sustituirse por la de Recursos Hidráulicos.
 
 G.G. 11 DE AGOSTO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2008.
 
 ###### ARTÍCULO PRIMERO.
 
