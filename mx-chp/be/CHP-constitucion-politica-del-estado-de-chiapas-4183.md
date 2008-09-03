@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2008-06-11"
+last_updated: "2008-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -815,7 +815,7 @@ XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XXIX.- Para la revisión de la Cuenta Publica que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
+XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -1277,9 +1277,9 @@ El Ministerio Publico es una institución pública, autónoma de buena fe, la cu
 
 En el caso de delitos electorales, la Institución del Ministerio Público, actuará por conducto de la Fiscalía Electoral, en términos del artículo 19 de esta Constitución y las disposiciones que fijen las leyes secundarias.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2008)</small>
 
-En la investigación y persecución de los demás delitos del fuero común la institución del ministerio público, ejercerá sus atribuciones a través del Ministerio de Justicia del Estado, auxiliándose de una policía que estará bajo su autoridad y mando inmediato; por lo tanto le corresponderá solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas; le corresponde, así mismo, velar porque los juicios se tramiten con apego a la ley, para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la ley determine.
+En la investigación y persecución de los demás delitos del fuero común la Institución del Ministerio Público, ejercerá sus atribuciones a través del Ministerio de Justicia del Estado, auxiliándose de una policía que se denominará Buró Ministerial de Investigación, la cual llevará a cabo la investigación de los delitos del orden común, bajo el mando y conducción jurídica de aquel en el ejercicio de esta función; por lo tanto, corresponderá al Ministerio Público solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas; le corresponde asimismo, velar porque los juicios se tramiten con apego a la ley, para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la ley determine.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1419,7 +1419,7 @@ En cualquiera de sus modalidades, la impartición de justicia será pronta, grat
 
 Para el ejercicio de sus atribuciones, el Poder Judicial contará con una Magistratura Superior del Estado, compuesta por un Tribunal Constitucional y Salas Regionales Colegiadas; un Consejo de la Magistratura; un Tribunal de Justicia Electoral y Administrativa; un Tribunal del Trabajo Burocrático; Juzgados de Primera Instancia; Juzgados y Salas Especializadas en Justicia para Adolescentes; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena y Juzgados Municipales; asimismo contará con un Centro de Justicia Alternativa y un Instituto de la Defensoría Social. Las particularidades de su organización y desempeño, serán previstas por un Código de Organización del Poder Judicial y en el Reglamento Interno que al efecto emita cada uno de sus órganos, con base en lo dispuesto en esta Constitución y demás normatividad aplicable.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en las materias Electoral y Administrativa; sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos; sesionará en Pleno y en Salas, y sus sesiones serán públicas. Estará integrado por siete magistrados, uno de los cuales, por decisión del Pleno, fungirá como su presidente. De los siete magistrados, cinco serán nombrados por el Congreso del Estado o por la Comisión Permanente en su caso, de entre las propuestas que formulen los grupos parlamentarios, durarán en el cargo siete años con posibilidad de ser reelectos para otro periodo Igual; los restantes, serán designados por el Tribunal Constitucional de entre los magistrados de las Salas Regionales Colegiadas.
 
@@ -1837,7 +1837,7 @@ En ningún caso podrán hacerse incorporaciones o segregaciones de un municipio 
 
 ###### ARTICULO 64.
 
-El patrimonio y la Hacienda del Estado se componen de los bienes del mismo, de los mostrencos abandonados o vacantes que estén dentro de su territorio; de las herencias y donativos; de los creditos que obtenga a su favor, de las rentas que deba percibir, de los ingresos decretados por el Congreso, de las participaciones federales y de los que por cualquier otro título obtenga.
+El patrimonio y la Hacienda del Estado se componen de los bienes del mismo, de los mostrencos, abandonados o vacantes que estén dentro de su territorio, de las herencias y donativos, de los créditos que obtenga a su favor, de las rentas que deba percibir, de los ingresos decretados por el Congreso, de las participaciones federales, de aquellos cuyo dominio se declare extinto a favor del Estado por sentencia judicial, y de los que por cualquier otro título obtenga.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -2025,7 +2025,7 @@ Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o 
 
 ## TITULO OCTAVO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 80.
 
@@ -2459,7 +2459,7 @@ Las niñas y niños de la Entidad, deben disponer de la libertad de crecer en un
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
 
-El Estado garantizará que los habitantes mayores de 64 años, reciban una aportación económica para complementar su manutención, en los términos y condiciones del acuerdo que para tal efecto emita el Ejecutivo.Defensa de los Derechos Indígenas.
+El Estado garantizará que los habitantes mayores de 64 años, reciban una aportación económica para complementar su manutención, en los términos y condiciones del acuerdo que para tal efecto emita el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -3049,7 +3049,7 @@ P.O. 17 DE AGOSTO DE 2003.
 
 Primero.- El presente Decreto de reformas a la Constitución iniciará su vigencia al siguiente día a su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Orgánica del Congreso y la Ley del Organo de Fiscalización Superior.
+Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Orgánica del Congreso y la Ley del Órgano de Fiscalización Superior.
 
 Tercero.- En tanto se crea la Nueva Ley de Fiscalización Superior del Estado, la actual Entidad de Fiscalización Superior continuará ejerciendo las atribuciones conforme a la ley que actualmente le rige.
 
@@ -3249,13 +3249,13 @@ Primero.- El presente decreto entrará en vigencia el día primero de enero del 
 
 Las reformas de los artículos 22 y 61, de la Constitución Política del Estado de Chiapas contenidas en el presente decreto, entrarán en vigencia a partir del treinta de septiembre del año dos mil doce.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2008)</small>
+
 Segundo.- Como excepción a lo dispuesto por los artículos 16 y 61, de la Constitución Política del Estado, por única ocasión:
 
-a) Los diputados al Congreso del Estado que integrarán la Sexagésima Cuarta Legislatura, que resulten electos en la elección del año dos mil diez, tomarán protesta el día dieciséis de noviembre del año de la elección y cesarán en sus funciones el día treinta de septiembre del año dos mil doce.
+a) La elección para Diputados al Congreso del Estado que integrarán la Sexagésima Cuarta Legislatura, se celebrará el primer domingo de octubre del año dos mil diez; tomarán protesta el día dieciséis de noviembre del año de la elección y cesarán en sus funciones el día treinta de septiembre del año dos mil doce.
 
-b) Los integrantes de los ayuntamientos que sean electos el primer domingo de julio del año dos mil diez, tomarán la protesta respectiva el día primero de enero del año dos mil once y cesarán en sus funciones el treinta de septiembre de dos mil doce.
-
-Lo anterior a efecto de ajustar las fechas y hacer coincidir las elecciones locales con las federales.
+b) Los integrantes de los Ayuntamientos serán electos el primer domingo de octubre del año dos mil diez; tomarán la protesta respectiva el dia primero de enero del año dos mil once y cesarán en sus funciones el treinta de septiembre del año dos mil doce.
 
 Tercero.- Se extingue el Instituto Estatal Electoral bajo las consideraciones de los artículos contenidos en el presente decreto. Los recursos humanos, materiales y financieros que actualmente lo conforman, se transferirán en lo que proceda al Instituto de Elecciones y Participación Ciudadana a partir del día primero de enero de dos mil ocho.
 
@@ -3288,3 +3288,21 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- La designación de los nuevos magistrados que integrarán el Tribunal Constitucional de la Magistratura Superior del Estado, se hará en un plazo que no exceda de treinta días hábiles posteriores a la entrada en vigencia del presente Decreto, en los términos establecidos por el artículo 50, de esta Constitución.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2008.
+
+DECRETO NUMERO 237, POR EL QUE SE REFORMA EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 004, DE FECHA 29 DE NOVIEMBRE DE 2007, DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2008.
+
+DECRETO NUMERO 238, POR EL QUE SE REFORMAN EL PARRAFO TERCERO DEL ARTICULO 47 Y EL ARTICULO 64, DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero.- El Congreso del Estado deberá expedir la ley reglamentaria de bienes extintos a favor del Estado.
