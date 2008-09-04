@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-postal-mexicano-51535"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-09-04"
-last_updated: "2006-09-04"
+last_updated: "2008-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-08-30"
 
 ESTATUTO ORGANICO DEL SERVICIO POSTAL MEXICANO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL SERVICIO POSTAL MEXICANO, PUBLICADO EN EL D.O.F. DE 4 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -746,3 +748,35 @@ Artículo Tercero
 Continuarán vigentes los Manuales y Normas diversas expedidas por el Organismo siempre y cuando éstas no se opongan al presente.
 
 México, D.F., a 30 de agosto de 2006.- El Director General, Gonzalo Alarcón Osorio.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMA AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 4 DE SEPTIEMBRE DE 2008.
+
+Artículo Primero
+
+El presente Estatuto Orgánico entrará en vigor a partir del día siguiente en que se publique en el Diario Oficial de la Federación, previa aprobación de la Junta Directiva del Servicio Postal Mexicano.
+
+Artículo Segundo
+
+Se abroga el Estatuto Orgánico del Servicio Postal Mexicano publicado en el Diario Oficial de la Federación el 4 de septiembre de 2006, con excepción por lo dispuesto en los artículos transitorios siguientes.
+
+Artículo Tercero
+
+Continuarán vigentes los Manuales y Normas diversas expedidas por el Servicio Postal Mexicano siempre y cuando éstas no se opongan al presente.
+
+Artículo Cuarto
+
+Se derogan todas las disposiciones que se opongan al presente.
+
+Artículo Quinto
+
+Los asuntos pendientes al entrar en vigor este Estatuto Orgánico, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+Artículo Sexto
+
+Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna unidad administrativa establecida con anterioridad a la vigencia del mismo, aquella unidad administrativa atenderá los asuntos a que se refiere este ordenamiento.
+
+Artículo Séptimo
+
+Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso sus prestaciones serán afectadas por la reorganización administrativa que implica el presente Estatuto Orgánico.
