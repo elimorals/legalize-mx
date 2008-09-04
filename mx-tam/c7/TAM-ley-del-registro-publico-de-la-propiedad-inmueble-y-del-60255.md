@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2008-06-25"
+last_updated: "2008-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -319,9 +319,7 @@ V. Aquellos cuyo registro esté ordenado por disposición de la ley.
 
 ###### ARTICULO 26.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2008)</small>
-
-1. Además de las inscripciones dispuestas en el artículo anterior, se podrá solicitar el registro de:
+Además de las inscripciones dispuestas en el artículo anterior, se podrá solicitar el registro de:
 
 I. Las declaratorias ambientales, de zonas protegidas y demás que conforme a los ordenamientos en materia ambiental y de desarrollo sustentable sean sujetos de inscripción;
 
@@ -351,15 +349,15 @@ XIII. El decreto de expropiación o de ocupación temporal y la declaración de 
 
 XIV. Los contratos de fideicomiso sobre bienes inmuebles;
 
-XV. La afectación de inmuebles al régimen de propiedad en condominio; y (sic)
+XV. La afectación de inmuebles al régimen de propiedad en condominio; y
 
-XVI. Cualquier acto o contrato de trascendencia en materia de derechos reales;
+XVI. Cualquier acto o contrato de trascendencia en materia de derechos reales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2008)</small>
 
 XVII. Las resoluciones administrativas y judiciales en que resulte conducente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2008)</small>
 
 2. Podrán inscribirse los documentos privados con firmas ratificadas ante notario público, cuando se trate de:
 
@@ -371,7 +369,7 @@ III. La cancelación del patrimonio de familia cuando solo se haya formalizado m
 
 IV. Los casos de documentos inscribibles en que la ley expresamente no establezca la formalidad de escritura pública.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2008)</small>
 
 3. El notario podrá formalizar en una misma escritura pública los actos previstos en el párrafo anterior, cuando se transmita el dominio del inmueble.
 
@@ -601,7 +599,7 @@ Cuando proceda, ya sea el notario o el interesado, deberá tramitar el registro 
 
 ###### ARTICULO 49.
 
-La calificación es una función del Registro Público consistente en verificar que:
+1. La calificación es una función del Registro Público consistente en verificar que:
 
 I. El testimonio reúna los requisitos formales;
 
@@ -614,8 +612,6 @@ IV. Los otorgantes se encuentren legitimados frente al Registro Público;
 V. Se hayan pagado los derechos registrales; y
 
 VI. En su caso, aquellos otros elementos objetivos que resulten del instrumento.
-
-2. (DEROGADO, P.O. 25 DE JUNIO DE 2008)
 
 #### SECCION SEGUNDA. DE LA CALlFICACION DE LAS RESOLUCIONES
 
@@ -991,13 +987,7 @@ Los documentos que se otorguen conforme a este Capítulo deberán consignar el n
 
 ###### ARTICULO 108.
 
-1. En los supuestos mencionados en el párrafo 1 del artículo 104, constituye una obligación del Notario Público solicitar el certificado con reserva de prioridad y tener a la vista el título antecedente. Sin estos presupuestos de eficacia de la escritura pública, el acto carecerá de efectos.
-
-2. La consecuencia prevista en el párrafo anterior podrá ser subsanada conforme lo determine el Reglamento, pero en ese caso el acto no gozará de reserva de prioridad.
-
-3. En la hipótesis de actos cancelatorios, los que no generan reserva de prioridad, el Notario Público podrá solicitar, si lo desea, certificado informativo.
-
-4. Para los demás funcionarios que autoricen documentos por los que se constituya, traslade, reconozca, transmita, declare, modifique, limite, grave o ceda algún derecho real sobre inmuebles, será facultativo solicitar certificados con reserva de prioridad, a fin de que la operación goce de los beneficios de dicha reserva, sin implicar su falta la ineficacia del acto.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2008)
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
@@ -1537,9 +1527,15 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE JUNIO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2008.
 
 ###### ARTICULO UNICO.
 
