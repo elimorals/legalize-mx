@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2008-08-01"
+last_updated: "2008-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -855,9 +855,9 @@ XVII.- Comisión Reguladora de Bebidas Alcohólicas.
 
 XVIII.- Comisión de Equidad y Género.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
 
-XX (SIC).- Comisión de Derechos Humanos y Grupos Vulnerables.
+XX (SIC).- Comisión de Derechos Humanos, Grupos Vulnerables y Asuntos Indígenas.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1167,17 +1167,29 @@ IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de
 
 V.- En general, aquellas que el Cabildo le encomiende.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
 
-ARTICULO 96 TER.- La Comisión de Derechos Humanos y Grupos Vulnerables, tiene las siguientes atribuciones:
+ARTICULO 96 TER.- Comisión de Derechos Humanos, Grupos Vulnerables y Asuntos Indígenas: tiene las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 I.- Vigilar la elaboración y actualización de programas en materia de protección de los Derechos Humanos;
 
-II.- Proponer al Cabildo o al Presidente Municipal, normatividad o programas y acciones a favor de grupos vulnerables.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
 
-III.- Participar en representación del Ayuntamiento en los foros o reuniones que realicen los organismos no gubernamentales y las autoridades tanto extranjeras como locales en asuntos relacionados con la protección de los Derechos Humanos;
+II.- Proponer al Cabildo o al Presidente Municipal, normatividad o programas y acciones a favor de grupos vulnerables y comunidades indígenas.
 
-IV.- Dictaminar respecto de los proyectos de convenios en los que el Ayuntamiento deberá participar institucionalmente con otros niveles de gobierno en asuntos relacionados con los derechos humanos y el mejoramiento de la calidad de vida de los grupos vulnerables, y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
+
+III.- Participar en representación del Ayuntamiento en los foros o reuniones que realicen los organismos no gubernamentales y las autoridades tanto extranjeras como locales en asuntos relacionados con la protección de los Derechos Humanos y lo que concierna a los asuntos indígenas.
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- Dictaminar respecto de los proyectos de convenios en los que el Ayuntamiento deberá participar institucionalmente con otros niveles de gobierno en asuntos relacionados con los derechos humanos y el mejoramiento de la calidad de vida de los grupos vulnerables y las comunidades indígenas.
+
+a) Fomentar la participación de los prestadores de servicio social en las comunidades indígenas.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 V.- En general, aquellas que el Cabildo le encomiende.
 
@@ -1458,3 +1470,7 @@ P.O. 1 DE AGOSTO DE 2008.
 PRIMERO.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el periódico Oficial del Estado y/o en la Gaceta Municipal órgano de difusión del Ayuntamiento de Tijuana Baja California.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones municipales que se opongan a lo establecido en el presente acuerdo.
+
+P.O. 5 DE SEPTIEMBRE DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
