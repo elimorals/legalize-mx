@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2007-10-30"
+last_updated: "2008-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2008.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -77,7 +77,9 @@ IV. Dirección de Administración;
 
 V. Dirección de Proyectos de Inversión Financiada;
 
-VI. Dirección de Modernización y Cambio Estructural;
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+VI. Dirección de Modernización;
 
 VII. Abogado General de la Comisión;
 
@@ -108,6 +110,10 @@ XIX. Subdirección de Contratación de Proyectos de Inversión Financiada;
 XX. Subdirección de Desarrollo de Proyectos;
 
 XXI. Subdirección de Proyectos y Construcción;
+
+> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+XXI Bis. Subdirección de Modernización y Nuevas Areas de Oportunidad;
 
 XXII. Coordinación del Programa de Ahorro de Energía del Sector Eléctrico;
 
@@ -174,6 +180,10 @@ XLI. Coordinación de Proyectos de Transmisión y Transformación;
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
 XLII. Coordinación CFE TELECOM;
+
+> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+XLII Bis. Coordinación de Servicios Tecnológicos;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
@@ -449,31 +459,27 @@ IV. Promover la inversión privada en proyectos de infraestructura eléctrica pa
 
 V. Establecer lineamientos para la elaboración de estudios técnicos referentes a proyectos, así como la evaluación del impacto ambiental de las obras y actividades de la Comisión.
 
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 14.
 
-A la Dirección de Modernización y Cambio Estructural le corresponden, además de las facultades genéricas señaladas en el artículo 9 de este Estatuto, las siguientes:
+A la Dirección de Modernización le corresponden, además de la (sic) facultades genéricas señala en el artículo 9 de este Estatuto, las siguientes:
 
-I. Coordinar las acciones tendientes al proceso de modernización y cambio estructural de la Comisión.
+I. Dirigir las acciones en materia de modernización de la Comisión.
 
-II. Proponer los mecanismos e instrumentos para la conformación de un mercado de energía, en los términos que dispongan la Secretaría de Energía y la Junta de Gobierno, y (sic)
+II. Dirigir las políticas y acciones para la comercialización, desarrollo y prestación de servicios de telecomunicaciones de la Comisión.
 
-III. Proponer los lineamientos y acciones para la creación de las Divisiones de Negocio en las áreas de generación, transmisión, transformación, control y distribución de la Comisión;
+III. Proponer proyectos que contribuyan al mejor aprovechamiento de la infraestructura, procesos y servicios, para diversificar fuentes de ingreso de la Comisión.
 
-> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+IV. Establecer las políticas y lineamientos en materia de Tecnologías de Información de la Comisión y establecer mecanismos de gestión y seguimiento.
 
-IV. Elaborar, difundir, implementar y actualizar las normas referentes a materiales, productos, equipos e instalaciones, así como para asegurar la calidad de los mismos;
+V. Dirigir la normalización referente a materiales, productos, equipos e instalaciones eléctricas, para establecer estándares para asegurar la calidad de los mismos.
 
-> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+VI. Coordinar el apoyo tecnológico de la Comisión con las instituciones académicas y de investigación eléctrica a nivel nacional e internacional.
 
-V. Coordinar y normar a las áreas operativas, técnicas y administrativas de la Comisión en el diseño, adquisición y operación de los sistemas informáticos y en la adquisición de bienes y contratación de servicios en materia de telecomunicaciones;
+VII. Promover la innovación, desarrollo de gestión de propiedad intelectual, difusión e implantación de las mejores prácticas de la Comisión, y
 
-> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
-
-VI. Coordinar el apoyo tecnológico del Instituto de Investigaciones Eléctricas a la Comisión, así como el de otras instituciones similares, y
-
-> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
-
-VII. Planear, dirigir, controlar, supervisar y coordinar las políticas y acciones para la comercialización, desarrollo y prestación de servicios de telecomunicaciones.
+VIII. Dirigir la política de Calidad y Competitividad de la Comisión.
 
 ### Capítulo V. Del Abogado General y de las Subdirecciones
 
@@ -732,6 +738,24 @@ VII. Supervisar la construcción de las obras civiles y el montaje de equipos el
 > <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
 VIII. Elaborar estudios técnicos referentes a proyectos hidroeléctricos, termoeléctricos, carboeléctricos, nucleoeléctricos y geohidrológicos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 30 Bis.
+
+A la Subdirección de Modernización y Nuevas Areas de Oportunidad le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+
+I. Identificar proyectos que permitan a la Comisión diversificar sus ingresos.
+
+II. Coordinar el desarrollo e implantación de proyectos de diversificación de ingresos de la Comisión.
+
+III. Coordinar el desarrollo de modelos de negocio y modelos operativos para las nuevas áreas de oportunidad.
+
+IV. Coordinar la implantación de mejores prácticas de la industria para promover la productividad y competitividad de la Comisión.
+
+V. Coordinar la comercialización de servicios de telecomunicaciones de la Comisión apegada al marco legal y normatividad existente, y
+
+VI. Evaluar el desarrollo y resultados de las divisiones de negocios de la Comisión con base en modelos de mercado de energía.
 
 ### Capítulo VI. De las Coordinaciones
 
@@ -1041,6 +1065,24 @@ IV. Atender los requerimientos de niveles y coberturas de servicio de telecomuni
 
 V. Proponer la estrategia tarifaria y la política de precios y descuentos con base en el mercado, la normatividad y el marco regulatorio aplicable en materia de telecomunicaciones.
 
+> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 49 Ter.
+
+A la Coordinación de Servicios Tecnológicos le corresponden, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
+
+I. Coordinar la administración de tecnologías de información de la Comisión, para satisfacer las necesidades de la misma y proponer las políticas y lineamientos en materia de Tecnologías de Información.
+
+II. Coordinar el proceso de normalización, control y supervisión de la calidad, así como las especificaciones de equipos y materiales utilizados en los diferentes procesos operativos de la Comisión, para el adecuado funcionamiento de los equipos que permitan la continuidad del servicio de energía eléctrica.
+
+III. Coordinar la gestión de las acciones que se deriven de los convenios que se celebren con instituciones académicas y de investigación, así como con el Instituto de Investigaciones Eléctricas.
+
+IV. Establecer y administrar el sistema de Gestión de Propiedad Intelectual e Industrial de la Comisión y promover el proceso de innovación.
+
+V. Promover la elaboración de convenios con instituciones para el intercambio de información, apoyos técnicos, tecnológicos y científicos, y
+
+VI. Coordinar el Programa de Calidad que promueva la competitividad y excelencia de la Comisión, así como proponer políticas, lineamientos y acciones en la materia.
+
 ### Capítulo VII. De las Gerencias de Oficinas Nacionales
 
 ###### Artículo 50.
@@ -1091,7 +1133,7 @@ VII. Asuntos Legales y Regulatorios en materia de Telecomunicaciones;
 
 VIII. Atención para Grandes Consumidores;
 
-IX. Cambio Estructural;
+IX. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)
 
 X. Capacitación;
 
@@ -1139,7 +1181,7 @@ XXXI. Gestión de Riesgos;
 
 XXXII. Información y Administración de Energía;
 
-XXXIII. Informática y Telecomunicaciones;
+XXXIII. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)
 
 XXXIV. Ingeniería Civil;
 
@@ -1165,9 +1207,13 @@ XLIV. Licitaciones y Contratación de Proyectos de Inversión Financiada;
 
 XLV. Líneas de Transmisión;
 
-XLVI. Modernización;
+XLVI. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)
 
 XLVII. Normalización de Distribución;
+
+> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+XLVII Bis. Nuevas Areas de Oportunidad;
 
 XLVIII. Operación de Distribución;
 
@@ -1213,6 +1259,10 @@ LXVIII. Protecciones;
 
 LXIX. Proyectos de Líneas de Transmisión y Subestaciones;
 
+> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+LXIX Bis. Proyectos de Modernización;
+
 LXX. Proyectos de Obra Pública Financiada;
 
 LXXI. Proyectos de Productores Externos de Energía;
@@ -1238,6 +1288,10 @@ LXXX. Técnica de Proyectos Hidroeléctricos;
 LXXXI. Técnica de Proyectos Termoeléctricos;
 
 LXXXII. Técnica de Proyectos de Transmisión y Transformación;
+
+> <small>(ADICIONADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)</small>
+
+LXXXII Bis. Tecnologías de Información;
 
 LXXXIII. Ventas;
 
@@ -1406,3 +1460,11 @@ PRIMERO. Las presentes Reformas al Estatuto Orgánico de la Comisión Federal de
 SEGUNDO. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por las presentes Reformas.
 
 TERCERO. Los asuntos que se encuentren en trámite en las unidades administrativas que desaparecen, serán atendidos y resueltos por las unidades administrativas que corresponda, de acuerdo a sus respectivas facultades.
+
+D.O.F. 5 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. Las presentes Reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por las presentes Reformas.
+
+TERCERO. Los asuntos que se encuentren en trámite en las unidades administrativas que desaparecen, serán atendidos y resueltos por las unidades administrativas que correspondan, de acuerdo a sus respectivas facultades.
