@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2005-04-22"
+last_updated: "2008-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1841,7 +1841,9 @@ Las infracciones previstas del numeral 343 al 359 de la Tabla de Sanciones Pecun
 
 En estos casos, se entenderá que el infractor es sancionado con un apercibimiento, por lo que tendrá la oportunidad de solventar la infracción y evitar el pago de la multa, para lo cual deberá reparar la falla mecánica o reponer la falta de accesorios, y comparecer con el vehículo ante el juez calificador en un plazo máximo de quince días naturales a partir del día en que se levante la infracción, quien la cancelará una vez que constate que la falla fue reparada, entregando un comprobante al infractor con el que podrá recoger el documento retenido como garantía sin cargo alguno.
 
-En el caso del numeral 358 de la Tabla de Sanciones Pecuniarias del artículo siguiente, el plazo a que se refiere el párrafo anterior para hacer la reparación correspondiente, será de treinta días.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
+
+En el caso del numeral 358 de la Tabla de Sanciones Pecuniarias del artículo siguiente, el plazo a que se refiere el párrafo anterior para hacer la reparación correspondiente, será de sesenta días.
 
 Si transcurrido el plazo, o habiéndose presentado ante el juez calificador sin comprobar que se reparó la falla, se deberá pagar la sanción impuesta.
 
@@ -1952,3 +1954,7 @@ P.O. 22 DE ABRIL DE 2005.
 PRIMERO.- Los formatos actuales o los que pudieran estar en proceso de elaboración al momento de entrar en vigor el presente acuerdo, se utilicen hasta agotar existencias.
 
 SEGUNDO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
