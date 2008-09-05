@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2008-03-28"
+last_updated: "2008-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -7305,81 +7305,41 @@ DEL SISTEMA MUNICIPAL DEL DEPORTE Y LA RECREACION
 
 ###### ARTICULO 871.
 
-Las disposiciones que de este apartado emanan, son de observancia obligatoria e interés social, y tienen como finalidad, establecer las bases para la integración del Sistema Municipal del Deporte y la Recreación y su funcionamiento, así como la creación de la Dirección del Sistema Municipal del Deporte y la Recreación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ###### ARTICULO 872.
 
-Se establece que la Dirección del Sistema Municipal del Deporte y la Recreación será el organismo rector a través del cual el H. Ayuntamiento de Querétaro, por conducto del Presidente Municipal conocerá, planeará, regulará, organizará e impulsará el deporte y la recreación de conformidad con lo dispuesto en el presente apartado, siendo por ende, la Institución competente para promover el desarrollo deportivo del municipio, con la participación de los sectores social y privado en el Sistema Municipal del Deporte y la Recreación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ###### ARTICULO 873.
 
-La dirección del Sistema Municipal del Deporte y la Recreación tendrá las facultades siguientes:
-
-I. Coordinar, administrar y fomentar el Sistema Municipal del Deporte y la Recreación;
-
-II. Establecer y mantener actualizado el registro del Sistema Municipal del Deporte y la Recreación;
-
-III. Ser órgano rector para la ejecución de la política deportiva municipal;
-
-IV. Coordinar y administrar el Fondo Económico del Deporte, instalando un patronato y fideicomiso;
-
-V. Crear la estructura orgánica que estime necesaria para el mejor cumplimiento de sus actividades;
-
-VI. Promover y fomentar conjuntamente con el Instituto Municipal de la Juventud, las actividades recreativas y deportivas que especialmente se requieren para la integración social de los jóvenes en el Municipio; y
-
-VII. Las demás que le otorguen otras disposiciones legales y el Ayuntamiento por el conducto del Presidente Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ### CAPITULO III. Del Registro Municipal del Deporte
 
 ###### ARTICULO 874.
 
-El Sistema Municipal del Deporte y la Recreación, estará constituido por el conjunto de acciones, recursos y procedimientos para planear, organizar, promover, fomentar y desarrollar el deporte y la recreación en el Municipio de Querétaro, integrándose además por:
-
-I. El Presidente Municipal a través de la Dirección del Sistema Municipal del Deporte y la Recreación;
-
-II. Los Organismos e Instituciones Deportivas de los sectores social y privado;
-
-III. Los deportistas, técnicos, especialistas y profesionistas del deporte;
-
-IV. El Patronato para el Sistema Municipal del Deporte y la Recreación;
-
-V. El Instituto Municipal de la Juventud a través de su Coordinación Deportiva;
-
-VI. El Consejo Consultivo de Apoyo al Deporte;
-
-VII. El Consejo Prioritario de Recreación y Deporte del Sistema de Participación Social; y
-
-VII (sic). Todos aquellos ciudadanos que participan y se involucran en el desarrollo y fomento del deporte o la recreación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ###### ARTICULO 875.
 
-Las actividades que desarrolle y ejecute el Sistema Municipal del Deporte, estarán fundamentadas y sustentadas en el Programa Municipal del Deporte, mismo que anualmente habrá de presentar para su consideración y aprobación respectiva al Presidente Municipal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ###### ARTICULO 876.
 
-Las dependencias y delegaciones de la administración pública municipal, deberán participar en los programas y acciones del Sistema Municipal del Deporte y la Recreación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ###### ARTICULO 877.
 
-Las personas físicas y morales, así como las agrupaciones deportivas cuenten o no con personalidad jurídica, podrán ingresar al Sistema Municipal del Deporte y la Recreación mediante su inscripción en el registro de dicho sistema.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ###### ARTICULO 878.
 
-Al ingresar al Sistema Municipal del Deporte y la Recreación, las personas, agrupaciones y demás organismos deportivos, deberán cumplir lo establecido en el presente apartado y con los lineamientos correspondientes que se señalen en el Programa Municipal del Deporte y la Recreación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ###### ARTICULO 879.
 
-En el marco del Sistema Municipal del Deporte y la Recreación se realizarán las siguientes acciones:
-
-I. Planear, proponer, y ejecutar las políticas que orienten al fomento y desarrollo del deporte y la recreación a nivel municipal;
-
-II. Establecer los procedimientos que se requieren para la mejor coordinación en materia deportiva con los gobiernos estatal y federal;
-
-III. Propiciar la participación de ciudadanos, deportistas en general y responsables del deporte y en la determinación y ejecución de las políticas a que se refieren la fracción primera de este artículo;
-
-IV. Diseñar el Programa Municipal del Deporte y llevar a cabo las acciones que del mismo se deriven; y
-
-V. Determinar los requerimientos del deporte municipal, así como planear los medios para satisfacerlos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
 ### CAPITULO IV. De la Participación de los Sectores Social y Privado en el Sistema Municipal del Deporte y la Recreación
 
@@ -8612,3 +8572,17 @@ CUARTO. Atendiendo a las nuevas disposiciones que regulan al Instituto Municipal
 QUINTO. Se instruye a la Secretaría de Administración para que realice los trabajos correspondientes para la integración de los manuales de procedimientos y operación del Instituto Municipal de Equidad de Género.
 
 SEXTO. Los contratos y convenios relacionados con la equidad de género celebrados con anterioridad al presente Reglamento, se respetarán en los mismos términos bajo los cuales fueron suscritos.
+
+P.O. 5 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Se derogan los artículos del 871 al 879, del Código Municipal de Querétaro, así como todos aquellos preceptos legales de igual o menor jerarquía que se opongan al presente ordenamiento.
+
+CUARTO. Se instruye al Instituto Municipal de Capacitación, para que en coordinación con la Secretaría de Gestión Delegacional, diseñen y operen programas de capacitación en las materias contempladas por el presente Reglamento.
+
+QUINTO. Se instruye a la Secretaría de Gestión Delegacional y Secretaría de Administración, para que conjuntamente generen o realicen las adecuaciones correspondientes a los manuales de procedimientos y operación, de conformidad con este ordenamiento.
+
+SEXTO. Se instruye a la Secretaría de Administración y a la Secretaría de Economía y Finanzas y Tesorería Municipal para que realicen lo necesario a efecto de asegurar la transferencia de los recursos presupuestarios, humanos y materiales que requiera la Secretaría de Gestión Delegacional y sus órganos que la integran para dar cumplimiento al presente Reglamento.
