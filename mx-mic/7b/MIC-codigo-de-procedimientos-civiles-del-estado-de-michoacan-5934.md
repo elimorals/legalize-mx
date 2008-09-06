@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "2004-09-22"
+last_updated: "2008-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -10774,3 +10776,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos civiles que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán substanciándose conforme a las disposiciones legales aplicables al momento de su inicio.
+
+P.O. 6 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor el día 8 de septiembre de 2008, fecha en que entrarán en vigencia los Códigos Civil y Familiar para el Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se abroga el Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo, de fecha 30 de julio de 1936, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que hasta la entrada en vigor del presente decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
