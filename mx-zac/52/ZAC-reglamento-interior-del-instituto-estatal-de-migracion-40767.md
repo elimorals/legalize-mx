@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-instituto-estatal-de-migracion-40767"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-11"
-last_updated: "2004-08-11"
+last_updated: "2008-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE MIGRACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de agosto del 2004.
 
@@ -133,71 +133,91 @@ XVII. Las demás que el Ejecutivo del Estado, el Decreto de Creación, el Reglam
 
 ### CAPÍTULO III. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 8.
 
-El Consejo Consultivo es el órgano supremo de gobierno del Instituto, cuyo presidente Honorario será el Gobernador del Estado y se integrará por los siguientes miembros:
+El Consejo Consultivo es el órgano superior de consulta del Instituto y se integrará por los siguientes miembros:
 
-I. Un presidente, que será el Gobernador del Estado;
+I. Una Presidenta Honoraria que será la Gobernadora del Estado;
 
-II. Dos Miembros de la Administración Pública, que serán el Procurador General de Justicia del Estado y el Presidente de la Comisión de Derechos Humanos;
+II. Los representantes de la Legislatura Estatal, siendo éstos los Diputados Migrantes que correspondan en número y periodo de acuerdo a la Legislación de la materia;
 
-III. Tres Miembros Académicos, que serán: los Directores de las Unidades Académicas de Derecho y de Economía y de la Facultad de Ciencias Políticas;
+III. El Presidente de la Comisión de los Derechos Humanos del Estado de Zacatecas o en su caso, el Visitador General para Asuntos Migratorios;
 
-IV. Dos Miembros de la Sociedad Civil, que serán los Presidentes de las Federaciones.
+IV. Cuatro representantes de la sociedad civil binacional radicados en los Estados Unidos de Norte América; y
+
+V. Dos personalidades con una destacada participación social y/o académica.
+
+La Gobernadora del Estado, los representantes de la Legislatura y el Presidente o Visitador de la Comisión de los Derechos Humanos del Estado, durarán en su encargo el tiempo que subsista su cometido. Los demás miembros del Consejo permanecerán en su encargo cuatro años.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 9.
 
-Todos los miembros del Consejo tendrán un suplente, con los mismos derechos de los titulares, el suplente del Gobernador del Estado será nombrado por él mismo, sin que recaiga el nombramiento en otro miembro del Consejo.
+Los miembros del Consejo Consultivo podrán nombrar a un suplente, quien tendrá los mismos derechos y obligaciones dentro del mismo.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 10.
 
-El presidente del Consejo Consultivo, será auxiliado por un Comisario Público nombrado por la Contraloría Interna del Gobierno del Estado.
+El Consejo Consultivo contará con una Secretaria Técnica, que estará representada por el Director General del Instituto.
 
 ###### Artículo 11.
 
 Los cargos del Consejo Consultivo son honoríficos, por lo que las personas que los desempeñen no percibirán por este hecho remuneración alguna.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO GUBERNATIVO PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2008, SE SUPRIMEN LAS FRACCIONES III, V, VII Y VIII RECORRIENDOSE LAS DEMAS EN SU ORDEN, QUEDANDO INTEGRADO EL PRESENTE ARTICULO POR CINCO FRACIONES.</small>
+
 ###### Artículo 12.
 
 Son facultades del Consejo Consultivo:
 
-I. Establecer las políticas generales del Instituto, con la base de las necesidades prioritarias de los programas de los migrantes;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
+
+I. Establecer con equidad de género las políticas generales del Instituto, considerando primordialmente las necesidades fundamentales de las y los migrantes en estricto respeto a los derechos humanos;
 
 II. Formular, conducir, normar, regular y evaluar los programas;
 
-III. Organizar, dirigir y ejecutar los planes y programas educativos para fomentar los vínculos culturales y de arraigo con nuestra Entidad;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
 
-IV. Validar los lineamientos de las estrategias, políticas y programas operativos anuales del Instituto;
+III. Validar los lineamientos de las estrategias, políticas y programas operativos anuales del Instituto;
 
-V. Administrar los recursos que aporten el Gobierno del Estado y los Clubes y Federaciones Zacatecanos;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
 
-VI. Recibir y evaluar en sesión especial el informe anual del Instituto;
+IV. Recibir y evaluar en sesión especial el Informe anual del Instituto; y
 
-VII. Establecer convenios con las diferentes Secretarías del Gobierno Federal para garantizar un trato digno de los migrantes zacatecanos;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
 
-VIII. Aprobar el Reglamento Interior del Instituto;
-
-IX. Las demás que el Gobernador del Estado, el Decreto de Creación, el presente Reglamento y otras disposiciones legales.
+V. Las demás que le confieran la Gobernadora del Estado, el Decreto de Creación, el presente Reglamento y otras disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-El Consejo Consultivo sesionará de forma ordinaria cada bimestre, pudiendo celebrar sesiones extraordinarias cuantas veces sean necesarias, para su eficiente desempeño a convocatoria expresa de su presidente, mismo que podrá delegar ésta y otras facultades. Las sesiones serán válidas cuando el quórum se constituya con la mayoría de sus integrantes; las decisiones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
+El Consejo Consultivo sesionará de forma ordinaria semestralmente, pudiendo celebrar sesiones extraordinarias cuantas veces sean necesarias para su eficiente desempeño a convocatoria expresa de su Presidenta, misma que podrá delegar ésta y otras facultades al Secretario Técnico. Las sesiones serán válidas cuando el quórum se constituya con la mayoría de sus integrantes; las decisiones se tomarán por mayoría de votos de los miembros presentes y en caso de empate, la Presidenta tendrá voto de calidad.
 
 ###### Artículo 14.
 
 Las sesiones se llevarán a cabo en las instalaciones que utiliza el Instituto, pudiendo celebrarse en el lugar que por acuerdo del Consejo Consultivo se señale.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 15.
 
-Las sesiones ordinarias versarán sobre asuntos generales y las extraordinarias en casos de notoria urgencia, previa motivación de la misma.
+Las sesiones ordinarias versarán sobre asuntos generales y las extraordinarias en casos de notoria urgencia o cuando lo determine el propio Consejo.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 16.
 
-El Secretario notificará el orden del día a los miembros del Consejo Consultivo, con cinco días naturales de anticipación a la celebración de las sesiones ordinarias y con veinticuatro horas a las extraordinarias.
+La Secretaria Técnica notificará el orden del día así como la documentación necesaria, a los miembros del Consejo Consultivo, con siete días hábiles de anticipación a la celebración de las sesiones ordinarias y con cinco días a las extraordinarias.
 
-A las notificaciones para celebrar sesiones, se anexará la información y documentación correspondiente.
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 16 bis.- La Secretaria Técnica tendrá bajo su cuidado los expedientes que se generen en las sesiones y será la encargada de darle seguimiento y trámite a los acuerdos tomados por el Consejo.
 
 ###### Artículo 17.
 
@@ -313,139 +333,7 @@ IX. Implementar programas que garanticen la seguridad y bienestar de los migrant
 
 X. Realizar las actividades que le sean encomendadas por otras disposiciones legales o por el Director General.
 
-###### Artículo 26.
-
-El Departamento de Defensa es el órgano encargado de promover la defensa de los derechos de los connacionales para atender principalmente sus quejas y problemas más apremiantes a los que se enfrentan. Asimismo, coadyuvar a la realización de acuerdos interinstitucionales con organismos no Gubernamentales en las principales ciudades de la frontera norte.
-
-###### Artículo 27.
-
-Corresponde al Departamento de Defensa:
-
-I. Orientar al público para completar con sus datos los formatos para solicitar visas, así como el tipo de éstas;
-
-II. Brindar ayuda a los familiares de migrantes fallecidos en los Estados Unidos de Norteamérica, para su traslado al Estado y llevar un registro;
-
-III. Investigar en los consulados mexicanos en la Unión Americana, la situación jurídica de paisanos detenidos;
-
-IV. Promover la defensa de los derechos de los coterráneos;
-
-V. Suscribir acuerdos Interinstitucionales gubernamentales en las principales ciudades de la frontera norte de nuestro País;
-
-VI. Tramitar visas humanitarias a familiares de paisanos ante el Consultado de los Estados Unidos de Norteamérica radicado en la Ciudad de Monterrey, Nuevo León;
-
-VII. Realizar las actividades que le sean encomendadas por otras disposiciones legales o por el Director General.
-
-###### Artículo 28.
-
-El Departamento de Defensa, cuenta con las siguientes Áreas:
-
-1.- Área de Recepción de Quejas, con las siguientes funciones:
-
-I. Atender quejas de zacatecanos detenidos en Estados Unidos de Norteamérica;
-
-II. Dar seguimiento a las quejas interpuestas por migrantes zacatecanos o sus familias, por tener derecho al pago de indemnizaciones;
-
-III. Ofrecer la atención a los usuarios, sobre quejas interpuestas a servidores públicos del Instituto Estatal y a nivel Federal;
-
-IV. Supervisar las querellas presentadas por los migrantes zacatecanos y sus familias en el cruce fronterizo;
-
-V. Vigilar los procesos referentes a la persecución de los migrantes interpuestos ante los Consulados o las Comisiones de Derechos Humanos;
-
-VI. Realizar las demás actividades que le sean encomendadas por otras disposiciones legales o por el Director General.
-
-2.- Área de Apoyo Jurídico con las siguientes funciones:
-
-I. Requerir, por medio de los Consulados Mexicanos en Estados Unidos de Norteamérica, la situación jurídica de las personas zacatecanas procesadas en ese País;
-
-II. Solicitar a los Consulados Mexicanos establecidos en Estados Unidos de Norteamérica, la situación jurídica de zacatecanos detenidos por las autoridades de migración en ese País;
-
-III. Dar asesoría a migrantes o familiares para obtener su pensión en el vecino País del norte, así como a sus cónyuges;
-
-IV. Orientar jurídicamente a familiares sobre los trámites para la repatriación de cadáveres, recíprocamente de un País a otro;
-
-V. Guiar al público en general sobre trámite de visas para entrar a los Estados Unidos de Norteamérica;
-
-VI. Orientar a los trabajadores migrantes sobre la devolución de income taxes;
-
-VII. Ubicar al público en general sobre trámite para obtener el pasaporte mexicano;
-
-VIII. Brindar asesoría para recibir las compensaciones correspondientes, a través del programa de Víctimas del Crimen del Estado de Texas.
-
-###### Artículo 29.
-
-El Departamento de Gestión Económica es la unidad administrativa cuyo objetivo es el fortalecer las acciones del Gobierno del Estado, que garanticen una mayor atención a los migrantes y sus familias en México y en el extranjero, así mismo propiciar el desarrollo de estrategias de inversión Comunitaria, como es que promuevan una vía confiable, eficiente y de bajo costo que permita el envío de recursos. De igual manera desarrollará el programa "Tres por Uno" y los instrumentos financieros y de seguridad empresarial que expendan las posibilidades de inversión en la región.
-
-###### Artículo 30.
-
-Corresponde al Departamento de Gestión Económica:
-
-I. Promover el programa "Tres por Uno" para que con las aportaciones de Clubes y Federaciones Zacatecanas del vecino País del norte se incremente el número de obras sociales en beneficio de las comunidades de la Entidad;
-
-II. Crear paquetes accionarios, empresas y los instrumentos financieros adecuados para fomentar las inversiones en la Entidad;
-
-III. Facilitar el envío de remesas de los migrantes zacatecanos, para que lleguen de manera segura, confiable y oportuna;
-
-IV. Promover la comercialización de productos y servicios de Zacatecanos en el mercado hispano de Estados Unidos de Norteamérica;
-
-V. Fomentar el turismo extranjero para que exista una mayor derrama económica en el Estado;
-
-VI. Realizar las actividades que le sean encomendadas por otras disposiciones legales o por el Director General.
-
-###### Artículo 31.
-
-El Departamento de Gestión Económica, cuenta con el Área de Apoyo Técnico, con las siguientes funciones:
-
-I. Establecer relaciones con los Presidentes de federaciones y clubes de zacatecanos en Estados Unidos de Norteamérica para que participen en el programa tres por uno;
-
-II. Mantener acercamientos con los Presidentes de federaciones y clubes de zacatecanos en Estados Unidos de Norteamérica para establecer convenios de comercialización de bienes y productos zacatecanos;
-
-III. Fomentar el turismo en nuestro Estado a través de visitas de representantes de federaciones y clubes de zacatecanos en Estados Unidos;
-
-IV. Buscar y establecer mecanismos benéficos para el envío de remesas de los migrantes zacatecanos;
-
-V. Tramitar y gestionar recursos económicos ante los Municipios del Estado para el traslado de cuerpos de zacatecanos fallecidos en Estados Unidos de Norteamérica. Asimismo, en los Consulados de México en Estados Unidos de Norteamérica;
-
-VI. Realizar las actividades que le sean encomendadas por otras disposiciones legales o por el Director General.
-
-###### Artículo 32.
-
-Es la unidad administrativa, que de acuerdo a las órdenes del Gobernador del Estado, el Decreto de Creación y los Manuales de Organización desempeñará funciones administrativas del Instituto.
-
-###### Artículo 33.
-
-Corresponde al Departamento Administrativo las siguientes funciones:
-
-I. Formular el anteproyecto del presupuesto anual de egresos del Instituto conjuntamente con la Dirección Administrativa de la Secretaría General de Gobierno;
-
-II. Elaborar, analizar el ejercicio presupuestal de los recursos provenientes de convenios y acuerdos celebrados con la Federación y Municipios;
-
-III. Tramitar lo referente a nombramientos, promociones, licencias y bajas de servidores públicos de confianza, base y temporales, realizando los movimientos ante la Secretaría General de Gobierno;
-
-IV. Ser el conducto para el pago de salarios a los servidores públicos del Instituto;
-
-V. Gestionar ante la Dependencia correspondiente, la compra de bienes y la obtención de servicios necesarios para el funcionamiento del Instituto;
-
-VI. Administrar, controlar y vigilar las existencias del almacén, aprovechando racionalmente los recursos materiales disponibles;
-
-VII. Elaborar y mantener actualizado (sic) los Manuales de Organización, de procedimientos y Servicios al Público del Instituto;
-
-VIII. Integrar y mantener actualizado el inventario de bienes muebles e inmuebles del Instituto; y
-
-IX. Las demás que le confieran otras disposiciones legales y el Director General.
-
 ### CAPÍTULO VII. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
-
-###### Artículo 34.
-
-El Director General será suplido en sus ausencias por el Jefe del Departamento que de acuerdo al asunto corresponda, o en su caso, por el servidor público que determine el Gobernador del Estado.
-
-###### Artículo 35.
-
-En las ausencias temporales del Jefe del Departamento Administrativo, será suplido por los Jefes de Departamento en los asuntos de sus respectivas competencias, o en su caso, por el servidor público que designe el Director General.
-
-###### Artículo 36.
-
-Los demás Jefes de Departamento, serán suplidos en sus ausencias por el servidor público que en su caso determine el Director General.
 
 ## TRANSITORIOS
 
@@ -474,3 +362,11 @@ LIC. JAIME ARTURO CASAS MADERO
 EL DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE MIGRACIÓN
 
 LIC. ARMANDO ESPARZA ELÍAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2008.
+
+Primero.- El presente acuerdo modificatorio del Reglamento Interior del Instituto Estatal de Migración entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones que contravengan lo previsto en el presente instrumento.
