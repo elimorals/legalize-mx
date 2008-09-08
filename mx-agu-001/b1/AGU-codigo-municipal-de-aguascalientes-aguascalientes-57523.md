@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-08-11"
+last_updated: "2008-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1143,11 +1143,21 @@ Departamento de Planeación y Programación.
 
 Departamento de Edificación y Urbanización.
 
-XII.- SECRETARÍA DE ADMINISTRACIÓN
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
 
-Coordinación Médica; y
+XII.- SECRETARIA DE ADMINISTRACIÓN Secretaria Particular;
 
-Departamento Jurídico.
+Coordinación Administrativa
+
+Dirección Jurídica:
+
+Departamento Jurídico de Recursos Humanos.
+
+Departamento Jurídico de Recursos Materiales.
+
+Departamento Jurídico de Licitaciones y Concursos.
+
+Departamento Jurídico de Defensa Administrativa.
 
 Dirección de Modernización Tecnológica:
 
@@ -1166,6 +1176,8 @@ Departamento de Remuneración al Personal.
 Departamento de Desarrollo de Personal.
 
 Departamento de Seguridad e integración de Personal.
+
+Coordinación Médica.
 
 Dirección de Recursos Materiales:
 
@@ -1187,13 +1199,17 @@ Departamento de Intendencia.
 
 Departamento de Mantenimiento y Reparación de Vehículos.
 
-Dirección de Aseguramiento de la Calidad:
+Dirección de Aseguramiento de la Calidad y Evaluación:
 
 Departamento de Auditorías Internas.
 
 Departamento de Mejora Continua.
 
-Departamento de Reingeniería y Desregulación.
+Coordinación de Evaluación:
+
+Departamento de Reingeniería.
+
+Departamento de Auditoría Administrativa y Operativa.
 
 XIII.- SECRETARÍA DE DESARROLLO HUMANO
 
@@ -1833,7 +1849,7 @@ XXXVIII. Analizar, diseñar, adecuar y proponer la estructura orgánica municipa
 
 XXXIX. Definir y establecer a las dependencias, los mecanismos de elaboración, implementación y actualización de los Manuales de Organización definidos por la Secretaría de Administración, que deberán realizar las dependencias.
 
-XL. Definir los mecanismos de elaboración, actualización, simplificación e implementación de trámites y procesos de servicios públicos de la administración pública municipal, sometiendo a consideración, las reformas o adiciones y en su caso la abrogación de las disposiciones jurídico-administrativas en las que se sustentan los mismos.
+XL. Definir los mecanismos de elaboración, actualización, simplificación e implementación de trámites y procesos de servicios públicos de la administración pública municipal, sometiendo a consideración, las reformas o adiciones y en su caso la abrogación de las disposiciones jurídico administrativas en las que se sustentan los mismos.
 
 XLI. Diseñar, elaborar y mantener actualizada, con base en la información que emitan las dependencias, la Guía de Trámites de Servicios Públicos de la administración pública municipal.
 
@@ -18218,3 +18234,11 @@ P.O. 11 DE AGOSTO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Toda disposición legal vigente que haga referencia a la comisión de Desarrollo Humano y Asistencia Social se entenderá que hace referencia a la Comisión de Desarrollo Social en los términos del presente decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2008.
+
+ARTÍCULO ÚNICO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, el personal y los recursos materiales y financieros de los departamentos creados, serán asignados por la Secretaría de Administración del H. Ayuntamiento de Aguascalientes.
