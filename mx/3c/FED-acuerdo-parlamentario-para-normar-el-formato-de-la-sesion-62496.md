@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-parlamentario-para-normar-el-formato-de-la-sesion-62496
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-08-29"
-last_updated: "2008-08-29"
+last_updated: "2008-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62496&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-08-28"
 
 ACUERDO PARLAMENTARIO PARA NORMAR EL FORMATO DE LA SESION DE CONGRESO GENERAL PARA LA APERTURA DEL PRIMER PERIODO ORDINARIO DE SESIONES DEL TERCER AÑO DE EJERCICIO DE LA LX LEGISLATURA, PARA REGULAR LA RECEPCION Y TRAMITE DEL INFORME POR ESCRITO QUE DEBE PRESENTAR EL PRESIDENTE DE LA REPUBLICA SOBRE EL ESTADO GENERAL QUE GUARDA LA ADMINISTRACION PUBLICA DEL PAIS EL 1o. DE SEPTIEMBRE DE 2008, ASI COMO PARA ESTABLECER CRITERIOS GENERALES PARA QUE LAS CAMARAS DE DIPUTADOS Y DE SENADORES LLEVEN A CABO SU ANALISIS Y, EN SU CASO, CITEN A COMPARECER A LOS SERVIDORES PUBLICOS A QUE SE REFIERE EL ARTICULO 69 CONSTITUCIONAL Y FORMULEN PREGUNTAS POR ESCRITO AL PRESIDENTE DE LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 2008.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 29 de agosto de 2008.
 
@@ -107,44 +107,18 @@ Acto seguido, el Presidente del Congreso ordenará la remisión a las Cámaras d
 
 SEXTO.- El análisis del informe por escrito que presente el Presidente de la República sobre el estado general que guarda la administración pública del país, que cada Cámara debe realizar y, en su caso, la formulación de preguntas por escrito al Presidente de la República y la comparecencia de servidores públicos para rendir informes, serán definidos por cada una de las Cámaras del Congreso de la Unión, atendiendo a los criterios generales que se establecen en este Acuerdo Parlamentario.
 
-SÉPTIMO.- El análisis del informe presidencial se realizará por separado en reuniones o sesiones conjuntas de las comisiones de cada una de las Cámaras del Congreso de la Unión, que se celebrarán durante el mes de septiembre del presente año, de acuerdo al formato que cada Cámara establezca a propuesta de su respectiva Junta de Coordinación Política.
+SÉPTIMO.- (SIN EFECTOS [N. DE E. DEROGADO], D.O.F. 9 DE SEPTIEMBRE DE 2008)
 
-Las reuniones o sesiones conjuntas de las comisiones para el análisis del informe se clasificarán por materias: Política interior, política económica, política social y política exterior.
+OCTAVO.- (SIN EFECTOS [N. DE E. DEROGADO], D.O.F. 9 DE SEPTIEMBRE DE 2008)
 
-OCTAVO.- Con motivo del análisis del informe por escrito que presente al H. Congreso de la Unión el Presidente de la República, cada una de las Cámaras podrá citar a los Secretarios de Estado, al Procurador General de la República y a los directores de las entidades paraestatales que estime pertinente para que comparezcan y rindan informes adicionales, conforme al formato que en cada Cámara se establezca, observando los criterios generales siguientes:
+NOVENO.- (SIN EFECTOS [N. DE E. DEROGADO], D.O.F. 9 DE SEPTIEMBRE DE 2008)
 
-1. Los servidores públicos a que se refiere el párrafo segundo del artículo 69 constitucional podrán ser citados a comparecer ante el Pleno o en reunión o sesión de comisión o de comisiones conjuntas. En todo caso, dichos servidores públicos sólo podrán ser citados a comparecer una sola ocasión por cada Cámara del Congreso de la Unión, cualquiera que sea la instancia camaral ante la que haya comparecido.
-
-2. Las comparecencias de servidores públicos ante el Pleno serán aprobadas por la Cámara ante la que deba comparecer, a propuesta de su respectiva Junta de Coordinación Política. Las comparecencias que se realicen en reunión o sesión de comisión o comisiones conjuntas serán acordadas por ellas mismas; dichos acuerdos deberán notificarse a la Mesa Directiva que corresponda.
-
-3. En cualquier caso la cita a comparecer al servidor público le será notificada formalmente por el Presidente de la Mesa Directiva de que se trate. El citatorio expresará con toda claridad la instancia de la Cámara ante la que comparecerá, la fecha y la hora de la comparecencia y precisará el tema o temas del informe por escrito presentado por el Presidente de la República respecto del cual se le cita a comparecer para rendir informes.
-
-4. El Pleno aprobará, a propuesta de la correspondiente Junta de Coordinación Política, el formato para el desarrollo de las comparecencias que deban desarrollarse ante el mismo o en reunión o sesión de comisiones.
-
-5. Las comparecencias y rendición de informes de los Secretarios de Estado, del Procurador General de la República y de los directores de las entidades paraestatales se harán bajo protesta de decir verdad. Al inicio de cada comparecencia el Presidente de la Mesa Directiva de la Cámara o de la comisión que corresponda hará saber de viva voz al servidor público compareciente que, para todos los efectos que correspondan, a partir de ese momento se encuentra bajo protesta de decir verdad, de conformidad con la obligación establecida por el artículo 69 constitucional.
-
-6. Si el Pleno o las comisiones ante las cuales se haya desarrollado la comparecencia expresan insatisfacción respecto de los informes rendidos por el compareciente en términos de lo señalado por el artículo 69 constitucional, por considerar que existieron omisiones o faltas graves en la rendición de sus informes, el Presidente de la Cámara que corresponda lo comunicará formalmente al Presidente de la República por conducto del Secretario de Gobernación. Para dar cumplimiento a lo anterior, las comisiones que conozcan de comparecencias de servidores públicos harán, en su caso, la notificación respectiva al Presidente de la Cámara, estableciendo las razones de las omisiones o faltas graves en que haya incurrido el servidor público compareciente.
-
-NOVENO.- Una vez desahogadas las reuniones o sesiones conjuntas de comisiones para el análisis del informe, así como el desahogo de las comparecencias de los servidores públicos a que se refiere el resolutivo anterior, de acuerdo con lo dispuesto por el segundo párrafo del artículo 69 constitucional el Pleno de cada una de las Cámaras podrá solicitar al Presidente de la República ampliar la información contenida en el informe presentado mediante preguntas por escrito aprobadas por sus asambleas plenarias. La correspondiente Junta de Coordinación Política hará la propuesta de preguntas conforme a los criterios generales siguientes:
-
-1. La atribución de formular preguntas parlamentarias al Presidente de la República para solicitarle información adicional al informe presentado corresponde exclusivamente al Pleno de cada Cámara, conforme a las propuestas de los grupos parlamentarios.
-
-2. Las preguntas se formularán por escrito, en términos claros y precisos y versarán sobre los contenidos del informe o, en su caso, sobre las omisiones del mismo que las Cámaras consideren relevantes.
-
-3. Tan pronto se haya recibido el informe en cada Cámara, las respectivas Juntas de Coordinación Política aprobarán un acuerdo en el que se establezcan las reglas para definir el número de las preguntas que puede formular cada Grupo Parlamentario; el plazo para recibir el pliego de propuestas de preguntas correspondiente a cada Grupo Parlamentario; y los requisitos de formulación para las preguntas escritas para el Presidente de la República que someterán a la aprobación de sus respectivos Plenos. El número de preguntas que podrán formular los Grupos Parlamentarios atenderá al criterio de proporcionalidad, conforme al tamaño de los mismos en relación con la integración de sus respectivas Cámaras.
-
-4. Para los efectos de lo señalado en el numeral anterior, se considerarán única y exclusivamente las propuestas de preguntas presentadas de manera formal y debidamente firmadas por los coordinadores de los grupos parlamentarios registrados en la Junta de Coordinación Política que corresponda, siempre que las propuestas de preguntas cumplan con las reglas de formulación y presentación. Las propuestas de preguntas serán presentadas en la Presidencia de la Junta de Coordinación Política de la Cámara que corresponda, cuya Secretaría Técnica deberá llevar el control del registro respectivo. No se recibirán propuestas de preguntas concluido dicho plazo.
-
-5. Vencido el plazo que se haya establecido para la presentación de propuestas de preguntas por parte de los grupos parlamentarios, cada Junta de Coordinación Política deberá reunirse para conocer las propuestas de los grupos parlamentarios y aprobar el acuerdo que contenga la propuesta única y final de preguntas parlamentarias que por escrito se formulen al Presidente de la República, para someterlo a la aprobación del Pleno por conducto de la correspondiente Mesa Directiva.
-
-6. Una vez que haya sido aprobado por cada Cámara el acuerdo único con las preguntas escritas formuladas por los Grupo Parlamentarios, los Presidentes de las Mesas Directivas procederán a notificarlo formalmente al Presidente de la República por conducto de la Secretaría de Gobernación e instruirán su inmediata difusión mediante la publicación del acuerdo respectivo en la Gaceta que corresponda y en la página de Internet de cada Cámara.
-
-7. Las respuestas que el Presidente de la República envíe a las Cámaras del Congreso en atención a las preguntas que se le hubieren formulado, se harán del conocimiento del Pleno de la Cámara que en cada caso corresponda en la sesión inmediata siguiente a la recepción de las respuestas. Los Presidentes de las Cámaras ordenarán su inclusión en el orden del día, la publicación correspondiente en su Gaceta y en la página de Internet respectiva e instruirán el turno de cada respuesta a la comisión o comisiones con las que encuentren vinculación en razón de la materia, para su correspondiente análisis y valoración, así como a la Junta de Coordinación Política respectiva para su debido conocimiento.
-
-8. Las comisiones a quienes se hayan turnado las respuestas del Presidente de la República, se reunirán para deliberar en torno a su análisis y valoración y producirán un acuerdo de conclusiones en el que se pronuncien sobre las respuestas del Presidente de la República a las preguntas escritas que las Cámaras del Congreso le hayan formulado.
-
-9. Las conclusiones derivadas del análisis y valoración que realicen las comisiones en términos del numeral anterior, se someterán a consideración del Pleno de la Cámara que corresponda. Las comisiones remitirán las conclusiones referidas a la Mesa Directiva para su inclusión en el orden del día, así como a la Junta de Coordinación Política correspondiente para su conocimiento.
-
-DÉCIMO.- Para la interpretación de las disposiciones de este Acuerdo Parlamentario se estará a lo que acuerden las Mesas Directivas de las Cámaras del H. Congreso de la Unión, en lo que a cada una de ellas corresponda.
+DÉCIMO.- (SIN EFECTOS [N. DE E. DEROGADO], D.O.F. 9 DE SEPTIEMBRE DE 2008)
 
 Dado en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de agosto del año 2008.- LA JUNTA DE COORDINACIÓN POLÍTICA DE LA CÁMARA DE SENADORES.- Sen. Manlio Fabio Beltrones Rivera, Presidente de la Junta de Coordinación Política de la H. Cámara de Senadores y Coordinador del Grupo Parlamentario del PRI.- Rúbrica.- Sen. Gustavo Madero Muñoz, Coordinador del Grupo Parlamentario del PAN.- Rúbrica.- Sen. Carlos Navarrete Ruiz, Coordinador del Grupo Parlamentario del PRD.- Rúbrica.- Sen. Francisco Agundis Arias, Coordinador del Grupo Parlamentario del PVEM.- Rúbrica.- Sen. Dante Delgado Rannauro, Coordinador del Grupo Parlamentario de Convergencia.- Rúbrica.- Sen. Alberto Anaya Gutiérrez, Coordinador del Grupo Parlamentario del PT.- Rúbrica.- Sen. Humberto Aguilar Coronado, Integrante de la Junta de Coordinación Política.- Rúbrica.- Sen. Felipe González González, Integrante de la Junta de Coordinación Política.- Rúbrica.- Sen. Melquíades Morales Flores, Integrante de la Junta de Coordinación Política.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 2008.
+
+> <small>N. DE E. EL ACUERDO PARLAMENTARIO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.</small>
