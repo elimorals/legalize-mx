@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2008-02-18"
+last_updated: "2008-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2008.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE FEBRERO DE 2008.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -247,7 +245,9 @@ II.- Tener un modo honesto de vivir.
 
 Son prerrogativas del ciudadano campechano:
 
-I.- Votar en las elecciones populares;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Votar libremente en las elecciones populares;
 
 II.- Poder ser votado para todos los cargos de elección popular y nombrado para desempeñar cualquier empleo o comisión, si se tienen las cualidades que la ley establezca;
 
@@ -337,29 +337,69 @@ La Ley fijará los casos en que se pierden y los demás en que se suspenden los 
 
 El Estado de Campeche es libre y soberano en todo lo que concierne a su régimen interior, sin más restricciones que las que establece la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 24.
 
 La soberanía del Estado reside esencial y originariamente en el pueblo campechano, que la ejerce por medio del poder público que dimana del mismo pueblo y se instituye para beneficio de éste en los términos que establece esta Constitución.
 
-La renovación de los Poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+La renovación de los Poderes Legislativo y Ejecutivo, así como de los integrantes de Ayuntamientos y Juntas Municipales, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I.- Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral. Los partidos políticos con registro tendrán derecho a participar en las elecciones estatales y municipales. Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos en ejercicio de sus prerrogativas como tales podrán afiliarse libre e individualmente a los partidos políticos;
+I.- Los partido políticos son entidades de interés público y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Únicamente los ciudadanos podrán constituir partidos políticos y afiliarse libre e individualmente a ellos, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente y cualquier forma de afiliación corporativa. Las autoridades electorales solo podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley.
 
-II.- La ley garantizará que los partidos políticos con registro cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Para lo anterior, el Consejo General del Instituto Electoral del Estado fijará y aplicará anualmente en forma directa el monto del financiamiento público a ejercerse en materia de comunicación social, destinando del total un treinta por ciento para distribuirse en partes iguales entre los partidos, en cuanto a tiempo, y el setenta por ciento restante de acuerdo con el porcentaje de votación obtenida en la elección de diputados inmediata anterior. Además la ley señalará las reglas a que se sujetará el financiamiento de dichos partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. El financiamiento público para los partidos políticos, que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la ley:
+La Ley determinará los requisitos para el registro de los partidos políticos estatales, así como las formas específicas de la intervención de éstos y de los partidos políticos nacionales en los procesos electorales. Establecerá además las reglas para el desarrollo de las precampañas y las campañas electorales.
 
-a). El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Consejo General del Instituto Electoral del Estado, el número de diputados a elegir, el número de partidos políticos con representación en el Congreso del Estado y la duración de las campañas electorales. El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+La duración máxima de las precampañas y las campañas electorales será la que determine la Ley. Las campañas no podrán exceder de noventa días para la de Gobernador, ni de sesenta días para la de Diputados e integrantes de Ayuntamientos y Juntas Municipales. Las precampañas no podrán exceder las dos terceras partes del tiempo previsto para las respectivas campañas electorales.
 
-b). El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año; y
+Corresponde en los términos que señale la Ley a los partidos políticos nacionales y a los que cuenten con registro local el derecho exclusivo para solicitar el registro de sus candidatos en las elecciones;
 
-c). Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales. La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones;
+II.- La Ley determinará:
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+a).- Las reglas a que se sujetará el financiamiento de los partidos políticos, sus precampañas y campañas electorales, debiendo garantizar que el financiamiento público lo reciban de forma equitativa, así como que éste prevalezca sobre los recursos de origen privado;
 
-III.- La organización de las elecciones estatales y municipales es una función estatal que se realizará a través de un organismo público autónomo denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores. El Instituto Electoral del Estado será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. Su órgano superior de dirección será el Consejo General y se integrará por siete consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un secretario. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del Reglamento Interior que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos, según lo establezca la ley electoral. Los consejeros electorales del Consejo General serán elegidos, sucesivamente, por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los grupos parlamentarios de los partidos políticos con registro, representados en dicho Congreso. Conforme al mismo procedimiento, se designarán seis consejeros electorales suplentes, en orden de prelación. La ley establecerá las reglas y el procedimiento correspondientes. El consejero presidente del Consejo General del Instituto Electoral del Estado, será nombrado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los siete consejeros electorales electos. Las designaciones serán realizadas, conforme a la normatividad y procedimiento aplicable en materia de votación en el Congreso; durarán en su cargo siete años y, durante el tiempo en que se encuentren en funciones, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen, con autorización del propio Consejo, en asociaciones docentes, científicas, culturales, de investigación o de beneficencia. El secretario del Consejo General será nombrado por las dos terceras partes de los integrantes del mismo, a propuesta de su presidente. La ley establecerá los requisitos que deberán reunir para su designación los consejeros electorales y el secretario, los que estarán sujetos al régimen de responsabilidades establecido en el Capítulo XVII de esta Constitución. Los consejeros electorales y el secretario, durante el tiempo en que se encuentren en funciones, percibirán una remuneración adecuada e irrenunciable por sus servicios. Los consejeros del Poder Legislativo serán propuestos por los diputados con afiliación de partido en el Congreso del Estado. Sólo habrá un consejero por cada partido político con registro representado en dicho Congreso. El Instituto Electoral del Estado tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de las agrupaciones y de los partidos políticos, padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, cómputos en los términos que señale la ley, declaración de validez, otorgamiento de constancias en las elecciones de diputados locales y autoridades municipales; cómputo de la elección de gobernador del Estado, en cada uno de los distritos electorales uninominales y remisión del resultado de este cómputo a la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, para los efectos a que se contrae la fracción II del artículo 82-1 de esta Constitución, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley; y
+b).- El procedimiento al que se sujetarán los partidos políticos que pierdan su registro para su liquidación y destino de sus bienes y remanentes;
 
-IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos de los artículos 82-1 y 82-2 de esta Constitución. En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+c).- Los limites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones relativas al financiamiento privado de éstos; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias; y
+
+d).- Las bases a que se sujetará el Instituto Electoral del Estado de Campeche para la fiscalización de las finanzas de los partidos políticos, de las precampañas y campañas electorales, así como para su coordinación para tal efecto con el Instituto Federal Electoral, incluyendo la que se requiera en materia de secreto bancario, fiduciario o fiscal;
+
+III.- El acceso de los partidos políticos a la radio y a la televisión, no pudiendo dichos partidos contratar por sí o por terceras personas la adquisición de tiempos, en cualquier modalidad, en esos medios de comunicación. Para tal efecto la Ley considerará las disposiciones de carácter federal que resulten aplicables;
+
+IV.- Ninguna otra persona física o moral, sea a titulo propio o por cuenta de terceros, podrá contratar ni a favor o en contra, propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos.
+
+En la propaganda política o electoral que difundan los partidos, deberán abstenerse de expresiones que denigren y calumnien a las instituciones, a los otros partidos o a las personas.
+
+Desde el inicio de las campañas electorales, y hasta la conclusión de la respectiva jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, de carácter federal, estatal o municipal, incluyendo a sus entes públicos. Únicamente quedan exentas de esta prohibición las campañas de información de las autoridades electorales, las relativas a servicios educativos, de salud y de seguridad pública, o las necesarias para la protección civil en caso de emergencia;
+
+V.- La organización de las elecciones estatales y municipales es una función estatal a cargo de un órgano autónomo denominado Instituto Electoral del Estado de Campeche, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos, en los términos que ordene la Ley. En el ejercicio de la función electoral, la certeza, imparcialidad, independencia, legalidad y objetividad serán principios rectores.
+
+El Instituto Electoral del Estado será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. Su órgano superior de dirección será el Consejo General y se integrará por siete consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un secretario ejecutivo. La Ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
+
+El consejero presidente durará en su cargo seis años y podrá ser reelecto una sola vez. Los consejeros electorales durarán en su cargo siete años, serán renovados en forma escalonada y no podrán ser reelectos. Según sea el caso, uno y otros serán elegidos sucesivamente por el voto de las dos terceras partes de los integrantes del Congreso del Estado, en la sesión que para tal efecto celebre, a propuesta de los grupos parlamentarios. Conforme al mismo procedimiento, se designará a seis consejeros electorales suplentes, en orden de prelación. La Ley establecerá las reglas y el procedimiento correspondiente. El consejero presidente y los consejeros electorales que integran el Consejo General del Instituto, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen, con autorización del propio Consejo y sin obtener remuneración alguna, en asociaciones docentes, científicas, culturales, de investigación o de beneficencia. Los consejeros electorales, el contralor interno y el secretario ejecutivo del Consejo, percibirán una remuneración adecuada e irrenunciable por sus servicios y, dentro del año siguiente a aquél en el que se hayan separado del encargo, no podrán desempeñar empleo, cargo o comisión alguna en la Administración Pública Estatal o en cualquier dependencia, entidad u órgano de los Poderes Legislativo y Judicial o de un Gobierno Municipal.
+
+El secretario ejecutivo del Consejo General será nombrado por las dos terceras partes de los integrantes del mismo, a propuesta de su presidente.
+
+La Ley establecerá los requisitos que deberán reunir, para su designación, los consejeros electorales, el contralor interno y el secretario ejecutivo del Instituto Electoral del Estado de Campeche, los que estarán sujetos al régimen de responsabilidades establecido en el Capítulo XVII de esta Constitución.
+
+Los consejeros del Poder Legislativo serán propuestos por los mismos Diputados. Sólo habrá un consejero por cada partido político con registro representado en el Congreso del Estado.
+
+El Instituto Electoral del Estado tendrá a su cargo, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos, prerrogativas y fiscalización del financiamiento y gastos de las agrupaciones y de los partidos políticos, padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, cómputos en los términos que señale la ley, declaración de validez, otorgamiento de constancias en las elecciones de Diputados locales y autoridades municipales; cómputo de la elección de Gobernador del Estado en cada uno de los distritos electorales uninominales, y remisión del resultado de este cómputo a la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, para los efectos a que se contrae la fracción II del artículo 82-1 de esta Constitución, así como la regulación de la observación electoral, de las encuestas o sondeos de opinión con fines electorales y de los debates entre los candidatos a los diversos cargos de elección popular.
+
+La fiscalización de todos los ingresos y egresos del Instituto Electoral, estará a cargo de una Contraloría Interna, la cual contará con autonomía técnica y de gestión. La Ley determinará su integración y financiamiento.
+
+Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la Ley.
+
+Las disposiciones de la legislación electoral y del Reglamento Interior del Instituto, que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos, quienes gozaran de las facultades e investidura que establezca la mencionada legislación;
+
+VI.- El Instituto Electoral del Estado de Campeche podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales, lo cual no lo releva de su obligación y responsabilidad. El acuerdo para la celebración del convenio correspondiente deberá ser aprobado por las dos terceras partes de los consejeros electorales y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio y el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Electoral;
+
+Lo anterior, deberá ser aprobado con dos años de anticipación al inicio de la respectiva jornada electoral, a fin de que el Congreso, en su caso, realice las modificaciones legales que considere necesarias y adopte las previsiones presupuestales que se requieran;
+
+VII.- Para garantizar los principios de legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos de los artículos 82-1 y 82-2 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado;
+
+VIII.- La Ley establecerá los supuestos y las reglas para la realización de recuentos totales o parciales de votación; las causales de nulidad de todas las elecciones locales; y los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales; y
+
+IX.- La Ley establecerá las sanciones aplicables por la violación de estas disposiciones.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -411,11 +451,11 @@ Su Elección e Instalación
 
 Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se denominará Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 30.
 
-El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
+El Congreso del Estado se compondrá de representantes electos directamente en su totalidad el primer domingo de julio cada tres años, mediante sufragio universal, libre, secreto y directo, en los términos que determine la Ley.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -423,25 +463,25 @@ El Congreso del Estado se compondrá de representantes electos directamente en s
 
 El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por catorce diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes; sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
-La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. La distribución de los distritos electorales uninominales entre los Municipios del Estado se hará teniendo en cuenta el último censo general de población, sin que en ningún caso alguno de ellos quede sin representación particular ante el Congreso por no contar con, cuando menos, un diputado de mayoría relativa. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
+La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado conforme al último Censo General de Población y Vivienda entre los distritos señalados, teniendo también en cuenta para su distribución, además del poblacional, el factor geográfico y los demás que el Consejo General del Instituto Electoral del Estado determine en el acuerdo por el que establezca el procedimiento y las variables técnicas que para tales casos deberán de observarse. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
 
 La asignación de los diputados, según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
 
-a). Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos catorce de los distritos electorales uninominales;
+a).- Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos catorce de los distritos electorales uninominales;
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
 b) Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
 
-c). Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+c).- Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
-d). Ningún partido político podrá contar con más de 21 diputados por ambos principios;
+d).- Ningún partido político podrá contar con más de 21 diputados por ambos principios;
 
-e). En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; y
+e).- En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; y
 
-f). En los términos de lo establecido en los incisos c), d) y e) anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de los incisos d) o e), se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
+f).- En los términos de lo establecido en los incisos c), d) y e) anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de los incisos d) o e), se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -691,8 +731,6 @@ La creación jurídica del nuevo Municipio se llevará a cabo mediante la modifi
 
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
 IlI. Aprobar en forma anual:
@@ -702,8 +740,6 @@ a) Las contribuciones y demás ingresos que deban corresponder al Estado para cu
 b) El Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior; y
 
 c) Las contribuciones y demás ingresos que deban corresponder a los municipios para cubrir anualmente su respectivo presupuesto de egresos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -763,15 +799,13 @@ XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo est
 
 XIX Bis.- Expedir la ley que asegure el ejercicio y respeto del derecho de acceso a la información pública y garantice la transparencia en los actos y decisiones de las dependencias y entidades que conforman la Administración Pública Estatal, centralizada y paraestatal; los órganos de los Poderes Legislativo y Judicial; los organismos públicos autónomos y los Ayuntamientos y sus órganos administrativos auxiliares y paramunicipales; y que regule la integración de la estructura y el funcionamiento del organismo estatal encargado de promover y difundir el ejercicio de ese derecho, de resolver sobre la negativa a las solicitudes de información pública y de proteger los datos personales en poder de aquéllos; organismo estatal que estará investido de autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
 XX. Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos. Así como fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
-XXI.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida, por conducto del Ejecutivo del Estado, ya consolidada;
+XXI.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida por conducto del Ejecutivo del Estado, ya consolidada;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -789,11 +823,9 @@ XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su sen
 
 XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto de cubrir las vacantes de sus respectivos miembros;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XXVIII.- Determinar en la ley las formalidades y requisitos a los que deban sujetarse los actos jurídicos relativos a los bienes propiedad del Estado;
+XXVIII. Determinar en la ley las formalidades y requisitos a los que deban sujetarse los actos jurídicos relativos a los bienes propiedad del Estado;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -805,27 +837,21 @@ XXX.- Citar por conducto del Gobernador o del Pleno del H. Tribunal Superior de 
 
 Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitar al presidente municipal, que concurra él u otro integrante del ayuntamiento para responder a los cuestionamientos que se les formulen;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
 XXXI. Expedir la Ley que establezca las bases de coordinación para la organización y funcionamiento de los cuerpos de seguridad pública estatales y municipales, así como para el ingreso, selección, promoción y reconocimiento de sus integrantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XXXII.- Legislar en materia municipal conforme a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos mexicanos y demás ordenamientos aplicables;
+XXXII. Legislar en materia municipal conforme a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos mexicanos y demás ordenamientos aplicables;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-XXXIII. Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento o Junta Municipal no se hubiese celebrado la elección respectiva en la fecha correspondiente o, habiéndose celebrado, los electos, propietarios y suplentes, no se presentaren oportunamente al ejercicio de sus funciones, o cuando la elección se declare nula o por cualquiera causa se declare la desaparición del Ayuntamiento o Junta Municipal. Dicho Concejo se integrará en la forma que prevenga la respectiva ley orgánica y se encargará provisionalmente del gobierno del Municipio o Sección Municipal hasta en tanto se celebren las elecciones extraordinarias, mismas que deberán efectuarse en un plazo no mayor de sesenta días. En el caso de que la desaparición del Ayuntamiento o Junta Municipal ocurriese después de transcurrido el primer año del período para el cual se le eligió, el Concejo Municipal asumirá el gobierno hasta la conclusión de dicho período;
+XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento o Junta Municipal no se hubiese celebrado la elección respectiva en la fecha correspondiente o, habiéndose celebrado, los electos, propietarios y suplentes, no se presentaren oportunamente al ejercicio de sus funciones, o cuando la elección se declare nula o por cualquiera causa se declare la desaparición del Ayuntamiento o Junta Municipal. Dicho Concejo se integrará en la forma que prevenga la respectiva ley orgánica y se encargará provisionalmente del gobierno del Municipio o Sección Municipal hasta en tanto se celebren las elecciones extraordinarias, mismas que deberán efectuarse en un plazo no mayor de sesenta días. En el caso de que la desaparición del Ayuntamiento o Junta Municipal ocurriese después de transcurrido el primer año del período para el cual se le eligió, el Concejo Municipal asumirá el gobierno hasta la conclusión de dicho período;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -835,19 +861,13 @@ a) Emitir resoluciones que impliquen la transmisión de dominio de inmuebles de 
 
 b) Realizar actos jurídicos para crear, modificar o extinguir obligaciones a cargo del Municipio que trasciendan al período de gestión del Ayuntamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
 XXXVI. Aprobar el que uno o más Municipios del Estado previo acuerdo entre sus Ayuntamientos, se coordinen y asocien con uno o más Municipios de otras Entidades Federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
 XXXVII. Expedir las normas de carácter general para celebrar los convenios a que se refieren las fracciones III y IV del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como los que en su caso se celebren respecto a las materias a que se refiere la fracción V de la misma disposición;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -921,27 +941,23 @@ XII.- Las demás que le confiera esta Constitución.
 
 Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará Gobernador del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 60.
 
-La elección de gobernador será popular directa y en los términos que disponga la Ley Electoral.
+La elección de Gobernador será el primer domingo de julio de cada seis años, mediante sufragio universal, libre, secreto y directo, en los términos que disponga la legislación electoral.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 61.
 
 Para ser Gobernador se requiere:
 
-I.- Ser ciudadano campechano en pleno goce de sus derechos;
+I.- Ser ciudadano mexicano por nacimiento;
 
-II.- Haber nacido en el territorio del Estado, con residencia en él, de todo el año anterior a su elección;
+II.- Ser nativo del Estado, o con residencia efectiva en el mismo no menor de cinco años inmediatamente anteriores al día de la elección; y
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
-
-III.- Si se es oriundo de otra entidad, pero campechano por nacimiento en términos de la fracción II, del artículo 15 de esta Constitución, tener residencia efectiva cuando menos de cinco años en Campeche; y
-
-IV.- Tener 35 años cumplidos el día de la elección.
+III.- Tener treinta años cumplidos al día de la elección;
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -991,8 +1007,6 @@ Si al comenzar un período constitucional no se presentase el gobernador electo,
 
 Cuando la falta del Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviere reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (REFORMADO, P.O. 15 DE FEBRERO DE 2008) (F. DE E., P.O. 18 DE FEBRERO DE 2008)
 
 Las ausencias temporales del Gobernador hasta por quince días las suplirá el Secretario de Gobierno. Si la ausencia temporal excediese de quince días, pero fuera inferior a sesenta días, quedará encargado del Despacho del Poder Ejecutivo el Secretario de Gobierno o, en su defecto, el funcionario que el propio Gobernador designe de entre los titulares de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado. La suplencia a que este párrafo se refiere se comunicará, por escrito, para los efectos que (sic) haya lugar, a los representantes de los otros dos poderes locales.
@@ -1021,7 +1035,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
@@ -1189,11 +1203,9 @@ La función de consejero jurídico del Gobernador estará a cargo de la dependen
 
 ### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1447,7 +1459,11 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 ###### ARTICULO 89.
 
-Para los efectos de las responsabilidades a que alude este capítulo, se reputa como servidores públicos a los miembros de los Poderes Legislativo y Judicial del Estado, a los miembros de las dependencias y entidades de la Administración Pública del Estado, a los integrantes de los Ayuntamientos y Juntas Municipales, a los Comisarios Municipales, a los miembros de los Organismos Públicos Autónomos Estatales y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquiera naturaleza , bien sea de elección o de nombramiento, en los gobiernos estatal y municipales, o en entidades paraestatales o paramunicipales. Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este capítulo, se reputa como servidores públicos a los miembros de los Poderes Legislativo y Judicial del Estado, a los miembros de las dependencias y entidades de la Administración Pública del Estado, a los integrantes de los Ayuntamientos y Juntas Municipales, a los Comisarios Municipales, a los miembros de los órganos autónomos estatales y en general a toda persona que desempeñe un empleo, cargo o comisión remunerados de cualquiera naturaleza, bien sea de elección o de nombramiento, en los gobiernos estatal y municipales, o en entidades paraestatales o paramunicipales. Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+Los servidores públicos estatales y municipales tienen, en todo tiempo, la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda que, bajo cualquier modalidad de comunicación social, difundan las dependencias, entidades y órganos de los Poderes Legislativo, Ejecutivo y Judicial del Estado, de los Ayuntamientos y Juntas Municipales, así como los órganos autónomos estatales, deberá tener el carácter de institucional y fines informativos, educativos, de orientación social o de seguridad pública. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. Lo anterior deberá de regularse en la legislación electoral.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1547,19 +1563,21 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 La base de la división territorial y de la organización política y administrativa del Estado es el municipio libre. Los Municipios del Estado tendrán personalidad jurídica y se regirán conforme a las siguientes bases:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO DE LA FRACCIÓN, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+I. Cada Municipio será gobernado por un cuerpo colegiado, denominado Ayuntamiento, cuya elección se efectuará el primer domingo de julio de cada tres años, mediante sufragio universal, libre, secreto y directo, en los términos que disponga la legislación electoral. No habrá autoridad intermedia alguna entre el Ayuntamiento y el Gobierno del Estado:
 
-I. Cada Municipio será gobernado por un cuerpo colegiado denominado Ayuntamiento, que será electo mediante sufragio universal, libre, secreto y directo. No habrá autoridad intermedia alguna entre el Ayuntamiento y el Gobierno del Estado:
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos (sic), las que le otorga esta Constitución y las que le confieran las leyes que de ellas emanen.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+
 b) Los Ayuntamientos serán asambleas deliberantes y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución corresponderá exclusivamente a los presidentes municipales;
 
-c) En ningún caso los Ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del Presidente Municipal, ni éste por si solo las de los Ayuntamientos, ni el Ayuntamiento o el Presidente Municipal, funciones judiciales;
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+c) En ningún caso los Ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del Presidente Municipal, ni éste por si solo las de los Ayuntamientos, ni el Ayuntamiento o el Presidente Municipal, funciones judiciales;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1571,9 +1589,9 @@ Los Ayuntamientos se integrarán con un presidente municipal y con varios miembr
 
 III.- Los Municipios podrán subdividirse territorialmente en Secciones y Comisarías Municipales. La facultad para crear Secciones y Comisarías corresponderá a la Legislatura del Estado y a los Ayuntamientos, respectivamente;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
-IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento, denominado Junta Municipal, de elección popular directa, integrado con un Presidente, tres Regidores y un Síndico electos por el principio de mayoría relativa y un Regidor asignado por el sistema de representación proporcional, conforme a las disposiciones de la ley electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento del total de la votación emitida en la Sección Municipal correspondiente; y
+IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento, denominado Junta Municipal, cuya elección se efectuará el primer domingo de julio de cada tres años, mediante sufragio universal, libre, secreto y directo, en los términos que disponga la legislación electoral, integrado con un Presidente, tres Regidores y un Síndico electos por el principio de mayoría relativa y un Regidor asignado por el sistema de representación proporcional, conforme a las disposiciones de la ley electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento del total de la votación emitida en la Sección Municipal correspondiente; y
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -1615,8 +1633,6 @@ c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco añ
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad del otro Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 104.
@@ -1630,8 +1646,6 @@ II. El tesorero municipal o administrador de fondos públicos municipales si no 
 III. Los que tuvieren mando de fuerza pública en el Municipio en que se realice la elección, salvo que dejare el mando cuarenta y cinco días antes de la elección;
 
 IV. El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1675,8 +1689,6 @@ b) Gravar directa o indirectamente la entrada o salida de los mismos o el paso p
 
 c) Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 106.
@@ -1684,8 +1696,6 @@ c) Imponer contribuciones que no estén especificadas en las leyes fiscales del 
 Los municipios tendrán derecho para adquirir, poseer y administrar bienes inmuebles. Los actos traslativos de dominio y las concesiones que respecto de ellos se otorguen se sujetarán a los requisitos y formalidades que establece esta Constitución, los que determine la ley y los que establezcan los reglamentos municipales.
 
 Los municipios podrán contratar empréstitos con apego a las disposiciones de la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1698,8 +1708,6 @@ Los presupuestos de egresos de los municipios serán aprobados por los Ayuntamie
 Los ayuntamientos acordarán anualmente las remuneraciones para sus integrantes de acuerdo a las normas que determine la ley y con observancia de lo previsto en el artículo 121 de esta Constitución.
 
 Las funciones de control, evaluación y vigilancia de la aplicación de los recursos públicos de la administración pública municipal, corresponderá a las autoridades que determine la ley aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -2360,3 +2368,13 @@ PRIMERO: El presente decreto entrará en vigor quince días después de su publi
 SEGUNDO: La reforma decretada a la fracción XVI del artículo 71 de la Constitución Política del Estado de Campeche quedará en suspenso su inicio de vigencia hasta que entre en vigor la ley que regule todo lo concerniente a los bienes muebles e inmuebles de la propiedad o en posesión del Estado. El Congreso del Estado en un plazo no mayor a ciento veinte días, contados a partir de la fecha en que entre en vigor este decreto, deberá expedir la citada ley secundaria.
 
 TERCERO: Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2008.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La renovación escalonada de Consejeros Electorales estipulada en el párrafo V del artículo 24 de la Constitución Política del Estado de Campeche se llevará a cabo a partir de la próxima elección de Consejeros Electorales. Para tal fin se elegirán en la sesión convocada para tales fines en primer término al Consejero Presidente y tres Consejeros para el periodo enunciado en la referida norma Constitucional y posteriormente a los tres consejeros restantes para un periodo de tres años.
+
+Tercero.- Cualquier trabajo atinente a redefinir la conformación actual de los distritos electorales locales podrá llevarse a cabo tomando en consideración el Censo General de Población y Vivienda 2010.
+
+Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al contenido del presente decreto.
