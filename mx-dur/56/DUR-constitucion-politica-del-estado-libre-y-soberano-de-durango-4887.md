@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2008-07-13"
+last_updated: "2008-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -227,7 +227,7 @@ Toda resolución de autoridad administrativa será de acuerdo a la letra de la L
 
 En el Estado de Durango se instituye un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía; que tendrá a su encargo dirimir las controversias que se susciten entre la Administración Pública y los particulares.
 
-Los requisitos para ser Magistrado del Tribunal de lo Contencioso Administrativo, la forma de elección y el período de ejercicio en el cargo, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia.
+Los requisitos para ser Magistrado del Tribunal de lo Contencioso Administrativo, la forma de elección y el período de ejercicio en el encargo, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -247,7 +247,7 @@ No podrá librarse orden de aprehensión contra persona alguna, sino por la auto
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-En todo proceso de orden penal, el inculpado tendrá las garantías que señalan los artículos 19 y 20 de la Constitución Política de los Estados Unidos Mexicanos.
+En todo proceso de orden penal, el inculpado tendrá las garantías que señalan los artículos 19 y 20, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -753,15 +753,17 @@ Los Diputados de Mayoría Relativa enviarán por escrito a los H.H. Cabildos de 
 
 Para el cumplimiento de sus atribuciones y para el despacho de los asuntos que le corresponde conocer, el congreso nombrará las comisiones que requiera, en los términos de su Ley Orgánica. La Comisión Permanente se sujetará a lo que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 48.
 
-El 12 de septiembre de cada año, el Gobernador del Estado se presentará en el Recinto del Congreso a rendir por escrito un informe de la situación que guarda la administración pública.
+El 15 de marzo de cada año, el Gobernador del Estado enviará al Congreso, un informe por escrito y en medio magnético sobre el estado que guarda la administración pública estatal, correspondiente al periodo del 1° de enero al 31 de diciembre del año anterior.
 
-Estando presente el Titular del Ejecutivo, los diferentes partidos representados en la Cámara fijarán su postura respecto a la situación imperante en el Estado, dicha intervención no deberá exceder de 15 minutos.
+Recibido el informe por escrito y en medio magnético, se turnará a las comisiones legislativas que corresponda; y a más tardar, el día 15 de abril, se efectuará la glosa del mismo en los términos que disponga la Ley Orgánica del Congreso del Estado.
 
-Una vez concluida la intervención de los partidos, el Titular del Ejecutivo, dirigirá un mensaje. Al finalizar, el Presidente del Congreso hará las apreciaciones correspondientes.
+Los Secretarios del Despacho del Ejecutivo, el Procurador General de Justicia y los titulares de las entidades de la administración pública estatal que sean citados por el Congreso con motivo de la glosa del informe, comparecerán ante el Pleno o las Comisiones Legislativas, según sea el caso.
+
+En el año que corresponda a la renovación ordinaria del Titular del Poder Ejecutivo, el Gobernador del Estado que concluya su periodo, enviará al Congreso, el día 1° de septiembre, una evaluación general de los resultados obtenidos en el ejercicio constitucional, con base en las metas del Plan Estatal de Desarrollo.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1037,9 +1039,9 @@ XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución
 
 XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
-XXXVII.- El Congreso del Estado, a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Procurador de Justicia y a los titulares de los Organismos Públicos Descentralizados, durante el Primer Período de sesiones del ejercicio legal correspondiente, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, debiendo enviarle citatorio, con la anticipación razonable, y haciéndole saber el motivo exacto de su comparecencia;
+XXXVII.- El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Procurador General de Justicia y a los titulares de las entidades de la administración pública estatal, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos, debiendo enviarle citatorio con la anticipación razonable y haciéndole saber el motivo exacto de su comparecencia;
 
 > <small>(ADICIONADA, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -1315,9 +1317,9 @@ X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio exp�
 
 XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
-XII.- Enviar al Congreso el día 12 de Septiembre de cada año, un Informe por escrito sobre el estado que guarda la Administración Pública;
+XII.- Enviar al Congreso del Estado un informe por escrito y en medio magnético sobre el estado que guarda la administración pública estatal, de conformidad con las prevenciones establecidas en la presente Constitución y la ley respectiva;
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -2832,3 +2834,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2008.
+
+Artículo Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero.- El 15 de marzo de 2009, se rendirá el informe correspondiente al ejercicio fiscal 2008, incluyendo además, las acciones y resultados obtenidos del 1° de septiembre al 31 de diciembre de 2007.
