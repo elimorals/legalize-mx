@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-estatal-y-municipal-10670"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "2007-09-05"
+last_updated: "2008-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 1996.
 
@@ -221,7 +221,9 @@ V.- Afectar, ceder o utilizar, como fuente o garantía de pago directa o alterna
 
 Al efecto tendrá todas las facultades para negociar y concertar los términos y condiciones que sean necesarias o convenientes para la consecución de las afectaciones o cesiones a que se refiere el párrafo anterior, pudiendo celebrar los convenios, contratos y demás actos necesarios, convenientes o complementarios;
 
-VI.- Efectuar los pagos de las obligaciones contraídas por los Municipios cuando éstos así lo soliciten, dichos pagos se efectuarán descontándolos de las participaciones que les correspondan. Asimismo en caso de incumplimiento de los financiamientos contraídos, efectuar los pagos de las obligaciones garantizadas con afectación de las participaciones;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Efectuar los pagos de las obligaciones contraídas por los Municipios cuando éstos así lo soliciten, dichos pagos se efectuarán descontándolos de sus derechos a recibir de los derivados de participaciones de ingresos federales, fondos o aportaciones federales o cualquier otros ingresos locales de los que puedan disponer para ese fin, y que puedan afectarse en garantía o como fuente de pago de obligaciones derivadas de créditos o financiamientos conforme a lo dispuesto en la legislación federal y estatal aplicables;
 
 VII.- Autorizar a los Organismos de la Administración Pública Paraestatal para gestionar y contratar financiamientos, ajustándose a los lineamientos de esta Ley;
 
@@ -648,3 +650,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 5 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE SEPTIEMBRE DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
