@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2001-06-30"
+last_updated: "2008-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -153,9 +153,11 @@ Lo anterior será sin perjuicio de las facultades que en materia de inventarios 
 
 ### CAPITULO II (SIC). DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 9o.
 
-La planeación de la obra pública que realicen las dependencias y entidades a que se refiere el Artículo 1o. de esta Ley deberá:
+La planeación de la obra pública que realicen las dependencias y entidades a que se refiere el artículo 1º de esta ley deberá:
 
 I.- Sujetarse a los objetivos, políticas y prioridades señaladas en los planes que elabore el Gobierno del Estado a nivel sectorial y regional de desarrollo urbano, social y económico a corto, mediano y largo plazo, de acuerdo con los recursos identificados en los mismos planes, y en observancia de las normas y lineamientos que de ellos se deriven;
 
@@ -189,11 +191,15 @@ XI.- Prever y considerar las acciones a realizar, antes, durante y después de s
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
 
-XII.- Prever y considerar la coordinación con otras dependencias y entidades que realicen obras en las mismas áreas; y
+XII.- Prever y considerar la coordinación con otras dependencias y entidades que realicen obras en las mismas áreas; y (sic)
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
 
-XIII.- Prever y considerar los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse. Los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos.
+XIII.- Prever y considerar los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse. Los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
+XIV.- Garantizar el fácil acceso y desplazamiento de las personas con discapacidad, debiéndose observar las normas técnicas que dicte la autoridad competente en términos de lo establecido en la fracción I del artículo 7 de la Ley para el Desarrollo Integral de las Personas con Discapacidad en el Estado de Campeche.
 
 ###### ARTICULO 10.
 
@@ -758,5 +764,11 @@ TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan a
 P.O. 30 DE JUNIO DE 2001.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2008.
+
+Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
