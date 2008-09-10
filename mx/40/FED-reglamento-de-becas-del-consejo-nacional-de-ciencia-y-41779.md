@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-becas-del-consejo-nacional-de-ciencia-y-41779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-08"
-last_updated: "2006-09-12"
+last_updated: "2008-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41779&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-12-03"
 
 REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION, DESARROLLO Y VINCULACION DE RECURSOS HUMANOS DE ALTO NIVEL DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA, PUBLICADO EN EL D.O.F. DE 10 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 8 de diciembre de 2004.
 
@@ -400,3 +402,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Quedan sin efecto todas aquellas disposiciones administrativas que contravengan lo dispuesto por el presente Acuerdo.
 
 TERCERO. Los asuntos pendientes de trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con el mismo.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Becas del Consejo Nacional de Ciencia y Tecnología publicado en el Diario Oficial de la Federación el 8 de diciembre de 2004, y sus modificaciones. Asimismo, quedan sin efecto todas las disposiciones reglamentarias y administrativas emitidas por el CONACyT en materia de becas, que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos de becas que se encuentren en trámite a la entrada en vigor del presente Reglamento continuarán desarrollándose al amparo de las normas vigentes en la fecha que se originó el trámite en lo que no se oponga al presente Reglamento. En los casos que el presente Reglamento otorgue beneficio al becario no contemplado en la norma anterior, deberá ser aplicado en su beneficio.
