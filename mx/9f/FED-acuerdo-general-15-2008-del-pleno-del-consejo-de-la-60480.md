@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-15-2008-del-pleno-del-consejo-de-la-60480"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-14"
-last_updated: "2008-04-28"
+last_updated: "2008-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-04-02"
 
 ACUERDO GENERAL 15/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DE LOS JUZGADOS QUINTO Y SEXTO DE DISTRITO DEL CENTRO AUXILIAR DE LA SEGUNDA REGION, CON RESIDENCIA EN SAN ANDRES CHOLULA, PUEBLA, CON JURISDICCION EN LA REPUBLICA MEXICANA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE SEPTIEMBRE DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de abril de 2008.
 
@@ -61,6 +61,14 @@ SEGUNDO. Los Juzgados Quinto y Sexto de Distrito del Centro Auxiliar de la Segun
 
 Los titulares deberán cerciorarse que en los medios electrónicos e impresos pertinentes de sus oficinas de correspondencia común u oficialías de partes, se asiente la mencionada remisión, según corresponda, a los juzgados de Distrito del Centro Auxiliar o a los órganos jurisdiccionales auxiliados.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 43/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2008)</small>
+
+SEGUNDO BIS. Los Juzgados Quinto y Sexto de Distrito del Centro Auxiliar de la Segunda Región, harán del conocimiento de las partes que cuenten con Firma Electrónica para el Seguimiento de Expedientes (FESE) las sentencias que pronuncien, y devolverán los autos a los juzgados de Distrito de origen junto con las constancias de consulta electrónica.
+
+Los jueces de Distrito de origen notificarán dichas sentencias a las partes que no cuenten con FESE.
+
+Los recursos de revisión que se interpongan vía electrónica mediante el uso de la FESE ante los Juzgados Quinto y Sexto de Distrito del Centro Auxiliar de la Segunda Región, se tramitarán por los referidos órganos jurisdiccionales conforme a la ley y, una vez hecho esto, el expediente con la sentencia, los medios de defensa interpuestos y las constancias de conocimiento, serán enviados a los juzgados de Distrito de origen.
+
 TERCERO. Los recursos interpuestos a las actuaciones dictadas en los juicios de amparo contra la Ley del Impuesto Empresarial a Tasa Unica, por los juzgados de Distrito de origen serán del conocimiento de los tribunales de Circuito que correspondan a su residencia, por lo que el envío del expediente principal, a la Oficina de Correspondencia Común del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, se realizará una vez resueltos dichos recursos.
 
 CUARTO. La impugnación a la resolución emitida por los Juzgados Quinto de Distrito Auxiliar y Sexto de Distrito Auxiliar ambos del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, será del conocimiento de los tribunales de Circuito de la adscripción de los juzgados de Distrito de origen.
@@ -73,6 +81,10 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 43/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2008)</small>
+
+TERCERO. El trámite y obtención de la firma electrónica (FESE) se realizará conforme al procedimiento señalado en el Acuerdo General 21/2007 del propio Pleno del Consejo de la Judicatura Federal, que establece el uso de la Firma Electrónica para el Seguimiento de Expedientes (FESE).
+
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 15/2008, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funcionamiento de los Juzgados Quinto y Sexto de Distrito del Centro Auxiliar de la Segunda Región, con Residencia en San Andrés Cholula, Puebla, con Jurisdicción en la República Mexicana, fue aprobado por el Pleno del propio Consejo, en sesión de dos de abril de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a nueve abril de dos mil ocho.- Conste.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
@@ -84,3 +96,11 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 15/2008, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funcionamiento de los Juzgados Quinto y Sexto de Distrito del Centro Auxiliar de la Segunda Región, con Residencia en San Andrés Cholula, Puebla, con Jurisdicción en la República Mexicana.
+
+D.O.F. 11 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y para mayor difusión conforme a los principios de Transparencia y Acceso a la Información Pública Gubernamental en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 15/2008, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funcionamiento de los Juzgados Quinto y Sexto de Distrito del Centro Auxiliar de la Segunda Región, con Residencia en San Andrés Cholula, Puebla, con Jurisdicción en la República Mexicana.
