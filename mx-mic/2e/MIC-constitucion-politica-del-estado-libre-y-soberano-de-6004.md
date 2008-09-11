@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2007-12-29"
+last_updated: "2008-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -359,7 +359,7 @@ La misma regla se observará con los diputados suplentes cuando estuvieren en ej
 
 El Congreso se renovará totalmente cada tres años, y se instalará el día quince del mes de septiembre del año en que se celebre la elección ordinaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 30.
 
@@ -1185,7 +1185,7 @@ El Congreso del Estado podrá privarlos de su encargo en cualquier tiempo, cuand
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-###### Artículo 78
+###### Artículo 78.
 
 Es causa de retiro forzoso para el magistrado cuando:
 
@@ -1449,13 +1449,19 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anual
 
 #### SECCION III. De la Comisión Estatal para el Acceso a la Información Pública
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 97.
 
-La Comisión Estatal para el Acceso a la Información Pública será órgano de decisión, autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública. Tiene autonomía patrimonial, de operación y de decisión. Está integrado por tres comisionados, de los cuales uno será su Presidente.
+El Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, es un organismo de autoridad, decisión, promoción, difusión e investigación sobre el derecho a la transparencia y acceso a la información pública. Tiene autonomía patrimonial, de operación y de gestión.
 
-Los comisionados serán electos por el Congreso del Estado, por el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, quien a partir de propuestas de instituciones y organizaciones académicas, profesionales y ciudadanas, enviará una lista de aspirantes con el triple del número de comisionados a nombrar, para que de entre ellos se elija a quien ocupará el cargo. En caso de que el Congreso rechace total o parcialmente la lista propuesta, el Gobernador del Estado someterá una nueva lista de aspirantes en los términos señalados. Si no hubiere acuerdo del Congreso, el Gobernador del Estado designará a los comisionados faltantes, de entre las propuestas.
+El Consejo del Instituto se integrará por tres consejeros, de los cuales uno será su Presidente, mismos que serán electos por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes.
+
+Para la elección de los consejeros, el Congreso del Estado emitirá convocatoria pública dirigida a las instituciones académicas, culturales, civiles, colegios de profesionistas, organizaciones gremiales y a la sociedad en general, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
+
+Las comisiones de dictamen designadas propondrán al Pleno una terna por cada vacante de Consejeros a elegir. Una vez electos, en su caso, el Pleno procederá a la designación del Consejero Presidente.
+
+Los consejeros serán electos por un período de tres años con posibilidad de una reelección y podrán ser removidos de sus funciones en los términos del Título Cuarto de esta Constitución.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -1567,7 +1573,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
 
@@ -1575,7 +1581,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ###### Artículo 104.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, del Consejo del Poder Judicial, a los miembros del Tribunal Electoral del Estado, a los miembros del Tribunal de Justicia Administrativa, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como a los servidores del Instituto Electoral de Michoacán, de la Comisión Estatal de los Derechos Humanos, de la Comisión Estatal de Acceso a la Información Pública, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, del Consejo del Poder Judicial, a los miembros del Tribunal Electoral del Estado, a los miembros del Tribunal de Justicia Administrativa, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como a los servidores del Instituto Electoral de Michoacán, de la Comisión Estatal de los Derechos Humanos, del Instituto para la Transparencia y Acceso a la Información Pública del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -3048,6 +3054,16 @@ PRIMERO. El presente Decreto entrará en vigor el día 15 de febrero del año 20
 SEGUNDO. En tanto se reforme la normatividad correspondiente, cuando se haga mención a la Tesorería General y a la Oficialía Mayor, se entenderá la Secretaría de Finanzas y Administración.
 
 TERCERO. Remítase a los Ayuntamientos del Estado la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 11 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase a los ayuntamientos del Estado, el presente Decreto, para que en el término de Ley, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO CUARTO.
 
