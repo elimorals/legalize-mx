@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-comision-estatal-de-derechos-humanos-de-2298
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-30"
-last_updated: "2005-05-01"
+last_updated: "2008-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -31,7 +31,7 @@ EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DE
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-Con fechas 23 de Noviembre y 11 de Diciembre del 2000, fueron presentadas Iniciativas de Decreto; una por integrantes de los grupos parlamentarios del Partido Acción Nacional, y otra, por el Partido Revolucionario Institucional; que contienen "LEY ORGANICA DE LA COMlSIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE DURANGO"; mismas que fueron turnadas a la Comisión de Derechos Humanos integrada por los CC. Diputados: Sergio Carrillo Arciniega, Juan Manuel Felix León, José Ma. Alcántar Chávez, Víctor Joel Martínez Martínez y Armando Rodríguez Morales; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+Con fechas 23 de Noviembre y 11 de Diciembre del 2000, fueron presentadas Iniciativas de Decreto; una por integrantes de los grupos parlamentarios del Partido Acción Nacional, y otra, por el Partido Revolucionario Institucional; que contienen "LEY ORGANICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE DURANGO"; mismas que fueron turnadas a la Comisión de Derechos Humanos integrada por los CC. Diputados: Sergio Carrillo Arciniega, Juan Manuel Felix León, José Ma. Alcántar Chávez, Víctor Joel Martínez Martínez y Armando Rodríguez Morales; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
 C O N S I D E R A N D O S:
 
@@ -39,7 +39,7 @@ PRIMERO.- Siendo los derechos humanos el conjunto de facultades prerrogativas, l
 
 SEGUNDO.- En el devenir histórico, el estado de derecho ha luchado por establecer, respetar y hacer realidad los ideales, los valores y los principios elementales del ser humano, reconociéndose desde la declaración de los derechos del hombre y del ciudadano en 1789, que el ser humano tiene derecho a la vida, a la libertad, a la justicia, a la seguridad jurídica y a la igualdad; en tal virtud, en los Estados contemporáneos, toda Constitución debe contemplar la división de poderes y las garantías individuales, estipulándose, que de no consagrar éstas, prácticamente carecería de una Constitución lo cual nos permite apreciar nítidamente la trascendencia de los derechos humanos en nuestra realidad cotidiana, en el ámbito económico, político y social y así poder hablar de un verdadero desarrollo integral del ser humano.
 
-TERCERO.- En 1993 se llevó acabo la declaración de Viena en la que se aprobó a nivel mundial el derecho que tiene cada país para establecer el marco jurídico para la creación de los organismos defensores de los derechos humanos de acuerdo a las necesidades propias de cada lugar, es oportuno comentar que se reconoció que el Poder Legislativo por ser el representante auténtico y genuino del pueblo era el más apto para participar en el nombramiento de el ombudsman.
+TERCERO.- En 1993 se llevó a cabo la declaración de Viena en la que se aprobó a nivel mundial el derecho que tiene cada país para establecer el marco jurídico para la creación de los organismos defensores de los derechos humanos de acuerdo a las necesidades propias de cada lugar, es oportuno comentar que se reconoció que el Poder Legislativo por ser el representante auténtico y genuino del pueblo era el más apto para participar en el nombramiento de el ombudsman.
 
 CUARTO.- En nuestra Entidad Federativa mediante Decreto No. 262 de fecha tres de julio de 1991, aprobado por la LVIII Legislatura, se creó la Comisión de Derechos Humanos del Estado; y con posteridad mediante Decreto No. 93 de fecha 4 de mayo de 1993, la LIX Legislatura aprobó la Ley Orgánica de la propia Comisión; todo ello con la finalidad de dar cumplimiento a lo que establece el apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -73,13 +73,15 @@ Para los efectos de la presente ley, se entenderá por:
 
 Ley.- La Ley Orgánica de la Comisión Estatal de Derechos Humanos de Durango.
 
-Comisión.- La Comisión Estatal de Derechos Humanos del Estado de Durango.
-
 Servidor Público.- A los representantes de elección popular, a los miembros de los poderes ejecutivo y judicial del Estado, a los funcionarios y empleados y en general a toda persona que desempeñe un empleo o comisión de cualquier naturaleza en la administración pública estatal o municipal o en los organismos públicos descentralizados o autónomos, estatales o municipales y empresas de participación estatal o municipal mayoritaria.
 
 Superior Jerárquico.- Al Titular de la dependencia correspondiente.
 
 Superior inmediato.- Al servidor público del cual depende, reparta o recibe órdenes directas el presunto infractor.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+Comisión: La Comisión Estatal de Derechos Humanos de Durango.
 
 ###### ARTÍCULO 4.
 
@@ -311,7 +313,7 @@ I. Ser ciudadano duranguense, en pleno ejercicio de sus derechos;
 
 II. Ser mayor de treinta años de edad, al día de su nombramiento;
 
-III. Poseer Titulo de Licenciado en Derecho, con tres años de ejercicio profesional;
+III. Poseer Título de Licenciado en Derecho, con tres años de ejercicio profesional;
 
 IV. Gozar de buena reputación y reconocido prestigio; y
 
@@ -369,9 +371,17 @@ IV.- Gozar de buena reputación y reconocido prestigio; y,
 
 V.- No haber sido condenado por delito intencional que amerite pena corporal.
 
-La Visitaduría contará además con los Visitadores Adjuntos y personal que sea necesario para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
 
-Los Visitadores Adjuntos deberán reunir los mismos requisitos que el Visitador General a excepción de la edad que será mayor de veinticinco años y una experiencia de tres años y tendrán las mismas obligaciones y atribuciones en la investigación de presuntas violaciones a los derechos humanos que esta ley establece para aquél.
+La Visitaduría contará además con los visitadores Numerarios, Adjuntos y Auxiliares así como el personal que sea necesario para el mejor cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+Los visitadores Numerarios, y Adjuntos deberán reunir los mismos requisitos que el visitador General a excepción de la edad que será mayor de veinticinco años además de una experiencia de tres años y tendrán las mismas obligaciones y atribuciones en la investigación de presuntas violaciones a los derechos humanos que esta ley establece para aquél.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+Las funciones de los visitadores Numerarios, Adjuntos y Auxiliares se determinaran de conformidad con el Reglamento de la Ley Orgánica de la Comisión Estatal de Derechos Humanos de Durango.
 
 ###### ARTÍCULO 27.
 
@@ -545,7 +555,9 @@ En todo caso, una vez recibida, la autoridad o servidor público de que se trate
 
 La falta de comunicación de aceptación, dará lugar a que se interprete que fue aceptada, asumiendo la autoridad a la cual fue dirigida, el compromiso de darle cumplimiento.
 
-La no aceptación de la Recomendación se hará pública a la sociedad.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+Las recomendaciones se harán públicas a la sociedad.
 
 ###### ARTÍCULO 55.
 
@@ -699,6 +711,14 @@ La Comisión denunciará ante los órganos competentes los delitos o faltas que,
 
 Respecto a los particulares que durante los procedimientos de la Comisión incurran en faltas o delitos, la misma lo hará del conocimiento de las autoridades competentes para que sean sancionados de acuerdo con las leyes de la materia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+La Comisión podrá dar seguimiento únicamente a las actuaciones y diligencias que se practiquen en la integración de las averiguaciones previas, que se deriven de sus propias recomendaciones, a través de sus visitadores general, numerarios y adjuntos. Esta facultad se limitará a la observación atenta del curso del asunto de que se trate sin que se entienda la posibilidad de intervenir como parte en aquéllos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+La información a la que se tengan acceso con base en dicha facultad se manejará con la más estricta confidencialidad en los términos del artículo 8 del presente ordenamiento y a lo dispuesto en la fracción V del artículo 157 del Código Penal para el Estado Libre y Soberano de Durango.
+
 ###### ARTÍCULO 78.
 
 La Comisión deberá poner en conocimiento de las autoridades competentes los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realiza dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar a la Comisión sobre las medidas o sanciones disciplinarias impuestas.
@@ -816,3 +836,9 @@ P.O. 1 DE MAYO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
