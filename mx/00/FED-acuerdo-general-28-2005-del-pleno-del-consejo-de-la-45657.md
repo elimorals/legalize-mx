@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2008-07-15"
+last_updated: "2008-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE SEPTIEMBRE DE 2008.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -471,17 +471,19 @@ El titular de Servicios al Personal informará mensualmente a la Comisión de la
 
 ## TITULO NOVENO. De la Suspensión y Cancelación de la Pensión Complementaria
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
-
 ###### Artículo 31.
 
-Se suspenderá el pago de la pensión complementaria, en caso de que cualquiera de los beneficiarios a que se refiere el artículo 3 de este acuerdo, que la estuvieran recibiendo, por cualquier causa, desempeñe un trabajo remunerado que a juicio de la Comisión, con base en el estudio de trabajo social que para tal efecto se practique por Servicios al Personal, sea suficiente para su subsistencia digna. La suspensión surtirá efectos a partir de la fecha de inicio de actividades; sin embargo, la pensión podrá ser reiniciada a partir de la fecha en que el beneficiario deje de laborar.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 42/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2008)
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 42/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 32.
 
-Se cancelará la pensión complementaria a que se refiere este Acuerdo, cuando, para obtenerla, cualquiera de los beneficiarios hubiese proporcionado datos falsos que induzcan al error o se aprovechen de aquél en que Servicios al Personal hubiese incurrido. La resolución que determine la cancelación de la pensión complementaria será emitida por el Pleno.
+Se cancelará la pensión complementaria a que se refiere este Acuerdo, cuando, para obtenerla, cualquiera de los beneficiarios hubiese proporcionado datos falsos que induzcan al error o se aprovechen de aquél en que Servicios al Personal hubiese incurrido.
+
+También procede la cancelación de la pensión cuando, por resolución firme, se determine que el beneficiario que la esté disfrutando ha sido sancionado con inhabilitación en el servicio público; o cuando incumpla la prohibición contenida en el párrafo segundo del artículo 101 de la Constitución Política de los Estados Unidos Mexicanos.
+
+La resolución que determine la cancelación de la pensión complementaria será emitida por el Pleno, previo dictamen de la Comisión.
 
 ###### Artículo 33.
 
@@ -550,5 +552,13 @@ D.O.F. 15 DE JULIO DE 2008.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
+
+D.O.F. 11 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
