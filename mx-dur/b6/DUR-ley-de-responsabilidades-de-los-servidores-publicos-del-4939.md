@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidades-de-los-servidores-publicos-del-4939"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-18"
-last_updated: "2008-06-29"
+last_updated: "2008-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el 18, 21, 25 y 28 de febrero de 1988.
 
@@ -453,9 +453,13 @@ XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones qu
 
 XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las Fracciones de éste Artículo, y en los términos de las normas que al efecto se expidan;
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y (sic)
 
-XXII.- Las demás que le impongan las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+XXII.- Proporcionar en forma oportuna y veraz, toda la información y datos que con razón de su encargo sean solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos. En todo caso, la información a que se tenga acceso, deberá manejarse con la más estricta confidencialidad en los términos del artículo 8 de la Ley Orgánica de la Comisión Estatal de Derechos Humanos y del artículo 157 fracción V del Código Penal para el Estado Libre y Soberano de Durango; y
+
+XXIII.- Las demás que le impongan las leyes y reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
@@ -553,13 +557,13 @@ IV.- Destitución del Puesto;
 
 V.- Sanción económica;
 
-VI. - Inhabilitación temporal para desempeñar empleo, cargo o comisiones en el servicio público.
+VI.- Inhabilitación temporal para desempeñar empleo, cargo o comisiones en el servicio público.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la zona económica respectiva y de tres a diez años si excede de dicho límite.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
 
-En todo caso, para los efectos de esta Ley, se consideraran graves las conductas de los servidores públicos que infrinjan las obligaciones precisadas en las fracciones III, XXI y XXII del artículo 47, esta última cuando las leyes o reglamentos aplicables así lo determinen.
+En todo caso, para los efectos de esta Ley, se consideraran graves las conductas de los servidores públicos que infrinjan las obligaciones precisadas en las fracciones III, XXI y XXIII del artículo 47, esta última cuando las leyes o reglamentos aplicables así lo determinen.
 
 ###### ARTICULO 53o.
 
@@ -986,3 +990,9 @@ En tanto los Poderes Legislativo y Judicial, expiden las normas relativas a los 
 ###### ARTICULO CUARTO.
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente.
+
+P.O. 11 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
