@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2007-05-24"
+last_updated: "2008-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -1325,13 +1325,21 @@ III.- Ejerza las funciones de un empleo, cargo o comisión después de haber sid
 
 IV.- Se atribuya funciones o comisiones distintas a las que legalmente tenga encomendadas en perjuicio de terceros o de la función pública;
 
-V.- Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; y
+V.- Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; y (sic)
 
-VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas o a los lugares. Instalaciones (sic) u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Rinda dolosamente informes en los que manifieste hechos o circunstancias falsos o niegue la verdad sobre los que le sean legalmente requeridos;
 
 Al que cometa alguna de las conductas a que se refieren las fracciones I, II y III de este artículo, se le impondrán de tres meses a un año de prisión y de diez a cien días multa.
 
-Al que cometa alguna de las conductas a que se refieren las fracciones IV, V y VI de este artículo, se le impondrán de seis meses a cinco años de prisión y de veinte a doscientos días multa.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+
+Al que cometa alguna de las conductas a que se refieren las fracciones IV, V, VI y VII de este artículo, se le impondrán de seis meses a cinco años de prisión y de veinte a doscientos días multa.
 
 ###### ARTÍCULO 158.
 
@@ -4006,3 +4014,9 @@ P.O. 24 DE MAYO DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
