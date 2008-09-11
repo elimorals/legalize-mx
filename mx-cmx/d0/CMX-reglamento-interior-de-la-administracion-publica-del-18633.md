@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-08-05"
+last_updated: "2008-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -236,9 +236,7 @@ VI. A la Secretaría de Desarrollo Social:
 
 4.- Dirección General del Servicio Público de Localización Telefónica (LOCATEL);
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
-
-5.- Dirección General del Instituto del Deporte del Distrito Federal;
+5.- (DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
 
 6.- Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal.
 
@@ -3622,31 +3620,9 @@ V. Prestar asesoría telefónica a personas con problemas de toxicología, urgen
 
 VI. Participar en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en la atención a la población del área metropolitana y zonas conurbadas en casos de emergencia o desastre.
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
-
 ###### Artículo 64 Ter.
 
-Corresponde a la Dirección General del Instituto del Deporte del Distrito Federal:
-
-I. Proponer y ejecutar programas para la organización, fomento, difusión y evaluación de las actividades deportivas y de recreación en coordinación con los Órganos Político-Administrativos;
-
-II. Proponer a la Secretaría de Educación, programas y actividades para la organización, fomento, difusión y evaluación de las actividades físicas que se imparten en los centros escolares del Distrito Federal;
-
-III. Promover la práctica del deporte, y las actividades físicas y recreativas de los habitantes del Distrito Federal, poniendo énfasis en los siguientes grupos prioritarios: mujeres, jóvenes, niños y niñas, población indígena, adultos mayores y personas con discapacidad;
-
-IV. Elaborar y difundir las normas técnicas, programas y métodos para el desarrollo del deporte comunitario, actividad física y recreación en el Distrito Federal;
-
-V. Formular los lineamientos de operación de las instalaciones deportivas del Distrito Federal y coordinar con los Órganos Político-Administrativos y los sectores público, social y privado, el sistema de deporte del Distrito Federal;
-
-VI. Organizar, promover y difundir eventos y actividades deportivas;
-
-VII. Colaborar con las autoridades competentes en la elaboración y actualización de los ordenamientos jurídicos y administrativos que regulen el funcionamiento de agrupaciones que desarrollan servicios de instrucción, actualización y especialización deportiva, así como valorar la idoneidad de sus instructores;
-
-VIII. Coordinarse en materia deportiva con las dependencias y entidades paraestatales de la Administración Pública Local y Federal, así como de otras entidades federativas, dentro de sus respectivos ámbitos de competencia y de acuerdo con las normas jurídicas y administrativas aplicables;
-
-IX. Promover programas y ejecutar acciones para captar recursos financieros y materiales que estimulen la participación y cooperación social de los habitantes del Distrito Federal en favor de la práctica de actividades físicas, deportivas y de recreación de acuerdo con las normas jurídicas y administrativas aplicables; y
-
-IX. Promover y apoyar a los jóvenes que muestren el mayor talento deportivo para alcanzar los niveles de excelencia en el deporte.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -12477,3 +12453,17 @@ G.O. 5 DE AGOSTO DE 2008.
 Primero. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. - Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Finanzas y la Oficialía Mayor.
+
+G.O. 11 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación.
+
+TERCERO.- Se abroga el Acuerdo por el que se crea la Coordinación General de Cultura Deportiva, Física y de Salud del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el treinta de abril de dos mil ocho.
+
+CUARTO.- Se derogan el numeral 5, de la fracción VI, del artículo 7 y el artículo 64 Ter del Reglamento Interior de la Administración Pública del Distrito Federal.
+
+QUINTO.- Los recursos humanos, financieros y materiales a cargo de la Dirección General del Instituto del Deporte del Distrito Federal y la Coordinación General de Cultura Deportiva, Física y de Salud del Distrito Federal, dentro de los treinta días posteriores a la publicación del presente Reglamento, se transferirán al Instituto del Deporte del Distrito Federal, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+SEXTO.- Los asuntos competencia de la Dirección General del Instituto del Deporte del Distrito Federal y la Coordinación General de Cultura Deportiva, Física y de Salud del Distrito Federal, a partir de la entrada en vigor del presente Decreto, serán tramitados y resueltos por el Instituto del Deporte del Distrito Federal.
