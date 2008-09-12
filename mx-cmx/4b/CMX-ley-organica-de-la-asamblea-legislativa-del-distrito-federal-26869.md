@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2007-07-09"
+last_updated: "2008-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -108,7 +108,7 @@ II.- Presentar iniciativas de leyes o decretos en materias relativas al Distrito
 
 III.- Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto;
 
-IV. - Formular observaciones al Programa General de Desarrollo del Distrito Federal que le remita el Jefe de Gobierno del Distrito Federal para su examen y opinión;
+IV.- Formular observaciones al Programa General de Desarrollo del Distrito Federal que le remita el Jefe de Gobierno del Distrito Federal para su examen y opinión;
 
 V.- Formular su proyecto de presupuesto que enviará oportunamente al Jefe de Gobierno del Distrito Federal para que éste ordene su incorporación en el proyecto de Presupuesto de Egresos del Distrito Federal. La Asamblea manejará, administrará y ejercerá de manera autónoma su presupuesto;
 
@@ -120,7 +120,7 @@ VIII.- Decidir sobre las propuestas y las designaciones que haga el Jefe de Gobi
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-IX. Elegir a los Magistrados del Tribunal Electoral del Distrito Federal, propuestos por el Tribunal Superior de Justicia del Distrito Federal, con el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, en términos de lo dispuesto por el Capítulo IV del Título Sexto del Estatuto de Gobierno del Distrito Federal y el Capítulo II del Título Quinto de este ordenamiento;
+IX.- Elegir a los Magistrados del Tribunal Electoral del Distrito Federal, propuestos por el Tribunal Superior de Justicia del Distrito Federal, con el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, en términos de lo dispuesto por el Capítulo IV del Título Sexto del Estatuto de Gobierno del Distrito Federal y el Capítulo II del Título Quinto de este ordenamiento;
 
 X.- Conocer y calificar la renuncia del Jefe de Gobierno del Distrito Federal, la cual sólo podrá aceptarse por motivos graves y conceder, en su caso, las licencias que éste solicite; así como designar, en caso de falta absoluta por renuncia o por cualquiera otra causa, un sustituto que termine el encargo;
 
@@ -168,9 +168,9 @@ XXI.- Comunicarse con los otros órganos locales de gobierno, los órganos autó
 
 XXII.- Otorgar la Medalla al Mérito Ciudadano en reconocimiento a quienes hayan prestado servicios eminentes a la ciudad, a la nación o a la humanidad, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-XXIII.- Otorgar la distinción a las Ciencias y las Artes a los ciudadanos que se hayan distinguido en las artes y las ciencias, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+XXIII.- Otorgar la distinción a las Ciencias, las Artes así como a la Ejecución Musical y Artística, a los ciudadanos que se hayan distinguido en las ciencias, las artes y a la interpretación musical, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -178,7 +178,7 @@ XXIV.- Otorgar la Medalla al Mérito Deportivo de la Asamblea Legislativa del Di
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXV. Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+XXV.- Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
 XXVI.- Expedir la Ley Orgánica que regulará su estructura y funcionamiento interno, la cual será enviada al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
 
@@ -198,7 +198,7 @@ XXXI.- Invitar a particulares que puedan aportar información relevante para el 
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXXII. Designar a los Comisionados Ciudadanos que integrarán el Instituto de Acceso a la Información Pública del Distrito Federal, de conformidad con la Ley respectiva;
+XXXII.- Designar a los Comisionados Ciudadanos que integrarán el Instituto de Acceso a la Información Pública del Distrito Federal, de conformidad con la Ley respectiva;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -206,7 +206,7 @@ XXXIII.- Remover a los Jefes Delegacionales conforme al procedimiento que se est
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXXIV. Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley, y
+XXXIV.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley, y
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -628,7 +628,9 @@ I.- Suscribir acuerdos relativos a los asuntos que se desahoguen en el Pleno;
 
 II.- Proponer a los integrantes de las comisiones y comités;
 
-III.- Proponer el proyecto de presupuesto anual de la Asamblea;
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+III.- Proponer el Proyecto y el Programa Operativo de presupuesto anual de la Asamblea Legislativa para su discusión y aprobación en el Pleno;
 
 IV.- Sustituir a sus miembros y someterlos para su ratificación al Pleno de la Asamblea, durante los recesos la ratificación corresponderá a la Diputación Permanente;
 
@@ -866,19 +868,27 @@ III.- De Vigilancia de la Contaduría Mayor de Hacienda;
 
 IV.- De Investigación;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-V.- Jurisdiccional, y
+V.- Jurisdiccional;
 
-VI.- Especiales.
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Especiales, y
+
+> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- De Vigilancia y Evaluación de Políticas y Programas Sociales.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Cada comisión y comité tendrá una Secretaría Técnica quienes formarán parte de la estructura de la Asamblea Legislativa, y estará bajo la dirección del Presidente de la misma, a la que corresponderá apoyar los trabajos de la comisión, en los términos que disponga el Reglamento para el Gobierno Interior y el Reglamento Interior de las Comisiones de la Asamblea Legislativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 61.
 
-Las comisiones de Análisis y Dictamen Legislativo y de Vigilancia de la Contaduría Mayor de Hacienda se constituyen con carácter definitivo y funcionan para toda una legislatura. Para los efectos de esta ley son permanentes y se denominan ordinarias.
+Las comisiones de Análisis y Dictamen Legislativo, de Vigilancia de la Contaduría Mayor de Hacienda y de Vigilancia y Evaluación de Políticas y Programas Sociales, se constituyen con carácter definitivo y funcionan para toda una legislatura. Para los efectos de esta ley son permanentes y se denominan ordinarias.
 
 Las comisiones ordinarias se integrarán e instalaran durante el mes de septiembre del año en que se inicie la legislatura.
 
@@ -1006,13 +1016,17 @@ XXXII.- Turismo;
 
 XXXIII.- Uso y Aprovechamiento de Bienes y Servicios Públicos;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-XXXIV.- Vivienda, y
+XXXIV.- Vivienda;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-XXXV.- Vigilancia de la Contaduría Mayor de Hacienda.
+XXXV.- Vigilancia de la Contaduría Mayor de Hacienda, y
+
+> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XXXVI.- Vigilancia y Evaluación de Políticas y Programas Sociales.
 
 ###### ARTÍCULO 63.
 
@@ -1039,6 +1053,10 @@ La competencia de las comisiones ordinarias es la que deriva de su denominación
 ###### ARTÍCULO 65.
 
 La Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal ejercerá sus funciones conforme a la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en lo que le corresponda.
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 65 BIS.- La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales, es un órgano interno de la Asamblea Legislativa encargado de la evaluación de los planes, programas, metas y acciones en materia de política social de aplicación en el Distrito Federal, conforme a la normatividad aplicable. La Comisión se regirá de conformidad con los lineamientos que al efecto expidan sus integrantes.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1667,3 +1685,41 @@ TERCERO.- Las disposiciones contenidas en la fracción IV y penúltimo párrafo 
 CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá expedir la Ley del Servicio Parlamentario de Carrera dentro de los 120 días naturales siguientes a la aprobación del presente decreto, por el Pleno.
 
 QUINTO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+G.O. 12 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Una vez instalada la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales, sus integrantes contarán con 60 días naturales para la aprobación de los Lineamientos para la vigilancia y evaluación de las políticas y programas sociales.
+
+Dichos lineamientos tomaran en cuenta lo siguiente:
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales contará con los siguientes objetivos:
+
+I. Colaborar con el Gobierno del Distrito Federal en la implementación y evaluación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
+
+II. Vigilar la legalidad en cuanto al diseño e implementación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
+
+III. Llevar a cabo la evaluación y seguimiento de los planes, programas, metas y acciones que en materia de políticas y programas sociales se lleve a cabo en el Distrito Federal, y
+
+IV. Proponer las acciones correctivas que se consideren necesarias en la implementación de los planes, programas, metas y acciones en materia de políticas y programas sociales.
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales asegurará, por sí o a través de instituciones de educación superior e investigación científica u organizaciones de la sociedad civil, la vigilancia permanente y la revisión periódica, técnica y profesional del cumplimiento de objetivos, metas y acciones de las políticas de desarrollo social implementadas en el Distrito Federal.
+
+La evaluación que ordene o practique la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales se centrará en la consistencia y el resultado de los programas de desarrollo sociales. Para tales efectos, generará indicadores de resultados, gestión y servicios que garanticen una medición técnica de la cobertura, operación, viabilidad, calidad e impacto social.
+
+###### ARTÍCULO CUARTO.
+
+Todos los asuntos que se encuentren en archivo pendientes de desahogar por la que fue la Comisión Especial que investiga la utilización de Programas Sociales o Recursos Públicos con fines Político Electorales, serán turnados a la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales.
+
+###### ARTÍCULO QUINTO.
+
+En el caso de las reformas relativas a la conformación del Programa Operativo Anual, operarán a partir del ejercicio fiscal 2009.
