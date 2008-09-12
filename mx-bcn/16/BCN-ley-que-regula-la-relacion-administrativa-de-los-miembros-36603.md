@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-la-relacion-administrativa-de-los-miembros-36603
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-16"
-last_updated: "2005-06-10"
+last_updated: "2008-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LA RELACION ADMINISTRATIVA DE LOS MIEMBROS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 16 de enero de 2004.
 
@@ -569,9 +569,11 @@ Los reglamentos determinarán los términos para la prescripción de la aplicaci
 
 (DEROGADO, P.O. 10 DE JUNIO DE 2005)
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 59.
 
-Prescribe en un año la facultad de la Contraloría Interna, para dictar la resolución definitiva en el procedimiento de remoción, contado a partir del acuerdo de inicio.
+Prescribe en un año la facultad de la Contraloría Interna, para decretar el acuerdo de inicio del procedimiento de remoción, contado a partir del día en que por cualquier medio se tenga conocimiento de hechos que hagan presumir, que algún Miembro ha dejado de cumplir con alguno de los requisitos de permanencia.
 
 ### CAPÍTULO NOVENO. DE LA BAJA DE LOS MIEMBROS Y LA INDEMNIZACIÓN
 
@@ -591,13 +593,17 @@ Podrán reintegrarse a las Instituciones Policiales, previo el cumplimiento de l
 
 En el supuesto señalado en la fracción II, sólo podrán reintegrarse las personas que hubieren superado dicha incapacidad.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 61.
 
-La Indemnización sólo procederá en los casos en que el Miembro llegare a obtener resolución favorable como consecuencia del juicio o medio de defensa interpuesto contra la resolución que determinó su remoción.
+El miembro que llegare a obtener resolución favorable en contra de la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio, sólo recibirá el pago de la indemnización y demás prestaciones que tenga derecho.
+
+En el caso de que un Miembro no obtenga resolución favorable como consecuencia del juicio o medio de defensa que hubiere promovido en contra de la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio, sólo recibirá el pago de las prestaciones a que tenga derecho.
+
+En ningún caso procede la reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 La indemnización consiste en la cantidad equivalente a tres meses de la remuneración que gozaba hasta antes de su remoción.
-
-En ningún caso, procederá la restitución o reinstalación del Miembro.
 
 ###### ARTÍCULO 62.
 
@@ -637,10 +643,14 @@ SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE JUNIO DE 2005.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En el caso, de los municipios, en tanto no se expidan los reglamentos y demás disposiciones a que se hace referencia en esta Ley, los procedimientos que se encuentren pendientes de resolución antes de la entrada en vigor de los mismos, se substanciarán conforme a las disposiciones que se encuentren vigentes al momento del inicio del procedimiento.
+
+P.O. 12 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
