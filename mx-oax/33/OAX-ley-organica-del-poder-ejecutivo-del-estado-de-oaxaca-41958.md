@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2008-05-01"
+last_updated: "2008-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -121,7 +121,9 @@ I.- Secretaría General de Gobierno,
 
 II.- Procuraduría General de Justicia,
 
-III.- Secretaría de Protección Ciudadana,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+III.- Secretaria de Seguridad Pública,
 
 IV.- Secretaría de Finanzas,
 
@@ -311,9 +313,11 @@ XXII.- Establecer y operar el sistema de atención a víctimas y ofendidos por l
 
 XXIII.- Las demás que le señalen las leyes, decretos y reglamentos.
 
+(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2008
+
 ###### Artículo 22.
 
-A la Secretaría de Protección Ciudadana corresponde el despacho de los siguientes asuntos:
+A la Secretaria de Seguridad Pública corresponde el despacho de los siguientes asuntos:
 
 I.- Conducir la política del Estado en todo lo relacionado con la seguridad pública, la prevención de delitos y la readaptación de delincuentes con estricto respeto a los derechos humanos;
 
@@ -323,13 +327,15 @@ III.- Establecer programas permanentes para la vigilancia del orden público y p
 
 IV.- Reglamentar y aplicar normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos de jurisdicción estatal;
 
-V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Elaborar y ejecutar los programas de reinserción social de los infractores sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte;
 
 VI.- Administrar, en coordinación con la Dirección de Prevención y Readaptación Social del Gobierno del Estado, los centros de readaptación social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-VII.- Supervisar a la Dirección de Ejecución de Medidas Sancionadoras parea Adolescentes;
+VII.- Supervisar a la Dirección de Ejecución de Medidas Sancionadoras para Adolescentes, así como vigilar a las instituciones y la aplicación de las normas preventivas tutelares de menores infractores;
 
 VIII.- Celebrar convenios con los sectores productivos, para el efecto de establecer centros de trabajo dentro y fuera del los centros de readaptación social, para beneficio de los procesados sentenciados y liberados.
 
@@ -1222,3 +1228,17 @@ QUINTO.- En todos los asuntos, juicios procesos y procedimientos en trámite en 
 SEXTO.- El Coordinador General de Asuntos Jurídicos de la Gubernatura, se encargará del despacho de la Consejería Jurídica del Poder Ejecutivo, hasta que el Gobernador del Estado realice el nombramiento correspondiente.
 
 SÉPTIMO.- El Gobernador del Estado expedirá el Reglamento de la Conserjería Jurídica del Gobierno del Estado dentro del plazo de sesenta días, a partir de la publicación del presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Cuando alguna ley, decreto, reglamento, circular, o disposición general administrativa se refiera a la Secretaría de Protección Ciudadana, se entenderá que se trata de la Secretaria de Seguridad Pública.
+
+TERCERO.- Los convenios, contratos, acuerdos y demás actos jurídicos que la Secretaria de Protección Ciudadana haya celebrado, seguirán vigentes y se entenderán celebrados con la Secretaría de Seguridad Pública.
+
+CUARTO.- Los recursos humanos y materiales de la Secretaria de Protección Ciudadana quedarán adscritos y asignados a la Secretaría de Seguridad Pública, respetándose los derechos laborales de los trabajadores.
+
+QUINTO.- En todos los asuntos, juicios, procesos y procedimientos en trámite en que sea parte la Secretaría de Protección Ciudadana, con la presente reforma quedan a cargo de la Secretaria de Seguridad Pública, en los términos del presente Decreto.
+
+SEXTO.- El Gobernador, del Estado expedirá el Reglamento Interior de la Secretaría de Seguridad Pública, dentro del plazo de noventa días a partir de la publicación del presente Decreto.
