@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-proteccion-al-55020"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-16"
-last_updated: "2007-03-16"
+last_updated: "2008-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE PROTECCION AL AMBIENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de marzo de 2007.
 
@@ -547,9 +547,11 @@ XIX.- Gestionar recursos para el desarrollo de proyectos ambientales que impulse
 
 XX.- Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 23.
 
-Para el cumplimiento de las atribuciones previstas en el artículo anterior, la Dirección de Gestión Ambiental, contará con el Departamento de Información Geográfica y el Departamento de Prevención de la Contaminación. La sede de la Dirección de Gestión Ambiental será la Ciudad de Tijuana, Baja California.
+Para el cumplimiento de las atribuciones previstas en el artículo anterior, la Dirección de Gestión Ambiental, contará con el Departamento de Información Geográfica y el Departamento de Prevención de la Contaminación. La sede de la Dirección de Gestión Ambiental será la Ciudad de Mexicali, Baja California.
 
 ###### Artículo 24.
 
@@ -713,9 +715,11 @@ XVIII.- Establecer y vigilar la aplicación de los criterios que deben observar 
 
 XIX.- Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-Para el cumplimiento de las atribuciones previstas en el artículo anterior, la Dirección de Auditoría Ambiental contará con los Departamentos de Auditoría Ambiental en los Municipios de Mexicali, Tijuana y Ensenada. La sede de la Dirección de Auditoría Ambiental será la Ciudad de Mexicali, Baja California. El Departamento de Auditoría Ambiental Tijuana atenderá a los Municipios de Rosarito y Tecate.
+Para el cumplimiento de las atribuciones previstas en el artículo anterior, la Dirección de Auditoria Ambiental contará con los Departamentos de Auditoria Ambiental en los Municipios de Mexicali, Tijuana y Ensenada. La sede de la Dirección de Auditoría Ambiental será la Ciudad de Tijuana, Baja California. El Departamento de Auditoria Ambiental en Tijuana, atenderá a los Municipios de Tijuana, Tecate y Playas de Rosarito.
 
 ###### Artículo 32.
 
@@ -792,3 +796,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE PROTECCIÓN AL AMBIENTE
 
 ENRIQUE VILLEGAS IBARRA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
