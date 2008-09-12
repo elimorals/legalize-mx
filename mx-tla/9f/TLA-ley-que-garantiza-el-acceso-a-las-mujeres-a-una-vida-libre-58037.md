@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2007-12-13"
+last_updated: "2008-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -143,7 +143,9 @@ X. El derecho a la libertad de profesar la religión y las creencias propias que
 
 XI. El derecho a tener igualdad de acceso a las funciones públicas y a participar en los asuntos públicos, y
 
-XII. En el ámbito laboral tiene derecho a recibir un salario adecuado a sus necesidades, así como un trato digno por parte de los integrantes de la organización, a recibir prestaciones de ley y de ninguna manera negarle el ingreso al trabajo por encontrarse embarazada.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XII. En el ámbito laboral tiene derecho a recibir un salario adecuado a sus necesidades, así como un trato digno por parte de los integrantes de la organización y recibir prestaciones de ley. En ninguna circunstancia se le puede exigir a la mujer la presentación del certificado de no gravidez como requisito indispensable para su contratación en cualquier empleo, así como negarle el ingreso al trabajo por encontrarse embarazada, y aquella que lo hiciera será sancionado (sic) por las leyes en la materia.
 
 ###### Artículo 10.
 
@@ -1120,3 +1122,11 @@ Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimie
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los once días del mes de diciembre de 2007.
 
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTIZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- SERGIO GONZALEZ HERNANDEZ.- Firma Autógrafa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
