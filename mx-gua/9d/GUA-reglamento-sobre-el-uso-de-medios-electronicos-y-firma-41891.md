@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-sobre-el-uso-de-medios-electronicos-y-firma-41891"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-30"
-last_updated: "2004-11-30"
+last_updated: "2008-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA EN EL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de noviembre de 2004.
 
@@ -73,9 +73,11 @@ X.- Prestadores de Servicios de Certificación.- La dependencia o entidad que en
 
 Las dependencias y entidades promoverán entre los servidores públicos el uso de los medios electrónicos y firma electrónica, con el propósito de agilizar y simplificar los procedimientos para la realización de los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de servicios públicos que tienen a su cargo, debiendo coordinarse para tal efecto.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 4o.
 
-El empleo de los medios electrónicos y firma electrónica en las dependencias y entidades y por los particulares, estará sujeto a los principios y excepciones contenidos en los artículos 1o, 3o y 5o de la Ley.
+El empleo de los medios electrónicos y firma electrónica en las dependencias y entidades y por los particulares, estará sujeto a los principios y excepciones contenidos en los artículos 1, 3, 4, 5 y 10 de la Ley.
 
 ###### Artículo 5o.
 
@@ -109,9 +111,11 @@ Se requerirá la conformidad del particular, para recibir actuaciones electróni
 
 En caso de que el particular haga uso de los medios electrónicos y la firma electrónica en el inicio de un procedimiento público, se entenderá que acepta desarrollarlo por dichos medios.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 9o.
 
-La Secretaría, por conducto de la Unidad de Medios Electrónicos y Firma Electrónica emitirá las prácticas de certificación y las políticas necesarias a fin de que los particulares interesados puedan efectuar promociones electrónicas mediante el uso de medios electrónicos y firma electrónica.
+La Secretaría, por conducto de la Unidad de Medios Electrónicos y Firma Electrónica, emitirá las prácticas de certificación y políticas a fin de que los interesados puedan efectuar promociones electrónicas mediante el uso de medios electrónicos y firma electrónica.
 
 ###### Artículo 10.
 
@@ -201,7 +205,9 @@ VII.- Desarrollar, en coordinación con la Secretaría de la Gestión Pública, 
 
 VIII.- Elaborar planes de seguridad y de contingencia, por el uso de medios electrónicos y firma electrónica por parte de los usuarios;
 
-IX.- Asesorar a los usuarios de medios electrónicos y firma electrónica que efectúen trámites y/o servicios ante las dependencias y entidades, en su manejo y utilización;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+IX.- Asesorar y capacitar a los usuarios de medios electrónicos y firma electrónica que efectúen trámites o servicios ante las dependencias y entidades, en su manejo y utilización;
 
 X.- Asesorar y capacitar a otros sujetos de la Ley en el manejo y utilización de medios electrónicos y firma electrónica, cuando así se solicite por los mismos; y
 
@@ -291,11 +297,13 @@ VI.- Los convenios que se suscriban entre la autoridad certificadora y los sujet
 
 ### CAPÍTULO SÉPTIMO. DE LA HOMOLOGACIÓN DEL CERTIFICADO DE FIRMA ELECTRÓNICA, DEL SERVICIO DE CONSIGNACIÓN Y REGISTRO
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 30.
 
-La autoridad certificadora podrá homologar los Certificados de Firma Electrónica, expedidos por otras autoridades certificadoras bajo su entera responsabilidad.
+La autoridad certificadora podrá homologar los certificados de firma electrónica expedidos por otras autoridades certificadoras.
 
-Para tal efecto, la autoridad certificadora verificará que el Certificado de Firma Electrónica de que se trate se haya expedido cumpliendo con las normas técnicas y la tecnología necesarias, de conformidad con lo previsto en el Reglamento y en las prácticas de certificación.
+Para tal efecto, la autoridad certificadora verificará que el Certificado de Firma Electrónica de que se trate se haya expedido cumpliendo con las normas técnicas y la tecnología necesarias, de conformidad con lo previsto en la Ley, el Reglamento y en las prácticas de certificación
 
 ###### Artículo 31.
 
@@ -385,7 +393,9 @@ El procedimiento para cancelar un Certificado de Firma Electrónica, se regirá 
 
 I.- En caso de pérdida, robo o inutilización del Certificado de Firma Electrónica, el titular de éste deberá presentar la solicitud de cancelación ante la autoridad certificadora;
 
-II.- En el supuesto de que el titular del Certificado de Firma Electrónica deje de prestar sus servicios o fallezca, será el superior jerárquico quien presente la solicitud de cancelación ante la autoridad certificadora;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+II.- En el supuesto a que se refiere el artículo 35 de la Ley, cuando el titular del Certificado de Firma Electrónica deje de prestar sus servicios en la Administración Pública Estatal o fallezca, la autoridad certificadora, de oficio o a petición del superior jerárquico, cancelará dicho Certificado;
 
 III.- En caso de que el representante legal de una persona jurídico-colectiva deje de fungir como tal o fallezca, será la persona a quien se encomiende dicha representación, la que deba presentar la solicitud de cancelación del Certificado de Firma Electrónica; y
 
@@ -395,9 +405,11 @@ IV.- El Certificado de Firma Electrónica dejará de surtir efectos a partir de 
 
 Toda revocación, suspensión o cancelación de un Certificado de Firma Electrónica deberá inscribirse en el registro de certificados.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 42.
 
-El procedimiento se substanciará y resolverá con arreglo a las disposiciones de este Reglamento. A falta de disposición expresa y en cuanto no se oponga a lo dispuesto por el presente ordenamiento, se estará a lo establecido por el Código de Procedimientos Civiles para el Estado de Guanajuato.
+El procedimiento se substanciará y resolverá con arreglo a las disposiciones de este Reglamento. A falta de disposición expresa y en cuanto no se oponga a lo dispuesto por el presente ordenamiento, se estará a lo establecido por el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 #### SECCIÓN TERCERA. DE LAS NOTIFICACIONES Y LOS TÉRMINOS
 
@@ -454,3 +466,9 @@ RICARDO TORRES ORIGEL
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSE LUIS MARIO Y MAYA MEDRANO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2008.
+
+Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
