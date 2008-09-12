@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2008-07-11"
+last_updated: "2008-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -725,7 +725,9 @@ Los Presidentes de los Comités, integrarán el Consejo en calidad de Consejeros
 
 El Consejo y Comités se integrarán mayoritariamente por ciudadanos y con la representación del Estado y el Ayuntamiento respectivo, que determine el reglamento y el Ayuntamiento correspondiente.
 
-El Ejecutivo del Estado, elegirá por insaculación a tres consejeros ciudadanos que integrarán el Consejo, de entre las propuestas que presenten las asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior. Dicha insaculación se realizará ante la presencia de la Comisión de Seguridad Pública del Congreso del Estado. Sólo podrán ser insaculados aquellos ciudadanos que cumplan los requisitos que determine el reglamento.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+El Ejecutivo del Estado, elegirá por insaculación a cinco consejeros ciudadanos que integrarán el Consejo, de entre las propuestas que presenten las asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior. Dicha insaculación se realizará ante la presencia de la Comisión de Seguridad Pública del Congreso del Estado. Sólo podrán ser insaculados aquellos ciudadanos que cumplan con los requisitos que determine el reglamento.
 
 El Cabildo de cada uno de los municipios del Estado, elegirá por insaculación al Consejero Ciudadano que integrará el Consejo, de entre las propuestas que presenten las asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior.
 
@@ -781,9 +783,17 @@ d) La difusión de programas de reclutamiento.
 
 XII. Realizar labores de seguimiento en el ejercicio de sus atribuciones;
 
-XIII. Proponer a las autoridades competentes, de conformidad con las facultades que se le conceden en este artículo, programas de participación ciudadana en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública, y
+XIII. Proponer a las autoridades competentes, de conformidad con las facultades que se le conceden en este artículo, programas de participación ciudadana en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública, y (sic)
 
-XIV. Asistir, previa invitación, a las sesiones de los Comités Técnicos u órganos de administración, respecto de los Fideicomisos que se constituyan para el manejo de los recursos económicos que hayan de ejercerse en el Estado para el rubro de seguridad pública.
+XIV. Asistir, previa invitación, a las sesiones de los Comités Técnicos u órganos de administración, respecto de los Fideicomisos que se constituyan para el manejo de los recursos económicos que hayan de ejercerse en el Estado para el rubro de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XV. Promover, impulsar y difundir la cultura de la legalidad y prevención del delito, así como la seguridad escolar en escuelas públicas y privadas en niveles básico, bachillerato y profesional, y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XVI. Difundir e impulsar políticas y acciones destinadas en materia de salud pública a la prevención de adicciones.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
@@ -1362,3 +1372,9 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su Publicac
 SEGUNDO.- Con relación a las armas que se hubieren entregado con fecha anterior a la entrada en vigor de la presente reforma el Gobierno del Estado, por conducto de la Secretaría de Seguridad Pública o la Procuraduría de Justicia y para efecto de lo previsto en el párrafo final del artículo 26 del presente Decreto llevará a cabo la revisión correspondiente.
 
 TERCERO.- La Secretaría emitirá la reglamentación correspondiente dentro de los 45 días siguientes a la entrada en vigor de las presentes reformas.
+
+P.O. 12 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado dentro del término de sesenta días, deberá realizar las adecuaciones correspondientes al Reglamento del Consejo Ciudadano de Seguridad Pública del Estado de Baja California.
