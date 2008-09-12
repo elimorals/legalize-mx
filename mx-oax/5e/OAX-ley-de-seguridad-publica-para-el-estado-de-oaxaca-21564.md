@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-seguridad-publica-para-el-estado-de-oaxaca-21564"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-20"
-last_updated: "2005-03-22"
+last_updated: "2008-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de abril de 2001.
 
@@ -1434,3 +1436,29 @@ Al C...
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se otorga al Gobernador del Estado y a los Ayuntamientos un plazo máximo de tres meses contados a partir de la vigencia de la presente Ley, para la elaboración de la reglamentación que derive de la misma.
+
+En tanto se expidan las disposiciones reglamentarias en lo relativo a la disposición orgánica de los Cuerpos de Seguridad Pública Estatales y Municipales, se aplicará la normatividad existente, en lo que no se opongan a esta Ley.
+
+TERCERO.- Con la finalidad de instrumentar a fondo las disposiciones reglamentarias que permitan la operación del Servicio Civil de Carrera Policial, es decir la definición de cargos, estímulos, ascensos, procesos disciplinarios, de reclutamiento y bajas, se considerará un plazo no mayor a un año para su puntual establecimiento.
+
+CUARTO.- Conforme a las disposiciones legales aplicables, el Ejecutivo Estatal realizará las transferencias presupuestarias necesarias, a efecto de que la Secretaría de Seguridad Pública, el Sistema Estatal de Seguridad Pública y las instancias, los instrumentos, mecanismos y programas que lo conformen, puedan establecerse y desarrollar las funciones ordenadas en la presente Ley.
+
+QUINTO.- Las personas prestadoras de servicios de seguridad privada en el territorio del Estado que no cuenten con la autorización respectiva, gozarán de un plazo hasta de 90 días naturales improrrogables, contados a partir de la entrada en vigor de esta Ley, para solicitar la autorización.
+
+SEXTO.- A fin de fortalecer las funciones persecutorias y de investigación de los Cuerpos Policiales, y coadyuvar con ello a hacer más efectivo y expedito el cumplimiento de los mandamientos judiciales; los haberes, plazas y demás recursos humanos, financieros, tecnológicos y materiales de la Agencia Estatal de Investigación dependiente de la Procuraduría General de Justicia del Estado, pasarán de manera inmediata, a formar parte de la Policía Estatal; con excepción del personal no operativo adscrito y habilitado en áreas auxiliares de la Procuraduría.
+
+SÉPTIMO.- La entrada en vigor de esta Ley abroga la Ley de Seguridad Pública para el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado el 20 de abril de 2001 y reformada según publicación de fecha 22 de marzo de 2005.
+
+OCTAVO.- Las Leyes, Reglamentos, Decretos, Circulares, Acuerdos y demás disposiciones legales que se refieran a la Secretaría de Protección Ciudadana y/o al Secretario de Protección Ciudadana, se entenderán como Secretaría y/o Secretario de Seguridad Pública. Asimismo todos los convenios, contratos y demás actos jurídicos celebrados por la Secretaría de Protección Ciudadana y/o el Secretario de Protección Ciudadana se entenderán subrogados a la Secretaría de Seguridad Pública.
+
+NOVENO.- Para los efectos del artículo 32 de esta Ley, el Consejo aprobará el Programa Estatal de Seguridad Pública, en un plazo no mayor de ciento ochenta días.
+
+DÉCIMO.- El Congreso del Estado tendrá el término de ciento ochenta días a partir de la entrada en vigor de la presente Ley, para adecuar las leyes, decretos y demás ordenamientos que se relacionen con la aplicación de esta Ley.
+
+UNDÉCIMO.- La estructura administrativa del Consejo Estatal de Seguridad Pública, pasará a formar parte del Secretariado Técnico del Fideicomiso Fondo de Seguridad Pública. Las reglas de operación del Fideicomiso Fondo de Seguridad Pública y el Reglamento respectivo serán emitidas dentro del término de treinta días a partir de la publicación de la presente Ley, en el Periódico Oficial del Gobierno del Estado.
