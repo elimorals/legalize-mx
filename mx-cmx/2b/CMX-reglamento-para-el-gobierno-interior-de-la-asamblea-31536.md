@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2007-07-09"
+last_updated: "2008-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -290,7 +290,9 @@ Cuando se produzca el supuesto a que hace referencia la fracción anterior, el P
 
 La dieta de los Diputados será disminuida cuando se actualice algunos de los siguientes supuestos;
 
-I.- El Diputado que no concurra a una sesión del pleno, sin causa justificada o sin permiso de la Presidencia, no tendrá derecho de la dieta correspondiente al día en que falte.
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+I.- El diputado que no concurra a una sesión del Pleno, o que pasando lista de asistencia al inicio de la sesión, no permanezca hasta su conclusión, sin causa justificada o sin permiso de la Presidencia, no tendrá derecho de la dieta correspondiente al día en que falte o se retire de la sesión.
 
 II.- El Diputado que no concurra a una sesión de Comisión o Comité, sin causa justificada o sin permiso de la Presidencia de la Comisión o Comité, el cual será otorgado únicamente por tratarse de causas graves o en razón de propios compromisos inherentes a la legislatura y la diputación no tendrá derecho al cincuenta por ciento de la dieta correspondiente al día en que falte.
 
@@ -468,6 +470,38 @@ Dentro de la última semana de cada receso, las Comisiones deberán presentar a 
 
 Los informes servirán para programar los trabajos de los periodos de sesiones.
 
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 42 Bis.
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales tendrá las siguientes atribuciones:
+
+I. Fijar criterios generales para la vigilancia y evaluación de los programas sociales que permitan mejorar su funcionamiento y operación;
+
+II. Elaborar los lineamientos para la vigilancia y evaluación de las políticas y programas sociales;
+
+III. Emitir sugerencias y recomendaciones sobre la operación de las políticas y programas sociales ante las instancias correspondientes;
+
+IV. Vigilar que ningún servidor público del Distrito Federal que se desempeñe en alguna dependencia que implemente y opere programas sociales utilice recursos del erario para beneficio propio y de grupo, o para fines distintos a los establecidos;
+
+V. Promover una cultura de rendición de cuentas de los programas sociales;
+
+VI. Requerir toda información de los entes públicos que considere necesaria para el correcto funcionamiento de los planes y programas sociales y el desempeño de sus tareas, incluyendo aquella que se refiera a la adquisición o contratación de bienes y servicios con fines de desarrollo social;
+
+VII. Citar a comparecer a los servidores públicos del Distrito Federal para que informen sobre el diseño, implementación, criterios de operación y de evaluación interna de los planes y programas sociales a su cargo;
+
+VIII. Atender e investigar quejas y denuncias presentadas sobre la aplicación y ejecución de los programas;
+
+IX. Presentar ante la autoridad competente las quejas y denuncias que puedan derivar en el fincamiento de responsabilidades administrativas, civiles o penales relacionadas con los programas sociales;
+
+X. Emitir convocatoria y designar a la institución académica o de investigación que llevará a cabo la evaluación del programa social correspondiente;
+
+XI. Coadyuvar con las instancias correspondientes en la vigilancia y revisión periódica del uso de los recursos presupuestales y administrativos destinados al diseño, implementación y evaluación de las políticas y programas sociales;
+
+XII. Presentar los resultados obtenidos de las evaluaciones a las políticas y programas sociales, y
+
+XIII. Las demás que en el marco de la legislación vigente, acuerden el Pleno o la Comisión de Vigilancia y Evaluación de la Política de Desarrollo Social, para el cumplimiento de sus objetivos.
+
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 43.
@@ -556,7 +590,9 @@ III.- Expedir los manuales de organización y procedimientos de las unidades adm
 
 IV.- Formular las condiciones generales de trabajo de los servidores públicos de la Asamblea;
 
-V.- Elaborar, en los términos del artículo 51 del presente Reglamento, el anteproyecto del presupuesto de egresos de la Asamblea;
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Elaborar, en los términos del artículo 51 del presente Reglamento, el Programa Operativo Anual y con base en éste, el anteproyecto del Presupuesto de Egresos de la Asamblea;
 
 VI.- Elaborar y difundir los criterios para otorgar el apoyo a los Grupos Parlamentarios, a las Comisiones y a los Comités, así como a los Diputados Independientes;
 
@@ -568,17 +604,19 @@ IX.- Rendir anualmente al Pleno un informe de las actividades desarrolladas;
 
 X.- Conocer y analizar el informe mensual que rinda el Tesorero sobre el ejercicio presupuestal de la Asamblea;
 
-XI.- Aprobar el programa para el ejercicio del gasto anual, a propuesta de la Tesorería;
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Aprobar el Programa Operativo Anual y el programa para el ejercicio del gasto anual, a propuesta de la Tesorería;
 
 XII.- Fungir como instancia de gestión, apoyo y consulta de los Diputados, Grupos Parlamentarios, Comisiones y Comités, para sus requerimientos de recursos humanos, financieros, materiales y de servicios, y
 
 XIII.- Elaborar y publicar las convocatorias al concurso de oposición para los titulares de las unidades administrativas, de acuerdo con lo que establece el Reglamento del Concurso de Oposición para los Titulares de las unidades administrativas de la Asamblea Legislativa del Distrito Federal.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 49], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 51.
 
-Para la elaboración del proyecto de presupuesto que se someterá a la aprobación del Pleno de la Asamblea, el Comité de Administración remitirá sus criterios al Tesorero, quien será responsable de preparar el anteproyecto respectivo, mismo que una vez sometido a la consideración del Comité, se presentará a la Comisión de Gobierno para los efectos del artículo 44 fracción III de la Ley Orgánica.
+Para la elaboración del Programa Operativo Anual y del proyecto de presupuesto que se someterán a la aprobación del Pleno de la Asamblea, el Comité de Administración remitirá sus criterios al Tesorero, quien será responsable de preparar los anteproyectos respectivos, mismos que una vez sometidos a la consideración del Comité se presentarán a la Comisión de Gobierno para los efectos del Artículo 44, fracción III de la Ley Orgánica.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 50], G.O. 30 DE MARZO DE 2005)
 
@@ -770,11 +808,15 @@ VIII.- Publicar el Diario de los Debates;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2007)</small>
 
-IX.- Administrar y custodiar el Archivo Histórico de la Asamblea Legislativa y proponer a la Comisión de Gobierno para la aprobación, las normas de organización y gestión del mismo con base en el principio de transparencia y de conformidad con lo establecido en los ordenamientos jurídicos de la materia; y
+IX.- Administrar y custodiar el Archivo Histórico de la Asamblea Legislativa y proponer a la Comisión de Gobierno para la aprobación, las normas de organización y gestión del mismo con base en el principio de transparencia y de conformidad con lo establecido en los ordenamientos jurídicos de la materia; y (sic)
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-X.- Las demás que le señale la Ley Orgánica y el presente Reglamento.
+X.- Ejecutar el Programa Operativo Anual aprobado por el Pleno de ésta Asamblea, así como emitir los lineamientos necesarios para su cumplimiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Las demás que señale la Ley Orgánica y el presente Reglamento.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -800,9 +842,13 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 Corresponde a la Tesorería de la Asamblea:
 
-I.- Preparar y remitir al Comité de Administración el anteproyecto de Presupuesto de Egresos de la Asamblea, en los términos del artículo 51 del presente Reglamento;
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-II.- Administrar el presupuesto de la Asamblea;
+I.- Preparar y remitir al Comité de Administración los anteproyectos del Programa Operativo Anual y de Presupuesto de Egresos de la Asamblea, en términos del artículo 51 del presente Reglamento;
+
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+II.- Administrar el presupuesto de la Asamblea de acuerdo a lo establecido en el Programa Operativo Anual aprobado por Pleno;
 
 III.- Gestionar ante las autoridades correspondientes, las ministraciones de los recursos económicos necesarios para cubrir el presupuesto de egresos de la Asamblea;
 
@@ -1408,13 +1454,17 @@ La Asamblea celebrará por lo menos dos sesiones a la semana y no podrá suspend
 
 Se requiere de la asistencia de la mitad más uno de los Diputados que integran la Asamblea para abrir cada sesión.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-El Secretario de la Mesa Directiva pasará lista de presentes al inicio de la sesión y no existiendo el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder a levantar la sesión y a citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
+El Secretario de la Mesa Directiva pasará lista de presentes al inicio de la sesión y al término de cada sesión. Si al inicio da (sic) la sesión no existe el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder levantar la sesión y a citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
 
 Se tomará en cuenta la asistencia de los diputados que se encuentren presentes en las reuniones de trabajo de las Comisiones o Comités de la Asamblea. Los Presidentes de los órganos de trabajo interno deberán notificar, por escrito, a la Mesa Directiva del Pleno, el nombre de los diputados que se encuentran en la reunión de trabajo o en su caso, la lista de asistencia de la reunión a realizarse a efecto de que sea considerada su asistencia a la sesión plenaria de la Asamblea.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+Los Diputados que habiendo pasado lista de asistencia al inicio de la sesión, no se encuentren presentes en el pase de la lista de termino de la misma sin causa justificada, se harán acreedores al descuento a que se (sic) hace referencia el artículo 26 del presente Reglamento.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1698,7 +1748,9 @@ Al momento de cerrarse un debate y antes de proceder a la votación, el Presiden
 
 En el caso de que no exista quórum al momento de iniciar una votación, el Presidente podrá suspender la sesión y tomar las medidas que sean necesarias para cumplir dicho requisito. Si aún así no se logra el quórum, deberá clausurar la sesión y citar para la próxima.
 
-En caso de que algún Diputado objetara la existencia de quórum necesario dentro de alguno de los supuestos requeridos en el presente Reglamento, podrá solicitar al Presidente que constate el mismo, quien ordenará a la Secretaría pasar lista para verificar el número de Diputados presentes. De no existir el quórum, el Presidente levantará la sesión.
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+En caso de que algún Diputado objetara la existencia de quórum necesario dentro de alguno de los supuestos requeridos en el presente Reglamento, podrá solicitar al Presidente que constate el mismo, quien ordenará a la Secretaría pasar lista para verificar el número de Diputados presentes. De no existir el quórum, el Presidente levantará la sesión, procediendo a solicitar el descuento que se refiere (sic) el artículo 26 de este Reglamento.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 129], G.O. 30 DE MARZO DE 2005)
 
@@ -2056,7 +2108,9 @@ De conformidad con lo señalado en el artículo 10 de la Ley Orgánica de la Asa
 
 I.- Al Mérito Ciudadano;
 
-II.- Al Mérito en Ciencias y en Artes;
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+II.- Al mérito en Ciencias, Artes, Ejecución Musical y Artística;
 
 III.- Al Mérito Policial; y
 
@@ -2076,7 +2130,9 @@ Las preseas se otorgarán como reconocimiento público a una conducta o trayecto
 
 Para los efectos del presente título, se entenderá por:
 
-I.- Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y en Artes, Policial o Deportivo de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias, Artes, Ejecución Musical y Artística, Policial o Deportivo de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2123,6 +2179,10 @@ c) "MEDALLA AL MÉRITO EN LAS ARTES"
 d) "MEDALLA AL MÉRITO POLICIAL"
 
 e) "MEDALLA AL MÉRITO DEPORTIVO"
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+f) “MEDALLA AL MÉRITO EN EJECUCIÓN MUSICAL Y ARTÍSTICA”
 
 En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
 
@@ -2196,17 +2256,19 @@ La documentación completa de las candidaturas remitidas a la Comisión correspo
 
 ### CAPÍTULO II. DE LA MEDALLA AL MÉRITO CIUDADANO
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 181.
 
-La Medalla al Mérito Ciudadano, se otorgará como reconocimiento público, a mexicanos que se han destacado en la realización de actividades cuyos resultados aporten singulares beneficios en las diversas áreas del conocimiento humano o en acciones de trascendencia social para la ciudad y la comunidad del Distrito Federal, de conformidad con el presente reglamento.
+La Medalla al Mérito Ciudadano se otorgará dos veces al año como reconocimiento público a mexicanos y mexicanas que se han destacado en la realización de actividades cuyos resultados aporten singulares beneficios en las diversas áreas del conocimiento humano.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 182.
 
-El Pleno de la Asamblea Legislativa, a propuesta de la Comisión de Gobierno nombrará una Comisión Especial, electa por voto mayoritario, la cual deberá conocer y estudiar las propuestas de candidatos a recibir el reconocimiento, así como elaborar el dictamen correspondiente, que deberá ser presentado al Pleno para su aprobación.
+El Pleno de la Asamblea Legislativa, a propuesta de la Comisión de Gobierno, nombrará una Comisión Especial, electa por voto mayoritario, la cual, deberá conocer y estudiar las propuestas de candidatos y candidatas a recibir el reconocimiento, así como elaborar los dictámenes correspondientes, debiendo distinguirse siempre la diferencia de género en un periodo y otro y que deberán ser presentados al Pleno para su aprobación.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 El dictamen se presentará al Pleno una vez que el mismo sea aprobado por consenso por la Comisión Especial.
 
@@ -2222,29 +2284,29 @@ La integración de la Comisión Especial deberá reflejar la composición plural
 
 La Asamblea Legislativa convocará cada año a la población, organizaciones sociales, sociedades científicas, organizaciones académicas y demás instituciones que representen el ambiente cultural del Distrito Federal, para que propongan a candidatos que como resultado de sus actividades hayan aportado beneficios en las diversas áreas del conocimiento humano o realizado acciones de trascendencia social para la ciudad o la comunidad del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 185.
 
-La convocatoria a que hace referencia el artículo anterior deberá ser elaborada y aprobada por la propia Comisión Especial a más tardar el quince de enero de cada año que corresponda.
+La convocatoria a que hace referencia el artículo anterior deberá ser elaborada y aprobada por la propia Comisión Especial a más tardar el quince de enero, así como el quince de julio de cada año que corresponda.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 186.
 
-El periodo para el registro de candidatos a recibir la Medalla al Mérito Ciudadano queda comprendido del quince de enero al treinta y uno de marzo de cada año, observando en todo momento lo establecido en el artículo 180 del presente reglamento.
+El periodo para el registro de candidatos a recibir la Medalla al Mérito Ciudadano queda comprendido del quince de enero al treinta y uno de marzo y del quince de julio al treinta de septiembre de cada año, observando en todo momento lo establecido en el artículo 180 del presente Reglamento.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 187.
 
-El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse dentro del mes de abril de cada año.
+El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse dentro del mes de abril y octubre de cada año respectivamente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-### CAPITULO III. DE LA DISTINCIÓN EN LAS CIENCIAS Y LAS ARTES
+### CAPITULO III. DE LA DISTINCIÓN EN LAS CIENCIAS, LAS ARTES Y LA EJECUCIÓN MUSICAL Y ARTÍSTICA
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
 
@@ -2252,7 +2314,9 @@ El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo ser
 
 ###### Artículo 188.
 
-El reconocimiento se otorgará a los ciudadanos que se hayan distinguido, en grado sobresaliente, en las artes y las ciencias.
+El reconocimiento se otorgará a los ciudadanos que se hayan distinguido, en grado sobresaliente, en las ciencias, las artes o en la Ejecución musical y Artística.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 El reconocimiento se concederá:
 
@@ -2264,6 +2328,22 @@ II.- En las Ciencias: A aquellos que hayan destacado en cualquiera de los campos
 
 Se concederá a quien haya realizado estudios, descubrimientos, aportaciones o propuestas, producto de investigaciones en cualquier campo de la ciencia; así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica.
 
+> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+III.- En la Ejecución Musical: A quienes hayan tenido una trayectoria sobresaliente en la interpretación de obras musicales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- En la Interpretación Artística: A quienes hayan tenido una trayectoria sobresaliente en la representación de obras teatrales, literarias, de televisión o cinematograficas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+Se concederá el reconocimiento a la Ejecución Musical a los ciudadanos vivos que, con su trabajo creativo y trayectoria, hayan destacado en la reproducción de obras musicales que dignifiquen los valores culturales de la Ciudad de México o del País o bien que difundan éstos entre la población. Asimismo, se otorgará en forma póstuma a los ciudadanos que reúnan dichas características y que hayan fallecido en el periodo comprendido entre el 30 de agosto del año anterior y el 31 de agosto del año en que se entregará la presea.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+De igual forma, se concederá el reconocimiento a la interpretación artística a los ciudadanos vivos que, con su trabajo creativo y trayectoria, hayan destacado en la reproducción de obras teatrales, literarias, de televisión o cinematográficas, que dignifiquen los valores culturales de la Ciudad de México o del País o bien que difundan éstos entre la población. Asimismo, se otorgará en forma póstuma a los ciudadanos que reúnan dichas características y que hayan fallecido en el periodo comprendido entre el 30 de agosto del año anterior y el 31 de agosto del año en que se entregará la presea.
+
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 189.
@@ -2272,11 +2352,11 @@ La convocatoria respectiva y el proceso de la elección de los candidatos a reci
 
 Las Comisiones Unidas emitirán el dictamen correspondiente y deberá ser presentado ante el pleno de la Asamblea Legislativa, una vez que éste sea aprobado al interior de las comisiones.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 190.
 
-Si del resultado del dictamen resultaren dos candidatos, uno en el área de la Ciencia y el otro en el área de las Artes, cada Comisión podrá presentar el dictamen correspondiente, debiendo firmar ambos dictámenes todos los integrantes de las Comisiones unidas, y presentarse ante el Pleno de la Asamblea Legislativa cada uno por separado.
+Si del análisis de las propuestas resultaren dos o más candidatos cada Comisión podrá presentar el dictamen correspondiente a su materia, debiendo firmar ambos dictámenes todos los integrantes de las Comisiones Unidas, y presentarse ante el Pleno de la Asamblea Legislativa cada uno por separado.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2284,25 +2364,25 @@ Si del resultado del dictamen resultaren dos candidatos, uno en el área de la C
 
 En caso de ser dos dictámenes cada presidente de la Comisión ya sea de Ciencia y Tecnología o de Cultura podrá hacer uso de la Tribuna para dar lectura al dictamen correspondiente.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 192.
 
-Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de octubre del año que corresponda una sola convocatoria que contemple a las Ciencias y las Artes.
+Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de octubre del año que corresponda una sola convocatoria que contemple a las Ciencias, las Artes y la Ejecución Musical y Artística.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 193.
 
-Las propuestas de candidatos a recibir el reconocimiento deberán ser entregadas a más tardar el día quince del mes de noviembre siguiente por la sociedad en general, conforme al artículo 180, ante la Comisión respectiva.
+Las propuestas de candidatos a recibir el reconocimiento deberán ser entregadas a más tardar el día primero del mes de octubre siguiente por la sociedad en general, conforme al artículo 180, ante la Comisión respectiva.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 A la Comisión de Ciencia y Tecnología le corresponde recibir las propuestas de candidatos al reconocimiento en las Ciencias.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
-A la Comisión de Cultura le corresponde recibir las propuestas de candidatos al reconocimiento relacionadas con las Artes.
+A la Comisión de Cultura le corresponde recibir las propuestas de candidatos al reconocimiento relacionadas con las Artes y la Ejecución Musical y Artística.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2312,21 +2392,29 @@ Además de los requisitos establecidos por el artículo 180, la Comisión de Cul
 
 I.- Información sobre la obra del creador:
 
-A. Letras: Obras publicadas;
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+A. Letras: Obras publicadas o Ejecutadas;
 
 B. Artes visuales: (pintura, grabado, escultura, fotografía y diseño gráfico), exposiciones individuales y colectivas, en las que ha presentado su obra, y relación de obras que formen parte de colecciones de museos;
 
-C. Artes Escénicas (dramaturgia, dirección escénica, teatral o escenografía y danza);
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+C. Creación e Interpretación de Artes Escénicas (dramaturgia, dirección escénica, teatral o escenografía y danza);
 
 D. Coreografía: Obras estrenadas;
 
 E. Dramaturgia: Obras representadas y/o publicadas;
 
-F. Composición musical: Obras interpretadas, grabadas, publicadas y/o copia de los manuscritos de las obras;
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+F. Creación Musical: Copia de los manuscritos de las obras compuestas y/o publicadas;
 
 G. Arquitectura: Obras realizadas;
 
-H. Música (composición, canto, instrumentistas y dirección); y
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+H. Música (Obras Ejecutadas, grabadas así como canto, instrumentistas y dirección, para el caso de la ejecución musical);
 
 I. Dirección en medios audiovisuales: Obras audiovisuales producidas.
 
@@ -2341,6 +2429,10 @@ V.- Hayan contribuido al enriquecimiento del legado cultural de nuestro país; y
 VI.- Hayan participado en la formación de artistas de otras generaciones.
 
 Por cada una de las ramas anteriormente citadas se hará entrega de un sólo reconocimiento.
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+Los incisos A y H, se tomará en cuenta para el reconocimiento a la Ejecución Musical, en su caso; así como los incisos A y C se tomarán en cuenta para el reconocimiento a la Interpretación artística en su caso.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2359,6 +2451,14 @@ No será necesario que las obras o actos que acrediten su merecimiento, se hayan
 ###### Artículo 197.
 
 El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualmente en sesión solemne que deberá celebrarse dentro de la primera semana del mes de diciembre del año que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+La medalla al Mérito en Ejecución Musical se otorgará anualmente en sesión solemne que tendrá verificativo el 22 de noviembre del año que corresponda, en celebración del “Día del Músico”.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
+El reconocimiento al Artista Intérprete se otorgará anualmente en sesión solemne que tendrá verificativo el 5 de diciembre del año que corresponda, en celebración del “Día del Artista Intérprete”.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2504,19 +2604,23 @@ Solamente por causa de fuerza mayor, no imputable al interesado, previa justific
 
 Se tomará en cuenta de preferencia que los candidatos al reconocimiento respectivo sean habitantes del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 216.
 
-Sí el candidato propuesto por la Comisión dictaminadora para recibir la medalla, se excusare, la Comisión elegirá y dictaminará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
-
-En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora deberá presentar el dictamen correspondiente ante el Pleno de la Asamblea Legislativa.
+Si se excusare el candidato propuesto por la Comisión dictaminadora para recibir la medalla, o bien los familiares de éstos, en el caso del reconocimiento póstumo al ejecutor musical o al músico ejecutante, la Comisión elegirá y dictaminará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
+En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora deberá presentar el dictamen correspondiente ante el Pleno de la Asamblea Legislativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 217.
 
-La decisión que se adopte será notificada al interesado y dada a conocer oportunamente a través de los medios de comunicación.
+La decisión que se adopte será notificada al interesado, o bien a los familiares de éste, en el caso del reconocimiento póstumo al músico ejecutante o al artista intérprete, y dada a conocer oportunamente a través de los medios de comunicación.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 El Decreto por el que se otorga la Medalla correspondiente será publicado en la Gaceta Oficial del Distrito Federal, así como en, al menos, dos diarios de circulación nacional.
 
@@ -2532,11 +2636,11 @@ La resolución que se tome y que formará parte del dictamen, tendrá efectos de
 
 La entrega de los reconocimientos respectivos deberán ser anuales y entregarse en Sesión Solemne de la Asamblea legislativa.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 220.
 
-La Sesión Solemne deberá celebrarse con el único objeto de entregar el reconocimiento de la medalla y el diploma respectivo al candidato electo.
+La Sesión Solemne deberá celebrarse con el único objeto de entregar el reconocimiento de la medalla y el diploma respectivo al candidato electo, o bien los familiares de éste, en el caso del reconocimiento póstumo al músico ejecutante o al Artista Intérprete.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2653,3 +2757,41 @@ TERCERO.- Las disposiciones contenidas en la fracción IV y penúltimo párrafo 
 CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá expedir la Ley del Servicio Parlamentario de Carrera dentro de los 120 días naturales siguientes a la aprobación del presente decreto, por el Pleno.
 
 QUINTO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+G.O. 12 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Una vez instalada la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales, sus integrantes contarán con 60 días naturales para la aprobación de los Lineamientos para la vigilancia y evaluación de las políticas y programas sociales.
+
+Dichos lineamientos tomaran en cuenta lo siguiente:
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales contará con los siguientes objetivos:
+
+I. Colaborar con el Gobierno del Distrito Federal en la implementación y evaluación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
+
+II. Vigilar la legalidad en cuanto al diseño e implementación de los planes, programas, metas y acciones locales en materia de políticas y programas sociales;
+
+III. Llevar a cabo la evaluación y seguimiento de los planes, programas, metas y acciones que en materia de políticas y programas sociales se lleve a cabo en el Distrito Federal, y
+
+IV. Proponer las acciones correctivas que se consideren necesarias en la implementación de los planes, programas, metas y acciones en materia de políticas y programas sociales.
+
+La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales asegurará, por sí o a través de instituciones de educación superior e investigación científica u organizaciones de la sociedad civil, la vigilancia permanente y la revisión periódica, técnica y profesional del cumplimiento de objetivos, metas y acciones de las políticas de desarrollo social implementadas en el Distrito Federal.
+
+La evaluación que ordene o practique la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales se centrará en la consistencia y el resultado de los programas de desarrollo sociales. Para tales efectos, generará indicadores de resultados, gestión y servicios que garanticen una medición técnica de la cobertura, operación, viabilidad, calidad e impacto social.
+
+###### ARTÍCULO CUARTO.
+
+Todos los asuntos que se encuentren en archivo pendientes de desahogar por la que fue la Comisión Especial que investiga la utilización de Programas Sociales o Recursos Públicos con fines Político Electorales, serán turnados a la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales.
+
+###### ARTÍCULO QUINTO.
+
+En el caso de las reformas relativas a la conformación del Programa Operativo Anual, operarán a partir del ejercicio fiscal 2009.
