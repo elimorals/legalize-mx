@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fraccionamientos-rurales-12885"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-04"
-last_updated: "1995-01-04"
+last_updated: "2008-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FRACCIONAMIENTOS RURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de enero de 1995.
 
@@ -153,11 +153,13 @@ IX.- Elaborar el correspondiente regalmento (sic) interior de la Dirección;
 
 X.- Todas las demás que se deriven de esta ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6.
 
-Todos los actos a que se refiere la presente ley, deberán efectuarlos directamente los adjudicatarios o interesados ante la Dirección.
+Todos los actos a que se refiere la presente ley, con excepción del desistimiento de derechos sobre inmuebles sujetos al régimen de fraccionamientos, podrán realizarse personalmente por los interesados ante la Dirección de Fraccionamientos o por conducto de Abogado Patrono o procurador en los términos de los artículos 71 y 72 del Código de Procedimientos Civiles para el Estado. De igual forma, los interesados podrán comparecer a tramitar ante la citada Dirección por conducto de Apoderado al que otorguen poder ante Notario Público.
 
-Sólo se permitirá la representación, cuando quien deba realizarlos esté imposibilitado físicamente para hacerlo. En caso de incapacidad natural o legal se estará a lo señalado en el Código de Familia.
+Tratándose del desistimiento de derechos sobre inmuebles sujetos al régimen de fraccionamientos, sólo lo podrá hacer personalmente el Titular del lote o lotes de Fraccionamientos o bien a través de un apoderado legal con facultades expresas para este efecto.
 
 ### CAPITULO III. DE LOS FRACCIONAMIENTOS GANADEROS
 
@@ -884,3 +886,11 @@ LIC. ARTURO ROMO GUTIERREZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE ZUÑIGA GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
