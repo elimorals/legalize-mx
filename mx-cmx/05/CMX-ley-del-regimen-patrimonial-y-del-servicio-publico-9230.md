@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "1997-06-17"
+last_updated: "2008-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-10"
 
 LEY DEL REGIMEN PATRIMONIAL Y DEL SERVICIO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -94,6 +94,10 @@ III. La Ley de Procedimiento Administrativo del Distrito Federal, y
 
 IV. El Código Financiero del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulen la prestación de los diversos servicios públicos, la adquisición de bienes y la realización de obras en proyectos de coinversión y de prestación de servicios a largo plazo en el Distrito Federal.
+
 ###### Artículo 6o.
 
 Para los efectos de esta Ley se entiende por:
@@ -108,7 +112,9 @@ IV. Dependencias, las Secretarías, la Oficialía y la Contraloría;
 
 V. Desarrollo Urbano, la Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal;
 
-VI. Entidades, los organismos públicos descentralizados y las empresas de participación estatal que integren la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+VI. Entidades, las personas morales de derecho público tales como organismos públicos descentralizados, fideicomisos públicos y empresas de participación estatal mayoritaria que integren la Administración Pública Paraestatal del Distrito Federal;
 
 VII. Finanzas, la Secretaría de Finanzas del Distrito Federal;
 
@@ -118,9 +124,13 @@ IX. Ley, la Ley del Régimen Patrimonial y de Servicios Públicos del Distrito F
 
 X. Ley Orgánica, la Ley Orgánica de la Administración Pública del Distrito Federal;
 
-XI. Obras, Secretaría de Obras y Servicios del Distrito Federal, y
+XI. Obras, Secretaría de Obras y Servicios del Distrito Federal, y (sic)
 
-XII. Oficialía, la Oficialía Mayor del Distrito Federal.
+XII. Oficialía, la Oficialía Mayor del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XIII. Dependencia Auxiliar, las dependencias de la Administración Pública del Distrito Federal que apoyen en el ejercicio de las facultades del Jefe de Gobierno del Distrito Federal en materia de concesiones teniendo a su cargo el otorgamiento, la regulación, supervisión y vigilancia de las mismas.
 
 ###### Artículo 7o.
 
@@ -138,7 +148,9 @@ II. Incorporar al dominio público un bien que forme parte del dominio privado d
 
 III. Desincorporar bienes del dominio público en los casos en que la Ley lo permita y bienes que hayan dejado de ser útiles para fines de servicios públicos;
 
-IV. Dictar las reglas a que deberá sujetarse la política, vigilancia y aprovechamiento de los bienes de dominio público;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+IV. Expedir las disposiciones reglamentarias de esta Ley y dictar las reglas a que deberá sujetarse la política, vigilancia y aprovechamiento de los bienes de dominio público, así como las que correspondan a las concesiones sobre servicios públicos, construcción y bienes del dominio público o cuando éstos son destinados a proyectos de coinversión y de prestación de servicios a largo plazo;
 
 V. Tomar, en su caso, las medidas administrativas y ejercer las acciones judiciales encaminadas a obtener, mantener o recuperar la posesión de los inmuebles del Distrito Federal, así como procurar la remoción de cualquier obstáculo creado natural o artificialmente que impidan su adecuado uso o destino.
 
@@ -200,7 +212,29 @@ II. Ejercer el procedimiento administrativo de ejecución de créditos fiscales 
 
 Corresponde a cada una de las Dependencias, Entidades, Delegaciones y demás órganos desconcentrados organizar y controlar los bienes muebles e inmuebles que detenten y tengan asignados, así como preparar y mantener un programa de aprovechamiento de los bienes que tengan a su cargo.
 
-Desarrollar un programa de aprovechamiento óptimo de los inmuebles que tenga a su cargo y en caso de requerir más inmuebles prever su adecuación al Programa General de Desarrollo Urbano.
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+Corresponde a cada una de las dependencias, entidades, y demás órganos desconcentrados organizar y controlar los bienes muebles e inmuebles que detenten y tengan asignados, así como preparar y mantener un programa de aprovechamiento de los bienes que tengan a su cargo y desarrollar un programa de aprovechamiento óptimo de los inmuebles que tengan a su cargo y, en caso de requerir más inmuebles, prever su adecuación al Programa General de Desarrollo Urbano.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde a cada una de las Delegaciones del Distrito Federal:
+
+I. Presentar al Jefe de Gobierno propuestas relativas a bienes ubicados en sus demarcaciones territoriales para los efectos de lo previsto en las fracciones I, II y III del artículo 8 de este ordenamiento.
+
+II. Proponer la adquisición de reservas territoriales en sus demarcaciones.
+
+III. Organizar y controlar los bienes muebles e inmuebles que detenten y tengan asignados.
+
+IV. Preparar y mantener un programa de aprovechamiento de los bienes que tengan a su cargo.
+
+V. Desarrollar un programa de aprovechamiento óptimo de los inmuebles que tengan a su cargo y, en caso de requerir más inmuebles, prever su adecuación al Programa Delegacional de Desarrollo Urbano si fuere necesario.
+
+VI. Proponer el otorgamiento de concesiones previstas en el Artículo 76 de esta ley para el desarrollo de proyectos en beneficio de los habitantes de su demarcación territorial.
+
+VII. Presentar al Comité propuestas de enajenaciones, adquisiciones, desincorporaciones, expropiaciones, permutas, donaciones, permisos administrativos temporales revocables y demás actos jurídicos que inciden en el patrimonio inmobiliario de la Administración Pública del Distrito Federal en lo que respecta a su demarcación territorial.
 
 ###### Artículo 14.
 
@@ -230,9 +264,13 @@ IX. La Secretaría de Transportes y Vialidad;
 
 X. La Secretaría de Seguridad Pública;
 
-XI. El representante inmobiliario del Distrito Federal que, en su caso, designe el Jefe de Gobierno del Distrito Federal, a través del servidor público que designe dicho agente inmobiliario, y
+XI. El representante inmobiliario del Distrito Federal que, en su caso, designe el Jefe de Gobierno del Distrito Federal, a través del servidor público que designe dicho agente inmobiliario, y (sic)
 
-XII. La Contraloría General, en su calidad de asesor.
+XII. La Contraloría General, en su calidad de asesor;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XIII. Las delegaciones en cuyo territorio se ubique el inmueble relacionado con el acto que se somete al Comité.
 
 Por cada miembro propietario se acreditará un suplente.
 
@@ -432,9 +470,13 @@ V. Permisos Administrativos Temporales Revocables en favor de los particulares q
 
 VI. Enajenación a título oneroso en favor de personas físicas o morales que requieran disponer de estos inmuebles para la creación o ampliación de una empresa que beneficie a la colectividad;
 
-VII. Enajenación a los colindantes en los términos de esta Ley, y
+VII. Enajenación a los colindantes en los términos de esta Ley, y (sic)
 
-VIII. Enajenación o donación en los demás casos en que se justifique en los términos de esta Ley.
+VIII. Enajenación o donación en los demás casos en que se justifique en los términos de esta Ley;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+IX. Los demás que autorice el Comité a propuesta del Jefe de Gobierno relacionados con proyectos de coinversión o de prestación de servicios a largo plazo.
 
 ###### Artículo 38.
 
@@ -470,19 +512,25 @@ El precio de los inmuebles que se vayan a adquirir, así como el monto de indemn
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 41.
 
-Toda enajenación onerosa de inmuebles que realice el Distrito Federal deberá ser de contado, salvo las enajenaciones que tengan como finalidad la ejecución de proyectos de vivienda de interés social. El Jefe de Gobierno del Distrito Federal designará la Entidad a favor de la cual se desincorporarán y transmitirán esos inmuebles para su enajenación. El Organo de Gobierno de la Entidad establecerá las modalidades, plazos y tasas de interés, atendiendo a la situación económica de los adquirentes.
+Toda enajenación onerosa de inmuebles que realice el Distrito Federal deberá ser de contado, salvo las enajenaciones que tengan como finalidad la ejecución de proyectos de vivienda de interés social u otros proyectos de coinversión o de prestación de servicios a largo plazo. En el primer caso, el Jefe de Gobierno del Distrito Federal designará la Entidad a favor de la cual se desincorporarán y transmitirán esos inmuebles para su enajenación. El Órgano de Gobierno de la Entidad establecerá las modalidades, plazos y tasas de interés, atendiendo a la situación económica de los adquirentes.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
 
 Los recursos que reciba la Entidad por las enajenaciones a que se refiere el párrafo anterior los ingresará a la Tesorería del Distrito Federal, quien los destinará a la Bolsa Inmobiliaria.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
 En el caso de programas de regularización de la tenencia de la tierra, el Jefe de Gobierno del Distrito Federal podrá mediante acuerdo, establecer la autoridad encargada de la enajenación, así como los plazos y tasas de interés.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 42.
 
-Mientras no esté totalmente pagado el precio, los compradores de los inmuebles no podrán constituir sobre ellos derechos reales en favor de terceros, ni tendrán facultad para derribar o modificar las construcciones sin permiso expreso de la Oficialía, Desarrollo Urbano y/o la Delegación, de conformidad con sus atribuciones.
+Mientras no esté totalmente pagado el precio, los compradores de los inmuebles no podrán constituir sobre ellos derechos reales en favor de terceros, ni tendrán facultad para derribar o modificar las construcciones sin permiso expreso de la Oficialía, Desarrollo Urbano y/o la Delegación, de conformidad con sus atribuciones; salvo que la operación inmobiliaria sea parte de proyectos de coinversión o de prestación de servicios a largo plazo y sea autorizado por el Comité.
 
 ###### Artículo 43.
 
@@ -536,11 +584,11 @@ Los honorarios del Notario Público, así como los gastos que se generen con mot
 
 ### CAPÍTULO IV. DE LA DESIGNACIÓN DE NOTARIOS EN LAS ENAJENACIONES DE INMUEBLES DE BIENES DE DOMINIO PRIVADO DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 53.
 
-Los actos jurídicos sobre bienes inmuebles en los que sea parte el Distrito Federal con excepción hecha de lo previsto en el artículo 48 de esta Ley, y que en términos de la misma requieran intervención de notario, se celebrarán ante los notarios públicos del Distrito Federal que designará (sic) Gobierno, a través de la Subsecretaría de Asuntos Jurídicos.
+Los actos jurídicos sobre bienes inmuebles en los que sea parte el Distrito Federal, con excepción hecha de lo previsto en el artículo 48 de esta Ley, y que en términos de la misma requieran intervención de notario, se celebrarán ante los notarios públicos del Distrito Federal que designará la Consejería Jurídica Y (sic) de Servicios Legales.
 
 Ningún notario del Distrito Federal podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles en que sea parte el Distrito Federal, sin la aprobación previa de la Oficialía y Desarrollo Urbano, de conformidad con sus competencias.
 
@@ -692,25 +740,39 @@ La Oficialía llevará a cabo el control y administración de los inmuebles prop
 
 A la Administración corresponde la prestación de los servicios públicos, la rectoría sobre los bienes del dominio público y la definición de la participación de los particulares mediante concesión temporal que se otorgue al efecto.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 76.
 
-Se entiende por concesión, para los efectos de esta Ley, el acto administrativo en virtud del cual la Administración confiere a una persona física o moral el uso, aprovechamiento o explotación de bienes de dominio público del Distrito Federal, o, en su caso, la prestación de un servicio público, con sujeción a las disposiciones de esta u otras leyes, así como conforme a la declaratoria de necesidad y al título de concesión respectivo.
+La concesión es el acto administrativo por el cual la Administración confiere durante un plazo determinado, a una persona física o moral:
 
-La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulen la prestación de los diversos servicios públicos en el Distrito Federal.
+I. La construcción o explotación o ambas, de proyectos de coinversión o de prestación de servicios a largo plazo;
+
+II. El uso, aprovechamiento, explotación o administración de bienes del dominio público del Distrito Federal,
+
+III. El uso, aprovechamiento, explotación o administración de bienes del dominio público del Distrito Federal, relacionados con proyectos de coinversión o de prestación de servicios a largo plazo, y
+
+IV. La prestación de servicios públicos.
+
+Las concesiones serán otorgadas por el titular de la Dependencia Auxiliar con acuerdo del Jefe de Gobierno del Distrito Federal, previa opinión de la Oficialía Mayor y con la evaluación técnica-financiera y el análisis costo-beneficio realizado por un tercero independiente calificado en la materia.
+
+Corresponde a la Dependencia Auxiliar el proceso de otorgamiento, regulación, supervisión y vigilancia de la concesión.
+
+Cuando el uso, aprovechamiento, administración y explotación de un bien inmueble afecte una demarcación territorial, se deberá contar con la opinión de la Delegación, la que deberá estar fundada en la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 77.
-
-Las concesiones sobre bienes de dominio público del Distrito Federal o las concesiones para la prestación de un servicio público en el Distrito Federal, serán otorgados por el Jefe de Gobierno del Distrito Federal. Para efectos del presente ordenamiento, el Jefe de Gobierno del Distrito Federal será denominado como autoridad concedente y las Dependencias de la Administración Pública del Distrito Federal que apoyen el ejercicio de las facultades de dicha autoridad en el ámbito de sus respectivas competencias, serán denominadas como Dependencias auxiliares, teniendo estas últimas a su cargo, el proceso de otorgamiento de una concesión, regulación, supervisión y vigilancia de la misma.
 
 El Jefe de Gobierno del Distrito Federal expedirá la declaratoria de necesidad correspondiente previamente al otorgamiento de una concesión, en tal supuesto deberá publicarse una convocatoria de licitación pública en la Gaceta Oficial del Distrito Federal y en dos periódicos de los de mayor circulación en el Distrito Federal.
 
 Solamente en los siguientes casos podrá dispensarse de la licitación pública a que se refiere el párrafo anterior y llevarse a cabo la adjudicación directa de la concesión, previa la declaratoria de necesidad correspondiente:
 
-I. Cuando el otorgamiento de la concesión pueda dar lugar a monopolios;
+I. Cuando la concesión se otorgue directamente a entidades de la administración;
 
-II. Cuando de no otorgar la concesión de un bien se ponga en peligro su conservación, o en su caso, la prestación de un servicio público, y
+II. Cuando una vez determinado el ganador de la licitación pública, éste no suscriba el Título de concesión correspondiente, la autoridad concedente podrá otorgar la concesión de que se trate a quien haya quedado en segundo lugar, siempre y cuando cumpla con todos los requisitos exigidos para el otorgamiento de la concesión de que se trate; y
 
-III. Cuando una vez determinado el ganador de la licitación pública, éste no suscriba el Título de concesión correspondiente, la autoridad concedente podrá otorgar la concesión de que se trate a quien haya quedado en segundo lugar, siempre y cuando cumpla con todos los requisitos exigidos para el otorgamiento de la concesión de que se trate.
+III. Cuando la concesión recaiga sobre bienes del dominio público de uso común o necesarios para la prestación de un servicio público, y su construcción, mantenimiento o acondicionamiento dependa de obras u otras cargas cuya realización se haya impuesto al concesionario, de manera que su construcción, mantenimiento o acondicionamiento se realice sin erogación de recursos públicos y su otorgamiento asegure las mejores condiciones para la Administración.
 
 ###### Artículo 78.
 
@@ -730,35 +792,61 @@ VI. Fecha, hora y lugar de celebración del acto de presentación y apertura de 
 
 VII. Los requisitos que considere pertinentes la autoridad convocante.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 79.
 
-Las bases y especificaciones de las licitaciones públicas para el otorgamiento de concesiones contendrán como mínimo lo siguiente:
+Las bases de las licitaciones públicas para el otorgamiento de concesiones contendrán como mínimo lo siguiente:
 
 I. Nombre de la Dependencia auxiliar responsable de la licitación;
 
 II. Poderes que deberán acreditarse; fecha, hora y lugar de la junta de aclaraciones a las bases de licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; la fecha, hora y lugar para la presentación y apertura de las propuestas y comunicación del fallo;
 
-III. Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de licitación;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-IV. El criterio o criterios de selección de las etapas técnica y económica;
+III. Señalamiento de los requisitos cuyo incumplimiento podrá ser causa de descalificación;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+IV. Los requisitos mínimos para acreditar solvencia técnica y económica y los criterios para desechar posturas y para seleccionar al ganador de la licitación;
 
 V. Las características técnicas mínimas del servicio público a prestar, o, en su caso, la descripción del bien a concesionar;
 
-VI. Descripción completa del proyecto técnico que debe satisfacerse por el concesionario en caso de que la concesión tenga como modalidad la realización de obras; y en el caso de servicios públicos, las especificaciones mínimas que deberá cumplir la propuesta;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-VII. Propuesta de tarifa para la prestación de un servicio y las contraprestaciones relacionadas con la concesión de un bien;
+VI. Proyecto técnico, en caso de que la concesión tenga como modalidad la construcción de obras, salvo que conforme a las bases de la licitación el proyecto técnico sea criterio para seleccionar al ganador o deba ser elaborado por el concesionario; y en el caso de servicios públicos, las especificaciones mínimas que deberá cumplir la propuesta;
 
-VIII. Propuesta del plazo de la concesión;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-IX. El proyecto, soportes financieros y la información necesaria para evaluar la propuesta, así como la información financiera y económica que la Dependencia auxiliar considere necesaria para evaluar la consistencia de las propuestas;
+VII. Tarifas aplicables, en caso de que la concesión conlleve la prestación de un servicio o la explotación de bienes de uso común, salvo que conforme a las bases de la licitación el régimen tarifario sea criterio para seleccionar al ganador, o deban ser propuestas por el licitante;
 
-X. Capital mínimo requerido por la autoridad;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-XI. Las contraprestaciones ofrecidas por el otorgamiento de la concesión, sin perjuicio de lo que establezca el Código Financiero del Distrito Federal;
+VIII. Plazo de la concesión, salvo que conforme a las bases de la licitación el plazo de la concesión sea criterio para seleccionar al ganador;
 
-XII. La aportación de capital mínimo que en su caso se requiera, la cual no podrá ser inferior del 30% del monto de la inversión a realizar, y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-XIII. Las demás que considere pertinentes la autoridad convocante de acuerdo con la naturaleza de los servicios o las características del bien.
+IX. La información legal, técnica, administrativa y financiera necesaria para evaluar la propuesta, incluyendo, en su caso, tecnologías y calidades requeridas, salvo que estas cuestiones deban ser propuestas por los licitantes o su valoración sea criterio para seleccionar al ganador;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+X. Monto de capital mínimo que se requerirá del concesionario, indicando términos y condiciones para su integración y aportación al proyecto;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XI. En su caso, las contraprestaciones que el concesionario deba cubrir, o los ingresos que deba compartir, a favor de la Administración, salvo que conforme a las bases de la licitación esto sea criterio para seleccionar al ganador o deban ser propuestas por el licitante;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XII. Las garantías que la Administración requiera de los licitantes o del concesionario y, cuando sea procedente, las que ofrezca a este último o a los proveedores de financiamiento;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XIII. Las demás que considere pertinentes la autoridad convocante de acuerdo con la naturaleza de la concesión de que se trate;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XIV. Las medidas para mitigar el impacto urbano que en su caso puedan generarse.
 
 ###### Artículo 80.
 
@@ -784,7 +872,9 @@ VI. En la segunda etapa, se procederá a la apertura de las propuestas económic
 
 VII. La evaluación económica deberá considerar la viabilidad financiera de la propuesta, así como la consistencia de la información presentada. Las posturas que no cumplan con estos requisitos serán desechadas, y
 
-VIII. La concesión de un servicio público se adjudicará a la persona que, dentro de los licitantes presente la proposición de menor costo a los usuarios. En el caso de concesiones de bienes del Distrito Federal, la concesión se adjudicará a la persona que de entre los licitantes, reúna las condiciones económicas requeridas por la Dependencia auxiliar y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+VIII. El licitante ganador será elegido de acuerdo a lo establecido en las bases de la licitación las cuales asegurarán las mejores condiciones para la Administración.
 
 ###### Artículo 82.
 
@@ -804,19 +894,41 @@ En caso de que los participantes inconformes interpongan algún recurso o medio 
 
 La Dependencia auxiliar que lleve a cabo el procedimiento de licitación será la responsable en todo momento de llevar a cabo dicho procedimiento conforme a lo establecido en esta Ley.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 85 Bis.
+
+Las personas físicas o morales interesadas en obtener una concesión conforme a las fracciones II y III del artículo 77 de esta ley, podrán presentar una propuesta de proyecto de concesión, acompañando a la propuesta un estudio que contenga al menos los siguientes elementos:
+
+I. Viabilidad, finalidad y justificación del objeto de la concesión;
+
+II. Análisis de la demanda de uso e incidencia económica y social de la actividad o bien de que se trate en su área de influencia;
+
+III. Análisis de la rentabilidad de la actividad o bien objeto de la concesión;
+
+IV. Proyección económica de la inversión a realizarse, sistema de financiamiento de la misma y su recuperación;
+
+En la presentación de una propuesta en los términos de este artículo no aplica la afirmativa ficta.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 86.
 
-La autoridad concedente y las Dependencias auxiliares estarán facultadas para:
+La Administración, a través de la Dependencia Auxiliar estará facultada para:
 
 I. Vigilar las concesiones y, en su caso, modificarlas en la forma que sea conveniente;
 
 II. Reglamentar su funcionamiento;
 
-III. Ocupar temporalmente el bien de dominio público o el servicio público e intervenir en su administración, en los casos en que el concesionario no lo preste eficazmente o se niegue a seguir prestándolo;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+III. Ocupar temporalmente el bien de dominio público o el servicio público e intervenir en su administración, en los casos en que el concesionario no lo preste eficazmente, se niegue a seguir prestándolo o incumpla con las condiciones establecidas en el título de la concesión, así como recuperar administrativamente, con carácter temporal la concesión asignada;
 
 IV. Utilizar la fuerza pública en los casos en que el concesionario oponga resistencia a la medida de interés público a que se refiere la fracción anterior;
 
-V. Establecer los mecanismos para fijar y modificar los precios, tarifas y contraprestaciones correspondientes;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+V. Establecer los mecanismos para fijar y modificar los precios, tarifas y contraprestaciones correspondientes, así como las fórmulas para determinar las indemnizaciones, compensaciones o garantías que correspondan a los concesionarios y sus financiadores por las inversiones realizadas y no recuperadas en caso de extinción anticipada de la concesión, sin perjuicio de las sanciones que, en su caso, resulten procedentes;
 
 VI. Controlar el pago oportuno de las obligaciones económicas a cargo del concesionario y a favor del Distrito Federal, conforme a las disposiciones del Título de la concesión;
 
@@ -826,13 +938,17 @@ VIII. Establecer las modalidades que se requieran para la más adecuada prestaci
 
 IX. Revocar las concesiones;
 
-X. Recibir el bien o los servicios conforme al Título de concesión, y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+X. Recibir las obras, los bienes o los servicios conforme al Título de concesión, y
 
 XI. Dictar las demás medidas necesarias tendientes a proteger el interés público.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 87.
 
-Las concesiones sobre bienes de dominio público y prestación de servicios públicos, no crean derechos reales, otorgan simplemente frente a la Administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan los ordenamientos legales aplicables y el respectivo Título de concesión.
+Las concesiones sobre bienes de dominio público y prestación de servicios públicos, no crean derechos reales, otorgan simplemente frente a la Administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos, explotaciones o la administración, de acuerdo con las reglas y condiciones que establezcan los ordenamientos legales aplicables y el respectivo Título de concesión.
 
 ###### Artículo 88.
 
@@ -886,9 +1002,17 @@ Las concesiones de bienes podrán tener las siguientes modalidades:
 
 I. La obligación del concesionario de dar mantenimiento al bien concesionado;
 
-II. La obligación del concesionario de ampliar o reparar el bien concesionado, y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-III. La obligación del concesionario para utilizar el bien en la prestación de un servicio público.
+II. La obligación del concesionario de administrar, ampliar o reparar el bien concesionado;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+III. La obligación del concesionario para utilizar el bien en la prestación de un servicio público o en la realización de una obra pública, y
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+IV. El concesionario podrá suscribir un contrato de fideicomiso o instrumentos de asociación financiera o mercantil, al que aportará o cederá los derechos del título de concesión y cuyos rendimientos serán empleados para el cumplimiento del fin de la concesión.
 
 ###### Artículo 91.
 
@@ -896,9 +1020,31 @@ Las concesiones de servicios públicos podrán tener las siguientes modalidades:
 
 I. Inversión directa del concesionario;
 
-II. Inversión del concesionario y del Gobierno del Distrito Federal, y
+II. Inversión del concesionario y del Gobierno del Distrito Federal, y (sic)
 
-III. Realización de obras en bienes del Distrito Federal o los que aporte el concesionario, o ambos.
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+III. Inversión del concesionario y de particulares a través de la emisión y suscripción de certificados y bonos en el mercado de valores;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+IV. Realización de obras en bienes del Distrito Federal o los que aporte el concesionario, o ambos.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 91 Bis.
+
+Para el financiamiento de las obras o actividades objeto de la concesión, el concesionario podrá recurrir al financiamiento no público a través de la contratación de créditos con personas físicas o morales o del mercado de valores, mediante la emisión de obligaciones, bonos, certificados o cualquier título semejante regulado por las leyes nacionales. Los derechos derivados de las concesiones no podrán ser pignorados, fideicomitidos, cedidos o de cualquier forma gravados o transmitidos a favor de los financiadores sin la autorización escrita de la Dependencia Auxiliar correspondiente. La misma restricción aplicará para las acciones representativas del capital de los concesionarios.
+
+El concesionario podrá aportar o ceder los derechos del Título de concesión a un fideicomiso, persona moral mercantil o instrumentos de asociación financiera o mercantil cuyo objeto será la ejecución de la propia concesión y, en su caso, la administración de la obra o bien objeto de la misma, previa autorización de la Administración, a través de la Dependencia Auxiliar con opinión de la Oficialía Mayor.
+
+Cuando los concesionarios sean Entidades de la Administración, la concesión o los derechos derivados de la misma podrán ser transmitidos a fideicomisos u otros instrumentos de asociación financiera o mercantil necesarios para instrumentar coinversiones con particulares sujetándose a las disposiciones aplicables del Código Financiero del Distrito Federal y a las reglas que al efecto expida la Secretaría de Finanzas. La selección de los particulares para realizar las coinversiones deberá realizarse en términos de esta ley, salvo que la participación de los particulares sea minoritaria, o no les dé el control del fideicomiso o vehículo utilizado para instrumentar la coinversión, o se realice mediante títulos o instrumentos adquiridos en oferta pública en el mercado de valores, o cuando se trate de alguno de los supuestos de excepción previstos en el artículo 77 de esta ley.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 91 Ter.
+
+La construcción de la infraestructura para la prestación del servicio público de que se trate, podrá realizarse en bienes de la Administración, en cuyo caso la administración de la misma estará a cargo del concesionario durante el plazo que dure la concesión.
 
 ###### Artículo 92.
 
@@ -928,13 +1074,13 @@ Las Dependencias auxiliares deberán conservar en forma ordenada y sistemática 
 
 En los Títulos de las concesiones otorgadas conforme a esta Ley, se señalará a la Dependencia administrativa que tendrá el carácter de auxiliar, conforme a la competencia que señale la Ley Orgánica de la Administración Pública del Distrito Federal. Esta Dependencia deberá verificar que la explotación del bien de que se trate o la prestación de los servicios públicos concesionados, según sea el caso, se realice de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 95.
 
-La autoridad concedente, la Dependencia auxiliar y la Contraloría, en el ámbito de sus respectivas competencias, podrán realizar en cualquier tiempo visitas de verificación a los concesionarios, a efecto de constatar el estado y las condiciones en que se encuentra el bien objeto de la concesión o el servicio público concesionado.
+La Administración, a través de la Dependencia auxiliar y la Contraloría, en el ámbito de sus respectivas competencias, podrán realizar en cualquier tiempo visitas de verificación a los concesionarios, a efecto de constatar la ejecución de la obra principal y de las complementarias, el estado y las condiciones en que se encuentra el bien objeto de la concesión o el servicio público concesionado. Al término de las visitas, las Dependencias, además del acta circunstanciada que deberán levantar, también deberán formular un dictamen técnico sobre el estado y condiciones que guardan las obras o el bien objeto de la concesión o el servicio público concesionado, según sea el caso. Para la realización de las visitas se estará a lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
 
-Al término de las visitas, las Dependencias, además del acta circunstanciada que deberán levantar, también deberán formular un dictamen técnico sobre el estado y condiciones que guarda el bien objeto de la concesión o el servicio público concesionado, según sea el caso.
-
-Para la realización de las visitas se estará a lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
+Asimismo, la dependencia auxiliar podrá evaluar la concesión mediante el análisis técnico financiero de la misma, por sí, o través de un tercero independiente y calificado en la materia.
 
 ###### Artículo 96.
 
@@ -958,7 +1104,9 @@ VII. Cualquiera otra prevista en las leyes, reglamentos, disposiciones administr
 
 Son causas de caducidad de las concesiones:
 
-I. No iniciar la explotación del bien de que se trate o la prestación del servicio concesionado dentro del plazo señalado para tal efecto en la concesión, salvo por causas de fuerza mayor o caso fortuito, y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+I. No iniciar la ejecución de las obras, la explotación del bien de que se trate o la prestación del servicio concesionado dentro del plazo señalado para tal efecto en la concesión, salvo por causas de fuerza mayor o caso fortuito, y
 
 II. Suspender la prestación del servicio por causas imputables al concesionario.
 
@@ -966,9 +1114,13 @@ II. Suspender la prestación del servicio por causas imputables al concesionario
 
 Las concesiones no podrán ser objeto, en todo o en parte, de subconcesiones, arrendamiento, comodato, gravamen o cualquier acto o contrato por virtud de la cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones y en su caso de las instalaciones o construcciones autorizadas en el Título respectivo.
 
-Los derechos y obligaciones derivados de las concesiones, sólo podrán cederse total o parcialmente, con la autorización previa y expresa de la autoridad que las hubiere otorgado, cuando así se haya establecido en las bases de la concesión, exigiendo al concesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-Cualquier operación que se realice en contra del tenor de este artículo será nula de pleno derecho y el concesionario perderá en favor del Distrito Federal los derechos que deriven de la concesión y los bienes afectos a ella.
+Los derechos y obligaciones derivados de las concesiones sólo podrán cederse total o parcialmente, con la autorización previa y expresa de la autoridad que las hubiere otorgado cuando así se haya establecido en las bases de la concesión, exigiendo al concesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva. Lo previsto en este párrafo y el anterior no aplica a los mecanismos que se instrumenten como fuente de pago o garantía de financiamiento conforme al artículo 91 Bis.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+El concesionario podrá subcontratar con terceros la realización del objeto de la concesión, previa autorización de la Administración, a través de la Dependencia Auxiliar, pero en todo caso, será responsable enteramente de su cumplimiento ante la Administración Pública y en su caso, ante los terceros contratados, quienes no tendrán relación jurídica alguna con dicha Administración.
 
 Sin perjuicio de las sanciones a que se hagan acreedores los concesionarios por permitir que un tercero aproveche o explote bienes de dominio público, las cantidades que éstos obtengan, se consideran créditos fiscales.
 
@@ -988,7 +1140,9 @@ V. Dejar de cumplir en forma oportuna, las obligaciones pecuniarias y fiscales q
 
 VI. Dejar de actualizar las garantías exigidas por la autoridad concedente;
 
-VII. Dañar ecosistemas como consecuencia de la explotación del bien o de la prestación del servicio de que se trate, lo cual deberá estar debidamente comprobado por la Dependencia auxiliar competente, y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+VII. Dañar ecosistemas como consecuencia de la ejecución de las obras, de la explotación del bien o de la prestación del servicio de que se trate, lo cual deberá estar debidamente comprobado por la Dependencia auxiliar competente, y
 
 VIII. Las demás que establezcan esta Ley, sus reglamentos y el propio Título de concesión.
 
@@ -1009,6 +1163,20 @@ La declaratoria de rescate hará que los bienes materia de la concesión o afect
 En la declaratoria de rescate, se establecerán las bases generales que servirán para fijar el monto y plazo de la indemnización que haya de cubrirse al concesionario, pero en ningún caso podrá tomarse como base para fijarlo, el valor intrínseco de los bienes concesionados.
 
 Si el afectado está conforme con el monto de la indemnización, la cantidad que señale por este concepto tendrá carácter definitivo. Si no estuviere conforme el importe de la indemnización se determinará por la autoridad judicial, a petición del interesado quien deberá formularla dentro del plazo de quince días contados a partir de la fecha en que se le notifique la resolución que determine el monto de la indemnización.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 101 Bis.
+
+La Administración, a través de la Dependencia Auxiliar, podrá recuperar administrativamente la concesión, con carácter temporal, cuando el concesionario incurra en incumplimientos graves a los términos del Título de concesión y con ello se afecte la ejecución de las obras, los actos vinculados con el bien o la prestación del servicio público, que sean objeto del mismo.
+
+El efecto de la recuperación será el de que la Administración asuma la ejecución del objeto de la concesión, mientras dure la misma, obteniendo para sí la contraprestación que en su caso se hubiera pactado para el concesionario.
+
+Los efectos de la recuperación concluirán cuando sean corregidas por el concesionario las causas que hubieran dado origen a la misma, cuyo plazo no podrá exceder de doce meses.
+
+En caso de verificarse lo anterior, la Administración conjuntamente con el concesionario, formularán la liquidación correspondiente, en la que deberán deducirse los gastos realizados por aquella en la ejecución del contrato, los perjuicios generados por los incumplimientos y la aplicación de las sanciones económicas previstas en la ley y en el Título respectivo.
+
+Las controversias que se generen por la liquidación serán resueltas por los tribunales jurisdiccionales del Distrito Federal.
 
 ###### Artículo 102.
 
@@ -1038,11 +1206,11 @@ I. A título gratuito, cuando no se exija al particular una contraprestación pe
 
 II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie a cambio del uso y goce del inmueble permisionado, la que en todo caso deberá estar fijada previamente por Oficialía y Finanzas.
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 106.
 
-Los Permisos Administrativos Temporales Revocables tendrán una vigencia máxima de hasta 10 años, los cuales podrán prorrogarse especialmente, en los casos en que la persona física o moral a la que se haya otorgado el permiso, tenga como finalidad la asistencia privada o desarrollo de actividades educativas y deportivas, y las que reporten un beneficio en general a la comunidad.
+Los Permisos Administrativos Temporales Revocables tendrán una vigencia máxima de 10 años, los cuales podrán prorrogarse, especialmente en los casos en que la persona física o moral a la que se haya otorgado el permiso, tenga como finalidad la asistencia privada, el desarrollo de actividades educativas y deportivas, así como las que reporten un beneficio en general a la comunidad o se deriven de proyectos para el desarrollo del Distrito Federal.
 
 ###### Artículo 107.
 
@@ -1309,3 +1477,7 @@ D.O.F. 17 DE JUNIO DE 1997.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Artículo Segundo.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 15 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
