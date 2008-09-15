@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2008-06-04"
+last_updated: "2008-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -174,7 +174,19 @@ XXVIII.- Gabinete: Al Gabinete de Administración y Finanzas, integrado por los 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
 
-XXIX.- Instituto: Al Instituto de Ciencia y Tecnología del Distrito Federal.
+XXIX.- Instituto: Al Instituto de Ciencia y Tecnología del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XXX. Contrato Multianual: Un contrato cuya vigencia comprenda más de un ejercicio presupuestal;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XXXI. Contrato de Prestación de Servicios a Largo Plazo: Es el contrato multianual, sujeto al cumplimiento de un servicio, celebrado entre una dependencia, un órgano desconcentrado, una delegación o una entidad, y por la otra un proveedor, mediante el cual se establece la obligación por parte del proveedor de prestar uno o más servicios a largo plazo, ya sea con los activos que éste provea por sí, por un tercero o por la administración pública; o bien, con los activos que construya, sobre inmuebles propios, de un tercero o de la administración pública, de conformidad con un proyecto de prestación de servicios a largo plazo; y por parte de la dependencia, órgano desconcentrado, delegación o entidad, la obligación de pago por los servicios que le sean proporcionados;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XXXII. Proyecto de Prestación de Servicios a Largo Plazo: Las acciones que se requieren para que una dependencia, órgano desconcentrado, delegación o entidad reciba un conjunto de servicios a largo plazo por parte de un proveedor, que podrán consistir, de manera enunciativa más no limitativa, en la disponibilidad de servicios para crear infraestructura pública, diseño, mantenimiento, equipamiento, ampliación, administración, operación, conservación, explotación, construcción, arrendamiento o financiamiento de bienes muebles o inmuebles, incluyendo el acceso a los activos que se construyan o provean.
 
 ###### ARTICULO 3o.
 
@@ -1024,7 +1036,7 @@ X.- Se trate de la prestación de servicios de aseguramiento, mantenimiento, con
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XI.- Se trate de adquisiciones provenientes de personas físicas o morales que, sin ser proveedores habituales y en razón de encontrarse en estado de liquidación o disolución o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables; y
+XI.- Se trate de adquisiciones provenientes de personas físicas o morales que, sin ser proveedores habituales y en razón de encontrarse en estado de liquidación o disolución o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables; y (sic)
 
 XII.- Se trate de Servicios profesionales prestados por personas físicas;
 
@@ -1042,7 +1054,15 @@ XV.- Medicamentos y equipo especial para los hospitales, clínicas o necesarios 
 
 > <small>(ADICIONADA, G.O. 17 DE MAYO DE 2004)</small>
 
-XVI.- Bienes o servicios cuyo costo esté sujeto a precio oficial y en la contratación no exista un gasto adicional para la Administración Pública del Distrito Federal; y
+XVI.- Bienes o servicios cuyo costo esté sujeto a precio oficial y en la contratación no exista un gasto adicional para la Administración Pública del Distrito Federal; y (sic)
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XVII. El objeto del contrato sea para la prestación de servicios o adquisición de bienes que conlleven innovaciones tecnológicas, siempre que se garantice la transferencia de tecnología en favor de la Ciudad y/o se promueva la inversión y/o la generación de empleos permanentes, ya sean directos o indirectos en el Distrito Federal. En estos casos se podrán asignar contratos multianuales debidamente detallados; y
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+XVIII. La adquisición o prestación de servicios se destinen a actividades directamente vinculadas al desarrollo de la investigación científica y tecnológica; realización de proyectos específicos de investigación científica y modernización, innovación y desarrollos tecnológicos, divulgación de la ciencia y la tecnología; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación.
 
 > <small>(ADICIONADO, G.O. 17 DE MAYO DE 2004)</small>
 
@@ -1181,6 +1201,10 @@ En caso de que un contrato anual, se requiera prorrogar mas allá del ejercicio 
 > <small>(ADICIONADO, G.O. 17 DE MAYO DE 2004)</small>
 
 Para los casos de contratos de adjudicaciones consolidadas, se podrán aumentar y/o disminuir sin limitación alguna las cantidades de bienes o servicios originalmente pactados, cuando otras dependencias, órganos desconcentrados, delegaciones o entidades, se encuentren interesadas en adquirir o contratar los mismos bienes o servicios.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+
+ARTICULO 65 bis.- El Distrito Federal podrá constituir los mecanismos y estructuras financieras que se requieran para otorgar Garantías de Pago al Proveedor, cuando se considere necesario para la viabilidad de un Proyecto de Prestación de Servicios a Largo Plazo, en términos de lo dispuesto por el artículo 7 del Código Financiero del Distrito Federal.
 
 ###### ARTICULO 66.
 
@@ -1485,3 +1509,7 @@ Artículo Segundo.- Se derogan todas las disposiciones legales, administrativas 
 Los procedimientos de adquisiciones iniciados con anterioridad a la entrada en vigor de las presentes reformas, atenderán hasta su total conclusión a la Ley en el momento de su inicio.
 
 Artículo Tercero.- El Jefe de Gobierno sesionará de manera conjunta con sus Gabinetes de Desarrollo Económico Sustentable y de Educación, Cultura y Ciencia y Tecnología; por lo menos dos veces por año fiscal.
+
+G.O. 15 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
