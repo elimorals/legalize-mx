@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-gobierno-25901"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-11"
-last_updated: "2002-09-11"
+last_updated: "2008-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 11 de septiembre de 2002.
 
@@ -71,7 +71,7 @@ XIII. Dirección del Trabajo y Previsión Social;
 
 XIV. Dirección del Registro del Estado Civil;
 
-XV. Dirección del Autotransporte;
+XV. (ABROGADA, POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE, P.O. 15 DE SEPTIEMBRE DE 2008)
 
 XVI. Dirección de Programación y Desarrollo;
 
@@ -527,21 +527,7 @@ IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así
 
 ###### Artículo 21.
 
-La Dirección de Autotransporte tendrá las siguientes atribuciones:
-
-I. Dirigir y coordinar la política en materia del servicio público de transporte, de pasajeros, carga o mixto, cuya prestación requiera del previo otorgamiento de una concesión o permiso por parte del Ejecutivo del Estado;
-
-II. Vigilar que el cumplimiento de la prestación del servicio público de transporte se realice conforme a las condiciones señaladas en las respectivas concesiones o permisos;
-
-III. Realizar los estudios técnicos y económicos que procedan para el otorgamiento de concesiones y permisos, así como para la determinación de rutas, itinerarios, tarifas, horarios, territorios de operación y mejoramiento continuo del servicio público de transporte;
-
-IV. Integrar estadísticas y recabar la información necesaria para evaluar la prestación de los servicios públicos de transporte;
-
-V. Elaborar programas específicos, de corto y mediano plazo, para mejorar la cobertura de los servicios públicos de transporte;
-
-VI. Gestionar y promover apoyos financieros para la modernización del transporte urbano; y
-
-VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como las que le confiera el titular del Ramo.
+(ABROGADO, POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE, P.O. 15 DE SEPTIEMBRE DE 2008)
 
 ### Capítulo XVI. De las Atribuciones Específicas de la Dirección de Programación y Desarrollo
 
@@ -680,3 +666,19 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al presente Reglamento.
 
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la ciudad de Campeche, Municipio y Estado del mismo nombre, Estados Unidos Mexicanos, a los dos días del mes de septiembre del año dos mil dos.- L.A. José; Antonio González Curi, Gobernador Constitucional del Estado.- Lic. Carlos Felipe Ortega Rubio, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2008.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abrogan la fracción XV del artículo 2 y el artículo 21 del Reglamento Interior de la Secretaría de Gobierno de la Administración Pública del Estado de Campeche, quedando suprimida la Dirección del Autotransporte, y derogan todas las disposiciones reglamentarias y administrativas expedidas por el Ejecutivo del Estado en lo que se opongan a este Reglamento.
+
+Tercero.- El personal de base y de confianza adscrito a la Dirección que se suprime, al entrar en vigor este Reglamento, pasará a formar parte de la plantilla laboral del Instituto Estatal del Transporte, con estricto respeto a los derechos laborales adquiridos.
+
+Cuarto.- Los recursos materiales y financieros asignados a la Dirección que se suprime, al entrar en vigor el presente Reglamento, pasarán a formar parte del Instituto Estatal del Transporte; al igual que los expedientes y demás documentos que obran en los archivos de esa Dirección.
+
+Quinto.- Los asuntos en trámite ante la Dirección del Autotransporte que, a la entrada en vigor de este Reglamento, se encuentran inconclusos o abandonados, se concluirán en la forma prevista en la Ley y este Reglamento.
+
+Sexto.- Todo lo no previsto en este Reglamento quedará sujeto al acuerdo que respecto a cada caso, emita el Consejo.
