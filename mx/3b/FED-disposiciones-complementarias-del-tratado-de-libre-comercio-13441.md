@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2008-08-04"
+last_updated: "2008-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,33 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES A LAS REGLAS DE PROCEDIMIENTO DEL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en la Primera Sección del diario Oficial de la Federación, el lunes 4 de agosto de 2008.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 15 de septiembre de 2008.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comunicaciones y Transportes.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL JUEVES 30 DE AGOSTO DE 2007.
-
-HUMBERTO TREVIÑO LANDOIS, Subsecretario de Transporte de la Secretaría de Comunicaciones y Transportes, con fundamento en los artículos 36 fracciones I, IX, XII y XXVII de la Ley Orgánica de la Administración Pública Federal; 1o., 5, fracciones I, III y IV, 12 y 59 de la Ley de Caminos, Puentes y Autotransporte Federal; el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 20 de diciembre de 1993; 1o., 3o., 7o., 9o. y 17 del Reglamento de Autotransporte Federal y Servicios Auxiliares; 1o., 3o., 6o., fracciones IX y XVII, y 19 del Reglamento Interior de la Secretaría de Comunicaciones y Transportes, y
+GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 1904 del Tratado de Libre Comercio de América del Norte; 34 fracción XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) ha constituido un instrumento para fomentar el intercambio comercial entre México y Estados Unidos de América, que en su gran mayoría es transportado por carretera.
+Que el 17 de diciembre de 1992 los Gobiernos de México, Canadá y los Estados Unidos de América suscribieron el Tratado de Libre Comercio de América del Norte (TLCAN), mismo que fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre de ese mismo año, y que entró en vigor el 1 de enero de 1994;
 
-Que el 30 de agosto de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se crea la modalidad temporal del servicio de autotransporte transfronterizo de carga internacional entre los Estados Unidos Mexicanos y los Estados Unidos de América, por medio del cual se establecieron las bases para el inicio del Programa Demostrativo del servicio de autotransporte transfronterizo de carga internacional, hacia y desde ambos países.
+Que el artículo 1904, párrafo primero del TLCAN dispone que la revisión que lleve a cabo un panel binacional establecido conforme a dicho artículo reemplazará la revisión judicial interna de las resoluciones definitivas sobre cuotas antidumping y compensatorias;
 
-Que el Programa Demostrativo ha permitido adquirir experiencia recíproca en la prestación del servicio de autotransporte transfronterizo, de carga internacional, aclarar los procedimientos de apertura y operación fronteriza y facilitar tanto a cada gobierno como a los transportistas, la evaluación objetiva del Programa en su conjunto, en cumplimiento de la reglamentación de cada país, con acceso real y equitativo a los mercados.
+Que el artículo 1904, párrafo catorce del TLCAN establece que las Partes adoptarán reglas de procedimiento que regularán el proceso de revisión que lleva a cabo un panel binacional;
 
-Que para conservar las ventajas competitivas respecto a otras regiones del mundo, es necesario continuar con los esfuerzos de cada una de las naciones participantes para seguir promoviendo e incentivando el intercambio comercial.
+Que el 20 de junio de 1994 la Secretaría de Comercio y Fomento Industrial (hoy Secretaría de Economía) publicó en el Diario Oficial de la Federación las Reglas de Procedimiento del artículo 1904 y las Reglas de Procedimiento del Comité de Impugnación Extraordinaria del Tratado de Libre Comercio de América del Norte;
 
-Con base en las anteriores consideraciones, he tenido a bien emitir el siguiente:
+Que el 20 de marzo de 1996 la entonces Secretaría de Comercio y Fomento Industrial publicó en el Diario Oficial de la Federación aclaraciones a las Reglas de Procedimiento del artículo 1904 y a las Reglas de Procedimiento del Comité de Impugnación Extraordinaria del Tratado de Libre Comercio de América del Norte;
 
-ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA
+Que el artículo 2001 del TLCAN estableció la Comisión de Libre Comercio como un órgano integrado por representantes de cada Parte a nivel de Secretaría de Estado, encargado de supervisar la puesta en práctica del tratado, vigilar su ulterior desarrollo y adoptar cualquier acción para el ejercicio de sus funciones según acuerden las Partes;
+
+Que la Comisión de Libre Comercio del TLCAN adoptó, mediante intercambio de cartas efectuado entre las Partes el 28 de febrero de 2008, modificaciones a las Reglas de Procedimiento del artículo 1904 del TLCAN, acordando que éstas entrarán en vigor a partir de su publicación en los respectivos medios oficiales de cada Parte, y
+
+Que a fin de dar cumplimiento a la decisión de la Comisión de Libre Comercio del TLCAN, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES A LAS REGLAS DE PROCEDIMIENTO DEL ARTICULO 1904 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
 ###### ARTICULO UNICO.
 
@@ -220,319 +224,283 @@ En caso de que el solicitante se encuentre en el supuesto señalado en el párra
 
 ###### ARTICULO 1.
 
-Se modifica el Artículo Primero del Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Portland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América, publicado en el Diario Oficial de la Federación el 29 de marzo de 2006 (Acuerdo por el que se da a conocer el cupo máximo publicado en 2006), para quedar como sigue:
+Se reforman las definiciones: "Autorización de Acceso a la Información Confidencial", "información privilegiada", "lista para efectos de notificación" y "Solicitud de Acceso a la Información Confidencial; se adiciona la definición "CBSA President", y se deroga la definición "Deputy Minister" en la Regla 3 de las Reglas de Procedimiento del artículo 1904 del Tratado de Libre Comercio de América del Norte (Reglas de Procedimiento), publicadas en el Diario Oficial de la Federación el 20 de junio de 1994, y su aclaración, dada a conocer en el mismo medio informativo el 20 de marzo de 1996, para quedar como siguen:
 
-“ARTICULO PRIMERO.-
+"3. Para los efectos de estas Reglas,
 
-I. El cupo máximo anual para exportar cemento gris portland y cemento clinker a los Estados Unidos de América durante el tercer periodo anual, mismo que comprende del primer día hábil de abril de 2008 al último día hábil de marzo de 2009 (en adelante, tercer periodo anual), es el que se determina a continuación:
+autoridad investigadora significa la autoridad investigadora competente que dictó la resolución definitiva sujeta a revisión e incluye, para efectos de la publicación, modificación o revocación de una Autorización de Acceso a la Información Confidencial, a cualquier persona autorizada por dicha autoridad;
 
-CUADRO 1
+Autorización de Acceso a la Información Confidencial significa:
 
-(VEASE ARCHIVO ANEXO)
+(a) en el caso de México, una autorización de acceso expedida por la Secretaría de Economía conforme a la Solicitud de Acceso a la Información Confidencial,
 
-II. De conformidad con el párrafo III.A.4 del Acuerdo sobre Comercio de Cemento, la Secretaría de Economía, a solicitud de cualquier Productor de Cemento Mexicano que haya obtenido asignación de cupo, podrá trasladar al tercer periodo anual hasta el 8 por ciento del cupo previsto en el cuadro 1 Bis siguiente para cada subregión, excepto en el caso de la subregión II (Arizona), en donde el porcentaje del cupo que podrá trasladarse al tercer periodo anual podrá ser de hasta 5 por ciento.
+(b) en el caso de Canadá, una autorización de acceso expedida por el CBSA President o por el Tribunal conforme a la Solicitud de Acceso a la Información Confidencial, y
 
-CUADRO 1 Bis
+(c) en el caso de Estados Unidos, una Orden de Protección expedida por la International Trade Administration del Departamento de Comercio o por la International Trade Commission conforme a la Solicitud de Acceso a la Información Confidencial;
 
-(VEASE ARCHIVO ANEXO)
+CBSA President significa el Presidente de la Canada Border Services Agency designado conforme a la subsección 7(1) del Canada Border Services Agency Act, o su sucesor, e incluye cualquier persona autorizada para ejercer sus facultades, atribuciones o funciones como CBSA President, de conformidad con el Special Import Measures Act, con sus modificaciones;
 
-III. De conformidad con lo previsto en el párrafo II.A.3. del Acuerdo sobre Comercio de Cemento sólo se asignará el cupo adicional que se describe en el Cuadro 2, en respuesta a una declaración de estado de emergencia como resultado de un desastre en los Estados Unidos de América, siempre que el Departamento de Comercio de dicho país y la Secretaría de Economía así lo determinen. Los criterios de asignación de este cupo adicional se realizarán de conformidad con el artículo cuarto del Acuerdo publicado en el Diario Oficial de la Federación el 29 de marzo de 2006.
+Código de Conducta significa el Código de Conducta establecido por las Partes conforme al artículo 1909 del Tratado;
 
-CUADRO 2 - Cupo adicional
+comprobante de notificación significa:
 
-(VEASE ARCHIVO ANEXO)
+(a) respecto a la revisión ante un panel de una resolución definitiva dictada en México o en Canadá,
+
+(i) un testimonio en que conste el nombre de la persona que notificó el documento y la fecha, lugar y forma de la notificación, o
+
+(ii) un reconocimiento de notificación por el representante de un participante en que conste el nombre de la persona que notificó el documento y la fecha y forma de la notificación y, cuando el reconocimiento lo firme una persona distinta del representante, el nombre de esa persona acompañado por una declaración indicando que firma en nombre de dicho representante,
+
+(b) respecto a la revisión ante un panel de una resolución definitiva dictada en Estados Unidos, un certificado de notificación en forma de declaración firmada por la persona que realizó la notificación y en la que se indique la fecha y forma de la notificación y el nombre de la persona a quien se realizó la notificación;
+
+demandante significa la Parte o persona interesada que presenta una reclamación de conformidad con la regla 39;
+
+Deputy Minister (Se deroga).
+
+días inhábiles significa:
+
+(a) respecto a la sección mexicana del Secretariado, los sábados y domingos, año nuevo (1 de enero), el
+
+día de la Constitución (5 de febrero), el natalicio de Benito Juárez (21 de marzo), el día del trabajo (1 de mayo), el día de la batalla de Puebla (5 de mayo), el día de la Independencia (16 de septiembre), el día de inicio del segundo período de sesiones del Congreso de la Unión (1 de noviembre), el día de la Revolución (20 de noviembre), el día de la transmisión del Poder Ejecutivo Federal (1 de diciembre de cada seis años), Navidad (25 de diciembre), cualquier otro día designado como inhábil por las leyes federales o, en el caso de elecciones ordinarias, por las leyes electorales locales y cualquier día en que las oficinas de la sección mexicana del Secretariado se encuentren total o parcialmente cerradas de manera oficial,
+
+(b) respecto a la sección canadiense del Secretariado, los sábados y domingos, año nuevo (1 de enero), el viernes santo, el lunes de Pascua, el día de Victoria, el día de Canadá (1 de julio), el día del trabajo (primer lunes de septiembre), el día de acción de gracias (segundo lunes de octubre), Remembrance Day (11 de noviembre), Navidad (25 de diciembre), Boxing Day (26 de diciembre), cualquier otro día designado como inhábil por el gobierno de Canadá o por la provincia en que esté establecida la sección canadiense del Secretariado y cualquier día en que las oficinas de dicha sección se encuentren total o parcialmente cerradas de manera oficial, y
+
+(c) respecto a la sección del Secretariado de Estados Unidos, los sábados y domingos, año nuevo (1 de enero), el día del natalicio de Martin Luther King (tercer lunes de enero), el día del Presidente (tercer lunes de febrero), Memorial Day (último lunes de mayo), el día de la Independencia (4 de julio), el día del trabajo (primer lunes de septiembre), el día de Colón (segundo lunes de octubre), el día de los veteranos (11 de noviembre), el día de acción de gracias (cuarto jueves de noviembre), Navidad (25 de diciembre), cualquier día designado como inhábil por el Presidente o el Congreso de Estados Unidos y cualquier día en que las oficinas del gobierno de Estados Unidos, ubicadas en el Distrito de Columbia o las oficinas de la sección del Secretariado de Estados Unidos, se encuentren total o parcialmente cerradas de manera oficial;
+
+domicilio para oír y recibir notificaciones significa:
+
+(a) respecto de las Partes, el domicilio comunicado al Secretariado como domicilio para oír y recibir notificaciones, incluyendo el número de facsímil incluido en dicha comunicación,
+
+(b) respecto de un participante distinto de las Partes, el domicilio de su representante legal acreditado, incluyendo el número de facsímil incluido en ese domicilio o, cuando no esté representado, el que señale para oír y recibir notificaciones en la Solicitud de Revisión ante un Panel, en la Reclamación o en el Aviso de Comparecencia, incluyendo el número de facsímil incluido con dicho domicilio, o
+
+(c) cuando una Parte o participante ha comunicado un cambio de domicilio para oír y recibir notificaciones, el nuevo domicilio señalado en el formulario correspondiente, incluyendo cualquier número de facsímil incluido con dicho domicilio;
+
+Estados Unidos significa los Estados Unidos de América;
+
+información confidencial significa:
+
+(a) respecto a la revisión ante un panel de una resolución definitiva dictada en México, la información confidencial de conformidad con el artículo 80 de la Ley de Comercio Exterior y su reglamento,
+
+(b) respecto a la revisión ante un panel de una resolución definitiva dictada en Canadá, la información referida en la subsección 84(3) del Special Import Measures Act, con sus reformas, o en la subsección 45(3) del Canadian International Trade Tribunal Act, siempre que quien la designe o someta no retire su afirmación de que la información es confidencial, y
+
+(c) respecto a la revisión ante un panel de una resolución definitiva dictada en Estados Unidos, la información confidencial de negocios conforme a lo dispuesto en la sección 777(f) del Tariff Act de 1930 con sus reformas, y por sus reglamentos;
+
+información gubernamental significa:
+
+(a) respecto a la revisión ante un panel de una resolución definitiva dictada en México, información cuya divulgación esté prohibida conforme a las leyes y reglamentos mexicanos, incluyendo:
+
+(i) los datos, estadísticas y documentos relativos a la seguridad nacional y a las actividades estratégicas para el desarrollo científico y tecnológico, y
+
+(ii) la información contenida en la correspondencia de gobierno a gobierno transmitida de manera confidencial,
+
+(b) respecto a la revisión ante un panel de una resolución definitiva dictada en Canadá:
+
+(i) información cuya divulgación perjudique las relaciones internacionales o la defensa o seguridad nacionales,
+
+(ii) información reservada del Queen's Privy Council de Canadá, o
+
+(iii) información contenida en correspondencia de gobierno a gobierno transmitida de manera confidencial, y
+
+(c) respecto a la revisión ante un panel de una resolución definitiva dictada en Estados Unidos, la información clasificada de acuerdo a la Orden Ejecutiva Número 12065 o su sucesora;
+
+información privilegiada significa:
+
+(a) respecto a la revisión ante un panel de una resolución definitiva dictada en México,
+
+(i) la información de que dispone la autoridad investigadora que esté sujeta al privilegio de confidencialidad inherente a la relación cliente-abogado, de acuerdo con las leyes de México,
+
+(ii) las comunicaciones internas entre los funcionarios de la Secretaría de Economía encargados de las investigaciones antidumping o en materia de subsidios, y las comunicaciones entre dichos funcionarios y otros funcionarios públicos intercambiadas durante el proceso de deliberación para la resolución definitiva,
+
+(b) respecto a la revisión ante un panel de una resolución definitiva dictada en Canadá, la información de que dispone la autoridad investigadora sujeta al privilegio de confidencialidad inherente a la relación cliente-abogado o intercambiada durante el proceso de deliberación para la resolución definitiva, siempre que no exista renuncia a dicho privilegio, y
+
+(c) respecto a la revisión ante un panel de una resolución definitiva dictada en Estados Unidos, la información de que dispone la autoridad investigadora sujeta al privilegio de confidencialidad inherente a la relación cliente-abogado, al privilegio de confidencialidad respecto del trabajo del abogado o al privilegio de confidencialidad del proceso gubernamental de deliberación, de acuerdo con las Leyes de los Estados Unidos, siempre que no exista renuncia a dicho privilegio;
+
+lista para efectos de notificación significa, tratándose de la revisión ante un panel:
+
+(a) de una resolución definitiva dictada en México o Estados Unidos, la lista que la autoridad investigadora mantenga de quienes fueron notificados durante el procedimiento del que resultó la resolución definitiva, y
+
+(b) de una resolución definitiva dictada en Canadá, una lista que incluya a la otra Parte implicada:
+
+(i) si la resolución definitiva fue dictada por el CBSA President, las personas incluidas en la lista que este último mantenga de quienes participaron en el procedimiento ante él y que hayan sido exportadores o importadores de bienes del país de la otra Parte implicada, o los reclamantes a que se refiere la sección 34 del Special Import Measures Act, con sus reformas y
+
+(ii) si la resolución definitiva fue dictada por el Tribunal, las personas incluidas en la lista que este último mantenga de quienes participaron en el procedimiento ante él y que hayan sido exportadores o importadores de bienes del país de la otra Parte implicada, los reclamantes a que se refiere la sección 31 del Special Import Measures Act, con sus reformas, u otros nacionales con interés en el resultado del procedimiento respecto de los bienes del país de la otra Parte implicada;
+
+México significa los Estados Unidos Mexicanos;
+
+panel significa el panel binacional establecido conforme al Anexo 1901.2 al Capítulo XIX del Tratado para efectos de la revisión de una resolución definitiva;
+
+Parte significa el Gobierno de México, el Gobierno de Canadá o el Gobierno de Estados Unidos;
+
+participante significa cualquiera de las siguientes personas cuando presenta una Reclamación conforme a la regla 39 o un Aviso de Comparecencia conforme a la regla 40:
+
+(a) una Parte,
+
+(b) una autoridad investigadora, y
+
+(c) una persona interesada;
+
+persona significa:
+
+(a) un individuo,
+
+(b) una Parte,
+
+(c) una autoridad investigadora,
+
+(d) el gobierno de una provincia, estado u otra subdivisión política del país de la Parte,
+
+(e) un departamento, dependencia o entidad de una Parte o de un gobierno mencionada en el inciso (d), o
+
+(f) una sociedad o asociación;
+
+persona interesada significa la persona que, conforme a las leyes del país en que se dictó la resolución definitiva, está legitimada para comparecer y ser representada en el procedimiento de revisión judicial de dicha resolución;
+
+primera Solicitud de Revisión ante un Panel significa:
+
+(a) la solicitud ante un panel para la revisión de una resolución definitiva, cuando sólo se presente esa solicitud, y
+
+(b) cuando exista más de una Solicitud de Revisión ante un Panel en relación con la misma resolución definitiva, la primera que se presente;
+
+promoción significa una Solicitud de Revisión ante un Panel, una Reclamación, un Aviso de Comparecencia, un escrito de Cambio de Domicilio para Oír y Recibir Notificaciones, una petición incidental, una Notificación de Cambio de Representante Legal Acreditado, un memorial o cualquier otra comunicación por escrito presentada por un participante;
+
+publicación oficial significa:
+
+(a) en el caso de México, el Diario Oficial de la Federación,
+
+(b) en el caso de Canadá, el Canada Gazette, y
+
+(c) en el caso de Estados Unidos, el Federal Register;
+
+representante significa:
+
+(a) respecto a la revisión ante un panel de una resolución definitiva dictada en México, la persona legitimada para comparecer como representante ante el Tribunal Fiscal de la Federación,
+
+(b) respecto a la revisión ante un panel de una resolución definitiva dictada en Canadá, la persona legitimada para comparecer como representante ante la Corte Federal de Canadá, y
+
+(c) respecto a la revisión ante un panel de una resolución definitiva dictada en Estados Unidos, la persona legitimada para comparecer como representante ante una corte federal en Estados Unidos;
+
+representante legal acreditado significa el representante a que se refiere la regla 21(1);
+
+resolución definitiva significa, para Canadá, una decisión definitiva en el sentido de la subsección 77.01(1) del Special Import Measures Act, con sus reformas;
+
+Secretariado significa el Secretariado establecido de conformidad con el Artículo 2002 del Tratado;
+
+Secretariado implicado significa la sección del Secretariado ubicada en el país de una Parte implicada;
+
+Secretariado responsable significa la sección del Secretariado ubicada en el país en el cual fue dictada la resolución definitiva impugnada;
+
+Secretario significa el Secretario de la sección mexicana del Secretariado, el Secretario de la sección canadiense del Secretariado o el Secretario de la sección estadounidense del Secretariado, e incluye a cualquier persona autorizada para actuar en nombre de ese Secretario;
+
+Secretario responsable significa el Secretario del Secretariado responsable;
+
+Solicitud de Acceso a la Información Confidencial significa:
+
+(a) respecto a la revisión ante un panel de una resolución definitiva dictada en México, la solicitud de acceso comprendida en el formulario correspondiente disponible en la Secretaría de Economía,
+
+(b) respecto a la revisión ante un panel de una resolución definitiva dictada en Canadá, el formulario correspondiente puesto a disposición del público,
+
+(i) por el CBSA President respecto de una resolución definitiva dictada por él, y
+
+(ii) por el Tribunal respecto de una resolución definitiva dictada por él, y
+
+(c) respecto a la revisión ante un panel de una resolución definitiva dictada en Estados Unidos, una Solicitud de Orden de Protección,
+
+(i) en el formulario correspondiente puesto a disposición del público por la International Trade Administration del Departamento de Comercio, respecto de una resolución definitiva dictada por ella, y
+
+(ii) en el formulario correspondiente puesto a disposición del público por la International Trade Commission, respecto de una resolución definitiva dictada por ella;
+
+Tratado significa el Tratado de Libre Comercio de América del Norte; y
+
+Tribunal significa el Canadian International Trade Tribunal o su sucesor e incluye a cualquier persona autorizada para actuar en su nombre."
 
 ###### ARTICULO 2.
 
-Se modifica el Artículo Tercero del Acuerdo por el que se da a conocer el cupo máximo publicado en 2006 para quedar como sigue:
+Se reforma el párrafo (1) y se adiciona un párrafo (2) a la Regla 11 de las Reglas de Procedimiento, para quedar como sigue:
 
-“ARTICULO TERCERO.- Podrán solicitar asignación del cupo a que se refiere el cuadro 1 del artículo primero del presente Acuerdo, los productores de cemento establecidos en los Estados Unidos Mexicanos.
+"11. (1) El Secretario responsable deberá proporcionar al otro Secretario implicado todas las órdenes y decisiones del panel. El Secretario responsable también deberá proporcionar al otro Secretario implicado una copia de todos los documentos presentados ante su oficina durante la revisión, que no estén claramente marcados como información privilegiada o confidencial conforme a las reglas 44(2) y 56(1)(a).
 
-I. Para los efectos del presente Acuerdo se considerará:
+(2) Si un Secretariado implicado solicita por escrito al Secretario responsable cualquier documento privilegiado o confidencial, el Secretario responsable deberá proporcionar dicha documentación sin demora".
 
-i) Productores de Cemento Mexicano de conformidad con el párrafo I.R del Acuerdo sobre Comercio de Cemento, a CEMEX México, S.A. de C.V. (“CEMEX”), GCC Cemento, S.A. de C.V. (y la empresa que le precedió, Cementos de Chihuahua S.A. de C.V.), Holcim Apasco, S.A. de C.V., Cooperativa Cruz Azul, S.C.L., Cementos Moctezuma, S.A. de C.V. y Lafarge Cementos, S.A.;
+###### ARTICULO 3.
 
-ii) Exportadores tradicionales a las personas morales, Productores de Cemento Mexicano según se definen en el parágrafe i) anterior, que hayan efectuado exportaciones de cemento gris portland o clinker superiores a una tonelada métrica a los Estados Unidos de América por año durante el periodo 2001-2005 (contados desde enero a diciembre).
+Se reforma el párrafo (1) de la Regla 13 de las Reglas de Procedimiento, para quedar como sigue:
 
-iii) Exportadores nuevos a las personas morales, Productores de Cemento Mexicano según se definen en el parágrafe i) anterior, que no hayan efectuado exportaciones de cemento gris portland y cemento clinker a los Estados Unidos de América o que éstas hayan resultado iguales o inferiores a una tonelada métrica por año durante el periodo 2001-2005 (contados de enero a diciembre).
+"13. (1) Antes de asumir sus cargos, el Secretario y todos los miembros del personal del Secretariado deberán presentar una Solicitud de Acceso a la Información Confidencial al CBSA President, al Tribunal, a la Secretaría de Economía, al International Trade Administration del Departamento de Comercio de Estados Unidos y al International Trade Commission de Estados Unidos.
 
-II. En el tercer periodo anual, las asignaciones del cupo establecido para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas) se realizarán de la siguiente forma: primer subperiodo del 1 de abril al 30 de septiembre de 2008 y segundo del 1 de octubre de 2008 al 31 de marzo de 2009. En lo que se refiere a las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos) la asignación se realizará para todo el periodo anual.
+(2) Una vez cumplido el requisito a que se refiere el párrafo anterior, la autoridad investigadora correspondiente deberá emitir al Secretario o al miembro respectivo del personal del Secretariado, una Autorización de Acceso a la Información Confidencial".
 
-III. La asignación la realizará la Dirección General de Comercio Exterior, conforme a los siguientes criterios:
+###### ARTICULO 4.
 
-i) Exportadores tradicionales: 94% del cupo como sigue:
+Se adiciona un párrafo (3) a la Regla 21 de las Reglas de Procedimiento, para quedar como sigue:
 
-Los montos máximos globales disponibles para cada subregión de asignación a los exportadores tradicionales serán los siguientes:
+"21. (1) Quien, a nombre de un participante, firme un documento presentado de acuerdo con estas Reglas será su representante legal acreditado desde esa fecha y hasta que surta efectos un cambio realizado de conformidad con el párrafo (2).
 
-CUADRO 3
+(2) Cualquier participante podrá cambiar a su representante legal acreditado, previa presentación ante el Secretariado responsable de una Notificación de Cambio de Representante Legal Acreditado firmada por el nuevo representante y notificada al representante anterior y a los otros participantes.
 
-(VEASE ARCHIVO ANEXO)
+(3) Un participante distinto a un individuo debe ser representado por un representante legal acreditado".
 
-Los montos máximos disponibles para las siguientes subregiones no asignados bajo el criterio anterior se asignarán a prorrata a los exportadores tradicionales, considerando las exportaciones totales efectuadas por dichas empresas a los Estados Unidos de América:
+###### ARTICULO 5.
 
-CUADRO 4
+Se reforma el párrafo (1) de la Regla 22 de las Reglas de Procedimiento, para quedar como sigue:
 
-(VEASE ARCHIVO ANEXO)
+"22. (1) Sin perjuicio de lo establecido en las reglas 46(1), 47, 50(1), 52(3) y 73(2)(a), no se considerará presentado ante el Secretariado responsable un documento, hasta que éste reciba el original y ocho copias del documento en horas hábiles y dentro del plazo fijado para su presentación.
 
-Para efectos de asignación, los antecedentes de exportación a los Estados Unidos de América de cemento mexicano clasificado en las fracciones arancelarias 2523.10.01 y 2523.29.99 corresponderán a los últimos cinco años previos al periodo anual de exportación de que se trate, a partir de lo siguiente: i) Para el periodo 2002-2005 y enero-marzo de 2006 las cifras de exportaciones se determinarán conforme a los antecedentes de exportación por subregión determinados para las asignaciones a exportadores tradicionales correspondientes al primer periodo anual de exportación y, ii) para el periodo abril de 2006 en adelante las cifras de exportaciones se determinarán con base en la utilización de los permisos de exportación emitidos por aduana de salida y subregión de destino.
+(2) Corresponde al Secretariado responsable admitir y sellar con fecha y hora de recepción todos los documentos que le sean presentados, debiendo además archivarlos en el expediente apropiado.
 
-ii) Nuevos Exportadores: 6% del cupo como sigue:
+(3) La recepción y sello de un documento o su archivo en el expediente apropiado por el Secretariado responsable no constituyen una renuncia a la aplicación del plazo fijado para su presentación ni un reconocimiento de que el documento ha sido presentado de conformidad con estas Reglas".
 
-El monto máximo global anual disponible para nuevos exportadores será de 179,146.26 toneladas distribuidas como se indica en el siguiente cuadro.
+###### ARTICULO 6.
 
-CUADRO 5
+Se reforma el párrafo (1) de la Regla 50 de las Reglas de Procedimiento, para quedar como sigue:
 
-(VEASE ARCHIVO ANEXO)
+"50. (1) Corresponde a la persona que obtenga una Autorización de Acceso a la Información Confidencial de conformidad con las disposiciones de la autoridad investigadora, presentar copia de ella al Secretariado responsable.
 
-a) Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas):
+(2) En el supuesto de revocación o modificación de una Autorización de Acceso a la Información Confidencial por la autoridad investigadora, corresponderá a esta última notificar al Secretariado responsable y a todos los participantes el Aviso de Revocación o Modificación".
 
-1. Primera asignación para ser ejercida en el primer subperiodo del 1 de abril al 30 de septiembre de 2008, el 60% del cupo de cada subregión destinado a nuevos exportadores se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+###### ARTICULO 7.
 
-2. Segunda asignación para ser ejercida en el segundo subperiodo del 1 de octubre de 2008 al 31 de marzo del 2009, el 40% del cupo de cada subregión destinado a nuevos exportadores se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+Se adiciona un párrafo (3) a la Regla 71 de las Reglas de Procedimiento, para quedar como sigue:
 
-b) Para las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos de América) en la asignación para ser ejercida entre el 1 de abril de 2008 y el 31 de marzo de 2009, el 100% del cupo de cada una de estas dos subregiones destinado a nuevos exportadores, se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+"71. (1) El panel podrá, a petición incidental de algún participante, dictar una orden desechando el procedimiento de revisión.
 
-IV. Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), la Secretaría de Economía se asegurará, durante la vigencia del presente Acuerdo, de no otorgar asignaciones, en cada subperiodo, a exportadores tradicionales y a nuevos exportadores, superiores al 60% del cupo total anual que corresponda a determinada subregión. La base para calcular el límite del 60% a que hace referencia este artículo, será el cuadro 1 del artículo primero de este ordenamiento, antes de que se lleve a cabo cualquier ajuste de trasladar al tercer periodo anual un porcentaje determinado del cupo anual anterior conforme a lo previsto en el presente Acuerdo.
+(2) El procedimiento de revisión ante el panel concluye cuando algún participante presente una petición incidental de terminación de la revisión y obre en autos testimonio de la concurrencia de todos los participantes, o cuando todos los participantes presenten sendas Peticiones Incidentales solicitando dicha terminación. Si el panel ha sido designado, los panelistas quedarán liberados de su encargo.
 
-V. Los exportadores tradicionales y los nuevos exportadores únicamente podrán solicitar asignación inicial como sigue:
-
-i) Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas):
-
-a) Para el primer subperiodo, desde el primer día hábil de abril hasta el último día hábil de mayo de 2008.
-
-b) Para el segundo subperiodo, desde el primer día hábil de octubre hasta el último día hábil de noviembre de 2008.
-
-ii) Para las subregiones I (Alabama/Mississippi) y VIII (Resto de Estados Unidos de América), desde el primer día hábil de abril hasta el último día hábil de julio de 2008.
-
-VI. Si durante la vigencia del cupo un beneficiario no lo utiliza, podrá devolverlo mediante escrito libre ante la Representación Federal de la Secretaría de Economía que le notificó su asignación.
-
-VII. Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), el saldo no ejercido del cupo asignado a cada beneficiario para el primer subperiodo que no haya sido devuelto, podrá ser reasignado al mismo beneficiario en el segundo subperiodo, siempre que el monto a asignar al beneficiario para el segundo subperiodo no sea superior al 60% del cupo total anual que le corresponda para una región determinada.
-
-VIII. Ampliaciones.
-
-i) Para el primer subperiodo de las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), si al 1 de junio de 2008, existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este subperiodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este subperiodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de junio hasta el día hábil inmediato anterior al 15 de septiembre de 2008. En el entendido que el plazo de resolución de la Secretaría será como máximo de 7 días hábiles.
-
-ii) Para el segundo subperiodo de las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), si al 1 de diciembre de 2008 existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este subperiodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este subperiodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil del mes de diciembre hasta el último día hábil del mes de diciembre de 2008. Para este subperiodo, se adicionará el saldo no asignado o no utilizado en el primer subperiodo.
-
-iii) Para el periodo anual de las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos de América), si al 1 de agosto de 2008, existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este periodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este periodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de agosto de 2008 hasta el último día hábil del mes de diciembre de 2008.
-
-iv) Si al primer día hábil de enero de 2009 y después de aplicar lo establecido en los parágrafes i), ii) y iii) anteriores, existe saldo sin asignar, éste se asignará a cualquier Productor de Cemento Mexicano a cualquier subregión, bajo la modalidad de primero en tiempo, primero en derecho con base en el día en que se presente la solicitud. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de enero de 2009 hasta el día hábil inmediato anterior al 15 de marzo de 2009 en la Representación Federal de la Secretaría que corresponda.
-
-La asignación por subregión se realizará conforme a lo siguiente:
-
-(1) En caso que la suma de los volúmenes solicitados sea menor o igual al volumen disponible éste se asignará de acuerdo a lo requerido en las solicitudes individuales.
-
-(2) En caso que la suma de los volúmenes solicitados sea mayor al volumen disponible se aplicará la formula siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-a) En caso que todos los solicitantes para la subregión de que se trate hayan exportado el 100% del cupo asignado para dicha subregión, el volumen remanente Q se asignará en la misma proporción entre el número de solicitantes.
-
-b) En caso que los solicitantes para la subregión de que se trate no hayan exportado el 100% del cupo asignado para dicha subregión, el saldo disponible se asignará aplicando la fórmula descrita en el numeral (2) de este apartado, mediante los siguientes pasos:
-
-c) Se obtiene un primer volumen a asignar Si1 = Q/N*(Ei/Ci). Dado que este número será menor a Q/N se crearía un nuevo remanente no asignado para cada participante.
-
-d) Los remanentes no asignados de los participantes se sumarían y se integraría un nuevo total
-
-(VEASE ARCHIVO ANEXO)
-
-e) La cantidad a asignar será el menor volumen entre el resultado de la aplicación de la fórmula y lo solicitado por cada participante. En caso que lo solicitado por un participante sea menor a lo que le correspondería por la aplicación de la fórmula se generará un remanente que se asignará entre aquellos participantes cuya asignación mediante la fórmula resulte inferior a lo solicitado, aplicando nuevamente la fórmula descrita en el numeral (2) de este apartado.
-
-IX. Solicitud de traslado al tercer periodo anual.
-
-i) En el primer subperiodo del tercer periodo anual cualquier beneficiario que hubiese obtenido cupo para determinada subregión podrá solicitar el traslado del periodo anual anterior en los montos autorizados para esa misma subregión de conformidad con el párrafo II del artículo primero de este ordenamiento, siempre que exista saldo que no haya sido ejercido de dicho periodo anterior en esa subregión.
-
-ii) Al llevar a cabo el traslado al tercer periodo anual se respetarán los porcentajes para tradicionales y nuevos exportadores según el inciso III de este Artículo.
-
-X. Para efectos de demostrar el grado de utilización del cupo asignado conforme a lo requerido en los incisos VIII y IX, las solicitantes adjuntarán a su solicitud una relación de pedimentos de exportación que acrediten las exportaciones realizadas.
-
-XI. Para la interpretación del Acuerdo sobre Comercio de Cemento, la Dirección General de Comercio Exterior podrá solicitar opinión de la Dirección General de Consultoría Jurídica de Negociaciones y para la aplicación de los criterios y fórmulas señaladas en el presente Acuerdo podrá solicitar la de la Dirección General de Industrias Básicas.”
-
-###### Artículo 3.
-
-Los Acuerdos que se listan en el presente artículo continuarán vigentes en los términos que fueron publicados y las fracciones arancelarias contenidas en ellas permanecen sin cambio al amparo de la TIGIE 2007:
-
-I. Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
-
-II. Acuerdo por el que se da a conocer el mecanismo de asignación de los contingentes arancelarios para importar en 2007, con los aranceles preferenciales establecidos en el marco de los compromisos contraídos por México en la Organización Mundial del Comercio, publicado en el DOF el 1 de enero de 2007.
-
-III. Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el DOF el 31 de diciembre de 2003 y sus modificaciones del 5 de agosto de 2004, 1 de diciembre de 2004, 1 de enero de 2007 y 23 de enero de 2007.
-
-IV. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
-
-V. Acuerdo por el que se dan a conocer los cupos mínimos para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, frijol, excepto para siembra, originario de los Estados Unidos de América y de Canadá, publicado en el DOF el 29 de diciembre de 2004 y su modificación del 15 de febrero del 2007.
-
-VI. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, cacahuate originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
-
-VII. Acuerdo por el que se da a conocer el cupo mínimo para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos de América, publicado en el DOF el 27 de enero de 2005.
-
-VIII. Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
-
-IX. Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Pórtland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América publicado en el DOF el 29 de marzo de 2006 y su modificación del 30 de marzo de 2007.
-
-X. Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América, azúcares originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de octubre de 2006.
-
-XI. Acuerdo por el que se da a conocer el cupo para importar azúcares y jarabes de azúcar, originarios de los Estados Unidos de América, publicado en el DOF el 16 de octubre de 2006.
-
-XII. Acuerdo por el que se dan a conocer los cupos para importar leche ultra pasteurizada en envases herméticos y polvo para preparación de bebidas, originarios de la República de Costa Rica, publicado en el DOF el 29 de diciembre de 2004.
-
-XIII. Acuerdo por el que se da a conocer el cupo para internar a la República de Costa Rica, dentro del arancel-cuota establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, aguacates frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
-
-XIV. Acuerdo por el que se dan a conocer los cupos para importar carne de bovino o su equivalente en ganado bovino en pie superior o igual a 250 kilogramos y queso fresco, acondicionado para su venta al por menor, originarios de la República de Nicaragua publicado en el DOF el 21 de julio de 2005.
-
-XV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos e internar al Estado de Israel, bienes textiles y de la confección que cumplan con lo dispuesto en el artículo 3-03.3 y su anexo del Tratado de Libre Comercio entre ambos países, publicado en el DOF el 29 de diciembre de 2004.
-
-XVI. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, ciertos productos textiles y calzado originarios de la Comunidad Europea, publicado en el DOF el 29 de diciembre de 2004.
-
-XVII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año: miel natural; espárragos frescos o refrigerados; chícharos congelados (guisantes, arvejas) (pisum sativum); aguacate; los demás melones; las demás fresas congeladas sin adición de azúcar ni otros edulcorantes; atún procesado, excepto lomos; melaza de caña; chicle; espárragos preparados o conservados, excepto en vinagre o ácido acético; mezclas de ciertas frutas preparadas o conservadas, incluso con adición de azúcar u otro edulcorante; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20° brix, originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005.
-
-XVIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año, huevo de ave fértil libre de patógenos (SPF); huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano; rosas, claveles, orquídeas, gladiolas, crisantemos, jugo de naranja concentrado congelado con grado de concentración mayor a 20° brix y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005 y su reforma de fecha 15 de agosto de 2005.
-
-XIX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, lomos de atún originarios de los Estados Unidos Mexicanos publicado en el DOF el 16 de enero de 2007.
-
-XX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, materias pécticas, pectinatos y pectatos en polvo originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de febrero de 2007.
-
-XXI. Acuerdo por el que se da a conocer el cupo para importar, atún en lata, con un peso no mayor a 1 Kg. originario de la República de Guatemala publicado en el DOF el 16 de enero de 2007.
-
-XXII. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, varilla de hierro o acero corrugada o barras de hierro o acero para armaduras, para cemento u hormigón, y perfiles de hierro o acero sin alear en “L” originarios de la República de El Salvador, publicado en el DOF el 6 de junio de 2006.
-
-XXIII. Acuerdo por el que se dan a conocer los cupos para importar de los Estados de la Asociación Europea de Libre Comercio y para exportar a los Estados de la Asociación Europea de Libre Comercio, ciertos productos textiles, de la confección y del calzado, publicado en el DOF el 29 de diciembre de 2004.
-
-XXIV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar quesos y tejidos de lana, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 14 de julio de 2005 y su modificación del 3 de noviembre de 2006.
-
-XXV. Acuerdo por el que se dan a conocer los cupos para importar miel de abeja, preparación usada en panadería, harina y polvo de carne o despojos y ácido esteárico de vacuno, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 18 de julio de 2005.
-
-XXVI. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de porcino y preparaciones y conservas de carne de porcino originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 12 de agosto de 2005.
-
-XXVII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne de pollo, las demás preparaciones y conservas de ave originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXVIII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino y las demás preparaciones y conservas de bovino originarias de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 16 de febrero de 2007.
-
-XXIX. Acuerdo por el que se da a conocer el cupo para internar a Japón, bananas o plátanos frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 27 de abril de 2007.
-
-XXX. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, jugo de naranja, originario de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXXI. Acuerdo por el que se da a conocer el cupo para importar vehículos nuevos, originarios y procedentes del Japón, al amparo del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, durante el periodo que se indica, publicado en el DOF el 1 de abril de 2005 y su reforma del 4 de abril de 2007.
-
-XXXII. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, miel natural, naranjas, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados y prendas y complementos de vestir, originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXXIII. Acuerdo por el cual se dan a conocer los cupos para exportar e importar, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, ácido cítrico y sales del ácido cítrico publicado en el DOF el 16 de agosto de 2005.
-
-XXXIV. Acuerdo por el que se dan a conocer los cupos para internar a la República Federativa del Brasil, diversos productos, originarios y provenientes de los Estados Unidos Mexicanos, publicado en el DOF el 23 de junio de 2006.
-
-XXXV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos diversos productos originarios y provenientes de la República Federativa de Brasil publicado en el DOF el 3 de julio de 2006.
-
-XXXVI. Acuerdo por el que se da a conocer el cupo para importar hasta el 31 de diciembre de 2007, productos automotores nuevos, originarios y provenientes de la República Oriental del Uruguay, conforme al Acuerdo de complementación Económica No. 55 suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa de Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el DOF el 21 de noviembre de 2006.
-
-XXXVII. Acuerdo por el que se dan a conocer los cupos para internar a la República Argentina, duraznos en almíbar exclusivamente enlatados o envasados y productos de hierro y acero, originarios y provenientes de los Estados Unidos Mexicanos, con la preferencia arancelaria establecida en el anexo III del Decimoquinto Protocolo adicional al Acuerdo de Complementación Económica No. 6, celebrado entre los Estados Unidos Mexicanos y la República Argentina, publicado en el DOF el 1 de enero de 2007.
-
-XXXVIII. Acuerdo por el cual se da a conocer el cupo para internar a Taiwán, Penghu, Kimen y Matsu (Taipei Chino), vehículos automóviles (sic), originarios de los Estados Unidos Mexicanos durante 2007, al amparo del acuerdo temporal celebrado entre los Estados Unidos Mexicanos y el territorio aduanero independiente de Taiwán, Penghu, Kimen y Matsu (Taipei Chino) publicado en el DOF el 26 de diciembre de 2006.
-
-XXXIX. Acuerdo por el que se da a conocer el cupo para importar aceite en bruto de girasol, originario y procedente de la República de Argentina, fracción arancelaria 1512.11.01 publicado en el DOF el 21 de septiembre de 2005.
-
-XL. Acuerdo por el que se da a conocer el cupo mínimo para internar durante el año 2007, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, conforme a la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicado en el DOF el 28 de noviembre de 2006.
-
-XLI. Acuerdo por el que se da a conocer el cupo para importar fructosa originaria de los Estados Unidos de América y sus criterios, publicado en el DOF el 5 de octubre de 2006.
-
-La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
-
-###### Artículo 4.
-
-Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, señalados en el presente artículo, se entenderán referidos a los aranceles cupo que se establezcan conforme a la TIGIE 2007:
-
-I. Acuerdo por el que se dan a conocer los cupos unilaterales para importar en 2006 y 2007, cebada en grano, con cáscara, excepto lo comprendido en la fracción 1003.00.01; las demás cebadas y malta tostada y sin tostar, fracciones arancelarias, 1003.00.02, 1003.00.99, 1107.10.01 y 1107.20.01, publicado en el DOF el 9 de marzo de 2006.
-
-II. Acuerdo por el que se da a conocer el cupo para importar, con el arancel-cupo establecido, cera de carnauba publicado en el DOF el 4 de abril de 2005.
-
-III. Acuerdo por el que se da a conocer el cupo unilateral para importar con el arancel-cupo establecido, avena, excepto para siembra publicado en el DOF el 7 de abril de 2005 y su modificación del 24 de julio de 2006.
-
-IV. Acuerdo por el que se dan a conocer los cupos para importar, con el arancel-cupo establecido, pato, ganso o pintada sin trocear, queso tipo egmont y extractos de café publicado en el DOF el 4 de abril de 2005.
-
-V. Acuerdo que determina las Reglas para la aplicación del Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles publicado en el DOF el 30 de junio de 2004 y su adición publicada el 4 de julio de 2006.
-
-VI. Acuerdo que establece la cantidad mensual máxima que podrán importar las empresas comerciales de autos usados, publicado en el DOF el 4 de abril de 2003.
-
-VII. Acuerdo por el que se da a conocer el cupo para importar piernas, muslos o piernas unidas al muslo, de pollo, originarias de los Estados Unidos de América publicado en el DOF el 29 de diciembre de 2004.
-
-La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
-
-###### Artículo 5.
-
-Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, así como de los acuerdos y tratados de los que México es parte, señalados en el presente artículo, serán publicados de nueva cuenta por la SE:
-
-I. Acuerdo por el que se da a conocer el cupo para importar en 2007 con el arancel-cupo establecido, preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04 publicado en el DOF el 28 de febrero de 2007.
-
-II. Acuerdo por el que se da a conocer el cupo para importar diversas mercancías clasificadas en el capítulo 95 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación publicado en el DOF el 18 de agosto de 2005 y sus modificaciones del 31 de enero de 2006 y 30 de octubre del 2006.
-
-III. Acuerdo por el que se da a conocer el cupo para importar brandy a los Estados Unidos Mexicanos, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 29 de septiembre de 2006.
-
-IV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras e internar a la República de Honduras, bienes textiles y del vestido en el periodo 2006-2009, que cumplan con lo dispuesto en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras publicado en el DOF el 9 de marzo de 2006.
-
-V. Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el DOF el 29 de diciembre de 2004.
-
-VI. Acuerdo por el que se dan a conocer los cupos para importar con la preferencia arancelaria establecida en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y el Estado de Israel, flores frescas y café kosher originarios del Estado de Israel, publicado en el DOF el 29 de diciembre de 2004.
-
-VII. Acuerdo por el cual se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino, carne y preparaciones de pollo, miel natural, bananas o plátanos frescos, naranjas, pasta o puré de tomate, jugo de naranja, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados, cueros y pieles curtidos en “crust”, calzado, cueros y pieles depilados y productos laminados planos de hierro o acero, originarios de Japón publicado en el DOF el 1 de abril de 2005 y su modificación del 5 de marzo del 2007.
-
-VIII. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de la República de Cuba, de la República de Panamá y de la República del Perú, que sustituye al similar publicado el 29 de diciembre de 2005, publicado en el DOF el 16 de enero de 2006.
-
-IX. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de conformidad al Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 6., publicado en el DOF el 14 de febrero de 2007 y su modificación del 25 de abril de 2007.
-
-X. Acuerdo por el que se da a conocer el cupo para importar atún procesado, excepto lomos, originario de los países de la Comunidad Europea, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 2 de agosto de 2006.
-
-XI. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio del 2007; huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 14 de julio de 2006.
-
-XII. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007, jugo de naranja concentrado congelado con grado de concentración mayor a 20o brix, originario de los Estados Unidos Mexicanos, publicado en el DOF el 27 de julio de 2006.
-
-XIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007; miel natural; espárragos frescos o refrigerados; los demás melones; atún procesado, excepto lomos; chicle; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20o brix, originarios de los Estados Unidos Mexicanos, publicado en el DOF el 28 de julio de 2006.
-
-XIV. Acuerdo por el que se da a conocer el cupo para importar leche en polvo, originaria de la República de Nicaragua, publicado en el DOF el 2 de agosto de 2006.
-
-###### Artículo 6.
-
-Los criterios y disposiciones aplicables a los instrumentos y programas de comercio exterior, son los señalados a continuación:
-
-I. La Dirección General de Comercio Exterior de la SE actualizará en el SICEX las fracciones arancelarias que correspondan a las mercancías autorizadas hasta el 29 de junio de 2007, en cada instrumento y programa de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-II. Los titulares de resoluciones de instrumentos y programas de comercio exterior, a partir del 1 de julio de 2007, podrán realizar operaciones de comercio exterior, respecto de las mercancías autorizadas en sus instrumentos y programas de comercio exterior, utilizando las fracciones arancelarias que les correspondan con base en la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-Las resoluciones a que se refiere el párrafo anterior continuarán vigentes hasta la fecha que se indique en el documento correspondiente y, en su caso, por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos y ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE.
-
-III. La Dirección General de Comercio Exterior de la SE realizará el intercambio de información necesario con la Administración General de Aduanas del SAT a fin de que esté en posibilidad de actualizar en el SAAI las fracciones arancelarias de las resoluciones de los instrumentos y programas de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-###### Artículo 7.
-
-Para los efectos de los Acuerdos que se listan en este artículo, la Tabla de Correlación entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, es la que se establece como anexa al presente Acuerdo.
-
-I. Acuerdo que establece la clasificación y codificación de mercancías y productos cuya importación, exportación, internación o salida está sujeta a regulación sanitaria por parte de la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 27 de marzo de 2003 y 27 de enero, 1 de abril y 26 de octubre de 2005.
-
-II. Acuerdo que establece la clasificación y codificación de los productos químicos esenciales cuya importación o exportación está sujeta a la presentación de un aviso previo ante la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002.
-
-III. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas, publicado en el DOF el 29 de marzo de 2002 y su modificación del 1 de abril de 2005.
-
-IV. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el DOF el 26 de marzo de 2002.
-
-V. Acuerdo por el que se establece la clasificación y codificación de mercancías cuya exportación está sujeta a la presentación de un certificado de origen expedido por la Asociación Mexicana de la Cadena Productiva del Café, A.C., o los consejos estatales del café, y el procedimiento para la emisión del Certificado de Origen, publicado en el DOF el 7 de febrero de 2007.
-
-VI. Acuerdo que establece la clasificación y codificación de las mercancías cuya importación o exportación están sujetas a regulación por parte de la Secretaría de la Defensa Nacional, publicado en el DOF el 25 de noviembre de 2002 y sus modificaciones del 13 de agosto de 2003 y 20 de octubre de 2006.
-
-VII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a regulación por parte de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 30 de diciembre de 2003, 16 de agosto de 2004 y 26 de enero de 2005.
-
-VIII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a autorización previa por parte de la Secretaría de Energía, publicado en el DOF el 28 de marzo de 2002.
-
-IX. Acuerdo que establece la clasificación y codificación de los bienes considerados monumentos históricos o artísticos, cuya exportación está sujeta a autorización previa de exportación por parte del Instituto Nacional de Antropología e Historia, o del Instituto Nacional de Bellas Artes y Literatura.
+(3) Se considerará terminada la revisión ante un panel al día siguiente del vencimiento del plazo establecido conforme a la regla 39(1) siempre que no haya sido presentada una reclamación dentro del tiempo establecido. El Secretariado responsable emitirá un aviso a fin de poner fin a la revisión por el panel".
 
 ###### ARTICULO 8.
 
-Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados en las Representaciones Federales de la Secretaría de Economía, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+Se reforma el inciso (a) del párrafo (2) de la Regla 73 de las Reglas de Procedimiento, para quedar como sigue:
 
-I.- Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+"73. (1) Corresponderá a la autoridad investigadora presentar al Secretariado responsable, dentro del plazo fijado para ello por el panel, un Informe de Devolución que precise los actos realizados como consecuencia de la devolución por el panel.
 
-II.- Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
+(2) Si la autoridad investigadora ha complementado el expediente administrativo durante la devolución,
+
+(a) deberá presentar al Secretariado responsable, dentro de los 5 días siguientes al de presentación del Informe de Devolución, dos copias del índice que identifique todos los documentos que integran el expediente complementario de devolución, acompañado del comprobante de notificación del índice al representante legal acreditado de cada participante, o cuando un participante no tenga representante, al participante mismo, dos copias de los documentos no privilegiados listados en el índice;
+
+(b) los participantes que tengan la intención de impugnar el Informe de Devolución deberán, dentro de los 20 días siguientes al de presentación del índice y del expediente complementario de devolución, presentar un escrito en ese sentido; y
+
+(c) la contestación al escrito referido en el inciso anterior por parte de la autoridad investigadora, y por parte de cualquier participante que la apoye, deberá presentarse dentro de los 20 días siguientes al último previsto para la presentación del escrito de oposición al Informe de Devolución.
+
+(3) Si la autoridad investigadora no complementa el expediente durante la devolución,
+
+(a) los participantes que tengan la intención de impugnar el Informe de Devolución deberán, dentro de los 20 días siguientes al de presentación de dicho Informe, presentar un escrito en ese sentido; y
+
+(b) la contestación al escrito referido en el inciso anterior por parte de la autoridad investigadora, y por parte de cualquier participante que la apoye, deberá presentarse dentro de los 20 días siguientes al último previsto para la presentación del escrito de oposición al Informe de Devolución.
+
+(4) Tratándose de la revisión ante un panel de una resolución definitiva dictada en México, el panel deberá ignorar el escrito de un participante presentado conforme a los párrafos (2) o (3) cuando dicho participante se haya abstenido de presentar un memorial conforme a la regla 47.
+
+(5) De no presentarse escritos conforme a los incisos (2)(b) o (3)(a) dentro del plazo fijado para ello y si no se encuentra sub iudice ningún incidente conforme a la regla 20, el panel deberá dictar una orden confirmando el Informe de Devolución de la autoridad investigadora. El panel dictará esta orden dentro de los 10 días siguientes al vencimiento del plazo fijado para la presentación de los escritos a que se refieren los incisos (2)(b) o (3)(a) o dentro de los 10 días siguientes al de la fecha en que se niegue la petición incidental prevista por la regla 20, lo que suceda más tarde.
+
+(6) En caso de impugnación del Informe de Devolución, el panel, dentro de los 90 días siguientes al de presentación del Informe de Devolución, dictará una decisión escrita de conformidad con la regla 72. Dicha decisión podrá confirmar el Informe de Devolución o devolverlo a la autoridad investigadora".
 
 ###### ARTICULO 9.
 
-Para la aplicación de este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas, ambas de la Secretaría de Economía.
+Se reforma el inciso (b) de la Regla 78 de las Reglas de Procedimiento, para quedar como sigue:
+
+"78. De no presentarse Solicitud para un Comité de Impugnación Extraordinaria, el Secretario responsable publicará un Aviso de Terminación de la Revisión ante el Panel en las publicaciones oficiales de las Partes implicadas. Dicho aviso surte efectos:
+
+(a) el día en que concluye el procedimiento de revisión ante el panel conforme a la regla 71(2); o
+
+(b) en cualquier otro caso, al día siguiente a aquél en que venza el plazo establecido conforme a las reglas 37(1) y 37(2)(a) de las Reglas de Procedimiento del Comité de Impugnación Extraordinaria del Tratado".
 
 ###### ARTICULO 10.
 
@@ -558,13 +526,11 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta 31 de agosto de 2010.
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Los permisos que se expidan al amparo del presente Acuerdo, tendrán una vigencia hasta el 31 de agosto de 2010.
+SEGUNDO.- Los procedimientos de revisión en los que la correspondiente solicitud de establecimiento de panel conforme al artículo 1904 (2) del Tratado de Libre Comercio de América del Norte se haya presentado con anterioridad a la entrada en vigor de este Acuerdo, se seguirán conforme a las Reglas de Procedimiento publicadas en el Diario Oficial de la Federación el 20 de junio de 1994, y su aclaración, dada a conocer en el mismo medio informativo el 20 de marzo de 1996.
 
-TERCERO.- Los permisos que se hayan expedido en fecha anterior a la entrada en vigor de la presente modificación se entenderán prorrogados hasta el 31 de agosto de 2010.
-
-México, Distrito Federal, a uno de agosto de dos mil ocho.- El Subsecretario de Transporte de la Secretaría de Comunicaciones y Transportes, Humberto Treviño Landois.- Rúbrica.
+México, D.F., a 26 de agosto de 2008.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
 
 ## TRANSITORIOS
 
