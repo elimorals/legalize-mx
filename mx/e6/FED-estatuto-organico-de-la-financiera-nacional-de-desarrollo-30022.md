@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2008-07-23"
+last_updated: "2008-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -1181,9 +1181,17 @@ VI. Establecer proyectos para la implantación y mantenimiento de sistemas de in
 
 VII. Dictar lineamientos para el cumplimiento de las normas y políticas para el registro contable, control y reportes a las autoridades de acuerdo a las distintas directrices establecidas por las autoridades financieras;
 
-VIII. Emitir lineamientos para el control de pagos relacionados con los servicios administrados por el área de recursos materiales y servicios, y
+VIII. Emitir lineamientos para el control de pagos relacionados con los servicios administrados por el área de recursos materiales y servicios, y (sic)
 
-IX. Proponer estrategias y proyectos encaminados a mejorar los resultados financieros institucionales.
+IX. Proponer estrategias y proyectos encaminados a mejorar los resultados financieros institucionales;
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+
+X. Supervisar el proceso de programación, presupuestación, control y seguimiento presupuestal, en apego a la normatividad establecida; y
+
+> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+
+XI. Establecer los lineamientos para generar la información presupuestal para responder a los requerimientos internos y externos de las autoridades.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1217,9 +1225,9 @@ III. Emitir lineamientos y procedimientos para la administración de la posició
 
 IV. Supervisar y evaluar la ejecución de los procesos básicos de la tesorería: dispersión, concentración, inversión-valuación, cierre y conciliación operativa contable, de acuerdo a la normatividad vigente;
 
-V. Emitir lineamientos para la programación, presupuestación, el control y el seguimiento presupuestal, en apego a la normatividad establecida;
+V. (DEROGADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)
 
-VI. Controlar la información presupuestal para responder a los requerimientos internos y externos de las autoridades, y
+VI. (DEROGADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)
 
 VII. Proponer estrategias y proyectos encaminados a mejorar el aprovechamiento del portafolio de inversiones.
 
@@ -1701,25 +1709,27 @@ El Comité de Crédito estará integrado de la siguiente forma:
 
 I. Presidente: El Director General Adjunto de Crédito;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
 
-II. Presidente Suplente y Vocal: El Director General Adjunto de Finanzas, Operaciones y Sistemas;
+II. Presidente Suplente y Vocal: El Director General Adjunto de Planeación Estratégica y Análisis Sectorial;
 
 III. Secretario: El Subdirector Corporativo de Análisis de Crédito;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
 
-IV. El Director General Adjunto de Planeación Estratégica y Análisis Sectorial;
+IV. El Director General Adjunto de Fomento y Promoción de Negocios;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
 
-V. El Director General Adjunto de Fomento y Promoción de negocios;
+V. El Director General Adjunto Técnico y de Instrumentación Legal;
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
 
-VI. El Director General Adjunto Técnico y de Instrumentación Legal;
+VI. El Subdirector Corporativo de Normatividad de Crédito;
 
-VII. El Subdirector Corporativo de Normatividad de Crédito;
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+
+VII. El Titular de la Unidad para la Administración Integral de Riesgos;
 
 VIII. Un representante de la Secretaría de Hacienda y Crédito Público, en calidad de asesor;
 
@@ -1727,9 +1737,13 @@ IX. Un representante del Banco de México, en calidad de asesor;
 
 X. El Subdirector Corporativo Jurídico de Normatividad y Consulta, en calidad de asesor;
 
-XI. El Titular de la Unidad para la Administración Integral de Riesgos, en calidad de asesor;
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
 
-XII. El Titular del Organo Interno de Control de la Financiera, en calidad de asesor.
+XI. El Titular del Organo Interno de Control de la Financiera, en calidad de asesor; y
+
+> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+
+XII. El Titular de la Contraloría Interna, en calidad de asesor.
 
 Los integrantes previstos en los incisos I a VII acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII a XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
@@ -1878,5 +1892,9 @@ D.O.F. 15 DE MAYO DE 2008.
 UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 23 DE JULIO DE 2008.
+
+UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2008.
 
 UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
