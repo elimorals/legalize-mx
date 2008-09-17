@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2008-02-05"
+last_updated: "2008-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE NOVIEMBRE DE 2008 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -583,11 +585,11 @@ Cuando hubiere tumulto, el funcionario que presida la audiencia ordenará que la
 
 Si el inculpado altera el orden en una audiencia, se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor. Todo esto sin perjuicio de aplicarle la corrección disciplinaria que el Tribunal estime pertinente.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 78.
 
-Si el defensor perturbase el orden se le apercibirá. Si reincidiere se le desalojará, designándose de inmediato un defensor de oficio al inculpado, sin perjuicio del derecho de éste para designar, en el acto o con posterioridad, persona de su confianza que lo defienda o defenderse por sí mismo.
-
-Al expulsado se le impondrá arresto o multa como corrección disciplinaria.
+Si el defensor perturbase el orden se le apercibirá. Si reincidiere se le desalojará, designándose de inmediato un defensor público al inculpado, sin perjuicio del derecho de éste para designar, en el acto o con posterioridad, persona de su confianza que lo defienda o defenderse por sí mismo. Al expulsado se le impondrá arresto o multa como corrección disciplinaria.
 
 ###### ARTICULO 79.
 
@@ -855,7 +857,9 @@ III.- Será informado de los derechos que en averiguación previa consigna en su
 
 a).- No declarar si así lo desea;
 
-b).- Que debe tener una defensa adecuada por sí, por abogado o por persona de su confianza, o si no quisiere o no pudiere designar defensor, se le designará desde luego un defensor de oficio.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+
+b).- Que debe tener una defensa adecuada por sí, por abogado o por persona de su confianza, o si no quisiere o no pudiere designar defensor, se le designará desde luego un defensor público;
 
 c).- Ser asistido por su defensor cuando declare;
 
@@ -2521,15 +2525,21 @@ Recibidas las conclusiones acusatorias del Ministerio Público y las de la defen
 
 En los primeros tres días de haberse notificado la fecha para la audiencia de vista, las partes podrán ofrecer pruebas de las permitidas por este Código, excepto la prueba pericial y aquellas que puedan provocar dilación o retraso en la celebración de la audiencia, aún y cuando se trate de las autorizadas por éste Código, si para su preparación y desahogo se requiere de mayor tiempo que el señalado en el párrafo anterior.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DE LOS DECRETOS PUBLICADOS EN EL P.O. DE 22 DE JUNIO DE 1988 Y 17 DE SEPTIEMBRE DE 2008, PÁGINAS 8 Y 9, RESPECTIVAMENTE.]</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 334.
 
 La audiencia se verificará concurran o no el acusado y su defensor. El Ministerio Público no podrá dejar de asistir a ella.
 
-Si el defensor fuere particular y no asistiere sin contar con la autorización expresa del inculpado, se le impondrá una corrección disciplinaria nombrándosele un defensor de oficio.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
-Si fuere defensor de oficio, se comunicará a su superior inmediato y se sustituirá por otro.
+El Ministerio Público no podrá dejar de asistir a ella. Si el defensor fuere particular y no asistiere sin contar con la autorización expresa del inculpado, se le impondrá una corrección disciplinaria nombrándosele un defensor público.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+
+Si fuere defensor público, se comunicará a su superior inmediato y se le sustituirá por otro.
 
 Lo dispuesto en este artículo se entiende sin perjuicio del derecho que el acusado tiene, si está presente, de nombrar para que lo defienda a cualquiera de las personas que se encuentren en la audiencia y que legalmente no estén impedidas para hacerlo.
 
@@ -4452,3 +4462,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 5 DE FEBRERO DE 2008.
 
 UNICO.-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos humanos, financieros y materiales adscritos a la Dirección de la Defensoría de Oficio de la Secretaría General de Gobierno, pasarán a la Dirección de la Defensoría Pública.
+
+###### ARTICULO TERCERO.
+
+Conforme a las disposiciones del presente Decreto, dentro de los seis meses posteriores a su entrada en vigor, el Ejecutivo del Estado procederá a la realización del programa de reforma y reestructuración de los servicios de defensoría pública, incluidas las cuestiones de selección, remuneraciones y equipamiento de los defensores públicos.
