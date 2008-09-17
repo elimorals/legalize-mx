@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2007-12-12"
+last_updated: "2008-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1691,7 +1691,7 @@ III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expe
 
 IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Procurador General de Justicia o Diputado local en el Estado; y
 
-> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
@@ -1941,7 +1941,9 @@ Una ley establecerá las bases de su organización y funcionamiento.
 
 El titular del organismo deberá entregar puntualmente los informes y las cuentas públicas relativas al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
 
-## TITULO VIII. DE LA DEFENSORIA DE OFICIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+
+## TITULO VIII. DE LA DEFENSORIA PUBLICA
 
 ### CAPITULO II. De la Comisión de Derechos Humanos
 
@@ -1949,23 +1951,27 @@ El titular del organismo deberá entregar puntualmente los informes y las cuenta
 
 ###### Art. 127.
 
-Se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados y a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años, de intervenir como abogados patronos de las partes en materia civil, y de aconsejar, en este ramo, a quien así lo solicite.
+Se establece en el Estado la Defensoría Pública en términos de lo dispuesto en el artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos, que se encargará de defender ante cualquier autoridad a los inculpados y a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años; de intervenir como abogado patrono de las partes en las materias civil y familiar, y de aconsejar en estos ramos, a quien así lo solicite. La Defensoría Pública podrá brindar asesoría en otras materias, con base en los recursos de que disponga.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Art. 128.
 
-La defensoría de oficio tendrá un titular y los defensores de oficio subalternos que prevea la ley y sustente el Presupuesto de Egresos. Su nombramiento corresponde al Ejecutivo.
+La Defensoría Pública tendrá un titular y los defensores públicos subalternos que prevea la ley y sustente el Presupuesto de Egresos. Su nombramiento corresponde al Ejecutivo del Estado.
+
+Es incompatible el cargo de Defensor Público con cualquier otro cargo, empleo o comisión en el sector público, social o privado, salvo los casos de docencia, investigación, literatura o beneficencia, siempre que no sean remunerados.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Art. 129.
 
-Una ley reglamentará la organización de la Defensoría de Oficio y los requisitos que se necesitan para desempeñar este cargo.
+Una ley reglamentará la organización de la Defensoría Pública y los requisitos que se necesitan para desempeñar este cargo.
 
 ## TITULO IX. DE LOS MUNICIPIOS
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Art. 130.
 
@@ -3347,99 +3353,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Para alcanzar el porcentaje mínimo a que se refiere el primer párrafo del artículo 107 de la Constitución Política del Estado que se reforma mediante el presente Decreto, se efectuará un incremento paulatino del porcentaje del Presupuesto de Egresos asignado al Poder Judicial en el Decreto del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2007, a fin de que alcance el 0.9% en 2008, el 1% en 2009, el 1.1% en 2010 y el 1.2% en 2011.
 
+P.O. 17 DE SEPTIEMBRE DE 2008.
+
 ###### ARTICULO UNICO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 5 DE MARZO DE 1993.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE AGOSTO DE 1993.
-
-DECRETO QUE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 82.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE AGOSTO DE 1993.
-
-DECRETO QUE REFORMA EL PÁRRAFO CUARTO Y ADICIONA LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 28, REFORMA LA FRACCIÓN X DEL ARTÍCULO 73 Y LA FRACCIÓN XIII BIS DEL APARTADO B DEL ARTÍCULO 123.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- En tanto se expide la ley del banco central, reglamentaria del artículo 28 de esta Constitución, continuará en vigor la Ley Orgánica del Banco de México.
-
-D.O.F. 3 DE SEPTIEMBRE DE 1993.
-
-DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 41, 54, 56, 60, 63, 74, Y 100.
-
-Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo. Permanecerán en sus cargos los actuales Magistrados del Tribunal Federal Electoral electos por la Cámara de Diputados del Congreso de la Unión, según Decreto publicado en el Diario Oficial de la Federación el 3 de octubre de 1990.
-
-Artículo Tercero. En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría a las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 a la fecha del término del ejercicio de la última legislatura citada. Para esta elección, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
-
-Artículo Cuarto. Los diputados federales a la LVI Legislatura durarán en su encargo del 1o. de noviembre de 1994 a la fecha en que concluya la citada legislatura.
-
-Artículo Quinto. La elección federal para integrar la LVI Legislatura de la Cámara de Diputados del H. Congreso de la Unión, se realizará con base en la distribución de los distritos uninominales y las cinco circunscripciones plurinominales en que se dividió el país para el proceso electoral federal de 1991. Para la elección federal de 1997, por la que se integrará la LVII Legislatura, se hará la nueva distribución de distritos uninominales con base en los resultados definitivos del censo general de población de 1990.
-
-Artículo Sexto. Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
-
-D.O.F. 3 DE SEPTIEMBRE DE 1993.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 16, 19, 20 Y 119 Y DEROGA LA FRACCIÓN XVIII DEL ARTÍCULO 107.
-
-PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto por el Artículo Segundo Transitorio.
-
-SEGUNDO.- Lo previsto en el párrafo primero de la fracción I, del artículo 20 Constitucional del presente Decreto, entrará en vigor al año contado a partir de la presente publicación.
-
-D.O.F. 3 DE SEPTIEMBRE DE 1993.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 65 Y 66.
-
-PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- El período ordinario correspondiente a noviembre y diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos del Decreto de reformas publicado el 7 de abril de 1986.
-
-TERCERO.- A partir del 15 de marzo de 1995 los períodos de sesiones ordinarias se celebrarán de acuerdo con las fechas establecidas por el presente Decreto.
-
-CUARTO.- Los diputados que se elijan a la LVI legislatura del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 (sic) agosto de 1997.
-
-QUINTO.- Los senadores que se elijan a las LVI y LVII legislaturas del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 de agosto del año 2000.
-
-Los senadores que se elijan en 1997 durarán en sus funciones del 1o. de noviembre de dicho año, al 31 de agosto del año 2000.
-
-D.O.F. 25 DE OCTUBRE DE 1993.
-
-PRIMERO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
-
-SEGUNDO.- La Asamblea de Representantes del Distrito Federal electa para el periodo noviembre de 1991 a noviembre de 1994, continuará teniendo las facultades establecidas en la fracción VI del artículo 73 de esta Constitución vigentes al momento de entrar en vigor el presente Decreto.
-
-TERCERO.- La III Asamblea de Representantes del Distrito Federal, tendrá las facultades que le otorga el presente Decreto, y será la que se integre para el periodo que comenzará el 15 de noviembre de 1994 y concluirá el 16 de septiembre de 1997.
-
-CUARTO.- A partir del 15 de marzo de 1995, los periodos de sesiones ordinarias de la Asamblea de Representantes del Distrito Federal se celebrarán de acuerdo con las fechas establecidas por el presente decreto.
-
-QUINTO.- El primer nombramiento para el cargo de Jefe del Distrito Federal, en los términos de este Decreto se verificará en el mes de diciembre de 1997 y el periodo constitucional respectivo concluirá el 2 de diciembre del año 2000. En tanto dicho Jefe asume su encargo, el gobierno del Distrito Federal seguirá a cargo del Presidente de la República de acuerdo con la base 1a. de la fracción VI del artículo 73 de esta Constitución vigente al momento de entrar en vigor el presente Decreto. El Ejecutivo Federal mantendrá la facultad de nombrar y remover libremente al titular del órgano u órganos de gobierno del Distrito Federal y continuará ejerciendo para el Distrito Federal, en lo conducente, las facultades establecidas en la fracción I del artículo 89 de esta Constitución.
-
-SEXTO.- Los consejos de ciudadanos por demarcación territorial se elegirán e instalarán en 1995, conforme a las disposiciones del Estatuto de Gobierno y las leyes respectivas.
-
-SEPTIMO.- Los servidores públicos que se readscriban a la administración pública del Distrito Federal y sus dependencias conservarán todos sus derechos laborales.
-
-OCTAVO.- Las iniciativas de leyes de ingresos, y de decretos de presupuesto de egresos del Distrito Federal para los ejercicios 1995, 1996 y 1997, así como las cuentas públicas de 1995 y 1996 serán enviados a la Asamblea de Representantes por el Presidente de la República. La cuenta pública correspondiente a 1994 será revisada por la Cámara de Diputados del Congreso de la Unión.
-
-NOVENO.- En tanto se reforman y expidan las disposiciones que coordinen el sistema fiscal entre la Federación y el Distrito Federal, continuarán aplicándose las normas que sobre la materia rijan al entrar en vigor el presente Decreto.
-
-DECIMO.- En tanto se expidan las nuevas normas aplicables al Distrito Federal continuarán rigiendo las disposiciones legales y reglamentarias vigentes.
-
-DECIMO PRIMERO.- El Congreso de la Unión conservará la facultad de legislar, en el ámbito local, en las materias de orden común, civil y penal para el Distrito Federal, en tanto se expidan los ordenamientos de carácter federal correspondientes, a cuya entrada en vigor, corresponderá a la Asamblea de Representantes legislar sobre el particular, en los términos del presente Decreto.
-
-D.O.F. 19 DE ABRIL DE 1994.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 1 DE JULIO DE 1994.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO CUARTO.
 
