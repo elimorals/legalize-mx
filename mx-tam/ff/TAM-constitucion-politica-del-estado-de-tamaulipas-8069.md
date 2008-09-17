@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2007-12-12"
+last_updated: "2008-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1691,7 +1691,7 @@ III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expe
 
 IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Procurador General de Justicia o Diputado local en el Estado; y
 
-> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
@@ -1937,7 +1937,9 @@ Una ley establecerá las bases de su organización y funcionamiento.
 
 El titular del organismo deberá entregar puntualmente los informes y las cuentas públicas relativas al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
 
-## TITULO VIII. DE LA DEFENSORIA DE OFICIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
+
+## TITULO VIII. DE LA DEFENSORIA PUBLICA
 
 ### CAPITULO II. De la Comisión de Derechos Humanos
 
@@ -1945,23 +1947,27 @@ El titular del organismo deberá entregar puntualmente los informes y las cuenta
 
 ###### Art. 127.
 
-Se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados y a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años, de intervenir como abogados patronos de las partes en materia civil, y de aconsejar, en este ramo, a quien así lo solicite.
+Se establece en el Estado la Defensoría Pública en términos de lo dispuesto en el artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos, que se encargará de defender ante cualquier autoridad a los inculpados y a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años; de intervenir como abogado patrono de las partes en las materias civil y familiar, y de aconsejar en estos ramos, a quien así lo solicite. La Defensoría Pública podrá brindar asesoría en otras materias, con base en los recursos de que disponga.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Art. 128.
 
-La defensoría de oficio tendrá un titular y los defensores de oficio subalternos que prevea la ley y sustente el Presupuesto de Egresos. Su nombramiento corresponde al Ejecutivo.
+La Defensoría Pública tendrá un titular y los defensores públicos subalternos que prevea la ley y sustente el Presupuesto de Egresos. Su nombramiento corresponde al Ejecutivo del Estado.
+
+Es incompatible el cargo de Defensor Público con cualquier otro cargo, empleo o comisión en el sector público, social o privado, salvo los casos de docencia, investigación, literatura o beneficencia, siempre que no sean remunerados.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Art. 129.
 
-Una ley reglamentará la organización de la Defensoría de Oficio y los requisitos que se necesitan para desempeñar este cargo.
+Una ley reglamentará la organización de la Defensoría Pública y los requisitos que se necesitan para desempeñar este cargo.
 
 ## TITULO IX. DE LOS MUNICIPIOS
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Art. 130.
 
@@ -3342,3 +3348,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Para alcanzar el porcentaje mínimo a que se refiere el primer párrafo del artículo 107 de la Constitución Política del Estado que se reforma mediante el presente Decreto, se efectuará un incremento paulatino del porcentaje del Presupuesto de Egresos asignado al Poder Judicial en el Decreto del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2007, a fin de que alcance el 0.9% en 2008, el 1% en 2009, el 1.1% en 2010 y el 1.2% en 2011.
+
+P.O. 17 DE SEPTIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
