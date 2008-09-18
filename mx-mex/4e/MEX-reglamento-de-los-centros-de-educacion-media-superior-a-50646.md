@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-centros-de-educacion-media-superior-a-50646"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-30"
-last_updated: "2007-02-13"
+last_updated: "2008-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS CENTROS DE EDUCACION MEDIA SUPERIOR A DISTANCIA DEL COLEGIO DE BACHILLERES
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 30 de mayo de 2006.
 
@@ -555,15 +555,19 @@ Los alumnos que hayan sido inscritos en términos de este Reglamento y por cualq
 
 ### CAPÍTULO SEGUNDO. DE LA EVALUACIÓN Y ACREDITACIÓN DE ASIGNATURAS
 
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 68.
 
-La acreditación de asignaturas se efectuará en dos periodos, el ordinario y el extraordinario. El ordinario comprende dos evaluaciones parciales y una final; el extraordinario tres evaluaciones: el extraordinario, a título de suficiencia y el especial.
+La acreditación de asignaturas se efectuará en dos periodos, el ordinario y el extraordinario. El ordinario comprende dos evaluaciones parciales y una final; el extraordinario dos evaluaciones: el extraordinario y a título de suficiencia.
 
 ###### Artículo 69.
 
 Las evaluaciones parciales y final tendrán un valor porcentual de 40-40-20 respectivamente.
 
-Para efectos de calificaciones ordinarias, extraordinarias, título de suficiencia y especiales, sólo se utilizarán números enteros de 5 a 10, siendo 6 la mínima aprobatoria, conforme a las siguientes equivalencias:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
+Para efectos de calificaciones ordinarias, extraordinarias y título de suficiencia, sólo se utilizarán enteros de 5 a 10, siendo 6 la minima aprobatoria, conforme a las siguientes equivalencias:
 
 De 9.5 a 10.0 igual a 10.0
 
@@ -603,9 +607,13 @@ III. Las calificaciones parciales y finales en las diferentes asignaturas se les
 
 IV. En el periodo ordinario, el Asesor deberá dar a conocer la calificación obtenida en el curso, a más tardar dentro de los tres días siguientes hábiles siguientes a la evaluación, en el horario de asesoría y al salón de clases correspondiente;
 
-V. En el caso de las evaluaciones extraordinarias, a título de suficiencia y especiales, los resultados se darán a conocer, como máximo tres días hábiles después de concluida cada fase de que se trate;
+> <small>(REFORMADA, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
 
-VI. Si un estudiante presentara inconformidad con calificación obtenida en las evaluaciones extraordinarias, a título de suficiencia o especial de alguna asignatura, podrá solicitar la revisión correspondiente dentro de los cinco días hábiles posteriores a la fecha de entrega de resultados, mediante escrito al Coordinador del Centro EMSAD, quien designará una comisión que, previo análisis del asunto, resolverá lo que proceda dentro de los cinco días hábiles siguientes a la presentación de la solicitud;
+V. En el caso de las evaluaciones extraordinarias y a título de suficiencia, los resultados se darán a conocer, como máximo tres días hábiles después de concluida cada fase de que se trate;
+
+> <small>(REFORMADA, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
+VI. Si un estudiante presentara inconformidad con calificación obtenida en las evaluaciones extraordinarias, o a titulo de suficiencia de alguna asignatura, podrá solicitar la revisión correspondiente dentro de los cinco días hábiles posteriores a la fecha de entrega de resultados, mediante escrito al Coordinador del Centro EMSAD, quien designará una comisión que, previo análisis del asunto, resolverá lo que proceda dentro de los cinco días hábiles siguientes a la presentación de la solicitud;
 
 VII. El acta de calificaciones será el formato oficial que contendrá los elementos necesarios para asentar la calificación de la asignatura;
 
@@ -631,9 +639,11 @@ La reinscripción de alumnos regulares se llevará a cabo en forma automática, 
 
 Los alumnos irregulares que adeuden hasta tres materias, podrán reinscribirse en el semestre inmediato superior al último cursado.
 
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 78.
 
-Los alumnos en situación académica irregular considerados tales en términos del artículo 8 de este reglamento, podrán reinscribirse en las asignaturas adeudadas en su calidad de recursadores en el semestre que corresponda; o bien, presentar el examen especial en el transcurso del semestre, de acuerdo al calendario que establezca la Dirección Académica, según sea el caso.
+Los alumnos en situación académica irregular considerados tales en términos del articulo 8 de este reglamento, podrán reinscribirse en las asignaturas adeudadas en su calidad de recursadores en el semestre que corresponda.
 
 ###### Artículo 79.
 
@@ -661,7 +671,9 @@ II. Académicas definitivas, cuando:
 
 a) El alumno no apruebe alguna asignatura en recursamiento;
 
-b) El alumno acumule hasta veinte evaluaciones reprobadas, considerando las ordinarias, extraordinarias, a título de suficiencia y especiales; y
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
+b) El alumno acumule hasta veinte evaluaciones reprobadas, considerándose las ordinarias, extraordinarios y a título de suficiencia; y
 
 c) El alumno no concluya los estudios dentro del plazo reglamentario de diez semestres;
 
@@ -691,21 +703,19 @@ Los alumnos que no hayan aprobado en evaluación extraordinaria hasta tres mater
 
 ###### Artículo 88.
 
-Los alumnos que no hayan aprobado en evaluación a titulo de suficiencia hasta tres materias, tendrán derecho a presentarlas en periodo especial, en términos de este Reglamento, con el pago de derechos correspondientes.
+(DEROGADO, G.G. 18 DE SEPTIEMBRE DE 2008)
 
-> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 89.
 
-Se entiende por regularización de materias, al procedimiento mediante el cual el alumno acredita fuera del periodo ordinario de evaluaciones, las asignaturas que haya reprobado, mediante evaluaciones extraordinarias, a titulo de suficiencia, especiales y en su caso recursamiento.
+Se entiende por regularización de materias, al procedimiento mediante el cual el alumno acredita fuera del periodo ordinario de evaluaciones, las asignaturas que haya reprobado, mediante evaluaciones extraordinarias, a título de suficiencia y en su caso recursamiento.
 
-Para presentar un examen especial, el alumno deberá de recibir la asesoría, que para este efecto, programe el plantel.
-
-Los alumnos que no acrediten tres asignaturas en el periodo extraordinario deberán recursarlas en el semestre correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 90.
 
-El alumno que repruebe hasta tres asignaturas en evaluación a título de suficiencia, podrá reinscribirse al semestre inmediato siguiente en calidad de irregular y para su regularización, podrá presentar el examen especial y, en su caso, recursarlas en el semestre que corresponda.
+El alumno que repruebe hasta tres asignaturas en evaluación a título de suficiencia, podrá reinscribirse al semestre inmediato siguiente en calidad de irregular y podrá en su caso, recursarlas en el semestre que corresponda.
 
 Si no aprueba alguna de las materias en el recursamiento, será dado de baja en forma definitiva.
 
@@ -1212,3 +1222,13 @@ DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO Y SECRETARIO D
 G.G. 13 DE FEBRERO DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+
+G.G. 18 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La desaparición del examen especial entrará en vigor a partir del ciclo escolar 2008 B (agosto 2008-febrero 2009).
+
+CUARTO.- Los alumnos que a la fecha de publicación de este acuerdo, cursan el semestre 2008 A (febrero 2008-julio 2008), podrán presentar sólo por única ocasión, el examen especial si a sus intereses conviene.
