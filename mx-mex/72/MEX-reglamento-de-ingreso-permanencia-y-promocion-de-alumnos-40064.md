@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-ingreso-permanencia-y-promocion-de-alumnos-40064"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-18"
-last_updated: "2007-02-13"
+last_updated: "2008-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE INGRESO, PERMANENCIA Y PROMOCION DE ALUMNOS DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 18 de junio de 2004.
 
@@ -141,9 +141,11 @@ Si la solicitud se niega, el alumno tendrá cinco días hábiles a partir de la 
 
 La evaluación del aprendizaje es el medio a través del cual se determinará la calificación y acreditación de los estudiantes en cada una de las asignaturas del plan de estudios, por lo que deberá realizarse de manera sistemática, con la finalidad de obtener la información sobre el nivel en que los estudiantes dominan los contenidos de los programas de estudio.
 
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 18.
 
-La evaluación del aprendizaje comprende dos periodos: el ordinario y el extraordinario. El primero está constituido por tres evaluaciones parciales y una final; y el segundo, por una evaluación extraordinaria, una a título de suficiencia y una especial.
+La evaluación del aprendizaje comprende dos periodos, el ordinario y el extraordinario. El primero está constituido por tres evaluaciones parciales y una final; y el segundo, por una evaluación extraordinaria y una a título de suficiencia.
 
 ###### ARTÍCULO 19.
 
@@ -153,7 +155,9 @@ El personal docente hará del conocimiento de los alumnos al inicio del semestre
 
 La escala de calificaciones será de 0 a 10 puntos para evaluaciones parciales y final.
 
-Para efectos de calificaciones ordinarias, extraordinarias, a título de suficiencia y especiales, sólo se utilizarán números enteros de 5 a 10, siendo 6 la mínima aprobatoria, conforme a las siguientes equivalencias:
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
+Para efectos de calificaciones ordinarias, extraordinarias y a título de suficiencia, sólo se utilizarán números enteros de 5 a 10, siendo 6 la mínima aprobatoria, conforme a las siguientes equivalencias.
 
 De 9.5 a 10.0 igual a 10.0
 
@@ -255,17 +259,7 @@ En cada semestre escolar, los alumnos sólo podrán presentar hasta 3 asignatura
 
 ###### ARTÍCULO 34.
 
-Tendrán derecho a presentar evaluación especial, los alumnos que cumplan los siguientes requisitos:
-
-I. No haber presentado la evaluación a título de suficiencia o no haberla acreditado;
-
-II. No ser recursante de la asignatura;
-
-III. Recibir la asesoría en el periodo que la Dirección del plantel establezca; y
-
-IV. Pagar los derechos correspondientes.
-
-En cada semestre escolar, los alumnos sólo podrán presentar hasta 3 asignaturas en evaluación especial.
+(DEROGADO, G.G. 18 DE SEPTIEMBRE DE 2008)
 
 ###### ARTÍCULO 35.
 
@@ -273,7 +267,7 @@ Tendrán derecho a recursar hasta 3 asignaturas curriculares en el semestre, los
 
 I. No haber presentado las evaluaciones a título de suficiencia o no haberlas acreditado;
 
-II. No haber presentado las evaluaciones especiales o no haberlas acreditado; y
+II. (DEROGADA, G.G. 18 DE SEPTIEMBRE DE 2008)
 
 III. Pagar los derechos de reinscripción correspondiente.
 
@@ -299,13 +293,17 @@ Las calificaciones parciales y finales en las diferentes asignaturas se les dar�
 
 En el período ordinario, el profesor deberá dar a conocer al estudiante la calificación obtenida en el curso, a más tardar dentro de las 36 horas hábiles siguientes a la evaluación, en el horario y el salón de clases correspondiente.
 
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 41.
 
-En el caso de las evaluaciones extraordinarias, a título de suficiencia y especiales, los resultados se darán a conocer, como máximo tres días hábiles después de concluida cada fase de que se trate.
+En caso de las evaluaciones extraordinarias y a título de suficiencia, los resultados se darán a conocer, como máximo tres días hábiles después de concluida cada fase de que se trate.
+
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 42.
 
-Si un estudiante presentara inconformidad con la calificación obtenida en las evaluaciones extraordinarias, a título de suficiencia o especial de alguna asignatura, podrá solicitar la revisión correspondiente, dentro de los cinco días hábiles posteriores a la fecha de entrega de resultados, mediante escrito al Director del Plantel, quien designará una comisión que, previo análisis del caso, resolverá lo que proceda dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
+Si un estudiante presenta inconformidad con la calificación obtenida en las evaluaciones extraordinarias o a título de suficiencia, de alguna asignatura, podrá solicitar la revisión correspondiente, dentro de los cinco días hábiles posteriores a la fecha de entrega de resultados, mediante escrito al Director del Plantel, quien designará una comisión que, previo análisis del caso, resolverá lo que proceda dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
 
 ### CAPÍTULO IX. DE LAS BAJAS
 
@@ -331,7 +329,9 @@ II. Académicas definitivas, cuando:
 
 a) El alumno no apruebe alguna asignatura en recursamiento;
 
-b) El alumno acumule hasta 20 evaluaciones reprobadas, considerando las ordinarias, extraordinarias, a título de suficiencia y especiales;
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
+b) El alumno acumule hasta 20 evaluaciones reprobadas, considerando las ordinarias, extraordinarias y a título de suficiencia;
 
 c) El alumno no concluya los estudios dentro del plazo reglamentario de diez semestres; y
 
@@ -562,3 +562,13 @@ DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 G.G. 13 DE FEBRERO DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+
+G.G. 18 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La desaparición del examen especial entrará en vigor a partir del ciclo escolar 2008 B (agosto 2008-febrero 2009).
+
+CUARTO.- Los alumnos que a la fecha de publicación de este acuerdo, cursan el semestre 2008 A (febrero 2008-julio 2008), podrán presentar sólo por única ocasión, el examen especial si a sus intereses conviene.
