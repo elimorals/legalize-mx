@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-general-de-inscripcion-reinscripcion-y-40049"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-17"
-last_updated: "2007-02-13"
+last_updated: "2008-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO GENERAL DE INSCRIPCION, REINSCRIPCION Y EVALUACION DEL APRENDIZAJE DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 17 de junio de 2004.
 
@@ -249,9 +249,11 @@ La reinscripción de alumnos regulares se llevará a cabo en forma automática, 
 
 Los alumnos irregulares que adeuden hasta tres materias curriculares, podrán reinscribirse en el semestre inmediato superior al último cursado.
 
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 33.
 
-Los alumnos en situación académica irregular podrán reinscribirse en las asignaturas adeudadas en su calidad de recursadores en el semestre que corresponda; o bien, presentar el examen especial en el transcurso del semestre, de acuerdo al calendario que establezca la Dirección Académica, según sea el caso.
+los alumnos en situación académica irregular podrán reinscribirse en las asignaturas adeudadas en su calidad de recursadores en el semestre que corresponda.
 
 ###### ARTÍCULO 34.
 
@@ -309,7 +311,9 @@ El alumno será dado de baja en forma temporal en los términos señalados en es
 
 El alumno será dado de baja en forma definitiva cuando:
 
-I. Acumule hasta veinte exámenes reprobados en asignaturas curriculares, sean ordinarios, extraordinarios, a título de suficiencia y especiales, durante su estancia en el Colegio.
+> <small>(REFORMADA, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
+I. Acumule hasta veinte exámenes reprobados en asignaturas curriculares, sean ordinarios, extraordinarios y a título de suficiencia, durante su estancia en el Colegio.
 
 II. Haya cursado por segunda ocasión una asignatura sin haberla aprobado; y
 
@@ -321,15 +325,19 @@ Los expedientes de alumnos que hayan causado baja definitiva o temporal se archi
 
 ### CAPÍTULO IV. DE LA EVALUACIÓN Y ACREDITACIÓN DE ASIGNATURAS
 
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 47.
 
-La acreditación de asignaturas se efectuará en dos periodos, el ordinario y el extraordinario. El ordinario comprende tres evaluaciones parciales y una final; el extraordinario tres evaluaciones: la extraordinaria, a título de suficiencia y la especial.
+la acreditación de asignaturas se efectuará en dos periodos, el ordinario y el extraordinario. El ordinario comprende tres evaluaciones parciales y una final, el extraordinario dos evaluaciones; la extraordinaria y a título de suficiencia.
 
 ###### ARTÍCULO 48.
 
 La escala de calificaciones será de 0 a 10 puntos para evaluaciones parciales y final.
 
-Para efectos de calificaciones ordinarias, extraordinarias y título de suficiencia, sólo se utilizarán números enteros de 5 a 10, siendo 6 la mínima aprobatoria, conforme a las siguientes equivalencias:
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
+Para efectos de calificaciones ordinarias, extraordinarias y a título de suficiencia, sólo se utilizarán números enteros de 5 a 10, siendo 6 la mínima aprobatoria, conforme a las siguientes equivalencias:
 
 De 9.5 a 10.0 igual a 10.0
 
@@ -381,19 +389,19 @@ Cuando exista error en una o varias calificaciones al momento de capturarlas, un
 
 ### CAPÍTULO V. DE LA REGULARIZACIÓN DE ASIGNATURAS
 
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 54.
 
-Se entiende por regularización de materias, al procedimiento mediante el cual el alumno acredita fuera del periodo ordinario de evaluaciones, las asignaturas curriculares que haya reprobado, mediante evaluaciones extraordinarias, a título de suficiencia, especiales y en su caso recursamiento.
+Se entiende por regularización de materias, al procedimiento mediante el cual el alumno acredita fuera del periodo ordinario de evaluaciones, las asignaturas curriculares que haya reprobado, mediante evaluaciones extraordinarias, a título de suficiencia y en su caso recursamiento.
 
 Los alumnos que no acrediten cuatro asignaturas en evaluación extraordinaria deberán recursarlas en el semestre correspondiente.
 
-Para presentar un examen especial, el alumno deberá recibir la asesoría, que para este efecto, programe el plantel.
+> <small>(REFORMADO, G.G. 18 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 55.
 
-El alumno que repruebe hasta tres asignaturas curriculares en evaluación a título de suficiencia, podrá reinscribirse al semestre inmediato siguiente en calidad de irregular y para su regularización, podrá presentar el examen especial y, en su caso, recursarlas en el semestre que corresponda.
-
-Si no aprueba alguna de las materias curriculares en el recursamiento, será dado de baja en forma definitiva.
+El alumno que repruebe hasta tres asignaturas curriculares en evaluación a título de suficiencia, podrá reinscribirse al semestre inmediato siguiente en calidad de irregular y para su regularización, podrá recursarlas en el semestre que corresponda.
 
 ### CAPÍTULO VI. DE LA CONSTANCIA Y CERTIFICACIÓN DE ESTUDIOS
 
@@ -534,3 +542,13 @@ DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 G.G. 13 DE FEBRERO DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+
+G.G. 18 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La desaparición del examen especial entrará en vigor a partir del ciclo escolar 2008 B (agosto 2008-febrero 2009).
+
+CUARTO.- Los alumnos que a la fecha de publicación de este acuerdo, cursan el semestre 2008 A (febrero 2008-julio 2008), podrán presentar sólo por única ocasión, el examen especial si a sus intereses conviene.
