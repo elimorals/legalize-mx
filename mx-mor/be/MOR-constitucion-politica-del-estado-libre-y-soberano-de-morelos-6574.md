@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2008-07-16"
+last_updated: "2008-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -782,13 +782,17 @@ La falta de presentación oportuna, en los plazos que señala esta Constitución
 
 Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en la Auditoría Superior de Fiscalización, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeta de fiscalización en los términos de esta Constitución y la Ley.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado deberá concurrir a la apertura de ambos períodos de sesiones del Congreso.
+A más tardar el quince de febrero de cada año, el Gobernador del Estado enviará al Congreso del Estado un informe por escrito de la situación que guarda la administración pública estatal, salvo el último año de su gestión, en el cual también deberá enviar el informe a más tardar el primer día (sic) septiembre.
 
-El cuarto domingo de septiembre de cada año, el Ejecutivo presentará informe acerca de la situación que guarda la administración pública estatal. El Presidente del Congreso, en la misma sesión, dará contestación a dicho informe; para tal efecto, el Gobernador deberá entregar dicho informe por escrito cuando menos ocho días antes.
+El Congreso analizará el informe y dentro de los veinte días hábiles siguientes a su presentación, podrá solicitar al Ejecutivo amplíe la información mediante pregunta por escrito y citar a los Secretarios de Despacho, al Procurador General de Justicia y a los directores de las entidades paraestatales, para que comparezcan y rindan los informes solicitados bajo protesta de decir verdad.
+
+El Congreso del Estado, podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno del Estado, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días naturales a partir de su formulación.
+
+La Ley Orgánica del Congreso y su reglamento, regularán el ejercicio de estas atribuciones.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -2032,7 +2036,7 @@ II.- Haber residido en el Estado durante los últimos diez años, salvo el caso 
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-III.- Poseer al momento de su designación, con antigüedad mínima de diez años el título y la cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello.
+III.- Poseer al momento de su designación, con antigüedad mínima de diez años el título y la cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello: (sic)
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
@@ -2050,7 +2054,7 @@ VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intenc
 
 VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de gestión y aprobar la evaluación que en su caso se realice.
 
-Los nombramientos de los Magistrados deberán recaer preferentemente entre aquélIas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados.
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados.
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -3240,7 +3244,7 @@ Segundo.- Se derogan todas las disposiciones legales o reglamentarias que se opo
 
 Tercero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Cuarto.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución política del Estado.
+Cuarto.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
 
 P.O. 30 DE JULIO DE 1986.
 
@@ -3444,7 +3448,7 @@ QUINTO.- Se autoriza al Ejecutivo del Estado para que realice las transferencias
 
 P.O. 1 DE OCTUBRE DE 1999.
 
-PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos señalados por los artículos 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos señalados por los artículos 47 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "Tierra y Libertad".
 
@@ -3472,7 +3476,7 @@ DECRETO NUMERO 1234
 
 PRIMERO.- El Presente Decreto de reformas, adiciones y derogaciones a diversas disposiciones de la Constitución Política del Estado de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos; por tanto se dejan sin efectos jurídicos el artículo tercero transitorio de la reforma a esta Constitución, aprobado en el Decreto Número 789 de fecha 30 de octubre de 1996, y publicado en el Periódico Oficial Tierra y Libertad número 3824, con la misma fecha.
 
-SEGUNDO.- A la vigencia de este Decreto, la Oficialía Mayor y la Contaduría Mayor de Hacienda del Congreso del Estado, serán las dependencias encargadas de recibir a través de acta de entrega-recepción los recursos financieros, materiales, jurídicos y en su caso, humanos del organismo público descentralizado del Poder Ejecutivo del Estado, denominado Sistema Morelense de Radio y Televisión, cuya desincorporación del Poder Ejecutivo no rebasará un plazo mayor de veinte días naturales, contados a partir de la vigencia de esta reforma. Adicionalmente, el Congreso del Estado, procederá a emitir el Decreto correspondiente por el que se adecue la naturaleza jurídica, estructura orgánica y funciones de dicho organismo en el Poder Legislativo y emitirá la reforma respectiva al Presupuesto de Egresos, a efecto de que las partidas financieras respectivas pasen a integrarse al presupuesto de egresos del Congreso del Estado.
+SEGUNDO.- A la vigencia de este Decreto, la Oficialía Mayor y la Contaduría Mayor de Hacienda del Congreso del Estado, serán las dependencias encargadas de recibir, a través de acta de entrega-recepción los recursos financieros, materiales, jurídicos y en su caso, humanos del organismo público descentralizado del Poder Ejecutivo del Estado, denominado Sistema Morelense de Radio y Televisión, cuya desincorporación del Poder Ejecutivo no rebasará un plazo mayor de veinte días naturales, contados a partir de la vigencia de esta reforma. Adicionalmente, el Congreso del Estado, procederá a emitir el Decreto correspondiente por el que se adecue la naturaleza jurídica, estructura orgánica y funciones de dicho organismo en el Poder Legislativo y emitirá la reforma respectiva al Presupuesto de Egresos, a efecto de que las partidas financieras respectivas pasen a integrarse al presupuesto de egresos del Congreso del Estado.
 
 La Entrega recepción de dicho organismo, no excluye la facultad de la Contaduría Mayor para hacer las revisiones que procedan y determinar en su caso las responsabilidades jurídicas durante el período de gestión anterior a la recepción del organismo por el Poder Legislativo.
 
@@ -3871,3 +3875,11 @@ OCTAVO.- Aquellos Magistrados que tengan antecedentes como trabajadores al servi
 La pensión se otorgará con base en lo que prevea la Ley de la materia, tomando en cuenta el último cargo que hayan tenido en el servicio público antes de ser Magistrados, actualizada o en su caso la homóloga a la fecha en que les sea otorgada la pensión, contándose sólo para efectos de antigüedad el tiempo que ocuparon el cargo de Magistrados.
 
 NOVENO.- Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 18 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. Aprobado que sea el presente Decreto por el Pleno del Congreso del Estado, remítase al Constituyente Permanente de la Entidad para los efectos constitucionales correspondientes.
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, previa declaratoria de aprobación por parte del Congreso del Estado.
+
+TERCERO.- Por única ocasión, en los años dos mil ocho y dos mil nueve, el Gobernador del Estado de Morelos enviará por escrito el informe de gobierno a más tardar el diecinueve de septiembre de los años mencionados.
