@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-y-denuncias-del-instituto-federal-61954"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2008-07-18"
+last_updated: "2008-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61954&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE QUEJAS Y DENUNCIAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 18 de julio de 2008.
 
@@ -147,7 +147,9 @@ c) Otros procedimientos administrativos para el conocimiento de faltas al Códig
 
 3. El procedimiento especial sancionador será instrumentado en los casos siguientes:
 
-a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios de los artículos 41, Base III, apartado C, de la Constitución, y 38, párrafo 1, inciso p), del Código, por propaganda política o electoral de partidos políticos que denigre a las instituciones o calumnie a las personas.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+
+a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
 
 b) Fuera del proceso electoral, a nivel distrital, por faltas a que se refiere el artículo 371, párrafo 1 del Código, cuando las denuncias tengan como motivo la comisión de conductas referidas a la ubicación física o al contenido de propaganda política o electoral impresa, de aquella pintada en bardas, o de cualquier otra diferente a la transmitida por radio o televisión, así como cuando se refieran a actos anticipados de precampaña o campaña en que la conducta infractora esté relacionada con ese tipo de propaganda.
 
@@ -205,7 +207,11 @@ c) Por cuanto a los conceptos:
 
 I. Procedimiento sancionador ordinario: Procedimiento para el conocimiento de las faltas y la aplicación de sanciones administrativas a que se refieren los artículos 361 al 366 del Código;
 
-II. Procedimiento especial sancionador: procedimiento para el conocimiento en todo tiempo de las conductas violatorias del inciso p), párrafo 1 del artículo 38 del Código, y 371, párrafo 1 del propio instrumento; así como durante los procesos electorales de aquellas conductas a que se refieren los artículos 367 y 371, párrafo 1 de ese ordenamiento;
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+
+II. Procedimiento especial sancionador: procedimiento expedito para el conocimiento de conductas violatorias a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña.
+
+En caso de que el procedimiento especial sea iniciado fuera del proceso electoral, las violaciones a que refiere el párrafo anterior deberán estar relacionadas con la difusión de propaganda política o electoral en radio y televisión.
 
 III. Queja o denuncia: Acto por medio del cual se hacen del conocimiento del Instituto los hechos presuntamente violatorios de la normatividad electoral federal;
 
@@ -625,13 +631,15 @@ Cómputo de los plazos
 
 ### CAPITULO PRIMERO. Del trámite inicial
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+
 Artículo 20
 
 De la materia y procedencia
 
-1. El presente procedimiento será aplicable fuera de los procesos electorales para los casos de violaciones al Código distintas tanto a las vinculadas al inciso p), del párrafo 1, del artículo 38, como a las que señala el artículo 371 de ese ordenamiento.
+1. El presente procedimiento será aplicable en cualquier tiempo para los casos de violaciones a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando se trate de propaganda distinta a la difundida en radio o televisión, así como para la atención de conductas diversas a las señaladas en los artículos y supuestos citados.
 
-2. Durante los procesos electorales, el procedimiento sancionador ordinario se tramitará para la atención de conductas diversas a las señaladas en los artículos citados en el párrafo precedente y en el artículo 367 del Código.
+2. Las quejas y denuncias relacionadas con actos anticipados de precampaña y campaña deberán ser resueltas por el Consejo previo a la fecha fijada por el Código para la aprobación del registro de precandidatos y candidatos, respectivamente.
 
 Artículo 21
 
@@ -1291,7 +1299,9 @@ Procedencia
 
 2. El procedimiento especial sancionador será instrumentado en los casos siguientes:
 
-a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios de los artículos 41, Base III, apartado C, de la Constitución, y 38, párrafo 1, inciso p), del Código, por propaganda política o electoral de partidos políticos que denigre a las instituciones o calumnie a las personas.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+
+a) Fuera del proceso electoral, a nivel central, por actos presuntamente violatorios a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
 
 b) Fuera del proceso electoral, a nivel distrital, por faltas a que se refiere el artículo 371, párrafo 1 del Código, cuando las denuncias tengan como motivo la comisión de conductas referidas a la ubicación física o al contenido de propaganda política o electoral impresa, de aquella pintada en bardas, o de cualquier otra diferente a la transmitida por radio o televisión, así como cuando se refieran a actos anticipados de precampaña o campaña en que la conducta infractora esté relacionada con ese tipo de propaganda.
 
@@ -1307,7 +1317,9 @@ IV. Por actos anticipados de precampaña o campaña.
 
 d) Dentro del proceso electoral, a nivel distrital, por la comisión de lo previsto en el párrafo 1 del artículo 371 del Código.
 
-3. Las Juntas Distritales conocerán de este procedimiento en su carácter de órganos resolutotes (sic), tanto fuera del proceso electoral en términos del artículo 371 del Código, como desde el inicio del proceso electoral federal, y hasta que se integren los Consejos Distritales, de conformidad con el inciso c), párrafo 1 del artículo 141 del Código, mismos que asumirán dicha competencia una vez instalados.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+
+3. Las Juntas Distritales conocerán de este procedimiento en su carácter de órganos resolutores, tanto fuera del proceso electoral en términos del artículo 371 del Código, como desde el inicio del proceso electoral federal, y hasta que se integren los Consejos Distritales, de conformidad con el inciso c), párrafo 1 del artículo 141 del Código, mismos que asumirán dicha competencia una vez instalados.
 
 4. Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la realización de los procesos electorales de las entidades federativas, la autoridad electoral administrativa competente presentará la denuncia ante el Instituto Federal Electoral.
 
@@ -1393,7 +1405,9 @@ Artículo 68
 
 De las medidas cautelares en el Procedimiento Especial Sancionador fuera de los procesos electorales
 
-1. Fuera de los procesos electorales, las medidas cautelares sólo podrán ser dictadas por la Comisión o el Consejo, respecto de los procedimientos que hayan sido admitidos o atraídos por la Secretaría, en términos de lo dispuesto por el artículo 13 del presente Reglamento, o ante la probable conculcación a lo establecido en el inciso p), párrafo 1, del artículo 38 del Código.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2008)</small>
+
+1. Las medidas cautelares sólo podrán ser dictadas por la Comisión o el Consejo, respecto de los procedimientos que hayan sido admitidos o atraídos por la Secretaría, en términos de lo dispuesto por el artículo 13 del presente Reglamento, o ante la probable conculcación a lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; que contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en el Código Federal de Instituciones y Procedimientos Electorales; o que constituyan actos anticipados de precampaña o campaña, siempre y cuando, las posibles violaciones se encuentren relacionadas con la difusión de propaganda que pudiera considerarse política o electoral en radio y televisión.
 
 2. Las sesiones podrán llevarse a cabo cualquier día del año, atendiendo a las reglas del quórum señaladas en el artículo 13 del presente Reglamento.
 
@@ -1724,3 +1738,9 @@ Segundo.-Se deroga el párrafo 5 del artículo 23 del Reglamento de Sesiones de 
 Tercero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 19 DE SEPTIEMBRE DE 2008.
+
+LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
