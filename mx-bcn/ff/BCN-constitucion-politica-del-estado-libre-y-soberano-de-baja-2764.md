@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2008-08-14"
+last_updated: "2008-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -225,13 +225,13 @@ d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic
 
 Son obligaciones de los habitantes del Estado:
 
-I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
+I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
+II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley;
 
-III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
+III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -563,9 +563,9 @@ Conocer de las imputaciones que se hagan a los servidores públicos a que se ref
 
 XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
 
-XXVI.- Crear o suprimir municipios, en los términos de esta Constitución, así como fijar y modificar la extensión de sus territorios, por el voto de las dos terceras partes de los Diputados integrantes del Congreso;
+XXVI.- Crear o suprimir municipios, fijar, delimitar y modificar la extensión de sus territorios, autorizar mediante Decreto los convenios amistosos que sobre sus respectivos límites celebren los municipios; así como dirimir de manera definitiva las controversias o diferencias que se susciten sobre límites territoriales intermunicipales, modificando en su caso el Estatuto Territorial. Lo previsto en esta fracción se sujetará, a la emisión del voto aprobatorio de las dos terceras partes de los Diputados integrantes del Congreso;
 
 XXVII.- Conceder amnistía por delitos de carácter político de la competencia de los tribunales del Estado, cuando la pena no exceda de tres años de prisión, no se trate de reincidentes y siempre que sea acordada por dos tercias partes de los diputados presentes;
 
@@ -587,7 +587,7 @@ XXXII.- Nombrar al Procurador General de Justicia del Estado, por el voto de las
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
 
-XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y
+XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y (sic)
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
@@ -977,7 +977,9 @@ XIX.- Conceder licencias de acuerdo a la Ley del Servicio Civil y demás disposi
 
 XX.- Proveer a la ejecución de las obras públicas;
 
-XXI.- Fomentar el turismo y el desarrollo industrial, agrícola y ganadero del Estado;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+
+XXI.- Fomentar el turismo, el desarrollo industrial, agrícola, ganadero y el aprovechamiento de las fuentes renovables de energía.
 
 XXII.- Celebrar convenios con la Federación sobre participación de impuestos y coordinar sus esfuerzos en el Estado, a efecto de atender lo relativo a educación, salubridad y asistencia pública y para la construcción de caminos vecinales, así como en aquellas obras cuya ejecución pueda llevarse a cabo en cooperación con el Gobierno Federal y sujetándose el Ejecutivo Local a lo dispuesto por las Leyes respectivas;
 
@@ -1511,6 +1513,18 @@ V.- Los demás requisitos que determine la Ley.
 
 En el caso de la fijación y modificación de los límites territoriales de los municipios, además de lo que establezca la Ley, se estará a lo dispuesto en las fracciones III y IV de este Artículo.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+
+Los municipios pueden arreglar entre sí, mediante convenios amistosos, sus respectivos límites territoriales; pero no se llevarán a efecto estos arreglos sin la aprobación del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+
+A falta de acuerdo, cualquiera de las partes podrá acudir entre el Congreso del Estado, quien actuará en términos del artículo 27, fracción XXVI, de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+
+Las Resoluciones del Congreso en la materia serán definitivas e inatacables.
+
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 77.
@@ -1975,7 +1989,7 @@ Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del S
 
 I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
 
 III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
@@ -2240,34 +2254,6 @@ El Gobernador Provisional cesará el día en que, conforme a la presente Constit
 Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta Constitución se reducen a treinta días.
 
 Mexicali, B. Cfa., 15 de Agosto de 1953.
-
-LIC. EVARISTO BONIFAZ GOMEZ,
-
-Dip. Presidente,
-
-MIGUEL CALETTE ANAYA,
-
-Dip. Vicepresidente,
-
-DIPUTADOS:
-
-DR. FRANCISCO DUEÑAS MONTES
-
-AURELIO CORRALES JR.
-
-LIC. FRANCISCO H. RUIZ JR.
-
-LIC. ALEJANDRO LAMADRID JR.
-
-Dip. Secretario,
-
-CELEDONIO APODACA BARRERA,
-
-Dip. Prosecretario.
-
-En tal virtud y con fundamento en los artículos 7 siete del Decreto de 10 diez de noviembre de 1952 mil novecientos cincuenta y dos publicado en el Diario Oficial de la Federación (número 17 del Tomo CXCV), correspondiente al día 21 veintiuno del mismo mes y Primero Transitorio de la Constitución del Estado de Baja California, promúlguese por Bando Solemne y publíquese en el Periódico Oficial y en los lugares públicos.
-
-Dado en el Palacio del Poder Ejecutivo en Mexicali, Estado de Baja California a 16 dieciséis de agosto de 1953 mil novecientos cincuenta y tres.
 
 Dip. Presidente,
 
@@ -2755,14 +2741,6 @@ Las presentes reformas iniciarán su vigencia una vez que se realicen las adecua
 
 El Gobierno del Estado deberá realizar las acciones necesarias, a efecto de transferir en ejercicio de plenitud, la prestación de los servicios y funciones de naturaleza municipal, que esta Constitución atribuye a favor de los ayuntamientos, dentro del término de un año, contado a partir de la entrada en vigor de las presentes reformas.
 
-P.O. 14 DE SEPTIEMBRE DE 2001.
-
-PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
-
-SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
-
-TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
-
 P.O. 22 DE JUNIO DEL 2001.
 
 PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado.
@@ -2770,6 +2748,14 @@ PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2001, el nombramiento de los Magistrados que iniciarán su cargo a partir del primero de noviembre del 2001.
+
+P.O. 14 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
+
+SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
 
 P.O. 7 DE DICIEMBRE DE 2001.
 
@@ -2986,3 +2972,25 @@ II. En el supuesto de que transcurridas dos rondas de votación, el aspirante pr
 III. Corresponderá en todos los casos, a la Comisión de Reglamentos y Asuntos Jurídicos a que se refiere la fracción II del artículo 121 de la Ley de Instituciones y Procesos Electorales, dictaminar sobre los requisitos de elegibilidad de los candidatos que se propongan, quienes deberán reunir los requisitos referidos en el artículo 130 de la Ley.
 
 IV. El Director General del Instituto Electoral y de Participación Ciudadana, que se elija bajo el procedimiento de este artículo, estará en funciones cuatro años, y en su caso, hasta que el Consejo General Electoral, designe a un nuevo Director General.
+
+P.O. 19 DE SEPTIEMBRE DE 2008.
+
+DECRETO No. 122, POR EL QUE SE ADICIONA LA FRACCION XXI DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+Artículo Primero.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo.- Para los efectos de lo dispuesto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase la presente iniciativa a los Ayuntamientos de la entidad.
+
+P.O. 19 DE SEPTIEMBRE DE 2008.
+
+DECRETO No.123, POR EL QUE SE REFORMA LA FRACCION XXVI DEL ARTICULO 27 Y SE ADICIONA EL ARTICULO 76 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
+
+CUARTO.- Se establece el plazo de 45 días, a efecto de que el Congreso del Estado realice las reformas legales correspondientes.
+
+QUINTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
