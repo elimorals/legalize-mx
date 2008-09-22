@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2008-07-07"
+last_updated: "2008-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 22 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -1300,3 +1302,31 @@ Artículo Segundo.- El Ejecutivo del Estado, así como los Ayuntamientos de la e
 P.O. 7 DE JULIO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley del Sistema de Seguridad Pública del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 24 de Mayo de 1996 y sus reformas, así como cualquiera otra disposición que se oponga al presente Decreto.
+
+Artículo Tercero.- El Poder Ejecutivo presentará la iniciativa al Congreso del Estado, para la regulación del denominado "Instituto Estatal de Seguridad Pública" en un plazo no mayor de 30 días naturales, contados a partir de la fecha de entrada en vigor de este Decreto.
+
+Artículo Cuarto.- Hasta en tanto no se expida y entre en vigor la Ley de Instituto Estatal de Seguridad Pública, las atribuciones del mismo establecidas en esta Ley, serán ejercidas por la Secretaría de Seguridad Pública del Estado.
+
+Artículo Quinto.- El Congreso del Estado dentro del plazo de 30-treinta días naturales contados a partir de la fecha de la entrada en vigor de este Decreto, deberá expedir la convocatoria a que se refiere el segundo párrafo del Artículo 100 a efecto de nombrar los integrantes del Consejo Ciudadano establecido en la presente Ley.
+
+Artículo Sexto.- Se deberá presentar al Congreso en un plazo no mayor a 180- ciento ochenta días naturales contados a partir de la entrada en vigor de este Decreto, las iniciativas de Ley del Servicio Policial de Carrera y de la Ley relativa a la regulación de los Comités de Participación Comunitaria en materia de Seguridad Pública a que se refiere el Artículo 118 de este ordenamiento.
+
+Artículo Séptimo.- El Titular del Poder Ejecutivo deberá expedir en un plazo no mayor a 180-ciento ochenta días naturales, contado a partir de la entrada en vigor de este Decreto los siguientes Reglamentos: Reglamento relativo a la regulación del Sistema Estatal de Información para la Seguridad Pública a que se refiere el Artículo 19 de este ordenamiento; Reglamento relativo a la regulación de los Procesos de Evaluación en materia de Seguridad Pública a que se refiere el Artículo 30 de este ordenamiento; Reglamento relativo a la Seguridad y Protección de los Servidores Públicos a que se refiere el Artículo 54 de este ordenamiento; Reglamento relativo a la regulación de los Programas de Prevención del Delito a que se refiere el Artículo 95 de este ordenamiento; Reglamento relativo a la organización y funcionamiento de la Agencia Estatal de Policía a que se refiere el Artículo 129 de este ordenamiento, incluyendo lo relativo a la regulación de los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción de la Agencia Estatal de Policía a que se refiere el Artículo 147 de dicho cuerpo legal; Reglamento relativo al Régimen Interior de las Instituciones Penitenciarias del Estado a que se refiere el Artículo 186 de este ordenamiento; y el Reglamento de la Academia Estatal de Seguridad Pública de Nuevo León.
+
+Artículo Octavo.- A la entrada en vigor de la presente Ley se le otorga a los Ayuntamientos de los Municipios del Estado un plazo no mayor a 180 días naturales a efecto de que procedan a cumplir con los requisitos de acreditación y certificación de los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción que tengan a su cargo, conforme al Artículo 148 de este ordenamiento.
+
+Artículo Noveno.- Los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán instrumentar los mecanismos necesarios para adecuar los esquemas de organización y funcionamiento de sus instituciones policiales, en los términos de los Artículos 130, 131, 132 y 133 de este ordenamiento, así como modificar o expedir, en su caso, la reglamentación municipal dentro de un plazo no mayor a 180-ciento ochenta días naturales contados a partir de la publicación del presente decreto.
+
+Artículo Décimo.- El Artículo 215 fracción II entrará en vigor a los 365 días naturales contados a partir de la vigencia de este Decreto.
+
+Artículo Décimo Primero.- La Secretaría por conducto de la Academia de Seguridad Pública deberá actualizar los planes y programas de formación, capacitación, actualización y profesionalización de las instituciones policiales preventivas Estatal y Municipal, a fin de ajustarlos a las disposiciones de esta Ley dentro de un plazo no mayor a 180-ciento ochenta días naturales contados a partir de la publicación del presente Decreto.
+
+Artículo Décimo Segundo.- El Ejecutivo del Estado determinará la factibilidad de reasignación presupuestal dentro del presente ejercicio fiscal para la instalación y funcionamiento del Instituto Estatal de Seguridad Pública.
+
+Artículo Décimo Tercero.- Se derogan las disposiciones contenidas en Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
