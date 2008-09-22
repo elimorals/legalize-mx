@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2008-08-04"
+last_updated: "2008-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 107 POR LA SEXAGESIMA LEGISLATURA DEL ESTADO, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL PRESENTE ORDENAMIENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DEL 4 DE AGOSTO DE 2008.</small>
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
@@ -187,9 +185,17 @@ VII.- Dirección de Atención y Desarrollo a Personas Adultas Mayores;
 
 VIII:- Coordinación de Giras y Eventos;
 
-IX.- Coordinación General del Voluntariado; y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
 
-X.- Coordinación de Comunicación Social.
+IX.- Coordinación General del Voluntariado;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
+
+X.- Coordinación de Comunicación Social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Coordinación de trabajo Social.
 
 La Dirección General adicionalmente se auxiliará directamente de las siguientes unidades de apoyo: Secretaría Particular, Coordinación de Relaciones Públicas y Enlace con el Sector Empresarial. Asimismo contará con las unidades administrativas necesarias para administrar programas especiales y de asesoría que requiera.
 
@@ -633,13 +639,13 @@ XVIII.- Elaborar y proponer las actualizaciones de los Manuales de Organización
 
 XIX.- Concentrar y auditar el Padrón Único de Beneficiarios del DIF Estatal, reportar anomalías y avances al Director General y Directores de Área, informando a las Instituciones y ciudadanos que lo soliciten;
 
-XX.- Coordinar, regular y supervisar la distribución de los apoyos proporcionados por medio de los diferentes programas que son responsabilidad de la Dirección;
+XX.- (REFORMADA [N. DE E. DEROGADA], P.O. 22 DE SEPTIEMBRE DE 2008)
 
-XXI.- Integrar los expedientes de los fideicomisarios atendidos por cada uno de los fideicomisos, aprobados en las reuniones de los comités técnicos respectivos;
+XXI.- (REFORMADA [N. DE E. DEROGADA], P.O. 22 DE SEPTIEMBRE DE 2008)
 
-XXII.- Supervisar los estudios socioeconómicos que realiza Trabajo Social del DIF Estatal y dar el visto bueno para el apoyo que se sugiere;
+XXII.- (REFORMADA [N. DE E. DEROGADA], P.O. 22 DE SEPTIEMBRE DE 2008)
 
-XXIII.- Realizar los estudios socioeconómicos que requieren de una atención especial; y
+XXIII.- (REFORMADA [N. DE E. DEROGADA], P.O. 22 DE SEPTIEMBRE DE 2008)
 
 XXIV.- Las señaladas en el Artículo 38 de este ordenamiento jurídico.
 
@@ -774,6 +780,22 @@ XIV.- Controlar el techo financiero asignado para la publicidad de los diversos 
 XV.- Definir los criterios básicos de acceso y coordinar la presentación de las diversas áreas a cualquier medio de comunicación; y
 
 XVI.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 37 bis.- El Coordinador de trabajo Social dependerá directamente del Director General y le corresponde:
+
+I.- Coordinar, regular y supervisar la distribución de los apoyos proporcionados por medio de los diferentes programas que son responsabilidad de la Coordinación;
+
+II.- Integrar los expedientes de los fideicomisos atendidos por cada uno de los fideicomisos, aprobados en las reuniones de los comités técnicos respectivos;
+
+III.- Supervisar los estudios socioeconómicos que realiza el personal de Trabajo Social del DIF Estatal y dar el visto bueno para el apoyo que se sugiere;
+
+IV.- Realizar los estudios socioeconómicos que requieren de una atención especial;
+
+V.- Coordinarse con cada una de las direcciones que requieren de la participación del área de trabajo social a fin de determinar el procedimiento de intervención en cada una de ellas a fin de brindar el mejor apoyo a la población que se pretende beneficiar; y
+
+VI.- Las señaladas en el artículo 38 de este ordenamiento jurídico y las demás que determine la Dirección General.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -961,11 +983,7 @@ d) Unidad de Investigación y Estudios;
 
 e) Unidad de Estadística y Evaluación;
 
-f) Departamento de Trabajo Social:
-
-1. Unidad de Administración de Fideicomisos;
-
-2. Supervisor de Trabajo Social.
+f) (REFORMADO [N. DE E. DEROGADO], P.O. 22 DE SEPTIEMBRE DE 2008)
 
 g) Unidad de control de peticiones.
 
@@ -1030,6 +1048,20 @@ a) Unidad de Diseño Gráfico;
 b) Unidad de Difusión;
 
 c) Unidad de Información.
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- COORDINACION DE TRABAJO SOCIAL:
+
+1.- Unidad de Administración de Fideicomisos;
+
+2.- Supervisor de Trabajo Social;
+
+3.- Unidad de Trabajo social de Servicios Médicos;
+
+4.- Unidad de Trabajo Social de Procuraduría;
+
+5.- Unidad de Trabajo Social de Gestión Social.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -1791,13 +1823,13 @@ Al término del plazo señalado en el supuesto del artículo anterior, se realiz
 
 En caso de que las anomalías no hayan sido corregidas en el plazo concedido se procederá según correspondan, levantándose igualmente el reporte respectivo, haciéndose del conocimiento al interesado y a quien competa.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 113.
 
 El Consejo Técnico para la Beneficencia Privada en Asamblea Ordinaria o Extraordinaria evaluará el seguimiento y avances de las resoluciones.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 114.
 
@@ -1811,7 +1843,7 @@ El Consejo Técnico para la Beneficencia Privada notificará a la Institución s
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 115.
 
@@ -1884,3 +1916,7 @@ Este Reglamento entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones reglamentarias que se contengan en otros ordenamientos legales y que contravengan las normas del presente Reglamento.
+
+P.O. 22 DE SEPTIEMBRE DE 2008.
+
+LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS REFORMADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
