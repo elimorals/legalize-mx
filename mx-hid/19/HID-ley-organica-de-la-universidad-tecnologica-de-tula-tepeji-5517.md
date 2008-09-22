@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-universidad-tecnologica-de-tula-tepeji-5517"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-06"
-last_updated: "1992-07-06"
+last_updated: "2008-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE TULA-TEPEJI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE TULA-TEPEJI, PUBLICADA EN EL P.O. DE 22 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 6 de julio de 1992.
 
@@ -338,3 +340,27 @@ LIC. ADOLFO LUGO VERDUZCO.
 EL SECRETARIO DE GOBERNACION:
 
 PROFR. HERNAN MERCADO PEREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley, entrará en vigor el cuarto día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto No. 230 de fecha 18 de junio de 1992, Publicado en el Periódico Oficial del Estado de fecha 06 de julio de 1992.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Estatuto Orgánico de la Universidad Tecnológica de Tula-Tepeji, seguirá vigente en tanto se expida la modificación correspondiente: el cual deberá expedirse dentro de los sesenta días hábiles siguientes, a partir de la Publicación de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Organismo Público a que se refiere esta Ley, subsiste con la personalidad jurídica y patrimonio propios que actualmente tiene, reconociéndose los compromisos que haya adquirido desde su creación.
