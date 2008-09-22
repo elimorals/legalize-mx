@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-alumbrado-publico-para-el-municipio-de-55510"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-04"
-last_updated: "2007-05-11"
+last_updated: "2008-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO DE ALUMBRADO PUBLICO PARA EL MUNICIPIO DE CULIACAN, SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de octubre de 1995.
 
@@ -257,15 +257,23 @@ I.- Encender y apagar parcial o totalmente los sistemas de alumbrado público, s
 
 II.- Colocar, fijar y pintar propaganda en los arbotantes del alumbrado público excepto en los casos y condiciones que señalen las leyes;
 
-III.- Colgar objetos en los arbotantes, cables e instalaciones en general del alumbrado público;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
 
-IV.- Utilizar los arbotantes de los sistemas de alumbrado público para sostener o apoyar en ellos instalaciones de cualquier tipo;
+III.- Colgar objetos en los arbotantes, cables e instalaciones en general del alumbrado público, salvo en los casos en que exista autorización expresa de la Dirección de Servicios Públicos;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- Utilizar los arbotantes de los sistemas de alumbrado público para sostener o apoyar en ellos instalaciones de cualquier tipo, salvo en los casos en que exista autorización expresa de la Dirección de Servicios Públicos;
 
 V.- Arrojar objetos a las lámparas y luminarias del alumbrado público;
 
 VI.- Causar daños a las instalaciones de los sistemas de alumbrado público; y
 
 VII.- Tomar y aprovechar, energía eléctrica de las instalaciones de los sistemas de alumbrado público.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
+
+La autorización a que se refieren las fracciones III y IV consistirán en una Carta de Opinión Favorable, en la que se haga constar que los objetos que se vayan a instalar aprovechando la infraestructura eléctrica no obstruyan la prestación del servicio de alumbrado público ni entrañen riesgos para las personas.
 
 ### CAPITULO VII (SIC). DE LA INSPECCION Y VIGILANCIA
 
@@ -418,3 +426,7 @@ P.O. 11 DE MAYO DE 2007.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE SEPTIEMBRE DE 2008.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
