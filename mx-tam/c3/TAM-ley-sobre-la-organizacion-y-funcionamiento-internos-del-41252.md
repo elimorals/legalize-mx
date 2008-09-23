@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2007-10-09"
+last_updated: "2008-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -479,11 +479,17 @@ n) Trabajo y Seguridad Social;
 
 ñ) Justicia y Derechos Humanos;
 
-o) Equidad y Género, y
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2006)</small>
+o) Equidad y Género;
 
-p) Asuntos Fronterizos y Migratorios.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+p) Asuntos Fronterizos y Migratorios; y,
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+q) Atención a Grupos Vulnerables.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -2238,3 +2244,9 @@ P.O. 9 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición se publicará en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
