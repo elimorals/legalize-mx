@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-electoral-del-estado-de-52284"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2008-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO -ANTES REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de octubre de 2006.
 
@@ -31,15 +31,19 @@ TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
 
 El Pleno del Tribunal Estatal Electoral de Guanajuato, con fundamento en lo dispuesto por los artículos 31 de la Constitución Política para el Estado de Guanajuato y 350, fracción III, del Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, expide el siguiente:
 
-REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO
 
 ## TÍTULO PRIMERO. DEL FUNCIONAMIENTO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de este Reglamento norman la organización y funcionamiento del Tribunal Estatal Electoral de Guanajuato, conforme a las atribuciones que le confieren la Constitución Política para el Estado de Guanajuato y el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+Las disposiciones de este Reglamento norman la organización y funcionamiento del Tribunal Electoral del Estado de Guanajuato, conforme a las atribuciones que le confieren la Constitución Política para el Estado de Guanajuato y el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 ###### Artículo 2.
 
@@ -61,15 +65,25 @@ V. Ley de Responsabilidades: La Ley de Responsabilidades Administrativas de los 
 
 VI. Ley del Trabajo de los Servidores Públicos: La Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios;
 
-VII. Magistrado o Magistrados: El o los Magistrados que integran las Salas Unitarias del Tribunal Estatal Electoral de Guanajuato;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
-VIII. Pleno: El Pleno del Tribunal Estatal Electoral de Guanajuato;
+VII. Magistrado o Magistrados: El o los Magistrados que integran las Salas Unitarias del Tribunal Electoral del Estado Guanajuato;
 
-IX. Presidente: El Magistrado Presidente del Tribunal Estatal Electoral de Guanajuato;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
-X. Reglamento: El Reglamento Interior del Tribunal Estatal Electoral de Guanajuato;
+VIII. Pleno: El Pleno del Tribunal Electoral del Estado de Guanajuato;
 
-XI. Tribunal: El Tribunal Estatal Electoral de Guanajuato.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+IX. Presidente: El Magistrado Presidente del Tribunal Electoral del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+X. Reglamento: El Reglamento Interior del Tribunal Electoral del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+XI. Tribunal: El Tribunal Electoral del Estado de Guanajuato.
 
 ###### Artículo 4.
 
@@ -239,7 +253,9 @@ X. Suscribir los nombramientos del personal del Tribunal y tomar la protesta de 
 
 XI. Delegar atribuciones y facultades de carácter administrativo entre el personal jurídico o administrativo del Tribunal, salvo aquéllas que por disposición legal deba ejercer personalmente;
 
-XII. Celebrar convenios de carácter académico y los demás necesarios, en el ámbito de su competencia, para dar cumplimiento a lo dispuesto en el artículo 350, fracción IV, del Código Electoral;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+XII. Celebrar convenios de carácter académico y los demás necesarios, en el ámbito de su competencia, para dar cumplimiento a lo dispuesto en el artículo 350, fracción V, del Código Electoral;
 
 XIII. Dar a conocer al Pleno de las irregularidades de carácter administrativo o de alguna otra índole que afecten el buen funcionamiento del Tribunal;
 
@@ -405,7 +421,9 @@ XIX. Apoyar al Tribunal en las tareas de capacitación, investigación y difusi�
 
 XX. Recabar la información correspondiente a todas las áreas del Tribunal, para la elaboración del informe que deba rendir el Presidente sobre la calificación del proceso electoral ante los representantes de los tres Poderes del Estado;
 
-XXI. Cumplir con las funciones y responsabilidades que se establecen en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, así como en el Reglamento de Acceso a la Información Pública del Tribunal Estatal Electoral, como titular de la Unidad de Acceso a la Información Pública, salvo acuerdo del Pleno, que durante el proceso electoral podrá encomendar dichas tareas a otro servidor público del Tribunal;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+XXI. Cumplir con las funciones y responsabilidades que se establecen en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y su Reglamento, como titular de la Unidad de Acceso a la Información Pública, salvo acuerdo del Pleno, que durante el proceso electoral podrá encomendar dichas tareas a otro servidor público del Tribunal;
 
 XXII. Cumplir con las tareas y atribuciones que se derivan de la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato, en su calidad de responsable de la Protección de Datos Personales al interior del Tribunal; y
 
@@ -647,13 +665,17 @@ V. No haber sido condenado ejecutoriamente por algún delito doloso, que amerite
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DEL INSTITUTO DE INVESTIGACIÓN Y CAPACITACIÓN ELECTORAL
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 38.
 
-Para dar cumplimiento a lo dispuesto en la fracción IV del artículo 350 del Código Electoral, el Tribunal contará con el Instituto de Investigación y Capacitación Electoral en el auxilio de las tareas de capacitación, investigación y difusión en materia de derecho electoral.
+Para dar cumplimiento a lo dispuesto en la fracción V del artículo 350 del Código Electoral, el Tribunal contará con el Instituto de Investigación y Capacitación Electoral.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
-El Instituto será coordinado por el Magistrado que designe el Pleno y su función tendrá carácter honorífico.
+El Instituto será coordinado por el Magistrado o servidor público que designe el Pleno y su función tendrá carácter honorífico.
 
 ###### Artículo 40.
 
@@ -829,7 +851,9 @@ IV. Cuidar y usar los recursos públicos con probidad y en la forma prevista por
 
 V. Custodiar la documentación e información que conserve o a la que tenga acceso, por razón de su empleo, cargo o comisión, así como evitar e impedir el uso, sustracción, destrucción u ocultamiento indebidos de aquélla;
 
-VI. Respetar el derecho de acceso a la información pública en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y del Reglamento de Acceso a la Información Pública del Tribunal Estatal Electoral de Guanajuato;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
+VI. Respetar el derecho de acceso a la información pública en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y del Reglamento respectivo emitido por el Tribunal;
 
 VII. Guardar el orden en el trabajo y tratar con respeto, diligencia, imparcialidad y rectitud a todas aquellas personas con las que tenga relación en el desempeño de éste;
 
@@ -1033,9 +1057,11 @@ Concluido el medio de impugnación, cualquier persona que tenga interés podrá 
 
 ### CAPÍTULO SEGUNDO. DE LAS REGLAS DEL TURNO
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 82.
 
-De conformidad con lo previsto en los artículos 300, 303 Y 359 del Código Electoral y 88 de este Reglamento, los recursos, asuntos laborales y procedimientos especiales de sanción, serán turnados por la Oficialía Mayor a las Salas o al Pleno, siguiendo estricto orden progresivo, tomando en consideración el número ordinal que le corresponda, registrándose en el libro de entradas y especificando la hora precisa de su recepción.
+De conformidad con lo previsto en los artículos 300, 303 y 362 del Código Electoral y 88 de este Reglamento, los recursos, asuntos laborales y procedimientos especiales de sanción, serán turnados por la Oficialía Mayor a las Salas o al Pleno, siguiendo estricto orden progresivo, tomando en consideración el número ordinal que le corresponda, registrándose en el libro de entradas y especificando la hora precisa de su recepción.
 
 Sólo en los casos donde existiere notoria vinculación en los asuntos de que conozca el Tribunal, la Presidencia determinará lo que corresponda.
 
@@ -1081,6 +1107,8 @@ Tratándose de recursos de revisión interpuestos por los ciudadanos, en los que
 
 ### CAPÍTULO QUINTO. DEL PROCEDIMIENTO ESPECIAL DE SANCIÓN
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 91.
 
 En el recurso de apelación, la Secretaría de la Sala Responsable dará cuenta de inmediato al Magistrado, y deberá remitir dentro de las 24 horas siguientes el escrito de interposición con el expediente original a la Secretaría General del Tribunal.
@@ -1105,7 +1133,7 @@ En la votación para este recurso, se observarán las reglas que establecen los 
 
 ###### Artículo 94.
 
-Las infracciones de carácter electoral a que se refieren los artículos 361, 362 y 363 del Código Electoral, serán substanciadas por la Presidencia y resueltas por el Pleno del Tribunal.
+Las infracciones de carácter electoral a que se refieren los artículos 359, 359 Bis, 359 Bis 1, 359 Bis 2, 359 Bis 3, 359 Bis 4, 359 Bis 5 y 359 Bis 6 del Código Electoral, serán substanciadas por la Presidencia y resueltas por el Pleno del Tribunal.
 
 ###### Artículo 95.
 
@@ -1117,21 +1145,25 @@ Recibida la comunicación del Consejo sobre probable infracción electoral, la O
 
 La presidencia turnará las comunicaciones, una vez radicadas y efectuado el emplazamiento a los partidos políticos denunciados y comunicado a los terceros interesados, al Magistrado ponente para que realice el proyecto de resolución. El Magistrado relator por conducto del presidente, convocará a sesión de Pleno, observándose para ello el trámite previsto por el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 97.
 
-la prórroga a que se refiere el artículo 365, segundo párrafo del Código Electoral, no podrá exceder en ningún caso de 5 días hábiles.
+la prórroga a que se refiere el artículo 365, tercer párrafo del Código Electoral, podrá ser autorizada por el Pleno a petición del Magistrado ponente, sin que en ningún caso exceda de diez días hábiles.
 
 ###### Artículo 98.
 
 Cuando además de la sanción, exista la obligación de hacer o dejar de hacer, deberá establecerse en la resolución, el plazo y circunstancias para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 99.
 
-Para hacer cumplir las disposiciones del Código Electoral y de este Reglamento, los medios de apremio se aplicarán en orden de prelación, tomando en consideración la gravedad de la infracción y su reincidencia.
+Para hacer cumplir las disposiciones del Código Electoral, de este Reglamento y las resoluciones que emita el Tribunal, los medios de apremio se aplicarán de manera discrecional, fundando y motivando la determinación respectiva.
 
-Durante todo el proceso electoral, se considerará como reincidencia la infracción en más de una ocasión a las disposiciones del Código Electoral, en una sola de las etapas a que se refiere el artículo 174 de dicho dispositivo legal, y siempre que exista resolución previa firme en un primer supuesto.
+Tratándose de las infracciones a que se refieren los artículos 359 a 359 Bis 6 del Código Electoral, las sanciones se individualizarán conforme a los lineamientos establecidos por el artículo 365 de dicho ordenamiento legal.
 
-Cuando no exista proceso electoral, la reincidencia se estimará en los mismos términos del párrafo anterior, salvo que ésta deberá ser cometida en más de una ocasión durante la etapa de interproceso.
+En ambos supuestos, se considerará agravante en la calificación de su gravedad, la reincidencia en la conducta infractora, para lo cual se calificará como reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones establecidas en las disposiciones legales o administrativas de índole electoral estatal, dentro de un periodo de seis años incurra nuevamente en la misma conducta infractora.
 
 ### CAPÍTULO SÉPTIMO. DE LAS EXCUSAS
 
@@ -1368,3 +1400,11 @@ MAGISTRADO PROPIETARIO
 LIC. ALEJANDRO JAVIER MARTÍNEZ MEJÍA
 
 SECRETARIO GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2008.
+
+Artículo Primero.- El presente Acuerdo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La denominación de Tribunal Estatal Electoral, establecida en otras disposiciones administrativas emitidas por el Pleno, se entenderá referida al Tribunal Electoral del Estado de Guanajuato, para todos los efectos legales.
