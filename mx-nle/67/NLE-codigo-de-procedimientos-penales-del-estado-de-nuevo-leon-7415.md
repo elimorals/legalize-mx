@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2007-10-29"
+last_updated: "2008-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -135,9 +135,11 @@ También ordenar, bajo su responsabilidad y sin orden de aprehensión, la detenc
 
 En estos casos el Ministerio Público podrá retener al indiciado solamente hasta cuarenta y ocho horas o hasta noventa y seis horas en los casos que la ley prevea como delincuencia organizada. La contravención a ello se sancionará conforme lo previene el código penal;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
-V.- Hacer que tanto el ofendido como el probable responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicológico y físico en que se encuentran. Tratándose del probable responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación y en caso de ser necesario deberá obtener la prueba que compruebe su estado de intoxicación; se aplicará una presunción positiva en tal sentido en caso de que el probable responsable se niegue a la práctica de dicha prueba y presente alteraciones en la coordinación, la respuesta a reflejos, la alteración del equilibrio o del lenguaje, o se encuentre en la escena del delito algún objeto que haga presumir el consumo de bebidas alcohólicas, sustancias tóxicas o estupefacientes, lo anterior salvo prueba en contrario;
+V.- Hacer que tanto el ofendido como el probable responsable, en su caso, sean examinados inmediatamente por los médicos legistas para que dictaminen, con carácter de provisional, acerca del estado psicológico y físico en que se encuentran. Tratándose del probable responsable se verificará su identidad, para determinar que sea precisamente la persona a la que se refiere la averiguación y en caso de ser necesario se deberá obtener la prueba que compruebe su estado de intoxicación; se aplicará una presunción positiva en tal sentido en caso de que el probable responsable se niegue a la práctica de dicha prueba y presente alteraciones en la coordinación, la respuesta a reflejos, la alteración del equilibrio o del lenguaje, o se encuentre en la escena del delito algún objeto que haga presumir el consumo de bebidas alcohólicas, sustancias tóxicas o estupefacientes, lo anterior salvo prueba en contrario; así mismo, verificará su edad.
+
+En caso de existir duda de que sea menor de edad, se presumirá que lo es;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5546,3 +5548,7 @@ Artículo Único.- Las disposiciones contenidas en el presente Decreto entrarán
 P.O. 29 DE OCTUBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
