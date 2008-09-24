@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2008-06-18"
+last_updated: "2008-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.
 
-JORGE ARTURO GARCÍA RUBÍ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
+JORGE ARTURO GARCÍA RUBÍ GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
@@ -53,7 +53,7 @@ La razón por la que los trabajadores públicos no se les reconocía sus derecho
 
 En el año de 1931, dentro de la primera Ley Federal del Trabajo aparece el texto siguiente:
 
-"Las relaciones entre el Estado y sus servidores se regirían por las Leyes del servicio civil que se expidieran.
+"Las relaciones entre el Estado y sus servidores se regirían por las Leyes del Servicio Civil que se expidieran.
 
 Las anunciadas Leyes del servicio civil no llegaron a expedirse. La burocracia siguió viviendo en la incertidumbre y angustia, pues en cada ocasión que se presentaban cambios de gabinete, eran cesados decenas de ellos. En el año de 1934, el Presidente Abelardo Rodríguez, conmovido ante la tragedia de los empleados públicos dictó un acuerdo administrativo sobre organización y funcionamiento del servicio civil de la federación, que rigió hasta el mes de noviembre siguiente.
 
@@ -65,7 +65,7 @@ Con esta última reseña histórica nos trasladamos al ámbito local, y así ten
 
 El ordenamiento que rige la relación laboral entre Gobierno y sus trabajadores en el Estado, sin duda constituyó un paso firme en su época y rompió con la incertidumbre de si al servidor público debía protegérseles sus derechos como trabajador; sin embargo debe tomarse muy en cuenta que esta Ley se expide antes que la reforma constitucional de 1960, 10 años antes; en consecuencia y ante la necesidad de proporcionar seguridad jurídica a los derechos y obligaciones de trabajadores al servicio de los poderes estatal y municipal y sus relaciones entre éstos y para dar congruencia a la norma y sus sujetos con la realidad laboral que se vive en el Estado, se requiere ajustar la Ley que rige a los servidores públicos en el Estado, a los principios consagrados en la reforma federal de 1960.
 
-REFLEXIÓN CONSTITUCIONAL
+REFLEXION CONSTITUCIONAL
 
 Los actores políticos reconocemos que la declaración de los derechos individuales del hombre, heredados en nuestras luchas del siglo XIX por la libertad, y la declaración de los derechos sociales del trabajo y del campesino, integran los derechos humanos reconocidos y garantizados por el pueblo en su Constitución, derechos intocables por los gobiernos, no sólo por su origen, sino porque los poderes ejecutivo, legislativo y judicial nos debemos y somos obra del mismo pueblo, quien nos encomendó velar por la efectividad de esos derechos.
 
@@ -665,9 +665,11 @@ Cuando desaparezca una dependencia por supresión de partida o por reorganizaci�
 
 ### CAPÍTULO ÚNICO. DE LAS PRESTACIONES SOCIALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 54.
 
-Los trabajadores en materia de prestaciones sociales tendrán derecho a:
+Los empleados públicos, en materia de seguridad social tendrán derecho a:
 
 I.- La afiliación al Instituto Mexicano del Seguro Social o al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y al Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos;
 
@@ -679,7 +681,9 @@ IV.- Despensa familiar mensual, cuyo monto nunca será menor a siete salarios m�
 
 V.- Seguro de vida, cuyo monto no será menor de cien meses de salario mínimo general vigente en el Estado por muerte natural, y doscientos meses de salario mínimo general vigente en el Estado por muerte accidental;
 
-VI.- Los beneficios derivados por riesgos y enfermedades de trabajo, por enfermedades no laborales y maternidad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 24 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Los beneficios derivados por riesgos y enfermedades de trabajo y por enfermedades no laborales, maternidad y paternidad.
 
 Se consideran riesgos de trabajo los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo de las actividades que desempeñen en el centro de trabajo;
 
@@ -694,6 +698,28 @@ X.- Actividades sociales, culturales y deportivas.
 ###### Artículo 55.
 
 Las prestaciones, seguros y servicios citados en el artículo que antecede estarán a cargo de los Poderes del Estado y de los Municipios, a través de las instituciones que para el caso determinen.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 55 A.- Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable e impliquen riesgo o peligro para su salud o la del producto de la concepción.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 55 B.- Las mujeres embarazadas, por concepto de maternidad, disfrutarán de un período de descanso de noventa días naturales contados a partir de la fecha de expedición del certificado médico de incapacidad; deberá procurarse que treinta días correspondan antes de la fecha aproximada fijada para el parto y sesenta después del mismo.
+
+En caso de maternidad por adopción, con fines de adaptación con su menor hijo, la madre gozará de una licencia de cuarenta y cinco días naturales.
+
+En todo caso, la madre conservará el pago salarial integro, su empleo, cargo o comisión y, en general, no podrán ser suspendidos o disminuidos sus derechos de trabajo y seguridad social.
+
+La violación a estas disposiciones, será considerada como despido injustificado.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 55 C.- Las madres, durante los seis meses siguientes al vencimiento de la incapacidad, para alimentar a sus hijos, disfrutarán de un descanso extraordinario de una hora.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Artículo 55 D.- Los cónyuges o concubinarios, por concepto de paternidad y con el propósito de ayudar a la madre en las tareas posteriores al parto o adopción, disfrutarán de un período de quince días naturales con goce de salario integro; al efecto, el área de recursos humanos de la entidad en que preste sus servicios, reglamentará las medidas de comprobación, vigilancia y control necesarias para el cumplimiento del fin.
 
 (NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -721,7 +747,7 @@ II. Hoja de servicios expedida por el servidor público competente del Gobierno 
 
 III. Carta de certificación del salario expedida por la dependencia o entidad pública a la que se encuentre adscrito el trabajador; y
 
-IV.- Dictamen de la Institución de Seguridad Social correspondiente, en el cual se decrete la invalidez definitiva.
+IV. Dictamen de la Institución de Seguridad Social correspondiente, en el cual se decrete la invalidez definitiva.
 
 B).- Tratándose de pensión por viudez, orfandad o ascendencia, además de los previstos en el apartado que antecede, se deberán exhibir los siguientes documentos:
 
@@ -1480,3 +1506,13 @@ P.O. 18 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 24 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
