@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-asentamientos-humanos-del-179
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-23"
-last_updated: "2008-03-19"
+last_updated: "2008-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y ASENTAMIENTOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de agosto de 2000.
 
@@ -179,11 +179,15 @@ XVI.- Dictamen de congruencia: Documento mediante el cual el Ejecutivo del Estad
 
 XVII.- Dictamen de impacto urbano: Documento mediante el cual la Secretaría de Desarrollo Urbano y Obras Públicas, en coordinación con los Municipios, establece la factibilidad para la realización de acciones urbanas que por su magnitud y sus efectos lo ameriten, con base en los estudios elaborados al respecto y a las disposiciones contenidas en los programas de desarrollo urbano;
 
-XVIII.- Dictamen de impacto ambiental: Documento mediante el cual la Secretaría de Desarrollo Ambiental, en coordinación con los Municipios, establece la factibilidad para la realización de aquellas acciones urbanas que por su magnitud y sus efectos lo ameriten, con base en los estudios elaborados al respecto y las disposiciones contenidas en los programas de ordenamiento ecológico y otros ordenamientos de las instancias federal, estatal o municipal;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XVIII.- Dictamen de impacto ambiental: Documento mediante el cual la Comisión Estatal de Agua y Medio Ambiente, en coordinación con los Municipios, establece la factibilidad para la realización de aquellas acciones urbanas que por su magnitud y sus efectos lo ameriten, con base en los estudios elaborados al respecto y las disposiciones contenidas en los programas de ordenamiento ecológico territorial y otros instrumentos del orden federal, estatal o municipal;
 
 XIX.- Equipamiento urbano: Conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
 
-XX.- Fraccionamiento, condominio o conjunto urbano: La división de uno o más predios en lotes o superficies que, urbanizados y conteniendo calles generales, accesos y servicios públicos, construidos o no, tengan por objeto transmitir su dominio, posesión o uso a terceras personas por cualesquiera de las formas de enajenación autorizadas por las Leyes y conforme a un uso previamente determinado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XX.- Fraccionamiento: La división de un terreno en manzanas y lotes, que requiera del trazo y construcción de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos. Condominio, el régimen jurídico en que coexiste un derecho singular y exclusivo de propiedad sobre cada una de las unidades en que se constituya un inmueble susceptible de aprovechamiento individual, por tener salida propia a la vía pública o a un elemento común del inmueble y un derecho proporcional de copropiedad forzosa e indivisible sobre los elementos y partes comunes del inmueble, necesarios para el adecuado disfrute de las unidades de propiedad singular y exclusiva. Conjunto Urbano, la modalidad de acción urbana en un polígono determinado, donde se autorizan simultáneamente diversos aprovechamientos del suelo;
 
 XXI.- Fundación: La acción de establecer un asentamiento humano;
 
@@ -195,9 +199,13 @@ XXIV.- Imagen urbana: Es el conjunto de elementos naturales y artificiales que c
 
 XXV.- Infraestructura urbana: Los sistemas y redes de organización y distribución de bienes y servicios en los centros de población;
 
-XXVI.- Licencia de Uso del Suelo: Es el documento expedido por la autoridad municipal mediante la cual se autoriza un uso o destino dentro de un centro de población;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-XXVII.- Ordenamiento ecológico: El proceso de planeación y la aplicación de las medidas que se deriven, dirigido a regular y evaluar el uso del suelo y el manejo de los recursos naturales en las zonas de jurisdicción, para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
+XXVI.- Licencia de Uso del Suelo: Es el documento expedido por la autoridad municipal mediante la cual se autoriza un uso dentro de un centro de población. Dictamen de uso de suelo: Documento expedido por la autoridad estatal, previa celebración de convenio de coordinación estado - municipio, mediante el cual se determina un uso de suelo, conforme a los programas de desarrollo urbano vigentes;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXVII.- Ordenamiento Ecológico y Territorial: Proceso de Planeación mediante el cual, se establecen políticas y lineamientos ambientales para la preservación, protección, restauración y aprovechamiento sustentable de los recursos ambientales; así como para la localización de asentamientos humanos y actividades económicas;
 
 XXVIII.- Ordenamiento territorial de los asentamientos humanos: El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio del Estado;
 
@@ -223,7 +231,9 @@ XXXVIII.- Preservación: El conjunto de políticas, medidas y acciones para mant
 
 XXXIX.- Prevención de desastres: Estudios y acciones encaminadas a mitigar los efectos por la presencia de riesgos, sean de origen natural o generado por la actividad humana, que pueda afectar el desarrollo armónico y normal de los asentamientos humanos en la entidad;
 
-XL.- Programa Estatal de Desarrollo Urbano: Es el conjunto de principios, objetivos, políticas, estrategias, programas operativos e instrumentos, normas técnicas y disposiciones relativas que regularán el ordenamiento territorial de los asentamientos humanos y la fundación, conservación, mejoramiento y crecimiento de los centros de población, a fin de determinar, organizar y mejorar los espacios urbanizados y establecer la estrategia de desarrollo urbano ordenado y sustentable de la entidad, observando otras disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XL.- Programa de Desarrollo Urbano: Es el conjunto de principios, objetivos, políticas, estrategias, programas operativos e instrumentos, normas técnicas y disposiciones relativas que regularán el ordenamiento territorial de los asentamientos humanos su fundación, conservación, mejoramiento y crecimiento de los centros de población, a fin de determinar, organizar y mejorar los espacios urbanizados y establecer la estrategia de desarrollo urbano ordenado y sustentable de la entidad, observando otras disposiciones jurídicas aplicables, y que actúa como un ordenamiento normativo de observancia obligatoria;
 
 XLI.- Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
 
@@ -245,9 +255,13 @@ XLIX.- Vía pública: Es todo espacio de uso común que se encuentre destinado a
 
 L.- Zona metropolitana: El espacio territorial de influencia dominante de un centro de población;
 
-LI.- Zonificación Primaria: Determinación de las áreas que integran un centro de población: áreas urbanizadas, áreas urbanizables y áreas de conservación y preservación ecológica, conforme lo establezcan los programas de desarrollo urbano; y
+LI.- Zonificación Primaria: Determinación de las áreas que integran un centro de población: áreas urbanizadas, áreas urbanizables y áreas de conservación y preservación ecológica, conforme lo establezcan los programas de desarrollo urbano; y (sic)
 
-LII.- Zonificación Secundaria: La determinación de las áreas que contendrán los diversos usos y destinos del suelo, tanto en las zonas urbanizadas como en las urbanizables.
+LII.- Zonificación Secundaria: La determinación de las áreas que contendrán los diversos usos y destinos del suelo, tanto en las zonas urbanizadas como en las urbanizables;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+LlII.- Zona de restricción: Franja de suelo de propiedad privada, establecido al borde de carreteras o derechos de vía, en el que la autoridad competente limita y regula la construcción.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES Y ÓRGANOS DE PLANEACIÓN URBANA
 
@@ -265,7 +279,9 @@ Los subsecretarios y directores generales de la citada dependencia;
 
 Los directores generales de los organismos públicos descentralizados con competencia en la materia; y
 
-La Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Urbanos del Estado.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+La Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos.
 
 II.- El H. Congreso del Estado.
 
@@ -351,7 +367,9 @@ III.- Participar, en forma coordinada con la Federación y las entidades federat
 
 IV.- Vigilar y apoyar la inscripción en la Sección Quinta del Registro Público de la Propiedad y del Comercio, del Programa Estatal de Desarrollo Urbano, los programas de ordenación de zonas conurbadas intermunicipales, los programas subregionales, los programas municipales de desarrollo urbano y los que de éstos se deriven;
 
-V.- Formular los Dictámenes de Congruencia de los programas municipales de desarrollo urbano y de los que de éstos se deriven, respecto del Programa Estatal de Desarrollo Urbano y la presente Ley;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Formular los Dictámenes de Congruencia de los programas municipales de desarrollo urbano y de los que de éstos se deriven, respecto del Programa Estatal de Desarrollo Urbano, Programa Estatal de Ordenamiento Ecológico Territorial y la presente Ley;
 
 VI.- Brindar asistencia técnica a los Municipios que lo soliciten para la formulación de sus programas municipales de desarrollo urbano y los que de éstos se deriven;
 
@@ -377,7 +395,9 @@ XVI.- Dictaminar, e informar al H. Congreso del Estado, sobre las autorizaciones
 
 XVII.- Promover y administrar, a través de la dependencia u organismo competente, fraccionamientos de urbanización progresiva, de conformidad con las disposiciones de esta Ley;
 
-XVIII.- Evaluar y dar seguimiento a las autorizaciones que expidan los Municipios en materia de regulación de usos y destinos del suelo, fusiones, divisiones, modificaciones, fraccionamiento de terrenos, lotificaciones, régimen en condominio y conjuntos urbanos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XVIII.- Dar seguimiento a las autorizaciones que expidan los Municipios en materia de regulación de usos y destinos del suelo, fusiones, divisiones, modificaciones, fraccionamiento de terrenos, lotificaciones, régimen en condominio y conjuntos urbanos, incluso en términos de la infraestructura y capacidad técnica requerida para estos fines, lo anterior únicamente para efectos de registro;
 
 XIX.- Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
 
@@ -405,9 +425,33 @@ XXX.- Ser órgano de coordinación entre todas las autoridades y comisiones que 
 
 XXXI.- Asumir las funciones y/o servicios derivados de lo establecido en las Fracciones XI y XII del Artículo 8 de esta Ley;
 
-XXXII.- Establecer los mecanismos que hagan efectiva la participación organizada de los grupos sociales; y
+XXXII.- Establecer los mecanismos que hagan efectiva la participación organizada de los grupos sociales; y (sic)
 
-XXXIII.- Las demás atribuciones que le señalen la Ley y otras normas aplicables, así como las que se le deleguen expresamente.
+XXXIII.- Las demás atribuciones que le señalen la Ley y otras normas aplicables, así como las que se le deleguen expresamente;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXXIV.- Expedir las bases y convocatorias respecto de los concursos para la contratación de estudios y proyectos de su competencia;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXXV.- Cuando el Gobierno del Estado a través de sus autoridades competentes y mediante convenio asuman las funciones y/o las atribuciones de un Municipio con respecto a las autorizaciones o licencias de fusión división inclusive en términos de regularización, así como fraccionamientos, condominios, conjuntos urbanos, modificaciones y regulación de usos del suelo, le corresponderá a la autoridad estatal un porcentaje del 12% de los pagos de derechos que se causen por las autorizaciones o licencias emitidas;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXXVI.- Ante la omisión de las autoridades municipales y en ámbito de su competencia, podrá imponer las medidas de seguridad y sanciones administrativas a los infractores de las disposiciones previstas en esta ley o de los programas de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXXVII.- Participar, en el área. de su competencia en la elaboración y revisión de los convenios y acuerdos que realiza el Gobernador del Estado con las dependencias federales, los gobiernos de otras entidades federativas y los municipios, a fin de ejecutar acciones conforme a las finalidades y objetivos propuestos en los diversos planes y programas de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXXVIII.- Coordinar las acciones que en materia de desarrollo urbano, implemente el gobierno federal en apoyo al estado y los municipios; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXXIX.- Las demás atribuciones que le señalen la Ley y otras normas aplicables, así como las que se le deleguen expresamente.
 
 ###### ARTÍCULO 10.
 
@@ -417,7 +461,9 @@ I.- Participar en la formulación del Programa Estatal de Desarrollo Urbano, en 
 
 II.- Formular, revisar, aprobar, administrar y ejecutar los programas municipales de desarrollo urbano y los que de éstos se deriven, su zonificación correspondiente, así como evaluar y vigilar su cumplimiento;
 
-III.- Enviar a la Secretaría de Desarrollo Urbano y Obras Públicas el Programa Municipal de Desarrollo Urbano y los que de éste se deriven para que emita el dictamen de congruencia; una vez aprobados por el Ayuntamiento, el Gobernador del Estado ordenará su publicación y registro, así como su difusión.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+III.- Enviar a la Secretaría de Desarrollo Urbano y Obras Públicas el Programa Municipal de Desarrollo Urbano y los que de éste se deriven para que emita el dictamen de congruencia, con el Programa Estatal de Desarrollo Urbano y el Programa de Ordenamiento Ecológico Territorial una vez aprobados por el Ayuntamiento, el Gobernador del Estado ordenará su publicación y registro, así como su difusión.
 
 En caso de no ser favorable el dictamen, se regresará al Ayuntamiento para las adecuaciones que corresponda;
 
@@ -459,21 +505,31 @@ XXI.- Expedir autorizaciones sobre licencias de construcción, de conformidad co
 
 XXII.- Expedir las autorizaciones de licencias o permisos de uso del suelo, fusiones, divisiones, modificaciones, fraccionamiento de terrenos, régimen en condominio y conjuntos urbanos, de conformidad con las disposiciones contenidas en los programas de desarrollo urbano, informando a la Secretaría de Desarrollo Urbano y Obras Públicas en su carácter de dependencia normativa;
 
-XXIII.- En los términos de la presente Ley y demás normas aplicables, para efectos del Artículo anterior, el Municipio deberá convenir con el Gobierno del Estado los mecanismos a través de los cuales se expedirán dichas autorizaciones o licencias;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXIII.- En los términos de la presente Ley y demás normas aplicables, para efectos de la fracción anterior, el Municipio podrá convenir con el Gobierno del Estado los mecanismos a través de los cuales se expedirán dichas autorizaciones o licencias;
 
 XXIV.- A través de los programas de desarrollo urbano proponer las acciones para determinar los usos, destinos, reservas y provisiones del suelo, dentro de su jurisdicción municipal;
 
-XXV.- En los mismos términos del Artículo anterior, determinar la zonificación primaria y secundaria, así como sus correspondientes normas técnicas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-XXVI.- Convenir con el Ejecutivo del Estado para que éste asuma funciones y/o servicios de competencia municipal;
+XXV.- En los mismos términos de la fracción anterior, determinar la zonificación primaria y secundaria, así como sus correspondientes normas técnicas;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXVI.- Convenir con el Ejecutivo del Estado para que éste asuma funciones y/o servicios de competencia municipal, cuando no cuente con la infraestructura o capacidad técnica suficiente;
 
 XXVII.- Sujetarse a las resoluciones del H. Congreso para que el Gobierno del Estado asuma funciones y/o servicios de competencia municipal;
 
 XXVIII.- Realizar, a través de las autoridades competentes para el caso, con cargo a los promotores de los desarrollos autorizados, las obras que éstos omitan y que debieron de haber realizado de conformidad con la autorización otorgada y la fianza correspondiente;
 
-XXIX.- Ejecutar por sí, o a través de las autoridades competentes, las demoliciones o modificaciones de obra con cargo a los promotores o particulares, cuando se contravengan las disposiciones contenidas en los programas de desarrollo urbano; y
+XXIX.- Ejecutar por sí, o a través de las autoridades competentes, las demoliciones o modificaciones de obra con cargo a los promotores o particulares, cuando se contravengan las disposiciones contenidas en los programas de desarrollo urbano; y (sic)
 
-XXX.- Las demás que les otorguen la presente Ley y demás ordenamientos jurídicos aplicables.
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XXX.- Clausurar, demoler y/o denunciar ante las autoridades competentes a quien en contravención con los programas dé desarrollo urbano y de esta Ley, edifiquen, lotifiquen o fraccionen sin permiso de la autoridad;
+
+XXXI.- Las demás que les otorguen la presente Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -485,13 +541,21 @@ II.- Sancionar sobre los dictámenes que le envíe la Secretaría de Desarrollo 
 
 III.- Solicitar e instrumentar la asesoría técnica de cuerpos colegiados para el ejercicio de sus atribuciones en materia de desarrollo urbano;
 
-IV.- Intervenir y dictaminar sobre la asunción de funciones y/o servicios de competencia municipal al Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-V.- Emitir las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los Municipios y el Gobierno del Estado, en materia de desarrollo urbano.
+IV.- Dictaminar sobre la transferencia de funciones y/o servicios de competencia Municipal al Gobierno del Estado;
+
+V.- Emitir las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los Municipios y el Gobierno del Estado, en materia de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Sancionar a los Ayuntamientos que en ejercicio de sus facultades no den cumplimiento a las disposiciones contenidas en los Programas de Desarrollo Urbano, Programas de Ordenamiento Ecológico Territorial, de esta Ley y las demás aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 12.
 
-Las funciones del Consejo Estatal de Desarrollo Urbano, enunciativas pero no limitativas, serán las siguientes:
+Las funciones del Consejo Estatal de Desarrollo Urbano, serán las siguientes:
 
 I.- Ser órgano auxiliar en el proceso de planeación del desarrollo urbano de acuerdo con los fines de esta Ley;
 
@@ -583,9 +647,11 @@ El ordenamiento y regulación de las zonas conurbadas, intermunicipales e intere
 
 Cuando dos o más centros de población, situados en dos o más Municipios, formen o tiendan a formar una continuidad física y demográfica, el Gobierno del Estado y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el fenómeno de conurbación de referencia, con apego a lo dispuesto en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 17.
 
-El Ejecutivo Estatal y los Municipios respectivos podrán convenir que se considere la existencia de una zona de conurbación intermunicipal cuando:
+El Ejecutivo Estatal y los Municipios respectivos, ya sea a iniciativa del ejecutivo o por petición de alguno de los municipios interesados, podrán convenir que se considere la existencia de una zona de conurbación intermunicipal cuando:
 
 I.- Dos o más centros de población, situados en el territorio de Municipios vecinos, que por sus características geográficas y sus tendencias económicas y urbanas, deban considerarse como una zona conurbada;
 
@@ -593,19 +659,47 @@ II.- Se proyecte o funde un centro de población y se prevea su expansión físi
 
 III.- Un centro de población crezca sobre el territorio de uno o varios Municipios.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 18.
 
-El Convenio de Coordinación que se celebre, en términos del Artículo 17, se publicará en el Periódico Oficial del Gobierno del Estado, en dos diarios de mayor circulación en la entidad y será inscrito en la Sección Quinta, de Registro de Planes, del Registro Público de la Propiedad y del Comercio del Estado.
+El Convenio de Coordinación que se celebre, en términos del Artículo 17, se publicará en el Periódico Oficial del Gobierno del Estado, en dos diarios de mayor circulación en la entidad y será inscrito en la Sección Quinta, de Registro de Planes, del Registro Público de la Propiedad y del Comercio del Estado y contendrá:
+
+I.- La localización, extensión y delimitación de la zona conurbada;
+
+II.- Los compromisos del Estado y los Municipios respectivos, para planear y regular conjunta y coordinadamente los centros de población conurbados, con base en un programa de ordenación de la zona conurbada;
+
+III.- La determinación de acciones e inversiones para la atención de requerimientos comunes en materia de reservas territoriales, preservación y equilibrio ecológico, infraestructura, equipamiento y servicios urbanos en la zona conurbada;
+
+IV.- La integración y organización de la comisión de conurbación respectiva; y
+
+V.- Las demás acciones que para tal efecto convengan el Gobierno del Estado y los municipios involucrados.
 
 ###### ARTÍCULO 19.
 
 Una vez publicado el Convenio de Coordinación citado en el Artículo anterior, dentro de los 30 días siguientes, el Gobernador del estado, por conducto del Secretario de Gobierno, convocará a los presidentes municipales involucrados a efecto de instalar la Comisión de Conurbación como órgano de coordinación permanente para regular y ordenar la zona conurbada intermunicipal de que se trate.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 20.
 
-La Comisión estará integrada por el Gobernador del estado, quien la presidirá, el Secretario de Desarrollo Urbano y Obras Públicas y los presidentes municipales involucrados.
+Las comisiones de conurbación interestatales, se integrarán por:
 
-El Secretario Técnico de la Comisión de Conurbación será nombrado por el Ejecutivo Estatal.
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Secretario Técnico, que será el Secretario de Desarrollo Urbano y obras Públicas;
+
+III.- Los presidentes municipales de los ayuntamientos del Estado, en donde se localice la zona conurbada;
+
+IV.- Un representante de cada Consejo Municipal en donde se localice la zona conurbada;
+
+V.- Los representantes de las dependencias y entidades estatales y federales que sean invitados por el Gobernador del Estado a formar parte de la Comisión, así como por los de los sectores social y privado que a juicio de la Comisión de Conurbación Interestatal deban invitarse a formar parte de la misma, los que tendrán voz pero no voto.
+
+Por cada representante propietario se designará un suplente, que los sustituirá en sus faltas temporales.
+
+En todo caso será el Secretario Técnico quien supla las faltas del Presidente de la Comisión de Conurbación.
+
+El desempeño de los cargos a que se refiere este artículo será honorífico.
 
 ###### ARTÍCULO 21.
 
@@ -617,17 +711,47 @@ La Comisión de Conurbación tendrá las siguientes funciones:
 
 I.- Formular, aprobar, coordinar su ejecución y evaluar el Programa de Ordenación de la Zona Conurbada Intermunicipal;
 
-II.- Promover, coordinar y gestionar ante las autoridades federales, estatales y municipales correspondientes, en el ámbito de su jurisdicción y competencia, el cumplimiento y ejecución del programa de ordenación de la zona conurbada intermunicipal; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-III.- Las demás que le otorguen otras Leyes y Reglamentos en la materia.
+II.- Promover, coordinar y gestionar ante las autoridades federales, estatales y municipales correspondientes, en el ámbito de su jurisdicción y competencia, el cumplimiento y ejecución del programa de ordenación de la zona conurbada intermunicipal;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+III.- Identificar áreas naturales, zonas, edificaciones o sitios patrimoniales e históricos que deban ser protegidos, por significar un patrimonio valioso para la zona de conurbación;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- Dictaminar la factibilidad técnica en predios ubicados en zonas de riesgo, previa solicitud potestativa del Ayuntamiento correspondiente, sobre usos y cambios de uso del suelo y edificaciones, construcciones, así como la factibilidad de uso de suelo y lineamientos de urbanización, proyectos urbanísticos y proyectos ejecutivos de todo tipo de fraccionamientos; para lo cual podrá auxiliarse de las Direcciones de Protección Civil Estatal y Municipal así como de Instituciones Académicas u Organismos Especializados en la materia;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Formular los lineamientos para la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta a los discapacitados sobre las características técnicas de los proyectos;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- La determinación de acciones e inversiones para la atención de requerimientos comunes en materia de reservas para el crecimiento urbano o territoriales, preservación natural y equilibrio ecológico, infraestructura, equipamiento y servicios urbanos en la zona conurbada;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Las demás acciones que convengan los municipios respectivos;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Las demás que le otorguen otras Leyes y Reglamentos en la materia.
 
 ###### ARTÍCULO 23.
 
 La Comisión de Conurbación sesionará cuando menos cuatro veces por año y podrá acordar las reuniones extraordinarias que estime conveniente; requerirá de la asistencia de cuando menos las dos terceras partes de sus miembros para que sus sesiones sean válidas. Las decisiones de la comisión se tomarán por mayoría de votos del quórum legal. El Presidente de la misma tendrá voto de calidad en caso de empate.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Si una decisión no afecta directamente a alguno de los miembros y estos así lo expresan, sólo será válida para las partes implicadas, sin que lo sea para las demás.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 24.
 
-La Comisión podrá crear subcomisiones, así como los grupos de trabajo que estimen necesarios para el cumplimiento de sus objetivos.
+La Comisión podrá crear subcomisiones, así como los grupos de trabajo que estimen necesarios para el cumplimiento de sus objetivos. En los grupos de trabajo podrá tomarse la opinión de los sectores social y privado entre los que deberán integrarse a los representantes de los Organismos Operadores de Agua, y Representantes de la Comisión Federal de Electricidad, lo anterior por el impacto de estos servicios en el desarrollo urbano.
 
 ###### ARTÍCULO 25.
 
@@ -636,6 +760,20 @@ La Comisión deberán expedir su Reglamento Interior en un plazo no mayor de ses
 ###### ARTÍCULO 26.
 
 La Comisión de Conurbación será un organismo público con funciones de carácter técnico y tendrá facultad para procurarse la asesoría profesional que considere necesaria, promover proposiciones, captar información, realizar investigaciones y oír la opinión de los distintos grupos sociales de los centros de población respectivos, a través de sus organismos legalmente constituidos.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 26 BIS.- El programa de ordenación de zona conurbada contendrá como mínimo:
+
+I.- La congruencia con el programa estatal de desarrollo urbano y con los programas municipales de desarrollo urbano de los municipios suscriptores del convenio;
+
+II.- La circunscripción territorial de la conurbación;
+
+III.- Las bases para la elaboración y ejecución de los proyectos que se vayan a realizar en la zona conurbada;
+
+IV.- La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento así como de la preservación y equilibrio ecológico de los centros de población de la zona conurbada;
+
+V.- Las acciones e inversiones para la dotación de infraestructura, equipamiento y servicios urbanos que sean comunes a los centros de población de la zona conurbada.
 
 ### CAPÍTULO QUINTO. DE LA PARTICIPACIÓN SOCIAL EN EL DESARROLLO URBANO
 
@@ -665,9 +803,17 @@ VI.- La protección del patrimonio cultural de los centros de población;
 
 VII.- La conservación y preservación del medio ambiente en los centros de población;
 
-VIII.- La prevención, control y atención de riesgos y contingencias ambientales y urbanas en los centros de población; y
+VIII.- La prevención, control y atención de riesgos y contingencias ambientales y urbanas en los centros de población; y (sic)
 
-IX.- El financiamiento y la participación en la construcción y operación de proyectos de infraestructura, equipamiento y prestación de servicios públicos urbanos en términos de esta Ley y otros ordenamientos.
+IX.- El financiamiento y la participación en la construcción y operación de proyectos de infraestructura, equipamiento y prestación de servicios públicos urbanos en términos de esta Ley y otros ordenamientos;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+X.- Denunciar ante las autoridades competentes, los hechos, actos u omisiones que cometieren los particulares o autoridades públicas en contravención a lo que establece esta Ley, los programas de desarrollo urbano y de ordenamiento ecológico territorial; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Solicitar la adopción de las medidas de seguridad previstas por esta Ley.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN URBANA
 
@@ -694,6 +840,10 @@ VI.- Los programas de desarrollo urbano derivados y/o modalidades de los cuatro 
 2.- Programas Parciales; y
 
 3.- Programas Sectoriales.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Programa Estatal de Ordenamiento Ecológico Territorial.
 
 ###### ARTÍCULO 31.
 
@@ -753,9 +903,11 @@ VI.- Previo a la aprobación del programa, la Secretaría de Desarrollo urbano y
 
 VII.- Una vez aprobado, el Ejecutivo del Estado ordenará su publicación en el Periódico Oficial del Estado y en dos diarios de amplia circulación en la entidad, así como su inscripción en el Registro Público de la Propiedad y del Comercio; lo editará para su difusión y quedará disponible para la consulta permanente en las instancias que corresponda.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 37.
 
-Los Programas de Ordenación de Zonas Conurbadas interestatales se sujetarán a las disposiciones que establece la Ley General de Asentamientos Humanos.
+Los Programas de Ordenación de Zonas Conurbadas interestatales se sujetarán a las disposiciones que establece la Ley General de Asentamientos Humanos, y serán órganos de planeación superior a los programas municipales y parciales de desarrollo urbano.
 
 ###### ARTÍCULO 38.
 
@@ -775,17 +927,27 @@ VI.- Previo a la aprobación del programa, la Comisión deberá dar respuesta a 
 
 VII.- Una vez sancionado el programa por la Secretaría de Desarrollo Urbano y Obras Públicas y por las autoridades municipales involucradas, se enviará al Gobernador del estado para su aprobación mediante el decreto correspondiente, y en ese supuesto procederá a su publicación en el Periódico Oficial del Gobierno del estado y en dos diarios de mayor circulación, así como su Inscripción en el Registro Público de la Propiedad y del Comercio. Corresponde a la Comisión de conurbación editarlo para su difusión y facilitar su consulta permanente.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 38 BIS.- Los Programas Municipales de Desarrollo Urbano y los que de él se deriven, deberán ser revisados, evaluados, ratificados, modificados y en su caso elaborados por los Ayuntamientos dentro de los primeros 12 meses contados a partir de la fecha en que inicie una nueva administración.
+
 ###### ARTÍCULO 39.
 
 Los Programas Municipales de Desarrollo Urbano, así como los que de éstos se deriven, se sujetarán al siguiente procedimiento:
 
 I.- Los Municipios darán aviso público del inicio del proceso de planeación y de recepción de las opiniones, planteamientos y demandas de la comunidad, a través de la publicación de las bases de la consulta en un diario de mayor circulación en el Estado;
 
-II.- Los Municipios, en coordinación con los sectores público, social y privado, y con el apoyo del Consejo Consultivo Municipal de Desarrollo Urbano que corresponda, formularán el proyecto de programa y lo difundirán ampliamente;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-III.- El proyecto del programa estará a consulta y opinión de la ciudadanía, de las organizaciones de la comunidad y de las autoridades federales y estatales interesadas durante un plazo no menor de sesenta días naturales, a partir del momento en que el proyecto se encuentre disponible. Asimismo, antes de que inicie dicho plazo, remitirá copia del proyecto al Consejo Consultivo Municipal de Desarrollo Urbano, al Ejecutivo del Estado y a la Secretaría de Desarrollo Urbano y Obras Públicas; ésta, a su vez, lo remitirá a los integrantes del Consejo Estatal de Desarrollo Urbano;
+II.- Los Municipios, en coordinación con los sectores público, social y privado, y con el apoyo del Consejo Municipal de Desarrollo Urbano que corresponda, formularán el proyecto de programa y lo difundirán ampliamente;
 
-IV.- Los Municipios, a través de la dependencia responsable del desarrollo urbano, organizarán al menos dos foros de consulta pública, en los que expondrán el proyecto, recibirán las sugerencias y planteamientos de los interesados. Simultáneamente, la dependencia municipal responsable de la formulación del programa llevará a cabo las reuniones que sean necesarias para asegurar la congruencia del mismo con la presente Ley y el Programa Estatal de Desarrollo Urbano y, en su caso, con el programa de ordenación de zona conurbada correspondiente;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+III.- El proyecto del programa estará a consulta y opinión de la ciudadanía, de las organizaciones de la comunidad y de las autoridades federales y estatales interesadas durante un plazo no menor de sesenta días naturales, a partir del momento en que el proyecto se encuentre disponible. Asimismo, antes de que inicie dicho plazo, remitirá copia del proyecto al Consejo Municipal de Desarrollo Urbano, al Ejecutivo del Estado y a la Secretaría de Desarrollo Urbano y Obras Públicas; ésta, a su vez, lo remitirá a los integrantes de la (sic) Consejo Estatal de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- Los Municipios, a través de la dependencia responsable del desarrollo urbano, organizarán al menos dos foros de consulta pública, en los que expondrán el proyecto, recibirán las sugerencias y planteamientos de los interesados. Simultáneamente, la dependencia municipal responsable de la formulación del programa llevará a cabo las reuniones que sean necesarias para asegurar la congruencia del mismo con la presente Ley, el Programa Estatal de Desarrollo Urbano, El Programa Estatal de Ordenamiento Ecológico Territorial, y, en su caso, con el programa de ordenación de zona con-urbana correspondiente;
 
 V.- Los Municipios deberán dar respuesta a los planteamientos de la comunidad sobre las modificaciones al proyecto, expresando las razones del caso;
 
@@ -821,19 +983,35 @@ V.- Se debieran a objetivos distintos de los previstos por esta Ley.
 
 Sólo podrá cancelarse un programa de desarrollo urbano si en la resolución correspondiente se declara la urgencia de uno nuevo.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 43.
 
-Los Municipios podrán aprobar modificaciones a los programas de desarrollo urbano de su competencia, siempre y cuando no se modifique o altere la delimitación entre las áreas urbanizables y las no urbanizables o se afecten las características de la estructura urbana prevista. Para tales fines, habrán de observarse las siguientes disposiciones:
+Los Municipios, dentro del plazo señalado en el ARTÍCULO 38 BIS, podrán aprobar modificaciones a los programas de desarrollo urbano de su competencia, siempre y cuando no se modifique o altere la delimitación entre las áreas urbanizables y las no urbanizables o se afecten las características de la estructura urbana prevista. Para tales fines, habrán de observarse las siguientes disposiciones:
 
-I.- El Municipio dará a conocer públicamente la propuesta de modificación al programa de desarrollo urbano y escuchará las opiniones de las organizaciones vecinales del área de que se trate, en un plazo de treinta días naturales;
+I.- Dará a conocer mediante la publicación de las bases de la consulta en un diario de mayor circulación en el Estado, en los Estrados del Ayuntamiento y en las Ayudantías más cercanas de la zona vecinal de que se trate, para escuchar las opiniones principalmente de las organizaciones vecinales del área, en un plazo de treinta días naturales;
 
-II.- Cuando se trate de acciones de desarrollo urbano de impacto significativo, notificará al Consejo Municipal de Desarrollo Urbano y a la Secretaría de Desarrollo Urbano y Obras Públicas quien dictaminará sobre la factibilidad de la modificación;
+II.- El Municipio, formulará en coordinación con los sectores público, organizaciones vecinales del área y privado, y con el apoyo del Consejo Consultivo Municipal de Desarrollo Urbano que corresponda, la propuesta de modificación al Programa de Desarrollo Urbano;
 
-III.- Una vez dictaminada procedente y aprobada por el ayuntamiento la modificación al programa, solicitará al Ejecutivo del Estado su publicación y registro.
+III.- El proyecto de modificación del programa de Desarrollo Urbano, estará a consulta y opinión de la ciudadanía, de las organizaciones de la comunidad y de las autoridades federales y estatales interesadas durante un plazo no menor de treinta días naturales, contados a partir de la publicación de la convocatoria, en el diario de mayor circulación, fecha en el que deberá estar disponible. Asimismo, antes de que inicie dicho plazo, se remitirá copia de proyecto al Consejo Consultivo Municipal de Desarrollo Urbano, al Ejecutivo del Estado y a la Secretaría de Desarrollo Urbano y Obras Públicas; ésta, a su vez, lo remitirá a los integrantes del Consejo Estatal de Desarrollo Urbano;
+
+IV.- El Municipio, a través de la dependencia responsable del desarrollo urbano, organizará al menos un foro de consulta pública, en los que expondrá el proyecto, recibirá las sugerencias y planteamientos de los interesados. Simultáneamente, la dependencia municipal responsable de la formulación del programa llevará a cabo las reuniones que sean necesarias para asegurar la congruencia del mismo con la presente Ley, el Programa Estatal de Desarrollo Urbano, Los Programas Estatal y Municipal de Ordenamiento Ecológico Territorial, y, en su caso, con el programa de ordenación de zona con-urbana correspondiente;
+
+V.- El Municipio deberá dar respuesta a los planteamientos de la comunidad sobre las modificaciones al proyecto, expresando las razones del caso;
+
+VI.- La Secretaría de Desarrollo Urbano y Obras Públicas, del Estado, en un plazo no mayor de treinta días naturales, emitirá un dictamen de congruencia respecto del Programa Estatal de Desarrollo Urbano y, en su caso, del programa de ordenación de zona conurbada correspondiente. Dicho dictamen será requisito para su aprobación por el cabildo;
+
+VII.- Una vez consensuado, el programa será sometido a la aprobación del H. Cabildo;
+
+VIII.- Cumplidas las formalidades anteriores, mediante acuerdo del Ejecutivo del Estado, el programa será publicado en el Periódico Oficial del Gobierno del Estado y en dos diarios de mayor circulación en la entidad; asimismo, será enviado para su inscripción en el Registro Público de la Propiedad y del Comercio. El Municipio editará el programa para su difusión y lo mantendrá a consulta permanente; y
+
+IX.- Cuando el programa municipal de desarrollo urbano motive la modificación de un Programa de Desarrollo Urbano de Centro de Población o los que de éste se deriven, una vez que la Secretaría de Desarrollo Urbano y Obras Públicas haya emitido el Dictamen de Congruencia a que se refiere la Fracción VI de este Artículo, se promoverán las adecuaciones pertinentes.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 44.
 
-Tratándose de modificaciones a las áreas no urbanizables establecidas en los programas de nivel jerárquico superior el Municipio deberá solicitarlas previamente ante las instancias que correspondan.
+Tratándose de modificaciones de uso de suelo a las áreas no urbanizables establecidas en los programas de nivel jerárquico superior el Municipio deberá solicitarlas previamente ante las instancias que correspondan, estableciendo las causas, beneficios y fundamento.
 
 ###### ARTÍCULO 45.
 
@@ -1065,6 +1243,10 @@ Para constituir, ampliar y delimitar la zona de urbanización ejidal y su reserv
 
 En estos casos, se requiere la autorización del Municipio en que se ubique el ejido o comunidad.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 72 BIS.- Cualquier persona que promueva o constituya un asentamiento irregular, independientemente de la afectación que cause por los impactos de ese asentamiento o asentamientos en el área, se le aplicará, la sanción que imponga la Secretaría, de conformidad con el artículo tercero de esta ley, la que denunciará el hecho a la Procuraduría General de Justicia por el delito al que haya incurrido, sin perjuicio de reparación de daños.
+
 ###### ARTÍCULO 73.
 
 Los programas de desarrollo urbano, al establecer destinos, deberán precisar las zonas o predios de que se trate, así como la descripción del fin o aprovechamiento público a que prevea dedicarse. La determinación de destinos se notificará personalmente y por escrito a los propietarios o poseedores afectados, cuando se conozca su domicilio. En caso contrario, se les notificará a través de edictos que se publicarán por dos veces consecutivas en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en la entidad y Municipio de que se trate, según el caso. La notificación así hecha surtirá pleno efecto legal.
@@ -1111,25 +1293,37 @@ Las dependencias y entidades de los Gobiernos Estatal y Municipal, al formular s
 
 ### CAPÍTULO SEXTO. DE LA VIVIENDA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 83.
 
-Corresponde al Gobierno del Estado, a través de la Secretaría de Desarrollo Urbano y Obras Públicas o del organismo competente, y a los Ayuntamientos, en la esfera de sus respectivas competencias, normar y coordinar las acciones que en materia de vivienda realicen las instituciones públicas y privadas, y el sector social, con el objeto de:
+Corresponde al Gobierno del Estado, a través de la Secretaría de Desarrollo Urbano y Obras Públicas, del instituto de Vivienda del Estado, y a los Ayuntamientos, en la esfera de sus respectivas competencias, normar y coordinar las acciones que en materia de vivienda realicen las instituciones públicas y privadas, y el sector social, con el objeto de:
 
-I.- Proporcionar, dentro de su acción gubernamental y política de desarrollo social, el derecho a disfrutar de una vivienda digna y decorosa a las clases económicamente débiles de nuestra sociedad, mediante la formulación de los programas de vivienda y del establecimiento de programas operativos que permitan la oferta de tierra y servicios para el uso habitacional integral y de acciones de vivienda, de acuerdo con las estrategias y proyectos previstos en los programas de desarrollo urbano, de vivienda y la Ley aplicable en la materia, ajustándose a las políticas ambientales y de desarrollo económico;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Proporcionar, dentro de su acción gubernamental y política de desarrollo social, los medios para cumplir con el derecho a disfrutar de una vivienda digna y decorosa a las clases económicamente débiles de nuestra sociedad, mediante la formulación de los programas de vivienda y del establecimiento de programas operativos que permitan la oferta de tierra y servicios para el uso habitacional integral y de acciones de vivienda, de acuerdo con las estrategias y proyectos previstos en los programas de desarrollo urbano, de vivienda y la Ley aplicable en la materia, ajustándose a las políticas ambientales y de desarrollo económico;
 
 II.- Promover esquemas de financiamiento que apoyen a la población de escasos recursos para la obtención y/o mejoramiento de vivienda, especialmente de interés social y popular;
 
-III.- Incentivar la oferta de vivienda nueva y programas de mejoramiento habitacional, tanto en zonas urbanas como rurales;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-IV.- Incorporar al sector social autogestivo a la concertación de sus acciones urbanas y de autoconstrucción, de acuerdo a la normatividad del desarrollo urbano;
+III.- Incentivar la oferta de vivienda nueva y programas de mejoramiento habitacional, tanto en zonas urbanas como rurales, mediante la exención de impuestos de acuerdo al fomento para la vivienda contemplada en la Ley del Instituto de Vivienda para el Estado de Morelos;
 
-V.- Concertar con la iniciativa privada su participación en la renovación del inventario de vivienda, en la promoción de viviendas nuevas y la inversión en proyectos de vivienda integral;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- Incorporar al sector social autogestivo a la concertación de sus acciones urbanas y de autoconstrucción, de acuerdo a la normatividad del desarrollo urbano, que en materia de vivienda rija;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Concertar con la iniciativa privada su participación en la renovación del inventario de vivienda, en la promoción de viviendas nuevas y la inversión en proyectos de vivienda integral, incentivando al sector privado a través de un instrumento técnico, jurídico y administrativo que brinde estímulos fiscales al desarrollo de vivienda, principalmente de interés social y/o popular;
 
 VI.- Fomentar la utilización de materiales de alta calidad, tecnologías adecuadas y bajo costo, en la construcción, mantenimiento y mejoramiento de vivienda;
 
 VII.- Coordinar las acciones de las instituciones federales, estatales y municipales promotoras de vivienda, con aquellas que proporcionan los servicios públicos, definiendo las zonas de atención prioritaria;
 
 VIII.- Propiciar la utilización de mano de obra, materiales, equipo técnico y demás componentes de tipo local, en la construcción y mejoramiento de vivienda; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 IX.- Prever la disponibilidad de áreas de habitación para el caso de ocurrir contingencias ambientales y desastres, en los que se requiera la reubicación de la población.
 
@@ -1281,7 +1475,9 @@ Por un Presidente, que será el Secretario de Desarrollo Urbano y Obras Pública
 
 Como Secretario Técnico al Director General de la Comisión Estatal de Reservas Territoriales;
 
-Como Secretarios Ejecutivos a los Secretarios de Gobierno y de Desarrollo Ambiental;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Como Secretarios Ejecutivos a los Secretarios de Gobierno y Secretario Ejecutivo de la Comisión Estatal de Agua y medio Ambiente;
 
 Como vocales, con voz y voto, los Presidentes Municipales y sus responsables de desarrollo urbano, y de ecología, los representantes acreditados de propietarios y poseedores de la tierra, y los representantes de las dependencias federales competentes.
 
@@ -1695,9 +1891,11 @@ Los notarios y demás fedatarios sólo podrán autorizar escrituras de actos, co
 
 No surtirán efecto los permisos, autorizaciones o licencias que contravengan lo establecido en los programas de desarrollo urbano. No podrá inscribirse ningún acto, convenio, contrato o afectación en el Registro Público de la Propiedad y el Comercio o en el Catastro, que no se ajuste a la presente Ley y los programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 161.
 
-Las autoridades que expidan los programas municipales de desarrollo urbano, los de centros de población y los de zonas conurbadas, que no se gestionen su inscripción, así como el jefe de la oficina de registro que se abstenga de llevarla a cabo o lo realice con deficiencia, serán sancionados conforme a las disposiciones jurídicas aplicables.
+Las autoridades encargadas de formular, expedir y aplicar los programas de desarrollo urbano en sus diferentes niveles de planeación, que no gestionen su inscripción, así como el titular del Registro Público de la Propiedad y del Comercio del Estado de Morelos, que se abstenga de lIevarla a cabo o lo realice con deficiencia, serán sancionados conforme a las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 162.
 
@@ -1707,13 +1905,17 @@ Cuando se estén desarrollando construcciones, fraccionamientos, condominios, co
 
 Las dependencias y entidades de los tres órdenes de gobierno sujetarán la ejecución de sus programas de inversión y de obra en el Estado, a las políticas de ordenamiento territorial de los asentamientos humanos y a los programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 164.
 
-Quienes propicien la ocupación irregular de áreas y predios en los centros de población, se harán acreedores a las sanciones establecidas en el Artículo 311 de esta Ley y las disposiciones jurídicas aplicables.
+Quienes propicien o lleven a cabo la ocupación irregular de áreas y predios en los centros de población o en áreas no aptas para el desarrollo urbano, se harán acreedores a las sanciones establecidas en el artículo 314 de esta Ley y las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 165.
 
-Los órganos de planeación urbana en el ámbito de su competencia solicitarán, cuando los proyectos de desarrollo urbano generen un impacto significativo en el medio ambiente o en la estructura urbana del centro de población, de la región o zona conurbada, requerirán los dictámenes de Impacto Urbano y Vial expedido por la Secretaría de Desarrollo Urbano y Obras Públicas y de Impacto Ambiental expedido por la Secretaría de Desarrollo Ambiental, además de las licencias o autorizaciones municipales que correspondan.
+Los órganos de planeación urbana en el ámbito de su competencia solicitarán, cuando los proyectos de desarrollo urbano generen un impacto significativo en el medio ambiente o en la estructura urbana del centro de población, de la región o zona conurbada, el Dictamen de Impacto Urbano expedido por la Secretaría de Desarrollo Urbano y Obras Públicas y de Impacto Ambiental este último sancionado por la Comisión Estatal de Agua y Medio Ambiente, para poder otorgar las licencias o autorizaciones que correspondan.
 
 ###### ARTÍCULO 166.
 
@@ -1745,9 +1947,11 @@ En la Licencia de Uso del Suelo, que tendrá una vigencia mínima de un año, se
 
 Para solicitar Constancia de Zonificación y/o Licencia de Uso del Suelo, el solicitante deberá presentar la documentación que señalen las disposiciones reglamentarias. La autoridad competente resolverá sobre la petición en un plazo máximo de diez días hábiles cuando la información proporcionada quede integrada en su totalidad; de requerirse datos adicionales, como los dictámenes de impacto previstos en esta Ley, la autoridad competente lo comunicará al interesado dentro del mismo término y resolverá cuando estén cubiertos estos requisitos. En caso contrario se entenderá que la autoridad resuelve favorablemente.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 171.
 
-Las constancias de zonificación y licencias de uso del suelo no constituyen constancias de alineamiento, apeo y deslinde respecto de los inmuebles; no acreditan la propiedad o posesión de los mismos, ni certifican el tipo de tenencia.
+Las constancias de zonificación y licencias de uso del suelo no constituyen constancias de alineamiento, apeo y deslinde respecto de los inmuebles; no acreditan la propiedad o posesión de los mismos, ni certifican el tipo de tenencia, tampoco constituyen ningún permiso para la realización de obra o actividad, sino un requisito previo para la obtención de las licencias o permisos de construcción.
 
 ###### ARTÍCULO 172.
 
@@ -1759,9 +1963,11 @@ El Registro Público de la Propiedad y del Comercio transcribirá el uso del sue
 
 ### CAPÍTULO SEGUNDO. DE LA VÍA PÚBLICA
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 174.
 
-Para la apertura, prolongación y ampliación de vías públicas no previstas en los programas de desarrollo urbano, así como para los centros de población que carezcan de éstos, será necesaria la autorización previa de la Secretaría de Desarrollo Urbano y Obras Públicas, a petición del Ayuntamiento correspondiente, con base en lo que establezca el Reglamento de esta Ley o el Reglamento de Vía Pública.
+Para la apertura, prolongación y ampliación de vías públicas no previstas en los programas de desarrollo urbano, así como para los centros de población que carezcan de éstos, será necesaria la autorización previa de la Secretaría de Desarrollo Urbano y Obras Públicas, a petición del Ayuntamiento correspondiente, con base en lo que establezca el Reglamento de esta Ley, y el Reglamento de Construcción respectivo.
 
 ###### ARTÍCULO 175.
 
@@ -1953,9 +2159,11 @@ Para delimitar los arroyos de circulación vehicular se construirán guarnicione
 
 El tipo y características técnicas del pavimento a emplearse en vías públicas se determinarán con base en su función dentro de la estructura e imagen urbana y a la intensidad del tránsito y pesos vehiculares ya sea que se ejecuten en forma directa por los Municipios, por contratistas, por particulares o por colonos organizados; pero en cualquiera de los casos se utilizarán materiales preferentemente permeables para la mejor filtración de las aguas. La autoridad municipal u otros ejecutores, podrán solicitar la asesoría técnica de la Secretaría de Desarrollo Urbano y Obras Públicas, de la Secretaría de Comunicaciones y Transportes o del Colegio de Ingenieros Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 205.
 
-En todas las fases de construcción de pavimentos, ya sea que se ejecuten en forma directa por los Ayuntamientos o por particulares contratados para tal efecto, se deberá cumplir con las especificaciones técnicas que determine la autoridad municipal.
+En todas las fases de construcción de pavimentos, ya sea que se ejecuten en forma directa por los Ayuntamientos o por particulares contratados para tal efecto, se deberá cumplir con las especificaciones técnicas que determine la norma.
 
 La autoridad municipal podrá solicitar la asesoría de la Secretaría de Desarrollo Urbano y Obras Públicas o de la dependencia federal competente.
 
@@ -1965,7 +2173,9 @@ La autoridad municipal podrá solicitar la asesoría de la Secretaría de Desarr
 
 La explotación de bancos de materiales para la construcción u ornamentos se sujetará, sin perjuicio de lo que dispone la legislación estatal en materia ambiental, a las normas básicas siguientes:
 
-I.- La autorización será expedida por la autoridad municipal, para lo cual se requerirá previamente de los dictámenes favorables de impacto urbano y ambiental emitidos por la Secretaría de Desarrollo Urbano y Obras Públicas y la Secretaría de Desarrollo Ambiental respectivamente, y acompañarse del título de propiedad o del certificado de tenencia ejidal o comunal respectivo y, en su caso, del título de la concesión pública y el contrato privado que permitan al solicitante llevar a cabo la explotación;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+I.- La autorización será expedida por la autoridad municipal, para lo cual se requerirá previamente de los dictámenes favorables de impacto urbano y ambiental emitidos por la Secretaría de Desarrollo Urbano y Obras Públicas y la Comisión Estatal de Agua y Medio Ambiente respectivamente, y acompañarse del titulo de propiedad o del certificado de tenencia ejidal o comunal respectivo y, en su caso, del título de la concesión pública y el contrato privado que permitan al solicitante llevar a cabo la explotación;
 
 II.- La explotación sólo podrá efectuarse en áreas no urbanizables del centro de población o Municipio, excepto en aquellos casos en que la explotación sea parte del proceso de acondicionamiento del terreno;
 
@@ -1983,25 +2193,37 @@ VII.- Rehabilitar el terreno explotado para su aprovechamiento posterior a efect
 
 VIII.- Las autorizaciones a que se refiere la Fracción I, deberán inscribirse en el Registro Estatal de Bancos de Materiales para construcción que tendrá a cargo la dependencia estatal que corresponda en los términos de la reglamentación respectiva. El proyecto para la explotación de bancos de materiales para la construcción, la ejecución de faenas y en su caso, las obras de rehabilitación del suelo, requerirán de perito responsable debidamente inscrito en el respectivo registro estatal.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 207.
 
-En áreas donde se exploten bancos de materiales y existan asentamientos humanos, previo dictamen de la oficina de Protección Civil, se procederá a formular los dictámenes urbano y ambiental por las dependencias que establece la Fracción I del ARTÍCULO 12. De su resultado, el Ayuntamiento instrumentará las acciones que correspondan.
+En áreas donde se exploten bancos de materiales y existan asentamientos humanos, previo dictamen de la oficina de Protección Civil, se procederá a formular los dictámenes urbano y ambiental por las dependencias que establece la Fracción I del artículo 206, de su resultado, el Ayuntamiento instrumentará las acciones que correspondan.
+
+Una vez concluida la explotación de las áreas de bancos de materiales, por ningún motivo serán objeto de áreas urbanizables, salvo en el caso previsto en el artículo 206 fracción II de la presente ley.
 
 ## TÍTULO SÉPTIMO. DE LOS FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES COMUNES A LA FUSIÓN, DIVISIÓN, FRACCIONAMIENTO DE TERRENOS, RÉGIMEN EN CONDOMINIO, CONJUNTOS URBANOS Y SUS MODIFICACIONES
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 208.
 
-Conforme a lo previsto en esta Ley, corresponde a la autoridad municipal autorizar las fusiones, divisiones, condominios, fraccionamientos, conjuntos urbanos y sus modificaciones, que se promuevan, respecto de los lotes o predios ubicados en el territorio del Municipio de que se trate.
+Conforme a lo previsto en esta Ley, corresponde a la autoridad municipal o estatal en su caso, autorizar las fusiones, divisiones, condominios, fraccionamientos, conjuntos urbanos y sus modificaciones, respecto de los lotes o predios ubicados en el territorio del Municipio de que se trate.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 209.
 
-Los Ayuntamientos, para ejercer sus atribuciones, deberán contar con su Programa Municipal de Desarrollo Urbano y los que de éste se deriven, conforme lo establece esta Ley y su Reglamento.
+Los Ayuntamientos, para ejercer sus atribuciones, deberán contar con su Programa Municipal de Desarrollo Urbano actualizado, y los que de éste se deriven, conforme lo establece esta Ley, su Reglamento, el Programa de Zona Conurbada en su caso, Programa Estatal de Desarrollo Urbano, y Programa Estatal de Ordenamiento Ecológico Territorial.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 210.
 
-El Gobierno del Estado y los Ayuntamientos podrán convenir que el primero asuma las funciones de autorización en materia de fusiones, divisiones, fraccionamientos, condominios, conjuntos urbanos y sus modificaciones. En cualquier caso, a la Secretaría le corresponderá vigilar el cumplimiento de las disposiciones del Artículo anterior.
+El Gobierno del Estado y los Ayuntamientos podrán convenir que el primero asuma las funciones de autorización en materia de fusiones, divisiones, fraccionamientos, condominios, conjuntos urbanos y sus modificaciones, hasta en tanto los Ayuntamientos no cuenten con la infraestructura y capacidad técnica, previa opinión del Gobierno del Estado, por conducto de sus autoridades competentes. En el caso de que el Municipio respectivo, asuma y ejerza las funciones antes citadas, deberá de informarlo a las autoridades competentes del Gobierno del Estado, mediante acta de cabildo.
+
+Para tal efecto, corresponderá a la Secretaría vigilar la capacitación y el correcto ejercicio de estas funciones por el Municipio de acuerdo a esta Ley y su Reglamento.
 
 ###### ARTÍCULO 211.
 
@@ -2011,13 +2233,17 @@ De acuerdo a lo establecido en el Artículo 11, fracciones IV y V de esta Ley, c
 
 Las fusiones, divisiones, fraccionamientos, condominios, conjuntos urbanos y sus modificaciones, se regirán por lo que establece esta Ley y su Reglamento, así como por los programas de desarrollo urbano. Estas disposiciones son obligatorias para los sectores público, social y privado.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 213.
 
-Son las autoridades municipales y estatales, en su caso, a quienes corresponde autorizar las disposiciones de este Capítulo así como propiciar la desregulación y simplificación administrativa para la tramitación de los expedientes respectivos, y dictar los acuerdos que corresponda en forma pronta y expedita.
+Son las autoridades municipales y estatales, en su caso, a quienes corresponde autorizar las disposiciones de este capítulo así como propiciar la desregulación, desgravación y simplificación administrativa para la tramitación de los expedientes respectivos, y dictar los acuerdos que corresponda en forma pronta y expedita.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 214.
 
-Antes de aprobarse la realización de un fraccionamiento, condominio y/o conjunto urbano, la autoridad competente se cerciorará de que con esa obra se provee el óptimo aprovechamiento de las superficies a urbanizar; la seguridad de la propiedad privada y su posesión pacífica, continua y pública; el establecimiento y uso apropiado de los servicios públicos generales; seguridad, comodidad y condiciones de imagen urbana, procurando el respeto a la iniciativa personal.
+Antes de aprobarse la realización de un fraccionamiento, condominio o conjunto urbano, la autoridad competente se cerciorará de que el proyecto contemple el óptimo aprovechamiento de las superficies a urbanizar, el equilibrio ecológico, la seguridad de la propiedad privada y su posesión pacífica, continua y pública; el abastecimiento suficiente y uso apropiado de los servicios públicos generales, seguridad, higiene, iluminación y ventilación así como las condiciones de imagen urbana.
 
 ###### ARTÍCULO 215.
 
@@ -2031,9 +2257,19 @@ III.- Fraccionamiento, la división de un predio en fracciones regulares o irreg
 
 IV.- Condominio, el régimen jurídico en que coexiste un derecho singular y exclusivo de propiedad sobre cada una de las unidades en que se constituya un inmueble susceptible de aprovechamiento individual, por tener salida propia a la vía pública o a un elemento común del inmueble y un derecho proporcional de copropiedad forzosa e indivisible sobre los elementos y partes comunes del inmueble, necesarios para el adecuado disfrute de las unidades de propiedad singular y exclusiva;
 
-V.- Conjunto urbano, régimen jurídico que se establece en un polígono determinado de terreno, en el cual se autorizan simultáneamente diversos aprovechamientos del suelo y que puede incluir dos o más de las modalidades descritas en las fracciones anteriores; y
+V.- Conjunto urbano, régimen jurídico que se establece en un polígono determinado de terreno, en el cual se autorizan simultáneamente diversos aprovechamientos del suelo y que puede incluir dos o más de las modalidades descritas en las fracciones anteriores; y (sic)
 
-VI.- Modificación, el cambio total o parcial, en la estructura aprobada y autorizada de una división, fusión, condominio o conjunto urbano.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Modificación, el cambio parcial en el proyecto, aprobado y/o autorizado de una división, fusión, fraccionamiento, condominio o conjunto urbano;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Lotificación, la división de un predio en fracciones regulares o irregulares en un número de seis o superior, sin apertura de calles;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Regularización, reconocimiento por la autoridad competente, cuando un inmueble se encuentra fusionado y/o dividido físicamente, administrativamente o por resolución judicial, en donde las fracciones resultantes no cuenten con la superficie o frente establecidos como mínimos.
 
 ###### ARTÍCULO 216.
 
@@ -2079,25 +2315,35 @@ Cada una de las acciones urbanas contenidas en este Título sólo se podrán des
 
 Todas las autorizaciones de fusión, división, fraccionamiento, condominio, conjunto urbano, o su modificación, otorgadas por la autoridad municipal, deberán inscribirse en el Registro Público de la Propiedad y del Comercio. Esta oficina se abstendrá de hacer la inscripción respectiva cuando carezca de la autorización.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 222.
 
 Para el cumplimiento de las obligaciones fiscales, que sean en favor del Municipio, los solicitantes de acciones urbanas a que se refiere este Título se regirán exclusivamente por las disposiciones de la Ley de Ingresos del Municipio que corresponda. Las obligaciones fiscales estatales se regirán por lo que establezca la Ley General de Hacienda del Estado, el Código Fiscal para el Estado de Morelos y demás Legislación aplicable a la materia.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 223.
 
-A toda solicitud, debidamente requisitada, de fusión, división, fraccionamiento, condominio, conjunto urbano, o su modificación, la autoridad municipal, una vez integrado el expediente, deberá emitir y notificar por escrito la resolución correspondiente dentro de los treinta días hábiles contados a partir de la recepción de la solicitud; de lo contrario, se entenderá que la autorización ha sido concedida y se procederá al pago de las contribuciones correspondientes, independientemente de las sanciones a que se hiciere acreedor el funcionario que propicie esas omisiones, de acuerdo a lo señalado por la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+A toda solicitud, debidamente requisitada, de fusión, división, lotificación, fraccionamiento, condominio, conjunto urbano, modificación, y regularización, la autoridad estatal o municipal una vez integrado el expediente, deberá emitir y notificar por escrito la resolución correspondiente dentro de los treinta días hábiles contados a partir de la recepción de la solicitud; de lo contrario, se entenderá que la autorización ha sido concedida y se procederá al pago de las contribuciones correspondientes, independientemente de las sanciones a que se hiciere acreedor el funcionario que propicie esas omisiones, de acuerdo a lo señalado por la ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
 ###### ARTÍCULO 224.
 
 Todo propietario o poseedor, cualesquiera que sea el régimen de tenencia de la tierra, que fusione, divida, fraccione o modifique, violando las disposiciones de esta Ley y su reglamento, los programas de desarrollo urbano vigentes o los convenios y autorizaciones concedidas, se hará acreedor a las sanciones a que se refieren estos ordenamientos, sin perjuicio de lo que dispongan otras Leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 225.
 
-En las acciones urbanas en que se lleven a cabo ventas irregulares de lotes, se realicen edificaciones, se abran calles o ejecuten obras de urbanización, sin haber obtenido previamente la autorización correspondiente, la autoridad municipal, al tener conocimiento de lo anterior, procederá de la siguiente forma:
+Quedan prohibidas las acciones urbanas en que se lleven a cabo ventas irregulares de lotes, se realicen edificaciones, se abran calles o ejecuten obras de urbanización, sin haber obtenido previamente la autorización correspondiente, la autoridad municipal, al tener conocimiento de lo anterior, procederá de la siguiente forma:
 
-I.- Ordenará la inmediata suspensión de las ventas, en su caso de las obras e instalaciones de que se trate y se obligará a promover el proceso jurídico por fraude;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-II.- Fijará al responsable un plazo no mayor de quince días a partir de que sea notificado, para que informe sobre las ventas de lotes que haya efectuado y sobre el estado que guarden las obras de urbanización;
+I.- Ordenará la inmediata suspensión de las ventas, en su caso de las obras e instalaciones de que se trate y se obligará a promover el procedimiento administrativo previsto en el título octavo capítulo tercero de esta ley, así como el proceso jurídico por fraude mediante la denuncia correspondiente en términos del artículo 325 de esta ley;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+II.- Requerirá al responsable para que en un plazo no mayor de quince días partir de que sea notificado y bajo protesta de decir verdad informe sobre las ventas de lotes que haya efectuado y sobre el estado que guarden las obras de urbanización;
 
 III.- Hará del conocimiento público que el desarrollo de que se trate se lleva a cabo sin autorización oficial, mediante avisos y publicaciones en el diario de mayor circulación, misma que se realizará por tres ocasiones consecutivas y con cargo al propietario o responsable del inmueble;
 
@@ -2117,9 +2363,11 @@ El Gobierno del Estado y los Ayuntamientos podrán suscribir Convenios de Coordi
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 228.
 
-Para conocer, resolver y aprobar los proyectos de fusión, división, fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, serán autoridades competentes:
+Para conocer, resolver y aprobar los proyectos de fusión, división, fraccionamientos, inclusive en términos de regularización así como condominios, conjuntos urbanos, y sus modificaciones, serán autoridades competentes:
 
 I.- La Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos, cuando exista convenio con el municipio en tal sentido;
 
@@ -2135,27 +2383,53 @@ La Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos estar�
 
 I.- El Gobernador del Estado, quien la presidirá por sí o por su representante que será el Secretario de Desarrollo Urbano y Obras Públicas;
 
-II.- El Consejero Jurídico del Gobierno del Estado, quien fungirá como asesor de la comisión;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-III.- El Director Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos, quien fungirá como Secretario Técnico de la comisión;
+II.- El Consejero Jurídico del Gobierno del Estado, quien fungirá como Vocal Jurídico;
 
-IV.- El Director General del Registro Público de la Propiedad y del Comercio del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-V.- El Director General de Catastro;
+III.- El Subsecretario de Desarrollo Urbano y Vivienda, quien fungirá como Vocal Técnico;
 
-VI.- Un representante de la delegación del Registro Agrario Nacional en el Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-VII.- Los presidentes municipales; y
+IV.- El Director Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos, quien fungirá como Secretario Técnico de la Comisión;
 
-VIII.- Un representante del Consejo Estatal de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-Podrán formar parte de la comisión representantes de otras dependencias, organismos y colegios de profesionistas.
+V.- El Director General del Registro Público de la Propiedad y del Comercio del Estado; como Primer Vocal;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- El Director General de Catastro; como Segundo Vocal;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- El Delegado del Registro Agrario Nacional en el Estado como tercer vocal;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VIII. El Director General del Instituto de Vivienda en el Estado, como cuarto vocal; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+IX.- El Presidente Municipal del municipio correspondiente como quinto vocal.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Los integrantes podrán ser representados por suplentes cuando el titular así lo crea conveniente.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Podrán formar parte de la comisión de manera transitoria. Representantes de otras dependencias, organismos y colegios de profesionistas, quienes tendrán voz y no voto.
 
 ###### ARTÍCULO 230.
 
 Son atribuciones de la Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos:
 
-I.- Conocer, analizar y autorizar los proyectos de fusión, división, fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento, cuando exista convenio con el municipio en tal sentido; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Conocer, analizar y autorizar los proyectos de fusión, división, lotificación incluso en términos de regularización así como fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento, cuando exista convenio con el municipio en tal sentido; y
 
 II.- Imponer las medidas de seguridad y sanciones por violaciones a está Ley y su reglamento.
 
@@ -2175,45 +2449,79 @@ V.- El Director Jurídico del Municipio, quien fungirá como asesor de la comisi
 
 VI.- Un representante de la delegación del Registro Agrario Nacional en el estado;
 
-VII.- Un representante del Consejo Municipal de Desarrollo Urbano.
+VII.- Un representante del Consejo Municipal de Desarrollo Urbano;
 
-Podrán formar parte de la comisión representantes de otras dependencias, organismos y colegios de profesionistas.
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Un representante de la Dirección Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Podrán formar parte de la comisión de manera transitoria, representantes de otras dependencias, organismos y colegios de profesionistas, quienes tendrán voz pero no voto.
 
 ###### ARTÍCULO 232.
 
 Son atribuciones de la Comisión Municipal de Fraccionamientos, Condominios y Conjuntos Urbanos:
 
-I.- Conocer, analizar y autorizar los proyectos de fusión, división, fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-II.- Imponer las medidas de seguridad y sanciones por violaciones a está Ley y su reglamento; y
+I.- Conocer, analizar y autorizar los proyectos de fusión, división, lotificación, inclusive en términos de regularización, así como fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento;
 
-III.- Vigilar la operación del fondo para adquisición de tierra, derivado del pago pecuniario de áreas de donación.
+II.- Imponer las medidas de seguridad y sanciones por violaciones a está Ley y su reglamento; y (sic)
+
+III.- Vigilar la operación del fondo para adquisición de tierra, derivado del pago pecuniario de áreas de donación;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- Las demás que se señalen en esta ley y su reglamento.
 
 ###### ARTÍCULO 233.
 
 La Dirección Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos tendrá las siguientes atribuciones:
 
-I.- Conocer, analizar y autorizar los proyectos de fusión, división, fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento, cuando exista convenio con el municipio en tal sentido;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Conocer, analizar y autorizar los proyectos de fusión, división, lotificación, inclusive en términos de regularización, así como, fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento, cuando exista convenio con el municipio en tal sentido;
 
 II.- Informar al Ayuntamiento que corresponda, de las autorizaciones concedidas;
 
 III.- Brindar orientación y asesoría técnica y legal a las Direcciones Municipales de Fraccionamientos, Condominios y Conjuntos Urbanos;
 
-IV.- Vigilar el cumplimiento de las normas que establece el presente Título, en las autorizaciones a cargo de los Ayuntamientos; y
+IV.- Vigilar el cumplimiento de las normas que establece el presente Título, en las autorizaciones a cargo de los Ayuntamientos; y (sic)
 
-V.- Llevar el registro de las autorizaciones otorgadas en todos los Municipios del estado.
+V.- Llevar el registro de las autorizaciones otorgadas en todos los Municipios del estado;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Ejecutar los acuerdos y resoluciones aprobados por la Comisión Estatal de Fraccionamientos Condominios y Conjuntos Urbanos;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Brindar orientación y asesoría técnica y legal a las Direcciones Municipales de Fraccionamientos, Condominios y Conjuntos Urbanos;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Las demás que se señalen en esta ley y su reglamento.
 
 ###### ARTÍCULO 234.
 
 La Dirección Municipal de Fraccionamientos, Condominios y Conjuntos Urbanos tendrá las siguientes atribuciones:
 
-I.- Conocer, analizar y autorizar los proyectos de fusión, división, fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Conocer, analizar y autorizar los proyectos de fusión, división, lotificación, inclusive en términos de regularización, así como fraccionamientos, condominios, conjuntos urbanos, y sus modificaciones, que le establezca el reglamento;
 
 II.- Informar a la Dirección Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos, de las autorizaciones concedidas;
 
-III.- Vigilar que se cumplan todos los requisitos y formalidades para cada una de las acciones de fusión, división, fraccionamientos, condominios y conjuntos urbanos; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-IV.- Supervisar el cumplimiento de las autorizaciones en los términos en que fueron otorgadas.
+III.- Vigilar que se cumplan todos los requisitos y formalidades para cada una de las acciones de fusión, división, lotificación, inclusive en términos de regularización, así como fraccionamientos, condominios y conjuntos urbanos; y (sic)
+
+IV.- Supervisar el cumplimiento de las autorizaciones en los términos en que fueron otorgadas;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VI (SIC).- La demás que señale esta ley y su reglamento.
 
 ###### ARTÍCULO 235.
 
@@ -2233,15 +2541,27 @@ Para obtener la autorización de una división y fusión, se deberá cumplir con
 
 4. Pago del Impuesto Predial.
 
-5. Plano Catastral.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+5. Plano autorizado.
 
 6. Dictamen de Uso del Suelo y plano autorizado.
 
 7. Constancia de factibilidad de agua potable para cada una de las fracciones por el Sistema de Agua Potable.
 
-8. Plano de proyecto (fusión, división), y
+8. Plano de proyecto (fusión, división), y (sic)
 
-9. Las demás que señale el Reglamento de la Ley.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+9. Tratándose de Lotificación, donar al municipio una superficie del 10% calculada sobre el área vendible, otorgando la escritura correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+10. A juicio de la Comisión, Constancia de la Delegación del Registro Agrario Nacional, que determine el régimen jurídico del predio en su caso y;
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+11. Los demás que señale el Reglamento de la Ley.
 
 ###### ARTÍCULO 237.
 
@@ -2269,13 +2589,25 @@ En todo fraccionamiento, cualquiera que sea la forma o tipo, el solicitante debe
 
 11. Presupuesto y calendario de obras.
 
-12. Plano general de instalaciones hidráulicas, sanitarias y eléctricas.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+12. Plano general de instalaciones hidráulicas, pluviales, sanitarias y eléctricas.
 
 13. Plano general de conjunto.
 
 14. Plano de instalaciones, hidráulicas, sanitarias y eléctricas.
 
-15. Las demás que señale el Reglamento de la Ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+15. A juicio de la Comisión, Constancia de la Delegación del Registro Agrario Nacional que determine el régimen jurídico del predio.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+16. Fianza para garantizar las obras de urbanización.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+17. Las demás que señale el Reglamento de la Ley.
 
 ###### ARTÍCULO 238.
 
@@ -2313,9 +2645,19 @@ Son requisitos básicos para la autorización del condominio los siguientes:
 
 16. Presupuesto desglosado.
 
-17. Calendario de obras, y
+17. Calendario de obras, y (sic)
 
-18. Los demás que señale el Reglamento de la Ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+18. A juicio de la Comisión, Constancia de la Delegación del Registro Agrario Nacional que determine el régimen jurídico del predio.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+19. Fianza para garantizar las obras de urbanización; y
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+20. Las demás que señale el Reglamento de la Ley.
 
 ###### ARTÍCULO 239.
 
@@ -2349,9 +2691,23 @@ Son requisitos para la autorización del conjunto urbano los siguientes:
 
 14. Plano(s) de drenaje.
 
-15. Plano(s) de agua potable y,
+15. Plano(s) de agua potable y, (sic)
 
-16. Los demás que señale el Reglamento de la Ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+16. Constancia de factibilidad de la Comisión Federal de Electricidad.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+17. A juicio de la Comisión, Constancia de la Delegación del Registro Agrario Nacional que determine el régimen jurídico del predio.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+18. Fianza que garantice la terminación de las obras de urbanización; y
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+19. Los demás que señale esta Ley y su reglamento.
 
 ### CAPÍTULO CUARTO. DE LOS FRACCIONAMIENTOS
 
@@ -2423,11 +2779,13 @@ I.- De urbanización inmediata.- Son aquellos en los que el fraccionador, person
 
 II.- De urbanización por etapas.- Son aquellos en los que debido a su extensión, características y costo, la autoridad municipal podrá autorizar al fraccionador o promovente la ejecución de las obras de urbanización por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la autorización respectiva; y (sic)
 
-III.- De urbanización por cooperación.- Son aquellos en los cuales un grupo social legalmente constituido se compromete a ejecutar las obras de urbanización en un predio de su propiedad en el plazo y con las especificaciones reglamentarias que haya determinado la autoridad municipal; dichas obras deberán ejecutarse con la cooperación de los miembros del grupo social, sin menoscabo de aportaciones y recursos de cualquier otra instancia.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-Los fraccionamientos por cooperación pueden ser desarrollados de forma inmediata o progresiva;
+III.- De urbanización por cooperación.- Son aquellos en los cuales un grupo social legalmente constituido se compromete a ejecutar las obras de urbanización en un predio de su propiedad sin fines de especulación comercial en el plazo y con las especificaciones reglamentarias que haya determinado la autoridad municipal; dichas obras deberán ejecutarse con la cooperación de los miembros del grupo social, sin menoscabo de aportaciones y recursos de cualquier otra instancia, los fraccionamientos por cooperación pueden ser desarrollados de forma inmediata o progresiva;
 
-IV. De urbanización progresiva.- Es aquel en el que ejidatarios y comuneros, debidamente acreditados por su núcleo agrario y por la autoridad agraria competente, solicitan la venta directa de lotes a particulares, sujetándose a derechos y obligaciones de urbanización y regularización; a la normatividad de esta Ley; a la regulación que el Gobierno del Estado y los Ayuntamientos les determinen y con total apego a las disposiciones de los programas de desarrollo urbano.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- De urbanización progresiva.- Es aquel en el que ejidatarios y comuneros, debidamente acreditados por su núcleo agrario y por la autoridad agraria competente, solicitan la venta directa de lotes a particulares, sujetándose a derechos y obligaciones de urbanización y regularización; a la normatividad de esta Ley; a la regulación que el Gobierno del Estado y los Ayuntamientos les determinen y con total apego a las disposiciones de los programas de desarrollo urbano, debiendo cumplir con los requisitos establecidos en el artículo 237 a excepción del certificado de libertad de gravamen, el plano catastral y el comprobante de pago del impuesto predial.
 
 ###### ARTÍCULO 251.
 
@@ -2507,9 +2865,11 @@ La Dirección General del Registro Público de la Propiedad y del Comercio no re
 
 En caso de que por alguna circunstancia considerada en esta Ley no se haya previsto el área de donación, deberá conocer la resolución y acotarla en el registro del fraccionamiento que inscriba.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 258.
 
-Para los efectos de esta Ley, se entiende por municipalización del fraccionamiento, el acto formal mediante el cual se realiza la entrega - recepción por parte del fraccionador o asociación de colonos legalmente constituida, al Ayuntamiento respectivo, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento que, cumpliendo con lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables, se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados.
+Para los efectos de esta Ley, se entiende por municipalización del fraccionamiento, el acto formal mediante el cual se realiza la entrega - recepción por parte del fraccionador o asociación al Ayuntamiento respectivo, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento una vez que se haya vendido o enajenado el 90% de la totalidad de los lotes, y estando concluidas totalmente las obras de urbanización, y éstas se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento, en la esfera de su competencia, brindar los servicios públicos necesarios para el bienestar de los colonos ahí asentados.
 
 ###### ARTÍCULO 259.
 
@@ -2687,9 +3047,13 @@ V.- Mixtos;
 
 VI.- Cementerios.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 281.
 
-Toda persona que solicite la autorización para constituir un condominio en cualquiera de sus modalidades, deberá de transmitir al Municipio en el que se localice el desarrollo, un área de donación correspondiente al diez por ciento del valor de la superficie del predio mediante avalúo comercial antes de la autorización del régimen, pero en ningún caso podrá formar parte de la constitución del régimen de condominio, debiendo tramitar primero la división correspondiente; en caso de que el frente no lo permita, deberá pagar en especie.
+Toda persona que solicite la autorización para constituir un condominio en cualquiera de sus modalidades, deberá de transmitir al Municipio en el que se localice el desarrollo, un área de donación correspondiente al diez por ciento del valor de la superficie del predio mediante avalúo comercial antes de la autorización del régimen, pero en ningún caso podrá formar parte de la constitución del régimen de condominio, debiendo tramitar primero la división correspondiente; en caso de que el frente no lo permita, deberá pagar de manera pecuniaria.
+
+El avalúo se hará por Instituciones de Crédito, Corredor Público, o persona que cuente con cédula profesional de valuador expedida por la Secretaría de Educación Pública y el valor comercial no será menor al que marque el catastro.
 
 ###### ARTÍCULO 282.
 
@@ -2701,9 +3065,11 @@ En todas las escrituras públicas de condominios los notarios deberán transcrib
 
 ### CAPÍTULO QUINTO. DE LOS CONJUNTOS URBANOS
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 284.
 
-El conjunto urbano que se define en el Artículo 4, Fracción VII, de la presente Ley, se desarrollará en áreas de reserva o de regeneración urbana previstos en los programas de desarrollo urbano, y podrán ser de tipo habitacional, servicios, abasto, comercio, industrial o mixto. Cada tipo de conjunto podrá comprender la mezcla de usos permitidos en los respectivos programas de desarrollo urbano.
+El conjunto urbano que se define en el Artículo 4, Fracción VII, de la presente Ley, se desarrollará en áreas de reserva o de regeneración urbana previstos en los programas de desarrollo urbano, y podrán ser de tipo habitacional, servicios, abasto, comercio y mixto. Cada tipo de conjunto podrá comprender la mezcla de usos permitidos en los respectivos programas de desarrollo urbano.
 
 ###### ARTÍCULO 285.
 
@@ -2745,7 +3111,9 @@ Las características de infraestructura, equipamiento y servicios, para la autor
 
 A toda persona, física o moral, que se le autorice un fraccionamiento, condominio o conjunto urbano, está obligada a transmitir a favor del Municipio que le corresponda, una superficie equivalente al diez por ciento del valor total del inmueble.
 
-Asimismo, podrá optar por realizar el pago pecuniario equivalente al monto del avalúo comercial que se le designe a los terrenos, contribución que será enterada a la Tesorería Municipal correspondiente, que se obliga a constituir un fondo para adquisición de tierra con destino público.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+Asimismo, podrá optar por realizar el pago pecuniario equivalente al monto del avalúo comercial que se le designe a los terrenos, contribución que será enterada a la Tesorería Municipal correspondiente, que se obliga a constituir un fondo para adquisición de tierra con destino público. El avalúo se hará por Instituciones de Crédito, Corredor Público, o persona que cuente con cédula profesional de valuador expedida por la Secretaría de Educación Publica y el valor comercial no será menor al que marque el catastro.
 
 ###### ARTÍCULO 295.
 
@@ -2839,9 +3207,11 @@ V.- De toda visita se levantará acta circunstanciada por duplicado, en la que s
 
 VI.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se atendió la diligencia; y (sic)
 
-VII.- El personal autorizado que hubiere practicado la visita, deberá entregar el acta levantada a más tardar al siguiente día hábil, a la autoridad que haya ordenado la verificación:
+VII.- El personal autorizado que hubiere practicado la visita, deberá entregar el acta levantada a más tardar al siguiente día hábil, a la autoridad que haya ordenado la verificación;
 
-VIII.- En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada las irregularidades que se hubiesen presentado durante la diligencia, que presumiblemente constituyan infracciones en contra de la presente Ley, así como lo previsto en el Artículo 67 de la Ley Federal de Procedimiento Administrativo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada las irregularidades que se hubiesen presentado durante la diligencia, que presumiblemente constituyan infracciones en contra de la presente Ley, así como lo previsto en el Artículo 67 de la Ley Estatal de Procedimiento Administrativo;
 
 IX.- Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con las irregularidades asentados (sic) en el acta respectiva, y para que ofrezcan las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado;
 
@@ -2873,13 +3243,17 @@ A los realizadores de obras públicas del Estado, o de los Ayuntamientos, cuyos 
 
 Las sanciones a que se refiere este capítulo, se harán efectivas a los responsables independientemente de las sanciones penales a que se hagan acreedores y que imponga la autoridad competente. Cuando las sanciones sean pecuniarias, se harán efectivas por conducto de las oficinas exactoras de la Secretaría de Hacienda del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 311.
 
-Cuando con una sola acción se violen dos o más disposiciones de las comprendidas en el artículo 14 de esta Ley, se podrá fijar el monto de cada sanción o imponer una sanción global, en todo caso, se señalarán los preceptos legales violados y el motivo o razones de la sanción.
+Cuando con una sola acción se violen dos o más disposiciones de las comprendidas en el artículo 314 de esta Ley, se podrá fijar el monto de cada sanción o imponer una sanción global, en todo caso, se señalarán los preceptos legales violados y el motivo o razones de la sanción.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 312.
 
-Las medidas de seguridad serán de ejecución inmediata cuando las circunstancias del caso así lo requieran. De no ser necesario y urgente, se procurará oír a la persona interesada o afectada por la medida. Asimismo, cuando el caso lo amerite, se tomarán las medidas de seguridad que sean pertinentes, independientemente de que se impongan las sanciones pecuniarias cuando se cometan infracciones.
+Las medidas de seguridad serán de ejecución inmediata cuando las circunstancias del caso así lo requieran. La determinación de Urgente necesidad se determinará por la autoridad competente, bajo su más estricta responsabilidad. De no ser necesario y urgente, se oirá a la persona interesada o afectada por la medida. Asimismo, cuando el caso lo amerite, se tomarán las medidas de seguridad que sean pertinentes, independientemente de que se impongan las sanciones pecuniarias cuando se cometan infracciones.
 
 ###### ARTÍCULO 313.
 
@@ -2909,7 +3283,13 @@ IX.- Al que por medio de edificaciones o cualquier otro obstáculo impida o trat
 
 X.- Al que altere, rectifique o modifique planos aprobados de obras o construcciones sin permiso u orden de la autoridad competente, se le impondrá una sanción equivalente de cuarenta a mil quinientas veces el salario mínimo vigente, sin perjuicio de su consignación a la autoridad competente en caso de que su acción entrañe un delito, sin perjuicio de que las alteraciones, rectificaciones, o construcciones, se ajusten a planos aprobados, a su costa.
 
-XI.- Las demás que establezca el Reglamento.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Al que lleve cabo fusiones y/o divisiones en fraccionamientos, condominios y conjuntos urbanos, sin contar con la autorización correspondiente, se le impondrá una sanción equivalente de cuarenta a mil quinientas veces el salario mínimo vigente o lo establecido en la fracción IV del artículo 225 de esta ley, a juicio de la autoridad sin perjuicio de las sanciones penales y medida de seguridad que procedan.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XII.- Las demás que establezca el Reglamento.
 
 ###### ARTÍCULO 315.
 
@@ -2941,9 +3321,11 @@ IV.- Cooperar con los infractores o facilitarles en cualquier forma la violació
 
 Los encargados del Registro Público de la Propiedad y del Comercio del Estado cuando infrinjan las disposiciones del precepto anterior, quedarán sujetos a lo dispuesto en el ARTÍCULO 314. Los notarios públicos y demás personas investidas de la fe pública, serán sancionados de acuerdo con lo establecido en la Ley del Notariado.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 319.
 
-La Comisión Coordinadora del Programa Estatal de Desarrollo y el Secretario de Desarrollo Urbano y Obras Públicas del Estado, podrán tomar las medidas que por acuerdo o a su juicio respectivamente sean necesarias, para impedir que se le lesione o vea afectado el interés, la seguridad, la salubridad y la tranquilidad o el interés, derechos o posesiones de los particulares, mediante la edificación de obras en proceso de construcción o terminadas, el uso ilegal de áreas y predios u obstáculos de cualquier naturaleza, que impidan el desarrollo urbano planificado en sus distintas formas y faces (sic).
+El Secretario de Desarrollo Urbano y Obras Públicas del Estado, y los presidentes municipales, en el ámbito de sus respectivas competencias podrán tomar las medidas que por acuerdo o a su juicio respectivamente sean necesarias, para impedir que se le lesione o vea afectado el interés, la seguridad, la salubridad y la tranquilidad o el interés, derechos o posesiones de los particulares, mediante la edificación de obras en proceso de construcción o terminadas, el uso ilegal de áreas y predios u obstáculos de cualquier naturaleza, que impidan el desarrollo urbano planificado en sus distintas formas y faces (sic).
 
 ###### ARTÍCULO 320.
 
@@ -2973,7 +3355,13 @@ XI.- La prohibición de trasponer límites físicos debidamente marcados para ev
 
 XII.- El desalojo de personas semovientes o bienes de áreas y predios para la realización de obras públicas o para evitar daños a vecinos en la ejecución de programas de desarrollo urbano.
 
-XIII.- Cualquier otra medida apropiada o urgente, tendiente al cumplimiento exacto de los preceptos de esta Ley y su Reglamento.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XIII.- La clausura de predios e instalaciones en las que se lleven a cabo acciones de división, lotificación, fraccionamiento o venta ilegal de lotes.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
+
+XIV.- Cualquier otra medida apropiada o urgente, tendiente al cumplimiento exacto de los preceptos de esta Ley y su Reglamento, el incumplimiento de éstas, se hará de su conocimiento al Congreso del Estado.
 
 ###### ARTÍCULO 321.
 
@@ -3011,45 +3399,23 @@ Para efectos del Artículo anterior, el Registro Público de la Propiedad y del 
 
 ###### ARTÍCULO 328.
 
-La Comisión Coordinadora del Plan Estatal y el Secretariado de Desarrollo Urbano y Obras Públicas del Estado y los Presidentes municipales que corresponda en el ámbito de su competencia, podrán tomar las medidas que por acuerdo o a su juicio respectivamente sean necesarias, para impedir que se le lesione o vea afectado el interés, la Seguridad, la salubridad y la tranquilidad o el interés, derechos posesiones de los particulares, mediante la edificación de obras en proceso de construcción o terminadas, el uso ilegal de áreas y predios u obstáculos de cualquier naturaleza, que impidan el Desarrollo Urbano planificado en sus distintas formas y fases.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2008)
 
 ###### ARTÍCULO 329.
 
-Para los efectos del Artículo que antecede, se establecen las siguientes medidas de seguridad:
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2008)
 
-I.- La suspensión de la construcción de obras de cualquier tipo, cuando no se ajusten a los planes de Desarrollo o a los proyectos y autorizaciones que para el efecto se les hubieren otorgado;
-
-II.- La suspensión de obras que puedan poner en peligro la seguridad, salubridad o tranquilidad públicas o el equilibrio ecológico de la zona;
-
-III.- La suspensión de obras que no se ajusten a las normas técnicas establecidas;
-
-IV.- La suspensión de toda clase de trámites ante el Registro Público de la Propiedad, respecto de actos de traslación de dominio, que no se ajusten a los planes de Desarrollo Urbano inscritos en el mismo o no autorizados, cuando se requiera esa autorización;
-
-V.- La suspensión de obras y la orden de llenar determinados requisitos que se requieran para continuarlas u obtener la autorización correspondiente, cuando no impliquen una contravención a lo dispuesto en los planes de Desarrollo Urbano o una lesión grave al interés público o social;
-
-VI.- La orden de ejecución, modificación, ajuste de obras complementarias para garantizar la salubridad o tranquilidad pública, así como la funcionalidad de las construcciones y servicios públicos;
-
-VII.- La ocupación de predios y edificaciones para la realización de los planes de Desarrollo Urbano, previa audiencia que se otorgue a los interesados;
-
-VIII.- La demolición de las construcciones que pongan en peligro inminente la seguridad y la salubridad pública;
-
-IX.- La clausura temporal o definitiva de edificaciones o instalaciones para la ejecución de obras de Desarrollo Urbano o por motivos de seguridad, salubridad o tranquilidad pública;
-
-X.- El señalamiento vial o la desviación del tránsito de vehículo o peatonal, por razones de seguridad;
-
-XI.- La prohibición de trasponer límites físicos debidamente marcados para evitar peligros o posibles daños a personas o bienes;
-
-XII.- El desalojo de personas, semovientes o bienes de áreas y predios, para la realización de obras públicas o para evitar daños a vecinos en la ejecución de planes de Desarrollo Urbano;
-
-XIII.- Cualquier otra medida apropiada o urgente, tendiente al cumplimiento exacto de los preceptos de esta ley y su reglamento.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 330.
 
-Cuando se fraccionen terrenos de tenencia social sin la autorización correspondiente, los poseedores de los mismos se harán acreedores a las sanciones que se establecen en el Artículo 311 de esta Ley y el Ayuntamiento no autorizará la introducción de ningún servicio público, en tanto no se obtenga la autorización correspondiente.
+Cuando se realicen fraccionamientos en terrenos de tenencia social sin autorización correspondiente, el Ayuntamiento, además de aplicar las sanciones que se establecen en el Articulo 314, no estará obligado a autorizar ni a realizar inversión alguna para la introducción de los servicios públicos como electrificación, agua potable, drenaje, transporte público y otros, hasta en tanto se regularice conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 331.
 
-Cuando se realicen fraccionamientos en terrenos de tenencia social sin autorización y en zonas no urbanizables o de preservación ecológica de acuerdo al Programa de Desarrollo Urbano correspondiente, el Ayuntamiento, además de aplicar las sanciones que se establecen en el Artículo 311, no estará obligado a autorizar ni a realizar inversión alguna para la introducción de los servicios públicos como electrificación, agua potable, drenaje, transporte público y otros.
+Cuando se realicen fraccionamientos en terrenos de tenencia social sin autorización y en zonas no urbanizables o de preservación ecológica de acuerdo al Programa de Desarrollo Urbano correspondiente, el Ayuntamiento, además de aplicar las sanciones que se establecen en el Artículo 314, no estará obligado a autorizar ni a realizar inversión alguna para la introducción de los servicios públicos como electrificación, agua potable, drenaje, transporte público y otros.
 
 ###### ARTÍCULO 332.
 
@@ -3282,3 +3648,11 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 24 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan o de cualquier forma contravengan lo previsto en el presente.
+
+TERCERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
