@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2007-11-28"
+last_updated: "2008-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -12771,9 +12771,9 @@ CESION DE LA HIPOTECA. El crédito puede cederse, en todo o en parte, siempre qu
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de escritura pública, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la cesión al deudor.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
-Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En el caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor, señalando quien será el nuevo acreedor y en su caso, el domicilio para recibir el pago.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2006)</small>
 
@@ -13882,3 +13882,13 @@ SEXTO. En un término no mayor a noventa días naturales, deberá expedirse el R
 SÉPTIMO. El Director General del Organismo solicitará a la Secretaría de Finanzas y Planeación la inscripción en el Registro Público de Organismos Descentralizados del Estado de Morelos, dentro de los veinte días siguientes al inicio de operaciones del Organismo.
 
 OCTAVO. Se derogan todas las disposiciones legales y administrativas que se opongan a la presente Ley.
+
+P.O. 24 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
