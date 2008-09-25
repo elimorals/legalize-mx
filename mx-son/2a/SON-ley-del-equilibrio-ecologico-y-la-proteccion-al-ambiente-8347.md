@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-8347"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-03"
-last_updated: "2006-07-06"
+last_updated: "2008-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 25 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 3 de enero de 1991.
 
@@ -1942,3 +1944,37 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las dependencias cuyas atribuciones resulten modificadas por virtud del presente Decreto y que por lo tanto incidan en su estructura orgánica, contará con un plazo de noventa días naturales contados a partir de la entrada en vigor de este ordenamiento, para llevar a cabo las modificaciones correspondientes a su reglamento interior.
+
+B.O. 25 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado el 3 de enero de 1991, y sus reformas, y se derogan todas las disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal proveerá lo necesario a efecto de que se instale el Consejo Estatal para el Desarrollo Sustentable previsto en esta ley, dentro de los treinta días posteriores a la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas o morales que se encuentren realizando obras o actividades al amparo de licencias, permisos, autorizaciones o concesiones otorgados por la autoridad ambiental federal cuya competencia para otorgarlos se haya transferido al Estado por virtud de las reformas a la Ley General del Equilibrio Ecológico y la Protección al Ambiente publicadas en el Diario Oficial de la Federación el 13 de diciembre de 1996, tendrán un plazo de noventa días contados a partir de la entrada en vigor de esta ley, para regularizar dichas licencias, permisos, autorizaciones o concesiones ante la Comisión o los ayuntamientos respectivos, en los términos dispuestos en este ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Las solicitudes de licencias, permisos, autorizaciones o concesiones presentadas ante la Comisión o los ayuntamientos con anterioridad a la entrada en vigor de esta ley podrán, a elección de los interesados, seguir su trámite y resolverse de conformidad con las disposiciones vigentes al momento de su presentación, o bien, mediante la Licencia Ambiental Integral prevista en esta ley, en cuyo caso, deberán cumplir con los requisitos que para ello se establece.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos de inspección y los recursos de inconformidad, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado de Sonora deberá, en un plazo no mayor a 6 meses, contado a partir de la entrada en vigor de la presente ley, realizar las adecuaciones al Código Penal para el Estado de Sonora en materia de delitos contra la ecología.
+
+###### ARTÍCULO OCTAVO.
+
+El Titular del Poder Ejecutivo y los ayuntamientos de la Entidad deberán emitir en un plazo no mayor a un año los Reglamentos y demás disposiciones de observancia general a que se refiere esta Ley, hasta en tanto, se aplicarán en lo conducente, los Reglamentos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
