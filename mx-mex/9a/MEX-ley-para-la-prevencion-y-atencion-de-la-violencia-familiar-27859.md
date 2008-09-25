@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-y-atencion-de-la-violencia-familiar-2785
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2008-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 25 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 31 de diciembre del 2002.
 
@@ -526,3 +528,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 25 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga la ley para la Prevención y Atención de la Violencia Familiar en el Estado de México, aprobada el 22 de noviembre del 2002 y publicada el 31 de diciembre del 2002.
+
+TERCERO.- La presente Ley para la Prevención y Erradicación de la Violencia Familiar en el Estado de México, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno del Estado de México.
+
+CUARTO.- El Consejo para Prevenir y Erradicar la Violencia Familiar del Estado de México, se instalará dentro de los cuarenta y cinco días naturales siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO.- El Consejo para Prevenir y Erradicar la Violencia Familiar del Estado de México expedirá el Reglamento con sujeción a la presente Ley, dentro de los sesenta días hábiles siguientes a la fecha en que entre en vigor este ordenamiento.
+
+SEXTO.- La sesión de instalación del Consejo para Prevenir y Erradicar la Violencia Familiar del Estado de México se realizará sólo con la presencia de su Presidente, Secretario Técnico, y los representantes señalados en las fracciones III, IV y V del artículo a de la presente Ley.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
