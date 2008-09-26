@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-174
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-04"
-last_updated: "2006-11-17"
+last_updated: "2008-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de agosto de 2000.
 
@@ -203,9 +203,13 @@ IX. Las demás que prevengan las leyes.
 
 ### CAPÍTULO I. DE LA PRISIÓN
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 14.
 
-La prisión consiste en la privación de la libertad personal ordenada como medida cautelar o impuesta como pena por el órgano jurisdiccional competente.
+La prisión consiste en la privación de la libertad personal ordenada como medida cautelar o impuesta como pena por el órgano jurisdiccional competente, en los lugares que al efecto determine la autoridad ejecutora y con la obligación de cumplir con la disciplina y medidas establecidas en el lugar de su reclusión. La Dirección determinará el lugar de compurgación de la penas tomando en cuenta el grado de peligrosidad del sentenciado, las características de seguridad y la disponibilidad de espacio dentro de los centros de internamiento, buscando la mayor cercanía con su domicilio.
+
+El Estado esta obligado a proporcionar alimentación, atención médica y los medios que resulten necesarios para el desarrollo, bienestar y readaptación social de los internos. Éstos tendrán derecho a visitas de familiares y personas que registren en el centro de reclusión correspondiente y sean debidamente autorizadas, en consideración de la preservación de la seguridad, la disciplina y el orden.
 
 ###### ARTICULO 15.
 
@@ -215,11 +219,25 @@ La prisión preventiva como medida cautelar en cuanto a su procedencia, duració
 
 La prisión que como pena imponga el órgano jurisdiccional, se regirá por las disposiciones de la presente Ley y su Reglamento, debiendo el sentenciado someterse al régimen de tratamiento que aquélla establece.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 17.
 
-Las penas de prisión impuestas por diversos órganos jurisdiccionales o por uno solo en procesos diversos, se compurgarán en forma sucesiva y en el mismo orden en que las sentencias hayan causado ejecutoria sin que la reclusión exceda de 50 años.
+Las penas de prisión impuestas por diversos órganos jurisdiccionales o por uno sólo en procesos diversos, se compurgarán en forma sucesiva y en el mismo orden en que las sentencias hayan causado ejecutoria, sin que la reclusión exceda de 50 anos. A petición del sentenciado, las penas se compurgarán en el orden solicitado por él, siempre y cuando justifique la conveniencia de dicha modificación y concurran las siguientes circunstancias:
 
-El tiempo que el imputado se encuentre en prisión, en ningún caso deberá contarse para el cumplimiento de la pena que se le imponga en delito diverso, excepto cuando se le dicte sentencia absolutoria en el proceso en que haya estado sujeto a prisión preventiva, en cuyo caso el tiempo que haya estado sujeto a ésta se le bonificará a la pena que en su caso se le imponga en la sentencia que ponga fin al proceso inmediato posterior en tiempo.
+I. Que las penas por las que se encuentre interno sean del fuero común dictadas por tribunales del Estado de Querétaro y que por todas se encuentre a disposición del Poder Ejecutivo del Estado.
+
+II. Que no tenga ningún juicio penal en trámite.
+
+III. Que no exista juicio de amparo directo en trámite con relación a las penas involucradas en la petición.
+
+IV. Que ninguna de las penas involucradas en la petición sean producto de la comisión de un delito grave cometido en reclusión o que atente contra la seguridad del sistema penitenciario.
+
+V. Que se hayan cubierto los conceptos que por reparación del daño y multa le hayan sido impuestos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+El tiempo que el imputado se encuentre en prisión, en ningún caso deberá contarse para el cumplimiento de la pena que se le imponga en delito diverso, excepto cuando se le dicte sentencia absolutoria en el proceso en que haya estado sujeto a prisión preventiva, en cuyo caso, el tiempo que haya estado sujeto a ésta, se le bonificará a la pena que en su caso se le imponga en la sentencia que ponga fin al proceso inmediato posterior en tiempo. En caso de que dicha declaratoria no haya sido efectuada por la autoridad jurisdiccional, corresponderá al ejecutivo realizarla.
 
 Para tal efecto, el Director del reclusorio informará al juez que conozca, cuando el imputado se encuentre interno sujeto a otro proceso o compurgando una pena para que tome en consideración lo dispuesto en el presente artículo.
 
@@ -371,31 +389,33 @@ III. Remisión parcial de la pena.
 
 ###### ARTICULO 37.
 
-Los beneficios a que se refiere este capítulo, no se concederán a los sentenciados por cualquiera de los siguientes delitos consignados en el Código Penal:
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2008)
 
-I. Secuestro a que se refiere el artículo 150.
-
-II. Violación con pluralidad de autores a que se refiere el artículo 163.
-
-III. Robo consumado o en grado de tentativa a que se refieren los artículos 182 y 183, únicamente cuando el ladrón antes, durante o inmediatamente después del apoderamiento o de realizar actos encaminados directamente a él, lesione la salud, la vida, la libertad deambulatoria o sexual del pasivo, o de quien o quienes lo acompañen o se encuentren en el lugar del hecho.
-
-En la primera hipótesis, solo se aplicará la disposición a que se refiere este artículo, cuando la alteración de la salud sea cualquiera de las comprendidas de la fracción III a la IX del artículo 127 del Código Penal.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 38.
 
-De igual forma no se concederán los beneficios a que se refiere este capítulo, excepto la remisión parcial de la pena con la modalidad a que se refiere la parte final del primer párrafo del artículo 44 a los sentenciados por lo (sic) siguientes delitos previstos en el Código Penal.
+No se concederá a los sentenciados los beneficios previstos en este Capítulo, excepto la remisión parcial de la pena, con la modalidad a que se refiere a parte final del primer párrafo del artículo 44, por los siguientes delitos, previstos en el Código Penal para el Estado de Querétaro:
 
-I. Homicidio calificado agravado a que se refiere el artículo 131.
+I. Homicidio calificado, referido en el artículo 131;
 
-II. Violación a que se refieren los artículos 160 a 162.
+II. Violación, señalada en los artículos 160 a 163;
 
-III. Robo calificado agravado a que se refiere el artículo 183 en sus fracciones I, II, VI y VII siempre y cuando no concurran las circunstancias señaladas en la fracción III del artículo anterior y la cuantía de lo robado exceda de 600 veces el salario mínimo.
+III. Robo calificado, en los términos del artículo 183, fracciones I, II, VI y VII y la cuantía de lo robado exceda de seiscientas veces el salario mínimo;
 
-IV. Robo por equiparación a que se refiere el artículo 183bis.
+IV. Robo por equiparación, previsto en el artículo 183 bis;
 
-V. Tortura a que re refieren los artículos 309 y 311, y
+V. Robo consumado o en grado de tentativa, conforme a los artículos 182 y 183, únicamente cuando el ladrón y o (sic) sus coacusados, antes, durante o inmediatamente después del apoderamiento o de realizar actos encaminados directamente a él, lesionen la salud, la vida, la libertad deambulatoria o sexual del pasivo o de quién o quienes lo acompañen o se encuentren en el lugar del hecho.
 
-VI. Por delitos considerados como graves en el Código de Procedimientos Penales, cuando sean cometidos por miembros de una asociación delictuosa.
+En la primera hipótesis, sólo se aplicará la disposición a que se refiere este artículo, cuando la alteración de la salud sea cualquiera de las comprendidas de la fracción III a la IX del artículo 127 del Código Penal;
+
+VI. Tortura, referida en los artículos 309 y 311;
+
+VII. Delitos considerados como graves en el Código de Procedimientos Penales, cuando sean cometidos por miembros de una asociación delictuosa;
+
+VIII. Secuestro, mencionado en el artículo 150; y
+
+IX. Terrorismo, previsto en el artículo 254.
 
 ### CAPITULO VIII. DEL TRATAMIENTO PRELIBERACIONAL
 
@@ -1266,3 +1286,7 @@ CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una m
 P.O. 17 DE NOVIEMBRE DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE QUERETARO.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+Artículo Único. La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
