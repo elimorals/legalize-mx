@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2008-09-19"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -225,13 +225,13 @@ d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic
 
 Son obligaciones de los habitantes del Estado:
 
-I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente;
+I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley;
+II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
 
-III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado;
+III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -935,7 +935,9 @@ III.- Velar por la conservación del orden, tranquilidad y seguridad del Estado,
 
 IV.- Presentar cada año al Congreso, a más tardar el día primero de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal siguiente;
 
-V.- Asistir a la apertura del primer período de sesiones ordinarias del Congreso para rendir un informe general, por escrito, del estado que guarde la Administración Pública;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Rendir un informe general, por escrito, del estado que guarde la Administración Pública, remitiéndolo al Congreso a la apertura del primer periodo de sesiones ordinarias;
 
 VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
@@ -2994,3 +2996,11 @@ TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
 CUARTO.- Se establece el plazo de 45 días, a efecto de que el Congreso del Estado realice las reformas legales correspondientes.
 
 QUINTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan en lo conducente, todas las disposiciones que se opongan a la presente reforma.
+
+TERCERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
