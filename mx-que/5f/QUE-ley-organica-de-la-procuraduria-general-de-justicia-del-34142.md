@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-34142"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-24"
-last_updated: "2006-09-15"
+last_updated: "2008-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 24 de septiembre de 2003.
 
@@ -571,7 +571,9 @@ XVIII. Asistir por sí o por la persona que lo represente al pleno del Tribunal 
 
 XIX. Nombrar Agentes del Ministerio Público Especializados y disponer la instalación de Agencias Especializadas, cuando lo estime conveniente;
 
-XX. Dictaminar por sí o a través de los Sub-procuradores o Agentes Auxiliares, que designe, el archivo de las diligencias de preparación del ejercicio de la acción penal, y en consecuencia el no ejercicio de la misma, cuando agotadas plenamente aquellas, aparezca que el hecho puesto en su conocimiento no es delictuoso o se demostró alguna otra causa de inexistencia del delito o cuando se haga (sic) extinguido la pretensión punitiva del estado o se otorgó perdón por parte del ofendido, cuando la Ley así lo permita. Le corresponde la misma facultad respecto a la autorización de la reserva, cuando de las diligencias practicadas no resulten elementos bastantes para proceder al ejercicio de la acción penal, pero con posterioridad, pudieran allegarse datos para proseguir la averiguación y hasta entre tanto estos aparezcan;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+XX. Dictaminar por sí o a través de los Sub-procuradores o Agentes Auxiliares que designe, el no ejercicio de la acción penal y, en consecuencia, el archivo de las diligencias de preparación de la misma, en términos de lo dispuesto por la ley y, en su caso, conocer y resolver sobre la inconformidad del ofendido. Le corresponde la misma facultad dictaminadora respecto a la autorización de la reserva, cuando de las diligencias practicadas no resulten elementos bastantes para proceder al ejercicio de la acción penal, pero con posterioridad pudieran allegarse datos para proseguir la averiguación y hasta entre tanto éstos aparezcan;
 
 XXI. Celebrar convenios y acuerdos sobre apoyo, información y asesoría recíproca en materia técnico-policial, de formación de personal, y cualquier otro que permita un mejor desempeño de las funciones encomendadas a la Procuraduría General de Justicia del Estado;
 
@@ -1015,9 +1017,11 @@ Los Agentes del Ministerio Público no podrán variar o modificar sus conclusion
 
 Los Agentes sólo podrán desistirse de la acción penal, de los pedimentos que en relación con ésta hubiesen formulado o de cualquier recurso interpuesto, cuando así lo resuelva previamente el Procurador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 62.
 
-Cuando un Agente del Ministerio Público, solicite del Procurador General de Justicia la determinación de no ejercicio de la acción penal en términos del artículo 27 fracción XIX de la presente Ley, notificará o mandará notificar personalmente al denunciante, querellante u ofendido, haciéndole saber que dispone de un plazo de 15 días naturales, contados a partir del siguiente a la notificación, para que si lo estima conveniente, se dirija por escrito ante el Procurador, alegando lo que a derecho convenga. Transcurrido dicho plazo sin comparecer, causará preclusión su derecho; debiéndose contener ineludiblemente dentro del acta de averiguación previa respectiva, la constancia de tal notificación.
+Cuando un Agente del Ministerio Público solicite del Procurador General de Justicia la determinación de no ejercicio de la acción penal, en términos del artículo 27 fracción XIX de la presente Ley, notificará o mandará notificar personalmente al denunciante, querellante u ofendido, haciéndole saber que dispone de un plazo de 15 días hábiles, contados a partir del siguiente a la notificación, para que, si lo estima conveniente, se dirija por escrito ante el Procurador, alegando lo que a se (sic) derecho convenga. Transcurrido dicho plazo sin que comparezca, precluirá este derecho. Dentro del acta de averiguación previa respectiva, deberá obrar la constancia de la notificación en cita.
 
 Si la propuesta de no ejercicio de la acción penal, está fundada en el perdón del querellante, en delitos perseguibles únicamente a petición de parte ofendida, no será necesaria la notificación a la que se refiere el párrafo anterior.
 
@@ -1454,3 +1458,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
