@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2007-11-26"
+last_updated: "2008-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -89,45 +89,49 @@ X. Establecimiento: negocio en el que se expenden o se consumen bebidas alcohól
 
 XI. Establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos: aquellos en las que el producto de las ventas de bebidas alcohólicas no exceda el cuarenta por ciento de sus ingresos totales;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XII. Estado de ebriedad: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición;
+XII. Aliento Alcohólico: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.79 o menos gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XIII. Estado de ineptitud para conducir: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y de más de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición;
+XIII. Estado de ebriedad incompleto: Es el estado de ineptitud para conducir en el que la condición física y mental ocasionada por la ingesta de alcohol etílico, que se presenta en una persona cuando su organismo contiene entre 0.80 y 1.49 gramos de alcohol por litro de sangre y de más de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o su equivalente en algún otro sistema de medición;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XIV. Evidente Estado de Ebriedad: Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico;
+XIV. Estado de ebriedad completo: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XV. Ley de Salud: legislación vigente en el Estado en materia de salud;
+XV. Evidente Estado de Ebriedad: cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XVI. Prevención: conjunto de acciones dirigidas a evitar o reducir el abuso en el consumo de bebidas alcohólicas;
+XVI. Ley de Salud: legislación vigente en el Estado en materia de salud;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XVII. Reincidencia: cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
+XVII. Prevención: conjunto de acciones dirigidas a evitar o reducir el abuso en el consumo de bebidas alcohólicas;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XVIII. Salud pública: el conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar y prolongar la vida humana, mismas que complementan los servicios de atención médica y asistencia social. Estas acciones comprenden, entre otras, la prevención y control de enfermedades y accidentes; la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud; la investigación para la salud y la información relativa para las condiciones, recursos y servicios de salud del Estado;
+XVIII. Reincidencia: cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del periodo de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XIX. Secretaría: Secretaría de Salud del Estado;
+XIX. Salud pública: el conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar y prolongar la vida humana, mismas que complementan los servicios de atención médica y asistencia social. Estas acciones comprenden, entre otras la prevención y control de enfermedades y accidentes; la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud; la investigación para la salud y la información relativa para las condiciones, recursos y servicios de salud del Estado;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XX. Sistemas de venta, consumo o expendio con descuento en precio: es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier práctica mediante la cual se puedan vender o consumir bebidas alcohólicas, sin costo, con artículo agregado o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento; y
+XX. Secretaría: Secretaría de Salud del Estado;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XXI. Tratamiento: conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas.
+XXI. Sistemas de venta, consumo o expendio con descuento en precio: es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier práctica mediante la cual se puedan vender o consumir bebidas alcohólicas sin costo, con articulo agregado o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+XXII. Tratamiento: conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas.
 
 ###### Artículo 3.
 
@@ -257,11 +261,17 @@ I. Implementará programas, acciones y campañas permanentes de difusión, tendi
 
 II. Determinará la participación de las asociaciones de padres de familia en los mismos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 11.
 
-La Secretaría de Educación celebrará convenios con las instituciones educativas a fin de que se establezcan medidas disciplinarias, en los casos de infracciones cometidas por alumnos en estado de ebriedad o de ineptitud para conducir, pudiendo consistir en el cumplimiento de un servicio comunitario, ya sea en el interior o exterior de la institución, y en su caso, recibir el tratamiento correspondiente.
+La Secretaría de Educación celebrará convenios con las instituciones educativas a fin de que se establezcan medidas disciplinarias, en los casos de infracciones cometidas por alumnos con aliento alcohólico, estado de ebriedad incompleto o estado de ebriedad completo, pudiendo consistir en el cumplimiento de un servicio comunitario, ya sea en el interior o exterior de la institución, y en su caso, recibir el tratamiento correspondiente.
+
+> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2008)</small>
 
 Se procurará que en las medidas disciplinarias participen activamente los padres, o quienes tengan la patria potestad, tutela o custodia del alumno.
+
+> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2008)</small>
 
 En dichos convenios se determinará la operatividad bajo la cual se intercambiará la información necesaria.
 
@@ -269,11 +279,13 @@ En dichos convenios se determinará la operatividad bajo la cual se intercambiar
 
 Las medidas de seguridad que correspondan conforme a la Ley de Salud, así como las sanciones que se establecen en esta Ley y que sean competencia de la Secretaría, serán aplicadas por las autoridades sanitarias conforme al procedimiento establecido en la Ley de Salud.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-La autoridad encargada de la expedición y renovación de la licencia de conducir deberá hacer entrega al solicitante de la información, por escrito, en la cual se señalen los efectos del consumo indebido o abusivo de bebidas alcohólicas, las infracciones que se señalan en esta Ley y las sanciones que en su caso correspondan, así como cualquier información que tenga por objeto concienciar a los conductores sobre los riesgos que se presentan al manejar en estado de ebriedad o de ineptitud para conducir.
+La autoridad encargada de la expedición y renovación de la licencia de conducir deberá hacer entrega al solicitante de la información, por escrito, en la cual se señalen los efectos del consumo indebido o abusivo de bebidas alcohólicas, las infracciones que se señalan en esta Ley y las sanciones que en su caso correspondan, así como cualquier información que tenga por objeto concienciar a los conductores sobre los riesgos que se presentan al manejar en estado de ebriedad incompleto o en estado de ebriedad completo.
 
-Dicha autoridad deberá mantener en su archivo un registro de las infracciones de tránsito que se hayan cometido en estado de ebriedad o de ineptitud para conducir, así como de las suspensiones de las licencias de conducir.
+Dicha autoridad deberá mantener en su archivo un registro de las infracciones de tránsito que se hayan cometido en estado de ebriedad incompleto o en estado de ebriedad completo, así como de las suspensiones de las licencias de conducir.
 
 ###### Artículo 14.
 
@@ -351,7 +363,9 @@ VII.- No implementar ni publicitar sistemas de venta, consumo o expendio con des
 
 Los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia de un menor de edad no emancipado o de una persona incapaz están obligados a:
 
-I. Orientar y educar sobre el consumo de las bebidas alcohólicas, los efectos que produce su abuso y las consecuencias de los actos generados en estado de ebriedad o de ineptitud para conducir;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+I. Orientar y educar sobre el consumo de las bebidas alcohólicas, los efectos que produce su abuso y las consecuencias de los actos generados en estado de ebriedad incompleto o en estado de ebriedad completo;
 
 II. Vigilar las conductas de sus hijos o pupilos, con el fin de prevenir, o en su caso, detectar el consumo de bebidas alcohólicas;
 
@@ -361,11 +375,11 @@ IV. Colaborar con las autoridades e instituciones educativas cuando se detecte e
 
 V. Participar, conjuntamente con los menores o incapaces, en los tratamientos o medidas disciplinarias que se les impongan a éstos, por consumir bebidas alcohólicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-Las autoridades que tengan conocimiento de que alguna persona ha participado en hechos o actos en los cuales las consecuencias legales dependan o se vean agravados por el hecho de que se encuentre en estado de ebriedad o de ineptitud para conducir, están obligadas a trasladarlos ante el personal competente, a fin de que se le tomen las muestras necesarias para llevar a cabo los análisis respectivos a la persona involucrada en estos hechos o actos.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE MARZO DE 2004)</small>
+Las autoridades que tengan conocimiento de que alguna persona ha participado en hechos o actos en los cuales las consecuencias legales dependan o se vean agravados por el hecho de que se encuentre en estado de ebriedad incompleto o en estado de ebriedad completo, están obligadas a trasladarlos ante el personal competente, a fin de que se le tomen las muestras necesarias para llevar a cabo los análisis respectivos a la persona involucrada en estos hechos o actos.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
@@ -374,8 +388,6 @@ Los servidores públicos, así como el personal de los servicios de ambulancia, 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 El personal de las instituciones hospitalarias, de emergencia o de auxilio, deberá practicar la toma de muestras para llevar a cabo los análisis o exámenes que correspondan cuando reciban a personas que exhiban síntomas de haber ingerido bebidas alcohólicas.
-
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 5 DE MARZO DE 2004)</small>
 
 ###### Artículo 19.
 
@@ -401,7 +413,9 @@ V. Servir o vender bebidas alcohólicas a personas que se encuentren en evidente
 
 VI. El expendio o la venta de bebidas alcohólicas en las instituciones educativas, oficinas públicas, en los centros de readaptación social, instituciones de beneficencia, hospitales, sanatorios y similares;
 
-VII. Conducir en estado de ineptitud o de ebriedad;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+VII. Conducir en estado de ebriedad incompleto o en estado de ebriedad completo;
 
 VIII. Poseer, en el área de pasajeros de un vehículo, una botella, lata u otro envase que contenga una bebida alcohólica que ha sido abierta o tiene sellos rotos o el contenido parcialmente consumido; no se considerará como área de pasajeros aquella con asientos abatibles habilitada para carga;
 
@@ -457,15 +471,15 @@ VII. Por incumplimiento a lo dispuesto por el Artículo 17, fracciones III y V, 
 
 VIII. Por incumplimiento a lo dispuesto por el Artículo 19, fracción IV, multa de 350 a 2,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-IX. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VII, las sanciones serán las siguientes:
+IX. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VII las sanciones serán las siguientes:
 
-a) Por conducir en estado de ineptitud o de ebriedad multa de 50 a 200 cuotas, tratamiento, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
+a) Por conducir en estado de ebriedad incompleto o en estado de ebriedad completo multa de 50 a 200 cuotas, tratamiento, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
 
-b) Por conducir en estado de ineptitud o de ebriedad y cometer cualquier infracción administrativa una multa de 100 a 300 cuotas, tratamiento, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas; o
+b) Por conducir en estado de ebriedad incompleto o en estado de ebriedad completo y cometer cualquier infracción administrativa una multa de 100 a 300 cuotas, tratamiento, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas; o
 
-c) Por conducir en estado de ineptitud o de ebriedad en forma reincidente procederá multa de 200 a 600 cuotas; tratamiento; cancelación de la licencia para conducir e inhabilitación para obtenerla hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas.
+c) Por conducir en estado de ebriedad incompleto o en estado de ebriedad completo en forma reincidente procederá multa de 200 a 600 cuotas; tratamiento; cancelación de la licencia para conducir e inhabilitación para obtenerla hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas.
 
 En todos los casos se deberá comprometer al infractor a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente.
 
@@ -505,13 +519,17 @@ Al aplicarse las sanciones se tomarán en cuenta la capacidad económica del inf
 
 La autoridad podrá acumular las sanciones administrativas contenidas en esta Ley, que correspondan a dos o más infracciones cometidas por la misma persona.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 21.
 
-Será solidariamente responsable por los daños que una persona cause a terceros como consecuencia de haber ingerido bebidas alcohólicas o bebidas que contengan alcohol en mayor proporción a la permitida por la ley, en el caso de que pueda demostrarse que era evidente que ésta se encontraba en estado de ebriedad o de ineptitud para conducir en el momento en que sucedió alguna de las siguientes acciones:
+Será solidariamente responsable por los daños que una persona cause a terceros como consecuencia de haber ingerido bebidas alcohólicas o bebidas que contengan alcohol en mayor proporción a la permitida por la ley, en el caso de que pueda demostrarse que era evidente que ésta se encontraba en estado de ebriedad incompleto o en estad de ebriedad completo en el momento en que sucedió alguna de las siguientes acciones:
 
 I. El dueño del establecimiento donde se hayan servido o vendido bebidas a quien causó el daño, y en caso de que la persona haya consumido bebidas alcohólicas en varios establecimientos, el dueño del último; y
 
-II. La autoridad que teniendo la posibilidad de evitar que la persona que haya causado el daño conduzca un vehículo en estado de ebriedad o de ineptitud, no tome las medidas razonables para evitarlo.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+II. La autoridad que teniendo la posibilidad de evitar que la persona que haya causado el daño conduzca un vehículo en estado de ebriedad incompleto o en estado de ebriedad completo, no tome las medidas razonables para evitarlo.
 
 También será solidariamente responsable quien haya fungido como intermediario o de otra forma haya contribuido a que se le sirvieran o vendieran bebidas a un menor de edad o incapaz, cuando este haya causado el daño.
 
@@ -581,11 +599,11 @@ Las violaciones a los preceptos de esta Ley serán sancionadas sin perjuicio de 
 
 ### CAPÍTULO VI. PROCEDIMIENTO PARA LA SUSPENSIÓN DE LA LICENCIA DE CONDUCIR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
-Las autoridades al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión de licencias, lo notificará de inmediato a la autoridad competente para la expedición y renovación de licencias de conducir, remitiéndole la documentación en la que consten las infracciones cometidas, debiendo retener en un plazo de hasta 45 días naturales la licencia de conducir, así como tomar las demás medidas necesarias para evitar que la persona continué conduciendo el vehículo en estado de ineptitud o ebriedad.
+Las autoridades al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión de licencias, lo notificará de inmediato a la autoridad competente para la expedición y renovación de licencias de conducir, remitiéndole la documentación en la que consten las infracciones cometidas, debiendo retener en un plazo de hasta 45 días naturales la licencia de conducir, así como tomar las demás medidas necesarias para evitar que la persona continué conduciendo el vehículo en estado de ebriedad incompleto o en estado de ebriedad completo.
 
 Inmediatamente después, la autoridad encargada de la expedición y renovación de licencias de conducir, dentro de los siguientes cinco días hábiles notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
 
@@ -666,3 +684,7 @@ P.O. 26 DE NOVIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos conforme a lo dispuesto en este Decreto en un plazo de sesenta días naturales a partir de la vigencia del mismo.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
