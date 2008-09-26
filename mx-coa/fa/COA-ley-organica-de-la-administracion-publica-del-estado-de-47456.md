@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2008-06-06"
+last_updated: "2008-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -263,7 +263,9 @@ VII. Proponer el anteproyecto de Presupuesto de Egresos de la dependencia o Proc
 
 VIII. Desempeñar las comisiones y funciones que el Gobernador le confiera, manteniéndolo informado sobre el desarrollo y ejecución de las mismas;
 
-IX. Documentar, compilar y mantener actualizada la información de la dependencia a su cargo, con el objeto de integrar, por conducto por conducto (sic) de la unidad administrativa competente, el informe anual que el Gobernador debe rendir ante el Congreso del Estado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+IX. Documentar, compilar y mantener actualizada la información de la dependencia a su cargo, con el objeto de integrarla, por conducto de la unidad administrativa competente, el informe anual escrito que el Gobernador debe remitir o presentar al Congreso del Estado, dentro de los primeros diez días del mes de noviembre;
 
 X. Imponer sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
 
@@ -1528,3 +1530,9 @@ P.O. 6 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
