@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-ecologia-y-de-gestion-ambiental-del-municipio-150
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "1999-06-30"
+last_updated: "2008-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DE ECOLOGÍA Y DE GESTIÓN AMBIENTAL DEL MUNICIPIO DE SOLIDARIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SOLIDARIDAD, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de junio de 1999.
 
@@ -782,3 +784,13 @@ Artículo Primero.- El presente reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- Las solicitudes de los interesados sujetas a autorización por parte de la Dirección de Ecología, que se encuentren pendientes al entrar en vigor el presente Reglamento, se resolverán de conformidad con lo que establece el mismo.
 
 VI Sesión Ordinaria 18 de junio de 1999
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento de Ecología y Gestión Ambiental del Municipio de Solidaridad , publicado en el Periódico Oficial del Estado de Quintana Roo en el año de 1999 y demás disposiciones de igual o menor jerarquía que se opongan al presente.
+
+TERCERO.- Las solicitudes de los interesados sujetas a autorización por parte de la Dirección, que se encuentren pendientes al entrar en vigor el presente Reglamento, se resolverán de conformidad con el Reglamento que se abroga.
