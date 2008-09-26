@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-de-la-preparatoria-tecnica-general-22367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-28"
-last_updated: "2001-09-28"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DE LA PREPARATORIA TECNICA "GENERAL EMILIANO ZAPATA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de septiembre de 2001.
 
@@ -55,9 +55,11 @@ III.- Director: Al Director de la Escuela Preparatoria Técnica "General Emilian
 
 La “Preparatoria” forma parte del Sistema Educativo Estatal, por lo que los estudios realizados en la misma tienen validez oficial a partir del mes de agosto de 1991, en los términos del artículo 114 de la Ley de Educación del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-Los estudios que impartirá la “Preparatoria” en modalidad escolarizada, a seis ciclos y un mínimo de 322 créditos académicos, son los siguientes: Bachillerato General, Bachillerato Técnico en Electricidad Industrial, Bachillerato Bivalente en Enfermería General, Bachillerato Técnico en Mecánica Automotriz, Bachillerato Técnico en Sistemas Computacionales y Bachillerato Técnico en Contabilidad, de acuerdo con los planes y programas elaborados para tales efectos, y que se establecen en el anexo que forma parte del presente reglamento.
+Los estudios que impartirá la “Preparatoria" en modalidad escolarizada, a seis ciclos y un mínimo de 322 créditos académicos, son los siguientes Bachillerato General, Bachillerato Técnico en Electricidad Industrial, Bachillerato Bivalente en Enfermería General, Bachillerato Técnico en Mecánica Automotriz, Bachillerato Técnico en Sistemas Computacionales Bachillerato Técnico en Contabilidad, Bachillerato Técnico en Diseño y Artes Gráficas, Bachillerato Técnico en Cultura Física y Deportes y Bachillerato Técnico en Asistente Educativo y Puericultura, de acuerdo con los planes y programas elaborados para tales efectos, y que se establecen en el anexo que forma parte del presente reglamento.
 
 ###### Artículo 5.
 
@@ -331,6 +333,16 @@ LIC. JOSÉ MARTÍNEZ GONZÁLEZ
 
 REGLAMENTO INTERNO DE LA PREPARATORIA TÉCNICA "GENERAL EMILIANO ZAPATA".
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 PLAN DE ESTUDIOS
 
-> <small>N. DE E. VEANSE TABLAS EN EL P.O. DE 28 DE SEPTIEMBRE DE 2001, DE LA PAGINA 17 A LA 52.</small>
+> <small>N. DE E. VEANSE TABLAS EN EL P.O. DE 26 DE SEPTIEMBRE DE 2008, DE LA PAGINA 27 A LA 43.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+PRIMERO: Este Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Para efectos de validez de la documentación oficial emitida por la Preparatoria Técnica "General Emiliano Zapata", el presente Acuerdo tendrá efectos retroactivos respecto a las constancias y documentos que acrediten haber cursado las materias del plan de estudios 2007 a partir del ciclo escolar agosto - diciembre del 2007 - dos mil siete.
