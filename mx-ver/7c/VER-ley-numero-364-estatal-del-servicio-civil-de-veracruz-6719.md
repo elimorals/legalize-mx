@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-estatal-del-servicio-civil-de-veracruz-6719"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-04"
-last_updated: "1992-04-04"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 
@@ -47,9 +47,13 @@ ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
 ### CAPITULO UNICO. Generalidades
 
-###### ARTICULO 1°
+> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-La presente Ley es de observancia general para los Poderes del Estado, los Municipios, así como los Organismos Descentralizados del Estado o Municipales y las Empresas de Participación Estatal o Municipales, que tengan a su cargo función de servicios públicos, a quienes en lo sucesivo se les denominará Entidades Públicas y los trabajadores a su servicio. Los trabajadores que prestan sus servicios para la Secretaría de Educación y Cultura se regirán por un Estatuto Especial.
+###### ARTICULO 1°.
+
+La presente ley es de observancia general para los Poderes del Estado, los municipios, así como los organismos descentralizados del Estado o municipales y las empresas de participación estatal o municipales, que tengan a su cargo función de servicios públicos, a quienes en lo sucesivo se les denominará entidades públicas, y los trabajadores a su servicio.
+
+Los trabajadores que prestan sus servicios para la Secretaría de Educación se regirán por un Estatuto Especial.
 
 ###### ARTICULO 2°
 
@@ -115,7 +119,9 @@ I.- De confianza;
 
 II.- De la Universidad Veracruzana;
 
-III.- De la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+III.- De la Secretaría de Educación;
 
 IV.- De Seguridad Pública y Tránsito y Transporte;
 
@@ -1692,3 +1698,11 @@ Se abroga la Ley número 51 de fecha 15 de diciembre de 1938 que contiene el Est
 DADA en el Salón de Sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los treinta y un días del mes de marzo de mil novecientos noventa y dos. Lic. Rafael F. Rodrígues Berthely, Diputado Presidente.- Rúbrica.- C. Isidoro Olvera Gavidia, Diputado Secretario.- Rúbrica".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Estatal en la ciudad de Xalapa-Enríquez, Veracruz, a los dos días del mes de abril de mil novecientos noventa y dos.- DANTE DELGADO.- Rúbrica.- Gobernador del Estado.- Lic. MIGUEL A. DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- C. GERARDO POO ULIBARRI.- Rúbrica.- Secretario de Finanzas y Planeación.- Lic. JOSE LUIS LOBATO CAMPOS.- Rúbrica.- Secretario de Educación y Cultura.- Lic. HECTOR SALMERON ROIZ.- Rúbrica.- Secretario de Desarrollo Económico.- Ing. GUSTAVO NACHON AGUIRRE.- Rúbrica.- Secretario de Comunicaciones, Lic. PORFIRIO SERRANO AMADOR.- Rúbrica.- Secretario de Desarrollo Urbano.- Lic. JOSE BECERRA O'LEARY.- Rúbrica.- Secretario de Desarrollo Agropecuario y Pesquero.- Dr. RAFAEL VELAZCO FERNANDEZ.- Rúbrica.- Secretario de Salud y Asistencia.- Lic. OSCAR AGUIRRE LOPEZ.- Rúbrica.- Procurador General de Justicia.- C.P. CARLOS M. AGUIRRE GUTIERREZ.- Rúbrica.- Contralor General.- Lic. IGNACIO OROPEZA LOPEZ.- Rúbrica.- Coordinador General de Comunicación Social.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 26 DE SEPTIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
