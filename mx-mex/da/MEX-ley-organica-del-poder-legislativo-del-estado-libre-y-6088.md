@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2008-09-03"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -667,17 +667,19 @@ En el ejercicio de sus funciones, la Directiva de la Diputación Permanente obse
 
 La Junta de Coordinación Política se constituye como el órgano colegiado facultado para desempeñar la tarea de concertación política de las fuerzas representadas en el Poder Legislativo.
 
-La Junta de Coordinación Política funcionará para todo el ejercicio constitucional y estará integrada por los coordinadores de los grupos parlamentarios reconocidos y autorizados en términos de esta ley, los cuales gozarán de voz y voto ponderado de acuerdo con el número de legisladores que integran el grupo parlamentario que representan. Para su organización interna contará con un Presidente y un Secretario, los demás integrantes fungirán como vocales.
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
+
+La Junta de Coordinación Política funcionará para todo el ejercicio constitucional y estará integrada por los Coordinadores de los Grupos Parlamentarios reconocidos y autorizados en términos de esta ley, los cuales gozarán de voz y voto ponderado de acuerdo con el número de legisladores que integran el grupo parlamentario que representan. Para su organización interna contará con un Presidente, dos Vicepresidentes y un Secretario, los demás integrantes fungirán como vocales.
 
 La Junta de Coordinación Política propondrá la integración de las comisiones y comités a la aprobación de la Asamblea.
 
 La Junta de Coordinación Política contará para su buen funcionamiento con un Secretario Técnico nombrado por el Presidente de dicha Junta.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 61.
 
-El Presidente y el Secretario durarán un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer periodo de sesiones del año que corresponda, de entre los integrantes de la Junta de Coordinación Política a quienes deberán ocupar dichos cargos.
+El Presidente, los Vicepresidentes y el Secretario duraran un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer período de sesiones del año que corresponda, de entre los integrantes de la Junta de Coordinación Política a quienes deberán ocupar dichos cargos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -791,15 +793,13 @@ V. Las demás que determine el Presidente y la Junta de Coordinación Política.
 
 En cualquier momento el Presidente de la Junta de Coordinación Política podrá remover al Secretario Técnico, cuando así proceda.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 64.
 
-En las faltas temporales del Presidente, lo sustituirá el secretario. Las faltas temporales del Secretario serán cubiertas por los vocales en su orden.
+En las faltas temporales del Presidente, lo sustituirá el Vicepresidente que siga en el orden. Las faltas temporales del Secretario serán cubiertas por los vocales en su orden.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
-
-En los casos en que los titulares se ausenten de manera definitiva, serán sustituidos ante la Junta de Coordinación Política por los coordinadores de los Grupos Parlamentarios respectivos, según la afiliación del diputado que corresponda.
+En los casos en que los titulares se ausenten de manera definitiva, serán sustituidos ante la Junta de Coordinación Política por los coordinadores de los Grupos Parlamentarios respectivos, según la afiliación del diputado que corresponda y la Legislatura elegirá quienes deban ocupar los cargos correspondientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -858,6 +858,18 @@ XV. (DEROGADA, G.G. 21 DE JULIO DE 2006)
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
 XVI. Las demás que le confieran la ley, otras disposiciones legales, la Asamblea o la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 65 Bis.
+
+Son atribuciones de los Vicepresidentes de la Junta de Coordinación Política:
+
+I. Sustituir al Presidente en sus faltas temporales;
+
+II. Auxiliar en el desempeño de sus funciones; y
+
+III. Las demás que le encomiende el Presidente o la Junta de Coordinación Política.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1058,6 +1070,10 @@ Las comisiones legislativas tendrán como funciones estudiar y analizar los proy
 Para el cumplimiento de esta función el pleno de cada Comisión Legislativa podrá constituir subcomisiones de trabajo con el objeto de agilizar y especializar la labor de dictaminación.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2006)</small>
+
+Artículo 72 BIS.- Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Período Ordinario de cada Legislatura. Cada una de éstas, deberán reunirse en sesión plenaria por lo menos una vez cada dos meses y entregar a la instancia correspondiente un informe trimestral de sus actividades realizadas.
+
+> <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 72 Bis.
 
@@ -1628,3 +1644,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 26 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Vicepresidentes serán electos por la Asamblea cuando se lleve a cabo la elección del Presidente y Secretario de la Junta de Coordinación Política.
