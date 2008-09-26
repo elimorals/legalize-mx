@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2008-03-28"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -175,7 +175,9 @@ VIII. Las demás que establezcan esta Ley y su Reglamento.
 
 El Secretario de Finanzas y Planeación tendrá, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, las siguientes:
 
-I. Proveer, de conformidad con lo que dispongan esta Ley y su Reglamento, así como la Ley Orgánica del Poder Ejecutivo del Estado, el Reglamento Interior de la Secretaría de Finanzas y Planeación, el Presupuesto aprobado y demás normatividad aplicable, la expedición y entrega de los instrumentos de servicio de control vehicular;
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+I. Proveer, de conformidad con lo que dispongan esta Ley y su Reglamento, así como la Ley Orgánica del Poder Ejecutivo del Estado, el Reglamento Interior de la Secretaría de Finanzas y Planeación, el Presupuesto aprobado y demás normatividad aplicable, la expedición y entrega de los instrumentos de servicio de control vehicular. Las placas de circulación y calcomanías con transponder o chip con que se doten a los vehículos deberán contar con las medidas de seguridad que permitan su rápida identificación;
 
 II. Mantener actualizado el padrón vehicular estatal, en los términos que dispongan las leyes, e informar al respecto a la Dirección, a la conclusión del ejercicio mensual;
 
@@ -815,7 +817,9 @@ I. La licencia o el permiso vigentes expedidos por la Dirección;
 
 II. La tarjeta de circulación que acredite el registro del vehículo ante la autoridad competente; y
 
-III. En los vehículos, las placas metálicas y los engomados correspondientes o, en su caso, el permiso temporal para circular sin ellos, colocados en los lugares que determine el Reglamento de esta Ley.
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+III. En los vehículos, las placas metálicas autorizadas, con las medidas de seguridad acordadas por la autoridad que las expide, y los engomados correspondientes o, en su caso, el permiso temporal para circular sin ellos, colocados en los lugares que determine el Reglamento de esta Ley.
 
 ###### Artículo 68.
 
@@ -891,11 +895,13 @@ Para la realización de eventos deportivos y desplazamientos de caravanas de veh
 
 El transporte de sustancias o materiales peligrosos en la vía pública se realizará en los términos de la legislación federal de la materia.
 
+> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 79.
 
-Todo vehículo que circule en la vía pública deberá estar en buen estado mecánico y contar con los sistemas y accesorios, requisitos de peso y dimensiones que señalan esta Ley, su Reglamento y demás normatividad aplicable.
+Todo vehículo que circule en la vía pública deberá estar emplacado, en términos de lo dispuesto en el artículo 67 de esta Ley, en buen estado mecánico, no tener cristales polarizados, obscurecidos o aditamentos que obstruyan la visibilidad al interior del vehículo, salvo cuando éstos vengan instalados de fábrica, de acuerdo con las normas expedidas por la autoridad federal correspondiente, o cuando así se requiera por razones médicas, debidamente acreditadas y cualquiera de estas circunstancias se indique en la tarjeta de circulación, y contar con los sistemas y accesorios, requisitos de peso y dimensiones que señalan esta Ley, su Reglamento y demás normatividad aplicable.
 
-Las autoridades de tránsito podrán retirar de la circulación a los vehículos, cuando se contravenga lo dispuesto en el párrafo anterior, independientemente de aplicar la sanción que corresponda.
+Las autoridades de tránsito retirarán de la circulación a los vehículos, cuando se contravenga lo dispuesto en el párrafo anterior, independientemente de aplicar la sanción que corresponda.
 
 ###### Artículo 80.
 
@@ -1653,9 +1659,11 @@ La Dirección podrá suspender los efectos de la licencia hasta por tres meses, 
 
 Las autoridades municipales que presten el servicio público de tránsito, cuando con motivo de sus funciones recojan licencias de conducir, informarán mensualmente a la Dirección sobre las licencias retenidas y, en caso de que éstas no hayan sido recogidas por su titular, le serán remitidas para los efectos legales conducentes.
 
+> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 166.
 
-Las autoridades de tránsito retirarán el vehículo que se encuentre estacionado en lugar prohibido o en doble o triple fila, los que no reúnan los requisitos legales o que representen peligro o daño a las vías públicas o sus usuarios.
+Las autoridades de tránsito retirarán el vehículo que se encuentre estacionado en lugar prohibido o en doble o triple fila, los que no reúnan los requisitos legales, incumplan lo dispuesto en el artículo 79 de esta Ley o que representen peligro o daño a las vías públicas o sus usuarios.
 
 ###### Artículo 167.
 
@@ -1736,3 +1744,11 @@ G.O. 28 DE MARZO DE 2008.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE SEPTIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, órgano el Gobierno del Estado.
+
+Segundo. Sólo lo relativo a las medidas de seguridad con que deberán contar las calcomanías y las placas metálicas de circulación del Estado de Veracruz de Ignacio de la Llave tendrá vigencia a partir de que la Secretaría de Finanzas y Planeación dé a conocer, mediante publicación en la Gaceta Oficial, órgano del Gobierno del Estado, y medios de comunicación en toda la Entidad, la implementación de las mismas; por tanto, a partir de entonces, todo vehículo que no esté debidamente emplacado será retirado de la circulación de la vía pública.
+
+Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
