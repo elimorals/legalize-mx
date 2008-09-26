@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2008-01-25"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -745,7 +745,7 @@ I.- Identificar y diagnosticar los riesgos de desastres naturales a los que esta
 
 II.- Elaborar, instrumentar, operar y coordinar el Programa Municipal de Protección Civil, para su aprobación, el Plan Municipal de Contingencias;
 
-III.- Elaborar y presentar para su aprobación al Consejo Municipal de Protección Civil, el Plan Municipal de Contingencias;
+III.-Elaborar y presentar para su aprobación al Consejo Municipal de Protección Civil, el Plan Municipal de Contingencias;
 
 IV.- Instrumentar un sistema de seguimiento y evaluación del Programa Municipal de Protección Civil e informar al Consejo Municipal de Protección Civil sobre su funcionamiento y avances;
 
@@ -1229,13 +1229,13 @@ XIV.- Resguardar los bienes muebles e inmuebles municipales, de los que deberá 
 
 XV.- Prestar el servicio médico a cargo del gobierno municipal;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
 XVI.- Mantener en buen estado de funcionamiento los vehículos y equipo de transporte con que cuenten las dependencias;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-XVII.- Prestar el servicio de grúas a las dependencias;
+XVII - Prestar el servicio de grúas a las dependencias;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
@@ -1801,7 +1801,9 @@ b) Recursos Materiales y;
 
 c) Estadística e Informática.
 
-VI.- La Subdirección de Policía y Tránsito, de la que dependerá la Comandancia de Policía y la Unidad Contra la Violencia Intrafamiliar.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- La Subdirección de Policía y Tránsito, de la que dependerán la Comandancia de Policía, la Unidad Contra la Violencia Intrafamiliar, y la Unidad para la Atención de Menores de Edad; y
 
 VII.- La Subdirección Académica, de la que dependerán los siguientes Departamentos:
 
@@ -1953,13 +1955,17 @@ VIII.- Establecer estrecha coordinación entre las corporaciones policiales de l
 
 IX.- Supervisar el buen uso del equipamiento asignado a los elementos de la Dirección;
 
-X.- Establecer coordinación con la Subdirección Administrativa, para entender necesidades de equipamiento del cuerpo policiaco; y (sic),
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XI.- Evaluar periódicamente el desempeño profesional de los elementos activos para revisar propuestas de estímulos, cambios de adscripción o ascensos de acuerdo con la normatividad aplicable;
+X.- Establecer coordinación con la Subdirección Administrativa, para atender necesidades de equipamiento del cuerpo policíaco;
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XII.- Desarrollar y supervisar los planes de prevención que para efectos (sic) presente la Unidad contra la Violencia Intrafamiliar.
+XI.- Evaluar periódicamente el desempeño profesional de los elementos activos para revisar propuestas de estímulos, cambios de adscripción o ascensos de acuerdo con la normatividad aplicable; y,
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+XII.- Desarrollar y supervisar los planes de prevención que presenten las Unidades Contra la Violencia Intrafamiliar y la de Atención a Personas Menores de Edad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -2004,6 +2010,30 @@ IV.- Coordinar esfuerzos con el Centro de Atención a Víctimas de Violencia Int
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
 
 El responsable de esta unidad especializada deberá contar con los conocimientos necesarios en psicología y atención a víctimas, así como los necesarios en derecho para una correcta orientación legal de las víctimas.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+ARTICULO 96 TER.- La Unidad para la Atención de Menores de Edad, estará a cargo de un Coordinador y será la encargada de proporcionar atención a aquellos menores que cometan faltas administrativas, para lo cual tendrá las siguientes atribuciones:
+
+I.- Coordinar la atención y cuidado de las personas menores de edad que sean presentadas ante el Juez Calificador;
+
+II.- Auxiliar al Juez Calificador en la localización de la o las personas responsables del cuidado de los menores que le sean presentados;
+
+III.- Rendir en breve término, un informe al Juez Calificador en relación con la búsqueda de las personas responsables del menor;
+
+IV.- Practicar a solicitud del Juez Calificador, estudios socioeconómicos a las personas responsables de menores que cometan faltas administrativas;
+
+V.- Previa orden del Juez Calificador, coordinar los traslados de las personas menores de edad a las instancias correspondientes para que reciban la atención adecuada;
+
+VI.- Coadyuvar con las distintas áreas de la Dirección de Seguridad Pública Municipal y con el Departamento de Jueces Calificadores, a efecto de formular y ejecutar programas preventivos para los menores de edad, tendientes a inhibir la comisión por estos, de faltas administrativas y delitos;
+
+VII.- Llevar un padrón. de las instituciones de asistencia social que sean susceptibles de atender, tratar y orientar a los menores infractores, así como a los padres a quienes se imponga la obligación de acudir a programas de orientación;
+
+VIII.- Coordinarse con las diversas dependencias gubernamentales, así como asociaciones civiles y demás organismos cuyo objeto sea la atención y orientación a personas menores de edad;
+
+IX.- Proporcionar orientación a los menores de edad y padres de familias, así como canalizar a los mismos a las instancias especializadas para su adecuado tratamiento; y,
+
+X.- Realizar análisis respecto a la incidencia en faltas administrativas y delitos cometidos por personas menores de edad.
 
 ###### ARTICULO 97.
 
@@ -2225,7 +2255,7 @@ I.- Definir, programar y ejecutar los mecanismos, las políticas y las estrategi
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-II.- Recopilar y analizar la información que se genere en los medios de comunicación relacionada con acciones que competan al gobierno municipal, o que puedan tener una repercusión sobre la actuación de éste, y darla a conocer a las dependencias y entidades que corresponda;
+II. - Recopilar y analizar la información que se genere en los medios de comunicación relacionada con acciones que competan al gobierno municipal, o que puedan tener una repercusión sobre la actuación de éste, y darla a conocer a las dependencias y entidades que corresponda;
 
 III.- Mantener informada a la comunidad y a los medios de comunicación sobre las actividades que desempeña el gobierno municipal;
 
@@ -2347,9 +2377,17 @@ VIII.- Promover la instrumentación de procesos de planeación por zonas, para e
 
 IX.- Fomentar la capacitación y actualización de los Delegados Municipales en relación con la normatividad que les corresponda observar y aplicar;
 
-X.- Intervenir en los asuntos de competencia municipal que se presenten en las Delegaciones cuando así lo instruya el Presidente Municipal; y,
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-XI.- Supervisar que las Juntas de Mejoramiento, Moral, Cívico y Material ubicadas en el Municipio cumplan con las disposiciones establecidas en la Ley y con reglamento municipal de la materia; (sic)
+X.- Intervenir en los asuntos de competencia municipal que se presenten en las Delegaciones cuando así lo instruya el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+XI.- Supervisar que las Juntas de Mejoramiento, Moral, Cívico y Material ubicadas en el Municipio cumplan con las disposiciones establecidas en la Ley y con reglamento municipal en la materia; e,
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+XII.- Informar semestralmente a la Comisión de Desarrollo Rural, sobre las acciones realizadas por la dependencia.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
 
@@ -2359,7 +2397,7 @@ La Dirección de Desarrollo Rural y Delegaciones para el cumplimiento de sus atr
 
 I.- Desarrollo Rural
 
-II.- Operación de Servicios Delegacionales
+II.-Operación de Servicios Delegacionales
 
 III.- Juntas de Mejoras y Acción Comunitaria
 
@@ -3204,3 +3242,15 @@ SEGUNDO.- En todos los casos en que los reglamentos, acuerdos y demás normativi
 TERCERO.- En todos los casos en que los reglamentos, acuerdos y demás normatividad municipal hagan referencia a la Subsecretaría del Ayuntamiento, se entenderá que se refieren a la Subdirección de Gobierno de la Secretaría del Ayuntamiento.
 
 CUARTO.- Dentro de los treinta días siguientes a la entrada en vigor del presente acuerdo, la Tesorería Municipal y la Oficialía Mayor deberán transferir los recursos presupuesta les, materiales y humanos asignados a la Coordinación de Delegaciones y a la Dirección Municipal de Fomento Agropecuario y Pesquero, a la Dirección de Desarrollo Rural y Delegaciones. Asimismo, los recursos asignados a la Dirección de Relaciones Públicas deberán ser transferidos a la Dirección de Comunicación Social en el mismo plazo.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+ACUERDO POR EL QUE SE MODIFICA Y ADICIONA EL ARTICULO 114 DEL REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja california.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 91, 96 Y 96 TER AL REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+
+Único.- El presente Acuerdo entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado de Baja California.
