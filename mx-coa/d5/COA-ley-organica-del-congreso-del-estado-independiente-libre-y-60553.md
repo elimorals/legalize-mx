@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-6055
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-07"
-last_updated: "2008-06-27"
+last_updated: "2008-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 7 de marzo de 2008.
 
@@ -65,27 +65,13 @@ El Congreso tendrá dos periodos ordinarios de sesiones. El primero se iniciará
 
 El Congreso podrá ser convocado a periodos extraordinarios de sesiones, conforme a lo que se establece en los artículos 47 y 73, fracción III, de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 6.
 
-El Gobernador del Estado presentará cada año al Congreso, dentro de los primeros quince días del segundo período ordinario de sesiones, un informe por escrito en el que se dé a conocer el estado general que guarda la administración pública estatal, según lo dispuesto en los Artículos 49 y 85 de la Constitución Política del Estado de Coahuila de Zaragoza.
+El Gobernador del Estado informará por escrito cada año al Congreso, dentro de los primeros diez días del mes de noviembre, sobre el estado general que guarda la administración pública estatal, según lo dispuesto en los artículos 49 Y 84 de la Constitución Política del Estado de Coahuila de Zaragoza.
 
-En la sesión que se celebre para este efecto, podrá hacer uso de la palabra un legislador por cada uno de los grupos parlamentarios del Congreso y los diputados de los partidos políticos que no hayan constituido grupo parlamentario.
-
-Estas intervenciones no excederán de diez minutos cada una de ellas y se iniciarán, en su caso, con los diputados de los partidos políticos que no hayan constituido grupo parlamentario y luego seguirán las de los representantes de los grupos parlamentarios, que se realizarán en orden creciente, en razón del número de diputados de cada grupo partidista.
-
-Concluidas las intervenciones de los legisladores, se declarará un receso para proceder luego a la entrega y recepción del informe escrito que debe presentar el Gobernador del Estado, sobre la situación que guarda la administración pública estatal.
-
-El Presidente de la Mesa Directiva recibirá el informe que presente el Titular del Poder Ejecutivo del Estado, a quien inmediatamente después, si así lo desea, se le concederá el uso de la palabra, para dirigir un mensaje a los diputados y a la ciudadanía coahuilense.
-
-En esta sesión podrá estar presente el Presidente del Tribunal Superior de Justicia, con la representación del Poder Judicial del Estado. Para el efecto de su asistencia, se determinará lo conducente.
-
-Al término del mensaje del Gobernador del Estado, en su caso, el Presidente de la Mesa Directiva, en representación del Congreso, en forma institucional y expresando su unidad, dispondrá hasta de quince minutos para referirse al contenido del mensaje del Gobernador del Estado, así como para declarar formalmente cumplida la obligación constitucional a que se refiere el Artículo 84 de la Constitución Política del Estado de Coahuila de Zaragoza.
-
-Al desahogarse las intervenciones tanto de los legisladores como del Gobernador del Estado, no procederán interpelaciones ni interrupciones por parte de los legisladores. Los asistentes al recinto del Congreso deberán abstenerse de hacer manifestaciones contrarias a la solemnidad de la sesión.
-
-El Presidente de la Mesa Directiva al conducir la sesión, deberá tener presentes los atributos de prudencia, tolerancia y respeto, así como el mandato de velar por el equilibrio entre las libertades de los legisladores y de los grupos parlamentarios y la eficacia en el cumplimiento de las funciones constitucionales del Congreso y de hacer prevalecer el interés general por encima de los intereses particulares o de grupo.
-
-La Legislatura procederá a realizar, en sesiones subsecuentes el análisis del informe rendido; y ante Comisiones, se desarrollarán comparecencias por materias, con la presencia de los secretarios del ramo y del Procurador General de Justicia, con objeto de hacer comentarios y observaciones al respecto. Lo expresado con ese motivo se comunicará al Ejecutivo del Estado, para su conocimiento, lo anterior, observando los acuerdos de la Junta de Gobierno en relación al formato y duración de las comparecencias de los servidores públicos y, de la decisión sobre los funcionarios públicos que comparecerán, según lo dispuesto en las fracciones VI, XII y XlII, del artículo 85 y demás relativos de esta ley.
+La Legislatura procederá a realizar, en sesiones subsecuentes el análisis del informe presentado por el Gobernador; y ante Comisiones, se desarrollarán comparecencias por materias, con la presencia de los secretarios del ramo y del Procurador General de Justicia, con objeto de hacer comentarios y observaciones al respecto. Lo expresado con ese motivo se comunicará al Ejecutivo del Estado, para su conocimiento, lo anterior, observando los acuerdos de la Junta de Gobierno en relación al formato y duración de las comparecencias de los servidores públicos y, de la decisión sobre los funcionarios públicos que comparecerán, según lo dispuesto en las fracciones VI, XII Y XIII, del artículo 85 y demás relativos de esta ley.
 
 ###### ARTÍCULO 7.
 
@@ -793,7 +779,9 @@ X. Coadyuvar en la realización de las funciones de las comisiones permanentes y
 
 XI. Proponer la realización de foros, reuniones de trabajo y otros eventos en que se analicen y recaben opiniones sobre los asuntos que debe atender el Congreso;
 
-XII. Hacer propuestas sobre el desarrollo de las sesiones ordinarias y extraordinarias y de la Diputación Permanente; así como de las sesiones solemnes y de las sesiones relacionadas con la presentación y el análisis del informe del gobernador del Estado,
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+XII. Hacer propuestas sobre el desarrollo de las sesiones ordinarias, extraordinarias y solemnes, así como de la Diputación Permanente; y sobre las comparecencias de los Secretarios del Despacho del Poder Ejecutivo, relacionadas con el análisis del informe del Gobernador del Estado;
 
 XIII. Determinar sobre quienes deben participar en las comparecencias de los Secretarios del Despacho del Poder Ejecutivo;
 
@@ -1671,7 +1659,9 @@ XI. Las demás que señale la Constitución Local, esta Ley y otros ordenamiento
 
 La Diputación Permanente deberá rendir un Informe de sus trabajos, al término del período de receso que corresponda.
 
-Los informes de la Diputación Permanente se presentarán en la primera sesión del Primer Período Ordinario de Sesiones y en la primera sesión del Segundo Período Ordinario de cada año del ejercicio constitucional de cada Legislatura. En caso de que esta última coincida con la Sesión Solemne del Informe de Gobierno, el informe de la Diputación Permanente se presentará en la sesión inmediata posterior.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+Los informes de la Diputación Permanente se presentarán en la primera sesión de cada Período Ordinario de Sesiones.
 
 ###### ARTÍCULO 154.
 
@@ -1803,7 +1793,9 @@ II. Cuando ocurra el Presidente de la República al Recinto Oficial del Congreso
 
 III. Cuando el Gobernador del Estado rinda su protesta de ley;
 
-IV. Al presentar el Gobernador del Estado, el informe a que se refiere el artículo 49 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+
+IV. Cuando así se determine con motivo de la asistencia del Gobernador del Estado al Recinto Oficial del Congreso;
 
 V. En caso de visitas oficiales de delegaciones parlamentarias del Congreso de la Unión, de las Entidades Federativas o de otros países;
 
@@ -2782,3 +2774,9 @@ P.O. 27 DE JUNIO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
