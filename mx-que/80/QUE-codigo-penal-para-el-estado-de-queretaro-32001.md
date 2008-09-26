@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2008-07-25"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1889,7 +1889,7 @@ Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no 
 
 ###### ARTICULO 196.
 
-Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic) intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
+Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic)intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
 
 Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta fuese momentánea del pasivo, se aumentará hasta en una mitad mas la pena señalada en el párrafo anterior.
 
@@ -1955,11 +1955,11 @@ ARTICULO 217 SEXTUS.- Los hechos previstos en este Capítulo se perseguirán por
 
 Al que por cualquier medio destruya o deteriore una cosa ajena o propia, en perjuicio de otra se le impondrá prisión de 3 meses a 8 años y de 15 a 240 días multa.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
-ARTICULO 202 BIS.- Si el daño se comete por medio de pintas de signos o grabados, mensajes o dibujos, sobre bienes muebles o inmuebles ajenos o propios que no estén bajo posesión legal de quien los realiza y sin el consentimiento de quien esté facultado para otorgarlo conforme a la ley, se impondrá prisión de 6 meses a 3 años y de 30 a 300 días multa.
+ARTICULO 202 BIS.- Si el daño se comete por medio de pintas de signos o grabados, mensajes o dibujos, sobre bienes muebles o inmuebles ajenos o propios que no estén bajo posesión legal de quien los realiza y sin el consentimiento de quien esté facultado para otorgarlo conforme a la ley, se impondrá prisión de 6 meses a 3 años o de ciento ochenta a quinientas cuarenta jornadas de trabajo a favor de la comunidad y de 30 a 300 días multa.
 
-Si las conductas antes previstas recaen en bienes de valor científico, histórico, cultural, edificios públicos, monumentos, equipamiento urbano o bienes de utilidad pública, se impondrá prisión de 1 a 5 años y de 60 a 600 días multa, además de que se perseguirán de oficio.
+Si las conductas antes previstas recaen en bienes de valor científico, histórico, cultural, edificios públicos, monumentos, equipamiento urbano o bienes de utilidad pública, se impondrá prisión de 1 a 5 años o de trescientas sesenta a novecientas jornadas de trabajo a favor de la comunidad y de 60 a 600 días multa.
 
 ###### ARTICULO 203.
 
@@ -1983,11 +1983,13 @@ En los casos de los delitos previstos por este Título, no se aplicará pena alg
 
 Lo dispuesto en el párrafo anterior no será aplicado tratándose de delitos en que el agente sea servidor público, si se aprovecha del cargo para cometerlos.
 
-> <small>(REFORMADO PRIMER PARRAFO, 20 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 207.
 
-Los delitos previstos en los Capítulos Tercero, Cuarto, Quinto, Sexto, Octavo y Noveno, sólo se perseguirán por querella de la parte ofendida, con excepción de lo previsto en el segundo párrafo del artículo 202 Bis, y en el artículo 203.
+Los delitos contra el patrimonio previstos en los Capítulos Tercero, Cuarto, Quinto, Sexto, Octavo y Noveno del Título Décimo, sólo se perseguirán por querella de la parte ofendida, con excepción de lo previsto en los artículos 202 Bis y 203.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1992)</small>
 
 Los delitos previstos en los Capítulos Primero y Segundo del presente Título, sólo se perseguirán por querella del ofendido cuando el sujeto activo sea ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado o pariente por afinidad de aquél. Igual requisito de procedibilidad se requerirá para perseguir a los terceros que hubieren intervenido en el hecho.
 
@@ -2849,7 +2851,7 @@ DE PRUEBAS
 
 Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
 
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
@@ -3165,7 +3167,7 @@ III.- Promueva incidentes o recursos o use medios notoriamente improcedentes o i
 
 IV.- A sabiendas alegue hechos falsos;
 
-V.- Con el carácter de defensor, abogado patrono o apoderado, no ofrezca ni rinda pruebas dentro de los plazos previstos por la Ley, si esta en posibilidad de hacerlo y corresponden a la naturaleza y estado del asunto;
+V.- Con el carácter de defensor, abogado patrono o apoderado, no ofrezca ni rinda pruebas dentro de los plazos previstos por la Ley, si está en posibilidad de hacerlo y corresponden a la naturaleza y estado del asunto;
 
 VI.- Como defensor, sea particular o de oficio, sólo se concrete a aceptar el cargo y a solicitar la libertad caucional del inculpado, sin promover más pruebas ni dirigirlo en su defensa, o
 
@@ -3595,7 +3597,7 @@ P.O. 1 DE NOVIEMBRE DE 2002
 
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Artega".
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3754,3 +3756,7 @@ Artículo Único. La presente Ley entrará en vigor al día siguiente de su publ
 P.O. 25 DE JULIO DE 2008.
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro.
+
+P.O. 26 DE SEPTIEMBRE DE 2008.
+
+Artículo Único.- La presente Ley entra en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
