@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-58711"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-29"
-last_updated: "2007-12-29"
+last_updated: "2008-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 29 de diciembre de 2007.
 
@@ -3393,11 +3393,45 @@ b) Actualización: 60.00
 
 c) Especialización: 325.00
 
-### CAPÍTULO IX. DE LAS CERTIFICACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+### CAPÍTULO IX. DE LAS CERTIFICACIONES Y OTROS MEDIOS DE REPRODUCCIÓN DE DATOS
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 32.
 
-Las certificaciones que realice cualquier autoridad en el ejercicio de sus facultades, causará una cuota de 0.28 salarios mínimos por la primera hoja y de 0.14 salarios mínimos por las subsecuentes.
+Los servicios prestados por certificaciones y otros medios de reproducción de datos que realice cualquier autoridad en el ejercicio de sus facultades, se causarán y pagarán conforme a las siguientes cuotas:
+
+Números de Salarios Mínimos
+
+l.- CERTIFICACIONES:
+
+a) Por primera hoja 0.28
+
+b) Por las subsecuentes 0.14
+
+II.- Las solicitudes de acceso a la información que realicen los particulares en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, serán gratuitas; para su reproducción que requiera impresión y materiales de reproducción, se causarán y pagarán conforme a las siguientes cuotas:
+
+Números de salarios mínimos
+
+a).- Expedición de copia simple, por cada hoja 0.01
+
+b).- Expedición de copias a color 0.09
+
+c).- Expedición de Disco Flexible de 3.5 0.10
+
+d).- Disco compacto 0.31
+
+e).- Disco compacto para reproducción de
+
+imágenes 4.00
+
+f).- Audiocasette 0.21
+
+Para el caso de expedición de copias certificadas no reguladas en esta Ley, su costo será de 0.28 salarios mínimos y tratándose de otros medios de reproducción de datos previstos en esta ley, se sujetará a la misma.
+
+En caso de que se requiera la contratación de alguna empresa de mensajería, los gastos de envío correrán a cargo del solicitante.
 
 ###### ARTÍCULO 33.
 
@@ -3640,3 +3674,9 @@ Oaxaca de Juárez, Oax., a 29 de diciembre del 2007.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. TEOFILO MANUEL GARCÍA CORPUS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
