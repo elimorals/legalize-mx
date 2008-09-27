@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2008-07-19"
+last_updated: "2008-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -2745,9 +2745,9 @@ El auto que niegue o mande abrir el juicio a prueba será revocable.
 
 ART. 434.- Una vez ofrecidas y admitidas las pruebas que así lo ameriten a las partes, se señalará día y hora para su recepción dentro de los siguientes quince días a su admisión.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
-ART. 435.- Desahogadas las pruebas admitidas, se abrirá el período de alegatos por tres días común a las partes. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los diez días siguientes, salvo el caso de que existan apelaciones de tramitación inmediata pendientes de resolver.
+ART. 435.- Desahogadas las pruebas admitidas, se abrirá el período de alegatos por tres días común a las partes. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los treinta días siguientes.
 
 ART. 436.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
@@ -4193,9 +4193,9 @@ c) Si el adherente no expresó agravios.
 
 ART. 706.- Si no se hubieren promovido pruebas o las que se ofrecieron no se hubieren admitido, en el mismo auto en que se admitió el recurso se citará a las partes para sentencia, que se pronunciará y notificará dentro del término máximo de treinta días. Cuando se trate de expedientes voluminosos se podrá ampliar el plazo concediendo quince días más para el dictado y notificación de la sentencia.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
-ART. 707.- Si las partes desean ofrecer pruebas, deberán hacerlo en los escritos de expresión de agravios y su contestación, especificando los puntos sobre los cuales versarán éstas, los cuales no podrán ser extraños ni a la cuestión debatida ni a hechos sobrevenidos.
+ART. 707.- Podrán recibirse pruebas en segunda instancia sólo cuando hubieren ocurrido hechos supervenientes, siempre y cuando las partes las ofrezcan en los escritos de expresión de agravios y su contestación, especificando los puntos sobre los cuales versarán.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -5822,3 +5822,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE JULIO DE 2008.
 
 ÚNICO.- La presente Ley (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
