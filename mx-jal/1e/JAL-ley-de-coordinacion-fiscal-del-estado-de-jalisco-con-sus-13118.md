@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2006-12-16"
+last_updated: "2008-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -84,11 +84,15 @@ VI. El 40% del importe que perciba por concepto del impuesto estatal sobre nómi
 
 VII. El 100% del importe que perciba por concepto del impuesto estatal de espectáculos públicos;
 
-VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y
+VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y (sic)
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
-IX. El 100 % de los ingresos que perciba por concepto de participaciones en derechos federales, de acuerdo a los coeficientes que determine anualmente el Congreso del Estado.
+IX. Los ingresos correspondientes al Fondo de Fiscalización, en base a lo señalado en el artículo 10 de esta ley, y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+X. El 22.00% del importe que perciba el Estado por concepto de participaciones del Impuesto Especial sobre Producción y Servicios en gasolinas y diesel.
 
 ###### Artículo 6°.
 
@@ -96,9 +100,9 @@ El importe que se forme con los porcentajes señalados se distribuirá entre los
 
 ###### Artículo 7°.
 
-El factor que a cada municipio corresponda en el fondo municipal de participaciones, se determinará conforme a las siguientes bases:
+El factor que a cada Municipio corresponda en el Fondo Municipal de Participaciones, se determinará conforme a las siguientes bases:
 
-I. De los ingresos Federales. Se aplicarán los siguientes criterios y parámetros:
+I. De los ingresos federales. Se aplicarán los siguientes criterios y parámetros:
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -106,13 +110,13 @@ I. De los ingresos Federales. Se aplicarán los siguientes criterios y parámetr
 
 2) De las cantidades que el Estado reciba en exceso, con respecto al año inmediato anterior, se distribuirán entre los municipios de conformidad con los coeficientes que se determinen tomando los siguientes parámetros:
 
-a) 45% en proporción al número de habitantes de cada municipio en relación al total estatal. El número de habitantes de cada municipio se tomará de la última información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
+a) 45% en proporción al número de habitantes de cada Municipio en relación al total estatal. El número de habitantes de cada Municipio se tomará de la última información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-b) 20% en proporción a lo que reciban de participaciones y aportaciones federales;
+b) 20% en proporción a lo que perciban de participaciones y aportaciones federales;
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 c) 20% en función a su propia recaudación, es decir, lo que perciban por concepto de contribuciones municipales;
 
@@ -134,15 +138,21 @@ Por los porcentajes descritos en el artículo 5º, fracciones VI y VII, que se g
 
 Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará que se sigan aplicando las que correspondan al año inmediato anterior, a cada municipio.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 8°.
 
-Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto por el artículo 9º de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Finanzas del Estado, el día 25 de cada mes o al día hábil siguiente en caso de ser inhábil. El retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6° de la Ley de Coordinación Fiscal de la Federación.
+Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto por el artículo 9º de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Finanzas del Estado, el día 25 de cada mes o al día hábil siguiente en caso de ser inhábil. El Fondo de Fiscalización a que se refiere la fracción IX del artículo 5° de esta Ley, se distribuirá en forma trimestral a los municipios, dentro de los cinco días siguientes a aquel en que el Estado lo reciba.
 
-La Secretaría de Finanzas del Estado, una vez identificada la asignación mensual que le corresponda a la entidad de los fondos previstos en la Ley Federal de Coordinación Fiscal, y de la presente Ley, afectará mensualmente la participación que le corresponda a cada municipio.
+La Secretaría de Finanzas del Estado, una vez identificada la asignación en el periodo mensual o trimestral que le corresponda a la Entidad de los fondos previstos en la Ley Federal de Coordinación Fiscal, y de la presente Ley, afectará mensual o trimestralmente la participación que le corresponda a cada Municipio.
+
+El retraso en la entrega de las participaciones dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6o. de la Ley de Coordinación Fiscal de la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 9°.
 
-El fondo de fomento municipal incluyendo las cantidades adicionales derivadas de la coordinación del estado en materia de derechos se distribuirá entre los municipios de la siguiente manera:
+El Fondo de Fomento Municipal, se distribuirá entre los municipios de la siguiente manera:
 
 I. Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año inmediato anterior, y
 
@@ -158,13 +168,33 @@ Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados p
 
 Si el fondo de fomento municipal no tuviere incremento con respecto al año inmediato anterior a aquel para el cual se efectúe el cálculo, el Congreso del Estado, por excepción, podrá prorrogar los factores que hubieren correspondido a cada municipio en ese año.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 10.
 
-De la Reserva de Contingencia que reciba el Estado, se participará a los municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de las participaciones del Estado.
+Las participaciones a favor de los municipios a que se refiere la fracción IX del artículo 5 de esta Ley, correspondiente al Fondo de Fiscalización, se distribuirá entre el Estado y los Municipios en dos partes, de la siguiente forma:
 
-En el conjunto de participaciones a los municipios, no se incluirán aquellas a que se refieren las fracciones I y II del artículo 2º-A de la Ley de Coordinación Fiscal de la Federación.
+La primera parte, se distribuirá entre los municipios del Estado conforme al monto de participaciones que recibieron cada uno de ellos del fondo de Coordinación en Derechos en el año 2007, garantizándoles los mismos recursos que recibieron en el año 2007, salvo en el caso de la conformación de uno nuevo.
 
-Las cantidades excedentes se distribuirán de acuerdo a lo establecido en el artículo quinto de esta Ley.
+La segunda parte, que corresponde a la diferencia entre el Fondo de Fiscalización del año en que se realiza el cálculo y el monto con el que se integró el Fondo de Coordinación en Derechos en el año 2007, se distribuirá en un 80% para el Estado y un 20% para los municipios.
+
+Del monto a distribuir entre los municipios, el 40% se repartirá entre todos los municipios del Estado, en proporción directa a la recaudación que obtengan por concepto de licencias de funcionamiento y licencias de anuncios en el municipio en el año inmediato anterior al que se realiza el cálculo, contenida en su cuenta pública.
+
+El 60% restante, se distribuirá entre los municipios que tengan celebrado con el Gobierno del Estado Convenio de Colaboración Administrativa en materia de Registro Federal de Contribuyentes del Régimen de Pequeños Contribuyentes y Régimen de Contribuyentes Intermedios, aplicando el criterio señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 10 Bis.
+
+Las participaciones a favor de los municipios a que se refiere la fracción X del artículo 5º de esta Ley, correspondiente al Impuesto Especial sobre Producción y Servicios en gasolinas y diesel, se distribuirán.
+
+a) 70% en función directa al número de habitantes de cada municipio, en relación al total estatal, de conformidad a la última información oficial del Instituto Nacional de Estadística y Geografía.
+
+b) 30% en proporción al índice de marginalidad, según la información oficial que de a conocer el Instituto Nacional de Estadística y Geografía.
+
+A través de un fondo denominado FIEPS, de conformidad con la fórmula siguiente:
+
+(VEASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
@@ -393,3 +423,23 @@ P.O. 16 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor el día 1° de enero del año 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Para el caso de que el inicio de vigencia del nuevo municipio no coincida con el año calendario, el cálculo correspondiente de los recursos se aplicará a partir de la entrada en vigor del nuevo municipio y tendrá vigencia durante los meses que restan del ejercicio.
+
+P.O. 27 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. Los municipios recibirán en 2008 por concepto del Fondo de Fiscalización una cantidad igual a la que les correspondió en el año inmediato anterior por Coordinación en Derechos. El excedente, sobre el monto recibido en el año inmediato anterior por Coordinación en Derechos, se distribuirá entre los municipios de Jalisco conforme lo establece el artículo 10 del presente Decreto.
+
+SEGUNDO. El Poder Ejecutivo determinará y publicará en el periódico oficial "El Estado de Jalisco" los coeficientes para la distribución del Fondo de Fiscalización de conformidad con las fórmulas establecidas en el presente decreto a más tardar en los cinco días naturales posteriores a la publicación del mismo.
+
+Asimismo, publicará conjuntamente con los coeficientes, la información que haya tomado como base para la realización del cálculo de los mismos, en el Periódico Oficial "El Estado de Jalisco" y explicará detalladamente las fuentes de las cuales proviene la información en comento.
+
+TERCERO. En ningún caso el Poder Ejecutivo entregará recursos por concepto de Fondo de Fiscalización a municipios que no hayan presentado la información pertinente para el cálculo de los coeficientes para la distribución del Fondo señalado anteriormente.
+
+CUARTO. De determinarse que la información proporcionada por los municipios para el cálculo del coeficiente del Fondo de Fiscalización es falsa, se suspenderá la entrega de recursos por este concepto hasta verificar la veracidad de la misma y se iniciarán los procesos de fincamiento de responsabilidades a los servidores públicos que así lo ameriten.
+
+QUINTO. Para efecto de la distribución del Fondo del Impuesto Especial sobre Producción y Servicios en gasolinas y diesel ésta se llevará a cabo aplicando los coeficientes establecidos en el artículo segundo del presente decreto a la totalidad de los recursos que por éste fondo reciba la entidad de la Federación, en los términos establecidos en la fracción X del artículo 5 de la Ley de Coordinación Fiscal del Estado de Jalisco con sus Municipios.
+
+SEXTO. Se validan las ministraciones de los recursos que hubiere realizado la Secretaria de Finanzas antes de la entrada en vigor del presente decreto, autorizándole a realizar el ajuste correspondiente, conforme a los coeficientes que resulten del presente decreto.
+
+SÉPTIMO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, VEASE TABLA DE LOS COEFICIENTES DE DISTRIBUCION DEL FONDO DE IEPS, EN LA SECCION III DEL P.O. DE 27 DE SEPTIEMBRE DE 2008, PAGINAS DE LA 6 A LA 12, DEL DECRETO NUMERO 22286/LVIII/08, QUE REFORMA VARIOS ARTICULOS DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.</small>
