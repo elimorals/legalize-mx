@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-11"
-last_updated: "2007-07-28"
+last_updated: "2008-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 11 de abril de 2007.
 
@@ -163,7 +163,7 @@ a.1. Mesa Dictaminadora;
 
 a.2. Agencias del Ministerio Público Centro Ordinarias y Especializadas; y
 
-a.3. Fiscales Especiales Investigadores para Casos Relevantes;
+a.3. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2008)
 
 b) Dirección de la Policía Ministerial;
 
@@ -177,7 +177,15 @@ f) Fiscalía Especializada para la Atención de Denuncias sobre Delitos Electora
 
 g) Coordinación de Notificadores.
 
-IV.- UNIDADES ADMINISTRATIVAS, DE CONTROL E INFORMÁTICA
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+IV.- SUBPROCURADURIA DE EVENTOS DE IMPACTO SOCIAL:
+
+a) Fiscalía Especializada para el Combate al Secuestro;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+V.- UNIDADES ADMINISTRATIVAS, DE CONTROL E INFORMÁTICA:
 
 a) Dirección General Administrativa;
 
@@ -229,9 +237,17 @@ XIII.- Emitir la resolución definitiva en los procedimientos administrativos qu
 
 XIV.- Emitir los lineamientos necesarios para transparentar el ejercicio de las funciones de la Procuraduría, excepto aquella información que el ordenamiento en la materia considere como confidencial o reservada;
 
-XV.- Establecer las bases para los nombramientos, movimientos de personal, terminación de los efectos de los nombramientos de los servidores públicos de la Procuraduría, incluso de los que se encuentren en la hipótesis a que se refiere el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, y ordenar al Director General Administrativo su ejecución; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
-XVI.- Las demás que con ese carácter le confieren las leyes.
+XV.- Establecer las bases para los nombramientos, movimientos de personal, terminación de los efectos de los nombramientos de los servidores públicos de la Procuraduría, incluso de los que se encuentren en la hipótesis a que se refiere el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, y ordenar al Director General Administrativo su ejecución;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+XVI.- Solicitar a las autoridades jurisdiccionales competentes la intervención de comunicaciones privadas en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos y la Ley Orgánica del Poder Judicial de la Federación, Ley Orgánica de la Procuraduría General de Justicia del Estado y Código Penal del Estado; y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+XVII.- Las demás que señalen otras disposiciones legales y reglamentarias.
 
 ###### ARTÍCULO 12.
 
@@ -493,6 +509,110 @@ VIII.- Proponer al Procurador los acuerdos necesarios para unificar los criterio
 
 La Subprocuraduría de Investigaciones estará a cargo de un Subprocurador, auxiliado en el ejercicio de sus atribuciones por los Directores Generales, Directores, Coordinadores, Subdirectores, Agentes del Ministerio Público y demás personal que se requiera para satisfacer las necesidades del servicio.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 20 BIS. El Subprocurador de Eventos de Impacto Social, tendrá las siguientes atribuciones específicas:
+
+I. Llevar a cabo con acuerdo del Procurador General de Justicia, el ejercicio de la facultad de atracción de aquellos casos de su competencia;
+
+II. Vigilar la debida investigación de los delitos y la adecuada integración y determinación de las averiguaciones previas que con ese motivo se inicien;
+
+III. Vigilar la aplicación del debido proceso penal a favor de los derechos e intereses de la victima, del ofendido y de sus derechohabientes;
+
+IV. Resolver, previo acuerdo del Procurador, las consultas que formulen los Agentes del Ministerio Público o las prevenciones que la autoridad judicial acuerde en los términos que establezca la Ley a propósito de conclusiones presentadas en el proceso penal o por falta de éstas, o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado, antes de que se pronuncie la sentencia;
+
+V. Ejercer directamente las facultades que la Ley confiere a los agentes del Ministerio Público;
+
+VI. Vigilar y coordinar el correcto desempeño de los Agentes del Ministerio Público, la Policía Ministerial, los Servicios Periciales y los Servicios Médicos Forenses, como órganos auxiliares del Ministerio Público en los asuntos de su Competencia;
+
+VII. Resolver las consultas de los Agentes del Ministerio Público sobre la procedencia o no de la devolución de objetos relacionados en la averiguación previa de los hechos, de conformidad con las disposiciones de la Ley Reglamentaria correspondiente;
+
+VIII. Vigilar que el Fiscal Especial para el Combate al Secuestro preste auxilio al Ministerio Público de la Federación y de las demás entidades federativas, que lo soliciten, en términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos, independientemente que dicha facultad la podrá realizar directamente;
+
+IX. Llevar a cabo el aseguramiento y tramitación del destino de los instrumentos, objetos y productos del delito en los términos del Código de Procedimientos Penales del Estado, y demás disposiciones legales y reglamentarias aplicables;
+
+X. Autorizar a la Fiscalía Especializada para el Combate al Secuestro, la solicitud al órgano jurisdiccional, las órdenes de cateo, las medidas precautorias de arraigo, el aseguramiento o embargo precautorio de bienes, que resulten imprescindibles para los fines de la averiguación previa, así como, en su caso y oportunidad, para el debido cumplimiento de la sentencia que se dicte;
+
+XI. Implementar y supervisar la adecuada operación de un banco de datos, que contenga información actualizada y fidedigna para la investigación científica de los delitos de su competencia;
+
+XII. Proponer y acordar con el Procurador General de Justicia, el nombramiento de los servidores públicos bajo su mando, quienes deberán cumplir con los requisitos que exigen las disposiciones legales y reglamentarias;
+
+XIII. Proponer al Procurador la celebración de bases y convenios de colaboración con otras autoridades, así como instrumentos de concertación con personas físicas y jurídicas colectivas de los sectores social y privado tendientes al abatimiento y prevención del delito;
+
+XIV. Solicitar al Procurador la intervención de comunicaciones privadas ante los órganos jurisdiccionales de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos y la Ley Orgánica de la Procuraduría General de Justicia del estado de Tabasco;
+
+XV. Rendir informes previos y justificados solicitados por la autoridad federal en los juicios de amparo, cuando sea señalado como autoridad responsable y llevar a cabo todo lo relacionado con la substanciación de estos; y
+
+XVI. Las demás que correspondan a sus funciones de Ministerio Público investigador, conforme a la Ley Orgánica, su Reglamento y demás disposiciones aplicables así como aquéllas que le encomiende el Procurador.
+
+La Subprocuraduría estará a cargo de un Subprocurador, auxiliado en el ejercicio de sus atribuciones por los Directores Generales, Directores, Coordinadores, Subdirectores, Agentes del Ministerio Público y demás personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 20 BIS 1. La Fiscalía Especializada para el Combate al Secuestro, tendrá las siguientes atribuciones:
+
+I. Vigilar y coordinar el correcto desempeño de los Agentes del Ministerio Público, Investigadores, Determinadores y Adscritos a los Juzgados Penales de los asuntos de su competencia, así como de aquellos que le sean encomendados por el Procurador, sin perjuicio de ejercer directamente las funciones que a estos corresponda;
+
+II. Verificar que las detenciones y retenciones de los probables responsables de la comisión de los delitos que investigue el agente del ministerio público, se acuerden en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Solicitar, al Subprocurador de Eventos de Impacto Social la autorización para el pedimento al órgano jurisdiccional, las órdenes de cateo, las medidas precautorias de arraigo, el aseguramiento o embargo precautorio de bienes, que resulten imprescindibles para los fines de la averiguación previa, así como, en su caso y oportunidad, para el debido cumplimiento de la sentencia que se dicte;
+
+IV. Instruir a los agentes de la policía ministerial y a los peritos sobre los elementos o indicios que deban ser investigados o recabados, así como sobre otras acciones de investigación que fueren necesarias para la integración de los elementos del cuerpo del delito y la probable responsabilidad del indiciado;
+
+V. Vigilar que las intervenciones de comunicaciones, que autorice el órgano jurisdiccional, se de en los plazos y condiciones establecidas en el mandamiento de la autoridad competente;
+
+VI. Establecer estrategias que permitan el combate eficaz de los delitos de secuestro en sus diversas modalidades;
+
+VII. Clasificar la información basados en criterios estandarizados en la investigación de los delitos de su competencia, en coordinación con el área de inteligencia de la Institución;
+
+VIII. Supervisar que el personal a su cargo cumpla debidamente y en los términos de las disposiciones aplicables, con las actividades que le sean asignadas;
+
+IX. Solicitar los informes que estime pertinentes sobre los asuntos de su competencia;
+
+X. Auxiliar al Ministerio Público de la Federación y de las demás entidades federativas, que lo soliciten, en términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos;
+
+XI. Remitir a las autoridades correspondientes las averiguaciones previas que no sean competencia del Ministerio Público del fuero común en el Estado;
+
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2008)</small>
+
+XII. Determinar el no ejercicio de la acción penal cuando no se satisfagan los requisitos establecidos por el Artículo 16 Constitucional o cuando se actualicen las hipótesis previstas en el artículo 129 del Código de Procedimientos Penales para el Estado;
+
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2008)</small>
+
+XIII. Supervisar que los agentes del ministerio publico pongan a disposición de la autoridad competente, en los términos de la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Tabasco, a los adolescentes a quienes se impute la ejecución de un hecho delictuoso de los que conozca la Subprocuraduría de Eventos de Impacto Social;
+
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2008)</small>
+
+XIV. Elaborar los informes previos y justificados solicitados por la autoridad federal en los juicios de amparo cuando sea señalado como autoridad responsable el Subprocurador de Eventos de Impacto Social y/o la Fiscalía Especializada para el Combate al Secuestro y llevar a cabo todo lo relacionado con la substanciación de estos juicios;
+
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2008)</small>
+
+XV. Actuar como delegado en los casos previstos por el artículo 19 de la Ley de Amparo; y
+
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 2008)</small>
+
+XVI. Las demás que correspondan a sus funciones de Ministerio Público investigador, conforme a la Ley Orgánica, su Reglamento y demás disposiciones aplicables así como aquéllas que le encomiende el Procurador.
+
+La Fiscalía Especializada estará a cargo de un Fiscal Especial, auxiliado en el ejercicio de sus atribuciones, por los subdirectores, los agentes del Ministerio Público, coordinadores operativos, comandantes, jefes de grupo y los agentes de la Policía Ministerial y de Servicios Periciales, así mismo (sic) contará con el personal técnico y de apoyo que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 20 BIS 2. Los perfiles y requisitos que deberán satisfacer los Agentes del Ministerio Público, Agentes la (sic) Policía Ministerial y los Peritos que conforman la Subprocuraduría de Eventos de Impacto Social, además de los establecidos por los artículos 21, 22 y 23 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, serán los siguientes:
+
+I.- Comprobar una experiencia mínima de tres años en labores vinculadas con la seguridad pública;
+
+II.- Contar con conocimientos y técnicas de investigación, en los delitos que competencia la Subprocuraduría de Eventos de Impacto Social;
+
+III.- Aprobar los exámenes de control confianza como prueba de valores, polígrafo y demás que determine la institución;
+
+IV.- Contar con los requisitos de edad, perfil físico, médico y de personalidad que determine la institución;
+
+V.- Para ser Agente de la Policía Ministerial a demás de los requisitos establecidos, se requiere ser licenciado en derecho, con titulo y cédulas profesionales legalmente expedidas y registradas;
+
+VI.- Para ser Perito a demás (sic) de los requisitos establecidos, se requiere contar con licenciatura en las áreas de conocimiento afines a la Subprocuraduría de Eventos de Impacto Social; y
+
+VII.- Los demás requisitos que establezcan otras disposiciones aplicables.
+
 ## TÍTULO QUINTO. ATRIBUCIONES DE LOS DIRECTORES
 
 ### CAPÍTULO I. ATRIBUCIONES GENERALES
@@ -641,19 +761,23 @@ La Dirección General de Prevención del Delito y Servicios a la Comunidad estar
 
 La Dirección de Consulta, Amparo e Inconformidades tendrá las siguientes atribuciones específicas:
 
-I.- Resolver la consulta de no ejercicio de la acción penal propuesta por los Agentes del Ministerio Público Investigadores o Determinadores, conforme a lo dispuesto en el Código aplicable.
+(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008) (F. DE E., P.O. 4 DE OCTUBRE DE 2008)
 
-Sin demérito de la facultad del Director, se autorizará que los Agentes del Ministerio Público Auxiliar elaboren el proyecto y emitan la resolución a la consulta de no ejercicio de la acción penal, requiriéndose para ello contar con la conformidad del Director respecto al sentido de la resolución proyectada;
+l.- Resolver la consulta del no ejercicio de la acción penal propuesta por los Agentes del Ministerio Público investigadores o Determinadores, conforme a lo dispuesto en el Código aplicable, excepto de los actos que derivan de la investigación de los delitos que sean competencia de la Subprocuraduría de Eventos de Impacto Social, en esos caso (sic) resolverá la Fiscalía Especializada para el Combate al Secuestro;
 
 II.- Vigilar que al ofendido y a su asesor jurídico se les notifique legalmente la resolución de la consulta de no ejercicio de la acción penal, siempre que hayan presentado la inconformidad prevista en el artículo 129 del Código Procesal Penal;
 
-III.- Rendir los informes previos y justificados solicitados por la autoridad federal en los juicios de amparo en los que se señale a servidores públicos de la Procuraduría General de Justicia como autoridad responsable con motivo del no ejercicio de la acción penal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+III.- Rendir los informes previos y justificados solicitados por la autoridad federal en los juicios de amparo en los que se señale a servidores públicos de la Procuraduría General de Justicia como autoridad responsable con motivo del no ejercicio de la acción penal, excepto en la hipótesis de los servidores públicos adscritos a la Subprocuraduría de Eventos Impacto Social y respecto de actos que deriven de la investigación de su competencia;
 
 IV.- Vigilar que los Agentes del Ministerio Público Adscritos a la Dirección cumplan las atribuciones que les sean encomendadas;
 
 V.- Instruir a la Oficialía de Partes de la Dirección que verifique los requisitos de formalidad procesal que deberán satisfacer las averiguaciones previas remitidas con acuerdo de consulta de no ejercicio de la acción penal;
 
-VI.- Auxiliar al Procurador o los Subprocuradores en la rendición de los informes previos y justificados, requeridos por la autoridad federal en los juicios de amparo en que sean señalados como autoridades responsables. Asimismo, deberá actuar como delegado en los casos previstos por el artículo 19 de la Ley de Amparo; substanciación de los juicios de amparo en que el Procurador o los Subprocuradores sean señalados como autoridades responsables, rindiendo los informes previos y justificados que sean requeridos por la autoridad federal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Auxiliar al Procurador o los Subprocuradores en la rendición de los informes previos y justificados, requeridos por la autoridad federal en los juicios de amparo en que sean señalados como autoridades responsables. Asimismo, deberá actuar como delegado en los casos previstos por el artículo 19 de la Ley de Amparo; sustanciación de los juicios de amparo en que el Procurador o los Subprocuradores sean señalados como autoridades responsables, rindiendo los informes previos y justificados que sean requeridos por la autoridad federal, excepto de los actos que deriven de la investigación de los delitos que sean competencia de la Subprocuraduría de Eventos de Impacto Social;
 
 VII.- Resolver los recursos de inconformidad planteados durante la fase indagatoria en el procedimiento instruido a adolescentes en conflicto con la ley penal, de conformidad con el ordenamiento jurídico de la materia;
 
@@ -771,7 +895,9 @@ XIV.- Procurar que los Agentes del Ministerio Público Investigadores practiquen
 
 XV.- Vigilar que los Agentes del Ministerio Público observen el Protocolo de Estambul.
 
-La Dirección de Averiguaciones Previas Centro estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los Subdirectores, Jefes de Departamento, Agentes del Ministerio Público Investigadores, Secretarios, Fiscales Especiales Investigadores y demás personal que se requiera para satisfacer las necesidades del servicio.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+La Dirección de Averiguaciones Previas Centro estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los Subdirectores, Jefes de Departamento, Agentes del Ministerio Público Investigadores, Secretarios y demás personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO II. AGENCIAS DEL MINISTERIO PÚBLICO CENTRO
 
@@ -793,23 +919,17 @@ II. Iniciadoras; e
 
 III. Itinerante.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 30.
 
-Las Agencias del Ministerio Público Centro Especializadas se organizarán de la siguiente manera:
+Las Agencias del Ministerio Público Especializada Centro, se organizaran de la siguiente manera:
 
-I. Homicidio;
+I.- Adolescentes en conflicto con la ley penal;
 
-Il. Robo a casa-habitación y comercio;
+II.-De la Atención a la mujer Victima de Violencia Familiar; y
 
-III. Adolescentes en conflicto con la ley penal;
-
-IV. Abigeato;
-
-V. De Atención a la Mujer Victima de Violencia Familiar;
-
-VI. De Alcoholes; y
-
-VII. Otras.
+III.- Las que en su caso acuerde el procurador.
 
 ###### ARTÍCULO 31.
 
@@ -849,7 +969,9 @@ XI.- Proporcionar a la Dirección de Consulta, Amparo e Inconformidades, la info
 
 XII.- Velar que en el caso de adolescentes en conflicto con la ley penal, los elementos a su mando actúen de acuerdo a la regulación que contiene la ley de la materia.
 
-La Dirección de Policía Ministerial estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los Subdirectores, Coordinadores, Jefes de Departamento, Jefes de Grupo, Jefes de Grupos Tácticos Operativos y demás personal que se requiera para satisfacer las necesidades del servicio.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+La Dirección de Policía Ministerial estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los Subdirectores, Coordinadores Regionales, Coordinadores, Jefes de Departamento, Jefes de Grupo, Jefes de Grupos Tácticos Operativos y demás personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO IV. DIRECCIÓN GENERAL DE LOS SERVICIOS PERICIALES
 
@@ -1059,61 +1181,69 @@ I.- Las establecidas en las fracciones I, IV y IX del artículo 40 este (sic) Re
 
 ### CAPÍTULO II. DIRECCIÓN GENERAL DE ASUNTOS INTERNOS Y CONTRALORÍA
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 42.
 
-La Dirección General de Asuntos Internos y Contraloría tendrá las siguientes atribuciones:
+La Dirección General de Asuntos Internos y Contraloría, tendrá las siguientes atribuciones:
 
 I.- Recibir las quejas que por faltas o incumplimiento de las obligaciones de los servidores públicos presenten los particulares, los titulares de las unidades administrativas y demás personal de la Institución;
 
 II.- Realizar la investigación correspondiente e integrar los expedientes relativos conforme a las normas y procedimientos establecidos por la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos, la Ley Orgánica de la Procuraduría General de Justicia del Estado, este Reglamento y las demás disposiciones legales aplicables;
 
-III.- Realizar a petición de parte o de manera oficiosa, visitas de inspección y revisión a las distintas unidades orgánicas de la Institución, verificando desde el punto de vista legal, técnico y administrativo que los servidores públicos de la Institución cumplan con las políticas operativas, ordenamientos en vigor y criterios normativos establecidos para mejorar el servicio, informando al Procurador de las observaciones y recomendaciones conducentes, y en su caso, estableciendo las medidas adecuadas para su cumplimiento;
+III.- Requerir a los Subprocuradores, Delegados Regionales y Titulares de las Unidades Administrativas la información necesaria para la debida integración de los procedimientos administrativos y el desempeño de sus funciones;
 
-IV.- Requerir a los Subprocuradores, Delegados Regionales y Titulares de las Unidades Administrativas la información necesaria para la debida integración de los procedimientos administrativos y el desempeño de sus funciones;
+IV.- Ordenar las medidas cautelares que legalmente proceda aplicar a los servidores públicos en los procedimientos administrativos que se integren con motivo de las irregularidades cometidas en el ejercicio de sus funciones, así como emitir los acuerdos correspondientes, con motivo de la integración de los procedimientos Administrativos;
 
-V.- Proponer al Procurador las medidas cautelares y sanciones que legalmente proceda aplicar a los servidores públicos en los procedimientos administrativos que se integren con motivo de las irregularidades cometidas en el ejercicio de sus funciones;
+V.- Desarrollar y actualizar el sistema de registro de sanciones administrativas impuestas a los servidores públicos de esta Procuraduría, en los términos de la Ley de Responsabilidades de los Servidores Públicos y en coordinación con la Secretaría de Contraloría;
 
-VI.- Integrar la documentación y hacer del conocimiento del Ministerio Publico, cuando de las investigaciones realizadas en el procedimiento administrativo se derive la posible comisión de algún delito;
+VI.- Requerir informes a los Subprocuradores, Delegados Regionales y Titulares de las Unidades Administrativas o al Ministerio Público responsable de la integración de las Averiguaciones Previas, relacionadas con los procedimientos administrativos de responsabilidad, así como a los Agentes del Ministerio Público Adscritos a los juzgados de primera instancia, la información relativa con los procesos penales instaurados en contra de servidores públicos de esta Institución;
 
-VII.- Desarrollar y actualizar el sistema de registro de sanciones administrativas impuestas a los servidores públicos de esta Procuraduría, en los términos de la Ley de Responsabilidades de los Servidores Públicos y en coordinación con la Secretaría de Contraloría;
+VII.- Remitir, previa solicitud, a las dependencias Estatales y Federales competentes, los antecedentes de sanciones administrativas graves que se hayan aplicado a los servidores públicos de esta Procuraduría;
 
-VIII.- Elaborar y actualizar permanentemente el censo de los Servidores públicos para los efectos previstos en la Ley correspondiente;
+VIII.- Verificar en coordinación con la Dirección o el Departamento de Recursos Humanos, y el Instituto de Capacitación y Profesionalización, si el personal propuesto para ascender de categoría o el que pretende ingresar a esta Procuraduría ha sido sancionado administrativamente con anterioridad por violaciones a la Ley de Responsabilidades de los Servidores Públicos;
 
-IX.- Verificar en coordinación con la Dirección o el Departamento de Recursos Humanos, y el Instituto de Capacitación y Profesionalización, si el personal que pretende ingresar a esta Procuraduría ha sido sancionado administrativamente con anterioridad por violaciones a la Ley de Responsabilidades de los Servidores Públicos;
+IX.- Vigilar que los procedimientos que se instauren en contra de cualquier servidor público de la Procuraduría, se desarrollen con el mayor sigilo y la confidencialidad correspondiente;
 
-X.- Verificar que se cumplan los procedimientos que establece la normatividad de la Procuraduría, para el otorgamiento de las armas de cargo y patrullas, así como, en su caso, para la devolución de las mismas, además de llevar el control y seguimiento de la distribución de las armas y municiones que se encuentran resguardadas en el banco de armas;
+X.- Realizar a petición de parte o de manera oficiosa, visitas de inspección y revisión a las distintas unidades orgánicas de la Institución, verificando desde el punto de vista legal, técnico y administrativo que los servidores públicos de la Institución cumplan con las políticas operativas, ordenamientos en vigor y criterios normativos establecidos para mejorar el servicio, informando al Procurador de las observaciones y recomendaciones conducentes, y en su caso, estableciendo las medidas adecuadas para su cumplimiento;
 
-XII (SIC).- Supervisar que los recursos financieros autorizados a la Procuraduría, sean ejercidos de conformidad con las necesidades del servicio y las partidas presupuestales correspondientes;
+XI.- Elaborar y actualizar permanentemente el censo de los Servidores públicos para los efectos previstos en la Ley correspondiente;
 
-XIII.- Vigilar el ejercicio del presupuesto y sus erogaciones, los convenios y contratos en los que la Procuraduría sea parte y afecten su presupuesto, en coordinación con la Secretaría de Contraloría;
+XII.- Verificar que se cumplan los procedimientos que establece la normatividad de la Procuraduría, para el otorgamiento de las armas de cargo y patrullas, así como, en su caso, para la devolución de las mismas;
 
-XIV.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de las Subdirecciones y las unidades que le son adscritas;
+XIII.- Intervenir en la práctica de los exámenes toxicológicos para detectar el posible abuso o consumo de drogas, que se apliquen a los aspirantes y servidores públicos de la Procuraduría, con el fin de dar fe y hacer constar la realización de los mismos y sus resultados, levantando el acta circunstanciada que sirva de base para sustanciar cualquier procedimiento legal y administrativo que proceda;
 
-XV.- Requerir informes a los Subprocuradores, Delegados Regionales y Titulares de las Unidades Administrativas o al Ministerio Público responsable de la integración de las Averiguaciones Previas, relacionadas con los procedimientos administrativos de responsabilidad, así como a los Agentes del Ministerio Público Adscritos a los juzgados de primera instancia, la información relativa con los procesos penales instaurados en contra de servidores públicos de esta Institución;
+XIV.- Contestar las demandas laborales y los juicios contenciosos administrativos en que sea parte la Procuraduría General de Justicia del Estado, así como darle seguimiento hasta su total conclusión;
 
-XVI.- Remitir, previa solicitud, a las dependencias Estatales y Federales competentes, los antecedentes de sanciones administrativas graves que se hayan aplicado a los servidores públicos de esta Procuraduría;
+XV.- Proporcionar asesoría en materia laboral a las diversas áreas adscritas a la Procuraduría;
 
-XVII.- Intervenir en la práctica de los exámenes toxicológicos para detectar el posible abuso o consumo de drogas, que se apliquen a los aspirantes y servidores públicos de la Procuraduría, con el fin de dar fe y hacer constar la realización de los mismos y sus resultados, levantando el acta circunstanciada que sirva de base para sustanciar cualquier procedimiento legal y administrativo que proceda;
+XVI.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de las Subdirecciones y las unidades que le son adscritas; y
 
-XVIII.- Vigilar que los procedimientos que se instauren en contra de cualquier servidor público de la Procuraduría, se desarrollen con el mayor sigilo y la confidencialidad correspondiente;
-
-XIX.- Rendir informe mensualmente al Procurador, de las actividades desarrolladas dentro de su área de responsabilidades;
-
-XX.- Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Procuraduría;
-
-XXI.- Vigilar que los Agentes del Ministerio Publico y Policía Ministerial respeten los derechos humanos y las garantías individuales de los ciudadanos;
-
-XXII.- Turnar a la Secretaría de Contraloría del Estado y a las autoridades competentes, los expedientes y documentación relativos a la investigación y auditorías practicadas, si de las mismas derivaren responsabilidades administrativas o penales, para los efectos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado;
-
-XXIII.- Formular un programa anual de auditorías bajo la normatividad y asesoría de la Secretaría de Contraloría, sometiéndola a la aprobación del Procurador para su instrumentación y ejecución;
-
-XXIV.- Contestar las demandas laborales y los juicios contenciosos administrativos en que sea parte la Procuraduría General de Justicia del Estado, así como darle seguimiento hasta su total conclusión;
-
-XXV.- Rendir los informes previos y justificados que los Juzgados de Distrito requieran con motivo de los juicios de amparo promovidos por los servidores públicos sancionados; y
-
-XXVI.- Proporcionar asesoría en materia laboral a las diversas áreas adscritas a la Procuraduría.
+XVII.- Rendir informe mensualmente al Procurador, de las actividades desarrolladas en la Dirección.
 
 La Dirección General de Asuntos Internos y Contraloría estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por los Subdirectores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 42 BIS. Compete a las Subdirecciones de la Dirección General de Asuntos Internos y Contraloría, ejercer las siguientes facultades:
+
+A.- Subdirección de Asuntos Internos:
+
+I.- Las establecidas en las fracciones I a la XI y XIII del Artículo 42 de este Reglamento; y
+
+II.- Las demás que por necesidades del servicio le encomiende el Director General de Asuntos Internos y Contraloría.
+
+B.- Subdirección de Contraloría:
+
+I.- Las establecidas en las fracciones X, XI, XII y XIII del Artículo 42 de este Reglamento; y
+
+II.- Las demás que por necesidades del servicio le encomiende el Director General de Asuntos Internos y Contraloría.
+
+C.- Subdirección de Asuntos Laborales:
+
+I.- Las establecidas en las fracciones XIV y XV del Artículo 42 de este Reglamento; y
+
+II.- Las demás que por necesidades del servido le encomiende el Director Generar de Asuntos Internos y Contraloría.
 
 ### CAPÍTULO IV (SIC). DIRECCIÓN GENERAL DE INFORMÁTICA Y ESTADÍSTICA
 
@@ -1305,19 +1435,33 @@ IV.- Los representantes del sector social y privado que pertenezcan a la Delegac
 
 Los servidores públicos de la Procuraduría se suplirán de la manera siguiente:
 
-l.- El Procurador, por el Subprocurador de Procesos y en ausencia de éste por el Subprocurador de Investigaciones;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+I.- El Procurador, por el Subprocurador de Procesos y en ausencia de éste por el Subprocurador de Investigaciones y en caso de ausencia de esté ultimo por el Subprocurador de Eventos de Impacto Social;
 
 II.- El Subprocurador de Procesos, por el Director de Control de Procesos y en ausencia de éste, por quien designe el Procurador;
 
 III.- El Subprocurador de Investigaciones, por el Director de Averiguaciones Previas Centro y en ausencia de éste por quien designe el Procurador;
 
-IV.- Los Directores, por el Subdirector que designe el Subprocurador respectivo;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
-V.- Los Agentes del Ministerio por quien designe el Director del área de su adscripción;
+IV.- El Subprocurador de Eventos de Impacto Social, por quien designe el Procurador;
 
-VI.- Los Asesores Jurídicos y los Conciliadores en materia penal, por quien designe el Director General de Prevención del Delito y Servicios a la Comunidad; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
-VII.- Cuando la ausencia de los Servidores Públicos comprendidos en las fracciones II, III, IV, V; y VI exceda de tres días, la suplencia será acordada por el Procurador o los Subprocuradores, según corresponda.
+V.- Los Directores, por el Subdirector que designe el Subprocurador respectivo;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Los Agentes del Ministerio por quien designe el Director del área de su adscripción;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+VII.- Los Asesores Jurídicos y los Conciliadores en materia penal, por quien designe el Director General de Prevención del Delito y Servicios a la Comunidad; y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+VIII.- Cuando la ausencia de los Servidores Públicos comprendidos en las fracciones II, III, IV, V, VI, y VII exceda de tres días, la suplencia será acordada por el Procurador o los Subprocuradores, según corresponda.
 
 ## TÍTULO DUODÉCIMO. DE LAS EXCUSAS DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA
 
@@ -1378,3 +1522,9 @@ PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.
 P.O. 28 DE JULIO DE 2007.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos materia de la competencia de la Subprocuraduría de Eventos de Impacto Social, cuya investigación se haya iniciado previamente a su creación, serán atraídos por ésta para que continúe el trámite correspondiente hasta su conclusión.
