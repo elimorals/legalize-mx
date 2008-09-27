@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pensiones-para-los-trabajadores-al-servicio-del-11678"
 country: "mx"
 rank: "ley"
 publication_date: "1997-07-30"
-last_updated: "1997-07-30"
+last_updated: "2008-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de julio de 1997.
 
@@ -225,7 +225,9 @@ III.- El derecho a pensión por invalidez se otorgará a los trabajadores que se
 
 a).- A causa o consecuencia del servicio cualesquiera que sea el tiempo del mismo, con el 100 por ciento de sus percepciones; y
 
-b).- Por causas ajenas al servicio cuando tengan 5 años o más de antigüedad, previo dictamen emitido por la Dirección de Medicina del Trabajo del ISSSTE.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+b).- Por causas ajenas al servicio cuando tengan 5 años o más de antigüedad, previo dictamen colegiado emitido por el área de medicina del trabajo de los Servicios de Salud de Nayarit.
 
 EI derecho al pago de esta pensión comienza a partir del día siguiente al de la fecha en que el trabajador causa baja motivada por la inhabilitación.
 
@@ -323,7 +325,9 @@ El otorgamiento de la pensión por riesgo de trabajo o por invalidez total o par
 
 I.- Solicitud del trabajador o de sus representantes legales; y
 
-II.- Dictamen colegiado por la Dirección de Medicina del Trabajo del ISSSTE, que certifique la existencia del estado de invalidez total o parcial permanente, en los términos del convenio celebrado con dicha institución.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
+II.- Dictamen colegiado por el área de medicina del trabajo de los Servicios de Salud de Nayarit, que certifique la existencia del estado de invalidez total o parcial permanente.
 
 ###### ARTICULO 24.
 
@@ -363,9 +367,11 @@ La cuota diaria de la pensión que se conceda o se pague conforme a la Ley, en n
 
 La invalidez se reputará como causa o consecuencia del servicio cuando ocurra en las circunstancias o con las características consignadas en esta Ley, en el Estatuto Jurídico o en la Ley Federal del Trabajo en su Título Noveno relativo a Riesgos de Trabajo de aplicación supletoria a los ordenamientos anteriormente indicados.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 31.
 
-Independientemente de lo dispuesto por el artículo anterior la invalidez o la muerte a causa o consecuencia del servicio se probará con el dictamen colegiado expedido por la Dirección de Medicina del Trabajo del ISSSTE.
+Independientemente de lo dispuesto por el artículo anterior la invalidez o la muerte a causa o consecuencia del servicio se probarán con el dictamen colegiado expedido por el área de medicina del trabajo de los Servicios de Salud de Nayarit.
 
 ###### ARTICULO 32.
 
@@ -536,3 +542,11 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno.
 
 Lic. Sigfrido de la Torre Miramontes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2008.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno de (sic) Estado de Nayarit.
+
+Artículo Segundo.- Los expedientes que se encuentren en procedimiento a la entrada en vigor serán remitidos de inmediato, con todos sus antecedentes, al área de medicina del trabajo de los Servicios de Salud de Nayarit, a fin de que ésta proceda a dictaminarlos conforme corresponda.
