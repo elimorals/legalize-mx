@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2008-07-19"
+last_updated: "2008-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -2655,19 +2655,11 @@ La remisión del original del expediente, del duplicado o del testimonio, deber�
 
 Recibido el expediente original, el duplicado o el testimonio de apelación, el magistrado ponente dentro del plazo de tres días dictará auto de radicación en el que se calificará la admisión y los efectos de la apelación. Declarada mal admitida la apelación, se devolverán los autos al inferior; revocada o modificada la calificación de los efectos de la apelación se procederá en su consecuencia.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 364.
 
-Cuando alguna de las partes quisiera ofrecer pruebas, lo hará dentro de los tres días siguientes al en que se le notifique la radicación del recurso. Al promoverlas se expresará la naturaleza y objeto de las mismas.
-
-La Sala, dentro de tres días siguientes a la fecha en que se presentó la promoción, decidirá, sin más trámite, si son de admitirse o no las pruebas.
-
-Las pruebas que se admitan, se desahogarán dentro del plazo de diez días, con sujeción a las reglas establecidas por este Código.
-
-Con excepción de la documental, no se admitirán medios de prueba cuando se apele un auto. Se procederá de igual forma cuando el apelante sea el Ministerio Público y se trate de sentencia.
-
-La prueba testimonial sólo se admitirá en segunda instancia respecto de hechos que no hubieran sido materia de examen en la primera.
+Cuando el Tribunal, una vez que tenga los autos a la vista para resolver, estime necesaria, para ilustrar su criterio, la práctica de alguna, diligencia, podrá decretarla para mejor proveer, con citación de las partes, y la desahogará dentro del plazo de 10 días, con sujeción a las reglas establecidas por este Código para el desahogo de las pruebas.
 
 ###### ARTICULO 365.
 
@@ -2687,9 +2679,11 @@ El tribunal podrá cambiar la clasificación del delito únicamente en apelació
 
 Cuando el Juzgador de apelación advierta que el Juez de Primera Instancia no tenía competencia, remitirá el expediente al Juzgado competente, por conducto del Juzgador incompetente, comunicando a éste que debe inhibirse. En éste caso serán válidas todas las actuaciones practicadas por el Juzgado incompetente, salvo la sentencia definitiva, en su caso.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 369.
 
-Cuando el Tribunal una vez que tenga los autos a la vista para resolver, estime necesaria, para ilustrar su criterio, la práctica de alguna diligencia, podrá decretarla para mejor proveer, con citación de las partes y la desahogará dentro del plazo de diez días con sujeción a las reglas establecidas por este Código, para el desahogo de pruebas.
+Las pruebas que se decreten para mejor proveer se desahogarán dentro del plazo a que se refiere el artículo 364 y con sujeción a las reglas establecidas por este Código.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -3256,3 +3250,7 @@ P.O. 21 DE JULIO DE 2007.
 P.O. 19 DE JULIO DE 2008.
 
 ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
