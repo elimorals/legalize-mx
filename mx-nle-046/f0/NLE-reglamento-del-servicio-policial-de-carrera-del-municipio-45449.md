@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-policial-de-carrera-del-municipio-45449
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-27"
-last_updated: "2005-06-27"
+last_updated: "2008-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 27 de junio de 2005.
 
@@ -175,7 +175,9 @@ IV.- Haber cumplido con el Servicio Militar, con excepción de las mujeres;
 
 V.- No haber sido condenado mediante sentencia irrevocable por delito doloso ni estar sujeto a proceso penal;
 
-VI.- Acreditar que ha concluido los estudios correspondientes a la secundaria
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Acreditar que ha concluido los estudios correspondientes a la educación de tipo medio superior;
 
 VII.- Haber realizado y aprobar, el curso de formación básica inicial para policía Preventivo impartido por la Academia de Policía Municipal;
 
@@ -347,7 +349,9 @@ E).- De Subinspector a Inspector y de Inspector a Coordinador Operativo:
 
 2.- Someterse y aprobar los exámenes Psicológico, Físico, Médico, Toxicológico y el de mérito. Además de los que determine el Comité.
 
-Además de todo lo anterior, satisfacer el perfil Psicológico exigido por el Servicio Policial de Carrera para cada uno de los grados.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+Además de todo lo anterior, y para todos los grados precedentemente enunciados, se requerirá acreditar que ha concluido los estudios correspondientes a la educación de tipo medio-superior, certificar que ha sido aprobado en la prueba anual de confianza, así como, satisfacer el perfil psicológico exigido por el Servicio Policial de Carrera para cada uno de los grados.
 
 ###### ARTÍCULO 34.
 
@@ -633,7 +637,9 @@ III.- Cambio de Adscripción;
 
 IV.- Suspensión de 1 a 5 días; y,
 
-V.- Cese.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+V.- Destitución del cargo.
 
 ###### ARTÍCULO 70.
 
@@ -769,63 +775,11 @@ XIII.- No poner de inmediato a disposición de los superiores jerárquicos a los
 
 XIV.- Por mal comportamiento respecto a sus subalternos o superiores.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 77.
 
-Serán causas de cese del servicio de los miembros de la Policía sin responsabilidad para el Municipio Independientemente del supuesto a que se refiere el artículo 123, Apartado B, fracción XIII, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, según corresponda, las siguientes:
-
-I.- Abandonar o suspender el servicio o la comisión que desempeñe;
-
-II.- Tomar parte activa en su carácter de policía en servicio, en manifestaciones, mítines y cualquier otra reunión de carácter político;
-
-III.- No guardar discreción respecto a las actividades del servicio;
-
-IV.- Acumular más de tres faltas continuas o más de cuatro discontinuas en un periodo de treinta días naturales;
-
-V.- Acumular más de 3 arrestos en un mes o más de 6 en un año;
-
-VI.- Acumular más de dos cambios de adscripción o de comisión impuestos como sanción, o más de dos suspensiones en un año;
-
-VII.- Recibir donativos, regalos o dádivas de cualquier especie, así como aceptar ofrecimientos o promesas para el cumplimiento u omisión del servicio;
-
-VIII.- Valerse de su investidura para cometer cualquier acto que no sea de su competencia;
-
-IX.- Apropiarse de los instrumentos u objetos producto de la comisión de delitos o faltas que sean propiedad o se encuentren en posesión de las personas que detengan, así como de aquellas a las que presten auxilio;
-
-X.- Vender o dar en garantía armamento o equipo propiedad del Estado o Municipio que se les asigne para el desempeño de sus servicios; o deteriore reiteradamente por negligencia;
-
-XI.- Presentarse al desempeño del servicio o comisión en estado de ebriedad, con aliento alcohólico o bajo el influjo de sustancias tóxicas, enervantes o psicotrópicos, así como ingerir bebidas alcohólicas o sustancias de las señaladas durante ellos;
-
-XII.- Presentarse uniformados en cantinas o cualquier otro establecimiento donde se consuman bebidas alcohólicas, a no ser que sea requerido para el desempeño de sus funciones o se trate de la detención de un presunto delincuente;
-
-XIII.- Por desacato injustificado a las órdenes de sus superiores;
-
-XIV.- Revelar asuntos secretos o reservados de los que tenga conocimiento con motivo del servicio;
-
-XV.- Presentar cualquier documento alterado o informes ajenos a la verdad y realidad de los hechos de los que tenga conocimiento o se le haya encomendado;
-
-XVI.- Obligar o sugerir a sus subalternos a entregarles dinero, o cualquier otro tipo de dádivas;
-
-XVII.- Comprometer con su imprudencia, descuido o negligencia la seguridad donde preste sus servicios;
-
-XVIII.- Aplicar a sus subalternos en forma dolosa, sanciones administrativas sin tener facultad para ello o sin causa justificada;
-
-XIX.- Cuando sea practicado en cualquier tiempo, dentro y fuera del servicio, el examen antidoping y éste le resulte positivo;
-
-XX.- Cuando exista motivo razonable de pérdida de la confianza;
-
-XXI.- Por notoria deficiencia o negligencia en el mando, ocasionando con ello mala actuación en el servicio;
-
-XXII.- Por incurrir en actos contrarios al honor y la lealtad;
-
-XXIII.- Externar o incitar a la rebeldía con sus subalternos o superiores, con independencia de alguna otra sanción que le resulte;
-
-XXIV.- Incitar al personal bajo su mando a romper la armonía y disciplina;
-
-XXV.- Dictar órdenes que lesionen el decoro y la dignidad de los subalternos; y,
-
-XXVI.- No prestar el auxilio y ayuda requeridos por cualquier causa a los compañeros, subalternos o superiores, con motivo del servicio o condición.
-
-Las causas de cese del servicio serán independientes de las responsabilidades civiles o pendes en que puedan incurrir los elementos.
+Para los efectos de las causas y procedimientos tendientes a la destitución del cargo a que están sujetos los elementos operativos de la Secretaría de Seguridad, este Reglamento se remite a lo dispuesto en el capítulo respectivo de la Ley de Seguridad del Estado de Nuevo León.
 
 ###### ARTÍCULO 78.
 
@@ -998,3 +952,15 @@ C. LIC. GUSTAVO RAMÍREZ VILLARREAL
 SECRETARIO DEL R. AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, a los 26-veintiséis días del mes de Mayo del 2005-dos mil cinco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO
+
+Para el caso de los elementos operativos en activo de la Secretaria de Seguridad del Municipio de San Nicolás de los Garza, Nuevo León, que al momento de la entrada en vigor de la presente reforma, no tengan acreditada la conclusión de la educación de tipo media-superior, se les establece la obligación como requisito de permanencia dentro de la institución, que en un lapso no mayor a cuatro años contados a partir de la entrada en vigor de la citada reforma, acrediten la conclusión de la educación de tipo medio-superior, misma que será proporcionada mediante el programa que el gobierno municipal establezca para la consecución de dicho fin.
+
+###### ARTÍCULO SEGUNDO
+
+La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
