@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2008-07-08"
+last_updated: "2008-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -163,11 +163,15 @@ VIII. Secretaría de Turismo;
 
 IX. Secretaría de Pesca y Acuacultura;
 
-X. Oficialía Mayor de Gobierno;
+> <small>(ADICIONADA, B.O. 29 DE SEPTIEMBRE DE 2008)</small>
 
-XI. Procuraduría General de Justicia; y
+X. Secretaría del Trabajo y Previsión Social;
 
-XII. Contraloría General del Estado.
+XI. Oficialía Mayor de Gobierno;
+
+XII. Procuraduría General de Justicia; y
+
+XIII. Contraloría General del Estado.
 
 ###### ARTÍCULO 17.
 
@@ -211,7 +215,7 @@ d) Prestar al Poder Judicial del Estado, el auxilio para el debido cumplimiento 
 
 e) Asesorar y apoyar a los Ayuntamientos, cuando lo soliciten, para el desempeño de sus funciones;
 
-f) Ejercer las facultades que le corresponden al Poder Ejecutivo del Estado en materia de trabajo y previsión social;
+f) (DEROGADO, B.O. 29 DE SEPTIEMBRE DE 2008)
 
 g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leyes o decretos que formule el Gobernador del Estado; así como ordenar la publicación en el Boletín Oficial del Gobierno del Estado las leyes, decretos, reglamentos, acuerdos y demás disposiciones de carácter general que deban regir en el Estado;
 
@@ -251,7 +255,7 @@ f) Ejercer las atribuciones de la representación jurídica gratuita en materia 
 
 g) Organizar y vigilar el funcionamiento de la Defensoría de Oficio;
 
-h) Vigilar la observancia y aplicación de la Ley Federal del Trabajo; y
+h) (DEROGADO, B.O. 29 DE SEPTIEMBRE DE 2008)
 
 i) Participar con las demás dependencias del Poder Ejecutivo, en la modernización y simplificación del ordenamiento jurídico y administrativo.
 
@@ -317,7 +321,7 @@ a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado
 
 b) Elaborar y presentar al Gobernador del Estado los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a éste último, haciéndolos previamente compatibles con la disponibilidad de recursos;
 
-c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Económico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
+c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Ecónomico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
 
 d) Establecer los sistemas que permitan una mayor racionalidad en el aprovechamiento de los recursos financieros;
 
@@ -851,6 +855,64 @@ n).- Colaborar con las instancias correspondientes, en la instrumentación y ope
 
 IV.- Las demás que le señalen las leyes aplicables en la entidad.
 
+> <small>(ADICIONADO, B.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 29 BIS.- A la Secretaría del Trabajo y Previsión Social, le corresponden las siguientes atribuciones:
+
+I.- En materia jurídica laboral:
+
+a) Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el Artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos;
+
+b) Conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos de la entidad, así como, ejercer facultades de designación y coordinación de los organismos de justicia laboral;
+
+c) Atender y resolver los asuntos que conforme a la Ley Federal del Trabajo le competan al Ejecutivo Estatal;
+
+d) Dar seguimiento a los asuntos encomendados a las entidades sectorizadas a la Secretaría, que así lo ameriten;
+
+e) Proponer al Ejecutivo Estatal los proyectos de Iniciativas de Ley, reglamentos, decretos, acuerdos y demás disposiciones de carácter general sobre asuntos de naturaleza laboral;
+
+f) Dar seguimiento a los convenios y programas coordinados con la Federación en materia laboral;
+
+g) Coordinar el establecimiento y la integración de la Junta Local de Conciliación y Arbitraje del Estado, así como las Especiales que se instalen en el territorio estatal, así como proponer a dicha instancia laboral en estricto respeto a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la administración de justicia laboral en el Estado;
+
+h) Fomentar la creación y participar en las comisiones o comités que se instalen en materia laboral;
+
+i) Intervenir conciliatoriamente en los conflictos que se deriven de la aplicación y administración de los contratos colectivos de trabajo, recomendando el cumplimiento y la observancia de las disposiciones legales, reglamentarias y condiciones de trabajo pactadas;
+
+j) Procurar la conciliación de los conflictos laborales colectivos o individuales con el objeto de que las partes resuelvan sus diferencias mediante la celebración de convenios;
+
+k) Vigilar que se proporcione asesoría gratuita en materia laboral a los sindicatos y trabajadores que así lo soliciten, por conducto de la Procuraduría de la Defensa del Trabajo;
+
+I) Actualizar a partir de su registro, la estadística de los sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales y profesionales, la cual será pública en términos de la Ley de la materia;
+
+m) Refrendar o suscribir convenios y acuerdos de colaboración según corresponda, con autoridades, instituciones u organizaciones federales, estatales o municipales; y
+
+n) Las demás que le asigne el Ejecutivo del Estado y otras disposiciones legales y administrativas aplicables.
+
+II.- En materia de Previsión Social:
+
+a) Participar en la planeación de la capacitación y adiestramiento de los trabajadores ya sean del sector público o privado, a través del Instituto de Capacitación de los Trabajadores del Estado de Baja California Sur.
+
+b) Expedir constancias de habilidades laborales, en coordinación con la autoridad educativa;
+
+c) Participar en la integración y funcionamiento del Consejo Consultivo Estatal de Capacitación y Adiestramiento;
+
+d) Participar en la integración y funcionamiento de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+
+e) Vigilar la instalación y funcionamiento de las comisiones obrero patronales que ordene la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
+
+f) Promover el incremento de la productividad del trabajo en el territorio estatal en coordinación con la Secretaría de Promoción y Desarrollo Económico;
+
+g) Promover la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que requieran el Estado, los Municipios y sectores productivos del Estado;
+
+h) Promover en coordinación con las autoridades competentes, la integración laboral de personas pertenecientes a grupos vulnerables, así como de aquellas recluidas en los Centros de Readaptación Social del Estado;
+
+i) Llevar las estadísticas estatales correspondientes a la materia del trabajo, de acuerdo con las disposiciones jurídicas aplicables;
+
+j) Promover la cultura y recreación entre los trabajadores sudcalifornianos y sus familias; y
+
+k) Las demás que le asigne el Ejecutivo del Estado y otras disposiciones legales y administrativas aplicables.
+
 ###### ARTÍCULO 30.
 
 La Oficialía Mayor de Gobierno, es la encargada de administrar los recursos humanos, materiales e informáticos; así como la contratación de los servicios necesarios para el funcionamiento de la Administración Pública Estatal, y le competen las siguientes atribuciones:
@@ -1328,3 +1390,21 @@ El Ejecutivo del Estado de Baja California Sur, contará con 90 días hábiles p
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 29 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Gobernador del Estado contará con un plazo de hasta el primero de enero del 2009, para instrumentar en la esfera administrativa la instalación, operación y funcionamiento de la Secretaría del Trabajo y Previsión Social. En tanto no se verifique lo anterior, la Secretaría General de Gobierno ejercerá las atribuciones a que se refiere el artículo 29 BIS del presente Decreto.
+
+TERCERO.- La Oficialía Mayor de Gobierno, llevará a cabo el cambio de adscripción de las dependencias de la Administración Pública Estatal que conforme a esta ley transfieran asuntos administrativos a otra dependencia, considerando el personal, sin perjuicio de sus derechos laborales adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que tales unidades hayan venido usando para la atención de las funciones que tuvieren encomendadas.
+
+CUARTO.- Para los efectos presupuestales y administrativos a que haya lugar, la Secretaría de Finanzas realizará los ajustes y traspasos presupuestales correspondientes. En consecuencia, se considerarán en el Presupuesto de Egresos correspondiente al ejercicio fiscal del 2009.
+
+QUINTO.- El decreto 669, publicado en el Boletín Oficial del Gobierno del Estado número 18, de fecha 30 de junio de 1988, mediante el cual se crea el Instituto de Capacitación y Desarrollo de los Trabajadores al Servicio de los Poderes del Estado, Municipios y Organismos Descentralizados en Baja California Sur, deberá adecuarse a lo dispuesto en el Artículo 29 BIS de la presente Ley, a mas tardar el 1 de enero del 2009, o en su caso en la fecha de entrada en funcionamiento de la Secretaría del Trabajo y Previsión Social.
+
+Para los efectos de las adecuaciones legales relacionadas con el presente artículo, el Ejecutivo del Estado contará con un plazo de hasta el primero de octubre del presente año, para presentar ante el Poder Legislativo del Estado, las iniciativas con proyectos de decretos que correspondan.
+
+SEXTO.- La Junta Local de Conciliación y Arbitraje, así como las Juntas Especiales, que se encuentren funcionando al momento de entrada en vigor del presente Decreto, mantendrán la estructura de sus órganos de gobierno, administración y vigilancia, señalados en su documento de creación, y deberán actualizarse en lo que corresponda, a lo dispuesto en el Artículo 29 BIS del presente Decreto, a mas tardar el 1 de enero del 2009, o en su caso en la fecha de entrada de funcionamiento de la Secretaría del Trabajo y Previsión Social.
+
+SÉPTIMO.- El Gobernador del Estado, expedirá el Reglamento de la Secretaría del Trabajo y Previsión Social; así como las adecuaciones necesarias a los Reglamentos Interiores de la Secretaría General de Gobierno y de Oficialía Mayor, según corresponda, a mas tardar el 1 de enero del 2009, o en su caso, en la fecha de entrada en funcionamiento de la Secretaría del Trabajo y Previsión Social. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
