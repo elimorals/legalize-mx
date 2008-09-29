@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-ayuntamiento-de-san-nicolas-de-los-4510
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-03"
-last_updated: "2005-06-03"
+last_updated: "2008-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de junio de 2005.
 
@@ -377,9 +377,11 @@ Son Acuerdos Económicos las resoluciones del Ayuntamiento que sin incidir direc
 
 Tienen la naturaleza de acuerdos económicos, las resoluciones que dicte el Cabildo respecto de su funcionamiento interior, en los casos previstos por este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría del Ayuntamiento dispondrá la compilación de los acuerdos y resoluciones del Cabildo, en orden progresivo y temático mediante los instrumentos y mecanismos que considere convenientes, a fin de brindar a sus integrantes el servicio de consulta y actualización que requieran para el ejercicio de sus funciones.
+La Secretaría del Ayuntamiento dispondrá la compilación de los acuerdos y resoluciones del Ayuntamiento, en orden progresivo y temático mediante los instrumentos y mecanismos que considere convenientes, a fin de brindar a sus integrantes el servicio de consulta y actualización que requieran para el ejercicio de sus funciones.
 
 La compilación a que se refiere el presente artículo deberá ponerse a disposición de la ciudadanía mediante la implementación de los programas de edición, publicación y difusión que al respecto se diseñen.
 
@@ -387,9 +389,11 @@ La compilación a que se refiere el presente artículo deberá ponerse a disposi
 
 ### CAPÍTULO I. DE LAS SESIONES
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 36.
 
-Para informar el avance de los planes y programas de la Administración y resolver los asuntos de interés común que les corresponden, el R. Ayuntamiento celebrará sesiones a través de las cuales se podrán tomar decisiones colegiadas vía acuerdo sobre las políticas generales de promoción del desarrollo y bienestar social de la población del Municipio.
+Para informar el avance de los planes y programas de la Administración y resolver los asuntos de interés común que les corresponden, el R. Ayuntamiento celebrará sesiones en las cuales tomará decisiones colegiadas vía acuerdo sobre las políticas generales de promoción del desarrollo y bienestar social de la población del Municipio.
 
 ###### ARTÍCULO 37.
 
@@ -429,7 +433,9 @@ Debiendo ser siempre Sesiones Solemnes:
 
 I.- Cuando se haga la toma de protesta del R. Ayuntamiento.
 
-II.- Las sesiones en las que se de la lectura del informe anual de la Administración por conducto del Presidente Municipal a la ciudadanía.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+II.- Las sesiones en las que se rinda el informe anual de la Administración por conducto del Presidente Municipal a la ciudadanía.
 
 III.- La Sesiones a las que concurra el Presidente de la República o el Gobernador del Estado.
 
@@ -438,6 +444,10 @@ IV.- Las sesiones a las concurran algún miembro de los poderes públicos federa
 V.- La (sic) sesiones en las que se entregue la “Medalla al Trabajo y Perseverancia Nicolaíta Don Diego Díaz de Berlanga”.
 
 VI.- En las que se haga entrega de las llaves de la Ciudad, se formalice algún hermanamiento, y algún otro premio o reconocimiento que el R. Ayuntamiento determine otorgar en ese tipo de Sesiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 40 BIS.- Entratándose de lo dispuesto por la fracción II del artículo anterior, se concederá el uso de la palabra hasta por cinco minutos, al o los representantes de las fracciones de los partidos políticos que integran el Ayuntamiento, que así lo soliciten.
 
 ###### ARTÍCULO 41.
 
@@ -591,7 +601,9 @@ III.- De Protección al Ambiente.
 
 IV.- De Salud Pública y Combate a las Adicciones.
 
-V.- De Seguridad Pública, Vialidad y Tránsito.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+V.- De Seguridad.
 
 VI.- De Transporte.
 
@@ -624,6 +636,10 @@ XIX.- De Patrimonio.
 XX.- De Equidad de Género.
 
 XXI.- De Atención a la Juventud.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+XXII.- De Planeación y Desarrollo Municipal.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS COMISIONES
 
@@ -691,7 +707,9 @@ D) Gestionar ante las autoridades municipales reportes de vecinos en materia de 
 
 E) Las demás que determine el Ayuntamiento.
 
-V.- DE SEGURIDAD PÚBLICA, VIALIDAD Y TRÁNSITO:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+V.- DE SEGURIDAD:
 
 A) Fomentar entre los ciudadanos medidas de orden público. Y proponer el uso de alta tecnología para la prevención de delitos y faltas administrativas.
 
@@ -906,6 +924,30 @@ C) Analizar la conveniencia de la realización de estudios, encuestas e informes
 D) Vigilar la actuación del Instituto Municipal de la Juventud de San Nicolás.
 
 E) Las demás que le confiera el Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2008)</small>
+
+XXII.- DE PLANEACIÓN Y DESARROLLO MUNICIPAL:
+
+A) Proponer al R. Ayuntamiento disposiciones legales y/o administrativas, normas y procedimientos tendientes a mejorar la Planeación y el Desarrollo Municipal;
+
+B) Asesorarse para establecer un diagnóstico base sobre la problemática de la Planeación y Desarrollo del Municipio;
+
+C) Proponer la instrumentación, evaluación y actualización de Planes, Programas o Proyectos orientados hacia el mejoramiento de la Planeación y el Desarrollo Municipal;
+
+D) Proponer al R. Ayuntamiento, modificaciones al Plan Municipal de Desarrollo;
+
+E) Proponer al Ayuntamiento la suscripción de convenios de colaboración, y en su caso asesoría en materia de Planeación y Desarrollo Municipal;
+
+F) Proponer y organizar estudios o investigaciones que coadyuven al mejoramiento de la Planeación y el Desarrollo Municipal;
+
+G) Promover políticas para la participación ciudadana en materia de Planeación y Desarrollo Municipal;
+
+H) Gestionar ante las autoridades municipales correspondientes las demandas ciudadanas en materia de Planeación y Desarrollo Municipal;
+
+I) Participar en el Consejo de Planeación y Desarrollo Municipal y/o en algún otro organismo público o privado relacionado con la materia;
+
+J) Las demás que le confiera el R. Ayuntamiento.
 
 ###### ARTÍCULO 65.
 
@@ -1180,3 +1222,11 @@ C. LIC. GUSTAVO RAMIREZ VILLARREAL
 SECRETARIO DEL R. AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, a los 13-trece días del mes de Mayo del 2005-dos mil cinco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
