@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2008-06-30"
+last_updated: "2008-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -255,15 +255,31 @@ Si de las diligencias practicadas no resultan elementos bastantes para hacer la 
 
 En la práctica de las diligencias de averiguación previa, se aplicarán en lo conducente las disposiciones del Capítulo Sexto de éste Código.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 28.
 
-Cuando el agente del Ministerio Público determinare que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido podrán ocurrir al Procurador General de Justicia, dentro de cinco días, contados desde que se les comunicó esa determinación, y este funcionario decidirá si ejercita o no la acción.
+Cuando el Agente del Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido podrán impugnar esa determinación dentro de cinco días, contados a partir del día siguiente en que surta efectos la notificación personal, ante el Procurador General de Justicia quien contará hasta con sesenta días naturales para emitir una resolución definitiva.
 
-> <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
+En caso de que lo resuelto por el Procurador General de Justicia del Estado en cuanto a los hechos que se hubieren denunciado como delictuosos, o por los que se hubiera presentado querella, sea contrario a las pretensiones del denunciante, el querellante o el ofendido, se podrán (sic) impugnar esa determinación mediante el recurso de queja ante la Sala Constitucional y Administrativa del Tribunal Superior de Justicia en el Estado, al tenor de lo dispuesto por el Artículo 20 apartado C, fracción VII de la Constitución Política de los Estados Unidos Mexicanos y del Artículo 107 de la Constitución Política del Estado.
+
+También será susceptible de impugnar mediante el presente recurso, la negativa del Agente Investigador a tener por admitida una denuncia de hechos, cuando ésta cumpla con los requisitos de ley; la abstención a resolver el ejercicio de la acción penal en la averiguación previa respectiva, o cuando el Procurador General de Justicia omita resolver el recurso interno en el término establecido.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
-Contra la resolución que el Procurador dicte en el caso del artículo anterior no cabe recurso alguno.
+La queja o que se refiere el artículo inmediato anterior, deberá hacerse por escrito ante la referida Sala Constitucional y Administrativa, dentro del término de diez días, contados a partir del día siguiente al que se notifique personalmente esa determinación al interesado; mientras no se notifique dicha resolución, no correrá el cómputo para interponer el recurso.
+
+En el acto de la notificación la autoridad ministerial, deberá hacer del conocimiento al interesado de la garantía consagrada en el Artículo 28 de este Código, así como el término concedido para tal efecto.
+
+El escrito que contenga el recurso de queja deberá exponer los procedentes de hecho que dieron origen a la averiguación previa, así como los agravios que le ocasiona al recurrente la resolución impugnada y se podrán anexar, las pruebas que sean tendientes exclusivamente para acreditar la existencia de omisiones en la actuación de la representación social.
+
+Una vez cumplida la presentación del escrito de queja, la Sala Constitucional y Administrativa procederá a requerir al Procurador General de Justicia para que le sean remitidas las constancias conducentes, en un término no mayor de diez días, con el fin de que, en única instancia, proceda a la substanciación del recurso hecho valer y resuelva en un término no mayor a los sesenta días naturales, si ha lugar al confirmar, revocar o modificar la determinación recurrida.
+
+Lo previsto en este y en el Artículo 28, será aplicable también en los casos de que el Procurador General de Justicia determine la reserva de la averiguación previa.
+
+La Sala Constitucional y Administrativa, para hacer cumplir sus determinaciones se sujetará a las disposiciones contenidas en el Capítulo IV del Titulo IV de la Ley de Justicia Administrativa del Estado de Quintana Roo.
 
 #### SECCION TERCERA.- Consignación ante los tribunales
 
@@ -319,17 +335,37 @@ V.- Pedir la aplicación de las sanciones respectivas; y
 
 VI.- En general, hacer todas las promociones que sean conducentes a la tramitación regular de los procesos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### Artículo 35.
 
-El Ministerio Público no ejercitará la acción penal:
+Se considera justificado el no ejercicio de la acción penal cuando:
 
-I.- Cuando los hechos de que conozca no sean constitutivos de delito;
+I.- La conducta materia de la indagatoria no sea constitutiva de delito, de conformidad a la descripción típica contenida en la Ley Penal;
 
-II.- Cuando aún pudiendo serlo, resulta imposible la prueba de la existencia de los hechos;
+II.- Aún pudiendo ser delictiva la conducta o los hechos de que se trate, resulte imposible la prueba de su acreditación por obstáculo material insuperable;
 
-III.- Cuando esté extinguida legalmente; y
+III.- La acción o la responsabilidad penal se haya extinguido legalmente, en los términos del Código Penal;
 
-IV.- Cuando el querellante o su representante otorguen el perdón.
+IV.- Se demuestre plenamente que el indiciado no tuvo participación en la conducta punible, en lo que respecta a su esfera jurídica;
+
+V.- De las diligencias practicadas se desprenda plenamente que el inculpado actuó bajo circunstancias excluyentes de incriminación;
+
+VI.- La conducta atribuible al indiciado haya sido materia de una sentencia penal ejecutoriada dictada con anterioridad;
+
+VII. El querellante o su representante otorguen el perdón.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 35
+
+BIS.- Las resoluciones de sobreseimiento dictadas por algún Juez en materia penal, con motivo de las peticiones de desistimiento de la acción penal que formule el Agente Ministerial, serán del conocimiento de la Sala Constitucional y Administrativa del Tribunal Superior de Justicia en única instancia.
+
+En estos casos el Juez deberá notificar su resolución a la persona denunciante, querellante, agraviada u ofendida o aquella que pueda resentir un agravio con dicha resolución, paro el efecto de estar en posibilidad de impugnarla mediante el recurso de inconformidad, que deberá interponer por escrito con expresión de agravios, ante el juez que la dictó, dentro de los cinco días posteriores a su notificación personal.
+
+Admitido el recurso, el Juez notificará y dará vista con lo actuado al Ministerio Público, al procesado y a su defensor, para que en el término de cinco días manifiesten lo que a su derecho corresponda, transcurrido ese tiempo deberá remitir las constancias conducentes a la Sala Constitucional y Administrativa, dentro de los diez días siguientes para su debida substanciación y se determine si ha lugar a confirmar, revocar o modificar el auto de sobreseimiento.
+
+En lo conducente, se aplicarán las disposiciones relativas al recurso de apelación.
 
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
@@ -3796,3 +3832,11 @@ SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se 
 P.O. 30 DE JUNIO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE SEPTIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO.- Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, se seguirán hasta su conclusión definitiva por la autoridad que corresponda, de conformidad con los lineamientos vigentes al momento que iniciaron.
