@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2006-11-03"
+last_updated: "2008-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1125,7 +1125,7 @@ ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 ARTICULO 81 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
-ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
+ARTICULO 81 QUARTER (SIC) (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1323,25 +1323,31 @@ Se entiende por ceremonial a las formalidades que deberán observarse durante la
 
 El Presidente, para abrir o cerrar las sesiones, usará respectivamente, las expresiones siguientes: "Se abre la sesión" y "Se levanta la sesión", seguido de un toque de timbre.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 101.
 
-El día Primero de Octubre de cada año, a las once horas, el Congreso del Estado abrirá su Primer Período de Sesiones Ordinario y después de cumplirse con las prescripciones de la fracción II del Artículo 50 y la fracción IV del Artículo 53, en lo que corresponda. La Sesión se sujetará al orden siguiente:
+El día primero de octubre de cada año, el Congreso del Estado abrirá su Primer Periodo Ordinario de Sesiones y después de cumplirse con las prescripciones de la fracción II del Artículo 50 y IV del Artículo 53, en lo que corresponda, la Sesión se sujetará al orden siguiente:
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+I. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2008)
 
-I.- Nombramiento de las Comisiones especiales, que introduzcan al recinto parlamentario y que acompañarán a su salida del mismo, al Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que asistan a la Sesión;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
-II.- Honores a la Bandera;
+II. Honores a la Bandera cuando corresponda al inicio del primer año de ejercicio de la Legislatura;
 
-III.- El Presidente del Congreso del Estado, concederá el uso de la palabra al Gobernador del Estado para que rinda el informe a que hace referencia el Artículo 49 de la Constitución Local;
+III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2008)
 
-IV.- El Presidente del Congreso hará uso de la palabra para hacer constar que se ha recibido el informe referido, y que se estudiará y discutirá en sesiones inmediatas, remitiéndolo a las Comisiones respectivas.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
-En esta Sesión solemne el Presidente del Congreso del Estado, esta impedido para hacer apreciaciones, calificar o emitir juicio con relación al contenido de dicho informe, asimismo no procederán intervenciones o interrupciones por parte de los Diputados asistentes durante la rendición que establece la fracción anterior y la recepción que establece la presente fracción;
+IV. El Presidente del Congreso hará uso de la palabra para anunciar la recepción del Informe General a que hace referencia el artículo 49, fracción V, de la Constitución Política del Estado;
 
-V.- El Presidente del Congreso del Estado, concederá la palabra a los representantes de los Poderes Federales que lo soliciten; y,
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
-VI.- Cumplido con lo dispuesto en las fracciones que anteceden, el Presidente del Congreso del Estado, levantará la Sesión, citando para la próxima.
+En esta Sesión el Presidente del Congreso del Estado, está impedido para hacer apreciaciones, calificar o emitir juicio con relación al contenido de dicho Informe. Asimismo no procederán intervenciones o interrupciones por parte de los Diputados asistentes.
+
+V. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2008)
+
+VI. Cumplido con lo dispuesto en las fracciones que anteceden, el Presidente del Congreso del Estado, levantará la Sesión, citando para la próxima.
 
 ###### ARTICULO 102.
 
@@ -1385,7 +1391,9 @@ I.- Se conmemoren aniversarios históricos;
 
 II.- Concurra el Presidente de la República;
 
-III.- Se declare la apertura del primer período ordinario de sesiones del Congreso del Estado en los términos establecidos en el Artículo 101 de esta Ley y concurra el Gobernador del Estado para rendir el informe a que se refiere el Artículo 49 de la Constitución Local;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+III.- Se declare la apertura del Primer Periodo Ordinario de Sesiones del Congreso del Estado en los términos establecidos en el Artículo 101 de esta Ley;
 
 IV.- Se imponga alguna presea o reconocimiento instituídos por el Congreso del Estado, o rindan su protesta los Magistrados del Poder Judicial; y,
 
@@ -1926,3 +1934,7 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 3 DE NOVIEMBRE DE 2006.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
