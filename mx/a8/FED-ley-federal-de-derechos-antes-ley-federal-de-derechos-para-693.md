@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2008-06-30"
+last_updated: "2008-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 28 DE ENERO DE 2008.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -421,7 +421,7 @@ otra característica migratoria de
 
 la calidad de no inmigrante $444.32 $444.00
 
-> <small>N. DE E. EN RELACION CON EL PAGO DE DERECHOS SEÑALADOS EN LA PRESENTE FRACCION VER ARTICULO PRIMERO DEL DECRETO POR EL QUE SE EXIME DEL MISMO, PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2008.</small>
+> <small>N. DE E. EN RELACION CON EL PAGO DE DERECHOS SEÑALADOS EN LA PRESENTE FRACCION VER ARTICULO UNICO DEL DECRETO POR EL QUE SE EXIME DEL MISMO, PUBLICADO EN EL D.O.F. DE 30 DE SEPTIEMBRE DE 2008.</small>
 
 (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 28 DE ENERO DE 2008)
 
@@ -29172,3 +29172,7 @@ El Servicio de Administración Tributaria podrá expedir las disposiciones de ca
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el 1 de julio de 2008.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
