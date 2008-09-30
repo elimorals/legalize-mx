@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2008-07-17"
+last_updated: "2008-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -1280,6 +1280,10 @@ La Secretaría esta facultada para cancelar de forma definitiva las licencias o 
 
 I.- Cuando el titular sea sancionado por segunda vez en un año, por conducir un vehículo en estado de ebriedad;
 
+> <small>(ADICIONADA, G.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+I Bis.- Cuando el titular sea sancionado por tercera ocasión en un periodo de tres o más años por conducir un vehículo en estado de ebriedad;
+
 II.- Cuando el titular cometa alguna infracción a la presente Ley o sus reglamentos, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas;
 
 III.- Cuando al titular se le sancione en dos ocasiones con la suspensión del permiso o la licencia de conducir;
@@ -1289,6 +1293,28 @@ IV.- Cuando se compruebe que la información proporcionada para su expedición s
 V.- Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular cause lesiones que pongan en peligro la seguridad o la vida de los usuarios, peatones o terceros.
 
 En el supuesto de haber sido cancelada o durante el término de suspensión del permiso o de la licencia para conducir, no procederá su expedición. En el primer caso, el titular deberá reintegrarla en un término de cinco días a partir de la respectiva notificación a la autoridad que la expidió; misma que realizará las anotaciones correspondientes en el Registro Público de Transporte.
+
+> <small>(ADICIONADO, G.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+Asimismo, el titular de la licencia o permiso cancelado, queda impedido para conducir automotores en el territorio del Distrito Federal con licencia o permiso expedido en otra entidad federativa o país.
+
+> <small>(ADICIONADO, G.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+El conductor que sea sorprendido infringiendo el párrafo anterior, se le impondrá una sanción de ciento ochenta días de salario mínimo y se remitirá el vehículo al depósito.
+
+> <small>(ADICIONADO, G.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+###### Artículo 64 Bis.
+
+Independientemente de las sanciones previstas en otros ordenamientos, la Secretaría suspenderá la licencia o permiso para conducir cuando el titular de la misma sea sancionado por conducir un vehículo automotor bajo los efectos del alcohol, en los siguientes términos:
+
+I. La primera ocasión, por un periodo de un año, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
+
+II. La segunda ocasión, por un periodo de tres años, quedando obligado el infractor a someterse a un tratamiento de combate a las adiciones que determine su rehabilitación en una institución especializada pública o privada.
+
+III. Por un año cuando el titular sea sancionado por primera ocasión por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
+
+IV. Por tres años cuando el titular sea sancionado por segunda ocasión en un periodo mayor a un año contado a partir de la primer sanción por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
 
 ###### Artículo 65.
 
@@ -2327,3 +2353,11 @@ G.O. 17 DE JULIO DE 2008.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 30 DE SEPTIEMBRE DE 2008.
+
+Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Remítase al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+Tercero.- Quedan sin efecto todas aquellas disposiciones que se opongan al contenido del presente decreto.
