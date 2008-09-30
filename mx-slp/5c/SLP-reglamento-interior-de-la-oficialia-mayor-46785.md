@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-oficialia-mayor-46785"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2005-08-27"
+last_updated: "2008-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 30 de julio de 2002.
 
@@ -53,7 +53,9 @@ c) Contraloría Interna.
 
 d) Dirección de Organización y Métodos.
 
-e) (DEROGADO, P.O. 27 DE AGOSTO DE 2005)
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+e) Dirección de Servicios Aéreos.
 
 II.- La Dirección General de Servicios Administrativos de la que, a su vez dependen directamente las siguientes Direcciones de Área:
 
@@ -62,6 +64,10 @@ a) Dirección de Control Patrimonial.
 b) Dirección de Servicios Generales.
 
 c) Dirección de Archivo General del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+d) Dirección de Relaciones Laborales.
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2005)</small>
 
@@ -75,9 +81,13 @@ c) Dirección de Servicio Médico.
 
 IV.- Dirección General de Adquisiciones de la que, dependen a su vez directamente las siguientes Direcciones de Área:
 
-a) Dirección de Compras y Adjudicaciones.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
-b) Dirección Jurídico-Administrativa.
+a) Dirección de Compras.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+b) Dirección de Procedimientos Jurídicos y Licitaciones.
 
 ###### ARTÍCULO 4°.
 
@@ -241,9 +251,31 @@ XXI.- Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y ma
 
 Corresponde a la Contraloría Interna las funciones señaladas en el artículo 19 del Reglamento Interno de la Contraloría General del Estado y demás disposiciones aplicables y lo que expresamente instruya el Contralor General del Estado y el Oficial Mayor, manteniendo informado sobre los resultados de sus actividades al titular de la Oficialía Mayor.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 12.
 
-(DEROGADO, P.O. 27 DE AGOSTO DE 2005)
+A la Dirección de Servicios Aéreos le competen las siguientes funciones:
+
+I. Administrar el uso de las aeronaves e instalaciones del hangar, para que se encuentren en óptimas condiciones de servicio, incluyendo para tal efecto el mantenimiento de los mismos;
+
+II. Gestionar ante la Dirección General de Aeronáutica Civil de la Secretaría de Comunicaciones y Transportes, así como de las autoridades competentes, las licencias de operación y funcionamiento tanto de las aeronaves como de los hangares del Estado;
+
+III. Realizar las gestiones necesarias ante la Dirección Administrativa de la Oficialía Mayor, para obtener los recursos y cumplir con las funciones encomendadas;
+
+IV. Elaborar y mantener actualizado los programas de mantenimiento preventivo de las aeronaves, de acuerdo a los manuales de mantenimiento de los fabricantes y boletines oficiales aplicables, .así como a los equipos auxiliares requeridos en los procesos de realización de vuelos;
+
+V. Supervisar que las aeronaves, se encuentren en óptimas condiciones mecánicas para su uso;
+
+VI. Formular y proponer el programa de capacitación y entrenamiento del personal y turnarlo para su autorización;
+
+VII. Vigilar que los pilotos de las aeronaves y mecánicos mantengan vigentes sus licencias, ante las autoridades competentes;
+
+VIII. Vigilar el cumplimiento de las leyes y normas de seguridad de vuelos para mantener la aeronavegabilidad de las unidades, así como con los requisitos establecidos por la Dirección General de Aeronáutica Civil;
+
+IX. Recabar los registros de vuelos y controlar el archivo de los mismos;
+
+X. Las demás que les señalen las leyes, decretos, acuerdos, reglamentos y manuales vigentes en la Oficialía.
 
 ###### ARTÍCULO 13.
 
@@ -453,71 +485,95 @@ VII.- Mantener actualizado el registro de altas y bajas de los trabajadores y su
 
 VIII.- Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor y lo que expresamente le encomiende el titular de la misma.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+ARTÍCULO 19 BIS.- Corresponden a la Dirección de Relaciones Laborales, las siguientes funciones:
+
+I. Coordinar y vigilar la correcta y oportuna atención y seguimiento de cualquier acto jurídico de orden laboral y administrativo interpuestos por cualquier actor en contra de la Oficialía Mayor del Ejecutivo, hasta la conclusión de sus laudos, condenas o convenios tomando para ello previo acuerdo con su superior inmediato;
+
+II. Elaborar y evaluar los formatos de contratos laborales y de prestación de servicios, previo acuerdo con su superior inmediato, manteniéndolos actualizados;
+
+III. Proporcionar servicio de asesoría y orientación en materia laboral a las Dependencias y Entidades del Poder Ejecutivo;
+
+IV. Ayudar en la formulación del presupuesto de la Dirección General de su adscripción y en particular elaborar el de su área y entregarlo de acuerdo a las fechas establecidas por la Dirección Administrativa de Oficialía Mayor;
+
+V. Participar con la Dirección General de Recursos Humanos en la coordinación necesaria con las distintas Dependencias e Instituciones del Ejecutivo, en materia de contrataciones y separaciones para que se apliquen adecuadamente los lineamientos y normatividad de la materia;
+
+VI. Gestionar y tramitar ante la Secretaría de Finanzas la liberación de recursos para el pago de los distintos compromisos derivados de actos jurídicos en materia laboral y administrativa con la previa autorización de su superior jerárquico, así como también llevar a cabo las comprobaciones que por estos conceptos deban hacerse ante la propia de Secretaría de Finanzas; y
+
+VII. Las demás que le señalen las Leyes, Decretos, Acuerdos, Reglamentos y Manuales de Oficiala Mayor, y lo que expresamente le encomiende el Titular de la misma y su superior jerárquico.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponde a la Dirección de Compras y Adjudicaciones, las siguientes funciones:
+Corresponde a la Dirección de Compras, las siguientes funciones:
 
-I.- Elaborar, difundir y mantener actualizado el catálogo de artículos;
+I. Elaborar, difundir y mantener actualizado el catálogo de artículos;
 
-II.- Integrar y controlar el registro de precios de bienes materiales y suministros;
+II. Integrar y controlar el registro de precios de bienes materiales y suministros;
 
-III.- Recibir los requerimientos de materiales y suministros que solicitan las dependencias y entidades que conforman la administración pública del Estado;
+III. Recibir los requerimientos de materiales y suministros que solicitan las dependencias y entidades que conforman la Administración Pública del Estado;
 
-IV.- Conjuntar los requerimientos de las dependencias y entidades de la administración pública del Estado, que por su naturaleza y características similares deban contratarse en una sola operación, para obtener mejores condiciones de precio, calidad y servicio;
+IV. Consolidar los requerimientos de las dependencias y entidades de la administración pública del Estado, que por su naturaleza y características similares deban contratarse en una sola operación, para obtener mejores condiciones de precio, calidad y servicio;
 
-V.- Consultar en el sistema financiero de la Secretaría de Finanzas el presupuesto asignado a las dependencias y entidades de la administración pública del Estado;
+V. Consultar en el sistema financiero de la Secretaría de Finanzas el presupuesto asignado a las dependencias y entidades de la Administración Pública del Estado;
 
-VI.- Validar y vigilar que se cumpla con las formalidades de los procedimientos de adjudicación directa e invitación restringida;
+VI. Validar y vigilar que se cumpla con las formalidades de los procedimientos de adjudicación directa e invitación restringida;
 
-VII.- Recibir y autorizar las propuestas técnicas y económicas de los proveedores;
+VII. Recibir y autorizar las propuestas técnicas y económicas de los proveedores;
 
-VIII.- Llevar el control de la aplicación del gasto conforme a los presupuestos autorizados;
+VIII. Llevar el control de la aplicación del gasto conforme a los presupuestos autorizados;
 
-IX.- Autorizar las órdenes de compra que se generen con motivo de las adquisiciones;
+IX. Autorizar las órdenes de compra que se generen con motivo de las adquisiciones;
 
-X.- Generar los resguardos de los bienes sujetos a inventarios ante la Dirección de Control Patrimonial;
+X. Supervisar la entrega de los bienes o suministros por parte de los proveedores a las dependencias y entidades de la administración pública estatal conforme a las condiciones contratadas;
 
-XI.- Supervisar que los proveedores solicitantes entreguen los bienes o suministros a las dependencias y entidades de la administración pública estatal conforme a las estipulaciones contratadas;
+XI. Turnar al Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado los requerimientos de materiales y suministros que rebasen los montos establecidos semestralmente por el Congreso del Estado;
 
-XII.- Turnar al Comité de Adquisiciones del Poder Ejecutivo del Estado los requerimientos de materiales y suministros que rebasen los montos estableados semestralmente por el Congreso del Estado;
+XII. Desahogar los procedimientos de adquisiciones que el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado autorice;
 
-XIII.- Ejecutar los procedimientos de adquisiciones que el Comité del Poder Ejecutivo del Estado autorice; y
+XIII. Mantener actualizado el archivo y resguardo de los expedientes que se generen con motivo de los distintos procedimientos de adjudicación que se realicen en su área;
 
-XIV.- Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor y lo que expresamente le encomiende el titular de la misma.
+XlV. Remitir a la Dirección de Control Patrimonial las facturas y documentos de bienes inventariables, como parte del trámite de gestión de pago;
+
+XV. Remitir a la Secretaria de Finanzas, a la Dirección de Control Presupuestal y en su caso a otras dependencias, tas facturas y documentos necesarios para que se libere el pago a los proveedores;
+
+XVI. En su caso, administrar y comprobar los recursos financieros que le sean autorizados conforme a la normatividad establecida por la Secretaría de Finanzas;
+
+XVII. Asegurarse que las adquisiciones que se realicen con recursos provenientes de programas del gobierno federal o estatal, se sujeten a lo dispuesto por la legislación que les corresponde; y
+
+XVIII. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficiala Mayor y lo que expresamente le encomiende el titular de la misma.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 21.
 
-A la Dirección Jurídico Administrativa le corresponden las siguientes funciones:
+A la Dirección Jurídico y Licitaciones le corresponden las siguientes funciones:
 
-I.- Vigilar que las adquisiciones que se realicen con recursos provenientes de programas del gobierno federal, se sujeten a lo dispuesto por la legislación correspondiente;
+I. Asegurar que las adquisiciones que se realicen con recursos provenientes de programas del gobierno federal o estatal cuando estos rebasen los montos establecidos por las autoridades correspondientes, se sujeten a lo dispuesto por la legislación que les compete;
 
-II.- Atender la solicitud de los proveedores o licitantes para darse de alta en el padrón de proveedores, llevando un registro y asignándoles un número progresivo;
+II. Atender la solicitud de los proveedores o licitantes para darse de alta en el padrón de proveedores, validando que la documentación que presentan para su inscripción cumpla con los requisitos legales aplicables, registrándolos en el Sistema de Gestión de Adquisiciones;
 
-III.- Fungir como Secretario Ejecutivo ante el Comité de Adquisiciones del Poder Ejecutivo;
+III. Mantener actualizados los expedientes de proveedores para que estos permanezcan activos;
 
-IV.- Atender las consultas que las dependencias y entidades de la administración pública del Estado le planteen con motivo de la aplicación de las leyes, decretos, acuerdos, reglamentos y manuales relacionados con las adquisiciones;
+IV. Fungir como Secretario Ejecutivo ante el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado cumpliendo con las funciones que se le confieren en el Manual de Integración y Funcionamiento del mismo, salvo que este sea revocado por el Oficial Mayor;
 
-V.- Recibir y resguardar las muestras que presenten los proveedores o Iicitantes con motivo de los concursos que se celebren;
+V. Realizarlos trámites correspondientes para el desahogo de licitaciones públicas;
 
-VI.- Elaborar los contratos de los bienes que la Dirección General de Adquisiciones y el Comité de Adquisiciones del Poder Ejecutivo del Estado adjudiquen a los proveedores o licitantes;
+VI. Atender las consultas que las dependencias y entidades de la administración pública del Estado le planteen con motivo de la aplicación de las leyes, decretos, acuerdos, reglamentos y manuales relacionados con las adquisiciones;
 
-VII.- Archivar y resguardar los expedientes que se generen con motivo de los procedimientos aprobados por el Comité de Adquisiciones;
+VII. Recibir y resguardar las muestras que presenten los proveedores o licitantes con motivo de los procedimientos de licitación pública que se celebren;
 
-VIII. - Remitir a la Dirección de Control Patrimonial las facturas y; documentos necesarios para que inventaríen los bienes, objeto de las adquisiciones;
+VIII. Elaborar los contratos de la adquisición de los bienes, arrendamientos relacionados con bienes muebles y servicios, derivados de los distintos procedimientos y que de conformidad con la política requieran contar con la celebración de un contrato;
 
-IX.- Remitir a la Dirección de Control Presupuestal de la Secretaria de Finanzas las facturas y documentos necesarios para que se libere el pago a los proveedores o licitantes;
+IX. Mantener actualizado el archivo y resguardo de los expedientes que se generen con motivo de los procedimientos aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado;
 
-X. Solicitar al Oficial Mayor autorización de recursos financieros para liquidar a proveedores facturas por adquisiciones, cuando hacerlo signifique un beneficio sustancial en costos y tiempo de entrega para las dependencias y entidades de la administración pública del Estado;
+X. Elaborar actas, acuerdos, constancias de hechos, convenios modificatorios, adendums y demás instrumentos jurídicos que resulten de los procedimientos y de cualesquier otro que se. realicen en las diversas áreas de la Dirección General de Adquisiciones;
 
-XI.- Manejar y comprobar los recursos financieros autorizados conforme a la normatividad establecida por la Secretaría de Finanzas;
+XI. Turnar al órgano de control interno, los expedientes de los procedimientos, en los que Iicitantes o proveedores infrinjan lo dispuesto en la Ley de Adquisiciones del Estado de San Luis Potosí, contratos, convenios, acuerdos y leyes aplicables; y
 
-XII.- Llevar un archivo por número consecutivo de las órdenes de compra que genere la Dirección General de Adquisiciones;
-
-XIII.- Llevar un registro de archivo de toda la correspondencia de la Dirección General;
-
-XIV.- Tramitar los permisos y licencias e informar de las incidencias de los trabajadores al servicio del Gobierno del Estado; y
-
-XV.- Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor y lo que expresamente le encomiende el titular de la misma.
+XII. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor y lo que expresamente le encomiende el titular de la misma.
 
 ### CAPÍTULO III. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
@@ -574,3 +630,13 @@ El presente reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO
 
 Se derogan todas aquellas disposiciones administrativas que contravengan al presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones administrativas que contravengan el presente decreto.
