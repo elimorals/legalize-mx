@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prevencion-y-el-control-de-la-49713"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2006-02-28"
+last_updated: "2008-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA PREVENCION Y EL CONTROL DE LA CONTAMINACION A LA ATMOSFERA GENERADA POR VEHICULOS AUTOMOTORES, PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -161,19 +161,41 @@ Las infracciones a las disposiciones de los programas de verificación vehicular
 
 Los propietarios o poseedores de los vehículos automotores que circulen en el Municipio de León, Gto., que infrinjan las disposiciones de este Reglamento o del programa de verificación vehicular respectivo, se harán acreedores a las siguientes sanciones, mismas que se podrán imponer sin seguir el orden establecido:
 
-I.- Multa por el equivalente de 10 a 12 días de salario mínimo general vigente en el Estado al momento de imponer la sanción, al propietario o poseedor del vehículo que contamine ostensiblemente, así como aquel al que no se le haya realizado la verificación de emisiones, dentro del plazo que le corresponda, de conformidad con el programa de verificación vehicular;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Al propietario o poseedor del vehículo:
+
+a).- Que contamine ostensiblemente, se le impondrá multa por el equivalente a 15 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
+
+b).- Que haya omitido realizar una verificación vehicular, de conformidad con el Programa de Verificación Vehicular respectivo, se le impondrá multa por el equivalente a 15 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
+
+c).- Que no haya realizado la verificación vehicular, en dos o más semestres, de conformidad con el Programa o Programas de Verificación Vehicular correspondientes, se le impondrá multa por el equivalente a 20 días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
 
 II.- Multa por el equivalente de 50 a 70 días de salario mínimo general vigente en el Estado al momento de imponer la sanción, a quien infrinja las medidas o acciones a que se refieren los Artículos 9 y 10 de este Reglamento;
 
 III.- Retiro de vehículos automotores, cuando contaminen ostensiblemente o se encuentren circulando en zonas o vías limitadas, y su traslado a los depósitos vehiculares respectivos, a efecto de que el propietario, previo el pago de las multas y derechos correspondientes, solicite su devolución. Cuando se trate de un vehículo del servicio público de transporte de personas, se procurará que los pasajeros lleguen a su destino;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 IV.- Depósito del vehículo automotor durante el tiempo que permanezca vigente la restricción o limitación, cuando los conductores no las hayan respetado, o en tanto el vehículo continué contaminando ostensiblemente.
 
-El propietario o poseedor del vehículo que no haya sido verificado dentro del plazo que le correspondiera, de conformidad con el programa de verificación vehicular, y se presente de manera voluntaria a realizar dicha medición en el semestre inmediato siguiente a aquel en que fue omiso, no será sujeto a sanción económica.
+El vehículo que haya sido retirado de la circulación, en los términos del presente ordenamiento deberá permanecer en el depósito vehicular que designe la autoridad municipal. Sin perjuicio de lo anterior, el propietario del vehículo, podrá solicitar, a su costa, el traslado de éste a cualquiera de los talleres o centros de verificación autorizados, para que se practique la medición y las reparaciones que resulten necesarias;
 
-Al propietario o poseedor del vehículo que no haya sido verificado en dos o más semestres, pero se presente de manera voluntaria a realizar la verificación vehicular, se le impondrá la mitad de la multa mínima aplicable conforme a la fracción I del presente artículo.
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
-El vehículo que haya sido retirado de la circulación, en los términos del presente ordenamiento deberá permanecer en el depósito vehicular que designe la autoridad municipal. Sin perjuicio de lo anterior, el propietario del vehículo, podrá solicitar, a su costa, el traslado de este a cualquiera de los talleres o centros de verificación autorizados, para que se practique la medición y las reparaciones que resulten necesarias.
+V.- Al propietario o poseedor del vehículo que no haya sido verificado en un semestre, dentro del periodo que le correspondiera, de conformidad con el programa de verificación vehicular respectivo, y pretenda voluntariamente realizar dicha medición en el semestre inmediato siguiente a aquel en que fue omiso, sin que exista infracción de tránsito de por medio, se le impondrá multa por el equivalente a 6 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+VI.- Al propietario o poseedor del vehículo que no haya sido verificado en dos o más semestres, dentro del periodo que le correspondiera, de conformidad con el programa o programas de verificación vehicular respectivos, y pretenda voluntariamente realizar dicha medición en el semestre inmediato siguiente a aquellos en que fue omiso, sin que exista infracción de tránsito de por medio, se le impondrá multa por el equivalente a 10 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+Los propietarios o poseedores de vehículos, que pretendan realizar la Verificación Vehicular conforme a lo dispuesto en las fracciones V y VI del presente artículo, deberán previo a ello, cubrir el monto de la multa correspondiente ante la Tesorería Municipal en oficinas ubicadas en los diversos puntos de la ciudad.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+De conformidad con lo dispuesto en el artículo 56 fracción IV del Reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, en materia de Prevención y Control de la Contaminación de la Atmósfera, los Centros de Verificación Vehicular, estarán obligados en todo caso, a exigir el comprobante del pago de la multa respectiva, cuando el obligado no acredite haber efectuado la última verificación.
 
 ###### ARTÍCULO 15.
 
@@ -214,3 +236,11 @@ PRESIDENTE MUNICIPAL
 FELIPE DE JESÚS LÓPEZ GÓMEZ
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- La presente Reforma entrará en vigor a los sesenta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones normativas que se opongan a la presente reforma.
