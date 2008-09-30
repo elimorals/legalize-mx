@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-agua-potable-y-alcantarillado-del-estado-de-quintana-110
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-06"
-last_updated: "1996-04-09"
+last_updated: "2008-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 6 de octubre de 1981.
 
@@ -69,17 +69,23 @@ La distribución y administración de los servicios de agua potable y alcantaril
 
 Corresponde al Ejecutivo del Estado en coordinación con la Comisión, con las Autoridades Municipales correspondientes, y en su caso, con las Autoridades o Dependencias federativas, establecer la forma de realizar el servicio público de agua potable y alcantarillado en cada Municipio de acuerdo con las características demográficas del lugar, de la necesidad de los servicios y de los problemas urbanos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6º.
 
-Los servicios de agua potable y alcantarillado que suministre el organismo creado por la presente Ley serán para los siguientes usos, a su orden:
+Los servicios de agua potable y alcantarillado que suministre el organismo creado por esta ley serán para los siguientes usos:
 
-I.- Domésticos;
+I. Doméstico: Que podrá ser para vivienda urbana o rural;
 
-II.- Públicos Urbanos;
+II. Comercial;
 
-III.- Industriales;
+III. Industrial;
 
-IV.- Y otros.
+IV. Hotelero;
+
+V. De servicios generales a la comunidad; y
+
+VI. Para Parques Acuáticos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -121,9 +127,11 @@ Al establecerse los servicios de agua potable y alcantarillado en los lugares qu
 
 Los usuarios de los servicios de agua potable y alcantarillado a que se refiere esta Ley, estarán obligados a pagar los derechos que en la misma y demás ordenamientos aplicables se establezcan, así como dentro de los plazos que se fijen. La falta de pago oportuno obligará al usuario a cubrir recargos conforme a la tasa que se señala en las leyes fiscales vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 12.
 
-Los servicios de agua potable y alcantarillado no podrán ser objeto de exenciones de ninguna clase, tanto en favor de usuarios particulares como de los Gobiernos y Dependencias o Entidades Federales, Estatales o Municipales, Instituciones educativas y culturales o de asistencia pública o privada.
+Los servicios de agua potable y alcantarillado a que se refiera esta ley, no podrán ser objeto de exenciones de ninguna clase, tanto por lo que hace a los usuarios particulares, como de los gobiernos y dependencias o entidades federales, estatales o municipales, instituciones educativas y culturales o de asistencia pública o privada, con excepción de la hipótesis prevista en el Artículo 33 de la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable, Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1996)</small>
 
@@ -179,9 +187,11 @@ IX.- "Organismos Operadores".- Entidades encargadas de administrar, operar y con
 
 DE LA COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 18.
 
-Los servicios públicos de agua potable y alcantarillado estarán a cargo de un organismo público descentralizado, de naturaleza mixta estatal y municipal, que se denominará "Comisión de Agua Potable y Alcantarillado", cuya constitución y funcionamiento serán regulados por la presente Ley y disposiciones reglamentarias relativas.
+Los servicios públicos de agua potable y alcantarillado estarán a cargo de un organismo público descentralizado, de naturaleza mixta estatal y municipal, con domicilio legal en la Capital del Estado, que se denominará “Comisión de Agua Potable y Alcantarillado”, cuya constitución y funcionamiento serán regulados por la presente ley y disposiciones reglamentarias relativas.
 
 ###### ARTICULO 19.
 
@@ -287,37 +297,41 @@ III.- Organismos Operadores.
 
 El Consejo Directivo contará con un Consejo Técnico Consultivo, el cual se integrará y funcionará en la forma y términos que la presente Ley y sus reglamentos respectivos señalen. La Contraloría de Gobierno del Estado fungirá como Comisario de la Comisión.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 24.
 
 El Consejo Directivo es la suprema autoridad de la Comisión y se integrará con:
 
-I.- Un Presidente, que será el Gobernador del Estado, o la persona que este designe;
+I. Un Presidente, que será el Gobernador del Estado, o quien éste determine;
 
-II.- Un Vocal Secretario, que será el Secretario de Obras Públicas y Desarrollo Urbano;
+II. Un Vocal Secretario, que será el Secretario de Desarrollo Urbano y Medio Ambiente;
 
-III.- Siete Vocales, que serán los Presidentes Municipales de cada uno de los Ayuntamientos de la Entidad.
+III. Once Vocales, que serán los Presidentes Municipales de cada uno de los Ayuntamientos de la Entidad, el Secretario de Hacienda y el Secretario de Planeación y Desarrollo Regional, ambos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+Los miembros propietarios del Órgano de Gobierno deberán designar a sus respectivos representantes.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 25.
 
-El Consejo Directivo sesionará ordinariamente cuando menos una vez al año, y en forma extraordinaria cuando así lo solicite cualesquiera de sus miembros previa convocatoria emitida con ocho días de anticipación. Habrá quórum cuando concurra un mínimo de seis Consejeros siempre que asista el Presidente del Consejo. Sus decisiones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate, pero se requerirá del voto de las dos terceras partes de todos los miembros del Consejo, para aprobar y expedir las tarifas y cuotas que los usuarios, beneficiarios o contratantes de los servicios deberán cubrir al organismo operador respectivo.
+El Consejo Directivo sesionará ordinariamente cuando menos cuatro veces al año, la calendarización de dichas sesiones se realizará a mas tardar en la última sesión ordinaria del año inmediato anterior y en forma extraordinaria cuando así lo solicite cualesquiera de sus miembros con una antelación mínima de cuarenta y ocho horas; para el caso de las sesiones ordinarias, el Órgano de Dirección deberá enviar a los miembros restantes del Consejo Directivo, con una antelación no menor de cinco días hábiles a la fecha de celebración de la Sesión, el orden del día adjunto de la información y documentación correspondiente que les permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación. Para el caso de las sesiones extraordinarias esto último tendrá lugar con el envío de la convocatoria respectiva. En ambos casos la sesión será válida con la asistencia de un mínimo de siete miembros, siempre que asista el Presidente del Consejo, sus decisiones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
 
-Los acuerdos y resoluciones del Consejo Directivo, tendrán los efectos y alcance de un Convenio Administrativo Estado-Municipio.
+Los acuerdos y resoluciones del Consejo Directivo, tendrán los efectos y alcances de un Convenio Administrativo Estado-Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 26.
 
-Son facultades del Consejo Directivo como Organo Superior de Gobierno:
+Son facultades indelegables del Consejo Directivo como Órgano Superior de Gobierno:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 I.- Formular y aprobar, con base en la presente Ley, los Reglamentos y la Normatividad general que regirán las funciones de la Comisión de Agua Potable y Alcantarillado del estado, de sus Organismos Operadores y demás órganos que la integren, incluyendo las que correspondan al Consejo Directivo, a las Juntas Técnicas de los Organismos Operadores y a cada uno de sus Organos Auxiliares;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
-II.- Determinar anualmente, con base en los estudios socioeconómicos que presenten los organismos operadores, las propuestas que hagan los vocales del Consejo y tomando en consideración los requerimientos que permitan la autosuficiencia financiera y administrativa de la Comisión, las tarifas que deberán pagar los usuarios de los servicios públicos que regulan la presente Ley;
+II.- Determinar anualmente, con base en los estudios socioeconómicos que presenten los organismos operadores, las propuestas que hagan los vocales del Consejo y tomando en consideración los requerimientos que permitan la autosuficiencia financiera y administrativa de la Comisión, las tarifas que deberán pagar los usuarios de los servicios públicos que regulan (sic) la presente ley, y someterlos por los conductos legales apropiados, a la consideración y aprobación de la Legislatura del Estado, las que deberán publicarse en el Periódico Oficial del Estado de Quintana Roo;
 
 III.- Celebrar con las autoridades competentes los convenios necesarios para el cumplimiento de sus funciones y especialmente el relativo al cobro de las cuotas o tarifas en el procedimiento de ejecución con las autoridades de Hacienda del Estado o de los Municipios;
 
@@ -325,9 +339,7 @@ IV.- Conocer y en su caso aprobar los estados financieros, los balances anuales,
 
 V.- Crear y establecer los Organismos Operadores que se estimen necesarios para el manejo de los sistemas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-VI.- Estudiar y aprobar y expedir las tarifas, cuotas y demás renumeraciones que la Comisión y sus Organismos Operadores, incluyendo las empresas concesionarias privadas, sociales o públicas deberán cobrar por los servicios y suministros que presten, conforme a lo que en la presente Ley se establece, las que deberán publicarse en el Periódico Oficial del Gobierno del Estado y en dos diarios de mayor circulación en el Estado;
+VI.- (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2008)
 
 VII.- Aprobar los programas de trabajo de los organismos operadores y sus presupuestos resolviendo los asuntos que se sometan a su consideración y aprobación;
 
@@ -367,7 +379,7 @@ XV.- Aprobar los lineamientos generales para la suscripción de los convenios y 
 
 XVI.- Analizar y aprobar, en su caso, con la sanción de la contraloría de Gobierno, el informe anual que rinda el Director General de la Comisión; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 XVII.- Las demás que le sean conferidas por las Leyes, Decretos, Convenios y Acuerdos que incidan en la materia.
 
@@ -407,13 +419,13 @@ II.- Proponer las cuotas o tarifas que estimen deban cobrarse por los servicios 
 
 III.- Las demás que les señale esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 30.
 
-El consejo Técnico Consultivo, como órgano de apoyo al Consejo Directivo, se integrará con representantes de los usuarios de los sectores social y privado que determine el Gobernador del Estado; asimismo se invitará a formar parte de él a representantes de las instancias Federal, Estatal y Municipal que consideren convenientes. Será presidido por el Secretario de Obras Públicas y Desarrollo Urbano, asistido por un Secretario que será el Director General de la Comisión.
+El Consejo Técnico Consultivo, como órgano de apoyo al Consejo Directivo, se integrará con representante de los usuarios de los sectores social y privado que determine el Gobernador del Estado; asimismo se invitará o formar parte de él a representantes de las instancias Federal, Estatal y Municipal que se consideren convenientes. Será presidido por el Secretario de Desarrollo Urbano y Medio Ambiente, asistido por un Secretario que será el Director General de la Comisión.
 
-El Consejo funcionará en los términos del Reglamento que a efecto expida el Consejo Directivo.
+El Consejo funcionará en los términos del reglamento que a efecto expida el Consejo Directivo.
 
 ###### ARTICULO 31.
 
@@ -773,11 +785,11 @@ Cuando existían fugas visibles en las tuberías de conexión a las tomas domici
 
 ### CAPITULO CUARTO. DE LAS TARIFAS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 68.
 
-Los servicios de Agua Potable y Alcantarillado se cobrarán a los usuarios con base a las cuotas y tarifas que sean aprobadas y expedidas por el Consejo Directivo de la Comisión de Agua Potable y alcantarillado, de conformidad con esta Ley, las que serán diferenciales en razón del consumo y uso autorizado, observado lo dispuesto en el presente capítulo.
+Los servicios de agua potable y alcantarillado se cobrarán a los usuarios con base a las cuotas y tarifas que sean aprobadas y expedidas por la Legislatura del Estado, de conformidad con esta Ley, las que serán diferenciales en razón del consumo y uso autorizado observando lo dispuesto en el presente Capítulo y en la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable, Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo.
 
 ###### ARTICULO 69.
 
@@ -787,43 +799,77 @@ Los Organismos Operadores de los sistemas formularán anualmente un estudio soci
 
 Los estudios a que se refiere el artículo anterior, se realizarán considerándose en todo caso, las condiciones socioeconómicas de la población, el gasto corriente de los Organismos Operadores, el costo de las obras que se requieran por los sistemas para su mantenimiento, ampliación, rehabilitación o mejoras la disponibilidad de los recursos hidráulicos, así como el número de metros cúbicos de agua consumida y el uso autorizado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 71.
 
-Las cuotas o tarifas que deberán cubrir los usuarios por la prestación de los servicios, podrán ser las siguientes:
+Las tarifas para determinar las cuotas que deberán cubrir los usuarios por la prestación de los servicios, corresponden a los siguientes conceptos:
 
-a).- De conexión;
+I. De conexión:
 
-b).- De instalación de medidores;
+a). Por instalación de la toma;
 
-c).- De consumo mínimo;
+b). Por reinstalación en caso de limitación o suspensión del servicio;
 
-d).- De consumo doméstico;
+c). Por reubicación de la toma; y
 
-e).- De consumo comercial;
+d). Por dotación de litros por segundo.
 
-f).- De consumo industrial, y
+II. De Consumo:
 
-g).- De servicios generales a la comunidad.
+a). Domestico;
+
+b). Comercial;
+
+c). Industrial;
+
+d). Hotelero;
+
+e). Servicios generales a lo comunidad, y
+
+f). Parques Acuáticos.
+
+III. Por la prestación de servicios distintos a los anteriores:
+
+a). Suministro de agua a carros tanque;
+
+b). Recepción en planta de aguas residuales transportadas en carros tanque;
+
+c). Suministro de agua residual tratada;
+
+d). Servicio de tratamiento de aguas residuales;
+
+e). Suministro de agua en bloque;
+
+f). Reposición de medidor;
+
+g). Por los conceptos establecidos en el artículo 54 de la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable, Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo.
+
+Las tarifas serán aplicadas, considerando las clasificaciones anteriores, por rango de consumo, de conformidad con lo establecido en la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable, Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 72.
 
 Se entenderá:
 
-I.- Por cuotas o tarifas de conexión los derechos que deberán pagar los usuarios por la conexión a los sistemas de agua potable como para el desagüe en las atarjeas;
+I. Por cuotas de conexión: La que deberán pagar los usuarios por la conexión a los sistemas de agua potable y alcantarillado, así como para el desagüe en las atarjeas;
 
-II.- Por cuotas o tarifas de instalación, los derechos que deberán cubrir los usuarios por la instalación del medidor en cada toma domiciliaria, así como su conservación y mantenimiento;
+II. Por cuotas de instalación: Lo que deberán cubrir los usuarios por la instalación del medidor en cada toma domiciliaria, así como su conservación y mantenimiento;
 
-III.- Por cuotas o tarifas de consumo mínimo, aquellas que con carácter obligatorio deberá cubrir cada usuario aún cuando no utilice el servicio y en los casos en que proceda la limitación del mismo;
+III. Por cuotas o tarifas de consumo mínimo: Aquellas que con carácter obligatorio deberá cubrir cada usuario aún cuando no utilice el servicio y en los casos en que proceda la limitación del mismo;
 
-IV.- Por cuotas o tarifas de consumo doméstico, comercial, industrial y de servicios generales a la comunidad, los derechos que deberán cubrir los usuarios por los servicios de agua potable, para casas habitación, para comercios y establecimientos mercantiles, para industrias, y para efectos recreativos, suntuarios y otros de la colectividad, respectivamente.
+IV. Por cuotas de consumo doméstico, comercial, industrial y de servicios generales a la comunidad: Los derechos que deberán cubrir los usuarios por los servicios de agua potable, para casas habitación, para comercios y establecimientos mercantiles, para industrias y para efectos recreativos, suntuarios y otros de la colectividad, respectivamente.
 
 ###### ARTICULO 73.
 
 Las tarifas deberán revisarse cuando resulten insuficientes para garantizar la correcta operación y conservación de los servicios del sistema y en todo caso cada año a partir de la fecha en que se hubieren puesto en vigor, siguiendo el mismo procedimiento de su implantación.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
 ###### ARTICULO 74.
 
-El servicio de abastecimiento de agua potable se cobrará por períodos vencidos de treinta días, y se pagará dentro de los quince días siguientes a la fecha en que se tome la lectura del consumo.
+Los servicios de agua potable, alcantarillado y alcantarillado por descarga en exceso se cobrarán por períodos vencidos de treinta días, y se pagará dentro de los quince días siguientes a la fecha en que el usuario tenga conocimiento del importe a pagar por dicho servicio.
 
 ###### ARTICULO 75.
 
@@ -1007,17 +1053,27 @@ En caso de que la descarga se haya destruido intencionalmente o por causas imput
 
 #### SECCION III. DEL PAGO DE SERVICIOS Y COBRO DE ADEUDOS
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
-ARTICULO 105 bis.- Para el cobro de los adeudos por concepto de cuotas y tarifas, así como las multas que se impongan con motivo de las infracciones a la presente Ley y sus Reglamentos que no fueren cubiertas, serán exigidos mediante el procedimiento administrativo de ejecución previsto en el Capítulo III del Título Quinto del Código Fiscal del Estado, de acuerdo a lo previsto en la presente Ley, para lo cual:
+ARTICULO 105 bis.- Para el cobro de los adeudos por concepto de cuotas y tarifas, así como las multas que se impongan con motivo de las infracciones a la presente ley y sus reglamentos que no fueren cubiertas, serán determinados y exigidos mediante el procedimiento administrativo de ejecución previsto en el Capítulo III del Título Quinto del Código Fiscal del Estado, de acuerdo a lo previsto en la presente ley, para lo cual:
 
-I.- Queda investida la Dirección de Recuperación de Adeudos y Ejecución Fiscal de la Comisión de Agua Potable y Alcantarillado de la facultad económico-coactiva para exigir los pagos y hacer efectivos los créditos fiscales que no hubieren sido cubiertos o garantizados en los plazos señalados por esta Ley.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+
+I.- Queda investida la Dirección de Recuperación de Adeudos y Ejecución Fiscal de la Comisión de Agua Potable y Alcantarillado de la facultad económico-coactiva para determinar, fijar en cantidad líquida, exigir los pagos y hacer efectivos los créditos fiscales que no hubieren sido cubiertos o garantizados en los plazos señalados por esta Ley;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 1996)</small>
 
 II.- La Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Comisión de Agua Potable y Alcantarillado, estará a cargo de un Director quien se auxiliará de las Jefaturas de Departamentos, Oficinas y el personal de apoyo que para el efecto designe el Director General, de acuerdo a lo previsto en el Presupuesto de Egresos de la mencionada Comisión.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 1996)</small>
+
 III.- Para el caso de mora en los pagos de los servicios concesionarios, la Dirección de Recuperación de adeudos y Ejecución Fiscal, dependiente de la Comisión de Agua Potable y Alcantarillado, tendrá a su cargo el cobro de los adeudos correspondientes, conforme a esta sección.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 1996)</small>
+
 IV.- En todo lo no previsto en la presente sección, se aplicará supletoriamente el Código Fiscal del Estado.
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 1996)</small>
 
 V.- Los recursos en los procedimientos administrativos de ejecución, serán resueltos por la autoridad fiscal competente de la Secretaria de Hacienda del Estado.
 
@@ -1322,3 +1378,9 @@ SEGUNDO.- Las atribuciones conferidas a la actual Unidad de Recuperación Fiscal
 TERCERO.- Los asuntos en trámite a cargo de la Unidad de Recuperación Fiscal CAPAHACIENDA, serán continuados precisamente en el trámite en que se encuentren, por la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Comisión de Agua Potable y Alcantarillado.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
