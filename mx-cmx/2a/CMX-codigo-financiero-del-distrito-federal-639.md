@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2007-12-27"
+last_updated: "2008-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2008.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -3788,9 +3788,11 @@ En caso de que los contribuyentes no paguen los derechos a su cargo en dos o má
 
 Para el caso de que tengan ambos usos doméstico y no doméstico, el Sistema de Aguas determinará la suspensión del suministro.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
 
-Igualmente, queda obligado dicho órgano para suspender el servicio, cuando se comprueben tomas o derivaciones no autorizadas o con uso distinto al manifestado; modificaciones o manipulaciones a los ramales de las tuberías de distribución; se comercialice el agua suministrada por el Distrito Federal a través de tomas conectadas a la red pública, sin autorización; se empleen mecanismos para succionar agua de las tuberías de distribución o bien, se destruyan, alteren o inutilicen los aparatos medidores.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Igualmente, queda obligado dicho órgano para suspender el servicio, cuando se comprueben modificaciones o manipulaciones a los ramales de las tuberías de distribución; se comercialice el agua suministrada por el Distrito Federal a través de tomas conectadas a la red pública, sin autorización; se empleen mecanismos para succionar agua de las tuberías de distribución o bien, se destruyan, alteren o inutilicen los aparatos medidores. Cuando se comprueben tomas o derivaciones no autorizadas o con uso distinto al manifestado, previo requerimiento al contribuyente para acredite (sic) la legal instalación y funcionamiento de la toma, se procederá a supresión de la misma.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -7825,6 +7827,14 @@ Los propietarios de los establecimientos mercantiles que realicen las adecuacion
 Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida conjuntamente por la Secretaría de Salud y la delegación correspondiente, en la que se señale que el solicitante lleva a cabo las adecuaciones necesarias en sus inmuebles.
 
 La reducción se aplicará durante el periodo de un año, contado a partir de la fecha de expedición de la constancia respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 314 BIS.- Las personas físicas o morales que fabriquen, distribuyan y comercialicen muebles y regaderas para baño y accesorios sanitarios ahorradores de agua potable, tendrán derecho a una reducción equivalente el (sic) 25 % por concepto de derechos por suministro de agua potable.
+
+Para obtener la reducción a que se refiere este artículo, los contribuyentes deberán obtener la constancia que expedirá el Sistema de Aguas, donde se acredite que el inmueble al que se aplicará la reducción se destina efectivamente a la fabricación, distribución o comercialización de productos ahorradores de agua potable.
 
 ARTICULO 314 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -12084,6 +12094,12 @@ IX. Por llevar a cabo la interconexión entre la toma de agua potable y la de ag
 
 X. Cuando en tomas de uso no doméstico, el usuario se reconecte al servicio hidráulico encontrándose éste suspendido, retirando el engomado, rompiendo el sello y/o abriendo la válvula, se le aplicará una multa de $79,352.00 a $158,694.00.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XI.- A quienes desperdicien el agua tratándose de uso doméstico 300 salarios mínimos vigentes en el Distrito Federal y en uso no doméstico 3000 salarios mínimos generales vigentes en el Distrito Federal, la multa se aplicará previa verificación y levantamiento del acta correspondiente, en el recibo de pago de los derechos por el suministro de agua del bimestre inmediato.
+
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 601.
@@ -12316,9 +12332,11 @@ Las sanciones previstas en este artículo, sólo se aplicarán a los propietario
 
 Cometen el delito de defraudación fiscal en materia de suministro de agua potable quienes:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
 
-I. Sin autorización de la autoridad competente o sin el pago de los derechos correspondientes, instalen, ordenen o consientan la instalación de tomas de agua en inmuebles de su propiedad o posesión o aprovechen en su beneficio dichas tomas o derivaciones;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+I. Sin autorización de la autoridad competente o sin el pago de los derechos correspondientes, instalen, ordenen, consientan o se sorprendan en flagrancia instalando tomas de agua en inmuebles de su propiedad o posesión, o aprovechen en su beneficio dichas tomas o derivaciones;
 
 II. Declaren dolosamente los derechos por el suministro, uso o aprovechamiento de agua a su cargo, bajo un régimen distinto al que corresponda en razón del uso del inmueble;
 
@@ -12326,11 +12344,19 @@ III. Omitan dolosamente, el pago total o parcial de los citados derechos;
 
 IV. Consignen en las declaraciones que presenten un volumen de agua inferior al realmente consumido;
 
-V. Alteren o destruyan dolosamente un medidor o sus aditamentos, lo retiren o sustituyan sin autorización de la autoridad competente; imposibiliten su funcionamiento o lectura, o rompan los sellos correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2008)</small>
 
-VI. Se reinstalen del servicio de suministro de agua encontrándose suspendido o restringido éste, por cualquiera de las causas previstas en el artículo 199 de este Código, y
+V. Alteren o destruyan dolosamente un medidor o sus aditamentos, lo retiren o sustituyan sin autorización de la autoridad competente; imposibiliten su funcionamiento o lectura, o rompan los sellos correspondientes; destruyan, extraigan, compren o vendan material así como tapas de accesorios de drenaje y agua potable de las instalaciones hidráulicas del Gobierno del
+
+Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+VI. Se reinstalen del servicio de suministro de agua encontrándose suspendido o restringido éste, por cualquiera de las causas previstas en el artículo 199 de este Código o se alteren los sellos, o engomados con los que se materializó el estado de suspensión o restricción de la toma;
 
 VII. Comercien sin contar con la autorización respectiva, con el agua provista por la autoridad competente, para usos no comerciales.
 
@@ -18445,3 +18471,17 @@ Las dependencias, órganos desconcentrados, delegaciones y entidades que cuenten
 ###### ARTICULO DECIMO SEPTIMO.
 
 Tratándose de personas físicas que tengan créditos fiscales derivados de derechos por el suministro de agua e impuesto predial en inmuebles de uso habitacional, determinados por la autoridad fiscal menores a 400 días de salario mínimo general diario vigente en el Distrito Federal, la autoridad fiscal implementará durante el ejercicio 2008, mecanismos de simplificación administrativa para disminuir dichos créditos en términos de lo dispuesto en el artículo 128 de este Código.
+
+G.O. 1 DE OCTUBRE DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; salvo las reformas relativas al Código Financiero del Distrito Federal, mismas que entrarán en vigor el día 1 de enero del 2009.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su mayor difusión.
+
+...
