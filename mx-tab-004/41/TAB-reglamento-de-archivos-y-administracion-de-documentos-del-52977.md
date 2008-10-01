@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-archivos-y-administracion-de-documentos-del-52977
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-16"
-last_updated: "2006-12-16"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 REGLAMENTO DE ARCHIVOS Y ADMINISTRACION DE DOCUMENTOS DEL MUNICIPIO DE CENTRO, TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2008.
 
 Reglamento publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el sábado 16 de diciembre de 2006.
 
@@ -85,17 +85,21 @@ El objetivo del presente Reglamento es definir y establecer las disposiciones re
 
 El Archivo Municipal será administrado por el Municipio, acción que comprenderá su integración, rescate, organización, funcionamiento, clasificación, catalogación, servicio de consulta, custodia, depuración, traslado, conservación, restauración y difusión de los documentos o cualquier otro objeto que por sus cualidades deba formar parte de éste. Para el mejor cumplimiento de sus atribuciones, podrá coordinarse con los sectores social, público o privado; así como utilizar los de la ciencia y la tecnología.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 3.
 
-El acervo del Archivo constituye patrimonio del Municipio de Centro, bajo la custodia, administración y cuidado del Gobierno Municipal, a través de la Secretaría del Ayuntamiento y las autoridades competentes. El atentado, destrucción, alteración o robo de los documentos del Archivo Municipal o la violación a las disposiciones del presente Reglamento, constituyen una infracción administrativa, a la que recae una sanción, tanto para el o los servidores públicos municipales como de cualquier persona, de acuerdo a las disposiciones legales aplicables, independientemente de las responsabilidades administrativas, civiles o penales que procedan conforme a derecho.
+El acervo del Archivo constituye patrimonio del Municipio de Centro, bajo la custodia, administración y cuidado del Gobierno Municipal, a través de la Coordinación de Transparencia y Acceso a la Información Pública y las autoridades competentes. El atentado, destrucción, alteración o robo de los documentos del Archivo Municipal o la violación a las disposiciones del presente Reglamento, constituyen una infracción administrativa, a la que recae una sanción, tanto para el o los servidores públicos municipales como de cualquier persona, de acuerdo a las disposiciones legales aplicables, independientemente de las responsabilidades administrativas, civiles o penales que procedan conforme a derecho.
 
 ###### ARTÍCULO 4.
 
 Siendo el Archivo Municipal parte del patrimonio del Municipio, se sujetará a las reglas de entrega recepción establecidas en el artículo 27 de la Ley Orgánica de los Municipios, tanto por el cambio de Administración Municipal, como por el relevo de los titulares de las dependencias, coordinaciones, unidades administrativas, órganos desconcentrados u organismos paramunicipales.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 5.
 
-Corresponde a la Secretaría del Ayuntamiento de Centro Tabasco, la administración del Archivo Municipal y participar como Consejero en el Consejo Estatal de Archivos.
+Corresponde a la Coordinación de Transparencia y Acceso a la Información Pública de Centro Tabasco, la administración del Archivo Municipal y participar como Consejero en el Consejo Estatal de Archivos.
 
 ###### ARTÍCULO 6.
 
@@ -179,9 +183,11 @@ Los documentos que forman parte de la función catastral que realiza la Administ
 
 ### CAPÍTULO II. DE LAS FUNCIONES Y DE LA ADMINISTRACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 16.
 
-El Archivo Municipal es una unidad administrativa dependiente de la Secretaría del Ayuntamiento y tiene como objetivos:
+El Archivo Municipal es una unidad administrativa dependiente de la Coordinación de Transparencia y Acceso a la Información Pública y tiene como objetivos:
 
 I. Adecuar la fuente de información documental del Gobierno Municipal, mediante la recepción, control, clasificación, conservación, depuración y retroalimentación oficial municipal para la eficaz toma de decisiones;
 
@@ -193,9 +199,11 @@ IV. Llevar el registro de todas las leyes municipales, reglamentos, acuerdos de 
 
 V. Ser parte del Sistema Estatal de Archivos de Tabasco, de acuerdo con lo dispuesto en la Ley que lo crea y su Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 17.
 
-Son atribuciones y obligaciones del Secretario del Ayuntamiento en materia de Archivo Municipal las siguientes:
+Son atribuciones y obligaciones de la Coordinación de Transparencia y Acceso a la Información Pública en materia de Archivo Municipal las siguientes:
 
 I. Dirigir técnica y administrativamente el Archivo Municipal;
 
@@ -287,9 +295,11 @@ VI. Varios, en la cual se registran donaciones de bienes muebles municipales, to
 
 El Jefe de la Unidad de Archivo deberá actualizar los registros citados en las fracciones anteriores, cada seis meses por lo menos; sin perjuicio de los casos en que su actualización sea necesaria y evidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 23.
 
-Es obligación del Secretario del Ayuntamiento, remitir para su registro al Archivo Municipal todos los actos de gobierno a que se refiere el artículo anterior, en todo caso, previo a la entrega de la concesión o contrato de que se trate, ordenar a los particulares el registro del mismo.
+Es obligación de la Coordinación de Transparencia y Acceso a la Información Pública, remitir para su registro al Archivo Municipal todos los actos de gobierno a que se refiere el artículo anterior, en todo caso, previo a la entrega de la concesión o contrato de que se trate, ordenar a los particulares el registro del mismo.
 
 Igual obligación tienen los titulares de las demás dependencias, coordinaciones, unidades administrativas, órganos desconcentrados y organismos paramunicipales, de enviar al Archivo Municipal, aquellos documentos que se hayan generado en el área de su adscripción.
 
@@ -321,7 +331,9 @@ II. Elaborar y proponer el programa de modernización archivístico municipal;
 
 III. Coordinar sus actividades con el Director de Administración y la Contraloría Municipal, y con los titulares de las direcciones de archivos estatales, y los órganos colegiados que la ley de la materia establece;
 
-IV. Acordar con el Secretario del Ayuntamiento las políticas de funcionamiento del Archivo;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2008)</small>
+
+IV. Acordar con la Coordinación de Transparencia y Acceso a la Información Pública las políticas de funcionamiento del Archivo;
 
 V. Establecer un área de consulta y fijar mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos;
 
@@ -337,7 +349,9 @@ X. Compilar la legislación federal, estatal y municipal, clasificándola por ma
 
 XI. Captar, organizar, clasificar, preservar, depurar y difundir la memoria pública del Municipio;
 
-XII. Previo acuerdo del Secretario del Ayuntamiento, en coordinación con el Director de Administración y la Contraloría Municipal, proponer los plazos en que la documentación debe permanecer en sus archivos de origen y fijar los calendarios que habrán de regir su transferencia hacia los archivos de concentración o su destrucción;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2008)</small>
+
+XII. Previo acuerdo de la Coordinación de Transparencia y Acceso a la Información Pública, en coordinación con el Director de Administración y la Contraloría Municipal, proponer los plazos en que la documentación debe permanecer en sus archivos de origen y fijar los calendarios que habrán de regir su transferencia hacia los archivos de concentración o su destrucción;
 
 XIII. Establecer sistemas de clasificación, conservación, y difusión documental, considerando los estándares nacionales e internacionales de calidad y de mejora continúa de los procesos de trabajo, atendiendo los criterios, políticas y lineamientos que en materia de transparencia y acceso a la información establezcan las dependencias competentes;
 
@@ -415,7 +429,9 @@ Todo documento motivo de consulta será proporcionado por el personal responsabl
 
 La consulta a los documentos siempre será dentro del horario y los espacios que se tengan establecidos para tal fin.
 
-La Secretaría del Ayuntamiento o el Jefe de la Unidad de Archivo Municipal podrán negar la consulta de aquellos documentos que se consideren demasiado frágiles o de orden confidencial.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
+La Coordinación de Transparencia y Acceso a la Información Pública o el Jefe de la Unidad de Archivo Municipal podrán negar la consulta de aquellos documentos que se consideren demasiado frágiles o de orden confidencial.
 
 El Particular está obligado a aceptar las decisiones de las autoridades municipales encargadas, en cuanto a tiempo, modo y cuidado de los documentos.
 
@@ -485,9 +501,11 @@ Toda persona que no observe las disposiciones del presente Reglamento será susp
 
 Los documentos históricos que sean motivo de consulta, sólo se facilitarán en el área designada para tal fin en el Archivo y por ningún motivo saldrán al exterior. La sustracción ilícita, temporal o permanente, de cualquier documentación del Archivo, sea ésta administrativa o histórica, será considerada robo en perjuicio del patrimonio municipal.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 42.
 
-Los documentos o expedientes en Archivo de Concentración o Administrativo, sólo se podrán consultar si se demuestra legítimo interés administrativo, o jurídico, mismo que calificaré indistintamente el Secretario del Ayuntamiento o el Jefe de la Unidad de Archivo, exponiendo los motivos y justificación para tal determinación.
+Los documentos o expedientes en Archivo de Concentración o Administrativo, sólo se podrán consultar si se demuestra legítimo interés administrativo, o jurídico, mismo que calificaré indistintamente la Coordinación de Transparencia y Acceso a la Información Pública o el Jefe de la Unidad de Archivo, exponiendo los motivos y justificación para tal determinación.
 
 ###### ARTÍCULO 43.
 
@@ -515,7 +533,9 @@ III. Todo traslado de documentos debe realizarse tomando las medidas de orden, c
 
 IV. Elaborar acuse de recibo y acta circunstanciada para recibir la documentación que deba entregarse y reunirse en el Archivo Municipal, cotejando los documentos con la relación de envío y registrando la entrada de los acervos documentales en un libro especial, dando fe y garantizando su estado e integridad;
 
-V. La Secretaría del Ayuntamiento, en coordinación con las direcciones de Administración y de Contraloría, expedirán los sistemas de clasificación y catalogación de los documentos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2008)</small>
+
+V. La Coordinación de Transparencia y Acceso a la Información Pública, en coordinación con las direcciones de Administración y de Contraloría, expedirán los sistemas de clasificación y catalogación de los documentos;
 
 VI. Los documentos del Archivo Municipal, serán enunciados en una relación para catalogar el contenido de las cajas de archivo. La mencionada relación será utilizada para la localización de los documentos que se soliciten, la relación llevará además la identificación alfabética de la caja y la sección en que estará localizada;
 
@@ -567,11 +587,15 @@ Las reproducciones por cualquier medio que se realicen de documentos del Archivo
 
 Cuando en el Archivo Municipal no exista un determinado documento, se haya destruido o deteriorado total o parcialmente o exista duda sobre su contenido y se presuma su existencia en otro lugar, el Jefe de la Unidad de Archivo, podrá realizar las consultas y gestiones pertinentes ente (sic) el Congreso del Estado, el Archivo General de la Nación o bibliotecas públicas, con el fin de subsanar la carencia o anomalía del documento existente.
 
-El Secretario del Ayuntamiento, podrá ordenar la reimpresión de documentos de los cuales ya no existan ejemplares suficientes o que al ser únicos se hayan deteriorado. Podrán también efectuarse ediciones en medios magnéticos o electrónicos a fin de dar difusión al acervo del Archivo Municipal.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2008)</small>
+
+La Coordinación de Transparencia y Acceso a la Información Pública, podrá ordenar la reimpresión de documentos de los cuales ya no existan ejemplares suficientes o que al ser únicos se hayan deteriorado. Podrán también efectuarse ediciones en medios magnéticos o electrónicos a fin de dar difusión al acervo del Archivo Municipal.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 52.
 
-El Secretario del Ayuntamiento, propondrá la celebración de convenios de coordinación o colaboración relativos a las materias de archivos, técnicas de edición, y difusión, con la Federación, Estados, Municipios y con entidades del sector privado, así como analizar y opinar sobre los que se propongan para suscribir.
+La Coordinación de Transparencia y Acceso a la Información Pública, propondrá la celebración de convenios de coordinación o colaboración relativos a las materias de archivos, técnicas de edición, y difusión, con la Federación, Estados, Municipios y con entidades del sector privado, así como analizar y opinar sobre los que se propongan para suscribir.
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
@@ -672,3 +696,17 @@ PRESIDENTE MUNICIPAL
 M.V.Z. FRANCISCO CELORIO PASCUAL
 
 SECRETARIO DEL AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE OCTUBRE DE 2008
+
+Primero.- En apego a los principios de austeridad presupuestal, funcionalidad racionalidad administrativa que se requieren, el personal que integre la Coordinación de Transparencia y Acceso a la Información Pública, será adscrito en su mayoría, de la plantilla laboral existente; previendo su adecuado funcionamiento y sin representar una carga presupuestal adicional.
+
+Segundo.- El Titular de la Coordinación de Transparencia y Acceso a la Información Pública, será designado por el Presidente Municipal.
+
+Tercero.- El personal, mobiliario y equipo que actualmente se encuentra asignado en el Archivo Municipal, queda adscrito a la Coordinación de Transparencia y Acceso a la Información Pública, lo que deberá formalizarse con la intervención de las direcciones de la Administración, Contraloría y de Asuntos Jurídicos.
+
+Cuarto.- Dentro de un periodo no mayor a sesenta días naturales, túrnese al H. Cabildo por conducto de su comisión correspondiente, la propuesta de Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Centro.
+
+Quinto.- Publíquese el presente acuerdo en el Periódico Oficial del Estado.
