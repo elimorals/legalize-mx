@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-metrologia-10920"
 country: "mx"
 rank: "estatuto"
 publication_date: "1997-08-27"
-last_updated: "2006-02-16"
+last_updated: "2008-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10920&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-07-30"
 
 ESTATUTO ORGANICO DEL CENTRO NACIONAL DE METROLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ESTATUTO ORGANICO DEL CENTRO NACIONAL DE METROLOGIA, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO A SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de agosto de 1997.
 
@@ -664,3 +666,17 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 16 DE FEBRERO DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 1 DE OCTUBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Se aprueba el presente Estatuto por el Consejo Directivo del Centro Nacional de Metrología.
+
+###### ARTICULO SEGUNDO.
+
+El presente Estatuto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del presente Estatuto, quedará abrogado el Estatuto Orgánico del Centro Nacional de Metrología publicado en el Diario Oficial de la Federación con fecha 27 de agosto de 1997, así como sus modificaciones y cualquier disposición administrativa que se oponga al presente.
