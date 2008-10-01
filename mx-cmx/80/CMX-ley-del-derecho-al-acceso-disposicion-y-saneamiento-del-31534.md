@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2008-01-08"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -78,11 +78,31 @@ III. AGUAS DE JURISDICCIÓN DEL DISTRITO FEDERAL.- Las que son parte integrante 
 
 IV. AGUA PLUVIAL.- La proveniente de la lluvia, nieve o granizo;
 
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+IV BIS. AGUA JABONOSA O GRIS.- la proveniente de actividades domésticas, comerciales o de servicios, que por el uso a que ha sido objeto, contiene residuos de jabón, detergentes u otras sustancias químicas que alteran su calidad y composición original;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+IV TER. AGUA PLUVIAL COSECHADA.- Los volúmenes de agua de lluvia, nieve o granizo captados mediante las obras, infraestructura, equipos e instrumentos adecuados en el Suelo Urbano y en el Suelo de Conservación por los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y en los hogares de las y los habitantes del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+IV QUATER. AGUA PLUVIAL POTABILIZADA.- Los volúmenes de agua pluvial cosechada resultante de haber sido sometida a procesos físico-químicos, biológicos y de potabilización adecuados para remover sus cargas contaminantes;
+
 V. AGUA RESIDUAL.- La proveniente de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad que, por el uso de que ha sido objeto, contiene materia orgánica y otras sustancias químicas que alteran su calidad y composición original;
 
 VI. AGUA TRATADA.- La resultante de haber sido sometida a procesos de tratamiento para remover sus cargas contaminantes;
 
 VII. CAUCE.- El canal natural o artificial con capacidad necesaria para llevar las aguas de una creciente máxima o mínima ordinaria de una corriente;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+VII BIS. COSECHA DE AGUA DE LLUVIA.- La acción de los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y de las y los habitantes del Distrito Federal, para captar agua de lluvia, nieve o granizo, regulada por la presente ley, y promovida, organizada e incentivada por el Gobierno del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+VII TER. COSECHADOR(A) DE AGUA DE LLUVIA.- Las dependencias, entidades, organismos, instituciones, organizaciones y entes públicos, privados y sociales, los ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Distrito Federal que conscientes de la fundamental importancia de construir colectivamente una nueva cultura del uso, ahorro y reuso del agua potable realicen las acciones individuales o colectivas que puedan para contribuir con el Gobierno del Distrito Federal a promover, organizar e incentivar la cosecha de agua de lluvia;
 
 VIII. CRITERIOS.- Los lineamientos obligatorios contenidos en la presente Ley y demás ordenamientos jurídicos aplicables para orientar las acciones de gestión integral y prestación de servicios hidráulicos;
 
@@ -104,15 +124,31 @@ XVI. DRENAJE.- La infraestructura para recolectar, conducir y disponer las aguas
 
 XVII. DILUCIÓN.- La acción de mezclar dos tipos de aguas con diferentes características con el objeto de disminuir sus cargas contaminantes;
 
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XVII. BIS. FONDO.- El Fondo de Apoyo a la Cosecha de Agua de Lluvia del Distrito Federal;
+
 XVIII. INFRAESTRUCTURA INTRADOMICILIARIA.- La obra interna que requiere el usuario final de cada predio para recibir los servicios hidráulicos;
 
 XIX. LEY.- La Ley de Aguas del Distrito Federal;
 
 XX. LEY AMBIENTAL.- La Ley Ambiental del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XX BIS. METRO CÚBICO COSECHADO.- El metro cúbico de agua pluvial cosechada como unidad básica de diagnóstico, pronóstico y proyección de las políticas, estrategias, programas y acciones del Gobierno del Distrito Federal, de los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y de las y los habitantes del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XX TER. MINGITORIO SIN AGUA.- Son muebles de baño de función específica que no requieren del arrastre del agua para desalojar la orina hacia los sistemas de drenaje o depósitos especiales para aprovechar la orina, cuentan con una barrera impermeable o mecánica que bloquea los olores;
+
 XXI. POZO.- La excavación o perforación que se hace en el terreno para extraer, inyectar agua o para otros fines;
 
 XXII. POZO PARTICULAR.- La concesión que otorga la autoridad competente a persona física o moral para la explotación, uso o aprovechamiento de agua;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XXII BIS. PROGRAMA GENERAL.- El Programa General de Cosecha de Agua de Lluvia del Distrito Federal;
 
 XXIII. PROCURADURÍA.- La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
 
@@ -128,6 +164,10 @@ XXVIII. RED PRIMARIA.- El conjunto de obras desde el punto de captación de las 
 
 XXIX. RED SECUNDARIA.- El conjunto de obras desde la interconexión del tanque de regulación, así como de la línea general de distribución hasta el punto de interconexión con la infraestructura interdomiciliaria del predio correspondiente al usuario final del servicio;
 
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XXIX BIS. RED DE DISTRIBUCIÓN DE AGUA TRATADA.- Conjunto de obras desde la salida del cárcamo de bombeo o almacenamiento de agua tratada, incluyendo válvulas y piezas especiales, hasta el punto de interconexión con la infraestructura interdomiciliaría del predio correspondiente al usuario final del servicio;
+
 XXX. REUSO.- El segundo uso de las aguas, que cumpla con la normatividad emitida para tal efecto;
 
 XXXI. SECRETARÍA.- La Secretaría del Medio Ambiente del Distrito Federal;
@@ -140,9 +180,17 @@ XXXIV. SERVICIOS HIDRÁULICOS.- Los servicios públicos que presta la administra
 
 XXXV. SISTEMA DE AGUAS.- El Sistema de Aguas de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XXXV BIS. SUSPENSIÓN.- Acción de obstruir el suministro del agua de la red de distribución del Gobierno del Distrito Federal a la toma del usuario;
+
 XXXVI. TOMA.- El punto de interconexión entre la infraestructura de la red secundaria para el abastecimiento de los servicios hidráulicos y la infraestructura interdomiciliaria de cada predio;
 
 XXXVII. TRATAMIENTO DE AGUAS RESIDUALES.- La actividad para remover y reducir las cargas contaminantes de las aguas;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XXXVII BIS. TRATAMIENTO DE AGUA PLUVIAL.- La actividad que mediante procesos físico-químicos y biológicos remueve las cargas contaminantes del agua pluvial;
 
 XXXVIII. USO DOMÉSTICO.- La utilización de aguas destinadas al uso particular en viviendas, el riego de sus jardines y de árboles de ornato, así como el abrevadero de animales domésticos, siempre que éstas no incluyan actividades lucrativas;
 
@@ -153,6 +201,14 @@ XL. USUARIO.- La persona física o moral que haga uso de uno o más de los servi
 ###### Artículo 5º.
 
 Toda persona en el Distrito Federal, tiene el derecho al acceso suficiente, seguro e higiénico de agua disponible para su uso personal y doméstico, así como al suministro libre de interferencias. Las autoridades garantizarán este derecho, pudiendo las personas presentar denuncias cuando el ejercicio del mismo se limite por actos, hechos u omisiones de alguna autoridad o persona, tomando en cuenta las limitaciones y restricciones que establece la presente Ley.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Cuando se suspenda el servicio de suministro de agua, en caso de uso domestico, de acuerdo con lo previsto en esta Ley, las autoridades garantizarán el abasto de agua para consumo humano a quienes se encuentren en este supuesto, mediante la dotación gratuita a través de carros tanques, hidrantes provisionales o públicos distribuidos en las demarcaciones territoriales, del Distrito Federal o garrafones de agua potable, conforme a criterios poblacionales, geográficos, viales, de accesibilidad y de equidad determinados por el Sistema de Aguas.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+La suspensión o restricción del suministro de agua ordenada por el Sistema de Aguas, se sustenta en los criterios establecidos en el párrafo anterior, salvaguardando, en todo momento, el derecho al acceso de agua para consumo humano.
 
 ###### Artículo 6º.
 
@@ -632,9 +688,13 @@ I. Mantener en buen estado sus instalaciones hidráulicas interiores a fin de ev
 
 II. Los muebles de baño, regaderas, llaves, tuberías y accesorios sanitarios que se distribuyan o comercialicen en el Distrito Federal, deberán reunir los requisitos técnicos especificados por las normas oficiales mexicanas correspondientes;
 
-III. Con el objeto de hacer más racional el consumo de agua en el Distrito Federal, procurarán contar con aparatos ahorradores, en los casos y con las características siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
-a) La instalación de inodoros deberá ser de los que incorporen en su funcionamiento, la menor cantidad de agua por descarga;
+III. Con el objeto de hacer más racional el consumo de agua en el Distrito Federal, deberán sustituir accesorios sanitarios ahorradores de agua potable, siempre que reúnan las características siguientes:
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+a) Muebles de baño, por mingitorios sin agua e inodoros de bajo consumo, que incorporen en su funcionamiento la menor cantidad de agua por descarga, o con selector de nivel de descarga.
 
 b) Las regaderas para baño y las llaves de lavabo deberán contar con sistemas que ahorren el consumo de agua; y
 
@@ -644,7 +704,11 @@ IV. Las albercas de cualquier volumen, deberán contar con equipos de filtració
 
 V. Mantener en buen estado su instalación hidráulica;
 
-VI. El riego de parques, jardines públicos y campos deportivos deberá realizarse con agua tratada;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+VI. El riego de parques, jardines públicos y campos deportivos deberá realizarse con agua tratada. En las nuevas edificaciones el riego de las áreas verdes, jardines, lavado de autos, inodoros y demás usos que no requieran de agua potable, se deberá realizar con agua tratada únicamente y en donde no exista red secundaria de distribución, los usuarios implementaran las acciones necesarias para el reuso interno, la captación de agua de lluvia, en su caso se abastecerán a través de carros tanque.
+
+En donde no se cuente con red secundaria de agua tratada, el usuario deberá realizar el riego de jardines en un horario de 20:00 P.M. a 6:00 A.M.
 
 VII. Las instalaciones hidráulicas interiores de un predio, conectados directamente con las tuberías del servicio público de agua potable, no deberán tener conexión con tuberías para el abastecimiento de agua obtenida por medio de pozos particulares;
 
@@ -654,7 +718,9 @@ IX. En las tuberías de las instalaciones hidráulicas interiores de los predios
 
 X. En ningún caso se podrán instalar bombas que succionen agua en forma directa de la red de distribución;
 
-XI. Se deberá utilizar agua residual tratada producida en las plantas de tratamiento, libre de compuestos tóxicos y orgánicos patógenos que pongan en peligro la salud, siempre y cuando haya disponibilidad en:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XI. Se deberá utilizar agua residual tratada producida en las plantas de tratamiento, libre de compuestos tóxicos y orgánicos patógenos que pongan en peligro la salud, en:
 
 a) Los usuarios domésticos, establecimientos mercantiles, industriales, comerciales, de servicios, de recreación y centros comerciales que ocupen una superficie de 2,500 metros cuadrados en adelante, en sus actividades de limpieza de instalaciones, parque vehicular y áreas verdes;
 
@@ -668,7 +734,19 @@ XII. El uso del agua para actividades humanas deberá realizarse de forma tal qu
 
 > <small>(ADICIONADA, G.O. 31 DE MAYO DE 2006)</small>
 
-XIII.- Para el caso de edificios mayores de 2 niveles, es obligación de los dueños de los mismos contar con sistemas de rebombeo que garanticen el suministro a todo el edificio.
+XIII.- Para el caso de edificios mayores de 2 niveles, es obligación de los dueños de los mismos contar con sistemas de rebombeo que garanticen el suministro a todo el edificio;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XIV. Será obligatorio para los prestadores de servicios, fijar en lugares visibles en sus servicios sanitarios, letreros que propicien e incentiven el uso racional del agua, que eviten su desperdicio y que contribuyan a su preservación, impulsando una cultura del agua;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XV. Instalar en los edificios públicos y de servicios, mingitorios sin agua, inodoros de bajo consumo, regaderas, llaves, tuberías y accesorios sanitarios ahorradores de agua potable, los cuales deberán recibir mantenimiento periódicamente para conservarse en condiciones optimas de servicio e higiene.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Artículo 35 BIS.- Las personas físicas o morales en el Distrito Federal, que fabriquen, distribuyan o comercialicen muebles de baño, deberán hacerlo con regaderas, llaves, tuberías y accesorios sanitarios ahorradores de agua potable.
 
 ###### Artículo 36.
 
@@ -842,9 +920,17 @@ En el Reglamento de esta Ley se establecerán las situaciones en las que se podr
 
 El Sistema de Aguas tiene a su cargo, entre otros, la prestación directa del servicio público de abasto y distribución de agua para uso y consumo humano en cantidad y calidad suficientes para satisfacer las necesidades de la población. Para tal efecto, deberá realizar obras de captación o almacenamiento, conducción y, en su caso, tratamiento o potabilización para el abastecimiento de agua.
 
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+El servicio de agua potable se deberá proporcionar con una presión mínima en la red de distribución de 0.500 kilogramos sobre centímetro cuadrado.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 54.
 
-La prestación del servicio público de abasto y distribución de agua para consumo humano en cantidad y calidad suficientes para la población del Distrito Federal es una obligación del Gobierno del Distrito Federal, y como tal no puede interrumpirse en su cumplimiento. Sólo podrá restringirse su suministro conforme a las disposiciones contendidas en la presente Ley y el Código Financiero del Distrito Federal.
+La prestación del servicio público y distribución de agua para consumo humano en cantidad y calidad suficiente para la población del Distrito Federal, es una obligación del Gobierno del Distrito Federal y como tal, su suministro no podrá suspenderse o restringirse, salvo en los casos en que se acredite la falta de pago de los derechos correspondientes de dos o mas periodos, consecutivos o alternados.
+
+En los casos en que proceda la suspensión, el derecho al acceso suficiente, seguro e higiénico de agua disponible para su uso personal y domestico, estará garantizado mediante carros tanque, garrafones de agua potable o hidrantes provisionales públicos distribuidos en las demarcaciones territoriales del Distrito Federal, de acuerdo con los criterios poblacionales, geográficos, viales, de accesibilidad y de equidad determinados por el Sistema de Aguas.
 
 > <small>(REFORMADO, G.O. 8 DE ENERO DE 2008)</small>
 
@@ -901,6 +987,14 @@ II. Se requiera hacer alguna reparación o dar mantenimiento a la infraestructur
 III. A solicitud del usuario; para hacer trabajos de remodelación, construcción o cualquier otra actividad que implique la necesidad justificada de suspender el servicio, y
 
 IV. Por no cumplir con las demás obligaciones contenidas en la presente Ley, su Reglamento, el Código Financiero del Distrito Federal y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Artículo 61 BIS.- El Sistema de Aguas analizando el caso en concreto determinará si aplica la suspensión o restricción del servicio de agua potable de uso doméstico, cuando los sujetos obligados omitan el pago de dos bimestres en forma consecutiva o alternada o bien reincidan en declarar consumos menores a los determinados por la autoridad, de los derechos establecidos en el Código Financiero del Distrito Federal, en cuyo caso proporcionará el servicio de suministro de agua potable para las necesidades básicas, considerando 50 litros por persona al día, mediante la dotación a través de carros tanques o hidrantes provisionales o públicos distribuidos en las demarcaciones territoriales, del Distrito Federal y/o vales de garrafones de agua potable en la instalación más cercana del Sistema de Aguas, determinando el monto del servicio dotado, el cual se registrará a cargo del contribuyente, mismo que deberá cubrirlo previo a la reinstalación.
+
+Estarán exentos de lo dispuesto en el párrafo anterior los jubilados, pensionados, las personas de la tercera edad y aquellas con capacidades diferentes.
+
+Para los efectos del párrafo anterior, los jubilados y pensionados por cesantía en edad avanzada, por vejez, por incapacidad, por riesgos de trabajo e invalidez; deberán acreditar que son propietarios y cuentan con una pensión o jubilación de conformidad a lo dispuesto por el Código Financiero del Distrito Federal. En estos casos el valor catastral del inmueble de uso habitacional no deberá exceder de la cantidad de $919,179.81.
 
 > <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
@@ -1010,9 +1104,21 @@ Podrá suspenderse el servicio de drenaje, cuando:
 
 I. En el predio no exista construcción;
 
-II. Cuando se requiera reparar o dar mantenimiento al sistema de drenaje, y
+II. Cuando se requiera reparar o dar mantenimiento al sistema de drenaje, y (sic)
 
-III. La descarga pueda obstruir la infraestructura o poner en peligro la seguridad del sistema hidráulico de la Ciudad o de sus habitantes.
+III. La descarga pueda obstruir la infraestructura o poner en peligro la seguridad del sistema hidráulico de la Ciudad o de sus habitantes;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+IV. Exista falta de pago de los derechos de descarga a la red de drenaje en dos o más periodos consecutivos alternados;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+V. En caso de uso no doméstico exista falta de pago por el suministro de agua potable en dos o más periodos, consecutivos o alternados;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+VI. Exista descarga a la red de drenaje y conexión, en contravención a las disposiciones aplicables.
 
 ###### Artículo 76.
 
@@ -1082,6 +1188,50 @@ El Sistema de Aguas vigilará que el reuso se ajuste a los términos establecido
 
 El Sistema de Aguas promoverá ante los usuarios prioritariamente el desarrollo de la infraestructura que permita el mayor aprovechamiento de las aguas residuales tratadas, siempre que se justifique técnica, económica y ambientalmente.
 
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Artículo 86 BIS.- Será obligatorio para las nuevas construcciones o edificaciones, que cuenten con dispositivos y accesorios hidráulicos y sanitarios que cumplan con las Normas Oficiales Mexicanas en materia de ahorro del agua.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Artículo 86 BIS 1.- Las nuevas construcciones o edificaciones deberán contar con redes separadas de agua potable, de agua residual tratada y cosecha de agua de lluvia, debiéndose utilizar esta última en todos aquellos usos que no requieran agua potable; así mismo, deberán contar con la instalación de sistemas alternativos de uso de agua pluvial.
+
+Las edificaciones existentes que modifiquen sus instalaciones hidráulicas para la reducción en el consumo de agua potable e incrementen la reutilización y tratamiento de la misma obtendrán la certificación de edificación sustentable y tendrán derecho a reducciones fiscales que establezca el Código Financiero del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Artículo 86 BIS 2.- Se deberá utilizar agua residual tratada en sus diversos niveles, en los siguientes casos:
+
+I. Servicios públicos: para el riego de áreas verdes, llenado de canales y de lagos recreativos;
+
+II. Abrevaderos y vida silvestre;
+
+III. Acuacultura;
+
+IV. Giros mercantiles;
+
+V. Riego de terrenos de cultivo de forrajes y pastura;
+
+VI. Riego de terrenos de productos agrícolas que se consumen crudos que no requieren preparación para su consumo. Esta agua deberá estar libre de contaminantes tóxicos y de organismos patógenos;
+
+VII. Recarga de Acuíferos mediante pozos de inyección o estanques de infiltración, previo cumplimiento de las normas federales y locales de calidad de agua potable y especificaciones que fije la autoridad competente en función del origen de las aguas residuales y del uso potencial del acuífero subterráneo;
+
+VIII. Riego de terrenos particulares;
+
+IX. Industrial, con fines de equipamiento, enfriamiento de motores calderas, limpieza de áreas de servicio y utilización en mingitorios y muebles sanitarios;
+
+X. Limpieza en edificios corporativos y utilización en mingitorios y muebles sanitarios;
+
+X (SIC). Lavado de vehículos automotores;
+
+XII. En todos aquellos procesos y giros industriales y comerciales que no requieran el uso de agua potable;
+
+XIII. Limpieza de animales, como caballos, vacas, puercos y las áreas destinadas a su habitación;
+
+XIV. En la industria, en edificios corporativos, escuelas públicas y privadas y en oficinas públicas y privadas y giros mercantiles: se deberá utilizar agua residual tratada para la limpieza y aseo de áreas de servicios, en mingitorios y muebles sanitarios; y
+
+XV. En los demás casos previstos en este y en otros ordenamientos.
+
 ### CAPÍTULO II. EL PAGO DE LOS DERECHOS HIDRÁULICOS
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
@@ -1112,6 +1262,10 @@ V. La orientación del desarrollo urbano e industrial.
 
 El pago de derechos de los servicios hidráulicos, deberá ser cubierto en los términos previstos por el Código Financiero.
 
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+Cuando se dejen de pagar en dos o mas periodos consecutivos o alternados, los derechos por suministro de agua, el Sistema de Aguas podrá suspender y/o restringir el servicio hasta que se efectué el pago de los derechos y accesorios legales que se hayan generado por la omisión de pago, así como los derechos y accesorios que correspondan a la reinstalación del suministro.
+
 ###### Artículo 89.
 
 Los derechos de los servicios hidráulicos se aprobarán y publicarán anualmente en el Código Financiero del Distrito Federal.
@@ -1120,9 +1274,13 @@ Los derechos de los servicios hidráulicos se aprobarán y publicarán anualment
 
 Corresponderá al Sistema de Aguas el cobro de los servicios hidráulicos a los que esta Ley hace referencia.
 
-La falta de pago de dos o más periodos de las cuotas o tarifas respectivas, traerán como consecuencia la suspensión del servicio a los usuarios no domésticos que realizará el Sistema de Aguas y hasta que se efectúe el pago de los derechos y accesorios legales que se hayan generado por la omisión de pago y los que correspondan a la reinstalación del suministro conforme al presupuesto formulado se restablecerá.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
-En el caso de los usuarios domésticos, la falta de pago de dos o más períodos de los derechos respectivos dará lugar al suministro restringido del agua en los términos establecidos en la presente Ley y el Código Financiero del Distrito Federal.
+La falta de pago de los derechos por suministro de agua en dos o más periodos consecutivos o alternados, podrá traer como consecuencia la suspensión del servicio a los usuarios no domésticos por parte del Sistema de Aguas, hasta que se efectué el pago de los derechos y accesorios legales que se hayan generado por la omisión de pago, así como los derechos y accesorios que correspondan por la reinstalación del suministro.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+En el caso de los usuarios domésticos, la falta de pago de dos o más periodos de los derechos respectivos podrá dar lugar, según sea el caso, a la suspensión o restricción del suministro de agua hasta que se efectué el pago de los derechos y accesorios legales que se hayan generado por la omisión de pago, así como los derechos y accesorios que correspondan por la reinstalación del suministro, asegurando el contar con el líquido para sus necesidades básicas.
 
 ###### Artículo 91.
 
@@ -1308,7 +1466,11 @@ V. Alterar la infraestructura hidráulica autorizada sin permiso de la autoridad
 
 VI. Negar los datos requeridos por la autoridad competente para verificar el cumplimiento de las disposiciones contenidas en ésta Ley, su Reglamento, así como en los títulos de concesión o permisos;
 
-VII. Arrojar o depositar sustancias tóxicas, peligrosas o lodos provenientes de uso de tratamientos de aguas residuales al drenaje del sistema, o en cauces y vasos;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+VII. Arrojar o depositar desechos sólidos susceptibles de sedimentarse y de obstruir los conductos; grasas, líquidos o sustancias inflamables, tóxicas, peligrosas, corrosivas y en general, cualquier desecho, objeto o sustancia que pueda alterar los conductos, estructura o funcionamiento del sistema, afectar las condiciones ambientales, sanitarias, causar daños a la población, o que haga económicamente incosteable su tratamiento ulterior; lodos provenientes del uso de tratamientos de aguas residuales, al drenaje del sistema, o en cauces y vasos, y cuando las descargas no cumplan con las Normas Oficiales
+
+Mexicanas;
 
 VIII. Incumplir las obligaciones contenidas en los títulos de concesión o permiso otorgados;
 
@@ -1320,7 +1482,9 @@ XI. Proporcionar los servicios de agua distinta a las que señale esta Ley, a pe
 
 XII. Negarse el usuario a reparar alguna fuga que se localice dentro de su propiedad, posesión o uso;
 
-XIII. Desperdiciar ostensiblemente el agua, o no cumplir con los requisitos, las normas y condiciones del uso del agua que establece esta Ley, su Reglamento o las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+XIII. Desperdiciar el agua, o no cumplir con los requisitos, las normas y condiciones del uso del agua que establece esta Ley, su Reglamento o las disposiciones legales aplicables;
 
 XIV. Impedir la ejecución de obras hidráulicas en vía pública, para la instalación de los servicios de suministro de agua potable, drenaje y alcantarillado;
 
@@ -1352,29 +1516,39 @@ La imposición de las presentes sanciones es independiente de las previstas y sa
 
 Cuando se cometan violaciones a la presente Ley, además de las penas señaladas, se procederá a la reparación del daño ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 111.
 
-Las faltas a que se refiere el Artículo anterior serán sancionadas administrativamente por el Gobierno del Distrito Federal a través del Sistema de Aguas, con multas equivalentes a días de salario mínimo general vigente en el Distrito Federal y en el momento en que se cometa la infracción, conforme a lo siguiente:
+Las faltas a que se refiere el artículo 110 serán sancionadas administrativamente por el Gobierno del Distrito Federal a través del Sistema de Aguas, con multas equivalentes a días de salario mínimo general vigente en el Distrito Federal y en el momento en que se cometa la infracción, conforme a lo siguiente:
 
 I. Cuando se trate de usuarios domésticos en caso de violación a las fracciones:
 
 a) IX, de 10 a 100;
 
-b) V, X, XII, XIII, XV, XVI, XVII y XVIII, de 100 a 300; y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
-c) VII, y XX, de 300 a 1000; y
+b) V, X, XII, XIII, XV, XVI, XVII y XVIII, de 300 a 600;
+
+c) VII, y XX, de 300 a 1000; y (sic)
 
 II. Cuando se trate de usuarios no domésticos en caso de violación a las fracciones:
 
 a) IX, de 100 a 500;
 
-b) V, X, XI, XII, XIV, XV, XVIII, XXI, XXII, XXIII y XXV, de 500 a 1000; y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
-c) I, II, III, IV, VI, VII, VIII, XIII, XVI, XVII, XIX, XX y XXIV, de 1000 a 3000.
+b) V. X. XI. XII. XIV. XV. XVIII, XXI, XXII, XXIII y XXIV, de 700 a 1500;
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+c) I, II, III, IV, VI, VII, VIII, XIII, XVI, XVII, XIX y XXIV, de 1500 a 3000.
 
 III. Cuando se trate de violación a la fracción XXV, de 1000 a 3000.
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+IV. En caso de violación a la fracción VII del artículo 110 el Sistema de Aguas realizará las obras necesarias de reparación y el dictamen que contendrá el monto de los daños que pagarán los propietarios o usuarios responsables.
 
 ###### Artículo 112.
 
@@ -1443,6 +1617,392 @@ La autoridad que conozca del recurso, deberá dictar la resolución que proceda 
 ###### Artículo 122.
 
 Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico, en los términos establecidos en la Ley Orgánica de la Procuraduría.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+## TITULO NOVENO. DE LA COSECHA DE AGUA DE LLUVIA DEL DISTRITO FEDERAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 123.
+
+El presente titulo es de orden público, interés social y de observancia general en el territorio del Distrito Federal y tiene por objeto:
+
+I. Regular, promover, organizar e incentivar la cosecha de agua de lluvia, su potabilización para el consumo humano y uso directo en actividades rurales, urbanas, comerciales, industriales y de cualquier otro uso en el Distrito Federal, en congruencia con lo establecido en la Ley de Aguas del Distrito Federal y con el fin de consolidar y fortalecer las políticas, estrategias, programas y acciones gubernamentales y de participación de la población para la gestión sustentable e integral de los recursos hídricos y la prestación de los servicios públicos de agua potable, drenaje y alcantarillado, así como el tratamiento y reuso de aguas residuales;
+
+II. Establecer los principios para garantizar la participación conciente de los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y las y los habitantes del Distrito Federal en la conservación, preservación, rescate, rehabilitación y ampliación de los ecosistemas y, por consiguiente, en el equilibrio ambiental y del ciclo hidrológico en el territorio del Distrito Federal;
+
+III. Contribuir a fortalecer las leyes, políticas, programas, estrategias, presupuestos, proyectos y acciones de los Poderes Federales y Órganos Locales en materia de preservación, rescate, rehabilitación y ampliación del Suelo de Conservación del Distrito Federal; y
+
+IV. Profundizar la conciencia de las y los habitantes del Distrito Federal sobre la urgente necesidad de construir una Cultura del Agua para garantizar el equilibrio ambiental de la Cuenca de México y su imprescindible participación ciudadana para contribuir a mejorar la salud y la protección civil de la población.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 124.
+
+Con base en el principio de que el agua es de todos los seres vivos presentes y futuros de la Tierra; como se establece en esta Ley, toda persona en el Distrito Federal, tiene derecho al acceso suficiente, seguro e higiénico de agua disponible para su uso personal y doméstico, así como al suministro libre de interferencias; y, que la precipitación del agua de lluvia, nieve o escarcha es un fenómeno natural del ciclo hidrológico que no tiene una distribución uniforme en el territorio del Distrito Federal, esta Ley otorga a las dependencias, entidades, organismos, instituciones, organizaciones y entes públicos, privados y sociales, los ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Distrito Federal, los derechos a:
+
+I. Cosechar agua de lluvia, individual o colectivamente;
+
+II. Ser reconocidos como Cosechador(a) Individual o Colectivo de Agua de Lluvia del Distrito Federal e inscritos en el Padrón de Cosechadores de Agua de Lluvia del Distrito Federal;
+
+III. Obtener los incentivos del Programa General y, en su caso, de sus Subprogramas;
+
+IV. Gestionar y obtener apoyo, asistencia y capacitación de técnicos y profesionales, así como atención, orientación, asesoría y los beneficios viables y posibles que se establezcan en las políticas, estrategias, programas, presupuestos y acciones del Gobierno del Distrito Federal en materia de cosecha de agua de lluvia en esta entidad; y
+
+V. Ser informados; debatir con seriedad, rigor y tolerancia; proponer; y, decidir democráticamente las políticas gubernamentales en materia de cosecha de agua de lluvia en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 125.
+
+En todas las nuevas edificaciones, instalaciones, equipamientos, viviendas y obras públicas que se construyan en el Distrito Federal será obligatorio, construir las obras e instalar los equipos e instrumentos necesarios para cosechar agua de lluvia, con base en las disposiciones que se establezcan en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 126.
+
+Los ejes principales de la formulación, ejecución y vigilancia de las políticas, estrategias, programas, presupuestos y acciones que deberán observar las autoridades competentes en materia de promoción, organización y otorgamiento de incentivos a la población por acciones individuales o colectivas de cosecha de agua de lluvia en el Distrito Federal son:
+
+I. La cosecha de agua de lluvia debe ser considerada política prioritaria y, por tanto, promovida, organizada e incentivada en congruencia con la regulación de la gestión integral de los hídricos y la prestación de los servicios públicos de agua potable, drenaje y alcantarillado, así como el tratamiento y reuso de aguas residuales;
+
+II. La planeación de investigaciones, sistematización de sus resultados; elaboración, formulación y actualización de diagnósticos y pronósticos; y, existencia y aplicación de nuevos aportes científicos y tecnologías para analizar e incrementar el acervo de conocimientos sobre las características del ciclo hidrológico, con énfasis en el proceso de precipitación pluvial en la Región Centro de México, en la Cuenca de México y, en particular, en el Distrito Federal, todo con el fin de definir, formular y proponer un Programa General;
+
+III. Definir, garantizar, diseñar y ejecutar un Subprograma de Cosecha de Agua de Lluvia de la Administración Pública del Distrito Federal: Central, Desconcentrada y Paraestatal, que además de alentar las acciones individuales o colectivas de los sectores privado y social, ejidos, comunidades, barrios y pueblos, así como de las y los habitantes del Distrito Federal, compense las irregularidades de la distribución de la precipitación pluvial en su territorio, mediante suministro de volúmenes de agua pluvial potabilizada por dicho subprograma a las y los habitantes que viven en zonas de baja precipitación pluvial o carezcan de las posibilidades o condiciones de cosechar agua de lluvia;
+
+IV. Apoyar, estimular, promover, organizar e incentivar las acciones de cosecha de agua de lluvia de la población de la ciudad de México, con los siguientes:
+
+a) Subprograma de Cosecha de Agua de Lluvia en los Ejidos, Comunidades, Barrios y Pueblos Rurales del Distrito Federal;
+
+b) Subprograma de Cosecha de Agua de Lluvia en los Hogares de las y los Habitantes del Distrito Federal;
+
+c) Subprograma de Cosecha de Agua de Lluvia en Todas las Nuevas Edificaciones, Instalaciones, Equipamientos, Viviendas y Obras Públicas del Distrito Federal;
+
+d) Subprograma de Adquisiciones de Tecnología, Materiales de Construcción, Infraestructura, Equipos e Instrumentos para Garantizar la Cosecha de Agua de Lluvia, su Potabilización y Otros Usos en el Distrito Federal; y
+
+V. Introducir en todos las políticas, estrategias, programas, presupuestos y acciones del Gobierno del Distrito Federal como eje transversal la cultura del uso racional, ahorro y reuso de agua potable y de construcción en todos sus edificios, oficinas, instalaciones y propiedades, la construcción de obras, infraestructura equipos e instrumentos para la cosecha de agua de lluvia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO II. DE LAS AUTORIDADES Y SU COMPETENCIA
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 127.
+
+Son autoridades competentes en materia de cosecha de agua de lluvia:
+
+I. La Asamblea Legislativa del Distrito Federal;
+
+II. El Jefe de Gobierno del Distrito Federal;
+
+III. La Secretaría de Medio Ambiente;
+
+IV. El Sistema de Aguas de la Ciudad de México; y
+
+V. Los Jefes Delegacionales del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 128.
+
+La Asamblea es competente para:
+
+I. Aprobar el Programa General y sus Subprogramas, las modificaciones y cancelaciones que sean necesarias;
+
+II. Remitir el Programa General y sus Subprogramas al Jefe de Gobierno para su promulgación e inscripción en los registros correspondientes; y,
+
+III. Aprobar anualmente dentro del presupuesto de egresos del Distrito Federal los rubros, partidas y montos de gasto necesarios para garantizar el cumplimiento de los fines, objetivos, ejecución y vigilancia del Programa General y sus Subprogramas, en ningún caso, dicha asignación presupuestal será menor al ejercicio anterior inmediato.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 129.
+
+El Jefe de Gobierno, además de las que le confieran la Ley Orgánica y otras disposiciones jurídicas, tiene como atribuciones las siguientes:
+
+I. Instruir a la Secretaría y al Sistema de Aguas la planificación, diseño, formulación, elaboración, coordinación y difusión de estudios e investigaciones, diagnósticos, pronósticos y reportes científicos y tecnológicos en materia de cosecha de agua de lluvia;
+
+II. Impulsar, previa difusión pública de los resultados de las investigaciones, diagnósticos, pronósticos y reportes científicos y tecnológicos, la participación de los sectores privado y social en la definición, formulación, elaboración, ejecución, evaluación y modificaciones del Programa General y sus Subprogramas;
+
+III. Remitir a la Asamblea el Proyecto de Programa General y sus Subprogramas, las propuestas de modificaciones y cancelaciones, para su análisis, correcciones, complementos y aprobación; y
+
+IV. Celebrar convenios de coordinación de acciones en materia de cosecha de agua de lluvia, con las dependencias del Poder Ejecutivo Federal, con los gobiernos estatales o municipales, con una perspectiva de desarrollo sustentable e integral de la cuenca de México y metropolitano.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 130.
+
+La Secretaría tiene como atribuciones, además de las que le confiere la Ley Ambiental, la Ley Orgánica y otras disposiciones jurídicas, las siguientes:
+
+I. Definir, previa opinión del Sistema de Aguas; y, realizar por sí misma; convenir con instituciones de investigación, docencia, extensión y difusión, organizaciones no gubernamentales y profesionales, o investigadores independientes; coordinar interinstitucional y multidisciplinariamente las investigaciones, sistematización de sus resultados, elaboración, formulación y actualización de diagnósticos y pronósticos, la búsqueda de la existencia y aplicación de nuevos aportes científicos y tecnologías, en materia de cosecha de agua de lluvia;
+
+II. Definir, formular, evaluar y vigilar, previa opinión del Sistema de Aguas, la fundamentación; motivación; la delimitación de la situación general de la precipitación en el Distrito Federal, el diagnóstico, pronóstico y perspectiva; objetivos generales y particulares; políticas, estrategias, líneas programáticas principales y secundarias, montos de presupuesto y acciones de coordinación y ejecutivas de la Administración Pública del Distrito Federal para la elaboración y ejecución del Proyecto de Programa General y sus Subprogramas; y
+
+III. Elaborar y proponer al Jefe de Gobierno el Proyecto de Programa General y sus Subprogramas, modificaciones o cancelaciones, que éste debe remitir a la Asamblea.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 131.
+
+El Sistema de Aguas, además de las atribuciones que le confiere la Ley Orgánica, Ley de Aguas, la Ley Ambiental y otras disposiciones jurídicas, tiene las siguientes:
+
+I. Opinar sobre la definición y realización por la Secretaría de investigaciones, sistematización de sus resultados, elaboración, formulación y actualización de diagnósticos y pronósticos, la búsqueda de la existencia y aplicación de nuevos aportes científicos y tecnologías, en materia de cosecha de agua de lluvia; sobre los proyectos de convenios con instituciones de investigación, docencia, extensión y difusión, organizaciones no gubernamentales y profesionales, o investigadores independientes; y sobre la coordinación interinstitucional y multidisciplinaria necesaria para garantizar dichos estudios e investigaciones;
+
+II. Opinar sobre los términos, contenidos y alcances de la fundamentación; motivación; la delimitación de la situación general de la precipitación en el Distrito Federal, el diagnóstico, pronóstico y perspectiva; objetivos generales y particulares; políticas, estrategias, líneas programáticas principales y secundarias, montos de presupuesto y acciones de coordinación y ejecutivas de la Administración Pública del Distrito Federal para la formulación y elaboración del Proyecto de Programa General y sus Subprogramas; y
+
+III. Cumplir y ejecutar el Programa General y sus Subprogramas, previa definición de metas, prioridades anuales, calendarios de ejecución, evaluación y revisión de resultados, formas y modos de coordinación más adecuados para la Administración Pública del Distrito Federal, así como los contenidos, formas, instrumentos y tiempos para la consulta y la participación de los sectores privado y social en la definición, formulación, elaboración, ejecución, evaluación y modificaciones del Programa General de Cosecha de Agua de Lluvia del Distrito Federal y sus Subprogramas a que convoque el Jefe de Gobierno.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 132.
+
+Los Jefes Delegacionales, además de las atribuciones que les confieren la Ley Orgánica, Ley de Aguas, la Ley Ambiental, la Ley Orgánica y otras disposiciones jurídicas, tienen las siguientes:
+
+I. Contribuir al cumplimiento de las políticas, estrategias, objetivos, instrumentos, acciones gubernamentales y ejecución del Programa General y sus Subprogramas; y
+
+II. Opinar sobre las modificaciones y cancelaciones necesarias del Programa General y sus Subprogramas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO III
+
+DE LA PLANEACIÓN Y CONGRUENCIA DE LA (SIC) POLÍTICAS, ESTRATEGIAS Y PROGRAMAS EN MATERIA DE COSECHA DE AGUA DE LLUVIA CON LA POLÍTICA DE GESTIÓN INTEGRAL DE LOS RECURSOS HÍDRICOS
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 133.
+
+La planeación de cosecha de agua de lluvia; los usos, ahorros y reusos de agua pluvial potabilizada para el consumo humano con fines domésticos; y el aprovechamiento directo del agua pluvial cosechada para usos urbano, rural, comercial, industrial o de cualquier otro uso en el Distrito Federal, constituyen la sistematización de la estructuración racional, organización, promoción y otorgamiento de incentivos en esta materia y guardarán congruencia con el Programa General de Desarrollo del Distrito Federal y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 134.
+
+Las autoridades en materia de cosecha de agua de lluvia deberán garantizar la congruencia y correspondencia entre la planeación de corto, mediano y largo plazos, las políticas, las estrategias y el Programa General y sus Subprogramas con la vigente Política de Gestión Integral de los Recursos Hídricos y sus Instrumentos, dispuesta en esta Ley y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 135.
+
+El Programa General y sus Subprogramas aprobados por la Asamblea, mantendrán, asimismo, concordancia con las leyes, planes y programas federales y locales; establecerán las acciones concurrentes; formarán parte del Sistema Nacional de Planeación Democrática; y se deberán inscribir en el Registro de los Planes y Programas, así como en el Registro Público de la Propiedad y del Comercio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO IV. DEL PROGRAMAS (SIC) GENERAL DE COSECHA DE AGUA DE LLUVIA DEL DISTRITO FEDERAL Y SUS SUBPROGRAMAS
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 136.
+
+El Programa General aprobado por la Asamblea, contendrá:
+
+I. Presentación;
+
+II. Introducción;
+
+III. Fundamentación y Motivación;
+
+IV. Imagen Objetivo;
+
+V. Delimitación de la Situación General de la Cuenca de México y, en particular, de la Precipitación en el Distrito Federal;
+
+VI. Diagnóstico, Pronóstico y Perspectiva de la Cosecha de Agua de Lluvia en el Distrito Federal, la potabilización de agua pluvial cosechada para consumo humano y de su aprovechamiento para usos urbano, rural, comercial, industrial o de cualquier otro uso en el Distrito Federal;
+
+VII. Objetivos Generales y Particulares, Políticas, Estrategias, Líneas Programáticas Principales y Secundarias, Montos de Presupuesto y Acciones de Coordinación y Ejecutivas de la Administración Pública del Distrito Federal;
+
+VIII. Constitución, Formas y Mecanismos de Administración y Operación del Fondo de Apoyo a la Cosecha de Agua de Lluvia en el Distrito Federal;
+
+IX. Metas, Prioridades Anuales, Calendarios de Ejecución, Evaluación y Revisión de Resultados;
+
+X. Formas y Mecanismos de Coordinación Intra e Interinstitucional en la Administración Pública del Distrito Federal para Garantizar su Cumplimiento; y,
+
+XI. Los siguientes subprogramas:
+
+a) Subprograma de Cosecha de Agua de Lluvia de la Administración Pública del Distrito Federal;
+
+b) Subprograma de Cosecha de Agua de Lluvia en los Ejidos, Comunidades, Barrios y Pueblos Rurales del Distrito Federal;
+
+c) Subprograma de Cosecha de Agua de Lluvia en los Hogares de las y los Habitantes del Distrito Federal;
+
+d) Subprograma de Cosecha de Agua de Lluvia en Todas las Nuevas Edificaciones, Instalaciones, Equipamientos, Viviendas y Obras Públicas del Distrito Federal; y
+
+e) Subprograma de Adquisiciones de Tecnología, Materiales de Construcción, Infraestructura, Equipos e Instrumentos para Garantizar la Cosecha de Agua de Lluvia, Su Potabilización y Otros Usos en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 137.
+
+El Subprograma de Cosecha de Agua de la Administración Pública del Distrito Federal, contendrá:
+
+I. Presentación;
+
+II. Introducción;
+
+III. Fundamentación y Motivación;
+
+IV. Objetivos Principales y Secundarios;
+
+V. Delimitación de la Situación General de los Bienes Inmuebles, Instalaciones y, en general, de todas las Propiedades de la Administración Pública: Central, Desconcentrada y Paraestatal, del Distrito Federal y, en particular, de las Obras Públicas, Infraestructura, Equipos e Instrumentos construidas para medir la Precipitación y cumplir con las obligaciones que señala la Ley de Protección Civil para el Distrito Federal;
+
+VI. Diagnóstico, Pronóstico y Perspectiva de la Cosecha de Agua de Lluvia, Su Potabilización y Otros Usos, en la Administración Pública: Central, Desconcentrada y Paraestatal del Distrito Federal;
+
+VII. Políticas, Estrategias, Líneas Programáticas Principales y Secundarias, Montos de Presupuesto, Acciones de Coordinación y Ejecutivas de la Administración Pública del Distrito Federal, Metas, Mecanismos y Montos de Presupuesto para Construir Obras Públicas, Infraestructura, Equipos e Instrumentos para Garantizar la Cosecha de Agua de Lluvia, Su Potabilización y Otros Usos, Prioridades Anuales, Calendarios de Ejecución, Evaluación y
+
+Revisión de Resultados; y
+
+VIII. Formas y Mecanismos de Coordinación Intra e Interinstitucional en la Administración Pública del Distrito Federal para Garantizar su Cumplimiento.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 138.
+
+El Subprograma de Cosecha de Agua de Lluvia en los Ejidos, Comunidades, Barrios y Pueblos Rurales del Distrito Federal, contendrá:
+
+I. Presentación;
+
+II. Introducción;
+
+III. Fundamentación y Motivación;
+
+IV. Objetivos Principales y Secundarios;
+
+V. Delimitación de la Situación General del Suelo de Conservación del Distrito Federal y, en particular, de la Precipitación en las 88,442 Hectáreas que lo integran, así como del Parque Habitacional y las Obras Públicas, Infraestructura, Equipos e Instrumentos Rurales construidas para contener y disminuir la erosión y la pérdida de ecosistemas, chinampas, humedales, bosques, pastizales, zonas de alta recarga del acuífero, flora y fauna endémicas;
+
+VI. Diagnóstico, Pronóstico y Perspectiva de la Cosecha de Agua de Lluvia en el Suelo de Conservación del Distrito Federal, Su Potabilización y Otros Usos, en particular, en los Ejidos, Comunidades, Barrios, Pueblos y Micro, Pequeña y Mediana Propiedad Rural;
+
+VII. Políticas, Estrategias, Líneas Programáticas Principales y Secundarias, Montos de Presupuesto, Acciones de Coordinación y Ejecutivas de la Administración Pública del Distrito Federal, Metas, Mecanismos y Montos de Subsidio y Apoyos a los Ejidos, Comunidades, Barrios, Pueblos y Micro, Pequeña y Mediana Propiedad Rural, Prioridades Anuales, Calendarios de Ejecución, Evaluación y Revisión de Resultados; y
+
+VIII. Formas y Mecanismos de Coordinación Intra e Interinstitucional en la Administración Pública del Distrito Federal para Garantizar su Cumplimiento.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 139.
+
+El Subprograma de Cosecha de Agua de Lluvia en los Hogares de las y los Habitantes del Distrito Federal, contendrá:
+
+I. Presentación;
+
+II. Introducción;
+
+III. Fundamentación y Motivación;
+
+IV. Objetivo (sic) Principales y Secundarios;
+
+V. Delimitación de la Situación General del Suelo de (sic) Urbano del Distrito Federal y, en particular, de la Situación Estructural y Arquitectónica del Parque Habitacional, Urbano, Comercial, Industrial y Otros, Azoteas, Patios, Áreas Verdes y Espacios Libres de la Red Vial Primaria y Secundaria;
+
+VI. Diagnóstico, Pronóstico y Perspectiva de la Cosecha de Agua de Lluvia en el Suelo Urbano en los Hogares, Zonas Urbanas, Comerciales e Industriales y Otros, Azoteas, Patios, Áreas Verdes y Espacios Libres de la Red Vial Primaria y Secundaria del Distrito Federal, Su Potabilización y Otros Usos;
+
+VII. Políticas, Estrategias, Líneas Programáticas Principales y Secundarias, Montos de Presupuesto, Acciones de Coordinación y Ejecutivas de la Administración Pública del Distrito Federal, Metas, Mecanismos y Montos de Subsidio y Apoyos a los Hogares, Prioridades Anuales, Calendarios de Ejecución, Evaluación y Revisión de Resultados; y
+
+VIII. Formas y Mecanismos de Coordinación Intra e Interinstitucional en la Administración Pública del Distrito Federal para Garantizar su Cumplimiento.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 140.
+
+El Subprograma de Cosecha de Agua de Lluvia en Todas las Nuevas Edificaciones, Instalaciones, Equipamientos, Viviendas y Obras Públicas del Distrito Federal, contendrá:
+
+I. Presentación;
+
+II. Introducción;
+
+III. Fundamentación y Motivación;
+
+IV. Objetivo (sic) Principales y Secundarios;
+
+V. Proyecciones, Diagnóstico, Pronóstico y Perspectiva Programático-Presupuestal para Garantizar la Construcción, en Todas las Nuevas Edificaciones, Instalaciones, Equipamientos, Viviendas y Obras Públicas, de la Infraestructura e Instalación de Equipos e Instrumentos para la Cosecha de Agua de Lluvia;
+
+VI. Políticas, Estrategias, Líneas Programáticas Principales y Secundarias, Montos de Presupuesto, Acciones de Coordinación y Ejecutivas de la Administración Pública del Distrito Federal, Metas y Montos de Subsidio y Apoyos a la Construcción de Infraestructura e Instalación de Equipos e Instrumentos para la Cosecha de Agua de Lluvia en las Vivienda (sic) de Interés Social y Popular, Prioridades Anuales, Calendarios de Ejecución, Evaluación y Revisión de Resultados; y
+
+VII. Formas y Mecanismos de Coordinación Intra e Interinstitucional en la Administración Pública del Distrito Federal para Garantizar su Cumplimiento.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 141.
+
+El Subprograma de Adquisiciones de Tecnología, Materiales de Construcción, Infraestructura, Equipos e Instrumentos para Garantizar la Cosecha de Agua de Lluvia, su Potabilización y otros usos en el Distrito Federal, contendrá:
+
+I. Presentación;
+
+II. Introducción;
+
+III. Fundamentación y Motivación;
+
+IV. Objetivo (sic) Principales y Secundarios;
+
+V. Delimitación de la Situación General de las Obras Públicas, Infraestructura, Equipos e Instrumentos de Cosecha de Agua de Lluvia, Su Potabilización y Otros Usos en el Distrito Federal;
+
+VI. Diagnóstico, Pronóstico y Perspectiva Programático-Presupuestal para la Adquisición de Tecnología, Materiales de Construcción, Infraestructura, Equipos e Instrumentos para Garantizar la Cosecha de Agua de Lluvia, Su Potabilización y Otros Usos en el Distrito Federal;
+
+VII. Políticas, Estrategias, Líneas Programáticas Principales y Secundarias, Montos de Presupuesto, Acciones de Coordinación y Ejecutivas de la Administración Pública del Distrito Federal, Metas de Adquisiciones de Tecnología, Materiales de Construcción, Infraestructura, Equipos e Instrumentos para Garantizar la Cosecha de Agua de Lluvia, Su Potabilización y Otros Usos en el Distrito Federal; y
+
+VIII. Formas y Mecanismos de Coordinación Intra e Interinstitucional en la Administración Pública del Distrito Federal para Garantizar su Cumplimiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO V. DE LA CONSTITUCIÓN, INTEGRACIÓN Y ADMINISTRACIÓN DEL FONDO GENERAL DE APOYO A LA COSECHA DE AGUA DE LLUVIA DEL DISTRITO FEDERAL
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 142.
+
+Se crea el Fondo General de Apoyo a la Cosecha de Agua de Lluvia del Distrito Federal, mismo que será administrado y operado por el Sistema de Aguas de la Ciudad de México, de acuerdo a lo señalado en el capitulo correspondiente a la Competencia de esta Ley.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 143.
+
+El Fondo estará integrado con recursos propios, mismos que se integran con los montos anuales autorizados por la Asamblea en el Decreto de Presupuesto de Egresos del Distrito Federal de cada año, los rendimientos que en cualquier modalidad generan los depósitos en dinero o valores, las donaciones y aportaciones de terceros.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 144.
+
+El Fondo sólo podrá destinar, autorizar, programar, ejercer y devengar sus recursos para alcanzar los siguientes fines:
+
+I. Adquirir, construir, mantener, rehabilitar, remodelar o ampliar inmuebles cuyo uso exclusivo sea organizar, promover o incentivar la cosecha de agua de lluvia, construir obras públicas, dotar de infraestructura, instalar equipos e instrumentos para la cosecha de agua de lluvia, su potabilización para consumo humano o su aprovechamiento para uso rural y urbano;
+
+II. Comprar, rentar, mantener, rehabilitar o incrementar materiales de construcción para obras del sector público y social, ejidos, comunidades, barrios, pueblos y de las y los habitantes del Distrito Federal, cuyo fin exclusivo sea captar agua de lluvia, nieve o granizo, su potabilización para consumo humano o su aprovechamiento para uso rural y urbano;
+
+III. Comprar, rentar, mantener, rehabilitar o incrementar infraestructura, instalar equipos, instrumentos y todo tipo de objetos muebles cuyo uso exclusivo sea organizar, promover o incentivar la cosecha de agua de lluvia, su potabilización para consumo humano o su aprovechamiento para uso rural y urbano;
+
+IV. Definir, formular, elaborar investigaciones, estudios, programas, asesoría, capacitación, actualización, superación profesional y técnica, cuyo fin exclusivo sea contribuir a organizar, promover o incentivar la cosecha de agua de lluvia, su potabilización para consumo humano o su aprovechamiento para uso rural y urbano;
+
+V. Otorgar incentivos económicos y en especie, inalienables e intransferibles, a los cosechadores(as) (dependencias, entidades, organismos, instituciones, organizaciones y entes públicos y sociales, los ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Distrito Federal) que realicen cualquier acción para captar la unidad básica del Programa General: un metro cúbico de agua pluvial, de acuerdo con los tiempos, espacios y especificaciones técnicas que establece la presente ley, precise su reglamento y norme dicho programa general y sus respectivos subprogramas;
+
+VI. Las dependencias, entidades, organismos, instituciones, organizaciones y entes públicos, privados y sociales, los ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Distrito Federal que conscientes de la fundamental importancia de construir colectivamente una nueva cultura del uso, ahorro y reuso del agua potable realicen las acciones individuales o colectivas que puedan para contribuir con el Gobierno del Distrito Federal a promover, organizar e incentivar la cosecha de agua de lluvia;
+
+VII. Constituir, incrementar y apoyar los fondos particulares de los subprogramas citados en los artículos 16, 17, 18, 19 y 20 de la presente Ley;
+
+VIII. Sufragar gastos que sean necesarios, autorizados por el Sistema de Aguas y justificados para regular, promover, organizar e incentivar la cosecha de agua de lluvia, su potabilización para el consumo humano y uso directo en actividades rurales, urbanas, comerciales, industriales y de cualquier otro uso en el Distrito Federal; y
+
+IX. Cubrir honorarios fiduciarios y demás gastos que origine la administración y operación del fondo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO VI. DE LOS INSTRUMENTOS Y LA DIFUSIÓN DE LA LEY Y DEL PROGRAMA GENERAL Y SUS SUBPROGRAMAS
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 145.
+
+Los instrumentos son los medios por los cuales se definirán, autorizarán y otorgarán los incentivos económicos y en especie, a los cosechadores(as) del sector público y social, ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Distrito Federal que realicen cualquier acción para cosechar un metro cúbico o más de agua de lluvia en el Distrito Federal, su potabilización para consumo humano en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 146.
+
+Los instrumentos podrán ser de desregulación, y simplificación administrativa, financieros, fiscales, de organización, de promoción, de infraestructura, de investigación y desarrollo tecnológico, asesoría, capacitación, actualización y superación profesional y técnica.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 147.
+
+La Administración Pública del Distrito Federal promoverá la difusión intensiva de la presente Ley y del Programa General, Subprogramas y de los requisitos, mecanismos y formas de otorgamiento de incentivos para garantizar la cosecha de agua de lluvia, su potabilización y aprovechamiento en actividades rurales, urbanas, comerciales, industriales y de cualquier otro uso en el Distrito Federal con el fin de consolidar y fortalecer las políticas, estrategias, programas y acciones gubernamentales y de participación de la población para la gestión sustentable e integral de los recursos hídricos y la prestación de los servicios públicos de agua potable, drenaje y alcantarillado, así como el tratamiento y reuso de aguas residuales.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1515,3 +2075,29 @@ G.O. 8 DE ENERO DE 2008.
 Primero.- La presente reforma y adición entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de (sic) Distrito Federal.
 
 Segundo.- Remítase al Jefe de Gobierno para su debida publicación en la Gaceta Oficial de (sic) Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 1 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; salvo las reformas relativas al Código Financiero del Distrito Federal, mismas que entrarán en vigor el día 1 de enero del 2009.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su mayor difusión.
+
+###### ARTÍCULO TERCERO.
+
+De acuerdo con la disponibilidad de recursos y las partidas presupuestales asignadas al Sistema de Aguas de la Ciudad de México, este órgano deberá planear y ejecutar la instalación de hidrantes públicos, a efecto de garantizar el acceso al agua para uso básico para consumo humano, a aquellas personas que le sea suspendido el suministro por alguna de las causas previstas en las disposiciones aplicables.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema de Aguas de manera coordinada con la Secretaría de Finanzas deberán realizar las acciones y establecer los lineamientos para la creación del fondo a que se refiere el capitulo V, del Titulo Noveno de la Ley de Aguas del Distrito Federal del presente decreto, a efecto de que sea contemplado de acuerdo con la disponibilidad de recursos y las partidas presupuestales asignadas al Sistema de Aguas, para ejercicio 2009.
+
+###### ARTÍCULO QUINTO.
+
+A efecto de no causar una afectación general a los usuarios del Servicio de Agua Potable; el Sistema de Aguas en coordinación con la Secretaría de Finanzas y Tesorería, implementaran un programa general de regulación de tomas y adeudos, a efecto de que, a partir del día primero de enero del 2009 se encuentren al corriente los usuarios de dicho servicio.
+
+###### ARTÍCULO SEXTO.
+
+El Sistema de Aguas de la Ciudad de México creará, en un término de noventa días naturales, una unidad administrativa encargada de elaborar y ejecutar la política de cosecha de agua de lluvia en el Distrito Federal.
