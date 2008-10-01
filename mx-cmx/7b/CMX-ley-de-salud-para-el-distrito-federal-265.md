@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2008-01-07"
+last_updated: "2008-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987.
 
@@ -918,7 +918,7 @@ El depósito final de los residuos sólidos deberá observar lo dispuesto en la 
 
 ### CAPITULO VII. Del Agua Potable y Alcantarillado
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 41.
 
@@ -968,7 +968,7 @@ El manejo, disposición y expendio de la carne para consumo humano y sus derivad
 
 ###### ARTICULO 44.
 
-Corresponde al Gobierno aprobar los proyectos y sistemas de abastecimiento de agua potable y alcantarillado y las obras se llevarán a cabo bajo la verificación de este.
+Corresponde al Gobierno la vigilancia periódica de la potabilidad del agua en la red pública de abastecimiento, especialmente en su almacenamiento y disposición final, mediante el dictamen de académicos especializados en la materia, de acuerdo a las Normas Oficiales que determinan la calidad del agua para el consumo humano.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -984,9 +984,11 @@ En las áreas del Distrito Federal en que se carezca del sistema de agua potable
 
 Asimismo, conforme a estas normas, para el consumo humano no podrá utilizarse el agua de algún pozo o aljibe, si éste no se encuentra situado a una distancia conveniente de retretes, alcantarillas, estercoleros o depósitos de desperdicios que puedan contaminarlos.
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 46.
 
-Las personas que intervengan en el abastecimiento de agua no podrán suprimir este servicio en los edificios habitados excepto en los casos que determinen las disposiciones generales aplicables.
+Cuando el Gobierno, a través del Sistema de Aguas, suspenda el suministro de agua de acuerdo con lo previsto en la Ley de Aguas del Distrito Federal y en Código Financiero del Distrito Federal, el abastecimiento de agua para uso básico para consumo humano se garantizará mediante carro tanque, garrafones de agua potable o hidrantes provisionales o públicos, conforme a los criterios poblacionales, geográficos, viales de accesibilidad y equidad determinados por el mismo órgano.
 
 ###### ARTICULO 47.
 
@@ -1811,3 +1813,17 @@ SÉPTIMO.- Una vez que el Centro Local de Trasplantes inicie sus operaciones, la
 OCTAVO.- El Jefe de Gobierno del Distrito Federal, deberá suscribir los convenios de coordinación de acciones correspondientes con la Secretaría de Salud Federal, El Centro Nacional de Trasplantes y los Centros Estatales de Trasplantes, a efecto de garantizar el cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada para el Distrito Federal, en materia de Trasplantes y Donación de Órganos y Tejidos, con base en lo dispuesto por la Ley General de Salud en lo conducente y aplicable.
 
 NOVENO.- Publíquese el presente Decreto en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 1 DE OCTUBRE DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; salvo las reformas relativas al Código Financiero del Distrito Federal, mismas que entrarán en vigor el día 1 de enero del 2009.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su mayor difusión.
+
+...
