@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-superior-gubernamental-del-estado-de-33365"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-11"
-last_updated: "2008-07-16"
+last_updated: "2008-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE AUDITORIA SUPERIOR GUBERNAMENTAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 1 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 11 de agosto de 2003.
 
@@ -1294,3 +1296,17 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2008.
+
+PRIMERO.- Se abroga la Ley de la Auditoria Superior Gubernamental del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4271, de fecha once de agosto del año dos mil tres y se derogan todas las disposiciones legales, reglamentarias o administrativas que se opongan a la presente Ley.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad del Estado de Morelos.
+
+TERCERO.- El Auditor Superior Gubernamental concluirá sus funciones el 12 de octubre de 2008, conforme a lo establecido en el decreto 363, publicado en el Periódico Oficial número 4355, de fecha 20 de octubre de 2004.
+
+CUARTO.- Conforme al segundo párrafo del artículo octavo transitorio de la reforma publicada mediante el decreto 822 de fecha 16 de julio de 2008, los Auditores Especiales, los titulares de la unidad de administración y de asuntos jurídicos, y los directores de la Auditoría Superior Gubernamental, cesarán en sus funciones en la misma fecha que el Auditor Superior Gubernamental.
+
+QUINTO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Auditoría Superior Gubernamental, pasarán a formar parte de la Auditoría Superior de Fiscalización, Los trabajadores tendrán derecho a la indemnización de tres meses de salario, en caso de no utilizarse sus servicios en el nuevo órgano, de lo cual el Auditor Superior informará al Congreso oportunamente.
+
+SEXTO.- En un término máximo de sesenta días hábiles siguientes al inicio de vigencia de la presente, la Auditoría Superior deberá presentar al Congreso para su aprobación, el Reglamento Interior que regule el funcionamiento y atribuciones del mismo, mientras tanto, ejercerá sus atribuciones y competencias conforme a lo dispuesto por la Constitución, esta Ley y los ordenamientos vigentes en lo que no se contravengan, hasta la expedición del Reglamento.
