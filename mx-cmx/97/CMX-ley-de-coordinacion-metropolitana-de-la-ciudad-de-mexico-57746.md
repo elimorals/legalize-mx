@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-coordinacion-metropolitana-de-la-ciudad-de-mexico-57746"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-03"
-last_updated: "2008-01-03"
+last_updated: "2008-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57746&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-13"
 
 LEY DE DESARROLLO METROPOLITANO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 3 de enero de 2008.
 
@@ -84,7 +84,9 @@ La Secretaría de Gobierno, a través de la Subsecretaría, será la responsable
 
 Son atribuciones del Secretario de Gobierno a través de la Subsecretaría:
 
-I. Proponer y promover la suscripción de convenios para la constitución, integración y funcionamiento de las comisiones metropolitanas, en coordinación con las Dependencias y Delegaciones, en las materias de Desarrollo Urbano; Protección al Ambiente; Preservación y Restauración del Equilibrio Ecológico; Transporte, Agua Potable y Drenaje; Recolección, Tratamiento y Disposición de Desechos Sólidos; Seguridad Pública y Trata de Personas, Explotación Sexual Infantil y Sexoservicio, así como la celebración y suscripción de los instrumentos necesarios para el cumplimiento de los objetivos y fines de esta Ley;
+> <small>(ADICIONADA [REFORMADA], G.O. 2 DE OCTUBRE DE 2008)</small>
+
+I. Proponer y promover la suscripción de convenios para la constitución, integración y funcionamiento de las comisiones metropolitanas, en coordinación con las Dependencias y Delegaciones, en las materias de Desarrollo Urbano; Protección al Ambiente; Preservación y Restauración del Equilibrio Ecológico; Transporte, Agua Potable y Drenaje; Recolección, Tratamiento y Disposición de Desechos Sólidos; Ciencia y Tecnología; Seguridad Pública y Trata de Personas, Explotación Sexual Infantil y Sexoservicio, así como la celebración y suscripción de los instrumentos necesarios para el cumplimiento de los objetivos y fines de esta Ley;
 
 II. Coordinar, conjuntamente con las entidades, dependencias, órganos desconcentrados y las delegaciones, los trabajos de las comisiones metropolitanas constituidas;
 
@@ -102,9 +104,15 @@ VIII. Proponer los proyectos de los ordenamientos jurídicos y las modificacione
 
 IX. Realizar estudios e Investigaciones a efecto de proponer la realización y ejecución de proyectos que generen un mejor desarrollo metropolitano;
 
-X. Revisar e informar al Secretario de Gobierno, acerca del cumplimiento de la normatividad vigente en la realización de las acciones, obras y permisos de cualquier tipo que lleven a cabo los integrantes de las comisiones metropolitanas, en las materias de coordinación metropolitana; y
+X. Revisar e informar al Secretario de Gobierno, acerca del cumplimiento de la normatividad vigente en la realización de las acciones, obras y permisos de cualquier tipo que lleven a cabo los integrantes de las comisiones metropolitanas, en las materias de coordinación metropolitana;
 
-XI. Las demás que señalen y le confieran otros ordenamientos.
+> <small>(ADICIONADA [REFORMADA], G.O. 2 DE OCTUBRE DE 2008)</small>
+
+XI. Promover que en las temáticas de desarrollo metropolitano se incluya la participación de la comunidad científica y tecnológica a través del Instituto de Ciencia y Tecnología del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 2 DE OCTUBRE DE 2008)</small>
+
+XII. Las demás que señalen y le confieran otros ordenamientos.
 
 ###### Artículo 5.
 
@@ -169,3 +177,11 @@ TERCERO. A partir de la publicación de la ley, el Jefe de Gobierno cuenta con s
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintinueve días del mes de noviembre del año dos mil siete.- POR LA MESA DIRECTIVA.- DIP. RAÚL ALEJANDRO RAMÍREZ RODRÍGUEZ, PRESIDENTE.- DIP. SERGIO MIGUEL CEDILLO FERNÁNDEZ, SECRETARIO.- DIP. MIGUEL ÁNGEL ERRASTI ARANGO, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por el artículo 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los trece días del mes de diciembre de dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 2 DE OCTUBRE DE 2008.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Se ordena su publicación en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. A más tardar en 90 días deberán actualizarse las disposiciones reglamentarias para dar cumplimiento a esta reforma.
