@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-para-el-estado-de-morelos-10583"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-28"
-last_updated: "2005-09-29"
+last_updated: "2008-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 CODIGO ELECTORAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADO EN EL P.O. DE 2 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 28 de noviembre de 1996.
 
@@ -5462,3 +5464,19 @@ Con copia certificada del presente Decreto, infórmese a la Suprema Corte de Jus
 ###### ARTÍCULO CUARTO.
 
 El Consejo Estatal Electoral deberá modificar dentro de un plazo de sesenta días naturales el Reglamento de Fiscalización y demás disposiciones aplicables, en los términos del presente ordenamiento.
+
+P.O. 2 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Código abroga el Código Electoral para el Estado de Morelos aprobado por la cuadragésima sexta Legislatura del Congreso del Estado de Morelos y publicado en el Periódico Oficial "Tierra y Libertad" No. 3830 de fecha 28 de noviembre de 1996.
+
+SEGUNDO.- En relación al voto de los morelenses en el extranjero contemplado en el Libro Cuarto, Título Cuarto del presente Código para los efectos de su aplicación el Instituto Estatal Electoral deberá prever en el convenio correspondiente con el Instituto Federal Electoral la instrumentación más adecuada para hacer efectivo este derecho a los ciudadanos morelenses residentes en el extranjero y prever en el proyecto de presupuesto de egresos del ejercicio fiscal del año 2011 los recursos necesarios para su aplicación.
+
+TERCERO.- En relación a la creación de nuevas unidades administrativas que requieran incremento en los recursos humanos materiales y financieros por el Instituto Estatal Electoral estos deberán contemplarse en el presupuesto de egresos para el ejercicio fiscal del año 2009.
+
+CUARTO.- El Consejo del Instituto Estatal Electoral deberá expedir en un término de 60 días naturales los reglamentos estatutos y manuales que correspondan a la aplicación de las nuevas atribuciones y facultades que contempla el presente código.
+
+QUINTO.- Todas las disposiciones legales o reglamentarias que contravengan las disposiciones del presente código se derogan a partir de la vigencia de este.
+
+SEXTO.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la fracción XVII del artículo 70 de la Constitución Política Local.
+
+SÉPTIMO.- El presente código entrara en vigor a partir de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
