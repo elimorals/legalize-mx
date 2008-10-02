@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2008-05-08"
+last_updated: "2008-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -72,9 +72,11 @@ VI. Los particulares que presten servicios educativos sin reconocimiento de vali
 
 Las universidades y demás instituciones de educación superior establecidas en el Distrito Federal a las que la ley otorgue autonomía regularán sus funciones de acuerdo a lo ordenado en la fracción VII del artículo tercero de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
 
-###### Artículo 4º.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2008)</small>
 
-El Gobierno del Distrito Federal tiene la obligación de atender y prestar a todos los habitantes de la entidad educación preescolar, primaria, secundaria y media superior. Además, atenderá, promoverá e impartirá todos los tipos, niveles y modalidades educativos, incluida la educación superior; apoyará la investigación científica y tecnológica; alentará, fortalecerá y difundirá la cultura regional, nacional y universal.
+###### Artículo 4°.
+
+El Gobierno del Distrito Federal tiene la obligación de atender y prestar a todos los habitantes de la entidad educación preescolar, primaria, secundaria y media superior. Además, atenderá, promoverá e impartirá todos los tipos, niveles y modalidades educativos, incluida la educación superior; apoyará la investigación científica y tecnológica; alentará, fortalecerá y difundirá la cultura regional, nacional y universal, así como la práctica de actividades relacionadas con la Educación Física y el Deporte.
 
 ###### Artículo 5º.
 
@@ -88,9 +90,11 @@ El Gobierno del Distrito Federal organizará el sistema educativo escolarizado, 
 
 La educación pública que imparta el Gobierno del Distrito Federal en todos los tipos, niveles y modalidades será gratuita. Las donaciones que se hagan a las instituciones que impartan la educación pública en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
-###### Artículo 8º.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2008)</small>
 
-La educación que imparta el Gobierno del Distrito Federal será laica y, por tanto, se mantendrá ajena a cualquier doctrina religiosa; se basará, como lo establece el artículo tercero constitucional, en los resultados del progreso científico y tecnológico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+###### Artículo 8°.
+
+La educación que imparta el Gobierno del Distrito Federal será laica y, por tanto, se mantendrá ajena a cualquier doctrina religiosa; se basará, como lo establece el artículo tercero constitucional, en los resultados del progreso científico y tecnológico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios; asimismo fomentará la práctica de actividades relacionadas con la Educación Física y el Deporte.
 
 ###### Artículo 9º.
 
@@ -120,11 +124,11 @@ f) Fomentará la incorporación a la educación y formación de las personas que
 
 g) Garantizará, en el ámbito de su competencia, que la educación en todos sus niveles se realice en el marco de igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 10.
 
-La educación que imparta el Gobierno del Distrito Federal se basará en los principios del artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
+La educación que imparta el Gobierno del Distrito Federal se basará en los principios del Artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
@@ -156,9 +160,9 @@ XIII. lmpulsar la creación artística y propiciar la adquisición, el enriqueci
 
 XIV. Desarrollar, a través de la educación artística, las capacidades, habilidades, valores, actitudes y hábitos estéticos que propicien la formación de una cultura artística permanente como forma de vida.
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2008)</small>
 
-XV. Desarrollar, a través de la educación física, las capacidades, habilidades, valores, actitudes y hábitos de higiene y alimenticios, proporcionando a los educandos desayunos balanceados y nutritivos que eviten la obesidad y desnutrición; asimismo que propicien la formación de una cultura física permanente como forma de vida integral y saludable.
+XV. Desarrollar, a través de la educación física, y el deporte, las capacidades, habilidades, valores, actitudes y hábitos de higiene y alimenticios, proporcionando a los educandos desayunos balanceados y nutritivos que eviten la obesidad y desnutrición; asimismo que propicien la formación de una cultura física permanente como forma de vida integral y saludable.
 
 > <small>(REFORMADA, G.O. 8 DE MAYO DE 2008)</small>
 
@@ -244,7 +248,9 @@ XV. Dotar obligatoria y oportunamente a las instituciones que impartan educació
 
 XVI. Instalar los Consejos de Educación de centro escolar, de zona, delegacionales y del Distrito Federal.
 
-XVII. Fortalecer y desarrollar la infraestructura de los servicios educativos a través de la construcción, mantenimiento, rehabilitación y equipamiento de espacios educativos.
+> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2008)</small>
+
+XVII. Fortalecer y desarrollar la infraestructura de los servicios educativos a través de la construcción, mantenimiento, rehabilitación y equipamiento de espacios educativos, incluyendo los destinados a la práctica de actividades relacionadas con la Educación Física y el Deporte.
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -534,9 +540,11 @@ Para ejercer las funciones de dirección de los centros escolares, jefaturas de 
 
 ### CAPÍTULO IV. DE LA EDUCACIÓN MEDIA SUPERIOR
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 51.
 
-La educación media superior propiciará en el educando la adquisición de conocimientos e instrumentos metodológicos necesarios para su formación y acceso al conocimiento científico y humanístico, desarrollará actitudes y habilidades para el autoaprendizaje, fomentará un sistema de valores, a partir de principios universales y nacionales racionalmente compartidos y estimulará la participación crítica en los problemas sociales. Además, capacitará al educando para acceder en forma creativa al mundo del trabajo, a la transformación productiva y a los estudios de nivel superior.
+La educación media superior propiciará en el educando la adquisición de conocimientos e instrumentos metodológicos necesarios para su formación y acceso al conocimiento científico y humanístico, desarrollará actitudes y habilidades para el autoaprendizaje, fomentará un sistema de valores, a partir de principios universales y nacionales racionalmente compartidos y estimulará la participación crítica en los problemas sociales. Además, capacitará al educando para acceder en forma creativa al mundo del trabajo, a la transformación productiva y a los estudios de nivel superior; asimismo fomentará la práctica de actividades relacionadas con la Educación Física y el Deporte, mismas que tendrán valor curricular.
 
 > <small>(ADICIONADO, G.O. 8 DE MAYO DE 2008)</small>
 
@@ -584,9 +592,11 @@ La Secretaría de Educación del Distrito Federal desarrollará e impulsará el 
 
 ### CAPÍTULO V. DE LA EDUCACIÓN SUPERIOR
 
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 60.
 
-La educación superior es la que se imparte después del bachillerato y sus equivalentes, con el objetivo de producir y divulgar conocimientos del más alto nivel y de formar académica, científica y humanísticamente a los profesionales requeridos para el desarrollo del Distrito Federal y del país, en los diversos aspectos de la cultura. Las funciones de las instituciones de educación superior son la docencia, la investigación y la difusión de la cultura.
+La educación superior es la que se imparte después del bachillerato y sus equivalentes, con el objetivo de producir y divulgar conocimientos del más alto nivel y de formar académica, científica y humanísticamente a los profesionales requeridos para el desarrollo del Distrito Federal y del país, en los diversos aspectos de la cultura. Las funciones de las instituciones de educación superior son la docencia, la investigación y la difusión de la cultura y la promoción y organización de actividades relacionadas con la Educación Física y el Deporte.
 
 ###### Artículo 61.
 
@@ -660,9 +670,11 @@ I. La Universidad Autónoma de la Ciudad de México goza de autonomía en su ré
 
 II. La organización, funcionamiento y atribuciones de la Universidad Autónoma de la Ciudad de México, se regirán por lo que disponga la Ley de Autonomía de la Universidad de la Ciudad de México otorgada por la Asamblea Legislativa del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 77.
 
-La Secretaría de Educación del Distrito Federal tiene la facultad de establecer contratos y convenios de investigación con grupos de investigadores y especialistas de los centros de educación superior, sobre temas centrales y prioritarios como desarrollo urbano, vivienda, educación, salud, medio ambiente y contaminación, transporte, desarrollo rural y otros, en beneficio de la gestión pública del Distrito Federal, de las organizaciones sociales y de las comunidades locales, particularmente las carentes de recursos para financiarlos.
+La Secretaría de Educación del Distrito Federal tiene la facultad de establecer contratos y convenios de investigación con grupos de investigadores y especialistas de los centros de educación superior, sobre temas centrales y prioritarios como desarrollo urbano, vivienda, educación, la práctica de actividades relacionadas con la Educación Física y el Deporte, salud, medio ambiente y contaminación, transporte, desarrollo rural y otros, en beneficio de la gestión pública del Distrito Federal, de las organizaciones sociales y de las comunidades locales, particularmente las carentes de recursos para financiarlos.
 
 ###### Artículo 78.
 
@@ -928,7 +940,9 @@ III. Construir y dar mantenimiento, a los centros de educación especial.
 
 IV. Establecer sistemas efectivos de educación abierta y supervisar la calidad del servicio.
 
-V. Mantener y rehabilitar permanentemente los edificios escolares, sus anexos y el equipo educativo.
+> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2008)</small>
+
+V. Mantener y rehabilitar permanentemente los edificios escolares, sus anexos y el equipo educativo, incluyendo las instalaciones destinadas a la práctica de actividades relacionadas con la Educación Física y el Deporte.
 
 VI. Satisfacer la demanda de personal docente, técnico, especializado y de apoyo a la educación, necesario para atender a todos los educandos en forma óptima.
 
@@ -1150,7 +1164,9 @@ II. Obtener inscripción en escuelas de educación pública para que realicen lo
 
 III. Obtener inscripción en escuelas de educación especial cuando presenten necesidades educativas especiales.
 
-IV. Participar en el desarrollo de las actividades educativas, pedagógicas, científicas, culturales, tecnológicas, sociales, deportivas y recreativas que realice la escuela.
+> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2008)</small>
+
+IV. Participar en el desarrollo de las actividades educativas, pedagógicas, científicas, culturales, tecnológicas, sociales, deportivas, de educación física y recreativas que realice la escuela.
 
 V. Conocer los resultados de las evaluaciones parciales y finales del curso correspondiente y los criterios para asignar calificaciones.
 
@@ -1601,3 +1617,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación.
 
 TERCERO.- La Secretaria de Educación del Distrito Federal, tendrá 180 días a partir de la entrada en vigor del presente decreto, para elaborar el Programa Escolar de Educación en la Sexualidad del Distrito Federal.
+
+G.O. 2 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación. Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente reforma.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal deberá asignar anualmente la partida presupuestal respectiva para la construcción y mantenimiento de las instalaciones destinadas a la práctica de las actividades relacionadas con la Educación Física y el Deporte, en los inmuebles destinados a la Educación Media Superior y Superior que se imparten en el Sistema Educativo del Distrito Federal.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal en conjunto con las autoridades educativas del Distrito Federal, incluirán en los Programas Educativos de los niveles de Educación Media Superior y Superior, como materia con valor curricular, las actividades relacionadas con la Educación Física y Deporte.
+
+QUINTO.- De acuerdo al presupuesto anual todos los recursos destinados a la práctica de actividades relacionadas con la Educación Física y el Deporte deberán ir etiquetadas para tal fin.
