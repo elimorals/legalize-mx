@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-del-estado-de-jalisco-y-sus-municipios-131
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-16"
-last_updated: "2008-07-05"
+last_updated: "2008-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de enero de 1997.
 
@@ -335,6 +335,16 @@ Los empréstitos que contraten los municipios, deberán estar previstos en su pr
 
 La deuda que contraten las entidades públicas estatales o municipales así como las garantías que otorguen, deberán ceñirse a las autorizaciones efectuadas por el Congreso del Estado o, en su caso, del ayuntamiento, así como aplicarse precisamente al fin establecido en la autorización señalada para tal efecto. Cualquier modificación al destino del empréstito autorizado así como a las demás especificaciones, requerirán la autorización del órgano competente, salvo lo dispuesto por el artículo 6 de esta ley.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 17 Bis.
+
+Únicamente podrán ser afectadas en garantía de cumplimiento de obligaciones, o como fuente de pago, las aportaciones federales derivadas de los fondos que expresamente establece la Ley de Coordinación Fiscal federal, siempre y cuando los financiamientos que den origen a las obligaciones se destinen a los fines previstos para los propios fondos.
+
+Las afectaciones a las aportaciones federales por parte de municipios deberán inscribirse en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios cuando cuenten con la garantía del Gobierno del Estado, salvo cuando a juicio de la Secretaria de Hacienda y Crédito Público tengan suficientes aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social.
+
+No se podrán afectar en garantía más de 25% de los recursos que anualmente le correspondan al Estado o municipio respecto de los fondos que establece la Ley de Coordinación Fiscal.
+
 ###### Artículo 18.
 
 Para la obtención y contratación de las operaciones de financiamiento, el Estado, los Municipios y demás entidades públicas, podrán ocurrir a instituciones de crédito, banca de desarrollo, auxiliares de crédito y proveedores, reconocidas ante las autoridades competentes y que funcionen de acuerdo a la legislación de la materia, procurando elegir las condiciones más favorables al interés público, salvo lo dispuesto por el artículo 30 de esta Ley.
@@ -624,3 +634,7 @@ Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pas
 Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto. Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoria Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 2 DE OCTUBRE DE 2008.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
