@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2008-05-27"
+last_updated: "2008-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5630,6 +5630,14 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5637,14 +5645,6 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5724,25 +5724,21 @@ De los Juicios sobre Alimentos.
 
 Los juicios que versen sobre pago o aseguración de alimentos se tramitarán conforme a las reglas generales de los demás sumarios y a las especiales siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 694.
 
-Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales, el demandante acreditará, con los medios permitidos a su alcance, la necesidad de la medida y justificará aproximadamente, cuando menos, la posibilidad del que deba darlos.
+Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales, el juez sin correr traslado a la contraparte verificará que el demandante le acredite con los medios permitidos a su alcance la urgencia y necesidad de la medida y que justifique aproximadamente cuando menos, la posibilidad del que deba darlos.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+Cuando el solicitante, bajo protesta de decir verdad, manifieste no contar con elementos suficientes para acreditar la posibilidad económica del deudor y bajo los mismos términos informe el ingreso aproximado mensual de éste, el juzgador atendiendo a la capacidad económica y nivel de vida del deudor y de los acreedores alimenticios, así como las circunstancias especiales del caso, fijará la pensión con base en el salario mínimo vigente de la zona.
 
-Cuando se pida la fijación y aseguramiento de alimentos provisionales por una institución oficial, dedicada a la protección de la familia, o a la asistencia pública, se presumirán como ciertos salvo prueba en contrario, los dictámenes y documentos por ellas elaborados que se acompañen a la solicitud correspondiente.
+Cuando se pida la fijación y aseguramiento de alimentos provisionales por una institución oficial dedicada a la protección de la familia, o a la asistencia pública, se presumirá como ciertos salvo prueba en contrario, los dictámenes y documentos por ellas elaborados que se acompañen a la solicitud correspondiente.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
-
-Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez resolverá con base en la capacidad económica y nivel de vida del deudor y de sus acreedores alimentarios.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 695.
 
-Una vez acreditado lo que establece el artículo anterior, el Juez, sin correr traslado a la contraparte, dictará resolución fijando la suma o porcentaje en que deben consistir los alimentos provisionales y mandará abonarlos, por mensualidades anticipadas, mientras se resuelve en definitiva.
+Una vez satisfecho lo que establece el artículo anterior, el juez decretará de plano la pensión de alimentos provisionales, fijando la suma, porcentaje o salarios mínimos en que deben consistir la pensión y mandará abonarlos, por mensualidades anticipadas, mientras se resuelve en definitiva.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5750,11 +5746,11 @@ Una vez acreditado lo que establece el artículo anterior, el Juez, sin correr t
 
 Contra la resolución en que se otorguen los alimentos provisionales, no habrá recurso alguno y contra la que los deniegue procederá el de apelación en ambos efectos.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 697.
 
-Inmediatamente que se dicte sentencia otorgando los alimentos provicionales (sic), se requerirá al que deba cubrirlos por el pago de la primera mensualidad y si no lo verifica en el acto de la diligencia, se procederá a embargarle bienes bastantes a cubrir su importe. Hecho el embargo se emplazará en forma al demandado para que conteste la demanda dentro del término de cinco días y seguirá el juicio por los demás trámites.
+Inmediatamente que se decrete la fijación de la pensión de alimentos provisionales, se requerirá al que deba cubrirlos por el pago de la primera mensualidad, y si no lo verifica en el acto de la diligencia, se procederá a embargue bienes bastantes a cubrir su importe. Hecho el embargo, se emplazará en forma al demandado para que conteste la demanda dentro del término de cinco días y seguirá el juicio por los demás trámites.
 
 ###### ARTICULO 698.
 
@@ -5766,9 +5762,11 @@ La venta de los bienes secuestrados se tramitará por cuerda separada en la form
 
 En los juicios de divorcio por mutuo consentimiento, se observarán las disposiciones relativas de este procedimiento y las contenidas en el capítulo IV del Título Duodécimo.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 700.
 
-Si se trata de alimentos provisionales que deban abonarse sólo mientras dure el procedimiento en los juicios de divorcio necesario, acreditados en forma incidental los extremos del artículo 694, el Juez procederá, en lo relativo, como se previene en este Capítulo sin perjuicio de los derechos que conceda a las partes la ejecutoria de divorcio para reclamar alimentos.
+Si se trata de alimentos provisionales que deban abonarse sólo mientras dure el procedimiento en los juicios de divorcio necesario, acreditados los extremos del artículo 694, el juez procederá, en lo relativo, como se previene en este capítulo, sin perjuicio de los derechos que conceda a las partes la ejecutoria de divorcio para reclamar alimentos.
 
 ### CAPITULO VI.
 
@@ -8777,3 +8775,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 2 DE OCTUBRE DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
