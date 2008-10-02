@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2008-01-24"
+last_updated: "2008-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -413,6 +413,10 @@ XXIV. Estrechar y fortalecer la coordinación del Distrito Federal con los tres 
 XXV. Coordinar la planeación metropolitana con la participación que corresponda a los gobiernos estatales y municipales limítrofes, así como a las dependencias, órganos desconcentrados y entidades de la Administración Pública, en las materias señaladas en la Constitución y el Estatuto;
 
 XXVI. Impulsar la formulación de convenios, normas y reglamentos en los que se concerte la voluntad política de los gobiernos que inciden en la zona metropolitana;
+
+> <small>(ADICIONADA, G.O. 2 DE OCTUBRE DE 2008)</small>
+
+XXVI BIS. Impulsar la participación de la comunidad científica y tecnológica en la planeación metropolitana a través del Instituto de Ciencia y Tecnología del Distrito Federal;
 
 XXVII. Formular y coordinar la implementación de las políticas de desarrollo cívico;
 
@@ -1905,3 +1909,9 @@ TERCERO.- Se derogan todas aquellas disposiciones que se contrapongan a las aqu�
 CUARTO.- La Secretaria de Desarrollo Social, brindará todo el apoyo necesario a la Secretaria de Educación Pública, en tanto ésta tenga la capacidad física y operativa necesaria para operar los planes, programas de apoyo y/o políticas sociales que incidan en el proceso educativo en el Distrito Federal.
 
 QUINTO.- El Jefe de Gobierno del Distrito Federal, en el Presupuesto de Egresos, hará las adecuaciones necesarias a fin de que la Secretaria de Educación del Distrito Federal cuente con los recursos necesarios que le permitan desarrollar los planes, programas de apoyo y/o políticas sociales que venía desarrollando la Secretaria de Desarrollo Social y que incidan en el proceso educativo en el Distrito Federal.
+
+G.O. 2 DE OCTUBRE DE 2008.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Se ordena su publicación en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. A más tardar en 90 días deberán actualizarse las disposiciones reglamentarias para dar cumplimiento a esta reforma.
