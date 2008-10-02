@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2006-12-21"
+last_updated: "2008-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -1143,15 +1143,19 @@ Para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutuali
 
 Para los efectos del referido programa se estará a los siguientes lineamientos:
 
-I. Las autoridades municipales elaborarán periódicamente el catálogo de necesidades locales y regionales sobre educación, integrando a través del Consejo Municipal, sus propuestas ante las autoridades educativas, con el objeto de brindar especial impulso a los valores éticos, cívicos y la cultura de Iegalidad;
+I. Las autoridades municipales elaborarán periódicamente el catálogo de necesidades locales y regionales sobre educación, integrando a través del Consejo Municipal, sus propuestas ante las autoridades educativas, con el objeto de brindar especial impulso a los valores éticos, cívicos y la cultura de legalidad;
 
 II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Ejecutivo Estatal tendrán como prioridad atender a la población más pobre del medio rural, en coordinación con las instancias correspondientes;
 
 Los Consejos Municipales participarán en la prevención y detección de necesidades de salud, así como la creación de brigadas móviles para la atención sistemática de endemias y acciones eventuales contra epidemias, integrando el programa regional, en coordinación con la Secretaría de Salud;
 
-III. El Consejo Estatal, Distrital y Municipal, según sus atribuciones, coadyuvarán en las acciones y programas de población en el medio rural que instrumenten las autoridades Federales; y
+III. El Consejo Estatal, Distrital y Municipal, según sus atribuciones, coadyuvarán en las acciones y programas de población en el medio rural que instrumenten las autoridades Federales; y (sic)
 
-IV. Las comunidades rurales en general, y especialmente aquellas cuya ubicación comprendida en el catálogo de eventualidades ubicado en el rango de alto riesgo, deberán tener representación y participación directa en las Unidades Municipales de Protección Civil, para dar impulso a la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+IV. Las acciones de vivienda rural e indígena deberán incorporar y considerar la capacidad de pago de ese sector demandante, la utilización de materiales locales y regionales de construcción, la tipología de la vivienda de la zona y la introducción de servicios públicos, respetando sus formas de asentamiento territorial, y
+
+V. Las comunidades rurales en general, y especialmente aquellas cuya ubicación comprendida en el catálogo de eventualidades ubicado en el rango de alto riesgo, deberán tener representación y participación directa en las Unidades Municipales de Protección Civil, para dar impulso a la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
 
 ###### Artículo 116.
 
@@ -1348,3 +1352,9 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE OCTUBRE DE 2008.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
