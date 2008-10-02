@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-regular-la-venta-y-el-consumo-de-bebidas-54505"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-13"
-last_updated: "2007-03-31"
+last_updated: "2008-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 13 de enero de 2007.
 
@@ -271,9 +271,11 @@ V. Tiendas de Abarrotes, Misceláneos y Tendejones: Los establecimientos dedicad
 
 5. Asimismo, los Ayuntamientos de Municipios colindantes o de Municipios que forman o tiendan a formar una continuidad demográfica deben sostener reuniones periódicas con el fin de unificar días y horas de funcionamiento para los establecimientos dedicados a la venta o consumo de bebidas alcohólicas.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 25.
 
-1. El Ayuntamiento debe verificar que los establecimientos a que se refiere el artículo 15 no lesionan el orden público o el interés social.
+1. El municipio debe verificar constantemente que los establecimientos que expendan bebidas alcohólicas cumplan con lo dispuesto en la presente ley y la reglamentación municipal de la materia, vigilando que en todo momento se preserve el orden público y el interés social.
 
 ###### Artículo 26.
 
@@ -349,7 +351,9 @@ V. Tiendas de Abarrotes, Misceláneos y Tendejones: Los establecimientos dedicad
 
 ###### Artículo 38.
 
-1. Los días y horas en que pueden permanecer abiertos al público los establecimientos que señala esta ley, deben ser establecidos por los Ayuntamientos en sus respectivos ordenamientos municipales, tomando en cuenta el interés social, las costumbres y afluencia turística.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+1. Las (sic) días y horas en que pueden permanecer abiertos los establecimientos para la venta y consumo de bebidas alcohólicas que define esta ley, deben ser establecidos por los ayuntamientos en sus respectivos ordenamientos municipales, tomando en cuenta el interés social, las costumbres y afluencia turística, y de conformidad con lo dispuesto en la presente y demás disposiciones legales y reglamentarias aplicables.
 
 2. Los Ayuntamientos pueden establecer horarios escalonados para el cierre de de (sic) los establecimientos a que se refiere esta ley, siempre y cuando no se lesione el orden público o el interés social.
 
@@ -744,3 +748,9 @@ UNICO. El presente decreto entrará en vigor al día siguiente de su publicació
 P.O. 31 DE MARZO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE OCTUBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Una vez publicado el presente decreto remitase a los ayuntamientos de los municipios en el Estado, a efecto de que actualicen sus reglamentos de conformidad con las disposiciones de la presente reforma de ley.
