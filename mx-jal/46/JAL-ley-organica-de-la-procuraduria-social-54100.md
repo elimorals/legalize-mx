@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2007-07-03"
+last_updated: "2008-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Sección III al Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -623,6 +623,32 @@ Las faltas y responsabilidades en las que incurran los servidores de la Procurad
 
 Las responsabilidades en las que incurra el Procurador Social y los demás servidores públicos se perseguirán y sancionarán de conformidad a lo que establece la Constitución Política y las leyes reglamentarias.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 48.
+
+Además de las que se deriven de otras disposiciones legales, serán causales de responsabilidad para los servidores públicos de la Procuraduría Social las siguientes:
+
+I. Abandonar injustificadamente la defensa, patrocinio o representación de los asuntos encomendados;
+
+II. Proporcionar información o documentos a su cargo a cualquier persona o institución sin orden judicial o administrativa, así como sin la autorización de su superior jerárquico, o solicitar la comparecencia de sus defensos para que abogados particulares los interroguen o asesoren;
+
+III. Actuar cuando se encuentren impedidos por alguna de las causales previstas por la ley;
+
+IV. Descuidar y abandonar injustificadamente el desempeño de las funciones o labores que deban realizar en virtud de su encargo;
+
+V. No poner en conocimiento de sus superiores cualquier acto tendiente a vulnerar la imparcialidad e independencia de sus funciones;
+
+VI. No preservar la imparcialidad, ética y profesionalismo propios del ejercicio de sus atribuciones;
+
+VII. Emitir opinión pública que implique prejuzgar sobre un asunto atendido en la Procuraduría;
+
+VIII. Negarse injustificadamente a prestar los servicios de la Procuraduría que de acuerdo a esta ley y demás disposiciones aplicables le competan;
+
+IX. Dejar de interponer en tiempo y forma los recursos legales que procedan, desatender su trámite, desistirse de ellos o abandonarlos en perjuicio de su defendido, asistido o usuario, y
+
+X. Dejar de cumplir con cualquiera de las demás obligaciones que, en virtud de la existencia de la institución, se les han conferido.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor el primero de abril de 2007, previa publicación en el periódico oficial "El Estado de Jalisco".
@@ -686,5 +712,9 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE JULIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE OCTUBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
