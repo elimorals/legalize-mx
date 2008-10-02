@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2007-10-20"
+last_updated: "2008-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1081,11 +1081,91 @@ Las áreas naturales protegidas consideradas de interés federal, estatal y muni
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-Artículo 64 La Secretaría llevará un registro de las áreas integrantes del sistema estatal de áreas naturales protegidas, en el que se consignen los datos de su inscripción o incorporación en los registros públicos de la propiedad, de conformidad al reglamento que al respecto se expida.
-
 ###### Artículo 64.
 
-El gobierno del estado llevará un registro de las áreas integrantes del sistema estatal de áreas naturales protegidas, en el que se consignen los datos de su inscripción o incorporación en los registros públicos de la propiedad, de conformidad al reglamento que al respecto se expida.
+La Secretaría llevará un registro de las áreas integrantes del sistema estatal de áreas naturales protegidas, en el que se consignen los datos de su inscripción o incorporación en los registros públicos de la propiedad, de conformidad al reglamento que al respecto se expida.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+### CAPITULO III
+
+De las zonas de recuperación ambiental.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 64-A.
+
+Se podrán declarar zonas de recuperación ambiental estatal o municipal aquellos predios que reúnan alguna de las características siguientes:
+
+I. Predios que contengan áreas verdes, cuya biodiversidad no sea suficiente para obtener declaratoria de alguna de las categorías de área natural protegida previstas por la presente ley y que presenten procesos acelerados de degradación o desertificación, que impliquen la pérdida o afectación de recursos naturales o generen grave desequilibrio ecológico, a fin de que se realicen acciones necesarias para su mitigación, recuperación y restablecimiento en las condiciones que mantengan su biodiversidad y propicien la continuidad de los procesos naturales que ahí se desarrollaban, o
+
+II. Predios que circunden a las áreas naturales protegidas, cualquiera que sea su clasificación o categoría, como medida de sustentabilidad ambiental y de seguridad contra el impacto ambiental que reciban del exterior, así como que asegure su conservación, protección, restauración y recuperación de las condiciones de su biodiversidad.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 64-B.
+
+El Gobierno del Estado, a través de la Secretaría, así como los ayuntamientos, podrán declarar zonas de recuperación ambiental a efecto de:
+
+I. Asegurar jurídicamente el uso y destino de aquellas áreas verdes o superficies territoriales cuya biodiversidad sea escasa o reducida, de tal manera que no reúna los requisitos o las características necesarias para ser susceptible de alcanzar declaratoria de área natural protegida, en los términos de la presente ley;
+
+II. Asegurar jurídicamente el uso y destino de aquellas áreas verdes o superficies territoriales que no estén sujetas a algún régimen de protección ambiental, cuya biodiversidad presente procesos acelerados de degradación o desertificación, que impliquen la pérdida o afectación irreversible de recursos naturales o generen grave desequilibrio ecológico, evitando cambios de uso de suelo que alteren irreversiblemente el entorno;
+
+III. Asegurar la restauración, recuperación y protección de las condiciones de biodiversidad de aquellos predios que contengan áreas verdes que no estén sujetas a algún régimen de protección ambiental, para que mantengan y propicien la continuidad de los procesos naturales que ahí se desarrollaban, o
+
+IV. Asegurar jurídicamente el uso y destino de aquellas áreas verdes o superficies territoriales que no estén sujetas a algún régimen de protección ambiental, que circunden a las áreas naturales protegidas, cualquiera que sea su categoría de manejo, como medida de sustentabilidad ambiental y de seguridad contra el impacto ambiental que reciban del exterior, así como que asegure su conservación, protección, restauración y recuperación de las condiciones de su biodiversidad.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 64-C.
+
+Las zonas de recuperación ambiental de competencia estatal se establecerán mediante decreto expedido por el titular del Ejecutivo del Estado; las zonas de recuperación ambiental de competencia municipal se establecerán mediante iniciativa del municipio correspondiente y decreto del Congreso del Estado; las declaratorias se harán conforme a éste y los demás ordenamientos aplicables.
+
+Las declaratorias deberán publicarse en el periódico oficial El Estado de Jalisco así mismo, deberán ser inscritas en el registro público de la propiedad que corresponda.
+
+Las declaratorias podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad, y expresarán:
+
+I. La delimitación precisa del área sujeta a recuperación ambiental, precisando superficie, coordenadas geográficas de cada vértice, ubicación y deslinde;
+
+II. Las acciones necesarias para regenerar, recuperar o restablecer las condiciones naturales de la zona;
+
+III. Las condiciones a que se sujetarán, dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
+
+IV. El programa de recuperación ambiental correspondiente;
+
+V. Para el caso de zonas que circunden con un área natural protegida, el programa de recuperación ambiental deberá considerar exclusivamente acciones compatibles con el decreto que establece el área natural protegida y con su programa de manejo o de aprovechamiento, según sea el caso, y
+
+VI. La causa de utilidad pública que fundamente la expropiación de terrenos, para que el Gobierno del Estado o los gobiernos municipales adquieran su dominio, en su caso.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 64-D.
+
+Los programas de recuperación ambiental de competencia estatal o municipal, deberán contener, por lo menos, la siguiente información:
+
+I. La justificación, mencionando el criterio bajo el cual se propone el establecimiento de la zona de recuperación ambiental;
+
+II. Los objetivos específicos de la zona de recuperación ambiental;
+
+III. La delimitación del área con coordenadas geográficas de todos los vértices de sus perímetros;
+
+IV. Descripción detallada de las acciones a realizar para regenerar, recuperar o restablecer las condiciones naturales de la zona;
+
+V. Los responsables del manejo de la zona, así como las fuentes de financiamiento para realizar las obras y acciones que correspondan;
+
+VI. Los plazos para la ejecución de dicho programa, y
+
+VII. El manejo integral que se dará al área, una vez que se considere plenamente restaurada, priorizando siempre la conservación.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 64-E.
+
+Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo 64 bis quedarán sujetas a la aplicación de las modalidades previstas en las propias declaratorias.
+
+Los fedatarios públicos que expidan instrumentos públicos en los que conste una escritura, convenio contrato o cualquier otro acto de naturaleza análoga, deberán hacer constar tal circunstancia.
+
+Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 
 ### CAPITULO I
 
@@ -1095,17 +1175,13 @@ De la conservación y aprovechamiento sustentable del agua y los ecosistemas acu
 
 Del aprovechamiento sustentable del suelo y sus recursos.
 
-### CAPITULO I
-
-De la prevención y control de la contaminación atmosférica.
-
 ## TITULO TERCERO
 
 Conservación y Aprovechamiento Sustentable de los Elementos Naturales.
 
-### CAPITULO II
+### CAPITULO I
 
-De la prevención y control de la contaminación del agua y de los ecosistemas acuáticos.
+De la prevención y control de la contaminación atmosférica.
 
 ###### Artículo 65.
 
@@ -1131,11 +1207,9 @@ Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de
 
 El Titular del Ejecutivo del Estado y la Secretaría, conjuntamente con los gobiernos municipales, podrá celebrar con la federación, convenios o acuerdos de coordinación para participar en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los ecosistemas acuáticos.
 
-### CAPITULO III
+### CAPITULO II
 
-De la prevención y control de la contaminación del suelo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+De la prevención y control de la contaminación del agua y de los ecosistemas acuáticos.
 
 ###### Artículo 69.
 
@@ -1155,11 +1229,11 @@ En las zonas que presentan graves alteraciones ambientales, la Secretaría y los
 
 Protección al Ambiente.
 
-### CAPITULO IV
+### CAPITULO III
 
-De las actividades riesgosas.
+De la prevención y control de la contaminación del suelo.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 71.
 
@@ -1227,11 +1301,11 @@ Las autoridades estatales y municipales, en su caso, promoverán en las zonas qu
 
 En los programas de desarrollo urbano estatal y planes parciales municipales, se considerarán las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
 
-### CAPITULO V
+### CAPITULO IV
 
-De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos.
+De las actividades riesgosas.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 78.
 
@@ -1309,11 +1383,11 @@ Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen
 
 El gobierno del estado y los gobiernos municipales, en los casos de aguas de su competencia, se coordinarán con la federación, a efecto de realizar un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de alteraciones, contaminantes, desechos orgánicos o azolves, y aplicar las medidas que procedan o, en su caso, promover su ejecución.
 
-### CAPITULO VI
+### CAPITULO V
 
-Del ruido, vibraciones, energía térmica y lumínica y olores.
+De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 86.
 
@@ -1399,9 +1473,11 @@ Toda descarga, depósito o infiltraciones de substancias o materiales contaminan
 
 Los procesos industriales que generen residuos de lenta degradación, para los cuales no existan alternativas, se llevarán a cabo con arreglo a lo que dispongan las leyes y reglamentos correspondientes.
 
-### CAPITULO I
+### CAPITULO VI
 
-De la participación social.
+Del ruido, vibraciones, energía térmica y lumínica y olores.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 94.
 
@@ -1415,9 +1491,9 @@ La vigilancia del cumplimiento de la regulación a que se refiere el artículo a
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 2007)</small>
 
-### CAPITULO II
+### CAPITULO I
 
-Derecho a la información ambiental.
+De la participación social.
 
 ###### Artículo 96.
 
@@ -1443,11 +1519,9 @@ Para todo lo concerniente a la regulación de los sistemas de recolección, alma
 
 (DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
-### CAPITULO I
+### CAPITULO II
 
-Disposiciones generales.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+Derecho a la información ambiental.
 
 ###### Artículo 102.
 
@@ -1463,11 +1537,11 @@ Las normas oficiales mexicanas y la normatividad estatal que al efecto se expida
 
 Participación Social e Información Ambiental.
 
-### CAPITULO II
+### CAPITULO I
 
-Del procedimiento de inspección y vigilancia.
+Disposiciones generales.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 104.
 
@@ -1509,11 +1583,11 @@ La Secretaría y los gobiernos municipales, en su esfera de competencias, integr
 
 Cuando la Secretaría y los gobiernos municipales deban de resolver un asunto sobre el cual, los órganos de consulta hubiesen emitido una opinión, deberán expresar los casos de aceptación o rechazo de dicha opinión.
 
-### CAPITULO III
+### CAPITULO II
 
-De las medidas de seguridad.
+Del procedimiento de inspección y vigilancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 109.
 
@@ -1565,11 +1639,11 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 Medidas de Control y Seguridad y Sanciones.
 
-### CAPITULO IV
+### CAPITULO III
 
-De las sanciones administrativas.
+De las medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 116.
 
@@ -1679,11 +1753,11 @@ Toda notificación deberá efectuarse en el plazo de diez días hábiles, contad
 
 Las notificaciones irregularmente practicadas, surtirán efectos a partir de la fecha en que el interesado o su representante legal haga la manifestación expresa de conocer su contenido.
 
-### CAPITULO V
+### CAPITULO IV
 
-Del recurso de revisión.
+De las sanciones administrativas.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 132.
 
@@ -1775,11 +1849,11 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas, en los plazos ordenados por la autoridad competente, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en él capitulo de medidas de seguridad de la presente ley, previa petición por escrito que formule el interesado ante la autoridad competente, el superior jerárquico podrá revocar o modificar la sanción o sanciones impuestas.
 
-### CAPITULO VI
+### CAPITULO V
 
-De la comisión de delitos.
+Del recurso de revisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 144.
 
@@ -1803,11 +1877,11 @@ Asimismo, la Secretaría y los gobiernos municipales, promoverán ante la federa
 
 Cuando la Secretaría y los gobiernos municipales, según corresponda, ordenen alguna de las medidas de seguridad previstas en esta ley, deberá indicar al interesado, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas estas, se ordene el retiro de la medida de seguridad impuesta, lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
 
-### CAPITULO VII
+### CAPITULO VI
 
-De la denuncia popular.
+De la comisión de delitos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 146.
 
@@ -1896,6 +1970,12 @@ La Secretaría y los gobiernos municipales, según corresponda, deberán promove
 ###### Artículo 153.
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para el desarrollo de programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta ley.
+
+### CAPITULO VII
+
+De la denuncia popular.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 154.
 
@@ -2099,15 +2179,19 @@ La autoridad competente, una vez recibida la denuncia, y atendiendo a lo dispues
 
 Admitida la instancia, procederá por los medios que resulten conducentes, a identificar al denunciante, y hará del conocimiento la denuncia a la persona o personas a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, otorgándoles un término de quince días hábiles contados a partir del día siguiente en que surta efectos la notificación, para que señalen por escrito lo que a su derecho corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 177.
 
-La autoridad a que corresponda, de conformidad a las disposiciones de este ordenamiento, según sea el caso, practicará las diligencias necesarias para la comprobación de los hechos denunciados, así como para su evaluación correspondiente y, en su caso, podrá dar inicio a los actos de inspección y vigilancia que fueran procedentes, observándose las disposiciones respectivas del presente Título.
+La autoridad a que corresponda, de conformidad con las disposiciones de este ordenamiento, según sea el caso, practicará las diligencias necesarias para la comprobación de los hechos denunciados, así como para su evaluación correspondiente y, en su caso, podrá dar inicio a los actos de inspección y vigilancia que fueran procedentes dentro de los treinta días hábiles siguientes al día en que emita el acuerdo de admisión de la denuncia, observándose las disposiciones respectivas del presente título.
 
 Si los hechos no fuesen de su competencia, hará llegar la denuncia ante la autoridad competente en un término no mayor a cinco días hábiles, remitiendo la información recabada para coadyuvar con la expedita atención de la denuncia.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 178.
 
-La autoridad competente, hará del conocimiento del denunciante el trámite que se haya dado a su denuncia dentro de un término que no excederá en todo caso de cuatro meses, contados a partir del acuerdo por el cual se haya admitido la denuncia.
+La autoridad competente notificará al denunciante, a más tardar dentro de los cinco días hábiles siguientes, el resultado de cada uno de los acuerdos que emita.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -2138,6 +2222,8 @@ IV. Por falta de interés del denunciante en los términos de este capítulo;
 V. Por haberse dictado un acuerdo de acumulación de expedientes;
 
 VI. Por haberse solucionado la denuncia popular mediante conciliación entre el denunciante y el denunciado;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 VII. Por haberse dictado medidas correctivas tendientes a la resolución de la problemática planteada; y
 
@@ -2271,7 +2357,7 @@ TERCERO.- Se autoriza al Titular del Ejecutivo del Estado a que realice las adec
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
-CUARTO.- La Procuraduría Estatal de Protección al Ambiente estará en funciones a más tardar el día 7 de enero de 2008 y hasta entonces, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquélla por el presente decreto y por las disposiciones que de éste se deriven.
+CUARTO.- La Procuraduría Estatal de Protección al Ambiente entrará en funciones a más tardar el día 7 de enero de 2008 y hasta entonces, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquella por el presente decreto y por las disposiciones que de éste se deriven.
 
 QUINTO.- En el cumplimiento del presente Decreto, se respetarán los derechos laborales y de seguridad social de los trabajadores que sean transferidos de una dependencia a otra.
 
@@ -2282,5 +2368,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para los efectos de los recursos económicos con los cuales se constituirá el Fondo Estatal de Protección al Ambiente, el Ejecutivo del Estado en el presupuesto de egresos, deberá destinar una partida presupuestal que funcionará como base inicial del mismo, debiendo de incrementarse según los recursos con que se integra dicho Fondo.
 
 P.O. 20 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE OCTUBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
