@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2007-del-pleno-del-consejo-de-la-56870"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-09-28"
-last_updated: "2007-09-28"
+last_updated: "2008-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56870&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-09-19"
 
 ACUERDO GENERAL 34/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO SEGUNDO DE DISTRITO AUXILIAR; A LA NUEVA DENOMINACION DEL ACTUAL JUZGADO DE DISTRITO AUXILIAR; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS MENCIONADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE OCTUBRE DE 2008.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 28 de septiembre de 2007.
 
@@ -67,7 +67,11 @@ Concluido ese turno, los nuevos asuntos se distribuirán entre los dos juzgados 
 
 QUINTO.- En la fecha precisada en el punto segundo que antecede el titular del Juzgado de Distrito Auxiliar, ahora Juzgado Primero de Distrito Auxiliar, deberá enviar un acta a la oficina de correspondencia común, en la que comunique los expedientes que por él fueron admitidos, para su captura. Asimismo, deberá enviarle los asuntos pendientes de admisión mediante acta certificada, para que se turnen al juzgado que inicia funciones a fin de que los tramite y resuelva hasta su conclusión, debiendo observar lo establecido en el artículo 9 del Acuerdo General 13/2007, del Pleno del Consejo de la Judicatura Federal, respecto de los asuntos relacionados.
 
-SEXTO.- Los tribunales colegiados en materia administrativa del Primer Circuito conocerán de los recursos que se interpongan contra las determinaciones y resoluciones que dicte el Juzgado Segundo de Distrito Auxiliar.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 50/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
+
+SEXTO.- Los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, conocerán de los recursos de revisión que se interpongan en contra de las sentencias de fondo que dicte el Juzgado Segundo de Distrito Auxiliar, en los juicios de amparo vinculados con la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete.
+
+De los otros recursos que se lleguen a interponer en contra de las determinaciones y resoluciones que dicte el Juzgado de Distrito Auxiliar seguirán conociendo hasta su resolución los Tribunales Colegiados en Materia Administrativa del Primer Circuito. Lo anterior, con fundamento en lo dispuesto por el artículo 17 constitucional.
 
 SEPTIMO.- El Juzgado Segundo de Distrito Auxiliar que inicia funciones utilizará nuevos libros de gobierno, en los que asentará la certificación correspondiente y registrará los asuntos en la forma que determine la normativa aplicable.
 
@@ -82,3 +86,13 @@ PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 34/2007, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Jurisdicción Territorial, Domicilio y Fecha de Inicio de Funcionamiento del Juzgado Segundo de Distrito Auxiliar; a la Nueva Denominación del Actual Juzgado de Distrito Auxiliar; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Juzgados Mencionados, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diecinueve de septiembre de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a diecinueve de septiembre de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE OCTUBRE DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Comisión de Creación de Nuevos Organos del Consejo de Judicatura Federal, comunicará a los titulares de los órganos jurisdiccionales federales a los que se refieren los puntos tercero y cuarto del presente acuerdo, la fecha de inicio de las medidas ordenadas en los puntos antes referidos del presente ordenamiento.
