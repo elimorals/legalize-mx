@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2004-12-10"
+last_updated: "2008-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -345,7 +345,7 @@ II.- Un representante de los permisionarios y concesionarios por cada modalidad 
 
 III.- El Regidor que presida la comisión del Ayuntamiento relativa a la materia;
 
-IV.- Un representante ciudadano en número igual a los anteriores.
+IV.- Un representante ciudadano en número igual a los anteriores;
 
 En los casos que así lo determine el Consejo, podrán integrarse al mismo con voz, pero sin derecho a voto, representantes de autoridades de transporte estatal y federal.
 
@@ -1305,6 +1305,10 @@ Artículo Octavo.- Dentro de los treinta días siguientes a la entrada en vigor 
 
 Artículo Noveno.- En tanto se lleve a cabo el Plan Maestro de Vialidad y Transporte al que obliga el artículo 22 de la Ley General de Transporte del Estado de Baja California, y que el Artículo 9, fracción IV del Reglamento de Transporte Público del Municipio de Ensenada, contempla como facultades para realizarlo a la Dirección de Transporte Municipal, el Ayuntamiento podrá dictar las medidas necesarias a fin de garantizar la eficiencia y regularidad en la prestación del servicio de transporte publico en todas sus modalidades, en beneficio de los ciudadanos ensenadenses, dichas medidas puede ser: el otorgamiento, revalidación o prorroga de permisos, concesiones o rutas de servicio o bien cualesquier otro acto que a juicio del Ayuntamiento sea necesario para cumplir con la población ensenadense, de otorgarles un mejor servicio de transporte público.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2008)</small>
+
+Artículo Decimo.- En tanto se integre el Consejo Municipal de Transporte y se cree el Reglamento Interior que norme su funcionamiento; la autoridad de transporte solicitara al Instituto Municipal de Investigación y Planeación del Municipio de Ensenada (IMIP) un estudio técnico, con la finalidad de que en forma previa a las medidas que tenga a bien acordar la autoridad respecto al otorgamiento, revalidación, o prorroga de permisos, concesiones, rutas o cualesquier otro acto, que a su juicio sea necesario para cumplir con la población de otorgarle un mejor servicio de Transporte Público, estas no se contrapongan con algún lineamiento formal de la planeación urbana.
+
 DADO EN LA SALA DE SESIONES DE LA CASA MUNICIPAL DE LA CIUDAD DE ENSENADA, BAJA CALIFORNIA A LOS VEINTICINCO DIAS DEL MES DE JUNIO DE 2004.
 
 DR. JORGE ANTONIO CATALAN SOSA.
@@ -1320,6 +1324,10 @@ SECRETARIO FEDATARIO
 P.O. 10 DE DICIEMBRE DE 2004.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 3 DE OCTUBRE DE 2008.
+
+UNICO.- Una vez aprobado el presente punto de acuerdo, publíquese en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 22.
 
