@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-a-la-salud-de-las-personas-no-fumadoras-36852
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-29"
-last_updated: "2008-03-04"
+last_updated: "2008-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36852&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-13"
 
 LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -250,39 +250,39 @@ IV. La orientación a la población sobre los riesgos a la salud por el consumo 
 
 V. Diseñar el manual de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos mercantiles, oficinas, industrias y empresas, así como en las oficinas de los Órganos de Gobierno del Distrito Federal y de los Órganos Autónomos del Distrito Federal, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes, mismos que deberán contener iconografía relativa a los riesgos y consecuencias del tabaquismo;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 VI. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco y la exposición a su humo;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 VII. Promover e impulsar la participación de la comunidad para la prevención y atención del tabaquismo;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 VIII. Promover los acuerdos necesarios para la creación de los centros delegacionales contra el tabaquismo;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 IX. Promover la creación de clínicas y servicios para la atención del fumador;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
-X. Promover la participación de las comunidades indígenas, en la elaboración y puesta en práctica de programas para la prevención del tabaquismo;
+X. Promover la participación de las comunidades indígenas en la elaboración y puesta en práctica de programas para la prevención del tabaquismo;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 XI. Establecer políticas para prevenir y reducir el consumo de tabaco y la exposición al humo del tabaco, así como la adicción a la nicotina con un enfoque de género;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 XII. Realizar conjuntamente con las autoridades de educación del Distrito Federal campañas educativas permanentes que induzcan a reducir el uso y consumo de tabaco;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
-XIII. Celebrar convenios de coordinación y apoyo con la Secretaría de Salud del Gobierno Federal y otras instituciones de gobierno para la atención de los problemas relativos al tabaquismo; y
+XIII. Celebrar convenios de coordinación y apoyo con la Secretaría de Salud del Gobierno Federal y otras instituciones de gobierno para la atención de los problemas relativos al tabaquismo;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 XIV. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
 
@@ -720,13 +720,11 @@ En el caso de reincidencia, se aplicará el doble del monto de la sanción impue
 
 Se sancionará con multa equivalente de diez a treinta días de salario mínimo diario general vigente, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Distrito Federal.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
-
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 31.
 
-A los propietarios, poseedores o responsables de los establecimientos mercantiles que no cumplan con las disposiciones de la presente Ley, serán sancionados conforme a las disposiciones de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal.
+Los propietarios, poseedores o responsables de los establecimientos que no cumplan con las disposiciones de la presente Ley, serán sancionados conforme a las disposiciones de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal.
 
 > <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
@@ -813,3 +811,9 @@ SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 TERCERO.- Se deroga el Artículo Cuarto Transitorio del Decreto por el que se reforma y adiciona la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal y se reforma la Ley de Protección a la Salud de los No Fumadores del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 11 de enero del 2008.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal y el Gobierno del Distrito Federal implementarán una campaña permanente para dar a conocer los derechos y obligaciones que se derivan por la entrada en vigor del presente Decreto. En dicha campaña no podrán emplearse colores partidistas y se pondrá énfasis para que los adultos no fumen dentro de un vehículo cuando vaya un menor adentro.
+
+G.O. 3 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
