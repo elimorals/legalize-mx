@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2008-01-08"
+last_updated: "2008-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -232,39 +232,73 @@ XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confi
 
 El sistema de auxilio a la víctima del delito dependerá de la Procuraduría General de Justicia del Distrito Federal.
 
-(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
 
-###### ARTICULO 9º Bis.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-Desde el inicio de la averiguación el Ministerio Público tendrá la obligación de:
+###### ARTICULO 9 Bis.
+
+Desde el inicio de la Averiguación el Ministerio Público tendrá la obligación de:
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 I.- Hacer cesar, cuando sea posible, las consecuencias del delito;
 
-II.- Recibir la declaración escrita o verbal correspondiente e iniciar la averiguación del caso, en los términos de este Código, de conformidad con los principios constitucionales de legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+II. Recibir la declaración escrita o verbal por cualquier delito; o vía portal electrónico de la Procuraduría de Justicia del Distrito Federal únicamente por los delitos que se persigan por querella y no sean considerados graves; e iniciar la averiguación del caso, en los términos de este código, de conformidad con los principios constitucionales de legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 III.- Informar a los denunciantes o querellantes sobre su derecho a ratificar la denuncia o querella en el mismo acto y a recibir su ratificación inmediatamente, o a recibirla dentro de las 24 horas siguientes, cuando se identifiquen debidamente y no exista impedimento legal para ello, tiempo en el cual los denunciantes o querellantes deberán acreditar plenamente su identidad, salvo que no residan en la ciudad o exista algún impedimento material que deberá ser razonado por el Ministerio Público;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 IV.- Iniciar e integrar la averiguación previa correspondiente cuando así proceda;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 V.- Practicar las diligencias inmediatas procedentes cuando de las declaraciones se desprendan indicios de la comisión de conductas delictivas;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 VI.- Expedir gratuitamente, a solicitud de los denunciantes o querellantes, copia simple de su declaración o copia certificada en términos de lo previsto por este Código y por el Código Financiero del Distrito Federal;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 VII.- Trasladarse al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y a tomar los datos de las personas que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas en caso contrario para que dentro del término de veinticuatro horas comparezcan a rendir su declaración, y a realizar todas las diligencias inmediatas a que hace referencia este Código y las demás conducentes para la integración debida de la averiguación;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos (sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 IX.- Proponer el no ejercicio de la acción penal cuando de las declaraciones iniciales y de los elementos aportados no se desprenda la comisión de conductas delictivas o elemento alguno para su investigación;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 X.- Solicitar al denunciante o querellante que aporte los datos necesarios para precisar la identidad del probable responsable y dar de inmediato intervención a peritos para la elaboración de la media filiación y el retrato hablado;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 XI.- Dar intervención a la policía judicial con el fin de localizar testigos que aporten los datos para identificar al probable responsable, así como datos relacionados con la comisión de los hechos delictivos;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 XII.- Programar y desarrollar la investigación, absteniéndose de diligencias contradictorias, innecesarias, irrelevantes o inconducentes para la eficacia de la indagatoria;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 XIII.- Expedir y fechar de inmediato los citatorios o comparecencias ulteriores, de denunciantes, querellantes, testigos, probables responsables, o de cualquier compareciente, ante el Ministerio Público, de acuerdo con el desarrollo expedito, oportuno y eficaz de la indagatoria, siendo responsables los agentes del Ministerio Público que requieran las comparecencias y sus auxiliares, de que se desahoguen con puntualidad y de conformidad con la estrategia de investigación correspondiente;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 XIV.- Solicitar la reparación del daño en los términos de este Código; e (sic)
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 XV.- Informar a la víctima o, en su caso, a su representante legal, sobre el significado y la trascendencia del otorgamiento del perdón cuando decidan otorgarlo;
 
@@ -2408,13 +2442,31 @@ III.- Las medidas que dictaren para completar la investigación.
 
 Cuando el delito que se ponga en conocimiento de la Policía Judicial sea de aquellos que menciona el artículo 263, aquella orientará al querellante para que acuda a presentar la querella ante el agente del Ministerio Público que corresponda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 276.
+
+Las denuncias y las querellas pueden formularse verbalmente, por escrito o vía portal electrónico de la Procuraduría de Justicia del Distrito Federal, se concretará en todo caso a describir los hechos supuestamente delictivos, sin calificarlos jurídicamente y se hará en los términos previstos para el ejercicio del derecho de petición. Cuando la denuncia o querella no reúna los requisitos citados, el funcionario que la reciba prevendrá al denunciante o querellante para que la modifique ajustándose a ellos, así mismos (sic), se informará al denunciante querellante dejando constancia en el acta, acerca de la trascendencia jurídica del acto que realiza, sobre las penas en que incurren los que declaran falsamente ante las autoridades, y sobre las modalidades del procedimiento según se trate de delitos perseguibles de oficio o por querella.
+
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
-###### ARTICULO 276.
-
-Las denuncias y las querellas pueden formularse verbalmente o por escrito, se concretarán en todo caso, a describir los hechos supuestamente delictivos, sin calificarlos jurídicamente y se harán en los términos previstos para el ejercicio del derecho de petición. Cuando la denuncia o querella no reúna los requisitos citados, el funcionario que la reciba prevendrá al denunciante o querellante para que la modifique, ajustándose a ellos, así mismo, se informará al denunciante o querellante dejando constancia en el acta, acerca de la trascendencia jurídica del acto que realiza, sobre las penas en que incurren los que declaran falsamente ante las autoridades, y sobre las modalidades del procedimiento según se trate de delito perseguible de oficio o por querella.
-
 En el caso de que la denuncia o la querella se presenten verbalmente, se harán constar en el acta que levantará el funcionario que la reciba, recabando la firma o huella digital del denunciante o querellante. Cuando se haga por escrito, deberán contener la firma o huella digital del que la presenta y su domicilio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+En el caso de querella por delito considerado no grave, se podrá formular vía portal electrónico de la Procuraduría General de Justicia del Distrito Federal, y ésta hará saber al querellante, en un termino de cinco días hábiles contados a partir del día siguiente al que fue presentada la misma, el día, hora y ante que agencia del Ministerio Publico, deberá acudir a ratificarla, o en caso le hará saber si es necesario que se presente de inmediato ante el ministerio Público para la realización de alguna diligencia o peritaje.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+Si no acudiere a ratificarla, se tendrá por no hecha, dejando a salvo el derecho de interponer la querella nuevamente por cualquiera de los medios en que pueda formularse.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 Cuando el denunciante o querellante hagan publicar la denuncia o la querella, están obligados a publicar también a su costa y en la misma forma utilizada para esa publicación, el acuerdo que recaiga al concluir la averiguación previa, si así lo solicita la persona en contra de la cual se hubiere formulado dicha denuncia o querella y sin perjuicio de las responsabilidades en que aquéllos incurran, en su caso, conforme a otras leyes aplicables.
 
@@ -5843,3 +5895,13 @@ CUARTO. El Tribunal Superior de Justicia del Distrito Federal deberá realizar l
 QUINTO. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para emitir el reglamento interno correspondiente.
 
 SEXTO. La Comisión de Administración y Procuración de Justicia conformará una comisión multidisciplinaria donde participe, cuando menos, la Consejería Jurídica del Gobierno del Distrito Federal, el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, académicos e investigadores con experiencia en la materia; con la finalidad de elaborar, en el plazo de un año, contado a partir del día siguiente de la fecha de entrada en vigor de la presente ley, de la iniciativa de ley que para la solución de controversias en todos los ámbitos de interacción social, requiere el Distrito Federal.
+
+G.O. 3 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto se publicará en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor 180 días hábiles después de su publicación en la Gaceta Oficial del Distrito Federal, lapso en que la Procuraduría General de Justicia del Distrito Federal realizará las adecuaciones administrativas para la aplicación de la presente reforma.
