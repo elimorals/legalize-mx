@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2008-03-13"
+last_updated: "2008-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1755,6 +1755,8 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 ### CAPITULO X. Del divorcio
 
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 232.
 
 Los cónyuges pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los acreedores alimentarios.
@@ -1979,101 +1981,27 @@ Si al declararse la nulidad del matrimonio la mujer estuviera embarazada, se tom
 
 ###### ARTICULO 266.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
 
-Se clasifica en voluntario y necesario. Es voluntario cuando se solicita de común acuerdo por los cónyuges, y se substanciará administrativa o judicialmente, según las circunstancias del matrimonio. Es necesario cuando cualquiera de los cónyuges lo reclama ante la autoridad judicial, fundado en una o más de las causales a que se refiere el artículo 267 de este Código.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 267.
 
-Son causales de divorcio:
+El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
+I.- La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos;
 
-II.- El hecho de que durante el matrimonio nazca un hijo concebido, antes de la celebración de éste, con persona distinta a su cónyuge, siempre y cuando no se hubiere tenido conocimiento de esta circunstancia;
+III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje;
 
-III.- La propuesta de un cónyuge para prostituir al otro, no sólo cuando él mismo lo haya hecho directamente, sino también cuando se pruebe que ha recibido cualquier remuneración con el objeto expreso de permitir que se tenga relaciones carnales con ella o con él;
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-IV.- La incitación o la violencia hecha por un cónyuge al otro para cometer algún delito;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-V.- La conducta de alguno de los cónyuges con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VI.- Padecer cualquier enfermedad incurable que sea además, contagiosa o hereditaria, y la impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VII.- Padecer trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VIII.- La separación injustificada de la casa conyugal por más de seis meses;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-IX.- La separación de los cónyuges por más de un año, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que preceda la declaración de ausencia;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, o para los hijos;
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el Artículo 164, sin que sea necesario agotar previamente los procedimientos tendentes (sic) a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del Artículo 168;
-
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XIV.- Haber cometido uno de los cónyuges un delito doloso por el cual haya sido condenado, por sentencia ejecutoriada;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XV.- El alcoholismo o el hábito de juego, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desaveniencia (sic);
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XVI.- Cometer un cónyuge contra la persona o bienes del otro, o de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XVII.- La conducta de violencia familiar cometida o permitida por uno de los cónyuges contra el otro, o hacia los hijos de ambos, o de alguno de ellos. Se entiende por violencia familiar la descrita en este Código;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XVIII.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XIX.- El uso no terapéutico de las substancias ilícitas a que hace referencia la ley General de Salud y las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desaveniencia (sic);
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XX.- El empleo de métodos de fecundación asistida, realizada sin el consentimiento de su cónyuge; y
-
-> <small>(ADICIONADA, G.O. 25 DE MAYO DE 2000)</small>
-
-XXI.- Impedir uno de los cónyuges al otro, desempeñar una actividad en los términos de lo dispuesto por el artículo 169 de este Código.
-
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
-
-La anterior enumeración de las causales de divorcio, es de carácter limitativo; por tanto, cada causal es de naturaleza autónoma.
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos o que no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte. El Juez de lo Familiar resolverá atendiendo las circunstancias especiales de cada caso.
 
 ###### ARTICULO 268.
 
@@ -2087,13 +2015,13 @@ La anterior enumeración de las causales de divorcio, es de carácter limitativo
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 271.
 
-En todos los casos previstos en el artículo 267, los jueces de lo familiar están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho, sin cambiar los hechos, acciones y excepciones o defensas.
+Los jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto.
 
-Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en las causales previstas en las fracciones XI, XVII y XVIII del artículo 267.
+Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2103,125 +2031,85 @@ Procede el divorcio administrativo cuando habiendo transcurrido un año o más d
 
 Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 273.
 
-Procede el divorcio voluntario por vía judicial cuando los cónyuges que no se encuentren en el caso previsto en el artículo anterior, y por mutuo consentimiento lo soliciten al Juez de lo Familiar, en los términos que ordena el Código de Procedimientos Civiles, siempre que haya transcurrido un año o más de celebrado el matrimonio y acompañen un convenio que deberá contener las siguientes cláusulas:
-
-I.- Designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces, durante el procedimiento y después de ejecutoriado el divorcio;
-
-II.- El modo de atender las necesidades de los hijos a quien deba darse alimentos, tanto durante el procedimiento, como después de ejecutoriado el divorcio, especificando la forma de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
-
-III.- Designación del cónyuge al que corresponderá el uso de la morada conyugal, en su caso, y de los enseres familiares, durante el procedimiento de divorcio;
-
-IV.- La casa que servirá de habitación a cada cónyuge y a los hijos durante el procedimiento y después de ejecutariado (sic) el divorcio, obligándose ambos a comunicar los cambios de domicilio aún después de decretado el divorcio, si hay menores o incapaces u obligaciones alimenticias;
-
-V.- La cantidad o porcentaje de pensión alimenticia en favor del cónyuge acreedor, en los términos de la fracción II;
-
-VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; y
-
-VII.- Las modalidades bajo las cuales, el progenitor que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
 ###### ARTICULO 274.
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 275.
 
-Mientras se decrete el divorcio voluntario, el Juez de lo Familiar autorizará la separación provisional de los cónyuges y dictará las medidas necesarias respecto a la pensión alimenticia provisional de los hijos y del cónyuge, en términos del convenio a que se refiere el artículo 273 de este Código.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
 ###### ARTICULO 276.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
+
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 277.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 267, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+La persona que no quiera pedir el divorcio podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con su cónyuge, cuando éste se encuentre en alguno de los siguientes casos:
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+I.- Padezca cualquier enfermedad incurable que sea, además, contagiosa o hereditaria;
+
+II.- Padezca impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada; o
+
+III.- Padezca trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo;
+
+En estos casos, el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ###### ARTICULO 278.
 
-El divorcio necesario sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que tenga conocimiento de los hechos en que se funde la demanda, excepto en el caso de las fracciones XI, XVII y XVIII del artículo 267 de este Código, en el que el plazo de caducidad es de dos años, así como, con las demás salvedades que se desprenden de ese artículo.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
 ###### ARTICULO 279.
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 280.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada. Para tal efecto, los interesados deberán comunicar su reconciliación al Juez de lo Familiar.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto los interesados deberán comunicar su reconciliación al Juez de lo Familiar.
 
 ###### ARTICULO 281.
 
-El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; mas en este caso, no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón y que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie, o por hechos distintos que legalmente constituyan causa suficiente para el divorcio.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 282.
 
-Desde que se presenta la demanda y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes conforme a las disposiciones siguientes:
+Desde que se presenta la demanda, la controversia del orden familiar o la solicitud de divorcio y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+A. De oficio:
 
-I.- La separación de los cónyuges. El Juez de lo Familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia.
+I.- En los casos en que el Juez de lo Familiar lo considere pertinente, de conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, tomará las medidas que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, donde tendrá la más amplia libertad para dictar las medidas que protejan a las víctimas;
 
-La separación conyugal decretada por el juez interrumpe los términos a que se refieren las fracciones VIII y IX del artículo 267 de este Código;
+II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y de Comercio del Distrito Federal y de aquellos lugares en que se conozca que tienen bienes;
 
-II.- Señalar y asegurar las cantidades que a título de alimentos deben dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
+IV.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+B. Una vez contestada la solicitud:
 
-III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad del Distrito Federal y de aquellos lugares en que se conozca que tienen bienes;
+I.- El Juez de lo Familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+II. - Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio.
 
-IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
+En defecto de ese acuerdo; el Juez de lo Familiar resolverá conforme al Título Décimo Sexto del Código de Procedimientos Civiles, tomando en cuenta la opinión del menor de edad.
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+Los menores de doce años deberán quedar al cuidado de la madre, excepto en los casos de violencia familiar cuando ella sea la generadora o exista peligro grave para el normal desarrollo de los hijos. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos;
 
-V.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo éstos compartir la guarda y custodia mediante convenio.
+III.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres;
 
-En defecto de ese acuerdo; el Juez de lo Familiar resolverá conforme al Título Décimo Sexto del Código de Procedimientos Civiles, tomando en cuenta la opinión del menor de edad;
+IV.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VI.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VII.- En los casos en que el Juez de lo Familiar lo considere pertinente, de conformidad con los hechos expuestos y las causales invocadas en la demanda, tomará las siguientes medidas, con el fin de salvaguardar la integridad y seguridad de los interesados, que tratándose de violencia familiar deberá siempre decretar:
-
-a) Ordenar la salida del cónyuge demandado de la vivienda donde habita el grupo familiar.
-
-b) Prohibición al cónyuge demandado de ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados.
-
-c) Prohibir que el cónyuge demandado se acerque a los agraviados a la distancia que el propio Juez considere pertinente.
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-VIII.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-IX.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
-
-X.- Las demás que considere necesarias.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE FEBRERO DE 2007)</small>
-
-En caso de que los menores de doce años sean sujetos de violencia familiar, éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
+V.- Las demás que considere necesarias.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2235,25 +2123,37 @@ II.- Todas las medidas necesarias para proteger a los hijos de actos de violenci
 
 III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista riesgo para los menores.
 
-IV.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley de Asistencia y Prevención a la Violencia Familiar. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-V.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 282 de este Código, el Juez de lo Familiar fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos.
 
-VI.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley de Asistencia y Prevención a la Violencia Familiar y Ley de Acceso de las Mujeres a una vida libre de Violencia para el Distrito Federal. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+VI.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónguyes (sic), en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+VII.- En caso de desacuerdo, el Juez de lo Familiar, en la sentencia de divorcio, habrá de resolver sobre la procedencia de la compensación que prevé el artículo 267 fracción VI, atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+VIII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
 
 Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a los menores.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 283 Bis.
 
-En caso de que los padres hayan acordado la guarda y custodia compartida en términos de lo establecido en la fracción V del artículo 282, el Juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+En caso de que los padres hayan acordado la guarda y custodia compartida en términos de lo establecido en la fracción II del apartado B del artículo 282, el Juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
 
 ###### ARTICULO 284.
 
-El Juez de lo Familiar, antes de proveer definitivamente sobre la patria potestad o tutela de los hijos menores o incapaces, podrá acordar a petición de los menores, de sus abuelos, hermanos, tíos, primos o del Ministerio Público, cualquier medida que se considere necesaria para el desarrollo de los hijos menores o incapaces.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
 ###### ARTICULO 285.
 
@@ -2261,19 +2161,19 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 ###### ARTICULO 286.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 287.
 
-En la sentencia que decrete el divorcio y tomando en consideración, en su caso, los datos recabados en términos del artículo 282 de este Código, el Juez de lo Familiar fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos.
+En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, el Juez lo aprobará de plano, decretando el divorcio mediante sentencia; de no ser así, el juez decretará el divorcio mediante sentencia, dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 288.
 
-En los casos de divorcio necesario, el Juez de lo Familiar sentenciará al cónyuge culpable al pago de alimentos a favor del cónyuge inocente, tomando en cuenta las circunstancias del caso, entre ellas, las siguientes:
+En caso de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
 
 I.- La edad y el estado de salud de los cónyuges;
 
@@ -2287,15 +2187,7 @@ V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
 
 VI.- Las demás obligaciones que tenga el cónyuge deudor.
 
-En todos los casos, el cónyuge inocente que carezca de bienes o que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, o que esté imposibilitado para trabajar, tendrá derecho a alimentos.
-
-En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
-
-El cónyuge inocente tiene derecho, además del pago de alimentos, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado. Los daños y perjuicios, así como la indemnización a que se refiere el presente artículo, se rigen por lo dispuesto en este Código para los hechos ilícitos.
-
-En el caso de las causales enumeradas en las fracciones VI y VII del artículo 267 de este Código, el excónyuge enfermo tendrá derecho a alimentos si carece de bienes y está imposibilitado para trabajar; pero no procede la indemnización por daños y perjuicios.
-
-En el caso del divorcio voluntario por vía judicial, la mujer tendrá derecho a recibir alimentos por el mismo lapso de duración del matrimonio, derecho que disfrutará si no tiene ingresos suficientes y mientras no contraiga nuevas nupcias o se una en concubinato.
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2303,19 +2195,9 @@ En el caso del divorcio voluntario por vía judicial, la mujer tendrá derecho a
 
 En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 289 Bis.
 
-En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido, durante el matrimonio, siempre que:
-
-I.- Hubieran estado casados bajo el régimen de separación de bienes;
-
-II.- El demandante se haya dedicado en el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos; y
-
-III.- Durante el matrimonio el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
-
-El Juez de lo Familiar en la sentencia de divorcio, habrá de resolver atendiendo las circunstancias especiales de cada caso.
+(DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -14128,3 +14010,17 @@ SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Adminis
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
 
 ...
+
+G.O. 3 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto y, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
