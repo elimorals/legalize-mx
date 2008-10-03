@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2008-03-13"
+last_updated: "2008-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1028,15 +1028,17 @@ VI.- La sentencia dictada por el juez o la Sala del Tribunal que condene al arre
 
 > <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
-VII.- Para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido, y
+VII.- Para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido, y (sic)
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-VIII.- En los demás casos que la Ley dispone.
+VIII.- En los procedimientos de competencia de los jueces de lo familiar, hecho el emplazamiento y obrando contestación a la demanda o solicitud de divorcio, quedarán obligadas las partes, ya sea en forma personal o por conducto de sus representantes legales, a enterarse de todas las actuaciones que se dicten en el procedimiento a través del Boletín judicial, salvo que el Juez considere otra cosa, con excepción de lo señalado en las fracciones I, III y IV; asimismo, para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido; y
 
-> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA [N. DE .E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
-A los procedimientos familiares sólo les será aplicado lo señalado en las fracciones I, III y IV, de no ser así las partes quedarán enteradas por boletín judicial, salvo que el juez considere otra cosa; asimismo, para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido.
+IX.- En los demás casos que la Ley dispone.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
@@ -2236,7 +2238,11 @@ VIII.- La firma del actor, o de su representante legítimo. Si éstos no supiere
 
 > <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
 
-IX.- Para el trámite de incidentes, la primera notificación se llevará a cabo en el domicilio señalado en autos por las partes, si se encuentra vigente el juicio principal, y para el caso, de que haya resolución firme o ejecutoriada, o haya inactividad procesal por más de tres meses, se practicará en el lugar en el que resida la parte demandada incidentista.
+IX.- Para el trámite de incidentes, la primera notificación se llevará a cabo en el domicilio señalado en autos por las partes, si se encuentra vigente el juicio principal, y para el caso, de que haya resolución firme o ejecutoriada, o haya inactividad procesal por más de tres meses, se practicará en el lugar en el que resida la parte demandada incidentista;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+X.- En los casos de divorcio deberá incluirse la propuesta de convenio en los términos que se establece en el artículo 267 del Código Civil, con excepción de lo preceptuado en el segundo párrafo de la fracción V del presente artículo, debiendo ofrecer todas las pruebas tendientes a acreditar la procedencia de la propuesta de convenio.
 
 ARTICULO 256
 
@@ -2284,9 +2290,15 @@ V.- Todas las excepciones que se tengan, cualquiera que sea su naturaleza, se ha
 
 De las excepciones procesales se le dará vista al actor para que las conteste y rinda las pruebas que considere oportunas en los términos de este ordenamiento;
 
-VI.- Dentro del término para contestar la demanda, se podrá proponer la reconvención en los casos en que proceda, la que tiene que ajustarse a lo prevenido por el artículo 255 de este ordenamiento, y
+VI.- Dentro del término para contestar la demanda, se podrá proponer la reconvención en los casos en que proceda, la que tiene que ajustarse a lo prevenido por el artículo 255 de este ordenamiento, y (sic)
 
-VII.- Se deberán acompañar las copias simples de la contestación de la demanda y de todos los documentos anexos a ella para cada una de las demás partes.
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+VII.- Se deberán acompañar las copias simples de la contestación de la demanda y de todos los documentos anexos a ella para cada una de las demás partes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+VIII.- En los casos de divorcio podrá manifestar su conformidad con el convenio propuesto o, en su caso, presentar su contrapropuesta, debiendo anexar las pruebas respectivas relacionadas con la misma.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2380,25 +2392,31 @@ El demandado que oponga reconvención o compensación, lo hará precisamente al 
 
 ARTICULO 272-A
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-Una vez contestada la demanda, y en su caso, la reconvención el Juez señalará de inmediato fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los diez siguientes (sic), dando vista a la parte que corresponda con las excepciones que se hubieren opuesto en su contra, por el término de tres días. En los juicios de divorcio necesario en que se invoquen como causales únicamente las fracciones XI, XVII o XVIII del artículo 267 del Código Civil, la audiencia previa y de conciliación se fijará dentro de los cinco días siguientes a la contestación de la demanda y, en su caso, de la reconvención.
+Una vez contestada la demanda, y en su caso, la reconvención el Juez señalará de inmediato fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los diez días siguientes, dando vista a la parte que corresponda con las excepciones que se hubieren opuesto en su contra, por el término de tres días.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-Si una de las partes no concurre sin causa justificada, el juez la sancionará con una multa hasta por los montos establecidos en la fracción II del artículo 62 de este código. Si dejaren de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juez procederá a examinar las cuestiones relativas a la depuración del juicio.
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
-
-Si asistieran las dos partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado. El conciliador preparará y propondrá a las partes, alternativas de solución al litigio. Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada.
+Si asistieran las dos partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado. El conciliador preparará y propondrá a las partes, alternativas de solución al litigio. Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada. En los casos de divorcio, si los cónyuges llegan a un acuerdo respecto al convenio, el juez dictará un auto en el cual decrete la disolución del vínculo matrimonial y la aprobación del convenio sin necesidad de dictar sentencia.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 En caso de desacuerdo entre los litigantes, la audiencia proseguirá y el juez, que dispondrá de amplias facultades de dirección procesal, examinará, en su caso, las excepciones de conexidad, litispendencia y cosa juzgada, con el fin de depurar el procedimiento.
 
+> <small>(REFORMADO [N. DE E., ADICIONADO], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+En los casos de divorcio, no se abrirá el periodo probatorio a que se refiere el artículo 290 de este código, toda vez que las pruebas relacionadas con el convenio propuesto debieron ofrecerse al momento de presentarse la solicitud y, en su caso, la contestación a la misma, por lo que únicamente se ordenará su preparación y se señalará fecha para su desahogo en el incidente correspondiente.
+
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 272
 
-B (DEROGADO, D.O.F. 24 DE MAYO DE 1996)
+B
+
+Tratándose de divorcio, el juez lo decretará una vez que se haya contestado la solicitud presentada o en su defecto, haya precluido el término para contestarla. En caso de diferencias en los convenios propuestos, el juez, dentro de los cinco días siguientes, citará a las partes para promover el acuerdo entre las pretensiones expuestas en los citados convenios. De no ser así, se procederá en los términos del artículo 287 del Código Civil para el Distrito Federal, y 88 de este ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2554,11 +2572,11 @@ Son admisibles como medios de prueba aquellos elementos que puedan producir conv
 
 ### CAPITULO III. Del ofrecimiento y admisión de pruebas
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ARTICULO 290
 
-El mismo día en que se haya celebrado la audiencia previa, de conciliación y de excepciones procesales, si en la misma no se terminó el juicio por convenio o a más tardar al día siguiente de dicha audiencia, el Juez abrirá el juicio al periodo de ofrecimiento de pruebas, que es de diez días comunes, que empezarán a contarse desde el día siguiente a aquél en que surta efectos la notificación a todas las partes del auto que manda abrir el juicio a prueba. En los juicios de divorcio necesario en que se invoquen como causales únicamente las fracciones XI, XVII o XVIII del artículo 267 del Código Civil, el periodo de ofrecimiento de pruebas será de cinco días comunes a partir del día siguiente de aquél en que surta efectos la notificación a todas las partes del auto que manda abrir el juicio a prueba.
+El mismo día en que se haya celebrado la audiencia previa, de conciliación y de excepciones procesales, si en la misma no se terminó el juicio por convenio o a más tardar al día siguiente de dicha audiencia, el Juez abrirá el juicio al periodo de ofrecimiento de pruebas, que es de diez días comunes, que empezarán a contarse desde el día siguiente a aquél en que surta efectos la notificación a todas las partes del auto que manda abrir el juicio a prueba.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2612,9 +2630,9 @@ Contra el auto que admita pruebas que se encuentren en algunas de las prohibicio
 
 ARTICULO 299
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-El Juez, al admitir las pruebas ofrecidas procederá a la recepción y desahogo de ellas en forma oral. La recepción de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión, señalándose al efecto el día y la hora teniendo en consideración el tiempo para su preparación. Deberá citarse para esa audiencia dentro de los treinta días siguientes a la admisión. En los juicios de divorcio necesario en que se invoquen como causales únicamente las fracciones XI, XVII o XVIII del artículo 267 del Código Civil, se citará para la audiencia de recepción de pruebas dentro de los quince días siguientes al de la admisión de las pruebas ofrecidas.
+El Juez, al admitir las pruebas ofrecidas procederá a la recepción y desahogo de ellas en forma oral. La recepción de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión, señalándose al efecto el día y la hora teniendo en consideración el tiempo para su preparación. Deberá citarse para esa audiencia dentro de los treinta días siguientes a la admisión.
 
 > <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
 
@@ -2908,13 +2926,15 @@ ARTICULO 345
 
 En caso de impugnación de falsedad de un documento, se observará lo dispuesto por el artículo 386.
 
-(REUBICADA, D.O.F. 14 DE MARZO DE 1973)
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 3 DE OCTUBRE DE 2008, SE ADICIONA EL PRESENTE CAPITULO, RESPETANDO LA UBICACION Y PUBLICACION DEL MISMO.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 ### CAPITULO V. De la forma escrita en la recepción de pruebas
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+(REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-#### SECCION IV. Prueba pericial
+#### SECCION IV (SIC). Prueba pericial
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2927,6 +2947,10 @@ Los peritos deben tener título en la ciencia, arte, técnica, oficio o industri
 Si no lo requirieran o requiriéndolo, no hubiere peritos en el lugar, podrán ser nombradas cualesquiera personas entendidas a satisfacción del juez, aun cuando no tengan título.
 
 El título de habilitación de corredor público acredita para todos los efectos la calidad de perito valuador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+Tratándose de asuntos en materia familiar en los que se requiera el desahogo de una pericial, no le surtirán las reglas del presente capítulo, con excepción de lo dispuesto por el artículo 353 de este código, debiendo el Juez señalar perito único de las listas de Auxiliares de la Administración de Justicia o de institución pública o privada.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5170,59 +5194,33 @@ ARTICULO 673
 
 Si la tercería, cualquiera que sea se interpone ante un Juez de Paz y el interés de ella excede del que la ley somete a su jurisdicción, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez competente en turno para conocer del negocio que representa mayor interés. El juez correspondiente correrá traslado de la demanda y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 TITULO DECIMOPRIMERO
 
 Divorcio por mutuo consentimiento
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 ## TITULO DECIMO. De las tercerías
 
-### CAPITULO UNICO. ARTICULO 674
+### CAPITULO UNICO. ARTICULO 674 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurir (sic) al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
+ARTICULO 675 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
+ARTICULO 676 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-ARTICULO 675
+ARTICULO 677 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público, a una junta que se efectuará después de los ocho y antes de los quince días siguientes, en la que se identificarán plenamente ante el juez, y en la que éste, si asistiesen ambos, los exhortará para procurar su reconciliación.
+ARTICULO 678 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
+ARTICULO 679 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-ARTICULO 676
+ARTICULO 680 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-Si en la misma junta, los cónyuges insistiesen en su propósito de divorciarse, y en el convenio que celebraron para el efecto, quedaren bien garantizados los derechos de los hijos menores o incapacitados, el juez, oyendo el parecer del representante del Ministerio Público sobre este punto, dictara sentencia, en la que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
+ARTICULO 681 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-ARTICULO 677
-
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
-
-ARTICULO 678
-
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículo (sic) 675 y 676, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
-
-ARTICULO 679
-
-En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
-
-ARTICULO 680
-
-En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el tribunal lo hará saber a los cónyuges para que dentro de tres días manifiesten si aceptan las modificaciones.
-
-En caso de que no las acepten, el tribunal resolverá en la sentencia lo que proceda con arreglo a la ley cuidando de que en todo caso queden debidamente garantizados los derechos de los hijos.
-
-Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
-
-ARTICULO 681
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo relativo a los derechos de los hijos. La que lo niegue es apelable en ambos efectos.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-ARTICULO 682
-
-Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Juez del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados para los efectos de los artículos 114, 116 y 291 del Código Civil.
+ARTICULO 682 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
 TITULO DECIMOSEGUNDO
 
@@ -5247,6 +5245,12 @@ ARTICULO 685
 En los juicios en que la sentencia definitiva sea apelable, la revocación es procedente únicamente contra determinaciones de trámite, en los términos del artículo 79, fracción I de este código.
 
 En aquellos casos en que la sentencia no sea apelable, la revocación será procedente contra todo tipo de resoluciones con excepción de la definitiva. En todo caso, debe interponerse por escrito dentro de los tres días siguientes a la notificación, pudiéndose resolver de plano por el juez, o dar vista a la contraria por un término igual y la resolución deberá pronunciarse dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
+
+> <small>(ADICIONADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 685 BIS
+
+Únicamente podrán recurrirse las resoluciones que recaigan en vía incidental respecto del o los convenios presentados; la que declare la disolución del vínculo matrimonial es inapelable.
 
 ARTICULO 686
 
@@ -8461,3 +8465,17 @@ El Juez de Paz Civil notificará personalmente a la parte agraviada para que den
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
 
 SÉPTIMO.- El Tribunal Superior de Justicia del Distrito Federal deberá realizar las adecuaciones administrativas y laborales para que se cumpla el procedimiento seguido ante los Jueces de Paz Civil que señala este Decreto en los términos y plazos allí señalados y entren en vigor el mismo día que este instrumento.
+
+G.O. 3 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto y, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
