@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-la-violencia-en-los-espectaculos-50293"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-03"
-last_updated: "2008-04-02"
+last_updated: "2008-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50293&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-04-11"
 
 LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTACULOS DEPORTIVOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 3 de mayo de 2006.
 
@@ -224,7 +224,9 @@ IV.- Las demás que le señale la Ley y otras disposiciones aplicables.
 
 Son obligaciones de los Titulares:
 
-I.- Contar con cuerpos de seguridad pública o privada al interior del Recinto Deportivo, durante la celebración de un espectáculo deportivo;
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+I.- En coordinación con el club deportivo contratar a por lo menos 1 elemento de seguridad pública que pertenezca a la policía complementaria por cada 25 aficionados, manteniéndolos al interior del Recinto Deportivo, por lo menos 2 horas antes y 2 horas después del espectáculo deportivo;
 
 II.- Asegurar el auxilio de los servicios médicos de emergencia;
 
@@ -240,7 +242,9 @@ VII.- Resarcir, de conformidad con las leyes aplicables, a quien sufra daños, l
 
 VIII.- Instalar un sistema de sonido con capacidad y alcance en el interior y en las entradas del Recinto Deportivo;
 
-IX.- Instalar cámaras de video con circuito cerrado al interior del recinto deportivo, así como conservar las grabaciones y entregarlas a Seguridad Pública previa petición de ésta en casos de violencia;
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+IX.- Instalar cámaras de video con circuito cerrado al interior del Recinto Deportivo, suficientes para cubrir todos los espacios del recinto, así como pasillos, entradas y salidas, conservando las grabaciones y en su caso, entregarlas a la Procuraduría previa petición;
 
 X.- Difundir las medidas de seguridad, así como los riesgos del recinto deportivo;
 
@@ -286,7 +290,13 @@ V.- Entregar a quien se registre como integrante de un grupo de animación, cred
 
 VI.- Abstenerse de incitar a la violencia por cualquier medio, incluidas las pantallas gigantes y sistema de sonido de los establecimientos deportivos;
 
-VII.- Las demás que le señale la Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
+VII.- En coordinación con los Titulares contratar a por lo menos 1 elemento de seguridad pública que pertenezca a la policía complementaria por cada 25 aficionados, manteniéndolos al interior del Recinto Deportivo, por lo menos 2 horas antes y 2 horas después del espectáculo deportivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+
+VIII.- Las demás que se señale en la Ley y en otras disposiciones aplicables.
 
 ### Capítulo IV. De los Espectadores y Grupos de Animación
 
@@ -445,3 +455,11 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 2 DE ABRIL DE 2008.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE OCTUBRE DE 2008.
+
+Primero.- El presente decreto se publicará en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Iniciará su vigencia a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
