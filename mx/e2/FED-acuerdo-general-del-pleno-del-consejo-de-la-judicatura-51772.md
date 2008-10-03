@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-09-01"
+last_updated: "2008-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE OCTUBRE DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -691,9 +691,11 @@ Durante el desarrollo de las sesiones de la comisión se tendrán disponibles, e
 
 La Comisión de Disciplina tiene las siguientes atribuciones:
 
-I. Conocer de todos los procedimientos administrativos de responsabilidad en contra de magistrados de circuito y jueces de distrito y, en su caso, demás servidores públicos de los órganos jurisdiccionales y resolver aquellos que resulten infundados, improcedentes, en los que no se acredite alguna causa de responsabilidad, en los procedimientos disciplinarios en que deba declararse prescrita la facultad sancionadora o sin materia, o deban ser sobreseídos, siempre y cuando exista acuerdo unánime;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
 
-II. Resolver los procedimientos administrativos de responsabilidad en contra de servidores públicos y empleados de los órganos administrativos del Consejo cuyo nombramiento no hubiere sido otorgado por el Pleno;
+I. Conocer de todos los procedimientos administrativos de responsabilidad en contra de magistrados de circuito y jueces de distrito y, en su caso, demás servidores públicos de los órganos jurisdiccionales y administrativos, en los términos que establezca el Acuerdo General de Responsabilidades Administrativas correspondiente;
+
+II. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2008)
 
 III. Auxiliar al Consejo en sus funciones de apercibir y amonestar a los magistrados de circuito y jueces de distrito;
 
@@ -701,7 +703,7 @@ III. Auxiliar al Consejo en sus funciones de apercibir y amonestar a los magistr
 
 IV. Resolver lo relativo a la imposición de multas a aquellas personas que falten al respeto a algún órgano o miembro del Poder Judicial de la Federación en las promociones que presenten con motivo de denuncias o quejas administrativas, así como a quienes promuevan sin motivo procedimientos administrativos de responsabilidad;
 
-V. Someter a consideración del Pleno, para su aprobación definitiva, los proyectos de resolución de las quejas administrativas que deban declararse fundadas, de las denuncias en las que se encuentre acreditada alguna causa de responsabilidad, de aquellos procedimientos administrativos de responsabilidad que por su trascendencia se considere que debe ser el Pleno quien conozca de ellos o en los que se imponga multa al promovente, a su representante o a ambos; o bien, en los que no se haya llegado a un consenso en la Comisión de Disciplina, o el logrado sea contrario al proyecto presentado por el ponente;
+V. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2008)
 
 VI. Someter a consideración del Pleno los proyectos de dictámenes relativos a las visitas de inspección e informes circunstanciados, en los que oficiosamente se advierta la existencia de una probable falta administrativa;
 
@@ -3604,3 +3606,11 @@ TERCERO.- Modifíquese el Tabulador General del Consejo de la Judicatura Federal
 > <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 2008)</small>
 
 CUARTO.- El personal de la Dirección General Adjunta de la Presidencia deberá integrar la estructura inicial de la Secretaría General de la Presidencia del Consejo de la Judicatura Federal, lo que deberá hacerse del conocimiento de la Dirección General de Programación y Presupuesto y de la Dirección General de Recursos Humanos.
+
+D.O. F. 3 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta y en la página de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo, y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, según corresponda.
