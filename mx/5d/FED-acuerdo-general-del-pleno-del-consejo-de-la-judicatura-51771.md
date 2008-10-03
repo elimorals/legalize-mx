@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-05-19"
+last_updated: "2008-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE OCTUBRE DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -655,21 +655,25 @@ Sólo en los casos en que de un mismo acto se derive responsabilidad de un Magis
 
 La Secretaría Ejecutiva de Disciplina tramitará el procedimiento por las causas de presunta responsabilidad y, posteriormente, turnará el asunto al Consejero que corresponda para que éste elabore el proyecto de resolución respectivo, el que será sometido a la consideración de la Comisión de Disciplina o del Pleno, según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 84.
 
-El Pleno es competente para resolver las quejas administrativas que deban declararse fundadas; las denuncias en las que se encuentre acreditada alguna causa de responsabilidad; de aquellos procedimientos administrativos de responsabilidad trascendentales; o bien, en los que no se haya llegado a un consenso en la Comisión de Disciplina, o la decisión mayoritaria sea contraria al proyecto presentado por el ponente.
+El Pleno es competente para resolver, tratándose de magistrados de circuito o de jueces de distrito, así como de funcionarios nombrados por el propio Pleno, las quejas administrativas en las que proponga declararlas fundadas y las denuncias en las que se considere, en el proyecto, acreditada alguna causa de responsabilidad.
 
-También corresponde al Pleno autorizar los dictámenes que presente el Secretario Ejecutivo de Disciplina ante la respectiva Comisión, en relación con las visitas ordinarias o extraordinarias de inspección que sean practicadas en los tribunales de circuito y juzgados de distrito, así como de los informes circunstanciados de los que se derive la presunta responsabilidad administrativa de alguno de los titulares de esos órganos.
+Es competencia del Pleno resolver los procedimientos administrativos de responsabilidad, seguidos en contra de funcionarios y empleados de los órganos jurisdiccionales y administrativos, distintos a los señalados en el párrafo anterior, en los que se proponga la imposición de sanciones consistentes en destitución o inhabilitación.
 
-Las resoluciones del Pleno, relativas a los procedimientos administrativos de responsabilidad, deberán resolverse al menos por mayoría calificada de cinco votos; y serán definitivas e inatacables, en los términos que establece el artículo 122 de la Ley.
+Corresponde, igualmente, resolver al Pleno aquellos procedimientos administrativos de responsabilidad trascendentales; en los que no se haya llegado a un consenso en la Comisión de Disciplina; o el criterio mayoritario sea contrario al proyecto presentado por el ponente.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE FEBRERO DE 2007)</small>
+Las resoluciones del Pleno, relativas a los procedimientos administrativos de responsabilidad, en los que se determine la imposición de destitución o inhabilitación deberán resolverse al menos por mayoría calificada de cinco votos; y serán definitivas e inatacables, en los términos que establece el artículo 122 de la Ley.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 85.
 
-La Comisión de Disciplina emitirá la resolución que corresponda en las quejas administrativas que deban declararse improcedentes o infundadas, en las denuncias en las que no se acredite alguna causa de responsabilidad, en los procedimientos disciplinarios en que deba declararse prescrita la facultad sancionadora o sin materia, o deban ser sobreseídos, y en aquellos procedimientos administrativos de responsabilidad en los que se imponga multa al promovente, a su representante o a ambos.
+La Comisión de Disciplina emitirá la resolución que corresponda en las quejas administrativas incoadas en contra de magistrados de circuito o jueces de distrito que deban declararse improcedentes o infundadas; en las denuncias en las que no se acredite alguna causa de responsabilidad; en los procedimientos disciplinarios en que deba declararse prescrita la facultad sancionadora o sin materia, o deban ser sobreseídos, y en aquellos procedimientos administrativos de responsabilidad en los que se imponga multa al promovente, a su representante o a ambos.
+
+Corresponde a la Comisión de Disciplina emitir resolución en aquellas quejas o denuncias administrativas promovidas en contra de funcionarios o empleados jurisdiccionales o administrativos cualquiera que sea el sentido que se proponga, excepto en los casos a que se refiere el párrafo segundo del artículo anterior.
 
 ###### Artículo 86.
 
@@ -1514,3 +1518,11 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta modificación, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
+
+D.O.F. 3 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta y en la página de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo, y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, según corresponda.
