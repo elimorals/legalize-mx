@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-para-el-desarrollo-cientifico-tecnologico-y-4727
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-26"
-last_updated: "2005-11-26"
+last_updated: "2008-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO PARA EL DESARROLLO CIENTIFICO, TECNOLOGICO Y LA INNOVACION EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 26 de noviembre de 2005.
 
@@ -289,11 +289,15 @@ b) Dos representantes de instituciones de educación superior y/o centro de inve
 
 c) Un representante del Consejo Nacional de Ciencia y Tecnología en el Estado;
 
-IV. El titular de la Secretaría de Finanzas;
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NO. 12/07 I P.O., PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2008, LAS ANTERIORES FRACCIONES IV Y V QUEDARON COMPRENDIDAS EN LA IV.</small>
 
-V. El titular de la Secretaría de Administración; y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2008)</small>
 
-VI. El titular de la Secretaría de Planeación y Evaluación.
+IV. El Titular de la Secretaría de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2008)</small>
+
+V. El Titular de la Secretaría de Planeación y Evaluación.
 
 El cargo de miembro de la Junta Directiva es de carácter honorífico. Los integrantes durarán en este cargo el término durante el cual conserven la representación de la dependencia e institución de que se trate.
 
@@ -373,7 +377,9 @@ II. Un Secretario Técnico, cuyo cargo recaerá en el Director General del Organ
 
 III. Las Instituciones educativas del Estado de Chihuahua, que realicen y/o cuenten con centros de investigación científica, tecnológica y de innovación;
 
-IV. Dos representantes del H. Congreso del Estado, siendo uno de ellos el C. Presidente de la Comisión de Educación Pública, Cultura, Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2008)</small>
+
+IV. Dos representantes del H. Congreso del Estado, siendo uno de ellos el Presidente de la Comisión de Ciencia y Tecnología;
 
 V. Un representante de las diferentes dependencias y organismos del Gobierno Federal ubicadas en el Estado y relacionadas con la materia;
 
@@ -730,3 +736,29 @@ LIC. JOSE REYES BAEZA TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los términos de la Ley de Fomento para el Desarrollo Científico, Tecnológico y la Innovación en el Estado, particularmente lo que establecen los artículos 5o., fracciones II, VI, VII, VIII, en relación a los numerales 1o., fracción VII; 2o., 3o., fracciones III, V y VI; 6o., 9o., fracción I; 10, fracción I; 33, 37 y demás relativos y aplicables, todos los recursos humanos, financieros, administrativos, presupuestales, unidades académicas o administrativas, así como los bienes muebles e inmuebles de la administración centralizada o descentralizada del Poder Ejecutivo del Estado que tengan por objeto el desarrollo científico, tecnológico y la innovación en la Entidad, serán transferidos al Consejo Estatal de Ciencia, Tecnología e Innovación de Chihuahua, creado mediante el presente Decreto, dentro de los sesenta días naturales posteriores a su entrada en vigor, para lo cual se suscribirán las actas de entrega-recepción a que hubiera lugar.
+
+Las Secretarías de Finanzas y Administración y de la Contraloría del Estado, tomarán las previsiones necesarias para el cabal cumplimiento de lo previsto en el párrafo inmediato anterior del presente artículo.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor la presente Ley, se procederá a integrar la Junta Directiva del COECyTeCH; nombrado el Director General del mismo, el Presidente de la Junta Directiva convocará dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, para la integración del Comité Técnico Consultivo previsto en la Ley de Fomento para el Desarrollo Científico, Tecnológico y la Innovación en el Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas y Administración tomará las medidas presupuestales necesarias para que el Consejo Estatal de Ciencia, Tecnología e Innovación de Chihuahua cuente con los recursos pertinentes para el ejercicio 2008, en la medida que sea posible.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado incluirá anualmente en las cuentas públicas respectivas, los estados financieros del COECyTeCH en los términos de las disposiciones aplicables.
