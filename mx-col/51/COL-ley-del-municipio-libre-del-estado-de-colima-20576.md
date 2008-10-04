@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2007-09-08"
+last_updated: "2008-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -868,6 +868,10 @@ Las faltas temporales del presidente municipal hasta por quince días serán sup
 ###### ARTICULO 56.
 
 Si alguno de los demás miembros del cabildo pide licencia o deja de desempeñar su cargo por cualquier causa, será sustituido temporal o definitivamente por su suplente y sólo en caso de impedimento o falta absoluta de éste, el cabildo designará por mayoría calificada a uno de los demás suplentes.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 56 BIS.- La ausencia temporal o definitiva de alguno de los miembros del cabildo, será suplida de manera inmediata y, en ningún caso, ésta deberá exceder del término de tres días naturales posterior a la solicitud correspondiente.
 
 ###### ARTICULO 57.
 
@@ -1848,3 +1852,7 @@ P.O. 8 DE SEPTIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los Ayuntamientos expedirán el Reglamento del Gobierno Municipal que corresponda a su jurisdicción en un plazo no mayor de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
