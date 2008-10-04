@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2008-05-10"
+last_updated: "2008-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -443,7 +443,9 @@ II. Formular y actualizar los programas municipales de desarrollo urbano con suj
 
 III. Colaborar en el fortalecimiento del desarrollo rural; al incremento de la producción agrícola y ganadera; así como al impulso de la organización económica de ejidatarios, comuneros y pequeños propietarios, con el propósito de cumplir con las atribuciones que le asignan las leyes reglamentarias del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Los ayuntamientos deberán ejercitarlas, dictando a su vez las disposiciones legales que aseguren el cumplimiento de los programas agrarios;
 
-IV. Acordar la colaboración con otros municipios, con el Estado o con los particulares sobre programas de beneficio a la población;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2008)</small>
+
+IV. Acordar la colaboración con otros municipios, con el Estado, o con los particulares, sobre programas de beneficio a la población, así como de asesoría y de acciones administrativas, contables, jurídicas, logísticas y demás que resulten necesarias para el cumplimiento eficiente de las funciones y servicios a su cargo;
 
 V. Autorizar mediante el acuerdo de por lo menos las dos terceras partes de sus integrantes, los empréstitos, gravámenes o enajenaciones de los bienes municipales, y en general las deudas que puedan pagarse dentro de su ejercicio o fuera de éste con aprobación del Congreso del Estado, observando en todo caso lo previsto en la Ley de Deuda Pública Municipal;
 
@@ -2194,3 +2196,9 @@ I. Por única vez, para los efectos que se establecen en el artículo 63 de la L
 II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
 
 III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
+
+P.O. 4 DE OCTUBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
