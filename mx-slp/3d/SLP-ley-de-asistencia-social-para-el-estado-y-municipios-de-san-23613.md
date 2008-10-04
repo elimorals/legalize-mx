@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2007-07-10"
+last_updated: "2008-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DEJULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -1075,6 +1075,16 @@ Para efectos de la presente Ley, se entiende por certificación el acto mediante
 
 Esta certificación se hará valer ante las autoridades competentes y servirá para recibir los beneficios y prerrogativas que en su favor se establecen en esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 72 BIS. En la iniciativa de Ley del Presupuesto de Egresos del Estado, que remita el Titular del Ejecutivo del Estado al Poder Legislativo, en cada ejercicio fiscal, en el apartado de las instituciones de asistencia social con subsidio gubernamental, el sistema para el Desarrollo Integral de la Familia del Estado, emitirá una opinión a la Secretaría de Finanzas de Gobierno del Estado, sobre el desempeño de la función de las instituciones de asistencia social privada que cuenten con subsidio a refrendar o, en su caso, otorgárselo por primera ocasión, esta opinión será igualmente remitida al Poder Legislativo para su estudio y análisis.
+
+Esta opinión se basará en los mismos criterios usados para la certificación descritos por el artículo 72 del presente Ordenamiento; además, de implicar la observación de la Auditoria Superior del Estado, sobre el correcto manejo de los recursos por parte de las instituciones privadas. En todos los casos, la opinión será pública y se notificará a cada organismo sujeto de subsidio.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 72 TER. Las instituciones de asistencia social privada que cuenten con una opinión aprobatoria del sistema para el Desarrollo Integral de la Familia del Estado, deberán ser sujetos de integración en el proyecto de Ley de Presupuesto de Egresos, que se enviará al Poder Legislativo para sus efectos legales.
+
 ###### ARTICULO 73.
 
 La certificación se emitirá de conformidad con:
@@ -1240,3 +1250,9 @@ TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalad
 CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
 
 QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquéllos les competa.
+
+P.O. 4 DE OCTUBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que ese (sic) opongan al presente Decreto.
