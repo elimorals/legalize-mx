@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2008-08-15"
+last_updated: "2008-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE OCTUBRE DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -649,6 +649,20 @@ El ejercicio de las atribuciones anteriores corresponde también al Instituto de
 
 5.- El Instituto de Salud del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, y funciones de autoridad, que tiene por objeto la prestación de los servicios de salud y el ejercicio del control sanitario en materia de salubridad local.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 2.
+
+5 Bis.- Corresponde al Instituto de Salud del Estado de México, sin perjuicio de los que dispongan su Reglamento y otros ordenamientos aplicables:
+
+l. Desarrollar investigación permanente y sistemática de los riesgos y daños para la salud de la población, originados por toda fuente de emisión contaminante al medio ambiente.
+
+Se entiende como emisiones contaminantes a la generación o descarga de materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su salud, composición o condición natural; y
+
+II. Vigilar y establecer medidas para controlar la contaminación originada por ruido, vibraciones, energía térmica, lumínica, olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas al ambiente o los elementos naturales, en fuentes de competencia estatal, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
 ###### Artículo 2.
 
 6.- La dirección y administración del Instituto está a cargo de un consejo interno y un director general.
@@ -681,11 +695,11 @@ VIII. En general, todos los bienes, derechos y obligaciones que entrañen utilid
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo interno.
 
+### CAPITULO PRIMERO. Disposiciones generales
+
 ###### Artículo 2.
 
 8.- El Consejo de Salud del Estado de México es una instancia permanente de coordinación, consulta y apoyo para la planeación, programación y evaluación de los servicios de salud.
-
-### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 2.
 
@@ -723,19 +737,21 @@ XI. Promover la investigación en materia de salud en el Estado;
 
 XII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
+### CAPITULO SEGUNDO. De las autorizaciones sanitarias
+
 ###### Artículo 2.
 
 11.- La Secretaría de Salud organizará y coordinará el sistema estatal de información de salud, con el objeto de obtener, generar y procesar la información de la entidad en materia de salud.
 
 Las dependencias y organismos de la administración pública estatal y municipal, así como las personas físicas y morales relacionadas con las actividades de salubridad general y local, deberán proporcionar a la Secretaría de Salud los informes que para tal efecto les requiera dicha dependencia.
 
-### CAPITULO SEGUNDO. De las autorizaciones sanitarias
-
 ###### Artículo 2.
 
 12.- La Secretaría de Salud establecerá el Registro Estatal de Salud, en el que inscribirá de manera sistematizada la información que obtenga a través del sistema a que se refiere el artículo anterior.
 
 El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
+
+## TITULO CUARTO. De la salubridad local
 
 ###### Artículo 2.
 
@@ -801,8 +817,6 @@ XVIII. Coadyuvar con la Secretaría de Salud en la actualización de las estadí
 
 XIX. Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
 
-## TITULO CUARTO. De la salubridad local
-
 ###### Artículo 2.
 
 14.- La dirección y administración de cada uno de los Institutos estará a cargo de un consejo interno y un director general.
@@ -828,6 +842,10 @@ IV. Los bienes muebles e inmuebles que adquieran por cualquier título legal par
 V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquieran por cualquier título legal.
 
 Los ingresos de los Institutos, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por sus consejos internos.
+
+## TITULO PRIMERO. Disposiciones generales
+
+### CAPITULO TERCERO. De la vigilancia
 
 ###### Artículo 2.
 
@@ -867,10 +885,6 @@ XVI. Programas contra el alcoholismo y tabaquismo;
 
 XVII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
-## TITULO PRIMERO. Disposiciones generales
-
-### CAPITULO TERCERO. De la vigilancia
-
 ###### Artículo 2.
 
 17.- El Estado de México está obligado a prestar los servicios de salud en el marco del federalismo y concurrencia establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
@@ -888,6 +902,10 @@ XVII. Los demás que se establezcan en la Ley General de Salud y otras disposici
 20.- El sistema estatal de salud está constituido por las dependencias y organismos auxiliares de la administración pública estatal, y las personas físicas y morales de los sectores social y privado que presten servicios de salud en la Entidad.
 
 Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud participarán en el sistema estatal de salud como instancias éticas del ejercicio de las profesiones y promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades de salud.
+
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, G.G. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2.
 
@@ -910,10 +928,6 @@ VII. Coadyuvar a la modificación de los patrones culturales que determinen háb
 VIII. Promover un sistema de fomento sanitario que contribuya al desarrollo de actividades y servicios que no sean nocivos para la salud.
 
 El sistema estatal de salud podrá auxiliarse de los organismos nacionales e internacionales que estime necesarios para el cumplimiento de sus objetivos.
-
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 2.
 
@@ -987,11 +1001,11 @@ XVI. Proponer a la Secretaría de Salud acuerdos de colaboración interinstituci
 
 XVII. Las demás que se determinen en los acuerdos de coordinación respectivos.
 
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
 ###### Artículo 2.
 
 24.- La organización y funcionamiento del Centro se determinarán en su reglamento interno.
-
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 2.
 
@@ -1037,11 +1051,11 @@ XIII. Las demás que determinen otras disposiciones legales.
 
 La Comisión se excusará del conocimiento de las inconformidades que se establezcan en la reglamentación respectiva.
 
+### CAPITULO PRIMERO. Disposiciones generales
+
 ###### Artículo 2.
 
 27.- La presentación de quejas así como los procedimientos no afectan el ejercicio de otras acciones legales que tengan los usuarios o prestadores de los servicios médicos.
-
-### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 2.
 
@@ -1111,13 +1125,13 @@ XIII. Las demás que determine este Libro.
 
 Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
 
-###### Artículo 2.
-
-31.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
-
 ### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
 
 #### SECCION PRIMERA. De la recolección de muestras
+
+###### Artículo 2.
+
+31.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
 
 ###### Artículo 2.
 
@@ -1127,11 +1141,37 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 33.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
 
+#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
+
 ###### Artículo 2.
 
 34.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
 
-#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 2.
+
+34 Bis.- Los propietarios ó poseedores de los edificios y locales, o de los negocios en ellos establecidos, además de cumplir con la obligación de ejecutar las obras que se requieran para cumplir con las condiciones de higiene y de seguridad que establezcan las disposiciones legales y las normas sanitarias locales, tendrán la obligación de instalar aislantes de sonido, particularmente en restaurantes-bares, bares, discotecas y centros de espectáculos para no generar ruido en el medio ambiente, o contaminación, que afecte la salud de los usuarios, de dependientes y personal expuesto; así como el derecho de terceros, por encima de los siguientes niveles:
+
+Los límites máximos permisibles para las emisiones sonoras dentro de los establecimientos señalados, se determinan en función de decibeles ponderados en A [db(A)]; por lo que dentro de restaurantes, bares, discotecas y centros de espectáculos, los límites máximos de emisión y horarios son los siguientes, sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento:
+
+a) De las 6:00 a 22:00 Hrs. 68 db(A); y
+
+b) De las 22:00 a las 6:00 Hrs, será de 65 db(A)
+
+Será obligación de los titulares instalar sistemas visibles cuya finalidad es tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido y dar a conocer si se encuentran en el rango permitido o se ha excedido; por lo que en ese momento los titulares y/o empleados tendrán la obligación de disminuir los volúmenes de sonido y ruido hasta que se mantengan en el rango permitido.
+
+Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo la seguridad de los usuarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 2.
+
+34 Ter.- las instalaciones y edificios que se destinen a centros de reunión y/o espectáculos públicos, además de los requisitos reglamentarios respectivos, deberán dar cumplimiento a las disposiciones jurídicas aplicables en materia de límites máximos permisibles para las emisiones sonoras, así como tener acceso directo a la vía pública, espacios abiertos, escaleras de emergencia, y todas aquellas disposiciones que, a juicio del Ejecutivo del Estado, sean necesarias para la evacuación del público en caso de emergencia.
 
 ###### Artículo 2.
 
@@ -1153,6 +1193,8 @@ En caso de animales muertos abandonados el Instituto de Salud del Estado de Méx
 
 Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
+#### SECCION TERCERA. De las sanciones
+
 ###### Artículo 2.
 
 39.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
@@ -1164,8 +1206,6 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 ###### Artículo 2.
 
 41.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
-
-#### SECCION TERCERA. De las sanciones
 
 ###### Artículo 2.
 
@@ -1186,6 +1226,8 @@ Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 ###### Artículo 2.
 
 45.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
+
+#### SECCION PRIMERA. Del Sistema Estatal de Información Ambiental, Registro Estatal Ambiental y Centro Geomático
 
 ###### Artículo 2.
 
@@ -1224,8 +1266,6 @@ La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio 
 48.- El Instituto de Salud del Estado de México, independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
 
 La recolección de muestras de productos y superficies se efectuará con sujeción a las disposiciones aplicables de la Ley General de Salud y de las normas oficiales de la materia.
-
-#### SECCION PRIMERA. Del Sistema Estatal de Información Ambiental, Registro Estatal Ambiental y Centro Geomático
 
 ###### Artículo 2.
 
@@ -10824,3 +10864,11 @@ G.G. 15 DE AGOSTO DE 2008.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de sesenta días naturales para llevar a cabo las modificaciones al Reglamento de Salud del Estado de México, y demás disposiciones que deban adecuarse en virtud del presente decreto.
