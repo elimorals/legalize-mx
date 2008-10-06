@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-de-promocion-turistica-de-30947"
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-05-16"
-last_updated: "2003-05-16"
+last_updated: "2008-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-12-05"
 
 ESTATUTO ORGANICO DEL CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL ESTATUTO ORGANICO DEL CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V., PUBLICADO EN EL D.O.F. DE 6 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de mayo de 2003.
 
@@ -2162,3 +2164,17 @@ SEGUNDO. El Consejo de Promoción Turística de México, S.A. de C.V. deberá ex
 TERCERO. Se abroga el Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V. de fecha de 9 de junio de 2000, publicado en el Diario Oficial de la Federación del 19 de junio de 2000, y se ratifican los poderes que se hayan otorgado durante la vigencia del mismo.
 
 México, D.F., a 5 de diciembre de 2002.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 6 DE OCTUBRE DE 2008.
+
+PRIMERO.- El Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V. que se aprueba, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones a la estructura orgánica que, en su caso, deriven de la entrada en vigor del Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V. deberán ser realizadas mediante movimientos compensados, sin afectar el presupuesto regularizable de servicios personales.
+
+TERCERO.- En relación con los artículos 32, fracción XVIII, 34, último párrafo y 39 fracción XV del presente Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V.; deberán actualizarse los instrumentos normativos necesarios para la operación y funcionamiento de la Entidad, para lo cual las distintas áreas que componen su estructura organizacional, dentro del ámbito de sus atribuciones, iniciarán los trabajos conducentes al caso. Los instrumentos normativos vigentes seguirán aplicándose, en tanto no contravengan las disposiciones del presente estatuto orgánico.
+
+CUARTO.- El plazo de ocho años señalado en el segundo párrafo del artículo 47 relacionado con el personal adscrito a las Direcciones Regionales, incluyendo el de las Direcciones en el Exterior, comenzará a correr una vez que entre en vigor el presente Estatuto, quedando sin efectos el tiempo que previamente haya permanecido en el extranjero dicho personal al amparo del anterior Estatuto.
+
+QUINTO.- Se abroga el Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., publicado en el Diario Oficial de la Federación del 16 de mayo de 2003, y se ratifican los poderes que se hayan otorgado durante la vigencia del mismo.
