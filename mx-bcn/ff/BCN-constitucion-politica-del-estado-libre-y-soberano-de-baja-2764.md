@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2008-09-26"
+last_updated: "2008-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1085,9 +1085,9 @@ Contará con un Consejo de la Judicatura, el cual ejercerá funciones de vigilan
 
 La representación del Poder Judicial estará a cargo del Presidente del Tribunal Superior de Justicia del Estado, el cual se elegirá y desempeñará sus funciones de acuerdo a lo que señale la Ley.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2008)</small>
 
-El Presidente del Tribunal Superior de Justicia, asistirá al Congreso, el segundo jueves del mes de octubre, para rendir en sesión solemne un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
+El Presidente del Tribunal Superior de Justicia, el segundo jueves del mes de octubre, remitirá al Congreso del Estado un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2998,6 +2998,14 @@ CUARTO.- Se establece el plazo de 45 días, a efecto de que el Congreso del Esta
 QUINTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE SEPTIEMBRE DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan en lo conducente, todas las disposiciones que se opongan a la presente reforma.
+
+TERCERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
+
+P.O. 7 DE OCTUBRE DE 2008.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
