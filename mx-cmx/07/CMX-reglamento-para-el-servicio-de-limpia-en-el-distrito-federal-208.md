@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-servicio-de-limpia-en-el-distrito-federal-20
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-08-14"
-last_updated: "2003-04-22"
+last_updated: "2008-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=208&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1989-07-06"
 
 REGLAMENTO PARA EL SERVICIO DE LIMPIA EN EL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 22 DE ABRIL DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, PERMANECIENDO VIGENTE EN TODO LO QUE NO SE OPONGA A LA MENCIONADA LEY Y EN TANTO EL GOBIERNO DEL DISTRITO FEDERAL EXPIDE EL REGLAMENTO CORRESPONDIENTE DE LA MISMA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DEL 7 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 14 de agosto de 1989.
 
@@ -393,3 +393,21 @@ SÉPTIMO.- El Jefe de Gobierno expedirá el reglamento de la presente Ley dentro
 OCTAVO.- La Secretaría, la Secretaría de Obras y Servicios y las Delegaciones deberán formular los programas que esta Ley establece dentro de los 180 días naturales posteriores a la entrada en vigor del presente decreto.
 
 NOVENO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 7 DE OCTUBRE DE 2008.
+
+Primero.- El presente Reglamento entrará en vigor el 2 de enero de 2009.
+
+Segundo.- Se abroga el Reglamento para el Servicio Público de Limpia en el Distrito Federal, publicado en el Diario Oficial de la Federación el 27 de julio de 1989.
+
+Tercero.- Las empresas de recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de residuos sólidos que presten sus servicios en el Distrito Federal, tendrán un plazo de ciento ochenta días hábiles para su registro ante la Secretaría de Obras y Servicios, contados a partir de la publicación en la Gaceta Oficial del Distrito Federal de los requisitos y formatos para su regularización y registro.
+
+Cuarto.- Las papeleras o contenedores que a la fecha de publicación del presente Reglamento sean de colores diferentes a lo señalado en los artículos 41 y 46 de este Reglamento, se distinguirán colocando la leyenda de "Residuos Orgánicos" o "Residuos Inorgánicos" según corresponda.
+
+Quinto.- El Programa para la Prestación del Servicio Público de Limpia de competencia de la Secretaría de Obras y el Programa para la Prestación del Servicio Público de Limpia de las Delegaciones, serán elaborados dentro de los ciento ochenta días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+Sexto.- Con el objeto de llevar acabo las acciones y programas gubernamentales que se derivan del cumplimiento del presente Reglamento, la Secretaría de Finanzas y la Oficialía Mayor, de acuerdo con el marco jurídico aplicable y los recursos presupuestales disponibles, determinarán las medidas, estrategias y modificaciones administrativas y financieras requeridas para tal efecto.
+
+Las Dependencias, Entidades y Delegaciones responsables de aplicar la Ley y el presente Reglamento, deberán ajustar sus acciones y programas a la infraestructura y recursos disponibles a la entrada en vigor del presente Reglamento, procurando obtener en el corto y mediano plazos las metas y objetivos planteados en el Programa General de Desarrollo 2007-20012 (sic), el Programa de Gestión Integral de los Residuos Sólidos y el Programa de Acción Climática de la Ciudad de México 2008-2012.
+
+Séptimo.- Hasta en tanto la Secretaría del Medio Ambiente cuente con la infraestructura y los recursos necesarios para hacer efectivo el arresto previsto en el artículo 101, fracción I, inciso g), del presente Reglamento, la ejecución de esta sanción se realizará en el Centro de Sanciones Administrativas y de Integración Social adscrito a la Subsecretaría del Sistema Penitenciario del Distrito Federal.
