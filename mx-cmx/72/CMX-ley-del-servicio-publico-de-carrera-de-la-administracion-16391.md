@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-servicio-publico-de-carrera-de-la-administracion-16391"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-13"
-last_updated: "2006-06-09"
+last_updated: "2008-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16391&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-06-05"
 
 LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEXTO TRANSITORIOS DE LA LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DEL 8 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DEL 1 DE ENERO DE 2011.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 13 de junio de 2000.
 
@@ -845,3 +847,19 @@ G.O. 9 DE JUNIO DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 8 DE OCTUBRE DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor el 1 de enero del 2011. Las disposiciones contenidas en los títulos tercero, cuarto, quinto y sexto, entrarán en vigor el 1 de julio del 2011.
+
+SEGUNDO. El Consejo Directivo del Sistema Integral del Servicio Público de Carrera de la Administración Pública del Distrito Federal, deberá quedar instalado a más tardar 90 días después de la entrada en vigor de la presente Ley. Los Comités Técnicos de las Dependencias, Unidades Administrativas u Órganos Desconcentrados, deberán quedar instalados a más tardar 60 días después de instalado el Consejo. En la instalación, no será necesario que los servidores que integren los Comités sean de carrera, aunque sí deberán tener los puestos y funciones que se señalan en el artículo 23 de esta Ley.
+
+TERCERO.- El Catálogo y Tabulador a que aluden las fracciones II y III del artículo 10 de esta Ley deberán presentarse para su opinión al Consejo Directivo a más tardar 90 días después de instalado el Consejo.
+
+CUARTO.- Los Servidores Públicos que al 1 de julio de 2011 se encuentren desempeñando algunos de los puestos a que aluden el artículo 5 de este (sic) Ley podrán cumplir con lo dispuesto en las fracciones I y II del artículo 37 y, una vez satisfecho ese requisito, se les expedirá el nombramiento respectivo en términos de lo dispuesto por los artículos 45 y 46, párrafos primero y tercero. En estos casos no se exigirá lo requerido por el artículo 32, fracción IV, de esta Ley.
+
+QUINTO.- Las vacantes que se den a partir del 1 de julio del año 2011 invariablemente se sujetarán a los procedimientos de ingreso y promoción establecidos en la misma.
+
+SEXTO.- Se abroga la Ley del Servicio Público de Carrera de la Administración Pública del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal de fecha 13 de junio de 2000, y se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
