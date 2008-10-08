@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-para-los-no-fumadores-del-estado-de-nuevo-420
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-14"
-last_updated: "2005-08-29"
+last_updated: "2008-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 29 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 8 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 14 de diciembre de 2004.
 
@@ -53,9 +53,17 @@ II. Promover la cultura de espacios libres del humo del tabaco, con el objeto de
 
 III. Prevenir, concienciar (sic) y difundir los daños en la salud que ocasiona el uso desmedido del tabaco, a través de las campañas que al efecto la Secretaría realice en la población, principalmente entre los niños, adolescentes jóvenes y mujeres embarazadas;
 
-IV. Determinar atribuciones de las autoridades estatales y municipales para vigilar el cumplimiento de normas, leyes y reglamentos relacionados con el consumo del tabaco; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
 
-V. Establecer las sanciones para los que incumplan lo previsto en esta Ley.
+IV. Establecer programas y tratamientos permanentes de apoyo a los fumadores que lo soliciten, a fin de evitar fumar;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
+
+V. Determinar atribuciones de las autoridades estatales y municipales para vigilar el cumplimiento de normas, leyes y reglamentos relacionados con el consumo del tabaco; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2008)</small>
+
+VI. Establecer las sanciones para los que incumplan lo previsto en esta Ley.
 
 ###### Artículo 2.
 
@@ -83,11 +91,13 @@ I. Dueño: el propietario, la persona física o moral a nombre de quien se encue
 
 II. Escuelas: los recintos de enseñanza indígena, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
 
-III. Establecimiento. Área interior, o bien la porción bajo el control de algún patrón en el que sus empleados presten servicios, incluyendo las ubicadas al exterior o porciones relativas de las mismas, entre los cuales se incluye de manera enunciativa más no limitativa, los locales; oficinas o negocios; asociaciones de beneficencia; instituciones educativas y espacios escolares; bancos; instituciones financieras; cafeterías; restaurantes; negocios de venta de comida; recepción; lobby; gimnasios; fábricas, baños, pasillos, escaleras interiores, bibliotecas, salas de juntas o conferencias; cuartos o áreas con equipo de fotocopiado; vehículos de la compañía; lugares recreativos de boliche y/o billar; cines, teatros, museos, auditorios; hospitales; tiendas de autoservicio, de convivencia, comerciales o de servicio; escuelas; hoteles, moteles y posadas;
+III. Espacio 100% libre de humo de tabaco: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público o transporte privado de servicio de personal o escolar, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
 
-IV. Reincidencia: cuando el infractor cometa violaciones a las disposiciones de esta Ley, dos o más veces, dentro del período de dos años, contando a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
+
+IV. Reincidencia: cuando el infractor incumpla las disposiciones de esta Ley, dos o más veces, dentro del período de un año, contando a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
 
@@ -97,41 +107,27 @@ VI. Secretaría: la Secretaría de Salud.
 
 ### CAPÍTULO II. DE LOS ESPACIOS DONDE SE PROHIBE FUMAR
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 5.
 
-Se prohibe fumar en:
+Se prohíbe consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco en términos de la presente Ley, colocando en las puertas de acceso, interiores y exteriores de dichas instalaciones los letreros, logotipos y emblemas que establezca la Secretaría.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
-
-I. Los edificios públicos de los Poderes Ejecutivo, Legislativo, Judicial, municipales, órganos autónomos, organismos de sector paraestatal o paramunicipal y, en general, los demás que sean destinados para la prestación de servicios al público;
-
-II. Las áreas cerradas de las bibliotecas y hemerotecas públicas;
-
-III. Las áreas cerradas de los cines, teatros, museos y auditorios a los que tenga acceso el público en general;
-
-IV. Los hospitales, guarderías y asilos o casas de reposo, de los sectores público y privado;
-
-V. Las áreas cerradas de tiendas de autoservicio y de conveniencia, comerciales o de servicios en los que se proporcione atención directa al público;
-
-VI. Las escuelas de educación, inicial, básica, indígena, para adultos, especial, media y media superior, así como en las áreas cerradas de aquellas donde se imparta educación superior;
-
-VII. Los vehículos del servicio de transporte público;
-
-VIII. Los vehículos de transporte escolar;
-
-IX. Los elevadores de edificios públicos o particulares destinados al uso del público en general;
-
-X. Las secciones de no fumar de los establecimientos; y
-
-XI. Cualquier otro establecimiento, distinto de los señalados en las fracciones anteriores, al que tenga acceso el público en general y no cuente con secciones de fumadores y de no fumadores.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 6.
 
-Se permitirá a las personas el consumo de tabaco, en cualquiera de sus formas, en los establecimientos señalados en las fracciones III, V y XI del artículo anterior, siempre y cuando se acondicionen secciones para fumar.
+Se permitirá a las personas el fumar, consumir o encender cualquier producto de tabaco en lugares con acceso al público, o áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, solo si cuenta con zonas exclusivamente para fumar, las cuales deberán de atender a los (sic) dispuesto por esta Ley y las demás Leyes y Reglamentos aplicables en la materia y reunir los siguientes requisitos:
+
+I.- Ubicarse al aire libre, o
+
+II.- En espacios interiores aislados que dispongan de mecanismos que eviten el traslado de partículas hacia los espacios 100% libres de humo de tabaco; y que, en ambos casos no sean paso obligado para los no fumadores a los espacios 100% libres de humo de tabaco.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 7.
 
-Las secciones para fumar y para no fumadores deberán contar con comodidades similares, debiéndose colocar letreros, logotipos o emblemas visibles al público que indiquen que clase de sección es cada una.
+Las zonas exclusivas para fumar a que se refiere el artículo anterior deberán de observar lo dispuesto por esta Ley, la Ley General para el Control del Tabaco y su Reglamento, y las demás leyes y Reglamentos aplicables en la materia.
 
 Las secciones para fumar deberán contar además con la debida ventilación y se procurará que sean independientes de las secciones para no fumadores a fin de evitar que se contamine el aire de estos últimos, o en su defecto, contarán con extractores o purificadores que garanticen la calidad del aire de los espacios para no fumadores, mediante las adecuaciones arquitectónicas y de diseño que se requieran para tal efecto.
 
@@ -149,11 +145,11 @@ Cuando los dueños o empleados de los establecimientos, adviertan que una person
 
 Los dueños de los vehículos de transporte público o escolar, deberán, fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar, de acuerdo a las características y requisitos que determine la Secretaría en coordinación con la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 10.
 
-Cuando el dueño o conductor de un vehículo de transporte público o escolar advierta que una persona esté fumando en el interior del mismo, lo conminará a dejar de hacerlo. De no atender la exhortación, lo invitará a bajar y si se niega, solicitará el auxilio de la fuerza pública municipal a fin de que el infractor sea retirado del vehículo. En el caso de transporte escolar, la autoridad municipal que tome conocimiento de los hechos deberá informar a la Secretaría de Educación y a la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, para que se tomen las medidas que correspondan.
+Cuando el dueño o conductor de un vehículo de transporte público o transporte privado de personal o escolar, advierta que una persona esté fumando en el interior del mismo, lo conminará a dejar de hacerlo. De no atender la exhortación, lo invitará a bajar y si se niega, solicitará el auxilio de la fuerza pública municipal a fin de que el infractor sea retirado del vehículo. En el caso de transporte privado escolar, la autoridad municipal que tome conocimiento de los hechos deberá informar a la Secretaría de Educación y a la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, para que se tomen las medidas que correspondan.
 
 ### CAPÍTULO III. DE LA DIVULGACIÓN Y CONCIENCIACIÓN DE LOS EFECTOS NOCIVOS DEL TABACO
 
@@ -191,15 +187,21 @@ La vigilancia de esta Ley les corresponde a las autoridades señaladas en el Art
 
 Serán coadyuvantes de las mismas, los dueños y empleados de los establecimientos señalados en esta Ley; así como los dueños y conductores de los vehículos del transporte público o escolar.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2008)</small>
+
+Asimismo serán coadyuvantes los órganos de control interno para el caso de los Poderes Ejecutivo, Legislativo, Judicial, así como para el caso de los Municipios además de los órganos autónomos, organismos paraestatales o paramunicipal.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 17.
 
-Los ciudadanos y las asociaciones de padres de familia de las escuelas deberán coadyuvar en las acciones de vigilancia para garantizar que se cumplan con la prohibición de fumar en los lugares establecidos por esta Ley, en coordinación y de acuerdo con lo señalado en los programas de prevención permanentes llevados a cabo por la Secretaría y las autoridades educativas.
+Los maestros, personal administrativo y de intendencia de las instituciones educativas así como los alumnos e integrantes de las asociaciones y sociedades de padres de familia y cooperativas de cualquier tipo, deberán coadyuvar en las acciones de vigilancia para garantizar que se cumplan con la prohibición de fumar en los lugares establecidos por esta Ley, en coordinación y de acuerdo con lo señalado en los programas de prevención permanentes llevados a cabo por la Secretaría y las autoridades educativas.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 18.
 
-Cualquier ciudadano que detecte que alguna persona, física o moral, está actuando de manera contraria a lo que dispone este ordenamiento, deberá dar aviso a la brevedad a cualquiera de las autoridades a que se refiere el Artículo 2 de esta Ley para los efectos conducentes.
+Cualquier persona que detecte que alguna persona, física o moral, está actuando de manera contraria a lo que dispone este ordenamiento, deberá dar aviso a la brevedad a cualquiera de las autoridades a que se refiere el Artículo 2 de esta Ley para los efectos conducentes.
 
 ###### Artículo 19.
 
@@ -295,69 +297,33 @@ Las violaciones a los preceptos de esta Ley, serán sancionadas administrativame
 
 Las sanciones administrativas podrán consistir en:
 
-I. Multa; o
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
 
-II. Clausura temporal del establecimiento.
+I. Amonestación con apercibimiento;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
+
+II. Multa;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2008)</small>
+
+III. Clausura temporal o definitiva del establecimiento, que podrá ser parcial o total; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2008)</small>
+
+IV. Arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 36.
 
-Se sancionarán las infracciones a lo dispuesto por la presente Ley en los siguientes términos:
+Se sancionarán las infracciones a lo dispuesto por la presente ley en los siguientes términos:
 
-I. Con multa de 10 a 20 cuotas, a quien fume:
+I. Con multa de hasta cien veces el salario mínimo general en la zona económica de que se trate cuando la infracción se realice al artículo 5 de esta ley.
 
-a) En las áreas cerradas de las bibliotecas y hemerotecas públicas;
+II. Con multa de mil hasta cuatro mil veces el salario mínimo general en la zona económica de que se trate cuando la infracción se realice al artículo 6 de esta ley.
 
-b) En las áreas cerradas de los cines, teatros, museos y auditorios a los que tenga acceso el público en general, excepto cuando lo haga en las secciones acondicionadas para fumadores;
-
-c) En los centros de salud, hospitales, clínicas, asilos o casas de reposo, guarderías e instituciones médicas, de los sectores público y privado;
-
-d) En las áreas cerradas de tiendas de autoservicio y de conveniencia, comerciales o de servicios en los que se proporcione atención directa al público, excepto cuando lo haga en las secciones acondicionadas para fumadores;
-
-e) En las escuelas de educación inicial, preescolar, primaria, secundaria, indígena, especial, media y media superior, así como en las áreas cerradas de las escuelas de educación superior;
-
-f) En los vehículos de transporte público de pasajeros o escolar;
-
-g) En los elevadores de edificios públicos o particulares destinados al uso del público en general;
-
-h) En cualquier otra área cerrada, distinta a las señaladas en las fracciones I a XI del Artículo 5 de la presente Ley, a las que tenga acceso el público en general y no cuenten con secciones de fumar y de no fumar; o
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
-
-i). En los edificios públicos de los Poderes Ejecutivos, Legislativo, Judicial, municipales, órganos autónomos, organismos del sector paraestatal o paramunicipal y en general, de las administraciones públicas.
-
-II. Con multa de 30 a 50 cuotas, a los dueños, empleados o conductores, que permitan fumar:
-
-a) En los hospitales, clínicas, asilos o casas de reposo y guarderías de los sectores público y privado;
-
-b) En las escuelas de educación inicial, preescolar, primaria, secundaria, indígena, especial, media y media superior, así como en las áreas cerradas de las escuelas de educación superior;
-
-c) En los vehículos de transporte público o escolar; o
-
-d) En los establecimientos o secciones en que se encuentre prohibido fumar;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
-
-III. Con multa de 30 a 50 cuotas, al dueño que incumpla con la obligación de:
-
-a) Acondicionar las secciones de no fumar con la debida ventilación mediante las adecuaciones arquitectónicas y de diseño que se requieran implementar, en el caso de que haya delimitado secciones de no fumar en su establecimiento; o
-
-b) Colocar letreros, logotipos o emblemas visibles al público que indiquen la prohibición de fumar;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2005)</small>
-
-IV. Con multa de 30 a 100 cuotas, a la persona:
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
-
-a) Que interfiera o se oponga al desahogo de la vista de inspección o verificación;
-
-b) Que obstaculice la imposición del estado de clausura temporal del establecimiento que hubiera decretado la autoridad competente;
-
-c) Que, en rebeldía, fume en los establecimientos, secciones o vehículos a que se refiere esta Ley y que hubiera sido necesaria la presencia de la fuerza pública; o
-
-d) Que con conocimiento del estado de clausura temporal del establecimiento haga caso omiso de la misma y proporcione el servicio al público, en contravención a lo ordenado en la resolución administrativa respectiva.
-
-En las infracciones previstas en este Artículo, en caso de reincidencia, se duplicará el monto de la multa que haya sido impuesta para el caso de la primera infracción, sin perjuicio de la orden de clausura temporal de los establecimientos, según sea el caso, para subsanar la irregularidad detectada.
+El monto recaudado producto de las multas será destinado al Programa contra el Tabaquismo y otros programas de salud prioritarios.
 
 ###### Artículo 37.
 
@@ -440,3 +406,11 @@ Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al d
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 Artículo Tercero.- La Secretaría en coordinación con la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León deberá de expedir en el término de 90 días hábiles, contados a partir del inicio de la vigencia de esta Ley, el documento en el que se establezcan las características y requisitos a que se refiere el artículo 9 de este ordenamiento.
+
+P.O. 8 DE OCTUBRE DE 2008.
+
+Primero.- Envíese al Ejecutivo para su publicación y para los efectos legales a que haya lugar.
+
+Segundo.-Se establece un plazo de 90 días después de la publicación, para que los propietarios, administradores o responsables de los establecimientos que pretendan contar con zonas exclusivas para fumar, a efecto de llevar acabo (sic) las modificaciones o adecuaciones necesarias en dichas zonas.
+
+Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
