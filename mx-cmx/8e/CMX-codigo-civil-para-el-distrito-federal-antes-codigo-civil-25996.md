@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2008-10-03"
+last_updated: "2008-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE OCTUBRE DE 2008.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -43,11 +43,13 @@ Disposiciones preliminares
 
 Las disposiciones de este Código regirán en el Distrito Federal.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 2°.
 
-La capacidad jurídica es igual para el hombre y la mujer. A ninguna persona por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, carácter físico, discapacidad o estado de salud, se le podrá negar un servicio o prestación a la que tenga derecho, ni restringir el ejercicio de sus derechos cualquiera que sea la naturaleza de estos.
+La capacidad jurídica es igual para el hombre y la mujer. A ninguna persona por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, identidad de género, expresión de rol de género, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, carácter físico, discapacidad o estado de salud, se le podrán negar un servicio o prestación a la que tenga derecho, ni restringir el ejercicio de sus derechos cualquiera que sea la naturaleza de éstos.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -191,7 +193,9 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2008)</small>
 
 ### CAPITULO II. De las actas de nacimiento
 
@@ -307,7 +311,7 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-En el Distrito Federal, estará a cargo de los Jueces del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y muerte de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
+En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo, y muerte de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -731,9 +735,13 @@ Este escrito deberá ser firmado por los solicitantes, y asimismo contener su hu
 
 Para el caso de matrimonios fuera de las oficinas del Registro Civil deberá observarse lo establecido en el Reglamento del Registro Civil.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 98.
 
-Al escrito a que se refiere el artículo anterior, se acompañará:
+Al escrito al que se refiere el artículo anterior, se acompañará:
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -755,7 +763,17 @@ Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capit
 
 VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente.
 
-VII.- Copia de la dispensa de impedimentos, si los hubo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para la concordancia sexo-genérica, establecido en el Capítulo IV Bis del Título Séptimo del Código de Procedimientos Civiles para el Distrito Federal, misma que tendrá el carácter de reservada; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+VIII. Copia de la dispensa de impedimentos, si los hubo.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -819,9 +837,9 @@ En el acta se imprimirán las huellas digitales de los contrayentes.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-###### ARTICULO 103
+###### ARTICULO 103 Bis.
 
-Bis.- La celebración conjunta de matrimonios no exime al Juez del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
+La celebración conjunta de matrimonios no exime al Juez del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -1034,6 +1052,22 @@ I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial que afecte el estado civil, la filiación, la nacionalidad, el sexo y la identidad de la persona.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 135 Bis.
+
+Pueden pedir el levantamiento de una nueva acta de nacimiento por reasignación de concordancia sexo-genérica, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+
+Se entenderá por identidad de género la convicción personal de pertenecer al género masculino o femenino, es inmodificable, involuntaria y puede ser distinta al sexo original.
+
+La reasignación para la concordancia sexo-genérica es el proceso de intervención profesional mediante el cual la persona obtiene concordancia entre los aspectos corporales y su identidad de género, que puede incluir, parcial o totalmente: entrenamiento de expresión de rol de género, administración de hormonas, psicoterapia de apoyo o las intervenciones quirúrgicas que haya requerido en su proceso; y que tendrá como consecuencia, mediante resolución judicial, una identidad jurídica de hombre o mujer, según corresponda.
+
+Se entenderá por expresión de rol de género, el conjunto de manifestaciones relacionadas con la vestimenta, la expresión corporal o verbal y el comportamiento.
+
+Los derechos y obligaciones contraídas con anterioridad a la reasignación para la concordancia sexo-genérica no se modifican ni extinguen con la nueva identidad jurídica de la persona.
 
 ###### ARTICULO 136.
 
@@ -8169,22 +8203,6 @@ ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no
 
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-###### ARTICULO 1549
-
-Bis.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
-
-I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
-
-II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
-
-III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;
-
-IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
-
-V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y
-
-VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 876-Bis del Código de Procedimientos Civiles para el Distrito Federal.
-
 ### CAPITULO IV. Del testamento ológrafo
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
@@ -8304,6 +8322,22 @@ ARTICULO 1,581.- Los testamentos otorgados por escrito, conforme a este Capítul
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ARTICULO 1,582.- Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto al Secretario de la Defensa Nacional, y éste a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos del 1571 al 1578.
+
+###### ARTICULO 1549 Bis.
+
+Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+
+II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
+
+III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;
+
+IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y
+
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 876-Bis del Código de Procedimientos Civiles para el Distrito Federal.
 
 ### CAPITULO VII. Del testamento marítimo
 
@@ -14024,3 +14058,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto y, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
+
+G.O. 10 DE OCTUBRE DE 2008.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Los juicios actualmente en trámite que tengan por objeto la rectificación o modificación de las actas el (sic) estado civil de las personas continuarán tramitándose en la vía en que hayan sido admitidos.
+
+Cuarto.- A partir de la publicación del presente Decreto, el Jefe del Gobierno de Distrito Federal deberá realizar las adecuaciones jurídicas administrativas necesarias, en un plazo de sesenta días naturales.
