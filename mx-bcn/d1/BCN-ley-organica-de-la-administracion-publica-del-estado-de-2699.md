@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2008-06-27"
+last_updated: "2008-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -339,9 +339,13 @@ XXX.- Intervenir en el asesoramiento jurídico de los trámites de expropiación
 
 XXXI.- Dirigir, organizar, administrar y evaluar la defensoría de Oficio, garantizando su accesibilidad a los gobernados;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2008)</small>
+
+XXXII.- Participar y coordinar a través del área que determine, las acciones relacionadas con los asuntos fronterizos y vigilar o coadyuvar a su ejecución y seguimiento por parte de las demás dependencias y entidades competentes; así como promover la celebración de los convenios necesarios con las autoridades federales competentes para atender esta materia; y
+
 > <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
 
-XXXII.- Las demás que determinen expresamente las Leyes y Reglamentos.
+XXXIII.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO III
 
@@ -1750,3 +1754,11 @@ SÉPTIMO.- El Titular del Ejecutivo, dentro de los noventa días siguientes a la
 P.O. 27 DE JUNIO DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE OCTUBRE DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico oficial del Estado.
+
+SEGUNDO.- EL (SIC) Ejecutivo del Estado deberá realizar las adecuaciones normativas necesarias para el cumplimiento de los alcances del presente Decreto a más tardar dentro de los 180 días siguientes de su publicación.
+
+TERCERO.- El Congreso del Estado autorizará las previsiones presupuestales necesarias para dar cumplimiento al presente Decreto.
