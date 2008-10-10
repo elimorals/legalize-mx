@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2008-10-03"
+last_updated: "2008-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE OCTUBRE DE 2008.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -4048,97 +4048,117 @@ ARTICULO 497
 
 Contra la Sentencia que se dicte procede la apelación en ambos efectos.
 
-ARTICULO 498 (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 499 (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+### CAPITULO IV BIS. Del juicio especial de levantamiento de acta por reasignación para la concordancia sexo-genérica
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498
+
+La demanda donde se solicite el levantamiento de una nueva acta de nacimiento por reasignación de concordancia sexo-genérica, previa anotación correspondiente al acta de nacimiento primigenia, deberá cumplir con los requisitos establecidos en los artículos 95 y 255 del presente Código y presentarse ante el Juez de lo Familiar en turno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS
+
+Además de lo señalado en el artículo anterior, se deberá cumplir con los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Mayor de edad o actuar a través de quien ejerza sobre la persona la patria potestad o tutela;
+
+III. Anexar a la demanda el dictamen que determine que es una persona que se encuentra sujeta al proceso de reasignación para la concordancia sexo-genérica con un mínimo de cinco meses, expedido por dos profesionistas o peritos que cuenten con experiencia clínica en materia de procesos de reasignación para la concordancia sexo-genérica, uno de ellos deberá ser el profesionista a cargo del tratamiento del solicitante.
+
+Así como manifestar lo siguiente:
+
+I. El nombre completo y sexo original de la persona promovente, con los datos registrales correspondientes;
+
+II. El nombre sin apellidos y, en su caso, el sexo solicitado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 1
+
+Presentada y admitida la demanda por el Juez de lo Familiar se dará vista al Registro Civil del Distrito Federal y a la Procuraduría de Justicia del Distrito Federal, a través del Ministerio Público adscrito al juzgado; para que dentro del término de cinco días hábiles manifiesten lo que a su derecho convenga.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 2
+
+En el auto de admisión de la demanda se señalará fecha y hora para la audiencia de pruebas y alegatos, que se llevará a cabo dentro de los quince días hábiles siguientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 3
+
+Además de los otros medios de prueba, el promovente deberá comparecer a la audiencia con los peritos que hayan emitido los dictámenes en que se funde la demanda. En caso de ausencia de los peritos, se tendrá por desierta la probanza.
+
+En dicha audiencia, el Juez podrá cuestionar a los peritos sobre el contenido de los dictámenes emitidos y podrá ordenar la práctica y el desahogo de los dictámenes periciales que considere necesarios, únicamente y exclusivamente para determinar la procedencia de la acción; en cuyo caso se podrá suspender la audiencia hasta por diez días hábiles. También podrá interrogar a los testigos, si se hubieren ofrecido y presentado, para los mismos efectos que los peritos.
+
+Cuando el Registro Civil haya manifestado oposición a la solicitud del promovente, deberá ofrecer las pruebas que considere necesarias para acreditar su dicho cuando se le dé vista con la demanda y comparecerá a la audiencia para su desahogo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 4
+
+Una vez desahogadas todas las pruebas, se dará la palabra al promovente y al Agente del Ministerio Público adscrito para que formulen sus alegatos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 5
+
+Al concluir la audiencia el Juez citará para oír sentencia dentro del término de diez días hábiles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 6
+
+El promovente así como el Agente del Ministerio Público podrán apelar la sentencia, recurso que se admitirá en ambos efectos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 7
+
+El Juez ordenará de oficio, dentro del término de cinco días hábiles posteriores a que cause ejecutoria la sentencia favorable, que se realice a favor de la persona la anotación correspondiente al acta de nacimiento primigenia y el levantamiento de una nueva acta de nacimiento por reasignación de concordancia sexo-genérica.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+El Juez del Registro Civil remitirá oficio a la Oficina Central y al lugar donde se encuentra la base de datos; así como enviará dicha información, en calidad de reservada, a la Secretaría de Gobernación, Secretaría de Relaciones Exteriores, Instituto Federal Electoral, Procuraduría General de Justicia del Justicia del Distrito Federal y Procuraduría General de la República, para los efectos legales procedentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 498 BIS 8
+
+Cuando la persona hubiese obtenido el levantamiento de una nueva acta de nacimiento con motivo de reasignación para la concordancia sexo-genérica, y ésta no sea acorde con su identidad de género, procederá su restitución siguiendo el mismo procedimiento previsto en este capítulo.
+
+ARTICULO 499 (DEROGADO, D.O.F. 21 DE JULIO DE 1993) (REUBICADO, G.O. 10 DE OCTUBRE DE 2008)
 
 ### CAPITULO V. De la vía de apremio
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-### CAPITULO VI. De la Cooperación Procesal Internacional
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 604
-
-Los exhortos internacionales que se reciban sólo requerirán de homologación cuando impliquen ejecución coactiva sobre personas, bienes o derechos. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán cuando proceda, sin formar incidente y de acuerdo con las siguientes reglas:
-
-I.- La diligenciación de exhortos o el obsequio de otras solicitudes de mera cooperación procesal internacional se llevará a cabo por los tribunales del Distrito Federal, en los términos y dentro de los límites de este Código y demás leyes aplicables;
-
-II.- Sin perjuicio de lo anterior, el tribunal exhortado podrá conceder simplificación de formalidades o la observancia de formalidades distintas a las nacionales, si esto no resulta lesivo al orden público y especialmente a las garantías individuales;
-
-III.- A solicitud de parte legítima, podrán llevarse a cabo actos de notificación o de emplazamiento, o de recepción de pruebas, para ser utilizados en procesos en el extranjero, en la vía de jurisdicción voluntaria o de diligencias preparatorias previstas en este Código; y
-
-IV.- Los tribunales que remitan al extranjero exhortos internacionales, o que los reciban, los tramitarán por duplicado y conservarán éste para constancia de lo enviado, o de lo recibido y de lo actuado.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 605
-
-Las sentencias y demás resoluciones extranjeras tendrán eficacia y serán reconocidas en la República en todo lo que no sea contrario al orden público interno en los términos de este Código, del Código Federal de Procedimientos Civiles y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de que México sea parte.
-
-Tratándose de sentencias o resoluciones jurisdiccionales que solamente vayan a utilizarse como prueba, será suficiente que las mismas llenen los requisitos necesarios para ser consideradas como documentos públicos auténticos.
-
-Los efectos que las sentencias o laudos arbitrales extranjeros produzcan en el Distrito Federal estarán regidos por el Código Civil, por este Código y el Código Federal de Procedimientos Civiles y demás leyes aplicables.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 606
-
-Las sentencias, laudos y resoluciones dictados en el extranjero podrán tener fuerza de ejecución si se cumplen las siguientes condiciones:
-
-I.- Que se hayan satisfecho las formalidades previstas en el Código Federal de Procedimientos Civiles en materia de exhortos provenientes del extranjero;
-
-II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
-
-III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar del asunto de acuerdo con las reglas reconocidas en la esfera internacional que sean compatibles con las adoptadas por este Código o en el Código Federal de Procedimientos Civiles;
-
-IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
-
-V.- Que tengan el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
-
-VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el tribunal mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
-
-VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
-
-VIII.- Que llenen los requisitos para ser considerados como auténticos.
-
-No obstante el cumplimiento de las anteriores condiciones el Juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias, resoluciones jurisdiccionales o laudos extranjeros en casos análogos.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 607
-
-El exhorto del juez o tribunal requirente deberá acompañarse de la siguiente documentación:
-
-I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
-
-II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V del artículo anterior;
-
-III.- Las traducciones al español que sean necesarias al efecto; y
-
-IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar de la homologación.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 608
-
-El reconocimiento y ejecución de sentencia extranjera se sujetará a las siguientes reglas:
-
-I.- El tribunal competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero, será el del domicilio del ejecutado;
-
-II.- El incidente de homologación de sentencia, laudo o resolución extranjera se abrirá con citación personal al ejecutante y al ejecutado, a quienes se concederá término individual de nueve días hábiles para exponer defensas y para ejercitar los derechos que les correspondieren; y en el caso de que ofrecieren pruebas que fueren pertinentes, se fijará fecha para recibir las que fueren admitidas, cuya preparación correrá exclusivamente a cargo del oferente salvo razón fundada. En todos los casos se dará intervención al Ministerio Público para que ejercite los derechos que le correspondiere.
-
-La resolución que se dicte será apelable en ambos efectos si se denegare la ejecución, y en el efecto devolutivo si se concediere;
-
-III.- Todas las cuestiones relativas a depositaría, avalúo, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por tribunal extranjero serán resueltas por el tribunal de la homologación.
-
-La distribución de los fondos resultantes del remate quedará a disposición del juez sentenciador extranjero;
-
-IV.- Ni el tribunal de primera instancia ni el de apelación podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose sólo a examinar su autenticidad y si deba o no ejecutarse conforme a lo previsto en los artículos anteriores; y
-
-V.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
 
 #### SECCION I. De la ejecución de sentencia
 
@@ -4826,57 +4846,89 @@ El juez que reciba despacho u orden de su superior para ejecutar cualquiera dili
 
 > <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-### CAPITULO I. Procedimiento estando ausente el rebelde
+### CAPITULO VI. De la Cooperación Procesal Internacional
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 637
+ARTICULO 604
 
-En toda clase de juicios, cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma, no se volverá a practicar diligencia alguna en su busca.
+Los exhortos internacionales que se reciban sólo requerirán de homologación cuando impliquen ejecución coactiva sobre personas, bienes o derechos. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán cuando proceda, sin formar incidente y de acuerdo con las siguientes reglas:
 
-Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por el Boletín Judicial, salvo los casos en que otra cosa se prevenga.
+I.- La diligenciación de exhortos o el obsequio de otras solicitudes de mera cooperación procesal internacional se llevará a cabo por los tribunales del Distrito Federal, en los términos y dentro de los límites de este Código y demás leyes aplicables;
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+II.- Sin perjuicio de lo anterior, el tribunal exhortado podrá conceder simplificación de formalidades o la observancia de formalidades distintas a las nacionales, si esto no resulta lesivo al orden público y especialmente a las garantías individuales;
 
-ARTICULO 638
+III.- A solicitud de parte legítima, podrán llevarse a cabo actos de notificación o de emplazamiento, o de recepción de pruebas, para ser utilizados en procesos en el extranjero, en la vía de jurisdicción voluntaria o de diligencias preparatorias previstas en este Código; y
 
-El litigante será declarado rebelde sin necesidad que medie petición de la parte contraria y cuando el que haya sido arraigado quebrante el arraigo sin dejar apoderado instruido.
+IV.- Los tribunales que remitan al extranjero exhortos internacionales, o que los reciban, los tramitarán por duplicado y conservarán éste para constancia de lo enviado, o de lo recibido y de lo actuado.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-ARTICULO 639
+ARTICULO 605
 
-Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, además de notificarse por el Boletín Judicial, se publicarán dos veces, de tres en tres días, en el mismo Boletín o en el periódico local que indique el juez, si se tratare del caso previsto en la fracción II del artículo 122.
+Las sentencias y demás resoluciones extranjeras tendrán eficacia y serán reconocidas en la República en todo lo que no sea contrario al orden público interno en los términos de este Código, del Código Federal de Procedimientos Civiles y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de que México sea parte.
 
-ARTICULO 640
+Tratándose de sentencias o resoluciones jurisdiccionales que solamente vayan a utilizarse como prueba, será suficiente que las mismas llenen los requisitos necesarios para ser consideradas como documentos públicos auténticos.
 
-Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
+Los efectos que las sentencias o laudos arbitrales extranjeros produzcan en el Distrito Federal estarán regidos por el Código Civil, por este Código y el Código Federal de Procedimientos Civiles y demás leyes aplicables.
 
-ARTICULO 641
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el juez un término prudente para que garantice su manejo como depositario.
+ARTICULO 606
 
-Si extinguido ese término no ofreciere garantías suficientes a juicio del juez, se constituirán los muebles en depósito de persona que tenga bienes raíces o afiance su manejo a satisfacción del juez.
+Las sentencias, laudos y resoluciones dictados en el extranjero podrán tener fuerza de ejecución si se cumplen las siguientes condiciones:
 
-ARTICULO 642
+I.- Que se hayan satisfecho las formalidades previstas en el Código Federal de Procedimientos Civiles en materia de exhortos provenientes del extranjero;
 
-El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que se inscriba el secuestro. Una de las copias después de cumplimentado el registro, se unirá a los autos.
+II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
 
-Los inmuebles se pondrán también en depósito de la persona en cuyo poder se encuentren y el juez dará un término prudente para que garantice su manejo, si no fuere el demandado mismo.
+III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar del asunto de acuerdo con las reglas reconocidas en la esfera internacional que sean compatibles con las adoptadas por este Código o en el Código Federal de Procedimientos Civiles;
 
-No haciéndolo, se colocarán bajo depósito según lo disponen los artículos 553 y siguientes, exigiéndose al depositario las mismas garantías que previene el artículo anterior.
+IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
 
-ARTICULO 643
+V.- Que tengan el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
 
-La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
+VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el tribunal mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
 
-ARTICULO 644
+VIII.- Que llenen los requisitos para ser considerados como auténticos.
 
-En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, a no ser que el actor dé una fianza prevenida para el juicio ejecutivo.
+No obstante el cumplimiento de las anteriores condiciones el Juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias, resoluciones jurisdiccionales o laudos extranjeros en casos análogos.
 
-Tratándose de los Juicio a que hace referencia el Titulo Séptimo, Capítulo I de este Código, no será aplicable el presente artículo.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 607
+
+El exhorto del juez o tribunal requirente deberá acompañarse de la siguiente documentación:
+
+I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
+
+II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V del artículo anterior;
+
+III.- Las traducciones al español que sean necesarias al efecto; y
+
+IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar de la homologación.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+ARTICULO 608
+
+El reconocimiento y ejecución de sentencia extranjera se sujetará a las siguientes reglas:
+
+I.- El tribunal competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero, será el del domicilio del ejecutado;
+
+II.- El incidente de homologación de sentencia, laudo o resolución extranjera se abrirá con citación personal al ejecutante y al ejecutado, a quienes se concederá término individual de nueve días hábiles para exponer defensas y para ejercitar los derechos que les correspondieren; y en el caso de que ofrecieren pruebas que fueren pertinentes, se fijará fecha para recibir las que fueren admitidas, cuya preparación correrá exclusivamente a cargo del oferente salvo razón fundada. En todos los casos se dará intervención al Ministerio Público para que ejercite los derechos que le correspondiere.
+
+La resolución que se dicte será apelable en ambos efectos si se denegare la ejecución, y en el efecto devolutivo si se concediere;
+
+III.- Todas las cuestiones relativas a depositaría, avalúo, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por tribunal extranjero serán resueltas por el tribunal de la homologación.
+
+La distribución de los fondos resultantes del remate quedará a disposición del juez sentenciador extranjero;
+
+IV.- Ni el tribunal de primera instancia ni el de apelación podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose sólo a examinar su autenticidad y si deba o no ejecutarse conforme a lo previsto en los artículos anteriores; y
+
+V.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
 
 ## TITULO OCTAVO. Del juicio arbitral
 
@@ -5042,6 +5094,58 @@ El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 ## TITULO NOVENO. De los juicios en rebeldía
 
+### CAPITULO I. Procedimiento estando ausente el rebelde
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+
+ARTICULO 637
+
+En toda clase de juicios, cuando se constituya en rebeldía un litigante, no compareciendo en el juicio después de citado en forma, no se volverá a practicar diligencia alguna en su busca.
+
+Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por el Boletín Judicial, salvo los casos en que otra cosa se prevenga.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
+ARTICULO 638
+
+El litigante será declarado rebelde sin necesidad que medie petición de la parte contraria y cuando el que haya sido arraigado quebrante el arraigo sin dejar apoderado instruido.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+
+ARTICULO 639
+
+Los autos que ordenen que un negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de la sentencia, además de notificarse por el Boletín Judicial, se publicarán dos veces, de tres en tres días, en el mismo Boletín o en el periódico local que indique el juez, si se tratare del caso previsto en la fracción II del artículo 122.
+
+ARTICULO 640
+
+Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
+
+ARTICULO 641
+
+La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el juez un término prudente para que garantice su manejo como depositario.
+
+Si extinguido ese término no ofreciere garantías suficientes a juicio del juez, se constituirán los muebles en depósito de persona que tenga bienes raíces o afiance su manejo a satisfacción del juez.
+
+ARTICULO 642
+
+El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que se inscriba el secuestro. Una de las copias después de cumplimentado el registro, se unirá a los autos.
+
+Los inmuebles se pondrán también en depósito de la persona en cuyo poder se encuentren y el juez dará un término prudente para que garantice su manejo, si no fuere el demandado mismo.
+
+No haciéndolo, se colocarán bajo depósito según lo disponen los artículos 553 y siguientes, exigiéndose al depositario las mismas garantías que previene el artículo anterior.
+
+ARTICULO 643
+
+La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+
+ARTICULO 644
+
+En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, a no ser que el actor dé una fianza prevenida para el juicio ejecutivo.
+
+Tratándose de los Juicio a que hace referencia el Titulo Séptimo, Capítulo I de este Código, no será aplicable el presente artículo.
+
 ### CAPITULO II. Procedimiento estando presente el rebelde
 
 ARTICULO 645
@@ -5077,6 +5181,8 @@ El litigante rebelde a quien haya sido notificado personalmente el emplazamiento
 ARTICULO 651
 
 Se admitirá la apelación extraordinaria que contra la sentencia interpusiere el litigante rebelde conforme al capítulo segundo título décimotercero.
+
+## TITULO DECIMO. De las tercerías
 
 ### CAPITULO UNICO. ARTICULO 652
 
@@ -5202,8 +5308,6 @@ Divorcio por mutuo consentimiento
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-## TITULO DECIMO. De las tercerías
-
 ### CAPITULO UNICO. ARTICULO 674 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
 ARTICULO 675 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
@@ -5225,6 +5329,10 @@ ARTICULO 682 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 TITULO DECIMOSEGUNDO
 
 De los recursos
+
+## TITULO DECIMO SEGUNDO BIS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 27 DE ENERO DE 2004)</small>
 
 ### CAPITULO I. De las revocaciones y apelaciones
 
@@ -5493,10 +5601,6 @@ Las apelaciones de interlocutorias o autos se substanciarán con sólo un escrit
 En estas apelaciones los términos a que se refiere el artículo 704 se reducirán a tres días.
 
 ARTICULO 716 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-## TITULO DECIMO SEGUNDO BIS
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 27 DE ENERO DE 2004)</small>
 
 ### CAPITULO II. De la apelación extraordinaria
 
@@ -6156,90 +6260,6 @@ En la junta prevenida por el artículo 790 podrán los herederos nombrar interve
 
 > <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO IV. Del inventario y avalúo
-
-ARTICULO 816
-
-Dentro de diez días de haber aceptado su cargo el albacea debe proceder a la formación de inventarios y avalúos, dando aviso al juzgado para los efectos del artículo 819 y dentro de los sesenta días de la misma fecha deberá presentarlo.
-
-El inventario y avalúo se practicarán simultáneamente, siempre que no fuere imposible por la naturaleza de los bienes.
-
-> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
-
-ARTICULO 817
-
-El inventario se practicará por el actuario del juzgado o por un notario nombrado por la mayoría de los herederos, cuando ésta la constituyan menores de edad o cuando el Sistema para el Desarrollo Integral de la Familia del Distrito Federal tuvieren interés en la sucesión como herederos o legatarios.
-
-ARTICULO 818
-
-Deben ser citados por correo para la formación del inventario, el cónyuge que sobrevive, los herederos, acreedores y legatarios que se hubieren presentado.
-
-El juez puede concurrir cuando lo estime oportuno.
-
-ARTICULO 819
-
-Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán a mayoría de votos un perito valuador y si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
-
-ARTICULO 820
-
-El escribano o el albacea en su caso procederá en el día señalado, con los que concurran, a hacer la descripción de los bienes con toda claridad y precisión por el orden siguiente: dinero, alhajas, efectos de comercio o industria, semovientes, frutos, muebles, raíces, créditos, documentos y papeles de importancia, bienes ajenos que tenía en su poder el finado en comodato, depósito, prenda o bajo cualquier otro título, expresándose éste.
-
-ARTICULO 821
-
-La diligencia o diligencias de inventario serán firmadas por todos los concurrentes y en ellas se expresará cualquiera inconformidad que se manifestare, designando los bienes sobre cuya inclusión o exclusión recae.
-
-ARTICULO 822
-
-El perito designado valuará todos los bienes inventariados.
-
-ARTICULO 823
-
-Los títulos y acciones que se coticen en la bolsa de comercio podrán valuarse por informes de la misma. No será necesario tasar los bienes cuyos precios consten en instrumento público cuya fecha esté comprendida dentro del año inmediato anterior.
-
-ARTICULO 824
-
-Practicados el inventario y avalúo, serán agregados a los autos y se pondrán de manifiesto en la secretaría por cinco días, para que los interesados puedan examinarlos, citándoseles al efecto por cédula o correo.
-
-ARTICULO 825
-
-Si transcurriese ese término sin haberse hecho oposición, el juez los aprobará sin más trámites. Si se dedujese oposición contra el inventario o avalúo se substanciarán las que se presentaren en forma incidental, con una audiencia común, si fueren varias, a la que concurrirán los interesados y el perito que hubiese practicado la valorización para que con las pruebas rendidas se discuta la cuestión promovida.
-
-Para dar curso a esta oposición, es indispensable expresar concretamente cuál es el valor que se atribuye a cada uno de los bienes y cuáles sean las pruebas que se invocan como base de la objeción al inventario.
-
-ARTICULO 826
-
-Si los que dedujeron oposición no asistieron a la audiencia se les tendrá por desistidos. Si dejaren de presentarse los peritos, perderán el derecho de cobrar honorarios por los trabajos practicados.
-
-En la tramitación de este incidente cada parte es responsable de la asistencia de los peritos que propusiere, de manera que, la audiencia no se suspenderá por la ausencia de todos o de alguno de los propuestos.
-
-ARTICULO 827
-
-Si los reclamantes fueren varios e idénticas sus oposiciones, deberán nombrar representante común en la audiencia conforme lo dispone el artículo 53.
-
-ARTICULO 828
-
-Si las reclamaciones tuvieren por objeto impugnar simultáneamente el inventario y el avalúo respecto de un mismo bien, una misma resolución abarcará las dos oposiciones.
-
-ARTICULO 829
-
-El inventario hecho por el albacea o por heredero aprovecha a todos los interesados, aunque no hayan sido citados, incluso los substitutos y los herederos por intestado.
-
-El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-Aprobado el inventario por el juez o por el consentimiento de todos los interesados, no puede reformarse, sino por error o dolo declarados por sentencia definitiva, pronunciada en juicio ordinario.
-
-ARTICULO 830
-
-Si pasados los términos que señala el artículo 816 el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 1,751 y 1,752 del Código Civil.
-
-La remoción a que se refiere el último precepto será de plano.
-
-ARTICULO 831
-
-Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
-
 #### SECCIÓN I. De los Intestados
 
 (REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
@@ -6405,6 +6425,90 @@ Si en el procedimiento especial hubiere controversia, el juicio se seguirá conf
 ARTICULO 815 SEXTUS
 
 La adjudicación de bienes se hará con la misma formalidad que la ley exige para este acto jurídico.
+
+### CAPITULO IV. Del inventario y avalúo
+
+ARTICULO 816
+
+Dentro de diez días de haber aceptado su cargo el albacea debe proceder a la formación de inventarios y avalúos, dando aviso al juzgado para los efectos del artículo 819 y dentro de los sesenta días de la misma fecha deberá presentarlo.
+
+El inventario y avalúo se practicarán simultáneamente, siempre que no fuere imposible por la naturaleza de los bienes.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+
+ARTICULO 817
+
+El inventario se practicará por el actuario del juzgado o por un notario nombrado por la mayoría de los herederos, cuando ésta la constituyan menores de edad o cuando el Sistema para el Desarrollo Integral de la Familia del Distrito Federal tuvieren interés en la sucesión como herederos o legatarios.
+
+ARTICULO 818
+
+Deben ser citados por correo para la formación del inventario, el cónyuge que sobrevive, los herederos, acreedores y legatarios que se hubieren presentado.
+
+El juez puede concurrir cuando lo estime oportuno.
+
+ARTICULO 819
+
+Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán a mayoría de votos un perito valuador y si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
+
+ARTICULO 820
+
+El escribano o el albacea en su caso procederá en el día señalado, con los que concurran, a hacer la descripción de los bienes con toda claridad y precisión por el orden siguiente: dinero, alhajas, efectos de comercio o industria, semovientes, frutos, muebles, raíces, créditos, documentos y papeles de importancia, bienes ajenos que tenía en su poder el finado en comodato, depósito, prenda o bajo cualquier otro título, expresándose éste.
+
+ARTICULO 821
+
+La diligencia o diligencias de inventario serán firmadas por todos los concurrentes y en ellas se expresará cualquiera inconformidad que se manifestare, designando los bienes sobre cuya inclusión o exclusión recae.
+
+ARTICULO 822
+
+El perito designado valuará todos los bienes inventariados.
+
+ARTICULO 823
+
+Los títulos y acciones que se coticen en la bolsa de comercio podrán valuarse por informes de la misma. No será necesario tasar los bienes cuyos precios consten en instrumento público cuya fecha esté comprendida dentro del año inmediato anterior.
+
+ARTICULO 824
+
+Practicados el inventario y avalúo, serán agregados a los autos y se pondrán de manifiesto en la secretaría por cinco días, para que los interesados puedan examinarlos, citándoseles al efecto por cédula o correo.
+
+ARTICULO 825
+
+Si transcurriese ese término sin haberse hecho oposición, el juez los aprobará sin más trámites. Si se dedujese oposición contra el inventario o avalúo se substanciarán las que se presentaren en forma incidental, con una audiencia común, si fueren varias, a la que concurrirán los interesados y el perito que hubiese practicado la valorización para que con las pruebas rendidas se discuta la cuestión promovida.
+
+Para dar curso a esta oposición, es indispensable expresar concretamente cuál es el valor que se atribuye a cada uno de los bienes y cuáles sean las pruebas que se invocan como base de la objeción al inventario.
+
+ARTICULO 826
+
+Si los que dedujeron oposición no asistieron a la audiencia se les tendrá por desistidos. Si dejaren de presentarse los peritos, perderán el derecho de cobrar honorarios por los trabajos practicados.
+
+En la tramitación de este incidente cada parte es responsable de la asistencia de los peritos que propusiere, de manera que, la audiencia no se suspenderá por la ausencia de todos o de alguno de los propuestos.
+
+ARTICULO 827
+
+Si los reclamantes fueren varios e idénticas sus oposiciones, deberán nombrar representante común en la audiencia conforme lo dispone el artículo 53.
+
+ARTICULO 828
+
+Si las reclamaciones tuvieren por objeto impugnar simultáneamente el inventario y el avalúo respecto de un mismo bien, una misma resolución abarcará las dos oposiciones.
+
+ARTICULO 829
+
+El inventario hecho por el albacea o por heredero aprovecha a todos los interesados, aunque no hayan sido citados, incluso los substitutos y los herederos por intestado.
+
+El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
+Aprobado el inventario por el juez o por el consentimiento de todos los interesados, no puede reformarse, sino por error o dolo declarados por sentencia definitiva, pronunciada en juicio ordinario.
+
+ARTICULO 830
+
+Si pasados los términos que señala el artículo 816 el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 1,751 y 1,752 del Código Civil.
+
+La remoción a que se refiere el último precepto será de plano.
+
+ARTICULO 831
+
+Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
 ### CAPITULO V. De la administración
 
@@ -8479,3 +8583,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto y, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
+
+G.O. 10 DE OCTUBRE DE 2008.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Los juicios actualmente en trámite que tengan por objeto la rectificación o modificación de las actas el (sic) estado civil de las personas continuarán tramitándose en la vía en que hayan sido admitidos.
+
+Cuarto.- A partir de la publicación del presente Decreto, el Jefe del Gobierno de Distrito Federal deberá realizar las adecuaciones jurídicas administrativas necesarias, en un plazo de sesenta días naturales.
