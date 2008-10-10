@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2008-del-pleno-del-consejo-de-la-61405"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-11"
-last_updated: "2008-06-11"
+last_updated: "2008-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61405&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-04"
 
 ACUERDO GENERAL 27/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA CUARTA REGION, CON RESIDENCIA EN XALAPA, VERACRUZ, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE OCTUBRE DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2008.
 
@@ -45,7 +45,9 @@ SEXTO. Derivado del análisis de los informes y reportes estadísticos de los tr
 
 SEPTIMO. A fin de atender la problemática planteada en el considerando que antecede, el Pleno del Consejo de la Judicatura Federal estima conveniente la creación del Centro Auxiliar de la Cuarta Región, en el que se instalarán tribunales de Circuito y juzgados de Distrito, ambos auxiliares, que lo conformarán y tendrán competencia mixta y jurisdicción en toda la República; su objetivo será apoyar en el dictado de resoluciones a los órganos jurisdiccionales Federales en donde existan problemas de cargas de trabajo que propicien congestionamiento en la resolución de los asuntos;
 
-OCTAVO. En consideración a lo anterior, el Pleno del Consejo de la Judicatura Federal determina la creación del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, integrado por dos tribunales colegiados y cinco juzgados de Distrito que apoyarán en la resolución de los asuntos de la competencia de los tribunales de Circuito y juzgados de Distrito en funciones en el territorio de la República Mexicana;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 56/2008 DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
+
+OCTAVO. En consideración a lo anterior, el Pleno del Consejo de la Judicatura Federal determina la creación del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, integrado por dos tribunales colegiados, un tribunal unitario y cinco juzgados de Distrito que apoyarán en la resolución de los asuntos de la competencia de los tribunales de Circuito y juzgados de Distrito en funciones en el territorio de la República Mexicana;
 
 NOVENO. En atención al objetivo específico que tendrán los órganos jurisdiccionales que integran el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, podrán recibir de la Suprema Corte de Justicia de la Nación aquellos asuntos a que se refiere el artículo 11, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación, en relación al Acuerdo General 5/2001 del Tribunal Pleno de la Suprema Corte de Justicia de la Nación publicado en el Diario Oficial de la Federación el veintinueve de junio de dos mil uno;
 
@@ -55,7 +57,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, conformado por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares, el domicilio de los tribunales colegiados Auxiliares y de tres juzgados de Distrito Auxiliares será el ubicado en avenida Culturas Veracruzanas número 120, código postal 91096, colonia Reserva Territorial, en Xalapa, Veracruz, y el de los restantes juzgados de Distrito Auxiliares estará en Ruiz Cortines número 1628, código postal 91020, colonia Ferrer Guardia, Xalapa, Veracruz, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 56/2008 DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
+
+PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, conformado por dos tribunales colegiados Auxiliares, un tribunal unitario y cinco juzgados de Distrito Auxiliares; el domicilio del tribunal unitario y de tres juzgados de Distrito Auxiliares será el ubicado en avenida Culturas Veracruzanas número 120, código postal 91096, colonia Reserva Territorial, en Xalapa, Veracruz, y el de los restantes órganos jurisdiccionales que integran el Centro Auxiliar, estará en Ruiz Cortines número 1628, código postal 91020, colonia Ferrer Guardia, Xalapa, Veracruz, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Cuarta Región.
 
@@ -66,6 +70,10 @@ Juzgado Tercero de Distrito del Centro Auxiliar de la Cuarta Región.
 Juzgado Cuarto de Distrito del Centro Auxiliar de la Cuarta Región.
 
 Juzgado Quinto de Distrito del Centro Auxiliar de la Cuarta Región.
+
+El tribunal unitario se denominará:
+
+Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región.
 
 Los tribunales colegiados se denominarán:
 
@@ -249,7 +257,9 @@ DECIMOPRIMERO. DEL ACUERDO GENERAL 57/2006. Se reforma el Acuerdo General 57/200
 
 2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
 
-3. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 56/2008 DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
+
+3. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y dos tribunales colegiados Auxiliares.
 
 Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.”
 
@@ -264,3 +274,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 27/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Cuarta Región, con Residencia en Xalapa, Veracruz, así como los Organos Jurisdiccionales que lo Integrarán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de cuatro de junio de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a cuatro de junio de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 27/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los Organos Jurisdiccionales que lo Integrarán.
