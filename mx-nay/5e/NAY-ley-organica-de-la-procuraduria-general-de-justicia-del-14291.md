@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-procuraduria-general-de-justicia-del-14291"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-05-03"
-last_updated: "2006-09-07"
+last_updated: "2008-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 11 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 3 de mayo de 1997.
 
@@ -674,3 +676,23 @@ P.O. 7 DE SEPTIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 La reformas contenidas en el presente Decreto entrará en vigor el 13 de septiembre del 2006, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 11 DE OCTUBRE DE 2008.
+
+Artículo Primero.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia publicada el 3 de mayo de 1997, en el Periódico Oficial, Órgano del Gobierno del Estado, mediante decreto 8020.
+
+Artículo Tercero.- Los procedimientos de responsabilidad administrativa y de remoción, seguidos a servidores públicos que se encuentran en trámite o pendientes de resolución, deberán sustanciarse y concluirse de conformidad las disposiciones vigentes al momento en que se iniciaron.
+
+Artículo Cuarto.- Las conductas u omisiones de los servidores públicos de la procuraduría, no sancionados en esta ley, pero si previstas y sancionadas en otros ordenamientos, se sujetarán a lo establecido por los mismos.
+
+Artículo Quinto.- En tanto se expide el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia, el cual deberá expedirse en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor de esta ley, se aplicará el Reglamento Interior, publicado el diez de enero del dos mil cuatro en el Periódico Oficial, Órgano del Gobierno del Estado, en todo aquello que no se oponga a las disposiciones de la presente ley.
+
+Artículo Sexto.- En tanto se expiden las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia, el cual deberá expedirse en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor de esta ley, el Consejo Técnico del Servicio de Carrera de Procuración de Justicia, estará facultado para emitir normas generales relativas al desarrollo y operación de dicho servicio.
+
+Artículo Séptimo.- Los agentes del Ministerio Público, policía estatal y peritos que la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia, deberán someterse a las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia para su permanencia en su dependencia.
+
+Artículo Octavo.- Se abroga el Reglamento Interior de la Policía Judicial del Estado de Nayarit, publicado el doce de febrero de mi novecientos setenta y siete, mediante decreto número 5892.
+
+Artículo Noveno.- Se abroga la Ley que Crea el Departamento de Seguridad Pública dependiente de la Procuraduría General de Justicia del Estado, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el nueve de enero de 1971, mediante decreto número 5276.
