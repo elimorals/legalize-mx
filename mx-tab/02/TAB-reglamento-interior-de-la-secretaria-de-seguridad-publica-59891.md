@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-seguridad-publica-59891
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-30"
-last_updated: "2008-01-30"
+last_updated: "2008-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2008
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de enero de 2008.
 
@@ -54,6 +54,10 @@ II. Secretaría.- La Secretaría de Seguridad Pública;
 III. Secretario.- El Secretario de Seguridad Pública; y
 
 IV. Reglamento.- El Reglamento Interior de la Secretaría de Seguridad Pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 3.
 
@@ -106,6 +110,12 @@ Para el despacho de los asuntos de su competencia, la secretaría de Seguridad P
 1.9.2. Subdirección Operativa
 
 1.10. Unidad de Desarrollo Corporativo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+1.11 Dirección de la Policía Auxiliar
 
 2. Subsecretaría de Seguridad Pública
 
@@ -283,9 +293,19 @@ XXII. Coordinarse con la Secretaría de Asentamientos y Obras Públicas para la 
 
 XXIII. Participar en la organización que en el ámbito del Poder Ejecutivo le competa, en la regulación de los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia, incluyendo la aplicación de la normatividad referida a la ejecución de sentencias en los centros de reclusión y tratamiento de inimputables;
 
-XXIV. Aplicar cuando lo haya determinado la autoridad judicial competente, las medidas de orientación, protección y tratamiento que amerite cada caso, a los adolescentes sujetos del Sistema Integral de Justicia.
+XXIV. Aplicar cuando lo haya determinado la autoridad judicial competente, las medidas de orientación, protección y tratamiento que amerite cada caso, a los adolescentes sujetos del Sistema Integral de Justicia;
 
-XXV. Las demás que las leyes le confieran y las que le encomiende el Gobernador del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+XXV. Aprobar políticas y lineamientos conforme los cuales deberán prestarse las funciones de vigilancia, protección de los bienes y valores de los sectores bancarios, comerciales, empresariales e industriales ubicados en el Estado de Tabasco;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+XXVI. Las demás que las leyes le confieran y las que le encomiende el Gobernador del Estado.
 
 ## TÍTULO II. DE LAS FACULTADES GENÉRICAS DE LAS SUBSECRETARÍAS, DIRECCIONES GENERALES Y COORDINACIONES
 
@@ -689,9 +709,29 @@ XXIV. Establecer las normas de disciplina a las que debe acatarse su personal;
 
 XXV. Hacer cumplir las normas establecidas en cuanto a la aplicación de sanciones al personal a su cargo, cuando incurran en faltas al deber;
 
-XXVI. Aplicar por acuerdo del Secretario las sanciones a que haya lugar, de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones inherentes; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XXVII. Ser parte de la Comisión de Estudios Jurídicos del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+XXVI. Aplicar por acuerdo del Secretario las sanciones a que haya lugar, de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones inherentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+XXVII. Apoyar a la Dirección de.la Policía Auxiliar en la inspección o verificación de la prestación de los servicios privados de seguridad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+XXVIII. Aplicar por acuerdo del Secretario las sanciones a que haya lugar a las personas o empresas de seguridad privada que no cumplan con la normatividad aplicable; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+XXIX. Ser parte de la Comisión de Estudios Jurídicos del Gobierno del Estado.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN DEL COLEGIO DE POLICÍA Y TRÁNSITO
 
@@ -843,13 +883,59 @@ XIII. Apoyar en la formulación de proyectos, reglamentos, manuales y demás dis
 
 XIV. En coordinación con el Estado Mayor y el Colegio de Policía y Tránsito, supervisar todo lo relacionado a evaluaciones del personal operativo.
 
-### CAPÍTULO I. DE LA SUBSECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-### CAPÍTULO II. DE LA SUBSECRETARÍA DE PROTECCIÓN CIVIL, PREVENCIÓN Y READAPTACIÓN SOCIAL
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO VI BIS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2008)</small>
+
+ARTÍCULO 36 BIS.- A la Dirección de la Policía Auxiliar le corresponden las siguientes funciones:
+
+I. Proponer al secretario políticas y lineamientos conforme los cuales deberán prestarse las funciones de vigilancia, protección de los bienes y valores de los sectores bancarios, comerciales, empresariales e industriales ubicados en el Estado de Tabasco.
+
+II. Organizar, coordinar y supervisar los servicios de seguridad, protección, custodia y vigilancia de personas, bienes y valores que contraten las personas físicas o jurídicas colectivas, de acuerdo con las disposiciones, legales aplicables;
+
+III. Auxiliar a las demás áreas de la Secretaría en los programas y operativos que implementen;
+
+IV. Gestionar los servicios que preste con los particulares y proponer al Secretario de Seguridad Pública la suscripción de los contratos respectivos;
+
+V. Brindar servicios de asesoría, consultoría, capacitación y adiestramiento en materias de seguridad, vigilancia, custodia y protección de personas, valores y establecimientos, así como el traslado de valores o mercancías;
+
+VI. Adquirir, operar, arrendar y dar mantenimiento a equipos, dispositivos y accesorios para la seguridad y protección de las personas físicas y jurídicas colectivas, así como de sus bienes y establecimientos;
+
+VII. Solicitar el apoyo de las diversas corporaciones policiales en el auxilio, comisión y prevención de ilícitos que pongan en riesgo la seguridad de las instalaciones o personas en custodia;
+
+VIII. Atender y proveer a las víctimas de delitos, las medidas y providencias necesarias para su seguridad y auxilio oportuno;
+
+IX. Participar en la integración de los instrumentos de información del Sistema Nacional de Seguridad Pública y contribuir a la información de la Base Nacional de Datos sobre personas probables responsables de Delitos;
+
+X. Establecer los mecanismos para el control de calidad en la prestación de los servicios;
+
+XI. Recabar información y elementos estadísticos de las funciones que realice la Dirección;
+
+XII. Establecer los sistemas de control y supervisión del personal a su mando;
+
+XIII. Instrumentar y supervisar programas de capacitación y actualización de los elementos de la Dirección en coordinación con la unidad administrativa responsable de la formación de la policía estatal;
+
+XIV. Acordar las sanciones correctivas correspondientes al personal bajo su adscripción y turnar las disciplinarias a la instancia respectiva:
+
+XV. Recepcionar y tramitar las solicitudes de autorización, registro o revalidación para prestar el servicio de seguridad privada;
+
+XVI. Supervisar, vigilar y controlar la prestación de servicios privados de seguridad;
+
+XVII. Inspeccionar o verificar, en coordinación con la Unidad de Asuntos Jurídicos, la prestación de servicios privados de seguridad; y
+
+XVIII. Las demás que le confiera las disposiciones jurídicas aplicables.
+
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE SEGURIDAD PÚBLICA
 
 ## TÍTULO V. DE LAS FACULTADES ESPECÍFICAS DE LAS SUBSECRETARÍAS
 
-### CAPÍTULO I. DEL PATRONATO PARA LA REINCORPORACIÓN SOCIAL
+### CAPÍTULO II. DE LA SUBSECRETARÍA DE PROTECCIÓN CIVIL, PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 37.
 
@@ -1001,7 +1087,7 @@ XI. Realizar el mapa delictivo de la entidad; y
 
 XII. Cumplir con las disposiciones aplicables en el ámbito de su competencia así como con las órdenes que dicte la superioridad.
 
-### CAPÍTULO II. DEL PATRONATO DE APOYO A PROCESADOS Y SENTENCIADOS CON DERECHO A OBTENER LIBERTAD
+### CAPÍTULO I. DEL PATRONATO PARA LA REINCORPORACIÓN SOCIAL
 
 ###### ARTÍCULO 45.
 
@@ -1471,7 +1557,7 @@ Corresponde al Centro de Internamiento, ejecutar las medidas disciplinarias y la
 
 ## TÍTULO VI. DE LOS ÓRGANOS DESCONCENTRADOS
 
-### CAPÍTULO III. DEL INSTITUTO DE READAPTACIÓN POR EL TRABAJO
+### CAPÍTULO II. DEL PATRONATO DE APOYO A PROCESADOS Y SENTENCIADOS CON DERECHO A OBTENER LIBERTAD
 
 ###### ARTÍCULO 56.
 
@@ -1490,6 +1576,8 @@ III. Realizar un informe periódicamente de las actividades que realice;
 IV. Gestionar, ante los organismos y entidades que lo conforman, la cooperación patrimonial o técnica que se requiera, y
 
 V. Las demás que sean necesarias para el cumplimiento del objetivo del Patronato.
+
+### CAPÍTULO III. DEL INSTITUTO DE READAPTACIÓN POR EL TRABAJO
 
 ###### ARTÍCULO 58.
 
@@ -1598,3 +1686,15 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Las presentes adiciones entrarán en vigor a los diez días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Administración y Finanzas tomará las medidas presupuestales y administrativas necesarias para garantizar el funcionamiento oportuno de la Dirección de la Policía Auxiliar en cumplimiento a las disposiciones jurídico normativas en vigor en el Estado.
