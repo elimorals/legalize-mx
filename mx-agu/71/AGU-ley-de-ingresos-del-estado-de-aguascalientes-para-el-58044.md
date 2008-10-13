@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-58044"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-31"
-last_updated: "2008-02-18"
+last_updated: "2008-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2008
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2007.
 
@@ -137,13 +137,17 @@ IV.6 Otros no especificados 1,722,000
 
 INGRESOS ESTATALES 654,473,000
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
 V PARTICIPACIONES FEDERALES
 
-AL ESTADO 4,475,359,000
+AL ESTADO 4,925,359,000
 
 V.1 Participaciones Federales al Estado:
 
-a) Fondo General de Participaciones 3,267,850,000
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+a) Fondo General de Participaciones 3,717,850,000
 
 b) Fondo de Fomento Municipal 426,856,000
 
@@ -213,7 +217,9 @@ Fortalecimiento de las Entidades
 
 Federativas 188,203,000
 
-TOTAL DE INGRESOS 9,418,601,000
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+TOTAL DE INGRESOS 9,861,601,000
 
 VII INGRESOS EXTRAORDINARIOS -72,000,000
 
@@ -229,7 +235,9 @@ VIII.1 Saldo del Ejercicio Fiscal Anterior 0
 
 VIII.2 Otros Ingresos 0
 
-SUBTOTAL 9,346,601,000
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+SUBTOTAL 9,789,601,000
 
 IX INGRESOS DE LAS ENTIDADES
 
@@ -239,11 +247,11 @@ DESCENTRALIZADOS Y ÓRGANOS
 
 DESCONCENTRADOS 1,059,430,000
 
-> <small>(F. DE E., P.O. 28 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2008)</small>
 
 IX. 1 ORGANISMOS PÚBLICOS
 
-DESCENTRALIZADOS 957,780,000
+DESCENTRALIZADOS 953,501,000
 
 a) Colegio de Estudios Científicos
 
@@ -275,7 +283,9 @@ h) Instituto de Capacitación para el Trabajo 1,165,000
 
 del Estado de Aguascalientes
 
-i) Instituto de Educación de Aguascalientes 22,756,000
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+i) Instituto de Educación de Aguascalientes 18,477,000
 
 j) Instituto de Salud del Estado de
 
@@ -343,7 +353,9 @@ Aguascalientes 4,982,000
 
 ab) Hospital Miguel Hidalgo 80,115,000
 
-IX.2 FIDEICOMISOS PÚBLICOS 90,465,000
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+IX.2 FIDEICOMISOS PÚBLICOS 94,744,000
 
 a) Fideicomiso para la Vivienda del Magisterio
 
@@ -393,6 +405,12 @@ para el Desarrollo Económico del Estado de
 
 Aguascalientes 5,000,000
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+ñ) Fondo de Apoyo y Fomento a la
+
+Actividad Educativa y Deportiva 4,279,000
+
 IX. 3 ÓRGANOS DESCONCENTRADOS 11,185,000
 
 a) Descubre, Museo Interactivo de Ciencia y
@@ -417,7 +435,9 @@ X. 3 Instituto de Transparencia del Estado de
 
 Aguascalientes 452,000
 
-TOTAL 10,399,510,000
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+TOTAL 10,849,510,000
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS
 
@@ -1911,11 +1931,7 @@ c) Acreditados del INSEN 30
 
 Con el fin de promover y fomentar la cultura turística, la ecología, la historia y las tradiciones hidrocálidas y nacionales, se otorga un 50% de descuento en las cuotas de los conceptos A, C, D, E, y G, subincisos a), b) y c); a congresistas, convencionistas y servidores públicos del Gobierno del Estado; para éstos últimos, el beneficio es extensivo hasta para 3 acompañantes.
 
-### CAPÍTULO IX
-
-De los Derechos de las Entidades Paraestatales, Organismos Descentralizados,
-
-Órganos Desconcentrados y Autónomos
+### CAPÍTULO IX. De los Derechos de las Entidades Paraestatales, Organismos Descentralizados, Órganos Desconcentrados y Autónomos
 
 ###### ARTÍCULO 12.
 
@@ -31150,3 +31166,9 @@ P.O. 18 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
