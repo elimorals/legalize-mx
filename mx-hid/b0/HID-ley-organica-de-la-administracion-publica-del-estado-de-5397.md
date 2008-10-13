@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2006-09-25"
+last_updated: "2008-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -163,11 +163,15 @@ XI.- Secretaría de Educación Pública;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2005)</small>
 
-XII.- Secretaría de Salud; y
+XII.- Secretaría de Salud; y (sic)
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
 XIII.- Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+XIV.- Secretaría del Trabajo y Previsión Social.
 
 ###### ARTICULO 14.
 
@@ -297,15 +301,15 @@ XXVI.- (DEROGADA, P.O. 31 DE MARZO DE 2005)
 
 XXVII.- Promover la producción cinematográfica, de radio, televisión y la industria editorial; vigilar que las publicaciones impresas y las transmisiones de radio y televisión locales, así como la exhibición de las películas cinematográficas, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, a la dignidad personal y no ataquen derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público;
 
-XXVIII.- Ejercer las funciones que en materia de trabajo correspondan al Ejecutivo del Estado;
+XXVIII.- (DEROGADA, P.O. 13 DE OCTUBRE DE 2008)
 
-XXIX.- Dirigir y vigilar las actividades de la Procuraduría de la Defensa del Trabajo y participar en la integración y funcionamiento del Consejo Consultivo Estatal de Capacitación y Adiestramiento y de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+XXIX.- (DEROGADA, P.O. 13 DE OCTUBRE DE 2008)
 
-XXX.- Vigilar el funcionamiento administrativo de las Juntas Locales de Conciliación, de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales y profesionales, así como llevar la estadística general del ramo;
+XXX.- (DEROGADA, P.O. 13 DE OCTUBRE DE 2008)
 
-XXXI.- Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo, proporcionándoles la información que soliciten para el cumplimiento de sus funciones;
+XXXI.- (DEROGADA, P.O. 13 DE OCTUBRE DE 2008)
 
-XXXII.- Intervenir a petición de parte, en la revisión de los contratos colectivos de trabajo, así como en los conflictos que surjan por violación a las leyes o a los citados contratos; y (sic)
+XXXII.- (DEROGADA, P.O. 13 DE OCTUBRE DE 2008)
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2005)</small>
 
@@ -773,21 +777,19 @@ XXIII.- Otorgar permisos y establecer sistemas de precios y tarifas en las activ
 
 XXIV.- Promover e instrumentar el desarrollo de sistemas de proveeduría la subcontratación de servicios y procesos industriales y el reciclamiento de residuos de la industria hidalguense;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-XXV.- Planear y desarrollar la instalación de parques y zonas industriales, la consolidación de sus servicios y sus respectivas áreas habitacionales para los trabajadores, en coordinación con los organismos rectores del desarrollo urbano, la ecología y el agua;
+XXV.- Planear y desarrollar la instalación de parques y zonas industriales, la consolidación de sus servicios, en coordinación con los Organismos rectores del desarrollo urbano, la ecología y el agua;
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
 
 XXVI.- Realizar estudios y propuestas para la modernización y fortalecimiento de la infraestructura productiva de la entidad;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-XXVII.- Instrumentar y coordinar la aplicación de programas de capacitación para el desarrollo directivo empresarial y de los trabajadores en activo, así como operar el programa de becas para la capacitación de trabajadores desempleados y el Sistema Estatal de Empleo;
+XXVII.- Instrumentar y coordinar la aplicación de programas de capacitación para el desarrollo directivo empresarial;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
-
-XXVIII.- Supervisar, inspeccionar y promover el cumplimiento de la normatividad laboral aplicable en la competencia estatal;
+XXVIII.- (DEROGADA, P.O. 13 DE OCTUBRE DE 2008)
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -817,9 +819,9 @@ XXXIV.- Contratar y subcontratar servicios de consultoría, asesoría, asistenci
 
 XXXV.- Establecer programas para la ampliación, modernización y desarrollo de sistemas e infraestructura para el abasto y el comercio interior;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-XXXVI.- Analizar y evaluar la situación, comportamiento y desarrollo de la economía del Estado, de los sectores industrial, minero, artesanal, comercial, de abasto y de servicios, así como de los mercados laborales, mediante la realización de estudios y estadísticas;
+XXXVI.- Analizar y evaluar la situación, comportamiento y desarrollo de la economía del Estado, de los sectores industrial, minero, artesanal, comercial, de abasto y de servicios, mediante la realización de estudios y estadísticas;
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -1037,7 +1039,7 @@ ARTICULO 30 TER.- A la Secretaría de Salud corresponde el despacho de los sigui
 
 I.- Proponer, establecer, conducir, supervisar y evaluar la Política Estatal en Materia de Salud, de conformidad con lo dispuesto en las Leyes General y Estatal de Salud y los Sistemas Nacional y Estatal de Salud, así como con las directrices generales de la Planeación Estatal del desarrollo y en congruencia con las políticas, normas y procedimientos que a nivel nacional determine la Secretaría de Salud;
 
-II.- Proponer la Gobernador del Estado las políticas y los programas de coordinación con las Autoridades Federales y Municipales en Materia de Salud;
+II.- Proponer al Gobernador del Estado las políticas y los programas de coordinación con las Autoridades Federales y Municipales en Materia de Salud;
 
 III.- Establecer lineamientos y mecanismos de Planeación, Programación, Presupuestación y Evaluación en Materia de Salud;
 
@@ -1154,6 +1156,68 @@ V.- La Oficina de Modernización e Innovación Gubernamental, como instancia res
 VI.- La Oficina de Coordinación de Proyectos Estratégicos, como cuerpo específico de apoyo al Gobernador para formular, evaluar, coordinar la ejecución y supervisar proyectos de alto interés para el Ejecutivo Estatal.
 
 Podrá el Gobernador del Estado asimismo, establecer oficinas de representación del Poder Ejecutivo del Estado fuera del Territorio del mismo, con las atribuciones y facultades que él mismo acuerde.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 31 QUATER.- A la Secretaría del Trabajo y Previsión Social le corresponde el despacho de los siguiente (sic) asuntos:
+
+I.- Vigilar la observancia y aplicación de las disposiciones en materia laboral contenidas en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Hidalgo, en Ley Federal del Trabajo y en la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados para el Estado de Hidalgo;
+
+II.- Ejercer las funciones que en materia de trabajo correspondan al Ejecutivo del Estado;
+
+III.- Promover el incremento de la productividad del trabajo;
+
+IV.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, que requieran los sectores productivos del Estado, en coordinación con la Secretaría de Educación Pública;
+
+V.- Visitar los centros de trabajo para constatar que se cumplan con las condiciones que establece la Ley Federal del Trabajo y normas que de ella se deriven;
+
+VI.- Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+
+VII.- Apoyar y fomentar relaciones con asociaciones obrero patronales del Estado, procurando la conciliación de sus intereses;
+
+VIII.- Proponer a la Junta Local de Conciliación y Arbitraje del Estado, estrategias para el mejoramiento de la administración e impartición de justicia laboral;
+
+IX.- Formular, fomentar, coordinar y ejecutar políticas y programas en materia laboral en el Estado, tendientes a la protección y mejoramiento de las condiciones laborales de los trabajadores;
+
+X.- Coordinar la integración y establecimiento de la Junta Estatal de Conciliación, y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción local, así como vigilar su funcionamiento;
+
+XI.- Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción Estatal;
+
+XII.- Promover la organización de toda clase de sociedades cooperativas y demás formas de organización social para el trabajo, en coordinación con la Secretaría del Trabajo del Poder Ejecutivo Federal, así como resolver, tramitar y registrar su constitución, disolución y liquidación;
+
+XIII.- Estudiar y ordenar las medidas de seguridad e higiene en las empresas instaladas en el Estado, para la protección de los trabajadores, y vigilar su cumplimiento;
+
+XIV.- Dirigir y coordinar la Procuraduría Estatal de la Defensa del Trabajo;
+
+XV.- Organizar y patrocinar exposiciones y museos de trabajo y previsión social;
+
+XVI.- Participar en los Congresos y Reuniones Nacionales de Trabajo.
+
+XVII.- Llevar las estadísticas generales correspondientes a la materia del trabajo;
+
+XVIII.- Establecer la política y coordinar los servicios de seguridad social de la Administración Pública Estatal;
+
+XIX.- Estudiar y proyectar planes para impulsar la ocupación en el Estado;
+
+XX.- Promover la cultura y recreación entre los trabajadores y sus familias;
+
+XXI.- Coordinar y vigilar el funcionamiento del Tribunal Estatal de Conciliación y Arbitraje
+
+XXII.- Aplicar las políticas que establezca el Gobernador del Estado para la promoción y protección de los derechos de los menores que trabajan, y propiciar acciones que impulsen el desarrollo de los derechos laborales de las mujeres en equidad con los hombres;
+
+XXIII.- Desahogar consultas sobre la interpretación de las normas de la Ley Federal del Trabajo, de los contratos colectivos de trabajo y de la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados para el Estado de Hidalgo;
+
+XXIV.- Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+XXV.- Mediar, a petición de parte, en los conflictos que surjan por violación a la Ley o a los contratos colectivos de trabajo;
+
+XXVI.- Proponer y coordinar las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y patrones;
+
+XXVII.- Mantener relaciones con la Comisión Nacional de Salarios Mínimos y las instancias que correspondan para la protección y mejoramiento del salario en el Estado;
+
+XXVIII.- Instrumentar y coordinar la aplicación de programas de capacitación para el desarrollo de los trabajadores en activo, así como operar el programa de becas para la capacitación de trabajadores desempleados y el Sistema Estatal de Empleo; y
+
+XXIX.- Los demás que le fijen expresamente las Leyes y Reglamentos.
 
 ## TITULO TERCERO. DEL SECTOR PARAESTATAL
 
@@ -1294,3 +1358,11 @@ CUARTO.- Las instituciones encargadas de la formulación de los agentes de las P
 QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
 
 SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se expedirá el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, dentro de un plazo de 90 días contado a partir del día siguiente en que entre en vigor el presente Decreto.
