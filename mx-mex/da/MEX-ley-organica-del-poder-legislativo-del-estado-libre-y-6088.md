@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2008-09-26"
+last_updated: "2008-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE DE 2008.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1039,6 +1039,10 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Apoyo y Atención al Migrante
 
+> <small>(ADICIONADO, G.G. 13 DE OCTUBRE DE 2008)</small>
+
+- Participación Ciudadana
+
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
@@ -1119,6 +1123,10 @@ Son Comités Permanentes de la Legislatura, los siguientes:
 
 - De Comunicación Social;
 
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2008)</small>
+
+- Vigilancia de la Contraloría.
+
 La Asamblea podrá integrar otros comités que considere necesarios con el carácter de permanentes o transitorios.
 
 Los comités se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados.
@@ -1130,6 +1138,26 @@ Artículo 76 BIS.- Son atribuciones del Comité de Administración:
 I. Conocer y opinar sobre las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
 
 II. Vigilar que se ejerza el presupuesto de acuerdo a la programación y calendarización aprobadas.
+
+> <small>(ADICIONADO, G.G. 13 DE OCTUBRE DE 2008)</small>
+
+Artículo 76 TER.- Son atribuciones del Comité de Vigilancia de la Contraloría:
+
+l. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
+
+II. Conocer y evaluar el programa anual de actividades de la Contraloría;
+
+III. Ordenar la práctica de auditorías especiales o complementarias, a las que normalmente realiza la Contraloría a las dependencias del Poder Legislativo;
+
+IV. Citar al Contralor para conocer en lo específico del trámite de algún asunto que tenga encomendado;
+
+V. Proporcionar a la Junta de Coordinación Política, la información que le sea requerida respecto del funcionamiento y ejercicio de atribuciones de la Contraloría;
+
+VI. Vigilar que el funcionamiento de la Contraloría y la actuación de sus servidores públicos se apegue a las disposiciones aplicables;
+
+VII. Supervisar que la Contraloría cumpla con las obligaciones en materia de transparencia y acceso a la información pública, así como guardar la debida reserva sobre las investigaciones y procedimientos administrativos que lleve a cabo, hasta que se pongan en estado de resolución ante la Junta de Coordinación Política; y
+
+VIII. Las demás que le confieran esta ley y su reglamento.
 
 ###### Artículo 77.
 
@@ -1652,3 +1680,23 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Los Vicepresidentes serán electos por la Asamblea cuando se lleve a cabo la elección del Presidente y Secretario de la Junta de Coordinación Política.
+
+G.G. 13 DE OCTUBRE DE 2008.
+
+DECRETO NO. 206, POR EL QUE SE ADICIONAN LOS ARTICULOS 76, CON UN ANTEPENULTIMO PARRAFO Y EL 76 TER, DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 13 DE OCTUBRE DE 2008
+
+DECRETO NO. 207, POR EL QUE SE ADICIONA UN PENULTIMO PARRAFO AL ARTICULO 69 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
