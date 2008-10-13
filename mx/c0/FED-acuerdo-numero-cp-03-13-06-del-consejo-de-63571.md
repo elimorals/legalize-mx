@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-cp-03-13-06-del-consejo-de-63571"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-07-12"
-last_updated: "2006-07-12"
+last_updated: "2008-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63571&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2006-03-30"
 ---
 # ACUERDO NUMERO CP/03/13/06 DEL CONSEJO DE PROFESIONALIZACION POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA REALIZACION DE PRACTICAS PROFESIONALES PARA LOS CANDIDATOS A INGRESAR AL SERVICIO DE CARRERA DE PROCURACION DE JUSTICIA FEDERAL
 
-ACUERDO QUE ESTABLECE LOS LINEAMIENTOS PARA LA REALIZACION DE PRACTICAS PROFESIONALES PARA LOS CANDIDATOS A INGRESAR AL SERVICIO DE CARRERA DE PROCURACION DE JUSTICIA FEDERAL
+ACUERDO NO. CP/03/13/06 DEL CONSEJO DE PROFESIONALIZACION POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA REALIZACION DE PRACTICAS PROFESIONALES PARA LOS CANDIDATOS A INGRESAR AL SERVICIO DE CARRERA DE PROCURACION DE JUSTICIA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA REALIZACION DE PRACTICAS PROFESIONALES PARA LOS CANDIDATOS A INGRESAR AL SERVICIO DE CARRERA DE PROCURACION DE JUSTICIA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE OCTUBRE DE 2008, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 12 de julio de 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Procuraduría General de la República.
 
@@ -158,3 +158,15 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 TERCERO.- Los casos no previstos en este Acuerdo serán resueltos por la Dirección General.
 
 México, D.F., a 30 de marzo de 2006.- El Presidente del Consejo de Profesionalización, Javier Laynez Potisek.- Rúbrica.- El Secretario Técnico del Consejo de Profesionalización, Miguel Angel López Mastache.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo de Profesionalización.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página de Internet de la Procuraduría General de la República, en el apartado correspondiente al Servicio de Carrera de Procuración de Justicia Federal, para su difusión.
+
+TERCERO.- Los casos no previstos en este Acuerdo serán resueltos por el Consejo.
+
+CUARTO.- Se abroga el acuerdo CP/03/13/06, así como las demás disposiciones que se opongan al presente Acuerdo.
