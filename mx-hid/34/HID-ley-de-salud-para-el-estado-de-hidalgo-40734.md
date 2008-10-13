@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2004-08-30"
+last_updated: "2008-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -895,7 +895,9 @@ Los transportes dedicados al traslado de carne a distancias mayores de cincuenta
 
 Queda prohibido el transporte publico de carne en vehículos que no cumplan con los requisitos sanitarios que establezcan las disposiciones aplicables y la Autoridad Sanitaria competente.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XXIV. PREVENCION Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 126.
 
@@ -913,7 +915,7 @@ Además de las disposiciones de seguridad que establezcan los ordenamientos lega
 
 Los establecimientos a los que se refiere este Capítulo, deberán presentar aviso de funcionamiento ante la Autoridad Sanitaria y estarán sujetos a verificación.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### Artículo 130.
 
@@ -927,7 +929,7 @@ Los gimnasios deberán dar aviso de funcionamiento ante la Secretaría de Salud,
 
 Se prohíbe la comercialización no autorizada de artículos o productos en el interior de los gimnasios, que atenten contra la salud de las personas.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 133.
 
@@ -945,7 +947,7 @@ La limpieza higiene y conservación de las áreas comunes de estos establecimien
 
 Los servicios sanitarios de estos establecimientos, deberán ser suficientes para los usuarios y mantenerse en permanente higiene y buen estado de conservación.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 137.
 
@@ -963,7 +965,7 @@ Los puestos semifijos o ambulantes en donde se expendan productos alimenticios, 
 
 La Autoridad Municipal será la responsable de la autorización de estos giros.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 140.
 
@@ -981,13 +983,29 @@ Corresponde a la Autoridad Sanitaria el control y vigilancia sanitaria de estos 
 
 En estos establecimientos, se garantizará el respeto a los derechos humanos y a la dignidad de las personas, quedando prohibido cualquier acto de agresión física o moral, tortura, mutilación, abuso sexual, así como toda conducta que atente contra la vida o la integridad de las personas.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
+
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
+###### Artículo 142 Bis 1.
+
+La prevención y Control de Enfermedades Bucodentales tiene carácter prioritario y comprende las siguientes acciones:
+
+I.- La Atención de la Salud Bucodental;
+
+II.- La promoción de las medidas de Prevención y Control de Enfermedades Bucodentales;
+
+III.- La realización de Programas de Prevención y Control de Enfermedades Bucodentales; y
+
+IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
+
 ### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
 
-### CAPITULO V. PRESCRIPCIÓN
-
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
+
+### CAPITULO V. PRESCRIPCIÓN
 
 ###### Artículo 143.
 
@@ -1438,3 +1456,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE OCTUBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
