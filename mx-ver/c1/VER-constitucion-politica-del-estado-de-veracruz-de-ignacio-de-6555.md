@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2007-03-21"
+last_updated: "2008-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2008.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -359,11 +359,15 @@ Ningún partido político podrá contar con un número de diputados, por ambos p
 
 Por cada diputado propietario se elegirá a un suplente. En ambos casos se requiere:
 
-I. Ser veracruzano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2008)</small>
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 II. Saber leer y escribir y;
 
-III. Ser vecino en el distrito que corresponda o en la circunscripción del Estado, en los términos de esta Constitución.
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2008)</small>
+
+III. Residir en el distrito que corresponda o en la circunscripción del Estado, por lo menos tres años antes del día de la elección.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1397,7 +1401,9 @@ XIX. Convenir con los municipios, previo acuerdo de sus respectivos Ayuntamiento
 
 XX. Conceder el indulto a los reos sentenciados por los tribunales del Estado, conforme a la ley;
 
-XXI. Presentar ante el Congreso del Estado, el 15 de noviembre de cada año, un informe escrito acerca del estado que guarda la administración pública;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2008)</small>
+
+XXI. Presentar ante el Pleno del Congreso del Estado, el 15 de noviembre de cada año, un informe escrito y dar lectura a una síntesis acerca del estado que guarda la administración pública, y comparecer ante los diputados conforme lo disponga la Ley Orgánica del Poder Legislativo al finalizar la glosa de dicho informe.
 
 XXII. Comprometer el crédito del Estado, previa autorización del Congreso, en los términos de esta Constitución y la ley; y
 
@@ -11726,6 +11732,22 @@ G.O. 21 DE MARZO DE 2007.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE OCTUBRE DE 2008.
+
+DECRETO NUMERO 292, POR EL QUE SE REFORMA LA FRACCION XXI DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE OCTUBRE DE 2008.
+
+DECRETO NUMERO 293, POR EL QUE REFORMAN LAS FRACCIONES I Y III DEL ARTICULO 22 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
