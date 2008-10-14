@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-590-electoral-para-el-estado-de-veracruz-de-52080
 country: "mx"
 rank: "codigo"
 publication_date: "2006-10-09"
-last_updated: "2008-02-01"
+last_updated: "2008-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -4793,7 +4793,11 @@ El Consejo General deberá prever los recursos necesarios para el cumplimiento d
 
 ###### ARTÍCULO SEXTO.
 
-Los Consejeros Electorales y el Secretario Ejecutivo que se encuentren en funciones al entrar en vigor el presente Código, continuarán en el ejercicio de su encargo, en los términos que dispone este ordenamiento, para el periodo por el que fueron designados. No podrán ser reelectos en el siguiente periodo para el mismo cargo.
+(DEROGADO, G.O. 14 DE OCTUBRE DE 2008)
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2008)</small>
+
+ARTÍCULO SEXTO BIS. Los Consejeros Electorales del Instituto Electoral Veracruzano que se encuentren en funciones deberán concluir su encargo hasta en tanto sean designados los nuevos integrantes del Consejo General del Instituto Electoral Veracruzano.
 
 ###### ARTÍCULO SÉPTIMO.
 
