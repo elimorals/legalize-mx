@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transito-de-la-ley-de-transito-y-transporte-49532
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2006-02-28"
+last_updated: "2008-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE TRANSITO DE LA LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero del 2006.
 
@@ -52,6 +52,10 @@ Para los efectos de la aplicación e interpretación de este Reglamento, deberá
 I. ACERA o BANQUETA.- Espacio delimitado de una calle o vía pública, construida y destinada exclusivamente para el tránsito de los peatones;
 
 II. ACOTAMIENTO.- Área comprendida entre la orilla de la superficie de rodamiento y corona de un camino, que sirve para dar más seguridad al tránsito y para estacionamiento eventual de vehículos;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+II Bis. ALCOHOLÍMETRO.- Dispositivo para medir la cantidad de alcohol presente en el aire espirado por una persona;
 
 III. CALLE.- Vía pública comprendida dentro de una zona urbana o rural;
 
@@ -431,6 +435,10 @@ VI. Manifestar su voluntad de ser donador de órganos, en su caso; y
 
 VII. Los demás requisitos que contemple la Ley y Reglamento.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+Tratándose de conductores de vehículos destinados a la prestación del servicio público y especial de transporte, así como de los de unidades de tipo pesado, deberán aprobar los exámenes psicométricos, así como someterse además a exámenes de toxicomanía y alcoholismo practicados por institución oficial de salud, cuyos resultados deberán acreditar que el interesado no es dependiente de bebidas alcohólicas, ni estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
+
 ###### Artículo 28.
 
 Los trámites para expedición de licencias deberán realizarse directamente por el interesado, quien deberá acudir personalmente a las oficinas de expedición de licencias, para tal efecto.
@@ -438,6 +446,10 @@ Los trámites para expedición de licencias deberán realizarse directamente por
 ###### Artículo 29.
 
 Para la renovación de licencia o permiso de conducir, se deberá presentar la solicitud en el formato correspondiente, anexando la licencia o permiso vencido, el examen médico de agudeza visual practicado por autoridad de salud y la constancia que acredite el pago de derechos.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+Tratándose de la renovación de licencia de los tipos "B" y "C", los interesados deberán cumplir con lo establecido en el último párrafo del artículo 27 de este Reglamento.
 
 ###### Artículo 30.
 
@@ -889,7 +901,9 @@ X. Abrir las puertas del vehículo cuando éste se encuentra en movimiento;
 
 XI. Entorpecer la marcha de cortejos fúnebres, peregrinaciones religiosas, competencias deportivas, desfiles y demás actos autorizados;
 
-XII. Conducir bajo el influjo de bebidas alcohólicas, psicotrópicos o estupefacientes, aún en el caso de prescripción médica si con ello se afectan los reflejos necesarios y capacidad de juicio;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+XII. Conducir en la vía pública, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares, aún en el caso de prescripción médica si con ello se afectan los reflejos necesarios y capacidad de juicio;
 
 XIII. Conducir un vehículo que no reúna los requisitos legales para circular;
 
@@ -1507,43 +1521,91 @@ II. Retiro y aseguramiento de los vehículos hasta por treinta días;
 
 III. Privación o suspensión de los derechos derivados de las licencias o permisos de conducir hasta por ciento ochenta días;
 
-IV. Cancelación de la licencia o permiso de conducir por tres años; y
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+III Bis. Suspensión de los derechos derivados de las licencias de conducir por ciento ochenta días, en los términos del artículo 137 de la ley;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+IV. Cancelación de la licencia de conducir; y
 
 V. Arresto hasta por treinta y seis horas.
 
 Las sanciones anteriores se aplicarán sin perjuicio de las de carácter penal y civil que pudieran derivarse de las infracciones cometidas.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 177.
 
-Queda prohibido a toda persona conducir vehículos por la vía pública, si se encuentra intoxicado por la ingesta de bebidas alcohólicas, que del examen correspondiente arroje un nivel de alcoholemia igual o superior al 0.8% medido por alcoholímetro.
+Para los efectos de este Reglamento se considera que un conductor se encuentra en estado de ebriedad cuando la prueba correspondiente arroje un nivel igual o superior al 0.08% medido por alcoholímetro, o su equivalente en términos de alcoholemia.
 
-Los conductores de vehículos cuyo examen de alcoholímetro arroje resultados de alcoholemia de entre el 0.5% y 0.79% de alcohol, recibirán solamente amonestación y apercibimiento verbal por parte del Oficial de Tránsito.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 178.
 
-Para efectos de la revisión de los niveles de alcohol, los oficiales de tránsito deberán sujetarse al siguiente procedimiento:
+Cuando derivado de la comisión de una infracción o de la implementación de los operativos a que se refiere este Reglamento, se detecte que el conductor de un vehículo se encuentra conduciendo en visible y notorio estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares, los oficiales de tránsito procederán conforme a lo siguiente:
 
-I. Deberán asegurarse que el conductor presenta aliento alcohólico;
+I.- Los oficiales de tránsito le indicarán al conductor del vehículo detener la marcha, si se encuentra en circulación.
 
-II. Aplicarán una prueba psicomotora al conductor para determinar su grado de equilibrio y reseñará por escrito sus observaciones respecto del comportamiento del mismo;
+II.- Una vez que el vehículo se encuentre estacionado en lugar seguro, previa identificación del oficial de tránsito, el conductor será cuestionado a fin de verificar si ingirió o consumió bebidas alcohólicas, estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares, pudiendo aplicarle, en su caso, una prueba psicomotora.
 
-III. Aplicará el alcoholímetro de conformidad con las especificaciones del fabricante y emitirán la papeleta correspondiente que contenga el resultado; y
+III.- Cuando el conductor del vehículo reconozca haber ingerido bebidas alcohólicas, o si de la prueba psicomotora el oficial de tránsito detecta signos de haberlo hecho, inmediatamente practicará al conductor la prueba de aire espirado mediante el alcoholímetro. En caso de que el conductor se rehusare a la práctica de dichas pruebas, se le remitirá a la autoridad competente a fin de que se le practique un examen pericial clínico médico.
 
-IV. Si de los resultados del alcoholímetro aparece que el conductor rebasa los límites de tolerancia señalados en el artículo anterior, procederá según el caso y emitirá la boleta de infracción, procediendo a la detención del vehículo.
+En caso de que el conductor reconozca estar bajo el influjo de estupefacientes, psicotrópicos, o cualquier otra sustancia que produzca efectos similares, o si de la prueba psicomotora el oficial de tránsito detecta signos de tal circunstancia, inmediatamente ordenará la práctica de los exámenes de toxicomanía correspondientes, solicitando para ello el apoyo de personal calificado o de institución oficial de salud.
 
-Si el conductor no estuviere de acuerdo con los resultados arrojados por el alcoholímetro, de inmediato se procederá a canalizarlo ante la autoridad de salud correspondiente para que realice, a su costa, un examen de alcohol en sangre y determine mediante el certificado correspondiente si se encuentra apto para conducir vehículos.
+IV.- Cuando la prueba de aire espirado en alcoholímetro arroje como resultado que el conductor se encuentra en estado de ebriedad, o cuando de la prueba de toxicomanía se desprenda que el conductor se encuentra bajo el influjo de estupefacientes, psicotrópicos o cualquier otra sustancia que produzca efectos similares, el oficial de tránsito procederá a levantar las constancias correspondientes, copia de las cuales entregará al infractor, las cuales turnará a su superior a la brevedad, a fin de que se proceda, a través del área respectiva, a la calificación de la multa y a la implementación del procedimiento de suspensión de los derechos derivados de la licencia de conducir del infractor, en los términos del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 179.
 
-Toda detención del conductor deberá estar motivada en un dictamen médico que determine el grado de alteración de sus condiciones físicas o mentales.
+Cuando un conductor sea infraccionado por las causas a que se refiere el artículo 178 de este ordenamiento, el oficial de tránsito impedirá que el infractor continúe conduciendo a fin de evitar que ponga en peligro la integridad física y bienes propios o de terceros ordenando la detención del vehículo.
+
+Si el conductor no está en posibilidades de valerse por sí mismo y se encuentra acompañado de un familiar o persona que pueda responsabilizarse de él, ésta se hará cargo de su custodia. En caso de no haber persona que se pueda responsabilizar del infractor, éste será puesto bajo custodia en forma inmediata de la autoridad municipal correspondiente para el sólo efecto de salvaguardar su integridad física hasta en tanto recupere su capacidad psicomotora, o antes si alguno de sus familiares comparece a hacerse cargo del mismo, lo que deberá hacerse del conocimiento de la autoridad estatal que solicitó su custodia por parte de dicha autoridad municipal.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 180.
 
-Cuando la sanción sea el arresto, el infractor deberá ser remitido de inmediato a los separos de la policía preventiva del municipio que corresponda para el cumplimiento del mismo, quedando a disposición de las autoridades de tránsito.
+Se sancionará con arresto administrativo de treinta y seis horas y se le cancelará la licencia al conductor que incurriere por segunda vez en la conducción de un vehículo en estado de ebriedad y que se le hayan suspendido los derechos derivados de la licencia en los términos del artículo 137 de la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 181.
 
-En el caso previsto en el artículo 177 de este ordenamiento, el conductor que pudiera poner en peligro su vida, la salud, la vida o los bienes de terceros, además de la detención del vehículo y levantamiento de la infracción, si en esos momentos no fuere posible localizar o no está presente familiar o persona alguna que pueda responsabilizarse del conductor, con la suficiente capacidad de controlarlo, éste deberá ser remitido en forma inmediata a la autoridad municipal correspondiente.
+La resolución administrativa que imponga el arresto como sanción, deberá contener como mínimo lo siguiente:
+
+I.- El lugar y fecha de emisión;
+
+II.- Los antecedentes de la sanción;
+
+III.- El nombre de la persona a arrestar, así como su media filiación;
+
+IV.- El lugar en donde se cumplirá el arresto;
+
+V.- Los datos generales de la persona sancionada;
+
+VI.- La solicitud expresa de la ejecución de la sanción de arresto a la autoridad respectiva;
+
+VII.- La orden de que el arresto se hará constar en acta circunstanciada;
+
+VIII.- La fundamentación y motivación;
+
+IX.- El nombre, cargo y firma de la autoridad que ordena el arresto;
+
+X.- La oficina en que se encuentra y pueda ser consultado el expediente respectivo;
+
+XI.- La mención de que su notificación será personal; y
+
+XII.- Los medios de defensa que procedan, la autoridad ante la cual deba interponerse y el plazo para ello.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 181 Bis.
+
+Para la ejecución del arresto se solicitará el auxilio de la fuerza pública mediante oficio, al que se anexará la resolución que determinó dicha sanción.
+
+Cumplimentado el arresto, la autoridad ejecutora del mismo liberará al infractor, informando de ello por escrito a la Dirección General.
 
 ###### Artículo 182.
 
@@ -1607,13 +1669,13 @@ AVISOS
 
 De A Artículo
 
--No dar aviso de cambio de carrocería. 10 15 9
+- No dar aviso de cambio de carrocería. 10 15 9
 
--No dar aviso de cambio de color. 10 15 9
+- No dar aviso de cambio de color. 10 15 9
 
--No dar aviso de cambio de motor. 10 15 9
+- No dar aviso de cambio de motor. 10 15 9
 
--No dar aviso de cambio del sistema de
+- No dar aviso de cambio del sistema de
 
 combustible. 20 30 9
 
@@ -1621,13 +1683,13 @@ CALCOMANÍA
 
 De A Artículo
 
--Falta de calcomanía de refrendo. 5 10 10
+- Falta de calcomanía de refrendo. 5 10 10
 
--Falta de calcomanía de verificación 5 10 129
+- Falta de calcomanía de verificación 5 10 129
 
 Vehicular.
 
--Falta de calcomanía de identificación de
+- Falta de calcomanía de identificación de
 
 placas. 5 10 10
 
@@ -1635,21 +1697,21 @@ DOCUMENTOS
 
 De A Artículo
 
--Falta de tarjeta de circulación. 5 10 10
+- Falta de tarjeta de circulación. 5 10 10
 
--Tarjeta de circulación vigente. 10 20 22
+- Tarjeta de circulación vigente. 10 20 22
 
--Pagos de tenencia y refrendo vigentes. 10 20 22
+- Pagos de tenencia y refrendo vigentes. 10 20 22
 
--Por no mostrar documentos de conducción
+- Por no mostrar documentos de conducción
 
 y circulación al Oficial de Tránsito que lo
 
 solicita. 10 15 96, IV
 
--Alterados o falsificados. 20 25 95, XIII
+- Alterados o falsificados. 20 25 95, XIII
 
--Falta de autorización para usar gas licuado
+- Falta de autorización para usar gas licuado
 
 de petróleo o natural. 35 45 36
 
@@ -1657,25 +1719,25 @@ LICENCIA Y PERMISO PARA CONDUCIR
 
 De A Artículo
 
--Alterada. 40 60 183
+- Alterada. 40 60 183
 
--Falsificada. 80 100 183
+- Falsificada. 80 100 183
 
--Falta de licencia para conducir. 10 20 95, XIV
+- Falta de licencia para conducir. 10 20 95, XIV
 
--Portar licencia de conducir que no
+- Portar licencia de conducir que no
 
 corresponda al tipo y servicio del vehículo. 10 20 95, XIV
 
--Falta de permiso para conducir. 10 20 171, XI
+- Falta de permiso para conducir. 10 20 171, XI
 
--Licencia vencida. 5 10 29
+- Licencia vencida. 5 10 29
 
--No llevar consigo licencia o permiso para
+- No llevar consigo licencia o permiso para
 
 conducir. 3 5 96, IV
 
--No entregar la licencia por cancelación
+- No entregar la licencia por cancelación
 
 o suspensión de derechos. 15 25 32
 
@@ -1683,79 +1745,79 @@ PERMISOS DE CIRCULACIÓN
 
 De A Artículo
 
--Falta de permiso para circular. 10 20 19
+- Falta de permiso para circular. 10 20 19
 
--Permiso para circular sin placas vencido. 10 20 19
+- Permiso para circular sin placas vencido. 10 20 19
 
--Circular vehículo de dimensión mayor a
+- Circular vehículo de dimensión mayor a
 
 la reglamentaria sin permiso. 200 450 160
 
--Falsificado. 80 100 95, XIII
+- Falsificado. 80 100 95, XIII
 
 PLACAS
 
 De A Artículo
 
--Con colgajos o adherencias. 5 10 15
+- Con colgajos o adherencias. 5 10 15
 
--Falta de placa en motoneta, motocicleta. 5 10 101
+- Falta de placa en motoneta, motocicleta. 5 10 101
 
--Usar placas vencidas. 10 15 15, 22
+- Usar placas vencidas. 10 15 15, 22
 
--Usar placas extranjeras anexas a las
+- Usar placas extranjeras anexas a las
 
 placas nacionales. 5 10 15, 16
 
--Usar placas en lugar no destinado para ello. 5 10 14
+- Usar placas en lugar no destinado para ello. 5 10 14
 
--Falta de una de ellas. 5 10 14
+- Falta de una de ellas. 5 10 14
 
--Falta de ambas. 20 30 171, XI
+- Falta de ambas. 20 30 171, XI
 
--Dobladas o colocadas en forma incorrecta. 5 10 15
+- Dobladas o colocadas en forma incorrecta. 5 10 15
 
--Falta de placa en remolques. 15 20 14
+- Falta de placa en remolques. 15 20 14
 
--Usar placas alteradas. 90 100 15
+- Usar placas alteradas. 90 100 15
 
--Que no correspondan al vehículo
+- Que no correspondan al vehículo
 
 que las porta. 90 100 16, 171, II
 
--Usar placas falsificadas. 90 100 95, XIII
+- Usar placas falsificadas. 90 100 95, XIII
 
--Usar placas policiales en vehículos
+- Usar placas policiales en vehículos
 
 no autorizados. 400 500 171, VIII
 
--No portar placas los vehículos de
+- No portar placas los vehículos de
 
 seguridad y asistencia social (emergencia). 400 700 18
 
-II.-DE LAS PARTES INTEGRALES DE UN VEHÍCULO
+II.- DE LAS PARTES INTEGRALES DE UN VEHÍCULO
 
 ASIENTOS
 
 De A Artículo
 
--Desoldados. 3 P. C/U 35, X
+- Desoldados. 3 P. C/U 35, X
 
--Falta de asientos. 5 P. C/U 35, X
+- Falta de asientos. 5 P. C/U 35, X
 
 CINTURÓN DE SEGURIDAD
 
 De A Artículo
 
--No usar cinturón de seguridad
+- No usar cinturón de seguridad
 
 el conductor. 8 15 39
 
--No usar cinturón de seguridad
+- No usar cinturón de seguridad
 
 el pasajero delantero. 8 15 39
 
--Por transportar menores de edad sin
+- Por transportar menores de edad sin
 
 cinturón de seguridad. 8 15 96, IX
 
@@ -1763,13 +1825,13 @@ CLAXON
 
 De A Artículo
 
--Usar claxon o cornetas de aire
+- Usar claxon o cornetas de aire
 
 en forma inmoderada. 5 10 58
 
--Proferir insultos. 10 20 58
+- Proferir insultos. 10 20 58
 
--Usar sirenas de emergencia en
+- Usar sirenas de emergencia en
 
 vehículos no oficiales. 80 100 42
 
@@ -1777,17 +1839,17 @@ CRISTALES
 
 De A Artículo
 
--Falta de cristales laterales. 5 10 35, VIII
+- Falta de cristales laterales. 5 10 35, VIII
 
--Parabrisas agrietado. 5 10 44
+- Parabrisas agrietado. 5 10 44
 
--Medallón agrietado. 5 10 44
+- Medallón agrietado. 5 10 44
 
--Usar cristales astillables. 10 20 35 VIII, 44
+- Usar cristales astillables. 10 20 35 VIII, 44
 
--Falta de parabrisas o medallón. 10 20 35, VIII
+- Falta de parabrisas o medallón. 10 20 35, VIII
 
--Usar cristales o accesorios en los mismos
+- Usar cristales o accesorios en los mismos
 
 que impidan la visibilidad. 15 25 45
 
@@ -1795,31 +1857,31 @@ EQUIPAMIENTO VEHICULAR
 
 De A Artículo
 
--No utilizar banderolas o reflejantes. 10 20 121
+- No utilizar banderolas o reflejantes. 10 20 121
 
--Extintor descargado. 5 10 41
+- Extintor descargado. 5 10 41
 
--Falta de banderolas o reflejantes. 10 20 43
+- Falta de banderolas o reflejantes. 10 20 43
 
--Falta de extintor. 5 10 41
+- Falta de extintor. 5 10 41
 
--Falta de herramienta indispensable
+- Falta de herramienta indispensable
 
 para el cambio de llantas. 3 5 43
 
--Falta de llanta de refacción. 3 5 43
+- Falta de llanta de refacción. 3 5 43
 
--Sistema de frenos en mal estado. 20 30 35, I
+- Sistema de frenos en mal estado. 20 30 35, I
 
--Falta de sistema de freno de mano o
+- Falta de sistema de freno de mano o
 
 en mal estado. 15 25 35, II
 
--Falta de una o ambas defensas según
+- Falta de una o ambas defensas según
 
 el tipo de vehículo. 10 20 35, V
 
--Usar volante distinto a las características
+- Usar volante distinto a las características
 
 de manufactura del vehículo. 20 30 47
 
@@ -1827,65 +1889,65 @@ ESPEJOS
 
 De A Artículo
 
--Falta del lateral izquierdo. 8 15 35, VII
+- Falta del lateral izquierdo. 8 15 35, VII
 
--Falta del retrovisor interior. 8 15 35, VII
+- Falta del retrovisor interior. 8 15 35, VII
 
 LIMPIADORES
 
 De A Artículo
 
--En notorio mal estado. 8 10 35, VIII
+- En notorio mal estado. 8 10 35, VIII
 
--Falta de uno o ambos. 8 10 35, VIII
+- Falta de uno o ambos. 8 10 35, VIII
 
 LUCES
 
 De A Artículo
 
--Falta de un faro. 5 10 35, III
+- Falta de un faro. 5 10 35, III
 
--Falta de ambos faros. 50 100 35, III
+- Falta de ambos faros. 50 100 35, III
 
--Falta del cambio de intensidad de la luz. 5 10 35, III
+- Falta del cambio de intensidad de la luz. 5 10 35, III
 
--Falta de luz en la placa. 3 5 35, IV
+- Falta de luz en la placa. 3 5 35, IV
 
--Falta de direccionales. 10 20 35, IV
+- Falta de direccionales. 10 20 35, IV
 
--Falta de luces demarcadoras (carga). 10 20 35, IV
+- Falta de luces demarcadoras (carga). 10 20 35, IV
 
--Falta de luz en el tablero de instrumentos. 3 5 35, IV
+- Falta de luz en el tablero de instrumentos. 3 5 35, IV
 
--Falta de luz en banderola de ruta. 3 5 35, IV
+- Falta de luz en banderola de ruta. 3 5 35, IV
 
--Falta de luces en motocicleta o bicicleta. 5 10 40
+- Falta de luces en motocicleta o bicicleta. 5 10 40
 
--Falta de cuartos o reflejantes
+- Falta de cuartos o reflejantes
 
 en motocicleta o bicicleta. 10 20 40
 
--Falta de luz interior en transporte público. 5 10 35, IV
+- Falta de luz interior en transporte público. 5 10 35, IV
 
--Falta de cuartos en la parte del frente. 5 15 35, IV
+- Falta de cuartos en la parte del frente. 5 15 35, IV
 
--Falta de cuartos en la parte trasera. 10 15 35, IV
+- Falta de cuartos en la parte trasera. 10 15 35, IV
 
--Falta de luces intermitentes. 10 15 35, IV
+- Falta de luces intermitentes. 10 15 35, IV
 
--Falta de luces en el remolque
+- Falta de luces en el remolque
 
 o semiremolque. 20 30 35, IV
 
--Traer faros de luz blanca en la parte
+- Traer faros de luz blanca en la parte
 
 posterior. 30 40 42
 
--Dispositivos extras de iluminación que
+- Dispositivos extras de iluminación que
 
 deslumbren o molesten a terceros. 30 40 42
 
--Usar luces de emergencia
+- Usar luces de emergencia
 
 (torteas roja o azul), sin autorización. 80 100 42
 
@@ -1893,25 +1955,25 @@ PARTES INTEGRALES DE UN VEHÍCULO
 
 De A Artículo
 
--Falta de salpicaderas. 3 5 48, I
+- Falta de salpicaderas. 3 5 48, I
 
--Falta de cofre. 3 5 48, II
+- Falta de cofre. 3 5 48, II
 
--Falta de capacete. 15 20 48, III
+- Falta de capacete. 15 20 48, III
 
--Falta de portezuelas. 10 20 48, IV
+- Falta de portezuelas. 10 20 48, IV
 
--Falta de cajuela. 3 5 48, V
+- Falta de cajuela. 3 5 48, V
 
--Falta de loderas (carga). 3 5 48, VI
+- Falta de loderas (carga). 3 5 48, VI
 
--Falta de defensas. 3 5 35, V
+- Falta de defensas. 3 5 35, V
 
--Falta de depósito adecuado para
+- Falta de depósito adecuado para
 
 combustible. 5 10 35, XI
 
--Carrocería en mal estado (colgajos)
+- Carrocería en mal estado (colgajos)
 
 que ponga en riesgo la seguridad. 15 20 171, IV
 
@@ -1919,17 +1981,17 @@ SISTEMA DE SUSPENSIÓN
 
 De A Artículo
 
--Suspensión en notorio mal estado. 5 20 35, IX
+- Suspensión en notorio mal estado. 5 20 35, IX
 
--Neumáticos en mal estado. 5 10 35, IX
+- Neumáticos en mal estado. 5 10 35, IX
 
 ALINEACIÓN
 
 De A Artículo
 
--Alineación notoriamente incorrecta. 5 20 46
+- Alineación notoriamente incorrecta. 5 20 46
 
--Sistema de dirección en mal estado. 10 25 46
+- Sistema de dirección en mal estado. 10 25 46
 
 III.- DE LA CIRCULACIÓN
 
@@ -1937,35 +1999,35 @@ ACCIDENTES
 
 De A Artículo
 
--Por causar daños a bienes del Estado. 40 50 136
+- Por causar daños a bienes del Estado. 40 50 136
 
--Por causar daños en propiedad privada. 30 40 147
+- Por causar daños en propiedad privada. 30 40 147
 
--Por producir accidente con herido. 80 150 137
+- Por producir accidente con herido. 80 150 137
 
--Por abandono del pasaje en el camino. 20 30 137
+- Por abandono del pasaje en el camino. 20 30 137
 
--Por abandono de vehículo ocasionando
+- Por abandono de vehículo ocasionando
 
 accidente. 20 30 124,
 
--Por ocasionar accidente al
+- Por ocasionar accidente al
 
 obstruir la vía pública. 10 20 121
 
--Por producir accidente causando muerto. 100 300 137, 139
+- Por producir accidente causando muerto. 100 300 137, 139
 
--Por abandono de víctimas y vehículo. 100 300 137
+- Por abandono de víctimas y vehículo. 100 300 137
 
--Por no esperar el arribo de la autoridad. 80 150 137, 139
+- Por no esperar el arribo de la autoridad. 80 150 137, 139
 
--Por no informar de accidente ocurrido. 30 50 139
+- Por no informar de accidente ocurrido. 30 50 139
 
--Por no apoyar en caso de accidente los
+- Por no apoyar en caso de accidente los
 
 conductores que pasen por el lugar. 10 20 140
 
--Por no ponerse a disposición de la autoridad
+- Por no ponerse a disposición de la autoridad
 
 el conductor que ocasionó accidente. 40 50 139
 
@@ -1975,7 +2037,7 @@ AGRESIONES
 
 De A Artículo
 
--Agresión física o verbal a los oficiales de
+- Agresión física o verbal a los oficiales de
 
 tránsito o a terceros. 30 80 171, I
 
@@ -1983,25 +2045,25 @@ BICIMOTOS Y BICICLETAS
 
 De A Artículo
 
--Por transitar más de dos vehículo de
+- Por transitar más de dos vehículo de
 
 forma paralela en un carril. 3 5 101, II
 
--Falta de timbre o corneta. 3 5 40
+- Falta de timbre o corneta. 3 5 40
 
--Viajar dos o más personas en bicicleta
+- Viajar dos o más personas en bicicleta
 
 o motocicleta no adaptada para ello. 3 5 100
 
--Por no usar casco y anteojos de protección
+- Por no usar casco y anteojos de protección
 
 conductor y ocupante. 5 10 101, III
 
--Por realizar maniobras imprudentes en
+- Por realizar maniobras imprudentes en
 
 la vía pública. 20 30 101, IV
 
--Por transitar sobre las aceras o áreas
+- Por transitar sobre las aceras o áreas
 
 destinadas para uso de los peatones. 10 20 101, I
 
@@ -2009,41 +2071,41 @@ CARGA
 
 De A Artículo
 
--Transportar personas en el lugar destinado
+- Transportar personas en el lugar destinado
 
 a la carga sin las precauciones. 20 30 95, IX
 
--Transportar carga pestilente o repugnante
+- Transportar carga pestilente o repugnante
 
 sin las precauciones necesarias. 15 25 87
 
--Carga obstruyendo la visibilidad posterior,
+- Carga obstruyendo la visibilidad posterior,
 
 delantera o lateral. 10 20 159
 
--Cargar y descargar fuera de
+- Cargar y descargar fuera de
 
 los horarios fijados. 5 10 159
 
--Por no cubrir adecuadamente, la carga
+- Por no cubrir adecuadamente, la carga
 
 que así lo requiera. 10 20 87
 
--Transportar carga mal asegurada. 10 20 87
+- Transportar carga mal asegurada. 10 20 87
 
--Transportar carga sobresaliente hacia atrás
+- Transportar carga sobresaliente hacia atrás
 
 o a los lados sin la autorización. 20 30 160
 
--Por falta de garroteros que impidan
+- Por falta de garroteros que impidan
 
 la destrucción de líneas eléctricas. 15 25 163
 
--Por exceso de altura más de 4
+- Por exceso de altura más de 4
 
 cuatro metros. 20 30 161
 
--Por falta de señalamientos y protección
+- Por falta de señalamientos y protección
 
 en vehículos con exceso de dimensiones. 150 250 160
 
@@ -2051,61 +2113,61 @@ CIRCULACIÓN
 
 De A Artículo
 
--No circular por el lado derecho. 5 10 96, I
+- No circular por el lado derecho. 5 10 96, I
 
--Circular motocicletas, bicicletas,
+- Circular motocicletas, bicicletas,
 
 jinetes en zonas no permitidas. 5 10 101
 
--Circular sobre líneas demarcadoras del carril,
+- Circular sobre líneas demarcadoras del carril,
 
 diagonales u horizontales. 10 20 61, III
 
--Manejar con menores, objetos o animales
+- Manejar con menores, objetos o animales
 
 adjunto al conductor y volante. 20 40 96, II, IX
 
--Circular con partes corporales
+- Circular con partes corporales
 
 fuera del vehículo. 20 30 96, II
 
--Abrir las puertas repentinamente
+- Abrir las puertas repentinamente
 
 provocando accidente. 15 30 95 X, 96 II
 
--Cambiar de dirección sin hacer el
+- Cambiar de dirección sin hacer el
 
 señalamiento correspondiente. 10 20 84, 85
 
--Circular en sentido contrario. 50 60 95, XVII
+- Circular en sentido contrario. 50 60 95, XVII
 
--Por no guardar la distancia con el vehículo
+- Por no guardar la distancia con el vehículo
 
 que le precede. 20 30 96, V
 
--Circular en zonas peatonales. 20 30 95, VI
+- Circular en zonas peatonales. 20 30 95, VI
 
--Circular vehículos pesados en
+- Circular vehículos pesados en
 
 zonas restringidas. 30 50 162
 
--Circular fuera de horas permitidas para
+- Circular fuera de horas permitidas para
 
 maquinaria y similares en la vía pública. 50 60 88
 
--Circular vehículos de dimensiones mayores
+- Circular vehículos de dimensiones mayores
 
 a las reglamentarias. 80 150 165
 
--Entorpecer la marcha de cortejos,
+- Entorpecer la marcha de cortejos,
 
 peregrinaciones, competencias deportivas. 15 20 95, XI
 
--Por no encender las luces intermitentes antes
+- Por no encender las luces intermitentes antes
 
 de la vía de ferrocarril. 5 10 80
 
--Obstaculizar o impedir voluntariamente
+- Obstaculizar o impedir voluntariamente
 
 la circulación de vehículos en vía pública 10 20 95, VII
 
@@ -2113,23 +2175,29 @@ MANEJO
 
 De A Artículo
 
--Permitir a menores viajar colgados
+- Permitir a menores viajar colgados
 
 en la parte trasera del vehículo. 5 10 95, IX
 
--Manejar estando suspendido. 20 30 171, X
+- Manejar estando suspendido. 20 30 171, X
 
--Manejar bajo influjo de psicotrópicos,
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2008)</small>
 
-enervantes o bebidas embriagantes. 10 15 95, XII
+- Manejar en estado de ebriedad o bajo el,
 
--Realizar prácticas de manejo sin experiencia
+influjo de estupefacientes, psicotrópicos 10 15 95, XII
+
+o cualquier otra sustancia que produzca
+
+efectos similares.
+
+- Realizar prácticas de manejo sin experiencia
 
 en zonas de intenso tránsito. 20 30 96, VIII
 
--Manejar con licencia de otra persona. 30 40 183
+- Manejar con licencia de otra persona. 30 40 183
 
--Manejar en visible y notorio estado
+- Manejar en visible y notorio estado
 
 de ebriedad, arresto o multa. 100 120 177
 
@@ -2137,15 +2205,15 @@ PREFERENCIA
 
 De A Artículo
 
--No hacer alto frente a vías de
+- No hacer alto frente a vías de
 
 circulación preferencial. 15 25 75
 
--No permitir la preferencia a peatones
+- No permitir la preferencia a peatones
 
 o personas con capacidades diferentes. 15 25 96, III
 
--No darla a: ambulancias, patrullas, bomberos
+- No darla a: ambulancias, patrullas, bomberos
 
 o convoys militares. 20 30 74
 
@@ -2153,29 +2221,29 @@ REBASAR
 
 De A Artículo
 
--En zona no autorizada. 10 15 83
+- En zona no autorizada. 10 15 83
 
--Sin anunciarse con las direccionales
+- Sin anunciarse con las direccionales
 
 o con señales del brazo izquierdo. 10 15 82
 
--Por el lado derecho. 10 15 95, III
+- Por el lado derecho. 10 15 95, III
 
--Estando a punto de causar accidente. 10 15 83
+- Estando a punto de causar accidente. 10 15 83
 
--A vehículo que se encuentre rebasando. 20 30 95, II
+- A vehículo que se encuentre rebasando. 20 30 95, II
 
--Por rebasar en línea continua. 20 30 83, IV
+- Por rebasar en línea continua. 20 30 83, IV
 
--Por rebasar vehículos por el acotamiento. 25 35 95, III
+- Por rebasar vehículos por el acotamiento. 25 35 95, III
 
--Por rebasar cuando se acerca a la cima
+- Por rebasar cuando se acerca a la cima
 
 de una pendiente o curva. 25 35 83, II
 
--En crucero. 20 30 83, III
+- En crucero. 20 30 83, III
 
--Por rebasar en un crucero o
+- Por rebasar en un crucero o
 
 paso de ferrocarril. 20 30 83, III
 
@@ -2183,7 +2251,7 @@ REMOLCAR
 
 De A Artículo
 
--Remolcar vehículo sin los aditamentos
+- Remolcar vehículo sin los aditamentos
 
 requeridos. 10 20 96, XI
 
@@ -2191,205 +2259,205 @@ REVERSA
 
 De A Artículo
 
--Efectuarla en vías públicas terrestre por más
+- Efectuarla en vías públicas terrestre por más
 
 de 20 veinte metros. 10 15 86
 
--Efectuarla en rampas de salida de autopistas. 20 30 86
+- Efectuarla en rampas de salida de autopistas. 20 30 86
 
 SEÑALES DE TRÁNSITO
 
 De A Artículo
 
--No obedecer señal de vuelta continua
+- No obedecer señal de vuelta continua
 
 a la derecha. 5 10 49, 56
 
--No obedecer señal de sólo vuelta
+- No obedecer señal de sólo vuelta
 
 a la izquierda. 5 10 49, 56
 
--No obedecer señal de circulación
+- No obedecer señal de circulación
 
 obligatoria. 5 10 49, 56
 
--No obedecer señal de doble circulación. 5 10 49, 56
+- No obedecer señal de doble circulación. 5 10 49, 56
 
--No obedecer señal de parada suprimida. 5 10 49, 56
+- No obedecer señal de parada suprimida. 5 10 49, 56
 
--No obedecer señal de estacionamiento
+- No obedecer señal de estacionamiento
 
 prohibido a determinada hora. 5 10 49, 56
 
--No obedecer señal de estacionamiento
+- No obedecer señal de estacionamiento
 
 permitido por hora. 5 10 49, 56
 
--No obedecer señal de principio prohibido
+- No obedecer señal de principio prohibido
 
 estacionarse. 5 10 49, 56
 
--No obedecer señal de termina prohibido
+- No obedecer señal de termina prohibido
 
 estacionarse. 5 10 49, 56
 
--No obedecer señal de prohibido el paso
+- No obedecer señal de prohibido el paso
 
 de vehículos de tracción animal. 5 10 49, 56
 
--No obedecer señal de prohibido el paso
+- No obedecer señal de prohibido el paso
 
 a bicicletas. 5 10 49, 56
 
--No obedecer señal de prohibido el paso
+- No obedecer señal de prohibido el paso
 
 a peatones. 8 15 49, 56
 
--No obedecer señal de prohibido
+- No obedecer señal de prohibido
 
 las señales acústicas. 5 10 49, 56
 
--No obedecer señal de no pasar. 5 10 49, 56
+- No obedecer señal de no pasar. 5 10 49, 56
 
--No obedecer señal de alto. 20 30 49, 56
+- No obedecer señal de alto. 20 30 49, 56
 
--No obedecer señal de ceder el paso. 20 30 49, 56
+- No obedecer señal de ceder el paso. 20 30 49, 56
 
--No obedecer señal de conservar su derecha. 10 20 49, 56
+- No obedecer señal de conservar su derecha. 10 20 49, 56
 
--No obedecer señal de altura libre restringida. 10 15 49, 56
+- No obedecer señal de altura libre restringida. 10 15 49, 56
 
--No obedecer señal de anchura libre
+- No obedecer señal de anchura libre
 
 restringida. 10 15 49, 56
 
--No obedecer señal de peso máximo
+- No obedecer señal de peso máximo
 
 restringido. 80 100 49, 56
 
--No obedecer señal de prohibido rebasar. 20 30 49, 56
+- No obedecer señal de prohibido rebasar. 20 30 49, 56
 
--No obedecer señal de prohibido
+- No obedecer señal de prohibido
 
 vuelta a la derecha. 15 20 49, 56
 
--No obedecer señal de prohibido vuelta
+- No obedecer señal de prohibido vuelta
 
 a la izquierda. 15 20 49, 56
 
--No obedecer señal de prohibido retorno. 15 20 49, 56
+- No obedecer señal de prohibido retorno. 15 20 49, 56
 
--No obedecer señal de prohibido de frente. 15 20 49, 56
+- No obedecer señal de prohibido de frente. 15 20 49, 56
 
--No obedecer señal de prohibido circulación
+- No obedecer señal de prohibido circulación
 
 a maquinaria agrícola, ni horario. 20 30 49, 56
 
--No obedecer señal de prohibido el paso
+- No obedecer señal de prohibido el paso
 
 a vehículos pesados. 80 100 49, 56
 
--No obedecer las señales del
+- No obedecer las señales del
 
 Oficial de Tránsito. 10 20 55
 
--No obedecer las señales de auxiliares
+- No obedecer las señales de auxiliares
 
 de vialidad: escuelas, reparación caminos. 5 10 49, 56
 
--No obedecer semáforo en luz roja. 10 20 52
+- No obedecer semáforo en luz roja. 10 20 52
 
--No obedecer señal de alto en crucero
+- No obedecer señal de alto en crucero
 
 de vías públicas o ferrocarril. 20 30 49, 56
 
--Dañar, destruir u obstruir la visibilidad
+- Dañar, destruir u obstruir la visibilidad
 
 de las señales de tránsito. 20 30 68
 
--No obedecer señal de límite de velocidad. 20 50 71
+- No obedecer señal de límite de velocidad. 20 50 71
 
-IV.-DE LA VÍA PÚBLICA
+IV.- DE LA VÍA PÚBLICA
 
 COMPETENCIAS DEPORTIVAS
 
 De A Artículo
 
--Efectuadas sin las medidas
+- Efectuadas sin las medidas
 
 de seguridad adecuadas. 10 15 92
 
--Efectuadas en horarios distintos
+- Efectuadas en horarios distintos
 
 al autorizado. 10 15 92
 
--Hacer actos inseguros, descorteces
+- Hacer actos inseguros, descorteces
 
 acrobáticos o peligrosos en vehículos. 5 10 95, XV
 
--Efectuarse sin permiso en la vía pública. 10 15 92
+- Efectuarse sin permiso en la vía pública. 10 15 92
 
--Efectuarlas en lugares distintos al autorizado. 10 15 92
+- Efectuarlas en lugares distintos al autorizado. 10 15 92
 
 ESTACIONAMIENTO
 
 De A Artículo
 
--Estacionarse sobre la línea de
+- Estacionarse sobre la línea de
 
 cruce de peatones. 5 10 117, V
 
--Estacionarse en lugares de cuota,
+- Estacionarse en lugares de cuota,
 
 sin efectuarlas. 5 10 117, XIV
 
--Estacionarse simulando una falla mecánica
+- Estacionarse simulando una falla mecánica
 
 en lugar no permitido. 5 10 122
 
--Estacionarse en doble fila. 5 10 117, XII
+- Estacionarse en doble fila. 5 10 117, XII
 
--Estacionarse en las zonas donde
+- Estacionarse en las zonas donde
 
 la guarnición esté pintada de amarillo. 5 10 117, X
 
--Estacionarse en lugar prohibido. 5 10 117
+- Estacionarse en lugar prohibido. 5 10 117
 
--Estacionarse en sentido contrario. 5 10 124
+- Estacionarse en sentido contrario. 5 10 124
 
--Estacionarse fuera del límite. 5 10 117, X
+- Estacionarse fuera del límite. 5 10 117, X
 
--Estacionarse entre el acotamiento y
+- Estacionarse entre el acotamiento y
 
 la superficie de rodamiento. 5 10 117
 
--Estacionarse frente a cocheras o accesos
+- Estacionarse frente a cocheras o accesos
 
 de entrada o salidas de vehículos. 5 10 117, III
 
--Estacionarse sobre: aceras, camellones,
+- Estacionarse sobre: aceras, camellones,
 
 andadores y jardines. 5 10 117, XI
 
--Estacionarse sobre: la superficie de
+- Estacionarse sobre: la superficie de
 
 rodamiento, puente o paso a desnivel. 5 10 117, VII
 
--Estacionarse en paradas de autobuses. 5 10 117, II
+- Estacionarse en paradas de autobuses. 5 10 117, II
 
--Estacionarse donde se obstruya la visibilidad
+- Estacionarse donde se obstruya la visibilidad
 
 de los señalamientos viales. 5 10 117, IV
 
--Estacionarse en los accesos para
+- Estacionarse en los accesos para
 
 las personas con capacidades diferentes. 5 10 117, VI
 
--Estacionarse en las zonas autorizadas de
+- Estacionarse en las zonas autorizadas de
 
 carga y descarga. 5 10 117, IX
 
--Estacionarse en la salida de vehículos de
+- Estacionarse en la salida de vehículos de
 
 emergencia y frente a hospitales. 10 20 117, I
 
@@ -2397,29 +2465,29 @@ REPARACIONES
 
 De A Artículo
 
--En la vía pública por parte de negocios
+- En la vía pública por parte de negocios
 
 o talleres (por vehículo). 10 15 123
 
-V.-DEL MEDIO AMBIENTE
+V.- DEL MEDIO AMBIENTE
 
 De A Artículo
 
--Falta de escape. 10 15 35, VI
+- Falta de escape. 10 15 35, VI
 
--Escape abierto. 10 15 128
+- Escape abierto. 10 15 128
 
--Modificación al sistema original de escape,
+- Modificación al sistema original de escape,
 
 que produzca ruido excesivo. 10 15 35, VI
 
--Abandonar vehículo o partes automotrices
+- Abandonar vehículo o partes automotrices
 
 en la vía pública. 10 20 128
 
--Que el vehículo emita humo en exceso. 10 30 128
+- Que el vehículo emita humo en exceso. 10 30 128
 
--Que el conductor o pasajeros de un vehículo,
+- Que el conductor o pasajeros de un vehículo,
 
 arrojen basura del interior del vehículo. 10 30 95, XVIII
 
@@ -2497,7 +2565,9 @@ Artículo Segundo.- Se abroga el Decreto Gubernativo Número 110, mediante el cu
 
 Artículo Tercero.- Se abroga el Decreto Gubernativo Número 51, mediante el cual se reforma el artículo 47 del Reglamento de Tránsito de la Ley de Tránsito y Transporte del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado Número ñ52, Segunda Parte, de fecha 29 veintinueve de junio del 2001 dos mil uno.
 
-Artículo Cuarto.- Se abroga el Decreto Gubernativo Número 123, mediante el cual se reforman y adicionan diversos artículos del Reglamento de Tránsito de la Ley de Tránsito y Transporte del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado Número 98, Segunda Parte, de fecha 16 dieciséis de agosto del 2002 dos mil dos.
+Artículo Cuarto.- Se abroga el Decreto Gubernativo Número 123, mediante el cual se reforman y adicionan diversos artículos del Reglamento de Tránsito de la Ley de Tránsito y Transporte del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado Número 98, Segunda Parte, de fecha
+
+16 dieciséis de agosto del 2002 dos mil dos.
 
 Artículo Quinto.- Se derogan todas las disposiciones que se opongan a este Reglamento.
 
@@ -2510,3 +2580,9 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2008.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
