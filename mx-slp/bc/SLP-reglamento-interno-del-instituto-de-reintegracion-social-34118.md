@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interno-del-instituto-de-reintegracion-social-34118"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2003-09-09"
+last_updated: "2008-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE REINTEGRACION SOCIAL RAFAEL NIETO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el martes 9 de septiembre de 2003.
 
@@ -241,13 +241,17 @@ IX. Las demás que le encomiende el Director General y la Junta de Gobierno.
 
 ###### ARTICULO 15.
 
-Corresponde al Area Académica:
+Corresponde al Área Académica:
 
-l. Tiene bajo su responsabilidad la dirección académica de la primaria;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2008)</small>
 
-II. Dirigir la primaria de acuerdo a los lineamientos establecidos por el Sistema Educativo Estatal Regular;
+l. Determinar en coordinación con el Director General, el número máximo de alumnos por salón, a efecto de brindar una atención especializada;
 
-III. Coordinar las actividades extracurriculares que llevan a cabo los externos;
+II. (REFORMADA [N. DE E. DEROGADA], P.O. 14 DE OCTUBRE DE 2008)
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2008)</small>
+
+III. Apoyar las actividades extracurriculares que llevan a cabo los externos, bajo la supervisión del Director General;
 
 IV. Mantener siempre informado al Director General de las incidencias que se presenten;
 
@@ -412,3 +416,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al entrar en vigor el presente Decreto.
