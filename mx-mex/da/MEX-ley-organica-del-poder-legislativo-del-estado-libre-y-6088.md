@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2008-10-13"
+last_updated: "2008-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE OCTUBRE DE 2008.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1039,9 +1039,9 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Apoyo y Atención al Migrante
 
-> <small>(ADICIONADO, G.G. 13 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2008)</small>
 
-- Participación Ciudadana
+- Participación Ciudadana.
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1057,11 +1057,11 @@ Por conducto de la Secretaría de Asuntos Parlamentarios, las comisiones y comit
 
 Los Secretarios Técnicos, podrán ser removidos por el presidente de la Comisión Legislativa o Comité Permanente correspondiente.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 71.
 
-Los diputados podrán ser miembros de hasta cuatro comisiones legislativas y de cuatro comités, pudiendo integrarse a otros como asociadas; en este último caso, tendrán voz pero no voto. Los diputados presidirán una sola comisión legislativa.
+En el caso de que los diputados no sean miembro (sic) de las comisiones o de los comités, podrán integrarse como asociados, con voz pero sin voto. Los diputados presidirán una sola comisión legislativa.
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1689,7 +1689,7 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-G.G. 13 DE OCTUBRE DE 2008
+G.G. 13 DE OCTUBRE DE 2008.
 
 DECRETO NO. 207, POR EL QUE SE ADICIONA UN PENULTIMO PARRAFO AL ARTICULO 69 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
 
@@ -1700,3 +1700,9 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 14 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
