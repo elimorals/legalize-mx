@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2008-10-06"
+last_updated: "2008-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE OCTUBRE DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4873,6 +4873,10 @@ Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones
 
 36.- Los concesionarios o permisionarios de los servicios de transporte podrán prestarlos con vehículos de su propiedad o en su posesión, en los términos que señalen las disposiciones reglamentarias.
 
+> <small>(ADICIONADO, G.G. 14 DE OCTUBRE DE 2008)</small>
+
+Queda prohibido el otorgamiento de concesión, permiso o autorización a vehículos tipo motocicleta o similar, de propulsión mecánica, para la prestación del servicio público de transporte de pasajeros.
+
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 7.
@@ -5359,6 +5363,12 @@ VII. Vidrios polarizados, oscurecidos o aditamentos que obstruyan la visibilidad
 
 VIII. Transportar más de 10 kilogramos de artículos pirotécnicos, salvo que cuenten con permiso expedido por la autoridad competente y que cumpla las medidas de seguridad necesarias, para transportar artículos peligrosos.
 
+> <small>(ADICIONADO, G.G. 14 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 8.
+
+14 Bis.- Queda prohibido el uso de vehículos tipo motocicleta o similar para prestar el servicio público de transporte de pasajeros.
+
 ###### Artículo 8.
 
 15.- Las autoridades de tránsito podrán establecer restricciones para el tránsito de vehículos con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público.
@@ -5411,13 +5421,13 @@ k) Efectuar carreras o arrancones en la vía pública;
 
 l) Obstruir los accesos y espacios destinados a las personas con capacidades diferentes.
 
+### CAPITULO PRIMERO. Del objeto y finalidad
+
 ###### Artículo 8.
 
 17.- Los municipios podrán otorgar permisos para el establecimiento de estacionamientos de servicio al público, los cuales tendrán las instalaciones necesarias para la seguridad de las personas y de los vehículos, respondiendo por los daños que a los mismos se ocasionen.
 
 Para efectos del párrafo anterior, se consideran estacionamientos de servicio al público, los locales destinados a la prestación al público del servicio de recepción, guarda y protección de vehículos a cambio del pago de una tarifa autorizada.
-
-### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 8.
 
@@ -5431,6 +5441,10 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 > <small>(DEROGADO ULTIMO PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
+## TITULO SEGUNDO. Del tránsito
+
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
 ###### Artículo 8.
 
 19.- Las autoridades de tránsito están facultadas para:
@@ -5443,9 +5457,7 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-## TITULO SEGUNDO. Del tránsito
-
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO TERCERO. De los consejos consultivos económicos
 
 ###### Artículo 8.
 
@@ -5468,8 +5480,6 @@ VII. Por interferir, obstaculizar o impedir deliberadamente la circulación de v
 VIII. Cuando lo establezcan otras disposiciones legales.
 
 En los casos a que se refiere este artículo, salvo tratándose de la fracción VI, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
-
-### CAPITULO TERCERO. De los consejos consultivos económicos
 
 ###### Artículo 8.
 
@@ -10872,3 +10882,9 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de sesenta días naturales para llevar a cabo las modificaciones al Reglamento de Salud del Estado de México, y demás disposiciones que deban adecuarse en virtud del presente decreto.
+
+G.G. 14 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
