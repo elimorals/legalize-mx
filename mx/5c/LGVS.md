@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2007-02-01"
+last_updated: "2008-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -720,6 +720,18 @@ Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de
 
 Ningún ejemplar de tortuga marina, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, incluyendo sus partes y derivados.
 
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 60 Bis 2.
+
+Ningún ejemplar de ave correspondiente a la familia Psittacidae o psitácido, cuya distribución natural sea dentro del territorio nacional, podrá ser sujeto de aprovechamiento extractivo con fines de subsistencia o comerciales.
+
+La Secretaría sólo podrá otorgar autorizaciones de aprovechamiento extractivo con fines de conservación o investigación científica. Únicamente se otorgarán autorizaciones para investigación científica a instituciones académicas acreditadas.
+
+Queda prohibida la importación, exportación y reexportación de cualquier ejemplar de ave correspondiente a la familia Psittacidae o psitácido, cuya distribución natural sea dentro del territorio nacional.
+
+Las especies de psitácidos no comprendidas en el presente artículo quedan sujetas a las disposiciones previstas en las demás leyes y Tratados Internacionales de los cuales México sea parte.
+
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 60 Ter.
@@ -1399,3 +1411,69 @@ D.O.F. 1 DE FEBRERO DE 2007.
 Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Con la entrada en vigor del presente Decreto se derogan todas las disposiciones legales que contravengan al mismo.
+
+D.O.F. 14 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las autorizaciones para el aprovechamiento extractivo de ejemplares de psitácidos, cuya distribución natural sea dentro del territorio nacional, otorgados con anterioridad a la publicación del presente decreto mantendrán su vigencia, pero no podrán renovarse.
+
+TERCERO.- Los criaderos de ejemplares de psitácidos cuya distribución natural sea dentro del territorio nacional, legalmente acreditados ante la Secretaría, podrán continuar operando únicamente con fines de conservación en los términos del presente decreto.
+
+CUARTO.- Para los efectos del presente decreto son psitácidos de distribución natural dentro del territorio nacional los siguientes:
+
+Aratinga holochlora
+
+Aratinga holochlora brevipes
+
+Aratinga holochlora brewsteri
+
+Aratinga strenua
+
+Aratinga brevipes
+
+Aratinga nana
+
+Aratinga canicularis
+
+Ara militaris
+
+Ara macao
+
+Rhynchopsitta pachyrhyncha
+
+Rhynchopsitta terrisi
+
+Bolborhynchus lineola
+
+Forpus cyanopygius
+
+Forpus cyanopygius insularis
+
+Brotogeris jugularis
+
+Pionopsitta haematotis
+
+Pionus seniles
+
+Amazona albifrons
+
+Amazona xantholora
+
+Amazona viridigenalis
+
+Amazona finschi
+
+Amazona autumnalis
+
+Amazona farinosa
+
+Amazona oratrix
+
+Amazona oratrix tresmariae
+
+Amazona auropalliata
+
+o sus equivalentes de conformidad con la nomenclatura científica aplicable y cualquier otra ave de esta misma familia que fuese descubierta dentro del territorio nacional.
+
+QUINTO.- Quedan derogadas todas las disposiciones que se opongan al presente decreto.
