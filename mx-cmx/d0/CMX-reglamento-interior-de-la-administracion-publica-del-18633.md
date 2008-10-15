@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-09-11"
+last_updated: "2008-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -324,17 +324,21 @@ C) Procuraduría Fiscal del Distrito Federal, a la que quedan adscritas:
 
 4. Subprocuraduría de Asuntos Penales.
 
-D) Dirección General de Administración Financiera.
+D) (DEROGADO, G.O. 15 DE OCTUBRE DE 2008)
 
 > <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2001)</small>
 
 E) Dirección General de Informática.
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2008)</small>
 
-F) Subsecretaría de Planeación:
+F) Subsecretaría de Planeación Financiera.
 
-1.- Dirección Ejecutiva de Enlace Interinstitucional.
+1.- Dirección General de Enlace Interinstitucional.
+
+2.- Dirección General de Administración Financiera.
+
+3.- Unidad de Evaluación del Ingreso Gasto.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -1408,31 +1412,59 @@ XXIV. Asesorar a las unidades responsables cuando lo soliciten, respecto de las 
 
 XXV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 34 Bis.
 
-Corresponde al titular de la Subsecretaría de Planeación:
+Corresponde a la Subsecretaría de Planeación Financiera:
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 I. Vincular la presupuestación al Sistema de Planeación del Distrito Federal a través de los Programas Operativos Anuales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública, asegurando la correspondencia del Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal:
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 II. Realizar actividades relativas a la planeación y evaluación presupuestal, en relación al desarrollo e impacto social, económico y financiero de los programas de gobierno;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 III. Coordinar el análisis costo beneficio de los principales proyectos de inversión, así como el desarrollo y puesta en marcha de los principales proyectos;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 IV. Participar en la supervisión de los programas especiales en materia de Planeación y Desarrollo Territorial, a fin de evaluar el impacto de los mismos en el Programa General de Desarrollo del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 V. Elaborar diagnósticos, fijar prioridades y diseñar las estrategias que ordenen las acciones para la aplicación de los recursos presupuestales del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 VI. Proponer políticas y estrategias para eficientar el manejo de las finanzas públicas de acuerdo al Programa General de Desarrollo del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 VII. Colaborar en la elaboración de planes y programas Sectoriales, Delegacionales y Territoriales que emanen del Comité de Planeación del Desarrollo del Distrito Federal (COPLADE), dentro del marco de la Ley de Planeación del Desarrollo del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 VIII. Promover propuestas de coordinación con la federación, estados, municipios y delegaciones, en materia de planeación;
 
-IX. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de colaboración admnistrativa (sic) en materia fiscal federal y local, en términos de las leyes y reglamentos aplicables; y
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-X. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+IX. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de colaboración admnistrativa (sic) en materia fiscal federal y local, en términos de las leyes y reglamentos aplicables; y (sic)
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+
+XI. Rendir cuentas, conjuntamente con la Tesorería del Distrito Federal, de las operaciones coordinadas a la Secretaria de Hacienda y Crédito Público, así como realizar las liquidaciones que, en su caso, corresponda, de conformidad con la Ley de Coordinación Fiscal; y
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+
+XII. Suscribir conjuntamente con el Secretario de Finanzas, los contratos y títulos de crédito, relativos al financiamiento del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2007)</small>
 
@@ -2222,7 +2254,7 @@ XIII. Analizar la problemática a la que se enfrenten los grupos y núcleos agra
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
-Artículo 48 Cuater.- Corresponde al titular de la Coordinación General de Proyectos Estratégicos y Enlace Gubernamental:
+Artículo 48 Cuater (SIC).- Corresponde al titular de la Coordinación General de Proyectos Estratégicos y Enlace Gubernamental:
 
 I. Establecer los enlaces institucionales entre las diferentes autoridades de la Administración Pública y los organismos empresariales, asociaciones religiosas y organizaciones sociales, para fortalecer las relaciones con la Administración Pública del Distrito Federal;
 
@@ -3154,7 +3186,7 @@ XX. Planear, operar y dirigir el funcionamiento y administración de las áreas 
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
-Artículo 56 Cuater.- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
+Artículo 56 Cuater (sic).- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
 
 > <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
 
@@ -3508,7 +3540,7 @@ XVI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como
 
 > <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
 
-Articulo 60 Cuater.- Corresponde a la Dirección General de la Planta de Asfalto:
+Articulo 60 Cuater (sic).- Corresponde a la Dirección General de la Planta de Asfalto:
 
 I. Instalar, operar y mantener el equipo técnico para producir agregados pétreos, mezclas y emulsiones asfálticas, que se requieran en la construcción y mantenimiento de los pavimentos de las vialidades a cargo del Gobierno del Distrito Federal, de conformidad con las disposiciones técnicas y jurídicas aplicables;
 
@@ -3626,7 +3658,7 @@ VI. Participar en coordinación con las Dependencias, Unidades Administrativas, 
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
-Artículo 64 Cuater.- Corresponde a la Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal:
+Artículo 64 Cuater (sic).- Corresponde a la Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal:
 
 I. Coordinar y orientar la instrumentación de las políticas dirigidas a niños, jóvenes y adultos mayores, en condición de abandono, situación de calle o víctimas de adicciones;
 
@@ -4126,15 +4158,15 @@ XIV. Elaborar estudios que muestren el panorama económico nacional y del Distri
 
 XV. Analizar el entero de las participaciones en ingresos federales, evaluando la aplicación de las disposiciones legales respectivas;
 
-XVI. Coordinar la participación de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en los distintos organismos del Sistema Nacional de Coordinación Fiscal;
+XVI. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
 XVII. (DEROGADA, G.O. 11 DE JULIO DE 2002)
 
-XVIII. Participar en la definición de propuestas de adecuaciones concernientes a las disposiciones legales que rigen la coordinación fiscal y la colaboración administrativa;
+XVIII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
 XIX. Elaborar los estudios relativos a las participaciones en ingresos federales que corresponden al Distrito Federal;
 
-XX. Coordinar el intercambio de información con la Secretaría de Hacienda y Crédito Público y con las entidades federativas;
+XX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
 XXI. Verificar y dar seguimiento al entero que por concepto de fondos de aportaciones federales le corresponde al Distrito Federal, en apego a las disposiciones legales aplicables; y
 
@@ -4874,7 +4906,7 @@ XIII. Coordinar y controlar la concentración de montos recaudados a través de 
 
 XIV. Evaluar los servicios bancarios proporcionados por las instituciones de crédito, así como los servicios auxiliares prestados por empresas porteadoras de valores;
 
-XV. Rendir cuentas, conjuntamente con la Tesorería del Distrito Federal, de las operaciones coordinadas a la Secretaría de Hacienda y Crédito Público, así como realizar las liquidaciones que, en su caso, corresponda, de conformidad con la Ley de Coordinación Fiscal;
+XV. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
 XVI. Controlar y registrar las fianzas y depósitos a favor del Gobierno del Distrito Federal;
 
@@ -4890,21 +4922,59 @@ XXI. Efectuar la devolución de los ingresos federales coordinados que procedan,
 
 XXII. Atender en la esfera de su competencia los asuntos relacionados con los movimientos de Ingresos y Egresos del Distrito Federal; y
 
-XXIII. Suscribir conjuntamente con el Secretario de Finanzas, los contratos y títulos de crédito, relativos al financiamiento del Distrito Federal.
+XXIII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 92 Bis.
 
-Corresponde a la Dirección Ejecutiva de Enlace Interinstitucional:
+Corresponde a la Dirección General de Enlace Interinstitucional:
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 I. Realizar investigaciones interdisciplinarias, de campo y documentales, con la finalidad de formular líneas de acción que coadyuven en el mejoramiento del servicio en materia hacendaria que se ofrece a la población del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 II. Establecer vínculos con instituciones y organizaciones públicas y privadas, que realicen acciones encaminadas a la implantación de programas presupuestales y financieros;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 III. Promover acciones de colaboración e intercambio interinstitucional, tanto a nivel local como nacional en el desarrollo de modelos funcionales, factibles de adaptarse a las características propias de los programas presupuestales del Distrito Federal;
 
-IV. Diseñar e instrumentar las estrategias de información y difusión de la Secretaría que tengan como finalidad dar a conocer a la población de la Ciudad de México los servicios que ofrece a la comunidad, así como los avances de la institución en el cumplimiento de sus programas.
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+IV. Diseñar e instrumentar las estrategias de información y difusión de la Secretaría que tengan como finalidad dar a conocer a la población de la Ciudad de México los servicios que ofrece a la comunidad, así como los avances de la institución en el cumplimiento de sus programas;
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+
+V. Coordinar la participación de las Dependencias, Unidades Administrativas, Órganos Político - Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en los distintos organismos del Sistema Nacional de
+
+Coordinación Fiscal;
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+
+VI. Participar en la definición de propuestas de adecuaciones concernientes a las disposiciones legales que rigen la coordinación fiscal y la colaboración administrativa; y
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
+
+VII. Coordinar el intercambio de información con la Secretaría de Hacienda y Crédito Público, con las entidades federativas y con organismos públicos y privados.
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 92 Bis 1.
+
+Corresponde a la Unidad de Evaluación del Ingreso Gasto:
+
+I. Formular los objetivos y estrategias para eficientar el manejo de las finanzas públicas en la elaboración del Programa General de Desarrollo del Distrito Federal;
+
+II. Analizar y evaluar los movimientos de los fondos públicos, a fin de facilitar la determinación de la disponibilidad financiera del Gobierno del Distrito Federal;
+
+III. Evaluar el comportamiento y tendencias de los ingresos y egresos respecto a lo presupuestado;
+
+IV. Establecer mecanismos de control para la evaluación de los resultados y la elaboración de las conciliaciones bancarias; y
+
+V. Evaluar los resultados sobre la administración del presupuesto de ingresos y egresos del Distrito Federal, presentando propuestas de simplificación y optimización de los procesos que involucran a sus usuarios.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -5265,64 +5335,6 @@ IX. Establecer un sistema de información sobre la regulación del transporte; y
 X. Proyectar y establecer las normas adecuadas para el funcionamiento de los Centros de Transferencia Modal, así como su operación y servicios, y propiciar los mecanismos de coordinación interinstitucional.
 
 (ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
-
-###### Artículo 95
-
-BIS.- Corresponde a la Dirección General de Servicio de Transporte Público Individual de Pasajeros en el Distrito Federal:
-
-I. Fomentar, impulsar, ordenar y regular el desarrollo del Servicio de Transporte Público Individual de Pasajeros, así como la infraestructura y equipamiento auxiliar del Servicio, en el Distrito Federal;
-
-II. Dictaminar las concesiones, permisos, y autorizaciones previstas en la Ley de Transporte del Distrito Federal y en las demás disposiciones jurídicas y administrativas aplicables, con estricta sujeción a las disposiciones, procedimientos y políticas establecidas por la Administración Pública del Distrito Federal;
-
-III. Dictaminar los proyectos para la prestación del Servicio de Transporte Público Individual de Pasajeros en el Distrito Federal, con base en las disposiciones jurídicas aplicables;
-
-IV. Programar, orientar, organizar y en su caso modificar la prestación del servicio, conforme a lo prescrito en la Ley de Transporte del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables;
-
-V. Promover, redistribuir, modificar y adecuar los sitios y bases del servicio, de acuerdo con las disposiciones jurídicas y administrativas aplicables;
-
-VI. Ejecutar las acciones necesarias para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
-
-VII. Proporcionar la información necesaria para la actualización permanente del Registro Público del Transporte, en lo que se refiere a la prestación del servicio, y la actualización de los padrones correspondientes;
-
-> <small>(F. DE E., G.O. 11 DE JULIO DE 2002)</small>
-
-VIII. Participar en la inspección y vigilancia del servicio; así como en la aplicación de sanciones, con base en los lineamientos que fijen las normas correspondientes;
-
-IX. Recibir, registrar y analizar las solicitudes de los interesados, que estén involucrados en conflictos de titularidad, respecto de las concesiones de transporte público individual de pasajeros en el Distrito Federal, y turnarlos para su tramitación a la Dirección Jurídica;
-
-X. Dictaminar con base en las disposiciones jurídicas y administrativas aplicables, la representatividad de los concesionarios o permisionarios del servicio, en los casos en que exista controversia respecto a la titularidad de los derechos derivados de las autorizaciones, permisos o concesiones, así como del equipamiento auxiliar, a fin de que el servicio no se vea afectado en su prestación regular, permanente, continua, uniforme e ininterrumpida;
-
-XI. Establecer la coordinación con las autoridades correspondientes, para determinar las políticas, estrategias, programas y cursos de capacitación para concesionarios, y operadores;
-
-XII. Promover acciones que tiendan a satisfacer, a hacer eficiente y a regular el servicio, y en su caso, coordinarse con las demás Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública para este propósito; y
-
-XIII. Realizar todas aquellas acciones tendientes a que el servicio, se lleve a cabo con eficiencia y eficacia, garantice la seguridad de los usuarios y peatones y los derechos de los concesionarios.
-
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
-
-###### Artículo 95
-
-TER.- Corresponde a la Dirección Jurídica de la Secretaría de Transportes y Vialidad:
-
-I. Autorizar y dirigir las diligencias de notificación en cumplimiento de las normas jurídicas y administrativas aplicables;
-
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
-
-II. Sustanciar los procedimientos administrativos, imponer las sanciones establecidas en la normatividad y dictar las resoluciones que correspondan en los casos de revocación, caducidad, cancelación y rescisión de los permisos, concesiones, licencias y autorizaciones cuando proceda, de conformidad con las disposiciones legales aplicables y proceder legalmente en caso de comisión de delitos;
-
-III. Sustanciar los recursos de inconformidad, interpuestos en contra de actos y resoluciones administrativas emitidos por las unidades administrativas de la Secretaría de Transportes y Vialidad;
-
-IV. Llevar a cabo los estudios jurídicos y emitir opinión respecto de las consultas que le encomienden las unidades administrativas adscritas a la Secretaria de Transportes y Vialidad;
-
-V. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que suscriba la Secretaría;
-
-VI. Proponer y mantener actualizados los criterios de interpretación de las disposiciones jurídicas y administrativas relativas al ámbito de competencia de la Secretaría;
-
-VII. Recibir, contestar, dar seguimiento y promover las demandas y recursos legales pertinentes en los juicios de amparo, de nulidad, lesividad, civiles, penales, laborales y administrativos en los que intervenga la Secretaría;
-
-VIII. Iniciar los procedimientos jurídico-administrativos relativos a los conflictos de titularidad de las concesiones del transporte público, agotando todas y cada una de las etapas del procedimiento, de conformidad con lo establecido por las disposiciones legales aplicables; y
-
-IX. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de transporte público y vialidad y aquellos en que resulte afectada la Secretaría.
 
 ###### Artículo 95 Bis.
 
@@ -7536,9 +7548,9 @@ XXVII.- Las demás que le instruya el titular de la Contraloría General; el tit
 
 > <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
 
-###### Artículo 113
+###### Artículo 113 Bis.
 
-BIS.- Corresponde a la Dirección Ejecutiva de Contraloría Ciudadana:
+Corresponde a la Dirección Ejecutiva de Contraloría Ciudadana:
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -7595,30 +7607,6 @@ XIII. Expedir previo cotejo copias certificadas de los documentos que obren en s
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
 XIV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
-
-###### Artículo 113 Bis.
-
-Corresponde a la Dirección Ejecutiva de Contraloría Ciudadana:
-
-I. Promover los procesos de transparencia de la gestión pública, rendición de cuentas y evaluación de la Administración Pública, a través de la vigilancia ejercida por los Contralores Ciudadanos en los órganos colegiados de la administración pública del Distrito Federal, de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
-
-II. Organizar y coordinar la Red de Contraloría Ciudadana integrada por personas acreditadas como contralores ciudadanos por el Jefe de Gobierno del Distrito Federal, así como proponer la normatividad para su integración y la evaluación de su funcionamiento;
-
-III. Establecer los vínculos necesarios con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las funciones de vigilancia de los contralores ciudadanos en sus órganos colegiados;
-
-IV. Integrar, sistematizar, remitir a las áreas competentes y dar seguimiento a las propuestas, opiniones, quejas y denuncias de los contralores ciudadanos con relación a su actividad en las diversas dependencias, unidades administrativas, órganos político administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
-
-V. Desarrollar un sistema de formación, asesoría y capacitación a los Contralores Ciudadanos para el desempeño de sus funciones;
-
-VI. Supervisar y evaluar la actuación y desempeño de los contralores ciudadanos y proponer las medidas para hacer más eficiente su labor en la Administración Pública del Distrito Federal;
-
-VII. Requerir información a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública sobre la atención y seguimiento que le han dado a las propuestas y opiniones emitidas por los Contralores Ciudadanos, así como gestionar y coordinar sus visitas ante dichos órganos administrativos, para la realización de las funciones que tienen encomendadas;
-
-VIII. Realizar estudios en materia de transparencia de la gestión pública, rendición de cuentas y participación ciudadana, en coordinación con la Red de Instituciones Asesoras o con aquellos sectores de la sociedad relacionados con estas materias;
-
-IX. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos que hayan contribuido a la eficiencia y transparencia de la gestión de la Administración Pública del Distrito Federal; y
-
-X. Participar en las instancias colegiadas, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de participación ciudadana.
 
 #### SECCION XIV
 
@@ -7940,7 +7928,7 @@ DE LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-Artículo 119 Cuater.- Corresponde a la Dirección General de Trabajo y Previsión Social:
+Artículo 119 Cuater (sic).- Corresponde a la Dirección General de Trabajo y Previsión Social:
 
 I. Vigilar la observancia y aplicación de la Ley Federal del Trabajo, los Reglamentos y las disposiciones relativas de jurisdicción local;
 
@@ -8482,9 +8470,9 @@ Los titulares de los Órganos Político-Administrativos, tendrán la facultad de
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
 
-###### Artículo 122
+###### Artículo 122 Bis.
 
-Bis.- Para el despacho de los asuntos que competen a los Órganos Político-Administrativos, se les adscriben las siguientes Unidades Administrativas:
+Para el despacho de los asuntos que competen a los Órganos Político-Administrativos, se les adscriben las siguientes Unidades Administrativas:
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -8791,290 +8779,6 @@ E) Dirección General de Desarrollo Social; y
 > <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 F) Dirección General de Medio Ambiente y Desarrollo Sustentable.
-
-###### Artículo 122 Bis.
-
-Para el despacho de los asuntos que competen a los órganos políticos-administrativos, se les adscriben las siguientes Unidades Administrativas:
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-I. Al Órgano Político-Administrativo en Álvaro Obregón;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Desarrollo Delegacional.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-II. Al Órgano Político-Administrativo en Azcapotzalco;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social;
-
-F) Dirección General de Desarrollo Económico; y
-
-G) Dirección General de Participación Ciudadana.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-III. Al Órgano Político-Administrativo en Benito Juárez;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-D) Dirección General de Desarrollo Social;
-
-> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-E) Dirección General de Desarrollo Delegacional; y
-
-> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-F) Dirección General de Desarrollo de Infraestructura.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-IV. Al Órgano Político-Administrativo en Coyoacán;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo y Servicio Urbanos;
-
-D) Dirección General de Desarrollo Social;
-
-E) Dirección General de Seguridad Pública y Participación Ciudadana;
-
-F) Dirección General de Desarrollo Delegacional; y
-
-G) Dirección General de Cultura.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-V. Al Órgano Político-Administrativo en Cuajimalpa de Morelos;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Recursos Naturales y Áreas Protegidas.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-VI. Al Órgano Político-Administrativo en Cuauhtémoc;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social;
-
-F) Dirección General de Participación Ciudadana y Gestión Social; y
-
-G) Dirección General de Seguridad Pública.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-VII. Al Órgano Político-Administrativo en Gustavo A. Madero;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Desarrollo Delegacional.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-VIII. Al Órgano Político-Administrativo en Iztacalco;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras, Servicios y Desarrollo Urbano;
-
-E) (SIC) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Participación Ciudadana.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-IX. Al Órgano Político-Administrativo en Iztapalapa;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Desarrollo Delegacional.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-X. Al Órgano Político-Administrativo en La Magdalena Contreras;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Desarrollo Social;
-
-E) Dirección General de Medio Ambiente y Ecología;
-
-F) Dirección General de Desarrollo Sustentable;
-
-G) Dirección General de Participación Ciudadana; y
-
-H) Dirección General de Colonia y Tenencia de la Tierra.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XI. Al Órgano Político-Administrativo en Miguel Hidalgo;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Desarrollo Delegacional.
-
-> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-G) Dirección General de Gerencia Delegacional.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XII. Al Órgano Político-Administrativo en Milpa Alta;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social;
-
-F) Dirección General de Desarrollo Delegacional; y
-
-G) Dirección General de Ecología.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XIII. Al Órgano Político-Administrativo en Tláhuac;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Desarrollo Económico y Rural.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XIV. Al Órgano Político-Administrativo en Tlalpan;
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social;
-
-F) Dirección General de Ecología y Desarrollo Sustentable; y
-
-G) Dirección General de Enlace Territorial.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XV. Al Órgano Político-Administrativo en Venustiano Carranza, y
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Desarrollo Delegacional.
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XVI. Al Órgano Político-Administrativo en Xochimilco.
-
-A) Dirección General Jurídica y de Gobierno;
-
-B) Dirección General de Administración;
-
-C) Dirección General de Obras y Desarrollo Urbano;
-
-D) Dirección General de Servicios Urbanos;
-
-E) Dirección General de Desarrollo Social; y
-
-F) Dirección General de Medio Ambiente y Desarrollo Rural.
 
 ### Capítulo II
 
@@ -9458,9 +9162,9 @@ XXIV. (DEROGADA, G.O. 5 DE AGOSTO DE 2008)
 
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2005)</small>
 
-###### Artículo 131
+###### Artículo 131 Bis.
 
-Bis.- La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
 
 I. Dar mantenimiento a escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normativa que al efecto se expida por las dependencias competentes;
 
@@ -9473,20 +9177,6 @@ IV. Dar mantenimiento a los mercados públicos que se encuentran a su cargo, de 
 > <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 V. Establecer e incrementar a través de los comités vecinales, la participación de los vecinos, para colaborar con la autoridad del Órgano Político-Administrativo, en la ejecución de una obra o la prestación de un servicio en su ámbito de competencia, aportando para su realización recursos económicos, materiales o trabajo personal.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
-
-###### Artículo 131 Bis.
-
-La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
-
-I. Dar mantenimiento a escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normativa que al efecto se expida por las dependencias competentes;
-
-II. Prestar en su demarcación territorial el suministro de agua potable y alcantarillado, que no estén asignados a otra dependencia o entidad, atendiendo a los lineamientos que efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
-
-III. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las dependencias, y
-
-IV. Dar mantenimiento a los mercados públicos que se encuentran a su cargo, de conformidad con la normativa que al efecto se expida por las dependencias competentes.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -10140,75 +9830,11 @@ I. Prestar en forma gratuita servicios funerarios cuando se trate de personas in
 
 II. Coordinar las bibliotecas de la Delegación y fortalecer sus actividades y el servicio a la comunidad.
 
-###### Artículo 144
-
-BIS.- (DEROGADO, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
 ###### Artículo 144 Bis.
 
-Corresponde a la Dirección General de Seguridad Pública y Participación Ciudadana:
+(DEROGADO, G.O. 29 DE SEPTIEMBRE DE 2006)
 
-I. Formular, ejecutar y vigilar el Programa de Seguridad Pública Delegacional, en coordinación con la Secretaría de Seguridad Pública con aprobación del Comité Delegacional de Seguridad Pública;
-
-II. Promover la vinculación de la participación ciudadana con la acción policial para hacer posible una respuesta eficaz a la demanda de los ciudadanos en esta materia;
-
-III. Proponer en el ámbito de la demarcación territorial de Órgano Político Administrativo, los planes y programas, en coordinación con la Secretaría de Seguridad Pública, para salvaguardar la integridad y derechos de las personas, preservando la libertad, el orden y la paz pública;
-
-IV. Acordar con el Jefe Delegacional lo referente a Seguridad Pública, así como supervisar el cumplimiento de sus instrucciones, por parte de la Policía Sectorial bajo su mando;
-
-V. Enlazar los Comités de Seguridad Pública con la Secretaría de Seguridad Pública y Procuraduría General de Justicia del Distrito Federal, y con las otras áreas del Órgano Político-Administrativo;
-
-VI. Participar, con las Dependencias competentes en materia de seguridad pública en los espectáculos públicos masivos;
-
-VII. Ejecutar las acciones operativas que acuerde el Jefe Delegacional, así como mantenerlo informado del desarrollo y culminación de las mismas;
-
-VIII. Planear, instruir, coordinar y supervisar las acciones encaminadas al buen funcionamiento de las (sic) Secretaría Técnica;
-
-IX. Revisar y en su caso someter a firma del Jefe Delegacional los convenios procedentes en la materia de Seguridad Pública;
-
-X. Supervisar de manera permanente el desempeño de los jefes de Sector;
-
-XI. Convocar a los Jefes de Sector, Fiscal Desconcentrado de la Procuraduría General de Justicia del Distrito Federal, Comités Vecinales y ciudadanía a las sesiones del Comité Delegacional de Seguridad Pública;
-
-XII. Elaborar el Programa Delegacional de Seguridad Pública y presentarlo ante la ciudadanía;
-
-XIII. Diseñar, proponer, coordinar y supervisar programas de participación ciudadana para la prevención del delito;
-
-XIV. Servir de enlace con la Comisión de Derechos Humanos del Distrito Federal, y el Consejo de Honor y Justicia de la Policía Preventiva del Distrito Federal;
-
-XV. Elaborar estadísticas sobre la incidencia delictiva con la finalidad de detectar zonas de alto riesgo, teniendo una perspectiva general de la delincuencia en la demarcación territorial del Órgano Político-Administrativo, así como proponer acciones que permitan reducir la incidencia delictiva;
-
-XVI. Coordinar con los Jefes del Sector las acciones para auxiliar a la población en caso de desastre;
-
-XVII. Solicitar a las instancias correspondientes, el apoyo de grupos especiales, previo visto bueno del Secretario Técnico y autorización del Jefe Delegacional;
-
-XVIII. Presentar ante el Secretario competente los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad respecto de actos que presuntamente contravengan las disposiciones;
-
-XIX. Proponer a la Dependencia respectiva la aplicación de las medidas para mejorar la vialidad, circulación y seguridad de vehículos y peatones en las vialidades primarias; y coadyuvar con la Secretaría de Transporte y Vialidad en la realización de los estudios técnicos sobre la localización, normas y tarifas que deberán aplicarse para la ubicación, construcción y funcionamiento de los estacionamientos públicos;
-
-XX. Reportar a la policía sectorial los vehículos abandonados, los que obstruyen la vía pública o se encuentren estacionados en lugares prohibidos;
-
-XXI. Diseñar, proponer y ejecutar las políticas publicas en materia de concertación política y gestión social;
-
-XXII. Coadyuvar, en el ámbito de su competencia, en la instrumentación de los mecanismos de participación ciudadana previstos en la Ley respectiva;
-
-XXIII. Registrar y clasificar las demandas y peticiones ciudadanas, cuando corresponda al ámbito del Órgano Político-Administrativo, así como llevar el seguimiento y evaluación de su atención;
-
-XXIV. Participar como enlace y gestión institucional en la búsqueda de soluciones a conflictos y demandas de carácter social en el Distrito Federal, en coordinación con las demás áreas del órgano político–administrativo, así como con las dependencias, unidades administrativas, órganos desconcentrados y entidades competentes, con los grupos involucrados, basados en una cultura de corresponsabilidad entre el Gobierno y la sociedad;
-
-XXV. Auxiliar en las relaciones con los ámbitos de representación vecinal;
-
-XXVI. Promover la creación de espacios de concertación entre los grupos sociales y sectoriales que se encuentren en conflicto;
-
-XXVII. Realizar los estudios necesarios para conocer los planteamientos ciudadanos y proponer las mejores vías para su solución;
-
-XXVIII. Realizar recorridos y visitas periódicas a las unidades territoriales de la demarcación; y
-
-XXIX. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
-
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 145.
 
@@ -10292,9 +9918,9 @@ XIX. Realizar recorridos y visitas periódicas a las unidades territoriales de l
 
 > <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
 
-###### Artículo 145
+###### Artículo 145 Bis.
 
-BIS.- Corresponde a la Dirección General de Cultura:
+Corresponde a la Dirección General de Cultura:
 
 I. Representar al Titular del Órgano Político Administrativo en actividades culturales y artísticas y firma de convenios en materia de difusión del arte y cultura;
 
@@ -10346,9 +9972,9 @@ XVIII. Las demás que le atribuyan los ordenamientos jurídicos y administrativo
 
 > <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-###### Artículo 145
+###### Artículo 145 Ter.
 
-TER.- La Dirección General de Servicios Urbanos, tendrá además de las señaladas en el artículo 127 las siguientes atribuciones:
+La Dirección General de Servicios Urbanos, tendrá además de las señaladas en el artículo 127 las siguientes atribuciones:
 
 I. Ejecutar los Programas Delegacionales de obras para el abastecimiento de agua potable y servicio de drenaje, alcantarillado a partir de redes secundarias, así como dar mantenimiento a las mismas, conforme a la autorización y normas que al efecto expida la autoridad competente y tomando en cuenta las recomendaciones que sea factible incorporar, de la comisión que al efecto se integre;
 
@@ -10367,54 +9993,6 @@ VII. Proponer e impulsar programas integrales de mejoramiento y ampliación de l
 VIII. Formular y difundir acciones de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente; y
 
 IX. Vigilar el cumplimiento de las disposiciones en materia ambiental, de conformidad con las disposiciones jurídicas y administrativas aplicables.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
-
-###### Artículo 145 Bis.
-
-Corresponde a la Dirección General de Cultura:
-
-I. Representar al Titular del Órgano Político Administrativo en actividades culturales y artísticas y firma de convenios en materia de difusión del arte y cultura;
-
-II. Ejercer, las atribuciones que le correspondan al Órgano Político–Administrativo, en los convenios que se celebren en materia de cultura, conforme a las disposiciones legales aplicables;
-
-III. Proponer al titular del Órgano Político–Administrativo modificaciones a los programas culturales y artísticos, que propicien un interés y desenvolvimiento turístico dentro de su demarcación territorial;
-
-IV. Promover y difundir la cultura y las artes;
-
-V. Organizar la educación artística, así como promover actividades en bibliotecas públicas y museos, y apoyar exposiciones artísticas y otros eventos de interés cultural;
-
-VI. Fomentar las relaciones de orden cultural y artístico, para realizar investigaciones o estudios en estas materias;
-
-VII. Planear, dirigir y coordinar las tareas relacionadas con las lenguas indígenas en la demarcación territorial de Coyoacán, y promover las tradiciones y el arte popular de la misma;
-
-VIII. Diseñar y promover la política editorial en materia de cultura y las artes, y proponer directrices de conformidad con los programas educativos y culturales de la demarcación territorial de Coyoacán;
-
-IX. Proponer la apertura al público y en particular a las asociaciones artísticas y culturales, de espacios para el cultivo de esas actividades;
-
-X. Fomentar la asociación de personas dedicadas a las actividades del arte y la cultura;
-
-XI. Establecer las políticas culturales y de gestión de la Dirección General considerando las directrices marcadas por el Titular del Órgano Político–Administrativo;
-
-XII. Aprobar los programas de fomento turísticos y fortalecer la promoción del turismo en la Delegación;
-
-XIII. Proponer la integración a los programas de cultura de los perfiles que caracterizan la identidad cultural de los habitantes de la demarcación;
-
-XIV. Coordinar las bibliotecas de la Delegación y fortalecer sus actividades y el servicio a la comunidad;
-
-XV. Promover, apoyar e impulsar las tareas de preservación del patrimonio artístico e histórico ubicado en la demarcación territorial de Coyoacán, de conformidad con la legislación aplicable, y
-
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVI. Apoyar las actividades artísticas y culturales de los museos ubicados en la Delegación Coyoacán y coordinar las actividades administrativas, artísticas y culturales de los museos dependientes de la Delegación;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVII. Apoyar la educación artística en las escuelas primarias dependientes de la Secretaría de Educación Pública en la Delegación Coyoacán, y
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVIII. Las demás que le atribuyan los ordenamientos jurídicos y administrativos correspondientes, así como las que de manera directa le asigne el titular del Órgano Político-Administrativo y las que establezcan los manuales administrativos.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -10603,12 +10181,6 @@ XX. Proponer a la Dependencia respectiva la aplicación de las medidas para mejo
 XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2005)</small>
-
-###### Artículo 152
-
-Bis.- Corresponde a la Dirección General de Desarrollo Social además de las atribuciones señaladas en el artículo 128; administrar, organizar y supervisar los centros de desarrollo infantil ubicados en su demarcación en coordinación con la dependencia respectiva.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 152 Bis.
 
@@ -11120,45 +10692,9 @@ XVIII. Realizar acciones tendientes a la promoción turística de la demarcació
 
 XIX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-Artículo 172 BIS.- (DEROGADO, G.O. 17 DE NOVIEMBRE DE 2006)
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
-
 ###### Artículo 172 Bis.
 
-Corresponde a la Dirección General de Gerencia Delegacional las siguientes atribuciones:
-
-I. Coordinar y dar seguimiento a los programas que se implementen al interior del órgano político-administrativo;
-
-II. Promover y conducir los programas de gobierno a ejecutar por el órgano político-administrativo;
-
-III. Promover acciones de desarrollo de los programas de gobierno encaminados a la mejora del servicio dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-IV. Vigilar el cumplimiento y ejecución de los programas de gobierno de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-V. Participar en la elaboración, promoción, fomento y ejecución de los proyectos productivos, que en el ámbito de la jurisdicción del órgano político-administrativo, se den de acuerdo a los programas, lineamientos y políticas establecidas;
-
-VI. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político-administrativo o en los cuales participe, en materia de gestión delegacional;
-
-VII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del órgano político-administrativo;
-
-VIII. Organizar, supervisar y controlar las acciones en materia de administración financiera y de desarrollo urbano a efecto de que sean congruentes con el programa de trabajo delegacional;
-
-IX. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político administrativo o en los cuales participe, en materia de transparencias y acceso a la información;
-
-X. Formular proyectos que promuevan la gestión delegacional, para ser presentadas a las instancias correspondientes;
-
-XI. Brindar asesoría y apoyo para la planeación, dirección y control de estrategias en procedimientos para las Direcciones Generales de acuerdo a las instrucciones del Jefe Delegacional, a efecto de definir el marco técnico y normativo necesario para el ejercicio de sus facultades;
-
-XII. Coadyuvar en la revisión o formulación de lineamientos, medidas administrativas, manuales y disposiciones que emitan las diferentes áreas de la Delegación;
-
-XIII. Coadyuvar en la definición de acciones preventivas en áreas de riesgo, con el fin de evitar responsabilidades administrativas de los servidores públicos de la Delegación;
-
-XIV. Dirigir los estudios e investigaciones sobre los temas de interés que determine el Jefe Delegacional;
-
-XV. Participar en el análisis de las disposiciones jurídicas que deba aplicar el Jefe Delegacional dentro del marco de sus atribuciones legales, a efecto de cumplir el marco de la legalidad de los actos administrativos; y
-
-XVI. Las demás que de manera directa le asigne el titular del órgano político-administrativo, así como las que se establezcan en los Manuales Administrativos.
+(DEROGADO, G.O. 17 DE NOVIEMBRE DE 2006)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -12467,3 +12003,11 @@ CUARTO.- Se derogan el numeral 5, de la fracción VI, del artículo 7 y el artí
 QUINTO.- Los recursos humanos, financieros y materiales a cargo de la Dirección General del Instituto del Deporte del Distrito Federal y la Coordinación General de Cultura Deportiva, Física y de Salud del Distrito Federal, dentro de los treinta días posteriores a la publicación del presente Reglamento, se transferirán al Instituto del Deporte del Distrito Federal, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
 
 SEXTO.- Los asuntos competencia de la Dirección General del Instituto del Deporte del Distrito Federal y la Coordinación General de Cultura Deportiva, Física y de Salud del Distrito Federal, a partir de la entrada en vigor del presente Decreto, serán tramitados y resueltos por el Instituto del Deporte del Distrito Federal.
+
+G.O. 15 DE OCTUBRE DE 2008.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y aplicación.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
