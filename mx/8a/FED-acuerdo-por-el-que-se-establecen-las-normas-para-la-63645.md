@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "2008-07-17"
+last_updated: "2008-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,86 +19,64 @@ issue_date: "1994-08-28"
 ---
 # ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 17 de julio de 2008.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 16 de octubre de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 2o., 5o., fracción IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 2o., 5o., fracciones IV y VI, 9o., 10, 11, 25, y 66 de la Ley de Comercio Exterior, 1, fracción VI y 7 del Acuerdo por el que se implementa una medida de transición temporal sobre las importaciones de diversas mercancías originarias de la República Popular China, y el Acuerdo sobre Normas de Origen de la Organización Mundial del Comercio, y
 
 CONSIDERANDO
 
-Que el 31 de marzo de 2008 se publicó en el Diario Oficial de la Federación el Decreto por el que se otorgan facilidades administrativas en Materia Aduanera y de Comercio Exterior dando a conocer diversas medidas enfocadas a otorgar facilidades administrativas a los usuarios de comercio exterior, que agilicen, faciliten y simplifiquen sus operaciones, mediante esquemas administrativos de operación sencilla y de fácil comprensión para los usuarios;
+Que resulta conveniente establecer normas para la determinación y certificación del país de origen de las mercancías que se importen a territorio de los Estados Unidos Mexicanos para los efectos de la aplicación de la Ley de Comercio Exterior;
 
-Que el citado Decreto establece que las Secretarías de Hacienda y de Crédito Público y de Economía deberán de implementar acciones de simplificación, automatización y mejora de los procesos aduaneros y de comercio exterior, que contemple, entre otras, la incorporación de tecnología y el desarrollo de esquemas adicionales para realizar operaciones de comercio exterior, la disminución de medidas de control que incrementan tiempos y costos de las operaciones aduaneras, entre otras;
+Que el Acuerdo Sobre Normas de Origen de la Organización Mundial del Comercio reconoce que el establecimiento y la aplicación de normas de origen claras y previsibles facilitan las corrientes de comercio internacional, y permite que dichas normas se elaboren y apliquen de manera imparcial, transparente, previsible, coherente y que no tenga efectos en el comercio;
 
-Que el mecanismo de certificación de origen para los efectos de cuotas compensatorias, resulta complejo, lo que aleja a empresas micro, pequeñas y medianas de la posibilidad de incursionar en el comercio exterior;
+Que con motivo de la adhesión de China a la Organización Mundial del Comercio (OMC) México negoció una reserva con ese país que le permitió mantener cuotas compensatorias sobre diversos productos durante seis años contados a partir del 11 de diciembre de 2001, fecha en que se hizo efectiva la adhesión;
 
-Que a efecto de que el marco jurídico genere certidumbre entre los importadores de mercancía por la que se debe pagar una cuota compensatoria, debe simplificarse manteniendo únicamente el esquema establecido en el artículo tercero del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, según el cual el país de origen de las mercancías a importar deberá de declararse en el pedimento de importación y eliminarse la doble regulación que implica la obtención de los documentos a que se refiere el artículo cuarto del mismo Acuerdo, sin que ello exima a los importadores de pagar las cuotas compensatorias, que en su caso, apliquen, y
+Que entre agosto y diciembre de 2007, la Secretaría de Economía inició sendos procedimientos administrativos de revisión de las cuotas compensatorias que fueron reservadas, con objeto de determinar la necesidad de mantener las medidas a la luz de las disposiciones pertinentes del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio, incluidos el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 y el Protocolo de Adhesión de la República Popular China a la OMC;
 
-Que la Comisión de Comercio Exterior ha opinado favorablemente sobre las medidas contenidas en el presente instrumento, he tenido a bien expedir el siguiente:
+Que los seis años de la reserva contenida en el referido Protocolo de Adhesión de China, concluyeron el 11 de diciembre de 2007 y, aunado a la incertidumbre de qué cuotas compensatorias podrían mantenerse como resultado de los procedimientos administrativos de revisión, los diversos sectores industriales hicieron patentes los riesgos para la estabilidad de la planta productiva nacional y los empleos que genera, que representa el impacto que China tiene en el comercio internacional y las circunstancias en las que se da, y específicamente la importancia que ha adquirido en los últimos años como fuente de importaciones en México, al grado que se ha convertido en el segundo socio comercial del país;
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+Que en estas circunstancias, México y China, en un ánimo de cooperación y con el objeto de desarrollar más su relación comercial bilateral, llevaron a cabo negociaciones con miras a atender la preocupación expresada por México en torno de su industria, en relación, especialmente, con un grupo de productos identificados por los propios sectores industriales, y la necesidad de contar con un plazo que les permitiera ajustarse a las nuevas condiciones de la competencia que los productos chinos representan; así como la exigencia de China por tener certidumbre sobre la conclusión de la reserva contenida en el aludido Protocolo de Adhesión de China y la eliminación de las cuotas compensatorias en una fecha precisa;
 
-###### ARTICULO UNICO.
+Que el 1 de junio de 2008 se suscribió el Acuerdo entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República Popular de China en Materia de Medidas de Remedio Comercial (Acuerdo), mismo que fue aprobado por el Senado de la República el 20 de junio de 2008 y publicado en el Diario Oficial de la Federación el 13 de octubre de 2008;
 
-Se derogan los párrafos tercero, cuarto y quinto del artículo Segundo, pasando el actual párrafo sexto a ser tercero y los artículos quinto, sexto, séptimo y octavo, así como los anexos II, III, IV, VI y VII, y se reforma el artículo Cuarto del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación, reformado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo de 2001, 29 de junio de 2001, 6 de septiembre de 2002, 30 de mayo de 2003, 14 de julio de 2004 y 19 de mayo de 2005, para quedar como sigue:
+Que en dicho Acuerdo, las Partes confirmaron que la reserva de México contenida en el Anexo 7 del citado Protocolo de Adhesión de China, concluyó su vigencia el 11 de diciembre de 2007, y México no podrá invocarla en el futuro para mantener derechos antidumping sobre bienes originarios de China;
 
-“ARTICULO SEGUNDO.- Para efectos del presente Acuerdo se entiende por:
+Que el Acuerdo dispone que México revocará las cuotas compensatorias que fueron reservadas contra productos chinos y podrá adoptar un mecanismo temporal de transición aplicable a la importación de ciertas mercancías originarias de China, el cual desaparecerá progresivamente de modo que las medidas queden totalmente eliminadas el 11 de diciembre de 2011;
 
-. . .
+Que la implementación de la medida de transición se vuelve urgente ante la eliminación de las cuotas compensatorias, dada la importancia para la economía nacional de los sectores productivos involucrados, de modo que la producción nacional cuente con una transición ordenada, que le dé estabilidad y le permita adaptarse mejor a las nuevas circunstancias en las que aplican plenamente las reglas de la OMC entre México y China, lo cual redundará en un beneficio para el país;
 
-(Se deroga).
+Que en virtud de lo anterior, es necesario modificar el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, reformado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de julio de 1999, 30 de junio de 2000, 1 y 23 de marzo de 2001, 29 de junio de 2001, 6 de septiembre de 2002, 30 de mayo de 2003, 14 de julio de 2004, 19 de mayo de 2005 y 17 de julio de 2008, para que dichas normas sean aplicables también para otros efectos no preferenciales, y
 
-(Se deroga).
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-(Se deroga).
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-. . .
+###### ARTICULO PRIMERO.
 
-###### ARTICULO CUARTO.
+Se REFORMAN el nombre y los artículos primero y tercero, primer párrafo del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, y sus modificaciones, para quedar como sigue:
 
-Para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria provisional o definitiva, no estará obligado a pagarla si en la declaración a que se refiere el artículo tercero del presente instrumento, el país de origen de las mercancías es distinto del país que exporta las mercancías en condiciones de prácticas desleales de comercio internacional.
+ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, PARA EFECTOS NO PREFERENCIALES
 
-###### ARTICULO QUINTO.
+###### ARTICULO PRIMERO.
 
-(Se deroga).
+El presente Acuerdo tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos, con motivo de la aplicación de cuotas compensatorias y la medida de transición a que se refiere el Acuerdo por el que se implementa una medida de transición temporal sobre las importaciones de diversas mercancías originarias de la República Popular China, publicado en el Diario Oficial de la Federación el 14 de octubre de 2008. Las normas para la determinación y certificación, a que se refiere este instrumento, son para efectos distintos al otorgamiento de preferencias arancelarias conforme a los tratados o convenios internacionales de los que México sea parte.
 
-###### ARTICULO SEXTO.
+###### ARTICULO TERCERO.
 
-(Se deroga).
+Para efectos de lo dispuesto en este Acuerdo, el país de origen de las mercancías se determinará de conformidad con las Reglas de País de Origen y deberá declararse en el pedimento de importación para efectos aduaneros. No obstante lo anterior, si la mercancía ostenta alguna marca de origen conforme a la cual el país de origen de la mercancía corresponde a un país que exporta dicha mercancía en condiciones de prácticas desleales de comercio internacional o al que se refiere la medida de transición señalada en el artículo primero del presente Acuerdo, se considerará originaria de dicho país.
 
-###### ARTICULO SEPTIMO.
+###### ARTICULO SEGUNDO.
 
-(Se deroga).
+Se REFORMA el Apéndice de Reglas Específicas del Anexo I del Acuerdo referido en el artículo anterior, únicamente respecto de las posiciones arancelarias que se mencionan a continuación:
 
-###### ARTICULO OCTAVO.
-
-(Se deroga).
-
-ANEXO II
-
-(Se deroga).
-
-ANEXO III
-
-(Se deroga).
-
-ANEXO IV
-
-(Se deroga).
-
-ANEXO VI
-
-(Se deroga).
-
-ANEXO VII
-
-(Se deroga)”.
+(VEASE ARCHIVO ANEXO)
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 4 de julio de 2008.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 14 de octubre de 2008.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
